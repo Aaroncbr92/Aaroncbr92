@@ -156,7 +156,18 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
   una unidad hay varios códigos postales y el número de secciones es elevado**.
 - **LAS DOS TAREAS DE LA UNIDAD** · `[doc]` · **de carácter COLECTIVO** —descarga, apertura,
   clasificación por códigos y alta y liquidación de registrados— · **de carácter INDIVIDUAL**
-  —embarriado, reparto y tratamiento de la correspondencia no entregada—.
+  —embarriado, reparto y tratamiento de la correspondencia no entregada— · **el EMBARRIADO es
+  individual**, y por ahí cae: **Reparto, nº 1** ofrecía descarga, apertura y clasificación por
+  códigos, las tres colectivas.
+- **LOS EPI SON DEL QUE NO LOS USA** · `[doc]` · **la no utilización de los equipos de protección
+  individual (EPI) es responsabilidad DEL PERSONAL DE REPARTO**, no del responsable ni del jefe de
+  sector —cayó en **Reparto, nº 92**— · listado completo en el **procedimiento PR0013**; en dos o
+  tres ruedas, **casco** y **chaleco de alta visibilidad**.
+- **LA TARJETA DE COMBUSTIBLE** · `[doc]` · **la custodia el RESPONSABLE de la unidad** y la entrega
+  **bajo firma** · **cada vehículo tiene la suya**; usar la de otro exige **autorización del jefe de
+  sector** · **para algo que no sea repostar, la misma autorización y sólo cuatro conceptos**:
+  **peajes**, **aparcamiento**, **lavados** e **hinchado de neumáticos** —cayó en **Reparto, nº
+  75**—.
 
 ## El equipamiento
 
@@ -328,6 +339,11 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
 | **EED en reparto** | **Sólo si el menor es mayor de 14 años Y tiene DNI**; **si no se cumplen LAS DOS condiciones, se devuelve como «DESCONOCIDO»** |
 | **Entrega EN OFICINA a menores de 14 años** | **Se realiza a la persona DE SU FAMILIA que acredite tal condición** mediante documento válido **que además permita identificar al menor** |
 
+- **LAS TRES MODALIDADES DE ENTREGA REGISTRADA, Y LA CUARTA QUE NO EXISTE** · `[doc]` · **EED**,
+  que puede llevar además **PEE** o **escaneo más validación** · **entrega con PEE** · **ENTREGA CON
+  RECOGIDA**, en la que **tras firmar el cliente en la tableta se desencadena la recogida documental
+  y la preparación del envío de vuelta** · **la «entrega con pago diferido» NO existe**: cayó en
+  **Atención al Cliente, nº 52**.
 - **LAS TRES REGLAS PROPIAS DE LA EED** · `[doc]` · **sólo puede entregarse al destinatario, NO
   admite autorizados** · **sólo puede ir dirigida a PERSONAS FÍSICAS, no admite entregas a personas
   jurídicas** · **la firma SIEMPRE tiene que recogerse en la TABLETA**, porque **si el puesto no
@@ -347,7 +363,9 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
 
 - **LAS DOS FECHAS DE LA FIRMA EN PDA** · `[doc]` · **desde el 10 de mayo de 2021 es obligatorio
   recoger la firma en la PDA para TELEGRAMA, BUROFAX y NOTIFICACIONES de cualquier tipo** · **desde
-  el 1 de julio de 2021 se recoge también en los envíos CON IMPORTES A COBRAR**.
+  el 1 de julio de 2021 se recoge también en los envíos CON IMPORTES A COBRAR** · **y la lista es
+  CERRADA: para el resto NO es obligatorio**, y **el Paq Estándar es «el resto»** —cayó en
+  **Reparto, nº 56**—.
 - **QUÉ SE ENCASILLA DIRECTAMENTE EN BUZÓN, SIN INTENTO PERSONALIZADO** · `[doc]` · siempre que las
   dimensiones lo permitan: **carta urgente nacional (UX)**, **envío ordinario con mercancía (U)**
   —siempre que en la PDA no aparezcan importes—, **Paq Ligero** y **Paq Internacional Light**,
@@ -368,6 +386,11 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
 
 ## La entrega en oficina y sus almacenes
 
+- **EL APARTADO ES UN DOMICILIO POSTAL** · `[doc]` · **un registrado dirigido a un apartado de
+  Correos NO tiene entrega domiciliaria**: va **al almacén de apartados**, con **aviso de llegada al
+  casillero**, que **se reimprime cada vez que se asigna un envío nuevo** · cayó en **Atención al
+  Cliente, nº 15**, frente a un ordinario internacional, un certificado con valor declarado y un
+  libro ligero, **que sí se entregan a domicilio**.
 - **QUÉ ENVÍOS NO TIENEN ENTREGA DOMICILIARIA** · `[doc]` · **libros de más de 500 g y publicaciones
   periódicas que superen los 800 g** · **la paquetería con entrega en oficina de referencia (PR) u
   oficina elegida (PS o PL)** · **los envíos de dinero INTERNACIONALES**, por la Ley de prevención
@@ -377,6 +400,16 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
 - **LOS SEIS ALMACENES FÍSICAMENTE DIFERENCIADOS** · `[doc]` · **avisados**, **apartados**,
   **ordinarios no domiciliaria**, **paquetería no domiciliaria y lista**, **estacionados** y
   **archivo**.
+- **EL DE ARCHIVO SUENA A DEPÓSITO Y NO LO ES** · `[doc]` · **«el correo registrado devuelto que no
+  ha sido posible entregar al remitente pasa a la situación de archivo»** · **ni el del destinatario
+  de vacaciones, ni lo que no cabe en avisados, ni un servicio contratado** —cayó en **Atención al
+  Cliente, nº 21**— · **SGIE los separa en el listado de sobrantes con la letra A en la columna
+  «tipo»**, y van **en almacén aparte, separando nacionales de internacionales**.
+- **QUÉ REEMBOLSOS SE ENTREGAN EN OFICINA** · `[doc]` · **los que por sus características NO tienen
+  entrega domiciliaria** y **los AVISADOS por las unidades de reparto**, de ordinaria o de servicios
+  especiales · **ni todos por llevar importe, ni ninguno** —cayó en **Atención al Cliente, nº 71**—
+  · los que salieron a reparto y volvieron **llegan con el listado de SGIE** y **se dan de alta en
+  el almacén de la propia oficina, sin datos de remitente y destinatario**.
 
 | Permanencia · **la pregunta del epígrafe** | Plazo |
 |---|---|
@@ -497,6 +530,17 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
   de envíos**, **en lugar de corregir se introducen en BANDEJAS DIRECTAS para el destino correcto**,
   comunicando la incidencia a la unidad admisora de origen · **los mal encaminados se trabajan
   DIARIAMENTE y EN NINGÚN CASO se mezclan con los devueltos**.
+- **EL REENVÍO POSTAL, DESDE LA FICHA** · `[doc]` · **permite que quien cambia de domicilio reciba
+  su correspondencia en la nueva dirección durante un periodo limitado** · **ámbitos: NACIONAL e
+  INTERNACIONAL** —cayó en **Atención al Cliente, nº 83**— · **duración: uno, dos o seis meses** ·
+  **sus dos modalidades se distinguen por lo que pasa AL FINALIZAR**: **DEFINITIVO, lo que llegue al
+  domicilio original se devuelve al remitente como «desconocido»**; **TEMPORAL, se sigue cursando al
+  domicilio que figura en el envío** · **es al revés de lo que sugiere el nombre**, y por eso cayó
+  en **Atención al Cliente, nº 34**.
+- **EL BUZÓN DE VACACIONES, DESDE LA FICHA** · `[doc]` · **guarda en la oficina de referencia la
+  correspondencia ORDINARIA y los AVISOS DE LLEGADA de registrados** · **la registrada con entrega
+  bajo firma NO se guarda** · **se contrata en LAS OFICINAS y en LA WEB, y en las dos por
+  PARTICULARES Y EMPRESAS** —cayó en **Atención al Cliente, nº 20**—.
 - **REENVÍO POSTAL** · `[doc]` · **el testigo es NARANJA**, con el detalle del servicio y una
   **etiqueta REDONDA de alerta** · **la etiqueta se coloca TAPANDO LA DIRECCIÓN impresa en el
   anverso, pero DEJANDO VISIBLE EL NOMBRE del destinatario**, y **los envíos se liquidan con el
@@ -537,7 +581,14 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
 
 - **LA REGLA DE HOY** · `[doc]` · **todos los servicios rurales han de atender al público «AL PASO»
   durante toda su jornada laboral** para admisión y venta a través de la PDA, **tengan o no asignada
-  atención al público al puesto**.
+  atención al público al puesto** —cayó en **Reparto, nº 101**—.
+- **LA OTRA CLASIFICACIÓN, POR DÓNDE EMPIEZA LA JORNADA** · `[doc]` · **CONCENTRADOS: inician y
+  terminan en una unidad y colaboran en sus tareas generales** · **DIFERIDOS: no concentran en una
+  unidad**; empiezan en otro punto y **otro rural o una conducción les hace llegar el correo** ·
+  cayó en **Reparto, nº 63** · **no se cruza con los tipos I, II y III**.
+- **EL ALMACÉN DE MATERIAL NO ES DE LA UNIDAD** · `[doc]` · **la oficina técnica o sucursal de la
+  que dependen** lleva **el control financiero del metálico de las oficinas auxiliares y el almacén
+  de material** —cayó en **Reparto, nº 73**—.
 
 | Tipo operativo | Qué es | Alta de los envíos |
 |---|---|---|

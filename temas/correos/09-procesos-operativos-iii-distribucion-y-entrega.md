@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | Las **vigentes hoy**. Se citan literalmente los **artículos 37 y 41 a 43** del Reglamento y el **artículo 42.2** de la Ley 39/2015, **que es donde está la regla de las quince horas que el documento de empresa no menciona** |
 | **Normas de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139`, **Ley 3/2013** · `BOE-A-2013-5940` y **Ley Orgánica 3/2018** · `BOE-A-2018-16673` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 9**, reconocido ópticamente |
-| **Extensión** | **10.273 palabras** |
+| **Extensión** | **11.693 palabras** |
 
 <!-- /portada -->
 
@@ -54,6 +54,8 @@ dos se contesta comprendiendo el proceso: se contestan recordando el renglón.**
   - [Los tres supuestos del artículo 37.4](#los-tres-supuestos-del-artículo-374)
   - [Los otros apartados del artículo 37](#los-otros-apartados-del-artículo-37)
 - [3. Las unidades de distribución](#3-las-unidades-de-distribución)
+  - [Lo colectivo y lo individual, que se reparten así y no de otra manera](#lo-colectivo-y-lo-individual-que-se-reparten-así-y-no-de-otra-manera)
+  - [Tres reglas del vehículo y sus equipos](#tres-reglas-del-vehículo-y-sus-equipos)
 - [4. El equipamiento y el mobiliario](#4-el-equipamiento-y-el-mobiliario)
 - [5. Los cinco procesos de la unidad](#5-los-cinco-procesos-de-la-unidad)
   - [Descarga y clasificación general](#descarga-y-clasificación-general)
@@ -230,6 +232,41 @@ repartirán las URO**; **estos tamaños pueden variar** según el volumen recibi
 es el conjunto de calles o zonas cuyo reparto está asignado a un ACR**—; **la USE se divide en
 sectores, y los sectores en zonas de reparto**. **En las USE no hay secciones, sino zonas de
 reparto, y de ellas no dependen ACR rurales.**
+
+### Lo colectivo y lo individual, que se reparten así y no de otra manera
+
+**El trabajo de la unidad tiene dos clases de tarea, y la línea entre ellas es pregunta directa.**
+Del documento:
+
+> «**Tarea de carácter colectivo: descarga, apertura, clasificación por códigos y alta y liquidación
+> de envíos registrados.**»
+
+> «**Tarea de carácter individual: embarriado, reparto y tratamiento de la correspondencia no
+> entregada.**»
+
+---
+
+**Cuatro colectivas y tres individuales.** **El embarriado es individual**, y ahí está la trampa
+—es la número 1 del cuestionario de Reparto—, que ofrecía **descarga**, **apertura** y
+**clasificación por códigos**, las tres colectivas, frente a él. **La razón es de oficio: la
+descarga y la clasificación por códigos las hace la unidad entera; el embarriado lo hace cada
+cartero con su propia sección delante.**
+
+### Tres reglas del vehículo y sus equipos
+
+**Los equipos de protección individual son obligatorios en el reparto motorizado**, y **de quién es
+la culpa si no se usan está escrito**: **la no utilización de los equipos de protección individual
+(EPI) es responsabilidad del personal de reparto** —es la número 92 del cuestionario de Reparto—,
+**no del responsable de la unidad ni del jefe de sector**. **El listado completo está en el
+procedimiento de gestión de EPI (PR0013)**; en vehículos de **dos o tres ruedas** los principales
+son **el casco** y **el chaleco de alta visibilidad**.
+
+**La tarjeta de combustible tiene custodia y tiene usos tasados.** **La custodia el responsable de
+la unidad**, que **la entrega al personal de reparto bajo firma**; **cada vehículo tiene la suya**,
+y **sólo con autorización del jefe de sector puede usarse la de otro** cuando la propia se ha
+perdido o deteriorado. **Y para algo que no sea repostar hace falta esa misma autorización**, que
+**se concede sólo para cuatro conceptos**: **peajes**, **aparcamiento**, **lavados** e **hinchado
+de neumáticos** —es la número 75 del cuestionario de Reparto—.
 
 **El PFD**, punto final de distribución, es **un código postal o agrupación de varios códigos con un
 número de secciones no muy elevado que posibilita la clasificación directa a sección**; se usa
@@ -460,6 +497,15 @@ si hay importes —a cobrar o a pagar— y los intentos de entrega**.
 | **Entrega exclusiva al destinatario (EED)** en reparto | **Sólo si el menor es mayor de 14 años y tiene DNI**; **si no se cumplen estas dos condiciones, se devuelve como «desconocido»** |
 | **Entrega en oficina a menores de 14 años** | **Se realiza a la persona de su familia que acredite tal condición** mediante un documento válido **que además permita identificar al menor** |
 
+**Las modalidades de entrega registrada que el documento nombra son tres, y ésa es otra lista
+cerrada.** **La entrega exclusiva al destinatario (EED)**, que puede ir acompañada además de **la
+prueba de entrega electrónica (PEE)** o de **escaneo más validación**; **la entrega con prueba de
+entrega electrónica**; y **la entrega con recogida**, en la que **tras firmar el cliente en la
+tableta se desencadena la recogida documental y la preparación del envío de vuelta**, imprimiendo
+SGIE la etiqueta de ese retorno si hace falta. **El examen dio esas tres y una inventada, «entrega
+con pago diferido»** —es la número 52 del cuestionario de Atención al Cliente—: **el pago diferido
+no existe como modalidad de entrega; lo que existe es el reembolso, que se cobra en el acto.**
+
 **La EED tiene tres reglas propias que el documento subraya**: **sólo puede entregarse al
 destinatario, no admite autorizados**; **sólo puede ir dirigida a personas físicas, no admite
 entregas a personas jurídicas**; y **la firma siempre tiene que recogerse en la tableta**, porque
@@ -482,7 +528,9 @@ entrega de dinero, sujeta a la Ley de prevención de blanqueo de capitales—:
 
 **Las dos fechas de la firma en PDA**: **desde el 10 de mayo de 2021 es obligatorio recoger la firma
 en la PDA para telegrama, burofax y notificaciones de cualquier tipo**; **desde el 1 de julio de
-2021 se recoge también en los envíos con importes a cobrar**.
+2021 se recoge también en los envíos con importes a cobrar**. **Y esa lista es cerrada: para el
+resto de productos no es obligatorio**, **y el Paq Estándar es «el resto»** —es la número 56 del
+cuestionario de Reparto, que ofrecía telegrama, burofax y notificaciones, los tres de la lista—.
 
 **Qué se encasilla directamente en buzón sin intento personalizado**, siempre que las dimensiones lo
 permitan: **carta urgente nacional (UX)**, **envío ordinario con mercancía (U)** —siempre que en la
@@ -515,9 +563,46 @@ internacionales**, por los requisitos de la Ley de prevención de blanqueo de ca
 los giros inmediatos nacionales, que sólo pueden entregarse desde las oficinas a personas físicas
 exclusivamente**; y **los ordinarios voluminosos** que no pueden depositarse en buzón.
 
+**A esa lista hay que añadir una que no está por el tipo de envío sino por su dirección**: **un
+envío registrado dirigido a un apartado de Correos no tiene entrega domiciliaria**, porque **el
+apartado es su domicilio postal**: **se le asigna al almacén de apartados**, **se imprime un aviso
+de llegada que se deposita en el casillero**, y **hay que volver a imprimirlo cada vez que se asigne
+un envío nuevo**. **El examen de 2023 lo preguntó entre cuatro envíos** —es la número 15 del
+cuestionario de Atención al Cliente—, ofreciendo un ordinario internacional de 100 gramos, un
+certificado con valor declarado y un libro de menos de 200 gramos: **los tres se entregan a
+domicilio; el del apartado, no.**
+
 **Las oficinas deben tener diferenciados físicamente seis almacenes de envíos registrados**:
 **avisados**, **apartados**, **ordinarios no domiciliaria**, **paquetería no domiciliaria y lista**,
 **estacionados** y **archivo**.
+
+**Y el de archivo es el que se confunde, porque suena a depósito y no lo es.** Citado:
+
+> «**El correo registrado devuelto que no ha sido posible entregar al remitente pasa a la situación
+> de archivo.**»
+
+---
+
+**Devuelto y sin poder entregar al remitente: ése y no otro.** **No es el del destinatario de
+vacaciones, ni el de lo que no cabe en avisados, ni un servicio que se contrate** —es la número 21
+del cuestionario de Atención al Cliente, y ésas eran las tres opciones falsas—. **SGIE los separa al
+generar el listado de sobrantes**, **identificados en la columna «tipo» con la letra A**, y **han de
+estar en almacén aparte, diferenciando los nacionales de los internacionales**, a la espera de
+instrucciones de la gerencia territorial.
+
+**Los reembolsos que se entregan en oficina son dos grupos, y sólo dos.** Citado:
+
+> «**Las oficinas entregarán los reembolsos recibidos que por sus características no tengan entrega
+> domiciliaria, y aquellos que hayan sido avisados por las unidades de reparto correspondiente,
+> tanto de ordinaria como de servicios especiales.**»
+
+---
+
+**Los que no tienen domiciliaria y los avisados** —es la número 71 del cuestionario de Atención al
+Cliente—. **Ni todos por llevar importe asociado, ni ninguno**: **el reembolso se entrega a
+domicilio con normalidad**, y sólo llega a la oficina por una de esas dos vías. **Los que salieron a
+reparto y no se entregaron llegan con el listado de SGIE** y **se dan de alta asignándolos al
+almacén de la propia oficina, sin necesidad de introducir datos de remitente y destinatario.**
 
 **Los plazos de permanencia son la pregunta del epígrafe:**
 
@@ -689,6 +774,49 @@ devueltos.**
 
 ### Reenvío postal y buzón de vacaciones
 
+**Antes del tratamiento en la unidad, los dos productos por lo que son**, porque **el examen los
+pregunta desde la ficha comercial, no desde el reparto**.
+
+**El reenvío postal permite que un destinatario que cambia de domicilio reciba su correspondencia en
+la nueva dirección durante un periodo limitado**, y **se presta en el ámbito nacional y en el
+internacional** —es la número 83 del cuestionario de Atención al Cliente: **nacional e
+internacional**, no local ni provincial ni rural—. **Su duración puede ser de uno, dos o seis
+meses.**
+
+**Y tiene dos modalidades que se distinguen por lo que pasa AL FINALIZAR el contrato**, que es la
+otra pregunta. Citado:
+
+> «**Si el cambio de dirección es definitivo, al finalizar el periodo de contratación, la
+> correspondencia que llegue al domicilio original se devolverá a la dirección del remitente como
+> «desconocido».**»
+
+> «**Si el cambio de dirección es temporal, al finalizar el periodo de contratación, la
+> correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el
+> envío (el original).**»
+
+---
+
+**Definitivo, se devuelve como desconocido; temporal, sigue al domicilio original.** **Es al revés
+de lo que sugiere el nombre**, y por eso cae —es la número 34 del cuestionario de Atención al
+Cliente—: **«temporal» significa que el titular vuelve, así que su correo vuelve a su casa;
+«definitivo» significa que ya no vive allí, así que lo que llegue no tiene destinatario.**
+
+**El buzón de vacaciones guarda en la oficina de referencia ciertos envíos dirigidos al cliente
+mientras está ausente**: **toda la correspondencia ordinaria y los avisos de llegada de envíos
+registrados**. **La correspondencia registrada con entrega bajo firma no se guarda**, porque está
+sujeta a sus propios plazos de permanencia en lista.
+
+**Sus canales de contratación son dos, y los dos sirven para los dos tipos de cliente.** Citado:
+
+> «**Se puede contratar, por particulares o empresas, en las oficinas de Correos con pago en
+> metálico o tarjeta de crédito, o en la página web con los medios de pago de la oficina virtual.**»
+
+---
+
+**Oficinas y web, particulares y empresas en ambos** —es la número 20 del cuestionario de Atención
+al Cliente—. **Las tres opciones falsas partían la baraja**: web sólo para particulares, web sólo
+para empresas, o Correos Market en vez de la web.
+
 **El testigo de reenvío es naranja**, con el detalle del servicio y una **etiqueta redonda de
 alerta**. **La etiqueta del servicio se coloca tapando la dirección impresa en el anverso, pero
 dejando visible el nombre del destinatario**, y **los envíos se liquidan con el resultado «Petición
@@ -739,7 +867,25 @@ contabilización de envíos para SGIE, nunca contando los envíos uno a uno.**
 
 **Hoy todos los servicios rurales han de atender al público «al paso» durante toda su jornada
 laboral** para admisión y venta a través de la PDA, **tengan o no asignada atención al público al
-puesto**.
+puesto** —es la número 101 del cuestionario de Reparto—.
+
+**Y hay una segunda clasificación, por dónde empieza y acaba la jornada**, que no se cruza con la de
+los tipos I, II y III. Citado:
+
+> «**Rurales concentrados: aquellos que inician y terminan su jornada laboral en una unidad y
+> colaboran en las tareas generales de la misma.**» «**Rurales diferidos: aquellos que no concentran
+> en una unidad.**»
+
+---
+
+**Concentrados y diferidos, y el criterio es la unidad, no el vehículo ni el recorrido** —es la
+número 63 del cuestionario de Reparto—. **El diferido empieza en otro punto**, y **otro servicio
+rural o una conducción le hace llegar diariamente el correo a repartir**.
+
+**Del almacén de material responde la oficina de la que dependen, no la unidad de distribución.**
+**La oficina técnica o sucursal de la que dependen los servicios rurales lleva el control financiero
+de los movimientos de metálico generados por la actividad de las oficinas auxiliares, así como el
+almacén de material** —es la número 73 del cuestionario de Reparto—.
 
 **Los tres tipos operativos, que gobiernan el alta y la liquidación:**
 
