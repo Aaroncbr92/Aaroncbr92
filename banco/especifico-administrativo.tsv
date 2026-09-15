@@ -1,0 +1,550 @@
+# Reparto a mano del banco del Cuerpo General Administrativo del Estado (C1).
+#
+# **Seis cuadernillos**, los de `convocatoria/administrativo/examenes/`: modelo
+# A, modelo B y llamamiento extraordinario de la convocatoria de 2025 y de la
+# OEP 2023-2024. Cada uno trae **125 preguntas** —70 de la primera parte más 5
+# de reserva, y 20 más 5 por cada uno de los dos supuestos prácticos—, y entre
+# los seis suman **750 huecos**.
+#
+# **Los modelos A y B de un año son el mismo examen barajado**, así que repartir
+# los dos contaría cada pregunta dos veces. Lo que este acta reparte son las
+# **503 preguntas distintas**, identificadas por enunciado **más las cuatro
+# opciones**: hay dos preguntas de exámenes distintos que comparten el enunciado
+# «¿Cuál de las siguientes afirmaciones es verdadera?» y no son la misma.
+#
+# **Entre convocatorias no se repite ninguna.** La coincidencia entre las
+# preguntas de 2024 y las de 2025 es **cero**: el examen no recicla, y por eso
+# las dos convocatorias suman en vez de solaparse.
+#
+# **La cuenta, contada y no copiada.** Si los modelos A y B de un año fueran
+# idénticos, las distintas serían cuatro exámenes: 4 x 125 = 500. Son 503 porque
+# **en 2024 los dos modelos no son exactamente el mismo examen**: llevan dos
+# preguntas propias de cada modelo y alguna diferencia de redacción.
+#
+# **El reparto cuadra con lo que la convocatoria dice del examen.** Las bases
+# mandan que la primera parte lleve 40 preguntas de los bloques I a V y 30 del
+# bloque VI. Sobre cuatro primeras partes distintas eso son 120 del bloque VI y
+# 160 del resto, más las de reserva: este acta pone **122 en el bloque VI** y
+# **181 en los bloques I a V**. Ninguna de las dos cifras se ha ajustado; salen
+# del reparto y sirven de comprobación de que no está torcido.
+#
+# **Los supuestos prácticos no tocan el bloque VI**: sus 200 preguntas caen
+# enteras en derecho administrativo, gestión de personal y gestión financiera,
+# que es lo que hace de ellos la parte difícil de documentar.
+#
+# **Los 45 temas del programa tienen pregunta.** Ninguno se queda a cero, que es
+# lo contrario de lo que pasó en el volumen de Correos.
+#
+# Columnas:
+#   origen    el cuadernillo donde la pregunta aparece por primera vez
+#   seccion   primera parte o supuesto, y si es de reserva: las cinco de
+#             reserva de cada parte vuelven a numerarse desde el 1
+#   numero    el que lleva impreso en ese cuadernillo
+#   tema      bloque en romanos y tema en arabigos, como el propio programa
+#   motivo    el titulo del tema, para poder leer el acta sin el programa al lado
+#   epigrafe  el remite, que se rellena cuando el tema este escrito
+#
+origen	seccion	numero	tema	motivo	epigrafe
+2024-cuestionario-modelo-A	PRIMERA PARTE	1	I.1	La Constitución Española de 1978	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	2	I.1	La Constitución Española de 1978	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	3	I.2	La Jefatura del Estado	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	4	I.3	Las Cortes Generales	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	5	I.5	El Gobierno y la Administración	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	6	I.4	El Poder Judicial	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	7	I.5	El Gobierno y la Administración	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	8	I.6	El Gobierno Abierto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	9	I.8	La Administración General del Estado	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	10	I.7	La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	11	I.9	La Organización territorial del Estado	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	12	I.10	La Administración local	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	13	I.11	La organización de la Unión Europea	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	14	II.4	La protección de datos personales y su régimen Jurídico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	15	II.1	Atención al público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	16	II.2	Concepto de documento, registro y archivo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	17	III.2	El acto administrativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	18	I.3	Las Cortes Generales	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	19	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	20	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	21	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	22	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	23	III.5	Procedimientos y formas de la actividad administrativa	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	24	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	25	III.7	Políticas de igualdad y contra la violencia de género	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	26	IV.1	El personal al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	27	IV.3	El personal funcionario al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	28	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	29	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	30	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	31	IV.6	Las incompatibilidades	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	32	IV.7	El régimen de la Seguridad Social de los funcionarios	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	33	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	34	IV.9	El régimen de la Seguridad Social del personal laboral	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	35	V.1	El presupuesto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	36	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	37	V.6	Gestión económica y financiera de los contratos del sector público	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	38	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	39	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	40	V.5	Gastos para la compra de bienes y servicios	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	41	VI.1	Informática básica	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	42	VI.1	Informática básica	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	43	VI.1	Informática básica	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	44	VI.1	Informática básica	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	45	VI.3	El explorador de Windows	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	46	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	47	VI.3	El explorador de Windows	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	48	VI.3	El explorador de Windows	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	49	VI.3	El explorador de Windows	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	50	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	51	VI.3	El explorador de Windows	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	52	VI.4	Procesadores de texto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	53	VI.4	Procesadores de texto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	54	VI.4	Procesadores de texto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	55	VI.4	Procesadores de texto	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	56	VI.6	Bases de datos	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	57	VI.6	Bases de datos	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	58	VI.5	Hojas de cálculo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	59	VI.5	Hojas de cálculo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	60	VI.5	Hojas de cálculo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	61	VI.7	Correo electrónico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	62	VI.7	Correo electrónico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	63	VI.7	Correo electrónico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	64	VI.7	Correo electrónico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	65	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	66	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	67	VI.5	Hojas de cálculo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	68	VI.7	Correo electrónico	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	69	VI.8	La Red Internet	--
+2024-cuestionario-modelo-A	PRIMERA PARTE	70	VI.8	La Red Internet	--
+2024-cuestionario-modelo-A	PRIMERA PARTE · reserva	1	I.7	La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno	--
+2024-cuestionario-modelo-A	PRIMERA PARTE · reserva	2	III.2	El acto administrativo	--
+2024-cuestionario-modelo-A	PRIMERA PARTE · reserva	3	II.3	Administración electrónica y servicios al ciudadano	--
+2024-cuestionario-modelo-A	PRIMERA PARTE · reserva	4	IV.1	El personal al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	PRIMERA PARTE · reserva	5	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO I	1	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO I	2	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO I	3	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO I	4	II.4	La protección de datos personales y su régimen Jurídico	--
+2024-cuestionario-modelo-A	SUPUESTO I	5	II.4	La protección de datos personales y su régimen Jurídico	--
+2024-cuestionario-modelo-A	SUPUESTO I	6	II.4	La protección de datos personales y su régimen Jurídico	--
+2024-cuestionario-modelo-A	SUPUESTO I	7	IV.6	Las incompatibilidades	--
+2024-cuestionario-modelo-A	SUPUESTO I	8	IV.6	Las incompatibilidades	--
+2024-cuestionario-modelo-A	SUPUESTO I	9	IV.6	Las incompatibilidades	--
+2024-cuestionario-modelo-A	SUPUESTO I	10	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-modelo-A	SUPUESTO I	11	IV.6	Las incompatibilidades	--
+2024-cuestionario-modelo-A	SUPUESTO I	12	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO I	13	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO I	14	IV.3	El personal funcionario al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	SUPUESTO I	15	IV.9	El régimen de la Seguridad Social del personal laboral	--
+2024-cuestionario-modelo-A	SUPUESTO I	16	V.6	Gestión económica y financiera de los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO I	17	V.6	Gestión económica y financiera de los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO I	18	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-modelo-A	SUPUESTO I	19	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-modelo-A	SUPUESTO I	20	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-modelo-A	SUPUESTO I · reserva	1	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO I · reserva	2	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-modelo-A	SUPUESTO I · reserva	3	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-A	SUPUESTO I · reserva	4	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO I · reserva	5	IV.2	Selección de personal	--
+2024-cuestionario-modelo-A	SUPUESTO II	1	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO II	2	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO II	3	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO II	4	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO II	5	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-modelo-A	SUPUESTO II	6	III.2	El acto administrativo	--
+2024-cuestionario-modelo-A	SUPUESTO II	7	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO II	8	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO II	9	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	10	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	11	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	12	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-modelo-A	SUPUESTO II	13	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	14	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	15	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	16	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	17	III.4	Los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	18	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-modelo-A	SUPUESTO II	19	V.6	Gestión económica y financiera de los contratos del sector público	--
+2024-cuestionario-modelo-A	SUPUESTO II	20	V.5	Gastos para la compra de bienes y servicios	--
+2024-cuestionario-modelo-A	SUPUESTO II · reserva	1	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-A	SUPUESTO II · reserva	2	III.2	El acto administrativo	--
+2024-cuestionario-modelo-A	SUPUESTO II · reserva	3	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-modelo-A	SUPUESTO II · reserva	4	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-modelo-A	SUPUESTO II · reserva	5	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-B	PRIMERA PARTE	29	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-modelo-B	PRIMERA PARTE	30	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-modelo-B	PRIMERA PARTE · reserva	3	II.3	Administración electrónica y servicios al ciudadano	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	1	I.1	La Constitución Española de 1978	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	2	I.2	La Jefatura del Estado	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	3	I.3	Las Cortes Generales	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	4	I.3	Las Cortes Generales	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	5	I.4	El Poder Judicial	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	6	I.5	El Gobierno y la Administración	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	7	I.6	El Gobierno Abierto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	8	I.7	La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	9	I.8	La Administración General del Estado	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	10	I.9	La Organización territorial del Estado	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	11	I.10	La Administración local	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	12	I.11	La organización de la Unión Europea	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	13	II.1	Atención al público	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	14	II.2	Concepto de documento, registro y archivo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	15	II.3	Administración electrónica y servicios al ciudadano	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	16	II.4	La protección de datos personales y su régimen Jurídico	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	17	I.3	Las Cortes Generales	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	18	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	19	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	20	I.5	El Gobierno y la Administración	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	21	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	22	III.7	Políticas de igualdad y contra la violencia de género	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	23	IV.1	El personal al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	24	IV.1	El personal al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	25	IV.2	Selección de personal	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	26	IV.2	Selección de personal	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	27	IV.3	El personal funcionario al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	28	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	29	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	30	IV.6	Las incompatibilidades	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	31	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	32	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	33	IV.9	El régimen de la Seguridad Social del personal laboral	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	34	V.1	El presupuesto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	35	V.1	El presupuesto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	36	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	37	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	38	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	39	V.5	Gastos para la compra de bienes y servicios	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	40	V.6	Gestión económica y financiera de los contratos del sector público	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	41	VI.1	Informática básica	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	42	VI.1	Informática básica	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	43	VI.1	Informática básica	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	44	VI.1	Informática básica	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	45	VI.6	Bases de datos	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	46	VI.6	Bases de datos	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	47	VI.8	La Red Internet	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	48	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	49	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	50	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	51	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	52	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	53	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	54	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	55	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	56	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	57	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	58	VI.3	El explorador de Windows	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	59	VI.4	Procesadores de texto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	60	VI.4	Procesadores de texto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	61	VI.4	Procesadores de texto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	62	VI.5	Hojas de cálculo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	63	VI.5	Hojas de cálculo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	64	VI.6	Bases de datos	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	65	VI.7	Correo electrónico	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	66	VI.7	Correo electrónico	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	67	VI.7	Correo electrónico	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	68	VI.6	Bases de datos	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	69	VI.7	Correo electrónico	--
+2024-cuestionario-extraordinario	PRIMERA PARTE	70	VI.2	Introducción al sistema operativo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE · reserva	1	I.6	El Gobierno Abierto	--
+2024-cuestionario-extraordinario	PRIMERA PARTE · reserva	2	III.7	Políticas de igualdad y contra la violencia de género	--
+2024-cuestionario-extraordinario	PRIMERA PARTE · reserva	3	II.2	Concepto de documento, registro y archivo	--
+2024-cuestionario-extraordinario	PRIMERA PARTE · reserva	4	I.10	La Administración local	--
+2024-cuestionario-extraordinario	PRIMERA PARTE · reserva	5	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-extraordinario	SUPUESTO I	1	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO I	2	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO I	3	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2024-cuestionario-extraordinario	SUPUESTO I	4	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO I	5	II.1	Atención al público	--
+2024-cuestionario-extraordinario	SUPUESTO I	6	II.3	Administración electrónica y servicios al ciudadano	--
+2024-cuestionario-extraordinario	SUPUESTO I	7	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO I	8	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO I	9	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO I	10	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO I	11	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO I	12	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO I	13	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO I	14	IV.6	Las incompatibilidades	--
+2024-cuestionario-extraordinario	SUPUESTO I	15	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-extraordinario	SUPUESTO I	16	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-extraordinario	SUPUESTO I	17	IV.6	Las incompatibilidades	--
+2024-cuestionario-extraordinario	SUPUESTO I	18	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-extraordinario	SUPUESTO I	19	V.5	Gastos para la compra de bienes y servicios	--
+2024-cuestionario-extraordinario	SUPUESTO I	20	V.5	Gastos para la compra de bienes y servicios	--
+2024-cuestionario-extraordinario	SUPUESTO I · reserva	1	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-extraordinario	SUPUESTO I · reserva	2	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO I · reserva	3	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO I · reserva	4	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-extraordinario	SUPUESTO I · reserva	5	IV.6	Las incompatibilidades	--
+2024-cuestionario-extraordinario	SUPUESTO II	1	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	2	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	3	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	4	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	5	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	6	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	7	III.4	Los contratos del sector público	--
+2024-cuestionario-extraordinario	SUPUESTO II	8	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO II	9	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO II	10	I.8	La Administración General del Estado	--
+2024-cuestionario-extraordinario	SUPUESTO II	11	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2024-cuestionario-extraordinario	SUPUESTO II	12	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO II	13	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO II	14	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO II	15	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO II	16	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2024-cuestionario-extraordinario	SUPUESTO II	17	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-extraordinario	SUPUESTO II	18	IV.5	Provisión de puestos de trabajo en la función pública	--
+2024-cuestionario-extraordinario	SUPUESTO II	19	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO II	20	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO II · reserva	1	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2024-cuestionario-extraordinario	SUPUESTO II · reserva	2	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2024-cuestionario-extraordinario	SUPUESTO II · reserva	3	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO II · reserva	4	V.2	El presupuesto del Estado en España	--
+2024-cuestionario-extraordinario	SUPUESTO II · reserva	5	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	1	I.1	La Constitución Española de 1978	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	2	I.2	La Jefatura del Estado	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	3	I.3	Las Cortes Generales	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	4	I.4	El Poder Judicial	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	5	I.5	El Gobierno y la Administración	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	6	I.6	El Gobierno Abierto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	7	I.7	La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	8	I.8	La Administración General del Estado	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	9	I.9	La Organización territorial del Estado	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	10	I.10	La Administración local	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	11	I.11	La organización de la Unión Europea	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	12	II.1	Atención al público	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	13	II.2	Concepto de documento, registro y archivo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	14	II.3	Administración electrónica y servicios al ciudadano	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	15	II.4	La protección de datos personales y su régimen Jurídico	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	16	III.1	Las fuentes del derecho administrativo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	17	III.2	El acto administrativo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	18	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	19	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	20	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	21	III.5	Procedimientos y formas de la actividad administrativa	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	22	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	23	III.7	Políticas de igualdad y contra la violencia de género	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	24	IV.1	El personal al servicio de las Administraciones públicas	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	25	IV.2	Selección de personal	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	26	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	27	IV.3	El personal funcionario al servicio de las Administraciones públicas	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	28	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	29	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	30	IV.6	Las incompatibilidades	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	31	IV.7	El régimen de la Seguridad Social de los funcionarios	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	32	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	33	IV.9	El régimen de la Seguridad Social del personal laboral	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	34	V.1	El presupuesto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	35	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	36	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	37	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	38	V.5	Gastos para la compra de bienes y servicios	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	39	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	40	V.6	Gestión económica y financiera de los contratos del sector público	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	41	VI.1	Informática básica	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	42	VI.1	Informática básica	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	43	VI.1	Informática básica	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	44	VI.1	Informática básica	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	45	VI.2	Introducción al sistema operativo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	46	VI.2	Introducción al sistema operativo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	47	VI.3	El explorador de Windows	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	48	VI.3	El explorador de Windows	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	49	VI.3	El explorador de Windows	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	50	VI.3	El explorador de Windows	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	51	VI.4	Procesadores de texto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	52	VI.4	Procesadores de texto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	53	VI.4	Procesadores de texto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	54	VI.4	Procesadores de texto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	55	VI.5	Hojas de cálculo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	56	VI.5	Hojas de cálculo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	57	VI.5	Hojas de cálculo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	58	VI.5	Hojas de cálculo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	59	VI.6	Bases de datos	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	60	VI.6	Bases de datos	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	61	VI.6	Bases de datos	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	62	VI.6	Bases de datos	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	63	VI.7	Correo electrónico	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	64	VI.7	Correo electrónico	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	65	VI.7	Correo electrónico	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	66	VI.7	Correo electrónico	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	67	VI.8	La Red Internet	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	68	VI.8	La Red Internet	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	69	VI.8	La Red Internet	--
+2025-cuestionario-modelo-A	PRIMERA PARTE	70	VI.8	La Red Internet	--
+2025-cuestionario-modelo-A	PRIMERA PARTE · reserva	1	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	PRIMERA PARTE · reserva	2	VI.6	Bases de datos	--
+2025-cuestionario-modelo-A	PRIMERA PARTE · reserva	3	I.11	La organización de la Unión Europea	--
+2025-cuestionario-modelo-A	PRIMERA PARTE · reserva	4	III.2	El acto administrativo	--
+2025-cuestionario-modelo-A	PRIMERA PARTE · reserva	5	I.5	El Gobierno y la Administración	--
+2025-cuestionario-modelo-A	SUPUESTO I	1	III.2	El acto administrativo	--
+2025-cuestionario-modelo-A	SUPUESTO I	2	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO I	3	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO I	4	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO I	5	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO I	6	II.1	Atención al público	--
+2025-cuestionario-modelo-A	SUPUESTO I	7	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO I	8	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO I	9	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO I	10	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO I	11	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO I	12	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO I	13	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO I	14	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I	15	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-modelo-A	SUPUESTO I	16	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-modelo-A	SUPUESTO I	17	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I	18	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I	19	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I	20	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I · reserva	1	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I · reserva	2	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2025-cuestionario-modelo-A	SUPUESTO I · reserva	3	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO I · reserva	4	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	SUPUESTO I · reserva	5	II.1	Atención al público	--
+2025-cuestionario-modelo-A	SUPUESTO II	1	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	2	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	3	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO II	4	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	5	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	6	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	7	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	8	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	SUPUESTO II	9	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II	10	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO II	11	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO II	12	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO II	13	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO II	14	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-modelo-A	SUPUESTO II	15	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-modelo-A	SUPUESTO II	16	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II	17	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II	18	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II	19	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II	20	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II · reserva	1	III.4	Los contratos del sector público	--
+2025-cuestionario-modelo-A	SUPUESTO II · reserva	2	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-modelo-A	SUPUESTO II · reserva	3	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-modelo-A	SUPUESTO II · reserva	4	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-modelo-A	SUPUESTO II · reserva	5	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	1	I.1	La Constitución Española de 1978	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	2	I.2	La Jefatura del Estado	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	3	I.3	Las Cortes Generales	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	4	I.4	El Poder Judicial	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	5	I.5	El Gobierno y la Administración	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	6	I.6	El Gobierno Abierto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	7	I.7	La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	8	I.8	La Administración General del Estado	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	9	I.9	La Organización territorial del Estado	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	10	I.9	La Organización territorial del Estado	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	11	I.10	La Administración local	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	12	I.11	La organización de la Unión Europea	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	13	II.1	Atención al público	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	14	II.2	Concepto de documento, registro y archivo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	15	II.2	Concepto de documento, registro y archivo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	16	II.3	Administración electrónica y servicios al ciudadano	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	17	II.4	La protección de datos personales y su régimen Jurídico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	18	II.4	La protección de datos personales y su régimen Jurídico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	19	III.1	Las fuentes del derecho administrativo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	20	III.2	El acto administrativo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	21	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	22	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	23	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	24	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	25	III.7	Políticas de igualdad y contra la violencia de género	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	26	IV.3	El personal funcionario al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	27	IV.1	El personal al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	28	IV.2	Selección de personal	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	29	I.1	La Constitución Española de 1978	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	30	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	31	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	32	IV.6	Las incompatibilidades	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	33	IV.7	El régimen de la Seguridad Social de los funcionarios	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	34	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	35	IV.9	El régimen de la Seguridad Social del personal laboral	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	36	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	37	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	38	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	39	V.5	Gastos para la compra de bienes y servicios	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	40	V.5	Gastos para la compra de bienes y servicios	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	41	VI.1	Informática básica	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	42	VI.1	Informática básica	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	43	VI.1	Informática básica	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	44	VI.2	Introducción al sistema operativo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	45	VI.2	Introducción al sistema operativo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	46	VI.3	El explorador de Windows	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	47	VI.3	El explorador de Windows	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	48	VI.3	El explorador de Windows	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	49	VI.3	El explorador de Windows	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	50	VI.3	El explorador de Windows	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	51	VI.4	Procesadores de texto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	52	VI.4	Procesadores de texto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	53	VI.4	Procesadores de texto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	54	VI.4	Procesadores de texto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	55	VI.4	Procesadores de texto	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	56	VI.5	Hojas de cálculo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	57	VI.5	Hojas de cálculo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	58	VI.5	Hojas de cálculo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	59	VI.6	Bases de datos	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	60	VI.6	Bases de datos	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	61	VI.6	Bases de datos	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	62	VI.6	Bases de datos	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	63	VI.7	Correo electrónico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	64	VI.7	Correo electrónico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	65	VI.7	Correo electrónico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	66	VI.7	Correo electrónico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	67	VI.8	La Red Internet	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	68	VI.8	La Red Internet	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	69	VI.8	La Red Internet	--
+2025-cuestionario-extraordinario	PRIMERA PARTE	70	VI.8	La Red Internet	--
+2025-cuestionario-extraordinario	PRIMERA PARTE · reserva	1	II.4	La protección de datos personales y su régimen Jurídico	--
+2025-cuestionario-extraordinario	PRIMERA PARTE · reserva	2	VI.6	Bases de datos	--
+2025-cuestionario-extraordinario	PRIMERA PARTE · reserva	3	IV.6	Las incompatibilidades	--
+2025-cuestionario-extraordinario	PRIMERA PARTE · reserva	4	III.1	Las fuentes del derecho administrativo	--
+2025-cuestionario-extraordinario	PRIMERA PARTE · reserva	5	I.2	La Jefatura del Estado	--
+2025-cuestionario-extraordinario	SUPUESTO I	1	IV.6	Las incompatibilidades	--
+2025-cuestionario-extraordinario	SUPUESTO I	2	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	3	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	4	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-extraordinario	SUPUESTO I	5	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	6	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-extraordinario	SUPUESTO I	7	V.5	Gastos para la compra de bienes y servicios	--
+2025-cuestionario-extraordinario	SUPUESTO I	8	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	9	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	10	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO I	11	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-extraordinario	SUPUESTO I	12	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-extraordinario	SUPUESTO I	13	V.2	El presupuesto del Estado en España	--
+2025-cuestionario-extraordinario	SUPUESTO I	14	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-extraordinario	SUPUESTO I	15	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-extraordinario	SUPUESTO I	16	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-extraordinario	SUPUESTO I	17	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO I	18	IV.5	Provisión de puestos de trabajo en la función pública	--
+2025-cuestionario-extraordinario	SUPUESTO I	19	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO I	20	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO I · reserva	1	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO I · reserva	2	III.2	El acto administrativo	--
+2025-cuestionario-extraordinario	SUPUESTO I · reserva	3	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO I · reserva	4	II.4	La protección de datos personales y su régimen Jurídico	--
+2025-cuestionario-extraordinario	SUPUESTO I · reserva	5	II.2	Concepto de documento, registro y archivo	--
+2025-cuestionario-extraordinario	SUPUESTO II	1	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II	2	IV.4	Adquisición y pérdida de la condición de funcionario	--
+2025-cuestionario-extraordinario	SUPUESTO II	3	IV.8	El personal laboral al servicio de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II	4	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO II	5	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO II	6	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO II	7	I.8	La Administración General del Estado	--
+2025-cuestionario-extraordinario	SUPUESTO II	8	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2025-cuestionario-extraordinario	SUPUESTO II	9	V.4	Las retribuciones e indemnizaciones de los funcionarios públicos y del personal laboral al servicio de la Administración pública	--
+2025-cuestionario-extraordinario	SUPUESTO II	10	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	11	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-extraordinario	SUPUESTO II	12	V.5	Gastos para la compra de bienes y servicios	--
+2025-cuestionario-extraordinario	SUPUESTO II	13	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	14	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	15	V.6	Gestión económica y financiera de los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	16	V.6	Gestión económica y financiera de los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	17	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II	18	V.3	El procedimiento administrativo de ejecución del presupuesto de gasto	--
+2025-cuestionario-extraordinario	SUPUESTO II	19	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--
+2025-cuestionario-extraordinario	SUPUESTO II	20	III.4	Los contratos del sector público	--
+2025-cuestionario-extraordinario	SUPUESTO II · reserva	1	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II · reserva	2	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II · reserva	3	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II · reserva	4	III.6	La responsabilidad patrimonial de las Administraciones públicas	--
+2025-cuestionario-extraordinario	SUPUESTO II · reserva	5	III.3	Las Leyes del Procedimiento Administrativo Común de las Administraciones Públicas y del Régimen Jurídico del Sector Público	--

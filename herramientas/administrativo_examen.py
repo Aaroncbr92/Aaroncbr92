@@ -47,6 +47,11 @@ import pymupdf
 CABECERA = re.compile(r"(?m)^\s*20\d\d\s*-\s*ADVO-[A-Z]+\b.*$")
 PIE = re.compile(r"(?m)^\s*P[áa]gina \d+ de \d+\s*$")
 SECCION = re.compile(r"^(PRIMERA PARTE|SEGUNDA PARTE|SUPUESTO\s+[IVX]+)\b.*$")
+# Las cinco de reserva de cada parte **vuelven a numerarse desde el 1**, así que
+# sin este rótulo la pregunta «PRIMERA PARTE nº 3» son dos preguntas distintas y
+# el acta de reparto no puede apuntar a ninguna de las dos. El cuadernillo las
+# rotula, y aquí la sección se marca para que el número vuelva a ser único.
+RESERVA = re.compile(r"^Preguntas de reserva\b", re.I)
 OPCION = re.compile(r"^([a-d])\)\s*(.*)$")
 NUMERO = re.compile(r"(?:^|(?<=\s))(\d{1,3})\.\s+(?=[¿¡A-ZÁÉÍÓÚÜÑ«\"(])"
                     r"|^(\d{1,3})\.\s*$")
@@ -86,7 +91,9 @@ def trocea(t):
 
     El `preambulo` es el enunciado del supuesto práctico —de 225 a 532 palabras
     en los seis cuadernillos— y va repetido en las veinticinco preguntas de su
-    supuesto, porque sin él ninguna de las veinticinco se entiende.
+    supuesto, porque sin él ninguna de las veinticinco se entiende. Las cinco de
+    reserva de cada parte llevan la sección marcada «· reserva», porque vuelven
+    a numerarse desde el 1 y sin esa marca chocarían con las cinco primeras.
     """
     t = limpia(t)
     t = re.sub(r"(?<=[\.\:\?\)»])\s+([a-d]\)\s)", r"\n\1", t)
@@ -108,6 +115,12 @@ def trocea(t):
         if m:
             cierra()
             sec, pre = m.group(1), []
+            n, esperado, enun, opts, letra = None, 1, [], {}, None
+            continue
+        if RESERVA.match(s):
+            cierra()
+            if not sec.endswith("reserva"):
+                sec = sec + " · reserva"
             n, esperado, enun, opts, letra = None, 1, [], {}, None
             continue
         if letra is not None and not opts.get(letra, "").strip():
