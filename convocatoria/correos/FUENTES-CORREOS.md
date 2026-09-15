@@ -19,18 +19,48 @@ tener dónde morder en este temario**, y las que mandan serán la de citas y la 
 documento. No es la primera vez —pasó en Técnica de Equipos y en Ambientación
 Vestuario— y el proyecto ya tiene escrita su jerarquía de fuentes para ese caso.
 
-## El aviso del propio documento de referencia
+## El aviso que Correos publicó con el documento — comprobado el 2026-09-15
 
-**El documento se declara a sí mismo no oficial.** Según lo que Correos publicó con
-él, **«en ningún caso reviste carácter de manual o temario oficial de las pruebas»**
-y su carácter es **«meramente enunciativo y no limitativo de las fuentes oficiales
-de información»**. **Esa frase hay que comprobarla dentro del documento volcado
-antes de darla por buena**, y queda anotado como lo primero que verifica el tema 1.
+**El documento no se declara nada a sí mismo: quien lo declara es la nota que
+Correos publicó al lado.** Ésa fue la equivocación de esta ficha durante un día, y
+conviene dejarla escrita porque es un error de método, no de dato: **se anotó que
+la frase estaba «dentro del documento» y se fue a buscarla a las mil trescientas
+treinta y cuatro páginas volcadas, donde no está ni puede estar.** Está en una
+**nota informativa que Correos publicó en el apartado de Personas y Talento de su
+web**, junto al enlace de descarga.
 
-**Si se confirma, gobierna lo que este temario puede afirmar**: el documento es la
-mejor fuente disponible y es de donde salieron las preguntas de 2023, pero **no es
-la norma**, y donde diga algo distinto de lo que dice el Boletín, manda el Boletín
-y el temario lo dice.
+**La nota, citada:**
+
+> «**Este documento de referencia de los contenidos del temario, que en ningún caso
+> reviste carácter de manual o temario oficial de las pruebas, está actualizado a
+> fecha 31 de octubre de 2022.**»
+
+> «**Su carácter es meramente enunciativo y no limitativo de las fuentes oficiales
+> de información sobre las que el aspirante puede servirse para elaborar materiales
+> de estudio a título particular.**»
+
+**Cómo se ha comprobado, y qué nivel de fuente es.** **El portal de Correos ya no
+sirve la nota** —la convocatoria de 2023 está cerrada y su material retirado, lo
+mismo que pasa con los doce PDF—, así que **se ha comprobado contra dos
+reproducciones independientes** que la publican con las mismas palabras: **la
+sección sindical de la Unión General de Trabajadores (UGT) en Euskadi**, el 28 de diciembre de 2022, y **una web de
+preparación**, el 30 de diciembre de 2022, que además dice de dónde la tomó —el
+apartado de Personas y Talento de la web de Correos—. **Las dos coinciden palabra
+por palabra en las dos frases y en la fecha de actualización.** **No es fuente
+primaria servida por el organismo**, y eso queda escrito igual que con los PDF.
+
+**Y eso gobierna lo que este temario puede afirmar**, que es lo que importaba:
+
+1. **El documento es la mejor fuente disponible** y es de donde salieron las
+   preguntas de 2023, **pero no es la norma**: donde diga algo distinto de lo que
+   dice el Boletín, **manda el Boletín**, y el temario lo dice donde pasa.
+2. **Su contenido está congelado el 31 de octubre de 2022**, y lo dice la propia
+   nota. Eso es lo que autoriza a este temario a leer las normas **en su redacción
+   vigente** y a señalar el desfase en vez de reproducirlo.
+3. **«No limitativo» significa que el examen puede salirse del documento**, y la
+   propia nota invita a completarlo. Por eso los temas declaran, uno a uno, **qué
+   no dan y dónde está**, en vez de dar a entender que el documento agota la
+   materia.
 
 ## Qué redacción se estudia, y por qué ésta
 

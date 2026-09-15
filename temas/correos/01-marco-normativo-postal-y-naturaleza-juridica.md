@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**, no la de 2022. Su disposición adicional primera dice hoy **veinte años** donde en 2022 decía quince: el cambio lo hizo la **Ley 6/2025, de 28 de julio**, y el tema lo desarrolla con las cuatro redacciones delante |
 | **Norma de apoyo** | **Real Decreto 1829/1999**, Reglamento postal · `BOE-A-1999-24919` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 1**, reconocido ópticamente |
-| **Extensión** | **5.307 palabras** |
+| **Extensión** | **5.495 palabras** |
 
 <!-- /portada -->
 
@@ -41,6 +41,25 @@ treinta y cuatro páginas en doce PDF. **De ahí salieron las preguntas del exam
 sale este temario. **Pero ese documento no es una norma**: cuando dice algo distinto de lo que dice
 el Boletín Oficial del Estado, **manda el Boletín, y este temario lo advierte.** En este tema pasa
 una vez, y es la más importante de todas.
+
+**Y lo dice la propia Correos, en la nota que publicó junto al documento**, citada:
+
+> «**Este documento de referencia de los contenidos del temario, que en ningún caso reviste carácter
+> de manual o temario oficial de las pruebas, está actualizado a fecha 31 de octubre de 2022.**»
+
+> «**Su carácter es meramente enunciativo y no limitativo de las fuentes oficiales de información
+> sobre las que el aspirante puede servirse para elaborar materiales de estudio a título
+> particular.**»
+
+---
+
+**Esas dos frases hay que leerlas despacio, porque cambian cómo se estudia.** **«No limitativo»
+quiere decir que el examen puede salirse del documento**, y la propia empresa invita a completarlo.
+**«Actualizado a 31 de octubre de 2022» quiere decir que el documento está congelado en esa fecha**,
+y desde entonces han cambiado normas que él cita. **Por eso este temario lee las normas en su
+redacción vigente y no en la de 2022**: para poder señalar el desfase en lugar de repetirlo. Y por
+eso cada tema cierra diciendo **qué no da y dónde está**, en vez de dar a entender que con el
+documento basta.
 
 <!-- indice -->
 

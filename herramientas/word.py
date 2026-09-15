@@ -417,6 +417,32 @@ def salto(doc):
 
 # ── el volumen ───────────────────────────────────────────────────────────────
 
+def parte_apendice(doc, letra, base, rotulo):
+    """Un apéndice: cuerpo y nada más. Ni esquema ni banco, porque su materia no
+    es del programa y sus preguntas van trabajadas dentro del propio texto."""
+    crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
+    cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
+    cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", cuerpo, flags=re.S)
+    ficha, resto = None, cuerpo
+    mt = re.match(r"\s*(\|.*?\|)\n\n", cuerpo, re.S)
+    if mt:
+        ficha, resto = mt.group(1), cuerpo[mt.end():]
+    resto, _ = numera(resto, letra)
+    salto(doc)
+    doc.add_paragraph(B["rotulo"], style="Rótulo")
+    doc.add_paragraph("APÉNDICE %s – %s" % (letra, rotulo), style="Heading 1")
+    if ficha:
+        filas = []
+        for linea in ficha.strip().split("\n"):
+            if set(linea.replace("|", "").strip()) <= set("- :"):
+                continue
+            celdas = [c.strip() for c in linea.strip().strip("|").split("|")]
+            filas.append([md.parse(c)[1] for c in celdas])
+        escribe_tabla(doc, filas, False)
+        doc.add_paragraph(style="Normal")
+    vuelca(doc, resto)
+
+
 def parte_tema(doc, numero, base, banco):
     crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
     titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
@@ -711,6 +737,11 @@ def main():
         ps = parte_tema(doc, numero, base, banco)
         if ps:
             hechos.append((numero, banco, ps))
+    # los apéndices van detrás de los temas y delante de las respuestas, igual
+    # que en el volumen en PDF: los dos formatos salen del mismo bloque
+    if quiere is None:
+        for letra, (base, rotulo) in zip("ABCDEFGH", B.get("apendices", [])):
+            parte_apendice(doc, letra, base, rotulo)
     respuestas(doc, hechos)
     if "--muestrario" in sys.argv:
         muestrario(doc)

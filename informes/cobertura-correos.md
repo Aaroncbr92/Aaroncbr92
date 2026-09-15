@@ -37,9 +37,12 @@ proyecto cuyo banco se dobla sin solaparse**.
 100 de temario por puesto   ×2 puestos  =  200 del banco
 ```
 
-**Las veinte que se quedan fuera están declaradas una a una en el acta de reparto**, con el motivo.
-No son materia del programa: **las psicotécnicas no se estudian y las de aptitud preguntan sobre un
-texto o una tabla impresos en el propio cuadernillo.**
+**Las veinte que se quedan fuera están declaradas una a una en el acta de reparto**, con el motivo,
+**y no se quedan sin trabajar**: no son materia del programa, así que no entran en el reparto por
+temas, pero **son diez de las cien preguntas que puntúan en cada cuadernillo** y **el volumen las
+lleva en un apéndice detrás de los doce temas**, con las veinte trabajadas una a una. **El cuadernillo
+las llama a las diez «psicotécnicas»**, en un rótulo en recuadro, aunque seis de ellas sean de
+comprensión lectora y de cálculo sobre un texto o un gráfico impresos en el propio cuadernillo.
 
 **Esto corrigió la ficha de los exámenes**, que daba 108 únicas en REP, 110 en ATC, **218 en total**
 y «unas siete» psicotécnicas. **Las cuatro cifras eran de más**, y el error se vio al contar los
@@ -67,6 +70,33 @@ publica hay que sacarla de contar.**
 **Doce puntos del anexo, doce temas**, sin uniones ni desdobles: **el número del tema es el número
 del programa**. **Y ningún punto se queda a cero**, que es la primera vez que eso pasa en un bloque
 específico de este proyecto.
+
+## Las otras diez: el apéndice de psicotécnicas
+
+**Las doscientas de arriba son las del programa. No son todas las que puntúan.** Cada cuadernillo
+trae **diez preguntas más que valen exactamente lo mismo** y que el temario deja fuera. Las bases lo
+dicen así, citado: **«90 preguntas sobre las materias relacionadas en el Anexo III de las presentes
+bases, que podrán contener preguntas generales y específicas para los puestos de trabajo»** y **«10
+preguntas psicotécnicas»**. **Son el 10 % de la prueba**, y quien prepara sólo los doce temas se
+presenta habiendo renunciado a ellas.
+
+| Bloque del apéndice | Por cuadernillo | Qué se da |
+|---|---:|---|
+| **Comprensión lectora** | **3** | **Los dos textos reales** con su autor y su fuente, y **las seis preguntas** con la frase del texto que contesta cada una y cómo está construido cada distractor |
+| **Razonamiento numérico** | **3** | **Los dos gráficos**, pasados a tabla con sus valores leídos sobre la página, y **las seis cuentas rehechas** |
+| **Series de figuras** | **4** | **La anatomía de los ocho ítems**, el método en cinco pasos, **la regla demostrada de cuatro de ellos** y **la respuesta oficial de los ocho** |
+| | **10** | |
+
+**Diez de esas veinte están verificadas de extremo a extremo**: las seis cuentas dan el resultado que
+marca la plantilla, y las cuatro series con regla demostrada dan la letra que la plantilla da. **Es
+una proporción que ningún tema de contenido puede igualar**, porque aquí la respuesta oficial no hay
+que creérsela: se puede rehacer.
+
+**Y el apéndice trae la única anulación del examen cuyo motivo se puede demostrar.** La pregunta 47
+del modelo B de Reparto **es la misma que la 83 del modelo A**, con las mismas cuatro opciones; **la
+83 responde C**; y **el enunciado de la 47 dice «(A, B, o D)»**, saltándose la C. **El enunciado no
+ofrecía la letra de la respuesta correcta.** Las otras seis anulaciones Correos no las explicó, y
+este temario no se las inventa.
 
 ## Lo que el reparto enseña, y es distinto de todo lo demás del proyecto
 
@@ -146,6 +176,7 @@ están escritas en su tema:
   **qué es un mapa de carga**, que es lo que se preguntó.
 - **El Real Decreto 304/2014 y el RGPD**, que el documento cita y no reproduce: **se reproduce lo
   citado** y se dice que es eso.
-- **Las veinte preguntas de psicotécnico y aptitud**, que no son materia del programa. **Quien se
-  examine las tendrá delante**, y por eso están declaradas en el acta en vez de desaparecer de la
-  cuenta.
+- **Los dibujos de las ocho series de figuras**, que son eso, dibujos: **un dibujo redibujado ya no
+  es la pregunta**. El apéndice da **su anatomía, el método, la respuesta oficial de cada una y la
+  regla demostrada de cuatro de las ocho**, y dice cuáles son las cuatro que no se dejan demostrar
+  por escrito sin el dibujo delante.

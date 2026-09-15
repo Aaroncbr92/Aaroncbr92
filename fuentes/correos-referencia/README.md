@@ -8,6 +8,20 @@ examen de 2023**, y sin él este temario no tendría nada detrás.
 **Son 1.334 páginas en doce PDF**, uno por tema, publicados entre noviembre de 2022
 y febrero de 2023.
 
+## Y la nota con que Correos lo publicó
+
+**Junto al enlace de descarga, Correos publicó una nota informativa que dice qué es este documento y
+qué no es**, y **esa nota no está dentro del documento**: por eso no aparece en el volcado de sus mil
+trescientas treinta y cuatro páginas. Está volcada aparte, en
+`nota-documento-referencia.txt`, y dice dos cosas que gobiernan lo que este temario puede
+afirmar: que **«en ningún caso reviste carácter de manual o temario oficial de las pruebas»**, que
+**«está actualizado a fecha 31 de octubre de 2022»** y que **su carácter es «meramente enunciativo y
+no limitativo»** de las fuentes que el aspirante puede usar.
+
+**El portal de Correos ya no la sirve**, igual que ya no sirve los PDF, así que **se contrastó el
+2026-09-15 contra dos reproducciones independientes de diciembre de 2022 que coinciden palabra por
+palabra**. La procedencia entera está escrita en la ficha de fuentes de la convocatoria.
+
 ## Por qué aquí sólo está el volcado
 
 **Los doce PDF pesan 547 megabytes (**MB**).** El mayor que este repositorio versiona

@@ -16,7 +16,7 @@ lo que se anotó al escribir cada tema.
 
 | Tema | Exactitud | Modo | Citas | Prosa (tema) | Prosa (esquema) | Documento |
 |---|---|---|---|---|---|---|
-| 1 · Marco normativo | **2 · 0 no literales** | **0** | **30 · 0** | **0** | **0** | 292 · **9 huérfanas** |
+| 1 · Marco normativo | **2 · 0 no literales** | **0** | **32 · 0** | **0** | **0** | 292 · **9 huérfanas** |
 | 2 · Experiencia de personas | **18 · 0** | 1 (colisión) | **10 · 0** | **0** | **0** | 723 · **4** |
 | 3 · Productos I | no ancla | **0** | **3 · 0** | **0** | **0** | 574 · **10** |
 | 4 · Productos II | no ancla | **0** | 0 | **0** | **0** | 319 · **5** |
@@ -29,6 +29,8 @@ lo que se anotó al escribir cada tema.
 | 11 · Internacional | no ancla | no aplica | 0 | **0** | **0** | 212 · **2** |
 | 12 · Cumplimiento | **23 · 0** | 2 (colisiones) | **1 · 0** | **0** | **0** | 824 · **1** |
 
+| **Apéndice A** | no ancla | no aplica | **5 · 0** | **0** | — | no aplica |
+
 **Lo que hay que leer de este cuadro, y es lo único que importa**: **ninguna negrita anclada en un
 artículo sale no literal, ninguna cita entrecomillada sale no literal, y ni un solo tema ni un solo
 esquema tiene hallazgo de prosa.** Lo demás —las colisiones y las cifras huérfanas— se explica
@@ -40,7 +42,7 @@ debajo, una por una, porque **un número sin explicar en un informe de refutaci�
 |---|---|---|
 | `refutar_exactitud` | Cada negrita dentro de un bloque anclado en un artículo, contra el texto de ese artículo | **Aplicable en seis temas**: 1, 2, 7, 9, 10 y 12. **74 negritas comprobadas, 0 no literales** |
 | `refutar_modo` | Que el tema no imponga donde la norma faculta, y que recoja las salvedades | **Cero hallazgos reales.** Quedan **tres colisiones de numeración** que la propia lente avisa |
-| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **52 tramos comprobados, 0 no literales** |
+| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **59 tramos comprobados, 0 no literales**: 54 en los temas y **5 en el apéndice** |
 | `refutar_prosa` | Relleno, frases repetidas, siglas sin presentar y negritas rotas | **Cero hallazgos** en los doce temas **y en los doce esquemas** |
 | `refutar_documento` | Cada negrita y cada cifra contra el documento de empresa reconocido ópticamente | **61 cifras huérfanas**, y todas se explican abajo |
 
@@ -168,13 +170,66 @@ que le toca:
 **Ninguna se arregla por dentro.** Lo que se contesta en un examen es lo que el documento dice, y lo
 que conviene saber es que dice esto.
 
-## Y lo que queda sin comprobar, dicho
+## El apéndice, y qué se comprueba en él
 
-**Una afirmación del proyecto sigue sin fuente.** Se anotó que el documento de referencia se declara
-a sí mismo **«meramente enunciativo y no limitativo de las fuentes oficiales»**. **Esa frase no
-aparece en las mil trescientas treinta y cuatro páginas volcadas ni en las bases de la
-convocatoria.** **Se deja escrita como no verificada** en lugar de repetirla: una cita que no se
-encuentra no se publica.
+**El volumen lleva detrás de los doce temas un apéndice que no es un tema**: **las diez preguntas
+psicotécnicas** que cada cuadernillo trae y que el programa deja fuera. **Sus lentes son otras**, y
+conviene decir cuáles y por qué:
+
+- **Exactitud y modo no aplican**: no hay norma, no hay artículos, no hay salvedades. **Su cero sería
+  el cero que no dice nada**, y por eso el cuadro escribe «no aplica» y no «0».
+- **Citas sí aplica, y pasa**: **5 tramos comprobados, 0 no literales**. Son las tres frases de las
+  bases que describen la prueba y **los dos textos de comprensión lectora**, contrastados contra los
+  cuadernillos oficiales.
+- **Prosa pasa**: 0 hallazgos.
+- **Y tiene una comprobación que ningún tema puede tener: la aritmética.** **Las seis preguntas
+  numéricas se han recalculado sobre los valores leídos del gráfico y las seis dan el resultado que
+  la plantilla marca**; **las cuatro series con regla demostrada dan la letra que la plantilla da**.
+  **Diez de sus veinte preguntas quedan verificadas de extremo a extremo.**
+
+**Y de las otras cuatro series se dice que no se demuestran.** Se puede describir lo que hacen, pero
+**describir no es demostrar**, y **una regla inventada que acierte la letra por casualidad enseña a
+buscar lo que no hay**. Van con su respuesta oficial y sin regla, que es lo honrado.
+
+## La cita que no aparecía, y dónde estaba
+
+**Una afirmación del proyecto estuvo un día sin fuente, y merece contarse entera porque el fallo era
+de método.** Se había anotado que **el documento de referencia se declara a sí mismo «meramente
+enunciativo y no limitativo de las fuentes oficiales»**, y **esa frase no aparece en las mil
+trescientas treinta y cuatro páginas volcadas ni en las bases de la convocatoria**. Se dejó escrita
+como no verificada, que es lo correcto mientras no se encuentra.
+
+**Estaba fuera del documento, y por eso no salía: la declaración no la hace el documento, la hace la
+nota que Correos publicó al lado.** El apunte decía «hay que comprobarla dentro del documento», y
+ese «dentro» mandó a buscarla al único sitio donde no podía estar. **Comprobado el 2026-09-15**, lo
+que Correos publicó en el apartado de Personas y Talento de su web dice, citado:
+
+> «**Este documento de referencia de los contenidos del temario, que en ningún caso reviste carácter
+> de manual o temario oficial de las pruebas, está actualizado a fecha 31 de octubre de 2022.**»
+
+> «**Su carácter es meramente enunciativo y no limitativo de las fuentes oficiales de información
+> sobre las que el aspirante puede servirse para elaborar materiales de estudio a título
+> particular.**»
+
+**Con qué nivel de fuente.** **El portal de Correos ya no la sirve** —la convocatoria está cerrada y
+su material retirado, igual que los doce PDF—, así que se ha contrastado contra **dos reproducciones
+independientes**, de 28 y 30 de diciembre de 2022, **que coinciden palabra por palabra en las dos
+frases y en la fecha de actualización**, y una de las dos dice de dónde la tomó. **No es fuente
+primaria servida por el organismo, y así queda escrito**, que es la misma advertencia que llevan los
+PDF del documento. **La nota está volcada junto al documento**, de modo que **las dos frases que el
+tema 1 cita las comprueba ahora la lente de citas contra un fichero del repositorio** y no contra un
+recuerdo: **32 tramos comprobados en ese tema, 0 no literales**.
+
+**Y confirmada, la frase respalda tres cosas que este temario ya hacía**: que **manda el Boletín**
+cuando el documento se desvía de él; que las normas se lean **en su redacción vigente**, porque el
+documento está congelado el 31 de octubre de 2022 y lo dice su propia nota; y que cada tema declare
+**qué no da y dónde está**, porque «no limitativo» significa que el examen puede salirse del
+documento.
+
+**La lección de método, que es lo que se lleva el proyecto**: **una cita que no se encuentra no se
+publica, pero tampoco se archiva sin buscarla donde sí puede estar.** Aquí el apunte original traía
+dentro su propio error —«dentro del documento»— y **la comprobación repitió el error en vez de
+cuestionarlo**.
 
 **Y dos normas que el documento invoca no están volcadas**: el **Real Decreto 304/2014**, Reglamento
 de la Ley 10/2010, y el **RGPD**, que no es norma del Boletín. De las dos se reproduce **lo que el

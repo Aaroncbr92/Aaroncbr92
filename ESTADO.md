@@ -599,6 +599,26 @@ en Documentación y en Producción (Asistencia).
       cazaron a la vista sobre la página impresa y por el patrón ortográfico, y **el volcador
       detecta ahora las dos formas de la capa rota él solo**. Cada corrección queda registrada con
       la columna que dice cómo se comprobó.
+- [x] **El apéndice de psicotécnicas de Correos, el 2026-09-15.** El Anexo III deja fuera del
+      temario **diez de las cien preguntas que puntúan** —«90 sobre las materias del presente anexo
+      y 10 preguntas psicotécnicas»— y el volumen las llevaba declaradas pero sin trabajar. Ahora
+      van en un **apéndice detrás de los doce temas**, con las **veinte reales** del examen: los dos
+      textos de comprensión lectora con las seis preguntas y la frase que contesta cada una, los dos
+      gráficos pasados a tabla con **las seis cuentas rehechas**, y **la anatomía de los ocho ítems
+      de series** con su método, su respuesta oficial y **la regla demostrada de cuatro de ellos**.
+      **Diez de las veinte quedan verificadas de extremo a extremo.** Va como apéndice y no como
+      tema trece para no romper la regla de que **el número del tema es el número del punto del
+      programa**; `libro.py` y `word.py` admiten ahora apéndices, y los doce volúmenes de RTVE salen
+      carácter a carácter como salían.
+- [x] **La cita que no aparecía, comprobada el 2026-09-15.** Se había anotado que el documento de
+      referencia **se declara a sí mismo «meramente enunciativo y no limitativo de las fuentes
+      oficiales»**, con la instrucción de buscarla «dentro del documento», y **no está en sus 1.334
+      páginas**: la declaración **no la hace el documento, la hace la nota que Correos publicó al
+      lado**, en el apartado de Personas y Talento de su web. Contrastada contra **dos
+      reproducciones independientes** de diciembre de 2022 que coinciden palabra por palabra.
+      **Confirmada, respalda tres cosas que el temario ya hacía**: que manda el Boletín, que las
+      normas se lean en su redacción vigente —el documento está congelado el 31 de octubre de
+      2022— y que cada tema declare qué no da.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones

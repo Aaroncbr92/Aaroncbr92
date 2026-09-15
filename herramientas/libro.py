@@ -2065,6 +2065,16 @@ BLOQUES = {
             "advierte donde pasa. Las normas que el documento invoca van citadas en su "
             "<b>redacción vigente</b>, no en la de 2022: donde el documento remite a una ley "
             "derogada —y lo hace varias veces— el tema lo dice y da la que está en vigor.</p>"),
+        parrafo_partes=(
+            "<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el <b>esquema</b>, "
+            "para repasar, que va detrás y no delante a propósito; y las <b>preguntas reales</b> "
+            "del examen del 7 de mayo de 2023, para comprobar si el tema se sostiene. <b>Las "
+            "respuestas están al final del volumen</b>, no junto a la pregunta: con la respuesta a "
+            "la vista no hay autoevaluación.</p>"
+            "<p><b>Y detrás de los doce temas hay un apéndice que no es un tema</b>, porque su "
+            "materia no está en el programa: <b>las diez preguntas psicotécnicas</b> que cada "
+            "cuadernillo trae y que <b>puntúan igual que las otras noventa</b>. Van las veinte "
+            "reales del examen, con la cuenta hecha y la respuesta oficial.</p>"),
         parrafo_memoria=(
             "<p><b>Nada de aquí se ha escrito de memoria, y aquí eso cuesta más que en un temario "
             "de norma.</b> Cada cifra se ha leído <b>sobre la página impresa del documento</b>, no "
@@ -2105,6 +2115,11 @@ BLOQUES = {
             (11, "internacionalizacion-y-aduanas"),
             (12, "normas-de-cumplimiento-datos-blanqueo-etica-y-ciberseguridad"),
         ]],
+        # las diez preguntas psicotécnicas de cada cuadernillo **no están en el
+        # programa y sí están en el examen**: son diez de las cien que puntúan.
+        # Van como apéndice y no como tema trece, para no romper la regla de que
+        # el número del tema es el número del punto del Anexo III
+        apendices=[("apendice-psicotecnico", "Las preguntas psicotécnicas")],
         aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
                          "<b>tres preguntas las anuló la propia Correos</b> \u2014y su celda de "
                          "la plantilla dice «Anulada», no una letra\u2014 y <b>en una la errata "
@@ -2502,6 +2517,35 @@ def main():
         bloque.append("</section>")
         partes.append("\n".join(bloque))
 
+    # ── apéndices de materia ──────────────────────────────────────────────────
+    # **Un apéndice no es un tema trece.** Hay materia que entra en el examen y
+    # **no está en el programa** —las diez preguntas psicotécnicas de Correos son
+    # diez de las cien que puntúan—, y meterla como tema rompería la regla que
+    # el volumen sí cumple: **el número del tema es el número del punto del
+    # programa**. Va detrás de los temas, numerada con letra en vez de con
+    # cifra, y el índice la anuncia como lo que es.
+    for letra, (base, rotulo) in zip("ABCDEFGH", B.get("apendices", [])):
+        crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
+        titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
+        cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
+        cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", cuerpo, flags=re.S)
+        ficha, resto = "", cuerpo
+        mt = re.match(r"\s*(\|.*?\|)\n\n", cuerpo, re.S)
+        if mt:
+            ficha = md.render(mt.group(1))
+            resto = cuerpo[mt.end():]
+        resto, entradas = numera(resto, letra)
+        indice_gral.append(("APÉNDICE %s –" % letra, rotulo, entradas,
+                            "apendice-%s" % letra))
+        bloque = ['<section class="tema" id="apendice-%s">' % letra]
+        bloque.append('<p class="rotulo">%s</p>' % html.escape(B["rotulo"]))
+        bloque.append("<h1>APÉNDICE %s – %s</h1>" % (letra, html.escape(rotulo)))
+        if ficha:
+            bloque.append('<div class="ficha">%s</div>' % ficha)
+        bloque.append(md.render(baja_titulos(resto, 0)))
+        bloque.append("</section>")
+        partes.append("\n".join(bloque))
+
     # ── apéndice de respuestas ────────────────────────────────────────────────
     # hay ocupaciones que nunca han tenido examen: su volumen no lleva apéndice
     # de respuestas, ni la portada promete preguntas que no existen
@@ -2536,11 +2580,14 @@ def main():
     if not sin_examen:
         resp.append("</section>")
 
+    # el apéndice cuenta en la portada: si no, el volumen promete menos de lo
+    # que trae y quien lo hojea no sabe que las psicotécnicas están dentro
+    cola = ("".join(" · <b>%s</b>" % r for _, r in B.get("apendices", [])))
     linea_meta = (
-        ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>"
-         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower())) if sin_examen else
-        ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen"
-         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg)))
+        ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>%s"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), cola)) if sin_examen else
+        ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen%s"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg, cola)))
     parrafo_partes = texto_partes(B, sin_examen)
     parrafo_preguntas = texto_preguntas(B, sin_examen)
     caja_corte = texto_caja_corte(B)
@@ -2548,11 +2595,15 @@ def main():
     parrafo_memoria = texto_memoria(B)
 
     ig = []
-    for i, t, entradas in indice_gral:
-        ig.append(linea_indice(0, "TEMA %d –" % i, t.split("·", 1)[-1].strip(),
-                               "tema-%d" % i))
-        for nivel, numero, titulo, ancla in entradas:
-            ig.append(linea_indice(nivel, numero, titulo, ancla))
+    for fila in indice_gral:
+        if len(fila) == 4:                      # un apéndice: ya trae su rótulo
+            rot, titulo, entradas, ancla = fila
+        else:
+            i, t, entradas = fila
+            rot, titulo, ancla = "TEMA %d –" % i, t.split("·", 1)[-1].strip(), "tema-%d" % i
+        ig.append(linea_indice(0, rot, titulo, ancla))
+        for nivel, numero, titulo_e, ancla_e in entradas:
+            ig.append(linea_indice(nivel, numero, titulo_e, ancla_e))
 
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <!-- pie: {B["pie"]} -->
