@@ -227,6 +227,10 @@ DE MÁQUINA** —velocidades, apiladores, milímetros— · **su volcado es el m
   manual** para cancelar el correo con sello.
 - **LA FUNCIÓN CON NOMBRE LITERAL** · `[doc]` · **«¿Por qué no está listo?»**, que se usa **en caso
   de parada, para resolver cuanto antes la incidencia**.
+- **LAS SACAS DE BUZONES TIENEN SU PROPIA APLICACIÓN** · `[doc]` · **se escanean y se controlan
+  mediante lectura del código de barras en MARABÚ 2** · cayó en **Reparto, nº 59**, con **Wialon,
+  Oca 3 y Horus** de señuelos · *el rótulo viene de un diagrama y la capa de texto lo devuelve con
+  las palabras pegadas: se ha leído a la vista en la página 862.*
 
 ## Aviso de estudio
 

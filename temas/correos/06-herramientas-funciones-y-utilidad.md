@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | **No procede**: ninguna norma sostiene este tema |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 6**, reconocido ópticamente |
-| **Extensión** | **2.889 palabras** |
+| **Extensión** | **4.084 palabras** |
 
 <!-- /portada -->
 
@@ -46,7 +46,9 @@ de escribir.** El apartado final lo cuenta.
 
 - [1. El mapa entero, de una vez](#1-el-mapa-entero-de-una-vez)
 - [2. IRIS](#2-iris)
+  - [Dos pantallas de IRIS que el examen pregunta al detalle](#dos-pantallas-de-iris-que-el-examen-pregunta-al-detalle)
 - [3. SGIE](#3-sgie)
+  - [SGIE en la oficina, que hace otras cosas](#sgie-en-la-oficina-que-hace-otras-cosas)
 - [4. Minerva](#4-minerva)
 - [5. Las otras aplicaciones de oficina](#5-las-otras-aplicaciones-de-oficina)
 - [6. El dispositivo PDA](#6-el-dispositivo-pda)
@@ -93,6 +95,15 @@ de escribir.** El apartado final lo cuenta.
 **SGIE y Minerva** —**SGIE es el sistema en puesto fijo del flujo postal, Minerva la plataforma de
 trazabilidad en la nube**—.
 
+**Y ésta es la lista cerrada, que es como se pregunta.** **Una forma frecuente del examen es dar
+cuatro siglas y pedir la que NO se usa en las oficinas de Correos**, y la falsa **no está en ninguna
+parte del documento**: no hay dónde buscarla, sólo se descarta sabiendo las que sí están. **En 2023
+la falsa fue «SEIC»** (una sigla que no designa ninguna aplicación de Correos) —es la número 104 del cuestionario de Atención al Cliente—, frente a **IRIS**,
+**WUPOS** y **SGTC**, que son las tres de esta tabla. **La misma trampa se repite con las
+aplicaciones de la PDA**: **son Hera, TALOS/CORE, MILLA y Talina**, y **IRIS no es una de ellas**
+—es la número 16 del cuestionario de Reparto—, porque **IRIS es el frontal de oficina y la PDA es el
+dispositivo de reparto**.
+
 ## 2. IRIS
 
 **Para acceder hay que estar registrado en la base de datos del sistema y disponer de usuario y
@@ -124,6 +135,36 @@ periodo.
 en IRIS se transfiere a otros sistemas de Correos**, y eso es lo que **garantiza la trazabilidad y el
 seguimiento**.
 
+### Dos pantallas de IRIS que el examen pregunta al detalle
+
+**La primera, «Características del envío»**, que es el panel de **Inicio › Admisión › Envíos Postales
+› Cartas**. **Sus campos son éstos y no hay más**, leídos a la vista sobre la página 444 del
+documento, porque **la captura de pantalla no sale entera del reconocimiento**:
+
+| Campo | Qué se informa |
+|---|---|
+| **Peso** | En gramos |
+| **Ámbito** | **Península y Baleares** y los demás ámbitos |
+| Código postal de destino **(CP Destino)** | **El código postal del destino del envío** |
+| **País** | Con su código |
+| **Urbano / Interurbano** | Los dos botones |
+| **Modalidades** | **Aviso de recibo**, **reembolso**, **asegurado** |
+| **Info. Envío** | **No normalizado** y **¿tiene mercancías peligrosas?** |
+| **Código de envío o nº de referencia** | **Sólo para envíos pre-registrados** |
+
+**No hay ningún campo de nombre.** **Ni del destinatario ni del remitente**: la carta ordinaria se
+tarifica por **peso, ámbito y código postal**, no por quién la recibe. **El examen de 2023 lo
+preguntó así** —es la número 98 del cuestionario de Atención al Cliente—, ofreciendo **peso**,
+**ámbito** y **código postal de destino**, que sí están, frente a **nombre del destinatario**, que
+no.
+
+**La segunda, el mantenimiento de albaranes.** **Un albarán se da de alta desde Admisión y se
+modifica o cancela desde las dos partes**, porque —citado— **«todas las funcionalidades de la
+aplicación tienen su respectivo mantenimiento, a través del cual el usuario puede consultar,
+modificar o dar de baja el producto admitido»**. **El examen preguntó por el apartado** —es la
+número 60 del cuestionario de Reparto— ofreciendo **Admisión › Albaranes** y **Mantenimiento ›
+Albaranes**: **las dos valen**, y por eso la buena es «las respuestas A y B son correctas».
+
 ## 3. SGIE
 
 **El acceso tiene dos reglas con número, y las dos se preguntan.** **La primera**: **para acceder a SGIE
@@ -147,6 +188,29 @@ desbloquearlo hay que contactar con el administrador de usuarios, que lo hace ma
 
 **Que la gestión de estacionados sea del remitente y no del destinatario es exactamente el tipo de
 matiz que decide una pregunta.**
+
+### SGIE en la oficina, que hace otras cosas
+
+**La misma aplicación tiene otra lista de funciones cuando quien la usa es una unidad de entrega en
+oficina, y el examen pregunta por las dos.** Son **seis**:
+
+| Funcionalidad | Qué hace |
+|---|---|
+| **Recepción de avisados** | **Todos los envíos registrados que lleguen de las distintas unidades** para su entrega al destinatario |
+| **Alta de envíos no registrados** | Los **no registrados que, por dimensiones o peso, no tienen entrega domiciliaria** |
+| **Liquidación de envíos** | **Informa el resultado de la entrega**: **entregado, caducado o devuelto/rehusado** |
+| **Consulta de envíos** | **Recupera la situación** de los envíos introducidos en el sistema |
+| **Cuadre de la unidad** | **El cuadre de envíos con importes y el de almacén**; **controla los envíos pendientes de entrega en el almacén** |
+| **Cierre de usuario** | **El usuario de la unidad de entrega bloquea y desbloquea su puesto** para operaciones contables en una fecha |
+
+**Seis, y ninguna es de venta.** **SGIE no vende nada**: **la venta de sellos, filatélicos o no, está
+en IRIS**, que es el frontal de admisión y venta. **El examen de 2023 puso justamente eso como
+señuelo** —es la número 61 del cuestionario de Atención al Cliente—, junto a tres funciones que sí
+son suyas: **recepción de avisados, liquidación de envíos y cierre de usuario**.
+
+**Y no hay que cruzar las dos listas.** **La consulta de apartados no es de las siete de
+distribución** —es la número 44 del cuestionario de Reparto—, donde sí están **gestión de
+estacionados**, **buzón electrónico** y **asignación a reparto**.
 
 ## 4. Minerva
 
@@ -198,6 +262,16 @@ que **Western Union presta en más de 200 países**.
 **Hermes** permite **la venta de productos de la ONCE**. **Se accede por Venta electrónica**, y **el usuario
 ha de identificarse con el mismo código con el que ha abierto IRIS.**
 
+**La aplicación de Correos Express** es **el frontal desde el que se admite la paquetería urgente de
+la filial** —**Paq 10, Paq 14 y Paq 24**—, **y no IRIS**. **Se llega a ella desde la página
+principal de IRIS**, por **Llamadas a sistemas externos**, y allí **se selecciona Correos Express**.
+**Antes de ofrecer el producto hay que abrirla e introducir la localidad de destino**, porque **la
+aplicación devuelve si hay entrega en esa localidad**.
+
+**Que el Paq 24 no se admita desde IRIS sino desde su propio frontal es la pregunta** —es la número
+31 del cuestionario de Atención al Cliente—, que ofrecía **IRIS › Envíos Postales**, **IRIS ›
+Mágica** y **Hera** como señuelos.
+
 ## 6. El dispositivo PDA
 
 **Se accede con código de usuario y contraseña**, y **tras entrar hay que elegir tres cosas**: **turno,
@@ -239,6 +313,41 @@ convierte en la aplicación más preguntable del tema.
 negocio focalizada hacia el cliente como a todas las aplicaciones informáticas —software y hardware—
 necesarias para procesar, analizar y exponer la información resultante**. **Esa doble naturaleza es la
 pregunta.**
+
+**Y su funcionalidad principal tiene una formulación fija**, citada:
+
+> «**La principal funcionalidad de CRM es disponer en cualquier momento de toda la información sobre
+> cualquier cliente, para satisfacer sus necesidades y permitir unas mejores estrategias
+> comerciales.**»
+
+---
+
+**Ésa es la frase entera, y el examen la pidió tal cual** —es la número 106 del cuestionario de
+Reparto—. **Debe además permitir una visión única del cliente y transformar cada experiencia del
+cliente en una ventaja de negocio.**
+
+**Lo que se maneja dentro son dos clases de dato, y la segunda es la que se pregunta.** **Los datos
+maestros no varían en el tiempo** —**cliente**, **prospecto**, que es el cliente potencial, y
+**contacto**, la persona de contacto en uno de los dos—. **Los datos transaccionales dicen qué
+interacciones hay con el cliente**, y son **cinco**:
+
+| Dato transaccional | Qué es |
+|---|---|
+| **Actividad** | Permite al gestor de ventas **planificarse y prepararse**, y **registrar tareas** relacionadas con el cliente o el contacto |
+| **Oportunidad** | **La negociación en curso**: **toda la información de cada intento de cerrar un trato** |
+| **Oferta** | **Deja constancia de los precios y condiciones propuestos**, hace **seguimiento de las etapas**, **programa actividades**, **adjunta documentos** y **genera las ofertas**. **Una oportunidad puede tener una o varias ofertas** |
+| **Lead** | **La «preoportunidad»**: **permite determinar si existe una oportunidad de negocio**, mientras que la oportunidad ya es **un negocio tangible** |
+| **Contrato** | **Refleja el acuerdo entre Correos y el cliente**, con **los productos y servicios requeridos, los precios y las condiciones** |
+
+**El contrato está dentro del CRM, y por eso el CRM sí genera contratos.** **El examen de 2023
+preguntó cuál de cuatro afirmaciones es INCORRECTA** —es la número 109 del cuestionario de Atención
+al Cliente— y la falsa era **«no permite generar contratos»**: **sí los genera**, igual que **planifica
+y registra la actividad comercial**, **genera ofertas** y **archiva la documentación contractual**.
+
+**Y el ciclo de ventas tiene tres fases**, que es donde encaja todo lo anterior: **preventa**, que
+capta clientes nuevos y crea oportunidades; **venta**, que es negociación y contratación y **crea el
+contrato y sus anexos**; y **postventa**, el seguimiento del cliente, sus consumos y sus
+incidencias.
 
 **SIE** permite **grabar el número de envíos y consultar informes**, y **da acceso tanto a los datos
 grabados en el día como a los de cada fecha y a las acumulaciones mensuales y anuales**, que **se cargan

@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede.** La **Ley 43/2010**, de la que salen las seis operaciones postales, va en su redacción vigente |
 | **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 8**, reconocido ópticamente |
-| **Extensión** | **3.233 palabras** |
+| **Extensión** | **3.374 palabras** |
 
 <!-- /portada -->
 
@@ -323,6 +323,17 @@ correo con sello.
 
 **Una función de la máquina que el documento nombra literalmente y puede preguntarse**: **«¿Por qué no
 está listo?»**, que se usa **en caso de parada, para resolver cuanto antes la incidencia**.
+
+**Y una aplicación con nombre propio que sólo aparece aquí.** **No se cita porque no se puede**: la
+frase vive **en el rótulo de un diagrama**, y la capa de texto del documento la devuelve con las
+palabras pegadas —«Lassacasprocedentes de Buzonesseescanean»—. **Se ha leído a la vista sobre la
+página 862**, que dice: **las sacas procedentes de buzones se escanean y se controlan mediante
+lectura del código de barras en la aplicación informática Marabú 2.**
+
+**Marabú 2, y sólo para las sacas que vienen de buzones.** **El examen de 2023 preguntó por ella**
+—es la número 59 del cuestionario de Reparto—, con **Wialon**, **Oca 3** y **Horus** como señuelos.
+**No está en el mapa de aplicaciones del tema 6 porque no es una herramienta de oficina ni de
+reparto: es del centro de tratamiento**, y por eso se estudia aquí.
 
 ## 6. Lo que este tema no da, y dónde está
 

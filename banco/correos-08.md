@@ -1,6 +1,6 @@
 # Correos · Tema 8 · Procesos operativos II: tratamiento y transporte
 
-12 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+13 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -125,6 +125,20 @@ b) Amarillo
 c) Naranja
 d) Verde Preguntas psicotécnicas: Un científico experto en Natalidad y Fertilidad Animal está interesado en conocer los nacimientos de ovejas dentro de las comarcas de cierta Comunidad Autónoma a lo largo de los años. Concretamente ha estudiado las comarcas de Villamayor, Castillar y Cantar del Lobo. De acuerdo con la información recopilada, conteste a las siguientes preguntas:
 ```
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 59 · respuesta: b**
+
+```
+¿En qué aplicación informática se escanean y se controlan mediante lectura del código de barras las sacas procedentes de buzones?
+a) Wialon
+b) Marabú 2
+c) Oca 3
+d) Horus
+```
+
+*La contesta el epígrafe 8.6.5.*
 
 ---
 

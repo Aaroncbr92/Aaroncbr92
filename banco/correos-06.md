@@ -1,6 +1,6 @@
 # Correos · Tema 6 · Herramientas: funciones y utilidad
 
-22 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+21 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -16,6 +16,8 @@ c) Permite controlar el tiempo de espera de los clientes en las oficinas
 d) Permite acceder a la funcionalidad de envío de dinero
 ```
 
+*La contesta el epígrafe 6.6.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 16 · respuesta: b**
@@ -27,6 +29,8 @@ b) SEDI
 c) SICER
 d) WUPOS
 ```
+
+*La contesta el epígrafe 6.6.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Hera
 d) Aplicación de Correos Express
 ```
 
+*La contesta el epígrafe 6.6.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 33 · respuesta: a**
@@ -51,6 +57,8 @@ b) IRIS
 c) Quenda
 d) SEDI
 ```
+
+*La contesta el epígrafe 6.6.*
 
 ---
 
@@ -64,6 +72,8 @@ c) Venta de productos
 d) Entrega de envíos
 ```
 
+*La contesta el epígrafe 6.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 61 · respuesta: a**
@@ -75,6 +85,8 @@ b) La recepción de envíos avisados
 c) La liquidación de envíos
 d) El cierre de usuario
 ```
+
+*La contesta el epígrafe 6.4.1.*
 
 ---
 
@@ -88,6 +100,8 @@ c) Informar la estadística de la oficina
 d) Efectuar transferencias de dinero
 ```
 
+*La contesta el epígrafe 6.6.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 90 · respuesta: b**
@@ -99,6 +113,8 @@ b) SIGUA
 c) SICER
 d) IRIS
 ```
+
+*La contesta el epígrafe 6.8.*
 
 ---
 
@@ -112,6 +128,8 @@ c) Ámbito
 d) Código postal de destino
 ```
 
+*La contesta el epígrafe 6.3.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 104 · respuesta: b**
@@ -123,6 +141,8 @@ b) SEIC
 c) WUPOS
 d) SGTC
 ```
+
+*La contesta el epígrafe 6.2.*
 
 ---
 
@@ -136,6 +156,8 @@ c) No permite generar contratos
 d) Permite archivar documentación contractual
 ```
 
+*La contesta el epígrafe 6.8.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 6 · respuesta: a**
@@ -147,6 +169,8 @@ b) SGIE
 c) SEDI
 d) SGTC
 ```
+
+*La contesta el epígrafe 6.8.*
 
 ---
 
@@ -160,6 +184,8 @@ c) IRIS
 d) HERA
 ```
 
+*La contesta el epígrafe 6.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 34 · respuesta: b**
@@ -171,6 +197,8 @@ b) Liquidación de sección reparto
 c) Venta de productos
 d) Admisión de cartas
 ```
+
+*La contesta el epígrafe 6.3.*
 
 ---
 
@@ -184,17 +212,7 @@ c) Asignación a reparto
 d) Consulta de apartados
 ```
 
----
-
-**Cuestionario-REP_A_07052023 · nº 59 · respuesta: b**
-
-```
-¿En qué aplicación informática se escanean y se controlan mediante lectura del código de barras las sacas procedentes de buzones?
-a) Wialon
-b) Marabú 2
-c) Oca 3
-d) Horus
-```
+*La contesta el epígrafe 6.4.*
 
 ---
 
@@ -208,6 +226,8 @@ c) Las respuestas A y B son correctas
 d) Un albarán no se puede modificar
 ```
 
+*La contesta el epígrafe 6.3.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 62 · respuesta: a**
@@ -219,6 +239,8 @@ b) Es la herramienta informática que permite la admisión y venta de productos 
 c) Es el sistema de envío de dinero que utilizan las oficinas de Correos
 d) Es la aplicación que permite documentar a través de la PDA la identidad del conductor, el kilometraje y el repostaje realizados por el vehículo de reparto.
 ```
+
+*La contesta el epígrafe 6.5.*
 
 ---
 
@@ -232,6 +254,8 @@ c) Talos/Core
 d) Talina
 ```
 
+*La contesta el epígrafe 6.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 81 · respuesta: c**
@@ -243,6 +267,8 @@ b) CORE
 c) MILLA
 d) SIE
 ```
+
+*La contesta el epígrafe 6.2.*
 
 ---
 
@@ -256,6 +282,8 @@ c) Hermes
 d) Quenda
 ```
 
+*La contesta el epígrafe 6.6.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 106 · respuesta: a**
@@ -267,4 +295,6 @@ b) Permite al comprador modificar desde su móvil o PC la entrega del envío aju
 c) Realizar el pago de multas, recibos, deudas u otros que hayan contratado los clientes para su pago a través de Correos.
 d) Localizar un envío para conocer su estado, localizar oficinas, Citypaqs o buzones, trámites aduaneros, enviar un paquete.
 ```
+
+*La contesta el epígrafe 6.8.*
 

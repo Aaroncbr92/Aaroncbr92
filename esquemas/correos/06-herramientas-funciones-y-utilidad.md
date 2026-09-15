@@ -64,6 +64,16 @@ quince nombres propios, casi todos siglas, y al examen le basta con CAMBIARLE LA
 
 - **LOS DOS PARES QUE MÁS SE CONFUNDEN** · `[tem]` · **HERA ADMITE, TALOS ENTREGA** · **SGIE es el
   sistema EN PUESTO FIJO del flujo postal; MINERVA es la plataforma de trazabilidad EN LA NUBE**.
+- **LA LISTA ES CERRADA, Y ASÍ SE PREGUNTA** · `[tem]` · **dan cuatro siglas y piden la que NO se
+  usa**: **la falsa no está en el documento**, sólo se descarta sabiendo las que sí · en 2023 fue
+  **«SEIC»** (una sigla que no designa ninguna aplicación de Correos), frente a **IRIS, WUPOS y
+  SGTC** —cayó en **Atención al Cliente, nº 104**— · **misma trampa con la PDA**: son **Hera,
+  TALOS/CORE, MILLA y Talina**, y **IRIS NO** —cayó en **Reparto, nº 16**—.
+- **EL FRONTAL DE LA PAQUETERÍA URGENTE NO ES IRIS** · `[doc]` · **Paq 10, Paq 14 y Paq 24 se
+  admiten desde la aplicación de CORREOS EXPRESS**, a la que se llega **desde la página principal de
+  IRIS por «Llamadas a sistemas externos»** · **antes de ofrecer el producto hay que abrirla e
+  introducir la localidad de destino**, y dice si hay entrega · cayó en **Atención al Cliente, nº
+  31**.
 
 ## IRIS
 
@@ -111,6 +121,12 @@ quince nombres propios, casi todos siglas, y al examen le basta con CAMBIARLE LA
 
 - **EL MATIZ QUE DECIDE UNA PREGUNTA** · `[tem]` · **la gestión de estacionados es DEL REMITENTE, no
   del destinatario**.
+- **SGIE EN LA OFICINA HACE OTRAS SEIS COSAS** · `[doc]` · **recepción de avisados** · **alta de
+  envíos no registrados** · **liquidación de envíos** —**entregado, caducado o
+  devuelto/rehusado**— · **consulta de envíos** · **cuadre de la unidad** · **cierre de usuario** ·
+  **NINGUNA es de venta: SGIE no vende, vende IRIS** —cayó en **Atención al Cliente, nº 61**, con
+  «la venta de sellos filatélicos» de señuelo— · **y no se cruzan las dos listas**: **la consulta de
+  apartados NO es de las siete de distribución** —cayó en **Reparto, nº 44**—.
 
 ## Minerva
 
@@ -191,6 +207,18 @@ quince nombres propios, casi todos siglas, y al examen le basta con CAMBIARLE LA
   referencia **tanto a la ESTRATEGIA DE NEGOCIO focalizada hacia el cliente como a todas las
   APLICACIONES INFORMÁTICAS —software y hardware— necesarias para procesar, analizar y exponer la
   información resultante**.
+- **SU FUNCIONALIDAD PRINCIPAL, LITERAL** · `[doc]` · **«disponer en cualquier momento de toda la
+  información sobre cualquier cliente, para satisfacer sus necesidades y permitir unas mejores
+  estrategias comerciales»** · cayó en **Reparto, nº 106**.
+- **LOS CINCO DATOS TRANSACCIONALES** · `[doc]` · **ACTIVIDAD**, planificar y registrar tareas ·
+  **OPORTUNIDAD**, la negociación en curso · **OFERTA**, precios y condiciones propuestos; **una
+  oportunidad puede tener varias** · **LEAD**, la «preoportunidad», que sirve **para determinar si
+  hay oportunidad** · **CONTRATO**, el acuerdo con productos, precios y condiciones · **los datos
+  MAESTROS son los que no varían**: **cliente**, **prospecto** —el potencial— y **contacto**.
+- **EL CRM SÍ GENERA CONTRATOS** · `[tem]` · el contrato es uno de sus datos transaccionales, así
+  que **«no permite generar contratos» es FALSO** — cayó en **Atención al Cliente, nº 109**, que
+  pedía la afirmación incorrecta · **el ciclo de ventas son tres fases**: **preventa**, **venta**
+  —que crea el contrato y sus anexos— y **postventa**.
 - **SIE** · `[doc]` · **grabar el número de envíos y consultar informes** · **da acceso a los datos
   grabados EN EL DÍA, a los de cada fecha y a las acumulaciones MENSUALES Y ANUALES**, que **se
   cargan diariamente**.
