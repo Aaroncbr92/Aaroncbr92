@@ -15,7 +15,7 @@ Ninguno. El temario común de Canal Sur no desarrolla redacción televisiva (gre
 
 ## Comprobaciones hechas al redactar (grep en `fuentes/informacion/RTVE_manual-de-estilo_tve.txt`, 24-09-2026)
 
-«hipotecando», «elevar la voz o gritar», «reforzar la credibilidad», «entradilla, medianilla o salidilla», «condensar una noticia», «filtros correctores», rótulo de archivo «preferentemente, con indicación de la fecha», «concentración de recursos audiovisuales»: coinciden. «fijando la atención… rótulos extensos y/o poco enriquecedores»: l. 94, confirmar el tramo final en fase 3. Citas del Libro de estilo: tomadas de la investigación, sin releer; la fase 3 debe releerlas.
+«hipotecando», «elevar la voz o gritar», «reforzar la credibilidad», «entradilla, medianilla o salidilla», «condensar una noticia», «filtros correctores», rótulo de archivo «preferentemente, con indicación de la fecha», «concentración de recursos audiovisuales»: coinciden. «fijando la atención… rótulos extensos y/o poco enriquecedores»: l. 95, coincide (comprobado al reanudar, 24-09-2026). Citas del Libro de estilo: tomadas de la investigación, sin releer; la fase 3 debe releerlas.
 
 ## Pasos
 - §1-4, §5-8, §9-11 + «Lo que no da» y «Trazabilidad» escritos y guardados por partes.
