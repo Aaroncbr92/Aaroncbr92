@@ -383,7 +383,8 @@ a la representación de los trabajadores.
      horarios de Fin de Semana**»;
   2. entre jornadas, «**un período mínimo de descanso de al menos doce horas**»;
   3. «**cinco días como máximo de trabajo seguido**» y «**dos días como mínimo de descanso
-     consecutivo**», que se hacen coincidir en lo posible con sábado y domingo;
+     consecutivo**», que se hacen coincidir en lo posible con sábado y domingo, «**salvo horarios
+     de fin de semana y procesos productivos especiales**»;
   4. si no es posible, el descanso de dos días es rotativo, salvo para quienes trabajan
      habitualmente el fin de semana (personal de fin de semana, de deportes o con programa en
      sábado o domingo); la rotación la fija la empresa de acuerdo con los representantes;
@@ -429,8 +430,9 @@ ordinaria de treinta y siete horas y media, y se añade un horario flexible.
   organismos oficiales o la bolsa de trabajo.
 - *Proporcionalidad* (apdo. 3): hasta el 31 de diciembre del año de disfrute, desde el inicio o
   la reanudación de la relación laboral.
-- *Fuera de verano a petición propia* (apdo. 4): entre octubre y junio, con «**una prima de tres
-  días hábiles de vacaciones**».
+- *Fuera de verano a petición propia* (apdo. 4): si el trabajador lo solicita y las necesidades
+  del servicio lo permiten, entre octubre y junio, con «**una prima de tres días hábiles de
+  vacaciones**» o la parte proporcional.
 - *Fraccionamiento* (apdo. 5): por acuerdo, «**en un máximo de dos períodos, sin que ninguno de
   ellos sea inferior a siete días naturales**».
 - *Turnos* (apdo. 6): fijados «**como mínimo, con tres meses de antelación**», por acuerdo entre
@@ -574,7 +576,8 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   igual antigüedad, tener menos cargas familiares y no estar estudiando ese curso.
 
 *B. Traslados forzosos temporales*: por razones técnicas, organizativas o de producción, «**hasta
-el límite de un año**», con salarios, gastos de viaje y dietas. Si pasan de tres meses, «**un mínimo
+el límite de un año**», a población distinta que exija residir fuera de la residencia habitual,
+con salarios, gastos de viaje y dietas. Si pasan de tres meses, «**un mínimo
 de cuatro días laborables de estancia en su domicilio de origen por cada tres meses**», sin contar
 los de viaje. Agotados los doce meses, no puede repetirse durante al menos «**cuatro años**». Tienen
 las mismas garantías, excepciones y criterios que el traslado forzoso, y el puesto no se cubre
