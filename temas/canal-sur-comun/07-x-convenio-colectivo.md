@@ -50,10 +50,10 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
 ### Publicación e inscripción
 
 - **Norma de publicación**: Resolución de 2 de diciembre de 2014, de la Dirección General de
-  Relaciones Laborales (Consejería de Economía, Innovación, Ciencia y Empleo), «por la que se
+  Relaciones Laborales (Consejería de Economía, Innovación, Ciencia y Empleo), «**por la que se
   ordena la inscripción, depósito y publicación del Convenio Colectivo de la empresa Agencia
   Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur
-  Radio, S.A., y Canal Sur Televisión, S.A.». Publicada en el **BOJA núm. 240, de 10 de diciembre
+  Radio, S.A., y Canal Sur Televisión, S.A.**». Publicada en el **BOJA núm. 240, de 10 de diciembre
   de 2014**, sección 3 («Otras disposiciones»), páginas 49 a 213.
 - **Código del convenio**: **71000253011989**.
 - **Firma y ratificación**: suscrito por la representación de la empresa y la de los trabajadores
@@ -69,8 +69,8 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
   LA RADIO Y TELEVISIÓN DE ANDALUCÍA Y SUS SOCIEDADES FILIALES, CANAL SUR RADIO, S.A., CANAL SUR
   TV, S.A., Y SUS TRABAJADORES/AS**».
 
-El enunciado del programa lo abrevia como «X Convenio Colectivo Interprovincial de RTVA y sus
-sociedades filiales». La base 2.1 de la convocatoria de 2026 lo cita como «**X Convenio Colectivo
+El enunciado del programa lo abrevia como «**X Convenio Colectivo Interprovincial de RTVA y sus
+sociedades filiales**». La base 2.1 de la convocatoria de 2026 lo cita como «**X Convenio Colectivo
 Interprovincial de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus
 sociedades filiales**» y dice que el proceso selectivo se regirá por él.
 
@@ -106,7 +106,7 @@ día 1 de enero de 2013, con las excepciones que en cada caso se determinen, y s
 tres años a contar desde dicha fecha, es decir hasta el 31 de diciembre de 2015, con independencia
 de la fecha en que, una vez registrado, sea publicado oficialmente.**»
 
-Dos consecuencias que se preguntan: entró en vigor con efectos **anteriores** a su firma (2014) y a
+Dos datos que conviene retener: entró en vigor con efectos **anteriores** a su firma (2014) y a
 su publicación (diciembre de 2014), y su duración pactada terminó el **31 de diciembre de 2015**.
 
 **Artículo 5. Denuncias**: «**Este Convenio Colectivo quedará automáticamente prorrogado, salvo que
@@ -133,8 +133,9 @@ mantenimiento de la vigencia del apartado 3 (lo que se suele llamar ultraactivid
   AMPLIACIÓN ULTRAACTIVIDAD**» de 05/02/2014 y el texto de 11/02/2011) llevan la vigencia
   01/01/2010-31/12/2012, que es la del convenio anterior, el IX. **Del X Convenio no hay inscrita
   ninguna denuncia, ni promoción de negociación, ni revisión salarial, ni modificación.**
-- **Cámara de Cuentas de Andalucía**, informe de fiscalización de la RTVA y CSRTV del ejercicio
-  2018 (BOJA núm. 36, de 23 de febrero de 2021), punto 234: «**El X Convenio Colectivo que se
+- **Cámara de Cuentas de Andalucía**, informe de fiscalización operativa y de cumplimiento de la
+  RTVA y CSRTV del ejercicio 2018 (Resolución de 9 de febrero de 2021, BOJA núm. 36, de 23 de
+  febrero de 2021), punto 234: «**El X Convenio Colectivo que se
   encuentra actualmente en vigor está prorrogado.**» Y añade que «**En términos generales es el
   mismo texto desde que se creó la empresa y regula las condiciones laborales del personal de la
   radio, de la televisión y de la agencia.**»
@@ -168,9 +169,9 @@ Televisión, S.A. Después se fusionaron:
   Televisión S.A. (CSRTV)**». La Cámara subraya que el convenio se publicó «**previo por tanto al
   proceso de fusión**» (punto 234).
 
-Por eso el texto del convenio sigue hablando de «sus Sociedades Filiales», en plural, mientras que
-los documentos de 2026 hablan de la Agencia «y su Sociedad Filial, Canal Sur Radio y Televisión,
-S.A.» (Reglamento de la Mesa de Contratación, punto 1). El enunciado del programa conserva el
+Por eso el texto del convenio sigue hablando de «**sus Sociedades Filiales**», en plural, mientras
+que el Reglamento de la Mesa de Contratación (punto 1) habla de la Agencia «**y su Sociedad Filial,
+Canal Sur Radio y Televisión, S.A.**». El enunciado del programa conserva el
 plural del título.
 
 ### Estructura real del texto

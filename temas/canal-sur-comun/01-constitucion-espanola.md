@@ -750,7 +750,7 @@ ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.**» (ar
 | 51 | Defensa de los **consumidores y usuarios**, protegiendo «**la seguridad, la salud y los legítimos intereses económicos de los mismos**»; su información y educación; fomento de sus organizaciones, a las que se oirá. La ley regulará el comercio interior y el régimen de autorización de productos comerciales. |
 | 52 | «**La ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios. Su estructura interna y funcionamiento deberán ser democráticos.**» |
 
-**Artículo 49.**, redacción vigente:
+**Artículo 49**, redacción vigente:
 
 1. «**Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones
    de libertad e igualdad reales y efectivas. Se regulará por ley la protección especial que sea
@@ -810,7 +810,7 @@ de los servicios públicos del artículo 106.2.
 
 #### Capítulo quinto. De la suspensión de los derechos y libertades (art. 55)
 
-*Suspensión general (artículo 55.1).* Pueden suspenderse «**cuando se acuerde la declaración del
+**Artículo 55.1.** *Suspensión general.* Pueden suspenderse «**cuando se acuerde la declaración del
 estado de excepción o de sitio en los términos previstos en la Constitución**»; nunca en el de
 alarma. Los derechos suspendibles son, exactamente:
 
@@ -827,7 +827,7 @@ para el supuesto de declaración de estado de excepción.**» Los derechos del d
 (información, no declarar, asistencia de abogado) no se suspenden en el estado de excepción;
 en el de sitio, sí.
 
-*Suspensión individual (artículo 55.2).* «**Una ley orgánica podrá determinar la forma y los
+**Artículo 55.2.** *Suspensión individual.* «**Una ley orgánica podrá determinar la forma y los
 casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado
 control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados
 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones
@@ -1753,9 +1753,9 @@ delincuente, en los términos que la ley establezca.**»
 2. «**La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que
    deberá asegurar la total independencia de los mismos.**»
 
-En la organización territorial, el artículo 152.1 añade que un **Tribunal Superior de Justicia**
-culminará la organización judicial en el ámbito de cada Comunidad Autónoma, «**sin perjuicio de
-la jurisdicción que corresponde al Tribunal Supremo**» (rúbrica c).
+En la organización territorial, el artículo 152.1 añade que un Tribunal Superior de Justicia
+culminará la organización judicial en el ámbito de cada Comunidad Autónoma, sin perjuicio de la
+jurisdicción del Tribunal Supremo (rúbrica c).
 
 ### El Tribunal Constitucional
 
@@ -2100,18 +2100,18 @@ de sus respectivos intereses.
    libertad de circulación y establecimiento de las personas y la libre circulación de bienes en
    todo el territorio español.**»
 
-*La Administración Local (artículos 140 a 142).* El artículo 140 (municipios) y el 141
-(provincias e islas) se estudian en los dos últimos epígrafes de esta rúbrica. El 142 fija las
-haciendas locales: «**Las Haciendas locales deberán disponer de los medios suficientes para el
+La Administración Local (artículos 140 a 142): el artículo 140 (municipios) y el 141 (provincias
+e islas) se estudian en los dos últimos epígrafes de esta rúbrica.
+
+**Artículo 142.** *Haciendas locales.* «**Las Haciendas locales deberán disponer de los medios suficientes para el
 desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán
 fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades
 Autónomas.**»
 
 Otros preceptos que dibujan la organización territorial fuera del Título VIII: las lenguas
-cooficiales «**en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos**» (artículo
-3.2), las banderas y enseñas propias de las Comunidades Autónomas (artículo 4.2), la
-circunscripción provincial del Congreso (artículo 68.2), el Senado como «**Cámara de
-representación territorial**» con Senadores designados por las Comunidades (artículo 69), la
+cooficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos (artículo 3.2), las banderas y enseñas propias de las Comunidades Autónomas (artículo 4.2), la
+circunscripción provincial del Congreso (artículo 68.2), el Senado como Cámara de
+representación territorial, con Senadores designados por las Comunidades (artículo 69), la
 iniciativa legislativa de las Asambleas autonómicas (artículo 87.2) y la potestad tributaria de
 Comunidades Autónomas y Corporaciones locales (artículo 133.2).
 
@@ -2172,6 +2172,8 @@ las urnas mediante referéndum**». El artículo 4 del Estatuto recuerda la fech
 Andalucía es el 28 de febrero.**»
 
 #### Organización institucional (artículo 152)
+
+**Artículo 152.**
 
 1. En los Estatutos aprobados por el procedimiento del artículo 151, la organización
    institucional autonómica se basará en:
@@ -2311,12 +2313,12 @@ Son leyes orgánicas las «**que aprueben los Estatutos de Autonomía**» (artí
 
 #### Cómo se elaboran
 
-*Por la vía del artículo 143 (artículo 146).* «**El proyecto de Estatuto será elaborado por una
+**Artículo 146.** *Por la vía del artículo 143.* «**El proyecto de Estatuto será elaborado por una
 asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias
 afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales
 para su tramitación como ley.**»
 
-*Por la vía del artículo 151 (artículo 151.2).* Cinco pasos:
+**Artículo 151.2.** *Por la vía del artículo 151.* Cinco pasos:
 
 1. «**El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones
    comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se
@@ -3035,7 +3037,7 @@ orden de su nombramiento y los designa éste entre los miembros de la Junta de G
 
 #### Las competencias provinciales
 
-*En la LBRL (artículo 36.1).* Son competencias propias de la Diputación las que le atribuyan en ese
+**Artículo 36.1** *de la LBRL.* Son competencias propias de la Diputación las que le atribuyan en ese
 concepto las leyes del Estado y de las Comunidades Autónomas «**y, en todo caso, las
 siguientes**» (nueve letras, a a i):
 
