@@ -5,3 +5,7 @@ Canal Sur, rúbricas a), b) y c). Fase 2 (redactar), un solo agente. Fecha de tr
 lectura de todos los preceptos: **24-09-2026**.
 
 (En curso: se completa según avanza la redacción.)
+
+Progreso: identificación y rúbrica a) guardadas en el tema. Negritas de esas partes comprobadas
+con un script contra el corpus de fuentes (normalizando acentos y puntuación): todas literales
+salvo las siglas.

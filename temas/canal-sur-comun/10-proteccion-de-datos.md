@@ -933,3 +933,156 @@ del artículo 49.1 del Reglamento), e informará también a los afectados. Todo 
 previo a la transferencia. No se aplica a las autoridades públicas en el ejercicio de sus poderes
 públicos.
 
+### Las autoridades de control: la Agencia Española y la autoridad andaluza
+
+El Reglamento obliga a cada Estado a encomendar a «**una o varias autoridades públicas
+independientes**» la supervisión de su aplicación (artículo 51.1), y cuando haya varias, a designar
+la que representará a todas en el Comité Europeo de Protección de Datos (51.3). En España hay una
+estatal, la AEPD, y autoridades autonómicas en las comunidades que la han creado. La LOPDGDD las
+regula en su título VII, artículos 44 a 62, que es ley ordinaria salvo los artículos 52 y 53.
+
+**La AEPD (artículo 44).** «**La Agencia Española de Protección de Datos es una autoridad
+administrativa independiente de ámbito estatal**», de las previstas en la Ley 40/2015, de Régimen
+Jurídico del Sector Público, con personalidad jurídica y plena capacidad pública y privada, que
+actúa con plena independencia de los poderes públicos en el ejercicio de sus funciones. Su
+denominación oficial es «**Agencia Española de Protección de Datos, Autoridad Administrativa
+Independiente**», y «**Se relaciona con el Gobierno a través del Ministerio de Justicia.**»
+Relación no es dependencia: es el cauce ordinario de toda autoridad independiente. Es, además, la
+representante común de las autoridades de protección de datos del Reino de España en el Comité
+Europeo de Protección de Datos (44.2).
+
+Su Estatuto vigente es el aprobado por el Real Decreto 389/2021, de 1 de junio, que derogó el Real
+Decreto 428/1993, de 26 de marzo. Ojo: la disposición transitoria primera de la LOPDGDD sigue
+diciendo que el Estatuto aprobado por el Real Decreto 428/1993 continuará vigente en lo que no se
+oponga al título VIII; ese texto no se ha modificado, pero el real decreto al que remite ya está
+derogado.
+
+**Artículo 47. Funciones.** Supervisar la aplicación de esta ley y del Reglamento y, en particular,
+ejercer las funciones del artículo 57 y las potestades del artículo 58 del Reglamento.
+
+**Artículo 48. La Presidencia.**
+
+- La Presidencia dirige la Agencia, ostenta su representación y dicta sus resoluciones, circulares
+  y directrices. Está auxiliada por un Adjunto, en el que puede delegar sus funciones «**a
+  excepción de las relacionadas con los procedimientos regulados por el título VIII**», y que la
+  sustituye en los términos del Estatuto Orgánico. Ambos ejercen sus funciones con plena
+  independencia y objetividad y no están sujetos a instrucción alguna.
+- Suplencia (48.2, párrafos tercero y cuarto). En los supuestos de ausencia, vacante o enfermedad
+  de la persona titular de la Presidencia, o cuando concurra en ella algún motivo de abstención o
+  recusación del artículo 23 de la Ley 40/2015, las competencias de los procedimientos del título
+  VIII «**serán asumidas por la persona titular del órgano directivo que desarrolle las funciones
+  de inspección**»; si esas circunstancias concurren también en ella, por los titulares de los
+  órganos directivos con nivel de subdirección general, por el orden del Estatuto. El resto de
+  competencias las asume el Adjunto y, en su defecto, esos mismos subdirectores generales. Qué
+  cambió: esta suplencia la añadió la Ley 11/2023, con efectos desde el 10 de mayo de 2023.
+- Nombramiento: la Presidencia y el Adjunto los nombra el Gobierno, a propuesta del Ministerio de
+  Justicia, entre personas de reconocida competencia profesional, en particular en materia de
+  protección de datos. Dos meses antes de expirar el mandato, el Ministerio de Justicia ordena la
+  publicación en el BOE de la convocatoria pública de candidatos. La propuesta debe ser ratificada
+  por la Comisión de Justicia del Congreso «**en votación pública por mayoría de tres quintos de
+  sus miembros en primera votación o, de no alcanzarse ésta, por mayoría absoluta en segunda
+  votación**», que se realiza inmediatamente después; en ese caso, los votos favorables deberán
+  proceder de Diputados de al menos dos grupos parlamentarios diferentes. El nombramiento formal
+  lo hace el Consejo de Ministros mediante real decreto.
+- Mandato: «**tiene una duración de cinco años y puede ser renovado para otro período de igual
+  duración**».
+- Cese anticipado: a petición propia o por separación acordada por el Consejo de Ministros, por
+  incumplimiento grave de sus obligaciones, incapacidad sobrevenida, incompatibilidad o condena
+  firme por delito doloso. En los tres primeros casos hace falta la ratificación de la separación
+  por las mismas mayorías parlamentarias.
+- Sus actos y disposiciones ponen fin a la vía administrativa y son recurribles directamente ante
+  la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+
+**Artículo 49. Consejo Consultivo.** Asesora a la Presidencia. Lo componen, entre otros, un
+Diputado, un Senador, un representante del Consejo General del Poder Judicial, uno de la
+Administración General del Estado, uno por cada comunidad autónoma que haya creado una autoridad de
+protección de datos, y expertos propuestos por la Federación Española de Municipios y Provincias,
+el Consejo de Consumidores y Usuarios, las organizaciones empresariales (dos), la Conferencia de
+Rectores de las Universidades Españolas, el Consejo de Transparencia y Buen Gobierno y las
+organizaciones sindicales más representativas (dos). Se reúne cuando lo disponga la Presidencia y,
+«**en todo caso, una vez al semestre**», y «**Las decisiones tomadas por el Consejo Consultivo no
+tendrán en ningún caso carácter vinculante.**»
+
+**Artículo 50. Publicidad.** La AEPD publica las resoluciones de su Presidencia que declaren haber
+lugar o no a la atención de los derechos de los artículos 15 a 22 del Reglamento, «**las que pongan
+fin a los procedimientos sancionadores y a los procedimientos de apercibimiento**», las que
+archiven las actuaciones previas de investigación, «**las dictadas respecto de las entidades a que
+se refiere el artículo 77.1**», las que impongan medidas cautelares y las demás que disponga su
+Estatuto. Qué cambió: la Ley 11/2023, desde el 10 de mayo de 2023, sustituyó la antigua mención a
+las resoluciones «que sancionen con apercibimiento» a las entidades del artículo 77.1.
+
+**Artículos 51 a 54. Investigación.** La actividad de investigación la llevan funcionarios de la
+AEPD, o ajenos habilitados expresamente por su Presidencia, que tienen la consideración de agentes
+de la autoridad y están obligados a guardar secreto «**incluso después de haber cesado en él**». El
+deber de colaboración alcanza a las Administraciones Públicas, incluidas las tributarias y de la
+Seguridad Social, y a los particulares. Para acceder al domicilio constitucionalmente protegido del
+inspeccionado hace falta su consentimiento o autorización judicial. Y la Presidencia puede acordar
+planes de auditoría preventiva sobre un sector, cuyas directrices son de obligado cumplimiento.
+
+**Artículo 53 bis. Investigación por sistemas digitales.** Las actuaciones de investigación
+«**podrán realizarse a través de sistemas digitales**» que, mediante la videoconferencia u otro
+sistema similar, permitan la comunicación bidireccional y simultánea de imagen y sonido entre la
+AEPD y el inspeccionado, garanticen la transmisión segura de documentos y aseguren la autoría,
+autenticidad e integridad de lo actuado. «**La utilización de estos sistemas se producirá cuando lo
+determine la Agencia y requerirá la conformidad del inspeccionado en relación con su uso y con la
+fecha y hora de su desarrollo.**» Qué cambió: artículo nuevo, añadido por la Ley 11/2023 con
+efectos desde el 10 de mayo de 2023.
+
+**Artículo 55. Circulares.** La Presidencia puede dictar disposiciones que fijen los criterios de
+actuación de la AEPD, llamadas «**Circulares de la Agencia Española de Protección de Datos**», que
+«**serán obligatorias una vez publicadas en el Boletín Oficial del Estado**».
+
+**Artículos 57 a 62. Autoridades autonómicas.** Artículo 57.1: las autoridades autonómicas
+«**podrán ejercer, las funciones y potestades establecidas en los artículos 57 y 58 del Reglamento
+(UE) 2016/679, de acuerdo con la normativa autonómica**», cuando se refieran a:
+
+- a) Tratamientos de los que sean responsables «**las entidades integrantes del sector público de
+  la correspondiente Comunidad Autónoma**» o de las entidades locales de su territorio, «**o
+  quienes presten servicios a través de cualquier forma de gestión directa o indirecta**».
+- b) Tratamientos llevados a cabo por personas físicas o jurídicas para el ejercicio de funciones
+  públicas en materias de competencia autonómica o local.
+- c) Tratamientos expresamente previstos, en su caso, en los Estatutos de Autonomía.
+
+Pueden dictar circulares con el mismo alcance que las de la AEPD (57.2). En tratamientos
+transfronterizos ostentan la condición de autoridad de control principal o interesada cuando se
+trate de los tratamientos del artículo 57, salvo que el responsable desarrollase significativamente
+tratamientos de la misma naturaleza en el resto del territorio español (61.1). La Presidencia de la
+AEPD convoca a las autoridades autonómicas y, en todo caso, celebra reuniones semestrales de
+cooperación (58); y si considera que un tratamiento de competencia autonómica vulnera el Reglamento
+puede requerirlas para que adopten, en el plazo de un mes, las medidas necesarias para su cesación
+y, si no lo hacen, acudir a la jurisdicción contencioso-administrativa (59).
+
+**La autoridad andaluza: el Consejo de Transparencia y Protección de Datos de Andalucía.**
+
+- Estatuto de Autonomía para Andalucía, artículo 82 («Protección de datos»): corresponde a la
+  Comunidad Autónoma «**la competencia ejecutiva sobre protección de datos de carácter personal,
+  gestionados por las instituciones autonómicas de Andalucía, Administración autonómica,
+  Administraciones locales, y otras entidades de derecho público y privado dependientes de
+  cualquiera de ellas**», así como por las universidades del sistema universitario andaluz. Y el
+  artículo 32 garantiza «**el derecho de todas las personas al acceso, corrección y cancelación de
+  sus datos personales en poder de las Administraciones públicas andaluzas**».
+- Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía, artículo 43.1: «**Se crea el
+  Consejo de Transparencia y Protección de Datos de Andalucía, en adelante el Consejo, como
+  autoridad independiente de control en materia de protección de datos y de transparencia en la
+  Comunidad Autónoma de Andalucía.**» Es una entidad pública con personalidad jurídica propia y
+  plena capacidad y autonomía orgánica y funcional (43.2), ejerce sus funciones con plena
+  independencia de las administraciones públicas (43.3) y se relaciona con la Administración de
+  la Junta de Andalucía «**a través de la Consejería de la Presidencia**» (43.4).
+- Artículo 48.1.h) de la misma ley: su Dirección desempeña «**las funciones previstas en la
+  legislación sobre protección de datos para su ejercicio por las agencias autonómicas en su
+  caso**». Qué cambió: hasta el 25 de marzo de 2026 esa función era la letra i); la Ley 1/2026, de
+  20 de febrero, Universitaria para Andalucía, con efectos desde el 26 de marzo de 2026, suprimió
+  la antigua letra h) (instar la incoación de expedientes disciplinarios o sancionadores) y la
+  función de protección de datos pasó a ser la h).
+- El artículo 45 de la Ley 1/2014 sigue definiendo al Consejo como autoridad de control «**en los
+  términos previstos en el artículo 41 de la Ley Orgánica 15/1999**», una ley derogada desde 2018.
+  El texto no se ha actualizado; se cita tal cual.
+
+**¿Quién es la autoridad de control de la RTVA y de CSRTV?** Ningún precepto leído lo dice
+expresamente. Del artículo 57.1.a) de la LOPDGDD («entidades integrantes del sector público de la
+correspondiente Comunidad Autónoma») y del artículo 82 del Estatuto («otras entidades de derecho
+público y privado dependientes») se puede inferir que sería el Consejo andaluz y no la AEPD, porque
+la RTVA es una agencia pública empresarial de la Junta y CSRTV una sociedad mercantil del sector
+público andaluz (se ve en la tercera rúbrica). Es una inferencia, no confirmada: no se han leído
+los estatutos del Consejo, que son los que concretan su ámbito.
+
