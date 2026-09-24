@@ -9,7 +9,7 @@
 | **Fuente** | X Convenio Colectivo Interprovincial para la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur Radio, S.A., Canal Sur TV, S.A., y sus trabajadores/as, publicado por Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales |
 | **Identificador** | Código de convenio 71000253011989 · BOJA núm. 240, de 10/12/2014, páginas 49 a 213 |
 | **Redacción que se estudia** | La vigente el 24/09/2026, que es el texto publicado en 2014: no consta ninguna modificación publicada ni inscrita. El convenio está prorrogado (artículo 5). El Estatuto de los Trabajadores y las leyes andaluzas que se citan, en su redacción vigente el 24/09/2026 |
-| **Extensión** | PENDIENTE |
+| **Extensión** | 22.681 palabras |
 
 <!-- /portada -->
 
@@ -49,43 +49,43 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
 
 ### Publicación e inscripción
 
-- **Norma de publicación**: Resolución de 2 de diciembre de 2014, de la Dirección General de
+- *Norma de publicación*: Resolución de 2 de diciembre de 2014, de la Dirección General de
   Relaciones Laborales (Consejería de Economía, Innovación, Ciencia y Empleo), «**por la que se
   ordena la inscripción, depósito y publicación del Convenio Colectivo de la empresa Agencia
   Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur
   Radio, S.A., y Canal Sur Televisión, S.A.**». Publicada en el **BOJA núm. 240, de 10 de diciembre
   de 2014**, sección 3 («Otras disposiciones»), páginas 49 a 213.
-- **Código del convenio**: **71000253011989**.
-- **Firma y ratificación**: suscrito por la representación de la empresa y la de los trabajadores
+- *Código del convenio*: **71000253011989**.
+- *Firma y ratificación*: suscrito por la representación de la empresa y la de los trabajadores
   «**con fecha 23 de mayo de 2014 y ratificado el 9 de julio de 2014**».
-- **Base legal que invoca la resolución**: el «**artículo 90, apartados 2 y 3, del Real Decreto
+- *Base legal que invoca la resolución*: el «**artículo 90, apartados 2 y 3, del Real Decreto
   Legislativo 1/1995, de 24 de marzo**», es decir, el Estatuto de los Trabajadores de 1995, hoy
   derogado por el ET de 2015, y el **Real Decreto 713/2010, de 28 de mayo, sobre registro y
   depósito de convenios y acuerdos colectivos de trabajo**.
-- **Lo que resuelve**: primero, ordenar la inscripción, depósito y publicación en el registro de
+- *Lo que resuelve*: primero, ordenar la inscripción, depósito y publicación en el registro de
   convenios, «**con notificación a la Comisión Negociadora**»; segundo, disponer su publicación en
   el BOJA.
-- **Título literal**: «**X CONVENIO COLECTIVO INTERPROVINCIAL PARA LA AGENCIA PÚBLICA EMPRESARIAL DE
+- *Título literal*: «**X CONVENIO COLECTIVO INTERPROVINCIAL PARA LA AGENCIA PÚBLICA EMPRESARIAL DE
   LA RADIO Y TELEVISIÓN DE ANDALUCÍA Y SUS SOCIEDADES FILIALES, CANAL SUR RADIO, S.A., CANAL SUR
   TV, S.A., Y SUS TRABAJADORES/AS**».
 
 El enunciado del programa lo abrevia como «**X Convenio Colectivo Interprovincial de RTVA y sus
-sociedades filiales**». La base 2.1 de la convocatoria de 2026 lo cita como «**X Convenio Colectivo
+sociedades filiales». La base 2.1 de la convocatoria de 2026 lo cita como «X Convenio Colectivo
 Interprovincial de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus
 sociedades filiales**» y dice que el proceso selectivo se regirá por él.
 
 ### Ámbito funcional, territorial y personal (artículos 1 a 3)
 
-- **Funcional (art. 1)**: regula las relaciones laborales «**entre la Agencia Pública Empresarial
+- *Funcional (art. 1)*: regula las relaciones laborales «**entre la Agencia Pública Empresarial
   de la RTVA y SS.FF. y su personal**», con las exclusiones del artículo 3. La Agencia y sus
   filiales «**se configuran como una unidad de Empresa**», de modo que los grupos profesionales
   pueden prestar servicios «**indistintamente para cualquiera de las Empresas**», negociándose su
   aplicación práctica con la representación de los trabajadores. Y un límite: «**La unidad de
   empresa no implicará la movilidad geográfica.**»
-- **Territorial (art. 2)**: todos los centros de trabajo que la Agencia y sus filiales tengan
+- *Territorial (art. 2)*: todos los centros de trabajo que la Agencia y sus filiales tengan
   constituidos, «**así como en otros centros que se puedan crear en el futuro**».
-- **Personal (art. 3)**: todos los trabajadores que presten servicios en la Agencia y sus
-  filiales, salvo **seis grupos** que «**Quedan expresamente excluidos/as**»:
+- *Personal (art. 3)*: todos los trabajadores que presten servicios en la Agencia y sus
+  filiales, salvo seis grupos que «**Quedan expresamente excluidos/as**»:
   - a) «**Colaboradores/as y asesores/as.**»
   - b) «**Actores, actrices, músicos, cantantes, orquestas, coros y agrupaciones musicales.**»
   - c) «**El personal artístico en general, cuyos servicios sean contratados para actuaciones
@@ -113,7 +113,7 @@ su publicación (diciembre de 2014), y su duración pactada terminó el **31 de 
 alguna de las partes lo denuncie con una antelación de tres meses antes de su vencimiento.**» El
 artículo no dice cuánto dura cada prórroga.
 
-El **artículo 86 del ET** (dos redacciones; la vigente desde el 31 de diciembre de 2021, dada por
+El artículo 86 del ET (dos redacciones; la vigente desde el 31 de diciembre de 2021, dada por
 el Real Decreto-ley 32/2021, de 28 de diciembre) regula lo mismo con carácter general:
 
 - apartado 2: «**Salvo pacto en contrario, los convenios colectivos se prorrogarán de año en año si
@@ -122,10 +122,10 @@ el Real Decreto-ley 32/2021, de 28 de diciembre) regula lo mismo con carácter g
   pactada, se producirá en los términos que se hubiesen establecido en el propio convenio.**» Y
   durante las negociaciones para renovarlo, «**en defecto de pacto, se mantendrá su vigencia**».
 
-Es decir: la prórroga del apartado 2 es la situación del convenio **no denunciado**; el
+Es decir: la prórroga del apartado 2 es la situación del convenio no denunciado; el
 mantenimiento de la vigencia del apartado 3 presupone **denuncia**. Lo que consta del X Convenio es esto:
 
-- **Registro (REGCON)**, consulta por el código 71000253011989 hecha el 24 de septiembre de 2026:
+- Registro (REGCON), consulta por el código 71000253011989 hecha el 24 de septiembre de 2026:
   cinco trámites, ninguno posterior a 2014. El del X Convenio figura como «**CONVENIO COLECTIVO
   (TEXTO NUEVO)**», inscrito el 10/12/2014, con vigencia del 01/01/2013 al 31/12/2015. Los otros
   cuatro (una denuncia de 23/10/2012, una promoción de negociación de 11/12/2012, un «**ACUERDO
@@ -135,10 +135,10 @@ mantenimiento de la vigencia del apartado 3 presupone **denuncia**. Lo que const
 - **Cámara de Cuentas de Andalucía**, informe de fiscalización operativa y de cumplimiento de la
   RTVA y CSRTV del ejercicio 2018 (Resolución de 9 de febrero de 2021, BOJA núm. 36, de 23 de
   febrero de 2021), punto 234: «**El X Convenio Colectivo que se
-  encuentra actualmente en vigor está prorrogado.**» Y añade que «**En términos generales es el
+  encuentra actualmente en vigor está prorrogado.» Y añade que «En términos generales es el
   mismo texto desde que se creó la empresa y regula las condiciones laborales del personal de la
   radio, de la televisión y de la agencia.**»
-- **La empresa lo trata hoy como vigente**: el Reglamento de la Mesa de Contratación habla del
+- *La empresa lo trata hoy como vigente*: el Reglamento de la Mesa de Contratación habla del
   «**vigente X Convenio Colectivo**» (DA primera) y la convocatoria de 2026 exige no padecer
   limitación incompatible con las funciones que «**se establecen en el Anexo III del vigente
   Convenio Colectivo de la RTVA y su sociedad filial**» (base 6.3).
@@ -160,12 +160,12 @@ Televisión, S.A. Después se fusionaron:
 - **Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno** (BOJA núm. 219, de 11 de
   noviembre de 2015), apartado primero.1: «**Se autoriza la fusión por absorción de «Canal Sur
   Televisión, S.A.» (sociedad absorbente) y «Canal Sur Radio, S.A.» (sociedad absorbida), con
-  extinción de ésta última**». La denominación de la absorbente pasa a ser «**Canal Sur Radio y
+  extinción de ésta última». La denominación de la absorbente pasa a ser «Canal Sur Radio y
   Televisión, S.A. (Canal Sur)**».
 - **Cámara de Cuentas**, informe citado, punto 8: la fusión se aprobó por las juntas generales el
   **23 de febrero de 2016** y la escritura se inscribió en el Registro Mercantil de Sevilla **con
   efectos 1 de abril de 2016**, «**pasándose a denominar la sociedad absorbente, Canal Sur Radio y
-  Televisión S.A. (CSRTV)**». La Cámara subraya que el convenio se publicó «**previo por tanto al
+  Televisión S.A. (CSRTV)». La Cámara subraya que el convenio se publicó «previo por tanto al
   proceso de fusión**» (punto 234).
 
 Por eso el texto del convenio sigue hablando de «**sus Sociedades Filiales**», en plural, mientras
@@ -178,11 +178,11 @@ plural del título.
 Contada sobre el cuerpo del BOJA (índice en las páginas 49 a 51; articulado y disposiciones, 52 a
 91; Anexo I, 91-92; Anexo II, 92-100; Anexo III, 100-213):
 
-- **74 artículos** en **11 capítulos**;
-- **10 disposiciones adicionales**;
-- **10 disposiciones transitorias**, precedidas de un párrafo común que explica por qué existen;
-- **3 anexos**;
-- **ninguna disposición derogatoria ni final**, y ningún preámbulo propio del convenio (el único
+- 74 artículos en 11 capítulos;
+- 10 disposiciones adicionales;
+- 10 disposiciones transitorias, precedidas de un párrafo común que explica por qué existen;
+- 3 anexos;
+- ninguna disposición derogatoria ni final, y ningún preámbulo propio del convenio (el único
   texto previo es la resolución de publicación).
 
 | Capítulo | Rúbrica | Artículos | Número |
@@ -203,7 +203,7 @@ Los capítulos más largos en número de artículos son el octavo y el décimo (
 corto, el undécimo (dos). El «cuadro de licencias y permisos» del enunciado corresponde a un solo
 artículo, el **33**, del capítulo sexto.
 
-**El índice y el cuerpo no coinciden en todas las rúbricas.** Manda el cuerpo, que es el que usa
+El índice y el cuerpo no coinciden en todas las rúbricas. Manda el cuerpo, que es el que usa
 este tema:
 
 | Precepto | Rúbrica en el índice | Rúbrica en el cuerpo |
@@ -226,31 +226,31 @@ DT 10.ª.
 El texto se estudia como está, pero conviene saber dónde falla, porque una pregunta puede citar
 el número tal como aparece:
 
-- **Artículo 66.3** (falta grave): «**La alegación de motivos falsos para la obtención de las
+- *Artículo 66.3* (falta grave): «**La alegación de motivos falsos para la obtención de las
   licencias a que se refiere el artículo 27 de este Convenio**». Las licencias están en el
   **artículo 33**; el 27 es el Comité Intercentros de Seguridad y Salud Laboral.
-- **Artículo 32.II.2** (excedencia forzosa por funciones sindicales): remite a «**los beneficios
+- Artículo 32.II.2 (excedencia forzosa por funciones sindicales): remite a «**los beneficios
   regulados en el párrafo a) del apartado 2 del punto III Excedencia Especial**», pero el apartado
   2 de la excedencia especial no tiene letras.
-- **Artículo 21.3.6.a)**: dentro del propio artículo 21 dice «**con los efectos previstos en el
+- *Artículo 21.3.6.a)*: dentro del propio artículo 21 dice «**con los efectos previstos en el
   artículo 21**».
-- **Artículo 58.1** y la resolución de publicación citan el **Real Decreto Legislativo 1/1995**, el
+- Artículo 58.1 y la resolución de publicación citan el **Real Decreto Legislativo 1/1995**, el
   Estatuto de 1995, hoy derogado. El comité intercentros está hoy en el **artículo 63.3 del ET de
-  2015**, con el mismo tope: «**Solo por convenio colectivo podrá pactarse la constitución y
+  2015, con el mismo tope: «Solo por convenio colectivo podrá pactarse la constitución y
   funcionamiento de un comité intercentros con un máximo de trece miembros, que serán designados
   de entre los componentes de los distintos comités de centro.**»
 - **Artículo 71**: remite al «**artículo 60.2 del Estatuto de los Trabajadores**»; el número
   coincide en el ET de 2015 (artículo con una sola redacción).
-- **Artículo 49.3 y Anexo I**: el artículo fija el trienio en «**la cantidad equivalente al 0,0024
+- *Artículo 49.3 y Anexo I*: el artículo fija el trienio en «**la cantidad equivalente al 0,0024
   del salario base anual fijado para el nivel B03**», y la tabla del Anexo I da para el primer
-  trienio **66,07 €** mensuales y **991,05 €** anuales. El 0,0024 de 22.022,52 € (salario base
+  trienio 66,07 € mensuales y 991,05 € anuales. El 0,0024 de 22.022,52 € (salario base
   anual de B03 en el mismo anexo) son 52,85 €: la cuenta, hecha por el tema, no coincide con la
   tabla, y el texto no lo explica. La DT 5.ª, además, sustituyó ese importe por uno lineal (véase
   «Disposiciones transitorias»).
-- **Artículo 33.A.1.h)**: habla de «**las veinte semanas previstas anteriormente**» cuando la
+- *Artículo 33.A.1.h)*: habla de «**las veinte semanas previstas anteriormente**» cuando la
   letra ha previsto dieciséis semanas de suspensión más un permiso retribuido de cuatro semanas
   adicionales.
-- **DT 3.ª B**: el rótulo dice «Días de asuntos propios», pero el texto dice «**Las Licencias y
+- *DT 3.ª B*: el rótulo dice «Días de asuntos propios», pero el texto dice «**Las Licencias y
   permisos regulados en el art. 33 de este Convenio Colectivo quedan en suspenso y pasan a ser
   exclusivamente de un total de 4 días al año**». Se trata en el epígrafe del cuadro de licencias.
 
@@ -258,7 +258,7 @@ el número tal como aparece:
 
 El artículo 24 del convenio manda que la Mesa de Contratación se dote de «**su propio reglamento
 de funcionamiento**». El Reglamento vigente lo publican la RTVA y CSRTV en sus portales de
-transparencia. **El texto no lleva fecha**; la convocatoria de 2026 lo cita como «**Reglamento de
+transparencia. El texto no lleva fecha; la convocatoria de 2026 lo cita como «**Reglamento de
 la Mesa de Contratación de RTVA y Canal Sur Radio y Televisión, S.A., de 12 de marzo de 2026**»
 (base 2.1). No es parte del convenio ni está publicado en el BOJA ni inscrito en el REGCON. No
 modifica el articulado; lo desarrolla en estos puntos:
@@ -270,17 +270,17 @@ modifica el articulado; lo desarrolla en estos puntos:
   en la Mesa el mismo porcentaje del voto ponderado resultante de las Elecciones Sindicales**» y
   «**otros cinco representantes de la Dirección de la empresa**». El cinco y cinco está en el
   artículo 24 del convenio; el voto ponderado lo añade el Reglamento.
-- **Funciones de superior grupo** (punto 23): recuerda que, según el artículo 21.2.4 del convenio,
+- *Funciones de superior grupo* (punto 23): recuerda que, según el artículo 21.2.4 del convenio,
   el plazo máximo es un año salvo las excepciones que determine la Mesa, y añade una: cuando se
   sustituye a una persona en IT, «**la duración máxima será la de dicha situación de IT**».
-- **DA primera**: el «**registro de cambios de grupo**» del artículo 21.2.6 del convenio «**se
+- *DA primera*: el «**registro de cambios de grupo**» del artículo 21.2.6 del convenio «**se
   desarrollará por la bolsa interna para el desempeño temporal de servicios de diferente y/o
   superior grupo profesional o puesto de trabajo**».
-- **DT cuarta**: para la próxima convocatoria de promoción interna fija una formación mínima por
+- *DT cuarta*: para la próxima convocatoria de promoción interna fija una formación mínima por
   nivel (B01, «**Licenciatura o Grado + Máster oficial**»; B02, «**Grado universitario/
-  Diplomatura/Ingeniería Técnica**»; B03, «**Grado Formativo Superior (FP Superior o
-  equivalente)/Diplomatura/Ingeniería Técnica**»; B04, «**Grado Formativo (FP Grado Medio o
-  equivalente)**»; B05, «**ESO, Bachillerato o Grado Básico**») y una experiencia mínima en la
+  Diplomatura/Ingeniería Técnica»; B03, «Grado Formativo Superior (FP Superior o
+  equivalente)/Diplomatura/Ingeniería Técnica»; B04, «Grado Formativo (FP Grado Medio o
+  equivalente)»; B05, «ESO, Bachillerato o Grado Básico**») y una experiencia mínima en la
   misma ocupación tipo (B02, 48 meses; B03, 36; B04, 24; B05, 12). El artículo 18 del convenio
   solo exige capacidad, conocimiento y titulación o requisitos necesarios y seis meses de
   antigüedad.
@@ -333,7 +333,7 @@ contrario.**»
   los conflictos individuales y/o colectivos que se le planteen**»; y las materias no previstas
   que se deriven del convenio.
 - **Funcionamiento**: por «**su propio reglamento**».
-- **Reclamación previa**: «**Será obligatorio que, previo a la interposición de reclamaciones ante
+- *Reclamación previa*: «**Será obligatorio que, previo a la interposición de reclamaciones ante
   la jurisdicción laboral, se interponga reclamación ante la COMVI.**»
 
 El convenio encarga además a la COMVI elaborar varios reglamentos (turno de fin de semana,
@@ -375,7 +375,7 @@ precedente**».
 Jornadas, turnos y horarios se publican «**entre los días 15 y 25 del mes precedente**», con copia
 a la representación de los trabajadores.
 
-- **a) Principio general**: la Dirección ordena los horarios con la flexibilidad que exige la
+- *a) Principio general*: la Dirección ordena los horarios con la flexibilidad que exige la
   actividad, «**sin más limitaciones que las que se establecen en la legislación vigente y en el
   presente Convenio**».
 - **b) Condiciones mínimas** (nueve):
@@ -388,10 +388,10 @@ a la representación de los trabajadores.
      habitualmente el fin de semana (personal de fin de semana, de deportes o con programa en
      sábado o domingo); la rotación la fija la empresa de acuerdo con los representantes;
   5. procesos productivos especiales de menos de siete días (**Navidad, Fin de Año, Virgen de la
-     Cabeza, Gala 28-F, Carnavales y Ferias**): cómputo semanal de **35 horas**; el exceso se abona,
+     Cabeza, Gala 28-F, Carnavales y Ferias): cómputo semanal de 35 horas**; el exceso se abona,
      a elección del trabajador, en descanso (art. 14) o «**al módulo de 17,17 € brutos/hora**»;
   6. procesos de más de siete y menos de quince días (**Semana Santa, Carnavales, Rocío y
-     Ferias**): lo mismo, pero con cómputo bisemanal, «**esto es a razón de 70 horas**»;
+     Ferias): lo mismo, pero con cómputo bisemanal, «esto es a razón de 70 horas**»;
   7. permuta de turno entre dos trabajadores de mutuo acuerdo y con aprobación de la empresa; la
      negativa «**deberá estar motivada por escrito**»;
   8. rotación de turnos por áreas previa negociación; sin acuerdo, «**una rotación máxima de tres
@@ -423,13 +423,13 @@ ordinaria de treinta y siete horas y media, y se añade un horario flexible.
   mes de **agosto** (en contratos de menos de seis meses, el promedio de los meses contratados).
 - **Período** (apdo. 2): «**en los meses de verano (julio, agosto y septiembre, con las
   excepciones previstas en el artículo 33 letra i) preferentemente en los meses de julio y
-  agosto**». Si la empresa exige disfrutarlas fuera de ese período, compensación «**del 12% del
+  agosto». Si la empresa exige disfrutarlas fuera de ese período, compensación «del 12% del
   salario base mensual, más tres días hábiles de vacaciones**» o la parte proporcional. El turno
   solo puede cambiarse por acuerdo con el trabajador o si no se encuentra sustituto en los
   organismos oficiales o la bolsa de trabajo.
-- **Proporcionalidad** (apdo. 3): hasta el 31 de diciembre del año de disfrute, desde el inicio o
+- *Proporcionalidad* (apdo. 3): hasta el 31 de diciembre del año de disfrute, desde el inicio o
   la reanudación de la relación laboral.
-- **Fuera de verano a petición propia** (apdo. 4): entre octubre y junio, con «**una prima de tres
+- *Fuera de verano a petición propia* (apdo. 4): entre octubre y junio, con «**una prima de tres
   días hábiles de vacaciones**».
 - **Fraccionamiento** (apdo. 5): por acuerdo, «**en un máximo de dos períodos, sin que ninguno de
   ellos sea inferior a siete días naturales**».
@@ -439,7 +439,7 @@ ordinaria de treinta y siete horas y media, y se añade un horario flexible.
   sucesivos; cambio entre dos trabajadores de mutuo acuerdo si el servicio lo permite; y las
   jornadas trabajadas de más por fiestas abonables no recuperables pueden acumularse a la semana
   siguiente o a las vacaciones.
-- **Interrupción** (apdo. 7): se interrumpen si el trabajador causa baja por enfermedad común,
+- *Interrupción* (apdo. 7): se interrumpen si el trabajador causa baja por enfermedad común,
   accidente no laboral, enfermedad profesional, riesgo para la maternidad o la lactancia, o por
   permiso de maternidad o paternidad, y se reanudan con el alta.
 
@@ -450,7 +450,7 @@ ordinaria de treinta y siete horas y media, y se añade un horario flexible.
 Se abonan «**en todo caso, mediante compensación en descanso**»: «**por cada hora extraordinaria
 realizada el/la trabajador/a tendrá derecho a un descanso compensatorio de dos horas**».
 
-- Los descansos se toman en **febrero, junio y octubre** (las horas hechas hasta el día 1 de cada
+- Los descansos se toman en febrero, junio y octubre (las horas hechas hasta el día 1 de cada
   uno de esos meses); las del último trimestre no caducan con el año natural. Excepcionalmente,
   con autorización, en otros períodos; y si no se pueden compensar, pueden acumularse a las
   vacaciones.
@@ -498,14 +498,14 @@ destino.
 
 Pueden optar los fijos que quieran cambiar de grupo profesional, si acreditan capacidad,
 conocimiento y titulación o requisitos necesarios y «**una antigüedad en la Empresa de al menos
-seis meses**». Plazo mínimo de solicitudes: «**diez días naturales**». Requisitos y condiciones los
+seis meses». Plazo mínimo de solicitudes: «diez días naturales**». Requisitos y condiciones los
 fija la Mesa de Contratación y, en su caso, el Tribunal; la fase se hace «**mediante concurso de
 méritos, una vez efectuado el correspondiente concurso de traslado**».
 
 #### Artículo 19. Concurso oposición libre
 
 Cubre lo que no se haya cubierto «**en las fases precedentes contempladas en los artículos 16 a
-18**». Puede optar también el personal de la empresa «**en situación de activo o excedente**». La
+18». Puede optar también el personal de la empresa «en situación de activo o excedente**». La
 convocatoria fija el número de vacantes, puesto, nivel salarial, formalidades y requisitos,
 temarios y tipos de pruebas.
 
@@ -518,7 +518,7 @@ temarios y tipos de pruebas.
 - **Funciones** (seis, letras a a f): aplicar la normativa de provisión; elaborar las pruebas y
   aplicar los baremos; administrar las pruebas; valorar pruebas, ejercicios y factores
   profesionales o personales; proponer la adjudicación; levantar acta.
-- Dispone de medios técnicos y materiales y puede incorporar **asesores especialistas**, que se
+- Dispone de medios técnicos y materiales y puede incorporar asesores especialistas, que se
   limitan a colaborar en su especialidad técnica.
 
 ### Capítulo cuarto. Organización (artículos 21 a 24)
@@ -546,7 +546,7 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   enero**» se crea un registro de cambios de grupo abierto a los fijos. El Reglamento de la Mesa
   lo desarrolla mediante bolsas internas.
 
-**3. Movilidad geográfica. A. Traslados forzosos indefinidos**:
+*3. Movilidad geográfica. A. Traslados forzosos indefinidos*:
 
 - 3.1: antes se agota «**la vía de la voluntariedad**» y, en su caso, la de concurso; se tienen en
   cuenta antigüedad y circunstancias familiares.
@@ -558,7 +558,7 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   si el trabajador lo pide, negociación de una alternativa en los quince días siguientes.
 - 3.4: opción entre el traslado con compensación de gastos o la extinción del contrato con
   indemnización «**como si tratara de extinción autorizada por causas tecnológicas o
-  económicas**»; plazo de incorporación «**no será inferior al de treinta días naturales**».
+  económicas»; plazo de incorporación «no será inferior al de treinta días naturales**».
 - 3.5: el cónyuge o conviviente que también trabaje en la empresa tiene derecho al traslado a la
   misma localidad si hay vacante de su grupo.
 - 3.6, garantías: conserva puesto, nivel y retribución; sin acuerdo en consultas, puede acudir a la
@@ -566,15 +566,15 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   CEMAC o del SERCLA a su elección (el convenio los nombra solo por sus siglas); la decisión «**no
   resultará ejecutiva hasta que no concluya la mediación**»; y el puesto que deja no puede
   cubrirse «**durante un período mínimo de dos años**», con preferencia del trasladado para volver.
-- 3.7, **tres excepciones** al traslado forzoso: a) quienes «**hayan cumplido cuarenta y ocho o más
-  años**»; b) el traslado por motivos disciplinarios; c) los representantes legales «**hasta pasado
+- 3.7, tres excepciones al traslado forzoso: a) quienes «**hayan cumplido cuarenta y ocho o más
+  años»; b) el traslado por motivos disciplinarios; c) los representantes legales «hasta pasado
   dos años desde el cese de su actividad**».
 - 3.8, criterios: la plaza más cercana (y si en los tres últimos años ya se cubrió otra vacante con
   gente de ese centro, el siguiente más cercano); dentro del centro, el de **menor antigüedad**; a
   igual antigüedad, tener menos cargas familiares y no estar estudiando ese curso.
 
-**B. Traslados forzosos temporales**: por razones técnicas, organizativas o de producción, «**hasta
-el límite de un año**», con salarios, gastos de viaje y dietas. Si pasan de tres meses, «**un mínimo
+*B. Traslados forzosos temporales*: por razones técnicas, organizativas o de producción, «**hasta
+el límite de un año», con salarios, gastos de viaje y dietas. Si pasan de tres meses, «un mínimo
 de cuatro días laborables de estancia en su domicilio de origen por cada tres meses**», sin contar
 los de viaje. Agotados los doce meses, no puede repetirse durante al menos «**cuatro años**». Tienen
 las mismas garantías, excepciones y criterios que el traslado forzoso, y el puesto no se cubre
@@ -586,7 +586,7 @@ perjuicio de la ejecutividad de la decisión**».
 #### Artículo 22. Permuta de puestos de trabajo
 
 Cambio de puesto por mutuo acuerdo entre la empresa y dos trabajadores «**de igual puesto de
-trabajo**» y fijos, «**aunque presten sus servicios en distintas Empresas**», con las pruebas de
+trabajo» y fijos, «aunque presten sus servicios en distintas Empresas**», con las pruebas de
 aptitud que correspondan.
 
 #### Artículo 23. Períodos de prueba
@@ -612,7 +612,7 @@ aptitud que correspondan.
 #### Artículo 25. Salud laboral
 
 Comités de seguridad y salud laboral en todos los centros «**que cuenten con 50 ó más
-trabajadores/as**», con las competencias del **artículo 39** de la Ley 31/1995, de Prevención de
+trabajadores/as», con las competencias del artículo 39** de la Ley 31/1995, de Prevención de
 Riesgos Laborales.
 
 #### Artículo 26. Comité de Salud Laboral
@@ -627,7 +627,7 @@ Riesgos Laborales.
 
 #### Artículo 27. Comité Intercentros de Seguridad y Salud Laboral
 
-- Se crea al amparo del **artículo 38.3** de la Ley 31/1995, para las cuestiones que afecten a más
+- Se crea al amparo del artículo 38.3 de la Ley 31/1995, para las cuestiones que afecten a más
   de un centro, que son de su **competencia exclusiva**. Sede: Centro Territorial de **San Juan de
   Aznalfarache** (Sevilla).
 - Paritario: por los trabajadores, «**un máximo de 7 miembros designados por el Comité
@@ -640,7 +640,7 @@ Riesgos Laborales.
 
 #### Artículo 28. Evaluación de riesgos laborales
 
-Evaluación de cada puesto conforme a los **artículos 3 a 7** del Reglamento de los Servicios de
+Evaluación de cada puesto conforme a los artículos 3 a 7 del Reglamento de los Servicios de
 Prevención (Real Decreto 39/1997), hecha y consensuada en **comisiones técnicas de evaluación**: el
 director o jefe del área del puesto, los Delegados de Prevención del Comité Intercentros de
 Seguridad y Salud y los miembros del Servicio de Prevención.
@@ -673,7 +673,7 @@ de Aznalfarache. La empresa presta además un servicio de asistencia sanitaria.
 
 Además de las del ET, «**que se aplicarán en sus propios términos**», es obligatorio conceder la
 excedencia a quien tenga «**al menos un año de antigüedad**» y la pida por escrito «**en un plazo
-anterior a los treinta días del disfrute de la misma**», especificando la modalidad. Hay **tres
+anterior a los treinta días del disfrute de la misma», especificando la modalidad. Hay tres
 modalidades**: voluntaria, forzosa y especial.
 
 **I. Excedencia voluntaria**
@@ -683,7 +683,7 @@ modalidades**: voluntaria, forzosa y especial.
 - Prorrogable avisando con treinta días de antelación, sin que el total acumulado pase de **diez
   años**.
 - Para pedir otra: «**un período de tres años de servicio efectivo**».
-- **Con reserva de puesto** si no pasa de «**tres años**» y se cumplen tres requisitos: a) no ser
+- Con reserva de puesto si no pasa de «**tres años**» y se cumplen tres requisitos: a) no ser
   para trabajar o colaborar en otra emisora de televisión o radio ni en empresas que presten
   servicios a la RTVA; b) que los excedentes con reserva no pasen «**del 5% de los/las
   trabajadores/as**»; c) que no perjudique gravemente la actividad (informe de la Dirección a la
@@ -713,7 +713,7 @@ modalidades**: voluntaria, forzosa y especial.
   computa para la antigüedad; da derecho a cursos de formación; reingreso «**en cualquier
   momento**»; agotado el plazo sin reincorporarse, baja definitiva, salvo que en el mes anterior se
   pida y obtenga la voluntaria.
-- **Cargo de libre designación** en la empresa (apdo. 2).
+- Cargo de libre designación en la empresa (apdo. 2).
 - **Privación de libertad** (apdo. 3): el contrato queda en suspenso hasta la sentencia; si es
   condenatoria, excedencia pedida «**en el plazo de treinta días**», por la duración de la condena,
   y reingreso pedido en «**dos meses**» desde la puesta en libertad.
@@ -746,7 +746,7 @@ prestación del servicio superior a seis meses**».
 - Acceso a los cursos de la **Comisión Paritaria de Formación**, por Planes de Empresa o Planes
   Agrupados; las secciones sindicales que cumplan el art. 60 pueden organizar cursos (aprobados por
   la Comisión si alteran la organización o cuestan dinero).
-- **Tres objetivos**: a) actualizar los conocimientos del grupo y puesto; b) la especialización;
+- *Tres objetivos*: a) actualizar los conocimientos del grupo y puesto; b) la especialización;
   c) «**La enseñanza y perfeccionamiento de idiomas.**»
 - Planes **obligatorios o voluntarios**: es obligatorio solo si la empresa «**lo subvencione
   totalmente y que la formación se haga dentro del horario de trabajo**»; si no lo subvenciona o lo
@@ -819,8 +819,8 @@ laboral.
 
 #### Artículo 42. Anticipos
 
-- **A cuenta de la nómina**: con «**al menos seis meses de antigüedad**», hasta «**el 90% de la
-  última mensualidad ordinaria percibida**», a devolver en «**hasta tres meses**»; no se concede
+- *A cuenta de la nómina*: con «**al menos seis meses de antigüedad**», hasta «**el 90% de la
+  última mensualidad ordinaria percibida», a devolver en «hasta tres meses**»; no se concede
   otro hasta cancelar el anterior.
 - **Anticipo personal**: «**tres mensualidades netas reintegrables, sin interés, en 18 meses**» para
   los fijos, y en lo que quede de contrato para los temporales; sujeto a la tesorería; lo regula la
@@ -832,7 +832,7 @@ Acuerdo de colaboración negociado **anualmente** con la directiva del Grupo de 
 
 #### Artículo 44. Jubilaciones
 
-- **Jubilación voluntaria** con la edad y requisitos de la Seguridad Social: indemnización de B01,
+- Jubilación voluntaria con la edad y requisitos de la Seguridad Social: indemnización de B01,
   **21.035,42 €**; B02, **19.532,89 €**; B03, **18.030,36 €**; B04, **16.527,83 €**; B05, **15.025,30 €**.
   Quien acceda a la parcial la cobra al pasar a la total.
 - **Jubilación anticipada**, con «**al menos cinco años de antigüedad**» y si la partida lo permite,
@@ -850,8 +850,8 @@ Acuerdo de colaboración negociado **anualmente** con la directiva del Grupo de 
 - **Comisión paritaria**, en quince días desde la firma, para incentivar bajas voluntarias de fijos
   con cinco años de antigüedad y «**entre los 57 y 59 años inclusive**», con una partida de
   «**150.000 euros anuales, no acumulables**».
-- **Plan de pensiones** («RTVA, Plan de Pensiones»): aportaciones incrementadas un **cinco por
-  ciento**, en importes anuales de B01, **373,35 €**; B02, **346,69 €**; B03, **320,02 €**; B04,
+- *Plan de pensiones* («RTVA, Plan de Pensiones»): aportaciones incrementadas un **cinco por
+  ciento, en importes anuales de B01, 373,35 €; B02, 346,69 €; B03, 320,02 €**; B04,
   **293,36 €**; B05, **266,68 €**.
 
 *Relacionado con la DT 4.ª* (amortización de plazas por jubilación y jubilación parcial). Sobre
@@ -862,7 +862,7 @@ las aportaciones a planes de pensiones, véase lo que dice el artículo 28.2 de 
 
 #### Artículo 45. Clasificación profesional
 
-Los grupos profesionales y puestos se ordenan en **cinco niveles salariales, B01 a B05**. El texto
+Los grupos profesionales y puestos se ordenan en cinco niveles salariales, B01 a B05. El texto
 marca con asterisco los grupos y, bajo algunos, enumera puestos. Contados por el tema, son 66
 grupos: 4 en B01, 9 en B02, 29 en B03, 18 en B04 y 6 en B05. Algunos ejemplos, por nivel:
 
@@ -906,7 +906,7 @@ la Comisión de Formación; los puestos nuevos se cubren por los procedimientos 
 
 Corresponde al grupo y nivel asignado, con carácter provisional o definitivo, y se abona
 mensualmente por el tiempo ordinario de presencia, las licencias reglamentarias, las vacaciones y
-los sábados, domingos y festivos. Su cuantía es la del **Anexo I para el ejercicio 2013**, revisable
+los sábados, domingos y festivos. Su cuantía es la del Anexo I para el ejercicio 2013, revisable
 según la DA 1.ª.
 
 #### Artículo 49. Complementos salariales personales
@@ -952,12 +952,12 @@ revisables según la DA 1.ª.
 
 #### Artículo 52. Pagas
 
-- **Extraordinarias de junio y Navidad**: junio, del 25 al 30; Navidad, «**del 15 al 20 de
+- *Extraordinarias de junio y Navidad*: junio, del 25 al 30; Navidad, «**del 15 al 20 de
   diciembre**». Cuantía: salario base más la media de pluses y complementos (antigüedad,
   nocturnidad, mando orgánico, disponibilidad, turnicidad, polivalencia, especial responsabilidad,
   idioma, calidad y penosidad) del semestre anterior.
-- **Marzo y septiembre**: del 25 al 30 de esos meses, «**a razón de quince días de salario base más
-  antigüedad**». En marzo, además, «**la cantidad bruta lineal de 300,51 euros**»; y durante la
+- *Marzo y septiembre*: del 25 al 30 de esos meses, «**a razón de quince días de salario base más
+  antigüedad». En marzo, además, «la cantidad bruta lineal de 300,51 euros**»; y durante la
   vigencia del X Convenio, «**750 euros**» en la de septiembre.
 - Se devengan en proporción al tiempo en la empresa; quien no lleve seis meses las cobra prorrateadas
   por semestres naturales.
@@ -1004,7 +1004,7 @@ garantías del Comité de Empresa y «**28 horas de licencia retribuida**» al m
 - Composición: «**De 50 a 100 trabajadores/as: 5 miembros.**»; «**De 100 a 250 trabajadores/as: 9
   miembros.**»; «**De 251 a 500 trabajadores/as: 13 miembros.**»
 - Horas retribuidas: «**De 50 a 250 trabajadores/as: 30 horas/mes.**»; «**De 251 en adelante: 45
-  horas/mes.**» Acumulables «**en cómputo anual por candidatura**»; las secciones sindicales pueden
+  horas/mes.» Acumulables «en cómputo anual por candidatura**»; las secciones sindicales pueden
   usarlas para apoyo administrativo de trabajadores fijos.
 - No computan las reuniones convocadas por la empresa ni las de negociación del convenio.
 
@@ -1015,7 +1015,7 @@ Además de las legales: **A.** ser informado de la evolución general y previsio
 formación, de la organización del trabajo, de la programación («**con una antelación de dos meses**»),
 de absentismo y siniestralidad, de contrataciones y ceses, y de las sanciones; **B.** recibir los
 modelos de contrato; **C.** vigilar el cumplimiento de la normativa, con «**capacidad procesal como
-órgano colegiado**» por decisión mayoritaria; **D.** velar por la legalidad y la no discriminación en
+órgano colegiado» por decisión mayoritaria; D.** velar por la legalidad y la no discriminación en
 la selección; **E.** proponer medidas de organización y mejoras técnicas; **F.** reunión
 **trimestral** con la dirección de RR.HH. para informar de las contrataciones civiles del trimestre
 anterior.
@@ -1160,10 +1160,10 @@ empresa, de oficio, a petición del afectado o de la representación, «**abrir�
 
 Las **máximas** que pueden imponerse:
 
-- **Leves**: amonestación verbal; amonestación por escrito; «**Suspensión de empleo y sueldo de un
+- *Leves*: amonestación verbal; amonestación por escrito; «**Suspensión de empleo y sueldo de un
   día.**»
-- **Graves**: «**Suspensión de empleo y sueldo de dos a veinte días.**»
-- **Muy graves**: «**Suspensión de empleo y sueldo de veintiuno a sesenta días.**» o «**Despido con
+- *Graves*: «**Suspensión de empleo y sueldo de dos a veinte días.**»
+- *Muy graves*: «**Suspensión de empleo y sueldo de veintiuno a sesenta días.**» o «**Despido con
   pérdida de todos los derechos.**»
 
 #### Artículo 70. Cumplimiento de las sanciones
@@ -1215,7 +1215,7 @@ cuadro que figura en el Anexo I**», que es la tabla de antigüedad) y en dos fi
 Anexo III («cuadro de luminotecnia» y «cuadro de imagen»). Ningún anexo trata de permisos.
 
 La regulación está en el **artículo 33**, «**Licencias, permisos, reducciones de jornada y
-facilidades para estudios**», y la modifica la **disposición transitoria tercera**. Por eso este
+facilidades para estudios», y la modifica la disposición transitoria tercera**. Por eso este
 epígrafe transcribe literalmente los dos textos y después los ordena en un cuadro-resumen propio.
 Las materias vecinas que no están en el artículo 33 van al final del cuadro con su artículo:
 vacaciones (art. 13 y DT 2.ª), excedencias (art. 32) y crédito horario de los representantes
@@ -1405,7 +1405,7 @@ disposiciones**» (el párrafo entero se transcribe en «Disposiciones transitor
 
 Tres cosas que hay que saber para leerla:
 
-- **Apartado A**: es inequívoco. El permiso por traslado de **domicilio** pasa de dos días a uno. No
+- *Apartado A*: es inequívoco. El permiso por traslado de **domicilio** pasa de dos días a uno. No
   toca el de traslado de **centro de trabajo** (tres días) ni el límite de una vez al año.
 - **Apartado B**: el rótulo habla de «Días de asuntos propios», pero el texto dice que «**Las
   Licencias y permisos regulados en el art. 33**» quedan en suspenso y pasan a ser «**un total de 4
@@ -1415,8 +1415,8 @@ Tres cosas que hay que saber para leerla:
   acumularse a las vacaciones salvo consentimiento de la empresa; la DT 3.ª B dice que los cuatro
   días «**podrán ser acumulados a los de vacaciones anuales**». El texto no resuelve la
   ambigüedad y este tema tampoco la resuelve.
-- **Base legal**: a diferencia de la DT 2.ª (vacaciones), que invoca el artículo 26 de la Ley
-  3/2012, la DT 3.ª no cita ningún precepto. La materia es la del **artículo 26 de la Ley 3/2012**,
+- *Base legal*: a diferencia de la DT 2.ª (vacaciones), que invoca el artículo 26 de la Ley
+  3/2012, la DT 3.ª no cita ningún precepto. La materia es la del artículo 26 de la Ley 3/2012,
   rotulado «**Vacaciones y permisos**», que en su redacción original sometía las vacaciones y
   permisos del personal de las entidades instrumentales a los artículos 48 y 50 del Estatuto
   Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012. **Ese artículo 26 está
@@ -1428,12 +1428,12 @@ Tres cosas que hay que saber para leerla:
 
 ### Cuadro-resumen (elaboración del tema)
 
-**Este cuadro no es del convenio: es una elaboración de este tema** a partir del artículo 33 y de la
+Este cuadro no es del convenio: es una elaboración de este tema a partir del artículo 33 y de la
 DT 3.ª. Las cifras y plazos son los del texto; la última columna dice qué tocó la DT 3.ª. El plazo de
 solicitud es el del artículo 33.A.2, y en todos los casos hay que presentar «**justificación
 suficiente del motivo alegado**» (art. 33.A.3).
 
-**A. Permisos y ausencias retribuidas (art. 33.A)**
+*A. Permisos y ausencias retribuidas (art. 33.A)*
 
 | Letra | Supuesto | Duración | Plazo de solicitud | DT 3.ª |
 | --- | --- | --- | --- | --- |
@@ -1458,7 +1458,7 @@ suficiente del motivo alegado**» (art. 33.A.3).
 Al reincorporarse de una reducción de jornada hay que preavisar «**con quince días de antelación**»
 (art. 33.A.3).
 
-**B a F. Resto del artículo 33**
+*B a F. Resto del artículo 33*
 
 | Bloque | Supuesto | Cifras y condiciones | DT 3.ª |
 | --- | --- | --- | --- |
@@ -1475,7 +1475,7 @@ Al reincorporarse de una reducción de jornada hay que preavisar «**con quince 
 | E | Licencia no retribuida | Caso extraordinario acreditado, con consentimiento de la empresa, máximo 6 meses en el año natural | — |
 | F | Parejas de hecho | Mismos beneficios que las parejas de derecho con convivencia de al menos 6 meses acreditada con certificado de empadronamiento o convivencia | — |
 
-**Materias vecinas, fuera del artículo 33**
+*Materias vecinas, fuera del artículo 33*
 
 | Materia | Convenio | Disposición transitoria |
 | --- | --- | --- |
@@ -1490,8 +1490,8 @@ Al reincorporarse de una reducción de jornada hay que preavisar «**con quince 
 ### Contraste con el Estatuto de los Trabajadores vigente
 
 El convenio es de 2014 y el ET ha cambiado mucho después en permisos, nacimiento y conciliación.
-Este epígrafe pone **los dos textos uno al lado del otro, con su precepto**, solo donde la
-diferencia está escrita. **No decide cuál prevalece**: el artículo 6 del convenio dice que sus
+Este epígrafe pone los dos textos uno al lado del otro, con su precepto, solo donde la
+diferencia está escrita. *No decide cuál prevalece*: el artículo 6 del convenio dice que sus
 normas se aplican «**con carácter prioritario y preferente respecto a cualquier otra disposición o
 norma legal**», y la relación entre ley y convenio es una cuestión que este tema no estudia.
 
@@ -1503,7 +1503,7 @@ convalidado por Resolución de 9 de septiembre de 2025 del Congreso de los Diput
 46**, tres redacciones, la vigente desde el 30 de junio de 2023 (Real Decreto-ley 5/2023, de 28 de
 junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacción.
 
-**Permisos retribuidos**
+*Permisos retribuidos*
 
 | Convenio (2014) | ET vigente |
 | --- | --- |
@@ -1514,7 +1514,7 @@ junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacc
 | Art. 33.A.1.k: exámenes prenatales y preparación al parto | Art. 37.3.f: además, en adopción, guarda o acogimiento, «**la asistencia a las preceptivas sesiones de información y preparación**» y los informes previos a la declaración de idoneidad |
 | No lo regula | Art. 37.3.g: «**Hasta cuatro días por imposibilidad de acceder al centro de trabajo**» por limitaciones de las autoridades o riesgo grave e inminente, incluida catástrofe o fenómeno meteorológico adverso. Segunda letra g (así en el texto): actos preparatorios de la donación de órganos o tejidos. Art. 37.9: ausencia por fuerza mayor familiar, con derecho a que se retribuyan las horas «**equivalentes a cuatro días al año**» |
 
-**Lactancia, prematuros y reducciones**
+*Lactancia, prematuros y reducciones*
 
 | Convenio (2014) | ET vigente |
 | --- | --- |
@@ -1524,7 +1524,7 @@ junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacc
 | Art. 33.A.1.n: hijo con cáncer u otra enfermedad grave, reducción de al menos la mitad con retribuciones íntegras «**siempre que ambos progenitores**» trabajen, y «**como máximo, hasta que el menor cumpla los 18 años**» | Art. 37.6, párrafos tercero y siguientes: reducción de al menos la mitad «**con la disminución proporcional del salario**», «**como máximo, hasta que el hijo o persona que hubiere sido objeto de acogimiento permanente o de guarda con fines de adopción cumpla los veintitrés años**»; hasta los 26 si antes de los 23 acredita una discapacidad «**igual o superior al 65 por ciento**». La prestación que cubre el salario es de Seguridad Social, materia que este tema no estudia |
 | Art. 33.A.1.m: «**Permiso por razón de violencia de género sobre la mujer trabajadora**» | Art. 37.8: «**Las personas trabajadoras que tengan la consideración de víctimas de violencia de género, de violencia sexual o de víctimas del terrorismo**», con derecho también a trabajar total o parcialmente a distancia o a dejar de hacerlo |
 
-**Nacimiento, adopción y cuidado del menor**
+*Nacimiento, adopción y cuidado del menor*
 
 | Convenio (2014) | ET vigente |
 | --- | --- |
@@ -1534,7 +1534,7 @@ junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacc
 | Art. 33.A.1.h, último párrafo: «**En caso de fallecimiento de la madre durante el permiso, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» | Art. 48.4: «**En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» |
 | Art. 33.A.1.i: adopción internacional, la suspensión puede iniciarse «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» | Art. 48.5: igual, «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» (coinciden) |
 
-**Excedencias, vacaciones y horas extraordinarias**
+*Excedencias, vacaciones y horas extraordinarias*
 
 | Convenio (2014) | ET vigente |
 | --- | --- |
@@ -1543,7 +1543,7 @@ junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacc
 | Art. 13.7: las vacaciones se interrumpen por baja de IT, riesgo para la maternidad o la lactancia o permiso de maternidad o paternidad, y se reanudan con el alta. Art. 33.A.1.i: acumulables a maternidad, lactancia y paternidad «**aún habiendo expirado ya el año natural**» | Art. 38.3: si coinciden con IT por embarazo, parto o lactancia o con las suspensiones del artículo 48.4, 48.5 y 48.7, se disfrutan después «**aunque haya terminado el año natural a que correspondan**»; si coinciden con otra IT, siempre que no hayan pasado «**más de dieciocho meses a partir del final del año en que se hayan originado**» |
 | Art. 14: sin tope anual de horas extraordinarias; compensación de dos horas de descanso por hora | Art. 35.2: «**El número de horas extraordinarias no podrá ser superior a ochenta al año**»; no computan las compensadas con descanso dentro de los cuatro meses siguientes |
 
-**Donde coinciden** (sin contraste): descanso mínimo de doce horas entre jornadas (convenio, art.
+*Donde coinciden* (sin contraste): descanso mínimo de doce horas entre jornadas (convenio, art.
 12.b.2; ET, art. 34.3); período de prueba, que el convenio remite a la normativa legal (art. 23;
 ET, art. 14); prescripción de faltas, que el convenio remite al artículo 60.2 del ET (art. 71).
 
@@ -1551,11 +1551,11 @@ ET, art. 14); prescripción de faltas, que el convenio remite al artículo 60.2 
 
 ### Disposiciones adicionales (diez)
 
-- **Primera. Salario y otros conceptos retributivos**: «**El incremento salarial durante la vigencia
+- *Primera. Salario y otros conceptos retributivos*: «**El incremento salarial durante la vigencia
   del X Convenio Colectivo será, en su caso, el previsto para el conjunto del sector público de
   Andalucía en la Ley de Presupuestos de la Comunidad Autónoma de Andalucía para cada ejercicio.**»
   A ella remiten los artículos 41, 48, 50 y 53 para revisar sus cuantías.
-- **Segunda. Desconexiones provinciales**: fija la plantilla estructural de las direcciones
+- *Segunda. Desconexiones provinciales*: fija la plantilla estructural de las direcciones
   territoriales conforme al Anexo II, en particular para las desconexiones informativas
   provinciales de Almería, Cádiz, Córdoba, Huelva y Jaén. Las tareas de puesta en emisión las hacen,
   de forma rotatoria, **cuatro** operadores montadores de vídeo, con el complemento de especial
@@ -1563,25 +1563,25 @@ ET, art. 14); prescripción de faltas, que el convenio remite al artículo 60.2 
   radio de esos centros siguen cobrando el de calidad del **25 %** a razón de dos, rotatorios; y
   los documentalistas de Almería, Cádiz, Córdoba, Huelva, Jaén y Madrid asumen las tareas propias y
   las auxiliares de la documentación. Todos estos complementos son «**no consolidable**».
-- **Tercera. Conciliación de la vida laboral y familiar**: en el primer año de vigencia, medidas de
+- *Tercera. Conciliación de la vida laboral y familiar*: en el primer año de vigencia, medidas de
   «**bonificación fiscal**» para quienes tengan hijos en edad de guardería.
-- **Cuarta. Contingencias comunes**: compromiso de «**no externalizar la gestión de la prestación
+- *Cuarta. Contingencias comunes*: compromiso de «**no externalizar la gestión de la prestación
   económica de la incapacidad temporal por contingencias comunes**».
-- **Quinta. Empresas de servicios**: la empresa vela por el cumplimiento de los convenios de sus
+- *Quinta. Empresas de servicios*: la empresa vela por el cumplimiento de los convenios de sus
   contratistas, con cláusula en los pliegos cuyo incumplimiento «**podrá dar lugar a la rescisión**»;
   la contratación de empresas de trabajo temporal «**será negociada con la representación de los/las
   trabajadores/as**».
-- **Sexta. Cláusula de conciencia y derecho de autor**: se reconoce el derecho de los trabajadores
+- *Sexta. Cláusula de conciencia y derecho de autor*: se reconoce el derecho de los trabajadores
   de la información «**a guardar el secreto profesional y a invocar la cláusula de conciencia y
   derecho de autor, cuando el desempeño de sus labores profesionales lesione sus convicciones**».
 - **Séptima** (sin rúbrica): la externalización de servicios que la RTVA presta con medios propios
   no podrá conllevar «**merma de la plantilla estructural actual ni de la cantidad y calidad de los
   servicios**».
-- **Octava. Definición de funciones**: remite al Anexo III.
+- *Octava. Definición de funciones*: remite al Anexo III.
 - **Novena** (sin rúbrica): la DA 1.ª y la revisión salarial no pueden suponer un crecimiento de la
   masa salarial superior a los límites de las leyes de presupuestos de Andalucía para el personal
   laboral del sector público.
-- **Décima. Plan de Igualdad**: negociar los planes de igualdad «**Dentro de los 6 meses siguientes
+- *Décima. Plan de Igualdad*: negociar los planes de igualdad «**Dentro de los 6 meses siguientes
   a la fecha en la que se suscriba este Convenio**».
 
 Para 2026, la Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía
@@ -1593,7 +1593,7 @@ estudia). No hay publicadas tablas salariales del convenio posteriores a las de 
 
 ### Disposiciones transitorias (diez)
 
-**El párrafo que las encabeza**, literal:
+El párrafo que las encabeza, literal:
 
 > Habida cuenta que, de conformidad con lo dispuesto en los arts. 5 y 25 del Decreto-ley 1/2012, de
 > 19 de junio (BOJA núm. 122, de 22.6.2012) y en la Ley 3/2012, de 21 de septiembre, de Medidas
@@ -1606,14 +1606,14 @@ estudia). No hay publicadas tablas salariales del convenio posteriores a las de 
 > RTVA, mientras se mantenga la vigencia de dichas disposiciones, este queda afectado por aquellas
 > en lo siguiente:
 
-Es decir, las transitorias **no modifican** el articulado: dicen qué partes quedan suspendidas y
-sustituidas por las medidas de 2012 **mientras esas medidas estén vigentes**. La Ley 3/2012 se
+Es decir, las transitorias no modifican el articulado: dicen qué partes quedan suspendidas y
+sustituidas por las medidas de 2012 mientras esas medidas estén vigentes. La Ley 3/2012 se
 aplica, según su artículo 3.c), a «**Las agencias públicas empresariales, sociedades mercantiles
-del sector público andaluz**», y su artículo 5 suspende las cláusulas de los convenios «**que
+del sector público andaluz», y su artículo 5 suspende las cláusulas de los convenios «que
 contradigan lo dispuesto en la presente Ley**». Por eso lo que hoy valga cada transitoria depende
 de cómo esté cada precepto de esa ley, y eso ha ido cambiando por las leyes de presupuestos.
 
-**Primera. Jornada y horarios**
+*Primera. Jornada y horarios*
 
 - A.a) Personal **fijo**: «**treinta y siete horas y treinta minutos semanales de trabajo efectivo de
   promedio en cómputo anual**», sin incremento retributivo; puede pedir voluntariamente reducir su
@@ -1630,21 +1630,21 @@ de cómo esté cada precepto de esa ley, y eso ha ido cambiando por las leyes de
 - Base que cita: artículos 23 y 25 del Decreto-ley 1/2012 y de la Ley 3/2012 (el apartado C, la Ley
   3/2012 sin artículo).
 
-**Segunda. Vacaciones**: conforme al artículo 26 de la Ley 3/2012, las vacaciones del artículo 13
+*Segunda. Vacaciones*: conforme al artículo 26 de la Ley 3/2012, las vacaciones del artículo 13
 se ajustan a los artículos 48 y 50 del Estatuto Básico del Empleado Público en la redacción del
 Real Decreto-ley 20/2012 y «**serán de 22 días hábiles, sin computar los sábados, por año
-completo**»; hasta **5** de ellos pueden tomarse sueltos y acumularse a los asuntos propios.
+completo»; hasta 5** de ellos pueden tomarse sueltos y acumularse a los asuntos propios.
 
-**Tercera. Permisos**: transcrita y comentada en «Cuadro de licencias y permisos».
+*Tercera. Permisos*: transcrita y comentada en «Cuadro de licencias y permisos».
 
-**Cuarta. Jubilaciones**: 1) conforme al «**art. 11.5 de la Ley de Presupuestos de la Comunidad
+*Cuarta. Jubilaciones*: 1) conforme al «**art. 11.5 de la Ley de Presupuestos de la Comunidad
 Autónoma de Andalucía**» (el texto no dice de qué año), se amortizan tantas plazas como jubilaciones,
 salvo en sectores prioritarios o servicios públicos esenciales; 2) se ratifica el acuerdo de
-jubilaciones parciales de **27 de marzo de 2013**, al amparo del artículo 8 del Real Decreto-ley
+jubilaciones parciales de 27 de marzo de 2013, al amparo del artículo 8 del Real Decreto-ley
 5/2013, de 15 de marzo, que prorrogaba la regulación anterior «**para las que se causen antes del 1
 de enero de 2019**».
 
-**Quinta. Retribuciones**
+*Quinta. Retribuciones*
 
 - A) Personal temporal, interino o indefinido no fijo: retribuciones fijas y periódicas reducidas
   «**en un diez por ciento (10%)**» (art. 23.1 de la Ley 3/2012).
@@ -1667,7 +1667,7 @@ antigüedad lineal «**no cumple con lo establecido en el art.19.1 de la Ley 3/2
 complemento al importe del grupo equivalente del Convenio Colectivo del Personal Laboral de la
 Junta de Andalucía. Es la opinión del órgano de control, no una modificación del convenio.
 
-**Sexta. Incapacidad temporal**: el complemento del artículo 40 queda modificado por el artículo 14
+*Sexta. Incapacidad temporal*: el complemento del artículo 40 queda modificado por el artículo 14
 del Decreto-ley 1/2012 y de la Ley 3/2012:
 
 - 100 % en contingencias profesionales y en contingencias comunes con hospitalización o
@@ -1680,16 +1680,16 @@ del Decreto-ley 1/2012 y de la Ley 3/2012:
 - en IT por contingencias comunes no se complementan las retribuciones variables ni las ligadas a la
   prestación efectiva del servicio.
 
-**Séptima. Dietas, kilometraje y plus de pernota** (así, con errata, en la rúbrica del cuerpo):
+Séptima. Dietas, kilometraje y plus de pernota (así, con errata, en la rúbrica del cuerpo):
 conforme al artículo 22 de la Ley 3/2012, las compensaciones de gastos no pueden superar las del
 **Decreto 54/1989, de 21 de marzo**, sobre indemnizaciones por razón del servicio de la Junta de
 Andalucía; lo mismo para los desplazamientos de los representantes (art. 58.5).
 
-**Octava. Acción Social**: conforme al artículo 31 del Decreto-ley 2/2012 y al artículo 28 de la Ley
+*Octava. Acción Social*: conforme al artículo 31 del Decreto-ley 2/2012 y al artículo 28 de la Ley
 3/2012, se suspenden las convocatorias de ayudas de acción social del convenio, «**salvo las de
 atención a personas con discapacidad**».
 
-**Novena. Crédito horario de los representantes sindicales**: por el inciso final del artículo 32
+*Novena. Crédito horario de los representantes sindicales*: por el inciso final del artículo 32
 de la Ley 3/2012 y por analogía con el acuerdo de 29 de octubre de 2012 de la Mesa General de
 Negociación de la Junta, «**el crédito horario de los representantes sindicales será el establecido
 en el presente Convenio Colectivo**».
@@ -1699,14 +1699,14 @@ aprueba mejoras para el conjunto del sector público andaluz, «**la misma se tr
 de RTVA y sus Sociedades Filiales**», compensándose con los ajustes o liberando total o parcialmente
 lo suspendido.
 
-**Dónde está hoy cada base legal** (preceptos de la Ley 3/2012 leídos en su redacción vigente el 24
+Dónde está hoy cada base legal (preceptos de la Ley 3/2012 leídos en su redacción vigente el 24
 de septiembre de 2026):
 
 - La **Ley 7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
   2025**, en vigor el 1 de enero de 2025, dispone en su disposición derogatoria única, letra e), que
   quedan derogados «**Los artículos 6, 13, 16, 17, 21, 26 y 32 de la Ley 3/2012**».
 - La **Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
-  2026**, disposición adicional cuarta: «**durante el año 2026 solo se mantendrá la aplicación de las
+  2026, disposición adicional cuarta: «durante el año 2026 solo se mantendrá la aplicación de las
   medidas contenidas en los artículos 15, 18, 19, 22, 27, 28.2 y 29 de la Ley 3/2012, de 21 de
   septiembre, tras la revisión prevista en su artículo 4.**» Para 2025, la disposición adicional
   cuarta de la Ley 7/2024 decía lo mismo con el artículo 28 entero.
@@ -1716,7 +1716,7 @@ de septiembre de 2026):
 | 1.ª A (jornada del fijo y del temporal) | Arts. 23 y 25 | No derogados, pero fuera de la lista de medidas cuya aplicación se mantiene en 2026 |
 | 1.ª C (contratación del 50 % de horas extra) | La ley, sin artículo | Sin precepto concreto que contrastar |
 | 2.ª (vacaciones, 22 días hábiles) | Art. 26 | **Derogado** desde el 1 de enero de 2025 |
-| 3.ª (permisos) | No cita ninguno; la materia es la del art. 26 | Art. 26 **derogado** desde el 1 de enero de 2025 |
+| 3.ª (permisos) | No cita ninguno; la materia es la del art. 26 | Art. 26 derogado desde el 1 de enero de 2025 |
 | 4.ª (jubilaciones) | Art. 11.5 de una ley de presupuestos sin año | No comprobado |
 | 5.ª A (temporales, −10 %) | Art. 23.1 | Fuera de la lista de 2026 |
 | 5.ª B y C (antigüedad lineal) | Art. 19 | En la lista: **se mantiene** en 2026 |
@@ -1731,7 +1731,7 @@ atención a personas con discapacidad y otras; su apartado 3 remite, para el per
 entidades instrumentales no sujeto al convenio del personal laboral de la Junta, a «**su normativa
 reguladora**». El tema no estudia su alcance para la RTVA.
 
-**Lo que no se ha podido confirmar**, y por eso el tema no lo afirma: cómo aplican hoy la RTVA y
+Lo que no se ha podido confirmar, y por eso el tema no lo afirma: cómo aplican hoy la RTVA y
 CSRTV la jornada, las vacaciones, los permisos, el complemento de IT o la acción social después de
 esos cambios; si se ha activado el mecanismo de la DT 10.ª; y qué queda de la DT 4.ª. No hay acuerdo
 publicado ni inscrito que lo diga. Lo seguro es el texto del convenio, el de las transitorias y el
@@ -1750,7 +1750,7 @@ Cuantías de 2013, en euros:
 | B05 | 1.391,16 | 16.693,92 | 695,58 / 1.391,16 / 695,58 / 1.391,16 | 300,51 / 750,00 | 21.917,91 |
 
 A estas cantidades se aplica, «**con efecto 1 de enero**», el incremento que fije cada año la ley de
-presupuestos andaluza para el sector público. La **tabla de trienios** va del primero (66,07 €
+presupuestos andaluza para el sector público. La tabla de trienios va del primero (66,07 €
 mensuales; 991,05 € anuales) al octavo (528,56 € mensuales; 7.928,40 € anuales), en progresión de
 66,07 € mensuales por trienio. Sobre su relación con el 0,0024 del artículo 49.3 y con los 45 €
 lineales de la DT 5.ª, véase «Erratas y remisiones».
@@ -1762,14 +1762,14 @@ Tabla por puesto, entidad (RTVA, CSTV, CSR), localidad y nivel, con dos columnas
 de Canal Sur Televisión y **147** de Canal Sur Radio; en los centros de producción, Algeciras 16,
 Almería 44, Cádiz 43, Córdoba 44, Granada 57, Huelva 44, Jaén 48 y Málaga 132 (Jerez y Madrid
 figuran sin total propio); y «**TOTAL DIRECCIONES TERRITORIALES**», **452**. En todos los totales la
-columna del IX y la del X Convenio coinciden. **No da un total general**; sumando los tres de Sevilla
+columna del IX y la del X Convenio coinciden. No da un total general; sumando los tres de Sevilla
 y el de direcciones territoriales salen 1.529 (suma del tema).
 
 ### Anexo III. Definición de funciones
 
 Fichas de puesto (a las que remite la DA 8.ª), con los campos «**CÓDIGO PUESTO**», «**DENOMINACION DEL
-PUESTO**», dirección y departamento, «**OBJETO O FUNCIÓN BÁSICA DEL PUESTO**» y «**TAREAS MÁS
-SIGNIFICATIVAS DEL PUESTO**». Contadas por el campo de código, son **114** fichas. Es el anexo que
+PUESTO», dirección y departamento, «OBJETO O FUNCIÓN BÁSICA DEL PUESTO**» y «**TAREAS MÁS
+SIGNIFICATIVAS DEL PUESTO». Contadas por el campo de código, son 114** fichas. Es el anexo que
 ocupa la mayor parte del BOJA (páginas 100 a 213) y el que la convocatoria de 2026 cita para el
 requisito de capacidad funcional (base 6.3).
 
@@ -1793,27 +1793,27 @@ requisito de capacidad funcional (base 6.3).
 
 ## Lo que este tema no da, y dónde está
 
-- **Cómo se aplican hoy en la empresa** la jornada, las vacaciones, los permisos, el complemento de
+- Cómo se aplican hoy en la empresa la jornada, las vacaciones, los permisos, el complemento de
   IT y la acción social tras la derogación de los artículos 26 y 32 de la Ley 3/2012 y la lista de
   medidas que la Ley 8/2025 mantiene en 2026. No hay acuerdo publicado ni inscrito.
-- **El cuadro de licencias y permisos que pueda usar internamente la empresa**: no está publicado ni
+- *El cuadro de licencias y permisos que pueda usar internamente la empresa*: no está publicado ni
   en el BOJA, ni en el registro de convenios, ni en los portales de transparencia de la RTVA y de
   CSRTV. Existe un cuadro sindical de 2017 («Permisos, licencias y reducciones de jornada en Canal
   Sur - RTVA») que mezcla el convenio con permisos procedentes de normas de la Junta y de acuerdos de
-  la COMVI de 2016 no publicados; **no es fuente de derecho** y este tema no lo usa.
-- **Los acuerdos y reglamentos de la COMVI** que el convenio le encarga: no están publicados.
-- **Las tablas salariales posteriores a 2013**: no hay ninguna publicada ni inscrita.
-- **Cuál prevalece** cuando el convenio y el ET dicen cosas distintas: la relación entre ley y
+  la COMVI de 2016 no publicados; no es fuente de derecho y este tema no lo usa.
+- Los acuerdos y reglamentos de la COMVI que el convenio le encarga: no están publicados.
+- *Las tablas salariales posteriores a 2013*: no hay ninguna publicada ni inscrita.
+- Cuál prevalece cuando el convenio y el ET dicen cosas distintas: la relación entre ley y
   convenio (artículo 3 del ET) no es objeto de este enunciado.
-- **El Reglamento de la Mesa de Contratación** en su conjunto (bolsas, baremos, procedimientos): aquí
+- El Reglamento de la Mesa de Contratación en su conjunto (bolsas, baremos, procedimientos): aquí
   solo se ve lo que desarrolla del convenio. El temario específico de jefe de sección de coordinación
   territorial lo incluye.
-- **El Plan de Igualdad** de la RTVA y CSRTV y la normativa de igualdad: la DA 10.ª solo manda
+- El Plan de Igualdad de la RTVA y CSRTV y la normativa de igualdad: la DA 10.ª solo manda
   negociarlo; la normativa andaluza y estatal de igualdad es el punto 8 del temario común.
-- **La prevención de riesgos laborales**: los artículos 25 a 31 remiten a la Ley 31/1995, que es el
+- *La prevención de riesgos laborales*: los artículos 25 a 31 remiten a la Ley 31/1995, que es el
   punto 9 del temario común.
-- **La organización de la RTVA y de CSRTV** y la Ley 18/2007: punto 5 del temario común.
-- **Las prestaciones de Seguridad Social** (nacimiento y cuidado, cuidado de menores con cáncer, IT):
+- La organización de la RTVA y de CSRTV y la Ley 18/2007: punto 5 del temario común.
+- Las prestaciones de Seguridad Social (nacimiento y cuidado, cuidado de menores con cáncer, IT):
   el tema solo da lo que dice el convenio sobre sus complementos.
 
 ## Trazabilidad
@@ -1828,14 +1828,14 @@ requisito de capacidad funcional (base 6.3).
 
 Comprobaciones hechas sobre la fuente:
 
-1. **Recuentos** hechos sobre el cuerpo del BOJA: 74 artículos, 11 capítulos, 10 DA, 10 DT, 3
+1. Recuentos hechos sobre el cuerpo del BOJA: 74 artículos, 11 capítulos, 10 DA, 10 DT, 3
    anexos, 114 fichas de puesto en el Anexo III, 66 grupos profesionales en el art. 45.
 2. **Transcripción literal** del artículo 33 y de la DT 3.ª comparada palabra por palabra con el
    texto del BOJA: sin diferencias, salvo la unión de palabras cortadas a final de línea.
 3. **Registro de convenios** consultado el 24 de septiembre de 2026 por el código del convenio: sin
    trámites posteriores a 2014.
-4. **Estatuto de los Trabajadores y Ley 3/2012** leídos en su redacción vigente el 24 de septiembre
+4. Estatuto de los Trabajadores y Ley 3/2012 leídos en su redacción vigente el 24 de septiembre
    de 2026, con la cadena de redacciones de cada precepto citado; la redacción original del artículo
    26 de la Ley 3/2012 se ha leído también, porque la cita el tema.
-5. **Leyes 7/2024 y 8/2025**: la derogación de 2025 y la lista de medidas mantenidas en 2026 se han
+5. *Leyes 7/2024 y 8/2025*: la derogación de 2025 y la lista de medidas mantenidas en 2026 se han
    leído en el texto de cada ley.

@@ -1262,3 +1262,218 @@ Europea**», y en particular, en catorce letras (a-n):
   parte.**» (SOLVIT es el nombre, sin desarrollar, que da el decreto);
 - m) y n) cooperación territorial europea y relaciones transfronterizas con el Algarve y el Alentejo.
 
+### Los mecanismos estatales de participación
+
+#### La Conferencia para Asuntos Relacionados con la Unión Europea (CARUE)
+
+- La regula la Ley 2/1997, de 13 de marzo, «**por la que se regula la Conferencia para Asuntos
+  Relacionados con las Comunidades Europeas**». Todos sus preceptos conservan la redacción original
+  (aplicable desde el 16 de marzo de 1997): la ley nunca se ha reformado y sigue diciendo «Comunidades
+  Europeas».
+- El nombre actual no viene de la ley sino de la propia Conferencia: en su reunión de 15 de abril de
+  2010 acordó modificar su denominación «**por la de «Conferencia para Asuntos Relacionados con la Unión
+  Europea»**», «**acorde con el Tratado de Lisboa**», y lo llevó a su reglamento interno (Resolución de
+  29 de abril de 2010 de la Secretaría de Estado de Cooperación Territorial). La Ley 2/2014 ya la
+  nombra así (artículo 14.4).
+- Naturaleza (artículo 1.1): «**es un órgano de cooperación entre el Estado y las Comunidades
+  Autónomas para articular adecuadamente la concurrencia de éstas en las cuestiones propias de su
+  participación en los asuntos comunitarios europeos.**»
+- Garantía (1.2): «**En particular, la Conferencia debe garantizar la participación efectiva de las
+  Comunidades Autónomas en la fase de formación de la voluntad del Estado ante las instituciones
+  comunitarias y en la ejecución del Derecho comunitario.**»
+- Órgano de apoyo (1.3): «**La Comisión de Coordinadores de Asuntos Comunitarios Europeos será el
+  órgano de apoyo de la Conferencia.**»
+- Composición (artículo 2): «**el Ministro de Administraciones Públicas, que la presidirá, y [...] el
+  Consejero que, como responsable de los asuntos que integran el ámbito de materias de la misma, sea
+  designado por cada Comunidad Autónoma**»; por el Estado se integran también el «**Secretario de
+  Estado de Política Exterior y para la Unión Europea**» y el «**Secretario de Estado para las
+  Administraciones Territoriales**». Son denominaciones de 1997 que la ley no ha actualizado; qué
+  ministro la preside hoy no se ha comprobado y el tema no lo da. Ceuta y Melilla participan con un
+  miembro de su Consejo de Gobierno (disposición adicional segunda).
+- Funciones (artículo 3): seis materias (1.ª a 6.ª), entre ellas la información sobre el proceso de
+  construcción europea (1.ª), «**La articulación de mecanismos para hacer efectiva la participación de
+  las Comunidades Autónomas en la formación de la voluntad del Estado en el seno de las Comunidades
+  Europeas.**» (2.ª), cuestiones de alcance general en cinco letras (3.ª) y el impulso y seguimiento de
+  la participación autonómica «**a través de las respectivas Conferencias Sectoriales**» (4.ª).
+- Funcionamiento (artículo 4): se dota de un reglamento interno.
+- Cooperación bilateral (disposición adicional primera): las cuestiones «**que afecten en exclusiva a
+  una Comunidad Autónoma o que tengan para ésta una vertiente singular en función de su especificidad
+  autonómica, se tratarán, a iniciativa de cualquiera de las partes y de mutuo acuerdo, mediante
+  instrumentos de cooperación de carácter bilateral.**» Casa con el artículo 231.2 del EAA
+  (bilateral en lo que afecta exclusivamente a Andalucía; multilateral en lo demás) y con la función
+  de seguimiento de la política europea que el artículo 220.2.g) da a la Comisión Bilateral.
+- Por parte andaluza, la representación en los órganos de coordinación con el Estado en materia de
+  Unión Europea corresponde a la Secretaría General de Acción Exterior y Unión Europea (artículo
+  8.1.e del Decreto 189/2026, citado arriba).
+- La Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, lo confirma en su
+  artículo 14.4: «**Las Comunidades Autónomas participarán en la elaboración y ejecución de la Acción
+  Exterior en el ámbito de la Unión Europea a través de los mecanismos de cooperación existentes, en
+  particular, a través de la Conferencia para asuntos relacionados con la Unión Europea.**»
+- La misma ley toca las oficinas y los viajes:
+  - Artículo 12.1: las comunidades «**informarán al Gobierno del establecimiento de oficinas para su
+    promoción exterior, con carácter previo a su apertura.**»
+  - Artículo 5.2, párrafo segundo: el deber de informar de viajes, visitas y actuaciones de los
+    Presidentes y miembros de los Consejos de Gobierno autonómicos «**no será de aplicación cuando se
+    trate de actuaciones en el ámbito de la Unión Europea y de viajes o visitas a sus
+    instituciones.**»
+
+#### La Consejería para Asuntos Autonómicos en la REPER
+
+- La REPER es, según el preámbulo del Real Decreto 2105/1996, «**el órgano acreditado, con carácter
+  representativo y de gestión, por el Estado español ante la Unión Europea**».
+- El Real Decreto 2105/1996, de 20 de septiembre, creó en ella la Consejería para Asuntos
+  Autonómicos, «**con competencia única para relacionarse con las Oficinas de las Comunidades
+  Autónomas en Bruselas y para canalizar la información hacia las Comunidades Autónomas**» (artículo
+  único.1). Esa competencia no afecta a las relaciones ordinarias de las comunidades con los demás
+  consejeros de la REPER (único.2), y la Consejería «**dependerá funcionalmente del Ministerio de
+  Administraciones Públicas**» (único.3). El BOE no lo consolida y no registra ninguna modificación ni
+  derogación.
+- El Acuerdo de la Conferencia de 9 de diciembre de 2004 sobre esta Consejería y sobre la
+  participación en los grupos de trabajo del Consejo (publicado por Resolución de 28 de febrero de
+  2005) la reformó:
+  - I.1: «**Los puestos de trabajo integrantes de la Consejería para Asuntos Autonómicos en la
+    Representación Permanente de España ante la Unión Europea —en adelante Consejería— serán
+    desempeñados por funcionarios propuestos por las Comunidades Autónomas.**»
+  - I.3: se nombran a propuesta consensuada de las comunidades formulada en la Conferencia.
+  - I.5: «**Los nombramientos de los consejeros tendrán una vigencia temporal limitada a tres años.
+    Podrán ser objeto de prórroga, por períodos anuales, previa conformidad de la Conferencia**».
+  - I.9.1: ocho cometidos respecto de las comunidades, desde transmitir la información de las
+    instituciones hasta el «**Seguimiento de los trabajos del Comité de las Regiones.**» (8.º).
+  - I.9.2: seis cometidos respecto del Ministerio, entre ellos la «**Tramitación de las propuestas de
+    nombramientos y sustituciones de los miembros españoles del Comité de las Regiones.**» (3.º).
+  - IV.2 manda adaptar el Real Decreto 2105/1996 al Acuerdo; no se ha encontrado que se adaptara.
+- Grupos de trabajo del Consejo (parte II del mismo Acuerdo): los consejeros autonómicos de la REPER
+  se incorporan a la delegación española en determinados grupos; y, en los asuntos con representación
+  autonómica directa, se incorpora el responsable técnico del representante autonómico. Los grupos
+  son los de las formaciones que enumera el apartado II.2, que hoy, tras las modificaciones publicadas
+  en 2011, son seis: «**Empleo, Política social, Sanidad y Consumidores. / Agricultura y Pesca. / Medio
+  Ambiente. / Educación, Juventud, Cultura y Deporte. / Competitividad-Consumo. /
+  Competitividad-Juego.**»
+- COREPER (II.4): «**La participación autonómica llevará consigo la asistencia al Comité de
+  Representantes Permanentes (COREPER), de conformidad con la práctica institucional existente, cuando
+  en el Comité se examinen asuntos que afecten a las competencias autonómicas.**»
+
+#### La participación en las formaciones del Consejo
+
+- Lo regula el otro Acuerdo de la Conferencia de 9 de diciembre de 2004, sobre el sistema de
+  representación autonómica en las formaciones del Consejo de la Unión Europea (misma Resolución de
+  2005). Encaja en el artículo 16.2 del TUE, que exige un representante «**de rango ministerial**»
+  facultado para comprometer al Gobierno.
+- Qué es (1.1): «**la incorporación a la delegación española en las reuniones de determinadas
+  formaciones del Consejo de la Unión Europea de un miembro, con rango de Consejero o miembro de un
+  Consejo de Gobierno autonómico, que represente a las Comunidades Autónomas en los asuntos que afecten
+  a sus competencias.**»
+- Siete principios (1.2, letras a-g): unicidad de representación de España; unidad de acción en el
+  exterior; capacidad de propuesta y reacción de España; lealtad y mutua confianza; corresponsabilidad;
+  representación conjunta de las comunidades autónomas; y «**responsabilidad del Estado en el resultado
+  de las negociaciones**».
+- Formaciones (2.1). El texto de 2004 tenía cuatro; tras las modificaciones de 2009 y 2011 (publicadas
+  por Resolución de 22 de julio de 2011) son cinco: «**Empleo, Política Social, Sanidad y
+  Consumidores. / Agricultura y Pesca. / Medio Ambiente. / Educación, Juventud, Cultura y Deporte. /
+  Competitividad-Consumo.**» No hay que confundir este recuento (cinco formaciones con representación
+  directa) con el de los grupos de trabajo (seis, porque añade Competitividad-Juego). En las demás
+  formaciones rige la participación interna a través de las Conferencias Sectoriales (2.2).
+- Quién va (3.1 y 3.2): lo designa el Pleno de cada Conferencia Sectorial concernida, con rango de
+  miembro de un Consejo de Gobierno autonómico, con una estabilidad que, como regla general, «**al
+  menos cubra un semestre de presidencia del Consejo de la Unión Europea**».
+- Qué asuntos (4.1): los fijan al inicio de cada presidencia semestral las comunidades interesadas.
+- Cómo interviene (punto 5):
+  - Es «**miembro de pleno derecho de la delegación española**» y representa al conjunto de las
+    comunidades (5.1).
+  - «**podrá solicitar el uso de la palabra al jefe de delegación si se están debatiendo cuestiones que
+    afectan a competencias autonómicas y existe una posición común autonómica que expresar. En este
+    supuesto, el jefe de delegación le cederá el uso de la palabra siempre que lo estime oportuno para
+    la mejor defensa de los intereses españoles.**» (5.3). La palabra no es un derecho automático: la
+    cede el jefe de delegación si lo estima oportuno.
+  - «**La responsabilidad última de las negociaciones y de su conclusión corresponderá en todo momento
+    al jefe de delegación.**» (5.5).
+- No se ha confirmado si hay acuerdos posteriores a 2011 que el BOE no recoja, ni en qué semestres ha
+  ejercido Andalucía esta representación.
+
+#### El control de subsidiariedad
+
+- En los Tratados (Protocolo n.º 2):
+  - Artículo 6: todo Parlamento nacional o cámara puede dirigir un dictamen motivado sobre la
+    subsidiariedad «**en un plazo de ocho semanas a partir de la fecha de transmisión de un proyecto de
+    acto legislativo**», y «**Incumbirá a cada Parlamento nacional o a cada cámara de un Parlamento
+    nacional consultar, cuando proceda, a los Parlamentos regionales que posean competencias
+    legislativas.**»
+  - Artículo 7: cada Parlamento nacional tiene dos votos (uno por cámara si es bicameral). Si los
+    dictámenes contrarios reúnen «**al menos un tercio del total de votos**» (un cuarto en el espacio de
+    libertad, seguridad y justicia), el proyecto se vuelve a estudiar; en el procedimiento legislativo
+    ordinario, con «**al menos la mayoría simple**», la propuesta se vuelve a estudiar y, si la Comisión
+    la mantiene, el legislador puede desestimarla.
+  - Artículo 8: el TJUE conoce de los recursos por violación de la subsidiariedad que interponga un
+    Estado, también en nombre de su Parlamento; y «**el Comité de las Regiones también podrá interponer
+    recursos contra actos legislativos para cuya adopción el Tratado de Funcionamiento de la Unión
+    Europea requiera su consulta.**»
+- En España, la Ley 8/1994, de 19 de mayo, por la que se regula la Comisión Mixta para la Unión Europea
+  (artículo 6, en la redacción que le dio la reforma de 2009, la única que ha tenido):
+  - 6.1: el Congreso y el Senado remiten cada iniciativa legislativa europea a los Parlamentos
+    autonómicos, «**sin prejuzgar la existencia de competencias autonómicas afectadas**», para que
+    puedan enviar un dictamen motivado sobre la subsidiariedad.
+  - 6.2: el dictamen autonómico solo se tiene en consideración si llega al Congreso o al Senado «**en el
+    plazo de cuatro semanas desde la remisión de la iniciativa legislativa europea por las Cortes
+    Generales**».
+  - 6.3: si la Comisión Mixta aprueba un dictamen motivado sobre la vulneración de la subsidiariedad,
+    «**incorporará la relación de los dictámenes remitidos por los Parlamentos de las Comunidades
+    Autónomas**».
+  - La Comisión Mixta emite el dictamen «**en nombre de las Cortes Generales**» (artículo 3.j).
+- En Andalucía: el artículo 237 del EAA garantiza la consulta previa al Parlamento de Andalucía. El
+  Reglamento del Parlamento de Andalucía (texto consolidado de 2025) incluye entre las Comisiones
+  Permanentes la de «**Asuntos Europeos**» (artículo 46.2.6.ª), y una nota a ese precepto remite al
+  «**Acuerdo de 5 de mayo de 2010, aprobado por la Mesa y la Junta de Portavoces, sobre el procedimiento
+  para el control del principio de subsidiariedad en las propuestas legislativas de la Unión
+  Europea**». Ese Acuerdo no se ha leído; y como el Pleno puede variar las Comisiones Permanentes en los
+  primeros seis meses de cada legislatura (artículo 46.4), no se ha confirmado que la comisión siga
+  igual en la legislatura iniciada en 2026.
+- Dos plazos que no hay que mezclar: ocho semanas para los Parlamentos nacionales (Protocolo n.º 2) y
+  cuatro para que el dictamen autonómico llegue a las Cortes (Ley 8/1994).
+
+#### El Comité de las Regiones
+
+- No es una institución: asiste, con funciones consultivas, al Parlamento Europeo, al Consejo y a la
+  Comisión (artículo 13.4 del TUE y 300.1 del TFUE).
+- Composición (300.3 del TFUE): «**representantes de los entes regionales y locales que sean titulares
+  de un mandato electoral en un ente regional o local, o que tengan responsabilidad política ante una
+  asamblea elegida.**» Sus miembros «**no estarán vinculados por ningún mandato imperativo**» y actúan
+  con plena independencia, en interés general de la Unión (300.4).
+- Número y nombramiento (305 del TFUE): «**no excederá de trescientos cincuenta**»; la composición la
+  decide el Consejo «**por unanimidad, a propuesta de la Comisión**»; los miembros y «**un número igual
+  de suplentes, serán nombrados para un período de cinco años. Su mandato será renovable.**» El Consejo
+  adopta la lista a partir de las propuestas de cada Estado.
+  - Cuando termina el mandato electoral por el que fue propuesto, «**el mandato de los miembros del
+    Comité concluirá automáticamente**».
+  - «**Ningún miembro del Comité podrá ser simultáneamente miembro del Parlamento Europeo.**»
+- Presidente y Mesa: «**por un período de dos años y medio**» (306).
+- Consulta (307): preceptiva en los casos previstos en los Tratados, y facultativa en cualquier otro,
+  «**en particular aquellos que afecten a la cooperación transfronteriza**». El plazo que se le fije
+  «**no podrá ser inferior a un mes**»; pasado el plazo, puede prescindirse del dictamen. Puede emitir
+  dictámenes por propia iniciativa.
+- Recursos: ante el TJUE, «**con el fin de salvaguardar prerrogativas de éstos**» (artículo 263 del
+  TFUE), y por violación de la subsidiariedad en los actos para los que su consulta es preceptiva
+  (artículo 8 del Protocolo n.º 2).
+- Sede: «**El Comité de las Regiones tendrá su sede en Bruselas.**» (Protocolo n.º 6).
+- Nombre: los Tratados dicen «Comité de las Regiones»; el Decreto 189/2026 habla de la pertenencia de la
+  Junta al «**Comité Europeo de las Regiones**» (artículos 8.1.d y 17.c). El acto por el que cambió la
+  denominación no se ha leído.
+- En la organización de la Junta, impulsar y coordinar esa pertenencia es tarea de la Secretaría
+  General de Acción Exterior y Unión Europea, con el apoyo de la Dirección General de Unión Europea; y
+  la Delegación en Bruselas tenía desde 1995 entre sus funciones el seguimiento de los trabajos del
+  Comité.
+- Por parte del Estado, los nombramientos y sustituciones de los miembros españoles se tramitan a
+  través de la Consejería para Asuntos Autonómicos de la REPER (Acuerdo de 2004, I.9.2.3.º).
+- No confirmado: cuántos miembros tiene hoy España en el Comité (la decisión del Consejo sobre su
+  composición no se ha leído) y quién ocupa hoy la plaza andaluza, como titular o suplente.
+
+#### Ante el Tribunal de Justicia
+
+- La Junta interviene en los procedimientos ante el TJUE en los términos de la legislación del Estado
+  y puede instar al Estado y a las instituciones legitimadas a iniciar acciones (artículo 238 del EAA).
+- En la organización de la Junta, el seguimiento de los asuntos del TJUE que afecten a las
+  competencias de la Comunidad y la coordinación de la participación de la Junta en ellos corresponden
+  a la Dirección General de Unión Europea (artículo 17.j del Decreto 189/2026).
+- La Consejería para Asuntos Autonómicos de la REPER hace el seguimiento informativo de los
+  procedimientos de infracción y de los asuntos ante el Tribunal de Justicia que afecten a las
+  comunidades (Acuerdo de 2004, I.9.1.5.º).
+

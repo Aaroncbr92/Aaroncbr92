@@ -178,8 +178,7 @@ libertad, la justicia, la igualdad y el pluralismo político para todos los anda
 da una lista con ese nombre, y un catálogo doctrinal no tendría apoyo en el texto. Lo que la
 Constitución sí escribe es esto:
 
-- Los principios que «**garantiza**» el artículo 9.3 (abajo), que son la lista cerrada de
-  principios del ordenamiento.
+- Los siete principios que, según el artículo 9.3, la Constitución «**garantiza**» (abajo).
 - El **fundamento** del orden político del artículo 10.1: «**La dignidad de la persona, los
   derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto
   a la ley y a los derechos de los demás son fundamento del orden político y de la paz
@@ -189,8 +188,8 @@ Constitución sí escribe es esto:
   dominio público y comunales, «**inspirándose en los principios de inalienabilidad,
   imprescriptibilidad e inembargabilidad**» (artículo 132.1).
 
-Lo que sigue es el Título Preliminar, artículos 1 a 9, nueve artículos sin capítulos: es donde
-están los valores y los principios estructurales del Estado.
+Lo que sigue es el Título Preliminar, artículos 1 a 9, nueve artículos sin capítulos, donde están
+el artículo 1.1 (valores superiores) y el 9.3 (principios que la Constitución garantiza).
 
 **Artículo 1.** *Estado, soberanía y forma política.*
 
@@ -1844,7 +1843,9 @@ la primera elección (ver «Las disposiciones»).
 
 Los dos están en la Constitución (artículos 136 y 54), y los dos remiten a una ley orgánica: la
 Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas, y la Ley Orgánica 3/1981, de 6
-de abril, del Defensor del Pueblo. Las dos dependen de las Cortes Generales.
+de abril, del Defensor del Pueblo. Los dos están ligados a las Cortes Generales: el Tribunal de
+Cuentas «**Dependerá directamente de las Cortes Generales**» (artículo 136.1) y el Defensor es su
+«**alto comisionado**» (artículo 54).
 
 #### El Tribunal de Cuentas en la Constitución (artículo 136)
 
@@ -1890,7 +1891,7 @@ Depende directamente de las Cortes Generales.**»
 - b) «**El enjuiciamiento de la responsabilidad contable en que incurran quienes tengan a su
   cargo el manejo de caudales o efectos públicos.**»
 
-Son las dos caras: fiscaliza y enjuicia. No es un órgano consultivo ni gestor.
+Son las dos caras del Tribunal: fiscaliza y enjuicia.
 
 *Sector público (artículo cuarto).* Lo integran: a) la Administración del Estado; b) las
 Comunidades Autónomas; c) las Corporaciones Locales; d) las entidades gestoras de la Seguridad
@@ -1961,7 +1962,7 @@ correspondiente del Tribunal Supremo (artículo treinta y cinco).
 
 #### El Defensor del Pueblo en la Constitución
 
-Además del artículo 54 (rúbrica a), la Constitución lo nombra en tres sitios: su condición de
+Además del artículo 54 (rúbrica a), la Constitución lo nombra en otros tres sitios: su condición de
 Defensor es causa de inelegibilidad e incompatibilidad para Diputados y Senadores (artículo
 70.1.c), y está legitimado para interponer el recurso de inconstitucionalidad (artículo
 162.1.a) y el de amparo (artículo 162.1.b).
