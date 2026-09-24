@@ -458,7 +458,8 @@ Artículo 9 de la LOPDGDD, que endurece la excepción del consentimiento:
 
 Artículo 10 de la LOPDGDD. Datos de naturaleza penal. El tratamiento de datos sobre condenas e
 infracciones penales, procedimientos y medidas cautelares y de seguridad conexas, para fines
-distintos de los de la LO 7/2021, solo puede llevarse a cabo cuando lo ampare una norma de Derecho
+distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales
+o de ejecución de sanciones penales, solo puede llevarse a cabo cuando lo ampare una norma de Derecho
 de la Unión, esta ley orgánica u otra norma de rango legal. Fuera de ahí, solo son posibles cuando
 los lleven a cabo abogados y procuradores para recoger la información que les facilitan sus
 clientes.
@@ -498,14 +499,14 @@ proceden.
 3. El encargado puede tramitar las solicitudes por cuenta del responsable si así se establece en
    el contrato que les vincule.
 4. La prueba del cumplimiento del deber de responder recae sobre el responsable.
-5. (Apartado 5: cuando las leyes aplicables a determinados tratamientos establezcan un régimen
-   especial que afecte al ejercicio de los derechos del capítulo III del Reglamento, se estará a
-   lo dispuesto en aquellas.)
+5. Cuando las leyes aplicables a determinados tratamientos establezcan un régimen especial que
+   afecte al ejercicio de los derechos del capítulo III del Reglamento, se estará a lo dispuesto en
+   aquellas.
 6. Los titulares de la patria potestad pueden ejercitar los derechos en nombre de los menores de
    catorce años.
 7. Las actuaciones para atender esas solicitudes son gratuitas, sin perjuicio de los supuestos de
-   solicitud manifiestamente infundada o excesiva del artículo 12.5 del Reglamento y de los
-   apartados 3 y 4 del artículo 13 de la ley.
+   solicitud manifiestamente infundada o excesiva del artículo 12.5 del Reglamento, del artículo
+   15.3 del Reglamento (copias adicionales) y de los apartados 3 y 4 del artículo 13 de la ley.
 
 Plazo de respuesta (artículo 12.3 del Reglamento, en la redacción de la corrección de errores de
 2021): el responsable facilitará la información sin dilación indebida y, en cualquier caso, en el
@@ -558,7 +559,7 @@ mercadotecnia directa, el responsable puede conservar los datos identificativos 
 impedir tratamientos futuros con ese fin.
 
 Derecho a la limitación (artículo 18 del Reglamento, apartado 1.a) en la redacción de la
-corrección de 2021). Cuatro supuestos: a) el interesado impugne la exactitud, durante un plazo que
+corrección de 2021). Cuatro supuestos: a) el interesado impugne la exactitud, en un plazo que
 permita al responsable verificarla; b) el tratamiento sea ilícito y el interesado se oponga a la
 supresión y pida la limitación; c) el responsable ya no necesite los datos pero el interesado los
 necesite para reclamaciones; d) el interesado se haya opuesto en virtud del artículo 21.1 mientras

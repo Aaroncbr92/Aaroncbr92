@@ -981,3 +981,84 @@ contratación con empresas de trabajo temporal, «negociada». DA 6ª: secreto
 profesional, «cláusula de conciencia y derecho de autor». DA 7ª: la externalización
 no puede mermar «la plantilla estructural actual». DA 10ª: negociar planes de
 igualdad «Dentro de los 6 meses siguientes».
+
+## 5. Lo que no he podido confirmar, erratas del texto y choques con el ET vigente
+
+### 5.1. No confirmado
+
+- **Cómo se aplican hoy** jornada, vacaciones, asuntos propios, traslado de domicilio,
+  IT y acción social en RTVA-CSRTV, después de que la Ley 7/2024 derogara los arts. 26
+  y 32 de la Ley 3/2012 y de que la Ley 8/2025 dejara de aplicar en 2026 sus arts. 14,
+  23, 24, 25 y 28.1 (apartado 1.5). No hay acuerdo publicado; los dos documentos
+  sindicales se contradicen. **El redactor debe dar el texto del convenio, el de las DT
+  y el estado de la Ley 3/2012, sin afirmar cómo se aplica.**
+- **El «cuadro de licencias y permisos» oficial** de la empresa (lo menciona CCOO en
+  2025) no está publicado. Tampoco los acuerdos de la COMVI de 2016 que cita el cuadro
+  sindical de 2017.
+- **La fecha del Reglamento de la Mesa de Contratación**: el texto no la trae (la
+  convocatoria dice 12-03-2026).
+- **Si se ha denunciado el X Convenio** sin inscribirlo, o si se negocia un XI: nada
+  publicado.
+- **Tablas salariales posteriores a 2013**: no hay ninguna publicada ni inscrita. Las
+  cuantías del Anexo I y de los arts. 37, 41, 50 y 53 son las de 2013. No puedo decir
+  las de hoy.
+- **DT 4ª** (art. 11.5 de la Ley de Presupuestos de 2013; jubilación parcial): no he
+  comprobado qué queda en 2026.
+
+### 5.2. Erratas y remisiones del propio texto (manda el texto, pero el redactor debe saberlo)
+
+- **Art. 66.3**: «La alegación de motivos falsos para la obtención de las licencias a
+  que se refiere el **artículo 27** de este Convenio». Las licencias están en el **art.
+  33**; el 27 es el Comité Intercentros de Seguridad y Salud Laboral. Remisión errónea
+  (seguramente arrastrada de otra numeración).
+- **Art. 21.3.6.a**, dentro del art. 21: «con los efectos previstos en el artículo 21»
+  (se remite a sí mismo).
+- **Art. 58.1** y la resolución de publicación citan el **Real Decreto Legislativo
+  1/1995** (ET de 1995), derogado. Hoy el comité intercentros está en el art. 63.3 del
+  ET de 2015, con el mismo tope: «Solo por convenio colectivo podrá pactarse la
+  constitución y funcionamiento de un comité intercentros con un máximo de trece
+  miembros».
+- **Art. 71** remite al «artículo 60.2 del Estatuto de los Trabajadores»: el número
+  coincide en el ET de 2015 (redacción única).
+- Rúbricas distintas entre índice y cuerpo: apartado 2.
+- **DT 3ª B**: el epígrafe dice «Días de asuntos propios», pero el texto dice «Las
+  Licencias y permisos regulados en el art. 33 […] quedan en suspenso y pasan a ser
+  exclusivamente de un total de 4 días al año». Leído literalmente, suspende todo el
+  art. 33. El cuadro sindical de 2017 y el propio epígrafe lo leen como si se refiriera
+  solo a los asuntos propios. **Ambigüedad del texto; no la resuelvo.**
+
+### 5.3. Donde el ET vigente dice otra cosa (textos a la vista, sin conclusiones mías)
+
+El art. 6 del convenio da prioridad a sus normas «respecto a cualquier otra disposición
+o norma legal». El ET vigente fija mínimos que no casan con algunas cifras de 2014.
+Pongo solo los casos en que la diferencia **está escrita** en el ET (BOE-A-2015-11430,
+leído el 24-09-2026; art. 37 con 15 redacciones, la vigente desde 3-3-2025 por la Ley
+6/2024; art. 48 vigente desde 31-7-2025 por el Real Decreto-ley 9/2025, convalidado por
+Resolución del Congreso de 9-IX-2025, BOE-A-2025-17999; art. 46 vigente desde
+30-6-2023; art. 38 con redacción única).
+
+| Convenio (2014) | ET vigente |
+|---|---|
+| 33.A.1.b: «3 días naturales» (5 con desplazamiento) por enfermedad grave u hospitalización o fallecimiento hasta 2.º grado | 37.3.b: «Cinco días por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el segundo grado […] así como de cualquier otra persona […] que conviva con la persona trabajadora»; 37.3.b bis: «Dos días por el fallecimiento […]. Cuando con tal motivo la persona trabajadora necesite hacer un desplazamiento al efecto, el plazo se ampliará en dos días.» |
+| 33.A.1.a: «20 días naturales en caso de matrimonio»; F: parejas de hecho con «convivencia de al menos seis meses» | 37.3.a: «Quince días naturales en caso de matrimonio o registro de pareja de hecho.» |
+| 33.A.1.c: 2 días por traslado de domicilio (DT 3ª: 1) | 37.3.c: «Un día por traslado del domicilio habitual.» |
+| 33.A.1.d: deber inexcusable «de carácter público o personal» | 37.3.d: deber inexcusable «de carácter público y personal, comprendido el ejercicio del sufragio activo» |
+| 33.A.1.g: lactancia de hijo «menor de doce meses»; acumulación «por decisión de la madre»; si los dos trabajan en la empresa «sólo uno podrá hacer uso de este derecho» | 37.4: hora de ausencia «hasta que este cumpla nueve meses» (hasta doce si ambos lo ejercen «con la misma duración y régimen», con reducción de salario desde los nueve); «Quien ejerza este derecho, por su voluntad, podrá sustituirlo por una reducción de su jornada en media hora con la misma finalidad o acumularlo en jornadas completas»; «constituye un derecho individual de las personas trabajadoras sin que pueda transferirse su ejercicio»; la empresa solo puede limitar el ejercicio simultáneo «por razones fundadas y objetivas […] debidamente motivadas por escrito», ofreciendo «un plan alternativo» |
+| 33.A.1.b (2.º párr.): prematuros, ausencia «hasta un máximo de 2 horas diarias, percibiendo las retribuciones íntegras» | 37.5: ausencia de «una hora» y reducción «hasta un máximo de dos horas, con la disminución proporcional del salario» (el convenio mejora) |
+| 33.A.1.h: suspensión de «dieciséis semanas» | 48.4: nacimiento, «diecinueve semanas» para la madre biológica y para el otro progenitor («treinta y dos» en monoparentalidad); 48.5: adopción, guarda y acogimiento, «diecinueve semanas para cada adoptante, guardador o acogedor» |
+| 33.A.1.i: padre u otro progenitor, «15 días consecutivos» | 48.4: el progenitor distinto de la madre biológica, «diecinueve semanas»; «Este derecho es individual de la persona trabajadora sin que pueda transferirse su ejercicio al otro progenitor» |
+| 33.A.1.h (último párr.): «En caso de fallecimiento de la madre […], el otro progenitor podrá hacer uso de la totalidad o […] de la parte que reste» | 48.4: «En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.» |
+| 33.A.1.n: hijo con cáncer, «como máximo, hasta que el menor cumpla los 18 años», y «siempre que ambos progenitores […] trabajen» | 37.6 (3.er párr. y ss.): «como máximo, hasta que el hijo […] cumpla los veintitrés años»; hasta los 26 con discapacidad «igual o superior al 65 por ciento» |
+| 33.D.2: guarda legal de menor de doce años o «disminuido/a»; familiar hasta 2.º grado; la empresa limita el ejercicio simultáneo «por razones justificadas» | 37.6: menor de doce años o «persona con discapacidad»; incluye «cónyuge o pareja de hecho» y el familiar consanguíneo de la pareja de hecho; limitación solo «por razones fundadas y objetivas […] motivadas por escrito», con «plan alternativo» |
+| 33.A.1.m: solo violencia de género | 37.8: «víctimas de violencia de género, de violencia sexual o de víctimas del terrorismo», con derecho también a trabajo a distancia |
+| (no está) | 37.3.f: sesiones de información y preparación e informes previos a la idoneidad en adopción, guarda o acogimiento; 37.3.g: hasta cuatro días por imposibilidad de acceder al centro por catástrofe o riesgo grave; 37.3.g [sic]: actos preparatorios de la donación de órganos; 37.9: ausencia por fuerza mayor familiar, retribuidas «las horas […] equivalentes a cuatro días al año» |
+| 32.III.1: excedencia por cuidado de hijos «no superior a seis años»; si padre y madre están en el convenio, «solamente uno de ellos podrá ejercer este derecho» | 46.3: «no superior a tres años» (el convenio mejora); «constituye un derecho individual»; la empresa solo puede limitar el ejercicio simultáneo por razones «fundadas y objetivas […] motivadas por escrito», con plan alternativo. Además, excedencia por cuidado de familiar «no superior a dos años», que el convenio no regula (pero su art. 32 remite a las del ET «en sus propios términos») |
+| 32.I: voluntaria, «no […] inferior a seis meses ni superior a diez años»; otra, tras «tres años de servicio efectivo» | 46.2: «por un plazo no menor a cuatro meses y no mayor a cinco años»; otra vez, «si han transcurrido cuatro años desde el final de la anterior». (El art. 32 del convenio suma sus excedencias a las del ET.) |
+| 13.7: interrupción de las vacaciones por IT y maternidad/paternidad | 38.3: si coinciden con IT por embarazo, parto o lactancia o con las suspensiones del art. 48.4, 48.5 y 48.7, derecho a disfrutarlas después «aunque haya terminado el año natural»; por otras IT, siempre que no hayan pasado «más de dieciocho meses a partir del final del año» |
+| 14: horas extra sin tope anual | 35.2: «no podrá ser superior a ochenta al año» (el ET es el límite; el convenio no lo contradice, lo calla) |
+
+Coinciden (sin choque): 12.b.2 y ET 34.3 (doce horas entre jornadas); 23 (período de
+prueba «el que señale la normativa legal vigente») y ET 14; 71 y ET 60.2.
+
+Lo que **no** he hecho: decidir qué prevalece en cada caso (eso es doctrina sobre la
+relación ley-convenio y no la he leído en un precepto). Solo pongo los dos textos.
