@@ -665,8 +665,8 @@ judicial efectiva frente al responsable o al encargado cuando considere vulnerad
 (artículo 79.1). Esas acciones se ejercitan ante los tribunales del Estado miembro en que el
 responsable o encargado tenga un establecimiento o, alternativamente, ante los del Estado miembro
 de la residencia habitual del interesado, salvo que el responsable o encargado sea una autoridad
-pública de un Estado miembro que actúe en ejercicio de sus poderes públicos (79.2). Y, conforme al artículo 82.1, «**toda
-persona que haya sufrido daños y perjuicios materiales o inmateriales como consecuencia de una
+pública de un Estado miembro que actúe en ejercicio de sus poderes públicos (79.2). Y, conforme
+al artículo 82.1, «**toda persona que haya sufrido daños y perjuicios materiales o inmateriales como consecuencia de una
 infracción del presente Reglamento tendrá derecho a recibir del responsable o el encargado del
 tratamiento una indemnización**» por esos daños.
 

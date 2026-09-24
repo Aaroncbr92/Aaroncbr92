@@ -130,3 +130,10 @@ basta con que el coordinador corra `refutar_prosa.py`, `refutar_modo.py`, `indic
 `negritas.py` sobre el tema rematado y revise lo que marquen. Motivo, medido en los temas
 1, 2, 4, 6 y 9: la refutación encontró en todos al menos un fallo grave; la comprobación
 final, 0, 0, 0, 4 menores y 2 menores.
+
+## Lección del tema 10 (24-09-2026)
+
+Un remate hecho con modelo barato que **amplió** el tema metió dos errores (lista de
+artículos del 83.4.a RGPD y la salvedad del 79.2), y sólo los cazó una comprobación
+independiente con el modelo fuerte. Regla: **si el remate amplía el tema, lo revisa un
+agente distinto con el modelo fuerte**, limitado a los pasajes cambiados.
