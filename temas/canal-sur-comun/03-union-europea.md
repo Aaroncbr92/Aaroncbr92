@@ -717,3 +717,268 @@ anterior, con las cifras que hoy fijan las decisiones posteriores.
   - Decide el Consejo Europeo por unanimidad, previa aprobación del Parlamento Europeo, «**que se
     pronunciará por mayoría de los miembros que lo componen**».
 
+## Carta de derechos fundacionales
+
+### El nombre
+
+El BOJA escribe «Carta de derechos fundacionales». La norma es la «**CARTA DE LOS DERECHOS
+FUNDAMENTALES DE LA UNIÓN EUROPEA**» (DOUE C 202, de 7 de junio de 2016, página 389, referencia
+2016/C 202/02; CELEX `12016P/TXT`), y así la nombra el artículo 6.1 del TUE.
+
+### Origen y valor jurídico
+
+- La proclaman tres instituciones: «**El Parlamento Europeo, el Consejo y la Comisión proclaman
+  solemnemente en tanto que Carta de los Derechos Fundamentales de la Unión Europea el texto que
+  figura a continuación**».
+- Fechas, según el artículo 6.1 del TUE: la Carta «**de 7 de diciembre de 2000, tal como fue adaptada
+  el 12 de diciembre de 2007 en Estrasburgo**». La nota final del texto dice que recoge, adaptándola,
+  la Carta proclamada en 2000, «**a la que sustituirá a partir del día de la entrada en vigor del
+  Tratado de Lisboa**».
+- Valor jurídico (artículo 6.1 del TUE): «**La Unión reconoce los derechos, libertades y principios
+  enunciados en la Carta [...], la cual tendrá el mismo valor jurídico que los Tratados.**» No está
+  dentro de los Tratados ni es un protocolo: tiene su rango por remisión.
+- Dos salvedades en el mismo apartado:
+  - «**Las disposiciones de la Carta no ampliarán en modo alguno las competencias de la Unión tal como
+    se definen en los Tratados.**»
+  - Los derechos, libertades y principios se interpretan con arreglo al título VII de la Carta y
+    «**teniendo debidamente en cuenta las explicaciones a que se hace referencia en la Carta, que
+    indican las fuentes de dichas disposiciones**».
+- Las otras dos piezas del artículo 6:
+  - 6.2: «**La Unión se adherirá al Convenio Europeo para la Protección de los Derechos Humanos y de las
+    Libertades Fundamentales. Esta adhesión no modificará las competencias de la Unión que se definen
+    en los Tratados.**» Está en futuro; si la adhesión se ha producido no se ha podido confirmar, y el
+    tema no lo da.
+  - 6.3: los derechos del CEDH y los que son fruto de las tradiciones constitucionales comunes
+    «**formarán parte del Derecho de la Unión como principios generales**».
+- Protocolo n.º 30, sobre la aplicación de la Carta a Polonia y al Reino Unido: la Carta no amplía la
+  competencia de los tribunales para declarar incompatibles con ella las normas o prácticas de esos
+  dos Estados, y «**nada de lo dispuesto en el título IV de la Carta crea derechos que se puedan
+  defender ante los órganos jurisdiccionales de Polonia o del Reino Unido, salvo en la medida en que
+  Polonia o el Reino Unido hayan contemplado dichos derechos en su legislación nacional**» (artículo
+  1.2). El texto de 2016 lo mantiene; su alcance actual respecto del Reino Unido depende de la
+  retirada, que este tema no estudia.
+
+### Estructura
+
+Un preámbulo y 54 artículos en siete títulos. Los seis primeros llevan por rúbrica un valor; el
+séptimo, las reglas de interpretación y aplicación.
+
+| Título | Rúbrica | Artículos |
+|---|---|---|
+| I | «**DIGNIDAD**» | 1 a 5 |
+| II | «**LIBERTADES**» | 6 a 19 |
+| III | «**IGUALDAD**» | 20 a 26 |
+| IV | «**SOLIDARIDAD**» | 27 a 38 |
+| V | «**CIUDADANÍA**» | 39 a 46 |
+| VI | «**JUSTICIA**» | 47 a 50 |
+| VII | «**DISPOSICIONES GENERALES QUE RIGEN LA INTERPRETACIÓN Y LA APLICACIÓN DE LA CARTA**» | 51 a 54 |
+
+El preámbulo funda la Unión «**sobre los valores indivisibles y universales de la dignidad humana, la
+libertad, la igualdad y la solidaridad**» y dice que se basa «**en los principios de la democracia y el
+Estado de Derecho**». Añade que la Unión «**sitúa a la persona en el centro de su actuación**», que la
+Carta reafirma derechos que emanan de las tradiciones constitucionales, del CEDH, de las Cartas
+Sociales y de la jurisprudencia del TJUE y del Tribunal Europeo de Derechos Humanos, y que su disfrute
+«**conlleva responsabilidades y deberes tanto respecto de los demás como de la comunidad humana y de
+las generaciones futuras**».
+
+### Ámbito de aplicación y alcance (título VII, artículos 51 a 54)
+
+#### Artículo 51. Ámbito de aplicación
+
+- A quién obliga (51.1): «**Las disposiciones de la presente Carta están dirigidas a las instituciones,
+  órganos y organismos de la Unión, dentro del respeto del principio de subsidiariedad, así como a los
+  Estados miembros únicamente cuando apliquen el Derecho de la Unión.**»
+  - Es la salvedad que más se pregunta: a las instituciones de la Unión se dirige siempre; a los
+    Estados, «**únicamente**» cuando aplican el Derecho de la Unión.
+  - Los obligados «**respetarán los derechos, observarán los principios y promoverán su aplicación**»,
+    cada uno en sus competencias.
+- Lo que no hace (51.2): «**La presente Carta no amplía el ámbito de aplicación del Derecho de la Unión
+  más allá de las competencias de la Unión, ni crea ninguna competencia o misión nuevas para la Unión,
+  ni modifica las competencias y misiones definidas en los Tratados.**»
+
+#### Artículo 52. Alcance e interpretación de los derechos y principios
+
+Siete apartados:
+
+1. Límites: «**Cualquier limitación del ejercicio de los derechos y libertades reconocidos por la
+   presente Carta deberá ser establecida por la ley y respetar el contenido esencial de dichos derechos
+   y libertades.**» Además, respetando la proporcionalidad, «**sólo podrán introducirse limitaciones
+   cuando sean necesarias y respondan efectivamente a objetivos de interés general reconocidos por la
+   Unión o a la necesidad de protección de los derechos y libertades de los demás**». Toda
+   limitación exige, pues, previsión legal, respeto del contenido esencial y proporcionalidad, y
+   solo cabe si es necesaria y responde a uno de esos dos fines.
+2. Los derechos que son disposiciones de los Tratados se ejercen «**en las condiciones y dentro de los
+   límites determinados por éstos**».
+3. Derechos que corresponden a los del CEDH: «**su sentido y alcance serán iguales a los que les
+   confiere dicho Convenio**», pero esto «**no obstará a que el Derecho de la Unión conceda una
+   protección más extensa**». El CEDH es suelo, no techo.
+4. Derechos que resultan de las tradiciones constitucionales comunes: se interpretan «**en armonía con
+   las citadas tradiciones**».
+5. Derechos y principios no se tratan igual. Las disposiciones que contienen principios se aplican
+   mediante actos de la Unión y de los Estados cuando apliquen el Derecho de la Unión, y «**Sólo podrán
+   alegarse ante un órgano jurisdiccional en lo que se refiere a la interpretación y control de la
+   legalidad de dichos actos.**»
+6. «**Se tendrán plenamente en cuenta las legislaciones y prácticas nacionales según lo especificado en
+   la presente Carta.**»
+7. Las explicaciones elaboradas para guiar su interpretación «**serán tenidas debidamente en cuenta**»
+   por los órganos jurisdiccionales de la Unión y de los Estados.
+
+#### Artículo 53. Nivel de protección
+
+«**Ninguna de las disposiciones de la presente Carta podrá interpretarse como limitativa o lesiva de
+los derechos humanos y libertades fundamentales reconocidos, en su respectivo ámbito de aplicación,
+por el Derecho de la Unión, el Derecho internacional y los convenios internacionales de los que son
+parte la Unión o todos los Estados miembros, y en particular el Convenio Europeo para la Protección de
+los Derechos Humanos y de las Libertades Fundamentales, así como por las constituciones de los Estados
+miembros.**»
+
+#### Artículo 54. Prohibición del abuso de derecho
+
+Nada en la Carta puede interpretarse en el sentido de que implique «**un derecho cualquiera a
+dedicarse a una actividad o a realizar un acto tendente a la destrucción de los derechos o libertades
+reconocidos en la presente Carta o a limitaciones más amplias de estos derechos y libertades que las
+previstas en la presente Carta**».
+
+### Los derechos, título por título
+
+Se da la rúbrica de cada artículo, tal como figura en la Carta, y lo esencial de su contenido.
+
+#### Título I. Dignidad (artículos 1 a 5)
+
+- Artículo 1, «**Dignidad humana**»: «**La dignidad humana es inviolable. Será respetada y
+  protegida.**»
+- Artículo 2, «**Derecho a la vida**»: «**Nadie podrá ser condenado a la pena de muerte ni
+  ejecutado.**»
+- Artículo 3, «**Derecho a la integridad de la persona**»: integridad física y psíquica; en medicina y
+  biología, cuatro letras: consentimiento libre e informado, prohibición de prácticas eugenésicas, de
+  hacer del cuerpo humano o sus partes objeto de lucro, y «**de la clonación reproductora de seres
+  humanos**».
+- Artículo 4, «**Prohibición de la tortura y de las penas o los tratos inhumanos o degradantes**».
+- Artículo 5, «**Prohibición de la esclavitud y del trabajo forzado**»: esclavitud o servidumbre,
+  trabajo forzado u obligatorio y «**Se prohíbe la trata de seres humanos.**»
+
+#### Título II. Libertades (artículos 6 a 19)
+
+- Artículo 6, «**Derecho a la libertad y a la seguridad**».
+- Artículo 7, «**Respeto de la vida privada y familiar**»: vida privada y familiar, domicilio y
+  comunicaciones.
+- Artículo 8, «**Protección de datos de carácter personal**»: tratamiento leal, para fines concretos,
+  con consentimiento o «**en virtud de otro fundamento legítimo previsto por la ley**»; derecho de acceso
+  y rectificación; y «**El respeto de estas normas estará sujeto al control de una autoridad
+  independiente.**» (Es el punto 10 del temario común.)
+- Artículo 9, «**Derecho a contraer matrimonio y derecho a fundar una familia**», según las leyes
+  nacionales.
+- Artículo 10, «**Libertad de pensamiento, de conciencia y de religión**», que incluye cambiar de
+  religión o convicciones; y la objeción de conciencia se reconoce «**de acuerdo con las leyes nacionales
+  que regulen su ejercicio**».
+- Artículo 11, «**Libertad de expresión y de información**». El que más interesa a un medio público:
+  - 11.1: «**Toda persona tiene derecho a la libertad de expresión. Este derecho comprende la libertad
+    de opinión y la libertad de recibir o comunicar informaciones o ideas sin que pueda haber
+    injerencia de autoridades públicas y sin consideración de fronteras.**»
+  - 11.2: «**Se respetan la libertad de los medios de comunicación y su pluralismo.**»
+- Artículo 12, «**Libertad de reunión y de asociación**», con el derecho a fundar sindicatos y
+  afiliarse a ellos; los partidos políticos a escala de la Unión «**contribuyen a expresar la voluntad
+  política de los ciudadanos de la Unión**».
+- Artículo 13, «**Libertad de las artes y de las ciencias**»: «**Las artes y la investigación
+  científica son libres. Se respeta la libertad de cátedra.**»
+- Artículo 14, «**Derecho a la educación**», que incluye «**la facultad de recibir gratuitamente la
+  enseñanza obligatoria**», la libertad de creación de centros y el derecho de los padres a la
+  educación de sus hijos conforme a sus convicciones.
+- Artículo 15, «**Libertad profesional y derecho a trabajar**»; los ciudadanos de la Unión pueden buscar
+  empleo, trabajar, establecerse o prestar servicios en cualquier Estado; los nacionales de terceros
+  países autorizados a trabajar tienen derecho a condiciones laborales equivalentes.
+- Artículo 16, «**Libertad de empresa**», «**de conformidad con el Derecho de la Unión y con las
+  legislaciones y prácticas nacionales**».
+- Artículo 17, «**Derecho a la propiedad**»: privación solo por utilidad pública, en los casos
+  previstos en la ley y con «**una justa indemnización**»; y «**Se protege la propiedad
+  intelectual.**»
+- Artículo 18, «**Derecho de asilo**», conforme a la Convención de Ginebra de 1951 y su Protocolo de
+  1967.
+- Artículo 19, «**Protección en caso de devolución, expulsión y extradición**»: «**Se prohíben las
+  expulsiones colectivas.**», y nadie puede ser devuelto a un Estado donde corra grave riesgo de pena de
+  muerte, tortura u otros tratos inhumanos o degradantes.
+
+#### Título III. Igualdad (artículos 20 a 26)
+
+- Artículo 20, «**Igualdad ante la ley**»: «**Todas las personas son iguales ante la ley.**»
+- Artículo 21, «**No discriminación**»: prohíbe toda discriminación «**y en particular la ejercida por
+  razón de sexo, raza, color, orígenes étnicos o sociales, características genéticas, lengua, religión
+  o convicciones, opiniones políticas o de cualquier otro tipo, pertenencia a una minoría nacional,
+  patrimonio, nacimiento, discapacidad, edad u orientación sexual**»; y la discriminación por
+  nacionalidad en el ámbito de los Tratados.
+- Artículo 22, «**Diversidad cultural, religiosa y lingüística**»: «**La Unión respeta la diversidad
+  cultural, religiosa y lingüística.**»
+- Artículo 23, «**Igualdad entre mujeres y hombres**»: «**deberá garantizarse en todos los ámbitos,
+  inclusive en materia de empleo, trabajo y retribución**»; y «**El principio de igualdad no impide el
+  mantenimiento o la adopción de medidas que supongan ventajas concretas en favor del sexo menos
+  representado.**»
+- Artículo 24, «**Derechos del niño**»: el interés superior del niño es «**una consideración
+  primordial**»; el niño puede expresar su opinión, que se tiene en cuenta según su edad y madurez; y
+  tiene derecho a relacionarse con su padre y con su madre, «**salvo si ello es contrario a sus
+  intereses**».
+- Artículo 25, «**Derechos de las personas mayores**», a una vida digna e independiente y a participar
+  en la vida social y cultural.
+- Artículo 26, «**Integración de las personas discapacitadas**».
+
+#### Título IV. Solidaridad (artículos 27 a 38)
+
+- Artículo 27, «**Derecho a la información y consulta de los trabajadores en la empresa**».
+- Artículo 28, «**Derecho de negociación y de acción colectiva**», que incluye «**la huelga**».
+- Artículo 29, «**Derecho de acceso a los servicios de colocación**», a un servicio gratuito.
+- Artículo 30, «**Protección en caso de despido injustificado**».
+- Artículo 31, «**Condiciones de trabajo justas y equitativas**»: salud, seguridad y dignidad;
+  limitación de la jornada máxima, descansos diarios y semanales y vacaciones anuales retribuidas.
+- Artículo 32, «**Prohibición del trabajo infantil y protección de los jóvenes en el trabajo**»: la
+  edad mínima no puede ser inferior a la de fin de la escolaridad obligatoria, con las salvedades de
+  disposiciones más favorables y «**excepciones limitadas**».
+- Artículo 33, «**Vida familiar y vida profesional**»: protección frente al despido por causa de
+  maternidad, permiso pagado por maternidad y permiso parental por nacimiento o adopción.
+- Artículo 34, «**Seguridad social y ayuda social**», incluida la ayuda de vivienda para quien no
+  disponga de recursos suficientes.
+- Artículo 35, «**Protección de la salud**».
+- Artículo 36, «**Acceso a los servicios de interés económico general**».
+- Artículo 37, «**Protección del medio ambiente**».
+- Artículo 38, «**Protección de los consumidores**».
+
+Muchos de estos artículos remiten a «**las legislaciones y prácticas nacionales**»: son el tipo de
+disposición que el artículo 52.6 manda tener plenamente en cuenta. Es también el título que el
+Protocolo n.º 30 excluye como fuente de derechos justiciables en Polonia y el Reino Unido.
+
+#### Título V. Ciudadanía (artículos 39 a 46)
+
+- Artículo 39, sufragio activo y pasivo en las elecciones al Parlamento Europeo en el Estado de
+  residencia; los diputados son elegidos «**por sufragio universal libre, directo y secreto**».
+- Artículo 40, sufragio activo y pasivo en las elecciones municipales del Estado de residencia.
+- Artículo 41, «**Derecho a una buena administración**»: asuntos tratados «**imparcial y
+  equitativamente y dentro de un plazo razonable**»; incluye ser oído antes de una medida
+  desfavorable, acceder al propio expediente y la obligación de motivar; reparación de daños por la
+  Unión; y dirigirse a las instituciones en una de las lenguas de los Tratados y recibir contestación
+  en esa misma lengua. El derecho se formula frente a «**las instituciones, órganos y organismos de
+  la Unión**».
+- Artículo 42, «**Derecho de acceso a los documentos**» de las instituciones, órganos y organismos de la
+  Unión, «**cualquiera que sea su soporte**».
+- Artículo 43, «**El defensor del pueblo europeo**», para casos de mala administración, «**con exclusión
+  del Tribunal de Justicia de la Unión Europea en el ejercicio de sus funciones jurisdiccionales**».
+- Artículo 44, «**Derecho de petición**» ante el Parlamento Europeo.
+- Artículo 45, «**Libertad de circulación y de residencia**»; a los nacionales de terceros países que
+  residan legalmente «**Podrá concederse**».
+- Artículo 46, «**Protección diplomática y consular**».
+
+Ojo con los titulares: el sufragio (39 y 40), la circulación (45.1) y la protección diplomática (46)
+son de «todo ciudadano de la Unión»; el acceso a documentos (42), el Defensor del Pueblo (43) y la
+petición (44) alcanzan también a «**toda persona física o jurídica que resida o tenga su domicilio
+social en un Estado miembro**»; la buena administración (41) es de «toda persona».
+
+#### Título VI. Justicia (artículos 47 a 50)
+
+- Artículo 47, «**Derecho a la tutela judicial efectiva y a un juez imparcial**»: juez «**independiente e
+  imparcial, establecido previamente por la ley**», plazo razonable, y asistencia jurídica gratuita a
+  quien no disponga de recursos suficientes cuando sea necesaria para la efectividad del acceso a la
+  justicia.
+- Artículo 48, «**Presunción de inocencia y derechos de la defensa**».
+- Artículo 49, «**Principios de legalidad y de proporcionalidad de los delitos y las penas**»: si
+  después de la infracción la ley dispone una pena más leve, «**deberá aplicarse ésta**»; y «**La
+  intensidad de las penas no deberá ser desproporcionada en relación con la infracción.**»
+- Artículo 50, «**Derecho a no ser juzgado o condenado penalmente dos veces por la misma
+  infracción**», respecto de una sentencia penal firme dictada «**en la Unión**».
+

@@ -9,7 +9,7 @@
 | **Fuente** | Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos · Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales · y, para la tercera rúbrica, las normas audiovisuales y de protección del honor y de los menores que se relacionan al final |
 | **Identificador** | `DOUE-L-2016-80807` · DOUE L 119, de 04/05/2016, con sus correcciones de errores `DOUE-L-2018-80845` y `DOUE-L-2021-80264` · `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Reglamento no ha sido modificado; tiene dos correcciones de errores en español (2018 y 2021). La Ley Orgánica 3/2018 ha cambiado en doce bloques desde diciembre de 2022; la última modificación es de la Ley 10/2025, de 26 de diciembre, en vigor desde el 28/12/2025 |
-| **Extensión** | EXTENSION |
+| **Extensión** | 24.166 palabras |
 
 <!-- /portada -->
 

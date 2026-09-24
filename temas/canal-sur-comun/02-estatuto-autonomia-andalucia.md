@@ -1602,3 +1602,418 @@ de anteproyectos de ley (artículo 19). Eleva una memoria anual al Consejo de Go
   días desde la petición de la consulta**», lo que interrumpe el plazo de dictamen (artículo 30).
 - Aprueba el anteproyecto de su presupuesto, que se incorpora como sección al de la Comunidad
   (disposición adicional primera).
+
+## b) La Administración de la Comunidad Autónoma de Andalucía
+
+La base está en el Estatuto (capítulo VII del título IV, artículos 133 a 139) y el desarrollo en
+la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía (BOE núm. 276, de
+17 de noviembre de 2007), que entró en vigor «**a los tres meses de su publicación en el Boletín
+Oficial de la Junta de Andalucía**» (disposición final quinta; el BOE la da por vigente desde el
+31 de enero de 2008) y derogó la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de
+la Comunidad Autónoma (disposición derogatoria única). La ley regula la organización, el
+funcionamiento y el régimen jurídico de la Administración de la Junta y las especialidades del
+procedimiento administrativo común que le son propias, y los principios generales de sus
+entidades instrumentales (artículo 1.1).
+
+«**La Administración de la Junta de Andalucía, bajo la dirección del Consejo de Gobierno,
+desarrolla funciones ejecutivas de carácter administrativo.**» (artículo 2.1). Constituida por
+órganos jerárquicamente ordenados, «**actúa para el cumplimiento de sus fines con personalidad
+jurídica única**», sin perjuicio de la de sus entidades instrumentales (2.2), y goza de las
+potestades y prerrogativas que le reconozca el ordenamiento y de las de la Administración del
+Estado que le sean aplicables (2.3). Para el Estatuto, la Comunidad «**es Administración Pública a
+los efectos de la Ley Reguladora de la Jurisdicción Contencioso-Administrativa**» y está exenta de
+prestar cauciones o depósitos para ejercitar acciones o recurrir (artículo 139).
+
+### Principios de organización, actuación y atención ciudadana
+
+*En el Estatuto.* «**La Administración de la Junta de Andalucía sirve con objetividad al interés
+general y actúa de acuerdo con los principios de eficacia, eficiencia, racionalidad organizativa,
+jerarquía, simplificación de procedimientos, desconcentración, coordinación, cooperación,
+imparcialidad, transparencia, lealtad institucional, buena fe, protección de la confianza
+legítima, no discriminación y proximidad a los ciudadanos, con sujeción a la Constitución, al
+Estatuto y al resto del ordenamiento jurídico.**» (artículo 133.1). Son quince principios. La
+Administración desarrolla su gestión ordinaria a través de sus servicios centrales y periféricos
+(133.2), y todos los órganos que prestan servicios o gestionan competencias de la Comunidad
+dependen de ella y se integran en su Administración (133.3). Completan el capítulo:
+
+- la ley regulará la participación de los ciudadanos en los procedimientos administrativos y de
+  elaboración de disposiciones, y su acceso a la Administración, que comprenderá «**en todo caso
+  sus archivos y registros**» (artículo 134);
+- una ley regulará la presencia equilibrada de hombres y mujeres en el nombramiento de los
+  titulares de órganos directivos que designe el Consejo de Gobierno o sus miembros, y en los
+  órganos colegiados o consultivos (artículo 135);
+- la ley regulará el estatuto de los funcionarios, el acceso al empleo público según mérito y
+  capacidad, y un órgano administrativo que resuelva los recursos en materia de función pública
+  (artículo 136);
+- la Administración «**hará pública la oferta y características de prestación de los servicios,
+  así como las cartas de derechos de los ciudadanos ante la misma**» (artículo 137);
+- la ley regulará un sistema de evaluación de las políticas públicas (artículo 138).
+
+*En la Ley 9/2007.* El capítulo I de su título I se titula «**Principios de organización, actuación
+y atención a la ciudadanía**». Su artículo 3 dice que la Administración sirve con objetividad al
+interés general «**a través de sus órganos y entidades instrumentales**» y se organiza y actúa de
+acuerdo con **veintiún** principios, letras a) a t) con la ñ):
+
+- a) eficacia; b) jerarquía; c) descentralización funcional; d) desconcentración funcional y
+  territorial; e) coordinación; f) lealtad institucional; g) buena fe; h) confianza legítima; i)
+  transparencia;
+- j) colaboración y cooperación en su relación con otras Administraciones Públicas; k) eficiencia
+  en su actuación y control de los resultados; l) programación de sus objetivos; m) coordinación
+  y planificación de la actividad; n) racionalidad organizativa mediante simplificación y
+  racionalización de su estructura organizativa; ñ) racionalización, simplificación y agilidad
+  de los procedimientos;
+- o) imparcialidad; p) igualdad de oportunidades y de trato de hombres y mujeres; q) no
+  discriminación; r) proximidad a la ciudadanía; s) responsabilidad por la gestión pública; t)
+  buena administración y calidad de los servicios.
+
+Los dos catálogos no coinciden: el Estatuto enumera quince y la ley veintiuno. La ley añade, entre
+otros, la descentralización funcional, la programación de objetivos, la igualdad de hombres y
+mujeres, la responsabilidad por la gestión y la buena administración, y la cooperación figura
+como «colaboración y cooperación».
+
+La Administración de la Junta es «**un sistema integrado de órganos administrativos y de
+entidades vinculadas o dependientes de la misma, informado por el principio de coordinación**»,
+que se articula mediante la planificación dentro de cada Consejería y la planificación
+interdepartamental fijada por acuerdos del Consejo de Gobierno (artículo 4).
+
+*El principio de buena administración* (artículo 5). En su relación con la ciudadanía la
+Administración actúa de acuerdo con este principio, que comprende el derecho a ocho cosas:
+
+- a) que los actos de la Administración sean proporcionados a sus fines;
+- b) que sus asuntos se traten de manera equitativa, imparcial y objetiva;
+- c) participar en las decisiones que le afecten, según el procedimiento establecido;
+- d) que sus asuntos se resuelvan en un plazo razonable, siguiendo el principio de proximidad;
+- e) participar en los asuntos públicos;
+- f) acceder a la documentación e información de la Administración;
+- g) obtener información veraz;
+- h) acceder a los archivos y registros de la Administración, «**cualquiera que sea su soporte,
+  con las excepciones que la ley establezca**».
+
+En la organización y gestión de los servicios se tendrán en cuenta especialmente las necesidades
+de las personas con discapacidad (5.2). Los artículos siguientes completan los principios: la
+mejora continua de la calidad y las cartas de servicio y de derechos (artículo 6); la
+Administración electrónica, cuyos principios son la simplificación y agilización de trámites,
+el libre acceso, la accesibilidad universal, la confidencialidad y la seguridad y autenticidad
+(artículo 7); y las relaciones con otras Administraciones, regidas por la colaboración y la
+lealtad institucional (artículo 8).
+
+*La atención a la ciudadanía* (título IV, capítulo I, «Derechos de la ciudadanía ante la
+actuación administrativa»):
+
+- **Publicidad y transparencia** (artículo 79, en la redacción de la Ley 1/2014, vigente desde el
+  30 de junio de 2015): la actuación administrativa se desarrolla «**con el máximo respeto a los
+  principios de publicidad y transparencia**», con los límites de la intimidad y otros derechos,
+  y se reconocen el derecho a la publicidad activa y el de acceso a la información pública en los
+  términos de la Ley de Transparencia Pública de Andalucía.
+- **Información** (artículo 80). Toda la ciudadanía tiene derecho a ser informada sobre los
+  servicios de la Administración y los asuntos que le afecten; reglamentariamente se determinan
+  los medios para prestar servicios de interpretación en lengua de signos española. La
+  Administración está obligada a informar de su organización y servicios (con páginas web
+  «**claras, completas, accesibles y actualizadas**»), sobre los procedimientos vigentes y los medios
+  de impugnación y reclamación, y a adoptar «**estrategias multicanales de atención a la
+  ciudadanía**». Informa también a las comunidades andaluzas asentadas fuera de Andalucía.
+- **Petición** (artículo 81). Cualquier ciudadano puede ejercerlo según la Constitución y su ley
+  orgánica; las peticiones pueden expresar sugerencias sobre el funcionamiento de los servicios.
+- **Registro Electrónico Único** (artículos 82 a 84, en la redacción del Decreto-ley 3/2024, de 6
+  de febrero). La Administración de la Junta dispone de un registro electrónico único para ella,
+  sus agencias administrativas y, cuando ejerzan potestades administrativas, las agencias
+  públicas empresariales, las de régimen especial y los consorcios adscritos; está asistido por
+  oficinas de asistencia en materia de registros, y las personas interesadas tienen derecho a no
+  aportar documentos que ya estén en poder de la Administración.
+- **Sugerencias y reclamaciones** (artículo 85, en la redacción de la Ley 4/2012, de 21 de
+  septiembre). En todas las Consejerías, Delegaciones del Gobierno, Delegaciones Provinciales,
+  Delegaciones Territoriales y agencias habrá a disposición de la ciudadanía un libro para
+  formular sugerencias o reclamaciones, «**sin que estas últimas tengan el carácter de recurso
+  administrativo**».
+- **Acceso a la información pública** (artículo 86, en la redacción de la Ley 1/2014): la
+  ciudadanía puede acceder a la información pública, archivos y registros en los términos de la
+  Constitución y de las leyes de transparencia estatal y andaluza.
+- **Protección de datos** (artículo 87): derecho de acceso, corrección y cancelación de los datos
+  personales en poder de la Administración de la Junta.
+
+### La organización central y territorial de la Administración de la Junta de Andalucía
+
+*Los órganos y su clasificación* (título II de la Ley 9/2007). Bajo la superior dirección del
+Consejo de Gobierno, las Consejerías y las agencias administrativas se componen de órganos y
+unidades administrativas; son órganos las unidades con funciones que tengan efectos frente a
+terceros o actuación preceptiva (artículo 13). Las unidades administrativas se crean, modifican y
+suprimen a través de la relación de puestos de trabajo (artículo 14). Por decreto del Consejo de
+Gobierno pueden crearse servicios administrativos con gestión diferenciada, sin personalidad
+jurídica y adscritos a una Consejería (artículo 15).
+
+El artículo 16, en la redacción de la Ley 4/2012, de 21 de septiembre, clasifica los órganos de
+la estructura básica en superiores y directivos:
+
+- «**Es órgano superior la Consejería.**» (16.2).
+- «**Son órganos directivos centrales la Viceconsejería, Secretaría General, Secretaría General
+  Técnica y Dirección General. Son órganos directivos periféricos la Delegación del Gobierno de
+  la Junta de Andalucía, la Delegación Provincial de la Consejería y, en su caso, la Delegación
+  Territorial.**» (16.3).
+- Todos los demás órganos dependen de alguno de los anteriores (16.4).
+
+A los órganos superiores les corresponden la planificación y la superior coordinación; a los
+directivos, la ejecución y la dirección inmediata de sus órganos y unidades (17.1). Los titulares
+de unos y otros son altos cargos (17.2). Los titulares de los órganos directivos se nombran y
+separan por decreto del Consejo de Gobierno, a propuesta del Consejero del que dependan (17.3);
+salvo que se disponga otra cosa, el nombramiento surte efecto desde el día siguiente al de la
+aprobación del decreto y el cese desde el mismo día (17.4). Los titulares de las Secretarías
+Generales Técnicas se nombran entre personal funcionario de carrera de cualquier Administración
+de cuerpos para cuyo ingreso se exija licenciatura, grado o equivalente, o entre personal
+estatutario fijo de los servicios de salud con esa titulación (17.5).
+
+En el nombramiento de los titulares de órganos directivos que designe el Consejo de Gobierno se
+garantiza la representación equilibrada de hombres y mujeres, entendida como la presencia de unos
+y otras «**al menos en un cuarenta por ciento**» (artículo 18). Son órganos colegiados «**los que
+están compuestos por tres o más miembros**» que deliberan y acuerdan colegiadamente, y en ellos
+rige la misma representación equilibrada, excluidos quienes lo son por su cargo (artículo 19).
+Los órganos se crean, modifican y suprimen por decreto del Consejo de Gobierno (artículo 21), con
+una excepción: la creación, modificación o supresión de Consejerías (artículo 22.4), que según la
+Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
+
+*La organización central* (capítulo II del título II).
+
+- «**La Administración de la Junta de Andalucía se organiza en Consejerías, a las que corresponde
+  la gestión de uno o varios sectores de actividad.**» (artículo 23).
+- **Estructura interna** (artículo 24.1). Además de su titular, cada Consejería comprende como
+  órganos centrales la Viceconsejería, la Secretaría General Técnica y las Direcciones Generales;
+  «**Podrán crearse, además, Secretarías Generales.**» La estructura se aprueba por decreto del
+  Consejo de Gobierno. Desde el 23 de octubre de 2025 (Decreto-ley 4/2025, de 22 de octubre), el
+  artículo tiene un segundo párrafo: «**Con carácter excepcional**», cuando sea necesario para
+  mejorar la respuesta ante emergencias o situaciones de especial complejidad, «**se podrán crear
+  dos Viceconsejerías y Secretarías Generales Técnicas en ámbitos competenciales
+  diferenciados**». El Decreto 189/2026 lo ha aplicado a la Consejería de Presidencia, Sanidad y
+  Emergencias, que tiene una Viceconsejería de Presidencia y otra de Sanidad y Consumo.
+- **Jerarquía** (artículo 25). Los Consejeros desempeñan la jefatura superior de la Consejería y
+  son superiores directos de los Viceconsejeros; los demás órganos directivos se ordenan así:
+  Secretaría General, Secretaría General Técnica y Dirección General.
+- **Consejeros** (artículo 26). Ostentan la representación de la Consejería y ejercen la superior
+  dirección, iniciativa, coordinación, inspección, evaluación y potestad reglamentaria en su
+  ámbito. Además de sus atribuciones como miembros del Consejo de Gobierno, el 26.2 les da trece,
+  letras a) a m): entre ellas, la potestad reglamentaria en los términos de la Ley 6/2006,
+  nombrar y separar los cargos de libre designación, dirigir a los órganos directivos, resolver
+  conflictos de atribuciones entre sus órganos, formular el anteproyecto de presupuesto de la
+  Consejería, autorizar gastos, suscribir contratos y convenios, resolver recursos y la revisión
+  de oficio, la responsabilidad patrimonial y la potestad sancionadora, salvo que correspondan
+  al Consejo de Gobierno.
+- **Viceconsejeros** (artículo 27). Son los «**superiores órganos directivos**»: tienen la
+  representación ordinaria de la Consejería después del titular, lo suplen, forman parte de la
+  Comisión General de Viceconsejeros y Viceconsejeras, dirigen los servicios comunes y
+  desempeñan «**la jefatura superior de todo el personal de la Consejería**».
+- **Secretarías Generales** (artículo 28): dirigen un sector homogéneo de actividad de la
+  Consejería susceptible de gestión diferenciada.
+- **Secretarías Generales Técnicas** (artículo 29): dependen directamente del Viceconsejero,
+  gestionan los servicios comunes (producción normativa, asistencia jurídica, recursos humanos,
+  gestión financiera y patrimonial, medios materiales) y «**tendrán rango de Director
+  General**».
+- **Direcciones Generales** (artículo 30): gestionan una o varias áreas funcionales homogéneas.
+- **Órganos interdepartamentales y de participación.** Las comisiones interdepartamentales son
+  órganos colegiados en los que están representadas dos o más Consejerías y las crea el Consejo
+  de Gobierno (artículo 31); los órganos de participación ciudadana no tienen competencias
+  decisorias (artículo 32).
+- **Órganos horizontales.** La Consejería competente en materia de Administración Pública tiene
+  las competencias sobre personal, organización, procedimiento e inspección de servicios
+  (artículo 33); el Instituto Andaluz de Administración Pública es una agencia administrativa
+  adscrita a ella (artículo 34). El Gabinete Jurídico es el órgano directivo encargado de la
+  representación y defensa en juicio de la Administración, de sus agencias administrativas, del
+  Consejo Consultivo y del Consejo Audiovisual, a través de sus Letrados, y del asesoramiento en
+  Derecho del Consejo de Gobierno (artículo 41). La Intervención General es el superior órgano de
+  control interno y de contabilidad pública de la Administración y de todas sus entidades
+  instrumentales (artículo 49).
+
+*La organización territorial* (capítulo III del título II; los artículos 35 y 36, en la redacción
+de la Ley 4/2012; los artículos 37 y 39, en la del Decreto-ley 3/2024).
+
+- **Órganos territoriales provinciales** (artículo 35.1): «**las Delegaciones del Gobierno de la
+  Junta de Andalucía, las Delegaciones Provinciales de las Consejerías y, en su caso, las
+  Delegaciones Territoriales**». Las Delegaciones Territoriales pueden crearse por decreto del
+  Consejo de Gobierno, a propuesta de la Consejería competente en materia de Presidencia; su
+  titular representa a las Consejerías cuyos servicios periféricos se le asignen y sustituye a
+  las Delegaciones Provinciales afectadas (35.2). Pueden crearse además estructuras de ámbito
+  provincial o inferior, bajo la coordinación de la Delegación del Gobierno o de la Delegación
+  correspondiente (35.3).
+- **Delegaciones del Gobierno** (artículo 36.1). Sus titulares «**son las representantes de este
+  en la provincia, gozando en dicho ámbito territorial de la condición de primera autoridad de la
+  Administración de la Junta de Andalucía**». Se nombran y separan por decreto del Consejo de
+  Gobierno, a propuesta del Consejero de la Consejería a la que estén adscritas, bajo cuya
+  superior dirección coordinan y supervisan los servicios de la Junta en la provincia. Sus nueve
+  funciones (artículo 37.1, letras a) a i): la representación ordinaria de la Administración de
+  la Junta en la provincia; dirigir su Delegación; coordinar las Delegaciones Provinciales y
+  Territoriales; ser órgano de comunicación con la Administración del Estado y las entidades
+  locales; requerir a las entidades locales para que anulen actos y acuerdos «**referidos al
+  ámbito de las competencias de la respectiva Delegación del Gobierno**» que infrinjan el
+  ordenamiento y promover su impugnación; informar a la Presidencia sobre conflictos de
+  atribuciones entre Delegaciones; instar al Consejo de Gobierno a plantear conflictos de
+  jurisdicción; representar a la Junta en los órganos colegiados de seguridad de la provincia; y
+  velar por el cumplimiento de las normas y actos de la Junta. Ejercen además la potestad
+  sancionadora que tengan atribuida y la que no esté atribuida a otro órgano en su territorio
+  (37.2).
+- **Delegaciones Provinciales de las Consejerías** (artículos 38 a 40). Sus titulares representan
+  a la Consejería en la provincia y dirigen los servicios de la Delegación, bajo la superior
+  dirección del Consejero; se nombran por decreto del Consejo de Gobierno (artículo 38). Tienen
+  cinco funciones (artículo 39): representación ordinaria de la Consejería y de sus agencias;
+  jefatura del personal de la Delegación; ser el cauce ordinario de relación con los servicios
+  centrales, con la Administración periférica del Estado y con las entidades locales; requerir a
+  las entidades locales en su ámbito competencial; y las que se les desconcentren o deleguen.
+  Están integradas en la estructura orgánica de su Consejería y deben evitar duplicidades con la
+  organización central (artículo 40).
+
+### Entidades instrumentales de la Administración de la Junta de Andalucía
+
+*Base estatutaria y concepto.* La Comunidad «**podrá constituir empresas públicas y otros entes
+instrumentales, con personalidad jurídica propia, para la ejecución de funciones de su
+competencia**» (artículo 158 del Estatuto). La Ley 9/2007 las define en su artículo 50.1:
+«**las entidades dotadas de personalidad jurídica propia, creadas, participadas mayoritariamente
+o controladas efectivamente por la Administración de la Junta de Andalucía o por sus entes
+públicos, con independencia de su naturaleza y régimen jurídico**», cuyas actividades justifican,
+por razones de eficacia, su organización «**en régimen de autonomía de gestión y de mayor
+proximidad a la ciudadanía**». Si una nueva entidad duplica otra organización, hay que suprimir o
+reducir las funciones de la existente (50.2). Tienen personalidad jurídica diferenciada,
+patrimonio y tesorería propios y autonomía de gestión, y se ajustan al «**principio de
+instrumentalidad**»: sus fines son propios de la Administración de la que dependen (artículo 51).
+
+*Clasificación* (artículo 52, en la redacción de la Ley 1/2011, de 17 de febrero, de
+reordenación del sector público de Andalucía):
+
+- «**a) Agencias. b) Entidades instrumentales privadas: 1.º Sociedades mercantiles del sector
+  público andaluz. 2.º Fundaciones del sector público andaluz.**» (52.1).
+- Las agencias tienen «**personalidad jurídica pública y la consideración de Administración
+  institucional**» dependiente de la Administración de la Junta (52.2).
+- Las sociedades mercantiles y las fundaciones «**tienen personalidad jurídica privada, por lo
+  que en ningún caso podrán disponer de facultades que impliquen ejercicio de autoridad**»
+  (52.3).
+
+Cualquier agencia, sociedad o fundación puede transformarse en otro tipo de entidad
+instrumental por decreto del Consejo de Gobierno, conservando su personalidad jurídica
+(artículo 52 bis). Las entidades instrumentales y los consorcios adscritos pueden ser medios
+propios de los poderes adjudicadores si cumplen los requisitos de la legislación de contratos, y
+en su denominación debe figurar «**Medio Propio**» o «**M.P.**»; los encargos a sociedades y
+fundaciones no pueden atribuirles potestades sujetas al Derecho Administrativo (artículo 53 bis,
+apartados 2 y 12).
+
+*Las agencias: disposiciones comunes.* Son «**entidades con personalidad jurídica pública
+dependientes de la Administración de la Junta de Andalucía para la realización de actividades de
+la competencia de la Comunidad Autónoma en régimen de descentralización funcional**» (artículo
+54.1), y hay tres tipos: «**a) Agencias administrativas. b) Agencias públicas empresariales. c)
+Agencias de régimen especial.**» (54.2). Tienen las potestades administrativas precisas para sus
+fines, «**salvo la potestad expropiatoria**» (artículo 55).
+
+- **Creación** (artículo 56). Las agencias administrativas y las públicas empresariales se crean
+  «**por ley**», que fija el tipo de entidad, sus fines y sus peculiaridades de recursos,
+  personal y régimen fiscal; sus estatutos se aprueban por decreto del Consejo de Gobierno. Las
+  de régimen especial requieren «**autorización previa por ley**» y se crean con la aprobación
+  de su estatuto por decreto del Consejo de Gobierno.
+- Los estatutos deben aprobarse y publicarse en el BOJA antes de que la entidad empiece a
+  funcionar (57.3). El plan inicial de actuación lo aprueba el Consejero de adscripción y tiene
+  «**un ámbito temporal de cuatro años**» (artículo 58).
+- La modificación o refundición exige ley cuando altera los fines, el tipo o las peculiaridades
+  con rango de ley, pero puede hacerse por decreto del Consejo de Gobierno por razones de
+  eficacia, eficiencia y economía del gasto (artículo 59). La disolución se produce por ley o por
+  decreto del Consejo de Gobierno en los supuestos del artículo 60.
+- Están sometidas a un control de eficacia de la Consejería o entidad de adscripción (artículo
+  63).
+
+*Agencias administrativas* (artículos 65 a 67). «**Las agencias administrativas son entidades
+públicas que se rigen por el Derecho Administrativo, a las que se atribuye, en ejecución de
+programas específicos de la actividad de una Consejería, la realización de actividades de
+promoción, prestacionales, de gestión de servicios públicos y otras actividades
+administrativas.**» (65.1). Tienen el mismo régimen de personal, presupuestario, de control y
+contabilidad que la Administración de la Junta (65.2). Para crear una basta que concurra uno de
+tres requisitos: necesidad de especial autonomía de gestión; un patrimonio que por su volumen
+requiera gestión con personalidad propia; o un servicio que pueda financiarse «**en más de un
+cincuenta por ciento**» con sus propios ingresos (artículo 66). Sus presidentes o directores los
+nombra y separa libremente el Consejo de Gobierno y tienen la consideración de altos cargos a
+efectos de incompatibilidades; su personal es funcionario,
+laboral o estatutario, como el de la Junta (artículo 67).
+
+*Agencias públicas empresariales* (artículos 68 a 70). «**Las agencias públicas empresariales son
+entidades públicas a las que se atribuye la realización de actividades prestacionales, la
+gestión de servicios o la producción de bienes de interés público, sean o no susceptibles de
+contraprestación, y que aplican técnicas de gestión empresarial en ejecución de competencias
+propias o de programas específicos de una o varias Consejerías, en el marco de la planificación
+y dirección de estas.**» (68.1). Hay dos tipos:
+
+- a) las que tienen por objeto principal la producción, «**en régimen de libre mercado**», de
+  bienes y servicios de interés público mediante contraprestación. Se rigen por el Derecho
+  Privado, salvo en la formación de la voluntad de sus órganos, en el ejercicio de las potestades
+  administrativas atribuidas y en lo que regulen la ley, sus estatutos y la Ley General de la
+  Hacienda Pública (69.1, párrafo primero);
+- b) las que realizan actividades de promoción pública, prestacionales, de gestión de servicios
+  o de producción de bienes de interés público «**sin actuar en régimen de libre mercado**». Se
+  rigen por el Derecho Administrativo en esas mismas cuestiones y, en lo demás, por el
+  Administrativo o el Privado según lo requiera su gestión empresarial (69.1, párrafo segundo).
+
+Ejercen únicamente las potestades administrativas que se les atribuyan expresamente, y solo los
+órganos a los que los estatutos se las asignen (69.2). «**El personal de las agencias públicas
+empresariales se rige en todo caso por el Derecho Laboral**», se selecciona por convocatoria
+pública según igualdad, mérito y capacidad, y la determinación de sus retribuciones exige informe
+previo y favorable de las Consejerías de Administración Pública y de Hacienda (artículo 70). El
+artículo 69 lleva en el texto consolidado del BOE una nota sobre la sentencia del Tribunal
+Constitucional 230/2015, de 5 de noviembre, que declaró inconstitucional y nulo el precepto «**en la
+redacción dada por el Decreto-ley 5/2010**»; la redacción vigente es la de la Ley 1/2011.
+
+*Agencias de régimen especial* (artículos 71 a 74). Realizan las mismas actividades que las
+administrativas, «**siempre que se les asignen funciones que impliquen ejercicio de autoridad que
+requieran especialidades en su régimen jurídico**» (71.1). Se rigen por el Derecho
+Administrativo, con Derecho Privado donde su gestión lo requiera (71.2), y se adscriben a la
+Consejería competente por razón de la materia (71.3). Actúan con un plan de acción anual y un
+«**contrato plurianual de gestión**» que aprueba el Consejo de Gobierno, y tienen una comisión de
+control (artículo 72). Su personal puede ser funcionario o laboral, pero «**Las funciones que
+impliquen ejercicio de autoridad serán desempeñadas por personal funcionario.**» (74.1); desde el
+1 de enero de 2026 (Ley 8/2025) su órgano competente puede aprobar «**de manera independiente**» la
+oferta de empleo de su personal no directivo (74.2.a).
+
+*Sociedades mercantiles del sector público andaluz* (artículos 75 a 77). Son las previstas en la
+Ley General de la Hacienda Pública y en la Ley del Patrimonio de la Comunidad (75.1). Tienen por
+objeto «**la realización de actividades comerciales o de gestión de servicios en régimen de
+mercado, actuando bajo el principio de la libre competencia**». Desde el 14 de diciembre de 2023
+(Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía) el 75.2 dice: «**En ningún caso
+podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de
+que excepcionalmente la ley pueda atribuirles el ejercicio de potestades administrativas.**»;
+antes decía que «**En ningún caso podrán ejercer potestades administrativas.**» Conviene leerlo
+junto al 52.3, que sigue excluyendo sin salvedad las facultades que impliquen ejercicio de
+autoridad, y al 53 bis.12 para los encargos. Su creación la autoriza el Consejo de Gobierno por
+acuerdo que se publica en el BOJA, con denominación, forma jurídica, objeto social, participación
+de la Administración y Consejería o agencia de adscripción, entre otros extremos (artículo 76).
+Su personal se rige por el Derecho Laboral y el no directivo se selecciona por convocatoria
+pública (artículo 77).
+
+*Fundaciones del sector público andaluz* (artículo 78). Su concepto y régimen es el de la Ley
+10/2005, de 31 de mayo, de Fundaciones de la Comunidad Autónoma de Andalucía; su personal se rige
+por el derecho laboral.
+
+*Otras figuras.* La Administración de la Junta puede constituir con otras Administraciones y
+entidades organizaciones personificadas de gestión, en forma de consorcios o sociedades
+mercantiles, cuya creación autoriza el Consejo de Gobierno (artículo 12). Y tienen la
+consideración de Administración institucional las entidades públicas a las que una ley reconozca
+expresamente «**independencia funcional o un especial régimen de autonomía**» respecto de la
+Administración de la Junta; se rigen por su normativa específica y, supletoriamente, por lo
+dispuesto para las agencias (disposición adicional segunda).
+
+*La RTVA, donde la sitúa la ley.* La Ley 18/2007, de 17 de diciembre, de la radio y televisión de
+titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de
+Andalucía, dice:
+
+- «**La RTVA, creada por la Ley 8/1987, de 9 de diciembre, es una Agencia Pública
+  Empresarial**», que ejerce las funciones atribuidas a la Comunidad en la gestión directa del
+  servicio público de radio y televisión (artículo 5.1), con personalidad jurídica propia y
+  patrimonio propio (5.2).
+- Queda adscrita a la Consejería que tenga las competencias en medios de comunicación social
+  (5.3). A la fecha del tema, el Decreto 189/2026 la incluye entre las entidades instrumentales
+  adscritas a la Consejería de Presidencia, Sanidad y Emergencias (artículo 2.9.a).
+- Goza de autonomía en su gestión, organización y funcionamiento y, en el marco de un
+  Contrato-Programa, «**actuará con independencia funcional respecto del Consejo de Gobierno de la
+  Junta de Andalucía y de las Administraciones Públicas**» (5.4).
+- Se le aplican la Ley de la Administración de la Junta, la Ley General de la Hacienda Pública,
+  la Ley de Patrimonio «**y demás normativa de general aplicación para las Agencias Públicas
+  Empresariales de la Junta de Andalucía. En lo demás se regirá por el ordenamiento jurídico
+  privado.**» (artículo 6.2).
+- La gestión directa del servicio público la ejerce «**por medio de las sociedades mercantiles del
+  sector público andaluz adscritas a ella**» (artículo 2.2). La ley nombra dos, Canal Sur Radio,
+  S.A. y Canal Sur Televisión, S.A., a las que aplica el régimen de las sociedades mercantiles del
+  sector público andaluz (artículo 9.1, 9.2 y 9.4); la situación actual de las filiales y el
+  resto del régimen de la RTVA son el punto 5 del temario común.
+
+Lo que la ley no dice: ni la Ley 18/2007 ni la Ley 9/2007 indican si la RTVA es una agencia
+pública empresarial del tipo a) o del tipo b) del artículo 68.1, y este tema no lo afirma. Y la
+Ley Electoral de Andalucía, al fijar las inelegibilidades, sigue llamándola «**Empresa Pública de
+la Radio y Televisión de Andalucía**» (artículo 4.3.g).

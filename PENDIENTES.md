@@ -937,3 +937,20 @@ Los detectó la investigación del tema 4 del común de Canal Sur, leyendo la Le
   que buscar quién más usa el volcado para esto (manual, apartado 10).
 - **Gravedad**: cambia la respuesta. Mientras no se arregle, el ciclo de Canal Sur comprueba a mano
   en el XML del BOE los preceptos con nota de sentencia.
+
+## RTVE · Producción (Asistencia) tema 17 (protección de datos): errores que destapó Canal Sur — ABIERTO 2026-09-24
+
+Los encontró la redacción del tema 10 del común de Canal Sur, que reutiliza este texto, leyendo la
+LO 3/2018 (`BOE-A-2018-16673`) y el RGPD con su corrección de 2021 el 24-09-2026. Detalle en
+`informes/canal-sur-comun/T10-redaccion.md`. **No aplicados al tema de RTVE** (RTVE parado).
+
+- **Título IX, recuentos**: dice 16 muy graves, 29 graves y 18 leves; contando la letra ñ son **17,
+  30 y 19** (arts. 72, 73 y 74). **Gravedad**: cambia la respuesta.
+- **Art. 34.1**: dice quince supuestos; son **dieciséis**. **Gravedad**: cambia la respuesta.
+- **Art. 36.2**: falta la salvedad «persona física integrada en la organización». **Gravedad**: induce
+  a error.
+- **Art. 18.1.a) RGPD**: la corrección de errores de 2021 dice «en un plazo», no «durante un plazo».
+  **Gravedad**: menor.
+- **Faltan** el art. 32.5 y la remisión del art. 12.7 al art. 15.3 del RGPD. **Gravedad**: menor.
+- Además, los preceptos que cambiaron después del corte de RTVE (arts. 23, 24, 48.2, 50, 53 bis, 64,
+  65, 66, 67.2, 75, 77.2 y DA 23.ª) están listados en `informes/canal-sur-comun/T10-investigacion-vigencia.md`.

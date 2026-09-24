@@ -15,11 +15,11 @@
 
 Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
 (**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Boletín Oficial del Estado
-(**BOE**); Boletín Oficial de la Junta de Andalucía (**BOJA**); Constitución Española (**CE**);
+(**BOE**); Boletín Oficial de la Junta de Andalucía (**BOJA**);
 Consejo General del Poder Judicial (**CGPJ**); producto interior bruto (**PIB**); Ley 7/1985,
 de 2 de abril, Reguladora de las Bases del Régimen Local (**LBRL**); Ley 5/2010, de 11 de
-junio, de autonomía local de Andalucía (**LAULA**); Estatuto de Autonomía para Andalucía
-(**EAA**); Sentencia del Tribunal Constitucional (**STC**).
+junio, de autonomía local de Andalucía (**LAULA**); Sentencia del Tribunal Constitucional
+(**STC**).
 
 > Enunciado del programa (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, bloque I, parte común, punto 1):
@@ -2527,3 +2527,685 @@ Ejerce además las competencias no contempladas expresamente en el Estatuto «**
 transferidas o delegadas por el Estado**» (42.3). Las competencias concretas de la Comunidad son
 el punto 2 del temario común.
 
+### La organización territorial de la Comunidad Autónoma de Andalucía
+
+La regula el Título III del Estatuto, «**Organización territorial de la Comunidad Autónoma**»
+(artículos 89 a 98), y la desarrolla la Ley 5/2010, de 11 de junio, de autonomía local de
+Andalucía (LAULA). Todos los artículos del Estatuto que se citan aquí conservan la redacción de
+2007.
+
+#### El territorio y la capital
+
+- Artículo 2 del Estatuto: «**El territorio de Andalucía comprende el de los municipios de las
+  provincias de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.**» Ocho
+  provincias.
+- Artículo 4.1: «**La capital de Andalucía es la ciudad de Sevilla, sede del Parlamento, de la
+  Presidencia de la Junta y del Consejo de Gobierno**», sin perjuicio de que puedan celebrar
+  sesiones en otros lugares. Artículo 4.2: «**La sede del Tribunal Superior de Justicia es la
+  ciudad de Granada**», sin perjuicio de que algunas Salas puedan ubicarse en otras ciudades.
+
+#### Los principios (artículos 89 y 90 del Estatuto)
+
+*Artículo 89. Estructura territorial.*
+
+1. «**Andalucía se organiza territorialmente en municipios, provincias y demás entidades
+   territoriales que puedan crearse por ley.**»
+2. La Administración autonómica y las locales ajustarán sus relaciones «**a los principios de
+   información mutua, coordinación, colaboración y respeto a los ámbitos competenciales
+   correspondientes**», con plena observancia de la garantía institucional de la autonomía local
+   «**reconocida por la Constitución y por la Carta Europea de la Autonomía Local**».
+
+*Artículo 90. Principios de la organización territorial.* Nueve: «**La organización territorial
+de Andalucía se regirá por los principios de autonomía, responsabilidad, cooperación,
+desconcentración, descentralización, subsidiariedad, coordinación, suficiencia financiera y
+lealtad institucional.**»
+
+#### Las piezas (artículos 91 a 97 del Estatuto)
+
+| Pieza | Estatuto | Qué dice |
+|---|---|---|
+| Municipio | Arts. 91 a 93 | «**El municipio es la entidad territorial básica de la Comunidad Autónoma.**» Competencias propias en el artículo 92 (ver «El municipio») |
+| Agrupaciones de municipios | Art. 94 | «**Una ley regulará las funciones de las áreas metropolitanas, mancomunidades, consorcios y aquellas otras agrupaciones de municipios que se establezcan**» |
+| Órgano de relación Junta-Ayuntamientos | Art. 95 | Una ley regulará «**un órgano mixto con representación de la Junta de Andalucía y de los Ayuntamientos andaluces**», que funcionará como ámbito permanente de diálogo y colaboración y «**será consultado en la tramitación parlamentaria de las disposiciones legislativas y planes que afecten de forma específica a las Corporaciones locales**» |
+| Provincia | Art. 96 | «**La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios.**» (ver «La provincia») |
+| Comarca | Art. 97 | «**La comarca se configura como la agrupación voluntaria de municipios limítrofes con características geográficas, económicas, sociales e históricas afines.**» |
+
+*La comarca (artículo 97.2).* «**Por ley del Parlamento de Andalucía podrá regularse la creación de
+comarcas, que establecerá, también, sus competencias. Se requerirá en todo caso el acuerdo de los
+Ayuntamientos afectados y la aprobación del Consejo de Gobierno.**»
+
+#### La ley de régimen local (artículo 98 del Estatuto) y la competencia en la materia (artículo 60)
+
+El artículo 98.1 manda que «**Una ley de régimen local, en el marco de la legislación básica del
+Estado**», regule las relaciones entre las instituciones de la Junta y los entes locales y las
+técnicas de cooperación y colaboración entre ellos, incluidas «**las distintas formas asociativas
+mancomunales, convencionales y consorciales**». Esa ley es la LAULA, cuyo artículo 1 dice que se
+dicta «**en desarrollo de las previsiones estatutarias sobre organización territorial de
+Andalucía**» y que «**se aprueba con las prescripciones establecidas en el artículo 108 del
+Estatuto de Autonomía para Andalucía**». Ese artículo 108 exige para las leyes que afectan a la
+organización territorial «**el voto favorable de la mayoría absoluta del Pleno del Parlamento en
+una votación final sobre el conjunto del texto**».
+
+La competencia (artículo 60 del Estatuto): corresponde a la Comunidad Autónoma «**la competencia
+exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y
+el principio de autonomía local**», incluye seis materias (letras a a f: relaciones entre la
+Junta y los entes locales y sus formas de cooperación; determinación de las competencias y
+potestades propias de los municipios y demás entes locales en los ámbitos del Título III; régimen
+de los bienes y modalidades de prestación de los servicios públicos; órganos de gobierno de los
+entes locales creados por la Junta; órganos complementarios; régimen electoral de los entes
+locales creados por la Junta, salvo los constitucionalmente garantizados). En todo lo demás, la
+competencia es compartida (60.2); y le corresponden, en el marco de la regulación general del
+Estado, las competencias sobre haciendas locales y tutela financiera de los entes locales (60.3).
+
+#### Lo que añade la LAULA
+
+- Artículo 3.1: «**Los municipios y provincias, en su relación con la Comunidad Autónoma de
+  Andalucía, integran un único nivel de gobierno.**»
+- Artículo 3.2: «**El municipio es la entidad territorial básica de Andalucía, instancia de
+  representación política y cauce inmediato de participación ciudadana en los asuntos
+  públicos.**»
+- Artículo 3.3: la provincia es una entidad local determinada por la agrupación de municipios
+  «**cuya principal función, de conformidad con los mismos, es garantizar el ejercicio de las
+  competencias municipales y facilitar la articulación de las relaciones de los municipios entre
+  sí y con la Comunidad Autónoma de Andalucía**».
+- Artículo 3.4: por ley podrán crearse otras entidades locales complementarias, «**que no
+  alterarán en ningún caso la estructura territorial de Andalucía**».
+- Artículo 4.1: «**Los municipios y provincias de Andalucía gozan de autonomía para la ordenación
+  y gestión de los asuntos de interés público en el marco de las leyes.**»
+- Artículo 57: el **Consejo Andaluz de Gobiernos Locales**, «**órgano de representación de los
+  municipios y las provincias ante las instituciones de la Junta de Andalucía con la finalidad de
+  garantizar el respeto a las competencias locales**». Conoce con carácter previo los
+  anteproyectos de leyes, planes y proyectos de disposiciones generales que afecten a las
+  competencias locales propias, e informa sobre su impacto con juicios que «**en ningún caso
+  tendrán carácter vinculante**». Su posición será conocida en el trámite parlamentario «**de
+  acuerdo con lo dispuesto en el artículo 95 del Estatuto de Autonomía para Andalucía**».
+
+### El municipio: organización y competencias
+
+#### Qué es
+
+- Constitución, artículo 140: «**La Constitución garantiza la autonomía de los municipios. Estos
+  gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus
+  respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.**» «**Los Concejales
+  serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo
+  y secreto, en la forma establecida por la ley. Los Alcaldes serán elegidos por los Concejales o
+  por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo
+  abierto.**»
+- LBRL, artículo 1.1: los Municipios son «**entidades básicas de la organización territorial del
+  Estado y cauces inmediatos de participación ciudadana en los asuntos públicos**». Artículo 11:
+  «**El Municipio es la entidad local básica de la organización territorial del Estado. Tiene
+  personalidad jurídica y plena capacidad para el cumplimiento de sus fines.**» «**Son elementos
+  del Municipio el territorio, la población y la organización.**»
+- Estatuto, artículo 91.1: «**El municipio es la entidad territorial básica de la Comunidad
+  Autónoma. Goza de personalidad jurídica propia y de plena autonomía en el ámbito de sus
+  intereses. Su representación, gobierno y administración corresponden a los respectivos
+  Ayuntamientos.**» 91.3: «**Los municipios disponen de plena capacidad de autoorganización**»
+  dentro del marco de las disposiciones generales establecidas por ley.
+
+Las Entidades Locales territoriales son el Municipio, la Provincia y la Isla en los archipiélagos
+balear y canario (LBRL, artículo 3.1). En su condición de Administraciones públicas territoriales
+les corresponden, entre otras, las potestades reglamentaria y de autoorganización, tributaria y
+financiera, de programación o planificación, expropiatoria, de ejecución forzosa y sancionadora y
+de revisión de oficio (LBRL, artículo 4.1).
+
+#### El territorio y la población
+
+- «**El término municipal es el territorio en que el ayuntamiento ejerce sus competencias.**»
+  «**Cada municipio pertenecerá a una sola provincia.**» (LBRL, artículo 12). La LAULA añade que
+  «**El término municipal es continuo y no podrá exceder del territorio de una provincia.**»
+  (artículo 89.3).
+- Creación y supresión de municipios y alteración de términos: las regula la legislación
+  autonómica de régimen local, sin que la alteración de términos pueda suponer «**en ningún caso,
+  modificación de los límites provinciales**», con audiencia de los municipios interesados,
+  dictamen del Consejo de Estado o del órgano consultivo autonómico e informe de la Administración
+  que ejerza la tutela financiera (LBRL, artículo 13.1).
+- Umbral para crear municipios (LBRL, artículo 13.2): sólo sobre núcleos de población
+  territorialmente diferenciados «**de al menos 4.000 habitantes**» y siempre que los municipios
+  resultantes sean financieramente sostenibles, tengan recursos suficientes y no se reduzca la
+  calidad de los servicios. *Qué cambió: el Real Decreto-ley 6/2023, de 19 de diciembre (en vigor
+  desde el 21-12-2023, convalidado por el Congreso en enero de 2024), bajó la cifra, que era de
+  5.000 habitantes.*
+- Fusión (LBRL, artículo 13.4 y 13.6): los municipios colindantes de la misma provincia pueden
+  fusionarse mediante convenio, que debe aprobarse «**por mayoría simple de cada uno de los plenos
+  de los municipios fusionados**»; el municipio resultante «**no podrá segregarse hasta
+  transcurridos diez años desde la adopción del convenio de fusión**».
+- En Andalucía (LAULA, artículo 91.1), los términos municipales pueden modificarse por cinco vías:
+  segregación, fusión, agregación, incorporación y aumento o disminución de su cabida debido a
+  dinámicas de la naturaleza; la competencia corresponde «**en exclusiva a la Junta de
+  Andalucía**» (91.3). La creación de un municipio por segregación «**tendrá carácter
+  excepcional**», sólo sobre núcleos de población, con la conformidad del pleno del municipio
+  matriz «**acordada por mayoría absoluta**» y siete circunstancias (artículo 93.2, letras a a
+  g). La LAULA no fija un número de habitantes; rige el del artículo 13.2 de la LBRL. El
+  Estatuto (artículo 91.2) reserva la alteración de términos y la fusión de municipios limítrofes
+  de la misma provincia a la legislación autonómica en el marco de la básica del Estado.
+- Población (LBRL, artículo 15): toda persona que viva en España está obligada a inscribirse en
+  el Padrón del municipio en que resida habitualmente; si vive en varios, en el que habite más
+  tiempo al año. «**Los inscritos en el Padrón municipal son los vecinos del municipio.**» «**La
+  condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón.**»
+
+#### La organización municipal (régimen común)
+
+*El Ayuntamiento (LBRL, artículo 19).* «**El Gobierno y la administración municipal, salvo en
+aquellos municipios que legalmente funcionen en régimen de Concejo Abierto, corresponde al
+ayuntamiento, integrado por el Alcalde y los Concejales.**» Los Concejales se eligen por sufragio
+universal, igual, libre, directo y secreto, y «**el Alcalde es elegido por los Concejales o por
+los vecinos**», en los términos de la legislación electoral general. Los municipios de gran
+población del título X se rigen por su régimen propio (19.3).
+
+*Los órganos (LBRL, artículo 20.1).*
+
+| Órgano | Dónde existe |
+|---|---|
+| Alcalde, Tenientes de Alcalde y Pleno | «**El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos.**» (a) |
+| Junta de Gobierno Local | «**en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento**» (b) |
+| Órganos de estudio, informe o consulta de los asuntos del Pleno y de seguimiento de la gestión | En los municipios de más de 5.000 habitantes, y en los de menos si lo dispone el reglamento orgánico o lo acuerda el Pleno, si la legislación autonómica no prevé otra forma organizativa; todos los grupos políticos participan en proporción a sus Concejales (c) |
+| Comisión Especial de Sugerencias y Reclamaciones | En los municipios del título X, y en los demás si lo acuerda el Pleno por mayoría absoluta del número legal de sus miembros o lo dispone el reglamento orgánico (d) |
+| Comisión Especial de Cuentas | «**La Comisión Especial de Cuentas existe en todos los municipios**» (e) |
+
+Las leyes autonómicas pueden establecer una organización municipal complementaria, y los propios
+municipios, otros órganos complementarios en sus reglamentos orgánicos (20.2 y 20.3). La LAULA no
+regula los órganos de gobierno: dice que los municipios y provincias «**habrán de contar con los
+órganos necesarios, previstos en la legislación básica sobre régimen local, para su gobierno y
+administración**» (artículo 5.2).
+
+*El Alcalde (LBRL, artículo 21).* «**El Alcalde es el Presidente de la Corporación**». Entre sus
+atribuciones (21.1, letras a a s, con la ñ y la p derogadas): «**Dirigir el gobierno y la
+administración municipal.**»; «**Representar al ayuntamiento.**»; convocar y presidir las
+sesiones del Pleno, de la Junta de Gobierno Local y de otros órganos, y «**decidir los empates
+con voto de calidad**»; dirigir, inspeccionar e impulsar los servicios y obras municipales;
+«**Dictar bandos.**»; aprobar la oferta de empleo público de acuerdo con el Presupuesto y la
+plantilla aprobados por el Pleno; desempeñar la jefatura superior de todo el personal; «**Ejercer
+la jefatura de la Policía Municipal.**»; adoptar personalmente, en caso de catástrofe o de
+infortunios públicos o grave riesgo, las medidas necesarias, dando cuenta inmediata al Pleno;
+otorgar las licencias, salvo que las leyes sectoriales las atribuyan al Pleno o a la Junta de
+Gobierno Local; y las demás que le atribuyan las leyes y las que se asignen al municipio sin
+atribuirlas a otro órgano (cláusula residual, letra s). Nombra a los Tenientes de Alcalde (21.2).
+No puede delegar, entre otras, las de convocar y presidir el Pleno y la Junta de Gobierno Local,
+decidir los empates, concertar operaciones de crédito, la jefatura superior del personal, la
+separación de funcionarios y el despido del personal laboral, ni las de las letras a), e), j),
+k), l) y m); la de la letra j) sí puede delegarla en la Junta de Gobierno Local (21.3).
+
+*El Pleno (LBRL, artículo 22).* «**El Pleno, integrado por todos los Concejales, es presidido por
+el Alcalde.**» Le corresponden, entre otras (22.2): «**El control y la fiscalización de los
+órganos de gobierno.**»; los acuerdos sobre participación en organizaciones supramunicipales,
+alteración del término, creación o supresión de municipios y entidades, órganos desconcentrados,
+capitalidad, nombre, bandera, enseña o escudo; la aprobación inicial del planeamiento general;
+«**La aprobación del reglamento orgánico y de las ordenanzas.**»; la determinación de los recursos
+propios de carácter tributario, la aprobación y modificación de los presupuestos y la aprobación
+de las cuentas; las formas de gestión de los servicios; la aceptación de la delegación de
+competencias de otras Administraciones; la plantilla y la relación de puestos de trabajo. También
+le corresponde la votación de la moción de censura al Alcalde y de la cuestión de confianza que
+éste plantee (22.3). Puede delegar en el Alcalde y en la Junta de Gobierno Local, salvo las
+atribuciones de las letras a), b), c), d), e), f), g), h), i), l) y p) del 22.2 y las del 22.3
+(22.4).
+
+*La Junta de Gobierno Local (LBRL, artículo 23).* «**La Junta de Gobierno Local se integra por el
+Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados
+y separados libremente por aquél, dando cuenta al Pleno.**» Le corresponde «**La asistencia al
+Alcalde en el ejercicio de sus atribuciones.**» y las atribuciones que le deleguen el Alcalde u
+otro órgano o le atribuyan las leyes. Los Tenientes de Alcalde sustituyen al Alcalde por el orden
+de su nombramiento en los casos de vacante, ausencia o enfermedad, y los designa y remueve
+libremente el Alcalde entre los miembros de la Junta de Gobierno Local o, donde no exista, entre
+los Concejales.
+
+*Gestión desconcentrada (LBRL, artículo 24; LAULA, artículos 109 y 113).* Los municipios podrán
+establecer órganos territoriales de gestión desconcentrada. En Andalucía, el municipio puede
+organizar su término en circunscripciones territoriales «**Desconcentradas, que podrán ser
+denominadas distritos, barrios, aldeas, pedanías u otras denominaciones de análoga
+significación**» o «**Descentralizadas, que podrán ser entidades vecinales o entidades locales
+autónomas**»; las descentralizadas «**gozarán de personalidad jurídica**».
+
+#### Los regímenes especiales
+
+*Concejo abierto (LBRL, artículo 29).* Funcionan en concejo abierto los municipios que
+tradicional y voluntariamente cuenten con ese régimen, y aquellos otros en los que su localización
+geográfica, la mejor gestión de los intereses municipales u otras circunstancias lo hagan
+aconsejable. En estos últimos, requiere «**petición de la mayoría de los vecinos, decisión
+favorable por mayoría de dos tercios de los miembros del Ayuntamiento y aprobación por la
+Comunidad Autónoma**». El gobierno y la administración corresponden a un Alcalde y a una asamblea
+vecinal de la que forman parte todos los electores. Y los alcaldes de municipios «**de menos de
+100 residentes**» podrán convocar a sus vecinos a concejo abierto para decisiones de especial
+trascendencia, y en ese caso deberán someterse obligatoriamente al criterio de la asamblea.
+
+*Municipios de gran población (LBRL, título X).* Se aplica (artículo 121.1):
+
+- a) «**A los municipios cuya población supere los 250.000 habitantes.**»
+- b) «**A los municipios capitales de provincia cuya población sea superior a los 175.000
+  habitantes.**»
+- c) «**A los municipios que sean capitales de provincia, capitales autonómicas o sedes de las
+  instituciones autonómicas.**»
+- d) «**Asimismo, a los municipios cuya población supere los 75.000 habitantes, que presenten
+  circunstancias económicas, sociales, históricas o culturales especiales.**»
+
+En c) y d) hace falta que lo decidan «**las Asambleas Legislativas correspondientes a iniciativa
+de los respectivos ayuntamientos**». Cuando un municipio alcanza la población requerida, la nueva
+corporación tiene «**un plazo máximo de seis meses desde su constitución**» para adaptar su
+organización (121.2), y sigue en el régimen aunque su población baje después (121.3).
+
+Rasgos de su organización: el Pleno es «**el órgano de máxima representación política de los
+ciudadanos en el gobierno municipal**» y cuenta con un secretario general y con Comisiones
+(artículo 122); el Alcalde «**ostenta la máxima representación del municipio**», «**es
+responsable de su gestión política ante el Pleno**» y «**tendrá el tratamiento de Excelencia**»
+(artículo 124); los Tenientes de Alcalde, el de Ilustrísima (artículo 125.2); la Junta de Gobierno
+Local, cuyos miembros nombra y separa libremente el Alcalde, no puede exceder «**de un tercio del
+número legal de miembros del Pleno, además del Alcalde**» (artículo 126.2); y los ayuntamientos
+«**deberán crear distritos**» (artículo 128.1), cuya presidencia «**corresponderá en todo caso a un
+concejal**» (128.3).
+
+*Inciso anulado del artículo 126.2.* El texto consolidado sigue reproduciendo la frase «El Alcalde
+podrá nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición
+de concejales, siempre que su número no supere un tercio de sus miembros, excluido el Alcalde»,
+pero no está en vigor: la STC 103/2013, de 25 de abril, la declaró inconstitucional y nula
+«en los términos establecidos en el fundamento jurídico 6». Según ese fundamento, la
+inconstitucionalidad «**se limita única y exclusivamente a la facultad que se reconoce al alcalde
+para nombrar como miembros de la Junta de Gobierno a personas que no ostenten la condición de
+concejales**». En los municipios de gran población, por tanto, el Alcalde no puede nombrar
+miembros de la Junta de Gobierno Local que no sean concejales.
+
+#### Las competencias municipales
+
+*Las competencias propias de la LBRL (artículo 25).* El Municipio, para la gestión de sus intereses
+y en el ámbito de sus competencias, «**puede promover actividades y prestar los servicios públicos
+que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal**» (25.1). Y
+«**ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y
+de las Comunidades Autónomas**», en diecisiete materias (25.2, letras a a p, con la ñ):
+
+| | |
+|---|---|
+| a) | Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística; protección y gestión del Patrimonio histórico; promoción y gestión de la vivienda de protección pública con criterios de sostenibilidad financiera; conservación y rehabilitación de la edificación |
+| b) | Medio ambiente urbano: parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas |
+| c) | «**Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales.**» |
+| d) | «**Infraestructura viaria y otros equipamientos de su titularidad.**» |
+| e) | «**Evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social.**» |
+| f) | «**Policía local, protección civil, prevención y extinción de incendios.**» |
+| g) | «**Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano.**» |
+| h) | «**Información y promoción de la actividad turística de interés y ámbito local.**» |
+| i) | «**Ferias, abastos, mercados, lonjas y comercio ambulante.**» |
+| j) | «**Protección de la salubridad pública.**» |
+| k) | «**Cementerios y actividades funerarias.**» |
+| l) | «**Promoción del deporte e instalaciones deportivas y de ocupación del tiempo libre.**» |
+| m) | «**Promoción de la cultura y equipamientos culturales.**» |
+| n) | Participar en la vigilancia del cumplimiento de la escolaridad obligatoria y cooperar en la obtención de solares para nuevos centros docentes; conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de educación infantil, primaria o especial |
+| ñ) | Promoción en su término de la participación de los ciudadanos en el uso eficiente y sostenible de las tecnologías de la información y las comunicaciones |
+| o) | «**Actuaciones en la promoción de la igualdad entre hombres y mujeres así como contra la violencia de género.**» |
+| p) | Promoción y participación en comunidades ciudadanas de energía y comunidades de energías renovables, e impulso de actuaciones de transición energética «**tales como la eficiencia energética, la electrificación y el fomento del autoconsumo**» |
+
+*Qué cambió en el artículo 25.* Tiene seis redacciones. Las tres últimas: la letra o) la añadió el
+Real Decreto-ley 9/2018, de 3 de agosto (en vigor desde el 05-08-2018); el apartado 6 (el
+principio de diferenciación), el Real Decreto-ley 6/2023 (desde el 21-12-2023); y la letra p), el
+Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a
+la Crisis en Oriente Medio, en vigor desde el 22-03-2026 y convalidado por el Congreso el
+26-03-2026.
+
+El resto del artículo 25: las competencias municipales en esas materias «**se determinarán por
+Ley**», que evaluará la conveniencia de implantar servicios locales conforme a los principios de
+descentralización, eficiencia, estabilidad y sostenibilidad financiera (25.3), irá acompañada de
+una memoria económica (25.4) y garantizará que no se atribuye simultáneamente la misma competencia
+a otra Administración (25.5). Y 25.6: antes de atribuir competencias a los municipios, «**de acuerdo
+con el principio de diferenciación, deberá realizarse una ponderación específica de la capacidad
+de gestión de la entidad local**».
+
+*Los servicios obligatorios (LBRL, artículo 26.1).* «**Los Municipios deberán prestar, en todo
+caso, los servicios siguientes**», por tramos de población, acumulativos:
+
+| Municipios | Servicios |
+|---|---|
+| Todos (a) | «**alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas**» |
+| Con población superior a 5.000 habitantes, además (b) | «**parque público, biblioteca pública y tratamiento de residuos**» |
+| Con población superior a 20.000 habitantes, además (c) | «**protección civil, evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público**» |
+| Con población superior a 50.000 habitantes, además (d) | «**transporte colectivo urbano de viajeros y medio ambiente urbano**» |
+
+*La coordinación de la Diputación en los municipios de menos de 20.000 habitantes (LBRL,
+artículo 26.2).* En ellos, «**será la Diputación provincial o entidad equivalente la que
+coordinará la prestación de los siguientes servicios**»: a) recogida y tratamiento de residuos;
+b) abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales; c)
+limpieza viaria; d) acceso a los núcleos de población; e) pavimentación de vías urbanas; f)
+alumbrado público. Seis servicios. Para coordinarlos, la Diputación propone, con la conformidad
+de los municipios afectados, la forma de prestación: prestación directa por la Diputación o
+fórmulas de gestión compartida (consorcios, mancomunidades u otras). Si el municipio justifica que
+puede prestarlos con un coste efectivo menor, podrá asumir su prestación y coordinación si la
+Diputación lo considera acreditado; si los presta la Diputación, repercute a los municipios el
+coste efectivo en función de su uso.
+
+*Incisos anulados del artículo 26.2.* El texto consolidado reproduce la redacción de la Ley
+27/2013, según la cual la Diputación proponía la forma de prestación «al Ministerio de Hacienda y
+Administraciones Públicas», y añadía: «Para reducir los costes efectivos de los servicios el
+mencionado Ministerio decidirá sobre la propuesta formulada que deberá contar con el informe
+preceptivo de la Comunidad Autónoma si es la Administración que ejerce la tutela financiera.» Los
+dos incisos no están en vigor: la STC 111/2016, de 9 de junio, los declaró inconstitucionales
+y nulos. Queda que la Diputación propone la forma de prestación, con la conformidad de los
+municipios afectados, y desaparece la decisión del Ministerio.
+
+*La delegación (LBRL, artículo 27).* El Estado y las Comunidades Autónomas «**podrán delegar en los
+Municipios el ejercicio de sus competencias**». La delegación ha de mejorar la eficiencia de la
+gestión pública, contribuir a eliminar duplicidades y ser acorde con la legislación de estabilidad
+presupuestaria; determinará su alcance, contenido, condiciones y duración, que «**no podrá ser
+inferior a cinco años**», y irá acompañada de una memoria económica. El 27.3 enumera quince
+competencias delegables (letras a a o), entre ellas la vigilancia y control de la contaminación
+ambiental, la prestación de los servicios sociales, las escuelas infantiles de primer ciclo de
+titularidad pública, la inspección y sanción de establecimientos comerciales, la promoción y
+gestión turística y la liquidación y recaudación de tributos propios de la Comunidad o del Estado.
+«**La efectividad de la delegación requerirá su aceptación por el Municipio interesado.**» (27.5),
+y ha de ir acompañada de la financiación correspondiente, «**siendo nula sin dicha dotación**»
+(27.6).
+
+*La gestión colaborativa (LBRL, artículo 28).* En municipios determinados «**de menos de 20.000
+habitantes**» podrán establecerse sistemas de gestión colaborativa para garantizar los recursos
+suficientes para sus competencias y la prestación de los servicios mínimos obligatorios; su
+aplicación requiere decisión de la Comunidad Autónoma, con la conformidad previa del municipio
+afectado. *Qué cambió: el artículo 28 estaba suprimido; el Real Decreto-ley 6/2023 le dio este
+contenido desde el 21-12-2023.*
+
+*Las competencias en el Estatuto de Andalucía (artículo 92).* «**El Estatuto garantiza a los
+municipios un núcleo competencial propio que será ejercido con plena autonomía con sujeción sólo a
+los controles de constitucionalidad y legalidad.**» (92.1). Y 92.2: «**Los Ayuntamientos tienen
+competencias propias sobre las siguientes materias, en los términos que determinen las
+leyes**»; son quince letras, de la a) a la ñ):
+
+- a) «**Ordenación, gestión, ejecución y disciplina urbanística.**»
+- b) «**Planificación, programación y gestión de viviendas y participación en la planificación de
+  la vivienda de protección oficial.**»
+- c) «**Gestión de los servicios sociales comunitarios.**»
+- d) «**Ordenación y prestación de los siguientes servicios básicos: abastecimiento de agua y
+  tratamiento de aguas residuales; alumbrado público; recogida y tratamiento de residuos;
+  limpieza viaria; prevención y extinción de incendios y transporte público de viajeros.**»
+- e) «**Conservación de vías públicas urbanas y rurales.**»
+- f) «**Ordenación de la movilidad y accesibilidad de personas y vehículos en las vías
+  urbanas.**»
+- g) y h) Cooperación con otras Administraciones públicas para la promoción, defensa y
+  protección del patrimonio histórico y artístico andaluz (g) y del medio ambiente y de la salud
+  pública (h).
+- i) «**La regulación de las condiciones de seguridad en las actividades organizadas en espacios
+  públicos y en los lugares de concurrencia pública.**»
+- j) «**Defensa de usuarios y consumidores.**»
+- k) «**Promoción del turismo.**»
+- l) «**Promoción de la cultura, así como planificación y gestión de actividades culturales.**»
+- m) «**Promoción del deporte y gestión de equipamientos deportivos de uso público.**»
+- n) «**Cementerio y servicios funerarios.**»
+- ñ) «**Las restantes materias que con este carácter sean establecidas por las leyes.**»
+
+Transferencia y delegación (artículo 93.1 del Estatuto): se regulará «**Por ley, aprobada por
+mayoría absoluta**», siempre con la necesaria suficiencia financiera y de acuerdo con los
+principios de legalidad, responsabilidad, transparencia, coordinación y lealtad institucional,
+quedando en el ámbito de la Junta de Andalucía la planificación y control.
+
+*Las competencias en la LAULA.* Las competencias de municipios y provincias «**se determinarán por
+ley**» (artículo 6.1), y las que determina la LAULA «**tienen la consideración de propias y
+mínimas, y podrán ser ampliadas por las leyes sectoriales**» (6.2). Tiene una cláusula general
+(artículo 8): los municipios andaluces tienen competencia para ejercer su iniciativa en la
+ordenación y ejecución de cualesquiera actividades y servicios públicos que contribuyan a
+satisfacer las necesidades de la comunidad municipal, «**siempre que no estén atribuidas a otros
+niveles de gobierno**».
+
+El artículo 9 enumera las competencias propias de los municipios andaluces en veintiocho
+apartados, cada uno con sus letras. Por materias: 1, urbanismo; 2, vivienda; 3, servicios
+sociales comunitarios; 4, ciclo integral del agua de uso urbano; 5, alumbrado público; 6, recogida
+y tratamiento de residuos sólidos urbanos; 7, limpieza viaria; 8, transporte público urbano de
+personas; 9, caminos, vías pecuarias o vías verdes que discurran por suelo urbanizable; 10,
+movilidad y accesibilidad en vías urbanas; 11, catálogos urbanísticos y planes de protección del
+patrimonio histórico y artístico; 12, medio ambiente; 13, salud pública; 14, seguridad en
+actividades en espacios públicos y lugares de concurrencia pública; 15, defensa de personas
+usuarias y consumidoras; 16, turismo; 17, cultura; 18, deporte; 19, cementerios y servicios
+funerarios; 20, educación; 21, fomento del desarrollo económico y social; 22, actividades
+económicas y empresariales; 23, mercadillos; 24, mercados de abastos; 25, eventos o exposiciones
+menores de promoción de productos singulares; 26, participación ciudadana y acceso a las nuevas
+tecnologías; 27, medios para los juzgados de paz; 28, acreditación del arraigo y de la adecuación
+de la vivienda para la integración y el reagrupamiento familiar de inmigrantes.
+
+*Qué cambió en el artículo 9 de la LAULA:* la disposición final segunda de la Ley 2/2026, de 12
+de marzo, para la Gestión Ambiental de Andalucía, en vigor en esa parte desde el 20-06-2026,
+reescribió dos letras del apartado 12 (medio ambiente). La letra a) atribuye ahora «**La gestión
+del procedimiento de licencia ambiental, así como la vigilancia, control y ejercicio de la
+potestad sancionadora con respecto a las actividades sometidas a dicho instrumento y a la
+declaración responsable de los efectos ambientales.**» (antes hablaba del procedimiento de
+«calificación ambiental»). Y la letra f), sobre ruidos y vibraciones, se refiere ahora a las
+actividades no sometidas a «**autorización ambiental integrada, autorización ambiental unificada
+o autorización ambiental unificada simplificada**».
+
+### La provincia: organización y competencias
+
+#### Qué es
+
+- Constitución, artículo 141.1: «**La provincia es una entidad local con personalidad jurídica
+  propia, determinada por la agrupación de municipios y división territorial para el cumplimiento
+  de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser
+  aprobada por las Cortes Generales mediante ley orgánica.**» 141.2: «**El gobierno y la
+  administración autónoma de las provincias estarán encomendados a Diputaciones u otras
+  Corporaciones de carácter representativo.**» 141.3: «**Se podrán crear agrupaciones de
+  municipios diferentes de la provincia.**» 141.4: «**En los archipiélagos, las islas tendrán
+  además su administración propia en forma de Cabildos o Consejos.**»
+- LBRL, artículo 31.1: «**La Provincia es una entidad local determinada por la agrupación de
+  Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus
+  fines.**» 31.2: son sus fines propios y específicos «**garantizar los principios de solidaridad
+  y equilibrio intermunicipales, en el marco de la política económica y social**», y en
+  particular asegurar la prestación integral y adecuada en todo el territorio provincial de los
+  servicios de competencia municipal y participar en la coordinación de la Administración local
+  con la autonómica y la del Estado. 31.3: su gobierno y administración autónoma corresponden «**a
+  la Diputación u otras Corporaciones de carácter representativo**».
+- Estatuto, artículo 96.1 y 96.2: la provincia es una entidad local con personalidad jurídica
+  propia, determinada por la agrupación de municipios; la alteración de sus límites, por ley
+  orgánica de las Cortes; y «**El gobierno y la administración autónoma de la provincia
+  corresponden a la Diputación, como órgano representativo de la misma.**»
+- LAULA, artículo 3.3: su principal función es garantizar el ejercicio de las competencias
+  municipales y facilitar la articulación de las relaciones de los municipios entre sí y con la
+  Comunidad Autónoma.
+
+La Constitución da a la provincia dos caras: entidad local y «**división territorial para el
+cumplimiento de las actividades del Estado**». La segunda no aparece en el Estatuto ni en la LBRL.
+
+#### La organización provincial (LBRL, artículos 32 a 35)
+
+*Órganos (artículo 32).* «**El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno
+existen en todas las Diputaciones.**» Existen también en todas órganos de estudio, informe o
+consulta de los asuntos del Pleno y de seguimiento de la gestión, salvo que la legislación
+autonómica prevea otra forma organizativa, con participación de todos los grupos políticos en
+proporción a sus Diputados. El resto de órganos complementarios los establecen las propias
+Diputaciones, y las leyes autonómicas pueden prever una organización provincial complementaria.
+
+*El Pleno (artículo 33).* «**El Pleno de la Diputación está constituido por el Presidente y los
+Diputados.**» Le corresponden en todo caso (33.2, letras a a o, con la l y la n derogadas), entre
+otras: «**La organización de la Diputación.**»; «**La aprobación de las ordenanzas.**»; la
+aprobación y modificación de los Presupuestos y la aprobación provisional de las cuentas; «**La
+aprobación de los planes de carácter provincial.**»; «**El control y la fiscalización de los
+órganos de gobierno.**»; la plantilla, la relación de puestos de trabajo y las retribuciones
+complementarias fijas y periódicas. También la votación de la moción de censura al Presidente y
+de la cuestión de confianza (33.3). No puede delegar las de las letras a), b), c), d), e), f), h)
+y ñ) del 33.2 ni las del 33.3; las demás puede delegarlas en el Presidente y en la que el 33.4
+todavía llama «Comisión de Gobierno».
+
+*El Presidente (artículo 34).* Le corresponde en todo caso, entre otras: «**Dirigir el gobierno y
+la administración de la provincia.**»; «**Representar a la Diputación.**»; convocar y presidir
+el Pleno y la Junta de Gobierno y decidir los empates con voto de calidad; «**Asegurar la gestión
+de los servicios propios de la Comunidad Autónoma cuya gestión ordinaria esté encomendada a la
+Diputación.**»; y la jefatura superior de todo el personal. Nombra a los Vicepresidentes (34.3).
+
+*La Junta de Gobierno (artículo 35).* «**La Junta de Gobierno se integra por el Presidente y un
+número de Diputados no superior al tercio del número legal de los mismos, nombrados y separados
+libremente por aquél, dando cuenta al Pleno.**» Asiste al Presidente y ejerce las atribuciones
+que éste le delegue o le atribuyan las leyes. Los Vicepresidentes sustituyen al Presidente por el
+orden de su nombramiento y los designa éste entre los miembros de la Junta de Gobierno.
+
+| | Municipio | Provincia |
+|---|---|---|
+| Órgano de gobierno | Ayuntamiento | Diputación |
+| Presidencia | Alcalde | Presidente |
+| Sustitutos | Tenientes de Alcalde | Vicepresidentes |
+| Órgano colegiado reducido | Junta de Gobierno Local, no más de un tercio del número legal de Concejales, más el Alcalde | Junta de Gobierno, no más de un tercio del número legal de Diputados, más el Presidente |
+| ¿Existe siempre? | La Junta de Gobierno Local, sólo en los de más de 5.000 habitantes y en los de menos si se decide | La Junta de Gobierno, en todas las Diputaciones |
+
+#### Las competencias provinciales
+
+*En la LBRL (artículo 36.1).* Son competencias propias de la Diputación las que le atribuyan en ese
+concepto las leyes del Estado y de las Comunidades Autónomas «**y, en todo caso, las
+siguientes**» (nueve letras, a a i):
+
+- a) La coordinación de los servicios municipales entre sí para la garantía de la prestación
+  integral y adecuada.
+- b) «**La asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente
+  los de menor capacidad económica y de gestión.**» «**En todo caso garantizará en los municipios
+  de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.**»
+- c) La prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal.
+  En particular, asumirá la prestación de los servicios «**de tratamiento de residuos en los
+  municipios de menos de 5.000 habitantes, y de prevención y extinción de incendios en los de
+  menos de 20.000 habitantes, cuando éstos no procedan a su prestación**».
+- d) La cooperación en el fomento del desarrollo económico y social y en la planificación en el
+  territorio provincial.
+- e) Las funciones de coordinación del artículo 116 bis.
+- f) Asistencia en la gestión de la recaudación tributaria y apoyo a la gestión financiera de los
+  municipios «**con población inferior a 20.000 habitantes**».
+- g) «**La prestación de los servicios de administración electrónica y la contratación
+  centralizada en los municipios con población inferior a 20.000 habitantes.**»
+- h) El seguimiento de los costes efectivos de los servicios prestados por los municipios de su
+  provincia.
+- i) La coordinación, mediante convenio con la Comunidad Autónoma, del mantenimiento y limpieza de
+  los consultorios médicos «**en los municipios con población inferior a 5000 habitantes**».
+
+Para ello (36.2), la Diputación «**Aprueba anualmente un plan provincial de cooperación a las obras
+y servicios de competencia municipal, en cuya elaboración deben participar los Municipios de la
+Provincia**»; y la Comunidad Autónoma asegura en su territorio la coordinación de los diversos
+planes provinciales. Si la Diputación detecta que los costes efectivos de los servicios
+municipales son superiores a los de los servicios coordinados o prestados por ella, «**incluirá
+en el plan provincial fórmulas de prestación unificada o supramunicipal para reducir sus costes
+efectivos**» (36.2.a, párrafo segundo). La STC 111/2016, de 9 de junio, no anuló ese párrafo ni la
+letra g) del 36.1, pero declaró que «**no son inconstitucionales interpretados en los términos de
+los fundamentos jurídicos 11 y 12 c), respectivamente, de esta Sentencia**».
+
+Y la coordinación del artículo 26.2 (seis servicios en los municipios de menos de 20.000
+habitantes), vista en «El municipio».
+
+*Delegación en la Diputación (LBRL, artículo 37).* Las Comunidades Autónomas podrán delegar
+competencias en las Diputaciones y encomendarles la gestión ordinaria de servicios propios, en
+cuyo caso las Diputaciones actúan «**con sujeción plena a las instrucciones generales y
+particulares de las Comunidades**». El Estado, previa consulta e informe de la Comunidad
+Autónoma, podrá delegar en ellas «**competencias de mera ejecución cuando el ámbito provincial sea
+el más idóneo para la prestación de los correspondientes servicios**».
+
+*En el Estatuto de Andalucía (artículo 96.3 y 96.4).* Tres grupos de competencias de la
+Diputación:
+
+- a) «**La gestión de las funciones propias de la coordinación municipal, asesoramiento,
+  asistencia y cooperación con los municipios, especialmente los de menor población que requieran
+  de estos servicios, así como la posible prestación de algunos servicios supramunicipales, en los
+  términos y supuestos que establezca la legislación de la Comunidad Autónoma.**»
+- b) Las que, para el fomento y la administración de los intereses peculiares de la provincia, le
+  atribuyan la legislación básica del Estado y la autonómica de desarrollo.
+- c) «**Las que pueda delegarle para su ejercicio la Comunidad Autónoma, siempre bajo la dirección
+  y el control de ésta.**»
+
+La Junta de Andalucía coordinará la actuación de las Diputaciones en esas materias cuando sean de
+interés general para Andalucía; la apreciación del interés general y las fórmulas de coordinación
+se establecerán «**por una ley aprobada por mayoría absoluta del Parlamento de Andalucía**». «**En
+todo caso, la Comunidad Autónoma coordinará los planes provinciales de obras y servicios.**»
+
+*En la LAULA (artículos 11 a 15).* La provincia presta a los municipios asistencia de tres tipos
+(artículo 11.1): técnica, económica y material. «**La asistencia provincial podrá ser obligatoria,
+cuando la provincia deba prestarla a solicitud de los municipios, o concertada.**» (11.2).
+
+- Asistencia técnica (artículo 12.1): diez letras (a a j), entre ellas la elaboración y
+  disciplina del planeamiento urbanístico, los pliegos de contratación, la redacción de ordenanzas
+  y reglamentos, la administración electrónica, el asesoramiento jurídico, técnico y económico
+  «**incluida la representación y defensa jurídica en vía administrativa y jurisdiccional**», la
+  formación y selección del personal y la integración de la igualdad de género en las políticas
+  municipales. Con atención preferente a los municipios de menor población y de insuficiente
+  capacidad económica y de gestión.
+- Asistencia económica (artículo 13): la provincia asiste económicamente a los municipios para
+  inversiones, actividades y servicios; los planes y programas se regulan por norma provincial, y
+  su elaboración pasa por varias fases con participación de los ayuntamientos, entre cuyos
+  criterios «**se incluirá el apoyo preferente a los municipios de menor población**».
+- Asistencia material (artículo 14): la provincia prestará los servicios básicos municipales en
+  caso de incapacidad o insuficiencia de un municipio, cuando éste lo solicite; y prestará
+  obligatoriamente, a petición del municipio, al menos cinco servicios: a) «**Inspección, gestión
+  y recaudación de tributos.**»; b) «**Disciplina urbanística y ambiental.**»; c) «**Disciplina del
+  personal funcionario y laboral.**»; d) «**Representación y defensa judicial.**»; e) «**Suplencias
+  en el ejercicio de funciones públicas necesarias de secretaría, intervención y tesorería en
+  municipios menores de cinco mil habitantes.**» Si un municipio incumple su obligación de prestar
+  los servicios básicos, la diputación, «**previo requerimiento, actuará por sustitución**»
+  (14.3).
+- Competencias materiales propias (artículo 15): tres. «**Carreteras provinciales.**», «**Los
+  archivos de interés provincial.**» y «**Los museos e instituciones culturales de interés
+  provincial.**»
+
+## Normativa que el tema invoca
+
+| Norma | Identificador | Redacción |
+| --- | --- | --- |
+| Constitución Española, de 27 de diciembre de 1978 | `BOE-A-1978-31229` | Vigente el 24/09/2026; cuatro artículos con dos redacciones (13, 49, 69 y 135) |
+| Reforma del artículo 13, apartado 2, de la Constitución Española, de 27 de agosto de 1992 | `BOE-A-1992-20403` | Leída en su texto; en vigor el 28/08/1992 |
+| Reforma del artículo 135 de la Constitución Española, de 27 de septiembre de 2011 | `BOE-A-2011-15210` | Leída en su texto, con su disposición adicional única; en vigor el 27/09/2011 |
+| Reforma del artículo 49 de la Constitución Española, de 15 de febrero de 2024 | `BOE-A-2024-3099` | Leída en su texto; en vigor el 17/02/2024 |
+| Reforma del apartado 3 del artículo 69 de la Constitución Española, a los efectos de que la isla de Formentera elija un senador propio, de 19 de mayo de 2026 | `BOE-A-2026-10881` | Leída en su texto, con su disposición transitoria única; en vigor el 20/05/2026 |
+| Real Decreto 2560/1978, de 3 de noviembre, por el que se somete a Referéndum de la Nación el proyecto de Constitución | `BOE-A-1978-27525` | Artículos 1 a 3; sólo como dato histórico |
+| Acuerdo de la Junta Electoral Central por el que se hace público el resumen de la votación en el Referéndum Constitucional | `BOE-A-1978-30906` | Sólo se nombra |
+| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Vigente el 24/09/2026; los artículos citados (1, 2, 4, 42, 60, 89 a 98, 108 y preámbulo) conservan la redacción de 2007 |
+| Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | `BOE-A-1985-5392` | Vigente el 24/09/2026; última modificación citada: Real Decreto-ley 7/2026 (art. 25.2.p, desde el 22/03/2026) |
+| Real Decreto-ley 6/2023, de 19 de diciembre | `BOE-A-2023-25758` | Como norma modificadora de los artículos 13, 25 y 28 de la Ley 7/1985 (desde el 21/12/2023); convalidado (`BOE-A-2024-665`) |
+| Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio | `BOE-A-2026-6544` | Como norma modificadora del artículo 25 de la Ley 7/1985 (desde el 22/03/2026); convalidado (`BOE-A-2026-7125`) |
+| Real Decreto-ley 9/2018, de 3 de agosto | `BOE-A-2018-11135` | Como norma modificadora del artículo 25 de la Ley 7/1985 (letra o); sólo se nombra |
+| Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local | `BOE-A-2013-13756` | Como norma modificadora de la Ley 7/1985; sólo se nombra |
+| Sentencia del Tribunal Constitucional 103/2013, de 25 de abril | `BOE-A-2013-5446` | Fallo y fundamento jurídico 6: nulidad del inciso del artículo 126.2 de la Ley 7/1985 |
+| Sentencia del Tribunal Constitucional 111/2016, de 9 de junio | `BOE-A-2016-6839` | Fallo: nulidad de dos incisos del artículo 26.2 e interpretación conforme de los artículos 36.1.g) y 36.2.a), párrafo segundo, de la Ley 7/1985 |
+| Ley 5/2010, de 11 de junio, de autonomía local de Andalucía | `BOE-A-2010-11491` | Vigente el 24/09/2026; el artículo 9 en la redacción de la Ley 2/2026 (desde el 20/06/2026) |
+| Ley 2/2026, de 12 de marzo, para la Gestión Ambiental de Andalucía | `BOE-A-2026-7558` | Disposición final segunda, como norma modificadora del artículo 9.12 de la Ley 5/2010 |
+| Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas | `BOE-A-1982-11584` | Vigente el 24/09/2026; artículo 30 en la redacción de la Ley Orgánica 2/2024 (desde el 22/08/2024) |
+| Ley Orgánica 3/2015, de 30 de marzo, de control de la actividad económico-financiera de los Partidos Políticos | `BOE-A-2015-3441` | Como norma modificadora de la Ley Orgánica 2/1982 |
+| Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres | `BOE-A-2024-15936` | Como norma modificadora del artículo 30 de la Ley Orgánica 2/1982 |
+| Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo | `BOE-A-1981-10325` | Vigente el 24/09/2026; artículos 2 y 10 en la redacción de la Ley Orgánica 2/1992 (desde el 26/03/1992) |
+| Ley Orgánica 2/1992, de 5 de marzo, de modificación de la Ley Orgánica 3/1981 | `BOE-A-1992-5304` | Como norma modificadora |
+
+## Lo que este tema no da, y dónde está
+
+- La organización institucional de Andalucía (Parlamento, Presidencia de la Junta, Consejo de
+  Gobierno, Tribunal Superior de Justicia, Defensor del Pueblo Andaluz, Cámara de Cuentas),
+  la estructura y el contenido del Estatuto, las competencias de la Comunidad y la reforma del
+  Estatuto (artículos 248 a 250): son el punto 2 del temario común. Aquí sólo se da la
+  organización territorial (Título III del Estatuto), la clasificación de competencias del
+  artículo 42 y la competencia en régimen local del artículo 60.
+- Las leyes orgánicas de desarrollo que la Constitución anuncia y que el enunciado no nombra:
+  Régimen Electoral General (número de Diputados, reparto por provincias, la adaptación del
+  Senado a la reforma de 2026), Tribunal Constitucional, Poder Judicial, Consejo de Estado,
+  estados de alarma, excepción y sitio, referéndum, iniciativa legislativa popular y financiación
+  de las Comunidades Autónomas. El tema da lo que dice la Constitución y remite a ellas sin
+  estudiarlas. Por eso tampoco da el número de Diputados ni la composición actual del Senado,
+  que no fija la Constitución.
+- La ley de funcionamiento del Tribunal de Cuentas y el procedimiento de tramitación de las
+  quejas ante el Defensor del Pueblo más allá de los artículos citados.
+- El régimen electoral local, las haciendas locales y el régimen de funcionamiento de los
+  órganos locales (sesiones, quórum, acuerdos), el estatuto de los miembros de las
+  corporaciones y el resto del título X de la LBRL (Consejo Social de la ciudad, asesoría
+  jurídica, órganos directivos): no los pide el enunciado.
+- La aplicación del artículo 155 en Cataluña (2017-2018): es un hecho de aplicación, no
+  texto normativo, y no se ha comprobado en las fuentes de este tema.
+- La Unión Europea, a la que remiten los artículos 93 y 135: es el punto 3 del temario común.
+- La organización y el control parlamentario de la RTVA (artículo 20.3) y la normativa
+  audiovisual (artículo 149.1.27.ª): puntos 5 y 4 del temario común.
+
+## Trazabilidad
+
+| | |
+| --- | --- |
+| Norma principal | Constitución Española, de 27 de diciembre de 1978 |
+| Identificador | `BOE-A-1978-31229` |
+| Publicación | BOE núm. 311, de 29 de diciembre de 1978 |
+| Entrada en vigor | 29 de diciembre de 1978 (disposición final) |
+| Redacción leída | La vigente el 24 de septiembre de 2026, en el texto consolidado del BOE, para todas las normas del tema |
+
+Comprobaciones hechas sobre la fuente:
+
+1. Constitución: 169 artículos y 15 disposiciones leídos en su redacción vigente el 24 de
+   septiembre de 2026. Cuatro preceptos con dos redacciones (13, 49, 69 y 135), sin aviso de
+   reforma cruzada. Las cuatro reformas, y el Real Decreto 2560/1978, leídas en el texto
+   publicado en el diario oficial.
+2. Reforma de 2026 del artículo 69.3: leída con su disposición transitoria única, que pospone
+   la eficacia de las circunscripciones separadas de Ibiza y Formentera a las primeras elecciones
+   al Senado posteriores.
+3. Estatuto de Autonomía para Andalucía: todos los preceptos citados tienen una sola
+   redacción (la de 2007).
+4. Ley 7/1985: comprobadas las cadenas de redacciones de los artículos 13 (cuatro), 25 (seis)
+   y 28 (tres), y el texto anterior a los últimos cambios. Los incisos anulados de los artículos
+   26.2 y 126.2 se han identificado en el XML del texto consolidado (donde van marcados) y en los
+   fallos de las sentencias; el texto consolidado los reproduce sin que tengan vigencia.
+5. Ley 5/2010: el artículo 9 tiene dos redacciones; la vigente desde el 20 de junio de 2026.
+6. Leyes Orgánicas 2/1982 y 3/1981: leídos en su redacción vigente los artículos citados; el
+   artículo 30 de la Ley Orgánica 2/1982, en la redacción vigente desde el 22 de agosto de 2024.
+7. Negritas: comprobadas una a una contra el texto de las fuentes; lo que va en negrita está
+   literal en ellas, salvo las siglas.

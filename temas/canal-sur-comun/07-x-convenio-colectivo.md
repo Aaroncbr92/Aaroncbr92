@@ -1487,3 +1487,63 @@ Al reincorporarse de una reducción de jornada hay que preavisar «**con quince 
 | Horas de los delegados de prevención | 20 horas retribuidas al mes (art. 26) | — |
 | Asambleas | Hasta 8 horas anuales en jornada (art. 62) | — |
 
+### Contraste con el Estatuto de los Trabajadores vigente
+
+El convenio es de 2014 y el ET ha cambiado mucho después en permisos, nacimiento y conciliación.
+Este epígrafe pone **los dos textos uno al lado del otro, con su precepto**, solo donde la
+diferencia está escrita. **No decide cuál prevalece**: el artículo 6 del convenio dice que sus
+normas se aplican «**con carácter prioritario y preferente respecto a cualquier otra disposición o
+norma legal**», y la relación entre ley y convenio es una cuestión que este tema no estudia.
+
+Redacciones del ET leídas el 24 de septiembre de 2026: **artículo 37**, quince redacciones, la
+vigente desde el 3 de marzo de 2025 (Ley 6/2024, de 20 de diciembre, que añadió la segunda letra
+g del apartado 3); **artículo 48**, ocho redacciones, la vigente desde el 31 de julio de 2025 (Real
+Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado,
+convalidado por Resolución de 9 de septiembre de 2025 del Congreso de los Diputados); **artículo
+46**, tres redacciones, la vigente desde el 30 de junio de 2023 (Real Decreto-ley 5/2023, de 28 de
+junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacción.
+
+**Permisos retribuidos**
+
+| Convenio (2014) | ET vigente |
+| --- | --- |
+| Art. 33.A.1.a: «**20 días naturales en caso de matrimonio del/la trabajador/a**». Art. 33.F: las parejas de hecho tienen los mismos beneficios con «**una convivencia de al menos seis meses**» | Art. 37.3.a: «**Quince días naturales en caso de matrimonio o registro de pareja de hecho.**» |
+| Art. 33.A.1.b: «**3 días naturales**» por nacimiento, adopción, «**enfermedad grave u hospitalización que demande ayuda inminente**» o fallecimiento de parientes hasta el segundo grado; «**5 días**» con desplazamiento | Art. 37.3.b: «**Cinco días por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el segundo grado por consanguineidad o afinidad, incluido el familiar consanguíneo de la pareja de hecho, así como de cualquier otra persona distinta de las anteriores, que conviva con la persona trabajadora en el mismo domicilio y que requiera el cuidado efectivo de aquella.**» Art. 37.3.b bis: «**Dos días por el fallecimiento del cónyuge, pareja de hecho o parientes hasta el segundo grado de consanguinidad o afinidad. Cuando con tal motivo la persona trabajadora necesite hacer un desplazamiento al efecto, el plazo se ampliará en dos días.**» El nacimiento no figura en el artículo 37.3: está en el 48.4 |
+| Art. 33.A.1.c: «**2 días por traslado de domicilio habitual**» (DT 3.ª A: un día) | Art. 37.3.c: «**Un día por traslado del domicilio habitual.**» |
+| Art. 33.A.1.d: deber inexcusable «**de carácter público o personal**» | Art. 37.3.d: deber inexcusable «**de carácter público y personal, comprendido el ejercicio del sufragio activo**» |
+| Art. 33.A.1.k: exámenes prenatales y preparación al parto | Art. 37.3.f: además, en adopción, guarda o acogimiento, «**la asistencia a las preceptivas sesiones de información y preparación**» y los informes previos a la declaración de idoneidad |
+| No lo regula | Art. 37.3.g: «**Hasta cuatro días por imposibilidad de acceder al centro de trabajo**» por limitaciones de las autoridades o riesgo grave e inminente, incluida catástrofe o fenómeno meteorológico adverso. Segunda letra g (así en el texto): actos preparatorios de la donación de órganos o tejidos. Art. 37.9: ausencia por fuerza mayor familiar, con derecho a que se retribuyan las horas «**equivalentes a cuatro días al año**» |
+
+**Lactancia, prematuros y reducciones**
+
+| Convenio (2014) | ET vigente |
+| --- | --- |
+| Art. 33.A.1.g: lactancia de hijo «**menor de doce meses**»; acumulación en jornadas completas «**por decisión de la madre**»; si los dos convivientes trabajan en la empresa, «**sólo uno podrá hacer uso de este derecho**» | Art. 37.4: una hora «**para el cuidado del lactante hasta que este cumpla nueve meses**», ampliable hasta los doce si ambos lo ejercen con la misma duración y régimen, con reducción proporcional del salario desde los nueve; «**Quien ejerza este derecho, por su voluntad, podrá sustituirlo por una reducción de su jornada en media hora con la misma finalidad o acumularlo en jornadas completas**»; es «**un derecho individual de las personas trabajadoras sin que pueda transferirse su ejercicio**»; si los dos trabajan en la misma empresa, solo puede limitarse el ejercicio simultáneo «**por razones fundadas y objetivas de funcionamiento de la empresa, debidamente motivadas por escrito**», ofreciendo un plan alternativo |
+| Art. 33.A.1.b, segundo párrafo: prematuros u hospitalizados tras el parto, ausencia «**hasta un máximo de 2 horas diarias, percibiendo las retribuciones íntegras**» | Art. 37.5: ausencia «**durante una hora**» y derecho a reducir la jornada «**hasta un máximo de dos horas, con la disminución proporcional del salario**» |
+| Art. 33.D.2: guarda legal de menor de doce años o de «**un/a disminuido/a físico/a, psíquico/a o sensorial**»; familiar hasta el segundo grado; la empresa puede limitar el ejercicio simultáneo «**por razones justificadas de funcionamiento de la empresa**» | Art. 37.6: menor de doce años o «**una persona con discapacidad**»; incluye el cuidado del «**cónyuge o pareja de hecho**» y del familiar consanguíneo de la pareja de hecho; limitación del ejercicio simultáneo solo «**por razones fundadas y objetivas de funcionamiento de la empresa, debidamente motivadas por escrito**», con plan alternativo |
+| Art. 33.A.1.n: hijo con cáncer u otra enfermedad grave, reducción de al menos la mitad con retribuciones íntegras «**siempre que ambos progenitores**» trabajen, y «**como máximo, hasta que el menor cumpla los 18 años**» | Art. 37.6, párrafos tercero y siguientes: reducción de al menos la mitad «**con la disminución proporcional del salario**», «**como máximo, hasta que el hijo o persona que hubiere sido objeto de acogimiento permanente o de guarda con fines de adopción cumpla los veintitrés años**»; hasta los 26 si antes de los 23 acredita una discapacidad «**igual o superior al 65 por ciento**». La prestación que cubre el salario es de Seguridad Social, materia que este tema no estudia |
+| Art. 33.A.1.m: «**Permiso por razón de violencia de género sobre la mujer trabajadora**» | Art. 37.8: «**Las personas trabajadoras que tengan la consideración de víctimas de violencia de género, de violencia sexual o de víctimas del terrorismo**», con derecho también a trabajar total o parcialmente a distancia o a dejar de hacerlo |
+
+**Nacimiento, adopción y cuidado del menor**
+
+| Convenio (2014) | ET vigente |
+| --- | --- |
+| Art. 33.A.1.h: suspensión de «**dieciséis semanas ininterrumpidas**» en adopción, nacimiento y acogimiento, distribuible entre madre y padre si trabajan los dos; después, «**un permiso retribuido de cuatro semanas adicionales**» para un progenitor | Art. 48.4: el nacimiento suspende el contrato «**de la madre biológica y el del progenitor distinto de la madre biológica durante diecinueve semanas**»; «**En el supuesto de monoparentalidad, por existir una única persona progenitora, el periodo de suspensión será de treinta y dos semanas.**» Art. 48.5: adopción, guarda con fines de adopción y acogimiento, «**diecinueve semanas para cada adoptante, guardador o acogedor**» |
+| Art. 33.A.1.i: «**15 días consecutivos**» para el padre o el otro progenitor | Art. 48.4: las diecinueve semanas son también del progenitor distinto de la madre biológica; «**Este derecho es individual de la persona trabajadora sin que pueda transferirse su ejercicio al otro progenitor.**» |
+| Art. 33.A.1.b, segundo párrafo: en prematuros u hospitalizados, el permiso de maternidad puede computarse desde el alta, excluidas «**las primeras seis semanas posteriores al parto, de descanso obligatorio para la madre**» | Art. 48.4: el cómputo desde el alta puede hacerse «**a instancia de la madre biológica o del otro progenitor**»; y si la hospitalización supera siete días, la suspensión se amplía en los días de hospitalización «**con un máximo de trece semanas adicionales**» |
+| Art. 33.A.1.h, último párrafo: «**En caso de fallecimiento de la madre durante el permiso, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» | Art. 48.4: «**En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» |
+| Art. 33.A.1.i: adopción internacional, la suspensión puede iniciarse «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» | Art. 48.5: igual, «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» (coinciden) |
+
+**Excedencias, vacaciones y horas extraordinarias**
+
+| Convenio (2014) | ET vigente |
+| --- | --- |
+| Art. 32.III.1: excedencia por cuidado de hijos «**no superior a seis años**»; si padre y madre están en el convenio, «**solamente uno de ellos podrá ejercer este derecho**» | Art. 46.3: «**no superior a tres años para atender al cuidado de cada hijo**»; «**constituye un derecho individual de los trabajadores y trabajadoras**»; la empresa solo puede limitar el ejercicio simultáneo por razones fundadas y objetivas motivadas por escrito, con plan alternativo. Además, excedencia por cuidado de familiar «**de duración no superior a dos años, salvo que se establezca una duración mayor por negociación colectiva**», que el artículo 32 no regula (aunque dice que las del ET se aplican «en sus propios términos») |
+| Art. 32.I: voluntaria, «**no podrá ser inferior a seis meses ni superior a diez años**»; otra, tras «**tres años de servicio efectivo**» | Art. 46.2: «**por un plazo no menor a cuatro meses y no mayor a cinco años**»; otra vez, «**si han transcurrido cuatro años desde el final de la anterior excedencia voluntaria**» |
+| Art. 13.7: las vacaciones se interrumpen por baja de IT, riesgo para la maternidad o la lactancia o permiso de maternidad o paternidad, y se reanudan con el alta. Art. 33.A.1.i: acumulables a maternidad, lactancia y paternidad «**aún habiendo expirado ya el año natural**» | Art. 38.3: si coinciden con IT por embarazo, parto o lactancia o con las suspensiones del artículo 48.4, 48.5 y 48.7, se disfrutan después «**aunque haya terminado el año natural a que correspondan**»; si coinciden con otra IT, siempre que no hayan pasado «**más de dieciocho meses a partir del final del año en que se hayan originado**» |
+| Art. 14: sin tope anual de horas extraordinarias; compensación de dos horas de descanso por hora | Art. 35.2: «**El número de horas extraordinarias no podrá ser superior a ochenta al año**»; no computan las compensadas con descanso dentro de los cuatro meses siguientes |
+
+**Donde coinciden** (sin contraste): descanso mínimo de doce horas entre jornadas (convenio, art.
+12.b.2; ET, art. 34.3); período de prueba, que el convenio remite a la normativa legal (art. 23;
+ET, art. 14); prescripción de faltas, que el convenio remite al artículo 60.2 del ET (art. 71).
+
