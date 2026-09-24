@@ -9,7 +9,7 @@
 | **Fuente** | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía; Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía; Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía; Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía; y las leyes y el Reglamento del Parlamento que se citan en «Normativa que el tema invoca» |
 | **Identificador** | `BOE-A-2007-5825` · BOE núm. 68, de 20/03/2007; `BOE-A-2006-20848`; `BOE-A-2007-19819`; `BOE-A-2024-16885` |
 | **Redacción que se estudia** | La vigente el 24/09/2026 de cada norma. El Estatuto solo ha cambiado en su artículo 178.1 (tributos cedidos, por la vía especial del 178.2) y ha perdido el artículo 51, anulado por la sentencia del Tribunal Constitucional 30/2011. El Consejo Consultivo se estudia por la Ley 2/2024, que derogó la Ley 4/2005 |
-| **Extensión** | 24.289 palabras |
+| **Extensión** | 24.652 palabras |
 
 <!-- /portada -->
 
@@ -68,6 +68,36 @@ conservan nombres ya superados y una RTVA que la ley califica de agencia públic
 empresarial sin decir de cuál de sus dos tipos.
 
 <!-- indice -->
+
+## Índice
+
+- [El Estatuto de Autonomía para Andalucía: estructura y contenido básico. Competencias de la Comunidad Autónoma. Reforma del Estatuto](#el-estatuto-de-autonomía-para-andalucía-estructura-y-contenido-básico-competencias-de-la-comunidad-autónoma-reforma-del-estatuto)
+  - [Qué norma es y desde cuándo rige](#qué-norma-es-y-desde-cuándo-rige)
+  - [Estructura](#estructura)
+  - [Contenido básico: el título preliminar](#contenido-básico-el-título-preliminar)
+  - [Contenido básico: derechos, deberes, principios rectores y garantías (título I)](#contenido-básico-derechos-deberes-principios-rectores-y-garantías-título-i)
+  - [Contenido básico: el resto de los títulos](#contenido-básico-el-resto-de-los-títulos)
+  - [Competencias de la Comunidad Autónoma: clasificación](#competencias-de-la-comunidad-autónoma-clasificación)
+  - [Competencias de la Comunidad Autónoma: las materias](#competencias-de-la-comunidad-autónoma-las-materias)
+  - [Reforma del Estatuto](#reforma-del-estatuto)
+- [a) Organización Institucional de la Comunidad Autónoma de Andalucía](#a-organización-institucional-de-la-comunidad-autónoma-de-andalucía)
+  - [El Parlamento de Andalucía. Composición, atribuciones y funcionamiento](#el-parlamento-de-andalucía-composición-atribuciones-y-funcionamiento)
+  - [Instituciones de la Comunidad: el Tribunal Superior de Justicia de Andalucía](#instituciones-de-la-comunidad-el-tribunal-superior-de-justicia-de-andalucía)
+  - [Instituciones de la Comunidad: el Defensor del Pueblo Andaluz](#instituciones-de-la-comunidad-el-defensor-del-pueblo-andaluz)
+  - [Instituciones de la Comunidad: la Cámara de Cuentas de Andalucía](#instituciones-de-la-comunidad-la-cámara-de-cuentas-de-andalucía)
+  - [Instituciones de la Comunidad: la Oficina Andaluza contra el Fraude y la Corrupción](#instituciones-de-la-comunidad-la-oficina-andaluza-contra-el-fraude-y-la-corrupción)
+  - [La Presidencia de la Junta de Andalucía: elección, estatuto personal y funciones](#la-presidencia-de-la-junta-de-andalucía-elección-estatuto-personal-y-funciones)
+  - [El Consejo de Gobierno: composición, carácter, atribuciones y funcionamiento](#el-consejo-de-gobierno-composición-carácter-atribuciones-y-funcionamiento)
+  - [Las Comisiones Delegadas y la Comisión General de Viceconsejeros y Viceconsejeras](#las-comisiones-delegadas-y-la-comisión-general-de-viceconsejeros-y-viceconsejeras)
+  - [El Consejo Consultivo de Andalucía: naturaleza, composición y funciones](#el-consejo-consultivo-de-andalucía-naturaleza-composición-y-funciones)
+- [b) La Administración de la Comunidad Autónoma de Andalucía](#b-la-administración-de-la-comunidad-autónoma-de-andalucía)
+  - [Principios de organización, actuación y atención ciudadana](#principios-de-organización-actuación-y-atención-ciudadana)
+  - [La organización central y territorial de la Administración de la Junta de Andalucía](#la-organización-central-y-territorial-de-la-administración-de-la-junta-de-andalucía)
+  - [Entidades instrumentales de la Administración de la Junta de Andalucía](#entidades-instrumentales-de-la-administración-de-la-junta-de-andalucía)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## El Estatuto de Autonomía para Andalucía: estructura y contenido básico. Competencias de la Comunidad Autónoma. Reforma del Estatuto

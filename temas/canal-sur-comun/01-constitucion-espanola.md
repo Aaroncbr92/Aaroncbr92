@@ -9,7 +9,7 @@
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 · Estatuto de Autonomía para Andalucía (Ley Orgánica 2/2007, de 19 de marzo) · Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local · Ley 5/2010, de 11 de junio, de autonomía local de Andalucía · Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas · Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 · `BOE-A-2007-5825` · `BOE-A-1985-5392` · `BOE-A-2010-11491` · `BOE-A-1982-11584` · `BOE-A-1981-10325` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Constitución lleva cuatro reformas: artículo 13.2 (1992), artículo 135 (2011), artículo 49 (2024) y artículo 69.3 (en vigor desde el 20/05/2026) |
-| **Extensión** | 34.284 palabras |
+| **Extensión** | 34.911 palabras |
 
 <!-- /portada -->
 
@@ -57,6 +57,43 @@ el umbral para crear municipios desde diciembre de 2023 y la lista de competenci
 municipales desde marzo de 2026.
 
 <!-- indice -->
+
+## Índice
+
+- [Identificación y estructura de la Constitución](#identificación-y-estructura-de-la-constitución)
+  - [Cómo se hizo y cuándo entró en vigor](#cómo-se-hizo-y-cuándo-entró-en-vigor)
+  - [El preámbulo](#el-preámbulo)
+  - [Estructura](#estructura)
+  - [Las disposiciones](#las-disposiciones)
+- [a. Valores superiores y principios inspiradores. El Estado Social y Democrático de Derecho. Derechos y deberes fundamentales. Los principios rectores de la política social y económica. Garantías y casos de suspensión. El procedimiento de reforma constitucional.](#a-valores-superiores-y-principios-inspiradores-el-estado-social-y-democrático-de-derecho-derechos-y-deberes-fundamentales-los-principios-rectores-de-la-política-social-y-económica-garantías-y-casos-de-suspensión-el-procedimiento-de-reforma-constitucional)
+  - [Valores superiores y principios inspiradores](#valores-superiores-y-principios-inspiradores)
+  - [El Estado Social y Democrático de Derecho](#el-estado-social-y-democrático-de-derecho)
+  - [Derechos y deberes fundamentales](#derechos-y-deberes-fundamentales)
+  - [Los principios rectores de la política social y económica](#los-principios-rectores-de-la-política-social-y-económica)
+  - [Garantías y casos de suspensión](#garantías-y-casos-de-suspensión)
+  - [El procedimiento de reforma constitucional](#el-procedimiento-de-reforma-constitucional)
+- [b. Órganos constitucionales. La Corona. Las Cortes Generales. El Congreso de los Diputados y el Senado: Composición y funciones. La función legislativa. El Gobierno del Estado. El Poder Judicial. El Tribunal Constitucional. El Tribunal de Cuentas y el Defensor del Pueblo.](#b-órganos-constitucionales-la-corona-las-cortes-generales-el-congreso-de-los-diputados-y-el-senado-composición-y-funciones-la-función-legislativa-el-gobierno-del-estado-el-poder-judicial-el-tribunal-constitucional-el-tribunal-de-cuentas-y-el-defensor-del-pueblo)
+  - [Órganos constitucionales](#órganos-constitucionales)
+  - [La Corona](#la-corona)
+  - [Las Cortes Generales](#las-cortes-generales)
+  - [El Congreso de los Diputados y el Senado: Composición y funciones](#el-congreso-de-los-diputados-y-el-senado-composición-y-funciones)
+  - [La función legislativa](#la-función-legislativa)
+  - [El Gobierno del Estado](#el-gobierno-del-estado)
+  - [El Poder Judicial](#el-poder-judicial)
+  - [El Tribunal Constitucional](#el-tribunal-constitucional)
+  - [El Tribunal de Cuentas y el Defensor del Pueblo](#el-tribunal-de-cuentas-y-el-defensor-del-pueblo)
+- [c. Organización territorial del Estado en la Constitución española. Las Comunidades Autónomas. Los Estatutos de Autonomía. Delimitación de las funciones y competencias del Estado y las Comunidades Autónomas. La organización territorial de la Comunidad Autónoma de Andalucía. El municipio: organización y competencias. La provincia: organización y competencias.](#c-organización-territorial-del-estado-en-la-constitución-española-las-comunidades-autónomas-los-estatutos-de-autonomía-delimitación-de-las-funciones-y-competencias-del-estado-y-las-comunidades-autónomas-la-organización-territorial-de-la-comunidad-autónoma-de-andalucía-el-municipio-organización-y-competencias-la-provincia-organización-y-competencias)
+  - [Organización territorial del Estado en la Constitución española](#organización-territorial-del-estado-en-la-constitución-española)
+  - [Las Comunidades Autónomas](#las-comunidades-autónomas)
+  - [Los Estatutos de Autonomía](#los-estatutos-de-autonomía)
+  - [Delimitación de las funciones y competencias del Estado y las Comunidades Autónomas](#delimitación-de-las-funciones-y-competencias-del-estado-y-las-comunidades-autónomas)
+  - [La organización territorial de la Comunidad Autónoma de Andalucía](#la-organización-territorial-de-la-comunidad-autónoma-de-andalucía)
+  - [El municipio: organización y competencias](#el-municipio-organización-y-competencias)
+  - [La provincia: organización y competencias](#la-provincia-organización-y-competencias)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## Identificación y estructura de la Constitución
@@ -2045,7 +2082,8 @@ asuntos de su competencia.**»
 Cortes Generales no se encuentren reunidas, hubieren sido disueltas o hubiere expirado su
 mandato**»; en esos casos se dirige a las Diputaciones Permanentes. La declaración de los estados
 de excepción o de sitio tampoco interrumpe su actividad ni el derecho de los ciudadanos a
-acceder a él.
+acceder a él, «**sin perjuicio de lo dispuesto en el artículo cincuenta y cinco de la
+Constitución**».
 
 *Las quejas (artículos quince y diecisiete).* Se presentan firmadas por el interesado, con su
 nombre, apellidos y domicilio, «**en el plazo máximo de un año, contado a partir del momento en
@@ -2720,7 +2758,7 @@ población del título X se rigen por su régimen propio (19.3).
 |---|---|
 | Alcalde, Tenientes de Alcalde y Pleno | «**El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos.**» (a) |
 | Junta de Gobierno Local | «**en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento**» (b) |
-| Órganos de estudio, informe o consulta de los asuntos del Pleno y de seguimiento de la gestión | En los municipios de más de 5.000 habitantes, y en los de menos si lo dispone el reglamento orgánico o lo acuerda el Pleno, si la legislación autonómica no prevé otra forma organizativa; todos los grupos políticos participan en proporción a sus Concejales (c) |
+| Órganos de estudio, informe o consulta de los asuntos del Pleno y de seguimiento de la gestión | En los municipios de más de 5.000 habitantes, y en los de menos si lo dispone el reglamento orgánico o lo acuerda el Pleno, si la legislación autonómica no prevé otra forma organizativa, y sin perjuicio de las competencias de control que corresponden al Pleno; todos los grupos políticos participan en proporción a sus Concejales (c) |
 | Comisión Especial de Sugerencias y Reclamaciones | En los municipios del título X, y en los demás si lo acuerda el Pleno por mayoría absoluta del número legal de sus miembros o lo dispone el reglamento orgánico (d) |
 | Comisión Especial de Cuentas | «**La Comisión Especial de Cuentas existe en todos los municipios**» (e) |
 
@@ -2733,7 +2771,8 @@ administración**» (artículo 5.2).
 *El Alcalde (LBRL, artículo 21).* «**El Alcalde es el Presidente de la Corporación**». Entre sus
 atribuciones (21.1, letras a a s, con la ñ y la p derogadas): «**Dirigir el gobierno y la
 administración municipal.**»; «**Representar al ayuntamiento.**»; convocar y presidir las
-sesiones del Pleno, de la Junta de Gobierno Local y de otros órganos, y «**decidir los empates
+sesiones del Pleno (salvo los supuestos previstos en la propia ley y en la legislación electoral
+general), de la Junta de Gobierno Local y de otros órganos, y «**decidir los empates
 con voto de calidad**»; dirigir, inspeccionar e impulsar los servicios y obras municipales;
 «**Dictar bandos.**»; aprobar la oferta de empleo público de acuerdo con el Presupuesto y la
 plantilla aprobados por el Pleno; desempeñar la jefatura superior de todo el personal; «**Ejercer
@@ -2771,7 +2810,8 @@ libremente el Alcalde entre los miembros de la Junta de Gobierno Local o, donde 
 los Concejales.
 
 *Gestión desconcentrada (LBRL, artículo 24; LAULA, artículos 109 y 113).* Los municipios podrán
-establecer órganos territoriales de gestión desconcentrada. En Andalucía, el municipio puede
+establecer órganos territoriales de gestión desconcentrada, «**sin perjuicio de la unidad de
+gobierno y gestión del municipio**». En Andalucía, el municipio puede
 organizar su término en circunscripciones territoriales «**Desconcentradas, que podrán ser
 denominadas distritos, barrios, aldeas, pedanías u otras denominaciones de análoga
 significación**» o «**Descentralizadas, que podrán ser entidades vecinales o entidades locales
@@ -3038,7 +3078,8 @@ todavía llama «Comisión de Gobierno».
 
 *El Presidente (artículo 34).* Le corresponde en todo caso, entre otras: «**Dirigir el gobierno y
 la administración de la provincia.**»; «**Representar a la Diputación.**»; convocar y presidir
-el Pleno y la Junta de Gobierno y decidir los empates con voto de calidad; «**Asegurar la gestión
+el Pleno (salvo los supuestos previstos en la propia ley y en la legislación electoral general) y
+la Junta de Gobierno y decidir los empates con voto de calidad; «**Asegurar la gestión
 de los servicios propios de la Comunidad Autónoma cuya gestión ordinaria esté encomendada a la
 Diputación.**»; y la jefatura superior de todo el personal. Nombra a los Vicepresidentes (34.3).
 
@@ -3088,8 +3129,8 @@ siguientes**» (nueve letras, a a i):
 
 Para ello (36.2), la Diputación «**Aprueba anualmente un plan provincial de cooperación a las obras
 y servicios de competencia municipal, en cuya elaboración deben participar los Municipios de la
-Provincia**»; y la Comunidad Autónoma asegura en su territorio la coordinación de los diversos
-planes provinciales. Si la Diputación detecta que los costes efectivos de los servicios
+Provincia**»; y, sin perjuicio de las competencias reconocidas en los Estatutos, la Comunidad Autónoma
+asegura en su territorio la coordinación de los diversos planes provinciales. Si la Diputación detecta que los costes efectivos de los servicios
 municipales son superiores a los de los servicios coordinados o prestados por ella, «**incluirá
 en el plan provincial fórmulas de prestación unificada o supramunicipal para reducir sus costes
 efectivos**» (36.2.a, párrafo segundo). La STC 111/2016, de 9 de junio, no anuló ese párrafo ni la
@@ -3147,8 +3188,9 @@ cuando la provincia deba prestarla a solicitud de los municipios, o concertada.*
   y recaudación de tributos.**»; b) «**Disciplina urbanística y ambiental.**»; c) «**Disciplina del
   personal funcionario y laboral.**»; d) «**Representación y defensa judicial.**»; e) «**Suplencias
   en el ejercicio de funciones públicas necesarias de secretaría, intervención y tesorería en
-  municipios menores de cinco mil habitantes.**» Si un municipio incumple su obligación de prestar
-  los servicios básicos, la diputación, «**previo requerimiento, actuará por sustitución**»
+  municipios menores de cinco mil habitantes.**» Sin perjuicio de lo dispuesto en la legislación
+  específica, si un municipio incumple su obligación de prestar los servicios básicos, la
+  diputación, «**previo requerimiento, actuará por sustitución**»
   (14.3).
 - Competencias materiales propias (artículo 15): tres. «**Carreteras provinciales.**», «**Los
   archivos de interés provincial.**» y «**Los museos e instituciones culturales de interés
