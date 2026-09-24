@@ -921,3 +921,19 @@ Los detectó la investigación del tema 4 del común de Canal Sur, leyendo la Le
   ley; se describe con su texto. **Gravedad**: menor.
 - **Dónde**: mismo tema. **Qué falta**: salvedades literales de los arts. 4.2, 5.2, 9.1, 15.5, 33.2 y
   99.6. **Gravedad**: induce a error.
+
+## `boe.py norma` pierde la marca de los incisos anulados — ABIERTO 2026-09-24
+
+- **Dónde**: `herramientas/boe.py`, volcado de normas (`norma`).
+- **Qué hace hoy**: el BOE marca en negrita, dentro del texto consolidado, los **incisos declarados
+  nulos** por el Tribunal Constitucional. El volcado se queda con el texto plano y **pierde esa
+  marca**, así que un inciso anulado aparece como vigente.
+- **Casos comprobados**: Ley 7/1985, art. 26.2 (dos incisos, STC 111/2016) y art. 126.2 (inciso de
+  los no concejales, STC 103/2013), identificados en el XML del BOE por la investigación del tema 1
+  del común de Canal Sur (`informes/canal-sur-comun/T01-investigacion-c.md`).
+- **Qué debería hacer**: conservar la marca (por ejemplo, `[ANULADO: …]`) o avisar en el volcado de
+  cada bloque con inciso anulado.
+- **Alcance**: cualquier tema, de RTVE o de Canal Sur, que cite un precepto con incisos anulados. Hay
+  que buscar quién más usa el volcado para esto (manual, apartado 10).
+- **Gravedad**: cambia la respuesta. Mientras no se arregle, el ciclo de Canal Sur comprueba a mano
+  en el XML del BOE los preceptos con nota de sentencia.

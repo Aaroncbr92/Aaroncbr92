@@ -1,11 +1,6 @@
 # T01 · Investigación · rúbrica c) (organización territorial)
 
-Tema 1 del común de Canal Sur, rúbrica c): «Organización territorial del Estado en la
-Constitución española. Las Comunidades Autónomas. Los Estatutos de Autonomía. Delimitación
-de las funciones y competencias del Estado y las Comunidades Autónomas. La organización
-territorial de la Comunidad Autónoma de Andalucía. El municipio: organización y competencias.
-La provincia: organización y competencias.» Enunciado cotejado con el programa común
-transcrito: coincide.
+Tema 1 del común de Canal Sur, rúbrica c). Enunciado cotejado con el programa común: coincide con el del encargo.
 
 **Fecha de lectura de todos los preceptos: 24-09-2026**, sobre los volcados de
 `fuentes/canal-sur/` (volcados ese día) y con `boe.py precepto` para las cadenas.
@@ -31,10 +26,7 @@ desde el corte de RTVE (21-12-2022): las únicas reformas de la CE son los arts.
 135, fuera del Título VIII. En este bloque no hay nada en redacción antigua. La sección «15.
 Notas de actualización» de RTVE no afecta a esta rúbrica.
 
-**Reutilizable tal cual, con los reparos que siguen:** 10.1 (137-139), 10.2 (140-142), 10.3
-de 143 a 158, incluidas las tablas de los arts. 148 y 149 y la tabla de controles del 153.
-
-**Reparos detectados al cotejar con el texto vigente (para quien redacte):**
+**Reutilizable** (10.1, 10.2 y 10.3 enteros, con sus tablas), con estos reparos:
 
 1. *La negrita no siempre es literal* (promesa de literalidad del encargo). Ejemplos:
    - 137: «**municipios, provincias y las Comunidades Autónomas que se constituyan**»; la CE
@@ -77,12 +69,9 @@ de 143 a 158, incluidas las tablas de los arts. 148 y 149 y la tabla de controle
    agrupación de municipios limítrofes, «que gozarán de plena personalidad jurídica»).
 7. *Arts. 156-158*, resumidos: faltan el 156.2, el 157 entero (a-e, 2 y 3) y el 158.1.
 8. *Pasajes de empresa que hay que quitar*: «La que hay que llevarse aprendida para RTVE es la
-   27.ª», «la base del tema de derechos de autor del temario específico de Producción», la
-   frase «El examen las usa al revés…» (se apoya en exámenes de RTVE) y, en el 155, la
-   referencia al examen de Información y Contenidos de 2024. El bloque del 155 en Cataluña
-   (fechas 27-10-2017 / 2-6-2018, DOGC, Revista Catalana de Dret Públic) se apoya en fuentes
-   ajenas a las cuatro de este encargo: no lo he verificado. Decide el redactor si se queda y,
-   si se queda, hay que volver a comprobarlo.
+   27.ª», la mención al tema de derechos de autor de Producción, «El examen las usa al
+   revés…» y, en el 155, el examen de Información y Contenidos de 2024. El 155 en Cataluña
+   (27-10-2017 a 2-6-2018) se apoya en fuentes ajenas a estas cuatro y no lo he verificado.
 
 ## 2. Constitución, Título VIII: lo que añadir a RTVE (1 redacción cada uno)
 
@@ -166,9 +155,8 @@ En el EAA sólo tienen más de una el art. 51 (2) y el 178 (3), ajenos a la rúb
 - **Título X, reforma** (248-250): aprobación del Parlamento «por mayoría de dos tercios»,
   ley orgánica de las Cortes y referéndum (248.1.b); procedimiento simplificado (249);
   retirada «por mayoría de tres quintos» (250).
-- El preámbulo recuerda el referéndum de 28 de febrero de 1980 y el art. 151 CE. **No he
-  encontrado en el EAA vigente ningún precepto que diga por qué vía accedió Andalucía**:
-  si el tema lo dice, que sea con esa cita del preámbulo y nada más.
+- Vía de acceso de Andalucía: ningún artículo del EAA vigente la fija; el preámbulo cita el
+  referéndum de 28 de febrero de 1980 y el art. 151 CE, y nada más.
 
 ## 4. El municipio en la LBRL
 
@@ -182,25 +170,21 @@ Número de redacciones entre paréntesis; última norma que modifica.
   menos 4.000 habitantes». **Antes de 21-12-2023 decía 5.000**: dato cambiado respecto de lo
   que se estudiaba. 13.4: el municipio fusionado no podrá segregarse «hasta transcurridos
   diez años»; 13.6 convenio de fusión «por mayoría simple de cada uno de los plenos».
-- **Población.** 15 (2, Ley 4/1996): obligación de empadronarse; «La condición de vecino se
-  adquiere en el mismo momento de su inscripción en el Padrón». 16 y 17 (5 y 4, RDL 6/2023):
-  Padrón. 18 (3): derechos y deberes de los vecinos, letras a-i.
+- **Población.** 15 (2, Ley 4/1996): «La condición de vecino se adquiere en el mismo
+  momento de su inscripción en el Padrón». 18 (3): derechos y deberes, letras a-i.
 - **Organización (arts. 19 a 24 bis).** 19 (2, Ley 57/2003): gobierno y administración del
   ayuntamiento, «integrado por el Alcalde y los Concejales», salvo concejo abierto; 19.3
   remite al título X para gran población. **20.1 (4, Ley 57/2003), órganos**:
   - a) «El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos.»
   - b) Junta de Gobierno Local: en los de «población superior a 5.000 habitantes» y en los
     de menos si lo dispone el reglamento orgánico o lo acuerda el Pleno.
-  - c) órganos de estudio, informe o consulta: mismo umbral de 5.000, salvo otra forma
-    organizativa autonómica.
+  - c) órganos de estudio, informe o consulta: mismo umbral de 5.000.
   - d) Comisión Especial de Sugerencias y Reclamaciones: en los del título X y en otros si
     lo acuerda el Pleno por mayoría absoluta o lo dispone el reglamento orgánico.
   - e) Comisión Especial de Cuentas: «en todos los municipios».
   21 (7, Ley 30/2007, vigente desde 30-04-2008): Alcalde, 21.1 a) a s) (ñ y p derogadas). 22 (9, Real Decreto Legislativo 7/2015, vigente 31-10-2015):
   Pleno, 22.2 a) a q) (n y o derogadas). 23 (3): Junta de
-  Gobierno Local, Alcalde y concejales «no superior al tercio del número legal». 24 (2) y 24
-  bis (1, Ley 27/2013): entes inferiores al municipio «que carecerán de personalidad
-  jurídica».
+  Gobierno Local, Alcalde y concejales «no superior al tercio del número legal».
 - **Competencias.** **25 (6 redacciones)**. Cadena: 1985; 1990; Ley 27/2013 (31-12-2013);
   Real Decreto-ley 9/2018, de 3 de agosto (BOE-A-2018-11135, 05-08-2018, añade la letra o),
   igualdad y violencia de género); RDL 6/2023 (21-12-2023, añade el apartado 6, principio de
@@ -216,9 +200,8 @@ Número de redacciones entre paréntesis; última norma que modifica.
   Públicas» y «Para reducir los costes efectivos de los servicios el mencionado Ministerio
   decidirá sobre la propuesta formulada que deberá contar con el informe preceptivo de la
   Comunidad Autónoma si es la Administración que ejerce la tutela financiera.» **El volcado
-  de `fuentes/canal-sur/` los reproduce como texto normal** porque pierde la negrita con la
-  que el BOE los marca; los he identificado en el XML de la API del BOE. No deben darse como
-  vigentes.
+  los reproduce como texto normal** (ver apartado 8); los he identificado en el XML de la API
+  del BOE. No deben darse como vigentes.
   27 (2, Ley 27/2013): delegación, duración «no podrá ser inferior a cinco años»; lista
   27.3 de quince letras (a-o); 27.5 requiere aceptación. 28 (3, RDL 6/2023): gestión
   colaborativa en municipios «de menos de 20.000 habitantes».
@@ -239,7 +222,6 @@ Número de redacciones entre paréntesis; última norma que modifica.
   establecidos en el fundamento jurídico 6» (fallo leído en BOE-A-2013-5446). El volcado
   también lo reproduce sin marca. No he leído el FJ 6, así que no sé qué alcance tiene la
   nulidad; mejor no dar la regla del tercio de no concejales.
-  Arts. 131 (Consejo Social) y 132 (defensa de los vecinos): no los he leído por dentro.
 
 ## 5. El municipio en la LAULA
 
@@ -249,15 +231,12 @@ Número de redacciones entre paréntesis; última norma que modifica.
 - **5.2** (1): municipios y provincias «habrán de contar con los órganos necesarios,
   previstos en la legislación básica». La LAULA no regula los órganos de gobierno: se
   remite a la LBRL.
-- **6** (1): competencias «propias y mínimas», ampliables por leyes sectoriales.
-- **8** (1): cláusula general de competencia, «siempre que no estén atribuidas a otros
-  niveles de gobierno».
+- **6** (1): competencias «propias y mínimas»; **8** (1): cláusula general de competencia.
 - **9 (2 redacciones)**: competencias propias, **28 apartados** numerados. Cambiado por la
   **Ley 2/2026, de 12 de marzo, para la Gestión Ambiental de Andalucía (BOE-A-2026-7558),
   disposición final 2.ª, vigente desde 20-06-2026**: el 9.12 a) pasa de «calificación
   ambiental» a «licencia ambiental… y a la declaración responsable de los efectos
   ambientales»; el 9.12 f) añade «autorización ambiental unificada simplificada».
-- **10** (1): formas de ejercicio sin afectar a la titularidad.
 - **Territorio (título VI)**: 89 (1) término «continuo y no podrá exceder del territorio de
   una provincia»; 91.1, **cinco** formas de modificación (segregación, fusión, agregación,
   incorporación, cambios naturales); 91.3 competencia «en exclusiva» de la Junta; 92
@@ -291,8 +270,9 @@ Número de redacciones entre paréntesis; última norma que modifica.
   ejecución»). 38 (1).
 
 **LAULA**: 11 (1): asistencia técnica, económica y material, «obligatoria… o concertada».
-12 (1): asistencia técnica, **diez letras (a-j)**. 13 (3 redacciones; las dos últimas, leyes
-de presupuestos andaluzas 10/2016 y 5/2017; hoy 4 bis): asistencia económica, fases a-h, con
+12 (1): asistencia técnica, **diez letras (a-j)**. 13 (3 redacciones; las dos últimas, Leyes
+andaluzas 10/2016 y 5/2017, de presupuestos; hoy tiene un apartado 4 bis que no he atribuido a
+una u otra): asistencia económica, fases a-h, con
 «apoyo preferente a los municipios de menor población». 14 (1): asistencia material; 14.2,
 cinco servicios obligatorios a petición (a-e), el e) sólo para secretaría, intervención y
 tesorería «en municipios menores de cinco mil habitantes». 14.3, sustitución «previo
@@ -305,8 +285,7 @@ provincial».
 - Alcance del FJ 6 de la STC 103/2013 (art. 126.2 LBRL).
 - Art. 108 EAA (al que remite el art. 1 LAULA) y arts. 131-138 LBRL.
 - El episodio del 155 en Cataluña que trae RTVE (fuera de las cuatro fuentes).
-- La vía de acceso de Andalucía: no hay precepto del EAA vigente que la fije; sólo la cita
-  del preámbulo.
+- La vía de acceso de Andalucía (ver apartado 3).
 
 ## 8. Aviso sobre la herramienta (fuera de este tema)
 

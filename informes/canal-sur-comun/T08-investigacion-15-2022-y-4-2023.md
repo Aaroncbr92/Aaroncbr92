@@ -25,19 +25,10 @@ la 4/2023. Todo lo de aquí es de primera lectura.
   ley entrará en vigor el día siguiente al de su publicación en el "Boletín
   Oficial del Estado"»** (publicada en el BOE núm. 167, de 13-07-2022).
 - **Corrección de errores BOE-A-2022-15169** (BOE núm. 224, de 17-09-2022), leída en
-  el diario. Hace cuatro rectificaciones: (1) en el art. 21.3, primer párrafo,
-  **«debe eliminarse la última frase»**, que repetía «Las administraciones
-  públicas competentes desarrollarán las medidas necesarias…» (en el texto
-  publicado la frase aparecía dos veces: al final del párrafo primero y como
-  párrafo aparte); (2) título de la DF 7.ª: pasa a «Modificación del texto
-  refundido de la Ley General para la Defensa de los Consumidores y Usuarios…,
-  aprobado por Real Decreto Legislativo 1/2007»; (3) DF 7.ª, uno: no modifica «la
-  letra b del artículo 52», sino **«el apartado segundo del artículo 50»**; (4) DF
-  7.ª, dos: el apartado que se añade al art. 46 es el **10**, no el 3.
-  **Comprobado**: el consolidado ya incorpora las cuatro (el art. 21.3 trae la
-  frase una sola vez, como párrafo segundo; la DF 7.ª dice art. 50.2 y art. 46.10).
-  El análisis del BOE la registra como «CORRECCIÓN de errores, con variación de
-  preceptos modificadores».
+  el diario: suprime la frase duplicada del art. 21.3 (**«debe eliminarse la última
+  frase»** del párrafo primero) y corrige la DF 7.ª (título; modifica **«el apartado
+  segundo del artículo 50»** del TRLGDCU y añade el apartado **10**, no el 3, al art.
+  46). **Comprobado**: el consolidado ya la incorpora entera.
 - **Recurso y sentencia.** Recurso de inconstitucionalidad 6706-2022 (Vox, BOE-A-2022-19483)
   contra los arts. 4.4, 9.1, 13.2, 20.2 y 47.2, 3.d) y 4.d). **STC 89/2024, de 5 de
   junio** (BOE-A-2024-14002, BOE núm. 164, de 08-07-2024). Fallo literal: **«ha
@@ -47,18 +38,12 @@ la 4/2023. Todo lo de aquí es de primera lectura.
 
 ### 1.2. Estructura real (índice del consolidado)
 
-Preámbulo; **Título preliminar** (arts. 1-3); **Título I** «Derecho a la igualdad de
-trato y no discriminación»: cap. I «Disposiciones generales» (arts. 4-8), cap. II
-«El derecho a la igualdad de trato y no discriminación en determinados ámbitos de
-la vida política, económica, cultural y social» (arts. 9-24); **Título II** «Defensa y
-promoción del derecho a la igualdad de trato y no discriminación»: cap. I
-«Garantías…» (arts. 25-32), cap. II «Promoción… y medidas de acción positiva» (arts.
-33-39); **Título III** «La Autoridad Independiente para la Igualdad de Trato y la No
-Discriminación» (arts. 40-45); **Título IV** «Infracciones y sanciones en materia de
-igualdad de trato y no discriminación» (arts. 46-52); **Título V** «Atención, apoyo
-e información a las víctimas de la discriminación e intolerancia» (arts. 53-54);
-**6 disposiciones adicionales, 1 transitoria única, 10 finales**. No tiene
-disposición derogatoria. Total: **54 artículos**.
+Título preliminar (arts. 1-3); **Título I** derecho a la igualdad de trato: cap. I
+disposiciones generales (4-8), cap. II ámbitos (9-24); **Título II** defensa y
+promoción: cap. I garantías (25-32), cap. II promoción y acción positiva (33-39);
+**Título III** la Autoridad Independiente (40-45); **Título IV** infracciones y
+sanciones (46-52); **Título V** atención a las víctimas (53-54). **54 artículos, 6
+adicionales, 1 transitoria única, 10 finales**, sin derogatoria.
 
 ### 1.3. Objeto y ámbitos
 
@@ -195,11 +180,7 @@ disposición derogatoria. Total: **54 artículos**.
   34/2002: los jueces **«podrán acordar … cualquiera de las medidas de restricción o
   interrupción de la prestación de servicios o de retirada de datos de páginas de
   internet»** para proteger a la víctima.
-- Otros ámbitos del cap. II: educación (13, con 13.2 sobre financiación pública), no
-  formal (14), sanidad (15), servicios sociales (16), bienes y servicios (17),
-  seguridad ciudadana (18, perfiles discriminatorios), justicia (19), vivienda (20),
-  establecimientos y espectáculos (21, derecho de admisión en **«espacio
-  visible»**), cultura y deporte (24).
+- Resto del cap. II: arts. 13-21 y 24 (educación, sanidad, vivienda, establecimientos, etc.).
 
 ### 1.6. Garantías (Título II, cap. I)
 
@@ -233,8 +214,7 @@ disposición derogatoria. Total: **54 artículos**.
   organización, convivencia y disciplina de los centros docentes»**. La regla se
   trasladó a LEC 217.5, LJCA 60.7, Ley 39/2015 art. 77.3 bis y TRLGDCU 46.10 (DF 2.ª,
   3.ª, 4.ª, 7.ª).
-- Art. 31 (actuación administrativa), art. 32 (Ministerio Fiscal: secciones de delitos
-  de odio). DF 3.ª: en la LJCA, **«La persona acosada será la única legitimada en los
+- DF 3.ª (LJCA 19.1.i): **«La persona acosada será la única legitimada en los
   litigios sobre acoso sexual y acoso discriminatorio.»**
 
 ### 1.7. Autoridad Independiente para la Igualdad de Trato y la No Discriminación (Título III)
@@ -242,7 +222,7 @@ disposición derogatoria. Total: **54 artículos**.
 - **Creación, art. 40**: **«Se crea, en el ámbito de la Administración del Estado,
   la Autoridad Independiente… como autoridad independiente encargada de proteger y
   promover la igualdad de trato y no discriminación… tanto en el sector público como
-  en el privado.»** Funciones: letras **a) a r)**, con ñ: **dieciocho**. Las más
+  en el privado.»** Funciones: letras **a) a r)**, con ñ: **diecinueve**. Las más
   preguntables: a) asistencia y orientación a víctimas; **b) mediación o
   conciliación «con el consentimiento expreso de las partes», «excepción hecha de
   las que tengan contenido penal o laboral»**; sustituye al recurso de alzada y, en
@@ -275,28 +255,18 @@ disposición derogatoria. Total: **54 artículos**.
   por delito doloso, incumplimiento grave (este, con expediente y comunicación a las
   Cortes). Cese por Real Decreto a propuesta del titular del Ministerio de igualdad.
   Régimen de altos cargos. La ley **no crea ningún órgano colegiado**.
-- **Estatuto (fuera de la ley, pero vigente).** Real Decreto 606/2026, de 22 de julio
-  (BOE-A-2026-16172, BOE núm. 180, de 25-07-2026; corrección de errores
-  BOE-A-2026-19049, de 12-09-2026, solo erratas). Datos leídos: nombre oficial
-  **«Autoridad Independiente para la Igualdad de Trato y la No Discriminación,
-  A.A.I.»**; Estatuto art. 1.1: **«autoridad administrativa independiente de ámbito
-  estatal de las previstas en el artículo 109.1 de la Ley 40/2015»**; sede en Madrid
-  (art. 1.3); art. 3.1: **«vinculada a la Administración General del Estado a través
-  del Ministerio de Igualdad»**; art. 7: órganos: la **Presidencia** y tres órganos
-  directivos con nivel de subdirección general (Dirección de atención a víctimas de
-  discriminación; Dirección de prevención, estudios y estadísticas; Secretaría
-  General), un Gabinete, y adscrito **«sin participar de su estructura jerárquica»** el
-  **Consejo Consultivo para la Igualdad de Trato y la No Discriminación**; art. 8.2: la
-  Presidencia es alto cargo **«con rango de subsecretario o subsecretaria»**; art. 16.2:
-  Consejo Consultivo de **«veintiuna vocalías»**, nombradas por la Presidencia;
-  art. 17.1: mandato de vocalías **«de cinco años, no renovable»**. Lo pongo porque el
-  encargo pregunta por la «composición»; decidir si entra es del redactor (es un
-  reglamento: error 2 del catálogo si se atribuye a la ley). No se ha comprobado si
-  hay ya persona nombrada.
-- Resto del título: personal (art. 42: funcionarios de carrera con carácter general),
-  participación (43), deber de colaboración (44.3: plazo de **diez días** para
-  proporcionar información), relación con el Defensor del Pueblo (45). DA 3.ª: es el
-  organismo del art. 13 de la Directiva 2000/43/CE.
+- **Estatuto (reglamento, no ley).** Real Decreto 606/2026, de 22 de julio
+  (BOE-A-2026-16172, de 25-07-2026; corrección de erratas BOE-A-2026-19049). Nombre
+  oficial **«Autoridad Independiente para la Igualdad de Trato y la No Discriminación, A.A.I.»**; **«vinculada a la Administración General del Estado a
+  través del Ministerio de Igualdad»** (Estatuto, art. 3.1); órganos (art. 7): la
+  **Presidencia** (alto cargo **«con rango de subsecretario o subsecretaria»**, art.
+  8.2), tres órganos directivos con nivel de subdirección general, un Gabinete y,
+  adscrito **«sin participar de su estructura jerárquica»**, el **Consejo Consultivo
+  para la Igualdad de Trato y la No Discriminación**, de **«veintiuna vocalías»** (art.
+  16.2) con mandato **«de cinco años, no renovable»** (art. 17.1). Si el tema lo usa,
+  que lo atribuya al Estatuto (error 2 del catálogo).
+- Ley 15/2022, art. 44.3: plazo de **diez días** para facilitar información a la Autoridad; DA 3.ª: organismo
+  del art. 13 de la Directiva 2000/43/CE.
 
 ### 1.8. Infracciones y sanciones (Título IV)
 
@@ -353,8 +323,8 @@ disposición derogatoria. Total: **54 artículos**.
 - **Recursos de inconstitucionalidad.** Hay **dos**, no uno:
   - **2428-2023** (BOE-A-2023-11734, BOE núm. 118, de 18-05-2023), **«promovido por más de
     cincuenta diputados del Grupo Parlamentario Vox»**, admitido por providencia de
-    9-05-2023, contra, entre otros, arts. 3.a), b), g) e i), 14.d), 17, 19.2, 23, 24,
-    27.2, 42, 43.1 y 2, 44.3, 46.4, 47, 52.2, 54, 70.3, 79, 80.2 y 3, 82 y varias DF.
+    9-05-2023, contra una larga lista de preceptos (entre ellos 3, 17, 19.2, 43.1
+    y 2, 44.3, 47, 79, 80 y varias finales).
   - **3679-2023** (BOE-A-2023-15068, BOE núm. 153, de 28-06-2023), **«promovido por
     más de cincuenta diputados del Grupo Parlamentario Popular en el Congreso»**,
     contra **«los artículos 19.2; 43, apartados 1 y 2; 44, apartados 3 y 9; 47, primer
@@ -371,20 +341,15 @@ disposición derogatoria. Total: **54 artículos**.
 
 ### 2.2. Estructura real
 
-**Título preliminar** «Disposiciones generales» (arts. 1-3); **Título I** «Actuación
-de los poderes públicos»: cap. I (arts. 4-9, incluido el Consejo de Participación de
-las Personas LGTBI, art. 9), cap. II «Políticas públicas para promover la igualdad
-efectiva de las personas LGTBI» en **11 secciones** (arts. 10-42: estrategia;
-administrativo; **laboral, arts. 14-15**; salud; educación; cultura, ocio y deporte;
-**medios de comunicación social e internet, arts. 27-29**; familia, infancia y
-juventud; acción exterior y protección internacional; medio rural; turismo);
-**Título II** «Medidas para la igualdad real y efectiva de las personas trans»: cap.
-I «Rectificación registral de la mención relativa al sexo de las personas y
-adecuación documental» (arts. 43-51), cap. II políticas públicas trans (arts. 52-61,
-con la sección 2.ª laboral, arts. 54-55); **Título III** «Protección efectiva y
-reparación frente a la discriminación y la violencia por LGTBIfobia» (arts. 62-75,
-tres capítulos); **Título IV** «Infracciones y sanciones» (arts. 76-82). **4
-adicionales, 2 transitorias, 1 derogatoria, 20 finales. 82 artículos.**
+Título preliminar (arts. 1-3); **Título I** «Actuación de los poderes públicos»:
+cap. I (4-9, con el Consejo de Participación de las Personas LGTBI, art. 9), cap. II
+en **11 secciones** (10-42; sección 3.ª laboral, **arts. 14-15**; sección 7.ª
+**«Medidas en el ámbito de los medios de comunicación social e internet»**, arts.
+27-29); **Título II** «Medidas para la igualdad real y efectiva de las personas
+trans»: cap. I rectificación registral y adecuación documental (43-51), cap. II
+políticas públicas trans (52-61; laboral, 54-55); **Título III** protección y
+reparación frente a la LGTBIfobia (62-75); **Título IV** infracciones y sanciones
+(76-82). **82 artículos, 4 adicionales, 2 transitorias, 1 derogatoria, 20 finales.**
 
 La «parte LGTBI» es el Título I (y III y IV, comunes); la «parte trans», el Título II.
 
@@ -445,12 +410,9 @@ La «parte LGTBI» es el Título I (y III y IV, comunes); la «parte trans», el
   **55.3: «En la elaboración de planes de igualdad y no discriminación se incluirá
   expresamente a las personas trans, con especial atención a las mujeres trans.»**
 - **Art. 62.3**: empleadores y prestadores **«deberán adoptar métodos o instrumentos
-  suficientes para la prevención y detección»** y medidas para el cese. La DF 14.ª
-  modifica el ET (art. 4.2.c: añade orientación e identidad sexual, expresión de
-  género, características sexuales; art. 17.1; art. 48.4: **«el término de madre
-  biológica incluye también a las personas trans gestantes»**). La DF 6.ª modifica la
-  LISOS (arts. 8.12, 8.13 bis, 10 bis.2.d y 16.1.c). No he comprobado si estos
-  artículos del ET y la LISOS se han vuelto a reformar después: es otra norma.
+  suficientes para la prevención y detección»** y medidas para el cese. Las DF 14.ª y 6.ª
+  reforman el ET (arts. 4.2.c, 17.1, 48.4…) y la LISOS (arts. 8.12, 8.13 bis, 16.1.c…):
+  su redacción vigente hay que leerla en esas normas.
 
 ### 2.5. Medios de comunicación e internet (sección 7.ª del cap. II del Título I)
 
@@ -486,12 +448,13 @@ La «parte LGTBI» es el Título I (y III y IV, comunes); la «parte trans», el
 - **Procedimiento, art. 44**: ante **«cualquier Oficina del Registro Civil»** (44.2).
   **44.3**: el derecho **«en ningún caso podrá estar condicionado a la previa
   exhibición de informe médico o psicológico … ni a la previa modificación de la
-  apariencia o función corporal»**. Comparecencia inicial con nuevo nombre (44.4) e
-  información (44.5). **Plazos**: **44.8: «En el plazo máximo de tres meses desde la
-  comparecencia inicial…»** se cita para ratificar; **44.9**: resolución **«dentro del
-  plazo máximo de un mes a contar desde la fecha de la segunda comparecencia»**.
-  **44.10**: recurso de alzada ante la **Dirección General de Seguridad Jurídica y
-  Fe Pública**. Competente: el encargado de la oficina en que se presentó (art. 45).
+  apariencia o función corporal»**. Comparecencia inicial con elección de nombre e
+  información (44.4-44.7). **Plazos**: **44.8**: **«En el plazo máximo de tres meses
+  desde la comparecencia inicial…»** se cita para ratificar; **44.9**: resolución
+  **«dentro del plazo máximo de un mes a contar desde la fecha de la segunda
+  comparecencia»**. **44.10**: recurso de alzada ante la **Dirección General de
+  Seguridad Jurídica y Fe Pública**. Competente: el encargado de la oficina donde se
+  presentó (art. 45).
 - **Efectos, art. 46**: **constitutivos «a partir de su inscripción»**; no altera el
   régimen de la LO 1/2004 anterior (46.3); acción positiva para mujeres solo para
   situaciones posteriores (46.4).

@@ -269,3 +269,386 @@ Dos remisiones con cifra, leídas en el contrato-programa 2024-2026:
   cumplimiento de la función y misión de servicio público encomendada a la RTVA y sobre la
   ejecución del Contrato-Programa**» (art. 19.2.c de la Ley 18/2007). La propia Carta impone
   una «cultura empresarial de constante evaluación» (art. 30.1).
+
+## Misión de servicio público audiovisual
+
+El enunciado agrupa seis rúbricas bajo la «misión de servicio público audiovisual». La
+expresión viene de la Ley 18/2007, que encomienda a la RTVA «**la función y misión de servicio
+público de radio y televisión**» (art. 2.1) y fija sus principios en el artículo 4. La Carta no
+repite esos principios: se remite a ellos (art. 1) y fija prioridades para cumplirlos. Las
+seis rúbricas no aparecen juntas ni con esos nombres en ningún artículo de la Carta; cada una
+se reconstruye con los artículos que la tratan, y así se hace en los epígrafes siguientes.
+
+La formulación más cercana a un resumen de la misión está en el artículo 2.2 de la Carta:
+«**Será una prioridad de actuación fundamental la de desarrollar la actividad de prestación de
+servicios de comunicación audiovisual, con objeto de ser reconocido por la sociedad como primer
+garante del pluralismo informativo de Andalucía; ser agente activo para coadyuvar el desarrollo
+de la diversidad cultural; difusor de valores y principios identitarios del pueblo andaluz; e
+instrumento de fomento de la cohesión social y territorial de la comunidad**». Y la exposición
+de motivos habla de una comunicación basada «**en el absoluto respeto al pluralismo, la
+veracidad, objetividad, fiabilidad, rigor, imparcialidad, neutralidad e independencia
+informativa para colaborar así en la conformación de una opinión pública libre, plural y
+fundamentada**».
+
+En la Ley 18/2007, la función de servicio público es «**el servicio esencial para la sociedad
+consistente en la producción, edición y difusión de un conjunto equilibrado de programaciones
+audiovisuales y canales**» (y contenidos y servicios conexos e interactivos) «**con el fin de
+atender a las necesidades democráticas, sociales y culturales del conjunto de la población
+andaluza, garantizando el acceso a la información, cultura, educación y entretenimiento de
+calidad**» (art. 4.2). Las programaciones harán compatibles «**el objetivo de rentabilidad
+social con el principio de eficiencia económica**» y deberán cumplir quince mandatos, letras a)
+a ñ) del artículo 4.3. El tema los cita en cada rúbrica; la Ley 18/2007 entera es el punto 5 del
+temario.
+
+## Pluralismo
+
+*El principio general (art. 3.1 de la Carta, «Principio de interés general»).* Todas las
+programaciones, programas, contenidos y servicios de radio, televisión, Internet y servicios
+digitales de Canal Sur se basarán en el interés general de la ciudadanía y se configurarán
+«**desde la más exigente consideración, respeto a la diversidad y pluralidad de la sociedad y
+en cumplimiento del principio de pluralismo político, ideológico, social, cultural, educativo,
+religioso, asociativo, empresarial, sindical, económico y de todo orden de la vida de
+Andalucía**». Son diez adjetivos más la cláusula final «de todo orden».
+
+*La aspiración (art. 2.2).* Ser reconocido «**como primer garante del pluralismo informativo de
+Andalucía**».
+
+*El pluralismo en la información (art. 13, «La información como fundamento del servicio público
+digital audiovisual»).*
+
+- 13.3: «**De acuerdo con el artículo 4.1 y 32 de la Ley 18/2007, se garantizará el pluralismo
+  democrático en las programaciones, contenidos y servicios informativos de los medios de Canal
+  Sur, posibilitando de forma efectiva la libre expresión de la pluralidad política,
+  ideológica, social, cultural, empresarial, sindical, económica y de todo orden existente en la
+  sociedad andaluza en cada momento**», para una conciencia ciudadana basada en «**la
+  información de calidad contrastada para asegurar una libre formación de la opinión
+  pública**». Aquí la lista es de siete pluralidades, sin la educativa, la religiosa ni la
+  asociativa del artículo 3.1.
+- 13.5: «**Se fomentarán los espacios para el debate democrático y el libre contraste de
+  opiniones sobre asuntos políticos, sociales o económicos de actualidad e interés general**».
+  Su configuración atenderá al principio de pluralismo y abarcará la diversidad y pluralidad de
+  opiniones, con arreglo a las letras b) y n) del artículo 4.3 de la Ley 18/2007 (promover
+  activamente el pluralismo; difusión y conocimiento de las instituciones andaluzas,
+  especialmente del Parlamento).
+- 13.6: los programas informativos atenderán a todos los grandes acontecimientos de la vida
+  democrática, social, cultural, etnográfica, institucional, política, asociativa,
+  empresarial, sindical y económica de Andalucía «en toda su diversidad territorial».
+- 13.10: «**Conforme al artículo 32 de la Ley 18/2007, la configuración de todos los programas
+  y contenidos informativos quedan asegurados y garantizados en su pluralismo democrático. La
+  observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de
+  su Consejo Profesional que salvaguarda y controla el cumplimiento de los principios, derechos
+  y deberes de pluralismo, contemplados en el Estatuto Profesional de los Medios de
+  Comunicación de la RTVA**». Es el puente con el Estatuto profesional (último epígrafe del
+  tema). La Carta habla de «su Consejo Profesional», en singular.
+- 13.11: el **derecho de acceso** «**de los grupos sociales y políticos significativos y de las
+  asociaciones, organizaciones e instituciones representativas de la diversidad política,
+  social y cultural de Andalucía se aplicará en los casos que procediere**», según el
+  procedimiento del artículo 33 de la Ley 18/2007 y el artículo 11 de la Ley 10/2018.
+
+*Valores de pluralismo en el artículo 8.1 («Divulgación de valores cívicos y democráticos»).*
+Entre las veintiuna prioridades: i) «El respeto a la existencia de culturas diferentes, y puntos
+de vista y opiniones alternativas»; j) «El respeto a las minorías»; k) el respeto a todas las
+creencias religiosas y a la libertad de conciencia; r) «**El fomento de la tolerancia ante toda
+opción ideológica y política democrática, y el derecho a discrepar de la mayoría**».
+
+*En la Ley 18/2007 y en el EAA.*
+
+- Principio de la actividad de la RTVA: «**El respeto al pluralismo político, social, cultural y
+  religioso**» (art. 4.1.b), y la pluralidad entre los principios informativos (art. 4.1.g).
+- Mandato a las programaciones: «**Promover activamente el pluralismo, con pleno respeto a las
+  minorías, mediante el debate, la información objetiva y plural y la libre expresión de
+  opiniones.**» (art. 4.3.b).
+- Garantías de pluralismo (art. 32): en todas las producciones, programaciones y contenidos
+  «**se asegurará y garantizará la libre expresión de la pluralidad social, cultural,
+  ideológica y política existente en la sociedad andaluza, garantizando, igualmente, la libre
+  formación de la opinión pública**».
+- Derecho de acceso (art. 33): se garantiza, conforme a los artículos 20.3 de la Constitución y
+  211.2 del EAA, a los grupos sociales y políticos significativos radicados en Andalucía y a las
+  asociaciones, organizaciones e instituciones representativas de su diversidad, «respetando
+  el pluralismo de la sociedad» (33.1). Las normas de procedimiento las aprueba el Consejo de
+  Administración (33.2 y 17.1.i), con criterios objetivos como la representación
+  parlamentaria y la implantación territorial, y «**sin menoscabo de los principios de
+  independencia y profesionalidad garantizados en el artículo 10.1 de esta Ley**».
+- El control parlamentario tiene por objeto velar, entre otros, por el principio de pluralismo
+  (art. 214.4 del EAA).
+
+## Veracidad
+
+*Los principios informativos (art. 13.4 de la Carta).* Los programas, contenidos y espacios
+informativos se configurarán con criterios de cercanía y proximidad conforme al interés general,
+y la función informativa integra la identidad de los medios de Canal Sur, «**que quedan
+determinados por el cumplimiento de los derechos y deberes inherentes a los principios de
+pluralidad, rigor, profesionalidad, calidad, veracidad, neutralidad, independencia,
+imparcialidad y objetividad informativa, de acuerdo con las exigencias de la Ley 18/2007 y Ley
+10/2018**». Son **nueve** principios, en este orden: pluralidad, rigor, profesionalidad,
+calidad, veracidad, neutralidad, independencia, imparcialidad y objetividad.
+
+*Contra la desinformación (art. 13.13).* «**La RTVA y todos los medios de Canal Sur dedicarán
+atención para ofrecer a la sociedad criterios y conocimiento de herramientas para la detección
+de intencionadas campañas con noticias falsas (fake news) en redes sociales, ámbitos de
+Internet y en todo medio**», para una conciencia crítica basada en el valor social de «**la
+información veraz, contrastada, objetiva, rigurosa, y de alta calidad**», online y offline.
+
+*Otras menciones.*
+
+- Información «**de calidad contrastada**» para la libre formación de la opinión pública (art.
+  13.3).
+- Las campañas de alfabetización mediática dirigidas a menores y jóvenes deben fomentar «**el
+  pensamiento crítico que distinga los contenidos e informaciones veraces**» (art. 12.2).
+- Entre los valores prioritarios del artículo 8.1, la letra l): «**Cumplimiento del derecho de
+  rectificación.**» El derecho de rectificación se ejercita en los términos de la normativa
+  estatal y de la autonómica que la desarrolle (art. 34.1 de la Ley 18/2007).
+- Todo lo que produzcan y difundan los medios de Canal Sur estará siempre conforme «**con la
+  deontología profesional y códigos de autorregulación profesional que rigen la actividad de los
+  medios de Canal Sur**» (art. 10.1).
+- La programación ofrecerá la información que requiere la ciudadanía para «**la conformación
+  de una opinión pública libre y bien informada**» (art. 3.2).
+
+*En la Ley 18/2007 y en el EAA.*
+
+- Principio de «**La objetividad, veracidad, imparcialidad, independencia, pluralidad y
+  neutralidad informativas.**» (art. 4.1.g): seis principios en la ley frente a los nueve de la
+  Carta.
+- «**La separación entre informaciones y opiniones, la identificación de quienes sustentan
+  estas últimas y la libre expresión de las mismas.**» (art. 4.1.c).
+- El EAA pide a los poderes públicos velar por «**el derecho a una información independiente,
+  veraz y plural**» (art. 207.1), y a los medios públicos de gestión directa, respetar «**los
+  principios de independencia, pluralidad, objetividad, neutralidad informativa y
+  veracidad**» (art. 211.1).
+
+## Independencia editorial
+
+*Lo primero: la Carta no usa la expresión «independencia editorial».* Habla de
+«independencia» como uno de los nueve principios informativos del artículo 13.4, y de
+«independencia informativa» en la exposición de motivos. La palabra «editorial» solo aparece
+en dos sitios, y en otro sentido: todas las programaciones responderán «**a criterios de
+calidad editorial, utilidad social, control responsable de los mensajes y de su
+construcción**» (art. 15.1), y en la producción financiada la RTVA o Canal Sur «**asumen la
+responsabilidad editorial de la obra**» (art. 24.2.a).
+
+*Lo que sí dice la Carta sobre la independencia de la información.*
+
+- Posición: «**Canal Sur se posiciona con vocación y propósito para ser el primer garante
+  informativo de Andalucía.**» Los contenidos y coberturas de los Servicios Informativos son el
+  «**núcleo y eje fundamental**» de todas las programaciones, «**siendo la función de informar
+  a la sociedad la razón de ser básica de la actuación pública audiovisual**» (art. 13.1).
+  Producir contenidos informativos para ser referente de la oferta audiovisual de Andalucía es
+  «**una prioridad que se declara como nuclear de Canal Sur**», a la que se destina «**la más
+  importante cantidad de sus recursos disponibles**» (art. 13.2).
+- Criterio profesional: las coberturas especiales del Parlamento de Andalucía y de otras
+  instituciones democráticas se producirán «**Bajo el criterio profesional del interés
+  informativo y utilidad social**» (art. 13.7).
+- Garantía interna: el Consejo Profesional y el Estatuto Profesional (art. 13.10, citado en el
+  epígrafe de pluralismo).
+- Sujeción a la deontología profesional y a los códigos de autorregulación (art. 10.1).
+
+*Lo que dicen la Ley 18/2007 y el EAA.*
+
+- El Estatuto profesional es «**un instrumento destinado a garantizar la profesionalidad e
+  independencia tanto de los profesionales de la información como de los contenidos y
+  programas de los servicios informativos**» (art. 10.1; se desarrolla en el último epígrafe).
+  La exposición de motivos de la ley lo presenta como una novedad que obedece a «**la voluntad
+  de fortalecer la independencia y neutralidad de los profesionales de la información de los
+  medios de comunicación de la RTVA, sometidos a un Estatuto de sólida base democrática**».
+- Independencia de la entidad: la RTVA goza de autonomía en su gestión, organización y
+  funcionamiento y, «**en el marco de un Contrato-Programa, regulado en el artículo 8 de esta
+  Ley, actuará con independencia funcional respecto del Consejo de Gobierno de la Junta de
+  Andalucía y de las Administraciones Públicas**» (art. 5.4).
+- El derecho de acceso no puede menoscabar los principios de independencia y profesionalidad
+  del artículo 10.1 (art. 33.2).
+- La independencia figura entre los principios informativos del artículo 4.1.g de la ley y del
+  artículo 211.1 del EAA, y el control parlamentario vela por ella (art. 214.4 del EAA).
+
+## Cohesión territorial
+
+*El artículo que la nombra (art. 5, «Agente cohesionador social y territorial de Andalucía»).*
+La RTVA y Canal Sur afrontan el sexenio con un modelo de servicio público «útil, eficaz,
+transparente, eficiente y evaluable», «**fomentando con sus servicios y programas la
+vertebración y la cohesión territorial de la comunidad; atendiendo a todos los territorios
+provinciales divulgando sus rasgos idiosincráticos**» y reflejando con fidelidad los valores
+democráticos de la sociedad andaluza. La exposición de motivos dice que la población andaluza
+«**tiene en su operador audiovisual público un agente cohesionador social y territorial de
+Andalucía**» y que la prestación pública «**es garantía de cohesión social y territorial**».
+
+*La información territorializada (art. 13.8).* «**Continuará y se potenciará la atención
+informativa territorializada en todos los medios de Canal Sur sobre las diversas provincias
+andaluzas**», con contenidos de proximidad producidos con los recursos de los centros de
+producción de la RTVA y Canal Sur «**para la cohesión social, territorial e informativa de
+Andalucía**». En radio, televisión y servicios digitales, «**Canal Sur producirá servicios
+informativos provinciales con la atención que requieran todos los municipios de cada provincia,
+además de las capitales y grandes ciudades**», disponibles en directo y «a petición» en la web y
+las plataformas de Canal Sur.
+
+*Otras piezas.*
+
+- Instrumento «**de fomento de la cohesión social y territorial de la comunidad**» (art. 2.2).
+- Agente «**vertebrador y cohesionador de la realidad, pluralidad y diversidad**» de la sociedad
+  andaluza (art. 6.2).
+- «**Los programas, contenidos y servicios de los medios de Canal Sur tendrán una consideración
+  permanente de atención sobre la diversidad de municipios de cada provincia andaluza**», con
+  contenidos de «proximidad» (art. 6.3). Programaciones basadas en la potencia informativa de
+  Canal Sur sobre cada provincia «**en la diversidad de sus municipios**» (art. 13.2).
+- Mayor cobertura geográfica y poblacional posible (art. 6.4); especial atención a poner a
+  disposición de la audiencia «**contenidos audiovisuales informativos territoriales de las
+  diversas provincias de Andalucía**» (art. 7.2).
+- Servicio público universal «**propio de un agente de difusión local en su sentido de
+  proximidad que atiende a la totalidad territorial de Andalucía**» (art. 11.1).
+- Andaluces de fuera: agentes de difusión internacional, con especial atención a la comunidad
+  emigrante de origen andaluz en otras comunidades de España y en la Unión Europea (art.
+  11.3); servicio informativo para los andaluces residentes en otras comunidades autónomas,
+  en otros países de la Unión Europea «**y áreas del norte de África**», vía satélite,
+  operadores de telecomunicaciones y plataformas digitales (art. 13.12).
+- Campañas para evitar la brecha digital en personas mayores y de zonas rurales (art. 12.3), y
+  atención al ámbito y medio rural y marino entre las materias de interés social (art. 8.2.g).
+- Sedes: la sede e instalaciones en la provincia de Sevilla, los centros de producción de la
+  RTVA en las demás provincias «y en la Delegación en la ciudad de Madrid» (art. 35.2).
+
+*En la Ley 18/2007.* Las programaciones deben ofrecer una programación que atienda a la
+diversidad de la ciudadanía andaluza, «**fomentando la cohesión social y económica entre los
+diversos territorios**» (art. 4.3.f), y procurar «**la plena cobertura geográfica, social y
+cultural**», con especial atención al fortalecimiento de los vínculos «**con la población
+andaluza residente fuera de Andalucía**» (art. 4.3.g). La cobertura por ondas terrestres abarca
+el territorio de Andalucía y puede alcanzar otros territorios que permita la ley (art. 3).
+
+## Cultura andaluza
+
+*El artículo central (art. 14, «Agente divulgador de cultura»).* Cinco apartados:
+
+1. La promoción y el acceso a la cultura son «otro elemento central y constitutivo» de la
+   función de servicio público, y «**todos los medios de Canal Sur actuarán como palanca de
+   desarrollo cultural de Andalucía**». Serán sujetos activos en la difusión de toda área de la
+   cultura y las artes, «**con especial incidencia en todas las expresiones y modalidades que
+   conforman el patrimonio cultural andaluz**».
+2. Canal Sur asegurará el acceso a la cultura «**con un enfoque transversal**» en todos sus
+   medios y producirá programas específicos, además de participar en la producción de obras
+   audiovisuales y cinematográficas difusoras de cultura andaluza, conforme al artículo 34 de la
+   Ley 10/2018.
+3. Los servicios informativos informarán de la actividad cultural de Andalucía y promoverán
+   de forma singular las creaciones de «**los nuevos talentos andaluces**».
+4. «**La difusión de todas las modalidades del arte Flamenco, declarado por la Unesco como
+   Patrimonio Inmaterial de la Humanidad, continuará siendo otra prioridad de actuación
+   divulgativa y de fomento de los medios de Canal Sur, y de conformidad con la Ley 4/2023
+   andaluza del Flamenco.**»
+5. Todos los medios dedicarán contenidos al «**Catálogo de Bienes Culturales de Andalucía**».
+
+*Identidad y habla andaluza (art. 6.1).* Conforme a lo que concrete el contrato-programa, se
+producirán contenidos sobre el patrimonio de Andalucía en su dimensión cultural, social,
+histórica, artística, medioambiental, turística, tradicional, etnográfica y antropológica; y
+«**los medios de Canal Sur fomentarán el hecho andaluz y preservarán el patrimonio lingüístico de
+Andalucía en sus diferentes hablas**».
+
+*Otras piezas.*
+
+- Aspiración de ser «**agente activo para coadyuvar el desarrollo de la diversidad cultural;
+  difusor de valores y principios identitarios del pueblo andaluz**» (art. 2.2).
+- Entre los valores del artículo 8.1, la letra t): la divulgación de las tradiciones
+  históricas, culturales, religiosas, festivas y populares «**de notorio arraigo e interés
+  social**» que integran el ideario colectivo de la identidad del pueblo andaluz; y la u), la
+  excelencia educativa, formativa y cultural. Entre las materias de interés social del artículo
+  8.2: b) progreso cultural; c) divulgación del patrimonio histórico y cultural de Andalucía;
+  r) fomento de las tradiciones culturales identitarias.
+- Función de «reflejo educacional»: Canal Sur constata la influencia de los medios en el uso
+  del léxico y las formas lingüísticas (art. 15.1).
+- Tradiciones, fiestas y festejos con rasgos identitarios andaluces y fuerte arraigo popular
+  (art. 21.1).
+- Cine: prioridad de la marca «**Cine andaluz**» y su proyección internacional, participación
+  como coproductor local en producciones internacionales rodadas en Andalucía, apoyo a
+  festivales y premios al nuevo talento cinematográfico andaluz (art. 22.2).
+- Sector audiovisual: la RTVA y Canal Sur como «**agente motor de la industria de sector
+  audiovisual de Andalucía**» (art. 23.1), por la diversidad cultural que conllevan las obras
+  que expresan «**la personalidad identitaria del pueblo andaluz**» (art. 23.2).
+- Archivo: el archivo audiovisual de la RTVA es «**Patrimonio Histórico de Andalucía**»,
+  conforme a la Ley 14/2007, por determinación del artículo 20 de la Ley 10/2018 (art. 27.1).
+- Apoyo a «**los nuevos talentos y emergentes creativos artísticos andaluces**» en el
+  entretenimiento (art. 19.2).
+
+*En la Ley 18/2007 y en el EAA.*
+
+- Principio de «**La promoción de los valores históricos, culturales, educativos y lingüísticos
+  del pueblo andaluz en toda su riqueza y variedad.**» (art. 4.1.h).
+- Mandatos a las programaciones: «**Preservar la diversidad cultural de Andalucía y las
+  tradiciones que constituyen su patrimonio inmaterial.**» (art. 4.3.d); «**Promover el
+  reconocimiento y uso de la modalidad lingüística andaluza en sus diferentes hablas.**» (art.
+  4.3.e); consolidar un espacio audiovisual andaluz que difunda las señas de identidad y el
+  patrimonio material e inmaterial de Andalucía (art. 4.3.g); velar por la conservación de los
+  archivos históricos audiovisuales (art. 4.3.m); fomentar la producción audiovisual andaluza
+  (art. 4.3.ñ).
+- EAA: «**Los medios de difusión públicos promoverán la cultura andaluza tanto en sus formas
+  tradicionales como en las nuevas creaciones.**» (art. 212); «**Los medios audiovisuales
+  públicos promoverán el reconocimiento y uso de la modalidad lingüística andaluza, en sus
+  diferentes hablas.**» (art. 213).
+
+## Atención a la ciudadanía
+
+*Lo primero: la Carta no tiene un artículo con ese nombre.* La expresión aparece en la
+exposición de motivos, que atribuye al Tratado de Ámsterdam la función de los operadores
+públicos de «**atender a la ciudadanía en sus necesidades democráticas, sociales y culturales
+que no puede cumplir el mercado, impidiendo que uno o varios grandes operadores dominen todo el
+sector**». En el articulado, lo más próximo es el artículo 26, «Atención a la audiencia», y a
+su alrededor un grupo de artículos sobre públicos, accesibilidad y participación.
+
+*Atención a la audiencia (art. 26).*
+
+- 26.1: la audiencia por ondas y las personas usuarias de los servicios digitales «**tendrán
+  cauce permanente para su atención y para que expresen sus opiniones, manifestaciones, quejas
+  o sugerencias sobre los servicios de comunicación audiovisual ante el órgano interno de
+  Defensa de la Audiencia de la RTVA**», que preservará los derechos de espectadores, oyentes y
+  usuarios y dará trámite de atención y respuesta, «**conforme a su específica norma reguladora
+  aprobada por el Consejo de Administración de la RTVA**».
+- 26.2: los máximos niveles de atención, con producciones que recojan sus manifestaciones y
+  servicios participativos. «**La atención y participación se convertirá en un eje rector de su
+  posición en la comunicación audiovisual digital**».
+
+*Servicio público centrado en la sociedad (art. 6).*
+
+- Las programaciones se adecuarán a la identidad, necesidades y preferencias de la sociedad
+  andaluza (6.2) y aspirarán a la máxima afinidad y aceptación social (6.3).
+- Estrategia de estudio permanente de la sociedad andaluza con tres tipos de herramientas
+  (6.5): análisis prospectivos sobre preferencias; estudios cuantitativos y cualitativos sobre
+  aceptación social y tendencias; y estudios comparados sobre mercados audiovisuales
+  digitales europeos.
+- Emisión de lo de neto servicio público en las franjas horarias más idóneas, orientada a la
+  rentabilidad social (6.6).
+- A la medición tradicional de audiencia («cuota de pantalla share») se sumarán estudios
+  cualitativos y «**sistemas de analítica big data**» (6.7).
+- Presencia en plataformas en streaming, pódcast y redes sociales «**conforme a la finalidad de
+  inmediatez en la interactuación con la audiencia y participación efectiva de las personas
+  usuarias**» (6.8).
+
+*Acceso universal y públicos.*
+
+- Interés general de la ciudadanía en el acceso a la información, la cultura, la formación y el
+  conocimiento (art. 3.1); atención a todos los sectores de población (art. 3.2).
+- «**vocación y compromiso de servicio universal para el conjunto de la población de
+  Andalucía**» (art. 4.1); disponibilidad por ondas hertzianas terrestres y en cualesquiera
+  soportes digitales (art. 4.2).
+- Todos los segmentos de la población y los públicos minoritarios (art. 11); menores y jóvenes
+  (art. 17); personas mayores y colectivos vulnerables (art. 18); alfabetización mediática e
+  informacional, con campañas para menores y jóvenes, y para mayores, zonas rurales y personas
+  en riesgo de exclusión (art. 12).
+- Servicios digitales para trámites de las administraciones andaluzas, proyectos de smart
+  cities y aplicaciones de salud, educación, formación o empleo (art. 7.4); acceso a las
+  prestaciones de las administraciones públicas andaluzas (art. 15.4).
+
+*Accesibilidad.*
+
+- «**Todos los programas de servicios informativos de noticias en televisión lineal serán
+  subtitulados**» para mejor comprensión por la ciudadanía en general y por las personas con
+  diversidad funcional sensorial auditiva en particular (art. 13.9).
+- Subtitulación, traducción a lengua de signos española y audiodescripción para personas con
+  diversidad funcional sensorial; los porcentajes, en cada plan anual de actuación (art. 25.1);
+  posibles medidas nuevas con el estándar HbbTV (televisión híbrida) y herramientas web (art.
+  25.2); convenios con entidades del sector (art. 25.3).
+
+*Derechos de la audiencia en lo comercial.* La gestión comercial se hará con «**acentuada
+protección de los derechos de la audiencia**», con especial atención a menores, igualdad de la
+mujer y personas consumidoras y usuarias, en el marco del Código de Conducta Comercial de la
+RTVA (art. 31.1).
+
+*En la Ley 18/2007.* La función de servicio público busca atender «**a las necesidades
+democráticas, sociales y culturales del conjunto de la población andaluza**» (art. 4.2). Las
+programaciones deben «**Facilitar el más amplio acceso de la ciudadanía a los distintos géneros
+de programación y a los eventos institucionales, sociales, culturales y deportivos, cubriendo
+todos los segmentos de audiencia referidos a sexo, edad, grupos sociales o territoriales, con
+especial atención a las personas con discapacidad.**» (art. 4.3.h). Las personas consumidoras y
+usuarias pueden ejercer la acción de cesación de contenidos y servicios (art. 34.2).

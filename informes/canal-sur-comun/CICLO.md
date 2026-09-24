@@ -67,3 +67,10 @@ el tema y las lentes automáticas. Informe `TNN-remate.md`.
 Un agente nuevo, las dos lentes a la vez sobre el tema rematado, y las lentes
 automáticas. Si encuentra algo, lo corrige él mismo comprobándolo en la fuente, y lo
 dice. Informe `TNN-refutacion-final.md`, que termina con el cuadro de lentes.
+
+## Aviso: incisos anulados
+
+`boe.py norma` **pierde la negrita con que el BOE marca los incisos declarados nulos**
+(ver `PENDIENTES.md`). En verificación y refutación, todo precepto cuyo bloque traiga
+nota de sentencia del Tribunal Constitucional se comprueba en el XML o la página
+consolidada del BOE para saber qué inciso exacto está anulado.
