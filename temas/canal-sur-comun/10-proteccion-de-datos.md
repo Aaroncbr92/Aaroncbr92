@@ -1947,7 +1947,7 @@ diario:
 | Geolocalizar un vehículo o un equipo | Información previa, expresa, clara e inequívoca, incluida la de los derechos de acceso, rectificación, limitación y supresión (art. 90) |
 | Escribir a un compañero fuera de su jornada | Choca con el derecho a la desconexión digital (art. 88), cuyas modalidades fija la negociación colectiva |
 | Contratar una productora externa que trate datos por cuenta de la cadena | Es encargada del tratamiento: hace falta contrato u otro acto jurídico escrito con el contenido del artículo 28.3 del Reglamento, y encargarlo sin él es infracción grave (art. 73.k LOPDGDD) |
-| Enviar material con datos personales a un país fuera de la Unión | Transferencia internacional: exige decisión de adecuación, garantías del artículo 46.2 o autorización previa de la autoridad (arts. 40 a 42 LOPDGDD) |
+| Enviar material con datos personales a un país fuera de la Unión | Transferencia internacional: exige decisión de adecuación, garantías del artículo 46.2 del Reglamento, alguna de las excepciones de su artículo 49 o, en los casos del artículo 42 de la LOPDGDD, autorización previa de la autoridad (arts. 40 a 43 LOPDGDD) |
 | Perder un disco o sufrir un acceso no autorizado | Violación de seguridad: notificación a la autoridad en 72 horas salvo que sea improbable el riesgo, y comunicación al afectado si el riesgo es alto (arts. 33 y 34 del Reglamento) |
 | Una petición de acceso o de supresión | Respuesta en un mes, prorrogable dos más; gratuita; y la prueba de haber respondido recae en el responsable (art. 12 LOPDGDD y 12.3 del Reglamento) |
 
@@ -2021,8 +2021,8 @@ Comprobaciones hechas sobre la fuente:
    cambio.
 2. Reglamento: el BOE lo publica sin consolidar. Se han leído las dos correcciones de errores
    en español. Están corregidos, y se citan ya corregidos, el artículo 9.1 y el 37.1.c) por la
-   corrección de 2018, y el 12.3, el 18.1.a) y el 83.4.c) por la de 2021, entre los que el tema
-   cita. El articulado no tiene modificaciones; los considerandos 1, 4, 65 y 153 se han leído en
+   corrección de 2018, y el considerando 71, el 12.3, el 18.1.a) y el 83.4.c) por la de 2021,
+   entre los que el tema cita. El articulado no tiene modificaciones; los considerandos 1, 4, 65 y 153 se han leído en
    la página del BOE del Reglamento.
 3. Recuentos comprobados contra la letra: once sujetos en el artículo 77.1 (a a k); diecisiete
    infracciones muy graves (72, de la a a la p con la ñ), treinta graves (73, de la a a la ac con

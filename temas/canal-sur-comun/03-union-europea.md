@@ -544,3 +544,176 @@ No es una institución, pero es pieza de tres de ellas:
   que reúnan el 65 % de su población).
 - Si quiere volver, su solicitud sigue el procedimiento del artículo 49.
 
+## Tratado de la Unión Europea
+
+### Identificación y estructura
+
+- Texto que se estudia: «**VERSIÓN CONSOLIDADA DEL TRATADO DE LA UNIÓN EUROPEA**», publicada en el
+  DOUE C 202, de 7 de junio de 2016 (CELEX `12016M/TXT`). Es la última consolidación publicada; no
+  hay otra posterior. En la misma publicación van el TFUE, 37 protocolos y las 65 declaraciones anejas
+  al Acta Final de la conferencia que adoptó el Tratado de Lisboa.
+- Un preámbulo y 55 artículos en seis títulos:
+
+| Título | Rúbrica | Artículos |
+|---|---|---|
+| I | «**DISPOSICIONES COMUNES**» | 1 a 8 |
+| II | «**DISPOSICIONES SOBRE LOS PRINCIPIOS DEMOCRÁTICOS**» | 9 a 12 |
+| III | «**DISPOSICIONES SOBRE LAS INSTITUCIONES**» | 13 a 19 |
+| IV | «**DISPOSICIONES SOBRE LAS COOPERACIONES REFORZADAS**» | 20 |
+| V | «**DISPOSICIONES GENERALES RELATIVAS A LA ACCIÓN EXTERIOR DE LA UNIÓN Y DISPOSICIONES ESPECÍFICAS RELATIVAS A LA POLÍTICA EXTERIOR Y DE SEGURIDAD COMÚN**» | 21 a 46 |
+| VI | «**DISPOSICIONES FINALES**» | 47 a 55 |
+
+- El título V se divide en dos capítulos: el 1, disposiciones generales sobre la acción exterior
+  (artículos 21 y 22), y el 2, disposiciones específicas sobre la política exterior y de seguridad
+  común, con una sección 1 de disposiciones comunes (artículos 23 a 41) y una sección 2,
+  «**DISPOSICIONES SOBRE LA POLÍTICA COMÚN DE SEGURIDAD Y DEFENSA**» (artículos 42 a 46).
+- El título IV tiene un solo artículo. Es la pregunta fácil de estructura.
+- El preámbulo recoge la decisión de «**crear una Unión Europea**», la voluntad de crear «**una
+  ciudadanía común a los nacionales de sus países**» y la de seguir el proceso de «**una unión cada vez
+  más estrecha entre los pueblos de Europa, en la que las decisiones se tomen de la forma más próxima
+  posible a los ciudadanos, de acuerdo con el principio de subsidiariedad**».
+
+### Título I. Disposiciones comunes (artículos 1 a 8)
+
+- Artículo 1: constitución de la Unión, atribución de competencias por los Estados, los dos Tratados
+  con el mismo valor jurídico y la sustitución de la Comunidad Europea.
+- Artículo 2: los valores.
+- Artículo 3: los objetivos.
+- Artículo 4: competencias no atribuidas, identidad nacional y cooperación leal.
+- Artículo 5: atribución, subsidiariedad y proporcionalidad.
+- Artículo 6: la Carta, la adhesión al CEDH y los derechos fundamentales como principios generales
+  (se desarrolla en el epígrafe de la Carta).
+- Artículo 7: la garantía de los valores.
+- Artículo 8: la vecindad. La Unión desarrollará con los países vecinos «**relaciones preferentes, con
+  el objetivo de establecer un espacio de prosperidad y de buena vecindad basado en los valores de la
+  Unión**», y podrá celebrar con ellos acuerdos específicos con derechos y obligaciones recíprocos.
+
+Salvo el 6 y el 8, todos se han explicado en el epígrafe anterior.
+
+### Título II. Disposiciones sobre los principios democráticos (artículos 9 a 12)
+
+Igualdad y ciudadanía (artículo 9), democracia representativa (artículo 10), diálogo, consultas e
+iniciativa ciudadana (artículo 11) y Parlamentos nacionales (artículo 12). Todo explicado en el
+epígrafe anterior.
+
+### Título III. Disposiciones sobre las instituciones (artículos 13 a 19)
+
+Artículo 13, la lista y los comités consultivos; 14, el Parlamento Europeo; 15, el Consejo Europeo;
+16, el Consejo; 17, la Comisión; 18, el Alto Representante; 19, el TJUE. Explicados en el epígrafe
+anterior, con las cifras que hoy fijan las decisiones posteriores.
+
+### Título IV. Disposiciones sobre las cooperaciones reforzadas (artículo 20)
+
+- Solo caben «**en el marco de las competencias no exclusivas de la Unión**», usando sus instituciones
+  (20.1).
+- Su finalidad es «**impulsar los objetivos de la Unión, proteger sus intereses y reforzar su proceso
+  de integración**», y están «**abiertas permanentemente a todos los Estados miembros**».
+- Autorización (20.2): la adopta el Consejo «**como último recurso**», cuando los objetivos no pueden
+  alcanzarse «**en un plazo razonable por la Unión en su conjunto**», y «**a condición de que participen
+  en ella al menos nueve Estados miembros**». El procedimiento es el del artículo 329 del TFUE.
+- Voto (20.3): deliberan todos los miembros del Consejo, pero «**únicamente participarán en la
+  votación**» los de los Estados participantes.
+- Efectos (20.4): «**Los actos adoptados en el marco de una cooperación reforzada vincularán
+  únicamente a los Estados miembros participantes. Dichos actos no se considerarán acervo que deban
+  aceptar los Estados candidatos a la adhesión a la Unión.**»
+
+### Título V. Acción exterior y política exterior y de seguridad común (artículos 21 a 46)
+
+#### Acción exterior (artículos 21 y 22)
+
+- La acción exterior se basa en los principios que inspiraron la creación de la Unión: democracia,
+  Estado de Derecho, universalidad e indivisibilidad de los derechos humanos, dignidad humana,
+  igualdad y solidaridad, y respeto de la Carta de las Naciones Unidas y del Derecho internacional
+  (21.1). El artículo 21.2 enumera sus fines en ocho letras (a-h), de la defensa de los valores y la
+  seguridad de la Unión a un sistema internacional basado en «**una cooperación multilateral sólida y
+  en una buena gobernanza mundial**».
+- El Consejo Europeo determina los intereses y objetivos estratégicos de la Unión y decide «**por
+  unanimidad**», sobre recomendación del Consejo (22.1).
+
+#### Política exterior y de seguridad común (artículos 23 a 41)
+
+- Régimen propio (24.1): «**La política exterior y de seguridad común se regirá por reglas y
+  procedimientos específicos. La definirán y aplicarán el Consejo Europeo y el Consejo, que deberán
+  pronunciarse por unanimidad salvo cuando los Tratados dispongan otra cosa. Queda excluida la
+  adopción de actos legislativos.**»
+- La ejecutan el Alto Representante y los Estados miembros.
+- El TJUE no tiene competencia en ella, con dos salvedades: controlar el respeto del artículo 40 y la
+  legalidad de determinadas decisiones del artículo 275 del TFUE.
+- Abstención constructiva (31.1): el miembro del Consejo que se abstiene con declaración formal no
+  está obligado a aplicar la decisión, pero admite que vincula a la Unión. Si los que se abstienen
+  así representan «**al menos un tercio de los Estados miembros que reúnen como mínimo un tercio de la
+  población de la Unión**», la decisión no se adopta.
+- Mayoría cualificada por excepción (31.2): en cuatro casos tasados, entre ellos la designación de un
+  representante especial. Si un Estado alega «**motivos vitales y explícitos de política nacional**»,
+  no se vota; el Consejo, por mayoría cualificada, puede remitir el asunto al Consejo Europeo para que
+  decida por unanimidad.
+- El Consejo Europeo puede decidir por unanimidad que el Consejo se pronuncie por mayoría cualificada
+  en otros casos (31.3).
+
+#### Política común de seguridad y defensa (artículos 42 a 46)
+
+- «**forma parte integrante de la política exterior y de seguridad común**» y ofrece a la Unión «**una
+  capacidad operativa basada en medios civiles y militares**» para misiones fuera de la Unión (42.1).
+- Conducirá a una defensa común «**una vez que el Consejo Europeo lo haya decidido por unanimidad**»
+  (42.2).
+- Las decisiones, incluida la de iniciar una misión, las adopta el Consejo «**por unanimidad**» (42.4).
+- Cláusula de asistencia mutua (42.7): «**Si un Estado miembro es objeto de una agresión armada en su
+  territorio, los demás Estados miembros le deberán ayuda y asistencia con todos los medios a su
+  alcance, de conformidad con el artículo 51 de la Carta de las Naciones Unidas.**» Salvedad: sin
+  perjuicio del carácter específico de la política de seguridad y defensa de determinados Estados, y
+  la Organización del Tratado del Atlántico Norte sigue siendo, para sus miembros, el fundamento de
+  su defensa colectiva.
+- Agencia Europea de Defensa (42.3 y 45): bajo la autoridad del Consejo; pueden participar todos los
+  Estados que lo deseen.
+- Cooperación estructurada permanente (42.6 y 46): para los Estados que cumplan criterios más
+  elevados de capacidades militares. El Consejo la establece por mayoría cualificada en un plazo de
+  «**tres meses**» desde la notificación (46.2).
+
+### Título VI. Disposiciones finales (artículos 47 a 55)
+
+| Artículo | Contenido |
+|---|---|
+| 47 | Personalidad jurídica de la Unión |
+| 48 | Revisión de los Tratados |
+| 49 | Adhesión (explicada en el epígrafe anterior) |
+| 50 | Retirada (explicada en el epígrafe anterior) |
+| 51 | Los protocolos y anexos forman parte integrante de los Tratados |
+| 52 | Estados a los que se aplican los Tratados y ámbito territorial (con la advertencia sobre el Reino Unido) |
+| 53 | Duración ilimitada |
+| 54 | Ratificación, depósito en Italia y entrada en vigor |
+| 55 | Lenguas auténticas y traducciones |
+
+#### Revisión de los Tratados (artículo 48)
+
+- Dos vías: «**procedimiento de revisión ordinario**» y «**procedimientos de revisión simplificados**»
+  (48.1).
+- Procedimiento ordinario (48.2 a 48.5):
+  1. Iniciativa: «**El Gobierno de cualquier Estado miembro, el Parlamento Europeo o la Comisión**»
+     presentan proyectos al Consejo, que pueden servir para «**aumentar o reducir las competencias
+     atribuidas a la Unión**». El Consejo los remite al Consejo Europeo y los notifica a los
+     Parlamentos nacionales.
+  2. El Consejo Europeo, previa consulta al Parlamento Europeo y a la Comisión, decide examinarlos
+     «**por mayoría simple**». Su Presidente convoca una Convención (Parlamentos nacionales, Jefes de
+     Estado o de Gobierno, Parlamento Europeo y Comisión), que adopta «**por consenso**» una
+     recomendación.
+  3. El Consejo Europeo puede no convocar la Convención, por mayoría simple y previa aprobación del
+     Parlamento Europeo, cuando la importancia de las modificaciones no lo justifique.
+  4. «**El Presidente del Consejo convocará una Conferencia de representantes de los Gobiernos de los
+     Estados miembros**» para aprobar de común acuerdo las modificaciones. Ojo: aquí es el Presidente
+     del Consejo, no el del Consejo Europeo.
+  5. Entrada en vigor: tras la ratificación «**por todos los Estados miembros de conformidad con sus
+     respectivas normas constitucionales**».
+  6. Si, «**transcurrido un plazo de dos años desde la firma**», han ratificado las cuatro quintas partes
+     y otros tienen dificultades, «**el Consejo Europeo examinará la cuestión**».
+- Procedimiento simplificado (48.6): solo para la tercera parte del TFUE (políticas y acciones
+  internas). Decide el Consejo Europeo «**por unanimidad**», previa consulta al Parlamento y a la
+  Comisión; entra en vigor tras la aprobación de los Estados; y «**no podrá aumentar las competencias
+  atribuidas a la Unión por los Tratados**».
+- Pasarelas (48.7): el Consejo Europeo puede autorizar que el Consejo pase de la unanimidad a la
+  mayoría cualificada, o de un procedimiento legislativo especial al ordinario.
+  - No cabe para decisiones «**que tengan repercusiones militares o en el ámbito de la defensa**».
+  - La iniciativa se transmite a los Parlamentos nacionales, y la oposición de uno solo, notificada
+    «**en un plazo de seis meses**», la bloquea.
+  - Decide el Consejo Europeo por unanimidad, previa aprobación del Parlamento Europeo, «**que se
+    pronunciará por mayoría de los miembros que lo componen**».
+
