@@ -629,19 +629,19 @@ No es una institución, pero es pieza de tres de ellas:
   el objetivo de establecer un espacio de prosperidad y de buena vecindad basado en los valores de la
   Unión**», y podrá celebrar con ellos acuerdos específicos con derechos y obligaciones recíprocos.
 
-Salvo el 6 y el 8, todos se han explicado en el epígrafe anterior.
+Salvo el 6 y el 8, todos se han explicado en la rúbrica «La Unión Europea».
 
 ### Título II. Disposiciones sobre los principios democráticos (artículos 9 a 12)
 
 Igualdad y ciudadanía (artículo 9), democracia representativa (artículo 10), diálogo, consultas e
-iniciativa ciudadana (artículo 11) y Parlamentos nacionales (artículo 12). Todo explicado en el
-epígrafe anterior.
+iniciativa ciudadana (artículo 11) y Parlamentos nacionales (artículo 12). Todo explicado en la
+rúbrica «La Unión Europea».
 
 ### Título III. Disposiciones sobre las instituciones (artículos 13 a 19)
 
 Artículo 13, la lista y los comités consultivos; 14, el Parlamento Europeo; 15, el Consejo Europeo;
-16, el Consejo; 17, la Comisión; 18, el Alto Representante; 19, el TJUE. Explicados en el epígrafe
-anterior, con las cifras que hoy fijan las decisiones posteriores.
+16, el Consejo; 17, la Comisión; 18, el Alto Representante; 19, el TJUE. Explicados en la rúbrica
+«La Unión Europea», con las cifras que hoy fijan las decisiones posteriores.
 
 ### Título IV. Disposiciones sobre las cooperaciones reforzadas (artículo 20)
 
@@ -718,8 +718,8 @@ anterior, con las cifras que hoy fijan las decisiones posteriores.
 |---|---|
 | 47 | Personalidad jurídica de la Unión |
 | 48 | Revisión de los Tratados |
-| 49 | Adhesión (explicada en el epígrafe anterior) |
-| 50 | Retirada (explicada en el epígrafe anterior) |
+| 49 | Adhesión (explicada en la rúbrica «La Unión Europea») |
+| 50 | Retirada (explicada en la rúbrica «La Unión Europea») |
 | 51 | Los protocolos y anexos forman parte integrante de los Tratados |
 | 52 | Estados a los que se aplican los Tratados y ámbito territorial (con la advertencia sobre el Reino Unido) |
 | 53 | Duración ilimitada |
@@ -754,7 +754,10 @@ anterior, con las cifras que hoy fijan las decisiones posteriores.
   atribuidas a la Unión por los Tratados**».
 - Pasarelas (48.7): el Consejo Europeo puede autorizar que el Consejo pase de la unanimidad a la
   mayoría cualificada, o de un procedimiento legislativo especial al ordinario.
-  - No cabe para decisiones «**que tengan repercusiones militares o en el ámbito de la defensa**».
+  - Solo la primera —el paso de la unanimidad a la mayoría cualificada— tiene una exclusión: «**El
+    presente párrafo no se aplicará a las decisiones que tengan repercusiones militares o en el
+    ámbito de la defensa.**» El segundo párrafo, el del paso al procedimiento legislativo ordinario,
+    no la lleva.
   - La iniciativa se transmite a los Parlamentos nacionales, y la oposición de uno solo, notificada
     «**en un plazo de seis meses**», la bloquea.
   - Decide el Consejo Europeo por unanimidad, previa aprobación del Parlamento Europeo, «**que se
@@ -1450,8 +1453,9 @@ Europea**», y en particular, en catorce letras (a-n):
     nacional consultar, cuando proceda, a los Parlamentos regionales que posean competencias
     legislativas.**»
   - Artículo 7: cada Parlamento nacional tiene dos votos (uno por cámara si es bicameral). Si los
-    dictámenes contrarios reúnen «**al menos un tercio del total de votos**» (un cuarto en el espacio de
-    libertad, seguridad y justicia), el proyecto se vuelve a estudiar; en el procedimiento legislativo
+    dictámenes contrarios reúnen «**al menos un tercio del total de votos**» (un cuarto cuando el
+    proyecto se presente sobre la base del artículo 76 del TFUE, relativo al espacio de libertad,
+    seguridad y justicia), el proyecto se vuelve a estudiar; en el procedimiento legislativo
     ordinario, con «**al menos la mayoría simple**», la propuesta se vuelve a estudiar y, si la Comisión
     la mantiene, el legislador la desestima si así lo considera por mayoría del 55 % de los miembros
     del Consejo o por mayoría de los votos emitidos en el Parlamento Europeo.

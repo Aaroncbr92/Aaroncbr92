@@ -5,7 +5,7 @@ Tema: `temas/canal-sur-comun/08-igualdad.md`. Fecha de lectura de todos los prec
 `boe.py --fecha`). Un verificador anterior se cortó sin dejar informe: esta verificación parte de
 cero sobre el tema en disco.
 
-Estado: **en curso**.
+Estado: **terminado** (13 correcciones en el tema; ver abajo).
 
 ## Comprobación mecánica previa
 
@@ -93,3 +93,37 @@ los anuncios de admisión, ninguna sentencia.
 13. **Ley 15/2022, art. 10.1** · «No puede establecer limitaciones…» · «Sin perjuicio de la
     libertad de las partes para determinar el contenido de los convenios, no puede…» · art. 10.1.
     (Error 6, menor.)
+
+## Ley 12/2007: resto confirmado
+
+Releídos en su redacción vigente arts. 1–4, 5–13 (con 9 bis y 11 bis), 14–21 bis, 22–35, 36–40
+(con 37 bis), 41–56 (los citados), 57–58, 59–63 (con 62 bis), 64–72, 73–86, DA, DT, DD y DF 2.ª.
+Cadenas del cuerpo contrastadas con las redacciones anteriores (`boe.py --fecha 20181015` y
+`--fecha 20240216`) de los arts. 3, 6, 7, 8, 9, 10, 11, 12, 13, 23, 27, 31, 32, 40, 57, 58 y 61:
+conformes salvo las del 8 y el 27 (correcciones 2 y 3). Tres redacciones (2007, 2018, 2024) en
+8, 27 y 31; dos (2007, 2024) en el 6. Recuentos: 14 principios (art. 4), 9 definiciones (3), 13
+fines (15.3), 10 apartados (23), 7 criterios (35.1 y 81.1), 3 leves / 9 graves / 4 muy graves
+(75–77), 98 artículos (86 + 12 intercalados), estructura por títulos. Cuantías (80: hasta 6.000 /
+6.001–60.000 / 60.001–120.000), accesorias, reducción del 30 % (84) y prescripción (79: 4 / 3 / 1
+años; 82: 3 / 2 / 1 años): conformes. Publicación (BOJA 247 de 18-12-2007; BOE 38 de 13-02-2008)
+y Ley 9/2018 (título, `BOE-A-2018-15239`) confirmadas en el BOE.
+
+## Lentes (24-09-2026, sobre el tema corregido)
+
+| Lente | Resultado | Qué miró / explicación |
+| --- | --- | --- |
+| `refutar_prosa.py` | 2 | 0 relleno. «Repetida» ×5: la fórmula de las cadenas («la Ley 9/2018 (en vigor desde el 16/10/2018) dio la redacción actual»), intencionada. «LGBTI sin presentar»: está dentro de cita literal del art. 20.1 de la Ley 18/2007, que lo escribe así; la sigla del tema (LGTBI) se presenta con el art. 1 de la Ley 4/2023. Falsos positivos. |
+| `refutar_exactitud.py` (las 7 fuentes) | 171 citas con artículo entre paréntesis; 36 «no literales»; 14 + 1 sin comprobar | Todas falsas: la lente ancla en el número de otra ley (p. ej. «artículos 9.2, 10 y 14 de la Constitución», «artículo 30 de la Ley 40/2015», «artículo 6» dentro de la cita del 47.4) o en el número del párrafo siguiente. Pasada por separado cada bloque contra su ley: 12/2007, 47 comprobadas / 7; 15/2022, 62 / 27 (9 son del RD 606/2026, que no se pasó en esa corrida); 4/2023, 50 / 10. Cada una revisada a mano: la negrita está en el artículo que el tema dice. |
+| `negritas.py` (7 volcados + 2 documentos + redacciones anteriores y STC 89/2024 en el scratchpad) | 423 cotejadas; 1 no está; 37 «atribuidas a otro artículo» | La no encontrada es el rótulo «Enunciado del programa». Las 37 son las mismas anclas falsas de la fila anterior; revisadas una a una. |
+| Guion propio (scratchpad) | 0 no encontradas | Cada negrita «…» buscada en la ley del bloque donde está; las de redacciones derogadas, en `boe.py --fecha`; la del fallo, en la STC 89/2024; la del recurso 3679-2023, en su anuncio. |
+| `refutar_citas.py` | 0 tramos | Sólo mira bloques `> `; el único del tema es el enunciado, que excluye. No aplica: las citas del tema van en línea y las cubren las tres filas anteriores. |
+| `refutar_modo.py` | 0 con 0 bloques: **no miró nada** | El tema no usa marcadores «**Artículo N**». Se corrió sobre copias por ley con marcadores sintéticos a partir de «(artículo N)»: 59 + 40 + 31 bloques, 27 avisos. Cuatro eran defectos (correcciones 10 a 13); el resto, salvedades no restrictivas («sin perjuicio de otras medidas», «sin perjuicio de las funciones…») o ya recogidas en el tema (40.c, 46.4, 77.2, 50.1), o bloques que mezclan dos artículos (11-12 de la Ley 15/2022; 14-15 de la Ley 4/2023). |
+| `refutar_documento.py` | no se corrió | Las negritas de documentos (anuncios del TC, STC) están cubiertas por `negritas.py` y el guion propio. |
+
+`indice.py`: índice regenerado (31 epígrafes). **Extensión** en la ficha: 21.045 → **21.254
+palabras** (recuento de `indice.py` sobre el cuerpo).
+
+## Ficheros tocados
+
+- `temas/canal-sur-comun/08-igualdad.md` (correcciones 1–13, índice y extensión).
+- Este informe. Ningún otro (los guiones y extractos auxiliares están en el scratchpad).
