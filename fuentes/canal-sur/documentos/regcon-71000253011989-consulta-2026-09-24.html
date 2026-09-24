@@ -1,0 +1,519 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+<meta name="keywords" content="" />
+<meta name="Language" content="es" />
+<title>Registro y Depósito de Convenios Colectivos, Acuerdos Colectivos de Trabajo y Planes de Igualdad</title>
+<!-- <link href="/regcon/css/estilos.css?id=24sept.2026125726" rel="stylesheet" type="text/css" /> -->
+
+<!-- ABDGMRRL1-26: se ajusta la jsp para adaptarla a bootstrap -->
+
+<link href="/regcon/css/dataTables.bootstrap.css" rel="stylesheet"/>
+<link href="/regcon/css/bootstrap.min.css" rel="stylesheet">
+<link href="/regcon/css/font-awesome.min.css" rel="stylesheet">
+<link href="/regcon/css/bootstrap-datepicker.min.css" rel="stylesheet">
+<link href="/regcon/css/assi.css" rel="stylesheet">
+<link href="/regcon/css/bootstrap-select.min.css" rel="stylesheet">
+<link href="/regcon/css/regcon.css" rel="stylesheet">
+<link href="/regcon/css/jodit.min.css" rel="stylesheet">
+<link href="/regcon/css/jquery-confirm.min.css" rel="stylesheet" type="text/css" />
+<link href="/regcon/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/regcon/js/utiles.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/regcon/js/utiles.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.selectboxes.min.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.corner.js"></script>
+<script type="text/javascript" src="/regcon/js/CSJSRequestObject.js"></script>
+<script type="text/javascript" src="/regcon/js/GCappearance.js"></script>
+<script type="text/javascript" src="/regcon/js/drivetip.js"></script>
+<script type="text/javascript" src="/regcon/js/FirmaPADES.js"></script>
+<script type="text/javascript" src="/regcon/js/FirmaCades.js"></script>
+<script type="text/javascript" src="/regcon/js/FirmaXADES.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/regcon/js/UtilidadesJquery.js"></script>
+<script type="text/javascript" src="/regcon/js/jodit.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script type="text/javascript" src="/regcon/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/regcon/js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="/regcon/js/bootstrap-datepicker.es.min.js"></script>
+<script type="text/javascript" src="/regcon/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="/regcon/js/bootstrap-filestyle.min.js"></script>
+<script type="text/javascript" src="/regcon/js/i18n/defaults-es_ES.js"></script>
+<script type="text/javascript" src="/regcon/js/jstree.min.js"></script>
+<script type="text/javascript" src="/regcon/js/jquery-confirm.min.js"></script>
+
+<script>
+	var timeout;
+
+	window.onload = function(){ 
+		clearTimeout(timeout);
+		
+	} 
+
+	
+	
+	
+	var timeOutCerrar;
+	var intervalCerrar;
+	var segundosExpirar = 120;
+	var worker;
+	function contadorSesion() {
+		timeout = setTimeout(function () {
+			$.post("");
+	    	$.confirm({
+	        	title: 'Alerta de Inactividad!',
+	            content: 'La Sesión esta a punto de expirar.',
+	            //autoClose: 'expirar|120000',
+	            type: 'blue',
+	            icon: 'fa fa-spinner fa-spin',
+	            onOpen: function(){
+	            	cuentaAtrasCerrarSesion(this);
+	            },
+	            buttons: {
+	                expirar: {
+	                    text: 'Cerrar Sesión('+segundosExpirar+')',
+	                    btnClass: 'btn-red',
+	                    action: function () {
+	                    	salir();
+	                    }
+	                },
+	                permanecer: function () {
+	                	modalAbierto = true;
+	                    clearTimeout(timeout); //reinicia el conteo
+	                    clearInterval(intervalCerrar);
+	                    $.alert('La Sesión ha sido reiniciada!'); //mensaje
+	                    contadorSesion();
+	                    worker.terminate();
+	                }
+	            }
+	        });
+	    }, 1680000);
+	}
+
+	function cuentaAtrasCerrarSesion(contextoConfirm) {
+
+		worker = new Worker("/regcon/js/webworker.js");
+		worker.onmessage = function(e){
+			var message = e.data;
+			if(message===0){
+				clearInterval(intervalCerrar);
+				salir();
+			}
+			else{
+				contextoConfirm.buttons.expirar.setText('Cerrar Sesión('+message+')');	
+			}
+		}
+
+	}
+
+	function salir() {
+
+		
+			    var urlLogout = "https://expinterweb.mites.gob.es/regcon/index.htm";
+				window.location.href = urlLogout;
+		  
+
+	}
+	
+	function reiniciarContador() {
+		clearTimeout(timeout); //reinicia el conteo
+        clearInterval(intervalCerrar);
+        contadorSesion();	    
+	}	
+	
+</script>
+
+<style type="text/css">
+	<!-- Si el usuario pretende ver un acuerdo en modo consulta el puntero del raton 
+	aparece con su forma default sobre las etiquetas 'label'.
+	De lo contrario, aparece el cursor de la mano 'pointer'. -->
+	
+			form label {cursor:default;}
+		
+	
+	.dropdown-item:hover {
+	    color: var(--bs-dropdown-link-hover-color);
+	    background-color: #f8f9fa;
+	}
+</style>
+
+<!-- CONSTANTES CONFIGURACION -->
+<!-- Si el usuario pretende ver un acuerdo en modo consulta el puntero del raton 
+aparece con su forma default sobre las etiquetas 'label'.
+De lo contrario, aparece el cursor de la mano 'pointer'. -->
+<!-- CORR2023-141: se quita el seteo de esta variable para evitar que se muestre nada de usuario centralizado (el dia que se quiera volver a mostrar solo descomentar esto) -->
+<!--  -->
+</head>
+	<body onkeydown="bloqueaF5(event)">
+
+		<script type="text/javascript">
+		
+		$(document).ready(function(){
+			var versionHE = "";
+			if (!$("#sidebar").hasClass( "active" )){
+		        $('#mostrarMenu').remove();
+				$('#sidebarCollapse').append("<span id=\"quitarMenu\" class=\"glyphicon glyphicon-chevron-left\"></span>");
+			}
+			else{
+		        $('#quitarMenu').remove();
+		        $('#sidebarCollapse').append("<span id=\"mostrarMenu\" class=\"glyphicon glyphicon-chevron-right\"></span>");
+			}
+			
+			$('.date').datepicker({
+			    format: 'dd/mm/yyyy',
+			    autoclose: true,
+			    language: 'es-ES'
+			});
+		});
+		
+		function mostrarOcultarMenu(){
+	        $('#sidebar').toggleClass('active');
+	        if (!$("#sidebar").hasClass( "active" )){
+		        $('#mostrarMenu').remove();
+				$('#sidebarCollapse').append("<span id=\"quitarMenu\" class=\"glyphicon glyphicon-chevron-left\"></span>");
+			}
+			else{
+		        $('#quitarMenu').remove();
+		        $('#sidebarCollapse').append("<span id=\"mostrarMenu\" class=\"glyphicon glyphicon-chevron-right\"></span>");
+			}
+		}
+		
+		</script>
+		<!-- ABDGMRRL1-17: Se realizan los cambios necesarios para el nuevo menu desplegable -->
+		<div class="container">
+			<!-- ABDGMRRL1-26: se ajusta la jsp para adaptarla a bootstrap -->
+<!-- ABDGMRRL1-26: se modifica la jsp para que los logos, documentos, nomnbre de la aplicacion, etc se obtengan de bbdd -->
+
+<!-- CABECERA-->
+<nav class="navbar navbar-meyss bg-primary">
+	<div class="container-fluid">
+		<div class="navbar-header">
+	 		<a href="/regcon/pub/logout" style="color: white; text-decoration: none;" title="Gobierno de España, Ministerio de Trabajo y Economía Social"><img style="margin-top: 1em;" width="100%" height="100%" class="img-fluid" src="/regcon/imagenes/MTIN/bg/logo9900.gif" alt="Estatal - Inicio REGCON"></a>
+					</div>
+		<div class="navbar-header" style="margin-left: 1em;"><img src="/regcon/imagenes/MTIN/bg/Banner-FEDER-2.jpg" width="180" title="Financiado por el fondo Europeo de Desarrollol Regional"></div>
+		<h4 class="navbar-text">REGISTRO Y DEPÓSITO DE CONVENIOS COLECTIVOS - ESTATAL</h4>
+	
+		<div class="navbar-right">
+			<!-- ABDGMRRL1-17: Se realizan los cambios necesarios para el nuevo registro por NIF -->
+			<!-- NUEVO MENU SOLO BOTONES DESPLEGABLES -->
+			<div class="navbar-right navbar-meyss-botonera" style="margin-top: 20%;">
+				<div class="dropdown" style="float: left; margin-left: 0.2em;">
+					</div>
+				<div class="dropdown" style="float: left; margin-left: 0.2em;">
+					<a href="#" class="dropdown-toggle btn btn-sm btn-primary" data-toggle="dropdown" data-hover="dropdown" title="Ayuda"><span class="glyphicon glyphicon_regcon glyphicon-question-sign" style="color:#FFD700;font-size:180%;"></span></a>
+		    		<div class="dropdown-menu dropdown-menu-meyss">
+		        		<div class="textoMenuAyuda">
+		        			<span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<strong id="telefonoAyuda">900 49 44 53</strong>&nbsp;&nbsp;
+		        			<svg xmlns="http://www.w3.org/2000/svg" style="cursor: pointer;" width="15" height="15" fill="currentColor" class="copiarTelefono" viewBox="0 0 16 16" onclick="copyToClipboard('#telefonoAyuda')" onkeypress="copyToClipboard('#telefonoAyuda')">
+							  <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+							  <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+							</svg>
+						</div>
+						<div class="textoMenuAyuda"><a href="mailto:cauregcon@mites.gob.es"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;<strong>cauregcon@mites.gob.es</strong></a></div>
+						</div>
+				</div>
+				<div class="dropdown" style="float: left; margin-left: 0.2em;">
+					<a href="#" class="dropdown-toggle btn btn-sm btn-primary" data-toggle="dropdown" data-hover="dropdown" title="Idioma">
+						<svg xmlns="http://www.w3.org/2000/svg" style="cursor: pointer;" width="19" height="21" fill="currentColor" class="bi bi-translate" viewBox="0 0 16 16">
+						  <path d="M4.545 6.714 4.11 8H3l1.862-5h1.284L8 8H6.833l-.435-1.286H4.545zm1.634-.736L5.5 3.956h-.049l-.679 2.022H6.18z"/>
+						  <path d="M0 2a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v3h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-3H2a2 2 0 0 1-2-2V2zm2-1a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H2zm7.138 9.995c.193.301.402.583.63.846-.748.575-1.673 1.001-2.768 1.292.178.217.451.635.555.867 1.125-.359 2.08-.844 2.886-1.494.777.665 1.739 1.165 2.93 1.472.133-.254.414-.673.629-.89-1.125-.253-2.057-.694-2.82-1.284.681-.747 1.222-1.651 1.621-2.757H14V8h-3v1.047h.765c-.318.844-.74 1.546-1.272 2.13a6.066 6.066 0 0 1-.415-.492 1.988 1.988 0 0 1-.94.31z"/>
+						</svg>
+					</a>
+		   			<div class="dropdown-menu dropdown-menu-meyss">
+		       			<div><a href="/regcon/pub/consultaPublica?language=es"><img width="35%" height="auto" class="img-fluid" alt="Lenguaje Castellano" src="/regcon/imagenes/MTIN/banderas/espanya.png" />&nbsp;Castellano</a></div>
+		   				<div><a href="/regcon/pub/consultaPublica?language=ca"><img width="35%" height="auto" class="img-fluid" alt="Lenguaje Catalán" src="/regcon/imagenes/MTIN/banderas/catalunya.png" />&nbsp;Catalán</a></div>
+		   				<div><a href="/regcon/pub/consultaPublica?language=eu"><img width="35%" height="auto" class="img-fluid" alt="Lenguaje Euskera" src="/regcon/imagenes/MTIN/banderas/pais-vasco.png" />&nbsp;Euskera</a></div>
+	   					<div><a href="/regcon/pub/consultaPublica?language=gl"><img width="35%" height="auto" class="img-fluid" alt="Lenguaje Gallego" src="/regcon/imagenes/MTIN/banderas/galicia.png" />&nbsp;Gallego</a></div>
+		   				<div><a href="/regcon/pub/consultaPublica?language=val"><img width="35%" height="auto" class="img-fluid" alt="Lenguaje Valenciano" src="/regcon/imagenes/MTIN/banderas/valencia.png" />&nbsp;Valenciano</a></div>
+		   			</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+<!-- FIN CABECERA -->
+<script>
+function copyToClipboard(element) {
+	  var $temp = $("<input>");
+	  $("body").append($temp);
+	  $temp.val($(element).text()).select();
+	  document.execCommand("copy");
+	  $temp.remove();
+	}
+</script><ol class="breadcrumb">
+	&nbsp;</ol>
+<div class="wrapper">
+				<!-- ABDGMRRL1-26: se ajusta la jsp para adaptarla a bootstrap -->
+
+<!-- BOOTSTRAP - MENU AL -->
+				<!-- ABDGMRRL1-17: Se realizan los cambios necesarios para que se muestre el menú de CN cuando sea necesario -->
+				<!-- BOOTSTRAP - MENU CN-->
+				<!-- BOOTSTRAP - MENU PUBLICO -->
+				<nav id="sidebar">
+			            <div class="sidebar-header">
+			                <h3>MENÚ REGCON</h3>
+			            </div>
+						<ul class="list-unstyled components supermenu">
+							<li>
+								<a href="#menuPaginaPrincipal" class="dropdown-toggle" data-toggle="collapse" data-hover="collapse" aria-expanded="false">VOLVER AL INICIO&nbsp;<strong class="caret"></strong></a>
+					    		<ul class="collapse list-unstyled" style="border-bottom: 1px solid #4799dc;" id="menuPaginaPrincipal">
+		          					<li><a href="/regcon/index.htm" class="link-dark rounded">Inicio</a></li>
+					    		</ul>
+							</li>
+						</ul>
+					</nav>
+					<!-- <ul class="nav nav-pills nav-meyss">
+	          			<li style="width: 100%;"><a href="/regcon/pub/logout" class="link-dark rounded">PÁGINA PRINCIPAL</a></li>
+			            <li style="width: 100%;"><a href="/regcon/pub/altaUsuarioEstatal" class="link-dark rounded">ALTA PERSONA USUARIA</a></li>
+			            <li style="width: 100%;"><a href="/regcon/pub/AccesoUsuarioEstatal" class="link-dark rounded">ACCEDER A TRAMITACIÓN</a></li>
+			            <li style="width: 100%; background-color: white;"><a href="/regcon/pub/consultaPublicaEstatal" class="link-dark rounded">CONSULTA PÚBLICA</a></li>
+			            <li style="width: 100%;"><a href="/regcon/pub/consultaInteresadosEstatal" class="link-dark rounded">CONSULTA PERSONAS INTERESADAS</a></li>
+			            <li style="width: 100%;"><a href="/regcon/pub/buscadorTextosEstatal" class="link-dark rounded">BUSCAR EN TEXTOS</a></li>
+			            <li style="width: 100%;"><a href="/regcon/pub/altaALEstatal" class="link-dark rounded">ALTA AUTORIDAD LABORAL</a></li>
+		          	</ul>-->
+				<a class="nav-link collapsed"></a><a class="nav-link collapsed"></a><a class="nav-link collapsed"></a>
+				<div id="content">
+					<div class="custom-menu" style="margin-bottom: 10px;">
+								<a href="#" id="sidebarCollapse" class="btn btn-primary" onclick="mostrarOcultarMenu();"></a>
+                   			</div>
+						<div id="col3">
+				        	<!-- CAMINO DE MIGAS -->
+<!-- Inicio ABMTOIND25- 1075 --> 
+<style>
+	.input-propio{
+		background-color: : #337ab7 !important;
+	}
+</style>
+
+
+
+<div class="panel panel-info panel-table" style="width: 100%;">
+	<div class="panel-heading" >
+		<a data-toggle="collapse" href="#collapseSearchCriteria" aria-expanded="true" aria-controls="collapseSearchCriteria"></a>	
+		<div>
+			<b>Consulta de Trámites</b>
+		    	</div>
+		
+	</div>
+	<div id="collapseSearchCriteria" class="collapse in">
+		<div class="panel-body" >
+		
+<form id="gestionAcuerdos" name="gestionAcuerdos" class="default" action="/regcon/pub/consultaPublica" method="post"><!--  Comprobamos si estamos ante un acceso publico o un acceso seguro -->
+<input type="hidden" name="idConvenioResolucion" value=""/>
+<!-- PETICION 13056: se añade la variable bandejaPersonalizadaActiva, para que en caso de ser TRUE, que se muestre la nueva columna -->
+<!-- CON ACUERDOS -->
+				<div class="row">
+				    <div class="col-md-12">
+					<div id="datos" class="c100l">
+			        <table summary="Tramites" class="table table-bordered table-striped table-hover table-condensed table-meyss" style="margin-top: 2em;">
+			          <caption>TRÁMITES</caption>
+			    	<thead class="bg-primary">
+				        <tr>
+				        <th width="12%">
+				        			<div class="c12l botonImagenOrdenacion">
+					        			<img src="/regcon/imagenes/MTIN/orden sinordenacion.gif" title="sin ordenaci&oacute;n">
+				          					</div>				        		
+			          					<input type="submit" value="Código Acuerdo Localizador" name="_ordenacionCodigoAcuerdo" class="botonCabeceraTablaBootstrap">
+				        		</th>
+			          		<th>
+   			          		<div class="c20l botonImagenOrdenacion">
+	   			          	 	<img src="/regcon/imagenes/MTIN/orden sinordenacion.gif" title="sin ordenaci&oacute;n">
+				          			</div>   			          	
+	          				<input type="submit" value="Denominación" name="_ordenacionDenominacion" class="botonCabeceraTablaBootstrap">
+		          	 	</th>
+       	          	 	<th>
+	          				Tipo de Trámite</th>
+	          	 		<th width="12%">
+	          				Autoridad Laboral</th>
+			          	<th width="10%">
+					          	<div class="c17l botonImagenOrdenacion">
+				        			<!-- <img src="/regcon/imagenes/MTIN/orden descendente.gif" title="ordenaci&oacute;n descendente">-->
+			          								<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-sort-down" viewBox="0 0 16 16">
+														<path d="M3.5 2.5a.5.5 0 0 0-1 0v8.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 1.999.007.007a.497.497 0 0 0 .7-.006l2-2a.5.5 0 0 0-.707-.708L3.5 11.293zm3.5 1a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5M7.5 6a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1zm0 3a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1zm0 3a.5.5 0 0 0 0 1h1a.5.5 0 0 0 0-1z"/>
+													</svg>
+			          							</div>				          	
+		          				<div class="c70l">
+		          					<input type="submit" value="Fecha de Inscripción / 
+Publicación" name="_ordenacionFechaInscripcion" class="botonCabeceraTablaBootstrap">
+		          				</div>
+				          	</th>	
+			          	<th width="10%">
+				          		Vigencia Desde</th>
+				          	<th width="10%">
+				          		Vigencia Hasta</th>
+			          	<th width="7%">
+				          	<div class="c100l textoBotonOrdenacionCentrado">
+				          		Acciones</div>
+			          	</th>
+			          	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+			          	</tr>
+					</thead>
+			        <tbody>
+			        	<!-- CORRECTIVO REGCON 726: Si la comunicacion de oficio está asociada a un convenio sin código, se muestra sólo el localizador de la comunicacion de oficio -->
+						<tr>
+			          			<td>
+												71000253011989</td>
+										<td>RTVA. RADIOTELEVISION ANDALUZA, CANAL SUR RADIO, S.A. Y CANAL SUR TELEVISIO[..]</td>
+					            <td class="ac">
+					            	CONVENIO COLECTIVO<br/>(TEXTO NUEVO)</td>
+								<td class="ac">Andalucía</td>
+								<!-- Obtener Fecha del MAPA -->
+								<td class="ac">
+						        		10/12/2014</td>
+						        <td class="ac">
+							        	01/01/2013</td>
+							        <td class="ac">
+							        	31/12/2015</td>
+						        <td>
+					            <button type="submit" title="Ver" name="_verExpediente54919" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-eye-open glyphiconVerBandejaEntrada" style="font-size: 2em"></span></button>					            											             															             														             													            											            												             																	            			
+							            			</td>
+						     	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+						     	</tr>
+			        	<tr>
+			          			<td>
+												71000253011989</td>
+										<td>RTVA. RADIOTELEVISION ANDALUZA, CANAL SUR RADIO, S.A. Y CANAL SUR TELEVISIO[..]</td>
+					            <td class="ac">
+					            	ACUERDO AMPLIACIÓN ULTRAACTIVIDAD</td>
+								<td class="ac">Andalucía</td>
+								<!-- Obtener Fecha del MAPA -->
+								<td class="ac">
+						        		05/02/2014</td>
+						        <td class="ac">
+							        	01/01/2010</td>
+							        <td class="ac">
+							        	31/12/2012</td>
+						        <td>
+					            <button type="submit" title="Ver" name="_verExpediente44314" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-eye-open glyphiconVerBandejaEntrada" style="font-size: 2em"></span></button>					            											             															             														             													            											            												             																	            										            				
+							            			</td>
+						     	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+						     	</tr>
+			        	<tr>
+			          			<td>
+												71000253011989</td>
+										<td>RTVA. RADIOTELEVISION ANDALUZA, CANAL SUR RADIO, S.A. Y CANAL SUR TELEVISIO[..]</td>
+					            <td class="ac">
+					            	PROMOCIÓN DE NEGOCIACIÓN</td>
+								<td class="ac">Andalucía</td>
+								<!-- Obtener Fecha del MAPA -->
+								<td class="ac">
+						        		11/12/2012</td>
+						        <td class="ac">
+							        	01/01/2010</td>
+							        <td class="ac">
+							        	31/12/2012</td>
+						        <td>
+					            
+							            			&nbsp;
+							            		</td>
+						     	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+						     	</tr>
+			        	<tr>
+			          			<td>
+												71000253011989</td>
+										<td>RTVA. RADIOTELEVISION ANDALUZA, CANAL SUR RADIO, S.A. Y CANAL SUR TELEVISIO[..]</td>
+					            <td class="ac">
+					            	DENUNCIA</td>
+								<td class="ac">Andalucía</td>
+								<!-- Obtener Fecha del MAPA -->
+								<td class="ac">
+						        		23/10/2012</td>
+						        <td class="ac">
+							        	01/01/2010</td>
+							        <td class="ac">
+							        	31/12/2012</td>
+						        <td>
+					            
+							            			&nbsp;
+							            		</td>
+						     	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+						     	</tr>
+			        	<tr>
+			          			<td>
+												71000253011989</td>
+										<td>RTVA. RADIOTELEVISION ANDALUZA, CANAL SUR RADIO, S.A. Y CANAL SUR TELEVISIO[..]</td>
+					            <td class="ac">
+					            	CONVENIO COLECTIVO<br/>(TEXTO NUEVO)</td>
+								<td class="ac">Andalucía</td>
+								<!-- Obtener Fecha del MAPA -->
+								<td class="ac">
+						        		11/02/2011</td>
+						        <td class="ac">
+							        	01/01/2010</td>
+							        <td class="ac">
+							        	31/12/2012</td>
+						        <td>
+					            <button type="submit" title="Ver" name="_verExpediente852" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-eye-open glyphiconVerBandejaEntrada" style="font-size: 2em"></span></button>					            											             															             														             													            											            												             																	            			
+							            			</td>
+						     	<!-- PETICION 13056: si la bandeja personalizada está activa, se muestra la nueva columna -->
+						     	</tr>
+			        	</tbody>
+			</table>
+			</div>
+			</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<ul class="pagination pagination-sm" style="margin: 0px !important;">
+						<li class="disabled">
+		                	<span> Resultados1 - 5&nbsp;de&nbsp;5&nbsp; </span>
+		              	</li>
+		            </ul>
+				</div>
+		
+				<div class="col-md-8">
+					<ul class="pagination pagination-sm pull-right" style="margin: 0px !important;">
+						<li>
+									<a><strong>1</strong></a></li>
+							</ul>
+				</div>
+			</div>
+	
+
+	<div class="row">
+			<div class="col-md-12 text-center">
+				<!-- ABDGMRRL1-17: si esta página viene del registro por nif nueva, se debe ir a la página de detalle del convenio o acuerdo desde el que se llego a esta pantalla -->
+							<button name="_nuevaBusqueda" id="_nuevaBusqueda" type="submit" class="btn btn-sm btn-default">
+										<span class="glyphicon glyphicon-eject"></span> Nueva Búsqueda</button>
+								<input type="submit" id="_exportarExcelPublicoXML" name="_exportarExcelPublicoXML" value="Exportar Excel" class="btn btn-sm btn-default"/></div>
+		</div>
+	<!-- PETICION 13602: SE AÑADE LA VENTANA CONFIRMACIÓN ACCIONES -->
+	<!-- ABDGMRRL1-17: se modifica el acceso a la jsp mensajeConfirmacion.jsp -->
+	<input type="hidden" id="tokenBloqueoDescarga" name="tokenBloqueoDescarga"/>
+</form></div>
+</div>
+</div>
+</div>
+				</div>
+			</div>
+		</div>
+		<!-- PIE -->
+<!-- ABDGMRRL1-26: se ajusta la jsp para adaptarla a bootstrap -->
+
+<footer class="footer">
+	<div class="container">
+		<div class="col-md-4 bg-primary col-left">
+			<p class="m-2"> </p>
+		</div>
+		<div class="col-md-5 bg-primary" style="text-align: center;">
+	   <!-- <p>Si tiene cualquier incidencia, comentario, etc, envíe un correo electrónico a <a style="color:white;" href="mailto:sgtic-rgpd@mites.gob.es">sgtic-rgpd@mites.gob.es</a></p> --> 
+			<p style="margin-top: 9px;">Contacto: 900 494 453 <a style="color:white;" href="mailto:cauregcon@mites.gob.es">cauregcon@mites.gob.es</a>
+				<br>Incidencias técnicas: <a style="color:white;" href="mailto:cauregcon@mites.gob.es">cauregcon@mites.gob.es</a>
+				</div>
+		<div class="col-md-3 bg-primary col-right">
+			<p class="text-right"><span class="label label-danger"> </span>&nbsp;v.6.27.1</p>
+		</div>
+	</div>
+</footer><div id="ayuda"></div>
+		<div id="ayudaAux"></div>
+	</body>
+</html>

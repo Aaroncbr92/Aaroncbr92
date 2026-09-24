@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="es" style='height: 100%; overflow: hidden;'>
+
+<head>
+	<title>FSC-CCOO Andalucía</title>
+	<meta charset="UTF-8">		
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">	
+	<link rel="icon" type="image/png" href="/cms/favicons/favicon_331.png">
+	
+	<link rel='stylesheet' href='/cms/css/tiny_styles.css'/>
+	<link rel='stylesheet' href='/js/jquery-ui-1.10.3/themes/smoothness/jquery-ui-1.10.3.custom.css'/>
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900%7CRoboto+Condensed:300,400,700&subset=latin,latin-ext'/>
+	<link rel='stylesheet' href='/cms/css/html5reset.css'/>
+	<link rel='stylesheet' href='/cms/css/csccoo.css'/>
+	<link rel='stylesheet' href='/cms/css/cookieconsent.css'/>
+	<link rel='stylesheet' href='//cdn.flowplayer.com/releases/native/3/stable/style/flowplayer.css'/>
+	
+	
+	
+	<!--[if lte IE 8]><style>@import url("/cms/css/cms_ie.css");</style><![endif]-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<meta property='og:type' content='article'/>
+	<meta property='og:title' content='CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA'/>
+	<meta property='og:site_name' content='FSC Andalucía'/>
+	<meta property='og:url' content='https://andalucia.fsc.ccoo.es/noticia:717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA&opc_id=bc1877955f219fc4361e7dcf48131ccf'/>
+	<meta property='og:image' content='https://andalucia.fsc.ccoo.es/133ac941ef652a554e7b047fd648f14b000050.jpg'/>
+	<meta property='og:description' content=''/>
+			<script type='text/javascript' src='/js/validaciones_app.js'></script>
+			<meta name="twitter:card" content="summary_large_image"/>
+			<meta name="twitter:site" content="FSC Andalucía"/>
+			<meta name="twitter:title" content="CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA" />			
+			<meta name="twitter:description" content="" />
+			<meta name="twitter:image" content="https://andalucia.fsc.ccoo.es/133ac941ef652a554e7b047fd648f14b000050.jpg" />		
+	<script src='/js/jquery-3.7.1.min.js'></script>
+	<script src='/js/jquery-1.11.0.min.js'></script>
+	<script src='/js/jquery-ui-1.10.3/ui/minified/jquery-ui.min.js'></script>
+	<script src='//cdn.flowplayer.com/releases/native/3/stable/flowplayer.min.js'></script>
+	<script src='//cdn.flowplayer.com/releases/native/3/stable/plugins/hls.min.js'></script>
+	<script src='//cdn.flowplayer.com/releases/native/3/stable/plugins/audio.min.js'></script>
+	
+	
+	<script src='https://kit.fontawesome.com/e62e370cf8.js' crossorigin='anonymous'></script>
+	
+	
+	
+	<script type="text/javascript">
+	
+		if (!String.prototype.trim) {
+		  (function() {			 
+		    var rtrim = /^[\s\uFEFF�]+|[\s\uFEFF�]+$/g;
+		    String.prototype.trim = function() {
+		      return this.replace(rtrim, '');
+		    };
+		  })();
+		}
+		
+		cookies_conf = "";
+		function saveConfigCookies() {
+			var strCookies;
+			strCookies = ($('#cg').prop("checked")) ? "1" : "0";
+			strCookies+= ($('#cf').prop("checked")) ? "1" : "0";
+			strCookies+= ($('#ct').prop("checked")) ? "1" : "0";			
+            strCookies+= ($('#cb').prop("checked")) ? "1" : "0";
+			var cookexpire = new Date(); 
+			cookexpire.setTime(new Date().getTime()+3600000*24*365); 
+			document.cookie = 'config=' + strCookies + ';expires=' + cookexpire.toGMTString();
+			location.reload();
+		}
+	
+			
+		var DBG=0;
+		
+		
+		$(document).ready(function() {
+			$.maxZIndex = $.fn.maxZIndex = function(opt) {
+				var def = { inc: 10, group: "*" };
+				$.extend(def, opt);    
+				var zmax = 0;
+				$(def.group).each(function() {
+					var cur = parseInt($(this).css('z-index'));
+					zmax = cur > zmax ? cur : zmax;
+				});
+				if (!this.jquery) return zmax;
+		
+				return this.each(function() {
+					zmax += def.inc;
+					$(this).css("z-index", zmax);
+				});
+			}			
+			if ($('#divLoad').length) $('#divLoad').remove();	
+					
+			
+			/* elcon:6101410- */$('#li_1').click();
+/* elcon:169- */arrImaNot[717650] = new Array();arrImaNot[717650][0]='/133ac941ef652a554e7b047fd648f14b000050.jpg';numImaNot[717650] = 0;arrPieIma[717650] = new Array();arrPieIma[717650][0]='CCOO sigue reclamando los derechos de las trabajadoras y trabajadores de Canal Sur y RTVA';
+			
+		});
+
+		function get_cookie(cname) {				
+               var allcookies = document.cookie;                             
+               var cookiearray = allcookies.split(';');	               
+               for (var s=0; s<cookiearray.length; s++) {				   	
+                	var nombre = (cookiearray[s].split('=')[0]).trim();
+					var valor = cookiearray[s].split('=')[1];					   
+				  	if (nombre==cname) return valor;
+               }
+			   return "";
+        }
+
+		function check_cookie() {		
+			var perfil = get_cookie('profile');
+			var dir = "http://" + window.location.host;				
+			var nom_opc = "Actualidad";
+			nom_opc = nom_opc.replace(" ","_");
+			if (perfil!='' && dir!=perfil) window.location.href = perfil + "/" + nom_opc;
+			
+			// Si no hay, generamos la cookie
+			if (perfil == '') {			
+				var exdate=new Date();
+	   			exdate.setDate(exdate.getDate() + 2*365);
+	    		var exp=";expires="+exdate.toUTCString();						
+				// Indicamos el dominio para que no considere distintas las cookies según el subdominio
+				document.cookie="profile=" + dir + exp + ";domain=ccoo.es";
+			}
+		}
+		
+		function callPlugin(event_id,data,opciones){		
+			var insideIframe = window.top !== window.self;
+			if (insideIframe) {
+				parent.postMessage({
+					event_id: event_id,
+					data :data,
+					opciones: opciones
+				},
+				'*');
+			} else { 
+				window.open(data, '_blank', opciones);				
+			}
+		}
+		
+		function showImg(img) {
+			diaWidth = $(window).width()>435 ? "435" : $(window).width();			
+			imgWidth = diaWidth - 35;
+			var Y = Math.floor(window.innerHeight/2 - 200);			
+			$("#imgDialog").dialog({
+				width: diaWidth + "px",
+				modal: false,
+				autoOpen: false,
+				clickOutside: true,
+				clickOutsideTrigger: "#opener1",
+				open: function(event, ui) {
+            $(this).parent().css({'top': Y});
+        }
+			});
+			$("#imgDialog").html("<img src='/" + img + "' style='max-width: " + imgWidth + "px'>");			
+			$("#imgDialog").dialog('open');			
+		}	
+		
+		
+					
+			indSizeFont = 0;
+			var arrSizeFont = ["", "15px", "18px", "21px", "24px"];			
+		
+			// Incremento del tama�o de fuente
+			function incSizeFont() {				
+				indSizeFont++;
+				if (indSizeFont>4) indSizeFont = 4;
+				cuerpo = document.getElementById("divCuerpo");
+				parrafos = cuerpo.getElementsByTagName('P');				
+				document.getElementById('divSubtitulos').style.fontSize = arrSizeFont[indSizeFont];
+				document.getElementById('divSubtitulos').style.lineHeight = "130%";
+				for (i=0; i<parrafos.length; i++) {
+					parrafos[i].style.fontSize = arrSizeFont[indSizeFont];
+					parrafos[i].style.lineHeight = "130%";
+				}
+				document.getElementById('divFechaFuente').style.fontSize = arrSizeFont[indSizeFont];
+				document.getElementById('divFechaFuente').style.lineHeight = "130%";
+				entradilla = document.getElementById("pEntradilla");
+				entradilla.style.fontSize = arrSizeFont[indSizeFont];
+				entradilla.style.lineHeight = "130%";
+			}
+
+			// Decremento del tama�o de fuente
+			function decSizeFont() {
+				indSizeFont--;
+				if (indSizeFont<0) indSizeFont = 0;
+				cuerpo = document.getElementById("divCuerpo");
+				parrafos = cuerpo.getElementsByTagName('P');
+				for (i=0; i<parrafos.length; i++) parrafos[i].style.fontSize = arrSizeFont[indSizeFont];
+				document.getElementById('divFechaFuente').style.fontSize = arrSizeFont[indSizeFont];
+				entradilla = document.getElementById("pEntradilla");
+				entradilla.style.fontSize=arrSizeFont[indSizeFont];				
+			}			
+
+			arrImaNot = new Array();
+			arrPieIma = new Array();
+			numImaNot = new Array();			
+
+			// Avance a la imagen siguiente
+			function nextImaNot(cd_cms_conte) {				
+				if (numImaNot[cd_cms_conte]<arrImaNot[cd_cms_conte].length-1) numImaNot[cd_cms_conte]++; else numImaNot[cd_cms_conte] = 0;				
+				document.getElementById('imagen_' + cd_cms_conte).src = arrImaNot[cd_cms_conte][numImaNot[cd_cms_conte]];
+				document.getElementById('a_' + cd_cms_conte).href = arrImaNot[cd_cms_conte][numImaNot[cd_cms_conte]];				
+				document.getElementById('pie_' + cd_cms_conte).innerHTML = arrPieIma[cd_cms_conte][numImaNot[cd_cms_conte]];
+			}
+
+			// Retroceso a la imagen anterior
+			function prevImaNot(cd_cms_conte) {								
+				if (numImaNot[cd_cms_conte]>0) numImaNot[cd_cms_conte]--; else numImaNot[cd_cms_conte] = arrImaNot[cd_cms_conte].length-1;
+				document.getElementById('imagen_' + cd_cms_conte).src = arrImaNot[cd_cms_conte][numImaNot[cd_cms_conte]];
+				document.getElementById('a_' + cd_cms_conte).href = arrImaNot[cd_cms_conte][numImaNot[cd_cms_conte]];
+				document.getElementById('pie_' + cd_cms_conte).innerHTML = arrPieIma[cd_cms_conte][numImaNot[cd_cms_conte]];
+			}
+			
+			arrVideos = new Array();			
+			numVideo = new Array();			
+
+			/// Avance al vídeo siguiente
+			function nextVideo(cd_cms_conte) {				
+				document.getElementById('divContVideo' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='none';
+				document.getElementById('but_' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='none';
+				if (numVideo[cd_cms_conte]<arrVideos[cd_cms_conte].length-1) numVideo[cd_cms_conte]++; else numVideo[cd_cms_conte] = 0;
+				document.getElementById('divContVideo' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='block';
+				document.getElementById('but_' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='block';
+			}
+
+			// Retroceso al vídeo anterior
+			function prevVideo(cd_cms_conte) {
+				document.getElementById('divContVideo' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='none';
+				document.getElementById('but_' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='none';
+				if (numVideo[cd_cms_conte]>0) numVideo[cd_cms_conte]--; else numVideo[cd_cms_conte] = arrVideos[cd_cms_conte].length-1;
+				document.getElementById('divContVideo' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='block';
+				document.getElementById('but_' + cd_cms_conte + "_" + numVideo[cd_cms_conte]).style.display='block';
+			}			
+
+			// Enviar comentario
+			function sndComm(elcon,elconmaster){
+				var firstError = '';
+				var patt=/^[ a-zA-Z0-9������������]{4,}/g;
+				if ($('#nick').val()=='' || !patt.test($('#nick').val())) {
+					setValError('nick','el nombre','R',"El nombre o apodo debe contener al menos cuatro caracteres");
+					firstError = "nick";
+				} else delValError('nick');
+
+				var patt=/^[ a-zA-Z0-9������������,.:\-*]{4,}/g;
+				if (!patt.test($('#comen').val())) {
+					setValError('comen','el comentario','E','El comentario debe contener al menos cuatro caracteres (letras, n�meros y/o signos de puntuaci�n)');
+					if (firstError=='') firstError = "comen";
+				}
+				else delValError('comen');				
+				if (firstError) {
+					$('#' + firstError).focus();
+					return false;
+				}
+				var d = new Object();
+				d['nick'] = $('#nick').val();
+				d['comen'] = $('#comen').val();
+				d['cd_cms_conte']=717650;				
+				$.post('/cms.php?F:'+elcon+','+elconmaster, { fun: "savcom", data: JSON.stringify(d) } ,
+					function(data) {
+						try {	
+							//alert(data);						
+							eval(data);
+						} catch(e) {
+							alert('Error enviando datos AAA: '+e.message);
+						}
+					}
+				).fail(function(xhr,status,error) {
+					alert('Error enviando datos: '+e.message);
+				});
+			}			
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+		a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	</script>	
+</head>		<body style="position: relative; min-height: 100%; overflow: hidden">
+			<div id='imgDialog'></div>
+			<div class='cms_contenedor_principal'>
+					<div class="ccoo-cc-root">
+		<div class="ccoo-cc-overlay"></div>
+			<div class="ccoo-cc-dialog" role="dialog" tabindex="0">
+					<div id="adv-cookies-1" class="ccoo-cc-content-container">
+						<div class="ccoo-cc-content-header">
+							<div class="ccoo-cc-header-image-container"> <!--fc-header-image-container-->
+								<img class="ccoo-cc-header-image" alt="Comisiones Obreras" src="/cms/g/logotipos/CCOO_pastilla_RGB_72ppp_162x54.png"> <!--fc-header-image-->
+							</div>
+						</div>
+	
+						<div class="ccoo-cc-content-body">
+							<h2>Política de cookies</h2>
+							<p>Este sitio usa cookies propias y de terceros para facilitar la navegación y obtener información de estadísticas de uso de nuestros visitantes. Puedes aceptar todas las cookies pulsando el botón 'Aceptar' o configurarlas o rechazar su uso pulsando el botón 'Configurar cookies'</p>
+							<p>Para más información consulta nuestra <span onclick="$('#adv-cookies-1').addClass('ccoo-cc-hidden'); $('#adv-cookies-2').removeClass('ccoo-cc-hidden')">Política de cookies</span></p>
+						</div>
+	
+						<div class="ccoo-cc-content-footer">
+							<div class="ccoo-cc-btns-container">
+								<span class="ccoo-cc-btn" onclick="$('#adv-cookies-1').addClass('ccoo-cc-hidden'); $('#adv-cookies-2').removeClass('ccoo-cc-hidden')">Política de cookies</span>
+								<span class="ccoo-cc-btn" id="sn-b-custom" onclick="$('#adv-cookies-1').addClass('ccoo-cc-hidden'); $('#adv-cookies-3').removeClass('ccoo-cc-hidden')">Configurar cookies</span>
+							</div>
+							<div class="ccoo-cc-btns-container-end">
+								<span class="ccoo-cc-btn ccoo-cc-btn-action" id="accept-choices" onclick="var cookexpire=new Date(); cookexpire.setTime(new Date().getTime()+3600000*24*365); document.cookie='config=111;expires='+cookexpire.toGMTString();location.reload()">Aceptar</span>
+							</div>
+						</div>
+					</div>
+	
+					<div id="adv-cookies-2" class="ccoo-cc-content-container ccoo-cc-hidden">
+						<div class="ccoo-cc-content-header">
+							<div class="ccoo-cc-header-image-container"> <!--fc-header-image-container-->
+								<img class="ccoo-cc-header-image" alt="Comisiones Obreras" src="/cms/g/logotipos/CCOO_pastilla_RGB_72ppp_162x54.png"> <!--fc-header-image-->
+							</div>
+						</div>
+	
+						<div class="ccoo-cc-content-body">
+											<h2 class="generic">
+					<div class="wrapper_000">
+						<p class="est_p_v001">Política de cookies</p>
+					</div>
+				</h2>
+			<div class="eC_estatico_v001">			
+				<div class="wrapper_000">
+					<p class="est_p_v001">F.E. SERVICIOS CIUDADANIA informa que este sitio web usa cookies para:</p>
+							<ol>
+								<li><p class="est_p_v001">Asegurar que las páginas web puedan funcionar correctamente</p></li>
+								<li><p class="est_p_v001">Recopilar información estadística anónima, como qué páginas ha visitado la persona usuaria o cuánto tiempo ha permanecido en el sitio web.</p></li> 
+								<li><p class="est_p_v001">Mostrar contenido de redes sociales, siempre relacionado con información de la organización de CCOO.</p></li>
+							</ol>
+							<p class="est_p_v001">Informamos que contiene enlaces a sitios web de terceros con políticas de privacidad ajenas a la de CCOO que podrá decidir si acepta o no cuando acceda a ellos.</p>		
+							<p class="est_p_v001">
+								A continuación encontrará información detallada sobre qué son las cookies, qué tipo de cookies utiliza este sitio web, cómo puede desactivarlas en su 
+								navegador y cómo bloquear específicamente la instalación de cookies de terceros.
+							</p>						
+							<ol>
+								<li>
+									<p class="est_p_v001"><strong>¿Qué son las cookies?</strong></p>			
+									<p class="est_p_v001">
+										Las cookies son archivos que los sitios web o las aplicaciones instalan en el navegador o en el dispositivo (smartphone, tablet o televisión conectada) 
+										de la persona usuaria durante su recorrido por las páginas del sitio o por la aplicación, y sirven para almacenar información sobre su visita.
+									</p>
+									<p class="est_p_v001">
+										El uso de cookies permite optimizar la navegación, adaptando la información y los servicios ofrecidos a los intereses de la persona usuaria, para 
+										proporcionarle una mejor experiencia siempre que visita el sitio web.
+									</p>
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>Tipología, finalidad y funcionamiento</strong></p>
+									<p class="est_p_v001">
+										Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las primeras expiran cuando la persona usuaria cierra el 
+										navegador. Las segundas expiran cuando se cumple el objetivo para el que sirven (por ejemplo, para que la persona usuaria se mantenga identificada en el 
+										sitio web) o bien cuando se borran manualmente.
+									</p>
+									<p class="est_p_v001">
+										Adicionalmente, en función de su objetivo, las cookies utilizadas pueden clasificarse de la siguiente forma:
+									</p>
+									<ul>
+										<li>
+											<p class="est_p_v001">
+												<strong>Estrictamente necesarias (técnicas):</strong> Son aquellas imprescindibles para el correcto funcionamiento de la página. Normalmente 
+												se generan cuando la persona usuaria accede al sitio web o inicia sesión en el mismo y se utilizan para identificarle en el 
+												sitio web con los siguientes objetivos:
+											</p>
+											<ul>
+												<li><p class="est_p_v001">Mantener la persona usuaria identificada de forma que, si abandona el sitio web, el navegador o el dispositivo y en otro momento vuelve a acceder a dicho sitio web, seguirá identificado, facilitando así su navegación sin tener que volver a identificarse</p></li>
+												<li><p class="est_p_v001">Comprobar si la persona usuaria está autorizada para acceder a ciertos servicios o zonas del sitio web</p></li>
+											</ul>
+										</li>
+										<li>
+											<p class="est_p_v001">
+												<strong>De rendimiento:</strong> Se utilizan para mejorar la experiencia de navegación y optimizar el funcionamiento del sitio web
+											</p>									
+										</li>
+										<li>
+											<p class="est_p_v001">
+												<strong>Analíticas:</strong> Recopilan información sobre la experiencia de navegación de la persona usuaria en el sitio web, normalmente de forma anónima, 
+												aunque en ocasiones también permiten identificar de manera única e inequívoca a la persona usuaria con el fin de obtener informes 
+												sobre los intereses de la  persona usuaria en los servicios que ofrece el sitio web.
+											</p>
+										</li>
+									</ul>
+									<p class="est_p_v001">
+										Para más información puedes consultar la guía sobre el uso de las cookies elaborada por la Agencia Española de Protección de Datos en  
+										<a href='https://www.aepd.es/sites/default/files/2020-07/guia-cookies.pdf' target='_blank'>
+											https://www.aepd.es/sites/default/files/2020-07/guia-cookies.pdf</a>
+										</a>
+									</p>
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>Cookies utilizadas en este sitio web</strong></p>
+									<p class="est_p_v001">
+										A continuación, se muestra una tabla con las cookies utilizadas en este sitio web, incorporando un criterio de "nivel de intrusividad" apoyado en una 
+										escala del 1 al 3, en la que:
+									</p>
+									<p class="est_p_v001">
+										<strong>Nivel 1:</strong> se corresponde con cookies estrictamente necesarias para la prestación del propio servicio solicitado por la persona usuaria.
+									</p>
+									<p class="est_p_v001">
+										<strong>Nivel 2:</strong> se corresponde con cookies de rendimiento (anónimas) necesarias para el mantenimiento de contenidos y navegación, de las que solo es necesario informar sobre su existencia.
+									</p>
+									<p class="est_p_v001">	
+										<strong>Nivel 3:</strong> se corresponde con cookies gestionadas por terceros que permiten el seguimiento de la persona usuaria a través de webs de las que  
+										F.E. SERVICIOS CIUDADANIA no es titular. Puede corresponderse con cookies donde se identifica a la persona usuaria de manera única y evidente.
+									</p>
+									<p class="est_p_v001"><strong>Listado de Cookies Utilizadas</strong></p>
+									<ul>
+										<li><p class="est_p_v001"><strong>Cookie:</strong> PHPSESSID, SERVERID, Incap_ses_*_* y visid_incap_*<br>
+											<strong>Duración:</strong> Sesión<br>
+											<strong>Tipo:</strong> Imprescindibles<br>
+											<strong>Propósito:</strong> Mantener la coherencia de la navegación y optimizar el rendimiento del sitio web<br>
+											<strong>Intrusividad:</strong> 1</p>
+										</li>
+									
+										<li><p class="est_p_v001"><strong>Cookie:</strong> config<br>
+											<strong>Duración:</strong> 1 año<br>
+											<strong>Tipo:</strong> Imprescindibles<br>
+											<strong>Propósito:</strong> Guardar la configuración de cookies seleccionada por el usuario<br>
+											<strong>Intrusividad:</strong>2</p>
+										</li>
+									
+										<li><p class="est_p_v001"><strong>Cookie:</strong> Google Analytics (_gat, _gid y _ga)<br>
+											<strong>Duración:</strong> 24 horas<br>
+											<strong>Tipo:</strong> Analítica, de terceros (Google)<br>
+											<strong>Propósito:</strong> Permitir la medición y análisis de la navegación en las páginas web<br>
+											<strong>Intrusividad:</strong> 3</p>
+										</li>
+									
+										<li><p class="est_p_v001"><strong>Cookie:</strong> Facebook (_fbp)<br>
+											<strong>Duración:</strong> 3 meses<br>
+											<strong>Tipo:</strong> Terceros (Facebook)<br>
+											<strong>Propósito:</strong> Mostrar información incrustada de la red social Facebook<br>
+											<strong>Intrusividad:</strong> 3</p>
+										</li>
+									
+										<li><p class="est_p_v001"><strong>Cookie:</strong> Twitter (eu_cn, ct0, guest_id, personalization_id)<br>
+											<strong>Duración:</strong> Sesión<br>
+											<strong>Tipo:</strong> Terceros (Twitter)<br>
+											<strong>Propósito:</strong> Mostrar información incrustada de la red social Twitter<br>
+											<strong>Intrusividad:</strong> 3</p>
+										</li>
+									</ul>
+									<p class="est_p_v001">
+										Desde los siguientes enlaces puedes consultar la política de cookies de terceros: 
+										<a href='https://policies.google.com/technologies/cookies?hl=es' target='_blank'>Política de cookies de Google</a>, 
+										<a href='https://es-es.facebook.com/policies/cookies' target='_blank'>Política de cookies de Facebook</a>,
+										<a href='https://help.twitter.com/es/rules-and-policies/twitter-cookies' target='_blank'>Política de cookies de Twiter</a>
+									</p>
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>Deshabilitar el uso de cookies</strong></p>
+									<p class="est_p_v001">
+										La persona usuaria en el momento de iniciar la navegación de la web, configura la preferencia de cookies. 
+									</p>
+									<p class="est_p_v001">	
+										Si en un momento posterior desea cambiarla, puede hacerlo a través de la configuración del navegador.  
+									</p>
+									<p class="est_p_v001">	
+										Si la persona usuaria así lo desea, es posible dejar de aceptar las cookies del navegador, o dejar de aceptar las cookies de un servicio en particular.
+									</p>
+									<p class="est_p_v001">
+										Todos los navegadores modernos permiten cambiar la configuración de cookies. Estos ajustes normalmente se encuentran en las <i>Opciones</i> o <i>Preferencias</i> 
+										del menú del navegador.
+									</p>
+									<p class="est_p_v001">
+										La persona usuaria podrá, en cualquier momento, deshabilitar el uso de cookies en este sitio web utilizando su navegador. Hay que tener en cuenta que 
+										la configuración de cada navegador es diferente. Puede consultar el botón de ayuda o bien visitar los siguientes enlaces de cada navegador donde le 
+										indicará como hacerlo: 							
+										<a href="http://windows.microsoft.com/es-xl/internet-explorer/delete-manage-cookies#ie=ie-10" target="_blank">Internet Explorer</a>,
+										<a href="https://support.mozilla.org/es/kb/Borrar%20cookies" target="_blank">FireFox</a>,
+										<a href="https://support.google.com/chrome/answer/95647?hl=es" target="_blank">Chrome</a>,
+										<a href="http://www.apple.com/legal/privacy/es/cookies/" target="_blank">Safari</a>
+									</p>
+									<p class="est_p_v001">
+										También existen otras herramientas de terceros, disponibles on-line, que permiten a la persona usuaria gestionar las cookies.
+									</p>
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>¿Qué ocurre al deshabilitar las cookies?</strong></p>
+									<p class="est_p_v001">
+										Algunas funcionalidades y servicios pueden quedar deshabilitados, tener un comportamiento diferente al esperado o incluso que se degrade notablemente la experiencia de 
+										navegación de la persona usuaria. 
+									</p>		
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>Actualización de la Política de cookies</strong></p>
+									<p class="est_p_v001">
+										F.E. SERVICIOS CIUDADANIA puede modificar esta política de cookies en función de exigencias legislativas, reglamentarias, o con la finalidad de adaptar dicha política 
+										a las instrucciones dictadas por la Agencia Española de Protección de Datos, por ello se aconseja a la persona usuaria que la visite periódicamente.
+									</p>
+									<p class="est_p_v001">
+										Cuando se produzcan cambios significativos en esta política de cookies, se comunicará a través de la web. 
+									</p>
+								</li>
+								<li>
+									<p class="est_p_v001"><strong>Política de privacidad</strong></p>								
+									<p class="est_p_v001">
+										Esta Política de Cookies se complementa con la Política de Privacidad, a la que podrá acceder para conocer la información necesaria adicional sobre protección de datos personales.
+									</p>
+								</li>
+							</ol>
+					</div>
+			</div>					
+						</div>	
+						
+						<div class="ccoo-cc-content-footer">
+							<div class="ccoo-cc-btns-container">
+								<span class="ccoo-cc-btn" id="sn-b-custom" onclick="$('#adv-cookies-2').addClass('ccoo-cc-hidden'); $('#adv-cookies-3').removeClass('ccoo-cc-hidden')">Configurar cookies</span>
+							</div>
+							<div class="ccoo-cc-btns-container-end">
+								<span class="ccoo-cc-btn ccoo-cc-btn-action" id="accept-choices" onclick="var cookexpire=new Date(); cookexpire.setTime(new Date().getTime()+3600000*24*365); document.cookie='config=111;expires='+cookexpire.toGMTString();location.reload()">Aceptar todo</span>
+							</div>
+						</div>
+						
+					</div>
+	
+					<div id="adv-cookies-3" class="ccoo-cc-content-container ccoo-cc-hidden">
+	
+						<div class="ccoo-cc-content-header">
+							<div class="ccoo-cc-header-image-container">
+								<img class="ccoo-cc-header-image" alt="Comisiones Obreras" src="/cms/g/logotipos/CCOO_pastilla_RGB_72ppp_162x54.png"> 
+							</div>
+						</div>
+	
+						<div class="ccoo-cc-content-body">
+							<h2>Configuración de cookies</h2>
+							<p>Desde aquí puede activar o desactivar las cookies que utilizamos en este sitio web, a excepción de las de técnicas, que son imprescindibles.
+							<strong class="span02">Si no selecciona ninguna opción, equivale a rechazar todas las demás cookies</strong>.</p>
+							<h3>Cookies técnicas y de sesión, estrictamente necesarias</h3>
+							<div class="ccoo-cc-configbox">
+								<div class="ccoo-cc-row">
+									<div class="ccoo-cc-left">
+										<h4>Sesión: PHPSESSID, SERVERID, Incap_ses_*_* y visid_incap_*</h4>
+										<p>Permiten mantener la coherencia de la navegación y optimizar el rendimiento del sitio web, son imprescindibles</p>
+									</div>
+									<div class="ccoo-cc-right ccoo-cc-pur"></div>
+								</div>
+							</div>
+	
+							<div class="ccoo-cc-configbox">
+									<div class="ccoo-cc-row">
+									<div class="ccoo-cc-left">
+										<h4>Técnica: config</h4>
+										<p>Guarda la configuración de cookies seleccionada por el usuario</p>
+									</div>
+									<div class="ccoo-cc-right ccoo-cc-pur"></div>
+								</div>
+							</div>		
+							<h3>Cookies de terceros</h3>
+							<div class="ccoo-cc-configbox">
+								<div class="ccoo-cc-row">
+									<div class="ccoo-cc-left">
+										<h4>Google Analytics: _gat, _gid y _ga</h4>
+										<p>Utilizamos estas cookies para obtener información de estadísticas de uso de nuestros visitantes. Están gestionadas por Google, puedes consultar su política de cookies haciendo clic <a href="https://policies.google.com/technologies/cookies?hl=es" target="_blank">aquí</a></p>
+									</div>
+									<div class="ccoo-cc-right ccoo-cc-pur">
+										<label class="ccoo-cc-switch">
+											<input id="cg" class="pu" type="checkbox" data-attr="1">
+											<span></span>
+										</label>
+									</div>
+								</div>
+							</div>
+							<div class="ccoo-cc-configbox">
+								<div class="ccoo-cc-row">
+									<div class="ccoo-cc-left">
+										<h4>Facebook: _fbp</h4>
+										<p>Cuando mostramos información incrustada de la red social Facebook, se genera automáticamente esta cookie. Está gestionada por Facebook, puedes consultar su política de cookies haciendo clic <a href="https://es-es.facebook.com/policies/cookies" target="_blank">aquí</a></p>
+									</div>
+									<div class="ccoo-cc-right ccoo-cc-pur">
+										<label class="ccoo-cc-switch">
+											<input id="cf" class="pu" type="checkbox" data-attr="1">
+											<span></span>
+										</label>
+									</div>
+								</div>
+							</div>							
+							<div class="ccoo-cc-configbox">
+								<div class="ccoo-cc-row">
+									<div class="ccoo-cc-left">
+										<h4>Twitter: eu_cn, ct0, guest_id y personalization_id</h4>
+										<p>Cuando mostramos información incrustada de la red social Twitter, se generan automáticamente estas cookies. Están gestionadas por Twitter, puedes consultar su política de cookies haciendo clic <a href="https://help.twitter.com/es/rules-and-policies/twitter-cookies" target="_blank">aquí</a></p>
+									</div>
+									<div class="ccoo-cc-right ccoo-cc-pur">
+										<label class="ccoo-cc-switch">
+											<input id="ct" class="psf" type="checkbox" data-attr="2">
+											<span></span>
+										</label>
+									</div>
+								</div>
+							</div>
+						</div>
+	
+						<div class="ccoo-cc-content-footer">
+							<div class="ccoo-cc-btns-container">
+								<span class="ccoo-cc-btn" onclick="$('#adv-cookies-3').addClass('ccoo-cc-hidden'); $('#adv-cookies-2').removeClass('ccoo-cc-hidden')">Política de cookies</span>
+							</div>
+							<div class="ccoo-cc-btns-container-end">
+								<span class="ccoo-cc-btn" id="sn-b-save" onclick="saveConfigCookies()">Guardar preferencias</span>
+								<span class="ccoo-cc-btn ccoo-cc-btn-action" id="accept-choices" onclick="var cookexpire=new Date(); cookexpire.setTime(new Date().getTime()+3600000*24*365); document.cookie='config=111;expires='+cookexpire.toGMTString();location.reload()">Aceptar todo</span>
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+			 <div class='cms_contenedor'>
+				
+	  <!-- **CABECERA** -->
+	<div class='headercontainer'>
+	 <header class='width-wide'>
+	 <!--[if lte IE 8]><div class='header'><![endif]-->
+
+	  <div class='section group layout_5763905' id='5763905'>
+		<div id='5763905_10186329' class='layout_span_col layout_span_6_of_12 layout_5763905_10186329'>
+		 <div id='5763905_10186329_25357868' class='layout_5763905_10186329_25357868'>
+			<div class="eC_texto_v001">
+				<div class="wrapper_000">
+					<p><span class="span01">FSC-CCOO Andalucía</span> | 24 septiembre 2026.</p>
+				</div>
+			</div>
+		 </div>
+		</div>
+		<div class='calle'></div>
+		<div id='5763905_10186330' class='layout_span_col layout_span_6_of_12 layout_5763905_10186330'>
+		 <div id='5763905_10186330_25357869' class='layout_5763905_10186330_25357869'>
+<div class='eC_rSWidget_v021'><ul><li><a href='/rss.php' class='rss' target='rss' title='Canales RSS'></a></li><li><a href='https://twitter.com/Comunica_FSCA' class='x' target='X' title='X'></a></li><li><a href='https://www.facebook.com/fscccooandalucia?fref=photo' class='face' target='Facebook' title='Facebook'></a></li></div>
+		 </div>
+		</div>
+	  </div>
+
+	  <div class='section group layout_5763906' id='5763906'>
+		<div id='5763906_10186331' class='layout_span_col layout_span_12_of_12 layout_5763906_10186331'>
+		 <div id='5763906_10186331_25357870' class='layout_5763906_10186331_25357870'>
+			<div class='eC_menu_v010'>
+				<div class='wrapper_000'>
+					<div class='eC_img_v001'>
+						<div class='wrapper_000'>
+							<a href='http://www.ccoo.es' target='_blank'><img src='/cms/g/CSCCOO/menu/CMS_bandera_bg.png' alt='Web de CSCCOO'></a>
+						</div>
+					</div>
+					<ul>
+						<li><a href='http://www.ccoo.es/zonaafiliacion'  target='_blank'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_users6'></span><p  class='unaLinea'>Zona afiliación</p></a></li><li><a href='http://www.ccoo.es/Afiliate'  target='_blank'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_user'></span><p  class='unaLinea'>Afiliate</p></a></li><li><a href='http://servicios.ccoo.es/servicios/Inicio&auto=01'  target='_blank'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_looking5'></span><p  class='unaLinea'>Servicios</p></a></li><li><a href='https://andalucia.fsc.ccoo.es/Calendario_laboral'  target='_self'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_spring16'></span><p  class='unaLinea'>Calendario laboral</p></a></li>
+					</ul>
+				</div>
+			</div>			
+		 </div>
+		</div>
+	  </div>
+
+	  <div class='section group layout_5763907' id='5763907'>
+		<div id='5763907_10186332' class='layout_span_col layout_span_12_of_12 layout_5763907_10186332'>
+		 <div id='5763907_10186332_25357871' class='layout_5763907_10186332_25357871'>
+			<div class='eC_menu_v009'>
+				<div class='wrapper_001'>
+					<ul>
+						<li><a href='https://andalucia.fsc.ccoo.es/Provincia/Almeria/Actualidad'   target='_self' ><span>Almería</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Cadiz/Actualidad'   target='_self' ><span>Cádiz</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Cordoba/Actualidad'   target='_self' ><span>Córdoba</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Granada/Actualidad'   target='_self' ><span>Granada</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Huelva/Actualidad'   target='_self' ><span>Huelva</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Jaen/Actualidad'   target='_self' ><span>Jaén</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Malaga/Actualidad'   target='_self' ><span>Málaga</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Provincia/Sevilla/Actualidad'   target='_self' ><span>Sevilla</span></a></li>	
+					</ul>
+				</div>
+			</div>					
+		 </div>		 <div id='5763907_10186332_25357872' class='layout_5763907_10186332_25357872'>
+<div class='layout_split_g12_wrapper'><div class='layout_split_g12_col layout_split_g12_12_of_12'><div class='eC_img_v001'><div class='wrapper_000'>		<a href="https://andalucia.fsc.ccoo.es/noticia:763806--La_negociacion_de_protocolos_de_fenomenos_meteorologicos_adversos_son_una_obligacion_y_no_una_opcion&opc_id=e20a3d511412709d9fe61f3aa3979ae9" target='_blank'>		<img src='/71abef378445bdb74794cf94683c1635000050.png' id='img25357872' title="CALOR CAMPAÑA FSC 2026" alt="CALOR CAMPAÑA FSC 2026" class='elcon_imagen' style='margin-top:10px;'></a></div></div></div></div>
+		 </div>
+		</div>
+	  </div>
+
+	  <div class='section group layout_5763908' id='5763908'>
+		<div id='5763908_10186333' class='layout_span_col layout_span_6_of_12 layout_5763908_10186333'>
+		 <div id='5763908_10186333_25357873' class='layout_5763908_10186333_25357873'>
+<div class='layout_split_g12_wrapper'><div class='layout_split_g12_col layout_split_g12_12_of_12'><div class='eC_img_v001'><div class='wrapper_000'>		<a href="https://andalucia.fsc.ccoo.es/Inicio" target='_self'>		<img src='/ffeb2fd80ff1a6288bb771be8123b600000050.png' id='img25357873' title="FSC-CCOO Andalucía" alt="FSC-CCOO Andalucía" class='elcon_imagen' style=''></a></div></div></div></div>
+		 </div>
+		</div>
+		<div class='calle'></div>
+		<div id='5763908_10186334' class='layout_span_col layout_span_6_of_12 layout_5763908_10186334'>
+		 <div id='5763908_10186334_25357874' class='layout_5763908_10186334_25357874'>
+			<div class='eC_menu_v013'>
+				<div class='eC_menu_v013_wrapper'>
+					<div class='wrapper_000'>
+						<ul>
+							<li><a href='https://andalucia.fsc.ccoo.es/Provincias'  target='_self'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_compass107'></span>Provincias</p></a></li><li><a href='http://www.juntadeandalucia.es/empleo/mapaNegociacionColectiva/buscadorConvenios!visualizarVistaBuscadorConvenios.action?pulsado=1'  target='_blank'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_0003'></span>Convenios</p></a></li><li><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Direcciones_y_telefonos/Contactanos'  target='_self'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_mail-symbol'></span>Contacta</p></a></li><li><a href='https://andalucia.fsc.ccoo.es/Buscador'  target='_self'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_search92'></span>Buscador</p></a></li><li><a href='https://andalucia.fsc.ccoo.es/Documentos'  target='_self'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_0001'></span>Documentos</p></a></li><li><a href='https://andalucia.fsc.ccoo.es/Media/Videos'  target='_self'><p ><span class='icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_cameras2'></span>Multimedia</p></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		 </div>
+		</div>
+	  </div>
+
+	  <div class='section group layout_5763909' id='5763909'>
+		<div id='5763909_10186335' class='layout_span_col layout_span_12_of_12 layout_5763909_10186335'>
+		 <div id='5763909_10186335_25357875' class='layout_5763909_10186335_25357875'>
+			<div class='eC_menu_v009'>
+				<div class='wrapper_000'>
+					<ul>
+						<li><a href='https://andalucia.fsc.ccoo.es/Inicio'   target='_self' ><span>Inicio</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Noticias'   target='_self' ><span>Noticias</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Accion_sindical/Actualidad'   target='_self' ><span>Acción sindical</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Area_publica/Actualidad'   target='_self' ><span>Área pública</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Mujeres/Actualidad'   target='_self' ><span>Mujeres</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Juventud/Actualidad'   target='_self' ><span>Juventud</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Politica_social/Actualidad'   target='_self' ><span>Política social</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Empleo/Actualidad'   target='_self' ><span>Empleo</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Salud_laboral/Actualidad'   target='_self' ><span>Salud laboral</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Medio_ambiente/Actualidad'   target='_self' ><span>Medio ambiente</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Formacion/Actualidad'   target='_self' ><span>Formación</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Quienes_somos'   target='_self' ><span>Tu sindicato</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Sectores'   target='_self' ><span>Sectores</span></a></li>	
+					</ul>
+				</div>
+			</div>					
+		 </div>
+		</div>
+	  </div>
+			<!-- **FIN CABECERA** -->
+<!--[if lte IE 8]></div><![endif]--></header>
+			<!-- **CABECERA MOVIL** -->
+<header class="width-narrow stretch-height"> <!--[if lte IE 8]><div class="header width-narrow"><![endif]-->
+
+	  <div class='section group layout_1620297' id='1620297'>
+		<div id='1620297_2822049' class='layout_span_col layout_span_12_of_12 layout_1620297_2822049'>
+		 <div id='1620297_2822049_6101410' class='layout_1620297_2822049_6101410'>
+			<div id="st-container" class="st-container st-effect-1">
+				<div class="st-menu st-effect-1 stretch-height">
+					<!-- congresos -->
+					<div id="tabs" class="tabs stretch-height">
+						<nav>
+							<ul>
+								<li id='li_1' class = 'tab-current'><a href='#section-1'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_home143'></span></a></li><li id='li_2' ><a href='#section-2'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_add170'></span></a></li><li id='li_3' ><a href='#section-3'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_book201'></span></a></li><li id='li_4' ><a href='#section-4'><span class='icon icon_dim_32x32 icon_pos_v01_32x32 icon_name_folder207'></span></a></li>									
+							</ul>
+						</nav>
+		
+						<div class="content">
+											<section id="section-1" class = 'content-current'>
+					<ul class="ul_menu_sec-1">
+						<li>
+							<span>Menú Principal</span>											
+							<ul><li id = 'li_2295505'><a href='https://andalucia.fsc.ccoo.es/Inicio'   target='_self'> Inicio</a></li><li id = 'li_2295506'><a href='https://andalucia.fsc.ccoo.es/Noticias'   target='_self'> Noticias</a></li>					<li id = 'li_2295507'>
+						<a href='https://andalucia.fsc.ccoo.es/Accion_sindical/Actualidad' >
+							
+							Acción sindical 
+							<span id = 'arrow749_2295507' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295507').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295507').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295508'><a href='https://andalucia.fsc.ccoo.es/Accion_sindical/Actualidad' class='active'  target='_self'> Actualidad</a></li><li id = 'li_2295509'><a href='https://andalucia.fsc.ccoo.es/Accion_sindical/Articulo_7'   target='_self'> Artículo 7</a></li></ul></li>					<li id = 'li_2295510'>
+						<a href='https://andalucia.fsc.ccoo.es/Area_publica/Actualidad' >
+							
+							Área pública 
+							<span id = 'arrow749_2295510' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295510').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295510').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295511'><a href='https://andalucia.fsc.ccoo.es/Area_publica/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295512'>
+						<a href='https://andalucia.fsc.ccoo.es/Mujeres/Actualidad' >
+							
+							Mujeres 
+							<span id = 'arrow749_2295512' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295512').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295512').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295513'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Actualidad'   target='_self'> Actualidad</a></li>					<li id = 'li_2295514'>
+						<a href='javascript:return false' >
+							
+							Certámenes 
+							<span id = 'arrow749_2295514' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295514').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295514').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295515'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/XV_Certamen_de_fotografia_2025'   target='_self'> XV Certamen de fotografía 2025</a></li><li id = 'li_2295516'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/XIV_Certamen_de_fotografia_2024'   target='_self'> XIV Certamen de fotografía 2024</a></li><li id = 'li_2295517'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/XIII_Certamen_de_fotografia_2023'   target='_self'> XIII Certamen de fotografía 2023</a></li><li id = 'li_2295518'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/XII_Certamen_de_relatos_2022'   target='_self'> XII Certamen de relatos 2022</a></li><li id = 'li_2295519'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/XI_Certamen_de_relatos_2021'   target='_self'> XI Certamen de relatos 2021</a></li><li id = 'li_2295520'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/X_Certamen_de_relatos_2020'   target='_self'> X Certamen de relatos 2020</a></li><li id = 'li_2295521'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/IX_Certamen_de_relatos_2019'   target='_self'> IX Certamen de relatos 2019</a></li><li id = 'li_2295522'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/VIII_Certamen_de_relatos_2018'   target='_self'> VIII Certamen de relatos 2018</a></li><li id = 'li_2295523'><a href='https://andalucia.fsc.ccoo.es/Mujeres/Certamenes/VII_Certamen_de_relatos_2017'   target='_self'> VII Certamen de relatos 2017</a></li></ul></li></ul></li>					<li id = 'li_2295524'>
+						<a href='https://andalucia.fsc.ccoo.es/Juventud/Actualidad' >
+							
+							Juventud 
+							<span id = 'arrow749_2295524' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295524').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295524').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295525'><a href='https://andalucia.fsc.ccoo.es/Juventud/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295526'>
+						<a href='https://andalucia.fsc.ccoo.es/Politica_social/Actualidad' >
+							
+							Política social 
+							<span id = 'arrow749_2295526' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295526').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295526').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295527'><a href='https://andalucia.fsc.ccoo.es/Politica_social/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295528'>
+						<a href='https://andalucia.fsc.ccoo.es/Empleo/Actualidad' >
+							
+							Empleo 
+							<span id = 'arrow749_2295528' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295528').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295528').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295529'><a href='https://andalucia.fsc.ccoo.es/Empleo/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295530'>
+						<a href='https://andalucia.fsc.ccoo.es/Salud_laboral/Actualidad' >
+							
+							Salud laboral 
+							<span id = 'arrow749_2295530' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295530').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295530').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295531'><a href='https://andalucia.fsc.ccoo.es/Salud_laboral/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295532'>
+						<a href='https://andalucia.fsc.ccoo.es/Medio_ambiente/Actualidad' >
+							
+							Medio ambiente 
+							<span id = 'arrow749_2295532' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295532').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295532').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295533'><a href='https://andalucia.fsc.ccoo.es/Medio_ambiente/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295534'>
+						<a href='https://andalucia.fsc.ccoo.es/Formacion/Actualidad' >
+							
+							Formación 
+							<span id = 'arrow749_2295534' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295534').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295534').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295535'><a href='https://andalucia.fsc.ccoo.es/Formacion/Actualidad'   target='_self'> Actualidad</a></li></ul></li>					<li id = 'li_2295571'>
+						<a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Quienes_somos' >
+							
+							Tu sindicato 
+							<span id = 'arrow749_2295571' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295571').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295571').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295572'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Quienes_somos'   target='_self'> Quiénes somos</a></li><li id = 'li_2295573'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/FSC-CCOO_Andalucia'   target='_self'> FSC-CCOO Andalucía</a></li><li id = 'li_2295574'><a href='https://andalucia.ccoo.es/'   target='_blank'> Comisiones Obreras de Andalucía</a></li><li id = 'li_2295575'><a href='https://fsc.ccoo.es/'   target='_blank'> Federación de Servicios a la Ciudadanía de CCOO</a></li><li id = 'li_2295576'><a href='https://www.ccoo.es/'   target='_blank'> Confederación Sindical de CCOO</a></li>					<li id = 'li_2295577'>
+						<a href='javascript:return false' >
+							
+							Provincias FSC-CCOO Andalucía 
+							<span id = 'arrow749_2295577' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295577').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295577').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295578'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Almeria'   target='_self'> Almería</a></li><li id = 'li_2295579'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Cadiz'   target='_self'> Cádiz</a></li><li id = 'li_2295580'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Cordoba'   target='_self'> Córdoba</a></li><li id = 'li_2295581'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Granada'   target='_self'> Granada</a></li><li id = 'li_2295582'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Huelva'   target='_self'> Huelva</a></li><li id = 'li_2295583'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Jaen'   target='_self'> Jaén</a></li><li id = 'li_2295584'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Malaga'   target='_self'> Málaga</a></li><li id = 'li_2295585'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Provincias_FSC-CCOO_Andalucia/Sevilla'   target='_self'> Sevilla</a></li></ul></li>					<li id = 'li_2295586'>
+						<a href='javascript:return false' >
+							
+							Direcciones y teléfonos 
+							<span id = 'arrow749_2295586' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295586').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295586').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295587'><a href='/cms.php?35251&auto=01&opc_id=778a82acdf997f4c3c53c009e0b30fbf'   target='_self'> Atención general de CCOO</a></li><li id = 'li_2295588'><a href='/cms.php?35252&auto=01&opc_id=decdfa3130771b9d48251f92eddadc7d'   target='_self'> Servicios jurídicos de CCOO</a></li><li id = 'li_2295589'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Direcciones_y_telefonos/Contactanos'   target='_self'> Contáctanos</a></li></ul></li>					<li id = 'li_2295590'>
+						<a href='javascript:return false' >
+							
+							Fundaciones 
+							<span id = 'arrow749_2295590' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295590').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295590').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295591'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Fundaciones/Fundaciones'   target='_self'> Fundaciones</a></li></ul></li>					<li id = 'li_2295592'>
+						<a href='javascript:return false' >
+							
+							Otros organismos 
+							<span id = 'arrow749_2295592' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295592').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295592').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295593'><a href='https://andalucia.fsc.ccoo.es/Tu_sindicato/Otros_organismos/Otros_organismos'   target='_self'> Otros organismos</a></li></ul></li></ul></li>					<li id = 'li_2295599'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores' >
+							
+							Sectores 
+							<span id = 'arrow749_2295599' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295599').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295599').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295600'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_Autonomica'   target='_self'> Administración Autonómica</a></li>					<li id = 'li_2295601'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_General_del_Estado/Actualidad_administracion_general_del_estado' >
+							
+							Administración General del Estado 
+							<span id = 'arrow749_2295601' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295601').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295601').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295602'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_General_del_Estado/Actualidad_administracion_general_del_estado'   target='_self'> Actualidad administración general del estado</a></li></ul></li>					<li id = 'li_2295603'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_Local/Actualidad_administracion_local' >
+							
+							Administración Local 
+							<span id = 'arrow749_2295603' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295603').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295603').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295604'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_Local/Actualidad_administracion_local'   target='_self'> Actualidad administración local</a></li><li id = 'li_2295605'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_Local/Policia_local_(formacion)'   target='_self'> Policía local (formación)</a></li></ul></li>					<li id = 'li_2295606'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Actualidad_Admon_Justicia' >
+							
+							Administración de Justicia 
+							<span id = 'arrow749_2295606' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295606').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295606').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295607'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Actualidad_Admon_Justicia'   target='_self'> Actualidad Admon Justicia</a></li><li id = 'li_2295608'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Concursos_de_traslado'   target='_self'> Concursos de traslado</a></li><li id = 'li_2295609'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Comisiones_de_servicio'   target='_self'> Comisiones de servicio</a></li><li id = 'li_2295610'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Oposiciones'   target='_self'> Oposiciones</a></li><li id = 'li_2295611'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Personal_Interino'   target='_self'> Personal Interino</a></li><li id = 'li_2295612'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Salub_Laboral'   target='_self'> Salub Laboral</a></li><li id = 'li_2295613'><a href='https://andalucia.fsc.ccoo.es/Sectores/Administracion_de_Justicia/Contacta'   target='_self'> Contacta</a></li></ul></li>					<li id = 'li_2295614'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Aereo_y_Servicios_Turisticos/Actualidad_Aereo_y_Turisticos' >
+							
+							Aéreo y Servicios Turísticos 
+							<span id = 'arrow749_2295614' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295614').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295614').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295615'><a href='https://andalucia.fsc.ccoo.es/Sectores/Aereo_y_Servicios_Turisticos/Actualidad_Aereo_y_Turisticos'   target='_self'> Actualidad Aereo y Turisticos</a></li></ul></li>					<li id = 'li_2295616'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Carretera_y_Logistica/Actualidad_Carretera_y_Logistica' >
+							
+							Carretera y Logística 
+							<span id = 'arrow749_2295616' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295616').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295616').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295617'><a href='https://andalucia.fsc.ccoo.es/Sectores/Carretera_y_Logistica/Actualidad_Carretera_y_Logistica'   target='_self'> Actualidad Carretera y Logistica</a></li></ul></li>					<li id = 'li_2295618'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Ciclo_Integral_del_Agua/Actualidad_Ciclo_Integral_Agua' >
+							
+							Ciclo Integral del Agua 
+							<span id = 'arrow749_2295618' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295618').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295618').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295619'><a href='https://andalucia.fsc.ccoo.es/Sectores/Ciclo_Integral_del_Agua/Actualidad_Ciclo_Integral_Agua'   target='_self'> Actualidad Ciclo Integral Agua</a></li></ul></li>					<li id = 'li_2295620'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Medios_de_Comunicacion,_Artes,_Cultura,_Ocio_y_Deporte/Actualidad_Medios_Comm' >
+							
+							Medios de Comunicación, Artes, Cultura, Ocio y Deporte 
+							<span id = 'arrow749_2295620' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295620').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295620').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295621'><a href='https://andalucia.fsc.ccoo.es/Sectores/Medios_de_Comunicacion,_Artes,_Cultura,_Ocio_y_Deporte/Actualidad_Medios_Comm'   target='_self'> Actualidad Medios Comm</a></li></ul></li>					<li id = 'li_2295622'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Ferroviario/Actualidad_Ferroviario' >
+							
+							Ferroviario 
+							<span id = 'arrow749_2295622' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295622').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295622').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295623'><a href='https://andalucia.fsc.ccoo.es/Sectores/Ferroviario/Actualidad_Ferroviario'   target='_self'> Actualidad Ferroviario</a></li></ul></li>					<li id = 'li_2295624'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Mar/Actualidad_Mar' >
+							
+							Mar 
+							<span id = 'arrow749_2295624' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295624').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295624').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295625'><a href='https://andalucia.fsc.ccoo.es/Sectores/Mar/Actualidad_Mar'   target='_self'> Actualidad Mar</a></li></ul></li>					<li id = 'li_2295626'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Papel,_Graficas_y_Fotografia/Actualidad_Papel_Graficas_Fotografia' >
+							
+							Papel, Gráficas y Fotografía 
+							<span id = 'arrow749_2295626' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295626').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295626').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295627'><a href='https://andalucia.fsc.ccoo.es/Sectores/Papel,_Graficas_y_Fotografia/Actualidad_Papel_Graficas_Fotografia'   target='_self'> Actualidad Papel Graficas Fotografia</a></li></ul></li>					<li id = 'li_2295628'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Postal/Actualidad_Postal' >
+							
+							Postal 
+							<span id = 'arrow749_2295628' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295628').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295628').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295629'><a href='https://andalucia.fsc.ccoo.es/Sectores/Postal/Actualidad_Postal'   target='_self'> Actualidad Postal</a></li></ul></li>					<li id = 'li_2295630'>
+						<a href='https://andalucia.fsc.ccoo.es/Sectores/Telecomunicaciones/Actualidad_Telecomunicaciones' >
+							
+							Telecomunicaciones 
+							<span id = 'arrow749_2295630' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295630').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295630').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295631'><a href='https://andalucia.fsc.ccoo.es/Sectores/Telecomunicaciones/Actualidad_Telecomunicaciones'   target='_self'> Actualidad Telecomunicaciones</a></li></ul></li></ul></li></ul>
+						</li>
+					</ul>
+				</section>				<section id="section-2" >
+					<ul class="ul_menu_sec-2">
+						<li>
+							<span>Provincias</span>											
+							<ul><li id = 'li_2283541'><a href='https://andalucia.fsc.ccoo.es/Provincia/Almeria/Actualidad'   target='_self'> Almería</a></li><li id = 'li_2283542'><a href='https://andalucia.fsc.ccoo.es/Provincia/Cadiz/Actualidad'   target='_self'> Cádiz</a></li><li id = 'li_2283543'><a href='https://andalucia.fsc.ccoo.es/Provincia/Cordoba/Actualidad'   target='_self'> Córdoba</a></li><li id = 'li_2283544'><a href='https://andalucia.fsc.ccoo.es/Provincia/Granada/Actualidad'   target='_self'> Granada</a></li><li id = 'li_2283545'><a href='https://andalucia.fsc.ccoo.es/Provincia/Huelva/Actualidad'   target='_self'> Huelva</a></li><li id = 'li_2283546'><a href='https://andalucia.fsc.ccoo.es/Provincia/Jaen/Actualidad'   target='_self'> Jaén</a></li><li id = 'li_2283547'><a href='https://andalucia.fsc.ccoo.es/Provincia/Malaga/Actualidad'   target='_self'> Málaga</a></li><li id = 'li_2283548'><a href='https://andalucia.fsc.ccoo.es/Provincia/Sevilla/Actualidad'   target='_self'> Sevilla</a></li></ul>
+						</li>
+					</ul>
+				</section>				<section id="section-3" >
+					<ul class="ul_menu_sec-3">
+						<li>
+							<span>Sectores</span>											
+							<ul></ul>
+						</li>
+					</ul>
+				</section>				<section id="section-4" >
+					<ul class="ul_menu_sec-4">
+						<li>
+							<span>Documentos</span>											
+							<ul>					<li id = 'li_2295701'>
+						<a href='javascript:return false' >
+							
+							Administración Autonómica 
+							<span id = 'arrow749_2295701' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295701').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295701').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295702'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_Autonomica/Documentos_Administracion_General_(AA)'   target='_self'> Documentos Administración General (AA)</a></li><li id = 'li_2295703'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_Autonomica/Documentos_Sector_Publico'   target='_self'> Documentos Sector Público</a></li><li id = 'li_2295704'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_Autonomica/Ciudadania'   target='_self'> Ciudadanía</a></li></ul></li>					<li id = 'li_2295705'>
+						<a href='javascript:return false' >
+							
+							Administración General del Estado 
+							<span id = 'arrow749_2295705' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295705').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295705').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295706'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_General_del_Estado/Documentos_(AGE)'   target='_self'> Documentos (AGE)</a></li></ul></li>					<li id = 'li_2295707'>
+						<a href='javascript:return false' >
+							
+							Administración Local 
+							<span id = 'arrow749_2295707' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295707').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295707').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295708'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_Local/Documentos_(AL)'   target='_self'> Documentos (AL)</a></li></ul></li>					<li id = 'li_2295709'>
+						<a href='javascript:return false' >
+							
+							Administración de Justicia 
+							<span id = 'arrow749_2295709' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295709').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295709').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295710'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_de_Justicia/Documentos_(AJ)'   target='_self'> Documentos (AJ)</a></li><li id = 'li_2295711'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_de_Justicia/Boletines_informativos'   target='_self'> Boletines informativos</a></li><li id = 'li_2295712'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Administracion_de_Justicia/Tablas_retributivas'   target='_self'> Tablas retributivas</a></li></ul></li>					<li id = 'li_2295713'>
+						<a href='javascript:return false' >
+							
+							Aéreo y Servicios Turísticos 
+							<span id = 'arrow749_2295713' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295713').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295713').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295714'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Aereo_y_Servicios_Turisticos/Documentos_(AST)'   target='_self'> Documentos (AST)</a></li></ul></li>					<li id = 'li_2295715'>
+						<a href='javascript:return false' >
+							
+							Carretera y Logística 
+							<span id = 'arrow749_2295715' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295715').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295715').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295716'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Carretera_y_Logistica/Documentos_(CL)'   target='_self'> Documentos (CL)</a></li></ul></li>					<li id = 'li_2295717'>
+						<a href='javascript:return false' >
+							
+							Ciclo Integral del Agua 
+							<span id = 'arrow749_2295717' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295717').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295717').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295718'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Ciclo_Integral_del_Agua/Documentos_(CIA)'   target='_self'> Documentos (CIA)</a></li></ul></li>					<li id = 'li_2295719'>
+						<a href='javascript:return false' >
+							
+							Medios de Comunicación, Artes, Cultura, Ocio y Deporte 
+							<span id = 'arrow749_2295719' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295719').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295719').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295720'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Medios_de_Comunicacion,_Artes,_Cultura,_Ocio_y_Deporte/Documentos_(Comunicacion)'   target='_self'> Documentos (Comunicación)</a></li></ul></li>					<li id = 'li_2295721'>
+						<a href='javascript:return false' >
+							
+							Ferroviario 
+							<span id = 'arrow749_2295721' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295721').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295721').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295722'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Ferroviario/Documentos_(F)'   target='_self'> Documentos (F)</a></li></ul></li>					<li id = 'li_2295723'>
+						<a href='javascript:return false' >
+							
+							Mar 
+							<span id = 'arrow749_2295723' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295723').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295723').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295724'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Mar/Documentos_(Mar)'   target='_self'> Documentos (Mar)</a></li></ul></li>					<li id = 'li_2295725'>
+						<a href='javascript:return false' >
+							
+							Papel, Gráficas y Fotografía 
+							<span id = 'arrow749_2295725' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295725').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295725').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295726'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Papel,_Graficas_y_Fotografia/Documentos_(PGF)'   target='_self'> Documentos (PGF)</a></li></ul></li>					<li id = 'li_2295727'>
+						<a href='javascript:return false' >
+							
+							Postal 
+							<span id = 'arrow749_2295727' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295727').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295727').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295728'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Postal/Documentos_(Postal)'   target='_self'> Documentos (Postal)</a></li></ul></li>					<li id = 'li_2295729'>
+						<a href='javascript:return false' >
+							
+							Telecomunicaciones 
+							<span id = 'arrow749_2295729' class='icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_arrow-right00 icon-unfolded' 
+							onclick="if (this.className.indexOf('icon-unfolded')!=-1) { this.className = this.className.replace('icon-unfolded','icon-folded');this.className = this.className.replace('icon_name_arrow-right00','icon_name_arrow-bottom00');document.getElementById('li_2295729').className='selected'; event.preventDefault();} else {this.className = this.className.replace('icon-folded','icon-unfolded');this.className = this.className.replace('icon_name_arrow-bottom00','icon_name_arrow-right00');document.getElementById('li_2295729').className=''; event.preventDefault();}"></span>
+						</a>							<ul><li id = 'li_2295730'><a href='https://andalucia.fsc.ccoo.es/Documentos y publicaciones/Sectores/Telecomunicaciones/Documentos_(T)'   target='_self'> Documentos (T)</a></li></ul></li></ul>
+						</li>
+					</ul>
+				</section>
+							<!--
+							<section id="section-5" class="">
+								<ul class="ul_menu_sec-5">
+									<li><span>Configuraci�n</span>
+										<ul>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+											<li></li>
+										</ul>
+									</li>
+								</ul>
+							</section>
+							-->
+						</div><!-- /content -->
+					</div><!-- /tabs -->
+				</div>
+				<div class="st-pusher">
+					<div class="st-content"><!-- this is the wrapper for the content -->
+						<div class="st-content-inner"><!-- extra div for emulating position:fixed of the menu -->
+							<!-- Top Navigation -->
+							<div class="main clearfix">
+								<div id="st-trigger-effects" class="column">
+									<div id="menu-trigger" class="icon icon_dim_48x48 icon_pos_v01_48x48 icon_name_menu00"></div>
+									<div class="logo">
+										<a href="#"><img src="/cms/g/logotipos/logotipoOrganizacion_331.png"></a>										
+									</div>
+								</div>
+							</div><!-- /main -->
+						</div><!-- /st-content-inner -->
+					</div><!-- /st-content -->
+				</div>
+			</div>		
+					
+<script>if (document.getElementById('li_2295507')!=null) document.getElementById('li_2295507').className='selected'; </script>
+		 </div>
+		</div>
+</div>
+			<!-- **FIN CABECERA MOVIL** -->
+ <!--[if lte IE 8]></div><![endif]--></header><div class='maincontentcontainer'><div class='maincontent' id='divMainContent'><div class='eC_breadcrumbs_v002'><div class='wrapper_000'><ul><li><span >Acción sindical</span> <span class='icon icon_dim_9x9 icon_pos_v01_9x9 icon_name_arrow-right00'></span><li><a href='https://andalucia.fsc.ccoo.es/Acción_sindical/Actualidad' class='selected'>Actualidad</a></li></ul></div></div>
+
+	  <div class='section group layout_40507' id='40507'>
+		<div id='40507_69655' class='layout_span_col layout_span_12_of_12 layout_40507_69655'>
+		 <div id='40507_69655_169' class='layout_40507_69655_169'>
+			<style>
+				@import url("/cms/css/print_contententry.css");
+			</style>
+
+			<!--comienza logotipo print-->
+			<div class="print_only">
+				<div class="eC_img_v001">
+					<div class="wrapper_001">
+							<img src="/cms/g/logotipos/logotipoOrganizacion_331.png">
+					</div>
+				</div>
+			</div>
+			<!--termina logotipo print-->
+
+			<div class="eC_contentEntry_v002">
+				<div class="wrapper_000">
+					<div class="subtitulos"><p></p></div>
+					<p class="titular">CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA</p>
+					<div class="subtitulos"><ul id ='divSubtitulos'><li>Para el sindicato es hora de que la dirección cumpla su compromiso para consolidar los traslados provisionales y superiores categorías, tal y como se acordó hace más de un año.</li></ul></div>						
+					<p class="entradilla" id="pEntradilla"></p>				
+					<div id="divFechaFuente" class="fecha">07/02/2025. </div>
+					
+					<div class="principal">
+						<div id="divCuerpo" class="cuerpo">
+							
+							
+												<div class="imagen_v001">
+						<a href='/133ac941ef652a554e7b047fd648f14b000050.jpg' id='a_717650' target='_blank' title='Ampliar imagen'><img src='/133ac941ef652a554e7b047fd648f14b000050.jpg' id='imagen_717650' alt='CCOO sigue reclamando los derechos de las trabajadoras y trabajadores de Canal Sur y RTVA'></a>
+						<div class="pie"><p id='pie_717650'>CCOO sigue reclamando los derechos de las trabajadoras y trabajadores de Canal Sur y RTVA<span></span></p></div>
+					</div>
+					
+							
+							
+							<p><p>Para CCOO no es de recibo tener a tantas/os rehenes. Y no se puede afrontar un proceso de oposiciones -que conlleva antes la incorporaci&oacute;n de excedentes, traslados y promoci&oacute;n- sin solucionar previamente las situaciones generadas desde hace a&ntilde;os. Solo as&iacute; se dar&aacute; satisfacci&oacute;n a la demanda de m&aacute;s de 200 trabajadoras/es que llevan a&ntilde;os esperando esa posibilidad. Desde CCOO se apueta firmemente por resolver y consolidar todas aquellos traslados y superiores o distintas categor&iacute;as de forma definitiva e inmediata, previo al proceso de provisi&oacute;n de plazas que tenemos por delante.</p>
+<p><span class="tiny_negrita">CONCILIACI&Oacute;N, PERMISOS Y DERECHOS</span></p>
+<p>Los permisos por conciliaci&oacute;n est&aacute;n siendo cuestionados cada vez que nos hacen falta para atender a un familiar, acudir a una citaci&oacute;n o a consulta m&eacute;dica. El cuadro de licencias y permisos debe estar actualizado y accesible a todas y todos los trabajadores para no generar confusi&oacute;n en los derechos que nos corresponden. CCOO ha propuesto distintas mejoras al reglamento para conciliar la vida laboral y personal, facilitando la mejora de contrato o traslados por razones familiares.</p>
+<p>Volvemos a reclamar el fin de los recortes que los sindicatos firmantes del X Convenio Colectivo nos impusieron, mediante disposiciones "transitorias" hace ya m&aacute;s de una d&eacute;cada: Vacaciones, permisos, dietas y kilometrajes, ayudas sociales y retribuciones, antig&uuml;edad, etc. De aquellos barros estos lodos!</p>
+<p><span class="tiny_negrita">EMPLEO ESTABLE</span></p>
+<p>En CCOO CANAL SUR Y RTVA estamos explorando distintas v&iacute;as para que las/os contratadas/os de larga duraci&oacute;n en Canal Sur puedan optar a la fijeza mediante un proceso separado al concurso oposici&oacute;n libre. El m&eacute;rito de estas/os compa&ntilde;eras/os est&aacute; de sobra demostrado. CCOO ha promovido y participado en todos los procesos de estabilizaci&oacute;n del empleo en RTVA y CSRTV (ninguna secci&oacute;n sindical puede decir esto con tanta claridad y con tanto orgullo).&nbsp;</p>
+<p>&iexcl;Solo hace falta voluntad para que sea posible!</p>
+<p><span class="tiny_negrita">ANTIG&Uuml;EDAD CUESTIONADA&nbsp;</span></p>
+<p>Uno de los problemas que est&aacute; afectando a las compa&ntilde;eras y compa&ntilde;eros que se van incorporando a nuevos contratos es que la empresa ha dejado de reconocer la antig&uuml;edad que ten&iacute;an reconocida por el tiempo trabajado anteriormente. Se vuelve a castigar a las personas con contratos m&aacute;s precarios, eliminando derechos acordados y consolidados y salt&aacute;ndose anteriores acuerdos de la COMVI, de forma unilateral. Pol&iacute;tica de hechos consumados que en CCOO no vamos a tolerar y aspiramos a resolver en el &aacute;mbito de la negociaci&oacute;n con la direcci&oacute;n de RRHH. Si no es as&iacute;, no renunciamos a ninguna v&iacute;a que nos permita frenar esta nueva oleada de recortes.</p>
+<p>Tambi&eacute;n denunciamos el intento de la direcci&oacute;n de la empresa para cuestionar, cuando no eliminar directamente, los d&iacute;as de asuntos propios, vacaciones y libranzas acumulados por trabajadoras/es con contratos temporales. Todo sin comunicaci&oacute;n previa, con nocturnidad y alevos&iacute;a. Exigimos a la direcci&oacute;n de la RTVA que devuelva los derechos que nos est&aacute;n arrebatando y cuestionando cada d&iacute;a y animamos a los/las afectados/as a denunciar y movilizarse contra estas pr&aacute;cticas.</p>
+<p><span class="tiny_negrita">JUBILACI&Oacute;N PARCIAL EN IGUALDAD</span></p>
+<p>Muchas/os compa&ntilde;eras/os llevan meses (y a&ntilde;os) esperando a que la empresa tramite su jubilaci&oacute;n parcial.&nbsp;</p>
+<p>La direcci&oacute;n debe atender por igual estas solicitudes y dar un trato justo despu&eacute;s de tantos a&ntilde;os de trabajo. No es justo que se den m&aacute;s facilidades a quienes mayores retribuciones tienen frente a otras categor&iacute;as salariales.&nbsp;</p>
+<p>CCOO propuso hace tiempo que se tramiten de forma agrupada las jubilaciones parciales, compensando las correspondientes a los salarios m&aacute;s bajos con las de las retribuciones m&aacute;s altas, cumpliendo as&iacute; con las exigencias presupuestarias de la Junta. De hecho se hizo temporalmente y result&oacute; &aacute;gil y beneficioso para muchas compa&ntilde;eras y compa&ntilde;eros. &iquest;Por qu&eacute; se ha dejado de hacer?</p></p>
+							<div class='masInformacion width-narrow'>				<div class="eC_rSWidget_v004">
+					<div class="wrapper_001">
+						<ul>					<li class="facebook" title="Recomendar en Facebook" onclick="callPlugin('openLINK','http://www.facebook.com/sharer.php?u=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf','width=600,height=500,toolbar=no')"><div></div></li>					
+					<li class="x" title="Compartir por X" onclick="callPlugin('openLINK','http://twitter.com/share?url=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf&text=CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA','width=600,height=500,toolbar=no')"><div></div></li>
+					<li class="bluesky" title="Compartir por Bluesky" onclick="callPlugin('openLINK','https://bsky.app/intent/compose?text=CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA','width=600,height=500,toolbar=no')"><div></div></li>					
+					<li class='whatsapp' title="Compartir por Whatsapp" onclick="callPlugin('openLINK','https://api.whatsapp.com/send?text=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf')"><div></div></li>
+					<li class='telegram' title='Compartir por Telegram' onclick="callPlugin('openLINK','https://t.me/share/url?url=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf')"><div></div></li></ul>
+					</div>
+				</div></div>
+							
+						</div>
+						
+					</div>					<div class="secundario width-wide">
+						<div class="eC_rSWidget_v004">
+							<div class="wrapper_000">
+								<ul>					<li class="facebook" title="Recomendar en Facebook" onclick="callPlugin('openLINK','http://www.facebook.com/sharer.php?u=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf','width=600,height=500,toolbar=no')"><div></div></li>					
+					<li class="x" title="Compartir por X" onclick="callPlugin('openLINK','http://twitter.com/share?url=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf&text=CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA','width=600,height=500,toolbar=no')"><div></div></li>
+					<li class="bluesky" title="Compartir por Bluesky" onclick="callPlugin('openLINK','https://bsky.app/intent/compose?text=CCOO sigue reclamando los derechos de la plantilla de Canal Sur y RTVA','width=600,height=500,toolbar=no')"><div></div></li>					
+					<li class='whatsapp' title="Compartir por Whatsapp" onclick="callPlugin('openLINK','https://api.whatsapp.com/send?text=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf')"><div></div></li>
+					<li class='telegram' title='Compartir por Telegram' onclick="callPlugin('openLINK','https://t.me/share/url?url=https%3A%2F%2Fandalucia.fsc.ccoo.es%2Fnoticia%3A717650--CCOO_sigue_reclamando_los_derechos_de_la_plantilla_de_Canal_Sur_y_RTVA%26opc_id%3Dbc1877955f219fc4361e7dcf48131ccf')"><div></div></li></ul>
+							</div>
+						</div>
+						<div class="eC_list_v005">
+							<div class="wrapper_000">
+								<ul>
+									<li onclick="window.print()"><span class="icon icon_dim_20x20 icon_pos_v01_20x20 icon_name_printing22"></span></li>
+									<li onclick="incSizeFont()"><span class="icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_fontPlusA00"></span></li>
+									<li onclick="decSizeFont()"><span class="icon icon_dim_13x13 icon_pos_v01_13x13 icon_name_fontLessA00"></span></li>
+								</ul>
+							</div>
+						</div>								
+						
+					</div>				</div>
+		</div>
+		 </div>		 <div id='40507_69655_45132' class='layout_40507_69655_45132'>
+<div class='eC_estatico_v001'><div class='wrapper_000'></div></div>
+		 </div>		 <div id='40507_69655_45131' class='layout_40507_69655_45131'>
+
+		 </div>
+		</div>
+</div></div>
+
+
+
+
+
+<!-- **PIE DE P?GINA** -->
+
+
+
+
+
+<div class='footercontainer'><footer class='group'><!--[if lte IE 8]><div class='footer group'><![endif]-->
+
+	  <div class='section group layout_22767' id='22767'>
+		<div id='22767_39189' class='layout_span_col layout_span_12_of_12 layout_22767_39189'>
+		 <div id='22767_39189_45286' class='layout_22767_39189_45286'>
+<div class='layout_split_g12_wrapper'><div class='layout_split_g12_col layout_split_g12_12_of_12'><div class='eC_img_v001'><div class='wrapper_000'>		<img src='/72a04ababb01c05741e91dfcdea1cb84000060.jpg' id='img45286' title="Zona blanco" alt="Zona blanco" class='elcon_imagen' style=''></div></div></div></div>
+		 </div>		 <div id='22767_39189_45167' class='layout_22767_39189_45167'>
+			<div class="eC_footer_v001" style="clear: both">
+				<div class="eC_footer_v001_wrapper_000">
+			
+					<div class="eC_list_v002">
+						<div class="eC_list_v002_wrapper_000">
+							<ul>
+								<li><a href="https://www.ccoo.es" target="_blank">Confederación Sindical de Comisiones Obreras</a></li>
+								<li><span>Territorios</span>
+									<ul>
+									    <li><a href="https://andalucia.ccoo.es" target="_blank">Comisiones Obreras de Andalucía</a></li>
+									    <li><a href="https://aragon.ccoo.es/" target="_blank">Comisiones Obreras de Aragón</a></li>
+									    <li><a href="https://asturias.ccoo.es/" target="_blank">Comisiones Obreres d'Asturies</a></li>
+									    <li><a href="https://ib.ccoo.es/" target="_blank">Comissions Obreres de les Illes Balears</a></li>
+									    <li><a href="https://canarias.ccoo.es/" target="_blank">Comisiones Obreras de Canarias</a></li>
+									    <li><a href="https://cantabria.ccoo.es/" target="_blank">Comisiones Obreras de Cantabria</a></li>
+									    <li><a href="https://castillayleon.ccoo.es/" target="_blank">Comisiones Obreras de Castilla y León</a></li>
+									    <li><a href="https://castillalamancha.ccoo.es/" target="_blank">Comisiones Obreras de Castilla-La Mancha</a></li>
+									    <li><a href="https://ccoo.cat/" target="_blank">Comissió Obrera Nacional de Catalunya</a></li>
+									    <li><a href="https://ceuta.ccoo.es/" target="_blank">Comisiones Obreras de Ceuta</a></li>
+									    <li><a href="http://ccoo.eus/" target="_blank">Comisiones Obreras de Euskadi</a></li>
+									    <li><a href="https://extremadura.ccoo.es/" target="_blank">Comisiones Obreras de Extremadura</a></li>
+									    <li><a href="https://ccoo.gal/" target="_blank">Sindicato Nacional de Comisions Obreiras de Galicia</a></li>
+									    <li><a href="https://rioja.ccoo.es/" target="_blank">Comisiones Obreras de La Rioja</a></li>
+									    <li><a href="https://madrid.ccoo.es/" target="_blank">Comisiones Obreras de Madrid</a></li>
+									    <li><a href="https://melilla.ccoo.es/" target="_blank">Comisiones Obreras de Melilla</a></li>
+									    <li><a href="https://murcia.ccoo.es/" target="_blank">Comisiones Obreras de la Región de Murcia</a></li>
+									    <li><a href="https://navarra.ccoo.es/" target="_blank">Comisiones Obreras de Navarra</a></li>
+									    <li><a href="https://pv.ccoo.es/" target="_blank">Comissions Obreres del Paìs Valenciá</a></li>
+									</ul>
+								</li>
+			
+								<li><span>Federaciones</span>
+									<ul>
+										<li><a href="https://habitat.ccoo.es/" target="_blank">Comisiones Obreras del Hábitat</a></li>
+										<li><a href="https://fe.ccoo.es/" target="_blank">Federación de Enseñanza</a></li>
+										<li><a href="https://industria.ccoo.es/" target="_blank">Federación de Industria</a></li>
+										<li><a href="https://pensionistas.ccoo.es/" target="_blank">Federación de Pensionistas</a></li>
+										<li><a href="https://sanidad.ccoo.es/" target="_blank">Federación de Sanidad y Sectores Sociosanitarios</a></li>
+										<li><a href="https://fsc.ccoo.es/" target="_blank">Federación de Servicios a la Ciudadanía</a></li>
+										<li><a href="https://ccoo-servicios.es/" target="_blank">Federación de Servicios</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>			
+				</div>
+			</div>			
+		 </div>		 <div id='22767_39189_45166' class='layout_22767_39189_45166'>
+			<div class='eC_menu_v009'>
+				<div class='wrapper_000'>
+					<ul>
+						<li><a href='https://andalucia.fsc.ccoo.es/Mapa_de_la_web'   target='_self' ><span>Mapa de la web</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Aviso_legal'   target='_self' ><span>Aviso legal</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Politica_de_privacidad'   target='_self' ><span>Política de privacidad</span></a></li><li><a href='https://andalucia.fsc.ccoo.es/Politica_de_cookies'   target='_self' ><span>Política de cookies</span></a></li>	
+					</ul>
+				</div>
+			</div>					
+		 </div>
+		</div>
+</div>
+
+
+
+
+
+<!-- **PIE DE P?GINA** -->
+
+
+
+
+
+<!--[if lte IE 8]></div><![endif]--></footer></div>		
+				
+			 </div>	 
+			</div>
+			
+			
+
+
+
+			
+			
+			<!-- Scripts para funcionamiento de cabecera de m?viles -->		
+					<script src="/js/classie.js"></script>	
+		<script src="/js/effects.js"></script>		<script src="/js/cbpfwtabs.js"></script>
+		<script>
+			new CBPFWTabs(document.getElementById('tabs'));				
+		</script>
+			
+		</body>
+		
+		</html>
