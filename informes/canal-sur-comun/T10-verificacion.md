@@ -98,3 +98,75 @@ inicio», 77.2 sin «apercibimiento»: todo cuadra con la redacción vigente.
 Comprobados sin cambios: arts. 79 a 83, 87 a 91, 95 a 97 y DF 1.ª y 2.ª LOPDGDD (el recuento de
 artículos ordinarios del título X, 79, 80, 81, 82, 88, 95, 96 y 97, cuadra); arts. 1, 58, 63 y DF 11.ª
 LO 7/2021; art. 29 Ley 2/2023.
+22. **Audiovisual · art. 93.1 LOPDGDD.** Faltaba el segundo supuesto del 93.1 («Del mismo modo
+    deberá procederse cuando las circunstancias personales que en su caso invocase el afectado
+    evidenciasen la prevalencia de sus derechos…»). Añadido (error 6).
+23. **Audiovisual · art. 4 LO 2/1984.** «si no se publica […] ante el Juez de Primera Instancia»
+    omitía los otros dos supuestos (notificación expresa de que no se difundirá; publicación sin
+    respetar el art. 3) y el fuero («de su domicilio o ante el del lugar donde radique la dirección
+    del medio»). Completado (error 6). Añadido además el **art. 7** (sin reclamación gubernativa
+    previa en los medios de titularidad pública), que toca a Canal Sur; tabla de normativa: «1 a 4
+    y 7».
+24. **Audiovisual · LO 1/1982, inciso anulado del art. 2.2.** El tema decía que el texto
+    consolidado no permite identificar el inciso anulado por la STC 9/1990. Siguiendo el aviso de
+    CICLO («incisos anulados»), leído el XML del BOE (bloque `asegundo`, API de legislación
+    consolidada, 24-09-2026): el inciso en negrita es «o, por imperativo del artículo 71 de la
+    Constitución, cuando se trate de opiniones manifestadas por Diputados o Senadores en el
+    ejercicio de sus funciones. Iniciado un proceso civil […] sin la previa autorización del
+    Congreso de los Diputados o del Senado. La previa autorización será tramitada por el
+    procedimiento previsto para los suplicatorios.» El tema lo dice ahora, y que lo citado del
+    2.2 no está afectado. **Aviso al coordinador**: el encargo pedía que lo declarado no confirmado
+    siguiera así; este punto sí se ha podido confirmar en la fuente, y manda la fuente. Lo demás
+    declarado no confirmado **sigue igual** (autoridad de control de la RTVA y CSRTV; encaje en el
+    77.1.d); art. 26 LOPDGDD y la hemeroteca; doctrina de las SSTC 94/1998 y 292/2000; Carta y TFUE
+    solo a través del considerando 1).
+25. **Tabla final · menor de catorce años.** Faltaba la salvedad del 7.1, párr. 2.º (ley que exija
+    la asistencia de los titulares de la patria potestad o tutela). Añadida (error 6).
+26. **Tabla final · art. 95.3 Ley 13/2022.** «Datos de menores espectadores» → «Datos de menores
+    recogidos o generados por el prestador» (el precepto no habla de espectadores; error 9, menor).
+27. **Ficha · Extensión.** 24.166 → **24.692 palabras** (cuerpo medido por `indice.py` tras las
+    correcciones). Índice regenerado (33 epígrafes).
+
+Comprobados sin cambios: arts. 85, 86 y 17.3 RGPD; considerandos 65 y 153 (página del BOE del
+RGPD, leída hoy); arts. 84, 85, 86, 92 y 94 LOPDGDD; arts. 1 a 3 LO 2/1984; arts. 1, 3, 7, 8 y 9
+LO 1/1982 (y sus redacciones); art. 20.4 CE; arts. 4.3, 83, 89, 90, 93, 95, 96, 141.3, 155 y
+157.9 y 157.10 y DA 4.ª Ley 13/2022 (**recuentos**: 95.2 = tres supuestos, 157.9 recoge dos; DA
+4.ª.3 = cinco datos); art. 4 LO 1/1996; arts. 17, 31.1 y 66.3 Ley 10/2018 (31 y 66 en la redacción
+de 17-02-2024); arts. 4.1, 5 y 9 Ley 18/2007 (sin precepto de datos); Acuerdo de fusión (BOJA
+219/2015, texto en `documentos/`); Reglamento (UE) 2025/2518, arts. 1 y 37 y ausencia de
+modificaciones del RGPD (texto español de la Oficina de Publicaciones, leído hoy). Primera
+rúbrica: repasados DF 1.ª, DF 2.ª, DA 2.ª, derogatoria, arts. 95 y 99 RGPD y el recuento del
+preámbulo («noventa y siete artículos…»): sin cambios.
+
+## 2. Lentes automáticas (tema ya corregido, 24-09-2026)
+
+Fuentes pasadas a todas: los 22 volcados que cita el tema (`DOUE-L-2016-80807`, sus dos
+correcciones, CE, LOPDGDD, Leyes 2/2023, 11/2023, 10/2025, LO 3/2020, LO 7/2021, RD 389/2021, EAA,
+Leyes 1/2014, 1/2026, 9/2007, LSSI, LO 1/1982, LO 2/1984, LO 1/1996, Leyes 13/2022, 10/2018 y
+18/2007); y, para `negritas.py`, además la página del BOE del RGPD (considerandos), el texto del
+Reglamento 2025/2518 y el `.txt` del Acuerdo de fusión.
+
+| Lente | Tramos mirados | Resultado | Explicación |
+|---|---|---|---|
+| `negritas.py` | 212 negritas | 2 NO ESTÁ; 19 ¿ART.? | Los 2 NO ESTÁ son rótulos («Enunciado del programa», «Aplicación y entrada en vigor»). Los 19 ¿ART.? revisados uno a uno en la fuente: todos están en el artículo que el tema da; la herramienta ancla en otro número nombrado en la frase (p. ej. «artículo 18.4» dentro del art. 1 LOPDGDD, «artículo 40» dentro del 23, «artículo 3» junto al art. 4 LO 2/1984, arts. 6, 11, 13 y 30 dentro del art. 58 LO 7/2021). Falsos positivos |
+| `refutar_prosa.py` | tema entero | 1 | «LORTAD»: se presenta en la misma frase («conocida como LORTAD», cita del preámbulo). Falso positivo |
+| `refutar_exactitud.py` | 66 citas con artículo entre paréntesis (22 sin comprobar por remitir a otra norma) | 25 no literales | Todas están literales en la fuente según `negritas.py`; la lente las busca en el artículo de igual número de otra de las 22 normas (arts. 1 a 4 LO 2/1984 y 1 a 9 LO 1/1982 contra la LOPDGDD, etc.). Falsos positivos |
+| `refutar_citas.py` | 5 tramos (con la página del RGPD) | 0 | Sin ella salía 1 (considerando 153, que no está en el volcado) |
+| `refutar_modo.py` | tema entero | 2 | Arts. 16 y 8: la lente avisa de que varias fuentes numeran igual; las salvedades que cita son del art. 16 Ley 11/2023 (microempresas) y del art. 8 LO 7/2021 (veinte años), que el tema no cita. Falsos positivos |
+
+## 3. Resumen
+
+27 correcciones (5 del primer verificador y 22 de este). Una **cambia la respuesta** (DF 9.ª LO
+7/2021: capítulos VI, VII **y VIII** y cuatro DF ordinarios) y otra **induce a error** («no
+comparten régimen sancionador», contra el art. 61.1 LO 7/2021); el resto son salvedades omitidas
+y precisiones menores. Las doce correcciones de vigencia de la LOPDGDD, los recuentos del título
+IX (17/30/19), del 34.1 (16) y del 77.1 (11), los plazos (1 mes/72 h; 10 días; 3, 6, 12 y 18
+meses; 1-2-3 años de sanciones por cuantía) y las cuantías (10/20 millones, 2 %/4 %) cuadran con
+la redacción vigente.
+
+## 4. Ficheros tocados
+
+- `temas/canal-sur-comun/10-proteccion-de-datos.md` (correcciones, índice y Extensión).
+- Este informe.
+- Temporales solo en el scratchpad (página del BOE del RGPD, texto del Reglamento 2025/2518, XML
+  del art. 2 LO 1/1982). Ningún otro fichero del repositorio; no he hecho commits.

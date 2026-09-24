@@ -9,7 +9,7 @@
 | **Fuente** | X Convenio Colectivo Interprovincial para la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur Radio, S.A., Canal Sur TV, S.A., y sus trabajadores/as, publicado por Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales |
 | **Identificador** | Código de convenio 71000253011989 · BOJA núm. 240, de 10/12/2014, páginas 49 a 213 |
 | **Redacción que se estudia** | La vigente el 24/09/2026, que es el texto publicado en 2014: no consta ninguna modificación publicada ni inscrita. El convenio está prorrogado (artículo 5). El Estatuto de los Trabajadores y las leyes andaluzas que se citan, en su redacción vigente el 24/09/2026 |
-| **Extensión** | 22.991 palabras |
+| **Extensión** | 23.002 palabras |
 
 <!-- /portada -->
 

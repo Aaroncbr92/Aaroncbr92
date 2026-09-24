@@ -9,7 +9,7 @@
 | **Fuente** | Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos · Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales · y, para la tercera rúbrica, las normas audiovisuales y de protección del honor y de los menores que se relacionan al final |
 | **Identificador** | `DOUE-L-2016-80807` · DOUE L 119, de 04/05/2016, con sus correcciones de errores `DOUE-L-2018-80845` y `DOUE-L-2021-80264` · `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Reglamento no ha sido modificado; tiene dos correcciones de errores en español (2018 y 2021). La Ley Orgánica 3/2018 ha cambiado en doce bloques desde diciembre de 2022; la última modificación es de la Ley 10/2025, de 26 de diciembre, en vigor desde el 28/12/2025 |
-| **Extensión** | 24.166 palabras |
+| **Extensión** | 24.692 palabras |
 
 <!-- /portada -->
 
@@ -48,6 +48,43 @@ escalones de multa (2 % y 4 %), el régimen del sector público del artículo 77
 periodísticas.
 
 <!-- indice -->
+
+## Índice
+
+- [El régimen jurídico de la protección de los datos de carácter personal](#el-régimen-jurídico-de-la-protección-de-los-datos-de-carácter-personal)
+  - [El fundamento constitucional: el artículo 18.4](#el-fundamento-constitucional-el-artículo-184)
+  - [El fundamento europeo](#el-fundamento-europeo)
+  - [El sistema de fuentes](#el-sistema-de-fuentes)
+- [Normativa europea y nacional](#normativa-europea-y-nacional)
+  - [El Reglamento (UE) 2016/679](#el-reglamento-ue-2016679)
+  - [La Ley Orgánica 3/2018 y sus reformas](#la-ley-orgánica-32018-y-sus-reformas)
+  - [Objeto, ámbito y definiciones](#objeto-ámbito-y-definiciones)
+  - [Los principios](#los-principios)
+  - [Cuándo es lícito tratar datos](#cuándo-es-lícito-tratar-datos)
+  - [Los derechos de las personas](#los-derechos-de-las-personas)
+  - [Tratamientos concretos](#tratamientos-concretos)
+  - [Responsable y encargado del tratamiento](#responsable-y-encargado-del-tratamiento)
+  - [Transferencias internacionales](#transferencias-internacionales)
+  - [Las autoridades de control: la Agencia Española y la autoridad andaluza](#las-autoridades-de-control-la-agencia-española-y-la-autoridad-andaluza)
+  - [Los procedimientos ante la Agencia Española de Protección de Datos](#los-procedimientos-ante-la-agencia-española-de-protección-de-datos)
+  - [El régimen sancionador](#el-régimen-sancionador)
+  - [La garantía de los derechos digitales](#la-garantía-de-los-derechos-digitales)
+  - [La Ley Orgánica 7/2021: datos tratados con fines penales](#la-ley-orgánica-72021-datos-tratados-con-fines-penales)
+  - [Otras normas nacionales con reglas de protección de datos](#otras-normas-nacionales-con-reglas-de-protección-de-datos)
+- [Especialidades en el sector Audiovisual](#especialidades-en-el-sector-audiovisual)
+  - [La regla europea: el artículo 85 del Reglamento y el considerando 153](#la-regla-europea-el-artículo-85-del-reglamento-y-el-considerando-153)
+  - [Supresión y libertad de información: el artículo 17.3 del Reglamento](#supresión-y-libertad-de-información-el-artículo-173-del-reglamento)
+  - [Rectificación, actualización y olvido en los medios digitales](#rectificación-actualización-y-olvido-en-los-medios-digitales)
+  - [Honor, intimidad y propia imagen: la Ley Orgánica 1/1982](#honor-intimidad-y-propia-imagen-la-ley-orgánica-11982)
+  - [Los menores](#los-menores)
+  - [La Ley 13/2022, General de Comunicación Audiovisual](#la-ley-132022-general-de-comunicación-audiovisual)
+  - [La Ley 10/2018, audiovisual de Andalucía](#la-ley-102018-audiovisual-de-andalucía)
+  - [La RTVA y CSRTV](#la-rtva-y-csrtv)
+  - [Qué le toca a una producción de radio o televisión](#qué-le-toca-a-una-producción-de-radio-o-televisión)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## El régimen jurídico de la protección de los datos de carácter personal
@@ -244,7 +281,7 @@ aplica.
   10 de mayo de 2023.
 
 *Las reformas, en su orden.* Leída hoy, la ley tiene diecisiete bloques con más de una redacción
-o añadidos después de 2018, y ninguna reforma cruzada. Los cambios de 2019 a 2021 son estos:
+o añadidos después de 2018. Los cambios de 2019 a 2021 son estos:
 
 - La Sentencia del Tribunal Constitucional 76/2019 anuló el apartado 1 del artículo 58 bis de la
   Ley Orgánica del Régimen Electoral General, que había introducido la disposición final tercera.
@@ -408,6 +445,12 @@ adecuadas, que pueden incluir el cifrado o la seudonimización.
 3. No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento para
    finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación
    contractual.
+
+*Las condiciones del consentimiento (artículo 7 del Reglamento).* Cuando el tratamiento se funda
+en el consentimiento, «**el responsable deberá ser capaz de demostrar que aquel consintió el
+tratamiento de sus datos personales**» (7.1). El interesado tiene derecho a retirarlo en cualquier
+momento, sin que la retirada afecte a la licitud del tratamiento anterior; «**será tan fácil
+retirar el consentimiento como darlo**» (7.3).
 
 *El consentimiento de los menores: catorce años (artículo 7 de la LOPDGDD).*
 
@@ -613,6 +656,17 @@ responsable adoptará medidas de salvaguarda y como mínimo el derecho del inter
 intervención humana, a expresar su punto de vista y a impugnar la decisión. Y esas decisiones no se
 basarán en categorías especiales de datos salvo consentimiento explícito o interés público
 esencial, con salvaguardas.
+
+*Recursos, responsabilidad e indemnización (capítulo VIII del Reglamento).* Todo interesado tiene
+derecho a presentar una reclamación ante una autoridad de control, «**en particular en el Estado
+miembro en el que tenga su residencia habitual, lugar de trabajo o lugar de la supuesta
+infracción**» (artículo 77.1); y, sin perjuicio de esa vía administrativa, derecho a la tutela
+judicial efectiva frente al responsable o al encargado cuando considere vulnerados sus derechos
+(artículo 79.1), ante los tribunales del Estado miembro del establecimiento del responsable o
+encargado, o de la residencia habitual del interesado. Y, conforme al artículo 82.1, «**toda
+persona que haya sufrido daños y perjuicios materiales o inmateriales como consecuencia de una
+infracción del presente Reglamento tendrá derecho a recibir del responsable o el encargado del
+tratamiento una indemnización**» por esos daños.
 
 ### Tratamientos concretos
 
@@ -834,7 +888,8 @@ por medios electrónicos, con su base legal.
 *Evaluación de impacto (artículo 35 del Reglamento).* Obligatoria antes del tratamiento cuando
 sea probable que este entrañe un alto riesgo, y en particular en tres casos: a) evaluación
 sistemática y exhaustiva basada en tratamiento automatizado, como la elaboración de perfiles,
-sobre cuya base se tomen decisiones con efectos jurídicos; b) tratamiento a gran escala de
+sobre cuya base se tomen decisiones que produzcan efectos jurídicos para las personas físicas o
+que les afecten significativamente de modo similar; b) tratamiento a gran escala de
 categorías especiales o de datos penales; c) observación sistemática a gran escala de una zona de
 acceso público. El responsable recabará el asesoramiento del delegado si lo hay.
 
@@ -963,10 +1018,9 @@ administrativa independiente de ámbito estatal**», de las previstas en la Ley 
 Jurídico del Sector Público, con personalidad jurídica y plena capacidad pública y privada, que
 actúa con plena independencia de los poderes públicos en el ejercicio de sus funciones. Su
 denominación oficial es «**Agencia Española de Protección de Datos, Autoridad Administrativa
-Independiente**», y «**Se relaciona con el Gobierno a través del Ministerio de Justicia.**»
-Relación no es dependencia: es el cauce ordinario de toda autoridad independiente. Es, además, la
-representante común de las autoridades de protección de datos del Reino de España en el Comité
-Europeo de Protección de Datos (44.2).
+Independiente**», y «**Se relaciona con el Gobierno a través del Ministerio de Justicia.**» Es,
+además, la representante común de las autoridades de protección de datos del Reino de España en
+el Comité Europeo de Protección de Datos (44.2).
 
 Su Estatuto vigente es el aprobado por el Real Decreto 389/2021, de 1 de junio, que derogó el Real
 Decreto 428/1993, de 26 de marzo. Ojo: la disposición transitoria primera de la LOPDGDD sigue
@@ -1238,7 +1292,8 @@ Muy graves (artículo 72), las que más importan a quien maneja datos en una pro
 vulnerando los principios y garantías del artículo 5 del Reglamento; tratarlos sin ninguna
 condición de licitud del artículo 6; incumplir los requisitos del artículo 7 para la validez del
 consentimiento; usar los datos para una finalidad incompatible con aquella para la que se
-recogieron; tratar categorías especiales o datos penales fuera de los supuestos permitidos; omitir
+recogieron, sin contar con el consentimiento del afectado o con una base legal para ello; tratar
+categorías especiales o datos penales fuera de los supuestos permitidos; omitir
 el deber de informar; vulnerar el deber de confidencialidad del artículo 5 de la ley; exigir un
 canon por informar o por atender los derechos fuera de los supuestos del artículo 12.5 del
 Reglamento; impedir, obstaculizar o no atender reiteradamente el ejercicio de los derechos;
@@ -1296,9 +1351,11 @@ más de seis meses por causa no imputable al infractor (78.3).
 | Artículo 83.4 | Hasta 10 000 000 de euros o, si es una empresa, hasta el 2 % del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía | Las obligaciones del responsable y del encargado de los artículos 8, 11, 25 a 39, 42 y 43; las de los organismos de certificación; y las del organismo de supervisión de un código de conducta (83.4.c, en la redacción de la corrección de 2021) |
 | Artículo 83.5 | Hasta 20 000 000 de euros o, si es una empresa, hasta el 4 % del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía | Los principios básicos, incluidas las condiciones del consentimiento (arts. 5, 6, 7 y 9); los derechos de los interesados (arts. 12 a 22); las transferencias internacionales (arts. 44 a 49); las obligaciones del Derecho nacional adoptadas con arreglo al capítulo IX; y el incumplimiento de una resolución o limitación de la autoridad |
 
-La regla para recordarlo sale del propio reparto: el 4 % es para lo que afecta al ciudadano
-(principios, consentimiento, derechos, transferencias); el 2 % para lo que afecta a la organización
-interna (seguridad, registro, delegado, evaluación de impacto).
+La regla para recordarlo sale del propio reparto: el 4 % es para los principios básicos, los
+derechos de los interesados y las transferencias internacionales; el 2 % para las obligaciones que
+recaen sobre la organización del responsable y del encargado (seguridad, registro, delegado,
+evaluación de impacto y, aunque hable de «consentimiento», las condiciones del consentimiento del
+niño del artículo 8, que el 83.4.a) incluye junto con los artículos 11 y 25 a 43).
 
 Y dos reglas de graduación: si se incumplen varias disposiciones para las mismas operaciones, la
 cuantía total «**no será superior a la cuantía prevista para las infracciones más graves**» (83.3).
@@ -1347,11 +1404,12 @@ palabra «apercibimiento» ya no está en el artículo 77.
 
 Además (77.3), la autoridad propondrá la iniciación de actuaciones disciplinarias cuando haya
 indicios suficientes; y si la infracción es imputable a autoridades y directivos y consta que hubo
-informes técnicos o recomendaciones no atendidos, en la resolución (el apartado 3 no se modificó y
-conserva la expresión «en la resolución en la que se imponga la sanción»)
-«**se incluirá una amonestación
-con denominación del cargo responsable y se ordenará la publicación en el Boletín Oficial del Estado
-o autonómico que corresponda**». Las actuaciones y resoluciones se comunican al Defensor del Pueblo
+informes técnicos o recomendaciones no atendidos, «**en la resolución en la que se imponga la
+sanción se incluirá una amonestación con denominación del cargo responsable y se ordenará la
+publicación en el Boletín Oficial del Estado o autonómico que corresponda**». El apartado 3 no se
+tocó en la reforma de 2023, así que sigue hablando de «la resolución en la que se imponga la
+sanción» aunque el apartado 2 ya no sanciona a estas entidades. Las actuaciones y resoluciones se
+comunican al Defensor del Pueblo
 o a las instituciones autonómicas análogas (77.5), y cuando la competente sea la AEPD, esta publica
 en su web, con la debida separación, las resoluciones referidas a estas entidades con expresa
 indicación de su identidad; si la competente es una autoridad autonómica, se está a su normativa
@@ -1963,11 +2021,11 @@ diario:
 | Usar la imagen o la voz de alguien con fines publicitarios o comerciales | Es intromisión ilegítima sin consentimiento expreso (arts. 2.2 y 7.6 de la LO 1/1982); el consentimiento es revocable, indemnizando (art. 2.3) |
 | Imagen de un cargo público en un acto público, o de una persona accesoria en un suceso público | No es intromisión (art. 8.2.a y c de la LO 1/1982), salvo funciones que necesiten el anonimato |
 | Recoger el consentimiento de un participante para tratar sus datos | Libre, específico, informado e inequívoco, por declaración o clara acción afirmativa (art. 6 LOPDGDD); si hay varias finalidades, debe constar para todas ellas |
-| Participante mayor de catorce años | Puede consentir por sí mismo el tratamiento de sus datos (art. 7.1 LOPDGDD) |
+| Participante mayor de catorce años | Puede consentir por sí mismo el tratamiento de sus datos, salvo que la ley exija la asistencia de los titulares de la patria potestad o tutela para el acto o negocio jurídico (art. 7.1 LOPDGDD) |
 | Participante menor de catorce años | Hace falta el consentimiento del titular de la patria potestad o tutela (art. 7.2 LOPDGDD) |
 | Imagen y voz de un menor en antena | Consentimiento del menor o de su representante legal (art. 95.1 Ley 13/2022); aun con él, es intromisión si perjudica su honra o sus intereses (art. 4.3 LO 1/1996) |
 | Menor en una noticia de sucesos, de tutela o filiación, o víctima de violencia | Prohibido difundir nombre, imagen u otros datos que lo identifiquen (art. 95.2 Ley 13/2022 y art. 31.1.f Ley 10/2018); infracción muy grave (art. 157.9 Ley 13/2022) que sanciona en Andalucía el Consejo Audiovisual (art. 66.3.c Ley 10/2018) |
-| Datos de menores espectadores con fines comerciales | Prohibido (art. 95.3 Ley 13/2022); infracción muy grave (157.10) que sanciona la AEPD (155.5) |
+| Datos de menores recogidos o generados por el prestador, con fines comerciales | Prohibido (art. 95.3 Ley 13/2022); infracción muy grave (157.10) que sanciona la AEPD (155.5) |
 | Difundir imágenes de menores en redes sociales | Consentimiento del menor o de sus representantes conforme al artículo 7 (art. 92 LOPDGDD), y la difusión que suponga intromisión ilegítima activa al Ministerio Fiscal (art. 84.2) |
 | Datos de salud, ideología, religión, origen racial, vida sexual | Categorías especiales: prohibidos salvo excepción del artículo 9.2 del Reglamento, y el solo consentimiento no basta cuando la finalidad principal sea identificarlos (art. 9.1 LOPDGDD) |
 | Una persona pide rectificar una noticia | Escrito al director en siete días naturales; difusión en tres días, íntegra, gratuita y sin comentarios (arts. 2 y 3 LO 2/1984); en el archivo digital, aviso aclaratorio visible junto a la noticia (art. 85.2 LOPDGDD) |
@@ -1976,7 +2034,7 @@ diario:
 | Cámaras de seguridad en el centro de trabajo | Finalidad de seguridad; dispositivo informativo visible; supresión en un mes; setenta y dos horas para entregar a la autoridad (art. 22); y prohibición en vestuarios, aseos, comedores y análogos (art. 89.2) |
 | Control del correo o del ordenador de un trabajador | Solo para controlar las obligaciones laborales y garantizar la integridad del dispositivo, con criterios de utilización en cuya elaboración participan los representantes y de los que se informa (art. 87) |
 | Geolocalizar un vehículo o un equipo | Información previa, expresa, clara e inequívoca, incluida la de los derechos de acceso, rectificación, limitación y supresión (art. 90) |
-| Escribir a un compañero fuera de su jornada | Choca con el derecho a la desconexión digital (art. 88), cuyas modalidades fija la negociación colectiva |
+| Mensajes de la empresa fuera de la jornada | Derecho a la desconexión digital (art. 88): modalidades según la negociación colectiva o, en su defecto, lo acordado entre la empresa y los representantes; política interna del empleador |
 | Contratar una productora externa que trate datos por cuenta de la cadena | Es encargada del tratamiento: hace falta contrato u otro acto jurídico escrito con el contenido del artículo 28.3 del Reglamento, y encargarlo sin él es infracción grave (art. 73.k LOPDGDD) |
 | Enviar material con datos personales a un país fuera de la Unión | Transferencia internacional: exige decisión de adecuación, garantías del artículo 46.2 del Reglamento, alguna de las excepciones de su artículo 49 o, en los casos del artículo 42 de la LOPDGDD, autorización previa de la autoridad (arts. 40 a 43 LOPDGDD) |
 | Perder un disco o sufrir un acceso no autorizado | Violación de seguridad: notificación a la autoridad en 72 horas salvo que sea improbable el riesgo, y comunicación al afectado si el riesgo es alto (arts. 33 y 34 del Reglamento) |
@@ -1998,7 +2056,7 @@ diario:
 | Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales | `BOE-A-2021-8806` | Artículos 1, 58, 61.1 y 63 y disposiciones finales novena y undécima, vigentes el 24/09/2026 (el 61, en la redacción de la Ley Orgánica 9/2022, vigente desde el 29/08/2022; los demás, una sola redacción) |
 | Real Decreto 389/2021, de 1 de junio, por el que se aprueba el Estatuto de la Agencia Española de Protección de Datos | `BOE-A-2021-9175` | Disposición derogatoria única, vigente el 24/09/2026 |
 | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Artículos 32 y 82; una sola redacción |
-| Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía | `BOE-A-2014-7534` | Artículos 3, 43, 44, 45 y 48 (este, en la redacción vigente desde el 26/03/2026) |
+| Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía | `BOE-A-2014-7534` | Artículos 43, 45 y 48 (este, en la redacción vigente desde el 26/03/2026) |
 | Ley 1/2026, de 20 de febrero, Universitaria para Andalucía | `BOE-A-2026-6643` | Como norma modificadora (art. 48 Ley 1/2014) |
 | Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Artículo 52, vigente el 24/09/2026 |
 | Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico | `BOE-A-2002-13758` | Artículo 22.2, en la redacción vigente desde el 11/05/2014 |
@@ -2044,8 +2102,8 @@ diario:
 Comprobaciones hechas sobre la fuente:
 
 1. LOPDGDD: texto consolidado leído en su redacción vigente el 24 de septiembre de 2026.
-   Diecisiete bloques tienen más de una redacción o se añadieron después de 2018; ninguna reforma
-   cruzada. De ellos, doce cambiaron después del 21 de diciembre de 2022, y los doce están
+   Diecisiete bloques tienen más de una redacción o se añadieron después de 2018. De ellos, doce
+   cambiaron después del 21 de diciembre de 2022, y los doce están
    integrados en el cuerpo con su línea de cambio: artículos 23 (Ley 10/2025), 24 (Ley 2/2023),
    48, 50, 53 bis, 64, 65, 66, 67, 75 y 77 y disposición adicional vigésima tercera (Ley 11/2023).
    Las redacciones anteriores se leyeron a fecha 21 de diciembre de 2022 para describir cada
