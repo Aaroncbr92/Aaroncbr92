@@ -1,0 +1,1898 @@
+
+
+Título: 
+Guía Técnica para la evaluación y prevención de los riesgos derivados de la manipulación manual de cargas. 
+Autor: 
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P. 
+Edita: 
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P. 
+C/ Torrelaguna 73, 28027 Madrid 
+Tel. 91 363 41 00, fax 91 363 43 27 
+www.insst.es 
+Composición: 
+Servicio de Ediciones y Publicaciones del INSST 
+Edición: Madrid, septiembre 2024 
+NIPO (papel): 118-24-023-2 
+NIPO (en línea): 118-24-024-8 
+Depósito legal: M-20479-2024 
+Hipervínculos: El INSST no es responsable ni garantiza la exactitud de la información en los sitios web que no 
+son de su propiedad. Asimismo, la inclusión de un hipervínculo no implica aprobación por parte del INSST del 
+sitio web, del propietario del mismo o de cualquier contenido específico al que aquel redirija. 
+Histórico de revisiones: 
+Julio 1998 
+Catálogo de publicaciones de la Administración General del Estado: 
+http://cpage.mpr.gob.es 
+Catálogo de publicaciones del INSST: 
+https://www.insst.es/catalogo-de-publicaciones 
+
+Presentación 
+El artículo 8 de la Ley de Prevención de Riesgos Laborales establece como función del Instituto 
+Nacional de Seguridad y Salud en el Trabajo1, entre otras, la realización de actividades de infor­
+mación y divulgación en materia de prevención de riesgos laborales. 
+Por otra parte, el artículo 5.3 del Reglamento de los Servicios de Prevención contempla la posibi­
+lidad de que se utilicen guías del Instituto Nacional de Seguridad y Salud en el Trabajo “cuando 
+la evaluación exija la realización de mediciones, análisis o ensayos y la normativa no indique o concrete los 
+métodos que deben emplearse, o cuando los criterios de evaluación contemplados en dicha normativa deban 
+ser interpretados o precisados a la luz de otros criterios de carácter técnico”. 
+La disposición adicional segunda del Real Decreto 487/1997, de 14 de abril, sobre disposiciones 
+mínimas de seguridad y salud relativas a la manipulación manual de cargas que entrañe riesgos, 
+en particular dorsolumbares, para los trabajadores establece que “El Instituto Nacional de Seguridad 
+e Higiene en el Trabajo elaborará y mantendrá actualizada una Guía Técnica para la evaluación y prevención 
+de los riesgos relativos a la manipulación manual de cargas “. 
+La presente guía, actualizada a fecha de septiembre de 2024, ha sido elaborada en cumplimiento 
+de este mandato legal y tiene por objetivo facilitar la aplicación del mencionado real decreto, pro­
+porcionando criterios e información técnica para la evaluación y prevención de los riesgos deri­
+vados de la manipulación manual de cargas. 
+Aitana Gari Pérez 
+DIRECTORA DEL INSST 
+[1] El actual Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A, M.P. ha cambiado de denominación en los úl­
+timos años, pudiendo aparecer en otras publicaciones citado como Instituto Nacional de Seguridad e Higiene en el Trabajo 
+(INSHT) o como Instituto Nacional de Seguridad, Salud y Bienestar en el Trabajo (INSSBT). En la presente guía técnica se 
+utilizará, en todos los casos, su denominación actual (INSST), excepto cuando así se encuentre expresamente indicado en 
+un texto legal, por ser anterior al cambio de denominación, y se haga una mención literal del mismo. 
+
+Índice
+I. 
+INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 
+II. DESARROLLO Y COMENTARIOS AL REAL DECRETO 487/1997, SOBRE 
+DISPOSICIONES MÍNIMAS DE SEGURIDAD Y SALUD RELATIVAS A LA 
+MANIPULACIÓN MANUAL DE CARGAS QUE ENTRAÑE RIESGOS, EN 
+PARTICULAR DORSOLUMBARES, PARA LOS TRABAJADORES.. . . . . . . . . . . . . . . . . 9 
+Artículo 1. Objeto. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 
+Artículo 2. Definición. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 
+Artículo 3. Obligaciones generales del empresario.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+Artículo 4. Obligaciones en materia de formación e información. . . . . . . . . . . . . . . . . . . . . . 13 
+Artículo 5. Consulta y participación de los trabajadores. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+Artículo 6. Vigilancia de la salud.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+Disposición derogatoria única. Derogación normativa. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+Disposición final primera. Elaboración de la Guía Técnica para la evaluación y 
+prevención de riesgos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+Disposición final segunda. Habilitación normativa. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 
+ANEXO. Factores de riesgo a que se hace referencia en los artículos 3.2 y 4. . . . . . . . . . . . . 15 
+1. Características de la carga.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 
+2. Esfuerzo físico necesario.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+3. Características del medio de trabajo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 
+4. Exigencias de la actividad.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 
+5. Factores individuales de riesgo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 
+III APÉNDICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+APÉNDICE 1. ETAPAS EN LA GESTIÓN DE RIESGOS DERIVADOS DE LA 
+MMC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 
+APÉNDICE 2. MÉTODOS DE EVALUACIÓN DE RIESGOS EN FUNCIÓN DE 
+LAS CARACTERÍSICAS DE LA MMC.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 
+APÉNDICE 3. MOVILIZACIÓN DE PERSONAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 
+IV. FUENTES DE INFORMACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+A. Documentos citados en la guía. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Normativa legal relacionada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Ámbito nacional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Ámbito europeo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Ámbito internacional. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Normas técnicas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Publicaciones del INSST. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Guías técnicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Notas Técnicas de Prevención . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 
+Otras publicaciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+Otra bibliografía citada en la guía . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+B. Otros documentos no citados en la guía. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 
+C. Referencia a la web de organismos de interés . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 
+
+7 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+I. INTRODUCCIÓN 
+La Directiva 90/269/CEE, de 29 de mayo, establece las disposiciones mínimas de seguridad y de salud relativas 
+a la manipulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los trabajadores. 
+Mediante el presente real decreto se procede a la transposición al derecho español del contenido de la citada di­
+rectiva. 
+Desde la primera edición de esta guía técnica, se han producido cambios tanto en la normativa legal como en el 
+conjunto de normas técnicas que afectan directa o indirectamente a la materia regulada en el Real Decreto 487/1997 
+y que han precisado de su incorporación en la presente edición del documento. Además, con motivo de la prolon­
+gada vigencia de la pasada edición, se ha acumulado una valiosa experiencia en relación con los aspectos y puntos 
+que requieren de aclaración, tanto por los órganos técnicos de las comunidades autónomas como por el INSST, 
+razón por la cual se ha realizado una revisión en profundidad del texto con objeto de facilitar en mayor medida la 
+aplicación del presente real decreto. 
+En esta línea cabe destacar la inclusión de tres apéndices en los que se desarrollan los aspectos relevantes consi­
+derados excesivamente amplios para ser intercalados en los comentarios del articulado y de los apartados del 
+anexo correspondientes. El primero y el segundo de ellos, abordan las etapas de gestión y el enfoque de la evalua­
+ción de los riesgos derivados de la manipulación manual de cargas e incluye referencias a diferentes métodos para 
+llevar a cabo dicha evaluación. Este hecho constituye una importante mejora con respecto a la edición anterior de 
+esta guía, ya que el conocido como “método de evaluación del INSST” estaba muy limitado ya que solo era de 
+aplicación para las tareas simples de elevación o depósito. Además, se referencian numerosos recursos para realizar 
+la evaluación con base en criterios de organismos e instituciones de reconocido prestigio. 
+El tercero de los apéndices está dedicado a la movilización y transferencia de personas, dada la especial relevancia 
+que esta tarea tiene, entre otros, en sectores como el sanitario y sociosanitario. La movilización y transferencia de 
+personas conlleva necesariamente tener en cuenta, no solo los factores de riesgo mencionados en el real decreto, 
+sino además considerar otros aspectos como son el grado de colaboración, la dignidad y la anatomía de las per­
+sonas que hay que movilizar. 
+Con el fin de facilitar la utilización de esta guía técnica, se incluye el articulado del Real Decreto 487/1997 en 
+recuadros de color, intercalando, cuando se ha considerado necesario, las observaciones o aclaraciones perti­
+nentes y refiriendo a los apéndices donde se ha considerado oportuno. La guía se estructura, en líneas generales, 
+en tres partes. Una primera, de carácter esencialmente jurídico, que comprende el articulado y las disposiciones 
+derogatoria y finales. Una segunda parte, de carácter técnico, donde se desarrollan los apartados incluidos en 
+el anexo del real decreto. Por último, una tercera parte, constituida por los tres apéndices referidos en los pá­
+rrafos anteriores. 
+
+9 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+II. DESARROLLO Y COMENTARIOS AL REAL DECRETO 487/1997, SOBRE DISPOSICIONES MÍNIMAS 
+DE SEGURIDAD Y SALUD RELATIVAS A LA MANIPULACIÓN MANUAL DE CARGAS QUE ENTRAÑE 
+RIESGOS, EN PARTICULAR DORSOLUMBARES, PARA LOS TRABAJADORES 
+REAL DECRETO 487/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas a la 
+manipulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los trabajadores. 
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, determina el cuerpo básico de ga­
+rantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los traba­
+jadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, 
+coordinada y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y 
+concretando los aspectos más técnicos de las medidas preventivas. 
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse 
+para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar que de 
+la manipulación manual de cargas no se deriven riesgos, en particular dorsolumbares, para los trabajadores. 
+Igualmente, el Convenio número 127 de la Organización Internacional del Trabajo, ratificado por España el 6 
+de marzo de 1969, contiene disposiciones relativas al peso máximo de la carga transportada por un trabajador. 
+En el mismo sentido hay que tener en cuenta que en el ámbito de la Unión Europea se han fijado mediante 
+las correspondientes Directivas criterios de carácter general sobre las acciones en materia de seguridad y salud 
+en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes y 
+situaciones de riesgo. Concretamente, la Directiva 90/269/CEE, de 29 de mayo, establece las disposiciones 
+mínimas de seguridad y de salud relativas a la manipulación manual de cargas que entrañe riesgos, en par­
+ticular dorsolumbares, para los trabajadores. Mediante el presente Real Decreto se procede a la transposición 
+al Derecho español del contenido de la Directiva 90/269/CEE, antes mencionada. 
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos 
+Laborales, a propuesta del Ministro de Trabajo y Asuntos Sociales, consultadas las organizaciones empresa­
+riales y sindicales más representativas, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, de 
+acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de 
+abril de 1997, 
+DISPONGO: 
+Artículo 1. Objeto. 
+1. El presente Real Decreto establece las disposiciones mínimas de seguridad y de salud relativas a la mani­
+pulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los trabajadores. 
+El Real Decreto 487/1997 constituye una norma de 
+Por tanto, las obligaciones contenidas en el mismo 
+desarrollo reglamentario de la Ley 31/1995, de 8 de nodeben entenderse e interpretarse a la luz de los precep­
+viembre, de Prevención de Riesgos Laborales (LPRL) 
+tos de carácter general contenidos en la citada ley. Asi­
+y tiene por objeto establecer las disposiciones mínimas 
+mismo, el cumplimiento de este real decreto no exime 
+de seguridad y salud relativas a la manipulación made la observancia de otras normas reglamentarias y 
+nual de cargas (MMC) y, en particular, que entrañe 
+técnicas que puedan ser exigibles, de acuerdo con lo 
+riesgos en el trabajo. 
+establecido en el artículo 1 de la LPRL. 
+2. Las disposiciones de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, se aplicarán 
+plenamente al conjunto del ámbito contemplado en el apartado anterior 
+
+10 
+GUÍA TÉCNICA 
+De acuerdo con lo comentado en el artículo 1.1, la em­
+presa deberá cumplir también con el conjunto de obli­
+gaciones incluidas en la LPRL. Del mismo modo, 
+también serán de plena aplicación los preceptos reco­
+gidos en el Real Decreto 39/1997, de 17 de enero, por 
+el que se aprueba el Reglamento de los Servicios de 
+Prevención (RSP). 
+En particular, por su carácter transversal, deben te­
+nerse en cuenta las disposiciones generales de la LPRL 
+y del RSP en temas como la integración de la preven­
+ción en la empresa, los principios de la acción preven­
+tiva, la evaluación de los riesgos, los equipos de trabajo 
+y medios de protección, la información, formación, 
+consulta y participación del personal, las medidas de 
+emergencia y las actuaciones de la vigilancia de la 
+salud, aspectos que, en el ámbito de aplicación del pre­
+sente real decreto están limitados a los riesgos deriva­
+dos de la MMC. 
+En el caso particular de las pequeñas y medianas em­
+presas, además de lo señalado anteriormente, se tendrá 
+en cuenta el servicio público de asesoramiento Preven­
+cion10.es, así como los documentos transversales del 
+INSST aplicables a pymes, tales como la Guía técnica de 
+integración de la prevención de riesgos laborales en el sis­
+tema de gestión de la empresa y la Guía técnica de simplifi­
+cación documental, ambas elaboradas por el INSST. 
+Artículo 2. Definición. 
+A efectos de este Real Decreto se entenderá por manipulación manual de cargas cualquier operación de trans­
+porte o sujeción de una carga por parte de uno o varios trabajadores, como el levantamiento, la colocación, el 
+empuje, la tracción o el desplazamiento, que por sus características o condiciones ergonómicas inadecuadas 
+entrañe riesgos, en particular dorsolumbares, para los trabajadores. 
+La definición de “manipulación manual de cargas” in­
+cluida en este apartado permite limitar el ámbito de 
+aplicación del real decreto y, con ello, las obligaciones 
+en la materia. 
+A efectos de esta guía, se entenderá como “carga”, 
+cualquier objeto, persona o animal susceptible de ser 
+levantado, descendido, colocado, empujado, traccio­
+nado, desplazado, sujetado o transportado. 
+Por otro lado, en lo que respecta al peso de la carga, el 
+presente real decreto no establece ningún valor con­
+creto de referencia. No obstante, a efectos de esta guía, 
+se considerarán aquellas cargas que igualen o superen 
+los 3 kg, ya que éstas serán las situaciones susceptibles 
+de requerir una evaluación específica si dichas cargas 
+se manipulan en unas condiciones ergonómicas desfa­
+vorables (alejadas del cuerpo, con una frecuencia ele­
+vada, en condiciones ambientales inadecuadas, etc.). 
+Este valor de referencia también es el asumido en la 
+norma técnica ISO 11228-1 de especial interés en este 
+ámbito. 
+Sin embargo, no hay que olvidar que las cargas infe­
+riores a los 3 kg también podrían ser un factor de 
+riesgo, por ejemplo, en tareas que requieran la realiza­
+ción de movimientos repetitivos y la adopción de pos­
+turas forzadas. 
+Adicionalmente, hay que señalar que, de acuerdo con 
+lo recogido en la citada norma ISO 11228-1, la MMC 
+con un peso superior a 25 kg puede constituir por sí 
+misma un riesgo no tolerable tal y como se recoge en 
+la tabla 1. 
+Tabla 1. Evaluación del riesgo por MMC 
+Peso 
+Evaluación de la manipulación manual de cargas 
+< 3 kg 
+Se debe valorar la posible existencia de otros factores 
+de riesgo. 
+3 - 25 kg 
+Se debe evaluar el riesgo de MMC. 
+>25 kg 
+Probablemente constituya un riesgo no tolerable en 
+sí mismo. 
+En lo que respecta al término “manipulación” de las 
+cargas, en este artículo se enumeran una serie de operaciones que se definen a continuación: 
+• Transporte: desplazamiento de una carga que permanece alzada empleando fuerza humana. 
+• Sujeción: manutención de una carga durante un 
+tiempo determinado. Suele ser una acción precedida de otras, como levantar, colocar, etc. 
+• Levantamiento: movimiento de una carga desde su 
+posición inicial hacia arriba. 
+• Colocación: posicionamiento de la carga en el lugar 
+de destino. 
+• Desplazamiento: movimiento de una carga horizontalmente de manera que se emplee la fuerza humana. 
+• Empuje: desplazamiento de la carga empleando un 
+esfuerzo físico en sentido hacia la carga. 
+• Tracción: desplazamiento de la carga empleando 
+un esfuerzo físico en sentido hacia la persona que 
+lo realiza. 
+
+11 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Además de las operaciones incluidas en este artículo, 
+podrían también considerarse las siguientes: 
+• Descenso: movimiento que acompaña la carga 
+desde su posición inicial hacia abajo. 
+• Movilización de personas: manipulación específica 
+que requiere fuerza para empujar, tirar, levantar, 
+bajar, transferir o, de alguna manera, mover o sostener a una persona o parte de su cuerpo con o sin 
+ayudas técnicas. 
+Realizar acciones de levantamiento, colocación y 
+transporte supone un incremento de la presión intradiscal, especialmente a nivel dorsolumbar, que puede 
+provocar lesiones de distinta importancia y gravedad, 
+pudiendo llegar a dañar estructuras como los discos 
+intervertebrales. 
+En manipulaciones que requieren el empuje y tracción 
+de las cargas, los aspectos que pueden ser más determinantes serán los esfuerzos en el arranque del movimiento, así como en el mantenimiento de dicho 
+esfuerzo durante el transporte. 
+Independientemente de la intensidad de la fuerza, esta 
+no se aplicará correctamente si se empuja o tracciona 
+una carga con las manos por debajo de la altura de los 
+nudillos o por encima del nivel de los hombros2 (véase 
+la figura 1), ya que, fuera de estos rangos, el punto de 
+aplicación de las fuerzas será excesivamente bajo o 
+alto. Si, además, el apoyo de los pies no es firme, el 
+riesgo de lesión podrá aumentar. 
+Si bien el real decreto hace hincapié en los riesgos que 
+puedan producir alteraciones dorsolumbares, durante 
+Altura de los hombros 
+Altura de los nudillos 
+Figura 1. Altura de los hombros y de los nudillos como refe­
+rencia. 
+la MMC puede haber exposición a otros riesgos, como 
+caídas al mismo nivel, caídas de objetos en manipula­
+ción, golpes, cortes, atrapamientos, etc. Estos deberán 
+ser adecuadamente analizados con el objetivo de evitar 
+que afecten a la seguridad y salud. 
+Artículo 3. Obligaciones generales del empresario. 
+1. El empresario deberá adoptar las medidas técnicas u organizativas necesarias para evitar la manipulación 
+manual de las cargas, en especial mediante la utilización de equipos para el manejo mecánico de las mismas, 
+sea de forma automática o controlada por el trabajador. 
+Entre los principios de la acción preventiva, recogidos 
+nueva o reformada, la automatización total de los proen el artículo 15 de la LPRL, se indica que se deberán 
+cesos y la mecanización de ciertas tareas, así como la 
+adoptar medidas para evitar los riesgos. 
+utilización de medios auxiliares, pueden ayudar a este 
+fin. No obstante, si se recurre a este tipo de medidas, 
+El primer objetivo es evitar la MMC, para lo cual se pose deben considerar, por un lado, su compatibilidad 
+drán adoptar medidas técnicas u organizativas. En el 
+con el propio sistema y, por otro, la posible generación 
+diseño de un sistema de trabajo o instalación, ya sea 
+de nuevos riesgos. 
+[2] Referencias contenidas en la norma ISO 11228-2. 
+
+12 
+GUÍA TÉCNICA 
+2. Cuando no pueda evitarse la necesidad de manipulación manual de las cargas, el empresario tomará las 
+medidas de organización adecuadas, utilizará los medios apropiados o proporcionará a los trabajadores tales 
+medios para reducir el riesgo que entrañe dicha manipulación. A tal fin, deberá evaluar los riesgos tomando 
+en consideración los factores indicados en el anexo del presente Real Decreto y sus posibles efectos combina­
+dos. 
+A este respecto, se deben recordar otros dos principios 
+de la acción preventiva de la LPRL. Por un lado, el que 
+indica que se debe adaptar el trabajo a la persona, en 
+particular en lo que respecta a la concepción de los 
+puestos de trabajo, así como a la elección de los equipos y a los métodos de trabajo. 
+Por otro lado, la obligación de evaluar los riesgos que 
+no se hayan podido evitar. Esta obligación se enmarca 
+en el contexto general fijado en el documento Directrices básicas para la evaluación de riesgos laborales del INSST, 
+en el que se destacan tres aspectos clave: 
+• La evaluación de riesgos es un proceso que transcurre por distintas etapas. 
+• La evaluación es un medio (no un fin) para estimar 
+la magnitud del riesgo y, consecuentemente, para 
+la toma de decisiones. Un aspecto fundamental es 
+la búsqueda de una información suficiente sobre las 
+características de la tarea para poder identificar la 
+necesidad de adoptar medidas preventivas y, en su 
+caso, determinar cuáles son las más apropiadas y 
+cómo y cuándo implantarlas. 
+• La evaluación de riesgos laborales es aplicable a los 
+riesgos que no hayan podido evitarse, lo que pone 
+en valor la importancia de una adecuada concepción y diseño de los puestos de trabajo para eliminar los riesgos en su origen. 
+En la evaluación de la MMC, entre otros, será necesario analizar los factores de riesgo que vienen recogidos en el anexo del real decreto y que están 
+relacionados con: 
+• Las características de la carga. 
+• El esfuerzo necesario en la manipulación. 
+• Las características del medio de trabajo. 
+• Las exigencias de la actividad. 
+• Los factores individuales. 
+La fase de identificación del riesgo adquiere una gran 
+importancia en el caso de la MMC, ya que cada tipo de 
+manipulación requiere un enfoque distinto para su 
+evaluación. Por ejemplo, para el caso del empuje de un 
+carro, los métodos orientados a evaluar los levantamientos de objetos no serán adecuados. En los apéndices 2 y 3 de esta guía se indican varios métodos de 
+evaluación en función del tipo de manipulación. 
+Otras situaciones especiales a la hora de realizar la 
+evaluación de riesgos que requerirán un análisis específico son las siguientes: 
+• Manipulación de cargas en postura sedente. 
+En esta posición no se puede utilizar la fuerza de 
+las piernas en el levantamiento y el cuerpo no 
+puede servir de contrapeso. Por lo tanto, la mayor 
+parte del esfuerzo debe hacerse con los músculos 
+de los brazos y el tronco, que son más débiles. También aumenta el riesgo debido a que la curvatura 
+lumbar está modificada en esta postura. 
+• Manipulación en equipo. 
+Cuando se manipula una carga entre dos personas, 
+la capacidad de levantamiento es dos tercios de la 
+suma de las capacidades individuales. Cuando el 
+equipo es de tres personas, la capacidad de levantamiento del equipo se reduciría a la mitad de la suma 
+de las capacidades individuales. A esta situación hay 
+que añadir, por ejemplo, la dificultad de sincronizar 
+los movimientos, el reparto irregular de la carga y 
+los problemas de visualización de la maniobra. 
+• Manipulación de seres vivos. 
+La manipulación de seres vivos merece una consideración especial por el hecho de que la carga se 
+puede mover de forma brusca e inesperada y, por 
+tanto, se generan niveles de riesgo más difíciles de 
+cuantificar que cuando se manipulan cargas inertes. 
+Estas situaciones pueden producirse, por ejemplo, 
+en hospitales, en escuelas infantiles, en granjas o en 
+clínicas veterinarias. 
+En el caso de la manipulación de animales se debe 
+intentar, siempre que sea posible, que sean estos los 
+que caminen, evitando así la movilización de forma 
+manual. Se usarán ayudas mecánicas cuando proceda y se priorizará la manipulación entre varias 
+personas, planificando adecuadamente la acción y 
+teniendo en cuenta los principios de higiene postural oportunos. Si es viable, se procederá a inmovilizar adecuadamente al animal y se intentará 
+calmarlo para evitar que realice movimientos imprevistos. 
+Es conveniente recordar que pequeñas cargas, incluso 
+por debajo de los 3 kg, también pueden suponer otro 
+tipo de riesgos. Por tanto, en la fase de identificación 
+habrá que observar si la manipulación puede causar 
+daños en otras zonas diferentes a la dorsolumbar. 
+
+13 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Tal y como señala el artículo 25 de la LPRL, la empresa 
+garantizará de manera específica la protección del per­
+sonal especialmente sensible, teniendo en cuenta las 
+características personales o su estado biológico cono­
+cido. 
+Asimismo, se recoge en el artículo 26 de la citada ley 
+la necesidad de evaluar los riesgos en el caso de las 
+mujeres embarazadas, tras parto reciente o en periodo 
+de lactancia natural, debido al aumento de la vulnera­
+bilidad por los cambios fisiológicos y biológicos que se 
+producen. Además, el anexo VII del RSP recoge de ma­
+nera específica la necesidad de evaluar y establecer ac­
+ciones preventivas específicas ante la “manipulación 
+manual de cargas pesadas que supongan riesgos, en 
+particular dorsolumbares”. Para realizar dicha evalua­
+ción se puede tomar como referencia la NTP 785. Ergo­
+mater. Método para la evaluación ergonómica en 
+trabajadoras embarazadas. 
+Una vez realizada la evaluación, se deberán adoptar 
+las medidas oportunas (ayudas técnicas, medidas or­
+ganizativas, etc.) con el fin de minimizar o controlar al 
+máximo los riesgos derivados de la manipulación ma­
+nual de cargas. El proceso de gestión del riesgose des­
+cribe en el apéndice 1 de esta guía. 
+Artículo 4. Obligaciones en materia de formación e información. 
+De conformidad con los artículos 18 y 19 de la Ley de Prevención de Riesgos Laborales, el empresario deberá 
+garantizar que los trabajadores y los representantes de los trabajadores reciban una formación e información 
+adecuadas sobre los riesgos derivados de la manipulación manual de cargas, así como sobre las medidas de 
+prevención y protección que hayan de adoptarse en aplicación del presente Real Decreto. 
+La formación en materia preventiva es un derecho re­
+conocido en el artículo 14 de la LPRL y desarrollado 
+en su artículo 19. 
+Cada persona debe recibir una formación teórica y 
+práctica, suficiente y adecuada en materia preventiva. 
+La formación debe estar centrada específicamente en 
+el puesto de trabajo o funciones a desempeñar. Se debe 
+realizar en el momento de la contratación, así como 
+cuando se produzcan cambios en las tareas, en los 
+equipos de trabajo o se introduzcan nuevas tecnologías 
+y esta se mantendrá actualizada. 
+De la misma manera, la información es también un de­
+recho en materia preventiva, reconocido en el artículo 
+14 de la LPRL y desarrollado en su artículo 18.1. El per­
+sonal debe ser informado, entre otros aspectos, de los 
+riesgos a los que está expuesto y de las medidas de pre­
+vención o protección establecidas. 
+En particular, proporcionará a los trabajadores una formación e información adecuada sobre la forma correcta 
+de manipular las cargas y sobre los riesgos que corren de no hacerlo de dicha forma, teniendo en cuenta los 
+factores de riesgo que figuran en el anexo de este Real Decreto. La información suministrada deberá incluir 
+indicaciones generales y las precisiones que sean posibles sobre el peso de las cargas y, cuando el contenido 
+de un embalaje esté descentrado, sobre su centro de gravedad o lado más pesado. 
+Los riesgos de lesiones debidos a las tareas que implican una MMC aumentan ante una formación e información deficientes. 
+Una adecuada formación podría alcanzarse mediante 
+programas teórico-prácticos que consideren, entre 
+otras cuestiones, las siguientes: 
+• Los factores de riesgo específicos que están presentes en las tareas desarrolladas, recogidos en el 
+anexo, y la forma de prevenirlos. 
+• Los procedimientos de trabajo establecidos en la 
+empresa que puedan incluir cuestiones relativas a 
+la MMC como las ayudas mecánicas a emplear o la 
+MMC en caso de avería. 
+• Técnicas seguras para la MMC, convenientemente 
+adaptadas a la tarea concreta que se realice, que incluyan pautas sobre cómo actuar en situaciones no 
+habituales de manipulación. 
+• Peso y centro de gravedad. Si es posible, deberían 
+ir señalizados en las cargas. En caso contrario, se informará sobre ambos aspectos. 
+• Otros aspectos que puedan suponer una fuente de 
+riesgo: temperatura elevada o muy baja de la superficie de la carga, movilización de seres vivos que 
+se puedan mover de forma brusca e inesperada, 
+transporte de líquidos corrosivos, posibilidad de 
+caída o desplazamiento de piezas, etc. 
+• Uso correcto del equipo de protección individual 
+en función de la tarea a realizar (por ejemplo, de 
+guantes de protección y calzado de seguridad). 
+
+14 
+GUÍA TÉCNICA 
+El objetivo de cualquier programa de formación debe­
+ría ser que la plantilla comprenda el alcance de los ries­
+gos y la necesidad de adoptar las medidas preventivas 
+puestas a su disposición. 
+Por último, es importante señalar que el mero hecho 
+de suministrar información y formación no basta por 
+sí solo para prevenir los riesgos provocados por la 
+MMC, debiendo ser considerarse como acciones com­
+plementarias a la adopción de medidas de otra natu­
+raleza. 
+Artículo 5. Consulta y participación de los trabajadores. 
+La consulta y participación de los trabajadores o sus representantes sobre las cuestiones a las que se refiere 
+este Real Decreto se realizarán de conformidad con lo dispuesto en el apartado 2 del artículo 18 de la Ley de 
+Prevención de Riesgos Laborales. 
+El artículo 18.2 de la LPRL dispone que “El empresa­
+rio deberá consultar a los trabajadores, y permitir su 
+participación, en el marco de todas las cuestiones que 
+afecten a la seguridad y a la salud en el trabajo, de 
+conformidad con lo dispuesto en el capítulo V de la 
+presente Ley. Los trabajadores tendrán derecho a 
+efectuar propuestas al empresario, así como a los ór­
+ganos de participación y representación previstos en 
+el capítulo V de esta Ley, dirigidas a la mejora de los 
+niveles de protección de la seguridad y la salud en la 
+empresa”. 
+En ciertas circunstancias, se puede recurrir a un enfo­
+que de ergonomía participativa, que implica activa­
+mente a la plantilla en el diseño y planificación de las 
+medidas preventivas que hay que adoptar. El objetivo 
+es emplear el potencial del que disponen quienes ten­
+gan experiencia en la tarea. De esta manera se optimiza 
+y se centra la consulta y participación de la plantilla 
+para la resolución de problemas concretos relaciona­
+dos con la MMC dando un paso más de las obligacio­
+nes citadas en el párrafo anterior. Para más 
+información sobre esta cuestión, puede consultarse la 
+NTP 1.137, Ergonomía participativa: un enfoque diferente 
+en la gestión del riesgo ergonómico. 
+Artículo 6. Vigilancia de la salud. 
+El empresario garantizará el derecho de los trabajadores a una vigilancia adecuada de su salud cuando su ac­
+tividad habitual suponga una manipulación manual de cargas y concurran algunos de los elementos o factores 
+contemplados en el anexo. Tal vigilancia será realizada por personal sanitario competente, según determinen 
+las autoridades sanitarias en las pautas y protocolos que se elaboren, de conformidad con lo dispuesto en el 
+apartado 3 del artículo 37 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de 
+los Servicios de Prevención. 
+Se debe garantizar la vigilancia del estado de salud en 
+relación con los riesgos del trabajo. La vigilancia de la 
+salud está regulada, principalmente, en los artículos 22 
+de la LPRL y 37 del RSP, así como en el Real Decreto 
+843/2011, de 17 de junio, por el que se establecen los 
+criterios básicos sobre la organización de recursos para 
+desarrollar la actividad sanitaria de los servicios de 
+prevención. 
+Del carácter voluntario general de la realización de re­
+conocimientos médicos solo se exceptúan, previo in­
+forme de los representantes del personal, los supuestos 
+en los que la realización de dichos reconocimientos es 
+imprescindible para evaluar los efectos de las condi­
+ciones de trabajo sobre la salud o para verificar si el es­
+tado de salud de las personas que trabajan puede 
+constituir un peligro para ellas mismas, para los 
+demás, o cuando así esté establecido en una disposi­
+ción legal en relación con la protección de riesgos es­
+pecíficos y actividades de especial peligrosidad. Tam­
+bién se establece la obligación de realizar reconoci­
+mientos previos y periódicos a quienes ocupan un 
+puesto de trabajo en el que exista un riesgo de enfer­
+medad profesional (artículo 243 del texto refundido de 
+la Ley General de la Seguridad Social, aprobado por 
+Real Decreto Legislativo 8/2015, de 30 de octubre). 
+La vigilancia de la salud estará sometida a protoco­
+los específicos u otros medios existentes con res­
+pecto a los factores de riesgo. El Ministerio de 
+Sanidad proporciona guías y protocolos de vigilan­
+cia sanitaria, entre los que se incluye el Protocolo de 
+vigilancia sanitaria específica. Manipulación manual de 
+cargas. Asimismo, se deberían tener en cuenta las re­
+comendaciones contempladas en la Guía básica y ge­
+neral de orientación de las actividades de vigilancia de la 
+salud para la prevención de riesgos laborales publicada 
+por el citado ministerio. 
+
+15 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Disposición derogatoria única. Derogación normativa. 
+Quedan derogados el Decreto del Ministerio de Trabajo de 15 de noviembre de 1935, que prohíbe la utilización 
+de sacos o fardos de más de 80 kilogramos cuyo transporte, carga o descarga haya de hacerse a brazo, y la 
+Orden del Ministerio de Trabajo de 2 de junio de 1961 sobre prohibición de cargas a brazo que excedan de 80 
+kilogramos. 
+Disposición final primera. Elaboración de la Guía Técnica para la evaluación y prevención de riesgos. 
+El Instituto Nacional de Seguridad e Higiene en el Trabajo elaborará y mantendrá actualizada una Guía Téc­
+nica para la evaluación y prevención de los riesgos relativos a la manipulación manual de cargas. En dicha 
+Guía se considerarán los valores máximos de carga como referencia para una manipulación manual en con­
+diciones adecuadas de seguridad y salud, así como los factores correctores en función de las características 
+individuales, de la carga y de la forma y frecuencia de su manipulación manual. 
+Se trata de la presente guía técnica. 
+Disposición final segunda. Habilitación normativa. 
+Se autoriza al Ministro de Trabajo y Asuntos Sociales para dictar, previo informe de la Comisión Nacional de 
+Seguridad y Salud en el Trabajo, las disposiciones necesarias en desarrollo de este Real Decreto y, específica­
+mente, para proceder a la modificación del anexo del mismo para aquellas adaptaciones de carácter estricta­
+mente técnico en función del progreso técnico, de la evolución de las normativas o especificaciones 
+internacionales o de los conocimientos en el ámbito de la manipulación manual de cargas. 
+Dado en Madrid a 14 de abril de 1997. 
+JUAN CARLOS R. 
+El Ministro de Trabajo y Asuntos Sociales, 
+JAVIER ARENAS BOCANEGRA 
+ANEXO. 
+Factores de riesgo a que se hace referencia en los artículos 3.2 y 4. 
+En la aplicación de lo dispuesto en el presente anexo se tendrán en cuenta, en su caso, los métodos o criterios 
+a que se refiere el apartado 3 del artículo 5 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el 
+Reglamento de los Servicios de Prevención. 
+En este anexo se describen los factores de riesgo que 
+se deben considerar a la hora de llevar a cabo las evaluaciones de riesgo de los puestos y el desarrollo de la 
+formación relacionada con la MMC. Para ello, se tendrán en cuenta los distintos tipos de MMC que pudieran darse. Así, por ejemplo, el empuje, la tracción o el 
+levantamiento de cargas, aunque comparten características parecidas y pueden presentar problemas similares, se abordan de forma diferente. Por este motivo, 
+el anexo describe los principales factores de riesgo que 
+no tienen por qué estar presentes en todas las manipulaciones. Del mismo modo, se pueden presentar otros 
+factores de riesgo no recogidos en este anexo. 
+
+16 
+GUÍA TÉCNICA 
+1. Características de la carga.
+La manipulación manual de una carga puede presentar un riesgo, en particular dorsolumbar, en los casos si­
+guientes: 
+Cuando la carga es demasiado pesada o demasiado grande. 
+Cuando es voluminosa o difícil de sujetar. 
+Cuando está en equilibrio inestable o su contenido corre el riesgo de desplazarse. 
+Cuando está colocada de tal modo que debe sostenerse o manipularse a distancia del tronco o con torsión o 
+inclinación del mismo. 
+Cuando la carga, debido a su aspecto exterior o a su consistencia, puede ocasionar lesiones al trabajador, en 
+particular en caso de golpe. 
+El peso de la carga3 es el principal factor a la hora de 
+evaluar el riesgo en la manipulación manual. 
+En los casos del levantamiento y del descenso de cargas, 
+se considera que aquellos objetos que igualen o superen 
+los 3 kg pueden ser fuente de riesgo según el criterio de 
+la norma ISO 11228-1. Se establece que, en condiciones 
+ideales, el peso máximo que no se debe sobrepasar es 
+25 kg en el caso de hombres de 20 a 45 años y de 20 kg 
+en el caso de mujeres de la misma franja de edad. 
+Se entiende por “condiciones ideales de MMC” aquellas 
+que han minimizado los riesgos asociados a los factores 
+que se van a describir en el anexo del real decreto. Por 
+ejemplo, aquellas que suponen que la carga esté pró­
+xima al cuerpo, a la altura de las caderas, con la espalda 
+recta, sin realizar giros ni inclinaciones, garantizando 
+una sujeción correcta, en unas condiciones ambientales 
+favorables y sin restricciones de espacio. En la medida 
+que no se cumplan estas condiciones, el peso máximo a 
+manipular irá disminuyendo progresivamente. 
+La edad y el sexo son factores que también modifican 
+este peso máximo en condiciones ideales, según los va­
+lores recogidos en la tabla 2. 
+Tabla 2: Tabla de pesos de referencia máximos que no se 
+deben sobrepasar en función del sexo y de la edad. Fuente: 
+Norma ISO 11228-1. 
+Características de la población 
+Peso máximo (Kg) 
+Edad (años) 
+Sexo 
+Mujeres 
+20-45
+20 
+< 20 o >45 
+15 
+Hombres 
+20-45
+25 
+< 20 o >45 
+20 
+Cuando la tarea implique empuje o tracción de la 
+carga, según el criterio de la norma ISO/TR 12295, la 
+fuerza aplicada no debe sobrepasar en ningún caso los 
+siguientes valores recogidos en la tabla 3. 
+Tabla 3. Tabla de fuerza inicial y mantenida de referencia 
+máximos que no se deben sobrepasar en función del sexo. 
+Fuente: Norma ISO/TR 12295. 
+Sexo 
+FUERZA 
+Inicial 
+Mantenida 
+Mujeres 
+240 N 
+150 N 
+Hombres 
+360 N 
+250 N 
+Es recomendable que las indicaciones acerca del peso 
+estén especificadas en las cargas para tomar las precauciones necesarias y evitar manipulaciones peligrosas. En caso de no ser esto posible, es conveniente, al 
+menos, que se informe al personal trabajador de los 
+pesos de las cargas. Cuando sea el caso, se solicitará 
+esta información a la empresa fabricante, suministradora o importadora. 
+Otras características de la carga que pueden aumentar 
+el riesgo de daño dorsolumbar son su forma y sus dimensiones (véase figura 2): 
+•
+Una 
+Una car
+carga 
+ga demasiado 
+demasiado ancha 
+ancha implica 
+implica posturas 
+posturas forforzadas 
+zadas de 
+de los 
+los brazos 
+brazos y 
+y dificulta 
+dificulta un 
+un buen 
+buen agarr
+agarre. 
+e. Esto
+Esto
+supone 
+supone un 
+un incr
+incremento 
+emento del 
+del trabajo 
+trabajo de 
+de los 
+los gr
+grupos
+upos
+musculares tanto de la espalda como de los hombros y los brazos, haciendo más probable la aparición de fatiga y sobrecarga. Tampoco será posible
+levantarla desde el suelo en una postura segura, al
+no poder acercarla al cuerpo y mantener el tronco
+recto y sin flexión, lo que limita la capacidad de
+[3] En esta guía técnica, el término “peso” se emplea como sinónimo de “masa” de un objeto. A pesar de que en el ámbito de
+las ciencias físicas ambos términos no son equivalentes (la masa es la cantidad de materia de un objeto, mientras que el peso 
+es la fuerza en newtons ejercida por el campo gravitatorio sobre dicho objeto), en el uso cotidiano es habitual referirse a la
+masa mediante el término peso.
+
+17 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+poder hacer un esfuerzo sin sufrir daño. Por ello, 
+es conveniente que la anchura de la carga no supere 
+la anchura de los hombros. 
+•
+Una carga demasiado profunda aumenta la distancia horizontal del agarre, produciendo a su vez un
+incremento de las fuerzas compresivas en la columna vertebral. En consecuencia, es recomendable
+que la profundidad del punto del agarre no supere
+los 25 cm4.
+•
+Una carga demasiado alta entorpece la visibilidad,
+existiendo riesgo de tropiezos o golpes con objetos
+durante su transporte. Por ello, la carga no debe interferir la visión.
+Anchura 
+Altura 
+Profundidad 
+Figura 2. Dimensiones. 
+Unas asas o agarres adecuados van a hacer posible que 
+se pueda sujetar firmemente el objeto, permitiendo 
+una postura de trabajo correcta. En general, es preferible que las cargas tengan asas o ranuras para introducir la mano fácilmente, de modo que permitan un 
+agarre correcto, incluso cuando se utilicen guantes. 
+El agarre puede ser: 
+•
+BUENO: si la carga tiene asas u otro tipo de agarres
+con una forma y tamaño que permitan una sujeción
+confortable para toda la mano, permaneciendo la
+muñeca sin desviaciones ni posturas desfavorables
+(véase figura 3).
+Figura 3. Ejemplos de agarres considerados buenos. 
+•
+REGULAR: si la carga tiene asas o hendiduras que
+no permitan un agarre como en el apartado ante­
+rior. También se incluyen aquellas cargas sin asas
+que pueden sujetarse flexionando la mano 90º alre­
+dedor de la carga (véase figura 4).
+90º 
+Figura 4. Ejemplos de agarres considerados regulares. 
+•
+MALO: si no se cumplen los requisitos de los tipos
+de agarre anteriores (véase figura 5)
+Figura 5. Ejemplos de agarres considerados malos. 
+Las cargas deberán tener preferentemente el centro de 
+gravedad fijo y centrado. Un centro de gravedad des­
+plazado5 o variable6 puede incrementar el riesgo de 
+producir daño en la zona dorsolumbar. 
+Si el centro de gravedad está desplazado, pueden au­
+mentar las fuerzas compresivas que van a soportar los 
+músculos y las articulaciones, sobre todo en la zona 
+lumbar. En estos casos, se recomienda manipular las 
+cargas con el lado más pesado cerca del cuerpo. En 
+caso de manipular cargas inestables -por ejemplo, lí­
+quidos-, el centro de gravedad es variable y puede in­
+crementar el riesgo de lesión al requerirse un mayor 
+esfuerzo para su manipulación. 
+Hay otras características de las cargas que incrementan 
+el riesgo de la propia manipulación, por ejemplo: 
+•
+Elementos y bordes cortantes o afilados.
+•
+Cargas resbaladizas, que se pueden caer de las
+manos y generar golpes.
+•
+Objetos muy calientes o muy fríos, que puedan originar un riesgo de quemadura y la posibilidad de
+pérdida de capacidad de agarre por una menor sensibilidad en las manos.
+Por todo lo anterior, la superficie de la carga no tendrá 
+elementos peligrosos que generen riesgos de lesiones. 
+En caso contrario, se aconseja la utilización de equipos 
+de protección individual (EPI). 
+[4] Distancia a partir de la cual se incluyen factores de multiplicación tanto en la norma ISO 11228-1 como en la ecuación de
+NIOSH.
+[5] Se entiende por objeto con centro de gravedad desplazado aquel cuyo centro de masas no coincide con el centro geométrico.
+[6] Se entiende por centro de gravedad variable aquel que cambia de posición durante la manipulación.
+
+18 
+GUÍA TÉCNICA 
+2. Esfuerzo físico necesario. 
+Un esfuerzo físico puede entrañar un riesgo, en particular dorsolumbar, en los casos siguientes: 
+Cuando es demasiado importante. 
+Cuando no puede realizarse más que por un movimiento de torsión o de flexión del tronco. 
+Cuando puede acarrear un movimiento brusco de la carga. 
+Cuando se realiza mientras el cuerpo está en posición inestable. 
+Cuando se trate de alzar o descender la carga con necesidad de modificar el agarre. 
+La realización de sobresfuerzos puede suponer la apa­
+rición de TME, bien sea de manera aguda, provocando 
+una lesión en el momento de realizar el esfuerzo, bien 
+sea de manera crónica, por realizar este tipo de accio­
+nes de forma continuada en el tiempo. 
+Incluso respetando los límites de peso máximo a ma­
+nipular, superar determinados pesos acumulados en 
+función del tiempo y de las distancias recorridas su­
+pone un incremento del riesgo de sufrir TME relacio­
+nados con la MMC. 
+La resistencia que presenta la espalda al esfuerzo es 
+mayor cuando se manipula una carga realizando mo­
+vimientos de torsión o de flexión del tronco o se man­
+tienen posturas inestables, pudiendo provocar 
+lesiones y accidentes (véanse figura 6 y figura 7). Los 
+giros del tronco aumentan las fuerzas compresivas en 
+la zona lumbar, por lo que, siempre que sea posible, se 
+diseñarán las tareas de forma que las cargas se mani­
+pulen sin efectuar giros. 
+Hombros 
+Talones 
+Figura 7. Falta de paralelismo entre las líneas de hombros y 
+talones en la torsión del tronco. 
+El arranque del levantamiento y el depósito de las cargas, y la aplicación de la fuerza inicial en los casos de 
+empuje y tracción, son los momentos de mayor riesgo, 
+ya que se van a producir las presiones más intensas. 
+Estas presiones se incrementarán si la carga no es estable o se produce un movimiento imprevisto de esta. 
+Hay que tener en cuenta también que, cuando se manipule una carga que exija la modificación del agarre, 
+el esfuerzo complementario que se debe realizar para 
+recolocar o asegurar la carga puede incrementar el 
+riesgo de sufrir lesiones. 
+Figura 6. Comportamiento de los discos intervertebrales en 
+la flexión del tronco. 
+3. Características del medio de trabajo. 
+Las características del medio de trabajo pueden aumentar el riesgo, en particular dorsolumbar, en los casos 
+siguientes: 
+Cuando el espacio libre, especialmente vertical, resulta insuficiente para el ejercicio de la actividad de que se trate. 
+
+19 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Cuando el suelo es irregular y, por tanto, puede dar lugar a tropiezos o bien es resbaladizo para el calzado 
+que lleve el trabajador. 
+Cuando la situación o el medio de trabajo no permite al trabajador la manipulación manual de cargas a una 
+altura segura y en una postura correcta. 
+Cuando el suelo o el plano de trabajo presentan desniveles que implican la manipulación de la carga en niveles 
+diferentes. 
+Cuando el suelo o el punto de apoyo son inestables. 
+Cuando la temperatura, humedad o circulación del aire son inadecuadas. 
+Cuando la iluminación no sea adecuada. 
+Cuando exista exposición a vibraciones. 
+No disponer de espacio suficiente para poder llevar a 
+cabo la tarea puede dificultar la adopción de posturas 
+y movimientos correctos, obligando, por ejemplo, a la 
+realización de giros e inclinaciones del tronco. En casos 
+de empujes o tracciones de equipos, el espacio debe ser 
+suficiente para permitir su maniobrabilidad. 
+El riesgo de lesión podría incrementarse si se deben 
+subir o bajar escalones, cuestas o desniveles trans­
+portando cargas. En estos casos, se añade complejidad 
+a los movimientos y aumentan las fuerzas estáticas en 
+los músculos y articulaciones de la espalda. 
+En relación con lo anterior, el Real Decreto 1215/1997, 
+de 18 de julio, por el que se establecen las disposiciones 
+mínimas de seguridad y salud para la utilización por 
+los trabajadores de los equipos de trabajo prohíbe el 
+transporte y la manipulación de cargas por o desde es­
+caleras de mano cuando su peso o dimensiones pue­
+dan comprometer la seguridad. 
+Otras características del medio que también pueden 
+afectar al riesgo son las condiciones termohigrométri­
+cas. Si durante las tareas que impliquen MMC la tem­
+peratura es demasiado elevada, se llegará antes a un 
+estado de fatiga, y si, además, las manos transpiran, el 
+agarre de la carga será menos firme. Cuando la tem­
+peratura es demasiado baja, se entumecerán los mús­
+culos, concretamente los de los brazos y las manos, 
+aumentando el riesgo de lesión. Se perderá destreza 
+manual y se dificultarán los movimientos. Por todo lo 
+anterior, se aconseja que la temperatura se mantenga 
+dentro de unos rangos confortables. Para una mayor 
+información, tanto sobre las condiciones termohigro­
+métricas como de iluminación, se puede consultar la 
+Guía Técnica para la evaluación y prevención de los riesgos 
+relativos a la utilización de los lugares de trabajo, publicada 
+por el INSST. 
+En trabajos que se realizan en el exterior se debe tener 
+en cuenta la posibilidad de que las condiciones mete­
+orológicas supongan un riesgo adicional debido a la 
+temperatura, -tanto por frío como por calor-, a las pre­
+cipitaciones (lluvia, nieve o granizo) o por la presencia 
+de vientos fuertes. En todos estos casos, el riesgo 
+puede verse especialmente incrementado, sobre todo 
+ante climatología extrema. 
+En este sentido, el Real Decreto 486/1997, de 14 de 
+abril, por el que se establecen las disposiciones mínimas 
+de seguridad y salud en los lugares de trabajo, indica 
+en su disposición adicional única que en los trabajos al 
+aire libre deberán tomarse medidas adecuadas para la 
+protección de las personas frente a cualquier riesgo de­
+rivado de los fenómenos meteorológicos adversos. 
+Estas medidas incluirán la prohibición de desarrollar 
+determinadas tareas si no puede garantizarse de otro 
+modo la seguridad y la salud. Adicionalmente, cuando 
+la Agencia Estatal de Meteorología (AEMET) o el ór­
+gano autonómico correspondiente emita un aviso por 
+fenómenos meteorológicos adversos de nivel naranja o 
+rojo y las medidas preventivas implementadas no ga­
+ranticen la protección de las personas, resultará obliga­
+toria la adaptación de las condiciones de trabajo, 
+incluida la reducción o modificación de las horas de 
+desarrollo de la jornada prevista. 
+A estos efectos, se recuerda que AEMET emite avisos 
+frente a los siguientes efectos meteorológicos: tempe­
+raturas máximas, temperaturas mínimas, precipitacio­
+nes, viento, polvo en suspensión y fenómenos costeros. 
+Para finalizar, se procurará evitar la MMC sobre su­
+perficies vibrantes, ya que aumenta el riesgo para la 
+zona dorsolumbar y otras articulaciones del cuerpo. 
+Para una mayor información, se puede consultar la 
+Guía Técnica para la evaluación y prevención de los riesgos 
+relacionados con las vibraciones mecánicas, publicada por 
+el INSST. 
+
+20 
+GUÍA TÉCNICA 
+4. Exigencias de la actividad. 
+La actividad puede entrañar riesgo, en particular dorsolumbar, cuando implique una o varias de las exigencias 
+siguientes: 
+Esfuerzos físicos demasiado frecuentes o prolongados en los que intervenga en particular la columna verte­
+bral. 
+Período insuficiente de reposo fisiológico o de recuperación. 
+Distancias demasiado grandes de elevación, descenso o transporte. 
+Ritmo impuesto por un proceso que el trabajador no pueda modular. 
+La MMC de forma muy frecuente o prolongada en el 
+tiempo implica esfuerzos que pueden producir fatiga 
+física y una mayor probabilidad de sufrir una lesión 
+dorsolumbar por el posible fallo de la eficiencia mus­
+cular. Por ello, se debe alternar la MMC con periodos 
+de descanso adecuados o con otras actividades que no 
+impliquen los mismos grupos musculares y permitan 
+la recuperación física. 
+La norma ISO 11228-1 considera que el riesgo es alto 
+si se superan alguna de las frecuencias de manipula­
+ción que se recogen en la tabla 4. 
+Tabla 4. Frecuencia de la manipulación según la duración 
+de la tarea que no se debe superar. Fuente: Norma ISO 
+11228-1. 
+Frecuencia de la 
+manipulación 
+Duración máxima de la manipulación 
+Más de 15 
+levantamientos/min. 
+Manipulación de corta duración: 
+60 min máximo (seguidos al menos de 
+60 min de descanso). 
+Más de 12 
+levantamientos/min. 
+Manipulación de duración media: 
+120 min máximo (seguidos al menos de 
+30 min de descanso). 
+Más de 10 
+levantamientos/min. 
+Manipulaciones de duración superior 
+a 2 h. 
+En los casos de actividades que requieran MMC, se 
+debe procurar que se respete el centro de gravedad del 
+cuerpo humano, que depende de dos factores: la dis­
+tancia horizontal (H) y la distancia vertical (V). Estas 
+distancias estarán definidas por las coordenadas de la 
+posición de la carga. Cuanto más alejada esté la carga 
+del centro de gravedad del cuerpo, mayores serán las 
+fuerzas compresivas que se generan en los discos in­
+tervertebrales y, por tanto, el riesgo de lesión será 
+mayor. 
+El desplazamiento vertical (D) de una carga es la dis­
+tancia, ascendente o descendente, que recorren las 
+manos entre el comienzo (Vi) y la finalización (Vf) de 
+la MMC (véase figura 8). El desplazamiento vertical 
+aceptable para el desplazamiento de una carga se en­
+cuentra entre las alturas de los nudillos y los hombros, 
+y nunca se deberían elevar cargas por encima de la ca­
+beza. 
+D 
+Vf 
+Vi 
+Hf 
+Hi = distancia horizontal inicial 
+Hf = distancia horizontal final 
+Vi = distancia vertical inicial 
+Vf = distancia vertical final 
+D = desplazamiento vertical (|Vf-Vi|) 
+Hi 
+Figura 8. Distancias descritas en la MMC. 
+En el caso de la componente horizontal, no se considera el desplazamiento sino la distancia más desfavorable, que será la más alejada del cuerpo entre la inicial 
+(Hi) y la final (Hf). La distancia recomendada debería 
+ser menor o igual a 25 cm. 
+También se debe tener en cuenta la distancia de transporte, que es la distancia que se recorre desde que se 
+recoge la carga hasta que se deposita en su punto final. 
+Lo ideal es no transportar la carga una distancia superior a 1 m. Los trayectos superiores a los 10 metros supondrán grandes demandas físicas, ya que se 
+producirá un gran gasto metabólico. A modo de ejemplo, la tabla 5 recoge las recomendaciones de la norma 
+ISO 11228-1 sobre los pesos acumulados máximos en 
+turnos de 6 h a 8 h, en función de la distancia recorrida, 
+que no se deben superar en ningún caso. 
+
+21 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Tabla 5. Peso acumulado máximo según la distancia de 
+transporte por manipulación. Fuente: Norma ISO 11228-1. 
+Distancia de transporte por manipulación 
+Peso acumulado 
+1 m a 5 m. 
+6 000 kg. 
+5 m a 10 m. 
+3 600 kg. 
+10 m a 20 m. 
+1 200 kg. 
+Si la persona debe adaptarse al ritmo del proceso, la 
+fatiga podrá acumularse y aumentar rápidamente. Por 
+eso, en la medida de lo posible, el ritmo de la MMC no 
+deberá ser impuesto por el propio proceso ni tampoco 
+asociarse a un incentivo salarial. 
+5. Factores individuales de riesgo. 
+Constituyen factores individuales de riesgo: 
+La falta de aptitud física para realizar las tareas en cuestión. 
+La inadecuación de las ropas, el calzado u otros efectos personales que lleve el trabajador. 
+La insuficiencia o inadaptación de los conocimientos o de la formación. 
+La existencia previa de patología dorsolumbar. 
+La capacidad de realizar actividades físicas varía de 
+unas personas a otras. La edad, la complexión, el es­
+tado físico y el estado de salud, entre otros, pueden 
+considerarse factores de riesgo que se tendrán en 
+cuenta a la hora de llevar a cabo la evaluación de ries­
+gos. En este sentido, se considerarán los comentarios 
+realizados al artículo 3.2. de la presente guía. 
+La vestimenta y otros elementos personales utiliza­
+dos pueden interferir en la manipulación. Los bolsillos 
+amplios, los cinturones u otros accesorios pueden en­
+gancharse o ser atrapados y provocar un accidente. 
+Respecto al empleo de fajas lumbares, se desaconseja 
+para la MMC, salvo que se haga bajo prescripción mé­
+dica. 
+El calzado garantizará una sujeción del pie estable, con 
+la suela no deslizante, y además proporcionará una 
+protección adecuada del pie contra la caída de objetos. 
+A estos efectos se tendrá en cuenta el artículo 5 del Real 
+Decreto 773/1997, de 30 de mayo, sobre disposiciones 
+mínimas de seguridad y salud relativas a la utilización 
+por los trabajadores de equipos de protección indivi­
+dual, en el que se indica que los EPI deben proporcio­
+nar una protección eficaz, sin ocasionar riesgos 
+adicionales ni molestias. Por ejemplo, unas gafas de 
+protección no deberían dificultar la visibilidad ni los 
+guantes disminuir en exceso la destreza manual, ya 
+que esto afectaría a la correcta sujeción de las cargas. 
+Para ampliar la información sobre las características de 
+los EPI que deba emplear, se recomienda visitar el por­
+tal web de la página web del INSST sobre Equipos de 
+Protección Individual (EPI) y, específicamente, las Fi­
+chas de selección y uso de EPI. 
+Se debe impartir una formación teórico-práctica adap­
+tada a las características de las personas y a la activi­
+dad que se vaya a realizar. Véanse los comentarios 
+hechos al artículo 4 de la presente guía. 
+Las personas con historial médico previo de patología 
+de espalda pueden ser propensas a sufrir recaídas o re­
+cidivas y tendrán más facilidad para sufrir lesiones. 
+
+22 
+GUÍA TÉCNICA 
+III. APÉNDICES 
+APÉNDICE 1. ETAPAS EN LA GESTIÓN DE RIESGOS DERIVADOS DE LA MMC. 
+Este apéndice sistematiza las fases de la gestión de los 
+riesgos derivados de la MMC y, en línea con el artículo 
+3 del real decreto, se procederá siguiendo los pasos que 
+se describen a continuación: 
+1º) Identificar los puestos de trabajo que llevan a cabo 
+tareas que pueden implicar la MMC, incluyendo, 
+entre otros aspectos, el tipo de MMC, su duración 
+y frecuencia, así como los lugares o emplazamien­
+tos donde se realizan estas tareas. 
+Los tipos de MMC pueden agruparse principal­
+mente en: 
+• Levantamiento, descenso y transporte. 
+• Empuje y tracción. 
+• Movilización y transferencia de personas. 
+• Situaciones especiales, como las indicadas en los 
+comentarios al artículo 3.2 (las manipulaciones 
+en posición sentada, en equipo o de animales). 
+En estos casos, la ausencia de métodos específicos de evaluación hace necesaria la adopción directa de medidas preventivas para eliminar o 
+reducir el riesgo. 
+2º) Evitar los riesgos, conforme al artículo 3.1 del presente real decreto. 
+3º) Cuando no sea posible evitar la MMC, se procederá 
+a evaluar el riesgo. Los métodos de evaluación se 
+elegirán en función del tipo de manipulación y se 
+seguirá lo establecido en el artículo 5 del RSP. En 
+los apéndices 2 y 3 se propone una lista, no exhaustiva, de métodos para la evaluación de riesgos de 
+los distintos de MMC. 
+Durante esta etapa, es esencial obtener información 
+sobre todos aquellos aspectos que puedan hacer a 
+la persona especialmente sensible o vulnerable a los 
+riesgos, ya sea por sus características personales, 
+por estado biológico conocido o por presentar una 
+discapacidad física, psíquica o sensorial. 
+4º) Cuando el riesgo no sea tolerable, se adoptarán las 
+medidas más apropiadas para reducirlo o controlarlo, tal y como establece el artículo 3.2 del presente real decreto. Las medidas propuestas se 
+incluirán en la planificación de la actividad preventiva, cuya ejecución y verificación se llevará a cabo 
+según lo establecido en los artículos 8 y 9 del RSP. 
+En los casos en los que se empleen métodos específicos que ofrezcan una valoración del riesgo, se facilitará la identificación de las medidas necesarias 
+o, en todo caso, se podrá priorizar la necesidad de 
+adoptarlas. 
+Una vez finalizado el proceso de evaluación del riesgo 
+asociado a la MMC, las medidas preventivas a implantar deberán considerar lo dispuesto en la normativa y lo señalado en la presente guía técnica. En este 
+sentido, las medidas que se pueden llevar a cabo son 
+múltiples y de muy distinta índole y van, desde la automatización de una parte del proceso, hasta el empleo 
+de elementos de ayuda sencillos como pueden ser las 
+sábanas deslizantes para movilizar personas. El enfoque de estas medidas debe ir encaminado a la: 
+• reducción o rediseño de la carga; 
+• actuación sobre la organización del trabajo; 
+• utilización de ayudas mecánicas; 
+• o a la mejora del entorno del trabajo. 
+A continuación, se indican algunas consideraciones 
+acerca de la efectividad de las medidas preventivas. 
+Además, hay que tener en cuenta que la combinación 
+de varias de estas medidas puede aumentar su eficacia. 
+En relación con la reducción o rediseño de la carga, su 
+peso es el aspecto más relevante. El peso de cualquier 
+carga objeto de manipulación debería reducirse al mínimo posible dentro de las limitaciones impuestas por 
+el proceso productivo y siempre debe ser menor al 
+peso máximo de referencia en función de las condiciones de la manipulación y teniendo en cuenta la edad y 
+el sexo. 
+No obstante, además de su peso, hay que valorar otros 
+aspectos que también son importantes, como la forma y 
+las dimensiones de los objetos manipulados. En este sentido, la anchura de la carga no debería superar la de los 
+hombros y su altura debería permitir que se visualice el 
+recorrido o la tarea a realizar, todo ello según se dispone 
+en la norma ISO 11228-1. Se intentará hacer coincidir el 
+centro de gravedad con el centro del objeto y, cuando 
+esto no sea posible, la persona debería ser capaz de localizar cada uno de ellos. El diseño de los elementos que 
+se manipulan debería evitar superficies cortantes y agarres deficientes. Los envases que transporten líquidos u 
+objetos calientes o fríos deberían diseñarse para que estas 
+circunstancias no generen un riesgo añadido. 
+Otro aspecto fundamental sería el correcto diseño de 
+la organización del trabajo. La frecuencia en la manipulación y la duración de la tarea son dos factores críticos que contribuyen en gran medida a la generación 
+del riesgo. Ambos se pueden controlar disminuyendo 
+el ritmo de trabajo o mediante la introducción de pausas, descansos y cambios de tareas que no impliquen 
+la MMC. El objetivo principal es permitir que el organismo se recupere antes de que sobrevenga la aparición de fatiga física. 
+
+23 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+En lo relativo a las ayudas mecánicas, se pueden men­
+cionar muchos ejemplos. En la Guía para la selección de 
+ayudas a la manipulación manual de cargas publicada por 
+el INSST, se presentan algunos ejemplos: cajas y estan­
+terías rodantes; mesas y plataformas elevadoras; trans­
+paletas; sistemas basados en poleas, tornos y 
+cabrestantes; y cintas transportadoras. En el caso de la 
+movilización de personas, se pueden emplear ayudas, 
+como grúas de bipedestación y de traslado, sábanas 
+deslizantes, tablas de transferencia, etc., que se especi­
+ficarán en el apéndice 3 de esta guía técnica. 
+Por último, sobre la mejora del entorno del trabajo, las 
+medidas preventivas deben ir encaminadas a adecuar 
+tanto las condiciones ambientales como las de seguri­
+dad. Estas deben cumplir la normativa correspondiente 
+y, por su interés en la materia, puede destacarse lo con­
+tenido en el Real Decreto 486/1997. 
+
+24 
+GUÍA TÉCNICA 
+APÉNDICE 2. MÉTODOS DE EVALUACIÓN DE RIESGOS EN FUNCIÓN DE LAS CARACTERÍSICAS DE 
+LA MMC. 
+En este apéndice se describen los principales métodos 
+para llevar a cabo la evaluación de riesgos según el tipo 
+de MMC. Es una lista no exhaustiva y, en consecuencia, 
+cada situación deberá ser analizada como corresponda 
+según lo ya visto a lo largo de esta guía. Por otro lado, 
+al final del apéndice se ofrecen recursos disponibles relacionados con cada método, para su consulta. 
+Levantamiento, desplazamiento y colocación: 
+En estos casos se recomienda alguno de los siguientes 
+métodos de evaluación: 
+• Ecuación de NIOSH. 
+Permite analizar tareas simples, múltiples y compuestas de levantamiento de cargas. 
+Su objetivo es calcular un índice de levantamiento 
+(IL) que proporcione una estimación relativa del estrés físico asociado a una tarea de levantamiento 
+manual de cargas concreta. La estimación del estrés 
+físico se define por la relación entre el peso de la 
+carga manipulada y el límite de peso recomendado 
+para la correspondiente tarea. 
+El método no será aplicable en las siguientes situaciones: 
+• Cuando exista desplazamiento, empuje o tracción. 
+• Si se utilizan carretillas o palas. 
+• Levantamiento/colocación: 
+-
+con una mano; 
+-
+de objetos inestables; 
+-
+durante más de 8 horas; 
+-
+en posición sentada o arrodillada; 
+-
+en espacios reducidos; 
+-
+en condiciones termohigrométricas desfavorables; 
+-
+realizando movimientos muy rápidos y 
+bruscos; 
+-
+o con un bajo coeficiente de rozamiento 
+entre suelo y calzado, inferior a 0,4. 
+• Tablas de Snook y Ciriello. 
+Es un método basado en criterios psicofísicos que 
+analiza el peso que se puede manipular teniendo 
+en cuenta una serie de variables y condiciones de 
+las tareas. 
+Se basa en una serie de tablas que establecen los valores máximos aceptables de pesos para diferentes 
+porcentajes de población laboral protegida (10%, 
+25%, 50%, 75% y 90%). 
+Considera aspectos como la frecuencia, la distancia 
+recorrida, el tiempo de la tarea, la distancia de agarre o el sexo de la persona. 
+Algunas limitaciones del método son: 
+• Los datos de las tablas son discretos, por lo que 
+las situaciones reales pueden encontrarse entre 
+dos valores de las tablas. 
+• Algunos valores exceden los criterios fisiológicos recomendados para tareas realizadas durante 8 horas o más. 
+• Los valores que se muestran están concebidos 
+para analizar tareas simples de MMC. 
+• No es adecuado para evaluar manipulaciones 
+con una sola mano. 
+Estos mismos autores han revisado las tablas y han 
+obtenido unas ecuaciones que permiten obtener valores continuos. 
+Basándose en los anteriores, existen los siguientes 
+métodos, que también pueden ser utilizados para 
+llevar a cabo la evaluación de estos tipos de MMC. 
+• ISO 11228-1:2021 “Ergonomics - Manual handling 
+- Part 1: Lifting, lowering and carrying”. 
+Esta norma establece unos límites recomendados 
+teniendo en cuenta la intensidad, la frecuencia y la 
+duración de la tarea. 
+Se aplica a la manipulación manual de objetos de 
+peso igual o superior a 3 kg y para una velocidad 
+de marcha moderada, de entre 0,5 y 1 m/s, sobre 
+una superficie plana horizontal. 
+Se basa en una jornada laboral de 8 horas, pero 
+tiene en cuenta jornadas laborales más prolongadas, de hasta 12 horas. También aborda el análisis 
+de tareas combinadas de levantamiento, descenso 
+y transporte en un turno durante un día. 
+El método no se aplica en tareas de: 
+• Empuje o tracción de cargas. 
+• Sujeción de objetos sin caminar. 
+• Manipulación de la carga en posición sentada. 
+• Movilización de personas o animales. 
+
+25 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+• Levantamiento manual de objetos, usando para 
+ello dispositivos de asistencia como los exoesqueletos. 
+• UNE-EN 1005-2:2004+A1:2009 “Seguridad de las 
+máquinas. Comportamiento físico del ser humano. Parte 2: Manejo de máquinas y de sus partes componentes”. 
+Es una norma aplicable al manejo manual de las 
+máquinas y sus componentes, así como de los objetos procesados por ellas (consumos/productos), 
+de peso igual o superior a 3 kg, que deban ser transportados a distancias inferiores a 2 metros. 
+Se evalúan los riesgos que puedan estar presentes 
+en situaciones de MMC al realizar el diseño de una 
+máquina por parte del proyectista/fabricante, considerando todo su ciclo de vida. 
+La norma incluye tres métodos: 
+• Método 1: es un método rápido y aproximado. 
+Sirve para efectuar un análisis ágil de la tarea de 
+MMC. 
+• Método 2: permite llevar a cabo una evaluación 
+de riesgos más detallada. Es fácil de aplicar y 
+debe emplearse si el método 1 indica la existencia de riesgos. Pueden tenerse en cuenta algunos 
+factores de riesgo adicionales. 
+• Método 3: considera otras variables que no se 
+han considerado en los métodos 1 y 2. Es más 
+amplio que los anteriores, por lo que valora los 
+riesgos de forma más profunda. 
+La norma no se aplica en: 
+• La sujeción de objetos (sin caminar). 
+• El empuje o tracción de objetos. 
+• Las máquinas sujetas a mano. 
+• La manipulación de objetos en posición sentada. 
+Empuje y tracción: 
+En caso de que la tarea implique un empuje y tracción 
+de cargas, se recomiendan los siguientes métodos de 
+evaluación: 
+• Tablas de Snook y Ciriello. 
+El objetivo del método es establecer unos valores 
+máximos aceptables de fuerzas que se requieren 
+para llevar a cabo las tareas. 
+Es un método basado en criterios psicofísicos que 
+analiza la fuerza que hay que aplicar en la manipulación teniendo en cuenta una serie de variables y 
+condiciones de la MMC. 
+Supone el uso de unas tablas que determinan la 
+fuerza máxima a ejercer considerando unas variables (sexo, distancia de empuje, altura de agarre y 
+frecuencia) y se compara con la “fuerza ejercida” en 
+la manipulación. Hay dos momentos a considerar, 
+uno corresponde a la fuerza inicial y otro a la fuerza 
+mantenida. 
+En cuanto a las limitaciones del método, hay que 
+tener en cuenta algunas consideraciones, como: 
+• Los valores reales de las variables pueden encontrarse entre dos valores de las tablas. 
+• Algunos de los valores incluidos en las tablas 
+exceden los criterios fisiológicos recomendados 
+para tareas realizadas durante 8 horas o más. 
+• Los valores que se muestran en las tablas están 
+concebidos para analizar tareas simples de MMC. 
+• No es adecuado para evaluar manipulaciones 
+con una sola mano. 
+• No se pueden emplear cuando hay que vencer 
+la gravedad, por ejemplo, en rampas. 
+Estos mismos autores han revisado las tablas y han 
+obtenido unas ecuaciones que permiten obtener valores continuos. 
+Basándose en este, también se puede utilizar el siguiente método. 
+• ISO 11228-2:2007 “Ergonomics – Manual handling 
+– Part 2: Pushing and pulling”. 
+La norma proporciona unos límites recomendados 
+de fuerzas en la realización de estas tareas. De manera general, establece los siguientes pasos: identificación de peligros, estimación de riesgos y 
+evaluación de riesgos mediante uno de los siguientes métodos, según proceda: 
+• Método 1: se determina el nivel de riesgo mediante la aplicación de una lista de verificación 
+de evaluación de riesgos simple y la utilización 
+de unas tablas psicofísicas. Estas tablas contienen los valores máximos recomendados de fuerzas a aplicar aceptables para más del 90% de la 
+población trabajadora. 
+• Método 2: proporciona un procedimiento para 
+determinar los límites de fuerza a ejercer, de 
+acuerdo con las características específicas de la 
+población y la tarea. 
+Los dos métodos se aplican en estas situaciones 
+cuando: 
+• Se ejerzan fuerzas con el cuerpo completo. 
+• Se realice por una sola persona en posición de 
+pie. 
+
+26 
+GUÍA TÉCNICA 
+• Se aplique la fuerza con ambas manos. 
+• Se mueva o se inmovilice un objeto, de forma 
+suave y controlada. 
+• Se manipulen objetos que se encuentren frente 
+a la persona y sin ayudas externas. 
+Si la carga se manipula por dos o más personas, la 
+tarea no se podrá evaluar con estos métodos. No obstante, en el Anexo C de la norma se dan algunos con­
+sejos al respecto. 
+Recursos: 
+En la tabla 6 se recogen algunos recursos para llevar a 
+cabo la evaluación de riesgos de la MMC usando los 
+métodos anteriores. 
+Tabla 6. Recursos disponibles para la evaluación de la MMC. Fuente: elaboración propia. 
+Método de Evaluación 
+Recursos 
+• 
+Enlace de descarga de la aplicación de NIOSH: Revised NIOSH Lifting Equation | Ergonomics and 
+Musculoskeletal Disorders | CDC 
+ECUACIÓN DE NIOSH 
+INSST 
+• 
+App: Manipulación manual de cargas: índice de levantamiento según la ecuación del NIOSH 
+• 
+NTP 477: Levantamiento manual de cargas: ecuación del NIOSH 
+• 
+Documento: Métodos de evaluación de riesgos derivados de la manipulación manual de cargas. 
+- Artículo: The Liberty Mutual manual materials handling (LM-MMH) equations 
+TABLAS DE SNOOK Y 
+CIRIELLO 
+INSST 
+• 
+Calculador: Manipulación manual de cargas: valores límite en operaciones de empuje, arrastre y 
+transporte 
+• 
+Documento: Métodos de evaluación de riesgos derivados de la manipulación manual de cargas. 
+• 
+Documento: Manipulación manual de cargas. Tablas de Snook y Ciriello. Norma ISO 11228 
+UNE-EN 1005-2 
+INSST 
+• 
+Documento: Métodos de evaluación de riesgos derivados de la manipulación manual de cargas. 
+ISO 11228-1 
+ISO 11228-2 
+
+27 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+APÉNDICE 3. MOVILIZACIÓN DE PERSONAS. 
+Una de las principales tareas que se llevan a cabo en 
+algunos sectores como el sanitario, el sociosanitario, el 
+educativo o el funerario es la movilización de perso­
+nas. Las técnicas requeridas para la mayoría de ellas 
+difieren de las indicadas en el apéndice 2. Entre otras 
+razones, porque los pesos suelen ser más elevados y 
+porque es importante tener en cuenta la dignidad y la 
+anatomía de las personas a movilizar. Estos aspectos, 
+entre otros, pueden conllevar un incremento en el 
+riesgo de sufrir daño dorsolumbar. 
+La figura 9 muestra una propuesta de gestión de los 
+riesgos derivados de la movilización y transferencia de 
+personas. 
+¿Existe movilización 
+o transferencia 
+de personas? 
+No 
+Fin 
+Sí 
+Identificación de la situación 
+¿la situación supone
+un riesgo? 
+No 
+Sí 
+Evaluación del riesgo 
+¿El riesgo es aceptable? 
+Sí 
+No 
+Adopción de medidas
+preventivas 
+No 
+¿Son eficaces 
+las medidas? 
+Sí 
+Revisión y control periódico 
+Figura 9. Esquema de gestión de los riesgos relacionados con la movilización y transferencia de personas. 
+
+28 
+GUÍA TÉCNICA 
+A. Identificación de la situación. 
+La movilización y transferencia de personas genera 
+una alta incidencia de lesiones, sobre todo en la zona 
+dorsolumbar, como muestran las estadísticas tanto europeas como españolas. 
+Se ha de considerar, en primer lugar, la propia tarea 
+(mover a la persona de una cama a una silla, por ejemplo). A continuación, se deberán tener en cuenta, entre 
+otros, los siguientes factores: 
+• El grado de colaboración de la persona a movilizar. 
+• Las posturas adoptadas y la fuerza ejercida en la 
+manipulación. 
+• La disponibilidad de ayudas y productos de apoyo. 
+• La ratio entre personal por turno y número de movilizaciones a realizar. 
+• Las condiciones arquitectónicas y ambientales del 
+lugar donde se llevan a cabo dichas movilizaciones. 
+• La formación y la información específicas relativas 
+a la tarea. 
+En relación con el grado de colaboración, hay que tener 
+en cuenta que en muchas ocasiones este tipo de tareas 
+se desarrollan con pacientes con necesidades especiales, con patologías o tratamientos que pueden causar 
+una resistencia a la tarea por parte de la persona a ser 
+movilizada. 
+Además de lo indicado anteriormente, hay otros aspectos que hacen que el riesgo aumente. Por ejemplo, 
+en el caso de las movilizaciones en domicilios particulares, los espacios y el mobiliario no suelen estar adaptados y a menudo no se dispone de equipamiento y 
+ayudas para llevar a cabo las tareas. 
+Si en el análisis de los factores anteriores se identifica 
+un riesgo, este deberá evaluarse. 
+B. Evaluación del riesgo. 
+La movilización de personas engloba una serie de aspectos que hacen difícil emplear los métodos de evaluación propuestos en el apéndice 2. 
+En líneas generales caben dos enfoques: 
+• Basar el estudio en las posturas adoptadas. En este 
+caso, se podrían emplear métodos como OWAS o 
+REBA. El INSST ha elaborado varias NTP sobre 
+evaluación de la carga postural que pueden ser consultadas; entre otras, la NTP 452: Evaluación de las 
+condiciones de trabajo: carga postural y la NTP 601: 
+Evaluación de las condiciones de trabajo: carga postural. Método REBA (Rapid Entire Body Assessment). 
+• Basar el estudio en el peso como uno de los principales factores a considerar. En este caso, tenemos 
+métodos como DINO, MAPO, TilThermometer y 
+Dortmund Approach. 
+Un enfoque no excluye al otro e, incluso, puede ser necesario abordarlos de forma conjunta. Sin embargo, en 
+este apéndice solo se van a describir métodos con el segundo enfoque recogidos en la tabla 7. 
+
+29 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Tabla 7. Recursos disponibles para la evaluación de la movilización y transferencia de personas. 
+Método 
+Características del método 
+Ventajas 
+Inconvenientes 
+DINO 
+Instrumento de observación directa de trabajos de 
+transferencia de pacientes. 
+Son 16 preguntas que se dividen en aspectos a 
+considerar antes y durante la movilización. 
+Es sencillo y de observación directa. 
+Se puede emplear tanto en hospitales 
+como para atención domiciliaria. 
+Adecuado como método de 
+comprobación y verificación de las 
+transferencias. 
+No consideran otros 
+factores importantes como 
+la organización del 
+trabajo, la frecuencia en la 
+movilización, el entorno 
+de trabajo. 
+MAPO 
+Considera la interacción entre diferentes factores, 
+como la frecuencia media de movilizaciones, el tipo 
+de pacientes, los equipos de los que se dispone, el 
+entorno de trabajo y aspectos relacionados con la 
+formación. 
+Disponible más información en: NTP 0907: 
+Evaluación del riesgo por manipulación manual de 
+pacientes: método MAPO 
+Clasifica el riesgo de forma sencilla 
+en tres zonas en función de la 
+probabilidad de sufrir daños 
+dorsolumbares. 
+Inicialmente el método fue 
+válido solo para 
+hospitales; en caso de usos 
+en otros entornos, por 
+ejemplo, en residencias, se 
+debe emplear la versión 
+adaptada por los autores. 
+TilThermometer 
+Evalúa el nivel de exposición a sobrecarga física. 
+Describe 5 tipos de pacientes en función del grado 
+de colaboración. Posteriormente se analizan 
+diferentes aspectos como: 
+• 
+Reposicionamientos/ movilizaciones en la 
+cama/camilla y transferencia horizontal. 
+• 
+Transferencia desde y hacia la cama, silla (de 
+ruedas), etc. 
+• 
+Poner y quitar las medias de compresión. 
+• 
+Duchar, lavar, cuidar y bañar a las personas, 
+tanto de pie como tumbado. 
+• 
+Número y tipo de ayudas técnicas disponibles. 
+Es un método sencillo. 
+Se dispone de una herramienta 
+informática en español: 
+https://tilthermometer.com/vvt/ 
+Esta analiza los factores indicados y 
+posteriormente propone el grado de 
+ajuste con respecto a los criterios de 
+la ISO/TR 11226, facilitando un 
+informe en pdf. 
+No permite la evaluación 
+de situaciones 
+individuales y específicas 
+de las personas. 
+Dortmund 
+Approach 
+Se evalúan tareas de manipulación o levantamiento 
+seleccionadas que produzcan sobrecarga 
+lumbar.Considera factores como: 
+• 
+Posturas forzadas. 
+• 
+Esfuerzo aplicado. 
+• 
+Dirección desfavorable de la fuerza. 
+• 
+Errores en la manipulación. 
+• 
+Mal uso de los equipos y de las ayudas. 
+• 
+Características personales como la edad y sexo. 
+Permite realizar una evaluación 
+rápida. 
+Clasifica el riesgo de forma sencilla 
+en tres zonas (verde, amarilla y roja). 
+No considera ni la 
+frecuencia, ni el espacio 
+para la manipulación, ni la 
+formación del personal. 
+Otros métodos pueden ser igualmente válidos, siempre que se ajusten a las necesidades y se cumpla lo indicado en el artículo 5 del RSP. 
+C. Adopción de medidas preventivas. 
+Si, derivado de la evaluación, se detecta que hay 
+riesgos para la persona trabajadora, se deberán 
+adoptar medidas para eliminar o minimizar la intervención manual en lo posible, recurriendo a medios 
+mecánicos, tales como grúas o polipastos (véase figura 10). 
+Cuando no se pueda evitar la movilización de la persona de forma manual, se podrán establecer las siguientes medidas con el objeto de reducir el riesgo: 
+• Medidas organizativas, como: 
+-
+Establecimiento de pausas. 
+-
+Rotación de puestos de trabajo. 
+-
+Realizar la manipulación en equipo, no por una 
+única persona. 
+Figura 10. Ejemplo de grúa de traslado. 
+-
+Dotación adecuada de personal, tanto en lo relativo al reparto del número total de movilizaciones que se realicen como para cada tarea 
+
+30 
+GUÍA TÉCNICA 
+individualmente, teniendo en cuenta la necesidad de realizar movilizaciones entre varias personas. 
+• Medidas técnicas: son aquellas que facilitan la tarea 
+bien reduciendo el esfuerzo o bien el número de 
+movilizaciones a realizar. Dentro de este grupo 
+están las conocidas como “productos de apoyo” o 
+“ayudas técnicas” (véase figura 11), por ejemplo: 
+-
+Sábana y tabla deslizante. 
+-
+“Roller”. 
+a) 
+b) 
+d) 
+-
+Discos giratorios. 
+-
+Bandas y cinturones de movilización. 
+-
+Escaleras de ayuda. 
+-
+Sillas de ruedas. 
+-
+Carros. 
+-
+Camas y camillas regulables en altura. 
+-
+Trapecios y barras de apoyo. 
+c) 
+e) 
+Figura 11: Ejemplos de ayudas técnicas. a) silla de ruedas; b) tabla de transferencia; c) sábana deslizante; d) disco giratorio; 
+e) banda de movilización. 
+Para ampliar la información acerca de este tipo de me­
+didas, se recomienda la lectura de la NTP 1.197. Ayu­
+das menores para la movilización y transferencia de 
+personas, publicada por el INSST. 
+• Medidas complementarias: estas deben acompañar 
+a las anteriores, no sustituirlas. 
+-
+Formación e información teórico-práctica, pres­
+tando especial atención a las técnicas de movili­
+zación y a la correcta utilización de los medios 
+y productos de apoyo. 
+-
+Utilización de ropa de trabajo que no dificulte 
+los movimientos y calzado con suela antidesli­
+zante y con buena sujeción y ajuste al pie. 
+En muchas ocasiones, sería recomendable disponer de 
+un procedimiento de trabajo específico para la movili­
+zación de personas en el que se integren las medidas 
+preventivas de forma detallada. En este procedimiento 
+se podría incluir, entre otros aspectos, las característi­
+cas de las personas a movilizar, los recorridos y lugares 
+en los que se llevarán a cabo, los medios de los cuales 
+se dispone, las técnicas de movilización y el número 
+de personas que vayan a realizarlas (véase figura 12). 
+
+31 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Elige el recorrido más fácil y seguro 
+Elimina obstáculos 
+PLANIFICA 
+Utiliza los productos
+de apoyo disponibles 
+Respeta los principios 
+medida de sus posibilidades 
+Cuando sea necesario realiza la 
+movilización entre varias personas 
+Pide colaboración a la 
+persona usuaria en la 
+Prepara todo lo que 
+vas a necesitar y ponlo
+al alcance de tu mano 
+Comprueba 
+tu postura 
+ergonómicos 
+Figura 12: resumen para la correcta movilización de personas. 
+Por último, para completar la información contenida 
+en este apéndice, cabe destacar que el INSST elaboró 
+material divulgativo y de apoyo para la evaluación de 
+los riesgos específicos en la movilización de personas 
+dentro del plan de sensibilización Por un personal sociosanitario sin Trastornos MusculoEsqueléticos. Dicho ma­
+terial también puede resultar útil, como referencia ­
+aunque con las salvedades que concurran en cada 
+caso-, en otras actividades profesionales diferentes en 
+las que se realizan tareas de movilización de personas. 
+
+32 
+GUÍA TÉCNICA 
+IV. FUENTES DE INFORMACIÓN. 
+A. DOCUMENTOS CITADOS EN LA GUÍA. 
+Normativa legal relacionada. 
+La legislación referida a lo largo de esta guía puede 
+consultarse a través de internet en el sitio web del 
+INSST - http://www.insst.es - donde, además, se 
+puede acceder a diversa documentación elaborada por 
+el propio INSST, así como a enlaces de instituciones y 
+organismos europeos e internacionales. 
+La normativa citada en la presente guía técnica es la 
+existente en el momento de su publicación. No obstante, hasta una nueva revisión puede ser publicada 
+otra nueva normativa que deberá ser tenida en cuenta. 
+La normativa se encuentra directamente enlazada al 
+apartado “legislación consolidada” del BOE. No obstante, en las disposiciones para las que el BOE no disponga de su texto consolidado, se recomienda 
+consultar el apartado de “análisis jurídico”. 
+Ámbito nacional: 
+• Ley 31/1995, de 8 de noviembre, de prevención de 
+Riesgos Laborales. 
+• Real Decreto 39/1997, de 17 de enero, por el que se 
+aprueba el Reglamento de los Servicios de Prevención. 
+• Real Decreto 486/1997, de 14 de abril, por el que se 
+establecen las disposiciones mínimas de seguridad 
+y salud en los lugares de trabajo. 
+• Real Decreto 487/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas a 
+la manipulación manual de cargas que entrañe riesgos, en particular dorso lumbares, para los trabajadores. 
+• Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas 
+a la utilización por los trabajadores de equipos de 
+protección individual. 
+• Real Decreto 1215/1997, de 18 de julio, por el que 
+se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores 
+de los equipos de trabajo. 
+• Real Decreto 843/2011, de 17 de junio, por el que se 
+establecen los criterios básicos sobre la organización de recursos para desarrollar la actividad sanitaria de los servicios de prevención. 
+• Real Decreto Legislativo 8/2015, de 30 de octubre, 
+por el que se aprueba el texto refundido de la Ley 
+General de la Seguridad Social. 
+Ámbito europeo: 
+• DIRECTIVA 90/269/CEE del Consejo, de 29 de 
+mayo de 1990, sobre las disposiciones mínimas de 
+seguridad y de salud relativas a la manipulación 
+manual de cargas que entrañe riesgos, en particular 
+dorsolumbares, para los trabajadores. 
+Ámbito internacional: 
+• Convenio sobre el peso máximo, 1967. Adoptado el 
+28 de junio de 1967 y ratificado por España el 7 de 
+junio de 1969. 
+Normas técnicas. 
+En el presente documento se citan diversas normas técnicas en las que se indica el año de la versión referenciada. Es esta versión la que responde a los 
+comentarios específicos que puedan hacerse en la guía 
+técnica. No obstante, en determinados casos, es recomendable tomar en consideración la última versión de 
+la norma que, en el momento de su lectura, esté vigente. Esta advertencia es de especial interés en el caso 
+de que la norma citada sea “armonizada”. 
+• UNE-EN 1005-2: 2004+A1:2009 Seguridad de las 
+máquinas. Comportamiento físico del ser humano. 
+Parte 2: Manejo de máquinas y de sus partes componentes. 
+• ISO 11228-1:2021 Ergonomics — Manual handling 
+— Part 1: Lifting, lowering and carrying. 
+• ISO 11228-2: 2007 Ergonomics – Manual handling 
+– Part 2: Pushing and pulling. 
+• ISO/TR 12296:2012 Ergonomics — Manual handling of people in the healthcare sector. 
+Publicaciones del INSST. 
+Guías técnicas: 
+• Guía técnica de simplificación documental. 
+• Guía técnica para la integración de la prevención 
+de riesgos laborales en el sistema general de gestión 
+de la empresa. 
+• Guía técnica para la evaluación y la prevención de 
+los riesgos relativos a la utilización de los lugares 
+de trabajo. 
+• Guía técnica para la evaluación y prevención de los 
+riesgos relacionados con las vibraciones mecánicas. 
+Notas Técnicas de Prevención: 
+• NTP 452: Evaluación de las condiciones de trabajo: 
+carga postural. 
+
+33 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+• NTP 477: Levantamiento manual de cargas: ecuación del NIOSH. 
+• NTP 601: Evaluación de las condiciones de trabajo: 
+carga postural. Método REBA (Rapid Entire Body 
+Assessment). 
+• NTP 785. Ergomater: método para la evaluación de 
+riesgos ergonómicos en trabajadoras embarazadas. 
+• NTP 907. Evaluación del riesgo por manipulación 
+manual de pacientes: método MAPO. 
+• NTP 1.137. Ergonomía participativa: un enfoque diferente en la gestión del riesgo ergonómico. 
+• NTP 1.197. Ayudas menores para la movilización y 
+transferencia de personas. 
+Otras publicaciones: 
+• Directrices básicas para la evaluación de riesgos laborales. 
+• Guía para la selección de ayudas a la manipulación 
+de cargas. 
+• Portal Equipos de Protección Individual (EPI). 
+• Fichas de selección y uso de EPI. 
+• APP. Carga Física: Identificación de riesgos. 
+• APP. Manipulación manual de cargas: índice de levantamiento según la ecuación del NIOSH. 
+• Calculador: Manipulación manual de cargas: valores límite en operaciones de empuje, arrastre y 
+transporte. 
+• APP. Análisis de posturas forzadas (método REBA). 
+• Identificación y control de los riesgos laborales en 
+pymes. 
+• Manipulación manual de cargas. Tablas de Snook 
+y Ciriello. Norma ISO 11228. 
+• Métodos de evaluación de riesgos derivados de la 
+manipulación manual de cargas. 
+• Plan de sensibilización “Por un personal sociosanitario sin Trastornos MusculoEsqueléticos”. 
+Otra bibliografía citada en la guía: 
+• MINISTERIO DE SANIDAD. Protocolos de vigilancia 
+sanitaria específica. Manipulación manual de cargas. 
+• MINISTERIO DE SANIDAD. Vigilancia de la salud 
+para la prevención de riesgos laborales. Guía básica 
+y general de orientación. 
+• The National Institute for Occupational Safety and 
+Health (NIOSH). NIOSH Lifting Equation App: 
+NLE Calc. 
+• Snook S. H., Ciriello V. M. (1991) The design of manual handling tasks: revised tables of maximum acceptable weights and forces, Ergonomics, 34:9, 
+1197-1213, 
+DOI: 
+https://doi.org/10.1080/ 
+00140139108964855. 
+• Potvin J.R., Ciriello V. M., Snook S. H., Maynard W. 
+S., Brogmus G. E. (2021) The Liberty Mutual manual materials handling (LM-MMH) equations, Ergonomics, 64:8, 955-970. 
+• Karhu O, Kansi P, Kuorinka I. Correcting working 
+postures in industry: A practical method for analysis, 
+Applied Ergonomics, Volume 8, Issue 4, 1977, 199201. ISSN 0003-6870, https://doi.org/10.1016/ 
+0003-6870(77)90164-8. 
+• Hignett S, McAtamney L. Rapid Entire Body Assessment (REBA), Applied Ergonomics, Volume 31, Issue 
+2, 
+2000, 
+201-205, 
+ISSN 
+0003-6870,
+https://doi.org/10.1016/S0003-6870(99)00039-3. 
+• Johnsson C Kjellberg K, Kjellberg A, Lagerström 
+M., A direct observation instrument for assessment of 
+nurses’ patient transfer technique (DINO) Applied Ergonomics 
+35 
+(2004) 
+591-601
+https://doi.org/10.1016/j.apergo.2004.06.004. 
+• Battevi N, Menoni O, Ricci MG, Cairoli S. MAPO 
+index for risk assessment of patient manual handling in hospital wards: a validation study. Ergonomics. 
+2006 
+Jun 
+10;49(7):671-87. 
+doi: 
+10.1080/00140130600581041. 
+• Knibbe J.J., Friele R.D. The use of logs to assess exposure to manual handling of patients, illustrated in an intervention study in home care nursing, International 
+Journal of Industrial Ergonomics, Volume 24, Issue 
+4, 
+1999, 
+445-454, 
+ISSN 
+0169-8141,
+https://doi.org/10.1016/S0169-8141(99)00010-4. 
+• Jäger M, Theilmeier A, Jordan C, Luttmann A: The 
+Dortmund Lumbar Load Study 3 – Determination 
+of lumbar load for selected care activities combined 
+with patient transfer (2008). 
+B. OTROS DOCUMENTOS NO CITADOS EN LA 
+GUÍA. 
+• Decreto de 26 de julio de 1957 sobre Industrias y 
+Trabajos prohibidos a mujeres y menores por peligrosos o insalubres. 
+• Real Decreto 1299/2006, de 10 de noviembre, por 
+el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se 
+establecen criterios para su notificación y registro. 
+• Real Decreto Legislativo 2/2015, de 23 de octubre, 
+por el que se aprueba el texto refundido de la Ley 
+del Estatuto de los Trabajadores. 
+ 
+ 
+ 
+
+34 
+GUÍA TÉCNICA 
+• UNE-EN 1005-1:2002+A1:2009 Seguridad de las 
+máquinas. Comportamiento físico del ser humano. 
+Parte 1: Términos y definiciones. 
+• UNE EN ISO 6395:2016 Principios ergonómicos 
+para el diseño de sistemas de trabajo. 
+• UNE-EN ISO 780:2016 Envases y embalajes. Embalajes de distribución. Símbolos gráficos para la manipulación y almacenamiento de embalajes. 
+• Instituto Nacional de la Seguridad Social. Guía para 
+la valoración del riesgo laboral durante el embarazo (3ª 
+edición). 
+C. REFERENCIA A LA WEB DE ORGANISMOS 
+DE INTERÉS. 
+• https://www.insst.es/materias/riesgos/riesgosergonomicos/carga-de-trabajo/manipulacionmanual-de-cargas 
+Sección del portal de Ergonomía del INSST donde encontrar información acerca de los métodos de evaluación aplicables, la normativa legal y técnica existente, 
+documentos y otras publicaciones sobre la materia. 
+• https://www.prevencion10.es/ 
+En esta página se aloja el servicio público gratuito de 
+asesoramiento en prevención de riesgos laborales. 
+Los enlaces citados a continuación no pertenecen al 
+INSST y, por lo tanto, este organismo no se hace responsable de su contenido. Todos los enlaces indicados 
+han sido verificados en la fecha de la publicación de 
+esta guía. 
+• https://osha.europa.eu/es/themes/musculoskeletal-disorders 
+Agencia Europea para la Seguridad y Salud en el Trabajo. Portal de Ergonomía de la EU-OSHA. 
+• https://www.aemet.es/es/eltiempo/prediccion/ 
+avisos 
+Agencia Estatal de Meteorología. 
+Dirección en la que se publican los avisos meteorológicos citados en los comentarios al apartado 3 del 
+anexo de este real decreto. 
+
+35 
+PARA LA EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS DERIVADOS 
+DE LA MANIPULACIÓN MANUAL DE CARGAS 
+Para cualquier observación o sugerencia en relación con esta Guía técnica, puede dirigirse al: 
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P. 
+C/Torrelaguna, 73 - 28027 Madrid 
+Tlf. 91 363 41 00 
+www.insst.es 
+

@@ -1,0 +1,419 @@
+ Copyright © 2009 by THE SOCIETY OF 
+MOTION PICTURE  AND TELEVISION ENGINEERS 
+3 Barker Avenue, White Plains, NY 10601 
+(914) 761-1100 
+Approved 
+June 4, 2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 
+ 
+Foreword .................................................................................................................................................  2 
+Intellectual Property ................................................................................................................................  2 
+1   Scope .................................................................................................................................................  3 
+2   Conformance Notation .......................................................................................................................  3 
+3   Normative References .......................................................................................................................  3 
+4   Temperature and Humidity.................................................................................................................  4 
+5   Optical Fibers.....................................................................................................................................  4 
+     5.1   Single-Mode Optical Fibers........................................................................................................  4 
+     5.2   Optical Characteristics ...............................................................................................................  5 
+     5.3   Color Coding ..............................................................................................................................  5 
+6   Electrical Characteristics....................................................................................................................  5 
+     6.1   Auxiliary Conductors ..................................................................................................................  5 
+     6.2   Signal Conductors......................................................................................................................  5 
+     6.3   Overall Braid Shield ...................................................................................................................  6 
+     6.4   Central Strength Member...........................................................................................................  6 
+7   Mechanical Characteristics ................................................................................................................  6 
+     7.1   Operating Specifications............................................................................................................  6 
+     7.2   Diameter.....................................................................................................................................  6 
+8   Cable Marking....................................................................................................................................  7 
+     8.1   Fiber Designation.......................................................................................................................  7 
+     8.2   Cabling Orientation Designation ................................................................................................  7 
+9   Cable Layout......................................................................................................................................  7 
+Annex A   Bibliography  (Informative) .....................................................................................................  9 
+Annex B   Safety and Cable Marking  (Informative)................................................................................ 10 
+ 
+Page 1 of 10 pages 
+SMPTE 311-2009
+Revision of 
+SMPTE 311M-2003 
+ 
+SMPTE STANDARD  
+Television — 
+Hybrid Electrical and 
+Fiber-Optic Camera Cable 
+
+SMPTE 311-2009 
+Page 2 of 10 pages 
+Foreword 
+ 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized standards 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices and Engineering Guidelines, are prepared by SMPTE’s Technology Committees.  
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+ 
+SMPTE Engineering Documents are drafted in accordance with the rules given in Part XIII of its 
+Administrative Practices.  
+ 
+SMPTE Standard 311 was prepared by Technology Committee 32NF. 
+ 
+ 
+ 
+ 
+ 
+ 
+Intellectual Property 
+ 
+At the time of publication no notice had been received by SMPTE claiming patent rights essential to the 
+implementation of this Standard.  However, attention is drawn to the possibility that some of the elements of 
+this document may be the subject of patent rights. SMPTE shall not be held responsible for identifying any or 
+all such patent rights. 
+ 
+ 
+ 
+ 
+
+SMPTE 311-2009 
+Page 3 of 10 pages 
+1 Scope 
+ 
+This standard describes the minimum performance for a hybrid cable containing single-mode optical fibers 
+and electrical conductors to convey signal and control in a variety of environments where moisture, weather, 
+and ozone resistance are required. This document is not intended to be a cable manufacturing design 
+standard. The cable described in this standard is intended to be used to interconnect cameras and base 
+stations in conjunction with the connectors complying with SMPTE 304M; however, it may be used for other 
+applications where appropriate. 
+ 
+2 Conformance Notation 
+ 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords.  
+ 
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:”  
+ 
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+ 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended as 
+particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but 
+not necessarily required; or that (in the negative form) a certain possibility or course of action is deprecated 
+but not prohibited.  
+ 
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document.  
+ 
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the provision 
+will never be defined in the future. 
+ 
+A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+ 
+3 Normative References 
+ 
+The following standards contain provisions which, through reference in this text, constitute provisions of this 
+standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this standard are encouraged to investigate the possibility of applying the 
+most recent edition of the standards indicated below. 
+ 
+TIA-492B000-1988, Sectional Specification for Class IV Single-Mode Optical Waveguide Fibers 
+  
+TIA-455-162A FOTP-162, Fiber Optic Cable Temperature-Humidity Cycling 
+ 
+TIA-455-61 FOTP-61, Measurement of Fiber or Cable Attenuation Using an OTDR 
+ 
+TIA-455-33-B FOTP-33, Optical Fiber Cable Tensile Loading and Bending Test 
+ 
+TIA-455-37-A FOTP-37, Low or High Temperature Bend Test for Fiber Optic Cable 
+ 
+
+SMPTE 311-2009 
+Page 4 of 10 pages 
+TIA-455-104-A FOTP-104, Fiber Optic Cable Cyclic Flexing Test 
+ 
+TIA-455-25C FOTP-25, Impact Testing of Optical Fiber Cables 
+ 
+TIA-455-41A FOTP-41, Compressive Loading Resistance of Fiber Optic Cables 
+ 
+UL1581, sec 1582, Overall Cabling Flex Cycle Rating 
+ 
+ITU-T G.657, Characteristics of a Bending Loss Insensitive Single Mode Optical Fibre and Cable for the 
+Access Network 
+ 
+4 Temperature and Humidity  
+ 
+The cable shall retain the optical and mechanical properties detailed within this standard, over the following 
+conditions: 
+ 
+FOTP-162  
+ 
+Temperature:  – 40°C to + 75°C for outdoor type cables 
+ 
+          – 20°C to + 75°C for indoor and permanent installation type cables 
+ 
+Humidity:        0 to 95% at 40 C 
+ 
+5 Optical Fibers  
+ 
+5.1   Single-Mode Optical Fibers 
+ 
+There shall be two optical fibers. The optical fibers shall conform to TIA-492B000 requirements. Table 1 is 
+shown as reference only.  
+ 
+ 
+Table 1 – Single-mode optical fibers 
+ 
+Item 
+Construction 
+   Fiber type 
+   Single-mode (SM) fiber, non-dispersion shifted or 
+   G.657-class A Bend Insensitive Single-mode fiber 
+   Mode field diameter 
+   8.9 ± .8 micron @ 1310nm 
+   Cladding diameter 
+   125 ± 1 micron 
+   Concentricity error 
+   <  1 micron 
+   Coating material 
+   Acrylate 
+   Buffer material 
+   Thermoplastic 
+   Buffer diameter 
+   0.90 ± 0.05 mm 
+ 
+ 
+Coating materials other than acrylate may be used. If other coating materials are used then this shall be 
+clearly marked on the cable jacket at regular intervals. For instance, if silicone-coated fiber is used the cable 
+jacket shall be marked “silicone coated fiber”. 
+ 
+
+SMPTE 311-2009 
+Page 5 of 10 pages 
+5.2   Optical Characteristics 
+ 
+5.2.1   Single-mode optical fibers shall be as follows: 
+ 
+           –  Item:  
+     Attenuation  
+           –  Wavelength:      1250-1625 nm 
+           –  Characteristic:       < 0.8 dB/km  
+           –  Test method:         FOTP-61  
+ 
+5.3   Color Coding 
+ 
+          1) Blue  
+          2) Yellow  
+ 
+6 Electrical Characteristics  
+ 
+6.1   Auxiliary Conductors 
+ 
+There shall be two or more auxiliary conductors (see Table 2).  Section 9, Figures 1, 2, and 3 show cabling 
+configurations for 2, 4, or 8 auxiliary conductors respectively.  
+ 
+ 
+Table 2 – Auxiliary conductors 
+ 
+Item 
+Conditions 
+Characteristics 
+     DC loop resistance 
+20ºC 
+< 43 Ω/km 
+     Insulation resistance 
+20ºC 
+> 10,000 MΩ × km 
+     Dielectric strength 
+20ºC, 60 Hz, 1 min 
+1750 VRMS 
+ 
+ 
+6.1.1   Color Coding 
+ 
+          1) Black  
+          2) White  
+ 
+6.2   Signal Conductors 
+ 
+There shall be two signal conductors (see Table 3).  
+ 
+ 
+Table 3 – Signal conductors 
+ 
+Item 
+Conditions 
+Characteristics 
+     DC loop resistance 
+20ºC 
+< 184 Ω/km 
+     Insulation resistance 
+20ºC 
+> 10,000 MΩ × km 
+     Dielectric strength 
+20ºC, 60 Hz, 1 min 
+1750 VRMS 
+ 
+ 
+
+SMPTE 311-2009 
+Page 6 of 10 pages 
+6.2.1   Color Coding 
+          1) Red  
+          2) Gray  
+ 
+6.3   Overall Braid Shield 
+ 
+The overall braid shield shall be as follows:  
+ 
+          –  Item:   
+       DC resistance  
+          –  Conditions:  
+       20°C  
+          –  Characteristics:       < 20 Ω/km 
+          –  Braid Coverage:      > 70% 
+ 
+6.4   Central Strength Member 
+ 
+The central strength member shall be steel or a material with equivalent tensile and compressive properties. 
+ 
+          –  Diameter:  
+       1.0mm – 1.8mm  
+ 
+7 Mechanical Characteristics  
+ 
+7.1   Operating Specifications 
+ 
+The mechanical characteristics shall be in accord with Table 4.  
+ 
+ 
+Table 4 – Mechanical characteristics 
+ 
+Item 
+Test method 
+Characteristics 
+ Tensile strength 
+FOTP-33 
+700 N minimum 
+ Bending radius 
+FOTP-37 
+7 × diameter @ 20°C 
+ Flex 
+ 
+UL 1581, sec 1582 
+FOTP-104 
+15000 cycles, 10 × cable diameter maximum 
+  1000 cycles, 10 × cable diameter maximum 
+ Impact 
+FOTP-25 
+20 cycles @ 5.88 N 
+ Crush (compression) 
+FOTP-41 
+180 kg over 10 cm 
+ 
+ 
+ 
+7.2   Diameter 
+ 
+The overall nominal diameter shall be 9.2 mm, 12 mm or 16 mm (16 mm consisting of 9.2-mm inner jacket 
+with up-jacketed 16-mm outer jacket). 
+ 
+
+SMPTE 311-2009 
+Page 7 of 10 pages 
+8 Cable Marking  
+ 
+8.1   Fiber Designation 
+ 
+The following information shall appear at regular intervals throughout the entire length of the finished cable. 
+Other information may be added if it does not confuse or mislead.  
+ 
+    –  the wording "single-mode"  
+          –  the wording “SMPTE 311” 
+–  the wording “G657A” for cables constructed with bend insensitive fiber 
+–  If the fiber coating is not acrylate, a marking in accordance with Section 5.1 
+ 
+8.2   Cabling Orientation Designation 
+ 
+The following information should appear at regular intervals throughout the entire length of the finished cable 
+  
+–  arrow or similar directional marking together with the words “TO CAMERA”.  The arrow should point 
+ to the plug end of the cable (see Section 9, Figures 1, 2 and 3).   
+ 
+9 Cable Layout  
+ 
+The cable should have one of the layouts shown in Figures 1, 2 and 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 – Configuration for 2 auxiliary conductor cable types (Plug end)  
+ 
+
+SMPTE 311-2009 
+Page 8 of 10 pages 
+ 
+ 
+Figure 2 – Configuration for 4 auxiliary conductor cable types (Plug end) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 – Configuration for 8 auxiliary conductor cable types (Plug end) 
+
+SMPTE 311-2009 
+Page 9 of 10 pages 
+ 
+Annex A  (Informative) 
+Bibliography  
+ 
+SMPTE 304-2009, Television — Broadcast Cameras — Hybrid Electrical and Fiber-Optic Connector 
+ 
+NFPA 70-2008, National Electrical Code 
+ 
+UL 62-2001, Flexible Cord and Fixture Wire  
+ 
+UL 444-2002, Communications Cables 
+ 
+UL AWM 20907, Professional Video Interconnecting Cable 
+
+SMPTE 311-2009 
+Page 10 of 10 pages 
+Annex B  (Informative) 
+Safety and Cable Marking 
+ 
+This cable may require certification, classification, or listing, under the requirements of the NEC, CEC, UL, 
+CSA or similar authorities, appropriate to the intended application. Such requirements may include, but are 
+not limited to, voltage, current, flammability, and environment.  
+ 
+This cable may require marking with the applicable UL, CSA or other authorities' designations. 
+ 

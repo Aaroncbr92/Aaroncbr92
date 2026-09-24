@@ -1,0 +1,101 @@
+ 
+ (Movie) Characteristics of each file format | Sony 
+ Camera functions and instructions 
+(Movie) Characteristics of each file format 
+ Language 
+ILCE-7SM3 
+* Camera’s system software (firmware) Ver. 3.00 or later 
+(Movie) Characteristics of each file format 
+This camera provides high video quality features such as 10-bit color depth, 4:2:2 color sampling, high efficiency MPEG-H HEVC/H.265 codec support, and Intra compression support and also provides various file format support related to editing work.
+ To connect the camera and the TV, use a Premium High Speed HDMI Cable (sold separately). 
+Refer to the descriptions below for the setting method and characteristics of each file format used for recording movies. 
+ Setting method 
+ Characteristics of each file format 
+ Memory cards that can be used 
+Setting method 
+Use the mode dial to set the shooting mode to (Movie) or S&Q, and then perform the following settings. 
+MENU → (Shooting) → [Image Quality/Rec] → [ File Format] →desired setting. 
+MENU → (Shooting) → [Image Quality/Rec] → [ Movie Settings] →Select an item to set, and then select the desired setting.
+ To shoot slow-motion/quick-motion movies, perform the following settings.
+ MENU → (Shooting) → [Image Quality/Rec] → [ S&Q Settings] →Select an item to set, and then select the desired setting. 
+Characteristics of each file format 
+ XAVC S 4K/XAVC S HD 
+ XAVC HS 4K 
+ XAVC S-I 4K/XAVC S-I HD 
+XAVC S 4K/XAVC S HD 
+This setting records movies in the widely used MPEG-4 AVC/H.264 codec and therefore enables you to view and edit movies on various compatible devices. 
+To view movies on a TV 
+Example of recommended setting values
+ [ File Format]: [XAVC S 4K] 
+ Rec Frame Rate 
+ Record Setting 
+60p (NTSC)
+50p (PAL) 
+150M 4:2:0 8bit 
+To edit movies 
+We recommend setting Record Setting to 10-bit 4:2:2 for editing movies since this setting assures rich gradation. This setting has high compatibility with video editing software and requires smaller file sizes than those required for XAVC S-I 4K/XAVC S-I HD (Intra compression). 
+Example of recommended setting values
+ [ File Format]: [XAVC S 4K] 
+ Rec Frame Rate 
+ Record Setting 
+24p (NTSC) 
+100M 4:2:2 10bit 
+60p (NTSC)
+50p (PAL) 
+200M 4:2:2 10bit 
+XAVC HS 4K 
+This format records high image quality movies with rich gradations and smaller file sizes using the MPEG-H HEVC/H.265 codec with 10-bit color sampling. 
+To view movies on a TV 
+As a HDR-compatible Picture Profile, the camera is equipped with HLG (Hybrid Log-Gamma), which is compatible with a wide color gamut BT.2020 color spaces.
+ If you connect a HDR (HLG)-compatible TV via HDMI, you can prevent over-exposure and under-exposure without performing the color grading process and enjoy watching movies that will appear more realistic as if they are viewed with the naked eye. 
+Example of recommended setting values 
+ Rec Frame Rate 
+ Record Setting 
+ Picture Profile 
+60p (NTSC)
+50p (PAL) 
+150M 4:2:0 10bit 
+PP10 *1 
+ *1 
+ When the gamma settings are [HLG], [HLG1], [HLG2], or [HLG3], you can shoot HDR movies with a wide dynamic range. 
+To edit movies 
+We recommend setting Record Setting to 10-bit 4:2:2 for editing movies since this setting assures rich gradation.
+ When you edit XAVC HS 4K movies on a computer, use a video editing software compatible with MPEG-H HEVC/H.265 codec.
+ We also recommend using a computer with high processing capability so that you can edit the movies with greater efficiency.
+ To play back movies on a Windows computer, the Video Codec extension provided by Microsoft must be installed on a computer with Windows10 or later. 
+Example of recommended setting values 
+ Rec Frame Rate 
+ Record Setting 
+24p (NTSC) 
+100M 4:2:2 10bit 
+To shoot movies for long periods 
+This format enables recording 4K movies with a small file size by taking advantage of the high compression rate.
+ When you want to record 4K movies in the memory card for an extended period, we recommend the setting values (example) given below. 
+Example of recommended setting values 
+ Rec Frame Rate 
+ Record Setting 
+60p (NTSC)
+50p (PAL) 
+45M 4:2:0 10bit 
+Notes 
+XAVC HS movies cannot be played back on Android smartphones. These movies cannot be shared with other devices via smartphones. (As of July 2020) 
+XAVC S-I 4K/XAVC S-I HD 
+This format records movies in the widely used MPEG-4 AVC/H.264 codec and therefore XAVC S-I 4K/XAVC S-I HD with10-bit 4:2:2 sampling with rich gradation is suitable for editing movies. Since Intra compression compresses the movie frame by frame, there is less load on a computer when editing movies compared with Long GOP compression. Note, however, that the recorded file sizes will be larger than the files recorded with Long GOP compression. 
+To view the recorded movies as is on a TV, we recommend shooting in XAVC S 4K/XAVC S HD with 8-bit 4:2:0 or XAVC HS 4K with a 10-bit 4:2:0 setting. 
+Example of recommended setting values
+ [ File Format]: [XAVC S-I 4K] 
+ Rec Frame Rate 
+ Record Setting 
+60p (NTSC) 
+600M 4:2:2 10bit 
+50p (PAL) 
+500M 4:2:2 10bit 
+24p (NTSC) 
+240M 4:2:2 10bit 
+Memory cards that can be used 
+The memory card requirements vary depending on the file format.
+ For information about the memory cards that can be used, visit the following website. 
+ * 
+ The menu screen images on this web page have been simplified for display purposes, and do not exactly reflect the actual screen display of the camera. 
+ PAGE TOP 
+

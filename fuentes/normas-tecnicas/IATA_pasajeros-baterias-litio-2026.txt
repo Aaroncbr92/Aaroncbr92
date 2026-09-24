@@ -1,0 +1,652 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Passengers Travelling with Lithium 
+Batteries - Guidance Document 
+Revised for the 2026 Regulations 
+Introduction 
+ This document provides guidance for airline passengers on various devices that contain lithium 
+batteries, including power banks, small vehicles, e-cigarettes, smart luggage, baggage tags and 
+tracking devices.  
+Note:  
+See “Additional Information” for links to documents which provide guidance on the provisions and 
+procedures regarding mobility aids. 
+ It is based on the provisions set out in the 2025-2026 Edition of the ICAO Technical Instructions for 
+the Safe Transport of Dangerous Goods by Air (Technical Instructions) and the 67th Edition (2026) of 
+the IATA Dangerous Goods Regulations (DGR). 
+There are different limitations and requirements when the lithium batteries are transported by air as 
+cargo or carried by passengers. However, limitations primarily depend on: 
+a) The type of the lithium battery: 
+▪ 
+the Watt-hour (Wh) rating for lithium ion (rechargeable) batteries, or 
+▪ 
+the lithium metal content in grams (g) for lithium metal (non-rechargeable) batteries. 
+Note:  
+Watt-hour rating, expressed in Wh, shows the power of the lithium cell or battery, which is calculated 
+by multiplying the rated capacity in ampere-hours by the nominal voltage (Wh = Ah x V).  
+All lithium-ion batteries are required to have the Watt-hour rating marked on the outside of the 
+battery case.  
+If passenger handling staff are unable to verify the Watt-hour rating by checking either the battery, 
+or the user documentation, the operator may not permit the carriage of the lithium battery, or the 
+lithium battery powered device. 
+b) How the battery is to be transported: 
+▪ 
+the battery itself (removed and/or spare (additional)) 
+▪ 
+installed in a device (removable and non-removable) 
+The information in this document is intended for guidance purposes only. It should not be relied upon 
+as a source of regulatory compliance. 
+Please note that there has been significant amendment of the material in this document in order to 
+accommodate upcoming changes to the provisions around power banks. When compared to the 
+2025 edition of this document, certain text changes can be identified by:  
+
+Addition of an item   
+ 
+ 
+Deletion of an item   
+
+Change to an item   
+ 
+ 
+More restrictive requirement than ICAO 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Table of Contents 
+Introduction ........................................................................................................................................................................... 1 
+Table of Contents ............................................................................................................................................................... 2 
+Definitions .............................................................................................................................................................................. 3 
+Operator Approval ............................................................................................................................................................. 6 
+How to Carry Lithium Batteries when Travelling on a Passenger Aircraft ................................................. 6 
+Power banks................................................................................................................................................................. 7 
+Spare lithium batteries ............................................................................................................................................... 7 
+Portable electronic devices (PED) and Portable medical electronic devices (PMED) containing lithium 
+batteries ......................................................................................................................................................................... 7 
+Baggage with installed lithium batteries – “smart luggage” ............................................................................. 7 
+Bag tags and GPS tracking devices ....................................................................................................................... 7 
+Small vehicle ................................................................................................................................................................. 7 
+Electronic cigarettes containing batteries – “e-cigarettes” ............................................................................. 7 
+Table 1 ..................................................................................................................................................................................... 8 
+Additional Information ...................................................................................................................................................... 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Definitions 
+Lithium Battery refers to a family of batteries with different chemistries, comprising many types of 
+cathodes and electrolytes.  
+Lithium metal battery and lithium ion battery are the two types that listed under passenger provisions 
+in the DGR. The general groupings are batteries within a device, spare batteries, batteries removed 
+from a device (which are then treated in the same way as spare batteries, but may be referred to a 
+removed battery) and power banks. Power banks (see below) are no longer referred to as “spare 
+batteries”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lithium metal batteries are generally primary (non-rechargeable) batteries that have lithium metal or 
+lithium compounds as an anode.  Lithium metal batteries are generally used to power devices. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lithium-ion batteries (also abbreviated as Li-ion batteries) are a secondary (rechargeable) battery 
+where the lithium is only present in an ionic form in the electrolyte. Lithium-ion batteries are generally 
+used to power devices.  
+                      
+ 
+ 
+ 
+ 
+ 
+Portable electronic device (PED) is an easily carried device, with removable or non-removable 
+battery(ies) that have the capability to store, record, and/or transmit text, images/video, or audio data. 
+Most of the consumer commodities can be listed as PED such as mobiles, laptops, cameras, radios, 
+audio devices, watches.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+ 
+Portable medical electronic device (PMED) is an easily carried, removable or non-removable lithium 
+battery powered equipment that used in healthcare for monitoring, operating or managing medical 
+conditions such as cardiac, blood pressure, respiratory monitors, wearable smart devices, oxygen 
+concentrators. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Power bank is an easily carried universal external power source, capable of providing power to 
+multiple devices such as mobile phones and. Generally, power banks are made up of multiple cells.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spare Batteries are usually either single cell batteries (AAA, CR123, etc.) or multi-celled batteries but 
+designed to be inserted into or directly affixed to a specific device. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Small vehicle is a removable or non-removable lithium battery powered equipment that used for 
+personal transportation, including rideable suitcases. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+ Mobility Aid – are devices used by passengers whose mobility is restricted by either a disability, their 
+health or age, or a temporary mobility problem (e.g. broken leg).  
+Note: See “Additional Information” for links to documents which provide guidance on the provisions 
+and procedures regarding mobility aids. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Smart luggage refers to bags or suitcases that incorporate built-in electronic features designed to 
+improve convenience, security, or tracking for travellers. Depending on the model, smart luggage 
+may include power banks with USB charging ports, weight sensors to prevent overpacking, 
+electronic locking systems, GPS tracking devices with or without GSM capability or Bluetooth, RFID 
+and Wi-Fi technology or even motorized/self-propelled functions, powered by lithium batteries.  
+ 
+ 
+ 
+ 
+ 
+ Bag tags are devices that are replacing the paper baggage label and for the quick drop-off points at 
+the airports; and GPS tracking devices that are attached to baggage and/or other belongings for 
+tracking purposes with or without GSM capability, Bluetooth, RFID, or Wi-Fi technologies.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-cigarette (vape or pipe) is a lithium battery powered device that uses heat to vaporize a liquid to 
+simulate the act of smoking. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Operator Approval 
+ Passengers wishing to carry large numbers of spare batteries, power banks, PEDs or devices which 
+have larger batteries, will need to obtain the approval of the operator (see Table 1).  
+Information on lithium batteries, and other dangerous goods, is usually provided on the airline’s 
+website as well as part of the check-in process. Passenger-facing airline staff are trained to deal with 
+most enquiries and there are escalation processes, including referral to specialist passenger-care 
+teams when required. 
+In the case of multiple spare batteries, the operator may require additional separation between the 
+batteries or that they are at a low state of charge (<25% indicated when inserted into the device). For 
+this reason, it is recommended that passengers contact the airlines (operator) well in advance to 
+obtain approval and to apply any additional restrictions that the operator may impose as a condition 
+of the approval.  
+In order to get operator approval, the passenger will need to be able to give: 
+a) the Wh rating for lithium ion or how much the lithium content (in grams) contained for lithium 
+metal batteries, 
+b) number of batteries, 
+c) if the battery is removable or non-removable. 
+The operator has the right to not give an approval if the information is not adequate. 
+In addition to the information below, please also check Table 1 for the Watt-hour or lithium metal 
+content limitations. 
+How to Carry Lithium Batteries when Travelling on a Passenger 
+Aircraft 
+ All batteries which are being caried by passengers or being transported as cargo on a passenger 
+aircraft must be of a type that meets the requirements of the UN Manual of Tests and Criteria, Part III, 
+subsection 38.3. Additionally, passengers are advised to: 
+1. Pack light: Only bring the devices and batteries you really need. 
+2. Avoid last minute recharging: Airlines prefer spare batteries and power banks to be at less 
+than 25%. If you recharge your power bank or PED, then allow it to cool before packing it. Do 
+not recharge it prior to boarding and then store it in the overhead locker. 
+3. Separate spare batteries, power banks and PEDs: Ensure that Wireless power banks are 
+properly switched off and not so close to you phone as to start recharging it, should it be 
+inadvertently turned on. Keep some space between spare batteries.  
+4. Stay alert: If a device is hot, smoking, or damaged, tell the crew (or airport staff) immediately. 
+5. Keep devices with you: Always carry phones, laptops, cameras, vapes (if allowed) and other 
+battery-powered items in your hand baggage, not in checked baggage. 
+6. Protect loose batteries: Keep spare batteries and power banks in their original packaging or 
+cover the terminals with tape to prevent short-circuits. 
+7. Gate check reminder: If your hand baggage is taken at the gate to go in the aircraft baggage 
+hold, remove all lithium batteries and devices first. 
+8. Check battery size: For larger batteries (over 100 watt-hours, such as those used in larger 
+cameras, drones, or power tools), check with your airline as approval may be required. 
+9. Check airline rules: Always confirm your airline’s policies, as requirements may differ in 
+compliance with local regulations. 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Power banks 
+ Recent events have resulted in further proposed restrictions regarding power banks carried by 
+passengers on aircraft. While it will take some time for these proposals to be accepted into 
+regulation, airlines are moving early to adopt these measures in the interests of aviation safety. 
+☞ Passengers are limited to a maximum of two lithium-ion power banks not exceeding 100 Wh.  
+☞ Power banks must not be recharged from an in-aircraft power supply.   
+☞ Power banks should not be stored in the overhead lockers 
+☞ Power banks should not be used to provide power to other devices during taxi, take-off or landing 
+Airlines may impose more stringent conditions on the carriage and use of power banks by 
+passengers.  
+Spare lithium batteries 
+ Spare batteries must be individually protected to prevent short circuits by placement in the original 
+retail packaging or by otherwise insulating terminals, e.g. by taping over exposed terminals or placing 
+each battery in a separate plastic bag or protective pouch and carried in carry-on baggage only. 
+Portable electronic devices (PED) and Portable medical electronic devices 
+(PMED) containing lithium batteries 
+PEDs and PMEDs containing lithium batteries for personal use, should be carried in carry-on 
+baggage. However, they may be subject to specific operator restrictions on the size and weight of 
+baggage permitted in the cabin. 
+If devices are to be carried in checked baggage: 
+a) measures to protect the device from damage and to prevent unintentional activation; 
+b) the device must be completely switched off (not in sleep or hibernation mode) *. 
+Baggage with installed lithium batteries – “smart luggage” 
+Smart luggage with integrated lithium batteries, are also considered as PED as per the Regulations. 
+Bag tags and GPS tracking devices 
+ Bag tags and GPS tracking devices are not restricted.  
+Small vehicle 
+ Small vehicles, including rideable luggage, generally do not meet the same criteria  as mobility aids. 
+Small vehicles are classified as PEDs.  
+Most small vehicles have batteries that exceed 160 Wh. 
+Electronic cigarettes containing batteries – “e-cigarettes” 
+Electronic cigarettes including e-cigars, e-pipes and other personal vaporizers containing batteries 
+for personal use must be in carry-on baggage only.  
+a) Measures to protect the device from damage and to prevent unintentional activation. 
+b) Recharging these devices and/or batteries on board the aircraft is not permitted. 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Table 1 
+Please check the table to determine if / how the devices containing batteries, as well as spare 
+batteries and power banks can be carried, and whether the approval of the operator is required. 
+Wh  
+rating 
+lithium 
+metal  
+content 
+Configuration 
+Carry-on 
+baggage 
+Checked  
+baggage 
+Operator  
+approval 
+≤ 100 Wh 
+ ≤ 2 g 
+Installed in PED or PMED 
+Yes¹ 
+Yes* 
+No¹ 
+Spare battery(ies)  
+Yes² 
+No 
+No² 
+Power bank 
+Yes3 
+No 
+No3 
+>  100 Wh  
+but  
+≤ 160 Wh 
+  
+Installed in PED or PMED 
+Yes 
+Yes 
+Yes 
+Spare battery(ies) 
+Yes4 
+No 
+Yes 
+Power bank 
+Forbidden 
+  
+> 2 g  
+but 
+≤ 8 g 
+Installed in PMED only 
+Yes 
+Yes 
+Yes 
+Spare batteries for PMED only 
+Yes4 
+No 
+Yes 
+ 
+e-cigarette 
+Yes 
+No 
+No 
+≤ 2.7 Wh 
+≤  0.3 g 
+Installed in smart luggage  
+Yes 
+Yes 
+No 
+> 2.7 Wh 
+> 0.3 g 
+Removable battery integrated in smart luggage 
+Yes 
+Yes** 
+No 
+Non-removable battery installed in smart luggage 
+Forbidden 
+>160Wh 
+  
+Must be prepared and carried as cargo in accordance with the 
+IATA Dangerous Goods Regulations 
+1. Each person is limited to a maximum of 15 PED. The operator may approve the carriage of more 
+than 15 PED. 
+2. Each person is limited to a maximum of 20 spare batteries of any type. The operator may approve 
+the carriage of more than 20 batteries. 
+3. Limited to a maximum of 2 power banks. 
+4. Limited to a maximum of 2 spare batteries per device 
+* 
+When devices are carried in checked baggage, must be completely switched off (not in sleep or 
+hibernation mode), unless 
+▪ 
+lithium content does not exceed 0.3 g for lithium metal batteries per device, and 
+▪ 
+Wh rating does not exceed 2.7 Wh for lithium-ion batteries per device. 
+** If the baggage is to be checked in, the lithium battery must be removed and the removed battery 
+must be carried in the cabin. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+IATA Guidance Document for Passengers Travelling with Lithium Batteries  – 2026 
+ 
+ 
+ 
+OSS/Cargo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31/03/2026 
+Additional Information 
+▪ 
+Further information for passengers, including battery powered wheelchairs and mobility aids is 
+available on: 
+https://www.iata.org/en/programs/cargo/dgr/dgr-guidance-passengers/ 
+▪ 
+Further information for lithium batteries is available on: 
+http://www.iata.org/lithiumbatteries 
+▪ 
+Further information for Dangerous Goods is available on: 
+https://www.iata.org/en/programs/cargo/dgr/ 
+ 
+Please contact the airline or your national civil aviation authority if you have further concerns about 
+travelling with lithium batteries and battery-powered wheelchairs or mobility aids. 
+You can also contact the IATA Dangerous Goods Support team if you have questions or concerns 
+which may not have been addressed in this document at: dangood@iata.org. 
+ 

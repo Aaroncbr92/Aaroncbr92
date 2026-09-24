@@ -1,0 +1,144 @@
+Getting started with the industry’s most
+advanced compression technology
+when it counts
+FAQs
+
+AVC-Intra Frequently Asked Questions
+1.	 What is AVC-Intra?
+AVC-Intra, the industry’s most advanced compression technology, is a professional intra-frame video codec with bit rates 
+of 50 and 100Mb/s, utilizing the High 10 Intra and High 422 Intra profiles of H.264 respectively.  AVC-Intra provides 
+high-quality 10-bit intra-frame encoding in two modes: AVC-Intra 100, the highest recording quality currently available 
+in a one-piece camcorder (comparable to mastering video quality), and AVC-Intra 50 for very high image quality at a 
+significantly lower data rate. As an intra-frame approach, it captures and preserves the greatest amount of information 
+and while offering the greatest flexibility. Unlike long GOP approaches, AVC-Intra was explicitly designed and optimized 
+for broadcast and production use rather than low bandwidth distribution.  
+2.	 Isn’t H.264 a long GOP encoding scheme?
+AVC / H.264 is a new generation state-of-the art codec family with both Intra and Inter frame compression implementation 
+options (profiles). Inter-frame compression, (long GOP) is usually used for content delivery and packaged media; in this 
+mode its efficiency is unequaled. However, any image manipulation or processing will severely degrade the image quality 
+in long GOP compression schemes. 
+By contrast, Intra frame compression processes the entire image within the boundaries of each video field or frame. 
+There is zero interaction between adjacent frames, so its image quality stands up well to motion and editing. Intra-frame 
+compression it is used most often for broadcast and production applications where such image manipulation is normal. 
+AVC-Intra takes this process to new heights when it combines the advantages of the new H.264 / AVC software encoding 
+tools to increase the coding efficiency, but does so without the editing / generational quality limitations associated with 
+long GOP coding schemes. 
+3.	 Is AVC-Intra a replacement for DVCPRO HD?
+No!  Panasonic is not replacing DVCPRO HD with AVC-Intra, period!  AVC-Intra is simply a more advanced / efficient 
+compression technology offered as an option in addition to the DVCPRO family of codecs in selected P2 HD equipment.
+4.	 What are the benefits of AVC-Intra?
+Developed to provide high image quality, including greater encoding efficiency, AVC-Intra provides production companies 
+and broadcasters more choices without compromising HD quality. At its highest level, AVC-Intra 100 gives professionals 
+access to mastering quality HD recording and does not utilize any video sub-sampling. With 4:2:2, 10-bit Intra-frame 
+coding, in 1080 progressive or interlace systems, AVC-Intra 100 records the full 1920x1080 raster, representative of 
+master-quality recording. In 720 progressive systems, AVC-Intra 100 records the full 1280 x 720 raster, again without 
+any video sub-sampling.   
+AVC-Intra, a fully compliant H.264 codec implementation, offers significantly better compression efficiency than older 
+codec families. The storage and bandwidth savings, without the compromises of long GOP compression, allows AVCIntra 50 to provide subjectively similar video quality to DVCPRO HD at one half the bit rate. 
+Also, by utilizing intra-frame compression with its frame bound compression, AVC-Intra is unaffected by motion or rapid 
+changes in scene content.  More important, due to intra-frame compression, AVC-Intra stands up to rigorous editing, 
+including compositing, multiple layers of video, etc, far better than long-GOP compression scheme. 
+
+5.	 Why do I need 10-bit 4:2:2 recording?
+With 10-bit accuracy and 4:2:2 sampling, a video signal will have the same bandwidth and quality as the original signal 
+quality of source’s HD-SDI output. Most uncompressed video utilizes 10-bit 4:2:2 sampling and this is maintained by 
+mastering systems such as D5-HD to maintain signal fidelity. Any subsampling, (video pre-filtering) will result in the 
+irretrievable loss of either signal frequency response (softening) or signal level accuracy. Such losses are unacceptable in 
+environments of film to tape transfer, color correction, graphics etc. Sadly, once lost the signal quality cannot be reclaimed. 
+Luckily, AVC-Intra 100 provides 10-bit accuracy and 4:2:2 sampling – to protect your valuable video assets.
+Some recording formats utilize pre-filtering (video sub-sampling) or reduced quantizer accuracy (e.g. 10 bits to 8 bits), 
+a trade off of video quality to minimize storage needs, that is acceptable in some ENG / EFP applications. However, this 
+has been found unacceptable for critical production environments.  AVC-Intra 100 provides full 10-bit 4:2:2 sampling at 
+a quality comparable with mastering video formats. 
+6.	 What is the difference between AVC-Intra and AVCHD?
+While AVCHD and AVC-Intra are both H.264 compliant codecs, they are very different. AVC-Intra is a professional intraframe codec with bit rates of 50 and 100Mb/s, utilizing the High 10 Intra and High 422 Intra profiles of H.264 respectively. 
+AVC Intra 100 offers professionals mastering quality video for the highest level of HD production, while AVC-Intra 50 
+provides video quality similar to that of DVCPRO HD, but at half the bit rate, a plus for news and bandwidth efficient 
+requirements. AVCHD is a consumer high definition (HD) digital video camera recorder format announced jointly by 
+Panasonic, Sony, Canon and others. AVCHD is a long GOP H.264 implementation designed for less demanding prosumer 
+and consumer applications. Panasonic offers both as a choice of products to the user.
+7.	 Is AVC-Intra just another form of AVCHD? Is AVC-Intra Panasonic’s implementation of AVCHD?
+No. AVC-Intra is not a form of AVCHD. AVC-Intra is an intra-frame, H.264 compliant compression codec expressly 
+designed for the professional HD production. AVCHD is a high definition (HD) digital video camera recorder format 
+initially designed for consumer video cameras (www.avchd-info.org). The AVCHD camera format utilizes long GOP H.264 
+compression technology for HD video production for event and other applications, where “great looking video” and low 
+bit rates for storage efficiency are required. Panasonic offers both technologies – the high quality AVC-Intra for mission 
+critical production applications and AVCHD, the ultra efficient consumer and prosumer camcorder format.
+8.	 How does AVC-Intra 50 affect recording time with Panasonic P2 cameras?
+AVC-Intra 50 is highly-efficient 10-bit intra-frame compression technology that offers quality comparable to DVCPRO 
+HD, yet at half the bit rate. In essence doubling the recording time on the P2 cards, a powerful solution that cuts media 
+storage and distribution costs. 
+9.	 Does AVC-Intra offer “native” frame rate recording?
+	
+Yes, similar to the concept of “native’ DVCPRO HD 720p frame rate recording in the AJ-HPX2000, AG-HPX500 and 
+AG-HVX200, AVC-Intra also offers superb “native” frame rate recording, in both 720p, as well as 1080p.  This ”native” 
+method compressses and records the various frame rates without any need for additional pull-down pricessing. Very 
+similar to shooting film, native recording processes each image frame by frame, then records each frame one at a time, 
+providing simplicity, efficiency with the associated   storage savings.  All AVC-Intra 720p 23.98p / 25p / 29.97p and 
+1080p 23.98p / 25p / 29.97p frame rates are native – providing high quality video with associated storage savings. 
+
+This feature is only available on P2 camcorders, due to the flexibility of the camcorder’s solid-state recording to the P2 
+card, thus, not relying on the consistent rate of a traditional camcorder tape recording mechnasim. 
+10.	How much storage time does AVC-Intra provide at various HD formats and frame rates?
+	
+Shooting 1080 24p (23.98p) provides approximately 20 minutes of content in AVC-Intra 100 and 40 minutes of content 
+in AVC-Intra 50, per 16GB P2 card.  Shooting the other 1080 progressive and interlaced video formats and frame rates, 
+including 59.94i, 50i, 29.97p and 25p provide approximately 16 minutes of content in AVC-Intra 100 and 32 minutes of 
+content in AVC-Intra 50, per 16GB P2 card.  
+When shooting in 720 23.98p, the user gets approximately 40 minutes of content in AVC-Intra 100 and 80 minutes of 
+content in AVC-Intra 50.  When shooting in 720p 25p or 29.97p, the user gets approximately 32 minutes of content in 
+AVC-Intra 100 and 64 minutes of content in AVC-Intra 50,  When shooting in 59.94p or 50p, the user gets approximately 
+16 minutes of content in AVC-Intra 100 and 32 minutes of content in AVC-Intra 50, per 16GB P2 card. 
+11.	What types of HD formats and frame rates does AVC-Intra accommodate?
+AVC-Intra supports the recording of both progressive and interlaced HD content. Supported formats and frame rates 
+include 1080 progressive video (23.98p / 25p / 29.97p); 1080 interlaced video (50i and 59.94i) and 720 progressive 
+(23.98p / 25p / 29.97p / 50p / 59.94p).
+12.	Are AVC-Intra files wrapped in MXF files when stored to P2, tape, or disk, or sent over a network data links?
+Yes, AVC-Intra is recorded as MXF, and exchanged over IP networks and storage systems, in the same manner as 
+DVCPRO P2 content. The MXF operating pattern is OP-ATOM, a simple, efficient and pre-parsed system, permitting easy 
+access to the audio / video essences as well as XML metadata, proxy and bit maps for easy access the content. 
+13.	Does AVC-Intra support P2 MXF native metadata?
+Yes, AVC-Intra supports MXF metadata.   
+14.	Can AVC-Intra files be stored on the same P2 card as DVCPRO format files?
+Yes, due to the flexible, 100% IT nature of the file-based P2 recording system, both AVC-Intra and DVCPRO format files, 
+of all video standards and frame rates can reside on the same P2 card. 
+15.	Which Panasonic products feature AVC-Intra?
+AVC-Intra will be initially implemented in the Panasonic AJ-HPX3000 2/3” 1080 2.2M P2 HD camcorder, and as an 
+option in the multi-format AJ-HPX2000 2/3” 1.1M P2 HD camcorder and the AJ-HPM100 P2 Mobile Recorder / Player. 
+All of these products support the DVCPRO formats and offer the option of the AVC-Intra formats. 
+16.	Is Panasonic opening AVC-Intra to leading NLE companies for compatibility and product support?
+Panasonic has been working with leading industry partners including many of the top providers of non-linear editing 
+systems. An example of this collaboration includes Apple, who has announced support of AVC-Intra through the use of 
+their Final Cut Pro 6, ProRes 4.2.2 codec. In addition, Thomson Grass Valley’s EDIUS 4.5 will support AVC-Intra natively 
+in sync with At NAB 2007, Apple gave a technology preview of Final Cut Pro working with AVC-Intra using ProRes 422.
+our product release.  Avid has announced AVC-Intra support in their product roadmap, specific platform and dates to be 
+announced. Furthermore, Main Concept, a key product facilitator, has announced an AVC-Intra decoder, which they will 
+
+license to interested media companies and/or developers. 
+17.	What if you need an uncompressed workflow and/or want to edit AVC-Intra video on a non-linear editing system that 
+does not currently support AVC-Intra?
+For an uncompressed HD-SDI workflow, Panasonic’s AJ-HPM100 P2 HD Mobile recorder/player can be used as a player. 
+The P2 Mobile has several I/O options, including HD-SDI, along with RS-422 serial control for easy ingest to high end 
+NLE systems. 
+18.	Can the AJ-HPM100 P2 Mobile edit AVC-Intra content?
+Yes, the P2 Mobile has simple, cuts-only AVC-Intra and DVCPRO editing capability.  Even better, the P2 Mobile includes 
+professional controls (jog knob, faders, etc) and is frame accurate.  This capability also makes it a great tool for a quick 
+highlights (cuts-only) edit, before a baseband or file-based transfer into a non-linear editing system.     
+19.	Does AVC-Intra 100 use subsampling or does it process the full video full-raster?
+AVC-Intra 100 does not utilize any video sub-sampling. Thus, in 1080 progressive or interlace systems, AVC-Intra 
+100 records the full 1920x1080 raster with 4:2:2, 10-bit Intra-frame video encoding, representative of master-quality 
+recording. In 720 progressive systems, AVC-Intra 100 records the full 1280 x 720 raster, again with 4:2:2, 10-bit Intraframe encoding.   
+20.	What is the resolution of AVC-Intra 50?
+AVC-Intra 50 is a very efficient compression scheme, especially when considering the high-quality of the video.  This 
+compression utilizes horizontal resolutions similar to that of existing compression technologies, yet providing double the 
+storage efficiency. In 1080 progressive or interlace systems, AVC-Intra provides 1440x1080 resolution, in 720 progressive 
+resolution, AVC-Intra 50 provides 960x720 resolution. While AVC-Intra 50 compression uses a 4:2:0 sampling structure, 
+careful color channel filter processing and subsequent re-sampling, combined with the codec’s 10-bit Intra-frame nature 
+provide high-quality video. 
+21.	What makes AVC-Intra more efficient than existing compression technologies?
+In order to improve the compression efficiency of Intra (I-only) compression yet maintain quality and performance, the 
+AVC-Intra codec takes advantage of new H.264’s compression “tools”. Improved VLSI processing power permits the 
+use of computationally sophisticated algorithms that could not have been supported in real time in earlier generation 
+CODEC hardware. In many cases an added layer of sophistication has been added to existing tools, such as allowing 
+the methodology to adapt based on the image content properties, examples being intra-frame prediction, and advanced 
+entropy encoding. 

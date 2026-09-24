@@ -1,0 +1,1070 @@
+www.avid.com
+Avid DNxHD Technology
+Beauty without the bandwidth. Revolutionary Avid DNxHD® encoding.
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+2
+Table of Contents 
+Introduction............................................................................................1
+The benefits of Avid DNxHD encoding .......................................1
+Avid DNxHD encoding quality .......................................................2
+Avid DNxHD encoding is open  ....................................................3
+Avid DNxHD encoding: what is “high efficiency?”..................4
+Avid DNxHD: what is “mastering quality?” ................................5
+Avid DNxHD in a workgroup environment .................................6
+Avid DNxHD family of mastering resolutions ............................7
+Avid DNxHD media mixed in the timeline  .................................7
+Offline HD .............................................................................................8
+Avid DNxHD and future potential  ................................................8
+Avid high-definition products that support Avid DNxHD.......9
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+3
+Introduction
+Gorgeous quality. Amazing efficiency. Technology 
+that challenges old perceptions and opens up new 
+possibilities. That is the thinking behind Avid DNxHD 
+encoding. It’s an industry standardized solution that 
+has put HD within easy reach of postproduction, 
+broadcast television, and sports professionals who 
+stake their reputations on uncompromising quality. 
+A solution engineered to withstand the rigors of 
+multi-generational processing and leverage today’s 
+collaborative, networked environments. A solution 
+with over 25 years of industry leadership behind it. 
+A solution that has revolutionized HD production.
+The benefits of Avid DNxHD encoding
+HD camera compression formats are efficient, 
+but simply aren’t engineered to maintain quality 
+during complex postproduction effects processing. 
+Uncompressed HD delivers superior image quality, but 
+data rates and file sizes can stop a workflow dead in its 
+tracks. Avid DNxHD delivers both efficiency and quality 
+without compromise. Avid DNxHD is a revolutionary 
+10 and 8-bit HD encoding technology that significantly 
+reduces storage and bandwidth requirements while 
+providing mastering-quality HD media. 
+Key advantages of Avid DNxHD include:
+• Optimal mastering picture quality
+Preserves the full raster of the original HD frame 
+and maintains pixel alignment for higher quality 
+downstream encoding and image quality
+• Persistent and robust
+Virtually indistinguishable image loss over multiple 
+generations
+• Real-time HD sharing and collaboration
+Truly collaborative high quality real-time HD 
+workflow has become practical with Avid DNxHD 
+media over Avid ISIS™ media networks.
+• Reduced storage requirements 
+Avid DNxHD 145 8-bit media delivers very high HD 
+image quality while requiring approximately 20% 
+less storage capacity than 8-bit uncompressed 
+ITU-R BT.601 standard definition media.
+• Industry-wide support 
+Over 60 manufacturers currently field products 
+supporting DNxHD, and source code is easily 
+licensable from Avid. 
+• Recognized standard
+Codified by SMPTE as VC-3 standard, DNxHD is a 
+better long term workflow and archival choice
+• Multicam support 
+Avid DNxHD encoding supports Avid’s Emmy® 
+award-winning real-time multicamera functionality 
+with support for 6 to 36 simultaneous 9-way 
+multicam DNxHD 36 clients on an ISIS 5000 system
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+4
+There are five families of Avid DNxHD encoding 
+with different data rates to meet the needs of a wide 
+range of source, production, distribution, and archive 
+requirements applications across broadcast, post 
+production, and sports.
+• Avid DNxHD 444: For highest color fidelity and 
+image quality in 1920x1080 progressive projects. 
+Full resolution, 10-bit 4:4:4 RGB video sampling 
+and high bit-rate is excellent for multi-generational 
+finishing and mastering. Absence of subsampling 
+or averaging of chroma information preserves the 
+original color information ensures visually lossless 
+compression. 
+• Avid DNxHD 220x: For superior quality image in a 
+YCbCr-color space for 10-bit sources. Data rate is 
+dependent on frame rate. For example, 220Mbps 
+is the data rate for 1920 x 1080 30fps interlace 
+sources (60 fields) while progressive sources at 
+24fps will be 175Mbps 
+• Avid DNxHD 220: For highest quality image when 
+using 8-bit color sources. Data rates based on 
+frame rates are the same as for Avid DNxHD 220x
+• Avid DNxHD 145: For high-quality mastering 
+when using 8-bit lower data rate sources such 
+as HDCAM and DVCPRO. 145Mbps is the data 
+rate for 1920 x 1080 30fps interlaced sources 
+(60 fields). Progressive sources at 24fps will be 
+115Mbps and at 25fps will be 120Mbps. 
+• Avid DNxHD 100: For optimal visual impact 
+where workflow speed and storage capacity are 
+important factors. Suitable replacement for DV100 
+compression and offers lower processing overhead 
+than AVC-Intra 50/100. Sub-samples the video 
+raster from 1920 to 1440 or from 1280 to 960 to 
+reduce compression artifacts, providing a balance of 
+reduced compressed bandwidth and visual quality.
+• Avid DNxHD 36: High-quality offline editing of HD 
+progressive sources only. Designed for projects 
+using an offline/online workflow due to large 
+quantities of source media and/or needing more 
+real-time preview streams for craft editorial or 
+multicamera editing. 
+Avid DNxHD encoding quality
+Avid DNxHD encoding is specifically designed 
+for nonlinear editing and complex multi-generation 
+compositing common in today’s collaborative post 
+production and broadcast news environments. It 
+offers a choice of 8 or 10-bit sampling, six userselectable bit rates,  and the ability to maintain high 
+image quality more effectively than native camera 
+codecs. The chart below compares Avid DNxHD 
+encoded media to other popular HD formats:
+Format
+Avid DNxHD
+36
+Avid DNxHD
+100
+Avid DNxHD
+145
+Avid DNxHD
+220
+Avid DNxHD
+444
+DVCPRO HD
+HDCAM
+HDCAM SR
+Bit Depth
+8-bit
+8-bit
+8-bit
+8- and 10-bit
+10 bit
+8-bit
+8-bit
+10-bit
+Sampling
+4:2:2
+4:2:2
+4:2:2
+4:2:2
+4:4:4
+1280 Y samples 
+4:2:2
+1440 Y
+samples 3:1:1
+4:2:2
+Bandwidth
+36 Mb/sec
+100 Mb/sec
+145 Mb/sec
+220 Mb/sec
+440 Mb/sec
+100 Mb/sec
+135 Mb/sec
+440 Mb/sec
+
+Avid DNxHD Technology
+Beauty without the bandwidth.  
+Revolutionary Avid DNxHD® encoding.
+5
+Many popular compressed HD formats do not 
+natively support the full HD raster. Horizontal 
+raster downsampling makes HD images easier to 
+compress, but significantly reduces high frequency 
+detail information in the image. As a result, 
+downsampling makes HD images look softer by 
+degrading horizontal resolution in the process. The 
+camera original HD raster’s 1920 pixel horizontal 
+resolution has 33% more resolution than a1440 pixel 
+downsampled image and 50% more than a 1280 
+pixel downsampled image. 
+Over multiple generations of postproduction 
+processing, raster downsampling can severely 
+degrade images, increasing unwanted visible artifacts 
+that can render an image unacceptable. Unlike other 
+compressed HD formats such as HDCAM and 
+DVCPRO HD, Avid DNxHD encoding maintains 
+the full original raster of the active video, sampling 
+every available pixel within the image. The table below  
+(Fig. 2) shows the reduction in image size that is a 
+characteristic of raster downsampling used by other 
+HD compression schemes:
+FORMAT
+RESOLUTION / FRAME RATE
+Luminance, Y
+Chrominance, CrCb
+FROM
+TO
+FROM
+TO
+HDCAM
+1080i/59.94
+1920
+1440
+960
+480
+DVCPRO HD
+1080i/59.94
+1920
+1280
+960
+640
+DVCPRO HD
+1080i/50
+1920
+1440
+960
+720
+DVCPRO HD
+720p/59.94
+1280
+960
+640
+480
+DVCPRO HD
+720p/23.976
+1280
+960
+640
+480
+Avid DNxHD encoding is open
+Avid applications store Avid DNxHD material natively 
+inside industry-standard MXF files, ensuring open 
+accessibility by other MXF-aware applications. 
+In addition, the source code for Avid DNxHD is 
+licensable free of charge, and is available through 
+the Avid website as a download to any end user who 
+wants to compile it on any platform. For QuickTimeaware applications such as Adobe After Effects, Avid 
+distributes QuickTime-wrapped versions of the Avid 
+DNxHD codec family compiled for Windows and Mac 
+OS X. Additionally the DNxHD SDK program provides 
+binary distributions for Windows, Mac OS X and Linux 
+for partners to incorporate into their own applications. 
+The Avid DNxHD codec has been accepted by 
+SMPTE (Society of Motion Picture  and Television 
+Engineers) as the  foundation format  for the VC-3 
+standard. After two years of rigid SMPTE Standards 
+efforts, four VC-3-related documents are now 
+publicly available (store.smpte.org/). The Avid DNxHD 
+codec is compliant to SMPTE VC-3. The SMPTE 
+documents are:
+• SMPTE 2019-1	
+VC-3 Picture Compression 
+and Data Stream Format
+• SMPTE RP 2019-2	
+VC-3 Decoder and Bit 
+stream Conformance
+• SMPTE 2019-3	
+VC-3 Type Data Stream 
+Mapping over SDTI
+• SMPTE 2019-4	
+Mapping VC-3 Coding 
+Units into the MXF Generic 
+Container
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+6
+This commitment to openness means users can 
+confidently embrace the Avid DNxHD format, safe in 
+the knowledge that their valuable content will always 
+be accessible – with or without Avid equipment.
+Avid DNxHD encoding: what is 
+“high efficiency?”
+Uncompressed high-definition (HD) media can 
+require nearly seven times more bandwidth and 
+storage resources than uncompressed standarddefinition (SD) media. Avid® Media Composer®, 
+NewsCutter®, Avid Symphony™, and Avid DS 
+editing systems, especially with Nitris DX or 
+Mojo DX acceleration, have the power to capture 
+uncompressed HD files in standalone HD editing or 
+collaborative HD editorial workgroup environments 
+with Avid ISIS 7000 or ISIS 5000 real-time shared 
+storage systems. However, the breadth of choice, 
+robustness, and quality of DNxHD makes it difficult 
+to justify the storage capacity and cost required to 
+support the high data rates of uncompressed HD 
+media, especially given the extra DNxHD benefits of 
+increased workflow efficiency, easier collaboration, 
+and greater profitability.
+Avid DNxHD encoding offers mastering-quality 
+HD media with dramatically reduced file sizes, 
+shattering the barriers to real-time HD productivity, 
+whether using local storage or working in real-time 
+collaborative HD workflows with Avid ISIS. In fact, 
+the efficiency of Avid DNxHD encoding makes it easy 
+to work with mastering-quality HD media directly on 
+notebook systems.
+For maximum efficiency, users  can pick the  Avid 
+DNxHD bit depths and data rates  that most closely 
+match those of the source media. Or they can choose 
+to encode 8-bit HD media as 10-bit Avid DNxHD 
+media to maintain pristine image quality over multiple 
+generations of postproduction effects processing. 
+The increased bit depth provides
+the additional dynamic range necessary for precise 
+color correction adjustments without introducing 
+signal clipping and rounding-error artifacts. Once 
+postproduction is completed, the media, via HDSDI, can be output to the same format as the source 
+media, or in other HD formats supported by the HD 
+VTR or encoded directly to the output format such as 
+MPEG for broadcast and DVD delivery.
+
+Avid DNxHD Technology
+Beauty without the bandwidth.  
+Revolutionary Avid DNxHD® encoding.
+7
+Avid DNxHD: what is “mastering quality?”
+Unlike Avid DNxHD encoding, a number of camera acquisition formats are only 8-bits deep and reduce 
+the image resolution through horizontal down-sampling – discarding detailed pixel information and highfrequency color information in the process. This results in the image becoming softer during multi-generation 
+postproduction processing:
+This example image represents what the 
+camera lens actually sees in the 1920x1080 
+full high definition raster.
+This is the same image after its raster has been 
+horizontally sub-sampled down to 1440 pixels 
+and recorded to videotape.
+The same image returned to its normal 
+raster. Sharpness deteriorates after multiple 
+generations of sub- sampling in post 
+production.
+This is an A and -B mix of the original image 
+and a negative of the subsampled image. The 
+horizontal sub-sampling losses quickly become 
+obvious.
+This is an A and -B mix of the original image and 
+a negative of the Avid DNxHD image. The image 
+details are maintained with very high accuracy.
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+8
+You can perform the A and B mix test  on any NLE or 
+switcher to test for quality losses through any digital  
+process. When you establish a 50/50 mix of any 
+original  digital  signal with a negative image of the same 
+signal after passing though the encoding process to 
+be tested, the resulting visual differences are the errors 
+generated by the encoding. A blank image with no 
+notable visual differences indicates a very high degree 
+of quality and accuracy in the process. 
+Avid DNxHD encoding solves the deterioration 
+problems associated with multigenerational subsampling, while preserving the option to sub-sample 
+(DNxHD 100) when desired. When used to post 
+HDCAM or DVCPRO HD source material, the Avid 
+DNxHD full raster encoding options offer significant 
+advantages:
+• Preserves the full raster of the original HD frame with 
+no reduction in the horizontal luminance and chroma 
+samples.
+• Pixels are properly aligned so that downstream 
+processes such as MPEG2 encoding can be better 
+optimized resulting in a higher quality image for 
+broadcast.
+Avid DNxHD full raster encoding delivers more precise 
+color correction, graphics, effects, and compositing 
+over multiple generations of postproduction processing. 
+The result is image quality that is virtually indistinguishable 
+from the original image, even compared to uncompressed 
+HD in postproduction – regardless of source material. 
+Quality is consistently higher than is possible when 
+working within an 8-bit space, or when beginning with 
+a sub-sampled, poorly encoded, or resized image.
+A controlled test was performed to 
+compare uncompressed HD to DNxHD 
+220 for a film out. To get uncompressed 
+HD; film was scanned at 2K then rendered 
+as uncompressed HD, and then DNxHD 
+220. The two HD elements were edited 
+together with a diagonal wipe between the 
+two formats. The resulting sequence was 
+exported as DPX files for a film out. The 
+35mm film was projected, as well as the 
+digital files. In a calibrated screening room, 
+experienced engineers were unable to pick 
+where the split was done, nor which part of 
+the image was Avid DNxHD.
+-PostWorks, New York
+Avid DNxHD in a workgroup environment
+Efficiency has even more meaning in a workgroup, 
+where benefits like mastering quality HD and low 
+storage requirements are magnified by the power of 
+teamwork. Better quality results, faster turnaround 
+times, and improved productivity are all benefits of 
+simultaneous editing processes within a workgroup. 
+With Avid DNxHD all this HD value is possible on 
+networks built for SD.
+For instance, for 1080p/29.97 projects, an ISIS 7000 
+system will support 10 DNxHD 145 dual stream 
+Gbit Ethernet-connected clients, with the ability to 
+expand to 260 clients, and an ISIS 5000 system will 
+similarly support from 8 to 48 dual stream clients, all 
+with effortless real-time media access. Of course, 
+ISIS workgroups can also support mixed resolutions 
+based on user’s needs and configurations.
+
+Avid DNxHD Technology
+Beauty without the bandwidth.  
+Revolutionary Avid DNxHD® encoding.
+9
+Avid DNxHD family of mastering resolutions
+Avid DNxHD is available in multiple HD encoding choices per resolution/frame rate combination, each 
+identified by bandwidth (megabits/second) and bit depth, as shown below.
+Project Format
+Resolution
+Frame Size
+Color Space
+Bits
+FPS
+Mbps
+Min/GB
+1080p/60
+Avid DNxHD 440x
+1920 x 1080
+4:2:2
+10
+60
+440
+0.325
+1080p/60
+Avid DNxHD 440
+1920 x 1080
+4:2:2
+8
+60
+440
+0.325
+1080p/60
+Avid DNxHD 290
+1920 x 1080
+4:2:2
+8
+60
+291
+0.492
+1080p/60
+Avid DNxHD 90
+1920 x 1080
+4:2:2
+8
+60
+90
+1.585
+1080p/59.94
+Avid DNxHD 440x
+1920 x 1080
+4:2:2
+10
+59.94
+440
+0.325
+1080p/59.94
+Avid DNxHD 440
+1920 x 1080
+4:2:2
+8
+59.94
+440
+0.325
+1080p/59.94
+Avid DNxHD 290
+1920 x 1080
+4:2:2
+8
+59.94
+291
+0.493
+1080p/59.94
+Avid DNxHD 90
+1920 x 1080
+4:2:2
+8
+59.94
+90
+1.585
+1080p/50
+Avid DNxHD 365x
+1920 x 1080
+4:2:2
+10
+50
+367
+0.390
+1080p/50
+Avid DNxHD 365
+1920 x 1080
+4:2:2
+8
+50
+367
+0.390
+1080p/50
+Avid DNxHD 240
+1920 x 1080
+4:2:2
+8
+50
+242
+0.590
+1080p/50
+Avid DNxHD 75
+1920 x 1080
+4:2:2
+8
+50
+75
+1.900
+1080i/59.94
+Avid DNxHD 220x
+1920 x 1080
+4:2:2
+10
+29.97
+220
+0.651
+1080i/59.94
+Avid DNxHD 220
+1920 x 1080
+4:2:2
+8
+29.97
+220
+0.651
+1080i/59.94
+Avid DNxHD 145
+1920 x 1080
+4:2:2
+8
+29.97
+145
+0.985
+1080i/59.94
+Avid DNxHD 100
+1920 x 1080*
+4:2:2
+8
+29.97
+100
+1.429
+1080i/50
+Avid DNxHD 185x
+1920 x 1080
+4:2:2
+10
+25
+184
+0.78
+1080i/50
+Avid DNxHD 185
+1920 x 1080
+4:2:2
+8
+25
+184
+0.78
+1080i/50
+Avid DNxHD 120
+1920 x 1080
+4:2:2
+8
+25
+121
+1.181
+1080i/50
+Avid DNxHD 85
+1920 x 1080*
+4:2:2
+8
+25
+84
+1.713
+1080p/25
+Avid DNxHD 365x
+1920 x 1080
+4:4:4
+10
+25
+367
+0.39
+1080p/25
+Avid DNxHD 185x
+1920 x 1080
+4:2:2
+10
+25
+184
+0.78
+1080p/25
+Avid DNxHD 185
+1920 x 1080
+4:2:2
+8
+25
+184
+0.78
+1080p/25
+Avid DNxHD 120
+1920 x 1080
+4:2:2
+8
+25
+121
+1.181
+1080p/25
+Avid DNxHD 85
+1920 x 1080*
+4:2:2
+8
+25
+84
+1.713
+1080p/25
+Avid DNxHD 36
+1920 x 1080
+4:2:2
+8
+25
+36
+3.98
+1080p/24
+Avid DNxHD 350x
+1920 x 1080
+4:4:4
+10
+24
+352
+0.406
+1080p/24
+Avid DNxHD 175x
+1920 x 1080
+4:2:2
+10
+24
+176
+0.814
+1080p/24
+Avid DNxHD 175
+1920 x 1080
+4:2:2
+8
+24
+176
+0.814
+1080p/24
+Avid DNxHD 115
+1920 x 1080
+4:2:2
+8
+24
+116
+1.231
+1080p/24
+Avid DNxHD 80
+1920 x 1080*
+4:2:2
+8
+24
+80
+1.785
+1080p/24
+Avid DNxHD 36
+1920 x 1080
+4:2:2
+8
+24
+36
+3.98
+1080p/23.976
+Avid DNxHD 350x
+1920 x 1080
+4:4:4
+10
+23.976
+352
+0.407
+1080p/23.976
+Avid DNxHD 175x
+1920 x 1080
+4:2:2
+10
+23.976
+176
+0.814
+1080p/23.976
+Avid DNxHD 175
+1920 x 1080
+4:2:2
+8
+23.976
+176
+0.814
+1080p/23.976
+Avid DNxHD 115
+1920 x 1080
+4:2:2
+8
+23.976
+116
+1.231
+1080p/23.976
+Avid DNxHD 80
+1920 x 1080*
+4:2:2
+8
+23.976
+80
+1.787
+1080p/23.976
+Avid DNxHD 36
+1920 x 1080
+4:2:2
+8
+23.976
+36
+3.98
+1080p/29.97
+Avid DNxHD 440x
+1920 x 1080
+4:4:4
+10
+29.97
+440
+0.325
+1080p/29.97
+Avid DNxHD 220x
+1920 x 1080
+4:2:2
+10
+29.97
+220
+0.651
+1080p/29.97
+Avid DNxHD 220
+1920 x 1080
+4:2:2
+8
+29.97
+220
+0.651
+1080p/29.97
+Avid DNxHD 145
+1920 x 1080
+4:2:2
+8
+29.97
+145
+0.985
+1080p/29.97
+Avid DNxHD 100
+1920 x 1080*
+4:2:2
+8
+29.97
+100
+1.429
+1080p/29.97
+Avid DNxHD 45
+1920 x 1080
+4:2:2
+8
+29.97
+45
+3.18
+720p/59.94
+Avid DNxHD 220x
+1280 x 720
+4:2:2
+10
+59.94
+220
+0.651
+720p/59.94
+Avid DNxHD 220
+1280 x 720
+4:2:2
+8
+59.94
+220
+0.651
+720p/59.94
+Avid DNxHD 145
+1280 x 720
+4:2:2
+8
+59.94
+145
+0.985
+720p/59.94
+Avid DNxHD 100
+1280 x 720^
+4:2:2
+8
+59.94
+100
+1.402
+720p/50
+Avid DNxHD 175x
+1280 x 720
+4:2:2
+10
+50
+175
+0.818
+720p/50
+Avid DNxHD 175
+1280 x 720
+4:2:2
+8
+50
+175
+0.818
+720p/50
+Avid DNxHD 115
+1280 x 720
+4:2:2
+8
+50
+115
+1.244
+720p/50
+Avid DNxHD 85
+1280 x 720^
+4:2:2
+8
+50
+85
+1.68
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+10
+Avid DNxHD mixed in the timeline
+Avid editing systems are designed for flexibility. They 
+can handle HD, HDV, SD, and DV media at mixed 
+frame rates in the same  timeline,  all playable in real 
+time. Just drop the media right in the same timeline, 
+even add effects and compositing. All elements can be 
+automatically be converted in real-time or output to any 
+desired target resolution. Avid DNxHD can be combined 
+with lower resolution HD formats including HD or SD 
+proxies for the best in fast, efficient, and low-cost HD 
+production, combining high file efficiency with the quality 
+of Avid DNxHD for graphics, compositing and effects.
+Offline to Online HD
+The Avid DNxHD 36 resolution is targeted specifically 
+at the creative editorial workflow. Avid DNxHD 36 is 
+a high-quality offline resolution supporting full 16x9 
+aspect ratio and is available for 1080p/23.976, 
+1080p/24, 1080p/25, and 1080p/29.97 projects. 
+Native HD offline editing adds several benefits to 
+the overall workflow, such as: perfect conform of all 
+effects (compared to working with standard definition 
+16:9 anamorphic), removes timecode conversions 
+between standard definition frames rates of 30fs 
+and 25fps, tracking of pulldown cadence when in 
+NTSC, single pass capture of picture and sound, and 
+high enough quality to screen directly without the 
+additional cost and time of a conform step.
+The Avid DNxHD 36 data rate  is only 50% more  
+than  standard definition DV25 allowing for massive  
+amounts of dailies to be captured. For example, 
+100,000 feet  of 35mm, 4-perf film (~18.5 hours) 
+when captured at Avid DNxHD 36 will only require 
+279GB of storage.
+DNxHD 444 is the latest addition to the DNxHD line 
+of codecs, and offers full raster 1920 x 1080 frame 
+sizes while preserving the original color information. 
+This means that there is no subsampling or averaging 
+of the chroma information, and is an excellent choice 
+for finishing and mastering applications. 
+Avid DNxHD and future potential
+Avid DNxHD encoding is a scaleable solution that 
+will allow Avid to add different formats, resolutions, 
+and data rates as required by the marketplace. As the 
+demands move to higher and lower bit rates, there will 
+be an Avid DNxHD solution to meet those needs.
+Project Format
+Resolution
+Frame Size
+Color-Space
+Bits
+FPS
+Mbps
+Min/GB
+720p/29.97
+Avid DNxHD 110x
+1280 x  720
+4:2:2
+10
+29.97
+110
+1.3
+720p/29.97
+Avid DNxHD 110
+1280 x  720
+4:2:2
+8
+29.97
+110
+1.3
+720p/29.97
+Avid DNxHD 75
+1280 x  720
+4:2:2
+8
+29.97
+72
+2.05
+720p/29.97
+Avid DNxHD 50
+1280 x 720^
+4:2:2
+8
+29.97
+51
+2.8
+720p/25
+Avid DNxHD 90x
+1280 x  720
+4:2:2
+10
+25
+92
+1.59
+720p/25
+Avid DNxHD 90
+1280 x  720
+4:2:2
+8
+25
+92
+1.59
+720p/25
+Avid DNxHD 60
+1280 x  720
+4:2:2
+8
+25
+60
+2.39
+720p/25
+Avid DNxHD 45
+1280 x 720^
+4:2:2
+8
+25
+43
+3.361
+720p/23.976
+Avid DNxHD 90x
+1280 x  720
+4:2:2
+10
+23.976
+88
+1.566
+720p/23.976
+Avid DNxHD 90
+1280 x  720
+4:2:2
+8
+23.976
+88
+1.566
+720p/23.976
+Avid DNxHD 60
+1280 x  720
+4:2:2
+8
+23.976
+58
+2.381
+720p/23.976
+Avid DNxHD 50
+1280 x 720 ^
+4:2:2
+8
+23.976
+41
+3.504
+* = Sub-sampled to 1440x1080  ^ = Sub-sampled to 960 x 720
+
+Avid DNxHD Technology
+Beauty without the bandwidth.  
+Revolutionary Avid DNxHD® encoding.
+11
+Avid High-Definition Products that support Avid DNxHD
+No matter what HD format you shoot, Avid’s got you covered: all the way from native HDV to uncompressed 
+HD. And with breakthrough Avid DNxHD encoding technology revolutionizing HD postproduction, Avid HD 
+solutions give you everything you need to deliver “Beauty without the Bandwidth”:
+Avid Media Composer 
+Real-time Avid DNxHD editing delivers unsurpassed 
+creative editorial
+Avid DS Nitris
+Industry-leading uncompressed HD, HD-RGB, 
+Avid DNxHD, and 2K/4K perfaormance
+Avid Symphony 
+An HD conform and finishing powerhouse for 
+uncompressed HD and Avid DNxHD
+
+Avid DNxHD Technology
+Beauty without the bandwidth. 
+Revolutionary Avid DNxHD® encoding.
+12
+Avid NewsCutter®
+Designed for high-efficiency HD broadcast workflows
+Nitris DX
+High-performance HD/SD/ stereoscopic 3D film/
+video editing and finishing with analog/digital I/O
+Mojo DX
+High-performance HD/SD editing with digital I/O and 
+monitoring
+Avid ISIS
+Engineered for effortless support for Avid DNxHD 
+workgroups, with high availability and scalability from 
+a few editing seats to hundred
+
+Avid DNxHD Technology
+Beauty without the bandwidth.  
+Revolutionary Avid DNxHD® encoding.
+13
+Avid Interplay™ Production
+Workgroup acceleration, wide-area connectivity, and 
+complete real-time media production management, 
+with support for all DNxHD resolutions
+Avid AirSpeed 5000
+Workgroup-connected video production server 
+supports DNXHD ingest, encoding, and playback for 
+seamless high-quality end-to-end HD workflows  
+Register now to receive more information on 
+Avid DNxHD encoding. You can also access our 
+downloadable codec source code anytime for free just 
+by visiting our website at:  http://www.avid.com/us/
+request-info/dnxhd  
+
+©2012 Avid Technology, Inc. All rights reserved. Product features, specifications, system requirements and availability are subject to change 
+without notice. Avid, Avid DNxHD, and the Avid logo are either registered trademarks or trademarks of Avid Technology, Inc. or its subsidiaries in 
+the United States and/or other countries. All other trademarks contained herein are the property of their respective companies. 
+DNxHDWP0812
+www.avid.com
+Corporate Headquarters 800 949 AVID (2843)
+Asian Headquarters + 65 6476 7666
+European Headquarters + 44 1753 655999
+To find your regional Avid office, visit www.avid.com/contact

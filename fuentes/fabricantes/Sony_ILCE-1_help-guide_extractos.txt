@@ -1,0 +1,119 @@
+ Back to Top 
+ Print 
+On cleaning 
+Cleaning the lens 
+Do not use a cleaning solution containing organic solvents, such as thinner, or benzine. 
+When cleaning the lens surface, remove dust with a commercially available blower. In case of dust that sticks to the surface, wipe it off with a soft cloth or tissue paper slightly moistened with lens cleaning solution. Wipe in a spiral pattern from the center to the outside. Do not spray lens cleaning solution directly onto the lens surface. 
+Cleaning the camera body 
+Do not touch the parts of the product inside the lens mount, such as a lens signal contact. To clean inside the lens mount, use a commercially available blower* to blow any dust off. 
+ * Do not use a spray-type blower as doing so may cause a malfunction. 
+Cleaning the product surface 
+ Clean the product surface with a soft cloth slightly moistened with water, then wipe the surface with a dry cloth. To prevent damage to the finish or casing: 
+Do not expose the product to chemical products such as thinner, benzine, alcohol, disposable cloths, insect repellent, sunscreen or insecticide. 
+Do not touch the product with any of the above on your hand. 
+Do not leave the product in contact with rubber or vinyl for a long time. 
+Cleaning the monitor 
+If you wipe the monitor firmly using tissue paper, etc., the monitor may be scratched. 
+If the monitor becomes dirty with fingerprints or dust, gently remove the dust from the surface, and then clean the monitor using soft cloth, etc. 
+ Go to Page Top 
+ Back to Top 
+ Print 
+Notes on the battery pack and charging the battery 
+Notes on using the battery pack 
+Be sure to use only genuine Sony brand battery packs. 
+The correct remaining battery indicator may not be displayed under some operating or environmental conditions. 
+Do not expose the battery pack to water. The battery pack is not water-resistant. 
+Do not leave the battery pack in extremely hot places, such as in a car or under direct sunlight. 
+Notes on charging the battery pack 
+Charge the battery pack (supplied) before using the product for the first time. 
+The charged battery pack will discharge little by little even if you do not use it. Charge the battery pack each time before you use the product so that you do not miss any opportunities to shoot images. 
+Do not charge battery packs except battery packs specified for this product. Doing so can result in leaks, overheating, explosions, electric shocks, burns, or injuries. 
+When you use a completely new battery pack or a battery pack that has not been used for a long time, the charge lamp (CHARGE) may flash quickly when the battery is charged. If this happens, remove the battery pack and then re-insert it to recharge. 
+ We recommend charging the battery pack in an ambient temperature of between 10 °C and 30 °C (50 °F and 86 °F). The battery pack may not be correctly charged in temperatures outside this range. 
+Operation cannot be guaranteed with all external power supplies. 
+ After charging is finished, disconnect the charger from the wall outlet (wall socket) if charging with a charger, or disconnect the USB cable from the camera if charging the battery pack while it is inserted into the camera. Not doing so may result in a shorter battery life.
+Do not continuously or repeatedly charge the battery pack without using it if it is already fully charged or close to fully charged. Doing so may cause a deterioration in battery performance. 
+ If the product's charge lamp flashes while charging, remove the battery pack being charged, and then insert the same battery pack firmly back into the product.
+ If the charge lamp flashes again, this may indicate a faulty battery or that a battery pack other than the specified type has been inserted.
+ Check that the battery pack is the specified type. 
+ If the battery pack is the specified type, remove the battery pack, replace it with a new or different one and check that the newly inserted battery is charging correctly. If the newly inserted battery is charging correctly, the previously inserted battery may be faulty. 
+Remaining battery indicator 
+The remaining battery indicator appears on the screen.
+ A: Battery level high 
+ B: Battery exhausted 
+It takes about one minute for the correct remaining battery indicator to appear. 
+The correct remaining battery indicator may not be displayed under some operating or environmental conditions. 
+If the remaining battery indicator does not appear on the screen, press the DISP (Display Setting) button to display it. 
+Effective use of the battery pack 
+Battery performance decreases in low temperature environments. So in cold places, the operational time of the battery pack is shorter. To ensure longer battery pack use, we recommend putting the battery pack in your pocket close to your body to warm it up, and insert it in the product immediately before you start shooting. If there are any metal objects such as keys in your pocket, be careful of causing a short-circuit. 
+The battery pack will run down quickly if you use the flash or continuous shooting function frequently, turn the power on/off frequently, or set the monitor very bright. 
+We recommend preparing spare battery packs and taking trial shots before taking the actual shots. 
+If the battery terminal is dirty, you may not be able to turn on the product or the battery pack may not be properly charged. In that case, clean the battery by lightly wiping off any dust using a soft cloth or a cotton swab. 
+How to store the battery pack 
+To maintain the battery pack’s function, charge the battery pack and then fully discharge it in the camera at least once a year before storing it. Store the battery in a cool, dry place after removing it from the camera. 
+On battery life 
+The battery life is limited. If you use the same battery repeatedly, or use the same battery for a long period, the battery capacity decreases gradually. If the available time of the battery is shortened significantly, it is probably time to replace the battery pack with a new one. 
+The battery life varies according to how the battery pack is stored and the operating conditions and environment in which each battery pack is used. 
+ Go to Page Top 
+ Back to Top 
+ Print 
+Notes on memory card 
+If (overheating warning icon) is displayed on the monitor, do not remove the memory card from the camera right away. Instead, wait for a while after turning off the camera, and then remove the memory card. If you touch the memory card while it is hot, you may drop it and the memory card may be damaged. Be careful when removing the memory card. 
+If you repeatedly shoot and delete images for a long time, fragmentation of data in a file in the memory card may occur, and movie recording may be interrupted in the middle of shooting. If this happens, save your images to a computer or other storage location, then execute [Format] using this camera. 
+Do not remove the battery pack or the memory card, disconnect the USB cable, or turn the camera off while the access lamp is lit up. This may cause the data on the memory card to become damaged. 
+Be sure to back up the data for protection. 
+Not all memory cards are guaranteed to operate correctly. 
+Images recorded on an SDXC/CFexpress Type A memory card cannot be imported to or played on computers or AV devices not compatible with exFAT when connected using a USB cable. Make sure that the device is compatible with exFAT before connecting it to the camera. If you connect your camera to an incompatible device, you may be prompted to format the card. Never format the card in response to this prompt, as doing so will erase all data on the card. 
+(exFAT is the file system used on SDXC memory cards or CFexpress Type A memory cards.) 
+Do not expose the memory card to water. 
+Do not strike, bend or drop the memory card. 
+Do not use or store the memory card under the following conditions:
+High temperature locations such as in a car parked under the sun 
+Locations exposed to direct sunlight 
+Humid locations or locations with corrosive substances present 
+If the memory card is used near areas with strong magnetization, or used in locations subject to static electricity or electrical noise, the data on the memory card may become damaged. 
+Do not touch the terminal section of the memory card with your hand or a metal object. 
+Do not leave the memory card within the reach of small children. They might accidentally swallow it. 
+Do not disassemble or modify the memory card. 
+The memory card may be hot just after it has been used for a long time. Be careful when you handle it. 
+Memory card formatted with a computer is not guaranteed to operate with the product. Be sure to format the memory card using this product. 
+Data read/write speeds differ depending on the combination of the memory card and the equipment used. 
+Do not press down hard when writing in the memo space on the memory card. 
+Do not attach a label on the memory card itself nor on a memory card adaptor. You may not be able to remove the memory card. 
+If the write-protect switch or delete-protect switch of an SD memory card is set to the LOCK position, you cannot record or delete images. In this case, set the switch to the record position. 
+ To use a microSD memory card with this product:
+Be sure to insert the memory card into a dedicated adaptor. If you insert a memory card into the product without a memory card adaptor, you might not be able to remove it from the product. 
+When inserting a memory card into a memory card adaptor, be sure that the memory card is inserted in the correct direction and then insert it as far as it will go. If the card is not inserted properly, it may result in a malfunction. 
+ Go to Page Top 
+ Back to Top 
+ Print 
+ File Format (movie) 
+Selects the movie file format. 
+ MENU → ( Shooting ) → [Image Quality] → [ File Format] → desired setting. 
+ Menu item details 
+ File Format 
+ Characteristics 
+ XAVC HS 8K 
+Records 8K movies in the XAVC HS format. 
+The XAVC HS format uses the HEVC codec, which has high compression efficiency. The camera can record movies with higher image quality than XAVC S movies but the same data volume. Long GOP compression is used for movies. 
+ XAVC HS 4K 
+Records 4K movies in the XAVC HS format. 
+The XAVC HS format uses the HEVC codec, which has high compression efficiency. The camera can record movies with higher image quality than XAVC S movies but the same data volume. Long GOP compression is used for movies. 
+ XAVC S 4K 
+Records movies in 4K resolution (3840×2160). Long GOP compression is used for movies. 
+ XAVC S HD 
+Records movies in HD resolution (1920×1080). Long GOP compression is used for movies. 
+ XAVC S-I 4K 
+Records movies in the XAVC S-I format. 
+The XAVC S-I format uses Intra compression for movies. This format is more suitable for editing than Long GOP compression. 
+ XAVC S-I HD 
+Records movies in the XAVC S-I format. 
+The XAVC S-I format uses Intra compression for movies. This format is more suitable for editing than Long GOP compression. 
+Intra/Long GOP is a movie compression format. Intra compresses the movie by frame, and Long GOP compresses multiple frames. Intra compression has better response and flexibility when editing, but Long GOP compression has better compression efficiency. 
+Note 
+To play back XAVC HS 4K / XAVC HS 8K movies on a computer, you need a device or software with high processing capability that supports the HEVC codec. 
+When recording 4K 120p/100p or 8K movies, [ 
+ Shooting] becomes disabled and locked to [Off] . 
+If an APS-C size dedicated lens is attached, the edges of the screen may appear dark. When recording 4K 120p/100p or 8K movies with this camera, we recommend using a lens compatible with the 35 mm full-frame format. 
+To properly display 8K movies from the camera on a TV manufactured by Sony using a HDMI cable (sold separately), you need to change the image quality settings for the TV manually. Change the image quality settings (gamma or color mode) for the TV according to the settings applied when shooting. 
+ Go to Page Top 
