@@ -546,3 +546,438 @@ Y la DT 3ª, que lo afecta:
 >
 > B. Días de asuntos propios. Las Licencias y permisos regulados en el art. 33 de este Convenio Colectivo quedan en suspenso y pasan a ser exclusivamente de un total de 4 días al año que podrán ser acumulados a los de vacaciones anuales.
 
+
+### 3.3. El art. 33 en forma de cuadro (para el redactor)
+
+Resumen **mío** del art. 33.A, con las cifras literales del texto y el plazo de
+solicitud de su apartado 2. La columna «DT 3ª» dice si esta la afecta.
+
+| Letra | Supuesto | Duración (literal) | Solicitud (art. 33.A.2) | DT 3ª |
+|---|---|---|---|---|
+| a | Matrimonio del trabajador | «20 días naturales» | «15 días de antelación» | — |
+| b | Nacimiento, adopción, enfermedad grave u hospitalización «que demande ayuda inminente», fallecimiento de parientes hasta 2.º grado | «3 días naturales, a partir del hecho causante»; con desplazamiento «5 días»; flexible, «en los veinte días posteriores al hecho» | «Tan pronto como suceda el hecho» | — |
+| b (2.º párr.) | Hijos prematuros u hospitalizados tras el parto | ausencia «hasta un máximo de 2 horas diarias, percibiendo las retribuciones íntegras» | ídem | — |
+| c | Traslado de domicilio / de centro de trabajo | «2 días» / «tres»; «una vez durante el año natural» | «15 días de antelación» | Domicilio: **1 día** |
+| d | Deber inexcusable público o personal; deberes de conciliación | «Por el tiempo indispensable» | «15 días de antelación o con la misma fecha en que ha sido objeto de citación» | — |
+| e | Matrimonio de hijos, hermanos o padres | «Un día»; «dos días» si en provincia no limítrofe | «15 días de antelación» | — |
+| f | Funciones sindicales o de representación | «en los términos establecidos en el presente Convenio» | «48 horas de antelación, o desde que se tenga conocimiento» | — |
+| g | Lactancia de hijo menor de 12 meses | «una hora», divisible en dos fracciones; parto múltiple «dos horas diarias […] por cada hijo/a»; acumulable en jornadas completas «por decisión de la madre» | «15 días de antelación» | — |
+| h | Adopción, nacimiento, acogimiento | «dieciséis semanas ininterrumpidas» (+2 por hijo desde el segundo en múltiple); después, «permiso retribuido de cuatro semanas adicionales» | «15 días de antelación o tan pronto sea conocido el hecho» | — |
+| i | Permiso del padre u otro progenitor | «15 días consecutivos»; adopción internacional: «hasta dos meses» con solo retribuciones básicas | «tan pronto sea conocido el hecho» | — |
+| j | Exámenes | «durante los días de su celebración»; «tiempo máximo de doce días al año» | «tan pronto sea conocido el hecho» | — |
+| k | Exámenes prenatales y preparación al parto | (sin duración) | «48 horas de antelación, o desde que se tenga conocimiento» | — |
+| l | Enfermedad muy grave de familiar de 1.er grado | reducción «de hasta el cincuenta por ciento», retribuida, «plazo máximo de un mes» | «7 días de antelación» | — |
+| m | Violencia de género | faltas justificadas según los servicios sociales o de salud; reducción o reordenación | «se estará a lo determinado por los servicios sociales o de salud» | — |
+| n | Hijo menor con cáncer u otra enfermedad grave | reducción «de al menos la mitad», retribuciones íntegras, «hasta que el menor cumpla los 18 años» | «Desde que se acrediten las circunstancias» | — |
+
+Resto del art. 33: B, asuntos propios, «un día […] por año de servicio», máximo
+«seis anuales», +1 con antigüedad «superior a los diez años», «un octavo día» con
+antigüedad «superior a los quince años» (DT 3ª B: «un total de 4 días al año» que
+«podrán ser acumulados a los de vacaciones»); C, turno más favorable (estudios,
+embarazo, familiares enfermos convivientes, hijo menor de seis años); D, reducciones
+de jornada (perfeccionamiento, «del 50%», no retribuida; guarda legal, «entre, al
+menos, un octavo y un máximo de la mitad»; voluntaria «del 50%, por un período mínimo
+de treinta días»); E, licencia no retribuida, máximo «seis meses en el año natural»;
+F, parejas de hecho, «convivencia de al menos seis meses».
+
+**Cuadro sindical de CCOO (2017), no oficial**: además de lo anterior recoge, con cita
+de su origen, permisos que **no están en el art. 33** y que atribuye a acuerdos de la
+COMVI o a normas de la Junta de Andalucía:
+
+- «PERMISO POR GESTACIÓN (acuerdo personal laboral Junta Andalucía 15/04/2016 BOJA
+  14/04/16 y COMVI 26/02/2016)»: «A PARTIR DE LA SEMANA 37 DE GESTACIÓN O DE LA
+  SEMANA 35 SI ES PARTO MÚLTIPLE, HASTA EL PARTO».
+- «POR ENFERMEDAD INFECTO-CONTAGIOSA HIJO MENOR DE 9 AÑOS (ART. 9.1.E.2. INSTRUCCIÓN
+  4/2012 […] COMVI 19/09/2016)»: «3 DÍAS NATURALES CONTINUADOS».
+- Desplazamiento del art. 33.A.1.b: «LA DISTANCIA PARA QUE EXISTA DESPLAZAMIENTO DEBE
+  SER SUPERIOR A LOS 30 KM, DESDE EL DOMICILIO HABITUAL DEL TRABAJADOR. (COMVI
+  3/10/2016)».
+- Licencia no retribuida «PARA CUIDAR CONYUGE CON TRATAMIENTOS PALIATIVOS (ACUERDO
+  9/7/2013 CONSEJO DE GOBIERNO Y COMVI 24/10/2016)»: «HASTA UN AÑO DE DURACIÓN, QUE
+  PODRÁ SER AMPLIADO UNA VEZ POR IGUAL PERIODO».
+- Ausencias por consulta médica propia o de familiares e indisposición, con
+  justificante.
+- Lactancia «PARA HIJOS MENORES DE 16 MESES» y acumulación «MÁXIMO 4 SEMANAS» (cita la
+  Instrucción 4/2012 de la Junta), frente a los doce meses del art. 33.A.1.g.
+- Paternidad de «4 SEMANAS» (cita la Ley 9/2009 y el art. 48.7 ET), frente a los 15
+  días del art. 33.A.1.i; y en asuntos propios, solicitud «AL MENOS, 48 HORAS ANTES».
+
+Ninguno de esos acuerdos de la COMVI está publicado; no los he visto. **Todo esto
+queda fuera como dato del tema**, salvo para decir que existen fuera del convenio.
+Además, varias entradas de ese cuadro de 2017 ya no casan con el ET de hoy (por
+ejemplo, la paternidad de 4 semanas; véase el apartado 5).
+
+## 4. El resto del articulado, por capítulos
+
+### Capítulo I. Disposiciones generales (arts. 1-9)
+
+- **Art. 1**: regula las relaciones laborales «entre la Agencia Pública Empresarial de
+  la RTVA y SS.FF. y su personal». La Agencia y sus filiales «se configuran como una
+  unidad de Empresa», con posibilidad de que los grupos profesionales «presten
+  servicios, indistintamente para cualquiera de las Empresas»; «La unidad de empresa
+  no implicará la movilidad geográfica».
+- **Art. 2**: todos los centros actuales «así como en otros centros que se puedan
+  crear en el futuro».
+- **Art. 3**: afecta a todos los trabajadores con **seis exclusiones** «expresamente»:
+  a) «Colaboradores/as y asesores/as»; b) «Actores, actrices, músicos, cantantes,
+  orquestas, coros y agrupaciones musicales»; c) «El personal artístico en general,
+  cuyos servicios sean contratados para actuaciones concretas»; d) agentes
+  publicitarios y adaptadores literarios y musicales de obras no escritas para radio
+  o televisión; e) «El personal directivo de alta gestión o de libre designación»;
+  f) profesionales con contrato civil o mercantil. La empresa da «anualmente» al
+  Comité Intercentros la relación de este personal.
+- **Arts. 4 y 5**: véase apartado 1.1.
+- **Art. 6**: las normas del convenio «se aplicarán con carácter prioritario y
+  preferente respecto a cualquier otra disposición o norma legal»; en lo no previsto,
+  el ET y, «en su defecto», las demás disposiciones generales.
+- **Art. 7**: convenio «indivisible», «todo orgánico unitario».
+- **Art. 8**: las mejoras «no serán absorbibles y compensables» con las que establezca
+  una disposición legal, «salvo cuando expresamente se pacte lo contrario».
+- **Art. 9, COMVI**: se constituye «en el plazo de quince días a contar desde la
+  firma»; «cinco miembros» de los trabajadores y «otros tantos» de la empresa, con
+  «dos asesores/as» por parte; **seis funciones** (a-f: interpretar, vigilar,
+  arbitrar, dar conocimiento de acuerdos, «Conocer y mediar en los conflictos
+  individuales y/o colectivos», y materias no previstas); funciona por «su propio
+  reglamento». Ap. 5: «Será obligatorio que, previo a la interposición de
+  reclamaciones ante la jurisdicción laboral, se interponga reclamación ante la
+  COMVI.»
+
+### Capítulo II. Jornadas y descansos (arts. 10-14)
+
+- **Art. 10**: jornada anual de «mil quinientas cuarenta horas», equivalente a
+  «treinta y cinco horas» semanales. Se obtiene restando a 365 días: «Once fiestas de
+  carácter nacional», «Una fiesta de carácter autonómico», «Dos fiestas de carácter
+  local», «Veinticuatro días laborables de vacaciones al año (excluidos sábados)»,
+  descanso semanal, los días 24 y 31 de diciembre («festivos a todos los efectos»;
+  si no se disfrutan, acumulables a vacaciones) y los días de ajuste. **DT 1ª**:
+  jornada del fijo, «treinta y siete horas y treinta minutos semanales […] de
+  promedio en cómputo anual»; temporales, interinos e indefinidos no fijos, jornada
+  y retribuciones reducidas un 10 %; horario flexible de ±1 hora con presencia
+  obligatoria «entre las 9 y las 14 horas» (mañana) o «entre las 16,00 horas y las
+  21,00 horas» (tarde). Estado en 2026: apartado 1.5.
+- **Art. 11**: la Dirección hace los calendarios por centro; se negocian con el Comité
+  de Empresa o Delegados y los ratifican el Comité Intercentros y la Dirección. Si una
+  fiesta «retribuible y no recuperable» cae en sábado, «se trasladará al viernes
+  precedente».
+- **Art. 12**: turnos publicados «entre los días 15 y 25 del mes precedente». Mínimos
+  (ap. b): jornada ordinaria «no sea superior a nueve horas diarias ni inferior a cinco
+  horas, salvo horarios de Fin de Semana»; descanso entre jornadas «de al menos doce
+  horas»; máximo «cinco días» seguidos y «dos días como mínimo de descanso
+  consecutivo», a ser posible sábado y domingo; procesos productivos especiales de
+  menos de siete días (Navidad, Fin de Año, Virgen de la Cabeza, Gala 28-F,
+  Carnavales, Ferias) con cómputo semanal de 35 horas y exceso pagado en descanso o
+  «al módulo de 17,17 € brutos/hora»; de más de siete y menos de quince días (Semana
+  Santa, Carnavales, Rocío, Ferias), cómputo bisemanal «a razón de 70 horas»; permuta
+  de turnos entre dos trabajadores con aprobación de la empresa (negativa «motivada
+  por escrito»); rotación de turnos sin acuerdo, «máxima de tres meses»; quien trabaje
+  la jornada completa entre las 22,00 y las 7,00 horas no puede tener turno «superior
+  a siete horas». Modalidades (ap. c): partido (separación «mínima […] de una hora y
+  máxima de dos»), continuado (con «descanso de veinte minutos computable […] como
+  tiempo real de trabajo») y fin de semana («once horas el sábado, once horas el
+  domingo y cinco horas el viernes o el lunes»; sin acuerdo, rotatorio «por períodos
+  semestrales» con cuatro criterios en orden: circunstancias familiares y personales,
+  estudios acreditados, antigüedad en la empresa, antigüedad en el grupo).
+- **Art. 13, vacaciones**: «veinticuatro días laborables de vacaciones (excluidos
+  sábados)» (DT 2ª: «22 días hábiles, sin computar los sábados», con hasta 5 sueltos
+  acumulables a asuntos propios). Se retribuyen con el salario base más la media de
+  los complementos del último semestre (referencia, agosto). Se disfrutan «en los
+  meses de verano (julio, agosto y septiembre […]) preferentemente en los meses de
+  julio y agosto». Si la empresa las desplaza fuera de ese período, compensación «del
+  12% del salario base mensual, más tres días hábiles de vacaciones». Si las pide el
+  trabajador entre octubre y junio, «prima de tres días hábiles». Fraccionables «en un
+  máximo de dos períodos, sin que ninguno de ellos sea inferior a siete días
+  naturales». Turnos fijados «como mínimo, con tres meses de antelación», con
+  preferencia de quienes tengan responsabilidades familiares y rotación anual. Se
+  interrumpen por baja de enfermedad común, accidente no laboral, enfermedad
+  profesional, riesgo en embarazo o lactancia o permiso de maternidad/paternidad.
+- **Art. 14, horas extra**: siempre compensadas en descanso: «por cada hora
+  extraordinaria realizada el/la trabajador/a tendrá derecho a un descanso
+  compensatorio de dos horas»; se descansan en febrero, junio y octubre (las hechas
+  hasta el 1 de cada uno de esos meses); compromiso de contratar «el 50% de las horas
+  extraordinarias descansadas» (suspendido por la DT 1ª C); «los diez primeros
+  minutos» no computan, la primera media hora se abona entera en descanso y «a partir
+  del minuto 31» se paga el tiempo real.
+
+### Capítulo III. Provisión de plazas y promoción (arts. 15-20)
+
+- **Art. 15**: el personal fijo solo por «pruebas de admisión y/o concursos»
+  convocados por el Director General de la RTVA «de acuerdo con el Consejo de
+  Administración». Orden de provisión de vacantes o plazas nuevas: «a) Reingreso de
+  excedencia. b) Traslado. c) Promoción. d) Concurso oposición libre.» La Mesa de
+  Contratación participa «hasta la constitución de los tribunales».
+- **Art. 16**: los excedentes voluntarios pueden pedir su incorporación «previo a la
+  realización del traslado, promoción y concurso».
+- **Art. 17, traslado**: fijos que quieran cambiar de localidad «sin cambio de puesto
+  de trabajo» con antigüedad «de al menos un año»; plazo mínimo de solicitudes de
+  «diez días naturales»; resuelve el Tribunal del art. 20 por nivel de conocimiento y
+  titulación, circunstancias profesionales y antigüedad en el puesto y destino.
+- **Art. 18, promoción**: fijos que quieran cambiar de grupo, con capacidad,
+  conocimiento, titulación y antigüedad «de al menos seis meses»; plazo mínimo de
+  «diez días naturales»; «mediante concurso de méritos, una vez efectuado el
+  correspondiente concurso de traslado».
+- **Art. 19, concurso-oposición libre**: para lo no cubierto en las fases de los
+  arts. 16 a 18; pueden optar también los trabajadores «en situación de activo o
+  excedente»; la convocatoria fija vacantes, puesto, nivel, requisitos, temarios y
+  pruebas.
+- **Art. 20, tribunales**: «Seis miembros en representación de RTVA y SS.FF.» (uno
+  presidente y otro secretario) y «Cinco representantes nombrados por la
+  representación de los/las trabajadores/as, preferentemente de igual o superior grupo
+  profesional»; **seis funciones** (a-f); puede incorporar asesores especialistas.
+
+### Capítulo IV. Organización (arts. 21-24)
+
+- **Art. 21.1, movilidad funcional** dentro del mismo grupo, sin cambio de localidad,
+  sin más límite que las titulaciones; no reduce el total de puestos y exige formación
+  previa.
+- **Art. 21.2, ascenso y promoción**: principio de «aptitud y capacidad»; «único
+  sistema» el del convenio; la nueva retribución se devenga desde que se desempeñan
+  las funciones. Funciones de nivel superior: diferencia retributiva mientras dure,
+  situación que «nunca tendrá una duración superior a un año, salvo aquellas
+  excepciones que determine la Mesa de Contratación», «sin que en ningún caso
+  adquiera su pertenencia al grupo profesional superior». Registro de cambios de grupo
+  en enero (ap. 2.6; véase la DA 1ª del Reglamento de la Mesa, apartado 1.4).
+- **Art. 21.3, movilidad geográfica**. A) Traslados forzosos indefinidos: antes, «se
+  agotará la vía de la voluntariedad»; si exigen cambio de residencia: «Indemnización
+  equivalente a tres mensualidades del salario base», gastos de traslado y «Abono de
+  240,40 € mensuales, como ayuda a vivienda»; notificación «con al menos treinta días»,
+  negociación en los quince siguientes; opción entre traslado o extinción indemnizada;
+  incorporación en plazo no inferior a «treinta días naturales»; derecho del cónyuge o
+  conviviente de la empresa a trasladarse si hay vacante de su grupo; sin acuerdo,
+  recurso a la COMVI en cinco días (que resuelve en diez) y mediación del CEMAC o del
+  SERCLA; la decisión «no resultará ejecutiva hasta que no concluya la mediación»; la
+  plaza que se deja no se cubre en «dos años». **Tres excepciones** (ap. 3.7):
+  trabajadores de «cuarenta y ocho o más años», traslado por motivos disciplinarios y
+  representantes legales «hasta pasado dos años desde el cese». Criterios (ap. 3.8):
+  plaza más cercana, menor antigüedad y, a igualdad, menos cargas familiares y no estar
+  estudiando. B) Desplazamientos temporales «hasta el límite de un año»; si superan
+  tres meses, «cuatro días laborables» en el domicilio de origen «por cada tres
+  meses»; agotados los doce meses, no se puede repetir en «cuatro años».
+- **Art. 22, permuta**: entre dos fijos «de igual puesto de trabajo», aunque presten
+  servicios en distintas empresas.
+- **Art. 23, período de prueba**: «el que señale la normativa legal vigente en cada
+  momento»; computa como antigüedad; se puede desistir «sin necesidad de preaviso»; la
+  rescisión se comunica a la representación.
+- **Art. 24, Mesa de Contratación**: reglamento propio (bolsas, acceso,
+  contrataciones); la empresa puede contratar directamente, fuera de bolsas, «hasta un
+  10% de la contratación media anual»; «cinco representantes del Comité Intercentros y
+  cinco de la Dirección».
+
+### Capítulo V. Seguridad y salud (arts. 25-31)
+
+- **Art. 25**: comités de seguridad y salud en los centros «que cuenten con 50 ó más
+  trabajadores/as», con las competencias del art. 39 de la Ley 31/1995.
+- **Art. 26**: composición del art. 38 de esa ley, pero los delegados de prevención
+  pueden ser trabajadores no representantes con «una formación mínima de 40 horas»;
+  reunión «al menos una vez al mes»; «20 horas retribuidas al mes», acumulables «como
+  máximo en cada trimestre».
+- **Art. 27, Comité Intercentros de Seguridad y Salud Laboral**: al amparo del art.
+  38.3 de la Ley 31/1995, sede en San Juan de Aznalfarache; «un máximo de 7 miembros»
+  por los trabajadores, designados por el Comité Intercentros entre los delegados de
+  prevención, e igual número por la empresa.
+- **Arts. 28-29**: evaluaciones de riesgos por puesto conforme a los arts. 3 a 7 del
+  Real Decreto 39/1997; planificación anual (arts. 8 y 9); descanso de «diez minutos
+  por cada hora de trabajo continuado en pantallas de visualización de datos», no
+  acumulable; programa de drogodependencias; terapia de espalda «en un 75% en tiempo
+  de trabajo y en un 25% fuera».
+- **Art. 30**: prendas homologadas; el Comité de Salud Laboral fija las de cada puesto
+  «anualmente».
+- **Art. 31**: unidad básica de salud laboral en localidades con «más de 100
+  trabajadores/as», dirigida por médico del trabajo.
+
+### Capítulo VI. Régimen de personal (arts. 32, 34-36; el 33 va en el apartado 3)
+
+- **Art. 32, excedencias**: además de las del ET («que se aplicarán en sus propios
+  términos»), concesión «obligatoria» a quien tenga «al menos un año de antigüedad» y
+  la pida con «treinta días» de antelación. **Tres modalidades**:
+  - I. **Voluntaria**: concesión en «treinta días», duración «no […] inferior a seis
+    meses ni superior a diez años», prorrogable con aviso de treinta días sin superar
+    diez años; para otra, «tres años de servicio efectivo». **Con reserva de puesto**
+    si no pasa de «tres años» y se cumplen tres requisitos: no ir a otra emisora ni a
+    proveedores de RTVA; que los excedentes con reserva no superen «el 5%» de la
+    plantilla; que no perjudique gravemente la actividad. En los demás casos, solo
+    derecho preferente al reingreso. Se pierde el reingreso si no se pide «con 15 días
+    de antelación» al vencimiento (extinción automática); incorporación «dentro de los
+    dos meses»; el tiempo «no computará a ningún efecto».
+  - II. **Forzosa**: cargo público no permanente; funciones sindicales de ámbito
+    provincial o superior; duración, la del mandato; reincorporación «en los treinta
+    días siguientes al cese»; mismas garantías para cooperación con el «Tercer Mundo» o
+    labor humanitaria.
+  - III. **Especial**: cuidado de hijos, «no superior a seis años» por cada hijo
+    (desde el fin de la licencia de embarazo o de adopción); si padre y madre están en
+    el convenio, «solamente uno de ellos»; computa para antigüedad; reingreso «en
+    cualquier momento». También el nombramiento de libre designación en RTVA y la
+    privación de libertad (excedencia «en el plazo de treinta días» tras condena y
+    reingreso en «dos meses» desde la libertad).
+- **Art. 34**: plantilla actualizada «al uno de Enero», con **siete datos** (nombre,
+  antigüedad, grupo, puesto, nivel, fecha de nombramiento o promoción y número de
+  registro), publicada «en los tres primeros meses del año».
+- **Art. 35**: computa como antigüedad el tiempo trabajado antes de las oposiciones
+  si no hubo interrupción «superior a seis meses».
+- **Art. 36, formación**: Comisión de Formación paritaria de «al menos […] diez
+  miembros, cinco» y cinco; **tres objetivos** (actualizar, especializar, idiomas);
+  el plan es obligatorio solo si la empresa lo subvenciona «totalmente» y se hace
+  «dentro del horario de trabajo»; el trabajo en prácticas «no será nunca utilizado».
+
+### Capítulo VII. Prestaciones sociales (arts. 37-44)
+
+- **Art. 37**: «180,30 euros anuales» por hijo hasta los cuatro años (contrato
+  «superior a seis meses» en el año) y «150,25 euros anuales» de cinco a 18; pago
+  «en una sola vez en el mes de agosto»; hijos con discapacidad, «96,00 euros
+  mensuales» hasta «los cuarenta años inclusive». DT 8ª: acción social suspendida
+  «salvo las de atención a personas con discapacidad».
+- **Art. 38**: becas por la cantidad que determine la COMVI.
+- **Art. 39, seguro colectivo**: muerte natural «15.025 €»; invalidez permanente total
+  «27.046 €»; absoluta «39.066€»; fallecimiento en accidente «27.046 €»; en accidente
+  de circulación «39.066 €».
+- **Art. 40**: complemento de IT hasta «el cien por cien de su retribución ordinaria
+  desde el primer día» (DT 6ª: 50 % días 1-3, 75 % días 4-20, 100 % desde el 21 en
+  enfermedad común; 100 % en contingencias profesionales, hospitalización o
+  intervención); complemento de maternidad hasta el salario.
+- **Art. 41**: vales de comida para entradas entre «las 12 y 15 horas» o «las 19 y 22
+  horas» (o salidas desde las 16 y 23); comedor en centros de más de 100; o en metálico
+  «11,33 €».
+- **Art. 42**: anticipo de la nómina hasta «el 90%» de la última mensualidad, con
+  «seis meses de antigüedad», a devolver «hasta tres meses»; anticipo personal de
+  «tres mensualidades netas», sin interés, «en 18 meses».
+- **Art. 43**: acuerdo anual con el Grupo de Empresa.
+- **Art. 44, jubilaciones**: indemnización por jubilación B01 «21.035,42 €», B02
+  «19.532,89 €», B03 «18.030,36 €», B04 «16.527,83 €», B05 «15.025,30 €»; jubilación
+  anticipada con «al menos cinco años de antigüedad», escalas por años de anticipación
+  (1 a 5; p. ej. B01 de «24.040,48 €» a «36.060,73 €»); comisión para incentivar bajas
+  entre «57 y 59 años» con «150.000 euros anuales»; aportaciones al plan de pensiones
+  +5 % (B01 «373,35 €» … B05 «266,68 €»). En 2026 sigue aplicándose el art. 28.2 de la
+  Ley 3/2012, que prohíbe aportar a planes de pensiones (apartado 1.5).
+
+### Capítulo VIII. Trabajo y retribución (arts. 45-54)
+
+- **Art. 45, clasificación profesional**: grupos y puestos en **cinco niveles
+  salariales, B01 a B05** (p. ej. B01 jefes de departamento, letrado, auditor; B02
+  realizador, redactor, documentalista, técnico superior informático, titulado
+  superior; B03 jefes de sección, operador de sonido, cámara, ayudante de realización,
+  productor, grafista, titulado medio; B04 administrativo, locutor de continuidad,
+  guionista, operador montador de vídeo, ayudante de producción; B05 auxiliar
+  administrativo, auxiliar de servicios generales, sastra/sastre, gruista).
+- **Art. 46**: Comisión permanente de Valoración de Puestos, en «1 mes», de «cinco» y
+  «cinco»; las definiciones de puestos, en la DA 8ª (Anexo III).
+- **Art. 47**: estructura: A) salario base; B) complementos: personales
+  (antigüedad), de puesto (nocturnidad, quebranto de moneda, mando orgánico, especial
+  responsabilidad, disponibilidad, turnicidad, polivalencia, guardia localizable, plus
+  de sábados, domingos y festivos, idioma, penosidad y peligrosidad), por calidad y
+  cantidad (calidad, procesos productivos especiales, horas extra, pacto de trabajo),
+  de vencimiento superior al mes (pagas de junio, Navidad, marzo y septiembre) y
+  extrasalariales (dietas, kilometraje, plus de pernocta).
+- **Art. 48**: salario base del Anexo I para 2013, revisable según la DA 1ª.
+- **Art. 49, antigüedad**: trienios «sin tope limitativo», a razón de «0,0024 del
+  salario base anual fijado para el nivel B03»; los temporales cobran antigüedad si
+  la interrupción no supera «180 días»; se devengan desde «el día 1 del mes» en que se
+  cumplen. DT 5ª: «45 € trienio/mes» lineal.
+- **Art. 50, complementos de puesto**: nocturnidad «35% del salario base» (período
+  nocturno «entre las 22.00 horas y las 7.00 horas»); sábados, domingos y festivos
+  «59,46 euros» (entero si la jornada supera tres horas), y «128,06 euros» por
+  tarde/noche del 24 y 31 de diciembre o cualquier turno del 25 de diciembre y 1 de
+  enero; quebranto de moneda «35,36 euros mensuales»; mando orgánico «30%»; especial
+  responsabilidad «30% o el 45%» (el del 45 % es incompatible con horas extra pagadas y
+  con turnicidad); disponibilidad «30%» (más de quince días al mes) o «15%» (menos),
+  incompatible con turnicidad; turnicidad «5%»; polivalencia «12%»; idiomas «5%»;
+  penosidad y peligrosidad «15%»; guardia localizable «1%» del salario base mensual
+  en descanso y «2.5%» en sábado, domingo o festivo, con convocatoria mínima de
+  «cuatro horas».
+- **Art. 51**: calidad en el trabajo «15% o el 25%»; pacto de trabajo presentado al
+  Comité Intercentros «como mínimo tres días antes».
+- **Art. 52, pagas**: junio (del 25 al 30) y Navidad (del 15 al 20 de diciembre), de
+  salario base más la media de complementos del semestre anterior; marzo y septiembre
+  (del 25 al 30), de «quince días de salario base más antigüedad», más «300,51 euros»
+  en marzo y «750 euros» en septiembre.
+- **Art. 53, dietas**: en España, «55,52» €/día (comida y cena), media dieta «27,76»,
+  con alojamiento a cargo del trabajador «101,12 euros»; en el extranjero, «98,81»,
+  media «49,41», sin alojamiento concertado «197,62»; dieta de rodaje a más de «30
+  kilómetros» con regreso después de las 16:00 o las 23:00; kilometraje «0,27 euros por
+  kilómetro»; plus de pernocta fuera de Andalucía «69,09 euros», que compensa «las
+  cuatros primeras horas extraordinarias», si la jornada se prolonga «más de dos
+  horas». DT 7ª: tope del Decreto 54/1989 (vigente en 2026 por el art. 22 de la Ley
+  3/2012).
+- **Art. 54**: cantidades brutas.
+- **Anexo I** (2013), salario base mensual: B01 «2.279,07 €», B02 «2.057,14 €», B03
+  «1.835,21 €», B04 «1.613,18 €», B05 «1.391,16 €»; total anual B01 «35.236,56 €» …
+  B05 «21.917,91 €»; incremento anual según la Ley de Presupuestos (DA 1ª y nota del
+  Anexo I), con el límite de masa salarial de la DA 9ª. Para 2026, la Ley 8/2025, art.
+  18.1: «la masa salarial del personal laboral al servicio del sector público andaluz
+  no experimentará crecimiento respecto de su cuantía a 31 de diciembre de 2025, sin
+  perjuicio de la aplicación de lo dispuesto en el artículo 12.2».
+
+### Capítulo IX. Acción sindical (arts. 55-62)
+
+- **Art. 55**: delegados de personal en centros de menos de 50 («De 6 a 30 […]: 1»;
+  «De 31 a 49 […]: 3»), con «28 horas» de licencia al mes.
+- **Art. 56**: comité de empresa de «5 miembros» (50-100), «9» (100-250), «13»
+  (251-500); crédito de «30 horas/mes» (50-250) o «45 horas/mes» (251 en adelante),
+  acumulable «en cómputo anual por candidatura»; no computan las reuniones convocadas
+  por la empresa ni la negociación del convenio.
+- **Art. 57**: competencias del comité (información trimestral y anual, modelos de
+  contrato, vigilancia, capacidad procesal «por decisión mayoritaria»); reunión
+  trimestral sobre contrataciones civiles.
+- **Art. 58, Comité Intercentros**: al amparo del «artículo 63.3» del ET de 1995;
+  sede en San Juan de Aznalfarache; «máximo de trece miembros», procurando «cinco» de
+  Sevilla, «dos» de Málaga y «seis» de Almería, Cádiz, Córdoba, Granada, Huelva y
+  Jaén; competencia exclusiva en lo que afecte a más de un centro.
+- **Art. 60**: sección sindical con garantías si obtiene el «15%» de los votos (centros
+  de 50 a 100) o el «10%» (101 en adelante).
+- **Art. 61**: un delegado sindical por sección; «30 horas/mes» o «45 horas/mes».
+- **Art. 62, asambleas**: dentro de la jornada «hasta un máximo de ocho horas
+  anuales»; a petición del «30%» de la plantilla del centro; preaviso de «48 horas»,
+  reducible a «24 horas».
+
+### Capítulo X. Régimen disciplinario (arts. 63-72)
+
+- **Art. 63**: no es indisciplina negarse a órdenes contrarias al convenio o al
+  ordenamiento; nadie puede ser despedido por toxicomanía «salvo que éstas repercutan
+  gravemente».
+- **Art. 64**: faltas «leves, graves y muy graves», según «importancia, trascendencia y
+  malicia».
+- **Art. 65**: **13 faltas leves** (p. ej. impuntualidad de más de diez y menos de
+  treinta minutos, o tres retrasos de menos de diez minutos «durante un período de dos
+  meses consecutivos»; no avisar la ausencia en las «dos primeras jornadas» ni mandar
+  el parte en «los ocho primeros días»; «Fumar en cualquier lugar o dependencia no
+  autorizada»).
+- **Art. 66**: **18 faltas graves** (entre ellas, «La reiteración o reincidencia en
+  tres faltas leves […] dentro del período de tres meses»; la falta de respeto «ante el
+  micrófono o en actos públicos»; no declarar una segunda actividad incompatible).
+- **Art. 67**: **20 faltas muy graves** (entre ellas, «La tercera falta grave en un
+  período de noventa días naturales»; la reiteración en falta grave sancionada «en un
+  período de seis meses»; acoso sexual y acoso moral, definidos).
+- **Art. 68, abuso de autoridad**: acto arbitrario de un jefe o de un trabajador de
+  grupo superior; la empresa «abrirá expediente».
+- **Art. 69, sanciones máximas**: leves, amonestación verbal, escrita o «Suspensión de
+  empleo y sueldo de un día»; graves, «de dos a veinte días»; muy graves, «de veintiuno
+  a sesenta días» o «Despido con pérdida de todos los derechos».
+- **Art. 70**: las suspensiones por faltas graves o muy graves no se cumplen si se
+  acredita haber demandado; se ejecutan tras la sentencia.
+- **Art. 71**: prescripción, «en los términos que establece el artículo 60.2 del
+  Estatuto de los Trabajadores» (ET 2015, art. 60.2, redacción única: leves «a los diez
+  días», graves «a los veinte días», muy graves «a los sesenta días» desde que la
+  empresa las conoce «y, en todo caso, a los seis meses de haberse cometido»).
+- **Art. 72, procedimiento**: pliego de cargos por escrito para graves y muy graves;
+  alegaciones en «cuatro días hábiles»; informe del Comité de Empresa o delegado en
+  «cinco días hábiles»; resolución de la Dirección.
+
+### Capítulo XI. Incompatibilidades y garantías procesales (arts. 73-74)
+
+- **Art. 73**: incompatible con cualquier actividad que menoscabe los deberes; no se
+  puede trabajar para proveedores de RTVA; incompatibilidad expresa con otras empresas
+  de radiodifusión, agencias, prensa, publicidad, electrónica profesional, cine,
+  discográficas y espectáculos, salvo colaboración esporádica autorizada por el
+  «Director/a Gerente de la RTVA, una vez oído el Comité de Empresa».
+- **Art. 74**: defensa jurídica, costas y fianzas a cargo de la empresa para el
+  personal procesado o demandado «por razón de su trabajo», «con derecho a libre
+  elección de abogado/a y procurador/a».
+
+### Disposiciones adicionales (lo que no se ha dicho antes)
+
+DA 2ª: desconexiones provinciales (cuatro operadores montadores de vídeo rotatorios
+con especial responsabilidad del «30%», no consolidable). DA 3ª: bonificación fiscal
+para hijos en edad de guardería. DA 4ª: no externalizar la gestión de la IT por
+contingencias comunes. DA 5ª: vigilancia de los convenios de las contratas; la
+contratación con empresas de trabajo temporal, «negociada». DA 6ª: secreto
+profesional, «cláusula de conciencia y derecho de autor». DA 7ª: la externalización
+no puede mermar «la plantilla estructural actual». DA 10ª: negociar planes de
+igualdad «Dentro de los 6 meses siguientes».

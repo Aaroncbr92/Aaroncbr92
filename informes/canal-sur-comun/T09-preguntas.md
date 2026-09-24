@@ -2,7 +2,7 @@
 
 Fase 4, lente de cobertura y forma (CICLO; manual, apartado 7). Quince preguntas tipo test
 de cuatro opciones, repartidas por toda la ley (exposición de motivos, capítulos I a VII y
-disposiciones), con seis de aplicación práctica a una radiotelevisión. Cada respuesta se ha
+disposiciones), con nueve de aplicación práctica a una radiotelevisión (de la 6 a la 14). Cada respuesta se ha
 comprobado en `fuentes/canal-sur/BOE-A-1995-24292.md` (volcado el 24-09-2026, redacción
 vigente, leída el 24-09-2026) y después se ha intentado contestar **solo con el cuerpo de**
 `temas/canal-sur-comun/09-ley-31-1995.md`.

@@ -367,3 +367,239 @@ a los responsables, encargados y a todas las personas que intervengan en cualqui
 tratamiento. Es complementario de los deberes de secreto profesional y se mantiene aun cuando haya
 finalizado la relación del obligado con el responsable o encargado.
 
+### Cuándo es lícito tratar datos
+
+**Artículo 6.1 del Reglamento.** El tratamiento «**solo será lícito si se cumple al menos una de
+las siguientes condiciones**»:
+
+- a) Consentimiento del interesado para uno o varios fines específicos.
+- b) Ejecución de un contrato en el que el interesado es parte, o medidas precontractuales a
+  petición suya.
+- c) Cumplimiento de una obligación legal aplicable al responsable.
+- d) Protección de intereses vitales del interesado o de otra persona física.
+- e) Misión en interés público o ejercicio de poderes públicos conferidos al responsable.
+- f) Interés legítimo del responsable o de un tercero, siempre que no prevalezcan los intereses o
+  los derechos y libertades fundamentales del interesado, en particular cuando sea un niño.
+
+Y una regla que conviene tener presente: la letra f) no se aplica al tratamiento realizado por las
+autoridades públicas en el ejercicio de sus funciones.
+
+**Artículo 6.4 del Reglamento.** Para decidir si un tratamiento con otro fin distinto es compatible
+con el original, cuando no hay consentimiento ni ley que lo ampare, el responsable tendrá en
+cuenta, entre otras cosas: la relación entre los fines, el contexto de la recogida, la naturaleza
+de los datos, las posibles consecuencias para los interesados y la existencia de garantías
+adecuadas, que pueden incluir el cifrado o la seudonimización.
+
+**El consentimiento (artículo 6 de la LOPDGDD).**
+
+1. Consentimiento es, conforme al artículo 4.11 del Reglamento, «**toda manifestación de voluntad
+   libre, específica, informada e inequívoca**» por la que el afectado acepta el tratamiento,
+   mediante una declaración o una clara acción afirmativa. Cuatro adjetivos y dos formas: no vale
+   el silencio, ni las casillas premarcadas, ni la inacción.
+2. Si se pretende fundar el tratamiento en el consentimiento para una pluralidad de finalidades,
+   ha de constar de manera específica e inequívoca que se otorga para todas ellas.
+3. No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento para
+   finalidades que no guarden relación con el mantenimiento, desarrollo o control de la relación
+   contractual.
+
+**El consentimiento de los menores: catorce años (artículo 7 de la LOPDGDD).**
+
+1. «**El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su
+   consentimiento cuando sea mayor de catorce años.**» Se exceptúan los supuestos en que la ley
+   exija la asistencia de los titulares de la patria potestad o tutela para celebrar el acto o
+   negocio jurídico en cuyo contexto se recaba el consentimiento.
+2. El tratamiento de los datos de los menores de catorce años fundado en el consentimiento «**solo
+   será lícito si consta el del titular de la patria potestad o tutela**», con el alcance que
+   estos determinen.
+
+**De dónde salen los catorce, y por qué no son dieciséis.** El artículo 8.1 del Reglamento fija la
+regla europea para la oferta directa a niños de servicios de la sociedad de la información: el
+tratamiento es lícito cuando el niño tenga como mínimo 16 años, y por debajo hace falta el
+consentimiento del titular de la patria potestad o tutela. Pero el mismo apartado añade: «**Los
+Estados miembros podrán establecer por ley una edad inferior a tales fines, siempre que esta no sea
+inferior a 13 años.**» España eligió catorce. Dieciséis es la regla del Reglamento, no la
+española; trece es el mínimo al que puede bajar un Estado.
+
+Dos reglas más que acompañan a esta:
+
+- Artículo 8.2 del Reglamento: el responsable hará esfuerzos razonables para verificar que el
+  consentimiento lo dio o autorizó el titular de la patria potestad o tutela, teniendo en cuenta
+  la tecnología disponible.
+- Artículo 12.6 de la LOPDGDD: los titulares de la patria potestad podrán ejercitar en nombre y
+  representación de los menores de catorce años los derechos de acceso, rectificación,
+  cancelación, oposición o cualesquiera otros.
+
+**Obligación legal, interés público y poderes públicos (artículo 8 de la LOPDGDD).** Cierra por
+dónde pueden entrar las letras c) y e) del artículo 6.1 del Reglamento:
+
+1. El tratamiento solo puede fundarse en el cumplimiento de una obligación legal cuando así lo
+   prevea una norma de Derecho de la Unión o una norma con rango de ley, que podrá determinar
+   condiciones generales, tipos de datos y cesiones, e imponer condiciones especiales de
+   seguridad.
+2. El tratamiento solo puede fundarse en una misión de interés público o en el ejercicio de
+   poderes públicos cuando derive de una competencia atribuida por una norma con rango de ley.
+
+**Categorías especiales y datos penales.** Artículo 9.1 del Reglamento, en la redacción de la
+corrección de errores de 2018: quedan prohibidos el tratamiento de datos personales que revelen
+el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas o la
+afiliación sindical, y el tratamiento de datos genéticos, datos biométricos dirigidos a
+identificar de manera unívoca a una persona física, datos relativos a la salud y datos relativos a
+la vida sexual o la orientación sexual.
+
+Artículo 9 de la LOPDGDD, que endurece la excepción del consentimiento:
+
+1. A efectos del artículo 9.2.a) del Reglamento, y «**a fin de evitar situaciones
+   discriminatorias**», el solo consentimiento del afectado no basta para levantar la prohibición
+   cuando la finalidad principal del tratamiento sea identificar su ideología, afiliación
+   sindical, religión, orientación sexual, creencias u origen racial o étnico. Eso no impide
+   tratarlos al amparo de los restantes supuestos del artículo 9.2 del Reglamento.
+2. Los tratamientos de las letras g), h) e i) del artículo 9.2 fundados en Derecho español deben
+   estar amparados en una norma con rango de ley.
+
+Artículo 10 de la LOPDGDD. Datos de naturaleza penal. El tratamiento de datos sobre condenas e
+infracciones penales, procedimientos y medidas cautelares y de seguridad conexas, para fines
+distintos de los de la LO 7/2021, solo puede llevarse a cabo cuando lo ampare una norma de Derecho
+de la Unión, esta ley orgánica u otra norma de rango legal. Fuera de ahí, solo son posibles cuando
+los lleven a cabo abogados y procuradores para recoger la información que les facilitan sus
+clientes.
+
+### Los derechos de las personas
+
+Título III de la LOPDGDD, artículos 11 a 18. Está dividido en dos capítulos, y la división
+importa.
+
+**Transparencia e información: un deber, no un derecho.** El capítulo I se titula «**Transparencia
+e información**» y tiene un solo artículo, el 11, que regula el deber de informar del responsable,
+no una facultad del afectado. El capítulo II se titula «**Ejercicio de los derechos**» y es el que
+enumera los derechos, del 12 al 18.
+
+Artículo 11. Permite cumplir el deber de información de los artículos 13 y 14 del Reglamento por
+capas: facilitando la información básica e indicando una dirección electrónica u otro medio que
+permita acceder de forma sencilla e inmediata al resto. La información básica debe contener al
+menos tres cosas cuando los datos se obtienen del afectado:
+
+- a) La identidad del responsable y de su representante, en su caso.
+- b) La finalidad del tratamiento.
+- c) La posibilidad de ejercer los derechos de los artículos 15 a 22 del Reglamento.
+
+Si los datos van a tratarse para elaborar perfiles, la información básica lo dirá, y el afectado
+será informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas del
+artículo 22 del Reglamento. Cuando los datos no se hayan obtenido del afectado, la información
+básica incluye además las categorías de datos objeto de tratamiento y las fuentes de las que
+proceden.
+
+**Cómo se ejercen los derechos (artículo 12 de la LOPDGDD).**
+
+1. Los derechos de los artículos 15 a 22 del Reglamento pueden ejercerse directamente o por medio
+   de representante legal o voluntario.
+2. El responsable está obligado a informar sobre los medios para ejercerlos; deben ser fácilmente
+   accesibles, y el ejercicio no puede denegarse por el solo motivo de que el afectado opte por
+   otro medio.
+3. El encargado puede tramitar las solicitudes por cuenta del responsable si así se establece en
+   el contrato que les vincule.
+4. La prueba del cumplimiento del deber de responder recae sobre el responsable.
+5. (Apartado 5: cuando las leyes aplicables a determinados tratamientos establezcan un régimen
+   especial que afecte al ejercicio de los derechos del capítulo III del Reglamento, se estará a
+   lo dispuesto en aquellas.)
+6. Los titulares de la patria potestad pueden ejercitar los derechos en nombre de los menores de
+   catorce años.
+7. Las actuaciones para atender esas solicitudes son gratuitas, sin perjuicio de los supuestos de
+   solicitud manifiestamente infundada o excesiva del artículo 12.5 del Reglamento y de los
+   apartados 3 y 4 del artículo 13 de la ley.
+
+Plazo de respuesta (artículo 12.3 del Reglamento, en la redacción de la corrección de errores de
+2021): el responsable facilitará la información sin dilación indebida y, en cualquier caso, en el
+plazo de un mes desde la recepción de la solicitud. Prorrogable otros dos meses por la complejidad
+o el número de solicitudes, informando de la prórroga dentro del primer mes y con los motivos. Si
+no da curso a la solicitud, informará a más tardar en un mes de las razones y de la posibilidad de
+reclamar ante una autoridad de control y de ejercitar acciones judiciales.
+
+**Los seis derechos, uno a uno.**
+
+| Derecho | LOPDGDD | Reglamento | Contenido |
+|---|---|---|---|
+| Acceso | Art. 13 | Art. 15 | Obtener confirmación de si se tratan datos suyos y, en tal caso, acceso a los datos y a la información del art. 15.1 |
+| Rectificación | Art. 14 | Art. 16 | Obtener sin dilación indebida la rectificación de datos inexactos y que se completen los incompletos, incluso mediante una declaración adicional |
+| Supresión | Art. 15 | Art. 17 | El «derecho al olvido»: obtener la supresión cuando concurra alguna de seis circunstancias |
+| Limitación del tratamiento | Art. 16 | Art. 18 | Que los datos solo se conserven, en cuatro supuestos |
+| Portabilidad | Art. 17 | Art. 20 | Recibir los datos en formato estructurado, de uso común y lectura mecánica y transmitirlos a otro responsable |
+| Oposición | Art. 18 | Arts. 21 y 22 | Oponerse al tratamiento, y los derechos frente a las decisiones individuales automatizadas |
+
+Derecho de acceso (artículo 13 de la LOPDGDD). Añade cuatro reglas propias:
+
+1. Si el responsable trata una gran cantidad de datos y el afectado no especifica a cuáles se
+   refiere, puede pedirle que lo concrete antes de facilitar la información.
+2. El derecho se entiende otorgado si el responsable facilita un sistema de acceso remoto, directo
+   y seguro que garantice de modo permanente el acceso a la totalidad de los datos: basta
+   comunicar cómo acceder para tener por atendida la solicitud. No obstante, el interesado puede
+   pedir la información del artículo 15.1 del Reglamento que no esté en ese sistema.
+3. Puede considerarse repetitivo el ejercicio del derecho más de una vez en seis meses, salvo
+   causa legítima.
+4. Si el afectado elige un medio distinto al ofrecido que suponga un coste desproporcionado, la
+   solicitud se considera excesiva y él asume el exceso de costes.
+
+Derecho de supresión (artículo 17 del Reglamento). Procede cuando: a) los datos ya no sean
+necesarios para los fines; b) el interesado retire el consentimiento y no haya otro fundamento;
+c) se oponga conforme al artículo 21; d) hayan sido tratados ilícitamente; e) deban suprimirse por
+obligación legal; f) se hayan obtenido en relación con la oferta de servicios de la sociedad de la
+información a niños (art. 8.1). No se aplica (17.3) cuando el tratamiento sea necesario para la
+libertad de expresión e información, una obligación legal o misión de interés público, salud
+pública, fines de archivo, investigación o estadísticos, o la formulación, ejercicio o defensa de
+reclamaciones. La primera de esas excepciones es la que importa a un medio de comunicación y se
+desarrolla en la tercera rúbrica.
+
+Y añade la regla de la propagación (17.2): si el responsable hizo públicos los datos, adoptará
+medidas razonables, incluidas medidas técnicas, para informar a los demás responsables de la
+solicitud de suprimir «**cualquier enlace a esos datos personales, o cualquier copia o réplica de
+los mismos**».
+
+El artículo 15.2 de la LOPDGDD completa: cuando la supresión venga del derecho de oposición a la
+mercadotecnia directa, el responsable puede conservar los datos identificativos necesarios para
+impedir tratamientos futuros con ese fin.
+
+Derecho a la limitación (artículo 18 del Reglamento, apartado 1.a) en la redacción de la
+corrección de 2021). Cuatro supuestos: a) el interesado impugne la exactitud, durante un plazo que
+permita al responsable verificarla; b) el tratamiento sea ilícito y el interesado se oponga a la
+supresión y pida la limitación; c) el responsable ya no necesite los datos pero el interesado los
+necesite para reclamaciones; d) el interesado se haya opuesto en virtud del artículo 21.1 mientras
+se verifica si prevalecen los motivos legítimos del responsable. Limitados, los datos solo pueden
+tratarse (salvo conservarlos) con consentimiento, para reclamaciones, para proteger los derechos
+de otra persona o por razones de interés público importante. Y el artículo 16.2 de la LOPDGDD
+exige que la limitación conste claramente en los sistemas de información del responsable.
+
+Derecho a la portabilidad (artículo 20 del Reglamento). Solo procede cuando concurren dos
+condiciones a la vez: que el tratamiento esté basado en el consentimiento o en un contrato, y que
+se efectúe por medios automatizados. El interesado tiene derecho a que los datos se transmitan
+directamente de responsable a responsable cuando sea técnicamente posible. No se aplica al
+tratamiento necesario para una misión de interés público o el ejercicio de poderes públicos, y no
+afectará negativamente a los derechos y libertades de otros.
+
+Derecho de oposición (artículo 21 del Reglamento). Dos regímenes distintos:
+
+- 21.1: contra tratamientos basados en el interés público o el interés legítimo (letras e) y f) del
+  artículo 6.1), por motivos relacionados con su situación particular. El responsable dejará de
+  tratar los datos salvo que acredite motivos legítimos imperiosos que prevalezcan, o para
+  reclamaciones.
+- 21.2 y 21.3: contra la mercadotecnia directa, en todo momento; y cuando el interesado se oponga,
+  los datos dejarán de ser tratados para ese fin. Sin excepciones.
+
+Y una obligación de forma (21.4): el derecho se mencionará explícitamente al interesado a más
+tardar en el momento de la primera comunicación, presentado claramente y al margen de cualquier
+otra información.
+
+Obligación de notificación (artículo 19 del Reglamento). El responsable comunicará toda
+rectificación, supresión o limitación a cada uno de los destinatarios a los que haya comunicado
+los datos, salvo que sea imposible o exija un esfuerzo desproporcionado, e informará al interesado
+de esos destinatarios si lo solicita.
+
+**Decisiones automatizadas y elaboración de perfiles (artículo 22 del Reglamento).** El interesado
+tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado,
+incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte
+significativamente de modo similar. No se aplica si la decisión: a) es necesaria para celebrar o
+ejecutar un contrato; b) está autorizada por el Derecho de la Unión o de un Estado miembro con
+medidas de salvaguarda; o c) se basa en el consentimiento explícito. En los casos a) y c), el
+responsable adoptará medidas de salvaguarda y como mínimo el derecho del interesado a obtener
+intervención humana, a expresar su punto de vista y a impugnar la decisión. Y esas decisiones no se
+basarán en categorías especiales de datos salvo consentimiento explícito o interés público
+esencial, con salvaguardas.
+
