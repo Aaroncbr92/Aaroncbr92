@@ -8,3 +8,4 @@ Guardado además: estructura, erratas y Reglamento de la Mesa.
 Guardado además: Articulado, capítulos 1.º a 5.º.
 Guardado además: Articulado, capítulos 6.º y 7.º.
 Guardado además: Articulado, capítulos 8.º a 11.º.
+Guardado además: Cuadro de licencias (literal art. 33, DT 3.ª y cuadro-resumen).

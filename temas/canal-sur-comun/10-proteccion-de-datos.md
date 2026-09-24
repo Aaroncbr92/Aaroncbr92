@@ -1540,9 +1540,9 @@ distingue de la LOPDGDD (un año, dos y tres). Los artículos 58 y 63 tienen una
   tratamientos al Reglamento, a la LOPDGDD, a la LO 7/2021 y al propio título.
 - Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio
   electrónico, artículo 22.2 (dispositivos de almacenamiento y recuperación de datos en los equipos
-  terminales de los usuarios): los prestadores podrán utilizarlos «**a condición de que los mismos
-  hayan dado su consentimiento después de que se les haya facilitado información clara y completa
-  sobre su utilización**». No se aplica al almacenamiento técnico necesario para transmitir una
+  terminales de los usuarios): los prestadores podrán utilizarlos siempre que los destinatarios
+  «**hayan dado su consentimiento después de que se les haya facilitado información clara y
+  completa sobre su utilización**». No se aplica al almacenamiento técnico necesario para transmitir una
   comunicación o para prestar un servicio expresamente solicitado. Su redacción vigente es de 11 de
   mayo de 2014, y todavía remite a la «Ley Orgánica 15/1999», derogada; se cita tal cual.
 - Ley 19/2013, de transparencia: enlazada por la disposición adicional segunda de la LOPDGDD
@@ -1580,7 +1580,7 @@ los datos personales con la libertad de expresión e información**»:
 | IX | Disposiciones relativas a situaciones específicas de tratamiento |
 
 Quedan fuera el capítulo I (disposiciones generales), el VIII (recursos, responsabilidad y
-sanciones), el X y el XI. Dos matices de modo verbal: el 85.1 y el 85.2 están en futuro imperativo
+sanciones), el X y el XI. Un matiz de modo verbal: el 85.1 y el 85.2 están en futuro imperativo
 («conciliarán», «establecerán»), pero las excepciones solo proceden «si son necesarias».
 
 *Artículo 85.3.* Cada Estado miembro «**notificará a la Comisión**» las disposiciones legislativas
@@ -1589,7 +1589,8 @@ que adopte conforme al apartado 2 y, sin dilación, cualquier modificación post
 *Considerando 153*, que es el que nombra expresamente al sector. Tras decir que el tratamiento
 con fines «**exclusivamente periodísticos**» o de expresión académica, artística o literaria debe
 estar sujeto a excepciones o exenciones si así se requiere para conciliar la protección de datos
-con la libertad de expresión e información «**consagrado en el artículo 11 de la Carta**», añade:
+con «**el derecho a la libertad de expresión y de información consagrado en el artículo 11 de la
+Carta**», añade:
 
 > «**Esto debe aplicarse en particular al tratamiento de datos personales en el ámbito audiovisual
 > y en los archivos de noticias y hemerotecas.**»
@@ -1604,11 +1605,11 @@ periodísticos y el artículo 85.2 no lleva ese adverbio.
 desarrolle el artículo 85 del Reglamento: las palabras «periodístico», «libertad de información» y
 «audiovisual» no aparecen en ella, y la expresión «libertad de expresión» solo aparece en el
 artículo 85 de la propia ley, referida a Internet. Lo que hay en la LOPDGDD para los medios de
-comunicación son los artículos 85 y 86, que se ven más abajo. El resto de la conciliación la hacen
-el propio Reglamento (artículo 17.3) y las leyes de protección del honor, de rectificación y
-audiovisual.
+comunicación son los artículos 85 y 86, que se ven más abajo. Para el resto hay que acudir al
+propio Reglamento (artículo 17.3) y a las leyes de protección del honor, de rectificación y
+audiovisual, que se ven a continuación.
 
-*Artículo 86 del Reglamento.* Permite que los datos de documentos oficiales en poder de una
+*Artículo 86 del Reglamento.* Dispone que los datos de documentos oficiales en poder de una
 autoridad pública u organismo público, o de una entidad privada para una misión de interés
 público, «**podrán ser comunicados**» por ellos conforme al Derecho de la Unión o de los Estados
 miembros, para conciliar el acceso del público a documentos oficiales con la protección de datos.
@@ -1660,9 +1661,10 @@ originales se refieran a actuaciones policiales o judiciales que se hayan visto 
 beneficio del interesado como consecuencia de decisiones judiciales posteriores; en ese caso, «**el
 aviso hará referencia a la decisión posterior**».
 
-La diferencia entre los dos: en el 85, el medio atiende una rectificación (la información era
-inexacta); en el 86, la información era correcta cuando se publicó y lo que cambió fueron los
-hechos posteriores. En ninguno de los dos se borra la noticia: se añade un aviso junto a ella.
+La diferencia entre los dos: en el 85, el medio atiende una solicitud de rectificación (la Ley
+Orgánica 2/1984 habla de hechos que el aludido considere «inexactos»); en el 86, lo que cambió
+fueron circunstancias posteriores a la publicación. Lo que los dos preceptos exigen es un aviso
+junto a la noticia, no su supresión.
 
 La Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación, a la que
 remite el artículo 85.2 (una sola redacción en los artículos que siguen):
@@ -1784,8 +1786,8 @@ servicio de comunicación audiovisual televisivo:
    comportamiento**». En todo caso, el tratamiento de datos de menores queda sometido al artículo
    8 del Reglamento y al artículo 7 de la LOPDGDD.
 
-El artículo 83.1 extiende el artículo 95 a la radio: el servicio de comunicación audiovisual
-radiofónico y el sonoro a petición «**se realizará de conformidad con lo establecido en el
+El artículo 83.1 extiende el artículo 95 a la radio: la prestación del servicio de comunicación
+audiovisual radiofónico y del sonoro a petición «**se realizará de conformidad con lo establecido en el
 artículo 95**».
 
 *Ley 13/2022, artículo 96. Códigos de conducta en informativos.* La autoridad audiovisual
@@ -1944,7 +1946,7 @@ diario:
 | Control del correo o del ordenador de un trabajador | Solo para controlar las obligaciones laborales y garantizar la integridad del dispositivo, con criterios de utilización en cuya elaboración participan los representantes y de los que se informa (art. 87) |
 | Geolocalizar un vehículo o un equipo | Información previa, expresa, clara e inequívoca, incluida la de los derechos de acceso, rectificación, limitación y supresión (art. 90) |
 | Escribir a un compañero fuera de su jornada | Choca con el derecho a la desconexión digital (art. 88), cuyas modalidades fija la negociación colectiva |
-| Contratar una productora externa que trate datos | Es encargada del tratamiento: hace falta contrato u otro acto jurídico escrito con el contenido del artículo 28.3 del Reglamento, y encargarlo sin él es infracción grave (art. 73.k LOPDGDD) |
+| Contratar una productora externa que trate datos por cuenta de la cadena | Es encargada del tratamiento: hace falta contrato u otro acto jurídico escrito con el contenido del artículo 28.3 del Reglamento, y encargarlo sin él es infracción grave (art. 73.k LOPDGDD) |
 | Enviar material con datos personales a un país fuera de la Unión | Transferencia internacional: exige decisión de adecuación, garantías del artículo 46.2 o autorización previa de la autoridad (arts. 40 a 42 LOPDGDD) |
 | Perder un disco o sufrir un acceso no autorizado | Violación de seguridad: notificación a la autoridad en 72 horas salvo que sea improbable el riesgo, y comunicación al afectado si el riesgo es alto (arts. 33 y 34 del Reglamento) |
 | Una petición de acceso o de supresión | Respuesta en un mes, prorrogable dos más; gratuita; y la prueba de haber respondido recae en el responsable (art. 12 LOPDGDD y 12.3 del Reglamento) |

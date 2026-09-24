@@ -1205,3 +1205,285 @@ La empresa garantiza al personal querellado, detenido, encausado, procesado o de
 «**por razón de su trabajo**» la defensa jurídica, la representación procesal, las costas y las
 fianzas, «**con derecho a libre elección de abogado/a y procurador/a**».
 
+## Cuadro de licencias y permisos
+
+### El convenio no contiene ningún cuadro con ese nombre
+
+En el texto publicado no hay ningún «cuadro de licencias y permisos», ni en el articulado ni en los
+anexos. La palabra «cuadro» aparece tres veces y ninguna con este sentido: en la DT 5.ª («**el
+cuadro que figura en el Anexo I**», que es la tabla de antigüedad) y en dos fichas de puestos del
+Anexo III («cuadro de luminotecnia» y «cuadro de imagen»). Ningún anexo trata de permisos.
+
+La regulación está en el **artículo 33**, «**Licencias, permisos, reducciones de jornada y
+facilidades para estudios**», y la modifica la **disposición transitoria tercera**. Por eso este
+epígrafe transcribe literalmente los dos textos y después los ordena en un cuadro-resumen propio.
+Las materias vecinas que no están en el artículo 33 van al final del cuadro con su artículo:
+vacaciones (art. 13 y DT 2.ª), excedencias (art. 32) y crédito horario de los representantes
+(arts. 55, 56, 61 y DT 9.ª).
+
+### Artículo 33, texto literal
+
+Transcripción literal del BOJA núm. 240, de 10 de diciembre de 2014, páginas 64 a 68. Se quitan las
+cabeceras y pies de página del boletín y se reconstruyen los párrafos; el texto va letra por letra,
+con sus erratas, salvo los cortes de palabra de fin de línea («trabajador/ a»), que se unen.
+
+> Artículo 33. Licencias, permisos, reducciones de jornada y facilidades para estudios.
+>
+> A. Permisos y ausencias retribuidas.
+>
+> Apartado 1. La Agencia Pública Empresarial de la Radio Televisión de Andalucía y sus Sociedades Filiales concederá, de acuerdo con lo establecido en la vigente normativa laboral, las siguientes licencias:
+>
+> a) 20 días naturales en caso de matrimonio del/la trabajador/a.
+>
+> b) 3 días naturales, a partir del hecho causante, en los casos de nacimiento, adopción de hijo/a y enfermedad grave u hospitalización que demande ayuda inminente por parte del/la trabajador/a o fallecimiento de parientes hasta el segundo grado de consanguinidad o afinidad. Cuando, por tales motivos, el/la trabajador/a necesitase hacer un desplazamiento al efecto, el plazo será de 5 días. Este permiso será flexible y podrá disfrutarse justamente después del hecho causante o de manera no consecutiva en los veinte días posteriores al hecho, comunicándose a la empresa la planificación de los mismos para facilitar la organización del trabajo. En los casos de nacimiento de hijos/as prematuros/as o en los que, por cualquier motivo, éstos/as tengan que permanecer hospitalizados/as después del parto y mientras dure esta situación, el/la trabajador/a tendrá derecho a ausentarse del lugar de trabajo hasta un máximo de 2 horas diarias, percibiendo las retribuciones íntegras. En dichos supuestos, el permiso de maternidad puede computarse, a instancia de la madre o, en caso de que ella falte, del padre, a partir de la fecha del alta hospitalaria. Se excluyen de este cómputo las primeras seis semanas posteriores al parto, de descanso obligatorio para la madre.
+>
+> c) 2 días por traslado de domicilio habitual, y tres por traslado de Centro de Trabajo. Sólo se podrá hacer uso de esta licencia una vez durante el año natural.
+>
+> d) Por el tiempo indispensable, para el cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral. Se entiende como deber inexcusable de carácter público o personal la obligación que incumbe a una persona cuyo incumplimiento le genera una responsabilidad de índole penal, civil o administrativa. Se entiende por deber de carácter público inexcusable, a título de ejemplo, las citaciones efectuadas por Autoridades, asistencias a Tribunales, asistencia a Plenos por parte de personal electo, así como cualquier otra de análoga naturaleza.
+>
+> e) Un día en los casos de matrimonio de hijos/as, hermanos/as o padres/madres y dos días en caso de que el matrimonio tenga lugar en otra provincia no limítrofe a la del Centro de Trabajo.
+>
+> f) Para realizar funciones sindicales o de representación del personal en los términos establecidos en el presente Convenio Colectivo.
+>
+> g) Por lactancia de un/a hijo/a menor de doce meses, los/as trabajadores/as tendrán derecho a una hora de ausencia al trabajo, la cual podrán dividir en dos fracciones. En caso de parto múltiple el trabajador o trabajadora tendrá derecho a dos horas diarias de ausencia al trabajo por cada hijo/a en concepto de lactancia de hijos/as menores de doce meses. En caso de que los dos convivientes trabajen en la Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales sólo uno podrá hacer uso de este derecho.
+>
+> Se establece la posibilidad de sustituir, por decisión de la madre, el permiso de lactancia de los/las hijos/as menores de doce meses por un permiso que acumule en jornadas completas el tiempo correspondiente. Dicho permiso se incrementará proporcionalmente en los casos de parto múltiple.
+>
+> h) En los supuestos de adopción, nacimiento y acogimiento, tanto preadoptivo como permanente, de menores de hasta seis años la suspensión tendrá una duración de dieciséis semanas ininterrumpidas, ampliables en el supuesto de adopción o acogimiento múltiple en dos semanas más por cada hijo/a a partir del segundo, contadas a la elección del/la trabajador/a, bien a partir de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituye la adopción. La duración será asimismo, de dieciséis semanas en los supuestos de adopción o acogimiento de menores, mayores de seis años de edad, cuando se trate de menores con capacidades diferenciadas o que por sus circunstancias y experiencias personales o que por provenir del extranjero, tengan especiales dificultades de inserción social y familiar debidamente acreditadas por los servicios sociales competentes. En caso de que la madre y el padre trabajen, el período de suspensión se distribuirá a opción de los/as interesados/as, que podrán disfrutarlos de forma simultánea o sucesiva, siempre con períodos ininterrumpidos y con los límites señalados.
+>
+> En el supuesto de parto, adopción, acogimiento preadoptivo o permanente, una vez agotado el permiso por maternidad o adopción y a continuación del mismo, el personal incluido en el ámbito de aplicación de este convenio tendrá derecho a un permiso retribuido de cuatro semanas adicionales. Este permiso sólo podrá disfrutarse por un progenitor cuando el otro trabaje. En el caso de que ambos sean titulares del permiso, únicamente uno de ellos podrá disfrutar del mismo.
+>
+> En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las veinte semanas previstas anteriormente en el caso de nacimiento o adopción o de las que correspondan en caso de adopción, nacimiento o acogimiento múltiple.
+>
+> Los períodos a que se refiere este epígrafe podrán disfrutarse en régimen de jornada completa o a tiempo parcial, previo acuerdo entre la empresa y los/las trabajadores/as afectados/as, en los términos que legalmente se determinen.
+>
+> Durante el disfrute de este permiso se podrá participar en los cursos de formación que convoque la empresa no computándose ese tiempo en el tiempo de permiso.
+>
+> En caso de fallecimiento de la madre durante el permiso, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.
+>
+> i) Se establece la concesión de 15 días consecutivos de permiso por nacimiento, acogimiento o adopción de un/a hijo/a, a disfrutar por el padre o por el otro progenitor, a partir de la fecha del nacimiento, de la decisión administrativa judicial de acogimiento o de la resolución judicial por la que se constituya la adopción. Este permiso es independiente del disfrute de los permisos contemplados en el apartado «h».
+>
+> En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del/la adoptado/a, el período de suspensión, previsto para cada caso en este epígrafe, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.
+>
+> Se podrá disfrutar de un permiso de hasta dos meses de duración, percibiendo durante este período exclusivamente las retribuciones básicas (salario base y antigüedad), en los supuestos de adopción internacional cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado.
+>
+> Se establece el derecho de las madres y de los padres a acumular el período de disfrute de vacaciones al permiso de maternidad, lactancia y paternidad, aún habiendo expirado ya el año natural a que tal período corresponda.
+>
+> Los/Las trabajadores/as de RTVA y SS.FF. que tengan hijos/as con discapacidad psíquica, física o sensorial tendrán derecho a ausentarse del trabajo por el tiempo indispensable, previa justificación al efecto, para asistir durante su jornada de trabajo a reuniones de coordinación de su centro de educación especial, donde reciba tratamiento o para acompañarlo si ha de recibir apoyo adicional en el ámbito sanitario.
+>
+> j) Para concurrir a exámenes y demás pruebas de aptitud, durante los días de su celebración. La Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales concederá los permisos necesarios, por el tiempo máximo de doce días al año, a los/las trabajadores/as que, inscritos/as en cursos organizados en centros oficiales reconocidos por el Ministerio de Educación, y Consejería de Educación, para la obtención de un título académico oficial, tengan que concurrir a exámenes. Dicha licencia retribuida se otorgará igualmente a los/as trabajadores/as que concurran a exámenes convocados por la Empresa. La Empresa, en todo caso, exigirá los oportunos justificantes acreditativos del disfrute efectivo por el/la trabajador/a de este derecho.
+>
+> k) Para la realización de exámenes prenatales y técnicas de preparación al parto.
+>
+> l) Por ser preciso atender el cuidado de un familiar de primer grado, el/la trabajador/a tendrá derecho a solicitar una reducción de hasta el cincuenta por ciento de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes.
+>
+> m) Permiso por razón de violencia de género sobre la mujer trabajadora: las faltas de asistencia de las trabajadoras víctimas de violencia de género, totales o parciales, tendrán la consideración de justificadas por el tiempo y en las condiciones en que así lo determinen los servicios sociales de atención o de salud según proceda.
+>
+> Asimismo, las trabajadoras víctimas de violencia sobre la mujer, para hacer efectiva su protección o su derecho de asistencia social integral, tendrán derecho a la reducción de la jornada con disminución proporcional de la retribución, o la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que sean aplicables.
+>
+> n) Permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave: el/la trabajador/a tendrá derecho, siempre que ambos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente trabajen, a una reducción de la jornada de trabajo de al menos la mitad de la duración de aquélla, percibiendo las retribuciones íntegras con cargo a los presupuestos del órgano o entidad donde venga prestando sus servicios, para el cuidado, durante la hospitalización y tratamiento continuado, del hijo menor de edad afectado por cáncer (tumores malignos, melanomas o carcinomas) o por cualquier otra enfermedad grave que implique un ingreso hospitalario de larga duración y requiera la necesidad de su cuidado directo, continuo y permanente acreditado por el informe del servicio Público de Salud u órgano administrativo sanitario de la Comunidad Autónoma o, en su caso, de la entidad sanitaria concertada correspondiente y, como máximo, hasta que el menor cumpla los 18 años.
+>
+> Cuando concurran en ambos progenitores, adoptantes o acogedores de carácter preadoptivo o permanente, por el mismo sujeto y hecho causante, las circunstancias necesarias para tener derecho a este permiso o, en su caso, puedan tener la condición de beneficiarios de la prestación establecida para este fin en el Régimen de la Seguridad Social que les sea de aplicación, el/la trabajador/a tendrá derecho a la percepción de las retribuciones íntegras durante el tiempo que dure la reducción de su jornada de trabajo, siempre que el otro progenitor, adoptante o acogedor de carácter preadoptivo o permanente, sin perjuicio del derecho a la reducción de jornada que le corresponda, no cobre sus retribuciones íntegras en virtud de este permiso o como beneficiario de la prestación establecida para este fin en el Régimen de la Seguridad Social que le sea de aplicación. En caso contrario, sólo se tendrá derecho a la reducción de jornada, con la consiguiente reducción de retribuciones. Asimismo, en el supuesto de que ambos presten servicios en el mismo órgano o entidad, ésta podrá limitar su ejercicio simultáneo por razones fundadas en el correcto funcionamiento del servicio.
+>
+> Durante la vigencia del presente Convenio, la COMVI procederá a elaborar un reglamento que regule el procedimiento y concrete las condiciones y supuestos en los que esta reducción de jornada se podrá acumular en jornadas completas.
+>
+> Apartado 2. El/La trabajador/a habrá de solicitar la correspondiente licencia a la Dirección de Organización, RR.HH. y Servicios Generales en los siguientes plazos:
+>
+> - Letra a) 15 días de antelación.
+>
+> - Letra b) Tan pronto como suceda el hecho.
+>
+> - Letra c) 15 días de antelación.
+>
+> - Letra d) 15 días de antelación o con la misma fecha en que ha sido objeto de citación el/la trabajador/a.
+>
+> - Letra e) 15 días de antelación.
+>
+> - Letra f) La comunicación se efectuará con 48 horas de antelación, o desde que se tenga conocimiento del hecho.
+>
+> - Letra g) 15 días de antelación.
+>
+> - Letra h) 15 días de antelación o tan pronto sea conocido el hecho.
+>
+> - Letras i y j) tan pronto sea conocido el hecho.
+>
+> - Letra k), La comunicación se efectuará con 48 horas de antelación, o desde que se tenga conocimiento del hecho
+>
+> - Letra l), 7 días de antelación
+>
+> - Letra m), Para las faltas de asistencia se estará a lo determinado por los servicios sociales o de salud.
+>
+> - Letra n), Desde que se acrediten las circunstancias especificadas en dicho apartado para tener derecho a la reducción de jornada señalada en el mismo.
+>
+> Apartado 3. El/La trabajador/a deberá presentar justificación suficiente del motivo alegado para la solicitud del permiso o licencia concedido o a conceder. En los supuestos de reducción de jornada el personal deberá preavisar a la Dirección de Organización, RR.HH. y SS.GG. con quince días de antelación la fecha en la que se reincorporará a su jornada ordinaria
+>
+> B) Permiso retribuido para asuntos propios.
+>
+> Apartado 1. Todo/a trabajador/a tendrá derecho a un día de permiso retribuido por año de servicio prestado independientemente del período de vacaciones establecido con carácter general.
+>
+> Apartado 2. El máximo de días por este concepto no podrá exceder de seis anuales, con las siguientes excepciones:
+>
+> 1. Las/os trabajadoras/es que tengan una antigüedad superior a los diez años podrán disfrutar de un día de permiso retribuido adicional
+>
+> 2. Las/os trabajadoras/es con una antigüedad superior a los quince años podrán disfrutar de un octavo día de permiso retribuido.
+>
+> Apartado 3. El período de disfrute coincidirá con el año natural del nacimiento del derecho. Transcurrido el mismo sin haberse solicitado caducará este derecho. El disfrute no podrá acumularse a ningún período de vacaciones. No obstante podrá unirse si las necesidades del servicio lo permiten, previo consentimiento de la Empresa.
+>
+> Apartado 4. La fecha de disfrute se fijará de común acuerdo con la Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales.
+>
+> Apartado 5. En el caso de que por necesidades del servicio no se puedan disfrutar los días de asuntos propios en el año natural del nacimiento del derecho, se podrán disfrutar dos días de asuntos propios en el primer mes del año siguiente, previo acuerdo con la Empresa.
+>
+> C) Turno más favorable.
+>
+> Apartado 1. La Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales adscribirá al/la trabajador/a al turno más favorable para facilitar el cumplimiento de las obligaciones académicas oficiales, de acuerdo con las disposiciones legales de carácter general. Cuando concurran varios/as trabajadores/as de igual puesto de trabajo y especialidad solicitando un permiso de estas características, será concedido por la Empresa de acuerdo con la representación de los/las trabajadores/as, teniendo en cuenta los siguientes criterios:
+>
+> - Antigüedad.
+>
+> - Aprovechamiento académico.
+>
+> - Orden de solicitud.
+>
+> Apartado 2. La Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales podrá adscribir al/la trabajador/a a un turno más favorable, por causa de embarazo, para la asistencia a exámenes prenatales y técnicas de preparación al parto.
+>
+> Apartado 3. Igualmente la empresa facilitará el cambio de puesto de trabajo, o en su caso, funciones de aquellas trabajadoras que, por su estado de gestación puedan estar sometidas a riesgos.
+>
+> Apartado 4. La Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales podrá adscribir al/la trabajador/a a un turno más favorable al objeto de que presten cuidados a familiares enfermos que convivan con el/la trabajador/a, necesiten asistencia permanente y no tengan otros medios de auxilio.
+>
+> Apartado 5. Se podrán beneficiar de un turno más favorable por cuidado de un/a hijo/a menor de seis años de edad, aquellos/as trabajadores/as que así lo soliciten.
+>
+> Apartado 6. Durante la vigencia del presente Convenio, la COMVI procederá a elaborar un reglamento que regule el procedimiento y determine los criterios de valoración de las circunstancias subjetivas y objetivas concurrentes en la solicitud de los turnos más favorables que se establecen en el presente convenio colectivo
+>
+> D) Reducciones de jornada.
+>
+> Apartado 1. Reducción de jornada no retribuida para el perfeccionamiento profesional.
+>
+> La reducción de jornada para la asistencia a cursos de formación profesional específicos, de acuerdo con las disposiciones legales de carácter general, se efectuará con arreglo a las siguientes condiciones y procedimiento, y siempre que se cumplan los siguientes requisitos:
+>
+> - Que el/la trabajador/a haya superado el período de prueba.
+>
+> - Que esté inscrito en un curso de Formación Profesional de un Centro Oficial, Sindical o registrado en el Ministerio de Trabajo.
+>
+> - Que el curso sea específico para la actualización o perfeccionamiento de los conocimientos de la profesión que ejerce en la Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales.
+>
+> - En todo caso la reducción de la jornada será del 50%.
+>
+> - Que se comunique a la comisión de formación
+>
+> Apartado 2. Reducción de jornada por guarda legal.
+>
+> Quien por razones de guarda legal tenga a su cuidado directo algún/a menor de doce años o a un/a disminuido/a físico/a, psíquico/a o sensorial que no desempeñe otra actividad retribuida, tendrá derecho a una reducción de la jornada de trabajo diaria, con la disminución proporcional del salario entre, al menos, un octavo y un máximo de la mitad de la duración de aquélla.
+>
+> Tendrá el mismo derecho quien precise encargarse del cuidado directo de un familiar, hasta el segundo grado de consanguinidad o afinidad, que por razones de edad, accidente o enfermedad no pueda valerse por sí mismo, y que no desempeñe actividad retribuida.
+>
+> La reducción de jornada contemplada en este apartado constituye un derecho individual de los/las trabajadores/as. No obstante, si dos o más trabajadores/as de RTVA y SS.FF. generasen este derecho por el mismo hecho causante, la empresa podrá limitar su ejercicio simultáneo por razones justificadas de funcionamiento de la empresa.
+>
+> Apartado 3. Los permisos, turnos más favorables y reducciones de jornada concedidos en razón de estudios, promoción y formación profesional, deberán acreditarse mediante el pertinente certificado. Los turnos más favorables y reducciones de jornada podrán ser anulados en caso de falta de aprovechamiento, debiendo este ser acreditado debidamente. Durante la vigencia del presente Convenio, la COMVI procederá a elaborar un reglamento que regule el procedimiento y concrete tales circunstancias.
+>
+> Apartado 4. Los/Las trabajadores/as afectados/as por este Convenio tendrán derecho a una reducción de la jornada del 50%, por un período mínimo de treinta días, con la correspondiente reducción proporcional de sus retribuciones, siempre que la solicitud correspondiente no sea incardinable en alguno de los supuestos de reducción de jornada o licencias no retribuidas establecidos en el presente Convenio Colectivo.
+>
+> E) Licencias o permisos no retribuidos.
+>
+> En caso extraordinario debidamente acreditado, se concederán licencias por el tiempo que sea preciso sin percibo de haberes, con el consentimiento de la Agencia Pública Empresarial de la RTVA y sus Sociedades Filiales y sin que exceda, en todo caso, de seis meses en el año natural en el que se solicite.
+>
+> F) Parejas de hecho.
+>
+> Las parejas de hecho tendrán los mismos beneficios que establece el Convenio Colectivo para las parejas de derecho, debiendo acreditar para ello una convivencia de al menos seis meses de duración mediante el correspondiente Certificado de Empadronamiento o Convivencia.
+
+### Disposición transitoria tercera, texto literal
+
+Página 88 del mismo BOJA. Como todas las transitorias, va precedida de un párrafo común según el
+cual ciertas disposiciones del convenio han quedado «**suspendidas**», «**de forma coyuntural y
+transitoria**», por el Decreto-ley 1/2012, de 19 de junio, y la Ley 3/2012, de 21 de septiembre, de
+Andalucía, y que el convenio queda afectado por ellas «**mientras se mantenga la vigencia de dichas
+disposiciones**» (el párrafo entero se transcribe en «Disposiciones transitorias»).
+
+> Disposición transitoria tercera. Permisos.
+>
+> A. Traslado de domicilio.- El permiso de dos (2) días por traslado de domicilio habitual establecido en el art. 33. A. 1.c) de este Convenio Colectivo queda establecido en un (1) día.
+>
+> B. Días de asuntos propios. Las Licencias y permisos regulados en el art. 33 de este Convenio Colectivo quedan en suspenso y pasan a ser exclusivamente de un total de 4 días al año que podrán ser acumulados a los de vacaciones anuales.
+
+Tres cosas que hay que saber para leerla:
+
+- **Apartado A**: es inequívoco. El permiso por traslado de **domicilio** pasa de dos días a uno. No
+  toca el de traslado de **centro de trabajo** (tres días) ni el límite de una vez al año.
+- **Apartado B**: el rótulo habla de «Días de asuntos propios», pero el texto dice que «**Las
+  Licencias y permisos regulados en el art. 33**» quedan en suspenso y pasan a ser «**un total de 4
+  días al año**». Leído al pie de la letra, abarca todo el artículo 33; leído por su rótulo, solo
+  los asuntos propios del artículo 33.B (de hasta seis, siete u ocho días según la antigüedad, a
+  cuatro). Y cambia otra regla: el artículo 33.B.3 dice que los asuntos propios **no** pueden
+  acumularse a las vacaciones salvo consentimiento de la empresa; la DT 3.ª B dice que los cuatro
+  días «**podrán ser acumulados a los de vacaciones anuales**». El texto no resuelve la
+  ambigüedad y este tema tampoco la resuelve.
+- **Base legal**: a diferencia de la DT 2.ª (vacaciones), que invoca el artículo 26 de la Ley
+  3/2012, la DT 3.ª no cita ningún precepto. La materia es la del **artículo 26 de la Ley 3/2012**,
+  rotulado «**Vacaciones y permisos**», que en su redacción original sometía las vacaciones y
+  permisos del personal de las entidades instrumentales a los artículos 48 y 50 del Estatuto
+  Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012. **Ese artículo 26 está
+  derogado desde el 1 de enero de 2025** por la disposición derogatoria única, letra e), de la Ley
+  7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2025. **No
+  se ha podido confirmar** si, a raíz de esa derogación, la RTVA y CSRTV han vuelto a aplicar el
+  artículo 33 en su redacción original: no hay acuerdo publicado ni inscrito que lo diga. Lo seguro
+  es el texto del artículo 33, el de la DT 3.ª y la derogación del artículo 26.
+
+### Cuadro-resumen (elaboración del tema)
+
+**Este cuadro no es del convenio: es una elaboración de este tema** a partir del artículo 33 y de la
+DT 3.ª. Las cifras y plazos son los del texto; la última columna dice qué tocó la DT 3.ª. El plazo de
+solicitud es el del artículo 33.A.2, y en todos los casos hay que presentar «**justificación
+suficiente del motivo alegado**» (art. 33.A.3).
+
+**A. Permisos y ausencias retribuidas (art. 33.A)**
+
+| Letra | Supuesto | Duración | Plazo de solicitud | DT 3.ª |
+| --- | --- | --- | --- | --- |
+| a | Matrimonio del trabajador | 20 días naturales | 15 días de antelación | — |
+| b | Nacimiento, adopción de hijo, enfermedad grave u hospitalización que demande ayuda inminente, o fallecimiento de parientes hasta el segundo grado de consanguinidad o afinidad | 3 días naturales desde el hecho causante; 5 días si hay desplazamiento. Flexible: seguidos o no consecutivos en los 20 días posteriores | Tan pronto como suceda el hecho | — |
+| b (2.º párrafo) | Hijos prematuros u hospitalizados tras el parto | Ausencia de hasta 2 horas diarias, con retribución íntegra, mientras dure la situación; el permiso de maternidad puede contarse desde el alta hospitalaria, salvo las 6 semanas de descanso obligatorio | Tan pronto como suceda el hecho | — |
+| c | Traslado de domicilio habitual / traslado de centro de trabajo | 2 días / 3 días; una sola vez en el año natural | 15 días de antelación | Domicilio: 1 día |
+| d | Deber inexcusable de carácter público o personal y deberes de conciliación | El tiempo indispensable | 15 días de antelación o la misma fecha de la citación | — |
+| e | Matrimonio de hijos, hermanos o padres | 1 día; 2 si es en provincia no limítrofe con la del centro | 15 días de antelación | — |
+| f | Funciones sindicales o de representación | En los términos del convenio | 48 horas de antelación o desde que se conozca el hecho | — |
+| g | Lactancia de hijo menor de 12 meses | 1 hora diaria, divisible en dos fracciones; parto múltiple, 2 horas diarias por hijo; acumulable en jornadas completas por decisión de la madre; si los dos convivientes trabajan en la empresa, solo uno | 15 días de antelación | — |
+| h | Nacimiento, adopción y acogimiento preadoptivo o permanente de menores de hasta 6 años (y mayores de 6 con especiales dificultades) | Suspensión de 16 semanas ininterrumpidas (+2 por hijo desde el segundo en adopción o acogimiento múltiple); después, permiso retribuido de 4 semanas adicionales, para un solo progenitor | 15 días de antelación o tan pronto se conozca el hecho | — |
+| i | Permiso del padre o del otro progenitor | 15 días consecutivos, independiente del de la letra h | Tan pronto se conozca el hecho | — |
+| i (adopción internacional) | Desplazamiento previo al país de origen | La suspensión puede empezar hasta 4 semanas antes de la resolución; permiso de hasta 2 meses con solo retribuciones básicas (salario base y antigüedad) | Tan pronto se conozca el hecho | — |
+| i (otros párrafos) | Acumular vacaciones a maternidad, lactancia y paternidad; ausencias por hijos con discapacidad | Vacaciones acumulables aunque haya expirado el año natural; ausencia por el tiempo indispensable, con justificación | Tan pronto se conozca el hecho | — |
+| j | Exámenes y pruebas de aptitud | Los días de su celebración; hasta 12 días al año para títulos académicos oficiales; también exámenes convocados por la empresa | Tan pronto se conozca el hecho | — |
+| k | Exámenes prenatales y preparación al parto | Sin duración fijada | 48 horas de antelación o desde que se conozca el hecho | — |
+| l | Enfermedad muy grave de familiar de primer grado | Reducción de hasta el 50 % de la jornada, retribuida, por un máximo de 1 mes | 7 días de antelación | — |
+| m | Violencia de género sobre la trabajadora | Faltas justificadas según los servicios sociales o de salud; reducción de jornada con reducción de retribución, o reordenación del tiempo de trabajo | Lo que determinen los servicios sociales o de salud | — |
+| n | Hijo menor con cáncer u otra enfermedad grave | Reducción de al menos la mitad de la jornada con retribuciones íntegras, si trabajan ambos progenitores, como máximo hasta los 18 años del menor | Desde que se acrediten las circunstancias | — |
+
+Al reincorporarse de una reducción de jornada hay que preavisar «**con quince días de antelación**»
+(art. 33.A.3).
+
+**B a F. Resto del artículo 33**
+
+| Bloque | Supuesto | Cifras y condiciones | DT 3.ª |
+| --- | --- | --- | --- |
+| B | Asuntos propios | 1 día por año de servicio; máximo 6 al año; 1 adicional con más de 10 años de antigüedad y un octavo con más de 15; en el año natural (si no se pudo por el servicio, 2 días en el primer mes del año siguiente); no acumulables a vacaciones salvo consentimiento de la empresa; fecha de común acuerdo | 4 días al año, acumulables a las vacaciones (y ambigüedad sobre el resto del art. 33) |
+| C.1 | Turno más favorable por estudios oficiales | La empresa «**adscribirá**»; si concurren varios, criterios: antigüedad, aprovechamiento académico, orden de solicitud | — |
+| C.2 | Turno más favorable por embarazo (exámenes prenatales) | La empresa «**podrá adscribir**» | — |
+| C.3 | Riesgo por gestación | La empresa «**facilitará**» el cambio de puesto o funciones | — |
+| C.4 | Cuidado de familiares enfermos convivientes que necesiten asistencia permanente | La empresa «**podrá adscribir**» | — |
+| C.5 | Cuidado de hijo menor de 6 años | Turno más favorable a quien lo solicite | — |
+| D.1 | Reducción no retribuida para perfeccionamiento profesional | Del 50 %; haber superado el período de prueba, curso oficial, sindical o registrado, específico de la profesión, y comunicarlo a la comisión de formación | — |
+| D.2 | Guarda legal de menor de 12 años o disminuido que no trabaje; cuidado de familiar hasta el segundo grado | Reducción diaria entre al menos un octavo y un máximo de la mitad, con reducción proporcional del salario; derecho individual; la empresa puede limitar el ejercicio simultáneo por el mismo hecho causante | — |
+| D.3 | Permisos, turnos y reducciones por estudios o formación | Se acreditan con certificado; turnos y reducciones anulables por falta de aprovechamiento acreditada | — |
+| D.4 | Reducción general | Del 50 %, por un mínimo de 30 días, con reducción proporcional de retribuciones, si no encaja en otro supuesto | — |
+| E | Licencia no retribuida | Caso extraordinario acreditado, con consentimiento de la empresa, máximo 6 meses en el año natural | — |
+| F | Parejas de hecho | Mismos beneficios que las parejas de derecho con convivencia de al menos 6 meses acreditada con certificado de empadronamiento o convivencia | — |
+
+**Materias vecinas, fuera del artículo 33**
+
+| Materia | Convenio | Disposición transitoria |
+| --- | --- | --- |
+| Vacaciones | 24 días laborables, excluidos sábados, en julio, agosto y septiembre (art. 13) | DT 2.ª: 22 días hábiles, sin sábados; hasta 5 sueltos acumulables a asuntos propios |
+| Días 24 y 31 de diciembre | Festivos a todos los efectos; acumulables a vacaciones si no se disfrutan (art. 10) | — |
+| Excedencia voluntaria | Entre 6 meses y 10 años; reserva de puesto hasta 3 años con requisitos (art. 32.I) | — |
+| Excedencia por cuidado de hijos | Hasta 6 años por hijo; computa para antigüedad (art. 32.III.1) | — |
+| Crédito horario | Delegados de personal, 28 horas/mes (art. 55); comité y delegados sindicales, 30 o 45 horas/mes según plantilla (arts. 56 y 61) | DT 9.ª: el del convenio |
+| Horas de los delegados de prevención | 20 horas retribuidas al mes (art. 26) | — |
+| Asambleas | Hasta 8 horas anuales en jornada (art. 62) | — |
+
