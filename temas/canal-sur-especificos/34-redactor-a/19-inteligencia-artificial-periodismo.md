@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Reglamento (UE) 2024/1689, de Inteligencia Artificial, con sus correcciones de errores y su modificación por el Reglamento (UE) 2026/1744 (Ómnibus digital sobre IA); Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación (artículo 18); Ley 15/2022, integral para la igualdad de trato y la no discriminación (artículo 23); Carta del Servicio Público de la RTVA 2024-2029; Carta de París sobre la IA y el Periodismo (Reporteros sin Fronteras, 2023), como texto de autorregulación; documentación técnica del NIST y de Google para la transcripción y la búsqueda |
 | Redacción que se estudia | Reglamento (UE) 2024/1689 tal como queda tras la corrección de errores de 9-10-2025 y el Reglamento (UE) 2026/1744, en vigor desde el 27-07-2026 (no hay texto consolidado: se leen juntos); resto de normas en su redacción vigente a 24-09-2026; páginas web tal como estaban el 24-09-2026 |
-| Extensión | 6.311 palabras |
+| Extensión | 6.909 palabras |
 
 <!-- /portada -->
 
@@ -38,7 +38,8 @@ el artículo 4 sobre alfabetización en IA; qué prácticas prohíbe el artícul
 llegan las obligaciones de alto riesgo; qué multa corresponde a incumplir el artículo 50; qué puede
 declarar un medio ante una plataforma de muy gran tamaño sobre la IA (artículo 18.1.e EMFA); qué dice
 la Carta del Servicio Público sobre la IA; qué es la diarización y qué es BERT; qué principios fija la
-Carta de París sobre supervisión humana, responsabilidad y trazabilidad.
+Carta de París sobre evaluación previa de las herramientas, supervisión humana, responsabilidad y
+trazabilidad; qué riesgos tiene el análisis de documentos con IA.
 
 <!-- indice -->
 
@@ -104,7 +105,7 @@ funcionar con distintos niveles de autonomía y que pueda mostrar capacidad de a
 despliegue, y que, para objetivos explícitos o implícitos, infiere de la información de entrada que
 recibe la manera de generar resultados de salida, como predicciones, contenidos, recomendaciones o
 decisiones, que pueden influir en entornos físicos o virtuales;**». La corrección cambió «puede» por
-«pueda»: la capacidad de adaptación es posible, no necesaria.
+«pueda»; el texto de la corrección no explica el alcance del cambio.
 
 La definición abarca todos los usos del enunciado: un buscador que ordena resultados, un
 transcriptor que convierte audio en texto, un traductor, un resumidor o un generador de texto
@@ -199,7 +200,8 @@ dos referencias del RIA, que sí tienen consecuencia jurídica:
 - El RIA distingue, para los proveedores, entre generar «**contenido sintético de audio, imagen,
   vídeo o texto**» y la mera «**función de apoyo a la edición estándar**» o los sistemas que «**no
   alteren sustancialmente los datos de entrada facilitados por el responsable del despliegue o su
-  semántica**»: estos últimos quedan fuera de la obligación de marcado (artículo 50.2). Como lectura del
+  semántica**»: estos últimos quedan fuera de la obligación de marcado, como también los sistemas
+  autorizados por ley para detectar, prevenir, investigar o enjuiciar delitos (artículo 50.2). Como lectura del
   precepto (el reglamento no pone ejemplos), un corrector ortográfico o una herramienta que sólo
   ajusta el formato estarían en el segundo grupo; un sistema que redacta una noticia a partir de un
   teletipo, en el primero.
@@ -228,6 +230,25 @@ La IA aparece en la verificación por dos lados:
   50.4 y en el considerando 134. La Carta de
   París pide que todo contenido que no cumpla los estándares de autenticidad se trate como «**potentially
   misleading**» y se verifique a fondo (principio 6; epígrafe 2).
+
+El análisis con IA no tiene norma ni recomendación técnica publicada localizada que lo describa; lo
+que sigue es oficio. Consiste en pedir a una herramienta que haga sobre un volumen de material que
+una persona no podría leer a tiempo lo que el redactor haría a mano: clasificar documentos por
+asunto, extraer de ellos nombres, fechas, cifras o importes para ordenarlos en una tabla, buscar
+dentro de horas de transcripciones y señalar repeticiones o patrones que merezcan una pregunta. El
+resultado es una pista, no un dato publicable, y sus riesgos son los que el tema trata en el
+epígrafe 2, aplicados a este uso:
+
+- La confidencialidad: subir a un servicio externo documentos filtrados o grabaciones puede exponer
+  a la fuente; la Carta de París incluye «**the confidentiality of sources**» entre los valores que
+  el uso de IA debe respetar (principio 1).
+- Los datos personales: el RIA no desplaza al Reglamento (UE) 2016/679 (artículo 2.7; epígrafe 3),
+  de modo que el material con datos personales que se introduce en la herramienta sigue sometido a
+  la protección de datos (tema 16).
+- La exactitud: cada dato que la herramienta extrae o cada patrón que señala se comprueba en el
+  documento original antes de afirmarlo.
+- El sesgo de automatización: la tendencia a dar por bueno el resultado de la máquina (artículo
+  14.4.b RIA, epígrafe 2), que en el análisis es mayor porque el volumen impide revisarlo todo.
 
 La Carta de París resume el alcance de estos usos: la IA supone «**a considerable shift in information
 gathering, truth seeking, storytelling, and the dissemination of ideas**» —la obtención de
@@ -270,6 +291,15 @@ independencia, no causar daño, no discriminar, rendir cuentas, respetar la inti
 confidencialidad de las fuentes. Cada valor señala un riesgo: el error presentado con apariencia de
 exactitud, la pérdida de independencia frente a quien controla la herramienta, la discriminación
 heredada de los datos, la filtración de una fuente al subir un documento a un servicio externo.
+
+Antes de usar una herramienta, la Carta de París pide controlar su riesgo: «**AI SYSTEMS USED IN
+JOURNALISM UNDERGO PRIOR, INDEPENDENT EVALUATION.**» Los sistemas que usan los medios y los
+periodistas deberían someterse a «**an independent, comprehensive, and thorough evaluation involving
+journalism support groups**», que demuestre que respetan los valores de la ética periodística; deben
+respetar la intimidad, la propiedad intelectual y la protección de datos; se establece «**A clear
+accountability framework**» para cualquier incumplimiento, y «**Systems that operate predictably and
+can be simply explained are preferred.**» (principio 3). Esa preferencia por lo predecible y
+explicable enlaza con la trazabilidad y la supervisión humana (más abajo).
 
 Dos riesgos más señala la Carta de París:
 
@@ -349,11 +379,13 @@ tamaño, «**que no ofrecen contenidos generados por sistemas de inteligencia ar
 someterlos a revisión humana o control editorial**» (artículo 18.1.e), una de las declaraciones que
 dan acceso al trato reforzado que el artículo 18 concede a los medios (tema 14).
 
-La Carta de París lo pone en el centro: «**Media outlets prioritize human agency**»; «**Human
+La Carta de París lo pone en el centro: «**MEDIA OUTLETS PRIORITIZE HUMAN AGENCY**» (rótulo); «**Human
 decision-making must remain central to both longterm strategies and daily editorial choices**», y
-los equipos deben conservar la capacidad de desactivar los sistemas «**at any time**» (principio 2). Y
-la consecuencia: «**Media outlets are always accountable for the content they publish.**» (principio
-4). La responsabilidad por lo publicado no se traslada a la herramienta.
+«**Editorial teams must clearly define the goals, scope, and usage conditions for each AI system**»,
+y los equipos deben conservar la capacidad de desactivar los sistemas «**at any time**» (principio 2).
+Y la consecuencia: «**MEDIA OUTLETS ARE ALWAYS ACCOUNTABLE FOR THE CONTENT THEY PUBLISH.**» (rótulo); las
+responsabilidades ligadas al uso de la IA se prevén, se delimitan y se asignan «**to humans**»
+(principio 4). La responsabilidad por lo publicado no se traslada a la herramienta.
 
 ## 3. Nociones básicas del marco legal europeo sobre inteligencia artificial
 
@@ -433,7 +465,10 @@ El Ómnibus añadió dos letras que tocan de lleno la información sobre ultrafa
 La introducción en el mercado o la puesta en servicio de esos sistemas sólo está prohibida cuando
 esa generación o manipulación es su finalidad prevista o un resultado razonablemente previsible y
 reproducible sin salvaguardias adecuadas (artículo 5.1 bis, a); su utilización, sólo cuando el
-responsable del despliegue los usa para generar o manipular ese material (artículo 5.1 bis, b). Las letras b bis y b ter se aplican desde el
+responsable del despliegue los usa para generar o manipular ese material (artículo 5.1 bis, b). A
+efectos de la letra b bis), no hay manipulación cuando el sistema no aumenta la exposición de ninguna
+parte íntima representada ni altera la naturaleza de la actividad sexualmente explícita representada
+(artículo 5.1 ter, resumen). Las letras b bis y b ter se aplican desde el
 2-12-2026 (epígrafe «Calendario»). Las multas por prácticas prohibidas llegan a «**35 000 000 EUR
 o, si el infractor es una empresa, de hasta el 7 % de su volumen de negocios mundial total
 correspondiente al ejercicio financiero anterior, si esta cuantía fuese superior**» (artículo 99.3).
@@ -459,14 +494,24 @@ otros ámbitos, por ejemplo en la selección de personal (anexo III, punto 4).
 
 - 50.1. Los proveedores garantizarán que las personas sepan que están interactuando con un sistema de
   IA (por ejemplo, un asistente conversacional), «**excepto cuando resulte evidente desde el punto de
-  vista de una persona física razonablemente informada, atenta y perspicaz**».
+  vista de una persona física razonablemente informada, atenta y perspicaz, teniendo en cuenta las
+  circunstancias y el contexto de utilización**». Tampoco se aplica a «**los sistemas de IA
+  autorizados por ley para detectar, prevenir, investigar o enjuiciar delitos**», con garantías
+  adecuadas, «**salvo que estos sistemas estén a disposición del público para denunciar un delito
+  penal**».
 - 50.2. Los proveedores de sistemas que generen «**contenido sintético de audio, imagen, vídeo o
   texto**» velarán por que los resultados estén «**marcados en un formato legible por máquina**» y
   sea posible detectar su origen artificial. No se aplica a la «**función de apoyo a la edición
-  estándar**» ni a los sistemas que no alteren sustancialmente los datos de entrada o su semántica.
+  estándar**» ni a los sistemas que no alteren sustancialmente los datos de entrada o su semántica,
+  «**o cuando estén autorizados por ley para detectar, prevenir, investigar o enjuiciar delitos**».
   El Ómnibus fijó un plazo para los sistemas ya comercializados: los introducidos en el mercado antes
   del 2 de agosto de 2026 cumplirán el artículo 50.2 «**a más tardar el 2 de diciembre de 2026**»
   (artículo 111.4).
+- 50.3. Los responsables del despliegue de un sistema de reconocimiento de emociones o de
+  categorización biométrica informarán de su funcionamiento a las personas expuestas a él y tratarán
+  sus datos conforme a la normativa de protección de datos, salvo los autorizados por ley para
+  detectar, prevenir e investigar delitos (resumen, no literal). No es un uso de redacción; se cita
+  para completar el artículo.
 - 50.4, párrafo primero (imagen, audio y vídeo), redacción corregida: «**Los responsables del
   despliegue de un sistema de IA que genere o manipule imágenes o contenidos de audio o vídeo que
   constituyan una ultrafalsificación harán público que estos contenidos o imágenes han sido generados
@@ -557,7 +602,7 @@ del Ómnibus:
 - Pautas publicadas de Canal Sur sobre el uso de IA en la redacción: no se han localizado. El *Libro
   de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004) no trata la IA; la Carta del
   Servicio Público sólo fija el principio del artículo 4.3.
-- Fuente técnica publicada sobre traducción automática, resumen automático y redacción asistida: no
+- Fuente técnica publicada sobre traducción automática, resumen automático, redacción asistida y análisis de documentos con IA: no
   localizada; lo que el tema dice de ellos es oficio y va marcado.
 - Qué autoridad española supervisa el cumplimiento del RIA y qué régimen de multas se aplica a los
   organismos públicos (artículo 99.8): no leído; no se afirma.
@@ -581,8 +626,8 @@ del Ómnibus:
 | DSA, DOUE-L-2022-81573 (no consolidado): art. 35.1.k) | Epígrafe 3 | 24-09-2026 |
 | Ley 15/2022, art. 23 | Epígrafe 2 (texto del tema 8 del común) | Según el tema 8 del común |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): arts. 4.3 y 7.5 | Epígrafe 1 (texto del tema 6 del común) | Según el tema 6 del común |
-| *Paris Charter on AI and Journalism*, RSF y 16 organizaciones, publicada el 10-11-2023 (rsf.org/en/paris-charter-ai-and-journalism); texto de autorregulación, citado en inglés | Epígrafes 1 y 2 | 24-09-2026 |
+| *Paris Charter on AI and Journalism*, RSF y 16 organizaciones, publicada el 10-11-2023 (rsf.org/en/paris-charter-ai-and-journalism); texto de autorregulación, citado en inglés: preámbulo y principios 1 a 8 | Epígrafes 1 y 2 | 24-09-2026 |
 | NIST, «Rich Transcription Evaluation» (nist.gov; copia de 02-09-2026) | Diarización «Who Spoke When» / «Who Said What»; serie desde 2002 | 24-09-2026 |
 | Google, «Understanding searches better than ever before», blog oficial, 25-10-2019 (copia de 02-09-2026) | BERT en el buscador | 24-09-2026 |
 | Devlin y otros, «BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding», arXiv 1810.04805 (ficha) | Siglas y contexto bidireccional | 24-09-2026 |
-| Oficio, sin norma | Distinción reconocimiento / transcripción / diarización; riesgos de la traducción y el resumen automáticos; comprobación de citas; registro de uso de herramientas | Costumbre de oficio |
+| Oficio, sin norma | Distinción reconocimiento / transcripción / diarización; riesgos de la traducción y el resumen automáticos; qué es el análisis con IA; comprobación de citas; registro de uso de herramientas | Costumbre de oficio |

@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno; Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía; Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público; Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía (artículos 79 y 86); Ley Orgánica 3/2018 (disposición adicional segunda); Libro de estilo de Canal Sur Televisión (2004). La estadística descriptiva no descansa en ninguna norma |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 9.265 palabras |
+| Extensión | 10.563 palabras |
 
 <!-- /portada -->
 
@@ -32,10 +32,12 @@ Qué se puede preguntar: qué es información pública; si hay que motivar una s
 qué plazo se resuelve (un mes en la ley estatal, veinte días hábiles en la Junta de Andalucía) y
 qué significa el silencio; cuántos límites enumera el artículo 14 de la Ley 19/2013 y cómo se
 aplican; qué datos personales exigen consentimiento expreso y por escrito; ante quién se reclama y
-en qué plazo; qué no puede considerarse reelaboración en Andalucía; qué es reutilizar y por qué el
+en qué plazo, y cuándo sólo cabe el contencioso; qué no puede considerarse reelaboración en Andalucía; qué es reutilizar y por qué el
 archivo de una radiotelevisión queda fuera de la Ley 37/2007; a qué condiciones puede someterse
 la reutilización; qué distingue población y muestra, media y mediana, varianza y
-cuasivarianza; qué gráfico corresponde a cada tipo de variable; qué ficha debe acompañar a una
+cuasivarianza; la diferencia entre puntos porcentuales y variación porcentual, las tasas por
+habitante y los valores reales; qué gráfico corresponde a cada tipo de variable y cómo puede
+distorsionarse; qué ficha debe acompañar a una
 encuesta según el Libro de estilo; cómo se da en Canal Sur la cifra de asistentes a una
 manifestación.
 
@@ -71,6 +73,7 @@ manifestación.
   - [Medidas de dispersión](#medidas-de-dispersión)
   - [Varianza de la población y cuasivarianza de la muestra](#varianza-de-la-población-y-cuasivarianza-de-la-muestra)
   - [Forma de la distribución](#forma-de-la-distribución)
+  - [Porcentajes, puntos y tasas](#porcentajes-puntos-y-tasas)
   - [Las cifras en la noticia: redondeo y precisión](#las-cifras-en-la-noticia-redondeo-y-precisión)
 - [6. Visualización](#6-visualización)
   - [Representaciones gráficas](#representaciones-gráficas)
@@ -221,7 +224,24 @@ datos:
 | Plazo para resolver | «**en el plazo máximo de un mes**» desde la recepción por el órgano competente (20.1) | En la Junta de Andalucía y sus entidades instrumentales, «**20 días hábiles**» desde la recepción por el órgano competente (32) |
 | Ampliación | «**por otro mes**», por volumen o complejidad y previa notificación (20.1) | «**prorrogables por igual período**», por volumen o complejidad, con notificación (32) |
 | Silencio | «**se entenderá que la solicitud ha sido desestimada**» (20.4) | No lo regula; el artículo 20.4 de la ley estatal es básico (disposición final octava de la Ley 19/2013) |
-| Reclamación | Ante el CTBG, «**con carácter potestativo y previo a su impugnación en vía contencioso-administrativa**» (24.1) | Ante el Consejo de Transparencia y Protección de Datos de Andalucía, potestativa y previa al contencioso (33.1) |
+| Reclamación | Ante el CTBG, «**con carácter potestativo y previo a su impugnación en vía contencioso-administrativa**» (24.1), salvo el caso del 23.2 | Ante el Consejo de Transparencia y Protección de Datos de Andalucía, potestativa y previa al contencioso (33.1), salvo el caso del 33.2 |
+
+La reclamación no cabe en dos casos, uno en cada ley:
+
+- En la estatal, «**contra las resoluciones dictadas por los órganos previstos en el artículo
+  2.1.f) sólo cabrá la interposición de recurso contencioso-administrativo.**» (LTAIBG, artículo
+  23.2). Esos órganos son «**La Casa de su Majestad el Rey, el Congreso de los Diputados, el Senado,
+  el Tribunal Constitucional y el Consejo General del Poder Judicial, así como el Banco de España,
+  el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas, el Consejo Económico y
+  Social y las instituciones autonómicas análogas, en relación con sus actividades sujetas a
+  Derecho Administrativo.**»
+- En la andaluza, «**Las resoluciones referentes al derecho de acceso a la información pública que
+  sean dictadas por las instituciones y entidades a que se refiere el artículo 3.1.b) y 3.2 sólo
+  serán recurribles ante la jurisdicción contencioso-administrativa.**» (LTPA, artículo 33.2). Son
+  las del 3.1.b) —el Consejo Consultivo, el Consejo Económico y Social y el Consejo Audiovisual de
+  Andalucía— y las del 3.2 —el Parlamento de Andalucía, el Defensor del Pueblo Andaluz y la Cámara
+  de Cuentas de Andalucía—. Si el Consejo Audiovisual de Andalucía deniega un acceso, no hay
+  reclamación ante el Consejo de Transparencia y Protección de Datos: sólo el contencioso.
 
 Las demás piezas del procedimiento estatal:
 
@@ -232,7 +252,7 @@ Las demás piezas del procedimiento estatal:
   resoluciones que inadmiten (LTPA, artículo 7.c).
 - Contra la resolución cabe recurso contencioso-administrativo directo, «**sin perjuicio de la
   posibilidad de interposición de la reclamación potestativa prevista en el artículo 24**»
-  (20.5). La reclamación es «**sustitutiva de los recursos administrativos**» (23.1).
+  (20.5); en el caso del artículo 23.2, sólo el contencioso. La reclamación es «**sustitutiva de los recursos administrativos**» (23.1).
 - La reclamación ante el CTBG se interpone «**en el plazo de un mes**» desde el día siguiente a la
   notificación o a los efectos del silencio (24.2); el CTBG tiene «**tres meses**» para resolver, y
   pasados sin resolución «**la reclamación se entenderá desestimada**» (24.4). La competencia es del
@@ -258,8 +278,8 @@ crea.
 
 ### Publicidad activa
 
-La transparencia, en sentido estricto, es lo que la Administración publica sin que nadie se lo
-pida. La ley andaluza la define (artículo 2.b) como «**la obligación de las personas y entidades a
+La publicidad activa es lo que la Administración publica sin que nadie se lo pida. La ley andaluza
+la define (artículo 2.b) como «**la obligación de las personas y entidades a
 las que hacen referencia los artículos 3 y 5 de hacer pública por propia iniciativa, en los
 términos previstos en la presente ley, la información pública de relevancia que garantice la
 transparencia de su actividad relacionada con el funcionamiento y control de su actuación
@@ -439,7 +459,7 @@ refiere expresamente al «**ámbito de la Administración General del Estado**»
 
 ## 4. Lectura e interpretación de datos
 
-Los tres primeros apartados de este epígrafe, los cinco primeros del siguiente y el primero del
+Los tres primeros apartados de este epígrafe, los seis primeros del siguiente y el primero del
 epígrafe 6 son estadística descriptiva: no descansan en ninguna norma, sus definiciones y fórmulas se demuestran y no se
 citan, y por eso ninguna va en negrita.
 
@@ -481,8 +501,8 @@ Una variable estadística es la característica que se observa en cada individuo
 
 La distinción importa porque determina qué se puede calcular: de una variable nominal sólo tiene
 sentido la moda; de una ordinal, además, la mediana y los cuantiles; y sólo de una cuantitativa
-puede calcularse la media, la varianza y la desviación típica. Calcular la media de una variable
-nominal codificada con números es un error de principiante.
+puede calcularse la media, la varianza y la desviación típica. Una variable nominal codificada con
+números (1 para Almería, 2 para Cádiz…) sigue siendo nominal, y su media no significa nada.
 
 ### Frecuencias y distribuciones
 
@@ -532,8 +552,8 @@ encargado, quien la ha realizado, el universo de entrevistados y el método de s
 en el que se ha desarrollado el trabajo de campo y el margen de error.**» (3.12.1). La sección de
 política lo repite y añade tres cautelas (LE 7.1.3):
 
-- El resultado de una encuesta «**no debe ser nunca materia informativa destacada o para la
-  apertura de un informativo**», con la única excepción de los sondeos propios o ajenos al cierre de
+- «**Como norma general, el resultado de una encuesta no debe ser nunca materia informativa
+  destacada o para la apertura de un informativo**», con la única excepción de los sondeos propios o ajenos al cierre de
   las urnas en una jornada electoral, y se ofrece «**con fórmulas orales de protección y con
   escepticismo**».
 - No se asume sin revisar la tesis de quien ofrece el sondeo, «**que en general ha encargado
@@ -554,7 +574,7 @@ Las encuestas electorales tienen además un régimen legal propio, que se estudi
 |---|---|---|---|
 | Media aritmética *x̄* | La suma de los valores dividida por su número | La medida por defecto en variables cuantitativas | Muy sensible a los valores extremos |
 | Mediana *Me* | El valor central de un conjunto de datos ordenados: deja el 50 % a cada lado | Cuando hay valores atípicos o la distribución es asimétrica | No usa toda la información |
-| Moda *Mo* | El valor que más se repite | La única aplicable a variables cualitativas | Puede no existir o no ser única |
+| Moda *Mo* | El valor que más se repite | La única aplicable a variables cualitativas nominales; en las ordinales, también la mediana | Puede no existir o no ser única |
 | Media geométrica | La raíz *n*-ésima del producto de los valores | Tasas de variación y crecimientos acumulados | No admite valores nulos ni negativos |
 | Media armónica | El inverso de la media de los inversos | Promedios de velocidades y de ratios | Muy sensible a valores próximos a cero |
 
@@ -609,8 +629,7 @@ Tres consecuencias que hay que retener:
 
 ### Varianza de la población y cuasivarianza de la muestra
 
-Es la distinción que más confusión genera, porque hay
-dos divisores en circulación:
+Hay dos divisores en circulación:
 
 | | Varianza *σ²* | Cuasivarianza o varianza muestral *s²* |
 |---|---|---|
@@ -634,12 +653,14 @@ tanto por uno —0,10, 0,20 y −0,15—, que es como hay que operar:
 1. Media: (0,10 + 0,20 − 0,15) / 3 = 0,05.
 2. Desviaciones respecto de la media: 0,05, 0,15 y −0,20.
 3. Cuadrados: 0,0025, 0,0225 y 0,04. Suman 0,065.
-4. Con divisor N = 3: varianza = 0,065 / 3 = 0,02167, es decir 2,17 %; desviación típica =
+4. Con divisor N = 3: varianza = 0,065 / 3 = 0,02167; desviación típica =
    √0,02167 = 0,1472, es decir 14,72 %.
-5. Con divisor N − 1 = 2: cuasivarianza = 0,065 / 2 = 0,0325, es decir 3,25 %; desviación típica
+5. Con divisor N − 1 = 2: cuasivarianza = 0,065 / 2 = 0,0325; desviación típica
    = √0,0325 = 0,1803, es decir 18,03 %.
 
-Cuál de las dos parejas de resultados es la buena depende de si los tres datos se toman como toda
+La varianza y la cuasivarianza no se expresan en porcentaje: están en unidades al cuadrado. Sólo
+la desviación típica vuelve a la unidad de los datos, y por eso sólo ella se lee como un 14,72 % o
+un 18,03 %. Cuál de las dos parejas de resultados es la buena depende de si los tres datos se toman como toda
 la población o como una muestra.
 
 ### Forma de la distribución
@@ -651,6 +672,48 @@ la población o como una muestra.
 - Curtosis o apuntamiento: mide cuánto se concentra la distribución en torno a su centro
   comparada con la normal. Leptocúrtica si es más apuntada, mesocúrtica si se comporta como
   la normal y platicúrtica si es más aplanada.
+
+### Porcentajes, puntos y tasas
+
+Casi todas las cifras que llegan a una redacción son porcentajes o tasas, y los errores más
+frecuentes al darlas son de aritmética, no de estadística.
+
+- Porcentaje: la parte dividida por el total, por cien. Siempre es un porcentaje *de algo*, y ese
+  total tiene que decirse: el 30 % de los parados no es el 30 % de la población activa.
+- Variación porcentual o tasa de variación: (valor final − valor inicial) / valor inicial × 100.
+  Se calcula siempre sobre el valor de partida.
+- Puntos porcentuales: la diferencia entre dos porcentajes. Si el paro pasa del 10 % al 12 %, ha
+  subido dos puntos porcentuales (12 − 10), y ha subido un 20 % ((12 − 10) / 10 × 100). Decir que
+  «ha subido un 2 %» es falso: 10 más un 2 % de 10 da 10,2, no 12.
+- Subidas y bajadas no se compensan. Un precio de 100 que baja un 50 % queda en 50; si luego sube
+  un 50 %, queda en 75, no en 100. Para volver a 100 tendría que subir un 100 %.
+- Tasa interanual: compara un periodo con el mismo periodo del año anterior (marzo con marzo). La
+  tasa sobre el periodo anterior (intermensual, intertrimestral) compara con el inmediato (marzo
+  con febrero). La interanual compara periodos equivalentes, de modo que no mezcla en la
+  comparación lo que se repite cada año en las mismas fechas (la campaña de verano, la Navidad);
+  la del periodo anterior sí lo mezcla, y hay que decir cuál de las dos se da.
+- Crecimiento medio de varios periodos: se obtiene con la media geométrica de los factores de
+  variación, no con la media aritmética de las tasas. Un +10 % seguido de un −10 % deja 100 en 99
+  (100 × 1,10 × 0,90); la media aritmética de las dos tasas es 0 %, pero la geométrica,
+  √(1,10 × 0,90) = 0,9950, da −0,50 % por periodo.
+
+Tasas por habitante. Los valores absolutos no sirven para comparar territorios de tamaño distinto.
+Se divide por la población y se multiplica por una base fija (por 1.000 o por 100.000 habitantes).
+Un municipio de 10.000 habitantes con 50 casos tiene 500 casos por 100.000 habitantes; una ciudad
+de 200.000 con 200 casos tiene 100 por 100.000. La ciudad tiene cuatro veces más casos y una tasa
+cinco veces menor. Hay que decir qué base se usa y de qué año es la población.
+
+Valores nominales y reales. Un valor nominal está expresado en euros de cada momento; uno real
+descuenta la subida de los precios, y para eso se deflacta con el IPC:
+
+- Valor real = valor nominal × (IPC del año base / IPC del año del dato).
+- Variación real = (1 + variación nominal) / (1 + variación del IPC) − 1.
+
+Si los salarios suben un 3 % y el IPC un 4 %, la variación real es 1,03 / 1,04 − 1 = −0,0096, un
+−0,96 %: el salario compra menos que antes aunque haya subido. Restar las dos tasas (3 − 4 = −1
+punto) da una aproximación, válida sólo cuando las dos tasas son pequeñas. Una serie de precios,
+salarios o presupuestos de varios años sin deflactar mezcla lo que ha crecido la magnitud con lo
+que han subido los precios.
 
 ### Las cifras en la noticia: redondeo y precisión
 
@@ -667,13 +730,20 @@ El Libro de estilo da tres reglas para llevar las cifras a un texto que se oye y
   para comprender el sentido de una noticia.**»
 - No redondear lo fino (LE 3.16.2). En cifras microeconómicas —inflación, tipos de interés, mercado
   de valores, precio de los combustibles— «**no podemos tender al redondeo**»: se miden «**por
-  décimas o centésimas y así hay que reflejarlo**». Es admisible convertir una subida de 25
-  centésimas en «un cuarto de punto», pero no lo sería, «**por inexacto, un redondeo artificioso en
-  el que convirtiésemos en medio punto una oscilación de 40 centésimas.**»
+  décimas o centésimas y así hay que reflejarlo**». «**Es preferible que digamos que la referencia
+  Euribor de los tipos de interés ha subido 25 centésimas, aunque es admisible, por preciso, que
+  aludamos a una subida de un cuarto de punto, pero no lo sería, por inexacto, un redondeo
+  artificioso en el que convirtiésemos en medio punto una oscilación de 40 centésimas.**»
 - Interpretar la cifra (LE 7.2.2). Las cifras de economía «**deben ser precisas, incluso aunque
   estén redondeadas, pero las ofreceremos interpretadas, de modo que el espectador no tenga que
-  calcular.**» Y es «**muy recomendable trasladar a la economía doméstica la incidencia de una
-  noticia**».
+  calcular.**» Y el ejemplo va en sentido contrario al del 3.16.2: «**No nos limitaremos a decir,
+  por ejemplo, que los tipos de interés han bajado 25 centésimas sino que ajustaremos la
+  información para decir que los intereses han bajado un cuarto de punto**». Además, es «**muy
+  recomendable trasladar a la economía doméstica la incidencia de una noticia**».
+
+Las dos últimas reglas no coinciden: el 3.16.2 prefiere las «25 centésimas» y sólo admite el «cuarto de
+punto»; el 7.2.2 prefiere el «cuarto de punto». Lo que ambas descartan es el redondeo que falsea
+la cifra.
 
 ## 6. Visualización
 
@@ -699,6 +769,20 @@ contiguas, porque los intervalos se tocan. Y en un histograma con intervalos de 
 distinta, lo que representa la frecuencia es el área y no la altura, de modo que hay que usar la
 densidad de frecuencia. Dibujarlo con la altura igual a la frecuencia cuando las amplitudes difieren
 distorsiona el gráfico.
+
+No es la única distorsión posible. Otras tres salen de la geometría del propio gráfico:
+
+- El eje vertical que no empieza en cero. En un diagrama de barras la altura de cada barra es
+  proporcional al valor sólo si el eje arranca en cero. Si dos valores de 50 y 52 se dibujan sobre
+  un eje que empieza en 48, las barras miden 2 y 4: la segunda parece el doble cuando la diferencia
+  real es del 4 %. En un gráfico de líneas, que muestra la evolución y no la magnitud, un eje que no
+  empieza en cero puede estar justificado, pero hay que indicarlo.
+- Las escalas distintas. Dos gráficos que se comparan, o dos series con dos ejes verticales en un
+  mismo gráfico, sólo se leen bien si las escalas son las mismas o se indican con claridad; si no,
+  cambiando la escala se puede hacer que una serie parezca crecer más que otra.
+- Los símbolos que crecen en dos dimensiones. Si en un pictograma un valor doble se representa con
+  un símbolo del doble de alto y del doble de ancho, su área es cuatro veces mayor, y lo que se ve
+  es el área.
 
 ### Los gráficos en televisión
 
@@ -758,7 +842,15 @@ reglas de trabajo:
   la policía local u otras instancias oficiales.**» En las manifestaciones pequeñas, «**siempre
   hemos de incluir nuestro propio dato junto a los de las demás fuentes.**»
 
-La última regla es el ejemplo más claro de periodismo de datos que da el Libro de estilo: un dato
+Una cautela más, que no está en el Libro de estilo y se dice aquí como razonamiento propio:
+correlación no es causalidad. Que dos variables se muevan juntas —lo que muestra un diagrama de
+dispersión— no prueba que una cause la otra. Puede haber una tercera variable que mueva a las dos
+(en los municipios con más población hay a la vez más bibliotecas y más delitos, sin que una cosa
+cause la otra), la causa puede ir en sentido contrario al que se supone o la coincidencia puede ser
+casual. Un dato que muestra una relación se da como relación, con los mismos verbos condicionales
+que el Libro de estilo pide para los sondeos (7.1.3): «**sugiere**», «**indica**».
+
+La regla del recuento propio en las manifestaciones es el ejemplo más claro de periodismo de datos que da el Libro de estilo: un dato
 elaborado por la redacción, publicado con su método a la vista y junto a las cifras de las otras
 fuentes. Exigencias parecidas —citar la fuente, dar la fecha de actualización, no desnaturalizar el
 sentido— son condiciones a las que la Ley 37/2007 permite someter la reutilización de datos públicos,
@@ -913,7 +1005,9 @@ La verificación de contenidos digitales y de imágenes se estudia en los temas 
 
 Va como desarrollo propio, sin norma que citar: las definiciones y fórmulas de estadística
 descriptiva de los epígrafes 4 a 6 (población y muestra, variables, frecuencias, medidas de
-centralización, posición y dispersión, varianza y cuasivarianza, forma de la distribución y tabla
-de gráficos), con el cálculo de ejemplo, que es aritmética propia. Son también lectura propia, y se
+centralización, posición y dispersión, varianza y cuasivarianza, forma de la distribución,
+porcentajes, puntos, tasas y deflactación con el IPC, tabla de gráficos y sus distorsiones), con
+los cálculos de ejemplo, que son aritmética propia; y la cautela de que correlación no es
+causalidad, con su ejemplo. Son también lectura propia, y se
 dicen como tal, el encaje de la RTVA y de CSRTV en las letras del ámbito de las leyes de
 transparencia y el alcance del artículo 3.3.f) de la Ley 37/2007 sobre el archivo de la RTVA.

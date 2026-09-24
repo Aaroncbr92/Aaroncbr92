@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 18/2007; Carta del Servicio Público de la RTVA 2024-2029; Contrato-programa 2024-2026; Libro de estilo de Canal Sur Televisión (2004); Guía de Igualdad de RTVE (2020) como pauta de oficio |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., 2004; Guía de RTVE, 2020 |
-| Extensión | 10.690 palabras |
+| Extensión | 12.656 palabras |
 
 <!-- /portada -->
 
@@ -20,7 +20,9 @@ Competencia (CNMC); Centro Español del Subtitulado y la Audiodescripción (CESy
 Normalización Lingüística de la Lengua de Signos Española (CNSLE); Libro de estilo de Canal Sur
 Televisión y Canal 2 Andalucía (Libro de estilo); personas lesbianas, gais, trans, bisexuales e
 intersexuales (LGTBI; el nombre del Consejo Andaluz LGBTI lo escribe con otro orden); Real
-Academia Española (RAE); televisión digital terrestre (TDT); servicio de vídeo por internet (OTT).
+Academia Española (RAE); televisión digital terrestre (TDT); servicio de vídeo por internet (OTT);
+UNE, sigla con la que se identifican las normas técnicas españolas (así la usa la LGCA, sin
+desarrollarla); AENOR, en cuyo catálogo en línea constan las fichas de esas normas.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.34, punto 17): «Accesibilidad,
 > igualdad y diversidad en contenidos informativos: Ley 13/2022, normativa sobre igualdad y no
@@ -33,7 +35,9 @@ dirige a los medios públicos; qué impone el artículo 58 de la Ley 12/2007 a l
 qué porcentaje de subtitulado y cuántas horas de signos y audiodescripción debe el servicio público
 (artículo 102.2 LGCA); quién controla la accesibilidad de un prestador autonómico; qué compromete
 Canal Sur sobre subtitulado de informativos; qué es representación equilibrada (40-60); qué dice el
-Libro de estilo del masculino genérico y qué la ley; qué prohíbe el artículo 95.2 de la LGCA.
+Libro de estilo del masculino genérico y qué la ley; qué prohíbe el artículo 95.2 de la LGCA; en qué
+franja puede emitirse lo «No recomendado para menores de dieciocho años»; qué cambió la reforma de
+2024 del artículo 49 CE; qué norma UNE regula el subtitulado para personas sordas.
 
 <!-- indice -->
 
@@ -59,6 +63,7 @@ Libro de estilo del masculino genérico y qué la ley; qué prohíbe el artícul
   - [Pautas de oficio de la Guía de Igualdad de RTVE (2020)](#pautas-de-oficio-de-la-guía-de-igualdad-de-rtve-2020)
 - [5. Representación equilibrada](#5-representación-equilibrada)
 - [6. Subtitulado y audiodescripción](#6-subtitulado-y-audiodescripción)
+  - [La Ley 18/2007](#la-ley-182007)
   - [Los informativos](#los-informativos)
   - [La programación en general](#la-programación-en-general)
 - [7. Protección de menores](#7-protección-de-menores)
@@ -334,8 +339,23 @@ Y su artículo 9, **«Defensa de la igualdad de la mujer»**, invoca el artícul
 de la Ley 18/2007 y el artículo 6 y la disposición adicional tercera de la LGCA para que la RTVA y
 Canal Sur, **«considerando las aportaciones de su Delegación de Igualdad»**, trabajen **«con un enfoque
 transversal basado en la promoción activa de la igualdad real y efectiva de la mujer»**, **«evitando
-cualquier mensaje que propague estereotipos discriminatorios o lenguaje sexista»** (9.1). El
-Contrato-programa 2024-2026 lo repite en su punto 56 y añade, en el 59, que se seguirán **«las
+cualquier mensaje que propague estereotipos discriminatorios o lenguaje sexista»** (9.1).
+
+Dos de las normas que invoca ese artículo 9.1:
+
+- LAA, artículo 45.4: entre los fines específicos de los prestadores del servicio público de
+  comunicación audiovisual, local y autonómico, **«Emitir contenidos audiovisuales, comerciales o
+  no, que promuevan de forma activa la igualdad efectiva entre mujeres y hombres, la igualdad de
+  trato y de oportunidades y el respeto a la diversidad.»** El 45.3 añade **«una atención especial
+  a los colectivos más vulnerables»**, **«respetando asimismo el principio de transversalidad de
+  género»**.
+- LGCA, disposición adicional tercera, **«Medidas para favorecer la producción audiovisual
+  realizada por mujeres»**: ayudas del Fondo de Protección a la Cinematografía para obras dirigidas
+  o producidas por mujeres y acciones para el acceso de las mujeres a áreas masculinizadas y a los
+  puestos de mayor responsabilidad.
+
+El Contrato-programa 2024-2026 repite el mandato del artículo 9.1 de la Carta, con las mismas
+normas invocadas, en su punto 56 y añade, en el 59, que se seguirán **«las
 indicaciones del Código interno de los medios de Canal Sur para la elaboración de informaciones sobre
 esta violencia»** (la de género); ese código no se ha localizado publicado.
 
@@ -635,6 +655,35 @@ más próximo:
 - Ley 15/2022, artículo 5.5: los niños, niñas y adolescentes víctimas de discriminación tienen
   derecho a recibir la información **«en un lenguaje claro y comprensible»**.
 
+La pauta de redacción la da el Libro de estilo de 2004 en la introducción de sus normas
+lingüísticas («Lenguaje y periodismo») y en sus «Normas básicas» de gramática:
+
+- **«Informar de una manera clara y eficaz es el principal objetivo del lenguaje periodístico.
+  Para lograrlo, el discurso debe basarse en la sencillez expresiva.»** El lenguaje de los
+  Servicios Informativos **«se apoyará en la naturalidad, la claridad, la propiedad y la
+  corrección.»**
+- Naturalidad: **«palabras y giros cotidianos, alejados tanto de la vulgaridad como de la
+  afectación y el amaneramiento»**; el tono divulgativo **«no debe confundirse ni con lo coloquial
+  ni con lo erudito.»**
+- Claridad: **«La claridad se consigue por medio de estructuras gramaticales sencillas, completas
+  e independientes, que no den lugar a la ambigüedad.»**
+- Propiedad: precisión, que **«nos obliga a ser concisos y a llamar a las cosas por su nombre»**;
+  **«los barbarismos, los circunloquios, los dobles sentidos y la ironía no casan bien con el
+  estilo periodístico.»**
+- **Frases cortas**: **«una frase corta es siempre preferible a una larga»**; las subordinadas,
+  admisibles **«con la condición de que sean lógicas y breves»**, y **«la frase principal debe
+  anteceder a la subordinada.»**
+- **Construcción lógica**: como norma general, **«sujeto + verbo + complemento directo +
+  complemento indirecto + complementos circunstanciales»**, que puede alterarse por interés
+  periodístico.
+- Para la información económica (7.2.1, «Divulgación y sencillez»), recoge seis normas atribuidas a
+  Paul A. Steiger; la primera, **«Ante la duda, la palabra más sencilla para el lector
+  (espectador) medio.»**, y la segunda, **«Evitar la jerga pero, si no puede eludirse su empleo,
+  hay que explicarla.»**
+
+Es pauta de estilo de la casa, no norma: ningún texto legal leído fija técnicas de lenguaje claro
+para los informativos.
+
 ### El Libro de estilo de 2004 frente a la norma
 
 Según el Libro de estilo de 2004 (capítulo 11, «Gramática»):
@@ -830,8 +879,30 @@ artículo 102.2 de la LGCA exige el 90 % de programas subtitulados y quince hora
 de signos y de audiodescripción; en Andalucía, la disposición transitoria primera de la LAA conserva un
 calendario que para la televisión pública autonómica llega en 2021 al 100 % de subtitulación y a
 quince horas diarias de signos y de audiodescripción, más todas las informativas; pero lo refiere a
-las obligaciones del artículo 9, que desde 2024 ya no contiene cifras (nota del epígrafe 3). A eso se suman los compromisos propios de
-Canal Sur.
+las obligaciones del artículo 9, que desde 2024 ya no contiene cifras (nota del epígrafe 3). A eso se suman la ley propia de la RTVA y los
+compromisos de Canal Sur.
+
+### La Ley 18/2007
+
+Accesibilidad (artículo 29 y disposiciones adicional segunda y transitoria tercera):
+
+- La RTVA y sus filiales «**favorecerán**» la integración de las personas con discapacidad
+  auditiva y visual, con subtitulado y lengua de signos española para personas sordas y
+  audiodescripción para personas ciegas (29.1); «**producirán**» programas específicos
+  accesibles, con especial atención a la infancia, la juventud y las personas mayores (29.2); y
+  fomentarán archivos comunes de subtitulación, lengua de signos y audiodescripción (29.3).
+- Porcentajes: la totalidad de las programaciones generalistas de televisión digital terrestre
+  de la sociedad filial de televisión «**tenderán a la inclusión de sistemas de subtitulado: el diez por ciento
+  incorporarán servicios de emisión en lengua de signos española, y el diez por ciento de las
+  programaciones incluirán servicios de audiodescripción**» (disposición adicional segunda).
+- Calendario: la transitoria tercera fijó una progresión, sobre el tiempo semanal de emisión
+  sin publicidad ni televenta y a cada 31 de diciembre, que terminaba en 2015 con el 100 % de
+  subtitulación y el 10 % de lengua de signos y de audiodescripción (en 2008, 50 %, 3 % y 3 %).
+  El Consejo de Gobierno quedó autorizado a modificar ese calendario reglamentariamente, oído el
+  Consejo Audiovisual.
+
+El artículo 29 y la disposición adicional segunda conservan su redacción original; son los que el
+Contrato-programa invoca para la audiodescripción (punto 93, abajo).
 
 ### Los informativos
 
@@ -855,7 +926,8 @@ Canal Sur.
   plan anual de actuación en desarrollo del Contrato-Programa»** se concretan los porcentajes.
 - Contrato-programa, apartado 3.17, **«Accesibilidad para las personas con diversidad funcional»**:
   - Punto 93: Canal Sur mantendrá durante la vigencia del Contrato-programa **«el cumplimiento del
-    100% de subtitulación de la programación televisiva lineal para personas sordas»**; cumplirá
+    100% de subtitulación de la programación televisiva lineal para personas sordas»**;
+    **«Conforme a la Ley 18/2007 en su artículo 29 y Disposición Adicional Segunda»** cumplirá
     **«con el servicio de audiodescripción»** y **«con el 100% del servicio traducción a Lengua de
     Signos Española en la primera emisión lineal televisiva por ondas hertzianas terrestres de todo
     programa de producción propia interna y de aquellos otros programas cuya posesión de derechos de
@@ -867,7 +939,15 @@ Canal Sur.
     rojo’»**, y en webs y aplicaciones conforme al **Real Decreto 1112/2018, de 7 de septiembre**.
 
 Los requisitos técnicos de calidad del subtitulado y la audiodescripción se remiten a la **normativa
-de calidad española UNE** (artículo 101.1.d LGCA); este tema no las desarrolla.
+de calidad española UNE** (artículo 101.1.d LGCA), sin que la ley nombre ninguna norma concreta.
+En el catálogo de AENOR constan en vigor, sobre esas dos materias, estas normas UNE:
+
+| Norma | Título | Edición | Estado |
+| --- | --- | --- | --- |
+| UNE 153010:2012 | Subtitulado para personas sordas y personas con discapacidad auditiva | 30-05-2012; anula la UNE 153010:2003 | En vigor |
+| UNE 153020:2005 | Audiodescripción para personas con discapacidad visual. Requisitos para la audiodescripción y elaboración de audioguías | 26-01-2005 | En vigor |
+
+Su contenido técnico no se ha leído y este tema no lo da.
 
 ## 7. Protección de menores
 
@@ -909,6 +989,79 @@ programas de contenido informativo de actualidad** en los que:
   situación de riesgo o violencia, incluso si no llega a ser un hecho constitutivo de
   delito.**»
 - b) «**Aparezcan menores en situaciones de vulnerabilidad.**»
+
+#### Artículos 97 y 98. Descriptores y calificación por edades
+
+- **Descriptores (97)**: los prestadores **facilitarán información suficiente** sobre los
+  programas y **utilizarán un sistema de descriptores adoptado mediante acuerdo de
+  corregulación**, **garantizando su utilidad en cualquier dispositivo**.
+- **Calificación obligatoria (98.1)**: los prestadores televisivos, lineales o a petición, **están
+  obligados a que los programas emitidos dispongan de una calificación por edades, visible en
+  pantalla mediante indicativo visual y fácilmente comprensible para todas las personas**.
+- **Acuerdo de corregulación estatal (98.2)**: la CNMC «**firmará un acuerdo de corregulación**», entre otros, con
+  los prestadores televisivos y de plataformas, **garantizando la participación de las
+  asociaciones de consumidores y usuarios y de las organizaciones representativas de los usuarios
+  de los medios**.
+- **Informe preceptivo (98.3)**: si ese acuerdo puede afectar a la calificación y a la
+  recomendación por edad, la CNMC pedirá informe preceptivo a la autoridad audiovisual
+  competente, al Instituto de la Cinematografía y de las Artes Audiovisuales y a los órganos
+  correspondientes de las Comunidades Autónomas con competencia en la materia.
+- **La pieza autonómica (98.7)**: «**Las autoridades audiovisuales competentes de ámbito
+  autonómico podrán formalizar acuerdos de corregulación con los prestadores del servicio de
+  comunicación audiovisual autonómico, con objeto de coadyuvar al cumplimiento de las obligaciones
+  establecidas en este artículo.**» Es potestativo («podrán»).
+
+Mientras no se apruebe el acuerdo de corregulación del artículo 98.2, la **disposición transitoria
+segunda** manda calificar y recomendar los programas por edad conforme a unos criterios que
+distinguen: apta para todos los públicos, +7, +12, +16, +18 y X.
+
+#### Artículo 99. Contenidos perjudiciales
+
+**Información (99.1).** Todos los prestadores televisivos —lineales en abierto y de acceso
+condicional, y a petición— facilitarán a los usuarios «**información suficiente e inequívoca**»
+sobre la naturaleza potencialmente perjudicial de los contenidos, «**mediante la utilización de un
+sistema de descripción del contenido, advertencia acústica, símbolo visual o cualquier otro medio
+técnico**»,
+de acuerdo con el acuerdo de corregulación del artículo 98.2.
+
+**Obligaciones según el tipo de servicio:**
+
+| Servicio | Obligaciones |
+| --- | --- |
+| **Lineal en abierto** (99.2) | a) **Se prohíbe** la emisión de escenas de **violencia gratuita o pornografía**. b) Otros contenidos perjudiciales exigen que el prestador «**forme parte del código de corregulación que se prevé en el artículo 98.2 y disponga de mecanismos de control parental o sistemas de codificación digital**». c) Los programas **«No recomendada para menores de dieciocho años» solo podrán emitirse entre las 22:00 y las 6:00 horas** |
+| **Lineal de acceso condicional** (99.3) | Formar parte del código de corregulación y proporcionar control parental o codificación digital |
+| **A petición** (99.4) | Incluir los contenidos con pornografía o violencia gratuita **en catálogos separados**, formar parte del código de corregulación y proporcionar control parental o codificación digital |
+
+Obsérvese la asimetría: la violencia gratuita y la pornografía están prohibidas en el lineal en
+abierto; en el a petición, en cambio, se separan en catálogos.
+
+**Las tres franjas horarias:**
+
+| Contenido | Franja permitida |
+| --- | --- |
+| Programas calificados **«No recomendada para menores de dieciocho años»** (99.2.c) | **Entre las 22:00 y las 6:00 horas** |
+| Programas relacionados con **el esoterismo y las paraciencias**, basados en la participación activa de los usuarios (99.5) | **Entre la 1:00 y las 5:00 horas** |
+| Programas de **juegos de azar y apuestas** (99.6) | **Entre la 1:00 y las 5:00 horas** |
+
+En los programas de esoterismo el prestador tiene **responsabilidad subsidiaria sobre los delitos
+que puedan cometerse y los daños que puedan causarse** a través de ellos (99.5).
+
+La limitación horaria del juego tiene **dos salvedades** (99.6):
+
+- los **sorteos de modalidades o productos de lotería** cuya comercialización está reservada en
+  exclusiva a los operadores designados por la **Ley 13/2011, de 27 de mayo, de Regulación del
+  Juego**, «**o por la correspondiente legislación autonómica**», que pueden emitirse sin
+  limitación horaria;
+- los **juegos de concursos** emitidos por esos mismos prestadores, **siempre que** estén
+  «**conexos o subordinados a la actividad ordinaria de esos prestadores y, además, no se utilice
+  su difusión para promocionar, de forma directa o indirecta, ninguna otra actividad de juegos de
+  azar o de apuestas**».
+
+#### Artículo 100. Contenido especialmente recomendado
+
+La autoridad audiovisual competente **pondrá en marcha actuaciones** para fomentar la producción y
+emisión de programas **especialmente recomendados para menores**, adaptados a su edad, madurez y
+lenguaje, que promuevan su desarrollo y bienestar integral.
 
 ### En la Ley 10/2018
 
@@ -971,6 +1124,10 @@ como a) y e) las que hoy son b) y c), y tenía tres que el Decreto-ley 3/2024 su
 
 - CE, artículo 49.1 (redacción vigente desde el 17 de febrero de 2024): **«Las personas con discapacidad ejercen los
   derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas.»**
+  Cadena: la redacción original de 1978, vigente hasta la reforma de 2024, hablaba de una política
+  de **«previsión, tratamiento, rehabilitación e integración de los disminuidos físicos,
+  sensoriales y psíquicos»**; la reforma sustituyó esa denominación por **«personas con
+  discapacidad»**, que es también la de la LGCA (artículo 7) y la LAA (artículo 9).
 - LGCA, artículo 4.2: la comunicación audiovisual no incitará a la violencia, al odio o a la
   discriminación por ninguno de los motivos de su lista (epígrafe 1); artículo 7.1: imagen de las
   personas con discapacidad **ajustada, respetuosa, apreciativa, inclusiva y libre de estereotipos**.
@@ -1013,12 +1170,20 @@ Según el Libro de estilo de 2004 (9.7.3, que titula «Minusválidos»):
 - 9.7.3.1, **«Precisión donde sea necesaria»**: precisar una discapacidad cuando la noticia lo pide
   **«no es una ofensa»**.
 
+Ojo con la terminología del Libro, que es de 2004: rotula el epígrafe «Minusválidos», llama a
+«minusválido» y «discapacitado» **«denominaciones más dúctiles»** (9.7.3.1), habla de facilitar el
+acceso **«de los disminuidos sensoriales a la imagen y el sonido»** y, en su vocabulario, admite
+«discapacitado» **«como sinónimo de impedido, disminuido o minusválido»**. La CE desde 2024, la
+LGCA y la LAA dicen «personas con discapacidad»; la Carta y el Contrato-programa, «personas con
+diversidad funcional» (el punto 90, «personas con discapacidad funcional»); el propio Libro usa ya «personas con
+discapacidad» en el mismo epígrafe.
+
 Las pautas del Libro sobre inmigración, minorías, patologías y otros colectivos, y las de la Guía de
 RTVE sobre violencia contra las mujeres, están en el tema 11.
 
 ## Normativa que el tema invoca
 
-- Constitución Española, artículo 49.1 (redacción de 2024).
+- Constitución Española, artículo 49.1 (redacción de 2024, y la original de 1978 como historia).
 - Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: artículos
   14.11, 36, 37, 39 y 40.
 - Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía:
@@ -1028,15 +1193,21 @@ RTVE sobre violencia contra las mujeres, están en el tema 11.
 - Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la
   garantía de los derechos de las personas LGTBI: artículo 27.
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 4, 6, 7, 10.4, 15.4,
-  33.2, 83, 84, 95 a 100, 101 a 109, 123, 124, 129, 131, 138 y 158, y disposiciones transitoria
-  cuarta y finales séptima y novena.
+  33.2, 83, 84, 95 a 100, 101 a 109, 123, 124, 129, 131, 138 y 158, y disposiciones adicional
+  tercera (invocada por la Carta), transitorias segunda y cuarta y finales séptima y novena.
 - Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 6, 8, 9, 19.1.b), 31, 41.3,
-  43.5 y 66.3.c), y disposiciones adicional tercera y transitoria primera.
+  43.5, 45.3 y 45.4 (este, invocado por la Carta) y 66.3.c), y disposiciones adicional tercera y
+  transitoria primera.
 - Por remisión de esas leyes: Ley Orgánica 1/1982, Ley Orgánica 2/1984, Ley Orgánica 3/2018
-  (artículo 7), Reglamento (UE) 2016/679 (artículo 8) y la derogada Ley 7/2010 (sólo como historia).
+  (artículo 7), Reglamento (UE) 2016/679 (artículo 8), Ley Orgánica 1/2004, de 28 de diciembre, de
+  medidas de protección integral contra la violencia de género (citada por el artículo 57.2 de la
+  Ley 12/2007), Ley 13/2011, de 27 de mayo, de regulación del juego (citada por el artículo 99.6 de
+  la LGCA) y la derogada Ley 7/2010 (sólo como historia).
 - Ley 18/2007, de la radio y televisión de titularidad autonómica gestionada por
-  la RTVA: artículos 4, 14.1, 20.1 y disposición adicional tercera.
+  la RTVA: artículos 2.1, 4, 14.1, 20.1 y 29, y disposiciones adicionales segunda y tercera y
+  transitoria tercera.
 - Real Decreto 1112/2018, de 7 de septiembre (citado por el Contrato-programa; no leído).
+- Normas UNE 153010:2012 y UNE 153020:2005 (sólo su ficha de catálogo; texto no leído).
 
 ## Lo que este tema no da, y dónde está
 
@@ -1047,11 +1218,11 @@ RTVE sobre violencia contra las mujeres, están en el tema 11.
   no localizados.
 - Cómo se articulan hoy el calendario de la disposición transitoria primera de la LAA, el artículo 9
   de la LAA (sin cifras desde 2024) y el artículo 102.2 de la LGCA: ninguna norma leída lo resuelve.
-- Normas UNE de calidad del subtitulado y la audiodescripción y técnica de subtitulado en directo: no
-  leídas.
+- Contenido técnico de las normas UNE 153010:2012 y UNE 153020:2005 y técnica de subtitulado en
+  directo: no leídos (sólo la ficha de catálogo).
 - Real Decreto 1112/2018 (accesibilidad de sitios web y aplicaciones del sector público): no leído.
 - «Lenguaje claro»: no hay norma audiovisual leída que lo imponga a los informativos con esa
-  expresión.
+  expresión; el tema da la pauta de estilo del Libro de 2004. Lectura fácil: no desarrollada.
 - Tratamiento informativo de violencia de género, menores, migraciones y colectivos vulnerables:
   tema 11. Imágenes de menores y víctimas y protección de datos: tema 16. Las tres leyes de igualdad
   enteras: tema 8 del común. LGCA y LAA enteras: tema 4 del común.
@@ -1067,7 +1238,14 @@ RTVE sobre violencia contra las mujeres, están en el tema 11.
 | LAA (BOE-A-2018-15240): art. 2.1.l) | Epígrafe 4 | 24-09-2026 |
 | Ley 15/2022 (BOE-A-2022-11589): art. 5.5 | Epígrafe 4 | 24-09-2026 |
 | CE (BOE-A-1978-31229): art. 49, redacción de 2024 (BOE-A-2024-3099) | Epígrafe 8 | 24-09-2026 |
+| LGCA (BOE-A-2022-11311): arts. 97-100 y DT 2.ª | Epígrafe 7 (texto del tema 4 del común) | Según el tema 4 del común |
+| Ley 18/2007 (art. 29, DA 2.ª y DT 3.ª) | Epígrafe 6 (texto del tema 5 del común) | Según el tema 5 del común |
+| Ley 18/2007 (BOE-A-2008-1185): arts. 2.1 y 29 y DA 2.ª, cotejados | Epígrafes 2 y 6 | 24-09-2026 |
+| LAA (BOE-A-2018-15240): art. 45 | Epígrafe 2 | 24-09-2026 |
+| LGCA (BOE-A-2022-11311): DA 3.ª y art. 101.1.d) | Epígrafes 2 y 6 | 24-09-2026 |
+| CE (BOE-A-1978-31229): art. 49, redacción original de 1978 | Epígrafe 8 | 24-09-2026 |
+| Fichas de catálogo de AENOR (tienda.aenor.com) de las normas UNE 153010:2012 y UNE 153020:2005: título, fecha de edición y estado | Epígrafe 6 | 24-09-2026 |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): arts. 8.1, 9, 13.9, 25 | Epígrafes 2, 6, 8 | 24-09-2026 |
 | Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 12, 56, 57, 59, 64-66, 90-94 | Epígrafes 2, 5, 6, 8 | 24-09-2026 |
-| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 9.7.3, 11.1.4-11.1.6 y sus notas 4 y 6 | Epígrafes 4 y 8 | 24-09-2026 |
+| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 9.7.3, 9.7.3.1, 7.2.1, «Lenguaje y periodismo», «Normas básicas», 11.1.4-11.1.6 y sus notas 4 y 6, y las voces «discapacitado» y «minusválido» del vocabulario | Epígrafes 4 y 8 | 24-09-2026 |
 | Guía de Igualdad de la Corporación RTVE (2020, PDF de rtve.es), epígrafes 5 a 5.5, «Lenguaje e igualdad» | Pautas de oficio del epígrafe 4 | 24-09-2026 |

@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulos 3, 6, 8, 11 y 12); Manual de estilo de RTVE como referencia; documentación del fabricante Autocue para el prompter; costumbre de oficio donde no hay documento |
 | Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo 2004; Manual de estilo de RTVE en su versión web, leídos el 24-09-2026 |
-| Extensión | 2.691 palabras |
+| Extensión | 3.115 palabras |
 
 <!-- /portada -->
 
@@ -25,7 +25,8 @@ que señala el Libro de estilo; qué acentos admite Canal Sur y qué andaluz pid
 cómo casan «sensación real de improvisación» y «la improvisación no tiene cabida»; quién pacta los
 términos de un directo y dónde se plasman; qué es un teleprompter y qué es Autocue; si el redactor en
 plató puede opinar; qué símbolos prohíbe el Libro de estilo al presentador; las tres estrategias para
-captar la atención.
+captar la atención; cómo se sujeta el micrófono y quién habla en la despedida de un directo; qué debe
+hacer el redactor si su paso de locutor es imprescindible para entender el vídeo.
 
 <!-- indice -->
 
@@ -47,6 +48,7 @@ captar la atención.
 - [7. Comunicación con control](#7-comunicación-con-control)
 - [8. Adecuación al formato](#8-adecuación-al-formato)
   - [La regla general](#la-regla-general)
+  - [La conexión en directo](#la-conexión-en-directo)
   - [El redactor en plató](#el-redactor-en-plató)
   - [El presentador](#el-presentador)
 - [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
@@ -98,8 +100,10 @@ en ritmo o precisión»**:
    un **«espectacular y ensordecedor estruendo»** si esa mención dificulta que se oiga la explosión grabada.
 
 El Manual de RTVE añade el ritmo que marca la puntuación (6.3.1): **«Las pausas en la lectura deben
-coincidir con las necesidades de respiración.»** El ritmo radiofónico del boletín y del diario hablado
-está en el tema 8.
+coincidir con las necesidades de respiración.»** Y advierte: **«Es habitual que presentadores e
+informadores en general puntúen o adapten los textos a su estilo de lectura, estableciendo pausas
+innecesarias que incluso pueden llegar a alterar o dificultar la comprensión del texto.»** El ritmo
+radiofónico del boletín y del diario hablado está en el tema 8.
 
 ## 3. Lectura
 
@@ -148,7 +152,8 @@ en directo (8.3):
 - La apariencia: **«Las respuestas tienen que ser claras y concisas pero con una sensación real de
   improvisación, que es lo que imprime fuerza y credibilidad a la conexión en directo.»**
 - El método: **«La improvisación no tiene cabida como elemento de trabajo.»** El equipo de
-  producción, realización, enlaces e informativos **«debe prever todo lo que pueda planificarse»**, y
+  producción, realización, enlaces e informativos debe prever, **«hasta donde sea posible»**, **«todo lo
+  que pueda planificarse»**, y
   **«lo inesperado, en esencia, no puede ser previsto pero hay que estar preparado para resolverlo con
   eficacia y celeridad»**.
 
@@ -192,15 +197,14 @@ tema 8.
 ### Qué es
 
 El teleprompter es el aparato que muestra al presentador el texto que lee mientras mira a cámara.
-Autocue, el nombre que se oye en muchas redacciones, es una marca: su propia portada se titula
-**«Autocue®: Innovating Prompting Since 1955»** y explica que **«Since 1955 we’ve been making prompters
-for use in studios, on podiums, and well, pretty much anywhere»** (desde 1955 fabrica prompters para
-estudios, atriles y casi cualquier sitio) y que **«We believe teleprompters make for happier talent»**
-(los teleprompters hacen más felices a los presentadores). Es decir: el propio fabricante llama
-teleprompters a sus autocues.
-
-Es un caso de marca convertida en nombre común: teleprompter es el nombre del aparato y Autocue el de una
-marca que lo fabrica desde 1955. No son dos aparatos: son un aparato y una marca.
+Autocue es una marca: su propia portada se titula **«Autocue®: Innovating Prompting Since 1955»** y
+explica que **«Since 1955 we’ve been making prompters for use in studios, on podiums, and well, pretty
+much anywhere. We believe teleprompters make for happier talent and more connected audiences.»** (desde
+1955 fabrica prompters para estudios, atriles y casi cualquier sitio; cree que los teleprompters hacen
+más felices a los presentadores y dan audiencias más conectadas). El fabricante, por tanto, llama a sus aparatos prompters y
+teleprompters: teleprompter es el nombre del aparato y Autocue el de una marca que lo fabrica desde 1955.
+No son dos aparatos: son un aparato y una marca. Que en las redacciones se diga «autocue» por el aparato
+es costumbre de oficio, sin documento leído que lo recoja.
 
 Por costumbre de oficio, sin documento leído que lo describa: el texto aparece en un monitor, reflejado
 en un cristal delante del objetivo, y el avance puede manejarse desde el control o desde el propio
@@ -213,7 +217,16 @@ aplica: el locutor debe hablar **«como si estuviera improvisando»** (3.14), si
 que estamos leyendo»** (normas de pronunciación), y mirar a cámara, que **«son los ojos del
 espectador»** (8.3.2, dicho del directo). El paso de locutor lo escribe **«el periodista que elabora el
 vídeo»** y después lo revisan **«el presentador y los editores»** (3.14): el redactor escribe a menudo
-un texto que leerá otra voz.
+un texto que leerá otra voz. Por esa revisión, dice el libro, el contenido del paso no puede ser
+imprescindible para entender el vídeo; si lo es, **«por cualquier causa, el redactor está obligado a comunicárselo al editor y el
+presentador, y pactar sus términos con quien se encargue de leerlo en cámara»** (3.14).
+
+El mismo apartado admite atenuar el registro sin perder rigor: **«El rigor informativo de un paso no
+debe reducirse, aunque su formalidad puede atenuarse con una pronunciación mas relajada, o con giros y
+expresiones coloquiales moderadas que provoquen la curiosidad del espectador»**, sobre todo ante un
+vídeo de impacto, exclusivo o de gran interés social; pero **«esta fórmula debe administrarse con
+prudencia»**, porque crear una gran expectativa en el paso de una información banal **«suele tener, a la
+larga, efectos perniciosos»** (3.14).
 
 ## 7. Comunicación con control
 
@@ -249,6 +262,22 @@ estrategias:
 Y una advertencia: **«El protagonismo pertenece a la información y el periodista no debe pretenderlo
 más que por su trabajo o por la notoriedad que pueda concederle el medio.»**
 
+### La conexión en directo
+
+El Libro de estilo fija la presencia y el trato en el directo (8.3.2):
+
+- Mirada y micrófono: **«mirando siempre directamente a cámara, que son los ojos del espectador, con el
+  micrófono vertical, apoyando levemente sobre el esternón la mano que lo sujeta, sin que oculte el rostro
+  y de modo relajado»**. Desde un lugar especialmente habilitado, generalmente en interiores, **«el micrófono puede ser
+  de corbata»**.
+- Brevedad: **«El intercambio de saludos o cualquier fórmula de protocolo debe ceñirse al mínimo.»**
+- Trato con el presentador: **«Es recomendable que el periodista desplazado no se dirija al presentador y
+  mucho menos ser reiterativo con su nombre de pila.»** El saludo, la despedida y la cortesía **«deben ser
+  para la audiencia»**. **«Lo más lógico es dirigirse al presentador en segunda persona cuando se dé paso a
+  nuestra conexión en directo y, a partir de aquí, emplear la segunda persona del plural para dirigir su
+  mensaje a los espectadores.»**
+- Cierre: **«Terminado el directo, en la despedida sólo habla el presentador.»**
+
 ### El redactor en plató
 
 **«El periodista no acude al plató como experto o perito en una materia, sino como profesional que
@@ -263,7 +292,9 @@ maquillaje.»**
 **«Un presentador tiene que tener aspecto agradable, presencia discreta y un discurso claro»**; cada uno
 debe fomentar su sello personal, **«pero está obligado a contar los hechos con un lenguaje, preciso,
 claro, directo y neutral»**, y ante el espectador **«tienen que mostrarse decididos y directos, fluidos
-y sencillos, en el punto medio de la profesionalidad y la cercanía»** (8.6). El Manual de RTVE lo
+y sencillos, en el punto medio de la profesionalidad y la cercanía»**. Y añade: **«Por encima de las
+normas, cada uno puede usar fórmulas particulares para llamar la atención del público, con cierta
+familiaridad pero sin perder rigor»** (8.6). El Manual de RTVE lo
 resume así: **«Los presentadores son los intermediarios entre el espectador y la actualidad»**, y **«el
 único protagonismo pertenece a las noticias»** (2.4.5).
 
@@ -300,5 +331,5 @@ con respecto a algún hecho puntual de interés extraordinario.»**
 |---|---|---|
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004: Introducción, 3.14, 6.2.2, 8.1 (puntos 3 a 9), 8.3, 8.3.1, 8.3.2, 8.3.5, 8.5, 8.6, 8.6.1, capítulo 11 «Normas básicas», capítulo 12 «Normas básicas» | Valor del libro; claridad; ritmo; lectura y pronunciación; improvisación; autocontrol; comunicación con control; adecuación al formato | 24-09-2026 |
 | Manual de estilo de RTVE (web): 2.4.5 (TVE), 3.5 (RNE), 6.3.1 (El lenguaje) | Presentadores; improvisación en la retransmisión; lectura y puntuación | 24-09-2026 (web vigente) |
-| Portada del fabricante Autocue | Autocue es marca; el fabricante llama teleprompters a sus aparatos; fabrica desde 1955 | 24-09-2026 |
-| Costumbre de oficio, sin norma | Funcionamiento del teleprompter (monitor, cristal, mando); autocontrol en radio | — |
+| Portada del fabricante Autocue (captura del 02-09-2026) | Autocue es marca; el fabricante llama a sus aparatos prompters y teleprompters; fabrica desde 1955 | 24-09-2026 |
+| Costumbre de oficio, sin norma | Funcionamiento del teleprompter (monitor, cristal, mando); «autocue» como nombre del aparato en las redacciones; autocontrol en radio | — |

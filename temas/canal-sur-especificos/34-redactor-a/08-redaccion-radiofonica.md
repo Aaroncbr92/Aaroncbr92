@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 8 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Sin norma. Manual de estilo de RTVE, capítulo 3 (RNE), porque Canal Sur no tiene publicado libro de estilo de radio; costumbre de oficio para el estudio y la operación de sonido |
+| Fuente | Sin norma. Manual de estilo de RTVE, capítulo 3 (RNE) y capítulo 6 (6.3.1), porque Canal Sur no tiene publicado libro de estilo de radio; Libro de estilo de Canal Sur (2004), Introducción y 3.14; costumbre de oficio para el estudio y la operación de sonido |
 | Redacción que se estudia | Manual de estilo de RTVE en su versión web, cotejada el 24-09-2026 |
-| Extensión | 2.678 palabras |
+| Extensión | 2.907 palabras |
 
 <!-- /portada -->
 
@@ -24,7 +24,7 @@ Qué se puede preguntar: por qué se escribe distinto para el oído (fugacidad d
 exigencias de claridad, concreción y brevedad; qué evitar o restringir al redactar (grandilocuencia,
 «ayer» al principio, demostrativos); para qué y cuánto dura un corte de voz y cómo se corta; qué es un boletín
 horario y qué lo diferencia del diario hablado; quién presenta el último hecho; qué es una continuidad
-forzada; cómo se termina una crónica; la regla de los micrófonos ocultos; quién retira la palabra al
+forzada; cómo se termina una crónica y qué valoraciones admite; qué hacer con una cifra difícil de captar; la regla de los micrófonos ocultos; quién retira la palabra al
 oyente que insulta; cómo se reparte un estudio de radio entre locutorio y control.
 
 <!-- indice -->
@@ -92,9 +92,14 @@ que la radio use más ambiente, más ráfagas y más identificación verbal que 
    presente que el pasado, la frase activa que la pasiva»**.
 3. **«Brevedad»**: **«períodos y frases breves que aseguren la comprensión.»**
 
-La noticia radiofónica se escribe en presente, **«desechando los pretéritos hasta donde el sentido
-común recomiende»**; **«se evitará el excesivo volumen de datos»** y **«Se tendrá especial cuidado de no
-ser prolijos en cifras, siglas o nombres poco conocidos.»**
+La noticia radiofónica, **«Concebida como un hecho novedoso de interés general, difundido sonoramente
+con inmediatez y claridad, debe responder al qué, quién, cuándo, cómo, dónde y por qué con un lenguaje
+conciso y sencillo.»** Se escribe en presente, **«desechando los pretéritos hasta donde el sentido
+común recomiende»**, y con **«estructuras gramaticales sencillas renunciando a las que dificulten la
+comprensión de los mensajes radiofónicos.»** En cuanto al contenido, **«se evitará el excesivo volumen de
+datos»** y **«Se tendrá especial cuidado de no ser prolijos en cifras, siglas o nombres poco conocidos.
+Si la magnitud de una cifra dificulta la comprensión de una noticia, se valorará el uso de comparaciones
+que faciliten su comprensión.»**
 
 ### Lo que se evita o restringe al redactar
 
@@ -143,10 +148,15 @@ personal.»**
 - Recursos: **«la crónica se articula habitualmente a través del monólogo, priorizando el valor de la
   propia palabra, las voces grabadas de los protagonistas y los sonidos que puedan reforzar la
   representación sonora de la realidad.»**
-- Planificación, incluso en caliente: el informador debe **«planificar el contenido y la estructura de
-  la presentación, aún cuando se elabore una crónica mientras los hechos se están produciendo.»**
+- Rigor y planificación, incluso en caliente: **«El informador debe garantizar rigor expositivo y
+  técnico, planificar el contenido y la estructura de la presentación, aún cuando se elabore una crónica
+  mientras los hechos se están produciendo.»**
+- Valoraciones: el estilo personal no autoriza a juzgar. **«La celeridad que puede rodear la elaboración
+  de una crónica no impedirá que el informador limite su aportación a juicios que tengan reflejo en los
+  hechos acaecidos, evitando sentenciar, calificar, enjuiciar o descalificar. Los elementos valorativos
+  de la crónica deben ser justificados por el periodista.»**
 - Estilo: **«elaborado no para ser leído sino para ser contado con un lenguaje sencillo y claro»**.
-- Cierre: no con un corte (epígrafe 3).
+- Cierre: es recomendable no terminarla con un corte (epígrafe 3).
 
 La crónica de televisión de Canal Sur, su duración y la crónica deportiva están en el tema 5.
 
@@ -179,6 +189,13 @@ diarios informativos.»**
 **«El boletín horario es el eje de la continuidad informativa; por ello tiene una gran relevancia en la
 identificación de la cadena.»** Su finalidad: **«recopilar las noticias más importantes, ofrecer noticias
 de última hora y avanzar los aspectos noticiosos que son objeto del interés informativo.»**
+
+**«De un modo más amplio, el boletín da cuenta de aquellos hechos más significativos ocurridos desde el
+anterior servicio informativo, amplía los datos de las noticias flash -en el caso de que las haya
+habido-, rescata algunas referencias acerca de las noticias más importantes difundidas en el reciente
+servicio principal y, finalmente, recuerda aquellos acontecimientos que están ocurriendo en el momento de
+la emisión y los que previsiblemente se producirán en el tiempo que media hasta el siguiente programa
+informativo.»**
 
 No aspira a la profundidad del diario hablado, pero **«las noticias más importantes deben tener cabida en
 todos los boletines. Cada boletín debe contemplarse como eslabón de una cadena informativa»**, lo que

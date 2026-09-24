@@ -6,17 +6,18 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 10 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulo 8, «Presencia en cámara»); Manual de estilo de RTVE (capítulos de TVE y RNE) donde el de Canal Sur no llega; Recomendación UIT-R SNG.770-2 para el enlace por satélite; costumbre de oficio para la técnica de enlaces y de captación |
+| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulo 8, «Presencia en cámara»); Manual de estilo de RTVE (capítulos de TVE y RNE) donde el de Canal Sur no llega; Recomendación UIT-R SNG.770-2 para el enlace por satélite; X Convenio Colectivo de la RTVA (artículo 39) y Carta del Servicio Público de la RTVA 2024-2029 (artículo 13); costumbre de oficio para la técnica de enlaces y de captación |
 | Redacción que se estudia | Libro de estilo de Canal Sur, 1.ª ed., 2004; Manual de estilo de RTVE en su versión web (copia del 02-09-2026); ambos leídos el 24-09-2026 |
-| Extensión | 3.043 palabras |
+| Extensión | 3.289 palabras |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV); Corporación de Radio y Televisión Española (RTVE); Televisión Española (TVE);
 Radio Nacional de España (RNE); Unión Internacional de Telecomunicaciones, Sector de
-Radiocomunicaciones (UIT-R); periodismo electrónico digital por satélite (DSNG, del inglés *digital
-satellite news gathering*).
+Radiocomunicaciones (UIT-R); periodismo electrónico por satélite (SNG, del inglés *satellite news
+gathering*) y su variante digital (DSNG, del inglés *digital satellite news gathering*); fibra hasta
+el hogar (FTTH, del inglés *fiber to the home*).
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.34, punto 10): «Coberturas en directo,
 > últimas horas y situaciones de incertidumbre: preparación, actualización de datos, modulación del
@@ -28,8 +29,9 @@ prevé; qué hay que pactar y con quién; a qué seis preguntas responde el dire
 una última hora y qué recursos se usan si no hay imagen; qué se hace con el falso directo; de quién
 son el saludo y la despedida; qué no se dice en directo (lo que no se puede demostrar, el *off the
 record*); qué vías traen la señal desde el lugar de los hechos y cuál es el límite de cada una; qué
-es el *uplink*; por qué se graba aunque se esté emitiendo; qué es el eje de la continuidad
-informativa en radio.
+es el *uplink*; por qué se graba aunque se esté emitiendo; qué seguro promete el convenio para
+los desplazamientos a zonas de riesgo; qué es el eje de la continuidad informativa en radio y por
+qué cauces la asegura la Carta de Canal Sur.
 
 <!-- indice -->
 
@@ -52,6 +54,7 @@ informativa en radio.
 - [8. Continuidad informativa](#8-continuidad-informativa)
   - [En el directo](#en-el-directo)
   - [En la radio](#en-la-radio)
+  - [En Canal Sur](#en-canal-sur)
 - [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
 - [Trazabilidad](#trazabilidad)
 
@@ -124,12 +127,16 @@ es otra cosa: la de la respuesta, no la del trabajo.
 
 Lo que se prepara, según el Libro de estilo (8.1):
 
-- **El texto**: la aparición en directo **«debe estar bien preparada. Cualquier detalle, aunque
-  queramos que parezca improvisado, debe elaborarse minuciosamente»**; **«Lo recomendable es escribir
-  los datos básicos, memorizarlos y centrarse exclusivamente en ellos»** (8.1.5).
-- **Los riesgos**: **«Identiﬁcar y conocer los riesgos en la preparación o en el transcurso de un
+- El texto: **«La aparición en pantalla, especialmente en casos de directo, debe estar bien
+  preparada. Cualquier detalle, aunque queramos que parezca improvisado, debe elaborarse
+  minuciosamente. Lo recomendable es escribir los datos básicos, memorizarlos y centrarse
+  exclusivamente en ellos, aunque hay que evitar un tono monocorde de recitado o mirar,
+  excesivamente y de soslayo, en las notas»**. Si hace falta consultar una cifra exacta o un nombre,
+  conviene hacerlo **«de modo natural y que el espectador lo perciba nítidamente»**: **«Las actitudes
+  furtivas quedan mal ante la cámara»** (8.1.5).
+- Los riesgos: **«Identiﬁcar y conocer los riesgos en la preparación o en el transcurso de un
   directo y procurar soslayarlos para no incurrir en errores»** (8.1.7).
-- **El emplazamiento**: el enviado especial **«se colocará en un punto que permita al espectador
+- El emplazamiento: el enviado especial **«se colocará en un punto que permita al espectador
   reconocer sin diﬁcultad el lugar donde se encuentra»** —**«si está la Torre Eiffel, es París»**—, y
   **«Descartaremos siempre los emplazamientos que muestren con nitidez imágenes, nombres, anagramas o
   cualquier elemento que aporte connotaciones publicitarias o propagandísticas explícitas»** (8.3.2).
@@ -165,14 +172,14 @@ permitiremos que el espectador lo vea también)»**.
 
 Tres reglas más del mismo libro y del de RTVE:
 
-- **Sin opinión**: la presencia en imagen **«es un método para informar, no para dar opiniones
+- Sin opinión: la presencia en imagen **«es un método para informar, no para dar opiniones
   personales, salvo que se requieran especíﬁcamente desde el plató como testigo de un hecho o enviado
   especial. La excepción sirve sólo en el supuesto de una conexión en directo»** (LE 8.1.2).
-- **Claridad y jerarquía**: **«Una cantidad abrumadora de datos con premura, sin orden claro y sin
+- Claridad y jerarquía: **«Una cantidad abrumadora de datos con premura, sin orden claro y sin
   jerarquía sólo causa confusión. El reportero apenas insistirá en dos o tres elementos porque la
   capacidad de atención del espectador es limitada»** (LE 8.1.4). La aparición en pantalla, en directo o en las
   inserciones de vídeo, **«será sencilla en cuanto al vocabulario y la sintaxis»** (LE 8.3.1).
-- **Sin contagio del ambiente**: **«El ambiente o la atmósfera del evento no deberán afectar a la
+- Sin contagio del ambiente: **«El ambiente o la atmósfera del evento no deberán afectar a la
   imparcialidad ni a la calidad del trabajo del informador»** (RTVE 2.4.3).
 
 Modular es, en la práctica, separar en la frase lo confirmado de lo que no lo está y atribuir cada
@@ -218,13 +225,13 @@ distribución). Sus vías, como costumbre de oficio:
 | Agregación de redes móviles | Varias tarjetas de telefonía sumadas en una mochila | Ligerísimo y barato | Depende de la cobertura; latencia variable |
 | Redes de datos (FTTH, líneas dedicadas) | Transporte sobre red de datos, con protocolos de contribución | Barato donde hay red | Depende de la red de un tercero |
 
-- **Satélite.** El tramo de subida al satélite es el enlace ascendente (en la jerga, *uplink*); el de
+- *Satélite.* El tramo de subida al satélite es el enlace ascendente (en la jerga, *uplink*); el de
   bajada, el descendente (*downlink*). La Recomendación UIT-R SNG.770-2 (01/2012), de procedimientos
   operacionales uniformes para el DSNG, parte de **«que el SNG es temporal y ocasional, y que a menudo
   su activación no puede determinarse con gran antelación»** (considerando c) y lo define como
   transmisión **«con escaso tiempo de aviso»** mediante **«estaciones terrenas de enlace ascendente
   portátiles o fácilmente transportables»** (anexo 1, 1.1).
-- **Mochila.** Una mochila de agregación suma varias conexiones de telefonía móvil para conseguir un
+- *Mochila.* Una mochila de agregación suma varias conexiones de telefonía móvil para conseguir un
   canal estable. Sus dos límites son los de la red que usa: la cobertura, que no se controla, y la
   latencia, que varía con la carga de la red.
 
@@ -248,19 +255,30 @@ riesgos del directo **«y procurar soslayarlos»** (LE 8.1.7), y **«Las interve
 aceptables sólo cuando la noticia y el escenario lo requieran y lo permitan»** (RTVE 2.4.2). La
 prevención de riesgos del puesto es el tema 20.
 
+Lo que sí consta para Canal Sur está en el X Convenio Colectivo de la RTVA (artículo 39, tema 7 del
+común). Además de la póliza colectiva de vida e invalidez de todo el personal, el convenio dice:
+**«Durante la vigencia del presente Convenio Colectivo se procederá al establecimiento de un seguro
+de vida que cubra los desplazamientos de los/las trabajadores/as a zonas de riesgos, conflictos
+sociales, guerras, catástrofes y zonas radioactivas, así como asistencia médica y repatriación»**.
+Es la cláusula que alcanza al redactor enviado a cubrir una catástrofe, un conflicto o una zona de
+riesgo. El convenio la formula como compromiso («se procederá»); que ese seguro se haya llegado a
+contratar no consta en documento publicado.
+
 ## 8. Continuidad informativa
 
 ### En el directo
 
-- **Brevedad**: **«Una conexión en directo tiene más fuerza cuanto más breve y concisa resulte. El
+- Brevedad: **«Una conexión en directo tiene más fuerza cuanto más breve y concisa resulte. El
   intercambio de saludos o cualquier fórmula de protocolo debe ceñirse al mínimo»** (LE 8.3.2).
-- **A quién se habla**: **«El saludo, la despedida y cualquier referencia de cortesía deben ser para
-  la audiencia»**; al presentador se le habla en segunda persona cuando da paso a la conexión y, desde
-  ahí, se usa **«la segunda persona del plural»** para los espectadores. **«Terminado el directo, en la despedida sólo habla el
-  presentador»** (LE 8.3.2).
-- **Si algo falla**: solventarlo **«con naturalidad e incluso hacérselo saber al espectador»** (LE
+- A quién se habla: **«Es recomendable que el periodista desplazado no se dirija al presentador y
+  mucho menos ser reiterativo con su nombre de pila. El saludo, la despedida y cualquier referencia
+  de cortesía deben ser para la audiencia, que es a quien nos dirigimos. Lo más lógico es dirigirse
+  al presentador en segunda persona cuando se dé paso a nuestra conexión en directo y, a partir de
+  aquí, emplear la segunda persona del plural para dirigir su mensaje a los espectadores. Terminado
+  el directo, en la despedida sólo habla el presentador»** (LE 8.3.2).
+- Si algo falla: solventarlo **«con naturalidad e incluso hacérselo saber al espectador»** (LE
   8.1.9).
-- **Falso directo**: **«El uso de la modalidad de falso directo debe erradicarse»**. Si no se puede
+- Falso directo: **«El uso de la modalidad de falso directo debe erradicarse»**. Si no se puede
   resolver por dificultad técnica o por ausencia de franja horaria, se revisa el formato, y **«Si el directo es falso, lo
   haremos constar»** (LE 8.3.3).
 
@@ -271,13 +289,31 @@ desde el servicio anterior, **«amplía los datos de las noticias flash -en el c
 acontecimientos que están ocurriendo en el momento de la emisión y los que previsiblemente se
 producirán en el tiempo que media hasta el siguiente programa informativo»**.
 
+### En Canal Sur
+
+La Carta del Servicio Público de la RTVA 2024-2029 (artículo 13) no regula la cobertura en directo, pero fija
+dónde se sostiene la información de Canal Sur:
+
+- Las **«programaciones generalistas lineales y las específicas dedicadas a la actualidad, y los
+  formatos de contenidos producidos para plataformas digitales de distribución, basarán sus
+  programaciones en la potencia informativa estructural de Canal Sur»** (13.2).
+- **«Bajo el criterio profesional del interés informativo y utilidad social, se producirán
+  coberturas informativas especiales sobre las sesiones más significativas de la actividad del
+  Parlamento de Andalucía, así como de otras instituciones democráticas de la comunidad y del resto
+  de España»** (13.7).
+- Canal Sur producirá servicios informativos provinciales en radio, televisión y soportes digitales,
+  **«estando disponibles los servicios provinciales en directo y "a petición" en los soportes web y
+  plataformas digitales de Canal Sur»** (13.8).
+
 ## Lo que este tema no da, y dónde está
 
 - Seguridad física del periodista en coberturas de riesgo: no consta en el Libro de estilo de Canal
-  Sur ni en el Manual de RTVE leído. Prevención de riesgos, en el tema 20; ética, en el tema 18.
+  Sur ni en el Manual de RTVE leído; el convenio sólo da el compromiso de seguro (epígrafe 7), y no
+  consta que se haya contratado. Prevención de riesgos, en el tema 20; ética, en el tema 18.
 - Procedimiento de verificación en directo: no hay fuente propia; métodos, en los temas 4 y 14.
-- Canales de Canal Sur que dan continuidad informativa (programación especial, canal de 24 horas):
-  no confirmado en documento publicado; no se afirma.
+- Cómo organiza Canal Sur la programación especial de una última hora, y si tiene un canal de
+  noticias de 24 horas: no consta en documento publicado; la Carta sólo da los cauces generales
+  (epígrafe 8).
 - El retardo del satélite y cómo afecta al diálogo con el plató: sin fuente leída.
 - Tratamiento de sucesos, catástrofes y víctimas: tema 11. Presencia y locución ante cámara: tema 9.
 - El Libro de estilo es de 2004 y habla de Canal 2 Andalucía; su vigencia práctica no consta.
@@ -289,6 +325,8 @@ producirán en el tiempo que media hasta el siguiente programa informativo»**.
 | *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: 3.9.1; cap. 6, p. 88; 8.1 (pp. 113-114); 8.3 a 8.3.3 (pp. 116-118) | Preparación, pacto, editor, lenguaje, emplazamiento, brevedad, despedida, falso directo | 24-09-2026 |
 | Manual de estilo de RTVE (web), cap. 2 TVE: 2.1.3, 2.2.7, 2.4.2, 2.4.3 | Última hora, actualización, directo, noticias especiales | 24-09-2026 |
 | Manual de estilo de RTVE (web), cap. 3 RNE: 3.2.1 | Boletín y continuidad en radio | 24-09-2026 |
+| X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), artículo 39 | Seguro para desplazamientos a zonas de riesgo | 24-09-2026 |
+| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023), artículo 13.2, 13.7 y 13.8 | Cauces de la continuidad informativa en Canal Sur | 24-09-2026 |
 | Recomendación UIT-R SNG.770-2 (01/2012), edición en español | Carácter temporal y ocasional del DSNG (considerando c) y su definición (anexo 1, 1.1) | 24-09-2026 |
 
 Va como costumbre de oficio, y así se declara: la tabla de vías de transporte, el funcionamiento de

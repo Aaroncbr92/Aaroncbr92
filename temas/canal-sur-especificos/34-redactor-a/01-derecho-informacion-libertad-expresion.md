@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 1 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Constitución Española de 1978 (arts. 18, 20, 24 y 53) · Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen · Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de la información · Sentencia del Tribunal Constitucional 27/2020, de 24 de febrero · Libro de estilo de Canal Sur Televisión (2004) · Carta ética mundial para periodistas de la FIP (2019) · Manual de estilo de RTVE, como criterio de otro medio público |
-| Redacción que se estudia | La vigente el 24-09-2026 (BOE consolidado). La Ley Orgánica 2/1984 no ha sido reformada. De la Ley Orgánica 1/1982, el art. 1 está en la redacción de la LO 10/1995; el art. 2, en la de la LO 3/1985, con un inciso anulado por la Sentencia del TC 9/1990; los arts. 4, 7 y 9, en la de la LO 5/2010; la disposición transitoria primera está derogada |
-| Extensión | 5.149 palabras |
+| Fuente | Constitución Española de 1978 (arts. 18, 20, 24 y 53) · Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen · Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de la información · Sentencia del Tribunal Constitucional 27/2020, de 24 de febrero · Libro de estilo de Canal Sur Televisión (2004) · Carta ética mundial para periodistas de la FIP (2019) · Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación (arts. 4 y 29) · Manual de estilo de RTVE, como criterio de otro medio público |
+| Redacción que se estudia | La vigente el 24-09-2026 (BOE consolidado). La Ley Orgánica 2/1984 no ha sido reformada. El Reglamento (UE) 2024/1083 se estudia en su texto publicado en el Diario Oficial de la Unión Europea (su única corrección de errores, de 17-10-2024, sólo toca el art. 5.1). De la Ley Orgánica 1/1982, el art. 1 está en la redacción de la LO 10/1995; el art. 2, en la de 15-02-1990, que recoge la anulación por la Sentencia del TC 9/1990 del inciso que le había añadido la LO 3/1985; los arts. 4, 7 y 9, en la de la LO 5/2010; la disposición transitoria primera está derogada |
+| Extensión | 6.123 palabras |
 
 <!-- /portada -->
 
@@ -31,7 +31,8 @@ cuándo actúa el Fiscal por un fallecido (ochenta años); si publicar una foto 
 abierto exige consentimiento; plazos de la rectificación (siete días naturales, tres días, siete
 días hábiles) y por qué en un medio público no hace falta reclamación gubernativa previa; en qué dos
 casos da la cláusula de conciencia derecho a rescindir; qué salvedades pone el Libro de estilo al
-secreto profesional.
+secreto profesional; qué medidas contra las fuentes prohíbe el Reglamento (UE) 2024/1083 y con qué
+condiciones caben excepciones.
 
 <!-- indice -->
 
@@ -72,7 +73,8 @@ secreto profesional.
 
 El punto 1 cuelga de la Constitución y de tres leyes orgánicas que la desarrollan: la 1/1982 (honor,
 intimidad e imagen), la 2/1984 (rectificación) y la 2/1997 (cláusula de conciencia). Para el secreto
-profesional, el tema no da ley de desarrollo. Sobre ellas, el Libro de estilo de Canal Sur Televisión, de
+profesional, el tema no da ley española de desarrollo; da el Reglamento (UE) 2024/1083, que protege
+las fuentes periodísticas. Sobre esas normas, el Libro de estilo de Canal Sur Televisión, de
 2004, fija cómo lo aplica la redacción: se define como «**un conjunto de recomendaciones
 periodísticas y una selección de métodos de trabajo**» y cita normas de su época (la Ley de creación
 de la RTVA de 1987, hoy derogada por la Ley 18/2007), así que lo que sigue se da siempre como «según
@@ -173,6 +175,14 @@ Ley 8/1987, de 9 de diciembre, de creación de la RTVA, hoy derogada por la Ley 
 en pie es la regla: la decisión informativa se toma por razones editoriales y el redactor no puede tener
 vínculos que comprometan su función.
 
+Desde el 8 de febrero de 2025 hay además norma europea directamente aplicable: el art. 4.2 del
+Reglamento (UE) 2024/1083 (aplicable desde esa fecha según su art. 29.b): «**Los Estados miembros
+respetarán la libertad e independencia editorial efectivas de los prestadores de servicios de medios
+de comunicación en el ejercicio de sus actividades profesionales. Los Estados miembros, incluidas las
+autoridades y organismos reguladores nacionales, no podrán interferir ni tratar de influir en las
+políticas editoriales y las decisiones editoriales de los prestadores de servicios de medios de
+comunicación.**» Obliga a los Estados; el Libro de estilo obliga a la redacción.
+
 ## 3. Derecho al honor, a la intimidad y a la propia imagen: Ley Orgánica 1/1982
 
 ### Estructura y redacción vigente
@@ -180,8 +190,9 @@ vínculos que comprometan su función.
 Capítulo I, «**Disposiciones generales**» (arts. 1 a 6); capítulo II, «**De la protección civil del
 honor, de la intimidad y de la propia imagen**» (arts. 7 a 9); una disposición derogatoria y dos
 transitorias, la primera de ellas derogada. Los artículos van numerados en letra («Artículo primero»…). El art. 1 está en la
-redacción de la LO 10/1995, del Código Penal; el art. 2, en la de la LO 3/1985, que le añadió la
-mención de los Diputados y Senadores; los arts. 4, 7 y 9, en la de la LO 5/2010, que modificó el
+redacción de la LO 10/1995, del Código Penal; el art. 2 tiene tres redacciones: la LO 3/1985 le añadió la
+mención de los Diputados y Senadores, y la vigente, de 15 de febrero de 1990, es la que recoge que la
+Sentencia del TC 9/1990 anuló ese añadido; los arts. 4, 7 y 9, en la de la LO 5/2010, que modificó el
 Código Penal.
 
 ### Disposiciones generales (arts. 1 a 6)
@@ -202,14 +213,13 @@ Código Penal.
   actos, mantenga cada persona reservado para sí misma o su familia.**»
 - Art. 2.Dos: «**No se apreciará la existencia de intromisión ilegítima en el ámbito protegido
   cuando estuviere expresamente autorizada por Ley o cuando el titular del derecho hubiere
-  otorgado al efecto su consentimiento expreso o, por imperativo del artículo 71 de la
-  Constitución, cuando se trate de opiniones manifestadas por Diputados o Senadores en el
-  ejercicio de sus funciones.**» El apartado sigue: «**Iniciado un proceso civil en aplicación de la
-  presente Ley, no podrá seguirse contra un Diputado o Senador sin la previa autorización del
-  Congreso de los Diputados o del Senado. La previa autorización será tramitada por el procedimiento
-  previsto para los suplicatorios.**» Un inciso de este apartado fue anulado: «**Declarada la
-  inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990
-  de 18 de enero.**»
+  otorgado al efecto su consentimiento expreso**». Son dos supuestos: autorización por ley y
+  consentimiento expreso. El resto del apartado está anulado: «**Declarada la inconstitucionalidad y
+  nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990 de 18 de enero.**» El BOE
+  consolidado destaca como anulado todo lo que la LO 3/1985 añadió: la exclusión, «por imperativo del
+  artículo 71 de la Constitución», de las opiniones de Diputados y Senadores en el ejercicio de sus
+  funciones, y la previa autorización de la Cámara, tramitada como suplicatorio, para seguir contra
+  ellos un proceso civil. Nada de eso rige hoy.
 - Art. 2.Tres: «**El consentimiento a que se refiere el párrafo anterior será revocable en
   cualquier momento, pero habrán de indemnizarse en su caso, los daños y perjuicios causados,
   incluyendo en ellos las expectativas justificadas.**»
@@ -223,10 +233,12 @@ Código Penal.
   puede recaer en una persona jurídica.**»); en su defecto, «**el cónyuge, los descendientes,
   ascendientes y hermanos de la persona afectada que viviesen al tiempo de su fallecimiento**»; a
   falta de todos, el Ministerio Fiscal, «**siempre que no hubieren transcurrido más de ochenta años
-  desde el fallecimiento del afectado**». Y en la intromisión del art. 7.8 (víctimas) está
+  desde el fallecimiento del afectado**»; «**El mismo plazo se observará cuando el ejercicio de las
+  acciones mencionadas corresponda a una persona jurídica designada en testamento.**» Y en la intromisión del art. 7.8 (víctimas) está
   legitimado «**el ofendido o perjudicado por el delito cometido, haya o no ejercido la acción
   penal o civil en el proceso penal precedente. También estará legitimado en todo caso el
-  Ministerio Fiscal.**»
+  Ministerio Fiscal. En los supuestos de fallecimiento, se estará a lo dispuesto en los apartados
+  anteriores.**»
 - Arts. 5 y 6: si sobreviven varios parientes, «**cualquiera de ellos podrá ejercer las acciones**»;
   si el titular murió sin haber podido ejercitarlas, por las circunstancias en que se produjo la
   lesión, pueden hacerlo las personas del art. 4; y esas mismas personas «**podrán continuar la
@@ -308,9 +320,10 @@ fallecido), cuatro años (caducidad), ocho intromisiones (art. 7), tres excepcio
 ### La foto de un perfil abierto: la Sentencia del TC 27/2020
 
 Un diario de Zamora ilustró el reportaje de un suceso violento (un hombre disparó a su hermano y
-después se suicidó) con la fotografía del herido, tomada de su perfil de Facebook, abierto al
-público. En casación, el Tribunal Supremo dio prevalencia a la información frente a la intimidad,
-pero mantuvo la condena por la fotografía (derecho a la propia imagen); el TC desestimó el amparo
+después se suicidó) con sendas fotografías del herido y de su hermano, tomadas de sus perfiles de Facebook; el
+demandante fue el herido, y el sumario de la sentencia describe la foto como extraída de un perfil
+personal en Facebook «**abierto y accesible al público**». En casación, el Tribunal Supremo dio prevalencia a la información frente a la intimidad,
+pero mantuvo la condena por la fotografía del demandante (derecho a la propia imagen); el TC desestimó el amparo
 del diario (Sala Segunda, Sentencia 27/2020, de 24 de febrero). Frente a la tesis de que colgar la foto equivalía a consentir
 su uso por terceros: «**No podemos aceptar esta premisa. El consentimiento solo ampara aquello que
 constituye el objeto de la declaración de voluntad. El titular del derecho fundamental debe
@@ -346,7 +359,11 @@ la imagen**» salvo que se viertan insultos o descalificaciones.
 2.3.2.11 «Vida privada» (p. 39): «**Los equipos de CSTV no grabarán dentro de una propiedad privada sin que
 lo acepten las personas cuyas imágenes deseamos obtener y los propietarios.**» Hacen falta los dos
 permisos: el de las personas grabadas y el de los propietarios. Y con permiso: «**nuestro trabajo
-cesará cuando seamos requeridos para ello de modo correcto.**»
+cesará cuando seamos requeridos para ello de modo correcto. Cualquier intento de acoso posterior
+queda descartado. La restricción para preservar la intimidad y la privacidad de una persona es
+particularmente severa en caso de enfermos, víctimas de accidentes, minusválidos, pacientes de
+hospitales, consultas médicas, personas acogidas en instituciones sociales, etc.**» («Minusválidos» es
+el término del texto de 2004.)
 
 ### Un criterio de otro medio público: el Manual de estilo de RTVE
 
@@ -395,9 +412,19 @@ representantes de éstos.**» Se rectifican hechos, no opiniones.
   pedírselo al director; siete días hábiles para ir al juez.
 - Escrito «**sin necesidad de Abogado ni Procurador**»; el juez puede inadmitir de oficio si no es
   competente o si la rectificación es «**manifiestamente improcedente**»; juicio verbal «**dentro de
-  los siete días siguientes al de la petición**» (art. 5).
-- «**c) La sentencia se dictará en el mismo o al siguiente día del juicio.**» «**El fallo se
-  limitará a denegar la rectificación o a ordenar su publicación o difusión…**» Y: «**El objeto de
+  los siete días siguientes al de la petición**» (art. 5). Si el juez se declara incompetente,
+  «**podrá el perjudicado acudir al órgano competente dentro de los siete días hábiles siguientes al
+  de la fecha de notificación de la correspondiente resolución, en la cual se deberá expresar el órgano
+  al que corresponda el conocimiento del asunto.**» (art. 5, párrafo tercero).
+- El juicio verbal se tramita conforme a la Ley de Enjuiciamiento Civil con tres modificaciones:
+  «**a) El Juez podrá reclamar de oficio que el demandado remita o presente la información enjuiciada,
+  su grabación o reproducción escrita.**» «**b) Sólo se admitirán las pruebas que, siendo
+  pertinentes, puedan practicarse en el acto.**» «**c) La sentencia se dictará en el mismo o al
+  siguiente día del juicio.**» «**El fallo se limitará a denegar la rectificación o a ordenar su
+  publicación o difusión en la forma y plazos previstos en el artículo 3.º de esta Ley, contados desde
+  la notificación de la sentencia que impondrá el pago de las costas a la parte cuyos pedimentos
+  hubiesen sido totalmente rechazados.**» «**La sentencia estimatoria de la petición de rectificación
+  deberá cumplirse en sus propios términos.**» Y: «**El objeto de
   este proceso es compatible con el ejercicio de las acciones penales o civiles de otra
   naturaleza…**» (art. 6).
 - Art. 7, el que toca a Canal Sur: «**No será necesaria la reclamación gubernativa previa cuando la
@@ -407,7 +434,7 @@ representantes de éstos.**» Se rectifican hechos, no opiniones.
   («**en un solo efecto**»), «**dentro de los tres y cinco días siguientes, respectivamente**».
 
 Cifras: siete días naturales (pedir) · tres días (difundir) · siete días hábiles (demandar) · siete
-días (juicio) · sentencia el mismo día o el siguiente · tres y cinco días (recursos).
+días (juicio) · siete días hábiles (acudir al órgano competente tras la incompetencia) · sentencia el mismo día o el siguiente · tres y cinco días (recursos).
 
 ### Rectificar sin que lo pidan
 
@@ -422,7 +449,8 @@ explícita, completa y visible.
 
 Los dos nacen en el mismo inciso del art. 20.1.d CE: «**La ley regulará el derecho a la cláusula de
 conciencia y al secreto profesional en el ejercicio de estas libertades.**» La cláusula tiene ley
-(LO 2/1997); para el secreto, el tema no da ley de desarrollo.
+(LO 2/1997); para el secreto, el tema no da ley española de desarrollo, pero sí el Reglamento (UE)
+2024/1083.
 
 ### Secreto profesional
 
@@ -440,6 +468,41 @@ evitar un daño grave e inminente).
 Carta ética de la FIP, art. 7: «**El o la periodista guardará el secreto profesional sobre la fuente
 de las informaciones obtenidas confidencialmente.**» No pone salvedades, y su objeto es la fuente de
 lo obtenido en confidencia.
+
+El Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación, es directamente
+aplicable en cada Estado miembro, y su art. 4.3 rige desde el 8 de agosto de 2025 (art. 29). Dice:
+«**Los Estados miembros se asegurarán de que las fuentes periodísticas y las comunicaciones
+confidenciales son protegidas de manera efectiva.**» Y prohíbe a los Estados tres medidas contra los
+prestadores de servicios de medios de comunicación, su personal editorial o quien, por su relación
+habitual o profesional con ellos, pueda disponer de esa información:
+
+- a) obligarles a revelar información relacionada con fuentes periodísticas o comunicaciones
+  confidenciales, o que sea susceptible de identificarlas;
+- b) detenerles, sancionarles, interceptarles o inspeccionarles, someterles a ellos o a sus
+  instalaciones a vigilancia o ponerles en busca y captura, con el fin de obtener esa información;
+- c) «**instalar programas informáticos de vigilancia intrusiva**» en sus materiales o dispositivos.
+
+Las excepciones son tasadas. Para las medidas a) y b), el art. 4.4 exige las cuatro condiciones a la
+vez: «**a) esté establecida por el Derecho de la Unión o nacional; b) cumpla lo dispuesto en el
+artículo 52, apartado 1, de la Carta y en otras disposiciones del Derecho de la Unión; c) esté
+justificada, caso por caso, por una razón imperiosa de interés general y resulte proporcionada, y
+d) esté supeditada a la autorización previa de una autoridad judicial o de una autoridad decisoria
+independiente e imparcial o, en casos excepcionales y urgentes debidamente justificados, sea
+autorizada posteriormente por dicha autoridad sin demora indebida.**» La «Carta» es la Carta de los
+Derechos Fundamentales de la Unión Europea. Para los programas de
+vigilancia (medida c), el art. 4.5 pide además esas cuatro condiciones y que se trate de investigar
+delitos graves: los de la lista de la Decisión Marco 2002/584/JAI punibles con pena o medida de seguridad
+privativas de libertad de una duración máxima de al menos tres años, u otros delitos graves con una
+duración máxima de al menos cinco años; y no cabe si basta una
+de las medidas a) o b). Las medidas de vigilancia de la letra b) y la instalación de programas de
+vigilancia intrusiva de la letra c) las revisa periódicamente una autoridad judicial o una autoridad
+decisoria independiente e imparcial (art. 4.6). Y los prestadores, su personal editorial y quien
+pueda disponer de esa información tienen derecho «**a una tutela
+judicial efectiva, de conformidad con el artículo 47 de la Carta**» frente a las infracciones de los
+apartados 3 a 7 (art. 4.8).
+
+Frente al Libro de estilo, que regula el deber del periodista hacia su informante, el Reglamento
+protege al periodista y a sus fuentes frente al Estado.
 
 ### Cláusula de conciencia
 
@@ -469,13 +532,16 @@ conciencia profesional.**»
 
 ## Normativa que el tema invoca
 
-- Constitución Española de 1978: arts. 18, 20, 24, 53.2 y 71.
+- Constitución Española de 1978: arts. 18, 20, 24 y 53.2.
 - Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal
   y familiar y a la propia imagen (arts. 1 a 9).
 - Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación (arts. 1 a 8).
 - Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de
   la información (arts. 1 a 3).
 - Sentencia del Tribunal Constitucional 27/2020, de 24 de febrero (Sala Segunda).
+- Reglamento (UE) 2024/1083 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, por el que se
+  establece un marco común para los servicios de medios de comunicación en el mercado interior y se
+  modifica la Directiva 2010/13/UE (Reglamento Europeo sobre la Libertad de los Medios de Comunicación): arts. 4 y 29.
 
 ## Lo que este tema no da, y dónde está
 
@@ -489,12 +555,10 @@ conciencia profesional.**»
 - Menores, víctimas y sucesos: tema 11.
 - Doctrina del TC sobre veracidad (diligencia, reportaje neutral) y prevalencia de la libertad de
   información: no se da, porque no se ha leído ninguna sentencia que la contenga, salvo la 27/2020.
-- Cuál es el «inciso destacado» del art. 2.2 LO 1/1982 que anuló la Sentencia del TC 9/1990: el texto
-  consolidado no lo marca.
-- Protección de las fuentes en el Reglamento (UE) 2024/1083 (Reglamento Europeo sobre la Libertad de
-  los Medios de Comunicación), aplicable en general desde el 8 de agosto de 2025: su art. 4.3 dispone
-  que «**Los Estados miembros se asegurarán de que las fuentes periodísticas y las comunicaciones
-  confidenciales son protegidas de manera efectiva.**» El resto del artículo no se desarrolla aquí.
+- Del art. 4 del Reglamento (UE) 2024/1083, el apartado 7 (tratamiento de datos en la vigilancia) y
+  el segundo párrafo del 8 (autoridad que asiste a los afectados); los demás artículos del Reglamento
+  que tocan al medio (2, 6, 18 y 29): tema 14.
+- *Off the record* y fuentes, a los que remite el Libro de estilo desde el 2.3.2.13: tema 4.
 
 ## Trazabilidad
 
@@ -503,19 +567,24 @@ Leído todo el 24-09-2026; releído y verificado contra cada fuente el 24-09-202
 - Constitución Española, BOE-A-1978-31229, texto consolidado: arts. 18.1, 20, 24.2 y 53.2 tomados del
   tema 1 del común (redacción vigente a 24-09-2026).
 - LO 1/1982, BOE-A-1982-11196, consolidado: arts. 1-9 y disposiciones (art. 1 según LO 10/1995,
-  BOE-A-1995-25444; art. 2 según LO 3/1985, BOE-A-1985-9861, con nota de la STC 9/1990; arts. 4, 7 y
+  BOE-A-1995-25444; art. 2, tres redacciones, vigente la de 15-02-1990, BOE-A-1990-3964, con el inciso
+  añadido por la LO 3/1985, BOE-A-1985-9861, destacado como anulado por la STC 9/1990 en el texto
+  consolidado del BOE, releído el 24-09-2026; arts. 4, 7 y
   9 según LO 5/2010, BOE-A-2010-9953; disposición transitoria 1.ª derogada).
-- LO 2/1984, BOE-A-1984-7248, consolidado (una sola redacción): arts. 1-8.
+- LO 2/1984, BOE-A-1984-7248, consolidado (una sola redacción): arts. 1-8 (arts. 5 y 6 releídos el
+  24-09-2026).
 - LO 2/1997, BOE-A-1997-13374: arts. 1, 2 y 3, tomados del tema 6 del común.
-- Sentencia del TC 27/2020, de 24 de febrero, BOE-A-2020-4112 (BOE núm. 84, de 26-III-2020): antecedente
+- Sentencia del TC 27/2020, de 24 de febrero, BOE-A-2020-4112 (BOE núm. 83, de 26-III-2020): antecedente
   2, letras a) a f) (hechos y sentencia del TS 91/2017, con las citas sobre el consentimiento),
   fundamento jurídico 4 y fallo.
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004:
   Introducción; 1.5 (p. 31); 1.6 y 1.9 (p. 32); 2.3.2.1 (p. 37); 2.3.2.10 (pp. 38-39); 2.3.2.11 y
-  2.3.2.13 (p. 39).
+  2.3.2.13 (p. 39; 2.3.2.11 releído entero el 24-09-2026).
 - Carta ética mundial para periodistas de la FIP, 30.º Congreso Mundial, Túnez, 12 de junio de 2019:
   arts. 6, 7 y 15.
 - Manual de estilo de la Corporación RTVE, versión web, capítulo 1, 1.1.3.1 «Los pilares del respeto»
   y 1.1.3.2 «La intimidad de las víctimas».
 - Reglamento (UE) 2024/1083, Diario Oficial de la Unión Europea de 17-IV-2024, texto original sin
-  consolidar: arts. 4.3 y 29.
+  consolidar: arts. 4.2 a 4.8 y 29, releídos el 24-09-2026. Su corrección de errores (DOUE de 17-X-2024) sólo toca
+  el art. 5.1; la publicación del DOUE de 11-II-2026 (C/2026/901) no es una corrección, sino las
+  directrices de la Comisión sobre el art. 18.

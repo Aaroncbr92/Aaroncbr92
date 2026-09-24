@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 18 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 5.4, 10, 15.3, 17, 33.2 y 34.1) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
+| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Constitución Española (art. 20.1.d) · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia (arts. 1 a 3) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 5.4, 10, 15.3, 17.1.m, 17.2, 33.2 y 34.1) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 10.1, 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
 | Redacción que se estudia | La vigente el 24-09-2026. El Estatuto profesional vigente no está publicado; el Libro de estilo es de 2004 y cita normas hoy derogadas; la fecha de la norma del Defensor no consta con certeza |
-| Extensión | 7.392 palabras |
+| Extensión | 8.159 palabras |
 
 <!-- /portada -->
 
@@ -28,8 +28,9 @@ a quién antepone el preámbulo la responsabilidad del periodista; las cuatro cu
 rectificación (art. 6) y las seis faltas graves (art. 10); cuándo admite la Carta la grabación
 oculta; qué modalidades de difusión pactada respeta (art. 14); qué artículo de la Ley 18/2007 define
 el Estatuto profesional y quién lo aprueba; por qué no puede estudiarse el Estatuto vigente; qué
-dice el Libro de estilo de las credenciales, los regalos y la información pagada, y quién puede
-autorizar la excepción; quién designa al Defensor o Defensora de la Audiencia, con qué mayorías y
+dice el Libro de estilo de la responsabilidad, la imparcialidad y la transparencia (normas básicas
+1.5, 1.7 y 1.8), del secreto profesional y su única salvedad (con dos supuestos), de las credenciales, los regalos y la
+información pagada, y quién puede autorizar la excepción; quién designa al Defensor o Defensora de la Audiencia, con qué mayorías y
 por cuánto tiempo; en qué plazo debe el personal de la RTVA contestar a sus requerimientos (quince
 días) y en cuál responde él a la audiencia.
 
@@ -53,6 +54,8 @@ días) y en cuál responde él a la audiencia.
   - [Lo que el texto de 2006 dice al redactor (no vigente)](#lo-que-el-texto-de-2006-dice-al-redactor-no-vigente)
 - [3. El Libro de estilo](#3-el-libro-de-estilo)
   - [Qué es y con qué cautelas se usa](#qué-es-y-con-qué-cautelas-se-usa)
+  - [La responsabilidad del redactor (1.8)](#la-responsabilidad-del-redactor-18)
+  - [El secreto profesional (2.3.2.13)](#el-secreto-profesional-23213)
 - [4. Independencia](#4-independencia)
   - [La independencia de la RTVA en su ley](#la-independencia-de-la-rtva-en-su-ley)
   - [La independencia del redactor](#la-independencia-del-redactor)
@@ -164,7 +167,8 @@ acontecimientos por cualquier medio**». Cinco actividades sobre noticias e info
 
 - *Art. 7, el secreto profesional.* «**El o la periodista guardará el secreto profesional sobre la
   fuente de las informaciones obtenidas confidencialmente.**» Una línea, sin excepciones. Su alcance:
-  la fuente de las informaciones obtenidas confidencialmente.
+  la fuente de las informaciones obtenidas confidencialmente. El Libro de estilo, en cambio, sí
+  prevé una salvedad con dos supuestos (epígrafe 3).
 - *Art. 8, privacidad, dignidad, información y vulnerabilidad.* «**El o la periodista respetará la
   privacidad de las personas. Respetará la dignidad de las personas representadas, informará a los
   entrevistados de que sus comentarios y documentos serán publicados y mostrará especial
@@ -398,10 +402,38 @@ Tres cautelas para citarlo:
   («**quedan prohibidas**», «**no será comprada en ningún caso**»). Hay que citar cada una con su
   verbo: donde dice «es recomendable» no puede leerse «deberá».
 
-Las pautas que tocan este tema están en el capítulo 1 (1.9 Independencia), en el 2.3.2 («La función
-de informar»), en el 2.5 («Deontología») y en el 9.1 («Recomendaciones», del capítulo sobre asuntos
-comprometidos). Se reparten en los epígrafes siguientes según el punto del enunciado al que
-responden.
+Las pautas que tocan este tema están en el capítulo 1, «Normas básicas» (1.5 Imparcialidad, 1.7
+Transparencia, 1.8 Responsabilidad y 1.9 Independencia), en el 2.3.2 («La función de informar»), en
+el 2.5 («Deontología») y en el 9.1 («Recomendaciones», del capítulo sobre asuntos comprometidos). Se
+reparten en los epígrafes siguientes según el punto del enunciado al que responden; las dos que no
+tienen punto propio en el enunciado van a continuación. Entre sus anexos, el Libro reproduce además
+el código deontológico de la Federación de Asociaciones de la Prensa de España (FAPE), aprobado en
+Sevilla el 27 de noviembre de 1993, que este tema no desarrolla.
+
+### La responsabilidad del redactor (1.8)
+
+Es la norma básica que lleva el nombre de la rúbrica del enunciado («responsabilidad del
+redactor/a»). 1.8 Responsabilidad: «**El periodista
+y todos los empleados de la televisión pública de Andalucía son responsables de ofrecer siempre al
+público un contenido decente, digno y relevante. Esta responsabilidad tiene una doble faceta,
+profesional y social, e impregna todos los aspectos de nuestra actividad, desde el respeto obligado
+a todas las culturas, el cuidado en la selección rigurosa de imágenes, el uso correcto de la lengua,
+con la imprescindible erradicación de expresiones ofensivas, hasta la cobertura de asuntos
+controvertidos o delictivos.**» Tres adjetivos para el contenido (decente, digno y relevante) y dos
+facetas de la responsabilidad (profesional y social). No se limita al periodista: alcanza a «todos
+los empleados».
+
+### El secreto profesional (2.3.2.13)
+
+2.3.2.13 Secreto: «**El secreto profesional es un derecho del periodista y un deber que garantiza la
+confidencialidad de sus fuentes de información. Por tanto, está obligado a proteger la identidad de
+sus informantes si lo han solicitado. La única salvedad es que la información aportada sea
+conscientemente falsa o que la revelación sea el único medio para evitar un daño grave e inminente
+para cualquier persona.**» Derecho y deber a la vez; la obligación nace cuando el informante lo ha
+solicitado, y cede en dos supuestos: información «conscientemente falsa» o revelación como «único
+medio» de evitar un daño «grave e inminente». Frente al art. 7 de la Carta de la FIP, que no prevé
+excepciones, y al 6.9 del texto de 2006 (no vigente), limitado a evitar ciertos delitos, el Libro
+habla de un daño grave e inminente «para cualquier persona».
 
 ## 4. Independencia
 
@@ -488,6 +520,11 @@ El convenio al que remite el Libro de estilo es hoy el X Convenio. Su artículo 
 
 ## 6. Deber de imparcialidad
 
+- Libro de estilo, 1.5 Imparcialidad (normas básicas): «**Los hechos y las ideas deben expresarse de
+  manera equilibrada. Los programas informativos deben ser justos, libres de prejuicios, respetuosos
+  con la verdad y dotados de una amplitud de criterios capaz de acoger toda la gama de intereses de
+  nuestra audiencia, así como sus puntos de vista, credos y corrientes de pensamiento, incluidas las
+  minorías étnicas, culturales o religiosas.**»
 - Libro de estilo, 2.5.1 Imparcialidad: «**La imparcialidad es un principio inexcusable. Cada
   noticia debe ser justa, ecuánime, sin prejuicios y respetuosa con la verdad. Todo credo o
   pensamiento legítimamente establecido tiene que ser contemplado debidamente.**»
@@ -524,6 +561,9 @@ El convenio al que remite el Libro de estilo es hoy el X Convenio. Su artículo 
   documentos de valor probatorio o el pago a testigos cuya declaración sea inexcusable para
   respaldar una información de interés público.**» La excepción tiene dos supuestos y una
   condición: la autorización de la Dirección de los Servicios Informativos.
+- Libro de estilo, 2.3.2.8 Relaciones sociales: al ciudadano que trata con los Servicios
+  Informativos «**Debemos, por ello, concederle un trato cortés y atento, pero sin incurrir en
+  compromisos.**»
 - Carta de la FIP, art. 13: abstenerse de «**recibir cualquier provecho por la difusión o no
   difusión de información**».
 
@@ -550,8 +590,17 @@ El derecho de rectificación como derecho de la persona aludida (LO 2/1984 y art
 
 ## 9. Transparencia con la audiencia
 
-Ninguna de las fuentes del tema tiene un apartado con este nombre. Lo que dicen sobre ello:
+El Libro de estilo tiene una norma básica con este nombre, 1.7 Transparencia: «**Los protagonistas
+de una noticia, los testigos y cualquier persona que participe en los contenidos informativos de
+CSTV y Canal 2 Andalucía tienen derecho a ser tratados con equidad, honestidad y respeto. Asimismo es
+inexcusable el respeto a la privacidad y a los derechos de las personas. Esta consideración no
+puede, sin embargo, ser un obstáculo insalvable cuando investiguemos asuntos que vulneren las leyes o
+perjudiquen el bien general.**» Lo demás que dicen las fuentes sobre ello:
 
+- Libro de estilo, 2.5.3 Equidad: «**Los programas informativos deben basarse en la equidad y la
+  transparencia.**» Quienes aparecen, participan o contribuyen con declaraciones o testimonios deben
+  ser tratados con respeto y «**Tienen derecho a saber de qué trata el programa, qué tipo de
+  contribución se espera de ellos y cuáles son las condiciones técnicas del espacio.**»
 - Carta del Servicio Público, art. 26, «Atención a la audiencia»:
 
   - 26.1: la audiencia por ondas y las personas usuarias de los servicios digitales «**tendrán
@@ -564,7 +613,13 @@ Ninguna de las fuentes del tema tiene un apartado con este nombre. Lo que dicen 
     servicios participativos. «**La atención y participación se convertirá en un eje rector de su
     posición en la comunicación audiovisual digital**».
 - La norma del Defensor lo configura como «**impulsor de la transparencia, la autocrítica y el
-  autocontrol**» (art. 1.3; epígrafe 10).
+  autocontrol**» (art. 1.3; epígrafe 10). Entre sus funciones, «**facilitar la comprensión de los
+  criterios y procedimientos de elaboración de los informativos y de los programas de entretenimiento
+  de la televisión y radio de titularidad autonómica**» (art. 4.2). Y debe «**exponer y justificar**»,
+  en su web, en los programas de radio y televisión de que disponga y en otros soportes, «**las
+  prioridades de su Oficina en la atención de las reclamaciones y quejas**», e incluso establecer
+  públicamente los criterios, con prioridad de los asuntos relacionados con los derechos
+  fundamentales, la oportunidad y la actualidad de los temas planteados (art. 7.4).
 - Identificarse: la Carta de la FIP obliga a informar siempre de la condición de periodista (art.
   4) y a decir a los entrevistados que sus comentarios y documentos serán publicados (art. 8). El
   Libro de estilo (2.3.2.5 Identidades falsas): «**Un periodista de Canal Sur no asumirá una
@@ -631,8 +686,9 @@ disposición adicional segunda deroga la normativa de aquel Defensor del Oyente 
 ### Funciones y obligaciones (arts. 4 y 5)
 
 Cinco funciones (art. 4): atender quejas y sugerencias y dar acuse de recibo; promover el
-conocimiento de los derechos de la ciudadanía como usuaria de los medios públicos y su actitud
-crítica; velar por las normas básicas de programación y de publicidad aprobadas por el Consejo de
+conocimiento de los derechos de la ciudadanía como usuaria de los medios públicos, estimular su
+actitud crítica y facilitar la comprensión de los criterios y procedimientos de elaboración de los
+informativos y de los programas de entretenimiento; velar por las normas básicas de programación y de publicidad aprobadas por el Consejo de
 Administración; actuar de oficio en asuntos de interés general, con especial atención a la
 infancia y la juventud, a la integración de las personas con discapacidad sensorial, a la igualdad
 y no discriminación y a los derechos a la intimidad, al honor y a la propia imagen; y promover
@@ -648,7 +704,8 @@ comparecer ante el Consejo «**como mínimo, de forma bimensual**».
 Quien acuda «**deberá identificarse con sus datos personales**» (6.1). Se rehúsan «**mediante
 escrito motivado**» las quejas anónimas, sin fundamento, sin petición o ajenas a sus funciones
 (7.1). La resolución se da «**en el plazo de treinta días hábiles**» (7.2); el art. 5 habla de
-treinta días sin decir «hábiles», y la norma no lo aclara.
+treinta días sin decir «hábiles», y la norma no lo aclara. El Defensor debe además exponer y
+justificar públicamente las prioridades de su Oficina (7.4; epígrafe 9).
 
 ### Lo que toca al redactor (art. 8.2)
 
@@ -676,7 +733,7 @@ confidencialidad en cuanto le sea legalmente de aplicación**».
 | Ley 18/2007, de 17 de diciembre, de la RTVA | arts. 5.4, 10, 17.1.m, 17.2, 33.2 y 34.1 (original); 15.3 (Ley 2/2019) | Vigente el 24-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA 247/2023) | arts. 10.1, 13.10 y 26 | No modificada |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA 240/2014) | art. 73 | La del BOJA |
-| Norma reguladora del Defensor o la Defensora de la Audiencia de la RTVA | arts. 1, 3 a 11 | La publicada en la web de Canal Sur |
+| Norma reguladora del Defensor o la Defensora de la Audiencia de la RTVA | arts. 1, 3 a 11 (4.2 y 7.4 en el epígrafe 9) | La publicada en la web de Canal Sur |
 
 ## Lo que este tema no da, y dónde está
 
@@ -692,7 +749,8 @@ confidencialidad en cuanto le sea legalmente de aplicación**».
   conciencia*: tema 1.
 - *La Carta del Servicio Público y la Ley 18/2007 completas*: temas 5 y 6 del común; *el X Convenio*,
   tema 7 del común.
-- *El código deontológico de la FAPE* y otros códigos de asociaciones: el enunciado no los pide.
+- *El código deontológico de la FAPE* (Sevilla, 27-XI-1993) y otros códigos de asociaciones: el
+  tema no los desarrolla, aunque el de la FAPE figura como anexo del Libro de estilo.
 
 ## Trazabilidad
 
@@ -711,6 +769,7 @@ Todas las fuentes, leídas el 24-09-2026 salvo que se diga otra fecha.
   Andalucía*, web de Canal Sur (canalsur.es, sección de la Defensora), descargada el 24-09-2026; la página lleva fecha de 6 de abril de 2018 y el
   PDF que enlaza da error 404 (comprobado el 24-09-2026).
 - *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª edición, marzo de 2004:
-  Introducción y apartados 1.9, 2.3.2.1 a 2.3.2.9, 2.3.2.14, 2.5.1, 2.5.5, 2.5.9, 2.5.10, 9.1 y 9.1.12.
+  Introducción y apartados 1.5, 1.7, 1.8, 1.9, 2.3.2.1 a 2.3.2.9, 2.3.2.13, 2.3.2.14, 2.5.1, 2.5.3,
+  2.5.5, 2.5.9, 2.5.10, 9.1 y 9.1.12; anexo con el código de la FAPE (sólo su fecha y lugar).
 - *Estatuto profesional* de 2006: entrada del blog consejoradiortva.blogspot.com de 25 de octubre de
   2006, a la que enlaza la web de Canal Sur; apartados 6.9, 8.1, 8.2, 9 y 10.4. No vigente.

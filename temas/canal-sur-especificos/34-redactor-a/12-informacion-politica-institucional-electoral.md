@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 12 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Ley Orgánica 5/1985, del Régimen Electoral General (artículos 50 a 69); Ley 1/1986, Electoral de Andalucía (título V, capítulo IV); Instrucción 4/2011 de la Junta Electoral Central, en el texto consolidado publicado con la Instrucción 1/2015; Ley 18/2007, de la RTVA; Ley 13/2022, General de Comunicación Audiovisual; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), epígrafe 7.1 |
+| Fuente | Ley Orgánica 5/1985, del Régimen Electoral General (artículos 50 a 69); Ley 1/1986, Electoral de Andalucía (título V, capítulos III y IV); Instrucción 4/2011 de la Junta Electoral Central, en el texto consolidado publicado con la Instrucción 1/2015; Ley 18/2007, de la RTVA; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, Audiovisual de Andalucía; Carta del Servicio Público de la RTVA 2024-2029; Contrato-programa RTVA 2024-2026; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), epígrafe 7.1 |
 | Redacción que se estudia | Textos consolidados del BOE vigentes el 24-09-2026; Instrucción de la Junta Electoral Central en su texto consolidado de 2015; Libro de estilo, 1.ª ed., 2004; todo leído el 24-09-2026 |
-| Extensión | 4.156 palabras |
+| Extensión | 5.129 palabras |
 
 <!-- /portada -->
 
@@ -26,12 +26,15 @@ Central (JEC); Canal Sur Televisión (CSTV).
 
 Qué se puede preguntar: qué principios garantiza el artículo 66 LOREG y quién los garantiza en los
 medios públicos; ante quién se recurren las decisiones de sus órganos de administración; qué es el
-período electoral y cuándo empieza y acaba la campaña; qué es un plan de cobertura informativa y a
+período electoral y cuándo empieza y acaba la campaña, también en unas autonómicas; qué artículos
+de la LOREG rigen en las elecciones al Parlamento de Andalucía; quién hace la campaña institucional
+andaluza; qué es un plan de cobertura informativa y a
 quién se somete; cómo se reparte el tiempo de información electoral y qué es un grupo político
 significativo; qué obliga a hacer un debate entre las dos candidaturas más votadas; qué baremo de
 propaganda gratuita fija la ley andaluza y cuál la LOREG; quién distribuye esos espacios en unas
 autonómicas; qué debe acompañar a la publicación de una encuesta y cuándo queda prohibida; plazo del
-recurso contra un programa emitido; qué dice el Libro de estilo sobre el «minutaje» y las encuestas;
+recurso contra un programa emitido y ante quién se recurre la resolución de la Junta; qué exige
+la Ley 13/2022 a los informativos; qué informativos y coberturas pide el Contrato-programa; qué dice el Libro de estilo sobre el «minutaje» y las encuestas;
 quién es el órgano de comunicación de la RTVA con la Administración electoral.
 
 <!-- indice -->
@@ -126,6 +129,23 @@ La Ley 13/2022 lleva el pluralismo al servicio público en dos preceptos que alc
   refleje el pluralismo político y social de su ámbito de cobertura.**» Es precepto básico:
   obliga a todo prestador público, también al autonómico.
 
+Y fija una obligación para los informativos de todo prestador, todo el año:
+
+- **Veracidad de la información** (artículo 9.1): los noticiarios y los programas de contenido
+  informativo de actualidad «**Serán respetuosos con los principios de veracidad, calidad de la información,
+  objetividad e imparcialidad, diferenciando de forma clara y comprensible entre información y
+  opinión, respetando el pluralismo político, social y cultural y fomentando la libre formación de
+  opinión del público.**»
+- A las comunicaciones comerciales audiovisuales relativas a la «**Participación política y
+  propaganda electoral**» se aplica «**la normativa específica**», «**Sin perjuicio de lo
+  establecido en esta ley**» (artículo 125.f): la Ley 13/2022 sigue rigiendo, y en los medios
+  públicos esa normativa específica es la de la LOREG y la LEA que se ve en el epígrafe 4.
+
+En la Ley 10/2018, audiovisual de Andalucía: es principio inspirador «**El pluralismo político,
+religioso y sociocultural en la comunicación audiovisual**» (art. 2.1.c), y las personas usuarias de
+los servicios de comunicación audiovisual tienen derecho «**a recibir una comunicación audiovisual
+plural**» (art. 7, que remite al principio de pluralismo del artículo 5 de la Ley 13/2022).
+
 ### En período electoral: el artículo 66 LOREG
 
 El artículo 66 («**Garantía de pluralismo político y social**», en la redacción dada por la Ley
@@ -200,6 +220,12 @@ los mandatos de servicio público.
   opiniones sobre asuntos políticos, sociales o económicos de actualidad e interés general**»;
   13.6: los informativos atenderán a los grandes acontecimientos de la vida democrática,
   institucional y política de Andalucía «en toda su diversidad territorial».
+- Contrato-programa 2024-2026 (cláusula tercera, 3.1): la oferta generalista de radio y televisión
+  incluirá espacios informativos «**electorales cuando concurran comicios de cualquier ámbito
+  territorial**» (punto 6), y, «**Bajo el criterio profesional del interés informativo y utilidad
+  social**», coberturas informativas especiales «**sobre las sesiones más significativas de la
+  actividad del Parlamento de Andalucía, así como de otras instituciones democráticas de la
+  Comunidad y del resto de España**» (punto 8).
 - Comunicaciones oficiales (Ley 18/2007, artículo 31): el Gobierno de la Nación y el Consejo de
   Gobierno de la Junta «**podrán disponer que se difundan todas las declaraciones o comunicaciones
   oficiales de interés público que crean necesarias, con indicación de su origen**»; por
@@ -237,6 +263,14 @@ inauguraciones.
   sufragios**». Artículo 51: comienza «**el día trigésimo octavo posterior a la convocatoria**»,
   «**Dura quince días**» y termina, en todo caso, «**a las cero horas del día inmediatamente
   anterior a la votación**» (la jornada de reflexión queda fuera).
+- Salvedad de las autonómicas (disposición adicional primera LOREG): a las elecciones a las
+  Asambleas Legislativas autonómicas sólo se aplican, de los artículos de la LOREG que recoge este
+  tema, el 50.1, 2 y 3, el 51.2 y 3, el 53, los 60 a 63, el 65, el 66, el 68 y el 69 (apartado 2); los demás son
+  supletorios de la ley autonómica (apartado 3). En unas elecciones al Parlamento de Andalucía,
+  por tanto, la duración de quince días y el final a las cero horas del día anterior sí rigen, pero
+  no el día trigésimo octavo: «**El Decreto de convocatoria fijará la fecha de iniciación de la
+  campaña electoral y el día de la votación.**» (LEA, artículo 27.1). La LEA define también la
+  campaña, en términos paralelos al 50.4 (artículo 26).
 - Artículo 53: tras la campaña no puede difundirse propaganda ni hacerse acto de campaña; y desde la
   convocatoria hasta su inicio legal queda prohibida la publicidad o propaganda electoral
   «**mediante carteles, soportes comerciales o inserciones en prensa, radio u otros medios
@@ -256,6 +290,10 @@ inauguraciones.
 - 50.5: salvo la campaña institucional, ninguna persona jurídica distinta de las concurrentes puede
   hacer campaña desde la convocatoria, «**sin perjuicio de lo establecido en el artículo 20 de la
   Constitución**».
+- En las elecciones al Parlamento de Andalucía (LEA, artículo 27.2): «**Durante la campaña
+  electoral el Consejo de Gobierno podrá realizar campaña institucional orientada exclusivamente a
+  fomentar la participación de los electores en la votación.**» El 50.4 y el 50.5 LOREG no están
+  entre los que la disposición adicional primera aplica a las autonómicas.
 
 ### Propaganda gratuita en los medios públicos
 
@@ -270,7 +308,13 @@ inauguraciones.
 - Baremo general (64.1): diez minutos sin representación previa; quince con representación y menos
   del 5 % de los votos válidos; treinta entre el 5 y el 20 %; cuarenta y cinco con al menos el 20 %.
   Sólo si presentan candidaturas en «**más del 75 por 100 de las circunscripciones**» del ámbito del
-  medio (64.2).
+  medio (64.2). Quien no lo cumpla tiene, sin embargo, quince minutos en la programación general
+  de los medios nacionales si obtuvo en las anteriores equivalentes el 20 % de los votos emitidos
+  en una Comunidad Autónoma, con emisión circunscrita a ella y no acumulable (64.3). Agrupaciones
+  de electores federadas: diez minutos, si cumplen el requisito del 64.2 (64.4).
+- El artículo 64 no está entre los que la disposición adicional primera aplica a las autonómicas:
+  es supletorio, y como la LEA regula su propio baremo (artículo 29), en unas elecciones al
+  Parlamento de Andalucía rige éste. Los artículos 60 a 63 y 65, en cambio, sí se aplican.
 - Elecciones al Parlamento de Andalucía (LEA, título V, capítulo IV, «Utilización de medios de
   comunicación de titularidad publica para la campaña electoral»):
   - Artículo 28: distribuye la **Junta Electoral de Andalucía**, a propuesta de una **Comisión de
@@ -300,16 +344,23 @@ la persona titular de la Dirección General de la RTVA.**» (Ley 18/2007, artíc
 - Cuarto.1: los órganos de dirección de los medios públicos «**someterán a las Juntas Electorales
   competentes sus planes de cobertura informativa de la campaña electoral**», con los debates,
   entrevistas y programas electorales previstos y los criterios de información de campaña.
-- Quinto: la Junta pone el plan a disposición de los representantes de las candidaturas, que pueden
-  reclamar; resuelve previa audiencia al medio; toda modificación posterior del plan se le comunica
-  de inmediato.
+- Quinto: la Junta pone el plan a disposición de los «**representantes generales o de las
+  candidaturas acreditados**», que pueden reclamar; resuelve previa audiencia al medio; toda
+  modificación posterior del plan se le comunica de inmediato.
 - Sexto: las actuaciones y programas emitidos en período electoral «**con incidencia electoral**»
   pueden impugnarse por vulnerar pluralismo, igualdad, proporcionalidad o neutralidad; lo
-  interponen los representantes acreditados «**dentro del plazo de cuarenta y ocho horas desde su
-  emisión**»; en las veinticuatro horas siguientes se recaba informe del medio y se da
+  interponen los representantes generales o de las candidaturas acreditados «**dentro del plazo
+  de cuarenta y ocho horas desde su emisión**»; en las veinticuatro horas siguientes se recaba informe del medio y se da
   traslado a las formaciones que puedan resultar afectadas; la Junta resuelve «**dentro de los
   cinco días siguientes a su interposición**», con las medidas necesarias para restablecer los
-  principios vulnerados.
+  principios vulnerados. La Junta declara de oficio inadmisible «**todo recurso que no guarde
+  relación con los principios del artículo 66 de la Ley Electoral**» (sexto.9).
+- Alzada (quinto.3 y sexto.11, iguales para el plan y para los programas): las resoluciones de las
+  Juntas Provinciales y de Comunidad Autónoma son recurribles ante la JEC, en el plazo y por el
+  procedimiento del artículo 21 LOREG y de la Instrucción de la JEC 11/2007, de 27 de septiembre.
+  «**No obstante, corresponderá a la Junta Electoral de Comunidad Autónoma afectada conocer los
+  recursos contra las resoluciones de las Juntas Electorales Provinciales relativas a unas
+  elecciones a la Asamblea Legislativa de dicha Comunidad Autónoma.**»
 - Junta competente (segundo): la de Comunidad Autónoma para los medios de ámbito autonómico cuando
   se elige su Asamblea Legislativa; en los demás procesos, la Provincial para los medios de ámbito
   local, comarcal o provincial y, para los autonómicos, la de la provincia donde radique el medio;
@@ -372,14 +423,20 @@ convocatoria electoral**».
 
 | Fuente | Obligación para el medio público | Cuándo |
 | --- | --- | --- |
+| LOREG, disposición adicional primera | En autonómicas rigen 50.1-3, 51.2-3, 53, 60-63, 65, 66, 68 y 69; el resto, supletorio | Elecciones al Parlamento de Andalucía |
 | LOREG 66.1 | Pluralismo político y social, igualdad, proporcionalidad y neutralidad informativa, en toda la programación | Período electoral |
 | Instrucción 4/2011, cuarto | Plan de cobertura sometido a la Junta; tiempos proporcionales; grupos significativos; compensar debates a dos | Período electoral |
 | LOREG 50 | Campaña institucional en espacios gratuitos, sin orientar el voto; sin actos de logros ni inauguraciones | Desde la convocatoria |
 | LOREG 60-65; LEA 28-30 | Sin publicidad electoral contratada; espacios gratuitos repartidos por la Junta | Campaña |
+| LEA 27 | Inicio de campaña fijado por el decreto de convocatoria; campaña institucional del Consejo de Gobierno sólo para fomentar la participación | Elecciones al Parlamento de Andalucía |
 | LOREG 68 | Rectificación de candidatos y dirigentes con plazos abreviados | Elecciones en curso (formaciones concurrentes) |
 | LOREG 69 | Ficha técnica de encuestas; prohibición los cinco días previos | Convocatoria a votación |
 | Ley 18/2007, 4, 30-33 | Pluralismo, derecho de acceso, comunicaciones oficiales; la Dirección General, interlocutora electoral | Siempre (el 30, en procesos electorales) |
+| Ley 13/2022, 9.1 | Informativos veraces, objetivos e imparciales, que separan información y opinión y respetan el pluralismo político | Siempre |
 | Ley 13/2022, 51 y 56.2 | Reflejar el pluralismo; órgano plural que informa la línea editorial | Siempre |
+| Ley 13/2022, 125.f | La propaganda electoral se rige, además de por la Ley 13/2022, por su normativa específica | Siempre |
+| Ley 10/2018, 2.1.c y 7 | Pluralismo político como principio; derecho a una comunicación audiovisual plural | Siempre |
+| Contrato-programa 2024-2026, 3.1 (puntos 6 y 8) | Espacios informativos electorales en todo comicio; coberturas especiales del Parlamento y otras instituciones | Vigencia del Contrato-programa |
 | Carta 13.3, 13.5, 13.10, 13.11 | Pluralismo democrático en informativos; espacios de debate; acceso | Siempre |
 
 Rectificación electoral (artículo 68 LOREG): candidatos o dirigentes de las formaciones
@@ -391,16 +448,20 @@ celebra «**dentro de los cuatro días siguientes al de la petición**».
 
 ## Normativa que el tema invoca
 
-- Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (artículos 50, 51, 53, 60 a 69).
-- Ley 1/1986, de 2 de enero, Electoral de Andalucía (artículos 28 a 30).
+- Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (artículos 50, 51, 53, 60 a 69
+  y disposición adicional primera).
+- Ley 1/1986, de 2 de enero, Electoral de Andalucía (artículos 26 a 30).
 - Instrucción 4/2011, de 24 de marzo, de la Junta Electoral Central, de interpretación del artículo
   66 LOREG, modificada por la Instrucción 1/2015, de 15 de abril.
 - Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la
   Agencia Pública Empresarial de la Radio y Televisión de Andalucía (artículos 4, 30 a 33).
-- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (artículos 51 y 56.2).
+- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (artículos 9.1, 51, 56.2 y 125.f).
+- Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía (artículos 2.1.c y 7).
 - Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española
   (artículo 9.1.c), sólo como contraste.
 - Carta del Servicio Público de la RTVA 2024-2029 (artículo 13).
+- Contrato-Programa entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA para el
+  periodo 2024-2026, aprobado por Acuerdo de 19 de diciembre de 2023 (cláusula tercera, 3.1).
 
 ## Lo que este tema no da, y dónde está
 
@@ -424,16 +485,21 @@ Leído todo el 24-09-2026.
   2/2011 (BOE-A-2011-1639; el consolidado añade al 66 una entrada de 28-03-2011, BOE-A-2011-5524,
   con el mismo texto); 62 y 64, redacción de 1991 (BOE-A-1991-6824); 63, redacción de 1987
   (BOE-A-1987-8193); 61, 65, 67 y 68, redacción original de 1985; 69, redacción vigente desde el
-  02-02-2024 (BOE-A-2024-1993).
-- LEA: texto consolidado BOE-A-1986-2788, título V, capítulo IV, artículos 28 a 30, redacción
+  02-02-2024 (BOE-A-2024-1993); disposición adicional primera, redacción aplicable desde el
+  30-01-2011 (BOE-A-2011-1639).
+- LEA: texto consolidado BOE-A-1986-2788, título V, capítulos III y IV, artículos 26 a 30, redacción
   original (una sola).
 - Instrucción 4/2011 de la JEC (BOE-A-2011-5524), en el texto consolidado anexo a la Instrucción
   1/2015 (BOE-A-2015-4280, BOE núm. 95, de 21-04-2015).
 - Ley 18/2007: texto consolidado BOE-A-2008-1185 (artículo 4.3.n leído en el consolidado; el resto,
   del tema 5 del común).
-- Ley 13/2022: BOE-A-2022-11311 (del tema 4 del común).
+- Ley 13/2022: BOE-A-2022-11311 (artículos 51 y 56.2, del tema 4 del común; 9 y 125, leídos en el
+  consolidado, una sola redacción, vigente desde el 09-07-2022).
+- Ley 10/2018: texto consolidado BOE-A-2018-15240; artículo 2, redacción original (17-10-2018);
+  artículo 7, redacción aplicable desde el 17-02-2024 (BOE-A-2024-90030).
 - Ley 8/2009: texto consolidado BOE-A-2009-13988, artículo 9, una sola redacción, vigente desde el
   01-09-2009.
 - Carta del Servicio Público 2024-2029 (BOJA 247/2023), artículo 13 (del tema 6 del común).
+- Contrato-programa 2024-2026: BOJA núm. 245, de 26-12-2023, cláusula tercera, 3.1, puntos 6 y 8.
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo de 2004,
   epígrafes 7.1 a 7.1.5.

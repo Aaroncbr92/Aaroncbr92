@@ -2093,6 +2093,25 @@ BLOQUES["canal-sur-comun"] = dict(
 )
 
 
+BLOQUES["canal-sur-34-redactor"] = dict(
+    BLOQUES["canal-sur-comun"],
+    carpeta="canal-sur-especificos/34-redactor-a",
+    rotulo="Temario específico · Redactor/a · Canal Sur",
+    titulo="Redactor/a",
+    subtitulo="Los veinte temas del <b>temario específico</b> del puesto de Redactor/a<br>"
+              "de la convocatoria de la RTVA y Canal Sur Radio y Televisión",
+    pie="Oposiciones Canal Sur – Redactor/a",
+    aviso_portada=(
+        "<p><b>Dos documentos que cita el programa no están al día en fuente pública.</b> El "
+        "<b>Estatuto profesional</b> vigente de la RTVA no está publicado, y el <b>Libro de "
+        "estilo</b> de Canal Sur es de 2004 y cita normas hoy derogadas: los temas lo dicen y "
+        "dan lo que sí consta.</p>"),
+    temas=[(os.path.basename(f)[:-3], None) for f in sorted(glob.glob(os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        "temas/canal-sur-especificos/34-redactor-a/[0-9][0-9]-*.md")))],
+)
+
+
 def ruta_tema(carpeta, base):
     """Dónde vive un tema. Casi siempre, en la carpeta de su bloque; el de
     prevención, en la suya, porque lo comparten los tres bloques específicos y

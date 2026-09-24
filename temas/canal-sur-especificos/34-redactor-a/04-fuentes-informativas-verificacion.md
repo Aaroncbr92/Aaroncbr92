@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Redactor/a · punto 4 |
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
-| **Fuente** | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 (4.3 a 4.3.7 y 9.9.1); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, art. 9.1; Sentencia del Tribunal Constitucional 6/1988, de 21 de enero, FJ 5; Orden PCM/1030/2020, de 30 de octubre (`BOE-A-2020-13663`); Carta ética mundial para periodistas de la FIP (Túnez, 12-VI-2019), arts. 3, 5 y 14; Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021); Barot, T., «Verifying Images», *Verification Handbook*, European Journalism Centre. Lo demás, oficio |
+| **Fuente** | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 (4.3 a 4.3.7, 7.3.2 a 7.3.4, 9.4.2.1, 9.5 y 9.9.1); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, art. 9.1; Sentencia del Tribunal Constitucional 6/1988, de 21 de enero, FJ 5; Orden PCM/1030/2020, de 30 de octubre (`BOE-A-2020-13663`); Carta ética mundial para periodistas de la FIP (Túnez, 12-VI-2019), arts. 3, 5, 6 y 14; Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021); Protocolo de Comunicación de la Justicia 2020, del Consejo General del Poder Judicial; Science Media Centre España, «¿Qué son los embargos? El mecanismo de las revistas y la revisión por pares» (2022); Barot, T., «Verifying Images», *Verification Handbook*, European Journalism Centre. Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Libro de Estilo es el de 2004, único publicado que se ha localizado |
-| **Extensión** | 4.400 palabras aproximadamente |
+| **Extensión** | 5.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -17,7 +17,7 @@ Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión d
 que usa el propio Libro de Estilo); Federación Internacional de Periodistas (**FIP**); Tribunal
 Constitucional (**TC**); Sentencia del Tribunal Constitucional (**STC**); fundamento jurídico
 (**FJ**); Ley 13/2022, General de Comunicación Audiovisual (**LGCA**); Diario Oficial de la Unión
-Europea (**DO**); formato de metadatos de imagen *Exchangeable Image File Format* (**EXIF**);
+Europea (**DO**); Consejo General del Poder Judicial (**CGPJ**); formato de metadatos de imagen *Exchangeable Image File Format* (**EXIF**);
 organizaciones no gubernamentales (**ONG**). En «Orden PCM/1030/2020», PCM es el prefijo de su número oficial; la firma la Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática. «El Libro de Estilo» es el de Canal Sur Televisión de
 2004; «la carta», la Carta ética mundial de la FIP; «el manual de verificación», el *Verification
 Handbook* del European Journalism Centre.
@@ -35,7 +35,8 @@ qué fuente es mejor (la más próxima al hecho); por dónde empezar (oficiales,
 testigos); qué fórmulas de atribución se rechazan («fuentes solventes») y cuáles se admiten; el
 triple aval de la fuente anónima; quién autoriza emitir con fuente oculta (Dirección de los
 Servicios Informativos); cómo se calcula la asistencia a una manifestación (2-4 personas/m²); el
-rumor; el rótulo «Archivo»; los cuatro principios de verificación de imágenes; la definición
+rumor; la oficina de comunicación como fuente oficial de los tribunales y cuándo es pública una
+sentencia; qué es un *preprint*; el rótulo «Archivo»; los cuatro principios de verificación de imágenes; la definición
 oficial de desinformación y sus cuatro niveles de actuación; qué exige la veracidad según la STC
 6/1988 (diligencia, no exactitud total); el art. 9.1 LGCA; y los arts. 3 y 5 de la carta.
 
@@ -48,6 +49,8 @@ oficial de desinformación y sus cuatro niveles de actuación; qué exige la ver
   - [Cómo se conoce una noticia](#cómo-se-conoce-una-noticia)
   - [La jerarquía](#la-jerarquía)
   - [Los tipos del enunciado](#los-tipos-del-enunciado)
+  - [Las fuentes judiciales](#las-fuentes-judiciales)
+  - [Las fuentes científicas](#las-fuentes-científicas)
   - [Lo que no es una fuente](#lo-que-no-es-una-fuente)
 - [2. Contraste](#2-contraste)
   - [Una sola fuente no basta](#una-sola-fuente-no-basta)
@@ -82,9 +85,11 @@ oficial de desinformación y sus cuatro niveles de actuación; qué exige la ver
 El Libro de Estilo de Canal Sur dedica su apartado 4.3 («Las fuentes», pp. 68-75) a casi todo el
 enunciado: tipos de fuente, jerarquía, contraste, atribución, anonimato, rumor, fuentes sin aval y
 fuentes dudosas. Es de 2004 y está escrito para televisión, pero es el único publicado por la RTVA que se ha localizado.
-Lo que no trae —fuentes judiciales, científicas y digitales como categorías, verificación de
-imágenes y desinformación— se completa con la carta de la FIP, la definición oficial de
-desinformación, un manual de verificación de referencia y la doctrina del TC sobre la veracidad.
+Lo que no trae en ese apartado —fuentes judiciales, científicas y digitales como categorías,
+verificación de imágenes y desinformación— se completa con otros capítulos del propio Libro de
+Estilo (secciones, información judicial), el protocolo de comunicación del CGPJ, un recurso del
+Science Media Centre España, la carta de la FIP, la definición oficial de desinformación, un manual
+de verificación de referencia y la doctrina del TC sobre la veracidad.
 
 ## 1. Las fuentes y sus tipos
 
@@ -129,12 +134,102 @@ elevada**», sin «**dejarse deslumbrar por un currículo lucido**». Y el orden
   y relativa, incluso despreciable**».
 - Documentales. Son el «tercer supuesto» citado: documentación pública o privada analizada por
   el periodista. La carta de la FIP prohíbe falsificarla (art. 3, en el epígrafe 2).
-- Judiciales y científicas. Ni el Libro de Estilo ni las demás fuentes de este tema las
-  desarrollan como categoría. El tratamiento de la información de tribunales está en el tema 11.
+- Judiciales y científicas. El apartado 4.3 no las trata como categoría; sus cauces y cautelas
+  se dan en los dos subepígrafes siguientes.
 - Digitales. Tampoco las define el Libro de Estilo. La carta de la FIP de 2019 trae una
   cautela sobre ellas: el periodista «**será
   cuidadoso en el uso de los comentarios y documentos publicados en las redes sociales**» (art. 3).
   Cómo se verifica lo que llega por ellas está en el epígrafe 5.
+
+### Las fuentes judiciales
+
+El cauce institucional. El Protocolo de Comunicación de la Justicia 2020 del CGPJ (presentado al
+Pleno el 28 de mayo de 2020) ordena la comunicación de los órganos judiciales; no es una
+norma para los medios, pero dice dónde está la fuente oficial. Las Oficinas de Comunicación
+forman parte de la estructura judicial y son «**el cauce institucional y la fuente oficial de los
+jueces**» (ap. 4). Cómo informan (ap. 7): «**Las Oficinas de Comunicación serán los cauces
+naturales para el contacto con los medios.**» Lo que facilitan llega a todos los periodistas a la
+vez, «**en régimen de igualdad**», salvo lo que pida un medio concreto, y por escrito: «**La
+información se debe facilitar de forma escrita mediante una nota de prensa oficial.**»
+
+Las resoluciones. Según el protocolo (ap. 5.f), las sentencias «**adquieren el carácter de
+documento público –y, por tanto, son accesibles “a cualquier interesado”- una vez dictadas y
+firmadas por los magistrados, sin que esta circunstancia dependa del éxito de su notificación a
+las partes personadas.**» En la instrucción (ap. 5.a), «**Se intentará que las notificaciones se
+hagan de forma simultánea a todas las partes para evitar filtraciones interesadas e
+interpretaciones erróneas.**» y, en los casos de gran repercusión mediática, la resolución se pone
+a disposición de la Oficina de Comunicación «**de forma simultánea a su notificación a las
+partes**». El mismo apartado recuerda que «**es en la fase de instrucción donde se producen las
+denominadas “filtraciones” y los llamados “juicios paralelos”**», y explica por qué importa el
+cauce oficial: «**La primera noticia que llega es la que prevalece y guía las informaciones.**»
+Para confirmar el sentido de una resolución, pues, la vía institucional es la oficina de comunicación del
+órgano, no una de las partes.
+
+Las partes. El Libro de Estilo (9.5.1) advierte:
+
+> «**El periodista debe tener muy presente que en asuntos judiciales siempre hay una parte
+> —generalmente la que acusa, denuncia o reclama— más inclinada a colaborar con los periodistas en
+> un afán de poner de su parte a la opinión pública y al propio tribunal. Esta facilidad no debe
+> descartarse pero sin dejar de contrastarla, cuando sea necesario. Si la otra parte, o sus
+> representantes, declina nuestra petición de información, será respetada, pero hay que decirlo
+> con claridad en la noticia.**»
+
+Tres cautelas más del mismo Libro de Estilo:
+
+- Especialización: «**La información sobre delitos y asuntos jurídicos requiere especialización
+  para explicar asuntos difíciles y con un lenguaje complicado, incluso arcaico.**» (9.5). El
+  análisis especializado, «**que siempre hay que hacer con asesoramiento**» (9.5.1.1).
+- La nota policial no basta: de los servicios de información de la Policía y la Guardia Civil «no
+  se puede dudar», pero «**siempre que sea posible, estamos obligados a contrastar y completar la
+  versión en fuentes que estén a nuestro alcance: abogado de oficio, personas del entorno de los
+  hechos, expertos, sociólogos...**» (9.5.4).
+- Lo reservado: «**a veces, la verdad está recogida en informes confidenciales, sumarios sometidos
+  a secreto o atestados policiales que no pueden ser dados sin prevención al conocimiento
+  público.**» (9.4.2.1, dentro del tratamiento de menores).
+
+Las pautas de redacción de la información de tribunales (fórmulas no asertivas, omisiones,
+denuncias particulares, antecedentes) están en el tema 11.
+
+### Las fuentes científicas
+
+El Libro de Estilo no tiene un apartado de fuentes científicas, pero sus secciones de sanidad,
+ciencia y consumo dan las cautelas:
+
+- Identificar la fuente, más que nunca: «**El requisito mínimo para informar es identificar con
+  toda claridad y detalle, más que en circunstancias normales, la fuente informativa. A veces, tras
+  la fachada de estudios científicos, supuestas pruebas de laboratorio o profesionales
+  acreditados, se camuflan empresas privadas en plena campaña de mercadotecnia.**» (7.3.2).
+- No inflar el hallazgo: titular «nuevo avance contra el cáncer» sin aclarar que es un experimento
+  positivo contra una variante concreta y que la terapia tardará en aplicarse al menos diez años es
+  fomentar el sensacionalismo (7.3.2). Y «**Muchas veces es preferible embargar una noticia hasta tener
+  completamente contrastados todos sus extremos para no crear alarma.**»
+- Los estudios de parte: son habituales los informes que responden a «**estrategias disimuladas
+  bajo la etiqueta de estudios científicos o sociológicos**»; «**No hay que descartar esta
+  modalidad de información pero no podemos ocultar el origen de la noticia.**» (7.3.4).
+- Quién explica: «**los protagonistas, los implicados y los expertos de cada campo, capaces en
+  muchos casos de explicar los tecnicismos con un lenguaje llano, preciso y didáctico alejado de
+  los vulgarismos.**» (7.3.3).
+
+Qué dato conviene precisar de un estudio lo da un recurso para periodistas del Science Media
+Centre España (2022), que es referencia de oficio, no norma:
+
+- Revisión por pares: los resultados se publican en revistas científicas «**a menudo tras superar
+  un proceso conocido como “revisión por pares” (peer review, en inglés) en la que dos o tres
+  revisores expertos en la materia que no han participado en la investigación valoran la
+  rigurosidad y novedad del artículo**», su relevancia científica y su adecuación a la temática de
+  la revista.
+- *Preprints*: los trabajos compartidos antes en repositorios (medRxiv, bioRxiv, arXiv) «**no han
+  superado la revisión por pares y pueden ser subidos sin apenas controles. Por lo tanto, deben ser
+  tratados con el máximo cuidado.**» De ahí la práctica de oficio de decir si el estudio está
+  revisado o es un *preprint*.
+- El límite de la revisión: «**La revisión por pares no es garantía de calidad, de irrefutabilidad
+  o de que las conclusiones del estudio sean una verdad revelada.**»
+- El embargo: las revistas dan acceso previo a los periodistas registrados bajo un embargo, y
+  «**el respeto de los embargos forma parte del trabajo del periodista científico**»; ese tiempo
+  debería permitir entrevistar a los autores y contrastar «**con otras fuentes independientes que
+  valoren la noticia**». El propio recurso advierte que es un sistema «**no exento de críticas**»:
+  puede alimentar un periodismo de ciencia reactivo, que copie notas de prensa que «**siempre son
+  información de parte**».
 
 ### Lo que no es una fuente
 
@@ -163,10 +258,12 @@ Tres reglas del mismo apartado:
 - Versiones contradictorias: si ambas faltan a la verdad o la manipulan, el periodista usa su
   sentido común y su experiencia para establecer una jerarquía «**e incluso para manifestar las
   contradicciones en la información**»; y si la comprobación no permite aceptar o descartar por
-  completo una de ellas, hay que, al menos, «**no estructurar el
+  completo «**una de estas informaciones contradictorias o una opinión delicada**», hay que, al
+  menos, «**no estructurar el
   núcleo de la noticia en torno a una de las versiones en detrimento de la otra.**»
 
-Cuando la información afecta a la honorabilidad o la intimidad de alguien, el contraste incluye al
+Cuando hay controversia o resulta afectada «**la honorabilidad, la intimidad y el prestigio de
+personas, instituciones o entidades**», la fuente debe identificarse y el contraste incluye al
 afectado: «**es imprescindible que figure en la información el testimonio de los afectados y, si no
 se pudiera obtener, hay que explicar las causas.**» (4.3). Es lo mismo que la carta de la FIP pone
 por encima de la prisa:
@@ -196,13 +293,15 @@ también a informaciones ajenas a cualquier conflicto**».
 La asistencia a una manifestación o el seguimiento de una huelga enfrentan a fuentes dispares. El
 Libro de Estilo manda: «**En estos casos debemos dar nuestra propia cifra.**» (4.3.2.1). Se calcula
 sobre la superficie ocupada, «**a razón de dos, tres ó cuatro personas por cada metro cuadrado,
-según cada caso y grado de concentración**», se dice que es cálculo propio y con qué método, y se da
-«**sin excluir los números que aporten los organizadores, la policía local u otras instancias
-oficiales**».
+según cada caso y grado de concentración**», se dice que es cálculo propio y con qué método, y se da «**generalmente en miles o decenas de
+miles, sin excluir los números que aporten los organizadores, la policía local u otras instancias
+oficiales**». Y en las pequeñas: «**En las manifestaciones de asistencia más reducida y, por tanto,
+más fáciles de calcular siempre hemos de incluir nuestro propio dato junto a los de las demás
+fuentes.**»
 
 ### Fuentes dudosas: las seis reglas de Bradlee
 
-El apartado 4.3.7 recoge, «en resumen», el sistema que Ben Bradlee, exdirector de *The Washington
+El apartado 4.3.7 recoge, «en resumen», el sistema que Ben Bradlee, director de *The Washington
 Post*, esbozó en sus memorias para descartar noticias de dudosa fiabilidad:
 
 1. «**No hay protección alguna contra el que está dotado para la mentira.**»
@@ -247,13 +346,18 @@ También se rechazan (4.3.4):
   la realidad: «**un hombre no será presentado como mujer, o un anciano como un adolescente**». Si se
   usan datos ficticios, «**debemos hacerlo constar al comienzo de la información**», y la emisión
   con ese condicionante «**requiere la autorización de la Dirección de los Servicios
-  Informativos**» (4.3.1).
+  Informativos**» (4.3.1). Y si es una fuente de garantía la que pide anonimato, «**debemos
+  precisar cuando sea posible las razones para no revelar su identidad de manera explícita pero sin
+  poner en riesgo la protección solicitada.**» (4.3.1).
 - Dentro de la casa: el editor debe conocer el origen de las informaciones del redactor, y está
   obligado a guardar secreto si se trata de fuentes que merezcan su ocultación; los periodistas de CSTV y Canal 2 Andalucía «**deben compartir la
   identidad de una fuente informativa con los distintos niveles de dirección, sin excepciones**»,
   sobre todo si da origen a una información delicada o polémica (4.3.5).
 - *Off the record* (4.3.6): no debe usarse en la construcción de una noticia, ni como
-  referencia, salvo que el informante lo autorice sin ser citado. El Libro de Estilo asume la
+  referencia, salvo que el informante lo autorice sin ser citado. Si la confidencialidad se ha
+  invocado previamente y de modo expreso, la información así obtenida «**no puede emitirse, ni
+  hacer referencia directa o indirecta, y mucho menos ser aludida la fuente en el contexto de la
+  información.**» El Libro de Estilo asume la
   posición intermedia de *El País* —publicar si la noticia se obtiene «honestamente por otros
   medios»— «**con la precisión de que la fuente inicial no puede ser referida, ni siquiera de manera
   indirecta, en este caso.**»
@@ -350,7 +454,7 @@ su Comunicación sobre la lucha contra la desinformación en línea, COM (2018) 
 > público**»
 
 Ese perjuicio incluye «**las amenazas a los procesos democráticos y a bienes públicos tales como la
-salud, el medio ambiente o la seguridad**». Tres elementos: falsedad o engaño verificable, intención
+salud, el medio ambiente o la seguridad, entre otros**». Tres elementos: falsedad o engaño verificable, intención
 (lucro o engaño deliberado) y perjuicio público posible. Un error de buena fe no reúne el segundo.
 
 El procedimiento tiene cuatro niveles de activación: 1, técnico (detección, alerta temprana y
@@ -377,7 +481,10 @@ comunicación y la salud pública**», y propone combatirla sumando, no borrando
 Periodismo de calidad y alfabetización mediática: las dos vías son de fomento, no de prohibición. Y
 en el apartado 35 pone un límite a las plataformas: destaca la importancia de eliminar rápidamente
 los contenidos ilícitos, pero «**las
-plataformas en línea no pueden ni deben convertirse en órganos de censura privados**». Las
+plataformas en línea no pueden ni deben convertirse en órganos de censura privados y que la
+eliminación de contenidos ilícitos por parte de dichas plataformas ha de estar sujeta en todo
+momento a garantías, como el control de las autoridades jurisdiccionales de los Estados
+miembros**». Las
 obligaciones de las plataformas en el Reglamento de Servicios Digitales están en el tema 14.
 
 ## 7. Obligaciones de diligencia derivadas de la veracidad
@@ -450,14 +557,15 @@ Las reglas de los epígrafes anteriores son la forma práctica de esa diligencia
 | Ley 13/2022, General de Comunicación Audiovisual | Art. 9.1 |
 | STC 6/1988, de 21 de enero | FJ 5 |
 | Orden PCM/1030/2020, de 30 de octubre (Procedimiento de actuación contra la desinformación) | Definición y niveles |
-| Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía (2004) | 4.3 a 4.3.7; 9.9.1 |
+| Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía (2004) | 4.3 a 4.3.7; 7.3.2 a 7.3.4; 9.4.2.1; 9.5, 9.5.1, 9.5.1.1 y 9.5.4; 9.9.1 |
 | Carta ética mundial para periodistas de la FIP (2019) | Arts. 3, 5, 6 y 14 |
 | Resolución del Parlamento Europeo de 25-XI-2020 (no normativa) | Apartados 34 y 35 |
+| Protocolo de Comunicación de la Justicia 2020, CGPJ (organización interna, no normativa para los medios) | Aps. 4, 5.a, 5.f y 7 |
 
 ## Lo que este tema no da, y dónde está
 
-- Fuentes judiciales y científicas como categoría: ninguna fuente publicada leída las desarrolla;
-  no se dan. La información de tribunales, en el tema 11.
+- Pautas de redacción de la información de tribunales: tema 11. Un criterio de la RTVA sobre
+  fuentes científicas más allá del Libro de Estilo de 2004: no consta publicado.
 - Un protocolo de verificación propio de la RTVA: no consta publicado.
 - Qué excluye la Comunicación COM (2018) 236 del concepto de desinformación (errores, sátira,
   parodia): no se ha podido leer el texto de la Comunicación; no se da.
@@ -472,7 +580,14 @@ Todas las fuentes, leídas el 24/09/2026.
 
 - *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004:
   4.3 «Las fuentes» (pp. 68-75), con 4.3.1 a 4.3.7, y 9.9.1 «Imágenes de archivo». Las ligaduras
-  tipográficas del PDF («fi», «fl») se han transcrito como letras sueltas.
+  tipográficas del PDF («fi», «fl») se han transcrito como letras sueltas. Además, 7.3.2
+  «Sanidad», 7.3.3 «Ciencia», 7.3.4 «Consumo», 9.4.2.1 «Confidencialidad», 9.5 «Información
+  judicial y delitos» (con 9.5.1, 9.5.1.1 y 9.5.4).
+- Protocolo de Comunicación de la Justicia 2020, Consejo General del Poder Judicial (Oficina de
+  Comunicación), texto presentado a la Comisión Permanente el 27 y al Pleno el 28 de mayo de 2020,
+  PDF publicado en poderjudicial.es, que lo sigue ofreciendo como el vigente: aps. 4, 5.a, 5.f y 7.
+- Science Media Centre España, «¿Qué son los embargos? El mecanismo de las revistas y la revisión
+  por pares», 23-III-2022, en sciencemediacentre.es. Recurso de oficio, no norma.
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, art. 9.1, en su redacción
   original, vigente.
 - STC 6/1988, de 21 de enero (Sala Primera; BOE núm. 31, de 5-2-1988), en el buscador de

@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma en el enunciado, salvo la Carta del Servicio Público de la RTVA 2024-2029 (art. 34.3), que sitúa a la RTVA en FORTA. Lo demás, documentación institucional publicada por cada organismo o grupo en su propia web |
 | Redacción que se estudia | Carta del Servicio Público 2024-2029 en su redacción vigente; páginas institucionales y notas de prensa tal como estaban publicadas el 24-09-2026 |
-| Extensión | 2.512 palabras |
+| Extensión | 3.201 palabras |
 
 <!-- /portada -->
 
@@ -16,17 +16,18 @@ Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RT
 Televisión, S.A. (CSRTV); Corporación de Radio y Televisión Española (RTVE), que integra Televisión
 Española (TVE) y Radio Nacional de España (RNE); Federación de Organismos o Entidades de Radio y
 Televisión Autonómicos (FORTA); Unión de Televisiones Comerciales en Abierto (UTECA); Corporación
-Aragonesa de Radio y Televisión (CARTV). Las siglas de diez de los doce miembros de FORTA se presentan
-en el epígrafe 2; las otras dos no constan en la web de la federación.
+Aragonesa de Radio y Televisión (CARTV); Sociedad Estatal de Participaciones Industriales (SEPI). Las
+siglas de los doce miembros de FORTA se presentan en el epígrafe 2.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.34, punto 6): «Grupos de comunicación
 > públicos y privados de España. FORTA.»
 
-Qué se puede preguntar: qué integra RTVE; cuáles son los doce miembros de FORTA y qué autonómica no
-lo es; el año de creación de FORTA; sus órganos (presidencia rotatoria, Junta General, Secretaría
+Qué se puede preguntar: qué integra RTVE y de quién es la Agencia EFE; cuáles son los doce miembros de FORTA y qué autonómica no
+lo es, y qué siglas y marcas usa la federación para cada uno; el año de creación de FORTA, cómo se
+define y qué población cubren sus cadenas; sus órganos (presidencia rotatoria, Junta General, Secretaría
 General, comisiones) y sus actividades; qué agrupa UTECA frente a FORTA, cuándo se constituyó y quiénes son sus asociados; qué cadenas y emisoras
-pertenecen a Atresmedia; de quién depende hoy Mediaset España; qué cabeceras editan Godó, Henneo o
-Unidad Editorial; qué papel asigna la Carta del Servicio Público a Canal Sur dentro de FORTA.
+pertenecen a Atresmedia; de quién depende hoy Mediaset España; qué cabeceras editan Godó, Henneo,
+Unidad Editorial o el Grupo Joly; qué relación tiene PRISA con la Cadena SER; qué papel asigna la Carta del Servicio Público a Canal Sur dentro de FORTA.
 
 <!-- indice -->
 
@@ -34,7 +35,7 @@ Unidad Editorial; qué papel asigna la Carta del Servicio Público a Canal Sur d
 
 - [1. Grupos de comunicación públicos y privados de España](#1-grupos-de-comunicación-públicos-y-privados-de-españa)
   - [El mapa](#el-mapa)
-  - [El grupo público estatal: RTVE](#el-grupo-público-estatal-rtve)
+  - [El sector público estatal: RTVE y la Agencia EFE](#el-sector-público-estatal-rtve-y-la-agencia-efe)
   - [Los grupos públicos autonómicos](#los-grupos-públicos-autonómicos)
   - [Los grupos privados](#los-grupos-privados)
   - [UTECA, la asociación de las comerciales en abierto](#uteca-la-asociación-de-las-comerciales-en-abierto)
@@ -58,20 +59,26 @@ El enunciado junta en una línea tres clases de sujetos que conviene separar ant
 
 | Clase | Qué es | Ejemplos |
 |---|---|---|
-| Grupo público estatal | Empresa pública de medios de ámbito estatal | RTVE |
+| Sector público estatal | Empresas públicas de medios de ámbito estatal | RTVE; Agencia EFE |
 | Grupos públicos autonómicos | Organismos de radio y televisión de las comunidades autónomas; doce de ellos se federan en FORTA | RTVA/Canal Sur y los otros once miembros de FORTA; Canal Extremadura, fuera de la federación |
-| Grupos privados | Sociedades mercantiles con varias marcas de televisión, radio, prensa o digital | Atresmedia, Mediaset España, Godó, Unidad Editorial, Henneo, Prensa Ibérica, Vocento, PRISA |
+| Grupos privados | Empresas privadas con varias marcas de televisión, radio, prensa o digital | Atresmedia, Mediaset España, Godó, Unidad Editorial, Henneo, Prensa Ibérica, Vocento, PRISA, COPE; en Andalucía, Grupo Joly |
 
 Y dos asociaciones que agrupan a esos prestadores, que no son grupos de comunicación sino
 federaciones o asociaciones de ellos: FORTA, para las autonómicas públicas, y UTECA, para las
 comerciales en abierto.
 
-### El grupo público estatal: RTVE
+### El sector público estatal: RTVE y la Agencia EFE
 
 La propia corporación se define así: **«RTVE es la gran empresa pública española de medios de
 comunicación de ámbito estatal. La integran TVE, con siete canales de televisión; RNE, con seis
 cadenas de radio; la web RTVE.es; la plataforma RTVE Play, RTVE Instituto y la Orquesta y Coro
 RTVE.»**
+
+No es la única empresa pública estatal de comunicación. La Agencia EFE figura en la web de la SEPI
+entre las empresas en que esta tiene participación mayoritaria, en el sector «Comunicación», con un
+**«100 % Participación SEPI»**. La ficha de EFE en esa web la presenta así: **«La Agencia EFE es la primera agencia de
+noticias en español con 85 años de trayectoria.»** Y añade: **«En España, EFE cuenta con delegaciones
+en las capitales de las 17 comunidades autónomas, Ceuta y Melilla.»**
 
 ### Los grupos públicos autonómicos
 
@@ -93,11 +100,12 @@ Lo que cada grupo dice de sí mismo en su web corporativa:
 | Henneo | **«1895 año de fundación»**; 20minutos, Lainformacion y Heraldo de Aragón |
 | Prensa Ibérica | Se presenta con **«45 años de Prensa Ibérica»**; diarios, semanarios y televisión |
 | Vocento | **«Somos un grupo de comunicación innovador e independiente»**; prensa, gastronomía, agencias y clasificados |
-| PRISA | Dos áreas: «Educación» y «Media» |
+| PRISA | Dos áreas: «Educación» y «Media». En «Media»: **«PRISA Media es el mayor grupo de medios y entretenimiento en habla hispana, con marcas líderes en España, Latinoamérica y Estados Unidos, englobadas en cuatro verticales: información, música, deportes y estilo de vida.»** Bajo «Marcas» enlaza, entre otras, las webs de El País, Cinco Días, AS, Cadena SER, LOS40, Cadena Dial, HuffPost y Podium Podcast. Su historia, en la página «Nosotros», fecha en 1985 que **«PRISA se convierte en el accionista mayoritario de Sociedad Española de Radiodifusión S.A, a la cual pertenecen, entre otras, la Cadena SER y LOS40 Principales.»** |
+| COPE | Al pie de su web: **«© Radio Popular S.A. - COPE»**; la misma web remite a los comerciales de **«la Cadena COPE y TRECE»** |
+| Grupo Joly | **«Grupo Joly, el primer grupo editorial andaluz»**, **«Fundado en 1867 con Diario de Cádiz»**. Su historia da **«diez periódicos»**: Diario de Cádiz, Diario de Jerez (1984), Europa Sur (1989), Diario de Sevilla (1999), El Día de Córdoba (2000), Huelva Información (adquirido en 2002), Granada Hoy (2003), Málaga Hoy (2004), Diario de Almería (2007) y Jaén Hoy (2023, sólo digital) |
 
-De Mediaset España no se han podido leer los canales en su propia web, y de Prensa Ibérica, Vocento y
-PRISA la web no deja leer la relación de cabeceras o marcas: el tema no las da (véase «Lo que este
-tema no da»). La relación de asociados de UTECA, en el apartado siguiente, sí nombra a Mediaset España
+De Mediaset España no se han podido leer los canales en su propia web, y de Prensa Ibérica y Vocento
+la web no deja leer la relación de cabeceras: el tema no las da (véase «Lo que este tema no da»). La relación de asociados de UTECA, en el apartado siguiente, sí nombra a Mediaset España
 entre las televisiones comerciales en abierto.
 
 ### UTECA, la asociación de las comerciales en abierto
@@ -125,6 +133,12 @@ Radio y Televisión Autonómicos»**. Al pie de sus páginas consta **«Inscrita
 de lucro en el Registro de Asociaciones del Ministerio del Interior»**, con sede en Madrid. La Carta del Servicio Público de la RTVA la llama «Federación de Organismos de Radio y
 Televisión Autonómica (Forta)».
 
+En sus notas de prensa se describe así: **«FORTA […] es una asociación sin ánimo de lucro que integra a
+las principales entidades de derecho público que se encargan de la gestión directa de los servicios
+públicos de Radiodifusión y Televisión en las Comunidades Autónomas de España.»** (nota de 11 de julio
+de 2024). Y la del 35 aniversario da su alcance: **«Con una cobertura que alcanza al 85% de la
+población, las cadenas de FORTA son referentes en sus territorios»**.
+
 Año de creación: 1989. Lo dice la propia federación en su nota de prensa del 11 de julio de 2024,
 que anuncia la presidencia de Raquel Fuertes **«coincidiendo con la conmemoración del 35º aniversario
 de FORTA, creada en 1989»**, y en la del 35 aniversario, fechada el 14 de noviembre de 2024, donde recoge que su presidenta de aquel periodo, Raquel Fuertes,
@@ -134,31 +148,39 @@ aniversario, la creación cae en 1989.
 
 ### Miembros
 
-Su página «Quiénes somos» lo dice así: **«la FORTA está integrada por doce organismos de radio y
-televisión autonómicos: Agencia Pública Empresarial de la Radio Televisión de Andalucía; Corporació
-Catalana de Mitjans Audiovisuals; Radio y Televisión Madrid, S.A.; Corporació Audiovisual de la
-Comunitat Valenciana S.A; Corporación de Servizos Audiovisuais de Galicia S.A.; Euskal Irrati
-Telebista; Ente Público Radiotelevisión Canaria; Ente Público Radiotelevisión Castilla-La Mancha;
-Radiotelevisión de la Región de Murcia; Corporación Aragonesa de Radio y Televisión; Radiotelevisión
-del Principado de Asturias, S.A.U.; Ens Públic Radiotelevisió de les Illes Balears»**.
+Su página «Quiénes somos» dice que **«la FORTA está integrada por doce organismos de radio y
+televisión autonómicos:»**, y los da uno a uno, sin puntuación entre ellos, con su logotipo. La tabla
+los recoge con la denominación de esa página y las siglas que usa la propia federación:
 
 | Comunidad | Organismo | Siglas en la web de FORTA |
 |---|---|---|
-| Andalucía | Agencia Pública Empresarial de la Radio Televisión de Andalucía | RTVA |
-| Cataluña | Corporació Catalana de Mitjans Audiovisuals | CCMA |
-| Madrid | Radio y Televisión Madrid, S.A. | RTVM |
-| Comunidad Valenciana | Corporació Audiovisual de la Comunitat Valenciana S.A | — |
-| Galicia | Corporación de Servizos Audiovisuais de Galicia S.A. | — |
-| País Vasco | Euskal Irrati Telebista | EITB |
-| Canarias | Ente Público Radiotelevisión Canaria | RTVC |
-| Castilla-La Mancha | Ente Público Radiotelevisión Castilla-La Mancha | RTVCM |
-| Murcia | Radiotelevisión de la Región de Murcia | RTRM |
-| Aragón | Corporación Aragonesa de Radio y Televisión | CARTV |
-| Asturias | Radiotelevisión del Principado de Asturias, S.A.U. | RTPA |
-| Illes Balears | Ens Públic Radiotelevisió de les Illes Balears | EPRTVIB |
+| Andalucía | **Agencia Pública Empresarial de la Radio Televisión de Andalucía** | RTVA |
+| Cataluña | **Corporació Catalana de Mitjans Audiovisuals** | CCMA |
+| Madrid | **Radio y Televisión Madrid, S.A.** | RTVM |
+| Comunidad Valenciana | **Corporació Audiovisual de la Comunitat Valenciana S.A** | CACVSA (ficha del organismo) |
+| Galicia | **Corporación de Servizos Audiovisuais de Galicia S.A.** | CSAG (nota de 18-09-2025) |
+| País Vasco | **Euskal Irrati Telebista** | EITB |
+| Canarias | **Ente Público Radiotelevisión Canaria** | RTVC |
+| Castilla-La Mancha | **Ente Público Radiotelevisión Castilla-La Mancha** | RTVCM |
+| Murcia | **Radiotelevisión de la Región de Murcia** | RTRM |
+| Aragón | **Corporación Aragonesa de Radio y Televisión** | CARTV |
+| Asturias | **Radiotelevisión del Principado de Asturias, S.A.U.** | RTPA |
+| Illes Balears | **Ens Públic Radiotelevisió de les Illes Balears** | EPRTVIB |
 
-El menú de la web de FORTA sólo da diez siglas; las de la corporación valenciana y la gallega no
-constan en lo leído. Canal Extremadura emite, pero no está en la lista. El pie de la misma web da algunas denominaciones
+El menú de la web de FORTA da diez siglas. Las otras dos constan en otras páginas de la federación: la
+ficha del organismo valenciano lo llama **«Corporació Audiovisual de la Comunitat Valenciana S.A
+(CACVSA)»**, y la nota de 18 de septiembre de 2025 dice que Fernando R. Ojea fue director de Contenidos
+de la **«Corporación de Servicios Audiovisuales de Galicia (CSAG)»**.
+
+En sus notas la federación nombra a sus miembros por marcas o siglas de grupo, que no desarrolla. La del
+35 aniversario (14 de noviembre de 2024): **«La FORTA reúne a RTVA de Andalucía, 3Cat de Cataluña, RTVM
+de Madrid, CVMC de la Comunidad Valenciana, CRTVG de Galicia, EiTB del País Vasco, RTVC de Canarias, CMM
+de Castilla-La Mancha, RTRM de Murcia, CARTV de Aragón, RTPA de Asturias, IB3 de Islas Baleares.»** La
+ficha valenciana llama a À Punt FM **«la emisora de radio de la CVMC, el grupo de comunicación pública de
+la Comunidad Valenciana»**, y la nota de 9 de julio de 2026 presenta a Paco Aura como director general de
+À Punt.
+
+Canal Extremadura emite, pero no está en la lista. El pie de la web de FORTA da algunas denominaciones
 con variantes (por ejemplo, «Radio Televisión Madrid, S.A.U.» o «Euskal Irrati Telebista-Radio
 Televisión Vasca»); el tema sigue el texto de «Quiénes somos».
 
@@ -173,7 +195,10 @@ Según la página «Organización» de FORTA:
 - Secretaría General: **«Órgano ejecutivo de la Federación.»** Le corresponden la coordinación y
   canalización de la información entre las comisiones de trabajo y los órganos directivos, y la
   ejecución de los planes diseñados por la Junta General. **«En la actualidad el S. General es
-  D.Fernando Ojea.»**
+  D.Fernando Ojea.»** La nota de 18 de septiembre de 2025 fecha el nombramiento: la federación **«ha
+  designado hoy a Fernando R. Ojea como nuevo secretario general de la entidad, por unanimidad, durante
+  la celebración de su Junta General mensual»**. Sucede a Enrique Laucirica, que **«en 1995 asumió la
+  Secretaría General»**.
 - **«Comisiones Consultivas y de Trabajo»**, que **«Tienen carácter temático y están compuestas por
   representantes de cada uno de los socios»**: Jurídica, Económico-Financiera, Comercial, Propiedad
   Intelectual, Deportes, Audiencias, Compra de Derechos de Producción Ajena, Informativos, Técnica,
@@ -187,7 +212,8 @@ asumirá la Presidencia hasta diciembre de 2026 en cumplimiento del turno rotato
 estatutos de FORTA»**; sucede a José Antonio Sánchez Domínguez, director general de Radio Televisión
 Madrid. La RTVA también ha presidido la federación: la nota del 14 de enero de 2025 anuncia el
 nombramiento de Juande Mellado, director general de la RTVA, por seis meses, **«hasta el mes de julio
-de 2025»**. Quien la presida el día del examen hay que comprobarlo entonces.
+de 2025»**; la misma nota recuerda que **«ya fue presidente de FORTA a lo largo del primer semestre de
+2020»**. Quien la presida el día del examen hay que comprobarlo entonces.
 
 Además, **«la sede de la Federación recoge en su seno a las delegaciones de las Televisiones
 Autonómicas en Madrid, dotando a las mismas de un espacio físico y de una potente infraestructura
@@ -234,13 +260,13 @@ planes y programas de colaboración sobre iniciativas europeas.
 ## Lo que este tema no da, y dónde está
 
 - Los canales de Mediaset España: su web no dejó leerlos. Tampoco las cabeceras de Prensa Ibérica y
-  Vocento ni las marcas de PRISA en el área «Media»: sus webs no las muestran en lo leído.
+  Vocento: sus webs no las muestran en lo leído.
 - La relación completa de los 21 canales de los asociados de UTECA: su web no la da.
-- COPE y su grupo, Mediapro y el registro de prestadores audiovisuales de la Comisión Nacional de los
+- De COPE, sólo su razón social y su relación con TRECE en su web; su grupo y el resto de sus marcas,
+  no leídos. Mediapro y el registro de prestadores audiovisuales de la Comisión Nacional de los
   Mercados y la Competencia: no leídos.
 - El ente titular de Canal Extremadura y si hay otros prestadores públicos autonómicos fuera de FORTA:
   no confirmado.
-- Las siglas oficiales de la corporación valenciana y de la gallega: no constan en la web de FORTA.
 - Quién preside FORTA el día del examen: la presidencia rota cada seis meses.
 - La RTVA, su régimen jurídico y sus órganos: temario común (Ley 18/2007) y tema 2 de este específico.
   Quién otorga las licencias de televisión y el régimen de los prestadores: temario común (Ley
@@ -255,7 +281,11 @@ planes y programas de colaboración sobre iniciativas europeas.
 | FORTA, «Quiénes somos» (forta.es) | Doce miembros con denominación oficial, siglas del menú, actividades, inscripción como asociación | 24-09-2026 |
 | FORTA, portada (forta.es) | Nombre completo de la federación | 24-09-2026 |
 | FORTA, «Organización» (forta.es) | Presidencia rotatoria semestral, Junta General, Secretaría General y su titular, comisiones, delegaciones en Madrid | 24-09-2026 |
-| FORTA, notas de prensa de 11-07-2024, 14-11-2024 (35 aniversario), 14-01-2025 y 09-07-2026 | Creación en 1989; turno rotatorio estatutario; presidencias de Juande Mellado (RTVA) y de Paco Aura | 24-09-2026 |
+| FORTA, notas de prensa de 11-07-2024, 14-11-2024 (35 aniversario), 14-01-2025 y 09-07-2026 | Creación en 1989; autodefinición; cobertura del 85 %; marcas de los miembros; turno rotatorio estatutario; presidencias de Juande Mellado (RTVA, también en 2020) y de Paco Aura | 24-09-2026 |
+| FORTA, nota de prensa de 18-09-2025 | Nombramiento de Fernando R. Ojea como secretario general; su predecesor; siglas CSAG | 24-09-2026 |
+| FORTA, ficha de la Corporació Audiovisual de la Comunitat Valenciana (forta.es) | Siglas CACVSA; À Punt FM, emisora de la CVMC | 24-09-2026 |
+| SEPI, «Sectores», listado de empresas de participación mayoritaria y ficha «Agencia EFE» (sepi.es) | Participación mayoritaria de la SEPI en EFE (100 %); autodefinición y delegaciones de EFE | 24-09-2026 |
 | UTECA, portada y página «Nosotros» (uteca.tv) | Rótulo, autodefinición, constitución en 1998, nombre completo, asociados, Junta Directiva | 24-09-2026 |
 | Canal Extremadura (canalextremadura.es) | Que emite | 24-09-2026 |
-| Webs corporativas de Atresmedia, MFE-MediaForEurope, Grupo Godó, Unidad Editorial, Henneo, Prensa Ibérica, Vocento y PRISA | Lo que cada grupo dice de sí mismo (tabla del epígrafe 1) | 24-09-2026 |
+| Webs corporativas de Atresmedia, MFE-MediaForEurope, Grupo Godó, Unidad Editorial, Henneo, Prensa Ibérica, Vocento y PRISA («Media» y «Nosotros») | Lo que cada grupo dice de sí mismo (tabla del epígrafe 1) | 24-09-2026 |
+| Grupo Joly, portada e «Historia» (grupojoly.com); COPE, pie de su web (cope.es) | Filas de Grupo Joly y COPE en la tabla del epígrafe 1 | 24-09-2026 |

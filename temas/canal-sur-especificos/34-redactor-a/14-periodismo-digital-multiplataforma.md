@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico; Reglamento (UE) 2022/2065, de Servicios Digitales; Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación; Carta del Servicio Público de la RTVA 2024-2029; Contrato-programa RTVA 2024-2026; Manual de Estilo de RTVE, capítulo 4, y guía SEO de Google Search Central como pautas de oficio |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (la Ley 34/2002, con los artículos 16 y 17 en la redacción restablecida el 23-01-2025); los dos reglamentos europeos, en su texto publicado en el Diario Oficial de la Unión Europea (el EMFA, con su corrección de errores de 17-10-2024); Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Manual de RTVE tal como estaba en septiembre de 2026; guía de Google actualizada el 18-12-2025 |
-| Extensión | 8.788 palabras |
+| Extensión | 9.846 palabras |
 
 <!-- /portada -->
 
@@ -34,13 +34,15 @@ páginas web (HTML, *hypertext markup language*); televisión digital terrestre 
 Qué se puede preguntar: qué es un servicio de comunicación audiovisual y qué es responsabilidad
 editorial (artículo 2 LGCA); qué distingue un servicio lineal de uno a petición y en cuál encaja un
 pódcast; si un vídeo corto es un «programa» para la LGCA; qué es un servicio de intercambio de vídeos
-a través de plataforma y quién es usuario de especial relevancia; cuánto tiempo hay que conservar lo
+a través de plataforma, qué principios y medidas le impone la LGCA (artículos 86, 89 y 91) y quién es
+usuario de especial relevancia y con qué mecanismos cumple; cuánto tiempo hay que conservar lo
 puesto a disposición del público (artículo 156.2 LGCA); qué dice el artículo 9 LGCA de la veracidad;
 qué compromete la Carta sobre expansión digital y desinformación; qué es «Canal Sur Comprueba»; cuándo
 responde un medio por los comentarios de sus lectores (artículo 16 LSSI y artículo 6 DSA); qué
 obligación general de supervisión excluye el DSA; qué es una plataforma de muy gran tamaño y desde
 qué umbral; qué puede declarar un medio ante esas plataformas y en qué plazo tiene que poder
-responder antes de que le restrinjan un contenido (artículo 18 EMFA); qué recomienda la guía de
+responder antes de que le restrinjan un contenido (artículo 18 EMFA), qué contiene la declaración de
+motivos (artículo 17 DSA) y cómo se reclama (artículo 20 DSA); qué recomienda la guía de
 Google sobre el título, la metadescripción y la etiqueta de palabras clave.
 
 <!-- indice -->
@@ -308,7 +310,7 @@ funcionamiento, no norma, y así se estudia.
 - Las palabras del lector: «**Anticípate a los términos de búsqueda de tus lectores**»; quien domina
   un tema busca con palabras distintas de quien no lo conoce.
 - El enlace de título del resultado: Google lo genera con varias fuentes, «**incluidas las palabras
-  que contiene el elemento <title> (también llamado "texto del título") y otros encabezados de la
+  que contiene el elemento &lt;title&gt; (también llamado "texto del título") y otros encabezados de la
   página**». «**Un título adecuado debe ser único para la página, claro y conciso, y describir con
   precisión el contenido de la página.**»
 - El fragmento que acompaña al resultado sale del contenido de la página o, a veces, de la
@@ -410,8 +412,9 @@ posterior. Las normas de participación se publican en la web «**para que el us
 que existen límites y dónde se encuentran**». Son siete: no se admiten insultos, difamaciones,
 amenazas o vejaciones; ni contenidos obscenos, racistas o xenófobos; ni los que promuevan actividades
 ilegales o inciten a la violencia; ni los mensajes destinados a interrumpir la conversación; ni la
-publicidad o promoción; lo enviado por robots para generar ruido es spam y se elimina; y la
-suplantación de identidad basta para no publicar lo que envíe ese usuario.
+publicidad o promoción; lo enviado por robots para generar ruido es spam y se elimina; y «**Si
+se demuestra que un usuario ha suplantado la identidad de otro será motivo suficiente para no
+permitir la publicación del contenido enviado por dicho usuario.**»
 
 Las encuestas en la web miden el interés de los usuarios, pero «**Sólo reflejan la opinión de aquellos
 internautas que han decidido participar en la misma y no puede ser considerada un sondeo
@@ -571,14 +574,46 @@ Cuando Canal Sur publica en una red de vídeo, las obligaciones de la plataforma
 de la LGCA. La principal, el artículo 86: los prestadores de esas plataformas «**garantizarán la
 observancia de los principios establecidos en los artículos 4, 6, 10, 12, 14, 15 y en el apartado 1
 del artículo 7, con respecto a los contenidos distribuidos a través de sus servicios mediante el
-cumplimiento de las obligaciones establecidas en el presente título**».
+cumplimiento de las obligaciones establecidas en el presente título**». Esos preceptos son, por sus
+rúbricas: dignidad humana (4), igualdad de género e imagen de las mujeres (6), alfabetización
+mediática (10), autorregulación (12), corregulación (14), códigos de conducta de autorregulación y
+corregulación (15) y, del artículo 7 (personas con discapacidad), sólo su apartado 1: la comunicación
+audiovisual favorecerá «**una imagen ajustada, respetuosa, apreciativa, inclusiva y libre de
+estereotipos de las personas con discapacidad**». El pluralismo (artículo 5) no está en la lista.
+
+Para cumplirlos, la plataforma protege a los menores de lo que pueda perjudicar su desarrollo
+físico, mental o moral, y al público en general de lo que incumpla los apartados 2 y 4 del artículo 4
+(artículo 88). Las medidas del artículo 89.1 son nueve: recoger esas obligaciones en sus
+cláusulas de condiciones (a); mecanismos transparentes y de fácil uso para que los usuarios
+notifiquen los contenidos que las vulneren (b) y sistemas que les expliquen el curso dado a sus
+notificaciones (c); sistemas de fácil uso que permitan a los usuarios «**calificar los contenidos**»
+que puedan vulnerarlas (d); verificación de edad (e) y control parental (f); procedimientos de reclamación (g);
+herramientas de alfabetización mediática (h); y la posibilidad de llevar la reclamación no resuelta a
+resolución alternativa de litigios de consumo (i). En publicidad (artículo 91), la plataforma debe
+disponer de «**una funcionalidad para que los usuarios que suban vídeos declaren si a su entender, o
+hasta donde cabe razonablemente esperar que llega su entendimiento, dichos vídeos contienen
+comunicaciones comerciales audiovisuales**» (91.2.b), e informar claramente a los usuarios cuando los
+programas y vídeos las contengan, siempre que quien los subió lo haya declarado o la plataforma lo
+sepa (91.3). La CNMC controla el cumplimiento de
+estas obligaciones de las plataformas (artículo 93.1).
 
 El artículo 94 regula a los «usuarios de especial relevancia», los que publican en esas plataformas
 con peso propio. Se les considera prestadores del servicio de comunicación audiovisual «**a los
 efectos del cumplimiento de los principios del título I conforme a lo establecido en el artículo 86
 y de las obligaciones para la protección de los menores conforme a lo establecido en los apartados 1
 y 4 del artículo 99**», y deben respetar las normas de comunicaciones comerciales cuando
-comercialicen, vendan u organicen la publicidad de sus contenidos (94.1). Lo son quienes cumplan «**de
+comercialicen, vendan u organicen la publicidad de sus contenidos (94.1). Para todo ello
+«**utilizarán los mecanismos que el prestador del servicio de intercambio de vídeos a través de
+plataforma pone a su disposición, en particular, los establecidos en los artículos 89.1.d) y
+91.2.b)**» (94.1, párrafo segundo): el sistema para calificar contenidos y la funcionalidad para
+declarar que un vídeo lleva comunicaciones comerciales. La remisión al artículo 99.1 les trae el
+deber de informar de la naturaleza potencialmente perjudicial para los menores de sus contenidos con
+un sistema de descripción del contenido, advertencia acústica, símbolo visual u otro medio técnico;
+el 99.1 obliga a los prestadores televisivos lineales y también a los del servicio televisivo a
+petición. La remisión al 99.4 les trae las obligaciones del servicio a petición: catálogos separados
+para los contenidos con escenas de pornografía o violencia gratuita, formar parte del código de
+corregulación del artículo 98.2 y proporcionar control parental o codificación digital (menores,
+tema 11). Son usuarios de especial relevancia quienes cumplan «**de
 forma simultánea**» cinco requisitos (94.2): a) actividad económica con «**ingresos
 significativos**» en la plataforma; b) ser «**el responsable editorial de los contenidos
 audiovisuales puestos a disposición del público en su servicio**»; c) servicio destinado a una parte
@@ -594,13 +629,14 @@ autopromoción y de presentación de sus actividades. Los usuarios de especial r
 inscribirse en el Registro estatal de Prestadores de Servicios de Comunicación Audiovisual (94.4).
 
 El Real Decreto 444/2024, de 30 de abril, concreta dos de los cinco requisitos, los de las letras a)
-y c) (artículo 1). Son ingresos significativos los ingresos brutos del año natural anterior
-«**iguales o superiores a 300.000 euros**», derivados exclusivamente de la actividad en el conjunto
+y c) (artículo 1). Son ingresos significativos «**los ingresos brutos devengados en el año natural anterior,
+iguales o superiores a 300.000 euros**», derivados exclusivamente de la actividad en el conjunto
 de las plataformas (artículo 3.1). Y el servicio llega a una parte significativa del público cuando
-cumple a la vez dos condiciones (artículo 4.1): haber alcanzado en el año anterior «**un número de
+cumple a la vez dos condiciones (artículo 4.1): que el servicio alcance, «**en algún momento del año natural anterior, un número de
 seguidores igual o superior a 1.000.000 en un único servicio**» de plataforma, o 2.000.000 sumando
-todas, y haber publicado o compartido al menos 24 vídeos en el año, con independencia de su
-duración. El real decreto no se aplica a los sujetos del artículo 94.3 ni a los prestadores del
+todas (basta, pues, haberlo alcanzado en un momento del año, no tener esa cifra a su cierre), y que
+se hayan publicado o compartido al menos 24 vídeos en el año natural anterior, con independencia de
+su duración. El real decreto no se aplica a los sujetos del artículo 94.3 ni a los prestadores del
 servicio de comunicación audiovisual inscritos en la sección primera del Registro estatal, en
 relación con los programas, contenidos y extractos que pongan en esas plataformas (artículo 2.2).
 
@@ -610,7 +646,8 @@ El artículo 156.2 LGCA obliga a los responsables de las infracciones de la ley 
 prestadores del servicio de comunicación audiovisual y los de plataformas de vídeo) a «**conservar
 durante un plazo de seis meses a contar desde la fecha de puesta a disposición del público por
 primera vez los programas y contenidos audiovisuales, incluidas las comunicaciones comerciales y
-registrar los datos relativos a dichos programas y contenidos audiovisuales**». El plazo cuenta
+registrar los datos relativos a dichos programas y contenidos audiovisuales, incluidas las
+comunicaciones comerciales**». El plazo cuenta
 desde la primera puesta a disposición del público, no sólo desde la emisión: alcanza también a lo
 que se ofrece a petición.
 
@@ -701,8 +738,8 @@ datos. Se cumple incluyéndola en su página o sitio de internet (10.2).
 
 Responsabilidad de los intermediarios: el artículo 16 regula la de quien aloja datos de terceros y
 el 17 la de quien facilita enlaces o buscadores, con la misma estructura que el DSA: no responden si
-no tienen «**conocimiento efectivo**» de que la información es ilícita o lesiona bienes o derechos de
-un tercero, o si, teniéndolo, «**actúen con diligencia para retirar los datos o hacer imposible el
+no tienen «**conocimiento efectivo**» de que la información es ilícita o de que «**lesiona bienes o
+derechos de un tercero susceptibles de indemnización**», o si, teniéndolo, «**actúen con diligencia para retirar los datos o hacer imposible el
 acceso a ellos**» (16.1) o «**para suprimir o inutilizar el enlace correspondiente**» (17.1). La ley
 precisa cuándo hay conocimiento efectivo: «**cuando un órgano competente haya declarado la ilicitud
 de los datos, ordenado su retirada o que se imposibilite el acceso a los mismos, o se hubiera
@@ -727,7 +764,9 @@ educar, bajo la responsabilidad editorial de un prestador de servicios de medios
 
 - Transparencia (artículo 6.1): los prestadores harán accesible «**de forma sencilla y directa**»
   información actualizada sobre su denominación legal y datos de contacto, sus titulares directos o
-  indirectos (incluida la titularidad estatal o de una entidad pública), sus titulares reales, el
+  indirectos «**que posean paquetes accionariales que les permitan ejercer influencia sobre el
+  funcionamiento y la toma de decisiones estratégicas**» (incluida la titularidad estatal o de una
+  entidad pública), sus titulares reales, el
   importe total anual de fondos públicos por publicidad estatal que se les ha asignado y el de los
   ingresos por publicidad recibidos de autoridades o entidades públicas de terceros países.
 - El artículo 18, el que más importa en redes. Las plataformas de muy gran tamaño facilitarán una
@@ -740,12 +779,42 @@ educar, bajo la responsabilidad editorial de un prestador de servicios de medios
   de inteligencia artificial sin someterlos a revisión humana o control editorial**»; f) su
   denominación legal y datos de contacto; y g) los datos de contacto de su regulador (18.1). Si la
   plataforma pretende suspender o restringir la visibilidad de un contenido de ese medio por ser
-  incompatible con sus condiciones, antes debe comunicarle los motivos y darle la oportunidad de
+  incompatible con sus condiciones, antes debe comunicarle «**la declaración de motivos a que se
+  refiere el artículo 4, apartado 1, del Reglamento (UE) 2019/1150 y del artículo 17 del Reglamento
+  (UE) 2022/2065**» y darle la oportunidad de
   responder «**en un plazo de 24 horas de su recepción**», o en un plazo más breve en situación de
-  crisis (18.4). No se aplica cuando la plataforma actúa por sus obligaciones de los artículos 28, 34
+  crisis (18.4); tomada la decisión, tras la respuesta o sin ella, se lo informa sin demora indebida.
+  No se aplica cuando la plataforma actúa por sus obligaciones de los artículos 28, 34
   y 35 del DSA y del artículo 28 ter de la Directiva 2010/13/UE, o por sus obligaciones relativas a
-  los contenidos ilegales. Las reclamaciones de los medios se tramitan «**de
-  manera prioritaria y sin demora indebida**» (18.5).
+  los contenidos ilegales. Las reclamaciones de los medios presentadas con arreglo al artículo 11 del
+  Reglamento (UE) 2019/1150 o al artículo 20 del DSA se tramitan y resuelven «**de
+  manera prioritaria y sin demora indebida**», y el medio puede estar representado por un organismo
+  en ese procedimiento interno (18.5). Si la plataforma restringe o suspende sus contenidos «**de
+  forma reiterada, y sin motivos suficientes**», la plataforma, a petición del medio, entablará con él un
+  diálogo significativo y efectivo, de buena fe, para hallar en un plazo razonable una solución
+  amistosa; el medio puede notificar el resultado al Comité (el Comité Europeo de
+  Servicios de Medios de Comunicación que crea el artículo 8 del EMFA) y a la Comisión (18.6). Si la
+  plataforma rechaza o invalida su declaración, o el diálogo no da una solución amistosa, puede
+  recurrir a la mediación del artículo 12 del Reglamento (UE) 2019/1150 o a la resolución
+  extrajudicial de litigios del artículo 21 del DSA (18.7).
+- Lo que el artículo 18 da por supuesto está en el DSA. La declaración de motivos del artículo 17
+  DSA la debe todo prestador de alojamiento de datos a cualquier destinatario cuyo contenido
+  restrinja por ilegal o incompatible con sus condiciones generales (restricción de visibilidad,
+  incluidas la eliminación, el bloqueo o la relegación; restricción de pagos; suspensión del
+  servicio; suspensión o supresión de la cuenta), siempre que conozca sus datos de contacto
+  electrónicos (17.1 y 17.2). Contendrá al menos (17.3): qué medida se adopta y, en su caso, su
+  ámbito territorial y duración; los hechos y circunstancias en que se basa, incluido si responde a
+  una notificación del artículo 16 o a una investigación por propia iniciativa; si se han usado
+  medios automatizados; el fundamento jurídico, si el contenido se considera ilícito, o el
+  contractual, si se considera incompatible con las condiciones; y las vías de recurso (reclamación
+  interna, resolución extrajudicial y recurso judicial). El artículo 20 obliga a las plataformas en
+  línea a dar, durante al menos seis meses desde que se informa al destinatario de la decisión (20.2), acceso a un sistema interno de gestión
+  de reclamaciones que permita reclamar «**por vía electrónica y de forma gratuita**» contra la
+  retirada, el bloqueo o la restricción de visibilidad, la suspensión del servicio o de la cuenta y
+  la restricción de la monetización (20.1). Si la reclamación da motivos suficientes, la plataforma
+  revertirá la decisión «**sin dilación indebida**» (20.4); comunicará su decisión motivada y la
+  posibilidad de resolución extrajudicial (20.5), y esas decisiones se adoptan bajo supervisión de
+  personal cualificado «**y no exclusivamente por medios automatizados**» (20.6).
 - Calendario (artículo 29): el Reglamento es aplicable desde el 8 de agosto de 2025, con
   excepciones: el artículo 3, desde el 8-11-2024; el artículo 4.1 y 4.2, el 6.3 y los artículos 7 a
   13 y 28, desde el 8-02-2025; los artículos 14 a 17, desde el 8-05-2025; y el artículo 20, desde el
@@ -754,7 +823,8 @@ educar, bajo la responsabilidad editorial de un prestador de servicios de medios
 ## Normativa que el tema invoca
 
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 2 (apartados 1 a 8, 10,
-  13, 18 a 20 y 22), 9, 50, 86, 94, 101.1.g) y 156.
+  13, 18 a 20 y 22), 4, 5, 6, 7.1, 9, 10, 12, 14, 15, 50, 86, 88, 89, 91, 93.1, 94, 99.1 y 99.4, 101.1.g)
+  y 156.
 - Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio
   electrónico: artículos 10, 16 y 17.
 - Real Decreto-ley 9/2024, de 23 de diciembre (derogado por acuerdo del Congreso publicado el
@@ -763,9 +833,14 @@ educar, bajo la responsabilidad editorial de un prestador de servicios de medios
   considerado usuario de especial relevancia: artículos 1 a 4.
 - Ley 56/2007, de 28 de diciembre, de Medidas de Impulso de la Sociedad de la Información: sólo como
   origen de la redacción vigente del artículo 17 LSSI.
-- Reglamento (UE) 2022/2065, de Servicios Digitales: artículos 3, 6, 8, 16, 25, 33, 34, 35 y 93;
+- Reglamento (UE) 2022/2065, de Servicios Digitales: artículos 3, 6, 8, 16, 17, 20, 25, 33, 34, 35
+  y 93;
   Comunicación C/2026/1654 (lista de plataformas y motores de muy gran tamaño).
-- Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación: artículos 2, 6, 18 y 29.
+- Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación: artículos 2, 6, 8.1, 18
+  y 29.
+- Reglamento (UE) 2019/1150, sobre equidad y transparencia para los usuarios profesionales de
+  servicios de intermediación en línea: sólo como remisión del artículo 18 EMFA (artículos 4.1, 11 y
+  12); no se desarrolla.
 - Reglamento (UE) 2024/1689, de Inteligencia Artificial: artículo 50.4, párrafo segundo.
 - Carta del Servicio Público de la RTVA 2024-2029: artículos 6.8, 7, 13.13 y 26.
 - Contrato-programa RTVA 2024-2026: parte expositiva («Manifiestan», apartados 4 y 5) y cláusula
@@ -799,12 +874,12 @@ educar, bajo la responsabilidad editorial de un prestador de servicios de medios
 
 | Fuente | Qué sostiene | Leída |
 | --- | --- | --- |
-| LGCA (BOE-A-2022-11311, consolidado; 1 redacción en los artículos citados): arts. 2, 50, 86, 94, 156 | Epígrafes 4 y 7 | 24-09-2026 |
+| LGCA (BOE-A-2022-11311, consolidado; 1 redacción en los artículos citados): arts. 2, 4-7, 10, 12, 14, 15, 50, 86, 88, 89, 91, 93, 94, 99.1 y 99.4, 156 | Epígrafes 4 y 7 | 24-09-2026 |
 | LGCA, arts. 9 y 101.1.g) | Epígrafes 2 y 7 (texto del tema 4 del común) | Según el tema 4 del común |
 | LSSI (BOE-A-2002-13758, consolidado): arts. 10 (redacción de 2014), 16 (texto de 2002) y 17 (texto de la Ley 56/2007, BOE-A-2007-22440), restablecidos el 23-01-2025 tras la supresión por BOE-A-2024-26915 y su derogación por BOE-A-2025-1136 | Epígrafe 8 | 24-09-2026 |
-| DSA (DOUE-L-2022-81573, no consolidado; sin corrección de errores que afecte a lo citado): arts. 3, 6, 8, 16, 25, 33, 34, 35, 93 | Epígrafes 6 y 8 | 24-09-2026 |
+| DSA (DOUE-L-2022-81573, no consolidado; sin corrección de errores que afecte a lo citado): arts. 3, 6, 8, 16, 17, 20, 25, 33, 34, 35, 93 | Epígrafes 6 y 8 | 24-09-2026 |
 | Comunicación C/2026/1654 (DOUE-Z-2026-70016, 11-03-2026) | Lista de plataformas y motores de muy gran tamaño | 24-09-2026 |
-| EMFA (DOUE-L-2024-80523, con corrección DOUE-L-2024-81538): arts. 2, 6, 18, 29 | Epígrafe 8 | 24-09-2026 |
+| EMFA (DOUE-L-2024-80523, con corrección DOUE-L-2024-81538, que sólo toca el art. 5): arts. 2, 6, 8.1, 18, 29 | Epígrafe 8 | 24-09-2026 |
 | RIA (DOUE-L-2024-81079): art. 50.4, párr. 2 (no modificado por las correcciones DOUE-L-2025-81474 y DOUE-L-2026-80650 ni por el Reglamento (UE) 2026/1744, que en el art. 50 sólo sustituye el apartado 7) | Epígrafe 6 | 24-09-2026 |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): arts. 6.8, 7, 13.13, 26 | Epígrafes 1, 2, 5, 6 (texto del tema 6 del común) | Según el tema 6 del común |
 | Contrato-programa RTVA 2024-2026 (BOJA 245, 26-XII-2023): «Manifiestan» 4 y 5; cláusula tercera, puntos 14, 15, 29, 30, 44-48 | Epígrafes 1, 4, 5, 6 | 24-09-2026 |

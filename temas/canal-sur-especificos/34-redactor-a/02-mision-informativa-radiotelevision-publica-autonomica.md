@@ -7,8 +7,8 @@
 | **Bloque** | Temario específico de Redactor/a · punto 2 |
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
 | **Fuente** | Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (`BOE-A-2022-11311`); Ley 10/2018, de 9 de octubre, audiovisual de Andalucía (`BOE-A-2018-15240`); Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023); Estatuto de Autonomía para Andalucía; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 |
-| **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 13/2022 no ha sido modificada en los preceptos que se citan; la Ley 10/2018, con las reformas de los Decretos-leyes 2/2020, 26/2021 y 3/2024 que se indican; la Ley 18/2007, con la exposición de motivos en la redacción de la Ley 2/2019; la Carta no ha sido modificada |
-| **Extensión** | 8.300 palabras aproximadamente |
+| **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 13/2022 no ha sido modificada en los preceptos que se citan; la Ley 10/2018, con las reformas de los Decretos-leyes 2/2020, 26/2021 y 3/2024 que se indican; la Ley 18/2007, con la exposición de motivos en la redacción de la Ley 2/2019; de la Carta, la publicada en el BOJA núm. 247/2023, sin que conste modificación publicada |
+| **Extensión** | 9.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -32,7 +32,9 @@ de la Ley 13/2022 sobre los informativos; cuáles son la misión (artículo 51) 
 (artículo 52) del servicio público; qué modelo de gestión impone la Ley 10/2018 al servicio
 autonómico; cuáles son los nueve principios informativos del artículo 13.4 de la Carta; qué
 artículo de la Carta es el de la cohesión territorial y cuál el de la «neutralidad tecnológica»;
-qué es la «responsabilidad editorial» según la Ley 13/2022. En la prueba práctica: justificar un
+qué es la «responsabilidad editorial» según la Ley 13/2022 y qué dicen sus artículos 16.2 y 76.2
+de las opiniones de terceros; qué artículo de la Ley 18/2007 garantiza el pluralismo (32) y cuál el
+derecho de acceso (33); qué informativos manda subtitular la Carta (13.9). En la prueba práctica: justificar un
 tratamiento informativo con los principios de servicio público.
 
 **Cómo está hecho.** Las cuatro normas del enunciado se estudian en su parte informativa; el resto
@@ -52,6 +54,7 @@ remisiones a leyes de su época no están vigentes.
   - [La definición de la función de servicio público (artículo 4.2)](#la-definición-de-la-función-de-servicio-público-artículo-42)
   - [Los quince mandatos de la programación (artículo 4.3)](#los-quince-mandatos-de-la-programación-artículo-43)
   - [La sociedad de la información (artículo 4.4)](#la-sociedad-de-la-información-artículo-44)
+  - [Estatuto profesional, pluralismo y acceso (artículos 10 y 31 a 33)](#estatuto-profesional-pluralismo-y-acceso-artículos-10-y-31-a-33)
   - [El marco del Estatuto](#el-marco-del-estatuto)
 - [Ley 13/2022, General de Comunicación Audiovisual](#ley-132022-general-de-comunicación-audiovisual)
   - [Artículo 9. Veracidad de la información](#artículo-9-veracidad-de-la-información)
@@ -83,7 +86,7 @@ remisiones a leyes de su época no están vigentes.
 ## Ley 18/2007, de la RTVA
 
 La Ley 18/2007 es la que encomienda a la RTVA el servicio público y fija los principios de su
-información. Lo que interesa a este tema son sus artículos 1 a 4 y el marco estatutario.
+información. Lo que interesa a este tema son sus artículos 1 a 4, 10 y 31 a 33 y el marco estatutario.
 
 ### Objeto, encomienda y ámbito (artículos 1 a 3)
 
@@ -219,6 +222,41 @@ Son quince, letras a) a ñ). Son obligatorios: la ley dice que las programacione
 con las nuevas tecnologías de producción y difusión y con servicios nuevos, conexos e
 interactivos que amplíen o mejoren su oferta «**y de acercar la Administración Pública,
 autonómica y local, a la ciudadanía andaluza**».
+
+### Estatuto profesional, pluralismo y acceso (artículos 10 y 31 a 33)
+
+- Estatuto profesional (10.1): «**El Estatuto profesional de los medios de comunicación de la
+  RTVA es un instrumento destinado a garantizar la profesionalidad e independencia tanto de los
+  profesionales de la información como de los contenidos y programas de los servicios
+  informativos**» prestados por la RTVA y sus filiales en radio, televisión y nuevos soportes.
+  El personal laboral de la RTVA y de sus filiales que desempeña una función profesional de
+  información elige democráticamente a sus representantes, que componen el Consejo Profesional
+  de Canal Sur Radio, el de Canal Sur Televisión y la Comisión Permanente de la RTVA, con
+  funciones de interlocución con el personal directivo y de «**salvaguarda y
+  control del cumplimiento de los principios, derechos y deberes determinados en el Estatuto
+  profesional**» (10.2).
+- Comunicaciones de interés público (31): el Gobierno de la Nación y el Consejo de Gobierno de
+  la Junta de Andalucía «**podrán disponer que se difundan todas las declaraciones o
+  comunicaciones oficiales de interés público que crean necesarias, con indicación de su
+  origen**»; por urgencia apreciada por el órgano de procedencia, la difusión tiene efecto
+  inmediato. Está en la sección 2.ª del capítulo VI, «**Contenidos extraordinarios de la
+  programación**».
+- Garantías de pluralismo (32), ya en la sección 3.ª, «**Pluralismo democrático y derechos de
+  colectivos**»: en el conjunto de las producciones y programaciones de radio y televisión de
+  las filiales, y en los contenidos y servicios de nuevos soportes, «**se asegurará y
+  garantizará la libre expresión de la pluralidad social, cultural, ideológica y política
+  existente en la sociedad andaluza, garantizando, igualmente, la libre formación de la opinión
+  pública**».
+- Derecho de acceso (33.1): «**Conforme regulan los artículos 20.3 de la Constitución Española y
+  211.2 del Estatuto de Autonomía para Andalucía, se garantiza el ejercicio del derecho de
+  acceso a las emisiones de radio y televisión de la RTVA y sus sociedades filiales a los
+  grupos sociales y políticos significativos radicados en Andalucía, y a las asociaciones,
+  organizaciones e instituciones representativas de la diversidad política, social y cultural
+  de Andalucía, respetando el pluralismo de la sociedad.**» Las normas de procedimiento las
+  aprueba el Consejo de Administración de la RTVA, «**sin menoscabo de los principios de
+  independencia y profesionalidad garantizados en el artículo 10.1 de esta Ley**», con criterios
+  objetivos como la representación parlamentaria y la significativa implantación territorial y
+  representatividad de las organizaciones de la vida política, sindical, social y cultural (33.2).
 
 ### El marco del Estatuto
 
@@ -624,9 +662,41 @@ fundamentada**».
   Producir contenidos informativos para ser referente de la oferta audiovisual de Andalucía es
   «**una prioridad que se declara como nuclear de Canal Sur**», a la que se destina «**la más
   importante cantidad de sus recursos disponibles**» (art. 13.2).
+- Pluralismo democrático (art. 13.3): «**De acuerdo con el artículo 4.1 y 32 de la Ley 18/2007,
+  se garantizará el pluralismo democrático en las programaciones, contenidos y servicios
+  informativos de los medios de Canal Sur, posibilitando de forma efectiva la libre expresión de
+  la pluralidad política, ideológica, social, cultural, empresarial, sindical, económica y de todo
+  orden existente en la sociedad andaluza en cada momento**», de manera que se facilite una
+  conciencia ciudadana basada en la información «**de calidad contrastada**» para asegurar una
+  libre formación de la opinión pública.
+- Debate (art. 13.5): «**Se fomentarán los espacios para el debate democrático y el libre
+  contraste de opiniones sobre asuntos políticos, sociales o económicos de actualidad e interés
+  general para la ciudadanía andaluza.**» Su configuración «**atenderá al principio de
+  pluralismo**» y abarcará la diversidad y pluralidad de opiniones de la sociedad andaluza, con
+  arreglo a las letras b) y n) del artículo 4.3 de la Ley 18/2007.
+- Grandes acontecimientos (art. 13.6): los programas y servicios informativos atenderán a
+  todos los grandes acontecimientos de la vida democrática, social, cultural, etnográfica,
+  institucional, política, asociativa, empresarial, sindical y económica de Andalucía «**en toda
+  su diversidad territorial**».
 - Criterio profesional: las coberturas especiales del Parlamento de Andalucía y de otras
   instituciones democráticas se producirán «**Bajo el criterio profesional del interés
   informativo y utilidad social**» (art. 13.7).
+- Subtitulado (art. 13.9): «**Todos los programas de servicios informativos de noticias en
+  televisión lineal serán subtitulados**» para favorecer la comprensión de la ciudadanía en
+  general y de las personas con diversidad funcional sensorial auditiva en particular; además
+  dispondrán de otras prestaciones de accesibilidad conforme a la normativa aplicable.
+- Garantía interna del pluralismo (art. 13.10): conforme al artículo 32 de la Ley 18/2007, la
+  configuración de todos los programas y contenidos informativos queda asegurada y garantizada
+  en su pluralismo democrático; la observancia de esa garantía se basa, en el ámbito interno
+  de Canal Sur, en la actuación de su **Consejo Profesional**, que salvaguarda y controla el cumplimiento de
+  los principios, derechos y deberes de pluralismo del Estatuto Profesional de los Medios de
+  Comunicación de la RTVA.
+- Derecho de acceso (art. 13.11): el de los grupos sociales y políticos significativos y de las
+  asociaciones, organizaciones e instituciones representativas de la diversidad política,
+  social y cultural de Andalucía se aplicará en los casos que procediere, según el procedimiento
+  del artículo 33 de la Ley 18/2007 y conforme al artículo 11 de la Ley 10/2018.
+- Los apartados 8 (información territorializada), 12 (andaluces de fuera) y 13
+  (desinformación) se ven en los epígrafes de cohesión territorial y de objetividad.
 
 ## Servicio público
 
@@ -655,11 +725,14 @@ Ninguna de las leyes define la neutralidad; sólo la enumeran. Dónde aparece:
   veracidad, imparcialidad, independencia y pluralidad; es la única vez que la palabra sale en el
   articulado. La exposición de motivos presenta el Estatuto profesional como medio para
   «**fortalecer la independencia y neutralidad de los profesionales de la información de los
-  medios de comunicación de la RTVA, sometidos a un Estatuto de sólida base democrática**».
+  medios de comunicación de la RTVA, sometidos a un Estatuto de sólida base democrática**»; el
+  artículo 10.1 le da por objeto garantizar la «**profesionalidad e independencia**» de los
+  profesionales y de los servicios informativos (epígrafe de la Ley 18/2007).
 - **EAA**: entre los principios de los medios públicos de gestión directa, la «**neutralidad
   informativa**» (artículo 211.1, citado en el epígrafe de la Ley 18/2007).
-- **Carta**: uno de los nueve principios informativos del artículo 13.4, y en la exposición de
-  motivos (la exposición de motivos, citada en el epígrafe de la Carta; el 13.4, en el de objetividad).
+- **Carta**: uno de los nueve principios informativos del artículo 13.4 (citado en el epígrafe de
+  objetividad) y, en la exposición de motivos, junto a la «**imparcialidad**» y la
+  «**independencia informativa**» (citada en el epígrafe «La misión en la Carta»).
 - **Ley 13/2022**: entre los objetivos generales del mandato-marco, «**la actuación neutral y sin
   posicionamiento ideológico más allá de los valores constitucionales**» (54.3.a, 3.º, citado en
   el epígrafe de la ley). Es contenido del mandato-marco **estatal**, no una regla para Canal Sur.
@@ -787,11 +860,25 @@ Ninguna norma la define; las cuatro fuentes la nombran así:
   religioso**» y de no discriminación (4.1.b); mandatos de no discriminación (4.3.c) y de
   programación «**que atienda a la diversidad de la ciudadanía andaluza**» (4.3.f); acceso de
   todos los segmentos de audiencia «**referidos a sexo, edad, grupos sociales o territoriales, con
-  especial atención a las personas con discapacidad**» (4.3.h).
+  especial atención a las personas con discapacidad**» (4.3.h); garantía de la libre expresión
+  de «**la pluralidad social, cultural, ideológica y política existente en la sociedad
+  andaluza**» (32) y derecho de acceso de las asociaciones, organizaciones e instituciones
+  «**representativas de la diversidad política, social y cultural de Andalucía**» (33.1), ambos
+  en el epígrafe de la Ley 18/2007.
 - **Ley 13/2022**: misión de «**Reflejar en la programación el pluralismo político, social y
   cultural de la sociedad.**» y de «**Dar a conocer la diversidad cultural y lingüística.**»
-  (51.b y d); la diversidad es uno de los siete valores esenciales del artículo 52.
-- **Ley 10/2018**: fines de atender a los sectores más amplios y diversos de la audiencia, **con
+  (51.b y d); la diversidad es uno de los siete valores esenciales del artículo 52. Entre los
+  principios generales del título I, el artículo 5 («**Pluralismo**»): se promoverá un conjunto
+  de medios públicos, privados y comunitarios «**que reflejen el pluralismo ideológico y político
+  y la diversidad cultural y lingüística de la sociedad**» (5.1), y la diversidad de fuentes y de
+  contenidos y una programación que incluya distintos géneros y atienda a los diversos intereses
+  de la sociedad, «**especialmente cuando se realice a través de prestadores del servicio público
+  de comunicación audiovisual**» (5.2). Es un mandato de promoción («se promoverá»), no una
+  obligación directa del prestador.
+- **Ley 10/2018**: entre los principios inspiradores de la ley, «**El pluralismo político,
+  religioso y sociocultural en la comunicación audiovisual, como condición esencial para el
+  cumplimiento de la libertad de expresión, de información y de comunicación, garantizando la
+  libre formación de la opinión pública, la diversidad y la cohesión social.**» (2.1.c); y fines de atender a los sectores más amplios y diversos de la audiencia, **con
   una atención especial a los colectivos más vulnerables**, y de promover el respeto a la
   diversidad (45.3 y 45.4).
 - **Carta**: entre los valores prioritarios del artículo 8.1 («Divulgación de valores cívicos y
@@ -833,6 +920,18 @@ seleccionar y organizar lo que se emite. Y la decisión editorial es la de todos
 artículo 2.10.b) usa el lugar donde se toman «las decisiones editoriales» para fijar el ámbito
 autonómico de un servicio (epígrafe de la Ley 13/2022).
 
+*En qué se presta el servicio (artículos 16 y 76 de la Ley 13/2022).* El servicio televisivo
+(16.1) y el radiofónico y sonoro a petición (76.1) son servicios de interés general que se
+prestan «**en ejercicio de la responsabilidad editorial**», conforme a los principios del
+título I y al amparo de los derechos constitucionales a la libertad de expresión y a comunicar
+y recibir información, entre otros. Y la regla que importa en tertulias, entrevistas y directos:
+«**La responsabilidad editorial de los prestadores del servicio de comunicación audiovisual
+televisivo no prejuzgará su responsabilidad legal por los contenidos o los servicios prestados o
+las opiniones difundidas por terceros en su servicio.**» (16.2; el 76.2 dice lo mismo del
+radiofónico y del sonoro a petición). Que el prestador ejerza la responsabilidad editorial no
+basta, pues, ni para eximirle ni para hacerle responder de lo que diga un invitado: su
+responsabilidad legal se decide aparte.
+
 Otras piezas:
 
 - *Ley 13/2022, artículo 56.2*: los criterios rectores de la dirección editorial del servicio
@@ -851,8 +950,8 @@ Otras piezas:
 ## Normativa que el tema invoca
 
 - Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada
-  por la RTVA: artículos 1 a 4, 7 y 34.
-- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 2, 9 y 50 a 75.
+  por la RTVA: artículos 1 a 4, 7, 10, 31 a 34.
+- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 2, 5, 9, 16 y 50 a 76.
 - Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 3.1.m), 3.2.k), 44 a 46, 50 y 51.
 - Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual (derogada): disposición
   derogatoria.
@@ -866,7 +965,9 @@ Otras piezas:
   Ley 18/2007, en el tema 5; la Carta, el contrato-programa y el Estatuto profesional, en el
   tema 6.
 - Independencia editorial, secreto profesional, cláusula de conciencia y rectificación, en el
-  tema 1 de este específico; pluralismo electoral, en el tema 12; ética y Defensor/a de la
+  tema 1 de este específico; el pluralismo en la información política y electoral (proporcionalidad,
+  tiempos, campañas y Ley Orgánica 5/1985), en el tema 12, que vuelve sobre los artículos 32 y 33
+  de la Ley 18/2007 y 13.3 y 13.10 de la Carta; ética y Defensor/a de la
   Audiencia, en el tema 18.
 - Una definición legal de neutralidad, objetividad o diversidad social: no existe en las
   normas del enunciado; el tema da dónde se enumeran.
@@ -879,9 +980,9 @@ Todas las fuentes se leyeron el 24/09/2026.
 
 | Fuente | Qué sostiene |
 |---|---|
-| Ley 18/2007 (`BOE-A-2008-1185`), texto consolidado | Artículos 1 a 4, 7 y 34.1 y exposición de motivos |
-| Ley 13/2022 (`BOE-A-2022-11311`), texto consolidado | Artículos 2.1 a 2.4 y 2.10, 9, 50 a 56 y 72 a 75; estructura del título III |
-| Ley 10/2018 (`BOE-A-2018-15240`), texto consolidado | Artículos 2, 3.1.m) y 3.2.k), 44 a 46, 50 y 51; rúbrica del capítulo I del título V |
+| Ley 18/2007 (`BOE-A-2008-1185`), texto consolidado | Artículos 1 a 4, 7, 10, 31 a 33 y 34.1, rúbricas de las secciones 2.ª y 3.ª del capítulo VI y exposición de motivos |
+| Ley 13/2022 (`BOE-A-2022-11311`), texto consolidado | Artículos 2.1 a 2.4 y 2.10, 5, 9, 16, 50 a 56, 72 a 75 y 76.1-2; estructura del título III |
+| Ley 10/2018 (`BOE-A-2018-15240`), texto consolidado | Artículos 2 (2.1.c incluido), 3.1.m) y 3.2.k), 44 a 46, 50 y 51; rúbrica del capítulo I del título V |
 | Ley 7/2010 (`BOE-A-2010-5292`) | Disposición derogatoria, 6 (derogación de la Ley 25/1994) |
 | Carta del Servicio Público 2024-2029, BOJA núm. 247/2023 | Exposición de motivos, artículos 2 a 8, 10 a 13, 15, 24 y 35 y disposiciones finales |
 | EAA (Ley Orgánica 2/2007) | Artículos 207, 211, 212 y 215 |

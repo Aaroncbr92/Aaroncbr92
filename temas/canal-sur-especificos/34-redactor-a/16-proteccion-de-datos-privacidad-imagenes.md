@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Reglamento (UE) 2016/679, general de protección de datos; Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales; Constitución Española, artículo 20; Ley Orgánica 1/1982; Ley Orgánica 1/1996; Ley Orgánica 1/2004; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 9.000 palabras |
+| Extensión | 9.760 palabras |
 
 <!-- /portada -->
 
@@ -34,7 +34,8 @@ o trece); si el consentimiento salva la difusión de la imagen de un menor; qué
 artículo 8.2 de la LO 1/1982 y a quién no alcanzan; qué protege el artículo 63.1 de la LO 1/2004;
 qué capítulos del Reglamento admiten excepciones periodísticas; si el derecho de supresión alcanza a
 lo necesario para informar; qué es el artículo 22 de la LOPDGDD y por qué no es la regla de la
-grabación informativa en la calle.
+grabación informativa en la calle; qué dice el Libro de estilo de la cámara oculta, de los primeros
+planos de heridos, de entrevistar a menores, de grabar en un hospital y de identificar a un detenido.
 
 <!-- indice -->
 
@@ -50,6 +51,7 @@ grabación informativa en la calle.
 - [3. Datos especialmente protegidos](#3-datos-especialmente-protegidos)
 - [4. Imágenes de personas identificables](#4-imágenes-de-personas-identificables)
   - [Grabar en la calle: lo que no es el artículo 22 de la LOPDGDD](#grabar-en-la-calle-lo-que-no-es-el-artículo-22-de-la-lopdgdd)
+  - [La pauta del Libro de estilo sobre imágenes](#la-pauta-del-libro-de-estilo-sobre-imágenes)
 - [5. Menores](#5-menores)
   - [El consentimiento para tratar sus datos](#el-consentimiento-para-tratar-sus-datos)
   - [La imagen y los datos de los menores en los medios](#la-imagen-y-los-datos-de-los-menores-en-los-medios)
@@ -242,7 +244,10 @@ del Reglamento está en su capítulo II, uno de los siete que el artículo 85.2 
 tratamiento con fines periodísticos (epígrafe 8). El Libro de estilo de 2004, en su capítulo 9
 («Asuntos comprometidos», apartado 9.7), pide que cualquier dato sobre enfermos, patologías o personas
 con una minusvalía «**debe ser silenciado, salvo que guarde relación directa con el hecho del que se
-informa y sea necesario para entenderlo correctamente**».
+informa y sea necesario para entenderlo correctamente**». Y en su segundo párrafo, sobre la imagen: la
+persona enferma o en situación de aflicción, convalecencia, en una intervención quirúrgica o durante un ingreso hospitalario debe
+ser tratada con total respeto a su intimidad, y «**siempre solicitaremos autorización para grabar
+imágenes o extraer información, tanto de él o su entorno, como de quienes le atienden**».
 
 ## 4. Imágenes de personas identificables
 
@@ -334,6 +339,27 @@ ilegítima (artículo 7.6 de la LO 1/1982). La persona que aparece «**como mera
 información gráfica de un suceso o acaecimiento público no sufre intromisión (artículo 8.2.c); la
 captación o publicación de su imagen en lugares o momentos de su vida privada o fuera de ellos, fuera
 de los casos del artículo 8.2, sí (artículo 7.5).
+
+### La pauta del Libro de estilo sobre imágenes
+
+El Libro de estilo de 2004 (9.9, «Material objetable») fija límites propios de la casa, que el tema
+11 desarrolla con el resto del capítulo 9:
+
+- Cámara oculta y ardid: Canal Sur TV y Canal 2 Andalucía no emitirán imágenes grabadas por medios
+  ilegales o conseguidas mediante cualquier ardid (cámara oculta, suplantación de personalidad,
+  engaño). Su emisión o los medios para conseguirlas solo está justificada «**con autorización
+  previa de la Dirección de Informativos, en casos de auténtico interés público pero no para airear
+  intimidades particulares**» o escándalos intrascendentes.
+- Heridos y fallecidos: «**nunca ofreceremos planos cortos y nítidos del rostro de una persona
+  muerta o que se encuentre gravemente herida, agonizante o presa de una tensión psicológica
+  extrema**».
+- Personas en riesgo: la imagen de menores, víctimas de un delito, testigos protegidos y miembros
+  de las fuerzas de seguridad y su familia no se emite si existe un factor de riesgo (se cita
+  literal en el epígrafe 6).
+- Grabación y edición (9.9.2): el cámara capta los hechos con prudencia y con cierta distancia
+  física y profesional; es preferible registrar imágenes en las que no se vea un primer plano del
+  rostro o en las que no se pueda identificar a los heridos. La responsabilidad de elegir la imagen
+  sin incidir desmesuradamente en las víctimas recae en la selección y la edición.
 
 
 ## 5. Menores
@@ -493,6 +519,12 @@ nombre de pila y la edad pero se silenciarán las demás circunstancias**». Adv
 omitir el nombre o las señas del menor pero no la identidad de sus padres o parientes. Y si el menor
 es familiar o allegado de un delincuente, o víctima de un delito, «**no será mencionado**».
 
+Sobre las entrevistas (9.4.2.1): «**Los empleados o contratados de CSTV y C2 Andalucía se abstendrán
+de entrevistar a menores sobre temas relacionados con actividades delictivas o que violen su
+privacidad.**» Si por cualquier razón se estima conveniente hacerlo, «**es obligatoria la
+intervención sobre imagen y sonido para evitar su identificación**». Y su imagen no se emite si
+existe un factor de riesgo (9.9, en el epígrafe 6).
+
 ## 6. Víctimas
 
 Ni el Reglamento ni la LOPDGDD tienen una regla sobre las víctimas en los medios (la LOPDGDD solo las
@@ -529,8 +561,12 @@ riesgo de que pueda ser reconocida. Del presunto agresor, «**ofrecer las señas
 filiación completa**» (9.2.12.1). En información judicial (9.5.2), las víctimas de un delito no se citan
 ni identifican, lo que es «**inexcusable con los menores, sobre todo en actos contra la libertad
 sexual, salvo que la propia víctima, ya adulta, decida hacer públicos los hechos y sus
-circunstancias**». La imagen de víctimas de un delito no se emite si existe un factor de riesgo, y sus
-rostros se cubren o traman (9.9). Y los cámaras no asediarán «**con una cercanía desmesurada**» a las
+circunstancias**». Cuando la víctima, un testigo protegido o una de las partes en litigio están
+acogidos a la Administración y su paradero o circunstancias son secreto, el informador no puede
+hacerlo público ni aportar referencias que permitan localizarlos (9.5.2, segundo párrafo). Sobre la
+imagen (9.9): «**La imagen de menores de edad, de víctimas de un delito, de testigos protegidos o de
+miembros de las fuerzas de seguridad y su familia no se emitirán si existe un factor de riesgo. Sus
+rostros serán cubiertos o tramados y no se aportarán detalles sobre su identidad o paradero.**» Y los cámaras no asediarán «**con una cercanía desmesurada**» a las
 víctimas de delitos, accidentes de tráfico, hechos cruentos, catástrofes naturales o circunstancias
 dramáticas (9.9.1).
 
@@ -563,6 +599,16 @@ indemnizando (2.3), y para los menores atiende a
 su madurez o exige escrito del representante con conocimiento previo del Ministerio Fiscal (artículo
 3), todo ello en el epígrafe 4. Y en los menores, ni uno ni otro bastan cuando la difusión perjudica
 su honra o sus intereses (artículo 4.3 de la LO 1/1996, en el epígrafe 5).
+
+El Libro de estilo de 2004 mira el consentimiento desde la redacción. La identidad completa de la
+víctima de un delito debe preservarse si ella lo solicita, y quien nos permite grabar su imagen o
+nos concede unas declaraciones «**está realizando un esfuerzo que nos obliga a respetar las
+exigencias razonables que nos imponga**» (9.1.8). Las terceras personas relacionadas solo
+circunstancialmente con el caso no deben aparecer ni ser referidas si se niegan a ello, aunque
+tengan vínculos familiares o sentimentales con los implicados (9.1.4). Del enfermo o el
+hospitalizado, de su entorno y de quienes le atienden se pide siempre autorización para grabar
+(9.7, en el epígrafe 3). Y la imagen detallada de la víctima de un delito o un hecho trágico no se
+emite sin autorización cuando sea ofensiva para su dignidad y su privacidad (9.9.2).
 
 ## 8. Interés público informativo y ponderación con la libertad de información
 
@@ -622,8 +668,8 @@ desarrolle el artículo 85 del Reglamento: las palabras «periodístico», «lib
 «audiovisual» no aparecen en ella, y la expresión «libertad de expresión» solo aparece en el
 artículo 85 de la propia ley, referida a Internet. Lo que hay en la LOPDGDD para los medios de
 comunicación son los artículos 85 y 86, que se ven más abajo. Para el resto hay que acudir al
-propio Reglamento (artículo 17.3) y a las leyes de protección del honor, de rectificación y
-audiovisual, que se ven a continuación.
+propio Reglamento (artículo 17.3) y a las leyes de protección del honor y audiovisual (epígrafes 4
+y 5; la rectificación de la LO 2/1984, en el tema 1).
 
 ### Supresión y libertad de información: el artículo 17.3 del Reglamento
 
@@ -722,6 +768,19 @@ anonimato de víctimas o afectados (9.1.3), que los datos irrelevantes no acapar
 en información judicial, no citar el nombre, el domicilio, la ocupación ni detalles de familiares o
 amigos de las personas acusadas o condenadas, «**salvo que la mención sea imprescindible para que la
 noticia sea completa**» (9.5.2).
+
+El mismo 9.5.2 da además criterios para pesar el interés público de la identidad de detenidos y
+personas públicas (el 9.9, en el epígrafe 4, exige «**auténtico interés público**» para la cámara oculta):
+
+- Detenidos: «**La identidad completa de un detenido tampoco se dará a conocer sobre todo si no
+  existen cargos. Hay una excepción matizada: que sea alguien con gran notoriedad u ocupe una
+  responsabilidad pública de alto nivel.**» Aun así debe imperar la discreción, que solo se atenúa
+  si hay relación entre el presunto delito y la función que desarrolla, si el delito es manifiesto
+  y si la identidad es necesaria para completar la información.
+- Personas públicas: «**Cuanta mayor sea la relevancia pública de una persona más amplio será el
+  margen para investigar e informar**», siempre que sea un hecho cierto y suficientemente
+  contrastado y que se refiera a conductas inmorales o antijurídicas; esa libertad «**no permite
+  calificativos ni insultos**» por reprobable que sea la conducta.
 
 La doctrina de los tribunales sobre esta ponderación no se da aquí: el tema se ciñe a la letra de las
 normas.

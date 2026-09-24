@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 20 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; X Convenio Colectivo de la RTVA y sus sociedades filiales; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión (2004); documentación técnica del INSST |
+| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión (2004); documentación técnica del INSST |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 11.298 palabras |
+| Extensión | 13.267 palabras |
 
 <!-- /portada -->
 
@@ -32,7 +32,8 @@ el trabajador interrumpir su actividad; si la vigilancia de la salud es voluntar
 disciplinas preventivas del RD 39/1997; qué órganos de prevención prevé el X Convenio de la RTVA y
 qué descanso fija para el trabajo en pantalla; qué portátiles excluye el RD 488/1997 y a quién
 considera trabajador; los tres momentos de la vigilancia de la salud en pantallas; las distancias de
-la pantalla; qué son los TME y qué movimientos los provocan; dónde se define el accidente in itinere y
+la pantalla y los niveles de iluminación, temperatura y humedad del puesto; qué es el estrés, qué
+afecta el trabajo a turnos y qué patología de la voz es enfermedad profesional; qué son los TME y qué movimientos los provocan; dónde se define el accidente in itinere y
 qué lo excluye; qué es el accidente en misión; qué es un EPI, cuándo se usa y qué debe hacer el
 trabajador con él.
 
@@ -55,6 +56,7 @@ trabajador con él.
   - [Los riesgos generales: las cuatro disciplinas preventivas](#los-riesgos-generales-las-cuatro-disciplinas-preventivas)
   - [La organización preventiva de la RTVA](#la-organización-preventiva-de-la-rtva)
   - [Los riesgos específicos del redactor/a](#los-riesgos-específicos-del-redactora)
+  - [Otros riesgos del puesto: estrés, trabajo a turnos y voz](#otros-riesgos-del-puesto-estrés-trabajo-a-turnos-y-voz)
 - [3. Pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos](#3-pantallas-de-visualización-de-datos-ergonomía-y-trastornos-musculoesqueléticos)
   - [La norma: el Real Decreto 488/1997](#la-norma-el-real-decreto-4881997)
   - [El anexo: disposiciones mínimas del puesto](#el-anexo-disposiciones-mínimas-del-puesto)
@@ -410,7 +412,7 @@ psicosociología aplicada**. Esas cuatro disciplinas sirven para ordenar los rie
 | --- | --- |
 | Seguridad en el trabajo | Accidentes: caídas y golpes en exteriores, tráfico en los desplazamientos (epígrafe 4), incendios y evacuación del centro |
 | Higiene industrial | Agentes físicos, químicos o biológicos del lugar de la cobertura (humo de un incendio, ruido, calor, un hospital o un laboratorio) |
-| Ergonomía y psicosociología aplicada | Trabajo con pantallas, posturas y TME (epígrafe 3), carga mental, turnos y presión del cierre |
+| Ergonomía y psicosociología aplicada | Trabajo con pantallas, posturas y TME (epígrafe 3); carga mental, estrés, trabajo a turnos y nocturno, y uso profesional de la voz (en este epígrafe, «Otros riesgos del puesto») |
 | Medicina del trabajo | La vigilancia de la salud (artículo 22 de la Ley 31/1995 y artículo 4 del RD 488/1997) |
 
 La columna de la derecha es una ordenación de este tema, no un listado oficial: la RTVA no ha
@@ -428,7 +430,9 @@ de 2014) dedica a la salud laboral sus artículos 25 a 31:
   **salvo que los/as Delegados/as de Prevención que los integran podrán ser designados/as por los/las
   representantes de personal entre trabajadores/as que no ostenten dicha condición siempre que
   acrediten una formación mínima de 40 horas en la materia**; **este Comité se reunirá al menos una
-  vez al mes**, y sus componentes **gozarán de 20 horas retribuidas al mes**.
+  vez al mes**, y sus componentes **gozarán de 20 horas retribuidas al mes, debidamente
+  justificadas**; **su disfrute podrá acumularse como máximo en cada trimestre. En caso de no ser
+  utilizadas caducará el derecho a las mismas**.
 - **Comité Intercentros de Seguridad y Salud Laboral** (artículo 27): se constituye **en atención a
   las especiales características de RTVA y sus Sociedades Filiales**, **destinado a la consulta
   regular y periódica de las actuaciones de la Empresa en materia de prevención de riesgos que
@@ -468,7 +472,8 @@ obligación preventiva de la empresa.
 ### Los riesgos específicos del redactor/a
 
 El puesto combina dos escenarios. **En la redacción** predomina el trabajo con ordenador: pantallas,
-posturas y TME, carga mental y trabajo a turnos, que se estudian en el epígrafe 3. **En la calle**
+posturas y TME, que se estudian en el epígrafe 3; a ellos se suman el estrés, el trabajo a turnos y
+nocturno y el uso de la voz, que se ven al final de este epígrafe. **En la calle**
 (coberturas, directos, desplazamientos) aparecen el tráfico —accidente en misión e in itinere,
 epígrafe 4— y los riesgos del lugar donde está la noticia.
 
@@ -484,6 +489,93 @@ Ese criterio encaja con dos preceptos de la Ley 31/1995 ya vistos: el derecho a 
 actividad y abandonar el lugar de trabajo, en caso necesario, cuando considere que dicha actividad
 entraña un riesgo grave e inminente para su vida o su salud** (artículo 21.2) y la obligación de
 velar por la propia seguridad y la de los demás (artículo 29.1).
+
+### Otros riesgos del puesto: estrés, trabajo a turnos y voz
+
+Ninguno de los tres tiene un reglamento preventivo propio como el de pantallas o el de EPI. Para el
+trabajo nocturno y a turnos, el Estatuto de los Trabajadores (artículo 36.4) dispone que **los
+trabajadores nocturnos y quienes trabajen a turnos deberán gozar en todo momento de un nivel de
+protección en materia de salud y seguridad adaptado a la naturaleza de su trabajo, y equivalente al
+de los restantes trabajadores de la empresa**, y que **el empresario deberá garantizar que los
+trabajadores nocturnos que ocupe dispongan de una evaluación gratuita de su estado de salud, antes
+de su afectación a un trabajo nocturno y, posteriormente, a intervalos regulares**. Por lo demás, los
+tres se estudian con el deber general del artículo 14.2 de la Ley 31/1995 y con las Notas Técnicas
+de Prevención del INSST, que advierten
+que **las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén
+recogidas en una disposición normativa vigente**. Que afecten al redactor/a es una aplicación de
+este tema, no un resultado de la evaluación oficial del puesto.
+
+**El estrés (NTP 318, 1991).** La NTP recoge como definición de gran aceptación la de McGrath (1970):
+**«El estrés es un desequilibrio sustancial (percibido) entre la demanda y la capacidad de respuesta
+(del individuo) bajo condiciones en la que el fracaso ante esta demanda posee importantes
+consecuencias (percibidas)»**. Los **«estresores»** pueden ser características del trabajo o de la
+persona, y actúan **debido a su intensidad o magnitud, a la acumulación de varios de ellos o a su
+prolongación en el tiempo**. Entre los del trabajo, la NTP enumera, entre otros, la **sobrecarga de
+trabajo** (**el volumen, la magnitud o complejidad de la tarea (y el tiempo disponible para
+realizarla) está por encima de la capacidad del trabajador para responder a esa tarea**), la
+**infracarga**, la **repetitividad**, el **ritmo de trabajo**, la **ambigüedad de rol**, el
+**conflicto de rol**, las **relaciones personales**, la **inseguridad en el trabajo**, la **falta de
+participación**, el **control**, la **formación**, los **cambios en la organización** y la
+**responsabilidad** (**tareas peligrosas, responsabilidad sobre personas**). La reacción orgánica
+sigue el **Síndrome General de Adaptación** descrito por **Selye (1936)**, en tres fases: **fase de
+reacción de alarma**, **fase de resistencia** y **fase de agotamiento**.
+
+La NTP 443 (1995; la propia nota indica que está **actualizada por la NTP 926**, que este tema no
+da) define los **factores psicosociales** como **aquellas condiciones que se encuentran presentes
+en una situación laboral y que están directamente relacionadas con la organización, el contenido
+del trabajo y la realización de la tarea, y que tienen capacidad para afectar tanto al bienestar o
+a la salud (física, psíquica o social) del trabajador como al desarrollo del trabajo**; y entre sus
+consecuencias perjudiciales cita **el estrés**, **la insatisfacción laboral, problemas de relación,
+desmotivación laboral**. La Guía Técnica de pantallas une este bloque con el del epígrafe 3: **hay
+una relación demostrada entre el estrés y los mismos** [los TME]. **Tanto los factores
+organizativos como la carga mental se asocian directamente con el estrés y, por tanto, con los
+TME.** En una redacción, las presiones de tiempo del cierre y la cobertura de sucesos graves son
+ejemplos de esos estresores; el ejemplo es de este tema, no de la NTP.
+
+**El trabajo a turnos y nocturno (NTP 502, 1998, «Trabajo a turnos: criterios para su análisis»).**
+Parte de que **el trabajo a turnos debe organizarse teniendo en cuenta que se han de prevenir sus
+implicaciones sobre la salud de los trabajadores, tanto a nivel físico como psicológico o de
+interacción social**, y clasifica lo que afecta en **tres grandes grupos: alteraciones del sueño,
+problemas de salud, tanto física como psicológica, y dificultades en la vida familiar y social**.
+Sobre el sueño: **la calidad del sueño diurno no es la misma que la del nocturno, siendo este
+último el que se considera como sueño reparador y cuya falta puede dar lugar a estados de fatiga
+crónica**. La NTP advierte también que **es difícil encontrar en nuestro país métodos validados que
+permitan la evaluación de estos factores, por lo que se requerirá para su evaluación de personal
+especializado**. Las ediciones de madrugada, de noche y de fin de semana hacen que el redactor/a de
+informativos pueda estar en este supuesto; cómo organiza la RTVA sus turnos es materia del
+convenio, no de este tema.
+
+**La voz (NTP 1149, 2020, «Voz y trabajo: procedimiento preventivo», y NTP 1226, 2025, «Voz y
+trabajo: recomendaciones para la vigilancia de la salud específica»).** El redactor/a pone voz a
+offs, crónicas, conexiones y boletines. La NTP 1149 incluye entre los perfiles con riesgo de
+**sobresfuerzo vocal** a **locutores, periodistas de radio y televisión**, y explica que **ruido,
+reverberación, sequedad ambiental, agentes químicos e infecciosos agravan el sobresfuerzo inicial y
+pueden llevar, generalmente de forma transitoria, al deterioro de la calidad de la voz (disfonía) o
+incluso a la imposibilidad de emitir sonido laríngeo (afonía)**.
+
+- **Enfermedad profesional**: **tan solo los nódulos de cuerdas vocales han sido reconocidos como
+  enfermedad profesional por el Real Decreto 1299/2006, de 10 de noviembre**; no se incluyen
+  **pólipos, edemas, hemorragias, disfonías tensionales o agravamiento de lesiones crónicas**.
+- **Evaluación de riesgos**: considera las **condiciones materiales** (acústica del local: **tiempo
+  de reverberación, ruido de fondo, nivel de interferencia verbal**), las **características
+  ambientales** (**humedad relativa, temperatura, ventilación, corrientes de aire, presencia de
+  irritantes**), las **características organizativas** (**carga de trabajo, distribución del tiempo
+  de trabajo, pausas y la formación en el uso y cuidado de la voz**) y las personales.
+- **Medidas preventivas**, en tres niveles: **entorno físico** (ventilación, humedad y temperatura,
+  aislamiento acústico, **poner a disposición micrófonos y altavoces portátiles individuales**),
+  **organización** (**distribuir el trabajo de forma que evite la sobrecarga vocal y pueda reducir
+  el estrés**, **pautar descansos**, **facilitar el acceso a agua potable**, **elaborar un plan de
+  formación sobre el uso de la voz**) y **persona** (**hidratarse convenientemente durante la
+  jornada laboral**, **realizar ejercicios de calentamiento vocal previos al uso intensivo de la
+  voz**, **planificar el trabajo y establecer descansos de voz**, **no fumar**).
+- **Vigilancia de la salud** (NTP 1226): la **disfonía crónica** **dura más de dos o tres
+  semanas**, mientras que la **aguda** **acostumbra a ceder con el tratamiento sintomático y reposo
+  vocal en 7-14 días**; **la disfonía progresiva o persistente por más de dos o tres semanas
+  requiere examen de la laringofaringe por parte del especialista en otorrinolaringología**. Los
+  reconocimientos, **como mínimo en tres ocasiones**: **inicial**, **tras una ausencia prolongada
+  por motivos de salud** y **a intervalos periódicos**; **un reconocimiento anual suele ser adecuado
+  para personas trabajadoras con un uso continuado e intensivo de la voz o alta demanda vocal, o
+  bianual para personas con un uso frecuente pero no tan intensivo**.
 
 ---
 
@@ -620,6 +712,32 @@ producir un calor adicional que pueda ocasionar molestias**; **f) emisiones**: *
 excepción hecha de la parte visible del espectro electromagnético, deberá reducirse a niveles
 insignificantes**; **g) humedad**: **deberá crearse y mantenerse una humedad aceptable**.
 
+El anexo no da cifras; las da el Real Decreto 486/1997, de 14 de abril, de lugares de trabajo, al
+que remite la Guía Técnica:
+
+- **Iluminación.** Los mínimos están en **el artículo 8 y en el anexo IV del Real Decreto 486/1997**:
+  **100** lux para **bajas exigencias visuales**, **200** para **exigencias visuales moderadas**,
+  **500** para **exigencias visuales altas** y **1.000** para **exigencias visuales muy altas**,
+  medidos a la altura donde se realiza la tarea; **estos niveles mínimos deberán duplicarse**, entre
+  otros casos, **en las zonas donde se efectúen tareas, cuando un error de apreciación visual durante la realización de las mismas pueda
+  suponer un peligro para el trabajador que las ejecuta o para terceros o cuando el contraste de
+  luminancias o de color entre el objeto a visualizar y el fondo sobre el que se encuentra sea muy
+  débil** (anexo IV, apartado 3). Para
+  pantallas, la Guía toma los valores de la Society of Light and Lighting (**300** lux, trabajo
+  principalmente con pantallas; **500**, principalmente con papel) y concluye: **es habitual que se
+  simultaneen tareas de lectura y de escritura, tanto en el papel como en la pantalla, el nivel de
+  iluminación promedio deberá estar comprendido en el rango de 300 lux a 500 lux**.
+- **Temperatura.** Las condiciones ambientales están en **el artículo 7 y en el anexo III del Real
+  Decreto 486/1997**, cuyo apartado 3.a) fija que **la temperatura de los locales donde se realicen
+  trabajos sedentarios propios de oficinas o similares estará comprendida entre 17 y 27 ºC**. La
+  guía técnica de ese real decreto, según la de pantallas, **recomienda, para trabajos en locales
+  cerrados donde se realicen tareas de oficinas y similares**: **en época de verano: de 23 °C a
+  26 °C**; **en época de invierno: de 20 °C a 24 °C**.
+- **Humedad.** **La humedad relativa estará comprendida entre el 30 y el 70 por 100, excepto en los
+  locales donde existan riesgos por electricidad estática en los que el límite inferior será el 50
+  por 100** (anexo III, 3.b). La Guía añade que **una humedad relativa baja favorece la sequedad de
+  los ojos y de las mucosas**.
+
 **3. Interconexión ordenador/persona.** Para elegir y modificar programas, el empresario tendrá en
 cuenta que **a) el programa habrá de estar adaptado a la tarea**; **b)** habrá de ser **fácil de
 utilizar** y **no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control sin
@@ -706,8 +824,8 @@ aplicada**).
 el Trabajo (2007): **los trastornos musculoesqueléticos (TME) de origen laboral se pueden definir
 como las alteraciones que sufren estructuras corporales como los músculos, articulaciones,
 tendones, ligamentos, nervios, huesos y el sistema circulatorio, causadas o agravadas
-fundamentalmente por el trabajo y los efectos del entorno en el que éste se desarrolla**. Son
-**el problema de salud más común en España y en Europa**, **afectan aproximadamente a tres de
+fundamentalmente por el trabajo y los efectos del entorno en el que éste se desarrolla**.
+**Representan, en el ámbito laboral, el problema de salud más común en España y en Europa**, **afectan aproximadamente a tres de
 cada cinco personas trabajadoras europeas**, y **los más frecuentes se localizan en la espalda, el
 cuello y las extremidades superiores**.
 
@@ -778,7 +896,7 @@ ocasión o por consecuencia del trabajo que ejecute por cuenta ajena.**
 | **d)** | **Los acaecidos en actos de salvamento y en otros de naturaleza análoga, cuando unos y otros tengan conexión con el trabajo.** |
 | **e)** | **Las enfermedades, no incluidas en el artículo siguiente, que contraiga el trabajador con motivo de la realización de su trabajo, siempre que se pruebe que la enfermedad tuvo por causa exclusiva la ejecución del mismo.** |
 | **f)** | **Las enfermedades o defectos, padecidos con anterioridad por el trabajador, que se agraven como consecuencia de la lesión constitutiva del accidente.** |
-| **g)** | **Las consecuencias del accidente que resulten modificadas en su naturaleza, duración, gravedad o terminación, por enfermedades intercurrentes**, que constituyan complicaciones del proceso patológico del accidente o tengan su origen en afecciones adquiridas en el nuevo medio en que se haya situado el paciente para su curación. |
+| **g)** | **Las consecuencias del accidente que resulten modificadas en su naturaleza, duración, gravedad o terminación, por enfermedades intercurrentes, que constituyan complicaciones derivadas del proceso patológico determinado por el accidente mismo o tengan su origen en afecciones adquiridas en el nuevo medio en que se haya situado el paciente para su curación.** |
 
 La letra a) es la base legal del accidente in itinere, y no dice más: **al ir o al volver del
 lugar de trabajo**. Sus requisitos los ha precisado la jurisprudencia.
@@ -949,8 +1067,15 @@ ser compatibles entre sí**.
 **Utilización (artículo 7).** Su utilización, almacenamiento, mantenimiento, limpieza, desinfección
 cuando proceda, y reparación **deberán efectuarse
 de acuerdo con las instrucciones del fabricante**; **salvo en casos particulares excepcionales, los
-equipos de protección individual sólo podrán utilizarse para los usos previstos**; y **estarán
-destinados, en principio, a un uso personal**.
+equipos de protección individual sólo podrán utilizarse para los usos previstos** (7.1). Las
+condiciones de uso, **en particular, en lo que se refiere al tiempo durante el cual haya de
+llevarse**, se fijan en función de **la gravedad del riesgo**, **el tiempo o frecuencia de
+exposición al riesgo**, **las condiciones del puesto de trabajo**, **las prestaciones del propio
+equipo** y **los riesgos adicionales derivados de la propia utilización del equipo que no hayan
+podido evitarse** (7.2). Y **estarán destinados, en principio, a un uso personal. Si las
+circunstancias exigiesen la utilización de un equipo por varias personas, se adoptarán las medidas
+necesarias para que ello no origine ningún problema de salud o de higiene a los diferentes
+usuarios** (7.3).
 
 **Información y formación (artículo 8).** El empresario **deberá informar a los trabajadores,
 previamente al uso de los equipos, de los riesgos contra los que les protegen, así como de las
@@ -1000,6 +1125,8 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | TME | Diseño del puesto; pausas, rotación, ritmos | INSST; RD 488/1997, anexo |
 | TME de espalda | Terapia rehabilitadora (75 % en tiempo de trabajo) | X Convenio, art. 29.6 |
 | Desplazamientos (en misión, in itinere) | Plan de Seguridad Vial; Plan de Movilidad | NTP 1091 |
+| Estrés y turnos | Evaluación de los factores psicosociales y de la turnicidad por personal especializado | NTP 318, 443 y 502 |
+| Voz | Acústica y ambiente; distribuir el trabajo y pautar descansos; hidratación, calentamiento vocal; vigilancia de la salud | NTP 1149 y 1226 |
 | Coberturas de riesgo | Previsión; no asumir riesgos temerarios; interrumpir la actividad ante riesgo grave e inminente | Libro de estilo 5.6; Ley 31/1995, art. 21.2 |
 | Riesgos que no se eliminan | EPI adecuados, gratuitos y homologados | Ley 31/1995, art. 17.2; RD 773/1997; X Convenio, art. 30 |
 | Emergencias en el centro | Primeros auxilios, lucha contra incendios, evacuación | Ley 31/1995, art. 20 |
@@ -1011,8 +1138,10 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | Arts. 14, 15, 17 a 22 y 29; disposición adicional primera |
 | Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención | Art. 34 (disciplinas preventivas) |
 | Real Decreto 488/1997, de 14 de abril, pantallas de visualización | Arts. 1 a 6 y anexo |
+| Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Arts. 7 y 8; anexo III (3.a y 3.b) y anexo IV (niveles mínimos de iluminación) |
 | Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 5, 7, 8 y 10 |
 | Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Art. 156 |
+| Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.4 (trabajo nocturno y a turnos) |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-XII-2014) | Arts. 25 a 31 |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) | Art. 32.2 |
 
@@ -1027,8 +1156,10 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
   conflictos) o de desplazamientos: no localizados en documento publicado.
 - **La relación de EPI y prendas que el Comité de Salud Laboral asigna al puesto** (artículo 30
   del X Convenio): no publicada.
-- **Riesgos de la voz en la locución, del estrés y del trabajo a turnos y nocturno**: el enunciado
-  no los nombra y no se ha leído fuente técnica sobre ellos; quedan fuera.
+- **Voz, estrés y trabajo a turnos**: se dan en el epígrafe 2 con las NTP del INSST, que no son
+  norma. No se da la NTP 926 (que actualiza la NTP 443), ni las NTP 1148 y 1213 de la serie de la
+  voz (formación y evaluación de riesgos), ni la ordenación de la jornada, los turnos y el trabajo
+  nocturno en la RTVA, que es materia del convenio.
 - **El resto de la Ley 31/1995** (servicios de prevención, Delegados de Prevención, Comité de
   Seguridad y Salud, responsabilidades): tema 9 del temario común.
 - **El X Convenio en su conjunto**: tema del temario común dedicado al convenio.
@@ -1044,13 +1175,20 @@ Todas las fuentes leídas el **24-09-2026**.
 | Ley 31/1995, de Prevención de Riesgos Laborales | BOE-A-1995-24292 | Vigente a 24-09-2026 (arts. 14 a 29 tomados del tema 9 del común) |
 | RD 39/1997, Reglamento de los Servicios de Prevención, art. 34 | BOE-A-1997-1853 | 1 redacción (1997) |
 | RD 488/1997, pantallas de visualización | BOE-A-1997-8671 | 1 redacción en todos sus bloques (1997) |
+| RD 486/1997, lugares de trabajo, arts. 7 y 8 y anexos III y IV | BOE-A-1997-8669 | Anexo III: redacción de BOE-A-2023-11187, vigente desde 13-05-2023; arts. 7 y 8 y anexo IV, 1997 |
 | RD 773/1997, equipos de protección individual | BOE-A-1997-12735 | Arts. 2 y 6, DF 2.ª y anexos: redacción de BOE-A-2021-20261, vigente desde 09-12-2021; resto, 1997 |
 | RDLeg 8/2015, texto refundido de la LGSS, art. 156 | BOE-A-2015-11724 | 1 redacción, vigente desde 02-01-2016 |
+| RDLeg 2/2015, texto refundido de la Ley del Estatuto de los Trabajadores, art. 36 | BOE-A-2015-11430 | 1 redacción, vigente desde 13-11-2015 |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales | BOJA núm. 240, de 10-12-2014 | Texto publicado |
 | Carta del Servicio Público de la RTVA 2024-2029 | BOJA núm. 247, de 28-12-2023 | Texto publicado |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía | RTVA, 1.ª ed., marzo de 2004, apartados 5.6 y 8.3.4 | Edición de 2004 |
 | INSST, Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización | Edición de junio de 2021 | Documentación técnica |
 | INSST, tema 69, «Trastornos musculoesqueléticos de la extremidad superior» (temario de la Escala de Titulados Superiores) | Versión de abril de 2025 | Documentación técnica; definición de TME de la Agencia Europea para la Seguridad y la Salud en el Trabajo (2007) |
 | INSST, NTP 1090 y NTP 1091, riesgos laborales viarios | 2017 | Documentación técnica; la NTP 1090 cita el art. 115 de la LGSS de 1994, hoy art. 156 de la de 2015 |
+| INSST, NTP 318, «El estrés: proceso de generación en el ámbito laboral» | 1991 | Documentación técnica |
+| INSST, NTP 443, «Factores psicosociales: metodología de evaluación» | 1995; actualizada por la NTP 926 (no leída) | Documentación técnica |
+| INSST, NTP 502, «Trabajo a turnos: criterios para su análisis» | 1998 | Documentación técnica |
+| INSST, NTP 1149, «Voz y trabajo: procedimiento preventivo» | 2020 | Documentación técnica |
+| INSST, NTP 1226, «Voz y trabajo: recomendaciones para la vigilancia de la salud específica» | 2025 | Documentación técnica |
 | CNSST, grupo de trabajo de Seguridad Vial Laboral | Documento del grupo de trabajo | Documentación técnica |
 | BOE, Anuario de Derecho, artículos sobre accidente in itinere (ANU-L-2025-00000003021) y en misión (ANU-L-2023-00000002486) | Biblioteca jurídica del BOE | Doctrina del Tribunal Supremo, recogida indirectamente |

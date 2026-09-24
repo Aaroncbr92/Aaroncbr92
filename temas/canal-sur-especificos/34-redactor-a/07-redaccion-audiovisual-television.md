@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 7 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (2004); Manual de estilo de RTVE (capítulo de TVE) para el in situ y los rótulos |
-| Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004; Manual de estilo de RTVE en su versión web, leídos el 24-09-2026 |
-| Extensión | 4.396 palabras |
+| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (2004); Manual de estilo de RTVE (capítulo de TVE) para el in situ y los rótulos; Manfredi (2010) para el guion en el sistema de redacción |
+| Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004; Manual de estilo de RTVE en su versión web; Manfredi (2010), leídos el 24-09-2026 |
+| Extensión | 5.033 palabras |
 
 <!-- /portada -->
 
@@ -55,6 +55,7 @@ se prepara un vídeo para que aguante recortes y reemisiones.
   - [La escaleta](#la-escaleta)
   - [Del texto a la cabina y a la sala de edición](#del-texto-a-la-cabina-y-a-la-sala-de-edición)
   - [El sistema de redacción](#el-sistema-de-redacción)
+  - [El guion en el sistema informático de la redacción](#el-guion-en-el-sistema-informático-de-la-redacción)
 - [10. Relación texto-imagen](#10-relación-texto-imagen)
   - [Las cuatro condiciones del montaje (6.3, pp. 90-91)](#las-cuatro-condiciones-del-montaje-63-pp-90-91)
 - [11. Adaptación al tiempo de emisión](#11-adaptación-al-tiempo-de-emisión)
@@ -109,9 +110,12 @@ relevancia de cada elemento»** (p. 45).
 
 **«quedan prohibidas, como norma general, las reconstrucciones y las simulaciones. Si son
 imprescindibles para la comprensión de una noticia importante, deberá hacerse constar mediante el rótulo
-'reconstrucción' durante todo el tiempo en el que las imágenes 'falsas' estén en pantalla»**. Y **«la
-música se admite como elemento del montaje ﬁnal sólo si es la propia música la referencia noticiosa
-principal»** (3.2.2, p. 46). La excepción son los cierres del informativo (§ 5).
+'reconstrucción' durante todo el tiempo en el que las imágenes 'falsas' estén en pantalla»**. **«La
+música o el falseamiento del sonido ambiente también es un procedimiento reprobable porque aleja de la
+realidad y ofrece al espectador una sensación de ﬁcción indeseable.»** Y **«La música se admite
+como elemento del montaje ﬁnal sólo si es la propia música la referencia noticiosa principal, y siempre
+que no perturbe la narración, ni anule por completo el sonido natural.»** (3.2.2, p. 46). La excepción
+son los cierres del informativo (§ 5).
 
 Duración: **«la noticia básica, en situaciones habituales e para las informaciones convencionales, no
 excede de un minuto»** (p. 46; la errata «e para» es del original).
@@ -139,7 +143,7 @@ editarlo»** (8.1, consideración 1.ª, p. 113).
 |---|---|
 | Entradilla | **«La recomendación es que, salvo que se pacte por alguna razón, descartemos la presencia al comienzo del vídeo para evitar redundancias con el presentador y para no demorar la aparición de la noticia en sí misma. Si fuera imprescindible, se coordinarán los términos del paso de locutor y los que se expresen en la aparición del redactor para que no sean repetitivos ni contradictorios.»** |
 | Medianilla | **«especialmente útil cuando queremos hacer una transición de dos escenarios diferentes dentro de la misma información o a dos facetas distintas de ésta. También lo es cuando pasamos de una imagen actual a otra de archivo»** |
-| Salidilla | **«La 'salidilla' es la fórmula más recomendable. Sirve para poner epílogo al vídeo, para complementarlo con algún detalle anecdótico que no ha sido grabado o bien para hacer referencia a las consecuencias del hecho que hemos narrado. La opinión queda descartada y los interrogantes no son recomendables»** |
+| Salidilla | **«La 'salidilla' es la fórmula más recomendable. Sirve para poner epílogo al vídeo, para complementarlo con algún detalle anecdótico que no ha sido grabado o bien para hacer referencia a las consecuencias del hecho que hemos narrado. La opinión queda descartada y los interrogantes no son recomendables, menos aún como ﬁnal de un vídeo: el espectador no busca preguntas en un informativo sino respuestas.»** |
 
 El Manual de RTVE añade el riesgo de contar demasiado en cámara: **«Debe evitarse que el contenido del
 in situ acabe "hipotecando" el resto de la historia. Si en el in situ se cuentan las principales ideas
@@ -221,9 +225,13 @@ técnicos. También denominamos así a los que se incluyen como cortes dentro de
 - Al grabarlo: **«sólo cuando sea preciso, repetiremos la pregunta hasta lograr una frase cerrada, breve y completa, de entre
   diez y quince segundos»**, y al entrevistado **«no accederemos, en circunstancias cotidianas, a que
   revise la grabación»** (3.17.1.4, p. 60).
-- En lengua extranjera (3.7.1, p. 52): en totales de diez o quince segundos se descarta, **«cuando sea
-  posible, la voz superpuesta a modo de doblaje»**, y se prefiere **«la rotulación a modo de subtítulos
-  resumidos»**; en formatos de amplia duración, voz superpuesta. Con subtítulos, el texto será de síntesis
+- En lengua extranjera (3.7.1, p. 52): con carácter general, **«descartaremos, cuando sea posible, la
+  voz superpuesta a modo de doblaje»**. En un total de diez o quince segundos es preferible **«la
+  rotulación a modo de subtítulos resumidos, especialmente en asuntos de especial gravedad o
+  emotividad»**; también cabe **«desglosar su contenido principal en el texto de la locución,
+  encabalgándola sobre el propio 'total', si la declaración lo permite y está bien integrada en la
+  noticia»**, método **«más adecuado cuanto más conocido sea el personaje que habla»**. En formatos de
+  amplia duración, voz superpuesta. Con subtítulos, el texto será de síntesis
   para oír la voz original al principio y al final de cada frase, y **«En este caso, el sonido original irá
   en canal 2 de audio y el doblaje por el canal 1.»**
 
@@ -283,7 +291,8 @@ sobre las cuales el locutor lee un texto que se ajusta a la secuencia.»** (3.9,
 - Reglas comunes a reportaje y crónica (3.5.1): imágenes con movimiento, entrevistados que se expresen
   con detalle, **«El texto debe reducirse al máximo»** y **«El ritmo debe mantenerse»**. La atribución
   **«debe ajustarse a una norma menos exigente que en una noticia convencional porque restaría ritmo a la
-  historia»** (3.5, p. 49).
+  historia. Sólo es exigible la mención de la fuente cuando se trate de algún testimonio, hecho o tesis
+  especialmente delicada.»** (3.5, p. 49).
 
 ## 7. Titulares
 
@@ -298,7 +307,8 @@ importante, relevante y sugestivo de un informativo.»** (3.6, pp. 50-51)
   expresiones negativas, especialmente el no»**.
 - Tópicos (3.6.1, p. 50): ni en el texto ni en los rótulos, títulos de canciones, películas, novelas, obras
   de teatro, dichos populares o términos copiados, ni adaptaciones de ellos. **«Tampoco deben aparecer siglas, salvo
-  que sean sobradamente conocidas»**.
+  que sean sobradamente conocidas, ni conviene apoyarse en cifras de mucho detalle, sobre todo en el
+  comienzo de frase.»**
 - Imágenes: **«Los titulares son el escaparate con lo excepcional y novedoso. No son un catálogo
   desordenado de noticias, ni deben montarse, salvo excepciones muy justiﬁcadas e insalvables, con
   imágenes de archivo.»**
@@ -370,6 +380,31 @@ locutor que le hayan sido asignados. Así quedan disponibles para el resto del e
 posteriores ediciones de informativos.»** (6.1.2, p. 89). El Libro de estilo no describe un formato de
 guion concreto ni nombra el programa informático que usa CSRTV.
 
+### El guion en el sistema informático de la redacción
+
+Un capítulo de Antonio Manfredi (2010), en una obra colectiva de periodismo publicada en Sevilla,
+describe el guion tal como se trabaja en los sistemas de redacción digitales. Su ejemplo es Avid, cuyos equipos, según el autor, estaban instalados **«en
+todos los Servicios Informativos de RTVE y, en el caso de Andalucía, en Canal Sur»** (p. 138); es un dato
+de 2010, y no consta en documento publicado que siga siendo así hoy.
+
+- El periodista empieza su trabajo en iNews, de Avid, **«un sistema de escritura de noticias»** con acceso a las agencias, a los textos de la
+  redacción y a **«las escaletas de todos los informativos»**. El periodista recibe un mensaje cuando se le
+  adjudica una noticia y **«conoce la duración exigida y el lugar de emisión»**; empieza entonces a
+  **«componer el texto de la noticia e insertar ya los rótulos de la información (totales y localizadores
+  temporales o espaciales) que no tienen ya que ser compuestos por ningún otro profesional e irán
+  directamente a la emisión»** (pp. 139-140).
+- iNews Instinct, que Avid lanzó en 2005 para que el periodista monte piezas con texto y vídeo sin una
+  aplicación profesional de edición, tiene en su espacio de trabajo **«un sencillo modo de edición para
+  video y el guión»**, y el usuario puede **«ajustar el audio y el minutado»** (p. 139).
+- Entre sus claves de redacción: **«Dividir nuestro guión en partes independientes, unidas con un nexo
+  informativo único y dando prioridad a los totales o declaraciones»**, **«Reiterar las tres ideas
+  principales que queremos resaltar a lo largo de todo el guión»** y **«Escriba siempre primero el paso
+  de la noticia y hable con el presentador para aclararle cualquier duda»**; y, como consejo práctico,
+  **«Respete los tiempos que le marcan los editores»** (pp. 143 y 144).
+
+No se ha encontrado una fuente publicada que describa la disposición gráfica del guion informativo de
+televisión (columnas, marcas de total y de colas), por lo que este tema no la desarrolla.
+
 ## 10. Relación texto-imagen
 
 **«El concepto básico del periodismo televisivo es que la imagen manda en el discurso informativo.
@@ -404,15 +439,19 @@ punto de incurrir en una coincidencia milimétrica.»** (6.3, p. 91)
 **«Como norma obligatoria, cada vídeo debe adaptarse, en primer lugar, a la orientación, duración y
 formato establecido por los editores, responsables de todo el proceso.»** (cap. 6, p. 87)
 
-- Vídeo recortable (3.2.1): **«escribamos los párrafos posteriores como si fuesen el último de modo que
-  el vídeo pueda emitirse incompleto sin plantear problemas técnicos o de comprensión para el
-  espectador»** (p. 45).
+- Vídeo recortable (3.2.1, p. 45): **«Es muy recomendable»** que **«escribamos los párrafos posteriores
+  como si fuesen el último de modo que el vídeo pueda emitirse incompleto sin plantear problemas técnicos
+  o de comprensión para el espectador, que deberá haber recibido al principio los elementos básicos de
+  la noticia»**. Y con una precaución de montaje: que **«los planos de transición de los últimos párrafos
+  'encabalguen' con duración suﬁciente las últimas palabras de un párrafo y las primeras del siguiente,
+  que es el que no se emitiría en este supuesto»**.
 - Colas holgadas, para absorber demoras e improvisaciones (3.9.1; § 5).
 - Versiones (3.15, p. 56): el redactor puede recibir encargos de versiones **«con un formato pactado,
   destinadas a emitirse en otros informativos de ambas cadenas»**, **«sin romper los márgenes del
-  convenio colectivo»**. Para la reemisión, **«eludiremos la inclusión de adverbios de tiempo: no
-  usaremos hoy, ayer o mañana en beneﬁcio de fórmulas menos concretas (este lunes, la semana
-  entrante...)»** (pp. 56-57).
+  convenio colectivo»**. Si se prevé que un vídeo se emita **«en posteriores ediciones de informativos
+  sin alterar la versión original»**, entonces, **«como norma general, siempre que pueda preverse,
+  eludiremos la inclusión de adverbios de tiempo: no usaremos hoy, ayer o mañana en beneﬁcio de
+  fórmulas menos concretas (este lunes, la semana entrante...)»** (pp. 56-57).
 - Presente (3.15.1, p. 57): **«mejor que decir las tropas españolas han llegado a Iraq es preferible las tropas
   españolas llegan a Iraq»**, para que los vídeos —en general informes, crónicas y reportajes— **«tengan una pervivencia mínima de 24
   horas»** desde su primera emisión.
@@ -423,7 +462,9 @@ formato establecido por los editores, responsables de todo el proceso.»** (cap.
 
 - El Libro de estilo de Canal Sur es de 2004 y usa la terminología de su tiempo (cinta, ENG, Canal 2
   Andalucía). Si ha sido sustituido por otro posterior, no consta en lo leído.
-- El formato del guion y el programa de redacción que usa hoy CSRTV: no constan en documento publicado.
+- La disposición gráfica del guion informativo (columnas, marcas de total y colas) y el programa de
+  redacción que usa hoy CSRTV: no constan en documento publicado leído. El dato de Avid en Canal Sur es
+  de 2010.
 - El Manual de estilo de RTVE no obliga a Canal Sur; se usa como referencia de oficio para el in situ y
   los rótulos.
 - Géneros (definición de crónica, reportaje, entrevista): tema 5. Escaleta y mesa de redacción: tema 3.
@@ -433,5 +474,6 @@ formato establecido por los editores, responsables de todo el proceso.»** (cap.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9 | Todo el tema salvo lo atribuido a RTVE | 24-09-2026 |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9 | Todo el tema salvo lo atribuido a RTVE y a Manfredi | 24-09-2026 |
+| Antonio Manfredi Díaz, «Escribir para televisión. La imagen manda», en R. Reig García (ed.), *La dinámica periodística: perspectiva, contexto, métodos y técnicas*, Sevilla, Asociación Universitaria Comunicación y Cultura, 2010, pp. 129-145, ISBN 9788493760007 (depósito idUS, Universidad de Sevilla) | El guion en el sistema informático de la redacción (§ 9) | 24-09-2026 |
 | Manual de estilo de RTVE (web, manualdeestilo.rtve.es/tve), capítulo 2 (TVE): 2.1.2, 2.2.6, 2.2.8 y 2.4.4 | Rótulo de archivo; concentración de recursos; rótulos; in situ; el término «pieza» | 24-09-2026 |

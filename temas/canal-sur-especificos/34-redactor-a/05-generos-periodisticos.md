@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (2004) para la televisión; Manual de estilo de RTVE para radio y entornos digitales, porque no se ha localizado libro de estilo publicado de Canal Sur Radio ni de la web de Canal Sur; Carta del Servicio Público 2024-2029 para el debate |
 | Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004; Manual de estilo de RTVE en su versión web, leídos el 24-09-2026 |
-| Extensión | 3.404 palabras |
+| Extensión | 3.580 palabras |
 
 <!-- /portada -->
 
@@ -127,9 +127,15 @@ nunca «hoy», «ayer» o «mañana» sin fecha (4.5).
 
 - Televisión, Canal Sur: **«La crónica muestra una perspectiva singular, acotada a un tiempo concreto,
   según el criterio del periodista que es testigo de un acontecimiento. No es un género de opinión pero
-  concede libertad narrativa»** (3.5). Duración: **«no debe exceder de los dos minutos»**, salvo casos
-  excepcionales previamente establecidos. En la crónica telefónica **«En pantalla aparecerá un 'cartón'
-  con imagen de postproducción, un mapa y/o el rostro del periodista.»**
+  concede libertad narrativa y permite al autor una interpretación propia, aunque no radical, de lo que
+  ve.»** (3.5). El mismo apartado fija el límite: **«La opinión personal no tiene cabida, ni los juicios
+  de valor formulados a la ligera, pero sí la interpretación periodística de los hechos. Esta
+  interpretación tiene que estar argumentada y razonada a partir de datos fehacientes y nunca como
+  hipótesis arriesgadas.»** Ese margen es, en lectura del tema, lo que 3.11 salva al negar la opinión
+  a los redactores **«salvo las situaciones matizadas en informes y crónicas»** (§ 6). Duración: **«no
+  debe exceder de los dos minutos»**, salvo casos excepcionales previamente
+  establecidos. En la crónica telefónica **«En pantalla aparecerá un 'cartón' con imagen de postproducción,
+  un mapa y/o el rostro del periodista.»**
 - Televisión, RTVE: **«el relato de un periodista desde el lugar de los hechos, habiendo sido o no testigo
   directo de un acontecimiento. El cronista, a modo de firma, suele aparecer en pantalla»** (2.3.3.1). La
   diferencia: Canal Sur define la crónica desde el periodista testigo; RTVE admite que lo haya sido o no.
@@ -187,7 +193,9 @@ plató [...] 2. Formato en sí mismo»** (3.17).
   permiten cuestionarios previos, pero si lo hubo se dice a la audiencia, y las condiciones poco
   razonables llevan a rechazar la entrevista; entrar en materia; dejar completar las respuestas;
   **«La entrevista no es un desafío»**; no preguntar por lo que el entrevistado no conoce. En
-  informativo diario **«no debe prolongarse por encima de tres minutos»**. Tratamiento de usted (3.17.2.2).
+  informativo diario **«no debe prolongarse por encima de tres minutos»**. Tratamiento (3.17.2.2): **«Como
+  norma general que sólo se podrá obviar en casos y formatos muy concretos, en plató siempre nos
+  dirigiremos al entrevistado con tratamiento de usted»**.
 - RTVE añade (2.3.1.2): evitar dos preguntas seguidas, los latiguillos («¿no es así?») y los tópicos
   («¿cómo valora usted?»); distinguir **«ser incisivo y ser agresivo»**; **«No tomar parte en el debate,
   sólo hacer preguntas»**.
@@ -207,8 +215,9 @@ plató [...] 2. Formato en sí mismo»** (3.17).
   las situaciones matizadas en informes y crónicas, sino a los protagonistas de cada información o a los
   expertos e invitados de los programas de debate.»** (3.11). Si se requiere a un periodista de la casa
   como testigo o especialista, **«se ceñirá a la exposición de datos objetivos y, a partir de ellos,
-  mostrará su tesis profesional.»** Y en general: **«La opinión que no se apoya en un dato objetivo está
-  vedada para los periodistas de CSTV y Canal 2 Andalucía.»** (7.1).
+  mostrará su tesis profesional.»** Y en el apartado de Política: **«La opinión que no se apoya en un dato objetivo está
+  vedada para los periodistas de CSTV y Canal 2 Andalucía. La subjetividad pertenece en exclusiva a las
+  declaraciones»** (7.1).
 - Radio: el comentario es **«interpretación valorativa sobre la actualidad, [...] monólogo breve»**, y
   **«se explicitará la autoría»** (RTVE, 3.4.3).
 
@@ -218,11 +227,11 @@ firma.
 ## 7. Directo y conexión
 
 - Qué se hace en directo (Canal Sur, 8.3): responder **«a los interrogantes que cualquier ciudadano se
-  plantearía»**; si no hay imagen, las seis preguntas; mirar a cámara; saludo y despedida dirigidos a la
-  audiencia; **«Terminado el directo, en la despedida sólo habla el presentador.»**
+  plantearía»**; si no hay imagen, las seis preguntas. Y en 8.3.2: mirar a cámara; saludo y despedida
+  dirigidos a la audiencia; **«Terminado el directo, en la despedida sólo habla el presentador.»**
 - Límite (RTVE, 2.4.2): **«Existen dos requisitos incuestionables para realizar un directo: no decir y no
   hacer ninguna inconveniencia»**.
-- Conexión: el Libro de estilo de Canal Sur habla de **«conexión en directo»** (8.1.2, 8.3.2). En radio,
+- Conexión: el Libro de estilo de Canal Sur habla de **«conexión en directo»** (8.1, punto 2; 8.3 y 8.3.2). En radio,
   los boletines incluyen **«conexiones de duración normalmente breve, ya sea con el exterior, ya con la
   red de emisoras locales y territoriales»** (RTVE, 3.2.1).
 
@@ -244,6 +253,9 @@ grabación.
 
 ## 8. Debate y tertulia
 
+- Clasificación en radio: el Manual de estilo de RTVE agrupa bajo **«Géneros de opinión»** (3.4) el
+  debate, la tertulia, el comentario y la encuesta a pie de calle, y bajo **«Géneros informativos
+  radiofónicos»** (3.3) la noticia, la crónica, el reportaje, el informe y la entrevista.
 - Debate (RTVE, 3.4.1): **«voces distintas aportan puntos de vista diferentes o contrapuestos»**; el
   moderador mantiene la iniciativa **«con criterios de actualidad, interés, equilibrio y
   representatividad»**, y todos tienen **«las mismas condiciones de sonido»**.

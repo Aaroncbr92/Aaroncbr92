@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
 | **Fuente** | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004; X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo de definición de funciones; Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`); Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023); Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023); Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno (BOJA núm. 219, de 11/11/2015). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Los artículos 9, 10 y 17 de la Ley 18/2007 conservan su redacción original; el convenio está prorrogado sin modificación publicada |
-| **Extensión** | 5.600 palabras aproximadamente |
+| **Extensión** | 6.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -32,7 +32,8 @@ contiene una escaleta, qué no puede cambiarse en ella (el nombre del vídeo), q
 los centros territoriales en sus aportaciones a cadena, quién resuelve un conflicto entre coste e
 información, cuáles son los tres niveles de información, quién aprueba el Estatuto profesional,
 qué órganos elige el personal de información y qué hace el Secretario/a de Redacción según el
-convenio. En la prueba práctica: ordenar una escaleta, planificar una cobertura, preparar un
+convenio, quién escribe el paso de locutor y quién confecciona la escaleta técnica de las
+desconexiones. En la prueba práctica: ordenar una escaleta, planificar una cobertura, preparar un
 directo o una versión para otra edición.
 
 **Advertencia sobre la fuente principal.** El Libro de Estilo es de 2004 y es un manual de
@@ -65,15 +66,18 @@ incumplirse o tomarse a la ligera**». Usa la terminología de su tiempo (cinta,
 - [Escaleta](#escaleta)
   - [Qué es, en el Libro de Estilo](#qué-es-en-el-libro-de-estilo)
   - [Tres reglas obligatorias](#tres-reglas-obligatorias)
+  - [Quién escribe el paso de locutor](#quién-escribe-el-paso-de-locutor)
   - [Escaleta y minutado (oficio)](#escaleta-y-minutado-oficio)
 - [Asignación de coberturas](#asignación-de-coberturas)
 - [Coordinación territorial](#coordinación-territorial)
   - [La red: centros de producción y Delegación en Madrid](#la-red-centros-de-producción-y-delegación-en-madrid)
   - [Cadena y desconexión en el Libro de Estilo](#cadena-y-desconexión-en-el-libro-de-estilo)
+  - [Las desconexiones provinciales en el convenio](#las-desconexiones-provinciales-en-el-convenio)
 - [Directos](#directos)
 - [Continuidad informativa](#continuidad-informativa)
   - [Seguimiento y cierre del ciclo](#seguimiento-y-cierre-del-ciclo)
   - [Versiones y reemisiones](#versiones-y-reemisiones)
+  - [Continuidad informativa no es continuidad de emisión](#continuidad-informativa-no-es-continuidad-de-emisión)
   - [La oferta que hay que alimentar](#la-oferta-que-hay-que-alimentar)
 - [Relación con programas](#relación-con-programas)
 - [Organización funcional de RTVA/CSRTV y Estatuto Profesional](#organización-funcional-de-rtvacsrtv-y-estatuto-profesional)
@@ -205,8 +209,12 @@ de una casa a otra, y el convenio colectivo de cada empresa fija sus propias ocu
   las noticias que establezca el editor**» (6.5). Y ante imperfecciones técnicas moderadas, «**la
   información —competencia del editor— tendrá preeminencia sobre la técnica —atribución del
   realizador—**» (6.5.1).
-- El convenio no define editor, redactor jefe, jefe de sección ni jefe de informativos. Sí define
-  al Redactor y al Secretario/a de Redacción (se desarrollan en el último epígrafe).
+- El convenio no tiene ficha de editor de informativos, redactor jefe, jefe de sección de
+  informativos ni jefe de informativos (sus fichas de jefe de sección son de áreas económicas). Sí define al Redactor y al Secretario/a de Redacción (se desarrollan en el último
+  epígrafe). Dos salvedades: tiene la ficha de Editor de Continuidad, que es otra función (la
+  continuidad de la emisión, no la edición de un informativo), y nombra al «**editor del
+  informativo**» en su disposición adicional segunda, sobre las desconexiones provinciales (ambas,
+  en el epígrafe de coordinación territorial y en el de continuidad).
 - La presencia en pantalla no la decide cada redactor: «**La Dirección de los Servicios
   Informativos determinará, con carácter general, quiénes son los redactores que aparecerán en
   pantalla.**» (8.2).
@@ -228,7 +236,7 @@ ocho, ven siempre más que dos.**» (cap. 6).
 y formato establecido por los editores, responsables de todo el proceso.**» Es uno de los casos
 en que el Libro de Estilo no deja elección. Además, «**En la medida de lo posible, el texto y la
 primera escaleta de montaje estarán dispuestas, con tiempo suficiente como para introducir las
-correcciones necesarias**» (cap. 6).
+correcciones necesarias que favorezcan la calidad técnica e informativa**» (cap. 6).
 
 ### Tiempos, cabinas y entrega escalonada
 
@@ -284,6 +292,15 @@ las vías de sonido, coleo del vídeo, rótulos, observaciones y el pie del text
    pasos de locutor que le hayan sido asignados. Así quedan disponibles para el resto del equipo
    del programa y para posteriores ediciones de informativos.**»
 
+### Quién escribe el paso de locutor
+
+El paso de locutor es el texto que lee el presentador para dar entrada al vídeo. Lo escribe el
+redactor, no el presentador: «**El periodista que elabora el vídeo es el encargado de escribirlo
+aunque después será revisado por el presentador y los editores, que lo asumen con los cambios o
+añadidos pertinentes.**» Por eso su contenido no puede ser parte imprescindible para entender el vídeo;
+si lo es, «**el redactor está obligado a comunicárselo al editor y el presentador, y pactar sus
+términos con quien se encargue de leerlo en cámara.**» (3.14).
+
 ### Escaleta y minutado (oficio)
 
 La escaleta es la relación de secuencias, bloques o piezas ordenadas narrativamente; no tiene
@@ -298,7 +315,7 @@ mismo segundo de la emisión, y con ella cambia el minutado.
   duración acumulada y su hora de emisión estimada, de modo que en cualquier momento se sabe cuánto
   sobra o cuánto falta. En un telediario, cada línea es una pieza, con su vocabulario propio. El
   Libro de Estilo fija tres términos: el texto que lee el presentador antes de la pieza es el
-  «paso de locutor» (6.1.2); los totales son las declaraciones (3.7); las colas son el
+  «paso de locutor» (3.14); los totales son las declaraciones (3.7); las colas son el
   «**Conjunto de imágenes editadas, habitualmente en orden cronológico y con sonido ambiente,
   sobre las cuales el locutor lee un texto que se ajusta a la secuencia**» (3.9). Ojo: en Canal
   Sur, «entradilla» es otra cosa, la aparición del redactor al principio de su vídeo (8.2.2). De
@@ -322,8 +339,10 @@ Una vez asignada la cobertura:
 - «**Ante una eventualidad, los equipos desplazados tienen que comunicarse con productores y
   editores por si hay nuevas instrucciones o cambios sobre la planificación inicial.**» (4.4.1).
 - «**Cualquier retraso en el trabajo que un equipo realice fuera del centro de producción debe ser
-  comunicado a los editores para que tomen una decisión.**» La demora no puede ser causa de que la
-  información se pierda (5.6).
+  comunicado a los editores para que tomen una decisión. Esta demora no puede ser causa de que la
+  información se pierda o no pueda ofrecerse en condiciones.**» (5.6). Y si el material se
+  estropea, se extravía o es sustraído, o hay un retraso, «**la Redacción está obligada a encontrar una alternativa inmediata
+  que no prive a los espectadores de una noticia, sobre todo si es importante.**»
 - El rango asignado puede cambiar; si el redactor detecta que la noticia es mayor o menor, lo
   comunica a los editores (epígrafe de la mesa).
 - «Enviado especial» sólo se dice de quien cubre una información fuera de Andalucía: «**No
@@ -367,11 +386,28 @@ disponibles en directo y «a petición» en web y plataformas digitales.
   cuenta la necesidad de las versiones particulares y elaborar vídeos singularizados para los
   informativos en cadena.**» Es preferible que el formato de desconexión sea distinto del de los
   noticiarios regionales, que en general será más breve.
+- **No repetir en desconexión lo emitido en cadena** (7.4.1): cuando una noticia local sale en la
+  emisión de cadena, «**sobre todo si se ubica en cabecera, hay que elaborar para la desconexión un
+  tratamiento diferenciado, una perspectiva distinta, más cercana y detallada**», adaptada a una audiencia «**seguramente más interesada y conocedora del entorno**», para no repetir la misma noticia en idéntico formato
+  minutos después ante los mismos espectadores. «**La repetición de un vídeo es una mala costumbre
+  que se reitera con exceso.**»
 - **Interés general sobre el local** (7.4.1): «**CSTV no es un grupo de emisoras locales
   asociadas, sino una televisión pública y generalista para toda Andalucía. Los pruritos locales
   deben ceder, en ocasiones, para beneficio global de la cadena**».
 - **Defecto habitual** (7.4.2): «**dar dimensión provincial a noticias que sólo afectan a la
   capital**» (una subida del autobús o del agua que sólo es de la capital).
+
+### Las desconexiones provinciales en el convenio
+
+La disposición adicional segunda del convenio, «Desconexiones provinciales», fija la plantilla
+estructural de las direcciones territoriales por remisión a su anexo II y enumera, «**a título
+enunciativo**», las tareas de emisión de las desconexiones informativas provinciales que, en 2014, «**actualmente**» se
+efectuaban en los centros de Almería, Cádiz, Córdoba, Huelva y Jaén. Entre ellas: «**Siguiendo las indicaciones
+del editor del informativo confección de la escaleta técnica y sus alteraciones, movimientos de
+cámara, iluminación, cabeceras, transiciones y rotulación.**» El convenio acuerda que esas tareas las hagan **cuatro
+trabajadores/as pertenecientes al puesto de Operador/a Montador/a de Vídeo** que, además de las
+funciones propias de su puesto, las realicen **de forma rotatoria**. El editor del informativo da
+las indicaciones; la escaleta técnica la confecciona ese personal técnico.
 
 ## Directos
 
@@ -380,6 +416,12 @@ cada aparición en directo deben ser pactados entre todos los profesionales invo
 productor, cámara, técnicos de enlace, presentador en plató, equipo de edición, realizador...**»;
 a partir de ahí, «**el reportero se someterá a lo acordado sin dar lugar a sorpresas y menos aún
 provocarlas. Siempre se intentará plasmar todos los extremos en la escaleta.**» (8.1, punto 6).
+
+La preparación es colectiva y previa (8.3): «**La improvisación no tiene cabida como elemento de
+trabajo. Hasta donde sea posible, el equipo coordinado de producción, realización, enlaces e
+informativos debe prever todo lo que pueda planificarse, sin olvidar cualquier eventualidad**»,
+desde un aguacero hasta la interrupción del sonido de retorno; lo inesperado no puede preverse,
+pero hay que estar preparado para resolverlo con eficacia y celeridad.
 
 En la escaleta, el directo es una línea más, con su duración y su conexión; lo acordado queda
 escrito en ella para todo el equipo. La técnica del directo (preparación, lenguaje, seguridad) es
@@ -407,6 +449,16 @@ conflicto o de impacto social**» (cap. 6).
   emisión para poder ser útiles en ediciones consecutivas**» (3.15.1).
 - El texto definitivo fijado en escaleta queda disponible «**para posteriores ediciones de
   informativos**» (6.1.2).
+
+### Continuidad informativa no es continuidad de emisión
+
+El convenio tiene un puesto de **EDITOR DE CONTINUIDAD** (código 5302010), cuya función básica es
+«**Realizar la continuidad de la emisión siguiendo las pautas de la escaleta de continuidad.**»;
+entre sus tareas, «**Velar por la estricta puntualidad de la programación**» y «**Coordinar la
+emisión de programas en directo con los realizadores / productores respectivos.**» Es la
+continuidad de la programación de la cadena, con su propia «escaleta de continuidad», y no la
+edición de un informativo ni la continuidad informativa del enunciado, que es el seguimiento de
+una noticia de una edición a otra.
 
 ### La oferta que hay que alimentar
 
@@ -565,7 +617,8 @@ cualificación profesional, le sean encomendadas por su inmediato superior.**»
 - Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023): cláusula tercera, 3.1, puntos 4,
   5, 6 y 9.
 - X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014): fichas de Redactor y de
-  Secretario/a de Redacción.
+  Secretario/a de Redacción (anexo III), ficha de Editor de Continuidad (código 5302010) y
+  disposición adicional segunda (desconexiones provinciales).
 
 ## Lo que este tema no da, y dónde está
 
@@ -589,12 +642,12 @@ Todas las fuentes se leyeron el 24/09/2026.
 
 | Fuente | Qué sostiene |
 |---|---|
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo de 2004, ISBN 84-609-0453-9: Introducción; 3.7, 3.9, 3.11, 3.15, 3.15.1; cap. 4 (4.1, 4.1.1, 4.2, 4.2.1, 4.4, 4.4.1, 4.4.3, 4.4.4); 5.6; cap. 6 (6.1, 6.1.1, 6.1.2, 6.3, 6.5, 6.5.1); 7.4, 7.4.1, 7.4.2; 8.1 (punto 6), 8.2, 8.2.1, 8.2.2, 8.5 | Agenda, edición, escaleta, coberturas, cadena y desconexión, directos, continuidad y programas |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo de 2004, ISBN 84-609-0453-9: Introducción; 3.7, 3.9, 3.11, 3.14, 3.15, 3.15.1; cap. 4 (4.1, 4.1.1, 4.2, 4.2.1, 4.4, 4.4.1, 4.4.3, 4.4.4); 5.6; cap. 6 (6.1, 6.1.1, 6.1.2, 6.3, 6.5, 6.5.1); 7.4, 7.4.1, 7.4.2; 8.1 (punto 6), 8.2, 8.2.1, 8.3, 8.2.2, 8.5 | Agenda, edición, escaleta, coberturas, cadena y desconexión, directos, continuidad y programas |
 | Ley 18/2007 (`BOE-A-2008-1185`), texto consolidado | Artículos 9, 10 y 17.1.m) |
 | Acuerdo de 3/11/2015, BOJA núm. 219 | Fusión por absorción y denominación de CSRTV |
 | Carta del Servicio Público 2024-2029, BOJA núm. 247/2023 | Artículo 13.8 y 13.10 |
 | Contrato-programa 2024-2026, BOJA núm. 245/2023 | Cláusula tercera, 3.1.4, 3.1.5, 3.1.6 y 3.1.9 |
-| X Convenio Colectivo RTVA, BOJA núm. 240/2014: art. 5 (prórroga automática salvo denuncia) y anexo III, definición de funciones | Fichas de Redactor y Secretario/a de Redacción |
+| X Convenio Colectivo RTVA, BOJA núm. 240/2014: art. 5 (prórroga automática salvo denuncia) y anexo III, definición de funciones; disposición adicional segunda | Fichas de Redactor, Secretario/a de Redacción y Editor de Continuidad; tareas de emisión de las desconexiones provinciales |
 | Registro de convenios (REGCON), consulta pública del código 71000253011989 | Ningún trámite inscrito después del X Convenio (10/12/2014) |
 | Texto del Estatuto profesional en una entrada de 25/10/2006 (blog consejoradiortva.blogspot.com, enlazado desde la web de Canal Sur), apartados 10.3 y 10.4 | Sólo la referencia histórica, declarada no vigente |
 
