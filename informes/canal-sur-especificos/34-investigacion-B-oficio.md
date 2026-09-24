@@ -313,3 +313,180 @@ Advertencia general: la tipología de géneros no es taxonomía oficial. LE-CS m
 
 Noticia, entrevista, encuentros digitales, reportaje, blog («la información, el análisis y el punto de vista de su autor podrán ser expresados libremente siempre que se respeten las reglas deontológicas»), minuto a minuto. Dos titulares por información: uno descriptivo para buscadores, otro atractivo para portada (4.2). El manual RTVE no da fecha de edición en lo volcado; cita la Ley 7/2010 y un acuerdo de 23-VII-2010 (inicio, notas), luego es posterior a esa fecha; habla de videoconsola y SMS; no cubre vídeo corto vertical ni podcast como género → eso es del tema 14.
 
+
+## Complemento al tema 7 · reuso RTVE (in situ y rótulos, ME-RTVE cap. 2 TVE, leído 24-09-2026)
+
+Completa 7.2 y 7.8 (lo de iNews queda fuera: propio de RTVE, no consta en CSRTV).
+- In situ (2.4.4): «Se trata de la aparición en imagen del informador en el transcurso de una pieza. Es un recurso que permite, además de reforzar la credibilidad, personalizar la información. El informador debe saber si el in situ será entradilla, medianilla o salidilla, es decir, si irá al comienzo, en medio o al final de la pieza, lo cual determinará el contenido.» «Debe evitarse que el contenido del in situ acabe “hipotecando” el resto de la historia.» Sonido: «Un in situ en el que el informador se vea obligado a elevar la voz o gritar resultará incómodo al espectador.» Quitar al redactarlo: «informador de TVE».
+- Rótulos (2.2.8): «Conviene ponderar la importancia del rótulo que acompaña al titular porque significa condensar una noticia en muy pocas palabras.» «el telespectador, por diversas circunstancias, puede estar fijando la atención más en lo que ve que en lo que oye. Es primordial no distraer al espectador con rótulos extensos y/o poco enriquecedores». «es necesario extremar la precaución en la escritura del texto. Los cambios introducidos en los sistemas de trabajo y la reducción de filtros correctores pueden propiciar errores, especialmente ortográficos.»
+- Tono de voz del stand-up (LE-CS, p. 115): «El periodista deberá estar atento para grabar su intervención en un tono de voz natural, que no tenga diferencias apreciables de entonación y volumen con el que luego use en cabinas para grabar el resto de la locución.»
+
+---
+
+## Tema 8 · Redacción y comunicación radiofónica
+
+Enunciado: «lenguaje radiofónico, escritura para ser escuchada, cortes de voz, crónica, entrevista, boletín, informativo, magazine, directo y coordinación con operación de sonido».
+
+**Hueco de partida**: no hay libro de estilo publicado de Canal Sur Radio localizado; LE-CS es sólo de TV. Única fuente documental de oficio radiofónico: ME-RTVE cap. 3 RNE (leído 24-09-2026). Al redactar: quitar «RNE», «el informador de RNE», «Radio Exterior» y las Directrices del Derecho de Acceso de RTVE. En Canal Sur, el derecho de acceso es materia del común (Ley 18/2007) — no aquí.
+
+### 8.1 Lenguaje radiofónico y escritura para ser escuchada (ME-RTVE 3.1)
+
+- «El periodista radiofónico debe ser consciente de la fugacidad del mensaje; el oyente no puede volver a escuchar lo que se está contando, no puede comprobar si ha entendido bien la información. Su única opción es escuchar el texto en el momento, en el orden, y con el ritmo que establece el locutor.»
+- Tres exigencias: «Claridad: se trata de hacer asequible la expresión porque existe el riesgo de interrumpir la asimilación mental de los mensajes si se adoptan códigos que requieren esfuerzos reflexivos»; «Lo concreto, en forma activa y presente. [...] mejor las formas simples que las compuestas, el presente que el pasado, la frase activa que la pasiva»; «Brevedad. [...] períodos y frases breves que aseguren la comprensión.»
+- «Debe saber escribir y narrar pero además debe adaptar su escritura y narración al ritmo, cadencia y entonación requeridos en cada momento.» «tono comunicativo, necesario tanto en informativos como en programas.» «La voz, la música, los efectos y el silencio son los elementos sonoros que determinan la capacidad expresiva.»
+- Recomendaciones de redacción (3.7): evitar «Expresiones grandilocuentes» («el lenguaje radiofónico está reñido con la ampulosidad»); «Debe evitarse empezar una noticia con el adverbio temporal “ayer”»; restringir demostrativos «éste, ése y aquél. El oyente no puede volver atrás en la frase para averiguar a qué sustantivos reemplazan»; jerga: «Es necesario traducir esos términos a palabras que sean fácilmente comprensibles por una audiencia heterogénea.»
+- Noticia (3.3.1, ya en 5.1): presente; «no ser prolijos en cifras, siglas o nombres poco conocidos».
+- Común a radio y TV (ME-RTVE 6.3.1, El lenguaje): «El texto de los informativos de radio y televisión se escribe para ser leído en voz alta [...] deben evitar expresiones confusas, mala dicción, entonaciones forzadas, esdrujulear, cortes en la secuencia fónica, acentos en preposiciones».
+- Apoyo Canal Sur (sólo TV, extrapolar con cautela): LE-CS 3.14 «El texto debe escribirse siempre a sabiendas de que será leído en voz alta».
+
+### 8.2 Cortes de voz (ME-RTVE 3.2.1)
+
+- «Cuando se decida incluir testimonios o cortes el objetivo será enriquecer la noticia. [...] deberá tenerse en cuenta la importancia del testimonio y su calidad sonora. El corte debe durar el tiempo imprescindible para que el mensaje emitido sea congruente, desarrolle una idea con principio y final y resulte radiofónicamente aceptable.»
+- «Salvo excepciones, debe evitarse cortar un testimonio en alto; existen recursos como el de bajar el sonido cuando se considera que el oyente ya se ha formado una idea». «el oyente debe entender qué dicen todas y cada una de las voces que intervienen en el boletín».
+- Crónica: «Es recomendable no terminar la crónica con un testimonio o corte.» (3.3.2)
+- **No confirmado**: duración en segundos de un corte de radio. ME-RTVE no la da (la de 10-15 s de LE-CS 3.17 es para respuesta de entrevista en TV). No trasladarla.
+
+### 8.3 Crónica y entrevista en radio
+
+Ya recogido en 5.2 (RNE 3.3.2) y 5.4 (RNE 3.3.5). Añadir: crónica «se articula habitualmente a través del monólogo»; «elaborado no para ser leído sino para ser contado».
+
+### 8.4 Boletín (ME-RTVE 3.2.1, 3.2.1.1, 3.2.1.2)
+
+- «La programación informativa se articula alrededor de dos formatos: los boletines horarios y los diarios informativos.» «El boletín horario es el eje de la continuidad informativa».
+- Función: «recopilar las noticias más importantes, ofrecer noticias de última hora y avanzar los aspectos noticiosos»; «da cuenta de aquellos hechos más significativos ocurridos desde el anterior servicio informativo, amplía los datos de las noticias flash [...], rescata algunas referencias [...] del reciente servicio principal y, finalmente, recuerda aquellos acontecimientos que están ocurriendo en el momento de la emisión y los que previsiblemente se producirán».
+- «las noticias más importantes deben tener cabida en todos los boletines. Cada boletín debe contemplarse como eslabón de una cadena informativa»; «obligará a actualizar todas las informaciones que se emitan en un boletín».
+- Formatos: sólo lectura desde estudio central, o con «conexiones de duración normalmente breve, ya sea con el exterior, ya con la red de emisoras locales y territoriales».
+- Presentación: «un locutor principal, encargado de suministrar los datos nuevos de cada una de las noticias mediante la lectura de lo que se denominan entradillas, transiciones o continuidades»; «segunda voz»; «es el conductor principal quien debe presentar el último hecho». Transiciones: riesgo de «muletillas y tópicos»; sólo si hay nexo, «De lo contrario, estaríamos ante una continuidad forzada.»
+- Ritmo: «Insertar un corte de voz o una ráfaga en uno u otro momento puede determinar que el boletín resulte más o menos ágil.» «encadenar cuatro noticias de cincuenta segundos sin cortes de voz y leídas por una misma persona supone [...] obligar al oyente a realizar un verdadero esfuerzo de atención.»
+
+### 8.5 Informativo (diario hablado) (ME-RTVE 3.2.2)
+
+- «Con duración amplia, el informativo principal desarrolla las noticias más importantes avanzadas en los boletines.» Orientaciones: combinar «todos los géneros radiofónicos»; «Evitar piezas demasiado largas»; «Evitar traducir la importancia de la noticia en una mayor longitud de las piezas»; «Cada noticia tendrá tantas piezas como sean necesarias para subrayar las claves de la noticia.»
+
+### 8.6 Magazine
+
+- **Sin fuente leída**: ME-RTVE cap. 3 no define «magazine». En el reuso RTVE (T5) está el magazine de TV, no el de radio. Declarar hueco o buscar manual universitario de radio (no hecho por ahorro).
+- Participación del oyente (ME-RTVE 3.6), aplicable a magazines: participa «a través de los procedimientos que en cada caso se determinen (teléfono, correo electrónico, sms, etc.)»; el responsable «deberá retirar el uso de la palabra a quien se exprese con insultos y términos soeces.»
+
+### 8.7 Directo en radio
+
+- Retransmisión (RNE 3.5, en 5.8): «formato sin guión»; «Podrá cubrir espacios muertos con entrevistas, recurrir a material de archivo, aprovechará para dar el indicativo de la emisora entre turnos de palabra, resumirá en titulares».
+- Del reuso RTVE sonido (T12 de Sonido, **oficio sin fuente**, así lo declara ese tema): «El directo es la norma, no la excepción. La radio se hace en vivo con el guion cambiando».
+
+### 8.8 Coordinación con operación de sonido
+
+- **Sin fuente documental.** Reuso RTVE `sonido/12` (5 %): estudio de radio = locutorio (locutores e invitados: «Micrófonos, auriculares, un monitor de escaleta y, a veces, una mesa de autocontrol») + control («Técnico y realizador»: «Mesa, ordenadores de emisión, híbridos telefónicos, códecs, monitores de escucha»), separados por cristal → lenguaje de señas; «autocontrol. En muchas emisoras el locutor maneja su propia mesa». Ese tema declara: «Ninguna procede de una norma ni de un manual volcado» y las señas «no están normalizadas». Si se usa, como oficio y dicho así; el significado de cada seña, **no** trasladar.
+- Elementos: «La voz, la música, los efectos y el silencio» (ME-RTVE 3.1); «calidad sonora» del corte (3.2.1); debate: «las mismas condiciones de sonido para todos los participantes» (3.4.1).
+
+---
+
+## Tema 9 · Presentación, locución y comunicación oral
+
+Enunciado: «claridad, ritmo, lectura, improvisación controlada, autocontrol, uso del prompter, comunicación con control y adecuación al formato».
+
+### 9.1 Claridad y lectura
+
+- LE-CS 8.1.4: «Claridad absoluta en lo que se transmite. Una cantidad abrumadora de datos con premura, sin orden claro y sin jerarquía sólo causa confusión. El reportero apenas insistirá en dos o tres elementos porque la capacidad de atención del espectador es limitada.» (pp. 113-114)
+- LE-CS 3.14 (pasos de locutor, pp. 55-56): el locutor «hable como si estuviera improvisando y se lo contase ‘a él’ personalmente»; «frases cortas y precisas, palabras sencillas y lenguaje directo para permitir una lectura ﬂuida y pausada»; sin «ambigüedades, ni tópicos, ironías o lenguaje de doble sentido, ni tampoco detenerse en fórmulas de protocolo». Lo escribe el redactor; «será revisado por el presentador y los editores».
+- LE-CS Pronunciación, «Normas básicas» (pp. 217-219; cap. 12): entonación («La monotonía, la falta de cadencia, los sonsonetes y las dislocaciones acentuales provocan confusión [...] naturalidad y la claridad»); cacofonías; acentos enfáticos («*[el éntrenador // ha décidido // que...]»); vocalización («requisito imprescindible para tener una buena locución»); pronunciación: «tienen cabida todos los acentos del español siempre y cuando cumplan dos requisitos, que sean inteligibles y que no se alejen en exceso del estilo formal»; acento: «puede optar por la pronunciación que preﬁera, andaluza o castellana [...] es preferible lo natural a lo artiﬁcioso»; hablas andaluzas: «deben emplear un andaluz culto y formal que abarque, amplíe y perfeccione el concepto de español estándar». Desarrollo en 12.1.2.2 seseo (p. 221), 12.1.13.3 ceceo (p. 225) y 1.4 hablas andaluzas (p. 31): no leídos en detalle.
+- Puntuación → entonación (LE-CS, Gramática, p. 179): «la obligada puntuación ortográﬁca hay que trasladarla a la entonación del texto».
+- ME-RTVE 6.3.1 (ver 8.1): mala dicción, entonaciones forzadas, «esdrujulear».
+
+### 9.2 Ritmo
+
+- LE-CS 6.2.2 «El ritmo de la narración»: «La entonación y el ritmo han de ser apropiados para reforzar el valor narrativo de la imagen, el sonido y las declaraciones.» Defectos: «1. Apresurar la lectura del texto para abreviar forzando la colocación de más palabras que las que permite una duración correcta de los planos. 2. Escribir sin conocer la imagen con detalle. [...] 3. Ofrecer datos y explicaciones prolijas por encima de un ritmo razonable de las imágenes» (p. 91 aprox.; verificar página).
+- Radio: ME-RTVE 3.2.1.2 (ver 8.4).
+
+### 9.3 Improvisación controlada
+
+- LE-CS 8.1.5: «La aparición en pantalla, especialmente en casos de directo, debe estar bien preparada. Cualquier detalle, aunque queramos que parezca improvisado, debe elaborarse minuciosamente. Lo recomendable es escribir los datos básicos, memorizarlos y centrarse exclusivamente en ellos, aunque hay que evitar un tono monocorde de recitado o mirar, excesivamente y de soslayo, en las notas. [...] Las actitudes furtivas quedan mal ante la cámara.»
+- LE-CS 8.3: «Las respuestas tienen que ser claras y concisas pero con una sensación real de improvisación»; «La improvisación no tiene cabida como elemento de trabajo.» (p. 116). Las dos frases juntas = la «improvisación controlada».
+- Radio (RNE 3.5): «se recurre a la improvisación al tratarse de un formato sin guión».
+- LE-CS 8.1.3: no «introducir variaciones que no hayan sido pactadas previamente con el equipo de edición, salvo que no haya posibilidad de aviso y sólo cuando se trate de cuestiones urgentes y elementales. Las indicaciones previas del editor deben acatarse obligatoriamente.»
+
+### 9.4 Autocontrol
+
+- **Doble sentido**: (a) dominio de sí: LE-CS 8.1.8 «Aparecer con naturalidad. [...] Tampoco hay que buscar una originalidad desmesurada, ni rivalizar o polemizar durante la conexión»; 8.1.9 «El periodista debe ser disciplinado y no conﬁarse. [...] debe estar preparado para solventar cualquier inconveniente que surja, hacerlo con naturalidad e incluso hacérselo saber al espectador»; 8.3.1 «sobriedad del gesto, el tono y el vestuario». (b) En radio, «autocontrol» = el locutor maneja su propia mesa (reuso RTVE sonido/12, oficio sin fuente). El enunciado no aclara cuál; cubrir los dos y decirlo.
+
+### 9.5 Uso del prompter
+
+- Reuso RTVE `produccion-asistencia/12` (5 %): «teleprompter y autocue son la misma cosa»; Autocue es marca («Autocue®: Innovating Prompting Since 1955», portada del fabricante, leída por ese tema el 02-09-2026); el texto se muestra «en un monitor, reflejado en un cristal delante del objetivo»; «se ve en blanco sobre negro por legibilidad» (**esto último sin fuente** en ese tema; no trasladarlo como dato). Mandos de pedal / manejo desde control o atril: oficio, sin fuente.
+- LE-CS y ME-RTVE **no mencionan el prompter** (grep negativo, 24-09-2026). Lo de «leer sin que se note» se apoya en LE-CS 3.14 («hable como si estuviera improvisando») y 8.1.5 (no mirar «de soslayo» las notas).
+
+### 9.6 Comunicación con control
+
+- LE-CS 8.1.6: «Los términos de cada aparición en directo deben ser pactados entre todos los profesionales involucrados: productor, cámara, técnicos de enlace, presentador en plató, equipo de edición, realizador... [...] el reportero se someterá a lo acordado sin dar lugar a sorpresas y menos aún provocarlas. Siempre se intentará plasmar todos los extremos en la escaleta.»
+- LE-CS 8.3: prever «desde un aguacero hasta la interrupción del sonido de retorno».
+- LE-CS 8.6: presentadores «deben adecuarse a las exigencias de Realización y a las condiciones del departamento de Estilismo».
+- **Sin fuente**: pinganillo/auricular de órdenes (IFB), cuenta atrás del regidor, señas de plató. En LE-CS «auriculares» sólo como equipo de entrevista (3.17.1). No afirmar.
+
+### 9.7 Adecuación al formato y presentadores
+
+- LE-CS 8.3.1: «El discurso deberá adecuarse al medio, al mensaje y al programa de que se trate.» Estrategias para captar la atención: «1. Avisar, o hacer un guiño [...] 2. Decirlo claramente y de inmediato [...] 3. En el momento inmediatamente previo a la despedida recapitular».
+- LE-CS 8.5 Presencia en plató (redactor): «No pontiﬁca ni opina, aporta conocimientos. Por tanto no hablará en primera persona (yo creo que...)»; «lenguaje natural, conciso y tono levemente didáctico»; «Es obligatorio el paso por el departamento de maquillaje.» (pp. 120-121)
+- LE-CS 8.6 Presentadores: «aspecto agradable, presencia discreta y un discurso claro»; «está obligado a contar los hechos con un lenguaje, preciso, claro, directo y neutral»; «decididos y directos, ﬂuidos y sencillos, en el punto medio de la profesionalidad y la cercanía». 8.6.1 Vestuario, 9 puntos (blanco satura; brillos y ruido de roce en micrófono; claros engordan; colores fuertes «impregnan de ‘croma’»; rayas finas → «efecto muaré»; adornos; **«Todo símbolo que identiﬁque al presentador con cualquier corriente o entidad política, sindical, social o deportiva está prohibido.»**; escotes; cromas y decorado virtual). (pp. 121-123)
+- ME-RTVE 2.4.5 (reuso, quitar TVE): «Los presentadores son los intermediarios entre el espectador y la actualidad»; «el único protagonismo pertenece a las noticias».
+- **Sin fuente**: técnica vocal (respiración, impostación, velocidad en palabras por minuto). No hay manual leído; no dar cifras.
+
+---
+
+## Tema 10 · Coberturas en directo, últimas horas e incertidumbre
+
+Enunciado: «preparación, actualización de datos, modulación del lenguaje, verificación en tiempo real, coordinación con redacción y equipos técnicos, seguridad y continuidad informativa».
+
+### 10.1 Preparación
+
+- LE-CS 8.3 (p. 116): «Hasta donde sea posible, el equipo coordinado de producción, realización, enlaces e informativos debe prever todo lo que pueda planiﬁcarse, sin olvidar cualquier eventualidad: desde un aguacero hasta la interrupción del sonido de retorno. Lo inesperado, en esencia, no puede ser previsto pero hay que estar preparado para resolverlo con eﬁcacia y celeridad.»
+- LE-CS 8.1.5-8.1.7 (ver 9.3 y 9.6); 8.1.7: «Identiﬁcar y conocer los riesgos en la preparación o en el transcurso de un directo y procurar soslayarlos».
+- ME-RTVE 2.4.2: «El informador y el resto del equipo debe familiarizarse con el escenario, conocer lo que le rodea y prever posibles incidencias.»
+- Emplazamiento (LE-CS 8.3.2): lugar reconocible («si está la Torre Eiffel, es París»); descartar emplazamientos con «connotaciones publicitarias o propagandísticas explícitas».
+
+### 10.2 Actualización de datos
+
+- ME-RTVE 2.4.2: «deben intentar ofrecer la máxima actualización»; «aportar elementos informativos audiovisuales que únicamente puedan ofrecerse desde ese lugar en ese momento»; no repetir lo que dice el presentador antes ni la pieza después.
+- ME-RTVE 2.2.7: «actualizar implica incorporar nuevos datos, testimonios y perspectivas a una noticia ya conocida»; en televisión «se prefiere el tiempo presente».
+- LE-CS 8.1.10: «especialmente cuando la conexión se integre dentro de un bloque temático de cuyo contenido debemos ser previamente informados para no repetir, sino para complementarlo.»
+- Radio: boletín «obligará a actualizar todas las informaciones» (RNE 3.2.1).
+- LE-CS 3.9.1: colas con duración «holgada como para que una demora al leer, una improvisación del presentador o la inclusión de un elemento de última hora no supongan un inconveniente». LE-CS 6.1 (p. 88): la puntualidad en la entrega libera medios para «informaciones de última hora».
+
+### 10.3 Última hora (ME-RTVE 2.1.3, reuso quitando TVE)
+
+- «noticias de última hora con gran repercusión y que pueden obligar incluso a alterar la programación para ofrecer un flash o un avance informativo de urgencia: un accidente de gran magnitud, una catástrofe, el fallecimiento de una persona relevante, un atentado terrorista». «la prioridad [...] será informar a la audiencia lo antes posible, sin esperar al siguiente telediario ni a disponer de las imágenes más adecuadas. Se ofrecerán al espectador los datos contrastados y confirmados». «En los casos de ausencia de imagen, un mapa del lugar de los hechos y las adecuadas conexiones telefónicas con protagonistas, testigos, expertos y/o informadores».
+
+### 10.4 Modulación del lenguaje e incertidumbre
+
+- ME-RTVE 2.4.3 (noticias especiales: jornada electoral, acto multitudinario): «disponemos tan solo de una parte de la información y de un conocimiento limitado de la realidad»; «El ambiente o la atmósfera del evento no deberán afectar a la imparcialidad».
+- LE-CS 8.1.10: «Abstenerse de informar de lo que no podamos demostrar [...] y no usar el off the record como elemento noticioso. Nos limitaremos a decir lo que sabemos o lo que vemos».
+- LE-CS 8.1.2: presencia en imagen «para informar, no para dar opiniones personales, salvo que se requieran especíﬁcamente desde el plató como testigo de un hecho o enviado especial. La excepción sirve sólo en el supuesto de una conexión en directo.»
+- Sucesos/catástrofes en directo: LE-CS cap. 9 (9.1.7 «Conclusiones prematuras», 9.1.8 «Identidades») — están en el bloque del tema 11; remitir.
+
+### 10.5 Verificación en tiempo real
+
+- Base: «datos contrastados y confirmados» (ME-RTVE 2.1.3); LE-CS 8.1.10. Métodos (búsqueda inversa, geolocalización): tema 4 y 14, no aquí. **Sin fuente específica** de verificación en directo en LE-CS.
+
+### 10.6 Coordinación con redacción y equipos técnicos
+
+- LE-CS 8.1.6 (ver 9.6); 8.1.3 (acatar al editor).
+- Técnica de enlaces (reuso RTVE `produccion/12`, 5 %): vías de contribución (fibra, microondas —«Necesita visión directa»—, satélite DSNG, «Agregación de redes móviles», redes de datos): la tabla es **oficio declarado** en ese tema. Con fuente: UIT-R SNG.770-2 (01/2012): el periodismo electrónico por satélite es «temporal y ocasional», «su activación no puede determinarse con gran antelación», con «estaciones terrenas de enlace ascendente portátiles o fácilmente transportables»; *uplink* = subida al satélite. Mochila: «suma varias conexiones de telefonía móvil»; límites: cobertura y latencia (oficio). Quitar la marca/modelo (LiveU LU800), que no aporta al redactor.
+- Retardo del satélite → no pisar al presentador: **sin fuente** leída; oficio.
+- Eventos no controlables (reuso `sonido/12`, **oficio sin fuente, así declarado**): «no se puede pedir que se repita, ni cambiar dónde ocurre, ni callar lo que suena alrededor»; reglas: redundancia de captación; «Grabar SIEMPRE, aunque se esté emitiendo. La grabación local es la única red de seguridad si el enlace se cae»; ganancia conservadora; ambiente aparte. Usar sólo como oficio, o quitar.
+
+### 10.7 Seguridad
+
+- **Hueco**. LE-CS no trata la seguridad física del informador (grep negativo: chaleco, zonas de riesgo). ME-RTVE capítulos leídos tampoco. Directo y seguridad en PRL → tema 20. Posibles fuentes no consultadas (ahorro): Carta Ética FIP (tema 18), guías de seguridad de la FIP/RSF/CPJ. Declarar.
+- Único apoyo: ME-RTVE 2.4.2 «Las intervenciones en movimiento son aceptables sólo cuando la noticia y el escenario lo requieran y lo permitan»; LE-CS 8.1.7 riesgos.
+
+### 10.8 Continuidad informativa
+
+- Radio: «El boletín horario es el eje de la continuidad informativa» (RNE 3.2.1).
+- LE-CS 8.1.9: «A pesar de que una conexión en directo ya no suele ser una situación de incertidumbre como antaño, debe estar preparado para solventar cualquier inconveniente que surja, hacerlo con naturalidad e incluso hacérselo saber al espectador.»
+- LE-CS 8.3.3 falso directo: «debe erradicarse»; si no, «Si el directo es falso, lo haremos constar.»
+- Directo en LE-CS 8.3.2: brevedad («Una conexión en directo tiene más fuerza cuanto más breve y concisa resulte»); saludo y despedida para la audiencia; «Terminado el directo, en la despedida sólo habla el presentador.»
+- Continuidad de programación / Andalucía TV / canal 24 h: **no confirmado**; no afirmar.
+
+## Pendientes y huecos del bloque (resumen)
+
+1. Radio de Canal Sur: sin libro de estilo publicado localizado → T8 descansa en ME-RTVE cap. 3; decirlo en «Lo que este tema no da».
+2. Magazine radiofónico, técnica vocal, pinganillo/IFB, retardo, seguridad del periodista: sin fuente leída.
+3. Reuso `sonido/12` y parte de `produccion/12` y `produccion-asistencia/12`: oficio sin fuente, declarado por los propios temas RTVE; usar como tal o quitar.
+4. Páginas de LE-CS 6.2.2 y cap. 12 (seseo/ceceo): comprobar al redactar.
