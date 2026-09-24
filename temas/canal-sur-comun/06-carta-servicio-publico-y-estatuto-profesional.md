@@ -648,8 +648,9 @@ opción ideológica y política democrática, y el derecho a discrepar de la may
   asociaciones, organizaciones e instituciones representativas de su diversidad, «respetando
   el pluralismo de la sociedad» (33.1). Las normas de procedimiento las aprueba el Consejo de
   Administración (33.2 y 17.1.i), con criterios objetivos como la representación
-  parlamentaria y la implantación territorial, y «**sin menoscabo de los principios de
-  independencia y profesionalidad garantizados en el artículo 10.1 de esta Ley**».
+  parlamentaria y la implantación territorial, y sin menoscabo de los principios de
+  independencia y profesionalidad que garantiza el artículo 10.1 de la ley (la cita literal, en
+  el epígrafe del Estatuto profesional).
 - El control parlamentario tiene por objeto velar, entre otros, por el principio de pluralismo
   (art. 214.4 del EAA).
 

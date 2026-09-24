@@ -1426,7 +1426,7 @@ Europea**», y en particular, en catorce letras (a-n):
   para el control del principio de subsidiariedad en las propuestas legislativas de la Unión
   Europea**». Ese Acuerdo no se ha leído; y como el Pleno puede variar las Comisiones Permanentes en los
   primeros seis meses de cada legislatura (artículo 46.4), no se ha confirmado que la comisión siga
-  igual en la legislatura iniciada en 2026.
+  igual en la legislatura actual.
 - Dos plazos que no hay que mezclar: ocho semanas para los Parlamentos nacionales (Protocolo n.º 2) y
   cuatro para que el dictamen autonómico llegue a las Cortes (Ley 8/1994).
 
@@ -1477,3 +1477,77 @@ Europea**», y en particular, en catorce letras (a-n):
   procedimientos de infracción y de los asuntos ante el Tribunal de Justicia que afecten a las
   comunidades (Acuerdo de 2004, I.9.1.5.º).
 
+## Normativa que el tema invoca
+
+| Norma | Identificador | Redacción |
+| --- | --- | --- |
+| Tratado de la Unión Europea, versión consolidada, con sus protocolos | DOUE C 202, de 07/06/2016 · CELEX `12016M/TXT` | Última consolidación publicada; leída el 24/09/2026. Anterior a la retirada del Reino Unido |
+| Carta de los Derechos Fundamentales de la Unión Europea | DOUE C 202, de 07/06/2016, p. 389 · CELEX `12016P/TXT` | La publicada en 2016; leída entera el 24/09/2026 |
+| Tratado de Funcionamiento de la Unión Europea, versión consolidada | DOUE C 202, de 07/06/2016 · CELEX `12016E/TXT` | Solo los artículos citados (1 a 6, 20 a 24, 231 a 240, 252 a 254, 263, 282 a 286, 300 a 307, 354); leídos el 24/09/2026 |
+| Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de septiembre de 2023, por la que se fija la composición del Parlamento Europeo | DOUE L 238, de 27/09/2023 · CELEX `32023D2061` | Leída el 24/09/2026 |
+| Decisión 2013/272/UE del Consejo Europeo, de 22 de mayo de 2013, relativa al número de miembros de la Comisión Europea | DOUE L 165, de 18/06/2013 · CELEX `32013D0272` | Leída el 24/09/2026; en vigor según la Oficina de Publicaciones |
+| Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, por la que se aumenta el número de abogados generales del Tribunal de Justicia de la Unión Europea | DOUE L 179, de 29/06/2013 · CELEX `32013D0336` | Leída el 24/09/2026; vigencia no confirmada |
+| Constitución Española (artículo 93) | `BOE-A-1978-31229` | Vigente el 24/09/2026; una sola redacción |
+| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía (arts. 1.4, 10.3.9.º, 42.2.4.º, 185, 218, 220, 225 y 230 a 239) | `BOE-A-2007-5825` | Vigente el 24/09/2026; todos los preceptos citados con una sola redacción, la original |
+| Ley 2/1997, de 13 de marzo, por la que se regula la Conferencia para Asuntos Relacionados con las Comunidades Europeas | `BOE-A-1997-5630` | Vigente el 24/09/2026; una sola redacción, la original |
+| Ley 8/1994, de 19 de mayo, por la que se regula la Comisión Mixta para la Unión Europea (arts. 3 y 6) | `BOE-A-1994-11418` | Vigente el 24/09/2026; el artículo 6 tiene una sola redacción, de 2009 (`BOE-A-2009-20724`) |
+| Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado (arts. 5, 12 y 14) | `BOE-A-2014-3248` | Vigente el 24/09/2026; los tres artículos con una sola redacción |
+| Real Decreto 2105/1996, de 20 de septiembre, por el que se crea la Consejería para Asuntos Autonómicos en la Representación Permanente de España ante la Unión Europea | `BOE-A-1996-21096` | Texto original; el BOE no lo consolida ni registra modificaciones |
+| Acuerdos de 9 de diciembre de 2004 de la Conferencia para Asuntos Relacionados con las Comunidades Europeas (Consejería para Asuntos Autonómicos y grupos de trabajo; representación en las formaciones del Consejo) | `BOE-A-2005-4388` | Con las modificaciones publicadas por Resolución de 22 de julio de 2011 (`BOE-A-2011-13747`) |
+| Resolución de 29 de abril de 2010, modificación del Reglamento interno de la Conferencia (cambio de denominación) | `BOE-A-2010-8942` | Solo para el nombre de la Conferencia |
+| Decreto del Presidente 9/2026, de 9 de julio, por el que se crean las Vicepresidencias y se reestructuran las Consejerías que conforman la Administración de la Junta de Andalucía | BOJA extraordinario núm. 12, de 09/07/2026 | Vigente el 24/09/2026 |
+| Decreto 189/2026, de 30 de julio, por el que se establece la estructura orgánica de la Consejería de Presidencia, Sanidad y Emergencias | BOJA extraordinario núm. 15, de 31/07/2026; corrección en el BOJA núm. 152, de 07/08/2026 | Vigente el 24/09/2026; sin comprobación exhaustiva de modificaciones posteriores al 07/08/2026 |
+| Decreto 164/1995, de 27 de junio, por el que se crea la Delegación de la Junta de Andalucía en Bruselas | BOJA núm. 104, de 25/07/1995 | Norma de creación; vigencia no confirmada; leído en la versión HTML sin validez legal |
+| Decreto 230/1995, de 3 de octubre, por el que se regula el cargo de Delegado de la Junta de Andalucía en Bruselas | BOJA núm. 129, de 04/10/1995 | Vigencia no confirmada; leído en la versión HTML sin validez legal |
+| Reglamento del Parlamento de Andalucía (art. 46) | Texto consolidado de 2025 publicado por el Parlamento | Solo para la Comisión de Asuntos Europeos |
+
+## Lo que este tema no da, y dónde está
+
+- El Estatuto de Autonomía en su conjunto (estructura, competencias, reforma, instituciones): es el
+  punto 2 del temario común. Aquí solo va la parte europea.
+- El desarrollo del TFUE (procedimiento legislativo ordinario, tipos de actos, políticas de la Unión,
+  presupuesto): el enunciado nombra solo el TUE, y del TFUE se dan únicamente los artículos que
+  completan las instituciones, las competencias, la ciudadanía y el Comité de las Regiones.
+- El número actual de jueces del Tribunal General: lo fija el Estatuto del TJUE, que no se ha leído.
+- Si la Unión se ha adherido ya al CEDH, que el artículo 6.2 del TUE anuncia en futuro.
+- La fecha y el contenido del acuerdo de retirada del Reino Unido, y la fecha de entrada en vigor
+  del Tratado de Lisboa.
+- Quién ocupa hoy las presidencias de las instituciones, qué ministro preside hoy la CARUE y quién es
+  el titular de la Delegación en Bruselas: son datos de actualidad que no fija ninguna de las normas
+  leídas.
+- La ley del Parlamento de Andalucía a la que remite el artículo 235.1 del EAA, que no se ha
+  localizado.
+- El Acuerdo parlamentario de 5 de mayo de 2010 sobre el control de subsidiariedad en el Parlamento de
+  Andalucía, y los miembros españoles y andaluces del Comité de las Regiones.
+- El reglamento de protección de datos de la Unión, que desarrolla el artículo 8 de la Carta: es el
+  punto 10 del temario común.
+- Las normas audiovisuales europeas que desarrollan la libertad y el pluralismo de los medios del
+  artículo 11 de la Carta: no son objeto de este enunciado; la normativa audiovisual del sector es el
+  punto 4.
+
+## Trazabilidad
+
+| | |
+| --- | --- |
+| **Normas** | TUE, Carta y TFUE (DOUE C 202, de 7 de junio de 2016); Decisiones 2023/2061, 2013/272 y 2013/336; EAA; Leyes 2/1997, 8/1994 y 2/2014; Real Decreto 2105/1996; Acuerdos de la Conferencia de 2004, modificados en 2011; Decreto del Presidente 9/2026; Decreto 189/2026; Decretos 164/1995 y 230/1995 |
+| **Cómo se leyeron los textos de la Unión** | En la expresión española del Diario Oficial, descargada del repositorio de la Oficina de Publicaciones de la UE; no hay consolidación posterior a la de 2016 |
+| **Redacción leída** | La vigente el 24 de septiembre de 2026; todos los preceptos se leyeron ese día |
+
+Comprobaciones hechas sobre la fuente:
+
+1. **Recuentos.** TUE: 55 artículos en seis títulos, 37 protocolos y 65 declaraciones. Carta: 54
+   artículos en siete títulos. EAA: capítulo III del título IX con diez artículos (230 a 239), en un
+   título de cinco capítulos. Decisión 2023/2061: 27 filas que suman 720 escaños. Artículo 20.2 del
+   TFUE: cuatro letras. Artículo 17 del Decreto 189/2026: catorce letras (a-n).
+2. **Cifras de los Tratados desplazadas por decisiones posteriores**, dadas las dos: escaños del
+   Parlamento (750 más el Presidente como tope; 720 en 2024-2029), miembros de la Comisión (dos
+   tercios de los Estados según el Tratado; uno por Estado según la Decisión 2013/272/UE) y abogados
+   generales (ocho según el TFUE; once desde el 7 de octubre de 2015 según la Decisión 2013/336/UE,
+   de vigencia no confirmada).
+3. **Transitorios agotados**, señalados como tales: artículos 16.5, 17.4 y 54.2 del TUE.
+4. **Lista de Estados del artículo 52 del TUE**: veintiocho, con el Reino Unido, en la versión de
+   2016; el tema advierte que no sirve para contar los Estados de hoy.
+5. **Preceptos estatales y autonómicos**: todos los citados tienen una sola redacción; ninguno tiene
+   reforma cruzada.
+6. **Solapamiento del Decreto 189/2026** entre sus artículos 6.4 y 17.e), transcrito literal y sin
+   resolver.
