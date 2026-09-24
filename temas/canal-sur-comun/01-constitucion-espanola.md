@@ -3233,7 +3233,11 @@ Comprobaciones hechas sobre la fuente:
    y 28 (tres), y el texto anterior a los últimos cambios. Los incisos anulados de los artículos
    26.2 y 126.2 se han identificado en el texto consolidado que sirve el BOE en su formato de datos abiertos (donde van marcados) y en los
    fallos de las sentencias; el texto consolidado los reproduce sin que tengan vigencia.
-5. Ley 5/2010: el artículo 9 tiene dos redacciones; la vigente desde el 20 de junio de 2026.
+5. Ley 5/2010: el artículo 9 tiene dos redacciones; la vigente desde el 20 de junio de 2026. El
+   artículo 13 tiene tres (la última, de la Ley 5/2017, de 5 de diciembre, del Presupuesto de la
+   Comunidad Autónoma de Andalucía para el año 2018, vigente desde el 1 de enero de 2018); lo que
+   el tema toma de él (fases del plan y apoyo preferente a los municipios de menor población)
+   estaba ya en la redacción de 2010.
 6. Leyes Orgánicas 2/1982 y 3/1981: leídos en su redacción vigente los artículos citados; el
    artículo 30 de la Ley Orgánica 2/1982, en la redacción vigente desde el 22 de agosto de 2024.
 7. Negritas: comprobadas una a una contra el texto de las fuentes; lo que va en negrita está

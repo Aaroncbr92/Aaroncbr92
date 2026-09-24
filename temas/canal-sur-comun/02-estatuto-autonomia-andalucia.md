@@ -1780,9 +1780,12 @@ garantiza la representación equilibrada de hombres y mujeres, entendida como la
 y otras «**al menos en un cuarenta por ciento**» (artículo 18). Son órganos colegiados «**los que
 están compuestos por tres o más miembros**» que deliberan y acuerdan colegiadamente, y en ellos
 rige la misma representación equilibrada, excluidos quienes lo son por su cargo (artículo 19).
-Los órganos se crean, modifican y suprimen por decreto del Consejo de Gobierno (artículo 21), con
-una excepción: la creación, modificación o supresión de Consejerías (artículo 22.4), que según la
-Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
+Los órganos se crean, modifican y suprimen por decreto del Consejo de Gobierno, «**sin perjuicio
+del régimen establecido para los órganos colegiados**» (artículo 21). La norma de creación debe
+fijar la denominación y las funciones, acreditar que no duplican las de otros órganos y valorar
+su repercusión económico-financiera (22.1 a 22.3); de esos requisitos se exceptúan la creación,
+la modificación y la supresión de Consejerías (22.4), que según la Ley 6/2006 hace el Presidente
+de la Junta por decreto (artículo 10.1.h).
 
 *La organización central* (capítulo II del título II).
 
@@ -1901,8 +1904,8 @@ instrumental por decreto del Consejo de Gobierno, conservando su personalidad ju
 (artículo 52 bis). Las entidades instrumentales y los consorcios adscritos pueden ser medios
 propios de los poderes adjudicadores si cumplen los requisitos de la legislación de contratos, y
 en su denominación debe figurar «**Medio Propio**» o «**M.P.**»; los encargos a sociedades y
-fundaciones no pueden atribuirles potestades sujetas al Derecho Administrativo (artículo 53 bis,
-apartados 2 y 12).
+fundaciones no pueden atribuirles potestades sujetas al Derecho Administrativo (artículo 53 bis, apartados 1,
+2 y 12).
 
 *Las agencias: disposiciones comunes.* Son «**entidades con personalidad jurídica pública
 dependientes de la Administración de la Junta de Andalucía para la realización de actividades de
@@ -1936,15 +1939,16 @@ tres requisitos: necesidad de especial autonomía de gestión; un patrimonio que
 requiera gestión con personalidad propia; o un servicio que pueda financiarse «**en más de un
 cincuenta por ciento**» con sus propios ingresos (artículo 66). Sus presidentes o directores los
 nombra y separa libremente el Consejo de Gobierno y tienen la consideración de altos cargos a
-efectos de incompatibilidades; su personal es funcionario,
-laboral o estatutario, como el de la Junta (artículo 67).
+efectos de incompatibilidades; su personal es funcionario, laboral o estatutario, como el de la Junta, aunque la ley de creación
+puede establecer excepcionalmente peculiaridades en oferta de empleo, acceso, provisión y
+movilidad (artículo 67).
 
 *Agencias públicas empresariales* (artículos 68 a 70). «**Las agencias públicas empresariales son
 entidades públicas a las que se atribuye la realización de actividades prestacionales, la
 gestión de servicios o la producción de bienes de interés público, sean o no susceptibles de
 contraprestación, y que aplican técnicas de gestión empresarial en ejecución de competencias
 propias o de programas específicos de una o varias Consejerías, en el marco de la planificación
-y dirección de estas.**» (68.1). Hay dos tipos:
+y dirección de estas.**» (68.1). Hay dos tipos (68.1, letras a y b), cada uno con su régimen (69.1):
 
 - a) las que tienen por objeto principal la producción, «**en régimen de libre mercado**», de
   bienes y servicios de interés público mediante contraprestación. Se rigen por el Derecho
@@ -1960,10 +1964,12 @@ Ejercen únicamente las potestades administrativas que se les atribuyan expresam
 órganos a los que los estatutos se las asignen (69.2). «**El personal de las agencias públicas
 empresariales se rige en todo caso por el Derecho Laboral**», se selecciona por convocatoria
 pública según igualdad, mérito y capacidad, y la determinación de sus retribuciones exige informe
-previo y favorable de las Consejerías de Administración Pública y de Hacienda (artículo 70). El
-artículo 69 lleva en el texto consolidado del BOE una nota sobre la sentencia del Tribunal
-Constitucional 230/2015, de 5 de noviembre, que declaró inconstitucional y nulo el precepto «**en la
-redacción dada por el Decreto-ley 5/2010**»; la redacción vigente es la de la Ley 1/2011.
+previo y favorable de las Consejerías de Administración Pública y de Hacienda (artículo 70). El artículo 69 lleva en el texto consolidado del BOE una nota sobre la sentencia del Tribunal
+Constitucional 230/2015, de 5 de noviembre, que declaró la inconstitucionalidad y nulidad del
+precepto «**en la redacción dada por el Decreto-ley 5/2010**»: el fallo anula el artículo 1,
+apartados 9 y 12, de ese decreto-ley, y el apartado 9 era el que daba nueva redacción al
+artículo 69. La redacción vigente es la de la Ley 1/2011, y el BOE no marca en ella ningún inciso
+anulado.
 
 *Agencias de régimen especial* (artículos 71 a 74). Realizan las mismas actividades que las
 administrativas, «**siempre que se les asignen funciones que impliquen ejercicio de autoridad que
@@ -1972,9 +1978,9 @@ Administrativo, con Derecho Privado donde su gestión lo requiera (71.2), y se a
 Consejería competente por razón de la materia (71.3). Actúan con un plan de acción anual y un
 «**contrato plurianual de gestión**» que aprueba el Consejo de Gobierno, y tienen una comisión de
 control (artículo 72). Su personal puede ser funcionario o laboral, pero «**Las funciones que
-impliquen ejercicio de autoridad serán desempeñadas por personal funcionario.**» (74.1); desde el
-1 de enero de 2026 (Ley 8/2025) su órgano competente puede aprobar «**de manera independiente**» la
-oferta de empleo de su personal no directivo (74.2.a).
+impliquen ejercicio de autoridad serán desempeñadas por personal funcionario.**» (74.1); su oferta de empleo forma parte de la oferta de empleo público de la Junta, pero desde el 1 de
+enero de 2026 (Ley 8/2025) su órgano competente puede aprobar «**de manera independiente**» la
+del personal no directivo (74.2.a).
 
 *Sociedades mercantiles del sector público andaluz* (artículos 75 a 77). Son las previstas en la
 Ley General de la Hacienda Pública y en la Ley del Patrimonio de la Comunidad (75.1). Tienen por
@@ -2037,8 +2043,8 @@ la Radio y Televisión de Andalucía**» (artículo 4.3.g).
 | Norma | Identificador | Redacción |
 | --- | --- | --- |
 | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Vigente el 24/09/2026. Artículo 51 anulado por la sentencia del Tribunal Constitucional 30/2011 (`BOE-A-2011-6545`); artículo 178.1 en la redacción de la Ley 32/2022, vigente desde el 29/12/2022 |
-| Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía | `BOE-A-2006-20848` | Vigente el 24/09/2026 (artículos 12, 13 y 24 según la Ley 2/2021; 15.d según el Decreto-ley 11/2023; 21 y 27 según el Decreto-ley 26/2021; 31 según la Ley 1/2014; 43 y 45 según el Decreto-ley 3/2024) |
-| Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Vigente el 24/09/2026 (entre otras, reformas de la Ley 1/2011, la Ley 4/2012, la Ley 1/2014, la Ley 5/2023, el Decreto-ley 3/2024, el Decreto-ley 4/2025 y la Ley 8/2025) |
+| Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía | `BOE-A-2006-20848` | Vigente el 24/09/2026 (artículos 12, 13 y 24 según la Ley 2/2021; 15.d según el Decreto-ley 11/2023; 21 y 27 según el Decreto-ley 26/2021; 31 según la Ley 1/2014; 43 y 45 según el Decreto-ley 3/2024; los tres decretos-leyes, convalidados por el Parlamento el 22/12/2021, el 10/01/2024 y el 21/02/2024) |
+| Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Vigente el 24/09/2026 (entre otras, reformas de la Ley 1/2011, la Ley 4/2012, la Ley 1/2014, la Ley 5/2023, el Decreto-ley 3/2024, el Decreto-ley 4/2025 y la Ley 8/2025; los dos decretos-leyes, convalidados por el Parlamento el 21/02/2024 y el 12/11/2025) |
 | Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía | `BOE-A-2024-16885` | Vigente el 24/09/2026 (una sola redacción; en vigor desde el 20/08/2024) |
 | Ley 9/1983, de 1 de diciembre, del Defensor del Pueblo Andaluz | `BOE-A-1984-1847` | Vigente el 24/09/2026 (artículo 8.1 según la Ley 4/2021, desde el 30/08/2021) |
 | Ley 1/1988, de 17 de marzo, de la Cámara de Cuentas de Andalucía | `BOE-A-1988-8592` | Vigente el 24/09/2026 (artículos 16 a 18, 24 y 27 según la Ley 3/2011; 11 según la Ley 8/2025) |
@@ -2112,7 +2118,7 @@ Comprobaciones hechas sobre las fuentes:
 4. *Discordancias entre normas que el tema señala donde aparecen*: la mayoría para aprobar la
    reforma del Estatuto (Estatuto 248.1.b frente a Reglamento del Parlamento 128.1); la
    investidura fallida (Estatuto 118.3 frente a Reglamento del Parlamento 138.7); el plazo entre
-   disoluciones (Estatuto 127.3 frente a Ley 6/2006, 41.3); el fuero del Presidente (Estatuto
-   118.5 frente a Ley 6/2006, 17); el ámbito del Defensor (Estatuto 128.1 frente a Ley 9/1983,
+   disoluciones (Estatuto 127.3 frente a Ley 6/2006, 41.3); el fuero del Presidente (Estatuto 118.5 frente a Ley 6/2006, 17); el fuero civil de los
+   Consejeros (Estatuto 122.2 frente a Ley 6/2006, 26.2); el ámbito del Defensor (Estatuto 128.1 frente a Ley 9/1983,
    1.1); y los nombres superados de las leyes 9/1983, 1/1988 y 1/1986 y del Reglamento del
    Parlamento.
