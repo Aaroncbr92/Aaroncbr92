@@ -2168,7 +2168,7 @@ aspiraciones de autogobierno de máximo nivel en el conjunto de los pueblos de E
 los que no aceptaban que Andalucía fuera una nacionalidad «**en el mismo plano que las que se
 acogían al artículo 151 de la Constitución**»; y que «**Andalucía ha sido la única Comunidad que
 ha tenido una fuente de legitimidad específica en su vía de acceso a la autonomía, expresada en
-las urnas mediante referéndum**». El artículo 4 del Estatuto recuerda la fecha: «**El día de
+las urnas mediante referéndum**». El artículo 3.4 del Estatuto recuerda la fecha: «**El día de
 Andalucía es el 28 de febrero.**»
 
 #### Organización institucional (artículo 152)
@@ -3035,7 +3035,7 @@ orden de su nombramiento y los designa éste entre los miembros de la Junta de G
 | Órgano colegiado reducido | Junta de Gobierno Local, no más de un tercio del número legal de Concejales, más el Alcalde | Junta de Gobierno, no más de un tercio del número legal de Diputados, más el Presidente |
 | ¿Existe siempre? | La Junta de Gobierno Local, sólo en los de más de 5.000 habitantes y en los de menos si se decide | La Junta de Gobierno, en todas las Diputaciones |
 
-#### Las competencias provinciales
+#### Las competencias provinciales en la LBRL
 
 **Artículo 36.1** *de la LBRL.* Son competencias propias de la Diputación las que le atribuyan en ese
 concepto las leyes del Estado y de las Comunidades Autónomas «**y, en todo caso, las
@@ -3075,14 +3075,16 @@ los fundamentos jurídicos 11 y 12 c), respectivamente, de esta Sentencia**».
 Y la coordinación del artículo 26.2 (seis servicios en los municipios de menos de 20.000
 habitantes), vista en «El municipio».
 
-*Delegación en la Diputación (LBRL, artículo 37).* Las Comunidades Autónomas podrán delegar
+**Artículo 37** *de la LBRL: delegación en la Diputación.* Las Comunidades Autónomas podrán delegar
 competencias en las Diputaciones y encomendarles la gestión ordinaria de servicios propios, en
 cuyo caso las Diputaciones actúan «**con sujeción plena a las instrucciones generales y
 particulares de las Comunidades**». El Estado, previa consulta e informe de la Comunidad
 Autónoma, podrá delegar en ellas «**competencias de mera ejecución cuando el ámbito provincial sea
 el más idóneo para la prestación de los correspondientes servicios**».
 
-*En el Estatuto de Andalucía (artículo 96.3 y 96.4).* Tres grupos de competencias de la
+#### Las competencias provinciales en el Estatuto de Andalucía y en la LAULA
+
+*En el Estatuto (artículo 96.3 y 96.4).* Tres grupos de competencias de la
 Diputación:
 
 - a) «**La gestión de las funciones propias de la coordinación municipal, asesoramiento,
@@ -3138,7 +3140,7 @@ cuando la provincia deba prestarla a solicitud de los municipios, o concertada.*
 | Reforma del apartado 3 del artículo 69 de la Constitución Española, a los efectos de que la isla de Formentera elija un senador propio, de 19 de mayo de 2026 | `BOE-A-2026-10881` | Leída en su texto, con su disposición transitoria única; en vigor el 20/05/2026 |
 | Real Decreto 2560/1978, de 3 de noviembre, por el que se somete a Referéndum de la Nación el proyecto de Constitución | `BOE-A-1978-27525` | Artículos 1 a 3; sólo como dato histórico |
 | Acuerdo de la Junta Electoral Central por el que se hace público el resumen de la votación en el Referéndum Constitucional | `BOE-A-1978-30906` | Sólo se nombra |
-| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Vigente el 24/09/2026; los artículos citados (1, 2, 4, 42, 60, 89 a 98, 108 y preámbulo) conservan la redacción de 2007 |
+| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Vigente el 24/09/2026; los artículos citados (1 a 4, 42, 60, 89 a 98, 108 y preámbulo) conservan la redacción de 2007 |
 | Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | `BOE-A-1985-5392` | Vigente el 24/09/2026; última modificación citada: Real Decreto-ley 7/2026 (art. 25.2.p, desde el 22/03/2026) |
 | Real Decreto-ley 6/2023, de 19 de diciembre | `BOE-A-2023-25758` | Como norma modificadora de los artículos 13, 25 y 28 de la Ley 7/1985 (desde el 21/12/2023); convalidado (`BOE-A-2024-665`) |
 | Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio | `BOE-A-2026-6544` | Como norma modificadora del artículo 25 de la Ley 7/1985 (desde el 22/03/2026); convalidado (`BOE-A-2026-7125`) |

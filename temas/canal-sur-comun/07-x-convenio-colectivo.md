@@ -123,8 +123,7 @@ el Real Decreto-ley 32/2021, de 28 de diciembre) regula lo mismo con carácter g
   durante las negociaciones para renovarlo, «**en defecto de pacto, se mantendrá su vigencia**».
 
 Es decir: la prórroga del apartado 2 es la situación del convenio **no denunciado**; el
-mantenimiento de la vigencia del apartado 3 (lo que se suele llamar ultraactividad) presupone
-**denuncia**. Lo que consta del X Convenio es esto:
+mantenimiento de la vigencia del apartado 3 presupone **denuncia**. Lo que consta del X Convenio es esto:
 
 - **Registro (REGCON)**, consulta por el código 71000253011989 hecha el 24 de septiembre de 2026:
   cinco trámites, ninguno posterior a 2014. El del X Convenio figura como «**CONVENIO COLECTIVO
