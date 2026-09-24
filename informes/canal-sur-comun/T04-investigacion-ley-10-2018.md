@@ -9,17 +9,13 @@ del proyecto.
 
 ## 0. Avisos sobre la fuente (leer antes que nada)
 
-1. **Normas de reforma.** El volcado y `boe.py` rotulan las reformas como
-   `BOE-A-2020-90058`, `BOE-A-2021-90434`, etc. En las referencias del BOE (análisis de
-   la norma) su identificador real es `BOJA-b-…`. Correspondencia, leída en el análisis
-   del BOE y en las notas de cada bloque:
-   - `BOJA-b-2020-90058` = **Decreto-ley 2/2020, de 9 de marzo** (art. 28), vigencia 13-03-2020.
-   - `BOJA-b-2020-90403` = **Decreto-ley 26/2020, de 13 de octubre** (disp. final 2.ª), que
-     «deja sin efecto» la supresión del art. 40 y cambios de los arts. 66, 74, 80 y 81.
-   - `BOJA-b-2021-90124` = **Decreto-ley 4/2021, de 23 de marzo** (art. 37.b).
-   - `BOJA-b-2021-90434` = **Decreto-ley 26/2021, de 14 de diciembre** (arts. 46.4 y 51).
-   - `BOJA-b-2024-90030` = **Decreto-ley 3/2024, de 6 de febrero** (art. 59), vigencia
-     17-02-2024. Es la reforma que adapta la ley a la Ley 13/2022.
+1. **Normas de reforma.** El volcado rotula las reformas `BOE-A-AAAA-9xxxx`; en el BOE su
+   identificador es `BOJA-b-…`. Según el análisis y las notas del BOE: **DL 2/2020, de 9 de
+   marzo** (art. 28; vigencia 13-03-2020); **DL 26/2020, de 13 de octubre** (DF 2.ª; deja
+   sin efecto la supresión del art. 40 y cambios de los arts. 66, 74, 80 y 81); **DL 4/2021,
+   de 23 de marzo** (art. 37.b); **DL 26/2021, de 14 de diciembre** (arts. 46.4 y 51);
+   **DL 3/2024, de 6 de febrero** (art. 59; vigencia 17-02-2024), que adapta la ley a la
+   Ley 13/2022.
 2. **Todas las reformas son decretos-leyes andaluces.** Del 2/2020 consta la convalidación
    (por la Diputación Permanente) en la STC 40/2025 (`BOE-A-2025-5737`). **La
    convalidación de los demás no la he podido confirmar** en el BOE (se publica en BOJA).
@@ -90,9 +86,6 @@ de Comunicación Audiovisual»** (en 2018: Ley 7/2010). Para el tema:
   público», e incluía expresamente «el ente público RTVA»).
 - 3.1.d) Horario no residual: **«El comprendido entre las 8:00 y las 23:00 horas en
   televisión y radio.»**
-- 3.1.ñ) prestadores: los del **art. 2.4** de la Ley 13/2022 (2018: art. 2.1 Ley 7/2010);
-  3.1.g) participación significativa: la del **art. 38.1** Ley 13/2022 (2018: definición
-  propia, 5 % del capital o 30 % de los votos).
 
 ## 2. Las rúbricas del enunciado
 
@@ -106,15 +99,12 @@ de Comunicación Audiovisual»** (en 2018: Ley 7/2010). Para el tema:
 - b) libre elección; c) pluralismo (ver 2.2); d) protección de los derechos fundamentales;
 - e) **«La protección de la infancia, la juventud y las personas con discapacidad, así como
   la garantía de accesibilidad universal a los servicios de comunicación audiovisual.»**
-- f) defensa de consumidores y usuarios, «especialmente en relación con los contenidos de
-  la programación y las comunicaciones comerciales»; g) propiedad intelectual y derecho de
-  rectificación; h) **«La objetividad, veracidad e imparcialidad de las informaciones.»**;
-  i) sociedad incluyente y no discriminación; j) **«La accesibilidad universal y el diseño
-  para todas las personas.»**; k) alfabetización mediática; l) igualdad efectiva entre
-  mujeres y hombres (incluye «el uso del lenguaje no sexista»); m) medioambiente;
-  n) **«La defensa y potenciación del servicio público de comunicación audiovisual.»**;
-  ñ) equilibrio, según disponibilidad de espectro, entre prestadores públicos, comunitarios
-  sin ánimo de lucro y privados comerciales (la Junta **«tenderá con carácter global»**).
+- h) **«La objetividad, veracidad e imparcialidad de las informaciones.»**; j) **«La
+  accesibilidad universal y el diseño para todas las personas.»**; n) **«La defensa y
+  potenciación del servicio público de comunicación audiovisual.»**; ñ) equilibrio entre
+  prestadores públicos, comunitarios y privados (la Junta **«tenderá con carácter
+  global»**). Las demás: consumidores (f), propiedad intelectual y rectificación (g),
+  inclusión (i), alfabetización mediática (k), igualdad (l), medioambiente (m).
 
 El 2.2 añade **tres** principios propios del **servicio público**: a) **transparencia**
 «en especial con los relativos a la libertad de comunicación y el pluralismo»; b) fomento
@@ -203,13 +193,9 @@ radioeléctrico de Andalucía como bien demanial limitado.»**
   existir discriminación por razón de discapacidad, circunstancias económicas, geográficas
   o por cualquier otra condición…»**
 - **Art. 9 «Derechos de las personas con discapacidad»** (**3 redacciones**):
-  - 2018: siete apartados. 9.2 TV autonómica pública o privada: **subtitular el 100 %** y
-    **15 horas diarias** de lengua de signos más todos los informativos; la TV autonómica
-    pública, lengua de signos con personal especializado también en entretenimiento; TV
-    local: 75 % subtitulación y 8 horas. 9.3 audiodescripción: 15 h (autonómica) y 8 h
-    (local). 9.7 estándares de calidad por reglamento en doce meses.
-  - DL 2/2020 (art. 28.1), vigencia 13-03-2020: quita de 9.2 y 9.3 las cifras de la TV
-    local y la remisión al calendario.
+  - 2018: siete apartados, con cifras (TV autonómica: subtitulado 100 %, 15 h diarias de
+    lengua de signos y 15 h de audiodescripción más todos los informativos; TV local: 75 %
+    y 8 h). DL 2/2020 (art. 28.1) quitó las cifras de la TV local.
   - **Vigente, DL 3/2024 (art. 59.5), cuatro apartados:** 9.1 **«Se garantizará el acceso
     universal a los servicios de comunicación audiovisual, de acuerdo con los avances
     tecnológicos, a las personas con discapacidad visual o auditiva.»** (antes «Se
@@ -287,17 +273,12 @@ remisiones a la Ley 7/2010 por la Ley 13/2022 y **suprimiendo** reglas propias (
 ## 3. Consejo Audiovisual de Andalucía (Ley 1/2004, `BOE-A-2005-655`)
 
 Lo que la Ley 10/2018 le atribuye sobre las rúbricas (todo leído el 24-09-2026):
-- **Art. 12**: el Consejo de Participación Audiovisual de Andalucía se crea **«adscrito al
-  Consejo Audiovisual de Andalucía»**, con un representante suyo.
-- **Art. 13**: establece el procedimiento del derecho a conocer la programación; la
-  ciudadanía puede **dirigirse** a él por vulneración de derechos o incumplimientos en
-  contenidos y publicidad.
-- **Art. 35.3**: informe anual sobre la obligación de financiación de obra andaluza.
-- **Art. 43.4–5**: convenios voluntarios para funciones arbitrales o de mediación sobre
-  códigos de conducta; **informe anual** sobre contenidos y publicidad relativos a
-  personas con discapacidad.
-- **Art. 47.1**: control del servicio público autonómico en gestión y presupuesto.
-- **Art. 59**: control de contenidos y publicidad de los comunitarios.
+- **Art. 12**: Consejo de Participación Audiovisual **«adscrito al Consejo Audiovisual de
+  Andalucía»**. **Art. 13**: procedimiento del derecho a conocer la programación; la
+  ciudadanía puede **dirigirse** a él por incumplimientos en contenidos y publicidad.
+- **Art. 43.5**: **informe anual** sobre contenidos y publicidad relativos a personas con
+  discapacidad (43.4: arbitraje y mediación por convenio). **Art. 47.1**: control del
+  servicio público autonómico en gestión y presupuesto. Arts. 35.3 y 59: otros controles.
 - **Art. 66.1.b)**: potestad inspectora; **66.3.c)** potestad sancionadora sobre la Ley
   13/2022: **art. 157, apartados 1, 2, 3, 9 y 11 a 16** (incluyen identificación de
   menores, 157.9, y violencia gratuita o pornografía, 157.11); **art. 158, apartados 7 a
@@ -330,8 +311,8 @@ dice nada de la reviviscencia en lo que he leído. Es decisión del redactor, co
 1. La **convalidación** parlamentaria de los DL 26/2020, 4/2021, 26/2021 y 3/2024 (sólo la
    del 2/2020 consta en la STC 40/2025).
 2. El resultado del **recurso de inconstitucionalidad 3473-2024** contra el DL 3/2024:
-   admitido; sin sentencia en el BOE a 24-09-2026. Si prospera, cae la redacción vigente de
-   los arts. 3, 7, 8, 9, 31, 32, 41, 46, etc.
+   admitido; sin sentencia en el BOE a 24-09-2026. No sé qué preceptos impugna en concreto;
+   el art. 59 del DL es el que da la redacción vigente de los arts. 3, 7, 8, 9, 31, 32, 41 y 46.
 3. **Qué texto del art. 4 de la Ley 1/2004 está vigente** tras la STC 40/2025 (§3).
 4. El texto de los decretos-leyes y su exposición de motivos: están en BOJA, no en BOE; no
    los he leído. Todo lo que atribuyo a ellos sale de las notas del consolidado del BOE.
