@@ -23,7 +23,7 @@ const REMATE = { type: 'object', properties: { amplio: { type: 'boolean' } }, re
 const reuso = n => {
   const t = args.temas[String(n)] || {}, c = (args.comun || {})[String(n)] || []
   let s = ''
-  if (c.length) s += `\nDEL COMÚN DE CANAL SUR (cerrado y verificado, redacción vigente): ${c.join(', ')}. Copia literal los pasajes que sirvan; no los reescribas.`
+  if (c.length) s += `\nYA CERRADO Y VERIFICADO (común de Canal Sur o puesto anterior, redacción vigente): ${c.join(', ')}. Copia literal los pasajes que sirvan; no los reescribas.`
   if (t.rtve) s += `\nDE RTVE (${t.rtve.pct} % del enunciado; ${t.rtve.nota}): ${t.rtve.ficheros.join(', ')}. Copia literal lo que valga${t.rtve.actualizar === 'sí' ? ', releyendo cada precepto en su redacción vigente' : ''} y quita lo propio de RTVE.`
   return s
 }
@@ -36,7 +36,7 @@ const tema = async (n, bloque) => {
     return T
   }
   const base = rep ? `\nEl tema es parecido al tema ${rep.tema} del puesto ${rep.puesto} (temas/canal-sur-especificos/${rep.puesto}-*/${nn(rep.tema)}-*.md): parte de su texto y amplía SOLO lo que este enunciado pida de más.` : ''
-  await A(`${BASE}\nFASE 2 · REDACTAR el tema ${n}. Material: ${INF}-investigacion-${bloque.id}.md.${base}${reuso(n)}\nEscribe por partes guardando cada epígrafe. En el informe ${INF}-T${T}-redaccion.md, lista bajo «Copiado del común» los epígrafes copiados literal del común de Canal Sur.`, { label: lb('redactar'), phase: ph })
+  await A(`${BASE}\nFASE 2 · REDACTAR el tema ${n}. Material: ${INF}-investigacion-${bloque.id}.md.${base}${reuso(n)}\nEscribe por partes guardando cada epígrafe. En el informe ${INF}-T${T}-redaccion.md, lista bajo «Copiado del común» los epígrafes copiados literal de temas ya cerrados de Canal Sur.\nANTES DE ENTREGAR: escribe 10 preguntas tipo test que un tribunal haría sobre este enunciado (repartidas por todas sus rúbricas, teoría y aplicación práctica) y comprueba que el tema las contesta enteras; si no, amplía el tema. Ponlas al final del informe de redacción.`, { label: lb('redactar'), phase: ph })
   await A(`${BASE}\nFASE 3 · VERIFICAR ${F}. Relee cada dato en su fuente con los nueve errores delante; corrige y quita lo que no confirmes. NO re-verifiques los pasajes listados bajo «Copiado del común» en ${INF}-T${T}-redaccion.md (ya verificados); sí lo copiado de RTVE. Lentes que tocan (ENCARGO). Informe ${INF}-T${T}-verificacion.md.`, { label: lb('verificar'), phase: ph })
   const r = await A(`${BASE}\nFASE 4 · REFUTAR (no corriges) ${F}: exactitud contra la fuente (salvo lo «Copiado del común», ver ${INF}-T${T}-redaccion.md) y cobertura del enunciado. 15 preguntas tipo test de 4 opciones (teoría y aplicación práctica) en ${INF}-T${T}-preguntas.md, contestadas solo con el tema: entera / a medias / no. Informe ${INF}-T${T}-refutacion.md.`, { label: lb('refutar'), phase: ph, schema: REFUTA })
   if (r && r.graves + r.menores + r.lagunas > 0) {

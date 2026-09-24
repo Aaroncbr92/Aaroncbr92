@@ -21,5 +21,8 @@ for f in glob.glob(os.path.join(RAIZ, "informes/canal-sur-reuso/*.tsv")):
                                                        "actualizar": r["actualizar"], "nota": r["nota"]}
 for r in csv.DictReader(open(os.path.join(RAIZ, "informes/canal-sur-especificos/AGRUPACION.tsv"), encoding="utf-8"), delimiter="\t"):
     if r["puesto"] == p and r["tipo"] != "nuevo":
-        temas.setdefault(r["tema"], {})["repite"] = {"tipo": r["tipo"], "puesto": r["escrito_en_puesto"], "tema": r["escrito_en_tema"]}
+        # «aplicada al puesto»: mismo enunciado, pero los riesgos o funciones del
+        # puesto cambian; se copia y se amplía, nunca se copia sin más
+        tipo = "parecido" if "del puesto" in r["enunciado"] or "al puesto" in r["enunciado"] else r["tipo"]
+        temas.setdefault(r["tema"], {})["repite"] = {"tipo": tipo, "puesto": r["escrito_en_puesto"], "tema": r["escrito_en_tema"]}
 print(json.dumps({"puesto": p.zfill(2), "slug": os.path.basename(fich)[:-3], "temas": temas}, ensure_ascii=False))
