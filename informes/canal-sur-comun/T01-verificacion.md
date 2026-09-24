@@ -209,3 +209,31 @@ letras), 27.5 y 27.6; 28 (suprimido hasta el 20-12-2023); 29 (dos tercios; menos
 la Ley 2/2026, vigente en esa parte el 20-06-2026 (disposición final séptima de esa ley, según la
 nota del consolidado).
 
+### Bloque 8 · Rúbrica c): la provincia; secciones finales
+
+Leídos: CE 141; LBRL 31 a 37; EAA 96; LAULA 3.3, 11 a 15 (13 con su cadena de tres redacciones y
+el texto de 2010 a `--fecha 20161231`); título de la Ley 5/2017 (`BOE-A-2018-1098`) en el XML del
+diario. Comprobado con grep que «división territorial» / «actividades del Estado» no aparecen en
+la LBRL ni en el EAA (lo afirma el tema).
+
+22. **LBRL 36.1.c).** Omitía «y el fomento o, en su caso, coordinación de la prestación unificada
+    de servicios de los municipios de su respectivo ámbito territorial». Añadido (error 6).
+23. **LBRL 36.1.h).** Omitía la segunda frase (si los costes municipales son superiores, la
+    Diputación «ofrecerá a los municipios su colaboración para una gestión coordinada más
+    eficiente»). Añadido (error 6, menor).
+24. **LAULA 14.2.** La prestación obligatoria de los cinco servicios se daba sin «en la forma y
+    casos en que lo determine una norma provincial». Añadido (error 6).
+25. **Trazabilidad, punto 5.** Sólo decía que el art. 9 LAULA tiene dos redacciones; el tema cita
+    también el art. 13, que tiene tres (Ley 5/2017, vigente 01-01-2018). Añadido, con la
+    comprobación de que lo que se cita ya estaba en 2010 (error 7, control).
+
+Confirmados sin cambios: 141 (cuatro apartados); 31; 32; 33.2 (a-o, l y n derogadas) y 33.4 (con
+la «Comisión de Gobierno» que aún dice la ley); 34; 35 (tercio); 36.1 umbrales (1.000; 5.000 y
+20.000; 20.000; 20.000; 5000 escrito así en la ley) y 36.2.a); 37; EAA 96.3 (tres letras) y 96.4;
+LAULA 11 (tres tipos; obligatoria o concertada), 12.1 (diez letras), 14.2 (cinco servicios), 14.3,
+15 (tres materias).
+
+Sección «Normativa que el tema invoca»: identificadores, fechas de publicación y de vigencia de
+las normas modificadoras y de las sentencias, contrastados con el XML del diario (ver bloques
+anteriores). Sin cambios.
+

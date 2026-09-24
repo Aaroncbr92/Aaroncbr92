@@ -99,3 +99,13 @@ literal aquí y se comprueba con `refutar_documento.py`.
 - **Nunca más de tres agentes a la vez.**
 - Un agente cortado no se reanuda si llevaba mucho contexto: se lanza uno nuevo que parte
   de lo que haya en disco (tema e informe a medias).
+
+## Modo ahorro 2 (sin tocar la calidad)
+
+- **No leas volcados enteros.** Saca sólo el precepto que comprueba: `python3
+  herramientas/boe.py precepto <id> <bloque>` o `grep -n -A40 "Artículo N" <volcado>`.
+- En fases 4 y 5 **no hace falta releer `metodo/`**: este fichero y `ENCARGO.md` llevan
+  sus reglas.
+- Informe **sólo con hallazgos y correcciones** (formato de CICLO), sin repetir lo que está
+  bien más que en una línea de cuadro.
+- **Respuesta final al coordinador: 120 palabras como máximo.** El detalle, en el informe.

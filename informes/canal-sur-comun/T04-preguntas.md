@@ -1,6 +1,6 @@
 # T04 · Preguntas de prueba · Ley 13/2022 y Ley 10/2018
 
-Fase 4, lente de cobertura y forma (CICLO; manual, apartado 7). Quince preguntas tipo test de
+Fase 4 en modo ahorro, parte de cobertura (CICLO; manual, apartado 7). Quince preguntas tipo test de
 cuatro opciones, repartidas por las cinco rúbricas del enunciado y por las dos leyes:
 
 | Rúbrica | Preguntas | Ley 13/2022 | Ley 10/2018 |
@@ -22,6 +22,13 @@ redacción del Decreto-ley 3/2024). Después se ha intentado contestar **solo co
 `temas/canal-sur-comun/04-ley-13-2022-y-ley-10-2018.md`.
 
 Resultado: **14 enteras, 0 a medias, 1 no** (pregunta 9).
+
+*Procedencia.* Las escribió un agente de la fase 4 que se cortó antes de redactar su informe. En
+modo ahorro las recupera el agente único de la fase 4 (24-09-2026): releída cada respuesta en la
+fuente vigente (Ley 13/2022, arts. 10.5, 15.2-3, 54.1-2, 55.1-2, 64, 78.4, 99.2.c, 99.5, 102,
+123.7-8, 157, 158.11; Ley 10/2018, arts. 3.1.d, 7, 9.4, 11, 31.1.l, 32, 41.2, 46.1, 66.3.c) y
+vuelta a contestar solo con el cuerpo del tema, con una sola lectura. El resultado se confirma. El
+hallazgo está en `T04-refutacion.md` (C1).
 
 ---
 
@@ -176,7 +183,7 @@ determine en la normativa sectorial», para loterías y juegos de menor afectaci
 de la Ley 10/2018 está suprimido por el Decreto-ley 3/2024.
 Con el tema delante: **no**. El tema dice que el art. 41.2.a) se suprimió, pero no da el art. 123
 de la Ley 13/2022; la única franja de juego que da es la de los **programas** (99.6). Con el tema,
-la a) es tan defendible como la c). Hallazgo C1.
+la a) es tan defendible como la c). Hallazgo C1 de `T04-refutacion.md`.
 
 **10.** Canal Sur Televisión, como prestador del servicio público televisivo lineal en abierto,
 debe cumplir, según el artículo 102.2 de la Ley 13/2022, como mínimo:
