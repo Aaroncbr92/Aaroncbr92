@@ -1323,8 +1323,9 @@ representado en, al menos, un cuarenta por ciento**» (18.3).
   Administración que se les asignen (20.1). Como miembros del Consejo tienen ocho atribuciones:
   desarrollar la acción del Gobierno en su ámbito, representar su Consejería, proponer al Consejo
   anteproyectos de ley, proyectos de decreto, el programa de actuación y los nombramientos de
-  altos cargos, declarar la urgencia de las iniciativas normativas según el artículo 45 bis, y
-  las demás que les correspondan (artículo 21).
+  altos cargos, declarar la urgencia de las iniciativas normativas según el artículo 45 bis,
+  formular propuestas sobre asuntos de su Consejería que deba decidir el Consejo, y las demás que
+  les correspondan (artículo 21).
 - **Consejeros sin cartera.** El Presidente puede nombrarlos, con determinadas funciones pero
   «**sin adscripción de unidades administrativas**»; su cese también suprime el órgano (20.2).
 - **Nombramiento, suplencia y cese.** Los nombra y cesa el Presidente; el nombramiento se publica
@@ -1456,10 +1457,12 @@ Las regula el capítulo II del título III de la Ley 6/2006, con dos artículos.
   este tema no ha leído ese decreto de 1988.
 - Sus acuerdos constan en acta con el mismo contenido tasado (36.4).
 
-Resumen de las diferencias: las Comisiones Delegadas son órganos del Consejo de Gobierno formados
-por miembros del Gobierno, que el Consejo «podrá crear» y que preside el Presidente de la Junta;
-la Comisión General es un órgano de preparación y coordinación administrativa formado por
-Viceconsejeros, que existe por ley y que preside el Consejero de Presidencia.
+Resumen de las diferencias: las Comisiones Delegadas las «podrá crear» el Consejo de Gobierno
+por decreto, que fija su composición, y las convoca y preside el Presidente de la Junta, o en su
+ausencia el Vicepresidente o Consejero que diga el decreto; la Comisión General existe por la
+propia ley («estará asistido»), prepara los asuntos del Consejo y resuelve cuestiones
+administrativas que afectan a varias Consejerías, y la preside el Consejero competente en
+materia de Presidencia.
 
 ### El Consejo Consultivo de Andalucía: naturaleza, composición y funciones
 

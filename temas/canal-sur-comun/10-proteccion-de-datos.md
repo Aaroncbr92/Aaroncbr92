@@ -1329,7 +1329,9 @@ palabra «apercibimiento» ya no está en el artículo 77.
 
 Además (77.3), la autoridad propondrá la iniciación de actuaciones disciplinarias cuando haya
 indicios suficientes; y si la infracción es imputable a autoridades y directivos y consta que hubo
-informes técnicos o recomendaciones no atendidos, en la resolución «**se incluirá una amonestación
+informes técnicos o recomendaciones no atendidos, en la resolución (el apartado 3 no se modificó y
+conserva la expresión «en la resolución en la que se imponga la sanción»)
+«**se incluirá una amonestación
 con denominación del cargo responsable y se ordenará la publicación en el Boletín Oficial del Estado
 o autonómico que corresponda**». Las actuaciones y resoluciones se comunican al Defensor del Pueblo
 o a las instituciones autonómicas análogas (77.5), y cuando la competente sea la AEPD, esta publica
@@ -1358,7 +1360,7 @@ leído.
 ### La garantía de los derechos digitales
 
 Título X de la LOPDGDD, artículos 79 a 97. No viene del Reglamento: es contenido propio de la ley
-española, y es la segunda mitad de su título. Son ley ordinaria los artículos 79, 80, 81, 82, 88,
+española, y es la segunda mitad de su nombre («y garantía de los derechos digitales»). Son ley ordinaria los artículos 79, 80, 81, 82, 88,
 95, 96 y 97; el resto es orgánico.
 
 *Artículo 79.* «**Los derechos y libertades consagrados en la Constitución y en los Tratados y

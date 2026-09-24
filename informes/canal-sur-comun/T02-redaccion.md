@@ -19,3 +19,4 @@ Canal Sur (enunciado literal, con sus rúbricas a y b, en `convocatoria/canal-su
 1. Portada, siglas, enunciado, párrafo inicial y cabecera (Estatuto: estructura, contenido, competencias, reforma). Guardado.
 2. Rúbrica a): Parlamento. Guardado.
 3. Rúbrica a): TSJA, Defensor del Pueblo Andaluz, Cámara de Cuentas, Oficina contra el Fraude. Guardado.
+4. Rúbrica a): Presidencia, Consejo de Gobierno, Comisiones Delegadas y Comisión General, Consejo Consultivo. Guardado.
