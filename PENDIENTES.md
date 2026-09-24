@@ -954,3 +954,13 @@ LO 3/2018 (`BOE-A-2018-16673`) y el RGPD con su corrección de 2021 el 24-09-202
 - **Faltan** el art. 32.5 y la remisión del art. 12.7 al art. 15.3 del RGPD. **Gravedad**: menor.
 - Además, los preceptos que cambiaron después del corte de RTVE (arts. 23, 24, 48.2, 50, 53 bis, 64,
   65, 66, 67.2, 75, 77.2 y DA 23.ª) están listados en `informes/canal-sur-comun/T10-investigacion-vigencia.md`.
+
+## `refutar_exactitud.py` no reconoce los artículos numerados con palabras — ABIERTO 2026-09-24
+
+- **Dónde**: `herramientas/refutar_exactitud.py`, función `articulos`.
+- **Qué pasa**: normas como la LO 2/1982 (Tribunal de Cuentas) y la LO 3/1981 (Defensor del Pueblo)
+  numeran «Artículo primero», «Artículo segundo»… La lente no las trocea y **no comprueba ni una
+  negrita de esas normas, sin avisar**. Lo detectó la verificación del tema 1 de Canal Sur
+  (`informes/canal-sur-comun/T01-verificacion.md`), que lo sorteó con copias en cifras: 46 negritas, 0 fallos.
+- **Qué debería hacer**: traducir los ordinales a número al leer la fuente (hay `herramientas/ordinales.py`).
+- **Gravedad**: induce a error (un cero que no ha mirado).

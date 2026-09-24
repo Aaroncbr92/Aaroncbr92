@@ -13,6 +13,10 @@ reformas constitucionales, las sentencias y los incisos anulados).
 
 ## 1. Correcciones hechas en el tema
 
+Siglas del informe: Constitución Española (CE); Estatuto de Autonomía para Andalucía (EAA); Ley
+7/1985 (LBRL); Ley 5/2010 (LAULA); LO 2/1982 del Tribunal de Cuentas (LOTCu); LO 3/1981 del
+Defensor del Pueblo (LODP); Junta Electoral Central (JEC).
+
 Formato: dónde · qué decía · qué dice · precepto (error del catálogo).
 
 ### Bloque 1 · Identificación y estructura (RD 2560/1978, acuerdo JEC, preámbulo, disposiciones)
@@ -237,3 +241,75 @@ Sección «Normativa que el tema invoca»: identificadores, fechas de publicaci�
 las normas modificadoras y de las sentencias, contrastados con el XML del diario (ver bloques
 anteriores). Sin cambios.
 
+### Bloque 9 · Correcciones que salieron de las lentes (modo y salvedades)
+
+26. **LBRL 21.1.c) y 34.1.c).** Convocar y presidir el Pleno, sin «salvo los supuestos previstos en
+    esta ley y en la legislación electoral general». Añadido en el Alcalde y en el Presidente de
+    la Diputación (error 6).
+27. **LBRL 24.1.** Añadido «sin perjuicio de la unidad de gobierno y gestión del municipio»
+    (error 6, menor).
+28. **LBRL 20.1.c) (tabla de órganos).** Añadido «sin perjuicio de las competencias de control que
+    corresponden al Pleno» (menor).
+29. **LBRL 36.2.a).** La coordinación autonómica de los planes provinciales, sin «Sin perjuicio de
+    las competencias reconocidas en los Estatutos». Añadido (menor).
+30. **LAULA 14.3.** Añadido «Sin perjuicio de lo dispuesto en la legislación específica» (menor).
+31. **LODP 11.3.** Añadido «sin perjuicio de lo dispuesto en el artículo cincuenta y cinco de la
+    Constitución» (error 6).
+
+## 2. Lentes automáticas (corridas al final, sobre el tema corregido)
+
+Fuentes pasadas a `refutar_exactitud.py`: **todas las normas con texto consolidado que cita el
+tema**: CE, EAA, LBRL, LAULA, LO 2/1982, LO 3/1981 (y sus copias con rótulos en cifras, ver abajo),
+RDL 6/2023, RDL 7/2026, RDL 9/2018, Ley 27/2013, LO 2/2024 y Ley 2/2026 (estas seis, volcadas hoy
+con `boe.py norma` en `fuentes/canal-sur/`). Sin consolidado en la API (404, comprobado): las cuatro
+reformas constitucionales, el RD 2560/1978, el acuerdo de la JEC, la LO 3/2015, la LO 2/1992, la Ley
+5/2017 y las SSTC 103/2013 y 111/2016; sus textos del diario (XML) se pasaron a `refutar_documento.py`.
+
+| Lente | Tramos mirados | Resultado | Explicación |
+|---|---|---|---|
+| `refutar_prosa.py` | tema entero | 0 | — |
+| `refutar_exactitud.py` (tema entero, 14 fuentes) | 565 negritas por bloque; 143 por paréntesis (3 sin comprobar por remitir a otra norma) | 8 + 9 | **Falsos positivos de atribución, los mismos 17 que en redacción**: DA única de la reforma de 2011 (dos), citas del preámbulo del EAA y su 3.4 bajo el bloque del 151 (cuatro), 81.1 dentro del bloque del 147, fallo 3.º de la STC 111/2016 bajo el 36, pregunta del RD 2560/1978 y fórmula de promulgación bajo «art. 3», DA 2.ª bajo «art. 12», DT 3.ª y 7.ª bajo «art. 143», DT 8.ª bajo «art. 99», preámbulo bajo «art. 9» y «art. 23», rótulo del Título III del EAA bajo «art. 89». Todas literales en su fuente (leídas; y `refutar_documento.py`, abajo) |
+| `refutar_exactitud.py`, sección Tribunal de Cuentas contra LO 2/1982 con rótulos en cifras | 20 | 0 | Ver aviso de cobertura (bloque 5) |
+| `refutar_exactitud.py`, sección Defensor del Pueblo contra LO 3/1981 con rótulos en cifras | 26 | 0 | Ídem |
+| `refutar_exactitud.py`, rúbrica c) partida por norma (sub-temas LBRL, LAULA, EAA con marcador de artículo por párrafo) | 102 / 26 / 39 | 20 / 12 / 11 | Todos por la atribución automática de mi troceo (párrafos que citan dos artículos o dos normas: 11 bajo 1, 124-128 bajo 122, 36 bajo 116, LAULA 57 bajo EAA 95, etc.). Revisados uno a uno: literales en su artículo |
+| `refutar_documento.py` (tema entero contra las seis leyes + ocho textos del diario) | 1.120 negritas | 1 no literal; 0 cifras huérfanas | «**Artículos 82 a 85.**»: rótulo, excepción ya declarada en redacción |
+| `refutar_citas.py` | 0 tramos | 0 | El tema no tiene citas en bloque salvo el enunciado, que la lente excluye. Cero vacío, declarado |
+| `refutar_modo.py` con la CE | tema entero | 3 | Falsos positivos: «obligatorio» (referéndum del 168.3, en la tabla tras el 169), «debe» (161.2 dice «deberá ratificarla», dentro del bloque del 155), «ha de ser veraz» (20.1.d) |
+| `refutar_modo.py` por norma (sub-temas) | LBRL, LAULA, EAA, LO 2/1982, LO 3/1981 | 11 / 0 / 0 / 0 / 2 | Las salvedades de verdad se corrigieron (correcciones 26-31, más la 21 y la 24). Quedan: salvedades de apartados que el tema no enuncia (LBRL 13.3, 23.4, 33.2.k, 35.3, 122.2, 126.2 párr. 4.º; LO 3/1981 17.1), el «no obstante» del 29.4, el 36.2 (recogido con otra redacción), «deberán crear distritos» (128.1, atribuido al 122) y «habrán de» (LAULA 5.2, atribuido a la LBRL). El sub-tema del Defensor se generó antes de la corrección 31 |
+
+Con la CE sola la lente de modo mezcla menos; con varias fuentes a la vez atribuye a homónimos
+(como avisó la redacción), por eso se pasó por norma.
+
+## 3. Índice y extensión
+
+`python3 herramientas/indice.py temas/canal-sur-comun/01-constitucion-espanola.md`: **34.911
+palabras**, 33 epígrafes; índice rellenado. La herramienta añade «(sin portada: es un esquema)»
+porque el tema no tiene fila en `portadas.tsv` (común a los temas de Canal Sur; no lo he tocado).
+Ficha: Extensión 34.284 → **34.911 palabras**.
+
+## 4. Lo que no se ha podido confirmar
+
+Nada del cuerpo ha quedado sin confirmar; no se ha quitado ningún dato, porque todos los
+revisados tenían apoyo en la fuente (las correcciones son de salvedades y precisiones). La
+afirmación «La LAULA no fija un número de habitantes; rige el del artículo 13.2 de la LBRL» se
+comprobó en negativo (grep de «habitantes» y «núcleo» en los arts. 88 a 108 LAULA).
+
+## 5. Discrepancias con las fuentes y avisos
+
+- La nota del `.redacciones.tsv` de la LAULA da la Ley 2/2026 «publicada 20260320»; el diario, el
+  03-04-2026 (ya lo avisó la redacción). El tema no usa esa fecha.
+- Al volcar el RDL 6/2023, el BOE avisa de que su art. 13.6 lo deroga el Real Decreto-ley 18/2026,
+  de 29 de junio. Es un precepto del propio RDL, no de la LBRL: no afecta al tema.
+- `refutar_exactitud.py` no lee artículos numerados con palabras (bloque 5). Merece arreglarse
+  en la herramienta; aquí sólo se ha sorteado con copias en el scratchpad.
+
+## 6. Otros ficheros tocados
+
+- `temas/canal-sur-comun/01-constitucion-espanola.md` (correcciones, índice, extensión).
+- Este informe.
+- **Volcados nuevos** en `fuentes/canal-sur/` (con su `.redacciones.tsv`): `BOE-A-2023-25758`,
+  `BOE-A-2026-6544`, `BOE-A-2018-11135`, `BOE-A-2013-13756`, `BOE-A-2024-15936` y
+  `BOE-A-2026-7558`. Los cinco primeros aparecieron ya incorporados en un commit ajeno
+  («trabajo en curso») hecho mientras trabajaba; el último sigue sin seguimiento.
+- Ficheros temporales sólo en el scratchpad (`t01v/`). No he tocado herramientas ni otros temas
+  (el `04-…` que sale modificado en `git status` no es mío).
