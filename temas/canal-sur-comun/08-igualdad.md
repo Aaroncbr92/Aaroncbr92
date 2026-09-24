@@ -101,7 +101,8 @@ Ha sido modificada dos veces:
   parte de la ley y añadió los artículos 9 bis, 11 bis, 15 bis, 21 bis, 26 bis, 37 bis, 48 bis,
   50 bis, 50 ter, 50 quáter, 52 bis y 62 bis, el capítulo II del título IV (artículos 68 a 72)
   y el título V, de infracciones y sanciones.
-- Decreto-ley 3/2024, de 6 de febrero, de simplificación administrativa, en vigor desde el
+- Decreto-ley 3/2024, de 6 de febrero, por el que se adoptan medidas de simplificación y
+  racionalización administrativa (título abreviado), en vigor desde el
   17 de febrero de 2024. Modificó los artículos 6.2, 8, 27 y 31. El Parlamento de Andalucía lo
   convalidó el 21 de febrero de 2024. Está recurrido ante el Tribunal Constitucional en su
   conjunto (recurso de inconstitucionalidad 3473-2024); a 24 de septiembre de 2026 no consta
@@ -276,9 +277,9 @@ proyecto de Ley del Presupuesto de la Comunidad Autónoma de cada ejercicio.»**
 
 Cadena: el artículo tiene tres redacciones. La de 2007 y la de la Ley 9/2018 atribuían el
 informe a la Comisión de Impacto de Género en los Presupuestos y lo emitían sobre el
-«anteproyecto»; la de 2018 añadía auditorías de género y la fiscalización por la Cámara de
-Cuentas de Andalucía. El Decreto-ley 3/2024 (en vigor desde el 17/02/2024) suprimió la Comisión
-y esos dos apartados. Citar hoy la Comisión como órgano que emite el informe es citar derecho
+«anteproyecto»; las dos encargaban además a la Comisión promover auditorías de género (8.2), y la
+de 2018 añadió la fiscalización por la Cámara de Cuentas de Andalucía (8.3). El Decreto-ley
+3/2024 (en vigor desde el 17/02/2024) suprimió la Comisión y esos dos apartados. Citar hoy la Comisión como órgano que emite el informe es citar derecho
 derogado.
 
 *Lenguaje no sexista e imagen pública (artículo 9)*.
@@ -451,10 +452,11 @@ Consejo Andaluz de Participación de las Mujeres.
 - 27.5: **«Los planes de igualdad serán objeto de inscripción obligatoria en registro público
   conforme a lo dispuesto en la normativa estatal sobre la materia.»**
 
-Cadena: el artículo tiene tres redacciones. La Ley 9/2018 fijó un contenido mínimo propio de
-los planes (acceso, promoción, formación, igualdad retributiva, conciliación, protección frente
-al acoso, seguimiento y evaluación) y ordenó crear un Registro de Planes de Igualdad en las
-Empresas andaluz, conectado con el registro estatal de convenios. El Decreto-ley 3/2024 (en
+Cadena: el artículo tiene tres redacciones. La de 2007, que la Ley 9/2018 mantuvo, fijaba en el
+27.1 un contenido mínimo propio de los planes (acceso, promoción, formación, igualdad
+retributiva, conciliación, protección frente al acoso, seguimiento y evaluación); la Ley 9/2018
+añadió el 27.5, que ordenaba crear un Registro de Planes de Igualdad en las Empresas andaluz,
+conectado con el registro estatal de convenios. El Decreto-ley 3/2024 (en
 vigor desde el 17/02/2024) suprimió las dos cosas y remitió a la normativa estatal.
 
 Negociación colectiva (artículo 28). La Junta **«fomentará»** cláusulas de igualdad en la
@@ -543,7 +545,9 @@ fijan reglamentariamente (35.2).
 - Permiso (artículo 40): agotado el permiso de paternidad, el personal del sector público
   andaluz dispondrá de **«un permiso adicional irrenunciable y retribuido con una duración que,
   sumada a la del permiso de paternidad, alcance un período de descanso total de veinte
-  semanas»**, intransferible. El texto consolidado advierte que su implantación es progresiva
+  semanas»**, **«o de las que corresponda en caso de discapacidad del hijo o hija y por cada hijo
+  o hija a partir del segundo»** en los supuestos múltiples; es intransferible al otro
+  progenitor y puede disfrutarse fraccionado dentro de los doce meses siguientes. El texto consolidado advierte que su implantación es progresiva
   **«en tres anualidades»** según la disposición transitoria segunda de la Ley 9/2018. Cadena: la
   Ley 9/2018 (en vigor desde el 16/10/2018) dio esta redacción; en 2007 era un permiso de
   paternidad **«de hasta cuatro semanas»**. Cómo encaja hoy con los permisos de la legislación
@@ -882,9 +886,11 @@ Recurso de inconstitucionalidad y STC 89/2024. Más de cincuenta diputados del g
 parlamentario Vox recurrieron los artículos 4.4, 9.1, 13.2, 20.2 y 47, apartados 2, 3.d) y 4.d)
 (recurso 6706-2022). La STC 89/2024, de 5 de junio (BOE núm. 164, de 8 de julio de 2024), falló
 que el Tribunal **«ha decidido desestimar íntegramente el recurso de inconstitucionalidad»**.
-Hay un voto particular de dos magistrados sobre el artículo 13.2 (financiación pública de los
-centros educativos), que lo discuten en relación con la educación diferenciada por sexos. El
-texto de la ley no cambia.
+Lleva tres votos particulares: el de los magistrados Enríquez Sancho y Tolosa Tribiño, que
+discrepa de la desestimación sobre el artículo 13.2 (financiación pública de los centros que
+separen al alumnado por sexo, en relación con la educación diferenciada); el de los magistrados
+Arnaldo Alcubilla y Espejel Jorquera, que se adhiere a ese y discrepa además sobre el artículo
+47.2; y uno concurrente de la magistrada Balaguer Callejón. El texto de la ley no cambia.
 
 Título competencial (disposición final octava). La mayor parte de la ley son condiciones
 básicas del artículo 149.1.1.ª CE; los artículos 9 a 11 son legislación laboral (149.1.7.ª);
@@ -1381,7 +1387,7 @@ Competencia y procedimiento (artículo 52). Cada Administración en su ámbito (
 plazo máximo para notificar la resolución **«será de seis meses»**, y la resolución señala el plazo para cumplirla **«sin que
 pueda ser inferior a quince ni superior a treinta días.»** (52.2). Si la infracción la comete una
 autoridad o empleado público, se adoptan medidas provisionales y se abre procedimiento
-disciplinario (52.3). En la AGE el procedimiento se inicia **«siempre de oficio»** y resuelve la
+disciplinario (52.3). En la AGE, salvo en el orden social, el procedimiento se inicia **«siempre de oficio»** y resuelve la
 persona titular del Ministerio competente por razón de la materia; **«cuando se trate de
 infracciones muy graves, y el importe de la sanción impuesta exceda los 300.000 euros, se
 requerirá acuerdo del Consejo de Ministros.»** (52.4).
