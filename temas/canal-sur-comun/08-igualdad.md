@@ -9,7 +9,7 @@
 | **Fuente** | Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía · Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación · Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI |
 | **Identificador** | `BOE-A-2008-2492` · BOJA núm. 247, de 18/12/2007, y BOE núm. 38, de 13/02/2008 · `BOE-A-2022-11589` · BOE núm. 167, de 13/07/2022 · `BOE-A-2023-5366` · BOE núm. 51, de 01/03/2023 |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 12/2007 ha sido modificada por la Ley 9/2018, de 8 de octubre (en vigor desde el 16/10/2018), y por el Decreto-ley 3/2024, de 6 de febrero (en vigor desde el 17/02/2024). La Ley 15/2022 y la Ley 4/2023 conservan su redacción original |
-| **Extensión** | 21.045 palabras |
+| **Extensión** | 21.254 palabras |
 
 <!-- /portada -->
 
