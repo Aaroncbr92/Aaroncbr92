@@ -53,8 +53,8 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
   Relaciones Laborales (Consejería de Economía, Innovación, Ciencia y Empleo), «**por la que se
   ordena la inscripción, depósito y publicación del Convenio Colectivo de la empresa Agencia
   Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur
-  Radio, S.A., y Canal Sur Televisión, S.A.**». Publicada en el **BOJA núm. 240, de 10 de diciembre
-  de 2014**, sección 3 («Otras disposiciones»), páginas 49 a 213.
+  Radio, S.A., y Canal Sur Televisión, S.A.**». Publicada en el BOJA núm. 240, de 10 de diciembre
+  de 2014, sección 3 («Otras disposiciones»), páginas 49 a 213.
 - *Código del convenio*: **71000253011989**.
 - *Firma y ratificación*: suscrito por la representación de la empresa y la de los trabajadores
   «**con fecha 23 de mayo de 2014 y ratificado el 9 de julio de 2014**».
@@ -70,7 +70,7 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
   TV, S.A., Y SUS TRABAJADORES/AS**».
 
 El enunciado del programa lo abrevia como «**X Convenio Colectivo Interprovincial de RTVA y sus
-sociedades filiales». La base 2.1 de la convocatoria de 2026 lo cita como «X Convenio Colectivo
+sociedades filiales**». La base 2.1 de la convocatoria de 2026 lo cita como «**X Convenio Colectivo
 Interprovincial de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus
 sociedades filiales**» y dice que el proceso selectivo se regirá por él.
 
@@ -130,12 +130,12 @@ mantenimiento de la vigencia del apartado 3 presupone **denuncia**. Lo que const
   (TEXTO NUEVO)**», inscrito el 10/12/2014, con vigencia del 01/01/2013 al 31/12/2015. Los otros
   cuatro (una denuncia de 23/10/2012, una promoción de negociación de 11/12/2012, un «**ACUERDO
   AMPLIACIÓN ULTRAACTIVIDAD**» de 05/02/2014 y el texto de 11/02/2011) llevan la vigencia
-  01/01/2010-31/12/2012, que es la del convenio anterior, el IX. **Del X Convenio no hay inscrita
-  ninguna denuncia, ni promoción de negociación, ni revisión salarial, ni modificación.**
+  01/01/2010-31/12/2012, que es la del convenio anterior, el IX. Del X Convenio no hay inscrita
+  ninguna denuncia, ni promoción de negociación, ni revisión salarial, ni modificación.
 - **Cámara de Cuentas de Andalucía**, informe de fiscalización operativa y de cumplimiento de la
   RTVA y CSRTV del ejercicio 2018 (Resolución de 9 de febrero de 2021, BOJA núm. 36, de 23 de
   febrero de 2021), punto 234: «**El X Convenio Colectivo que se
-  encuentra actualmente en vigor está prorrogado.» Y añade que «En términos generales es el
+  encuentra actualmente en vigor está prorrogado.**» Y añade que «**En términos generales es el
   mismo texto desde que se creó la empresa y regula las condiciones laborales del personal de la
   radio, de la televisión y de la agencia.**»
 - *La empresa lo trata hoy como vigente*: el Reglamento de la Mesa de Contratación habla del
@@ -147,8 +147,8 @@ mantenimiento de la vigencia del apartado 3 presupone **denuncia**. Lo que const
   ni acuerdos de la comisión negociadora), y los portales de transparencia de la RTVA y de CSRTV
   publican el mismo BOJA de 2014 como texto del convenio.
 
-Conclusión que se puede afirmar: **el X Convenio está prorrogado por falta de denuncia inscrita,
-conforme a su artículo 5, y su texto es hoy el publicado en 2014.** Lo que no se ha podido
+Conclusión que se puede afirmar: el X Convenio está prorrogado por falta de denuncia inscrita,
+conforme a su artículo 5, y su texto es hoy el publicado en 2014. Lo que no se ha podido
 confirmar, y por eso el tema no lo afirma: si alguna parte lo denunció sin inscribir la denuncia,
 o si hay abierta la negociación de un XI Convenio.
 
@@ -160,12 +160,12 @@ Televisión, S.A. Después se fusionaron:
 - **Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno** (BOJA núm. 219, de 11 de
   noviembre de 2015), apartado primero.1: «**Se autoriza la fusión por absorción de «Canal Sur
   Televisión, S.A.» (sociedad absorbente) y «Canal Sur Radio, S.A.» (sociedad absorbida), con
-  extinción de ésta última». La denominación de la absorbente pasa a ser «Canal Sur Radio y
+  extinción de ésta última**». La denominación de la absorbente pasa a ser «**Canal Sur Radio y
   Televisión, S.A. (Canal Sur)**».
 - **Cámara de Cuentas**, informe citado, punto 8: la fusión se aprobó por las juntas generales el
-  **23 de febrero de 2016** y la escritura se inscribió en el Registro Mercantil de Sevilla **con
-  efectos 1 de abril de 2016**, «**pasándose a denominar la sociedad absorbente, Canal Sur Radio y
-  Televisión S.A. (CSRTV)». La Cámara subraya que el convenio se publicó «previo por tanto al
+  **23 de febrero de 2016** y la escritura se inscribió en el Registro Mercantil de Sevilla con
+  efectos 1 de abril de 2016, «**pasándose a denominar la sociedad absorbente, Canal Sur Radio y
+  Televisión S.A. (CSRTV)**». La Cámara subraya que el convenio se publicó «**previo por tanto al
   proceso de fusión**» (punto 234).
 
 Por eso el texto del convenio sigue hablando de «**sus Sociedades Filiales**», en plural, mientras
@@ -235,8 +235,8 @@ el número tal como aparece:
 - *Artículo 21.3.6.a)*: dentro del propio artículo 21 dice «**con los efectos previstos en el
   artículo 21**».
 - Artículo 58.1 y la resolución de publicación citan el **Real Decreto Legislativo 1/1995**, el
-  Estatuto de 1995, hoy derogado. El comité intercentros está hoy en el **artículo 63.3 del ET de
-  2015, con el mismo tope: «Solo por convenio colectivo podrá pactarse la constitución y
+  Estatuto de 1995, hoy derogado. El comité intercentros está hoy en el artículo 63.3 del ET de
+  2015, con el mismo tope: «**Solo por convenio colectivo podrá pactarse la constitución y
   funcionamiento de un comité intercentros con un máximo de trece miembros, que serán designados
   de entre los componentes de los distintos comités de centro.**»
 - **Artículo 71**: remite al «**artículo 60.2 del Estatuto de los Trabajadores**»; el número
@@ -278,9 +278,9 @@ modifica el articulado; lo desarrolla en estos puntos:
   superior grupo profesional o puesto de trabajo**».
 - *DT cuarta*: para la próxima convocatoria de promoción interna fija una formación mínima por
   nivel (B01, «**Licenciatura o Grado + Máster oficial**»; B02, «**Grado universitario/
-  Diplomatura/Ingeniería Técnica»; B03, «Grado Formativo Superior (FP Superior o
-  equivalente)/Diplomatura/Ingeniería Técnica»; B04, «Grado Formativo (FP Grado Medio o
-  equivalente)»; B05, «ESO, Bachillerato o Grado Básico**») y una experiencia mínima en la
+  Diplomatura/Ingeniería Técnica**»; B03, «**Grado Formativo Superior (FP Superior o
+  equivalente)/Diplomatura/Ingeniería Técnica**»; B04, «**Grado Formativo (FP Grado Medio o
+  equivalente)**»; B05, «**ESO, Bachillerato o Grado Básico**») y una experiencia mínima en la
   misma ocupación tipo (B02, 48 meses; B03, 36; B04, 24; B05, 12). El artículo 18 del convenio
   solo exige capacidad, conocimiento y titulación o requisitos necesarios y seis meses de
   antigüedad.
@@ -388,10 +388,10 @@ a la representación de los trabajadores.
      habitualmente el fin de semana (personal de fin de semana, de deportes o con programa en
      sábado o domingo); la rotación la fija la empresa de acuerdo con los representantes;
   5. procesos productivos especiales de menos de siete días (**Navidad, Fin de Año, Virgen de la
-     Cabeza, Gala 28-F, Carnavales y Ferias): cómputo semanal de 35 horas**; el exceso se abona,
+     Cabeza, Gala 28-F, Carnavales y Ferias**): cómputo semanal de **35 horas**; el exceso se abona,
      a elección del trabajador, en descanso (art. 14) o «**al módulo de 17,17 € brutos/hora**»;
   6. procesos de más de siete y menos de quince días (**Semana Santa, Carnavales, Rocío y
-     Ferias): lo mismo, pero con cómputo bisemanal, «esto es a razón de 70 horas**»;
+     Ferias**): lo mismo, pero con cómputo bisemanal, «**esto es a razón de 70 horas**»;
   7. permuta de turno entre dos trabajadores de mutuo acuerdo y con aprobación de la empresa; la
      negativa «**deberá estar motivada por escrito**»;
   8. rotación de turnos por áreas previa negociación; sin acuerdo, «**una rotación máxima de tres
@@ -423,7 +423,7 @@ ordinaria de treinta y siete horas y media, y se añade un horario flexible.
   mes de **agosto** (en contratos de menos de seis meses, el promedio de los meses contratados).
 - **Período** (apdo. 2): «**en los meses de verano (julio, agosto y septiembre, con las
   excepciones previstas en el artículo 33 letra i) preferentemente en los meses de julio y
-  agosto». Si la empresa exige disfrutarlas fuera de ese período, compensación «del 12% del
+  agosto**». Si la empresa exige disfrutarlas fuera de ese período, compensación «**del 12% del
   salario base mensual, más tres días hábiles de vacaciones**» o la parte proporcional. El turno
   solo puede cambiarse por acuerdo con el trabajador o si no se encuentra sustituto en los
   organismos oficiales o la bolsa de trabajo.
@@ -498,14 +498,14 @@ destino.
 
 Pueden optar los fijos que quieran cambiar de grupo profesional, si acreditan capacidad,
 conocimiento y titulación o requisitos necesarios y «**una antigüedad en la Empresa de al menos
-seis meses». Plazo mínimo de solicitudes: «diez días naturales**». Requisitos y condiciones los
+seis meses**». Plazo mínimo de solicitudes: «**diez días naturales**». Requisitos y condiciones los
 fija la Mesa de Contratación y, en su caso, el Tribunal; la fase se hace «**mediante concurso de
 méritos, una vez efectuado el correspondiente concurso de traslado**».
 
 #### Artículo 19. Concurso oposición libre
 
 Cubre lo que no se haya cubierto «**en las fases precedentes contempladas en los artículos 16 a
-18». Puede optar también el personal de la empresa «en situación de activo o excedente**». La
+18**». Puede optar también el personal de la empresa «**en situación de activo o excedente**». La
 convocatoria fija el número de vacantes, puesto, nivel salarial, formalidades y requisitos,
 temarios y tipos de pruebas.
 
@@ -558,7 +558,7 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   si el trabajador lo pide, negociación de una alternativa en los quince días siguientes.
 - 3.4: opción entre el traslado con compensación de gastos o la extinción del contrato con
   indemnización «**como si tratara de extinción autorizada por causas tecnológicas o
-  económicas»; plazo de incorporación «no será inferior al de treinta días naturales**».
+  económicas**»; plazo de incorporación «**no será inferior al de treinta días naturales**».
 - 3.5: el cónyuge o conviviente que también trabaje en la empresa tiene derecho al traslado a la
   misma localidad si hay vacante de su grupo.
 - 3.6, garantías: conserva puesto, nivel y retribución; sin acuerdo en consultas, puede acudir a la
@@ -567,14 +567,14 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   resultará ejecutiva hasta que no concluya la mediación**»; y el puesto que deja no puede
   cubrirse «**durante un período mínimo de dos años**», con preferencia del trasladado para volver.
 - 3.7, tres excepciones al traslado forzoso: a) quienes «**hayan cumplido cuarenta y ocho o más
-  años»; b) el traslado por motivos disciplinarios; c) los representantes legales «hasta pasado
+  años**»; b) el traslado por motivos disciplinarios; c) los representantes legales «**hasta pasado
   dos años desde el cese de su actividad**».
 - 3.8, criterios: la plaza más cercana (y si en los tres últimos años ya se cubrió otra vacante con
   gente de ese centro, el siguiente más cercano); dentro del centro, el de **menor antigüedad**; a
   igual antigüedad, tener menos cargas familiares y no estar estudiando ese curso.
 
 *B. Traslados forzosos temporales*: por razones técnicas, organizativas o de producción, «**hasta
-el límite de un año», con salarios, gastos de viaje y dietas. Si pasan de tres meses, «un mínimo
+el límite de un año**», con salarios, gastos de viaje y dietas. Si pasan de tres meses, «**un mínimo
 de cuatro días laborables de estancia en su domicilio de origen por cada tres meses**», sin contar
 los de viaje. Agotados los doce meses, no puede repetirse durante al menos «**cuatro años**». Tienen
 las mismas garantías, excepciones y criterios que el traslado forzoso, y el puesto no se cubre
@@ -586,7 +586,7 @@ perjuicio de la ejecutividad de la decisión**».
 #### Artículo 22. Permuta de puestos de trabajo
 
 Cambio de puesto por mutuo acuerdo entre la empresa y dos trabajadores «**de igual puesto de
-trabajo» y fijos, «aunque presten sus servicios en distintas Empresas**», con las pruebas de
+trabajo**» y fijos, «**aunque presten sus servicios en distintas Empresas**», con las pruebas de
 aptitud que correspondan.
 
 #### Artículo 23. Períodos de prueba
@@ -612,7 +612,7 @@ aptitud que correspondan.
 #### Artículo 25. Salud laboral
 
 Comités de seguridad y salud laboral en todos los centros «**que cuenten con 50 ó más
-trabajadores/as», con las competencias del artículo 39** de la Ley 31/1995, de Prevención de
+trabajadores/as**», con las competencias del **artículo 39** de la Ley 31/1995, de Prevención de
 Riesgos Laborales.
 
 #### Artículo 26. Comité de Salud Laboral
@@ -673,8 +673,8 @@ de Aznalfarache. La empresa presta además un servicio de asistencia sanitaria.
 
 Además de las del ET, «**que se aplicarán en sus propios términos**», es obligatorio conceder la
 excedencia a quien tenga «**al menos un año de antigüedad**» y la pida por escrito «**en un plazo
-anterior a los treinta días del disfrute de la misma», especificando la modalidad. Hay tres
-modalidades**: voluntaria, forzosa y especial.
+anterior a los treinta días del disfrute de la misma**», especificando la modalidad. Hay tres
+modalidades: voluntaria, forzosa y especial.
 
 **I. Excedencia voluntaria**
 
@@ -730,7 +730,7 @@ más favorable; **D**, reducciones de jornada; **E**, licencias no retribuidas; 
 #### Artículo 34. Plantilla y registro de personal
 
 La empresa da a la representación de los trabajadores la plantilla «**actualizada al uno de Enero
-de cada año**», con **siete datos** como mínimo: nombre y apellidos; antigüedad; grupo; puesto;
+de cada año**», con siete datos como mínimo: nombre y apellidos; antigüedad; grupo; puesto;
 nivel; fecha de nombramiento o promoción; número de registro personal. La publica «**en los tres
 primeros meses del año**» en sitios visibles; los errores los resuelve la Dirección de
 Organización, RR.HH. y Servicios Generales.
@@ -819,8 +819,8 @@ laboral.
 
 #### Artículo 42. Anticipos
 
-- *A cuenta de la nómina*: con «**al menos seis meses de antigüedad**», hasta «**el 90% de la
-  última mensualidad ordinaria percibida», a devolver en «hasta tres meses**»; no se concede
+- *A cuenta de la nómina*: con «**al menos seis meses de antigüedad**», hasta el «**90% de la
+  última mensualidad ordinaria percibida**», a devolver en «**hasta tres meses**»; no se concede
   otro hasta cancelar el anterior.
 - **Anticipo personal**: «**tres mensualidades netas reintegrables, sin interés, en 18 meses**» para
   los fijos, y en lo que quede de contrato para los temporales; sujeto a la tesorería; lo regula la
@@ -851,7 +851,7 @@ Acuerdo de colaboración negociado **anualmente** con la directiva del Grupo de 
   con cinco años de antigüedad y «**entre los 57 y 59 años inclusive**», con una partida de
   «**150.000 euros anuales, no acumulables**».
 - *Plan de pensiones* («RTVA, Plan de Pensiones»): aportaciones incrementadas un **cinco por
-  ciento, en importes anuales de B01, 373,35 €; B02, 346,69 €; B03, 320,02 €**; B04,
+  ciento**, en importes anuales de B01, **373,35 €**; B02, **346,69 €**; B03, **320,02 €**; B04,
   **293,36 €**; B05, **266,68 €**.
 
 *Relacionado con la DT 4.ª* (amortización de plazas por jubilación y jubilación parcial). Sobre
@@ -957,7 +957,7 @@ revisables según la DA 1.ª.
   nocturnidad, mando orgánico, disponibilidad, turnicidad, polivalencia, especial responsabilidad,
   idioma, calidad y penosidad) del semestre anterior.
 - *Marzo y septiembre*: del 25 al 30 de esos meses, «**a razón de quince días de salario base más
-  antigüedad». En marzo, además, «la cantidad bruta lineal de 300,51 euros**»; y durante la
+  antigüedad**». En marzo, además, «**la cantidad bruta lineal de 300,51 euros**»; y durante la
   vigencia del X Convenio, «**750 euros**» en la de septiembre.
 - Se devengan en proporción al tiempo en la empresa; quien no lleve seis meses las cobra prorrateadas
   por semestres naturales.
@@ -1004,7 +1004,7 @@ garantías del Comité de Empresa y «**28 horas de licencia retribuida**» al m
 - Composición: «**De 50 a 100 trabajadores/as: 5 miembros.**»; «**De 100 a 250 trabajadores/as: 9
   miembros.**»; «**De 251 a 500 trabajadores/as: 13 miembros.**»
 - Horas retribuidas: «**De 50 a 250 trabajadores/as: 30 horas/mes.**»; «**De 251 en adelante: 45
-  horas/mes.» Acumulables «en cómputo anual por candidatura**»; las secciones sindicales pueden
+  horas/mes.**» Acumulables «**en cómputo anual por candidatura**»; las secciones sindicales pueden
   usarlas para apoyo administrativo de trabajadores fijos.
 - No computan las reuniones convocadas por la empresa ni las de negociación del convenio.
 
@@ -1015,7 +1015,7 @@ Además de las legales: **A.** ser informado de la evolución general y previsio
 formación, de la organización del trabajo, de la programación («**con una antelación de dos meses**»),
 de absentismo y siniestralidad, de contrataciones y ceses, y de las sanciones; **B.** recibir los
 modelos de contrato; **C.** vigilar el cumplimiento de la normativa, con «**capacidad procesal como
-órgano colegiado» por decisión mayoritaria; D.** velar por la legalidad y la no discriminación en
+órgano colegiado**» por decisión mayoritaria; **D.** velar por la legalidad y la no discriminación en
 la selección; **E.** proponer medidas de organización y mejoras técnicas; **F.** reunión
 **trimestral** con la dirección de RR.HH. para informar de las contrataciones civiles del trimestre
 anterior.
@@ -1215,7 +1215,7 @@ cuadro que figura en el Anexo I**», que es la tabla de antigüedad) y en dos fi
 Anexo III («cuadro de luminotecnia» y «cuadro de imagen»). Ningún anexo trata de permisos.
 
 La regulación está en el **artículo 33**, «**Licencias, permisos, reducciones de jornada y
-facilidades para estudios», y la modifica la disposición transitoria tercera**. Por eso este
+facilidades para estudios**», y la modifica la **disposición transitoria tercera**. Por eso este
 epígrafe transcribe literalmente los dos textos y después los ordena en un cuadro-resumen propio.
 Las materias vecinas que no están en el artículo 33 van al final del cuadro con su artículo:
 vacaciones (art. 13 y DT 2.ª), excedencias (art. 32) y crédito horario de los representantes
@@ -1419,10 +1419,10 @@ Tres cosas que hay que saber para leerla:
   3/2012, la DT 3.ª no cita ningún precepto. La materia es la del artículo 26 de la Ley 3/2012,
   rotulado «**Vacaciones y permisos**», que en su redacción original sometía las vacaciones y
   permisos del personal de las entidades instrumentales a los artículos 48 y 50 del Estatuto
-  Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012. **Ese artículo 26 está
-  derogado desde el 1 de enero de 2025** por la disposición derogatoria única, letra e), de la Ley
-  7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2025. **No
-  se ha podido confirmar** si, a raíz de esa derogación, la RTVA y CSRTV han vuelto a aplicar el
+  Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012. Ese artículo 26 está
+  derogado desde el 1 de enero de 2025 por la disposición derogatoria única, letra e), de la Ley
+  7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2025. No
+  se ha podido confirmar si, a raíz de esa derogación, la RTVA y CSRTV han vuelto a aplicar el
   artículo 33 en su redacción original: no hay acuerdo publicado ni inscrito que lo diga. Lo seguro
   es el texto del artículo 33, el de la DT 3.ª y la derogación del artículo 26.
 
@@ -1609,7 +1609,7 @@ El párrafo que las encabeza, literal:
 Es decir, las transitorias no modifican el articulado: dicen qué partes quedan suspendidas y
 sustituidas por las medidas de 2012 mientras esas medidas estén vigentes. La Ley 3/2012 se
 aplica, según su artículo 3.c), a «**Las agencias públicas empresariales, sociedades mercantiles
-del sector público andaluz», y su artículo 5 suspende las cláusulas de los convenios «que
+del sector público andaluz**», y su artículo 5 suspende las cláusulas de los convenios «**que
 contradigan lo dispuesto en la presente Ley**». Por eso lo que hoy valga cada transitoria depende
 de cómo esté cada precepto de esa ley, y eso ha ido cambiando por las leyes de presupuestos.
 
@@ -1633,7 +1633,7 @@ de cómo esté cada precepto de esa ley, y eso ha ido cambiando por las leyes de
 *Segunda. Vacaciones*: conforme al artículo 26 de la Ley 3/2012, las vacaciones del artículo 13
 se ajustan a los artículos 48 y 50 del Estatuto Básico del Empleado Público en la redacción del
 Real Decreto-ley 20/2012 y «**serán de 22 días hábiles, sin computar los sábados, por año
-completo»; hasta 5** de ellos pueden tomarse sueltos y acumularse a los asuntos propios.
+completo**»; hasta **5** de ellos pueden tomarse sueltos y acumularse a los asuntos propios.
 
 *Tercera. Permisos*: transcrita y comentada en «Cuadro de licencias y permisos».
 
@@ -1650,8 +1650,8 @@ de enero de 2019**».
   «**en un diez por ciento (10%)**» (art. 23.1 de la Ley 3/2012).
 - B) Antigüedad: conforme al artículo 19 de la Ley 3/2012, el complemento del artículo 49.3 y del
   Anexo I queda como dice el apartado siguiente.
-- C) Reducción del 5 % de la masa salarial: incorpora al convenio el acuerdo de **13 de junio de
-  2013**, con efectos desde el 1 de enero de 2013, al amparo del Decreto-ley 2/2010, de 28 de mayo,
+- C) Reducción del 5 % de la masa salarial: incorpora al convenio el acuerdo de 13 de junio de
+  2013, con efectos desde el 1 de enero de 2013, al amparo del Decreto-ley 2/2010, de 28 de mayo,
   del artículo 14 de la Ley 5/2012, de Presupuestos para 2013, y del artículo 24 de la Ley 3/2012.
   Calcula un «**Valor Objetivo de Retribución (VOR)**» por trabajador, le aplica un «**tipo medio de
   descuento**» por tramos (sin descuento hasta 22.000 €; hasta el 8,30 % en el tramo de más de
@@ -1702,11 +1702,11 @@ lo suspendido.
 Dónde está hoy cada base legal (preceptos de la Ley 3/2012 leídos en su redacción vigente el 24
 de septiembre de 2026):
 
-- La **Ley 7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
-  2025**, en vigor el 1 de enero de 2025, dispone en su disposición derogatoria única, letra e), que
+- La Ley 7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
+  2025, en vigor el 1 de enero de 2025, dispone en su disposición derogatoria única, letra e), que
   quedan derogados «**Los artículos 6, 13, 16, 17, 21, 26 y 32 de la Ley 3/2012**».
-- La **Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
-  2026, disposición adicional cuarta: «durante el año 2026 solo se mantendrá la aplicación de las
+- La Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
+  2026, disposición adicional cuarta: «**durante el año 2026 solo se mantendrá la aplicación de las
   medidas contenidas en los artículos 15, 18, 19, 22, 27, 28.2 y 29 de la Ley 3/2012, de 21 de
   septiembre, tras la revisión prevista en su artículo 4.**» Para 2025, la disposición adicional
   cuarta de la Ley 7/2024 decía lo mismo con el artículo 28 entero.
@@ -1768,8 +1768,8 @@ y el de direcciones territoriales salen 1.529 (suma del tema).
 ### Anexo III. Definición de funciones
 
 Fichas de puesto (a las que remite la DA 8.ª), con los campos «**CÓDIGO PUESTO**», «**DENOMINACION DEL
-PUESTO», dirección y departamento, «OBJETO O FUNCIÓN BÁSICA DEL PUESTO**» y «**TAREAS MÁS
-SIGNIFICATIVAS DEL PUESTO». Contadas por el campo de código, son 114** fichas. Es el anexo que
+PUESTO**», dirección y departamento, «**OBJETO O FUNCIÓN BÁSICA DEL PUESTO**» y «**TAREAS MÁS
+SIGNIFICATIVAS DEL PUESTO**». Contadas por el campo de código, son **114** fichas. Es el anexo que
 ocupa la mayor parte del BOJA (páginas 100 a 213) y el que la convocatoria de 2026 cita para el
 requisito de capacidad funcional (base 6.3).
 

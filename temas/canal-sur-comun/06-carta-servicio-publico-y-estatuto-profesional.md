@@ -9,7 +9,7 @@
 | **Fuente** | Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029, aprobada por el Pleno del Parlamento de Andalucía el 14 de diciembre de 2023; Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA |
 | **Identificador** | Carta: BOJA núm. 247, de 28/12/2023 (Resolución de 15 de diciembre de 2023, del Letrado Mayor del Parlamento de Andalucía). Ley 18/2007: `BOE-A-2008-1185` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Carta no ha sido modificada; de la Ley 18/2007, el artículo 8 y la exposición de motivos están en la redacción de la Ley 2/2019, aplicable desde el 28/06/2019, y el resto de los preceptos citados conserva la original |
-| **Extensión** | 12.361 palabras |
+| **Extensión** | 13.003 palabras |
 
 <!-- /portada -->
 
@@ -56,6 +56,7 @@ de número de artículo.
   - [Estructura](#estructura)
   - [Relación con el contrato-programa](#relación-con-el-contrato-programa)
   - [Control del cumplimiento](#control-del-cumplimiento)
+  - [Repaso del articulado de la Carta, artículo por artículo](#repaso-del-articulado-de-la-carta-artículo-por-artículo)
 - [Misión de servicio público audiovisual](#misión-de-servicio-público-audiovisual)
 - [Pluralismo](#pluralismo)
 - [Veracidad](#veracidad)
@@ -63,7 +64,6 @@ de número de artículo.
 - [Cohesión territorial](#cohesión-territorial)
 - [Cultura andaluza](#cultura-andaluza)
 - [Atención a la ciudadanía](#atención-a-la-ciudadanía)
-- [Repaso del articulado de la Carta, artículo por artículo](#repaso-del-articulado-de-la-carta-artículo-por-artículo)
 - [Estatuto profesional de la RTVA y Canal Sur](#estatuto-profesional-de-la-rtva-y-canal-sur)
   - [Lo que dice la Ley 18/2007](#lo-que-dice-la-ley-182007)
   - [Lo que dice la Carta](#lo-que-dice-la-carta)
@@ -237,8 +237,8 @@ de Gobierno de la Junta de Andalucía con la RTVA.**» En los seis años de vige
 Carta caben, pues, dos contratos-programa trienales, aunque la ley no los cuenta así: la Carta
 se prorroga si no se aprueba otra (disposición final segunda), y el contrato-programa
 2024-2026 prevé también que se proponga la prórroga de su vigencia (su cláusula segunda remite
-al punto 7 de la cláusula octava). El contenido mínimo del contrato-programa son cuatro materias (art.
-8.2): a) las actividades y objetivos específicos; b) las compensaciones económicas anuales con
+al punto 7 de la cláusula octava). El contenido mínimo del contrato-programa son cuatro
+materias (art. 8.2 de la ley): a) las actividades y objetivos específicos; b) las compensaciones económicas anuales con
 cargo a los Presupuestos de la Comunidad Autónoma, que garanticen «**su financiación estable y
 suficiente, el mantenimiento de la plantilla, así como la renovación tecnológica**»; c) los
 mecanismos para adaptar el coste a las variaciones de la realidad económica y del sector; y d)
@@ -253,7 +253,7 @@ por Acuerdo de 19 de diciembre de 2023, del Consejo de Gobierno, y publicado en 
 245, de 26 de diciembre de 2023. Su cláusula segunda fija su vigencia entre el 1 de enero de
 2024 y el 31 de diciembre de 2026.
 
-Las dos normas también se enlazan en las competencias de los órganos de la RTVA: el Consejo
+La Carta y el contrato-programa también se enlazan en las competencias de los órganos de la RTVA: el Consejo
 de Administración aprueba el plan de actividades «**de acuerdo y en cumplimiento tanto de la
 Carta del Servicio Público como del Contrato-Programa en vigor**» (art. 17.1.b de la Ley
 18/2007); la Dirección General ordena la programación «**en cumplimiento de lo dispuesto en la
@@ -541,8 +541,8 @@ preguntarse.
   potenciar la actuación de los medios públicos de titularidad autonómica de España como a la
   obtención de mejoras y reducción de costes en la adquisición de bienes, producciones y
   servicios audiovisuales, y una mejor explotación de la actividad comercial conjunta**»; y
-  valorarán su incorporación a organizaciones europeas de entidades audiovisuales públicas. 34.4: divulgación de servicios
-  emergentes y formación de profesionales del sector en capacidades digitales.
+  valorarán su incorporación a organizaciones europeas de entidades audiovisuales públicas.
+  34.4: divulgación de servicios emergentes y formación de profesionales del sector en capacidades digitales.
 - *Art. 35. Racionalización de infraestructuras y sedes.* 35.1: reordenar infraestructuras y
   centros de producción para reducir costes. 35.2: sede e instalaciones en la provincia de
   Sevilla, centros de producción en las demás provincias y «**Delegación en la ciudad de
@@ -721,17 +721,16 @@ responsabilidad editorial de la obra**» (art. 24.2.a).
   instituciones democráticas se producirán «**Bajo el criterio profesional del interés
   informativo y utilidad social**» (art. 13.7).
 - Garantía interna: el Consejo Profesional y el Estatuto Profesional (art. 13.10, citado en el
-  epígrafe de pluralismo).
+  epígrafe del Estatuto profesional).
 - Sujeción a la deontología profesional y a los códigos de autorregulación (art. 10.1).
 
 *Lo que dicen la Ley 18/2007 y el EAA.*
 
-- El Estatuto profesional es «**un instrumento destinado a garantizar la profesionalidad e
-  independencia tanto de los profesionales de la información como de los contenidos y
-  programas de los servicios informativos**» (art. 10.1; se desarrolla en el último epígrafe).
-  La exposición de motivos de la ley lo presenta como una novedad que obedece a «**la voluntad
-  de fortalecer la independencia y neutralidad de los profesionales de la información de los
-  medios de comunicación de la RTVA, sometidos a un Estatuto de sólida base democrática**».
+- El Estatuto profesional es el instrumento que garantiza la profesionalidad e independencia
+  de los profesionales de la información y de los contenidos y programas de los servicios
+  informativos (art. 10.1). La exposición de motivos de la ley lo presenta como una novedad
+  para fortalecer la independencia y neutralidad de esos profesionales. Las dos citas
+  literales, en el epígrafe del Estatuto profesional (último del tema).
 - Independencia de la entidad: la RTVA goza de autonomía en su gestión, organización y
   funcionamiento y, «**en el marco de un Contrato-Programa, regulado en el artículo 8 de esta
   Ley, actuará con independencia funcional respecto del Consejo de Gobierno de la Junta de
@@ -982,8 +981,9 @@ reserva la mayoría absoluta a los acuerdos de las letras b), d), f), h) e i).
 *Otras menciones en la ley.* El derecho de acceso se regula «**sin menoscabo de los
 principios de independencia y profesionalidad garantizados en el artículo 10.1 de esta Ley**»
 (art. 33.2). Y la exposición de motivos presenta el Estatuto como una novedad de la ley, que
-obedece a la voluntad de fortalecer la independencia y neutralidad de los profesionales de la
-información, «**sometidos a un Estatuto de sólida base democrática**».
+obedece a «**la voluntad de fortalecer la independencia y neutralidad de los profesionales de
+la información de los medios de comunicación de la RTVA, sometidos a un Estatuto de sólida
+base democrática**».
 
 *Un desajuste de la ley con la realidad actual.* El artículo 10.2 habla de dos Consejos
 Profesionales, uno por cada filial, porque la ley se escribió con dos sociedades (art. 9). La
@@ -992,8 +992,10 @@ Carta, escrita después de la fusión, se refiere a «**su Consejo Profesional**
 
 ### Lo que dice la Carta
 
-La Carta solo lo nombra en el artículo 13.10, dentro de las garantías de pluralismo: «**La
-observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de su
+La Carta solo lo nombra en el artículo 13.10, dentro de las garantías de pluralismo. Tras
+decir que los programas y contenidos informativos quedan garantizados en su pluralismo
+democrático conforme al artículo 32 de la Ley 18/2007 (primera frase, citada en el epígrafe de
+pluralismo), sigue: «**La observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de su
 Consejo Profesional que salvaguarda y controla el cumplimiento de los principios, derechos y
 deberes de pluralismo, contemplados en el Estatuto Profesional de los Medios de Comunicación de
 la RTVA, previsto en el artículo 10.2 de la Ley 18/2007, y en el ordenamiento jurídico en su
@@ -1030,13 +1032,12 @@ Para el secreto profesional, este tema no da ley de desarrollo.
 
 ### El texto vigente no está publicado
 
-Según la prensa, que no es fuente oficial, el Consejo de Administración de la RTVA aprobó un
-nuevo Estatuto Profesional el 13 de octubre de 2020. Ese
-texto *no está publicado* en el BOJA ni en la web de la RTVA o de Canal Sur, y no ha podido
-leerse en ninguna fuente oficial. Por eso este tema *no desarrolla el Estatuto vigente*: ni
-su estructura, ni la composición del Consejo Profesional, ni el mandato de sus miembros, ni su
-régimen de derechos y deberes. Lo que se puede estudiar con seguridad es lo de los dos
-epígrafes anteriores.
+El Estatuto vigente *no está publicado* en el BOJA ni en la web de la RTVA o de Canal Sur, y
+no ha podido leerse en ninguna fuente oficial. Por eso este tema *no desarrolla el Estatuto
+vigente*: ni su estructura, ni la composición del Consejo Profesional, ni el mandato de sus
+miembros, ni su régimen de derechos y deberes. Lo que se puede estudiar con seguridad es lo de
+los tres epígrafes anteriores: lo que dicen la Ley 18/2007 y la Carta, y el marco general de la
+Constitución y la Ley Orgánica 2/1997.
 
 ### El texto anterior que enlaza la web de Canal Sur (no vigente)
 
@@ -1090,19 +1091,21 @@ en una pregunta.
 | Norma | Identificador | Redacción |
 | --- | --- | --- |
 | Carta del Servicio Público de la RTVA para el sexenio 2024-2029 | BOJA núm. 247, de 28/12/2023 (Resolución de 15 de diciembre de 2023, del Letrado Mayor del Parlamento de Andalucía) | Texto publicado, sin modificaciones; leída el 24/09/2026 |
-| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | `BOE-A-2008-1185` | Vigente el 24/09/2026. Artículo 8 y exposición de motivos en la redacción de la Ley 2/2019 (aplicable desde el 28/06/2019); los arts. 2, 3, 4, 5, 7, 9, 10, 17, 19, 28, 32, 33, 34, 35 y 36, en la original (aplicable desde el 15/01/2008) |
+| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | `BOE-A-2008-1185` | Vigente el 24/09/2026. Artículo 8 y exposición de motivos en la redacción de la Ley 2/2019 (aplicable desde el 28/06/2019); los arts. 2, 3, 4, 5, 7, 9, 10, 12, 17, 19, 23, 28, 32, 33, 34, 35 y 36, en la original (aplicable desde el 15/01/2008) |
 | Acuerdo de 19 de diciembre de 2023, del Consejo de Gobierno, por el que se aprueba el Contrato-Programa entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA para el periodo 2024-2026 | BOJA núm. 245, de 26/12/2023 | Solo en lo que la Carta remite a él (cláusulas segunda, tercera punto 87 y sexta) y en lo que su parte expositiva cuenta de la tramitación de la Carta |
 | Estatuto de Autonomía para Andalucía (Ley Orgánica 2/2007, de 19 de marzo) | `BOE-A-2007-5825` | Arts. 207, 210, 211, 212, 213 y 214, vigentes el 24/09/2026 (redacción original) |
 | Constitución Española | `BOE-A-1978-31229` | Art. 20.1.d, vigente el 24/09/2026 |
 | Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de la información | `BOE-A-1997-13374` | Arts. 1 a 3, vigentes el 24/09/2026 (redacción original, la única) |
 | Carta del Servicio Público de la RTVA de 2010 | BOJA núm. 213, de 2/11/2010 | Sin vigencia desde la aprobación de la de 2024-2029, hasta la que su art. 3 la prorrogaba; solo se cita ese artículo |
-| Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual; Ley 1/2004, de 17 de diciembre, de creación del Consejo Audiovisual de Andalucía; Ley 4/2023, de 18 de abril, Andaluza del Flamenco; Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía | — | Solo se nombran porque la Carta o la Ley 18/2007 remiten a ellas; no se estudian aquí |
+| Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual; Ley 1/2004, de 17 de diciembre, de creación del Consejo Audiovisual de Andalucía; Ley 4/2023, de 18 de abril, Andaluza del Flamenco; Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía; Decisión (UE) 2017/899 del Parlamento Europeo y del Consejo, de 17 de mayo de 2017; Directiva (UE) 2018/1808, del Parlamento Europeo y del Consejo, de 14 de noviembre de 2018; Reglamento (UE) 2022/2065, del Parlamento Europeo y del Consejo, de 19 de octubre de 2022 (Ley de Servicios Digitales) | — | Solo se nombran porque la Carta o la Ley 18/2007 remiten a ellas; no se estudian aquí |
 
 ## Lo que este tema no da, y dónde está
 
-- *El texto vigente del Estatuto profesional.* Según la prensa, no oficial, lo aprobó el Consejo
-  de Administración de la RTVA el 13 de octubre de 2020, pero no está publicado en el BOJA ni en
-  la web de la RTVA o de Canal Sur, y no se ha podido leer. Por eso el tema no da su
+- *El texto vigente del Estatuto profesional.* No está publicado en el BOJA ni en la web de la
+  RTVA o de Canal Sur, y no se ha podido leer. Una noticia de prensa, que no es fuente oficial,
+  sitúa en el 13 de octubre de 2020 la aprobación de un nuevo Estatuto por el Consejo de
+  Administración de la RTVA; es un dato no confirmado en ninguna fuente oficial, que este tema
+  no afirma y que no debe darse por bueno en una pregunta. Por eso el tema no da su
   estructura, la composición del Consejo Profesional, el mandato de sus miembros ni su régimen
   de derechos y deberes. Lo que describe del Estatuto es el texto de 2006 que aún enlaza la web
   de Canal Sur, *marcado como no vigente*, y solo en lo que ayuda a entender la figura.

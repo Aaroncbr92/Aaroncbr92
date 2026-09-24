@@ -9,7 +9,7 @@
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 · Estatuto de Autonomía para Andalucía (Ley Orgánica 2/2007, de 19 de marzo) · Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local · Ley 5/2010, de 11 de junio, de autonomía local de Andalucía · Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas · Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 · `BOE-A-2007-5825` · `BOE-A-1985-5392` · `BOE-A-2010-11491` · `BOE-A-1982-11584` · `BOE-A-1981-10325` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Constitución lleva cuatro reformas: artículo 13.2 (1992), artículo 135 (2011), artículo 49 (2024) y artículo 69.3 (en vigor desde el 20/05/2026) |
-| **Extensión** | EXTENSION |
+| **Extensión** | 34.284 palabras |
 
 <!-- /portada -->
 
@@ -809,7 +809,7 @@ de los servicios públicos del artículo 106.2.
 
 #### Capítulo quinto. De la suspensión de los derechos y libertades (art. 55)
 
-**Artículo 55.1.** *Suspensión general.* Pueden suspenderse «**cuando se acuerde la declaración del
+**Artículo 55**, apartado 1. *Suspensión general.* Pueden suspenderse «**cuando se acuerde la declaración del
 estado de excepción o de sitio en los términos previstos en la Constitución**»; nunca en el de
 alarma. Los derechos suspendibles son, exactamente:
 
@@ -826,7 +826,7 @@ para el supuesto de declaración de estado de excepción.**» Los derechos del d
 (información, no declarar, asistencia de abogado) no se suspenden en el estado de excepción;
 en el de sitio, sí.
 
-**Artículo 55.2.** *Suspensión individual.* «**Una ley orgánica podrá determinar la forma y los
+**Artículo 55**, apartado 2. *Suspensión individual.* «**Una ley orgánica podrá determinar la forma y los
 casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado
 control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados
 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones
@@ -2319,7 +2319,7 @@ asamblea compuesta por los miembros de la Diputación u órgano interinsular de 
 afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales
 para su tramitación como ley.**»
 
-**Artículo 151.2.** *Por la vía del artículo 151.* Cinco pasos:
+**Artículo 151**, apartado 2. *Por la vía del artículo 151.* Cinco pasos:
 
 1. «**El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones
    comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se
@@ -2665,9 +2665,9 @@ de revisión de oficio (LBRL, artículo 4.1).
 - Umbral para crear municipios (LBRL, artículo 13.2): sólo sobre núcleos de población
   territorialmente diferenciados «**de al menos 4.000 habitantes**» y siempre que los municipios
   resultantes sean financieramente sostenibles, tengan recursos suficientes y no se reduzca la
-  calidad de los servicios. *Qué cambió: el Real Decreto-ley 6/2023, de 19 de diciembre (en vigor
-  desde el 21-12-2023, convalidado por el Congreso en enero de 2024), bajó la cifra, que era de
-  5.000 habitantes.*
+  calidad de los servicios. *Qué cambió: el Real Decreto-ley 6/2023, de 19 de diciembre, en vigor
+  desde el 21-12-2023, bajó la cifra, que era de 5.000 habitantes. Lo convalidó el Congreso (el
+  acuerdo se publicó por Resolución de 10 de enero de 2024).*
 - Fusión (LBRL, artículo 13.4 y 13.6): los municipios colindantes de la misma provincia pueden
   fusionarse mediante convenio, que debe aprobarse «**por mayoría simple de cada uno de los plenos
   de los municipios fusionados**»; el municipio resultante «**no podrá segregarse hasta
@@ -2837,8 +2837,8 @@ de las Comunidades Autónomas**», en diecisiete materias (25.2, letras a a p, c
 Real Decreto-ley 9/2018, de 3 de agosto (en vigor desde el 05-08-2018); el apartado 6 (el
 principio de diferenciación), el Real Decreto-ley 6/2023 (desde el 21-12-2023); y la letra p), el
 Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a
-la Crisis en Oriente Medio, en vigor desde el 22-03-2026 y convalidado por el Congreso el
-26-03-2026.
+la Crisis en Oriente Medio, en vigor desde el 22-03-2026 y convalidado por el Congreso (su acuerdo se
+publicó por Resolución de 26 de marzo de 2026).
 
 El resto del artículo 25: las competencias municipales en esas materias «**se determinarán por
 Ley**», que evaluará la conveniencia de implantar servicios locales conforme a los principios de

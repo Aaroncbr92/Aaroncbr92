@@ -310,8 +310,9 @@ dedica un régimen propio:
    expresamente, con arreglo a las instrucciones recibidas. Los requisitos para acreditar la
    validez y vigencia de esos mandatos se fijan mediante real decreto.
 3. Si el fallecido era menor, pueden ejercerlas también sus representantes legales o el
-   Ministerio Fiscal, de oficio o a instancia de cualquier persona interesada. Si era una persona
-   con discapacidad, también quienes hubiesen sido designados para funciones de apoyo.
+   Ministerio Fiscal, de oficio o a instancia de cualquier persona física o jurídica interesada.
+   Si era una persona con discapacidad, también quienes hubiesen sido designados para funciones de
+   apoyo, si esas facultades se entendieran comprendidas en las medidas de apoyo prestadas.
 
 *Las definiciones están en el Reglamento.* La ley orgánica no define nada: usa las del artículo 4
 del Reglamento. Las que hacen falta para el resto del tema:
@@ -328,9 +329,11 @@ del Reglamento. Las que hacen falta para el resto del tema:
 | Encargado del tratamiento (4.8) | Quien trata datos por cuenta del responsable |
 | Destinatario (4.9) | Aquel al que se comunican los datos, sea o no un tercero. No obstante, no se consideran destinatarios las autoridades públicas que puedan recibir datos en el marco de una investigación concreta conforme al Derecho de la Unión o de los Estados miembros |
 
-Dos avisos: la seudonimización no es anonimización (el dato sigue siendo personal, solo que
-separado de la clave), y la elaboración de perfiles es siempre automatizada, algo que el
-Reglamento solo dejó claro en la corrección de errores de 2021 sobre el considerando 71.
+Dos avisos: la seudonimización no es anonimización (según el considerando 26, los datos
+seudonimizados que cabría atribuir a una persona mediante información adicional siguen siendo
+información sobre una persona identificable), y la elaboración de perfiles es siempre
+automatizada: lo dice la definición del artículo 4.4, y la corrección de errores de 2021 lo llevó
+también al considerando 71, que en la versión original no lo decía.
 
 ### Los principios
 
@@ -340,15 +343,18 @@ orgánica los da por sabidos y solo desarrolla dos de ellos.
 | | Principio | Qué exige |
 |---|---|---|
 | 5.1.a) | Licitud, lealtad y transparencia | Tratados de manera lícita, leal y transparente en relación con el interesado |
-| 5.1.b) | Limitación de la finalidad | Recogidos con fines determinados, explícitos y legítimos, y no tratados ulteriormente de manera incompatible con ellos. El tratamiento ulterior con fines de archivo en interés público, investigación científica o histórica o estadísticos no se considera incompatible |
+| 5.1.b) | Limitación de la finalidad | Recogidos con fines determinados, explícitos y legítimos, y no tratados ulteriormente de manera incompatible con ellos. El tratamiento ulterior con fines de archivo en interés público, investigación científica e histórica o estadísticos no se considera incompatible |
 | 5.1.c) | Minimización de datos | Adecuados, pertinentes y limitados a lo necesario para los fines |
 | 5.1.d) | Exactitud | Exactos y, si fuera necesario, actualizados, con todas las medidas razonables para suprimir o rectificar sin dilación los inexactos |
 | 5.1.e) | Limitación del plazo de conservación | Mantenidos de forma que permitan identificar a los interesados no más tiempo del necesario |
 | 5.1.f) | Integridad y confidencialidad | Tratados garantizando una seguridad adecuada, incluida la protección contra tratamiento no autorizado o ilícito y contra pérdida, destrucción o daño accidental |
 | 5.2 | Responsabilidad proactiva | El responsable es responsable del cumplimiento del apartado 1 y capaz de demostrarlo |
 
-El 5.2 es el que cambia el modelo: ya no basta con cumplir, hay que poder acreditarlo. De él salen
-el registro de actividades, la evaluación de impacto y el delegado de protección de datos.
+El 5.2 es el que cambia el modelo: ya no basta con cumplir, hay que poder acreditarlo. El
+preámbulo de la LOPDGDD lo llama «**principio de responsabilidad activa**» y presenta como la
+mayor novedad del Reglamento el paso de un modelo basado en el control del cumplimiento a otro
+que descansa en ese principio; las medidas de responsabilidad activa están en el capítulo IV del
+Reglamento y en el título V de la ley.
 
 *Artículo 4 de la LOPDGDD. Exactitud.* Desarrolla el 5.1.d) del Reglamento por el lado de la
 responsabilidad: no será imputable al responsable la inexactitud de los datos (siempre que haya
@@ -394,8 +400,9 @@ adecuadas, que pueden incluir el cifrado o la seudonimización.
 
 1. Consentimiento es, conforme al artículo 4.11 del Reglamento, «**toda manifestación de voluntad
    libre, específica, informada e inequívoca**» por la que el afectado acepta el tratamiento,
-   mediante una declaración o una clara acción afirmativa. Cuatro adjetivos y dos formas: no vale
-   el silencio, ni las casillas premarcadas, ni la inacción.
+   mediante una declaración o una clara acción afirmativa. Cuatro adjetivos y dos formas. El
+   considerando 32 del Reglamento lo remata: «**el silencio, las casillas ya marcadas o la
+   inacción no deben constituir consentimiento**».
 2. Si se pretende fundar el tratamiento en el consentimiento para una pluralidad de finalidades,
    ha de constar de manera específica e inequívoca que se otorga para todas ellas.
 3. No podrá supeditarse la ejecución del contrato a que el afectado consienta el tratamiento para

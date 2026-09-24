@@ -14,8 +14,8 @@
 <!-- /portada -->
 
 Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
-(RTVA); Canal Sur Radio y Televisión, S.A. (CSRTV); Unión Europea (UE); Tratado de la Unión Europea (TUE); Tratado de
-Funcionamiento de la Unión Europea (TFUE); Diario Oficial de la Unión Europea (DOUE); Convenio
+(RTVA); Canal Sur Radio y Televisión, S.A. (CSRTV); Unión Europea (UE); Tratado de la Unión
+Europea (TUE); Tratado de Funcionamiento de la Unión Europea (TFUE); Diario Oficial de la Unión Europea (DOUE); Convenio
 Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales (CEDH);
 Tribunal de Justicia de la Unión Europea (TJUE); Banco Central Europeo (BCE); Constitución
 Española (CE); Estatuto de Autonomía para Andalucía (EAA); Conferencia para Asuntos Relacionados
@@ -75,9 +75,8 @@ Comisión, que una decisión de 2013 mantuvo en un comisario por Estado.
   ejercicio de sus competencias**». Del BCE y del Tribunal de Cuentas, y del detalle de las demás
   instituciones, se ocupa el TFUE (artículo 13.3 del TUE).
 - Los protocolos y anexos no son textos menores: «**Los Protocolos y Anexos de los Tratados forman
-  parte integrante de los mismos.**» (artículo 51 del TUE). La Carta, en cambio, no es un protocolo:
-  tiene el mismo valor jurídico que los Tratados por remisión del artículo 6.1 (se ve en el epígrafe
-  de la Carta).
+  parte integrante de los mismos.**» (artículo 51 del TUE). La Carta se publica aparte, y su valor
+  jurídico, igual al de los Tratados, le viene del artículo 6.1 (se ve en el epígrafe de la Carta).
 - Duración: «**El presente Tratado se concluye por un período de tiempo ilimitado.**» (artículo 53).
 
 #### Maastricht y la entrada en vigor
@@ -130,7 +129,7 @@ cesión.**» Es el artículo por el que España entró en las Comunidades Europe
 - El artículo 52.1 del TUE enumera los Estados a los que se aplican los Tratados. En la versión
   consolidada de 2016 son veintiocho, y el último es «**el Reino Unido de Gran Bretaña e Irlanda
   del Norte**». El ámbito territorial se detalla en el artículo 355 del TFUE (artículo 52.2).
-- **Advertencia.** La versión consolidada de 2016 es la última publicada y es anterior a la
+- *Advertencia.* La versión consolidada de 2016 es la última publicada y es anterior a la
   retirada del Reino Unido. Con esa lista no se puede contar a los Estados de hoy. El Protocolo
   n.º 30, sobre la aplicación de la Carta a Polonia y al Reino Unido, sigue igualmente en el texto.
 - Lo que sí dicen fuentes posteriores: la Decisión (UE) 2023/2061 del Consejo Europeo reparte los
@@ -150,8 +149,7 @@ cesión.**» Es el artículo por el que España entró en las Comunidades Europe
   justicia, la solidaridad y la igualdad entre mujeres y hombres.**»
 - Son seis valores (dignidad humana, libertad, democracia, igualdad, Estado de Derecho y derechos
   humanos) y seis rasgos de la sociedad (pluralismo, no discriminación, tolerancia, justicia,
-  solidaridad e igualdad entre mujeres y hombres). La trampa típica es colar un rasgo entre los
-  valores, o al revés.
+  solidaridad e igualdad entre mujeres y hombres). No hay que confundir unos con otros.
 - Los valores del artículo 2 son la condición de entrada (artículo 49) y el objeto del mecanismo
   de garantía del artículo 7. La Resolución del Parlamento Europeo de 25 de noviembre de 2020,
   sobre la libertad de los medios de comunicación, recuerda que todos los Estados miembros deben
@@ -236,7 +234,7 @@ que dice hoy, y la cifra cambia cada vez que entra un Estado.
   puedan ser alcanzados de manera suficiente por los Estados miembros, ni a nivel central ni a nivel
   regional y local, sino que puedan alcanzarse mejor, debido a la dimensión o a los efectos de la
   acción pretendida, a escala de la Unión.**»
-  - Salvedad que más se pregunta: la subsidiariedad no juega en las competencias exclusivas.
+  - Salvedad: la subsidiariedad no juega en las competencias exclusivas.
   - Se aplica conforme al Protocolo (n.º 2) sobre la aplicación de los principios de subsidiariedad
     y proporcionalidad, y «**Los Parlamentos nacionales velarán por el respeto del principio de
     subsidiariedad con arreglo al procedimiento establecido en el mencionado Protocolo.**» (El
@@ -280,9 +278,8 @@ competencia de apoyo, no compartida.
 - Parlamentos nacionales (artículo 12, seis letras): reciben información y los proyectos de actos
   legislativos; velan por la subsidiariedad; participan en la evaluación del espacio de libertad,
   seguridad y justicia, y están asociados al control político de Europol y a la evaluación de
-  Eurojust; en la revisión de los Tratados
-  (artículo 48); son informados de las solicitudes de adhesión (artículo 49); y en la cooperación
-  interparlamentaria.
+  Eurojust; participan en la revisión de los Tratados (artículo 48); son informados de las
+  solicitudes de adhesión (artículo 49); y participan en la cooperación interparlamentaria.
 
 ### Las instituciones
 
@@ -297,7 +294,7 @@ competencia de apoyo, no compartida.
   TFUE (13.3).
 - No son instituciones el Comité Económico y Social ni el Comité de las Regiones: «**El Parlamento
   Europeo, el Consejo y la Comisión estarán asistidos por un Comité Económico y Social y por un
-  Comité de las Regiones que ejercerán funciones consultivas.**» (13.4). Es la trampa más repetida.
+  Comité de las Regiones que ejercerán funciones consultivas.**» (13.4).
 - Sedes (Protocolo n.º 6): el Parlamento, en Estrasburgo, donde se celebran los doce períodos de
   sesiones plenarias mensuales; el Consejo, en Bruselas, con reuniones en Luxemburgo en abril, junio
   y octubre; la Comisión, en Bruselas; el TJUE y el Tribunal de Cuentas, en Luxemburgo; el BCE, en
@@ -313,14 +310,14 @@ competencia de apoyo, no compartida.
   de seis diputados por Estado miembro. No se asignará a ningún Estado miembro más de noventa y seis
   escaños.**» La composición la fija el Consejo Europeo «**por unanimidad, a iniciativa del Parlamento
   Europeo y con su aprobación**».
-- **Cifra vigente, fijada por decisión.** La Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de
+- *Cifra vigente, fijada por decisión.* La Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de
   septiembre de 2023 (DOUE L 238, de 27 de septiembre de 2023), fija en su artículo 3 los escaños
   de la legislatura 2024-2029. Suman 720, por debajo del tope de 750 del Tratado:
-  - España, **61**.
-  - Alemania, **96**, el máximo.
-  - Chipre, Luxemburgo y Malta, **6** cada uno, el mínimo.
-  - El artículo 4 de la Decisión pide al Parlamento una propuesta de nuevo reparto para la
-    legislatura 2029-2034, «**a ser posible antes del final de 2027**».
+  - España, 61.
+  - Alemania, 96, el máximo.
+  - Chipre, Luxemburgo y Malta, 6 cada uno, el mínimo.
+  - El artículo 4 de la Decisión prevé que el Parlamento presente al Consejo Europeo una propuesta
+    de nuevo reparto para la legislatura 2029-2034, «**a ser posible antes del final de 2027**».
 - Elección: «**por sufragio universal directo, libre y secreto, para un mandato de cinco años**»
   (14.3). El Parlamento elige a su Presidente y a la Mesa de entre sus diputados (14.4).
 - Mayorías (TFUE):
@@ -402,7 +399,7 @@ competencia de apoyo, no compartida.
   correspondiente a los dos tercios del número de Estados miembros, que incluirá a su Presidente y al
   Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad, a menos que el
   Consejo Europeo decida por unanimidad modificar dicho número**».
-- **Tamaño vigente, fijado por decisión.** El Consejo Europeo usó esa salvedad. Su Decisión 2013/272/UE,
+- *Tamaño vigente, fijado por decisión.* El Consejo Europeo usó esa salvedad. Su Decisión 2013/272/UE,
   de 22 de mayo de 2013, aplicable desde el 1 de noviembre de 2014, dispone (artículo 1): «**La
   Comisión estará compuesta por un número de miembros igual al número de Estados miembros, que
   incluirá a su Presidente y al Alto Representante de la Unión para Asuntos Exteriores y Política de
@@ -454,7 +451,7 @@ No es una institución, pero es pieza de tres de ellas:
     generales.**» (artículo 252 del TFUE). El Consejo puede aumentar el número, por unanimidad, si el
     Tribunal lo pide. Su función es presentar «**con toda imparcialidad e independencia, conclusiones
     motivadas**».
-  - **Cifra fijada por decisión.** La Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, lo
+  - *Cifra fijada por decisión.* La Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, lo
     aumentó a «**nueve, con efectos a partir del 1 de julio de 2013**» y a «**once, con efectos a partir
     del 7 de octubre de 2015**». Su vigencia actual no se ha podido confirmar.
 - Tribunal General: «**al menos de un juez por Estado miembro**». El número exacto lo fija el Estatuto
@@ -567,7 +564,7 @@ No es una institución, pero es pieza de tres de ellas:
   (artículos 21 y 22), y el 2, disposiciones específicas sobre la política exterior y de seguridad
   común, con una sección 1 de disposiciones comunes (artículos 23 a 41) y una sección 2,
   «**DISPOSICIONES SOBRE LA POLÍTICA COMÚN DE SEGURIDAD Y DEFENSA**» (artículos 42 a 46).
-- El título IV tiene un solo artículo. Es la pregunta fácil de estructura.
+- El título IV tiene un solo artículo.
 - El preámbulo recoge la decisión de «**crear una Unión Europea**», la voluntad de crear «**una
   ciudadanía común a los nacionales de sus países**» y la de seguir el proceso de «**una unión cada vez
   más estrecha entre los pueblos de Europa, en la que las decisiones se tomen de la forma más próxima
@@ -735,8 +732,8 @@ FUNDAMENTALES DE LA UNIÓN EUROPEA**» (DOUE C 202, de 7 de junio de 2016, pági
   la Carta proclamada en 2000, «**a la que sustituirá a partir del día de la entrada en vigor del
   Tratado de Lisboa**».
 - Valor jurídico (artículo 6.1 del TUE): «**La Unión reconoce los derechos, libertades y principios
-  enunciados en la Carta [...], la cual tendrá el mismo valor jurídico que los Tratados.**» No está
-  dentro de los Tratados ni es un protocolo: tiene su rango por remisión.
+  enunciados en la Carta [...], la cual tendrá el mismo valor jurídico que los Tratados.**» Se
+  publica aparte de los Tratados y de sus protocolos; su rango le viene de este artículo.
 - Dos salvedades en el mismo apartado:
   - «**Las disposiciones de la Carta no ampliarán en modo alguno las competencias de la Unión tal como
     se definen en los Tratados.**»
@@ -760,8 +757,8 @@ FUNDAMENTALES DE LA UNIÓN EUROPEA**» (DOUE C 202, de 7 de junio de 2016, pági
 
 ### Estructura
 
-Un preámbulo y 54 artículos en siete títulos. Los seis primeros llevan por rúbrica un valor; el
-séptimo, las reglas de interpretación y aplicación.
+Un preámbulo y 54 artículos en siete títulos. Los seis primeros agrupan los derechos, libertades y
+principios; el séptimo, las reglas de interpretación y aplicación.
 
 | Título | Rúbrica | Artículos |
 |---|---|---|
@@ -788,7 +785,7 @@ las generaciones futuras**».
 - A quién obliga (51.1): «**Las disposiciones de la presente Carta están dirigidas a las instituciones,
   órganos y organismos de la Unión, dentro del respeto del principio de subsidiariedad, así como a los
   Estados miembros únicamente cuando apliquen el Derecho de la Unión.**»
-  - Es la salvedad que más se pregunta: a las instituciones de la Unión se dirige siempre; a los
+  - La salvedad: a las instituciones de la Unión se dirige siempre; a los
     Estados, «**únicamente**» cuando aplican el Derecho de la Unión.
   - Los obligados «**respetarán los derechos, observarán los principios y promoverán su aplicación**»,
     cada uno en sus competencias.
@@ -1145,7 +1142,7 @@ principios de subsidiariedad y proporcionalidad que establezca el Derecho Comuni
   propuesta del Consejero de la Presidencia**», y le corresponde «**Representar a la Junta de Andalucía
   ante las instituciones de la Unión Europea.**», dirigir los servicios de la Delegación y velar por el
   cumplimiento del ordenamiento en su ámbito.
-- **Vigencia no confirmada.** No se ha podido confirmar si los Decretos 164/1995 y 230/1995 siguen
+- *Vigencia no confirmada.* No se ha podido confirmar si los Decretos 164/1995 y 230/1995 siguen
   vigentes, en todo o en parte, ni cómo casan con la organización de 2026 (por ejemplo, la
   adscripción a través de una dirección general que ya no existe con ese nombre, o la propuesta del
   «Consejero de la Presidencia»). Se dan como normas de creación, con su fecha, no como régimen vigente
@@ -1191,7 +1188,7 @@ agosto de 2026.
   sus funciones.**»
 - Pero el artículo 17.e) da a la Dirección General de Unión Europea «**El impulso, el seguimiento y la
   coordinación de las funciones relativas a la Delegación de la Junta de Andalucía en Bruselas.**»
-- **El solapamiento, dicho tal cual.** El decreto atribuye el impulso, el seguimiento y la
+- *El solapamiento, dicho tal cual.* El decreto atribuye el impulso, el seguimiento y la
   coordinación de las funciones de la Delegación a dos órganos distintos: a la Secretaría General de la
   Presidencia (artículo 6.4), a la que la Delegación está adscrita, y a la Dirección General de Unión
   Europea (artículo 17.e), que depende de otra Secretaría General. El decreto no dice cómo se reparten.
@@ -1483,7 +1480,7 @@ Europea**», y en particular, en catorce letras (a-n):
 | --- | --- | --- |
 | Tratado de la Unión Europea, versión consolidada, con sus protocolos | DOUE C 202, de 07/06/2016 · CELEX `12016M/TXT` | Última consolidación publicada; leída el 24/09/2026. Anterior a la retirada del Reino Unido |
 | Carta de los Derechos Fundamentales de la Unión Europea | DOUE C 202, de 07/06/2016, p. 389 · CELEX `12016P/TXT` | La publicada en 2016; leída entera el 24/09/2026 |
-| Tratado de Funcionamiento de la Unión Europea, versión consolidada | DOUE C 202, de 07/06/2016 · CELEX `12016E/TXT` | Solo los artículos citados (1 a 6, 20 a 24, 231 a 240, 252 a 254, 263, 282 a 286, 300 a 307, 354); leídos el 24/09/2026 |
+| Tratado de Funcionamiento de la Unión Europea, versión consolidada | DOUE C 202, de 07/06/2016 · CELEX `12016E/TXT` | Solo los artículos que el tema cita; leídos el 24/09/2026 |
 | Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de septiembre de 2023, por la que se fija la composición del Parlamento Europeo | DOUE L 238, de 27/09/2023 · CELEX `32023D2061` | Leída el 24/09/2026 |
 | Decisión 2013/272/UE del Consejo Europeo, de 22 de mayo de 2013, relativa al número de miembros de la Comisión Europea | DOUE L 165, de 18/06/2013 · CELEX `32013D0272` | Leída el 24/09/2026; en vigor según la Oficina de Publicaciones |
 | Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, por la que se aumenta el número de abogados generales del Tribunal de Justicia de la Unión Europea | DOUE L 179, de 29/06/2013 · CELEX `32013D0336` | Leída el 24/09/2026; vigencia no confirmada |
@@ -1535,19 +1532,19 @@ Europea**», y en particular, en catorce letras (a-n):
 
 Comprobaciones hechas sobre la fuente:
 
-1. **Recuentos.** TUE: 55 artículos en seis títulos, 37 protocolos y 65 declaraciones. Carta: 54
+1. *Recuentos.* TUE: 55 artículos en seis títulos, 37 protocolos y 65 declaraciones. Carta: 54
    artículos en siete títulos. EAA: capítulo III del título IX con diez artículos (230 a 239), en un
    título de cinco capítulos. Decisión 2023/2061: 27 filas que suman 720 escaños. Artículo 20.2 del
    TFUE: cuatro letras. Artículo 17 del Decreto 189/2026: catorce letras (a-n).
-2. **Cifras de los Tratados desplazadas por decisiones posteriores**, dadas las dos: escaños del
+2. *Cifras de los Tratados desplazadas por decisiones posteriores*, dadas las dos: escaños del
    Parlamento (750 más el Presidente como tope; 720 en 2024-2029), miembros de la Comisión (dos
    tercios de los Estados según el Tratado; uno por Estado según la Decisión 2013/272/UE) y abogados
    generales (ocho según el TFUE; once desde el 7 de octubre de 2015 según la Decisión 2013/336/UE,
    de vigencia no confirmada).
-3. **Transitorios agotados**, señalados como tales: artículos 16.5, 17.4 y 54.2 del TUE.
-4. **Lista de Estados del artículo 52 del TUE**: veintiocho, con el Reino Unido, en la versión de
+3. *Transitorios agotados*, señalados como tales: artículos 16.5, 17.4 y 54.2 del TUE.
+4. *Lista de Estados del artículo 52 del TUE*: veintiocho, con el Reino Unido, en la versión de
    2016; el tema advierte que no sirve para contar los Estados de hoy.
-5. **Preceptos estatales y autonómicos**: todos los citados tienen una sola redacción; ninguno tiene
+5. *Preceptos estatales y autonómicos*: todos los citados tienen una sola redacción; ninguno tiene
    reforma cruzada.
-6. **Solapamiento del Decreto 189/2026** entre sus artículos 6.4 y 17.e), transcrito literal y sin
+6. *Solapamiento del Decreto 189/2026* entre sus artículos 6.4 y 17.e), transcrito literal y sin
    resolver.
