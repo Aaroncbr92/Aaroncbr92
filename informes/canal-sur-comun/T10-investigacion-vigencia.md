@@ -241,7 +241,8 @@ En `produccion-asistencia/17`:
   Ley 17/2006». Hay que sustituirlo por lo de Canal Sur, leído en su fuente:
   - **Ley 18/2007** (`BOE-A-2008-1185`): la RTVA «es una **Agencia Pública Empresarial**» con
     «personalidad jurídica propia», y la prestación la hacen «**sociedad[es] mercantil[es] del sector
-    público andaluz**» (arts. 1 y 9, fuentes/canal-sur).
+    público andaluz**» (art. 5.1 y 5.2, «Naturaleza jurídica y adscripción», y art. 9.1 y 9.2;
+    volcado de `fuentes/canal-sur/`).
   - **Ley 9/2007**, art. **52.2**: las agencias «tienen **personalidad jurídica pública** y la
     consideración de Administración institucional dependiente». **52.3**: las sociedades mercantiles
     «tienen personalidad jurídica privada».
