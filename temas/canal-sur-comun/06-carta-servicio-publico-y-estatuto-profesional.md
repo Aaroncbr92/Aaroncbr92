@@ -907,8 +907,8 @@ El artículo 10 tiene tres apartados:
 
 **Quién lo aprueba.** Corresponde al Consejo de Administración de la RTVA: «**Aprobar el
 Estatuto profesional de los medios de comunicación de la RTVA y sus reformas.**» (art.
-17.1.m). No es una norma del Parlamento ni del Consejo de Gobierno, y no se publica por
-exigencia legal en ningún boletín. La ley no le exige mayoría reforzada: el artículo 17.2
+17.1.m). No lo aprueban el Parlamento ni el Consejo de Gobierno, y la ley no prevé su
+publicación en ningún boletín. La ley no le exige mayoría reforzada: el artículo 17.2
 reserva la mayoría absoluta a los acuerdos de las letras b), d), f), h) e i).
 
 **Otras menciones en la ley.** El derecho de acceso se regula «**sin menoscabo de los
@@ -958,7 +958,7 @@ la Ley Orgánica 2/1997, de 19 de junio:
   elaboración de informaciones contrarias a los principios éticos de la comunicación, sin que
   ello pueda suponer sanción o perjuicio.**» (art. 3).
 
-El secreto profesional no tiene ley de desarrollo que este tema haya podido leer.
+Para el secreto profesional, este tema no da ley de desarrollo.
 
 ### El texto vigente no está publicado
 
@@ -972,8 +972,8 @@ epígrafes anteriores.
 
 ### El texto anterior que enlaza la web de Canal Sur (no vigente)
 
-El enlace «Estatuto Profesional» de la página oficial de Canal Sur lleva a una entrada de un
-blog del Consejo Profesional fechada el 25 de octubre de 2006. **Ese texto no es el vigente**:
+El enlace «Estatuto Profesional» de la página oficial de Canal Sur lleva a una entrada del blog
+consejoradiortva.blogspot.com fechada el 25 de octubre de 2006. **Ese texto no es el vigente**:
 es anterior a la Ley 18/2007, cuyos principios no cita (invoca los de la «Ley de Creación de
 RTVA», es decir, la Ley 8/1987), y habla de estructuras que ya no existen (Canal 2 Andalucía,
 el teletexto, dos sociedades con un Consejo Profesional cada una). Se describe aquí solo porque
@@ -1005,7 +1005,8 @@ en una pregunta.
   compañeros, confidencialidad de los materiales de trabajo y prohibición de registros o
   cesiones de material sin orden judicial. Su único límite era el requerimiento judicial de
   revelar la fuente en un proceso penal, y obligaba a revelarla cuando así se pudiera evitar un
-  delito cierto contra la vida, la integridad, la salud o la libertad de las personas.
+  delito cierto contra la vida, la integridad o la salud, la libertad o la libertad sexual de
+  las personas.
 - *Consejos Profesionales.* Órganos de representación de los profesionales de la información,
   elegidos por ellos, con funciones de salvaguarda y control del cumplimiento del Estatuto y de
   mediación entre las redacciones y la empresa; eran la primera instancia a la que podían
