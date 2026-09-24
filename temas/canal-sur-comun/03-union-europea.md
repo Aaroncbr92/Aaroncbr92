@@ -9,7 +9,7 @@
 | **Fuente** | Versión consolidada del Tratado de la Unión Europea · Carta de los Derechos Fundamentales de la Unión Europea · Versión consolidada del Tratado de Funcionamiento de la Unión Europea (los tres en el Diario Oficial de la Unión Europea C 202, de 7 de junio de 2016) · Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de septiembre de 2023 · Decisión 2013/272/UE del Consejo Europeo, de 22 de mayo de 2013 · Decisión 2013/336/UE del Consejo, de 25 de junio de 2013 · Estatuto de Autonomía para Andalucía (Ley Orgánica 2/2007, de 19 de marzo) · Ley 2/1997, de 13 de marzo · Ley 8/1994, de 19 de mayo · Ley 2/2014, de 25 de marzo · Real Decreto 2105/1996, de 20 de septiembre · Acuerdos de 9 de diciembre de 2004 de la Conferencia para Asuntos Relacionados con las Comunidades Europeas y sus modificaciones publicadas en 2011 · Decreto del Presidente 9/2026, de 9 de julio · Decreto 189/2026, de 30 de julio · Decretos 164/1995, de 27 de junio, y 230/1995, de 3 de octubre |
 | **Identificador** | CELEX `12016M/TXT` · `12016P/TXT` · `12016E/TXT` · `32023D2061` · `32013D0272` · `32013D0336` · `BOE-A-2007-5825` · `BOE-A-1997-5630` · `BOE-A-1994-11418` · `BOE-A-2014-3248` · `BOE-A-1996-21096` · `BOE-A-2005-4388` · `BOE-A-2011-13747` · `BOE-A-2010-8942` · BOJA extraordinario núm. 12, de 09/07/2026 · BOJA extraordinario núm. 15, de 31/07/2026 (corrección de errores en el BOJA núm. 152, de 07/08/2026) · BOJA núm. 104, de 25/07/1995 · BOJA núm. 129, de 04/10/1995 |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Los Tratados y la Carta, en la última versión consolidada publicada (Diario Oficial de 7 de junio de 2016), que es anterior a la retirada del Reino Unido; las cifras de composición que han fijado decisiones posteriores se dan junto a las del Tratado |
-| **Extensión** | 18.394 palabras |
+| **Extensión** | 18.452 palabras |
 
 <!-- /portada -->
 
@@ -21,8 +21,9 @@ Tribunal de Justicia de la Unión Europea (TJUE); Banco Central Europeo (BCE); C
 Española (CE); Estatuto de Autonomía para Andalucía (EAA); Conferencia para Asuntos Relacionados
 con la Unión Europea (CARUE); Representación Permanente de España ante la Unión Europea (REPER);
 Comité de Representantes Permanentes (COREPER); Boletín Oficial del Estado (BOE); Boletín Oficial
-de la Junta de Andalucía (BOJA); Sentencia del Tribunal Constitucional (STC). Dos más salen solo
-dentro de citas literales de un decreto andaluz, y se presentan donde aparecen.
+de la Junta de Andalucía (BOJA); Sentencia del Tribunal Constitucional (STC). Tres más salen solo
+junto a citas literales y se presentan donde aparecen: SEBC, del Tratado de Funcionamiento, y
+TRADE y SOLVIT, de un decreto andaluz.
 
 > Enunciado del programa (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, bloque I, parte común, punto 3):
@@ -51,6 +52,44 @@ dice bien: la lista de Estados de 2016, que aún incluye al Reino Unido, y el ta
 Comisión, que una decisión de 2013 mantuvo en un comisario por Estado.
 
 <!-- indice -->
+
+## Índice
+
+- [La Unión Europea](#la-unión-europea)
+  - [Qué es la Unión y en qué se funda](#qué-es-la-unión-y-en-qué-se-funda)
+  - [Los Estados miembros: la lista del Tratado y la de hoy](#los-estados-miembros-la-lista-del-tratado-y-la-de-hoy)
+  - [Valores](#valores)
+  - [Objetivos (artículo 3 del TUE)](#objetivos-artículo-3-del-tue)
+  - [Relaciones entre la Unión y los Estados (artículo 4 del TUE)](#relaciones-entre-la-unión-y-los-estados-artículo-4-del-tue)
+  - [Competencias y principios](#competencias-y-principios)
+  - [Principios democráticos (artículos 10 a 12 del TUE)](#principios-democráticos-artículos-10-a-12-del-tue)
+  - [Las instituciones](#las-instituciones)
+  - [La ciudadanía de la Unión](#la-ciudadanía-de-la-unión)
+  - [Adhesión y retirada](#adhesión-y-retirada)
+- [Tratado de la Unión Europea](#tratado-de-la-unión-europea)
+  - [Identificación y estructura](#identificación-y-estructura)
+  - [Título I. Disposiciones comunes (artículos 1 a 8)](#título-i-disposiciones-comunes-artículos-1-a-8)
+  - [Título II. Disposiciones sobre los principios democráticos (artículos 9 a 12)](#título-ii-disposiciones-sobre-los-principios-democráticos-artículos-9-a-12)
+  - [Título III. Disposiciones sobre las instituciones (artículos 13 a 19)](#título-iii-disposiciones-sobre-las-instituciones-artículos-13-a-19)
+  - [Título IV. Disposiciones sobre las cooperaciones reforzadas (artículo 20)](#título-iv-disposiciones-sobre-las-cooperaciones-reforzadas-artículo-20)
+  - [Título V. Acción exterior y política exterior y de seguridad común (artículos 21 a 46)](#título-v-acción-exterior-y-política-exterior-y-de-seguridad-común-artículos-21-a-46)
+  - [Título VI. Disposiciones finales (artículos 47 a 55)](#título-vi-disposiciones-finales-artículos-47-a-55)
+- [Carta de derechos fundacionales](#carta-de-derechos-fundacionales)
+  - [El nombre](#el-nombre)
+  - [Origen y valor jurídico](#origen-y-valor-jurídico)
+  - [Estructura](#estructura)
+  - [Ámbito de aplicación y alcance (título VII, artículos 51 a 54)](#ámbito-de-aplicación-y-alcance-título-vii-artículos-51-a-54)
+  - [Los derechos, título por título](#los-derechos-título-por-título)
+- [La representación de la Junta de Andalucía ante la Unión Europea](#la-representación-de-la-junta-de-andalucía-ante-la-unión-europea)
+  - [La Unión Europea en el Estatuto de Autonomía](#la-unión-europea-en-el-estatuto-de-autonomía)
+  - [El capítulo III del título IX del Estatuto (artículos 230 a 239)](#el-capítulo-iii-del-título-ix-del-estatuto-artículos-230-a-239)
+  - [La Delegación de la Junta de Andalucía en Bruselas](#la-delegación-de-la-junta-de-andalucía-en-bruselas)
+  - [Los órganos de la Junta para los asuntos europeos](#los-órganos-de-la-junta-para-los-asuntos-europeos)
+  - [Los mecanismos estatales de participación](#los-mecanismos-estatales-de-participación)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## La Unión Europea
@@ -111,11 +150,12 @@ Atómica**». Cuatro fechas distintas:
 | 12 de junio de 1985 | Se firma el tratado, en Lisboa y en Madrid |
 | 2 de agosto de 1985 | La Ley Orgánica 10/1985 autoriza prestar el consentimiento del Estado, «**de acuerdo con lo previsto en el artículo 93 de la Constitución**» |
 | 20 de septiembre de 1985 | El Rey firma el instrumento de ratificación, en Madrid |
-| 1 de enero de 1986 | Se publica en el BOE y España pasa a ser parte |
+| 1 de enero de 1986 | Se publica el instrumento de ratificación en el BOE núm. 1 |
 
 La adhesión es a dos comunidades, la Económica y la de la Energía Atómica —la Unión Europea como
-tal no existía todavía; nace con el Tratado de Maastricht—. El depósito se hace ante el Gobierno
-de la República Italiana, que es el depositario de los tratados fundacionales.
+tal no existía todavía; nace con el Tratado de Maastricht—. El instrumento se extiende para que,
+mediante su depósito ante el Gobierno de la República Italiana, España pase a ser parte del tratado;
+también ante ese Gobierno se depositan las ratificaciones del TUE (artículo 54.1).
 
 La base constitucional es el artículo 93 de la CE, que no ha cambiado desde 1978: «**Mediante ley
 orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o
@@ -152,8 +192,9 @@ cesión.**» Es el artículo por el que España entró en las Comunidades Europe
   solidaridad e igualdad entre mujeres y hombres). No hay que confundir unos con otros.
 - Los valores del artículo 2 son la condición de entrada (artículo 49) y el objeto del mecanismo
   de garantía del artículo 7. La Resolución del Parlamento Europeo de 25 de noviembre de 2020,
-  sobre la libertad de los medios de comunicación, recuerda que todos los Estados miembros deben
-  respetar los valores del artículo 2 del TUE.
+  sobre el refuerzo de la libertad de los medios de comunicación, lo recuerda en uno de sus
+  considerandos: todos los Estados miembros deben respetar los valores consagrados en el artículo 2
+  del TUE.
 
 #### La garantía de los valores (artículo 7 del TUE)
 
@@ -210,7 +251,7 @@ que dice hoy, y la cifra cambia cada vez que entra un Estado.
 - «**De conformidad con lo dispuesto en el artículo 5, toda competencia no atribuida a la Unión en
   los Tratados corresponde a los Estados miembros.**» (4.1).
 - La Unión respeta la igualdad de los Estados ante los Tratados y su identidad nacional, inherente
-  a sus estructuras políticas y constitucionales, «**también en lo referente a la autonomía local y
+  a sus estructuras fundamentales políticas y constitucionales, «**también en lo referente a la autonomía local y
   regional**» (4.2). Respeta las funciones esenciales del Estado (integridad territorial, orden
   público, seguridad nacional), y «**En particular, la seguridad nacional seguirá siendo
   responsabilidad exclusiva de cada Estado miembro.**»
@@ -376,7 +417,8 @@ competencia de apoyo, no compartida.
     2014 y el 31 de marzo de 2017) están agotadas.
 - Mayoría simple: «**mayoría de los miembros que lo componen**» (artículo 238.1 del TFUE). Las
   abstenciones no impiden la unanimidad (238.4).
-- Formaciones (16.6): la lista la adopta el Consejo Europeo; el Tratado nombra dos. El Consejo de
+- Formaciones (16.6): la lista de las demás la adopta el Consejo Europeo por mayoría cualificada
+  (artículo 236 del TFUE); el Tratado nombra dos. El Consejo de
   Asuntos Generales vela por la coherencia de las demás y prepara el Consejo Europeo; el de Asuntos
   Exteriores elabora la acción exterior.
 - El Comité de Representantes Permanentes (COREPER) prepara los trabajos del Consejo (16.7).
@@ -453,7 +495,8 @@ No es una institución, pero es pieza de tres de ellas:
     motivadas**».
   - *Cifra fijada por decisión.* La Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, lo
     aumentó a «**nueve, con efectos a partir del 1 de julio de 2013**» y a «**once, con efectos a partir
-    del 7 de octubre de 2015**». Su vigencia actual no se ha podido confirmar.
+    del 7 de octubre de 2015**». Según los datos de la Oficina de Publicaciones de la UE consultados
+    el 24/09/2026, está en vigor y ningún acto la modifica.
 - Tribunal General: «**al menos de un juez por Estado miembro**». El número exacto lo fija el Estatuto
   del TJUE (artículo 254 del TFUE), que este tema no ha leído; por eso no se da.
 - Nombramiento: «**de común acuerdo por los Gobiernos de los Estados miembros para un período de seis
@@ -467,10 +510,9 @@ No es una institución, pero es pieza de tres de ellas:
 
 #### El Banco Central Europeo (artículos 282 y 283 del TFUE)
 
-- Con los bancos centrales nacionales forma el Sistema Europeo de Bancos Centrales; con los de la
-  zona del euro, el Eurosistema, que dirige la política monetaria de la Unión.
-- «**El objetivo principal del SEBC será mantener la estabilidad de precios.**» (282.2; SEBC es el
-  Sistema Europeo de Bancos Centrales).
+- Con los bancos centrales nacionales forma el Sistema Europeo de Bancos Centrales (SEBC); con los
+  de la zona del euro, el Eurosistema, que dirige la política monetaria de la Unión (282.1).
+- «**El objetivo principal del SEBC será mantener la estabilidad de precios.**» (282.2).
 - Tiene personalidad jurídica, «**Le corresponderá en exclusiva autorizar la emisión del euro**» y es
   independiente en sus competencias y en la gestión de sus finanzas (282.3).
 - Consejo de Gobierno: el Comité Ejecutivo más los gobernadores de los bancos centrales de la zona
@@ -496,7 +538,9 @@ No es una institución, pero es pieza de tres de ellas:
   de sus instituciones, órganos y organismos**».
 - No hay nacionalidad europea propia: se es ciudadano de la Unión por ser nacional de un Estado. El
   artículo 20.1 del TFUE repite la definición con el verbo «ostente».
-- Los derechos se enumeran en el artículo 20.2 del TFUE, en cuatro letras:
+- El artículo 20.2 del TFUE dice que los ciudadanos son titulares de los derechos y están sujetos a
+  los deberes establecidos en los Tratados, y enumera, «entre otras cosas», cuatro derechos en cuatro
+  letras:
   - a) circular y residir libremente en el territorio de los Estados miembros;
   - b) sufragio activo y pasivo en las elecciones al Parlamento Europeo y en las municipales del
     Estado de residencia, «**en las mismas condiciones que los nacionales de dicho Estado**»;
@@ -529,7 +573,7 @@ No es una institución, pero es pieza de tres de ellas:
 #### Retirada (artículo 50 del TUE)
 
 - «**Todo Estado miembro podrá decidir, de conformidad con sus normas constitucionales, retirarse de
-  la Unión.**» La decisión es unilateral del Estado.
+  la Unión.**» La decisión la toma el propio Estado.
 - Notifica su intención «**al Consejo Europeo**». A la luz de sus orientaciones, la Unión negocia un
   acuerdo de retirada (artículo 218.3 del TFUE), que celebra el Consejo «**por mayoría cualificada,
   previa aprobación del Parlamento Europeo**».
@@ -646,6 +690,8 @@ anterior, con las cifras que hoy fijan las decisiones posteriores.
   decida por unanimidad.
 - El Consejo Europeo puede decidir por unanimidad que el Consejo se pronuncie por mayoría cualificada
   en otros casos (31.3).
+- Salvedad (31.4): ni la mayoría cualificada del 31.2 ni la ampliación del 31.3 se aplican a las
+  decisiones que tengan repercusiones en el ámbito militar o de la defensa.
 
 #### Política común de seguridad y defensa (artículos 42 a 46)
 
@@ -785,8 +831,9 @@ las generaciones futuras**».
 - A quién obliga (51.1): «**Las disposiciones de la presente Carta están dirigidas a las instituciones,
   órganos y organismos de la Unión, dentro del respeto del principio de subsidiariedad, así como a los
   Estados miembros únicamente cuando apliquen el Derecho de la Unión.**»
-  - La salvedad: a las instituciones de la Unión se dirige siempre; a los
-    Estados, «**únicamente**» cuando aplican el Derecho de la Unión.
+  - La salvedad: a las instituciones, órganos y organismos de la Unión se dirige dentro del respeto
+    del principio de subsidiariedad; a los Estados, «**únicamente**» cuando aplican el Derecho de la
+    Unión.
   - Los obligados «**respetarán los derechos, observarán los principios y promoverán su aplicación**»,
     cada uno en sus competencias.
 - Lo que no hace (51.2): «**La presente Carta no amplía el ámbito de aplicación del Derecho de la Unión
@@ -811,8 +858,9 @@ Siete apartados:
    protección más extensa**». El CEDH es suelo, no techo.
 4. Derechos que resultan de las tradiciones constitucionales comunes: se interpretan «**en armonía con
    las citadas tradiciones**».
-5. Derechos y principios no se tratan igual. Las disposiciones que contienen principios se aplican
-   mediante actos de la Unión y de los Estados cuando apliquen el Derecho de la Unión, y «**Sólo podrán
+5. Derechos y principios no se tratan igual. Las disposiciones que contienen principios pueden
+   aplicarse mediante actos legislativos y ejecutivos de la Unión y actos de los Estados cuando
+   apliquen el Derecho de la Unión, y «**Sólo podrán
    alegarse ante un órgano jurisdiccional en lo que se refiere a la interpretación y control de la
    legalidad de dichos actos.**»
 6. «**Se tendrán plenamente en cuenta las legislaciones y prácticas nacionales según lo especificado en
@@ -902,7 +950,8 @@ Se da la rúbrica de cada artículo, tal como figura en la Carta, y lo esencial 
   razón de sexo, raza, color, orígenes étnicos o sociales, características genéticas, lengua, religión
   o convicciones, opiniones políticas o de cualquier otro tipo, pertenencia a una minoría nacional,
   patrimonio, nacimiento, discapacidad, edad u orientación sexual**»; y la discriminación por
-  nacionalidad en el ámbito de los Tratados.
+  nacionalidad en el ámbito de aplicación de los Tratados, sin perjuicio de sus disposiciones
+  particulares (21.2).
 - Artículo 22, «**Diversidad cultural, religiosa y lingüística**»: «**La Unión respeta la diversidad
   cultural, religiosa y lingüística.**»
 - Artículo 23, «**Igualdad entre mujeres y hombres**»: «**deberá garantizarse en todos los ámbitos,
@@ -939,7 +988,8 @@ Se da la rúbrica de cada artículo, tal como figura en la Carta, y lo esencial 
 
 Muchos de estos artículos remiten a «**las legislaciones y prácticas nacionales**»: son el tipo de
 disposición que el artículo 52.6 manda tener plenamente en cuenta. Es también el título que el
-Protocolo n.º 30 excluye como fuente de derechos justiciables en Polonia y el Reino Unido.
+Protocolo n.º 30 excluye como fuente de derechos justiciables en Polonia y el Reino Unido, salvo en
+la medida en que su legislación nacional los contemple.
 
 #### Título V. Ciudadanía (artículos 39 a 46)
 
@@ -1105,7 +1155,9 @@ principios de subsidiariedad y proporcionalidad que establezca el Derecho Comuni
   al mismo si así lo establece la legislación comunitaria.**»
 - 238.2: «**En el marco de la legislación vigente en la materia, la Junta de Andalucía podrá instar al
   Estado y a las instituciones legitimadas el inicio de acciones ante el Tribunal de Justicia de la
-  Unión Europea en defensa de los intereses de la Comunidad Autónoma.**» La Junta insta; no interpone.
+  Unión Europea en defensa de los intereses de la Comunidad Autónoma.**» La Junta insta al Estado y a
+  las instituciones legitimadas; su acceso directo al Tribunal queda a lo que establezca la
+  legislación comunitaria (238.1).
 
 #### Artículo 239. Relaciones con las regiones europeas
 
@@ -1156,7 +1208,8 @@ principios de subsidiariedad y proporcionalidad que establezca el Derecho Comuni
   su publicación), atribuye a la Consejería de Presidencia, Sanidad y Emergencias (artículo 3.1.c):
   «**La coordinación de la acción exterior de la Junta de Andalucía, las actuaciones derivadas de la
   integración de España en la UE; comunidades andaluzas en el exterior**» y la difusión de la imagen de
-  Andalucía en el exterior. Su titular es el Vicepresidente Primero (artículo 1.1).
+  Andalucía en el exterior. La Vicepresidencia Primera corresponde a la persona titular de esa
+  Consejería (artículo 1.1).
 - Suprime, entre otras, la «**Consejería de Sanidad, Presidencia y Emergencias**» y la «**Consejería de
   Turismo y Andalucía Exterior**» (disposición adicional primera).
 - No confundir con los fondos: «**Fondos Europeos**» es materia de la Consejería de Economía, Hacienda y
@@ -1300,10 +1353,11 @@ Europea**», y en particular, en catorce letras (a-n):
   (bilateral en lo que afecta exclusivamente a Andalucía; multilateral en lo demás) y con la función
   de seguimiento de la política europea que el artículo 220.2.g) da a la Comisión Bilateral.
 - Por parte andaluza, la representación en los órganos de coordinación con el Estado en materia de
-  Unión Europea corresponde a la Secretaría General de Acción Exterior y Unión Europea (artículo
-  8.1.e del Decreto 189/2026, citado arriba).
-- La Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, lo confirma en su
-  artículo 14.4: «**Las Comunidades Autónomas participarán en la elaboración y ejecución de la Acción
+  Unión Europea corresponde a la Secretaría General de Acción Exterior y Unión Europea, sin
+  perjuicio de las competencias de otros órganos autonómicos (artículo 8.1.e del Decreto 189/2026,
+  citado arriba).
+- La Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, señala la
+  Conferencia como cauce de participación autonómica en su artículo 14.4: «**Las Comunidades Autónomas participarán en la elaboración y ejecución de la Acción
   Exterior en el ámbito de la Unión Europea a través de los mecanismos de cooperación existentes, en
   particular, a través de la Conferencia para asuntos relacionados con la Unión Europea.**»
 - La misma ley toca las oficinas y los viajes:
@@ -1399,13 +1453,14 @@ Europea**», y en particular, en catorce letras (a-n):
     dictámenes contrarios reúnen «**al menos un tercio del total de votos**» (un cuarto en el espacio de
     libertad, seguridad y justicia), el proyecto se vuelve a estudiar; en el procedimiento legislativo
     ordinario, con «**al menos la mayoría simple**», la propuesta se vuelve a estudiar y, si la Comisión
-    la mantiene, el legislador puede desestimarla.
+    la mantiene, el legislador la desestima si así lo considera por mayoría del 55 % de los miembros
+    del Consejo o por mayoría de los votos emitidos en el Parlamento Europeo.
   - Artículo 8: el TJUE conoce de los recursos por violación de la subsidiariedad que interponga un
     Estado, también en nombre de su Parlamento; y «**el Comité de las Regiones también podrá interponer
     recursos contra actos legislativos para cuya adopción el Tratado de Funcionamiento de la Unión
     Europea requiera su consulta.**»
 - En España, la Ley 8/1994, de 19 de mayo, por la que se regula la Comisión Mixta para la Unión Europea
-  (artículo 6, en la redacción que le dio la reforma de 2009, la única que ha tenido):
+  (artículo 6, en la redacción que le dio la reforma de 2009, la única que registra el BOE):
   - 6.1: el Congreso y el Senado remiten cada iniciativa legislativa europea a los Parlamentos
     autonómicos, «**sin prejuzgar la existencia de competencias autonómicas afectadas**», para que
     puedan enviar un dictamen motivado sobre la subsidiariedad.
@@ -1421,9 +1476,10 @@ Europea**», y en particular, en catorce letras (a-n):
   Permanentes la de «**Asuntos Europeos**» (artículo 46.2.6.ª), y una nota a ese precepto remite al
   «**Acuerdo de 5 de mayo de 2010, aprobado por la Mesa y la Junta de Portavoces, sobre el procedimiento
   para el control del principio de subsidiariedad en las propuestas legislativas de la Unión
-  Europea**». Ese Acuerdo no se ha leído; y como el Pleno puede variar las Comisiones Permanentes en los
-  primeros seis meses de cada legislatura (artículo 46.4), no se ha confirmado que la comisión siga
-  igual en la legislatura actual.
+  Europea**». Ese Acuerdo no se ha leído. Además, el Pleno puede variar las Comisiones Permanentes,
+  a propuesta de la Mesa y con parecer favorable de la Junta de Portavoces, en los primeros seis
+  meses de cada legislatura y durante un mes tras una reestructuración del Consejo de Gobierno
+  (artículo 46.4); por eso no se ha confirmado que la comisión siga igual en la legislatura actual.
 - Dos plazos que no hay que mezclar: ocho semanas para los Parlamentos nacionales (Protocolo n.º 2) y
   cuatro para que el dictamen autonómico llegue a las Cortes (Ley 8/1994).
 
@@ -1483,11 +1539,13 @@ Europea**», y en particular, en catorce letras (a-n):
 | Tratado de Funcionamiento de la Unión Europea, versión consolidada | DOUE C 202, de 07/06/2016 · CELEX `12016E/TXT` | Solo los artículos que el tema cita; leídos el 24/09/2026 |
 | Decisión (UE) 2023/2061 del Consejo Europeo, de 22 de septiembre de 2023, por la que se fija la composición del Parlamento Europeo | DOUE L 238, de 27/09/2023 · CELEX `32023D2061` | Leída el 24/09/2026 |
 | Decisión 2013/272/UE del Consejo Europeo, de 22 de mayo de 2013, relativa al número de miembros de la Comisión Europea | DOUE L 165, de 18/06/2013 · CELEX `32013D0272` | Leída el 24/09/2026; en vigor según la Oficina de Publicaciones |
-| Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, por la que se aumenta el número de abogados generales del Tribunal de Justicia de la Unión Europea | DOUE L 179, de 29/06/2013 · CELEX `32013D0336` | Leída el 24/09/2026; vigencia no confirmada |
+| Decisión 2013/336/UE del Consejo, de 25 de junio de 2013, por la que se aumenta el número de abogados generales del Tribunal de Justicia de la Unión Europea | DOUE L 179, de 29/06/2013 · CELEX `32013D0336` | Leída el 24/09/2026; en vigor y sin actos que la modifiquen según la Oficina de Publicaciones |
+| Resolución del Parlamento Europeo, de 25 de noviembre de 2020, sobre el refuerzo de la libertad de los medios de comunicación | CELEX `52020IP0320` | Solo un considerando, sobre el artículo 2 del TUE |
+| Instrumento de Ratificación del Tratado hecho en Lisboa y Madrid el 12 de junio de 1985, de adhesión de España y Portugal a la Comunidad Económica Europea y a la Comunidad Europea de la Energía Atómica | `BOE-A-1986-1` (BOE núm. 1, de 01/01/1986) | Texto original publicado; solo para las fechas de la adhesión |
 | Constitución Española (artículo 93) | `BOE-A-1978-31229` | Vigente el 24/09/2026; una sola redacción |
 | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía (arts. 1.4, 10.3.9.º, 42.2.4.º, 185, 218, 220, 225 y 230 a 239) | `BOE-A-2007-5825` | Vigente el 24/09/2026; todos los preceptos citados con una sola redacción, la original |
 | Ley 2/1997, de 13 de marzo, por la que se regula la Conferencia para Asuntos Relacionados con las Comunidades Europeas | `BOE-A-1997-5630` | Vigente el 24/09/2026; una sola redacción, la original |
-| Ley 8/1994, de 19 de mayo, por la que se regula la Comisión Mixta para la Unión Europea (arts. 3 y 6) | `BOE-A-1994-11418` | Vigente el 24/09/2026; el artículo 6 tiene una sola redacción, de 2009 (`BOE-A-2009-20724`) |
+| Ley 8/1994, de 19 de mayo, por la que se regula la Comisión Mixta para la Unión Europea (arts. 3 y 6) | `BOE-A-1994-11418` | Vigente el 24/09/2026; el artículo 6 tiene una sola redacción y el 3 tiene dos; en los dos se cita la vigente, de 2009 (`BOE-A-2009-20724`) |
 | Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado (arts. 5, 12 y 14) | `BOE-A-2014-3248` | Vigente el 24/09/2026; los tres artículos con una sola redacción |
 | Real Decreto 2105/1996, de 20 de septiembre, por el que se crea la Consejería para Asuntos Autonómicos en la Representación Permanente de España ante la Unión Europea | `BOE-A-1996-21096` | Texto original; el BOE no lo consolida ni registra modificaciones |
 | Acuerdos de 9 de diciembre de 2004 de la Conferencia para Asuntos Relacionados con las Comunidades Europeas (Consejería para Asuntos Autonómicos y grupos de trabajo; representación en las formaciones del Consejo) | `BOE-A-2005-4388` | Con las modificaciones publicadas por Resolución de 22 de julio de 2011 (`BOE-A-2011-13747`) |
@@ -1540,11 +1598,12 @@ Comprobaciones hechas sobre la fuente:
    Parlamento (750 más el Presidente como tope; 720 en 2024-2029), miembros de la Comisión (dos
    tercios de los Estados según el Tratado; uno por Estado según la Decisión 2013/272/UE) y abogados
    generales (ocho según el TFUE; once desde el 7 de octubre de 2015 según la Decisión 2013/336/UE,
-   de vigencia no confirmada).
+   en vigor según la Oficina de Publicaciones).
 3. *Transitorios agotados*, señalados como tales: artículos 16.5, 17.4 y 54.2 del TUE.
 4. *Lista de Estados del artículo 52 del TUE*: veintiocho, con el Reino Unido, en la versión de
    2016; el tema advierte que no sirve para contar los Estados de hoy.
-5. *Preceptos estatales y autonómicos*: todos los citados tienen una sola redacción; ninguno tiene
-   reforma cruzada.
+5. *Preceptos estatales y autonómicos*: todos los citados tienen una sola redacción, salvo el
+   artículo 3 de la Ley 8/1994, que tiene dos (se cita la vigente, de 2009); ninguno tiene reforma
+   cruzada.
 6. *Solapamiento del Decreto 189/2026* entre sus artículos 6.4 y 17.e), transcrito literal y sin
    resolver.

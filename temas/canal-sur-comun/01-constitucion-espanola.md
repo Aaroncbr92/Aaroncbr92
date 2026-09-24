@@ -1307,7 +1307,7 @@ competencias que les atribuya la Constitución**». Repartidas por Cámaras:
 
 | Función | Congreso | Senado |
 |---|---|---|
-| Legislativa | Recibe los proyectos de ley (art. 88); aprueba las leyes orgánicas por mayoría absoluta en votación final sobre el conjunto (art. 81.2); levanta el veto del Senado o se pronuncia sobre sus enmiendas (art. 90.2); convalida o deroga los decretos-leyes (art. 86.2) | Veto o enmiendas en dos meses, o veinte días naturales si el proyecto es urgente (art. 90) |
+| Legislativa | Recibe los proyectos de ley (art. 88); aprueba las leyes orgánicas por mayoría absoluta en votación final sobre el conjunto (art. 81.2); levanta el veto del Senado o se pronuncia sobre sus enmiendas (art. 90.2); convalida o deroga los decretos-leyes (art. 86.2) | Veto (por mayoría absoluta) o enmiendas en dos meses, o veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso (art. 90) |
 | Presupuestaria | El Gobierno le presenta los Presupuestos «**al menos tres meses antes de la expiración de los del año anterior**» (art. 134.3) | Examen, enmienda y aprobación corresponden a las Cortes (art. 134.1) |
 | Control del Gobierno | El Gobierno responde solidariamente ante él (art. 108); investidura (art. 99), cuestión de confianza (art. 112) y moción de censura (art. 113) | Interpelaciones, preguntas y comparecencias, comunes a ambas Cámaras (arts. 109 a 111) |
 | Estados excepcionales | Se le da cuenta de la alarma y autoriza su prórroga; autoriza la excepción; declara el sitio (art. 116) | — |
@@ -1344,8 +1344,9 @@ declaración de guerra y la paz (art. 63.3).
 
 **Artículo 93.** «**Mediante ley orgánica se podrá autorizar la celebración de tratados por los que
 se atribuya a una organización o institución internacional el ejercicio de competencias
-derivadas de la Constitución.**» La garantía de su cumplimiento corresponde «**a las Cortes
-Generales o al Gobierno, según los casos**».
+derivadas de la Constitución.**» La garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos
+internacionales o supranacionales titulares de la cesión corresponde «**a las Cortes Generales o
+al Gobierno, según los casos**».
 
 **Artículo 94.** Requiere «**la previa autorización de las Cortes Generales**» la prestación del
 consentimiento del Estado en cinco casos:
@@ -2016,8 +2017,9 @@ previa audiencia del interesado**».
 *Prerrogativas (artículo sexto).* «**El Defensor del Pueblo no estará sujeto a mandato imperativo
 alguno. No recibirá instrucciones de ninguna Autoridad. Desempeñará sus funciones con autonomía y
 según su criterio.**» Goza de inviolabilidad por las opiniones que formule o los actos que
-realice en el ejercicio de su cargo; no podrá ser detenido ni retenido sino en caso de flagrante
-delito, y la decisión sobre su inculpación, prisión, procesamiento y juicio corresponde
+realice en el ejercicio de las competencias propias de su cargo; en los demás casos, y mientras
+permanezca en el ejercicio de sus funciones, no podrá ser detenido ni retenido sino en caso de
+flagrante delito, y la decisión sobre su inculpación, prisión, procesamiento y juicio corresponde
 «**exclusivamente a la Sala de lo Penal del Tribunal Supremo**».
 
 *Incompatibilidades (artículo séptimo).* Es incompatible «**con todo mandato representativo; con
@@ -2067,8 +2069,9 @@ la Ley Orgánica del Tribunal Constitucional.**»
 
 *Informes (artículo treinta y dos).* «**El Defensor del Pueblo dará cuenta anualmente a las Cortes
 Generales de la gestión realizada en un informe que presentará ante las mismas cuando se hallen
-reunidas en periodo ordinario de sesiones.**» Si la gravedad o urgencia lo aconsejan, puede
-presentar un informe extraordinario a las Diputaciones Permanentes. Los informes se publican.
+reunidas en periodo ordinario de sesiones.**» Si la gravedad o urgencia de los hechos lo aconsejan, puede
+presentar un informe extraordinario, que dirigirá a las Diputaciones Permanentes «**si éstas no
+se encontraran reunidas**». Los informes se publican.
 
 El Estatuto de Autonomía para Andalucía tiene su propio Defensor del Pueblo Andaluz y su Cámara
 de Cuentas de Andalucía; se estudian en el punto 2 del temario común.
@@ -2364,8 +2367,9 @@ proyectada**», en la forma que establezca la ley orgánica del apartado 1.
 #### El Estatuto de Andalucía
 
 El vigente es el aprobado por la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto
-de Autonomía para Andalucía (BOE de 20-03-2007, en vigor ese mismo día). Sustituyó al Estatuto
-que, según su preámbulo, fue «**ratificado por los andaluces y andaluzas el 20 de octubre de
+de Autonomía para Andalucía (BOE de 20-03-2007, en vigor ese mismo día, disposición final tercera). Sustituyó al Estatuto
+de 1981, que su disposición derogatoria deroga (Ley Orgánica 6/1981, de 30 de diciembre) y que,
+según su preámbulo, fue «**ratificado por los andaluces y andaluzas el 20 de octubre de
 1981**». Su artículo 1.3 lo define como la «**norma institucional básica**» de la Comunidad, y el
 artículo 1.1 dice que «**Andalucía, como nacionalidad histórica y en el ejercicio del derecho de
 autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la
@@ -2463,9 +2467,13 @@ Lo que la tabla enseña si se lee junto al 148:
 - Los ferrocarriles y carreteras cuyo itinerario se desarrolle **íntegramente** en el territorio
   de la Comunidad pueden ser autonómicos (148.1.5.ª); los que transcurran por **más de una**
   Comunidad son del Estado (149.1.21.ª).
-- Muchas materias estatales lo son sólo en sus **bases** o en su **legislación básica** (11.ª,
-  13.ª, 16.ª, 17.ª, 18.ª, 23.ª, 25.ª, 27.ª), y el desarrollo y la ejecución pueden ser
-  autonómicos.
+- En varias materias el título del Estado se ciñe, en todo o en parte, a las **bases**, la
+  **legislación básica** o las **normas básicas** (11.ª, 13.ª, 16.ª, 17.ª, 18.ª, 23.ª, 25.ª, 27.ª
+  y 30.ª); en otras, a la **legislación**, con la ejecución autonómica expresamente salvada (7.ª,
+  laboral). Ojo con el «en parte»: la 11.ª da al Estado el sistema monetario entero y sólo las
+  bases del crédito, la banca y los seguros; la 16.ª, la sanidad exterior entera y las bases de
+  la sanidad; la 18.ª, las bases del régimen jurídico de las Administraciones y, además, el
+  procedimiento administrativo común y la legislación sobre expropiación forzosa.
 - La 27.ª es la de los medios de comunicación: las normas básicas de la radio y la televisión
   son del Estado, «**sin perjuicio de las facultades que en su desarrollo y ejecución
   correspondan a las Comunidades Autónomas**». La ley estatal y la andaluza del sector
@@ -2525,7 +2533,7 @@ El Estatuto asume competencias «**exclusivas, compartidas y ejecutivas**» (42.
   sobre cualquier otro, teniendo en estos casos el derecho estatal carácter supletorio**».
 - 2.º Compartidas: las tres potestades «**en el marco de las bases que fije el Estado en normas
   con rango de ley, excepto en los supuestos que se determinen de acuerdo con la
-  Constitución**».
+  Constitución**». En ellas, «**la Comunidad Autónoma puede establecer políticas propias**».
 - 3.º Ejecutivas: la función ejecutiva, que incluye la potestad de organización de su propia
   administración y, cuando proceda, la aprobación de disposiciones reglamentarias para ejecutar
   la normativa del Estado.
@@ -2593,8 +2601,10 @@ mancomunales, convencionales y consorciales**». Esa ley es la LAULA, cuyo artí
 dicta «**en desarrollo de las previsiones estatutarias sobre organización territorial de
 Andalucía**» y que «**se aprueba con las prescripciones establecidas en el artículo 108 del
 Estatuto de Autonomía para Andalucía**». Ese artículo 108 exige para las leyes que afectan a la
-organización territorial «**el voto favorable de la mayoría absoluta del Pleno del Parlamento en
-una votación final sobre el conjunto del texto**».
+organización territorial, al régimen electoral o a la organización de las instituciones básicas
+«**el voto favorable de la mayoría absoluta del Pleno del Parlamento en una votación final sobre
+el conjunto del texto, salvo aquellos supuestos para los que el Estatuto exija mayoría
+cualificada**».
 
 La competencia (artículo 60 del Estatuto): corresponde a la Comunidad Autónoma «**la competencia
 exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y
@@ -2605,7 +2615,9 @@ de los bienes y modalidades de prestación de los servicios públicos; órganos 
 entes locales creados por la Junta; órganos complementarios; régimen electoral de los entes
 locales creados por la Junta, salvo los constitucionalmente garantizados). En todo lo demás, la
 competencia es compartida (60.2); y le corresponden, en el marco de la regulación general del
-Estado, las competencias sobre haciendas locales y tutela financiera de los entes locales (60.3).
+Estado, las competencias sobre haciendas locales y tutela financiera de los entes locales, «**sin
+perjuicio de la autonomía de éstos, y dentro de las bases que dicte el Estado de acuerdo con el
+artículo 149.1.18.ª de la Constitución**» (60.3).
 
 #### Lo que añade la LAULA
 
@@ -2902,8 +2914,9 @@ y ha de ir acompañada de la financiación correspondiente, «**siendo nula sin 
 *La gestión colaborativa (LBRL, artículo 28).* En municipios determinados «**de menos de 20.000
 habitantes**» podrán establecerse sistemas de gestión colaborativa para garantizar los recursos
 suficientes para sus competencias y la prestación de los servicios mínimos obligatorios; su
-aplicación requiere decisión de la Comunidad Autónoma, con la conformidad previa del municipio
-afectado. *Qué cambió: el artículo 28 estaba suprimido; el Real Decreto-ley 6/2023 le dio este
+aplicación requiere decisión de la Comunidad Autónoma, adoptada conforme a su legislación de
+régimen local, «**y en todo caso, con la conformidad previa del municipio afectado y el informe de
+las entidades locales afectadas**». *Qué cambió: el artículo 28 estaba suprimido; el Real Decreto-ley 6/2023 le dio este
 contenido desde el 21-12-2023.*
 
 *Las competencias en el Estatuto de Andalucía (artículo 92).* «**El Estatuto garantiza a los
@@ -3054,8 +3067,9 @@ siguientes**» (nueve letras, a a i):
 - b) «**La asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente
   los de menor capacidad económica y de gestión.**» «**En todo caso garantizará en los municipios
   de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.**»
-- c) La prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal.
-  En particular, asumirá la prestación de los servicios «**de tratamiento de residuos en los
+- c) La prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal,
+  y el fomento o, en su caso, coordinación de la prestación unificada de servicios de los
+  municipios de su ámbito territorial. En particular, asumirá la prestación de los servicios «**de tratamiento de residuos en los
   municipios de menos de 5.000 habitantes, y de prevención y extinción de incendios en los de
   menos de 20.000 habitantes, cuando éstos no procedan a su prestación**».
 - d) La cooperación en el fomento del desarrollo económico y social y en la planificación en el
@@ -3066,7 +3080,9 @@ siguientes**» (nueve letras, a a i):
 - g) «**La prestación de los servicios de administración electrónica y la contratación
   centralizada en los municipios con población inferior a 20.000 habitantes.**»
 - h) El seguimiento de los costes efectivos de los servicios prestados por los municipios de su
-  provincia.
+  provincia; si son superiores a los de los servicios coordinados o prestados por ella, la
+  Diputación ofrecerá a los municipios su colaboración para una gestión coordinada más
+  eficiente.
 - i) La coordinación, mediante convenio con la Comunidad Autónoma, del mantenimiento y limpieza de
   los consultorios médicos «**en los municipios con población inferior a 5000 habitantes**».
 

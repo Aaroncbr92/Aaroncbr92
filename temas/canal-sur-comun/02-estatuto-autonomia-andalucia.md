@@ -933,7 +933,7 @@ aconsejan, presenta un informe extraordinario (artículo 31). El personal a su s
 considera personal del Parlamento (artículo 34) y su dotación económica es una partida del
 presupuesto del Parlamento (artículo 35). El informe anual se debate en la Comisión Consultiva
 de Nombramientos, Relaciones con el Defensor del Pueblo Andaluz y Peticiones y en el Pleno, y
-en ese debate «**no podrán presentarse propuestas de resolución**» (artículo 183 del Reglamento
+en el debate del Pleno «**no podrán presentarse propuestas de resolución**» (artículo 183.3 del Reglamento
 del Parlamento).
 
 *Un nombre que la ley no ha actualizado.* La Ley 9/1983 atribuye las relaciones con el Defensor
@@ -996,7 +996,9 @@ otros dos Consejeros designados por el Pleno (artículo 18).
   votación y por mayoría de tres quintas partes de sus miembros, por un período de seis años,
   renovándose cada tres por tres y cuatro séptimas partes sucesivamente**».
 - Todos los grupos parlamentarios, salvo el Grupo Mixto, tienen derecho a que al menos uno de
-  los elegidos proceda de su propuesta.
+  los elegidos proceda de su propuesta; si no es posible con criterios de proporcionalidad pura,
+  cede un puesto la propuesta que, teniendo ya asegurado un Consejero, haya obtenido el resto
+  menor.
 - No pueden ser designados quienes el año anterior hayan gestionado, inspeccionado o intervenido
   ingresos y gastos del sector público andaluz, ni los perceptores de subvenciones, avales o
   exenciones.
@@ -1047,7 +1049,10 @@ proyectos normativos relacionados con su finalidad (c); un código ético o de b
 (d); formular propuestas y recomendaciones, cuyos destinatarios deben informar a la Oficina «**en
 un plazo de treinta días**» de lo que han hecho (f y g); tramitar las denuncias (k) y tutelar los
 derechos de los denunciantes (l); y la potestad sancionadora por las infracciones de la propia
-ley (m) y de la Ley 3/2005 de incompatibilidades de altos cargos (n).
+ley (m) y de la Ley 3/2005, de 8 de abril, de Incompatibilidades de Altos Cargos de la Administración de
+la Junta de Andalucía y de Declaración de Actividades, Bienes, Intereses y Retribuciones de Altos
+Cargos y otros Cargos Públicos, y del artículo 28 de la Ley 19/2013, de
+9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (n).
 
 *Límites.* Sus funciones se entienden sin perjuicio de las de la Cámara de Cuentas, el Defensor
 del Pueblo Andaluz y otros órganos de control (artículo 12.1). «**La Oficina no podrá realizar
@@ -1162,7 +1167,8 @@ un año entre disoluciones.
   le reserve la legislación del Estado**»; los honores del cargo; usar la bandera y el escudo de
   Andalucía como distintivo; «**Percibir las retribuciones establecidas en su normativa
   específica**» (letra d, en la redacción del Decreto-ley 11/2023, de 27 de diciembre, vigente desde el 27 de
-  diciembre de 2023; antes decía «**Percibir las retribuciones que se fijen en las leyes del
+  diciembre de 2023 y convalidado por la Diputación Permanente del Parlamento el 10 de enero de
+  2024; antes decía «**Percibir las retribuciones que se fijen en las leyes del
   Presupuesto de la Comunidad Autónoma**»); y ocupar la residencia oficial.
 - *Incompatibilidades.* El Estatuto fija la regla básica: «**El Presidente y los Consejeros no
   podrán ejercer actividad laboral, profesional o empresarial alguna.**» (artículo 121). La ley la
@@ -1240,8 +1246,8 @@ de la Presidenta de la Junta de Andalucía**» (artículo 46.1).
 - g) pérdida de la condición de parlamentario;
 - h) condena penal firme que lleve aparejada inhabilitación para el cargo;
 - i) sentencia judicial firme de incapacitación;
-- j) incurrir en determinadas causas de incompatibilidad de la Ley 3/2005, de 8 de abril, de
-  incompatibilidades de altos cargos (letra añadida por la Ley 2/2021).
+- j) incurrir en las causas de incompatibilidad de las letras j) a o) del artículo 6 de la Ley
+  3/2005 (letra añadida por la Ley 2/2021).
 
 La incapacidad de la letra e) la aprecia el Consejo de Gobierno, excluido el Presidente, «**por
 unanimidad**», y la propone al Parlamento, que «**en caso de que la estime, deberá declararla por
@@ -1340,10 +1346,14 @@ representado en, al menos, un cuarenta por ciento**» (18.3).
   nombramiento, fallecimiento, sentencia firme de inhabilitación, sentencia firme de
   incapacitación y determinadas incompatibilidades de la Ley 3/2005 (artículo 24, en la redacción
   de la Ley 2/2021).
-- *Estatuto.* Tienen el mismo régimen de incompatibilidades que el Presidente (artículo 25) y
-  el fuero del artículo 122 del Estatuto: penal ante la Sala de lo Penal del Tribunal Supremo,
-  salvo los delitos cometidos en el territorio de Andalucía, que van al TSJA; civil ante el TSJA
-  (artículo 26 de la Ley 6/2006).
+- *Estatuto.* Tienen el mismo régimen de incompatibilidades que el Presidente (artículo 25). Su
+  fuero lo fija el artículo 122 del Estatuto: penal ante la Sala de lo Penal del Tribunal Supremo,
+  salvo los delitos cometidos «**en el ámbito territorial de su jurisdicción**», que van al TSJA;
+  civil «**Ante este último Tribunal**», es decir, el TSJA (122.2). *La Ley 6/2006 no cuadra con
+  el Estatuto en la civil*: repite la regla penal (artículo 26.1), pero la civil la lleva «**Ante
+  los mismos Tribunales expresados en el apartado anterior, respectivamente**» (26.2), es decir,
+  al Tribunal Supremo o al TSJA según el caso. Ante la pregunta por el Estatuto, la civil de los
+  Consejeros es siempre del TSJA.
 
 *Atribuciones.* El Estatuto le da la interposición de recursos de inconstitucionalidad y
 conflictos de competencia y la personación en los procesos constitucionales (119.4), y la
@@ -2064,8 +2074,7 @@ la Radio y Televisión de Andalucía**» (artículo 4.3.g).
 - *El decreto que regula la Comisión General de Viceconsejeros y Viceconsejeras* (el Decreto
   155/1988 que cita el Decreto 189/2026) y las *Comisiones Delegadas* que existen hoy: no se han
   leído.
-- *La convalidación del Decreto-ley 11/2023*, que dio su redacción actual al artículo 15.d de la
-  Ley 6/2006: no se ha podido confirmar en las fuentes leídas.
+
 - *El tipo de agencia pública empresarial* (letra a o b del artículo 68.1 de la Ley 9/2007) que
   corresponde a la RTVA: ninguna norma leída lo dice.
 - *El procedimiento administrativo* de la Ley 9/2007 (título IV, capítulo II y siguientes) y la

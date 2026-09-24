@@ -9,7 +9,7 @@
 | **Fuente** | X Convenio Colectivo Interprovincial para la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur Radio, S.A., Canal Sur TV, S.A., y sus trabajadores/as, publicado por Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales |
 | **Identificador** | Código de convenio 71000253011989 · BOJA núm. 240, de 10/12/2014, páginas 49 a 213 |
 | **Redacción que se estudia** | La vigente el 24/09/2026, que es el texto publicado en 2014: no consta ninguna modificación publicada ni inscrita. El convenio está prorrogado (artículo 5). El Estatuto de los Trabajadores y las leyes andaluzas que se citan, en su redacción vigente el 24/09/2026 |
-| **Extensión** | 22.681 palabras |
+| **Extensión** | 22.991 palabras |
 
 <!-- /portada -->
 
@@ -43,6 +43,45 @@ de los Trabajadores de hoy dice en varios permisos algo distinto de lo que el co
 2014. El tema da los textos y su fecha; no decide cuál se aplica en cada caso.
 
 <!-- indice -->
+
+## Índice
+
+- [Identificación y vigencia del convenio](#identificación-y-vigencia-del-convenio)
+  - [Publicación e inscripción](#publicación-e-inscripción)
+  - [Ámbito funcional, territorial y personal (artículos 1 a 3)](#ámbito-funcional-territorial-y-personal-artículos-1-a-3)
+  - [Vigencia y prórroga (artículos 4 y 5; artículo 86 del Estatuto de los Trabajadores)](#vigencia-y-prórroga-artículos-4-y-5-artículo-86-del-estatuto-de-los-trabajadores)
+  - [Las partes: de dos sociedades filiales a una](#las-partes-de-dos-sociedades-filiales-a-una)
+  - [Estructura real del texto](#estructura-real-del-texto)
+  - [Erratas y remisiones del propio texto](#erratas-y-remisiones-del-propio-texto)
+  - [El Reglamento de la Mesa de Contratación: lo que desarrolla](#el-reglamento-de-la-mesa-de-contratación-lo-que-desarrolla)
+- [Articulado](#articulado)
+  - [Capítulo primero. Disposiciones Generales (artículos 1 a 9)](#capítulo-primero-disposiciones-generales-artículos-1-a-9)
+  - [Capítulo segundo. Jornadas y descansos (artículos 10 a 14)](#capítulo-segundo-jornadas-y-descansos-artículos-10-a-14)
+  - [Capítulo tercero. Provisión de plazas y promoción (artículos 15 a 20)](#capítulo-tercero-provisión-de-plazas-y-promoción-artículos-15-a-20)
+  - [Capítulo cuarto. Organización (artículos 21 a 24)](#capítulo-cuarto-organización-artículos-21-a-24)
+  - [Capítulo quinto. Seguridad y Salud en el Trabajo (artículos 25 a 31)](#capítulo-quinto-seguridad-y-salud-en-el-trabajo-artículos-25-a-31)
+  - [Capítulo sexto. Régimen de personal (artículos 32 a 36)](#capítulo-sexto-régimen-de-personal-artículos-32-a-36)
+  - [Capítulo séptimo. Prestaciones Sociales (artículos 37 a 44)](#capítulo-séptimo-prestaciones-sociales-artículos-37-a-44)
+  - [Capítulo octavo. Trabajo y retribución (artículos 45 a 54)](#capítulo-octavo-trabajo-y-retribución-artículos-45-a-54)
+  - [Capítulo noveno. Acción Sindical (artículos 55 a 62)](#capítulo-noveno-acción-sindical-artículos-55-a-62)
+  - [Capítulo décimo. Régimen disciplinario (artículos 63 a 72)](#capítulo-décimo-régimen-disciplinario-artículos-63-a-72)
+  - [Capítulo undécimo. Incompatibilidades y Garantías Procesales (artículos 73 y 74)](#capítulo-undécimo-incompatibilidades-y-garantías-procesales-artículos-73-y-74)
+- [Cuadro de licencias y permisos](#cuadro-de-licencias-y-permisos)
+  - [El convenio no contiene ningún cuadro con ese nombre](#el-convenio-no-contiene-ningún-cuadro-con-ese-nombre)
+  - [Artículo 33, texto literal](#artículo-33-texto-literal)
+  - [Disposición transitoria tercera, texto literal](#disposición-transitoria-tercera-texto-literal)
+  - [Cuadro-resumen (elaboración del tema)](#cuadro-resumen-elaboración-del-tema)
+  - [Contraste con el Estatuto de los Trabajadores vigente](#contraste-con-el-estatuto-de-los-trabajadores-vigente)
+- [Disposiciones adicionales, transitorias y anexos](#disposiciones-adicionales-transitorias-y-anexos)
+  - [Disposiciones adicionales (diez)](#disposiciones-adicionales-diez)
+  - [Disposiciones transitorias (diez)](#disposiciones-transitorias-diez)
+  - [Anexo I. Remuneración mensual/anual bruta y tabla de antigüedad](#anexo-i-remuneración-mensualanual-bruta-y-tabla-de-antigüedad)
+  - [Anexo II. Plantilla estructural](#anexo-ii-plantilla-estructural)
+  - [Anexo III. Definición de funciones](#anexo-iii-definición-de-funciones)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## Identificación y vigencia del convenio
@@ -866,7 +905,8 @@ Acuerdo de colaboración negociado anualmente con la directiva del Grupo de Empr
 
 *Relacionado con la DT 4.ª* (amortización de plazas por jubilación y jubilación parcial). Sobre
 las aportaciones a planes de pensiones, véase lo que dice el artículo 28.2 de la Ley 3/2012 en
-«Disposiciones transitorias»; el convenio no lo menciona.
+«Disposiciones transitorias»; el convenio no lo relaciona con el plan de pensiones (la DT 8.ª cita
+el artículo 28 solo a propósito de la acción social).
 
 ### Capítulo octavo. Trabajo y retribución (artículos 45 a 54)
 
@@ -1208,8 +1248,9 @@ Dirección, notificada al interesado y comunicada al Comité.
 - Incompatibilidad expresa con otras empresas de radiodifusión, distribución de imagen y sonido,
   agencias informativas, empresas periodísticas, de publicidad, electrónica profesional,
   cinematográficas, discográficas, de espectáculos y todas las de algún sector específico de la
-  RTVA. Excepcionalmente se autoriza la colaboración esporádica, y también trabajos ocasionales
-  para terceros por prestigio o calidad, fuera de la jornada. Autoriza el «**Director/a Gerente de
+  RTVA. Excepcionalmente, la RTVA «**podrá autorizar la colaboración esporádica**» en esas empresas si
+  no perjudica los intereses legítimos del servicio público; y puede autorizar trabajos ocasionales
+  para terceros por prestigio o calidad, compatibles con la relación laboral y fuera de la jornada. Autoriza el «**Director/a Gerente de
   la RTVA, una vez oído el Comité de Empresa**».
 
 #### Artículo 74. Garantías procesales
@@ -1425,14 +1466,17 @@ Tres cosas que hay que saber para leerla:
   días al año**». Leído al pie de la letra, abarca todo el artículo 33; leído por su rótulo, solo
   los asuntos propios del artículo 33.B (de hasta seis, siete u ocho días según la antigüedad, a
   cuatro). Y cambia otra regla: el artículo 33.B.3 dice que los asuntos propios no pueden
-  acumularse a las vacaciones salvo consentimiento de la empresa; la DT 3.ª B dice que los cuatro
+  acumularse a las vacaciones, aunque pueden unirse si las necesidades del servicio lo permiten y
+  con consentimiento de la empresa; la DT 3.ª B dice que los cuatro
   días «**podrán ser acumulados a los de vacaciones anuales**». El texto no resuelve la
   ambigüedad y este tema tampoco la resuelve.
 - *Base legal*: a diferencia de la DT 2.ª (vacaciones), que invoca el artículo 26 de la Ley
   3/2012, la DT 3.ª no cita ningún precepto. La materia es la del artículo 26 de la Ley 3/2012,
   rotulado «**Vacaciones y permisos**», que en su redacción original sometía las vacaciones y
   permisos del personal de las entidades instrumentales a los artículos 48 y 50 del Estatuto
-  Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012. Ese artículo 26 está
+  Básico del Empleado Público en la redacción del Real Decreto-ley 20/2012, y le reconocía además
+  los permisos del artículo 49 de ese Estatuto y los adicionales al de parto o adopción y sin
+  retribución de la normativa de función pública de la Junta. Ese artículo 26 está
   derogado desde el 1 de enero de 2025 por la disposición derogatoria única, letra e), de la Ley
   7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2025. No
   se ha podido confirmar si, a raíz de esa derogación, la RTVA y CSRTV han vuelto a aplicar el
@@ -1457,7 +1501,7 @@ suficiente del motivo alegado**» (art. 33.A.3).
 | d | Deber inexcusable de carácter público o personal y deberes de conciliación | El tiempo indispensable | 15 días de antelación o la misma fecha de la citación | — |
 | e | Matrimonio de hijos, hermanos o padres | 1 día; 2 si es en provincia no limítrofe con la del centro | 15 días de antelación | — |
 | f | Funciones sindicales o de representación | En los términos del convenio | 48 horas de antelación o desde que se conozca el hecho | — |
-| g | Lactancia de hijo menor de 12 meses | 1 hora diaria, divisible en dos fracciones; parto múltiple, 2 horas diarias por hijo; acumulable en jornadas completas por decisión de la madre; si los dos convivientes trabajan en la empresa, solo uno | 15 días de antelación | — |
+| g | Lactancia de hijo menor de 12 meses | 1 hora de ausencia al trabajo, divisible en dos fracciones; parto múltiple, 2 horas diarias por hijo; acumulable en jornadas completas por decisión de la madre; si los dos convivientes trabajan en la empresa, solo uno | 15 días de antelación | — |
 | h | Nacimiento, adopción y acogimiento preadoptivo o permanente de menores de hasta 6 años (y mayores de 6 con especiales dificultades) | Suspensión de 16 semanas ininterrumpidas (+2 por hijo desde el segundo en adopción o acogimiento múltiple); después, permiso retribuido de 4 semanas adicionales, para un solo progenitor | 15 días de antelación o tan pronto se conozca el hecho | — |
 | i | Permiso del padre o del otro progenitor | 15 días consecutivos, independiente del de la letra h | Tan pronto se conozca el hecho | — |
 | i (adopción internacional) | Desplazamiento previo al país de origen | La suspensión puede empezar hasta 4 semanas antes de la resolución; permiso de hasta 2 meses con solo retribuciones básicas (salario base y antigüedad) | Tan pronto se conozca el hecho | — |
@@ -1475,7 +1519,7 @@ Al reincorporarse de una reducción de jornada hay que preavisar «**con quince 
 
 | Bloque | Supuesto | Cifras y condiciones | DT 3.ª |
 | --- | --- | --- | --- |
-| B | Asuntos propios | 1 día por año de servicio; máximo 6 al año; 1 adicional con más de 10 años de antigüedad y un octavo con más de 15; en el año natural (si no se pudo por el servicio, 2 días en el primer mes del año siguiente); no acumulables a vacaciones salvo consentimiento de la empresa; fecha de común acuerdo | 4 días al año, acumulables a las vacaciones (y ambigüedad sobre el resto del art. 33) |
+| B | Asuntos propios | 1 día por año de servicio; máximo 6 al año; 1 adicional con más de 10 años de antigüedad y un octavo con más de 15; en el año natural (si no se pudo por el servicio, 2 días en el primer mes del año siguiente); no acumulables a vacaciones, aunque pueden unirse si el servicio lo permite y con consentimiento de la empresa; fecha de común acuerdo | 4 días al año, acumulables a las vacaciones (y ambigüedad sobre el resto del art. 33) |
 | C.1 | Turno más favorable por estudios oficiales | La empresa «**adscribirá**»; si concurren varios, criterios: antigüedad, aprovechamiento académico, orden de solicitud | — |
 | C.2 | Turno más favorable por embarazo (exámenes prenatales) | La empresa «**podrá adscribir**» | — |
 | C.3 | Riesgo por gestación | La empresa «**facilitará**» el cambio de puesto o funciones | — |
@@ -1543,7 +1587,7 @@ junio); artículo 38, una sola redacción; artículo 35, una sola redacción.
 | --- | --- |
 | Art. 33.A.1.h: suspensión de «**dieciséis semanas ininterrumpidas**» en adopción, nacimiento y acogimiento, distribuible entre madre y padre si trabajan los dos; después, «**un permiso retribuido de cuatro semanas adicionales**» para un progenitor | Art. 48.4: el nacimiento suspende el contrato «**de la madre biológica y el del progenitor distinto de la madre biológica durante diecinueve semanas**»; «**En el supuesto de monoparentalidad, por existir una única persona progenitora, el periodo de suspensión será de treinta y dos semanas.**» Art. 48.5: adopción, guarda con fines de adopción y acogimiento, «**diecinueve semanas para cada adoptante, guardador o acogedor**» |
 | Art. 33.A.1.i: «**15 días consecutivos**» para el padre o el otro progenitor | Art. 48.4: las diecinueve semanas son también del progenitor distinto de la madre biológica; «**Este derecho es individual de la persona trabajadora sin que pueda transferirse su ejercicio al otro progenitor.**» |
-| Art. 33.A.1.b, segundo párrafo: en prematuros u hospitalizados, el permiso de maternidad puede computarse desde el alta, excluidas «**las primeras seis semanas posteriores al parto, de descanso obligatorio para la madre**» | Art. 48.4: el cómputo desde el alta puede hacerse «**a instancia de la madre biológica o del otro progenitor**»; y si la hospitalización supera siete días, la suspensión se amplía en los días de hospitalización «**con un máximo de trece semanas adicionales**» |
+| Art. 33.A.1.b, segundo párrafo: en prematuros u hospitalizados, el permiso de maternidad puede computarse desde el alta, excluidas «**las primeras seis semanas posteriores al parto, de descanso obligatorio para la madre**» | Art. 48.4: el cómputo desde el alta puede hacerse «**a instancia de la madre biológica o del otro progenitor**»; y si el neonato, por parto prematuro con falta de peso o por alguna condición clínica, está hospitalizado más de siete días, la suspensión se amplía en los días de hospitalización «**con un máximo de trece semanas adicionales**» |
 | Art. 33.A.1.h, último párrafo: «**En caso de fallecimiento de la madre durante el permiso, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» | Art. 48.4: «**En caso de fallecimiento de uno de los progenitores, el otro progenitor podrá hacer uso de la totalidad o, en su caso, de la parte que reste de permiso.**» |
 | Art. 33.A.1.i: adopción internacional, la suspensión puede iniciarse «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» | Art. 48.5: igual, «**hasta cuatro semanas antes de la resolución por la que se constituye la adopción**» (coinciden) |
 
@@ -1553,7 +1597,7 @@ junio); artículo 38, una sola redacción; artículo 35, una sola redacción.
 | --- | --- |
 | Art. 32.III.1: excedencia por cuidado de hijos «**no superior a seis años**»; si padre y madre están en el convenio, «**solamente uno de ellos podrá ejercer este derecho**» | Art. 46.3: «**no superior a tres años para atender al cuidado de cada hijo**»; «**constituye un derecho individual de los trabajadores y trabajadoras**»; la empresa solo puede limitar el ejercicio simultáneo por razones fundadas y objetivas motivadas por escrito, con plan alternativo. Además, excedencia por cuidado de familiar «**de duración no superior a dos años, salvo que se establezca una duración mayor por negociación colectiva**», que el artículo 32 no regula (aunque dice que las del ET se aplican «en sus propios términos») |
 | Art. 32.I: voluntaria, «**no podrá ser inferior a seis meses ni superior a diez años**»; otra, tras «**tres años de servicio efectivo**» | Art. 46.2: «**por un plazo no menor a cuatro meses y no mayor a cinco años**»; otra vez, «**si han transcurrido cuatro años desde el final de la anterior excedencia voluntaria**» |
-| Art. 13.7: las vacaciones se interrumpen por baja de IT, riesgo para la maternidad o la lactancia o permiso de maternidad o paternidad, y se reanudan con el alta. Art. 33.A.1.i: acumulables a maternidad, lactancia y paternidad «**aún habiendo expirado ya el año natural**» | Art. 38.3: si coinciden con IT por embarazo, parto o lactancia o con las suspensiones del artículo 48.4, 48.5 y 48.7, se disfrutan después «**aunque haya terminado el año natural a que correspondan**»; si coinciden con otra IT, siempre que no hayan pasado «**más de dieciocho meses a partir del final del año en que se hayan originado**» |
+| Art. 13.7: las vacaciones se interrumpen por baja de IT, riesgo para la maternidad o la lactancia o permiso de maternidad o paternidad, y se reanudan con el alta. Art. 33.A.1.i: acumulables a maternidad, lactancia y paternidad «**aún habiendo expirado ya el año natural**» | Art. 38.3: si coinciden con IT por embarazo, parto o lactancia natural o con las suspensiones del artículo 48.4, 48.5 y 48.7, se disfrutan después «**aunque haya terminado el año natural a que correspondan**»; si coinciden con otra IT, siempre que no hayan pasado «**más de dieciocho meses a partir del final del año en que se hayan originado**» |
 | Art. 14: sin tope anual de horas extraordinarias; compensación de dos horas de descanso por hora | Art. 35.2: «**El número de horas extraordinarias no podrá ser superior a ochenta al año**»; no computan las compensadas con descanso dentro de los cuatro meses siguientes |
 
 *Donde coinciden* (sin contraste): descanso mínimo de doce horas entre jornadas (convenio, art.
@@ -1722,7 +1766,8 @@ de septiembre de 2026):
   2026, disposición adicional cuarta: «**durante el año 2026 solo se mantendrá la aplicación de las
   medidas contenidas en los artículos 15, 18, 19, 22, 27, 28.2 y 29 de la Ley 3/2012, de 21 de
   septiembre, tras la revisión prevista en su artículo 4.**» Para 2025, la disposición adicional
-  cuarta de la Ley 7/2024 decía lo mismo con el artículo 28 entero.
+  cuarta de la Ley 7/2024 decía lo mismo con el artículo 28 entero, y añadía que la aplicación de
+  ese artículo 28 se haría conforme a su disposición adicional quinta.
 
 | Transitoria | Precepto de la Ley 3/2012 que invoca | Situación el 24/09/2026 |
 | --- | --- | --- |

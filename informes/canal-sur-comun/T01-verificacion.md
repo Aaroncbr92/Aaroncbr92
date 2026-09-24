@@ -77,3 +77,135 @@ reformas (fechas de publicación y de entrada en vigor tomadas del XML: 28-08-19
 17-02-2024, 20-05-2026, las cuatro en vigor el día de publicación por su disposición final
 única) y la cita de la exposición de motivos de 1992 sobre el art. 167.
 
+### Bloque 4 · Rúbrica b): órganos, Corona, Cortes, Congreso y Senado, función legislativa, Gobierno, Poder Judicial, Tribunal Constitucional
+
+Leídos: CE 54, 56 a 136 (todos los que cita el tema: 56-65, 66-80, 68, 69 con su redacción anterior
+por `--fecha 20260101`, 81-96, 97-115, 117-127, 134, 136), 152, 155, 159 a 165; reforma de 2026 en
+el XML del diario (artículo único, disposición transitoria única y final única, texto en
+castellano).
+
+12. **Funciones · tabla, fila «Legislativa», columna Senado.** Decía «Veto o enmiendas en dos
+    meses, o veinte días naturales si el proyecto es urgente». Faltaban la mayoría del veto
+    (absoluta, 90.2) y quién declara la urgencia («por el Gobierno o por el Congreso de los
+    Diputados», 90.3). Añadido (error 6).
+13. **Art. 93.** Decía que la garantía del cumplimiento «de los tratados» corresponde a las Cortes o
+    al Gobierno; el precepto la extiende a «las resoluciones emanadas de los organismos
+    internacionales o supranacionales titulares de la cesión». Añadido (error 6, menor).
+
+Confirmados sin cambios, con especial atención: 69.3 vigente literal (coincide con el artículo
+único de la reforma de 2026) y los tres cambios de texto frente a 1978; la transitoria única,
+literal; recuento de ocho islas con un Senador; 68 completo con su 68.5 párrafo 2.º; mayorías y
+plazos de 72, 73, 74, 79, 80, 81.2, 86, 87.3 (500.000 firmas y cuatro materias excluidas), 90, 91
+(quince días), 99 (mayoría absoluta; simple a las cuarenta y ocho horas; dos meses), 102.2, 112,
+113 (décima parte, cinco días, dos primeros días), 115.3 (un año); 122.3 (20 + Presidente, cinco
+años; 12/4/4, tres quintos, quince años); 159 (12; 4/4/2/2; tres quintos; quince años; nueve años;
+terceras partes cada tres; incompatibilidades con su párrafo 2.º), 160 (tres años), 161 (con el
+2.º inciso de la a y los cinco meses del 161.2), 162 (50 y 50; Defensor en las dos listas), 163,
+164.
+
+### Bloque 5 · Rúbrica b): Tribunal de Cuentas y Defensor del Pueblo
+
+Leídos: CE 54, 70.1.c), 136, 153.d), 162.1; LO 2/1982, arts. primero, segundo, cuarto, noveno,
+diez, doce, quince, diecinueve, veintiuno, veintinueve, treinta (y su redacción anterior con
+`--fecha 20240801`), treinta y tres y treinta y cinco; LO 3/1981, arts. primero a octavo, diez,
+once, quince, diecisiete, veintiocho, veintinueve y treinta y dos. Títulos y fechas de la LO
+3/2015, la LO 2/2024 y la LO 2/1992 en el XML del diario (publicación y vigencia: 31-03/01-04-2015;
+02-08/22-08-2024; 06-03/26-03-1992).
+
+14. **LO 3/1981, art. 32.** Decía que el informe extraordinario se presenta «a las Diputaciones
+    Permanentes», sin la condición. El 32.Dos: «que dirigirá a las Diputaciones Permanentes de
+    las Cámaras si éstas no se encontraran reunidas». Añadido (error 6).
+15. **LO 3/1981, art. 6.** La regla de no detención salvo flagrante delito se daba como general; el
+    6.Tres la limita a «En los demás casos, y mientras permanezca en el ejercicio de sus
+    funciones». Añadido; y la inviolabilidad, «en el ejercicio de las competencias propias de su
+    cargo» (error 6, menor).
+
+Confirmados sin cambios: art. 30 LOTCu (seis y seis, tres quintos, nueve años, quince años, 40 %
+por Cámara, apartado Dos añadido en 2024: la redacción anterior sólo tenía Uno y Dos, este último
+el de independencia); cuórum de dos tercios del Pleno; Presidente por tres años; ocho órganos del
+art. 19; seis entes del sector público del art. 4; seis meses del art. 10. LODP: cinco años; tres
+quintos del Congreso y ratificación en veinte días; mayoría absoluta del Senado en segunda vuelta;
+cinco causas de cese y quién declara la vacante; un año para la queja; quejas anónimas; sin
+recurso. La CE nombra al Defensor en 54, 70.1.c) y 162.1 a) y b) (grep: cuatro apariciones).
+
+**Aviso de cobertura (manual, apartado 10).** `refutar_exactitud.py` sólo reconoce artículos con
+número en cifras («Artículo 30»). La LO 2/1982 y la LO 3/1981 numeran con palabras («Artículo
+treinta»), así que la lente **no comprueba ninguna negrita de estas dos leyes** aunque se le pasen,
+sin avisar. Para esta verificación se han pasado además copias en el scratchpad con los
+rótulos convertidos a cifras (ver apartado de lentes); no se ha tocado la herramienta.
+
+### Bloque 6 · Rúbrica c): Título VIII (137-158), Estatutos, 148-150, EAA 42, organización territorial de Andalucía
+
+Leídos: CE 2, 3.2, 4.2, 68.2, 69, 81.1, 87.2, 133.2, 137 a 158 (todos); EAA preámbulo, 1, 2, 3.4,
+4, 42, 60, 89 a 98, 108, disposición derogatoria y disposición final tercera; LAULA 1, 3, 4.1 y 57.
+Comparación mecánica de las tablas del 148.1 y del 149.1 contra el volcado, materia a materia:
+**22 y 32 materias, todas idénticas a la fuente**, con sus salvedades (6.ª, 7.ª, 8.ª, 17.ª, 18.ª,
+19.ª, 20.ª, 23.ª, 27.ª, 28.ª, 29.ª).
+
+16. **Art. 149 · comentario a la tabla.** Decía que 11.ª, 13.ª, 16.ª, 17.ª, 18.ª, 23.ª, 25.ª y 27.ª
+    son estatales «sólo en sus bases o en su legislación básica». Falso para parte de ellas: la
+    11.ª da al Estado el «Sistema monetario» entero, la 16.ª la «Sanidad exterior» y la
+    legislación sobre productos farmacéuticos, la 18.ª el «procedimiento administrativo común» y
+    la «legislación sobre expropiación forzosa». Reescrito «en todo o en parte», con esos
+    ejemplos; añadida la 30.ª («normas básicas para el desarrollo del artículo 27») (error 9 /
+    induce a error).
+17. **EAA 108.** Se citaba la mayoría absoluta sin la salvedad final «salvo aquellos supuestos para
+    los que el Estatuto exija mayoría cualificada» y sin los otros dos objetos (régimen electoral
+    y organización de las instituciones básicas). Añadido (error 6).
+18. **EAA 60.3.** Omitía «sin perjuicio de la autonomía de éstos, y dentro de las bases que dicte
+    el Estado de acuerdo con el artículo 149.1.18.ª de la Constitución». Añadido (error 6).
+19. **EAA 42.2.2.º.** Añadido «En el ejercicio de estas competencias, la Comunidad Autónoma puede
+    establecer políticas propias» (menor).
+20. **El Estatuto de Andalucía.** «Sustituyó al Estatuto» de 1981 no tenía precepto detrás; ahora
+    se apoya en la disposición derogatoria (deroga la LO 6/1981, de 30 de diciembre) y la entrada
+    en vigor en la disposición final tercera (error 9, menor).
+
+Confirmados sin cambios: 143 (dos tercios, seis meses, cinco años), 144 (tres letras), 151.1 (tres
+cuartas partes, dentro del plazo del 143.2, mayoría absoluta de los electores de cada provincia),
+151.2 en cinco pasos y 151.3, 152 entero, 153 (cuatro controles), 155, 156 a 158, 147.2 (cuatro
+letras); citas del preámbulo del EAA (literales); EAA 90 (nueve principios), 97.2, 98.1.
+
+### Bloque 7 · Rúbrica c): el municipio (LBRL, EAA, LAULA)
+
+Leídos: CE 140; LBRL 1, 3, 4, 11, 12, 13 (cadena de cuatro redacciones y texto a
+`--fecha 20231220`), 15, 19 a 29 (25 con su cadena de seis redacciones y diferencias entre
+redacciones sucesivas a 04/05-08-2018, 20/21-12-2023 y 21/22-03-2026; 28 a `--fecha 20231220`),
+121, 122, 124, 125, 126, 128; EAA 91 a 93; LAULA 5, 6, 8, 9 (entero, y 9.12 a `--fecha
+20260619`), 89, 91, 93, 109, 113. Títulos y fechas del RDL 6/2023, su convalidación
+(BOE-A-2024-665), RDL 9/2018, RDL 7/2026, su convalidación (BOE-A-2026-7125), Ley 27/2013 y Ley
+2/2026 en el XML del diario.
+
+**Incisos anulados, comprobados en el XML consolidado de la API del BOE** (bloques `a26` y `a126`,
+etiquetas `<strong>` de la última versión) **y en los fallos**:
+
+- **26.2** (versión de `BOE-A-2016-6839`, 15-07-2016): dos incisos en `<strong>`: «al Ministerio de
+  Hacienda y Administraciones Públicas» y «Para reducir los costes efectivos de los servicios el
+  mencionado Ministerio decidirá sobre la propuesta formulada que deberá contar con el informe
+  preceptivo de la Comunidad Autónoma si es la Administración que ejerce la tutela financiera.».
+  Coinciden con el fallo 2.º a) de la STC 111/2016. El tema los da en redonda, como no vigentes:
+  correcto.
+- **126.2** (versión de `BOE-A-2013-5446`, 23-05-2013): un inciso en `<strong>`: «El Alcalde podrá
+  nombrar como miembros de la Junta de Gobierno Local a personas que no ostenten la condición de
+  concejales, siempre que su número no supere un tercio de sus miembros, excluido el Alcalde.».
+  Coincide con el fallo 1.º b) de la STC 103/2013; la cita del FJ 6 («se limita única y
+  exclusivamente a la facultad que se reconoce al alcalde…») es literal. La frase siguiente
+  («Sus derechos económicos…») no va en `<strong>`. El tema, correcto.
+- **36** (bloque `a36`): ningún `<strong>`; la STC 111/2016 sólo da interpretación conforme de
+  36.1.g) y 36.2.a) párr. 2.º (fallo 3.º, literal en el tema).
+
+21. **LBRL 28.** Omitía «adoptada conforme a su legislación de régimen local propia» y «el informe
+    de las entidades locales afectadas» como requisito de la gestión colaborativa. Añadido
+    (error 6).
+
+Confirmados sin cambios: 13.2 (4.000; antes 5.000; RDL 6/2023 de 19-12, vigente 21-12-2023;
+convalidación por Resolución de 10-01-2024); 13.4 (diez años) y 13.6 (mayoría simple); 20.1 (cinco
+reglas, umbral de 5.000 en b y c); 21.1 (a-s con ñ y p derogadas) y 21.3; 22.2 y 22.4; 23.1 (tercio);
+25.2 (diecisiete letras) y la atribución de la o) al RDL 9/2018, del apartado 6 al RDL 6/2023 y de
+la p) al RDL 7/2026 (vigente 22-03-2026; convalidación por Resolución de 26-03-2026); 26.1 (tramos
+5.000/20.000/50.000, texto literal) y 26.2 (seis servicios); 27.1 (cinco años), 27.3 (quince
+letras), 27.5 y 27.6; 28 (suprimido hasta el 20-12-2023); 29 (dos tercios; menos de 100 residentes);
+121 (250.000, 175.000, capitales, 75.000; seis meses); 124.3 y 125.2 (tratamientos); 126.2 (tercio);
+128; EAA 92.2 (quince letras, a-ñ); LAULA 9 (veintiocho apartados) y el cambio de 9.12 a) y f) por
+la Ley 2/2026, vigente en esa parte el 20-06-2026 (disposición final séptima de esa ley, según la
+nota del consolidado).
+
