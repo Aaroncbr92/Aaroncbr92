@@ -1768,7 +1768,7 @@ deberá notificarse la resolución del procedimiento sancionador será de seis m
 | --- | --- | --- |
 | Leve | **«apercibimiento o con multa de 200 a 2.000 euros»** | No |
 | Grave | **«multa de 2.001 a 10.000 euros»** | Supresión, cancelación o suspensión de subvenciones; prohibición de acceder a ayudas públicas y de contratar con la Administración **«por un período de un año»** |
-| Muy grave | **«multa de 10.001 a 150.000 euros»** | Denegación, supresión, cancelación o suspensión de subvenciones; prohibición de ayudas y de contratar **«por un período de hasta tres años»**; cierre del establecimiento y cese en la actividad **«por un término máximo de tres años»** |
+| Muy grave | **«multa de 10.001 a 150.000 euros»** | Denegación, supresión, cancelación o suspensión de subvenciones; prohibición de ayudas y de contratar **«por un período de hasta tres años»**; cierre del establecimiento (si la persona infractora es su responsable) y cese en la actividad **«por un término máximo de tres años»** |
 
 Criterios de graduación (80.4), ocho letras: naturaleza y gravedad de los riesgos o perjuicios;
 intencionalidad; reincidencia (sanción firme por infracción de la misma naturaleza **«en el

@@ -9,7 +9,7 @@
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 · Estatuto de Autonomía para Andalucía (Ley Orgánica 2/2007, de 19 de marzo) · Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local · Ley 5/2010, de 11 de junio, de autonomía local de Andalucía · Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas · Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 · `BOE-A-2007-5825` · `BOE-A-1985-5392` · `BOE-A-2010-11491` · `BOE-A-1982-11584` · `BOE-A-1981-10325` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Constitución lleva cuatro reformas: artículo 13.2 (1992), artículo 135 (2011), artículo 49 (2024) y artículo 69.3 (en vigor desde el 20/05/2026) |
-| **Extensión** | 34.911 palabras |
+| **Extensión** | 34.987 palabras |
 
 <!-- /portada -->
 
@@ -679,7 +679,8 @@ específica**».
 
 Protección intermedia: les alcanza el artículo 53.1 (vinculan a todos los poderes públicos,
 regulación sólo por ley que respete su contenido esencial), pero no el procedimiento preferente
-y sumario ni el amparo del 53.2, salvo la objeción de conciencia del artículo 30.
+y sumario ni el amparo del 53.2. De esas dos garantías, sólo el amparo, no el procedimiento
+preferente y sumario, se extiende a la objeción de conciencia del artículo 30.
 
 **Artículo 30.** *Defensa de España.*
 
@@ -2551,8 +2552,8 @@ comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.**
    necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en
    el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés
    general. Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la
-   apreciación de esta necesidad.**» Las materias que se armonizan son de competencia
-   autonómica.
+   apreciación de esta necesidad.**» La armonización alcanza también a las materias de
+   competencia autonómica («aun en el caso»), sin ceñirse a ellas.
 
 | | Qué hace | Forma | Control |
 |---|---|---|---|
@@ -2573,8 +2574,9 @@ El Estatuto asume competencias «**exclusivas, compartidas y ejecutivas**» (42.
   con rango de ley, excepto en los supuestos que se determinen de acuerdo con la
   Constitución**». En ellas, «**la Comunidad Autónoma puede establecer políticas propias**».
 - 3.º Ejecutivas: la función ejecutiva, que incluye la potestad de organización de su propia
-  administración y, cuando proceda, la aprobación de disposiciones reglamentarias para ejecutar
-  la normativa del Estado.
+  administración «**y, en general, aquellas funciones y actividades que el ordenamiento atribuye
+  a la Administración Pública**» y, cuando proceda, la aprobación de disposiciones reglamentarias
+  para ejecutar la normativa del Estado.
 - 4.º En relación con la aplicación del derecho comunitario: «**el desarrollo y la ejecución de
   la normativa de la Unión Europea cuando afecte al ámbito de las competencias de la Comunidad
   Autónoma**».
@@ -2648,9 +2650,11 @@ La competencia (artículo 60 del Estatuto): corresponde a la Comunidad Autónoma
 exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y
 el principio de autonomía local**», incluye seis materias (letras a a f: relaciones entre la
 Junta y los entes locales y sus formas de cooperación; determinación de las competencias y
-potestades propias de los municipios y demás entes locales en los ámbitos del Título III; régimen
-de los bienes y modalidades de prestación de los servicios públicos; órganos de gobierno de los
-entes locales creados por la Junta; órganos complementarios; régimen electoral de los entes
+potestades propias de los municipios y demás entes locales en los ámbitos del Título III; «**el
+régimen de los bienes de dominio público, comunales y patrimoniales**» y las modalidades de
+prestación de los servicios públicos; la determinación de los órganos de gobierno de los entes
+locales creados por la Junta, «**el funcionamiento y el régimen de adopción de acuerdos de todos
+estos órganos y de las relaciones entre ellos**»; órganos complementarios; régimen electoral de los entes
 locales creados por la Junta, salvo los constitucionalmente garantizados). En todo lo demás, la
 competencia es compartida (60.2); y le corresponden, en el marco de la regulación general del
 Estado, las competencias sobre haciendas locales y tutela financiera de los entes locales, «**sin
@@ -3166,8 +3170,8 @@ interés general para Andalucía; la apreciación del interés general y las fó
 se establecerán «**por una ley aprobada por mayoría absoluta del Parlamento de Andalucía**». «**En
 todo caso, la Comunidad Autónoma coordinará los planes provinciales de obras y servicios.**»
 
-*En la LAULA (artículos 11 a 15).* La provincia presta a los municipios asistencia de tres tipos
-(artículo 11.1): técnica, económica y material. «**La asistencia provincial podrá ser obligatoria,
+*En la LAULA (artículos 11 a 15).* Las competencias de asistencia que la provincia preste a los
+municipios «**podrán consistir en**» tres tipos (artículo 11.1): técnica, económica y material. «**La asistencia provincial podrá ser obligatoria,
 cuando la provincia deba prestarla a solicitud de los municipios, o concertada.**» (11.2).
 
 - Asistencia técnica (artículo 12.1): diez letras (a a j), entre ellas la elaboración y

@@ -45,3 +45,17 @@ Ley 15/2022 (arts. 1 a 54, DA 1.ª, 3.ª y 5.ª, DF 1.ª a 5.ª, 7.ª, 8.ª y 10
 (arts. 1, 3, 7, 8, 16, 17, DT única, firma): el resto confirmado. Recuentos comprobados: 16
 ámbitos del art. 3; 19 funciones del art. 40 (a–r con ñ); 10 criterios del art. 49; cuantías,
 grados y prescripción de los arts. 48 y 51; 6 DA, 1 DT, 10 DF, sin derogatoria.
+7. **Ley 4/2023, recurso 2428-2023** · «las letras a), b), g) e i) del artículo 3» · «las letras
+   a) (párrafo primero), b), g) e i)» · anuncio `BOE-A-2023-11734` («artículo 3 letra a) párrafo
+   primero»). (Menor.)
+8. **Ley 4/2023, art. 80.3, cuadro de sanciones** · «cierre del establecimiento y cese en la
+   actividad» · se añade «(si la persona infractora es su responsable)» · art. 80.3.d). (Error 6.)
+
+Ley 4/2023 (arts. 1–4, 8–12, 14–17, 19, 27–29, 43–52, 54–56, 60, 62–67, 69, 74, 76–82; DA 1.ª y
+4.ª, DT 2.ª, derogatoria, DF 20.ª) y RD 1026/2024 (arts. 2, 3, 5, 8, anexo I, firma y DF 2.ª):
+el resto confirmado. Tramos de edad del 43 (16 / 14-16 / 12-14), plazos del 44.8 (tres meses),
+44.9 (un mes) y 47 (seis meses), 19.2 (doce y dieciséis años), 74.2 (un año): conformes.
+Cuantías (80), accesorias, graduación (ocho letras), prescripción (81: 3 a / 2 a / 9 m;
+sanciones 2 a / 1 a / 6 m), competencia (77.2: 100.000 €), 17 letras del art. 3: conformes.
+Recursos 2428-2023 y 3679-2023 releídos en `documentos/`; búsqueda en el BOE el 24-09-2026: solo
+los anuncios de admisión, ninguna sentencia.
