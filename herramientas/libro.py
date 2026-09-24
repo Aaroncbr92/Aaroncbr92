@@ -40,6 +40,20 @@ from markdown_it import MarkdownIt
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORTE = "21 de diciembre de 2022"
 
+# Lo que dice el preliminar sobre la redacción y las fuentes. Es de RTVE, que
+# congela el temario a una fecha de corte; un bloque de otra convocatoria sin
+# corte (Canal Sur) pone el suyo en `caja_redaccion` y `parrafo_fuentes`, y no
+# hereda una fecha que no le toca
+CAJA_CORTE = (
+    "<p><b>La redacción que vale es la del %s</b>, que es la fecha de corte que\n"
+    "imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la primera\n"
+    "publicación de las Bases Generales». Lo que cambió después está en el tema, en apartados\n"
+    "marcados como <i>notas de actualización</i>, y <b>no es materia examinable</b>.</p>" % CORTE)
+PARRAFO_FUENTES = (
+    "<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado\n"
+    "del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la\n"
+    "trazabilidad de cada tema.</p>")
+
 # Los cuatro bloques. Cada uno dice **de dónde salen sus temas**, **cómo se
 # presenta el volumen** y **qué avisos van con las respuestas**. Cuando entre
 # otra ocupación tipo, se añade una entrada aquí y no se toca nada más —los tres
@@ -2023,6 +2037,62 @@ def con_letra(n):
 md = MarkdownIt("commonmark").enable("table").enable("strikethrough")
 
 
+
+# ── Canal Sur · RTVA ─────────────────────────────────────────────────────────
+# Otra convocatoria (BOJA núm. 186, de 24-IX-2026) y **sin fecha de corte**: cada
+# tema estudia la redacción vigente el día en que se escribió, y lo dice en su
+# ficha. No hay exámenes anteriores, así que el volumen va sin banco
+BLOQUES["canal-sur-comun"] = dict(
+    carpeta="canal-sur-comun",
+    rotulo="Temario común · Canal Sur",
+    ocupacion=None,
+    titulo="Temario común",
+    subtitulo="Los diez temas del <b>Bloque I</b>, comunes a los cuarenta puestos<br>"
+              "de la convocatoria de la RTVA y Canal Sur Radio y Televisión",
+    pie="Oposiciones Canal Sur – Temario Común",
+    convocatoria="Oposiciones Canal Sur · RTVA · BOJA núm. 186, de 24 de septiembre de 2026",
+    marca="Oposiciones Canal Sur",
+    linea_redaccion="Redacción vigente en <b>septiembre de 2026</b>",
+    caja_redaccion=(
+        "<p><b>Las bases de esta convocatoria no fijan fecha de corte.</b> Cada tema estudia "
+        "la redacción vigente el día en que se escribió —septiembre de 2026—, y su ficha lo "
+        "dice. Donde una norma cambió, el cambio va en el cuerpo del tema con una línea: qué "
+        "cambió, por qué norma y desde cuándo. <b>Antes del examen conviene comprobar que no "
+        "haya reformas posteriores.</b></p>"),
+    parrafo_fuentes=(
+        "<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto "
+        "consolidado del BOE, en el BOJA o en la fuente oficial que se cita en la trazabilidad "
+        "de cada tema. <b>Lo que no se ha podido confirmar no está afirmado</b>: va en «Lo que "
+        "este tema no da», con lo que habría que buscar.</p>"),
+    parrafo_sin_examen=(
+        "<p><b>Este volumen no trae preguntas de examen porque no las hay.</b> Es la primera "
+        "convocatoria de estas características en más de veinte años y no se ha publicado "
+        "ningún cuadernillo anterior. <b>Se dice y no se disimula</b>: un temario que "
+        "inventara preguntas para rellenar sería peor que uno que no las tiene.</p>"),
+    sin_examen=True,
+    avisos={},
+    clase_aviso="errata",
+    rotulo_aviso="Ojo con la",
+    aviso_portada=(
+        "<p><b>Dos documentos del programa no están publicados en fuente oficial.</b> El "
+        "<b>Estatuto profesional</b> vigente de la RTVA (tema 6) y el <b>cuadro de licencias y "
+        "permisos</b> (tema 7): los temas lo dicen y dan lo que sí consta —la ley, la Carta y "
+        "el artículo 33 del convenio—.</p>"),
+    temas=[(b, None) for b in [
+        "01-constitucion-espanola",
+        "02-estatuto-autonomia-andalucia",
+        "03-union-europea",
+        "04-ley-13-2022-y-ley-10-2018",
+        "05-ley-18-2007-rtva",
+        "06-carta-servicio-publico-y-estatuto-profesional",
+        "07-x-convenio-colectivo",
+        "08-igualdad",
+        "09-ley-31-1995",
+        "10-proteccion-de-datos",
+    ]],
+)
+
+
 def ruta_tema(carpeta, base):
     """Dónde vive un tema. Casi siempre, en la carpeta de su bloque; el de
     prevención, en la suya, porque lo comparten los tres bloques específicos y
@@ -2341,7 +2411,7 @@ def main():
         parrafo_partes = (
             "<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
             "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
-        parrafo_preguntas = (
+        parrafo_preguntas = B.get("parrafo_sin_examen") or (
             "<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
             "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
             "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
@@ -2371,13 +2441,13 @@ def main():
 
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <!-- pie: {B["pie"]} -->
-<title>{B["titulo"]} · Oposiciones RTVE</title><style>{CSS}</style></head><body>
+<title>{B["titulo"]} · {B.get("marca", "Oposiciones RTVE")}</title><style>{CSS}</style></head><body>
 <section class="portada-vol">
   <p class="rotulo">{B.get("convocatoria", "Oposiciones RTVE · convocatorias 1/2022 y 3/2022")}</p>
   <h1>{B["titulo"]}</h1>
   <p class="sub">{B["subtitulo"]}</p>
   <div class="meta">
-    Redacción vigente a <b>{CORTE}</b><br>
+    {B.get("linea_redaccion", "Redacción vigente a <b>%s</b>" % CORTE)}<br>
     {linea_meta}<br>
     Generado el {date.today().strftime('%d/%m/%Y')}
   </div>
@@ -2385,18 +2455,11 @@ def main():
 
 <section class="aviso">
 <h1>Cómo usar este volumen</h1>
-<div class="caja">
-<p><b>La redacción que vale es la del {CORTE}</b>, que es la fecha de corte que
-imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la primera
-publicación de las Bases Generales». Lo que cambió después está en el tema, en apartados
-marcados como <i>notas de actualización</i>, y <b>no es materia examinable</b>.</p>
-</div>
+<div class="caja">{B.get("caja_redaccion") or CAJA_CORTE}</div>
 {parrafo_partes}
 {B["aviso_portada"]}
 {parrafo_preguntas}
-<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado
-del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la
-trazabilidad de cada tema.</p>
+{B.get("parrafo_fuentes") or PARRAFO_FUENTES}
 </section>
 
 <section class="indice-gral"><h1>Índice general</h1><ol>{''.join(ig)}</ol></section>

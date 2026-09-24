@@ -662,8 +662,10 @@ derecho a presentar una reclamación ante una autoridad de control, «**en parti
 miembro en el que tenga su residencia habitual, lugar de trabajo o lugar de la supuesta
 infracción**» (artículo 77.1); y, sin perjuicio de esa vía administrativa, derecho a la tutela
 judicial efectiva frente al responsable o al encargado cuando considere vulnerados sus derechos
-(artículo 79.1), ante los tribunales del Estado miembro del establecimiento del responsable o
-encargado, o de la residencia habitual del interesado. Y, conforme al artículo 82.1, «**toda
+(artículo 79.1). Esas acciones se ejercitan ante los tribunales del Estado miembro en que el
+responsable o encargado tenga un establecimiento o, alternativamente, ante los del Estado miembro
+de la residencia habitual del interesado, salvo que el responsable o encargado sea una autoridad
+pública de un Estado miembro que actúe en ejercicio de sus poderes públicos (79.2). Y, conforme al artículo 82.1, «**toda
 persona que haya sufrido daños y perjuicios materiales o inmateriales como consecuencia de una
 infracción del presente Reglamento tendrá derecho a recibir del responsable o el encargado del
 tratamiento una indemnización**» por esos daños.
@@ -1355,7 +1357,7 @@ La regla para recordarlo sale del propio reparto: el 4 % es para los principios 
 derechos de los interesados y las transferencias internacionales; el 2 % para las obligaciones que
 recaen sobre la organización del responsable y del encargado (seguridad, registro, delegado,
 evaluación de impacto y, aunque hable de «consentimiento», las condiciones del consentimiento del
-niño del artículo 8, que el 83.4.a) incluye junto con los artículos 11 y 25 a 43).
+niño del artículo 8, que el 83.4.a) incluye junto con los artículos 11, 25 a 39, 42 y 43).
 
 Y dos reglas de graduación: si se incumplen varias disposiciones para las mismas operaciones, la
 cuantía total «**no será superior a la cuantía prevista para las infracciones más graves**» (83.3).
