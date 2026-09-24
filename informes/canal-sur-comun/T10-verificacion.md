@@ -60,3 +60,19 @@ Formato: dónde · qué decía · qué dice · precepto (error del catálogo).
     aplicable a los encargos de tratamiento efectuados en el marco de la legislación de contratación
     del sector público», que importa a la RTVA; y en el 33.3, que en ese caso los datos se devuelven
     al responsable. Añadidas (error 6).
+15. **Régimen sancionador · tabla del art. 83 RGPD.** La fila del 83.5 decía «o hasta el 4 % del
+    volumen de negocio», sin «tratándose de una empresa» ni la base del cálculo. Completada como la
+    del 83.4 (error 6, menor).
+16. **Régimen sancionador · art. 78.3 LOPDGDD.** Faltaba que el plazo vuelve a correr si el
+    procedimiento de ejecución está paralizado más de seis meses por causa no imputable al
+    infractor. Añadido (error 6).
+
+Comprobados sin cambios en este tramo (leídos el 24-09-2026): arts. 19, 21, 22, 25 a 27, 28, 31,
+34 a 39, 40 a 44, 47 a 55, 57 a 59, 61, 63 a 67, 69 a 77 y DA 6.ª y 23.ª LOPDGDD; arts. 6, 8, 9,
+12, 17 a 22, 33 a 35, 37, 39, 51, 58.2.i) y 83 RGPD, con las correcciones de 2018 (9.1, 37.1.c) y
+2021 (12.3, 18.1.a, 83.4.c); art. 32 Ley 2/2023; arts. 32 y 82 EAA; arts. 43, 45 y 48 Ley 1/2014
+(y la redacción del 48 a 01-01-2026: la función era la letra i); art. 52 Ley 9/2007; arts. 5 y 9
+Ley 18/2007. **Recuentos**: 72 = 17 letras, 73 = 30, 74 = 19 (contadas en el volcado); 34.1 = 16;
+77.1 = 11; 76.2 = 8; 70.1 = 5; 28.2 = 8. **Plazos de la Ley 11/2023**: 64.2 doce meses, 64.3 seis,
+67.2 dieciocho, 65.5 tres meses con archivo expreso posterior, 66 remite al 64.4, 75 «acuerdo de
+inicio», 77.2 sin «apercibimiento»: todo cuadra con la redacción vigente.
