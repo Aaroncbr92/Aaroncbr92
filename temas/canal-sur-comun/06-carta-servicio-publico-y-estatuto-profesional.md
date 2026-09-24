@@ -9,7 +9,7 @@
 | **Fuente** | Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029, aprobada por el Pleno del Parlamento de Andalucía el 14 de diciembre de 2023; Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA |
 | **Identificador** | Carta: BOJA núm. 247, de 28/12/2023 (Resolución de 15 de diciembre de 2023, del Letrado Mayor del Parlamento de Andalucía). Ley 18/2007: `BOE-A-2008-1185` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Carta no ha sido modificada; de la Ley 18/2007, el artículo 8 y la exposición de motivos están en la redacción de la Ley 2/2019, aplicable desde el 28/06/2019, y el resto de los preceptos citados conserva la original |
-| **Extensión** | 13.003 palabras |
+| **Extensión** | 13.008 palabras |
 
 <!-- /portada -->
 
@@ -337,9 +337,9 @@ preguntarse.
   actuación del grupo para sostener su posicionamiento con contenidos en todo tipo de soportes,
   «sumados» a la difusión por ondas hertzianas terrestres, para ofrecer un servicio público
   digital audiovisual «**multimedia y multiplataforma moderno, ágil, útil y eficiente**». 2.2:
-  la prioridad fundamental (epígrafe «Misión de servicio público audiovisual»). 2.3: parámetros de excelencia profesional y
-  máxima calidad técnica y argumental, innovación en plataformas digitales «**para consolidar
-  un servicio público audiovisual basado en Internet**», de acuerdo con la planificación de la
+  la prioridad fundamental (epígrafe «Misión de servicio público audiovisual»). 2.3:
+  parámetros de excelencia profesional y máxima calidad técnica y argumental, innovación en
+  plataformas digitales «**para consolidar un servicio público audiovisual basado en Internet**», de acuerdo con la planificación de la
   Unión Europea.
 - *Art. 3. Principio de interés general.* 3.1: pluralismo (epígrafe de pluralismo). 3.2:
   todos los formatos, lineales y no lineales, se configuran con «**criterios de equilibrio y
@@ -394,8 +394,9 @@ preguntarse.
   riesgos laborales; avances biomédicos y biotécnicos y bioética; medio rural y marino;
   deporte, deporte de base, minoritario, adaptado y femenino; derechos de consumidores y
   usuarios; medio ambiente y cambio climático; ecología; diversidad biológica; investigación
-  científica; investigación, desarrollo e innovación tecnológica; desarrollo empresarial y emprendimiento; empleo y formación
-  profesional; defensa de los sectores productivos; tradiciones culturales identitarias.
+  científica; investigación, desarrollo e innovación tecnológica; desarrollo empresarial y
+  emprendimiento; empleo y formación profesional; defensa de los sectores productivos;
+  tradiciones culturales identitarias.
 - *Art. 9. Defensa de la igualdad de la mujer.* 9.1: conforme a los artículos 45.4 de la Ley
   10/2018, 4.1.f de la Ley 18/2007, y 6 y disposición adicional tercera de la Ley 13/2022, la
   RTVA y Canal Sur, «**considerando las aportaciones de su Delegación de Igualdad**», aplicarán
