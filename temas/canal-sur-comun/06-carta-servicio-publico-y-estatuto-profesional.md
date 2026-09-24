@@ -9,7 +9,7 @@
 | **Fuente** | Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029, aprobada por el Pleno del Parlamento de Andalucía el 14 de diciembre de 2023; Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA |
 | **Identificador** | Carta: BOJA núm. 247, de 28/12/2023 (Resolución de 15 de diciembre de 2023, del Letrado Mayor del Parlamento de Andalucía). Ley 18/2007: `BOE-A-2008-1185` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Carta no ha sido modificada; de la Ley 18/2007, el artículo 8 y la exposición de motivos están en la redacción de la Ley 2/2019, aplicable desde el 28/06/2019, y el resto de los preceptos citados conserva la original |
-| **Extensión** | 13.008 palabras |
+| **Extensión** | 13.026 palabras |
 
 <!-- /portada -->
 
@@ -339,8 +339,8 @@ preguntarse.
   digital audiovisual «**multimedia y multiplataforma moderno, ágil, útil y eficiente**». 2.2:
   la prioridad fundamental (epígrafe «Misión de servicio público audiovisual»). 2.3:
   parámetros de excelencia profesional y máxima calidad técnica y argumental, innovación en
-  plataformas digitales «**para consolidar un servicio público audiovisual basado en Internet**», de acuerdo con la planificación de la
-  Unión Europea.
+  plataformas digitales «**para consolidar un servicio público audiovisual basado en Internet**», de acuerdo con la planificación
+  normativa de la Unión Europea.
 - *Art. 3. Principio de interés general.* 3.1: pluralismo (epígrafe de pluralismo). 3.2:
   todos los formatos, lineales y no lineales, se configuran con «**criterios de equilibrio y
   variedad en todos los géneros de contenidos**», con sentido de utilidad pública y
@@ -541,8 +541,9 @@ preguntarse.
   Federación de Organismos de Radio y Televisión Autonómica (Forta), tendentes tanto a
   potenciar la actuación de los medios públicos de titularidad autonómica de España como a la
   obtención de mejoras y reducción de costes en la adquisición de bienes, producciones y
-  servicios audiovisuales, y una mejor explotación de la actividad comercial conjunta**»; y
-  valorarán su incorporación a organizaciones europeas de entidades audiovisuales públicas.
+  servicios audiovisuales, y una mejor explotación de la actividad comercial conjunta**»; e
+  igualmente valorará su incorporación a organizaciones de entidades audiovisuales públicas en
+  planes y programas de colaboración sobre iniciativas europeas.
   34.4: divulgación de servicios emergentes y formación de profesionales del sector en capacidades digitales.
 - *Art. 35. Racionalización de infraestructuras y sedes.* 35.1: reordenar infraestructuras y
   centros de producción para reducir costes. 35.2: sede e instalaciones en la provincia de
@@ -1140,12 +1141,12 @@ Comprobaciones hechas sobre la fuente:
    en el 3.1 y 7 en el 13.3; 13 apartados en el artículo 13; 3 modalidades de producción en el
    24.2; 15 letras (a-ñ) en el artículo 4.3 de la Ley 18/2007 y 6 principios informativos en su
    4.1.g.
-3. *Erratas del BOJA* que no se han corregido en las citas literales: «la educación, la
-   educación» (7.4), «audiodescripición» (25.1), «Europa Europea» (34.3), y la doble rúbrica del
-   artículo 17 (índice y cuerpo). El artículo 13.10 sitúa el Estatuto en el artículo 10.2 de la Ley
-   18/2007, aunque lo define el 10.1.
-4. *Ley 18/2007*: preceptos leídos en su redacción vigente el 24 de septiembre de 2026. Solo el
-   artículo 8 y la exposición de motivos tienen dos redacciones; la vigente es la de la Ley 2/2019.
+3. *Erratas del BOJA*: «la educación, la educación» (7.4), «audiodescripición» (25.1) y
+   «Europa Europea» (34.3); ninguna entra en una cita literal del tema, y en redonda se dan
+   corregidas. El artículo 17 tiene doble rúbrica (índice y cuerpo). El artículo 13.10 sitúa el
+   Estatuto en el artículo 10.2 de la Ley 18/2007, aunque lo define el 10.1.
+4. *Ley 18/2007*: preceptos leídos en su redacción vigente el 24 de septiembre de 2026. De los
+   citados, solo el artículo 8 y la exposición de motivos tienen dos redacciones; la vigente es la de la Ley 2/2019.
 5. *Estatuto profesional*: el texto vigente no se ha localizado en ninguna fuente oficial. Lo que
    se describe del texto de 2006 procede de la copia enlazada por la web de Canal Sur, contrastada
    con otra copia del mismo texto.

@@ -396,7 +396,7 @@ el apartado citado la nombra:
 | 49 | Energía y minas | Compartida en las materias de 49.1 y en minas (49.5) |
 | 50 | Agua | Exclusiva sobre las aguas «**que transcurran íntegramente por Andalucía**» (50.1) |
 | 51 | Cuenca Hidrográfica del Guadalquivir | Anulado por la sentencia del Tribunal Constitucional 30/2011 |
-| 52 | Educación | Compartida en planes de estudio, becas, admisión (52.2); ejecutiva en expedición y homologación de títulos (52.3) |
+| 52 | Educación | Exclusiva en lo que enumera el 52.1 para la enseñanza no universitaria que conduce a títulos con validez en todo el Estado (entre otras cosas, la programación y creación de centros públicos); compartida en planes de estudio, becas, admisión (52.2); ejecutiva en expedición y homologación de títulos (52.3); ejecución en las demás materias educativas (52.4) |
 | 53 | Universidades | Exclusiva en lo del 53.1; compartida en todo lo demás (53.2); ejecución en la expedición de títulos (53.3) |
 | 55 | Salud, sanidad y farmacia | Exclusiva en organización y funcionamiento de centros y servicios sanitarios (55.1); compartida en sanidad interior (55.2); ejecución de la legislación estatal de productos farmacéuticos (55.3) |
 | 56 | Vivienda, urbanismo, ordenación del territorio, obras públicas | Exclusiva en vivienda, urbanismo, ordenación del territorio y del litoral y obras públicas no declaradas de interés general; compartida en el derecho de reversión en expropiaciones urbanísticas (56.4) |
@@ -592,8 +592,8 @@ Pública de la Radio y Televisión de Andalucía y los Directores de sus socieda
 (artículo 4.3). La ley conserva esos nombres: hoy la Cámara de Cuentas tiene una Presidencia y
 la RTVA es una agencia pública empresarial.
 
-*Estatuto de los Diputados.* Gozan, «**aun después de haber cesado en su mandato**», de
-inviolabilidad por las opiniones y votos emitidos en el ejercicio de su cargo. Durante el mandato
+*Estatuto de los Diputados.* Gozan, «**aun después de haber cesado en su mandato**», de inviolabilidad por las opiniones manifestadas en actos parlamentarios y por los votos emitidos en el
+ejercicio de su cargo. Durante el mandato
 no pueden ser detenidos por actos delictivos cometidos en Andalucía «**sino en caso de flagrante
 delito**», y sobre su «**inculpación, prisión, procesamiento y juicio**» decide en todo caso el
 TSJA; fuera de Andalucía, la responsabilidad penal se exige ante la Sala de lo Penal del
@@ -601,7 +601,9 @@ Tribunal Supremo (artículo 101.3 del Estatuto). Según el Reglamento del Parlam
 adquiere la condición plena de Diputado cumpliendo cuatro requisitos: presentar la credencial,
 declarar a efectos de incompatibilidades, presentar las declaraciones de actividades, bienes e
 intereses, y jurar o prometer la Constitución y el Estatuto (artículo 5.1). Si pasan tres
-sesiones plenarias sin cumplirlos, la Mesa suspende sus derechos y prerrogativas (5.2). La
+sesiones plenarias sin cumplirlos, la Mesa suspende sus derechos y prerrogativas hasta que los
+cumpla, aunque puede, excepcionalmente, apreciar causa de fuerza mayor acreditada y dar un nuevo
+plazo (5.2). La
 condición se pierde por cinco causas: anulación de la elección por sentencia firme; condena
 firme a inhabilitación; fallecimiento o incapacitación declarada judicialmente; extinción del
 mandato; y renuncia (artículo 19).
@@ -687,7 +689,8 @@ proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento
 - *La Mesa* es «**el órgano rector de la Cámara**» y la forman el Presidente, «**tres
   Vicepresidentes y tres Secretarios**» (artículo 27). Se elige en la sesión constitutiva. Para
   Presidente resulta elegido quien obtenga la mayoría absoluta; si nadie la obtiene, se repite
-  la votación entre los dos más votados y gana el que tenga más votos; si el empate persiste
+  la votación entre los dos más votados y gana el que tenga más votos; si empatan, se vota
+  sucesivamente entre los igualados y, si el empate persiste
   «**después de cuatro votaciones**», se considera elegido el candidato propuesto por los
   partidos o grupos «**con mayor respaldo electoral**» (artículo 34.1). La elección de la Mesa se
   repite si las sentencias de los recursos contencioso-electorales cambian la titularidad de más
@@ -709,7 +712,8 @@ proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento
   su Mesa y «**la mitad más uno de los Diputados que las integran**» (42.3) y deben concluir cada
   asunto en «**un plazo máximo de dos meses**», salvo plazo distinto (43.3). El artículo 46.1
   enumera hoy catorce Comisiones permanentes legislativas (lista modificada por acuerdo del
-  Pleno de 22 de octubre de 2025) y el 46.2 seis permanentes más, entre ellas la «**Consultiva de
+  Pleno de 22 de octubre de 2025) y el 46.2, además de las que deban constituirse por disposición legal, seis permanentes más,
+  entre ellas la «**Consultiva de
   Nombramientos, Relaciones con el Defensor del Pueblo Andaluz y Peticiones**» y la de «**Control
   de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y de sus Sociedades
   Filiales**». El Pleno puede variar las Comisiones permanentes en los primeros seis meses de

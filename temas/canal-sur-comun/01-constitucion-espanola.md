@@ -124,8 +124,9 @@ Las cifras:
 - 169 artículos.
 - Once títulos: el Preliminar más diez numerados del I al X.
 - 15 disposiciones: 4 adicionales, 9 transitorias, 1 derogatoria y 1 final.
-- El Título I es el más extenso (46 artículos) y el único dividido en capítulos y secciones; el
-  Título X, el más corto (4 artículos).
+- El Título I es el más extenso (46 artículos) y el único que, además de capítulos, tiene
+  secciones (también se dividen en capítulos los Títulos III y VIII); el Título X, el más corto
+  (4 artículos).
 
 ### Las disposiciones
 
@@ -136,7 +137,7 @@ Adicionales (cuatro).
 | Primera | «**La Constitución ampara y respeta los derechos históricos de los territorios forales.**» Su actualización general se llevará a cabo, en su caso, «**en el marco de la Constitución y de los Estatutos de Autonomía**». |
 | Segunda | La mayoría de edad del artículo 12 «**no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado**». |
 | Tercera | La modificación del **régimen económico y fiscal del archipiélago canario** «**requerirá informe previo de la Comunidad Autónoma o, en su caso, del órgano provisional autonómico**». |
-| Cuarta | En las Comunidades Autónomas con más de una Audiencia Territorial, los Estatutos podrán **mantener las existentes**, distribuyendo las competencias entre ellas conforme a la ley orgánica del poder judicial. |
+| Cuarta | En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territorial, los Estatutos podrán **mantener las existentes**, distribuyendo las competencias entre ellas, «**siempre de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste**». |
 
 Transitorias (nueve). Casi todas son derecho transitorio del proceso autonómico y hoy
 están agotadas.
@@ -144,14 +145,14 @@ están agotadas.
 | | |
 |---|---|
 | Primera | En los territorios con régimen provisional de autonomía, sus órganos colegiados superiores, por acuerdo de la **mayoría absoluta de sus miembros**, podían **sustituir la iniciativa** que el artículo 143.2 atribuye a las Diputaciones o a los órganos interinsulares. |
-| Segunda | Los territorios que **en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía** y contaran con regímenes provisionales de autonomía podían **proceder inmediatamente** en la forma del artículo 148.2, si lo acordaban por mayoría absoluta sus órganos preautonómicos colegiados superiores; el proyecto de Estatuto se elaboraba conforme al artículo 151.2. |
+| Segunda | Los territorios que **en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía** y contaran con regímenes provisionales de autonomía podían **proceder inmediatamente** en la forma del artículo 148.2, si lo acordaban por mayoría absoluta sus órganos preautonómicos colegiados superiores, comunicándolo al Gobierno; el proyecto de Estatuto se elaboraba conforme al artículo 151.2, a convocatoria del órgano colegiado preautonómico. |
 | Tercera | La iniciativa autonómica de las Corporaciones locales del artículo 143.2 quedó **diferida, con todos sus efectos, hasta la celebración de las primeras elecciones locales** una vez vigente la Constitución. |
-| Cuarta | **Navarra**: a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, la iniciativa corresponde al **Órgano Foral competente**, por mayoría de sus miembros, y debe ser **ratificada por referéndum** aprobado por mayoría de los votos válidos emitidos. |
+| Cuarta | **Navarra**: a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, la iniciativa corresponde al **Órgano Foral competente**, por mayoría de sus miembros, y debe ser **ratificada por referéndum** aprobado por mayoría de los votos válidos emitidos. Si no prospera, sólo puede reproducirse en distinto período del mandato del Órgano Foral y, en todo caso, pasado el plazo mínimo del artículo 143. |
 | Quinta | **Ceuta y Melilla** podrán constituirse en Comunidades Autónomas si lo deciden sus Ayuntamientos por **mayoría absoluta de sus miembros** y lo autorizan las Cortes Generales **mediante una ley orgánica**, en los términos del artículo 144. |
 | Sexta | Varios proyectos de Estatuto remitidos a la Comisión Constitucional del Congreso se dictaminan **por el orden de entrada en aquélla**, y el plazo de dos meses del artículo 151 empieza a contar desde que la Comisión termine el estudio del anterior. |
 | Séptima | Los organismos provisionales autonómicos se consideran disueltos en tres casos: constituidos los órganos estatutarios; si la iniciativa no prospera por no cumplir los requisitos del artículo 143; o si no ejercieron el derecho de la transitoria primera **en el plazo de tres años**. |
 | Octava | Las Cámaras que aprobaron la Constitución asumieron las funciones del Congreso y del Senado, «**sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981**»; la promulgación se consideró supuesto del artículo 99 y abrió **un período de treinta días**. |
-| Novena | **A los tres años** de la primera elección de los miembros del Tribunal Constitucional, **sorteo** para designar un grupo de **cuatro miembros** de la misma procedencia que debía cesar y renovarse; a estos solos efectos se agrupan los dos designados a propuesta del Gobierno y los dos del CGPJ. |
+| Novena | **A los tres años** de la primera elección de los miembros del Tribunal Constitucional, **sorteo** para designar un grupo de **cuatro miembros** de la misma procedencia que debía cesar y renovarse; a estos solos efectos se agrupan los dos designados a propuesta del Gobierno y los dos del CGPJ. Tres años después, igual entre los dos grupos no afectados por el primer sorteo; a partir de entonces, el artículo 159.3. |
 
 Derogatoria, tres apartados. Deroga la **Ley 1/1977, de 4 de enero, para la Reforma
 Política** y, en tanto no estuvieran ya derogadas por ella, la de Principios del Movimiento
@@ -388,7 +389,9 @@ publicación; reescribió el artículo entero.*
    escapen al control del Estado y perjudiquen considerablemente su situación financiera o su
    sostenibilidad económica o social, «**apreciadas por la mayoría absoluta de los miembros del
    Congreso de los Diputados**». Son tres supuestos.
-5. Una ley orgánica desarrollará estos principios y regulará «**En todo caso**»: a) la
+5. Una ley orgánica desarrollará estos principios, así como la participación, en los
+   procedimientos respectivos, de los órganos de coordinación institucional entre las
+   Administraciones Públicas en materia de política fiscal y financiera, y regulará «**En todo caso**»: a) la
    distribución de los límites de déficit y de deuda entre las Administraciones, los supuestos
    excepcionales de superación y la forma y plazo de corrección de las desviaciones; b) «**La
    metodología y el procedimiento para el cálculo del déficit estructural.**»; c) «**La
@@ -399,14 +402,15 @@ publicación; reescribió el artículo entero.*
    estabilidad en sus normas y decisiones presupuestarias**».
 
 La reforma de 2011 llevaba una disposición adicional única: la ley orgánica del nuevo artículo
-«**deberá estar aprobada antes del 30 de junio de 2012**», y «**Los límites de déficit
+«**deberá estar aprobada antes del 30 de junio de 2012**»; esa ley contemplará los mecanismos
+que permitan cumplir el límite de deuda del artículo 135.3; y «**Los límites de déficit
 estructural establecidos en el artículo 135.2 de la Constitución Española entrarán en vigor a
 partir de 2020.**»
 
 ### Derechos y deberes fundamentales
 
 El Título I, «De los derechos y deberes fundamentales» (artículos 10 a 55), tiene cuarenta y
-seis artículos y es el único con capítulos y secciones:
+seis artículos y es el único que, además de capítulos, tiene secciones:
 
 | | |
 |---|---|
@@ -496,7 +500,7 @@ confesiones**».
 - El detenido debe ser informado «**de forma inmediata, y de modo que le sea comprensible**»,
   de sus derechos y de las razones de su detención, «**no pudiendo ser obligada a declarar**»,
   y se garantiza «**la asistencia de abogado al detenido en las diligencias policiales y
-  judiciales**».
+  judiciales, en los términos que la ley establezca**».
 - La ley regulará un procedimiento de «**habeas corpus**» para la inmediata puesta a
   disposición judicial de toda persona detenida ilegalmente, y «**por ley se determinará el
   plazo máximo de duración de la prisión provisional**»: la Constitución no lo fija.
@@ -610,7 +614,8 @@ libertad de creación de centros docentes, dentro del respeto a los principios
 constitucionales**» (27.6). «**Los profesores, los padres y, en su caso, los alumnos
 intervendrán en el control y gestión de todos los centros sostenidos por la Administración con
 fondos públicos, en los términos que la ley establezca.**» (27.7). Los poderes públicos
-inspeccionarán y homologarán el sistema educativo (27.8) y ayudarán a los centros docentes que
+inspeccionarán y homologarán el sistema educativo «**para garantizar el cumplimiento de las
+leyes**» (27.8) y ayudarán a los centros docentes que
 reúnan los requisitos que la ley establezca (27.9). «**Se reconoce la autonomía de las
 Universidades, en los términos que la ley establezca.**» (27.10).
 
@@ -722,8 +727,10 @@ La Constitución no los agrupa: están repartidos. Los que dice con la palabra �
 
 A ellos se suman el de contribuir al sostenimiento de los gastos públicos («**Todos
 contribuirán**», artículo 31.1), el de los padres de «**prestar asistencia de todo orden a los
-hijos habidos dentro o fuera del matrimonio**» (artículo 39.3) y la obligación de «**cumplir las
-sentencias y demás resoluciones firmes de los Jueces y Tribunales**» (artículo 118).
+hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en
+que legalmente proceda**» (artículo 39.3) y la obligación de «**cumplir las sentencias y demás
+resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por
+éstos en el curso del proceso y en la ejecución de lo resuelto**» (artículo 118).
 
 ### Los principios rectores de la política social y económica
 
@@ -734,7 +741,7 @@ ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.**» (ar
 
 | Art. | Principio |
 |---|---|
-| 39 | Los poderes públicos aseguran la protección social, económica y jurídica **de la familia** (39.1) y la protección integral de los hijos, «**iguales éstos ante la ley con independencia de su filiación**», y de las madres, «**cualquiera que sea su estado civil**»; «**La ley posibilitará la investigación de la paternidad.**» (39.2). Los padres deben prestar asistencia de todo orden a los hijos (39.3). «**Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.**» (39.4). |
+| 39 | Los poderes públicos aseguran la protección social, económica y jurídica **de la familia** (39.1) y la protección integral de los hijos, «**iguales éstos ante la ley con independencia de su filiación**», y de las madres, «**cualquiera que sea su estado civil**»; «**La ley posibilitará la investigación de la paternidad.**» (39.2). Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, «**durante su minoría de edad y en los demás casos en que legalmente proceda**» (39.3). «**Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.**» (39.4). |
 | 40 | Condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, «**en el marco de una política de estabilidad económica**»; «**De manera especial realizarán una política orientada al pleno empleo.**» (40.1). Formación y readaptación profesionales; «**velarán por la seguridad e higiene en el trabajo**» y garantizarán el descanso necesario «**mediante la limitación de la jornada laboral, las vacaciones periódicas retribuidas y la promoción de centros adecuados**» (40.2). |
 | 41 | «**Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.**» |
 | 42 | El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los **trabajadores españoles en el extranjero** «**y orientará su política hacia su retorno**». |

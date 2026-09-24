@@ -211,6 +211,7 @@ este tema:
 | Art. 26 | Comité Salud Laboral | Comité de Salud Laboral |
 | Art. 31 | Asistencia sanitaria | Unidad Basica de Salud y Asistencia Sanitaria |
 | Art. 40 | Prestaciones por incapacidad temporal | Prestaciones complementarias por incapacidad temporal |
+| Art. 46 | Comisión valoración puestos de trabajo | Comisión Valoración de Puestos de Trabajo |
 | Art. 52 | Pagas extraordinarias | Pagas |
 | DA 1.ª | Salarios y otros conceptos retributivos | Salario y otros conceptos retributivos |
 | DA 6.ª | Cláusula de conciencia | Cláusula de conciencia y derecho de autor |
@@ -565,7 +566,9 @@ puede suponer disminución del total de puestos de los grupos afectados y exige 
   misma localidad si hay vacante de su grupo.
 - 3.6, garantías: conserva puesto, nivel y retribución; sin acuerdo en consultas, puede acudir a la
   COMVI en cinco días, que lo analiza en diez; si persiste la discrepancia, mediación del
-  CEMAC o del SERCLA a su elección (el convenio los nombra solo por sus siglas); la decisión «**no
+  CEMAC o del SERCLA a su elección (el convenio los nombra solo por sus siglas; el libro de
+  estilo de Canal Sur desarrolla SERCLA como Sistema Extrajudicial de Resolución de Conflictos
+  Laborales de Andalucía, y CEMAC no lo desarrolla ninguna de las fuentes del tema); la decisión «**no
   resultará ejecutiva hasta que no concluya la mediación**»; y el puesto que deja no puede
   cubrirse «**durante un período mínimo de dos años**», con preferencia del trasladado para volver.
 - 3.7, tres excepciones al traslado forzoso: a) quienes «**hayan cumplido cuarenta y ocho o más
@@ -695,7 +698,8 @@ modalidades: voluntaria, forzosa y especial.
   puesto.
 - Se pierde el reingreso si no se pide «**con 15 días de antelación a la expiración**», y la
   relación laboral queda «**extinguida automáticamente**».
-- Incorporación «**dentro de los dos meses, como máximo**» desde la petición en plazo.
+- Incorporación «**dentro de los dos meses, como máximo**» desde la petición en plazo, salvo causa
+  justificada que la impida.
 - El tiempo de excedencia voluntaria «**no computará a ningún efecto**».
 
 *II. Excedencia forzosa*
@@ -705,14 +709,17 @@ modalidades: voluntaria, forzosa y especial.
 - Duración: la del mandato o nombramiento. Reincorporación pedida «**en los treinta días
   siguientes al cese efectivo**».
 - Mismas garantías para quien la pida para programas de desarrollo y cooperación con el «**Tercer
-  Mundo**» o labores humanitarias a través de organismos del Estado u ONG reconocidas.
+  Mundo**» o labores humanitarias a través de organismos del Estado o de organizaciones no gubernamentales
+  debidamente reconocidas.
 
 *III. Excedencia especial*
 
 - *Cuidado de hijos* (apdo. 1): «**no superior a seis años para atender al cuidado de cada
   hijo/a**», por naturaleza, adopción o acogimiento; cada hijo nuevo abre un período nuevo que
   pone fin al anterior; si padre y madre están en el convenio, «**solamente uno de ellos podrá
-  ejercer este derecho**»; se cuenta desde el fin de la licencia de embarazo o de adopción;
+  ejercer este derecho**»; se cuenta desde el nacimiento o la resolución judicial o administrativa,
+  pero si la pide la trabajadora, desde el término de la licencia de embarazo, y en la adopción,
+  desde que termina la licencia por adopción;
   computa para la antigüedad; da derecho a cursos de formación; reingreso «**en cualquier
   momento**»; agotado el plazo sin reincorporarse, baja definitiva, salvo que en el mes anterior se
   pida y obtenga la voluntaria.
@@ -778,8 +785,8 @@ con discapacidad**». El convenio no dice qué artículos de este capítulo son 
 - Se pagan «**en una sola vez en el mes de agosto**»; si el otro cónyuge o conviviente cobra menos
   en su empresa, se completa hasta estas cantidades.
 - Ayuda específica de «**96,00 euros mensuales**» por hijo con minusvalía física o psíquica, desde
-  la declaración «**hasta los cuarenta años inclusive**», certificada por la Seguridad Social u
-  organismo competente; si ambos progenitores están en el convenio, la cobra uno solo.
+  la declaración «**hasta los cuarenta años inclusive**» y mientras siga vigente la relación
+  laboral, certificada por la Seguridad Social u organismo competente; si ambos progenitores están en el convenio, la cobra uno solo.
 - Se pagan a quien tenga la guarda y custodia.
 
 #### Artículo 38. Becas de estudio
@@ -934,7 +941,7 @@ trienio**» y se cobran en todas las mensualidades y pagas extraordinarias.
 | Quebranto de moneda | «**35,36 euros mensuales**» a quien maneje habitualmente dinero en efectivo |
 | Mando orgánico | «**30% sobre el salario base**» |
 | Especial responsabilidad | «**30% o el 45% del salario base mensual**»; el del 45 % es incompatible con cobrar horas extraordinarias y con la turnicidad |
-| Disponibilidad | «**30% del salario base**» si la disponibilidad supera quince días al mes; «**15%**» si es inferior. Se mantiene el porcentaje que se venía cobrando (0 %, 15 % o 30 %); incompatible con la turnicidad |
+| Disponibilidad | «**30% del salario base**» si la disponibilidad supera quince días al mes; «**15%**» si es inferior. Se aplica previo acuerdo con el trabajador. Se mantiene el porcentaje que se venía cobrando (0 %, 15 % o 30 %); incompatible con la turnicidad, respetando los derechos adquiridos de quienes ya la cobraban |
 | Turnicidad | «**5% del salario base**»; incompatible con la disponibilidad del 30 % |
 | Polivalencia | «**12% del salario base**», por funciones distintas de las del grupo o puesto que no sean de nivel superior |
 | Idiomas | «**5%**» sobre el salario base |
@@ -1050,8 +1057,9 @@ Local donde haya Comité de Empresa y tablones suficientes en todos los centros.
 
 #### Artículo 61. Delegados/as Sindicales
 
-Un delegado por sección sindical, trabajador en activo, reconocido tras acreditarlo. Horas: «**de 50
-a 250 trabajadores/as: 30 horas/mes**» y «**de 251 en adelante: 45 horas/mes**». Mismas garantías
+Un delegado por sección sindical, trabajador en activo, reconocido tras acreditarlo. Horas, si la
+sección reúne los requisitos del artículo 60.1: «**de 50 a 250 trabajadores/as: 30 horas/mes**» y
+«**de 251 en adelante: 45 horas/mes**». Mismas garantías
 que los miembros del comité; acumulan horas con su candidatura; son informados y oídos en
 problemas y sanciones de sus afiliados; asisten con voz y sin voto a reuniones del comité si este
 lo acuerda.
@@ -1069,8 +1077,9 @@ excepcionales.
 
 #### Artículo 63. Norma general
 
-No es indisciplina negarse a órdenes que vulneren el convenio o a incumplir normas que constituyan
-infracción del ordenamiento. Nadie puede ser despedido por toxicomanía o drogadicción «**salvo que
+«**No podrá considerarse indisciplina o desobediencia en el trabajo la negativa a ejecutar órdenes
+que vulneren aquello que se establece en el presente Convenio Colectivo o el incumplimiento de
+normas que constituyan una infracción del ordenamiento jurídico.**» Nadie puede ser despedido por toxicomanía o drogadicción «**salvo que
 éstas repercutan gravemente en el normal desempeño de su cometido profesional**».
 
 #### Artículo 64. Faltas
@@ -1086,7 +1095,8 @@ consideración a su importancia, trascendencia y malicia, en leves, graves y muy
    meses consecutivos**».
 3. Abandonar el puesto sin llegar el relevo, sin perjuicio para el servicio.
 4. No notificar la ausencia «**en las dos primeras jornadas**» o no enviar el parte «**en los ocho
-   primeros días**».
+   primeros días**», cuando se falta por motivo justificado, salvo que se pruebe la imposibilidad
+   de haberlo hecho.
 5. Ausencia injustificada no reiterada.
 6. Pequeños descuidos con el material.
 7. No comunicar cambios de residencia o domicilio.
