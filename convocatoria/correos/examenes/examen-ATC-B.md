@@ -1,0 +1,650 @@
+# Examen de Correos del 7 de mayo de 2023 · modelo B
+
+Cuadernillo `Cuestionario-ATC_B_07052023.txt` cruzado con su plantilla oficial.
+**Las anuladas van dichas**: su enunciado es material de estudio, pero su
+respuesta no calibra nada.
+
+**1.** ¿Cuál de las siguientes afirmaciones sobre la propiedad del importe de los giros es correcta?
+- **A.** El remitente puede solicitar la recuperación o modificación del giro solamente el mismo día en que se ha admitido.
+- **B.** El remitente puede solicitar la recuperación o modificación del giro antes de haberse abonado al destinatario ←
+- **C.** El remitente no puede solicitar la recuperación ni la modificación de un giro si ya ha sido admitido y cobrada la bolsa en IRIS.
+- **D.** El remitente no puede solicitar la recuperación ni la modificación si el envío ha sido avisado por reparto
+
+**2.** El destinatario de una carta ordinaria, ¿puede rehusarla?
+- **A.** No, en ningún caso
+- **B.** Sí, en el momento en que lo desee
+- **C.** Sí, pero antes de abrirla ←
+- **D.** Sí, pero presentando una solicitud para no recibir más envíos de ese remitente
+
+**3.** ¿Cuál de las siguientes alternativas no está considerada en Correos como un tipo habitual de admisión de envíos postales?
+- **A.** Admisión masiva
+- **B.** Admisión en citypaq
+- **C.** Recogida en buzones
+- **D.** Recogida internacional ←
+
+**4.** Si en mi puesto de trabajo debo configurar una contraseña para el acceso a los sistemas de Correos, ¿de qué debe componerse, como mínimo, para que sea segura?
+- **A.** Un código numérico, puesto que es lo más complejo de adivinar
+- **B.** Es suficiente con tener letras y números, siempre y cuando sea lo más larga posible
+- **C.** Caracteres alfanuméricos, incluyendo letras mayúsculas, minúsculas, dígitos y signos de puntuación ←
+- **D.** Datos fácilmente recordables, como mi nombre, mi fecha de nacimiento, mi DNI, mi dirección o nombres de familiares cercanos.
+
+**5.** ¿Qué tipología de envíos entran en el almacén de archivo de una oficina?
+- **A.** Aquellos envíos registrados devueltos, que no han podido entregarse al remitente ←
+- **B.** Aquellos envíos que no se han podido entregar, por estar el destinatario de vacaciones
+- **C.** Aquellos envíos para los que el cliente ha contratado este servicio
+- **D.** Aquellos envíos que por tamaño no caben en el almacén de avisados de la oficina
+
+**6.** ¿A través de qué canales se puede contratar el servicio "Buzón de vacaciones"?
+- **A.** Se puede contratar en las oficinas de Correos por particulares y empresas; en la página Web solo por particulares
+- **B.** Se puede contratar en las oficinas de Correos por particulares y empresas; en Correos Market solo por particulares
+- **C.** Se puede contratar en las oficinas de Correos y en la página Web, tanto para particulares como para empresas ←
+- **D.** Se puede contratar en las oficinas de Correos por particulares y empresas; en la página Web solo por empresas.
+
+**7.** ¿Qué tipo de envío es el publibuzón?
+- **A.** Son envíos de publicidad personalizados, con dirección del destinatario y entrega en el buzón
+- **B.** Son envíos de publicidad sin personalizar ←
+- **C.** Son folletos que se recogen en las oficinas de Correos
+- **D.** Son envíos de publicidad personalizados y con dirección de destinatario, que no caben en el buzón
+
+**8.** En relación con los canales de atención al cliente de los que dispone Correos, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** Únicamente los clientes con contrato tienen acceso a una atención multicanal
+- **B.** Todos los clientes de Correos tienen acceso a una atención multicanal ←
+- **C.** Actualmente Correos no dispone de atención multicanal para sus clientes
+- **D.** La atención multicanal de Correos no contempla en este momento las redes sociales
+
+**9.** En las operaciones de giro, indique cuál de los siguientes documentos no es válido para la identificación formal de personas físicas de nacionalidad extranjera:
+- **A.** Certificado de registro de ciudadanos de la Unión Europea (carta verde) ←
+- **B.** Tarjeta de Identidad de Extranjero o Tarjeta de residencia
+- **C.** Tarjeta de Asilo Político
+- **D.** Pasaporte válido en el país de procedencia que incorpore fotografía de su titular
+
+**10.** ¿Cómo se denomina la aplicación específica para el envío de un giro en Correos?
+- **A.** IRIS
+- **B.** SEDI ←
+- **C.** SICER
+- **D.** WUPOS
+
+**11.** De los siguientes tipos de envíos, hay uno que por sus características no tiene entrega domiciliaria y por tanto su entrega siempre será en la oficina. ¿Cuál es?
+- **A.** Un envío ordinario internacional con un peso de 100 gramos
+- **B.** Un envío certificado con valor declarado
+- **C.** Un certificado nacional dirigido a un apartado de Correos ←
+- **D.** Un libro con un peso inferior a 200 gramos
+
+**12.** De las siguientes opciones, ¿cuál no se corresponde exactamente con una de las asociaciones internacionales a las que pertenece Correos?
+- **A.** IPC (International Post Corporation)
+- **B.** UPU (Unión Postal Universal)
+- **C.** UPAE (Unión Postal de las Américas y España) ←
+- **D.** Kahala Post Group
+
+**13.** ¿Cómo se llama el nuevo centro internacional de Correos que estará dedicado íntegramente al correo internacional de importación?
+- **A.** CTI Barajas
+- **B.** Rampa 7 ←
+- **C.** CCP Barajas
+- **D.** CTP el Prat
+
+**14.** Los servicios de proximidad de Correos Frío, orientados al transporte de última milla de alimentación, se realizan mediante… (señale la respuesta correcta): · **ANULADA**
+- **A.** Cajas isotérmicas
+- **B.** Vehículos convencionales
+- **C.** Palets refrigerados
+- **D.** Vehículos isotermos, refrigerados o frigoríficos
+
+**15.** Entre las siguientes, ¿a qué entidad o entidades clasifica la Comisión Nacional de los Mercados y la Competencia como operador público en el segmento CEP (Courier, Express and Parcel)?
+- **A.** Solo a Correos Express, S.A.
+- **B.** A la Sociedad Estatal Correos y Telégrafos S.A., S.M.E. y a Correos Express, S.A. ←
+- **C.** Solo a la Sociedad Estatal Correos y Telégrafos S.A., S.M.E.
+- **D.** A la Sociedad Estatal Correos y Telégrafos S.A., S.M.E. y a los operadores adheridos
+
+**16.** ¿Pueden depositarse en un apartado postal los envíos en cuya dirección conste solo el domicilio del cliente?
+- **A.** Sí, siempre y cuando el titular o titulares del servicio autoricen por escrito a la unidad de distribución para que los envíos dirigidos a su domicilio sean depositados en su apartado. ←
+- **B.** No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado.
+- **C.** Sí, se pueden depositar los envíos dirigidos al titular o titulares, sin necesidad de realizar autorización por escrito.
+- **D.** No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado y el nombre de titular o titulares del mismo.
+
+**17.** ¿Cuál de los siguientes servicios o productos no puede cobrarse en metálico al cliente en una oficina?
+- **A.** Un envío de Western de Unión de 1.500 €
+- **B.** El pago de una multa de 2.000 € de la DGT
+- **C.** Un pago de un recibo de Endesa de 500 €
+- **D.** La admisión de 50 burofaxes, por un importe total de 1.200 € ←
+
+**18.** ¿Cuáles son las dimensiones de la agenda de la diversidad en Correos?
+- **A.** Género, cultural, discapacidad y generacional
+- **B.** Cultural, empresa saludable y comunicación
+- **C.** Desarrollo profesional y talento
+- **D.** Género, LGTBI, discapacidad, cultural y generacional ←
+
+**19.** ¿Cuáles de los siguientes valores añadidos se pueden contratar con la carta certificada nacional?
+- **A.** Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica.
+- **B.** Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancía y aviso de recibo
+- **C.** Reembolso, valor declarado de la mercancía y prueba de entrega electrónica ←
+- **D.** Entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica Página 2 de 14 - ATC/B B
+
+**20.** ¿Cuál es el plazo máximo para solicitar una certificación de contenido de un burofax de ámbito nacional?
+- **A.** 7 días naturales, tiempo durante el que se conservan las carátulas y la documentación de los burofaxes; una vez transcurrido este plazo se procede a su destrucción de forma segura.
+- **B.** El plazo máximo será el periodo de custodia que se haya contratado en el momento de la admisión del burofax ←
+- **C.** 7 días hábiles, tiempo durante el que se conservan las carátulas y la documentación de los burofaxes; una vez transcurrido este plazo se procede a su destrucción de forma segura.
+- **D.** La certificación de contenido deberá solicitarse exclusivamente en el momento de la admisión para garantizar la veracidad del documento.
+
+**21.** ¿Cuál es la principal funcionalidad de la aplicación Quenda?
+- **A.** Permite acceder a la funcionalidad de transferencia de dinero en minutos
+- **B.** Permite identificar a los clientes cuando realizan una compra en la oficina
+- **C.** Permite controlar el tiempo de espera de los clientes en las oficinas ←
+- **D.** Permite acceder a la funcionalidad de envío de dinero
+
+**22.** ¿Cuál de los siguientes organismos es el encargado del sistema de autorizaciones, del cobro de tasas postales y de la gestión del Registro General de empresas prestadoras de servicios postales?
+- **A.** El Ministerio de Asuntos Económicos y Transformación Digital
+- **B.** La S.E. Correos y Telégrafos S.A., S.M.E.
+- **C.** El Ministerio de Hacienda y Función Pública
+- **D.** La Subdirección General de Régimen Postal ←
+
+**23.** Entre los siguientes, ¿cuál es un medio de pago válido en la red de oficinas?
+- **A.** Bizum
+- **B.** Cheque
+- **C.** Ingreso en cuenta ←
+- **D.** Bitcoins
+
+**24.** ¿Se pueden enviar recibos y facturas como cartas ordinarias?
+- **A.** Sí, pero solo si es dentro del mes siguiente a su emisión
+- **B.** No, ya que no tienen carácter personal
+- **C.** Sí, tanto recibos como facturas ←
+- **D.** Solo las facturas, ya que los recibos llevan información de carácter no personal
+
+**25.** En el contexto de la aplicación de medidas reforzadas en las operaciones de envío o cobro de dinero en una oficina, ¿cuál es el significado de las siglas DAE?
+- **A.** Documento de Acreditación Estatal
+- **B.** Dirección de Asuntos Económicos
+- **C.** Declaración de Actividad Económica ←
+- **D.** Ninguna de las respuestas anteriores es correcta Preguntas psicotécnicas: Se pretende hacer un estudio acerca de las características físicas dentro de la población de Villa-Ría, un pueblo del norte de España. El diagrama siguiente muestra la distribución de colores de pelo registrado. De acuerdo con ello, conteste a las siguientes preguntas: Página 3 de 14 - ATC/B
+
+**26.** ¿Qué porcentaje de la población sumarían aquellos que son de pelo negro o pelirrojo?
+- **A.** 44 % ←
+- **B.** 40 %
+- **C.** 35 %
+- **D.** 46 %
+
+**27.** Teniendo en cuenta que Villa-Ría tiene 800 habitantes, ¿cuántos de ellos son castaños?
+- **A.** 200 habitantes
+- **B.** 150 habitantes
+- **C.** 320 habitantes ←
+- **D.** 90 habitantes
+
+**28.** Sabiendo que la mitad de las personas rubias de Villa-Ría son mujeres. ¿Cuántas mujeres rubias hay en Villa-Ría? (Total habitantes: 800)
+- **A.** 25 mujeres
+- **B.** 40 mujeres ←
+- **C.** 75 mujeres
+- **D.** 100 mujeres
+
+**29.** En relación con la carta certificada estándar, indique cuál de las siguientes afirmaciones es correcta:
+- **A.** Peso hasta 50 gr. y dimensiones 189 mm x 250 mm
+- **B.** Peso hasta 200 gr. y dimensiones 162 mm x 229 mm
+- **C.** Peso hasta 100 gr. y dimensiones 189 mm x 250 mm
+- **D.** Peso hasta 50 gr. y dimensiones 162 mm x 229 mm ←
+
+**30.** ¿Con cuántas modalidades cuenta el reembolso en el Paq Estándar para clientes de contrato?
+- **A.** Cuenta con dos modalidades: entrega a domicilio con un máximo de 499,99 € y abono en cuenta con un máximo de 2.499,99 €.
+- **B.** Cuenta con dos modalidades: entrega a domicilio con un máximo de 499,99 € y abono en cuenta con un máximo de 6.000,00 €.
+- **C.** Solo cuenta con la modalidad de abono en cuenta con un máximo de 2.499,99 € ←
+- **D.** Ninguna de las opciones anteriores es correcta
+
+**31.** Uno de los datos que debe conocer el destinatario de una operación de Western Union es el importe a cobrar, ¿cuál es el porcentaje de desviación permitido para ese importe?
+- **A.** ± 10% ←
+- **B.** ± 15%
+- **C.** ± 5%
+- **D.** ± 20%
+
+**32.** En relación con el derecho a la protección de datos personales, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** El derecho a la protección de datos personales es un derecho fundamental protegido por el artículo 18.4 de la Constitución Española. ←
+- **B.** El derecho a la protección de datos no es un derecho fundamental, no estando recogido en la Constitución Española.
+- **C.** El derecho a la protección de datos es un derecho de los titulares, pero no tiene la consideración de derecho fundamental.
+- **D.** El derecho a la protección de datos personales no está recogido en la Carta de los Derechos Fundamentales de la Unión Europea.
+
+**33.** Entre las siguientes, ¿qué tipología de entrega en oficinas no existe actualmente?
+- **A.** Entrega exclusiva al destinatario
+- **B.** Entrega con prueba de entrega electrónica
+- **C.** Entrega con recogida
+- **D.** Entrega con pago diferido ←
+
+**34.** ¿En qué casos los ciudadanos podrán solicitar, a través de las oficinas de Correos, un duplicado del permiso de circulación de un vehículo?
+- **A.** Solo en caso de extravío y deterioro, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico.
+- **B.** Solo en caso de deterioro, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico
+- **C.** En caso de extravío, deterioro o sustracción, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico. ←
+- **D.** Solo en caso de extravío, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico Página 4 de 14 - ATC/B B
+
+**35.** ¿Qué es Correos Market?
+- **A.** Correos Market es la plataforma de soluciones e-commerce de Correos, donde se pueden contratar servicios como: crea tu tienda, cross-border e-commerce o vender en Marketplace.
+- **B.** Correos Market es el servicio que tiene Correos para los peregrinos de El Camino de Santiago, donde se pueden contratar servicios como el Paq Bicicleta o el Paq Compostela.
+- **C.** Correos Market no es un ningún servicio que ofrezca Correos actualmente
+- **D.** Correos Market es una plataforma de comercio electrónico de Correos que persigue que los vendedores puedan publicar, promocionar y vender sus productos. ←
+
+**36.** En el ámbito del márketing, ¿qué es un Lead?
+- **A.** Hace referencia a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial. Solamente puede ser una organización interesada en lo que esa empresa le está ofreciendo, nunca una persona.
+- **B.** Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial, es decir, en una persona u organización interesada en lo que esa empresa le está ofreciendo. ←
+- **C.** Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial. Solamente puede ser una persona, nunca una organización interesada en lo que esa empresa le está ofreciendo.
+- **D.** Hace referencia a un cliente con una antigüedad superior a 10 años. Puede tratarse de una persona física o jurídica.
+
+**37.** ¿Qué es la ciberseguridad?
+- **A.** Es una ciencia que estudia cuáles son los posibles fallos del hardware y el software para poder explotarlos y robar información.
+- **B.** Son tácticas utilizadas para obtener datos de naturaleza sensible de una persona. Estas técnicas de persuasión suelen valerse de la buena voluntad y falta de precaución de la víctima.
+- **C.** Es una actividad maliciosa en la que un atacante se hace pasar por otra persona para cometer algún tipo de fraude.
+- **D.** Es el conjunto de medidas de protección de la información en formato digital alojada en sistemas de información interconectados. ←
+
+**38.** En una oficina, ¿cuál de las siguientes utilidades está contemplada en la aplicación IRIS?
+- **A.** Gestión de vacaciones y ausencias de empleados
+- **B.** Seguimiento de tiempos de espera de los clientes
+- **C.** Venta de productos ←
+- **D.** Entrega de envíos
+
+**39.** Indique cuál de las siguientes afirmaciones es correcta, en relación con la entrega en una oficina de un producto de paquetería a un menor de edad:
+- **A.** Se podrá realizar la entrega a un menor de edad, siempre que tenga 14 años o más y presente un documento de identificación válido. ←
+- **B.** En ningún caso se podrá realizar la entrega de un envío a un menor de edad; siempre lo tendrá que recoger el padre/madre/tutor debidamente acreditado.
+- **C.** Se podrá realizar la entrega independientemente de la edad del destinatario, siempre que posea un documento de identidad válido y en vigor.
+- **D.** Únicamente se podrá realizar la entrega en el caso de que el menor presente un escrito de su padre, madre o tutor justificando la necesidad.
+
+**40.** A efectos fiscales y aduaneros, ¿cuál de las siguientes afirmaciones es incorrecta respecto a la situación de Canarias en el marco de la Unión Europea:
+- **A.** Canarias está integrada en el territorio aduanero de la Unión
+- **B.** Canarias es territorio de aplicación del IVA ←
+- **C.** Canarias es territorio de la Unión Europea
+- **D.** Canarias es territorio de aplicación del impuesto general indirecto canario (IGIC)
+
+**41.** En un centro de tratamiento, ¿cuál es la Unidad encargada de la clasificación automática y manual de los productos ordinarios, sin trazabilidad en los sistemas de Correos?
+- **A.** UPO ←
+- **B.** UPR
+- **C.** Zona Logística
+- **D.** UAM
+
+**42.** ¿Cuál es la duración máxima del mantenimiento de la cadena de frío de un Paq Frío para el servicio de alimentación?
+- **A.** 12 horas
+- **B.** 24 horas
+- **C.** 36 horas
+- **D.** 48 horas Página 5 de 14 - ATC/B ←
+
+**43.** ¿Cuántos miembros deben componer el Consejo de Administración de Correos?
+- **A.** Entre 10 y 12 miembros
+- **B.** Al menos 20 miembros
+- **C.** Entre 12 y 15 miembros ←
+- **D.** Correos no dispone de Consejo de Administración
+
+**44.** ¿Cuáles son los límites de tamaño de los documentos escaneados para su envío a través de la Oficina de Registro Virtual (ORVE)?
+- **A.** Máximo de 3 documentos por envío, con un peso máximo por documento de hasta 15 MB y el total de los documentos no puede sobrepasar los 45 MB.
+- **B.** Máximo de 5 documentos por envío, con un peso máximo por documento de hasta 10 MB y el total de los documentos no puede sobrepasar los 15 MB. ←
+- **C.** Máximo 3 documentos por envío, con un peso máximo por documento de hasta 10 MB y el total de los documentos no puede sobrepasar los 15 MB.
+- **D.** Máximo 5 documentos por envío, con un peso máximo por documento de hasta 15 MB y el total de los documentos no puede sobrepasar los 45 MB.
+
+**45.** ¿Cuál es el peso máximo para un paquete azul admitido en una oficina?
+- **A.** 20 kg ←
+- **B.** 2 kg
+- **C.** 40 kg
+- **D.** 30 kg
+
+**46.** ¿Todos los mandos de Correos que tengan personal a sus órdenes son responsables de la seguridad y la salud de los trabajadores a su cargo?
+- **A.** Sí, por lo que deben conocer y hacer cumplir todas las reglas de Prevención de Riesgos Laborales (PRL) que afecten al trabajo que realicen. ←
+- **B.** No son responsables en ningún caso
+- **C.** Sí, son responsables, pero solo en algunos casos
+- **D.** No está dentro de sus competencias, puesto que no reciben formación en esta materia
+
+**47.** ¿Qué valores añadidos pueden contratarse con un burofax premium admitido en una oficina?
+- **A.** Prueba de entrega electrónica, valor declarado, copia certificada y acuse de recibo
+- **B.** Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y acuse de recibo
+- **C.** Prueba de entrega electrónica, custodia documental de 120 meses, copia certificada y acuse de recibo ←
+- **D.** Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y copia certificada
+
+**48.** En relación con las modalidades del reenvío postal, indique cuál de las siguientes afirmaciones es correcta:
+- **A.** Si el cambio de dirección es definitivo, al finalizar el periodo de contratación la correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el envío.
+- **B.** Si el cambio de dirección es temporal, al finalizar el periodo de contratación la correspondencia que llegue al domicilio original se devolverá a la dirección del remitente como "desconocido".
+- **C.** Tanto si el cambio de dirección es temporal como definitivo, al finalizar el periodo de contratación la correspondencia que llegue al domicilio original se devolverá a la dirección del remitente como "desconocido".
+- **D.** Si el cambio de dirección es temporal, al finalizar el periodo de contratación la correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el envío. Preguntas psicotécnicas: ←
+
+**49.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: Página 6 de 14 - ATC/B B · **psicotécnica, opciones en figura**
+
+**50.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **psicotécnica, opciones en figura**
+
+**51.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **psicotécnica, opciones en figura**
+
+**52.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **psicotécnica, opciones en figura**
+
+**53.** ¿Qué aplicación específica permite la venta de productos de la ONCE en Correos?
+- **A.** Hermes ←
+- **B.** IRIS
+- **C.** Quenda
+- **D.** SEDI Página 7 de 14 - ATC/B
+
+**54.** ¿A qué fenómeno se debe principalmente el crecimiento de la paquetería los últimos años?
+- **A.** Al ecommerce o comercio electrónico ←
+- **B.** A la sustitución electrónica
+- **C.** A Internet
+- **D.** A la reducción de los precios
+
+**55.** En una oficina, ¿desde qué frontal se realiza la admisión de un Paq 24?
+- **A.** IRIS - Envíos postales
+- **B.** IRIS - Mágica
+- **C.** Hera
+- **D.** Aplicación de Correos Express ←
+
+**56.** ¿Qué se considera un "libro" desde el punto de vista postal?
+- **A.** Son publicaciones encuadernadas o en fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, siempre que no contengan otra publicidad que la que figure en sus cubiertas. ←
+- **B.** Son cualquier envío realizado por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados.
+- **C.** Son cualquier envío realizado por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, independientemente de la publicidad contenida en el mismo.
+- **D.** Son publicaciones encuadernadas o fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, independientemente de la publicidad contenida en el mismo.
+
+**57.** ¿Qué tipos de informes de vehículos puedo solicitar a la DGT en las oficinas de Correos?
+- **A.** El informe técnico completo de vehículo y el informe de vehículos a mi nombre o a nombre de terceros
+- **B.** Solo puedo solicitar el informe técnico completo de vehículo
+- **C.** El informe técnico completo de vehículo y el informe de vehículos a mi nombre ←
+- **D.** Solo puedo solicitar el informe de vehículos a mi nombre o a nombre de terceros
+
+**58.** ¿Cuál es el límite de saldo de la tarjeta Correos Prepago?
+- **A.** 100.000 € ←
+- **B.** 7.500 €
+- **C.** No existe límite de saldo
+- **D.** 3.000 €
+
+**59.** ¿Cuál es el importe máximo por el que se puede asegurar un Paquete Azul?
+- **A.** Por 6.000 €
+- **B.** Por 2.499,99 €
+- **C.** Por 3.000 € ←
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**60.** ¿Cuáles son los ámbitos de suscripción posibles de un reenvío postal?
+- **A.** Peninsular e insular
+- **B.** Local, provincial y nacional
+- **C.** Nacional e internacional ←
+- **D.** Rural y urbano
+
+**61.** ¿Dispone Correos de un Portal de Transparencia?
+- **A.** No, aún no ha sido creado, pero está previsto hacerlo próximamente
+- **B.** Sí, se ha creado y está ubicado en la web corporativa de Correos ←
+- **C.** No, no es necesario tenerlo al no pertenecer Correos a la Administración General del Estado
+- **D.** Sí, se ha creado y está ubicado en Conecta para facilitar el acceso al colectivo al que va dirigido: los empleados de Correos.
+
+**62.** ¿Cómo se denomina el libro de sellos de emisión anual que presenta Correos con la recopilación de los sellos más importantes de cada año?
+- **A.** Los mejores sellos del año
+- **B.** Valores filatélicos
+- **C.** Valores en el tiempo ←
+- **D.** Filatelia anual
+
+**63.** De entre las siguientes opciones, seleccione aquella que contenga un dato que no necesita ser aportado por un cliente beneficiario de una transferencia de Western Union:
+- **A.** Número de control de transferencia MTCN
+- **B.** Dirección postal del remitente ←
+- **C.** Nombre y apellidos del remitente
+- **D.** Ciudad y país de origen de la transferencia Página 8 de 14 - ATC/B B
+
+**64.** ¿De cuántas zonas tarifarias dispone el Paq Today?
+- **A.** Dispone de 10 zonas: Z1, Z2, Z3, Z3+, Z4, Z5, Z6, Z7, Z8 y Z9
+- **B.** Dispone de una única zona: Z1 ←
+- **C.** Dispone de 7 zonas: Z1, Z2, Z3, Z4, Z5, Z6 y Z7
+- **D.** Dispone de 5 zonas: Z1, Z2, Z3, Z4 y Z5
+
+**65.** En relación con las reclamaciones de los clientes, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** En una reclamación, el cliente se pone en contacto con Correos para informar de un problema en el servicio o en algún producto, que debe solucionarse.
+- **B.** En una reclamación, el cliente se pone en contacto con Correos para dejar constancia de su insatisfacción con alguno de los servicios o productos. ←
+- **C.** En una reclamación, una persona solicita información sobre algún producto o servicio ofrecido por Correos
+- **D.** Todas las respuestas anteriores son correctas
+
+**66.** En relación con uno de los principios en protección de datos, el de integridad y confidencialidad, señale cuál de las siguientes afirmaciones es incorrecta:
+- **A.** Los empleados no tienen una obligación de confidencialidad sobre los datos a los hubieran podido acceder en el ejercicio de sus funciones, la obligación es solamente de la empresa. ←
+- **B.** La confidencialidad es uno de los principios en materia de protección de datos
+- **C.** Los empleados juegan un papel fundamental en la aplicación de las medidas de seguridad técnicas y organizativas para evitar el tratamiento no autorizado, o ilícito, pérdida o destrucción o daño accidental, durante el tratamiento de los datos o uso de los datos personales en el desempeño de sus funciones.
+- **D.** Los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase estarán sujetos en todo momento al deber de confidencialidad.
+
+**67.** ¿Para cuál de las siguientes funciones se utiliza la aplicación Wupos en una oficina?
+- **A.** Enviar notificaciones electrónicas
+- **B.** Enviar paquetería con mercancías peligrosas
+- **C.** Informar la estadística de la oficina
+- **D.** Efectuar transferencias de dinero ←
+
+**68.** ¿Qué tipo de envíos contra reembolso se entregan en una oficina?
+- **A.** Aquellos que por su tamaño no se pueden depositar en un buzón
+- **B.** Los que no tienen entrega domiciliaria y los que han sido avisados por las unidades de reparto ←
+- **C.** Todos; los envíos contra reembolso, al tener importes asociados, solo se entregan en oficina
+- **D.** Ninguno, todos los envíos contra reembolso han de entregarse en el domicilio, sin excepción
+
+**69.** La legislación fiscal aplicable en España establece el principio general de que la introducción de mercancía se encuentra sujeta al pago de tributos a la importación. ¿En qué productos?
+- **A.** Solo en los productos de paquetería con mercancía
+- **B.** En todos los envíos postales con mercancía ←
+- **C.** En los productos que contengan mercancía pero que no sean ordinarios
+- **D.** Las cartas certificadas con mercancía no están incluidas en este principio
+
+**70.** Entre las siguientes opciones, seleccione aquella que mejor exprese lo que engloba la Responsabilidad Social Corporativa (RSC):
+- **A.** Acciones empresariales para mejorar la sociedad en la que desarrolla su actividad
+- **B.** Un conjunto de prácticas y estrategias empresariales que persiguen un nuevo equilibrio entre las tres dimensiones: económica, social y medioambiental. ←
+- **C.** Una serie de beneficios en la gestión de impactos generados por la actividad empresarial
+- **D.** Conductas de la empresa para beneficiar a sus grupos de interés
+
+**71.** ¿Qué es Correos Frío?
+- **A.** Es una nueva línea de negocio que ofrece a los clientes soluciones de transporte de animales vivos
+- **B.** Es una nueva línea de negocio que ofrece a los clientes soluciones de transporte a temperatura controlada a nivel nacional. ←
+- **C.** Es una nueva línea de negocio que ofrece a los clientes soluciones de logística de almacenaje en frío
+- **D.** Es una nueva línea de negocio que ofrece a los clientes soluciones de transporte a temperatura controlada a nivel internacional.
+
+**72.** Dentro del marco normativo en el que se desenvuelve Correos, ¿cuáles son las dos normas fundamentales que regulan la actividad de Correos en el mercado postal?
+- **A.** Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+- **B.** Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto Legislativo 5/2015, por el que se aprueba la Ley del Estatuto Básico del Empleado Público.
+- **C.** Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto 1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento Postal, por el que se regula la prestación de los servicios postales. ←
+- **D.** Real Decreto 1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento por el que se regula la prestación de los servicios postales; y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Página 9 de 14 - ATC/B
+
+**73.** ¿Cuál es el proceso a seguir para realizar un pedido de reposición de tarjetas GiftCard en las oficinas de Correos?
+- **A.** El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre "Reposición de productos". ←
+- **B.** El usuario de la oficina debe remitir solicitud por correo electrónico a GiftCard con copia a Control de Produtos, indicando el número de unidades de cada producto.
+- **C.** El usuario de la oficina debe remitir solicitud por correo electrónico a Control de Productos, indicando el número de unidades de cada producto.
+- **D.** El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre "Reposición GiftCard". Preguntas psicotécnicas: Lea el texto mostrado a continuación y responda a las preguntas que versan sobre el mismo: A finales del siglo XIX y principios del XX, la recogida de hielo era un negocio floreciente en Nueva Inglaterra en el que estaban implicadas personas, caballos y trineos que trabajaban en lagos y estanques helados para extraer de ellos bloques de hielo. Lo llamaremos Hielo 1.0. Treinta años más tarde, la gente congelaba agua en fábricas de hielo y los repartidores distribuían el hielo en camiones. Aquellos emprendedores no tenían ninguna necesidad de esperar a que llegara el invierno ni de vivir en ciudades frías. Podían suministrar hielo en cualquier momento y en cualquier parte. Lo llamaremos Hielo 2.0. Y otros treinta años más tarde, unos emprendedores inventaron la nevera con congelador. En vez de comprar hielo a un fabricante, la gente tenía su propia fábrica de hielo, el primer CP (congelador personal). Lo llamaremos Hielo 3.0. Ninguno de los recogedores de hielo puso en marcha fábricas de hielo, y ninguna de las fábricas de hielo acabó convirtiéndose en fabricantes de neveras con congelador. Todos ellos definían su negocio en términos de lo que hacían (cortar y extraer bloques de hielo de lagos helados, congelar agua mediante un sistema centralizado, o fabricar aparatos que congelaran el agua) y no en términos de lo que pretendían conseguir (comodidad y limpieza). De haber adquirido esta perspectiva, tal vez hubieran saltado la siguiente curva, habrían pasado de extraer el hielo a fabricarlo y a la nevera. Kawasaki, G. “El arte de empezar 2.0”. Deusto.
+
+**74.** ¿Cuántos años pasaron entre el Hielo 1.0 y el Hielo 2.0?
+- **A.** Cincuenta años
+- **B.** Veinticinco años
+- **C.** Treinta años ←
+- **D.** Cuarenta años
+
+**75.** Indique en qué consiste el Hielo 2.0:
+- **A.** En la obtención de hielo gracias a las neveras con congelador
+- **B.** En la generación y distribución de hielo a través de fábricas y repartidores ←
+- **C.** En la extracción de hielo en Nueva Inglaterra con caballos y trineos
+- **D.** En la creación de cubitos de hielo a partir de bloques de hielo de los estanques helados
+
+**76.** ¿En qué términos se definían los negocios presentados en el texto?
+- **A.** En relación con los clientes
+- **B.** En relación con lo que pretendían conseguir (comodidad y limpieza)
+- **C.** En relación con la capacidad tecnológica de sus negocios
+- **D.** En relación con lo que hacían ←
+
+**77.** Cuando un cliente deposita un envío prerregistrado en un Citypaq situado en una oficina, ¿qué sistema avisa a los empleados de la oficina de que tienen pendiente de recoger un envío en dicho Citypaq para su posterior admisión?
+- **A.** SGIE
+- **B.** Citypaq
+- **C.** IRIS ←
+- **D.** SHIVA
+
+**78.** Si se produce un atraco o robo en una oficina, una vez hayan salido los atracadores, los trabajadores deben ponerse en contacto con:
+- **A.** El Centro Operativo de Seguridad (COS) ←
+- **B.** La policía
+- **C.** El responsable de seguridad del área territorial
+- **D.** Los cuerpos de seguridad Página 10 de 14 - ATC/B B
+
+**79.** ¿Qué función proporciona la web correos.es?
+- **A.** Correos.es es la web comercial de Correos y presenta los servicios que ofrece Correos, diferenciando entre particulares y empresas. ←
+- **B.** Correos.es es la plataforma digital de comercio electrónico de Correos
+- **C.** Correos.es es una web de Correos que permite a los usuarios conocer nuevos lanzamientos del mercado
+- **D.** Correos.es es la web institucional del Grupo Correos en la que se presenta el Grupo, se expone su misión, su historia y las principales directrices estratégicas que inspiran su actuación.
+
+**80.** ¿Cuál es el procedimiento establecido en las oficinas de Correos para los casos de deterioro y robo o extravío de boletos de la Cruz Roja?
+- **A.** En ambos casos se debe presentar denuncia y remitir posteriormente una copia de la misma a Control de Productos.
+- **B.** En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia, pero no es necesario comunicarlo a Control de Productos.
+- **C.** En ambos casos, solo habría que comunicarlo a Control de Productos para que ellos inicien los trámites correspondientes en cada caso.
+- **D.** En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia y remitir posteriormente una copia a Control de Productos. ←
+
+**81.** En la unidad de entrega de una oficina, ¿cuál de las siguientes no es una función proporcionada por la aplicación SGIE?
+- **A.** La venta de sellos filatélicos ←
+- **B.** La recepción de envíos avisados
+- **C.** La liquidación de envíos
+- **D.** El cierre de usuario
+
+**82.** La organización periférica de Correos se divide en 7 áreas territoriales. De las siguientes opciones, señale aquella que no es completamente precisa en la composición de su ámbito territorial:
+- **A.** Área este: Comunidad Valenciana, Murcia e Islas Baleares
+- **B.** Área centro: Madrid, Castilla la Mancha y Extremadura
+- **C.** Área insular: Islas Canarias
+- **D.** Área sur: Andalucía ←
+
+**83.** Indique cuál de los siguientes documentos no es válido para acreditar la identidad, en la solicitud de voto para unas elecciones generales:
+- **A.** Permiso de conducir con fotografía
+- **B.** Pasaporte español con fotografía
+- **C.** Credencial de tripulante de barco ←
+- **D.** Documento Nacional de Identidad (DNI) caducado
+
+**84.** ¿Qué servicios ofrece "Mi Oficina"?
+- **A.** En Mi Oficina puedes descargarte la nómina y solicitar un nuevo puesto de promoción interna
+- **B.** En Mi Oficina, además de realizar envíos, puedes ver las facturas de tu contrato o contratar los servicios de Correos Frío, entre otras posibilidades. ←
+- **C.** En Mi Oficina, los vendedores con contrato de Correos pueden publicar y promocionar sus productos mediante la firma de un acuerdo de vendedor.
+- **D.** En Mi Oficina, los usuarios se registran para recibir muestras de productos lanzados al mercado recientemente
+
+**85.** De entre las siguientes, ¿con qué entidad o entidades financieras pueden realizarse operaciones de reintegro e ingreso, a través de Correos Cash?
+- **A.** Las otras tres respuestas son correctas ←
+- **B.** Bancofar
+- **C.** Ibercaja
+- **D.** Triodos Bank
+
+**86.** ¿Qué servicios asociados ofrece el Buzón Digital de Correos?
+- **A.** Emisión de certificados electrónicos y envío a Buzón Digital
+- **B.** Suscripciones y cuadro de mando
+- **C.** Suscripciones y envío a Buzón Digital ←
+- **D.** Emisión de certificados electrónicos y cuadro de mando
+
+**87.** ¿Cuál es el plazo de entrega de un Paq 24 con origen en Madrid y destino Andorra?
+- **A.** D + 1
+- **B.** D + 2 ←
+- **C.** D + 3
+- **D.** D + 4 Página 11 de 14 - ATC/B
+
+**88.** En la admisión de una carta ordinaria en una oficina, a través de IRIS, en el apartado "características del envío", ¿cuál de los siguientes campos no aparece?
+- **A.** Peso
+- **B.** Nombre del destinatario ←
+- **C.** Ámbito
+- **D.** Código postal de destino
+
+**89.** Si un cliente solicita en la oficina de Correos un formulario de la OMIC (Oficina Municipal de Información al Consumidor) para reclamar, ¿cuál es el proceso a seguir?
+- **A.** La oficina debe facilitar al cliente un enlace web desde el que podrá realizar su reclamación
+- **B.** La oficina debe facilitar la hoja de reclamación OMIC descargándola directamente de la web del ayuntamiento o comunidad correspondiente. ←
+- **C.** En las oficinas de Correos no se puede facilitar ningún formulario, el cliente debe dirigirse a la OMIC personalmente.
+- **D.** La oficina cumplimentará un formulario y le entregará una copia al cliente
+
+**90.** ¿Cuál de las siguientes opciones refleja mejor lo que es una Startup?
+- **A.** Es una empresa establecida que opera en un sector determinado
+- **B.** Es un proyecto empresarial emergente con un gran potencial de crecimiento ←
+- **C.** Es un agente que invierte
+- **D.** Es una entidad que facilita la gestión administrativa y genera ayudas con recursos y subvenciones.
+
+**91.** ¿Cuál de las siguientes opciones no es un producto relacionado con la filatelia, comercializado en las oficinas de Correos?
+- **A.** Sobres de primer día
+- **B.** Libros filatélicos
+- **C.** Series
+- **D.** Bonos ←
+
+**92.** En las oficinas, ¿para qué tipo de envíos se deben formalizar despachos detallados en SGIE?
+- **A.** No se formalizan despachos en ningún caso
+- **B.** Para envíos con valor declarado
+- **C.** Para envíos de IPC
+- **D.** Para envíos que contienen la documentación de los procesos electorales (SV, DE, DN, VE) ←
+
+**93.** ¿Cuáles son las redes de transporte de Correos?
+- **A.** Interzonal, zonal y provincial
+- **B.** Interzonal, zonal, provincial y local ←
+- **C.** Provincial y local
+- **D.** Interzonal y provincial
+
+**94.** ¿Cuál de los siguientes plazos de almacenamiento del Paq Peregrino en la oficina de destino no es posible?
+- **A.** 15 días
+- **B.** 33 días ←
+- **C.** 45 días
+- **D.** 75 días
+
+**95.** Dentro del servicio de cobro de recibos de Correos, ¿en qué casos se puede admitir el pago con tarjeta?
+- **A.** En el pago de multas de la DGT
+- **B.** En los pagos dirigidos a entidades financieras o de crédito que superen los 999,99 €
+- **C.** En ningún caso ←
+- **D.** En los pagos dirigidos a Administraciones Públicas
+
+**96.** ¿Cómo se denomina la aplicación que utiliza el responsable de unidad para gestionar los permisos y accesos de los usuarios a las aplicaciones?
+- **A.** SIE
+- **B.** SIGUA ←
+- **C.** SICER
+- **D.** IRIS Página 12 de 14 - ATC/B B
+
+**97.** En relación con la delimitación del servicio postal universal que establece la normativa en vigor, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** El servicio postal universal comprende exclusivamente las actividades de recogida, admisión, distribución y entrega de envíos postales.
+- **B.** El servicio postal universal incluye envíos de cartas y tarjetas postales con comunicaciones escritas en cualquier tipo de soporte, de hasta 500 gramos de peso.
+- **C.** El servicio postal universal comprende las actividades de recogida, admisión, clasificación, transporte, distribución y entrega de envíos postales. ←
+- **D.** El servicio postal universal incluye paquetes postales, con o sin valor comercial, de hasta 10 kg de peso
+
+**98.** La correspondencia admitida en las oficinas, ¿en qué casos debe circular en bandejas con tapa?
+- **A.** Cuando contienen envíos registrados
+- **B.** Cuando contienen envíos urgentes
+- **C.** En ningún caso ←
+- **D.** Cuando contienen envíos sin cancelar
+
+**99.** ¿Cuál de los siguientes valores añadidos no permite el Paquete Internacional Económico?
+- **A.** Prueba de Entrega Electrónica ←
+- **B.** Reembolso internacional
+- **C.** Valor declarado internacional
+- **D.** DUA de Exportación a terceros países
+
+**100.** ¿Qué es el Buzón Digital de Correos?
+- **A.** Una plataforma de pagos online
+- **B.** Un almacenamiento en la nube de documentos digitales ←
+- **C.** Un marketplace
+- **D.** Una solución de identidad digital descentralizada Página 13 de 14 - ATC/B B PREGUNTAS ADICIONALES DE RESERVA: SERÁN VALORADAS, CONFORME A SU NÚMERO DE ORDEN, EN EL CASO DE QUE SE ANULE ALGUNAS DE LAS 100 PREGUNTAS ANTERIORES
+
+**101.** En relación con la tarjeta Más Cerca, comercializada en las oficinas de Correos, ¿cuál de las siguientes afirmaciones no es correcta?
+- **A.** Pueden ser clientes de la tarjeta tanto los particulares como las empresas
+- **B.** Es la tarjeta de fidelización de Correos
+- **C.** Permite el pago de servicios en cualquier comercio ←
+- **D.** Permite identificar a los clientes en el momento de hacer una compra en una oficina
+
+**102.** ¿Cuál de los siguientes valores añadidos tiene un coste adicional en las notificaciones?
+- **A.** El tercer intento de entrega ←
+- **B.** El segundo intento de entrega
+- **C.** La entrega en domicilio
+- **D.** La entrega en un apartado postal
+
+**103.** Indique cuál de las siguientes opciones no constituye un sistema de franqueo o un medio alternativo en una oficina de Correos:
+- **A.** Franqueo directo ←
+- **B.** Franqueo concertado
+- **C.** Franqueo a máquina
+- **D.** Franqueo en destino
+
+**104.** Indique cuál de las siguientes aplicaciones no se utiliza en las oficinas de Correos:
+- **A.** IRIS
+- **B.** SEIC ←
+- **C.** WUPOS
+- **D.** SGTC
+
+**105.** El proceso logístico en Correos comprende un conjunto de tareas, según el siguiente orden:
+- **A.** Recogida, admisión, clasificación, transporte, distribución y entrega ←
+- **B.** Recogida, clasificación, transporte, admisión, distribución y entrega
+- **C.** Recogida, admisión, transporte, distribución, clasificación y entrega
+- **D.** Recogida, admisión, clasificación, transporte, entrega y distribución
+
+**106.** ¿Cuántas y cuáles son las fases que comprende el programa "Experiencia de empleado" en Correos?
+- **A.** Tres fases: selección, desarrollo profesional y salida
+- **B.** Cuatro fases: selección, rotación, desarrollo profesional y salida
+- **C.** Cinco fases: atracción / captación, selección, acogida, desarrollo profesional y salida ←
+- **D.** Dos fases: selección y salida
+
+**107.** Según la normativa sobre prevención del blanqueo de capitales, ¿se deben aplicar medidas reforzadas de diligencia debida a las operaciones realizadas por los menores de edad?
+- **A.** No, no es necesario porque siempre irán acompañados de sus padres o tutores
+- **B.** Es potestativo, depende de la finalidad de la operación
+- **C.** Sí, los menores presentan un riesgo más elevado ←
+- **D.** No, las medidas reforzadas solo se aplican a clientes relacionados con peticiones de juzgados o de la policía
+
+**108.** En la actividad internacional de exportación de Correos, ¿qué tipo de prohibiciones se aplican?
+- **A.** Las prohibiciones propias de los distintos países
+- **B.** Las prohibiciones aplicables por los servicios postales de los distintos países
+- **C.** Las prohibiciones universales
+- **D.** Se aplican todas las prohibiciones citadas en las tres respuestas anteriores ←
+
+**109.** En relación con la herramienta CRM, de la que disponen los gestores comerciales en Correos, señale cuál de las siguientes afirmaciones es incorrecta:
+- **A.** Permite planificar y registrar la actividad comercial
+- **B.** Permite generar ofertas y contratos
+- **C.** No permite generar contratos ←
+- **D.** Permite archivar documentación contractual
+
+**110.** ¿Cuál de las siguientes respuestas define el método "FIFO" de almacenaje, según el flujo de entrada/ salida de mercancías?
+- **A.** Flujo consistente en que el lote de stock que entra primero en el almacén es el primero en salir ←
+- **B.** Flujo consistente en que el lote de stock que entra el último en el almacén es el primero en salir
+- **C.** Flujo en el que el lote de stock que primero caduca, de los que hay en el almacén, es el primero en salir
+- **D.** Ninguna de las respuestas anteriores es correcta Página 14 de 14 - ATC/B
+

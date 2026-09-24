@@ -26,3 +26,11 @@ convocatoria/examenes-antiguos/*.pdf
 !convocatoria/examenes-antiguos/2[0156]_*.pdf
 !convocatoria/examenes-antiguos/32_*.pdf
 __pycache__/
+
+# El «documento de referencia» de Correos son 547 MB en doce PDF, muy por encima
+# de lo que este repositorio versiona —el mayor que lleva son 15 MB—. Se versiona
+# el VOLCADO, que es lo que se lee, se cita y contrastan las lentes, y los PDF se
+# vuelven a bajar con las URL del manifiesto
+# (fuentes/correos-referencia/README.md). Los cuadernillos del examen sí van:
+# pesan poco y hay que poder contrastar cada enunciado.
+fuentes/correos-referencia/*.pdf

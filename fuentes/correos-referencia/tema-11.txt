@@ -1,0 +1,2498 @@
+# Volcado de tema-11.pdf
+
+Generado con `herramientas/correos_dump.py`. **El documento original va sin
+capa de texto en la mayor parte de sus páginas**, así que lo que sigue es en
+parte una transcripción y en parte un **reconocimiento óptico a 300 puntos por
+pulgada**. Cada página dice de cuál de las dos cosas viene.
+
+**Lo reconocido ópticamente no es el documento.** Todo dato que un tema tome de
+una página marcada `ocr` se comprueba a la vista sobre la página original antes
+de escribirlo.
+
+
+[[ página 1 de 44 · ocr ]]
+
+]
+)
+|
+CI
+LA
+mm»
+
+SO =pz
+
+AL
+
+lema 11
+
+Internacionalización y Aduanas
+
+[[ página 2 de 44 · ocr rota ]]
+
+Contenido Ñ
+
+11.1. Internacionalización de Correos
+11.1.1. El negocio internacional en Correos
+11.1.2. Exportación internacional: productos y procesos
+11.1.3. Importación internacional
+11.1.4. Customer service/experience
+11.1.5. Sistema de trazabilidad internacional
+
+11.2. Gestión aduanera
+11.2.1. Evolución del mercado y la aduana
+11.2.2. Actores principales en la cadena logística postal
+11.2.3. Despachos aduaneros. Operadores privados y operadores postales (Correos)
+11.2.4. Avance electrónico de datos
+11.2.5. Envíos con mercancía: declaración de Importación. DUA versus H7 (acuerdos especiales)
+11.2.6. Sistema lOSS/H7: Import One Stop Shop
+
+11.3. Información aduanera
+11.3.1. Definición de envíos sujetos a trámites aduaneros de importación en destino
+11.3.2. Productos postales susceptibles de trámites aduaneros
+11.3.3. Impresos/documentos
+11.3.4. Despachos de aduanas con Correos: autorización de despacho del cliente
+
+11.4. Correos como representante aduanero
+11.4.1. Antecedentes
+11.4.2. Importación en península a partir del 1/7/2021
+11.4.3. Modificación del procedimiento de importación en Canarias
+11.4.4. Procedimiento de importación en Ceuta
+11.4.5. DUA de exportación
+
+(152 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 3 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+El sector postal se ha visto afectado por la transformación digital que ha surgido a partir
+de los desarrollos tecnológicos de los últimos años. Esto supuso una nueva posibilidad de
+realizar compras en línea y de recibir productos a domicilio, lo cual repercutió en un incre-
+mento de la demanda de envíos de paquetería procedentes de cualquier punto del planeta.
+Como respuesta a la evolución del e-commerce, Correos ha desarrollado una amplia gama
+de productos postales con todo tipo de garantías diseñadas para llevar tranquilidad al cliente
+(trazabilidad de los envíos, reembolsos, etc.).
+
+Ante el aumento en la cantidad de importaciones y exportaciones transfronterizas de produc-
+tos postales, ha sido necesaria la revisión de las obligaciones aduaneras y fiscales por parte
+de los actores principales en la cadena logística postal (p. ej., los operadores postales y
+privados), así como un mayor control en materia de seguridad, sanitaria, farmacéutica y civil.
+
+En relación con la labor aduanera, Correos realiza las gestiones que los clientes requieran
+para gestionar las declaraciones obligatorias ante la aduana, y para procurar el cumplimiento
+de las obligaciones legales ante determinados tipos de mercancías.
+
+El avance tecnológico también supuso grandes retos para los operadores postales a partir
+del año 2021. Así, nuevos sistemas, como el «avance electrónico de datos», han permitido
+no solo una garantía de seguridad, sino también la agilización de los procesos postales y
+de los trámites aduaneros.
+
+Del mismo modo, el sector postal se ha beneficiado de la organización sistemática de la
+cadena logística relacionada a los envíos internacionales y de las mejoras en los procesos
+correspondientes a las importaciones y exportaciones desde y hacia España.
+
+11.1. Internacionalización de Correos
+11.1.1. El negocio internacional en Correos
+
+La presencia internacional del Grupo Correos ha crecido considerablemente con la expan-
+sión de sus oficinas y delegaciones en el ámbito internacional.
+
+En la actualidad, existen once delegaciones de Correos Express Portugal con las que presta
+un servicio urgente integral en toda la Península Ibérica.
+
+Debido al crecimiento de la actividad, en 2020 Correos Express Portugal duplicó la superficie
+operativa disponible de su centro logístico y adquirió 200 dispositivos informáticos portátiles
+(PDA), destinados a los nuevos profesionales de distribución.
+
+El Grupo también opera en China, a través de las empresas compartidas KCG eCommerce
+Solutions y K Parcel. En este país dispone de una planta de admisión y clasificación de paque-
+tería, con una capacidad de procesamiento de 25.000 paquetes por hora, ampliable hasta 2
+millones de objetos diarios. Esta instalación gestiona los envíos generados, especialmente por
+el comercio electrónico, desde China y Hong Kong hacia España y el resto del mundo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+aÑ>
+
+e
+
+[[ página 4 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+| Glosario
+
+ETOE (Oficina
+
+de Intercambio
+Extraterritorial):
+Instalación que
+pertenece a un
+operador postal
+fuera de su territorio
+nacional en el
+
+| Glosario
+
+1CS2: Programa
+
+de seguridad y
+protección aduanera
+llamado Sistema
+
+de Control de
+Importación 2.
+
+territorio de otro país.
+
+Entre los proyectos para la expansión de
+las infraestructuras de Correos, se destaca
+también la edificación del centro internacio-
+nal Rampa 7: un proyecto estratégico para
+las actividades de logística internacional del
+Grupo. La puesta en marcha de esta infraes-
+tructura aumentará la eficiencia en la gestión
+de las mercancías de importación en el Aero-
+puerto Adolfo Suárez Madrid-Barajas. Además,
+permitirá que el actual Centro de Tratamiento
+Internacional (CTI) ubicado en este aeródromo
+se especialice en operaciones de exportación
+e intercambio urgente nacional.
+
+Aunque uno de los objetivos estratégicos del
+Grupo es aumentar su presencia internacional
+e incrementar los volúmenes transfronterizos, tanto de exportación (con la mejora de las
+opciones de entrega y transporte) como de importación (siendo el operador de referencia
+para los grandes emisores de envíos postales internacionales), el impacto de la pandemia
+durante 2020 incidió notablemente sobre la actividad postal y de paquetería.
+
+El alcance global de la pandemia también impactó en los flujos de negocio procedentes de
+China y otros países asiáticos, que tienen gran importancia en los volúmenes gestionados
+desde las Oficinas de Cambio Extraterritorial (ETOE) que Correos posee en otros países.
+
+Correos acometió diversos desarrollos tecnológicos para la adaptación al nuevo escenario
+normativo aduanero previsto en 2021, en el marco del proyecto europeo ICS2 para la segu-
+ridad en materia aduanera y de la supresión de la exención del IVA para los envíos de bajo
+valor en Europa. La compañía emprendió también la integración operativa y tecnológica del
+centro de ADT- Postales, encargado de la gestión aduanera.
+
+El Grupo Correos forma parte de diversas asociaciones y organismos. Entre sus alianzas
+internacionales se encuentran las siguientes:
+
+. IPC (International Post Corporation). Organismo internacional que engloba a los 25
+operadores postales de mayor relevancia.
+
++ Kahala Post Group. Alianza comercial junto a los operadores postales de Australia, China,
+Corea del Sur, Hong Kong, Japón, Estados Unidos, Reino Unido, Francia, Tailandia y Canadá.
+
+. PostEurop. La compañía presidía el Comité de Asuntos Europeos y su Grupo de Trabajo
+de Protección de Datos.
+
++ PuMed (Unión Postal del Mediterráneo). Correos pertenece a su Comité de Dirección.
+
++ UPAEP (Unión Postal de las Américas, España y Portugal). Correos copreside el Grupo
+de Trabajo de Filatelia. Además, España forma parte del Comité de Gestión como primer
+vicepresidente.
+
++. UPU (Unión Postal Universal). Correos pertenece al Consejo de Explotación Postal.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 5 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+La transformación digital
+
+Como consecuencia de los desarrollos tecnológicos, se ha generado en los últimos años
+una transformación digital que está afectando al sector postal en dos frentes: por un lado,
+los medios de comunicación digitales están reemplazando aquellos en papel, lo que dismi-
+nuye la demanda de envíos de cartas; por otro lado, la posibilidad de realizar compras en
+línea y recibir los productos a domicilio está dando lugar a un incremento de la demanda
+de envíos de paquetes.
+
+Estas presiones opuestas constituyen la base de los distintos retos a los que se enfrentan
+todas las partes interesadas del sector postal. Si bien el descenso del volumen de cartas
+ha ocasionado dificultades para el sector postal y sigue dando lugar a cambios, la industria
+del comercio digital (y el asentamiento de las compras online) reduce el impacto negativo del
+descenso del volumen de la correspondencia creando nuevas oportunidades y demandas
+a las que el sector debe responder.
+
+El panorama competitivo del sector postal está evolucionando favorablemente en lo que
+respecta a los paquetes: los mercados están fragmentados, las tasas de envíos de los
+proveedores del servicio universal son relativamente bajas y han aparecido nuevos agentes
+en el ámbito del envío de paquetes, lo que ha puesto en tela de juicio los modelos empre-
+sariales y la rentabilidad de los agentes establecidos.
+
+Como respuesta al incremento del negocio de la paquetería, Correos pondrá en marcha
+Correos Cargo, un servicio de transporte aéreo de paquetería y mercancías creado para
+fortalecer el eje logístico entre Latinoamérica, Europa y Asia.
+
+El incremento de envíos postales ha generado también una necesidad de atender al impacto
+medioambiental que causan las industrias. En este sentido, el impulso de la eficiencia en
+materia de carbono es uno de los principales intereses de la industria postal. A causa de esta
+evolución, los operadores postales se encuentran en plena fase de transformación. Cada vez
+ofrecen más servicios y productos nuevos y
+emplean nuevos modelos empresariales, que
+incluyen tecnologías más eficientes, medios de
+transporte respetuosos con el medio ambiente
+y nuevos contratos de empleo.
+
+IS
+?
+
+Evolución de las ventas online
+
+Según estudios recientes, en 2021 el comercio
+electrónico en España superó los 13.600 millo-
+nes de (un 13,7% más que el año anterior).*
+
+(*) Fuente: Comisión Nacional de los Mercados y la
+Competencia (CNMC).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+a
+
+/
+
+[[ página 6 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Los ingresos se concentraron en los sectores relacionados con las prendas de vestir, los
+servicios auxiliares a la intermediación financiera y los juegos de azar y apuestas.
+
+En cuanto a la segmentación geográfica, el 41,4% de los ingresos en 2021 han tenido como
+destino España, mientras que el 58,6% restante se corresponde con compras con origen en
+España hechas en el exterior (en su mayoría, en comercios ubicados en la Unión Europea).
+
+Por su parte, las compraventas desde el exterior con España (provenientes en gran parte de
+la Unión Europea) se han situado en una facturación de 1.280 millones de euros, un 21%
+más que en el segundo trimestre del año anterior.
+
+Ventas online desde España. Destino y entregas
+
+Por su proximidad geográfica, el primer destino exportador de e-commerce es Portugal, con
+casi un 50% del volumen. El resto de los destinos de la mercancía exportada son europeos
+así como de América del Sur, con porcentajes que no superan el 7% por país.
+
+En cuanto a los envíos exportados, el 54% son de hasta 1 kilo de peso, y un 53% de los
+mismos tienen un valor de entre O y 50 €. Los principales motores de los compradores para
+usar un e-commerce español son tanto el coste total del envío (mercancía y transporte)
+como la rapidez de la entrega. La rapidez de entrega también se convierte en la primera
+causa de reclamación por parte de los compradores.
+
+En cuanto a las entregas, el 33% es efectuado por los operadores postales de los países
+de destino, siendo el resto entregados por empresas de mensajería o por otros medios
+alternativos.
+
+Cabe destacar la importancia que otorgan los clientes al servicio de seguimiento de los
+paquetes para conocer la situación de los mismos y los tiempos de transporte previstos.
+
+11.1.2. Exportación internacional: productos y procesos
+
+Países que lo admitan
+
+Valor declarado: Cada 50 euros declarados o fracción
+
+Para Carta Certificada Internacional y Paquete internacional Económico
+
+Aviso de Recibo:
+
+Para Carta Certificada Internacional y Paquete Internacional Económico
+
+El proceso de exportación internacional
+
+Los envíos con destino internacional son encaminados a
+las Oficinas de Cambio, que son los puntos de salida/
+entrada del correo internacional. Correos cuenta con dos
+Oficinas de Cambio exportadoras, ESMAD (Madrid Bara-
+jas) y ESBCN (Barcelona El Prat). Desde estas dos oficinas
+se realiza la preparación de los despachos con destino a
+
+Reembolso: todos los países del mundo. Los despachos se realizan
+Para Carta Certificada Internacional y Paquete Internacional Económico de manera separada conforme a la categoría o formato
+del producto que incluyen.
+A
+A (150 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+A
+
+[[ página 7 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Para exportar un envío con Correos, este tiene que cumplir con ciertos requisitos:
+
++ Dimensión y peso correspondiente.
+
++ Un embalaje adecuado para su peso y contenido.
+
++ No debe contener un objeto prohibido o una mercancía peligrosa (MMPP).
+
++ Debe ir acompañado de la correspondiente documentación aduanera si es necesaria en
+el país de destino.
+
+En cuanto al contenido del envío, hay ciertas limitaciones que recaen sobre el tipo de objeto
+despachado y el embalaje, y restricciones vinculadas al carácter sensible de las mercancías.
+
+No están permitidos para envíos postales en el correo internacional aquellos objetos o
+documentos cuya circulación esté prohibida de acuerdo a las leyes nacionales o interna-
+cionales aplicables por motivos de seguridad, sanidad pública, utilidad general y protección
+del servicio postal universal.
+
+Existen distintos tipos de prohibiciones aplicables a los objetos enviados a través de
+Correos:
+
++ Las prohibiciones universales.
+
++ Las prohibiciones propias de los distintos países derivadas de la regulación nacional en
+materia de importaciones.
+
++ Las prohibiciones aplicables por los servicios postales de los distintos países relativas a las
+mercancías cuya importación esté autorizada por ley, pero prohibida por la normativa postal.
+
+Independientemente del destino del envío, hay una serie de objetos no permitidos (que
+pueden variar según la normativa del país destinatario). A continuación, se ofrece una lista
+no exhaustiva de objetos prohibidos:
+
++ Los productos sometidos a régimen de reserva y no provistos de autorización especial
+para circular por la Red Postal.
+
++ El opio y sus derivados; la cocaína y demás estupefacientes y sustancias psicotrópicas,
+salvo si se envían con fines medicinales y acompañados de autorización oficial.
+
++ Los envíos cuyo embalaje o cubierta contenga textos o dibujos que vulneren cualquiera
+de los derechos fundamentales de la persona.
+
+e Los envíos de armas, conforme a lo establecido en el Real Decreto 137/1993, de 24 de
+enero, por el que se aprueba el Reglamento de Armas.
+
+. Las materias explosivas, inflamables y otras peligrosas, salvo las biológicas perecederas
+intercambiadas entre laboratorios oficialmente reconocidos, y las radiactivas depositadas
+por expedidores debidamente autorizados.
+
+e Los animales vivos que no estén provistos de una autorización especial o no sean inter-
+cambiados entre instituciones oficialmente reconocidas.
+
++ Los objetos cuyo tráfico constituya un delito.
+
++ Lo que se determine en convenios internacionales de los que España forme parte.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 8 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Mercancías peligrosas no admisibles
+
+Los envíos que contengan cualquiera de los productos o sustancias que a continuación se
+relacionan tienen prohibida su circulación por la red postal:
+
++ Explosivos: fuegos artificiales, petardos, municiones, pólvora o bengalas.
+
++ Gases comprimidos: mecheros, tanques de buceo, camping gas, aerosoles o extintores.
+
+e Líquidos inflamables: encendedores de gasolina, líquidos para encendedor, pinturas al
+óleo, sustancias adhesivas o perfumes inflamables.
+
+e Sustancias inflamables: fósforos (cerillas) o carbones.
+
+e Sustancias oxidantes: químicos generadores de oxígeno, peróxidos o polvos blanquea-
+dores.
+
+. Sustancias tóxicas o infecciosas: pesticidas, químicos agrícolas, compuestos de mercurio,
+bacterias o virus.
+
+. Materias radiactivas.
+
+e. Materias corrosivas: baterías húmedas, mercurio (termómetros) o ácido clorhídrico.
+
+. Otros: productos magnetizados, motores o dióxido de carbono sólido (hielo seco).
+
+Mercancías peligrosas admisibles
+
++ Baterías de ¡on o litio instaladas en un equipo (ONU 3481) según la instrucción de emba-
+laje 467. Máximo 4 pilas (< 20 Wh) o 2 baterías (< 100 Wh) en un solo bulto.
+
+. Baterías de metal litio instaladas en un equipo (ONU 30491) según la instrucción de em-
+balaje 470. Máximo 4 pilas (< 1 g) o 2 baterías.
+
+Restricciones particulares vinculadas al carácter sensible de las mercancías
+
+Independientemente de su origen o destino, algunas mercancías están sometidas a res-
+tricciones de circulación por su carácter sensible. La Aduana es la encargada de aplicar las
+normas nacionales e internacionales correspondientes en colaboración con otras adminis-
+traciones.
+
+Esas mercancías deberán ir acompañadas de documentos específicos (licencias, certifi-
+cados o autorizaciones de importación o exportación) que deberán presentarse a la admi-
+nistración en el momento del despacho aduanero o en cualquier control no programado de
+las autoridades aduaneras. Los trámites de los envíos que contengan mercancías sujetas
+a medidas de restricción o cualquier otra formalidad concreta deberán ser realizados por el
+propio remitente o a través de un representante.
+
+Con respecto al embalaje de los envíos, se deberán respetar las normas que se mencionan
+a continuación:
+
++. El embalaje deberá estar adaptado a la forma y naturaleza del contenido de forma que
+no constituya un peligro para los profesionales que lo manipulan, no sea perjudicial para
+el transporte ni pueda dañar o manchar otros envíos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 9 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
++ Los huecos en el interior del embalaje tendrán que rellenarse con papel de estraza o algún
+material similar, hasta que el producto no se mueva.
+
+Si el envío contiene algún producto delicado y el embalaje no ha sido el correcto, Correos
+no se responsabilizará ni ofrecerá indemnizaciones en caso de que el producto sufra algún
+daño o deterioro.
+
+Las medidas mínimas y máximas, así como el peso permitido del envío, dependerán del
+tipo de producto a enviar (veáse Tema 3. Productos y servicios).
+
+11.1.3. Importación internacional
+
+Las importaciones internacionales se reciben
+en Correos a través de la Oficina de Cambio,
+que es el punto de entrada y salida de los
+envíos internacionales. En el caso de la impor-
+tación, esta oficina corresponde con las insta-
+laciones que tiene Correos en el aeropuerto de
+Madrid Barajas. ESMADA, ESMADB y ESMADC
+son los códigos asignados por la UPU para
+estas oficinas de importación.
+
+La correspondencia importada comienza enton-
+ces un proceso de control en el que se evalua-
+rán los tipos de productos y se determinará si es
+necesario realizar las tramitaciones aduaneras.
+
+Cada producto tendrá determinados plazos de tratamiento que se recogen en los acuerdos
+internacionales multilaterales. El tiempo que un envío se encuentra en la aduana no se
+contabiliza para el cálculo.
+
+Proceso de distribución de última milla
+
+Existen dos flujos principales en los envíos recibidos en la Oficina de Cambio:
+
++ Los envíos que han tenido un tratamiento aduanero, que a su vez se subdivide en dos
+flujos:
+
+— Envíos con importes a cobrar en el momento de la entrega (tanto a domicilio como en
+la oficina de Correos).
+
+— Envíos cuyos impuestos han sido liquidados por el remitente o por el destinatario pre-
+viamente a la entrega, y por lo tanto no hay que realizar ningún cobro al entregarlos.
+
++ Envíos que no necesitan tratamiento aduanero, provenientes de la Unión Europea.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+UPU (Unión
+Postal Universal):
+Organismo
+especializado de las
+Naciones Unidas,
+cuyo objetivo es
+la mejora de los
+servicios postales
+y el fomento de
+la colaboración
+internacional en
+materia postal.
+
+[[ página 10 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Glosario
+
+Centro de
+Tratamiento
+Automatizado
+(CTA): Centro
+donde se realiza
+
+la clasificación de
+los envíos postales
+para la posterior
+distribución.
+
+Glosario
+
+EMIS: Servicio de
+Correo Express
+especial para envíos
+internacionales,
+ofrecido por el
+servicio postal
+
+de cada país que
+participa en el
+proceso del envío.
+
+La Oficina de Cambio procede a realizar la primera clasificación de los envíos postales,
+encaminando los envíos a los Centros de Tratamiento Automatizado (CTA) y a la red logís-
+tica nacional para su posterior distribución a los destinatarios.
+
+Los plazos de entrega y la calidad de los envíos internacionales están recogidos en
+los acuerdos multilaterales que pueden incluir penalizaciones y dependen del tipo de
+producto.
+
+De cara a la distribución de última milla, cumplir con los plazos de entrega definidos para
+cada tipo de producto, junto con la correcta recopilación y grabación de los datos electróni-
+cos de los eventos, tanto de entrega como los intentos de entrega, avisados, etc., permite
+trazar el envío y calcular el cumplimiento de la calidad. Es tan importante el hacer bien
+la entrega como que la misma quede registrada en los sistemas; un envío no registrado
+correctamente es un envío inexistente y por lo tanto penalizado o no cobrado.
+
+Como regla general, la distribución y entrega de los envíos internacionales se realiza del
+mismo modo que su correspondiente producto equivalente nacional. Por poner un ejemplo,
+el Paquete Ligero y el Paq Light tienen la misma forma de entrega con escaneo, pero sin
+recoger la firma en el momento de la entrega.
+
+Tipos básicos de envíos
+
+Los envíos internacionales suelen corresponderse con tipos de productos nacionales. Por
+ejemplo, los productos de correspondencia se corresponden con la Carta Ordinaria y con
+la Carta Certificada; en el caso de los productos de paquetería, el EMS corresponde al
+Paquete Premium.
+
+Si bien la UPU está trabajando en un plan de productos integrados, en la actualidad se sigue
+diferenciando la correspondencia de la paquetería.
+
+11.1.4. Customer service /experience
+
+Los clientes que realizan envíos internacionales cuentan con un servicio de atención al
+cliente tanto en el país de origen como en el de destino. Lo habitual es referirse al servicio
+de atención al cliente de su propio país.
+
+Con el fin de poder responder a las consultas de los clientes, estos equipos cuentan con
+las herramientas para realizar la trazabilidad internacional y con sistemas a medida para la
+comunicación electrónica entre ellos por medio de intercambio de mensajería. Estos siste-
+mas permiten llevar un seguimiento de las consultas y reclamaciones.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 11 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.1.5. Sistema de trazabilidad internacional
+
+BUSCAR
+
+N” de seguimiento de envio"
+
+Con el fin de hacer el seguimiento de los envíos, los operadores postales intercambian por
+medio de mensajería electrónica (EDI) los distintos eventos del proceso logístico internacio-
+nal. Este sistema se basa en el estándar EMSEVT.
+
+Algunos de los eventos de la cadena logística son los siguientes:
+
+EMA (Admisión del envío)
+
+EMC (Salida de la Oficina de Cambio de origen)
+EMD (Llegada a la Oficina de Cambio de destino)
+EMI (Entregado)
+
+Los distintos eventos (es decir, cada vez que se escanea el código del envío) permiten
+conocer la situación dentro del proceso logístico de un envío, si está en el país de origen,
+si ha llegado a destino, si está en un centro de tratamiento, si se ha realizado un intento
+de entrega, etc. Para que todo esto funcione, se escanea en cada proceso el código único
+que tiene cada envío y que tiene que cumplir con el estándar S10 de la UPU.
+
+La información relacionada a la localización de los envíos puede consultarse en distin-
+tas herramientas de trazabilidad (ATAT, Mercurio, Minerva y web de Correos) y permite
+tanto a los usuarios internos de Correos como a los clientes conocer la situación de
+los envíos.
+
+La disponibilidad de la información de trazabilidad depende del tipo de producto. Por ejemplo,
+en el caso de los certificados internacionales, depende de la decisión del país de destino
+el facilitar los eventos.
+
+La trazabilidad permite también medir la calidad de los envíos y controlar que se cumplan
+los estándares pactados en los acuerdos internacionales (en caso de no cumplirse, esto
+puede suponer penalizaciones para Correos).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+EDI: Sistema
+
+de mensajería
+electrónica para
+
+el intercambio de
+información entre los
+participantes de la
+cadena de logística.
+
+Glosario
+
+Estándar EMSEVT:
+Especificación que
+define la forma
+
+de intercambiar
+información de eventos
+Clave en el movimiento
+de un envío desde
+
+la recogida hasta la
+entrega final.
+
+Glosario
+
+Estándar S10:
+Sistema (de la
+
+UPU) para asignar
+identificadores de
+
+13 caracteres a los
+envíos postales con
+el fin de realizar su
+seguimiento y control.
+
+[[ página 12 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.2. Gestión aduanera
+11.2.1. Evolución del mercado y la aduana
+El proceso de exportación internacional. Antecedentes
+
+La necesidad por parte del sector postal de implementar medidas de seguridad en el marco
+de las exportaciones internacionales ha surgido a partir de ciertos acontecimientos, como
+los que se mencionan a continuación:
+
+e El atentado terrorista de Nueva York del 11 de septiembre de 2001.
+e La amenaza de atentados con bombas en aviones con destino a EE. UU.
+e El atentado terrorista de Yemen en el año 2012.
+
+Por otro lado, el surgimiento del comercio electrónico, un nuevo canal de ventas para los
+operadores económicos a nivel mundial, demostró a su vez la importancia de aplicar medidas
+de seguridad en lo relativo al envío de mercancías.
+
+Con el comercio electrónico aparecieron las plataformas e-commerce para ventas transfron-
+terizas de mercancía, lo que supuso un incremento exponencial de envíos postales y, en
+consecuencia, un aumento en el número de clientes de los operadores postales.
+
+Nuevas necesidades de seguridad y de control fiscal para los operadores
+postales
+
+El implemento de nuevas y más rigurosas medidas de seguridad en el transporte interna-
+cional de los envíos postales que contienen mercancía, así como en la cadena de suministro
+postal, se aplicó de la siguiente manera:
+
++ Implementando sistemas de seguimiento desde la salida de origen del envío postal hasta
+la llegada a destino.
+
+e Facilitando a las autoridades del país de destino el control de los envíos desde antes de
+la salida de origen.
+
++ Procurando la comunicación entre los operadores postales de origen con el operador de
+destino y su aduana nacional, a efectos del control de carga desde antes de la salida
+del envío.
+
+Del mismo modo, se controló el cumplimiento de las siguientes normas nacionales en el
+país de destino de los envíos:
+
++ En materia de seguridad, normas sanitarias, de calidad, de farmacia, de control de es-
+pecies, etc.
+
+*+ En materia fiscal, normas relativas a la importación con el fin de asegurar el pago de los
+tributos por parte de los destinatarios.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 13 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Resultó imprescindible también garantizar la libre competencia en igualdad de condiciones
+con los mercados interiores, evitando distorsiones de la competencia. Así, se procedió a
+aplicar la misma fiscalidad para la mercancía nacional y la mercancía importada por medio
+de Correos a través de envíos internacionales.
+
+Correos formaliza los despachos de importación a todos los envíos postales con mercancía
+y, desde el año 2005, los operadores postales actúan como representantes aduaneros.
+Estos someten los envíos con mercancía al control de la aduana y del resto de las auto-
+ridades españolas competentes en las diferentes materias (sanitarias, farmacéuticas, de
+seguridad, de consumo etc.).
+
+Es crucial también el control de los cobros de tributos a la importación a los destinatarios
+de envíos. En este sentido, Correos actúa en nombre del destinatario ingresando en la
+Agencia Tributaria los tributos cobrados.
+
+Comercio internacional
+
+Los orígenes del comercio se remontan a la época en que las primeras civilizaciones, en
+la búsqueda de autosuficiencia, comenzaron a practicar el trueque intercambiando bienes
+según lo que producían y lo que necesitaban.
+
+Al principio, los intercambios de bienes se daban entre los miembros de un mismo pueblo,
+pero poco a poco se fueron extendiendo a otras comarcas y regiones hasta sobrepasar las
+fronteras nacionales. Así, se ampliaron exponencialmente las zonas geográficas de inter-
+cambio y surgió el comercio internacional entre países.
+
+Podemos definir al comercio internacional como la actividad económica relativa al intercam-
+bio de bienes y servicios entre los distintos países.
+
+El comercio internacional ha ido evolucionando desde la forma primitiva basada en el trueque
+hasta convertirse en la actividad desarrollada, ágil y globalizada que es el comercio actual. El
+desarrollo de internet y la explosión del comercio electró-
+nico son las últimas fases de este desarrollo progresivo.
+
+En la actualidad, el comercio internacional es un factor
+protagonista en el crecimiento económico global.
+
+Aduanas
+
+La historia de las aduanas está ligada a la aparición del
+intercambio de mercancías y, por lo tanto, a la historia
+del comercio internacional. «Donde hay comercio hay
+aduana», afirmaba Montesquieu.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 14 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Las aduanas surgen como institución antes de que existieran los conceptos de nación,
+soberanía o Estado. Originalmente, su función era esencialmente el cobro de tributos que
+gravaban la importación de mercancías. Sin embargo, con el desarrollo del comercio inter-
+nacional y su crecimiento exponencial, las aduanas han ido ampliando sus competencias
+más allá de las estrictamente recaudatorias.
+
+Así, en la actualidad, las aduanas de los diferentes países controlan que la mercancía que
+se exporta o importa disponga de los certificados legales necesarios para:
+
+. Garantizar la seguridad y protección de los ciudadanos en lo relativo a sanidad y en ma-
+teria farmacéutica, entre otros.
+
+Garantizar el cuidado del medio ambiente.
+
+Comprobar la veracidad de los valores declarados para evitar distorsiones del comercio.
+Evitar atentados a los derechos de propiedad industrial (falsificaciones).
+
+Evitar el tráfico de mercancías prohibidas.
+
+Garantizar el cumplimiento de las leyes y los tratados internacionales.
+
+La aduana española
+
+La aduana es una oficina pública gubernamental situada en puntos
+estratégicos de entrada/salida del territorio nacional, tales como
+fronteras terrestres, puertos marítimos, aeropuertos, costas, ter-
+
+minales internacionales de transporte, terminales ferroviarias, etc.
+
+Estas oficinas públicas gubernamentales dependen del Departamento de Aduanas e Impues-
+tos Especiales de la Agencia Estatal de la Administración Tributaria (AEAT), que es la encar-
+gada de la gestión del sistema tributario y aduanero estatal.
+
+Funciones del Departamento de Aduanas e Impuestos Especiales
+
++ Fiscales. Aplica y vigila el pago de los tributos que se puedan generar ante la importación
+y exportación. Por ejemplo, aranceles, impuestos especiales e IVA.
+
++ Seguridad. Función ligada con la anterior: evita el fraude aduanero y lucha contra el con-
+trabando (de drogas, armas, patrimonio histórico, mercancía en general, etc.).
+
++ Salud pública. Controla que la entrada de animales, alimentos, productos sanitarios,
+farmacéuticos, fitosanitarios, residuos tóxicos, etc., no supongan un peligro para la salud
+pública de los ciudadanos.
+
++ Estadística. Elabora estadísticas de comercio exterior.
+
+En definitiva, la misión de la aduana española es la de controlar el cumplimiento de la polí-
+tica comercial, económica, fiscal, sanitaria y de seguridad, relacionada con el comercio
+internacional de mercancías.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 15 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.2.2. Actores principales en la cadena logística postal
+
+La Unión Postal Universal (UPU)
+
+La Unión Postal Universal (UPU) se fundó en 1874, tiene su sede en Berna y es una agen-
+cia especializada de la Organización de Naciones Unidas (ONU). Cuenta con 192 países
+miembros.
+
+La UPU es el principal foro de cooperación entre los operadores postales de los diferentes
+países. Ayuda a garantizar el funcionamiento de una red universal de productos y servicios
+postales que se constituye como la red de distribución más grande del mundo.
+
+La UPU fija las directrices para el intercambio de correo internacional entre sus países
+miembros. Así mismo, recomienda y proporciona asistencia técnica para mejorar la calidad
+del servicio postal y promueve el incremento de envíos postales.
+
+La estructura organizativa de la UPU se articula a través del Consejo de Administración (del
+cual Correos es miembro), la Oficina Internacional y el Consejo de Explotación Postal, del
+que Correos también forma parte. El Consejo de Explotación Postal es el órgano en el seno
+de la UPU directamente involucrado en los temas aduaneros, concretamente en su Comi-
+sión 1 (integración de la cadena logística), por medio del Grupo de Aduanas y del Comité
+de Contacto «OMA-UPU»,
+
+La Organización Mundial de Aduanas (OMA)
+
+La Organización Mundial de Aduanas (OMA) es un organismo internacional con sede en
+Bruselas. Su misión es mejorar la eficiencia y eficacia de las administraciones aduaneras,
+orientándolas y apoyándolas para asegurar y facilitar el comercio legítimo, generar ingresos
+y proteger a la sociedad. Cuenta con 182 Administraciones de Aduanas como miembros
+(entre ellas la aduana española).
+
+El Comité de Contacto «OMA-UPU» es de carácter permanente y fue creado en 1965 a tra-
+vés de un acuerdo entre ambas organizaciones. Tiene como finalidad el tratar las cuestiones
+de interés común a los operadores postales y a las aduanas.
+
+En el Convenio de Kyoto de 1973 (revisado en el año 149494 por la OMA) ya se recogían los
+principios del funcionamiento a futuro del despacho aduanero no solo comercial, sino tam-
+bién postal. El despacho aduanero debía estar sujeto al cumplimiento de las condiciones
+previstas por las aduanas. Además, tenía el deber de transmitir la información necesaria
+exigida por la legislación nacional, antes de la llegada de las mercancías a destino.
+
+De entre todas normas establecidas en el convenio y en las directivas dictadas por la OMA,
+resulta de vital importancia la obligación que se les imponía a las aduanas de proceder
+a la liberación inmediata de todas las mercancías mediante el despacho aduanero. Esta
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+Despacho aduanero:
+Conjunto de trámites
+que se llevan a
+
+cabo para controlar,
+vigilar y aprobar
+
+la entrada o salida
+de mercancías
+
+en un territorio
+aduanero concreto
+durante cualquier
+operación comercial
+internacional.
+
+[[ página 16 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+liberación inmediata sería posible —como ya lo es hoy en día— gracias al intercambio elec-
+trónico de datos entre los operadores designados (en general los Correos) y a la evaluación
+de los riesgos que efectúan las aduanas antes de la llegada de las mercancías a destino.
+
+La Unión Europea como unión aduanera
+
+La Unión Europea es un ejemplo de modelo de integración económica regional que actual-
+mente, tras la salida del Reino Unido, se encuentra formada por 27 países miembros.
+
+Cada uno de los países miembros realiza una cesión de su soberanía nacional en favor de
+la Unión Europea con el fin de hacer posibles los principios fundacionales de la Unión, como
+el principio de libertad de movimiento de capitales, personas y mercancías.
+
+La libertad de movimiento de mercancías ha permitido la creación de un mercado único del
+que se benefician los ciudadanos y empresas europeas al quedar suprimidas las barreras
+aduaneras y arancelarias para el tráfico de las mercancías que son originarias de países
+miembros de la Unión.
+
+De la misma forma, la legislación europea ha adoptado frente a los países no miembros un
+arancel común de cumplimiento obligatorio, creándose así una unión aduanera que queda
+regulada en el Código Aduanero de la Unión y cuyos principios básicos son:
+
++ No se pagan derechos aduaneros sobre mercancías que se trasladan entre países de la
+Unión Europea.
+
+e Todos los países aplican un arancel aduanero común para mercancías importadas de
+fuera de la Unión Europea.
+
++ Las mercancías importadas legalmente pueden circular por toda la Unión Europea sin
+tener que pasar por más controles aduaneros.
+
+Territorio aduanero de la Unión. Territorios especiales en España
+
+El Código Aduanero de la Unión Europea (CAU) establece que su ámbito de aplicación com-
+prende todo el territorio aduanero de la Unión. Al concretar en su artículo 4 los territorios
+que la conforman, señala para el caso de España lo siguiente:
+
+1. El Territorio Aduanero de la Unión comprende los territorios siguientes, incluidos su mar
+territorial, sus aguas interiores y su espacio aéreo:
+
+. El Territorio del Reino de España, salvo Ceuta y Melilla.
+Esta definición es especialmente relevante en materia aduanera para el caso de España.
+
+Dentro del territorio nacional debe destacarse la presencia de tres territorios fiscales espe-
+ciales como lo son Canarias, Ceuta y Melilla, que tienen para la Unión Europea un estatus
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 17 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+territorial especial que conlleva procedimientos aduaneros específicos para cada uno de
+estos territorios con fiscalidades distintas.
+
+Canarias
+
+Canarias es uno de los nueve territorios de la Unión Europea que «teniendo en cuenta su
+situación estructural social y económica caracterizada por su gran lejanía, insularidad,
+reducida superficie, relieve y clima adversos, y dependencia económica de un reducido
+número de productos, factores cuya persistencia y combinación perjudican gravemente
+a su desarrollo!» tienen la consideración de «Región ultraperiférica de la Unión Europea
+(RUP)».
+
+A las regiones ultraperiféricas —como es el caso de Canarias— se les aplica lo dispuesto
+en los tratados de la Unión Europea, incluidas las políticas comunes, aunque con medidas
+específicas más favorables a estas regiones.
+
+De acuerdo con lo anterior, a los efectos fiscales y aduaneros:
+
+Canarias es territorio de la Unión Europea.
+
+Canarias está integrada en el territorio aduanero de la Unión con singularidades espect
+ficas derivadas de la lejanía e insularidad del archipiélago.
+
+Canarias NO es territorio de aplicación del IVA.
+
+En Canarias se aplica el IGIC (impuesto general indirecto canario).
+
+Ceuta y Melilla
+
+Ceuta y Melilla son dos de los territorios que, por pertenecer a uno de los 27 países miem-
+bros de la Unión, forman parte de la Unión Europea.
+
+Sin embargo, tienen «debido a distintas circunstancias geográficas o políticas» la conside-
+ración de «regiones autónomas especiales» a las que distintas disposiciones especiales
+las eximen de aplicar algunas materias del derecho de la Unión Europea.
+
+De acuerdo con lo anterior:
+
++. Ceuta y Melilla son territorios de la Unión Europea.
+
+.e Ceuta y Melilla no están integradas en el territorio aduanero de la Unión. Por eso, en
+cuestiones aduaneras tienen la misma consideración que un Estado no miembro de la
+Unión Europea. A los envíos de mercancías con origen o destino en estas dos ciudades
+autónomas se les aplican los mismos procedimientos aduaneros que a un país tercero.
+
+* Ceuta y Melilla NO son territorios de aplicación del IVA.
+
++ En Ceuta y Melilla se aplica el IPSI (impuesto sobre la producción, los servicios y la
+importación).
+
+1. Tratado de Funcionamiento de la Unión Europea en su artículo 344 y ss. Versión consolidada Diario Oficial
+30 de marzo de 2010.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 18 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Glosario
+
+País tercero:
+
+Estado que, sin ser
+miembro de la Unión
+Europea, puede
+verse afectado o
+concernido por una
+disposición, acto
+
+o relación jurídica
+comunitaria.
+
+Andorra
+Andorra es un país soberano europeo del que se ha de destacar lo siguiente:
+
++ NO forma parte de la Unión Europea.
++ NO forma parte del territorio aduanero de la Unión.
++ NO es territorio de aplicación del IVA.
+
+En lo relativo a cuestiones aduaneras, tiene una condición similar a la de un país tercero
+con controles aduaneros completos en el lado de la Unión Europea.
+
+Andorra tiene una muy baja fiscalidad en impuestos directos e indirectos, sin perjuicio de
+que, en determinadas materias, existan acuerdos económicos y aduaneros preferenciales
+entre la Unión Europea y Andorra.
+
+11.2.3. Despachos aduaneros. Operadores privados
+y operadores postales (Correos)
+
+Para una mejor comprensión de la cadena global de suministro de mercancías y de los
+controles aduaneros es necesario saber que hasta el 30/6/2021, la cadena de suministro
+postal tenía un modelo normativo y operativo claramente diferenciado del modelo de los
+operadores privados de paquetería comercial.
+
+Sin embargo, a partir del 1/7/2021 se produjo un importante cambio normativo y operativo
+aplicable en península, Baleares, Ceuta y Melilla que equipara a los operadores postales
+(Correos) con los operadores privados de paquetería.
+
+El cambio de modelo en Canarias se produjo a partir del 15/11/2021.
+
+Diferencias entre operadores privados y operadores postales hasta
+el 30/6/2021
+
+Los operadores privados disponen de toda la información necesaria para formalizar los
+despachos aduaneros desde el momento mismo de la admisión del envío en origen.
+
+En este punto es fundamental que la admisión, en origen, solicite del remitente la factura
+de venta de la mercancía que viaja dentro del envío. Una vez transportado el envío hasta
+España, deberá ser despachado a su llegada ante la Aduana española en importación, y
+para poder despachar, será imprescindible disponer de la información contenida en la factura
+de la mercancía que viaja dentro del envío.
+
+Por ejemplo, en el caso de un envío que entrega DHL en España con origen en EE. UU, en
+primer lugar, a la salida de EE. UU. se habrá despachado en exportación ante la Aduana
+de EE. UU.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 19 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Al admitirse el envío en EE. UU., el admisor de DHL en EE. UU. reclama al remitente esta-
+dounidense la factura de la mercancía y graba en sus sistemas de admisión todos los
+datos de la factura, que son necesarios para presentar las declaraciones aduaneras tanto
+en origen, de acuerdo con la normativa de EE. UU., como en destino, de acuerdo con la
+normativa española.
+
+Los datos quedan almacenados en los sistemas corporativos de DHL para uso de sus dele-
+gaciones a nivel mundial —incluido DHL España—. De esa forma, los operadores privados
+disponen de todos los datos necesarios para formalizar los trámites aduaneros en España
+sin tener que esperar hasta que el envío llegue a destino. Las ventajas de esta práctica,
+hasta el 30 de junio de 2021, fueron:
+
++ Ahorro de tiempo, por la posibilidad de adelantar el proceso de importación ante la adua-
+na española, con el envío aún en tránsito.
+
+. Predeclaraciones. Al disponer de todos los datos con relevancia aduanera, los operadores
+privados podían solicitar información a la aduana española presentando una predeclara-
+ción, a través de la cual la aduana española podía comunicar si iba a requerir información
+adicional del destinatario para el despacho de importación. Así, los operadores privados
+podían solicitar al destinatario la documentación adicional que requiriera la aduana, evi-
+tando estacionamientos innecesarios.
+
+Mejoras competitivas para los operadores postales a partir del 1/7/2021
+
+En el marco de los acuerdos de colaboración entre la Unión Postal Universal (UPU) y la Orga-
+nización Mundial de Aduanas (OMA), los operadores postales integrantes de la UPU están
+obligados a intercambiar mediante ficheros electrónicos ITMATT la información contenida
+en los CN22/23 de cada envío internacional antes de la salida de los envíos del país de
+origen, a través del denominado «avance electrónico de datos». Esta obligación afecta de
+forma exclusiva a los envíos que contengan mercancía independientemente del producto
+postal elegido por el cliente —quedando excluidos los envíos que contengan documentos
+o que sean mensajes de carácter personal y actual—.
+
+De esta forma, los operadores postales se equiparan a los operadores privados, en tanto
+que disponen de la información necesaria para poder iniciar el proceso de formalización
+de los despachos aduaneros en destino desde el mismo momento de la salida del envío.
+
+Las ventajas de esta práctica, desde el 1 de julio de 2021, son las siguientes:
+
++ Ahorro de costes y tiempo, por la posibilidad que tienen los operadores postales de
+iniciar el proceso aduanero de importación ante la aduana española, con el envío aún en
+tránsito hacia España.
+
+. Predeclaraciones. Al disponer de todos los datos con relevancia aduanera, los operadores
+postales pueden solicitar información a la aduana española presentando una predecla-
+ración, a través de la cual la aduana española puede comunicar si requiere información
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+CN22, CN23:
+Modalidades
+de formularios
+utilizados en
+declaraciones
+aduaneras.
+
+Glosario
+
+ITMATT: Abreviación
+utilizada para
+referirse a las
+características de
+un artículo (Item
+Attribute) que es
+objeto de envío.
+
+[[ página 20 de 44 · ocr ]]
+
+TEMA 11.
+
+Internacionalización y Aduanas
+
+adicional del destinatario. Así, los operadores
+postales pueden solicitar al destinatario la do-
+cumentación adicional que requiriera la adua-
+na, evitando estacionamientos innecesarios.
+
+Conclusión
+
+Desde el 1 de julio de 2021, los operadores
+postales disponen de las mismas herramien-
+tas competitivas que los operadores privados
+de paquetería para poder prestar un servicio
+integral de gestión aduanera a sus clientes de
+paquetería internacional.
+
+11.2.4. Avance electrónico de datos
+
+Introducción
+
+En el marco de un mercado internacional globalizado caracterizado por un incremento expo-
+nencial y continuo de los envíos postales con mercancía e-commerce, actualmente la deman-
+da del comercio internacional se basa en dos elementos esenciales de la calidad global de
+los servicios postales internacionales:
+
++ El requerimiento de SEGURIDAD
+Es necesario disponer de la información de envío que permita el predespacho electróni-
+co ante la aduana y demás autoridades, previo a la salida de origen de los envíos con
+mercancías.
+
+e El requerimiento de AGILIDAD
+Es necesario disponer de sistemas de información electrónica que permitan la automa-
+tización de los procesos.
+
+La respuesta coordinada de los distintos agentes que intervienen en la cadena de suminis-
+tro postal global y en el despacho aduanero postal (la UPU, la OMA, las aduanas, la Unión
+Europea, los operadores postales designados y las compañías aéreas) ha sido la de orientar
+los esfuerzos de todos para garantizar la seguridad y la agilidad en el despacho aduanero
+postal. Para ello se ha optado por la integración de la cadena de suministro postal global
+con la implementación de un sistema de trazabilidad de envíos, de principio a fin en toda
+la cadena.
+
+Como consecuencia, se ha logrado acelerar los procesos operativos, fortalecer la seguridad
+en su transporte e incrementar la confianza de los consumidores en la cadena logística
+postal. Todo esto contribuye al desarrollo del comercio electrónico a nivel global.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 21 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Otras ventajas adicionales que puede aportar la implantación de este modelo de despacho
+aduanero postal con avance electrónico de datos (AED) son las siguientes:
+
+* Proporcionar a las aduanas la información que necesitan para realizar una evaluación de
+riesgos antes de la llegada de un paquete o antes de su carga en el transporte en origen.
+
+e Facilitar los procedimientos aduaneros relacionados con el cobro de los ingresos fiscales,
+ya que puede permitir la codificación electrónica de las mercancías para el cobro de
+los impuestos o aranceles que correspondan.
+
+. Permitir a los operadores postales designados y a las aduanas conectar los flujos físicos
+de envíos postales con los flujos electrónicos correspondientes, de forma que les permita
+adecuar sus capacidades operativas a la demanda.
+
+. Permitir a los operadores postales designados el tratamiento automatizado de los envíos
+con mercancías.
+
+Conclusión
+
+Con la inclusión del avance electrónico de datos en el despacho aduanero postal, el objeti-
+vo principal que persiguen los actores que intervienen en él (la UPU, la OMA, la Unión Euro-
+pea, las aduanas, los operadores postales designados y las compañías aéreas) es igualar
+las características del despacho aduanero postal y el despacho aduanero comercial. De
+esta forma, la oferta de ambos estará basada en un modelo integrado, con trazabilidad de
+envíos en toda en la cadena de suministro postal, en su despacho aduanero y con preaviso
+electrónico de datos a la aduana de destino antes de la llegada de los envíos.
+
+Envíos internacionales. Mensaje ITMATT: salida de origen y predeclaración
+
+A partir de los acuerdos entre la Unión Postal Universal (UPU) y la Organización Mundial de
+Aduanas (OMA), los operadores postales designados por cada Estado miembro han acordado
+el siguiente esquema de funcionamiento para los envíos internacionales con origen fuera
+de la Unión Europea que contengan mercancía:
+
+1. Admisión
+
++ Los operadores postales de origen son responsables de la correcta cumplimentación
+del CN22/CN23 y de la admisión de los envíos con mercancía, al estar sujetos a con-
+troles de seguridad y a tramitación aduanera en destino.
+
+e Todos los envíos con mercancía se encuentran sujetos a CN22/23, independientemen-
+te del canal de venta: oficinas, contrato, agentes, consolidadores, etc.
+
+. Para los envíos de paquetería en general, envíos ordinarios o envíos certificados, se
+utiliza la etiqueta S10, que permite la identificación unitaria y la trazabilidad del envío
+exclusivamente en lo relativo al control de seguridad y aduanero (no es un envío certi-
+ficado). No permite trazabilidad al cliente/usuario.
+
+e Es obligatoria la captura de datos para generar el CN22 y transmitir el mensaje ITMATT.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+Etiqueta S10:
+Etiqueta estándard
+de la Unión
+
+Postal Universal
+
+que facilita a los
+operadores postales
+y a las autoridades
+aduaneras la
+trazabilidad del
+
+envío a los solos
+efectos del despacho
+aduanero. Es la
+etiqueta S10 la que
+lleva asociada toda
+la información del
+envío que se traslada
+al mensaje ITMATT
+(Avance Electrónico
+
+de Datos).
+
+[[ página 22 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+2. Carga del envío en el medio de transporte a destino
+
+Los Operadores postales de origen se comprometen a generar por cada envío con mer-
+cancía un mensaje electrónico ITMATT que recoja la información del CN22/23 de cada
+envío, según los datos aportados por el remitente.
+
+. Casos especiales: envíos admitidos a empresas o autónomos.
+
+— Para envíos remitidos por empresas o autónomos, se deben transcribir los datos de
+la factura para generar el CN22/23.
+
+— Es conveniente que, a la admisión, se introduzca la factura de la mercancía en un
+sobre de plástico colocado en la cubierta del envío.
+
+— En caso de que en origen no se cumpla con estos requisitos, serán de obligado
+cumplimiento por parte de Correos a la llegada del envío a España.
+
+Avance electrónico de datos. El mensaje ITMATT conteniendo los datos de las declara-
+ciones CN22/23 será transmitido por el operador postal de origen de forma electrónica
+al operador postal de destino.
+
+Los operadores postales de origen se comprometen a no cargar el envío en el medio
+de transporte hasta que reciban autorización de carga de las autoridades de destino a
+través de su operador postal (evaluación de riesgos).
+
+. Mensaje ITMATT y envío electrónico de datos al operador de destino
+
+Los envíos se estacionan en la oficina de cambio de origen hasta que llegue la contes-
+tación del operador o las autoridades de destino autorizando la carga. Sin autorización
+de carga, el envío queda estacionado en la oficina de cambio del operador de origen.
+
+. Operador de destino recibe el mensaje ITMATT
+
+El operador de destino recibe el mensaje ITMATT y lo remite de forma electrónica a sus
+autoridades para que autoricen o no la carga del envío en origen.
+
+e El envío aún no se ha cargado en origen.
+Solo aplicable para la importación en España de envíos internacionales de origen «NO UE»:
+
++ El mensaje I'TMATT es tratado en la plataforma ICS2 en la que interactúan las siguientes
+entidades: Correos de España, Comisión Europea y la aduana española.
+
+. Contestación de las autoridades 1CS2 al mensaje ITMATT: «AUTORIZACIÓN DE CAR-
+
+GA SÍ»
+
+Son las autoridades de destino las que autorizan la carga del envío en origen y las que
+lo comunican al operador postal de destino.
+
+Recibida la autorización de carga por el operador de destino, se comunica al operador
+postal de origen. Solo en este caso, el operador de origen podrá cargar el envío en el
+medio de transporte y encaminarlo a destino.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 23 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+En caso de incumplimiento de esta obligación, los envíos que no hayan obtenido la autoriza-
+ción de carga podrán ser objeto incluso de decomiso o destrucción por orden de la aduana
+de destino.
+
+La responsabilidad recae sobre el operador postal de origen.
+
+6. Contestación de las autoridades 1CS2 al mensaje ITMATT: «AUTORIZACIÓN DE CAR-
+GA NO»
+
+Las autoridades optan por NO AUTORIZAR la carga del envío y pueden contestar con
+cualquiera de estas tres respuestas:
+
+e Solicitar al operador postal de origen «Más información» NO CARGA.
+e Solicitar «Escaneo» del envío NO CARGA.
++. «NO Carga» con carácter definitivo.
+
+El operador postal de destino recibe la contestación de sus autoridades e informa al
+operador postal de origen que no puede cargar el envío, para que proceda según el caso.
+El ICS2 (Sistema de Control de Importaciones) es el sistema de información anticipada
+sobre la carga desarrollado por las aduanas de la UE para facilitar el libre flujo de inter-
+cambios comerciales mediante procesos optimizados de seguridad aduanera basados
+en datos y adaptados a modelos globales de negocio.
+
+Mediante este sistema se recopilarán datos sobre todas las mercancías que accedan a
+la UE antes de su llegada. Las autoridades aduaneras lo emplearán para garantizar la
+seguridad y protección de todas las personas que residen en la UE. Su objetivo es seguir
+reforzando la «primera línea de defensa» de las aduanas.
+
+7. Operador postal de origen: carga del envío y curso a destino/no carga
+
++ Si NO existe autorización expresa de carga:
+El operador de origen NO debe cargar los envíos a destino.
+El operador de origen SÍ deberá:
+
+— Facilitar información del escaneo o documentación adicional requerida al operador
+de destino.
+
+— Esperar la respuesta de autorización de «cargar» que le faciliten las autoridades del
+país de destino a través de su operador postal.
+
+Si la decisión fue la de «no cargar», el envío no se podrá cursar a destino.
+
+En caso de incumplimiento de estas obligaciones, a la llegada del envío NO AUTORI-
+ZADO la aduana puede decretar el decomiso o destrucción del envío.
+
+La responsabilidad recae sobre el operador postal de origen.
+
++ Si existe autorización de carga:
+
+— Solamente con la autorización expresa de carga por parte del operador postal de
+destino, el operador de origen puede cargar el envío.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (173
+
+[[ página 24 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+8. El operador de destino presenta a la aduana de destino la predeclaración
+
+Mediante el avance electrónico de datos, el operador de destino ha recibido el mensaje
+ITMATT del operador de origen.
+
+Autorizada la salida por las autoridades de destino, se inicia el proceso de despacho
+ante la aduana española antes de la llegada del envío físico a España, en los casos que
+la normativa lo permita.
+
+El operador de destino construye el mensaje de predeclaración H7 a partir del mensaje
+ITMATT recibido, recogiendo todos los datos del envío con mercancía contenidos en el
+CN 22/23, de los mensajes electrónicos recibidos desde el país de origen.
+
+Envíos nacionales-Mensaje ITMATT «doméstico»
+
+Es necesario generar un mensaje ITMATT doméstico para envíos nacionales
+
++ Tramitación aduanera. Obligatoriedad
+
+Dado que coexisten a nivel nacional cuatro territorios con fiscalidad diferente (península,
+Canarias, Ceuta y Melilla) existen envíos nacionales que contienen mercancía sujeta a
+tramitación aduanera. Quedan excluidos los mensajes personales y actuales.
+
+Al existir obligación de tramitación aduanera, es necesario generar a partir de los datos
+de admisión (CN22/23) un mensaje ITMATT con el que se podrá lanzar a la aduana de
+destino la predeclaración H7 y de esta forma adelantar el inicio de los trámites aduaneros
+en destino desde el momento de la salida de los envíos de origen.
+
++ ¿Qué envíos nacionales están sujetos a tramitación aduanera?
+Todos los envíos que contienen mercancía (independientemente del producto postal
+que haya elegido el cliente) que se admitan en un territorio fiscal determinado pero se
+entreguen en otro territorio con fiscalidad diferente. A continuación, se adjunta un cuadro
+explicativo.
+
+ENVÍOS NACIONALES O INTERNACIONALES
+TRAMITACIÓN ADUANERA DE ENVÍOS CON MERCANCÍA SEGÚN ORIGEN: ¿OBLIGATORIO?
+
+Envío Origen ¡a Canarias Ceuta Melilla
+Internacional FUERA UE sí sí sí sí
+Internacional UE
+Nacional PENÍNSULA
+Nacional CANARIAS
+Nacional CEUTA
+Nacional MELILLA
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 25 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+. Fiscalidad diferente en cada uno de los cuatro territorios
+
+| PERTENECEN | DESTINATARIOS PAGAN
+AL TAU (*)
+Península Ley del IVA SÍ SÍ (**x*) | sí SÍ [NO |NO
+Canarias Ley de IGIC SÍ si(***) |sÍ NO [SÍ  |NO
+Ceuta Ordenanza Municipal | NO NO SÍ NO [NO |SÍ
+Melilla Ordenanza Municipal | NO NO SÍ NO [NO  |sSÍ
+
+(+*) Territorio aduanero de la Unión
+(**) Impuestos especiales sobre el tabaco y alcohol, etc.
+(**x*) Si los envíos son de origen de terceros países
+
+¡ATENCIÓN! La misma mercancía tiene diferente fiscalidad dependiendo del terri-
+torio español del que proceda el envío. Así, si el destinatario recibe un envío
+nacional desde fuera de su territorio, pagará diferentes tributos según el lugar
+del que proceda el envío. Por ejemplo, en el caso de la importación de libros, si
+el envío procede de:
+
+e Península: paga 4% de IVA (en caso de bajo valor hasta 150 €, el tipo impo-
+sitivo es el 2 de IVA).
+
+e Canarias: paga 0% de IGIC.
+
++. Ceuta: paga 0,5% de IPSI.
+
+11.2.5. Envíos con mercancía: declaración de Importación.
+DUA versus H7 (acuerdos especiales)
+
+Antecedentes legales
+
+Además de venir recogido en el Código Aduanero de la Unión, las legislaciones fiscales
+aplicables en cada uno de los territorios fiscales españoles establecen el principio general
+de que la «introducción de mercancía (en cada uno de los territorios fiscales) se encuentra
+sujeta al pago de tributos a la importación con independencia de quien sea el importador,
+su condición y a qué fin se destine la mercancía?».
+
+Este principio es aplicable a todos los envíos postales que contengan mercancía con inde-
+pendencia del producto postal con el que viajen.
+
+En conclusión, todos los envíos que contengan mercancía están obligados a realizar una
+declaración de importación que podrá presentar Correos como representante aduanero
+habilitado por la AEAT a la aduana española.
+
+2. Ley 37/42, de 28 de diciembre, reguladora del IVA en sus artículos 17 y ss. Ley 20/41, de 7 de junio, de
+modificación de aspectos fiscales del Régimen Económico Fiscal de Canarias en su artículo 4 punto 2; y
+Ley 8/1991, de 25 de marzo, por la que se aprueba el arbitrio sobre la producción y la importación en las
+ciudades de Ceuta y Melilla en su artículo 5.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. p17o
+
+[[ página 26 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Glosario
+
+Formato XWVIL:
+
+Los archivos
+denominados
+
+XML (Extensible
+Markup Language
+
+o Lenguaje
+
+de Marcado
+Extensible) son un
+metalenguaje que
+sirve para almacenar
+datos y facilitar
+
+su transmisión
+
+entre diferentes
+tecnologías sin
+afectar su estructura
+original.
+
+Presentada la declaración de importación, la aduana contestará de forma telemática a
+Correos comunicando:
+
+e Autorización de entrada del envío en España o inspección de la aduana antes de la salida
+a reparto del envío.
++ Monto de tributos a pagar por el destinatario.
+
+Tipos de declaraciones de importación
+
+Existen dos tipos de declaraciones de importación, aplicables en situaciones diferentes:
+
+. Mensajes de Bajo Valor H7
++ DUA de importación «Completo»
+
+Bajo Valor Mensaje H7 (acuerdos especiales)
+
+¿En qué consiste el mensaje H7?
+
++ Esun mensaje simplificado en formato XML que transmite Correos a la aduana española.
+e Contiene exclusivamente información del CN22/23
+
+— Avance electrónico de datos con los datos grabados
+
+- Para envíos internacionales, los datos son grabados por el operador de origen al
+admitir el envío ITMATT.
+
+- Para envíos nacionales con mercancía, los datos son grabados por Correos a la
+admisión para flujos nacionales con obligación de tramitación aduanera.
+
+¿En qué territorios se aplica?
++ Entodos los territorios fiscales españoles: península, Baleares, Canarias, Ceuta y Melilla.
+¿Cuándo se aplica?
+
+. Para envíos que contienen mercancía, ya sean nacionales o internacionales, con indepen-
+dencia del producto postal bajo el que viajen.
+
+. Se aplica H7 siempre que el envío tenga un valor inferior o igual a 150 euros, que el
+destinatario sea una persona física y que la mercancía contenida en el envío:
+
+— No esté sujeta a Controles (de sanidad, farmacia, calidad, fitosanitarios, etc.).
+— No esté sujeta a impuestos especiales (tabaco, alcohol etc.).
+— No esté sujeta al arbitrio insular de entrega de mercancías (AlEM) en el caso de Canarias.
+
+¿Qué obligaciones tiene el destinatario?
+
++ Pago de la tarifa de Correos por la gestión de la declaración de importación.
++ Pago de tributos a la importación (excepto en Canarias).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 27 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+¿Qué sucede en Canarias con los envíos de importación tramitados por medio de H7?
+
+. Correos entrega el envío de forma gratuita al destinatario para los envíos tramitados por
+medio de H7.
+e La legislación en Canarias establece la exención de IGIC a los envíos de valor inferior a
+
+150 euros que se despachen por medio de H7 con carácter general, salvo las excepcio-
+nes que marca la ley.
+
+¿Qué obligaciones tiene Correos?
+
+Correos tiene la obligación de ingresar en la Agencia Tributaria AEAT o Consejerías de Hacien-
+da de cada territorio los tributos cobrados a los destinatarios a la entrega de los envíos, en
+los plazos que marca la ley.
+
+DUA de importación completo
+
+¿En qué consiste el mensaje DUA de importación?
+
++ Es un mensaje en formato XML que lanza Correos a la aduana española con todos los
+datos que la normativa aduanera exige para este tipo de declaraciones de importación.
+
++ De forma muy particular es obligatorio declarar en el DUA de importación los siguientes
+datos, que no vienen recogidos en el CN22/23:
+
+NIF del destinatario.
+
+Número y fecha de factura.
+Certificados de sanidad, farmacia, etc.
+Licencias de importación, etc.
+
+¿En qué territorios se aplica?
++ En todos los territorios fiscales españoles: península y Baleares, Canarias, Ceuta y Melilla.
+¿Cuándo se aplica?
+
+e La tramitación de importación se realiza por medio
+de DUA completo siempre que se dé alguna de las
+siguientes situaciones:
+
+— Que el valor de la mercancía contenida en el envío
+sea superior a 150 euros.
+
+— Que la mercancía esté sujeta a controles (de sani-
+dad, farmacia, calidad, fitosanitario, etc.).
+
+— Que la mercancía esté sujeta a impuestos especia-
+les (tabaco, alcohol, etc.).
+
+— En el caso de Canarias, que la mercancía esté su-
+jeta al arbitrio insular de mercancías (AIEM).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 28 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+po
+
+¿Qué obligaciones tiene el destinatario?
+
+. Contestar el aviso de llegada que le manda Correos solicitando los datos del NIF, factura,
+licencias y autorización de despacho en favor de Correos.
+
+— Sin la colaboración del destinatario, el envío no puede salir a reparto al no poderse
+despachar ante la aduana por falta de datos.
+
++ Pago de tarifa de Correos por la gestión de la declaración de importación.
++ Pago de tributos a la importación aplicables en cada territorio.
+
+¿Qué obligaciones tiene Correos?
+
+Correos tiene la obligación de ingresar en la Agencia Tributaria AEAT o Consejerías de
+Hacienda los tributos cobrados a los destinatarios a la entrega de los envíos en los plazos
+que marca la ley, o bien pagados por los destinatarios a Correos por medio de trasferencia
+o vía app.
+
+11.2.6. Sistema 10SS/H7: Import One Stop Shop
+Concepto
+
+El sistema IOSS/H7 permite que sean las plataformas de comercio electrónico con domicilio
+fuera de la Unión Europea (AliExpress, Amazon, Rakuten, etc.) que venden su mercancía a
+ciudadanos comunitarios quienes asuman el ingreso en Hacienda de los tributos a la impor-
+tación (IVA), que previamente han facturado y cobrado a sus clientes europeos.
+
+Este sistema lOSS ofrece las siguientes ventajas sobre el sistema de despacho de impor-
+tación H7 (acuerdos especiales):
+
+e Agiliza el proceso de despacho ante la aduana.
+
+e Evita que el destinatario tenga que pagar en el acto de la entrega del envío los tributos
+a la importación (IVA).
+
+e Ahorro de costes para Correos en los envíos de importación e-commerce.
+
+Ámbito de aplicación
+
+El sistema lOSS es de aplicación en península y Baleares a las importaciones de envíos
+conteniendo mercancía con origen de terceros países, Canarias, Ceuta y Melilla siempre
+que se cumplan las siguientes condiciones:
+
+. Destinatario/importador debe ser persona física (no pueden ser empresas).
+e El valor de la mercancía debe tener un valor inferior o igual a 150 euros.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 29 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
++ La mercancía no puede estar sujeta a controles de entrada (sanidad, farmacia, calidad,
+fitosanitarios, etc.).
++ La mercancía no debe estar sujeta a impuestos especiales (tabaco, alcohol etc.).
+
+El sistema l0SS no es de aplicación en Canarias, Ceuta y Melilla hasta que ocurra la modi-
+
+ficación de las normas reguladoras de sus tributos.
+
+Actores en el sistema I0SS
+
+En el sistema l0SS intervienen los siguientes actores:
+
+e Plataforma de e-commerce (con domicilio fuera de la Unión Europea).
+
+Comprador por internet situado en Península y Baleares.
+
+Operador postal de origen (admisor del envío).
+
+Representante fiscal de la plataforma electrónica en Europa.
+
+Operador postal de destino (Correos).
+Aduana de despacho de Barajas (AEAT).
+
+Obligaciones de los actores en el sistema l0SS
+
+La plataforma e-commerce
+
++ Debe obtener un número lOSS ante la Unión Europea.
+
++ Debe nombrar un representante fiscal en Europa: deberá de nombrar un representante
+fiscal con domicilio en cualquier país de la Unión Europea que garantizará el ingreso del
+IVA facturado en la AEAT.
+
++ Debe emitir factura con IVA a sus compradores por internet: emitirá una factura de venta
+desglosando el IVA aplicable en el país de consumo del envío. En España el 21% es el
+tipo aplicable.
+
++ Debe presentar sus envíos al operador postal de origen, en el momento de admisión del
+envío, indicando el número lOSS en el CN22/23. El número lOSS deberá ser correcto y
+válido.
+
+Comprador por internet/Destinatario del envío
+
++. Deberá pagar la factura por el valor de la mercancía, además del IVA a la importación
+(21%).
++ El sistema lOSS solo es válido para importaciones en península y Baleares.
+
+— No es aplicable en Canarias, Ceuta y Melilla.
+— En Ceuta y Melilla, está pendiente de cambio la normativa que lo regule.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (179
+
+[[ página 30 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Operador postal de origen
+e Admisión del envío:
+
+— Generación de CN22/23 indicando el número lOSS de la plataforma.
+— El número lOSS deberá ser correcto y válido.
+—- Generación del ITMATT.
+
+e Avance electrónico de datos al operador de destino.
+Representante fiscal de la plataforma electrónica en Europa
+
+. Prestar garantía frente a la Comisión Europea antes del inicio de la operativa lOSS, para
+cubrir el pago de las deudas que se generen por la importación de envíos con mercancía
+en la forma que determine la ley (avales y garantías bancarias).
+
+Operador postal de destino (Correos)
+. Correos ha recibido el mensaje ITMATT del Operador Postal de Origen:
+
+— El mensaje ITMATT contiene la información del CN22/23 y el número lOSS de la Pla-
+taforma de Venta.
+
+. Correos genera el mensaje H7 para consumo de la Aduana Española:
+
+Presentación de la Pre Declaración ante la Aduana antes de la llegada física del envío.
+Llegada física del envío a Barajas.
+
+Activación del mensaje H7.
+
+Circuito Verde.
+
+e Salida a reparto del envío
+Aduana de Barajas (AEAT)
+
+. Correos ha activado el mensaje H7 l0SS a la llegada del envío al ADT de Barajas.
++ Con circuito verde de la aduana:
+
+— Salida a reparto del envío para entrega, sin cobro de
+tributos al destinatario.
+— AEAT carga al representante fiscal de la plataforma ¡AN
+el IVA a la importación (21%). IVA a la importación
+pagado previamente por el comprador. ES
+— El representante fiscal o la plataforma deben ingre-
+sar en Hacienda el 21% del IVA cobrado a la emisión O
+de la factura mediante la presentación de sus decla- Ex
+raciones fiscales.
+
+y
+A
+eN
+Oli
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 31 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.3. Información aduanera
+
+11.3.1. Definición de envíos sujetos a trámites aduaneros
+de importación en destino
+
+Están sujetos a trámites aduaneros de importación en destino todos los envíos que con-
+tengan mercancía de los flujos que se indican en el cuadro siguiente (véase más arriba, al
+comentar los Envíos nacionales sometidos a tramitación aduanera, apartado 11.2.4).
+
+ENVÍOS NACIONALES O INTERNACIONALES
+
+TRAMITACIÓN ADUANERA DE ENVÍOS CON MERCANCÍA SEGÚN ORIGEN: ¿OBLIGATORIO?
+
+Envío Origen Península Canarias Ceuta Melilla
+Internacional FUERA UE sí sí sí SÍ
+Internacional UE
+Nacional PENÍNSULA
+Nacional CANARIAS
+Nacional CEUTA
+Nacional MELILLA
+
+11.3.2. Productos postales susceptibles de trámites aduaneros
+
+La obligación de tramitación aduanera de importación en destino afecta a todos los produc-
+tos postales ya sean de paquetería, certificados u ordinarios.
+
+La tramitación aduanera en destino es obligatoria para los envíos que contengan mercancías,
+independientemente del producto postal bajo el que viaje el envío. Los envíos que contengan
+documentos o mensajes de carácter personal y actual quedan excluidos de la obligatoriedad
+de tramitación aduanera en destino.
+
+Producto ordinario. Trazabilidad
+
+En los productos postales ordinarios que contengan mercancía, es la etiqueta S10 la que
+da trazabilidad al envío ordinario, pero solo a los efectos de controles de seguridad y adua-
+neros de las autoridades de destino (la etiqueta S10 no permite al cliente/usuario hacer el
+seguimiento del envío). Para ello, los operadores postales de origen deben generar, para
+cada envío que contiene mercancía, el CN22/23 con la información aduanera relevante.
+Luego, deben transmitirlo a los operadores de destino, para que estos puedan ultimar el
+proceso de importación en destino ante sus autoridades (avance electrónico de datos).
+
+De la misma forma, para los envíos nacionales con tratamiento aduanero, Correos España
+tiene la obligación de generar a la admisión el CN22/23 con toda la información aduanera
+relevante.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (163)
+
+[[ página 32 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Glosario
+
+DUA: Documento
+único administrativo.
+
+11.3.3. Impresos/documentos
+
+CN22/CN23
+
+La declaración CN22, o la CN23, es una declaración de aduanas de uso exclusivo de los
+operadores postales miembros de la Unión Postal Universal (UPU). Esta declaración contiene
+los datos que serán necesarios para la ultimación en destino de la declaración de importa-
+ción, a presentar ante la aduana por el operador postal de destino.
+
+En virtud del compromiso que tienen asumidos los operadores postales en el marco de los
+acuerdos entre la UPU y la Organización Mundial de Aduanas (OMA), los operadores postales
+de origen deben adelantar desde antes de la salida del envío todos los datos necesarios para
+la generación del mensaje ITMATT al operador postal de destino. Estos datos se encuentran
+en la declaración CN22/23.
+
+Para ello, a la admisión, los operadores postales de origen deben cumplimentar todos los
+datos que marca la norma para generar el ITMATT.
+
+Factura
+
+La factura es un documento que emite la empresa vendedora de la mercancía (o el autóno-
+mo) al comprador y que debe de recoger todos los datos de la venta que marca la normativa
+vigente (identificación del comprador y del vendedor, descripción de la mercancía, valor de
+la venta, número de serie de la factura y fecha de emisión).
+
+Para envíos con tratamiento aduanero en destino (nacionales o internacionales) que con-
+tengan mercancía y que sean depositados por empresas o autónomos, es importante que,
+a la admisión, Correos transcriba los datos de la factura, para cumplimentar fielmente la
+declaración CN22/23 (que servirá de base para generar el ITMATT) y, por último, la decla-
+ración de importación en destino.
+
+A la admisión, Correos deberá adjuntar la factura en un sobre de plástico para que viaje en
+la cubierta del envío hasta destino y así facilitar la labor de despacho en destino.
+
+Factura en los flujos nacionales. NIF del importador
+
+Para los envíos nacionales con obligación de tratamiento aduanero en destino, es necesario,
+durante la admisión, informar a la empresa o autónomo remitente que es obligatorio indicar
+el NIF del destinatario en la factura.
+
+Ello será de suma importancia en aquellos casos en que la importación en destino tenga
+que tramitarse por medio de DUA Ordinario o Completo, ya que es obligatorio —de acuerdo
+con la norma— la consignación del NIF del importador en el DUA.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 33 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+La importación se debe tramitar por medio de DUA com-
+pleto u ordinario en los siguientes casos:
+
+. Importaciones de valor superior a 150 euros (en pe-
+nínsula, Canarias y Ceuta).
+
++. Importaciones de mercancía sujeta a impuestos es-
+peciales (tabaco y alcohol) con carácter general (en
+península, Canarias y Ceuta) y con independencia de
+su valor.
+
+* Importaciones en Canarias de mercancía sujeta a
+control fitosanitario o a impuestos especiales (taba-
+co y alcohol) o al arbitrio de entrega de mercancía
+
+(AIEM) con independencia de su valor.
+
+La falta del NIF en la factura en estos casos puede obligar a Correos a estacionar el envío
+para contactar con el destinatario del envío, con el consiguiente efecto de pérdida de calidad
+en la entrega.
+
+11.3.4. Despachos de aduanas con Correos: autorización
+de despacho del cliente
+
+Se plantea la siguiente cuestión: ¿necesita Correos la autorización del cliente para poder
+presentar los despachos aduaneros ante la aduana como representante aduanero o puede
+el cliente decidir a quién contratar para tal fin?
+
+Despachos de importación: H7 y DUA completo
+
+Declaraciones simplificadas para envíos de escaso valor H7
+
++ En península y Baleares, la norma establece la presunción de que Correos como trans-
+portista tiene autorización de despacho.
+
++ En Canarias, no se plantea esta cuestión al entregar Correos el envío de forma gratuita
+al destinatario.
+
++ En Ceuta, Correos aplica la tarifa de «cesión de documentos» en los casos en que el
+destinatario opte por contratar a un representante aduanero diferente de Correos o auto-
+despacharse, por lo que en la práctica no se plantea esta cuestión.
+
+DUA completo
+
++ En los casos en que el destinatario opte por un representante aduanero diferente de
+Correos o autodespacharse, se aplica a la entrega la tarifa de «cesión de documentos»
+en todos los ámbitos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (183
+
+[[ página 34 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.4. Correos como representante aduanero
+
+11.4.1. Antecedentes
+
+Primero
+
+e Correos, desde el año 2005, está habilitado por el Departamento de aduanas e Impuestos
+
+Especiales de la Agencia Estatal de Administración Tributaria como representante adua-
+nero «para efectuar declaraciones de aduana por cuenta de terceros, bajo la modalidad
+de la representación indirecta».
+
+e Correos actúa como representante aduanero desde 2005 formalizando DUA (documento
+
+único administrativo):
+
+— En Canarias, desde 2005.
+
+— En Península y Baleares, desde 2011.
+— En Ceuta, desde 2016.
+
+— En Melilla, a partir de 2021.
+
+e En la actualidad, Correos tiene autorizados por la AEAT (Agencia Estatal de Administración
+
+Tributaria) los siguientes establecimientos aduaneros en el territorio nacional desde los
+que realiza los trámites aduaneros:
+
+— Almacén de depósito temporal (ADT) para DUA de Importación.
+— Local autorizado para mercancía de exportación (LAME), para DUA de exportación.
+
+DENOMINACIÓN |
+
+TIPO DE á
+ESTABLECIMIENTO | TRAMITES ADUANEROS
+CCP DE BARAJAS ADT Importación de terceros países, Canarias,
+Ceuta y Melilla
+CAMA LAME/ADT Exportación desde Península / Importación en
+Canarias y Ceuta
+CTI DE BARAJAS LAME/ADT Exportación en general / Importación de
+terceros países
+CTA DE TENERIFE LAME/ADT Importación en Canarias de terceros y UE /
+Exportación
+CTA DE LAS PALMAS | LAME/ADT Importación en Canarias de terceros y UE /
+Exportación
+ESTABLECIMIENTO o o
+OP DE CEUTA ESPECIAL Importación en Ceuta / Exportación
+Segundo
+
++ Hasta el 30 de junio de 2021, las importaciones de envíos de un valor inferior a 22 euros en
+
+península, Baleares y Ceuta estaban exentas del pago de tributos, se aplicaba franquicia.
+No obstante, los envíos con franquicia de IVA sí estaban sujetos a tramitación aduanera.
+Correos prestaba este servicio de forma gratuita a los destinatarios.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 35 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+. Modificación de la normativa IVA/IPSI (en Ceuta). El 1 de julio de 2021 se produjo un
+cambio legislativo: desapareció la franquicia de IVA (IPSI en Ceuta). De modo que desde
+esa fecha:
+
+— Todos los envíos (nacionales e internacionales) que contienen mercancía están suje-
+tos a tramitación aduanera de importación en todos los territorios nacionales, en los
+casos que marca la ley.
+
+— Todos los envíos que contengan mercancía pagan tributos desde el primer céntimo,
+con independencia de su valor:
+
+- Aplicable a las importaciones en Península (IVA).
+
+- Aplicable a las importaciones en Ceuta y Melilla (IPS).
+
+- En Canarias solo se pagan tributos a partir de 150 euros con las excepciones que
+marca la ley:
+
+» Los envíos de mercancía de un valor inferior a 150 euros como norma general no
+pagan tributos a la importación en Canarias, salvo en las excepciones que marca
+la ley.
+
+» Excepciones: perfumes y colonias, tabaco, alcohol o en general mercancía sujeta
+a AIEM.
+
+11.4.2. Importación en península a partir del 1/7/2021
+Desaparición de la franquicia de IVA
+
+Con la modificación de la normativa IVA de 30/6/2021 y la desaparición de la franquicia de
+22 euros, se produjeron las siguientes novedades que afectan a la operativa de los envíos
+postales con tratamiento aduanero:
+
+Primera
+
+* Pagan tributos, independientemente del valor, todos los envíos que contengan mercancía,
+B2C, con origen en terceros países (no UE), con destino Península y Baleares, y a los que
+no sea de aplicación exención a la que, por su naturaleza, se puedan acoger.
+
+— Desaparece la franquicia de IVA para los envíos de valor menor o igual a 22 euros.
+. Cuantía de los impuestos a pagar:
+
+— Envíos de valor inferior o igual a 150 euros, IVA (21%).
+— Envíos de valor superior a 150 euros IVA + ARANCEL (IIEE).
+
++ A la entrega del envío, se cobran las cantidades aduaneras volcadas a SGIE a los des- Glosario
+tinatarios de los envíos, siempre que se haya declarado con H7 y no se encuentre en NNEE: Impuestos
+régimen lOSS. especiales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (169
+
+[[ página 36 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
++ Los destinatarios pueden realizar el pago por una de las siguientes alternativas:
+
+— En efectivo a la entrega física del envío.
+— Mediante la app antes de la entrega del envío.
+
+Segunda
+
++ Los procedimientos de Correos frente a la aduana se reducen a los dos siguientes: Bajo
+valor/H7 y Ordinario o DUA completo que no sufre modificaciones respecto a la situación
+anterior al 1 de julio de 2021.
+
+Nueva declaración de importación para envíos de escaso valor H7
+
+El nuevo procedimiento se aplica a:
+
+* Todos los envíos internacionales y nacionales de valor menor o igual 150 euros.
+
++. Siempre que no contengan mercancía que por Ley pudiera estar sujeta a controles de
+sanidad, farmacia, calidad, al pago de Impuestos especiales (tabaco o alcohol) y el des-
+tinatario sea un particular.
+
+Para envíos internacionales, la declaración de importación H7 se genera a partir de los datos
+comunicados por el operador postal de origen a Correos (ITMATT/avance electrónico de datos) y
+contiene de forma exclusiva los datos del CN22/23 grabados a la admisión en el país de origen.
+
+Para envíos nacionales con origen en Canarias, Ceuta y Melilla
+
+e La declaración de importación Bajo Valor se genera a partir de los datos grabados en la
+admisión (IRIS y demás sistemas de admisión) al cumplimentarse el CN22/23 (ITMATT
+«doméstico»).
+
++ Es muy importante recordar que no cargar los datos CN22/23 en el momento de la
+admisión puede implicar la pérdida de calidad de la entrega de los envíos nacionales
+con tratamiento aduanero.
+
+— Es obligatoria la carga manual de los datos «aguas abajo».
+— El «retraso en el despacho ante la Aduana y salida a reparto» es también consecuencia
+adversa de no haber cargado los datos del CN22/23.
+
+Ventajas económicas y operativas del nuevo sistema H7
+
+e Ahorro de costes gracias al avance electrónico de datos por el operador de origen (envíos
+internacionales) o a la carga en IRIS de los datos del CN23/22 (envíos nacionales con
+tratamiento aduanero). Así, se evitan las cargas manuales de los datos en Barajas o en
+las cabeceras de zonas aduaneras de Canarias y Ceuta.
+
++ Reducción drástica de la tarifa de Correos por la gestión aduanera a pagar por el destinatario.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 37 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
++ Agilización del trámite aduanero:
+
+— Se inicia desde antes de la salida del envío de origen.
+
+— Se comunica el envío para la autorización de carga a efectos de seguridad para los
+envíos internacionales.
+
+— Antes de la llegada se comunica el envío a la aduana para hacer la predeclaración
+fiscal para envíos nacionales e internacionales.
+
+Una vez que la aduana acepta el mensaje de Bajo Valor, cuando se entrega el envío, el
+destinatario debe pagar (en efectivo, al momento de la entrega, o vía app) las siguientes
+cantidades aduaneras que están volcadas en SGIE:
+
+e IVA a la importación, calculado sobre el valor del CN22/23 (se aplica el 21%).
++ Una tarifa por la gestión ante la aduana del mensaje H7.
+
+Procedimiento ordinario
+
+El procedimiento ordinario generaba deuda tributaria por IVA. Desde el 1 de julio de 2021
+se aplica de la misma forma que en el periodo anterior, ya que no fue afectado por el
+cambio normativo.
+
+El procedimiento ordinario se aplica a envíos de valor superior a 150 euros o cuando el
+destinatario sea una persona jurídica.
+
+También se aplica si el envío contiene mercancía sujeta a controles de sanidad y farmacia
+o a impuestos especiales (tabaco, alcohol, etc.), con independencia de su valor.
+
+El procedimiento se inicia a la llegada del envío al ADT de Correos en Barajas, donde queda
+estacionado hasta que el destinatario cumpla con los tributos a la importación pagando el
+presupuesto generado por Correos.
+
+Descripción del procedimiento.
+
+*+ Correos manda un aviso de llegada por medio de Carta Urgente al destinatario para que
+este aporte la documentación aduanera.
+
+e El destinatario aporta la documentación necesaria para el despacho de importación por
+DUA completo (factura, justificante de pago, DNI y autorización de despacho a Correos
+ante la aduana).
+
+. Correos genera y manda al destinatario un presupuesto con los gastos que este debe
+pagar (tributos y tarifas de Correos).
+
+e El destinatario paga el presupuesto a Correos a través de una de las siguientes vías:
+
+— Trasferencia bancaria
+— App de Correos
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+ADT: Almacén de
+depósito temporal.
+
+[[ página 38 de 44 · ocr ]]
+
+1
+
+TEMA 11. Internacionalización y Aduanas
+
+(09)
+
+. Correos presenta el DUA de importación ante la aduana.
+
+— Aceptado por la aduana el DUA con circuito verde, el envío sale a reparto sin pagos
+pendientes.
+
+11.4.3. Modificación del procedimiento de importación en Canarias
+Cuestiones Fiscales Previas
+
+. Tramitación aduanera.
+
+Todos los envíos que se importan en Canarias que contienen mercancía están sujetos a
+trámites aduaneros de importación con independencia de su valor y de su origen (envíos
+nacionales e internacionales).
+
++. Pago de Tributos: dos supuestos.
+
+— Todos los envíos (nacionales o internacionales) conteniendo mercancía de valor su-
+perior a 150 euros están obligados a pagar «algún» tributo a la importación como
+norma general.
+
+— Todos los envíos (nacionales e internacionales) de valor inferior o igual a 150 euros
+están exentos del pago de tributos.
+
+EXCEPCIÓN: salvo que contengan perfumes, colonias, mercancía sujeta Impues-
+tos Especiales (tabaco, alcohol), controles paraduaneros o se trate de mercancía
+sujeta a AIEM aunque su valor sea igual o menor de 150 euros.
+
++ Obligado tributario: el destinatario del envío.
+
+— Solo el destinatario puede liberar los envíos en caso de reconocimiento por la aduana.
+
+Procedimientos aduaneros de importación en Canarias: tres tipos
+Existen tres tipos de procedimientos aduaneros: para envíos de escaso valor H7, Simplifi-
+
+cado y Ordinario.
+
+1. Procedimiento para envíos de escaso valor H7: genera deuda tributaria
+
+Se aplica a envíos nacionales o internacionales de cualquier origen, con un valor
+inferior o igual a 150 euros, que no contengan mercancía sujeta a controles de
+sanidad, farmacia, controles paraduaneros ni que contengan perfumes, colonias
+o cualquier mercancía sujeta a AlEM, etc.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 39 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
++ Una vez aceptado por la aduana el mensaje de Bajo Valor H7 con circuito verde, el des-
+tinatario no paga ningún tributo.
+
+— Correos formaliza la declaración aduanera en base a la información del ITMATT (del
+operador de origen para envíos internacionales) o ITMATT doméstico (para envíos na-
+cionales generado desde la admisión con la grabación de los datos del envío en IRIS).
+
+- Correos no cobra tarifa alguna por la gestión ante la aduana.
+
+— El envío se entrega gratuitamente al destinatario en Canarias.
+
+2. Procedimiento Simplificado DUA VEXCAN: genera deuda tributaria
+
+Este procedimiento se aplica a envíos que contengan mercancía de un valor
+superior a 150 euros con origen del resto de España (excepto Ceuta y Melilla) y
+de la Unión Europea o, que siendo de un valor inferior a 150 euros, contengan
+mercancía sujeta a control fitosanitario de entrada en Canarias, a impuestos
+especiales (tabaco o alcohol), o que se trate de perfumes, colonias o cualquier
+mercancía sujeta al arbitrio insular de entrega de mercancía (AIEM).
+
+. Correos formaliza la declaración de aduana de DUA Simplificado VEXCAN con la factura
+que al momento de la admisión haya facilitado el remitente.
+
+e La factura es imprescindible para formalizar el despacho aduanero de importación para
+envíos remitidos por empresas, al margen del CN22/23, que es obligatorio.
+
+Una vez que la aduana acepta el mensaje de DUA SIMPLIFICADO VEXCAN:
+
+. Correos cobra al destinatario en Canarias, al momento de la entrega, las cantidades
+aduaneras volcadas a SGIE, es decir:
+
+— Tarifa por la gestión DUA ante la aduana.
+— Tributos a la importación:
+
+- IGIC a la importación y resto de los tributos (AIEM y Recargo Minorista).
+
+El envío no se estaciona, sino que sale a reparto con la admisión del mensaje por la
+aduana.
+
+3. Procedimiento DUA Ordinario: genera deuda tributaria (arancel, IGIC, etc.)
+
+Se aplica a envíos de origen de terceros con un valor superior o igual a 150
+euros o a aquellos otros envíos cuyo valor sea inferior a 150 euros y que
+contenga mercancía con las siguientes características: que esté sujeta a EE;
+que esté sujeta a controles de sanidad, farmacia, calidad, fitosanitarios, AlEM;
+que se trate de colonias, perfumes o alcohol.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (10d
+
+[[ página 40 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+El procedimiento se inicia al momento de la llegada del envío a la Oficina de Cambio de
+Barajas.
+
+Generación de tránsito aduanero hasta Canarias bajo control de la aduana.
+
+Llegada del medio de transporte hasta Canarias. Comunicación a la aduana de la llegada
+a destino (Las Palmas o Tenerife).
+
+Estacionamiento de los envíos en los ADT de Las Palmas o Tenerife hasta que el destina-
+
+tario se ocupe de la importación.
+
+Descripción del Procedimiento Ordinario (idéntico al de península)
+
+Correos manda un aviso de llegada al destinatario (Carta Urgente).
+
+Destinatario aporta a Correos la documentación necesaria para el despacho (factura,
+justificante de pago, DNI y autorización de despacho a Correos ante la aduana).
+
+Correos manda al destinatario un presupuesto con los gastos que este debe pagar (tri-
+butos y tarifas de Correos).
+
+El destinatario paga el presupuesto a Correos a través de una de las siguientes vías:
+
+— En oficina.
+— Trasferencia bancaria.
+— App de Correos.
+
+Correos presenta el DUA de importación ante la aduana.
+
+— Aceptado por la aduana el DUA con circuito verde, el envío sale a reparto sin pagos
+pendientes.
+
+11.4.4. Procedimiento de importación en Ceuta
+
+Antecedentes legales
+
++ Cualquier envío nacional o internacional que contenga
+mercancía que se importe en Ceuta está sujeto a trá-
+mites aduaneros de importación, con independencia
+de su origen, valor, condición del destinatario o desti-
+no de la mercancía.
+
+e Todos los envíos nacionales o internacionales de im-
+portación en Ceuta que contengan mercancía tributan
+a la entrada con independencia de su valor. Rige el
+mismo principio que la importación en territorio de
+península y Baleares.
+
+e Obligado tributario: el destinatario del envío. Solo el
+destinatario puede liberar los envíos en caso de
+reconocimiento por la aduana.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 41 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+Procedimientos de importación en Ceuta
+
+1. Procedimiento de Bajo Valor o mensaje H7: genera deuda tributaria por IPSI
+
+Se aplica a envíos que contengan mercancía de valor inferior o igual a 150 euros, que a
+su vez no contengan mercancía sujeta a controles de sanidad, farmacia, controles para-
+duaneros. Además, el destinatario debe ser una persona física.
+
+También se aplica a envíos de origen nacional, comunitario y de terceros que contengan
+mercancía.
+Correos formaliza la declaración aduanera de Bajo Valor H7 en base a lo siguiente:
+
+— La información del ITMATT (del operador de origen para envíos internacionales).
+— La información del ITMATT doméstico (para envíos nacionales generado desde la ad-
+misión con la grabación de los datos del envío en IRIS).
+
+Aceptado por la aduana el mensaje de Bajo Valor H7 con circuito verde:
+
+- Correos cobra su tarifa además del IPSI a la importación.
+— El destinatario ceutí puede pagar de las siguientes maneras:
+
+- En efectivo, al momento de la entrega del envío.
+- Através de la app de Correos.
+
+2. Procedimiento Ordinario: DUA Completo
+
+Existen dos posibilidades con Correos:
+A) Primera
+
+Si el envío llega hasta Ceuta con una factura que contenga todos los datos necesarios para
+formalizar el DUA (es imprescindible el NIF del importador/destinatario).
+
+. Correos formaliza y presenta el DUA ante la aduana de forma telemática.
++ Una vez aceptado por la aduana con circuito verde, el envío sale a reparto para cobrar:
+
+— La tarifa de Correos por la gestión del DUA.
+— El ¡PSI a la importación, salvo que el destinatario ceutí se encuentre acogido al sistema
+de pago diferido que prevén las ordenanzas municipales de Ceuta.
+
++ Formas de pago disponibles para el destinatario:
+
+— En efectivo, al momento de la entrega del envío.
+— Por medio de la app (de próxima implantación en Ceuta).
+
++ En el acto de la entrega del envío, Correos facilita al destinatario los siguientes docu-
+mentos:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 42 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+_—
+
+Ú
+
+— Modelo 0490 de la Consejería de Hacienda de Ceuta.
+- Ejemplar 08 del DUA de Importación en Ceuta.
+— Documento de Levante.
+
+B) Segunda
+
+Si Correos no dispone de todos los datos para formalizar el DUA de importación en Ceuta.
+No llega una factura de la mercancía. Falta el NIF del importador.
+
+e El envío se estaciona y Correos remite un aviso de llegada al destinatario por Carta Ordi-
+naria solicitando que le aporte a Correos la factura, el justificante de pago, la copia del
+NIF del destinatario y la autorización de despacho a Correos.
+
+e El destinatario aporta la documentación solicitada. Correos formaliza el DUA de importa-
+ción y lo presenta a la aduana.
+
++ Aceptado por la aduana con circuito verde; salida a reparto del envío con cantidades a
+cobrar al destinatario:
+
+— Tarifa de Correos por la gestión del DUA.
+— IPSI a la importación, salvo que el destinatario ceutí se encuentre acogido al sistema
+de pago diferido que prevén las ordenanzas municipales de Ceuta.
+
++ Formas de pago por el destinatario:
+
+— En efectivo, a la entrega del envío.
+— Por medio de la app (de próxima implantación en Ceuta).
+
+e En el acto de la entrega del envío, Correos facilita al destinatario los siguientes docu-
+mentos:
+
+— Modelo 0490 de la Consejería de Hacienda de Ceuta.
+— Ejemplar 08 del DUA de Importación en Ceuta.
+— Documento de Levante.
+
+3. Autodespacho y otros: tarifa de cesión de documentos
+
+En aquellos casos en que el destinatario de Ceuta decida rehusar el servicio de gestión
+aduanera de Correos y opte por autorizar a otro representante aduanero diferente de Correos
+o autodespacharse, deberá facilitar a Correos la siguiente documentación:
+
+e Factura firmada por la aduana o, en su defecto, el ejemplar 08 del DUA de importación.
+e Justificante de pago del Modelo 090 a la Consejería de Hacienda de Ceuta.
+
+Además, deberá abonar a Correos la tarifa de cesión de documentos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 43 de 44 · ocr ]]
+
+TEMA 11. Internacionalización y Aduanas
+
+11.4.5. DUA de exportación
+
+El DUA de exportación es una declaración aduanera que se presenta a la aduana espa-
+ñola antes de la salida física de los envíos y que permite a los remitentes —empresas o
+autónomos— aplicarse los beneficios fiscales a los que tienen derecho según la ley, para
+desgravarse el IVA/IGIC soportado.
+
+El DUA de exportación es un producto que ofrece Correos a sus clientes de península,
+Baleares y Canarias. No es de carácter obligatorio para los envíos postales.
+
+Los clientes que decidan la contratación de este producto deberán autorizar a Correos como
+su representante aduanero.
+
+Procedimiento de autorización de despacho:
+
+. Clientes de pago en oficinas: deberán presentar a la admisión el formulario de exporta-
+ción firmado y sellado junto a la factura de la mercancía sin IVA/IGIC. El formulario de
+exportación se descarga desde la web de Correos.
+
+e Clientes de contrato: deberán presentar a la admisión el formulario de exportación firmado
+y sellado junto a la factura de la mercancía sin IVA/IGIC. El formulario de exportación se
+descarga desde la Oficina Virtual previa firma del Anexo 497.
+
+Una vez presentado el DUA de exportación ante la aduana de salida, Correos remitirá al
+cliente el ejemplar 03 del DUA de exportación por carta ordinaria.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 44 de 44 · ocr ]]
+
+

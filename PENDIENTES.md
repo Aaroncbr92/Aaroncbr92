@@ -17,7 +17,39 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_**Ninguno, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
+### 2026-09-14 · Los temas 8 y 12 de Correos tienen corrupta la rotulación de sus diagramas — CERRADO el 2026-09-15
+
+**Dónde.** `fuentes/correos-referencia/tema-08.txt`, y la página de índice de
+`fuentes/correos-referencia/tema-12.txt`.
+
+**Qué dice hoy.** El volcado del tema 8 trae cadenas como **«2ILFLQDV»** y **«5HFRJLGDD»** donde el
+diagrama rotula «Oficinas» y «Recogidas»: **la fuente incrustada de esos rótulos mapea mal los
+caracteres**, con un desplazamiento del alfabeto. El cuerpo del tema 8 está sano —son ocho renglones
+sobre noventa y siete páginas de texto— y la corrupción se limita a la rotulación de dos diagramas.
+La página de índice del tema 12 trae **«Prevencl6n de blanq,ueo de capltales»** y **«Seguridad de la
+lnformacl6n y clbersegurldad»**, que es el mismo defecto de la i por la ele que obligó a reconocer
+ópticamente los temas 4, 6 y 11.
+
+**Qué debería decir.** Los rótulos de los diagramas del tema 8 y el índice del tema 12, reconocidos
+ópticamente en lugar de tomados de la capa de texto. **`correos_dump.py` ya lo hace solo**: la
+detección de capa corrupta que se añadió el 14 de septiembre marca esas páginas. **Basta con volver a
+volcar los dos temas**, y no se ha hecho hoy porque son doscientas cuarenta y dos páginas de
+reconocimiento y ninguno de los dos temas está escrito todavía.
+
+**Fuente.** Comprobado sobre el propio volcado y sobre el patrón ortográfico: el español no admite
+una ele entre dos consonantes.
+
+**Gravedad.** Menor en el tema 8 —la rotulación de un diagrama no es dato de examen— e **induce a
+error** en el índice del tema 12, que es de donde sale la estructura del tema. **Se cierra cuando se
+escriban esos dos temas**, volviendo a volcarlos antes de leerlos.
+
+**Cerrado el 2026-09-15.** **Los dos temas están escritos y los dos se volvieron a volcar antes**, con el detector de capa rota ya puesto. **Del tema 8 no queda ni una de las cadenas desplazadas** —ni «2ILFLQDV» ni «5HFRJLGDD»—, y **del índice del tema 12 no queda ninguna de las formas con seis por ó ni con coma por u**: «Prevención de blanqueo de capitales» y su sigla salen bien. **Queda un «clberseguridad» en el renglón 12.4 de ese índice**, y **no es la capa rota**: la página está marcada `ocr rota`, o sea que se reconoció ópticamente, y ésa es una lectura del reconocedor sobre una línea de cuerpo pequeño. **El tema 12 no toma de ahí ningún dato**: su estructura salió de los epígrafes del cuerpo, no del índice.
+
+**Y el defecto dejó una lección que sí se aplicó al volcador.** El índice del tema 12 trajo **una segunda forma del mismo defecto que el detector no veía**: además de cambiar la i por una ele, cambia **la ó por un seis** y **la u por una coma** —«Proteccl6n de datos», «Prevencl6n de blanq,ueo de capltales»—. **Se arregló el detector, no el archivo**, de modo que un volcado futuro la caza sola.
+
+---
+
+_**Lo anterior a esta fecha: ninguno abierto, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
 informes que no pasaban la lente de prosa, el punto ciego de esa misma lente, los avisos de la lente
 de citas sobre las fórmulas propias, la tasa de paro que parecía discutir a su fuente y las dos
 preguntas de Gestión que examinan de una ley que su anexo no cita. **Cada uno lleva escrito abajo
