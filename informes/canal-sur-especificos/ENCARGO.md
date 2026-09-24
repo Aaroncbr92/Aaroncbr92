@@ -92,3 +92,8 @@ e `indice.py`. **Respuesta final al coordinador: 120 palabras como máximo**; el
 **Lo copiado del común no se vuelve a verificar**: el redactor lo lista bajo «Copiado del común» en
 su informe y verificación y refutación lo saltan (ya pasó el ciclo con redacción vigente). Lo
 copiado de RTVE sí se verifica, porque está escrito a otra fecha.
+
+**Lo copiado de RTVE sin tocar, en temas técnicos sin actualizar, tampoco se re-verifica** (desde
+Operador/a de Sonido): el redactor lo lista bajo «Copiado de RTVE sin cambios»; el verificador
+comprueba sólo que es literal. Lo adaptado o lo que cite normas sí se verifica. Medido en
+Redactor/a: la verificación era el 27 % del gasto.

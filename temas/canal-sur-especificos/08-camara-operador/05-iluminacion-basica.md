@@ -208,7 +208,8 @@ Toda la práctica consiste en llevar las fuentes de una escena a uno de los dos,
 elegido, para que el balance de blancos de la cámara tenga una sola referencia.
 
 La consecuencia en cámara: una cámara equilibrada para tungsteno que graba a la luz del día da una
-imagen azulada, y una equilibrada para día bajo tungsteno da una imagen anaranjada. El balance de
+imagen azulada, y una equilibrada para día bajo tungsteno da una imagen anaranjada: la luz de día
+es más rica en azules que la de tungsteno, y ésta más rica en rojos. El balance de
 blancos (tema 1) es la corrección electrónica de esa diferencia; los filtros de conversión son su
 remedio óptico, en la fuente o en la cámara.
 
