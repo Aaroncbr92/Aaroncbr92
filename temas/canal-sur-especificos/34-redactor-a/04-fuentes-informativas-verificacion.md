@@ -7,7 +7,7 @@
 | **Bloque** | Temario específico de Redactor/a · punto 4 |
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
 | **Fuente** | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 (4.3 a 4.3.7 y 9.9.1); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, art. 9.1; Sentencia del Tribunal Constitucional 6/1988, de 21 de enero, FJ 5; Orden PCM/1030/2020, de 30 de octubre (`BOE-A-2020-13663`); Carta ética mundial para periodistas de la FIP (Túnez, 12-VI-2019), arts. 3, 5 y 14; Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021); Barot, T., «Verifying Images», *Verification Handbook*, European Journalism Centre. Lo demás, oficio |
-| **Redacción que se estudia** | La vigente el 24/09/2026. El Libro de Estilo es el de 2004, único publicado |
+| **Redacción que se estudia** | La vigente el 24/09/2026. El Libro de Estilo es el de 2004, único publicado que se ha localizado |
 | **Extensión** | 4.400 palabras aproximadamente |
 
 <!-- /portada -->
@@ -18,7 +18,7 @@ que usa el propio Libro de Estilo); Federación Internacional de Periodistas (**
 Constitucional (**TC**); Sentencia del Tribunal Constitucional (**STC**); fundamento jurídico
 (**FJ**); Ley 13/2022, General de Comunicación Audiovisual (**LGCA**); Diario Oficial de la Unión
 Europea (**DO**); formato de metadatos de imagen *Exchangeable Image File Format* (**EXIF**);
-Sistema de Posicionamiento Global (**GPS**); organizaciones no gubernamentales (**ONG**). En «Orden PCM/1030/2020», **PCM** es el prefijo del ministerio que la firma, parte de su número oficial. «El Libro de Estilo» es el de Canal Sur Televisión de
+organizaciones no gubernamentales (**ONG**). En «Orden PCM/1030/2020», PCM es el prefijo de su número oficial; la firma la Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática. «El Libro de Estilo» es el de Canal Sur Televisión de
 2004; «la carta», la Carta ética mundial de la FIP; «el manual de verificación», el *Verification
 Handbook* del European Journalism Centre.
 
@@ -81,7 +81,7 @@ oficial de desinformación y sus cuatro niveles de actuación; qué exige la ver
 
 El Libro de Estilo de Canal Sur dedica su apartado 4.3 («Las fuentes», pp. 68-75) a casi todo el
 enunciado: tipos de fuente, jerarquía, contraste, atribución, anonimato, rumor, fuentes sin aval y
-fuentes dudosas. Es de 2004 y está escrito para televisión, pero es el único publicado por la RTVA.
+fuentes dudosas. Es de 2004 y está escrito para televisión, pero es el único publicado por la RTVA que se ha localizado.
 Lo que no trae —fuentes judiciales, científicas y digitales como categorías, verificación de
 imágenes y desinformación— se completa con la carta de la FIP, la definición oficial de
 desinformación, un manual de verificación de referencia y la doctrina del TC sobre la veracidad.
@@ -114,12 +114,12 @@ elevada**», sin «**dejarse deslumbrar por un currículo lucido**». Y el orden
 
 ### Los tipos del enunciado
 
-- **Oficiales e institucionales.** El Libro de Estilo no las define por separado; las trata como
+- Oficiales e institucionales. El Libro de Estilo no las define por separado; las trata como
   fuente pública: «**La buena noticia necesita una buena fuente, pública o privada. Aquella suele
   ser más fiable, pero las versiones privadas mejoran y enriquecen la información, salvo que
   incurran en la tentación de manipular al periodista y orientarlo hacia una visión sesgada.**»
   (4.3.2). Para un dato, la oficial es la referencia de contraste (epígrafe 2).
-- **Sociales.** Son las versiones privadas —ciudadanos, colectivos, organizaciones— y las fuentes
+- Sociales. Son las versiones privadas —ciudadanos, colectivos, organizaciones— y las fuentes
   propias del redactor, que el Libro de Estilo considera «**vital para alejarnos del periodismo de
   convocatorias y gacetillas, y acercarnos así a las noticias de verdad, las que están en la calle y
   surgen de ella**» (4.3.3). Pide que cada redactor y cada sección cuiden sus contactos con
@@ -127,12 +127,12 @@ elevada**», sin «**dejarse deslumbrar por un currículo lucido**». Y el orden
   distinguir «**entre un dato riguroso y una evaluación subjetiva**», para no caer en la
   «**‘preeminencia indebida’, dar valor primordial a algo que sólo tiene una importancia secundaria
   y relativa, incluso despreciable**».
-- **Documentales.** Son el «tercer supuesto» citado: documentación pública o privada analizada por
+- Documentales. Son el «tercer supuesto» citado: documentación pública o privada analizada por
   el periodista. La carta de la FIP prohíbe falsificarla (art. 3, en el epígrafe 2).
-- **Judiciales y científicas.** Ni el Libro de Estilo ni las demás fuentes de este tema las
+- Judiciales y científicas. Ni el Libro de Estilo ni las demás fuentes de este tema las
   desarrollan como categoría. El tratamiento de la información de tribunales está en el tema 11.
-- **Digitales.** Tampoco las define el Libro de Estilo. La carta de la FIP de 2019 añade a la
-  declaración de 1954 una cautela sobre ellas: el periodista «**será
+- Digitales. Tampoco las define el Libro de Estilo. La carta de la FIP de 2019 trae una
+  cautela sobre ellas: el periodista «**será
   cuidadoso en el uso de los comentarios y documentos publicados en las redes sociales**» (art. 3).
   Cómo se verifica lo que llega por ellas está en el epígrafe 5.
 
@@ -156,13 +156,14 @@ los medios tienen acceso.
 
 Tres reglas del mismo apartado:
 
-- **Dato**: «**es necesario contrastarlo en fuentes oficiales o, al menos, citar con toda precisión
+- Dato: «**es necesario contrastarlo en fuentes oficiales o, al menos, citar con toda precisión
   su origen.**»
-- **Opinión inverosímil**: el periodista «**está obligado a mantenerse escéptico y a comprobarla lo
+- Opinión inverosímil: el periodista «**está obligado a mantenerse escéptico y a comprobarla lo
   más cerca posible de la propia fuente**».
-- **Versiones contradictorias**: si ambas faltan a la verdad o la manipulan, hay que establecer una
-  jerarquía «**e incluso para manifestar las contradicciones en la información**»; y si la
-  comprobación no permite aceptar ni descartar ninguna, hay que, al menos, «**no estructurar el
+- Versiones contradictorias: si ambas faltan a la verdad o la manipulan, el periodista usa su
+  sentido común y su experiencia para establecer una jerarquía «**e incluso para manifestar las
+  contradicciones en la información**»; y si la comprobación no permite aceptar o descartar por
+  completo una de ellas, hay que, al menos, «**no estructurar el
   núcleo de la noticia en torno a una de las versiones en detrimento de la otra.**»
 
 Cuando la información afecta a la honorabilidad o la intimidad de alguien, el contraste incluye al
@@ -217,7 +218,7 @@ Post*, esbozó en sus memorias para descartar noticias de dudosa fiabilidad:
 ### Decir de dónde viene
 
 «**En la medida de lo posible, una fuente debe ser identificada por completo**» (4.3). Si el origen
-es un comunicado o una agencia, «**también debe indicarse fehacientemente**»; si es otro medio
+es un comunicado o una agencia, «**también debe indicarse fehacientemente**» (4.3); si es otro medio
 ajeno a la RTVA, «**será citado en los términos precisos, como cualquier fuente**» (4.3.5).
 «Fuentes», en plural, sólo cuando coinciden varias personas consultadas; si es una, «fuente».
 
@@ -242,16 +243,16 @@ También se rechazan (4.3.4):
 
 ### Anonimato y confidencialidad
 
-- **Preservar la identidad** es lícito «**por seguridad personal u otras causas**», sin tergiversar
+- Preservar la identidad es lícito «**por seguridad personal u otras causas**», sin tergiversar
   la realidad: «**un hombre no será presentado como mujer, o un anciano como un adolescente**». Si se
   usan datos ficticios, «**debemos hacerlo constar al comienzo de la información**», y la emisión
   con ese condicionante «**requiere la autorización de la Dirección de los Servicios
   Informativos**» (4.3.1).
-- **Dentro de la casa**: el editor debe conocer el origen de las informaciones del redactor, y está
-  obligado a guardar secreto; los periodistas de CSTV y Canal 2 Andalucía «**deben compartir la
+- Dentro de la casa: el editor debe conocer el origen de las informaciones del redactor, y está
+  obligado a guardar secreto si se trata de fuentes que merezcan su ocultación; los periodistas de CSTV y Canal 2 Andalucía «**deben compartir la
   identidad de una fuente informativa con los distintos niveles de dirección, sin excepciones**»,
   sobre todo si da origen a una información delicada o polémica (4.3.5).
-- **Off the record** (4.3.6): no debe usarse en la construcción de una noticia, ni como
+- *Off the record* (4.3.6): no debe usarse en la construcción de una noticia, ni como
   referencia, salvo que el informante lo autorice sin ser citado. El Libro de Estilo asume la
   posición intermedia de *El País* —publicar si la noticia se obtiene «honestamente por otros
   medios»— «**con la precisión de que la fuente inicial no puede ser referida, ni siquiera de manera
@@ -267,16 +268,16 @@ El secreto profesional como derecho está en el tema 1.
 Ninguna de las fuentes de este tema dedica un apartado propio a la contextualización; aparece como
 parte de la veracidad:
 
-- **Omitir también es faltar a la verdad**: el periodista «**no suprimirá informaciones
+- Omitir también es faltar a la verdad: el periodista «**no suprimirá informaciones
   esenciales**» (carta de la FIP, art. 3).
-- **El material de archivo se identifica**: en rotulación «**debe hacerse constar claramente que es
+- El material de archivo se identifica: en rotulación «**debe hacerse constar claramente que es
   material de ‘Archivo’ durante todo el tiempo en que la imagen permanezca en pantalla, al menos con
   suficiente margen como para ser leído sin apremio por el espectador.**» (Libro de Estilo, 9.9.1).
   La regla está en el capítulo de imágenes delicadas —delincuencia, malos tratos, asuntos
   judiciales—, pero el motivo vale para toda imagen reutilizada: que no se tome por actual.
-- **Una imagen verdadera puede mentir por el contexto**: el manual de verificación lo advierte
+- Una imagen verdadera puede mentir por el contexto: el manual de verificación lo advierte
   expresamente (epígrafe 5, principio 3).
-- **El método forma parte del contexto**: el espectador tiene derecho a saber cómo se ha obtenido
+- El método forma parte del contexto: el espectador tiene derecho a saber cómo se ha obtenido
   la noticia (4.3), y las cifras propias se dan diciendo que lo son y cómo se han calculado
   (4.3.2.1).
 
@@ -284,32 +285,37 @@ parte de la veracidad:
 
 ### La referencia
 
-El Libro de Estilo de 2004 no trata la verificación de imágenes ajenas. La referencia profesional
-más citada es el capítulo «Verifying Images», de Trushar Barot (del equipo de contenidos generados
+El Libro de Estilo de 2004 no trata la verificación de imágenes ajenas. Una referencia profesional
+publicada es el capítulo «Verifying Images», de Trushar Barot (del equipo de contenidos generados
 por usuarios de la BBC, según el propio capítulo), en el *Verification Handbook* del European
-Journalism Centre, editado por Craig Silverman. Es un manual de oficio, no una norma. Parte de que
+Journalism Centre. Es un manual de oficio, no una norma. Parte de que
 las herramientas cambian, pero «**the basic principles of image verification remain the same**»
 (los principios básicos se mantienen), y los enumera en cuatro.
 
 ### Los cuatro principios
 
-1. **Establecer quién es el autor u originador de la imagen** («**Establish the author/originator
+1. Establecer quién es el autor u originador de la imagen («**Establish the author/originator
    of the image.**»). Contactar con quien la subió y averiguar su identidad. La búsqueda inversa de
    imágenes ayuda a encontrar el original: la copia de mayor resolución suele llevar a él.
-2. **Corroborar lugar, fecha y hora aproximada de la toma** («**Corroborate the location, date and
+2. Corroborar lugar, fecha y hora aproximada de la toma («**Corroborate the location, date and
    approximate time the image was taken.**»). Al autor se le hacen cinco preguntas: quién es, dónde
    está, cuándo llegó, qué puede ver (y qué muestra su foto) y por qué está allí. Se miran los
-   metadatos EXIF —cámara, fecha y, a veces, coordenadas GPS— y las pistas de la propia imagen:
+   metadatos EXIF —marca y modelo de la cámara, fecha y hora (con cautela: pueden seguir con el
+   ajuste de fábrica o en otro huso horario) y dimensiones—, sabiendo que la mayoría de las redes
+   sociales los borran al subir la imagen; y las pistas de la propia imagen:
    matrículas, meteorología (contrastable con los servicios del tiempo), edificios, ropa, rótulos,
    terreno; y se comparan con mapas.
-3. **Confirmar que la imagen muestra lo que se dice que muestra** («**Confirm the image is what it
+3. Confirmar que la imagen muestra lo que se dice que muestra («**Confirm the image is what it
    is labeled/suggested to be showing.**»). «**An authentic image can still be placed in a false
    context**»: una imagen auténtica puede presentarse en un contexto falso. El ejemplo del capítulo
    es una foto difundida como del huracán Sandy que se había tomado un mes antes.
-4. **Obtener permiso del autor para usarla** («**Obtain permission from the author/originator to use
+4. Obtener permiso del autor para usarla («**Obtain permission from the author/originator to use
    the image.**»).
 
-El cuarto no es verificación, sino derecho: que una imagen sea auténtica no autoriza a emitirla. Los
+Y la regla de cierre del capítulo: si después de todas las comprobaciones sigue habiendo dudas, la
+imagen no se usa («**don’t use the image!**»).
+
+El cuarto no es verificación, sino derecho de autor: que una imagen sea auténtica no autoriza a emitirla. Los
 límites por la imagen de las personas están en los temas 1 y 16.
 
 ### Cuando lo que se emite es el desmentido
@@ -347,19 +353,19 @@ Ese perjuicio incluye «**las amenazas a los procesos democráticos y a bienes p
 salud, el medio ambiente o la seguridad**». Tres elementos: falsedad o engaño verificable, intención
 (lucro o engaño deliberado) y perjuicio público posible. Un error de buena fe no reúne el segundo.
 
-El procedimiento tiene **cuatro niveles** de activación: 1, técnico (detección, alerta temprana y
+El procedimiento tiene cuatro niveles de activación: 1, técnico (detección, alerta temprana y
 notificación); 2, coordinación; 3, decisiones de carácter político-estratégico; y 4, gestión
 política en el marco del sistema de seguridad nacional. A los medios los sitúa en el sector privado
-y la sociedad civil: «**Se podrá solicitar la colaboración del sector privado: medios de
-comunicación, plataformas digitales, asociaciones, las ONG y aquellas personas en su condición de
+y la sociedad civil, y en los niveles 1 y 2 prevé (anexo I): «**Se podrá solicitar la colaboración
+del sector privado: medios de comunicación, plataformas digitales, asociaciones, las ONG y aquellas personas en su condición de
 expertos cuya contribución se considere relevante.**»
 
 ### El remedio: más periodismo, no menos
 
 La Resolución del Parlamento Europeo, de 25 de noviembre de 2020, sobre el refuerzo de la libertad
 de los medios de comunicación (publicada en el DO C 425 de 20.10.2021), no es una norma sino la
-posición política de la Cámara. Describe la desinformación como amenaza «**para la libertad de
-información, la libertad de expresión, el discurso democrático, la independencia de los medios de
+posición política de la Cámara. En su apartado 34 reitera su preocupación por «**la amenaza
+potencial que supone la desinformación para la libertad de información, la libertad de expresión, el discurso democrático, la independencia de los medios de
 comunicación y la salud pública**», y propone combatirla sumando, no borrando:
 
 > «**destaca que las medidas para combatir la desinformación deben centrarse en fomentar una
@@ -369,7 +375,8 @@ comunicación y la salud pública**», y propone combatirla sumando, no borrando
 > libertad de expresión**»
 
 Periodismo de calidad y alfabetización mediática: las dos vías son de fomento, no de prohibición. Y
-pone un límite a las plataformas: la eliminación de contenidos ilícitos es necesaria, pero «**las
+en el apartado 35 pone un límite a las plataformas: destaca la importancia de eliminar rápidamente
+los contenidos ilícitos, pero «**las
 plataformas en línea no pueden ni deben convertirse en órganos de censura privados**». Las
 obligaciones de las plataformas en el Reglamento de Servicios Digitales están en el tema 14.
 
@@ -412,11 +419,11 @@ Constitución. Su fundamento jurídico 5:
 
 Lo que se desprende:
 
-- **Veracidad no es exactitud total**: se protege «**la información rectamente obtenida y
+- Veracidad no es exactitud total: se protege «**la información rectamente obtenida y
   difundida, aun cuando su total exactitud sea controvertible**».
-- **Es un deber de diligencia**: lo transmitido como hechos debe haber sido «**objeto de previo
+- Es un deber de diligencia: lo transmitido como hechos debe haber sido «**objeto de previo
   contraste con datos objetivos**».
-- **Pierde la protección** quien actúa «**con menosprecio de la veracidad o falsedad de lo
+- Pierde la protección quien actúa «**con menosprecio de la veracidad o falsedad de lo
   comunicado**» y quien comunica como hechos «**simples rumores**» o «**meras invenciones o
   insinuaciones insidiosas**».
 
@@ -445,7 +452,7 @@ Las reglas de los epígrafes anteriores son la forma práctica de esa diligencia
 | Orden PCM/1030/2020, de 30 de octubre (Procedimiento de actuación contra la desinformación) | Definición y niveles |
 | Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía (2004) | 4.3 a 4.3.7; 9.9.1 |
 | Carta ética mundial para periodistas de la FIP (2019) | Arts. 3, 5, 6 y 14 |
-| Resolución del Parlamento Europeo de 25-XI-2020 (no normativa) | Apartados sobre desinformación y plataformas |
+| Resolución del Parlamento Europeo de 25-XI-2020 (no normativa) | Apartados 34 y 35 |
 
 ## Lo que este tema no da, y dónde está
 
@@ -469,15 +476,16 @@ Todas las fuentes, leídas el 24/09/2026.
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, art. 9.1, en su redacción
   original, vigente.
 - STC 6/1988, de 21 de enero (Sala Primera; BOE núm. 31, de 5-2-1988), en el buscador de
-  jurisprudencia del Tribunal Constitucional (resolución 947). El pasaje se cita como FJ 5 según el
-  extracto de doctrina de ese buscador.
+  jurisprudencia del Tribunal Constitucional (resolución 947): texto completo, fundamento jurídico 5.
 - Orden PCM/1030/2020, de 30 de octubre, `BOE-A-2020-13663`: definición de desinformación (tomada
   de COM (2018) 236), niveles 1 a 4 y colaboración del sector privado.
 - Carta ética mundial para periodistas de la FIP, 30.º Congreso Mundial, Túnez, 12 de junio de 2019,
   texto en español publicado por la FIP: arts. 3, 5, 6 y 14.
 - Resolución del Parlamento Europeo, de 25 de noviembre de 2020 (2020/2009(INI)), P9_TA(2020)0320,
-  DO C 425 de 20.10.2021, p. 28: apartados de «Desinformación y papel de las plataformas».
-- Barot, T., «Verifying Images», cap. 4 del *Verification Handbook* (European Journalism Centre, ed.
-  Craig Silverman), en datajournalism.com. Texto en inglés: las citas van en su lengua original y
+  DO C 425 de 20.10.2021, p. 28 (título completo: «sobre el refuerzo de la libertad de los medios de
+  comunicación: protección de los periodistas en Europa, discurso del odio, desinformación y papel de
+  las plataformas»): apartados 34 y 35, bajo «Desinformación y papel de las plataformas».
+- Barot, T., «Verifying Images», cap. 4 del *Verification Handbook* (European Journalism Centre),
+  en datajournalism.com. Texto en inglés: las citas van en su lengua original y
   su traducción, en redonda.
 - Oficio sin norma: el tratamiento del material falso en las piezas de desmentido (epígrafe 5).

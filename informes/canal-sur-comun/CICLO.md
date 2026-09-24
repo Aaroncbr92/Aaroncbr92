@@ -137,3 +137,10 @@ Un remate hecho con modelo barato que **amplió** el tema metió dos errores (li
 artículos del 83.4.a RGPD y la salvedad del 79.2), y sólo los cazó una comprobación
 independiente con el modelo fuerte. Regla: **si el remate amplía el tema, lo revisa un
 agente distinto con el modelo fuerte**, limitado a los pasajes cambiados.
+
+## Herramienta: `herramientas/documento.py` (24-09-2026)
+
+Para PDF y documentos que no son volcados del BOE: `texto` (PDF → `.txt` limpio), `indice`
+(rótulos con su línea) y `seccion <fichero> <rótulo>` (sólo ese artículo, disposición o anexo;
+si el sumario repite el rótulo, se queda con el cuerpo). Medido: el art. 33 del X Convenio son
+3.217 palabras frente a 49.426 del convenio entero.

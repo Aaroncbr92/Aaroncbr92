@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley Orgánica 1/2004; Ley 13/2007 y Ley 12/2007 de Andalucía; Ley Orgánica 1/1996; Ley 13/2022, General de Comunicación Audiovisual; Libro de estilo de Canal Sur Televisión (capítulo 9, «Asuntos comprometidos»); Guía de Igualdad de RTVE (2020) como pauta de oficio |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004; Guía de RTVE, 2020 |
-| Extensión | 5.638 palabras |
+| Extensión | 6.030 palabras |
 
 <!-- /portada -->
 
@@ -67,8 +67,9 @@ inmigración, salud mental o terrorismo; cuánto dura el rótulo «Archivo» o �
 Las normas marcan los límites; el Libro de estilo de Canal Sur, la pauta de redacción. El Libro es de
 2004, de televisión, y se define como **«un conjunto de recomendaciones periodísticas y una selección
 de métodos de trabajo»**; su capítulo 9 se aplica a las materias del enunciado. Donde se cita, se dice
-«según el Libro de estilo de 2004». Donde el Libro no llega (violencia contra las mujeres, fuentes), se
-añaden las pautas de la Guía de Igualdad de RTVE, que no obligan a la RTVA y van como oficio.
+«según el Libro de estilo de 2004». En violencia contra las mujeres se añaden, para completarlo
+(agresor, violencia sexual, fuentes), las pautas de la Guía de Igualdad de RTVE, que no
+obligan a la RTVA y van como oficio.
 
 ## 1. Lo común a todas las materias sensibles
 
@@ -86,8 +87,9 @@ La LGCA fija para toda comunicación audiovisual:
 - **«La comunicación audiovisual respetará el honor, la intimidad y la propia imagen de las personas
   y garantizará los derechos de rectificación y réplica»**, en los términos de la LO 1/1982, la
   LO 2/1984 y la LO 3/2018 (art. 4.3).
-- Los informativos, **«de acuerdo con el derecho de los ciudadanos a recibir información veraz y el
-  deber de diligencia profesional en la comprobación de los hechos»** (art. 9.1).
+- Los noticiarios y los programas de contenido informativo de actualidad se elaborarán **«de acuerdo
+  con el derecho de los ciudadanos a recibir información veraz y el deber de diligencia profesional
+  en la comprobación de los hechos»** (art. 9.1).
 
 ### El criterio del Libro de estilo
 
@@ -117,7 +119,7 @@ Informativos:
 | 9.1.7 | Conclusiones prematuras | Sin sentencia firme, no; **«el periodista cuenta una historia, no dicta sentencias»** |
 | 9.1.8 | Identidades | Preservar la identidad completa de la víctima si lo pide |
 | 9.1.9 | Seguimiento | De los casos de mayor impacto |
-| 9.1.10 | Testimonios | Cuidado con vecinos y supuestos testigos; si es posible, prescindir |
+| 9.1.10 | Testimonios | Cuidado con vecinos, familiares y supuestos testigos; si es posible, prescindir |
 | 9.1.11 | Juicios paralelos | Evitarlos en debates y espacios de opinión |
 | 9.1.12 | Rectificación | **«con la máxima celeridad, sin necesidad de que medie solicitud externa»** |
 
@@ -132,7 +134,8 @@ sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ell
 similares de afectividad, aun sin convivencia»** (art. 1.1). Comprende **«todo acto de violencia
 física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o
 la privación arbitraria de libertad»** (art. 1.3) y la que, para dañar a las mujeres, se ejerce sobre
-sus familiares o allegados menores (art. 1.4).
+sus familiares o allegados menores (art. 1.4, añadido por la LO 8/2021, de 4 de junio, con vigencia
+desde el 25-06-2021).
 
 El precepto que toca al redactor es el **artículo 14** (una sola redacción, desde el 28-01-2005):
 
@@ -167,7 +170,7 @@ promuevan.»**
 
 Lo que dirige a los medios (capítulo sobre publicidad y medios):
 
-- **Art. 17.1** (redacción de 2018): los organismos de la Junta **«prohibirán que los medios de
+- **Art. 17.1** (redacción de la Ley 7/2018, como el 17.2 y el 17.3): los organismos de la Junta **«prohibirán que los medios de
   comunicación social cuya actividad esté sometida al ámbito competencial de la Comunidad Autónoma
   difundan contenidos o emitan espacios o publicidad sexistas, discriminatorios, vejatorios,
   estereotipados o que justifiquen, banalicen o inciten a la violencia de género, de forma directa o
@@ -176,19 +179,22 @@ Lo que dirige a los medios (capítulo sobre publicidad y medios):
   Autónoma de Andalucía»**: **«colaborarán e impulsarán acciones de publicidad específicas para la
   prevención y erradicación de la violencia de género»** y **«realizarán de forma continuada, además
   de las que se efectúen en fechas conmemorativas, campañas contra la violencia de género»**. Fechas
-  que cita: **6 de febrero** (Tolerancia Cero con la Mutilación Genital Femenina), **23 de
+  que cita, **«entre otras»**: **6 de febrero** (Tolerancia Cero con la Mutilación Genital Femenina), **23 de
   septiembre** (contra la Explotación Sexual y la Trata de Personas) y **25 de noviembre**
   (Eliminación de la Violencia contra la Mujer).
-- Art. 17.3: el Gobierno andaluz **«deberá velar»** por que no reincidan, **«especialmente aquellos
+- Art. 17.3: el Gobierno andaluz **«deberá velar»** por que las empresas y medios sometidos a su
+  competencia no reincidan en lo prohibido por el 17.1, **«especialmente aquellos
   medios públicos o privados que sean financiados total o parcialmente con cargo a los presupuestos
   de la Junta de Andalucía.»**
-- Art. 18: el Consejo Audiovisual de Andalucía adoptará medidas para que los medios **«traten y
-  reflejen la violencia de género en toda su complejidad.»**
+- Art. 18: el Consejo Audiovisual de Andalucía adoptará las medidas que procedan para que los medios
+  audiovisuales sobre los que ejerce sus funciones **«traten y reflejen la violencia de género en toda
+  su complejidad.»**
 - **Art. 19**, a todos los medios de Andalucía: a) **«Promoverán la elaboración de mecanismos de
   autorregulación que garanticen la adecuada difusión de las informaciones relativas a la violencia
   de género, de acuerdo con los principios de la ética periodística.»** b) Difundirán información
-  sobre la protección a las mujeres, los recursos y las campañas. c) Emitirán los programas de
-  sensibilización **«en un horario variado que pueda ser visto por toda la población.»**
+  sobre la protección a las mujeres, los recursos y las campañas. c) **«Velarán para que los programas
+  de sensibilización y formación en esta materia se emitan en un horario variado que pueda ser visto
+  por toda la población.»**
 
 ### La normativa andaluza de igualdad: Ley 12/2007, artículos 57 y 58
 
@@ -282,7 +288,7 @@ desigualdad de las mujeres o que inciten a la violencia sexual o de género.»**
 El Libro toma como referencia el estudio «Mujer, violencia y medios de comunicación» (IORTV 2002) y
 el manual «Cómo tratar bien a los malos tratos» del Instituto Andaluz de la Mujer y la RTVA.
 
-- **Visibilidad** (9.2.1): más mujeres en los informativos por su función o como expertas.
+- **El peso de la imagen** (9.2.1): más mujeres en los informativos por su función o como expertas.
 - **Urgencia y matices** (9.2.2 y 9.2.3): que la inmediatez no impida contrastar; evitar la rutina que
   hace que **«todos los casos parezcan iguales»**.
 - **Lugares comunes** (9.2.4): **«Relacionar el maltrato con marginalidad, aunque sea
@@ -292,7 +298,7 @@ el manual «Cómo tratar bien a los malos tratos» del Instituto Andaluz de la M
   principio del vídeo.»**
 - **Fuentes** (9.2.8): las oficiales son válidas, pero el periodista busca detalles cercanos y se
   mantiene escéptico ante testimonios justificativos («riña conyugal») o el estereotipo del agresor
-  **«educado y un vecino excepcional»**.
+  **«una persona educada y un vecino excepcional»**.
 - **Efecto narcotizante** (9.2.11.2): nada de **«un nuevo caso de...»**, **«otra mujer agredida
   por...»**; el trabajo gira sobre lo particular de cada historia.
 - **Servicio público** (9.2.11.6): dirigirse a las mujeres que no saben salir de su situación, con
@@ -310,16 +316,17 @@ el manual «Cómo tratar bien a los malos tratos» del Instituto Andaluz de la M
   inevitable, **«es obligatorio que, durante todo el tiempo de aparición de las imágenes en pantalla,
   figure el rótulo ‘Reconstrucción’.»**
 
-**El término.** El Libro de 2004 (9.2.5.2) recomendaba no usar «violencia de género», por
-considerarlo calco del inglés. Es una preferencia de 2004: «violencia de género» es hoy la expresión
-de la LO 1/2004, de la Ley 13/2007 andaluza, de la Ley 12/2007 y de la LGCA.
+**El término.** El Libro de 2004 (9.2.5.2) recomienda que **«el término ‘violencia de género’ no debe
+usarse porque es inadecuado»**: lo tiene por calco del inglés *gender violence* y de significado
+inconcreto. Es el criterio del Libro; «violencia de género» es la expresión de la LO 1/2004, de la
+Ley 13/2007 andaluza, de la Ley 12/2007 y de la LGCA.
 
 ### Pautas de oficio de la Guía de Igualdad de RTVE (2020)
 
 No obligan a la RTVA; se recogen porque completan al Libro de estilo.
 
-**El principio rector**: **no es un «suceso» ni un «crimen pasional»; es un delito y un grave
-problema social**, y **no es un asunto privado ni doméstico**.
+**El principio rector**: la violencia contra las mujeres **«Es un delito. No es un mero asunto privado
+ni doméstico. Es un grave problema social.»** Y **«No es un “suceso” ni un “crimen pasional”»**.
 
 - **Situar la noticia correctamente en el minutado**, evitando que quede junto a sucesos o
   accidentes.
@@ -327,42 +334,44 @@ problema social**, y **no es un asunto privado ni doméstico**.
   **actuaciones judiciales y policiales deficientes**, las **sentencias condenatorias** y las
   **víctimas que han logrado rehacer su vida**.
 - **Incluir opiniones de personas expertas.**
-- **Contrastar datos y versiones, contextualizar, y no hacer juicios de valor ni informar con
-  precipitación.**
-- **Animar al recurso a los canales de ayuda, pero sin instar directamente a la denuncia.**
+- Investigación rigurosa: **contrastar los datos y las diferentes versiones**, contextualizar, y **no
+  deben hacerse juicios de valor ni informar con precipitación**.
+- Animar a la obtención de información y **al recurso a los canales de ayuda**, **pero sin instar
+  directamente a la denuncia**.
 - **Evitar detalles escabrosos** —«el número de puñaladas o de golpes»— y las imágenes
   morbosas.
-- **Hacer seguimiento del caso**: informar de la actuación de la justicia y de la condena.
+- **Seguimiento del caso**: informar de la actuación de la justicia y de la condena.
 - **Evitar el efecto narcotizante**: nada de «un caso más» o «un nuevo caso de»; buscar
   enfoques novedosos y **remarcar los elementos que podrían haberlo evitado**.
-- **Incluir el teléfono 016.**
+- Incluir en la información el **teléfono gratuito** 016 y el correo habilitado para denunciar.
 
-**Si la víctima es un hombre**: **no se considera violencia de género** y el delito **no se
-enmarca en la LO 1/2004**, sino en los tipos penales generales.
+**Si la víctima es un hombre**: **no se considera violencia de género** y el delito no se enmarca en
+la LO 1/2004, sino en los tipos del Código Penal.
 
-**El agresor**: debe quedar claro **quién es el agresor y quién la víctima**; **respetar la
-presunción de inocencia** hasta que haya sentencia, momento en el que **se identifica al
-agresor y se destaca la condena**. **Con carácter general no se ofrecerán declaraciones de
+**El agresor**: debe quedar claro **quién es el agresor y quién la víctima**; **debe respetarse
+siempre la presunción de inocencia**; cuando ya exista sentencia, **se identificará al agresor y se
+destacará la sentencia y condena**. **Con carácter general no se ofrecerán declaraciones de
 agresores sexuales o maltratadores**, salvo en **reportaje en profundidad** analizado por
 personas expertas.
 
-**Violencia sexual**: **contextualizar** —no es una práctica individual sino un **problema
-sistémico y estructural**—, narrar sin dramatismo, **evitar los estereotipos sexistas de víctimas
-y agresores**, **no cuestionar la credibilidad de la víctima** ni incluir referencias a alcohol,
-drogas, promiscuidad, vestimenta o descripciones físicas.
+**Violencia sexual**: contextualizar —**no se trata de una práctica individual sino un problema
+sistémico de desigualdad de género y estructural**—, narrar sin dramatismo, **evitar los
+estereotipos sexistas de víctimas y agresores**, **evitar cuestionar la credibilidad de la víctima**
+y no incluir referencias a alcohol, drogas, promiscuidad, vestimenta o descripciones físicas.
 
 | **Fuentes que sí aportan** | **Fuentes dudosas** |
 | --- | --- |
 | **Fuentes policiales y de la investigación**, «esenciales» | **Informaciones sobre desavenencias conyugales**, que inducen a ver el maltrato como consecuencia lógica de un deterioro |
 | **Personas expertas y asociaciones de mujeres especializadas** | **Subrayar las buenas relaciones de la pareja**, que avala la hipótesis del «arrebato pasional» |
 | **Documentos del caso**: antecedentes, órdenes de alejamiento, denuncias, asistencia recibida, incumplimientos | **Testimonios de personas cercanas** al agresor o a la víctima, que sugieren hipótesis personales o son parte interesada |
-| **Documentos generales y solventes**: sentencias, datos de organismos especializados, campañas | **Quienes solo buscan notoriedad** o aportan **detalles morbosos**; **rumores y especulaciones** |
+| **Documentos generales y solventes**: sentencias, datos de organismos especializados, campañas | Personas que **solo buscan notoriedad** o aportan **detalles morbosos**; **los rumores y las especulaciones** |
 
-**Ni la pasión, ni los celos, ni los problemas con alcohol o drogas pueden ser justificación**.
+**ni la pasión, ni los celos, ni problemas con alcohol o drogas pueden ser justificación**.
 
 ## 3. Menores
 
-**La ley.** LO 1/1996, de Protección Jurídica del Menor, artículo 4 (una sola redacción):
+**La ley.** LO 1/1996, de 15 de enero, de Protección Jurídica del Menor, artículo 4 (una sola
+redacción, desde 1996):
 
 - La difusión de información o imágenes o nombre de menores que pueda implicar intromisión ilegítima
   o sea contraria a sus intereses **«determinará la intervención del Ministerio Fiscal, que instará de
@@ -372,8 +381,9 @@ drogas, promiscuidad, vestimenta o descripciones físicas.
   a la propia imagen del menor, cualquier utilización de su imagen o su nombre en los medios de
   comunicación que pueda implicar menoscabo de su honra o reputación, o que sea contraria a sus
   intereses incluso si consta el consentimiento del menor o de sus representantes legales.»** (4.3).
-  La salvedad es la pregunta: **el consentimiento no salva**.
-- El Ministerio Fiscal puede actuar **«de oficio o a instancia del propio menor o de cualquier persona
+  La salvedad es la pregunta: el consentimiento no salva.
+- El ejercicio de las acciones **«corresponde en todo caso al Ministerio Fiscal»**, sin perjuicio de las
+  de los representantes legales, y puede actuar **«de oficio o a instancia del propio menor o de cualquier persona
   interesada, física, jurídica o entidad pública»** (4.4).
 
 LGCA:
@@ -396,7 +406,7 @@ violencia de género **«como víctimas directas»**, preservando su protección
 **El Libro de estilo (9.4).** **«un menor no debe aparecer, ni ser nombrado o aludido si ello no
 afecta al buen sentido de la noticia. En caso contrario, omitiremos los detalles que puedan
 perjudicarle, se difuminarán u ocultarán sus rasgos y, como máximo, se dará el nombre de pila y la
-edad»** (9.4.2). Error común: ocultar al menor y no a sus padres o parientes. Si el menor es familiar
+edad pero se silenciarán las demás circunstancias.»** (9.4.2). Error común: ocultar al menor y no a sus padres o parientes. Si el menor es familiar
 de un delincuente o víctima de un delito, **«no será mencionado.»** No se entrevista a menores sobre
 actividades delictivas o que violen su privacidad; si se hace, **«es obligatoria la intervención sobre
 imagen y sonido para evitar su identificación.»** (9.4.2.1). Los periodistas de Canal Sur **«se
@@ -406,11 +416,17 @@ comprometen a denunciar»** cualquier violencia física, psíquica o sexual cont
 
 **«La comunicación audiovisual favorecerá una imagen ajustada, respetuosa, apreciativa, inclusiva y
 libre de estereotipos de las personas con discapacidad.»** (LGCA, art. 7.1); se promoverá que su
-presencia sea proporcional a su peso en la sociedad (7.2) y se garantiza la accesibilidad (7.3). La
+se promoverá la autorregulación para garantizar que su presencia sea proporcional **«al peso y a la
+participación de dichas personas en el conjunto de la sociedad»** (7.2), y se garantizará la
+accesibilidad universal (7.3). La
 LGCA prohíbe incitar al odio o a la discriminación por discapacidad (art. 4.2).
 
-El Libro de estilo de 2004 titula su epígrafe 9.7.3 «Minusválidos»: terminología superada. El término
-de las leyes vigentes es «personas con discapacidad».
+El Libro de estilo de 2004 titula su epígrafe 9.7.3 «Minusválidos»; el término de la LGCA es «personas
+con discapacidad», que el propio Libro también usa. Pautas del 9.7.3: no presentarlas como heroicas ni
+dignas de lástima, salvo circunstancias verdaderamente singulares; **«Las palabras peyorativas
+(subnormal, mongólico, tarado...) están absolutamente prohibidas en nuestros contenidos»**, aunque
+las pronuncie quien nos hace declaraciones; precisar la discapacidad cuando la noticia lo necesita no
+es una ofensa (9.7.3.1).
 
 ## 5. Salud
 
@@ -431,7 +447,8 @@ Valen las doce recomendaciones del 9.1 (epígrafe 1). Además:
 
 - **Desaparecidos** (9.8): **«Las llamadas de socorro o anuncios de personas adultas desaparecidas no
   se emitirán hasta el quinto día de ausencia, con la condición de que, previamente, se haya
-  presentado denuncia.»** Se comprueba antes la fuente y la constancia de las Fuerzas de Seguridad. En
+  presentado denuncia.»** Vale para mayores de edad con plena capacidad, en los que no se puede
+  descartar la ausencia voluntaria. Se comprueba antes la fuente y la constancia de las Fuerzas de Seguridad. En
   principio, en la desconexión territorial de la provincia. Salvedad: niños, ancianos, enfermedad o
   peligro manifiesto: **«bastará con la comprobación rigurosa del hecho para dar la información
   inmediata»**.
@@ -445,7 +462,8 @@ Libro de estilo, 9.5 «Información judicial y delitos»:
 - **Fórmulas no asertivas** (9.5.1): a detenidos, acusados o encausados **«deberán aplicárseles,
   obligatoriamente»** fórmulas que eviten el juicio paralelo: **«presunto, supuesto, —incluso otras
   como probable, posible o hipotético— sin incurrir en la desmesura»**, aunque haya confesión. Cita el
-  caso de Dolores Vázquez, condenada en primer juicio y finalmente exonerada.
+  caso de Dolores Vázquez, condenada en primer juicio y finalmente exonerada. Si el presunto autor
+  detenido o acusado **«es menor de 18 años sólo ofreceremos sus iniciales como identificación.»**
 - **Omisiones** (9.5.2): no nombre, domicilio, ocupación ni familiares del acusado o condenado
   **«salvo que la mención sea imprescindible para que la noticia sea completa»**. Las víctimas no se
   identifican, **«inexcusable con los menores, sobre todo en actos contra la libertad sexual, salvo que
@@ -467,7 +485,9 @@ Libro de estilo, 9.3 «Inmigración, racismo y xenofobia»:
 
 - **Léxico** (9.3.3.1): descartado «inmigrante ilegal»: **«una persona nunca es ilegal, si acaso lo
   serán su conducta o sus actos»**. Valen «indocumentado», «sin papeles», «irregular», pero es
-  preferible **«decir simplemente inmigrante, sin adjetivos»**.
+  preferible **«decir simplemente inmigrante, sin adjetivos»**; y aún **«Es más conveniente eludir
+  la palabra inmigrante»** y dar la nacionalidad o el origen cuando se conoce («argelino»,
+  «tunecino»; si no, «magrebí» o «norteafricano»).
 - **Prevenciones** (9.3.4.2): descartados **«avalancha u oleada»** y verbos como «soportar» o
   «sufrir»; mejor la cifra.
 - **Espacios informativos** (9.3.5.1): **«Eliminar la referencia al origen étnico de las personas
@@ -477,13 +497,15 @@ Libro de estilo, 9.3 «Inmigración, racismo y xenofobia»:
 
 El Libro de estilo no tiene epígrafe propio. Lo aplicable: los cámaras **«no asediarán con una
 cercanía desmesurada a las víctimas de delitos, accidentes de tráfico, hechos cruentos, catástrofes
-naturales o circunstancias dramáticas»** (9.9.1), y las pautas comunes del 9.1 (anonimato, sin
-detalles escabrosos, testimonios con cuidado).
+naturales o circunstancias dramáticas»** (9.9.1); el límite del 9.9, «Material objetable»:
+**«nunca ofreceremos planos cortos y nítidos del rostro de una persona muerta o que se encuentre
+gravemente herida, agonizante o presa de una tensión psicológica extrema»**; y las pautas comunes
+del 9.1 (anonimato, sin detalles escabrosos, testimonios con cuidado).
 
 ## 10. Terrorismo
 
-- La LGCA prohíbe la provocación pública a cometer un delito y, especialmente, **«de terrorismo»**
-  (art. 4.4).
+- La LGCA prohíbe la provocación pública a cometer cualquier delito y, especialmente, un **«delito
+  de terrorismo»**, de pornografía infantil o de incitación al odio (art. 4.4).
 - Libro de estilo, 9.6: **«estar al lado de las víctimas»**, y que quede **«muy clara la sinrazón
   absoluta de este delito»** (9.6.1.2); evitar el lenguaje **«falsamente técnico o que insinúe un
   enfrentamiento militar»**, porque el terrorista pretende que se le equipare con un combatiente
@@ -522,19 +544,19 @@ igualdad dirigen a los medios estos mandatos:
 | --- | --- |
 | Dignidad humana; no incitar al odio ni a la discriminación | LGCA, art. 4.1 y 4.2 |
 | Honor, intimidad, propia imagen; rectificación y réplica | LGCA, art. 4.3, que remite a la LO 1/1982, la LO 2/1984 y la LO 3/2018 |
-| No provocar a delinquir, en especial terrorismo o delitos de odio | LGCA, art. 4.4 |
+| No provocar a delinquir, en especial terrorismo, pornografía infantil o incitación al odio | LGCA, art. 4.4 |
 | Imagen igualitaria; no incitar a la violencia sexual o de género | LGCA, art. 6.1 |
 | Imagen de las personas con discapacidad | LGCA, art. 7.1 |
 | Veracidad y diligencia en la comprobación | LGCA, art. 9.1 |
-| Menores: prohibida su identificación como víctimas, en hechos delictivos o en litigios de tutela o filiación | LGCA, art. 95.2 |
+| Menores: prohibida su identificación en hechos delictivos, en emisiones sobre su tutela o filiación o como víctimas de violencia | LGCA, art. 95.2 |
 | Menores: el consentimiento no salva la intromisión | LO 1/1996, art. 4.3 |
 | Víctimas de violencia de género y sus hijos: dignidad, cuidado gráfico | LO 1/2004, art. 14 |
-| Medios andaluces: prohibidos los contenidos que justifiquen, banalicen o inciten a la violencia de género | Ley 13/2007, art. 17.1; Ley 12/2007, art. 58.1 |
+| Medios andaluces: la Junta prohíbe los contenidos que justifiquen, banalicen o inciten a la violencia de género (17.1); los medios evitarán difundirlos (58.1) | Ley 13/2007, art. 17.1; Ley 12/2007, art. 58.1 |
 
 ## Normativa que el tema invoca
 
 - Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de
-  Género: arts. 1, 13, 14 y 63.
+  Género: arts. 1 (apartado 4 añadido por la LO 8/2021), 13, 14 y 63.
 - Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la
   violencia de género (Andalucía), reformada por la Ley 7/2018: arts. 3.4.ñ), 17, 18 y 19.
 - Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía:
@@ -543,7 +565,8 @@ igualdad dirigen a los medios estos mandatos:
   y 27.
 - Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la
   garantía de los derechos de las personas LGTBI: art. 27.
-- Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor: art. 4.
+- Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del
+  Código Civil y de la Ley de Enjuiciamiento Civil: art. 4.
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: arts. 4, 6, 7, 9, 95 y 96.
 
 ## Lo que este tema no da, y dónde está
@@ -552,7 +575,7 @@ igualdad dirigen a los medios estos mandatos:
   posteriores al Libro de estilo de 2004: no localizados. Tampoco el manual «Cómo tratar bien a los
   malos tratos» (sólo lo cita el Libro).
 - Suicidio: el Libro de estilo sólo lo menciona de pasada, sin pauta propia; no hay fuente leída.
-- Emergencias y catástrofes: sin epígrafe propio en el Libro; sólo lo del 9.9.1.
+- Emergencias y catástrofes: sin epígrafe propio en el Libro; sólo lo del 9.9 y el 9.9.1.
 - Estatuto de la víctima del delito (Ley 4/2015) y LO 8/2021, de protección integral a la infancia:
   el enunciado no las cita y no se han leído.
 - Honor, intimidad e imagen (LO 1/1982) y rectificación (LO 2/1984): tema 1. Protección de datos e
@@ -565,10 +588,10 @@ igualdad dirigen a los medios estos mandatos:
 
 | Fuente | Qué sostiene | Leída |
 | --- | --- | --- |
-| LO 1/2004 (BOE-A-2004-21760, consolidado): arts. 1, 13, 14, 63 | Epígrafe 2 | 24-09-2026 |
+| LO 1/2004 (BOE-A-2004-21760, consolidado; art. 1 en sus tres redacciones; BOE-A-2021-9347 = LO 8/2021, según los metadatos del BOE): arts. 1, 13, 14, 63 | Epígrafe 2 | 24-09-2026 |
 | Ley 13/2007 de Andalucía (BOE-A-2008-2493, consolidado; redacción de la Ley 7/2018 en arts. 3 y 17): arts. 3.4.ñ), 17, 18, 19 | Epígrafe 2 | 24-09-2026 |
 | Ley 12/2007 de Andalucía, arts. 57 y 58; Ley 15/2022, arts. 22 y 27; Ley 4/2023, art. 27 | Epígrafes 2 y 11 (texto del tema 8 del común) | Según el tema 8 del común |
 | LO 1/1996 (BOE-A-1996-1069): art. 4 | Epígrafe 3 | 24-09-2026 |
 | LGCA (BOE-A-2022-11311): arts. 4, 6, 7, 9, 95, 96 | Epígrafes 1, 2, 3, 4, 10, 12 | 24-09-2026 |
-| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: cap. 9 (introducción, 9.1, 9.2, 9.3.3.1, 9.3.4.2, 9.3.5.1, 9.4.2, 9.5, 9.6, 9.7, 9.8, 9.9.1) | Pautas de redacción | 24-09-2026 |
-| Guía de Igualdad de RTVE (2020), «Tratamiento de la violencia contra las mujeres» | Pautas de oficio del epígrafe 2 | Tomada de un tema de RTVE; se relee en verificación |
+| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: cap. 9 (introducción, 9.1, 9.2, 9.3.3.1, 9.3.4.2, 9.3.5.1, 9.4.2, 9.5, 9.6, 9.7, 9.8, 9.9, 9.9.1) | Pautas de redacción | 24-09-2026 |
+| Guía de Igualdad de RTVE (2020), apartado 4.2, «Información sobre la violencia contra las mujeres» (A, C, «La víctima», «El agresor», «Violencia sexual», D «Las fuentes»); PDF publicado en rtve.es, sin cambios a esa fecha | Pautas de oficio del epígrafe 2 | 24-09-2026 |

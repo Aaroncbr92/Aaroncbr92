@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 18/2007; Carta del Servicio Público de la RTVA 2024-2029; Contrato-programa 2024-2026; Libro de estilo de Canal Sur Televisión (2004); Guía de Igualdad de RTVE (2020) como pauta de oficio |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., 2004; Guía de RTVE, 2020 |
-| Extensión | 10.510 palabras |
+| Extensión | 10.690 palabras |
 
 <!-- /portada -->
 
@@ -246,14 +246,14 @@ sanciones muy graves en los medios (83.1).
 
 ### Lo que se aplica a la RTVA y a sus medios
 
-Ninguna de las tres leyes del tema nombra a la RTVA ni a Canal Sur. Esta sección reúne lo que
+Ninguna de las leyes de igualdad de este epígrafe nombra a la RTVA ni a Canal Sur. Esta sección reúne lo que
 dicen las normas, con su destinatario literal, y no deduce encajes que ninguna norma haga. La
 Ley 18/2007 es, según su título, la de **«la radio y televisión de titularidad autonómica
 gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA)»**,
 y encomienda a la RTVA **«la función y misión de servicio público de radio y televisión»**
 (artículo 2.1).
 
-*Lo que dice la propia Ley 18/2007 (se estudia en el punto 5)*:
+*Lo que dice la propia Ley 18/2007 (se estudia en el tema 5 del común)*:
 
 - Entre los principios que inspiran la actividad de la RTVA y sus filiales: **«El respeto al
   pluralismo político, social, cultural y religioso, y el fomento de los valores de igualdad y no
@@ -643,38 +643,41 @@ Según el Libro de estilo de 2004 (capítulo 11, «Gramática»):
   o abstractas que engloben tanto a hombres como a mujeres. De esta manera evitamos dar la impresión
   de que las mujeres son «invisibles».»** Propone, entre otros, «el ser humano, las personas» por «el
   hombre», «el personal médico» por «los médicos», «las personas mayores» por «los ancianos», «el
-  electorado» por «los electores» o «la dirección» por «los directores».
+  electorado» por «los electores» o «la dirección» por «los directores». En nota añade que **«En
+  algunos casos, además, resulta más informativo no utilizar el masculino como genérico»** («un
+  hijo y una hija» no es lo mismo que «dos hijos»).
 - 11.1.5, **«El masculino genérico»**: cuando no exista la palabra genérica o su uso sea muy forzado,
   **«utilizaremos el masculino para referirnos a ambos sexos; esta es la manera correcta de hacer la
   concordancia gramatical en español, y no tiene por qué implicar una conducta machista.»**
 - 11.1.6, **«Plurales duplicados innecesarios»**: **«hay que evitar duplicar el sustantivo en
   masculino y femenino; este uso, típico del lenguaje ‘políticamente correcto’, no es admisible en el
-  periodismo porque se aleja de la forma natural de expresarse en español.»** Su ejemplo: «Las
-  trabajadoras y los trabajadores han decidido ir a la huelga» (dígase «Los trabajadores…»).
+  periodismo porque se aleja de la forma natural de expresarse en español.»** Uno de sus dos
+  ejemplos: «Las trabajadoras y los trabajadores han decidido ir a la huelga» (dígase «Los
+  trabajadores…»). Salvedad en nota: **«sólo en el hipotético caso de que existiese ambigüedad
+  podríamos utilizarlo.»**
 
 El Libro es anterior a la Ley 12/2007 (y a su reforma de 2018, que dio al artículo 58.1 el mandato
 propio de los medios públicos), a la LAA y a la Carta de 2023. La primera regla (palabras genéricas)
-casa con esas normas; el rechazo absoluto del desdoblamiento del 11.1.6 no lo recoge ninguna de
-ellas, que se limitan a ordenar un uso no sexista del lenguaje sin prescribir técnicas.
+casa con esas normas; el rechazo del desdoblamiento del 11.1.6, salvo ambigüedad, no lo recoge
+ninguna de ellas, que se limitan a ordenar un uso no sexista del lenguaje sin prescribir técnicas.
 
 ### Pautas de oficio de la Guía de Igualdad de RTVE (2020)
 
 La Guía de Igualdad de RTVE no obliga a la RTVA; sus recursos sirven como técnica de redacción.
 
-Punto de partida de la Guía: **la gramática del castellano permite un lenguaje no sexista**; no
-hay que forzar la lengua, porque la lengua ya da recursos.
+Punto de partida de la Guía: **«La gramática del castellano permite un lenguaje no sexista.»**
 
 **Lenguaje sexista o sexismo lingüístico** es **el que discrimina a cualquiera de los sexos
-mediante determinados usos lingüísticos**. Nótese que la definición es **simétrica**: «a
-cualquiera de los sexos».
+mediante determinados usos lingüísticos**. La definición es simétrica: «a cualquiera de los
+sexos».
 
-**Se detecta con la «regla de inversión»**: **intercambiar las referencias sexuadas** —cambiar
-un término masculino por su femenino y al revés—; **si el resultado suena inadecuado o
-extraño, la construcción original no era apropiada**.
+**Se puede detectar mediante la «regla de inversión»**, que consiste en **intercambiar las
+referencias sexuadas** —cambiar un término masculino por su femenino y al revés—: **«Si el
+resultado suena inadecuado o extraño es que la primera construcción no era apropiada»**.
 
-Sobre el **masculino genérico**: en español el **femenino es específico** y el **masculino
-funciona como género no marcado**, genérico y específico a la vez. **A veces resulta útil por
-economía lingüística**, pero **puede generar ambigüedad u ocultar a las mujeres**. Hay que
+Sobre el masculino genérico: en español el género gramatical **femenino es específico** y el
+masculino se usa como **«género no marcado»**, genérico y específico a la vez. **A veces, el
+masculino genérico resulta útil por economía lingüística**, pero **puede generar ambigüedad u ocultar a las mujeres**. Hay que
 **explicitar los dos géneros cuando la oposición de sexos es relevante** o cuando el
 masculino resulte ambiguo o discriminatorio.
 
@@ -682,44 +685,42 @@ masculino resulte ambiguo o discriminatorio.
 
 | Recurso | Qué es | Ejemplos de la Guía |
 | --- | --- | --- |
-| **Comunes** | **Misma forma para los dos géneros**; lo determinan **el artículo y el adjetivo** | el/la pianista, el/la psiquiatra, un buen/una buena profesional |
-| **Epicenos** | **Forma única para ambos sexos**; la concordancia depende **del género gramatical del sustantivo, no del sexo del referente** | persona, víctima, criatura, hormiga, perdiz. «**La víctima, un hombre joven, fue trasladada**» |
-| **Ambiguos** | Admiten uno u otro género **sin cambio de significado** | el/la mar, el/la armazón, el/la vodka |
-| **Colectivos** | **Designan un grupo o conjunto** | ciudadanía, población, alumnado, electorado, vecindario, **plantilla**. «Se comunica a los vecinos» → «**Se comunica al vecindario**» |
-| **Abstractos** | **Aluden al oficio, cargo o profesión, no a la persona que lo ejerce** | **alcaldía, dirección, presidencia, inspección** |
+| **Comunes** | **Tienen la misma forma para los dos géneros gramaticales**; el género lo determinan los artículos y los adjetivos | el/la pianista, el/la psiquiatra, un buen/una buena profesional |
+| **Epicenos** | **Su forma es única para ambos sexos**; la concordancia depende **del género gramatical del sustantivo, no del sexo del referente** | persona, víctima, criatura, hormiga, perdiz. «**La víctima, un hombre joven, fue trasladada**» |
+| **Ambiguos** | **Admiten uno u otro género, sin que ello implique cambios de significado** | el/la mar, el/la armazón, el/la vodka |
+| **Colectivos** | **Designan un grupo, un conjunto** | ciudadanía, población, alumnado, electorado, vecindario, **plantilla**. «Se comunica a los vecinos» → «**Se comunica al vecindario**» |
+| **Abstractos** | **Aluden a un oficio, cargo, profesión y no a la persona que la ejerce** | **alcaldía, dirección, presidencia, inspección** |
 | **Perífrasis** | **No recargan la información**, a diferencia de los desdoblamientos | los investigadores → **el equipo investigador**; los médicos → **el personal médico**; los políticos → **la clase política** |
 
 #### Desdoblamientos
 
-La Guía es **crítica** con ellos, y esto sorprende a quien espera lo contrario:
+La Guía es crítica con ellos:
 
-- **Utilizan los dos géneros para subrayar que el colectivo es mixto** y hacer visibles a las
-  mujeres: «trabajadores y trabajadoras», «ciudadanos y ciudadanas».
-- **Aunque parezca «políticamente correcto», es incorrecto gramaticalmente** en algunos casos
-  y **puede llevar a redacciones absurdas**: «algunos y algunas alumnos y alumnas son
+- **Utilizan los dos géneros gramaticales para subrayar que es un colectivo mixto** y hacer
+  visibles a las mujeres: «trabajadores y trabajadoras», «ciudadanos y ciudadanas».
+- **Aunque parezca «políticamente correcto», es incorrecto gramaticalmente** y **puede llevar a redacciones absurdas**: «algunos y algunas alumnos y alumnas son
   extranjeros y extranjeras».
 - **La forma doble solo es válida en sustantivos comunes.**
 - **No es incorrecta, pero sí redundante**, y **deben evitarse** —como otras construcciones
-  prolijas— **a no ser que sean necesarias**, porque **entorpecen la comunicación**.
+  prolijas— **a no ser que sean necesarias**, porque **entorpecen la información /comunicación**.
 
-De ahí que la pauta no sea «desdoblar siempre», sino **usar genéricos, colectivos, abstractos y perífrasis, y reservar
-el desdoblamiento para cuando sea necesario**.
+De ahí que la pauta no sea «desdoblar siempre», sino usar genéricos, colectivos, abstractos y
+perífrasis, y reservar el desdoblamiento para cuando sea necesario.
 
-Pero la Guía **matiza el rechazo**: **según la Nueva
-Gramática de la lengua española de la RAE, los desdoblamientos son necesarios en ciertos
-casos** —**si el contexto no deja claro que el masculino plural comprende por igual a ambos
+Pero la Guía matiza el rechazo: los desdoblamientos, **según la Nueva Gramática de la lengua española -RAE, son
+necesarios en ciertos casos** —**si el contexto no deja claro que el masculino plural comprenden por igual a ambos
 sexos**, o **si se habla de forma independiente de cada grupo**: «Xuan no tiene hermanas ni
 hermanos»—. Y añade dos recomendaciones de uso:
 
-- **Variar el orden y anteponer el femenino al masculino**, para no reforzar la idea de
-  prioridad masculina.
+- **Se debe variar el orden y optar por anteponer el femenino al masculino**, para no reforzar la
+  idea de prioridad masculina.
 - Usar **aposiciones explicativas** para clarificar el masculino genérico: «**los detenidos,
   hombres y mujeres, serán liberados**».
 
 #### Profesiones, cargos y oficios
 
 Feminizar los nombres de profesiones y cargos es, dice la Guía, **una forma de hacer
-visibles a las mujeres en el espacio público** y **la lógica adaptación de la lengua a una
+visibles a las mujeres y su lugar y labor en el espacio público** y **la lógica adaptación de la lengua a una
 nueva realidad social**.
 
 Citando el **Manual del Español Urgente**: **«conviene generalizar el femenino a los nombres
@@ -735,13 +736,14 @@ invariables**.
 La Guía trae además un cuadro de **terminaciones** con sus femeninos y sus excepciones: los
 acabados en **-o** hacen el femenino en **-a** (bombera, médica, ingeniera, arquitecta), con
 la excepción de **testigo**; los acabados en **-e** tienden a funcionar como **comunes**
-(conserje, cónyuge) aunque algunos tienen femenino propio en **-esa, -isa o -ina**
+(conserje, cónyuge) aunque algunos tienen femenino propio en -esa, -isa o -ina
 (alcaldesa, sacerdotisa, heroína); los acabados en **-i, -u, -y** son **comunes** (maniquí,
-gurú, yóquey); los de **-or, -ón, -ín** hacen femenino en **-a** o **-triz**
+gurú, yóquey); los de -or, -ón, -ín hacen femenino en **-a** o **-triz**
 (escritora, ladrona, bailarina, **actriz**); los de **-ar, -er, -ir, -ur** son por lo general
-**comunes** (militar, chófer, faquir, augur, mártir, prócer); los de **-l** y **-z** admiten
-femenino (**jueza, concejala, aprendiza**); y son **comunes** los **grados militares** (cabo,
-teniente) y **los músicos designados por su instrumento** (batería, contrabajo). Casos
+**comunes** (militar, chófer, faquir, augur, mártir, prócer); los de **-l** y **-z** **suelen
+funcionar como comunes** (corresponsal, portavoz), con las excepciones juez/jueza,
+concejal/concejala y aprendiz/aprendiza; y son **comunes** los **grados militares** (cabo,
+teniente) y **los que designan al músico por el instrumento que toca** (batería, contrabajo). Casos
 sueltos: **el/la piloto**, **el/la soldado**, **papa/papisa**, **rey/reina**,
 **juglar/juglaresa**, **cliente/clienta**, **jefe/jefa**, **azafata/azafato** y
 **modista/modisto**.
@@ -753,34 +755,36 @@ La Guía señala **cuatro**:
 | Construcción | En qué consiste |
 | --- | --- |
 | **Duales aparentes** | **Pares léxicos con significado distinto según el género**; **la forma femenina suele indicar menor categoría o trato denigrante** |
-| **Denominación dependiente** | **Nombrar a las mujeres por su relación o por el apellido de un hombre** —«esposa de», «mujer de», «señora de»—, y también **presentarlas como meras acompañantes o en papeles secundarios y pasivos** |
-| **Denominación infantilizada** | **Uso del diminutivo o de términos que infantilizan** y, por tanto, **desprestigian o desprecian** a las mujeres |
+| **Denominación dependiente** | **Cuando se nombra a las mujeres por su relación o el apellido de un hombre** —«esposa de», «mujer de», «señora de»—, y también cuando se las presenta como meras acompañantes o en papeles secundarios y pasivos |
+| **Denominación infantilizada** | **Uso de forma en diminutivo o de términos que infantilizan** y, por tanto, **desprestigian o desprecian** a las mujeres |
 | **Imágenes sexistas y/o estereotipadas** | **No solo hay que cuidar los textos, sino también las imágenes que los acompañan** |
 
-Los **duales aparentes** son los que la Guía ejemplifica con la lista de pares asimétricos
-que cierra el documento.
+Los **duales aparentes** la Guía los ejemplifica en una tabla de pares asimétricos (abajo).
 
 #### El uso de «@», «x» y «-e»
 
-Recogiendo el criterio de la **FUNDÉU**:
+Recogiendo el criterio de la Fundación del Español Urgente (**FUNDÉU**):
 
-- **La arroba no es un signo lingüístico.**
-- Puede ser admisible en **contextos creativos y provocadores, como pancartas y lemas**,
+- **«La @ no es un signo lingüístico.»**
+- Puede ser admisible en contextos creativos y provocadores, como pancartas y lemas,
   donde resulta expresivo.
-- **Se recomienda no emplearla en textos generales**, entre otras razones por **la imposible
+- **Se recomienda no emplearlo en textos generales**, entre otras razones por **la imposible
   pronunciación** de las palabras resultantes.
-- **No siempre es aplicable a la estructura de la lengua**: en «el Día del Niñ@», **el «del»
-  solo puede concordar con el masculino**.
-- Se reconoce que **algunas agrupaciones del colectivo LGTB (lesbianas, gais, transexuales y bisexuales)** emplean estas opciones para
-  referirse a **personas que no se identifican como mujeres ni como hombres**.
+- **No siempre es aplicable a la estructura de la lengua**: en el «Día del Niñ@», **del solo
+  puede concordar con el masculino**.
+- Se reconoce que **algunas agrupaciones del colectivo LGTB** (así, sin la I, en la Guía) emplean
+  la @ o la x para referirse a **aquellas personas que no se sienten identificadas como mujeres o
+  como hombres**.
 
 #### Los duales aparentes, uno a uno
 
-La Guía cierra con la lista de **duales aparentes**: pares aparentemente simétricos **cuyo
-femenino está devaluado**. **señorita** (mujer soltera, dependienta) frente a **señorito** (amo);
-**asistenta** (criada) frente a **asistente**; **gobernanta** (encargada de una casa u hotel)
+La tabla de ejemplos de **duales aparentes** de la Guía (epígrafe 5.4), pares aparentemente
+simétricos cuyo femenino está devaluado: **señorita** (mujer soltera, dependienta, maestra,
+secretaria) frente a **señorito** (amo, joven ocioso); **asistenta** (criada) frente a
+**asistente**; **ayudanta** (mujer que realiza trabajos subalternos) frente a **ayudante**
+(subalterno); **gobernanta** (encargada de una casa u hotel)
 frente a **gobernante** (quien gobierna); **secretaria** (labores administrativas) frente a
-**secretario** (alto cargo); y las parejas **mujer pública / hombre público**, **golfa /
+**secretario** (alto cargo); y las parejas **bruja / brujo**, **mujer pública / hombre público**, **golfa /
 golfo**, **zorra / zorro**, **fulana / fulano**, **cortesana / cortesano**, **solterona /
 soltero** y **coñazo / cojonudo**.
 
@@ -823,9 +827,10 @@ traduce en la elección de fuentes, expertas y testimonios.
 
 Las cuotas legales están en el epígrafe 3: para el servicio público televisivo lineal en abierto, el
 artículo 102.2 de la LGCA exige el 90 % de programas subtitulados y quince horas semanales de lengua
-de signos y de audiodescripción; en Andalucía, la disposición transitoria primera de la LAA fija para
-la televisión pública autonómica el 100 % de subtitulación y quince horas diarias de signos y de
-audiodescripción «y todas las informativas» desde 2021. A eso se suman los compromisos propios de
+de signos y de audiodescripción; en Andalucía, la disposición transitoria primera de la LAA conserva un
+calendario que para la televisión pública autonómica llega en 2021 al 100 % de subtitulación y a
+quince horas diarias de signos y de audiodescripción, más todas las informativas; pero lo refiere a
+las obligaciones del artículo 9, que desde 2024 ya no contiene cifras (nota del epígrafe 3). A eso se suman los compromisos propios de
 Canal Sur.
 
 ### Los informativos
@@ -964,7 +969,7 @@ como a) y e) las que hoy son b) y c), y tenía tres que el Decreto-ley 3/2024 su
 
 ### El marco
 
-- CE, artículo 49 (redacción de 17 de febrero de 2024): **«Las personas con discapacidad ejercen los
+- CE, artículo 49.1 (redacción vigente desde el 17 de febrero de 2024): **«Las personas con discapacidad ejercen los
   derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas.»**
 - LGCA, artículo 4.2: la comunicación audiovisual no incitará a la violencia, al odio o a la
   discriminación por ninguno de los motivos de su lista (epígrafe 1); artículo 7.1: imagen de las
@@ -1013,19 +1018,22 @@ RTVE sobre violencia contra las mujeres, están en el tema 11.
 
 ## Normativa que el tema invoca
 
-- Constitución Española, artículo 49 (redacción de 2024).
+- Constitución Española, artículo 49.1 (redacción de 2024).
 - Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: artículos
   14.11, 36, 37, 39 y 40.
 - Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía:
-  artículos 3.3, 3.8, 9, 57 y 58.
+  artículos 3.3, 3.8, 9, 57, 58, 66, 76.e), 77.c), 83.1 y 85.4.
 - Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación: artículos
   5.5, 22 y 27.
 - Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la
   garantía de los derechos de las personas LGTBI: artículo 27.
-- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 4, 6, 7, 84, 95, 96, 101
-  a 109, 158 y disposiciones transitoria cuarta y final séptima.
-- Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 6, 8, 9, 31, 41.3, 43.5 y
-  disposición transitoria primera.
+- Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 4, 6, 7, 10.4, 15.4,
+  33.2, 83, 84, 95 a 100, 101 a 109, 123, 124, 129, 131, 138 y 158, y disposiciones transitoria
+  cuarta y finales séptima y novena.
+- Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 6, 8, 9, 19.1.b), 31, 41.3,
+  43.5 y 66.3.c), y disposiciones adicional tercera y transitoria primera.
+- Por remisión de esas leyes: Ley Orgánica 1/1982, Ley Orgánica 2/1984, Ley Orgánica 3/2018
+  (artículo 7), Reglamento (UE) 2016/679 (artículo 8) y la derogada Ley 7/2010 (sólo como historia).
 - Ley 18/2007, de la radio y televisión de titularidad autonómica gestionada por
   la RTVA: artículos 4, 14.1, 20.1 y disposición adicional tercera.
 - Real Decreto 1112/2018, de 7 de septiembre (citado por el Contrato-programa; no leído).
@@ -1061,5 +1069,5 @@ RTVE sobre violencia contra las mujeres, están en el tema 11.
 | CE (BOE-A-1978-31229): art. 49, redacción de 2024 (BOE-A-2024-3099) | Epígrafe 8 | 24-09-2026 |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): arts. 8.1, 9, 13.9, 25 | Epígrafes 2, 6, 8 | 24-09-2026 |
 | Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 12, 56, 57, 59, 64-66, 90-94 | Epígrafes 2, 5, 6, 8 | 24-09-2026 |
-| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: 9.7.3, 11.1.4-11.1.6 | Epígrafes 4 y 8 | 24-09-2026 |
-| Guía de Igualdad de RTVE (2020), «Lenguaje e igualdad» | Pautas de oficio del epígrafe 4 | Tomada de un tema de RTVE; se relee en verificación |
+| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 9.7.3, 11.1.4-11.1.6 y sus notas 4 y 6 | Epígrafes 4 y 8 | 24-09-2026 |
+| Guía de Igualdad de la Corporación RTVE (2020, PDF de rtve.es), epígrafes 5 a 5.5, «Lenguaje e igualdad» | Pautas de oficio del epígrafe 4 | 24-09-2026 |

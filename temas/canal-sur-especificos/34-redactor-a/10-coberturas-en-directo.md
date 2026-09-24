@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Redactor/a · punto 10 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulo 8, «Presencia en cámara»); Manual de estilo de RTVE (capítulos de TVE y RNE) donde el de Canal Sur no llega; Recomendación UIT-R SNG.770-2 para el enlace por satélite; costumbre de oficio para la técnica de enlaces y de captación |
-| Redacción que se estudia | Libro de estilo de Canal Sur, 1.ª ed., 2004; Manual de estilo de RTVE en su versión web; ambos leídos el 24-09-2026 |
-| Extensión | 2.963 palabras |
+| Redacción que se estudia | Libro de estilo de Canal Sur, 1.ª ed., 2004; Manual de estilo de RTVE en su versión web (copia del 02-09-2026); ambos leídos el 24-09-2026 |
+| Extensión | 3.043 palabras |
 
 <!-- /portada -->
 
@@ -76,7 +76,8 @@ El Libro de estilo abre su epígrafe 8.3, «Presencia en directo» (p. 116), con
 periodista: **«tiene que responder con brevedad y sin circunloquios a los interrogantes que
 cualquier ciudadano se plantearía y adecuarse al formato establecido»**. La pauta es **«responder a
 las seis preguntas clásicas (qué, quién, cómo, cuándo, dónde, por qué), si no hay imagen; si la
-hubiera, sólo daremos respuesta a aquellas que no resuelva el propio vídeo»**. Y fija la jerarquía:
+hubiera, sólo daremos respuesta a aquellas que no resuelva el propio vídeo o bien efectuaremos las
+acotaciones que convengan al caso»**. Y fija la jerarquía:
 **«Lo importante es enseñar el acontecimiento que no debe quedar enmascarado ni por la imagen ni por
 la palabra del periodista»**.
 
@@ -138,10 +139,11 @@ que le rodea y prever posibles incidencias»** (2.4.2).
 
 ## 3. Actualización de datos
 
-El directo se justifica por lo que añade. El Manual de RTVE (2.4.2) pide **«ofrecer la máxima
-actualización»** y **«aportar elementos informativos audiovisuales que únicamente puedan ofrecerse
-desde ese lugar en ese momento»**; su contenido **«no debe ser similar a lo dicho inmediatamente
-antes por el presentador de estudio o a lo que se dirá inmediatamente después»**. El Libro de estilo
+El directo se justifica por lo que añade. El Manual de RTVE (2.4.2) pide **«intentar ofrecer la máxima
+actualización»** y **«esforzarse por aportar elementos informativos audiovisuales que únicamente puedan
+ofrecerse desde ese lugar en ese momento»**; su contenido **«no debe ser similar a lo dicho
+inmediatamente antes por el presentador de estudio o a lo que se dirá inmediatamente después, en el
+caso de que el directo preceda a una pieza referida a la noticia en cuestión»**. El Libro de estilo
 dice lo mismo cuando la conexión va dentro de un bloque: **«debemos ser previamente informados para
 no repetir, sino para complementarlo»** (8.1.10).
 
@@ -168,8 +170,8 @@ Tres reglas más del mismo libro y del de RTVE:
   especial. La excepción sirve sólo en el supuesto de una conexión en directo»** (LE 8.1.2).
 - **Claridad y jerarquía**: **«Una cantidad abrumadora de datos con premura, sin orden claro y sin
   jerarquía sólo causa confusión. El reportero apenas insistirá en dos o tres elementos porque la
-  capacidad de atención del espectador es limitada»** (LE 8.1.4). La aparición en directo **«será sencilla en
-  cuanto al vocabulario y la sintaxis»** (LE 8.3.1).
+  capacidad de atención del espectador es limitada»** (LE 8.1.4). La aparición en pantalla, en directo o en las
+  inserciones de vídeo, **«será sencilla en cuanto al vocabulario y la sintaxis»** (LE 8.3.1).
 - **Sin contagio del ambiente**: **«El ambiente o la atmósfera del evento no deberán afectar a la
   imparcialidad ni a la calidad del trabajo del informador»** (RTVE 2.4.3).
 
@@ -216,11 +218,12 @@ distribución). Sus vías, como costumbre de oficio:
 | Agregación de redes móviles | Varias tarjetas de telefonía sumadas en una mochila | Ligerísimo y barato | Depende de la cobertura; latencia variable |
 | Redes de datos (FTTH, líneas dedicadas) | Transporte sobre red de datos, con protocolos de contribución | Barato donde hay red | Depende de la red de un tercero |
 
-- **Satélite.** El enlace de subida de una señal a satélite se denomina *uplink*; la bajada, *downlink*.
-  La Recomendación UIT-R SNG.770-2 (01/2012) explica para qué existe: el periodismo electrónico por
-  satélite es **«temporal y ocasional»**, a menudo **«su activación no puede determinarse con gran
-  antelación»**, y se hace con **«estaciones terrenas de enlace ascendente portátiles o fácilmente
-  transportables»**.
+- **Satélite.** El tramo de subida al satélite es el enlace ascendente (en la jerga, *uplink*); el de
+  bajada, el descendente (*downlink*). La Recomendación UIT-R SNG.770-2 (01/2012), de procedimientos
+  operacionales uniformes para el DSNG, parte de **«que el SNG es temporal y ocasional, y que a menudo
+  su activación no puede determinarse con gran antelación»** (considerando c) y lo define como
+  transmisión **«con escaso tiempo de aviso»** mediante **«estaciones terrenas de enlace ascendente
+  portátiles o fácilmente transportables»** (anexo 1, 1.1).
 - **Mochila.** Una mochila de agregación suma varias conexiones de telefonía móvil para conseguir un
   canal estable. Sus dos límites son los de la red que usa: la cobertura, que no se controla, y la
   latencia, que varía con la carga de la red.
@@ -252,19 +255,19 @@ prevención de riesgos del puesto es el tema 20.
 - **Brevedad**: **«Una conexión en directo tiene más fuerza cuanto más breve y concisa resulte. El
   intercambio de saludos o cualquier fórmula de protocolo debe ceñirse al mínimo»** (LE 8.3.2).
 - **A quién se habla**: **«El saludo, la despedida y cualquier referencia de cortesía deben ser para
-  la audiencia»**; se da paso al presentador en segunda persona y después se usa **«la segunda persona
-  del plural»** para los espectadores. **«Terminado el directo, en la despedida sólo habla el
+  la audiencia»**; al presentador se le habla en segunda persona cuando da paso a la conexión y, desde
+  ahí, se usa **«la segunda persona del plural»** para los espectadores. **«Terminado el directo, en la despedida sólo habla el
   presentador»** (LE 8.3.2).
 - **Si algo falla**: solventarlo **«con naturalidad e incluso hacérselo saber al espectador»** (LE
   8.1.9).
 - **Falso directo**: **«El uso de la modalidad de falso directo debe erradicarse»**. Si no se puede
-  por dificultad técnica o de franja horaria, se revisa el formato, y **«Si el directo es falso, lo
+  resolver por dificultad técnica o por ausencia de franja horaria, se revisa el formato, y **«Si el directo es falso, lo
   haremos constar»** (LE 8.3.3).
 
 ### En la radio
 
 **«El boletín horario es el eje de la continuidad informativa»** (RNE 3.2.1). Da cuenta de lo ocurrido
-desde el servicio anterior, **«amplía los datos de las noticias flash»** y **«recuerda aquellos
+desde el servicio anterior, **«amplía los datos de las noticias flash -en el caso de que las haya habido-»** y **«recuerda aquellos
 acontecimientos que están ocurriendo en el momento de la emisión y los que previsiblemente se
 producirán en el tiempo que media hasta el siguiente programa informativo»**.
 
@@ -283,10 +286,10 @@ producirán en el tiempo que media hasta el siguiente programa informativo»**.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: 3.9.1; cap. 6, p. 88; 8.1 (pp. 113-115); 8.3 a 8.3.3 (pp. 116-118) | Preparación, pacto, editor, lenguaje, emplazamiento, brevedad, despedida, falso directo | 24-09-2026 |
+| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: 3.9.1; cap. 6, p. 88; 8.1 (pp. 113-114); 8.3 a 8.3.3 (pp. 116-118) | Preparación, pacto, editor, lenguaje, emplazamiento, brevedad, despedida, falso directo | 24-09-2026 |
 | Manual de estilo de RTVE (web), cap. 2 TVE: 2.1.3, 2.2.7, 2.4.2, 2.4.3 | Última hora, actualización, directo, noticias especiales | 24-09-2026 |
 | Manual de estilo de RTVE (web), cap. 3 RNE: 3.2.1 | Boletín y continuidad en radio | 24-09-2026 |
-| Recomendación UIT-R SNG.770-2 (01/2012), edición en español | Carácter temporal y ocasional del DSNG | Tomada de un tema de RTVE; se relee en verificación |
+| Recomendación UIT-R SNG.770-2 (01/2012), edición en español | Carácter temporal y ocasional del DSNG (considerando c) y su definición (anexo 1, 1.1) | 24-09-2026 |
 
 Va como costumbre de oficio, y así se declara: la tabla de vías de transporte, el funcionamiento de
 la mochila, las reglas de los eventos no controlables y la modulación del lenguaje como separación

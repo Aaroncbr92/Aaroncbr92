@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 9 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulos 3, 6, 8 y 12); Manual de estilo de RTVE como referencia; documentación del fabricante Autocue para el prompter; costumbre de oficio donde no hay documento |
+| Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (capítulos 3, 6, 8, 11 y 12); Manual de estilo de RTVE como referencia; documentación del fabricante Autocue para el prompter; costumbre de oficio donde no hay documento |
 | Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo 2004; Manual de estilo de RTVE en su versión web, leídos el 24-09-2026 |
-| Extensión | 2.555 palabras |
+| Extensión | 2.691 palabras |
 
 <!-- /portada -->
 
@@ -20,7 +20,7 @@ Televisión, S.A. (CSRTV); Corporación de Radio y Televisión Española (RTVE);
 > comunicación oral en contenidos informativos: claridad, ritmo, lectura, improvisación controlada,
 > autocontrol, uso del prompter, comunicación con control y adecuación al formato.»
 
-Qué se puede preguntar: en cuántos elementos insiste el reportero y por qué; los tres defectos de ritmo
+Qué se puede preguntar: en cuántos elementos insiste el reportero y por qué; los cuatro defectos de ritmo
 que señala el Libro de estilo; qué acentos admite Canal Sur y qué andaluz pide; qué es la vocalización;
 cómo casan «sensación real de improvisación» y «la improvisación no tiene cabida»; quién pacta los
 términos de un directo y dónde se plasman; qué es un teleprompter y qué es Autocue; si el redactor en
@@ -69,7 +69,7 @@ a Canal Sur. Ninguno de los dos menciona el prompter.
 
 ## 1. Claridad
 
-El Libro de estilo la pone entre las pautas del periodista comunicador (8.1, punto 4): **«Claridad
+El Libro de estilo la pone entre las consideraciones que perfilan al periodista comunicador (8.1, punto 4): **«Claridad
 absoluta en lo que se transmite. Una cantidad abrumadora de datos con premura, sin orden claro y sin
 jerarquía sólo causa confusión. El reportero apenas insistirá en dos o tres elementos porque la
 capacidad de atención del espectador es limitada.»**
@@ -86,7 +86,7 @@ tópicos, ironías o lenguaje de doble sentido, ni tampoco detenerse en fórmula
 
 El Libro de estilo liga el ritmo de la locución a la imagen (6.2.2, «El ritmo de la narración»): **«La
 entonación y el ritmo han de ser apropiados para reforzar el valor narrativo de la imagen, el sonido y
-las declaraciones.»** Y enumera tres defectos **«muy comunes en los que incurrimos para intentar ganar
+las declaraciones.»** Y enumera cuatro defectos **«muy comunes en los que incurrimos para intentar ganar
 en ritmo o precisión»**:
 
 1. **«Apresurar la lectura del texto para abreviar forzando la colocación de más palabras que las que
@@ -94,6 +94,8 @@ en ritmo o precisión»**:
 2. **«Escribir sin conocer la imagen con detalle.»** Provoca referencias a lo que el vídeo no muestra.
 3. **«Ofrecer datos y explicaciones prolijas por encima de un ritmo razonable de las imágenes»** y de la
    capacidad de comprensión del espectador.
+4. **«Hacer referencia exagerada a detalles que se captan por sí solos.»** Ejemplo del libro: no aludir a
+   un **«espectacular y ensordecedor estruendo»** si esa mención dificulta que se oiga la explosión grabada.
 
 El Manual de RTVE añade el ritmo que marca la puntuación (6.3.1): **«Las pausas en la lectura deben
 coincidir con las necesidades de respiración.»** El ritmo radiofónico del boletín y del diario hablado
@@ -103,8 +105,9 @@ está en el tema 8.
 
 ### Del signo a la voz
 
-**«La obligada puntuación ortográfica hay que trasladarla a la entonación del texto»** (Libro de
-estilo, capítulo de gramática). El Manual de RTVE lo formula para radio y televisión (6.3.1): el texto
+Cuando, por interés periodístico, se altera el orden lógico de la frase, **«la obligada puntuación
+ortográfica hay que trasladarla a la entonación del texto»** (Libro de estilo, capítulo 11, «Gramática»,
+«Normas básicas»). El Manual de RTVE lo formula para radio y televisión (6.3.1): el texto
 **«se escribe para ser leído en voz alta, bien por el autor o por otra voz»**; hay que evitar
 **«expresiones confusas, mala dicción, entonaciones forzadas, esdrujulear, cortes en la secuencia
 fónica, acentos en preposiciones»**, y **«tan importante es puntuar adecuadamente como que la lectura
@@ -180,9 +183,9 @@ El enunciado no precisa el sentido. Se estudian los dos.
 
 ### El locutor que maneja su propia mesa
 
-En radio se llama autocontrol al estudio en que el locutor opera él mismo la mesa de sonido, sin técnico
-en el control. Es costumbre de oficio, sin documento leído que la defina; su reparto de tareas con la
-operación de sonido está en el tema 8.
+En radio se llama autocontrol al estudio en que el locutor opera él mismo la mesa de sonido. Es costumbre
+de oficio, sin documento leído que la defina; su reparto de tareas con la operación de sonido está en el
+tema 8.
 
 ## 6. Uso del prompter
 
@@ -190,14 +193,14 @@ operación de sonido está en el tema 8.
 
 El teleprompter es el aparato que muestra al presentador el texto que lee mientras mira a cámara.
 Autocue, el nombre que se oye en muchas redacciones, es una marca: su propia portada se titula
-«**Autocue®: Innovating Prompting Since 1955**» y explica que «**desde 1955** fabricamos **prompters**
-para su uso en estudios, en atriles y prácticamente en cualquier sitio», y que «creemos que **los
-teleprompters** hacen más felices a los presentadores». Es decir: **el propio fabricante llama
-teleprompters a sus autocues**.
+**«Autocue®: Innovating Prompting Since 1955»** y explica que **«Since 1955 we’ve been making prompters
+for use in studios, on podiums, and well, pretty much anywhere»** (desde 1955 fabrica prompters para
+estudios, atriles y casi cualquier sitio) y que **«We believe teleprompters make for happier talent»**
+(los teleprompters hacen más felices a los presentadores). Es decir: el propio fabricante llama
+teleprompters a sus autocues.
 
-Es un caso de marca convertida en nombre común: **teleprompter** es el nombre del aparato y **Autocue**
-el de una marca que lo fabrica desde hace setenta años. **No son dos aparatos: son un aparato y una
-marca.**
+Es un caso de marca convertida en nombre común: teleprompter es el nombre del aparato y Autocue el de una
+marca que lo fabrica desde 1955. No son dos aparatos: son un aparato y una marca.
 
 Por costumbre de oficio, sin documento leído que lo describa: el texto aparece en un monitor, reflejado
 en un cristal delante del objetivo, y el avance puede manejarse desde el control o desde el propio
@@ -258,17 +261,24 @@ maquillaje.»**
 ### El presentador
 
 **«Un presentador tiene que tener aspecto agradable, presencia discreta y un discurso claro»**; cada uno
-puede fomentar su sello personal, **«pero está obligado a contar los hechos con un lenguaje, preciso,
+debe fomentar su sello personal, **«pero está obligado a contar los hechos con un lenguaje, preciso,
 claro, directo y neutral»**, y ante el espectador **«tienen que mostrarse decididos y directos, fluidos
 y sencillos, en el punto medio de la profesionalidad y la cercanía»** (8.6). El Manual de RTVE lo
 resume así: **«Los presentadores son los intermediarios entre el espectador y la actualidad»**, y **«el
 único protagonismo pertenece a las noticias»** (2.4.5).
 
-El vestuario (8.6.1) se ajusta a la cámara; de sus nueve pautas, la única que prohíbe es la séptima:
-**«Todo símbolo que identifique al presentador con cualquier corriente o entidad política, sindical,
-social o deportiva está prohibido.»** Las demás advierten de lo que la cámara o el micrófono llevan
-mal: blancos, brillos, rayas finas (**«efecto muaré»**), adornos que **«pueden producir ruidos
-extraños»** y escotes pronunciados en planos cortos.
+El vestuario (8.6.1) se ajusta a la cámara; de sus nueve pautas, la séptima es la única que dice
+«prohibido»: **«Todo símbolo que identifique al presentador con cualquier corriente o entidad política,
+sindical, social o deportiva está prohibido.»** La sexta también excluye: los adornos exagerados **«no se
+utilizarán»** porque distraen, reflejan brillos y **«pueden producir ruidos extraños»**. Las demás
+advierten de lo que la cámara o el micrófono llevan mal: blancos, brillos, tonos claros, colores fuertes,
+rayas finas (**«efecto muaré»**) y escotes pronunciados en planos cortos; la novena se dirige a los
+departamentos de Estilismo y Realización.
+
+Para el periodista que aparece en cámara rige una regla paralela (8.3.5, «Símbolos»): **«Tampoco podrá
+mostrar símbolos particulares que pongan de manifiesto su filiación, proximidad o simpatía con una opción
+política, sindical, social, deportiva o económica. Sólo hay una excepción: la decisión editorial de la RTVA
+con respecto a algún hecho puntual de interés extraordinario.»**
 
 ## Lo que este tema no da, y dónde está
 
@@ -288,7 +298,7 @@ extraños»** y escotes pronunciados en planos cortos.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004: Introducción, 3.14, 6.2.2, capítulo de gramática, 8.1 (puntos 3 a 9), 8.3, 8.3.1, 8.3.2, 8.5, 8.6, 8.6.1, capítulo 12 «Normas básicas» | Valor del libro; claridad; ritmo; lectura y pronunciación; improvisación; autocontrol; comunicación con control; adecuación al formato | 24-09-2026 |
-| Manual de estilo de RTVE (web): 2.4.5 (TVE), 3.5 (RNE), 6.3.1 (El lenguaje) | Presentadores; improvisación en la retransmisión; lectura y puntuación | 24-09-2026 |
-| Portada del fabricante Autocue | Autocue es marca; el fabricante llama teleprompters a sus aparatos; fabrica desde 1955 | 02-09-2026 (lectura de origen, tomada del tema de RTVE; pendiente de relectura) |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004: Introducción, 3.14, 6.2.2, 8.1 (puntos 3 a 9), 8.3, 8.3.1, 8.3.2, 8.3.5, 8.5, 8.6, 8.6.1, capítulo 11 «Normas básicas», capítulo 12 «Normas básicas» | Valor del libro; claridad; ritmo; lectura y pronunciación; improvisación; autocontrol; comunicación con control; adecuación al formato | 24-09-2026 |
+| Manual de estilo de RTVE (web): 2.4.5 (TVE), 3.5 (RNE), 6.3.1 (El lenguaje) | Presentadores; improvisación en la retransmisión; lectura y puntuación | 24-09-2026 (web vigente) |
+| Portada del fabricante Autocue | Autocue es marca; el fabricante llama teleprompters a sus aparatos; fabrica desde 1955 | 24-09-2026 |
 | Costumbre de oficio, sin norma | Funcionamiento del teleprompter (monitor, cristal, mando); autocontrol en radio | — |

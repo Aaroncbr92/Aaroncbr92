@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Redactor/a · punto 1 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Constitución Española de 1978 (arts. 18, 20, 24 y 53) · Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen · Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de la información · Sentencia del Tribunal Constitucional 27/2020, de 24 de febrero · Libro de estilo de Canal Sur Televisión (2004) · Carta ética mundial para periodistas de la FIP (2019) · Manual de estilo de RTVE, como criterio de otro medio público |
-| Redacción que se estudia | La vigente el 24-09-2026 (BOE consolidado). La Ley Orgánica 2/1984 no ha sido reformada; la Ley Orgánica 1/1982 tiene sus arts. 1, 4, 7 y 9 en la redacción de 1995 y 2010 |
-| Extensión | 4.801 palabras |
+| Redacción que se estudia | La vigente el 24-09-2026 (BOE consolidado). La Ley Orgánica 2/1984 no ha sido reformada. De la Ley Orgánica 1/1982, el art. 1 está en la redacción de la LO 10/1995; el art. 2, en la de la LO 3/1985, con un inciso anulado por la Sentencia del TC 9/1990; los arts. 4, 7 y 9, en la de la LO 5/2010; la disposición transitoria primera está derogada |
+| Extensión | 5.149 palabras |
 
 <!-- /portada -->
 
@@ -71,8 +71,8 @@ secreto profesional.
 ## De dónde sale este tema
 
 El punto 1 cuelga de la Constitución y de tres leyes orgánicas que la desarrollan: la 1/1982 (honor,
-intimidad e imagen), la 2/1984 (rectificación) y la 2/1997 (cláusula de conciencia). El secreto
-profesional no tiene ley de desarrollo. Sobre ellas, el Libro de estilo de Canal Sur Televisión, de
+intimidad e imagen), la 2/1984 (rectificación) y la 2/1997 (cláusula de conciencia). Para el secreto
+profesional, el tema no da ley de desarrollo. Sobre ellas, el Libro de estilo de Canal Sur Televisión, de
 2004, fija cómo lo aplica la redacción: se define como «**un conjunto de recomendaciones
 periodísticas y una selección de métodos de trabajo**» y cita normas de su época (la Ley de creación
 de la RTVA de 1987, hoy derogada por la Ley 18/2007), así que lo que sigue se da siempre como «según
@@ -160,7 +160,7 @@ a que se lo pidan.
 ### Pluralismo
 
 Libro de estilo, 1.5 «Imparcialidad» (p. 31): «**Los hechos y las ideas deben expresarse de manera
-equilibrada.**» En la Constitución el pluralismo es el del art. 20.3 (epígrafe 1).
+equilibrada.**» En el art. 20 CE, el pluralismo aparece en el apartado 3 (epígrafe 1).
 
 ### Independencia editorial
 
@@ -169,8 +169,8 @@ razones editoriales sólidas, asentadas en la Ley de Creación de la Empresa Pú
 Televisión de Andalucía, por encima de presiones indebidas. Ningún profesional de CSTV o Canal 2
 Andalucía podrá tener una vinculación signiﬁcativa con productos, servicios, empresas, partidos
 políticos o grupos de presión cuando ésta comprometa su función informativa.**» La ley que cita es la
-de 1987, hoy derogada por la Ley 18/2007; y Canal 2 Andalucía ya no existe. Lo que sigue en pie es la
-regla: la decisión informativa se toma por razones editoriales y el redactor no puede tener
+Ley 8/1987, de 9 de diciembre, de creación de la RTVA, hoy derogada por la Ley 18/2007. Lo que sigue
+en pie es la regla: la decisión informativa se toma por razones editoriales y el redactor no puede tener
 vínculos que comprometan su función.
 
 ## 3. Derecho al honor, a la intimidad y a la propia imagen: Ley Orgánica 1/1982
@@ -179,9 +179,10 @@ vínculos que comprometan su función.
 
 Capítulo I, «**Disposiciones generales**» (arts. 1 a 6); capítulo II, «**De la protección civil del
 honor, de la intimidad y de la propia imagen**» (arts. 7 a 9); una disposición derogatoria y dos
-transitorias. Los artículos van numerados en letra («Artículo primero»…). El art. 1 está en la
-redacción de la LO 10/1995, del Código Penal; los arts. 4, 7 y 9, en la de la LO 5/2010, que modificó
-el Código Penal.
+transitorias, la primera de ellas derogada. Los artículos van numerados en letra («Artículo primero»…). El art. 1 está en la
+redacción de la LO 10/1995, del Código Penal; el art. 2, en la de la LO 3/1985, que le añadió la
+mención de los Diputados y Senadores; los arts. 4, 7 y 9, en la de la LO 5/2010, que modificó el
+Código Penal.
 
 ### Disposiciones generales (arts. 1 a 6)
 
@@ -203,7 +204,10 @@ el Código Penal.
   cuando estuviere expresamente autorizada por Ley o cuando el titular del derecho hubiere
   otorgado al efecto su consentimiento expreso o, por imperativo del artículo 71 de la
   Constitución, cuando se trate de opiniones manifestadas por Diputados o Senadores en el
-  ejercicio de sus funciones.**» Un inciso de este apartado fue anulado: «**Declarada la
+  ejercicio de sus funciones.**» El apartado sigue: «**Iniciado un proceso civil en aplicación de la
+  presente Ley, no podrá seguirse contra un Diputado o Senador sin la previa autorización del
+  Congreso de los Diputados o del Senado. La previa autorización será tramitada por el procedimiento
+  previsto para los suplicatorios.**» Un inciso de este apartado fue anulado: «**Declarada la
   inconstitucionalidad y nulidad del inciso destacado del apartado 2 por Sentencia del TC 9/1990
   de 18 de enero.**»
 - Art. 2.Tres: «**El consentimiento a que se refiere el párrafo anterior será revocable en
@@ -223,8 +227,10 @@ el Código Penal.
   legitimado «**el ofendido o perjudicado por el delito cometido, haya o no ejercido la acción
   penal o civil en el proceso penal precedente. También estará legitimado en todo caso el
   Ministerio Fiscal.**»
-- Arts. 5 y 6: si hay varios parientes, «**cualquiera de ellos podrá ejercer las acciones**»; el
-  heredero puede iniciar o continuar la acción del fallecido.
+- Arts. 5 y 6: si sobreviven varios parientes, «**cualquiera de ellos podrá ejercer las acciones**»;
+  si el titular murió sin haber podido ejercitarlas, por las circunstancias en que se produjo la
+  lesión, pueden hacerlo las personas del art. 4; y esas mismas personas «**podrán continuar la
+  acción ya entablada por el titular del derecho lesionado cuando falleciere.**»
 
 ### Las ocho intromisiones ilegítimas (art. 7)
 
@@ -278,7 +284,7 @@ meramente accesoria de esa persona en un suceso público sigue cubierta.
 ### La tutela (art. 9)
 
 - Uno: se puede acudir a las vías procesales ordinarias o al «**procedimiento previsto en el
-  artículo 53.2 de la Constitución**», y también al amparo ante el TC.
+  artículo 53.2 de la Constitución**», y también, «**cuando proceda**», al amparo ante el TC.
 - Dos: las medidas son a) el restablecimiento del derecho —«**En caso de intromisión en el derecho
   al honor, el restablecimiento del derecho violado incluirá, sin perjuicio del derecho de réplica
   por el procedimiento legalmente previsto, la publicación total o parcial de la sentencia
@@ -301,9 +307,11 @@ fallecido), cuatro años (caducidad), ocho intromisiones (art. 7), tres excepcio
 
 ### La foto de un perfil abierto: la Sentencia del TC 27/2020
 
-Un diario ilustró la noticia de un suceso violento con la fotografía de la víctima tomada de su
-perfil de Facebook, abierto al público; el TC desestimó el amparo del diario (Sala Segunda,
-Sentencia 27/2020, de 24 de febrero). Frente a la tesis de que colgar la foto equivalía a consentir
+Un diario de Zamora ilustró el reportaje de un suceso violento (un hombre disparó a su hermano y
+después se suicidó) con la fotografía del herido, tomada de su perfil de Facebook, abierto al
+público. En casación, el Tribunal Supremo dio prevalencia a la información frente a la intimidad,
+pero mantuvo la condena por la fotografía (derecho a la propia imagen); el TC desestimó el amparo
+del diario (Sala Segunda, Sentencia 27/2020, de 24 de febrero). Frente a la tesis de que colgar la foto equivalía a consentir
 su uso por terceros: «**No podemos aceptar esta premisa. El consentimiento solo ampara aquello que
 constituye el objeto de la declaración de voluntad. El titular del derecho fundamental debe
 autorizar el concreto acto de utilización de su imagen y los fines para los que la otorga**». Y la
@@ -312,11 +320,12 @@ extiende a otros actos posteriores, como por ejemplo su publicación o difusión
 debe entenderse que la autorización de una concreta publicación no se extiende a otras, ya tengan
 la misma o diversa finalidad que la primigenia**».
 
-Hace suyo el criterio del TS: «**el consentimiento del titular de la imagen para que el público en
-general, o un determinado número de personas, pueda ver su fotografía en un blog o en una cuenta
+Comparte el razonamiento de la sentencia del TS («**Se debe compartir por ello el razonamiento
+ofrecido en la sentencia impugnada**»), que la del TC recoge en sus antecedentes: «**el consentimiento
+del titular de la imagen para que el público en general, o un determinado número de personas, pueda ver su fotografía en un blog o en una cuenta
 abierta en la web de una red social no conlleva la autorización para hacer uso de esa fotografía y
-publicarla o divulgarla de una forma distinta**». Y precisa que el consentimiento expreso del
-art. 2.2 «**no requiere que sea un consentimiento formal (por ejemplo, dado por escrito), sí exige
+publicarla o divulgarla de una forma distinta**». Esa sentencia del TS precisa que el consentimiento
+expreso del art. 2.2 LO 1/1982 «**no requiere que sea un consentimiento formal (por ejemplo, dado por escrito), sí exige
 que se trate de un consentimiento inequívoco**».
 
 Regla de trabajo: la foto de un perfil abierto no está disponible por estar a la vista; citar la
@@ -324,16 +333,20 @@ procedencia no sustituye al consentimiento.
 
 ### Lo que añade el Libro de estilo
 
-2.3.2.10 «Intimidad y honor»: «**No es aceptable la intromisión en la vida privada de una persona
+2.3.2.10 «Intimidad y honor» (pp. 38-39): «**No es aceptable la intromisión en la vida privada de una persona
 sin su consentimiento, ni en el supuesto de que tenga una gran proyección social. Aún así, se
 podrán hacer averiguaciones por interés público en caso de detección o revelación de delitos
-graves, conductas antisociales, y sólo cuando la salud o la seguridad públicas lo exijan.**» El
-libro lo presenta como resumen de «**La doctrina del Tribunal Supremo (TS)**», sin identificar
-sentencia.
+graves, conductas antisociales, y sólo cuando la salud o la seguridad públicas lo exijan.**» A
+continuación resume, sin identificar sentencia, «**La doctrina del Tribunal Supremo (TS)**»: el
+derecho al honor es «**fundamental para proteger la dignidad humana**», pero quienes «**por su especial
+estatus u ocupación**» se exponen al público han de soportar ser «**criticados, observados y
+cuestionados**», y el derecho a la información «**prevalece sobre el derecho al honor, la intimidad o
+la imagen**» salvo que se viertan insultos o descalificaciones.
 
-2.3.2.11 «Vida privada»: «**Los equipos de CSTV no grabarán dentro de una propiedad privada sin que
+2.3.2.11 «Vida privada» (p. 39): «**Los equipos de CSTV no grabarán dentro de una propiedad privada sin que
 lo acepten las personas cuyas imágenes deseamos obtener y los propietarios.**» Hacen falta los dos
-permisos: el de las personas grabadas y el de los propietarios.
+permisos: el de las personas grabadas y el de los propietarios. Y con permiso: «**nuestro trabajo
+cesará cuando seamos requeridos para ello de modo correcto.**»
 
 ### Un criterio de otro medio público: el Manual de estilo de RTVE
 
@@ -409,11 +422,11 @@ explícita, completa y visible.
 
 Los dos nacen en el mismo inciso del art. 20.1.d CE: «**La ley regulará el derecho a la cláusula de
 conciencia y al secreto profesional en el ejercicio de estas libertades.**» La cláusula tiene ley
-(LO 2/1997); el secreto, no.
+(LO 2/1997); para el secreto, el tema no da ley de desarrollo.
 
 ### Secreto profesional
 
-Sin ley orgánica que lo desarrolle, su base son el art. 20.1.d y el art. 24.2 CE («**por razón de
+Su base constitucional son el art. 20.1.d y el art. 24.2 CE («**por razón de
 parentesco o de secreto profesional**», epígrafe 1).
 
 Libro de estilo, 2.3.2.13 «Secreto» (p. 39): «**El secreto profesional es un derecho del periodista y
@@ -478,24 +491,31 @@ conciencia profesional.**»
   información: no se da, porque no se ha leído ninguna sentencia que la contenga, salvo la 27/2020.
 - Cuál es el «inciso destacado» del art. 2.2 LO 1/1982 que anuló la Sentencia del TC 9/1990: el texto
   consolidado no lo marca.
-- Protección de las fuentes en el Reglamento (UE) 2024/1083 (Reglamento europeo sobre la libertad de
-  los medios de comunicación): no leído; no se da.
+- Protección de las fuentes en el Reglamento (UE) 2024/1083 (Reglamento Europeo sobre la Libertad de
+  los Medios de Comunicación), aplicable en general desde el 8 de agosto de 2025: su art. 4.3 dispone
+  que «**Los Estados miembros se asegurarán de que las fuentes periodísticas y las comunicaciones
+  confidenciales son protegidas de manera efectiva.**» El resto del artículo no se desarrolla aquí.
 
 ## Trazabilidad
 
-Leído todo el 24-09-2026.
+Leído todo el 24-09-2026; releído y verificado contra cada fuente el 24-09-2026.
 
 - Constitución Española, BOE-A-1978-31229, texto consolidado: arts. 18.1, 20, 24.2 y 53.2 tomados del
   tema 1 del común (redacción vigente a 24-09-2026).
-- LO 1/1982, BOE-A-1982-11196, consolidado: arts. 1-9 (art. 1 según LO 10/1995; arts. 4, 7 y 9 según
-  LO 5/2010; nota de la STC 9/1990 en el art. 2).
+- LO 1/1982, BOE-A-1982-11196, consolidado: arts. 1-9 y disposiciones (art. 1 según LO 10/1995,
+  BOE-A-1995-25444; art. 2 según LO 3/1985, BOE-A-1985-9861, con nota de la STC 9/1990; arts. 4, 7 y
+  9 según LO 5/2010, BOE-A-2010-9953; disposición transitoria 1.ª derogada).
 - LO 2/1984, BOE-A-1984-7248, consolidado (una sola redacción): arts. 1-8.
 - LO 2/1997, BOE-A-1997-13374: arts. 1, 2 y 3, tomados del tema 6 del común.
-- Sentencia del TC 27/2020, de 24 de febrero, BOE-A-2020-4112: fundamentos citados y fallo.
+- Sentencia del TC 27/2020, de 24 de febrero, BOE-A-2020-4112 (BOE núm. 84, de 26-III-2020): antecedente
+  2, letras a) a f) (hechos y sentencia del TS 91/2017, con las citas sobre el consentimiento),
+  fundamento jurídico 4 y fallo.
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004:
-  Introducción; 1.5 (p. 31); 1.6 y 1.9 (p. 32); 2.3.2.1 (p. 37); 2.3.2.10 y 2.3.2.11; 2.3.2.13
-  (p. 39).
+  Introducción; 1.5 (p. 31); 1.6 y 1.9 (p. 32); 2.3.2.1 (p. 37); 2.3.2.10 (pp. 38-39); 2.3.2.11 y
+  2.3.2.13 (p. 39).
 - Carta ética mundial para periodistas de la FIP, 30.º Congreso Mundial, Túnez, 12 de junio de 2019:
   arts. 6, 7 y 15.
-- Manual de estilo de la Corporación RTVE, versión web, capítulo 1 (respeto a la intimidad, al honor y
-  a la propia imagen).
+- Manual de estilo de la Corporación RTVE, versión web, capítulo 1, 1.1.3.1 «Los pilares del respeto»
+  y 1.1.3.2 «La intimidad de las víctimas».
+- Reglamento (UE) 2024/1083, Diario Oficial de la Unión Europea de 17-IV-2024, texto original sin
+  consolidar: arts. 4.3 y 29.

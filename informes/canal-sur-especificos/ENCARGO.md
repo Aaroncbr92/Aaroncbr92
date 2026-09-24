@@ -21,6 +21,10 @@ confirmar se quita.** Un hueco declarado vale más que un dato inventado.
 
 - **Fuente de una norma**: el BOE/BOJA vigente (`herramientas/boe.py precepto <id> <bloque>`,
   volcados en `fuentes/canal-sur/`). No leas volcados enteros: saca el precepto o usa `grep -n -A40`.
+- **PDF y documentos sin articulado del BOE** (BOJA, convenio, Carta, informes): nunca los leas
+  enteros ni escribas tu propio extractor. `herramientas/documento.py texto <pdf>` lo pasa a `.txt`
+  limpio; `documento.py indice <fichero>` da sus rótulos; `documento.py seccion <fichero> 33` (o
+  «Disposición transitoria tercera», «Anexo II») imprime sólo ese trozo.
 - **Fuente técnica** (oficio, equipos, formatos): normas y recomendaciones publicadas (UIT, EBU,
   SMPTE, AES, UNE, ISO), documentación del fabricante, manuales universitarios y organismos
   oficiales. Cita cada una en «Trazabilidad». Lo que sólo es costumbre de oficio se dice como tal,

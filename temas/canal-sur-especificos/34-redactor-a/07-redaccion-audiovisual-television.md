@@ -8,14 +8,14 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma. Libro de estilo de Canal Sur Televisión (2004); Manual de estilo de RTVE (capítulo de TVE) para el in situ y los rótulos |
 | Redacción que se estudia | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004; Manual de estilo de RTVE en su versión web, leídos el 24-09-2026 |
-| Extensión | 4.202 palabras |
+| Extensión | 4.396 palabras |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV); Corporación de Radio y Televisión Española (RTVE); Televisión Española (TVE).
 El Libro de estilo de Canal Sur usa «CSTV» por Canal Sur Televisión y habla de «Canal 2 Andalucía»,
-nombre de la segunda cadena en 2004. Llama «vídeo» a lo que en otras redacciones se llama «pieza».
+nombre de la segunda cadena en 2004. Llama casi siempre «vídeo» a lo que el Manual de estilo de RTVE llama «pieza».
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.34, punto 7): «Redacción audiovisual para
 > televisión: estructura de la noticia, entradilla, off, totales, colas, piezas, titulares, rótulos,
@@ -101,8 +101,8 @@ relevancia de cada elemento»** (p. 45).
   más de nueve o diez palabras, apoyadas en datos precisos. El orden sujeto/verbo/predicado es el más
   ortodoxo pero no hasta el extremo de convertir el texto en un elemento monocorde y telegráﬁco.»** (p. 45)
 - Axioma del libro: **«No digas lo que vas a decir, dilo.»** (p. 44)
-- El libro asume las máximas de Grice —cantidad, calidad, pertinencia y manera, esta última resumida en
-  **«Evita expresiones rebuscadas. Evita la ambigüedad. Sé breve. Sé ordenado.»**— y dice que esa
+- El libro asume las máximas de Grice —cantidad, calidad, pertinencia y manera, esta última desglosada en
+  **«Evita expresiones rebuscadas»**, **«Evita la ambigüedad»**, **«Sé breve»** y **«Sé ordenado»**— y dice que esa
   teoría **«debe impregnar todos los formatos de Canal Sur TV y Canal 2 Andalucía»** (3.1, p. 44).
 
 ### Imágenes falsas y música
@@ -118,8 +118,8 @@ excede de un minuto»** (p. 46; la errata «e para» es del original).
 
 ## 2. Entradilla
 
-La palabra no significa lo mismo en todas las redacciones. En Canal Sur no es el primer párrafo ni el
-texto que lee el presentador, sino la aparición del redactor en cámara:
+En el Libro de estilo, «entradilla» no es el primer párrafo ni el texto que lee el presentador (eso es
+el «paso de locutor»), sino la aparición del redactor en cámara:
 
 > **«A lo largo del tiempo, la costumbre ha hecho que, en CSTV y Canal 2 Andalucía, denominemos
 > 'entradilla', 'medianilla' y 'salidilla' a la aparición del redactor dentro de un vídeo en función de
@@ -129,15 +129,15 @@ El Manual de estilo de RTVE usa los mismos tres nombres para lo que llama «in s
 aparición en imagen del informador en el transcurso de una pieza. Es un recurso que permite, además de
 reforzar la credibilidad, personalizar la información. El informador debe saber si el in situ será
 entradilla, medianilla o salidilla, es decir, si irá al comienzo, en medio o al final de la pieza, lo
-cual determinará el contenido»** (2.4.4). El Libro de estilo recoge también el término inglés: **«el
+cual determinará el contenido»** (2.4.4). El Libro de estilo recoge también el término inglés: **«En caso de duda, el
 llamado stand up se grabará en el lugar de los hechos y se consultará posteriormente la conveniencia de
-editarlo»** (8.1.1, p. 113).
+editarlo»** (8.1, consideración 1.ª, p. 113).
 
 ### Cuál de las tres
 
 | Posición | Lo que dice el Libro de estilo (8.2.2, pp. 115-116) |
 |---|---|
-| Entradilla | **«La recomendación es que, salvo que se pacte por alguna razón, descartemos la presencia al comienzo del vídeo para evitar redundancias con el presentador y para no demorar la aparición de la noticia en sí misma.»** |
+| Entradilla | **«La recomendación es que, salvo que se pacte por alguna razón, descartemos la presencia al comienzo del vídeo para evitar redundancias con el presentador y para no demorar la aparición de la noticia en sí misma. Si fuera imprescindible, se coordinarán los términos del paso de locutor y los que se expresen en la aparición del redactor para que no sean repetitivos ni contradictorios.»** |
 | Medianilla | **«especialmente útil cuando queremos hacer una transición de dos escenarios diferentes dentro de la misma información o a dos facetas distintas de ésta. También lo es cuando pasamos de una imagen actual a otra de archivo»** |
 | Salidilla | **«La 'salidilla' es la fórmula más recomendable. Sirve para poner epílogo al vídeo, para complementarlo con algún detalle anecdótico que no ha sido grabado o bien para hacer referencia a las consecuencias del hecho que hemos narrado. La opinión queda descartada y los interrogantes no son recomendables»** |
 
@@ -149,11 +149,12 @@ que nutrirán la pieza, se habrá limitado la posibilidad de un montaje coherent
 
 - Quién sale: **«La Dirección de los Servicios Informativos determinará, con carácter general, quiénes
   son los redactores que aparecerán en pantalla.»** (8.2, p. 115)
-- Cuándo (8.2.1, p. 115), cuatro supuestos: mostrar que **«'estamos allí'»**; información fuera de
+- Cuándo: **«El periodista sólo aparecerá como inserción dentro de su propio vídeo cuando sea
+  imprescindible.»** (8.2, p. 115). Sólo en cuatro supuestos (8.2.1, p. 115): mostrar que **«'estamos allí'»**; información fuera de
   Andalucía, como **«'enviados especiales'»** —**«No debemos incurrir en el error de aludir o rotular de
   este modo al periodista que atiende una información dentro de territorio andaluz, ni a los miembros de
-  corresponsalías o delegaciones estables»**—; imagen inexistente o insuficiente; y formato de programa
-  con el periodista como hilo conductor.
+  corresponsalías o delegaciones estables»**—; imagen inexistente o insuficiente para contar una noticia
+  importante, o un detalle no grabado; y formato de programa con el periodista como hilo conductor.
 - Cuánto: **«La aparición debe ser clara, sencilla y breve, noticiosa en sí misma y no se prolongará,
   como referencia, por encima de los quince o veinte segundos.»** (8.2.1, p. 115)
 - Voz: **«El periodista deberá estar atento para grabar su intervención en un tono de voz natural, que
@@ -164,8 +165,8 @@ que nutrirán la pieza, se habrá limitado la posibilidad de un montaje coherent
 
 ### El paso de locutor
 
-Lo que otras redacciones llaman entradilla del presentador es, en el Libro de estilo, el «paso de
-locutor» (3.14, pp. 55-56):
+El texto que lee el presentador antes del vídeo es el **«paso de locutor que da entrada a un vídeo»** (3.13,
+p. 55), tratado en 3.14 (pp. 55-56):
 
 - **«El paso de locutor no es un género periodístico, pero es un elemento clave del periodismo
   televisivo: propone lo más singular o excepcional de la información y, por este medio, provoca la
@@ -217,13 +218,14 @@ técnicos. También denominamos así a los que se incluyen como cortes dentro de
 - El texto que lo precede: **«no puede incluir frases o expresiones que enuncien miméticamente el
   contenido de la declaración. En igual sentido, cuando esté registrada, la pregunta debe quedar
   implícita en la locución y no aparecerá en el montaje ﬁnal.»**
-- Al grabarlo: **«repetiremos la pregunta hasta lograr una frase cerrada, breve y completa, de entre
+- Al grabarlo: **«sólo cuando sea preciso, repetiremos la pregunta hasta lograr una frase cerrada, breve y completa, de entre
   diez y quince segundos»**, y al entrevistado **«no accederemos, en circunstancias cotidianas, a que
   revise la grabación»** (3.17.1.4, p. 60).
 - En lengua extranjera (3.7.1, p. 52): en totales de diez o quince segundos se descarta, **«cuando sea
   posible, la voz superpuesta a modo de doblaje»**, y se prefiere **«la rotulación a modo de subtítulos
-  resumidos»**; en formatos largos, voz superpuesta, y **«el sonido original irá en canal 2 de audio y
-  el doblaje por el canal 1.»**
+  resumidos»**; en formatos de amplia duración, voz superpuesta. Con subtítulos, el texto será de síntesis
+  para oír la voz original al principio y al final de cada frase, y **«En este caso, el sonido original irá
+  en canal 2 de audio y el doblaje por el canal 1.»**
 
 ## 5. Colas
 
@@ -255,14 +257,14 @@ sobre las cuales el locutor lee un texto que se ajusta a la secuencia.»** (3.9,
 |---|---|---|
 | Noticia básica | **«no excede de un minuto»** | 3.2.2, p. 46 |
 | Reportaje en espacio diario | **«no supere los tres minutos»** | 3.4, p. 47 |
-| Crónica | **«no debe exceder de los dos minutos»**, salvo casos excepcionales previamente establecidos | 3.5, p. 49 |
-| Entrevista en informativo diario | **«no debe prolongarse por encima de tres minutos»** | 3.17.2.1, p. 62 |
-| Titular | no **«por encima de los diez segundos»** | 3.6, p. 50 |
+| Crónica | **«no debe exceder de los dos minutos»**, **«salvo casos excepcionales previamente establecidos»** | 3.5, p. 49 |
+| Entrevista en informativo diario (**«la fórmula es inhabitual»**) | **«no debe prolongarse por encima de tres minutos»** | 3.17.2.1, p. 62 |
+| Titular | recomendable no **«por encima de los diez segundos»** | 3.6, p. 50 |
 | Breves | **«aproximada de 15 ó 20 segundos»** cada una | 3.8, p. 52 |
 | Aparición del redactor | **«quince o veinte segundos»** | 8.2.1, p. 115 |
 | Total, al grabarlo | **«entre diez y quince segundos»** | 3.17.1.4, p. 60 |
-| Gráfico | **«presencia mínima recomendable de ocho segundos»**; **«no más de cuatro o cinco elementos por pantalla»** | 3.16, p. 57 |
-| Plano | **«no son admisibles los planos de menos de un segundo»**; recurso corto, **«duración estándar mínima de dos segundos»** | 6.3.2, p. 91 |
+| Gráfico | **«presencia mínima recomendable de ocho segundos»**; que no incluya **«más de cuatro o cinco elementos por pantalla»** | 3.16, p. 57 |
+| Plano | **«no son admisibles los planos de menos de un segundo»**; recurso corto, es recomendable una **«duración estándar mínima de dos segundos»** | 6.3.2, p. 91 |
 
 ### Informe, reportaje y crónica
 
@@ -294,7 +296,8 @@ importante, relevante y sugestivo de un informativo.»** (3.6, pp. 50-51)
   previamente grabado»**.
 - Lenguaje: **«excluiremos las fórmulas condicionales (podría, tal vez, posiblemente) y partículas o
   expresiones negativas, especialmente el no»**.
-- Tópicos (3.6.1): ni títulos de canciones, películas o dichos. **«Tampoco deben aparecer siglas, salvo
+- Tópicos (3.6.1, p. 50): ni en el texto ni en los rótulos, títulos de canciones, películas, novelas, obras
+  de teatro, dichos populares o términos copiados, ni adaptaciones de ellos. **«Tampoco deben aparecer siglas, salvo
   que sean sobradamente conocidas»**.
 - Imágenes: **«Los titulares son el escaparate con lo excepcional y novedoso. No son un catálogo
   desordenado de noticias, ni deben montarse, salvo excepciones muy justiﬁcadas e insalvables, con
@@ -324,10 +327,10 @@ errores, especialmente ortográficos.»**
 | Declaración a cámara de un líder político: **«sólo se necesita el rótulo correspondiente»** | Libro de estilo 4.3, p. 68 |
 | Total en lengua extranjera: **«la rotulación a modo de subtítulos resumidos»** | Libro de estilo 3.7.1 |
 | «Enviado especial»: no se rotula así a quien cubre en Andalucía ni a corresponsalías o delegaciones estables | Libro de estilo 8.2.1 |
-| Imágenes de archivo: **«será obligatorio insertar un rótulo que advierta de que son de imágenes de archivo y, preferentemente, con indicación de la fecha»** | Manual de RTVE, cap. 2 |
+| Imágenes de archivo, cuando una noticia sin imágenes actuales las aconseje: **«será obligatorio insertar un rótulo que advierta de que son de imágenes de archivo y, preferentemente, con indicación de la fecha»** | Manual de RTVE, 2.1.2 |
 
 Los rótulos de los gráficos se ciñen a las normas lingüísticas del libro (3.16.2, p. 58), y el Manual de
-RTVE advierte de que **«la concentración de recursos audiovisuales (Voz en off, imágenes, testimonios,
+RTVE (2.2.6) advierte de que **«la concentración de recursos audiovisuales (Voz en off, imágenes, testimonios,
 mapas, rótulos, gráficos, etc.) en un tiempo breve puede perturbar la claridad y comprensión del
 mensaje»**.
 
@@ -345,10 +348,11 @@ lanzadera, plano y cámara del presentador, movimientos de cámara, elementos vi
 **«La mayor parte de estos elementos se reﬂejan en los partes de emisión, que contemplan además las
 vías de sonido, coleo del vídeo, rótulos, observaciones y el pie del texto de la noticia.»** (p. 88)
 
-En informativos, la escaleta es un documento vivo: cambia hasta el momento de la emisión, y con ella los
-tiempos (costumbre de oficio). Lo que no cambia es el nombre: **«Son inadmisibles los cambios en la
-identiﬁcación de un vídeo [...] El nombre de una noticia en escaleta debe respetarse por obligación.»**
-(6.1.1). El redactor fija en ella **«sus textos deﬁnitivos (incluidos los rótulos con su orden y
+La escaleta cambia: **«Cualquier cambio del contenido de la escaleta debe comunicarse, desde el origen de
+la decisión, inmediata y simultáneamente, a todas las personas y departamentos afectados.»** (6.1, p. 88).
+Lo que no cambia es el nombre: **«Son inadmisibles los cambios en la identiﬁcación de un vídeo [...] El
+nombre de una noticia en escaleta debe respetarse por obligación.»** La única excepción: un vídeo
+terminado antes de hacerse la escaleta, cuyo nombre traslada a ella el equipo de edición (6.1.1, p. 88). El redactor fija en ella **«sus textos deﬁnitivos (incluidos los rótulos con su orden y
 ubicación precisa)»** (6.1.2, p. 89).
 
 ### Del texto a la cabina y a la sala de edición
@@ -356,15 +360,15 @@ ubicación precisa)»** (6.1.2, p. 89).
 - A cabina se llega **«con los textos ajustados y revisados, con la imagen estudiada y minutada, con un
   mínimo esquema narrativo»** (cap. 6, p. 88).
 - **«La edición debe acometerse siempre con una escaleta de planos, acompañada de un minutaje
-  preciso»** (6.3, p. 91).
+  preciso, tanto como permitan las circunstancias»** (6.3, p. 91).
 
 ### El sistema de redacción
 
-En las televisiones, guion, escaleta y minutado suelen vivir en un sistema integrado de producción y
-emisión de noticias: donde se escribe la noticia, se ordena la escaleta, se calculan los tiempos y del
-que bebe el teleprónter, de modo que un cambio en el texto llega al presentador sin volver a escribirlo
-(costumbre de oficio). El Libro de estilo no describe un formato de guion concreto ni nombra el programa
-que usa CSRTV.
+Lo que el redactor deja en la escaleta es de todo el equipo: **«El redactor ha de ﬁjar siempre en
+escaleta sus textos deﬁnitivos (incluidos los rótulos con su orden y ubicación precisa) y los pasos de
+locutor que le hayan sido asignados. Así quedan disponibles para el resto del equipo del programa y para
+posteriores ediciones de informativos.»** (6.1.2, p. 89). El Libro de estilo no describe un formato de
+guion concreto ni nombra el programa informático que usa CSRTV.
 
 ## 10. Relación texto-imagen
 
@@ -382,7 +386,7 @@ imparcialidad»** (6.2, p. 89); el libro pone el ejemplo del diputado bostezando
 | Condición | Contenido |
 |---|---|
 | Redundancia | **«No hay que insistir [...] con una adjetivación prolija, sobre imágenes dotadas de suﬁciente capacidad informativa»** (ejemplo del aguacero y los «sesenta litros por metro cuadrado») |
-| Agilidad y cadencia | Planos de un segundo como mínimo; recurso corto, dos |
+| Agilidad y cadencia | Ningún plano de menos de un segundo; en planos cortos de recurso, dos como mínimo recomendable |
 | Concordancia | **«nunca, por ejemplo, citaremos al ministro de Trabajo sobre un plano corto del titular de Economía»** |
 | Armonía | El archivo, agrupado **«en una misma secuencia»** |
 
@@ -408,10 +412,11 @@ formato establecido por los editores, responsables de todo el proceso.»** (cap.
   destinadas a emitirse en otros informativos de ambas cadenas»**, **«sin romper los márgenes del
   convenio colectivo»**. Para la reemisión, **«eludiremos la inclusión de adverbios de tiempo: no
   usaremos hoy, ayer o mañana en beneﬁcio de fórmulas menos concretas (este lunes, la semana
-  entrante...)»**.
-- Presente (3.15.1): **«mejor que decir las tropas españolas han llegado a Iraq es preferible las tropas
-  españolas llegan a Iraq»**, para que los vídeos **«tengan una pervivencia mínima de 24 horas»**.
-- Cifras en gráficos (3.16): **«una cuarta parte, un tercio, la mitad, nueve de cada diez... mejor que
+  entrante...)»** (pp. 56-57).
+- Presente (3.15.1, p. 57): **«mejor que decir las tropas españolas han llegado a Iraq es preferible las tropas
+  españolas llegan a Iraq»**, para que los vídeos —en general informes, crónicas y reportajes— **«tengan una pervivencia mínima de 24
+  horas»** desde su primera emisión.
+- Cifras (3.16.1 y 3.16.2, p. 58): **«una cuarta parte, un tercio, la mitad, nueve de cada diez... mejor que
   porcentajes escuetos»**, salvo la microeconomía, que **«se mide por décimas o centésimas»**.
 
 ## Lo que este tema no da, y dónde está
@@ -429,5 +434,4 @@ formato establecido por los editores, responsables de todo el proceso.»** (cap.
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9 | Todo el tema salvo lo atribuido a RTVE | 24-09-2026 |
-| Manual de estilo de RTVE (web), capítulo 2 (TVE), 2.2.8 y 2.4.4 | In situ; rótulos; rótulo de archivo; concentración de recursos | 24-09-2026 |
-| Costumbre de oficio, sin norma | Escaleta como documento vivo; sistema integrado de redacción | — |
+| Manual de estilo de RTVE (web, manualdeestilo.rtve.es/tve), capítulo 2 (TVE): 2.1.2, 2.2.6, 2.2.8 y 2.4.4 | Rótulo de archivo; concentración de recursos; rótulos; in situ; el término «pieza» | 24-09-2026 |

@@ -8,13 +8,13 @@
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
 | **Fuente** | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004; X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo de definición de funciones; Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`); Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023); Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023); Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno (BOJA núm. 219, de 11/11/2015). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Los artículos 9, 10 y 17 de la Ley 18/2007 conservan su redacción original; el convenio está prorrogado sin modificación publicada |
-| **Extensión** | 5.400 palabras aproximadamente |
+| **Extensión** | 5.600 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
 (**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Canal Sur Televisión (**CSTV**, sigla
-que usa el propio Libro de Estilo); Boletín Oficial de la Junta de Andalucía (**BOJA**); televisión digital terrestre (**TDT**);
+que usa el propio Libro de Estilo); Boletín Oficial de la Junta de Andalucía (**BOJA**);
 servicio de vídeo por internet (*over the top*, **OTT**). «El Libro
 de Estilo» es el de Canal Sur Televisión de 2004; «el convenio», el X Convenio Colectivo de la
 RTVA; «la Carta», la Carta del Servicio Público 2024-2029; «el contrato-programa», el de 2024-2026.
@@ -40,7 +40,8 @@ televisión: «**este LIBRO DE ESTILO nace con la idea de ser un manual de perio
 (Introducción). No cubre la radio. Se define como «**un conjunto de recomendaciones periodísticas
 y una selección de métodos de trabajo**», pero advierte que «**hay casos en los que se marca una
 conducta obligatoria o se señala un comportamiento inaceptable. En estos casos no hay elección
-posible**». Usa la terminología de su tiempo (cinta, Canal 2 Andalucía, Sección Local).
+posible**». Y, aun con «**una prudente elasticidad**», sus normas «**en modo alguno pueden
+incumplirse o tomarse a la ligera**». Usa la terminología de su tiempo (cinta, Canal 2 Andalucía, Sección Local).
 
 <!-- indice -->
 
@@ -165,7 +166,7 @@ Los tres niveles (4.2.1) sirven para decidir cuánto trabajo merece cada asunto 
 
 ### Lo que dicen, y lo que no, los documentos de la RTVA
 
-El Libro de Estilo **no usa la expresión «mesa de redacción»** ni describe una reunión diaria de
+El Libro de Estilo no usa la expresión «mesa de redacción» ni describe una reunión diaria de
 planificación. Lo que documenta son las figuras que deciden y cómo se relacionan: la Dirección de
 los Servicios Informativos, la Jefatura de Redacción, las jefaturas de sección, los editores, los
 productores y el realizador. La mesa como reunión en la que esas figuras reparten el trabajo del
@@ -174,7 +175,7 @@ día es costumbre de oficio, sin descripción en un documento publicado de la RT
 ### Los puestos de un informativo (oficio)
 
 La estructura de un informativo tiene sus propios nombres, distintos de los de un programa de
-entretenimiento. El reparto de uso corriente en la televisión española es este:
+entretenimiento. Un reparto habitual, que es costumbre de oficio y no norma, es este:
 
 | Puesto | De qué responde |
 |---|---|
@@ -183,7 +184,7 @@ entretenimiento. El reparto de uso corriente en la televisión española es este
 | Redactor jefe | Coordina a los redactores de un área |
 | Realizador | La imagen que sale |
 | Productor ejecutivo | El control general del proyecto |
-| Redactor | Escribe y monta su pieza |
+| Redactor | Escribe su pieza y participa en su montaje (el convenio: «**Coordinar y participar en el montaje y grabación de las noticias**») |
 
 El jefe de informativos responde del área —de todas las ediciones, de la plantilla, de la línea
 editorial general—; el editor responde de una edición concreta, día a día, y es quien decide su
@@ -243,12 +244,14 @@ acompañada de un minutaje preciso**» (6.3).
 La producción trabaja en paralelo con la edición:
 
 - «**Los productores, de acuerdo con los editores, fijarán el rango y la prioridad de cada
-  información, y vigilarán su acatamiento**» (4.4.1).
+  información, y vigilarán su acatamiento**», aunque con flexibilidad suficiente para buscar
+  vías alternativas o atender necesidades que surjan (4.4.1).
 - Las peticiones a producción, salvo urgencia extrema, «**se cursarán por escrito, a través de los
-  cauces ofimáticos habituales, y con la mayor precisión**» (4.4); las propuestas entre
-  periodistas, técnicos y productores «**nunca se formularán de viva voz, sino por un medio del
-  que quede constancia**», y «**El acuerdo final es obligatorio para todos.**»
-- Si choca el coste con la información: el productor vista presupuestariamente las demandas de
+  cauces ofimáticos habituales, y con la mayor precisión**» (4.4). En la medida de lo posible,
+  las propuestas entre periodistas, técnicos y productores «**nunca se formularán de viva voz,
+  sino por un medio del que quede constancia, sobre todo en asuntos de envergadura. El acuerdo
+  final es obligatorio para todos.**» (4.4.4, punto 6).
+- Si choca el coste con la información: el productor visa presupuestariamente las demandas de
   los Servicios Informativos, y «**Cuando las posturas no puedan armonizarse decidirá la Dirección
   de los Servicios Informativos.**» (4.4.3).
 
@@ -293,18 +296,23 @@ mismo segundo de la emisión, y con ella cambia el minutado.
 
 - **Minutado de emisión**: la escaleta con tiempos. Cada línea lleva su duración prevista, su
   duración acumulada y su hora de emisión estimada, de modo que en cualquier momento se sabe cuánto
-  sobra o cuánto falta. En un telediario, cada línea es una pieza, con su vocabulario propio:
-  entradilla (lo que el presentador dice antes de la pieza), total (el corte de declaraciones),
-  colas (imágenes con su sonido ambiente sobre las que locuta el presentador; no significa
-  «final»), directo (la conexión con el enviado), off (la locución del redactor sobre imágenes).
+  sobra o cuánto falta. En un telediario, cada línea es una pieza, con su vocabulario propio. El
+  Libro de Estilo fija tres términos: el texto que lee el presentador antes de la pieza es el
+  «paso de locutor» (6.1.2); los totales son las declaraciones (3.7); las colas son el
+  «**Conjunto de imágenes editadas, habitualmente en orden cronológico y con sonido ambiente,
+  sobre las cuales el locutor lee un texto que se ajusta a la secuencia**» (3.9). Ojo: en Canal
+  Sur, «entradilla» es otra cosa, la aparición del redactor al principio de su vídeo (8.2.2). De
+  oficio: el directo es la conexión con el reportero en el lugar, y el off, la locución del
+  redactor sobre imágenes.
 - **Minutado del material grabado**: describir con precisión los planos ya rodados, uno a uno, con
   su código de tiempo, su contenido, su duración y su calidad, para que el montador sepa qué hay
   sin volver a verlo todo.
 
 ## Asignación de coberturas
 
-La asignación es tarea del editor. No lo dice el Libro de Estilo, sino el convenio, al definir las
-tareas del Secretario/a de Redacción: «**Colaborar en el seguimiento de la asignación de
+La asignación de redactores a las noticias la hace el editor. El Libro de Estilo habla de un
+«**responsable de las asignaciones**» (4.4.1) sin decir quién es; quien lo dice es el convenio,
+al definir las tareas del Secretario/a de Redacción: «**Colaborar en el seguimiento de la asignación de
 redactores a las noticias por el editor y del estado de terminación de las mismas.**»
 
 Una vez asignada la cobertura:
@@ -348,11 +356,11 @@ disponibles en directo y «a petición» en web y plataformas digitales.
   nomenclatura fijada en escaleta para los vídeos que se soliciten como aportación a los
   informativos en cadena.**» Si el vídeo ya se emitió en desconexión con otro nombre, el envío a
   los Servicios Centrales se identifica con el nombre de la escaleta de cadena.
-- **Tema, orientación y duración** (7.4): «**Las aportaciones de los centros territoriales a las
+- **Tema, orientación y duración** (7.4.2): «**Las aportaciones de los centros territoriales a las
   emisiones en cadena deben ceñirse escrupulosamente al tema, la orientación y la duración
   establecida por los equipos de edición. Lo mismo debe cumplirse en la ronda de
   desconexiones.**»
-- **Coherencia**: las desconexiones «**no son espacios aislados, autónomos e independientes**»;
+- **Coherencia** (7.4): las desconexiones «**no son espacios aislados, autónomos e independientes**»;
   «**están obligadas a aplicar un criterio de coherencia estética y conceptual con la edición
   general en la que se integran y de la que son tributarias**».
 - **Versiones** (3.15.1): «**Los centros territoriales, siempre que sea posible, deben tener en
@@ -362,7 +370,7 @@ disponibles en directo y «a petición» en web y plataformas digitales.
 - **Interés general sobre el local** (7.4.1): «**CSTV no es un grupo de emisoras locales
   asociadas, sino una televisión pública y generalista para toda Andalucía. Los pruritos locales
   deben ceder, en ocasiones, para beneficio global de la cadena**».
-- **Error típico** (7.4.2): «**dar dimensión provincial a noticias que sólo afectan a la
+- **Defecto habitual** (7.4.2): «**dar dimensión provincial a noticias que sólo afectan a la
   capital**» (una subida del autobús o del agua que sólo es de la capital).
 
 ## Directos
@@ -391,7 +399,8 @@ conflicto o de impacto social**» (cap. 6).
 - Al redactor «**se le pueden encargar versiones, con un formato pactado, destinadas a emitirse en
   otros informativos de ambas cadenas**», «**sin romper los márgenes del convenio colectivo**»
   (3.15).
-- Si un vídeo se reemite sin tocar, se eluden los adverbios de tiempo: no *mañana comienza el
+- Si un vídeo se reemite sin tocar, como norma general y siempre que pueda preverse, se eluden
+  los adverbios de tiempo: no *mañana comienza el
   Festival*, sino *este sábado comienza el Festival*.
 - Se prefiere el presente histórico (*las tropas llegan*, mejor que *han llegado*) para que
   informes, crónicas y reportajes «**tengan una pervivencia mínima de 24 horas desde su primera
@@ -403,7 +412,8 @@ conflicto o de impacto social**» (cap. 6).
 
 El contrato-programa sitúa los informativos de cadena «**en las franjas de mañana, mediodía y de
 noche, con amplias duraciones**» (3.1.5), y todos los contenidos informativos, generales y
-provinciales, se ofrecen en directo por TDT, en directo *online* y en diferido «a petición» en la
+provinciales, de radio y de televisión, se ofrecen en directo por ondas hertzianas terrestres,
+en directo *online* y en diferido «a petición» en la
 plataforma OTT «Canal Sur Más», además de una oferta de audio informativo en la «**plataforma de
 Podcast**» propia (3.1.9).
 
@@ -508,19 +518,19 @@ vigente*: ni su estructura, ni la composición del Consejo Profesional, ni el ma
 miembros, ni su régimen de derechos y deberes. Lo que se puede estudiar con seguridad es lo de
 los epígrafes anteriores: lo que dicen la Ley 18/2007 y la Carta.
 
-El enlace «Estatuto Profesional» de la web de Canal Sur lleva a un texto fechado el 25 de octubre
-de 2006, anterior a la Ley 18/2007, que habla de estructuras que ya no existen (Canal 2
+El enlace «Estatuto Profesional» de la web de Canal Sur lleva a un texto publicado en un blog el 25
+de octubre de 2006, anterior a la Ley 18/2007, que habla de estructuras que ya no existen (Canal 2
 Andalucía, el teletexto, dos sociedades con un Consejo Profesional cada una). No es el vigente.
 Sólo como referencia de cómo se ha organizado la figura, ese texto atribuía la facultad de
 decidir sobre la emisión de las informaciones al director de los servicios informativos, al
 subdirector y a los jefes de informativos de cada medio, con el deber de explicar la no emisión
-al jefe de la sección o edición y al autor; y reconocía al autor el derecho a no firmar una
-información modificada sustancialmente. No hay que dar esas reglas por vigentes en una pregunta.
+al jefe de la sección o edición y al autor; y reconocía al autor de una información corregida o
+modificada sustancialmente el derecho a no incorporar su firma, su voz, su imagen o su nombre. No hay que dar esas reglas por vigentes en una pregunta.
 
 ### Las fichas de puesto del convenio
 
-El convenio (anexo de definición de funciones) es el único documento publicado que describe los
-puestos de la redacción. Del **Redactor**:
+El convenio (anexo III, «Definición de funciones») es el único documento publicado localizado que
+describe los puestos de la redacción. Del **Redactor**:
 
 - «**OBJETO O FUNCIÓN BÁSICA DEL PUESTO**»: «**Buscar, evaluar, proponer, elaborar y comunicar
   las informaciones consideradas de interés para su difusión.**»
@@ -579,13 +589,14 @@ Todas las fuentes se leyeron el 24/09/2026.
 
 | Fuente | Qué sostiene |
 |---|---|
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo de 2004, ISBN 84-609-0453-9: Introducción; 3.11, 3.15, 3.15.1; cap. 4 (4.1, 4.1.1, 4.2, 4.2.1, 4.4, 4.4.1, 4.4.3); 5.6; cap. 6 (6.1, 6.1.1, 6.1.2, 6.3, 6.5, 6.5.1); 7.4, 7.4.1, 7.4.2; 8.1 (punto 6), 8.2, 8.2.1, 8.5 | Agenda, edición, escaleta, coberturas, cadena y desconexión, directos, continuidad y programas |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo de 2004, ISBN 84-609-0453-9: Introducción; 3.7, 3.9, 3.11, 3.15, 3.15.1; cap. 4 (4.1, 4.1.1, 4.2, 4.2.1, 4.4, 4.4.1, 4.4.3, 4.4.4); 5.6; cap. 6 (6.1, 6.1.1, 6.1.2, 6.3, 6.5, 6.5.1); 7.4, 7.4.1, 7.4.2; 8.1 (punto 6), 8.2, 8.2.1, 8.2.2, 8.5 | Agenda, edición, escaleta, coberturas, cadena y desconexión, directos, continuidad y programas |
 | Ley 18/2007 (`BOE-A-2008-1185`), texto consolidado | Artículos 9, 10 y 17.1.m) |
 | Acuerdo de 3/11/2015, BOJA núm. 219 | Fusión por absorción y denominación de CSRTV |
 | Carta del Servicio Público 2024-2029, BOJA núm. 247/2023 | Artículo 13.8 y 13.10 |
 | Contrato-programa 2024-2026, BOJA núm. 245/2023 | Cláusula tercera, 3.1.4, 3.1.5, 3.1.6 y 3.1.9 |
-| X Convenio Colectivo RTVA, BOJA núm. 240/2014, anexo de definición de funciones | Fichas de Redactor y Secretario/a de Redacción |
-| Texto del Estatuto profesional de 25/10/2006 (blog consejoradiortva.blogspot.com, enlazado desde la web de Canal Sur) | Sólo la referencia histórica, declarada no vigente |
+| X Convenio Colectivo RTVA, BOJA núm. 240/2014: art. 5 (prórroga automática salvo denuncia) y anexo III, definición de funciones | Fichas de Redactor y Secretario/a de Redacción |
+| Registro de convenios (REGCON), consulta pública del código 71000253011989 | Ningún trámite inscrito después del X Convenio (10/12/2014) |
+| Texto del Estatuto profesional en una entrada de 25/10/2006 (blog consejoradiortva.blogspot.com, enlazado desde la web de Canal Sur), apartados 10.3 y 10.4 | Sólo la referencia histórica, declarada no vigente |
 
 **Oficio sin norma detrás**, y así se declara: la tabla de puestos de un informativo, la
 definición genérica de escaleta y las dos acepciones de minutado. La denominación de los puestos

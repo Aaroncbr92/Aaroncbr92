@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 18 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 10 y 17) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
+| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 5.4, 10, 15.3, 17, 33.2 y 34.1) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
 | Redacción que se estudia | La vigente el 24-09-2026. El Estatuto profesional vigente no está publicado; el Libro de estilo es de 2004 y cita normas hoy derogadas; la fecha de la norma del Defensor no consta con certeza |
-| Extensión | 7.322 palabras |
+| Extensión | 7.392 palabras |
 
 <!-- /portada -->
 
@@ -38,15 +38,38 @@ días) y en cuál responde él a la audiencia.
 ## Índice
 
 - [1. La Carta ética mundial para periodistas de la FIP](#1-la-carta-ética-mundial-para-periodistas-de-la-fip)
+  - [Qué es, quién la adopta y qué completa](#qué-es-quién-la-adopta-y-qué-completa)
+  - [El preámbulo: la jerarquía de responsabilidades](#el-preámbulo-la-jerarquía-de-responsabilidades)
+  - [Los deberes con la verdad: artículos 1 a 6](#los-deberes-con-la-verdad-artículos-1-a-6)
+  - [Los deberes con las personas: artículos 7 a 10](#los-deberes-con-las-personas-artículos-7-a-10)
+  - [Los deberes con la independencia: artículos 11 a 14](#los-deberes-con-la-independencia-artículos-11-a-14)
+  - [La cláusula de conciencia y la autorregulación: artículos 15 y 16](#la-cláusula-de-conciencia-y-la-autorregulación-artículos-15-y-16)
 - [2. El Estatuto profesional de RTVA/CSRTV](#2-el-estatuto-profesional-de-rtvacsrtv)
+  - [Lo que dice la Ley 18/2007](#lo-que-dice-la-ley-182007)
+  - [Lo que dice la Carta](#lo-que-dice-la-carta)
+  - [El marco general: cláusula de conciencia y secreto profesional](#el-marco-general-cláusula-de-conciencia-y-secreto-profesional)
+  - [El texto vigente no está publicado](#el-texto-vigente-no-está-publicado)
+  - [El texto anterior que enlaza la web de Canal Sur (no vigente)](#el-texto-anterior-que-enlaza-la-web-de-canal-sur-no-vigente)
+  - [Lo que el texto de 2006 dice al redactor (no vigente)](#lo-que-el-texto-de-2006-dice-al-redactor-no-vigente)
 - [3. El Libro de estilo](#3-el-libro-de-estilo)
+  - [Qué es y con qué cautelas se usa](#qué-es-y-con-qué-cautelas-se-usa)
 - [4. Independencia](#4-independencia)
+  - [La independencia de la RTVA en su ley](#la-independencia-de-la-rtva-en-su-ley)
+  - [La independencia del redactor](#la-independencia-del-redactor)
 - [5. Conflicto de intereses](#5-conflicto-de-intereses)
+  - [Las incompatibilidades del X Convenio (art. 73)](#las-incompatibilidades-del-x-convenio-art-73)
 - [6. Deber de imparcialidad](#6-deber-de-imparcialidad)
 - [7. Incompatibilidad de ventajas o tratos de favor](#7-incompatibilidad-de-ventajas-o-tratos-de-favor)
 - [8. Rectificación](#8-rectificación)
 - [9. Transparencia con la audiencia](#9-transparencia-con-la-audiencia)
 - [10. El Defensor o la Defensora de la Audiencia](#10-el-defensor-o-la-defensora-de-la-audiencia)
+  - [Base y norma que lo regula](#base-y-norma-que-lo-regula)
+  - [Naturaleza (art. 1)](#naturaleza-art-1)
+  - [Designación, mandato y cese (art. 3)](#designación-mandato-y-cese-art-3)
+  - [Funciones y obligaciones (arts. 4 y 5)](#funciones-y-obligaciones-arts-4-y-5)
+  - [Cómo se actúa ante él (arts. 6 y 7)](#cómo-se-actúa-ante-él-arts-6-y-7)
+  - [Lo que toca al redactor (art. 8.2)](#lo-que-toca-al-redactor-art-82)
+  - [Rendición de cuentas y presencia en antena (arts. 9 a 11)](#rendición-de-cuentas-y-presencia-en-antena-arts-9-a-11)
 - [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
 - [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
 - [Trazabilidad](#trazabilidad)
@@ -102,8 +125,8 @@ Una tercera idea del preámbulo:
 
 Qué regula la carta, por último: «**las normas de conducta de los periodistas en la investigación,
 edición, transmisión, difusión y comentario de noticias e información, y en la descripción de los
-acontecimientos por cualquier medio**». Cinco actividades y «**cualquier medio**»: la carta no
-distingue entre prensa, radio, televisión e internet.
+acontecimientos por cualquier medio**». Cinco actividades sobre noticias e información, más la descripción de los acontecimientos, y
+«**cualquier medio**»: la carta no distingue entre prensa, radio, televisión e internet.
 
 ### Los deberes con la verdad: artículos 1 a 6
 
@@ -141,7 +164,7 @@ distingue entre prensa, radio, televisión e internet.
 
 - *Art. 7, el secreto profesional.* «**El o la periodista guardará el secreto profesional sobre la
   fuente de las informaciones obtenidas confidencialmente.**» Una línea, sin excepciones. Su alcance:
-  la fuente, y de las informaciones obtenidas confidencialmente.
+  la fuente de las informaciones obtenidas confidencialmente.
 - *Art. 8, privacidad, dignidad, información y vulnerabilidad.* «**El o la periodista respetará la
   privacidad de las personas. Respetará la dignidad de las personas representadas, informará a los
   entrevistados de que sus comentarios y documentos serán publicados y mostrará especial
@@ -156,7 +179,7 @@ distingue entre prensa, radio, televisión e internet.
 - *Art. 10, las faltas profesionales graves.* «**El o la periodista considerará como faltas
   profesionales graves: el plagio; la distorsión mal intencionada; la calumnia, la maledicencia, la
   difamación y las acusaciones sin fundamento.**» Seis faltas, y el artículo las llama «graves»
-  expresamente. Es el único artículo de la carta que califica conductas.
+  expresamente. Es el único artículo de la carta que califica conductas como faltas.
 
 ### Los deberes con la independencia: artículos 11 a 14
 
@@ -187,7 +210,7 @@ distingue entre prensa, radio, televisión e internet.
   abiertos al público, excluyendo cualquier injerencia gubernamental o de otro tipo.**» Explica por
   qué es una carta y no una ley: opera dentro del derecho de cada país, sólo en cuestiones de honor
   profesional, ante órganos independientes y abiertos al público, y sin injerencia del gobierno «**o
-  de otro tipo**», lo que incluye a la empresa.
+  de otro tipo**»: la fórmula no se limita a los poderes públicos.
 
 ## 2. El Estatuto profesional de RTVA/CSRTV
 
@@ -242,8 +265,8 @@ Carta, escrita después de la fusión, se refiere a «**su Consejo Profesional**
 
 La Carta solo lo nombra en el artículo 13.10, dentro de las garantías de pluralismo. Tras
 decir que los programas y contenidos informativos quedan garantizados en su pluralismo
-democrático conforme al artículo 32 de la Ley 18/2007 (primera frase, citada en el epígrafe de
-pluralismo), sigue: «**La observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de su
+democrático conforme al artículo 32 de la Ley 18/2007 (primera frase, que este tema no
+reproduce), sigue: «**La observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de su
 Consejo Profesional que salvaguarda y controla el cumplimiento de los principios, derechos y
 deberes de pluralismo, contemplados en el Estatuto Profesional de los Medios de Comunicación de
 la RTVA, previsto en el artículo 10.2 de la Ley 18/2007, y en el ordenamiento jurídico en su
@@ -253,7 +276,7 @@ artículo 10.2, que nombra el Estatuto y los Consejos, pero es el 10.1 el que lo
 En la Carta hay otras referencias a la deontología que no nombran el Estatuto: la sujeción de
 todos los contenidos a «**la deontología profesional y códigos de autorregulación profesional
 que rigen la actividad de los medios de Canal Sur**» (art. 10.1) y los nueve principios
-informativos del artículo 13.4 (epígrafe de veracidad).
+informativos del artículo 13.4 (que este tema no reproduce).
 
 ### El marco general: cláusula de conciencia y secreto profesional
 
@@ -342,9 +365,10 @@ del enunciado:
 - Revelación de la fuente (6.9): «**El/la profesional de la información estará obligado a revelar
   la identidad de la fuente cuando de este modo se pueda evitar la comisión cierta de un delito
   contra la vida, la integridad o la salud, la libertad o la libertad sexual de las personas.**»
-- Rectificación (8.1 y 8.2): la empresa, antes de decidir sobre las rectificaciones que se le
-  soliciten, «**consultará con los profesionales que hayan elaborado las mismas**» y, en la medida
-  de lo posible, al Consejo Profesional; y «**Todos los informadores tienen derecho a conocer, antes
+- Rectificación (8.1 y 8.2): la empresa, antes de decidir sobre la conveniencia de emitir las
+  rectificaciones que se soliciten, «**consultará con los profesionales que hayan elaborado las
+  mismas**» y, en la medida de lo posible, al Consejo Profesional, «**sin perjuicio del cumplimiento
+  en los términos previstos en la legislación vigente**»; y «**Todos los informadores tienen derecho a conocer, antes
   de que se hagan públicas, las rectificaciones sobre sus trabajos y a manifestar su parecer.**»
 - Defensores (9): «**El Defensor del Oyente en Canal Sur Radio y el Defensor del Espectador en Canal
   Sur Televisión.**» «**Con Estatuto propio y con independencia, canalizarán las reclamaciones y
@@ -383,13 +407,13 @@ responden.
 
 ### La independencia de la RTVA en su ley
 
-Del común (Carta del Servicio Público y Ley 18/2007):
+En la Ley 18/2007 y el EAA:
 
 - El Estatuto profesional es el instrumento que garantiza la profesionalidad e independencia
   de los profesionales de la información y de los contenidos y programas de los servicios
   informativos (art. 10.1). La exposición de motivos de la ley lo presenta como una novedad
   para fortalecer la independencia y neutralidad de esos profesionales. Las dos citas
-  literales, en el epígrafe del Estatuto profesional (último del tema).
+  literales, en el epígrafe 2.
 - Independencia de la entidad: la RTVA goza de autonomía en su gestión, organización y
   funcionamiento y, «**en el marco de un Contrato-Programa, regulado en el artículo 8 de esta
   Ley, actuará con independencia funcional respecto del Consejo de Gobierno de la Junta de
@@ -434,7 +458,7 @@ Del común (Carta del Servicio Público y Ley 18/2007):
 - Libro de estilo, 2.3.2.6 Afiliación: presentarse a cargos públicos o directivos de organizaciones
   políticas, sindicales o sociales «**es libre dentro del marco constitucional. Es recomendable, sin
   embargo, que esta actividad no sea demasiado significativa para evitar interferencias en el
-  trabajo informativo**». Es una recomendación, no una prohibición.
+  trabajo informativo sin menoscabo de lo establecido en el Estatuto de los Trabajadores**». Es una recomendación, no una prohibición.
 - Libro de estilo, 2.3.2.7 Actividades públicas: las actividades públicas remuneradas ajenas a la
   RTVA y las colaboraciones fijas o esporádicas en medios cuyos intereses puedan concurrir con los de
   la RTVA «**deben ser autorizadas por los procedimientos fijados en el Convenio Colectivo (Art.
@@ -444,11 +468,12 @@ Del común (Carta del Servicio Público y Ley 18/2007):
   favorecer, recomendar, insinuar o promover la adquisición o el uso de productos y servicios
   comerciales. Cualquier referencia debe estar plenamente justificada en términos editoriales y debe
   citarse el origen comercial de cualquier información por más ponderada y rigurosa que esta pueda
-  ser.**»
+  ser. Toda actitud particular en este sentido queda prohibida, especialmente si hay compensación,
+  sea económica o en especie.**»
 
 ### Las incompatibilidades del X Convenio (art. 73)
 
-El convenio al que remite el Libro de estilo es hoy el X Convenio. Del común:
+El convenio al que remite el Libro de estilo es hoy el X Convenio. Su artículo 73:
 
 - Incompatible cualquier actividad que impida o menoscabe el cumplimiento de los deberes propios.
 - No se puede pertenecer ni prestar servicios, «**aún ocasionales**», a empresas que suministren o
@@ -504,7 +529,7 @@ El convenio al que remite el Libro de estilo es hoy el X Convenio. Del común:
 
 ## 8. Rectificación
 
-El derecho de rectificación como derecho de la persona aludida (LO 2/1984 y art. 36 de la Ley
+El derecho de rectificación como derecho de la persona aludida (LO 2/1984 y art. 34.1 de la Ley
 18/2007) es el tema 1. Aquí, la rectificación como deber profesional del redactor:
 
 - Carta de la FIP, art. 6: rectificar «**de manera rápida, explícita, completa y visible**»
@@ -513,11 +538,13 @@ El derecho de rectificación como derecho de la persona aludida (LO 2/1984 y art
   engañosa o distorsionada. Si esto se produce por error u omisión, la noticia será rectificada de
   inmediato y se presentarán excusas. Cuando un error cause perjuicio evidente a una persona o
   entidad debe darse la oportunidad de réplica, aunque no exista una resolución judicial.**»
-- Libro de estilo, 9.1.12 Rectificación: «**En caso de error en una información, se debe rectificar
+- Libro de estilo, 9.1.12 Rectificación, una de las «**recomendaciones, cuyo seguimiento es
+  obligatorio**» (9.1) en los asuntos comprometidos: «**En caso de error en una información, se debe rectificar
   con la máxima celeridad, sin necesidad de que medie solicitud externa, para evitar mayor presión
   sobre los afectados y sus allegados.**»
-- Las tres coinciden en lo esencial: se rectifica sin esperar a que lo pidan, y enseguida. El
-  Libro de estilo añade las excusas y la réplica del perjudicado sin necesidad de sentencia.
+- Las tres piden rectificar enseguida («rápida», «de inmediato», «con la máxima celeridad»). El
+  9.1.12 añade que sin esperar a que lo pidan, y el 2.3.2.1, las excusas y la réplica del
+  perjudicado aunque no haya resolución judicial.
 - El texto de 2006 del Estatuto (no vigente) daba al redactor el derecho a ser consultado y a
   conocer antes de su emisión las rectificaciones de sus trabajos (epígrafe 2).
 
@@ -525,7 +552,7 @@ El derecho de rectificación como derecho de la persona aludida (LO 2/1984 y art
 
 Ninguna de las fuentes del tema tiene un apartado con este nombre. Lo que dicen sobre ello:
 
-- Carta del Servicio Público, art. 26, «Atención a la audiencia». Del común:
+- Carta del Servicio Público, art. 26, «Atención a la audiencia»:
 
   - 26.1: la audiencia por ondas y las personas usuarias de los servicios digitales «**tendrán
     cauce permanente para su atención y para que expresen sus opiniones, manifestaciones, quejas
@@ -562,7 +589,8 @@ aprobada por el Consejo de Administración de la RTVA**». Esa norma es la *Norm
 Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía*, aprobada por el
 Consejo de Administración «**a propuesta de su Comisión de Normativa**» y publicada en la web de
 Canal Sur. Su fecha no consta con certeza: el texto termina «**En Sevilla, a 14 de enero de
-2008.**», pero la página que lo publica es posterior, y no se ha localizado en el BOJA.
+2008.**», pero la página que lo publica lleva fecha de 6 de abril de 2018, y no se ha localizado en el
+BOJA.
 
 Su preámbulo explica que consolida la figura del «**Defensor o Defensora a del Oyente y del
 Espectador creada por el Consejo de Administración de la RTVA al amparo de la Ley 8/1987, de 9 de
@@ -581,7 +609,7 @@ disposición adicional segunda deroga la normativa de aquel Defensor del Oyente 
 - Es «**valedor del derecho de la ciudadanía a la información y al entretenimiento, como impulsor
   de la transparencia, la autocrítica y el autocontrol**» (1.3).
 - Se denomina «**Defensor o Defensora de la Audiencia de la Radio Televisión de Andalucía**» y su
-  sede es la del Consejo de Administración (1.4).
+  sede es la del Consejo de Administración, «**o la que éste determine en su caso**» (1.4).
 
 ### Designación, mandato y cese (art. 3)
 
@@ -591,8 +619,10 @@ disposición adicional segunda deroga la normativa de aquel Defensor del Oyente 
 - Mandato: «**El mandato del Defensor o la Defensora de la Audiencia de la RTVA será, en cualquier
   caso, el mismo que el del Consejo de Administración que lo nombra, y no será renovable.**» (3.5).
   El apartado 3.4, para cubrir vacantes, habla todavía de «**los seis años del Consejo de
-  Administración**»: esa cifra es la de la ley anterior a la reforma de 2019 (tema 5 del común), así
-  que no hay que darla como duración vigente del mandato.
+  Administración**»: esa cifra es la de la redacción original del art. 15.3 de la Ley 18/2007. Desde la Ley 2/2019, de
+  26 de junio (tema 5 del común), el mandato del Consejo «**finalizará en el momento de publicación
+  en el BOJA del decreto de disolución del Parlamento de Andalucía y de convocatoria de elecciones
+  correspondiente**» (art. 15.3), así que los seis años no son la duración vigente del mandato.
 - Ocho causas de cese, letras a) a h) (3.2), entre ellas la renuncia, la incapacidad o enfermedad
   grave de más de «**tres meses continuos**», la incompatibilidad sobrevenida, la condena por delito
   doloso y el incumplimiento grave. Las de las letras c), d), f) y h) exigen las mismas mayorías que
@@ -643,7 +673,7 @@ confidencialidad en cuanto le sea legalmente de aplicación**».
 | --- | --- | --- |
 | Constitución Española | art. 20.1.d (cláusula de conciencia y secreto profesional) | Vigente |
 | LO 2/1997, de 19 de junio, reguladora de la cláusula de conciencia | arts. 1, 2 y 3 | La que da el tema 6 del común |
-| Ley 18/2007, de 17 de diciembre, de la RTVA | arts. 5.4, 10, 17.1.m, 17.2 y 33.2 | Original en esos preceptos, vigente el 24-09-2026 |
+| Ley 18/2007, de 17 de diciembre, de la RTVA | arts. 5.4, 10, 17.1.m, 17.2, 33.2 y 34.1 (original); 15.3 (Ley 2/2019) | Vigente el 24-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA 247/2023) | arts. 10.1, 13.10 y 26 | No modificada |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA 240/2014) | art. 73 | La del BOJA |
 | Norma reguladora del Defensor o la Defensora de la Audiencia de la RTVA | arts. 1, 3 a 11 | La publicada en la web de Canal Sur |
@@ -673,14 +703,14 @@ Todas las fuentes, leídas el 24-09-2026 salvo que se diga otra fecha.
   el 24-09-2026. Se citan sus dieciséis artículos, el preámbulo y la nota final, que es todo el
   documento. En el PDF el preámbulo va después de los artículos; el PDF parte palabras con guion al
   final de renglón y las citas las dan unidas.
-- *Ley 18/2007* y *Constitución*, BOE consolidado (BOE-A-2008-1185 y BOE-A-1978-31229); *LO 2/1997*,
+- *Ley 18/2007* y *Constitución*, BOE consolidado (BOE-A-2008-1185 y BOE-A-1978-31229); del art. 15.3 de la Ley 18/2007 se leyeron la redacción original y la de la Ley 2/2019 (BOE-A-2019-11576); *LO 2/1997*,
   BOE-A-1997-13374.
 - *Carta del Servicio Público de la RTVA 2024-2029*, BOJA núm. 247, de 2023.
 - *X Convenio Colectivo de la RTVA y sus sociedades filiales*, BOJA núm. 240, de 2014.
 - *Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de
-  Andalucía*, web de Canal Sur (canalsur.es, sección de la Defensora), descargada el 24-09-2026; el
-  PDF que enlaza esa página no está disponible.
+  Andalucía*, web de Canal Sur (canalsur.es, sección de la Defensora), descargada el 24-09-2026; la página lleva fecha de 6 de abril de 2018 y el
+  PDF que enlaza da error 404 (comprobado el 24-09-2026).
 - *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª edición, marzo de 2004:
-  Introducción y apartados 1.9, 2.3.2.1 a 2.3.2.9, 2.3.2.14, 2.5.1, 2.5.5, 2.5.9, 2.5.10 y 9.1.12.
+  Introducción y apartados 1.9, 2.3.2.1 a 2.3.2.9, 2.3.2.14, 2.5.1, 2.5.5, 2.5.9, 2.5.10, 9.1 y 9.1.12.
 - *Estatuto profesional* de 2006: entrada del blog consejoradiortva.blogspot.com de 25 de octubre de
   2006, a la que enlaza la web de Canal Sur; apartados 6.9, 8.1, 8.2, 9 y 10.4. No vigente.

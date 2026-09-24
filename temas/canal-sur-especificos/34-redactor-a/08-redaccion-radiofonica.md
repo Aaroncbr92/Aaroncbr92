@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Redactor/a · punto 8 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Sin norma. Manual de estilo de RTVE, capítulo 3 (RNE), porque Canal Sur no tiene publicado libro de estilo de radio; costumbre de oficio para el estudio y la operación de sonido |
-| Redacción que se estudia | Manual de estilo de RTVE en su versión web, leído el 24-09-2026 |
-| Extensión | 2.590 palabras |
+| Redacción que se estudia | Manual de estilo de RTVE en su versión web, cotejada el 24-09-2026 |
+| Extensión | 2.678 palabras |
 
 <!-- /portada -->
 
@@ -21,8 +21,8 @@ Televisión, S.A. (CSRTV); Corporación de Radio y Televisión Española (RTVE);
 > boletín, informativo, magazine, directo y coordinación con operación de sonido.»
 
 Qué se puede preguntar: por qué se escribe distinto para el oído (fugacidad del mensaje) y las tres
-exigencias de claridad, concreción y brevedad; qué evitar al redactar (grandilocuencia, «ayer» al
-principio, demostrativos); para qué y cuánto dura un corte de voz y cómo se corta; qué es un boletín
+exigencias de claridad, concreción y brevedad; qué evitar o restringir al redactar (grandilocuencia,
+«ayer» al principio, demostrativos); para qué y cuánto dura un corte de voz y cómo se corta; qué es un boletín
 horario y qué lo diferencia del diario hablado; quién presenta el último hecho; qué es una continuidad
 forzada; cómo se termina una crónica; la regla de los micrófonos ocultos; quién retira la palabra al
 oyente que insulta; cómo se reparte un estudio de radio entre locutorio y control.
@@ -35,7 +35,7 @@ oyente que insulta; cómo se reparte un estudio de radio entre locutorio y contr
 - [1. Lenguaje radiofónico](#1-lenguaje-radiofónico)
 - [2. Escritura para ser escuchada](#2-escritura-para-ser-escuchada)
   - [Las tres exigencias](#las-tres-exigencias)
-  - [Lo que se evita al redactar](#lo-que-se-evita-al-redactar)
+  - [Lo que se evita o restringe al redactar](#lo-que-se-evita-o-restringe-al-redactar)
   - [Escribir para leer en voz alta](#escribir-para-leer-en-voz-alta)
 - [3. Cortes de voz](#3-cortes-de-voz)
 - [4. Crónica](#4-crónica)
@@ -92,17 +92,19 @@ que la radio use más ambiente, más ráfagas y más identificación verbal que 
    presente que el pasado, la frase activa que la pasiva»**.
 3. **«Brevedad»**: **«períodos y frases breves que aseguren la comprensión.»**
 
-La noticia radiofónica se escribe en presente y **«Se tendrá especial cuidado de no ser prolijos en
-cifras, siglas o nombres poco conocidos.»**
+La noticia radiofónica se escribe en presente, **«desechando los pretéritos hasta donde el sentido
+común recomiende»**; **«se evitará el excesivo volumen de datos»** y **«Se tendrá especial cuidado de no
+ser prolijos en cifras, siglas o nombres poco conocidos.»**
 
-### Lo que se evita al redactar
+### Lo que se evita o restringe al redactar
 
 - La grandilocuencia: **«el lenguaje radiofónico está reñido con la ampulosidad»**.
 - El arranque temporal: **«Debe evitarse empezar una noticia con el adverbio temporal “ayer”.»**
-- Los demostrativos **«éste, ése y aquél. El oyente no puede volver atrás en la frase para averiguar a
-  qué sustantivos reemplazan»**.
-- La jerga: **«Es necesario traducir esos términos a palabras que sean fácilmente comprensibles por una
-  audiencia heterogénea.»**
+- Los demostrativos: no se prohíben, se restringen. **«hay que restringir el uso de los demostrativos
+  éste, ése y aquél. El oyente no puede volver atrás en la frase para averiguar a qué sustantivos
+  reemplazan»**.
+- La jerga no justificada: su uso **«debe estar suficientemente justificado. Es necesario traducir esos
+  términos a palabras que sean fácilmente comprensibles por una audiencia heterogénea.»**
 
 ### Escribir para leer en voz alta
 
@@ -129,8 +131,8 @@ una de las voces que intervienen en el boletín»**.
 
 Dónde no va: **«Es recomendable no terminar la crónica con un testimonio o corte.»**
 
-Y cómo pesa en el ritmo del conjunto, con un ejemplo del propio manual: **«Insertar un corte de voz o
-una ráfaga en uno u otro momento puede determinar que el boletín resulte más o menos ágil.»**
+Y cómo pesa en el ritmo del conjunto: **«Insertar un corte de voz o una ráfaga en uno u otro momento
+puede determinar que el boletín resulte más o menos ágil.»**
 
 ## 4. Crónica
 
@@ -194,13 +196,14 @@ breve, ya sea con el exterior, ya con la red de emisoras locales y territoriales
   las noticias mediante la lectura de lo que se denominan entradillas, transiciones o continuidades y/o
   de leer la noticia completa.»**
 - Puede apoyarse en **«una segunda voz, para la lectura de aquellas informaciones con desarrollo»**, y en
-  los periodistas de la red de emisoras, de la redacción central y corresponsales.
+  los periodistas de la red de emisoras o delegaciones, los de la redacción central que estén cubriendo
+  la información y, si los hay, los corresponsales en el extranjero.
 - Regla de jerarquía: **«es el conductor principal quien debe presentar el último hecho o introducir lo
   conocido hasta el momento y el resto de voces ampliarán o desarrollarán los ejes expuestos por el
   conductor principal.»**
-- Transiciones que enlazan una noticia con otra: dan naturalidad, pero hay **«riesgo de incurrir en
-  muletillas y tópicos o relaciones forzadas»**; sólo caben **«cuando existen uno o más nexos entre ambas
-  noticias»**. Si no, **«continuidad forzada»**.
+- Transiciones que enlazan una noticia con otra: dan a la locución **«una aparente naturalidad»**, pero
+  hay **«riesgo de incurrir en muletillas y tópicos o relaciones forzadas»**; sólo caben **«cuando existen
+  uno o más nexos entre ambas noticias»**. Si no, **«continuidad forzada»**.
 
 ### Ritmo
 
@@ -225,16 +228,17 @@ avanza; el diario desarrolla lo que los boletines avanzaron.
 ## 8. Magazine
 
 El Manual de estilo de RTVE no define el magazine radiofónico, y ninguna fuente leída lo hace (véase «Lo
-que este tema no da»). Sí regula algo que en el magazine es central, la participación del oyente:
+que este tema no da»). Sí regula, para los espacios informativos, la participación del oyente, que en el
+magazine es habitual (esto último, costumbre de oficio):
 
-- Como particular, el oyente participa en los programas que pidan su intervención **«a través de los
-  procedimientos que en cada caso se determinen (teléfono, correo electrónico, sms, etc.)»**.
+- Como particular, el oyente **«podrá participar»** en los programas que pidan su intervención **«a
+  través de los procedimientos que en cada caso se determinen (teléfono, correo electrónico, sms,
+  etc.)»**.
 - **«El responsable de cada espacio velará para que la libre expresión de las ideas no vulnere los
   principios garantizados por la Constitución ni derechos fundamentales de terceros. Regulará el acceso
   mediante normas que garanticen el cumplimiento de las normas básicas de educación, sentido común y
   civismo. Asimismo, deberá retirar el uso de la palabra a quien se exprese con insultos y términos
-  soeces.»** Es un «deberá», no un «podrá», y alcanza a quien se exprese así, sin distinguir si es
-  oyente, colaborador o tertuliano.
+  soeces.»** Es un «deberá», no un «podrá», y corresponde al responsable de cada espacio.
 
 ## 9. Directo
 
@@ -287,8 +291,9 @@ normalizadas y varían de emisora a emisora. En muchas emisoras el locutor manej
   estilo de Canal Sur son para la respuesta en una entrevista de televisión y no se trasladan.
 - El significado de cada seña entre control y locutorio, la técnica vocal, el uso del pinganillo y los
   retardos: sin fuente leída.
-- El derecho de acceso de grupos sociales y políticos: en Canal Sur es materia de su ley de creación
-  (temario común), no de este tema.
+- El derecho de acceso de grupos sociales y políticos: en Canal Sur lo regulan la Ley 18/2007, de la
+  RTVA (artículo 33), y la Ley 10/2018, audiovisual de Andalucía (artículos 11 y 12), en el temario
+  común; no es materia de este tema.
 - Los géneros en general y la entrevista de televisión: tema 5. Locución y comunicación con control: tema
   9. Directos, última hora e incertidumbre: tema 10.
 
@@ -296,7 +301,7 @@ normalizadas y varían de emisora a emisora. En muchas emisoras el locutor manej
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Manual de estilo de RTVE (web), capítulo 3 (RNE): 3.1, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3.1, 3.3.2, 3.3.5, 3.4.1, 3.4.4, 3.5, 3.6, 3.7 | Lenguaje, escritura, cortes, crónica, entrevista, encuesta y micrófonos ocultos, boletín, diario hablado, retransmisión, participación del oyente, sonido en el debate | 24-09-2026 |
-| Manual de estilo de RTVE (web), capítulo 6 (El lenguaje), 6.3.1 | Texto para ser leído en voz alta en radio y televisión | 24-09-2026 |
+| Manual de estilo de RTVE (web), capítulo 3 (RNE): 3.1, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3.1, 3.3.2, 3.3.5, 3.4.1, 3.4.4, 3.5, 3.6, 3.7 | Lenguaje, escritura, cortes, crónica, entrevista, encuesta y micrófonos ocultos, boletín, diario hablado, retransmisión, participación del oyente, sonido en el debate | Volcado 02-09-2026; cotejado con la web el 24-09-2026 |
+| Manual de estilo de RTVE (web), capítulo 6 (El lenguaje), 6.3.1 | Texto para ser leído en voz alta en radio y televisión | Volcado 02-09-2026; cotejado con la web el 24-09-2026 |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, Introducción y 3.14 | Carácter televisivo del libro; texto leído en voz alta | 24-09-2026 |
 | Costumbre de oficio, sin norma | Sonido sin imagen; directo como norma; reparto locutorio/control; señas; autocontrol; captación de hechos no repetibles | — |

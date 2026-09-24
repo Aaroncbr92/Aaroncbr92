@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 12 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Ley Orgánica 5/1985, del Régimen Electoral General (artículos 50 a 69); Ley 1/1986, Electoral de Andalucía (capítulo IV); Instrucción 4/2011 de la Junta Electoral Central, en el texto consolidado publicado con la Instrucción 1/2015; Ley 18/2007, de la RTVA; Ley 13/2022, General de Comunicación Audiovisual; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), epígrafe 7.1 |
+| Fuente | Ley Orgánica 5/1985, del Régimen Electoral General (artículos 50 a 69); Ley 1/1986, Electoral de Andalucía (título V, capítulo IV); Instrucción 4/2011 de la Junta Electoral Central, en el texto consolidado publicado con la Instrucción 1/2015; Ley 18/2007, de la RTVA; Ley 13/2022, General de Comunicación Audiovisual; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), epígrafe 7.1 |
 | Redacción que se estudia | Textos consolidados del BOE vigentes el 24-09-2026; Instrucción de la Junta Electoral Central en su texto consolidado de 2015; Libro de estilo, 1.ª ed., 2004; todo leído el 24-09-2026 |
-| Extensión | 4.058 palabras |
+| Extensión | 4.156 palabras |
 
 <!-- /portada -->
 
@@ -67,10 +67,10 @@ quién es el órgano de comunicación de la RTVA con la Administración electora
 
 Tres capas se superponen. Todo el año rigen los principios de la Ley 18/2007, de la Ley 13/2022 y de
 la Carta del Servicio Público (pluralismo, neutralidad, objetividad). Durante el **período
-electoral** se les suma la LOREG, que los convierte en garantías con juez propio (la Junta Electoral
-competente), y la LEA para las elecciones al Parlamento de Andalucía. La JEC ha concretado el
-artículo 66 LOREG en su Instrucción 4/2011, que es la que fija, en la práctica, cómo se reparte el
-tiempo de información electoral. Por debajo, el Libro de estilo de 2004 da criterios de oficio:
+electoral** se les suma la LOREG, que los convierte en garantías con un órgano de control propio
+(la Junta Electoral competente), y la LEA para las elecciones al Parlamento de Andalucía. La JEC ha
+concretado el artículo 66 LOREG en su Instrucción 4/2011, que es la que fija, en la práctica, cómo
+se reparte el tiempo de información electoral. Por debajo, el Libro de estilo de 2004 da criterios de oficio:
 se cita siempre como «según el Libro de estilo de 2004», porque remite a normas y órganos de su
 época.
 
@@ -143,9 +143,9 @@ Orgánica 2/2011) es la pieza central del tema:
   electoral**», de acuerdo con las instrucciones de la Junta Electoral competente.
 
 Cuatro principios, pues, para el medio público: **pluralismo político y social**, **igualdad**,
-**proporcionalidad** y **neutralidad informativa**. La Instrucción 4/2011 los extiende
-expresamente: los órganos de dirección y administración deben garantizarlos «**en toda su
-programación**» (apartado tercero), no sólo en los informativos.
+**proporcionalidad** y **neutralidad informativa**. La Instrucción 4/2011 lo precisa:
+los órganos de dirección y administración deben garantizarlos «**en toda su programación**»
+(apartado tercero), no sólo en los informativos.
 
 Qué significa para el redactor, según el Libro de estilo de 2004 (7.1): «**La opinión que no se
 apoya en un dato objetivo está vedada para los periodistas de CSTV y Canal 2 Andalucía. La
@@ -185,7 +185,7 @@ del anterior, y dentro del primero proporcionalidad a los votos.
 El Libro de estilo de 2004 (7.1.2) describe la práctica: en campaña «**el Consejo de Administración
 de la RTVA fija las fórmulas de cobertura con la aplicación de proporciones aritméticas**»; cada
 partido tiene un tiempo proporcional al apoyo en «**las elecciones homólogas anteriores**», en los
-espacios acotados como información electoral, «**a través del llamado coloquialmente
+espacios acotados gráficamente como información electoral, «**a través del llamado coloquialmente
 ‘minutaje’**». Hoy ese reparto se incluye en el plan de cobertura que se somete a la Junta
 Electoral (epígrafe 4) y es recurrible ante ella.
 
@@ -263,26 +263,29 @@ inauguraciones.
   titularidad pública ni en las emisoras de televisión privada.**» 60.2: durante la campaña, las
   formaciones concurrentes tienen derecho a espacios gratuitos en las radios y televisiones
   públicas.
-- Reparto (61 y 62): por votos en las «**anteriores elecciones equivalentes**», en las
-  circunscripciones del ámbito del medio. Si coinciden autonómicas y municipales, cuentan sólo las
-  anteriores autonómicas en los medios de la Comunidad (63.3).
+- Reparto (61 y 62): por votos en las «**anteriores elecciones equivalentes**»; si el ámbito del
+  medio es más limitado que el de la elección, sólo cuentan las circunscripciones de ese ámbito.
+  Si coinciden autonómicas y municipales, cuentan sólo las anteriores autonómicas en los medios de
+  la Comunidad (63.3).
 - Baremo general (64.1): diez minutos sin representación previa; quince con representación y menos
   del 5 % de los votos válidos; treinta entre el 5 y el 20 %; cuarenta y cinco con al menos el 20 %.
   Sólo si presentan candidaturas en «**más del 75 por 100 de las circunscripciones**» del ámbito del
   medio (64.2).
-- Elecciones al Parlamento de Andalucía (LEA, capítulo IV, «Utilización de medios de comunicación de
-  titularidad publica para la campaña electoral»):
+- Elecciones al Parlamento de Andalucía (LEA, título V, capítulo IV, «Utilización de medios de
+  comunicación de titularidad publica para la campaña electoral»):
   - Artículo 28: distribuye la **Junta Electoral de Andalucía**, a propuesta de una **Comisión de
     control** con un representante de cada formación concurrente con representación en el
     Parlamento, que votan ponderadamente.
   - Artículo 29: **cinco minutos** a quien no concurrió, no obtuvo representación o no llegó al 5 %
     de los votos válidos en la Comunidad; **quince** entre el 5 y el 15 %; **veinticinco** a quien
     superó el 15 %. Requisito: candidaturas «**en las ocho provincias**» (29.2). Agrupaciones de
-    electores federadas: cinco minutos (29.3).
+    electores federadas: cinco minutos, si cumplen ese mismo requisito (29.3).
   - Artículo 30: momento y orden de emisión según las preferencias de las formaciones, por votos en
     las anteriores autonómicas.
-- En esas elecciones, la Junta Electoral de la Comunidad tiene sobre los medios autonómicos «**al
-  menos, las competencias que este artículo atribuye a la Junta Electoral Central**» (LOREG, 65.6).
+- Cuando se celebran solamente elecciones a la Asamblea Legislativa de la Comunidad, la Junta
+  Electoral de la Comunidad tiene sobre los medios autonómicos, según el artículo 65.6 LOREG, «**al
+  menos, las competencias que este artículo atribuye a la Junta Electoral Central**» (las del
+  propio artículo 65).
 - Según el Libro de estilo de 2004 (7.1.2), es recomendable que los espacios de propaganda se
   ubiquen «**alejados de los noticieros**», especialmente de las franjas con información política
   o electoral.
@@ -303,12 +306,14 @@ la persona titular de la Dirección General de la RTVA.**» (Ley 18/2007, artíc
 - Sexto: las actuaciones y programas emitidos en período electoral «**con incidencia electoral**»
   pueden impugnarse por vulnerar pluralismo, igualdad, proporcionalidad o neutralidad; lo
   interponen los representantes acreditados «**dentro del plazo de cuarenta y ocho horas desde su
-  emisión**»; la Junta pide informe al medio en veinticuatro horas y resuelve «**dentro de los
+  emisión**»; en las veinticuatro horas siguientes se recaba informe del medio y se da
+  traslado a las formaciones que puedan resultar afectadas; la Junta resuelve «**dentro de los
   cinco días siguientes a su interposición**», con las medidas necesarias para restablecer los
   principios vulnerados.
 - Junta competente (segundo): la de Comunidad Autónoma para los medios de ámbito autonómico cuando
-  se elige su Asamblea Legislativa; la Provincial de la provincia donde radique el medio en los
-  demás procesos para medios autonómicos; la JEC en el resto.
+  se elige su Asamblea Legislativa; en los demás procesos, la Provincial para los medios de ámbito
+  local, comarcal o provincial y, para los autonómicos, la de la provincia donde radique el medio;
+  la JEC en el resto.
 
 ## 5. Debates
 
@@ -370,14 +375,14 @@ convocatoria electoral**».
 | LOREG 66.1 | Pluralismo político y social, igualdad, proporcionalidad y neutralidad informativa, en toda la programación | Período electoral |
 | Instrucción 4/2011, cuarto | Plan de cobertura sometido a la Junta; tiempos proporcionales; grupos significativos; compensar debates a dos | Período electoral |
 | LOREG 50 | Campaña institucional en espacios gratuitos, sin orientar el voto; sin actos de logros ni inauguraciones | Desde la convocatoria |
-| LOREG 60-64; LEA 28-30 | Sin publicidad electoral contratada; espacios gratuitos repartidos por la Junta | Campaña |
-| LOREG 68 | Rectificación de candidatos y dirigentes con plazos abreviados | Período electoral |
+| LOREG 60-65; LEA 28-30 | Sin publicidad electoral contratada; espacios gratuitos repartidos por la Junta | Campaña |
+| LOREG 68 | Rectificación de candidatos y dirigentes con plazos abreviados | Elecciones en curso (formaciones concurrentes) |
 | LOREG 69 | Ficha técnica de encuestas; prohibición los cinco días previos | Convocatoria a votación |
 | Ley 18/2007, 4, 30-33 | Pluralismo, derecho de acceso, comunicaciones oficiales; la Dirección General, interlocutora electoral | Siempre (el 30, en procesos electorales) |
 | Ley 13/2022, 51 y 56.2 | Reflejar el pluralismo; órgano plural que informa la línea editorial | Siempre |
 | Carta 13.3, 13.5, 13.10, 13.11 | Pluralismo democrático en informativos; espacios de debate; acceso | Siempre |
 
-Rectificación en período electoral (artículo 68 LOREG): candidatos o dirigentes de las formaciones
+Rectificación electoral (artículo 68 LOREG): candidatos o dirigentes de las formaciones
 concurrentes aludidos por hechos que consideren inexactos y perjudiciales pueden rectificar conforme
 a la Ley Orgánica 2/1984 con dos especialidades: si la periodicidad de la publicación no permite
 divulgar la rectificación «**en los tres días siguientes a su recepción**», el director debe
@@ -414,11 +419,14 @@ celebra «**dentro de los cuatro días siguientes al de la petición**».
 
 Leído todo el 24-09-2026.
 
-- LOREG: texto consolidado BOE-A-1985-11672. Artículo 50 y 53, redacción publicada el 06-03-2019
+- LOREG: texto consolidado BOE-A-1985-11672. Artículos 50 y 53, redacción publicada el 06-03-2019
   (BOE-A-2019-3191); 51, redacción de 1994 (BOE-A-1994-7420); 60 y 66, redacción de la Ley Orgánica
-  2/2011 (BOE-A-2011-1639); 69, redacción vigente desde el 02-02-2024 (BOE-A-2024-1993); 61 a 65,
-  67 y 68, según el consolidado.
-- LEA: texto consolidado BOE-A-1986-2788, artículos 28 a 30, redacción original.
+  2/2011 (BOE-A-2011-1639; el consolidado añade al 66 una entrada de 28-03-2011, BOE-A-2011-5524,
+  con el mismo texto); 62 y 64, redacción de 1991 (BOE-A-1991-6824); 63, redacción de 1987
+  (BOE-A-1987-8193); 61, 65, 67 y 68, redacción original de 1985; 69, redacción vigente desde el
+  02-02-2024 (BOE-A-2024-1993).
+- LEA: texto consolidado BOE-A-1986-2788, título V, capítulo IV, artículos 28 a 30, redacción
+  original (una sola).
 - Instrucción 4/2011 de la JEC (BOE-A-2011-5524), en el texto consolidado anexo a la Instrucción
   1/2015 (BOE-A-2015-4280, BOE núm. 95, de 21-04-2015).
 - Ley 18/2007: texto consolidado BOE-A-2008-1185 (artículo 4.3.n leído en el consolidado; el resto,

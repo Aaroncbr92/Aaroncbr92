@@ -7,7 +7,7 @@
 | **Bloque** | Temario específico de Redactor/a · punto 2 |
 | **Sirve para** | Puesto 2.34, Redactor/a (grupo B02), y la prueba práctica del puesto |
 | **Fuente** | Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (`BOE-A-2022-11311`); Ley 10/2018, de 9 de octubre, audiovisual de Andalucía (`BOE-A-2018-15240`); Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023); Estatuto de Autonomía para Andalucía; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 |
-| **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 13/2022 no ha sido modificada en los preceptos que se citan; la Ley 10/2018, con las reformas de los Decretos-leyes 2/2020, 26/2021 y 3/2024 que se indican; la Carta no ha sido modificada |
+| **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 13/2022 no ha sido modificada en los preceptos que se citan; la Ley 10/2018, con las reformas de los Decretos-leyes 2/2020, 26/2021 y 3/2024 que se indican; la Ley 18/2007, con la exposición de motivos en la redacción de la Ley 2/2019; la Carta no ha sido modificada |
 | **Extensión** | 8.300 palabras aproximadamente |
 
 <!-- /portada -->
@@ -36,8 +36,8 @@ qué es la «responsabilidad editorial» según la Ley 13/2022. En la prueba pr�
 tratamiento informativo con los principios de servicio público.
 
 **Cómo está hecho.** Las cuatro normas del enunciado se estudian en su parte informativa; el resto
-de cada una está en los temas 4, 5 y 6 del común. Las seis rúbricas finales no tienen, salvo la
-responsabilidad editorial, definición legal: se reconstruyen con los preceptos que las nombran. El
+de cada una está en los temas 4, 5 y 6 del común. De las seis rúbricas finales, sólo el servicio
+público y la responsabilidad editorial tienen definición legal; las demás se reconstruyen con los preceptos que las nombran. El
 Libro de Estilo es de 2004 y de televisión; se cita como «**un conjunto de recomendaciones
 periodísticas y una selección de métodos de trabajo**» (Introducción), no como norma, y sus
 remisiones a leyes de su época no están vigentes.
@@ -242,7 +242,8 @@ marco de la misión. Lo que más se relaciona con la ley:
 ## Ley 13/2022, General de Comunicación Audiovisual
 
 De la ley estatal interesan aquí el principio de veracidad, que rige todos los informativos, y el
-título III, que define el servicio público y deja a las Comunidades Autónomas su prestación.
+título III, que define el servicio público y permite a las Comunidades Autónomas acordar su
+prestación (53.2).
 
 ### Artículo 9. Veracidad de la información
 
@@ -433,7 +434,8 @@ desbordamiento no la saca de ese ámbito (letra d).
 
 La ley andaluza fija, entre sus quince principios inspiradores generales (artículo 2.1), el de la
 información: «**La objetividad, veracidad e imparcialidad de las informaciones.**» (2.1.h). Y
-dedica al servicio público los artículos 2.2 y 44 a 51.
+dedica al servicio público el artículo 2.2 y el capítulo I del título V («**El servicio público
+audiovisual en Andalucía**», artículos 44 a 54); aquí interesan los artículos 44 a 46, 50 y 51.
 
 ### Principios del servicio público (artículo 2)
 
@@ -788,10 +790,10 @@ Ninguna norma la define; las cuatro fuentes la nombran así:
   especial atención a las personas con discapacidad**» (4.3.h).
 - **Ley 13/2022**: misión de «**Reflejar en la programación el pluralismo político, social y
   cultural de la sociedad.**» y de «**Dar a conocer la diversidad cultural y lingüística.**»
-  (51.b y d); la diversidad es uno de los siete principios del artículo 52.
+  (51.b y d); la diversidad es uno de los siete valores esenciales del artículo 52.
 - **Ley 10/2018**: fines de atender a los sectores más amplios y diversos de la audiencia, **con
   una atención especial a los colectivos más vulnerables**, y de promover el respeto a la
-  diversidad (45, fines 3.º y 4.º).
+  diversidad (45.3 y 45.4).
 - **Carta**: entre los valores prioritarios del artículo 8.1 («Divulgación de valores cívicos y
   democráticos»), la letra m): «**El respeto a la diversidad de las orientaciones sexuales, y a la
   diversidad social, étnica y cultural de las personas.**»
@@ -811,7 +813,8 @@ religiosas**».
 
 ## Responsabilidad editorial
 
-Es la única rúbrica del enunciado con definición legal, en el artículo 2 de la Ley 13/2022:
+Es, con el servicio público, la única rúbrica del enunciado con definición legal, en el artículo 2
+de la Ley 13/2022:
 
 - **Responsabilidad editorial** (2.2): «**Ejercicio de control efectivo sobre la selección de los
   programas y sobre su organización, ya sea en un horario de programación o en un catálogo de
@@ -835,10 +838,11 @@ Otras piezas:
 - *Ley 13/2022, artículo 56.2*: los criterios rectores de la dirección editorial del servicio
   público se informan por un órgano que refleje el pluralismo político y social (citado en el
   epígrafe de la ley).
-- *Ley 10/2018, artículo 3.1.k)*: operador de televisión es «**La persona física o jurídica que
+- *Ley 10/2018, artículo 3.2.k)*, entre las definiciones del ámbito del cine y el fomento: operador de televisión es «**La persona física o jurídica que
   asuma la responsabilidad editorial de la programación televisiva**» y la transmita o la haga
   transmitir por un tercero, «**conforme a lo previsto en el artículo 3 de la Ley 25/1994**». Esa
-  ley está derogada: la remisión es un arrastre del texto andaluz, no derecho vigente.
+  ley fue derogada por la Ley 7/2010, General de la Comunicación Audiovisual (disposición
+  derogatoria, 6): la remisión es un arrastre del texto andaluz, no derecho vigente.
 - **Carta**: en la producción financiada, la RTVA o Canal Sur «**asumen la responsabilidad
   editorial de la obra**» (art. 24.2.a); y todas las programaciones responderán «**a criterios de
   calidad editorial, utilidad social, control responsable de los mensajes y de su
@@ -849,22 +853,24 @@ Otras piezas:
 - Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada
   por la RTVA: artículos 1 a 4, 7 y 34.
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: artículos 2, 9 y 50 a 75.
-- Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 3.1, 44 a 46, 50 y 51.
+- Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2, 3.1.m), 3.2.k), 44 a 46, 50 y 51.
+- Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual (derogada): disposición
+  derogatoria.
 - Carta del Servicio Público de la RTVA 2024-2029: artículos 2 a 8, 10 a 13, 15, 24 y 35 y
   disposiciones finales.
 - EAA: artículos 207, 211, 212 y 215.
 
 ## Lo que este tema no da, y dónde está
 
-- **Las cuatro normas completas**: la Ley 13/2022 y la Ley 10/2018, en el tema 4 del común; la
+- Las cuatro normas completas: la Ley 13/2022 y la Ley 10/2018, en el tema 4 del común; la
   Ley 18/2007, en el tema 5; la Carta, el contrato-programa y el Estatuto profesional, en el
   tema 6.
-- **Independencia editorial, secreto profesional, cláusula de conciencia y rectificación**, en el
-  tema 1 de este específico; **pluralismo electoral**, en el tema 12; **ética y Defensor/a de la
-  Audiencia**, en el tema 18.
-- **Una definición legal de neutralidad, objetividad o diversidad social**: no existe en las
+- Independencia editorial, secreto profesional, cláusula de conciencia y rectificación, en el
+  tema 1 de este específico; pluralismo electoral, en el tema 12; ética y Defensor/a de la
+  Audiencia, en el tema 18.
+- Una definición legal de neutralidad, objetividad o diversidad social: no existe en las
   normas del enunciado; el tema da dónde se enumeran.
-- **Un libro de estilo de Canal Sur Radio** o uno de televisión posterior a 2004: no se ha
+- Un libro de estilo de Canal Sur Radio o uno de televisión posterior a 2004: no se ha
   localizado publicado.
 
 ## Trazabilidad
@@ -874,8 +880,9 @@ Todas las fuentes se leyeron el 24/09/2026.
 | Fuente | Qué sostiene |
 |---|---|
 | Ley 18/2007 (`BOE-A-2008-1185`), texto consolidado | Artículos 1 a 4, 7 y 34.1 y exposición de motivos |
-| Ley 13/2022 (`BOE-A-2022-11311`), texto consolidado | Artículos 2.1 a 2.4 y 2.10, 9, 50 a 56 y 72 a 75 |
-| Ley 10/2018 (`BOE-A-2018-15240`), texto consolidado | Artículos 2, 3.1.k), 44 a 46, 50 y 51 |
+| Ley 13/2022 (`BOE-A-2022-11311`), texto consolidado | Artículos 2.1 a 2.4 y 2.10, 9, 50 a 56 y 72 a 75; estructura del título III |
+| Ley 10/2018 (`BOE-A-2018-15240`), texto consolidado | Artículos 2, 3.1.m) y 3.2.k), 44 a 46, 50 y 51; rúbrica del capítulo I del título V |
+| Ley 7/2010 (`BOE-A-2010-5292`) | Disposición derogatoria, 6 (derogación de la Ley 25/1994) |
 | Carta del Servicio Público 2024-2029, BOJA núm. 247/2023 | Exposición de motivos, artículos 2 a 8, 10 a 13, 15, 24 y 35 y disposiciones finales |
 | EAA (Ley Orgánica 2/2007) | Artículos 207, 211, 212 y 215 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004 | Introducción; normas básicas 1.1, 1.2 y 1.5; 2.5.4 |

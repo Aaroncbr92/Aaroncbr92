@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Redactor/a · punto 16 |
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
-| Fuente | Reglamento (UE) 2016/679, general de protección de datos; Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales; Constitución Española, artículo 20; Ley Orgánica 1/1982; Ley Orgánica 1/1996; Ley Orgánica 1/2004; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Libro de estilo de Canal Sur Televisión (2004) |
+| Fuente | Reglamento (UE) 2016/679, general de protección de datos; Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales; Constitución Española, artículo 20; Ley Orgánica 1/1982; Ley Orgánica 1/1996; Ley Orgánica 1/2004; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 8.738 palabras |
+| Extensión | 9.000 palabras |
 
 <!-- /portada -->
 
@@ -18,7 +18,7 @@ protección de datos (RGPD o Reglamento); Ley Orgánica 3/2018, de Protección d
 garantía de los derechos digitales (LOPDGDD); Ley Orgánica (LO); Agencia Española de Protección de
 Datos (AEPD); Comisión Nacional de los Mercados y la Competencia (CNMC); Diario Oficial de la Unión
 Europea (DOUE); Unión Europea (UE); Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía
-(Libro de estilo o LE).
+(Libro de estilo).
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.34, punto 16): «Protección de datos,
 > privacidad y tratamiento de imágenes en la actividad informativa: Aspectos generales del Reglamento
@@ -240,14 +240,16 @@ Para quien informa, dos consecuencias. La salud, la ideología, la religión, el
 de una persona identificable son datos de esta lista, y su difusión es tratamiento. Y el artículo 9
 del Reglamento está en su capítulo II, uno de los siete que el artículo 85.2 permite exceptuar para el
 tratamiento con fines periodísticos (epígrafe 8). El Libro de estilo de 2004, en su capítulo 9
-(«Asuntos comprometidos»), pide silenciar la enfermedad de una persona salvo que tenga relación
-directa con la noticia.
+(«Asuntos comprometidos», apartado 9.7), pide que cualquier dato sobre enfermos, patologías o personas
+con una minusvalía «**debe ser silenciado, salvo que guarde relación directa con el hecho del que se
+informa y sea necesario para entenderlo correctamente**».
 
 ## 4. Imágenes de personas identificables
 
 La imagen y la voz de una persona que se puede reconocer son datos personales, y grabarlas, editarlas,
 emitirlas o archivarlas es tratamiento (artículo 4, apartados 1 y 2, del Reglamento, en el epígrafe
-2). Pero la regla que decide si una imagen se puede emitir está sobre todo en la ley de protección del
+2: la identidad física es uno de los elementos que hacen identificable a una persona). Pero cuándo la
+captación o la publicación de una imagen es intromisión ilegítima lo dice la ley de protección del
 honor, la intimidad y la propia imagen.
 
 La Ley 13/2022, General de Comunicación Audiovisual, enlaza las tres leyes en su artículo 4.3: la
@@ -309,11 +311,13 @@ consentimiento expreso) no está afectado.
 
 ### Grabar en la calle: lo que no es el artículo 22 de la LOPDGDD
 
-El artículo 22 de la LOPDGDD, «**Tratamientos con fines de videovigilancia**», se cita a menudo como
-regla de la grabación en la vía pública, y no lo es. Su apartado 1 permite tratar imágenes de cámaras
+El artículo 22 de la LOPDGDD, «**Tratamientos con fines de videovigilancia**», no es la regla de la
+grabación informativa en la vía pública. Su apartado 1 permite tratar imágenes de cámaras
 o videocámaras «**con la finalidad de preservar la seguridad de las personas y bienes, así como de sus
 instalaciones**»; el 2, captar la vía pública solo «**en la medida en que resulte imprescindible**»
-para esa finalidad; el 3 obliga a suprimir los datos «**en el plazo máximo de un mes desde su
+para esa finalidad (y en una extensión superior solo cuando sea necesario para la seguridad de bienes o
+instalaciones estratégicos o de infraestructuras vinculadas al transporte, nunca el interior de un
+domicilio privado); el 3 obliga a suprimir los datos «**en el plazo máximo de un mes desde su
 captación**», salvo que acrediten actos contra la integridad de personas, bienes o instalaciones, en
 cuyo caso se ponen a disposición de la autoridad «**en un plazo máximo de setenta y dos horas desde
 que se tuviera conocimiento de la existencia de la grabación**»; y el 4 da por cumplido el deber de
@@ -482,15 +486,18 @@ La Ley 10/2018, audiovisual de Andalucía:
 
 ### La pauta del Libro de estilo
 
-El Libro de estilo de 2004 (9.4.2) es más estricto que la ley: «**un menor no debe aparecer, ni ser
-nombrado o aludido si ello no afecta al buen sentido de la noticia**»; si aparece, con los rasgos
-difuminados y, «**como máximo, se dará el nombre de pila y la edad**». Y advierte de un error
-frecuente: ocultar al menor y no a sus padres, que lo identifican igual.
+El Libro de estilo de 2004 (9.4.2) no se conforma con el consentimiento: «**un menor no debe aparecer,
+ni ser nombrado o aludido si ello no afecta al buen sentido de la noticia**»; si aparece, se omiten los
+detalles que puedan perjudicarle, se difuminan u ocultan sus rasgos y, «**como máximo, se dará el
+nombre de pila y la edad pero se silenciarán las demás circunstancias**». Advierte de un error común:
+omitir el nombre o las señas del menor pero no la identidad de sus padres o parientes. Y si el menor
+es familiar o allegado de un delincuente, o víctima de un delito, «**no será mencionado**».
 
 ## 6. Víctimas
 
-Ninguna norma de protección de datos tiene un capítulo sobre las víctimas en los medios; la regla sale
-de varias leyes que se suman.
+Ni el Reglamento ni la LOPDGDD tienen una regla sobre las víctimas en los medios (la LOPDGDD solo las
+nombra en su disposición adicional séptima, sobre la publicación de actos administrativos); la regla
+sale de varias leyes que se suman.
 
 - Víctimas de violencia de género. Artículo 63.1 de la LO 1/2004, de Medidas de Protección Integral
   contra la Violencia de Género: «**En las actuaciones y procedimientos relacionados con la violencia
@@ -509,16 +516,23 @@ de varias leyes que se suman.
   menoscabo de la dignidad de las víctimas**» (artículo 7.8 de la LO 1/1982). Para esa acción está
   legitimado «**el ofendido o perjudicado por el delito cometido, haya o no ejercido la acción penal o
   civil en el proceso penal precedente. También estará legitimado en todo caso el Ministerio
-  Fiscal.**» (artículo 4.4).
+  Fiscal.**» (artículo 4.4, que añade que en caso de fallecimiento se está a sus apartados anteriores).
+  Los artículos 4 y 7 están en la redacción vigente desde el 23 de diciembre de 2010.
 - Los datos de la víctima que revelen su salud o su vida sexual son, además, categorías especiales
   del artículo 9.1 del Reglamento (epígrafe 3).
 
-El Libro de estilo de 2004 lo concreta para la redacción. En malos tratos (9.2.12.2), nada de imágenes
-«robadas» si permiten una identificación nítida de la víctima, y en violación o agresión sexual «**se
-silenciará por completo el nombre de la víctima**»; del agresor, «**ofrecer las señas de identidad
-pero no la filiación completa**» (9.2.12.1). En información judicial (9.5.2), las víctimas no se
-identifican, lo que es «**inexcusable con los menores, sobre todo en actos contra la libertad
-sexual**». Y como pauta general (9.9.1), no asediar a las víctimas de accidentes o catástrofes.
+El Libro de estilo de 2004 lo concreta para la redacción. En malos tratos (9.2.12.2), los sonidos o
+imágenes «robadas» a la víctima no se emplean si permiten su identificación nítida, y solo se emiten
+con autorización y con un prudente alejamiento profesional; en violación o agresión sexual «**se
+silenciará por completo el nombre de la víctima**», con detalles de referencia (edad, profesión) sin
+riesgo de que pueda ser reconocida. Del presunto agresor, «**ofrecer las señas de identidad pero no la
+filiación completa**» (9.2.12.1). En información judicial (9.5.2), las víctimas de un delito no se citan
+ni identifican, lo que es «**inexcusable con los menores, sobre todo en actos contra la libertad
+sexual, salvo que la propia víctima, ya adulta, decida hacer públicos los hechos y sus
+circunstancias**». La imagen de víctimas de un delito no se emite si existe un factor de riesgo, y sus
+rostros se cubren o traman (9.9). Y los cámaras no asediarán «**con una cercanía desmesurada**» a las
+víctimas de delitos, accidentes de tráfico, hechos cruentos, catástrofes naturales o circunstancias
+dramáticas (9.9.1).
 
 ## 7. Consentimiento
 
@@ -542,9 +556,10 @@ momento, sin que la retirada afecte a la licitud del tratamiento anterior; «**s
 retirar el consentimiento como darlo**» (7.3).
 
 
-El consentimiento de la protección de datos no es el mismo que el de la LO 1/1982. Para que la
-difusión de la imagen o de la intimidad no sea intromisión ilegítima, esa ley pide el consentimiento
-«**expreso**» del titular (artículo 2.2), revocable indemnizando (2.3), y para los menores atiende a
+El consentimiento de la protección de datos no es el mismo que el de la LO 1/1982. Esa ley excluye la
+intromisión ilegítima cuando el titular ha dado su consentimiento «**expreso**» (artículo 2.2), además
+de cuando la autoriza una ley y de los casos del artículo 8; ese consentimiento es revocable
+indemnizando (2.3), y para los menores atiende a
 su madurez o exige escrito del representante con conocimiento previo del Ministerio Fiscal (artículo
 3), todo ello en el epígrafe 4. Y en los menores, ni uno ni otro bastan cuando la difusión perjudica
 su honra o sus intereses (artículo 4.3 de la LO 1/1996, en el epígrafe 5).
@@ -703,8 +718,10 @@ hace con la letra de las normas que ya se han visto, y ninguna la resuelve por s
 
 El Libro de estilo de 2004 lo traduce en pautas de redacción para los asuntos que llama
 «comprometidos», con recomendaciones «**cuyo seguimiento es obligatorio**» (9.1): entre ellas, el
-anonimato (9.1.3), no dar datos irrelevantes (9.1.2) y, en los procesos judiciales, no dar el nombre,
-el domicilio ni la ocupación de los acusados «**salvo que la mención sea imprescindible**» (9.5.2).
+anonimato de víctimas o afectados (9.1.3), que los datos irrelevantes no acaparen la noticia (9.1.2) y,
+en información judicial, no citar el nombre, el domicilio, la ocupación ni detalles de familiares o
+amigos de las personas acusadas o condenadas, «**salvo que la mención sea imprescindible para que la
+noticia sea completa**» (9.5.2).
 
 La doctrina de los tribunales sobre esta ponderación no se da aquí: el tema se ciñe a la letra de las
 normas.
@@ -725,7 +742,7 @@ normas.
 | Difundir imágenes de menores en redes sociales | Consentimiento del menor o de sus representantes conforme al artículo 7 (art. 92 LOPDGDD), y la difusión que suponga intromisión ilegítima activa al Ministerio Fiscal (art. 84.2) |
 | Datos de salud, ideología, religión, origen racial, vida sexual | Categorías especiales: prohibidos salvo excepción del artículo 9.2 del Reglamento, y el solo consentimiento no basta cuando la finalidad principal sea identificarlos (art. 9.1 LOPDGDD) |
 | Una persona absuelta pide que se actualice una noticia sobre su detención | Aviso de actualización visible que haga referencia a la decisión judicial posterior (art. 86 LOPDGDD) |
-| Víctima de violencia de género, sus hijos o personas a su cargo | Se protege su intimidad y, en especial, sus datos personales (art. 63.1 LO 1/2004); especial cuidado en el tratamiento gráfico (art. 14) |
+| Víctima de violencia de género, sus descendientes o personas bajo su guarda o custodia | Se protege su intimidad y, en especial, sus datos personales (art. 63.1 LO 1/2004); especial cuidado en el tratamiento gráfico (art. 14) |
 | Persona grabada en la calle que aparece de pasada en un suceso público | No es intromisión si aparece como meramente accesoria (art. 8.2.c LO 1/1982); el artículo 22 LOPDGDD es la regla de la videovigilancia, no de la grabación informativa |
 
 ## Normativa que el tema invoca
@@ -733,8 +750,8 @@ normas.
 | Norma | Qué se usa |
 |---|---|
 | Constitución Española | Artículo 20.1.d) y 20.4 |
-| Reglamento (UE) 2016/679, general de protección de datos (DOUE L 119, de 4-5-2016; correcciones de errores de 2018 y 2021) | Artículos 2, 4, 5, 6, 7, 8, 9, 17.3, 85, 95 y 99; considerandos 26, 32, 65 y 153 |
-| Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | Artículos 1, 6 a 10, 12.6, 22, 84, 85, 86, 92 y 93 |
+| Reglamento (UE) 2016/679, general de protección de datos (DOUE L 119, de 4-5-2016; correcciones de errores de 2018 y 2021) | Artículos 2, 4, 5, 6, 7, 8, 9, 12, 17.3, 85, 95 y 99; considerandos 26, 32, 65, 71 y 153 |
+| Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | Artículos 1, 6 a 10, 12.6, 22, 26, 84, 85, 86, 92 y 93; disposición adicional séptima |
 | Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | Artículos 1.3, 2, 3, 4.4, 7, 8 y 9 |
 | Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor | Artículo 4 |
 | Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género | Artículos 14 y 63.1 |

@@ -8,7 +8,7 @@
 | Sirve para | Redactor/a de Canal Sur (grupo B02) |
 | Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; X Convenio Colectivo de la RTVA y sus sociedades filiales; Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión (2004); documentación técnica del INSST |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 11.106 palabras |
+| Extensión | 11.298 palabras |
 
 <!-- /portada -->
 
@@ -418,7 +418,7 @@ publicado la evaluación de riesgos del puesto.
 
 ### La organización preventiva de la RTVA
 
-**El X Convenio Colectivo de la RTVA y sus sociedades filiales** (BOJA núm. 240, de 10 de diciembre
+El X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10 de diciembre
 de 2014) dedica a la salud laboral sus artículos 25 a 31:
 
 - **Comités de seguridad y salud laboral** (artículo 25): **se constituirán comités de seguridad y
@@ -442,8 +442,8 @@ de 2014) dedica a la salud laboral sus artículos 25 a 31:
   y consensuadas en las comisiones técnicas de evaluación**, que integran el director o jefe de área
   al que está adscrito el puesto, los delegados de prevención del Comité Intercentros y los miembros
   del Servicio de Prevención de nivel superior.
-- **Planificación** (artículo 29): la RTVA **planificarán anualmente su actividad preventiva**
-  (así, en plural, en el texto) conforme a los artículos 8 y 9 del RD 39/1997. El mismo artículo
+- **Planificación** (artículo 29): **la Agencia Pública Empresarial de la RTVA y sus Sociedades
+  Filiales planificarán anualmente su actividad preventiva** conforme a los artículos 8 y 9 del RD 39/1997. El mismo artículo
   fija tres medidas que tocan al redactor: el descanso en pantallas (apartado 4, en el epígrafe 3),
   un programa sobre drogodependencias dentro del Plan de Prevención (apartado 5) y **una terapia
   rehabilitadora para la espalda de los/las trabajadores/as** como medida preventiva, **en un 75% en
@@ -451,9 +451,10 @@ de 2014) dedica a la salud laboral sus artículos 25 a 31:
 - **Prendas y protecciones** (artículo 30), en el epígrafe 5, y **unidad básica de salud laboral**
   (artículo 31) **en aquellas localidades en las que la Agencia Pública Empresarial de la RTVA y sus
   Sociedades Filiales cuente con más de 100 trabajadores/as**, **dirigido por un/a médico/a del
-  trabajo**.
+  trabajo**, **salvo en el centro de trabajo del Pabellón de Andalucía que estará atendido por la
+  Unidad Básica de Salud Laboral actualmente existente en San Juan de Aznalfarache-Sevilla**.
 
-La **Carta del Servicio Público de la RTVA 2024-2029** (BOJA núm. 247, de 28 de diciembre de 2023),
+La Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28 de diciembre de 2023),
 en su artículo 32.2, dice: **«Se considera principio prioritario en el desarrollo de la actividad del
 grupo empresarial la salvaguarda, promoción y garantía de la salud y seguridad de trabajadores y
 trabajadoras en todos los aspectos relacionados con sus puestos de trabajo, y realizará una efectiva
@@ -494,8 +495,8 @@ pantalla la mayor parte de la jornada. Por eso esta rúbrica es la que más le t
 ### La norma: el Real Decreto 488/1997
 
 **El Real Decreto 488/1997, de 14 de abril**, sobre disposiciones mínimas de seguridad y salud
-relativas al trabajo con equipos que incluyen pantallas de visualización, **no ha sido modificado
-nunca**: todos sus bloques tienen una sola redacción, la de 1997. Transpone la **Directiva
+relativas al trabajo con equipos que incluyen pantallas de visualización, no ha sido modificado
+nunca: todos sus bloques tienen una sola redacción, la de 1997. Transpone la **Directiva
 90/270/CEE, de 29 de mayo**, y se dicta de conformidad con el **artículo 6 de la Ley 31/1995**. Su
 **disposición final primera** encarga al Instituto Nacional de Seguridad e Higiene en el Trabajo
 (hoy INSST) que **elaborará y mantendrá actualizada una Guía Técnica para la evaluación y
@@ -503,7 +504,8 @@ prevención de los riesgos**; la edición vigente es la de **junio de 2021**.
 
 **Objeto y exclusiones (artículo 1).** Establece **las disposiciones mínimas de seguridad y de
 salud para la utilización por los trabajadores de equipos que incluyan pantallas de
-visualización**, y **las disposiciones de la Ley 31/1995 se aplicarán plenamente** a ese ámbito.
+visualización**, y **las disposiciones de la Ley 31/1995**, de Prevención de Riesgos Laborales,
+**se aplicarán plenamente** a ese ámbito.
 **Quedan excluidos**:
 
 | | Excluido |
@@ -515,8 +517,8 @@ visualización**, y **las disposiciones de la Ley 31/1995 se aplicarán plenamen
 | **e)** | **Las calculadoras, cajas registradoras y todos aquellos equipos que tengan un pequeño dispositivo de visualización de datos o medidas necesario para la utilización directa de dichos equipos.** |
 | **f)** | **Las máquinas de escribir de diseño clásico, conocidas como máquinas de ventanilla.** |
 
-La letra d) importa al redactor/a que trabaja con portátil: **el portátil no está excluido sin
-más**; lo está mientras no se use **de modo continuado en un puesto de trabajo**.
+La letra d) importa al redactor/a que trabaja con portátil: el portátil no está excluido sin
+más; lo está mientras no se use **de modo continuado en un puesto de trabajo**.
 
 **Definiciones (artículo 2).**
 
@@ -570,7 +572,8 @@ directo.
 trabajadores a una vigilancia adecuada de su salud, teniendo en cuenta en particular los riesgos
 para la vista y los problemas físicos y de carga mental, el posible efecto añadido o combinado de
 los mismos, y la eventual patología acompañante**. **Tal vigilancia será realizada por personal
-sanitario competente**, y **deberá ofrecerse** en tres ocasiones:
+sanitario competente y según determinen las autoridades sanitarias en las pautas y protocolos que
+se elaboren**, y **deberá ofrecerse** en tres ocasiones:
 
 - **a) Antes de comenzar a trabajar con una pantalla de visualización.**
 - **b) Posteriormente, con una periodicidad ajustada al nivel de riesgo a juicio del médico
@@ -602,9 +605,9 @@ de riesgo para los trabajadores**.
 
 | Elemento | Lo que exige el anexo |
 | --- | --- |
-| **b) Pantalla** | Caracteres **bien definidos y configurados de forma clara**, de **dimensión suficiente**, con **espacio adecuado entre los caracteres y los renglones**; imagen **estable, sin fenómenos de destellos, centelleos u otras formas de inestabilidad**; **luminosidad y contraste** ajustables fácilmente por el usuario; **orientable e inclinable a voluntad**; **sin reflejos ni reverberaciones que puedan molestar al usuario**. **Podrá utilizarse un pedestal independiente o una mesa regulable para la pantalla** |
-| **c) Teclado** | **Inclinable e independiente de la pantalla para permitir que el trabajador adopte una postura cómoda que no provoque cansancio en los brazos o las manos**; **espacio suficiente delante del teclado** para apoyar brazos y manos; **superficie mate para evitar los reflejos**; **símbolos** que **resalten suficientemente y sean legibles desde la posición normal de trabajo** |
-| **d) Mesa o superficie de trabajo** | **Poco reflectantes**, de **dimensiones suficientes**, con **colocación flexible de la pantalla, del teclado, de los documentos y del material accesorio**; **soporte de los documentos estable y regulable**, colocado de modo que **se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos** |
+| **b) Pantalla** | Caracteres **bien definidos y configurados de forma clara**, de **dimensión suficiente**, con **espacio adecuado entre los caracteres y los renglones**; imagen **estable, sin fenómenos de destellos, centelleos u otras formas de inestabilidad**; **la luminosidad y el contraste** ajustables fácilmente por el usuario; **orientable e inclinable a voluntad**; sin **reflejos ni reverberaciones que puedan molestar al usuario**. **Podrá utilizarse un pedestal independiente o una mesa regulable para la pantalla** |
+| **c) Teclado** | **Inclinable e independiente de la pantalla para permitir que el trabajador adopte una postura cómoda que no provoque cansancio en los brazos o las manos**; **espacio suficiente delante del teclado** para apoyar brazos y manos; superficie **mate para evitar los reflejos**; **símbolos** que deberán **resaltar suficientemente y ser legibles desde la posición normal de trabajo** |
+| **d) Mesa o superficie de trabajo** | **Poco reflectantes**, de **dimensiones suficientes**, con **colocación flexible de la pantalla, del teclado, de los documentos y del material accesorio**; **el soporte de los documentos** **estable y regulable**, colocado de modo que **se reduzcan al mínimo los movimientos incómodos de la cabeza y los ojos** |
 | **e) Asiento de trabajo** | **Estable**, con **libertad de movimiento** y **postura confortable**; **la altura del mismo deberá ser regulable**; **el respaldo deberá ser reclinable y su altura ajustable**; **se pondrá un reposapiés a disposición de quienes lo deseen** |
 
 **2. Entorno**, en siete letras: **a) espacio** suficiente **para permitir los cambios de postura y
@@ -634,8 +637,9 @@ No está en el real decreto, sino en la Guía Técnica del INSST:
 - la pantalla, **en ningún caso debe estar situada a menos de 300 mm**;
 - **los tamaños de las pantallas que se emplean habitualmente en tareas de oficina requieren
   habitualmente una distancia comprendida entre 400 mm y 750 mm**;
-- **la parte superior de la misma** debe **coincidir con la altura de los ojos del usuario**, de
-  manera que se vea **entre la línea de visión horizontal y la trazada a 40° bajo la horizontal**.
+- la pantalla **se situará a una altura tal que la parte superior de la misma coincida con la altura
+  de los ojos del usuario**, de manera que se vea **entre la línea de visión horizontal y la trazada
+  a 40° bajo la horizontal**, **de forma que la flexión del cuello esté entre 0° y 25°**.
 
 Los 300 mm son el mínimo absoluto; 400-750 mm, el intervalo habitual en oficina.
 
@@ -727,7 +731,7 @@ cuello y las extremidades superiores**.
 - **Individuales**: **edad, sexo, estado de salud previo, estilo de vida, falta de entrenamiento en
   la tarea o formación**.
 
-El INSST cita **el trabajo con ordenadores** entre las ocupaciones en que prevalecen los trabajos
+El INSST cita el **trabajo con ordenadores** entre las ocupaciones en que prevalecen los trabajos
 repetitivos, cuyas consecuencias **se localizan principalmente en la zona de la mano, brazo y
 hombro**. Y **la monotonía es una de las características de los trabajos repetitivos prolongados
 en el tiempo**, que puede generar **somnolencia, aburrimiento, ansiedad, depresión**.
@@ -739,22 +743,24 @@ riesgo** y **la evaluación**; y para intervenir, **dos tipos de medidas prevent
 de pausas y descansos, rotaciones de puestos, modificación de ritmos de trabajo**.
 
 En el puesto de pantalla, las medidas de diseño que previenen los TME son las del anexo del RD
-488/1997 que tocan a la postura: **altura regulable** del asiento, **respaldo reclinable y de
-altura ajustable**, **reposapiés** a disposición de quien lo desee, **teclado inclinable e
-independiente de la pantalla** con **espacio suficiente delante** para apoyar brazos y manos, y
-**mesa de dimensiones suficientes**. Mantener limpia la pantalla o evitar reflejos previene la
+488/1997 que tocan a la postura: altura regulable del asiento, respaldo reclinable y de altura
+ajustable, reposapiés a disposición de quien lo desee, teclado inclinable e independiente de la
+pantalla con espacio suficiente delante para apoyar brazos y manos, y mesa de dimensiones
+suficientes. Mantener limpia la pantalla o evitar reflejos previene la
 fatiga visual, no los TME. En la RTVA, el convenio añade **una terapia rehabilitadora para la
 espalda** como medida preventiva (artículo 29.6, visto en el epígrafe 2).
 
 ## 4. Accidente in itinere y en misión
 
 Ni «in itinere» ni «en misión» aparecen en la Ley 31/1995. Su **disposición adicional primera**
-(**Definiciones a efectos de Seguridad Social**) dispone que **la definición de los conceptos de
+(**Definiciones a efectos de Seguridad Social**) dispone que, **sin perjuicio de la utilización de
+las definiciones contenidas en esta Ley en el ámbito de la normativa sobre prevención de riesgos
+laborales**, **tanto la definición de los conceptos de
 accidente de trabajo, enfermedad profesional, accidente no laboral y enfermedad común, como el
 régimen jurídico establecido para estas contingencias en la normativa de Seguridad Social,
 continuarán siendo de aplicación en los términos y con los efectos previstos en dicho ámbito
-normativo**. La norma es, pues, el **artículo 156 del texto refundido de la Ley General de la
-Seguridad Social** (Real Decreto Legislativo 8/2015, de 30 de octubre), que tiene una sola
+normativo**. La norma es, pues, el artículo 156 del texto refundido de la Ley General de la
+Seguridad Social (Real Decreto Legislativo 8/2015, de 30 de octubre), que tiene una sola
 redacción, vigente desde el 2 de enero de 2016.
 
 ### El artículo 156 de la LGSS
@@ -774,7 +780,7 @@ ocasión o por consecuencia del trabajo que ejecute por cuenta ajena.**
 | **f)** | **Las enfermedades o defectos, padecidos con anterioridad por el trabajador, que se agraven como consecuencia de la lesión constitutiva del accidente.** |
 | **g)** | **Las consecuencias del accidente que resulten modificadas en su naturaleza, duración, gravedad o terminación, por enfermedades intercurrentes**, que constituyan complicaciones del proceso patológico del accidente o tengan su origen en afecciones adquiridas en el nuevo medio en que se haya situado el paciente para su curación. |
 
-**La letra a) es la base legal del accidente in itinere**, y no dice más: **al ir o al volver del
+La letra a) es la base legal del accidente in itinere, y no dice más: **al ir o al volver del
 lugar de trabajo**. Sus requisitos los ha precisado la jurisprudencia.
 
 **156.3. La presunción.** **Se presumirá, salvo prueba en contrario, que son constitutivas de
@@ -807,9 +813,13 @@ el BOE (las sentencias no se han leído en su texto original):
 | **Teleológico** | Que esté **motivado única y exclusivamente por el desarrollo de la relación laboral**; su causa reside **en el inicio o finalización de los servicios** |
 | **Cronológico** | Que ocurra **en el momento inmediato o razonablemente próximo a las horas de entrada y salida del trabajo** |
 | **Topográfico** o geográfico | Que se produzca **cuando se utiliza un trayecto habitual entre el domicilio y el centro de trabajo** |
-| **Mecánico** o de idoneidad del medio | **El medio utilizado para el desplazamiento, que ha de ser razonable y adecuado a la realidad social**, a pie o en transporte mecánico, público o privado |
+| **Mecánico** o de idoneidad del medio | **El medio utilizado para el desplazamiento, que ha de ser razonable y adecuado a la realidad social**, **pudiendo ser a pie o mecánico, sea público o privado** |
 
-El INSST (NTP 1090, 2017) lo resume en dos condiciones: **el accidente debe producirse en el
+El mismo Anuario añade que se exige también **la corrección de la actitud y un comportamiento no
+temerario del trabajador**.
+
+El INSST (NTP 1090, 2017) recoge lo que, según dice, **la jurisprudencia** puntualiza, en dos
+condiciones: **el accidente debe producirse en el
 recorrido habitual entre el lugar de residencia y el de trabajo** y **no deben producirse
 interrupciones durante dicho recorrido habitual**. Y precisa que **no todos los accidentes de
 trabajo "in itínere" son accidentes de tráfico, también hay caídas, patologías no traumáticas,
@@ -825,12 +835,16 @@ distingue del **accidente de trabajo de conductores profesionales**, que utiliza
 como centro de trabajo para cumplir su tarea**.
 
 El Tribunal Supremo, según el mismo Anuario del BOE, lo ha aceptado **como una modalidad
-específica de accidente de trabajo** que exige dos elementos conectados, **el desplazamiento** y
-**el trabajo que constituye el objeto de la misión**, pero con límites: **no todo lo que ocurre
-durante la misión queda cubierto por la presunción** del artículo 156.3; se exige **un dato o
-indicio** que conecte el accidente con el trabajo, y **la presunción no se aplica a lo sucedido en
-el ámbito normalmente privado**, salvo que concurran **circunstancias de hecho que comporten un
-especial riesgo**.
+específica de accidente de trabajo, en la que se produce un desplazamiento del trabajador para
+realizar una actividad encomendada por la empresa**. **La misión integra dos elementos conectados
+ambos con la prestación de servicios del trabajador: el desplazamiento para cumplir la misión y la
+realización del trabajo en que consiste la misión**. Tiene límites: **no todo lo que sucede
+durante la misión tiene una conexión necesaria con el trabajo**; para calificarlo como laboral **es necesario
+que concurra un dato o indicio que permita entenderlo**, y **la presunción del artículo 156.3 LGSS
+no es aplicable a sucesos que acaecen en el ámbito normalmente privado**. Las sentencias que han
+apreciado la laboralidad por «ocasionalidad relevante» **parten de la concurrencia de
+circunstancias de hecho que comportan un especial riesgo, sin el cual no habría podido producirse
+el accidente**.
 
 Para el redactor/a la distinción es cotidiana: el trayecto de casa a la sede o al centro
 territorial es in itinere; el desplazamiento a una cobertura, a un directo o a una rueda de prensa
@@ -858,7 +872,7 @@ La NTP 1091 (2017) ordena las medidas en dos instrumentos:
   **formaría parte de la planificación preventiva para el control de los riesgos laborales, de
   acuerdo a los resultados de la evaluación de riesgos**; se hace **cuando existan riesgos
   laborales viales derivados de la actividad laboral** y **debería integrarse al Plan de
-  Prevención de la empresa**. Sus medidas, **a título orientativo**, son:
+  Prevención de la empresa**. Entre sus medidas, que la NTP da **a título orientativo**, están:
   - **materiales**: **gestión de la flota de vehículos**, **programa de mantenimiento y revisión
     del buen estado de vehículos**, **medidas favorecedoras del transporte público y vehículos
     compartidos**;
@@ -872,7 +886,7 @@ La NTP 1091 (2017) ordena las medidas en dos instrumentos:
     carga de trabajo**, **previsión de urgencias en la movilidad**, **alimentación saludable con
     limitación y control en el uso de alcohol y psicofármacos** y **protocolos de actuación ante
     accidentes laborales viales**.
-- **El Plan de Movilidad (PM)**: **la acción preventiva para reducir accidentes laborales "in
+- El **Plan de Movilidad** (PM): **la acción preventiva para reducir accidentes laborales "in
   itínere" formaría parte natural del Plan de Movilidad por su dimensión no reglamentaria, aunque
   podría formar parte del Plan de Seguridad Laboral Viaria o de un único Plan de acción
   integrado**.
@@ -889,9 +903,9 @@ La base legal es el artículo 17.2 de la Ley 31/1995 (epígrafe 1): el empresari
 proporcionar** EPI adecuados y **velar por el uso efectivo**, y **los equipos de protección
 individual deberán utilizarse cuando los riesgos no se puedan evitar o no puedan limitarse
 suficientemente por medios técnicos de protección colectiva o mediante medidas, métodos o
-procedimientos de organización del trabajo**. Lo desarrolla el **Real Decreto 773/1997, de 30 de
-mayo**, cuyos artículos 2 y 6, su disposición final segunda y sus anexos I a IV tienen la
-redacción que les dio en 2021 una reforma vigente desde el **9 de diciembre de 2021**; el resto
+procedimientos de organización del trabajo**. Lo desarrolla el Real Decreto 773/1997, de 30 de
+mayo, cuyos artículos 2 y 6, su disposición final segunda y sus anexos I a IV tienen la
+redacción que les dio en 2021 una reforma vigente desde el 9 de diciembre de 2021; el resto
 conserva la de 1997.
 
 **Definición (artículo 2.1).** **Se entenderá por «equipo de protección individual», cualquier
@@ -914,8 +928,8 @@ destinado a tal fin.**
 **Cuándo se usan (artículo 4).** **Deberán utilizarse cuando existan riesgos para la seguridad o
 salud de los trabajadores que no hayan podido evitarse o limitarse suficientemente por medios
 técnicos de protección colectiva o mediante medidas, métodos o procedimientos de organización del
-trabajo.** Es la regla de subsidiariedad del artículo 15.1.h) de la ley: **anteponer la protección
-colectiva a la individual**.
+trabajo.** Es la regla de subsidiariedad del artículo 15.1.h) de la ley: **adoptar medidas que
+antepongan la protección colectiva a la individual**.
 
 **Obligaciones del empresario (artículo 3)**: **a) determinar los puestos de trabajo en los que
 deba recurrirse a la protección individual** y precisar, para cada uno, **el riesgo o riesgos
@@ -932,7 +946,8 @@ en cuenta las condiciones anatómicas y fisiológicas y el estado de salud del t
 **adecuarse al portador, tras los ajustes necesarios**. Si hay que llevar varios a la vez, **deberán
 ser compatibles entre sí**.
 
-**Utilización (artículo 7).** Su uso, almacenamiento, mantenimiento y limpieza **deberán efectuarse
+**Utilización (artículo 7).** Su utilización, almacenamiento, mantenimiento, limpieza, desinfección
+cuando proceda, y reparación **deberán efectuarse
 de acuerdo con las instrucciones del fabricante**; **salvo en casos particulares excepcionales, los
 equipos de protección individual sólo podrán utilizarse para los usos previstos**; y **estarán
 destinados, en principio, a un uso personal**.
@@ -956,7 +971,7 @@ Es la concreción, para los EPI, de las obligaciones 2.ª y 4.ª del artículo 2
 
 ### Los EPI en la RTVA y en el trabajo del redactor/a
 
-El **artículo 30 del X Convenio** («**Prendas y protecciones de seguridad**») dispone: **«La
+El artículo 30 del X Convenio («**Prendas y protecciones de seguridad**») dispone: **«La
 Empresa facilitará las prendas y protecciones de seguridad necesarias, a todos aquellos/as
 trabajadores/as que por las características del trabajo a desarrollar, así lo requieran. Dichas
 prendas o protecciones deberán estar homologadas. El Comité de Salud Laboral especificará las
