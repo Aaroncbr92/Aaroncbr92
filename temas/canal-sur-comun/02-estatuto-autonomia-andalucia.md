@@ -768,9 +768,9 @@ los derechos del Estatuto. En todo caso lo es en los órdenes «**civil, penal, 
 administrativo, social y en los que pudieran crearse en el futuro**» (artículo 140.1 del
 Estatuto). La LOPJ dice lo mismo desde el lado estatal: el Tribunal Superior de Justicia
 «**culminará la organización judicial en el ámbito territorial de aquélla, sin perjuicio de la
-jurisdicción que corresponde al Tribunal Supremo**» (artículo 70). Es el poder judicial del
-Estado en Andalucía, no un órgano de la Junta, y por eso el Estatuto lo regula en el título V y
-no entre las instituciones de autogobierno.
+jurisdicción que corresponde al Tribunal Supremo**» (artículo 70). El Estatuto lo regula en el
+título V («El Poder Judicial en Andalucía»), no entre las instituciones de autogobierno del
+título IV.
 
 *Última instancia y unificación.* El TSJA es «**la última instancia jurisdiccional de todos los
 procesos judiciales iniciados en Andalucía**», así como de los recursos tramitados en su
@@ -974,8 +974,9 @@ enero de 2026). Las cuentas de las corporaciones locales se presentan en el mes 
 aprobación por el Pleno y, en todo caso, «**antes del primero de noviembre**». Los resultados se
 exponen en informes anuales o especiales que se elevan al Parlamento, se remiten al Tribunal de
 Cuentas y se publican en el BOJA; si advierte indicios de responsabilidad contable, la Cámara
-los traslada «**sin dilación**» al Tribunal de Cuentas (artículo 12). Rinde al Parlamento, antes
-del 1 de marzo de cada año, una memoria de lo actuado el año anterior (artículo 35).
+los traslada «**sin dilación**» al Tribunal de Cuentas (artículo 12). Rinde a la comisión
+parlamentaria de Hacienda, antes del 1 de marzo de cada año, una memoria de lo actuado el año
+anterior, con la liquidación de su presupuesto (artículo 35).
 
 *Órganos* (artículo 16, en la redacción de la Ley 3/2011, de 28 de abril): el Pleno, la Comisión
 de Gobierno, la Presidencia, la Vicepresidencia, los Consejeros y la Secretaría General. El
@@ -1105,3 +1106,496 @@ Un cuadro de las mayorías de elección de las tres instituciones parlamentarias
 | Consejeros de la Cámara de Cuentas (siete) | Parlamento | Tres quintos | Seis años, renovación por tres y cuatro séptimas partes | Ley 1/1988, 24.1 |
 | Presidencia de la Cámara de Cuentas | Presidente de la Junta, a propuesta del Pleno de la Cámara | — | Tres años, reelegible | Ley 1/1988, 24.2 |
 | Dirección de la Oficina contra el Fraude | Pleno del Parlamento; nombra la Presidencia del Parlamento | Tres quintos; en segunda votación, absoluta | Cinco años, no renovable | Ley 2/2021, 25 |
+
+### La Presidencia de la Junta de Andalucía: elección, estatuto personal y funciones
+
+La regulan el Estatuto (artículos 116 a 118, y 124 a 127 para sus relaciones con el Parlamento)
+y la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, cuyo
+objeto es «**la regulación de la Presidencia y del Consejo de Gobierno de la Junta de
+Andalucía**» (artículo 1). La ley resume la figura en su artículo 2: la persona titular de la Presidencia
+«**ostenta la suprema representación de la Comunidad Autónoma y la ordinaria del Estado en
+Andalucía. Asimismo, dirige y coordina la acción del Consejo de Gobierno y de la Administración
+de la Comunidad Autónoma.**»
+
+*Elección.* «**El Presidente de la Junta será elegido de entre sus miembros por el
+Parlamento.**» (artículo 118.1 del Estatuto): tiene que ser Diputado. El procedimiento:
+
+1. **Propuesta.** El Presidente del Parlamento, «**previa consulta a los Portavoces designados
+   por los partidos o grupos políticos con representación parlamentaria**», propone un candidato
+   (118.2). El Reglamento del Parlamento añade que la propuesta debe hacerse, como máximo,
+   «**dentro del plazo de quince días desde la constitución del Parlamento o desde la dimisión
+   del Presidente**» (artículo 138.1).
+2. **Programa.** El candidato presenta su programa al Parlamento (118.3); según el Reglamento del
+   Parlamento lo expone sin limitación de tiempo, la sesión se suspende hasta el día siguiente y
+   después intervienen los grupos (138.3 y 138.4).
+3. **Votación.** «**Para ser elegido, el candidato deberá, en primera votación, obtener mayoría
+   absoluta. De no obtenerla, se procederá a una nueva votación cuarenta y ocho horas después de
+   la anterior, y la confianza se entenderá otorgada si obtuviera mayoría simple en la segunda o
+   sucesivas votaciones.**» (118.3).
+4. **Si nadie la obtiene.** Se tramitan sucesivas propuestas. «**Si, transcurrido el plazo de dos
+   meses a partir de la primera votación, ningún candidato hubiera obtenido la mayoría simple, el
+   Parlamento quedará automáticamente disuelto y el Presidente de la Junta en funciones
+   convocará nuevas elecciones.**» (118.3).
+5. **Nombramiento.** «**Una vez elegido, el Presidente será nombrado por el Rey**» y designa a
+   los miembros del Consejo de Gobierno (118.4). El nombramiento se publica en el BOE y en el
+   BOJA (artículo 5 de la Ley 6/2006), y el Presidente toma posesión «**dentro de los cinco días
+   siguientes al de la publicación de su nombramiento en el Boletín Oficial de la Junta de
+   Andalucía**» (artículo 6).
+
+**El Reglamento del Parlamento no cuadra con el Estatuto en el paso 4.** Su artículo 138.7
+reproduce la primera parte del 118.3 del Estatuto, pero termina de otra forma: si en dos meses
+ninguna candidatura obtiene la mayoría simple, «**quedará designado Presidente o Presidenta de la
+Junta de Andalucía el candidato o candidata del partido que tenga mayor número de escaños**». El
+Estatuto dice que el Parlamento queda automáticamente disuelto y se convocan elecciones. La
+nota a pie del propio Reglamento consolidado remite a ese artículo 118.3 del Estatuto. Ante la
+pregunta de qué ocurre según el Estatuto, la respuesta es la disolución automática. El
+artículo 127.3 del Estatuto confirma que esa disolución existe, porque la exceptúa del plazo de
+un año entre disoluciones.
+
+*Estatuto personal* (Ley 6/2006, capítulo IV del título I, y Estatuto):
+
+- **Derechos** (artículo 15): la precedencia sobre cualquier autoridad de la Comunidad «**y la que
+  le reserve la legislación del Estado**»; los honores del cargo; usar la bandera y el escudo de
+  Andalucía como distintivo; «**Percibir las retribuciones establecidas en su normativa
+  específica**» (letra d, en la redacción del Decreto-ley 11/2023, de 27 de diciembre, vigente desde el 27 de
+  diciembre de 2023; antes decía «**Percibir las retribuciones que se fijen en las leyes del
+  Presupuesto de la Comunidad Autónoma**»); y ocupar la residencia oficial.
+- **Incompatibilidades.** El Estatuto fija la regla básica: «**El Presidente y los Consejeros no
+  podrán ejercer actividad laboral, profesional o empresarial alguna.**» (artículo 121). La ley la
+  completa: la Presidencia es incompatible con cualquier otra función o actividad pública que no
+  derive de ella, «**salvo la de diputado o diputada en el Parlamento de Andalucía**», y le es
+  aplicable el régimen de incompatibilidades de los altos cargos (artículo 16).
+- **Fuero.** «**La responsabilidad penal del Presidente de la Junta será exigible ante la Sala de
+  lo Penal del Tribunal Supremo. Ante el mismo Tribunal será exigible la responsabilidad civil en
+  que hubiera incurrido el Presidente de la Junta con ocasión del ejercicio de su cargo.**»
+  (artículo 118.5 del Estatuto). La Ley 6/2006 dice que la responsabilidad civil y penal «**será
+  exigible ante la Sala correspondiente del Tribunal Supremo**» (artículo 17). No se contradicen,
+  pero no dicen lo mismo: el Estatuto nombra la Sala de lo Penal para la penal y «el mismo
+  Tribunal» para la civil; la ley no nombra Sala. A diferencia de los Consejeros, el Presidente
+  nunca responde ante el TSJA.
+
+*Funciones.* El Estatuto las resume en el artículo 117.1: el Presidente «**dirige y coordina la
+actividad del Consejo de Gobierno, coordina la Administración de la Comunidad Autónoma, designa
+y separa a los Consejeros y ostenta la suprema representación de la Comunidad Autónoma y la
+ordinaria del Estado en Andalucía**». Además:
+
+- «**podrá delegar temporalmente funciones ejecutivas propias en uno de los Vicepresidentes o
+  Consejeros**» (117.2); la delegación «**no exime**» de responsabilidad política ante el
+  Parlamento (artículo 40 de la Ley 6/2006), y de ella conoce la Diputación Permanente cuando el
+  Parlamento no está reunido (artículo 58 del Reglamento del Parlamento).
+- Es responsable políticamente ante el Parlamento (117.3).
+- Puede proponer, por iniciativa propia o a solicitud de los ciudadanos, consultas populares en
+  el ámbito de la Comunidad (117.4).
+- Promulga las leyes en nombre del Rey y ordena su publicación en el BOJA en quince días y en el
+  BOE (artículo 116).
+
+La Ley 6/2006 las ordena en cuatro grupos:
+
+1. **Como suprema representación de la Comunidad** (artículo 7): a) representarla en las
+   relaciones con otras instituciones del Estado y en el ámbito internacional cuando proceda; b)
+   firmar los convenios y acuerdos de cooperación de la Comunidad.
+2. **Como representación ordinaria del Estado en Andalucía** (artículo 8): a) promulgar en nombre
+   del Rey las leyes de Andalucía y ordenar su publicación en el BOJA y en el BOE; b) ordenar la
+   publicación en el BOJA del nombramiento del Presidente del TSJA.
+3. **En relación con el Parlamento** (artículo 9), cinco: a) convocar elecciones; b) disolverlo;
+   c) plantear la cuestión de confianza; d) solicitar que se reúna en sesión extraordinaria; e)
+   convocar la sesión constitutiva.
+4. **Como Presidente del Consejo de Gobierno** (artículo 10.1), trece letras, de la a) a la m):
+   fijar las directrices generales de la acción de gobierno y asegurar su continuidad (a);
+   coordinar el programa legislativo (b) y la acción exterior (c); facilitar al Parlamento la
+   información que recabe (d); «**Nombrar y separar a las personas titulares de las
+   Vicepresidencias y de las Consejerías**» (e); convocar el Consejo y sus Comisiones Delegadas y
+   fijar el orden del día (f); presidir, suspender y levantar sus sesiones y dirigir las
+   deliberaciones (g); «**Dictar decretos que supongan la creación de Consejerías, la modificación
+   en la denominación de las existentes, en su distribución de competencias o su orden de
+   prelación, así como la supresión de las mismas**» (h); coordinar las Consejerías y resolver
+   los conflictos de atribuciones entre ellas (i); encomendar a un Consejero la gestión de otra
+   Consejería por ausencia, enfermedad o impedimento del titular (j); establecer las normas
+   internas del Consejo (k); firmar los decretos del Consejo y ordenar su publicación (l); y velar
+   por el cumplimiento de sus acuerdos (m).
+
+La Presidencia «**puede, en su caso, delegar**» sus atribuciones en los titulares de las
+Vicepresidencias y Consejerías (artículo 11.1), pero solo las ocho que enumera el 11.2: la
+representación institucional e internacional, la firma de convenios, la orden de publicar el
+nombramiento del Presidente del TSJA, facilitar información al Parlamento, convocar el Consejo y
+sus Comisiones Delegadas y fijar el orden del día, las normas internas del Consejo, velar por el
+cumplimiento de sus acuerdos y las atribuciones de otras normas del artículo 10.2. Quedan fuera
+de esa lista, entre otras, nombrar y separar Consejeros, crear o suprimir Consejerías, disolver
+el Parlamento o plantear la cuestión de confianza. Sus decisiones propias revisten la
+forma de «Decretos de la Presidencia», que «**llevarán exclusivamente la firma del Presidente o
+de la Presidenta de la Junta de Andalucía**» (artículo 46.1).
+
+*Cese* (artículo 12.1 de la Ley 6/2006, en la redacción de la Ley 2/2021). Diez causas:
+
+- a) tras la celebración de elecciones;
+- b) aprobación de una moción de censura;
+- c) denegación de una cuestión de confianza;
+- d) «**Dimisión comunicada formalmente al Parlamento de Andalucía**»;
+- e) incapacidad permanente física o mental que le imposibilite para el cargo;
+- f) fallecimiento;
+- g) pérdida de la condición de parlamentario;
+- h) condena penal firme que lleve aparejada inhabilitación para el cargo;
+- i) sentencia judicial firme de incapacitación;
+- j) incurrir en determinadas causas de incompatibilidad de la Ley 3/2005, de 8 de abril, de
+  incompatibilidades de altos cargos (letra añadida por la Ley 2/2021).
+
+La incapacidad de la letra e) la aprecia el Consejo de Gobierno, excluido el Presidente, «**por
+unanimidad**», y la propone al Parlamento, que «**en caso de que la estime, deberá declararla por
+mayoría absoluta**» (12.2). El Estatuto enumera menos supuestos al regular el cese del Consejo
+de Gobierno (elecciones, pérdida de la confianza, moción de censura, dimisión, incapacidad,
+condena penal firme que inhabilite y fallecimiento del Presidente, artículo 120); la lista de
+la ley es más larga.
+
+*Efectos del cese, sustitución y suplencia* (artículos 13 y 14 de la Ley 6/2006):
+
+- En las causas a) a d), el Presidente sigue en funciones hasta que su sucesor tome posesión
+  (13.1). En funciones no puede ser sometido a moción de censura ni designar o separar
+  Vicepresidentes o Consejeros, crear, modificar o suprimir Vicepresidencias o Consejerías,
+  disolver el Parlamento o plantear la cuestión de confianza (13.4 y 37.4).
+- En las causas e) a j), y en la d) si el dimisionario accede a un cargo incompatible, le
+  sustituyen los titulares de las Vicepresidencias, por su orden, y si no las hay, los de las
+  Consejerías, por su orden (13.2); el Presidente del Parlamento abre inmediatamente consultas
+  para proponer candidato (13.3).
+- En ausencia, enfermedad o impedimento temporal, la suplencia sigue el mismo orden, y quien
+  supla solo puede despachar los asuntos de trámite, «**salvo casos de urgencia o interés general
+  debidamente acreditados**» (artículo 14).
+
+*Responsabilidad política y relaciones con el Parlamento.* «**El Consejo de Gobierno responde
+políticamente ante el Parlamento de forma solidaria, sin perjuicio de la responsabilidad directa
+de cada Consejero por su gestión.**» (artículo 124 del Estatuto). Los instrumentos son tres:
+
+- **Cuestión de confianza** (artículo 125 del Estatuto). El Presidente, «**previa deliberación
+  del Consejo de Gobierno**», puede plantearla sobre su programa o sobre una declaración de
+  política general. «**La confianza se entenderá otorgada cuando vote a favor de la misma la
+  mayoría simple de los Diputados.**» Si se niega, el Presidente dimite y el Presidente del
+  Parlamento convoca, «**en el plazo máximo de quince días**», el pleno para elegir nuevo
+  Presidente por el procedimiento del artículo 118. El Reglamento del Parlamento añade que no
+  puede votarse hasta que transcurran veinticuatro horas desde su presentación (artículo 145.2).
+- **Moción de censura** (artículo 126 del Estatuto). El Parlamento exige la responsabilidad
+  política del Consejo de Gobierno «**mediante la adopción por mayoría absoluta de la moción de
+  censura**». Debe proponerla «**al menos, una cuarta parte de los parlamentarios**» e incluir un
+  candidato a la Presidencia; no puede votarse «**hasta que transcurran cinco días desde su
+  presentación**»; si no prospera, sus signatarios no pueden presentar otra en el mismo período
+  de sesiones. Si se aprueba, el Presidente dimite, el candidato se entiende investido y el Rey
+  lo nombra. Según el Reglamento del Parlamento, en los dos días siguientes pueden presentarse
+  mociones alternativas (140.3); si se aprueba una, no se votan las demás (141.6).
+- **Disolución** (artículo 127 del Estatuto). El Presidente, «**previa deliberación del Consejo
+  de Gobierno y bajo su exclusiva responsabilidad, podrá decretar la disolución del
+  Parlamento**»; el decreto fija la fecha de las elecciones. No cabe con una moción de censura en
+  trámite, ni «**antes de que haya transcurrido un año desde la anterior, salvo lo dispuesto en el
+  artículo 118.3**». El decreto se publica en el BOJA y entra en vigor el mismo día de su
+  publicación (artículo 42 de la Ley 6/2006).
+
+**Otra discordancia, menor.** El artículo 41.3 de la Ley 6/2006 repite el plazo de un año entre
+disoluciones («**al menos, un año desde la última disolución de la Cámara**») sin la salvedad del
+artículo 118.3 que sí trae el Estatuto (la disolución automática por investidura fallida no
+cuenta). La salvedad es del Estatuto.
+
+Además, el Consejo de Gobierno y sus miembros deben acudir al Parlamento cuando este reclame su
+presencia, atender preguntas, interpelaciones y mociones y proporcionarle información; tienen
+acceso a sus sesiones y la facultad de hacerse oír en ellas (artículo 38 de la Ley 6/2006).
+
+### El Consejo de Gobierno: composición, carácter, atribuciones y funcionamiento
+
+*Carácter.* «**El Consejo de Gobierno de Andalucía es el órgano colegiado que, en el marco de sus
+competencias, ejerce la dirección política de la Comunidad Autónoma, dirige la Administración y
+desarrolla las funciones ejecutivas y administrativas de la Junta de Andalucía.**» (artículo
+119.2 del Estatuto). La Ley 6/2006 lo llama «**órgano superior colegiado**» y le atribuye, a ese
+fin, «**la iniciativa legislativa y la potestad reglamentaria**» (artículo 3). La potestad
+reglamentaria corresponde, en el ámbito de las competencias de la Comunidad, «**al Consejo de
+Gobierno y a cada uno de sus miembros**» (119.3); los reglamentos generales de las leyes son del
+Consejo (artículo 112). Según la Ley 6/2006, los Consejeros solo tienen potestad reglamentaria
+en la organización y materias internas de su Consejería, salvo habilitación por ley o por
+reglamento del Consejo (artículo 44.2), y los reglamentos se ordenan jerárquicamente: primero
+los de la Presidencia o del Consejo de Gobierno, después los de los Consejeros (44.3).
+
+*Composición.* «**El Consejo de Gobierno está integrado por el Presidente, los Vicepresidentes en
+su caso, y los Consejeros.**» (artículo 119.1). La Ley 6/2006 lo concreta (artículo 18): se
+compone de las personas titulares de la Presidencia, de la Vicepresidencia o Vicepresidencias,
+en su caso, y de las Consejerías (18.1), y también son miembros «**los Consejeros y las
+Consejeras sin cartera**» (18.2). En las designaciones que hace el Presidente, «**cada sexo estará
+representado en, al menos, un cuarenta por ciento**» (18.3).
+
+- **Vicepresidencias.** El Presidente «**podrá**» crear una o varias, con su orden de prelación;
+  quien la ocupe puede ser además titular de una Consejería; y «**El cese de la persona titular de
+  una Vicepresidencia llevará aparejada la supresión del órgano.**» (artículo 19).
+- **Consejerías.** Sus titulares forman parte del Consejo y dirigen los órganos superiores de la
+  Administración que se les asignen (20.1). Como miembros del Consejo tienen ocho atribuciones:
+  desarrollar la acción del Gobierno en su ámbito, representar su Consejería, proponer al Consejo
+  anteproyectos de ley, proyectos de decreto, el programa de actuación y los nombramientos de
+  altos cargos, declarar la urgencia de las iniciativas normativas según el artículo 45 bis, y
+  las demás que les correspondan (artículo 21).
+- **Consejeros sin cartera.** El Presidente puede nombrarlos, con determinadas funciones pero
+  «**sin adscripción de unidades administrativas**»; su cese también suprime el órgano (20.2).
+- **Nombramiento, suplencia y cese.** Los nombra y cesa el Presidente; el nombramiento se publica
+  en el BOJA y el mandato se inicia con la toma de posesión; los ceses surten efecto desde la
+  fecha que fije el decreto (artículo 22). En caso de vacante, ausencia o enfermedad, el
+  Presidente encarga el despacho ordinario a otro miembro del Consejo (artículo 23). Vicepresidentes
+  y Consejeros cesan por siete causas: el cese del Presidente, dimisión, revocación del
+  nombramiento, fallecimiento, sentencia firme de inhabilitación, sentencia firme de
+  incapacitación y determinadas incompatibilidades de la Ley 3/2005 (artículo 24, en la redacción
+  de la Ley 2/2021).
+- **Estatuto.** Tienen el mismo régimen de incompatibilidades que el Presidente (artículo 25) y
+  el fuero del artículo 122 del Estatuto: penal ante la Sala de lo Penal del Tribunal Supremo,
+  salvo los delitos cometidos en el territorio de Andalucía, que van al TSJA; civil ante el TSJA
+  (artículo 26 de la Ley 6/2006).
+
+*Atribuciones.* El Estatuto le da la interposición de recursos de inconstitucionalidad y
+conflictos de competencia y la personación en los procesos constitucionales (119.4), y la
+posibilidad de plantear, «**por conducto de su Presidente**», conflictos de jurisdicción a los
+jueces y tribunales (119.5). También la potestad expropiatoria, conforme a la legislación
+estatal y autonómica (artículo 123.1). La Ley 6/2006 enumera veintidós atribuciones (artículo
+27, en la redacción del Decreto-ley 26/2021, de 14 de diciembre). Las más preguntadas:
+
+- 1. desarrollar el Programa de Gobierno según las directrices de la Presidencia;
+- 2. aprobar los proyectos de ley, autorizar su remisión al Parlamento y acordar su retirada;
+- 3. «**Aprobar los Decretos-leyes y los Decretos legislativos**»;
+- 4. declarar la urgencia en los procedimientos administrativos de su competencia, salvo los de
+  elaboración de leyes y reglamentos de los artículos 43 y 45; la declaración conlleva que
+  «**solo tendrá carácter preceptivo, cuando proceda, el dictamen del Consejo Consultivo de
+  Andalucía**» en cuanto a informes de órganos colegiados consultivos;
+- 5. manifestar su conformidad o disconformidad con la tramitación de proposiciones de ley o
+  enmiendas que aumenten los créditos o disminuyan los ingresos;
+- 6 y 7. deliberar sobre la cuestión de confianza, la solicitud de sesión extraordinaria y la
+  disolución del Parlamento;
+- 8. aprobar los reglamentos de desarrollo y ejecución de las leyes;
+- 9. elaborar los Presupuestos, remitirlos al Parlamento y aplicarlos;
+- 13. acordar la interposición de recursos de inconstitucionalidad y el planteamiento de
+  conflictos de competencia;
+- 14. «**Acordar el ejercicio de acciones judiciales**» (la Ley 9/2007 lo repite: «**El ejercicio
+  de acciones en vía jurisdiccional corresponde al Consejo de Gobierno.**», artículo 42);
+- 18. aprobar la estructura orgánica de las Consejerías y la relación de puestos de trabajo;
+- 19. «**Acordar la creación de Comisiones Delegadas del Gobierno**»;
+- 20. nombrar y separar, a propuesta del Consejero correspondiente, a los altos cargos;
+- 21. designar la representación de la Comunidad en organismos, instituciones y empresas del
+  Estado y en los organismos y empresas dependientes de la Comunidad, salvo que una ley atribuya
+  la designación a otro órgano;
+- 22. cualquier otra que le atribuyan las leyes.
+
+El Consejo ejerce además la iniciativa legislativa aprobando y remitiendo proyectos de ley al
+Parlamento; antes de aprobar el proyecto, el anteproyecto se informa por la Secretaría General
+Técnica y el Gabinete Jurídico y, finalmente, se pide dictamen del Consejo Consultivo (artículo
+43 de la Ley 6/2006).
+
+*Funcionamiento* (título III de la Ley 6/2006). Se rige por la ley, por los decretos de la
+Presidencia y del Consejo y por sus disposiciones organizativas internas (artículo 28).
+
+- **Convocatoria.** Lo convoca el Presidente. También puede reunirse sin convocatoria previa
+  «**cuando así lo decida la persona titular de la Presidencia de la Junta de Andalucía y se hallen
+  presentes todas las personas integrantes del órgano**» (artículo 29).
+- **Quórum y mayoría.** «**Los acuerdos del Consejo de Gobierno se adoptarán por mayoría. En caso
+  de empate, el voto de la Presidencia es dirimente.**» Para la constitución y la validez de
+  deliberaciones y acuerdos se requiere «**la presencia del Presidente o la Presidenta y de, al
+  menos, la mitad del resto de las personas miembros del Consejo de Gobierno**»; si el Presidente
+  no puede asistir, le sustituye quien corresponda según el orden de suplencia (artículo 30.1 y
+  30.2).
+- **Acta.** Figuran en ella, «**exclusivamente**», el tiempo y el lugar de la reunión, los
+  asistentes, los acuerdos adoptados y los informes presentados (30.3).
+- **Transparencia y secreto** (artículo 31, en la redacción de la Ley 1/2014, de 24 de junio, de
+  Transparencia Pública de Andalucía, vigente desde el 30 de junio de 2015). El Gobierno hace
+  público antes de cada reunión el orden del día y, después, los acuerdos aprobados; pero «**las
+  deliberaciones del Consejo de Gobierno, así como las opiniones o votos emitidos en él, tendrán
+  carácter secreto**», y sus miembros deben guardarlo aun cuando dejen de pertenecer al Consejo.
+  Quienes asistan sin ser miembros, para informar o por razones de trabajo, también están
+  obligados a guardar secreto (artículo 32).
+- **Medios telemáticos.** El Consejo puede funcionar a distancia, garantizando la identidad de
+  los comunicantes y la autenticidad de los mensajes (artículo 33).
+- **Secretaría.** La ejerce el titular de la Consejería competente en materia de Presidencia, que
+  remite las convocatorias, levanta acta, certifica los acuerdos y vela por su publicación en el
+  BOJA; existe además una Secretaría de Actas del Consejo (artículo 34).
+- **Forma de las decisiones** (artículo 46): los decretos acordados en Consejo de Gobierno llevan
+  la firma del Presidente y del Consejero proponente (y, si afectan a varias Consejerías, la del
+  titular de la de Presidencia); los acuerdos que no deben tomar forma de decreto se firman del
+  mismo modo; las órdenes son de los Vicepresidentes y Consejeros.
+
+*Gobierno en funciones.* «**El Consejo de Gobierno cesa tras la celebración de elecciones al
+Parlamento**», y en los casos de pérdida de la cuestión de confianza, moción de censura,
+dimisión, incapacidad, condena penal firme que inhabilite o fallecimiento del Presidente; el
+cesante continúa en funciones hasta que tome posesión el nuevo (artículo 120 del Estatuto). La
+Ley 6/2006 añade que el Consejo cesa cuando cesa el Presidente (37.1) y que en funciones limita
+su gestión «**al despacho ordinario de los asuntos públicos de su competencia, salvo casos de
+urgencia o interés general debidamente acreditados**» (37.3). El Consejo en funciones no puede
+aprobar el proyecto de Ley del Presupuesto ni presentar proyectos de ley al Parlamento (37.5);
+las limitaciones del Presidente en funciones se han visto en su epígrafe (37.4).
+
+### Las Comisiones Delegadas y la Comisión General de Viceconsejeros y Viceconsejeras
+
+Las regula el capítulo II del título III de la Ley 6/2006, con dos artículos.
+
+*Comisiones Delegadas* (artículo 35).
+
+- «**El Consejo de Gobierno podrá crear Comisiones Delegadas, para coordinar la elaboración de
+  directrices y disposiciones, programar la política sectorial y examinar asuntos de interés
+  común a varias Consejerías.**» (35.1). Son potestativas, y crearlas es la atribución 19.ª del
+  artículo 27.
+- El decreto de creación fija sus funciones y competencias, su composición y el titular de la
+  Vicepresidencia o de la Consejería que puede presidirla «**caso de no asistir la persona
+  titular de la Presidencia de la Junta de Andalucía**» (35.2). Es el Presidente de la Junta
+  quien las convoca, fija su orden del día y preside sus sesiones (artículo 10.1, letras f y g).
+- Su régimen general de funcionamiento «**deberá ajustarse a los mismos criterios establecidos
+  para el Consejo de Gobierno**» (35.3).
+- Sus acuerdos constan en un acta con el mismo contenido tasado que la del Consejo de Gobierno
+  (35.4).
+
+*Comisión General de Viceconsejeros y Viceconsejeras* (artículo 36).
+
+- «**El Consejo de Gobierno estará asistido por una Comisión General de Viceconsejeros y
+  Viceconsejeras, para preparar los asuntos que vayan a ser debatidos por el Consejo de Gobierno
+  y para resolver cuestiones de carácter administrativo que afecten a varias Consejerías y que no
+  sean de la competencia de aquél.**» (36.1). A diferencia de las Comisiones Delegadas, su
+  existencia no es potestativa: la ley dice «estará asistido».
+- La preside «**la persona titular de la Consejería competente en materia de Presidencia**»
+  (36.2).
+- Su composición, funciones y régimen de funcionamiento se determinan reglamentariamente
+  (36.3). La Ley 9/2007 atribuye a los Viceconsejeros «**Formar parte de la Comisión General de
+  Viceconsejeros y Viceconsejeras**» (artículo 27.1.c). El Decreto 189/2026, de 30 de julio, de
+  estructura orgánica de la Consejería de Presidencia, Sanidad y Emergencias (BOJA
+  extraordinario núm. 15, de 31 de julio de 2026), asigna a esa Consejería «**La Presidencia y
+  asistencia a la Comisión General de Viceconsejeros y Viceconsejeras**» previstas en el
+  artículo 36 de la Ley 6/2006 y en el Decreto 155/1988, de 19 de abril (artículo 1, letra l);
+  este tema no ha leído ese decreto de 1988.
+- Sus acuerdos constan en acta con el mismo contenido tasado (36.4).
+
+Resumen de las diferencias: las Comisiones Delegadas son órganos del Consejo de Gobierno formados
+por miembros del Gobierno, que el Consejo «podrá crear» y que preside el Presidente de la Junta;
+la Comisión General es un órgano de preparación y coordinación administrativa formado por
+Viceconsejeros, que existe por ley y que preside el Consejero de Presidencia.
+
+### El Consejo Consultivo de Andalucía: naturaleza, composición y funciones
+
+Lo regula la Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía (BOE núm. 197, de
+15 de agosto de 2024), que entró en vigor a los veinte días de su publicación en el BOJA
+(disposición final cuarta; el BOE la da por vigente desde el 20 de agosto de 2024) y que deroga
+la Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía (disposición derogatoria). Su
+exposición de motivos resume las novedades: crea una Comisión de Estudios y Análisis Normativo,
+modifica el límite de edad de los consejeros permanentes y les da dedicación exclusiva, reduce
+«**de seis a cuatro**» los consejeros electivos sin dedicación exclusiva y eleva «**de diez a
+quince años**» la experiencia exigida como jurista.
+
+*Naturaleza.* El Estatuto y la ley lo definen con las mismas palabras: «**el superior órgano
+consultivo del Consejo de Gobierno y de la Administración de la Junta de Andalucía, incluidos sus
+organismos y entes sujetos a derecho público**» (artículo 129.1 del Estatuto; artículo 1.1 de la
+Ley 2/2024). Es también «**el supremo órgano de asesoramiento de las entidades locales**» y de sus
+entes de derecho público, y de las universidades públicas andaluzas; y de las demás entidades y
+corporaciones de derecho público no integradas en la Administración de la Junta, «**cuando las
+leyes sectoriales así lo prescriban**» (129.1; 1.2). Ejerce sus funciones «**con autonomía
+orgánica y funcional**» (129.2), que la ley precisa: «**para garantizar su objetividad e
+independencia**» (1.3). «**El Consejo Consultivo tiene su sede en la ciudad de Granada.**»
+(artículo 2). Vela por la observancia de la Constitución, el Estatuto y el resto del
+ordenamiento, y «**No entrará a conocer los aspectos de oportunidad y conveniencia, salvo que le
+sea solicitado expresamente.**» (artículo 3).
+
+*Los dictámenes* (artículo 4):
+
+- La consulta es preceptiva cuando lo establezca esta ley u otra de igual rango, y facultativa en
+  los demás casos.
+- «**Los dictámenes no serán vinculantes, salvo en los casos en que así se establezca en las
+  respectivas leyes.**»
+- Lo dictaminado no puede remitirse después a informe de ningún otro órgano de la Comunidad.
+- La resolución indica si se adopta «**de acuerdo con el Consejo Consultivo**», cuando sigue el
+  dictamen, u «**oído el Consejo Consultivo**», cuando se aparta de él; en ese caso el órgano
+  consultante comunica al Consejo los motivos.
+
+*Composición* (artículo 5): la Presidencia y los consejeros permanentes, electivos y natos,
+asistidos por una Secretaría General «**con voz y sin voto**». Cada sexo debe estar representado
+en al menos un cuarenta por ciento de los miembros designados en cada caso, excluidos los que lo
+son por su cargo.
+
+- **Presidencia** (artículo 6). La nombra por Decreto el Presidente de la Junta, «**oído el Consejo
+  de Gobierno**», entre juristas de reconocido prestigio «**con una experiencia superior a quince
+  años**». Ostenta la representación del Consejo.
+- **Permanentes** (artículo 7). Lo son, «**hasta que cumplan setenta y cinco años de edad**», las
+  personas que hayan sido Presidente de la Junta de Andalucía. Se nombran por Decreto del Consejo
+  de Gobierno «**a solicitud de la persona interesada**» y su dedicación es exclusiva y a tiempo
+  completo.
+- **Electivos** (artículo 8). «**en número de seis**», nombrados por Decreto del Consejo de
+  Gobierno entre juristas de reconocido prestigio con más de quince años de experiencia, con
+  dedicación exclusiva; el Consejo de Gobierno puede designar «**hasta cuatro**» más sin
+  exclusividad. En ambos casos, «**por un período de cinco años, pudiendo ser reelegidos por una
+  sola vez**».
+- **Natos** (artículo 9), cinco: a) quien presida una de las Reales Academias de Legislación y
+  Jurisprudencia de Andalucía, designado por el Instituto de Academias de Andalucía; b) el Fiscal
+  Superior de Andalucía; c) un representante del Consejo Andaluz de Colegios de Abogados,
+  designado entre los decanos; d) el titular del órgano directivo competente en Administración
+  local; e) el titular del Gabinete Jurídico de la Junta. Conservan la condición mientras ostenten
+  el cargo; las dos designaciones (a y c) se ratifican o renuevan cada cinco años (artículo 11).
+- **Secretaría General** (artículo 13). La nombra el Consejo de Gobierno, a propuesta de la
+  Presidencia del Consejo Consultivo y oído su Pleno, entre juristas funcionarios de carrera.
+
+*Cese* (artículo 10). Los consejeros permanentes y electivos cesan por siete causas:
+fallecimiento; renuncia; expiración del plazo (los electivos); incompatibilidad; incumplimiento
+grave de sus funciones; incapacidad declarada por sentencia firme; y condena firme por delito
+doloso. El cese lo acuerda el Consejo de Gobierno; en los casos de incompatibilidad e
+incumplimiento grave, con audiencia del interesado e «**informe favorable del Pleno del Consejo
+por mayoría absoluta**» (10.2). El Consejo de Gobierno puede suspenderlos, a propuesta del
+Consejo Consultivo, mientras se resuelve una causa de cese (artículo 12).
+
+*Incompatibilidades* (artículo 14). La Presidencia, los permanentes, los electivos a tiempo
+completo y la Secretaría General tienen el régimen de los altos cargos, y la condición de
+presidente, de consejero permanente y de electivo es incompatible «**con el desempeño de cargos
+públicos de representación popular**».
+
+*Funciones: consultas preceptivas* (artículo 17). Catorce números. Los que más se preguntan:
+
+1. «**Anteproyecto de reforma del Estatuto de Autonomía.**»
+2. «**Anteproyectos de leyes.**»
+3. Proyectos de reglamentos que se dicten en ejecución de las leyes o del derecho de la Unión
+   Europea, y sus modificaciones.
+4. Recursos de inconstitucionalidad y conflictos de competencia ante el Tribunal
+   Constitucional.
+5. Convenios o acuerdos de cooperación con otra comunidad autónoma.
+6. Conflictos de atribuciones entre Consejerías o entre estas y entidades del sector público no
+   adscritas a ellas.
+7. Proyectos de decreto de estatutos de las universidades públicas.
+8. Transacciones y arbitrajes sobre derechos económicos de la Administración autonómica cuya
+   cuantía litigiosa exceda de 300.000 euros.
+9. Revocación de actos tributarios con deuda superior a 30.000 euros.
+10. Expedientes de la Administración autonómica en que la consulta la exija una ley; entre
+    otros, reclamaciones de responsabilidad patrimonial de más de 70.000 euros, revisión de
+    oficio, recurso extraordinario de revisión, y en contratos: interpretación, nulidad y
+    resolución con oposición del contratista, modificaciones no previstas en el pliego de más del
+    veinte por ciento del precio inicial en contratos de 600.000 euros o más, y reclamaciones por
+    responsabilidad contractual de 30.000 euros o más.
+11. Expedientes de otras instituciones y entidades cuando una ley lo exija.
+12. Conflictos en defensa de la autonomía local.
+13. Transacciones y arbitrajes de las entidades locales que superen el cinco por ciento de los
+    recursos ordinarios de su presupuesto.
+14. Responsabilidad patrimonial de Administraciones no pertenecientes a la de la Junta, cuando la
+    reclamación supere 50.000 euros.
+
+Puede pedirse además dictamen facultativo en asuntos que «**por su especial trascendencia o
+repercusión**» lo requieran (artículo 18); y, «**excepcionalmente**», a petición del Consejo de
+Gobierno en asuntos de especial trascendencia, el Consejo elabora estudios, informes o propuestas
+de anteproyectos de ley (artículo 19). Eleva una memoria anual al Consejo de Gobierno (artículo
+20).
+
+*Funcionamiento.*
+
+- **Órganos** (artículo 21). Actúa en Pleno, en Comisión Permanente, en su caso en secciones, y en
+  Comisión de Estudios y Análisis Normativo. El Pleno dictamina los números 1 y 2 del artículo 17
+  (reforma del Estatuto y anteproyectos de ley); la Comisión Permanente, los demás y los
+  facultativos, salvo que por la importancia del asunto lo pidan al Pleno el Presidente de la
+  Junta o el Consejo de Gobierno.
+- **Pleno**: la Presidencia y los consejeros permanentes, natos y electivos (artículo 22).
+  **Comisión Permanente**: la Presidencia y los seis electivos a tiempo completo (artículo 23).
+  **Comisión de Estudios y Análisis Normativo**: la Presidencia, los seis electivos a tiempo
+  completo y los permanentes (artículo 24).
+- **Quién pide el dictamen** (artículo 25): el Presidente de la Junta, el Consejo de Gobierno o
+  cualquiera de sus miembros; en las entidades locales, su presidente o el Pleno; en las
+  universidades, el rector.
+- **Quórum y acuerdos** (artículo 26): la Presidencia o quien la sustituya, un número de miembros
+  que con ella formen «**la mayoría absoluta**» y la persona que ejerza la Secretaría General. Los
+  acuerdos se adoptan «**por mayoría absoluta de votos de los asistentes**» y, en caso de empate,
+  decide la Presidencia «**con su voto de calidad**». Cabe voto particular por escrito.
+- **Plazos** (artículo 28): el Consejo evacúa las consultas «**en el plazo de treinta días**»
+  desde la recepción de la solicitud; en los números 3 y 4 del artículo 17, «**veinte días**»;
+  con urgencia, quince días como máximo, salvo que el Presidente de la Junta o el Consejo de
+  Gobierno fijen uno inferior. Si el dictamen no es vinculante y el plazo pasa sin emitirlo,
+  «**se entenderá cumplido el trámite**».
+- En los recursos de inconstitucionalidad y conflictos positivos de competencia el dictamen se
+  pide antes de acordar la interposición o el requerimiento; en caso de urgencia puede pedirse a
+  la vez, y entonces no es vinculante (artículo 29).
+- Si el expediente está incompleto, el Consejo puede pedir que se complete «**en el plazo de diez
+  días desde la petición de la consulta**», lo que interrumpe el plazo de dictamen (artículo 30).
+- Aprueba el anteproyecto de su presupuesto, que se incorpora como sección al de la Comunidad
+  (disposición adicional primera).

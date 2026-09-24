@@ -339,7 +339,7 @@ contrario.**»
 El convenio encarga además a la COMVI elaborar varios reglamentos (turno de fin de semana,
 art. 12; acumulación de la reducción por hijo con cáncer, turnos más favorables y anulación por
 falta de aprovechamiento, art. 33), fijar la cantidad y las bases de las becas (art. 38), regular
-los anticipos (art. 42), resolver los recursos por traslado forzoso (art. 21) y recibir la
+los anticipos (art. 42), analizar las discrepancias por traslado forzoso (art. 21) y recibir la
 propuesta del 30 % de disponibilidad (art. 50).
 
 ### Capítulo segundo. Jornadas y descansos (artículos 10 a 14)
@@ -666,4 +666,542 @@ Homologadas; el Comité de Salud Laboral especifica **anualmente** las de cada p
 En las localidades con «**más de 100 trabajadores/as**», unidad básica de salud laboral dirigida
 por un médico del trabajo, salvo el centro del Pabellón de Andalucía, atendido por la de San Juan
 de Aznalfarache. La empresa presta además un servicio de asistencia sanitaria.
+
+### Capítulo sexto. Régimen de personal (artículos 32 a 36)
+
+#### Artículo 32. Excedencias
+
+Además de las del ET, «**que se aplicarán en sus propios términos**», es obligatorio conceder la
+excedencia a quien tenga «**al menos un año de antigüedad**» y la pida por escrito «**en un plazo
+anterior a los treinta días del disfrute de la misma**», especificando la modalidad. Hay **tres
+modalidades**: voluntaria, forzosa y especial.
+
+**I. Excedencia voluntaria**
+
+- Concesión en el plazo máximo de **treinta días**, por el tiempo pedido, que «**no podrá ser
+  inferior a seis meses ni superior a diez años**».
+- Prorrogable avisando con treinta días de antelación, sin que el total acumulado pase de **diez
+  años**.
+- Para pedir otra: «**un período de tres años de servicio efectivo**».
+- **Con reserva de puesto** si no pasa de «**tres años**» y se cumplen tres requisitos: a) no ser
+  para trabajar o colaborar en otra emisora de televisión o radio ni en empresas que presten
+  servicios a la RTVA; b) que los excedentes con reserva no pasen «**del 5% de los/las
+  trabajadores/as**»; c) que no perjudique gravemente la actividad (informe de la Dirección a la
+  representación de los trabajadores).
+- En los demás casos, solo «**un derecho preferente de reingreso**» en vacantes de igual o similar
+  puesto.
+- Se pierde el reingreso si no se pide «**con 15 días de antelación a la expiración**», y la
+  relación laboral queda «**extinguida automáticamente**».
+- Incorporación «**dentro de los dos meses, como máximo**» desde la petición en plazo.
+- El tiempo de excedencia voluntaria «**no computará a ningún efecto**».
+
+**II. Excedencia forzosa**
+
+- Causas: el nombramiento y toma de posesión de un cargo público, electivo o no, «**de carácter no
+  permanente**»; y las funciones sindicales de ámbito provincial o superior mientras dure el cargo.
+- Duración: la del mandato o nombramiento. Reincorporación pedida «**en los treinta días
+  siguientes al cese efectivo**».
+- Mismas garantías para quien la pida para programas de desarrollo y cooperación con el «**Tercer
+  Mundo**» o labores humanitarias a través de organismos del Estado u ONG reconocidas.
+
+**III. Excedencia especial**
+
+- **Cuidado de hijos** (apdo. 1): «**no superior a seis años para atender al cuidado de cada
+  hijo/a**», por naturaleza, adopción o acogimiento; cada hijo nuevo abre un período nuevo que
+  pone fin al anterior; si padre y madre están en el convenio, «**solamente uno de ellos podrá
+  ejercer este derecho**»; se cuenta desde el fin de la licencia de embarazo o de adopción;
+  computa para la antigüedad; da derecho a cursos de formación; reingreso «**en cualquier
+  momento**»; agotado el plazo sin reincorporarse, baja definitiva, salvo que en el mes anterior se
+  pida y obtenga la voluntaria.
+- **Cargo de libre designación** en la empresa (apdo. 2).
+- **Privación de libertad** (apdo. 3): el contrato queda en suspenso hasta la sentencia; si es
+  condenatoria, excedencia pedida «**en el plazo de treinta días**», por la duración de la condena,
+  y reingreso pedido en «**dos meses**» desde la puesta en libertad.
+
+El contraste con el artículo 46 del ET vigente está en el epígrafe del cuadro de licencias.
+
+#### Artículo 33. Licencias, permisos, reducciones de jornada y facilidades para estudios
+
+Es el artículo del «cuadro de licencias y permisos»: se transcribe entero, con su cuadro-resumen y
+el contraste con el ET, en el epígrafe siguiente. Tiene seis bloques: **A**, permisos y ausencias
+retribuidas (letras a a n, plazos de solicitud y justificación); **B**, asuntos propios; **C**, turno
+más favorable; **D**, reducciones de jornada; **E**, licencias no retribuidas; **F**, parejas de hecho.
+
+#### Artículo 34. Plantilla y registro de personal
+
+La empresa da a la representación de los trabajadores la plantilla «**actualizada al uno de Enero
+de cada año**», con **siete datos** como mínimo: nombre y apellidos; antigüedad; grupo; puesto;
+nivel; fecha de nombramiento o promoción; número de registro personal. La publica «**en los tres
+primeros meses del año**» en sitios visibles; los errores los resuelve la Dirección de
+Organización, RR.HH. y Servicios Generales.
+
+#### Artículo 35. Reconocimiento de antigüedad
+
+Computa para la antigüedad el tiempo trabajado en la empresa antes de aprobar las oposiciones y
+formalizar el contrato indefinido, «**siempre que no se haya producido una interrupción en la
+prestación del servicio superior a seis meses**».
+
+#### Artículo 36. Formación Profesional
+
+- Acceso a los cursos de la **Comisión Paritaria de Formación**, por Planes de Empresa o Planes
+  Agrupados; las secciones sindicales que cumplan el art. 60 pueden organizar cursos (aprobados por
+  la Comisión si alteran la organización o cuestan dinero).
+- **Tres objetivos**: a) actualizar los conocimientos del grupo y puesto; b) la especialización;
+  c) «**La enseñanza y perfeccionamiento de idiomas.**»
+- Planes **obligatorios o voluntarios**: es obligatorio solo si la empresa «**lo subvencione
+  totalmente y que la formación se haga dentro del horario de trabajo**»; si no lo subvenciona o lo
+  hace en parte, no es obligatorio y el tiempo queda fuera de la jornada.
+- **Comisión de Formación**: paritaria, «**al menos por diez miembros, cinco en representación de
+  la Empresa y cinco en representación de los/las trabajadores/as**», designados estos según los
+  resultados electorales; diagnostica necesidades y elabora, planifica, tramita y evalúa los
+  planes; publica su reglamento.
+- **Prácticas**: la Comisión participa en los convenios de prácticas y en la selección de
+  becarios; «**El trabajo realizado en prácticas no será nunca utilizado por la RTVA y SS.FF.**»
+- A los cursos obligatorios asisten los designados y, si sobran plazas, voluntarios; se expide
+  título de aptitud según el aprovechamiento.
+
+### Capítulo séptimo. Prestaciones Sociales (artículos 37 a 44)
+
+*Ojo con la DT 8.ª*: deja suspendidas «**las convocatorias de cuantas ayudas se deriven del
+concepto de acción social establecidas por el Convenio Colectivo, salvo las de atención a personas
+con discapacidad**». El convenio no dice qué artículos de este capítulo son «acción social».
+
+#### Artículo 37. Ayuda escolar y ayuda a hijos/as con minusvalía
+
+- **180,30 euros anuales** por hijo hasta los cuatro años inclusive, para trabajadores con contrato
+  «**de duración superior a seis meses dentro del año natural**»; y **150,25 euros anuales** por hijo
+  desde los cinco hasta los 18 años. El año en que cumple cinco cuenta en el primer tramo si ocurre
+  en el segundo semestre y en el segundo si ocurre en el primero.
+- Se pagan «**en una sola vez en el mes de agosto**»; si el otro cónyuge o conviviente cobra menos
+  en su empresa, se completa hasta estas cantidades.
+- Ayuda específica de «**96,00 euros mensuales**» por hijo con minusvalía física o psíquica, desde
+  la declaración «**hasta los cuarenta años inclusive**», certificada por la Seguridad Social u
+  organismo competente; si ambos progenitores están en el convenio, la cobra uno solo.
+- Se pagan a quien tenga la guarda y custodia.
+
+#### Artículo 38. Becas de estudio
+
+La empresa destina la cantidad «**que se determine en la COMVI**»; la COMVI fija también las bases.
+
+#### Artículo 39. Seguro de vida e invalidez
+
+Póliza colectiva para todo el personal:
+
+| Contingencia | Cantidad |
+| --- | --- |
+| Muerte natural | 15.025 € |
+| Invalidez permanente total | 27.046 € |
+| Invalidez permanente absoluta | 39.066 € |
+| Fallecimiento en accidente | 27.046 € |
+| Fallecimiento en accidente de circulación | 39.066 € |
+
+Y compromiso de establecer un seguro para desplazamientos a zonas de riesgo, conflictos, guerras,
+catástrofes y zonas radiactivas, con asistencia médica y repatriación.
+
+#### Artículo 40. Prestaciones complementarias por incapacidad temporal
+
+- IT justificada con parte de baja: complemento hasta «**la percepción del cien por cien de su
+  retribución ordinaria desde el primer día**».
+- Maternidad: complemento hasta el salario que se habría cobrado trabajando, pagado de una vez en
+  la primera nómina tras la reincorporación.
+
+*Modificado por la DT 6.ª*: escala del 50 %, 75 % y 100 % en enfermedad común o accidente no
+laboral.
+
+#### Artículo 41. Servicio de comida por prestación laboral
+
+- Vales de comida para quien entre por la mañana «**entre las 12 y 15 horas**» o por la tarde «**entre
+  las 19 y 22 horas**», o salga a partir de las 16 y 23 horas respectivamente, si el tiempo de
+  comida supera los **30 minutos** (la jornada se prolonga lo mismo). No acumulables.
+- Comedor en centros «**con más de 100 trabajadores/as**».
+- La empresa puede dar la comida o pagarla en metálico: «**11,33 €**».
+- Cuantías revisables según la DA 1.ª.
+
+#### Artículo 42. Anticipos
+
+- **A cuenta de la nómina**: con «**al menos seis meses de antigüedad**», hasta «**el 90% de la
+  última mensualidad ordinaria percibida**», a devolver en «**hasta tres meses**»; no se concede
+  otro hasta cancelar el anterior.
+- **Anticipo personal**: «**tres mensualidades netas reintegrables, sin interés, en 18 meses**» para
+  los fijos, y en lo que quede de contrato para los temporales; sujeto a la tesorería; lo regula la
+  COMVI.
+
+#### Artículo 43. Grupo de empresa
+
+Acuerdo de colaboración negociado **anualmente** con la directiva del Grupo de Empresa.
+
+#### Artículo 44. Jubilaciones
+
+- **Jubilación voluntaria** con la edad y requisitos de la Seguridad Social: indemnización de B01,
+  **21.035,42 €**; B02, **19.532,89 €**; B03, **18.030,36 €**; B04, **16.527,83 €**; B05, **15.025,30 €**.
+  Quien acceda a la parcial la cobra al pasar a la total.
+- **Jubilación anticipada**, con «**al menos cinco años de antigüedad**» y si la partida lo permite,
+  según los años de anticipación:
+
+| Nivel | 1 año antes | 2 años | 3 años | 4 años | 5 años |
+| --- | --- | --- | --- | --- | --- |
+| B01 | 24.040,48 € | 27.045,54 € | 30.050,61 € | 33.055,67 € | 36.060,73 € |
+| B02 | 22.537,95 € | 25.543,01 € | 28.548,07 € | 31.553,14 € | 34.558,20 € |
+| B03 | 21.035,42 € | 24.040,48 € | 27.045,54 € | 30.050,61 € | 33.055,67 € |
+| B04 | 19.532,89 € | 22.537,95 € | 25.543,01 € | 28.548,07 € | 31.553,14 € |
+| B05 | 18.030,36 € | 21.035,42 € | 24.040,48 € | 27.045,54 € | 30.050,61 € |
+
+- A estas cantidades se les descuenta lo aportado por la empresa al plan de pensiones.
+- **Comisión paritaria**, en quince días desde la firma, para incentivar bajas voluntarias de fijos
+  con cinco años de antigüedad y «**entre los 57 y 59 años inclusive**», con una partida de
+  «**150.000 euros anuales, no acumulables**».
+- **Plan de pensiones** («RTVA, Plan de Pensiones»): aportaciones incrementadas un **cinco por
+  ciento**, en importes anuales de B01, **373,35 €**; B02, **346,69 €**; B03, **320,02 €**; B04,
+  **293,36 €**; B05, **266,68 €**.
+
+*Relacionado con la DT 4.ª* (amortización de plazas por jubilación y jubilación parcial). Sobre
+las aportaciones a planes de pensiones, véase lo que dice el artículo 28.2 de la Ley 3/2012 en
+«Disposiciones transitorias»; el convenio no lo menciona.
+
+### Capítulo octavo. Trabajo y retribución (artículos 45 a 54)
+
+#### Artículo 45. Clasificación profesional
+
+Los grupos profesionales y puestos se ordenan en **cinco niveles salariales, B01 a B05**. El texto
+marca con asterisco los grupos y, bajo algunos, enumera puestos. Contados por el tema, son 66
+grupos: 4 en B01, 9 en B02, 29 en B03, 18 en B04 y 6 en B05. Algunos ejemplos, por nivel:
+
+- **B01**: jefe de departamento de recursos y servicios; jefe de departamento del área económica;
+  letrado; auditor (los cuatro del nivel).
+- **B02**: jefe de departamento de investigación y audiencia; jefe de explotación; técnico superior
+  informático; realizador; redactor; documentalista; técnico superior de prevención de riesgos
+  laborales; coordinador de producción/programas; titulado superior.
+- **B03**: jefes de sección (área administrativa, recursos y servicios, área técnica), decorador,
+  analista, programador, operador de sonido, ayudante de realización, cámara operador, grafista,
+  productor, técnico electrónico, editor de continuidad, estilista, presentador productor de radio,
+  titulado medio, entre otros.
+- **B04**: administrativo, secretario de emisiones, locutor de continuidad, guionista, conductor
+  polivalente de unidad móvil, secretario de redacción, operador montador de vídeo, ayudante de
+  producción, iluminador, ayudante de documentación y archivo, ambientador musical, entre otros.
+- **B05**: auxiliar administrativo; auxiliar de discoteca; técnico básico de prevención de riesgos
+  laborales; sastra/sastre; auxiliar de servicios generales; gruista (los seis del nivel).
+
+#### Artículo 46. Comisión Valoración de Puestos de Trabajo
+
+Comisión permanente, constituida «**en el plazo de 1 mes**» desde la firma, para estudiar,
+desarrollar, aplicar y actualizar la clasificación y valoración de puestos. Composición: **cinco**
+miembros de la Dirección y **cinco** de los trabajadores, con reglamento propio. La definición de los
+puestos es la de la DA 8.ª (Anexo III). Antes de aplicar los puestos, cursos de adaptación que fija
+la Comisión de Formación; los puestos nuevos se cubren por los procedimientos del convenio.
+
+#### Artículo 47. Conceptos retributivos
+
+- **A. Salario base.**
+- **B. Complementos salariales**, en cinco clases:
+  1. personales: antigüedad;
+  2. de puesto de trabajo (once): nocturnidad; quebranto de moneda; mando orgánico; especial
+     responsabilidad; disponibilidad; turnicidad; polivalencia; guardia localizable; plus de trabajo
+     en sábados, domingos y festivos; idioma; penosidad y peligrosidad;
+  3. por calidad y cantidad de trabajo (cuatro): calidad de trabajo; procesos productivos
+     especiales; horas extraordinarias; pacto de trabajo;
+  4. de vencimiento periódico superior al mes (cuatro pagas): junio, Navidad, marzo y septiembre;
+  5. extrasalariales: dietas; kilometraje; plus de pernocta.
+
+#### Artículo 48. Salario base
+
+Corresponde al grupo y nivel asignado, con carácter provisional o definitivo, y se abona
+mensualmente por el tiempo ordinario de presencia, las licencias reglamentarias, las vacaciones y
+los sábados, domingos y festivos. Su cuantía es la del **Anexo I para el ejercicio 2013**, revisable
+según la DA 1.ª.
+
+#### Artículo 49. Complementos salariales personales
+
+**Antigüedad**: se devenga en los mismos casos que el salario base; es consolidable y consiste, para
+el personal fijo, en trienios «**sin tope limitativo**», a razón de «**0,0024 del salario base anual
+fijado para el nivel B03**» (sobre esta cifra y la tabla del Anexo I, véase «Erratas y
+remisiones»). Los temporales cobran antigüedad si la interrupción de la contratación «**no sea
+superior a 180 días**»; computan los meses efectivamente trabajados y el período de prueba; al
+interino o temporal que pasa a fijo se le cuenta el tiempo anterior si no hubo interrupción de más
+de seis meses. Los trienios se devengan «**a partir del día 1 del mes en que se cumpla cada
+trienio**» y se cobran en todas las mensualidades y pagas extraordinarias.
+
+*Modificado por la DT 5.ª*: «**45 € trienio/mes**», lineal para todos los niveles.
+
+#### Artículo 50. Complementos de puesto de trabajo
+
+| Complemento | Cuantía (2013) y condiciones |
+| --- | --- |
+| Nocturnidad | «**35% del salario base**» por jornada completa en período nocturno, «**entre las 22.00 horas y las 7.00 horas**»; proporcional si es parcial |
+| Sábados, domingos y festivos | «**59,46 euros**» por día; entero si la jornada supera tres horas, proporcional si es inferior. «**128,06 euros**» por el turno de tarde o noche del 24 y 31 de diciembre y cualquier turno del 25 de diciembre y 1 de enero |
+| Quebranto de moneda | «**35,36 euros mensuales**» a quien maneje habitualmente dinero en efectivo |
+| Mando orgánico | «**30% sobre el salario base**» |
+| Especial responsabilidad | «**30% o el 45% del salario base mensual**»; el del 45 % es incompatible con cobrar horas extraordinarias y con la turnicidad |
+| Disponibilidad | «**30% del salario base**» si la disponibilidad supera quince días al mes; «**15%**» si es inferior. Se mantiene el porcentaje que se venía cobrando (0 %, 15 % o 30 %); incompatible con la turnicidad |
+| Turnicidad | «**5% del salario base**»; incompatible con la disponibilidad del 30 % |
+| Polivalencia | «**12% del salario base**», por funciones distintas de las del grupo o puesto que no sean de nivel superior |
+| Idiomas | «**5%**» sobre el salario base |
+| Penosidad y peligrosidad | «**15% del salario base**», con relación de afectados propuesta por el Comité de Seguridad y Salud |
+| Guardia localizable | «**1% del salario base mensual**» por día de guardia en descanso y «**2.5%**» en sábado, domingo o festivo; si se llama, convocatoria mínima de «**cuatro horas**» |
+
+Las cantidades fijas del plus de sábados, domingos y festivos y del quebranto de moneda son
+revisables según la DA 1.ª.
+
+#### Artículo 51. Complementos por cantidad y calidad de trabajo
+
+- **Calidad en el trabajo**: «**15% o el 25% sobre el salario base mensual**»; sustituye y absorbe el
+  del artículo 51.1 del IX Convenio.
+- **Horas extraordinarias**: remite al artículo 14.
+- **Procesos productivos especiales**: remite al artículo 12, apartados 5 y 6.
+- **Pacto de trabajo**: condiciones negociadas para procesos especiales; se presenta al Comité
+  Intercentros para su ratificación «**como mínimo tres días antes**» de ofrecerlo a los trabajadores.
+
+#### Artículo 52. Pagas
+
+- **Extraordinarias de junio y Navidad**: junio, del 25 al 30; Navidad, «**del 15 al 20 de
+  diciembre**». Cuantía: salario base más la media de pluses y complementos (antigüedad,
+  nocturnidad, mando orgánico, disponibilidad, turnicidad, polivalencia, especial responsabilidad,
+  idioma, calidad y penosidad) del semestre anterior.
+- **Marzo y septiembre**: del 25 al 30 de esos meses, «**a razón de quince días de salario base más
+  antigüedad**». En marzo, además, «**la cantidad bruta lineal de 300,51 euros**»; y durante la
+  vigencia del X Convenio, «**750 euros**» en la de septiembre.
+- Se devengan en proporción al tiempo en la empresa; quien no lleve seis meses las cobra prorrateadas
+  por semestres naturales.
+
+#### Artículo 53. Dietas, kilometraje y plus de pernocta
+
+| Concepto | Cuantía (2013) |
+| --- | --- |
+| Dieta en territorio nacional (comida y cena) | «**55,52**» euros/día |
+| Media dieta nacional (comida o cena) | «**27,76 euros/día**» |
+| Dieta nacional con alojamiento contratado por el trabajador | «**101,12 euros**», incluye comidas |
+| Dieta en el extranjero, alojamiento concertado por la empresa | «**98,81 euros/día**» |
+| Media dieta en el extranjero | «**49,41 euros/día**» |
+| Dieta en el extranjero sin alojamiento concertado (excepcional) | «**197,62 euros/día**», incluye comidas |
+| Kilometraje en vehículo propio autorizado | «**0,27 euros por kilómetro**» |
+| Plus de pernocta fuera de Andalucía | «**69,09 euros por jornada**» |
+
+- **Dieta de rodaje**: dieta reducida a quien se desplace «**a más de 30 kilómetros**» del centro y
+  vuelva después de las 16:00 o las 23:00 horas, según turno de mañana o tarde, salvo que pueda usar
+  el servicio de comida del artículo 41. El texto no da su cuantía.
+- **Viajes**: avión en clase turista y, excepcionalmente, primera; ferrocarril, billetes adecuados;
+  aparcamiento y taxis, si se autorizan y justifican. La empresa contrata y paga el alojamiento.
+- **Plus de pernocta**: compensa «**las cuatros primeras horas extraordinarias**» de cada jornada; a
+  estos efectos la jornada ordinaria fuera de Andalucía es de siete horas, y solo se cobra si la
+  jornada se prolonga «**más de dos horas**».
+
+*Topado por la DT 7.ª*: no pueden superarse las indemnizaciones del Decreto 54/1989.
+
+#### Artículo 54. Principio general sobre retribución
+
+Impuestos y cargas los paga quien corresponda según la ley; todas las cantidades del convenio son
+«**cantidades brutas**».
+
+### Capítulo noveno. Acción Sindical (artículos 55 a 62)
+
+#### Artículo 55. Delegados/as de Personal
+
+En centros de menos de cincuenta trabajadores: «**De 6 a 30 trabajadores/as: 1 Delegado/a.**» y
+«**De 31 a 49 trabajadores/as: 3 Delegados/as.**» Actúan mancomunadamente, con las competencias y
+garantías del Comité de Empresa y «**28 horas de licencia retribuida**» al mes.
+
+#### Artículo 56. Comité de Empresa
+
+- Composición: «**De 50 a 100 trabajadores/as: 5 miembros.**»; «**De 100 a 250 trabajadores/as: 9
+  miembros.**»; «**De 251 a 500 trabajadores/as: 13 miembros.**»
+- Horas retribuidas: «**De 50 a 250 trabajadores/as: 30 horas/mes.**»; «**De 251 en adelante: 45
+  horas/mes.**» Acumulables «**en cómputo anual por candidatura**»; las secciones sindicales pueden
+  usarlas para apoyo administrativo de trabajadores fijos.
+- No computan las reuniones convocadas por la empresa ni las de negociación del convenio.
+
+#### Artículo 57. Competencias del Comité de Empresa
+
+Además de las legales: **A.** ser informado de la evolución general y previsiones de empleo
+(trimestral), de presupuestos, balance, cuenta de pérdidas y ganancias y memoria (anual), de la
+formación, de la organización del trabajo, de la programación («**con una antelación de dos meses**»),
+de absentismo y siniestralidad, de contrataciones y ceses, y de las sanciones; **B.** recibir los
+modelos de contrato; **C.** vigilar el cumplimiento de la normativa, con «**capacidad procesal como
+órgano colegiado**» por decisión mayoritaria; **D.** velar por la legalidad y la no discriminación en
+la selección; **E.** proponer medidas de organización y mejoras técnicas; **F.** reunión
+**trimestral** con la dirección de RR.HH. para informar de las contrataciones civiles del trimestre
+anterior.
+
+#### Artículo 58. Comité Intercentros
+
+- Se constituye como interlocutor que represente al conjunto y pueda negociar el convenio, al
+  amparo del «**artículo 63.3 del Real Decreto Legislativo 1/1995**».
+- Formado por miembros de los Comités de Empresa y Delegados de Personal; sede en el Centro de
+  Producción de **San Juan de Aznalfarache** (Sevilla).
+- «**Tendrá un máximo de trece miembros de los cuales se procurará que cinco corresponderán al
+  Centro de Sevilla, dos al de Málaga y seis para Almería, Cádiz, Córdoba, Granada, Huelva y
+  Jaén.**»
+- Competencia **exclusiva** en lo que afecte a más de un centro.
+- Distribuye el presupuesto anual de desplazamientos según la representatividad; recibe, con
+  compromiso de reserva, la lista de pluses por número de registro de personal.
+
+#### Artículo 59. Local y tablón de anuncios
+
+Local donde haya Comité de Empresa y tablones suficientes en todos los centros.
+
+#### Artículo 60. Acción sindical
+
+- Sección sindical con las garantías del artículo 61.4 si obtiene en las elecciones «**15%**» de los
+  votos (centros de 50 a 100 trabajadores) o «**10%**» (de 101 en adelante).
+- Competencias: difundir publicaciones y cobrar cuotas; proponer candidatos; elegir delegados
+  sindicales; usar expertos; reunir a sus afiliados con los requisitos de las asambleas.
+- Locales, tablones y talonarios de vales de comida para las secciones que cumplan el umbral.
+
+#### Artículo 61. Delegados/as Sindicales
+
+Un delegado por sección sindical, trabajador en activo, reconocido tras acreditarlo. Horas: «**de 50
+a 250 trabajadores/as: 30 horas/mes**» y «**de 251 en adelante: 45 horas/mes**». Mismas garantías
+que los miembros del comité; acumulan horas con su candidatura; son informados y oídos en
+problemas y sanciones de sus afiliados; asisten con voz y sin voto a reuniones del comité si este
+lo acuerda.
+
+*Relacionado con la DT 9.ª*: el crédito horario de los representantes es el del convenio.
+
+#### Artículo 62. Asambleas
+
+Dentro de la jornada, «**hasta un máximo de ocho horas anuales**»; fuera de ella, las que procedan.
+Convocan el Comité de Empresa o los Delegados de Personal, o estos a requerimiento «**del 30%**» de
+la plantilla del centro. Preaviso «**mínima de 48 horas**», reducible a «**24 horas**» por razones
+excepcionales.
+
+### Capítulo décimo. Régimen disciplinario (artículos 63 a 72)
+
+#### Artículo 63. Norma general
+
+No es indisciplina negarse a órdenes que vulneren el convenio o a incumplir normas que constituyan
+infracción del ordenamiento. Nadie puede ser despedido por toxicomanía o drogadicción «**salvo que
+éstas repercutan gravemente en el normal desempeño de su cometido profesional**».
+
+#### Artículo 64. Faltas
+
+Acciones u omisiones que quebrantan deberes legales y del convenio; se clasifican, «**en
+consideración a su importancia, trascendencia y malicia, en leves, graves y muy graves**».
+
+#### Artículo 65. Faltas leves (trece)
+
+1. Descuido o demora injustificada sin perturbaciones importantes.
+2. Una falta de puntualidad injustificada «**inferior a treinta minutos y superior a diez**»; el
+   retraso de menos de diez minutos es falta si se produce «**tres veces, durante un período de dos
+   meses consecutivos**».
+3. Abandonar el puesto sin llegar el relevo, sin perjuicio para el servicio.
+4. No notificar la ausencia «**en las dos primeras jornadas**» o no enviar el parte «**en los ocho
+   primeros días**».
+5. Ausencia injustificada no reiterada.
+6. Pequeños descuidos con el material.
+7. No comunicar cambios de residencia o domicilio.
+8. No atender con corrección al público o a los compañeros.
+9. Discusiones violentas con compañeros.
+10. No comunicar alteraciones familiares que afecten a la Seguridad Social.
+11. Mera infracción de normas de régimen interior.
+12. Ausencia del domicilio contra las instrucciones médicas en IT o accidente.
+13. «**Fumar en cualquier lugar o dependencia no autorizada del centro de trabajo.**»
+
+#### Artículo 66. Faltas graves (dieciocho)
+
+1. Faltar al trabajo sin autorización o causa justificada.
+2. Omitir conscientemente alteraciones familiares con repercusión económica.
+3. Alegar motivos falsos para obtener licencias (el texto remite por error al «artículo 27») o
+   simular enfermedad o accidente.
+4. Incumplir funciones o instrucciones de los superiores (el mismo número añade que si implica
+   quebranto manifiesto de la disciplina o perjuicio notorio se considerará falta grave; la
+   muy grave del art. 67.9 describe el mismo supuesto).
+5. Fichar o firmar por otro.
+6. Negligencia que afecte a la marcha del trabajo.
+7. Imprudencia en acto de servicio.
+8. Trabajos particulares en jornada o uso propio de medios de la empresa sin autorización.
+9. Las leves de los números 1, 2, 3, 5 y 7 del artículo 65 que causen perjuicios, accidentes o
+   desprestigio.
+10. «**La reiteración o reincidencia en tres faltas leves, aunque sean de distinta naturaleza,
+    dentro del período de tres meses.**»
+11. Falta de respeto «**bien ante el micrófono o en actos públicos**».
+12. Agresiones verbales en el lugar de trabajo.
+13. Abusos de autoridad.
+14. Informar a terceros de circunstancias personales o reservadas sin perjuicio (muy grave si lo
+    hace quien tiene acceso directo a los datos).
+15. No declarar una segunda actividad incompatible.
+16. Negarse sin justificación a servicios excepcionales de imperiosa necesidad.
+17. Uso indebido de cargos y denominaciones.
+18. Causa falsa en la solicitud de excedencia.
+
+#### Artículo 67. Faltas muy graves (veinte)
+
+1. «**La tercera falta grave en un período de noventa días naturales.**»
+2. Fraude, deslealtad o abuso de confianza.
+3. Destrozar o causar desperfectos, voluntaria o negligentemente, con grave perjuicio.
+4. Embriaguez o toxicomanía que repercuta negativamente en el trabajo.
+5. Violar secretos de correspondencia o usar indebidamente documentos o datos de la empresa.
+6. Aceptar remuneraciones, comisiones o ventajas de terceros por el servicio.
+7. Malos tratos o faltas de respeto graves a jefes, subordinados, compañeros, familiares o terceros.
+8. Incumplir las normas de salud laboral, causar accidentes graves por negligencia inexcusable o no
+   auxiliar a un accidentado.
+9. Incumplir funciones o instrucciones con quebranto manifiesto de la disciplina o perjuicio notorio.
+10. Abandono del puesto con perjuicios graves.
+11. Imprudencia con riesgo de accidente.
+12. Resistencia a nuevos métodos de trabajo aprobados y disminución voluntaria y continuada del
+    rendimiento.
+13. Agresiones físicas y riñas frecuentes.
+14. «**La reiteración en falta grave sancionada, aunque sea de distinta naturaleza, siempre que se
+    produzca en un período de seis meses de la primera.**»
+15. Abuso de autoridad del artículo 68 de especial gravedad.
+16. Negarse a hacer las tareas propias fuera del centro habitual, para la propia empresa.
+17. Introducir drogas o materias peligrosas.
+18. Incurrir en incompatibilidad sin la autorización del artículo 73.3 y 4, habiendo sido denegada,
+    o no presentar la declaración «**en el plazo de quince días**» desde el requerimiento.
+19. El acoso sexual, que «**revestirá especial gravedad cuando medie superioridad jerárquica y se
+    sirviera de ella el/la acosador/a**».
+20. El acoso moral: violencia psicológica extrema, sistemática, recurrente y prolongada en el lugar
+    de trabajo para destruir las redes de comunicación, la reputación o el trabajo de la víctima.
+
+#### Artículo 68. Abuso de autoridad
+
+Acto arbitrario de un jefe orgánico o de un trabajador de grupo superior que infrinja la ley o el
+convenio, u orden de iguales características, insultos, amenazas, intimidación o coacción. La
+empresa, de oficio, a petición del afectado o de la representación, «**abrirá expediente**».
+
+#### Artículo 69. Sanciones
+
+Las **máximas** que pueden imponerse:
+
+- **Leves**: amonestación verbal; amonestación por escrito; «**Suspensión de empleo y sueldo de un
+  día.**»
+- **Graves**: «**Suspensión de empleo y sueldo de dos a veinte días.**»
+- **Muy graves**: «**Suspensión de empleo y sueldo de veintiuno a sesenta días.**» o «**Despido con
+  pérdida de todos los derechos.**»
+
+#### Artículo 70. Cumplimiento de las sanciones
+
+Las suspensiones por faltas graves o muy graves no se cumplen de inmediato si el sancionado acredita
+haber interpuesto demanda; se hacen efectivas tras notificarse la sentencia.
+
+#### Artículo 71. Prescripción de faltas
+
+«**en los términos que establece el artículo 60.2 del Estatuto de los Trabajadores**». Ese precepto
+dice hoy: «**las faltas leves prescribirán a los diez días; las graves, a los veinte días, y las
+muy graves, a los sesenta días a partir de la fecha en que la empresa tuvo conocimiento de su
+comisión y, en todo caso, a los seis meses de haberse cometido**».
+
+#### Artículo 72. Procedimiento sancionador
+
+Para faltas graves y muy graves: A) comunicación escrita del cargo, con hechos y normas; alegaciones
+«**En el plazo de cuatro días hábiles**»; B) pruebas y propuesta de resolución, que informa el Comité
+de Empresa o Delegado de Personal «**en el plazo de cinco días hábiles**»; C) resolución de la
+Dirección, notificada al interesado y comunicada al Comité.
+
+### Capítulo undécimo. Incompatibilidades y Garantías Procesales (artículos 73 y 74)
+
+#### Artículo 73. Incompatibilidades
+
+- Incompatible cualquier actividad que impida o menoscabe el cumplimiento de los deberes propios.
+- No se puede pertenecer ni prestar servicios, «**aún ocasionales**», a empresas que suministren o
+  presten servicios a la RTVA y sus filiales.
+- Incompatibilidad expresa con otras empresas de radiodifusión, distribución de imagen y sonido,
+  agencias informativas, empresas periodísticas, de publicidad, electrónica profesional,
+  cinematográficas, discográficas, de espectáculos y todas las de algún sector específico de la
+  RTVA. Excepcionalmente se autoriza la **colaboración esporádica**, y también trabajos ocasionales
+  para terceros por prestigio o calidad, fuera de la jornada. Autoriza el «**Director/a Gerente de
+  la RTVA, una vez oído el Comité de Empresa**».
+
+#### Artículo 74. Garantías procesales
+
+La empresa garantiza al personal querellado, detenido, encausado, procesado o demandado civilmente
+«**por razón de su trabajo**» la defensa jurídica, la representación procesal, las costas y las
+fianzas, «**con derecho a libre elección de abogado/a y procurador/a**».
 

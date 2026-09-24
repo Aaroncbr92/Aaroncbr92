@@ -13,3 +13,9 @@ Canal Sur (enunciado literal, con sus rúbricas a y b, en `convocatoria/canal-su
 - `informes/canal-sur-comun/T02-investigacion-parlamento-instituciones.md`
 - `informes/canal-sur-comun/T02-investigacion-gobierno-administracion.md`
 - Reaprovechamiento de RTVE: ninguno (`informes/canal-sur-reuso/comun-gestion.tsv`, fila puesto 0 · tema 2: «nada en RTVE»). El tema se escribe de cero sobre las fuentes.
+
+## Avance (se guarda por partes)
+
+1. Portada, siglas, enunciado, párrafo inicial y cabecera (Estatuto: estructura, contenido, competencias, reforma). Guardado.
+2. Rúbrica a): Parlamento. Guardado.
+3. Rúbrica a): TSJA, Defensor del Pueblo Andaluz, Cámara de Cuentas, Oficina contra el Fraude. Guardado.

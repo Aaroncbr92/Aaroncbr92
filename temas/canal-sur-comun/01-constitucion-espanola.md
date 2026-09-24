@@ -2065,3 +2065,465 @@ presentar un informe extraordinario a las Diputaciones Permanentes. Los informes
 El Estatuto de Autonomía para Andalucía tiene su propio Defensor del Pueblo Andaluz y su Cámara
 de Cuentas de Andalucía; se estudian en el punto 2 del temario común.
 
+## c. Organización territorial del Estado en la Constitución española. Las Comunidades Autónomas. Los Estatutos de Autonomía. Delimitación de las funciones y competencias del Estado y las Comunidades Autónomas. La organización territorial de la Comunidad Autónoma de Andalucía. El municipio: organización y competencias. La provincia: organización y competencias.
+
+### Organización territorial del Estado en la Constitución española
+
+El punto de partida es el artículo 2 (rúbrica a): la Constitución se fundamenta en la
+indisoluble unidad de la Nación española y «**reconoce y garantiza el derecho a la autonomía de
+las nacionalidades y regiones que la integran y la solidaridad entre todas ellas**».
+
+El Título VIII, «De la Organización Territorial del Estado» (artículos 137 a 158), tiene tres
+capítulos: «Principios generales» (arts. 137 a 139), «De la Administración Local» (arts. 140 a
+142) y «De las Comunidades Autónomas» (arts. 143 a 158). Todos sus artículos conservan la
+redacción de 1978.
+
+*Artículo 137.* «**El Estado se organiza territorialmente en municipios, en provincias y en las
+Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la
+gestión de sus respectivos intereses.**» Tres niveles, y los tres con autonomía para la gestión
+de sus respectivos intereses.
+
+*Artículo 138.*
+
+1. «**El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el
+   artículo 2 de la Constitución, velando por el establecimiento de un equilibrio económico,
+   adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a
+   las circunstancias del hecho insular.**»
+2. «**Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán
+   implicar, en ningún caso, privilegios económicos o sociales.**»
+
+*Artículo 139.*
+
+1. «**Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del
+   territorio del Estado.**»
+2. «**Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la
+   libertad de circulación y establecimiento de las personas y la libre circulación de bienes en
+   todo el territorio español.**»
+
+*La Administración Local (artículos 140 a 142).* El artículo 140 (municipios) y el 141
+(provincias e islas) se estudian en los dos últimos epígrafes de esta rúbrica. El 142 fija las
+haciendas locales: «**Las Haciendas locales deberán disponer de los medios suficientes para el
+desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán
+fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades
+Autónomas.**»
+
+Otros preceptos que dibujan la organización territorial fuera del Título VIII: las lenguas
+cooficiales «**en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos**» (artículo
+3.2), las banderas y enseñas propias de las Comunidades Autónomas (artículo 4.2), la
+circunscripción provincial del Congreso (artículo 68.2), el Senado como «**Cámara de
+representación territorial**» con Senadores designados por las Comunidades (artículo 69), la
+iniciativa legislativa de las Asambleas autonómicas (artículo 87.2) y la potestad tributaria de
+Comunidades Autónomas y Corporaciones locales (artículo 133.2).
+
+### Las Comunidades Autónomas
+
+#### Cómo se accede a la autonomía
+
+*Artículo 143. La vía del artículo 143.*
+
+1. En el ejercicio del derecho a la autonomía del artículo 2, «**las provincias limítrofes con
+   características históricas, culturales y económicas comunes, los territorios insulares y las
+   provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en
+   Comunidades Autónomas**» con arreglo a este Título y a los respectivos Estatutos.
+2. «**La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al
+   órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya
+   población represente, al menos, la mayoría del censo electoral de cada provincia o isla.**»
+   Estos requisitos deben cumplirse «**en el plazo de seis meses desde el primer acuerdo adoptado
+   al respecto por alguna de las Corporaciones locales interesadas**».
+3. «**La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco
+   años.**»
+
+*Artículo 144.* «**Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés
+nacional**»:
+
+- a) «**Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere
+  el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.**»
+- b) «**Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén
+  integrados en la organización provincial.**»
+- c) «**Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del
+  artículo 143.**»
+
+*Artículo 151. La vía del artículo 151.* No hace falta dejar transcurrir el plazo de cinco años
+del artículo 148.2 cuando la iniciativa del proceso autonómico:
+
+- sea acordada «**dentro del plazo del artículo 143.2**»,
+- además de por las Diputaciones o los órganos interinsulares correspondientes, «**por las tres
+  cuartas partes de los municipios de cada una de las provincias afectadas que representen, al
+  menos, la mayoría del censo electoral de cada una de ellas**»,
+- y sea ratificada «**mediante referéndum por el voto afirmativo de la mayoría absoluta de los
+  electores de cada provincia en los términos que establezca una ley orgánica**».
+
+| | Vía del 143 | Vía del 151 |
+|---|---|---|
+| Iniciativa de los municipios | Dos terceras partes que representen al menos la mayoría del censo electoral de cada provincia o isla | Tres cuartas partes de los de cada provincia, que representen al menos la mayoría de su censo electoral |
+| Además | Todas las Diputaciones interesadas u órgano interinsular | Diputaciones u órganos interinsulares |
+| Plazo | Seis meses desde el primer acuerdo | Dentro del mismo plazo del 143.2 |
+| Referéndum de la iniciativa | No | Sí: mayoría absoluta de los electores de cada provincia |
+| Si no prospera | Sólo puede reiterarse pasados cinco años | — |
+
+La vía de Andalucía: ningún artículo del Estatuto vigente la nombra. Su preámbulo recuerda que
+«**Las manifestaciones multitudinarias del 4 de diciembre de 1977 y el referéndum de 28 de
+febrero de 1980 expresaron la voluntad del pueblo andaluz de situarse en la vanguardia de las
+aspiraciones de autogobierno de máximo nivel en el conjunto de los pueblos de España**», frente a
+los que no aceptaban que Andalucía fuera una nacionalidad «**en el mismo plano que las que se
+acogían al artículo 151 de la Constitución**»; y que «**Andalucía ha sido la única Comunidad que
+ha tenido una fuente de legitimidad específica en su vía de acceso a la autonomía, expresada en
+las urnas mediante referéndum**». El artículo 4 del Estatuto recuerda la fecha: «**El día de
+Andalucía es el 28 de febrero.**»
+
+#### Organización institucional (artículo 152)
+
+1. En los Estatutos aprobados por el procedimiento del artículo 151, la organización
+   institucional autonómica se basará en:
+   - «**una Asamblea Legislativa, elegida por sufragio universal, con arreglo a un sistema de
+     representación proporcional que asegure, además, la representación de las diversas zonas
+     del territorio**»;
+   - «**un Consejo de Gobierno con funciones ejecutivas y administrativas**»;
+   - «**un Presidente, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al
+     que corresponde la dirección del Consejo de Gobierno, la suprema representación de la
+     respectiva Comunidad y la ordinaria del Estado en aquélla**».
+
+   «**El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante
+   la Asamblea.**» Un **Tribunal Superior de Justicia**, «**sin perjuicio de la jurisdicción que
+   corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de
+   la Comunidad Autónoma**». Los Estatutos podrán establecer los supuestos y formas de
+   participación de la Comunidad en la organización de las demarcaciones judiciales, y, sin
+   perjuicio del artículo 123, las sucesivas instancias procesales se agotarán ante órganos
+   judiciales del mismo territorio de la Comunidad en que esté el órgano competente en primera
+   instancia.
+2. «**Una vez sancionados y promulgados los respectivos Estatutos, solamente podrán ser
+   modificados mediante los procedimientos en ellos establecidos y con referéndum entre los
+   electores inscritos en los censos correspondientes.**»
+3. «**Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer
+   circunscripciones territoriales propias, que gozarán de plena personalidad jurídica.**»
+
+La organización institucional de Andalucía (Parlamento, Presidencia, Consejo de Gobierno,
+Tribunal Superior de Justicia y demás instituciones) es el punto 2 del temario común.
+
+#### Relaciones entre Comunidades, control y coerción
+
+*Artículo 145.*
+
+1. «**En ningún caso se admitirá la federación de Comunidades Autónomas.**»
+2. Los Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades
+   podrán celebrar **convenios entre sí para la gestión y prestación de servicios propios**, así
+   como el carácter y efectos de la correspondiente comunicación a las Cortes Generales. «**En los
+   demás supuestos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la
+   autorización de las Cortes Generales.**» Esa autorización sigue el artículo 74.2: mayoría de
+   cada Cámara, con inicio en el Senado.
+
+*Artículo 153. Control de la actividad de los órganos de las Comunidades Autónomas.* Cuatro
+controles y cuatro órganos:
+
+| Qué se controla | Quién |
+|---|---|
+| «**el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley**» | El Tribunal Constitucional (a) |
+| «**el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150**» | El Gobierno, «**previo dictamen del Consejo de Estado**» (b) |
+| «**el de la administración autónoma y sus normas reglamentarias**» | La jurisdicción contencioso-administrativa (c) |
+| «**el económico y presupuestario**» | El Tribunal de Cuentas (d) |
+
+*Artículo 154.* «**Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en
+el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración
+propia de la Comunidad.**»
+
+*Artículo 155. Coerción estatal.*
+
+1. «**Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le
+   impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno,
+   previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido,
+   con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para
+   obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del
+   mencionado interés general.**»
+2. «**Para la ejecución de las medidas previstas en el apartado anterior, el Gobierno podrá dar
+   instrucciones a todas las autoridades de las Comunidades Autónomas.**»
+
+Dos supuestos (incumplir obligaciones o atentar gravemente al interés general), un
+requerimiento previo al Presidente de la Comunidad y la mayoría absoluta del Senado.
+
+Y ante el Tribunal Constitucional: los conflictos de competencia entre el Estado y las
+Comunidades Autónomas o de éstas entre sí (artículo 161.1.c) y la impugnación por el Gobierno de
+disposiciones y resoluciones autonómicas, que produce la suspensión, que el Tribunal debe
+ratificar o levantar en un plazo no superior a cinco meses (artículo 161.2).
+
+#### La financiación (artículos 156 a 158)
+
+*Artículo 156.*
+
+1. «**Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de
+   sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de
+   solidaridad entre todos los españoles.**»
+2. Podrán actuar como «**delegados o colaboradores del Estado para la recaudación, la gestión y
+   la liquidación de los recursos tributarios de aquél**», de acuerdo con las leyes y los
+   Estatutos.
+
+*Artículo 157.*
+
+1. Los recursos de las Comunidades Autónomas estarán constituidos por:
+   - a) «**Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos
+     estatales y otras participaciones en los ingresos del Estado.**»
+   - b) «**Sus propios impuestos, tasas y contribuciones especiales.**»
+   - c) «**Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con
+     cargo a los Presupuestos Generales del Estado.**»
+   - d) «**Rendimientos procedentes de su patrimonio e ingresos de derecho privado.**»
+   - e) «**El producto de las operaciones de crédito.**»
+2. «**Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes
+   situados fuera de su territorio o que supongan obstáculo para la libre circulación de
+   mercancías o servicios.**»
+3. Mediante ley orgánica podrá regularse el ejercicio de esas competencias financieras, las
+   normas para resolver los conflictos y las posibles formas de colaboración financiera entre las
+   Comunidades Autónomas y el Estado.
+
+*Artículo 158.*
+
+1. En los Presupuestos Generales del Estado «**podrá establecerse una asignación a las
+   Comunidades Autónomas en función del volumen de los servicios y actividades estatales que
+   hayan asumido y de la garantía de un nivel mínimo en la prestación de los servicios públicos
+   fundamentales en todo el territorio español**».
+2. «**Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el
+   principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de
+   inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades
+   Autónomas y provincias, en su caso.**»
+
+Además, el artículo 135 obliga a las Comunidades Autónomas al principio de estabilidad
+presupuestaria (rúbrica a).
+
+Las disposiciones transitorias primera a séptima regularon el paso de los regímenes
+preautonómicos a las Comunidades Autónomas y la posibilidad de que Ceuta y Melilla se
+constituyeran en Comunidades Autónomas (ver «Las disposiciones»).
+
+### Los Estatutos de Autonomía
+
+*Artículo 147.*
+
+1. «**Dentro de los términos de la presente Constitución, los Estatutos serán la norma
+   institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como
+   parte integrante de su ordenamiento jurídico.**»
+2. «**Los Estatutos de autonomía deberán contener**» cuatro cosas:
+   - a) «**La denominación de la Comunidad que mejor corresponda a su identidad histórica.**»
+   - b) «**La delimitación de su territorio.**»
+   - c) «**La denominación, organización y sede de las instituciones autónomas propias.**»
+   - d) «**Las competencias asumidas dentro del marco establecido en la Constitución y las bases
+     para el traspaso de los servicios correspondientes a las mismas.**»
+3. «**La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y
+   requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.**»
+
+Son leyes orgánicas las «**que aprueben los Estatutos de Autonomía**» (artículo 81.1).
+
+#### Cómo se elaboran
+
+*Por la vía del artículo 143 (artículo 146).* «**El proyecto de Estatuto será elaborado por una
+asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias
+afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales
+para su tramitación como ley.**»
+
+*Por la vía del artículo 151 (artículo 151.2).* Cinco pasos:
+
+1. «**El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones
+   comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se
+   constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de
+   Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.**»
+2. Aprobado el proyecto por la Asamblea de Parlamentarios, se remite a la **Comisión
+   Constitucional del Congreso**, que, «**dentro del plazo de dos meses, lo examinará con el
+   concurso y asistencia de una delegación de la Asamblea proponente para determinar de común
+   acuerdo su formulación definitiva**».
+3. Si hay acuerdo, el texto se somete «**a referéndum del cuerpo electoral de las provincias
+   comprendidas en el ámbito territorial del proyectado Estatuto**».
+4. «**Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos
+   válidamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras
+   decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo
+   sancionará y lo promulgará como ley.**»
+5. Si no hay acuerdo en la Comisión, «**el proyecto de Estatuto será tramitado como proyecto de
+   ley ante las Cortes Generales**»; el texto que aprueben se somete a referéndum de las
+   provincias afectadas y, si lo aprueba la mayoría de los votos válidamente emitidos en cada
+   provincia, se promulga en los términos del paso anterior.
+
+151.3: en los pasos 4.º y 5.º, «**la no aprobación del proyecto de Estatuto por una o varias
+provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma
+proyectada**», en la forma que establezca la ley orgánica del apartado 1.
+
+#### Cómo se reforman
+
+- Todos: por el procedimiento que fije el propio Estatuto y, en todo caso, con aprobación de las
+  Cortes Generales mediante ley orgánica (artículo 147.3).
+- Los aprobados por la vía del 151: además, «**con referéndum entre los electores inscritos en
+  los censos correspondientes**» (artículo 152.2).
+- Transcurridos cinco años, y «**mediante la reforma de sus Estatutos**», las Comunidades
+  Autónomas pueden ampliar sucesivamente sus competencias dentro del marco del artículo 149
+  (artículo 148.2).
+
+#### El Estatuto de Andalucía
+
+El vigente es el aprobado por la Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto
+de Autonomía para Andalucía (BOE de 20-03-2007, en vigor ese mismo día). Sustituyó al Estatuto
+que, según su preámbulo, fue «**ratificado por los andaluces y andaluzas el 20 de octubre de
+1981**». Su artículo 1.3 lo define como la «**norma institucional básica**» de la Comunidad, y el
+artículo 1.1 dice que «**Andalucía, como nacionalidad histórica y en el ejercicio del derecho de
+autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la
+unidad de la nación española y conforme al artículo 2 de la Constitución**». Su estructura,
+contenido básico, competencias y reforma son el punto 2 del temario común.
+
+### Delimitación de las funciones y competencias del Estado y las Comunidades Autónomas
+
+El sistema está en los artículos 148 a 150: lo que las Comunidades Autónomas pueden asumir, lo que
+es exclusivo del Estado, la cláusula residual y las leyes que permiten mover competencias sin
+reformar la Constitución.
+
+#### Artículo 148. Lo que pueden asumir las Comunidades Autónomas
+
+«**Las Comunidades Autónomas podrán asumir competencias en las siguientes materias**»; son
+veintidós (1.ª a 22.ª):
+
+| | |
+|---|---|
+| 1.ª | «**Organización de sus instituciones de autogobierno.**» |
+| 2.ª | «**Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.**» |
+| 3.ª | «**Ordenación del territorio, urbanismo y vivienda.**» |
+| 4.ª | «**Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.**» |
+| 5.ª | «**Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.**» |
+| 6.ª | «**Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.**» |
+| 7.ª | «**La agricultura y ganadería, de acuerdo con la ordenación general de la economía.**» |
+| 8.ª | «**Los montes y aprovechamientos forestales.**» |
+| 9.ª | «**La gestión en materia de protección del medio ambiente.**» |
+| 10.ª | «**Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.**» |
+| 11.ª | «**La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.**» |
+| 12.ª | «**Ferias interiores.**» |
+| 13.ª | «**El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.**» |
+| 14.ª | «**La artesanía.**» |
+| 15.ª | «**Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.**» |
+| 16.ª | «**Patrimonio monumental de interés de la Comunidad Autónoma.**» |
+| 17.ª | «**El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.**» |
+| 18.ª | «**Promoción y ordenación del turismo en su ámbito territorial.**» |
+| 19.ª | «**Promoción del deporte y de la adecuada utilización del ocio.**» |
+| 20.ª | «**Asistencia social.**» |
+| 21.ª | «**Sanidad e higiene.**» |
+| 22.ª | «**La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.**» |
+
+148.2: «**Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades
+Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el
+artículo 149.**» El verbo es «podrán»: es una lista de lo que pueden asumir, no de lo que tienen.
+
+#### Artículo 149. Competencia exclusiva del Estado
+
+149.1: «**El Estado tiene competencia exclusiva sobre las siguientes materias**»; son treinta y
+dos (1.ª a 32.ª). Varias llevan una salvedad a favor de las Comunidades Autónomas, que es parte
+del reparto:
+
+| | |
+|---|---|
+| 1.ª | «**La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.**» |
+| 2.ª | «**Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.**» |
+| 3.ª | «**Relaciones internacionales.**» |
+| 4.ª | «**Defensa y Fuerzas Armadas.**» |
+| 5.ª | «**Administración de Justicia.**» |
+| 6.ª | «**Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.**» |
+| 7.ª | «**Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.**» |
+| 8.ª | «**Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.**» |
+| 9.ª | «**Legislación sobre propiedad intelectual e industrial.**» |
+| 10.ª | «**Régimen aduanero y arancelario; comercio exterior.**» |
+| 11.ª | «**Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación de crédito, banca y seguros.**» |
+| 12.ª | «**Legislación sobre pesas y medidas, determinación de la hora oficial.**» |
+| 13.ª | «**Bases y coordinación de la planificación general de la actividad económica.**» |
+| 14.ª | «**Hacienda general y Deuda del Estado.**» |
+| 15.ª | «**Fomento y coordinación general de la investigación científica y técnica.**» |
+| 16.ª | «**Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.**» |
+| 17.ª | «**Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.**» |
+| 18.ª | «**Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.**» |
+| 19.ª | «**Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.**» |
+| 20.ª | «**Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.**» |
+| 21.ª | «**Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.**» |
+| 22.ª | «**La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.**» |
+| 23.ª | «**Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.**» |
+| 24.ª | «**Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.**» |
+| 25.ª | «**Bases de régimen minero y energético.**» |
+| 26.ª | «**Régimen de producción, comercio, tenencia y uso de armas y explosivos.**» |
+| 27.ª | «**Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.**» |
+| 28.ª | «**Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.**» |
+| 29.ª | «**Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.**» |
+| 30.ª | «**Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.**» |
+| 31.ª | «**Estadística para fines estatales.**» |
+| 32.ª | «**Autorización para la convocatoria de consultas populares por vía de referéndum.**» |
+
+Lo que la tabla enseña si se lee junto al 148:
+
+- La **gestión** en materia de protección del medio ambiente puede ser autonómica (148.1.9.ª); la
+  **legislación básica** es del Estado, con la facultad de las Comunidades de establecer normas
+  adicionales de protección (149.1.23.ª).
+- Los puertos y aeropuertos **deportivos** y los que no desarrollen actividades comerciales
+  pueden ser autonómicos (148.1.6.ª); los **de interés general** son del Estado (149.1.20.ª).
+- Los ferrocarriles y carreteras cuyo itinerario se desarrolle **íntegramente** en el territorio
+  de la Comunidad pueden ser autonómicos (148.1.5.ª); los que transcurran por **más de una**
+  Comunidad son del Estado (149.1.21.ª).
+- Muchas materias estatales lo son sólo en sus **bases** o en su **legislación básica** (11.ª,
+  13.ª, 16.ª, 17.ª, 18.ª, 23.ª, 25.ª, 27.ª), y el desarrollo y la ejecución pueden ser
+  autonómicos.
+- La 27.ª es la de los medios de comunicación: las normas básicas de la radio y la televisión
+  son del Estado, «**sin perjuicio de las facultades que en su desarrollo y ejecución
+  correspondan a las Comunidades Autónomas**». La ley estatal y la andaluza del sector
+  audiovisual son el punto 4 del temario común.
+
+149.2: «**Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el
+Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la
+comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.**»
+
+149.3, la cláusula de cierre, con tres reglas:
+
+1. «**Las materias no atribuidas expresamente al Estado por esta Constitución podrán
+   corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos.**»
+2. «**La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía
+   corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las
+   Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de
+   éstas.**»
+3. «**El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades
+   Autónomas.**»
+
+#### Artículo 150. Leyes marco, de transferencia o delegación y de armonización
+
+1. *Ley marco.* «**Las Cortes Generales, en materias de competencia estatal, podrán atribuir a
+   todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas
+   legislativas en el marco de los principios, bases y directrices fijados por una ley
+   estatal.**» «**Sin perjuicio de la competencia de los Tribunales, en cada ley marco se
+   establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas
+   de las Comunidades Autónomas.**»
+2. *Ley orgánica de transferencia o delegación.* «**El Estado podrá transferir o delegar en las
+   Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de
+   titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o
+   delegación. La ley preverá en cada caso la correspondiente transferencia de medios
+   financieros, así como las formas de control que se reserve el Estado.**» El control de esas
+   funciones delegadas lo ejerce el Gobierno, previo dictamen del Consejo de Estado (artículo
+   153.b).
+3. *Ley de armonización.* «**El Estado podrá dictar leyes que establezcan los principios
+   necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en
+   el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés
+   general. Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la
+   apreciación de esta necesidad.**» Las materias que se armonizan son de competencia
+   autonómica.
+
+| | Qué hace | Forma | Control |
+|---|---|---|---|
+| Ley marco (150.1) | Atribuye facultad legislativa en materia estatal, dentro de principios, bases y directrices | Ley estatal | El que fije cada ley marco, sin perjuicio de los Tribunales |
+| Transferencia o delegación (150.2) | Transfiere o delega facultades de titularidad estatal | Ley orgánica | Las formas de control que se reserve el Estado; el Gobierno, previo dictamen del Consejo de Estado (153.b) |
+| Armonización (150.3) | Principios para armonizar normas autonómicas, aun en materias de competencia de las Comunidades | Ley; la necesidad la aprecian las Cortes por mayoría absoluta de cada Cámara | — |
+
+#### Cómo clasifica sus competencias el Estatuto de Andalucía (artículo 42)
+
+El Estatuto asume competencias «**exclusivas, compartidas y ejecutivas**» (42.1), y las define
+(42.2):
+
+- 1.º Exclusivas: «**comprenden la potestad legislativa, la potestad reglamentaria y la función
+  ejecutiva, íntegramente y sin perjuicio de las competencias atribuidas al Estado en la
+  Constitución**». En ellas, «**el derecho andaluz es de aplicación preferente en su territorio
+  sobre cualquier otro, teniendo en estos casos el derecho estatal carácter supletorio**».
+- 2.º Compartidas: las tres potestades «**en el marco de las bases que fije el Estado en normas
+  con rango de ley, excepto en los supuestos que se determinen de acuerdo con la
+  Constitución**».
+- 3.º Ejecutivas: la función ejecutiva, que incluye la potestad de organización de su propia
+  administración y, cuando proceda, la aprobación de disposiciones reglamentarias para ejecutar
+  la normativa del Estado.
+- 4.º En relación con la aplicación del derecho comunitario: «**el desarrollo y la ejecución de
+  la normativa de la Unión Europea cuando afecte al ámbito de las competencias de la Comunidad
+  Autónoma**».
+
+Ejerce además las competencias no contempladas expresamente en el Estatuto «**que le sean
+transferidas o delegadas por el Estado**» (42.3). Las competencias concretas de la Comunidad son
+el punto 2 del temario común.
+
