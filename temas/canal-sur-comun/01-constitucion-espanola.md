@@ -3141,8 +3141,9 @@ cuando la provincia deba prestarla a solicitud de los municipios, o concertada.*
   su elaboración pasa por varias fases con participación de los ayuntamientos, entre cuyos
   criterios «**se incluirá el apoyo preferente a los municipios de menor población**».
 - Asistencia material (artículo 14): la provincia prestará los servicios básicos municipales en
-  caso de incapacidad o insuficiencia de un municipio, cuando éste lo solicite; y prestará
-  obligatoriamente, a petición del municipio, al menos cinco servicios: a) «**Inspección, gestión
+  caso de incapacidad o insuficiencia de un municipio, cuando éste lo solicite; y, en la forma y casos
+  en que lo determine una norma provincial, prestará obligatoriamente, a petición del municipio,
+  al menos cinco servicios: a) «**Inspección, gestión
   y recaudación de tributos.**»; b) «**Disciplina urbanística y ambiental.**»; c) «**Disciplina del
   personal funcionario y laboral.**»; d) «**Representación y defensa judicial.**»; e) «**Suplencias
   en el ejercicio de funciones públicas necesarias de secretaría, intervención y tesorería en
