@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Profesor de Orquesta)
+**Última actualización:** 2026-09-24 (Canal Sur · temario común)
 
 ## Qué es esto
 
@@ -1792,3 +1792,47 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   porque es el apartado 5 del manual otra vez —**el que detecta se equivoca**— y porque la forma de
   equivocarse fue la de siempre: **mirar el fichero con `head` en vez de pasarle la herramienta que
   lo lee**.
+
+
+## Canal Sur · RTVA · temario común (septiembre de 2026)
+
+**Convocatoria**: BOJA núm. 186, de 24-IX-2026, 228 plazas en 40 puestos y 17 ocupaciones
+tipo. Programa literal, plazas por puesto y ocupación en `convocatoria/canal-sur/`. Sondeo en
+`informes/sondeo-canal-sur-2026-09-24.md`; cruce con lo escrito para RTVE en
+`informes/canal-sur-reuso/RESUMEN.md`.
+
+**Hecho — temario común (Bloque I), los diez temas cerrados**, cada uno con el ciclo completo
+(investigar, redactar, verificar, refutar con quince preguntas, rematar y comprobación final o
+independiente) y su esquema. **Sin fecha de corte**: redacción vigente en septiembre de 2026.
+Volumen `libro-canal-sur-comun` en PDF (465 páginas), Word y HTML, dado de alta en `BLOQUES` de
+`herramientas/libro.py`.
+
+| Tema | Título | Palabras |
+|---|---|---:|
+| 01 | Constitución Española de 1978 | 35479 |
+| 02 | El Estatuto de Autonomía para Andalucía, las instituciones y la Administración de la Junta | 25184 |
+| 03 | La Unión Europea, el Tratado de la Unión Europea, la Carta y la representación de la Junta de Andalucía ante la Unión Europea | 19124 |
+| 04 | Ley 13/2022, General de Comunicación Audiovisual, y Ley 10/2018, audiovisual de Andalucía | 19657 |
+| 05 | Ley 18/2007, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) | 15526 |
+| 06 | Carta del Servicio Público de la RTVA 2024-2029, misión de servicio público y Estatuto profesional | 13367 |
+| 07 | X Convenio Colectivo de la RTVA y sus sociedades filiales. Cuadro de licencias y permisos | 23444 |
+| 08 | Normativa sobre igualdad: Ley 12/2007, Ley 15/2022 y Ley 4/2023 | 21826 |
+| 09 | Ley 31/1995, de Prevención de Riesgos Laborales | 20904 |
+| 10 | Protección de datos de carácter personal | 25433 |
+
+- Temas en `temas/canal-sur-comun/`, esquemas en `esquemas/canal-sur-comun/`, informes de cada
+  fase en `informes/canal-sur-comun/` (el método aplicado, con sus modos ahorro, en `CICLO.md`).
+- Normas vigentes volcadas en `fuentes/canal-sur/`; documentos que no son norma del BOE (Carta,
+  X Convenio, contrato-programa, Reglamento del Parlamento, decretos de la Junta, textos de la UE)
+  en `fuentes/canal-sur/documentos/`.
+- Herramientas nuevas: `herramientas/negritas.py` (cotejo de cada negrita contra todas las
+  fuentes, con aviso de cita cruzada) y segunda pasada de `refutar_exactitud.py` para citas con
+  el artículo entre paréntesis.
+
+**Lo que no está en fuente oficial y el temario declara**: el Estatuto profesional vigente de la
+RTVA (tema 6) y el «cuadro de licencias y permisos» (tema 7, que da el art. 33 y la DT 3.ª).
+
+**Falta**: los cuarenta temarios específicos (orden propuesto en el sondeo: Redactor/a, 61 plazas,
+primero); dos avisos de herramientas en `PENDIENTES.md` (`boe.py` pierde la marca de incisos
+anulados; `refutar_exactitud` no lee artículos numerados con palabras); los errores del tema 7 del
+general y del 17 de Producción (Asistencia) de RTVE detectados en el cruce, anotados sin aplicar.
