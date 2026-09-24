@@ -604,3 +604,332 @@ intervención humana, a expresar su punto de vista y a impugnar la decisión. Y 
 basarán en categorías especiales de datos salvo consentimiento explícito o interés público
 esencial, con salvaguardas.
 
+### Tratamientos concretos
+
+Título IV de la LOPDGDD, artículos 19 a 27, que es ley ordinaria. Son nueve supuestos en los que
+la ley española decide por adelantado qué es lícito, para no dejarlo a la ponderación caso por
+caso.
+
+**Artículo 19. Datos de contacto profesionales.** Salvo prueba en contrario, se presume amparado en
+el interés legítimo (art. 6.1.f del Reglamento) el tratamiento de los datos de contacto y, en su
+caso, de la función o puesto desempeñado de las personas físicas que presten servicios en una
+persona jurídica, siempre que se cumplan dos requisitos:
+
+- a) Que el tratamiento se refiera únicamente a los datos necesarios para su localización
+  profesional.
+- b) Que la finalidad sea únicamente mantener relaciones de cualquier índole con la persona
+  jurídica en la que el afectado presta sus servicios.
+
+La misma presunción opera para los datos de empresarios individuales y profesionales liberales,
+cuando se refieran a ellos únicamente en esa condición y no se traten para entablar una relación
+con ellos como personas físicas. Es el artículo que ampara la agenda de contactos de una
+productora: el teléfono del jefe de producción de una empresa proveedora, sí; su teléfono
+particular, no.
+
+**Artículo 22. Videovigilancia.** Es el precepto del título IV con más aplicación directa en un
+centro de trabajo audiovisual:
+
+1. Personas físicas o jurídicas, públicas o privadas, pueden tratar imágenes mediante sistemas de
+   cámaras o videocámaras «**con la finalidad de preservar la seguridad de las personas y bienes,
+   así como de sus instalaciones**».
+2. «**Solo podrán captarse imágenes de la vía pública en la medida en que resulte
+   imprescindible**» para esa finalidad. Cabe una extensión mayor cuando sea necesario para
+   garantizar la seguridad de bienes o instalaciones estratégicos o de infraestructuras vinculadas
+   al transporte, sin que en ningún caso pueda suponer la captación de imágenes del interior de un
+   domicilio privado.
+3. «**Los datos serán suprimidos en el plazo máximo de un mes desde su captación**», salvo cuando
+   hubieran de ser conservados para acreditar la comisión de actos que atenten contra la
+   integridad de personas, bienes o instalaciones. En tal caso, las imágenes deberán ser puestas a
+   disposición de la autoridad competente «**en un plazo máximo de setenta y dos horas**» desde
+   que se tuviera conocimiento de la existencia de la grabación. No se aplica a estos tratamientos
+   la obligación de bloqueo del artículo 32.
+4. El deber de información se entiende cumplido mediante la colocación de un dispositivo
+   informativo en lugar suficientemente visible que identifique, al menos, la existencia del
+   tratamiento, la identidad del responsable y la posibilidad de ejercer los derechos de los
+   artículos 15 a 22 del Reglamento. Puede incluir un código de conexión o una dirección de
+   internet. En todo caso, el responsable mantendrá a disposición de los afectados la información
+   completa.
+5. Queda excluido del Reglamento el tratamiento por una persona física de imágenes que solamente
+   capten el interior de su propio domicilio. La exclusión no alcanza a la entidad de seguridad
+   privada contratada para vigilar ese domicilio que tenga acceso a las imágenes.
+6. Las imágenes y sonidos obtenidos por las Fuerzas y Cuerpos de Seguridad, y por los órganos
+   competentes en centros penitenciarios y en control y disciplina del tráfico, se rigen por la
+   legislación de transposición de la Directiva (UE) 2016/680 cuando tengan fines penales; fuera
+   de ahí, por su legislación específica y, supletoriamente, por el Reglamento y esta ley.
+7. Todo ello sin perjuicio de la Ley 5/2014, de Seguridad Privada.
+8. El tratamiento por el empleador de datos obtenidos por cámaras se somete al artículo 89 de
+   esta ley orgánica, que está en el título de derechos digitales.
+
+Las tres cifras de este artículo son un mes de conservación, setenta y dos horas para entregar a
+la autoridad y la remisión al artículo 89.
+
+**Artículo 23. Sistemas de exclusión publicitaria.** Es lícito tratar datos para evitar el envío de
+comunicaciones comerciales a quienes se hayan opuesto a recibirlas. Los sistemas de información,
+generales o sectoriales, se crean «**por parte de las asociaciones y organismos a los que se
+refiere el apartado 2 del artículo 40 del Reglamento (UE) 2016/679**» (es decir, las que
+representan a categorías de responsables o encargados) «**que cuenten con una alta
+representatividad**», y en ellos solo se incluyen los datos imprescindibles para identificar a los
+afectados; pueden incluir también servicios de preferencia. Para su creación y mantenimiento «**se
+observarán las medidas que se establezcan mediante desarrollo reglamentario**». Quienes pretendan
+hacer mercadotecnia directa «**deberán previamente consultar**» los sistemas de exclusión que
+pudieran afectar a su actuación, y basta con consultar los incluidos en la relación publicada por
+la autoridad de control competente; la consulta no es necesaria cuando el afectado hubiera
+consentido recibir la comunicación.
+
+Qué cambió: la Ley 10/2025, de 26 de diciembre, con efectos desde el 28 de diciembre de 2025,
+reescribió el párrafo segundo del apartado 1, que ahora dice quién puede crear los sistemas (las
+asociaciones y organismos del artículo 40.2 del Reglamento con alta representatividad) y remite a
+desarrollo reglamentario. Los apartados 2 a 4 no cambiaron.
+
+**Artículo 24. Tratamiento de datos para la protección de las personas que informen sobre
+infracciones normativas.** Dice entero:
+
+> «**Serán lícitos los tratamientos de datos personales necesarios para garantizar la protección
+> de las personas que informen sobre infracciones normativas.**
+> **Dichos tratamientos se regirán por lo dispuesto en el Reglamento (UE) 2016/679, del Parlamento
+> Europeo y del Consejo, de 27 de abril de 2016, en esta ley orgánica y en la Ley reguladora de la
+> protección de las personas que informen sobre infracciones normativas y de lucha contra la
+> corrupción.**»
+
+Qué cambió: la Ley 2/2023, de 20 de febrero, con efectos desde el 13 de marzo de 2023, sustituyó
+entero el artículo 24, que se titulaba «Sistemas de información de denuncias internas» y regulaba
+por sí mismo el acceso, la conservación y la anonimización de las denuncias. Ese régimen ya no está
+en la LOPDGDD: está en el título VI de la Ley 2/2023, «**Protección de datos personales**»
+(artículos 29 a 34). Lo esencial, de su artículo 32 («Tratamiento de datos personales en el Sistema
+interno de información»):
+
+- 32.1: el acceso a los datos del Sistema interno de información queda limitado
+  «**exclusivamente**» a cinco sujetos: a) el Responsable del Sistema y quien lo gestione
+  directamente; b) el responsable de recursos humanos o el órgano competente, «**solo cuando
+  pudiera proceder la adopción de medidas disciplinarias contra un trabajador**»; c) el
+  responsable de los servicios jurídicos, si procediera adoptar medidas legales; d) los encargados
+  del tratamiento que se designen; e) el delegado de protección de datos.
+- 32.2: si la información contuviera categorías especiales de datos, se procederá a su inmediata
+  supresión.
+- 32.4: «**transcurridos tres meses desde la recepción de la comunicación sin que se hubiesen
+  iniciado actuaciones de investigación, deberá procederse a su supresión**», salvo que la
+  finalidad de la conservación sea dejar evidencia del funcionamiento del sistema. Las
+  comunicaciones a las que no se haya dado curso solamente podrán constar de forma anonimizada,
+  sin que se aplique la obligación de bloqueo del artículo 32 de la LOPDGDD.
+- 32.5: los empleados y terceros deberán ser informados del tratamiento.
+
+Ojo con el plazo: sigue siendo de tres meses, pero ya no se cuenta desde la introducción de los
+datos, sino desde la recepción de la comunicación, y solo obliga a suprimir si no se han iniciado
+actuaciones de investigación.
+
+**Artículo 20. Sistemas de información crediticia.** Salvo prueba en contrario, se presume lícito
+el tratamiento de datos de incumplimiento de obligaciones dinerarias, financieras o de crédito por
+sistemas comunes de información crediticia cuando los datos los facilite el acreedor, se refieran
+a deudas ciertas, vencidas y exigibles cuya existencia o cuantía no hubiese sido objeto de
+reclamación por el deudor, el acreedor haya informado de la posible inclusión, y los datos
+únicamente se mantengan en el sistema «**mientras persista el incumplimiento, con el límite máximo
+de cinco años desde la fecha de vencimiento**» de la obligación. La entidad notificará al afectado
+la inclusión y le informará de sus derechos dentro de los treinta días siguientes a la
+notificación de la deuda al sistema, «**permaneciendo bloqueados los datos durante ese plazo**». Y
+la disposición adicional sexta añade el umbral: no se incorporan deudas en que la cuantía del
+principal sea «**inferior a cincuenta euros**».
+
+**Artículos 21, 25, 26 y 27.** Completan el título: operaciones mercantiles de modificación
+estructural (salvo prueba en contrario, se presumen lícitos los tratamientos, incluida su
+comunicación con carácter previo, si son necesarios para el buen fin de la operación y garantizan,
+cuando proceda, la continuidad del servicio, con supresión inmediata si la operación no llega a
+concluirse, sin que se aplique entonces la obligación de bloqueo); función estadística pública;
+archivo en interés público por las Administraciones Públicas; e infracciones y sanciones
+administrativas, cuyo tratamiento exige que el responsable sea el órgano competente para instruir
+o sancionar y que se limite a los datos estrictamente necesarios.
+
+### Responsable y encargado del tratamiento
+
+Título V de la LOPDGDD, artículos 28 a 39.
+
+**Artículo 28. Obligaciones generales.** Responsables y encargados determinarán las medidas técnicas
+y organizativas apropiadas para garantizar y acreditar que el tratamiento es conforme, y valorarán
+si procede la evaluación de impacto y la consulta previa. Para adoptarlas tendrán en cuenta, en
+particular, los mayores riesgos de ocho supuestos:
+
+- a) Tratamientos que puedan generar discriminación, usurpación de identidad o fraude, pérdidas
+  financieras, daño para la reputación, pérdida de confidencialidad de datos sujetos al secreto
+  profesional, reversión no autorizada de la seudonimización o cualquier otro perjuicio
+  económico, moral o social significativo.
+- b) Tratamientos que puedan privar a los afectados de sus derechos o impedirles el control sobre
+  sus datos.
+- c) Tratamiento no meramente incidental o accesorio de categorías especiales o de datos
+  relacionados con infracciones administrativas.
+- d) Tratamientos que impliquen evaluación de aspectos personales para crear o utilizar perfiles.
+- e) Tratamiento de datos de grupos en situación de especial vulnerabilidad, en particular menores
+  y personas con discapacidad.
+- f) Tratamiento masivo con gran número de afectados o gran cantidad de datos.
+- g) Transferencias habituales a terceros Estados sin nivel adecuado de protección.
+- h) Cualesquiera otros que el responsable juzgue relevantes.
+
+**Artículo 31. Registro de actividades de tratamiento.** Obligatorio conforme al artículo 30 del
+Reglamento, salvo la excepción de su apartado 5. Si hay delegado de protección de datos, se le
+comunicará cualquier adición, modificación o exclusión en el registro. Los sujetos del artículo
+77.1 (el sector público) harán público un inventario de sus actividades de tratamiento, accesible
+por medios electrónicos, con su base legal.
+
+**Artículo 32. Bloqueo de los datos.** Es una figura propia española:
+
+1. «**El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su
+   rectificación o supresión.**»
+2. Bloquear es identificar y reservar los datos, con medidas técnicas y organizativas, para impedir
+   su tratamiento, incluyendo su visualización, excepto para ponerlos a disposición de jueces y
+   tribunales, el Ministerio Fiscal o las Administraciones Públicas competentes (en particular las
+   autoridades de protección de datos) para exigir responsabilidades, y solo por el plazo de
+   prescripción de estas. Transcurrido ese plazo, se destruyen.
+3. No pueden tratarse para ninguna otra finalidad.
+4. Si el sistema no permite el bloqueo o requiere un esfuerzo desproporcionado, se hará un copiado
+   seguro que deje evidencia digital de la autenticidad, la fecha del bloqueo y la no manipulación.
+5. La AEPD y las autoridades autonómicas, en sus respectivas competencias, podrán fijar
+   excepciones a la obligación de bloqueo cuando la mera conservación de los datos, incluso
+   bloqueados, pudiera generar un riesgo elevado para los derechos de los afectados, atendida la
+   naturaleza de los datos o su número particularmente elevado, y también cuando conservarlos
+   bloqueados pudiera implicar un coste desproporcionado para el responsable.
+
+**Artículo 33. Encargado del tratamiento.** Tres reglas:
+
+1. El acceso del encargado a los datos no se considera comunicación de datos, siempre que se
+   cumpla lo previsto en el Reglamento y en esta ley.
+2. Tendrá la consideración de responsable, y no de encargado, quien en su propio nombre y sin que
+   conste que actúa por cuenta de otro establezca relaciones con los afectados, aunque exista
+   contrato con el contenido del artículo 28.3 del Reglamento. Y también quien, figurando como
+   encargado, utilice los datos para sus propias finalidades.
+3. Al terminar la prestación, el responsable determina si los datos se destruyen, se devuelven o se
+   entregan a un nuevo encargado. No procede la destrucción cuando exista una previsión legal que
+   obligue a conservarlos. El encargado puede conservarlos bloqueados mientras puedan derivarse
+   responsabilidades.
+
+**Violaciones de seguridad (artículos 33 y 34 del Reglamento).**
+
+- El responsable la notifica a la autoridad de control «**sin dilación indebida y, de ser posible,
+  a más tardar 72 horas después de que haya tenido constancia de ella**», a menos que sea
+  improbable que constituya un riesgo para los derechos y libertades. Pasadas las 72 horas, la
+  notificación irá acompañada de los motivos de la dilación.
+- El encargado la notifica al responsable sin dilación indebida.
+- Se comunica al interesado cuando sea probable que entrañe un alto riesgo para sus derechos y
+  libertades. No es necesaria si el responsable había aplicado medidas que hagan ininteligibles los
+  datos, como el cifrado, si ha tomado medidas ulteriores que eliminen el alto riesgo, o si supone
+  un esfuerzo desproporcionado, en cuyo caso se opta por una comunicación pública o medida
+  semejante.
+- En todo caso, el responsable documentará cualquier violación, con los hechos, sus efectos y las
+  medidas correctivas.
+
+**Evaluación de impacto (artículo 35 del Reglamento).** Obligatoria antes del tratamiento cuando
+sea probable que este entrañe un alto riesgo, y en particular en tres casos: a) evaluación
+sistemática y exhaustiva basada en tratamiento automatizado, como la elaboración de perfiles,
+sobre cuya base se tomen decisiones con efectos jurídicos; b) tratamiento a gran escala de
+categorías especiales o de datos penales; c) observación sistemática a gran escala de una zona de
+acceso público. El responsable recabará el asesoramiento del delegado si lo hay.
+
+**El delegado de protección de datos.** Artículo 37 del Reglamento: hay que designarlo en tres
+supuestos (el c), en la redacción de la corrección de errores de 2018):
+
+- a) Que el tratamiento lo lleve a cabo «**una autoridad u organismo público, excepto los
+  tribunales que actúen en ejercicio de su función judicial**».
+- b) Que las actividades principales consistan en operaciones que requieran una observación
+  habitual y sistemática de interesados a gran escala.
+- c) Que las actividades principales consistan en el tratamiento a gran escala de categorías
+  especiales de datos con arreglo al artículo 9 o de datos relativos a condenas e infracciones
+  penales.
+
+Un grupo empresarial puede nombrar un único delegado si es fácilmente accesible desde cada
+establecimiento. El delegado puede formar parte de la plantilla o actuar en el marco de un
+contrato de servicios, y sus datos de contacto se publican y se comunican a la autoridad de
+control.
+
+Artículo 34 de la LOPDGDD. Dieciséis supuestos en que hay que designarlo en todo caso (letras a) a
+o), con la ñ): colegios profesionales y sus consejos generales; centros docentes de cualquier nivel
+y universidades públicas y privadas; entidades que exploten redes y presten servicios de
+comunicaciones electrónicas, cuando traten datos a gran escala de forma habitual y sistemática;
+prestadores de servicios de la sociedad de la información que elaboren a gran escala perfiles de
+usuarios; entidades de crédito; establecimientos financieros de crédito; aseguradoras y
+reaseguradoras; empresas de servicios de inversión; distribuidores y comercializadores de energía
+eléctrica y de gas natural; entidades responsables de ficheros comunes de solvencia o de
+prevención del fraude; entidades de publicidad y prospección comercial que traten preferencias o
+elaboren perfiles; centros sanitarios obligados a mantener historias clínicas (salvo los
+profesionales que ejerzan a título individual); entidades que emitan informes comerciales sobre
+personas físicas; operadores de juego por canales electrónicos; empresas de seguridad privada; y
+federaciones deportivas cuando traten datos de menores.
+
+Los dos datos numéricos del artículo 34:
+
+- Apartado 3: responsables y encargados «**comunicarán en el plazo de diez días**» a la AEPD o,
+  en su caso, a las autoridades autonómicas de protección de datos, «**las designaciones,
+  nombramientos y ceses de los delegados de protección de datos**», tanto si la designación es
+  obligatoria como si es voluntaria.
+- Apartado 4: la AEPD y las autoridades autonómicas mantendrán una lista actualizada de delegados
+  accesible por medios electrónicos.
+
+Y el apartado 5: el responsable puede establecer la dedicación completa o a tiempo parcial del
+delegado, entre otros criterios, en función del volumen de los tratamientos, la categoría especial
+de los datos o los riesgos.
+
+Artículo 35 de la LOPDGDD. Cualificación. Los requisitos del artículo 37.5 del Reglamento
+(conocimientos especializados en el Derecho y la práctica de protección de datos) pueden
+demostrarse, entre otros medios, a través de mecanismos voluntarios de certificación. El delegado
+puede ser persona física o jurídica.
+
+Artículo 36 de la LOPDGDD. Posición. Cuatro garantías:
+
+1. Actúa como interlocutor del responsable o encargado ante las autoridades de protección de
+   datos. Puede inspeccionar los procedimientos y emitir recomendaciones.
+2. Cuando se trate de una persona física integrada en la organización del responsable o
+   encargado, no podrá ser removido ni sancionado por desempeñar sus funciones «**salvo que
+   incurriera en dolo o negligencia grave en su ejercicio**». Se garantiza su independencia
+   dentro de la organización y debe evitarse cualquier conflicto de intereses.
+3. Tendrá acceso a los datos personales y procesos de tratamiento, sin que pueda oponérsele ningún
+   deber de confidencialidad o secreto, incluido el del artículo 5 de la ley.
+4. Cuando aprecie una vulneración relevante, la documentará y la comunicará inmediatamente a los
+   órganos de administración y dirección.
+
+Artículo 37 de la LOPDGDD. Reclamación previa ante el delegado. El afectado puede, antes de
+reclamar ante la autoridad, dirigirse al delegado de la entidad contra la que reclame; el delegado
+le comunicará la decisión en el plazo máximo de dos meses. Si el afectado reclama directamente ante
+la autoridad, esta puede remitir la reclamación al delegado para que responda en el plazo de un
+mes; si no lo hace, la autoridad continúa el procedimiento.
+
+Artículo 39 del Reglamento. Funciones, que son cinco como mínimo: informar y asesorar al
+responsable, al encargado y a los empleados; supervisar el cumplimiento, incluida la asignación de
+responsabilidades, la concienciación y formación del personal y las auditorías; asesorar sobre la
+evaluación de impacto y supervisar su aplicación; cooperar con la autoridad de control; y actuar
+como punto de contacto de la autoridad. Y una regla que cierra el círculo: el artículo 70.2 de la
+LOPDGDD excluye al delegado del régimen sancionador.
+
+**Artículos 38 y 39 de la LOPDGDD. Códigos de conducta y certificación.** Los códigos de conducta
+del Reglamento son vinculantes para quienes se adhieran a ellos y pueden dotarse de mecanismos de
+resolución extrajudicial de conflictos. Pueden promoverlos, además de las asociaciones del artículo
+40.2 del Reglamento, empresas o grupos de empresas y los sujetos del artículo 77.1. Quien se
+adhiera se obliga a someter al organismo de supervisión las reclamaciones que no considere
+procedente atender; si ese organismo las rechaza, el afectado puede formularlas ante la autoridad
+de protección de datos. Los códigos los aprueba la AEPD o la autoridad autonómica competente, que
+mantienen registros interconectados y accesibles por medios electrónicos. La acreditación de las
+instituciones de certificación puede llevarla a cabo la Entidad Nacional de Acreditación (ENAC),
+sin perjuicio de las funciones y poderes de acreditación de la autoridad de control; ENAC
+comunicará a la AEPD y a las autoridades autonómicas las concesiones, denegaciones o revocaciones
+y su motivación.
+
+### Transferencias internacionales
+
+Título VI de la LOPDGDD, artículos 40 a 43.
+
+**Artículo 40.** Las transferencias se rigen por el Reglamento, esta ley, sus normas de desarrollo y
+las circulares de la AEPD y de las autoridades autonómicas.
+
+**Artículo 41.** La AEPD y las autoridades autonómicas pueden adoptar cláusulas contractuales tipo
+(previo dictamen del Comité Europeo de Protección de Datos) y aprobar normas corporativas
+vinculantes. Este último procedimiento se inicia a instancia de una entidad situada en España y
+tiene una duración máxima de nueve meses, suspendida mientras el Comité emite su dictamen.
+
+**Artículo 42. Autorización previa.** Las transferencias a países u organizaciones sin decisión de
+adecuación y sin garantías del artículo 46.2 del Reglamento requieren autorización previa de la
+autoridad, que puede otorgarse en dos supuestos: cuando la transferencia se funde en cláusulas
+contractuales que no sean las tipo, o cuando la lleve a cabo un sujeto del artículo 77.1 al amparo
+de acuerdos internacionales no normativos, incluidos los memorandos de entendimiento. Duración
+máxima del procedimiento: seis meses.
+
+**Artículo 43. Información previa.** El responsable informará a la autoridad de cualquier
+transferencia que pretenda hacer sobre la base de intereses legítimos imperiosos (último párrafo
+del artículo 49.1 del Reglamento), e informará también a los afectados. Todo ello con carácter
+previo a la transferencia. No se aplica a las autoridades públicas en el ejercicio de sus poderes
+públicos.
+
