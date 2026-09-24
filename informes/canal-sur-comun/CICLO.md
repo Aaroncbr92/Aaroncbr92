@@ -86,3 +86,16 @@ un artículo que no está en las fuentes pasadas. Pásale **todas** las normas q
 tema cita, o esas negritas quedan sin mirar. Una negrita que cita un documento sin
 articulado del BOE (acuerdo, reglamento parlamentario, convenio) sale como no
 literal aquí y se comprueba con `refutar_documento.py`.
+
+## Modo ahorro (desde el 24-09-2026, a petición del titular: la mitad de consumo)
+
+- **Fase 4 con un solo agente** que aplica las dos lentes (exactitud y cobertura) en una
+  lectura. Informe único `TNN-refutacion.md` con dos apartados; preguntas en `TNN-preguntas.md`.
+- **Fase 5 bis acotada**: no relee el tema entero. Relee **sólo los pasajes que cambió el
+  remate** (el informe de remate los lista), comprueba sus antecedentes, corre las lentes
+  automáticas y contesta las quince preguntas buscando en el tema. Va con modelo barato.
+- **Esquemas con modelo barato**, a partir del tema cerrado.
+- **Investigar, redactar y verificar no se abaratan** (manual, apartado 11).
+- **Nunca más de tres agentes a la vez.**
+- Un agente cortado no se reanuda si llevaba mucho contexto: se lanza uno nuevo que parte
+  de lo que haya en disco (tema e informe a medias).
