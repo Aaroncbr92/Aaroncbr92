@@ -1,0 +1,172 @@
+puesto	tema	rtve	pct	actualizar	nota
+0	1	temas/general/01-constitucion-espanola.md	75	sí	CE entera artículo a artículo (valores, derechos, garantías, órganos, Título VIII, reforma); faltan organización territorial de Andalucía y competencias locales (LBRL); redacción 21-12-2022
+0	2	-	0	no	Estatuto de Autonomía e instituciones y Administración de la Junta: nada en RTVE
+0	3	temas/informacion/02-union-europea.md;temas/informacion/08-resolucion-parlamento-europeo.md	5	no	Sólo actualidad de la UE y menciones a la Carta; ni TUE ni representación de la Junta ante la UE
+0	4	temas/general/07-ley-13-2022.md	50	sí	LGCA: principios, pluralismo, menores, accesibilidad y servicio público desarrollados; falta toda la Ley 10/2018 andaluza
+0	5	-	0	no	Ley 18/2007 de la RTVA: norma distinta de la Ley 17/2006; sin tema en RTVE
+0	6	-	0	no	Carta de Servicio Público RTVA 2024-2029 y Estatuto profesional: nada en RTVE
+0	7	-	0	no	X Convenio de la RTVA: el III Convenio de RTVE es norma distinta
+0	8	temas/general/06-igualdad.md	0	no	Ley 12/2007, Ley 15/2022 y Ley 4/2023 no aparecen; el tema RTVE es el Plan de Igualdad de RTVE
+0	9	temas/general/08-ley-31-1995.md;temas/prl/prl-especifico.md	90	sí	LPRL desarrollada artículo a artículo; redacción a 21-12-2022
+0	10	temas/produccion-asistencia/17-proteccion-de-datos.md;temas/gestion/09-proteccion-de-datos.md;temas/produccion/16-aspectos-juridicos.md	80	sí	RGPD y LOPDGDD completos (principios, bases, derechos, DPD, sanciones, derechos digitales) y aplicación a producción audiovisual; redacción 21-12-2022
+2	1	temas/gestion/10-el-presupuesto.md	5	sí	Sólo menciona función interventora y control financiero de la IGAE; nada de control interno ni IGJA
+2	2	-	0	no	Auditoría pública y privada: sin tema en RTVE
+2	3	temas/general/01-constitucion-espanola.md	5	sí	Sólo el art. 136 CE sobre el Tribunal de Cuentas; nada de la Cámara de Cuentas de Andalucía ni OCEX
+2	4	-	0	no	Relación con órganos de control: nada en RTVE
+2	5	temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md;temas/gestion/10-el-presupuesto.md	30	sí	Contabilidad financiera PGC y presupuesto estatal; falta normativa contable del sector público andaluz
+2	6	temas/gestion/12-proceso-contable.md;temas/gestion/13-el-patrimonio.md;temas/gestion/19-informacion-financiera.md;temas/gestion/14-gastos-ingresos-tesoreria.md	55	sí	Cuentas anuales, balance, PyG, periodificación y análisis económico-financiero; ECPN, EFE y EINF sólo citados o ausentes
+2	7	temas/gestion/21-planificacion-y-control.md	5	no	Sólo control de actividades operativas; nada de procedimientos internos ni circuitos administrativos
+2	8	temas/gestion/10-el-presupuesto.md;temas/gestion/21-planificacion-y-control.md	25	sí	Ciclo presupuestario LGP y control de desviaciones; falta régimen presupuestario de entes instrumentales de la Junta
+2	9	temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md	15	sí	Sólo PGC financiero; falta contabilidad pública de la Junta, GIRO, extrapresupuestaria y Cuenta General
+2	10	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo contrato menor y subcontratación; falta casi todo el enunciado de la LCSP
+2	11	-	0	no	Subvenciones y justificación: sin tema en RTVE
+2	12	temas/gestion/15-inmovilizado-material.md;temas/gestion/16-inmovilizado-intangible.md	30	sí	Inmovilizado, amortización, deterioro y bajas; faltan inventario y salvaguarda de bienes públicos
+2	13	temas/produccion-asistencia/17-proteccion-de-datos.md	5	sí	Sólo los sistemas de denuncias internas del art. 24 LOPDGDD; nada de compliance, fraude, conflicto de intereses ni Ley 2/2023
+2	14	-	0	no	Auditoría de cumplimiento: sin tema en RTVE
+2	15	temas/produccion-asistencia/17-proteccion-de-datos.md;temas/gestion-administrativa/01-gestion-administrativa.md	40	sí	Protección de datos completa y archivo; falta confidencialidad y custodia específica de documentación económica
+2	16	temas/gestion/21-planificacion-y-control.md;temas/gestion/17-costes-de-produccion.md	60	no	Indicadores, CMI, control presupuestario y contabilidad de costes; reporting sólo implícito
+2	17	-	0	no	Gestión de riesgos en proyectos audiovisuales y compras: sin tema en RTVE
+2	18	temas/gestion-administrativa/01-gestion-administrativa.md	15	sí	Archivo digital y gestión documental; nada de responsabilidad contable
+2	19	temas/gestion/30-excel-avanzado.md;temas/gestion-administrativa/11-office-2019.md;temas/tecnica-informatica/01-bases-de-datos-y-el-modelo-relacional.md	45	no	Excel avanzado, Office y bases de datos relacionales; faltan ERP y sistemas económico-financieros
+2	20	-	0	no	Régimen laboral y retributivo del convenio RTVA: el III Convenio de RTVE es norma distinta
+2	21	temas/documentacion/04-inteligencia-artificial.md	10	no	Tecnologías de IA (habla, PLN) aplicadas a documentación; falta régimen jurídico (RIA) y uso en gestión pública y auditoría
+2	22	temas/general/02-ley-17-2006.md	5	sí	Sólo la sujeción de RTVE a la Ley 19/2013; ni Ley de Auditoría de Cuentas ni desarrollo de transparencia
+2	23	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+3	1	temas/gestion-administrativa/01-gestion-administrativa.md	60	sí	Registro (Ley 39/2015), asientos, clases y archivo con gestión documental; falta distribución y seguimiento práctico; incluye parte RTVE
+3	2	temas/gestion-administrativa/01-gestion-administrativa.md	20	sí	Documento administrativo y su estructura; faltan tipos (oficios, certificados, diligencias) y redacción
+3	3	temas/gestion/06-tiempo-de-trabajo.md	35	sí	Jornada, descansos, vacaciones y permisos del ET; faltan registro de jornada y convenio RTVA
+3	4	temas/gestion-administrativa/08-ofimatica.md;temas/gestion-administrativa/11-office-2019.md;temas/gestion-administrativa/12-microsoft-teams.md;temas/gestion-administrativa/09-windows-10.md	60	sí	Word, Excel, PowerPoint, Outlook, Teams y Windows; faltan bases de datos, digitalización y firma electrónica; versiones fijadas
+3	5	-	0	no	SAP: sin tema en RTVE
+3	6	-	0	no	Atención a usuarios: sin tema en RTVE
+3	7	temas/gestion-administrativa/05-contabilidad.md;temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/20-iva.md	30	sí	Contabilidad elemental, compras, acreedores y factura (IVA); faltan albaranes, pedidos e imputaciones
+3	8	temas/gestion-administrativa/12-microsoft-teams.md	5	no	Sólo reuniones en Teams; nada de organización de viajes, actas ni agendas
+3	9	temas/general/06-igualdad.md	30	sí	Pautas de lenguaje no sexista e inclusivo de la Guía de Igualdad de RTVE; falta atención inclusiva y norma andaluza
+3	10	-	0	no	Organización y calidad del trabajo administrativo: sin tema en RTVE
+3	11	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+19	1	temas/gestion/25-la-empresa-como-organizacion.md;temas/gestion/21-planificacion-y-control.md	20	no	Organización, liderazgo, dirección por objetivos y control de gestión genéricos; nada de la Dirección Financiera de la RTVA
+19	2	-	0	no	Agencias públicas empresariales y sociedades mercantiles de la Junta (Ley 9/2007): nada en RTVE
+19	3	-	0	no	Régimen económico-financiero del sector público instrumental andaluz (TRLGHPJA): nada en RTVE
+19	4	temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md;temas/gestion-administrativa/05-contabilidad.md	70	sí	Marco conceptual, principios, partida doble, registro y valoración del PGC 2007; falta especificidad de entidades públicas empresariales
+19	5	temas/gestion/15-inmovilizado-material.md;temas/gestion/16-inmovilizado-intangible.md;temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md	70	sí	Inmovilizado, existencias, provisiones, periodificaciones y ciclo contable del PGC; cierre sólo esbozado
+19	6	temas/gestion/12-proceso-contable.md;temas/gestion/13-el-patrimonio.md;temas/gestion/19-informacion-financiera.md	60	sí	Cuentas anuales, balance, PyG, fondo de maniobra y ratios; memoria e informe de gestión sólo citados
+19	7	temas/gestion/10-el-presupuesto.md	15	sí	Presupuesto y ciclo según LGP 47/2003 (Estado); falta la norma de la Junta, modificaciones, liquidación y cierre
+19	8	temas/gestion/18-tesoreria.md;temas/gestion/14-gastos-ingresos-tesoreria.md	75	sí	Función de tesorería, instrumentos de cobro/pago, arqueo, conciliación bancaria y presupuesto de tesorería
+19	9	temas/gestion/10-el-presupuesto.md	10	sí	Sólo cita los principios de la LO 2/2012 dentro del art. 26 LGP; no desarrolla estabilidad ni sostenibilidad
+19	10	-	0	no	Subvenciones y financiación pública: sin tema en RTVE
+19	11	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo contrato menor (art. 118) y subcontratación (art. 215) de la LCSP; nada del seguimiento económico ni liquidación
+19	12	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo contrato menor y subcontratación; faltan principios, ámbito subjetivo, tipos, expedientes y procedimientos
+19	13	temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/20-iva.md	35	sí	Acreedores y deudores contables y obligaciones formales de facturación del IVA; falta gestión documental del ciclo
+19	14	temas/gestion/15-inmovilizado-material.md;temas/gestion/16-inmovilizado-intangible.md;temas/gestion/28-matematica-financiera.md	45	sí	Inmovilizado, amortizaciones, deterioro y selección de inversiones; falta inventario y enlace presupuestario
+19	15	temas/gestion/21-planificacion-y-control.md;temas/gestion/30-excel-avanzado.md;temas/gestion-administrativa/01-gestion-administrativa.md	15	sí	Cuadro de mando integral, Excel avanzado y gestión documental; faltan ERP, automatización y GIRO
+19	16	temas/gestion/21-planificacion-y-control.md;temas/gestion/17-costes-de-produccion.md	70	no	Planificación estratégica, control presupuestario, desviaciones, CMI y costes para decisiones
+19	17	temas/gestion/21-planificacion-y-control.md	10	no	Sólo instrumentos de control e indicadores; nada sobre redacción de informes y memorias para órganos de gobierno
+19	18	temas/gestion/20-iva.md;temas/gestion/24-nomina.md;temas/gestion/22-seguridad-social.md	30	sí	IVA completo, retención de IRPF en nómina y cotización a la SS; faltan IS, tributos locales, no residentes y censos
+19	19	temas/gestion/07-el-salario.md	10	sí	Sólo inembargabilidad y retención por embargo en nómina; faltan sociedades, contratos, cesiones, concurso y garantías
+19	20	temas/gestion/18-tesoreria.md;temas/gestion/28-matematica-financiera.md;temas/gestion/14-gastos-ingresos-tesoreria.md	35	sí	Cheque, pagaré, transferencia, confirming, conciliación, descuento, préstamos y moneda extranjera; faltan pólizas, créditos documentarios, liquidaciones
+19	21	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+20	1	temas/general/07-ley-13-2022.md;temas/gestion/27-produccion-en-television.md	40	sí	Comunicaciones comerciales LGCA (tipos, patrocinio, emplazamiento, autopromoción, límites), menores y accesibilidad; falta norma andaluza
+20	2	-	0	no	Código de conducta comercial de RTVA/CSRTV: nada en RTVE
+20	3	temas/general/07-ley-13-2022.md	15	sí	Sólo tipología legal y límites cuantitativos; faltan formatos comerciales de radio, TV y digital
+20	4	temas/general/07-ley-13-2022.md;temas/gestion/27-produccion-en-television.md	30	sí	Requisitos y límites legales del patrocinio y emplazamiento (arts. 128-129); falta gestión comercial y acciones especiales
+20	5	temas/general/07-ley-13-2022.md	5	sí	Sólo anuncios de servicio público (art. 134); nada de publicidad institucional
+20	6	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo contrato menor y subcontratación
+20	7	-	0	no	Gestión de clientes y agencias: sin tema en RTVE
+20	8	temas/general/07-ley-13-2022.md;temas/gestion/27-produccion-en-television.md	15	sí	Límites de minutos, interrupciones y programación; falta gestión del inventario publicitario
+20	9	-	0	no	Tarifas y política comercial: sin tema en RTVE
+20	10	-	0	no	Órdenes de publicidad: sin tema en RTVE
+20	11	-	0	no	Control de emisión y certificación publicitaria: sin tema en RTVE
+20	12	temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/18-tesoreria.md	20	sí	Deudores, cobros y tesorería genéricos; nada específico de la actividad comercial
+20	13	temas/gestion/27-produccion-en-television.md	20	no	Audiencia media, rating, share y medición Kantar/EGM; faltan GRP, CPM, cobertura, frecuencia y métricas digitales
+20	14	-	0	no	Marketing e investigación comercial: sin tema en RTVE
+20	15	temas/gestion/27-produccion-en-television.md;temas/realizacion/18-canales-online.md	10	no	TV en internet y canales online; nada del modelo de negocio ni comercialización digital
+20	16	temas/produccion-asistencia/17-proteccion-de-datos.md	55	sí	RGPD/LOPDGDD: bases de licitud, datos de contacto profesionales, exclusión publicitaria, derechos; falta aplicación comercial concreta
+20	17	temas/produccion-asistencia/02-propiedad-intelectual.md;temas/diseno-grafico/13-legislacion-y-derechos-de-autor.md	50	sí	Propiedad intelectual completa (derechos, límites, cesiones) y derechos de imagen; faltan marcas
+20	18	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+21	1	temas/gestion/25-la-empresa-como-organizacion.md;temas/gestion/26-gestion-por-competencias.md	20	no	Organización, liderazgo, motivación y evaluación del desempeño genéricos
+21	2	temas/gestion/21-planificacion-y-control.md	15	no	Indicadores y control de actividades operativas; nada de informes, memorias ni partes
+21	3	-	0	no	Gestión de recursos, turnos y continuidad del servicio: sin tema en RTVE aplicable
+21	4	temas/gestion/10-el-presupuesto.md	10	sí	Sólo cita los principios de la LO 2/2012; no los desarrolla
+21	5	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo contrato menor y subcontratación; faltan principios, ámbito subjetivo, tipos, expedientes y procedimientos
+21	6	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo el informe motivado del contrato menor; nada de memoria, PBL, valor estimado, solvencia ni criterios
+21	7	-	0	no	Pliegos, lotes y criterios de adjudicación: sin tema en RTVE
+21	8	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo el contrato menor; faltan abierto, simplificado, negociado, acuerdos marco y SDA
+21	9	temas/produccion/16-aspectos-juridicos.md	60	sí	Umbrales, informe motivado, aprobación del gasto, factura, publicación y fraccionamiento (art. 118); falta duración (art. 29.8)
+21	10	-	0	no	Poderes adjudicadores no Administración Pública: sin tema en RTVE
+21	11	-	0	no	Compra de bienes y servicios audiovisuales: sin tema en RTVE
+21	12	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo subcontratación y sus penalidades; faltan responsable del contrato, modificaciones, prórrogas, recepción, liquidación
+21	13	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo la publicación del contrato menor (art. 63.4); nada de perfil del contratante ni licitación electrónica
+21	14	-	0	no	Integridad y conflicto de intereses en contratación: sin tema en RTVE
+21	15	temas/general/08-ley-31-1995.md	15	sí	Sólo coordinación de actividades empresariales (art. 24 LPRL); nada de homologación ni evaluación de proveedores
+21	16	temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/18-tesoreria.md;temas/gestion/20-iva.md	35	sí	Acreedores, deudores, tesorería y facturación IVA; falta control documental
+21	17	temas/gestion/10-el-presupuesto.md;temas/gestion/12-proceso-contable.md	25	sí	Fases del gasto LGP y contabilidad financiera; faltan fiscalización y retención de crédito de la Junta
+21	18	-	0	no	Compra pública sostenible, social e innovadora: sin tema en RTVE
+21	19	temas/produccion-asistencia/17-proteccion-de-datos.md	40	sí	RGPD/LOPDGDD con responsable y encargado del tratamiento; falta aplicación a expedientes de contratación
+21	20	temas/produccion-asistencia/02-propiedad-intelectual.md;temas/produccion/16-aspectos-juridicos.md	40	sí	Transmisión de derechos, obra audiovisual y contrato de producción; faltan derechos de emisión y coproducciones
+21	21	temas/gestion/14-gastos-ingresos-tesoreria.md	15	sí	Existencias contables; nada de almacén, logística, garantías ni obsolescencia
+21	22	-	0	no	Planificación anual de compras: sin tema en RTVE
+21	23	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+22	1	temas/gestion/25-la-empresa-como-organizacion.md;temas/gestion/21-planificacion-y-control.md	20	no	Organización, liderazgo, dirección por objetivos y control de gestión genéricos; nada de la Dirección Financiera de la RTVA
+22	2	-	0	no	Agencias públicas empresariales y sociedades mercantiles de la Junta (Ley 9/2007): nada en RTVE
+22	3	-	0	no	Régimen económico-financiero del sector público instrumental andaluz (TRLGHPJA): nada en RTVE
+22	4	temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md;temas/gestion-administrativa/05-contabilidad.md	70	sí	Marco conceptual, principios, partida doble, registro y valoración del PGC 2007; falta especificidad de entidades públicas empresariales
+22	5	temas/gestion/15-inmovilizado-material.md;temas/gestion/16-inmovilizado-intangible.md;temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/11-modelo-contable.md;temas/gestion/12-proceso-contable.md	70	sí	Inmovilizado, existencias, provisiones, periodificaciones y ciclo contable del PGC; cierre sólo esbozado
+22	6	temas/gestion/12-proceso-contable.md;temas/gestion/13-el-patrimonio.md;temas/gestion/19-informacion-financiera.md	60	sí	Cuentas anuales, balance, PyG, fondo de maniobra y ratios; memoria e informe de gestión sólo citados
+22	7	temas/gestion/10-el-presupuesto.md	15	sí	Presupuesto y ciclo según LGP 47/2003 (Estado); falta la norma de la Junta, modificaciones, liquidación y cierre
+22	8	temas/gestion/18-tesoreria.md;temas/gestion/14-gastos-ingresos-tesoreria.md	75	sí	Función de tesorería, instrumentos de cobro/pago, arqueo, conciliación bancaria y presupuesto de tesorería
+22	9	temas/gestion/10-el-presupuesto.md	10	sí	Sólo cita los principios de la LO 2/2012 dentro del art. 26 LGP; no desarrolla estabilidad ni sostenibilidad
+22	10	-	0	no	Subvenciones y financiación pública: sin tema en RTVE
+22	11	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo contrato menor (art. 118) y subcontratación (art. 215) de la LCSP; nada del seguimiento económico ni liquidación
+22	12	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo contrato menor y subcontratación; faltan principios, ámbito subjetivo, tipos, expedientes y procedimientos
+22	13	temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/20-iva.md	35	sí	Acreedores y deudores contables y obligaciones formales de facturación del IVA; falta gestión documental del ciclo
+22	14	temas/gestion/15-inmovilizado-material.md;temas/gestion/16-inmovilizado-intangible.md;temas/gestion/28-matematica-financiera.md	45	sí	Inmovilizado, amortizaciones, deterioro y selección de inversiones; falta inventario y enlace presupuestario
+22	15	temas/gestion/21-planificacion-y-control.md;temas/gestion/30-excel-avanzado.md;temas/gestion-administrativa/01-gestion-administrativa.md	15	sí	Cuadro de mando integral, Excel avanzado y gestión documental; faltan ERP, automatización y GIRO
+22	16	temas/gestion/21-planificacion-y-control.md;temas/gestion/17-costes-de-produccion.md	70	no	Planificación estratégica, control presupuestario, desviaciones, CMI y costes para decisiones
+22	17	temas/gestion/21-planificacion-y-control.md	10	no	Sólo instrumentos de control e indicadores; nada sobre redacción de informes y memorias para órganos de gobierno
+22	18	temas/gestion/20-iva.md;temas/gestion/24-nomina.md;temas/gestion/22-seguridad-social.md	30	sí	IVA completo, retención de IRPF en nómina y cotización a la SS; faltan IS, tributos locales, no residentes y censos
+22	19	temas/gestion/07-el-salario.md	10	sí	Sólo inembargabilidad y retención por embargo en nómina; faltan sociedades, contratos, cesiones, concurso y garantías
+22	20	temas/gestion/18-tesoreria.md;temas/gestion/28-matematica-financiera.md;temas/gestion/14-gastos-ingresos-tesoreria.md	35	sí	Cheque, pagaré, transferencia, confirming, conciliación, descuento, préstamos y moneda extranjera; faltan pólizas, créditos documentarios, liquidaciones
+22	21	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+24	1	-	0	no	Ley 18/2007 de la RTVA: norma distinta de la Ley 17/2006
+24	2	-	0	no	Ley 9/2007 de la Administración de la Junta: nada en RTVE
+24	3	-	0	no	Leyes de presupuestos y gestión de personal del sector público: nada en RTVE
+24	4	temas/gestion/01-estatuto-de-los-trabajadores.md;temas/gestion/02-trabajo-por-cuenta-ajena.md;temas/gestion/03-convenios-colectivos.md;temas/gestion/04-contrato-de-trabajo.md;temas/gestion/05-modificacion-de-condiciones.md;temas/gestion/06-tiempo-de-trabajo.md;temas/gestion/07-el-salario.md;temas/gestion/08-derechos-y-deberes.md	70	sí	ET desarrollado por bloques (contrato, modificación, tiempo, salario, derechos, convenios); representación colectiva escasa; redacción 21-12-2022
+24	5	temas/gestion/01-estatuto-de-los-trabajadores.md;temas/gestion/08-derechos-y-deberes.md	5	sí	Sólo referencias a la LISOS; no se desarrolla
+24	6	temas/general/08-ley-31-1995.md	5	sí	Sólo el art. 9 LPRL sobre la Inspección; nada de la Ley 23/2015
+24	7	-	0	no	Convenio de la RTVA: el III Convenio de RTVE es norma distinta
+24	8	-	0	no	Reglamento de la Mesa de Contratación de RTVA: nada en RTVE
+24	9	-	0	no	Ley 5/2023 de Función Pública de Andalucía: nada en RTVE
+24	10	temas/general/06-igualdad.md	15	sí	Arts. 7, 37 y 46 de la LO 3/2007 al hilo del Plan de Igualdad de RTVE; no se desarrolla la ley
+24	11	temas/general/06-igualdad.md	20	sí	Estructura de un plan (diagnóstico, objetivos, medidas, seguimiento) sobre el caso RTVE; no se estudia el RD 901/2020 como norma
+24	12	temas/general/06-igualdad.md	5	sí	Sólo citado en el marco normativo del Plan de RTVE
+24	13	-	0	no	Ley 12/2007 andaluza: nada en RTVE
+24	14	temas/medicina/16-carga-mental-teletrabajo-estres-y-trabajo-a-turnos.md	20	sí	Concepto, riesgos y desconexión del teletrabajo; el propio tema excluye acuerdo, reversibilidad, medios y gastos
+24	15	temas/general/05-convenio-colectivo.md	5	sí	Sólo menciones a la LOLS a propósito de la representatividad en el convenio RTVE
+24	16	temas/produccion-asistencia/17-proteccion-de-datos.md	80	sí	Principios (T. II), tratamientos concretos (T. IV), responsable/encargado/DPD (T. V) y derechos digitales (T. X) desarrollados
+24	17	-	0	no	Decreto 54/1989 de indemnizaciones de la Junta: nada en RTVE
+24	18	-	0	no	Gestión de reclamaciones laborales: sin tema en RTVE
+24	19	-	0	no	SAP de RRHH: sin tema en RTVE
+24	20	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
+25	1	temas/gestion/25-la-empresa-como-organizacion.md;temas/gestion/26-gestion-por-competencias.md	20	no	Organización, liderazgo, motivación y evaluación del desempeño genéricos
+25	2	temas/gestion/21-planificacion-y-control.md	15	no	Indicadores y control de actividades operativas; nada de informes, memorias ni partes
+25	3	-	0	no	Gestión de recursos, turnos y continuidad del servicio: sin tema en RTVE aplicable
+25	4	temas/gestion/10-el-presupuesto.md	10	sí	Sólo cita los principios de la LO 2/2012; no los desarrolla
+25	5	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo contrato menor y subcontratación; faltan principios, ámbito subjetivo, tipos, expedientes y procedimientos
+25	6	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo el informe motivado del contrato menor; nada de memoria, PBL, valor estimado, solvencia ni criterios
+25	7	-	0	no	Pliegos, lotes y criterios de adjudicación: sin tema en RTVE
+25	8	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo el contrato menor; faltan abierto, simplificado, negociado, acuerdos marco y SDA
+25	9	temas/produccion/16-aspectos-juridicos.md	60	sí	Umbrales, informe motivado, aprobación del gasto, factura, publicación y fraccionamiento (art. 118); falta duración (art. 29.8)
+25	10	-	0	no	Poderes adjudicadores no Administración Pública: sin tema en RTVE
+25	11	-	0	no	Compra de bienes y servicios audiovisuales: sin tema en RTVE
+25	12	temas/produccion/16-aspectos-juridicos.md	10	sí	Sólo subcontratación y sus penalidades; faltan responsable del contrato, modificaciones, prórrogas, recepción, liquidación
+25	13	temas/produccion/16-aspectos-juridicos.md	5	sí	Sólo la publicación del contrato menor (art. 63.4); nada de perfil del contratante ni licitación electrónica
+25	14	-	0	no	Integridad y conflicto de intereses en contratación: sin tema en RTVE
+25	15	temas/general/08-ley-31-1995.md	15	sí	Sólo coordinación de actividades empresariales (art. 24 LPRL); nada de homologación ni evaluación de proveedores
+25	16	temas/general/08-ley-31-1995.md	15	sí	Sólo coordinación de actividades empresariales (art. 24 LPRL); nada de homologación ni evaluación de proveedores
+25	17	temas/gestion/14-gastos-ingresos-tesoreria.md;temas/gestion/18-tesoreria.md;temas/gestion/20-iva.md	35	sí	Acreedores, deudores, tesorería y facturación IVA; falta control documental
+25	18	temas/gestion/10-el-presupuesto.md;temas/gestion/12-proceso-contable.md	25	sí	Fases del gasto LGP y contabilidad financiera; faltan fiscalización y retención de crédito de la Junta
+25	19	-	0	no	Compra pública sostenible, social e innovadora: sin tema en RTVE
+25	20	temas/produccion-asistencia/17-proteccion-de-datos.md	40	sí	RGPD/LOPDGDD con responsable y encargado del tratamiento; falta aplicación a expedientes de contratación
+25	21	temas/produccion-asistencia/02-propiedad-intelectual.md;temas/produccion/16-aspectos-juridicos.md	40	sí	Transmisión de derechos, obra audiovisual y contrato de producción; faltan derechos de emisión y coproducciones
+25	22	temas/gestion/14-gastos-ingresos-tesoreria.md	15	sí	Existencias contables; nada de almacén, logística, garantías ni obsolescencia
+25	23	-	0	no	Planificación anual de compras: sin tema en RTVE
+25	24	temas/prl/prl-especifico.md;temas/enfermeria/20-equipos-de-proteccion-individual.md	85	sí	Cubre derechos y obligaciones (LPRL 14-29), PVD, TME, accidente in itinere/en misión y EPI (RD 773/1997); falta riesgos propios de RTVA/CSRTV; normas a 21-12-2022
