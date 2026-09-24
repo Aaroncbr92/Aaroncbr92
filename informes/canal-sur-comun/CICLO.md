@@ -121,3 +121,12 @@ python3 herramientas/negritas.py temas/canal-sur-comun/NN-*.md fuentes/canal-sur
 ```
 
 Revisa sólo lo que lista (NO ESTÁ y ¿ART. N?); lo demás está cotejado.
+
+## Fase 5 bis recortada (decisión del titular, 24-09-2026)
+
+La comprobación final con agente **sólo se hace si el remate amplía el tema** (contenido
+nuevo, no correcciones puntuales). Si el remate sólo corrige pasajes (hasta tres o cuatro),
+basta con que el coordinador corra `refutar_prosa.py`, `refutar_modo.py`, `indice.py` y
+`negritas.py` sobre el tema rematado y revise lo que marquen. Motivo, medido en los temas
+1, 2, 4, 6 y 9: la refutación encontró en todos al menos un fallo grave; la comprobación
+final, 0, 0, 0, 4 menores y 2 menores.

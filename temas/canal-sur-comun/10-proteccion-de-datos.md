@@ -1286,14 +1286,15 @@ párrafo «el proyecto de acuerdo de inicio» por «el acuerdo de inicio».
 
 El plazo cuenta desde el día siguiente a aquel en que sea ejecutable la resolución o haya
 transcurrido el plazo para recurrirla, y se interrumpe por la iniciación del procedimiento de
-ejecución con conocimiento del interesado.
+ejecución con conocimiento del interesado; vuelve a correr si ese procedimiento está paralizado
+más de seis meses por causa no imputable al infractor (78.3).
 
 *Las multas del Reglamento (artículo 83).* Dos escalones, y hay que saber cuál corresponde a qué:
 
 | Escalón | Cuantía | Qué se sanciona |
 |---|---|---|
 | Artículo 83.4 | Hasta 10 000 000 de euros o, si es una empresa, hasta el 2 % del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía | Las obligaciones del responsable y del encargado de los artículos 8, 11, 25 a 39, 42 y 43; las de los organismos de certificación; y las del organismo de supervisión de un código de conducta (83.4.c, en la redacción de la corrección de 2021) |
-| Artículo 83.5 | Hasta 20 000 000 de euros o hasta el 4 % del volumen de negocio, optándose por la de mayor cuantía | Los principios básicos, incluidas las condiciones del consentimiento (arts. 5, 6, 7 y 9); los derechos de los interesados (arts. 12 a 22); las transferencias internacionales (arts. 44 a 49); las obligaciones del Derecho nacional adoptadas con arreglo al capítulo IX; y el incumplimiento de una resolución o limitación de la autoridad |
+| Artículo 83.5 | Hasta 20 000 000 de euros o, si es una empresa, hasta el 4 % del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía | Los principios básicos, incluidas las condiciones del consentimiento (arts. 5, 6, 7 y 9); los derechos de los interesados (arts. 12 a 22); las transferencias internacionales (arts. 44 a 49); las obligaciones del Derecho nacional adoptadas con arreglo al capítulo IX; y el incumplimiento de una resolución o limitación de la autoridad |
 
 La regla para recordarlo sale del propio reparto: el 4 % es para lo que afecta al ciudadano
 (principios, consentimiento, derechos, transferencias); el 2 % para lo que afecta a la organización
