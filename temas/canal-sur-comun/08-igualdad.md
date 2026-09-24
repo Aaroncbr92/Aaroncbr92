@@ -1956,5 +1956,6 @@ Comprobaciones hechas sobre la fuente:
 5. Real Decreto 606/2026 y Real Decreto 1026/2024: leídos como reglamentos, y
    atribuidos a ellos, no a las leyes.
 6. Remisiones de la Ley 12/2007 a la Ley 1/2004 (artículos 4.15 y 4.16): corresponden a la
-   redacción original de esa ley, leída a 19/12/2007; en el texto consolidado de hoy esos
-   números tienen otro contenido.
+   redacción original de esa ley, leída a 19/12/2007 y, para el 4.16 (el artículo 85.4 es de la
+   Ley 9/2018), también a 16/10/2018, cuando seguía siendo la original; en el texto consolidado
+   de hoy esos números tienen otro contenido.

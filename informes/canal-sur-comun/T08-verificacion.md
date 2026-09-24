@@ -59,3 +59,24 @@ Cuantías (80), accesorias, graduación (ocho letras), prescripción (81: 3 a / 
 sanciones 2 a / 1 a / 6 m), competencia (77.2: 100.000 €), 17 letras del art. 3: conformes.
 Recursos 2428-2023 y 3679-2023 releídos en `documentos/`; búsqueda en el BOE el 24-09-2026: solo
 los anuncios de admisión, ninguna sentencia.
+9. **Trazabilidad, punto 6** · remisiones a la Ley 1/2004 «leída a 19/12/2007» · se añade que el
+   4.16 (remitido por el art. 85.4, que es de la Ley 9/2018) se leyó también a 16/10/2018, fecha
+   de vigor del art. 85.4, y seguía siendo la redacción original (la reforma de la Ley 1/2004,
+   `BOE-A-2018-15240`, entró en vigor el 17/10/2018) · `boe.py --fecha 20181016 precepto
+   BOE-A-2005-655 a4`. (Precisión; el cuerpo ya era correcto.)
+
+## Datos tomados de otros informes sin releer (encargo): comprobados
+
+- **Ley 2/2019, de 26 de junio** (art. 14.1 de la Ley 18/2007): título y fecha en
+  `BOE-A-2019-11576`; entra en vigor al día siguiente de su publicación en el BOJA; la cadena
+  del art. 14 da vigencia 28-06-2019. Confirmado.
+- **Decreto-ley 5/2024, de 21 de mayo** (art. 20.1 de la Ley 18/2007): título y fecha en
+  `BOJA-b-2024-90100` (BOJA núm. 100, de 24-05-2024; DF 2.ª: vigor al día siguiente →
+  25-05-2024); entre las normas que modifica figura «el art. 20.1 de la Ley 18/2007».
+  **Convalidado** por el Pleno del Parlamento el 28-05-2024 (`BOJA-b-2024-90113`): rige.
+- **Convalidación del Decreto-ley 3/2024**: Pleno del Parlamento de Andalucía de 21-02-2024
+  (`BOJA-b-2024-90047`, BOJA núm. 46, de 06-03-2024). Confirmado. Recurso 3473-2024
+  (`BOE-A-2024-12561`, providencia de 17-06-2024): sin sentencia en el BOE a 24-09-2026.
+- Ley 18/2007 releída en su redacción vigente: arts. 2.1, 4.1.b) y f), 4.3.c), 14.1 (nueve
+  miembros, paridad), 20.1 (quince miembros; vocales del Consejo Andaluz LGBTI y del Consejo
+  Andaluz de Participación de las Mujeres) y DA 3.ª (40-60 %). Conformes.

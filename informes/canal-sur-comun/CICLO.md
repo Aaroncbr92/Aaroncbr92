@@ -109,3 +109,15 @@ literal aquí y se comprueba con `refutar_documento.py`.
 - Informe **sólo con hallazgos y correcciones** (formato de CICLO), sin repetir lo que está
   bien más que en una línea de cuadro.
 - **Respuesta final al coordinador: 120 palabras como máximo.** El detalle, en el informe.
+
+## Herramienta: `herramientas/negritas.py`
+
+Cotejo mecánico de **cada negrita contra todas las fuentes** (volcados del BOE y
+documentos `.txt`), con el artículo donde aparece y aviso de **cita cruzada** cuando el
+tema la atribuye a otro. Úsala **en vez de escribir un guion propio**:
+
+```
+python3 herramientas/negritas.py temas/canal-sur-comun/NN-*.md fuentes/canal-sur/BOE-A-….md fuentes/canal-sur/documentos/….txt …
+```
+
+Revisa sólo lo que lista (NO ESTÁ y ¿ART. N?); lo demás está cotejado.
