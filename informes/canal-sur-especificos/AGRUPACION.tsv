@@ -1,0 +1,740 @@
+puesto	tema	tipo	escrito_en_puesto	escrito_en_tema	semejanza	enunciado
+34	1	nuevo				Derecho a la información y libertad de expresión: artículo 20 de la Constitución Española; veracidad, pluralismo, independencia editorial, derecho al honor, intimidad y propia imagen —Ley Orgánica 1/1982—; derecho de rectificación —Ley Orgánica 2/1984—; secreto profesional y cláusula de conciencia.
+34	2	nuevo				Misión informativa de una radiotelevisión pública autonómica: Ley 18/2007, de la RTVA; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Carta del Servicio Público de la RTVA 2024-2029; servicio público, neutralidad, objetividad, cohesión territorial, diversidad social y responsabilidad editorial.
+34	3	nuevo				Organización de una redacción audiovisual: agenda informativa, funcionamiento de una mesa de redacción, edición, escaleta, asignación de coberturas, coordinación territorial, directos, continuidad informativa y relación con programas, de acuerdo con la organización funcional de RTVA/CSRTV y su Estatuto Profesional.
+34	4	nuevo				Fuentes informativas y verificación: fuentes oficiales, institucionales, sociales, documentales, judiciales, científicas y digitales; contraste, atribución, contextualización, verificación de imágenes, bulos, desinformación y obligaciones de diligencia profesional derivadas de la veracidad informativa.
+34	5	nuevo				Géneros periodísticos en radio, televisión y entornos digitales: noticia, crónica, reportaje, entrevista, análisis, directo, debate, tertulia, conexión, narración deportiva y formatos explicativos.
+34	6	nuevo				Grupos de comunicación públicos y privados de España. FORTA.
+34	7	nuevo				Redacción audiovisual para televisión: estructura de la noticia, entradilla, off, totales, colas, piezas, titulares, rótulos, guion informativo, relación texto-imagen y adaptación al tiempo de emisión.
+34	8	nuevo				Redacción y comunicación radiofónica: lenguaje radiofónico, escritura para ser escuchada, cortes de voz, crónica, entrevista, boletín, informativo, magazine, directo y coordinación con operación de sonido.
+34	9	nuevo				Presentación, locución y comunicación oral en contenidos informativos: claridad, ritmo, lectura, improvisación controlada, autocontrol, uso del prompter, comunicación con control y adecuación al formato.
+34	10	nuevo				Coberturas en directo, últimas horas y situaciones de incertidumbre: preparación, actualización de datos, modulación del lenguaje, verificación en tiempo real, coordinación con redacción y equipos técnicos, seguridad y continuidad informativa.
+34	11	nuevo				Tratamiento informativo de materias especialmente sensibles: violencia de género —Ley Orgánica 1/2004 y normativa andaluza de igualdad—, menores, discapacidad, salud, sucesos, tribunales, migraciones, emergencias, terrorismo, catástrofes y colectivos vulnerables; límites derivados de la normativa audiovisual y de protección de derechos fundamentales.
+34	12	nuevo				Información política, institucional y electoral: neutralidad, pluralismo, proporcionalidad, tiempos de información, cobertura de instituciones, campañas electorales, debates, encuestas y obligaciones derivadas de la Ley Orgánica 5/1985, del Régimen Electoral General, la normativa audiovisual y los criterios de servicio público.
+34	13	nuevo				Actualidad e información territorial andaluza: conocimiento de la actualidad política, institucional, social, económica, cultural, deportiva, científica y medioambiental, de ámbito autonómico, estatal e internacional, pero con especial referencia a Andalucía.
+34	14	nuevo				Periodismo digital y multiplataforma: redacción para web, redes sociales y aplicaciones; titulares digitales, SEO editorial, vídeo corto, audio, podcast, directos online, interacción con la audiencia, verificación en entornos digitales y obligaciones de la Ley 13/2022 y normativa de servicios digitales.
+34	15	nuevo				Periodismo de datos y uso de información pública: acceso a la información pública, transparencia, reutilización de información, lectura e interpretación de datos, estadísticas básicas aplicadas a la información, visualización, contexto, límites y uso responsable de fuentes abiertas.
+34	16	nuevo				Protección de datos, privacidad y tratamiento de imágenes en la actividad informativa: Aspectos generales del Reglamento General de Protección de Datos y Ley Orgánica 3/2018; datos personales, datos especialmente protegidos, imágenes de personas identificables, menores, víctimas, consentimiento, interés público informativo y ponderación con la libertad de información.
+34	17	nuevo				Accesibilidad, igualdad y diversidad en contenidos informativos: Ley 13/2022, normativa sobre igualdad y no discriminación, accesibilidad audiovisual, lenguaje claro e inclusivo, representación equilibrada, subtitulado, audiodescripción, protección de menores y tratamiento respetuoso de la diversidad social.
+34	18	nuevo				Ética profesional y responsabilidad del redactor/a: Carta Ética Mundial para Periodistas de la FIP, Estatuto Profesional de RTVA/CSRTV, Libro de Estilo, independencia, conflicto de intereses, deber de imparcialidad, incompatibilidad de ventajas o tratos de favor, rectificación, transparencia con la audiencia y Defensor/a de la Audiencia.
+34	19	nuevo				Inteligencia artificial aplicada al periodismo: usos en búsqueda, transcripción, apoyo a la redacción, traducción, resumen, verificación y análisis; riesgos, sesgos, trazabilidad, supervisión humana; nociones básicas del marco legal europeo sobre inteligencia artificial relacionadas con la actividad periodística.
+34	20	nuevo				Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+8	1	nuevo				Cámara de televisión y vídeo: sensores, ópticas, enfoque, exposición, balance de blancos, ganancia y filtros.
+8	2	nuevo				Lenguaje visual: encuadre, composición, eje, continuidad, movimientos, profundidad de campo y narrativa de imagen.
+8	3	nuevo				Captación ENG, estudio, exteriores, unidades móviles, retransmisiones y directos informativos.
+8	4	nuevo				Soportes y accesorios: trípode, pedestal, grúa, steady, gimbal, hombro, slider y sistemas remotos.
+8	5	nuevo				Iluminación básica para cámara: temperatura de color, contraste, sombras, luz natural y luz artificial.
+8	6	nuevo				Captación de sonido asociada a cámara: microfonía, niveles, sincronía, ambiente y criterios básicos.
+8	7	nuevo				Formatos de grabación, códecs, tarjetas, metadatos, ingesta, copia de seguridad y entrega de material.
+8	8	nuevo				Trabajo con redacción y realización: planificación de cobertura, toma de recursos, entrevistas y directos.
+8	9	nuevo				Calidad técnica de imagen: foco, exposición, color, estabilidad, ruido, compresión y continuidad.
+8	10	nuevo				Cobertura de noticias, deportes, actos institucionales, cultura, sucesos y eventos no controlados.
+8	11	nuevo				Seguridad del equipo, transporte, montaje, verificación, mantenimiento básico y comunicación de incidencias.
+8	12	nuevo				Derechos de imagen, privacidad, menores, víctimas, espacios públicos y uso ético de imágenes sensibles.
+8	13	nuevo				Producción móvil y transmisión: mochilas, enlaces, streaming, señales IP y coordinación con control.
+8	14	nuevo				Prevención de riesgos en exteriores, conducción, cargas, climatología, aglomeraciones y trabajo nocturno.
+8	15	nuevo				Técnicas de creatividad visual, recursos narrativos, cámara lenta, time lapse, estabilización y cobertura multicámara.
+8	16	nuevo				Accesibilidad y diversidad en la representación visual de personas y territorios.
+8	17	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+28	1	nuevo				Fundamentos de sonido: ondas, frecuencia, amplitud, fase, dinámica, timbre, audición y acústica básica.
+28	2	nuevo				Electricidad y electrónica aplicada al audio: niveles, impedancias, balanceado, masa, ruido y alimentación phantom.
+28	3	nuevo				Microfonía: tipos, patrones polares, sensibilidad, colocación, soportes, inalámbricos y accesorios.
+28	4	nuevo				Consolas de mezcla analógicas y digitales: niveles, entradas, salidas, buses, auxiliares, grupos, matrices, automatización y escenas.
+28	5	nuevo				Procesamiento de audio: ecualización, dinámica, compresión, limitación, puertas, filtros, reverberación y efectos.
+28	6	nuevo				Captación de sonido en informativos, exteriores, eventos, deportes, ficción, musicales y documentales.
+28	7	nuevo				Sonido en radio: microfonía, mesa, híbridos, RDSI/IP, codecs, telefonía, streaming y podcast.
+28	8	nuevo				Sonido en televisión: intercom, IFB, retornos, mezcla para emisión, coordinación con realización y cámaras.
+28	9	nuevo				Grabación, edición y postproducción: Músicas, cuñas, ráfagas y continuidad, DAW, pistas, sincronía, doblaje, limpieza, mezcla y entrega.
+28	10	nuevo				Sonorización: altavoces, amplificadores, PA, monitores, cobertura, realimentación y acústica de salas.
+28	11	nuevo				Líneas y conexiones: XLR, jack, BNC, Dante/AES67, MADI, AES/EBU, ADAT, SDI, embebido y desembebido.
+28	12	nuevo				Radiofrecuencia aplicada a microfonía inalámbrica: antenas, coordinación de frecuencias e interferencias.
+28	13	nuevo				Medición y sonoridad: LUFS, EBU R128, picos, loudness, fases y control de calidad.
+28	14	nuevo				Audio multicanal, Dolby, 5.1, estéreo, mono, downmix y compatibilidad.
+28	15	nuevo				Audio sobre IP, redes, sincronía, latencia, PTP y redundancia.
+28	16	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+30	1	nuevo				Lenguaje y montaje audiovisual: ritmo, continuidad, raccord, elipsis, eje, estructura narrativa y tratamiento informativo. Estilos de edición según el género.
+30	2	nuevo				Conocimientos y fundamentos de la señal de vídeo y audio.
+30	3	nuevo				Sistemas de edición no lineal: proyectos, bins, timeline, códecs, proxies, conformado y exportación.
+30	4	nuevo				Formatos de vídeo y audio: resolución, compresión, HD, UHD, HDR, códecs, frame rate, bitrate, contenedores, compresión, SDI/IP y estándares de entrega.
+30	5	nuevo				Montaje de noticias: criterio editorial, selección de planos, colas, totales, entradillas, locución y cierre.
+30	6	nuevo				Montaje de programas, promociones, piezas culturales, deportes y contenidos digitales.
+30	7	nuevo				Postproducción: color básico, corrección, efectos, grafismo, subtítulos, transiciones y limpieza de audio.
+30	8	nuevo				Ingesta, digitalización, transferencia, verificación, copias de seguridad, metadatos y archivo.
+30	9	nuevo				Coordinación con redacción, realización, producción, documentación, grafismo y sonido.
+30	10	nuevo				Derechos de autor, imagen, música, archivo, créditos y uso de materiales de terceros.
+30	11	nuevo				Accesibilidad: subtítulos, audiodescripción, lectura fácil y versiones para plataformas.
+30	12	nuevo				Edición para redes y plataformas: formatos verticales, clips, miniaturas, ritmo y distribución multiplataforma.
+30	13	nuevo				Automatización, plantillas, MAM/PAM, newsroom y flujos de producción integrados.
+30	14	nuevo				Gestión de urgencia informativa, directos, cambios de última hora y versionado.
+30	15	nuevo				Organización de proyectos, nomenclatura, trazabilidad y buenas prácticas colaborativas.
+30	16	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+32	1	nuevo				La producción audiovisual en radio, televisión y plataformas digitales: concepto, fases, modelos productivos y función estratégica del área de producción.
+32	2	nuevo				El puesto de Productor/a en RTVA/CSRTV: planificación, coordinación y control de recursos humanos, técnicos, económicos y materiales para programas, informativos, retransmisiones y contenidos audiovisuales.
+32	3	nuevo				Diseño y planificación del plan de producción: análisis de necesidades, cronograma, fases, recursos, prioridades, riesgos, coordinación de áreas y seguimiento del proyecto.
+32	4	nuevo				Presupuesto de producción: elaboración, control, desviaciones, imputación de costes, justificación de gastos, seguimiento económico y cierre presupuestario.
+32	5	nuevo				Gestión de recursos humanos y condiciones de prestación: dimensionamiento de equipos, convocatorias, turnos, jornadas, desplazamientos, dietas, coordinación territorial y adecuación a la normativa laboral interna.
+32	6	nuevo				Gestión de recursos técnicos y materiales: estudios, controles, unidades móviles, cámaras, sonido, iluminación, enlaces, edición, grafismo, continuidad, archivo y sistemas digitales de producción.
+32	7	nuevo				Producción de programas en estudio: diseño operativo, coordinación de plató, invitados, público, escaleta, tiempos, recursos técnicos, realización, redacción y necesidades de emisión.
+32	8	nuevo				Producción de exteriores, retransmisiones, eventos especiales e informativos: localizaciones, proceso y regulación para la obtención de permisos, logística, seguridad, transporte, telecomunicaciones, directos, urgencias y coordinación institucional.
+32	9	nuevo				Producción de contenidos grabados, directos y multiplataforma: captación de imagen y sonido, televisión, radio, web, redes sociales, streaming, podcast, piezas digitales y adaptación de recursos al formato.
+32	10	nuevo				Contratación de servicios, suministros y colaboraciones en producción: definición de necesidades, prescripciones, presupuestos, proveedores, seguimiento de ejecución, recepción y conformidad. Principios básicos de contratación pública (Ley de Contratos del Sector Público).
+32	11	nuevo				Derechos audiovisuales y documentación jurídica de producción: derechos de imagen, música, archivo, propiedad intelectual, obras preexistentes, menores, autorizaciones y cesiones.
+32	12	nuevo				Gestión documental y trazabilidad de la producción: expedientes, contratos, permisos, autorizaciones, partes, órdenes de trabajo, informes y cierres de producción.
+32	13	nuevo				Igualdad, diversidad y accesibilidad en la producción de audiovisuales: planificación preventiva, coordinación de actividades, exteriores, público, proveedores, emergencias, protección de menores y criterios de servicio público.
+32	14	nuevo				Prevención de riesgos laborales en la producción audiovisual: identificación de riesgos en la planificación y ejecución de programas, informativos, retransmisiones, grabaciones y eventos; coordinación de actividades empresariales con personal externo; seguridad en estudios, platós, exteriores, localizaciones, unidades móviles, desplazamientos, montajes, desmontajes, presencia de público e invitados; riesgos por electricidad, iluminación, cableado, manipulación de cargas, trabajo en altura, climatología, aglomeraciones, estrés operativo y trabajo a turnos; medidas preventivas, emergencias, evacuación, primeros auxilios, accidente in itinere y en misión, comunicación de incidencias y escalado al responsable preventivo.
+32	15	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+33	1	nuevo				Lenguaje audiovisual aplicado a televisión: plano, eje, composición, continuidad, ritmo, puesta en escena, movimientos de cámara y construcción visual del relato.
+33	2	nuevo				Guion literario, guion técnico, escaleta y planificación de la realización: análisis de contenidos, desglose, minutado, storyboard, planificación de cámaras, orden de realización, estructura narrativa y necesidades técnicas.
+33	3	nuevo				Funciones del realizador y del ayudante de realización en programas, informativos, deportes y retransmisiones.
+33	4	nuevo				Organización del control de realización: mezclador, CCU, grafismo, sonido, iluminación, prompter, servidores y comunicaciones.
+33	5	nuevo				Puesta en escena: escenografía, dirección de cámaras, movimientos, marcas, continuidad y coordinación de plató.
+33	6	nuevo				Realización multicámara en directo: ensayos, llamadas, órdenes, prevención de errores y gestión de incidencias.
+33	7	nuevo				Realización monocámara, reportajes, promociones, microespacios y piezas postproducidas.
+33	8	nuevo				Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales.
+33	9	nuevo				Mezclador de vídeo y recursos de realización: transiciones, efectos, incrustaciones, chroma, DVE, multipantalla, macros, señales, keyers, grafismo en directo y criterios de uso narrativo.
+33	10	nuevo				Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen.
+33	11	nuevo				Sonido para realización: planos sonoros, coordinación de microfonía, retorno, intercom y sincronía.
+33	12	nuevo				Grafismo: rotulación, realidad aumentada, decorados virtuales, pantallas y elementos de continuidad visual.
+33	13	nuevo				Postproducción: montaje, edición, efectos, grafismo, mezcla y revisión de calidad final.
+33	14	nuevo				Formatos de vídeo, resolución, compresión, HD, UHD, HDR, códecs, archivos y entregables.
+33	15	nuevo				Producción transmedia y realización para plataformas digitales, redes sociales y directos IP.
+33	16	nuevo				Accesibilidad y responsabilidad editorial en la realización: subtitulado, audiodescripción, lengua de signos, protección de menores, igualdad, diversidad, lenguaje inclusivo y tratamiento responsable de imágenes.
+33	17	parecido	30	10	0.55	Derechos de autor, imagen y uso de materiales de archivo en piezas realizadas.
+33	18	nuevo				Seguridad, comunicación y coordinación de equipos técnico-artísticos en situaciones de presión.
+33	19	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+15	1	nuevo				Diseño gráfico aplicado a televisión, radio visual, web, redes y plataformas digitales.
+15	2	nuevo				Identidad visual corporativa: manual de marca, coherencia gráfica, legibilidad, color, tipografía y adaptación a formatos.
+15	3	nuevo				Grafismo para informativos, programas, deportes, promociones, continuidad y eventos especiales.
+15	4	nuevo				Infografía y visualización de datos: claridad, rigor, ética, fuentes y representación accesible.
+15	5	nuevo				Animación 2D/3D, motion graphics, composición, rotoscopia, tracking y efectos visuales.
+15	6	nuevo				Escenarios virtuales, realidad aumentada, pantallas, videowalls y grafismo en tiempo real.
+15	7	nuevo				Flujos de trabajo con realización, edición, producción, documentación y continuidad.
+15	8	nuevo				Formatos técnicos: resolución, códecs, alfa, safe areas, colorimetría, HDR/SDR y entrega para emisión.
+15	9	nuevo				Herramientas profesionales de diseño, composición, edición, plantillas y automatización gráfica.
+15	10	nuevo				Accesibilidad: contraste, legibilidad, tamaño, lectura fácil, subtítulos, pictogramas y diseño inclusivo.
+15	11	nuevo				Derechos de autor, bancos de imágenes, tipografías, licencias, derechos de imagen y atribución.
+15	12	nuevo				Archivo, catalogación y reutilización de elementos gráficos, plantillas y proyectos.
+15	13	nuevo				Diseño para redes sociales y plataformas: formatos verticales, miniaturas, piezas cortas y coherencia de marca.
+15	14	nuevo				Gestión de proyectos gráficos: briefing, propuesta, revisión, aprobación y control de calidad.
+15	15	nuevo				Innovación: IA generativa, ética visual, validación humana, deepfakes y trazabilidad.
+15	16	nuevo				Promoción y creatividad visual al servicio de la programación pública.
+15	17	nuevo				Buenas prácticas de colaboración en plazos cortos y entornos de directo.
+15	18	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+5	1	parecido	33	1	0.60	Lenguaje audiovisual aplicado a televisión: tipos de plano, encuadre, eje, continuidad, raccord, ritmo, composición y movimientos de cámara. Continuidad, ritmo y narración visual.
+5	2	nuevo				Guion, escaleta y documentación de realización: guion literario, guion técnico, escaleta, minutado, rundown, storyboard, órdenes de realización, partes, listados y documentación de apoyo; desglose y planificación de cámaras.
+5	3	nuevo				Preparación de programas y grabaciones: revisión de escaletas, comprobación de necesidades, coordinación previa y flujos de trabajo con las áreas de producción, redacción, técnica, grafismo, sonido, iluminación, documentación y continuidad.
+5	4	parecido	33	4	0.71	Asistencia a la organización del control de realización: mezclador, CCU, grafismo, sonido, iluminación, servidores de video y audio y comunicaciones.
+5	5	identico	33	5	1.00	Puesta en escena: escenografía, dirección de cámaras, movimientos, marcas, continuidad y coordinación de plató.
+5	6	nuevo				Realización multicámara en directo: apoyo a ensayos, coordinación de órdenes, seguimiento de cámaras, prevención de errores, control de tiempos, continuidad visual y comunicación de incidencias.
+5	7	identico	33	7	1.00	Realización monocámara, reportajes, promociones, microespacios y piezas postproducidas.
+5	8	identico	33	8	1.00	Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales.
+5	9	nuevo				Mezcladores de vídeo, efectos, transiciones, incrustaciones, chroma, DVE y señalización técnica.
+5	10	identico	33	10	1.00	Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen.
+5	11	identico	33	11	1.00	Sonido para realización: planos sonoros, coordinación de microfonía, retorno, intercom y sincronía.
+5	12	identico	33	12	1.00	Grafismo, rotulación, realidad aumentada, decorados virtuales, pantallas y elementos de continuidad visual.
+5	13	identico	33	13	1.00	Postproducción: montaje, edición, efectos, grafismo, mezcla y revisión de calidad final.
+5	14	identico	33	14	1.00	Formatos de vídeo, resolución, compresión, HD, UHD, HDR, códecs, archivos y entregables.
+5	15	parecido	33	15	0.78	Realización para plataformas digitales, redes sociales y directos IP.
+5	16	nuevo				Asistencia en plató y regiduría: comunicación entre control y plató, coordinación de presentadores, invitados, público, cámaras, sonido, iluminación, escenografía, entradas, salidas, movimientos y tiempos.
+5	17	nuevo				Accesibilidad, subtitulado, audiodescripción y lenguaje inclusivo en la puesta en antena.
+5	18	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+27	1	nuevo				Instalaciones eléctricas de baja tensión: magnitudes eléctricas, corriente alterna, potencia, energía, factor de potencia, caída de tensión y equilibrado de cargas.
+27	2	nuevo				Reglamento electrotécnico para baja tensión e instrucciones técnicas complementarias: documentación, puesta en servicio, verificaciones, inspecciones y mantenimiento.
+27	3	nuevo				Cuadros eléctricos, aparamenta y protecciones: automáticos, diferenciales, fusibles, contactores, relés, seccionadores, selectividad y protección frente a sobretensiones.
+27	4	nuevo				Canalizaciones, conductores y cableado: dimensionado básico, secciones, identificación, bandejas, conexiones, bornes y criterios de seguridad en salas técnicas.
+27	5	nuevo				Puestas a tierra y equipotencialidad: esquemas de conexión, mediciones, continuidad, resistencia de tierra, protección de personas y compatibilidad con equipos sensibles.
+27	6	nuevo				Alumbrado interior, exterior y de emergencia en edificios técnicos: luminarias, eficiencia energética, alumbrado de seguridad, mantenimiento y reposición.
+27	7	nuevo				Grupos electrógenos, sistemas de alimentación ininterrumpida y continuidad de servicio: transferencia de carga, baterías, autonomía, pruebas periódicas y actuación ante incidencias.
+27	8	nuevo				Instalaciones eléctricas en centros de producción audiovisual, estudios, salas de control, CPD, racks, centros emisores y unidades móviles: continuidad, redundancia, ruido eléctrico y compatibilidad electromagnética.
+27	9	nuevo				Climatización y frío industrial aplicado al mantenimiento de edificios y salas técnicas: principios básicos, equipos, refrigerantes, ventilación, control de temperatura y humedad, averías frecuentes y mantenimiento preventivo.
+27	10	nuevo				Reglamento de instalaciones térmicas en los edificios: eficiencia, seguridad, mantenimiento, inspección y documentación.
+27	11	nuevo				Sistemas de protección contra incendios y seguridad en instalaciones: detección, alarmas, extinción, señalización, sectorización y coordinación con planes de emergencia.
+27	12	nuevo				Sistemas de gestión técnica de edificios y monitorización: BMS/SCADA, sensores, alarmas, históricos, telemedida y actuación ante avisos.
+27	13	nuevo				Mantenimiento preventivo, correctivo y predictivo: gamas, órdenes de trabajo, diagnóstico de averías, priorización, trazabilidad, repuestos, inventario y documentación técnica.
+27	14	nuevo				Medidas eléctricas e instrumentación: multímetro, pinza amperimétrica, telurómetro, medidor de aislamiento, analizador de redes y termografía básica.
+27	15	nuevo				Trabajos en instalaciones eléctricas: consignación, cinco reglas de oro, trabajos en tensión o proximidad, permisos de trabajo y coordinación de actividades empresariales.
+27	16	nuevo				Eficiencia energética y sostenibilidad en instalaciones: ahorro energético, monitorización de consumos, mantenimiento orientado a eficiencia, tecnología LED, climatización eficiente y gestión de residuos.
+27	17	nuevo				Planificación de intervenciones en instalaciones críticas: análisis de impacto, ventanas de mantenimiento, coordinación con producción, comunicación de incidencias, planes de contingencia y retorno al servicio.
+27	18	nuevo				Innovación aplicada al mantenimiento: sensorización IoT, mantenimiento predictivo, gemelo digital de instalaciones, telegestión energética, baterías, autoconsumo y automatización de edificios.
+27	19	parecido	34	20	0.70	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV (riesgo eléctrico, trabajos en altura, espacios confinados, manipulación de cargas, productos químicos, EPIs señalización y etiquetado); pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas..
+29	1	nuevo				Elementos constitutivos de un sistema de información: características y funciones. Arquitectura de ordenadores, componentes internos de los equipos microinformáticos y tecnologías actuales aplicables al puesto de usuario.
+29	2	nuevo				Diagnóstico, mantenimiento y reparación de equipos microinformáticos: principales averías, mensajes de error de la BIOS, sustitución y detección de averías en discos duros, memorias, tarjetas gráficas y tarjetas de red; pruebas de rendimiento Benchmark y sus tipos.
+29	3	nuevo				Sistemas de almacenamiento y recuperación de información: discos duros, discos de estado sólido, memorias flash, sistemas SAN y NAS; herramientas software de copia de seguridad, compresión de datos y clonación de discos; recuperación de datos en caso de borrado accidental, avería o ataque de virus.
+29	4	nuevo				Periféricos y conectividad del puesto informático: elementos de impresión, almacenamiento, visualización, digitalización y multimedia; conectividad USB, RJ45, VGA, DVI, HDMI y DisplayPort.
+29	5	nuevo				Sistemas operativos: conceptos generales, componentes funcionales y estructura; gestión de procesos, algoritmos de planificación, concurrencia, multitarea y multiprogramación.
+29	6	nuevo				Sistema operativo Windows 11: instalación del cliente Windows, interfaz y aplicaciones, gestión de discos y controladores, conectividad de red, protección y recuperación del sistema, configuración de la seguridad, centro de notificaciones, personalización, configuración básica y avanzada, partición de recuperación, panel de configuración, modo desarrollador, políticas de grupo —GPO—, puntos de restauración y opciones de reinicio para instalar actualizaciones.
+29	7	nuevo				Automatización y administración mediante PowerShell: entorno PowerShell, ayuda, variables, operadores, arrays, strings, metacaracteres, tuberías, direccionamiento, estructuras de control y gestión de ficheros.
+29	8	nuevo				Administración de sistemas Windows Server: Active Directory, servicio de directorio, controlador de dominio, gestión básica de usuarios, recursos y servicios asociados.
+29	9	nuevo				Administración del sistema operativo Linux: instalación, estructura y sistema de archivos, usuarios y grupos, utilización del shell, arranques y paradas, herramientas básicas de administración, sistemas de ficheros, gestión de discos, administración del software, salvaguarda y restauración, filtros grep, editor de flujo sed y lenguaje awk.
+29	10	nuevo				Virtualización de sistemas y escritorios: virtualización de escritorio remoto, modelos de virtualización —PC virtual, escritorio virtual, virtualización de aplicaciones y workspace virtual— y modos de despliegue on-premise, cloud e híbridos.
+29	11	nuevo				Herramientas colaborativas y ofimática Microsoft 365: usos, métodos de compartición de información, trabajo en equipo con OneDrive, Teams y SharePoint; Word, Excel, PowerPoint y Outlook, configuración de cliente de correo electrónico, funcionalidades e integración con las herramientas colaborativas.
+29	12	nuevo				Bases de datos y lenguaje SQL: lenguaje de interrogación de bases de datos, estándar ANSI SQL, lenguaje de definición de datos —DDL—, lenguaje de manipulación de datos —DML— y lenguaje de consulta de datos —DQL.
+29	13	nuevo				Redes, Internet y comunicaciones: arquitectura de red de Internet, origen, evolución y estado actual, principales servicios, protocolos HTTP, HTTPS y TLS, configuración, privacidad y seguridad de navegadores web; protocolos IPv4 e IPv6, cabeceras, direccionamiento, subredes, mecanismos de convivencia y transición; redes de área local, conceptos, topologías, control de acceso, segmentación, normalizaciones IEEE 802; redes inalámbricas IEEE 802.11, estándares, técnicas de transmisión, dispositivos de interconexión, topologías, seguridad y autenticación 802.1x.
+29	14	nuevo				Seguridad informática, criptografía y protección en redes: seguridad en el puesto de usuario, mecanismos de infección y protección en sistemas operativos de ordenadores personales, antivirus, malware, virus, gusanos, troyanos, adware, spyware y ransomware; seguridad y protección en redes de comunicaciones, correo y servicios de Internet, seguridad perimetral, acceso remoto seguro, redes privadas virtuales —VPN—, técnicas y mecanismos de seguridad; criptografía, algoritmos, certificados digitales, autoridades de certificación, sellado de tiempo, firma electrónica, instalación y administración de certificados electrónicos y software de la FNMT.
+29	15	nuevo				Normativa técnica básica de administración electrónica e interoperabilidad.
+29	16	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas. .
+4	1	nuevo				La producción audiovisual en radio, televisión y entornos digitales: fases del proceso productivo y funciones básicas del área de producción.
+4	2	nuevo				Tareas principales del puesto de Ayudante de Producción en RTVA/CSRTV: apoyo operativo a la preparación, coordinación y seguimiento de programas, informativos, retransmisiones, grabaciones y eventos.
+4	3	nuevo				Organización básica de una producción audiovisual: preproducción, producción, grabación/emisión, postproducción, cierre documental y archivo.
+4	4	nuevo				La escaleta/el guion. Desglose
+4	5	nuevo				Documentación de producción: Planes de trabajo y órdenes de trabajo, citaciones, partes, listados, escaletas, hojas de ruta, permisos, autorizaciones, necesidades técnicas y documentación de cierre.
+4	6	nuevo				Apoyo a la planificación de recursos humanos y técnicos: gestión de disponibilidad, turnos, desplazamientos, alojamiento, transporte, dietas y coordinación con las áreas implicadas. Normativa de la Junta de Andalucía en materia de gastos de desplazamiento y dietas.
+4	7	nuevo				Gestión operativa de localizaciones, espacios y permisos: proceso de obtención de autorizaciones y permisos, documentación necesaria y gestión de incidencias.
+4	8	nuevo				Apoyo a la contratación y relación con proveedores, colaboradores y servicios externos: solicitud de presupuestos, control de documentación, seguimiento de encargos y comprobación de prestaciones.
+4	9	nuevo				Medios materiales de producción: control básico de necesidades, equipos técnicos artísticos, solicitud, recepción, entrega, devolución, inventario, transporte y conservación de materiales.
+4	10	parecido	32	7	0.57	Producción de programas en estudio: necesidades de plató, público, invitados, escaleta, tiempos, accesos, coordinación con realización, redacción, técnica y servicios generales.
+4	11	nuevo				Producción en exteriores y retransmisiones: desplazamientos, unidades móviles, acreditaciones, permisos, logística, equipos técnicos y seguimiento de incidencias.
+4	12	nuevo				Documentación internacional para desplazamientos de equipos técnicos y humanos.
+4	13	nuevo				Producción de informativos y actualidad: apoyo a coberturas, convocatorias, recursos, enlaces, coordinación territorial, tiempos de entrega y necesidades urgentes.
+4	14	nuevo				Control administrativo básico de gastos de producción: facturas, albaranes, justificantes, dietas, desplazamientos, partes de trabajo y documentación económica elemental.
+4	15	nuevo				Herramientas ofimáticas y aplicaciones de gestión aplicadas a la producción: hojas de cálculo, documentos compartidos, correo, agenda, bases de datos y sistemas corporativos.
+4	16	nuevo				Igualdad, diversidad y accesibilidad y sostenibilidad en la producción audiovisual: trato adecuado, lenguaje inclusivo, menores, personas invitadas/colaboradoras.
+4	17	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+12	1	nuevo				Documentación audiovisual y sonora: concepto, fines y funciones en una radiotelevisión pública. Tipos de documentos: audiovisual, sonoro, textual, fotográfico, gráfico y digital. Selección, adquisición, tratamiento, conservación, recuperación y difusión.
+12	2	nuevo				El proceso documental en medios de comunicación: selección, adquisición, registro, análisis, tratamiento, conservación, recuperación, difusión y reutilización de fondos documentales.
+12	3	nuevo				Catalogación, clasificación e indexación: metadatos descriptivos, técnicos, administrativos, jurídicos y de preservación; normalización, consistencia, control de calidad y trazabilidad.
+12	4	nuevo				Tesauros, vocabularios controlados, ontologías, autoridades, normalización del lenguaje y mantenimiento de estructuras documentales.
+12	5	nuevo				Archivos de televisión y radio: soportes físicos, digitalización, preservación, migración y control de obsolescencia. Nociones  básicas de restauración, control de calidad técnica y formatos de preservación.
+12	6	nuevo				Las tecnologías de la información y su aplicación a los procesos documentales. Sistemas MAM/DAM, bases de datos documentales, ingesta, proxies, metadatos técnicos, derechos y flujos de producción.
+12	7	nuevo				Búsqueda y recuperación de información: estrategias, perfiles de usuario, fuentes internas y externas.
+12	8	nuevo				Derechos de uso de materiales de archivo: propiedad intelectual, derechos de autor y de imagen, música, obras preexistentes, licencias, cesiones, dominio público, entidades de gestión, limitaciones de uso y documentación justificativa.
+12	9	nuevo				Archivo audiovisual y patrimonio público: conservación del patrimonio audiovisual andaluz, memoria histórica y cultural, acceso público, conservación y reutilización, difusión, valor de servicio público y responsabilidad institucional de RTVA/CSRTV.
+12	10	nuevo				Cultura, actualidad y contexto informativo: conocimiento general de actualidad nacional, internacional y andaluza; instituciones, política, sociedad, economía, deporte, ciencia, tecnología, cultura, música, historia y territorio andaluz aplicados a la documentación audiovisual.
+12	11	nuevo				Protección de datos, privacidad, menores, víctimas y tratamiento de imágenes sensibles en archivo.
+12	12	nuevo				Fuentes de información periodística, institucional, jurídica, estadística, cultural y audiovisual.
+12	13	nuevo				Conceptos básicos fundamentales de inteligencia artificial relacionados con documentación relativos a las tecnologías del lenguaje, procesamiento de lenguaje natural, reconocimiento de voz, imagen, OCR, sistemas de etiquetado búsqueda semántica, revisión humana, sesgos, fiabilidad y trazabilidad.
+12	14	nuevo				Calidad, seguridad y continuidad del servicio documental: control de duplicados, coherencia de metadatos, auditoría documental, copias de seguridad, permisos, confidencialidad, continuidad de servicio, indicadores y mejora continua.
+12	15	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+13	1	nuevo				Continuidad de televisión: concepto, funciones, escaleta, parrilla, emisión lineal y servicios digitales.
+13	2	nuevo				Sistemas de automatización de emisión, servidores, playlists, tráfico, flujos y transferencias de ficheros, grafismo, subtítulos y señales externas. Eventos primarios y secundarios.
+13	3	nuevo				Control de tiempos: entrada y salida de programas, publicidad, autopromociones, directos, desconexiones y ajustes de playlist.
+13	4	nuevo				Calidad técnica de emisión: niveles de audio, vídeo, sincronía, legalidad de señal, monitorización y alarmas.
+13	5	nuevo				Gestión de incidencias en emisión: protocolos, escalado, continuidad alternativa, cortes, ajustes y comunicación interna.
+13	6	nuevo				Grabación de copia legal o judicial, registros de emisión, logs, certificaciones y documentación asociada.
+13	7	nuevo				Publicidad y continuidad: bloques, patrocinios, autopromoción, cumplimiento de horarios y restricciones normativas.
+13	8	nuevo				Accesibilidad en emisión: subtitulado, audiodescripción, lengua de signos, señalización y continuidad de servicios.
+13	9	nuevo				Desconexiones territoriales, señales en directo, contribuciones externas y coordinación con controles de realización y unidades móviles.
+13	10	nuevo				Protección de menores, calificación por edades, avisos, derechos de emisión y control de contenidos sensibles.
+13	11	nuevo				Interacción con Informativos, producción, realización, comercial, programación, técnica y documentación.
+13	12	nuevo				Formatos, códecs, metadatos, material de emisión, control de entregas y validación previa.
+13	13	nuevo				Continuidad en situaciones de emergencia, alertas públicas, comunicados institucionales y servicio esencial.
+13	14	nuevo				Trabajo a turnos, concentración, toma de decisiones y responsabilidad ante imprevistos.
+13	15	nuevo				Trazabilidad, archivo de incidencias, protocolos técnicos de emisión y consulta.
+13	16	nuevo				Normativa audiovisual aplicable a publicidad, protección de menores y accesibilidad.
+13	17	nuevo				Buenas prácticas de ciberseguridad en entornos de emisión.
+13	18	nuevo				Legislación audiovisual.
+13	19	nuevo				Sonido en Televisión, protocolos aplicables. Sonoridad.
+13	20	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+22	1	nuevo				Organización y funciones de la Dirección Financiera. Planificación, coordinación, dirección de equipos, gestión por objetivos y mejora continua de los procesos económico-financieros.
+22	2	nuevo				Marco jurídico y organizativo de las agencias públicas empresariales y sociedades mercantiles públicas del sector público de Andalucía.
+22	3	nuevo				Régimen económico-financiero de las agencias públicas empresariales y sociedades mercantiles del sector público de Andalucía.
+22	4	nuevo				Contabilidad financiera de entidades públicas empresariales. Principios contables, registro de operaciones, criterios de valoración y elaboración de información financiera.
+22	5	nuevo				Plan General de Contabilidad aplicable a entidades públicas empresariales. Inmovilizado, existencias, provisiones, periodificaciones y cierre contable.
+22	6	nuevo				Cuentas anuales, estados financieros, memoria e informe de gestión. Análisis económico-financiero e indicadores.
+22	7	nuevo				Contabilidad presupuestaria. Elaboración, ejecución, modificaciones, seguimiento, liquidación y cierre del presupuesto.
+22	8	nuevo				Planificación financiera, tesorería y gestión de la liquidez. Cobros, pagos, conciliaciones bancarias y previsiones financieras.
+22	9	nuevo				Estabilidad presupuestaria, sostenibilidad financiera y principios de eficiencia en la gestión de los recursos públicos.
+22	10	nuevo				Subvenciones, transferencias y otras fuentes de financiación pública. Gestión, seguimiento y obligaciones de justificación.
+22	11	nuevo				Contratación pública con incidencia económico-presupuestaria. Preparación, ejecución, seguimiento económico y liquidación de contratos.
+22	12	nuevo				Ley de Contratos del Sector Público: principios, ámbito subjetivo, tipos de  contratos, expedientes y procedimientos de adjudicación
+22	13	nuevo				Gestión económico-financiera de proveedores, acreedores y deudores. Facturación, obligaciones de cobro/pago y control documental.
+22	14	nuevo				Gestión patrimonial. Inventario, inmovilizado, amortizaciones, inversiones y seguimiento de la ejecución presupuestaria asociada.
+22	15	nuevo				Sistemas de información económico-financiera y administración electrónica aplicada a la gestión económica. ERP, gestión documental, automatización de procesos, explotación de datos, cuadros de mando e indicadores de gestión. Sistema de gestión de la información económica de la Junta de Andalucía (GIRO).
+22	16	nuevo				Planificación económico-financiera y control de gestión. Elaboración de previsiones, seguimiento de objetivos, indicadores de eficiencia y apoyo a la toma de decisiones.
+22	17	nuevo				Elaboración de informes técnicos, memorias, indicadores de gestión y documentación para los órganos de dirección y gobierno.
+22	18	nuevo				Régimen fiscal: IVA, Impuesto de Sociedades, IRPF, tributación local (IAE, IBI, tasas), tributación de no residentes. Declaraciones y aspectos prácticos. Censos de empresarios y profesionales. Régimen de cotizaciones y liquidaciones de la Seguridad Social.
+22	19	nuevo				Legislación civil y mercantil aplicada al área económico-financiera: Tipos de sociedades, tipos de contratos, cesiones de crédito, concursos de acreedores, fianzas, depósitos, avales, embargos, retenciones en nóminas y créditos.
+22	20	nuevo				Aspectos básicos de normativa y operatoria bancaria. Contratos de cuentas, liquidaciones de intereses y comisiones, pólizas de crédito, préstamos, créditos documentarios. Medios de pagos y cobros (transferencias, cheques, confirming, etc.). Banca electrónica y conciliaciones bancarias. Operaciones con divisas.
+22	21	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+24	1	nuevo				Ley 18/2007, de 17 de diciembre, de la Radio y Televisión de titularidad autonómica: Capítulos I, II, III y V.
+24	2	nuevo				Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía: Títulos II y III
+24	3	nuevo				Leyes vigentes del Presupuesto del Estado y de la Comunidad Autónoma de Andalucía en lo referente a la gestión de personal en entidades del sector público instrumental.
+24	4	nuevo				Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.
+24	5	nuevo				Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social.
+24	6	nuevo				Ley 23/2015, de 21 de julio, Ordenadora del Sistema de Inspección de Trabajo y Seguridad Social.
+24	7	nuevo				Convenio Colectivo de la RTVA y CSRTV
+24	8	nuevo				Reglamento de la Mesa de Contratación de RTVA y CSRTV
+24	9	nuevo				Ley 5/2023, de 7 de junio, de la Función Pública de Andalucía (materias de aplicación directa a RTVA y CSRTV)
+24	10	nuevo				Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres
+24	11	nuevo				Real Decreto 901/2020, de 13 de octubre, por el que se regulan los planes de igualdad y su registro y se modifica el Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios y acuerdos colectivos de trabajo.
+24	12	nuevo				Real Decreto 902/2020, de 13 de octubre, de igualdad retributiva entre mujeres y hombres.
+24	13	nuevo				Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía
+24	14	nuevo				Ley 10/2021, de 9 de julio, de trabajo a distancia
+24	15	nuevo				Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical
+24	16	nuevo				Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: Título II, IV, V y X.
+24	17	nuevo				Decreto 54/1989, de 21 de marzo, sobre indemnizaciones por razón del servicio de la Junta de Andalucía.
+24	18	nuevo				Gestión de reclamaciones e incidencias laborales: análisis del caso, respuesta interna, seguimiento y coordinación con Asesoría Jurídica.
+24	19	nuevo				Gestión documental y sistemas de información de RRHH (SAP)
+24	20	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+35	1	nuevo				Arquitectura de sistemas de información en radiotelevisión pública: aplicaciones corporativas, sistemas de producción, sistemas críticos e integración con entornos audiovisuales e informáticos.
+35	2	nuevo				Sistemas operativos de servidor, puesto y dispositivos móviles: fundamentos, características técnicas, funcionales y de administración; Windows, Linux, Unix y otros; instalación, configuración, hardening, monitorización y automatización.
+35	3	nuevo				Arquitecturas de aplicaciones y servicios: cliente-servidor, multicapas, multidispositivo, interoperabilidad de componentes, servicios web, contenedores, microservicios, despliegue, monitorización y escalado.
+35	4	nuevo				Bases de datos y arquitectura de datos: arquitectura ANSI/SPARC, sistemas de gestión de bases de datos relacionales, lenguaje SQL, interoperabilidad entre gestores, bases de datos no relacionales, diseño lógico, administración, consultas, seguridad, copias y recuperación.
+35	5	nuevo				Lenguajes de marca, lenguajes de etiqueta y lenguajes de script: SGML, HTML, XML, derivaciones, características y funcionalidades.
+35	6	nuevo				Modelos y protocolos de red: modelo TCP/IP, modelo OSI, arquitectura, capas, interfaces, protocolos, direccionamiento, encaminamiento y principios de funcionamiento de Internet.
+35	7	nuevo				Redes de datos corporativas: direccionamiento, VLAN, routing, switching, DNS, DHCP, VPN, WiFi corporativa, calidad de servicio, administración de redes locales, gestión de usuarios y dispositivos, monitorización y control de tráfico, y gestión SNMP.
+35	8	nuevo				Redes de área extensa e inalámbricas: tecnologías WDM, MPLS y SD-WAN; protocolos de encaminamiento; redes inalámbricas, protocolos, características funcionales y técnicas, expansión del espectro, sistemas de acceso, modos de operación, seguridad y normativa reguladora.
+35	9	nuevo				Comunicaciones convergentes y movilidad: redes de nueva generación y servicios convergentes —NGN/IMS—, VoIP, ToIP, comunicaciones unificadas, convergencia telefonía fija-móvil, sistemas de comunicaciones móviles, generaciones de telefonía móvil y soluciones MDM, EMM y UEM.
+35	10	nuevo				Sistemas de videoconferencia: protocolos, dimensionamiento, calidad de servicio en las comunicaciones, acondicionamiento de salas y equipos.
+35	11	nuevo				Virtualización, almacenamiento e infraestructuras de centro de procesamiento de datos: planificación física, dimensionamiento, consolidación de servidores y recursos, almacenamiento, copias de seguridad, alta disponibilidad, balanceo de carga, continuidad de negocio y recuperación ante desastres.
+35	12	nuevo				Seguridad de sistemas y redes: seguridad perimetral, control de accesos, técnicas criptográficas, protocolos seguros, firma digital, redes privadas virtuales, seguridad en el puesto de usuario, seguridad física y lógica, vulnerabilidades, protección, herramientas de ciberseguridad, gestión de incidentes e informática forense.
+35	13	nuevo				Ciberseguridad, riesgos y cumplimiento: análisis y gestión de riesgos de los sistemas de información, herramientas, gestión de identidades, registro de eventos, respuesta a incidentes, cumplimiento normativo y Esquema Nacional de Seguridad: principios básicos y seguridad como proceso integral.
+35	14	nuevo				Auditoría informática: objetivos, alcance, metodología, técnicas y herramientas, normas y estándares; auditoría del Esquema Nacional de Seguridad, auditoría de protección de datos y auditoría de seguridad física.
+35	15	nuevo				Explotación de sistemas y gestión del servicio: monitorización, planificación de trabajos, gestión de incidencias, niveles de servicio, gestión ITIL, administración de correo, colaboración, gestión documental, herramientas ofimáticas y soporte a usuarios.
+35	16	nuevo				Integración de sistemas audiovisuales e informáticos: MAM, PAM, sistemas de redacción —newsroom—, automatización, transcodificación, APIs y flujos IP.
+35	17	nuevo				Inteligencia de negocios, gobierno y explotación del dato: cuadros de mando integral, sistemas de soporte a la decisión, sistemas de información ejecutiva, almacenes de datos, OLTP y OLAP, estrategia, gestión y calidad del dato, catálogos y conjuntos de datos, semánticas, ontologías, data lake, data warehouse, lakehouse, data fabric, data mesh, tecnologías PET, espacios de datos y aspectos tecnológicos y organizativos de la compartición de datos.
+35	18	nuevo				Protección de datos, privacidad e inteligencia artificial: protección de datos y privacidad desde el diseño en aplicaciones y sistemas corporativos; inteligencia artificial y automatización en medios, usos, riesgos, supervisión humana, sesgos, trazabilidad y propiedad intelectual.
+35	19	nuevo				Cloud, contratación tecnológica y gestión de activos TIC: cloud, servicios híbridos, contratación tecnológica en el sector público, requisitos, seguridad, soberanía del dato, reversibilidad, inventario, licencias software, compras TIC, obsolescencia, mantenimiento y gestión de proveedores.
+35	20	nuevo				Gestión tecnológica, usuarios y marco jurídico del software: gestión de proyectos tecnológicos —alcance, planificación, riesgos, recursos, pruebas de aceptación y documentación—; técnicas de evaluación de alternativas, análisis de viabilidad, planificación, presupuestación y control de costes; gestión de atención a clientes y usuarios, centros de contacto, CRM, arquitectura multicanal, IVR y Voice XML; software libre y propietario, tipos de licencias, protección jurídica de programas de ordenador y tecnologías de protección de derechos digitales.
+35	21	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas. .
+6	1	nuevo				Electricidad y electrónica básica: magnitudes, corriente, tensión, potencia, componentes y medición.
+6	2	nuevo				Señales de vídeo y audio en entornos broadcast: analógico, digital, SDI, IP, sincronía y referencia.
+6	3	nuevo				Instalación y mantenimiento de equipos electrónicos de televisión, radio y producción.
+6	4	nuevo				Mantenimiento preventivo y correctivo: diagnóstico, instrumentación, averías, repuestos y documentación.
+6	5	nuevo				Cámaras, CCU, monitores, mezcladores, matrices, servidores, intercom, prompter y equipos auxiliares.
+6	6	nuevo				Enlaces, distribución de señales, patch panels, cableado, conectores, fibra óptica y medidas de calidad.
+6	7	nuevo				Sistemas de emisión, continuidad, contribución, codificación, multiplexación y transporte.
+6	8	nuevo				Electrónica en unidades móviles y exteriores: montaje, pruebas, alimentación, climatización y seguridad.
+6	9	nuevo				Audio técnico: microfonía, líneas, niveles, consolas, procesamiento y sincronía con vídeo.
+6	10	nuevo				Vídeo sobre IP y estándares de producción en red: conceptos, PTP, latencia, redundancia y monitorización.
+6	11	nuevo				Instrumentación: multímetro, osciloscopio, generadores, analizadores de señal, medidores de campo y software de diagnóstico.
+6	12	nuevo				Aspectos básicos de la gestión de incidencias técnicas y partes.
+6	13	nuevo				Planos, esquemas, manuales técnicos, inventario, almacén de repuestos y gestión de obsolescencia.
+6	14	nuevo				Compatibilidad electromagnética, puesta a tierra, alimentación ininterrumpida y protección frente a sobretensiones.
+6	15	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+7	1	nuevo				Mezcladores de vídeo: arquitectura, buses, keyers, DVE, macros, memorias, snapshots y superficies de control.
+7	2	nuevo				Fuentes de vídeo: cámaras, servidores, grafismo, señales externas, retornos, monitores y multiviewers.
+7	3	nuevo				Sincronía de señales, genlock, formatos, resolución, relación de aspecto, frame rate y conversión.
+7	4	nuevo				Efectos de vídeo, transiciones, cortinillas, chroma, incrustaciones, máscaras y composición multicapa.
+7	5	nuevo				Preparación técnica de programas: preproducción, configuración de mesa, pruebas, backups y coordinación con realización.
+7	6	nuevo				Mezcla en directo: ejecución de escaleta, órdenes de realización, prevención de errores y gestión de imprevistos.
+7	7	nuevo				Postproducción de efectos digitales y acabado visual de piezas y promociones.
+7	8	nuevo				Calidad de señal: colorimetría, niveles, legalización, HDR/SDR, monitorización y control técnico.
+7	9	nuevo				Integración con grafismo, realidad aumentada, decorados virtuales y sistemas de automatización.
+7	10	nuevo				Intercomunicación con control, plató, continuidad, unidades móviles y equipos externos.
+7	11	nuevo				Sistemas IP y producción remota: latencia, redundancia, PTP, NDI/SMPTE y monitorización.
+7	12	nuevo				Archivo y documentación de configuraciones, plantillas, presets y procedimientos de operación.
+7	13	nuevo				Prevención de riesgos, ergonomía, pantallas de visualización y fatiga operativa.
+7	14	nuevo				Tratamiento de señales externas, feeds, pool y cesiones.
+7	15	nuevo				Resolución de incidencias en directo y criterios de continuidad de servicio.
+7	16	nuevo				Buenas prácticas de trabajo en equipo, concentración, comunicación y trazabilidad.
+7	17	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+18	1	nuevo				Planificación, coordinación y supervisión de equipos en el ámbito del puesto.
+18	2	nuevo				Elaboración de informes, indicadores, memorias, partes de actividad e incidencias.
+18	3	nuevo				Gestión de recursos propios y externos, prioridades, turnos, continuidad del servicio y mejora de procedimientos.
+18	4	nuevo				Fundamentos de radiofrecuencia: espectro, modulación, propagación, antenas, potencia, ruido y cobertura.
+18	5	nuevo				Redes de telecomunicaciones para radio y televisión: transporte, contribución, distribución y difusión.
+18	6	nuevo				Sistemas de enlace: radioenlaces, fibra, satélite, IP, microondas, mochilas y unidades móviles.
+18	7	nuevo				Planificación, supervisión y mantenimiento de instalaciones de telecomunicaciones de RTVA y CSRTV.
+18	8	nuevo				Medidas y pruebas: medidores de campo, analizadores de espectro, BER, MER, potencia, ROE y calidad de señal.
+18	9	nuevo				Emisión de radio FM/DAB y televisión digital terrestre: conceptos, centros emisores y redes de difusión.
+18	10	nuevo				Redundancia, continuidad de servicio, alarmas, monitorización y planes de contingencia.
+18	11	nuevo				Interferencias, compatibilidad electromagnética, coordinación de frecuencias y resolución de incidencias.
+18	12	nuevo				Normativa de telecomunicaciones, uso del espectro, autorizaciones, seguridad radioeléctrica y coordinación con operadores.
+18	13	nuevo				Infraestructura: torres, antenas, líneas de transmisión, puesta a tierra, climatización, energía y protección eléctrica.
+18	14	nuevo				Transporte IP de señales audiovisuales: Sistemas y protocolos de Codificación de video y audio IP,. Tipos de Codecs.  QoS, multicast, sincronía, PTP, latencia y ciberseguridad.
+18	15	nuevo				Dispositivos de transmisión portátiles 4G, 5G.
+18	16	nuevo				Gestión de proyectos de telecomunicaciones: diseño, licitación, recepción, pruebas y documentación técnica.
+18	17	nuevo				Coordinación de medios propios y ajenos, proveedores, mantenedores y centros territoriales.
+18	18	nuevo				Elaboración de informes de actividad, incidencias, mejoras y planificación de inversiones.
+18	19	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+26	1	nuevo				La Constitución Española: estructura, valores superiores, principios constitucionales, derechos fundamentales y libertades públicas. Garantías constitucionales, recurso de amparo y control de constitucionalidad.
+26	2	nuevo				El Estatuto de Autonomía para Andalucía: organización institucional, competencias de la Comunidad Autónoma y régimen del sector público andaluz.
+26	3	nuevo				Instituciones de la Comunidad Autónoma de Andalucía: Parlamento, Presidencia de la Junta, Consejo de Gobierno, Consejo Consultivo, Consejo Audiovisual de Andalucía y Administración de la Junta de Andalucía.
+26	4	nuevo				La RTVA y Canal Sur Radio y Televisión, S.A.: naturaleza jurídica, misión de servicio público, organización, órganos de gobierno, control parlamentario, régimen jurídico y especialidades de las sociedades mercantiles públicas audiovisuales.
+26	5	nuevo				El sector público instrumental andaluz: agencias públicas empresariales, sociedades mercantiles públicas, entidades instrumentales, organización administrativa, competencia, jerarquía, delegación, avocación y desconcentración.
+26	6	nuevo				Fuentes del Derecho y ordenamiento jurídico: Constitución, leyes, reglamentos, tratados internacionales, Derecho de la Unión Europea, principios generales, jurisprudencia, jerarquía normativa, competencia, vigencia, derogación e irretroactividad.
+26	7	nuevo				Procedimiento administrativo común y régimen jurídico del sector público: actos administrativos, interesados, fases del procedimiento, silencio administrativo, notificación electrónica, invalidez, revisión de oficio, recursos administrativos y simplificación administrativa.
+26	8	nuevo				Transparencia, buen gobierno, acceso a la información pública y protección de datos personales: publicidad activa, límites al acceso, datos especialmente protegidos, RGPD, LOPDGDD, delegado de protección de datos, evaluaciones de impacto y seguridad de la información.
+26	9	nuevo				Contratación del sector público: ámbito subjetivo y objetivo, tipos contractuales, órganos de contratación, expediente, pliegos, procedimientos de adjudicación, ejecución, modificación, resolución, recurso especial y especialidades en el sector audiovisual.
+26	10	nuevo				Derecho presupuestario, subvenciones y control financiero: Hacienda Pública, presupuestos, estabilidad presupuestaria, ayudas públicas, reintegro de subvenciones, intervención, auditoría pública, responsabilidad contable y control financiero permanente.
+26	11	nuevo				Responsabilidad patrimonial, potestad sancionadora y bienes públicos: requisitos de la responsabilidad, procedimiento, derecho sancionador administrativo, concurrencia con el orden penal, dominio público, bienes patrimoniales y régimen patrimonial de las entidades públicas.
+26	12	nuevo				Derecho audiovisual: servicio público de comunicación audiovisual, Ley General de Comunicación Audiovisual, Ley Audiovisual de Andalucía, licencias, comunicaciones comerciales, protección de menores, accesibilidad, pluralismo, autoridades reguladoras y Código de Conducta Comercial.
+26	13	nuevo				Derecho de la información: libertad de expresión e información, derecho al honor, intimidad y propia imagen, derecho de rectificación, secreto profesional, cláusula de conciencia y responsabilidad jurídica en la actividad informativa.
+26	14	nuevo				Derecho civil patrimonial: persona jurídica, capacidad y representación, negocio jurídico, obligaciones, contratos, interpretación contractual, ineficacia, nulidad, anulabilidad, rescisión, prescripción, caducidad y responsabilidad civil contractual y extracontractual.
+26	15	nuevo				Contratación civil y audiovisual: contratos de servicios y obra, producción y coproducción audiovisual, adquisición de derechos de emisión y antena, patrocinios, publicidad, distribución, exhibición, licencias de contenidos, derechos digitales y contratos electrónicos.
+26	16	nuevo				Propiedad intelectual e industrial: derechos de autor, derechos morales y de explotación, límites, dominio público, contratos de propiedad intelectual, entidades de gestión, marcas, nombres comerciales, formatos, archivo audiovisual y protección de activos intangibles.
+26	17	nuevo				Derecho mercantil y societario: empresario, empresa, Registro Mercantil, sociedades mercantiles, sociedad anónima y limitada, órganos sociales, cuentas anuales, transformación, fusión, escisión, liquidación, grupos de sociedades y gobierno corporativo.
+26	18	nuevo				Derecho de la competencia, publicidad y mercado audiovisual: competencia desleal, defensa de la competencia, publicidad, consumo, servicios digitales, plataformas multiplataforma y régimen jurídico de las empresas de comunicación.
+26	19	nuevo				Derecho laboral individual: fuentes del Derecho del Trabajo, contrato de trabajo, modalidades contractuales, derechos y deberes laborales, poder de dirección, jornada, salario, modificación, suspensión, extinción, despido y régimen disciplinario.
+26	20	nuevo				Derecho laboral colectivo y empleo público en RTVA/CSRTV: X Convenio Colectivo, clasificación profesional, provisión de plazas, selección, contratación, movilidad, promoción, negociación colectiva, representación legal, libertad sindical, conflictos colectivos y huelga.
+26	21	nuevo				Seguridad Social, prevención de riesgos laborales e igualdad en el empleo: afiliación, cotización, acción protectora, incapacidad temporal, accidente de trabajo, enfermedad profesional, prevención de riesgos, coordinación de actividades empresariales, planes de igualdad, acoso, violencia de género, discapacidad y medidas de acción positiva.
+26	22	nuevo				Derecho procesal general y defensa jurídica de entidades públicas: jurisdicción y competencia, planta judicial, actos de comunicación, partes, legitimación, representación, prueba, sentencia, cosa juzgada, recursos, ejecución y especialidades de la defensa de RTVA y sus sociedades filiales.
+26	23	nuevo				Proceso civil y mecanismos alternativos de solución de conflictos: juicio ordinario, juicio verbal, medidas cautelares, prueba, recursos, ejecución, jurisdicción voluntaria, arbitraje, mediación, negociación y acuerdos transaccionales.
+26	24	nuevo				Proceso contencioso-administrativo: órganos jurisdiccionales, partes, objeto del recurso, actividad administrativa impugnable, procedimiento, medidas cautelares, prueba, sentencia, recursos, ejecución y procedimiento contencioso-electoral.
+26	25	nuevo				Proceso social: competencia, conciliación previa, demanda, acumulación de acciones, modalidades procesales laborales, conflictos colectivos, impugnación de despidos, recursos de suplicación y casación.
+26	26	nuevo				Derecho penal relevante para el sector público audiovisual: principios penales, responsabilidad penal de las personas jurídicas, delitos contra el honor, intimidad, propiedad intelectual e industrial, Administración Pública, Hacienda Pública, derechos de los trabajadores, delitos societarios, electorales y compliance penal.
+26	27	nuevo				Derecho de la Unión Europea e internacional relevante para RTVA/CSRTV: sistema institucional y normativo de la Unión Europea, primacía y efecto directo, Tribunal de Justicia, cuestión prejudicial, contratación pública, ayudas de Estado, audiovisual, protección de datos, propiedad intelectual, tratados internacionales y derechos humanos.
+26	28	nuevo				Función de asesoría jurídica en RTVA/CSRTV: elaboración de informes, dictámenes, pliegos, contratos, convenios, instrucciones internas y protocolos; asesoramiento preventivo a dirección, producción, redacción, comercial, técnica y Recursos Humanos; gestión de riesgos jurídicos, integridad, ética pública, conflictos de intereses, canal interno y responsabilidad profesional.
+26	29	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+37	1	identico	6	1	1.00	Electricidad y electrónica básica: magnitudes, corriente, tensión, potencia, componentes y medición.
+37	2	identico	6	2	1.00	Señales de vídeo y audio en entornos broadcast: analógico, digital, SDI, IP, sincronía y referencia.
+37	3	identico	33	14	1.00	Formatos de vídeo, resolución, compresión, HD, UHD, HDR, códecs, archivos y entregables.
+37	4	parecido	6	3	0.88	Instalación, explotación y mantenimiento de equipos electrónicos de televisión, radio y producción.
+37	5	identico	6	4	1.00	Mantenimiento preventivo y correctivo: diagnóstico, instrumentación, averías, repuestos y documentación.
+37	6	identico	6	5	1.00	Cámaras, CCU, monitores, mezcladores, matrices, servidores, intercom, prompter y equipos auxiliares.
+37	7	identico	6	6	1.00	Enlaces, distribución de señales, patch panels, cableado, conectores, fibra óptica y medidas de calidad.
+37	8	identico	6	7	1.00	Sistemas de emisión, continuidad, contribución, codificación, multiplexación y transporte.
+37	9	identico	6	8	1.00	Electrónica en unidades móviles y exteriores: montaje, pruebas, alimentación, climatización y seguridad.
+37	10	identico	6	9	1.00	Audio técnico: microfonía, líneas, niveles, consolas, procesamiento y sincronía con vídeo.
+37	11	identico	6	10	1.00	Vídeo sobre IP y estándares de producción en red: conceptos, PTP, latencia, redundancia y monitorización.
+37	12	identico	6	11	1.00	Instrumentación: multímetro, osciloscopio, generadores, analizadores de señal, medidores de campo y software de diagnóstico.
+37	13	nuevo				Gestión de incidencias técnicas: partes, escalado, tiempos de respuesta y coordinación con producción y continuidad.
+37	14	identico	6	13	1.00	Planos, esquemas, manuales técnicos, inventario, almacén de repuestos y gestión de obsolescencia.
+37	15	identico	6	14	1.00	Compatibilidad electromagnética, puesta a tierra, alimentación ininterrumpida y protección frente a sobretensiones.
+37	16	nuevo				Compras técnicas, homologación de equipos, pruebas de aceptación y relación con proveedores.
+37	17	nuevo				Sostenibilidad y eficiencia energética en instalaciones audiovisuales.
+37	18	nuevo				Nuevas tendencias: virtualización, cloud broadcast, automatización, IA y mantenimiento predictivo.
+37	19	parecido	34	20	0.91	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; riesgos eléctricos, trabajos en altura, accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+2	1	nuevo				Control interno en entidades del sector público: objetivos, riesgos, evidencias, segregación de funciones y mapas de control. La Intervención General de la Junta de Andalucía (IGJA): objeto, principios de actuación y organización. El control previo. El control de los gastos de personal. El control financiero. El control financiero del sector público. El control financiero de las subvenciones y las auditorías de los gastos cofinanciados con fondos procedentes de la Unión Europea. La supervisión continua. La contabilidad pública. Otras actuaciones y funciones de la Intervención General.
+2	2	nuevo				Auditoría pública y privada: planificación, materialidad, pruebas sustantivas, pruebas de cumplimiento y papeles/evidencias de trabajo. Normas de referencia. Planificación y gestión de riesgos de auditoría. Auditoría de las distintas áreas de la empresa. Control de calidad en la auditoría.
+2	3	nuevo				El control externo de la actividad financiera. La Cámara de Cuentas de Andalucía (CCA): Régimen jurídico y competencias. Funcionamiento y procedimientos de las actuaciones. Los órganos de control externo de las comunidades autónomas y su coordinación con el Tribunal de Cuentas. Organizaciones nacionales e internacionales de entidades fiscalizadoras.
+2	4	nuevo				Relación con Intervención, Cámara de Cuentas, auditoría externa y otros órganos de control.
+2	5	nuevo				Contabilidad financiera y presupuestaria. Normativa contable de las Sociedades Mercantiles del Sector Público Andaluz, de las Agencias Públicas Empresariales y de las entidades asimiladas.
+2	6	nuevo				Operaciones de fin de ejercicio. Normas de elaboración de las cuentas anuales. Balance. Cuenta de resultados. Estado de cambios en el patrimonio neto. Estado de flujos de efectivo. Memoria, informe de gestión y análisis económico-financiero. Estado de Información no Financiera.
+2	7	nuevo				Normas de procedimiento, instrucciones internas, circuitos administrativos y mejora continua.
+2	8	nuevo				Gestión presupuestaria. Ciclo presupuestario: Procedimiento de elaboración, tramitación, aprobación, modificación, ejecución y control, desviaciones y cierre. Régimen presupuestario de los entes instrumentales de la Junta de Andalucía.
+2	9	nuevo				Regulación de la contabilidad pública de la Junta de Andalucía. El Sistema de Gestión Integral de Recursos Organizativos de la Administración de la Junta de Andalucía y sus entidades instrumentales (GIRO). Contabilidad presupuestaria de gastos y de ingresos. La contabilidad extrapresupuestaria. Plan General de Contabilidad Financiera. Contabilidad Patrimonial. Rendición de cuentas: cuentas mensuales, trimestrales y anuales. Cuenta General de la Comunidad Autónoma de Andalucía: estados, formación, rendición y fiscalización.
+2	10	nuevo				Contratación del sector público: Normativa de aplicación, ámbito de aplicación, negocios incluidos y excluidos, delimitación de los tipos contractuales, órganos competentes, preparación y adjudicación de los contratos, expedientes, fiscalización, pliegos, ejecución y control de contratos. Efectos, ejecución y cumplimiento de los contratos del sector público. La modificación y extinción de los contratos. Especialidades de los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios. La racionalización técnica de la contratación: acuerdos marco, sistemas dinámicos de adquisición, centrales de contratación.
+2	11	parecido	22	10	0.60	Subvenciones, financiación pública, transferencias y obligaciones de justificación.
+2	12	nuevo				Control de activos, inventario, patrimonio, amortizaciones y salvaguarda de bienes públicos.
+2	13	nuevo				Cumplimiento normativo, integridad, prevención del fraude, conflicto de intereses y canal interno de información.
+2	14	nuevo				Auditoría de cumplimiento. Normativa de referencia. Objetivos. Elementos subjetivos. Elementos objetivos: alcance, compromiso y tipo de seguridad. Riesgo de auditoría. Documentación. Materialidad. Informes.
+2	15	nuevo				Protección de datos, confidencialidad y custodia de documentación económico-administrativa.
+2	16	nuevo				Indicadores de gestión, cuadros de mando, analítica de costes y reporting a dirección.
+2	17	nuevo				Gestión de riesgos en proyectos audiovisuales, compras, comercialización, derechos y producción.
+2	18	nuevo				Responsabilidad contable, trazabilidad de decisiones y archivo electrónico de expedientes.
+2	19	nuevo				Ofimática avanzada, hojas de cálculo, bases de datos, ERP y sistemas de información económico-financiera.
+2	20	nuevo				Régimen laboral y retributivo básico del convenio en su dimensión económico-presupuestaria.
+2	21	nuevo				Inteligencia artificial: concepto, tecnologías y régimen jurídico. Aplicaciones prácticas y principales riesgos desde la perspectiva de la gestión pública y la función auditora.
+2	22	nuevo				Ética pública, transparencia y rendición de cuentas (Ley de Auditoría de Cuentas y Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno).
+2	23	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+14	1	nuevo				Electricidad básica aplicada a iluminación audiovisual: tensión, intensidad, resistencia, potencia, energía, corriente alterna, factor de potencia, caídas de tensión y equilibrado de cargas.
+14	2	nuevo				Instalaciones eléctricas temporales y permanentes para iluminación en estudios, platós, exteriores y unidades móviles: acometidas, líneas, cuadros, bases, conectores y distribución.
+14	3	parecido	27	3	0.65	Cuadros eléctricos, protecciones y maniobra: magnetotérmicos, diferenciales, fusibles, seccionadores, contactores, selectividad, protección frente a sobrecargas y sobretensiones.
+14	4	nuevo				Cableado y conexionado de iluminación: tipos de cables, secciones, conectores, mangueras, enrollado, tendido, protección mecánica, identificación y comprobaciones.
+14	5	nuevo				Distribución de cargas eléctricas en montajes de iluminación: cálculo básico de consumos, fases, líneas, límites de carga, seguridad y coordinación con producción/técnica.
+14	6	nuevo				Dimmers, regulación y control eléctrico de iluminación: principios de funcionamiento, tecnologías, líneas reguladas y no reguladas, compatibilidad con LED y resolución básica de incidencias.
+14	7	nuevo				Equipos de iluminación y requisitos eléctricos: fresnel, LED, HMI, móviles, fluorescencia, proyectores especiales, fuentes de alimentación, balastos, drivers y accesorios. Instalación, funcionamiento y mantenimiento.
+14	8	nuevo				Grupos electrógenos y alimentación en exteriores: potencia disponible, puesta en servicio, distribución, protecciones, tierra, ruido, autonomía, ubicación y actuación ante incidencias.
+14	9	nuevo				Puesta a tierra, equipotencialidad y seguridad eléctrica en montajes de iluminación: continuidad, aislamiento, contactos directos e indirectos, humedad y entornos exteriores.
+14	10	nuevo				Montaje y desmontaje eléctrico de sistemas de iluminación: orden de trabajo, verificación previa, conexión segura, pruebas, señalización, retirada y almacenamiento del material.
+14	11	nuevo				Mantenimiento básico del material eléctrico de iluminación: revisión de cables, conectores, cuadros, lámparas, fuentes, accesorios, averías frecuentes, partes e inventario.
+14	12	nuevo				Interpretación de esquemas, planos y hojas de iluminación desde el punto de vista eléctrico: circuitos, canales, cargas, posiciones, cuadros, líneas y necesidades de alimentación.
+14	13	nuevo				Procesos y flujos de trabajo, roles y responsabilidades en el área de iluminación.
+14	14	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+20	1	nuevo				Marco jurídico audiovisual aplicable a la actividad comercial: comunicaciones comerciales audiovisuales, identificación publicitaria, protección de menores, accesibilidad, patrocinio, emplazamiento de producto, autopromoción y límites derivados de la normativa audiovisual estatal y andaluza.
+20	2	nuevo				Código de conducta comercial y criterios internos de RTVA/CSRTV: principios de actuación, límites de la actividad comercial, aceptación o rechazo de campañas, sectores sensibles, conflictos con la programación, protección de la marca Canal Sur y coherencia con el servicio público.
+20	3	nuevo				Publicidad convencional en radio, televisión y soportes digitales: formatos, cuñas, spots, bloques, menciones, sobreimpresiones, patrocinios, acciones especiales, publicidad digital y comercialización multiplataforma.
+20	4	nuevo				Patrocinios, acciones especiales y colaboraciones comerciales: requisitos, límites, integración en contenidos, presencia de marca, eventos, programas especiales, campañas institucionales y control de compatibilidad editorial y normativa.
+20	5	nuevo				Publicidad institucional y campañas de servicio público: relación con administraciones y entidades públicas, planificación, contratación, difusión, justificación, transparencia y coordinación con programación, continuidad y administración.
+20	6	nuevo				Contratación pública relacionada con la actividad comercial. Ley de contratos del sector público: contratos, convenios, acuerdos comerciales, patrocinios, campañas institucionales, encargos de ejecución, expedientes, prescripciones, criterios de adjudicación, ejecución, recepción, conformidad y archivo.
+20	7	nuevo				Gestión de clientes, agencias, centrales de medios y anunciantes: captación, fidelización, atención comercial, negociación, sistemas de información de relaciones con clientes, segmentación de clientes, histórico de relaciones, proceso de gestión y seguimiento de oportunidades y contactos comerciales.
+20	8	nuevo				Planificación comercial y gestión del inventario publicitario: parrilla, franjas horarias, soportes, disponibilidad, presión publicitaria, restricciones, ventanas comerciales, soportes digitales, radio, televisión y contenidos bajo demanda.
+20	9	nuevo				Tarifas, descuentos y política comercial: elaboración y aplicación de tarifas, paquetes comerciales, bonificaciones, condiciones particulares, criterios de rentabilidad, trazabilidad de descuentos y control de autorizaciones.
+20	10	nuevo				Órdenes de publicidad y gestión de campañas: recepción, alta, planificación, emisión, modificaciones, sustituciones, cancelaciones, control de materiales, instrucciones de emisión, certificación y cierre de campaña.
+20	11	nuevo				Control de emisión y certificación publicitaria: verificación de pases, cumplimiento de condiciones contratadas, incidencias, reposiciones, compensaciones, documentación justificativa, informes al cliente y trazabilidad.
+20	12	nuevo				Gestión económico-administrativa de la actividad comercial: facturación, cobros, deudores, seguimiento de ingresos, conciliación de campañas, previsiones, liquidaciones, documentación soporte y coordinación con el área económico-financiera.
+20	13	nuevo				Medición de audiencias y eficacia comercial: audiencias de televisión y radio, métricas digitales, cobertura, frecuencia, GRP, CPM, afinidad, segmentación, indicadores de campaña, reporting y análisis de resultados.
+20	14	nuevo				Marketing, investigación comercial y posicionamiento de marca: análisis de mercado, competencia, públicos, propuesta de valor comercial, reputación de marca, comunicación comercial y explotación de soportes propios.
+20	15	nuevo				Comercialización digital y nuevos modelos de negocio audiovisual: inventario online, vídeo bajo demanda, streaming, podcast, redes sociales, formatos digitales, branded content permitido, medición digital, posicionamiento en red y privacidad.
+20	16	nuevo				Protección de datos en la actividad comercial: tratamiento de datos de clientes, contactos profesionales, comunicaciones comerciales, bases de datos, cesiones, confidencialidad, conservación y derechos de las personas interesadas.
+20	17	nuevo				Propiedad intelectual, marcas, derechos de imagen y uso de materiales promocionales: límites de utilización de contenidos, música, archivo, piezas promocionales, logotipos, patrocinios, cesiones y autorizaciones.
+20	18	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+36	1	nuevo				Arquitectura de sistemas de información en aplicaciones corporativas, sistemas de producción y sistemas críticos: arquitecturas cliente-servidor, multicapas y multidispositivo; tipología, componentes, interoperabilidad, ventajas e inconvenientes; arquitectura de servicios web.
+36	2	nuevo				Tecnologías actuales de ordenadores y plataformas de computación: dispositivos móviles, servidores, superordenadores, arquitecturas escalables y de altas prestaciones, computación en la nube, base tecnológica, componentes, funcionalidades y capacidades.
+36	3	nuevo				Sistemas operativos de servidor y puesto: Windows, Linux, Unix y otros; instalación, configuración, hardening, monitorización, automatización, actualización del sistema operativo y software de base, mantenimiento y reparación.
+36	4	nuevo				Redes de datos y modelos de comunicación: modelo TCP/IP, modelo OSI, arquitectura, capas, interfaces, protocolos, direccionamiento, encaminamiento, VLAN, routing, switching, DNS, DHCP, VPN, WiFi corporativa, calidad de servicio, técnicas de transmisión, métodos de acceso y dispositivos de interconexión.
+36	5	nuevo				Comunicaciones e Internet: medios de transmisión, modos de comunicación, equipos terminales, equipos de interconexión y conmutación, redes de comunicaciones, redes de conmutación y difusión, comunicaciones móviles e inalámbricas; Internet, arquitectura de red, origen, evolución, estado actual, principales servicios y protocolos HTTP, HTTPS y SSL/TLS.
+36	6	nuevo				Administración de bases de datos y almacenamiento: administración de bases de datos, sistemas de almacenamiento SAN/NAS, virtualización de almacenamiento, políticas de almacenamiento, disponibilidad y recuperación.
+36	7	nuevo				Virtualización y plataformas de sistemas: virtualización de sistemas, virtualización de puestos de usuario, virtualización de almacenamiento, administración de contenedores y microservicios, modelo de desarrollo basado en contenedores, arquitectura, soluciones, despliegue, monitorización y escalado.
+36	8	nuevo				Copias de seguridad, alta disponibilidad y continuidad: backup, recuperación, políticas y procedimientos, alta disponibilidad, continuidad de negocio y recuperación ante desastres.
+36	9	nuevo				Administración de servicios corporativos: servidores de correo electrónico y sus protocolos, gestión de usuarios, gestión de dispositivos, control remoto de puestos de usuario, monitorización y control de tráfico, configuración, administración y protocolo SNMP.
+36	10	nuevo				Infraestructura física de un centro de procesamiento de datos: acondicionamiento, equipamiento, sistemas de gestión de incidencias, operación técnica, control remoto y soporte a puestos de usuario.
+36	11	parecido	35	12	0.57	Seguridad de sistemas de información: conceptos generales, seguridad física, seguridad lógica, amenazas, vulnerabilidades, técnicas criptográficas, protocolos seguros, firma digital, herramientas de ciberseguridad, gestión de incidentes e informática forense.
+36	12	nuevo				Seguridad y protección en redes de comunicaciones: seguridad perimetral, acceso remoto seguro, redes privadas virtuales —VPN—, seguridad en el puesto de usuario, control de accesos, gestión de identidades, registro de eventos, respuesta a incidentes y cumplimiento.
+36	13	nuevo				Ciberseguridad en sistemas, redes y aplicaciones: principales ciberamenazas y vulnerabilidades, desarrollo seguro, metodologías y estándares, auditorías técnicas de seguridad, pruebas de intrusión, criptografía, algoritmos de cifrado simétricos y asimétricos, funciones hash y gestión de vulnerabilidades.
+36	14	parecido	35	13	0.73	Análisis, gestión de riesgos y cumplimiento: análisis y gestión de riesgos de los sistemas de información, herramientas, Esquema Nacional de Seguridad, principios básicos, seguridad como proceso integral y cumplimiento normativo.
+36	15	identico	35	14	1.00	Auditoría informática: objetivos, alcance, metodología, técnicas y herramientas, normas y estándares; auditoría del Esquema Nacional de Seguridad, auditoría de protección de datos y auditoría de seguridad física.
+36	16	identico	35	16	1.00	Integración de sistemas audiovisuales e informáticos: MAM, PAM, sistemas de redacción —newsroom—, automatización, transcodificación, APIs y flujos IP.
+36	17	parecido	35	15	0.52	Explotación de sistemas y gestión del servicio: monitorización, planificación de trabajos, gestión de incidencias, niveles de servicio, gestión ITIL, operación de sistemas críticos y soporte técnico.
+36	18	nuevo				Desarrollo, lenguajes y software: características técnicas de los lenguajes y paradigmas actuales de programación; lenguajes de marca o etiqueta, SGML, HTML, XML y sus derivaciones; lenguajes de script; software libre y propietario, características, tipos de licencias, protección jurídica de los programas de ordenador y tecnologías de protección de derechos digitales.
+36	19	parecido	35	18	0.62	Cloud, protección de datos e inteligencia artificial: cloud, servicios híbridos, contratación tecnológica en el sector público, requisitos, seguridad, soberanía del dato y reversibilidad; protección de datos y privacidad desde el diseño en aplicaciones y sistemas corporativos; inteligencia artificial y automatización en medios, usos, riesgos, supervisión humana, sesgos, trazabilidad y propiedad intelectual.
+36	20	nuevo				Gestión de proyectos, viabilidad y control económico: gestión de proyectos tecnológicos, alcance, planificación, riesgos, recursos, pruebas de aceptación y documentación; técnicas de evaluación de alternativas, análisis de viabilidad, planificación, presupuestación y control de costes de un proyecto informático.
+36	21	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas. .
+38	1	identico	18	1	1.00	Planificación, coordinación y supervisión de equipos en el ámbito del puesto.
+38	2	identico	18	2	1.00	Elaboración de informes, indicadores, memorias, partes de actividad e incidencias.
+38	3	identico	18	3	1.00	Gestión de recursos propios y externos, prioridades, turnos, continuidad del servicio y mejora de procedimientos.
+38	4	nuevo				Ley de Prevención de Riesgos Laborales y normativa de desarrollo: principios preventivos, derechos y obligaciones.
+38	5	nuevo				Organización preventiva en RTVA y CSRTV: servicio de prevención, delegados, comités y coordinación intercentros.
+38	6	nuevo				Evaluación de riesgos laborales: metodología, planificación preventiva, seguimiento y control de medidas.
+38	7	nuevo				Riesgos específicos audiovisuales: electricidad, altura, iluminación, ruido, cargas, unidades móviles, exteriores y climatología.
+38	8	nuevo				Seguridad en estudios, platós, controles, talleres, archivos, oficinas, centros emisores y unidades móviles.
+38	9	nuevo				Ergonomía y psicosociología: pantallas, turnos, nocturnidad, estrés, voz, carga mental y organización del trabajo.
+38	10	nuevo				Higiene industrial: ruido, iluminación, radiaciones no ionizantes, temperaturas, agentes químicos y ventilación.
+38	11	nuevo				Seguridad vial laboral: desplazamientos, conducción profesional, fatiga, rutas y vehículos de empresa.
+38	12	nuevo				Coordinación de actividades empresariales en producciones, eventos, contratas y centros compartidos.
+38	13	nuevo				Planes de emergencia, autoprotección, evacuación, primeros auxilios y simulacros.
+38	14	nuevo				Investigación de accidentes, incidentes, enfermedades profesionales e indicadores preventivos.
+38	15	nuevo				Formación e información preventiva: diseño de acciones, registros, eficacia y cultura preventiva.
+38	16	nuevo				Equipos de trabajo, EPIs, señalización, mantenimiento y consignación de instalaciones.
+38	17	nuevo				Vigilancia de la salud, adaptación de puestos, discapacidad, embarazo y trabajadores especialmente sensibles.
+38	18	nuevo				Acoso, violencia externa, riesgos psicosociales y protocolos de actuación.
+38	19	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+1	1	parecido	36	1	0.68	Arquitectura de sistemas de información: aplicaciones corporativas, sistemas de producción y sistemas críticos. Arquitecturas cliente-servidor, multicapas y multidispositivo: tipología, componentes, interoperabilidad, ventajas e inconvenientes. Arquitectura de servicios web. Modelo de desarrollo basado en contenedores y microservicios: arquitectura, soluciones, despliegue, monitorización y escalado.
+1	2	nuevo				Análisis funcional y técnico de sistemas: toma de requisitos, modelado de procesos, casos de uso, documentación y gestión del cambio. Estrategias de determinación de requerimientos: entrevistas, derivación de sistemas existentes, análisis y prototipos. Especificación de requisitos de software.
+1	3	nuevo				Diseño, desarrollo, implantación y mantenimiento de aplicaciones: ciclo de vida, pruebas, versiones, integración, soporte, instalación y cambio. Estrategias de sustitución, recepción e instalación, evaluación post-implementación y mantenimiento.
+1	4	nuevo				Análisis y diseño orientado a objetos: elementos, proceso unificado de software, lenguaje de modelado unificado —UML— y patrones de diseño. Características técnicas de los lenguajes y paradigmas actuales de programación. Lenguajes de marca o etiqueta: SGML, HTML, XML y sus derivaciones. Lenguajes de script.
+1	5	nuevo				Fundamentos de programación, algoritmia e inteligencia artificial: tipos abstractos de datos, estructuras de datos, organizaciones de ficheros, estrategias de diseño de algoritmos, algoritmos de ordenación y búsqueda, fundamentos de inteligencia artificial, tecnologías asociadas y áreas de aplicación.
+1	6	parecido	35	4	0.88	Bases de datos relacionales y no relacionales: arquitectura ANSI/SPARC, sistemas de gestión de bases de datos relacionales, lenguaje SQL, normas y estándares de interoperabilidad entre gestores, diseño lógico, administración, consultas, seguridad, copias y recuperación. Bases de datos NoSQL.
+1	7	nuevo				Modelado y diseño de datos: metodologías de modelado, diseño de bases de datos, modelo lógico relacional, normalización, diseño lógico y físico, problemas de concurrencia de acceso, mecanismos de resolución de conflictos, monitor de transacciones, control de concurrencia, bloqueos, recuperación de errores e integridad.
+1	8	parecido	35	17	0.79	Inteligencia de negocios, explotación y gobierno del dato: cuadros de mando integral, sistemas de soporte a la decisión, sistemas de información ejecutiva, almacenes de datos, OLTP y OLAP, minería de datos, big data, entornos Hadoop o similares, estrategia del dato, gobierno del dato, gestión y calidad del dato, data lake, data warehouse, lakehouse, data fabric, data mesh, tecnologías PET, espacios de datos y aspectos tecnológicos y organizativos de la compartición de datos.
+1	9	nuevo				Tecnologías y estándares de catalogación, semántica e interoperabilidad del dato: descripción de catálogos y conjuntos de datos, semánticas, ontologías y estándares aplicables a la gestión, explotación y compartición de información.
+1	10	nuevo				Construcción, despliegue e integración de sistemas: entornos de construcción y generación de código, despliegue de aplicaciones, integración continua, modelos de integración y despliegue continuo, DevOps, herramientas y aplicaciones, estándares de documentación, manuales de usuario y manuales técnicos, formación de usuarios y personal técnico, métodos y materiales.
+1	11	nuevo				Pruebas, garantía de calidad y calidad del software: planificación y documentación de pruebas, utilización de datos de prueba, pruebas de software, hardware, procedimientos y datos, procesos de garantía de calidad, estrategia de pruebas, niveles, técnicas y herramientas, criterios de aceptación, modelos, métricas, normas y estándares de calidad del software, evaluación de la calidad y niveles de madurez CMMI.
+1	12	parecido	36	20	0.55	Metodologías y gestión de proyectos tecnológicos: gestión y planificación del proceso de desarrollo, técnicas y prácticas de gestión y planificación de proyectos, metodologías de desarrollo, desarrollo ágil de software, filosofía y principios del desarrollo ágil, manifiesto ágil, SCRUM, extreme programming, alcance, planificación, riesgos, recursos, pruebas de aceptación, documentación, evaluación de alternativas, análisis de viabilidad, planificación, presupuestación y control de costes.
+1	13	nuevo				Gestión documental, contenidos y colaboración digital: gestión documental, gestión de contenidos, tecnologías CMS, CDN y DMS de alta implantación, sindicación de contenidos, sistemas de gestión de flujos de trabajo, búsqueda de información, robots, spiders, posicionamiento y buscadores —SEO—, herramientas de trabajo colaborativo y redes sociales.
+1	14	nuevo				Seguridad, riesgos, protección de datos e identidad digital: análisis y gestión de riesgos de los sistemas de información y sus herramientas; protección de datos y privacidad desde el diseño en aplicaciones y sistemas corporativos; ciberseguridad en sistemas de información, principales ciberamenazas y vulnerabilidades en sistemas y aplicaciones, desarrollo seguro, metodologías y estándares, auditorías técnicas de seguridad, pruebas de intrusión, control de acceso, gestión de identidades, criptografía, cifrado simétrico y asimétrico, funciones hash, Esquema Nacional de Seguridad, seguridad como proceso integral, identificación y firma electrónica, marco europeo y nacional, certificados digitales, claves privadas, públicas y concertadas y formatos de firma electrónica.
+1	15	nuevo				Sistemas audiovisuales, usabilidad, automatización y atención a usuarios: integración de sistemas audiovisuales e informáticos —MAM, PAM, newsroom, automatización, transcodificación, APIs y flujos IP—; inteligencia artificial y automatización en medios, usos, riesgos, supervisión humana, sesgos, trazabilidad y propiedad intelectual; accesibilidad, diseño universal, usabilidad, tecnologías, productos y servicios relacionados con la sociedad de la información, experiencia de usuario —UX—; buenas prácticas de atención a usuarios, priorización de incidencias y comunicación con áreas editoriales, técnicas y administrativas.
+1	16	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+3	1	nuevo				Registro de entrada y salida de documentación: recepción, clasificación, distribución, seguimiento, trazabilidad y archivo.
+3	2	nuevo				Redacción administrativa básica: comunicaciones internas, oficios, certificados, diligencias, notas, informes simples, correos electrónicos y criterios de claridad documental.
+3	3	nuevo				Gestión administrativa ordinaria: Registro de jornada, gestión de horarios, turnos, vacaciones, permisos, licencias, partes, incidencias y documentación de gestión básica.
+3	4	nuevo				Ofimática aplicada a la gestión administrativa: procesadores de texto, hojas de cálculo, bases de datos, presentaciones, digitalización, correo electrónico, agenda y videoconferencia, herramienta de firma electrónica.
+3	5	nuevo				Aplicaciones corporativas de gestión (SAP).
+3	6	nuevo				Atención telefónica, presencial y electrónica: atención a usuarios internos y externos, recepción de avisos, tratamiento de incidencias, comunicación eficaz y calidad en la atención.
+3	7	nuevo				Apoyo a la gestión corporativa: facturas, albaranes, pedidos, justificantes, partes, imputaciones, control básico de gastos y documentación contable elemental.
+3	8	nuevo				Organización de reuniones, viajes y citas: convocatorias, agendas, reservas, desplazamientos, documentación preparatoria, actas, notas y seguimiento de acuerdos.
+3	9	nuevo				Igualdad, no discriminación y atención inclusiva en la gestión administrativa: lenguaje administrativo inclusivo.
+3	10	nuevo				Calidad, organización y mejora del trabajo administrativo: planificación de tareas, priorización, control de plazos y gestión de incidencias.
+3	11	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+9	1	nuevo				Organización del trabajo de iluminación en estudios, platós, exteriores y unidades móviles: fases del montaje, desmontaje, pruebas, ensayos, grabación y emisión. Reparto de tareas, comunicación durante el montaje, relación con el Iluminador/a Superior, Iluminador/a, eléctrico de iluminación y resto de áreas.
+9	2	nuevo				Equipos de iluminación en televisión: proyectores fresnel, LED, HMI, fluorescencia, móviles, cicloramas, recortes, accesorios, soportes y elementos auxiliares.
+9	3	nuevo				Distribución y ubicación de aparatos de iluminación: interpretación de planos de localización, esquemas de luces, posiciones, tiros, alturas, distancias, cobertura y criterios de seguridad.
+9	4	nuevo				Hojas de actuación y documentación de montaje: localización de aparatos, efectos de luminotecnia, asignación de circuitos, cuadro de mando, cambios previstos, partes e incidencias.
+9	5	nuevo				Montaje, desmontaje y supervisión de equipos de iluminación: procedimientos, orden de montaje, revisión de materiales, comprobaciones previas y conservación del equipamiento.
+9	6	nuevo				Electricidad aplicada al montaje de iluminación: potencias, consumos, líneas, fases, equilibrado de cargas, conectores, cuadros, protecciones, dimmers y alimentación segura.
+9	7	nuevo				Sistemas de suspensión, fijación y elevación de proyectores: parrillas, barras, trusses, pantógrafos, eslingas, grilletes, motores y criterios básicos de reparto de cargas.
+9	8	nuevo				Pupitres y mesas de iluminación: operación básica, memorias, cues, efectos, regulación, direccionamiento y coordinación con el desarrollo del programa.
+9	9	nuevo				Iluminación en programas de estudio: informativos, magazines, entrevistas, debates, musicales, entretenimiento y formatos con público.
+9	10	nuevo				Iluminación en exteriores y retransmisiones: planificación operativa, climatología, alimentación, grupos electrógenos, cableado, accesos, seguridad y contingencias.
+9	11	parecido	14	11	0.50	Mantenimiento operativo del material de iluminación: revisión del estado de aparatos, accesorios, cables, conectores, lámparas, fuentes LED, soportes, incidencias e inventario básico.
+9	12	nuevo				Coordinación operativa y gestión de incidencias en entornos audiovisuales: comunicaciones, órdenes de trabajo, partes, avisos, escalado y continuidad del servicio en grabaciones, directos y retransmisiones.
+9	13	nuevo				Eficiencia energética, sostenibilidad y buenas prácticas ambientales en el uso de equipos de iluminación: tecnología LED, reducción de consumos, vida útil de equipos y gestión de residuos.
+9	14	parecido	34	20	0.79	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; trabajos en altura, manipulación de cargas, calor, cableado, montaje, desmontaje; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+10	1	nuevo				Unidades móviles de radio y televisión: tipos, dotación técnica, organización, logística y coordinación operativa.
+10	2	nuevo				Conducción segura y eficiente de vehículos de empresa: normativa de tráfico, tacógrafo cuando proceda, mantenimiento y responsabilidad.
+10	3	nuevo				Planificación de desplazamientos: rutas, horarios, accesos, permisos, estacionamiento, carga y descarga.
+10	4	nuevo				Montaje y apoyo operativo en exteriores: cableado, señalización, alimentación, soportes y asistencia al equipo técnico.
+10	5	nuevo				Elementos básicos de producción en exteriores: necesidades de cámara, sonido, iluminación, enlaces y comunicaciones.
+10	6	nuevo				Seguridad vial y prevención de riesgos: fatiga, climatología, cargas, EPIs, trabajo nocturno y emergencias.
+10	7	nuevo				Control documental del vehículo: partes, incidencias, seguros, revisiones, combustible y equipamiento.
+10	8	nuevo				Atención a eventos institucionales, deportivos, culturales, informativos y retransmisiones especiales.
+10	9	nuevo				Comunicación con producción, técnica, redacción, realización y responsables de seguridad del evento.
+10	10	nuevo				Protocolos ante averías, accidentes, retrasos, cambios de localización y situaciones urgentes.
+10	11	nuevo				Conocimientos básicos de electricidad, grupos electrógenos, cableado y seguridad en montajes temporales.
+10	12	nuevo				Gestión de materiales y equipos transportados: inventario, estiba, protección, custodia y devolución.
+10	13	nuevo				Buenas prácticas ambientales en desplazamientos y operación de unidades móviles.
+10	14	nuevo				Atención al público y comportamiento profesional en espacios externos representando a Canal Sur.
+10	15	nuevo				Accesibilidad y coordinación en coberturas con presencia de personas con discapacidad o público vulnerable.
+10	16	nuevo				Uso de herramientas de navegación, comunicación, gestión de incidencias y registro de actividad.
+10	17	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+11	1	identico	18	1	1.00	Planificación, coordinación y supervisión de equipos en el ámbito del puesto.
+11	2	identico	18	2	1.00	Elaboración de informes, indicadores, memorias, partes de actividad e incidencias.
+11	3	nuevo				Diseño y coordinación de programas: objetivos, formatos, públicos, parrilla, identidad de canal y misión de servicio público.
+11	4	nuevo				Planificación de contenidos: escaletas, temporadas, especiales, continuidad editorial y coordinación de áreas.
+11	5	nuevo				Gestión de parrilla y programación: franjas, audiencias, competencia, eventos, ajuste de tiempos y cambios imprevistos.
+11	6	nuevo				Análisis de audiencias, indicadores digitales, métricas de consumo y evaluación de resultados.
+11	7	parecido	30	9	0.50	Coordinación con equipos de producción, realización, redacción, documentación, continuidad y promoción.
+11	8	nuevo				Control de calidad editorial y técnica de programas propios, ajenos, coproducciones y adquisiciones.
+11	9	nuevo				Accesibilidad, protección de menores, calificación de contenidos y pluralismo en la programación.
+11	10	nuevo				Programación territorial y servicio público: desconexiones, cobertura de Andalucía, cultura, lengua y diversidad.
+11	11	nuevo				Innovación de formatos: transmedia, redes, podcast, streaming, interacción y participación ciudadana.
+11	12	nuevo				Gestión presupuestaria y seguimiento de recursos asociados a programas.
+11	13	nuevo				Comunicación interna, reuniones de seguimiento, actas, informes y cuadros de planificación.
+11	14	nuevo				Criterios de igualdad, diversidad y representación equilibrada en formatos y contenidos.
+11	15	nuevo				Gestión de crisis de programación, directos, cancelaciones, sustituciones y alteraciones de parrilla.
+11	16	nuevo				Relación con organismos públicos, proveedores, productoras, distribuidoras y otros operadores.
+11	17	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+16	1	nuevo				Fundamentos de la luz: intensidad, dirección, calidad, contraste, temperatura de color, sombras, brillo, difusión, dureza, cobertura y modelado.
+16	2	nuevo				Colorimetría aplicada a televisión: grados Kelvin, balance de blancos, reproducción cromática, dominantes, mezcla de fuentes, filtros y corrección de temperatura de color.
+16	3	nuevo				Fotometría y medición de luz: lux, candelas, luminancia, exposición, fotómetros, termocolorímetros, medición incidente y reflejada, y aplicación práctica a cámara.
+16	4	parecido	9	2	0.60	Operación con equipos de iluminación en televisión: fresnel, LED, HMI, recortes, móviles, fluorescencia, paneles, softlights, cicloramas, accesorios y elementos de control de luz.
+16	5	nuevo				Iluminación para cámara: exposición, contraste, continuidad lumínica, brillos, reflejos, pieles, fondos, decorados, profundidad, relación con ópticas y control de imagen.
+16	6	nuevo				Manejo de aparatos de iluminación: orientación, intensidad, enfoque, apertura, recorte, filtrado, difusión, regulación, ajuste de sombras y resolución de problemas puntuales.
+16	7	parecido	9	8	0.50	Mesas y pupitres de iluminación: operación durante programas, memorias, cues, efectos, regulación, cambios de luz y coordinación con realización.
+16	8	parecido	9	9	0.92	Iluminación de programas en estudio: informativos, magazines, entrevistas, debates, entretenimiento, musicales, ficción y formatos con público.
+16	9	nuevo				Iluminación en exteriores y localizaciones: luz natural, refuerzos, contraluces, climatología, continuidad, grupos electrógenos, seguridad y adaptación a recursos disponibles.
+16	10	nuevo				Iluminación en directos y retransmisiones: preparación, ensayos, cambios rápidos, seguimiento de escaleta, respuesta ante incidencias y coordinación por intercomunicación.
+16	11	nuevo				Relación entre iluminación, escenografía, realización, cámara, grafismo y sonido: coordinación para asegurar continuidad visual y calidad técnica de imagen.
+16	12	nuevo				Medición, filtrado y corrección durante la ejecución del programa: comprobación por cámara, ajustes de brillos, sombras, tiros de cámara, perlas y problemas de lectura de imagen.
+16	13	nuevo				Mantenimiento básico y cuidado operativo de equipos de iluminación: revisión, limpieza, conservación, comunicación de averías y uso adecuado del material.
+16	14	nuevo				Innovación en iluminación audiovisual: tecnología LED, control por red, DMX, iluminación robotizada, producción virtual, realidad aumentada, HDR y eficiencia energética.
+16	15	parecido	34	20	0.89	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; electricidad, calor, trabajos en altura; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+17	1	nuevo				Diseño de iluminación para televisión: criterios técnicos, artísticos, narrativos y expresivos; adecuación al género, formato, realización, escenografía, identidad visual y servicio público.
+17	2	nuevo				Planificación de la iluminación de programas: análisis de necesidades, interpretación de guion o escaleta, definición de recursos, tiempos de montaje, ensayos, pruebas y grabación/emisión.
+17	3	nuevo				Diseño de luz para informativos, magazines, entrevistas, debates, ficción, musicales, entretenimiento, deportes, especiales y retransmisiones institucionales.
+17	4	nuevo				Lenguaje visual y estilo lumínico: atmósfera, tono, contraste, dirección de la luz, profundidad, composición, continuidad, expresividad y coherencia estética.
+17	5	parecido	16	2	0.62	Colorimetría avanzada aplicada a televisión: temperatura de color, reproducción cromática, mezcla de fuentes, balance de blancos, filtros, dominantes, cámaras y sistemas HDR/SDR.
+17	6	nuevo				Fotometría, medición y control de calidad de la luz: niveles, uniformidad, luminancia, exposición, relación de contraste, medición de fuentes y ajuste final por cámara.
+17	7	nuevo				Equipamiento de iluminación y selección de medios: proyectores convencionales, LED, HMI, móviles, controladores, accesorios, sistemas de regulación, DMX y soluciones para estudio/exteriores.
+17	8	nuevo				Elaboración de planos, esquemas y documentación técnica de iluminación: posiciones, tiros, circuitos, efectos, hojas de actuación, necesidades de personal y material.
+17	9	nuevo				Coordinación del trabajo del equipo de iluminación: relación con capataz, eléctricos, iluminadores, realización, producción, cámaras, escenografía, grafismo, sonido y mantenimiento. Gestión de roles y funciones.
+17	10	nuevo				Dirección de pruebas y ensayos de iluminación: comprobación del resultado por cámara, ajustes de estilo, resolución de problemas técnicos y validación del resultado final.
+17	11	nuevo				Diseño de iluminación en exteriores, unidades móviles y localizaciones complejas: planificación, alimentación, seguridad, climatología, continuidad, restricciones espaciales y contingencias.
+17	12	nuevo				Iluminación para escenografía, pantallas, videowalls, realidad aumentada, decorados virtuales y producción virtual: integración técnica y visual.
+17	13	nuevo				Gestión de recursos de iluminación: previsión de personal, equipamiento, prioridades, disponibilidad, coordinación con servicios externos, eficiencia y mejora de procedimientos.
+17	14	nuevo				Innovación, sostenibilidad y evolución tecnológica en el diseño de iluminación: LED, control por red, automatización, iluminación robotizada, eficiencia energética, reducción de consumos y nuevas tendencias visuales.
+17	15	parecido	34	20	0.89	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; planificación preventiva de montajes, electricidad, altura; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+19	1	identico	22	1	1.00	Organización y funciones de la Dirección Financiera. Planificación, coordinación, dirección de equipos, gestión por objetivos y mejora continua de los procesos económico-financieros.
+19	2	identico	22	2	1.00	Marco jurídico y organizativo de las agencias públicas empresariales y sociedades mercantiles públicas del sector público de Andalucía.
+19	3	identico	22	3	1.00	Régimen económico-financiero de las agencias públicas empresariales y sociedades mercantiles del sector público de Andalucía.
+19	4	identico	22	4	1.00	Contabilidad financiera de entidades públicas empresariales. Principios contables, registro de operaciones, criterios de valoración y elaboración de información financiera.
+19	5	identico	22	5	1.00	Plan General de Contabilidad aplicable a entidades públicas empresariales. Inmovilizado, existencias, provisiones, periodificaciones y cierre contable.
+19	6	identico	22	6	1.00	Cuentas anuales, estados financieros, memoria e informe de gestión. Análisis económico-financiero e indicadores.
+19	7	identico	22	7	1.00	Contabilidad presupuestaria. Elaboración, ejecución, modificaciones, seguimiento, liquidación y cierre del presupuesto.
+19	8	identico	22	8	1.00	Planificación financiera, tesorería y gestión de la liquidez. Cobros, pagos, conciliaciones bancarias y previsiones financieras.
+19	9	identico	22	9	1.00	Estabilidad presupuestaria, sostenibilidad financiera y principios de eficiencia en la gestión de los recursos públicos.
+19	10	identico	22	10	1.00	Subvenciones, transferencias y otras fuentes de financiación pública. Gestión, seguimiento y obligaciones de justificación.
+19	11	identico	22	11	1.00	Contratación pública con incidencia económico-presupuestaria. Preparación, ejecución, seguimiento económico y liquidación de contratos.
+19	12	identico	22	12	1.00	Ley de Contratos del Sector Público: principios, ámbito subjetivo, tipos de  contratos, expedientes y procedimientos de adjudicación
+19	13	identico	22	13	1.00	Gestión económico-financiera de proveedores, acreedores y deudores. Facturación, obligaciones de cobro/pago y control documental.
+19	14	identico	22	14	1.00	Gestión patrimonial. Inventario, inmovilizado, amortizaciones, inversiones y seguimiento de la ejecución presupuestaria asociada.
+19	15	identico	22	15	1.00	Sistemas de información económico-financiera y administración electrónica aplicada a la gestión económica. ERP, gestión documental, automatización de procesos, explotación de datos, cuadros de mando e indicadores de gestión. Sistema de gestión de la información económica de la Junta de Andalucía (GIRO).
+19	16	identico	22	16	1.00	Planificación económico-financiera y control de gestión. Elaboración de previsiones, seguimiento de objetivos, indicadores de eficiencia y apoyo a la toma de decisiones.
+19	17	identico	22	17	1.00	Elaboración de informes técnicos, memorias, indicadores de gestión y documentación para los órganos de dirección y gobierno.
+19	18	identico	22	18	1.00	Régimen fiscal: IVA, Impuesto de Sociedades, IRPF, tributación local (IAE, IBI, tasas), tributación de no residentes. Declaraciones y aspectos prácticos. Censos de empresarios y profesionales. Régimen de cotizaciones y liquidaciones de la Seguridad Social.
+19	19	identico	22	19	1.00	Legislación civil y mercantil aplicada al área económico-financiera: Tipos de sociedades, tipos de contratos, cesiones de crédito, concursos de acreedores,  fianzas, depósitos,  avales,  embargos, retenciones en nóminas  y créditos.
+19	20	identico	22	20	1.00	Aspectos básicos de normativa y operatoria bancaria. Contratos de cuentas, liquidaciones de intereses y comisiones, pólizas de crédito, préstamos, créditos documentarios. Medios de pagos y cobros (transferencias, cheques, confirming, etc.). Banca electrónica y conciliaciones bancarias. Operaciones con divisas.
+19	21	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+21	1	identico	18	1	1.00	Planificación, coordinación y supervisión de equipos en el ámbito del puesto.
+21	2	identico	18	2	1.00	Elaboración de informes, indicadores, memorias, partes de actividad e incidencias.
+21	3	identico	18	3	1.00	Gestión de recursos propios y externos, prioridades, turnos, continuidad del servicio y mejora de procedimientos.
+21	4	identico	22	9	1.00	Estabilidad presupuestaria, sostenibilidad financiera y principios de eficiencia en la gestión de los recursos públicos.
+21	5	identico	22	12	1.00	Ley de Contratos del Sector Público: principios, ámbito subjetivo, tipos de contratos, expedientes y procedimientos de adjudicación.
+21	6	nuevo				Preparación del expediente: necesidad, memoria, presupuesto base, valor estimado, solvencia y criterios.
+21	7	nuevo				Pliegos administrativos y técnicos: contenido, división en lotes, criterios de adjudicación y prescripciones audiovisuales.
+21	8	nuevo				Procedimientos de contratación: abierto, simplificado, negociado, menor, acuerdos marco y sistemas dinámicos.
+21	9	nuevo				El contrato menor: requisitos, tipos, duración. Problemática del fraccionamiento de contratos.
+21	10	nuevo				Especialidades de los poderes adjudicadores no Administración Pública en materia de contratación.
+21	11	nuevo				Compra de bienes y servicios audiovisuales: equipos técnicos, producción, derechos, mantenimiento, servicios generales y tecnología.
+21	12	nuevo				Ejecución contractual: responsable del contrato, modificaciones, penalidades, prórrogas, recepción y liquidación.
+21	13	nuevo				Contratación electrónica, perfil del contratante, publicidad, transparencia y archivo del expediente.
+21	14	nuevo				Integridad, conflicto de intereses, prevención del fraude y obligaciones derivadas de fondos públicos.
+21	15	nuevo				Gestión de proveedores: homologación, evaluación, incidencias, cumplimiento laboral y coordinación de actividades.
+21	16	identico	22	13	1.00	Gestión económico-financiera de proveedores, acreedores y deudores. Facturación, obligaciones de cobro/pago y control documental.
+21	17	nuevo				Presupuesto, contabilidad, fiscalización, retenciones de crédito y control de gasto.
+21	18	nuevo				Compras sostenibles, sociales, accesibles, innovadoras y con perspectiva de igualdad.
+21	19	nuevo				Protección de datos y confidencialidad en expedientes de contratación.
+21	20	nuevo				Contratos de propiedad intelectual, licencias, producciones, derechos de emisión y coproducciones.
+21	21	nuevo				Inventario, almacén, logística, pedidos, recepción, garantías y obsolescencia.
+21	22	nuevo				Elaboración de informes, cuadros de seguimiento, indicadores y planificación anual de compras.
+21	23	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+23	1	nuevo				Gestión integral de la explotación y mantenimiento de centros de trabajo: concepto, alcance, organización, niveles de servicio y continuidad operativa.
+23	2	nuevo				Funciones del Departamento de Explotación y Mantenimiento en RTVA/CSRTV: gestión de recursos técnicos, humanos y presupuestarios; coordinación con áreas usuarias; soporte a centros de trabajo.
+23	3	nuevo				Plan de mantenimiento: diseño, implantación, seguimiento y revisión. Mantenimiento preventivo, correctivo, predictivo, técnico-legal y conductivo.
+23	4	nuevo				Gestión de instalaciones en edificios administrativos, técnicos y de producción audiovisual: criticidad, disponibilidad, redundancia, seguridad y coordinación con la actividad productiva.
+23	5	nuevo				Instalaciones eléctricas de baja tensión: cuadros, líneas, protecciones, puestas a tierra, continuidad de suministro, inspecciones y mantenimiento.
+23	6	nuevo				Reglamento electrotécnico para baja tensión y normativa técnica aplicable a instalaciones eléctricas en edificios y centros de trabajo.
+23	7	nuevo				Sistemas de alimentación crítica: centros de transformación, grupos electrógenos, SAI/UPS, baterías, transferencia de carga, pruebas periódicas y planes de contingencia.
+23	8	nuevo				Instalaciones térmicas y climatización: producción de frío y calor, ventilación, control de temperatura y humedad, eficiencia energética, mantenimiento e inspecciones reglamentarias.
+23	9	parecido	27	10	0.54	Reglamento de instalaciones térmicas en los edificios: obligaciones del titular, mantenimiento, inspecciones, documentación y eficiencia energética.
+23	10	nuevo				Instalaciones de fontanería, saneamiento, agua, gas y otros suministros básicos: explotación, mantenimiento, control de consumos, incidencias y continuidad del servicio.
+23	11	nuevo				Telefonía, comunicaciones básicas y servicios auxiliares de edificio: coordinación con proveedores, disponibilidad, mantenimiento y gestión de incidencias.
+23	12	parecido	27	11	0.61	Protección contra incendios y seguridad de instalaciones: detección, alarma, extinción, señalización, evacuación, mantenimiento reglamentario y coordinación con planes de emergencia.
+23	13	nuevo				Inmótica, automatización y sistemas de gestión técnica de edificios: BMS/SCADA, sensores, monitorización, alarmas, control energético y explotación de datos.
+23	14	nuevo				Gestión de contratas y colaboradores externos: planificación, coordinación, control de calidad, niveles de servicio, penalizaciones, prevención de riesgos y evaluación del desempeño.
+23	15	nuevo				Contratación pública aplicada a servicios, obras, suministros y mantenimiento: preparación de expedientes, prescripciones técnicas, criterios de adjudicación, ejecución, recepción y control del contrato.
+23	16	nuevo				Gestión presupuestaria del departamento: elaboración de previsiones, control de ejecución, seguimiento de inversiones y gastos, priorización de actuaciones y justificación de necesidades.
+23	17	nuevo				Proyectos de mejora de instalaciones: detección de necesidades, análisis de viabilidad, memoria técnica, planificación, ejecución, recepción, puesta en servicio y seguimiento.
+23	18	nuevo				Gestión de equipos técnicos y humanos: organización del trabajo, liderazgo, asignación de tareas, turnos, coordinación interdepartamental, comunicación y resolución de incidencias.
+23	19	nuevo				Gestión documental del mantenimiento: inventario de activos, libro de mantenimiento, partes de trabajo, informes técnicos, certificaciones, inspecciones, trazabilidad y archivo.
+23	20	nuevo				Gestión de incidencias críticas: clasificación, priorización, escalado, comunicación interna, actuación de emergencia, recuperación del servicio y análisis posterior.
+23	21	nuevo				Eficiencia energética y sostenibilidad en edificios e instalaciones: auditorías energéticas, monitorización de consumos, medidas de ahorro, autoconsumo, iluminación eficiente y gestión ambiental.
+23	22	nuevo				Continuidad de servicios básicos en centros de trabajo: electricidad, agua, gas, telefonía, climatización y seguridad; planes de contingencia y pruebas de disponibilidad.
+23	23	nuevo				Control de calidad en la explotación de instalaciones: indicadores, SLA, cuadros de mando, auditorías internas, mejora continua y satisfacción de usuarios internos.
+23	24	nuevo				Particularidades de los centros de producción audiovisual y sedes territoriales: necesidades de disponibilidad, convivencia de instalaciones generales y equipamiento técnico, coordinación con producción, informativos y emisiones.
+23	25	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+25	1	identico	18	1	1.00	Planificación, coordinación y supervisión de equipos en el ámbito del puesto.
+25	2	identico	18	2	1.00	Elaboración de informes, indicadores, memorias, partes de actividad e incidencias.
+25	3	identico	18	3	1.00	Gestión de recursos propios y externos, prioridades, turnos, continuidad del servicio y mejora de procedimientos.
+25	4	identico	22	9	1.00	Estabilidad presupuestaria, sostenibilidad financiera y principios de eficiencia en la gestión de los recursos públicos.
+25	5	parecido	22	12	0.91	Ley de Contratos del Sector Público: principios, ámbito subjetivo, contratos, expedientes y procedimientos de adjudicación.
+25	6	identico	21	6	1.00	Preparación del expediente: necesidad, memoria, presupuesto base, valor estimado, solvencia y criterios.
+25	7	identico	21	7	1.00	Pliegos administrativos y técnicos: contenido, división en lotes, criterios de adjudicación y prescripciones audiovisuales.
+25	8	identico	21	8	1.00	Procedimientos de contratación: abierto, simplificado, negociado, menor, acuerdos marco y sistemas dinámicos.
+25	9	identico	21	9	1.00	El contrato menor: requisitos, tipos, duración. Problemática del fraccionamiento de contratos.
+25	10	identico	21	10	1.00	Especialidades de los poderes adjudicadores no Administración Pública en materia de contratación.
+25	11	identico	21	11	1.00	Compra de bienes y servicios audiovisuales: equipos técnicos, producción, derechos, mantenimiento, servicios generales y tecnología.
+25	12	identico	21	12	1.00	Ejecución contractual: responsable del contrato, modificaciones, penalidades, prórrogas, recepción y liquidación.
+25	13	identico	21	13	1.00	Contratación electrónica, perfil del contratante, publicidad, transparencia y archivo del expediente.
+25	14	identico	21	14	1.00	Integridad, conflicto de intereses, prevención del fraude y obligaciones derivadas de fondos públicos.
+25	15	identico	21	15	1.00	Gestión de proveedores: homologación, evaluación, incidencias, cumplimiento laboral y coordinación de actividades.
+25	16	identico	21	15	1.00	Gestión de proveedores: homologación, evaluación, incidencias, cumplimiento laboral y coordinación de actividades.
+25	17	identico	22	13	1.00	Gestión económico-financiera de proveedores, acreedores y deudores. Facturación, obligaciones de cobro/pago y control documental.
+25	18	identico	21	17	1.00	Presupuesto, contabilidad, fiscalización, retenciones de crédito y control de gasto.
+25	19	identico	21	18	1.00	Compras sostenibles, sociales, accesibles, innovadoras y con perspectiva de igualdad.
+25	20	identico	21	19	1.00	Protección de datos y confidencialidad en expedientes de contratación.
+25	21	identico	21	20	1.00	Contratos de propiedad intelectual, licencias, producciones, derechos de emisión y coproducciones.
+25	22	identico	21	21	1.00	Inventario, almacén, logística, pedidos, recepción, garantías y obsolescencia.
+25	23	identico	21	22	1.00	Elaboración de informes, cuadros de seguimiento, indicadores y planificación anual de compras.
+25	24	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+31	1	nuevo				Lenguaje radiofónico: palabra, música, silencio, efectos, ritmo, continuidad y narrativa sonora.
+31	2	nuevo				Diseño de programas de radio: formatos, secciones, escaleta, guion, rundown, tono y público objetivo.
+31	3	nuevo				Producción de contenidos: búsqueda de temas, documentación, invitados, entrevistas, permisos y coordinación.
+31	4	nuevo				Presentación y locución: dicción, ritmo, improvisación, lectura, autocontrol y comunicación con el operador.
+31	5	nuevo				Informativos y magazines radiofónicos: actualidad, servicio público, territorios, cultura y participación ciudadana.
+31	6	nuevo				Técnicas de entrevista, debate, tertulia, reportaje sonoro, crónica, conexión en directo y narración deportiva.
+31	7	identico	28	7	1.00	Sonido en radio: microfonía, mesa, híbridos, RDSI/IP, codecs, telefonía, streaming y podcast.
+31	8	nuevo				Autocontrol y operación básica: niveles, entradas, salidas, cuñas, músicas, ráfagas y continuidad.
+31	9	nuevo				Normas de estilo, verificación, contraste de fuentes, pluralismo, rectificación y tratamiento de desinformación.
+31	10	nuevo				Derechos de autor, música, archivo sonoro, propiedad intelectual y derechos de imagen/voz.
+31	11	nuevo				Producción multiplataforma: podcast, redes, vídeo radio, clips, directos online y participación interactiva.
+31	12	nuevo				Protección de menores, igualdad, diversidad, lenguaje inclusivo y tratamiento de colectivos vulnerables.
+31	13	nuevo				Planificación de medios, presupuesto básico, logística de exteriores y coordinación técnica.
+31	14	nuevo				Gestión de imprevistos en directo, tiempos, escaleta, incidencias técnicas y comunicación interna.
+31	15	nuevo				Relación con redacción, producción, realización, documentación, continuidad y centros territoriales.
+31	16	nuevo				Análisis de audiencia radiofónica y digital, indicadores y mejora de contenidos.
+31	17	parecido	34	18	0.96	Ética profesional y responsabilidad: Carta Ética Mundial para Periodistas de la FIP, Estatuto Profesional de RTVA/CSRTV, Libro de Estilo, independencia, conflicto de intereses, deber de imparcialidad, incompatibilidad de ventajas o tratos de favor, rectificación, transparencia con la audiencia y Defensor/a de la Audiencia.
+31	18	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+39	1	nuevo				La enfermería del trabajo: concepto, competencias profesionales, funciones asistenciales, preventivas, gestoras, docentes e investigadoras.
+39	2	nuevo				Marco normativo de la prevención de riesgos laborales: Ley de Prevención de Riesgos Laborales, Reglamento de los Servicios de Prevención y normativa sanitaria laboral aplicable.
+39	3	nuevo				Organización preventiva en la empresa: servicios de prevención, especialidades preventivas, unidad básica de salud laboral y coordinación con Recursos Humanos y áreas técnicas.
+39	4	nuevo				Vigilancia de la salud de las personas trabajadoras: finalidad, voluntariedad, proporcionalidad, confidencialidad, consentimiento informado y excepciones legalmente previstas.
+39	5	nuevo				Reconocimientos médicos laborales y protocolos de vigilancia sanitaria específica: tipos, periodicidad, historia clínico-laboral, pruebas complementarias, informes de aptitud y seguimiento.
+39	6	nuevo				Aptitud laboral y adaptación del puesto de trabajo: apto, apto con limitaciones, no apto temporal o definitivo, restricciones, reincorporación y coordinación preventiva.
+39	7	nuevo				Personas trabajadoras especialmente sensibles: embarazo, lactancia, discapacidad, enfermedades crónicas, edad, reincorporación tras incapacidad temporal prolongada y medidas de protección.
+39	8	nuevo				Riesgos laborales en la actividad audiovisual: platós, estudios, controles, unidades móviles, exteriores, centros emisores, redacciones, oficinas, almacenes y centros territoriales.
+39	9	nuevo				Riesgos ergonómicos y psicosociales: pantallas de visualización de datos, posturas forzadas, manipulación de cargas, turnicidad, nocturnidad, carga mental, estrés, conflictos y prevención del acoso.
+39	10	nuevo				Riesgos físicos, químicos y biológicos: ruido, iluminación, temperatura, vibraciones, radiaciones no ionizantes, electricidad, productos químicos, exposición biológica y medidas preventivas.
+39	11	nuevo				Primeros auxilios y atención sanitaria urgente en el entorno laboral: valoración inicial, soporte vital básico, desfibrilación externa semiautomática, traumatismos, quemaduras, síncopes, crisis convulsivas y emergencias.
+39	12	nuevo				Accidentes de trabajo y enfermedades profesionales: actuación inicial, registro, comunicación, seguimiento, investigación, detección precoz y propuesta de medidas preventivas.
+39	13	nuevo				Incapacidad temporal y reincorporación laboral: contingencias comunes y profesionales, seguimiento sanitario-laboral, recaídas, limitaciones funcionales y coordinación con mutua, INSS y sistema público de salud.
+39	14	nuevo				Promoción de la salud en el trabajo: campañas de vacunación, prevención cardiovascular, salud mental, hábitos saludables, alimentación, actividad física, tabaquismo y prevención de adicciones.
+39	15	nuevo				Epidemiología laboral y vigilancia colectiva de la salud: indicadores sanitarios, absentismo, siniestralidad, análisis de datos, memorias de salud laboral y planificación de actuaciones preventivas.
+39	16	nuevo				Participación sanitaria en la evaluación de riesgos y planificación preventiva: identificación de daños a la salud, propuesta de medidas preventivas, seguimiento de eficacia y mejora continua.
+39	17	nuevo				Coordinación con el Comité de Seguridad y Salud, Delegados/as de Prevención y servicios externos: información sanitaria colectiva, límites de confidencialidad, mutuas, inspección y servicios públicos sanitarios.
+39	18	nuevo				Emergencias, autoprotección y recursos sanitarios: planes de emergencia, botiquines, desfibriladores, equipos de primera intervención, simulacros, material sanitario y control de caducidades.
+39	19	nuevo				Protección de datos, ética y deontología en enfermería del trabajo: datos de salud, secreto profesional, consentimiento, independencia profesional, imparcialidad y calidad asistencial.
+39	20	nuevo				Igualdad, diversidad y perspectiva de género en salud laboral: vigilancia de la salud con enfoque de género, embarazo y lactancia, violencia de género, discapacidad, ajustes razonables y no discriminación.
+39	21	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
+40	1	nuevo				Régimen jurídico de la obra audiovisual europea y obligación de financiación anticipada en la Ley General de Comunicación Audiovisual.
+40	2	nuevo				Ley del Cine y normativa de desarrollo: película cinematográfica, obra audiovisual, productor audiovisual, productor independiente, nacionalidad de la obra y documentación sectorial.
+40	3	nuevo				Procedimientos de financiación anticipada de obra audiovisual por prestadores del servicio público audiovisual: naturaleza, finalidad, fases, publicidad, concurrencia, criterios de valoración y resolución.
+40	4	nuevo				Gestión jurídico-técnica de convocatorias audiovisuales: presentación de solicitudes, tramitación electrónica, documentación exigible, trazabilidad, plazos, subsanación, admisión, exclusión y motivación.
+40	5	nuevo				Requisitos de las productoras solicitantes: personalidad jurídica, representación, poderes, independencia, establecimiento en la Unión Europea o Espacio Económico Europeo, declaraciones responsables y cumplimiento de obligaciones tributarias y con la Seguridad Social.
+40	6	nuevo				Documentación creativa del proyecto: sinopsis, logline, memoria de dirección y producción, guion, escaleta, biblia, dossier, propuesta visual y materiales de presentación.
+40	7	nuevo				Documentación jurídica del proyecto: cesión de derechos de guion, opción sobre obra preexistente, derechos de imagen, música, archivo, autorizaciones, cadena de titularidad y garantías de explotación pacífica.
+40	8	nuevo				Funciones del productor ejecutivo cinematográfico: desarrollo del proyecto, estrategia de financiación, contratación, coordinación creativa, control económico, calendario, explotación y entrega de la obra.
+40	9	nuevo				Desarrollo y packaging de proyectos audiovisuales: selección de proyecto, talento creativo, director/a, guionista, casting, coproductores, televisiones, plataformas, agentes de ventas y dossier de mercado.
+40	10	nuevo				Presupuesto audiovisual: modelos oficiales del Instituto de la Cinematografía y de las Artes Audiovisuales — ICAA—, partidas, above the line, below the line, postproducción, gastos generales, imprevistos, inversión territorial y control de desviaciones.
+40	11	nuevo				Plan de financiación y cierre financiero: ayudas públicas, coproducción, preventas, financiación privada, incentivos fiscales, aportaciones de operadores audiovisuales, cash-flow, calendario de pagos y acreditación documental.
+40	12	nuevo				Plan de producción: calendario, localizaciones, jornadas de rodaje, contratación de equipos, permisos, seguros, plan de rodaje, entregas, estreno, distribución y comercialización.
+40	13	nuevo				Ecosistema cinematográfico y audiovisual andaluz: estructura del sector, productoras, profesionales creativos y técnicos, empresas auxiliares, localizaciones, festivales, mercados, premios, asociaciones profesionales, entidades públicas de apoyo, circuitos de exhibición y distribución, talento emergente e impacto económico, cultural y territorial de la producción audiovisual en Andalucía.
+40	14	nuevo				Criterios artísticos y técnicos de valoración: calidad del proyecto, autoría, titularidad, trayectoria de productoras y equipos, viabilidad, coherencia entre presupuesto y financiación e impacto territorial.
+40	15	nuevo				Criterios de idoneidad para un prestador público audiovisual: adecuación a la programación, servicio público, contrato-programa, identidad de marca, audiencia, recorrido en festivales, repercusión comercial y valor cultural.
+40	16	nuevo				Derechos ofrecidos al operador audiovisual: emisión lineal, internet, OTT, telefonía móvil, exclusividad, duración, ventanas, comercialización, catálogo y retornos de explotación.
+40	17	nuevo				Contratos audiovisuales: financiación anticipada, coproducción, adquisición de derechos, licencia, preventa, distribución, ventas internacionales, entregables, garantías e incumplimientos.
+40	18	nuevo				Seguimiento de proyectos seleccionados: aceptación, acreditación de requisitos, formalización contractual, informes de ejecución, modificaciones sustanciales, riesgos de producción y reasignación de financiación.
+40	19	nuevo				Igualdad, diversidad, accesibilidad, sostenibilidad, protección de menores, buenas prácticas de producción e innovación tecnológica en proyectos cinematográficos y documentales.
+40	20	identico	34	20	1.00	Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas.
