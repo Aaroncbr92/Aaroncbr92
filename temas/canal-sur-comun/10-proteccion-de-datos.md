@@ -783,7 +783,7 @@ comunicará cualquier adición, modificación o exclusión en el registro. Los s
 77.1 (el sector público) harán público un inventario de sus actividades de tratamiento, accesible
 por medios electrónicos, con su base legal.
 
-*Artículo 32. Bloqueo de los datos.* Es una figura propia española:
+*Artículo 32. Bloqueo de los datos.* El Reglamento no regula el bloqueo; lo hace la ley española:
 
 1. «**El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su
    rectificación o supresión.**»
@@ -807,11 +807,13 @@ por medios electrónicos, con su base legal.
    cumpla lo previsto en el Reglamento y en esta ley.
 2. Tendrá la consideración de responsable, y no de encargado, quien en su propio nombre y sin que
    conste que actúa por cuenta de otro establezca relaciones con los afectados, aunque exista
-   contrato con el contenido del artículo 28.3 del Reglamento. Y también quien, figurando como
-   encargado, utilice los datos para sus propias finalidades.
+   contrato con el contenido del artículo 28.3 del Reglamento; esta previsión no se aplica a los
+   encargos de tratamiento hechos en el marco de la legislación de contratación del sector público.
+   Y también es responsable quien, figurando como encargado, utilice los datos para sus propias
+   finalidades.
 3. Al terminar la prestación, el responsable determina si los datos se destruyen, se devuelven o se
    entregan a un nuevo encargado. No procede la destrucción cuando exista una previsión legal que
-   obligue a conservarlos. El encargado puede conservarlos bloqueados mientras puedan derivarse
+   obligue a conservarlos: entonces se devuelven al responsable. El encargado puede conservarlos bloqueados mientras puedan derivarse
    responsabilidades.
 
 *Violaciones de seguridad (artículos 33 y 34 del Reglamento).*
