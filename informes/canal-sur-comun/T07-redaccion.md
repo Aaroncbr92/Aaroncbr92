@@ -10,3 +10,4 @@ Guardado además: Articulado, capítulos 6.º y 7.º.
 Guardado además: Articulado, capítulos 8.º a 11.º.
 Guardado además: Cuadro de licencias (literal art. 33, DT 3.ª y cuadro-resumen).
 Guardado además: contraste con el ET.
+Guardado además: disposiciones adicionales, transitorias y anexos.

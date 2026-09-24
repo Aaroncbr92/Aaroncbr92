@@ -9,7 +9,7 @@
 | **Fuente** | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía; Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía; Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía; Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía; y las leyes y el Reglamento del Parlamento que se citan en «Normativa que el tema invoca» |
 | **Identificador** | `BOE-A-2007-5825` · BOE núm. 68, de 20/03/2007; `BOE-A-2006-20848`; `BOE-A-2007-19819`; `BOE-A-2024-16885` |
 | **Redacción que se estudia** | La vigente el 24/09/2026 de cada norma. El Estatuto solo ha cambiado en su artículo 178.1 (tributos cedidos, por la vía especial del 178.2) y ha perdido el artículo 51, anulado por la sentencia del Tribunal Constitucional 30/2011. El Consejo Consultivo se estudia por la Ley 2/2024, que derogó la Ley 4/2005 |
-| **Extensión** | EXTENSION |
+| **Extensión** | 24.289 palabras |
 
 <!-- /portada -->
 

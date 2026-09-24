@@ -3202,7 +3202,7 @@ Comprobaciones hechas sobre la fuente:
    redacción (la de 2007).
 4. Ley 7/1985: comprobadas las cadenas de redacciones de los artículos 13 (cuatro), 25 (seis)
    y 28 (tres), y el texto anterior a los últimos cambios. Los incisos anulados de los artículos
-   26.2 y 126.2 se han identificado en el XML del texto consolidado (donde van marcados) y en los
+   26.2 y 126.2 se han identificado en el texto consolidado que sirve el BOE en su formato de datos abiertos (donde van marcados) y en los
    fallos de las sentencias; el texto consolidado los reproduce sin que tengan vigencia.
 5. Ley 5/2010: el artículo 9 tiene dos redacciones; la vigente desde el 20 de junio de 2026.
 6. Leyes Orgánicas 2/1982 y 3/1981: leídos en su redacción vigente los artículos citados; el

@@ -1547,3 +1547,229 @@ junio); **artículo 38**, una sola redacción; **artículo 35**, una sola redacc
 12.b.2; ET, art. 34.3); período de prueba, que el convenio remite a la normativa legal (art. 23;
 ET, art. 14); prescripción de faltas, que el convenio remite al artículo 60.2 del ET (art. 71).
 
+## Disposiciones adicionales, transitorias y anexos
+
+### Disposiciones adicionales (diez)
+
+- **Primera. Salario y otros conceptos retributivos**: «**El incremento salarial durante la vigencia
+  del X Convenio Colectivo será, en su caso, el previsto para el conjunto del sector público de
+  Andalucía en la Ley de Presupuestos de la Comunidad Autónoma de Andalucía para cada ejercicio.**»
+  A ella remiten los artículos 41, 48, 50 y 53 para revisar sus cuantías.
+- **Segunda. Desconexiones provinciales**: fija la plantilla estructural de las direcciones
+  territoriales conforme al Anexo II, en particular para las desconexiones informativas
+  provinciales de Almería, Cádiz, Córdoba, Huelva y Jaén. Las tareas de puesta en emisión las hacen,
+  de forma rotatoria, **cuatro** operadores montadores de vídeo, con el complemento de especial
+  responsabilidad del **30 %** del salario base mientras las desempeñen; los operadores de sonido de
+  radio de esos centros siguen cobrando el de calidad del **25 %** a razón de dos, rotatorios; y
+  los documentalistas de Almería, Cádiz, Córdoba, Huelva, Jaén y Madrid asumen las tareas propias y
+  las auxiliares de la documentación. Todos estos complementos son «**no consolidable**».
+- **Tercera. Conciliación de la vida laboral y familiar**: en el primer año de vigencia, medidas de
+  «**bonificación fiscal**» para quienes tengan hijos en edad de guardería.
+- **Cuarta. Contingencias comunes**: compromiso de «**no externalizar la gestión de la prestación
+  económica de la incapacidad temporal por contingencias comunes**».
+- **Quinta. Empresas de servicios**: la empresa vela por el cumplimiento de los convenios de sus
+  contratistas, con cláusula en los pliegos cuyo incumplimiento «**podrá dar lugar a la rescisión**»;
+  la contratación de empresas de trabajo temporal «**será negociada con la representación de los/las
+  trabajadores/as**».
+- **Sexta. Cláusula de conciencia y derecho de autor**: se reconoce el derecho de los trabajadores
+  de la información «**a guardar el secreto profesional y a invocar la cláusula de conciencia y
+  derecho de autor, cuando el desempeño de sus labores profesionales lesione sus convicciones**».
+- **Séptima** (sin rúbrica): la externalización de servicios que la RTVA presta con medios propios
+  no podrá conllevar «**merma de la plantilla estructural actual ni de la cantidad y calidad de los
+  servicios**».
+- **Octava. Definición de funciones**: remite al Anexo III.
+- **Novena** (sin rúbrica): la DA 1.ª y la revisión salarial no pueden suponer un crecimiento de la
+  masa salarial superior a los límites de las leyes de presupuestos de Andalucía para el personal
+  laboral del sector público.
+- **Décima. Plan de Igualdad**: negociar los planes de igualdad «**Dentro de los 6 meses siguientes
+  a la fecha en la que se suscriba este Convenio**».
+
+Para 2026, la Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía
+para 2026, dice en su artículo 18.1: «**Con efectos de 1 de enero de 2026, la masa salarial del
+personal laboral al servicio del sector público andaluz no experimentará crecimiento respecto de su
+cuantía a 31 de diciembre de 2025, sin perjuicio de la aplicación de lo dispuesto en el artículo
+12.2.**» (el artículo 12.2 remite a su vez a una disposición adicional de esa ley que este tema no
+estudia). No hay publicadas tablas salariales del convenio posteriores a las de 2013.
+
+### Disposiciones transitorias (diez)
+
+**El párrafo que las encabeza**, literal:
+
+> Habida cuenta que, de conformidad con lo dispuesto en los arts. 5 y 25 del Decreto-ley 1/2012, de
+> 19 de junio (BOJA núm. 122, de 22.6.2012) y en la Ley 3/2012, de 21 de septiembre, de Medidas
+> Fiscales, Administrativas, Laborales y en materia de Hacienda Pública para el reequilibrio
+> económico-financiero de la Junta de Andalucía (BOJA núm. 192, de 1.10.2012), han quedado
+> «suspendidas», de forma coyuntural y transitoria, aquéllas disposiciones de este Convenio
+> Colectivo que contradigan lo dispuesto en dichas disposiciones habiendo sido sustituidas por las
+> reguladas en dichas normas que se vienen aplicando desde la entrada en vigor de dichas
+> disposiciones, a fin clarificar la afectación de las mismas al presente Convenio Colectivo de
+> RTVA, mientras se mantenga la vigencia de dichas disposiciones, este queda afectado por aquellas
+> en lo siguiente:
+
+Es decir, las transitorias **no modifican** el articulado: dicen qué partes quedan suspendidas y
+sustituidas por las medidas de 2012 **mientras esas medidas estén vigentes**. La Ley 3/2012 se
+aplica, según su artículo 3.c), a «**Las agencias públicas empresariales, sociedades mercantiles
+del sector público andaluz**», y su artículo 5 suspende las cláusulas de los convenios «**que
+contradigan lo dispuesto en la presente Ley**». Por eso lo que hoy valga cada transitoria depende
+de cómo esté cada precepto de esa ley, y eso ha ido cambiando por las leyes de presupuestos.
+
+**Primera. Jornada y horarios**
+
+- A.a) Personal **fijo**: «**treinta y siete horas y treinta minutos semanales de trabajo efectivo de
+  promedio en cómputo anual**», sin incremento retributivo; puede pedir voluntariamente reducir su
+  jornada con reducción proporcional de retribuciones; todas las modalidades de jornada se adaptan;
+  caben jornadas especiales por pacto.
+- A.b) Personal **temporal, interino o indefinido no fijo**: «**la jornada se reduce en un 10%
+  reduciéndose, en el mismo porcentaje sus retribuciones fijas y periódicas**»; puede pedir
+  distribución irregular semanal.
+- B) **Horario flexible**, con autorización de RR.HH.: entrar o salir una hora antes o después
+  manteniendo la presencia obligatoria «**entre las 9 y las 14 horas, en los horarios de mañana, y
+  entre las 16,00 horas y las 21,00 horas en los horarios de tarde**».
+- C) Queda en suspenso el compromiso de contratar el 50 % de las horas extraordinarias descansadas
+  (art. 14.d).
+- Base que cita: artículos 23 y 25 del Decreto-ley 1/2012 y de la Ley 3/2012 (el apartado C, la Ley
+  3/2012 sin artículo).
+
+**Segunda. Vacaciones**: conforme al artículo 26 de la Ley 3/2012, las vacaciones del artículo 13
+se ajustan a los artículos 48 y 50 del Estatuto Básico del Empleado Público en la redacción del
+Real Decreto-ley 20/2012 y «**serán de 22 días hábiles, sin computar los sábados, por año
+completo**»; hasta **5** de ellos pueden tomarse sueltos y acumularse a los asuntos propios.
+
+**Tercera. Permisos**: transcrita y comentada en «Cuadro de licencias y permisos».
+
+**Cuarta. Jubilaciones**: 1) conforme al «**art. 11.5 de la Ley de Presupuestos de la Comunidad
+Autónoma de Andalucía**» (el texto no dice de qué año), se amortizan tantas plazas como jubilaciones,
+salvo en sectores prioritarios o servicios públicos esenciales; 2) se ratifica el acuerdo de
+jubilaciones parciales de **27 de marzo de 2013**, al amparo del artículo 8 del Real Decreto-ley
+5/2013, de 15 de marzo, que prorrogaba la regulación anterior «**para las que se causen antes del 1
+de enero de 2019**».
+
+**Quinta. Retribuciones**
+
+- A) Personal temporal, interino o indefinido no fijo: retribuciones fijas y periódicas reducidas
+  «**en un diez por ciento (10%)**» (art. 23.1 de la Ley 3/2012).
+- B) Antigüedad: conforme al artículo 19 de la Ley 3/2012, el complemento del artículo 49.3 y del
+  Anexo I queda como dice el apartado siguiente.
+- C) Reducción del 5 % de la masa salarial: incorpora al convenio el acuerdo de **13 de junio de
+  2013**, con efectos desde el 1 de enero de 2013, al amparo del Decreto-ley 2/2010, de 28 de mayo,
+  del artículo 14 de la Ley 5/2012, de Presupuestos para 2013, y del artículo 24 de la Ley 3/2012.
+  Calcula un «**Valor Objetivo de Retribución (VOR)**» por trabajador, le aplica un «**tipo medio de
+  descuento**» por tramos (sin descuento hasta 22.000 €; hasta el 8,30 % en el tramo de más de
+  60.000 €), con reglas propias para quienes cobren especial responsabilidad y calidad en el trabajo
+  y medio punto menos para los temporales de los tramos T5 y T6. Y fija la antigüedad: «**La
+  antigüedad se modificará y se abonará de forma lineal para todos los niveles salariales, a razón
+  de 45 € trienio/mes.**» Compromiso de constituir en un mes la comisión de valoración de puestos.
+- D) Ajuste de 2014: reducción salarial pactada en un documento aparte; si el convenio no se
+  aprobaba, ni él ni ese acuerdo tendrían eficacia.
+
+La Cámara de Cuentas, en su informe de fiscalización de 2018 (punto 78), concluyó que la
+antigüedad lineal «**no cumple con lo establecido en el art.19.1 de la Ley 3/2012**», que limita el
+complemento al importe del grupo equivalente del Convenio Colectivo del Personal Laboral de la
+Junta de Andalucía. Es la opinión del órgano de control, no una modificación del convenio.
+
+**Sexta. Incapacidad temporal**: el complemento del artículo 40 queda modificado por el artículo 14
+del Decreto-ley 1/2012 y de la Ley 3/2012:
+
+- 100 % en contingencias profesionales y en contingencias comunes con hospitalización o
+  intervención quirúrgica, y en las enfermedades graves del Real Decreto 1148/2011;
+- enfermedad común o accidente no laboral: «**50%**» de las retribuciones del mes anterior del día
+  1.º al 3.º inclusive; del 4.º al 20.º inclusive, lo necesario para llegar al «**75%**»; desde el día
+  21.º inclusive, «**el 100% del complemento**»;
+- 100 % en riesgo durante el embarazo o la lactancia, maternidad, paternidad, adopción y
+  acogimiento;
+- en IT por contingencias comunes no se complementan las retribuciones variables ni las ligadas a la
+  prestación efectiva del servicio.
+
+**Séptima. Dietas, kilometraje y plus de pernota** (así, con errata, en la rúbrica del cuerpo):
+conforme al artículo 22 de la Ley 3/2012, las compensaciones de gastos no pueden superar las del
+**Decreto 54/1989, de 21 de marzo**, sobre indemnizaciones por razón del servicio de la Junta de
+Andalucía; lo mismo para los desplazamientos de los representantes (art. 58.5).
+
+**Octava. Acción Social**: conforme al artículo 31 del Decreto-ley 2/2012 y al artículo 28 de la Ley
+3/2012, se suspenden las convocatorias de ayudas de acción social del convenio, «**salvo las de
+atención a personas con discapacidad**».
+
+**Novena. Crédito horario de los representantes sindicales**: por el inciso final del artículo 32
+de la Ley 3/2012 y por analogía con el acuerdo de 29 de octubre de 2012 de la Mesa General de
+Negociación de la Junta, «**el crédito horario de los representantes sindicales será el establecido
+en el presente Convenio Colectivo**».
+
+**Décima** (sin rúbrica): si durante la vigencia se liberan restricciones o suspensiones, o la Junta
+aprueba mejoras para el conjunto del sector público andaluz, «**la misma se trasladaría al personal
+de RTVA y sus Sociedades Filiales**», compensándose con los ajustes o liberando total o parcialmente
+lo suspendido.
+
+**Dónde está hoy cada base legal** (preceptos de la Ley 3/2012 leídos en su redacción vigente el 24
+de septiembre de 2026):
+
+- La **Ley 7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
+  2025**, en vigor el 1 de enero de 2025, dispone en su disposición derogatoria única, letra e), que
+  quedan derogados «**Los artículos 6, 13, 16, 17, 21, 26 y 32 de la Ley 3/2012**».
+- La **Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para
+  2026**, disposición adicional cuarta: «**durante el año 2026 solo se mantendrá la aplicación de las
+  medidas contenidas en los artículos 15, 18, 19, 22, 27, 28.2 y 29 de la Ley 3/2012, de 21 de
+  septiembre, tras la revisión prevista en su artículo 4.**» Para 2025, la disposición adicional
+  cuarta de la Ley 7/2024 decía lo mismo con el artículo 28 entero.
+
+| Transitoria | Precepto de la Ley 3/2012 que invoca | Situación el 24/09/2026 |
+| --- | --- | --- |
+| 1.ª A (jornada del fijo y del temporal) | Arts. 23 y 25 | No derogados, pero fuera de la lista de medidas cuya aplicación se mantiene en 2026 |
+| 1.ª C (contratación del 50 % de horas extra) | La ley, sin artículo | Sin precepto concreto que contrastar |
+| 2.ª (vacaciones, 22 días hábiles) | Art. 26 | **Derogado** desde el 1 de enero de 2025 |
+| 3.ª (permisos) | No cita ninguno; la materia es la del art. 26 | Art. 26 **derogado** desde el 1 de enero de 2025 |
+| 4.ª (jubilaciones) | Art. 11.5 de una ley de presupuestos sin año | No comprobado |
+| 5.ª A (temporales, −10 %) | Art. 23.1 | Fuera de la lista de 2026 |
+| 5.ª B y C (antigüedad lineal) | Art. 19 | En la lista: **se mantiene** en 2026 |
+| 5.ª C (reducción del 5 % de la masa salarial) | Art. 24 (y Decreto-ley 2/2010) | Fuera de la lista de 2026 |
+| 6.ª (complemento de IT) | Art. 14 | Fuera de la lista de 2026 |
+| 7.ª (dietas y kilometraje) | Art. 22 | En la lista: **se mantiene** en 2026 |
+| 8.ª (acción social) | Art. 28 | En 2026 solo se mantiene el 28.2 («**no podrán realizarse aportaciones a planes de pensiones de empleo o contratos de seguros colectivos de cualquier naturaleza que incluyan la cobertura de la contingencia de jubilación**»); el 28.1, que suspende la acción social, queda fuera |
+| 9.ª (crédito horario) | Art. 32 | **Derogado** desde el 1 de enero de 2025 |
+
+Para la acción social de 2026, la disposición adicional quinta de la Ley 8/2025 permite ayudas de
+atención a personas con discapacidad y otras; su apartado 3 remite, para el personal de las
+entidades instrumentales no sujeto al convenio del personal laboral de la Junta, a «su normativa
+reguladora». El tema no estudia su alcance para la RTVA.
+
+**Lo que no se ha podido confirmar**, y por eso el tema no lo afirma: cómo aplican hoy la RTVA y
+CSRTV la jornada, las vacaciones, los permisos, el complemento de IT o la acción social después de
+esos cambios; si se ha activado el mecanismo de la DT 10.ª; y qué queda de la DT 4.ª. No hay acuerdo
+publicado ni inscrito que lo diga. Lo seguro es el texto del convenio, el de las transitorias y el
+estado de la Ley 3/2012 que acaba de exponerse, con la norma y el año de cada cambio.
+
+### Anexo I. Remuneración mensual/anual bruta y tabla de antigüedad
+
+Cuantías de 2013, en euros:
+
+| Nivel | Salario base mensual | Salario base anual | Pagas extras (marzo / junio / septiembre / diciembre) | Pagas lineales (marzo / septiembre) | Total anual |
+| --- | --- | --- | --- | --- | --- |
+| B01 | 2.279,07 | 27.348,84 | 1.139,54 / 2.279,07 / 1.139,54 / 2.279,07 | 300,51 / 750,00 | 35.236,56 |
+| B02 | 2.057,14 | 24.685,68 | 1.028,57 / 2.057,14 / 1.028,57 / 2.057,14 | 300,51 / 750,00 | 31.907,61 |
+| B03 | 1.835,21 | 22.022,52 | 917,61 / 1.835,21 / 917,61 / 1.835,21 | 300,51 / 750,00 | 28.578,66 |
+| B04 | 1.613,18 | 19.358,16 | 806,59 / 1.613,18 / 806,59 / 1.613,18 | 300,51 / 750,00 | 25.248,21 |
+| B05 | 1.391,16 | 16.693,92 | 695,58 / 1.391,16 / 695,58 / 1.391,16 | 300,51 / 750,00 | 21.917,91 |
+
+A estas cantidades se aplica, «**con efecto 1 de enero**», el incremento que fije cada año la ley de
+presupuestos andaluza para el sector público. La **tabla de trienios** va del primero (66,07 €
+mensuales; 991,05 € anuales) al octavo (528,56 € mensuales; 7.928,40 € anuales), en progresión de
+66,07 € mensuales por trienio. Sobre su relación con el 0,0024 del artículo 49.3 y con los 45 €
+lineales de la DT 5.ª, véase «Erratas y remisiones».
+
+### Anexo II. Plantilla estructural
+
+Tabla por puesto, entidad (RTVA, CSTV, CSR), localidad y nivel, con dos columnas de dotación:
+«**ESTRUC. IX CC**» y «**ESTRUC. X CC**». Da totales por centro: en Sevilla, **244** de la RTVA, **686**
+de Canal Sur Televisión y **147** de Canal Sur Radio; en los centros de producción, Algeciras 16,
+Almería 44, Cádiz 43, Córdoba 44, Granada 57, Huelva 44, Jaén 48 y Málaga 132 (Jerez y Madrid
+figuran sin total propio); y «**TOTAL DIRECCIONES TERRITORIALES**», **452**. En todos los totales la
+columna del IX y la del X Convenio coinciden. **No da un total general**; sumando los tres de Sevilla
+y el de direcciones territoriales salen 1.529 (suma del tema).
+
+### Anexo III. Definición de funciones
+
+Fichas de puesto (a las que remite la DA 8.ª), con los campos «**CÓDIGO PUESTO**», «**DENOMINACION DEL
+PUESTO**», dirección y departamento, «**OBJETO O FUNCIÓN BÁSICA DEL PUESTO**» y «**TAREAS MÁS
+SIGNIFICATIVAS DEL PUESTO**». Contadas por el campo de código, son **114** fichas. Es el anexo que
+ocupa la mayor parte del BOJA (páginas 100 a 213) y el que la convocatoria de 2026 cita para el
+requisito de capacidad funcional (base 6.3).
+
