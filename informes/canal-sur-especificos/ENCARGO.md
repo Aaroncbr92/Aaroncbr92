@@ -84,3 +84,7 @@ de estándar que suenan bien.
 **Lentes automáticas, sólo si el tema cita normas**: `negritas.py`, `refutar_exactitud.py`,
 `refutar_modo.py` con las fuentes que cite. En un tema técnico sin norma, sólo `refutar_prosa.py`
 e `indice.py`. **Respuesta final al coordinador: 120 palabras como máximo**; el detalle, en el informe.
+
+**Lo copiado del común no se vuelve a verificar**: el redactor lo lista bajo «Copiado del común» en
+su informe y verificación y refutación lo saltan (ya pasó el ciclo con redacción vigente). Lo
+copiado de RTVE sí se verifica, porque está escrito a otra fecha.

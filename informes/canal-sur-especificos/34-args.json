@@ -1,0 +1,302 @@
+{
+ "puesto": "34",
+ "slug": "34-redactor-a",
+ "temas": {
+  "1": {
+   "rtve": {
+    "ficheros": [
+     "temas/general/01-constitucion-espanola.md",
+     "temas/informacion/10-carta-etica-fip.md",
+     "temas/informacion/06-manual-de-estilo.md",
+     "temas/documentacion/03-internet.md"
+    ],
+    "pct": 35,
+    "actualizar": "sí",
+    "nota": "Art. 20 CE, secreto profesional y cláusula de conciencia, intimidad en el Manual de RTVE; faltan las LO 1/1982 y 2/1984 desarrolladas"
+   }
+  },
+  "2": {
+   "rtve": {
+    "ficheros": [
+     "temas/general/07-ley-13-2022.md"
+    ],
+    "pct": 10,
+    "actualizar": "sí",
+    "nota": "Sólo la Ley 13/2022 (servicio público y ámbito autonómico); nada de la Ley 18/2007, la Ley 10/2018 ni la Carta de la RTVA"
+   }
+  },
+  "3": {
+   "rtve": {
+    "ficheros": [
+     "temas/realizacion-tv/10-funciones-del-realizador.md",
+     "temas/realizacion/02-el-guion.md",
+     "temas/produccion/03-escaleta-guion-desglose.md"
+    ],
+    "pct": 15,
+    "actualizar": "sí",
+    "nota": "Puestos de un informativo, iNews y escaleta de noticias; nada de la mesa de redacción ni de la organización de la RTVA"
+   }
+  },
+  "4": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/10-carta-etica-fip.md",
+     "temas/informacion/08-resolucion-parlamento-europeo.md",
+     "temas/realizacion-tv/06-la-television.md",
+     "temas/informacion/06-manual-de-estilo.md"
+    ],
+    "pct": 25,
+    "actualizar": "no",
+    "nota": "Deberes de verdad (FIP), desinformación, VerificaRTVE; falta una tipología de fuentes y la verificación de imágenes"
+   }
+  },
+  "5": {
+   "rtve": {
+    "ficheros": [
+     "temas/realizacion-tv/07-generos-y-formatos.md",
+     "temas/realizacion/01-generos-y-formatos.md"
+    ],
+    "pct": 30,
+    "actualizar": "no",
+    "nota": "Noticia, crónica, reportaje, entrevista, debate y magazine en TV; faltan radio, entornos digitales, tertulia y narración deportiva"
+   }
+  },
+  "6": {
+   "rtve": {
+    "ficheros": [
+     "temas/produccion/15-organismos.md",
+     "temas/produccion-asistencia/15-organismos.md"
+    ],
+    "pct": 30,
+    "actualizar": "no",
+    "nota": "FORTA (creación, miembros, funciones) y UTECA; faltan los grupos públicos y privados de comunicación"
+   }
+  },
+  "7": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/06-manual-de-estilo.md",
+     "temas/realizacion/02-el-guion.md"
+    ],
+    "pct": 10,
+    "actualizar": "no",
+    "nota": "In situ y rótulos del Manual de RTVE, guion en iNews; nada de la estructura de la pieza (entradilla, off, totales, colas)"
+   }
+  },
+  "8": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/06-manual-de-estilo.md",
+     "temas/sonido/12-el-sonido-en-la-radio-y-la-television.md"
+    ],
+    "pct": 5,
+    "actualizar": "no",
+    "nota": "Sólo el capítulo de RNE del manual y el sonido de radio; nada de redacción radiofónica"
+   }
+  },
+  "9": {
+   "rtve": {
+    "ficheros": [
+     "temas/produccion-asistencia/12-el-estudio.md"
+    ],
+    "pct": 5,
+    "actualizar": "no",
+    "nota": "Sólo qué es el teleprompter; nada de locución"
+   }
+  },
+  "10": {
+   "rtve": {
+    "ficheros": [
+     "temas/sonido/12-el-sonido-en-la-radio-y-la-television.md",
+     "temas/produccion/12-transporte-de-la-senal.md"
+    ],
+    "pct": 5,
+    "actualizar": "no",
+    "nota": "Técnica de eventos no controlables y enlaces; nada de redacción en directo"
+   }
+  },
+  "11": {
+   "rtve": {
+    "ficheros": [
+     "temas/general/06-igualdad.md",
+     "temas/informacion/06-manual-de-estilo.md",
+     "temas/informacion/04-codigo-menores.md"
+    ],
+    "pct": 35,
+    "actualizar": "sí",
+    "nota": "Tratamiento de la violencia contra las mujeres en la Guía de RTVE, menores, mapa de cuestiones sensibles; nada de la normativa andaluza"
+   }
+  },
+  "12": {
+   "rtve": {
+    "ficheros": [
+     "temas/general/04-ley-8-2009.md"
+    ],
+    "pct": 5,
+    "actualizar": "sí",
+    "nota": "Sólo la mención de los debates electorales de la LOREG como obligación de RTVE"
+   }
+  },
+  "13": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/01-actualidad.md",
+     "temas/informacion/03-instituciones.md",
+     "temas/documentacion/06-cultura-y-actualidad.md"
+    ],
+    "pct": 15,
+    "actualizar": "sí",
+    "nota": "Actualidad nacional e internacional, ya fechada; nada de Andalucía"
+   }
+  },
+  "14": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/06-manual-de-estilo.md",
+     "temas/realizacion/18-canales-online.md",
+     "temas/general/07-ley-13-2022.md"
+    ],
+    "pct": 20,
+    "actualizar": "sí",
+    "nota": "Medios interactivos de RTVE, canales online y plataformas en la Ley 13/2022; faltan SEO y la normativa de servicios digitales"
+   }
+  },
+  "15": {
+   "rtve": {
+    "ficheros": [
+     "temas/gestion/29-estadistica-descriptiva.md"
+    ],
+    "pct": 10,
+    "actualizar": "no",
+    "nota": "Sólo estadística descriptiva; nada de acceso a la información pública ni de periodismo de datos"
+   }
+  },
+  "16": {
+   "rtve": {
+    "ficheros": [
+     "temas/produccion-asistencia/17-proteccion-de-datos.md",
+     "temas/produccion/16-aspectos-juridicos.md"
+    ],
+    "pct": 50,
+    "actualizar": "sí",
+    "nota": "RGPD y LOPDGDD a 2022, categorías especiales, menores, consentimiento, grabación en la calle; falta la ponderación con la libertad de información"
+   }
+  },
+  "17": {
+   "rtve": {
+    "ficheros": [
+     "temas/general/07-ley-13-2022.md",
+     "temas/general/06-igualdad.md",
+     "temas/informacion/04-codigo-menores.md"
+    ],
+    "pct": 45,
+    "actualizar": "sí",
+    "nota": "Accesibilidad (subtitulado, audiodescripción) y menores en la Ley 13/2022, lenguaje de la Guía de RTVE; falta la normativa de igualdad"
+   }
+  },
+  "18": {
+   "rtve": {
+    "ficheros": [
+     "temas/informacion/10-carta-etica-fip.md"
+    ],
+    "pct": 35,
+    "actualizar": "no",
+    "nota": "Carta ética de la FIP entera; faltan el Estatuto Profesional, el Libro de estilo y el Defensor de la RTVA"
+   }
+  },
+  "19": {
+   "rtve": {
+    "ficheros": [
+     "temas/documentacion/04-inteligencia-artificial.md"
+    ],
+    "pct": 10,
+    "actualizar": "no",
+    "nota": "Transcripción, habla y NLP; nada de usos periodísticos, riesgos ni marco legal europeo"
+   }
+  },
+  "20": {
+   "rtve": {
+    "ficheros": [
+     "temas/prl/prl-especifico.md",
+     "temas/general/08-ley-31-1995.md"
+    ],
+    "pct": 65,
+    "actualizar": "sí",
+    "nota": "Derechos y obligaciones, PVD, TME, in itinere y en misión, EPI, a 21-12-2022; faltan los riesgos propios del puesto en RTVA/CSRTV"
+   }
+  }
+ },
+ "nombre": "Redactor/a",
+ "comun": {
+  "1": [
+   "temas/canal-sur-comun/01-constitucion-espanola.md"
+  ],
+  "2": [
+   "temas/canal-sur-comun/04-ley-13-2022-y-ley-10-2018.md",
+   "temas/canal-sur-comun/05-ley-18-2007-rtva.md",
+   "temas/canal-sur-comun/06-carta-servicio-publico-y-estatuto-profesional.md"
+  ],
+  "11": [
+   "temas/canal-sur-comun/08-igualdad.md"
+  ],
+  "16": [
+   "temas/canal-sur-comun/10-proteccion-de-datos.md"
+  ],
+  "17": [
+   "temas/canal-sur-comun/04-ley-13-2022-y-ley-10-2018.md",
+   "temas/canal-sur-comun/08-igualdad.md"
+  ],
+  "18": [
+   "temas/canal-sur-comun/06-carta-servicio-publico-y-estatuto-profesional.md"
+  ],
+  "20": [
+   "temas/canal-sur-comun/09-ley-31-1995.md"
+  ]
+ },
+ "bloques": [
+  {
+   "id": "A-derecho",
+   "temas": [
+    1,
+    2,
+    11,
+    12,
+    16,
+    17,
+    18,
+    20
+   ],
+   "nota": "Normas: LO 1/1982, LO 2/1984, LO 1/2004 y normativa andaluza de igualdad en medios, LOREG (medios, tiempos, debates, encuestas), secreto profesional y cláusula de conciencia (LO 2/1997), Libro de estilo de Canal Sur si está publicado, Carta Ética Mundial FIP, Defensor/a de la Audiencia, riesgos del puesto de redactor. Vuelca con boe.py en fuentes/canal-sur/ lo que falte, comprobando el identificador con boe_buscar.py."
+  },
+  {
+   "id": "B-oficio",
+   "temas": [
+    3,
+    5,
+    7,
+    8,
+    9,
+    10
+   ],
+   "nota": "Oficio de redacción audiovisual y radiofónica: manuales universitarios, libros de estilo publicados (Canal Sur, RTVE, EBU), documentos de la RTVA sobre su organización."
+  },
+  {
+   "id": "C-digital",
+   "temas": [
+    4,
+    14,
+    15,
+    19
+   ],
+   "nota": "Verificación y desinformación, periodismo digital, datos y transparencia (Ley 19/2013, Ley 1/2014 de Andalucía, Ley 37/2007), Reglamentos (UE) 2022/2065, 2024/1689 y 2024/1083. Vuelca las normas que falten (doue.py para las europeas)."
+  },
+  {
+   "id": "D-contexto",
+   "temas": [
+    6,
+    13
+   ],
+   "nota": "Grupos de comunicación públicos y privados y FORTA (CNMC, FORTA, informes anuales, registros oficiales); información territorial andaluza: lo estructural y datos oficiales fechados (IECA/INE, Junta, Parlamento a 24-09-2026), nada de actualidad no verificable."
+  }
+ ]
+}
