@@ -1403,8 +1403,8 @@ datos personales materias relacionadas con la garantía de los derechos digitale
 el de protección de datos.**» El mandato está escrito para el acceso a cuerpos de las
 Administraciones Públicas.
 
-*Los derechos digitales en el trabajo.* Son los artículos 87 a 90, más el 91, y se aplican dentro
-de la empresa. Los artículos 87 a 90 se dictan al amparo del artículo 149.1.7.ª y 18.ª CE
+*Los derechos digitales en el trabajo.* Son los artículos 87 a 90, más el 91, y se aplican en el
+ámbito laboral, a trabajadores y empleados públicos. Los artículos 87 a 90 se dictan al amparo del artículo 149.1.7.ª y 18.ª CE
 (disposición final segunda.3).
 
 *Artículo 87. Intimidad y uso de dispositivos digitales.*
@@ -1509,9 +1509,11 @@ Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados
 prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de
 sanciones penales · BOE núm. 126, de 27 de mayo de 2021. Por ella se incorpora la Directiva (UE)
 2016/680 (disposición final undécima). La 3/2018 adapta el Reglamento para el tratamiento ordinario
-de datos; la 7/2021 transpone otra norma europea para el tratamiento policial y penal. Ni una es
-desarrollo de la otra ni comparten régimen sancionador. Tiene carácter orgánico salvo sus
-capítulos VI y VII, que son ordinarios (disposición final novena).
+de datos; la 7/2021 transpone otra norma europea para el tratamiento policial y penal. Cada una
+tipifica sus propias infracciones, pero la potestad sancionadora de la 7/2021 se rige por su propio
+capítulo y por los títulos VII y IX de la 3/2018 (artículo 61.1 de la 7/2021). Tiene carácter
+orgánico salvo sus capítulos VI, VII y VIII y sus disposiciones finales segunda, sexta, séptima y
+octava, que son ordinarios (disposición final novena).
 
 *Su ámbito (artículo 1)*: la protección de las personas físicas en el tratamiento de sus datos
 «**por parte de las autoridades competentes, con fines de prevención, detección, investigación y
@@ -1529,7 +1531,8 @@ Su artículo 58 tipifica las infracciones muy graves, de la a) a la ñ). Las sie
 - c) La transferencia de datos a Estados que no sean miembros de la Unión o a destinatarios que no
   sean autoridades competentes, incumpliendo las condiciones de los artículos 43 y 47.
 - d) La utilización de los datos para una finalidad que no sea compatible con el objetivo para el
-  que fueron recogidos, siempre que no se cuente con una base legal.
+  que fueron recogidos o sin cumplir las condiciones del artículo 6, siempre que no se cuente con
+  una base legal para ello.
 - e) El tratamiento de categorías especiales sin las circunstancias del artículo 13 o sin
   garantizar las medidas de seguridad adecuadas, «**que cause perjuicios graves a los
   interesados**».
@@ -1560,8 +1563,9 @@ distingue de la LOPDGDD (un año, dos y tres). Los artículos 58 y 63 tienen una
   electrónico, artículo 22.2 (dispositivos de almacenamiento y recuperación de datos en los equipos
   terminales de los usuarios): los prestadores podrán utilizarlos siempre que los destinatarios
   «**hayan dado su consentimiento después de que se les haya facilitado información clara y
-  completa sobre su utilización**». No se aplica al almacenamiento técnico necesario para transmitir una
-  comunicación o para prestar un servicio expresamente solicitado. Su redacción vigente es de 11 de
+  completa sobre su utilización**». No impide el almacenamiento o acceso de índole técnica al solo fin de
+  transmitir una comunicación o, en la medida estrictamente necesaria, para prestar un servicio
+  expresamente solicitado por el destinatario. Su redacción vigente es de 11 de
   mayo de 2014, y todavía remite a la «Ley Orgánica 15/1999», derogada; se cita tal cual.
 - Ley 19/2013, de transparencia: enlazada por la disposición adicional segunda de la LOPDGDD
   (se ha visto en el sistema de fuentes).
@@ -1698,15 +1702,21 @@ remite el artículo 85.2 (una sola redacción en los artículos que siguen):
   por su periodicidad, divulgar la rectificación en tres días, el rectificante podrá exigir que se
   difunda en espacio de audiencia y relevancia semejantes dentro de ese plazo. «**La publicación o
   difusión de la rectificación será siempre gratuita.**»
-- Artículo 4: si no se publica, el perjudicado puede ejercitar la acción de rectificación «**dentro
-  de los siete dias hábiles siguientes**» ante el Juez de Primera Instancia.
+- Artículo 4: si en esos plazos no se publica, si el director notifica expresamente que no se
+  difundirá o si se publica sin respetar el artículo 3, el perjudicado puede ejercitar la acción de
+  rectificación «**dentro de los siete dias hábiles siguientes**» ante el Juez de Primera Instancia
+  de su domicilio o ante el del lugar donde radique la dirección del medio.
+- Artículo 7: no es necesaria la reclamación gubernativa previa cuando la información se haya
+  publicado o difundido en un medio de comunicación de titularidad pública.
 
 *Artículo 93 de la LOPDGDD. Derecho al olvido en búsquedas de Internet.* Toda persona tiene
 derecho a que los motores de búsqueda en Internet eliminen de las listas de resultados obtenidas
 tras una búsqueda «**a partir de su nombre**» los enlaces que contuvieran información relativa a
 ella cuando fuesen inadecuados, inexactos, no pertinentes, no actualizados o excesivos, o hubieren
 devenido como tales por el transcurso del tiempo, teniendo en cuenta los fines, el tiempo
-transcurrido y «**la naturaleza e interés público de la información**». Este derecho «**subsistirá
+transcurrido y «**la naturaleza e interés público de la información**». Del mismo modo se
+procede cuando las circunstancias personales que invoque el afectado evidencien la prevalencia de
+sus derechos sobre el mantenimiento de los enlaces. Este derecho «**subsistirá
 aun cuando fuera lícita la conservación de la información publicada en el sitio web al que se
 dirigiera el enlace**», y su ejercicio «**no impedirá el acceso a la información publicada en el
 sitio web a través de la utilización de otros criterios de búsqueda distintos del nombre**». El
@@ -1982,7 +1992,7 @@ diario:
 | Ley 10/2025, de 26 de diciembre, por la que se regulan los servicios de atención a la clientela | `BOE-A-2025-26698` | Como norma modificadora (art. 23.1 LOPDGDD) |
 | Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de Educación | `BOE-A-2020-17264` | Como norma modificadora (art. 83 LOPDGDD) |
 | Sentencia del Tribunal Constitucional 76/2019, de 22 de mayo | `BOE-A-2019-9548` | Solo su fallo, a través del texto consolidado de la disposición final tercera |
-| Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales | `BOE-A-2021-8806` | Artículos 1, 58 y 63 y disposiciones finales novena y undécima, vigentes el 24/09/2026 (una sola redacción) |
+| Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales | `BOE-A-2021-8806` | Artículos 1, 58, 61.1 y 63 y disposiciones finales novena y undécima, vigentes el 24/09/2026 (el 61, en la redacción de la Ley Orgánica 9/2022, vigente desde el 29/08/2022; los demás, una sola redacción) |
 | Real Decreto 389/2021, de 1 de junio, por el que se aprueba el Estatuto de la Agencia Española de Protección de Datos | `BOE-A-2021-9175` | Disposición derogatoria única, vigente el 24/09/2026 |
 | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Artículos 32 y 82; una sola redacción |
 | Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía | `BOE-A-2014-7534` | Artículos 3, 43, 44, 45 y 48 (este, en la redacción vigente desde el 26/03/2026) |
@@ -1990,7 +2000,7 @@ diario:
 | Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Artículo 52, vigente el 24/09/2026 |
 | Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico | `BOE-A-2002-13758` | Artículo 22.2, en la redacción vigente desde el 11/05/2014 |
 | Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | `BOE-A-1982-11196` | Artículos 1, 2, 3, 7, 8 y 9, vigentes el 24/09/2026 |
-| Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación | `BOE-A-1984-7248` | Artículos 1 a 4; una sola redacción |
+| Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación | `BOE-A-1984-7248` | Artículos 1 a 4 y 7; una sola redacción |
 | Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor | `BOE-A-1996-1069` | Artículo 4; una sola redacción |
 | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | `BOE-A-2022-11311` | Artículos 4.3, 83, 89, 90, 93, 95, 96, 141.3, 155 y 157 y DA 4.ª; sin modificaciones |
 | Ley 10/2018, de 9 de octubre, audiovisual de Andalucía | `BOE-A-2018-15240` | Artículo 17 (una redacción) y artículos 31 y 66, en la redacción del Decreto-ley 3/2024, vigente desde el 17/02/2024 |

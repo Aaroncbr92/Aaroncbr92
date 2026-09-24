@@ -9,7 +9,7 @@
 | **Fuente** | Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía · Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación · Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI |
 | **Identificador** | `BOE-A-2008-2492` · BOJA núm. 247, de 18/12/2007, y BOE núm. 38, de 13/02/2008 · `BOE-A-2022-11589` · BOE núm. 167, de 13/07/2022 · `BOE-A-2023-5366` · BOE núm. 51, de 01/03/2023 |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 12/2007 ha sido modificada por la Ley 9/2018, de 8 de octubre (en vigor desde el 16/10/2018), y por el Decreto-ley 3/2024, de 6 de febrero (en vigor desde el 17/02/2024). La Ley 15/2022 y la Ley 4/2023 conservan su redacción original |
-| **Extensión** | 21.254 palabras |
+| **Extensión** | 21.325 palabras |
 
 <!-- /portada -->
 
@@ -1564,8 +1564,13 @@ Desarrollo reglamentario: Real Decreto 1026/2024, de 8 de octubre (BOE de 9 de o
   (artículo 3).
 - La comisión negociadora se constituye **«dentro del plazo máximo de los tres meses siguientes
   a la entrada en vigor de este real decreto»**, o de seis meses si la empresa no tiene convenio
-  ni representación legal; si en tres meses desde el inicio no hay acuerdo, se aplican las
-  medidas del real decreto (artículo 5).
+  ni representación legal; para las empresas que en ese momento no estuvieran incluidas en el
+  ámbito del real decreto, **«el plazo anterior empezará a contarse desde el momento en que
+  alcancen el número de personas trabajadoras indicado en el artículo 2»** (artículo 5.1).
+  Transcurridos tres meses desde el inicio de la negociación sin acuerdo, **«o en el supuesto de
+  que el convenio colectivo de aplicación no incluya las medidas planificadas»**, se aplican las
+  del real decreto, que **«se continuarán aplicando hasta que entren en vigor las que
+  posteriormente se puedan acordar»** (artículo 5.3).
 - Las medidas deben contemplar al menos las del anexo I (siete contenidos: cláusulas de igualdad
   y no discriminación; acceso al empleo; clasificación y promoción; formación, sensibilización y
   lenguaje; entornos laborales diversos, seguros e inclusivos; permisos y beneficios sociales;

@@ -33,7 +33,7 @@ corregido el tema. Ficheros tocados: este informe y `T08-preguntas.md`.
 
 | Qué | Resultado |
 | --- | --- |
-| `negritas.py` (7 volcados) | 423 negritas; 7 «no está»: el rótulo del enunciado, tres citas de la redacción de 2007 (arts. 11.1, 11.2, 40 y 58.1; la verificación las leyó con `--fecha`), el fallo de la STC 89/2024 y el anuncio del recurso 3679-2023 (documentos no pasados). 37 «¿art.?»: anclas falsas en números de otras leyes, ya explicadas en la verificación; revisadas, cada negrita está en el artículo que dice el tema. |
+| `negritas.py` (7 volcados) | 423 negritas; 7 «no está»: el rótulo del enunciado, cuatro citas de la redacción de 2007 (arts. 11.1, 11.2, 40 y 58.1; la verificación las leyó con `--fecha`), el fallo de la STC 89/2024 y el anuncio del recurso 3679-2023 (documentos no pasados). 37 «¿art.?»: anclas falsas en números de otras leyes, ya explicadas en la verificación; revisadas, cada negrita está en el artículo que dice el tema. |
 | Releídos en la fuente (lo que la verificación no listó o de más riesgo) | Ley 4/2023: arts. 3.a), 9, 10, 12, 14, 43, 44, 52, 76, 77, 80; recuento de disposiciones (4 DA, 2 DT, 1 DD, 20 DF, 82 arts.) y límites de títulos. Ley 15/2022: arts. 2, 29, 34, 47, 49, 50, 51. Ley 12/2007: arts. 39, 43, 65, 80, 83, 84, 85 y citas de la LO 3/2007 (27.1, 65.2). Conformes. |
 | `refutar_prosa.py` | 2, los mismos falsos positivos explicados en la verificación (fórmula de cadena ×5; «LGBTI» dentro de cita literal de la Ley 18/2007). |
 

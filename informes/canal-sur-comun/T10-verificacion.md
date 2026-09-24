@@ -76,3 +76,25 @@ Ley 18/2007. **Recuentos**: 72 = 17 letras, 73 = 30, 74 = 19 (contadas en el vol
 77.1 = 11; 76.2 = 8; 70.1 = 5; 28.2 = 8. **Plazos de la Ley 11/2023**: 64.2 doce meses, 64.3 seis,
 67.2 dieciocho, 65.5 tres meses con archivo expreso posterior, 66 remite al 64.4, 75 «acuerdo de
 inicio», 77.2 sin «apercibimiento»: todo cuadra con la redacción vigente.
+17. **Derechos digitales · arts. 87 a 91.** «se aplican dentro de la empresa» → «en el ámbito
+    laboral, a trabajadores y empleados públicos» (los arts. 87 a 90 nombran a los empleados
+    públicos). Menor.
+18. **LO 7/2021 · naturaleza (DF 9.ª).** Decía «orgánico salvo sus capítulos VI y VII». La DF 9.ª
+    declara ordinarios los capítulos **VI, VII y VIII** y las **DF 2.ª, 6.ª, 7.ª y 8.ª**. Corregido
+    (errores 3 y 6; **cambia la respuesta**).
+19. **LO 7/2021 · relación con la LOPDGDD.** «Ni una es desarrollo de la otra ni comparten régimen
+    sancionador» no tiene apoyo y choca con el **art. 61.1 LO 7/2021** (la potestad sancionadora
+    «se regirá por lo dispuesto en el presente capítulo, por los títulos VII y IX de la Ley
+    Orgánica 3/2018»). Sustituido por lo que dice el 61.1 (error 9; induce a error). En la tabla
+    de normativa se añade el 61.1, en la redacción de la LO 9/2022 (vigente desde el 29-08-2022; la
+    anterior decía lo mismo sobre los títulos VII y IX).
+20. **LO 7/2021 · art. 58.d).** Faltaba «o cuando no se cumplan las condiciones establecidas en el
+    artículo 6». Añadido (error 6).
+21. **LSSI · art. 22.2.** «almacenamiento técnico necesario […] para prestar un servicio» →
+    «almacenamiento o acceso de índole técnica al solo fin de […] o, en la medida estrictamente
+    necesaria, para prestar un servicio expresamente solicitado por el destinatario» (error 6,
+    menor).
+
+Comprobados sin cambios: arts. 79 a 83, 87 a 91, 95 a 97 y DF 1.ª y 2.ª LOPDGDD (el recuento de
+artículos ordinarios del título X, 79, 80, 81, 82, 88, 95, 96 y 97, cuadra); arts. 1, 58, 63 y DF 11.ª
+LO 7/2021; art. 29 Ley 2/2023.
