@@ -450,7 +450,7 @@ dónde pueden entrar las letras c) y e) del artículo 6.1 del Reglamento:
 corrección de errores de 2018: quedan prohibidos el tratamiento de datos personales que revelen
 el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas o la
 afiliación sindical, y el tratamiento de datos genéticos, datos biométricos dirigidos a
-identificar de manera unívoca a una persona física, datos relativos a la salud y datos relativos a
+identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a
 la vida sexual o la orientación sexual.
 
 Artículo 9 de la LOPDGDD, que endurece la excepción del consentimiento:
@@ -467,9 +467,11 @@ Artículo 10 de la LOPDGDD. Datos de naturaleza penal. El tratamiento de datos s
 infracciones penales, procedimientos y medidas cautelares y de seguridad conexas, para fines
 distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales
 o de ejecución de sanciones penales, solo puede llevarse a cabo cuando lo ampare una norma de Derecho
-de la Unión, esta ley orgánica u otra norma de rango legal. Fuera de ahí, solo son posibles cuando
-los lleven a cabo abogados y procuradores para recoger la información que les facilitan sus
-clientes.
+de la Unión, esta ley orgánica u otra norma de rango legal. El registro completo de esos datos
+puede hacerse conforme a la regulación del Sistema de registros administrativos de apoyo a la
+Administración de Justicia. Fuera de esos dos supuestos, solo son posibles cuando los lleven a cabo
+abogados y procuradores para recoger la información que les facilitan sus clientes para el
+ejercicio de sus funciones.
 
 ### Los derechos de las personas
 
@@ -491,8 +493,8 @@ menos tres cosas cuando los datos se obtienen del afectado:
 - c) La posibilidad de ejercer los derechos de los artículos 15 a 22 del Reglamento.
 
 Si los datos van a tratarse para elaborar perfiles, la información básica lo dirá, y el afectado
-será informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas del
-artículo 22 del Reglamento. Cuando los datos no se hayan obtenido del afectado, la información
+será informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas,
+cuando concurra ese derecho conforme al artículo 22 del Reglamento. Cuando los datos no se hayan obtenido del afectado, la información
 básica incluye además las categorías de datos objeto de tratamiento y las fuentes de las que
 proceden.
 
@@ -516,7 +518,7 @@ proceden.
    15.3 del Reglamento (copias adicionales) y de los apartados 3 y 4 del artículo 13 de la ley.
 
 Plazo de respuesta (artículo 12.3 del Reglamento, en la redacción de la corrección de errores de
-2021): el responsable facilitará la información sin dilación indebida y, en cualquier caso, en el
+2021, y 12.4): el responsable facilitará la información sin dilación indebida y, en cualquier caso, en el
 plazo de un mes desde la recepción de la solicitud. Prorrogable otros dos meses por la complejidad
 o el número de solicitudes, informando de la prórroga dentro del primer mes y con los motivos. Si
 no da curso a la solicitud, informará a más tardar en un mes de las razones y de la posibilidad de
@@ -552,7 +554,8 @@ c) se oponga conforme al artículo 21; d) hayan sido tratados ilícitamente; e) 
 obligación legal; f) se hayan obtenido en relación con la oferta de servicios de la sociedad de la
 información a niños (art. 8.1). No se aplica (17.3) cuando el tratamiento sea necesario para la
 libertad de expresión e información, una obligación legal o misión de interés público, salud
-pública, fines de archivo, investigación o estadísticos, o la formulación, ejercicio o defensa de
+pública, fines de archivo, investigación o estadísticos (en la medida en que la supresión pudiera
+hacer imposible u obstaculizar gravemente sus objetivos), o la formulación, ejercicio o defensa de
 reclamaciones. La primera de esas excepciones es la que importa a un medio de comunicación y se
 desarrolla en la tercera rúbrica.
 
@@ -672,7 +675,7 @@ la autoridad y la remisión al artículo 89.
 
 *Artículo 23. Sistemas de exclusión publicitaria.* Es lícito tratar datos para evitar el envío de
 comunicaciones comerciales a quienes se hayan opuesto a recibirlas. Los sistemas de información,
-generales o sectoriales, se crean «**por parte de las asociaciones y organismos a los que se
+generales o sectoriales, pueden crearse «**por parte de las asociaciones y organismos a los que se
 refiere el apartado 2 del artículo 40 del Reglamento (UE) 2016/679**» (es decir, las que
 representan a categorías de responsables o encargados) «**que cuenten con una alta
 representatividad**», y en ellos solo se incluyen los datos imprescindibles para identificar a los
@@ -728,9 +731,14 @@ actuaciones de investigación.
 el tratamiento de datos de incumplimiento de obligaciones dinerarias, financieras o de crédito por
 sistemas comunes de información crediticia cuando los datos los facilite el acreedor, se refieran
 a deudas ciertas, vencidas y exigibles cuya existencia o cuantía no hubiese sido objeto de
-reclamación por el deudor, el acreedor haya informado de la posible inclusión, y los datos
+reclamación administrativa o judicial por el deudor (o mediante un procedimiento alternativo de
+resolución de disputas vinculante), el acreedor haya informado de la posible inclusión, y los datos
 únicamente se mantengan en el sistema «**mientras persista el incumplimiento, con el límite máximo
-de cinco años desde la fecha de vencimiento**» de la obligación. La entidad notificará al afectado
+de cinco años desde la fecha de vencimiento**» de la obligación. El artículo 20.1 añade otros dos
+requisitos: que solo consulte los datos quien mantenga con el afectado una relación contractual que
+implique el abono de una cuantía pecuniaria o a quien este haya pedido un contrato con
+financiación, pago aplazado o facturación periódica; y que, si el contrato se deniega o no se
+celebra por la consulta, quien consultó informe al afectado del resultado. La entidad notificará al afectado
 la inclusión y le informará de sus derechos dentro de los treinta días siguientes a la
 notificación de la deuda al sistema, «**permaneciendo bloqueados los datos durante ese plazo**». Y
 la disposición adicional sexta añade el umbral: no se incorporan deudas en que la cuantía del
