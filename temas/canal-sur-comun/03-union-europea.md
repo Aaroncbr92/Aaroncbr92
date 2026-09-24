@@ -982,3 +982,283 @@ social en un Estado miembro**»; la buena administración (41) es de «toda pers
 - Artículo 50, «**Derecho a no ser juzgado o condenado penalmente dos veces por la misma
   infracción**», respecto de una sentencia penal firme dictada «**en la Unión**».
 
+## La representación de la Junta de Andalucía ante la Unión Europea
+
+La rúbrica se contesta con tres capas de normas: el Estatuto, que fija los derechos de participación
+de la Comunidad; la organización de la Junta, que dice qué órganos los ejercen, empezando por la
+Delegación en Bruselas; y los mecanismos estatales, porque ante la Unión el sujeto es España y la
+Junta participa sobre todo a través del Estado.
+
+### La Unión Europea en el Estatuto de Autonomía
+
+Fuera del capítulo europeo, el EAA toca la Unión en estos preceptos (todos con una sola redacción, la
+original de 2007):
+
+- Artículo 1.4: «**La Unión Europea es ámbito de referencia de la Comunidad Autónoma, que asume sus
+  valores y vela por el cumplimiento de sus objetivos y por el respeto de los derechos de los
+  ciudadanos europeos.**»
+- Artículo 10.3.9.º, entre los objetivos básicos: la convergencia con el resto del Estado y de la
+  Unión Europea, «**propiciando la defensa de los intereses andaluces ante la Unión Europea**».
+- Artículo 42.2.4.º, entre las clases de competencias: «**Competencias en relación con la aplicación
+  del derecho comunitario, que comprenden el desarrollo y la ejecución de la normativa de la Unión
+  Europea cuando afecte al ámbito de las competencias de la Comunidad Autónoma.**»
+- Artículo 185.1: «**Corresponde a la Comunidad Autónoma la gestión, planificación y ejecución de los
+  fondos europeos destinados a Andalucía**» y de los que se canalicen a través de programas europeos
+  asignados a ella.
+- Artículo 218, que abre el título IX: la Comunidad «**participará en las decisiones o instituciones
+  del Estado y de la Unión Europea de acuerdo con lo que establezcan en cada caso la Constitución, la
+  legislación del Estado y la normativa de la Unión Europea**».
+- Artículo 220.2.g), entre las funciones de la Comisión Bilateral Junta de Andalucía-Estado: «**El
+  seguimiento de la política europea para garantizar la efectividad de la participación de la
+  Comunidad Autónoma de Andalucía en los asuntos de la Unión Europea.**»
+- Artículo 225: «**Corresponde al Presidente de la Junta la representación de la Comunidad Autónoma
+  de Andalucía en sus relaciones con el Estado.**» El capítulo europeo no tiene un precepto
+  equivalente que atribuya al Presidente la representación ante la Unión.
+
+### El capítulo III del título IX del Estatuto (artículos 230 a 239)
+
+El título IX, «**Relaciones institucionales de la Comunidad Autónoma**», tiene cinco capítulos: I,
+relaciones con el Estado; II, con otras Comunidades y Ciudades Autónomas; III, «**Relaciones con las
+instituciones de la Unión Europea**»; IV, acción exterior; y V, cooperación al desarrollo. El
+capítulo III tiene diez artículos, del 230 al 239. El Estatuto no nombra en él al Comité de las
+Regiones, y la palabra «subsidiariedad» solo aparece en el artículo 237.
+
+#### Artículo 230. Marco de relación
+
+«**Las relaciones de la Comunidad Autónoma de Andalucía con las instituciones de la Unión Europea se
+regirán por lo dispuesto en el presente Estatuto y en el marco de lo que establezca la legislación
+del Estado.**»
+
+#### Artículo 231. Participación en la voluntad del Estado
+
+- 231.1: «**La Comunidad Autónoma participa en la formación de la posición del Estado ante la Unión
+  Europea en los asuntos relativos a las competencias o a los intereses de Andalucía, en los términos
+  que establecen el presente Estatuto y la legislación sobre la materia.**»
+- 231.2, bilateral o multilateral: «**La Comunidad Autónoma debe participar de forma bilateral en la
+  formación de la posición del Estado en los asuntos que le afectan exclusivamente. En los demás, la
+  participación se realizará en el marco de los procedimientos multilaterales que se establezcan.**»
+- 231.3, cuándo pesa la posición andaluza: «**La posición expresada por la Comunidad Autónoma es
+  determinante en la formación de la posición estatal si afecta a sus competencias exclusivas y si de
+  la propuesta o iniciativa europeas se pueden derivar consecuencias financieras o administrativas de
+  singular relevancia para Andalucía. Si esta posición no la acoge el Gobierno del Estado, éste debe
+  motivarlo ante la Comisión Junta de Andalucía-Estado. En los demás casos dicha posición deberá ser
+  oída por el Estado.**»
+  - Los dos requisitos para que sea determinante van unidos por «y»: competencias exclusivas y
+    consecuencias financieras o administrativas de singular relevancia. Basta que falte uno para que
+    la posición solo deba «ser oída».
+  - Aun siendo determinante, el Gobierno puede no acogerla: lo que debe es motivarlo ante la Comisión
+    Junta de Andalucía-Estado (así la nombra este artículo; el 220 la llama Comisión Bilateral).
+
+#### Artículo 232. Participación en las decisiones de la Unión Europea
+
+«**Andalucía participará en los procesos de decisión en las instituciones de la Unión Europea
+directamente o a través de la representación del Estado, en los términos que legalmente se
+determinen.**»
+
+#### Artículo 233. Información del Estado
+
+«**El Estado informará a la Junta de Andalucía de las iniciativas, las propuestas y proyectos
+normativos y las decisiones de tramitación en la Unión Europea, así como de los procedimientos que se
+sigan ante los órganos judiciales europeos en los que España sea parte, en lo que afecte al interés de
+Andalucía, conforme a lo establecido en la normativa estatal. La Junta de Andalucía podrá dirigir al
+Estado las observaciones y propuestas que estime convenientes.**»
+
+#### Artículo 234. Participación y representación en las instituciones y organismos de la Unión Europea
+
+- 234.1: «**La Junta de Andalucía participa en las delegaciones españolas ante las instituciones de la
+  Unión Europea en defensa y promoción de sus intereses y para favorecer la necesaria integración de las
+  políticas autonómicas con las estatales y las europeas. Especialmente, participa ante el Consejo de
+  Ministros y en los procesos de consulta y preparación del Consejo y la Comisión, cuando se traten
+  asuntos de la competencia legislativa de la Junta de Andalucía, en los términos que se establezcan en
+  la legislación correspondiente.**» El «Consejo de Ministros» es aquí el Consejo de la Unión: con ese
+  nombre lo designan también la Ley 8/1994 («**Consejo de Ministros de la Unión Europea**») y el Acuerdo
+  de 2004 sobre las formaciones del Consejo.
+- 234.2: «**Cuando se refiera a competencias exclusivas de la Junta de Andalucía, la participación
+  prevista en el apartado anterior permitirá, previo acuerdo y por delegación, ejercer la
+  representación y la presidencia de estos órganos, atendiendo a lo previsto en la normativa que
+  resulte de aplicación.**» Tres condiciones: competencia exclusiva, acuerdo previo y delegación.
+
+#### Artículo 235. Desarrollo y aplicación del derecho de la Unión Europea
+
+- 235.1: «**La Junta de Andalucía desarrolla y ejecuta el derecho de la Unión Europea en las materias
+  de su competencia, de acuerdo con lo que establezca una ley del Parlamento de Andalucía.**» Esa ley
+  andaluza no se ha localizado, y el tema no da ninguna.
+- 235.2: «**En el caso de que la Unión Europea establezca una legislación que sustituya a la normativa
+  básica del Estado, la Junta de Andalucía podrá adoptar la legislación de desarrollo a partir de las
+  normas europeas.**»
+
+#### Artículo 236. Delegación Permanente de la Junta de Andalucía
+
+«**La Junta de Andalucía tendrá una Delegación Permanente en la Unión Europea como órgano
+administrativo de representación, defensa y promoción de sus intereses ante las instituciones y
+órganos de la misma, así como para recabar información y establecer mecanismos de relación y
+coordinación con los mismos.**» El Estatuto la define como órgano administrativo, y la llama
+Delegación Permanente; los decretos, Delegación de la Junta de Andalucía en Bruselas.
+
+#### Artículo 237. Consulta al Parlamento de Andalucía
+
+«**El Parlamento de Andalucía será consultado previamente a la emisión del dictamen de las Cortes
+Generales sobre las propuestas legislativas europeas en el marco del procedimiento de control de los
+principios de subsidiariedad y proporcionalidad que establezca el Derecho Comunitario.**»
+
+#### Artículo 238. Acciones ante el Tribunal de Justicia
+
+- 238.1: «**La Junta de Andalucía interviene en los procedimientos ante el Tribunal de Justicia de la
+  Unión Europea en los términos establecidos por la legislación del Estado. Tendrá acceso, en su caso,
+  al mismo si así lo establece la legislación comunitaria.**»
+- 238.2: «**En el marco de la legislación vigente en la materia, la Junta de Andalucía podrá instar al
+  Estado y a las instituciones legitimadas el inicio de acciones ante el Tribunal de Justicia de la
+  Unión Europea en defensa de los intereses de la Comunidad Autónoma.**» La Junta insta; no interpone.
+
+#### Artículo 239. Relaciones con las regiones europeas
+
+- 239.1: «**La Junta de Andalucía promoverá la cooperación, y establecerá las relaciones que considere
+  convenientes para el interés general de Andalucía, con las regiones europeas con las que comparta
+  objetivos e intereses.**»
+- 239.2: «**Los poderes públicos de Andalucía impulsarán la presencia de las regiones en la definición
+  de las políticas de la Unión Europea.**»
+
+### La Delegación de la Junta de Andalucía en Bruselas
+
+#### Su creación, en 1995
+
+- La creó el Decreto 164/1995, de 27 de junio (BOJA núm. 104, de 25 de julio de 1995), del Consejo de
+  Gobierno, a propuesta de la Consejería de la Presidencia. Artículo 1: «**Se crea la Delegación de la
+  Junta de Andalucía en Bruselas.**» La adscribió entonces a la Consejería de la Presidencia, «**a
+  través de la Dirección General de Asuntos Europeos y Cooperación Exterior**».
+- Su preámbulo invoca la STC 165/1994, de 26 de mayo, que, según el decreto, reconoce que las
+  comunidades autónomas pueden ejercer una labor de seguimiento e información de la actividad de la
+  Unión Europea y del Consejo de Europa, «**que permite la apertura de Delegaciones de las Comunidades
+  Autónomas en Bruselas**». Y dice que la Delegación actuará «**en cooperación con la Representación
+  Permanente de España ante la Unión Europea**».
+- El artículo 2 le dio ocho funciones (letras a-h), entre ellas:
+  - a) «**Seguimiento del proceso normativo en relación con aquellas iniciativas de la Unión Europea
+    que afecten a las competencias o a los intereses de la Comunidad Autónoma de Andalucía.**»
+  - e) «**Seguimiento de los trabajos del Comité de las Regiones de la Unión Europea.**»
+  - g) colaboración con la REPER y con las oficinas de otras comunidades autónomas o entes similares
+    de otros Estados instaladas en Bruselas.
+  - Las demás: apoyo a los intereses socioeconómicos andaluces, promoción de encuentros con las
+    instituciones, colaboración en la promoción exterior, asesoramiento sobre cooperación al
+    desarrollo y las que encomiende el Director General.
+- El Decreto 230/1995, de 3 de octubre (BOJA núm. 129, de 4 de octubre de 1995, que lo rotula por
+  errata «230/11995»), reguló el cargo de Delegado: lo nombra el Consejo de Gobierno por decreto, «**a
+  propuesta del Consejero de la Presidencia**», y le corresponde «**Representar a la Junta de Andalucía
+  ante las instituciones de la Unión Europea.**», dirigir los servicios de la Delegación y velar por el
+  cumplimiento del ordenamiento en su ámbito.
+- **Vigencia no confirmada.** No se ha podido confirmar si los Decretos 164/1995 y 230/1995 siguen
+  vigentes, en todo o en parte, ni cómo casan con la organización de 2026 (por ejemplo, la
+  adscripción a través de una dirección general que ya no existe con ese nombre, o la propuesta del
+  «Consejero de la Presidencia»). Se dan como normas de creación, con su fecha, no como régimen vigente
+  de funciones. Además, el texto de 1995 que se ha podido leer es la versión HTML del BOJA histórico,
+  que advierte que «**no tiene validez legal**»; el PDF oficial es una imagen escaneada.
+
+#### Qué Consejería lleva hoy los asuntos europeos
+
+- El Decreto del Presidente 9/2026, de 9 de julio, por el que se crean las Vicepresidencias y se
+  reestructuran las Consejerías (BOJA extraordinario núm. 12, de 9 de julio de 2026; en vigor el día de
+  su publicación), atribuye a la Consejería de Presidencia, Sanidad y Emergencias (artículo 3.1.c):
+  «**La coordinación de la acción exterior de la Junta de Andalucía, las actuaciones derivadas de la
+  integración de España en la UE; comunidades andaluzas en el exterior**» y la difusión de la imagen de
+  Andalucía en el exterior. Su titular es el Vicepresidente Primero (artículo 1.1).
+- Suprime, entre otras, la «**Consejería de Sanidad, Presidencia y Emergencias**» y la «**Consejería de
+  Turismo y Andalucía Exterior**» (disposición adicional primera).
+- No confundir con los fondos: «**Fondos Europeos**» es materia de la Consejería de Economía, Hacienda y
+  Fondos Europeos (artículo 5.1).
+
+#### Dónde está adscrita la Delegación y quién la coordina: el Decreto 189/2026
+
+El Decreto 189/2026, de 30 de julio, por el que se establece la estructura orgánica de la Consejería
+de Presidencia, Sanidad y Emergencias (BOJA extraordinario núm. 15, de 31 de julio de 2026), entró en
+vigor «**el mismo día de su publicación**» y derogó expresamente el Decreto 168/2025, de 5 de noviembre.
+Su corrección de errores (BOJA núm. 152, de 7 de agosto de 2026) solo toca el artículo 2.11, ajeno a
+la materia europea. No se ha hecho una comprobación exhaustiva de modificaciones posteriores al 7 de
+agosto de 2026.
+
+- Competencia de la Consejería (artículo 1.1.h): «**La dirección, planificación y coordinación de la
+  acción exterior de la Junta de Andalucía y de las actuaciones derivadas de la integración de España
+  en la Unión Europea, incluido el seguimiento de la normativa comunitaria, así como las competencias en
+  relación con las Instituciones Europeas**», y la coordinación de la cooperación interregional,
+  transnacional y transfronteriza.
+- Adscripción (artículo 2.12): «**Se adscriben a la Consejería de Presidencia, Sanidad y Emergencias la
+  Oficina de la Junta de Andalucía en Madrid y la Oficina de la Junta de Andalucía en Barcelona, a
+  través de la Viceconsejería de Presidencia, y la Delegación de la Junta de Andalucía en Bruselas, a
+  través de la Secretaría General de la Presidencia. En todos los casos desarrollarán las funciones de
+  difusión, promoción y representación institucional de la Comunidad Autónoma de Andalucía.**»
+- La Secretaría General de la Presidencia tiene rango de Viceconsejería y depende funcionalmente de la
+  Presidencia de la Junta y orgánicamente de la Viceconsejería de Presidencia (artículos 2.4 y 6.1).
+  Su artículo 6.4: «**Asimismo, se adscribe a la Secretaría General de la Presidencia la Delegación de
+  la Junta de Andalucía en Bruselas, correspondiéndole el impulso, el seguimiento y la coordinación de
+  sus funciones.**»
+- Pero el artículo 17.e) da a la Dirección General de Unión Europea «**El impulso, el seguimiento y la
+  coordinación de las funciones relativas a la Delegación de la Junta de Andalucía en Bruselas.**»
+- **El solapamiento, dicho tal cual.** El decreto atribuye el impulso, el seguimiento y la
+  coordinación de las funciones de la Delegación a dos órganos distintos: a la Secretaría General de la
+  Presidencia (artículo 6.4), a la que la Delegación está adscrita, y a la Dirección General de Unión
+  Europea (artículo 17.e), que depende de otra Secretaría General. El decreto no dice cómo se reparten.
+  Lo seguro es la adscripción: la Delegación está adscrita a la Secretaría General de la Presidencia
+  (artículos 2.12 y 6.4).
+- Medios (disposición adicional segunda): «**La provisión de los medios personales y materiales
+  necesarios para el adecuado desempeño de las funciones propias de la Delegación de la Junta de
+  Andalucía en Bruselas, la Oficina de la Junta de Andalucía en Madrid y la Oficina de la Junta de
+  Andalucía en Barcelona corresponderá a la Agencia Pública Empresarial para la Transformación y el
+  Desarrollo Económico de Andalucía (TRADE).**»
+
+### Los órganos de la Junta para los asuntos europeos
+
+El preámbulo del Decreto 189/2026 explica que incorpora a la Consejería la Secretaría General de
+Acción Exterior y Unión Europea y que «**se crea la Dirección General de Unión Europea**», para dotar
+a la Junta de mayor capacidad de representación ante las instituciones europeas y de coordinación de
+los asuntos europeos.
+
+#### La Secretaría General de Acción Exterior y Unión Europea (artículo 8)
+
+- Tiene «**rango de Viceconsejería**» y depende orgánicamente de la Viceconsejería de Presidencia
+  (artículo 2.4). De ella dependen la Dirección General de Unión Europea y la Dirección General de
+  Andalucía Global (artículos 2.6 y 8.2).
+- Asesora a la Presidencia de la Junta en acción exterior y Unión Europea: el artículo 6.1 excluye esa
+  materia del asesoramiento de la Secretaría General de la Presidencia y se la atribuye a ella.
+- Atribuciones europeas del artículo 8.1:
+  - b) el impulso, ejecución y seguimiento de la «**Estrategia de Acción Exterior y ante la Unión
+    Europea de la Junta de Andalucía 2025-2030**»;
+  - c) «**el impulso y coordinación de las competencias relacionadas con la pertenencia de España a la
+    Unión Europea y la definición de la política de actuación ante las Instituciones de la Unión
+    Europea**», y el asesoramiento a los órganos y entidades de la Junta en esa materia;
+  - d) «**El impulso y coordinación de la participación de la Junta de Andalucía en instituciones u
+    órganos de la Unión Europea, en especial la derivada de su pertenencia al Comité Europeo de las
+    Regiones, el Consejo de Europa y en otras instituciones y organizaciones de carácter europeo o
+    internacional y el desarrollo de las relaciones con la Representación de la Comisión Europea y del
+    Parlamento Europeo en el Estado.**»;
+  - e) «**La representación de la Comunidad Autónoma en los órganos de coordinación que existan entre la
+    Administración General del Estado y las comunidades autónomas en materia de Unión Europea y acción
+    exterior, sin perjuicio de las competencias de otros órganos autonómicos.**» El decreto no nombra la
+    CARUE;
+  - f) la cooperación territorial europea, en especial con el Algarve y el Alentejo, con los que
+    Andalucía forma la «**Eurorregión Alentejo-Algarve-Andalucía**».
+
+#### La Dirección General de Unión Europea (artículo 17)
+
+Le corresponden las atribuciones generales de las direcciones generales, «**así como la coordinación
+de las competencias de la Junta de Andalucía relacionadas con la pertenencia de España a la Unión
+Europea**», y en particular, en catorce letras (a-n):
+
+- a) y b) apoyo a la Secretaría General en la política de actuación ante las instituciones europeas y
+  asesoramiento a los órganos y entidades de la Junta;
+- c) apoyo en la participación y representación ante la UE, «**en especial la derivada de su
+  pertenencia al Comité Europeo de las Regiones**», y ante «**los órganos de coordinación con la
+  Administración General del Estado**»;
+- d) «**La coordinación de la posición de la Junta de Andalucía en relación con las políticas de la
+  Unión Europea ante las distintas instituciones**»;
+- e) el impulso, el seguimiento y la coordinación de las funciones relativas a la Delegación en
+  Bruselas (el solapamiento visto arriba);
+- f) y g) información, divulgación y formación sobre la Unión dirigidas a la sociedad andaluza, y la
+  coordinación de la «**Red de Información Europea de Andalucía**»;
+- h) «**El seguimiento y estudio de la normativa de la Unión Europea y el impulso de la participación
+  de la Junta de Andalucía en el proceso legislativo de la Unión Europea.**»;
+- i) la adaptación de la normativa autonómica al Derecho de la UE;
+- j) los procedimientos de infracción iniciados por la Comisión Europea en el ámbito de la Junta y los
+  asuntos del TJUE que afecten a las competencias de la Comunidad;
+- k) la notificación ante las instituciones europeas de ayudas públicas y de reglamentaciones técnicas;
+- l) «**Gestión y resolución de los casos del centro SOLVIT en los que la Junta de Andalucía sea
+  parte.**» (SOLVIT es el nombre, sin desarrollar, que da el decreto);
+- m) y n) cooperación territorial europea y relaciones transfronterizas con el Algarve y el Alentejo.
+

@@ -1728,8 +1728,8 @@ de septiembre de 2026):
 
 Para la acción social de 2026, la disposición adicional quinta de la Ley 8/2025 permite ayudas de
 atención a personas con discapacidad y otras; su apartado 3 remite, para el personal de las
-entidades instrumentales no sujeto al convenio del personal laboral de la Junta, a «su normativa
-reguladora». El tema no estudia su alcance para la RTVA.
+entidades instrumentales no sujeto al convenio del personal laboral de la Junta, a «**su normativa
+reguladora**». El tema no estudia su alcance para la RTVA.
 
 **Lo que no se ha podido confirmar**, y por eso el tema no lo afirma: cómo aplican hoy la RTVA y
 CSRTV la jornada, las vacaciones, los permisos, el complemento de IT o la acción social después de
@@ -1773,3 +1773,69 @@ SIGNIFICATIVAS DEL PUESTO**». Contadas por el campo de código, son **114** fic
 ocupa la mayor parte del BOJA (páginas 100 a 213) y el que la convocatoria de 2026 cita para el
 requisito de capacidad funcional (base 6.3).
 
+## Normativa que el tema invoca
+
+| Norma | Identificador | Redacción |
+| --- | --- | --- |
+| X Convenio Colectivo Interprovincial de la RTVA y sus Sociedades Filiales (Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales) | Código 71000253011989 · BOJA núm. 240, de 10/12/2014 | Texto publicado, sin modificaciones publicadas ni inscritas a 24/09/2026 |
+| Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | `BOE-A-2015-11430` | Vigente el 24/09/2026: arts. 3, 14, 34, 35, 37, 38, 46, 48, 60, 63 y 86 |
+| Real Decreto Legislativo 1/1995, de 24 de marzo (Estatuto de los Trabajadores de 1995) | — | Derogado; solo se cita porque lo invocan la resolución de publicación y el art. 58 del convenio |
+| Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado | `BOE-A-2025-15741` | Como norma modificadora del art. 48 del ET, convalidado (`BOE-A-2025-17999`) |
+| Ley 6/2024, de 20 de diciembre | `BOE-A-2024-26693` | Como norma modificadora del art. 37 del ET |
+| Real Decreto-ley 32/2021, de 28 de diciembre | `BOE-A-2021-21788` | Como norma modificadora del art. 86 del ET |
+| Real Decreto-ley 5/2023, de 28 de junio | `BOE-A-2023-15135` | Como norma modificadora del art. 46 del ET |
+| Ley 3/2012, de 21 de septiembre, de Medidas Fiscales, Administrativas, Laborales y en materia de Hacienda Pública para el reequilibrio económico-financiero de la Junta de Andalucía | `BOE-A-2012-13126` | Vigente el 24/09/2026: arts. 3, 5, 14, 19, 22, 23, 24, 25 y 28; arts. 26 y 32 derogados desde el 01/01/2025 (se ha leído también la redacción original del art. 26) |
+| Ley 7/2024, de 23 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2025 | `BOE-A-2025-413` | Disposición derogatoria única, letra e), y disposición adicional cuarta (texto del diario oficial) |
+| Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2026 | `BOE-A-2026-945` | Vigente el 24/09/2026: arts. 12.2 y 18.1 y disposiciones adicionales cuarta y quinta |
+| Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno, por el que se autoriza la fusión por absorción de «Canal Sur Televisión, S.A.» a «Canal Sur Radio, S.A.» | BOJA núm. 219, de 11/11/2015 | Apartado primero |
+| Reglamento de la Mesa de Contratación de RTVA y CSRTV | Sin publicación oficial; portales de transparencia de la RTVA y de CSRTV. La convocatoria lo fecha el 12/03/2026 | El publicado en 2026 |
+| Decreto-ley 1/2012, Decreto-ley 2/2010, Decreto-ley 2/2012, Ley 5/2012, Real Decreto-ley 5/2013, Real Decreto-ley 20/2012, Estatuto Básico del Empleado Público de 2007, Decreto 54/1989, Real Decreto 1148/2011, Ley 31/1995 y Real Decreto 39/1997 | — | Solo se nombran porque los cita el convenio; no se estudian |
+
+## Lo que este tema no da, y dónde está
+
+- **Cómo se aplican hoy en la empresa** la jornada, las vacaciones, los permisos, el complemento de
+  IT y la acción social tras la derogación de los artículos 26 y 32 de la Ley 3/2012 y la lista de
+  medidas que la Ley 8/2025 mantiene en 2026. No hay acuerdo publicado ni inscrito.
+- **El cuadro de licencias y permisos que pueda usar internamente la empresa**: no está publicado ni
+  en el BOJA, ni en el registro de convenios, ni en los portales de transparencia de la RTVA y de
+  CSRTV. Existe un cuadro sindical de 2017 («Permisos, licencias y reducciones de jornada en Canal
+  Sur - RTVA») que mezcla el convenio con permisos procedentes de normas de la Junta y de acuerdos de
+  la COMVI de 2016 no publicados; **no es fuente de derecho** y este tema no lo usa.
+- **Los acuerdos y reglamentos de la COMVI** que el convenio le encarga: no están publicados.
+- **Las tablas salariales posteriores a 2013**: no hay ninguna publicada ni inscrita.
+- **Cuál prevalece** cuando el convenio y el ET dicen cosas distintas: la relación entre ley y
+  convenio (artículo 3 del ET) no es objeto de este enunciado.
+- **El Reglamento de la Mesa de Contratación** en su conjunto (bolsas, baremos, procedimientos): aquí
+  solo se ve lo que desarrolla del convenio. El temario específico de jefe de sección de coordinación
+  territorial lo incluye.
+- **El Plan de Igualdad** de la RTVA y CSRTV y la normativa de igualdad: la DA 10.ª solo manda
+  negociarlo; la normativa andaluza y estatal de igualdad es el punto 8 del temario común.
+- **La prevención de riesgos laborales**: los artículos 25 a 31 remiten a la Ley 31/1995, que es el
+  punto 9 del temario común.
+- **La organización de la RTVA y de CSRTV** y la Ley 18/2007: punto 5 del temario común.
+- **Las prestaciones de Seguridad Social** (nacimiento y cuidado, cuidado de menores con cáncer, IT):
+  el tema solo da lo que dice el convenio sobre sus complementos.
+
+## Trazabilidad
+
+| | |
+| --- | --- |
+| **Norma** | X Convenio Colectivo Interprovincial para la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y sus Sociedades Filiales, Canal Sur Radio, S.A., Canal Sur TV, S.A., y sus trabajadores/as |
+| **Código** | 71000253011989 |
+| **Publicación** | BOJA núm. 240, de 10 de diciembre de 2014, páginas 49 a 213 (Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales) |
+| **Vigencia pactada** | Del 1 de enero de 2013 al 31 de diciembre de 2015 (art. 4); prorrogado (art. 5) |
+| **Texto leído** | El del BOJA, entero en el articulado, las disposiciones y los Anexos I y II; el Anexo III, por su estructura y recuento. Leído el 24 de septiembre de 2026 |
+
+Comprobaciones hechas sobre la fuente:
+
+1. **Recuentos** hechos sobre el cuerpo del BOJA: 74 artículos, 11 capítulos, 10 DA, 10 DT, 3
+   anexos, 114 fichas de puesto en el Anexo III, 66 grupos profesionales en el art. 45.
+2. **Transcripción literal** del artículo 33 y de la DT 3.ª comparada palabra por palabra con el
+   texto del BOJA: sin diferencias, salvo la unión de palabras cortadas a final de línea.
+3. **Registro de convenios** consultado el 24 de septiembre de 2026 por el código del convenio: sin
+   trámites posteriores a 2014.
+4. **Estatuto de los Trabajadores y Ley 3/2012** leídos en su redacción vigente el 24 de septiembre
+   de 2026, con la cadena de redacciones de cada precepto citado; la redacción original del artículo
+   26 de la Ley 3/2012 se ha leído también, porque la cita el tema.
+5. **Leyes 7/2024 y 8/2025**: la derogación de 2025 y la lista de medidas mantenidas en 2026 se han
+   leído en el texto de cada ley.

@@ -89,11 +89,11 @@ Autonomía, que es su norma institucional básica**» (artículo 1.3).
 
 Desde 2007 el texto solo ha cambiado en dos puntos, y ninguno por una reforma del Estatuto:
 
-- **Artículo 51** (Cuenca Hidrográfica del Guadalquivir). La sentencia del Tribunal
+- *Artículo 51* (Cuenca Hidrográfica del Guadalquivir). La sentencia del Tribunal
   Constitucional 30/2011, de 16 de marzo, dictada en el recurso de inconstitucionalidad
   5120-2007 que interpuso el Consejo de Gobierno de la Junta de Extremadura, lo declaró
   inconstitucional y nulo. El texto consolidado dice hoy solo «**(Anulado)**».
-- **Artículo 178.1** (tributos cedidos). Tiene tres redacciones: la original, la de la Ley
+- *Artículo 178.1* (tributos cedidos). Tiene tres redacciones: la original, la de la Ley
   18/2010, de 16 de julio (vigente desde el 18 de julio de 2010), y la de la Ley 32/2022, de
   27 de diciembre (vigente desde el 29 de diciembre de 2022). Estas leyes no reforman el
   Estatuto, porque el propio artículo 178.2 lo permite así (se explica en «Reforma del
@@ -101,7 +101,7 @@ Desde 2007 el texto solo ha cambiado en dos puntos, y ninguno por una reforma de
 
 ### Estructura
 
-El Estatuto tiene un preámbulo, **250 artículos** numerados correlativamente del 1 al 250, sin
+El Estatuto tiene un preámbulo, *250 artículos* numerados correlativamente del 1 al 250, sin
 artículos bis, repartidos en un título preliminar y diez títulos, y once disposiciones:
 cinco adicionales, dos transitorias, una derogatoria y tres finales.
 
@@ -122,26 +122,26 @@ cinco adicionales, dos transitorias, una derogatoria y tres finales.
 Los títulos se dividen en capítulos, veinticuatro en total, salvo el preliminar y los títulos
 III, VII, VIII y X, que no tienen:
 
-- **Título I**, cuatro capítulos: disposiciones generales (12 a 14); derechos y deberes (15 a
+- *Título I*, cuatro capítulos: disposiciones generales (12 a 14); derechos y deberes (15 a
   36); principios rectores de las políticas públicas (37); garantías (38 a 41).
-- **Título II**, dos: clasificación y principios (42 a 45); competencias (46 a 88).
-- **Título IV**, siete, con el artículo 99 («La Junta de Andalucía») delante del primero: el
+- *Título II*, dos: clasificación y principios (42 a 45); competencias (46 a 88).
+- *Título IV*, siete, con el artículo 99 («La Junta de Andalucía») delante del primero: el
   Parlamento de Andalucía (100 a 107); elaboración de las normas (108 a 116); el Presidente de
   la Junta (117 y 118); el Consejo de Gobierno (119 a 123); relaciones entre el Parlamento y el
   Consejo de Gobierno (124 a 127); otras instituciones de autogobierno (128 a 132); la
   Administración de la Junta de Andalucía (133 a 139).
-- **Título V**, tres: el Tribunal Superior de Justicia de Andalucía (140 a 143); el Consejo de
+- *Título V*, tres: el Tribunal Superior de Justicia de Andalucía (140 a 143); el Consejo de
   Justicia de Andalucía (144); competencias de la Junta en materia de administración de
   justicia (145 a 155).
-- **Título VI**, tres: economía (156 a 165); empleo y relaciones laborales (166 a 174); hacienda
+- *Título VI*, tres: economía (156 a 165); empleo y relaciones laborales (166 a 174); hacienda
   de la Comunidad Autónoma (175 a 194), este último con cuatro secciones: recursos, gasto
   público y presupuesto, haciendas locales y fiscalización externa del sector público andaluz.
-- **Título IX**, cinco: relaciones con el Estado; con otras Comunidades y Ciudades Autónomas;
+- *Título IX*, cinco: relaciones con el Estado; con otras Comunidades y Ciudades Autónomas;
   con las instituciones de la Unión Europea; acción exterior; cooperación al desarrollo.
 
 ### Contenido básico: el título preliminar
 
-**Andalucía y sus valores.** El artículo 1.1 dice que «**Andalucía, como nacionalidad histórica
+*Andalucía y sus valores.* El artículo 1.1 dice que «**Andalucía, como nacionalidad histórica
 y en el ejercicio del derecho de autogobierno que reconoce la Constitución, se constituye en
 Comunidad Autónoma en el marco de la unidad de la nación española y conforme al artículo 2 de
 la Constitución.**» Los valores superiores que propugna son cuatro: «**la libertad, la
@@ -149,10 +149,10 @@ justicia, la igualdad y el pluralismo político para todos los andaluces, en un 
 igualdad y solidaridad con las demás Comunidades Autónomas de España**» (1.2). Y «**La Unión
 Europea es ámbito de referencia de la Comunidad Autónoma**» (1.4).
 
-**Territorio.** «**El territorio de Andalucía comprende el de los municipios de las provincias
+*Territorio.* «**El territorio de Andalucía comprende el de los municipios de las provincias
 de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.**» (artículo 2).
 
-**Símbolos** (artículo 3):
+*Símbolos* (artículo 3):
 
 - La bandera es «**la tradicional formada por tres franjas horizontales -verde, blanca y
   verde- de igual anchura, tal como fue aprobada en la Asamblea de Ronda de 1918**».
@@ -163,7 +163,7 @@ de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.**» (a
 - «**El día de Andalucía es el 28 de febrero.**»
 - Su protección «**será la misma que corresponda a los demás símbolos del Estado**».
 
-**Capitalidad y sedes** (artículo 4). «**La capital de Andalucía es la ciudad de Sevilla, sede
+*Capitalidad y sedes* (artículo 4). «**La capital de Andalucía es la ciudad de Sevilla, sede
 del Parlamento, de la Presidencia de la Junta y del Consejo de Gobierno**», sin perjuicio de
 que estas instituciones puedan celebrar sesiones en otros lugares de Andalucía según el
 Reglamento del Parlamento y la ley. «**La sede del Tribunal Superior de Justicia es la ciudad de
@@ -171,7 +171,7 @@ Granada, sin perjuicio de que algunas Salas puedan ubicarse en otras ciudades de
 Autónoma.**» Por ley del Parlamento «**se podrán establecer**» sedes de organismos o
 instituciones en distintas ciudades, «**salvo aquellas sedes establecidas en este Estatuto**».
 
-**Condición política de andaluz** (artículo 5). La tienen «**los ciudadanos españoles que, de
+*Condición política de andaluz* (artículo 5). La tienen «**los ciudadanos españoles que, de
 acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los
 municipios de Andalucía**». Los españoles residentes en el extranjero gozan de los derechos
 políticos del Estatuto si han tenido en Andalucía la última vecindad administrativa y lo
@@ -182,20 +182,20 @@ artículo 6 reconoce a los andaluces en el exterior y a las comunidades andaluza
 fuera el derecho a participar en la vida del pueblo andaluz; esas comunidades «**podrán
 solicitar el reconocimiento de la identidad andaluza**».
 
-**Eficacia de las normas y derecho propio.** Las normas de las instituciones andaluzas tienen
+*Eficacia de las normas y derecho propio.* Las normas de las instituciones andaluzas tienen
 eficacia en su territorio y «**Podrán tener eficacia extraterritorial cuando así se deduzca de
 su naturaleza y en el marco del ordenamiento constitucional.**» (artículo 7). El derecho propio
 de Andalucía lo forman «**las leyes y normas reguladoras de las materias sobre las que la
 Comunidad Autónoma ostenta competencias**» (artículo 8).
 
-**Derechos y objetivos.** Todas las personas en Andalucía gozan «**como mínimo**» de los derechos
+*Derechos y objetivos.* Todas las personas en Andalucía gozan «**como mínimo**» de los derechos
 de la Declaración Universal de Derechos Humanos y de los instrumentos europeos e internacionales
 ratificados por España, con mención expresa de los dos Pactos Internacionales de 1966, el
 Convenio Europeo de Derechos Humanos y la Carta Social Europea (artículo 9.1); y se garantiza
 el respeto a las minorías (9.2). El artículo 10 fija los objetivos básicos: remover los
 obstáculos a la libertad y la igualdad, con «**todas las medidas de acción positiva que resulten
 necesarias**» (10.1); la igualdad del hombre y la mujer, «**promoviendo la democracia
-paritaria**» (10.2); y una lista de **veinticuatro objetivos básicos** (10.3, ordinales 1.º a
+paritaria**» (10.2); y una lista de *veinticuatro objetivos básicos* (10.3, ordinales 1.º a
 24.º). Entre ellos, el pleno empleo estable y de calidad (1.º), la educación permanente y de
 calidad (2.º), la identidad y la cultura andaluza (3.º), «**La defensa, promoción, estudio y
 prestigio de la modalidad lingüística andaluza en todas sus variedades**» (4.º), un sistema de
@@ -211,7 +211,7 @@ enseñanza de la Constitución y del Estatuto.
 
 ### Contenido básico: derechos, deberes, principios rectores y garantías (título I)
 
-**Titulares.** Son titulares de los derechos y deberes del título y destinatarios de sus
+*Titulares.* Son titulares de los derechos y deberes del título y destinatarios de sus
 políticas públicas «**todas las personas con vecindad administrativa en Andalucía**», sin
 perjuicio de lo que dice el artículo 30 sobre la participación política (artículo 12). Estos
 derechos y principios «**no supondrán una alteración del régimen de distribución de
@@ -219,13 +219,13 @@ competencias, ni la creación de títulos competenciales nuevos o la modificaci�
 existentes**», ni pueden interpretarse de modo que reduzcan los reconocidos por la Constitución
 o por los tratados (artículo 13).
 
-**Prohibición de discriminación** (artículo 14). Se prohíbe toda discriminación en los derechos,
+*Prohibición de discriminación* (artículo 14). Se prohíbe toda discriminación en los derechos,
 deberes y servicios del título, con una lista abierta de motivos que incluye, entre otros, el
 sexo, la lengua, la religión, las «**características genéticas**», la discapacidad, la edad y la
 «**orientación sexual**». La prohibición «**no impedirá acciones positivas**» en beneficio de
 sectores, grupos o personas desfavorecidas.
 
-**Derechos** (artículos 15 a 35). Veintiún artículos, cada uno con su rúbrica: igualdad de género
+*Derechos* (artículos 15 a 35). Veintiún artículos, cada uno con su rúbrica: igualdad de género
 (15); protección contra la violencia de género (16); protección de la familia (17), con el
 derecho de las parejas no casadas a inscribirse en un registro y, si lo hacen, a gozar «**de los
 mismos derechos que las parejas casadas**» en el ámbito de competencias de la Comunidad; menores
@@ -240,7 +240,7 @@ administración (31); protección de datos (32); cultura (33); acceso a las tecn
 información y de la comunicación (34); y orientación sexual (35), que protege la orientación
 sexual y la identidad de género.
 
-El derecho de **participación política** (artículo 30) corresponde a los andaluces «**Conforme al
+El derecho de *participación política* (artículo 30) corresponde a los andaluces «**Conforme al
 artículo 5**» y comprende cinco derechos: a) elegir a los miembros de los órganos
 representativos y concurrir como candidato; b) «**promover y presentar iniciativas legislativas
 ante el Parlamento de Andalucía**» y participar en la elaboración de las leyes; c) promover
@@ -248,14 +248,14 @@ consultas populares de la Junta o de los Ayuntamientos; d) el derecho de petici�
 colectiva, «**por escrito**»; e) participar activamente en la vida pública. La Junta los hará
 extensivos a los ciudadanos de la Unión Europea y a los extranjeros residentes (30.2).
 
-El derecho a una **buena administración** (artículo 31) comprende que la actuación de las
+El derecho a una *buena administración* (artículo 31) comprende que la actuación de las
 Administraciones sea proporcionada a sus fines, participar en las decisiones que afecten a cada
 uno, obtener información veraz, que los asuntos se traten de manera objetiva e imparcial y se
 resuelvan en un plazo razonable, y acceder a los archivos y registros públicos de Andalucía
 «**con las excepciones que la ley establezca**». La Ley 9/2007 lo desarrolla (se ve en la
 rúbrica b).
 
-**Deberes** (artículo 36.1). Siete, que el Estatuto establece y la ley desarrollará: a)
+*Deberes* (artículo 36.1). Siete, que el Estatuto establece y la ley desarrollará: a)
 contribuir al sostenimiento del gasto público «**en función de sus ingresos**»; b) conservar el
 medio ambiente; c) colaborar en las situaciones de emergencia; d) cumplir las obligaciones de la
 Administración electoral; e) usar de forma responsable y solidaria los servicios públicos; f)
@@ -263,7 +263,7 @@ cuidar y proteger el patrimonio público; g) «**Contribuir a la educación de l
 especialmente en la enseñanza obligatoria.**» Las empresas se ajustarán además a los principios
 ambientales del título VII (36.2).
 
-**Principios rectores** (artículo 37.1). Son **veinticinco** (1.º a 25.º) y orientan las
+*Principios rectores* (artículo 37.1). Son *veinticinco* (1.º a 25.º) y orientan las
 políticas públicas. Algunos que se preguntan: servicios públicos de calidad (1.º); la lucha
 contra «**el sexismo, la xenofobia, la homofobia y el belicismo**» (2.º); «**El uso de la lengua de
 signos española**» (6.º); el fomento de los sectores turístico y agroalimentario «**como
@@ -272,7 +272,7 @@ cultural, «**especialmente del flamenco**» (18.º); las energías renovables (
 las víctimas de delitos, «**especialmente los derivados de actos terroristas**» (24.º); y la
 protección civil ante emergencias (25.º).
 
-**Garantías** (artículos 38 a 41). La diferencia entre derechos y principios está aquí:
+*Garantías* (artículos 38 a 41). La diferencia entre derechos y principios está aquí:
 
 - La prohibición de discriminación del artículo 14 y los derechos del capítulo II «**vinculan a
   todos los poderes públicos andaluces y, dependiendo de la naturaleza de cada derecho, a los
@@ -303,7 +303,7 @@ está el artículo 158, base de las entidades instrumentales: la Comunidad «**p
 empresas públicas y otros entes instrumentales, con personalidad jurídica propia, para la
 ejecución de funciones de su competencia**».
 
-El **título VIII, Medios de comunicación social** (artículos 207 a 217), es el que toca a la
+El *título VIII, Medios de comunicación social* (artículos 207 a 217), es el que toca a la
 RTVA. Sus preceptos más preguntables:
 
 - Los poderes públicos velarán por las libertades del artículo 20 de la Constitución,
@@ -333,7 +333,7 @@ del temario común. El título X es la reforma, que cierra esta cabecera.
 
 El título II empieza con la clasificación. El artículo 42.1 menciona tres clases
 («**las competencias exclusivas, compartidas y ejecutivas sobre las materias incluidas en el
-presente Título**»), pero el 42.2, que es el que define, enumera **cuatro**. La Comunidad
+presente Título**»), pero el 42.2, que es el que define, enumera *cuatro*. La Comunidad
 «**asume mediante el presente Estatuto**»:
 
 1. «**Competencias exclusivas, que comprenden la potestad legislativa, la potestad reglamentaria
@@ -366,16 +366,16 @@ Además, la Comunidad ejercerá las competencias no previstas expresamente en el
 Estado, podrá ejercer actividades de inspección y sanción respecto a materias de competencia
 estatal**», mediante convenio o acuerdo (42.4).
 
-**Principios del ejercicio** (artículos 43 a 45):
+*Principios del ejercicio* (artículos 43 a 45):
 
-- **Alcance territorial.** Las competencias despliegan su eficacia en el territorio de
+- *Alcance territorial.* Las competencias despliegan su eficacia en el territorio de
   Andalucía, salvo los supuestos de eficacia extraterritorial previstos. Cuando el objeto de una
   competencia excede el territorio, la Comunidad ejerce su competencia «**sobre la parte de este
   objeto situada en su territorio**», sin perjuicio de los instrumentos de colaboración o,
   «**subsidiariamente**», de la coordinación por el Estado (artículo 43).
-- **Eficacia, proximidad y coordinación**: son los principios de todas las actuaciones de las
+- *Eficacia, proximidad y coordinación*: son los principios de todas las actuaciones de las
   Administraciones andaluzas en materia competencial (artículo 44).
-- **Fomento** (artículo 45). En las materias de su competencia la Comunidad otorga subvenciones
+- *Fomento* (artículo 45). En las materias de su competencia la Comunidad otorga subvenciones
   con fondos propios. Sobre las subvenciones territorializables del Estado y de la Unión Europea
   su papel depende de la clase de competencia: en las exclusivas «**especificará los
   objetivos**» y regula las condiciones y la gestión; en las compartidas «**precisará los
@@ -450,7 +450,7 @@ El artículo 69, por afectar a la RTVA, se cita entero:
 El título X regula dos procedimientos y la retirada de la propuesta. Los tres artículos tienen
 una sola redacción.
 
-**Procedimiento ordinario** (artículo 248):
+*Procedimiento ordinario* (artículo 248):
 
 - Iniciativa: «**La iniciativa de la reforma corresponderá al Gobierno o al Parlamento de
   Andalucía, a propuesta de una tercera parte de sus miembros, o a las Cortes Generales.**»
@@ -466,7 +466,7 @@ una sola redacción.
   una vez sea ratificada mediante ley orgánica por las Cortes Generales que llevará implícita
   la autorización de la consulta.**» (248.3).
 
-**Procedimiento simplificado** (artículo 249). Es potestativo («**se podrá proceder**») y solo
+*Procedimiento simplificado* (artículo 249). Es potestativo («**se podrá proceder**») y solo
 cabe «**cuando la reforma no afectara a las relaciones de la Comunidad Autónoma con el
 Estado**». Sus pasos:
 
@@ -483,34 +483,34 @@ Estado**». Sus pasos:
   Congreso de los Diputados, y se sigue el procedimiento ordinario, «**dándose por cumplidos los
   trámites del apartado 1.a)**» del artículo 248.
 
-El orden cambia respecto del ordinario: en el simplificado el referéndum va **antes** de la ley
+El orden cambia respecto del ordinario: en el simplificado el referéndum va *antes* de la ley
 orgánica; en el ordinario, después.
 
-**Retirada** (artículo 250). En cualquiera de los dos procedimientos, el Parlamento de Andalucía,
+*Retirada* (artículo 250). En cualquiera de los dos procedimientos, el Parlamento de Andalucía,
 «**por mayoría de tres quintos, podrá retirar la propuesta de reforma en tramitación ante
 cualquiera de las Cámaras de las Cortes Generales antes de que haya recaído votación final
 sobre la misma. En tal caso, no será de aplicación la limitación temporal prevista en el
 artículo 248.2.**»
 
-**El Reglamento del Parlamento no cuadra con el Estatuto en la mayoría.** El artículo 128.1 del
+*El Reglamento del Parlamento no cuadra con el Estatuto en la mayoría.* El artículo 128.1 del
 Reglamento del Parlamento dice que los proyectos y proposiciones de reforma del Estatuto, «**a
 que se refieren sus artículos 248 a 250**», necesitan para ser aprobados «**el voto favorable de
 los tres quintos de los miembros del Parlamento**». El artículo 248.1.b) del Estatuto exige
-**dos tercios**. Las dos normas están vigentes con esas cifras; la que responde a la pregunta
+*dos tercios*. Las dos normas están vigentes con esas cifras; la que responde a la pregunta
 «qué mayoría exige el Estatuto» es la de dos tercios, y el Reglamento del Parlamento, que es una
 norma del propio Parlamento, se remite expresamente a esos artículos del Estatuto. Los tres
-quintos del Estatuto son los de la **retirada** (artículo 250), no los de la aprobación.
+quintos del Estatuto son los de la *retirada* (artículo 250), no los de la aprobación.
 
-**Lo que cambia sin reforma del Estatuto:**
+*Lo que cambia sin reforma del Estatuto:*
 
-- **Los tributos cedidos.** «**El contenido de este artículo se podrá modificar mediante acuerdo
+- *Los tributos cedidos.* «**El contenido de este artículo se podrá modificar mediante acuerdo
   del Estado con la Comunidad Autónoma, que será tramitado como proyecto de ley. A estos
   efectos la modificación del presente artículo no se considerará modificación del
   Estatuto.**» (artículo 178.2). Así se modificó el 178.1 en 2010 y en 2022. Hoy cede el
   rendimiento de dieciséis tributos, letras a) a o) con la ñ); entre ellos el Impuesto sobre la
   Renta de las Personas Físicas y el Impuesto sobre el Valor Añadido, cada uno «**con carácter
   parcial, en el porcentaje del 50 por ciento**».
-- **Los territorios históricos.** Su incorporación a la Comunidad, si no están integrados en otra,
+- *Los territorios históricos.* Su incorporación a la Comunidad, si no están integrados en otra,
   «**se resolverá por las Cortes Generales, previo acuerdo de las partes interesadas y sin que
   ello suponga reforma del presente Estatuto, una vez que dichos territorios hayan vuelto a la
   soberanía española**» (disposición adicional primera).
@@ -649,17 +649,17 @@ principio de presencia equilibrada entre hombres y mujeres**» (artículo 107).
   requieren «**el voto favorable de la mayoría absoluta del Pleno del Parlamento en una votación
   final sobre el conjunto del texto**», salvo que el Estatuto exija mayoría cualificada
   (artículo 108).
-- **Iniciativa legislativa**: corresponde a los Diputados, en los términos del Reglamento del
+- *Iniciativa legislativa*: corresponde a los Diputados, en los términos del Reglamento del
   Parlamento, y al Consejo de Gobierno; una ley regula la de los Ayuntamientos y la popular
   (artículo 111).
-- **Decretos legislativos** (artículo 109). El Parlamento «**podrá delegar**» en el Consejo de
+- *Decretos legislativos* (artículo 109). El Parlamento «**podrá delegar**» en el Consejo de
   Gobierno la potestad de dictar normas con rango de ley. Quedan excluidas cinco materias: a) las
   leyes de reforma del Estatuto; b) las del presupuesto; c) las que requieran cualquier mayoría
   cualificada; d) las de desarrollo de los derechos y deberes del Estatuto; e) las demás que el
   Estatuto excluya. La delegación para textos articulados se otorga por ley de bases; la de
   refundición, por ley ordinaria. Se agota por el uso y no puede entenderse concedida de modo
   implícito o por tiempo indeterminado.
-- **Decretos-leyes** (artículo 110). «**En caso de extraordinaria y urgente necesidad**» el
+- *Decretos-leyes* (artículo 110). «**En caso de extraordinaria y urgente necesidad**» el
   Consejo de Gobierno puede dictarlos, pero no pueden afectar a los derechos del Estatuto, al
   régimen electoral ni a las instituciones de la Junta, y no pueden aprobar los presupuestos.
   «**Los decretos-leyes quedarán derogados si en el plazo improrrogable de treinta días
@@ -682,9 +682,9 @@ para formar grupo, el procedimiento legislativo y las funciones de la Junta de P
 fija que los grupos participan en la Diputación Permanente y en todas las Comisiones «**en
 proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento:
 
-- **Sesión constitutiva.** La preside inicialmente «**el Diputado o Diputada electo de mayor edad
+- *Sesión constitutiva.* La preside inicialmente «**el Diputado o Diputada electo de mayor edad
   de los presentes, asistido, en calidad de Secretarios, por los dos más jóvenes**» (artículo 2).
-- **La Mesa** es «**el órgano rector de la Cámara**» y la forman el Presidente, «**tres
+- *La Mesa* es «**el órgano rector de la Cámara**» y la forman el Presidente, «**tres
   Vicepresidentes y tres Secretarios**» (artículo 27). Se elige en la sesión constitutiva. Para
   Presidente resulta elegido quien obtenga la mayoría absoluta; si nadie la obtiene, se repite
   la votación entre los dos más votados y gana el que tenga más votos; si el empate persiste
@@ -692,16 +692,16 @@ proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento
   partidos o grupos «**con mayor respaldo electoral**» (artículo 34.1). La elección de la Mesa se
   repite si las sentencias de los recursos contencioso-electorales cambian la titularidad de más
   del 10 % de los escaños o hacen perder la mayoría absoluta a un grupo (33.2).
-- **Grupos parlamentarios.** Se constituyen con Diputados «**en número no inferior a cinco**»
+- *Grupos parlamentarios.* Se constituyen con Diputados «**en número no inferior a cinco**»
   (artículo 20.1), dentro de los cinco días siguientes a la sesión constitutiva (21.1). Quien no
   se integra en un grupo pasa a ser Diputado no adscrito, salvo si pertenece a una candidatura
   que no puede formar grupo propio, que va al Grupo Mixto (22.2).
-- **Junta de Portavoces.** La forman los portavoces de los grupos bajo la presidencia del
+- *Junta de Portavoces.* La forman los portavoces de los grupos bajo la presidencia del
   Presidente del Parlamento, se reúne «**al menos, quincenalmente durante los períodos ordinarios
   de sesiones**» y decide «**atendiendo al criterio de voto ponderado**» (artículo 38).
-- **Pleno.** Lo convoca su Presidente, o a solicitud de «**dos Grupos parlamentarios o de una
+- *Pleno.* Lo convoca su Presidente, o a solicitud de «**dos Grupos parlamentarios o de una
   quinta parte de los Diputados**» (artículo 55).
-- **Comisiones.** El Estatuto dice que el Parlamento «**funcionará en Pleno y Comisiones**»; el
+- *Comisiones.* El Estatuto dice que el Parlamento «**funcionará en Pleno y Comisiones**»; el
   Pleno puede delegar en las Comisiones legislativas la aprobación de proyectos y proposiciones
   de ley y recabarla en cualquier momento, pero se reserva siempre las leyes de contenido
   presupuestario y tributario y las que requieran mayoría cualificada (artículo 103.2). Según el
@@ -715,12 +715,12 @@ proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento
   Filiales**». El Pleno puede variar las Comisiones permanentes en los primeros seis meses de
   cada legislatura y, durante un mes, tras una reestructuración del Consejo de Gobierno, sin que
   eso se considere reforma del Reglamento (46.4), y crear otras permanentes durante la legislatura (artículo 50).
-- **Comisiones de investigación.** Pueden pedirlas el Consejo de Gobierno, un grupo o la décima
+- *Comisiones de investigación.* Pueden pedirlas el Consejo de Gobierno, un grupo o la décima
   parte de los miembros de la Cámara. Si ningún grupo se opone en siete días desde su
   publicación, se entiende creada; si alguno se opone, decide el Pleno, que rechaza su creación
   «**si se opone la mayoría de los miembros de la Cámara**». Sus conclusiones «**no serán
   vinculantes para los tribunales ni afectarán a las resoluciones judiciales**» (artículo 52).
-- **Diputación Permanente.** La preside el Presidente del Parlamento y la forman la Mesa y los
+- *Diputación Permanente.* La preside el Presidente del Parlamento y la forman la Mesa y los
   miembros que completen el número fijado para las Comisiones, en proporción a los grupos
   (artículo 57). Vela por los poderes de la Cámara cuando no está reunida, ha sido disuelta o ha
   expirado su mandato; en particular, convoca al Parlamento «**por acuerdo de la mayoría
@@ -1120,29 +1120,29 @@ de la Comunidad Autónoma.**»
 *Elección.* «**El Presidente de la Junta será elegido de entre sus miembros por el
 Parlamento.**» (artículo 118.1 del Estatuto): tiene que ser Diputado. El procedimiento:
 
-1. **Propuesta.** El Presidente del Parlamento, «**previa consulta a los Portavoces designados
+1. *Propuesta.* El Presidente del Parlamento, «**previa consulta a los Portavoces designados
    por los partidos o grupos políticos con representación parlamentaria**», propone un candidato
    (118.2). El Reglamento del Parlamento añade que la propuesta debe hacerse, como máximo,
    «**dentro del plazo de quince días desde la constitución del Parlamento o desde la dimisión
    del Presidente**» (artículo 138.1).
-2. **Programa.** El candidato presenta su programa al Parlamento (118.3); según el Reglamento del
+2. *Programa.* El candidato presenta su programa al Parlamento (118.3); según el Reglamento del
    Parlamento lo expone sin limitación de tiempo, la sesión se suspende hasta el día siguiente y
    después intervienen los grupos (138.3 y 138.4).
-3. **Votación.** «**Para ser elegido, el candidato deberá, en primera votación, obtener mayoría
+3. *Votación.* «**Para ser elegido, el candidato deberá, en primera votación, obtener mayoría
    absoluta. De no obtenerla, se procederá a una nueva votación cuarenta y ocho horas después de
    la anterior, y la confianza se entenderá otorgada si obtuviera mayoría simple en la segunda o
    sucesivas votaciones.**» (118.3).
-4. **Si nadie la obtiene.** Se tramitan sucesivas propuestas. «**Si, transcurrido el plazo de dos
+4. *Si nadie la obtiene.* Se tramitan sucesivas propuestas. «**Si, transcurrido el plazo de dos
    meses a partir de la primera votación, ningún candidato hubiera obtenido la mayoría simple, el
    Parlamento quedará automáticamente disuelto y el Presidente de la Junta en funciones
    convocará nuevas elecciones.**» (118.3).
-5. **Nombramiento.** «**Una vez elegido, el Presidente será nombrado por el Rey**» y designa a
+5. *Nombramiento.* «**Una vez elegido, el Presidente será nombrado por el Rey**» y designa a
    los miembros del Consejo de Gobierno (118.4). El nombramiento se publica en el BOE y en el
    BOJA (artículo 5 de la Ley 6/2006), y el Presidente toma posesión «**dentro de los cinco días
    siguientes al de la publicación de su nombramiento en el Boletín Oficial de la Junta de
    Andalucía**» (artículo 6).
 
-**El Reglamento del Parlamento no cuadra con el Estatuto en el paso 4.** Su artículo 138.7
+*El Reglamento del Parlamento no cuadra con el Estatuto en el paso 4.* Su artículo 138.7
 reproduce la primera parte del 118.3 del Estatuto, pero termina de otra forma: si en dos meses
 ninguna candidatura obtiene la mayoría simple, «**quedará designado Presidente o Presidenta de la
 Junta de Andalucía el candidato o candidata del partido que tenga mayor número de escaños**». El
@@ -1154,18 +1154,18 @@ un año entre disoluciones.
 
 *Estatuto personal* (Ley 6/2006, capítulo IV del título I, y Estatuto):
 
-- **Derechos** (artículo 15): la precedencia sobre cualquier autoridad de la Comunidad «**y la que
+- *Derechos* (artículo 15): la precedencia sobre cualquier autoridad de la Comunidad «**y la que
   le reserve la legislación del Estado**»; los honores del cargo; usar la bandera y el escudo de
   Andalucía como distintivo; «**Percibir las retribuciones establecidas en su normativa
   específica**» (letra d, en la redacción del Decreto-ley 11/2023, de 27 de diciembre, vigente desde el 27 de
   diciembre de 2023; antes decía «**Percibir las retribuciones que se fijen en las leyes del
   Presupuesto de la Comunidad Autónoma**»); y ocupar la residencia oficial.
-- **Incompatibilidades.** El Estatuto fija la regla básica: «**El Presidente y los Consejeros no
+- *Incompatibilidades.* El Estatuto fija la regla básica: «**El Presidente y los Consejeros no
   podrán ejercer actividad laboral, profesional o empresarial alguna.**» (artículo 121). La ley la
   completa: la Presidencia es incompatible con cualquier otra función o actividad pública que no
   derive de ella, «**salvo la de diputado o diputada en el Parlamento de Andalucía**», y le es
   aplicable el régimen de incompatibilidades de los altos cargos (artículo 16).
-- **Fuero.** «**La responsabilidad penal del Presidente de la Junta será exigible ante la Sala de
+- *Fuero.* «**La responsabilidad penal del Presidente de la Junta será exigible ante la Sala de
   lo Penal del Tribunal Supremo. Ante el mismo Tribunal será exigible la responsabilidad civil en
   que hubiera incurrido el Presidente de la Junta con ocasión del ejercicio de su cargo.**»
   (artículo 118.5 del Estatuto). La Ley 6/2006 dice que la responsabilidad civil y penal «**será
@@ -1191,16 +1191,16 @@ ordinaria del Estado en Andalucía**». Además:
 
 La Ley 6/2006 las ordena en cuatro grupos:
 
-1. **Como suprema representación de la Comunidad** (artículo 7): a) representarla en las
+1. *Como suprema representación de la Comunidad* (artículo 7): a) representarla en las
    relaciones con otras instituciones del Estado y en el ámbito internacional cuando proceda; b)
    firmar los convenios y acuerdos de cooperación de la Comunidad.
-2. **Como representación ordinaria del Estado en Andalucía** (artículo 8): a) promulgar en nombre
+2. *Como representación ordinaria del Estado en Andalucía* (artículo 8): a) promulgar en nombre
    del Rey las leyes de Andalucía y ordenar su publicación en el BOJA y en el BOE; b) ordenar la
    publicación en el BOJA del nombramiento del Presidente del TSJA.
-3. **En relación con el Parlamento** (artículo 9), cinco: a) convocar elecciones; b) disolverlo;
+3. *En relación con el Parlamento* (artículo 9), cinco: a) convocar elecciones; b) disolverlo;
    c) plantear la cuestión de confianza; d) solicitar que se reúna en sesión extraordinaria; e)
    convocar la sesión constitutiva.
-4. **Como Presidente del Consejo de Gobierno** (artículo 10.1), trece letras, de la a) a la m):
+4. *Como Presidente del Consejo de Gobierno* (artículo 10.1), trece letras, de la a) a la m):
    fijar las directrices generales de la acción de gobierno y asegurar su continuidad (a);
    coordinar el programa legislativo (b) y la acción exterior (c); facilitar al Parlamento la
    información que recabe (d); «**Nombrar y separar a las personas titulares de las
@@ -1264,14 +1264,14 @@ la ley es más larga.
 políticamente ante el Parlamento de forma solidaria, sin perjuicio de la responsabilidad directa
 de cada Consejero por su gestión.**» (artículo 124 del Estatuto). Los instrumentos son tres:
 
-- **Cuestión de confianza** (artículo 125 del Estatuto). El Presidente, «**previa deliberación
+- *Cuestión de confianza* (artículo 125 del Estatuto). El Presidente, «**previa deliberación
   del Consejo de Gobierno**», puede plantearla sobre su programa o sobre una declaración de
   política general. «**La confianza se entenderá otorgada cuando vote a favor de la misma la
   mayoría simple de los Diputados.**» Si se niega, el Presidente dimite y el Presidente del
   Parlamento convoca, «**en el plazo máximo de quince días**», el pleno para elegir nuevo
   Presidente por el procedimiento del artículo 118. El Reglamento del Parlamento añade que no
   puede votarse hasta que transcurran veinticuatro horas desde su presentación (artículo 145.2).
-- **Moción de censura** (artículo 126 del Estatuto). El Parlamento exige la responsabilidad
+- *Moción de censura* (artículo 126 del Estatuto). El Parlamento exige la responsabilidad
   política del Consejo de Gobierno «**mediante la adopción por mayoría absoluta de la moción de
   censura**». Debe proponerla «**al menos, una cuarta parte de los parlamentarios**» e incluir un
   candidato a la Presidencia; no puede votarse «**hasta que transcurran cinco días desde su
@@ -1279,14 +1279,14 @@ de cada Consejero por su gestión.**» (artículo 124 del Estatuto). Los instrum
   de sesiones. Si se aprueba, el Presidente dimite, el candidato se entiende investido y el Rey
   lo nombra. Según el Reglamento del Parlamento, en los dos días siguientes pueden presentarse
   mociones alternativas (140.3); si se aprueba una, no se votan las demás (141.6).
-- **Disolución** (artículo 127 del Estatuto). El Presidente, «**previa deliberación del Consejo
+- *Disolución* (artículo 127 del Estatuto). El Presidente, «**previa deliberación del Consejo
   de Gobierno y bajo su exclusiva responsabilidad, podrá decretar la disolución del
   Parlamento**»; el decreto fija la fecha de las elecciones. No cabe con una moción de censura en
   trámite, ni «**antes de que haya transcurrido un año desde la anterior, salvo lo dispuesto en el
   artículo 118.3**». El decreto se publica en el BOJA y entra en vigor el mismo día de su
   publicación (artículo 42 de la Ley 6/2006).
 
-**Otra discordancia, menor.** El artículo 41.3 de la Ley 6/2006 repite el plazo de un año entre
+*Otra discordancia, menor.* El artículo 41.3 de la Ley 6/2006 repite el plazo de un año entre
 disoluciones («**al menos, un año desde la última disolución de la Cámara**») sin la salvedad del
 artículo 118.3 que sí trae el Estatuto (la disolución automática por investidura fallida no
 cuenta). La salvedad es del Estatuto.
@@ -1316,19 +1316,19 @@ en su caso, y de las Consejerías (18.1), y también son miembros «**los Consej
 Consejeras sin cartera**» (18.2). En las designaciones que hace el Presidente, «**cada sexo estará
 representado en, al menos, un cuarenta por ciento**» (18.3).
 
-- **Vicepresidencias.** El Presidente «**podrá**» crear una o varias, con su orden de prelación;
+- *Vicepresidencias.* El Presidente «**podrá**» crear una o varias, con su orden de prelación;
   quien la ocupe puede ser además titular de una Consejería; y «**El cese de la persona titular de
   una Vicepresidencia llevará aparejada la supresión del órgano.**» (artículo 19).
-- **Consejerías.** Sus titulares forman parte del Consejo y dirigen los órganos superiores de la
+- *Consejerías.* Sus titulares forman parte del Consejo y dirigen los órganos superiores de la
   Administración que se les asignen (20.1). Como miembros del Consejo tienen ocho atribuciones:
   desarrollar la acción del Gobierno en su ámbito, representar su Consejería, proponer al Consejo
   anteproyectos de ley, proyectos de decreto, el programa de actuación y los nombramientos de
   altos cargos, declarar la urgencia de las iniciativas normativas según el artículo 45 bis,
   formular propuestas sobre asuntos de su Consejería que deba decidir el Consejo, y las demás que
   les correspondan (artículo 21).
-- **Consejeros sin cartera.** El Presidente puede nombrarlos, con determinadas funciones pero
+- *Consejeros sin cartera.* El Presidente puede nombrarlos, con determinadas funciones pero
   «**sin adscripción de unidades administrativas**»; su cese también suprime el órgano (20.2).
-- **Nombramiento, suplencia y cese.** Los nombra y cesa el Presidente; el nombramiento se publica
+- *Nombramiento, suplencia y cese.* Los nombra y cesa el Presidente; el nombramiento se publica
   en el BOJA y el mandato se inicia con la toma de posesión; los ceses surten efecto desde la
   fecha que fije el decreto (artículo 22). En caso de vacante, ausencia o enfermedad, el
   Presidente encarga el despacho ordinario a otro miembro del Consejo (artículo 23). Vicepresidentes
@@ -1336,7 +1336,7 @@ representado en, al menos, un cuarenta por ciento**» (18.3).
   nombramiento, fallecimiento, sentencia firme de inhabilitación, sentencia firme de
   incapacitación y determinadas incompatibilidades de la Ley 3/2005 (artículo 24, en la redacción
   de la Ley 2/2021).
-- **Estatuto.** Tienen el mismo régimen de incompatibilidades que el Presidente (artículo 25) y
+- *Estatuto.* Tienen el mismo régimen de incompatibilidades que el Presidente (artículo 25) y
   el fuero del artículo 122 del Estatuto: penal ante la Sala de lo Penal del Tribunal Supremo,
   salvo los delitos cometidos en el territorio de Andalucía, que van al TSJA; civil ante el TSJA
   (artículo 26 de la Ley 6/2006).
@@ -1381,30 +1381,30 @@ Técnica y el Gabinete Jurídico y, finalmente, se pide dictamen del Consejo Con
 *Funcionamiento* (título III de la Ley 6/2006). Se rige por la ley, por los decretos de la
 Presidencia y del Consejo y por sus disposiciones organizativas internas (artículo 28).
 
-- **Convocatoria.** Lo convoca el Presidente. También puede reunirse sin convocatoria previa
+- *Convocatoria.* Lo convoca el Presidente. También puede reunirse sin convocatoria previa
   «**cuando así lo decida la persona titular de la Presidencia de la Junta de Andalucía y se hallen
   presentes todas las personas integrantes del órgano**» (artículo 29).
-- **Quórum y mayoría.** «**Los acuerdos del Consejo de Gobierno se adoptarán por mayoría. En caso
+- *Quórum y mayoría.* «**Los acuerdos del Consejo de Gobierno se adoptarán por mayoría. En caso
   de empate, el voto de la Presidencia es dirimente.**» Para la constitución y la validez de
   deliberaciones y acuerdos se requiere «**la presencia del Presidente o la Presidenta y de, al
   menos, la mitad del resto de las personas miembros del Consejo de Gobierno**»; si el Presidente
   no puede asistir, le sustituye quien corresponda según el orden de suplencia (artículo 30.1 y
   30.2).
-- **Acta.** Figuran en ella, «**exclusivamente**», el tiempo y el lugar de la reunión, los
+- *Acta.* Figuran en ella, «**exclusivamente**», el tiempo y el lugar de la reunión, los
   asistentes, los acuerdos adoptados y los informes presentados (30.3).
-- **Transparencia y secreto** (artículo 31, en la redacción de la Ley 1/2014, de 24 de junio, de
+- *Transparencia y secreto* (artículo 31, en la redacción de la Ley 1/2014, de 24 de junio, de
   Transparencia Pública de Andalucía, vigente desde el 30 de junio de 2015). El Gobierno hace
   público antes de cada reunión el orden del día y, después, los acuerdos aprobados; pero «**las
   deliberaciones del Consejo de Gobierno, así como las opiniones o votos emitidos en él, tendrán
   carácter secreto**», y sus miembros deben guardarlo aun cuando dejen de pertenecer al Consejo.
   Quienes asistan sin ser miembros, para informar o por razones de trabajo, también están
   obligados a guardar secreto (artículo 32).
-- **Medios telemáticos.** El Consejo puede funcionar a distancia, garantizando la identidad de
+- *Medios telemáticos.* El Consejo puede funcionar a distancia, garantizando la identidad de
   los comunicantes y la autenticidad de los mensajes (artículo 33).
-- **Secretaría.** La ejerce el titular de la Consejería competente en materia de Presidencia, que
+- *Secretaría.* La ejerce el titular de la Consejería competente en materia de Presidencia, que
   remite las convocatorias, levanta acta, certifica los acuerdos y vela por su publicación en el
   BOJA; existe además una Secretaría de Actas del Consejo (artículo 34).
-- **Forma de las decisiones** (artículo 46): los decretos acordados en Consejo de Gobierno llevan
+- *Forma de las decisiones* (artículo 46): los decretos acordados en Consejo de Gobierno llevan
   la firma del Presidente y del Consejero proponente (y, si afectan a varias Consejerías, la del
   titular de la de Presidencia); los acuerdos que no deben tomar forma de decreto se firman del
   mismo modo; las órdenes son de los Vicepresidentes y Consejeros.
@@ -1504,25 +1504,25 @@ asistidos por una Secretaría General «**con voz y sin voto**». Cada sexo debe
 en al menos un cuarenta por ciento de los miembros designados en cada caso, excluidos los que lo
 son por su cargo.
 
-- **Presidencia** (artículo 6). La nombra por Decreto el Presidente de la Junta, «**oído el Consejo
+- *Presidencia* (artículo 6). La nombra por Decreto el Presidente de la Junta, «**oído el Consejo
   de Gobierno**», entre juristas de reconocido prestigio «**con una experiencia superior a quince
   años**». Ostenta la representación del Consejo.
-- **Permanentes** (artículo 7). Lo son, «**hasta que cumplan setenta y cinco años de edad**», las
+- *Permanentes* (artículo 7). Lo son, «**hasta que cumplan setenta y cinco años de edad**», las
   personas que hayan sido Presidente de la Junta de Andalucía. Se nombran por Decreto del Consejo
   de Gobierno «**a solicitud de la persona interesada**» y su dedicación es exclusiva y a tiempo
   completo.
-- **Electivos** (artículo 8). «**en número de seis**», nombrados por Decreto del Consejo de
+- *Electivos* (artículo 8). «**en número de seis**», nombrados por Decreto del Consejo de
   Gobierno entre juristas de reconocido prestigio con más de quince años de experiencia, con
   dedicación exclusiva; el Consejo de Gobierno puede designar «**hasta cuatro**» más sin
   exclusividad. En ambos casos, «**por un período de cinco años, pudiendo ser reelegidos por una
   sola vez**».
-- **Natos** (artículo 9), cinco: a) quien presida una de las Reales Academias de Legislación y
+- *Natos* (artículo 9), cinco: a) quien presida una de las Reales Academias de Legislación y
   Jurisprudencia de Andalucía, designado por el Instituto de Academias de Andalucía; b) el Fiscal
   Superior de Andalucía; c) un representante del Consejo Andaluz de Colegios de Abogados,
   designado entre los decanos; d) el titular del órgano directivo competente en Administración
   local; e) el titular del Gabinete Jurídico de la Junta. Conservan la condición mientras ostenten
   el cargo; las dos designaciones (a y c) se ratifican o renuevan cada cinco años (artículo 11).
-- **Secretaría General** (artículo 13). La nombra el Consejo de Gobierno, a propuesta de la
+- *Secretaría General* (artículo 13). La nombra el Consejo de Gobierno, a propuesta de la
   Presidencia del Consejo Consultivo y oído su Pleno, entre juristas funcionarios de carrera.
 
 *Cese* (artículo 10). Los consejeros permanentes y electivos cesan por siete causas:
@@ -1574,23 +1574,23 @@ de anteproyectos de ley (artículo 19). Eleva una memoria anual al Consejo de Go
 
 *Funcionamiento.*
 
-- **Órganos** (artículo 21). Actúa en Pleno, en Comisión Permanente, en su caso en secciones, y en
+- *Órganos* (artículo 21). Actúa en Pleno, en Comisión Permanente, en su caso en secciones, y en
   Comisión de Estudios y Análisis Normativo. El Pleno dictamina los números 1 y 2 del artículo 17
   (reforma del Estatuto y anteproyectos de ley); la Comisión Permanente, los demás y los
   facultativos, salvo que por la importancia del asunto lo pidan al Pleno el Presidente de la
   Junta o el Consejo de Gobierno.
-- **Pleno**: la Presidencia y los consejeros permanentes, natos y electivos (artículo 22).
-  **Comisión Permanente**: la Presidencia y los seis electivos a tiempo completo (artículo 23).
-  **Comisión de Estudios y Análisis Normativo**: la Presidencia, los seis electivos a tiempo
+- *Pleno*: la Presidencia y los consejeros permanentes, natos y electivos (artículo 22).
+  *Comisión Permanente*: la Presidencia y los seis electivos a tiempo completo (artículo 23).
+  *Comisión de Estudios y Análisis Normativo*: la Presidencia, los seis electivos a tiempo
   completo y los permanentes (artículo 24).
-- **Quién pide el dictamen** (artículo 25): el Presidente de la Junta, el Consejo de Gobierno o
+- *Quién pide el dictamen* (artículo 25): el Presidente de la Junta, el Consejo de Gobierno o
   cualquiera de sus miembros; en las entidades locales, su presidente o el Pleno; en las
   universidades, el rector.
-- **Quórum y acuerdos** (artículo 26): la Presidencia o quien la sustituya, un número de miembros
+- *Quórum y acuerdos* (artículo 26): la Presidencia o quien la sustituya, un número de miembros
   que con ella formen «**la mayoría absoluta**» y la persona que ejerza la Secretaría General. Los
   acuerdos se adoptan «**por mayoría absoluta de votos de los asistentes**» y, en caso de empate,
   decide la Presidencia «**con su voto de calidad**». Cabe voto particular por escrito.
-- **Plazos** (artículo 28): el Consejo evacúa las consultas «**en el plazo de treinta días**»
+- *Plazos* (artículo 28): el Consejo evacúa las consultas «**en el plazo de treinta días**»
   desde la recepción de la solicitud; en los números 3 y 4 del artículo 17, «**veinte días**»;
   con urgencia, quince días como máximo, salvo que el Presidente de la Junta o el Consejo de
   Gobierno fijen uno inferior. Si el dictamen no es vinculante y el plazo pasa sin emitirlo,
@@ -1652,7 +1652,7 @@ dependen de ella y se integran en su Administración (133.3). Completan el capí
 *En la Ley 9/2007.* El capítulo I de su título I se titula «**Principios de organización, actuación
 y atención a la ciudadanía**». Su artículo 3 dice que la Administración sirve con objetividad al
 interés general «**a través de sus órganos y entidades instrumentales**» y se organiza y actúa de
-acuerdo con **veintiún** principios, letras a) a t) con la ñ):
+acuerdo con *veintiún* principios, letras a) a t) con la ñ):
 
 - a) eficacia; b) jerarquía; c) descentralización funcional; d) desconcentración funcional y
   territorial; e) coordinación; f) lealtad institucional; g) buena fe; h) confianza legítima; i)
@@ -1700,35 +1700,35 @@ lealtad institucional (artículo 8).
 *La atención a la ciudadanía* (título IV, capítulo I, «Derechos de la ciudadanía ante la
 actuación administrativa»):
 
-- **Publicidad y transparencia** (artículo 79, en la redacción de la Ley 1/2014, vigente desde el
+- *Publicidad y transparencia* (artículo 79, en la redacción de la Ley 1/2014, vigente desde el
   30 de junio de 2015): la actuación administrativa se desarrolla «**con el máximo respeto a los
   principios de publicidad y transparencia**», con los límites de la intimidad y otros derechos,
   y se reconocen el derecho a la publicidad activa y el de acceso a la información pública en los
   términos de la Ley de Transparencia Pública de Andalucía.
-- **Información** (artículo 80). Toda la ciudadanía tiene derecho a ser informada sobre los
+- *Información* (artículo 80). Toda la ciudadanía tiene derecho a ser informada sobre los
   servicios de la Administración y los asuntos que le afecten; reglamentariamente se determinan
   los medios para prestar servicios de interpretación en lengua de signos española. La
   Administración está obligada a informar de su organización y servicios (con páginas web
   «**claras, completas, accesibles y actualizadas**»), sobre los procedimientos vigentes y los medios
   de impugnación y reclamación, y a adoptar «**estrategias multicanales de atención a la
   ciudadanía**». Informa también a las comunidades andaluzas asentadas fuera de Andalucía.
-- **Petición** (artículo 81). Cualquier ciudadano puede ejercerlo según la Constitución y su ley
+- *Petición* (artículo 81). Cualquier ciudadano puede ejercerlo según la Constitución y su ley
   orgánica; las peticiones pueden expresar sugerencias sobre el funcionamiento de los servicios.
-- **Registro Electrónico Único** (artículos 82 a 84, en la redacción del Decreto-ley 3/2024, de 6
+- *Registro Electrónico Único* (artículos 82 a 84, en la redacción del Decreto-ley 3/2024, de 6
   de febrero). La Administración de la Junta dispone de un registro electrónico único para ella,
   sus agencias administrativas y, cuando ejerzan potestades administrativas, las agencias
   públicas empresariales, las de régimen especial y los consorcios adscritos; está asistido por
   oficinas de asistencia en materia de registros, y las personas interesadas tienen derecho a no
   aportar documentos que ya estén en poder de la Administración.
-- **Sugerencias y reclamaciones** (artículo 85, en la redacción de la Ley 4/2012, de 21 de
+- *Sugerencias y reclamaciones* (artículo 85, en la redacción de la Ley 4/2012, de 21 de
   septiembre). En todas las Consejerías, Delegaciones del Gobierno, Delegaciones Provinciales,
   Delegaciones Territoriales y agencias habrá a disposición de la ciudadanía un libro para
   formular sugerencias o reclamaciones, «**sin que estas últimas tengan el carácter de recurso
   administrativo**».
-- **Acceso a la información pública** (artículo 86, en la redacción de la Ley 1/2014): la
+- *Acceso a la información pública* (artículo 86, en la redacción de la Ley 1/2014): la
   ciudadanía puede acceder a la información pública, archivos y registros en los términos de la
   Constitución y de las leyes de transparencia estatal y andaluza.
-- **Protección de datos** (artículo 87): derecho de acceso, corrección y cancelación de los datos
+- *Protección de datos* (artículo 87): derecho de acceso, corrección y cancelación de los datos
   personales en poder de la Administración de la Junta.
 
 ### La organización central y territorial de la Administración de la Junta de Andalucía
@@ -1774,7 +1774,7 @@ Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
 
 - «**La Administración de la Junta de Andalucía se organiza en Consejerías, a las que corresponde
   la gestión de uno o varios sectores de actividad.**» (artículo 23).
-- **Estructura interna** (artículo 24.1). Además de su titular, cada Consejería comprende como
+- *Estructura interna* (artículo 24.1). Además de su titular, cada Consejería comprende como
   órganos centrales la Viceconsejería, la Secretaría General Técnica y las Direcciones Generales;
   «**Podrán crearse, además, Secretarías Generales.**» La estructura se aprueba por decreto del
   Consejo de Gobierno. Desde el 23 de octubre de 2025 (Decreto-ley 4/2025, de 22 de octubre), el
@@ -1783,10 +1783,10 @@ Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
   dos Viceconsejerías y Secretarías Generales Técnicas en ámbitos competenciales
   diferenciados**». El Decreto 189/2026 lo ha aplicado a la Consejería de Presidencia, Sanidad y
   Emergencias, que tiene una Viceconsejería de Presidencia y otra de Sanidad y Consumo.
-- **Jerarquía** (artículo 25). Los Consejeros desempeñan la jefatura superior de la Consejería y
+- *Jerarquía* (artículo 25). Los Consejeros desempeñan la jefatura superior de la Consejería y
   son superiores directos de los Viceconsejeros; los demás órganos directivos se ordenan así:
   Secretaría General, Secretaría General Técnica y Dirección General.
-- **Consejeros** (artículo 26). Ostentan la representación de la Consejería y ejercen la superior
+- *Consejeros* (artículo 26). Ostentan la representación de la Consejería y ejercen la superior
   dirección, iniciativa, coordinación, inspección, evaluación y potestad reglamentaria en su
   ámbito. Además de sus atribuciones como miembros del Consejo de Gobierno, el 26.2 les da trece,
   letras a) a m): entre ellas, la potestad reglamentaria en los términos de la Ley 6/2006,
@@ -1795,22 +1795,22 @@ Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
   Consejería, autorizar gastos, suscribir contratos y convenios, resolver recursos y la revisión
   de oficio, la responsabilidad patrimonial y la potestad sancionadora, salvo que correspondan
   al Consejo de Gobierno.
-- **Viceconsejeros** (artículo 27). Son los «**superiores órganos directivos**»: tienen la
+- *Viceconsejeros* (artículo 27). Son los «**superiores órganos directivos**»: tienen la
   representación ordinaria de la Consejería después del titular, lo suplen, forman parte de la
   Comisión General de Viceconsejeros y Viceconsejeras, dirigen los servicios comunes y
   desempeñan «**la jefatura superior de todo el personal de la Consejería**».
-- **Secretarías Generales** (artículo 28): dirigen un sector homogéneo de actividad de la
+- *Secretarías Generales* (artículo 28): dirigen un sector homogéneo de actividad de la
   Consejería susceptible de gestión diferenciada.
-- **Secretarías Generales Técnicas** (artículo 29): dependen directamente del Viceconsejero,
+- *Secretarías Generales Técnicas* (artículo 29): dependen directamente del Viceconsejero,
   gestionan los servicios comunes (producción normativa, asistencia jurídica, recursos humanos,
   gestión financiera y patrimonial, medios materiales) y «**tendrán rango de Director
   General**».
-- **Direcciones Generales** (artículo 30): gestionan una o varias áreas funcionales homogéneas.
-- **Órganos interdepartamentales y de participación.** Las comisiones interdepartamentales son
+- *Direcciones Generales* (artículo 30): gestionan una o varias áreas funcionales homogéneas.
+- *Órganos interdepartamentales y de participación.* Las comisiones interdepartamentales son
   órganos colegiados en los que están representadas dos o más Consejerías y las crea el Consejo
   de Gobierno (artículo 31); los órganos de participación ciudadana no tienen competencias
   decisorias (artículo 32).
-- **Órganos horizontales.** La Consejería competente en materia de Administración Pública tiene
+- *Órganos horizontales.* La Consejería competente en materia de Administración Pública tiene
   las competencias sobre personal, organización, procedimiento e inspección de servicios
   (artículo 33); el Instituto Andaluz de Administración Pública es una agencia administrativa
   adscrita a ella (artículo 34). El Gabinete Jurídico es el órgano directivo encargado de la
@@ -1823,7 +1823,7 @@ Ley 6/2006 hace el Presidente de la Junta por decreto (artículo 10.1.h).
 *La organización territorial* (capítulo III del título II; los artículos 35 y 36, en la redacción
 de la Ley 4/2012; los artículos 37 y 39, en la del Decreto-ley 3/2024).
 
-- **Órganos territoriales provinciales** (artículo 35.1): «**las Delegaciones del Gobierno de la
+- *Órganos territoriales provinciales* (artículo 35.1): «**las Delegaciones del Gobierno de la
   Junta de Andalucía, las Delegaciones Provinciales de las Consejerías y, en su caso, las
   Delegaciones Territoriales**». Las Delegaciones Territoriales pueden crearse por decreto del
   Consejo de Gobierno, a propuesta de la Consejería competente en materia de Presidencia; su
@@ -1831,7 +1831,7 @@ de la Ley 4/2012; los artículos 37 y 39, en la del Decreto-ley 3/2024).
   las Delegaciones Provinciales afectadas (35.2). Pueden crearse además estructuras de ámbito
   provincial o inferior, bajo la coordinación de la Delegación del Gobierno o de la Delegación
   correspondiente (35.3).
-- **Delegaciones del Gobierno** (artículo 36.1). Sus titulares «**son las representantes de este
+- *Delegaciones del Gobierno* (artículo 36.1). Sus titulares «**son las representantes de este
   en la provincia, gozando en dicho ámbito territorial de la condición de primera autoridad de la
   Administración de la Junta de Andalucía**». Se nombran y separan por decreto del Consejo de
   Gobierno, a propuesta del Consejero de la Consejería a la que estén adscritas, bajo cuya
@@ -1847,7 +1847,7 @@ de la Ley 4/2012; los artículos 37 y 39, en la del Decreto-ley 3/2024).
   velar por el cumplimiento de las normas y actos de la Junta. Ejercen además la potestad
   sancionadora que tengan atribuida y la que no esté atribuida a otro órgano en su territorio
   (37.2).
-- **Delegaciones Provinciales de las Consejerías** (artículos 38 a 40). Sus titulares representan
+- *Delegaciones Provinciales de las Consejerías* (artículos 38 a 40). Sus titulares representan
   a la Consejería en la provincia y dirigen los servicios de la Delegación, bajo la superior
   dirección del Consejero; se nombran por decreto del Consejo de Gobierno (artículo 38). Tienen
   cinco funciones (artículo 39): representación ordinaria de la Consejería y de sus agencias;
@@ -1897,7 +1897,7 @@ la competencia de la Comunidad Autónoma en régimen de descentralización funci
 Agencias de régimen especial.**» (54.2). Tienen las potestades administrativas precisas para sus
 fines, «**salvo la potestad expropiatoria**» (artículo 55).
 
-- **Creación** (artículo 56). Las agencias administrativas y las públicas empresariales se crean
+- *Creación* (artículo 56). Las agencias administrativas y las públicas empresariales se crean
   «**por ley**», que fija el tipo de entidad, sus fines y sus peculiaridades de recursos,
   personal y régimen fiscal; sus estatutos se aprueban por decreto del Consejo de Gobierno. Las
   de régimen especial requieren «**autorización previa por ley**» y se crean con la aprobación
@@ -2037,34 +2037,34 @@ la Radio y Televisión de Andalucía**» (artículo 4.3.g).
 
 ## Lo que este tema no da, y dónde está
 
-- **El resto del Estatuto** con detalle: la organización territorial (título III) y la
+- *El resto del Estatuto* con detalle: la organización territorial (título III) y la
   distribución de competencias entre el Estado y las Comunidades en la Constitución están en el
   punto 1 del temario común; las relaciones con la Unión Europea y la representación de la Junta
   ante ella, en el punto 3; la hacienda autonómica (título VI) no la pide el enunciado.
-- **El régimen de la RTVA y de CSRTV** (órganos, Dirección General, mayoría para elegirla,
+- *El régimen de la RTVA y de CSRTV* (órganos, Dirección General, mayoría para elegirla,
   Contrato-Programa, la situación actual de las filiales) y la Ley 10/2018 audiovisual de
   Andalucía: puntos 4 y 5 del temario común.
-- **La sentencia del Tribunal Constitucional 30/2011**: el tema da lo que dice su título en el
+- *La sentencia del Tribunal Constitucional 30/2011*: el tema da lo que dice su título en el
   BOE y el efecto en el texto consolidado; no se ha leído el texto de la sentencia. No se ha
   comprobado si hay sentencias interpretativas de otros preceptos del Estatuto que no anulen
   texto.
-- **El referéndum de 2007** que ratificó el Estatuto vigente: no se ha leído ninguna fuente con
+- *El referéndum de 2007* que ratificó el Estatuto vigente: no se ha leído ninguna fuente con
   su fecha ni su resultado.
-- **El reparto de escaños por provincia** en las últimas elecciones y el número de Senadores
+- *El reparto de escaños por provincia* en las últimas elecciones y el número de Senadores
   autonómicos: dependen de los decretos de convocatoria, que no se han leído.
-- **La planta del TSJA** (número de magistrados, Salas con sede fuera de Granada) y el
-  **Consejo de Justicia de Andalucía**: la ley de planta no se ha leído, y el tema no ha
+- *La planta del TSJA* (número de magistrados, Salas con sede fuera de Granada) y el
+  *Consejo de Justicia de Andalucía*: la ley de planta no se ha leído, y el tema no ha
   encontrado la regulación de ese Consejo en la LOPJ vigente.
-- **El reglamento de régimen interior de la Oficina Andaluza contra el Fraude** y si su
+- *El reglamento de régimen interior de la Oficina Andaluza contra el Fraude* y si su
   Dirección está nombrada: no confirmados.
-- **El decreto que regula la Comisión General de Viceconsejeros y Viceconsejeras** (el Decreto
-  155/1988 que cita el Decreto 189/2026) y las **Comisiones Delegadas** que existen hoy: no se han
+- *El decreto que regula la Comisión General de Viceconsejeros y Viceconsejeras* (el Decreto
+  155/1988 que cita el Decreto 189/2026) y las *Comisiones Delegadas* que existen hoy: no se han
   leído.
-- **La convalidación del Decreto-ley 11/2023**, que dio su redacción actual al artículo 15.d de la
+- *La convalidación del Decreto-ley 11/2023*, que dio su redacción actual al artículo 15.d de la
   Ley 6/2006: no se ha podido confirmar en las fuentes leídas.
-- **El tipo de agencia pública empresarial** (letra a o b del artículo 68.1 de la Ley 9/2007) que
+- *El tipo de agencia pública empresarial* (letra a o b del artículo 68.1 de la Ley 9/2007) que
   corresponde a la RTVA: ninguna norma leída lo dice.
-- **El procedimiento administrativo** de la Ley 9/2007 (título IV, capítulo II y siguientes) y la
+- *El procedimiento administrativo* de la Ley 9/2007 (título IV, capítulo II y siguientes) y la
   función pública andaluza: no los pide este enunciado.
 
 ## Trazabilidad
@@ -2079,14 +2079,14 @@ la Radio y Televisión de Andalucía**» (artículo 4.3.g).
 
 Comprobaciones hechas sobre las fuentes:
 
-1. Todos los preceptos citados se han leído el **24 de septiembre de 2026** en su redacción
+1. Todos los preceptos citados se han leído el *24 de septiembre de 2026* en su redacción
    vigente ese día, en el texto consolidado del BOE; los de la LOPJ, con su cadena de
    redacciones; el Reglamento del Parlamento, en el texto consolidado que publica el propio
    Parlamento, vigente desde el 22 de octubre de 2025, porque el BOE no lo consolida.
-2. **Estatuto**: solo dos preceptos tienen más de una redacción, el 51 (anulado) y el 178 (tres
+2. *Estatuto*: solo dos preceptos tienen más de una redacción, el 51 (anulado) y el 178 (tres
    redacciones, sin reforma cruzada). Recontados sobre el índice: 250 artículos, once títulos
    contando el preliminar, veinticuatro capítulos y once disposiciones.
-3. **Recuentos cerrados comprobados contando**: cuatro clases de competencias (42.2);
+3. *Recuentos cerrados comprobados contando*: cuatro clases de competencias (42.2);
    veinticuatro objetivos (10.3); veintiún artículos de derechos (15 a 35); siete deberes (36.1);
    veinticinco principios rectores (37.1); diecinueve funciones del Parlamento (106); cinco
    competencias del TSJA (142); quince principios del artículo 133.1 del Estatuto y veintiuno del
@@ -2096,7 +2096,7 @@ Comprobaciones hechas sobre las fuentes:
    veintidós del Consejo de Gobierno (27); catorce consultas preceptivas al Consejo Consultivo
    (17); dieciséis funciones de la Oficina (9.1); nueve funciones de los Delegados del Gobierno
    (37.1) y cinco de los Delegados Provinciales (39).
-4. **Discordancias entre normas que el tema señala donde aparecen**: la mayoría para aprobar la
+4. *Discordancias entre normas que el tema señala donde aparecen*: la mayoría para aprobar la
    reforma del Estatuto (Estatuto 248.1.b frente a Reglamento del Parlamento 128.1); la
    investidura fallida (Estatuto 118.3 frente a Reglamento del Parlamento 138.7); el plazo entre
    disoluciones (Estatuto 127.3 frente a Ley 6/2006, 41.3); el fuero del Presidente (Estatuto
