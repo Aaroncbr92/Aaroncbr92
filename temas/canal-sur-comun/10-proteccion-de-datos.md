@@ -1757,3 +1757,273 @@ de 1996); el 2, tres (la vigente desde el 15 de febrero de 1990); el 7 y el 9, l
 del artículo 2.2 (el texto consolidado no permite identificar con seguridad cuál; no se precisa
 aquí).
 
+### Los menores
+
+Es donde más normas se superponen, y cada una tiene su propio umbral o su propia prohibición.
+
+**Ley 13/2022, artículo 95. Derechos de los menores en el ámbito audiovisual.** Está en el capítulo
+I («Protección de los menores») del título VI, que regula las obligaciones de los prestadores del
+servicio de comunicación audiovisual televisivo:
+
+1. Los menores tienen derecho a que «**su imagen y su voz no se utilicen en los servicios de
+   comunicación audiovisual sin su consentimiento o el de su representante legal, de acuerdo con la
+   normativa vigente**».
+2. «**Está prohibida la difusión del nombre, la imagen u otros datos que permitan la identificación
+   de los menores en el contexto de hechos delictivos, de emisiones en las que se discuta su tutela
+   o filiación, o relativas a situaciones en las que menores hayan sido víctimas de violencia en
+   cualquiera de sus manifestaciones.**» Tres supuestos: hechos delictivos, tutela o filiación, y
+   víctimas de violencia.
+3. Los datos personales de menores recogidos o generados de otro modo por prestadores del servicio
+   de comunicación audiovisual televisivo «**no podrán ser tratados con fines comerciales, como
+   mercadotecnia directa, elaboración de perfiles o publicidad personalizada basada en el
+   comportamiento**». En todo caso, el tratamiento de datos de menores queda sometido al artículo
+   8 del Reglamento y al artículo 7 de la LOPDGDD.
+
+El artículo 83.1 extiende el artículo 95 a la radio: el servicio de comunicación audiovisual
+radiofónico y el sonoro a petición «**se realizará de conformidad con lo establecido en el
+artículo 95**».
+
+**Ley 13/2022, artículo 96. Códigos de conducta en informativos.** La autoridad audiovisual
+competente «**promoverá**» entre los prestadores del servicio televisivo, lineal y a petición, la
+adopción de códigos de conducta para dar un tratamiento adecuado a los menores en noticiarios y
+programas de contenido informativo de actualidad en los que: a) se informe de que un menor se ha
+visto involucrado, de cualquier modo, en una situación de riesgo o violencia, «**incluso si no llega
+a ser un hecho constitutivo de delito**»; b) aparezcan menores en situaciones de vulnerabilidad.
+Para la radio, el artículo 83.2 remite a los mismos términos.
+
+**Ley 13/2022, plataformas de intercambio de vídeos.** El artículo 90 repite para ellas la
+prohibición de uso comercial de los datos de menores (el texto cita el Reglamento como «Reglamento
+(UE) 679/2016», con los números invertidos). El artículo 89.1 les obliga, entre otras medidas, a
+«**Establecer y operar sistemas de verificación de edad**» (letra e) y a «**Facilitar sistemas de
+control parental**» (letra f). La CNMC evalúa la idoneidad de las medidas de los artículos 89, 90 y
+91 «**previo informe preceptivo y no vinculante de la Agencia Española de Protección de Datos**»
+(93.3), sin perjuicio de las potestades de la AEPD (93.6). Los artículos 89 y 90 rigen desde el 9 de
+octubre de 2022; el resto de los que se citan de esta ley, desde el 9 de julio de 2022, y ninguno ha
+sido modificado.
+
+**Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, artículo 4** (una sola
+redacción):
+
+- 4.2: la difusión de información o la utilización de imágenes o nombre de los menores en los
+  medios de comunicación que puedan implicar una intromisión ilegítima en su intimidad, honra o
+  reputación, o que sea contraria a sus intereses, «**determinará la intervención del Ministerio
+  Fiscal**», que instará de inmediato las medidas cautelares y de protección y solicitará las
+  indemnizaciones que correspondan.
+- 4.3, la salvedad que hay que retener: es intromisión ilegítima cualquier utilización de su imagen
+  o su nombre en los medios de comunicación que pueda implicar menoscabo de su honra o reputación,
+  o que sea contraria a sus intereses, «**incluso si consta el consentimiento del menor o de sus
+  representantes legales**». Por eso el consentimiento del artículo 95.1 de la Ley 13/2022 es
+  necesario, pero no siempre suficiente.
+
+**LOPDGDD, artículos 84 y 92.**
+
+- Artículo 84.1: los padres, madres, tutores, curadores o representantes legales procurarán que los
+  menores hagan un uso equilibrado y responsable de los dispositivos digitales y de los servicios
+  de la sociedad de la información. 84.2: la utilización o difusión de imágenes o información
+  personal de menores «**en las redes sociales y servicios de la sociedad de la información
+  equivalentes**» que puedan implicar una intromisión ilegítima en sus derechos fundamentales
+  «**determinará la intervención del Ministerio Fiscal**», que instará las medidas de la LO 1/1996.
+- Artículo 92: los centros educativos y cualesquiera personas físicas o jurídicas que desarrollen
+  actividades en las que participen menores garantizarán la protección del interés superior del
+  menor y sus derechos fundamentales, especialmente el derecho a la protección de datos, en la
+  publicación o difusión de sus datos a través de servicios de la sociedad de la información.
+  Cuando esa difusión sea a través de redes sociales o servicios equivalentes, «**deberán contar
+  con el consentimiento del menor o sus representantes legales, conforme a lo prescrito en el
+  artículo 7 de esta ley orgánica**», es decir, con la regla de los catorce años.
+
+Las edades, juntas: el Reglamento fija dieciséis años para el consentimiento del niño en servicios
+de la sociedad de la información y permite bajarlo hasta trece (artículo 8.1); la LOPDGDD lo fija en
+«mayor de catorce años» (artículo 7); la Ley Orgánica 1/1982 no fija edad y atiende a la madurez
+(artículo 3); y la Ley 13/2022 exige el consentimiento del menor o de su representante legal «de
+acuerdo con la normativa vigente» (artículo 95.1).
+
+### La Ley 13/2022, General de Comunicación Audiovisual
+
+Además de lo ya visto (artículos 4.3, 83, 89, 90, 93, 95 y 96), tres reglas de datos:
+
+- **Artículo 141.3 (publicidad híbrida o interactiva).** Si los prestadores emplean técnicas de
+  publicidad híbrida o interactiva, deberán respetar el Reglamento y la LOPDGDD «**respecto al
+  consentimiento de los usuarios y el tratamiento de sus datos personales**».
+- **Disposición adicional cuarta. Protección de datos de carácter personal.** El tratamiento de
+  datos regulado en la ley se hará conforme al Reglamento y a la LOPDGDD (DA 4.ª.1). El del Registro
+  estatal de prestadores tiene como base jurídica el cumplimiento de una obligación legal del
+  Ministerio (DA 4.ª.2), y en cumplimiento del principio de minimización se inscriben de
+  representantes y titulares de participaciones significativas solo cinco datos: «**Nombre y
+  apellidos, domicilio, Documento Nacional de identidad o pasaporte, correo electrónico, y
+  teléfono**» (DA 4.ª.3). Los datos del Registro estatal «**serán públicos, de libre acceso y
+  reutilizables**» en los términos del artículo 40 (DA 4.ª.7).
+- **Quién sanciona.** Son infracciones muy graves (artículo 157):
+  - 157.9: «**La difusión del nombre, la imagen u otros datos que permitan la identificación de
+    menores en el contexto de hechos delictivos o en emisiones que discutan su tutela o filiación,
+    vulnerando lo previsto en los artículos 83.1 y 95.2.**» El tipo recoge dos de los tres
+    supuestos del 95.2: no menciona el de los menores víctimas de violencia.
+  - 157.10: el incumplimiento de la prohibición de tratar con fines comerciales los datos
+    personales de menores recogidos o generados por prestadores del servicio de comunicación
+    audiovisual y de intercambio de vídeos a través de plataforma (artículos 83.1, 95.3 y 90).
+
+  Y el artículo 155.5 reparte: «**La Agencia Española de Protección de Datos ejercerá las
+  competencias de supervisión, control y la potestad sancionadora en el caso de que se trate de la
+  infracción muy grave del artículo 157.10.**» Para los servicios de ámbito autonómico, como los de
+  Canal Sur, la supervisión, el control y la potestad sancionadora audiovisual corresponden a la
+  autoridad audiovisual de cada comunidad autónoma, de conformidad con su normativa (155.4).
+
+### La Ley 10/2018, audiovisual de Andalucía
+
+- **Artículo 17. Protección de datos personales en el ámbito audiovisual** (una sola redacción).
+  Las personas físicas prestadoras de servicios de comunicación audiovisual facilitarán los datos
+  personales requeridos para su incorporación al Registro de personas prestadoras y para el
+  ejercicio de las competencias de la Junta de Andalucía y del Consejo Audiovisual de Andalucía. Los
+  tratamientos observarán la normativa de protección de datos (17.2). «**En ningún caso se tratarán
+  categorías especiales de datos**», solo datos identificativos, de contacto, económicos, de
+  localización de inmuebles, de transacciones de bienes y servicios, comerciales, mercantiles y
+  societarios (17.3). Y los datos, al margen de las cesiones legalmente obligatorias, solo podrán
+  cederse a órganos judiciales, a otros órganos de las Administraciones públicas o al Consejo
+  Audiovisual de Andalucía, para fines compatibles (17.4).
+- **Artículo 31.1, obligaciones de los prestadores ante la ciudadanía**, en la redacción que le dio
+  el Decreto-ley 3/2024, de 6 de febrero, vigente desde el 17 de febrero de 2024:
+  - e) «**Respetar el derecho al honor, a la intimidad y a la propia imagen de las personas,
+    especialmente de los menores de edad y de las personas con discapacidad.**»
+  - f) Está prohibida, conforme al artículo 95.2 de la Ley 13/2022, la difusión de los nombres,
+    imágenes y otros datos personales que permitan identificar a las personas menores de edad en
+    el contexto de hechos delictivos, de emisiones en las que se discuta su tutela o filiación, o
+    relativos a situaciones en las que los menores hayan sido víctimas de violencia.
+- **Artículo 66.3.c)**, en la misma redacción: corresponde al Consejo Audiovisual de Andalucía la
+  potestad sancionadora sobre las infracciones de los apartados 1, 2, 3, 9 y 11 a 16 del artículo
+  157 de la Ley 13/2022, entre ellas la del 157.9 (identificación de menores). El 157.10 (uso
+  comercial de datos de menores) no está en esa lista, lo que cuadra con el artículo 155.5 de la Ley
+  13/2022, que lo atribuye a la AEPD. Y en las infracciones graves del artículo 158 que le
+  atribuye, lo hace «**sin perjuicio de las competencias de las autoridades de control en materia de
+  protección de datos personales**».
+
+### La RTVA y CSRTV
+
+- **Qué son.** La RTVA «**es una Agencia Pública Empresarial**» y «**goza de personalidad
+  jurídica propia**» (artículo 5.1 y 5.2 de la Ley 18/2007, de 17 de diciembre, de la radio y
+  televisión de titularidad autonómica gestionada por la RTVA). El artículo 9 de esa ley, que no se
+  ha modificado, atribuye todavía la prestación del servicio a dos sociedades mercantiles del sector
+  público andaluz, Canal Sur Radio, S.A. y Canal Sur Televisión, S.A. Las dos se fusionaron en una:
+  el Acuerdo del Consejo de Gobierno de 3 de noviembre de 2015 (BOJA núm. 219, de 11 de noviembre de
+  2015) autorizó la fusión por absorción de Canal Sur Televisión, S.A. por Canal Sur Radio, S.A. y
+  el cambio de denominación a «**Canal Sur Radio y Televisión, Sociedad Anónima (Canal Sur)**».
+- **Sus principios.** El artículo 4.1 de la Ley 18/2007 dice que la actividad de la RTVA y de sus
+  sociedades filiales se inspirará, entre otros, en «**El derecho al honor, a la intimidad personal
+  y familiar y a la propia imagen**» (letra d) y en «**La protección de la juventud y de la
+  infancia**» (letra e). La ley no tiene ningún precepto específico sobre protección de datos.
+- **Qué autoridad de control y qué régimen sancionador.** Las dos preguntas quedan abiertas, como
+  se ha dicho en la rúbrica anterior: que la autoridad de control sea el Consejo de Transparencia y
+  Protección de Datos de Andalucía, y que la RTVA encaje en el artículo 77.1.d) de la LOPDGDD, son
+  inferencias de los preceptos citados, no reglas confirmadas.
+
+### Qué le toca a una producción de radio o televisión
+
+Reunido en un solo sitio, y con el precepto detrás, lo que esta materia impone en el trabajo
+diario:
+
+| Situación | Regla |
+|---|---|
+| Grabar a personas identificables | Es tratamiento (art. 4.2 del Reglamento) y necesita una base de licitud del artículo 6; si el fin es periodístico, el Reglamento prevé excepciones que cada Estado debe fijar por ley (art. 85), y la supresión no se aplica cuando el tratamiento sea necesario para la libertad de expresión e información (art. 17.3.a) |
+| Usar la imagen o la voz de alguien con fines publicitarios o comerciales | Es intromisión ilegítima sin consentimiento expreso (arts. 2.2 y 7.6 de la LO 1/1982); el consentimiento es revocable, indemnizando (art. 2.3) |
+| Imagen de un cargo público en un acto público, o de una persona accesoria en un suceso público | No es intromisión (art. 8.2.a y c de la LO 1/1982), salvo funciones que necesiten el anonimato |
+| Recoger el consentimiento de un participante para tratar sus datos | Libre, específico, informado e inequívoco, por declaración o clara acción afirmativa (art. 6 LOPDGDD); si hay varias finalidades, debe constar para todas ellas |
+| Participante mayor de catorce años | Puede consentir por sí mismo el tratamiento de sus datos (art. 7.1 LOPDGDD) |
+| Participante menor de catorce años | Hace falta el consentimiento del titular de la patria potestad o tutela (art. 7.2 LOPDGDD) |
+| Imagen y voz de un menor en antena | Consentimiento del menor o de su representante legal (art. 95.1 Ley 13/2022); aun con él, es intromisión si perjudica su honra o sus intereses (art. 4.3 LO 1/1996) |
+| Menor en una noticia de sucesos, de tutela o filiación, o víctima de violencia | Prohibido difundir nombre, imagen u otros datos que lo identifiquen (art. 95.2 Ley 13/2022 y art. 31.1.f Ley 10/2018); infracción muy grave (art. 157.9 Ley 13/2022) que sanciona en Andalucía el Consejo Audiovisual (art. 66.3.c Ley 10/2018) |
+| Datos de menores espectadores con fines comerciales | Prohibido (art. 95.3 Ley 13/2022); infracción muy grave (157.10) que sanciona la AEPD (155.5) |
+| Difundir imágenes de menores en redes sociales | Consentimiento del menor o de sus representantes conforme al artículo 7 (art. 92 LOPDGDD), y la difusión que suponga intromisión ilegítima activa al Ministerio Fiscal (art. 84.2) |
+| Datos de salud, ideología, religión, origen racial, vida sexual | Categorías especiales: prohibidos salvo excepción del artículo 9.2 del Reglamento, y el solo consentimiento no basta cuando la finalidad principal sea identificarlos (art. 9.1 LOPDGDD) |
+| Una persona pide rectificar una noticia | Escrito al director en siete días naturales; difusión en tres días, íntegra, gratuita y sin comentarios (arts. 2 y 3 LO 2/1984); en el archivo digital, aviso aclaratorio visible junto a la noticia (art. 85.2 LOPDGDD) |
+| Una persona absuelta pide que se actualice una noticia sobre su detención | Aviso de actualización visible que haga referencia a la decisión judicial posterior (art. 86 LOPDGDD) |
+| Agenda de contactos de proveedores | Amparada por interés legítimo presunto si se limita a los datos de localización profesional y a relacionarse con la persona jurídica (art. 19 LOPDGDD) |
+| Cámaras de seguridad en el centro de trabajo | Finalidad de seguridad; dispositivo informativo visible; supresión en un mes; setenta y dos horas para entregar a la autoridad (art. 22); y prohibición en vestuarios, aseos, comedores y análogos (art. 89.2) |
+| Control del correo o del ordenador de un trabajador | Solo para controlar las obligaciones laborales y garantizar la integridad del dispositivo, con criterios de utilización en cuya elaboración participan los representantes y de los que se informa (art. 87) |
+| Geolocalizar un vehículo o un equipo | Información previa, expresa, clara e inequívoca, incluida la de los derechos de acceso, rectificación, limitación y supresión (art. 90) |
+| Escribir a un compañero fuera de su jornada | Choca con el derecho a la desconexión digital (art. 88), cuyas modalidades fija la negociación colectiva |
+| Contratar una productora externa que trate datos | Es encargada del tratamiento: hace falta contrato u otro acto jurídico escrito con el contenido del artículo 28.3 del Reglamento, y encargarlo sin él es infracción grave (art. 73.k LOPDGDD) |
+| Enviar material con datos personales a un país fuera de la Unión | Transferencia internacional: exige decisión de adecuación, garantías del artículo 46.2 o autorización previa de la autoridad (arts. 40 a 42 LOPDGDD) |
+| Perder un disco o sufrir un acceso no autorizado | Violación de seguridad: notificación a la autoridad en 72 horas salvo que sea improbable el riesgo, y comunicación al afectado si el riesgo es alto (arts. 33 y 34 del Reglamento) |
+| Una petición de acceso o de supresión | Respuesta en un mes, prorrogable dos más; gratuita; y la prueba de haber respondido recae en el responsable (art. 12 LOPDGDD y 12.3 del Reglamento) |
+
+## Normativa que el tema invoca
+
+| Norma | Identificador | Redacción |
+| --- | --- | --- |
+| Reglamento (UE) 2016/679, Reglamento general de protección de datos | `DOUE-L-2016-80807` | Texto original, sin consolidar, con sus dos correcciones de errores (`DOUE-L-2018-80845` y `DOUE-L-2021-80264`); sin modificaciones el 24/09/2026 |
+| Reglamento (UE) 2025/2518, normas procedimentales adicionales sobre la garantía del cumplimiento del Reglamento (UE) 2016/679 | ELI `http://data.europa.eu/eli/reg/2025/2518/oj` | Artículos 1 y 37; aplicable a partir del 02/04/2027 |
+| Constitución Española | `BOE-A-1978-31229` | Artículos 18, 20.4, 53.2, 81.1 y 149.1.1.ª, 7.ª y 18.ª; una sola redacción |
+| Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | `BOE-A-2018-16673` | Vigente el 24/09/2026 (última modificación: Ley 10/2025, en vigor el 28/12/2025) |
+| Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción | `BOE-A-2023-4513` | Como norma modificadora (art. 24 LOPDGDD) y título VI (arts. 29 y 32), vigente el 24/09/2026 |
+| Ley 11/2023, de 8 de mayo, de trasposición de Directivas de la Unión Europea en materia de accesibilidad, migración de personas altamente cualificadas, tributaria y digitalización de actuaciones notariales y registrales | `BOE-A-2023-11022` | Como norma modificadora (arts. 48, 50, 53 bis, 64 a 67, 75 y 77 y DA 23.ª LOPDGDD) |
+| Ley 10/2025, de 26 de diciembre, por la que se regulan los servicios de atención a la clientela | `BOE-A-2025-26698` | Como norma modificadora (art. 23.1 LOPDGDD) |
+| Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de Educación | `BOE-A-2020-17264` | Como norma modificadora (art. 83 LOPDGDD) |
+| Sentencia del Tribunal Constitucional 76/2019, de 22 de mayo | `BOE-A-2019-9548` | Solo su fallo, a través del texto consolidado de la disposición final tercera |
+| Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales | `BOE-A-2021-8806` | Artículos 1, 58 y 63 y disposiciones finales novena y undécima, vigentes el 24/09/2026 (una sola redacción) |
+| Real Decreto 389/2021, de 1 de junio, por el que se aprueba el Estatuto de la Agencia Española de Protección de Datos | `BOE-A-2021-9175` | Disposición derogatoria única, vigente el 24/09/2026 |
+| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Artículos 32 y 82; una sola redacción |
+| Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía | `BOE-A-2014-7534` | Artículos 3, 43, 44, 45 y 48 (este, en la redacción vigente desde el 26/03/2026) |
+| Ley 1/2026, de 20 de febrero, Universitaria para Andalucía | `BOE-A-2026-6643` | Como norma modificadora (art. 48 Ley 1/2014) |
+| Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Artículo 52, vigente el 24/09/2026 |
+| Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico | `BOE-A-2002-13758` | Artículo 22.2, en la redacción vigente desde el 11/05/2014 |
+| Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | `BOE-A-1982-11196` | Artículos 1, 2, 3, 7, 8 y 9, vigentes el 24/09/2026 |
+| Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación | `BOE-A-1984-7248` | Artículos 1 a 4; una sola redacción |
+| Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor | `BOE-A-1996-1069` | Artículo 4; una sola redacción |
+| Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | `BOE-A-2022-11311` | Artículos 4.3, 83, 89, 90, 93, 95, 96, 141.3, 155 y 157 y DA 4.ª; sin modificaciones |
+| Ley 10/2018, de 9 de octubre, audiovisual de Andalucía | `BOE-A-2018-15240` | Artículo 17 (una redacción) y artículos 31 y 66, en la redacción del Decreto-ley 3/2024, vigente desde el 17/02/2024 |
+| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía | `BOE-A-2008-1185` | Artículos 4, 5 y 9; una sola redacción |
+| Acuerdo de 3 de noviembre de 2015, del Consejo de Gobierno, por el que se autoriza la fusión por absorción de «Canal Sur Televisión, S.A.» a «Canal Sur Radio, S.A.» | BOJA núm. 219, de 11/11/2015 | Solo su título |
+
+## Lo que este tema no da, y dónde está
+
+- **La Ley 13/2022 y la Ley 10/2018 en su conjunto** (principios, pluralismo, protección de menores
+  frente a contenidos, accesibilidad, servicio público): son el punto 4 del temario común. Aquí
+  solo se toman sus reglas de datos personales y de menores.
+- **La organización, los órganos y el control de la RTVA y de CSRTV**: son el punto 5 del temario
+  común.
+- **La doctrina del Tribunal Constitucional y del Tribunal de Justicia de la Unión Europea** sobre
+  protección de datos y sobre el conflicto entre información e intimidad: el tema solo da lo que
+  el preámbulo de la LOPDGDD resume de las Sentencias 94/1998 y 292/2000. No se han leído las
+  sentencias.
+- **La Carta de los Derechos Fundamentales de la Unión Europea y el TFUE**: se citan a través del
+  considerando 1 del Reglamento; la Unión Europea es el punto 3 del temario común.
+- **El Estatuto de la AEPD (Real Decreto 389/2021) y los estatutos del Consejo de Transparencia y
+  Protección de Datos de Andalucía**: no se estudian. Por eso quedan sin confirmar la autoridad de
+  control de la RTVA y de CSRTV y su encaje en el artículo 77.1 de la LOPDGDD.
+- **La Ley 11/2022, General de Telecomunicaciones**, y el resto de leyes sectoriales con reglas de
+  datos: no se estudian.
+- **El Reglamento (UE) 2024/1083 (libertad de los medios de comunicación) y el Reglamento (UE)
+  2022/2065 (servicios digitales)**: no se han leído; el tema no dice nada de ellos.
+
+## Trazabilidad
+
+| | |
+| --- | --- |
+| **Normas principales** | Reglamento (UE) 2016/679 y Ley Orgánica 3/2018 |
+| **Identificadores** | `DOUE-L-2016-80807` (con `DOUE-L-2018-80845` y `DOUE-L-2021-80264`) · `BOE-A-2018-16673` |
+| **Publicación** | DOUE L 119, de 4 de mayo de 2016 · BOE núm. 294, de 6 de diciembre de 2018 |
+| **Aplicación y entrada en vigor** | El Reglamento, aplicable desde el 25 de mayo de 2018 (art. 99); la LOPDGDD, en vigor el 7 de diciembre de 2018 |
+| **Redacción leída** | La vigente el 24 de septiembre de 2026; todos los preceptos citados se leyeron ese día |
+
+Comprobaciones hechas sobre la fuente:
+
+1. **LOPDGDD**: texto consolidado leído en su redacción vigente el 24 de septiembre de 2026.
+   Diecisiete bloques tienen más de una redacción o se añadieron después de 2018; ninguna reforma
+   cruzada. De ellos, doce cambiaron después del 21 de diciembre de 2022, y los doce están
+   integrados en el cuerpo con su línea de cambio: artículos 23 (Ley 10/2025), 24 (Ley 2/2023),
+   48, 50, 53 bis, 64, 65, 66, 67, 75 y 77 y disposición adicional vigésima tercera (Ley 11/2023).
+   Las redacciones anteriores se leyeron a fecha 21 de diciembre de 2022 para describir cada
+   cambio.
+2. **Reglamento**: el BOE lo publica sin consolidar. Se han leído las dos correcciones de errores
+   en español. Están corregidos, y se citan ya corregidos, el artículo 9.1 y el 37.1.c) por la
+   corrección de 2018, y el 12.3, el 18.1.a) y el 83.4.c) por la de 2021, entre los que el tema
+   cita. El articulado no tiene modificaciones; los considerandos 1, 4, 65 y 153 se han leído en
+   la página del BOE del Reglamento.
+3. **Recuentos comprobados contra la letra**: once sujetos en el artículo 77.1 (a a k); diecisiete
+   infracciones muy graves (72, de la a a la p con la ñ), treinta graves (73, de la a a la ac con
+   la ñ) y diecinueve leves (74, de la a a la r con la ñ); dieciséis supuestos de designación
+   obligatoria del delegado (34.1, de la a a la o con la ñ); siete capítulos del Reglamento en el
+   artículo 85.2; tres supuestos en el artículo 95.2 de la Ley 13/2022, de los que el 157.9 recoge
+   dos; cinco datos en la disposición adicional cuarta.3 de la Ley 13/2022.
+4. **Identificadores irregulares**, resueltos contra el índice de cada norma: en la LOPDGDD el
+   artículo 24 es `a2-6`, el 53 bis `a5-12` y el 77 `a7-9`; en la Ley 13/2022 el artículo 95 es
+   `a9-7`; en la Ley Orgánica 1/1982 los artículos van con el ordinal en letra (`asegundo`,
+   `aseptimo`); en la Ley 10/2018, con prefijo `ar-` (`ar-17`, `ar-31`, `ar-66`).

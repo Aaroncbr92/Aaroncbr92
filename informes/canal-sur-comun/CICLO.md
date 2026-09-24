@@ -74,3 +74,15 @@ dice. Informe `TNN-refutacion-final.md`, que termina con el cuadro de lentes.
 (ver `PENDIENTES.md`). En verificación y refutación, todo precepto cuyo bloque traiga
 nota de sentencia del Tribunal Constitucional se comprueba en el XML o la página
 consolidada del BOE para saber qué inciso exacto está anulado.
+
+## Aviso: citas con el artículo entre paréntesis
+
+Desde el 24-09-2026 `refutar_exactitud.py` tiene una **segunda pasada** para las
+negritas que no van detrás de un marcador «**Artículo N**»: las ancla en el
+paréntesis de detrás («(art. 7.2)», «(artículo 210.1)», «(6.3)») o en el artículo
+nombrado antes en la misma frase. Da su propio recuento («citas con el artículo
+entre paréntesis») y dice cuántas **no comprobó** porque remiten a otra norma o a
+un artículo que no está en las fuentes pasadas. Pásale **todas** las normas que el
+tema cita, o esas negritas quedan sin mirar. Una negrita que cita un documento sin
+articulado del BOE (acuerdo, reglamento parlamentario, convenio) sale como no
+literal aquí y se comprueba con `refutar_documento.py`.

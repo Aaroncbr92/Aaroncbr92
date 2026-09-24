@@ -9,3 +9,6 @@ lectura de todos los preceptos: **24-09-2026**.
 Progreso: identificación y rúbrica a) guardadas en el tema. Negritas de esas partes comprobadas
 con un script contra el corpus de fuentes (normalizando acentos y puntuación): todas literales
 salvo las siglas.
+Progreso: rúbrica b) guardada (órganos constitucionales, Corona, Cortes, Congreso y Senado,
+función legislativa, Gobierno, Poder Judicial, Tribunal Constitucional, Tribunal de Cuentas y
+Defensor del Pueblo con sus leyes orgánicas).

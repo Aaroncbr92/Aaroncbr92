@@ -1,0 +1,103 @@
+Fuente: https://european-union.europa.eu/institutions-law-budget/euro/countries-using-euro_es (página institucional de la Unión Europea, «Países que utilizan el euro»). Descargada y pasada a texto el 24-09-2026. No es norma.
+
+  class="wt-icon--corner-arrow ecl-icon ecl-icon--fluid ecl-breadcrumb__icon ecl-icon--corner-arrow"
+  aria-hidden="true"
+   role="presentation">
+Países que utilizan el euro
+Países que utilizan el euro
+El euro es un 
+símbolo tangible de la integración europea
+: más de 350 millones de personas lo usan cada día, lo que la convierte en la segunda moneda más utilizada en todo el mundo. Los 
+beneficios
+ de la moneda común están a la vista para cualquiera que viaje al extranjero o compre en sitios web de otros países de la UE, donde los precios pueden compararse fácilmente y se evitan los costes de intercambio.
+Países de la UE que utilizan el euro 
+Hoy en día, el euro (€) es la 
+moneda oficial
+ de 
+21 de los 27 países de la UE
+, que juntos constituyen la 
+eurozona
+, denominada oficialmente zona del euro.
+<div
+  class="ecl-accordion"
+  data-ecl-auto-init="Accordion"
+><details
+        class="ecl-accordion__item is-first"
+        >
+Países de la zona del euro             <span 
+  class="wt-icon--plus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--plus"
+  aria-hidden="true"
+  >
+<span 
+  class="wt-icon--minus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--minus"
+  aria-hidden="true"
+  >
+Aunque todos los países de la UE forman parte de la 
+unión económica y monetaria (UEM)
+, solo aquellos que han cumplido determinados criterios económicos y jurídicos han sustituido sus monedas nacionales por el euro.
+Austria
+Bélgica
+Bulgaria
+Croacia
+Chipre
+Estonia
+Finlandia
+Francia
+Alemania
+Grecia
+Irlanda
+Italia
+Letonia
+Lituania
+Luxemburgo
+Malta
+Países Bajos
+Portugal
+Eslovaquia
+Eslovenia
+España
+<details
+        class="ecl-accordion__item"
+        >
+Países no pertenecientes a la zona del euro             <span 
+  class="wt-icon--plus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--plus"
+  aria-hidden="true"
+  >
+<span 
+  class="wt-icon--minus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--minus"
+  aria-hidden="true"
+  >
+Los siguientes países aún no han adoptado el euro, pero se espera que lo hagan una vez que cumplan las condiciones necesarias.
+Chequia
+Hungría
+Polonia
+Rumanía
+Suecia
+<details
+        class="ecl-accordion__item is-last"
+        >
+País de la UE acogido a una cláusula de exclusión voluntaria             <span 
+  class="wt-icon--plus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--plus"
+  aria-hidden="true"
+  >
+<span 
+  class="wt-icon--minus ecl-icon ecl-icon--s ecl-accordion__toggle-icon ecl-icon--minus"
+  aria-hidden="true"
+  >
+En algunos casos, los países de la UE pueden negociar una cláusula de exclusión voluntaria de la legislación o los tratados de la Unión Europea y decidir no participar en determinados ámbitos políticos. Dinamarca se ha acogido a esta cláusula para la moneda única y ha mantenido su propia moneda tras su adhesión a la UE.
+Dinamarca
+{"utility":"wcloud","url":"https:\/\/europa.eu\/assets\/wcloud\/widgets\/202311\/12db31d0-8852-11ee-9e82-0dad62725557\/uec.json"}
+Cómo pueden incorporarse los países a la zona del euro 
+Para incorporarse a la zona del euro, los países de la UE deben cumplir los denominados «
+criterios de convergencia
+».
+Estas 
+condiciones económicas y jurídicas de obligado cumplimiento
+ se acordaron en 1992 a través del 
+Tratado de Maastricht
+. Todos los países de la UE, excepto Dinamarca, deben adoptar el euro e incorporarse a la zona del euro una vez que cumplan los criterios.
+No existe un calendario para la adhesión a la zona del euro, por lo que los países de la UE pueden desarrollar sus propias estrategias para cumplir las condiciones para la adopción del euro.
+<div 
+    class="ecl-timeline-set"
+  ><ol
+  class="ecl-timeline"

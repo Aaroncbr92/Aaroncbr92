@@ -177,7 +177,55 @@ def trozos(tema):
             nums = [m.group(1), m.group(3)]
         else:
             nums = [m.group(1) + (m.group(2) or "")]
-        fuera.append((nums, tema[m.start():fin]))
+        fuera.append((nums, tema[m.start():fin], m.start(), fin))
+    return fuera
+
+
+def por_parentesis(tema, cubiertos):
+    """Negritas citadas con el artículo **detrás, entre paréntesis**.
+
+    Los temas del común de Canal Sur citan así: «**texto literal**» (art. 7.2).
+    Sin marcador «**Artículo N**» delante no se abre ningún bloque, y la lente
+    devolvía «0 negritas comprobadas» sobre temas enteros: no decía que
+    estuvieran limpios, decía que no había mirado. Aquí cada negrita que no cae
+    en un bloque ya comprobado se ancla en el primer «(art. N…)» o «(arts. N…)»
+    que la sigue dentro de su misma frase. Si el paréntesis nombra otra norma
+    («art. 5 de la Ley 9/2007»), se compara igual contra todas las fuentes
+    dadas: si esa norma no se ha pasado, el artículo no se encuentra y la
+    negrita no cuenta, en vez de compararse contra el homónimo equivocado.
+    """
+    norma = re.compile(r"\b(?:Ley|LO|Constituci|Estatuto|Reglamento|Real Decreto|"
+                       r"Decreto|RGPD|TUE|TFUE|Carta|EAA|CE)\b")
+    fuera = []
+    for m in re.finditer(r"\*\*(.+?)\*\*", tema, re.S):
+        if any(a <= m.start() < b for a, b in cubiertos):
+            continue
+        # la frase de la negrita: hacia delante hasta el punto, hacia atrás
+        # hasta el punto anterior o el párrafo
+        cola = tema[m.end():m.end() + 240]
+        corte = re.search(r"\.\s|\n\n", cola)
+        if corte:
+            cola = cola[:corte.start() + 1]
+        ini = max(tema.rfind(". ", 0, m.start()), tema.rfind("\n\n", 0, m.start()))
+        cabeza = tema[ini + 1:m.start()]
+        # 1.º el paréntesis de detrás: «(art. 7.2)», «(artículo 210.1)» o «(6.3)»;
+        # el número suelto sólo con apartado, para no leer un año como artículo
+        p = re.search(r"\((?:[^()]*?\s)?(?:(?:[Aa]rts?\.|[Aa]rtículos?) ?(\d{1,3})"
+                      r"( bis| ter| quáter)?|(\d{1,3})(?=\.\d))([^()]*)\)", cola)
+        if p:
+            num = (p.group(1) or p.group(3)) + (p.group(2) or "")
+            otra = norma.search(p.group(4))
+        else:
+            # 2.º el artículo nombrado antes, en la misma frase:
+            # «El art. 7.2 dice que «**…**»»
+            q = list(re.finditer(r"(?:[Aa]rtículos?|[Aa]rts?\.) (\d{1,3})"
+                                 r"( bis| ter| quáter)?([^*«]{0,60})", cabeza))
+            if not q:
+                continue
+            q = q[-1]
+            num = q.group(1) + (q.group(2) or "")
+            otra = norma.search(q.group(3))
+        fuera.append(([num], m.group(0), bool(otra)))
     return fuera
 
 
@@ -196,7 +244,8 @@ def main():
     fuentes = [articulos(open(f, encoding="utf-8").read()) for f in sys.argv[2:]]
 
     total = sospechosas = 0
-    for nums, bloque in trozos(tema):
+    bloques = trozos(tema)
+    for nums, bloque, _, _ in bloques:
         cuerpos = [" ".join(a.get(n, "") for n in nums) for a in fuentes]
         cuerpos = [c for c in cuerpos if c.strip()]
         if not cuerpos:
@@ -216,8 +265,34 @@ def main():
             if not any(frag in c for c in cuerpos):
                 sospechosas += 1
                 print("art. %-14s %s" % (",".join(nums), negrita))
+
+    # segunda pasada: las citas con el artículo detrás, entre paréntesis. Se
+    # cuentan aparte para que el recuento de siempre no cambie en los temas que
+    # ya se comprobaban por bloques
+    par = par_sosp = otra_norma = sin_articulo = 0
+    cubiertos = [(a, b) for _, _, a, b in bloques]
+    for nums, negrita, otra in por_parentesis(tema, cubiertos):
+        frag = limpia(negrita.strip("*"))
+        if len(frag.split()) < 3:
+            continue
+        if otra:
+            otra_norma += 1
+            continue
+        cuerpos = [a.get(nums[0], "") for a in fuentes]
+        cuerpos = [c for c in cuerpos if c.strip()]
+        if not cuerpos:
+            sin_articulo += 1
+            continue
+        par += 1
+        if not any(frag in c for c in cuerpos):
+            par_sosp += 1
+            print("(art. %-12s %s" % (nums[0] + ")", negrita))
     print()
     print("negritas comprobadas: %d ; no literales: %d" % (total, sospechosas))
+    print("citas con el artículo entre paréntesis: %d comprobadas ; no literales: %d"
+          % (par, par_sosp))
+    print("  sin comprobar: %d remiten a otra norma ; %d con un artículo que no "
+          "está en las fuentes dadas" % (otra_norma, sin_articulo))
 
 
 if __name__ == "__main__":

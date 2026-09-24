@@ -1653,3 +1653,415 @@ otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.**�
 | Plazos | Dos meses desde la primera votación; si no, disolución | — | No se vota hasta pasados cinco días; mociones alternativas en los dos primeros |
 | Si fracasa | Sucesivas propuestas | El Gobierno dimite y se procede según el art. 99 | Sus firmantes no pueden presentar otra en el mismo período de sesiones |
 
+### El Poder Judicial
+
+El Título VI, «Del Poder Judicial», artículos 117 a 127.
+
+*Artículo 117.*
+
+1. «**La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados
+   integrantes del poder judicial, independientes, inamovibles, responsables y sometidos
+   únicamente al imperio de la ley.**» Cuatro notas: independientes, inamovibles, responsables y
+   sometidos únicamente al imperio de la ley.
+2. «**Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados,
+   sino por alguna de las causas y con las garantías previstas en la ley.**»
+3. «**El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo
+   ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por
+   las leyes, según las normas de competencia y procedimiento que las mismas establezcan.**»
+4. «**Los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado
+   anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier
+   derecho.**»
+5. «**El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los
+   Tribunales.**» La ley regulará la jurisdicción militar «**en el ámbito estrictamente castrense
+   y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución**».
+6. «**Se prohíben los Tribunales de excepción.**»
+
+*Artículo 118.* «**Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y
+Tribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la
+ejecución de lo resuelto.**»
+
+*Artículo 119.* «**La justicia será gratuita cuando así lo disponga la ley y, en todo caso,
+respecto de quienes acrediten insuficiencia de recursos para litigar.**»
+
+*Artículo 120.*
+
+1. «**Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de
+   procedimiento.**»
+2. «**El procedimiento será predominantemente oral, sobre todo en materia criminal.**»
+3. «**Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública.**»
+
+*Artículo 121.* «**Los daños causados por error judicial, así como los que sean consecuencia del
+funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a
+cargo del Estado, conforme a la ley.**»
+
+*Artículo 122. Consejo General del Poder Judicial.*
+
+1. La ley orgánica del poder judicial determinará la constitución, funcionamiento y gobierno de
+   los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de
+   carrera, «**que formarán un Cuerpo único**», y del personal al servicio de la Administración
+   de Justicia.
+2. «**El Consejo General del Poder Judicial es el órgano de gobierno del mismo. La ley orgánica
+   establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en
+   particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.**»
+3. Composición: «**el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros
+   nombrados por el Rey por un período de cinco años**». De éstos:
+   - «**doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que
+     establezca la ley orgánica**»;
+   - «**cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado,
+     elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros
+     juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su
+     profesión**».
+
+Veinte vocales más el Presidente: veintiuno en total. Cinco años de mandato.
+
+*Artículo 123. Tribunal Supremo.*
+
+1. «**El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior
+   en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.**»
+2. «**El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo
+   General del Poder Judicial, en la forma que determine la ley.**»
+
+*Artículo 124. Ministerio Fiscal.*
+
+1. «**El Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por
+   misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los
+   ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los
+   interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la
+   satisfacción del interés social.**»
+2. «**El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los
+   principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los
+   de legalidad e imparcialidad.**»
+3. «**La ley regulará el estatuto orgánico del Ministerio Fiscal.**»
+4. «**El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el
+   Consejo General del Poder Judicial.**»
+
+*Artículo 125.* «**Los ciudadanos podrán ejercer la acción popular y participar en la
+Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a
+aquellos procesos penales que la ley determine, así como en los Tribunales consuetudinarios y
+tradicionales.**»
+
+*Artículo 126.* «**La policía judicial depende de los Jueces, de los Tribunales y del Ministerio
+Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del
+delincuente, en los términos que la ley establezca.**»
+
+*Artículo 127.*
+
+1. «**Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán
+   desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos. La ley
+   establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y
+   Fiscales.**»
+2. «**La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que
+   deberá asegurar la total independencia de los mismos.**»
+
+En la organización territorial, el artículo 152.1 añade que un **Tribunal Superior de Justicia**
+culminará la organización judicial en el ámbito de cada Comunidad Autónoma, «**sin perjuicio de
+la jurisdicción que corresponde al Tribunal Supremo**» (rúbrica c).
+
+### El Tribunal Constitucional
+
+El Título IX, «Del Tribunal Constitucional», artículos 159 a 165.
+
+*Artículo 159. Composición.*
+
+1. «**El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro
+   a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del
+   Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo
+   General del Poder Judicial.**»
+2. «**Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales,
+   Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida
+   competencia con más de quince años de ejercicio profesional.**»
+3. «**Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se
+   renovarán por terceras partes cada tres.**»
+4. La condición de miembro es incompatible: «**con todo mandato representativo; con los cargos
+   políticos o administrativos; con el desempeño de funciones directivas en un partido político o
+   en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras
+   judicial y fiscal, y con cualquier actividad profesional o mercantil**». Y el párrafo segundo:
+   «**En lo demás los miembros del Tribunal Constitucional tendrán las incompatibilidades propias
+   de los miembros del poder judicial.**»
+5. «**Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio
+   de su mandato.**»
+
+No confundir con el CGPJ: el Tribunal Constitucional son doce, nueve años, renovación por
+terceras partes cada tres; el CGPJ, veinte vocales más el Presidente del Tribunal Supremo, cinco
+años.
+
+*Artículo 160. Presidencia.* «**El Presidente del Tribunal Constitucional será nombrado entre sus
+miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años.**»
+
+*Artículo 161. Competencias.* «**El Tribunal Constitucional tiene jurisdicción en todo el
+territorio español y es competente para conocer**»:
+
+- a) «**Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de
+  ley.**» Y sigue: «**La declaración de inconstitucionalidad de una norma jurídica con rango de
+  ley, interpretada por la jurisprudencia, afectará a ésta, si bien la sentencia o sentencias
+  recaídas no perderán el valor de cosa juzgada.**»
+- b) «**Del recurso de amparo por violación de los derechos y libertades referidos en el artículo
+  53, 2, de esta Constitución, en los casos y formas que la ley establezca.**»
+- c) «**De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de
+  éstas entre sí.**»
+- d) «**De las demás materias que le atribuyan la Constitución o las leyes orgánicas.**»
+
+161.2: «**El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y
+resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la
+suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá
+ratificarla o levantarla en un plazo no superior a cinco meses.**»
+
+*Artículo 162. Legitimación.*
+
+1. a) Para el recurso de inconstitucionalidad: «**el Presidente del Gobierno, el Defensor del
+   Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades
+   Autónomas y, en su caso, las Asambleas de las mismas**».
+   b) Para el recurso de amparo: «**toda persona natural o jurídica que invoque un interés
+   legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal**».
+2. «**En los demás casos, la ley orgánica determinará las personas y órganos legitimados.**»
+
+El Defensor del Pueblo está en las dos listas; el Ministerio Fiscal, sólo en la del amparo.
+
+*Artículo 163. Cuestión de inconstitucionalidad.* «**Cuando un órgano judicial considere, en
+algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el
+fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal
+Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en
+ningún caso serán suspensivos.**»
+
+*Artículo 164. Sentencias.*
+
+1. «**Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado
+   con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día
+   siguiente de su publicación y no cabe recurso alguno contra ellas.**» Las que declaren la
+   inconstitucionalidad de una ley o de una norma con fuerza de ley «**y todas las que no se
+   limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos**».
+2. «**Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no
+   afectada por la inconstitucionalidad.**»
+
+*Artículo 165.* «**Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el
+estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de
+las acciones.**»
+
+La disposición transitoria novena organizó la primera renovación: el sorteo a los tres años de
+la primera elección (ver «Las disposiciones»).
+
+### El Tribunal de Cuentas y el Defensor del Pueblo
+
+Los dos están en la Constitución (artículos 136 y 54), y los dos remiten a una ley orgánica: la
+Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas, y la Ley Orgánica 3/1981, de 6
+de abril, del Defensor del Pueblo. Las dos dependen de las Cortes Generales.
+
+#### El Tribunal de Cuentas en la Constitución (artículo 136)
+
+1. «**El Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas y de la gestión
+   económica de Estado, así como del sector público.**» «**Dependerá directamente de las Cortes
+   Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la
+   Cuenta General del Estado.**»
+2. «**Las cuentas del Estado y del sector público estatal se rendirán al Tribunal de Cuentas y
+   serán censuradas por éste.**» «**El Tribunal de Cuentas, sin perjuicio de su propia
+   jurisdicción, remitirá a las Cortes Generales un informe anual en el que, cuando proceda,
+   comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere
+   incurrido.**»
+3. «**Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y
+   estarán sometidos a las mismas incompatibilidades que los Jueces.**»
+4. «**Una ley orgánica regulará la composición, organización y funciones del Tribunal de
+   Cuentas.**»
+
+Además, el artículo 153.d) le atribuye el control de la actividad de los órganos de las
+Comunidades Autónomas en lo «**económico y presupuestario**».
+
+#### La Ley Orgánica 2/1982, del Tribunal de Cuentas
+
+Redacción vigente: de los artículos que se citan aquí, el primero, el cuarto, el noveno y el
+veintiuno los modificó la Ley Orgánica 3/2015, de 30 de marzo, de control de la actividad
+económico-financiera de los Partidos Políticos (redacción aplicable desde el 01-04-2015); el artículo 30, la Ley
+Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres
+y hombres (en vigor desde el 22-08-2024).
+
+*Naturaleza (artículo primero).* «**El Tribunal de Cuentas es el supremo órgano fiscalizador de
+las cuentas y de la gestión económica del Estado y del sector público, sin perjuicio de su propia
+jurisdicción, de acuerdo con la Constitución y la presente Ley Orgánica.**» Le corresponde
+también «**la fiscalización de la actividad económico-financiera de los partidos políticos
+inscritos en el Registro de Partidos Políticos del Ministerio del Interior, así como la de las
+fundaciones y demás entidades vinculadas o dependientes de ellos**». «**Es único en su orden y
+extiende su jurisdicción a todo el territorio nacional, sin perjuicio de los órganos
+fiscalizadores de cuentas que para las Comunidades Autónomas puedan prever sus Estatutos.
+Depende directamente de las Cortes Generales.**»
+
+*Funciones (artículo segundo).* Dos:
+
+- a) «**La fiscalización externa, permanente y consuntiva de la actividad económico-financiera del
+  sector público.**»
+- b) «**El enjuiciamiento de la responsabilidad contable en que incurran quienes tengan a su
+  cargo el manejo de caudales o efectos públicos.**»
+
+Son las dos caras: fiscaliza y enjuicia. No es un órgano consultivo ni gestor.
+
+*Sector público (artículo cuarto).* Lo integran: a) la Administración del Estado; b) las
+Comunidades Autónomas; c) las Corporaciones Locales; d) las entidades gestoras de la Seguridad
+Social; e) los Organismos autónomos; f) las Sociedades estatales y demás Empresas públicas.
+Fiscaliza también las subvenciones, créditos, avales u otras ayudas del sector público percibidas
+por personas físicas o jurídicas.
+
+*La función fiscalizadora (artículos noveno, diez y doce).* Se refiere al sometimiento de la
+actividad económico-financiera del sector público «**a los principios de legalidad, eficiencia,
+economía, transparencia, así como a la sostenibilidad ambiental y la igualdad de género**». Por
+delegación de las Cortes, examina y comprueba la Cuenta General del Estado «**dentro del plazo de
+seis meses, a partir de la fecha en que se haya rendido**»; el Pleno, oído el Fiscal, dicta la
+declaración definitiva y la eleva a las Cámaras. El resultado de la fiscalización se expone en
+informes o memorias, mociones o notas que se elevan a las Cortes y se publican en el BOE; si se
+refiere a Comunidades Autónomas, se remite también a su Asamblea Legislativa y se publica en su
+diario oficial.
+
+*La función jurisdiccional (artículo quince).* «**El enjuiciamiento contable, como jurisdicción
+propia del Tribunal de Cuentas, se ejerce respecto de las cuentas que deban rendir quienes
+recauden, intervengan, administren, custodien, manejen o utilicen bienes, caudales o efectos
+públicos.**»
+
+*Órganos (artículo diecinueve).* Ocho:
+
+- a) «**El Presidente.**»
+- b) «**El Pleno.**»
+- c) «**La Comisión de Gobierno.**»
+- d) «**La Sección de Fiscalización.**»
+- e) «**La Sección de Enjuiciamiento.**»
+- f) «**Los Consejeros de Cuentas.**»
+- g) «**La Fiscalía.**»
+- h) «**La Secretaría General.**»
+
+*El Pleno (artículo veintiuno).* «**El Tribunal en Pleno estará integrado por doce Consejeros de
+Cuentas, uno de los cuales será el Presidente, y el Fiscal.**» «**El cuórum para la válida
+constitución del Pleno será el de dos tercios de sus componentes y sus acuerdos serán adoptados
+por mayoría de asistentes.**»
+
+*El Presidente (artículo veintinueve).* «**El Presidente del Tribunal de Cuentas será nombrado de
+entre sus miembros por el Rey, a propuesta del mismo Tribunal en Pleno y por un período de tres
+años.**»
+
+*Los Consejeros de Cuentas (artículo treinta, redacción vigente desde el 22-08-2024).*
+
+- «**Los Consejeros de Cuentas serán designados por las Cortes Generales, seis por el Congreso de
+  los Diputados y seis por el Senado, mediante votación por mayoría de tres quintos de cada una
+  de las Cámaras, por un período de nueve años**», entre Censores del Tribunal de Cuentas,
+  Censores Jurados de Cuentas, Magistrados y Fiscales, Profesores de Universidad y funcionarios
+  públicos de Cuerpos para cuyo ingreso se exija titulación académica superior, Abogados,
+  Economistas y Profesores Mercantiles, «**todos ellos de reconocida competencia, con más de
+  quince años de ejercicio profesional**».
+- Se garantiza la presencia equilibrada «**de forma que cada uno de los sexos suponga como mínimo
+  el cuarenta por ciento de los designados por cada una de las Cámaras**». Es el apartado que
+  añadió la Ley Orgánica 2/2024.
+- «**Los Consejeros de Cuentas del Tribunal son independientes e inamovibles.**»
+
+Los miembros del Tribunal de Cuentas están sujetos a las mismas causas de incapacidad,
+incompatibilidades y prohibiciones que los Jueces en la Ley Orgánica del Poder Judicial
+(artículo treinta y tres), y su responsabilidad civil o criminal se exige ante la Sala
+correspondiente del Tribunal Supremo (artículo treinta y cinco).
+
+| | Tribunal Constitucional | Tribunal de Cuentas |
+|---|---|---|
+| Miembros | 12 | 12 Consejeros (uno es el Presidente); el Pleno lo forman los 12 y el Fiscal |
+| Designación | 4 Congreso, 4 Senado (tres quintos), 2 Gobierno, 2 CGPJ | 6 Congreso, 6 Senado (tres quintos) |
+| Mandato | Nueve años, renovación por terceras partes cada tres | Nueve años |
+| Presidente | Lo nombra el Rey entre sus miembros, a propuesta del Tribunal en pleno, por tres años | Igual: el Rey, entre sus miembros, a propuesta del Pleno, por tres años |
+
+#### El Defensor del Pueblo en la Constitución
+
+Además del artículo 54 (rúbrica a), la Constitución lo nombra en tres sitios: su condición de
+Defensor es causa de inelegibilidad e incompatibilidad para Diputados y Senadores (artículo
+70.1.c), y está legitimado para interponer el recurso de inconstitucionalidad (artículo
+162.1.a) y el de amparo (artículo 162.1.b).
+
+#### La Ley Orgánica 3/1981, del Defensor del Pueblo
+
+Redacción vigente: los artículos segundo y diez los modificó la Ley Orgánica 2/1992, de 5 de
+marzo, que creó la Comisión Mixta Congreso-Senado de Relaciones con el Defensor del Pueblo (en
+vigor desde el 26-03-1992).
+
+*Naturaleza (artículo primero).* «**El Defensor del Pueblo es el alto comisionado de las Cortes
+Generales designado por éstas para la defensa de los derechos comprendidos en el Título I de la
+Constitución, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a
+las Cortes Generales.**»
+
+*Elección (artículo segundo).*
+
+- «**El Defensor del Pueblo será elegido por las Cortes Generales para un periodo de cinco
+  años**».
+- Una Comisión Mixta Congreso-Senado propone a los Plenos el candidato o candidatos; sus
+  acuerdos, por mayoría simple.
+- Será designado «**quien obtuviese una votación favorable de las tres quintas partes de los
+  miembros del Congreso y posteriormente, en un plazo máximo de veinte días, fuese ratificado por
+  esta misma mayoría del Senado**».
+- Si no se alcanzan esas mayorías, la Comisión formula sucesivas propuestas en el plazo máximo
+  de un mes; «**una vez conseguida la mayoría de los tres quintos en el Congreso, la designación
+  quedará realizada al alcanzarse la mayoría absoluta del Senado**».
+
+*Requisitos (artículo tercero).* «**Podrá ser elegido Defensor del Pueblo cualquier español mayor
+de edad que se encuentre en el pleno disfrute de sus derechos civiles y políticos.**»
+
+*Nombramiento (artículo cuarto).* Los Presidentes del Congreso y del Senado acreditan
+conjuntamente con sus firmas el nombramiento, que se publica en el BOE, y toma posesión ante las
+Mesas de ambas Cámaras reunidas conjuntamente.
+
+*Cese (artículo quinto).* Cinco causas: «**Por renuncia.**»; «**Por expiración del plazo de su
+nombramiento.**»; «**Por muerte o por incapacidad sobrevenida.**»; «**Por actuar con notoria
+negligencia en el cumplimiento de las obligaciones y deberes del cargo.**»; y «**Por haber sido
+condenado, mediante sentencia firme, por delito doloso.**» En los casos de muerte, renuncia y
+expiración del plazo, la vacante la declara el Presidente del Congreso; en los demás, se decide
+«**por mayoría de las tres quintas partes de los componentes de cada Cámara, mediante debate y
+previa audiencia del interesado**».
+
+*Prerrogativas (artículo sexto).* «**El Defensor del Pueblo no estará sujeto a mandato imperativo
+alguno. No recibirá instrucciones de ninguna Autoridad. Desempeñará sus funciones con autonomía y
+según su criterio.**» Goza de inviolabilidad por las opiniones que formule o los actos que
+realice en el ejercicio de su cargo; no podrá ser detenido ni retenido sino en caso de flagrante
+delito, y la decisión sobre su inculpación, prisión, procesamiento y juicio corresponde
+«**exclusivamente a la Sala de lo Penal del Tribunal Supremo**».
+
+*Incompatibilidades (artículo séptimo).* Es incompatible «**con todo mandato representativo; con
+todo cargo político o actividad de propaganda política; con la permanencia en el servicio activo
+de cualquier Administración pública; con la afiliación a un partido político o el desempeño de
+funciones directivas en un partido político o en un sindicato, asociación o fundación, y con el
+empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con
+cualquier actividad profesional, liberal, mercantil o laboral**».
+
+*Adjuntos (artículo octavo).* «**El Defensor del Pueblo estará auxiliado por un Adjunto Primero y
+un Adjunto Segundo**», en los que podrá delegar sus funciones y que le sustituirán por su orden.
+Los nombra y separa el Defensor «**previa conformidad de las Cámaras**».
+
+*Quién puede acudir (artículo diez).* «**toda persona natural o jurídica que invoque un interés
+legítimo, sin restricción alguna**». No son impedimento la nacionalidad, la residencia, el sexo,
+la minoría de edad, la incapacidad legal, el internamiento en un centro penitenciario o de
+reclusión ni, en general, cualquier relación especial de sujeción o dependencia. Pueden pedir
+su intervención los Diputados y Senadores individualmente y determinadas comisiones. Pero:
+«**No podrá presentar quejas ante el Defensor del Pueblo ninguna autoridad administrativa en
+asuntos de su competencia.**»
+
+*Continuidad (artículo once).* Su actividad «**no se verá interrumpida en los casos en que las
+Cortes Generales no se encuentren reunidas, hubieren sido disueltas o hubiere expirado su
+mandato**»; en esos casos se dirige a las Diputaciones Permanentes. La declaración de los estados
+de excepción o de sitio tampoco interrumpe su actividad ni el derecho de los ciudadanos a
+acceder a él.
+
+*Las quejas (artículos quince y diecisiete).* Se presentan firmadas por el interesado, con su
+nombre, apellidos y domicilio, «**en el plazo máximo de un año, contado a partir del momento en
+que tuviera conocimiento de los hechos objeto de la misma**». «**Todas las actuaciones del
+Defensor del Pueblo son gratuitas para el interesado y no será preceptiva la asistencia de
+Letrado ni de Procurador.**» No entra en el examen individual de las quejas pendientes de
+resolución judicial. «**El Defensor del Pueblo rechazará las quejas anónimas**» y podrá rechazar
+aquellas en que advierta mala fe, carencia de fundamento o inexistencia de pretensión, o cuya
+tramitación perjudique el legítimo derecho de un tercero. «**Sus decisiones no serán
+susceptibles de recurso.**»
+
+*Alcance de sus resoluciones (artículo veintiocho).* «**aun no siendo competente para modificar o
+anular los actos y resoluciones de la Administración Pública, podrá, sin embargo, sugerir la
+modificación de los criterios utilizados para la producción de aquéllos**». Puede también sugerir
+al órgano legislativo competente o a la Administración la modificación de una norma cuyo
+cumplimiento riguroso provoque situaciones injustas.
+
+*Recursos (artículo veintinueve).* «**El Defensor del Pueblo está legitimado para interponer los
+recursos de inconstitucionalidad y de amparo, de acuerdo con lo dispuesto en la Constitución y en
+la Ley Orgánica del Tribunal Constitucional.**»
+
+*Informes (artículo treinta y dos).* «**El Defensor del Pueblo dará cuenta anualmente a las Cortes
+Generales de la gestión realizada en un informe que presentará ante las mismas cuando se hallen
+reunidas en periodo ordinario de sesiones.**» Si la gravedad o urgencia lo aconsejan, puede
+presentar un informe extraordinario a las Diputaciones Permanentes. Los informes se publican.
+
+El Estatuto de Autonomía para Andalucía tiene su propio Defensor del Pueblo Andaluz y su Cámara
+de Cuentas de Andalucía; se estudian en el punto 2 del temario común.
+

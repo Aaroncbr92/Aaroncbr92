@@ -519,3 +519,589 @@ Y dos reglas que protegen la reforma: las leyes de reforma del Estatuto están e
 delegación legislativa (artículo 109.2.a), y el anteproyecto de reforma del Estatuto es el
 primer asunto de consulta preceptiva al Consejo Consultivo, que lo dictamina en Pleno (Ley
 2/2024, artículos 17.1 y 21.2).
+
+## a) Organización Institucional de la Comunidad Autónoma de Andalucía
+
+El título IV del Estatuto abre con la definición de la Junta: «**La Junta de Andalucía es la
+institución en que se organiza políticamente el autogobierno de la Comunidad Autónoma. La
+Junta de Andalucía está integrada por el Parlamento de Andalucía, la Presidencia de la Junta y
+el Consejo de Gobierno.**» (artículo 99.1). «**Forman parte también de la organización de la
+Junta de Andalucía las instituciones y órganos regulados en el Capítulo VI.**» (99.2). Ese
+capítulo VI («Otras instituciones de autogobierno», artículos 128 a 132) regula el Defensor del
+Pueblo Andaluz, el Consejo Consultivo, la Cámara de Cuentas, el Consejo Audiovisual y el Consejo
+Económico y Social. El TSJA no está en el título IV sino en el V («El Poder Judicial en
+Andalucía»), y la Oficina Andaluza contra el Fraude y la Corrupción no está en el Estatuto: la
+crea una ley de 2021.
+
+### El Parlamento de Andalucía. Composición, atribuciones y funcionamiento
+
+*Naturaleza.* «**El Parlamento de Andalucía representa al pueblo andaluz.**» y «**es
+inviolable**» (artículo 100). Tiene su sede en Sevilla (artículo 4.1) y goza de «**plena
+autonomía reglamentaria, presupuestaria, administrativa y disciplinaria**» (artículo 102.1). Se
+da su propio Reglamento de organización y funcionamiento, «**cuya aprobación o reforma
+requerirán el voto de la mayoría absoluta de los Diputados**» (102.2); ese Reglamento
+«**establecerá el Estatuto del Diputado**» (102.3). El Parlamento elabora y aprueba su propio
+presupuesto (102.4). El Reglamento del Parlamento vigente es el aprobado por el Pleno el 28 de
+septiembre de 2005 (BOPA núm. 292, de 4 de octubre de 2005), con reformas posteriores; su
+disposición adicional primera confirma la regla: la reforma se tramita como proposición de ley
+del Parlamento «**sin la intervención del Consejo de Gobierno**» y exige «**una votación final de
+totalidad por mayoría absoluta**».
+
+*Composición.* «**El Parlamento estará compuesto por un mínimo de 109 Diputados y Diputadas,
+elegidos por sufragio universal, igual, libre, directo y secreto.**» Sus miembros representan a
+toda Andalucía y «**no están sujetos a mandato imperativo**» (artículo 101.1). El Estatuto da un
+mínimo; la cifra exacta la fija la Ley 1/1986, de 2 de enero, Electoral de Andalucía: «**El
+Parlamento de Andalucía está formado por 109 Diputados.**» (artículo 17.1). Cada provincia tiene
+«**un mínimo inicial de ocho Diputados**» (17.2) y los «**45 Diputados restantes**» se reparten
+en proporción a la población: se divide por 45 la población de derecho de las ocho provincias
+para obtener una cuota, se asignan a cada provincia los enteros que resultan de dividir su
+población por la cuota y los que falten van a las provincias con mayor fracción decimal
+(17.3). Ocho provincias por ocho escaños más cuarenta y cinco dan los 109.
+
+*Mandato.* «**El Parlamento es elegido por cuatro años.**» El mandato de los Diputados termina
+cuatro años después de la elección o el día de la disolución; en ambos casos, el de los
+titulares y suplentes de la Diputación Permanente se prorroga hasta que se constituye la nueva
+Cámara (artículo 101.2).
+
+*Sistema electoral* (artículos 104 y 105 del Estatuto):
+
+- «**La circunscripción electoral es la provincia. Ninguna provincia tendrá más del doble de
+  Diputados que otra.**» (104.1).
+- La elección atiende a criterios de representación proporcional (104.2).
+- «**Las elecciones tendrán lugar entre los treinta y sesenta días posteriores a la expiración
+  del mandato.**» Los electos deben ser convocados a la sesión constitutiva «**dentro de los
+  veinticinco días siguientes a la celebración de las elecciones**» (104.3).
+- Son electores y elegibles los andaluces «**mayores de dieciocho años que estén en pleno goce
+  de sus derechos políticos**» (104.4).
+- La ley electoral «**requerirá mayoría absoluta para su aprobación**» (105.1), establecerá
+  «**criterios de igualdad de género para la elaboración de las listas electorales**» y obligará
+  a los medios de titularidad pública a organizar debates electorales entre las formaciones con
+  representación parlamentaria (105.2).
+
+La Ley 1/1986 concreta lo demás. La convocatoria se hace por Decreto del Presidente de la Junta
+publicado en el BOJA, y la votación no puede caer «**entre los días 1 de julio a 31 de
+agosto**» (artículo 14). Las listas alternan hombres y mujeres y llevan, además de los
+candidatos, «**cuatro candidatos suplentes**» (artículo 23.1). Para el reparto de escaños no se
+tienen en cuenta las candidaturas que no obtengan «**al menos, el 3 por 100 de los votos válidos
+emitidos en la circunscripción**», y las cifras de votos se dividen «**por 1, 2, 3, etc.**» hasta
+el número de escaños de la circunscripción (artículo 18.1). La ley describe el método sin
+nombrarlo. Son inelegibles, entre otros, el presidente del Consejo Consultivo, el «**Consejero
+Mayor de la Cámara de Cuentas**» y los consejeros de esa Cámara, el Defensor del Pueblo Andaluz y
+sus Adjuntos, los Delegados del Gobierno de la Junta y «**El Director General de la Empresa
+Pública de la Radio y Televisión de Andalucía y los Directores de sus sociedades filiales**»
+(artículo 4.3). La ley conserva esos nombres: hoy la Cámara de Cuentas tiene una Presidencia y
+la RTVA es una agencia pública empresarial.
+
+*Estatuto de los Diputados.* Gozan, «**aun después de haber cesado en su mandato**», de
+inviolabilidad por las opiniones y votos emitidos en el ejercicio de su cargo. Durante el mandato
+no pueden ser detenidos por actos delictivos cometidos en Andalucía «**sino en caso de flagrante
+delito**», y sobre su «**inculpación, prisión, procesamiento y juicio**» decide en todo caso el
+TSJA; fuera de Andalucía, la responsabilidad penal se exige ante la Sala de lo Penal del
+Tribunal Supremo (artículo 101.3 del Estatuto). Según el Reglamento del Parlamento, el electo
+adquiere la condición plena de Diputado cumpliendo cuatro requisitos: presentar la credencial,
+declarar a efectos de incompatibilidades, presentar las declaraciones de actividades, bienes e
+intereses, y jurar o prometer la Constitución y el Estatuto (artículo 5.1). Si pasan tres
+sesiones plenarias sin cumplirlos, la Mesa suspende sus derechos y prerrogativas (5.2). La
+condición se pierde por cinco causas: anulación de la elección por sentencia firme; condena
+firme a inhabilitación; fallecimiento o incapacitación declarada judicialmente; extinción del
+mandato; y renuncia (artículo 19).
+
+*Atribuciones.* El artículo 106 del Estatuto enumera diecinueve ordinales, que se reproducen en
+su orden porque cualquiera puede preguntarse. Corresponde al Parlamento de Andalucía:
+
+1. La potestad legislativa propia y la que le corresponda según el artículo 150.1 y 2 de la CE.
+2. La orientación y el impulso de la acción del Consejo de Gobierno.
+3. El control sobre la acción del Consejo de Gobierno y de la Administración bajo su autoridad;
+   con esa finalidad pueden crearse comisiones de investigación o atribuir esa facultad a las
+   comisiones permanentes.
+4. El examen, la enmienda y la aprobación de los presupuestos.
+5. Establecer y exigir tributos, y autorizar la emisión de deuda y el recurso al crédito.
+6. La elección del Presidente de la Junta.
+7. La exigencia de responsabilidad política al Consejo de Gobierno.
+8. La apreciación, en su caso, de la incapacidad del Presidente de la Junta.
+9. La presentación de proposiciones de ley al Congreso de los Diputados (artículo 87.2 de la
+   CE).
+10. La autorización al Consejo de Gobierno para obligarse en convenios y acuerdos de colaboración
+    con otras Comunidades Autónomas.
+11. La aprobación de los planes económicos.
+12. El examen y aprobación de la Cuenta General de la Comunidad, «**sin perjuicio del control
+    atribuido a la Cámara de Cuentas**».
+13. La ordenación básica de los órganos y servicios de la Comunidad.
+14. El control de las empresas públicas andaluzas.
+15. «**El control de los medios de comunicación social dependientes de la Comunidad
+    Autónoma.**»
+16. La interposición de recursos de inconstitucionalidad y la personación en los procesos
+    constitucionales.
+17. La designación, en su caso, de los Senadores que correspondan a la Comunidad; puede recaer
+    en cualquier ciudadano con la condición política de andaluz.
+18. La solicitud al Estado de atribución, transferencia o delegación de facultades (artículo
+    150.1 y 2 de la CE).
+19. Las demás atribuciones que deriven de la Constitución, del Estatuto y del resto del
+    ordenamiento.
+
+En los nombramientos y designaciones que corresponde efectuar al Parlamento «**regirá el
+principio de presencia equilibrada entre hombres y mujeres**» (artículo 107).
+
+*La potestad legislativa y las normas con rango de ley* (capítulo II del título IV):
+
+- El Parlamento ejerce la potestad legislativa. Las leyes que afectan a la organización
+  territorial, al régimen electoral o a la organización de las instituciones básicas
+  requieren «**el voto favorable de la mayoría absoluta del Pleno del Parlamento en una votación
+  final sobre el conjunto del texto**», salvo que el Estatuto exija mayoría cualificada
+  (artículo 108).
+- **Iniciativa legislativa**: corresponde a los Diputados, en los términos del Reglamento del
+  Parlamento, y al Consejo de Gobierno; una ley regula la de los Ayuntamientos y la popular
+  (artículo 111).
+- **Decretos legislativos** (artículo 109). El Parlamento «**podrá delegar**» en el Consejo de
+  Gobierno la potestad de dictar normas con rango de ley. Quedan excluidas cinco materias: a) las
+  leyes de reforma del Estatuto; b) las del presupuesto; c) las que requieran cualquier mayoría
+  cualificada; d) las de desarrollo de los derechos y deberes del Estatuto; e) las demás que el
+  Estatuto excluya. La delegación para textos articulados se otorga por ley de bases; la de
+  refundición, por ley ordinaria. Se agota por el uso y no puede entenderse concedida de modo
+  implícito o por tiempo indeterminado.
+- **Decretos-leyes** (artículo 110). «**En caso de extraordinaria y urgente necesidad**» el
+  Consejo de Gobierno puede dictarlos, pero no pueden afectar a los derechos del Estatuto, al
+  régimen electoral ni a las instituciones de la Junta, y no pueden aprobar los presupuestos.
+  «**Los decretos-leyes quedarán derogados si en el plazo improrrogable de treinta días
+  subsiguientes a su promulgación no son convalidados expresamente por el Parlamento tras un
+  debate y votación de totalidad.**» En ese plazo el Parlamento puede acordar tramitarlos como
+  proyectos de ley por el procedimiento de urgencia.
+- La participación ciudadana en el procedimiento legislativo se hará en los términos del
+  Reglamento del Parlamento (artículo 113), y en la elaboración de las leyes y reglamentos se
+  tendrá en cuenta el impacto de género (artículo 114).
+- «**El control de constitucionalidad de las disposiciones normativas de la Comunidad Autónoma
+  con fuerza de ley corresponde exclusivamente al Tribunal Constitucional.**» (artículo 115).
+- Promulgación y publicación: las leyes las promulga, en nombre del Rey, el Presidente de la
+  Junta, que ordena publicarlas en el BOJA «**en el plazo de quince días desde su aprobación**»
+  y en el BOE; para la vigencia rige la fecha del BOJA (artículo 116).
+
+*Organización.* El Parlamento elige de entre sus miembros al Presidente, la Mesa y la Diputación
+Permanente (artículo 103.1 del Estatuto). El Estatuto remite al Reglamento del Parlamento la
+elección del Presidente y de la Mesa, la Diputación Permanente, el número mínimo de Diputados
+para formar grupo, el procedimiento legislativo y las funciones de la Junta de Portavoces; y
+fija que los grupos participan en la Diputación Permanente y en todas las Comisiones «**en
+proporción a sus miembros**» (103.4). Lo que dice el Reglamento del Parlamento:
+
+- **Sesión constitutiva.** La preside inicialmente «**el Diputado o Diputada electo de mayor edad
+  de los presentes, asistido, en calidad de Secretarios, por los dos más jóvenes**» (artículo 2).
+- **La Mesa** es «**el órgano rector de la Cámara**» y la forman el Presidente, «**tres
+  Vicepresidentes y tres Secretarios**» (artículo 27). Se elige en la sesión constitutiva. Para
+  Presidente resulta elegido quien obtenga la mayoría absoluta; si nadie la obtiene, se repite
+  la votación entre los dos más votados y gana el que tenga más votos; si el empate persiste
+  «**después de cuatro votaciones**», se considera elegido el candidato propuesto por los
+  partidos o grupos «**con mayor respaldo electoral**» (artículo 34.1). La elección de la Mesa se
+  repite si las sentencias de los recursos contencioso-electorales cambian la titularidad de más
+  del 10 % de los escaños o hacen perder la mayoría absoluta a un grupo (33.2).
+- **Grupos parlamentarios.** Se constituyen con Diputados «**en número no inferior a cinco**»
+  (artículo 20.1), dentro de los cinco días siguientes a la sesión constitutiva (21.1). Quien no
+  se integra en un grupo pasa a ser Diputado no adscrito, salvo si pertenece a una candidatura
+  que no puede formar grupo propio, que va al Grupo Mixto (22.2).
+- **Junta de Portavoces.** La forman los portavoces de los grupos bajo la presidencia del
+  Presidente del Parlamento, se reúne «**al menos, quincenalmente durante los períodos ordinarios
+  de sesiones**» y decide «**atendiendo al criterio de voto ponderado**» (artículo 38).
+- **Pleno.** Lo convoca su Presidente, o a solicitud de «**dos Grupos parlamentarios o de una
+  quinta parte de los Diputados**» (artículo 55).
+- **Comisiones.** El Estatuto dice que el Parlamento «**funcionará en Pleno y Comisiones**»; el
+  Pleno puede delegar en las Comisiones legislativas la aprobación de proyectos y proposiciones
+  de ley y recabarla en cualquier momento, pero se reserva siempre las leyes de contenido
+  presupuestario y tributario y las que requieran mayoría cualificada (artículo 103.2). Según el
+  Reglamento del Parlamento, las Comisiones quedan válidamente constituidas con dos miembros de
+  su Mesa y «**la mitad más uno de los Diputados que las integran**» (42.3) y deben concluir cada
+  asunto en «**un plazo máximo de dos meses**», salvo plazo distinto (43.3). El artículo 46.1
+  enumera hoy catorce Comisiones permanentes legislativas (lista modificada por acuerdo del
+  Pleno de 22 de octubre de 2025) y el 46.2 seis permanentes más, entre ellas la «**Consultiva de
+  Nombramientos, Relaciones con el Defensor del Pueblo Andaluz y Peticiones**» y la de «**Control
+  de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía y de sus Sociedades
+  Filiales**». El Pleno puede variar las Comisiones permanentes en los primeros seis meses de
+  cada legislatura y, durante un mes, tras una reestructuración del Consejo de Gobierno, sin que
+  eso se considere reforma del Reglamento (46.4), y crear otras permanentes durante la legislatura (artículo 50).
+- **Comisiones de investigación.** Pueden pedirlas el Consejo de Gobierno, un grupo o la décima
+  parte de los miembros de la Cámara. Si ningún grupo se opone en siete días desde su
+  publicación, se entiende creada; si alguno se opone, decide el Pleno, que rechaza su creación
+  «**si se opone la mayoría de los miembros de la Cámara**». Sus conclusiones «**no serán
+  vinculantes para los tribunales ni afectarán a las resoluciones judiciales**» (artículo 52).
+- **Diputación Permanente.** La preside el Presidente del Parlamento y la forman la Mesa y los
+  miembros que completen el número fijado para las Comisiones, en proporción a los grupos
+  (artículo 57). Vela por los poderes de la Cámara cuando no está reunida, ha sido disuelta o ha
+  expirado su mandato; en particular, convoca al Parlamento «**por acuerdo de la mayoría
+  absoluta**» (artículo 58).
+
+*Funcionamiento: sesiones y votaciones.* El Estatuto fija la regla: «**Los períodos ordinarios
+serán dos por año y durarán un total de ocho meses como mínimo. El primero se iniciará en
+septiembre y el segundo en febrero.**» Las sesiones extraordinarias las convoca el Presidente
+del Parlamento, previa aprobación de la Diputación Permanente, a petición de esta, de una cuarta
+parte de los Diputados, del número de grupos que determine el Reglamento, o del Presidente de la
+Junta o del Consejo de Gobierno (artículo 103.3). El Reglamento del Parlamento concreta los dos
+períodos: «**del 1 de septiembre al 31 de diciembre y del 1 de febrero al 31 de julio**», y fija
+en dos los grupos que pueden pedir la sesión extraordinaria (artículo 67). Las sesiones del
+Pleno son públicas, salvo cuando se debaten asuntos de la Comisión del Estatuto de los Diputados
+(artículo 69); las de las Comisiones no son públicas, aunque pueden asistir los medios
+acreditados, y son secretas las de la Comisión del Estatuto de los Diputados y las de
+investigación, salvo sus comparecencias informativas (artículo 70).
+
+Para adoptar acuerdos, la Cámara y sus órganos deben estar reunidos reglamentariamente y «**con
+asistencia de la mayoría de sus miembros**» (artículo 84.1). Las mayorías se definen así
+(artículo 85):
+
+- Mayoría simple: «**cuando los votos positivos superen los negativos, sin contar las
+  abstenciones, los votos en blanco y los nulos**».
+- Mayoría absoluta: cuando se expresa en el mismo sentido «**el primer número entero de votos que
+  sigue al número resultante de dividir por dos el total de los miembros de pleno derecho del
+  Parlamento**». Con 109 Diputados, 55.
+
+Las votaciones de investidura, moción de censura y cuestión de confianza son «**en todo caso,
+públicas por llamamiento**» (artículo 91.2). Estas tres figuras, y la disolución, se estudian
+con la Presidencia de la Junta.
+
+*Nombramientos.* El Defensor del Pueblo Andaluz se elige por el procedimiento de su ley
+(artículo 181 del Reglamento del Parlamento). Para los demás nombramientos del Pleno, la Mesa
+dicta las disposiciones complementarias con el acuerdo de la Junta de Portavoces adoptado «**por
+mayoría al menos de tres quintos**» (artículo 182, criterio 2.º), y los empates se resuelven a
+favor del candidato de los grupos «**con mayor respaldo electoral**» (criterio 4.º).
+
+### Instituciones de la Comunidad: el Tribunal Superior de Justicia de Andalucía
+
+*Naturaleza.* «**El Tribunal Superior de Justicia de Andalucía es el órgano jurisdiccional en
+que culmina la organización judicial en Andalucía**» y es competente, en los términos de la ley
+orgánica, para conocer de los recursos y procedimientos de los distintos órdenes y para tutelar
+los derechos del Estatuto. En todo caso lo es en los órdenes «**civil, penal, contencioso
+administrativo, social y en los que pudieran crearse en el futuro**» (artículo 140.1 del
+Estatuto). La LOPJ dice lo mismo desde el lado estatal: el Tribunal Superior de Justicia
+«**culminará la organización judicial en el ámbito territorial de aquélla, sin perjuicio de la
+jurisdicción que corresponde al Tribunal Supremo**» (artículo 70). Es el poder judicial del
+Estado en Andalucía, no un órgano de la Junta, y por eso el Estatuto lo regula en el título V y
+no entre las instituciones de autogobierno.
+
+*Última instancia y unificación.* El TSJA es «**la última instancia jurisdiccional de todos los
+procesos judiciales iniciados en Andalucía**», así como de los recursos tramitados en su
+territorio, «**sin perjuicio de la competencia reservada al Tribunal Supremo**» (140.2). Le
+corresponden los recursos extraordinarios de revisión que autorice la ley contra resoluciones
+firmes de los órganos judiciales de Andalucía, y la unificación de la interpretación del
+derecho de Andalucía (140.3). En este último inciso el texto del BOE dice «**Tribunal de Justicia
+de Andalucía**», sin «Superior».
+
+*Sede.* «**La sede del Tribunal Superior de Justicia es la ciudad de Granada, sin perjuicio de que
+algunas Salas puedan ubicarse en otras ciudades de la Comunidad Autónoma.**» (artículo 4.2).
+
+*Composición.* La fija la LOPJ, no el Estatuto. El Tribunal Superior de Justicia tiene tres
+Salas: «**de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social**» (artículo
+72.1). Lo componen su Presidente, que preside también la Sala de lo Civil y Penal y «**tendrá la
+consideración de Magistrado del Tribunal Supremo mientras desempeñe el cargo**», los Presidentes
+de Sala y los Magistrados que determine la ley (72.2). En la Sala de lo Civil y Penal, «**una de
+cada tres plazas se cubrirá por un jurista de reconocido prestigio con más de 10 años de
+ejercicio profesional en la comunidad autónoma, nombrado a propuesta del Consejo General del
+Poder Judicial sobre una terna presentada por la Asamblea legislativa**» (artículo 330.4 de la
+LOPJ, en la redacción vigente desde el 23 de enero de 2025): la terna la presenta el Parlamento
+de Andalucía.
+
+*Presidente.* «**El Presidente o Presidenta del Tribunal Superior de Justicia de Andalucía es el
+representante del Poder Judicial en Andalucía.**» Lo nombra el Rey, a propuesta del CGPJ «**con
+la participación del Consejo de Justicia de Andalucía**» en los términos de la LOPJ, y el
+Presidente de la Junta ordena publicar el nombramiento en el BOJA (artículo 143.1 del Estatuto).
+Según la LOPJ, los Presidentes de los Tribunales Superiores se nombran «**por un período de cinco
+años renovable por un único mandato de otros cinco años**», entre magistrados con diez años de
+servicios en la categoría y al menos quince en la Carrera Judicial (artículo 336.1, redacción
+vigente desde el 18 de enero de 2019). Los Presidentes de Sala se nombran a propuesta del CGPJ
+con la participación del Consejo de Justicia de Andalucía (143.2). El Presidente del TSJA
+presenta la memoria anual del Tribunal «**ante el Parlamento de Andalucía**» (143.3). El Fiscal
+Superior de Andalucía es el Fiscal Jefe del TSJA y representa al Ministerio Fiscal en Andalucía
+(143.4).
+
+*Competencias estatutarias.* «**En todo caso**» corresponde al TSJA, conforme a las leyes
+estatales (artículo 142), cinco cosas:
+
+1. Conocer de las responsabilidades de los artículos 101.3 y 122: la de los Diputados y la de
+   los Consejeros.
+2. Los recursos relacionados con los procesos electorales de la Comunidad.
+3. Los conflictos de jurisdicción entre órganos de la Comunidad.
+4. Las cuestiones de competencia entre órganos judiciales de Andalucía.
+5. Los conflictos de atribuciones entre Corporaciones locales.
+
+El reparto del fuero es una pregunta clásica:
+
+| Quién | Responsabilidad penal | Responsabilidad civil | Precepto |
+| --- | --- | --- | --- |
+| Diputados | TSJA por actos en Andalucía; fuera, Sala de lo Penal del Tribunal Supremo | (el Estatuto no la regula) | Estatuto, 101.3 |
+| Presidente de la Junta | Sala de lo Penal del Tribunal Supremo | «**Ante el mismo Tribunal**» | Estatuto, 118.5 |
+| Consejeros | Sala de lo Penal del Tribunal Supremo; por delitos cometidos en el ámbito territorial de su jurisdicción, TSJA | TSJA | Estatuto, 122 |
+
+La LOPJ encaja con ese reparto: la Sala de lo Civil y Penal conoce en única instancia de las
+demandas de responsabilidad civil contra el Presidente y los miembros del Consejo de Gobierno y
+contra los miembros de la Asamblea legislativa «**cuando tal atribución no corresponda, según los
+Estatutos de Autonomía, al Tribunal Supremo**» (artículo 73.2.a), y como Sala de lo Penal, de
+«**las causas penales que los Estatutos de Autonomía reservan al conocimiento de los Tribunales
+Superiores de Justicia**» (73.3.a).
+
+*El Consejo de Justicia de Andalucía.* El Estatuto lo define como «**el órgano de gobierno de la
+Administración de Justicia en Andalucía, de acuerdo con lo previsto en la Ley Orgánica del Poder
+Judicial**», lo preside el Presidente del TSJA y lo integran miembros elegidos entre jueces,
+magistrados, fiscales y juristas de reconocido prestigio, correspondiendo al Parlamento designar
+a los que determine la LOPJ (artículo 144.1 y 2); el 144.4 le asigna nueve atribuciones, entre
+ellas participar en la designación del Presidente del TSJA y presentar una memoria anual al
+Parlamento. Todas se remiten a la LOPJ, y este tema no ha encontrado en la LOPJ vigente la
+regulación de ese Consejo: se da solo lo que dice el Estatuto.
+
+### Instituciones de la Comunidad: el Defensor del Pueblo Andaluz
+
+*Naturaleza.* «**El Defensor del Pueblo Andaluz es el comisionado del Parlamento, designado por
+éste para la defensa de los derechos y libertades comprendidos en el Título I de la Constitución
+y en el Título I del presente Estatuto, a cuyo efecto podrá supervisar la actividad de las
+Administraciones públicas de Andalucía, dando cuenta al Parlamento.**» (artículo 128.1 del
+Estatuto). Colabora con el Defensor del Pueblo de las Cortes Generales (128.3). El artículo 41
+del Estatuto le encarga velar por los derechos del título I.
+
+La ley que lo regula es anterior y más estrecha. La Ley 9/1983, de 1 de diciembre, del Defensor
+del Pueblo Andaluz, dice que es el comisionado del Parlamento para la defensa de los derechos
+«**comprendidos en el título primero de la Constitución**» y que puede supervisar «**la actividad
+de la Administración Autonómica**» (artículo 1.1). Las dos normas no cuadran: el Estatuto añade
+los derechos del título I del propio Estatuto y extiende la supervisión a las Administraciones
+públicas de Andalucía, y la ley no se ha adaptado en ese artículo. En la pregunta sobre qué
+derechos defiende o qué Administraciones supervisa según el Estatuto, la respuesta es la del
+artículo 128.1.
+
+*Elección.* El Estatuto solo dice que se elige «**por mayoría cualificada**» y remite a la ley su
+organización, funciones y mandato (128.2). La Ley 9/1983 (artículo 2, en la redacción de la Ley
+3/1996, de 17 de julio) fija:
+
+- Mandato de «**cinco años**» (2.1).
+- La Comisión parlamentaria competente propone al Pleno el candidato o candidatos; sus acuerdos
+  se adoptan por mayoría simple con voto ponderado (2.3).
+- Propuesto el candidato, el Pleno se convoca «**en término no inferior a quince días**» y
+  resulta designado quien obtenga «**una votación favorable de las tres quintas partes de los
+  miembros del Parlamento**» (2.4).
+- Si no se alcanza, la Comisión se reúne de nuevo «**en el plazo máximo de un mes**» para nuevas
+  propuestas (2.5). No hay una segunda votación con mayoría rebajada.
+
+Puede ser elegido cualquier ciudadano en pleno disfrute de sus derechos civiles y políticos que
+tenga la condición política de andaluz; la ley remite para ello al «**artículo 8.º del Estatuto
+de Autonomía para Andalucía**», que era el del Estatuto de 1981; hoy esa condición la define el
+artículo 5 (artículo 3). El Presidente del Parlamento acredita el nombramiento, que se publica
+en el BOJA, y el Defensor toma posesión ante la Mesa del Parlamento (artículo 4).
+
+*Cese* (artículo 5, en la redacción de la Ley 3/2001, de 22 de mayo). Seis causas: renuncia;
+expiración del plazo; muerte o incapacidad sobrevenida; notoria negligencia en el cumplimiento de
+los deberes del cargo; condena firme a inhabilitación absoluta o especial para cargo público; y
+condena firme por delito doloso a penas sin inhabilitación. La vacante la declara el Presidente
+del Parlamento en los casos de renuncia, expiración del mandato, muerte, incapacidad sobrevenida
+e inhabilitación; en los demás, «**se decidirá por mayoría de los tres quintos de los diputados,
+mediante debate y previa audiencia del interesado**» (5.2). Al expirar el mandato sigue en
+funciones hasta que tome posesión el sucesor (5.3); en las demás vacantes lo sustituye
+interinamente un Adjunto (5.4).
+
+*Estatuto personal.* «**El Defensor del Pueblo Andaluz no estará sujeto a mandato imperativo
+alguno. No recibirá instrucciones de ninguna autoridad.**» (artículo 6). Su cargo es incompatible
+con todo mandato representativo, cargo político, servicio activo en una Administración,
+afiliación a partido, sindicato, asociación o fundación, las carreras judicial y fiscal y
+cualquier otra actividad profesional, mercantil o laboral; debe cesar en la incompatibilidad
+«**dentro de los diez días siguientes a su nombramiento**» y, en todo caso, antes de tomar
+posesión (artículo 7).
+
+*Adjuntos.* «**El Defensor del Pueblo Andaluz estará auxiliado por tres personas adjuntas**», en
+las que puede delegar, y designará entre ellas a la que le auxilie en sus funciones de «**Defensor
+o Defensora de la Infancia y Adolescencia**» (artículo 8.1, en la redacción de la Ley 4/2021, de
+27 de julio, de Infancia y Adolescencia de Andalucía, vigente desde el 30 de agosto de 2021).
+Los nombra y separa el propio Defensor, previa conformidad de la Comisión parlamentaria (8.2).
+
+*Quejas.* Puede dirigirse al Defensor «**toda persona, natural o jurídica, que invoque un interés
+legitimo, sin restricción alguna**»; no son impedimento la nacionalidad, la residencia, el sexo,
+la minoría de edad, la incapacidad legal ni el internamiento (artículo 11.1). No puede presentar
+queja una autoridad administrativa en asuntos de su competencia (11.3). La queja se presenta
+firmada, con nombre, apellidos y domicilio, «**en el plazo máximo de un año**» desde que se
+conocieron los hechos; las actuaciones son gratuitas y no requieren abogado ni procurador
+(artículo 16). El Defensor rechaza las quejas anónimas y puede rechazar las de mala fe o sin
+fundamento; sus decisiones no son recurribles (17.3). No entra en quejas pendientes de
+resolución judicial y suspende su examen si se interpone demanda o recurso (17.2). Las quejas
+sobre la Administración de Justicia las remite al Ministerio Fiscal o al CGPJ (artículo 15).
+Admitida una queja, el organismo afectado debe remitir informe escrito «**en el plazo máximo de
+quince días**», ampliable (18.1).
+
+*Resoluciones.* El Defensor no es competente «**para modificar o anular los actos y resoluciones
+de la Administración Autonómica**», pero puede sugerir que se modifiquen los criterios (artículo
+28.1). Formula advertencias, recomendaciones, recordatorios de deberes legales y sugerencias, y
+las autoridades y funcionarios «**vendrán obligados a responder por escrito en término no
+superior a un mes**» (29.1). Puede instar del Defensor del Pueblo del Estado la interposición de
+recurso de inconstitucionalidad contra normas del Parlamento y del Consejo de Gobierno de
+Andalucía (artículo 26).
+
+*Relación con el Parlamento.* Da cuenta anualmente de su gestión en un informe que presenta «**en
+el período ordinario de sesiones**» y que se publica en el BOPA; si la gravedad o la urgencia lo
+aconsejan, presenta un informe extraordinario (artículo 31). El personal a su servicio se
+considera personal del Parlamento (artículo 34) y su dotación económica es una partida del
+presupuesto del Parlamento (artículo 35). El informe anual se debate en la Comisión Consultiva
+de Nombramientos, Relaciones con el Defensor del Pueblo Andaluz y Peticiones y en el Pleno, y
+en ese debate «**no podrán presentarse propuestas de resolución**» (artículo 183 del Reglamento
+del Parlamento).
+
+*Un nombre que la ley no ha actualizado.* La Ley 9/1983 atribuye las relaciones con el Defensor
+a «**La Comisión de Gobierno Interior y Derechos Humanos, regulada por el artículo 48 del
+Reglamento del Parlamento**» (artículo 2.2, y también en los artículos 5, 7, 8 y 9). En el
+Reglamento del Parlamento vigente esa función la tiene la Comisión Consultiva de Nombramientos,
+Relaciones con el Defensor del Pueblo Andaluz y Peticiones, regulada en el artículo 49: la
+forman la Mesa del Parlamento y un Diputado por grupo, y decide con voto ponderado. El artículo
+48 del Reglamento vigente regula hoy la Comisión del Estatuto de los Diputados.
+
+### Instituciones de la Comunidad: la Cámara de Cuentas de Andalucía
+
+*Naturaleza.* «**La Cámara de Cuentas es el órgano de control externo de la actividad económica y
+presupuestaria de la Junta de Andalucía, de los entes locales y del resto del sector público de
+Andalucía.**» y «**depende orgánicamente del Parlamento de Andalucía**» (artículo 130 del
+Estatuto). La crea la Ley 1/1988, de 17 de marzo, de la Cámara de Cuentas de Andalucía, como
+«**órgano técnico dependiente del Parlamento de Andalucía**», al que corresponde la fiscalización
+externa de la gestión económica, financiera y contable de los fondos públicos de la Comunidad,
+«**sin perjuicio de las competencias que la Constitución atribuye al Tribunal de Cuentas**»
+(artículo 1). Su ámbito es el sector público de la Comunidad: la Junta con sus organismos,
+instituciones y empresas; las Corporaciones Locales y sus organismos y empresas; las
+Universidades públicas de Andalucía; y los demás que incluya una ley (artículo 2.1).
+
+*Funciones* (artículo 4), que ejerce «**con total independencia**»:
+
+- a) Fiscalizar la actividad económico-financiera del sector público de Andalucía; en todo caso,
+  las subvenciones, créditos, avales y demás ayudas.
+- b) Fiscalizar el grado de cumplimiento de los objetivos de los programas presupuestarios.
+- c) Asesorar al Parlamento de Andalucía en las materias de su competencia.
+- d) Fiscalizar especialmente los contratos administrativos del sector público.
+
+Además, desarrolla las funciones de fiscalización que le delegue el Tribunal de Cuentas (4.2). El
+artículo 4.3 conserva un umbral en pesetas para el envío de contratos.
+
+*Iniciativa y plazos.* La iniciativa fiscalizadora corresponde a la Cámara de Cuentas y al
+Parlamento; pueden interesarla también el Gobierno de la Comunidad y las Entidades Locales,
+previo acuerdo del Pleno respectivo (artículo 6). La Cuenta General de la Junta debe presentarse
+a la Cámara «**antes del 31 de octubre inmediato posterior al ejercicio económico**», y la Cámara
+la examina «**dentro del plazo de tres meses**» desde su presentación (artículo 11, en la
+redacción de la Ley 8/2025, de 22 de diciembre, del Presupuesto para 2026, vigente desde el 1 de
+enero de 2026). Las cuentas de las corporaciones locales se presentan en el mes siguiente a su
+aprobación por el Pleno y, en todo caso, «**antes del primero de noviembre**». Los resultados se
+exponen en informes anuales o especiales que se elevan al Parlamento, se remiten al Tribunal de
+Cuentas y se publican en el BOJA; si advierte indicios de responsabilidad contable, la Cámara
+los traslada «**sin dilación**» al Tribunal de Cuentas (artículo 12). Rinde al Parlamento, antes
+del 1 de marzo de cada año, una memoria de lo actuado el año anterior (artículo 35).
+
+*Órganos* (artículo 16, en la redacción de la Ley 3/2011, de 28 de abril): el Pleno, la Comisión
+de Gobierno, la Presidencia, la Vicepresidencia, los Consejeros y la Secretaría General. El
+Pleno lo componen «**siete Consejeros**», entre los que se eligen la Presidencia y la
+Vicepresidencia; no puede constituirse ni actuar sin la presencia de una de ellas y necesita la
+mayoría de sus miembros; decide por mayoría de los asistentes y la Presidencia dirime los
+empates (artículo 17). La Comisión de Gobierno la forman la Presidencia, la Vicepresidencia y
+otros dos Consejeros designados por el Pleno (artículo 18).
+
+*Elección* (artículo 24):
+
+- Los Consejeros, «**en número de siete, serán designados por el Parlamento de Andalucía mediante
+  votación y por mayoría de tres quintas partes de sus miembros, por un período de seis años,
+  renovándose cada tres por tres y cuatro séptimas partes sucesivamente**».
+- Todos los grupos parlamentarios, salvo el Grupo Mixto, tienen derecho a que al menos uno de
+  los elegidos proceda de su propuesta.
+- No pueden ser designados quienes el año anterior hayan gestionado, inspeccionado o intervenido
+  ingresos y gastos del sector público andaluz, ni los perceptores de subvenciones, avales o
+  exenciones.
+- La Presidencia «**será nombrada por el Presidente de la Junta de Andalucía, a propuesta del
+  Pleno de la Cámara de Cuentas**», por tres años, y puede ser reelegida (24.2).
+- La Vicepresidencia la nombra el Pleno de la Cámara, también por tres años (24.3).
+
+*Estatuto de los Consejeros.* Gozan de «**independencia e inamovilidad**» y se eligen entre
+personas «**de reconocida competencia profesional**» (artículo 25.1). El cargo es incompatible con
+cualquier otra actividad pública o privada que no sea la administración del propio patrimonio
+(artículo 26). Solo cesan por terminación del mandato, renuncia aceptada por el Parlamento,
+incapacidad, incompatibilidad sobrevenida o responsabilidad disciplinaria (artículo 27).
+
+*Tramitación en el Parlamento.* El informe sobre la Cuenta General se dictamina en Comisión en los
+treinta días siguientes a su publicación en el BOPA, con propuestas de resolución que pasan al
+Pleno (artículo 185 del Reglamento del Parlamento); los demás informes, en Comisión (artículo
+186); la iniciativa fiscalizadora del Parlamento se tramita como proposición no de ley (artículo
+187).
+
+*Nombres que no cuadran.* La Ley 1/1988 llama a la comisión parlamentaria competente «**Comisión
+de Hacienda y Presupuestos**» (artículos 6.3, 34 y 35); el Reglamento del Parlamento, «**Comisión
+de Hacienda y Administración Pública**» (artículos 184 a 187); y la lista vigente de comisiones
+legislativas incluye la de «**Economía, Hacienda, Fondos Europeos y Diálogo Social**» (artículo
+46.1). Además, los artículos 184 a 186 del Reglamento del Parlamento y el 4.3 de la Ley Electoral
+siguen hablando del «**Consejero Mayor**», cuando la Ley 1/1988 habla desde 2011 de la «**persona
+titular de la Presidencia**».
+
+### Instituciones de la Comunidad: la Oficina Andaluza contra el Fraude y la Corrupción
+
+*Creación y naturaleza.* No está en el Estatuto. La crea la Ley 2/2021, de 18 de junio, de lucha
+contra el fraude y la corrupción en Andalucía y protección de la persona denunciante, vigente
+desde el 2 de julio de 2021: «**Se crea la Oficina Andaluza contra el Fraude y la Corrupción (en
+adelante, la Oficina) como entidad de derecho público, con personalidad jurídica propia y plena
+capacidad de obrar para el cumplimiento de sus fines.**» «**La Oficina se adscribe al Parlamento
+de Andalucía.**» y actúa «**con plena autonomía e independencia funcional**» (artículo 6). La ley
+tiene tres objetos: crear la Oficina y regular su procedimiento de investigación e inspección,
+proteger a quienes denuncien y establecer un régimen sancionador (artículo 1.2).
+
+*Régimen.* Se rige por la ley, por su desarrollo reglamentario y por un reglamento de régimen
+interior y funcionamiento cuya propuesta elabora la persona titular de la Dirección «**y se
+remitirá al Parlamento de Andalucía para su aprobación**» (artículo 8).
+
+*Funciones* (artículo 9.1, en la redacción de la Ley 1/2022, de 27 de diciembre, del Presupuesto
+para 2023): dieciséis letras, de la a) a la o) con la ñ). Entre ellas: velar por la integridad y
+los deberes de los empleados públicos del Estatuto Básico del Empleado Público (a); las
+actuaciones de investigación e inspección (b); informar preceptivamente al Parlamento sobre los
+proyectos normativos relacionados con su finalidad (c); un código ético o de buenas prácticas
+(d); formular propuestas y recomendaciones, cuyos destinatarios deben informar a la Oficina «**en
+un plazo de treinta días**» de lo que han hecho (f y g); tramitar las denuncias (k) y tutelar los
+derechos de los denunciantes (l); y la potestad sancionadora por las infracciones de la propia
+ley (m) y de la Ley 3/2005 de incompatibilidades de altos cargos (n).
+
+*Límites.* Sus funciones se entienden sin perjuicio de las de la Cámara de Cuentas, el Defensor
+del Pueblo Andaluz y otros órganos de control (artículo 12.1). «**La Oficina no podrá realizar
+funciones correspondientes a la autoridad judicial, Ministerio Fiscal y policía judicial**»;
+si el juez o el fiscal inician un procedimiento sobre los mismos hechos, la Oficina suspende sus
+actuaciones y aporta la información (12.2).
+
+*La Dirección* (artículo 25):
+
+- La elige el Pleno del Parlamento «**por mayoría de tres quintas partes de las personas que lo
+  compongan**», entre personas de reconocida competencia con titulación universitaria idónea y
+  «**más de diez años de experiencia profesional acreditada**» en la prevención y lucha contra el
+  fraude y la corrupción (25.1).
+- Si no se obtiene esa mayoría, hay «**una segunda votación en un plazo no inferior a quince
+  días**», en la que basta la mayoría absoluta (25.1).
+- Los candidatos los proponen los grupos parlamentarios a la Mesa y comparecen ante la comisión
+  correspondiente (25.2).
+- «**será nombrada por la Presidencia del Parlamento de Andalucía**» y toma posesión en el plazo
+  máximo de un mes (25.3).
+- «**El mandato de la persona titular de la Dirección de la Oficina será de cinco años desde la
+  fecha de su elección por el Parlamento de Andalucía y no será renovable.**» (25.4).
+
+*Incompatibilidades y cese.* El artículo 27.1 enumera siete incompatibilidades (cargos
+representativos o designados por el Parlamento o las Cortes, cargos políticos o administrativos,
+actividad profesional, mercantil o laboral, carrera judicial o fiscal en activo, cargos
+directivos en entidades sin ánimo de lucro y afiliación a partidos, sindicatos o asociaciones
+profesionales o empresariales), y durante dos años tras el mandato rige una prohibición de
+ocupar ciertos cargos (27.4). El cese tiene siete causas (artículo 28.1): renuncia; expiración
+del mandato; incompatibilidad sobrevenida; fallecimiento o incapacidad judicial; inhabilitación
+judicial para los derechos políticos; estar investigada con medidas cautelares, encausada o
+condenada por delito; y «**negligencia notoria y grave**». En el último caso el cese lo acuerda
+el Parlamento «**por mayoría de dos terceras partes**» y, si no se alcanza, en segunda votación
+por mayoría absoluta (28.4). Al expirar el mandato sigue en funciones hasta que tome posesión la
+nueva Dirección, lo que debe ocurrir en los tres meses siguientes (28.5).
+
+*Organización, personal y presupuesto.* El reglamento de régimen interior debe prever al menos dos
+subdirecciones: una de investigación, inspección y régimen sancionador, y otra de protección del
+denunciante, prevención y canal de denuncias (artículo 29). Los puestos se cubren con
+funcionarios de carrera, que se rigen por la normativa del personal del Parlamento (artículo
+31). Su presupuesto se integra en la sección del Parlamento «**como programa específico**»
+(artículo 32.2, en la redacción de la Ley 8/2025).
+
+*Procedimiento y control.* La resolución que pone fin a la investigación se dicta en seis meses,
+ampliables «**en tres meses más**», y el plazo máximo «**no podrá exceder de nueve meses**»
+(artículo 23.1). La Oficina está obligada a admitir y tramitar denuncias anónimas si cumplen los
+requisitos legales (disposición adicional segunda). En los tres primeros meses de cada año la
+Dirección aprueba una memoria anual, que se publica en el BOPA y en el BOJA, la remite al
+Parlamento y comparece para presentarla (artículo 33); puede aprobar además informes especiales
+y recomendaciones (artículo 34). Hasta que se reforme el Reglamento del Parlamento para crear una
+comisión específica, las relaciones con la Oficina corresponden a la Comisión Consultiva de
+Nombramientos, Relaciones con el Defensor del Pueblo Andaluz y Peticiones (disposición
+transitoria segunda); el Reglamento del Parlamento consolidado a 22 de octubre de 2025 no ha
+creado esa comisión.
+
+Un cuadro de las mayorías de elección de las tres instituciones parlamentarias:
+
+| Órgano | Quién elige | Mayoría | Mandato | Precepto |
+| --- | --- | --- | --- | --- |
+| Defensor del Pueblo Andaluz | Pleno del Parlamento | Tres quintos, sin segunda votación rebajada | Cinco años | Ley 9/1983, 2 |
+| Consejeros de la Cámara de Cuentas (siete) | Parlamento | Tres quintos | Seis años, renovación por tres y cuatro séptimas partes | Ley 1/1988, 24.1 |
+| Presidencia de la Cámara de Cuentas | Presidente de la Junta, a propuesta del Pleno de la Cámara | — | Tres años, reelegible | Ley 1/1988, 24.2 |
+| Dirección de la Oficina contra el Fraude | Pleno del Parlamento; nombra la Presidencia del Parlamento | Tres quintos; en segunda votación, absoluta | Cinco años, no renovable | Ley 2/2021, 25 |

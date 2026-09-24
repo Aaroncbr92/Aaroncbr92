@@ -1357,3 +1357,407 @@ Los poderes públicos garantizan información y **«una atención integral real 
 víctimas de incidentes de odio, discriminación e intolerancia (53), realizan campañas de
 sensibilización, garantizan la asistencia **«aunque no se interponga denuncia»**, y establecen en
 los centros escolares un protocolo contra el acoso escolar discriminatorio (54).
+
+## Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI
+
+### Identificación, estructura y recursos ante el Tribunal Constitucional
+
+Ley estatal publicada en el BOE núm. 51, de 1 de marzo de 2023; según su disposición final
+vigésima, **«La presente ley entrará en vigor el día siguiente al de su publicación en el
+"Boletín Oficial del Estado"»**: el 2 de marzo de 2023. No ha sido modificada. Su disposición
+derogatoria única dice: **«Queda derogada la Ley 3/2007, de 15 de marzo, reguladora de la
+rectificación registral de la mención relativa al sexo de las personas.»**
+
+| Parte | Rúbrica | Artículos |
+| --- | --- | --- |
+| Título preliminar | Disposiciones generales | 1 a 3 |
+| Título I | Actuación de los poderes públicos (cap. I, criterios generales y órgano de participación; cap. II, políticas públicas, en once secciones: estrategia estatal; ámbito administrativo; laboral; salud; educación; cultura, ocio y deporte; medios de comunicación social e internet; familia, infancia y juventud; acción exterior y protección internacional; medio rural; turismo) | 4 a 42 |
+| Título II | Medidas para la igualdad real y efectiva de las personas trans (cap. I, rectificación registral y adecuación documental; cap. II, políticas públicas) | 43 a 61 |
+| Título III | Protección efectiva y reparación frente a la discriminación y la violencia por LGTBIfobia | 62 a 75 |
+| Título IV | Infracciones y sanciones | 76 a 82 |
+
+Tiene 82 artículos, cuatro disposiciones adicionales, dos transitorias, una derogatoria y veinte
+finales. Las finales modifican, entre otras, el Código Civil, la Ley del Registro Civil, el
+Estatuto de los Trabajadores, la Ley sobre Infracciones y Sanciones en el Orden Social, el texto
+refundido del Estatuto Básico del Empleado Público y la Ley de Contratos del Sector Público; la
+redacción vigente de esos preceptos se estudia en esas normas, no aquí.
+
+**Relación con la Ley 15/2022 (disposición adicional cuarta).** La Ley 15/2022 **«se aplicará en
+todo lo que no se encuentre regulado de manera específica en la presente ley.»**
+
+**Recursos de inconstitucionalidad.** Hay dos, admitidos a trámite:
+
+- **2428-2023**, promovido por más de cincuenta diputados del Grupo Parlamentario Vox, admitido
+  por providencia de 9 de mayo de 2023 (BOE de 18 de mayo de 2023). Impugna una larga lista de
+  preceptos; entre ellos, las letras a), b), g) e i) del artículo 3, los artículos 14.d), 17,
+  19.2, 23, 24 (párrafo segundo), 27.2 (inciso final), 42, 43.1 y 2, 44.3, 46.4, 47, 52.2, 54, 70.3, 79 y 80.2 y 3,
+  el inciso final del 82 y varias disposiciones finales.
+- **3679-2023**, promovido por más de cincuenta diputados del Grupo Parlamentario Popular en el
+  Congreso, admitido por providencia de 20 de junio de 2023 (BOE de 28 de junio de 2023), contra
+  **«los artículos 19.2; 43, apartados 1 y 2; 44, apartados 3 y 9; 47, primer párrafo; y 79,
+  apartados 3 b), 4 e) y 4 f)»**.
+
+A 24 de septiembre de 2026 **no hay sentencia** que resuelva ninguno de los dos: el buscador de
+jurisprudencia del Tribunal Constitucional, consultado ese día por número de recurso (2428/2023
+y 3679/2023), responde que no hay resultados, y en el BOE no consta ninguna sentencia sobre esta
+ley. Los preceptos recurridos están, por tanto, vigentes en su redacción original.
+
+### Objeto, ámbito y definiciones (título preliminar)
+
+**Objeto (artículo 1).** **«Esta Ley tiene por finalidad garantizar y promover el derecho a la
+igualdad real y efectiva de las personas lesbianas, gais, trans, bisexuales e intersexuales (en
+adelante, LGTBI), así como de sus familias.»** Establece principios de actuación de los poderes
+públicos, regula derechos y deberes y prevé medidas de prevención, corrección y eliminación de
+la discriminación y para superar los estereotipos (1.2). **«Asimismo, la Ley regula el
+procedimiento y requisitos para la rectificación registral relativa al sexo y, en su caso,
+nombre de las personas, así como sus efectos»** (1.3).
+
+**Ámbito (artículo 2).** Un solo párrafo, que no distingue ámbito subjetivo y objetivo: la ley
+**«será de aplicación a toda persona física o jurídica, de carácter público o privado, que
+resida, se encuentre o actúe en territorio español, cualquiera que fuera su nacionalidad,
+origen racial o étnico, religión, domicilio, residencia, edad, estado civil o situación
+administrativa»**.
+
+**Definiciones (artículo 3).** Diecisiete letras, de la a) a la p) con ñ. Las causas propias
+de esta ley son cuatro: **orientación sexual, identidad sexual, expresión de género y
+características sexuales**.
+
+- a) **Discriminación directa**: igual que en la Ley 15/2022, **«en situación análoga o
+  comparable»**, referida a esas cuatro causas, e incluye la denegación de ajustes razonables a
+  las personas con discapacidad.
+- b) **Discriminación indirecta**.
+- c) **Discriminación múltiple e interseccional**: hay discriminación múltiple cuando una persona
+  es discriminada, simultánea o consecutivamente, **«por dos o más causas de las previstas en
+  esta ley, y/o por otra causa o causas de discriminación previstas en la Ley 15/2022, de 12 de
+  julio»**; interseccional, **«cuando concurren o interactúan diversas causas comprendidas en el
+  apartado anterior, generando una forma específica de discriminación.»**
+- d) **Acoso discriminatorio**: la misma definición que la Ley 15/2022.
+- e) **Discriminación por asociación y por error.** (En esta ley van después del acoso; en la
+  Ley 15/2022, antes.)
+- f) **Medidas de acción positiva.**
+- g) **Intersexualidad**: **«La condición de aquellas personas nacidas con unas características
+  biológicas, anatómicas o fisiológicas, una anatomía sexual, unos órganos reproductivos o un
+  patrón cromosómico que no se corresponden con las nociones socialmente establecidas de los
+  cuerpos masculinos o femeninos.»**
+- h) **Orientación sexual**: **«Atracción física, sexual o afectiva hacia una persona.»** Puede
+  ser heterosexual, homosexual o bisexual; **«Las personas homosexuales pueden ser gais, si son
+  hombres, o lesbianas, si son mujeres.»**
+- i) **Identidad sexual**: **«Vivencia interna e individual del sexo tal y como cada persona la
+  siente y autodefine, pudiendo o no corresponder con el sexo asignado al nacer.»**
+- j) **Expresión de género**: **«Manifestación que cada persona hace de su identidad sexual.»**
+- k) **Persona trans**: **«Persona cuya identidad sexual no se corresponde con el sexo asignado
+  al nacer.»**
+- l) **Familia LGTBI**: aquella en la que uno o más integrantes son personas LGTBI, incluidas las
+  familias homoparentales.
+- m) **LGTBIfobia**: **«Toda actitud, conducta o discurso de rechazo, repudio, prejuicio,
+  discriminación o intolerancia hacia las personas LGTBI por el hecho de serlo, o ser percibidas
+  como tales.»** Con la misma fórmula, n) homofobia, ñ) bifobia y o) transfobia.
+- p) **Inducción, orden o instrucción de discriminar**, con la misma exigencia de que sea
+  **«concreta, directa y eficaz»**.
+
+La ley no define las represalias en el artículo 3: aparecen como infracción en el 79.4.b).
+
+### Principios y políticas públicas (título I, capítulo I, y estrategias)
+
+- **Deber de protección (artículo 4)**: los poderes públicos **«desarrollarán todas las medidas
+  necesarias para reconocer, garantizar, proteger y promover la igualdad de trato y no
+  discriminación»** por las cuatro causas de la ley.
+- **Reconocimiento y apoyo institucional (5)**, **divulgación y sensibilización (6)**,
+  **estadísticas y estudios (7)** y **colaboración entre Administraciones (8)**, que adoptan
+  planes conjuntos en la Conferencia Sectorial de Igualdad.
+- **Estrategia estatal para la igualdad de trato y no discriminación de las personas LGTBI
+  (artículo 10)**: **«instrumento principal de colaboración territorial»**; la elabora el
+  Ministerio de Igualdad y se aprueba **«mediante Acuerdo del Consejo de Ministros, previo
+  informe favorable de la Conferencia Sectorial de Igualdad»**; **«La Estrategia tendrá carácter
+  cuatrienal.»** Se coordina con la Estrategia Estatal de la Ley 15/2022 (10.7).
+- **Estrategia estatal para la inclusión social de las personas trans (artículo 52)**, también
+  cuatrienal, aprobada por el Consejo de Ministros, con **«medidas de acción positiva en los
+  ámbitos laboral, educativo, sanitario y de vivienda»** y un informe de evaluación intermedia
+  **«una vez transcurridos dos años desde su aprobación»**.
+
+### Medidas por ámbitos (título I, capítulo II)
+
+**Ámbito administrativo (artículos 11 a 13).** Las Administraciones implantarán medidas de
+igualdad en el acceso al empleo público y la carrera profesional, **«previa negociación con las
+organizaciones sindicales»** (11); formarán a su personal, con atención especial, entre otros,
+al de la comunicación (12.1); y **«incluirán en los programas de las pruebas selectivas de
+acceso al empleo público formación y conocimientos sobre igualdad de trato y no discriminación
+de las personas LGTBI.»** (12.2).
+
+**Ámbito laboral (artículos 14 y 15).**
+
+El artículo 14 obliga a las Administraciones públicas a tener en cuenta en sus políticas de
+empleo el derecho a no ser discriminado y a adoptar medidas con ocho objetos (letras a a h),
+entre ellos: d) indicadores de igualdad que tengan en cuenta la realidad LGTBI en los sectores
+público y privado y **«la creación de un distintivo que permita reconocer a las empresas que
+destaquen por la aplicación de políticas de igualdad y no discriminación de las personas
+LGTBI»**; e) cláusulas en los convenios colectivos y procedimientos para las denuncias; f)
+vigilancia por la Inspección de Trabajo y Seguridad Social; h) **«Impulsar la elaboración de
+códigos éticos y protocolos en las Administraciones públicas y en las empresas»**.
+
+Artículo 15.1, que conviene saber entero: **«Las empresas de más de cincuenta personas
+trabajadoras deberán contar, en el plazo de doce meses a partir de la entrada en vigor de la
+presente ley, con un conjunto planificado de medidas y recursos para alcanzar la igualdad real y
+efectiva de las personas LGTBI, que incluya un protocolo de actuación para la atención del acoso
+o la violencia contra las personas LGTBI. Para ello, las medidas serán pactadas a través de la
+negociación colectiva y acordadas con la representación legal de las personas trabajadoras. El
+contenido y alcance de esas medidas se desarrollarán reglamentariamente.»** La ley no lo llama
+«plan», sino «conjunto planificado de medidas». Por el 15.2, el Consejo de Participación de las
+Personas LGTBI recopila y difunde las buenas prácticas de las empresas.
+
+**Desarrollo reglamentario: Real Decreto 1026/2024, de 8 de octubre** (BOE de 9 de octubre de
+2024, en vigor desde el 10 de octubre de 2024). Es reglamento, no ley:
+
+- Se aplica a las empresas del artículo 1.2 del Estatuto de los Trabajadores **«que cuenten con
+  más de cincuenta personas trabajadoras en su plantilla»**; **«La negociación de las medidas
+  planificadas será voluntaria en las empresas de cincuenta o menos personas trabajadoras.»**
+  (artículo 2).
+- Se computa la plantilla total, cualquiera que sea el número de centros y la forma de
+  contratación; cada contrato a tiempo parcial cuenta **«como una persona trabajadora más»**
+  (artículo 3).
+- La comisión negociadora se constituye **«dentro del plazo máximo de los tres meses siguientes
+  a la entrada en vigor de este real decreto»**, o de seis meses si la empresa no tiene convenio
+  ni representación legal; si en tres meses desde el inicio no hay acuerdo, se aplican las
+  medidas del real decreto (artículo 5).
+- Las medidas deben contemplar al menos las del anexo I (siete contenidos: cláusulas de igualdad
+  y no discriminación; acceso al empleo; clasificación y promoción; formación, sensibilización y
+  lenguaje; entornos laborales diversos, seguros e inclusivos; permisos y beneficios sociales;
+  régimen disciplinario) y un protocolo frente al acoso y la violencia ajustado al anexo II
+  (artículo 8.3 y 8.4). La obligación del protocolo **«podrá entenderse cumplida cuando la
+  empresa cuente con un protocolo general frente al acoso y violencia que prevea medidas para las
+  personas LGTBI o bien lo amplíe específicamente para incluirlas.»**
+
+En el título II, para las personas trans: el Ministerio de Trabajo diseñará medidas de acción
+positiva y planes de empleo (54); las Administraciones **«podrán»** impulsar campañas, medidas de
+integración, seguimiento y subvenciones a la contratación (55.2); y **«En la elaboración de
+planes de igualdad y no discriminación se incluirá expresamente a las personas trans, con
+especial atención a las mujeres trans.»** (55.3).
+
+**Medios de comunicación social e internet (sección 7.ª, artículos 27 a 29).**
+
+- **Artículo 27.1**: **«Todos los medios de comunicación social respetarán el derecho a la
+  igualdad de trato de las personas LGTBI, evitando toda forma de discriminación por razón de
+  orientación sexual, identidad sexual, expresión de género y características sexuales en el
+  tratamiento de la información, en sus contenidos y en su programación.»**
+- **Artículo 27.2**: **«Los poderes públicos, en el ámbito de sus competencias, fomentarán, en
+  los medios de comunicación de titularidad pública y en los que perciban subvenciones públicas,
+  la sensibilización y el respeto a la diversidad en materia de orientación sexual, identidad
+  sexual, expresión de género y características sexuales, y adoptarán las medidas oportunas para
+  la eliminación de los contenidos que puedan incitar al odio, la discriminación o la violencia
+  contra las personas LGTBI o sus familiares.»** El inciso final de este apartado está entre los
+  preceptos impugnados en el recurso 2428-2023, sin sentencia a la fecha.
+- **Artículo 28**: las Administraciones **«promoverán la adopción de acuerdos de autorregulación
+  de los medios de comunicación social»** para la concienciación y el respeto a la diversidad.
+- **Artículo 29**: medidas para **«prevenir y erradicar el ciberacoso»** por las causas de la
+  ley, con atención especial a menores y jóvenes LGTBI en redes sociales; los servicios públicos
+  de protección y de ciberseguridad harán campañas y protocolos especiales.
+- En el régimen sancionador, es infracción grave la no retirada de expresiones vejatorias en
+  sitios web o redes sociales por el prestador de servicios de la sociedad de la información
+  **«una vez tenga conocimiento efectivo del uso de estas expresiones.»** (79.3.a).
+
+**Otros ámbitos.**
+
+- **Salud (16 a 19)**: acceso a las técnicas de reproducción asistida de **«mujeres lesbianas,
+  mujeres bisexuales y mujeres sin pareja»** y de las personas trans con capacidad de gestar
+  (16.2). **Prohibición de terapias de conversión (17)**: se prohíben, **«incluso si cuentan con
+  el consentimiento de la persona interesada o de su representante legal.»** Personas
+  intersexuales (19.2): **«Se prohíben todas aquellas prácticas de modificación genital en
+  personas menores de doce años, salvo en los casos en que las indicaciones médicas exijan lo
+  contrario en aras de proteger la salud de la persona.»**; entre doce y dieciséis años, solo a
+  solicitud del menor si puede consentir de forma informada.
+- **Educación (20 a 24)**, **cultura, ocio y deporte (25 y 26)**, **familia, infancia y juventud
+  (30 a 35)**, **acción exterior y protección internacional (36 a 38)**, **medio rural (39 a
+  41)** y **turismo (42)**.
+
+### Las personas trans: rectificación registral y políticas públicas (título II)
+
+**Legitimación (artículo 43).**
+
+| Edad | Qué puede hacer |
+| --- | --- |
+| Mayores de dieciséis años | **«Toda persona de nacionalidad española mayor de dieciséis años podrá solicitar por sí misma ante el Registro Civil la rectificación de la mención registral relativa al sexo.»** (43.1) |
+| Entre catorce y dieciséis | Presentar la solicitud por sí mismas, **«asistidas en el procedimiento por sus representantes legales»**; si hay desacuerdo entre progenitores o con la persona menor, se nombra un defensor judicial (artículos 235 y 236 del Código Civil) (43.2) |
+| Entre doce y catorce | **«podrán solicitar la autorización judicial para la modificación de la mención registral del sexo»**, por el procedimiento de la Ley 15/2015, de Jurisdicción Voluntaria (43.4) |
+
+Las personas con discapacidad pueden solicitarla con las medidas de apoyo que precisen (43.3).
+Para menores de doce años la ley no prevé la rectificación del sexo; sí reconoce a las personas
+trans menores de edad el derecho al cambio de nombre en el Registro Civil conforme a la Ley
+20/2011 (artículo 48).
+
+**Procedimiento (artículos 44 y 45).**
+
+- Se presenta **«ante la persona encargada de cualquier Oficina del Registro Civil»** (44.2), y
+  es competente la persona encargada de la oficina donde se presentó (45).
+- 44.3: **«El ejercicio del derecho a la rectificación registral de la mención relativa al sexo
+  en ningún caso podrá estar condicionado a la previa exhibición de informe médico o psicológico
+  relativo a la disconformidad con el sexo mencionado en la inscripción de nacimiento, ni a la
+  previa modificación de la apariencia o función corporal de la persona a través de
+  procedimientos médicos, quirúrgicos o de otra índole.»**
+- Comparecencia inicial: la persona manifiesta su disconformidad, elige nombre (salvo que
+  conserve el suyo) y recibe información sobre las consecuencias, **«incluido el régimen de
+  reversión»** (44.4 y 44.5).
+- 44.8: **«En el plazo máximo de tres meses desde la comparecencia inicial»**, la persona
+  encargada cita a la solicitante para que **«ratifique su solicitud, aseverando la persistencia
+  de su decisión.»**
+- 44.9: resolución **«dentro del plazo máximo de un mes a contar desde la fecha de la segunda
+  comparecencia.»**
+- 44.10: recurso de alzada ante la **«Dirección General de Seguridad Jurídica y Fe Pública.»**
+
+**Efectos (artículo 46).** **«La resolución que acuerde la rectificación de la mención registral
+del sexo tendrá efectos constitutivos a partir de su inscripción en el Registro Civil.»** No
+altera el régimen de la Ley Orgánica 1/2004 aplicable antes de la inscripción (46.3). Quien pase
+del sexo masculino al femenino puede beneficiarse de las acciones positivas para las mujeres
+solo en las situaciones posteriores al cambio; quien pase del femenino al masculino conserva los
+derechos patrimoniales consolidados, **«sin que haya lugar a su reintegro o devolución»** (46.4).
+
+**Reversibilidad (artículo 47).** **«Transcurridos seis meses desde la inscripción en el
+Registro Civil de la rectificación»**, se puede recuperar la mención anterior por el mismo
+procedimiento; una nueva rectificación posterior exige el procedimiento de jurisdicción
+voluntaria.
+
+**Documentos (artículos 49 a 51).** Tras la rectificación se expide nuevo documento nacional de
+identidad y, en su caso, pasaporte; **«En todo caso, se conservará el mismo número del documento
+nacional de identidad.»** (49.1). Las personas extranjeras que acrediten la imposibilidad legal o
+de hecho de rectificar en su país pueden pedir la rectificación en los documentos que se les
+expidan (50). Los menores que hayan cambiado de nombre tienen derecho a que todos sus documentos
+lo reflejen (51).
+
+La disposición transitoria segunda permite reconducir a la nueva ley, a petición de la persona
+interesada, los procedimientos de rectificación en tramitación a su entrada en vigor.
+
+**Políticas públicas trans (artículos 52 a 61).** Estrategia estatal (52), participación (53),
+empleo (54 y 55), salud conforme a **«los principios de no patologización, autonomía, decisión y
+consentimiento informados»** (56 a 59) y educación: el alumnado menor que haya cambiado de
+nombre **«tiene derecho a obtener un trato conforme a su identidad en todas las actividades que
+se desarrollen en el ámbito educativo»** (60), y protocolos contra el acoso transfóbico (61).
+
+### Organización institucional
+
+La ley no crea una autoridad propia. Sus órganos y remisiones son:
+
+- **Consejo de Participación de las Personas LGTBI (artículo 9)**: **«el órgano de participación
+  ciudadana en materia de derechos y libertades de las personas LGTBI»**; órgano colegiado del
+  artículo 22.3 de la Ley 40/2015; **«dependerá del Ministerio de Igualdad a través de la
+  Secretaría de Estado de Igualdad y contra la Violencia de Género»**; presenta una memoria
+  **«con carácter semestral»**, que su presidenta remite a las Cortes Generales.
+- **Autoridad Independiente de la Ley 15/2022**: **«podrá intervenir en todo caso»** en la
+  protección frente a la discriminación y la violencia por LGTBIfobia (62.4), puede actuar como
+  órgano de mediación o conciliación **«Con el consentimiento expreso de las partes»** (63.3 y
+  76.3) y asiste a las personas LGTBI (67).
+- **En la AGE, el régimen sancionador (artículo 77.2)**: instruye la **«Dirección General de
+  Diversidad Sexual y Derechos LGTBI»** y resuelve la persona titular del Ministerio de Igualdad.
+  Es la denominación que da la ley.
+
+### Garantías (título III)
+
+- **Protección (artículo 62)**: las Administraciones garantizan **«de forma inmediata una
+  protección integral, real y efectiva»** (62.1). Y **«Las personas empleadoras o prestadoras de
+  bienes y servicios deberán adoptar métodos o instrumentos suficientes para la prevención y
+  detección de las situaciones de discriminación por razón de las causas previstas en esta ley,
+  así como articular medidas adecuadas para su cese inmediato.»** (62.3).
+- **Actuación administrativa (artículo 63)**: la autoridad pública que conozca una
+  discriminación **«deberá, si es competente, incoar el correspondiente procedimiento
+  administrativo»**.
+- **Nulidad (artículo 64)**: las cláusulas discriminatorias **«serán nulas y se tendrán por no
+  puestas.»**
+- **Legitimación (artículo 65)**: partidos, sindicatos, organizaciones empresariales,
+  asociaciones de autónomos, de consumidores y de defensa de los derechos LGTBI, con autorización
+  expresa de las personas afectadas, y **«para demandar en juicio la defensa de los intereses
+  difusos cuando las personas afectadas sean una pluralidad indeterminada o de difícil
+  determinación.»**
+- **Carga de la prueba (artículo 66)**: la misma regla que la Ley 15/2022 (indicios fundados de
+  discriminación → justificación objetiva y razonable, suficientemente probada). Este artículo
+  no reproduce la exclusión expresa de los procesos penales y sancionadores del artículo 30.3 de
+  la Ley 15/2022.
+- **Asistencia (artículos 67 a 69)**: asesoramiento jurídico especializado; atención integral a
+  víctimas de violencia LGTBIfóbica; y, ante violencia en el ámbito familiar, **«se dictará una
+  orden de protección»** conforme al artículo 544 ter.1 de la Ley de Enjuiciamiento Criminal
+  (69.1).
+- **Situaciones especiales (artículos 70 a 75)**: menores, personas con discapacidad o
+  dependencia, extranjeras, mayores, intersexuales y sin hogar. Al inscribir el nacimiento de
+  una persona intersexual, los progenitores, de común acuerdo, pueden pedir que la mención del
+  sexo figure en blanco **«por el plazo máximo de un año»** (74.2).
+
+### Infracciones y sanciones (título IV)
+
+**Ámbito y competencia (artículos 76 a 78).** El título fija las condiciones básicas y las
+comunidades autónomas pueden desarrollarlo; en el orden social rige la Ley sobre Infracciones y
+Sanciones en el Orden Social y el régimen disciplinario de los empleados públicos es el de su
+Estatuto Básico (76.1). Compete a cada Administración, y a la AGE **«cuando el ámbito territorial
+de la conducta infractora sea superior al de una comunidad autónoma»** (77.1). En la AGE,
+procedimiento de oficio; resuelve la persona titular del Ministerio de Igualdad, salvo que,
+tratándose de infracciones muy graves, **«el importe de la sanción propuesta exceda los 100.000
+euros»**, en cuyo caso es competente el Consejo de Ministros (77.2). **«El plazo máximo en que
+deberá notificarse la resolución del procedimiento sancionador será de seis meses.»** (78).
+
+**Infracciones (artículo 79).**
+
+- **Leves (79.2)**, tres letras: a) **«Utilizar o emitir expresiones vejatorias contra las
+  personas por razón de su orientación e identidad sexual, expresión de género o características
+  sexuales en la prestación de servicios públicos o privados.»**; b) no facilitar o negarse
+  parcialmente a colaborar con la inspección; c) causar daños o deslucimiento a bienes de
+  personas o entidades LGTBI o de memoria histórica, cuando no sea delito.
+- **Graves (79.3)**, tres letras: a) la no retirada de esas expresiones en sitios web o redes
+  sociales por el prestador del servicio, una vez tenga conocimiento efectivo; b) actos o
+  cláusulas que supongan **«un trato menos favorable a la persona»** por las causas de la ley
+  respecto de otra en situación análoga o comparable; c) la obstrucción o negativa absoluta a la
+  inspección.
+- **Muy graves (79.4)**, nueve letras:
+  - a) el acoso discriminatorio, cuando no sea delito;
+  - b) **«Las represalias, entendidas como el trato adverso que reciba una persona como
+    consecuencia de haber presentado una queja, reclamación, denuncia, demanda o recurso»**
+    para impedir su discriminación;
+  - c) negarse a atender a las víctimas quien tenga obligación de hacerlo;
+  - d) la promoción o práctica de terapias de conversión, **«con independencia del
+    consentimiento que pudieran haber prestado las mismas o sus representantes legales.»**
+  - e) libros de texto y materiales didácticos que presenten a las personas como superiores o
+    inferiores en dignidad por las causas de la ley;
+  - f) convocar espectáculos o actividades recreativas que inciten a conductas graves o muy
+    graves;
+  - g) denegar el acceso a establecimientos, bienes y servicios, **«incluida la vivienda»**;
+  - h) la modificación genital en menores de doce años prohibida por el artículo 19.2, cuando no
+    sea delito;
+  - i) **«La victimización secundaria, entendida como el incumplimiento por parte de las
+    Administraciones públicas de las obligaciones de atención previstas en esta ley que den
+    lugar a un nuevo daño psicológico para la víctima.»**
+
+**Sanciones (artículo 80).**
+
+| Infracción | Multa | Accesorias (potestativas, «motivadamente») |
+| --- | --- | --- |
+| Leve | **«apercibimiento o con multa de 200 a 2.000 euros»** | No |
+| Grave | **«multa de 2.001 a 10.000 euros»** | Supresión, cancelación o suspensión de subvenciones; prohibición de acceder a ayudas públicas y de contratar con la Administración **«por un período de un año»** |
+| Muy grave | **«multa de 10.001 a 150.000 euros»** | Denegación, supresión, cancelación o suspensión de subvenciones; prohibición de ayudas y de contratar **«por un período de hasta tres años»**; cierre del establecimiento y cese en la actividad **«por un término máximo de tres años»** |
+
+Criterios de graduación (80.4), ocho letras: naturaleza y gravedad de los riesgos o perjuicios;
+intencionalidad; reincidencia (sanción firme por infracción de la misma naturaleza **«en el
+plazo de dos años»**); trascendencia social; beneficio obtenido; incumplimiento de advertencias
+previas; reparación voluntaria antes de la resolución; y **«Que los hechos constituyan
+discriminación múltiple.»** La multa puede sustituirse por trabajos o cursos, con consentimiento,
+**«siempre que no se trate de infracciones muy graves»** (80.6). El Gobierno **«podrá»** actualizar
+las cuantías por real decreto según el Índice de Precios de Consumo (disposición adicional
+primera).
+
+**Prescripción (artículo 81).** **«Las infracciones muy graves prescribirán a los tres años, las
+graves a los dos años y las leves a los nueve meses.»** **«Las sanciones impuestas por
+infracciones muy graves prescribirán a los dos años, las graves al año y las leves a los seis
+meses.»**
+
+**Prohibición de ayudas (artículo 82).** No se concederán subvenciones ni fondos públicos
+**«a ninguna persona física o jurídica, pública, privada o de financiación mixta que cometa,
+incite o promocione LGTBIfobia, incluyendo la promoción o realización de terapias de
+conversión.»**
+
+### Las tres leyes, comparadas
+
+| | Ley 12/2007 (andaluza) | Ley 15/2022 (estatal) | Ley 4/2023 (estatal) |
+| --- | --- | --- | --- |
+| Multa leve | Apercibimiento o hasta 6.000 € | 300 a 10.000 € | Apercibimiento o 200 a 2.000 € |
+| Multa grave | 6.001 a 60.000 € | 10.001 a 40.000 € | 2.001 a 10.000 € |
+| Multa muy grave | 60.001 a 120.000 € | 40.001 a 500.000 € | 10.001 a 150.000 € |
+| Prescripción de infracciones (muy grave / grave / leve) | 4 años / 3 años / 1 año | 4 años / 3 años / 1 año | 3 años / 2 años / 9 meses |
+| Prescripción de sanciones (muy grave / grave / leve) | 3 años / 2 años / 1 año | 5 años / 4 años / 1 año | 2 años / 1 año / 6 meses |
+| Represalias | Muy grave (77.b) | Grave (47.3.b) | Muy grave (79.4.b) |
+| Acoso | Muy grave el comportamiento del 77.a) | Muy grave el acoso discriminatorio (47.4.b) | Muy grave el acoso discriminatorio (79.4.a) |
+| Límite para el Consejo de Gobierno o de Ministros | Consejo de Gobierno para todas las muy graves (85.3.c) | Consejo de Ministros si la muy grave excede 300.000 € (52.4) | Consejo de Ministros si la propuesta de muy grave excede 100.000 € (77.2) |
+| Órgano de igualdad | IAM (organismo autónomo) | Autoridad Independiente (entidad de derecho público del artículo 109 de la Ley 40/2015) | La de la Ley 15/2022 |
