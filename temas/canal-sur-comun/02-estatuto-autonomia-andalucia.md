@@ -2017,3 +2017,89 @@ Lo que la ley no dice: ni la Ley 18/2007 ni la Ley 9/2007 indican si la RTVA es 
 pública empresarial del tipo a) o del tipo b) del artículo 68.1, y este tema no lo afirma. Y la
 Ley Electoral de Andalucía, al fijar las inelegibilidades, sigue llamándola «**Empresa Pública de
 la Radio y Televisión de Andalucía**» (artículo 4.3.g).
+
+## Normativa que el tema invoca
+
+| Norma | Identificador | Redacción |
+| --- | --- | --- |
+| Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | `BOE-A-2007-5825` | Vigente el 24/09/2026. Artículo 51 anulado por la sentencia del Tribunal Constitucional 30/2011 (`BOE-A-2011-6545`); artículo 178.1 en la redacción de la Ley 32/2022, vigente desde el 29/12/2022 |
+| Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía | `BOE-A-2006-20848` | Vigente el 24/09/2026 (artículos 12, 13 y 24 según la Ley 2/2021; 15.d según el Decreto-ley 11/2023; 21 y 27 según el Decreto-ley 26/2021; 31 según la Ley 1/2014; 43 y 45 según el Decreto-ley 3/2024) |
+| Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | `BOE-A-2007-19819` | Vigente el 24/09/2026 (entre otras, reformas de la Ley 1/2011, la Ley 4/2012, la Ley 1/2014, la Ley 5/2023, el Decreto-ley 3/2024, el Decreto-ley 4/2025 y la Ley 8/2025) |
+| Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía | `BOE-A-2024-16885` | Vigente el 24/09/2026 (una sola redacción; en vigor desde el 20/08/2024) |
+| Ley 9/1983, de 1 de diciembre, del Defensor del Pueblo Andaluz | `BOE-A-1984-1847` | Vigente el 24/09/2026 (artículo 8.1 según la Ley 4/2021, desde el 30/08/2021) |
+| Ley 1/1988, de 17 de marzo, de la Cámara de Cuentas de Andalucía | `BOE-A-1988-8592` | Vigente el 24/09/2026 (artículos 16 a 18, 24 y 27 según la Ley 3/2011; 11 según la Ley 8/2025) |
+| Ley 2/2021, de 18 de junio, de lucha contra el fraude y la corrupción en Andalucía y protección de la persona denunciante | `BOE-A-2021-11380` | Vigente el 24/09/2026 (artículos 9, 23 y 26 según la Ley 1/2022; 32 según la Ley 8/2025) |
+| Ley 1/1986, de 2 de enero, Electoral de Andalucía | `BOE-A-1986-2788` | Vigente el 24/09/2026 (artículos 4, 14, 17, 18 y 23) |
+| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | `BOE-A-2008-1185` | Artículos 2, 5, 6 y 9, vigentes el 24/09/2026; la ley es el punto 5 del temario común |
+| Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial | `BOE-A-1985-12666` | Artículos 70, 72, 73 (redacción vigente desde el 23/01/2025), 330.4 (ídem) y 336.1 (vigente desde el 18/01/2019) |
+| Reglamento del Parlamento de Andalucía | Texto consolidado del Parlamento de Andalucía (aprobado el 28/09/2005; BOPA núm. 292, de 04/10/2005; BOE núm. 257, de 27/10/2005) | Texto consolidado vigente desde el 22/10/2025 |
+| Decreto 189/2026, de 30 de julio, de estructura orgánica de la Consejería de Presidencia, Sanidad y Emergencias | BOJA extraordinario núm. 15, de 31/07/2026 | Artículos 1.l y 2.9.a; solo se cita |
+
+## Lo que este tema no da, y dónde está
+
+- **El resto del Estatuto** con detalle: la organización territorial (título III) y la
+  distribución de competencias entre el Estado y las Comunidades en la Constitución están en el
+  punto 1 del temario común; las relaciones con la Unión Europea y la representación de la Junta
+  ante ella, en el punto 3; la hacienda autonómica (título VI) no la pide el enunciado.
+- **El régimen de la RTVA y de CSRTV** (órganos, Dirección General, mayoría para elegirla,
+  Contrato-Programa, la situación actual de las filiales) y la Ley 10/2018 audiovisual de
+  Andalucía: puntos 4 y 5 del temario común.
+- **La sentencia del Tribunal Constitucional 30/2011**: el tema da lo que dice su título en el
+  BOE y el efecto en el texto consolidado; no se ha leído el texto de la sentencia. No se ha
+  comprobado si hay sentencias interpretativas de otros preceptos del Estatuto que no anulen
+  texto.
+- **El referéndum de 2007** que ratificó el Estatuto vigente: no se ha leído ninguna fuente con
+  su fecha ni su resultado.
+- **El reparto de escaños por provincia** en las últimas elecciones y el número de Senadores
+  autonómicos: dependen de los decretos de convocatoria, que no se han leído.
+- **La planta del TSJA** (número de magistrados, Salas con sede fuera de Granada) y el
+  **Consejo de Justicia de Andalucía**: la ley de planta no se ha leído, y el tema no ha
+  encontrado la regulación de ese Consejo en la LOPJ vigente.
+- **El reglamento de régimen interior de la Oficina Andaluza contra el Fraude** y si su
+  Dirección está nombrada: no confirmados.
+- **El decreto que regula la Comisión General de Viceconsejeros y Viceconsejeras** (el Decreto
+  155/1988 que cita el Decreto 189/2026) y las **Comisiones Delegadas** que existen hoy: no se han
+  leído.
+- **La convalidación del Decreto-ley 11/2023**, que dio su redacción actual al artículo 15.d de la
+  Ley 6/2006: no se ha podido confirmar en las fuentes leídas.
+- **El tipo de agencia pública empresarial** (letra a o b del artículo 68.1 de la Ley 9/2007) que
+  corresponde a la RTVA: ninguna norma leída lo dice.
+- **El procedimiento administrativo** de la Ley 9/2007 (título IV, capítulo II y siguientes) y la
+  función pública andaluza: no los pide este enunciado.
+
+## Trazabilidad
+
+| | |
+| --- | --- |
+| **Norma principal** | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía |
+| **Identificador** | `BOE-A-2007-5825` |
+| **Publicación** | BOE núm. 68, de 20 de marzo de 2007 |
+| **Entrada en vigor** | 20 de marzo de 2007 (disposición final tercera) |
+| **Redacción leída** | La vigente el 24 de septiembre de 2026, en el texto consolidado del BOE, igual que las demás leyes del cuadro de normativa |
+
+Comprobaciones hechas sobre las fuentes:
+
+1. Todos los preceptos citados se han leído el **24 de septiembre de 2026** en su redacción
+   vigente ese día, en el texto consolidado del BOE; los de la LOPJ, con su cadena de
+   redacciones; el Reglamento del Parlamento, en el texto consolidado que publica el propio
+   Parlamento, vigente desde el 22 de octubre de 2025, porque el BOE no lo consolida.
+2. **Estatuto**: solo dos preceptos tienen más de una redacción, el 51 (anulado) y el 178 (tres
+   redacciones, sin reforma cruzada). Recontados sobre el índice: 250 artículos, once títulos
+   contando el preliminar, veinticuatro capítulos y once disposiciones.
+3. **Recuentos cerrados comprobados contando**: cuatro clases de competencias (42.2);
+   veinticuatro objetivos (10.3); veintiún artículos de derechos (15 a 35); siete deberes (36.1);
+   veinticinco principios rectores (37.1); diecinueve funciones del Parlamento (106); cinco
+   competencias del TSJA (142); quince principios del artículo 133.1 del Estatuto y veintiuno del
+   artículo 3 de la Ley 9/2007; ocho derechos de buena administración (artículo 5); diez causas de
+   cese del Presidente (artículo 12.1 de la Ley 6/2006) y siete de los Consejeros (artículo 24);
+   trece atribuciones del Presidente como presidente del Consejo (10.1) y ocho delegables (11.2);
+   veintidós del Consejo de Gobierno (27); catorce consultas preceptivas al Consejo Consultivo
+   (17); dieciséis funciones de la Oficina (9.1); nueve funciones de los Delegados del Gobierno
+   (37.1) y cinco de los Delegados Provinciales (39).
+4. **Discordancias entre normas que el tema señala donde aparecen**: la mayoría para aprobar la
+   reforma del Estatuto (Estatuto 248.1.b frente a Reglamento del Parlamento 128.1); la
+   investidura fallida (Estatuto 118.3 frente a Reglamento del Parlamento 138.7); el plazo entre
+   disoluciones (Estatuto 127.3 frente a Ley 6/2006, 41.3); el fuero del Presidente (Estatuto
+   118.5 frente a Ley 6/2006, 17); el ámbito del Defensor (Estatuto 128.1 frente a Ley 9/1983,
+   1.1); y los nombres superados de las leyes 9/1983, 1/1988 y 1/1986 y del Reglamento del
+   Parlamento.
