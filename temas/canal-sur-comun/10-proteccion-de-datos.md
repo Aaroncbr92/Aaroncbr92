@@ -1788,9 +1788,12 @@ personal y familiar y a la propia imagen. Lo que importa a un medio audiovisual:
 
 Redacciones: los artículos 3 y 8 tienen una sola; el 1 tiene dos (la vigente desde el 24 de mayo
 de 1996); el 2, tres (la vigente desde el 15 de febrero de 1990); el 7 y el 9, la vigente desde el
-23 de diciembre de 2010. El Tribunal Constitucional, en su Sentencia 9/1990, declaró nulo un inciso
-del artículo 2.2 (el texto consolidado no permite identificar con seguridad cuál; no se precisa
-aquí).
+23 de diciembre de 2010. El Tribunal Constitucional, en su Sentencia 9/1990, de 18 de enero, declaró
+inconstitucional y nulo el inciso del artículo 2.2 que, por imperativo del artículo 71 de la
+Constitución, excluía la intromisión en las opiniones de Diputados y Senadores en el ejercicio de
+sus funciones y exigía la previa autorización de la Cámara, tramitada como suplicatorio, para
+seguir contra ellos un proceso civil. Lo que se cita arriba del 2.2 (autorización por ley y
+consentimiento expreso) no está afectado.
 
 ### Los menores
 

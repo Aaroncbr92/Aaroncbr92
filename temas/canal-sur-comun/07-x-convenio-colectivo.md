@@ -1713,7 +1713,8 @@ de enero de 2019**».
   Calcula un «**Valor Objetivo de Retribución (VOR)**» por trabajador, le aplica un «**tipo medio de
   descuento**» por tramos (sin descuento hasta 22.000 €; hasta el 8,30 % en el tramo de más de
   60.000 €), con reglas propias para quienes cobren especial responsabilidad y calidad en el trabajo
-  y medio punto menos para los temporales de los tramos T5 y T6. Y fija la antigüedad: «**La
+  y medio punto menos para los temporales de los tramos T5 y T6 (de 30.001 a 40.000 € y de 22.001 a
+  30.000 €). Y fija la antigüedad: «**La
   antigüedad se modificará y se abonará de forma lineal para todos los niveles salariales, a razón
   de 45 € trienio/mes.**» Compromiso de constituir en un mes la comisión de valoración de puestos.
 - D) Ajuste de 2014: reducción salarial pactada en un documento aparte; si el convenio no se
