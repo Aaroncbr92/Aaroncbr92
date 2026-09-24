@@ -897,3 +897,27 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 - **La lección**: **antes de inventar un separador, hay que medir cuál usa ya el corpus.** La
   atribución `> —` era la hipótesis y habría dejado fuera casi todas las citas; las comillas
   angulares estaban delante desde el principio y las separan con un fallo entre 2.225.
+
+## RTVE · Tema 7 del general (Ley 13/2022): errores que destapó el cruce con Canal Sur — ABIERTO 2026-09-24
+
+Los detectó la investigación del tema 4 del común de Canal Sur, leyendo la Ley 13/2022
+(`BOE-A-2022-11311`) el 24-09-2026. El detalle, con la cita literal de cada precepto, está en
+`informes/canal-sur-comun/T04-investigacion-lgca.md`, apartado de errores del tema de RTVE.
+**No se han aplicado al tema de RTVE**: RTVE está parado por decisión del titular.
+
+- **Dónde**: `temas/general/07-ley-13-2022.md`, epígrafe de códigos de conducta. **Qué dice**: seis
+  características (a–f). **Qué debería decir**: las **nueve** que enumera el art. 15.2.
+  **Gravedad**: cambia la respuesta.
+- **Dónde**: mismo tema, mandato-marco. **Qué dice**: cinco objetivos del art. 54.3.a).
+  **Qué debería decir**: seis; falta «6.º La información veraz de los hechos previo contraste a
+  través de varias fuentes». **Gravedad**: cambia la respuesta.
+- **Dónde**: mismo tema, límites de múltiplex. **Qué dice**: los sitúa en el art. 24. **Qué debería
+  decir**: art. 35.5 a) y b). **Gravedad**: induce a error.
+- **Dónde**: mismo tema, accesibilidad. **Qué dice**: la lista de noticiarios, programación infantil,
+  etc. para todos los servicios; lengua de signos en pago «—». **Qué debería decir**: esa lista vale
+  sólo para las horas en lengua de signos (las audiodescritas deben incluir películas y series); en
+  pago, incorporación gradual (art. 103.1.c). **Gravedad**: cambia la respuesta.
+- **Dónde**: mismo tema. **Qué dice**: «must offer». **Qué debería decir**: la expresión no está en la
+  ley; se describe con su texto. **Gravedad**: menor.
+- **Dónde**: mismo tema. **Qué falta**: salvedades literales de los arts. 4.2, 5.2, 9.1, 15.5, 33.2 y
+  99.6. **Gravedad**: induce a error.
