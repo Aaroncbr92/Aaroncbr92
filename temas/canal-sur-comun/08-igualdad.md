@@ -1430,7 +1430,7 @@ Recursos de inconstitucionalidad. Hay dos, admitidos a trámite:
 
 - 2428-2023, promovido por más de cincuenta diputados del Grupo Parlamentario Vox, admitido
   por providencia de 9 de mayo de 2023 (BOE de 18 de mayo de 2023). Impugna una larga lista de
-  preceptos; entre ellos, las letras a), b), g) e i) del artículo 3, los artículos 14.d), 17,
+  preceptos; entre ellos, las letras a) (párrafo primero), b), g) e i) del artículo 3, los artículos 14.d), 17,
   19.2, 23, 24 (párrafo segundo), 27.2 (inciso final), 42, 43.1 y 2, 44.3, 46.4, 47, 52.2, 54, 70.3, 79 y 80.2 y 3,
   el inciso final del 82 y varias disposiciones finales.
 - 3679-2023, promovido por más de cincuenta diputados del Grupo Parlamentario Popular en el

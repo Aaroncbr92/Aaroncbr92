@@ -9,7 +9,7 @@
 | **Fuente** | Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía; Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía; Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía; Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía; y las leyes y el Reglamento del Parlamento que se citan en «Normativa que el tema invoca» |
 | **Identificador** | `BOE-A-2007-5825` · BOE núm. 68, de 20/03/2007; `BOE-A-2006-20848`; `BOE-A-2007-19819`; `BOE-A-2024-16885` |
 | **Redacción que se estudia** | La vigente el 24/09/2026 de cada norma. El Estatuto solo ha cambiado en su artículo 178.1 (tributos cedidos, por la vía especial del 178.2) y ha perdido el artículo 51, anulado por la sentencia del Tribunal Constitucional 30/2011. El Consejo Consultivo se estudia por la Ley 2/2024, que derogó la Ley 4/2005 |
-| **Extensión** | 24.652 palabras |
+| **Extensión** | 24.740 palabras |
 
 <!-- /portada -->
 
@@ -1419,8 +1419,11 @@ estatal y autonómica (artículo 123.1). La Ley 6/2006 enumera veintidós atribu
 
 El Consejo ejerce además la iniciativa legislativa aprobando y remitiendo proyectos de ley al
 Parlamento; antes de aprobar el proyecto, el anteproyecto se informa por la Secretaría General
-Técnica y el Gabinete Jurídico y, finalmente, se pide dictamen del Consejo Consultivo (artículo
-43 de la Ley 6/2006).
+Técnica respectiva, el Gabinete Jurídico y los demás órganos cuyo informe o dictamen sea
+preceptivo, salvo lo previsto para la tramitación urgente en el artículo 45 bis, y, finalmente,
+se pide dictamen del Consejo Consultivo (artículo 43.5 de la Ley 6/2006). En la tramitación
+urgente, en cuanto a informes de órganos colegiados consultivos, solo es preceptivo el dictamen
+del Consejo Consultivo (artículo 45 bis.2.c).
 
 *Funcionamiento* (título III de la Ley 6/2006). Se rige por la ley, por los decretos de la
 Presidencia y del Consejo y por sus disposiciones organizativas internas (artículo 28).
@@ -1545,8 +1548,10 @@ sea solicitado expresamente.**» (artículo 3).
 
 *Composición* (artículo 5): la Presidencia y los consejeros permanentes, electivos y natos,
 asistidos por una Secretaría General «**con voz y sin voto**». Cada sexo debe estar representado
-en al menos un cuarenta por ciento de los miembros designados en cada caso, excluidos los que lo
-son por su cargo.
+en al menos un cuarenta por ciento de los miembros designados en cada caso; se excluyen de esta
+regla «**aquellos que fueren designados en función del cargo específico que desempeñen o
+hubieren desempeñado**» (los permanentes lo son por haber sido Presidente de la Junta y los
+natos, por el cargo que ostentan: artículos 7 y 9).
 
 - *Presidencia* (artículo 6). La nombra por Decreto el Presidente de la Junta, «**oído el Consejo
   de Gobierno**», entre juristas de reconocido prestigio «**con una experiencia superior a quince
@@ -1596,7 +1601,8 @@ públicos de representación popular**».
 7. Proyectos de decreto de estatutos de las universidades públicas.
 8. Transacciones y arbitrajes sobre derechos económicos de la Administración autonómica cuya
    cuantía litigiosa exceda de 300.000 euros.
-9. Revocación de actos tributarios con deuda superior a 30.000 euros.
+9. Revocación de actos tributarios con deuda superior a 30.000 euros y conflictos en la
+   aplicación de la norma tributaria.
 10. Expedientes de la Administración autonómica en que la consulta la exija una ley; entre
     otros, reclamaciones de responsabilidad patrimonial de más de 70.000 euros, revisión de
     oficio, recurso extraordinario de revisión, y en contratos: interpretación, nulidad y
@@ -1994,7 +2000,9 @@ Ejercen únicamente las potestades administrativas que se les atribuyan expresam
 órganos a los que los estatutos se las asignen (69.2). «**El personal de las agencias públicas
 empresariales se rige en todo caso por el Derecho Laboral**», se selecciona por convocatoria
 pública según igualdad, mérito y capacidad, y la determinación de sus retribuciones exige informe
-previo y favorable de las Consejerías de Administración Pública y de Hacienda (artículo 70). El artículo 69 lleva en el texto consolidado del BOE una nota sobre la sentencia del Tribunal
+previo y favorable de las Consejerías de Administración Pública y de Hacienda (artículo 70).
+
+El artículo 69 lleva en el texto consolidado del BOE una nota sobre la sentencia del Tribunal
 Constitucional 230/2015, de 5 de noviembre, que declaró la inconstitucionalidad y nulidad del
 precepto «**en la redacción dada por el Decreto-ley 5/2010**»: el fallo anula el artículo 1,
 apartados 9 y 12, de ese decreto-ley, y el apartado 9 era el que daba nueva redacción al
@@ -2110,7 +2118,6 @@ la Radio y Televisión de Andalucía**» (artículo 4.3.g).
 - *El decreto que regula la Comisión General de Viceconsejeros y Viceconsejeras* (el Decreto
   155/1988 que cita el Decreto 189/2026) y las *Comisiones Delegadas* que existen hoy: no se han
   leído.
-
 - *El tipo de agencia pública empresarial* (letra a o b del artículo 68.1 de la Ley 9/2007) que
   corresponde a la RTVA: ninguna norma leída lo dice.
 - *El procedimiento administrativo* de la Ley 9/2007 (título IV, capítulo II y siguientes) y la
