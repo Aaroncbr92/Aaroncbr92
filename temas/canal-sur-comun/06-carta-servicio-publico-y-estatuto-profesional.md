@@ -873,3 +873,145 @@ puede preguntarse.
 - **Disposiciones finales.** Primera, supervisión (véase «Control del cumplimiento»); segunda,
   vigencia 2024-2029 y prórroga; tercera, aplicación desde la aprobación por el Pleno; cuarta,
   publicación en el BOJA.
+
+## Estatuto profesional de la RTVA y Canal Sur
+
+El nombre legal no es el del enunciado: la Ley 18/2007 habla del «**Estatuto profesional de los
+medios de comunicación de la RTVA**» (rúbrica del art. 10), y la Carta del «**Estatuto
+Profesional de los Medios de Comunicación de la RTVA**» (art. 13.10).
+
+### Lo que dice la Ley 18/2007
+
+El artículo 10 tiene tres apartados:
+
+- **Qué es** (10.1): «**El Estatuto profesional de los medios de comunicación de la RTVA es un
+  instrumento destinado a garantizar la profesionalidad e independencia tanto de los
+  profesionales de la información como de los contenidos y programas de los servicios
+  informativos prestados por la RTVA y sus sociedades filiales en radio, televisión y en los
+  nuevos soportes tecnológicos y medios electrónicos de los que se valgan para cumplir su
+  función y misión de servicio público.**» Garantiza, pues, dos cosas (profesionalidad e
+  independencia) de dos sujetos (los profesionales de la información y los contenidos y
+  programas de los servicios informativos).
+- **Los órganos de representación** (10.2): «**El personal laboral de la RTVA y de sus
+  sociedades filiales que desempeñe una función profesional de información elige
+  democráticamente a sus representantes, que componen el Consejo Profesional de Canal Sur Radio
+  y el Consejo Profesional de Canal Sur Televisión, así como la Comisión Permanente de la
+  RTVA.**» Esos órganos tienen dos funciones: la de «**interlocución con el personal directivo de
+  la RTVA y de sus sociedades filiales**» y la de «**salvaguarda y control del cumplimiento de
+  los principios, derechos y deberes determinados en el Estatuto profesional**».
+- **Qué debe regular el Estatuto** (10.3): «**su ámbito subjetivo, material y temporal de
+  aplicación, así como la composición, funcionamiento y atribuciones de los órganos citados en
+  el apartado anterior, y las funciones y competencias y el plazo del mandato de los
+  profesionales de la información elegidos como miembros de los mismos**». Es decir, la ley no
+  fija ni la composición de los Consejos ni la duración del mandato: los remite al Estatuto.
+
+**Quién lo aprueba.** Corresponde al Consejo de Administración de la RTVA: «**Aprobar el
+Estatuto profesional de los medios de comunicación de la RTVA y sus reformas.**» (art.
+17.1.m). No es una norma del Parlamento ni del Consejo de Gobierno, y no se publica por
+exigencia legal en ningún boletín. La ley no le exige mayoría reforzada: el artículo 17.2
+reserva la mayoría absoluta a los acuerdos de las letras b), d), f), h) e i).
+
+**Otras menciones en la ley.** El derecho de acceso se regula «**sin menoscabo de los
+principios de independencia y profesionalidad garantizados en el artículo 10.1 de esta Ley**»
+(art. 33.2). Y la exposición de motivos presenta el Estatuto como una novedad de la ley, que
+obedece a la voluntad de fortalecer la independencia y neutralidad de los profesionales de la
+información, «**sometidos a un Estatuto de sólida base democrática**».
+
+**Un desajuste de la ley con la realidad actual.** El artículo 10.2 habla de dos Consejos
+Profesionales, uno por cada filial, porque la ley se escribió con dos sociedades (art. 9). La
+Carta, escrita después de la fusión, se refiere a «**su Consejo Profesional**», en singular
+(art. 13.10).
+
+### Lo que dice la Carta
+
+La Carta solo lo nombra en el artículo 13.10, dentro de las garantías de pluralismo: «**La
+observancia de esta garantía se basa, en el ámbito interno de Canal Sur, en la actuación de su
+Consejo Profesional que salvaguarda y controla el cumplimiento de los principios, derechos y
+deberes de pluralismo, contemplados en el Estatuto Profesional de los Medios de Comunicación de
+la RTVA, previsto en el artículo 10.2 de la Ley 18/2007, y en el ordenamiento jurídico en su
+conjunto relativo al derecho a la información.**» Hay que tener en cuenta que la Carta cita el
+artículo 10.2, que nombra el Estatuto y los Consejos, pero es el 10.1 el que lo define.
+
+En la Carta hay otras referencias a la deontología que no nombran el Estatuto: la sujeción de
+todos los contenidos a «**la deontología profesional y códigos de autorregulación profesional
+que rigen la actividad de los medios de Canal Sur**» (art. 10.1) y los nueve principios
+informativos del artículo 13.4 (epígrafe de veracidad).
+
+### El marco general: cláusula de conciencia y secreto profesional
+
+Las dos figuras que cualquier estatuto de redacción desarrolla tienen base fuera de él. El
+artículo 20.1.d de la Constitución reconoce el derecho a comunicar o recibir libremente
+información veraz y añade: «**La ley regulará el derecho a la cláusula de conciencia y al
+secreto profesional en el ejercicio de estas libertades.**» La cláusula de conciencia la regula
+la Ley Orgánica 2/1997, de 19 de junio:
+
+- «**La cláusula de conciencia es un derecho constitucional de los profesionales de la
+  información que tiene por objeto garantizar la independencia en el desempeño de su función
+  profesional.**» (art. 1).
+- Da derecho a solicitar la rescisión de la relación con la empresa en dos casos (art. 2.1):
+  a) un «**cambio sustancial de orientación informativa o línea ideológica**» del medio; b) el
+  traslado a otro medio del grupo que suponga «**una ruptura patente con la orientación
+  profesional del informador**». La indemnización «**no será inferior a la pactada
+  contractualmente o, en su defecto, a la establecida por la Ley para el despido
+  improcedente**» (art. 2.2).
+- «**Los profesionales de la información podrán negarse, motivadamente, a participar en la
+  elaboración de informaciones contrarias a los principios éticos de la comunicación, sin que
+  ello pueda suponer sanción o perjuicio.**» (art. 3).
+
+El secreto profesional no tiene ley de desarrollo que este tema haya podido leer.
+
+### El texto vigente no está publicado
+
+Según fuentes no oficiales (prensa y el propio Consejo Profesional), el Consejo de
+Administración de la RTVA aprobó un nuevo Estatuto Profesional el 13 de octubre de 2020. Ese
+texto **no está publicado** en el BOJA ni en la web de la RTVA o de Canal Sur, y no ha podido
+leerse en ninguna fuente oficial. Por eso este tema **no desarrolla el Estatuto vigente**: ni
+su estructura, ni la composición del Consejo Profesional, ni el mandato de sus miembros, ni su
+régimen de derechos y deberes. Lo que se puede estudiar con seguridad es lo de los dos
+epígrafes anteriores.
+
+### El texto anterior que enlaza la web de Canal Sur (no vigente)
+
+El enlace «Estatuto Profesional» de la página oficial de Canal Sur lleva a una entrada de un
+blog del Consejo Profesional fechada el 25 de octubre de 2006. **Ese texto no es el vigente**:
+es anterior a la Ley 18/2007, cuyos principios no cita (invoca los de la «Ley de Creación de
+RTVA», es decir, la Ley 8/1987), y habla de estructuras que ya no existen (Canal 2 Andalucía,
+el teletexto, dos sociedades con un Consejo Profesional cada una). Se describe aquí solo porque
+ayuda a entender cómo funciona la figura; no hay que estudiar sus cifras ni darlo por vigente
+en una pregunta.
+
+- *Objeto.* Regulaba las relaciones entre la RTVA y sus filiales y los profesionales de la
+  comunicación en la obtención, elaboración y difusión de la información, con exclusión expresa
+  de las relaciones laborales y sindicales. Se aplicaba a los redactores y a algunas otras
+  categorías (en radio, presentadores-productores y productores; en televisión,
+  realizadores).
+- *Principios deontológicos.* Entre ellos, la defensa de una información veraz, rigurosa, bien
+  fundamentada y obtenida con imparcialidad por medios honestos, el rechazo de presiones de
+  personas, instituciones, partidos o grupos, y la separación entre información, opinión y
+  publicidad.
+- *Derechos y deberes.* Entre los derechos, la libre expresión e información en el marco de
+  las normas de estilo, la cláusula de conciencia, el secreto profesional, la libertad de
+  creación y los derechos de autor, y el derecho de rectificación. Entre los deberes, informar
+  con veracidad y formarse. El informador debía respetar la política informativa de la empresa,
+  aunque podía discrepar públicamente en otros medios sin ser sancionado.
+- *Cláusula de conciencia.* Recogía la negativa motivada a participar en informaciones
+  contrarias a los principios éticos, a la ley de la RTVA o a las convicciones personales, sin
+  sanción ni perjuicio; la rescisión del contrato en los términos de la Ley Orgánica 2/1997; y la
+  mediación previa del Consejo Profesional antes de acudir a los tribunales. Añadía el derecho a
+  cambiar de programa si cambiaba su línea o su dirección de forma lesiva para las convicciones
+  del profesional.
+- *Secreto profesional.* Lo configuraba como derecho de los profesionales y garantía del
+  derecho del público a una información libre: no revelar las fuentes propias ni las de los
+  compañeros, confidencialidad de los materiales de trabajo y prohibición de registros o
+  cesiones de material sin orden judicial. Su único límite era el requerimiento judicial de
+  revelar la fuente en un proceso penal, y obligaba a revelarla cuando así se pudiera evitar un
+  delito cierto contra la vida, la integridad, la salud o la libertad de las personas.
+- *Consejos Profesionales.* Órganos de representación de los profesionales de la información,
+  elegidos por ellos, con funciones de salvaguarda y control del cumplimiento del Estatuto y de
+  mediación entre las redacciones y la empresa; eran la primera instancia a la que podían
+  acudir los afectados. Emitían informes sobre la calidad de la programación informativa, a los
+  que la empresa debía responder motivadamente, y recogían la opinión de los profesionales,
+  no vinculante, sobre el nombramiento y cese de la dirección de los servicios informativos. Los
+  directivos y mandos de la redacción eran incompatibles con la condición de miembro.
+- *Reforma.* La aprobaba el Consejo de Administración de la RTVA, con participación de los
+  Consejos Profesionales.
