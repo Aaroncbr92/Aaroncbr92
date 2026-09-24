@@ -1386,7 +1386,8 @@ el de protección de datos.**» El mandato está escrito para el acceso a cuerpo
 Administraciones Públicas.
 
 *Los derechos digitales en el trabajo.* Son los artículos 87 a 90, más el 91, y se aplican dentro
-de la empresa. Se dictan al amparo del artículo 149.1.7.ª y 18.ª CE.
+de la empresa. Los artículos 87 a 90 se dictan al amparo del artículo 149.1.7.ª y 18.ª CE
+(disposición final segunda.3).
 
 *Artículo 87. Intimidad y uso de dispositivos digitales.*
 

@@ -92,8 +92,9 @@ Comisión, que una decisión de 2013 mantuvo en un comisario por Estado.
   vigor del Tratado de la Unión Europea, el 1 de noviembre de 1993**».
 - El texto que hoy se lee no es el de 1992: es la versión consolidada que integra las reformas
   posteriores. Varias remisiones internas nombran al Tratado de Lisboa (por ejemplo, el
-  artículo 17.4 y la nota final de la Carta). Este tema no da su fecha de firma ni la de su entrada
-  en vigor, porque no figuran en los textos leídos.
+  artículo 17.4 y la nota final de la Carta). Las declaraciones anejas a su Acta Final lo dicen
+  «**firmado el 13 de diciembre de 2007**»; su fecha de entrada en vigor no figura en los textos
+  leídos y este tema no la da.
 - Artículo 55: el Tratado está redactado en un ejemplar único en veinticuatro lenguas, entre ellas
   la española, cuyos textos son «**igualmente auténticos**», y se deposita en los archivos del
   Gobierno italiano.
