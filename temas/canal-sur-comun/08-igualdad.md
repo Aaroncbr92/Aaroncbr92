@@ -304,8 +304,10 @@ Capacitación del personal (artículo 9 bis, añadido en 2018). Las Administraci
 de Andalucía garantizarán **«una formación básica, progresiva y permanente de su personal en
 materia de igualdad de mujeres y hombres, con enfoque feminista y transformador de los roles
 tradicionales de género»**; elaborarán planes de formación de su personal y actividades de
-sensibilización para quienes desempeñen funciones de dirección; y el órgano de función pública exigirá conocimientos específicos para los
-puestos de asesoramiento en igualdad.
+sensibilización para quienes desempeñen funciones de dirección; y el órgano de función pública
+garantizará la capacitación específica del personal de los puestos de asesoramiento en
+igualdad, **«estableciendo requisitos específicos de conocimiento en dicha materia para el acceso
+a los mismos»** (9 bis.4).
 
 Estadísticas e investigaciones (artículo 10). Los poderes públicos **«deberán»**: a)
 **«Incluir sistemáticamente la variable sexo en las estadísticas, encuestas y recogida de datos
@@ -823,9 +825,12 @@ Junta y sus agencias, con efectos desde la fecha de la infracción (80.4).
 Graduación (artículo 81). Siete criterios: naturaleza y gravedad de los perjuicios;
 intencionalidad; trascendencia social; beneficio obtenido; incumplimiento de advertencias o
 requerimientos previos; reparación voluntaria antes de la resolución definitiva; reincidencia.
-La comisión de la infracción no puede resultar más beneficiosa que cumplir la norma (81.2).
+Al fijar la multa **«deberá tenerse en cuenta que la comisión de las infracciones no resulte más
+beneficiosa para la persona o entidad infractora que el cumplimiento de las normas
+infringidas»** (81.2).
 
-Prescripción de las sanciones (artículo 82). **«las sanciones impuestas por infracciones muy
+Prescripción de las sanciones (artículo 82). Sin perjuicio del artículo 30 de la Ley 40/2015,
+**«las sanciones impuestas por infracciones muy
 graves prescribirán a los tres años, las graves a los dos años y las leves al año.»**
 
 Publicidad (artículo 83). Las sanciones graves y muy graves firmes se publican en el BOJA;
@@ -1068,7 +1073,8 @@ protección y no perjudica las disposiciones más favorables establecidas en otr
    trabajadores, que publiquen la información salarial necesaria para analizar los factores de
    las diferencias salariales»**. Es una habilitación («se podrá»), no una obligación directa.
 
-Negociación colectiva (artículo 10). No puede establecer limitaciones, segregaciones o
+Negociación colectiva (artículo 10). Sin perjuicio de la libertad de las partes para
+determinar el contenido de los convenios, no puede establecer limitaciones, segregaciones o
 exclusiones por las causas de la ley; mediante ella **«se podrán establecer medidas de acción
 positiva»**; y **«La representación legal de los trabajadores y la propia empresa velarán por el
 cumplimiento del derecho a la igualdad de trato y no discriminación en la empresa»** (10.3). Las

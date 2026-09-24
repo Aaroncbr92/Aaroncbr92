@@ -80,3 +80,16 @@ los anuncios de admisión, ninguna sentencia.
 - Ley 18/2007 releída en su redacción vigente: arts. 2.1, 4.1.b) y f), 4.3.c), 14.1 (nueve
   miembros, paridad), 20.1 (quince miembros; vocales del Consejo Andaluz LGBTI y del Consejo
   Andaluz de Participación de las Mujeres) y DA 3.ª (40-60 %). Conformes.
+10. **Ley 12/2007, art. 9 bis** · «el órgano de función pública exigirá conocimientos específicos»
+    · «garantizará la capacitación específica […], "estableciendo requisitos específicos de
+    conocimiento en dicha materia para el acceso a los mismos"» · art. 9 bis.4. (Error 4: la
+    norma no dice «exigirá».)
+11. **Ley 12/2007, art. 81.2** · «La comisión de la infracción no puede resultar más beneficiosa
+    que cumplir la norma» · literal: «deberá tenerse en cuenta que la comisión de las
+    infracciones no resulte más beneficiosa […]» · art. 81.2. (Error 4: regla de graduación, no
+    afirmación de hecho.)
+12. **Ley 12/2007, art. 82** · la cita empezaba en «las sanciones impuestas…» · se antepone «Sin
+    perjuicio del artículo 30 de la Ley 40/2015», como ya se hacía en el 79 · art. 82. (Error 6.)
+13. **Ley 15/2022, art. 10.1** · «No puede establecer limitaciones…» · «Sin perjuicio de la
+    libertad de las partes para determinar el contenido de los convenios, no puede…» · art. 10.1.
+    (Error 6, menor.)
