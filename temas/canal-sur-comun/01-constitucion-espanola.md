@@ -941,3 +941,715 @@ Las cuatro tienen una disposición final única con la misma fórmula que la Con
 reforma «**entrará en vigor el mismo día de la publicación de su texto oficial en el «Boletín
 Oficial del Estado»**».
 
+## b. Órganos constitucionales. La Corona. Las Cortes Generales. El Congreso de los Diputados y el Senado: Composición y funciones. La función legislativa. El Gobierno del Estado. El Poder Judicial. El Tribunal Constitucional. El Tribunal de Cuentas y el Defensor del Pueblo.
+
+### Órganos constitucionales
+
+La Constitución no usa la expresión «órganos constitucionales» ni da una lista cerrada con
+ese nombre. Lo más cercano está en el artículo 116.5, que habla del funcionamiento de las Cámaras
+«**así como el de los demás poderes constitucionales del Estado**». La lista de este epígrafe la
+da el propio enunciado, que nombra a continuación la Corona, las Cortes Generales (Congreso y
+Senado), el Gobierno, el Poder Judicial, el Tribunal Constitucional, el Tribunal de Cuentas y el
+Defensor del Pueblo. Lo que sí escribe la Constitución es cómo califica a cada uno:
+
+| Órgano | Dónde | Cómo lo califica la Constitución |
+|---|---|---|
+| El Rey | Título II, art. 56.1 | «**el Jefe del Estado, símbolo de su unidad y permanencia**» |
+| Las Cortes Generales | Título III, art. 66.1 | «**representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado**» |
+| El Senado | Art. 69.1 | «**la Cámara de representación territorial**» |
+| El Gobierno | Título IV, art. 97 | «**dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado**» |
+| El Consejo de Estado | Art. 107 | «**el supremo órgano consultivo del Gobierno**» |
+| El Consejo General del Poder Judicial | Título VI, art. 122.2 | «**es el órgano de gobierno del mismo**» (del Poder Judicial) |
+| El Tribunal Supremo | Art. 123.1 | «**el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales**» |
+| El Tribunal de Cuentas | Título VII, art. 136.1 | «**el supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público**» |
+| El Tribunal Constitucional | Título IX, art. 161.1 | «**tiene jurisdicción en todo el territorio español**» |
+| El Defensor del Pueblo | Título I, art. 54 | «**alto comisionado de las Cortes Generales**» |
+
+Cómo se cruzan en los nombramientos (cada fila se desarrolla en su epígrafe):
+
+| Cargo u órgano | Quién propone o elige | Quién nombra | Mandato |
+|---|---|---|---|
+| Presidente del Gobierno | Propone el Rey, previa consulta con los representantes de los Grupos políticos; otorga la confianza el Congreso (art. 99) | El Rey | Cesa tras elecciones generales, entre otros supuestos (art. 101) |
+| Tribunal Constitucional (12) | 4 el Congreso y 4 el Senado, por tres quintos; 2 el Gobierno; 2 el CGPJ (art. 159.1) | El Rey | Nueve años, renovación por terceras partes cada tres |
+| CGPJ (Presidente del Tribunal Supremo y 20 vocales) | 12 entre Jueces y Magistrados, en los términos de la ley orgánica; 4 a propuesta del Congreso y 4 del Senado, por tres quintos (art. 122.3) | El Rey | Cinco años |
+| Presidente del Tribunal Supremo | A propuesta del CGPJ (art. 123.2) | El Rey | — |
+| Fiscal General del Estado | A propuesta del Gobierno, oído el CGPJ (art. 124.4) | El Rey | — |
+| Defensor del Pueblo | Lo eligen las Cortes Generales (art. 54 y Ley Orgánica 3/1981, art. 2) | Acreditan el nombramiento con sus firmas los Presidentes del Congreso y del Senado (Ley Orgánica 3/1981, art. 4) | Cinco años |
+| Consejeros de Cuentas (12) | 6 el Congreso y 6 el Senado, por tres quintos (Ley Orgánica 2/1982, art. 30) | La ley habla de designación por las Cortes Generales | Nueve años |
+
+### La Corona
+
+El Título II, «De la Corona», tiene diez artículos, 56 a 65, sin capítulos.
+
+*Artículo 56. El Rey.*
+
+1. «**El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el
+   funcionamiento regular de las instituciones, asume la más alta representación del Estado
+   español en las relaciones internacionales, especialmente con las naciones de su comunidad
+   histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las
+   leyes.**»
+2. «**Su título es el de Rey de España y podrá utilizar los demás que correspondan a la
+   Corona.**»
+3. «**La persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos estarán
+   siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin
+   dicho refrendo, salvo lo dispuesto en el artículo 65, 2.**» El 65.2 es el nombramiento y
+   relevo de los miembros de su Casa.
+
+*Artículo 57. Sucesión.*
+
+1. «**La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón,
+   legítimo heredero de la dinastía histórica.**» La sucesión sigue «**el orden regular de
+   primogenitura y representación**», con esta prelación:
+   1. «**la línea anterior a las posteriores**»;
+   2. «**en la misma línea, el grado más próximo al más remoto**»;
+   3. «**en el mismo grado, el varón a la mujer**»;
+   4. «**en el mismo sexo, la persona de más edad a la de menos**».
+2. «**El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el
+   llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados
+   tradicionalmente al sucesor de la Corona de España.**»
+3. «**Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la
+   sucesión en la Corona en la forma que más convenga a los intereses de España.**»
+4. Quienes, teniendo derecho a la sucesión, «**contrajeren matrimonio contra la expresa
+   prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona
+   por sí y sus descendientes**».
+5. «**Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden
+   de sucesión a la Corona se resolverán por una ley orgánica.**»
+
+*Artículo 58. Consorte.* «**La Reina consorte o el consorte de la Reina no podrán asumir
+funciones constitucionales, salvo lo dispuesto para la Regencia.**»
+
+*Artículo 59. Regencia.*
+
+1. Rey menor de edad: «**el padre o la madre del Rey y, en su defecto, el pariente mayor de edad
+   más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a
+   ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del
+   Rey**».
+2. Rey inhabilitado, si la imposibilidad es **reconocida por las Cortes Generales**: entra a
+   ejercer inmediatamente la Regencia «**el Príncipe heredero de la Corona, si fuere mayor de
+   edad**»; si no lo es, se aplica la regla del apartado anterior hasta que alcance la mayoría
+   de edad.
+3. «**Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las
+   Cortes Generales, y se compondrá de una, tres o cinco personas.**»
+4. «**Para ejercer la Regencia es preciso ser español y mayor de edad.**»
+5. «**La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.**»
+
+*Artículo 60. Tutela del Rey menor.* Será tutor la persona que en su testamento hubiese
+nombrado el Rey difunto, «**siempre que sea mayor de edad y español de nacimiento**»; si no lo
+hubiese nombrado, «**el padre o la madre mientras permanezcan viudos**». En su defecto, lo
+nombrarán las Cortes Generales, «**pero no podrán acumularse los cargos de Regente y de tutor
+sino en el padre, madre o ascendientes directos del Rey**». «**El ejercicio de la tutela es
+también incompatible con el de todo cargo o representación política.**»
+
+Para ser Regente basta ser español y mayor de edad; para ser tutor designado en testamento se
+exige ser español **de nacimiento**.
+
+*Artículo 61. Juramento.* «**El Rey, al ser proclamado ante las Cortes Generales, prestará
+juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las
+leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.**» El Príncipe
+heredero al alcanzar la mayoría de edad y el Regente o Regentes al hacerse cargo de sus
+funciones prestan el mismo juramento, «**así como el de fidelidad al Rey**».
+
+*Artículo 62.* «**Corresponde al Rey**»: diez letras, de la a) a la j).
+
+| | |
+|---|---|
+| a) | «**Sancionar y promulgar las leyes.**» |
+| b) | «**Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución.**» |
+| c) | «**Convocar a referéndum en los casos previstos en la Constitución.**» |
+| d) | «**Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.**» |
+| e) | «**Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.**» |
+| f) | «**Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.**» |
+| g) | «**Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.**» |
+| h) | «**El mando supremo de las Fuerzas Armadas.**» |
+| i) | «**Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.**» |
+| j) | «**El Alto Patronazgo de las Reales Academias.**» |
+
+*Artículo 63. Relaciones internacionales.*
+
+1. «**El Rey acredita a los embajadores y otros representantes diplomáticos. Los representantes
+   extranjeros en España están acreditados ante él.**»
+2. «**Al Rey corresponde manifestar el consentimiento del Estado para obligarse
+   internacionalmente por medio de tratados, de conformidad con la Constitución y las
+   leyes.**»
+3. «**Al Rey corresponde, previa autorización de las Cortes Generales, declarar la guerra y hacer
+   la paz.**»
+
+*Artículo 64. Refrendo.*
+
+1. «**Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los
+   Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la
+   disolución prevista en el artículo 99, serán refrendados por el Presidente del
+   Congreso.**»
+2. «**De los actos del Rey serán responsables las personas que los refrenden.**»
+
+*Artículo 65. Casa del Rey.*
+
+1. «**El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de
+   su Familia y Casa, y distribuye libremente la misma.**»
+2. «**El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.**» Es la
+   salvedad que el artículo 56.3 exceptúa del refrendo.
+
+### Las Cortes Generales
+
+El Título III, «De las Cortes Generales» (artículos 66 a 96), tiene tres capítulos: «De las
+Cámaras» (arts. 66 a 80), «De la elaboración de las leyes» (arts. 81 a 92) y «De los Tratados
+Internacionales» (arts. 93 a 96). Aquí van las reglas comunes a las dos Cámaras; la composición
+de cada una y sus funciones, en el epígrafe siguiente; la elaboración de las leyes, en «La
+función legislativa».
+
+*Artículo 66.*
+
+1. «**Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los
+   Diputados y el Senado.**»
+2. «**Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos,
+   controlan la acción del Gobierno y tienen las demás competencias que les atribuya la
+   Constitución.**»
+3. «**Las Cortes Generales son inviolables.**»
+
+*Artículo 67.*
+
+1. «**Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una
+   Asamblea de Comunidad Autónoma con la de Diputado al Congreso.**» La prohibición de acumular
+   el acta autonómica la escribe el precepto sólo respecto del acta de Diputado al Congreso.
+2. «**Los miembros de las Cortes Generales no estarán ligados por mandato imperativo.**»
+3. «**Las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria no
+   vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios.**»
+
+*Artículo 70. Inelegibilidad e incompatibilidad.* La ley electoral determinará las causas de
+inelegibilidad e incompatibilidad de Diputados y Senadores, «**que comprenderán, en todo caso**»:
+
+- a) «**A los componentes del Tribunal Constitucional.**»
+- b) «**A los altos cargos de la Administración del Estado que determine la ley, con la excepción
+  de los miembros del Gobierno.**»
+- c) «**Al Defensor del Pueblo.**»
+- d) «**A los Magistrados, Jueces y Fiscales en activo.**»
+- e) «**A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía
+  en activo.**»
+- f) «**A los miembros de las Juntas Electorales.**»
+
+«**La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al
+control judicial, en los términos que establezca la ley electoral.**» (70.2).
+
+*Artículo 71. Prerrogativas.*
+
+1. Inviolabilidad: «**Los Diputados y Senadores gozarán de inviolabilidad por las opiniones
+   manifestadas en el ejercicio de sus funciones.**»
+2. Inmunidad, durante el período de su mandato: «**sólo podrán ser detenidos en caso de
+   flagrante delito. No podrán ser inculpados ni procesados sin la previa autorización de la
+   Cámara respectiva.**»
+3. Aforamiento: «**En las causas contra Diputados y Senadores será competente la Sala de lo
+   Penal del Tribunal Supremo.**»
+4. «**Los Diputados y Senadores percibirán una asignación que será fijada por las respectivas
+   Cámaras.**»
+
+*Artículo 72. Autonomía de las Cámaras.*
+
+1. «**Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y,
+   de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales.**» Los
+   Reglamentos y su reforma se someten a «**una votación final sobre su totalidad, que
+   requerirá la mayoría absoluta**».
+2. «**Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas.**» Las
+   sesiones conjuntas «**serán presididas por el Presidente del Congreso y se regirán por un
+   Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara**».
+3. Los Presidentes de las Cámaras ejercen en nombre de éstas «**todos los poderes administrativos
+   y facultades de policía en el interior de sus respectivas sedes**».
+
+*Artículo 73. Períodos de sesiones.*
+
+1. «**Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de
+   septiembre a diciembre, y el segundo, de febrero a junio.**»
+2. Sesiones extraordinarias «**a petición del Gobierno, de la Diputación Permanente o de la
+   mayoría absoluta de los miembros de cualquiera de las Cámaras**». «**Las sesiones
+   extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una
+   vez que éste haya sido agotado.**»
+
+*Artículo 74. Sesión conjunta y decisiones no legislativas.*
+
+1. «**Las Cámaras se reunirán en sesión conjunta para ejercer las competencias no legislativas
+   que el Título II atribuye expresamente a las Cortes Generales.**»
+2. Las decisiones de las Cortes previstas en los artículos 94.1 (autorización de tratados),
+   145.2 (acuerdos de cooperación entre Comunidades Autónomas) y 158.2 (distribución del Fondo
+   de Compensación) «**se adoptarán por mayoría de cada una de las Cámaras**». «**En el primer
+   caso, el procedimiento se iniciará por el Congreso, y en los otros dos, por el Senado.**» Si
+   no hay acuerdo, se intenta mediante «**una Comisión Mixta compuesta de igual número de
+   Diputados y Senadores**», cuyo texto votan ambas Cámaras; «**Si no se aprueba en la forma
+   establecida, decidirá el Congreso por mayoría absoluta.**»
+
+*Artículo 75. Pleno y Comisiones.*
+
+1. «**Las Cámaras funcionarán en Pleno y por Comisiones.**»
+2. Pueden «**delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o
+   proposiciones de ley**»; el Pleno podrá, no obstante, «**recabar en cualquier momento el
+   debate y votación**» de cualquier proyecto o proposición que haya sido objeto de esa
+   delegación.
+3. «**Quedan exceptuados de lo dispuesto en el apartado anterior la reforma constitucional, las
+   cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del
+   Estado.**» Son cinco materias.
+
+*Artículo 76. Comisiones de investigación.* «**El Congreso y el Senado, y, en su caso, ambas
+Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto de
+interés público.**» «**Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán
+a las resoluciones judiciales**», sin perjuicio de que el resultado se comunique al Ministerio
+Fiscal para el ejercicio, cuando proceda, de las acciones oportunas. «**Será obligatorio
+comparecer a requerimiento de las Cámaras.**» La ley regulará las sanciones por incumplimiento.
+
+*Artículo 77. Peticiones.* «**Las Cámaras pueden recibir peticiones individuales y colectivas,
+siempre por escrito, quedando prohibida la presentación directa por manifestaciones
+ciudadanas.**» Pueden remitirlas al Gobierno, que «**está obligado a explicarse sobre su
+contenido, siempre que las Cámaras lo exijan**».
+
+*Artículo 78. Diputación Permanente.*
+
+1. «**En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún
+   miembros, que representarán a los grupos parlamentarios, en proporción a su importancia
+   numérica.**»
+2. La preside el Presidente de la Cámara respectiva. Funciones: la del artículo 73 (pedir
+   sesiones extraordinarias); asumir las facultades de las Cámaras de los artículos 86 y 116
+   (decretos-leyes y estados de alarma, excepción y sitio) «**en caso de que éstas hubieren sido
+   disueltas o hubiere expirado su mandato**»; y «**velar por los poderes de las Cámaras cuando
+   éstas no estén reunidas**».
+3. Expirado el mandato o en caso de disolución, siguen ejerciendo sus funciones «**hasta la
+   constitución de las nuevas Cortes Generales**».
+4. Reunida la Cámara, la Diputación Permanente «**dará cuenta de los asuntos tratados y de sus
+   decisiones**».
+
+*Artículo 79. Adopción de acuerdos.*
+
+1. «**Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia
+   de la mayoría de sus miembros.**»
+2. Los acuerdos deben ser aprobados «**por la mayoría de los miembros presentes, sin perjuicio de
+   las mayorías especiales que establezcan la Constitución o las leyes orgánicas y las que para
+   elección de personas establezcan los Reglamentos de las Cámaras**».
+3. «**El voto de Senadores y Diputados es personal e indelegable.**»
+
+*Artículo 80. Publicidad.* «**Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo
+en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.**»
+
+### El Congreso de los Diputados y el Senado: Composición y funciones
+
+#### El Congreso de los Diputados (artículo 68)
+
+1. «**El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por
+   sufragio universal, libre, igual, directo y secreto, en los términos que establezca la
+   ley.**»
+2. «**La circunscripción electoral es la provincia.**» «**Las poblaciones de Ceuta y Melilla
+   estarán representadas cada una de ellas por un Diputado.**» La ley distribuirá el número total
+   de Diputados, «**asignando una representación mínima inicial a cada circunscripción y
+   distribuyendo los demás en proporción a la población**».
+3. «**La elección se verificará en cada circunscripción atendiendo a criterios de
+   representación proporcional.**»
+4. «**El Congreso es elegido por cuatro años. El mandato de los Diputados termina cuatro años
+   después de su elección o el día de la disolución de la Cámara.**»
+5. «**Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos
+   políticos.**» Y el párrafo segundo: «**La ley reconocerá y el Estado facilitará el ejercicio
+   del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.**»
+6. «**Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del
+   mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a
+   la celebración de las elecciones.**»
+
+La Constitución fija la horquilla (300-400), no el número exacto de Diputados, que corresponde a
+la ley electoral.
+
+#### El Senado (artículo 69)
+
+1. «**El Senado es la Cámara de representación territorial.**»
+2. «**En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual,
+   directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley
+   orgánica.**»
+3. «**En las provincias insulares, cada isla con Cabildo o Consejo Insular constituirá una
+   circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las
+   islas mayores −Gran Canaria, Mallorca y Tenerife− y uno a cada una de las siguientes islas:
+   Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma.**»
+4. «**Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores.**»
+5. «**Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de
+   habitantes de su respectivo territorio.**» La designación corresponde «**a la Asamblea
+   legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma**», de
+   acuerdo con los Estatutos, que asegurarán, en todo caso, «**la adecuada representación
+   proporcional**».
+6. «**El Senado es elegido por cuatro años. El mandato de los Senadores termina cuatro años
+   después de su elección o el día de la disolución de la Cámara.**»
+
+*Qué cambió en el 69.3: la Reforma del apartado 3 del artículo 69 de la Constitución Española, a
+los efectos de que la isla de Formentera elija un senador propio, de 19 de mayo de 2026 (BOE de
+20-05-2026), en vigor el mismo día de su publicación.* Tres cambios de texto respecto de 1978:
+
+- desaparecen las agrupaciones: donde decía «cada isla o agrupación de ellas, con Cabildo o
+  Consejo Insular», dice ahora «**cada isla con Cabildo o Consejo Insular**», y donde decía
+  «uno a cada una de las siguientes islas o agrupaciones», dice «**uno a cada una de las
+  siguientes islas**»;
+- la antigua circunscripción «Ibiza-Formentera» se separa en dos: «**Ibiza, Formentera**»;
+- «Gomera» y «Hierro» pasan a escribirse «**La Gomera, El Hierro**».
+
+Y la reforma lleva una disposición transitoria única: «**La eficacia de la creación de las
+circunscripciones electorales al Senado por las islas de Ibiza y Formentera quedará pospuesta
+hasta la convocatoria de las primeras elecciones al Senado que se celebren tras la entrada en
+vigor de la presente reforma de la Constitución Española.**» El texto está en vigor desde el
+20-05-2026, pero Ibiza y Formentera eligen Senador por separado sólo a partir de las primeras
+elecciones al Senado posteriores.
+
+Recuento: por provincia, cuatro; Ceuta y Melilla, dos cada una; cada isla mayor, tres; cada una
+de las otras ocho islas que nombra el 69.3, uno (Ibiza y Formentera, con la salvedad de la
+transitoria); y los designados por las Comunidades Autónomas, uno más otro por cada millón de
+habitantes. La Constitución no fija el número total de Senadores, porque los designados
+dependen de la población de cada Comunidad.
+
+#### Funciones
+
+Las funciones de las Cortes están enunciadas en el artículo 66.2: ejercen la potestad
+legislativa, aprueban los Presupuestos, controlan la acción del Gobierno «**y tienen las demás
+competencias que les atribuya la Constitución**». Repartidas por Cámaras:
+
+| Función | Congreso | Senado |
+|---|---|---|
+| Legislativa | Recibe los proyectos de ley (art. 88); aprueba las leyes orgánicas por mayoría absoluta en votación final sobre el conjunto (art. 81.2); levanta el veto del Senado o se pronuncia sobre sus enmiendas (art. 90.2); convalida o deroga los decretos-leyes (art. 86.2) | Veto o enmiendas en dos meses, o veinte días naturales si el proyecto es urgente (art. 90) |
+| Presupuestaria | El Gobierno le presenta los Presupuestos «**al menos tres meses antes de la expiración de los del año anterior**» (art. 134.3) | Examen, enmienda y aprobación corresponden a las Cortes (art. 134.1) |
+| Control del Gobierno | El Gobierno responde solidariamente ante él (art. 108); investidura (art. 99), cuestión de confianza (art. 112) y moción de censura (art. 113) | Interpelaciones, preguntas y comparecencias, comunes a ambas Cámaras (arts. 109 a 111) |
+| Estados excepcionales | Se le da cuenta de la alarma y autoriza su prórroga; autoriza la excepción; declara el sitio (art. 116) | — |
+| Territorial | — | Aprueba por mayoría absoluta las medidas del art. 155; inicia el procedimiento del art. 74.2 en los casos de los arts. 145.2 y 158.2 |
+| Nombramientos | Propone 4 magistrados del Tribunal Constitucional (art. 159.1) y 4 vocales del CGPJ (art. 122.3); designa 6 Consejeros de Cuentas (Ley Orgánica 2/1982, art. 30) | Lo mismo: 4, 4 y 6 |
+| Otras | Autoriza el referéndum consultivo (art. 92.2); aprecia por mayoría absoluta la superación de los límites de déficit y deuda (art. 135.4); acusación por traición o delitos contra la seguridad del Estado a iniciativa de la cuarta parte de sus miembros y con aprobación de su mayoría absoluta (art. 102.2) | — |
+
+Y las que el Título II atribuye a las Cortes Generales: proveer a la sucesión extinguidas las
+líneas (art. 57.3), la prohibición de matrimonio que excluye de la sucesión (art. 57.4),
+reconocer la inhabilitación del Rey (art. 59.2), nombrar la Regencia (art. 59.3) y el tutor
+(art. 60.1), recibir el juramento del Rey al ser proclamado (art. 61.1) y autorizar la
+declaración de guerra y la paz (art. 63.3).
+
+*Artículo 134. Presupuestos Generales del Estado.*
+
+1. «**Corresponde al Gobierno la elaboración de los Presupuestos Generales del Estado y a las
+   Cortes Generales, su examen, enmienda y aprobación.**»
+2. Tendrán «**carácter anual**», incluirán «**la totalidad de los gastos e ingresos del sector
+   público estatal**» y en ellos se consignará «**el importe de los beneficios fiscales que
+   afecten a los tributos del Estado**».
+3. «**El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales
+   del Estado al menos tres meses antes de la expiración de los del año anterior.**»
+4. «**Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico
+   correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio
+   anterior hasta la aprobación de los nuevos.**»
+5. Aprobados los Presupuestos, el Gobierno podrá presentar proyectos de ley que impliquen
+   aumento del gasto público o disminución de los ingresos del mismo ejercicio.
+6. «**Toda proposición o enmienda que suponga aumento de los créditos o disminución de los
+   ingresos presupuestarios requerirá la conformidad del Gobierno para su tramitación.**»
+7. «**La Ley de Presupuestos no puede crear tributos. Podrá modificarlos cuando una ley
+   tributaria sustantiva así lo prevea.**»
+
+#### Los tratados internacionales (artículos 93 a 96)
+
+*Artículo 93.* «**Mediante ley orgánica se podrá autorizar la celebración de tratados por los que
+se atribuya a una organización o institución internacional el ejercicio de competencias
+derivadas de la Constitución.**» La garantía de su cumplimiento corresponde «**a las Cortes
+Generales o al Gobierno, según los casos**».
+
+*Artículo 94.* Requiere «**la previa autorización de las Cortes Generales**» la prestación del
+consentimiento del Estado en cinco casos:
+
+- a) «**Tratados de carácter político.**»
+- b) «**Tratados o convenios de carácter militar.**»
+- c) «**Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y
+  deberes fundamentales establecidos en el Título I.**»
+- d) «**Tratados o convenios que impliquen obligaciones financieras para la Hacienda
+  Pública.**»
+- e) «**Tratados o convenios que supongan modificación o derogación de alguna ley o exijan
+  medidas legislativas para su ejecución.**»
+
+«**El Congreso y el Senado serán inmediatamente informados de la conclusión de los restantes
+tratados o convenios.**» (94.2).
+
+*Artículo 95.* «**La celebración de un tratado internacional que contenga estipulaciones
+contrarias a la Constitución exigirá la previa revisión constitucional.**» «**El Gobierno o
+cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe o
+no esa contradicción.**»
+
+*Artículo 96.* Los tratados válidamente celebrados, «**una vez publicados oficialmente en España,
+formarán parte del ordenamiento interno**». Sus disposiciones «**sólo podrán ser derogadas,
+modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las
+normas generales del Derecho internacional**». Para su denuncia se utiliza «**el mismo
+procedimiento previsto para su aprobación en el artículo 94**».
+
+### La función legislativa
+
+Capítulo segundo del Título III, «De la elaboración de las leyes», artículos 81 a 92.
+
+*Artículo 81. Leyes orgánicas.*
+
+1. «**Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las
+   libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral
+   general y las demás previstas en la Constitución.**»
+2. «**La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta
+   del Congreso, en una votación final sobre el conjunto del proyecto.**»
+
+*Artículos 82 a 85. Legislación delegada.*
+
+- 82.1: «**Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con
+  rango de ley sobre materias determinadas no incluidas en el artículo anterior.**» Las materias
+  de ley orgánica no se delegan.
+- 82.2: la delegación se otorga «**mediante una ley de bases cuando su objeto sea la formación
+  de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales
+  en uno solo**».
+- 82.3: «**de forma expresa para materia concreta y con fijación del plazo para su
+  ejercicio**». «**La delegación se agota por el uso que de ella haga el Gobierno mediante la
+  publicación de la norma correspondiente.**» «**No podrá entenderse concedida de modo implícito
+  o por tiempo indeterminado.**» «**Tampoco podrá permitir la subdelegación a autoridades
+  distintas del propio Gobierno.**»
+- 82.4: «**Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación
+  legislativa y los principios y criterios que han de seguirse en su ejercicio.**»
+- 82.5: la autorización para refundir determinará el ámbito normativo de la delegación,
+  «**especificando si se circunscribe a la mera formulación de un texto único o si se incluye la
+  de regularizar, aclarar y armonizar los textos legales que han de ser refundidos**».
+- 82.6: «**Sin perjuicio de la competencia propia de los Tribunales, las leyes de delegación
+  podrán establecer en cada caso fórmulas adicionales de control.**»
+- 83: «**Las leyes de bases no podrán en ningún caso**»: a) «**Autorizar la modificación de la
+  propia ley de bases.**»; b) «**Facultar para dictar normas con carácter retroactivo.**»
+- 84: si una proposición de ley o una enmienda fuere contraria a una delegación legislativa en
+  vigor, «**el Gobierno está facultado para oponerse a su tramitación**». «**En tal supuesto,
+  podrá presentarse una proposición de ley para la derogación total o parcial de la ley de
+  delegación.**»
+- 85: «**Las disposiciones del Gobierno que contengan legislación delegada recibirán el título
+  de Decretos Legislativos.**»
+
+*Artículo 86. Decretos-leyes.*
+
+1. «**En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones
+   legislativas provisionales que tomarán la forma de Decretos-leyes**» y que no podrán afectar:
+   - «**al ordenamiento de las instituciones básicas del Estado**»,
+   - «**a los derechos, deberes y libertades de los ciudadanos regulados en el Título I**»,
+   - «**al régimen de las Comunidades Autónomas**»,
+   - «**ni al Derecho electoral general**».
+2. «**Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al
+   Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los
+   treinta días siguientes a su promulgación. El Congreso habrá de pronunciarse expresamente
+   dentro de dicho plazo sobre su convalidación o derogación, para lo cual el Reglamento
+   establecerá un procedimiento especial y sumario.**»
+3. «**Durante el plazo establecido en el apartado anterior, las Cortes podrán tramitarlos como
+   proyectos de ley por el procedimiento de urgencia.**»
+
+*Artículo 87. Iniciativa legislativa.*
+
+1. «**La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con
+   la Constitución y los Reglamentos de las Cámaras.**»
+2. «**Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un
+   proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha
+   Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.**»
+3. Una ley orgánica regulará la iniciativa popular. «**En todo caso se exigirán no menos de
+   500.000 firmas acreditadas.**» «**No procederá dicha iniciativa en materias propias de ley
+   orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de
+   gracia.**»
+
+*Artículo 88.* «**Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá
+al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para
+pronunciarse sobre ellos.**»
+
+*Artículo 89. Proposiciones de ley.* Su tramitación la regulan los Reglamentos de las Cámaras,
+«**sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa
+legislativa en los términos regulados por el artículo 87**». Las que tome en consideración el
+Senado «**se remitirán al Congreso para su trámite en éste como tal proposición**».
+
+*Artículo 90. Intervención del Senado.*
+
+1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso, su Presidente «**dará
+   inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de
+   éste**».
+2. «**El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede,
+   mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser
+   aprobado por mayoría absoluta.**» El proyecto no podrá someterse al Rey para sanción sin que
+   el Congreso:
+   - «**ratifique por mayoría absoluta, en caso de veto, el texto inicial**», o
+   - lo ratifique «**por mayoría simple, una vez transcurridos dos meses desde la interposición
+     del mismo**», o
+   - «**se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple**».
+3. El plazo de dos meses «**se reducirá al de veinte días naturales en los proyectos declarados
+   urgentes por el Gobierno o por el Congreso de los Diputados**».
+
+*Artículo 91. Sanción.* «**El Rey sancionará en el plazo de quince días las leyes aprobadas por
+las Cortes Generales, y las promulgará y ordenará su inmediata publicación.**»
+
+*Artículo 92. Referéndum consultivo.*
+
+1. «**Las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum
+   consultivo de todos los ciudadanos.**»
+2. «**El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno,
+   previamente autorizada por el Congreso de los Diputados.**»
+3. «**Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades
+   de referéndum previstas en esta Constitución.**»
+
+Resumen de mayorías de la función legislativa:
+
+| Acto | Mayoría | Precepto |
+|---|---|---|
+| Ley orgánica | Absoluta del Congreso en votación final sobre el conjunto | 81.2 |
+| Veto del Senado | Absoluta del Senado | 90.2 |
+| Levantar el veto | Absoluta del Congreso, o simple pasados dos meses | 90.2 |
+| Enmiendas del Senado | Simple del Congreso para aceptarlas o no | 90.2 |
+| Reglamentos de las Cámaras y su reforma | Absoluta, en votación final sobre su totalidad | 72.1 |
+
+### El Gobierno del Estado
+
+El Título IV, «Del Gobierno y de la Administración» (artículos 97 a 107), y el Título V, «De las
+relaciones entre el Gobierno y las Cortes Generales» (artículos 108 a 116). El artículo 116
+(estados de alarma, excepción y sitio) se estudia en la rúbrica a), con la suspensión de
+derechos.
+
+*Artículo 97. Funciones.* «**El Gobierno dirige la política interior y exterior, la
+Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la
+potestad reglamentaria de acuerdo con la Constitución y las leyes.**»
+
+*Artículo 98. Composición.*
+
+1. «**El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros
+   y de los demás miembros que establezca la ley.**»
+2. «**El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros
+   del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su
+   gestión.**»
+3. «**Los miembros del Gobierno no podrán ejercer otras funciones representativas que las
+   propias del mandato parlamentario, ni cualquier otra función pública que no derive de su
+   cargo, ni actividad profesional o mercantil alguna.**»
+4. «**La ley regulará el estatuto e incompatibilidades de los miembros del Gobierno.**»
+
+*Artículo 99. Investidura.*
+
+1. «**Después de cada renovación del Congreso de los Diputados, y en los demás supuestos
+   constitucionales en que así proceda, el Rey, previa consulta con los representantes
+   designados por los Grupos políticos con representación parlamentaria, y a través del
+   Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.**»
+2. El candidato «**expondrá ante el Congreso de los Diputados el programa político del Gobierno
+   que pretenda formar y solicitará la confianza de la Cámara**».
+3. «**Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros,
+   otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha
+   mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la
+   anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.**»
+4. Si no se otorga la confianza, «**se tramitarán sucesivas propuestas en la forma prevista en
+   los apartados anteriores**».
+5. «**Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura,
+   ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y
+   convocará nuevas elecciones con el refrendo del Presidente del Congreso.**»
+
+*Artículo 100.* «**Los demás miembros del Gobierno serán nombrados y separados por el Rey, a
+propuesta de su Presidente.**»
+
+*Artículo 101. Cese.*
+
+1. «**El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la
+   confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su
+   Presidente.**»
+2. «**El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo
+   Gobierno.**»
+
+*Artículo 102. Responsabilidad criminal.*
+
+1. «**La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible,
+   en su caso, ante la Sala de lo Penal del Tribunal Supremo.**»
+2. «**Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en
+   el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de
+   los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.**»
+3. «**La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente
+   artículo.**»
+
+*Artículo 103. Administración Pública.*
+
+1. «**La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo
+   con los principios de eficacia, jerarquía, descentralización, desconcentración y
+   coordinación, con sometimiento pleno a la ley y al Derecho.**» Son cinco principios.
+2. «**Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo
+   con la ley.**»
+3. La ley regulará «**el estatuto de los funcionarios públicos, el acceso a la función pública de
+   acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su
+   derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad
+   en el ejercicio de sus funciones**».
+
+*Artículo 104. Fuerzas y Cuerpos de seguridad.* «**Las Fuerzas y Cuerpos de seguridad, bajo la
+dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y
+libertades y garantizar la seguridad ciudadana.**» Una ley orgánica determinará sus funciones,
+principios básicos de actuación y estatutos.
+
+*Artículo 105.* «**La ley regulará**»:
+
+- a) «**La audiencia de los ciudadanos, directamente o a través de las organizaciones y
+  asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones
+  administrativas que les afecten.**»
+- b) «**El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que
+  afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de
+  las personas.**» Tres excepciones.
+- c) «**El procedimiento a través del cual deben producirse los actos administrativos,
+  garantizando, cuando proceda, la audiencia del interesado.**»
+
+*Artículo 106. Control de la Administración.*
+
+1. «**Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación
+   administrativa, así como el sometimiento de ésta a los fines que la justifican.**»
+2. Los particulares, en los términos de la ley, «**tendrán derecho a ser indemnizados por toda
+   lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor,
+   siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos**».
+
+*Artículo 107. Consejo de Estado.* «**El Consejo de Estado es el supremo órgano consultivo del
+Gobierno. Una ley orgánica regulará su composición y competencia.**»
+
+#### Las relaciones entre el Gobierno y las Cortes Generales (artículos 108 a 115)
+
+*Artículo 108.* «**El Gobierno responde solidariamente en su gestión política ante el Congreso de
+los Diputados.**» Sólo ante el Congreso.
+
+*Artículo 109.* «**Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de
+aquéllas, la información y ayuda que precisen del Gobierno y de sus Departamentos y de
+cualesquiera autoridades del Estado y de las Comunidades Autónomas.**»
+
+*Artículo 110.*
+
+1. «**Las Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del
+   Gobierno.**»
+2. «**Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y a sus Comisiones y
+   la facultad de hacerse oír en ellas, y podrán solicitar que informen ante las mismas
+   funcionarios de sus Departamentos.**»
+
+*Artículo 111.*
+
+1. «**El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que
+   se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un
+   tiempo mínimo semanal.**»
+2. «**Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su
+   posición.**»
+
+*Artículo 112. Cuestión de confianza.* «**El Presidente del Gobierno, previa deliberación del
+Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza
+sobre su programa o sobre una declaración de política general. La confianza se entenderá
+otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.**»
+
+*Artículo 113. Moción de censura.*
+
+1. «**El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante
+   la adopción por mayoría absoluta de la moción de censura.**»
+2. «**La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y
+   habrá de incluir un candidato a la Presidencia del Gobierno.**»
+3. «**La moción de censura no podrá ser votada hasta que transcurran cinco días desde su
+   presentación. En los dos primeros días de dicho plazo podrán presentarse mociones
+   alternativas.**»
+4. «**Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán
+   presentar otra durante el mismo período de sesiones.**»
+
+*Artículo 114. Efectos.*
+
+1. «**Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey,
+   procediéndose a continuación a la designación de Presidente del Gobierno, según lo dispuesto
+   en el artículo 99.**»
+2. «**Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el
+   candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los
+   efectos previstos en el artículo 99. El Rey le nombrará Presidente del Gobierno.**»
+
+*Artículo 115. Disolución.*
+
+1. «**El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su
+   exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las
+   Cortes Generales, que será decretada por el Rey. El decreto de disolución fijará la fecha de
+   las elecciones.**»
+2. «**La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de
+   censura.**»
+3. «**No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo
+   dispuesto en el artículo 99, apartado 5.**»
+
+| | Investidura (99) | Cuestión de confianza (112) | Moción de censura (113) |
+|---|---|---|---|
+| Quién la inicia | El Rey propone candidato | El Presidente, previa deliberación del Consejo de Ministros | Al menos una décima parte de los Diputados, con candidato |
+| Mayoría | Absoluta en la primera votación; simple en la segunda, 48 horas después | Simple | Absoluta |
+| Plazos | Dos meses desde la primera votación; si no, disolución | — | No se vota hasta pasados cinco días; mociones alternativas en los dos primeros |
+| Si fracasa | Sucesivas propuestas | El Gobierno dimite y se procede según el art. 99 | Sus firmantes no pueden presentar otra en el mismo período de sesiones |
+

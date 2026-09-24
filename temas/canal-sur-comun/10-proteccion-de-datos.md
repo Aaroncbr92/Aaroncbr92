@@ -783,7 +783,7 @@ por medios electrónicos, con su base legal.
 5. La AEPD y las autoridades autonómicas, en sus respectivas competencias, podrán fijar
    excepciones a la obligación de bloqueo cuando la mera conservación de los datos, incluso
    bloqueados, pudiera generar un riesgo elevado para los derechos de los afectados, atendida la
-   naturaleza de los datos o su número particularmente elevado, y también cuando conservarlos
+   naturaleza de los datos o el número particularmente elevado de afectados, y también cuando conservarlos
    bloqueados pudiera implicar un coste desproporcionado para el responsable.
 
 **Artículo 33. Encargado del tratamiento.** Tres reglas:
@@ -1008,8 +1008,9 @@ lugar o no a la atención de los derechos de los artículos 15 a 22 del Reglamen
 fin a los procedimientos sancionadores y a los procedimientos de apercibimiento**», las que
 archiven las actuaciones previas de investigación, «**las dictadas respecto de las entidades a que
 se refiere el artículo 77.1**», las que impongan medidas cautelares y las demás que disponga su
-Estatuto. Qué cambió: la Ley 11/2023, desde el 10 de mayo de 2023, sustituyó la antigua mención a
-las resoluciones «que sancionen con apercibimiento» a las entidades del artículo 77.1.
+Estatuto. Qué cambió: la Ley 11/2023, desde el 10 de mayo de 2023, cambió dos menciones; antes
+decía «las que pongan fin a los procedimientos de reclamación» y «las que sancionen con
+apercibimiento a las entidades» del artículo 77.1.
 
 **Artículos 51 a 54. Investigación.** La actividad de investigación la llevan funcionarios de la
 AEPD, o ajenos habilitados expresamente por su Presidencia, que tienen la consideración de agentes
@@ -1085,4 +1086,674 @@ público y privado dependientes») se puede inferir que sería el Consejo andalu
 la RTVA es una agencia pública empresarial de la Junta y CSRTV una sociedad mercantil del sector
 público andaluz (se ve en la tercera rúbrica). Es una inferencia, no confirmada: no se han leído
 los estatutos del Consejo, que son los que concretan su ámbito.
+
+### Los procedimientos ante la Agencia Española de Protección de Datos
+
+Título VIII de la LOPDGDD, artículos 63 a 69, que es ley ordinaria y, según la disposición final
+segunda, solo se aplica a la Administración General del Estado y a sus organismos públicos: son
+los procedimientos de la AEPD, y las autoridades autonómicas siguen su propia normativa. El título
+es una colección de plazos, y tres de ellos cambiaron con la Ley 11/2023, con efectos desde el 10
+de mayo de 2023.
+
+**Artículo 63.** Los procedimientos se rigen por el Reglamento, por esta ley, por sus disposiciones
+reglamentarias y, con carácter subsidiario, por las normas generales sobre los procedimientos
+administrativos. El Gobierno los regulará por real decreto, asegurando los derechos de defensa y
+audiencia.
+
+| Trámite | Plazo | Precepto |
+|---|---|---|
+| Notificar al reclamante la admisión o inadmisión a trámite de una reclamación | Tres meses; pasado ese plazo se entiende que prosigue la tramitación, sin perjuicio de que la AEPD la archive después de forma expresa | Art. 65.5 |
+| Respuesta del responsable o encargado al que la AEPD remite la reclamación cuando no hay delegado ni mecanismo extrajudicial | Un mes | Art. 65.4 |
+| Actuaciones previas de investigación | Máximo dieciocho meses desde el acuerdo de admisión a trámite o, si la AEPD actúa por propia iniciativa, desde el acuerdo que decida su iniciación | Art. 67.2 |
+| Procedimiento por falta de atención de los derechos de los artículos 15 a 22 del Reglamento | Seis meses desde que se notificó al reclamante el acuerdo de admisión; pasado ese plazo el interesado puede considerar estimada su reclamación | Art. 64.1 |
+| Procedimiento sancionador | Máximo doce meses desde la fecha del acuerdo de inicio; transcurrido, caducidad y archivo | Art. 64.2 |
+| Procedimiento de apercibimiento | Máximo seis meses desde la fecha del acuerdo de inicio; transcurrido, caducidad y archivo | Art. 64.3 |
+
+Qué cambió en la tabla, todo por la Ley 11/2023 desde el 10 de mayo de 2023: el sancionador pasó
+de nueve a doce meses, y ahora se cuenta desde el acuerdo de inicio (antes también desde el
+proyecto de acuerdo de inicio); las actuaciones previas pasaron de doce a dieciocho meses; y el
+procedimiento de apercibimiento es nuevo.
+
+**Artículo 64.2. El procedimiento sancionador.** Se inicia mediante acuerdo de inicio, adoptado por
+propia iniciativa o como consecuencia de reclamación, «**que le será notificado al interesado**».
+Si se funda en una reclamación, la AEPD decide antes sobre su admisión a trámite; y antes del
+acuerdo de inicio puede haber una fase de actuaciones previas de investigación.
+
+**Artículo 64.3. El procedimiento de apercibimiento.** Cuando así proceda en atención a la
+naturaleza de los hechos y teniendo en cuenta los criterios del artículo 83.2 del Reglamento, la
+AEPD, previa audiencia al responsable o encargado, «**podrá dirigir un apercibimiento, así como
+ordenar al responsable o encargado del tratamiento que adopten las medidas correctivas**»
+encaminadas a poner fin al posible incumplimiento, de una determinada manera y dentro del plazo
+especificado. Duración máxima: seis meses.
+
+**Artículo 64.4 a 64.6.** El procedimiento puede tramitarse también por la comunicación de la
+autoridad de control de otro Estado miembro, cuando la AEPD sea autoridad de control principal
+(64.4; antes era el 64.3). Los plazos de tramitación, el de admisión del 65.5 y el de las
+actuaciones previas del 67.2 quedan automáticamente suspendidos cuando deba recabarse información o
+pronunciamiento preceptivo de un órgano de la Unión o de otras autoridades de control (64.5). Y,
+novedad de 2023, podrán suspenderse, mediante resolución motivada, «**cuando resulte indispensable
+recabar información de un órgano jurisdiccional**» (64.6).
+
+**Artículo 65. Admisión a trámite.** La AEPD «**inadmitirá**» las reclamaciones que no versen sobre
+cuestiones de protección de datos personales, carezcan manifiestamente de fundamento, sean abusivas
+o no aporten indicios racionales de la existencia de una infracción (65.2). Y «**podrá
+inadmitir**» la reclamación cuando el responsable o encargado, previa advertencia de la AEPD,
+hubiera adoptado las medidas correctivas y además concurra alguna de estas circunstancias: a) que
+no se haya causado perjuicio al afectado en las infracciones leves del artículo 74; b) que el
+derecho del afectado quede plenamente garantizado con esas medidas (65.3). Lo que añadió la Ley
+11/2023:
+
+- 65.4: antes de resolver sobre la admisión, la AEPD puede remitir la reclamación al delegado de
+  protección de datos, al organismo de supervisión del código de conducta «**o al organismo que
+  asuma las funciones de resolución extrajudicial de conflictos**»; si no los hay, al responsable
+  o encargado, que deberá responder en el plazo de un mes. Y si, como consecuencia de la remisión,
+  el responsable o encargado demuestra haber adoptado medidas para el cumplimiento, la AEPD
+  «**podrá inadmitir a trámite la reclamación**».
+- 65.5: el plazo de tres meses no impide que la AEPD archive después la reclamación de forma
+  expresa; en los casos del 64.4 se cuenta desde que llega toda la documentación necesaria; y si
+  los hechos coinciden sustancialmente con los de unas actuaciones previas o un sancionador ya
+  iniciado, la notificación de admisión puede indicar ese expediente.
+- 65.6: tras la admisión, si el responsable o encargado demuestra haber adoptado medidas, la AEPD
+  podrá resolver el archivo cuando concurran circunstancias que aconsejen soluciones más moderadas
+  o alternativas a la acción correctiva, «**siempre que no se hayan iniciado actuaciones previas de
+  investigación o alguno de los procedimientos regulados en esta ley orgánica**».
+
+**Artículo 66. Alcance territorial.** Salvo en los supuestos del artículo 64.4 (los que llegan
+comunicados por la autoridad de otro Estado miembro), antes de cualquier otra actuación, incluida
+la admisión a trámite o el comienzo de actuaciones previas, la AEPD examinará su competencia y
+determinará si el procedimiento es nacional o transfronterizo. Si no es autoridad principal,
+remite sin más trámite la reclamación a quien lo sea y lo notifica al reclamante, con archivo
+provisional del procedimiento. Qué cambió: la remisión era al artículo 64.3 y desde el 10 de mayo
+de 2023 es al 64.4, porque el antiguo apartado 3 se renumeró.
+
+**Artículo 67. Actuaciones previas.** Antes del acuerdo de inicio, y una vez admitida la
+reclamación si la hubiese, la AEPD «**podrá**» hacer actuaciones previas de investigación; y
+«**actuará en todo caso cuando sea precisa la investigación de tratamientos que implique un tráfico
+masivo de datos personales**». No pueden durar más de dieciocho meses.
+
+**Artículo 69. Medidas provisionales.** La AEPD puede acordar motivadamente, durante las
+actuaciones previas o iniciado el procedimiento sancionador, las medidas provisionales necesarias
+y proporcionadas, en especial las del artículo 66.1 del Reglamento, el bloqueo cautelar de los
+datos y la obligación inmediata de atender el derecho solicitado. Si la continuación del
+tratamiento, su comunicación o transferencia internacional comportara un menoscabo grave del
+derecho, puede ordenar el bloqueo y la cesación y, si se incumple, proceder a su inmovilización.
+
+**Disposición adicional vigésima tercera. Modelos de reclamación.** La AEPD «**podrá establecer
+modelos de presentación de reclamaciones**» ante ella en todos los ámbitos de su competencia, «**que
+serán de uso obligatorio para los interesados independientemente de que estén obligados o no a
+relacionarse electrónicamente con las administraciones públicas**». Se publican en el BOE y en su
+sede electrónica, y son de obligado cumplimiento «**al mes de su publicación en el ''Boletín Oficial
+del Estado''**». Qué cambió: disposición nueva, añadida por la Ley 11/2023 con efectos desde el 10
+de mayo de 2023.
+
+### El régimen sancionador
+
+Título IX de la LOPDGDD, artículos 70 a 78, que es ley ordinaria, sobre el artículo 83 del
+Reglamento.
+
+**Artículo 70. Sujetos responsables.** Están sujetos al régimen sancionador cinco sujetos:
+
+- a) Los responsables de los tratamientos.
+- b) Los encargados de los tratamientos.
+- c) Los representantes de responsables o encargados no establecidos en el territorio de la Unión
+  Europea.
+- d) Las entidades de certificación.
+- e) Las entidades acreditadas de supervisión de los códigos de conducta.
+
+Y el apartado 2: «**No será de aplicación al delegado de protección de datos el régimen
+sancionador establecido en este Título.**»
+
+**Artículo 71. Infracciones.** Son infracción los actos y conductas de los apartados 4, 5 y 6 del
+artículo 83 del Reglamento, así como las que resulten contrarias a esta ley orgánica.
+
+**Muy graves, graves y leves.** La ley no fija cuantías propias (las pone el Reglamento) sino la
+clasificación y los plazos de prescripción de las infracciones:
+
+| Categoría | Prescriben a los | Precepto | Cuántas se enumeran |
+|---|---|---|---|
+| Muy graves | Tres años | Art. 72 | Diecisiete, de la a) a la p), con la ñ) |
+| Graves | Dos años | Art. 73 | Treinta, de la a) a la ac), con la ñ) |
+| Leves | Un año | Art. 74 | Diecinueve, de la a) a la r), con la ñ) |
+
+Muy graves (artículo 72), las que más importan a quien maneja datos en una producción: tratar datos
+vulnerando los principios y garantías del artículo 5 del Reglamento; tratarlos sin ninguna
+condición de licitud del artículo 6; incumplir los requisitos del artículo 7 para la validez del
+consentimiento; usar los datos para una finalidad incompatible con aquella para la que se
+recogieron; tratar categorías especiales o datos penales fuera de los supuestos permitidos; omitir
+el deber de informar; vulnerar el deber de confidencialidad del artículo 5 de la ley; exigir un
+canon por informar o por atender los derechos fuera de los supuestos del artículo 12.5 del
+Reglamento; impedir, obstaculizar o no atender reiteradamente el ejercicio de los derechos;
+transferir internacionalmente sin garantías; incumplir las resoluciones de la autoridad; incumplir
+la obligación de bloqueo; no facilitar el acceso del personal de la autoridad; la resistencia u
+obstrucción a la función inspectora; y la reversión deliberada de una anonimización para
+reidentificar a los afectados.
+
+Graves (artículo 73), las de la operativa diaria: tratar datos de un menor sin recabar su
+consentimiento, cuando tenga capacidad para ello, o el de su representante; no acreditar los
+esfuerzos razonables para verificar ese consentimiento; no aplicar la protección de datos desde el
+diseño y por defecto; no adoptar medidas de seguridad adecuadas al riesgo; contratar un encargado
+que no ofrezca garantías suficientes; encargar el tratamiento sin contrato u otro acto jurídico
+escrito con el contenido del artículo 28.3 del Reglamento (letra k); subcontratar sin autorización
+previa del responsable; no disponer del registro de actividades; tratar datos sin la previa
+valoración de los riesgos del artículo 28 de la ley (letra p); no notificar una violación de
+seguridad a la autoridad; no comunicarla al afectado habiendo sido requerido para ello; no hacer la
+evaluación de impacto cuando es exigible; no designar delegado cuando es obligatorio; y no
+posibilitar la participación efectiva del delegado o interferir en sus funciones.
+
+Leves (artículo 74): «**las restantes infracciones de carácter meramente formal**» de los artículos
+mencionados en los apartados 4 y 5 del artículo 83 del Reglamento. Entre ellas, no facilitar toda
+la información exigida por los artículos 13 y 14 del Reglamento; exigir un canon, cuando lo permita
+el artículo 12.5, por encima de los costes; no atender las solicitudes de ejercicio de derechos
+fuera del supuesto agravado del artículo 72.1.k); no notificar la rectificación, supresión o
+limitación a los destinatarios; la notificación incompleta, tardía o defectuosa de una violación de
+seguridad; no documentar la violación; y no publicar o no comunicar los datos de contacto del
+delegado.
+
+**Artículo 75. Interrupción de la prescripción de la infracción.** La interrumpe la iniciación, con
+conocimiento del interesado, del procedimiento sancionador, y el plazo se reinicia si el
+expediente estuviera paralizado más de seis meses por causas no imputables al presunto infractor.
+Cuando la AEPD sea autoridad de control principal y deba seguirse el procedimiento del artículo 60
+del Reglamento, interrumpe la prescripción «**el conocimiento formal por el interesado del acuerdo
+de inicio**». Qué cambió: la Ley 11/2023, desde el 10 de mayo de 2023, sustituyó en este segundo
+párrafo «el proyecto de acuerdo de inicio» por «el acuerdo de inicio».
+
+**Artículo 78. Prescripción de las sanciones**, que va por importe y no por gravedad:
+
+| Importe de la sanción | Prescribe en |
+|---|---|
+| Igual o inferior a 40.000 euros | Un año |
+| Entre 40.001 y 300.000 euros | Dos años |
+| Superior a 300.000 euros | Tres años |
+
+El plazo cuenta desde el día siguiente a aquel en que sea ejecutable la resolución o haya
+transcurrido el plazo para recurrirla, y se interrumpe por la iniciación del procedimiento de
+ejecución con conocimiento del interesado.
+
+**Las multas del Reglamento (artículo 83).** Dos escalones, y hay que saber cuál corresponde a qué:
+
+| Escalón | Cuantía | Qué se sanciona |
+|---|---|---|
+| Artículo 83.4 | Hasta 10 000 000 de euros o, si es una empresa, hasta el 2 % del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía | Las obligaciones del responsable y del encargado de los artículos 8, 11, 25 a 39, 42 y 43; las de los organismos de certificación; y las del organismo de supervisión de un código de conducta (83.4.c, en la redacción de la corrección de 2021) |
+| Artículo 83.5 | Hasta 20 000 000 de euros o hasta el 4 % del volumen de negocio, optándose por la de mayor cuantía | Los principios básicos, incluidas las condiciones del consentimiento (arts. 5, 6, 7 y 9); los derechos de los interesados (arts. 12 a 22); las transferencias internacionales (arts. 44 a 49); las obligaciones del Derecho nacional adoptadas con arreglo al capítulo IX; y el incumplimiento de una resolución o limitación de la autoridad |
+
+La regla para recordarlo sale del propio reparto: el 4 % es para lo que afecta al ciudadano
+(principios, consentimiento, derechos, transferencias); el 2 % para lo que afecta a la organización
+interna (seguridad, registro, delegado, evaluación de impacto).
+
+Y dos reglas de graduación: si se incumplen varias disposiciones para las mismas operaciones, la
+cuantía total «**no será superior a la cuantía prevista para las infracciones más graves**» (83.3).
+El artículo 76 de la LOPDGDD añade a los criterios del 83.2 del Reglamento ocho más, entre ellos el
+carácter continuado de la infracción, los beneficios obtenidos, la afectación a los derechos de los
+menores y disponer de delegado de protección de datos cuando no fuera obligatorio.
+
+**Publicidad de la sanción (artículo 76.4).** Se publica en el BOE la identidad del infractor, la
+infracción y el importe cuando concurran tres condiciones a la vez: que la autoridad competente sea
+la AEPD, que la sanción sea superior a un millón de euros y que el infractor sea una persona
+jurídica. Cuando la sanción la imponga una autoridad autonómica, se estará a su normativa.
+
+**El régimen especial del sector público (artículo 77).** Se aplica cuando el responsable o
+encargado sea uno de los once sujetos del apartado 1, letras a) a k):
+
+- a) Los órganos constitucionales o con relevancia constitucional y las instituciones análogas de
+  las comunidades autónomas.
+- b) Los órganos jurisdiccionales.
+- c) La Administración General del Estado, las Administraciones de las comunidades autónomas y las
+  entidades de la Administración Local.
+- d) «**Los organismos públicos y entidades de Derecho público vinculadas o dependientes de las
+  Administraciones Públicas.**»
+- e) Las autoridades administrativas independientes.
+- f) El Banco de España.
+- g) Las corporaciones de Derecho público cuando las finalidades del tratamiento se relacionen con
+  el ejercicio de potestades de derecho público.
+- h) Las fundaciones del sector público.
+- i) Las Universidades Públicas.
+- j) Los consorcios.
+- k) Los grupos parlamentarios de las Cortes Generales y las Asambleas Legislativas autonómicas, y
+  los grupos políticos de las Corporaciones Locales.
+
+Cuando cometan alguna de las infracciones de los artículos 72 a 74, la autoridad competente
+(77.2) «**dictará resolución declarando la infracción y estableciendo, en su caso, las medidas que
+proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción que se hubiese
+cometido, con excepción de la prevista en el artículo 58.2.i del Reglamento (UE) 2016/679**». Y la
+medida del artículo 58.2.i) del Reglamento es, precisamente, «**imponer una multa administrativa
+con arreglo al artículo 83**». Es decir: a estos sujetos no se les multa. La resolución se
+notifica al responsable o encargado, al órgano del que dependa jerárquicamente y, en su caso, a los
+afectados que sean interesados.
+
+Qué cambió: hasta el 9 de mayo de 2023 el 77.2 decía que la autoridad dictaría resolución
+«sancionando» a estas entidades «con apercibimiento». La Ley 11/2023, desde el 10 de mayo de 2023,
+lo sustituyó por la fórmula actual, que declara la infracción, fija medidas y excluye la multa. La
+palabra «apercibimiento» ya no está en el artículo 77.
+
+Además (77.3), la autoridad propondrá la iniciación de actuaciones disciplinarias cuando haya
+indicios suficientes; y si la infracción es imputable a autoridades y directivos y consta que hubo
+informes técnicos o recomendaciones no atendidos, en la resolución «**se incluirá una amonestación
+con denominación del cargo responsable y se ordenará la publicación en el Boletín Oficial del Estado
+o autonómico que corresponda**». Las actuaciones y resoluciones se comunican al Defensor del Pueblo
+o a las instituciones autonómicas análogas (77.5), y cuando la competente sea la AEPD, esta publica
+en su web, con la debida separación, las resoluciones referidas a estas entidades con expresa
+indicación de su identidad; si la competente es una autoridad autonómica, se está a su normativa
+(77.6).
+
+De dónde sale la potestad del artículo 77. El artículo 83.7 del Reglamento dispone que, «**sin
+perjuicio de los poderes correctivos de las autoridades de control en virtud del artículo 58,
+apartado 2**», cada Estado miembro «**podrá establecer normas sobre si se puede, y en qué medida,
+imponer multas administrativas a autoridades y organismos públicos**» establecidos en él. España
+usó esa habilitación para excluir la multa a los sujetos del artículo 77.1.
+
+**¿Encaja la RTVA en el artículo 77.1? ¿Y CSRTV?** Ningún precepto lo dice expresamente, y lo que
+sigue es una inferencia, no una regla confirmada. La RTVA es una agencia pública empresarial con
+personalidad jurídica propia (artículo 5 de la Ley 18/2007), y la Ley 9/2007, de la Administración
+de la Junta de Andalucía, dice que las agencias «**tienen personalidad jurídica pública y la
+consideración de Administración institucional dependiente de la Administración de la Junta de
+Andalucía**» (artículo 52.2). Eso apunta a la letra d) del artículo 77.1. En cambio, las
+sociedades mercantiles del sector público andaluz «**tienen personalidad jurídica privada**»
+(artículo 52.3 de la Ley 9/2007), y ninguna de las once letras del 77.1 nombra a las sociedades
+mercantiles públicas; si no encajan, se les aplicaría el régimen general de multas del artículo 83
+del Reglamento. Ni lo uno ni lo otro está confirmado por una resolución o un precepto que se haya
+leído.
+
+### La garantía de los derechos digitales
+
+Título X de la LOPDGDD, artículos 79 a 97. No viene del Reglamento: es contenido propio de la ley
+española, y es la segunda mitad de su título. Son ley ordinaria los artículos 79, 80, 81, 82, 88,
+95, 96 y 97; el resto es orgánico.
+
+**Artículo 79.** «**Los derechos y libertades consagrados en la Constitución y en los Tratados y
+Convenios Internacionales en que España sea parte son plenamente aplicables en Internet.**» Los
+prestadores de servicios de la sociedad de la información y los proveedores de servicios de
+Internet contribuirán a garantizar su aplicación.
+
+| Artículo | Derecho | Contenido esencial |
+|---|---|---|
+| Art. 80 | Neutralidad de Internet | Los proveedores proporcionarán una oferta transparente de servicios sin discriminación por motivos técnicos o económicos |
+| Art. 81 | Acceso universal a Internet | Todos tienen derecho a acceder independientemente de su condición personal, social, económica o geográfica; se garantizará un acceso universal, asequible, de calidad y no discriminatorio, atendiendo a la brecha de género, la brecha generacional, los entornos rurales y las necesidades especiales |
+| Art. 82 | Seguridad digital | Derecho a la seguridad de las comunicaciones transmitidas y recibidas a través de Internet; los proveedores informarán a los usuarios de sus derechos |
+| Art. 83 | Educación digital | El sistema educativo garantizará la plena inserción del alumnado en la sociedad digital y el aprendizaje de un consumo responsable y un uso crítico y seguro de los medios digitales; el profesorado recibirá formación; y las Administraciones incorporarán a los temarios de las pruebas de acceso materias sobre derechos digitales y protección de datos. El apartado 1 tiene la redacción que le dio la LO 3/2020, desde el 19 de enero de 2021 |
+| Art. 84 | Protección de los menores en Internet | Se desarrolla en la tercera rúbrica |
+| Art. 85 | Rectificación en Internet | Se desarrolla en la tercera rúbrica |
+| Art. 86 | Actualización de informaciones en medios de comunicación digitales | Se desarrolla en la tercera rúbrica |
+
+El artículo 83.4 explica por qué esta materia está en los temarios de acceso al sector público:
+«**Las Administraciones Públicas incorporarán a los temarios de las pruebas de acceso a los cuerpos
+superiores y a aquéllos en que habitualmente se desempeñen funciones que impliquen el acceso a
+datos personales materias relacionadas con la garantía de los derechos digitales y en particular
+el de protección de datos.**» El mandato está escrito para el acceso a cuerpos de las
+Administraciones Públicas.
+
+**Los derechos digitales en el trabajo.** Son los artículos 87 a 90, más el 91, y se aplican dentro
+de la empresa. Se dictan al amparo del artículo 149.1.7.ª y 18.ª CE.
+
+**Artículo 87. Intimidad y uso de dispositivos digitales.**
+
+1. Los trabajadores y los empleados públicos tienen derecho a la protección de su intimidad en el
+   uso de los dispositivos digitales puestos a su disposición por su empleador.
+2. El empleador podrá acceder a los contenidos derivados del uso de esos medios «**a los solos
+   efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de
+   garantizar la integridad de dichos dispositivos**».
+3. Los empleadores deberán establecer criterios de utilización respetando los estándares mínimos
+   de protección de la intimidad de acuerdo con los usos sociales y los derechos reconocidos
+   constitucional y legalmente, y «**En su elaboración deberán participar los representantes de los
+   trabajadores.**» Si el empleador ha admitido el uso con fines privados, el acceso al contenido
+   requerirá que se especifiquen de modo preciso los usos autorizados y se establezcan garantías,
+   «**tales como, en su caso, la determinación de los períodos en que los dispositivos podrán
+   utilizarse para fines privados**». Los trabajadores deberán ser informados de esos criterios.
+
+**Artículo 88. Desconexión digital.**
+
+1. Los trabajadores y los empleados públicos tienen derecho a la desconexión digital «**a fin de
+   garantizar, fuera del tiempo de trabajo legal o convencionalmente establecido, el respeto de su
+   tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar**».
+2. Las modalidades de ejercicio atenderán a la naturaleza y objeto de la relación laboral,
+   potenciarán la conciliación y se sujetarán a lo establecido en la negociación colectiva o, en su
+   defecto, a lo acordado entre la empresa y los representantes de los trabajadores.
+3. El empleador, previa audiencia de los representantes de los trabajadores, elaborará una
+   política interna dirigida a los trabajadores, incluidos los que ocupen puestos directivos, en la
+   que definirá las modalidades de ejercicio del derecho y las acciones de formación y
+   sensibilización sobre un uso razonable de las herramientas tecnológicas «**que evite el riesgo
+   de fatiga informática**». En particular, se preservará el derecho en los supuestos de trabajo a
+   distancia, total o parcial, y en el domicilio del empleado vinculado al uso con fines laborales
+   de herramientas tecnológicas.
+
+**Artículo 89. Videovigilancia y grabación de sonidos en el lugar de trabajo.**
+
+1. Los empleadores pueden tratar las imágenes de cámaras o videocámaras para el ejercicio de las
+   funciones de control de los trabajadores o los empleados públicos previstas en el artículo 20.3
+   del Estatuto de los Trabajadores o en la legislación de función pública, dentro de su marco
+   legal y con los límites inherentes al mismo. Deberán informar con carácter previo, y de forma
+   expresa, clara y concisa, a los trabajadores o los empleados públicos y, en su caso, a sus
+   representantes. Si se ha captado la comisión flagrante de un acto ilícito, el deber de informar
+   se entiende cumplido cuando exista al menos el dispositivo informativo del artículo 22.4.
+2. «**En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de
+   videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los
+   empleados públicos, tales como vestuarios, aseos, comedores y análogos.**»
+3. La grabación de sonidos en el lugar de trabajo solo se admite cuando resulten relevantes los
+   riesgos para la seguridad de las instalaciones, bienes y personas derivados de la actividad que
+   se desarrolle en el centro de trabajo, y siempre respetando el principio de proporcionalidad, el
+   de intervención mínima y las garantías de los apartados anteriores. La supresión de los sonidos
+   sigue el artículo 22.3: un mes.
+
+**Artículo 90. Geolocalización.** Los empleadores pueden tratar los datos obtenidos a través de
+sistemas de geolocalización para el ejercicio de las funciones de control previstas en el artículo
+20.3 del Estatuto de los Trabajadores o en la legislación de función pública. Con carácter previo,
+deberán informar «**de forma expresa, clara e inequívoca**» a los trabajadores o los empleados
+públicos y, en su caso, a sus representantes, acerca de la existencia y características de estos
+dispositivos, e igualmente del posible ejercicio de los derechos de acceso, rectificación,
+limitación del tratamiento y supresión.
+
+Los tres artículos usan fórmulas de información distintas: el 87.3 exige la participación de los
+representantes en la elaboración de los criterios; el 89.1, información expresa, clara y concisa;
+y el 90.2, información expresa, clara e inequívoca.
+
+**Artículo 91. Negociación colectiva.** «**Los convenios colectivos podrán establecer garantías
+adicionales de los derechos y libertades relacionados con el tratamiento de los datos personales de
+los trabajadores y la salvaguarda de derechos digitales en el ámbito laboral.**» Es potestativo:
+«podrán».
+
+**Artículos 92 a 94.** Protección de datos de los menores en Internet y derecho al olvido en
+búsquedas de Internet y en redes sociales: se desarrollan en la tercera rúbrica.
+
+**Artículo 95. Portabilidad en redes sociales.** Los usuarios tienen derecho a recibir y transmitir
+los contenidos que hubieran facilitado a los prestadores de servicios de redes sociales y servicios
+equivalentes, y a que los prestadores los transmitan directamente a otro prestador designado por el
+usuario, siempre que sea técnicamente posible. Los prestadores podrán conservar, sin difundirla a
+través de Internet, copia de los contenidos cuando sea necesario para cumplir una obligación legal.
+
+**Artículo 96. Testamento digital.** El acceso a contenidos de personas fallecidas gestionados por
+prestadores de servicios de la sociedad de la información sigue el esquema del artículo 3: pueden
+dirigirse a ellos las personas vinculadas por razones familiares o de hecho y los herederos (salvo
+prohibición expresa del fallecido o de una ley, que no afecta al acceso a los contenidos que
+pudiesen formar parte del caudal relicto), el albacea testamentario o la persona o institución
+designada, los representantes legales o el Ministerio Fiscal si el fallecido era menor, y quienes
+ejercieran funciones de apoyo si era persona con discapacidad. Además, los legitimados pueden
+decidir sobre el mantenimiento o eliminación de los perfiles personales en redes sociales o
+servicios equivalentes, salvo que el fallecido hubiera decidido acerca de esta circunstancia, en
+cuyo caso se estará a sus instrucciones; y el responsable del servicio, al que se comunique la
+solicitud de eliminación, deberá proceder sin dilación a ello.
+
+**Artículo 97. Políticas de impulso.** El Gobierno, en colaboración con las comunidades autónomas,
+elaborará un Plan de Acceso a Internet con tres objetivos: superar las brechas digitales y
+garantizar el acceso de colectivos vulnerables mediante, entre otras medidas, un bono social de
+acceso a Internet; impulsar espacios de conexión de acceso público; y fomentar la formación en
+competencias digitales básicas. Se aprobará además un Plan de Actuación para el uso equilibrado y
+responsable de los dispositivos y las redes por los menores. Y el Gobierno presentará un informe
+anual ante la comisión parlamentaria correspondiente del Congreso de los Diputados sobre la
+evolución de estos derechos.
+
+### La Ley Orgánica 7/2021: datos tratados con fines penales
+
+**Ley Orgánica 7/2021, de 26 de mayo**, de protección de datos personales tratados para fines de
+prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de
+sanciones penales · BOE núm. 126, de 27 de mayo de 2021. Por ella se incorpora la Directiva (UE)
+2016/680 (disposición final undécima). La 3/2018 adapta el Reglamento para el tratamiento ordinario
+de datos; la 7/2021 transpone otra norma europea para el tratamiento policial y penal. Ni una es
+desarrollo de la otra ni comparten régimen sancionador. Tiene carácter orgánico salvo sus
+capítulos VI y VII, que son ordinarios (disposición final novena).
+
+**Su ámbito (artículo 1)**: la protección de las personas físicas en el tratamiento de sus datos
+«**por parte de las autoridades competentes, con fines de prevención, detección, investigación y
+enjuiciamiento de infracciones penales o de ejecución de sanciones penales, incluidas la protección
+y prevención frente a las amenazas contra la seguridad pública**».
+
+Su artículo 58 tipifica las infracciones muy graves, de la a) a la ñ). Las siete primeras:
+
+- a) El tratamiento que vulnere los principios y garantías del artículo 6 o sin condición de
+  licitud del artículo 11, «**siempre que se causen perjuicios de carácter muy grave a los
+  interesados**».
+- b) «**El acceso, cesión, alteración y divulgación de los datos al margen de los supuestos
+  autorizados por el responsable o encargado de los datos, siempre que no constituya ilícito
+  penal.**»
+- c) La transferencia de datos a Estados que no sean miembros de la Unión o a destinatarios que no
+  sean autoridades competentes, incumpliendo las condiciones de los artículos 43 y 47.
+- d) La utilización de los datos para una finalidad que no sea compatible con el objetivo para el
+  que fueron recogidos, siempre que no se cuente con una base legal.
+- e) El tratamiento de categorías especiales sin las circunstancias del artículo 13 o sin
+  garantizar las medidas de seguridad adecuadas, «**que cause perjuicios graves a los
+  interesados**».
+- f) «**La omisión del deber de informar al interesado acerca del tratamiento de sus datos de
+  carácter personal conforme a lo dispuesto en esta Ley Orgánica.**»
+- g) «**La vulneración del deber de confidencialidad del encargado del tratamiento, establecido en
+  el artículo 30.**»
+
+Varias de esas letras exigen un resultado de perjuicio («muy grave» en la a), «graves» en la e)).
+Sin ese resultado, la conducta no encaja en esa letra de las muy graves.
+
+Su artículo 63.1, la prescripción: «**Las infracciones administrativas tipificadas en esta Ley
+Orgánica prescribirán a los seis meses, a los dos o a los tres años de haberse cometido, según sean
+leves, graves o muy graves, respectivamente.**» Los plazos se cuentan desde el día en que se
+cometió la infracción; en las infracciones continuadas o permanentes, desde que finalizó la
+conducta. Las sanciones (63.2) prescriben a los tres años las muy graves, a los dos las graves y al
+año las leves. Seis meses, dos años y tres años para las infracciones: es la escala que la
+distingue de la LOPDGDD (un año, dos y tres). Los artículos 58 y 63 tienen una sola redacción.
+
+### Otras normas nacionales con reglas de protección de datos
+
+- **Ley 2/2023, de 20 de febrero**, reguladora de la protección de las personas que informen sobre
+  infracciones normativas y de lucha contra la corrupción: su título VI, «Protección de datos
+  personales» (artículos 29 a 34), es hoy el régimen de datos de los canales internos de
+  información (se ha visto con el artículo 24 de la LOPDGDD). Su artículo 29 somete esos
+  tratamientos al Reglamento, a la LOPDGDD, a la LO 7/2021 y al propio título.
+- **Ley 34/2002, de 11 de julio**, de servicios de la sociedad de la información y de comercio
+  electrónico, artículo 22.2 (dispositivos de almacenamiento y recuperación de datos en los equipos
+  terminales de los usuarios): los prestadores podrán utilizarlos «**a condición de que los mismos
+  hayan dado su consentimiento después de que se les haya facilitado información clara y completa
+  sobre su utilización**». No se aplica al almacenamiento técnico necesario para transmitir una
+  comunicación o para prestar un servicio expresamente solicitado. Su redacción vigente es de 11 de
+  mayo de 2014, y todavía remite a la «Ley Orgánica 15/1999», derogada; se cita tal cual.
+- **Ley 19/2013**, de transparencia: enlazada por la disposición adicional segunda de la LOPDGDD
+  (se ha visto en el sistema de fuentes).
+
+## Especialidades en el sector Audiovisual
+
+La radio y la televisión tratan datos personales en dos planos distintos. Uno es el de cualquier
+empresa: plantilla, proveedores, cámaras de seguridad, espectadores que se inscriben en un
+concurso. A ese plano se le aplica todo lo anterior sin especialidad. El otro es el propio de la
+actividad: grabar y difundir la imagen, la voz y la información de personas identificables, y
+conservarlas en archivos y hemerotecas. En ese segundo plano el derecho a la protección de datos
+se encuentra con la libertad de información del artículo 20 CE, y las especialidades salen de ahí.
+
+### La regla europea: el artículo 85 del Reglamento y el considerando 153
+
+**Artículo 85.1.** «**Los Estados miembros conciliarán por ley el derecho a la protección de los
+datos personales en virtud del presente Reglamento con el derecho a la libertad de expresión y de
+información, incluido el tratamiento con fines periodísticos y fines de expresión académica,
+artística o literaria.**»
+
+**Artículo 85.2.** Para el tratamiento con fines periodísticos o de expresión académica, artística
+o literaria, «**los Estados miembros establecerán exenciones o excepciones**» de lo dispuesto en
+siete capítulos del Reglamento, «**si son necesarias para conciliar el derecho a la protección de
+los datos personales con la libertad de expresión e información**»:
+
+| Capítulo | Materia |
+|---|---|
+| II | Principios |
+| III | Derechos del interesado |
+| IV | Responsable y encargado del tratamiento |
+| V | Transferencia de datos personales a terceros países u organizaciones internacionales |
+| VI | Autoridades de control independientes |
+| VII | Cooperación y coherencia |
+| IX | Disposiciones relativas a situaciones específicas de tratamiento |
+
+Quedan fuera el capítulo I (disposiciones generales), el VIII (recursos, responsabilidad y
+sanciones), el X y el XI. Dos matices de modo verbal: el 85.1 y el 85.2 están en futuro imperativo
+(«conciliarán», «establecerán»), pero las excepciones solo proceden «si son necesarias».
+
+**Artículo 85.3.** Cada Estado miembro «**notificará a la Comisión**» las disposiciones legislativas
+que adopte conforme al apartado 2 y, sin dilación, cualquier modificación posterior.
+
+**Considerando 153**, que es el que nombra expresamente al sector. Tras decir que el tratamiento
+con fines «**exclusivamente periodísticos**» o de expresión académica, artística o literaria debe
+estar sujeto a excepciones o exenciones si así se requiere para conciliar la protección de datos
+con la libertad de expresión e información «**consagrado en el artículo 11 de la Carta**», añade:
+
+> «**Esto debe aplicarse en particular al tratamiento de datos personales en el ámbito audiovisual
+> y en los archivos de noticias y hemerotecas.**»
+
+Y cierra con dos reglas: si las exenciones o excepciones difieren de un Estado miembro a otro,
+«**debe regir el Derecho del Estado miembro que sea aplicable al responsable del tratamiento**»; y
+es necesario que nociones relativas a la libertad de expresión, «**como el periodismo, se
+interpreten en sentido amplio**». Obsérvese que el considerando habla de fines «exclusivamente»
+periodísticos y el artículo 85.2 no lleva ese adverbio.
+
+**Lo que la LOPDGDD no hace.** La ley española no contiene, en su articulado, una regla general que
+desarrolle el artículo 85 del Reglamento: las palabras «periodístico», «libertad de información» y
+«audiovisual» no aparecen en ella, y la expresión «libertad de expresión» solo aparece en el
+artículo 85 de la propia ley, referida a Internet. Lo que hay en la LOPDGDD para los medios de
+comunicación son los artículos 85 y 86, que se ven más abajo. El resto de la conciliación la hacen
+el propio Reglamento (artículo 17.3) y las leyes de protección del honor, de rectificación y
+audiovisual.
+
+**Artículo 86 del Reglamento.** Permite que los datos de documentos oficiales en poder de una
+autoridad pública u organismo público, o de una entidad privada para una misión de interés
+público, «**podrán ser comunicados**» por ellos conforme al Derecho de la Unión o de los Estados
+miembros, para conciliar el acceso del público a documentos oficiales con la protección de datos.
+
+### Supresión y libertad de información: el artículo 17.3 del Reglamento
+
+El derecho de supresión, el «derecho al olvido» del artículo 17, y el deber de propagación del 17.2
+«**no se aplicarán cuando el tratamiento sea necesario**», entre otros casos:
+
+- a) «**para ejercer el derecho a la libertad de expresión e información**»;
+- b) para el cumplimiento de una obligación legal o de una misión realizada en interés público o en
+  el ejercicio de poderes públicos conferidos al responsable;
+- d) con fines de archivo en interés público, fines de investigación científica o histórica o
+  fines estadísticos, «**en la medida en que el derecho indicado en el apartado 1 pudiera hacer
+  imposible u obstaculizar gravemente el logro de los objetivos de dicho tratamiento**».
+
+El considerando 65 lo explica: la retención ulterior de los datos personales «**debe ser lícita
+cuando sea necesaria para el ejercicio de la libertad de expresión e información**».
+
+Aviso: la LOPDGDD regula en su artículo 26 el archivo en interés público «**por las
+Administraciones Públicas**». Si la RTVA o CSRTV son Administración Pública a estos efectos no lo
+dice ningún precepto que se haya leído; no se puede afirmar que ese artículo ampare la hemeroteca
+de Canal Sur.
+
+### Rectificación, actualización y olvido en los medios digitales
+
+**Artículo 85 de la LOPDGDD. Derecho de rectificación en Internet.**
+
+1. «**Todos tienen derecho a la libertad de expresión en Internet.**»
+2. Los responsables de redes sociales y servicios equivalentes adoptarán protocolos adecuados para
+   posibilitar el ejercicio del derecho de rectificación ante los usuarios que difundan contenidos
+   que atenten contra el derecho al honor, la intimidad personal y familiar en Internet y el derecho
+   a comunicar o recibir libremente información veraz, atendiendo a los requisitos y procedimientos
+   de la Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación. Y, para los
+   medios:
+
+> «**Cuando los medios de comunicación digitales deban atender la solicitud de rectificación
+> formulada contra ellos deberán proceder a la publicación en sus archivos digitales de un aviso
+> aclaratorio que ponga de manifiesto que la noticia original no refleja la situación actual del
+> individuo. Dicho aviso deberá aparecer en lugar visible junto con la información original.**»
+
+**Artículo 86 de la LOPDGDD. Derecho a la actualización de informaciones en medios de comunicación
+digitales.** Toda persona tiene derecho a solicitar «**motivadamente**» de los medios de
+comunicación digitales la inclusión de «**un aviso de actualización suficientemente visible junto a
+las noticias que le conciernan**» cuando la información de la noticia original no refleje su
+situación actual «**como consecuencia de circunstancias que hubieran tenido lugar después de la
+publicación, causándole un perjuicio**». En particular, procederá cuando las informaciones
+originales se refieran a actuaciones policiales o judiciales que se hayan visto afectadas en
+beneficio del interesado como consecuencia de decisiones judiciales posteriores; en ese caso, «**el
+aviso hará referencia a la decisión posterior**».
+
+La diferencia entre los dos: en el 85, el medio atiende una rectificación (la información era
+inexacta); en el 86, la información era correcta cuando se publicó y lo que cambió fueron los
+hechos posteriores. En ninguno de los dos se borra la noticia: se añade un aviso junto a ella.
+
+**La Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación**, a la que
+remite el artículo 85.2 (una sola redacción en los artículos que siguen):
+
+- Artículo 1: «**Toda persona, natural o jurídica, tiene derecho a rectificar la información
+  difundida, por cualquier medio de comunicación social, de hechos que le aludan, que considere
+  inexactos y cuya divulgación pueda causarle perjuicio.**»
+- Artículo 2: se ejercita remitiendo el escrito de rectificación al director del medio «**dentro de
+  los siete días naturales siguientes al de publicación o difusión**» de la información.
+- Artículo 3: el director deberá publicar o difundir íntegramente la rectificación «**dentro de los
+  tres días siguientes al de su recepción**», con relevancia semejante, «**sin comentarios ni
+  apostillas**». Si la información se difundió en un espacio de radio o televisión que no permita,
+  por su periodicidad, divulgar la rectificación en tres días, el rectificante podrá exigir que se
+  difunda en espacio de audiencia y relevancia semejantes dentro de ese plazo. «**La publicación o
+  difusión de la rectificación será siempre gratuita.**»
+- Artículo 4: si no se publica, el perjudicado puede ejercitar la acción de rectificación «**dentro
+  de los siete dias hábiles siguientes**» ante el Juez de Primera Instancia.
+
+**Artículo 93 de la LOPDGDD. Derecho al olvido en búsquedas de Internet.** Toda persona tiene
+derecho a que los motores de búsqueda en Internet eliminen de las listas de resultados obtenidas
+tras una búsqueda «**a partir de su nombre**» los enlaces que contuvieran información relativa a
+ella cuando fuesen inadecuados, inexactos, no pertinentes, no actualizados o excesivos, o hubieren
+devenido como tales por el transcurso del tiempo, teniendo en cuenta los fines, el tiempo
+transcurrido y «**la naturaleza e interés público de la información**». Este derecho «**subsistirá
+aun cuando fuera lícita la conservación de la información publicada en el sitio web al que se
+dirigiera el enlace**», y su ejercicio «**no impedirá el acceso a la información publicada en el
+sitio web a través de la utilización de otros criterios de búsqueda distintos del nombre**». El
+obligado es el buscador; el artículo no nombra a los medios, y la noticia puede seguir en la
+hemeroteca del medio (esto es una lectura del propio 93, no una regla expresa sobre medios).
+
+**Artículo 94 de la LOPDGDD. Derecho al olvido en redes sociales.** Tres reglas, y la tercera es la
+fuerte:
+
+1. Derecho a que se supriman, a su simple solicitud, los datos que la propia persona hubiese
+   facilitado para su publicación por redes sociales y servicios equivalentes.
+2. Derecho a que se supriman los datos facilitados por terceros cuando fuesen inadecuados,
+   inexactos, no pertinentes, no actualizados o excesivos, con la misma ponderación del artículo
+   93. Se exceptúan los datos facilitados por personas físicas en el ejercicio de actividades
+   personales o domésticas.
+3. Si los datos se facilitaron, por él o por terceros, «**durante su minoría de edad**», el
+   prestador «**deberá proceder sin dilación a su supresión por su simple solicitud, sin necesidad
+   de que concurran las circunstancias mencionadas en el apartado 2**».
+
+### Honor, intimidad y propia imagen: la Ley Orgánica 1/1982
+
+La Ley 13/2022, General de Comunicación Audiovisual, enlaza las tres leyes en su artículo 4.3: la
+comunicación audiovisual «**respetará el honor, la intimidad y la propia imagen de las personas y
+garantizará los derechos de rectificación y réplica**», en los términos de la Ley Orgánica 1/1982,
+de la Ley Orgánica 2/1984 y de la LOPDGDD. Y el artículo 20.4 CE fija el límite de las libertades
+de expresión e información en el respeto a los derechos del título I, en las leyes que lo
+desarrollen «**y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la
+protección de la juventud y de la infancia**».
+
+**Ley Orgánica 1/1982, de 5 de mayo**, de protección civil del derecho al honor, a la intimidad
+personal y familiar y a la propia imagen. Lo que importa a un medio audiovisual:
+
+- Artículo 1.3: el derecho «**es irrenunciable, inalienable e imprescriptible**»; la renuncia a la
+  protección es nula, sin perjuicio de los supuestos de autorización o consentimiento del artículo
+  2.
+- Artículo 2.2: no hay intromisión ilegítima cuando esté «**expresamente autorizada por Ley**» o
+  cuando el titular del derecho «**hubiere otorgado al efecto su consentimiento expreso**». Y 2.3:
+  ese consentimiento «**será revocable en cualquier momento, pero habrán de indemnizarse en su
+  caso, los daños y perjuicios causados, incluyendo en ellos las expectativas justificadas**».
+- Artículo 3, el consentimiento de los menores: deberá prestarse «**por ellos mismos si sus
+  condiciones de madurez lo permiten, de acuerdo con la legislación civil**». En los restantes
+  casos, «**mediante escrito por su representante legal**», que debe poner en conocimiento previo
+  del Ministerio Fiscal el consentimiento proyectado; «**Si en el plazo de ocho días el Ministerio
+  Fiscal se opusiere, resolverá el Juez.**» Esta ley no fija una edad; la LOPDGDD sí (catorce
+  años), pero para otra cosa: el tratamiento de datos.
+- Artículo 7, las intromisiones ilegítimas (ocho apartados). Las que más tocan a un medio:
+  7.3, la divulgación de hechos de la vida privada que afecten a la reputación y buen nombre; 7.4,
+  «**La revelación de datos privados de una persona o familia conocidos a través de la actividad
+  profesional u oficial de quien los revela**»; 7.5, la captación, reproducción o publicación de la
+  imagen de una persona «**en lugares o momentos de su vida privada o fuera de ellos, salvo los
+  casos previstos en el artículo octavo, dos**»; y 7.6, la utilización del nombre, de la voz o de
+  la imagen de una persona «**para fines publicitarios, comerciales o de naturaleza análoga**».
+- Artículo 8.1: no son intromisiones ilegítimas las actuaciones autorizadas o acordadas por la
+  autoridad competente de acuerdo con la ley, «**ni cuando predomine un interés histórico,
+  científico o cultural relevante**».
+- Artículo 8.2, las tres excepciones a la propia imagen. El derecho a la propia imagen no impedirá:
+  a) su captación, reproducción o publicación cuando se trate de personas que ejerzan un cargo
+  público o una profesión de notoriedad o proyección pública y la imagen se capte «**durante un
+  acto público o en lugares abiertos al público**»; b) la utilización de la caricatura de dichas
+  personas, «**de acuerdo con el uso social**»; c) la información gráfica sobre un suceso o
+  acaecimiento público cuando la imagen de una persona determinada aparezca «**como meramente
+  accesoria**». Las excepciones a) y b) no se aplican a las autoridades o personas que desempeñen
+  funciones que por su naturaleza necesiten el anonimato.
+- Artículo 9.3: la existencia de perjuicio se presume siempre que se acredite la intromisión; el
+  daño moral se valora atendiendo a las circunstancias del caso y a la gravedad de la lesión,
+  teniendo en cuenta, en su caso, «**la difusión o audiencia del medio a través del que se haya
+  producido**». Y 9.5: las acciones «**caducarán transcurridos cuatro años desde que el legitimado
+  pudo ejercitarlas**».
+
+Redacciones: los artículos 3 y 8 tienen una sola; el 1 tiene dos (la vigente desde el 24 de mayo
+de 1996); el 2, tres (la vigente desde el 15 de febrero de 1990); el 7 y el 9, la vigente desde el
+23 de diciembre de 2010. El Tribunal Constitucional, en su Sentencia 9/1990, declaró nulo un inciso
+del artículo 2.2 (el texto consolidado no permite identificar con seguridad cuál; no se precisa
+aquí).
 

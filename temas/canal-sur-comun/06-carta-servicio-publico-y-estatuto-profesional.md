@@ -9,7 +9,7 @@
 | **Fuente** | Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029, aprobada por el Pleno del Parlamento de Andalucía el 14 de diciembre de 2023; Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA |
 | **Identificador** | Carta: BOJA núm. 247, de 28/12/2023 (Resolución de 15 de diciembre de 2023, del Letrado Mayor del Parlamento de Andalucía). Ley 18/2007: `BOE-A-2008-1185` |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Carta no ha sido modificada; de la Ley 18/2007, el artículo 8 y la exposición de motivos están en la redacción de la Ley 2/2019, aplicable desde el 28/06/2019, y el resto de los preceptos citados conserva la original |
-| **Extensión** | 12.206 palabras |
+| **Extensión** | 12.361 palabras |
 
 <!-- /portada -->
 
@@ -47,6 +47,34 @@ las veintiuna letras del artículo 8.1, las tres modalidades de producción del 
 de número de artículo.
 
 <!-- indice -->
+
+## Índice
+
+- [Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029](#carta-del-servicio-público-de-la-agencia-pública-empresarial-de-la-radio-y-televisión-de-andalucía-rtva-para-el-sexenio-2024-2029)
+  - [Qué es y en qué ley se apoya](#qué-es-y-en-qué-ley-se-apoya)
+  - [Aprobación y publicación](#aprobación-y-publicación)
+  - [Vigencia, aplicación y prórroga](#vigencia-aplicación-y-prórroga)
+  - [Estructura](#estructura)
+  - [Relación con el contrato-programa](#relación-con-el-contrato-programa)
+  - [Control del cumplimiento](#control-del-cumplimiento)
+- [Misión de servicio público audiovisual](#misión-de-servicio-público-audiovisual)
+- [Pluralismo](#pluralismo)
+- [Veracidad](#veracidad)
+- [Independencia editorial](#independencia-editorial)
+- [Cohesión territorial](#cohesión-territorial)
+- [Cultura andaluza](#cultura-andaluza)
+- [Atención a la ciudadanía](#atención-a-la-ciudadanía)
+- [Repaso del articulado de la Carta, artículo por artículo](#repaso-del-articulado-de-la-carta-artículo-por-artículo)
+- [Estatuto profesional de la RTVA y Canal Sur](#estatuto-profesional-de-la-rtva-y-canal-sur)
+  - [Lo que dice la Ley 18/2007](#lo-que-dice-la-ley-182007)
+  - [Lo que dice la Carta](#lo-que-dice-la-carta)
+  - [El marco general: cláusula de conciencia y secreto profesional](#el-marco-general-cláusula-de-conciencia-y-secreto-profesional)
+  - [El texto vigente no está publicado](#el-texto-vigente-no-está-publicado)
+  - [El texto anterior que enlaza la web de Canal Sur (no vigente)](#el-texto-anterior-que-enlaza-la-web-de-canal-sur-no-vigente)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029
@@ -239,7 +267,8 @@ Dos remisiones con cifra, leídas en el contrato-programa 2024-2026:
   Para ese ejercicio, la cláusula sexta del contrato-programa recoge el compromiso del
   Consejo de Gobierno de consignar 10.633.096 euros para la RTVA y 149.648.278 euros para
   CSRTV como compensación por el servicio público (punto 3.a), y 1.550.000 euros de capital
-  para CSRTV (punto 4.a). La Carta no da cifras: fija el criterio.
+  para CSRTV (punto 4.a); para las inversiones de la RTVA, el punto 4.b indica 1.016.650 euros
+  de su presupuesto de 2024. La Carta no da cifras: fija el criterio.
 
 ### Control del cumplimiento
 
@@ -256,15 +285,15 @@ Dos remisiones con cifra, leídas en el contrato-programa 2024-2026:
   otras dos son posibles («se podrá»).
 - *El fundamento.* El artículo 35.1 de la Ley 18/2007 atribuye a una comisión del
   Parlamento, «conforme regula el artículo 214.1 del Estatuto de Autonomía», el control
-  parlamentario de la RTVA y su filial, «**especialmente en relación con el cumplimiento
+  parlamentario de la actuación de la RTVA y sus sociedades filiales, «**especialmente en relación con el cumplimiento
   efectivo de la función de servicio público definida en el artículo 4 de esta Ley**». El
   artículo 214.4 del EAA dice que ese control tiene por objeto «**velar por los principios de
   independencia, pluralismo y objetividad, así como por una óptima gestión económica y
   financiera**».
-- *Consejo Audiovisual de Andalucía.* La Carta no lo menciona en sus disposiciones finales,
-  pero la Ley 18/2007 le atribuye «**la supervisión del cumplimiento de la misión de servicio
-  público de radio y televisión prestado por la RTVA**» a través de su filial, en los términos
-  de su ley de creación, la Ley 1/2004, de 17 de diciembre (art. 36).
+- *Consejo Audiovisual de Andalucía.* La Carta no lo menciona, pero la Ley 18/2007 le
+  atribuye «**la supervisión del cumplimiento de la misión de servicio público de radio y
+  televisión prestado por la RTVA**» a través de sus sociedades filiales, en los términos de su
+  ley de creación, la Ley 1/2004, de 17 de diciembre (art. 36).
 - *Dentro de la RTVA.* La Dirección General elabora «**el informe anual sobre el
   cumplimiento de la función y misión de servicio público encomendada a la RTVA y sobre la
   ejecución del Contrato-Programa**» (art. 19.2.c de la Ley 18/2007). La propia Carta impone
@@ -411,8 +440,8 @@ información veraz, contrastada, objetiva, rigurosa, y de alta calidad**», onli
   Carta.
 - «**La separación entre informaciones y opiniones, la identificación de quienes sustentan
   estas últimas y la libre expresión de las mismas.**» (art. 4.1.c).
-- El EAA pide a los poderes públicos velar por «**el derecho a una información independiente,
-  veraz y plural**» (art. 207.1), y a los medios públicos de gestión directa, respetar «**los
+- El EAA pide a los poderes públicos velar, entre otros, por el derecho «**a una información
+  independiente, veraz y plural**» (art. 207.1), y a los medios públicos de gestión directa, respetar «**los
   principios de independencia, pluralidad, objetividad, neutralidad informativa y
   veracidad**» (art. 211.1).
 
@@ -580,9 +609,9 @@ Andalucía en sus diferentes hablas**».
 
 ## Atención a la ciudadanía
 
-*Lo primero: la Carta no tiene un artículo con ese nombre.* La expresión aparece en la
-exposición de motivos, que atribuye al Tratado de Ámsterdam la función de los operadores
-públicos de «**atender a la ciudadanía en sus necesidades democráticas, sociales y culturales
+*Lo primero: la Carta no usa la expresión «atención a la ciudadanía» ni tiene un artículo con
+ese nombre.* Lo más parecido está en la exposición de motivos, que atribuye al Tratado de
+Ámsterdam la función de los operadores públicos de «**atender a la ciudadanía en sus necesidades democráticas, sociales y culturales
 que no puede cumplir el mercado, impidiendo que uno o varios grandes operadores dominen todo el
 sector**». En el articulado, lo más próximo es el artículo 26, «Atención a la audiencia», y a
 su alrededor un grupo de artículos sobre públicos, accesibilidad y participación.
@@ -637,8 +666,10 @@ su alrededor un grupo de artículos sobre públicos, accesibilidad y participaci
   diversidad funcional sensorial auditiva en particular (art. 13.9).
 - Subtitulación, traducción a lengua de signos española y audiodescripción para personas con
   diversidad funcional sensorial; los porcentajes, en cada plan anual de actuación (art. 25.1);
-  posibles medidas nuevas con el estándar HbbTV (televisión híbrida) y herramientas web (art.
-  25.2); convenios con entidades del sector (art. 25.3).
+  posibles medidas nuevas con el estándar HbbTV (televisión híbrida) y herramientas web, que
+  dependen también del espectro TDT disponible en Andalucía (art. 25.2); la RTVA y Canal Sur
+  «podrán» celebrar convenios con entidades relacionadas con personas con disfuncionalidad
+  sensorial, con otros operadores y con las administraciones públicas (art. 25.3).
 
 *Derechos de la audiencia en lo comercial.* La gestión comercial se hará con «**acentuada
 protección de los derechos de la audiencia**», con especial atención a menores, igualdad de la
@@ -707,10 +738,11 @@ puede preguntarse.
   f) atención a las personas mayores; g) atención a las personas en situación de dependencia;
   h) inclusión social, económica, laboral y cultural de las personas inmigrantes; i) respeto a
   culturas diferentes y a opiniones alternativas; j) respeto a las minorías; k) respeto a todas
-  las creencias religiosas y a la libertad de conciencia; l) cumplimiento del derecho de
+  las creencias religiosas y confesiones existentes en la sociedad andaluza, y a la libertad de
+  conciencia; l) cumplimiento del derecho de
   rectificación; m) respeto a la diversidad de orientaciones sexuales y a la diversidad social,
   étnica y cultural; n) dignidad humana, honor, intimidad y propia imagen en soportes digitales;
-  o) no discriminación por causa alguna; p) convivencia armónica, pacífica, solidaria y justa;
+  o) no discriminación por causa alguna e igualdad de oportunidades en todo ámbito público; p) convivencia armónica, pacífica, solidaria y justa;
   q) cultura de la paz y del diálogo; r) tolerancia ante toda opción ideológica y política
   democrática y derecho a discrepar de la mayoría; s) emprendimiento como cultura empresarial;
   t) tradiciones de notorio arraigo; u) excelencia educativa, formativa y cultural. 8.2:
@@ -808,8 +840,9 @@ puede preguntarse.
   17.1 (el Consejo de Administración determina anualmente el porcentaje de producción
   propia). 24.2: tres modalidades: a) *producción propia*, que puede ser *interna* (con
   recursos económicos, técnicos y humanos de Canal Sur, que tiene los derechos de explotación) o
-  *externa*, y esta a su vez *financiada mixta* (la RTVA o Canal Sur aportan elementos de la
-  producción que hace otra entidad y adquieren sus derechos) o *financiada* (encargan y
+  *externa*, y esta a su vez *financiada mixta* (la RTVA o Canal Sur aportan elementos de una
+  producción que se efectúa con otra entidad y adquieren, en los términos que se acuerden, los
+  derechos que esta les transmite, incluidos los de explotación) o *financiada* (encargan y
   financian la obra a una entidad independiente, a otro operador o a una asociación o
   federación de la que formen parte, y «**asumen la responsabilidad editorial de la obra**»);
   b) *producción ajena*, de la que se adquieren derechos de emisión o de antena; c)
@@ -939,7 +972,7 @@ informativos del artículo 13.4 (epígrafe de veracidad).
 
 ### El marco general: cláusula de conciencia y secreto profesional
 
-Las dos figuras que cualquier estatuto de redacción desarrolla tienen base fuera de él. El
+La cláusula de conciencia y el secreto profesional tienen base fuera del Estatuto. El
 artículo 20.1.d de la Constitución reconoce el derecho a comunicar o recibir libremente
 información veraz y añade: «**La ley regulará el derecho a la cláusula de conciencia y al
 secreto profesional en el ejercicio de estas libertades.**» La cláusula de conciencia la regula
@@ -950,7 +983,7 @@ la Ley Orgánica 2/1997, de 19 de junio:
   profesional.**» (art. 1).
 - Da derecho a solicitar la rescisión de la relación con la empresa en dos casos (art. 2.1):
   a) un «**cambio sustancial de orientación informativa o línea ideológica**» del medio; b) el
-  traslado a otro medio del grupo que suponga «**una ruptura patente con la orientación
+  traslado a otro medio del mismo grupo que por su género o línea suponga «**una ruptura patente con la orientación
   profesional del informador**». La indemnización «**no será inferior a la pactada
   contractualmente o, en su defecto, a la establecida por la Ley para el despido
   improcedente**» (art. 2.2).
@@ -962,8 +995,8 @@ Para el secreto profesional, este tema no da ley de desarrollo.
 
 ### El texto vigente no está publicado
 
-Según fuentes no oficiales (prensa y el propio Consejo Profesional), el Consejo de
-Administración de la RTVA aprobó un nuevo Estatuto Profesional el 13 de octubre de 2020. Ese
+Según la prensa, que no es fuente oficial, el Consejo de Administración de la RTVA aprobó un
+nuevo Estatuto Profesional el 13 de octubre de 2020. Ese
 texto *no está publicado* en el BOJA ni en la web de la RTVA o de Canal Sur, y no ha podido
 leerse en ninguna fuente oficial. Por eso este tema *no desarrolla el Estatuto vigente*: ni
 su estructura, ni la composición del Consejo Profesional, ni el mandato de sus miembros, ni su
@@ -999,7 +1032,7 @@ en una pregunta.
   sanción ni perjuicio; la rescisión del contrato en los términos de la Ley Orgánica 2/1997; y la
   mediación previa del Consejo Profesional antes de acudir a los tribunales. Añadía el derecho a
   cambiar de programa si cambiaba su línea o su dirección de forma lesiva para las convicciones
-  del profesional.
+  o la especialización profesional del informador.
 - *Secreto profesional.* Lo configuraba como derecho de los profesionales y garantía del
   derecho del público a una información libre: no revelar las fuentes propias ni las de los
   compañeros, confidencialidad de los materiales de trabajo y prohibición de registros o
@@ -1014,8 +1047,8 @@ en una pregunta.
   que la empresa debía responder motivadamente, y recogían la opinión de los profesionales,
   no vinculante, sobre el nombramiento y cese de la dirección de los servicios informativos. Los
   directivos y mandos de la redacción eran incompatibles con la condición de miembro.
-- *Reforma.* La aprobaba el Consejo de Administración de la RTVA, con participación de los
-  Consejos Profesionales.
+- *Reforma.* La aprobaba el Consejo de Administración de la RTVA, pero la propuesta
+  necesitaba además el voto favorable de cada Consejo Profesional.
 
 ## Normativa que el tema invoca
 
@@ -1028,11 +1061,11 @@ en una pregunta.
 | Constitución Española | `BOE-A-1978-31229` | Art. 20.1.d, vigente el 24/09/2026 |
 | Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia de los profesionales de la información | `BOE-A-1997-13374` | Arts. 1 a 3, vigentes el 24/09/2026 (redacción original, la única) |
 | Carta del Servicio Público de la RTVA de 2010 | BOJA núm. 213, de 2/11/2010 | Sin vigencia desde la aprobación de la de 2024-2029, hasta la que su art. 3 la prorrogaba; solo se cita ese artículo |
-| Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual; Ley 1/2004, de 17 de diciembre, del Consejo Audiovisual de Andalucía; Ley 4/2023, andaluza del Flamenco; Ley 14/2007, del Patrimonio Histórico de Andalucía | — | Solo se nombran porque la Carta o la Ley 18/2007 remiten a ellas; no se estudian aquí |
+| Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual; Ley 1/2004, de 17 de diciembre, de creación del Consejo Audiovisual de Andalucía; Ley 4/2023, de 18 de abril, Andaluza del Flamenco; Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía | — | Solo se nombran porque la Carta o la Ley 18/2007 remiten a ellas; no se estudian aquí |
 
 ## Lo que este tema no da, y dónde está
 
-- *El texto vigente del Estatuto profesional.* Según fuentes no oficiales lo aprobó el Consejo
+- *El texto vigente del Estatuto profesional.* Según la prensa, no oficial, lo aprobó el Consejo
   de Administración de la RTVA el 13 de octubre de 2020, pero no está publicado en el BOJA ni en
   la web de la RTVA o de Canal Sur, y no se ha podido leer. Por eso el tema no da su
   estructura, la composición del Consejo Profesional, el mandato de sus miembros ni su régimen

@@ -816,3 +816,544 @@ el 4.15); y para la del 76.d) (libros de texto), la Consejería de educación (8
 **Procedimiento (artículo 86).** Se aplican los principios de legalidad, competencia,
 irretroactividad, tipicidad, responsabilidad, proporcionalidad, prescripción, prohibición de
 doble sanción, presunción de inocencia y prohibición de analogía.
+
+## Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación
+
+### Identificación, estructura y control de constitucionalidad
+
+Ley estatal publicada en el BOE núm. 167, de 13 de julio de 2022. Según su disposición final
+décima, **«La presente ley entrará en vigor el día siguiente al de su publicación en el
+"Boletín Oficial del Estado"»**: el 14 de julio de 2022. No ha sido modificada; el texto
+consolidado incorpora una corrección de errores publicada en el BOE núm. 224, de 17 de
+septiembre de 2022.
+
+Su preámbulo la presenta como **«el mínimo común normativo que contenga las definiciones
+fundamentales del derecho antidiscriminatorio español»** y la caracteriza con tres notas: **«es
+una ley de garantías, una ley general y una ley integral.»**
+
+| Parte | Rúbrica | Artículos |
+| --- | --- | --- |
+| Título preliminar | (objeto y ámbitos) | 1 a 3 |
+| Título I | Derecho a la igualdad de trato y no discriminación (cap. I, disposiciones generales; cap. II, el derecho en determinados ámbitos) | 4 a 24 |
+| Título II | Defensa y promoción del derecho (cap. I, garantías; cap. II, promoción y medidas de acción positiva) | 25 a 39 |
+| Título III | La Autoridad Independiente para la Igualdad de Trato y la No Discriminación | 40 a 45 |
+| Título IV | Infracciones y sanciones en materia de igualdad de trato y no discriminación | 46 a 52 |
+| Título V | Atención, apoyo e información a las víctimas de la discriminación e intolerancia | 53 y 54 |
+
+Tiene 54 artículos, seis disposiciones adicionales, una transitoria y diez finales; no tiene
+disposición derogatoria.
+
+**Recurso de inconstitucionalidad y STC 89/2024.** Más de cincuenta diputados del grupo
+parlamentario Vox recurrieron los artículos 4.4, 9.1, 13.2, 20.2 y 47, apartados 2, 3.d) y 4.d)
+(recurso 6706-2022). La STC 89/2024, de 5 de junio (BOE núm. 164, de 8 de julio de 2024), falló
+que el Tribunal **«ha decidido desestimar íntegramente el recurso de inconstitucionalidad»**.
+Hay un voto particular de dos magistrados sobre el artículo 13.2 (financiación pública de los
+centros educativos), que lo discuten en relación con la educación diferenciada por sexos. El
+texto de la ley no cambia.
+
+**Título competencial (disposición final octava).** La mayor parte de la ley son condiciones
+básicas del artículo 149.1.1.ª CE; los artículos 9 a 11 son legislación laboral (149.1.7.ª);
+**«El artículo 22 tiene carácter básico, de acuerdo con el artículo 149.1.27.ª de la
+Constitución.»** (la competencia estatal sobre normas básicas de prensa, radio y televisión); y
+**«La presente ley tiene carácter supletorio en las comunidades autónomas con competencias
+propias en la materia que hayan legislado sobre la misma.»** (apartado 14).
+
+### Objeto, ámbito y definiciones (título preliminar y artículos 4 a 8)
+
+**Objeto (artículo 1).** **«La presente ley tiene por objeto garantizar y promover el derecho a
+la igualdad de trato y no discriminación, respetar la igual dignidad de las personas en
+desarrollo de los artículos 9.2, 10 y 14 de la Constitución.»** Para ello regula derechos y
+obligaciones de las personas **«físicas o jurídicas, públicas o privadas»**, fija principios de
+actuación de los poderes públicos y prevé medidas para **«prevenir, eliminar, y corregir toda
+forma de discriminación, directa o indirecta, en los sectores público y privado.»**
+
+**Ámbito subjetivo (artículo 2).**
+
+1. Se reconoce el derecho **«de toda persona»** con independencia de su nacionalidad, de su
+   edad o de si tiene residencia legal. Las causas: **«Nadie podrá ser discriminado por razón de
+   nacimiento, origen racial o étnico, sexo, religión, convicción u opinión, edad, discapacidad,
+   orientación o identidad sexual, expresión de género, enfermedad o condición de salud, estado
+   serológico y/o predisposición genética a sufrir patologías y trastornos, lengua, situación
+   socioeconómica, o cualquier otra condición o circunstancia personal o social.»** Es una
+   lista abierta.
+2. Caben diferencias de trato cuando los criterios **«sean razonables y objetivos»** y se
+   persiga un propósito legítimo, cuando lo autorice una norma con rango de ley, o cuando
+   resulten de decisiones de las administraciones para proteger a grupos necesitados de
+   acciones específicas.
+3. **«La enfermedad no podrá amparar diferencias de trato distintas de las que deriven del
+   propio proceso de tratamiento de la misma, de las limitaciones objetivas que imponga para el
+   ejercicio de determinadas actividades o de las exigidas por razones de salud pública.»**
+4. Las obligaciones de la ley se aplican **«al sector público»** y a las personas privadas
+   **«que residan, se encuentren o actúen en territorio español»**. El sector público comprende
+   seis letras: a) la AGE; b) las Administraciones de las comunidades autónomas; c) las
+   entidades de la Administración local; d) la Administración de Justicia; e) **«El sector
+   público institucional, en los términos establecidos en el artículo 2.2 de la Ley 39/2015, de
+   1 de octubre»**; f) las asociaciones y fundaciones constituidas por las Administraciones y
+   entidades del sector público.
+
+**Ámbito objetivo (artículo 3).** La ley se aplica en dieciséis ámbitos (letras a a o, con
+ñ): a) **«Empleo, por cuenta ajena y por cuenta propia, que comprende el acceso, las
+condiciones de trabajo, incluidas las retributivas y las de despido, la promoción profesional y
+la formación para el empleo.»**; b) **«Acceso, promoción, condiciones de trabajo y formación en
+el empleo público.»**; c) afiliación y participación en organizaciones políticas, sindicales,
+empresariales, profesionales y de interés social o económico; d) educación; e) sanidad; f)
+transporte; g) cultura; h) seguridad ciudadana; i) Administración de Justicia; j) protección
+social, prestaciones y servicios sociales; k) acceso, oferta y suministro de bienes y servicios
+al público, incluida la vivienda; l) establecimientos y espacios abiertos al público y vía
+pública; m) **«Publicidad, medios de comunicación y servicios de la sociedad de la
+información.»**; n) **«Internet, redes sociales y aplicaciones móviles.»**; ñ) actividades
+deportivas; o) **«Inteligencia Artificial y gestión masiva de datos, así como otras esferas de
+análoga significación.»** La ley se entiende sin perjuicio de los regímenes **«más favorables»**
+estatales o autonómicos (3.2).
+
+**El derecho (artículo 4).** Implica **«la ausencia de toda discriminación»** por las causas
+del artículo 2.1. Queda prohibida toda disposición, conducta, acto, criterio o práctica que
+atente contra la igualdad, y **«Se consideran vulneraciones de este derecho la discriminación,
+directa o indirecta, por asociación y por error, la discriminación múltiple o interseccional,
+la denegación de ajustes razonables, el acoso, la inducción, orden o instrucción de discriminar
+o de cometer una acción de intolerancia, las represalias o el incumplimiento de las medidas de
+acción positiva derivadas de obligaciones normativas o convencionales, la inacción, dejación de
+funciones, o incumplimiento de deberes.»** (4.1). No es discriminación la diferencia de trato
+**«que pueda justificarse objetivamente por una finalidad legítima y como medio adecuado,
+necesario y proporcionado para alcanzarla.»** (4.2). El derecho es **«un principio informador
+del ordenamiento jurídico»** (4.3), y **«En las políticas contra la discriminación se tendrá en
+cuenta la perspectiva de género»** (4.4, declarado conforme a la Constitución por la STC
+89/2024).
+
+**Derechos de las víctimas (artículo 5).** Información completa y comprensible y asesoramiento;
+información accesible para personas con discapacidad (**«lectura fácil, Braille, lengua de
+signos»**); y **«derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente
+previo a la interposición de la denuncia.»** (5.4).
+
+**Definiciones (artículo 6).** Ocho apartados numerados:
+
+1. **Discriminación directa e indirecta.**
+   - a) Directa: **«la situación en que se encuentra una persona o grupo en que se integra que
+     sea, haya sido o pudiera ser tratada de manera menos favorable que otras en situación
+     análoga o comparable por razón de las causas previstas en el apartado 1 del artículo 2.»**
+     Además, **«Se considerará discriminación directa la denegación de ajustes razonables a las
+     personas con discapacidad.»** Los ajustes razonables son las modificaciones y adaptaciones
+     necesarias **«que no impongan una carga desproporcionada o indebida»**.
+   - b) Indirecta: **«cuando una disposición, criterio o práctica aparentemente neutros
+     ocasiona o puede ocasionar a una o varias personas una desventaja particular con respecto a
+     otras por razón de las causas previstas en el apartado 1 del artículo 2.»**
+2. **Por asociación y por error.**
+   - a) Por asociación: **«cuando una persona o grupo en que se integra, debido a su relación
+     con otra sobre la que concurra alguna de las causas previstas en el apartado primero del
+     artículo 2 de esta ley, es objeto de un trato discriminatorio.»**
+   - b) Por error: **«aquella que se funda en una apreciación incorrecta acerca de las
+     características de la persona o personas discriminadas.»**
+3. **Múltiple e interseccional.**
+   - a) Múltiple: **«cuando una persona es discriminada de manera simultánea o consecutiva por
+     dos o más causas de las previstas en esta ley.»**
+   - b) Interseccional: **«cuando concurren o interactúan diversas causas de las previstas en
+     esta ley, generando una forma específica de discriminación.»**
+   - c) y d) La justificación de la diferencia de trato debe darse **«en relación con cada uno
+     de los motivos de discriminación»**, y las acciones positivas deben atender a la
+     concurrencia de causas.
+4. **Acoso discriminatorio**: **«cualquier conducta realizada por razón de alguna de las causas
+   de discriminación previstas en la misma, con el objetivo o la consecuencia de atentar contra
+   la dignidad de una persona o grupo en que se integra y de crear un entorno intimidatorio,
+   hostil, degradante, humillante u ofensivo.»**
+5. **Inducción, orden o instrucción de discriminar**: es discriminatoria; **«La inducción ha de
+   ser concreta, directa y eficaz para hacer surgir en otra persona una actuación
+   discriminatoria.»** (El artículo 8 añade la inducción **«de cometer una acción de
+   intolerancia»**.)
+6. **Represalias**: **«cualquier trato adverso o consecuencia negativa que pueda sufrir una
+   persona o grupo en que se integra por intervenir, participar o colaborar en un procedimiento
+   administrativo o proceso judicial destinado a impedir o hacer cesar una situación
+   discriminatoria, o por haber presentado una queja, reclamación, denuncia, demanda o recurso
+   de cualquier tipo con el mismo objeto.»** Salvedad: **«Quedan excluidos de lo dispuesto en el
+   párrafo anterior los supuestos que pudieran ser constitutivos de ilícito penal.»**
+7. **Acción positiva**: **«las diferencias de trato orientadas a prevenir, eliminar y, en su
+   caso, compensar cualquier forma de discriminación o desventaja en su dimensión colectiva o
+   social.»** Se aplican **«en tanto subsistan»** las situaciones que las justifican y han de
+   ser **«razonables y proporcionadas»**.
+8. **Segregación escolar**: separar al alumnado por motivos socioeconómicos o por las causas del
+   artículo 2.1 **«sin una justificación objetiva y razonable.»**
+
+**Interpretación (artículo 7).** **«cuando se presenten diferentes interpretaciones, se deberá
+preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados
+por conductas discriminatorias o intolerantes. La presente ley consagra los niveles mínimos de
+protección y no perjudica las disposiciones más favorables establecidas en otras normas»**.
+
+### Principios y políticas públicas (título II, capítulo II)
+
+- **Acción positiva y relaciones entre particulares (artículo 33)**: los poderes públicos
+  **«adoptarán medidas de acción positiva»** e impulsarán políticas de igualdad en las
+  relaciones entre particulares; las empresas **«podrán»** asumir acciones de responsabilidad
+  social, informando a la representación de los trabajadores, y hacer uso publicitario de
+  ellas conforme a la legislación de publicidad.
+- **Estrategia Estatal para la Igualdad de Trato y la No Discriminación (artículo 34)**:
+  **«instrumento principal de colaboración territorial»** de la AGE; la prepara, sigue y evalúa
+  la Conferencia Sectorial de Igualdad y **«La aprobación de la Estrategia corresponderá al
+  Consejo de Ministros.»**; **«La Estrategia tendrá carácter cuatrienal.»** El Ministerio de
+  Igualdad elabora el informe de evaluación y lo traslada al Consejo de Ministros, a los
+  Consejos de Gobierno autonómicos y a las Cortes.
+- **Colaboración entre Administraciones (artículo 35)** en la Conferencia Sectorial de Igualdad.
+- **Estadísticas y estudios (artículo 36)**: las Fuerzas y Cuerpos de Seguridad recaban el
+  componente discriminatorio de las denuncias; la Fiscalía y el Consejo General del Poder
+  Judicial, las denuncias y resoluciones.
+- **Subvenciones y contratación (artículo 37)**: las administraciones **«podrán establecer
+  condiciones especiales»** de ejecución de los contratos para promover la igualdad de trato
+  (37.2); **«no subvencionarán, bonificarán o prestarán ayudas públicas»** a quienes hayan sido
+  sancionados por resolución administrativa firme por infracción muy grave, en los términos y
+  plazos del título IV (37.3).
+- **Formación (artículo 38)**: los poderes públicos contemplarán **«en los procesos selectivos y
+  en la formación de su personal, el estudio y la aplicación de la igualdad de trato y la no
+  discriminación»**.
+- **Diálogo con organizaciones no gubernamentales (artículo 39).**
+
+### Medidas por ámbitos (título I, capítulo II, artículos 9 a 24)
+
+**Empleo por cuenta ajena (artículo 9).**
+
+1. **«No podrán establecerse limitaciones, segregaciones o exclusiones por razón de las causas
+   previstas en esta ley para el acceso al empleo por cuenta ajena, público o privado, incluidos
+   los criterios de selección, en la formación para el empleo, en la promoción profesional, en
+   la retribución, en la jornada y demás condiciones de trabajo, así como en la suspensión, el
+   despido u otras causas de extinción del contrato de trabajo.»**
+2. Son discriminatorios los criterios y sistemas de acceso o de condiciones de trabajo que
+   produzcan discriminación indirecta.
+3. Los servicios públicos de empleo, sus entidades colaboradoras y las agencias de colocación
+   velarán por la igualdad, favoreciendo medidas **«como el currículo de vida anónimo.»**
+4. La Inspección de Trabajo y Seguridad Social incluirá en su plan anual integrado de actuación
+   **«el desarrollo de planes específicos sobre igualdad de trato y no discriminación en el
+   acceso al empleo y en las condiciones de trabajo.»** En el empleo público, esa labor la hacen
+   la inspección general de servicios y los órganos equivalentes autonómicos.
+5. **«El empleador no podrá preguntar sobre las condiciones de salud del aspirante al
+   puesto.»**
+6. **«Por vía reglamentaria, se podrá exigir a los empleadores cuyas empresas tengan más de 250
+   trabajadores, que publiquen la información salarial necesaria para analizar los factores de
+   las diferencias salariales»**. Es una habilitación («se podrá»), no una obligación directa.
+
+**Negociación colectiva (artículo 10).** No puede establecer limitaciones, segregaciones o
+exclusiones por las causas de la ley; mediante ella **«se podrán establecer medidas de acción
+positiva»**; y **«La representación legal de los trabajadores y la propia empresa velarán por el
+cumplimiento del derecho a la igualdad de trato y no discriminación en la empresa»** (10.3). Las
+organizaciones empresariales y sindicales más representativas elaboran un informe anual sobre
+el cumplimiento de los artículos 9, 10 y 11 (disposición adicional quinta).
+
+**Trabajo por cuenta propia (artículo 11) y organizaciones (artículo 12).** La prohibición
+alcanza a los pactos entre el trabajador autónomo y su cliente y a los acuerdos de interés
+profesional; partidos, sindicatos, organizaciones empresariales y colegios profesionales están
+obligados a respetar la igualdad en la afiliación, la estructura y el funcionamiento.
+
+**Medios de comunicación social y publicidad, internet y redes sociales (artículo 22).**
+
+1. **«Todos los medios de comunicación social respetarán el derecho a la igualdad de trato,
+   evitando toda forma de discriminación en el tratamiento y formato accesible de la
+   información, en sus contenidos y su programación.»**
+2. **«Las administraciones públicas, en el ámbito de sus respectivas competencias, promoverán
+   la adopción de acuerdos de autorregulación de los medios de comunicación social, publicidad,
+   internet, redes sociales y las empresas de tecnologías de la información y comunicación»**
+   que contribuyan al cumplimiento de la legislación de igualdad de trato y **«a la promoción de
+   una imagen no estereotipada de las diferentes personas y grupos de población»**, incluidas
+   las actividades de venta y publicidad, instando a un lenguaje y mensajes contrarios a la
+   discriminación y a la intolerancia. **«Asimismo, promoverán la adopción de acuerdos con las
+   empresas y plataformas de servicios de internet que mejoren la efectividad en la prevención y
+   eliminación de contenidos que atenten contra el derecho a la igualdad en este ámbito.»**
+3. **«Se considera publicidad ilícita la comunicación publicitaria comercial o institucional
+   que contenga elementos de discriminación por razón de las causas previstas en esta ley.»**
+
+**Internet en otras partes de la ley.**
+
+- La disposición final primera añadió un párrafo al artículo 11.4 de la Ley 34/2002, de
+  servicios de la sociedad de la información: cuando sea necesario para proteger a la víctima,
+  **«los jueces y tribunales podrán acordar, de conformidad con la legislación procesal,
+  motivadamente, y siempre de acuerdo con el principio de proporcionalidad, cualquiera de las
+  medidas de restricción o interrupción de la prestación de servicios o de retirada de datos de
+  páginas de internet que contempla la presente ley.»**
+- **«Los sitios web y las aplicaciones informáticas tenderán a cumplir los requisitos de
+  accesibilidad»** (17.3).
+- En la atención a las víctimas **«se dará un tratamiento específico cuando las agresiones o
+  acciones que inciten al odio, la discriminación e intolerancia se hayan realizado utilizando
+  las nuevas tecnologías o a través de las redes sociales.»** (53.3).
+
+**Inteligencia artificial (artículo 23).** Las administraciones favorecerán que los algoritmos
+de toma de decisiones que utilicen tengan en cuenta **«criterios de minimización de sesgos,
+transparencia y rendición de cuentas, siempre que sea factible técnicamente»**, con
+evaluaciones de impacto; y **«Se promoverá un sello de calidad de los algoritmos.»** (23.4).
+
+**Otros ámbitos (artículos 13 a 21 y 24).**
+
+- Educación (13): **«En ningún caso, los centros educativos que excluyan del ingreso en los
+  mismos, discriminándolos, a grupos o personas individuales por razón de alguna de las causas
+  establecidas en esta ley, podrán acogerse a cualquier forma de financiación pública.»**
+  (13.2); medidas contra la segregación escolar (13.4).
+- Sanidad (15): **«Nadie podrá ser excluido de un tratamiento sanitario o protocolo de actuación
+  sanitaria por la concurrencia de una discapacidad, por encontrarse en situación de
+  sinhogarismo, por la edad, por sexo o por enfermedades preexistentes o intercurrentes, salvo
+  que razones médicas debidamente acreditadas así lo justifiquen.»** (15.2).
+- Servicios sociales (16), bienes y servicios (17, incluidos seguros y servicios financieros),
+  seguridad ciudadana (18: evitar **«perfiles discriminatorios sin una justificación
+  objetiva»**), Administración de Justicia (19).
+- Vivienda (20): prohibido rehusar una oferta de compra o arrendamiento, o discriminar en sus
+  condiciones, por las causas de la ley; también en locales de negocio.
+- Establecimientos y espectáculos (21): el derecho de admisión no puede discriminar, y los
+  criterios se darán a conocer **«en un espacio visible»**.
+- Cultura y deporte (24).
+
+### Garantías (título II, capítulo I, artículos 25 a 32)
+
+- **Protección y reparación (artículo 25)**: la protección **«obliga a la aplicación de métodos
+  o instrumentos suficientes para su detección, la adopción de medidas preventivas, y la
+  articulación de medidas adecuadas para el cese de las situaciones discriminatorias.»** Su
+  incumplimiento da lugar a responsabilidades administrativas y, en su caso, penales y civiles,
+  que pueden incluir **«tanto la restitución como la indemnización, hasta lograr la reparación
+  plena y efectiva para las víctimas.»**
+- **Nulidad (artículo 26)**: **«Son nulos de pleno derecho las disposiciones, actos o cláusulas
+  de los negocios jurídicos que constituyan o causen discriminación por razón de alguno de los
+  motivos previstos en el apartado primero del artículo 2 de esta ley.»**
+- **Responsabilidad patrimonial y reparación (artículo 27)**:
+  1. Quien cause discriminación **«reparará el daño causado proporcionando una indemnización y
+     restituyendo a la víctima a la situación anterior al incidente discriminatorio, cuando sea
+     posible. Acreditada la discriminación se presumirá la existencia de daño moral, que se
+     valorará atendiendo a las circunstancias del caso, a la concurrencia o interacción de
+     varias causas de discriminación previstas en la ley y a la gravedad de la lesión
+     efectivamente producida, para lo que se tendrá en cuenta, en su caso, la difusión o
+     audiencia del medio a través del que se haya producido.»**
+  2. **«Serán igualmente responsables del daño causado las personas empleadoras o prestadoras de
+     bienes y servicios cuando la discriminación, incluido el acoso, se produzca en su ámbito de
+     organización o dirección y no hayan cumplido las obligaciones previstas en el apartado 1
+     del artículo 25.»**
+- **Tutela judicial (artículo 28)**: cese inmediato de la discriminación, medidas cautelares,
+  indemnización y restablecimiento de la persona perjudicada en el pleno ejercicio de su
+  derecho.
+- **Legitimación (artículo 29)**: sin perjuicio de la legitimación individual, están legitimados
+  los partidos políticos, los sindicatos, las asociaciones profesionales de trabajadores
+  autónomos, las organizaciones de consumidores y usuarios y las asociaciones y organizaciones
+  de defensa de los derechos humanos, en procesos civiles, contencioso-administrativos y
+  sociales, **«siempre que cuenten con su autorización expresa.»** Las asociaciones de derechos
+  humanos deben haberse constituido **«al menos dos años antes de la iniciación del proceso
+  judicial»** (salvo que defiendan a sus propios miembros) y actuar en el ámbito estatal o en el
+  territorial afectado.
+- **Carga de la prueba (artículo 30)**:
+  1. **«cuando la parte actora o el interesado alegue discriminación y aporte indicios fundados
+     sobre su existencia, corresponderá a la parte demandada o a quien se impute la situación
+     discriminatoria la aportación de una justificación objetiva y razonable, suficientemente
+     probada, de las medidas adoptadas y de su proporcionalidad.»**
+  2. El órgano judicial o administrativo **«podrá recabar informe de los organismos públicos
+     competentes en materia de igualdad.»**
+  3. Salvedad: **«Lo establecido en el apartado primero no será de aplicación a los procesos
+     penales ni a los procedimientos administrativos sancionadores, ni a las medidas adoptadas y
+     los procedimientos tramitados al amparo de las normas de organización, convivencia y
+     disciplina de los centros docentes.»**
+
+  La regla se trasladó a las leyes procesales y de procedimiento por las disposiciones finales:
+  artículo 217.5 de la Ley de Enjuiciamiento Civil (segunda), 60.7 de la Ley de la Jurisdicción
+  Contencioso-administrativa (tercera), 77.3 bis de la Ley 39/2015 (cuarta) y 46.10 del texto
+  refundido de consumidores y usuarios (séptima). La disposición final tercera añadió además al
+  artículo 19.1.i) de la Ley de la Jurisdicción Contencioso-administrativa que **«La persona
+  acosada será la única legitimada en los litigios sobre acoso sexual y acoso
+  discriminatorio.»**
+- **Actuación administrativa (artículo 31)**: la autoridad pública que conozca una
+  discriminación **«deberá, si es competente, incoar el correspondiente procedimiento
+  administrativo»**, o comunicarlo de inmediato a la competente. Las entidades del artículo 29
+  pueden ser interesadas con autorización de los afectados, que no es necesaria si son una
+  pluralidad indeterminada.
+- **Ministerio Fiscal (artículo 32)**: las secciones de delitos de odio y discriminación de las
+  fiscalías provinciales coordinan la persecución penal, y los fiscales reciben **«de manera
+  obligatoria formación especializada»**. La disposición final quinta creó en la Fiscalía
+  General del Estado un Fiscal contra los delitos de odio y discriminación, **«con categoría de
+  Fiscal de Sala»**.
+
+### La Autoridad Independiente para la Igualdad de Trato y la No Discriminación (título III)
+
+**Creación (artículo 40).** **«Se crea, en el ámbito de la Administración del Estado, la
+Autoridad Independiente para la Igualdad de Trato y la No Discriminación, como autoridad
+independiente encargada de proteger y promover la igualdad de trato y no discriminación de las
+personas por razón de las causas y en los ámbitos competencia del Estado previstos en esta ley,
+tanto en el sector público como en el privado.»**
+
+**Funciones (artículo 40, letras a a r, con ñ: diecinueve).**
+
+- a) Garantizar servicios independientes de asistencia y orientación a las víctimas, que
+  incluyen la recepción y tramitación de quejas y la mediación y conciliación. (La letra remite a
+  las acciones judiciales «detalladas en la letra e)», pero las acciones judiciales están en la
+  d); así figura en la ley.)
+- b) **«Constituirse, con el consentimiento expreso de las partes, en órgano de mediación o
+  conciliación entre ellas en relación con violaciones del derecho a la igualdad de trato y no
+  discriminación, excepción hecha de las que tengan contenido penal o laboral.»** La mediación o
+  conciliación **«sustituirá al recurso de alzada y, en su caso, al de reposición»**, a efectos
+  del artículo 112.2 de la Ley 39/2015, y **«Las decisiones que tome la Autoridad Independiente
+  en los procedimientos de mediación o conciliación tendrán carácter vinculante para las
+  partes.»**
+- c) Iniciar investigaciones, de oficio o a instancia de terceros, sobre discriminaciones de
+  especial gravedad o relevancia; si hay infracción penal, cesa y remite el tanto de culpa al
+  Ministerio Fiscal o a la autoridad judicial.
+- d) Ejercitar acciones judiciales.
+- e) **«Interesar la actuación de la Administración del Estado para sancionar las acciones u
+  omisiones que puedan ser constitutivas de infracción administrativa»**. La Autoridad no
+  sanciona: pide que se sancione.
+- f) Poner en conocimiento del Ministerio Fiscal los hechos que puedan ser delito.
+- g) Promover códigos de buenas prácticas.
+- h) Colaborar con el Defensor del Pueblo y los organismos equivalentes autonómicos e
+  internacionales.
+- i) Dictaminar los proyectos de disposiciones generales que desarrollen la ley.
+- j) Informar, con carácter preceptivo, la Estrategia Estatal.
+- k) Informes y estadísticas periódicos, estudios y un **«barómetro sobre igualdad de trato y no
+  discriminación»**.
+- l) Velar por el cumplimiento de la normativa y proponer su modificación.
+- m) Informar a instancia de los órganos judiciales o del Ministerio Fiscal.
+- n) **«Elaborar y proponer al Gobierno, para su aprobación, el Estatuto de la Autoridad
+  Independiente y sus eventuales modificaciones.»**
+- ñ) **«Aprobar el informe anual de sus actividades, que remitirá al Congreso de los Diputados,
+  al Gobierno y al Defensor del Pueblo.»**
+- o), p) y q) Participar en el Foro para la integración social de los inmigrantes, en la
+  Comisión Laboral Tripartita de Inmigración y en el Consejo para la Promoción de la Igualdad de
+  Trato y No Discriminación de las Personas por el Origen Racial o Étnico.
+- r) Cualquier otra que se le atribuya por ley o reglamento.
+
+**Naturaleza y régimen (artículo 41).**
+
+- 41.1: **«es una entidad de derecho público, de las previstas en el artículo 109 de la Ley
+  40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público, dotada de personalidad
+  jurídica propia y plena capacidad pública y privada, que actúa para el cumplimiento de sus
+  fines con plena independencia y autonomía funcional respecto de las administraciones
+  públicas.»**
+- 41.2: se rige por esta ley, las leyes 40/2015, 39/2015, General Presupuestaria, de Contratos
+  del Sector Público y del Patrimonio de las Administraciones Públicas y su Estatuto; **«se
+  entenderá que sus resoluciones ponen fin a la vía administrativa.»**
+- 41.3: su Estatuto **«será aprobado por el Consejo de Ministros mediante Real Decreto, previa
+  consulta a la persona titular de la Autoridad Independiente.»**
+- 41.4: la Autoridad es unipersonal (el preámbulo la llama **«un organismo independiente,
+  unipersonal, basado fundamentalmente en la auctoritas de su titular»**). La dirige y
+  representa **«la persona que ocupe su presidencia, que será nombrada por el Gobierno mediante
+  Real Decreto, entre personalidades de reconocido prestigio en la defensa y promoción de la
+  igualdad de trato y la lucha contra la discriminación.»** El nombramiento exige comparecencia
+  previa ante las comisiones del Congreso y del Senado, y **«El Congreso, a través de la Comisión
+  competente y por acuerdo adoptado por mayoría absoluta, podrá aprobar o rechazar el
+  nombramiento del candidato propuesto en el plazo de un mes natural a contar desde la
+  recepción de la correspondiente comunicación.»** Si lo rechaza, el Gobierno presenta otro
+  candidato **«en el plazo de tres meses.»**
+
+  **«Su mandato será de cinco años sin posibilidad de renovación.»** Antes de que expire, solo
+  cesa por cinco causas: renuncia, incompatibilidad, incapacidad permanente, condena en
+  sentencia firme por delito doloso o incumplimiento grave de los deberes del cargo; en este
+  último caso, **«previa instrucción del correspondiente expediente»** y dando cuenta a las
+  Cortes Generales. El cese lo acuerda el Gobierno por Real Decreto **«a propuesta de la persona
+  titular del Ministerio competente en materia de igualdad.»** Le es aplicable el régimen de
+  conflictos de intereses e incompatibilidades de los altos cargos de la AGE.
+
+**Personal, recursos, participación y colaboración (artículos 42 a 45).** Su personal es, con
+carácter general, funcionario de carrera; se financia con asignaciones de los Presupuestos
+Generales del Estado, subvenciones, patrimonio, convenios y otros recursos (42). El Estatuto
+regula la participación de las organizaciones sociales (43). Las administraciones y los
+particulares deben colaborar en sus investigaciones y facilitarle información en un plazo que
+**«será de diez días, salvo que por la naturaleza de lo solicitado o las circunstancias del caso
+se fije de forma motivada un plazo diferente.»** (44.3). Actúa **«sin perjuicio de las
+competencias del Defensor del Pueblo u órganos similares de las comunidades autónomas»** y
+puede celebrar convenios con ellos (45).
+
+La disposición adicional tercera la designa organismo competente en España a efectos del
+artículo 13 de la Directiva 2000/43/CE (igualdad por origen racial o étnico). La disposición
+adicional primera daba seis meses para su integración y su Estatuto.
+
+**El Estatuto: Real Decreto 606/2026, de 22 de julio.** Es un reglamento, no parte de la ley.
+Publicado en el BOE el 25 de julio de 2026, en vigor desde el 26 de julio de 2026 (con una
+corrección de errores de 12 de septiembre de 2026). Lo que añade a la ley:
+
+- Denominación: **«Autoridad Independiente para la Igualdad de Trato y la No Discriminación,
+  A.A.I.»**, **«autoridad administrativa independiente de ámbito estatal de las previstas en el
+  artículo 109.1 de la Ley 40/2015»**, con sede en Madrid (artículo 1).
+- **«La Autoridad está vinculada a la Administración General del Estado a través del Ministerio
+  de Igualdad.»** (artículo 3.1).
+- Órganos (artículo 7): la Presidencia, **«como máximo órgano de representación y gobierno»**;
+  tres órganos directivos con nivel de subdirección general (Dirección de atención a víctimas de
+  discriminación, Dirección de prevención, estudios y estadísticas, y Secretaría General); un
+  Gabinete; y, **«sin participar de su estructura jerárquica»**, el Consejo Consultivo para la
+  Igualdad de Trato y la No Discriminación.
+- La persona titular de la Presidencia es **«alto cargo, con rango de subsecretario o
+  subsecretaria»** (artículo 8.2) y comparecerá **«al menos anualmente»** ante las comisiones
+  del Congreso y del Senado (8.4).
+- El Consejo Consultivo es un órgano colegiado de asesoramiento de la Presidencia, de
+  **«veintiuna vocalías»** nombradas por la persona titular de la Presidencia (artículo 16.2),
+  con mandato **«de cinco años, no renovable»** (17.1); sus informes no son vinculantes.
+- Hasta su puesta en funcionamiento, el Ministerio de Igualdad le presta apoyo, **«en la fecha
+  que al efecto se determine por orden de la persona titular del Ministerio de Igualdad»**
+  (disposición transitoria única, apartado 2).
+
+### Infracciones y sanciones (título IV, artículos 46 a 52)
+
+**Ámbito (artículo 46).** El título establece el régimen que garantiza **«las condiciones
+básicas»**; la legislación autonómica puede desarrollarlo, y donde existan regímenes
+autonómicos especiales, **«los mismos resultarán de aplicación preferente al previsto en esta
+ley.»** En discapacidad rige el texto refundido de 2013 y en el orden social la Ley sobre
+Infracciones y Sanciones en el Orden Social. No se sanciona dos veces con identidad de sujeto,
+hecho y fundamento; si hay posible delito, la Administración se abstiene hasta que se pronuncie
+la autoridad judicial.
+
+**Infracciones (artículo 47).** Leves, graves y muy graves, **«sin perjuicio de lo que se
+establezca en la legislación autonómica»**:
+
+- **Leves (47.2)**: **«las conductas que incurran en irregularidades formales por la
+  inobservancia de lo establecido en la presente ley y en su normativa de desarrollo, siempre
+  que no generen o contengan un efecto discriminatorio, ni estén motivadas en una razón
+  discriminatoria»**.
+- **Graves (47.3)**, cuatro letras:
+  - a) **«Los actos u omisiones que constituyan una discriminación, directa o indirecta, por
+    asociación, por error, así como los que constituyan inducción, orden o instrucción de
+    discriminar»**;
+  - b) **«Toda conducta de represalia en los términos previstos en el artículo 6 de la presente
+    ley.»**;
+  - c) el incumplimiento de un requerimiento administrativo específico que no sea una exigencia
+    formal;
+  - d) una tercera o más infracción leve cuando **«en el plazo del año anterior»** se hubiera
+    sancionado ya por dos leves con resolución firme.
+- **Muy graves (47.4)**, cuatro letras:
+  - a) **«Los actos u omisiones que constituyan discriminación múltiple.»**;
+  - b) **«Las conductas de acoso discriminatorio reguladas en el artículo 6.»**;
+  - c) la presión grave sobre la autoridad, sus agentes o el personal público en la ejecución de
+    las medidas de la ley;
+  - d) una tercera o más infracción grave cuando **«en el plazo de los dos años anteriores»** se
+    hubiera sancionado ya por dos graves con resolución firme.
+
+La discriminación interseccional no aparece nombrada en el 47.4.a), que solo tipifica como muy
+grave la múltiple.
+
+**Sanciones (artículo 48).** **«multas que irán de 300 a 500.000 euros»**:
+
+| Infracción | Multa (48.1) | Grados en el ámbito de la AGE (48.2): mínimo / medio / máximo |
+| --- | --- | --- |
+| Leve | **«entre 300 y 10.000 euros»** | 300-3.000 / 3.001-6.000 / 6.001-10.000 |
+| Grave | **«entre 10.001 y 40.000 euros»** | 10.001-20.000 / 20.001-30.000 / 30.001-40.000 |
+| Muy grave | **«entre 40.001 y 500.000 euros»** | 40.001-100.000 / 100.001-200.000 / 200.001-500.000 |
+
+Lo recaudado **«será invertida en la promoción de sensibilización para la igualdad de trato y
+no discriminación y lucha contra la intolerancia.»** (48.3).
+
+**Graduación (artículo 49).** Diez criterios, letras a) a j): intencionalidad, naturaleza de
+los daños, permanencia o transitoriedad, número de afectados, repercusión social, reincidencia
+(**«por comisión en el término de un año de más de una infracción de la misma naturaleza»**),
+beneficio económico, condición de autoridad o empleado público, concurrencia de causas y, j),
+el grado máximo cuando las cometan titulares de cargos o funciones públicas o empleados
+públicos en el ejercicio de sus funciones. **«Si la infracción se comete por funcionario público
+en el ejercicio de su cargo, la sanción se aplicará en su grado máximo.»** (49.3).
+
+**Accesorias y sustitución (artículo 50).** Solo en las muy graves, el órgano **«podrá»**
+imponer la supresión, cancelación o suspensión de ayudas, el cierre del establecimiento o el
+cese en la actividad **«por un término máximo de cinco años.»** La multa puede sustituirse por
+trabajos de utilidad pública, cursos u otras medidas de sensibilización, con consentimiento de
+la persona sancionada **«y siempre que no se trate de infracciones muy graves»**.
+
+**Prescripción (artículo 51).** Infracciones: **«leves prescribirán al año, las calificadas como
+graves a los tres años y las calificadas como muy graves a los cuatro años.»** Sanciones:
+**«leves prescribirán al año, las impuestas por infracciones graves a los cuatro años y las
+impuestas por infracciones muy graves a los cinco años.»**
+
+**Competencia y procedimiento (artículo 52).** Cada Administración en su ámbito (52.1). El
+plazo máximo para notificar la resolución **«será de seis meses»**, y la resolución señala el plazo para cumplirla **«sin que
+pueda ser inferior a quince ni superior a treinta días.»** (52.2). Si la infracción la comete una
+autoridad o empleado público, se adoptan medidas provisionales y se abre procedimiento
+disciplinario (52.3). En la AGE el procedimiento se inicia **«siempre de oficio»** y resuelve la
+persona titular del Ministerio competente por razón de la materia; **«cuando se trate de
+infracciones muy graves, y el importe de la sanción impuesta exceda los 300.000 euros, se
+requerirá acuerdo del Consejo de Ministros.»** (52.4).
+
+### Atención a las víctimas (título V, artículos 53 y 54)
+
+Los poderes públicos garantizan información y **«una atención integral real y efectiva»** a las
+víctimas de incidentes de odio, discriminación e intolerancia (53), realizan campañas de
+sensibilización, garantizan la asistencia **«aunque no se interponga denuncia»**, y establecen en
+los centros escolares un protocolo contra el acoso escolar discriminatorio (54).
