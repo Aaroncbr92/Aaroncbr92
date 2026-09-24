@@ -652,3 +652,224 @@ de programación y a los eventos institucionales, sociales, culturales y deporti
 todos los segmentos de audiencia referidos a sexo, edad, grupos sociales o territoriales, con
 especial atención a las personas con discapacidad.**» (art. 4.3.h). Las personas consumidoras y
 usuarias pueden ejercer la acción de cesación de contenidos y servicios (art. 34.2).
+
+## Repaso del articulado de la Carta, artículo por artículo
+
+Lo que ya se ha desarrollado arriba se cita solo con su remisión. El resto se da aquí con lo que
+puede preguntarse.
+
+- **Art. 1. Finalidad.** Véase «Qué es y en qué ley se apoya».
+- **Art. 2. Posicionamiento del servicio público digital audiovisual en el sexenio 2024-2029.**
+  2.1: encomienda de gestión directa a la RTVA, que se vale de Canal Sur; es preferente la
+  actuación del grupo para sostener su posicionamiento con contenidos en todo tipo de soportes,
+  «sumados» a la difusión por ondas hertzianas terrestres, para ofrecer un servicio público
+  digital audiovisual «**multimedia y multiplataforma moderno, ágil, útil y eficiente**». 2.2:
+  la prioridad fundamental (epígrafe de la misión). 2.3: parámetros de excelencia profesional y
+  máxima calidad técnica y argumental, innovación en plataformas digitales «**para consolidar
+  un servicio público audiovisual basado en Internet**», de acuerdo con la planificación de la
+  Unión Europea.
+- **Art. 3. Principio de interés general.** 3.1: pluralismo (epígrafe de pluralismo). 3.2:
+  todos los formatos, lineales y no lineales, se configuran con «**criterios de equilibrio y
+  variedad en todos los géneros de contenidos**», con sentido de utilidad pública y
+  planteamientos de proximidad.
+- **Art. 4. Principio de neutralidad tecnológica.** 4.1: servicio universal. 4.2: disponibilidad
+  en ondas hertzianas terrestres y en cualesquiera soportes digitales implantados en el
+  mercado. 4.3: las nuevas tecnologías y funcionalidades como la inteligencia artificial se
+  tratarán «**con responsabilidad y compromiso ético, con fines no de reemplazo**» y para
+  incrementar la eficiencia y eficacia.
+- **Art. 5. Agente cohesionador social y territorial.** Epígrafe de cohesión territorial.
+- **Art. 6. Servicio público centrado en la sociedad.** Nueve apartados: 6.1 identidad, patrimonio
+  y hablas (cultura andaluza); 6.2 a 6.4 adecuación a la sociedad, municipios y cobertura
+  (cohesión territorial); 6.5 a 6.8 estudios, franjas, big data y redes (atención a la
+  ciudadanía); 6.9: aspirar a mantener y desarrollar «**el lugar principal que ocupa dentro del
+  panorama de la comunicación social digital de Andalucía**».
+- **Art. 7. Expansión digital.** 7.1: «**Será prioritaria la permanente expansión operativa de
+  los medios de Canal Sur en el entorno productivo digital**», con la innovación tecnológica
+  como palanca y presencia en streaming, pódcast, radio digital, canales y portales web. 7.2:
+  refuerzo de la dotación tecnológica y presencia en redes y plataformas de intercambio de vídeo
+  conforme a la Ley 13/2022. 7.3: todo ello forma parte de la misión de servicio público
+  esencial. 7.4: operador de referencia tecnológica en la comunidad, con servicios digitales para
+  la ciudadanía (trámites, smart cities, salud, educación, empleo). 7.5: canales web temáticos,
+  radio online, «televisión conectada», inteligencia artificial, realidad virtual, extendida y
+  aumentada, y pódcast en plataformas propias, conjuntas de operadores públicos y de terceros.
+  7.6: la TDT en alta definición (HD) es «**sistema exclusivo de difusión a partir del 14 de
+  febrero de 2024**»; Canal Sur cooperará en la ultra alta definición (UHD 4K) y en la TDT en
+  movilidad según el espectro disponible. 7.7: las empresas contratadas «**podrán ser
+  instadas**» a adaptar sus producciones a los niveles de prestaciones digitales que fije Canal
+  Sur.
+- **Art. 8. Divulgación de valores cívicos y democráticos.** 8.1: fundamento de la programación
+  es su congruencia con la Constitución, el EAA, la Ley 18/2007, la Ley 10/2018 y la Ley
+  13/2022; y, por su relevancia «conforme a las evaluaciones demoscópicas actuales», se fijan
+  como prioridad **veintiuna** letras, de la a) a la u): a) plena igualdad entre mujeres y
+  hombres; b) erradicación de la violencia de género; c) conciliación de la vida laboral y
+  familiar; d) protección integral de los menores; e) no discriminación, igualdad de
+  oportunidades y accesibilidad universal de las personas con diversidad funcional sensorial;
+  f) atención a las personas mayores; g) atención a las personas en situación de dependencia;
+  h) inclusión social, económica, laboral y cultural de las personas inmigrantes; i) respeto a
+  culturas diferentes y a opiniones alternativas; j) respeto a las minorías; k) respeto a todas
+  las creencias religiosas y a la libertad de conciencia; l) cumplimiento del derecho de
+  rectificación; m) respeto a la diversidad de orientaciones sexuales y a la diversidad social,
+  étnica y cultural; n) dignidad humana, honor, intimidad y propia imagen en soportes digitales;
+  o) no discriminación por causa alguna; p) convivencia armónica, pacífica, solidaria y justa;
+  q) cultura de la paz y del diálogo; r) tolerancia ante toda opción ideológica y política
+  democrática y derecho a discrepar de la mayoría; s) emprendimiento como cultura empresarial;
+  t) tradiciones de notorio arraigo; u) excelencia educativa, formativa y cultural. 8.2:
+  **dieciocho** materias de interés social general, de la a) a la r): acceso a la educación;
+  progreso cultural; patrimonio histórico y cultural de Andalucía; promoción de la salud
+  (incluidas epidemias, pandemias y trastornos alimentarios); salud laboral y prevención de
+  riesgos laborales; avances biomédicos y biotécnicos y bioética; medio rural y marino;
+  deporte, deporte de base, minoritario, adaptado y femenino; derechos de consumidores y
+  usuarios; medio ambiente y cambio climático; ecología; diversidad biológica; investigación
+  científica; I+D+i tecnológica; desarrollo empresarial y emprendimiento; empleo y formación
+  profesional; defensa de los sectores productivos; tradiciones culturales identitarias.
+- **Art. 9. Defensa de la igualdad de la mujer.** 9.1: conforme a los artículos 45.4 de la Ley
+  10/2018, 4.1.f de la Ley 18/2007, y 6 y disposición adicional tercera de la Ley 13/2022, la
+  RTVA y Canal Sur, «**considerando las aportaciones de su Delegación de Igualdad**», aplicarán
+  un enfoque transversal de promoción de la igualdad real y efectiva, evitando estereotipos
+  discriminatorios y lenguaje sexista. 9.2: enfoque integral de igualdad en la gestión interna,
+  conforme a la planificación de igualdad del grupo y a las actuaciones instadas por la
+  Delegación de Igualdad de la RTVA.
+- **Art. 10. Sello distintivo de calidad audiovisual.** 10.1: estándares de calidad técnica y
+  profesional, conformes con la deontología y los códigos de autorregulación. 10.2: los
+  parámetros e indicadores los concreta el contrato-programa, para establecer «**un reconocible
+  y singular sello de calidad**».
+- **Art. 11. Atención a todos los públicos.** 11.1: todos los segmentos de población, vocación de
+  agente de difusión local que atiende a la totalidad territorial y a las cuestiones nacionales
+  e internacionales; públicos minoritarios según las temáticas del contrato-programa. 11.2:
+  contenidos digitales para todos los grupos, según el grado de implantación de tecnologías.
+  11.3: difusión internacional y comunidad emigrante andaluza.
+- **Art. 12. Alfabetización mediática e informacional.** 12.1: acciones permanentes para la
+  recepción crítica y para prevenir fraude, apropiación de datos personales, usurpación de
+  identidad y demás riesgos de las nuevas tecnologías. 12.2: campañas para menores y jóvenes
+  (consumo responsable, pensamiento crítico, desigualdades de acceso rural y la «**brecha
+  participativa**»). 12.3: campañas para mayores, zonas rurales y personas en riesgo de exclusión,
+  contra la brecha digital.
+- **Art. 13. La información como fundamento del servicio público digital audiovisual.** Trece
+  apartados, repartidos en los epígrafes de pluralismo (13.3, 13.5, 13.6, 13.10, 13.11),
+  veracidad (13.4, 13.13), independencia editorial (13.1, 13.2, 13.7), cohesión territorial
+  (13.8, 13.12) y atención a la ciudadanía (13.9).
+- **Art. 14. Agente divulgador de cultura.** Epígrafe de cultura andaluza.
+- **Art. 15. Fomento de los contenidos educativos.** 15.1: función de «**reflejo educacional**»,
+  con criterios de calidad editorial, utilidad social y control responsable de los mensajes.
+  15.2: se tendrán en cuenta las valoraciones de la comunidad educativa (autoridades,
+  profesorado, alumnado, madres y padres, sindicatos) de todas las etapas, conforme al artículo
+  4.3.i de la Ley 18/2007 y 45.2 de la Ley 10/2018. 15.3: contenidos educativos y los valores
+  «**del esfuerzo, del mérito y de la capacidad**». 15.4: acceso a utilidades de la Sociedad de
+  la Información. 15.5: colaboración con las autoridades educativas en herramientas digitales y
+  cesión de contenidos para uso docente. 15.6: apoyo audiovisual con materias curriculares si
+  se interrumpe la docencia presencial en situaciones «urgentes o excepcionales».
+- **Art. 16. Contenidos sobre deportes.** 16.1: apoyo a deportistas y equipos andaluces en
+  modalidades con número significativo de practicantes y aficionados, y a deportes
+  minoritarios, adaptados y de base. 16.2: prioridad de la actividad de las mujeres
+  deportistas y del deporte femenino. 16.3: las retransmisiones dependen de los derechos
+  adquiridos y de la disponibilidad presupuestaria, «**con equilibrio entre los principios de
+  eficiencia en la gestión e interés público**».
+- **Art. 17. Atención a la infancia y a la juventud.** 17.1: la protección de los menores es
+  «**una responsabilidad empresarial, una obligación legal, y una prioridad de actuación**»;
+  franjas horarias, calificación y señalización acústica y óptica, y el Código de
+  Autorregulación sobre contenidos televisivos e infancia. 17.2: programas infantiles y
+  juveniles en los canales o plataformas más adecuados (salud, dieta mediterránea, trastornos
+  alimentarios, relaciones afectivas, seguridad vial, adicciones al juego), evitando violencia y
+  trato degradante o discriminatorio. 17.3: alfabetización mediática, con remisión al artículo
+  12.2.
+- **Art. 18. Atención a las personas mayores y a las de colectivos vulnerables.** 18.1: por la
+  evolución demográfica, las personas mayores serán un colectivo atendido. 18.2: se promoverá
+  la participación activa en los programas dedicados a las personas mayores y a las poblaciones
+  vulnerables. 18.3: personas en riesgo de exclusión social y colectivos vulnerables.
+- **Art. 19. Entretenimiento de calidad.** 19.1: el «**derecho al entretenimiento audiovisual**»
+  de la audiencia, con creatividad, innovación de formatos y atención a grupos mayoritarios y
+  minoritarios. 19.2: nuevos formatos digitales y apoyo a nuevos talentos andaluces.
+- **Art. 20. Divulgación de la cultura de emprendimiento empresarial.** Tratamiento destacado
+  del ámbito universitario, de su relación con el empresarial y de las iniciativas de
+  emprendimiento de los jóvenes, especialmente en I+D+i, tecnologías de la información,
+  inteligencia artificial e Internet.
+- **Art. 21. Divulgación de actividades vinculadas a tradiciones y el turismo.** 21.1:
+  actividades económicas con rasgos identitarios andaluces y fuerte arraigo popular
+  (tradiciones, fiestas y festejos). 21.2: oferta turística de Andalucía, con dimensión
+  internacional por satélite, plataformas y portales web específicos.
+- **Art. 22. Fomento de la actividad cinematográfica y del cine andaluz.** 22.1: prioritaria la
+  cooperación, apoyo, participación y promoción de la actividad cinematográfica en Andalucía.
+  22.2: en el marco del artículo 115 de la Ley 13/2022 y de los artículos 22 a 25 de la Ley
+  10/2018, marca «Cine andaluz», acuerdos con el sector y con la Administración cultural,
+  coproducción local de rodajes internacionales, festivales y premios.
+- **Art. 23. Fomento de la producción del sector audiovisual andaluz.** 23.1: agente motor de la
+  industria, conforme al artículo 4.3.ñ de la Ley 18/2007, los artículos 46.4 y 45.6 de la Ley
+  10/2018, el 118 de la Ley 13/2022 y la Estrategia Andaluza para la Creación Audiovisual y de
+  Contenidos Digitales; la transferencia económica a empresas locales y regionales tiene un
+  «efecto multiplicador». 23.2: contratación de producciones privadas según la tipología del
+  artículo 24.2, con criterios profesionales, decisiones de órganos colegiados y principio de
+  publicidad para que las empresas puedan ofertar «**en igualdad de condiciones**». 23.3:
+  procedimientos reglados de publicidad y transparencia para la financiación anticipada de
+  obras (artículos 118.1 de la Ley 13/2022 y 35.1 de la Ley 10/2018). 23.4: diálogo permanente
+  con las asociaciones del sector.
+- **Art. 24. Producción propia de programas audiovisuales.** 24.1: «**alto grado de producción
+  propia**», con los umbrales del contrato-programa concretados en cada plan anual de actuación
+  del artículo 19.2.b, en concordancia con las letras b) y j) del artículo 17.1 de la Ley
+  18/2007 (el Consejo de Administración determina anualmente el porcentaje de producción
+  propia). 24.2: **tres** modalidades: a) **producción propia**, que puede ser *interna* (con
+  recursos económicos, técnicos y humanos de Canal Sur, que tiene los derechos de explotación) o
+  *externa*, y esta a su vez *financiada mixta* (la RTVA o Canal Sur aportan elementos de la
+  producción que hace otra entidad y adquieren sus derechos) o *financiada* (encargan y
+  financian la obra a una entidad independiente, a otro operador o a una asociación o
+  federación de la que formen parte, y «**asumen la responsabilidad editorial de la obra**»);
+  b) **producción ajena**, de la que se adquieren derechos de emisión o de antena; c)
+  **coproducciones**, en las que la RTVA o Canal Sur participan financieramente con otras
+  entidades. 24.3: contratación con transparencia, publicidad y respeto a los derechos de las
+  empresas.
+- **Art. 25. Accesibilidad audiovisual.** Epígrafe de atención a la ciudadanía.
+- **Art. 26. Atención a la audiencia.** Epígrafe de atención a la ciudadanía.
+- **Art. 27. Archivo y patrimonio audiovisual de la RTVA.** 27.1: el archivo es «**un gran legado
+  que asegura la memoria del mañana sobre la autonomía andaluza**» y Patrimonio Histórico de
+  Andalucía. 27.2: medidas de protección con la Administración autonómica, protocolo de
+  «**acceso gratuito**» para investigadores y comunidad universitaria, y protocolo de cesión para
+  uso privado o comercial.
+- **Art. 28. Estabilidad y suficiencia financiera.** 28.1: el artículo 210 del EAA asegura la
+  financiación pública; la RTVA y Canal Sur tienen un modelo de «**financiación mixta**» (fondos
+  públicos e ingresos comerciales, art. 23 de la Ley 18/2007), y la financiación pública «**habrá
+  de ser estable y suficiente**» (art. 8.2.b de la Ley 18/2007). 28.2 y 28.3: el suelo de
+  transferencias de explotación y de capital (véase «Relación con el contrato-programa»). 28.4:
+  los operadores europeos más eficaces conocen con anticipación su «**suelo financiero**»
+  plurianual. 28.5: ampliación de fuentes de ingresos y de la participación en el mercado de la
+  publicidad.
+- **Art. 29. Modernización de la gestión empresarial.** 29.1: criterios de eficiencia, eficacia,
+  calidad, transparencia, control, evaluación del desempeño y racionalización del gasto; gestión
+  por objetivos con indicadores de rentabilidad social y de desempeño (remisión al 30.2). 29.2:
+  «**principio de unidad operativa de empresa**», convergencia e interoperabilidad de procesos.
+- **Art. 30. Cultura empresarial de evaluación.** 30.1: evaluación constante del cumplimiento
+  normativo, del desempeño y de la calidad y satisfacción de los compromisos de servicio público.
+  30.2: sistema propio de indicadores en el contrato-programa.
+- **Art. 31. Diversificación comercial.** 31.1: gestión comercial conforme al artículo 23 de la
+  Ley 18/2007, con criterios de mercado, competencia leal y el Código de Conducta Comercial de la
+  RTVA. 31.2: nuevas fuentes de ingresos (comunicación comercial digital, producción por encargo,
+  venta de producciones, merchandising, edición musical, aplicaciones, comercio electrónico);
+  con base en el artículo 12.2 de la Ley 18/2007, explotación de producciones ya difundidas en el
+  mercado de radio y televisión de España y de «**América latina**», y consultoría para otras
+  entidades. 31.3: nuevas líneas de negocio conforme a la planificación estratégica (art. 33).
+- **Art. 32. Relaciones laborales.** 32.1: comunicación y diálogo con el personal y con las
+  organizaciones sindicales, conforme a la negociación colectiva; estabilidad en el empleo;
+  formación continua para un plan de carrera; capacitación para la multifuncionalidad
+  «**derivadas de la fusión de sus antiguas sociedades filiales**»; pautas con la parte sindical
+  para la valoración de puestos y evaluaciones de desempeño. 32.2: la salud y seguridad de
+  trabajadores y trabajadoras es «**principio prioritario**», con planificación de la prevención
+  de riesgos laborales.
+- **Art. 33. Planificación estratégica.** Plan estratégico plurianual para modernizar la
+  organización, abrir líneas de negocio, diversificar la producción, optimizar la inversión
+  tecnológica, planificar personal y formación, y evolucionar la comunicación y la cooperación
+  institucional. El umbral temporal lo fija el contrato-programa.
+- **Art. 34. Cooperación institucional y responsabilidad social corporativa.** 34.1: acuerdos con
+  los agentes de la vida pública y privada andaluza y responsabilidad social corporativa. 34.2:
+  especial consideración al ámbito educativo, universitario, formación profesional, cultura,
+  emprendimiento e I+D+i; relaciones con operadores públicos locales de Andalucía, del resto de
+  España, europeos y de territorios con comunidades andaluzas. 34.3: papel proactivo en la
+  «**Federación de Organismos de Radio y Televisión Autonómica (Forta)**» y posible incorporación
+  a organizaciones europeas de entidades audiovisuales públicas. 34.4: divulgación de servicios
+  emergentes y formación de profesionales del sector en capacidades digitales.
+- **Art. 35. Racionalización de infraestructuras y sedes.** 35.1: reordenar infraestructuras y
+  centros de producción para reducir costes. 35.2: sede e instalaciones en la provincia de
+  Sevilla, centros de producción en las demás provincias y «**Delegación en la ciudad de
+  Madrid**». 35.3: finalidades, entre ellas atender a los efectos positivos del «**teletrabajo**».
+  35.4: eficiencia medioambiental y modernización de sedes, conforme a la disponibilidad
+  presupuestaria.
+- **Disposiciones finales.** Primera, supervisión (véase «Control del cumplimiento»); segunda,
+  vigencia 2024-2029 y prórroga; tercera, aplicación desde la aprobación por el Pleno; cuarta,
+  publicación en el BOJA.
