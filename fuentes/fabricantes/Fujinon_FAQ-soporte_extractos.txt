@@ -1,0 +1,28 @@
+FUJINON (Fujifilm North America), página «Support», preguntas frecuentes. https://www.fujinon.com/support/ . Leído el 24-09-2026. Extracto literal (preguntas sobre objetivos de 2/3", extensor y adaptación de monturas).
+
+2/3" Lenses
+What makes a 2/3" lens 4K?
+For a 2/3” lens to be considered “4K,” the lens needs to have more than double the resolving power of an HDTV lens. Broadcast lenses with a resolving power in excess of 100 LPmm (individual lines per millimeter) were considered sharp enough for HDTV production, whereas for your 4K deliverable, that same lens now requires a resolving power in excess of 200 LPmm just to be considered a 4K lens. 
+I don't care about 4K/8K, I want 1080P HDR. Will a modern 2/3" lens give me better HDR?
+Higher quality, sharper lenses will always make your High Dynamic Range content look better, with the understanding that so much of the HDR workflow is dependent on the image processing pipeline for each camera type.
+Lenses designed for 4K and 8K filmmaking are extremely well suited for today’s large format and high resolution sensors, but have an even greater benefit when used for HDR filmmaking. These lenses offer more flare resistance due to the newer designs and latest optical coatings, giving you a dramatic reduction of unwanted reflections, and higher local contrast with an increased level of detail for your production.
+The acquisition of HDR compatible content needs to meet a wide range of requirements that include the camera recording at 10bit or greater color depth recorded in the Rec2020 (preferred) or P3 (acceptable) color spaces prior to it being processed to be considered High Dynamic Range (HDR) content suitable for broadcast.
+Many older broadcast/live event workflows may need to have their early HDTV infrastructure updated to properly address various HDR workflow concerns and constraints. 
+Can I use my old Canon remotes on my new Fujinon 2/3" lens?
+Remote controls designed for a specific broadcast box or field lens are not usually compatible with lenses from different manufacturers. Control cabling varies widely in the broadcast realm, and your new Fujinon lens may have greater functionality or offer expanded data output that may not translate over an aged camera connection. We recommend that any existing camera and lens cabling should be thoroughly tested for compatibility and consistency when adding new equipment to your production workflow. 
+Can I use my old 2/3" lenses on Super 35 cameras?
+Yes, many types of B4 to PL mount expanders are available on the market. Typically, there will be between 1 and 1½ stops less light with any lens expander when changing the image circle of your lens. Remember, too, that it expands not only the image size but also enhances any chromatic aberrations, which may not be suitable for the visual look of your production. 
+What is the difference between 2/3" and Super 35 focal lengths relative to angle of view? 
+Looking at the relative size of each sensor, a 2/3” sensor is about 8.8mm x 6.6 mm, while the size of a S35 sensor is roughly 24mm x 13mm, on average. That means the field of view of a 50mm lens would appear roughly 2.5 times wider on the S35 camera than it would on the 2/3” camera. By using a mount adapter that matches your sensor size, you will keep the same angle of view.
+
+Why does the 2x extender on my broadcast lens reduce the light by 2 stops when I go to 2x?
+Any time you add additional glass elements in the image pathway, those adapters will diminish the light transmission characteristics of your lens. 
+Remember that F-stops are determined by dividing the focal length of your lens by the diameter of the aperture opening. Adding a teleconverter to your lens reduces the amount of light hitting the sensor by the factor of magnification, so a 2x conversion will reduce the light falling on the sensor by two stops.
+Why is it difficult to put different format lenses on various cameras?
+There are a number of factors to consider here. Lenses today can be limited by a camera manufacturer’s proprietary auto focusing and stabilization technologies if they weren’t designed to interconnect with tools outside that manufacturer’s eco-system
+The simpler the lens design, the easier it is to translate to different camera systems. The best example is the PL Mount; it is used across the widest variety of camera systems, and while it was originally designed for ARRI 16mm and 35mm film cameras, it is now used universally across cine-style digital cameras. 
+What is the difference between Super 35 and Full Frame relative to angle of view? 
+A typical S35 camera sensor is roughly 24mm x 13mm while the standard size for Full Frame cameras is considered to be 36mm x 24mm. That makes the crop factor .8x when using the same focal length lens on a larger camera sensor. This is roughly the same size differential for digital still cameras when switching between APS-C and Full Frame camera sensors. 
+Will Fujinon ever make MK Lenses for EF or PL mount cameras?
+We see your comments, messages and forum discussions asking for EF-mount or PL-mount MK lenses, and we hear you. The reason this is not a possibility with the current product is because MK lenses are designed for cameras with a short flange distance, so while you could design a mount adapter to physically mount it, it won’t focus to the sensor. MK lenses are designed for mirrorless cameras. That’s why they can make them small and light. If they worked on EF or PL, they would be a totally differently design—bigger and heavier, like the 
+PL-mount Cabrios. 

@@ -6,30 +6,32 @@
 | --- | --- |
 | **Bloque** | Temario específico de Cámara Operador · punto 2 |
 | **Sirve para** | Puesto 2.8, Cámara Operador (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Sin norma jurídica. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (capítulos 3.17, 5, 6, 8 y 9). Documentación de fabricante: Sony, *PXW-FS5/FS5K Operating Guide* (4-581-849-11(1)). Recomendación EBU R 118 v2 (abril de 2017), para un dato. Lo demás, oficio |
+| **Fuente** | Sin norma jurídica. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (capítulos 3.17, 5, 6, 8 y 9). Documentación de fabricante: Sony, *PXW-FS5/FS5K Operating Guide* (4-581-849-11(1)). Recomendaciones EBU R 95 v1.1 (junio de 2017, zonas seguras) y EBU R 118 v2 (abril de 2017, para un dato); Recomendación UIT-R BT.709-6 (junio de 2015, relación de aspecto). Material didáctico del Instituto de Tecnologías Educativas del Ministerio de Educación (clases de panorámica). Lo demás, oficio |
 | **Redacción que se estudia** | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004, leído el 24/09/2026 |
-| **Extensión** | 10.300 palabras aproximadamente |
+| **Extensión** | 11.300 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
-(**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Canal Sur Televisión (**CSTV**), como
-la llama su Libro de estilo; Unión Europea de Radiodifusión (**EBU**, *European Broadcasting
-Union*, que firma así sus recomendaciones); captación electrónica de noticias (**ENG**, *electronic
-news gathering*); código de tiempo (**TC**, *time code*). Los tamaños de plano se abrevian como en
+(**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Unión Europea de Radiodifusión (**EBU**,
+*European Broadcasting Union*, que firma así sus recomendaciones); Unión Internacional de
+Telecomunicaciones, sector de Radiocomunicaciones (**UIT-R**); televisión de alta definición
+(**TVAD**, como la llama la versión española de la UIT-R); filtro de densidad neutra (**ND**,
+*neutral density*); pantalla de cristal líquido (**LCD**, *liquid crystal display*). Los tamaños
+de plano se abrevian como en
 un guion técnico: gran plano general (**GPG**), plano general (**PG**), plano entero (**PE**), plano
 americano (**PA**), plano medio (**PM**), plano medio corto (**PMC**), primer plano (**PP**),
-primerísimo primer plano (**PPP**) y plano detalle (**PD**). Las cámaras de un plan de cámaras se
-numeran **C-1**, **C-2**…
+primerísimo primer plano (**PPP**) y plano detalle (**PD**).
 
 Términos de otro idioma que usa el oficio y que el tema emplea: continuidad (*raccord*, del
-francés); desplazamiento de cámara (*travelling*); acercamiento y alejamiento óptico (*zoom*);
+francés); desplazamiento de cámara (*travelling*); carro sobre ruedas para el
+*travelling* (*dolly*); raíl corto para desplazamientos pequeños (*slider*); acercamiento y alejamiento óptico (*zoom*);
 cabeceo (*tilt*); balanceo (*roll*); plano inclinado (*dutch angle*); aire de cabeza (*headroom*) y
 aire de mirada (*look room* o *nose room*); corte visible (*jump cut*); vuelta atrás y salto
 adelante en el tiempo (*flashback* y *flashforward*).
 
 Una advertencia sobre la fuente propia: el Libro de estilo de Canal Sur es de 2004 y habla de
-«cinta», de «barras» al principio de la cinta y del «preroll» de la edición lineal. Sus criterios de
+«cinta», de «barras» al principio de la cinta y del «preroll» de una «edición convencional». Sus criterios de
 imagen siguen siendo los únicos publicados por la casa; lo que dependía del soporte de cinta se
 estudia hoy en el tema 7 (formatos, tarjetas e ingesta).
 
@@ -41,13 +43,14 @@ estudia hoy en el tema 7 (formatos, tarjetas e ingesta).
 
 **Qué se puede preguntar.** No hay exámenes anteriores de este puesto. Por el enunciado, un
 tribunal puede preguntar: qué es el encuadre y qué deja fuera; la escala de planos y dónde corta
-cada uno; qué transmiten el picado, el contrapicado, el cenital y el nadir; qué es un plano
+cada uno; la relación de aspecto de emisión y las zonas seguras de acción y de rótulos; qué transmiten el picado, el contrapicado, el cenital y el nadir; qué es un plano
 subjetivo y un escorzo; qué plano pide el Libro de estilo para una entrevista en interior y en
 exterior, dónde se coloca al entrevistado y cuándo puede mirar a cámara; la regla de los tercios,
 el aire de cabeza y de mirada y los factores del peso visual; qué es el eje de acción, la regla de
 los 180 grados y el salto de eje, cuántos ejes de miradas hay entre *n* personas y cómo se cruza el
 eje sin desorientar; qué es el *raccord*, sus clases y los cuatro aspectos que exige el Libro de
-estilo; qué distingue una panorámica, un *travelling* y un *zoom*, qué es la deriva, el barrido y el
+estilo; qué distingue una panorámica, un *travelling* y un *zoom*, las clases de panorámica por su
+función, qué es la deriva, el barrido y el
 *travelling* compensado; qué pide el Libro de estilo sobre el *zoom* y cuánto plano fijo se deja al
 principio y al final de una panorámica; de qué depende la profundidad de campo y cómo se usa para
 separar al sujeto del fondo; qué son toma, plano, escena y secuencia, el plano secuencia, la elipsis,
@@ -66,6 +69,7 @@ respetando el eje, el *raccord* y las duraciones que el montaje necesita.
   - [El punto de vista: objetivo, subjetivo y escorzo](#el-punto-de-vista-objetivo-subjetivo-y-escorzo)
   - [La focal, la distancia y el tamaño de plano](#la-focal-la-distancia-y-el-tamaño-de-plano)
   - [El encuadre en la entrevista y en el directo](#el-encuadre-en-la-entrevista-y-en-el-directo)
+  - [La relación de aspecto y las zonas seguras](#la-relación-de-aspecto-y-las-zonas-seguras)
   - [Las guías de encuadre del visor](#las-guías-de-encuadre-del-visor)
 - [Composición](#composición)
   - [Las reglas de composición](#las-reglas-de-composición)
@@ -269,25 +273,35 @@ de plató (3.17.1):
   mesas, pantallas de ordenador...) y descartaremos aquellos que tengan carácter publicitario o
   comercial, o que contravengan las normas deontológicas. El fondo tenderá a la neutralidad cuando
   sea superfluo y, si es necesario en estos casos, se dejará fuera de foco.**» (3.17.1.2, p. 59).
+- La variedad: «**Encuadre, plano y escenario serán más variados cuanto más extensa sea la propia
+  entrevista o el formato en el que se integrará. Si en un reportaje se prevén varios testimonios de
+  la misma persona, dentro de un criterio uniforme, alguno debe de ser diferente al resto si lo
+  permite el contenido.**» (3.17.1.2, p. 60).
 - La posición en el cuadro: «**Como norma general, el personaje aparecerá levemente a la izquierda
   del encuadre.**» (3.17.1.2, p. 60).
 - La mirada: «**El entrevistado nunca puede mirar directamente a la cámara, salvo en circunstancias
   excepcionales que deben ser autorizadas por la Dirección de los Servicios Informativos, o en los
   casos establecidos: el Rey o el presidente de la Junta de Andalucía en discursos
-  institucionales.**» El periodista se coloca «**frente a él, al lado de la cámara —con los ojos a la
+  institucionales.**» Y sigue: «**No obstante, es necesario alentar la cercanía del personaje.**»
+  Por eso el periodista se coloca «**frente a él, al lado de la cámara —con los ojos a la
   altura del objetivo, o sólo unos centímetros por debajo, y a la derecha de la misma— para que el
   personaje lo mire directamente, casi como si lo hiciera a los ojos del espectador.**» (3.17.1.3,
   p. 60).
 - Sin escorzo: «**El seguimiento escrupuloso de esta norma impedirá la aparición de declaraciones
   con perspectiva lateral o en escorzo. Para evitarlo, el periodista no se colocará al lado del
-  personaje, a quien no permitiremos que sujete el micrófono de mano**» (3.17.1.3, p. 60).
+  personaje, a quien no permitiremos que sujete el micrófono de mano y a quien, bajo ningún concepto,
+  se lo cederemos para que aparezca asiéndolo en pantalla como única referencia.**» (3.17.1.3,
+  p. 60).
 
 Las tres normas casan entre sí (lectura de oficio, no del libro): el entrevistado mira a un
 periodista pegado a la cámara, así que su mirada sale casi a objetivo y ligeramente lateral; al
 colocarlo levemente a un lado del cuadro, el aire de mirada queda del lado hacia el que mira.
 
 Para el periodista en directo, la norma es la contraria: «**Las apariciones en directo se harán
-mirando siempre directamente a cámara, que son los ojos del espectador**» (8.3.2, p. 117). Y sobre
+mirando siempre directamente a cámara, que son los ojos del espectador**» (8.3.2, p. 117). Sobre la
+postura: «**No hay que alinear los pies con las puntas igualadas frontalmente como si estuviéramos en
+posición de firmes, aunque tampoco conviene llegar al punto de aparecer en escorzo o con una
+relajación excesiva.**» (8.3.2, p. 117). Y sobre
 el plano: «**El encuadre y el plano serán acordes con las circunstancias. En un recinto cerrado o
 sin referencias bastará un plano medio, pero lo abriremos si el fondo forma parte del propio
 mensaje o lo refuerza. Un enviado especial se colocará en un punto que permita al espectador
@@ -300,17 +314,50 @@ Fuera de Canal Sur la convención varía: en la ficción no se mira a cámara po
 en el testimonio hay quien prefiere la mirada a cámara porque habla al espectador (oficio). En
 Canal Sur, para el entrevistado, manda la norma del Libro de estilo.
 
+### La relación de aspecto y las zonas seguras
+
+El cuadro de la televisión de alta definición es apaisado: la Recomendación UIT-R BT.709-6 fija
+para su formato de imagen una relación de aspecto «**16:9**», con «**1920**» muestras por línea
+activa, «**1 080**» líneas activas por imagen y píxel cuadrado, «**1:1 (píxeles cuadrados)**» (apartado 2,
+características de imagen, puntos 2.1 a 2.5).
+
+Dentro de ese cuadro, la Unión Europea de Radiodifusión fija dos zonas seguras en su
+Recomendación EBU R 95, *Safe areas for 16:9 television production* (versión 1.1, junio de 2017):
+«**all essential action should be protected inside an Action Safe Area, and all graphics inside a
+Graphics Safe Area**». Su recomendación, dirigida a quien hace programas en 16:9, es encuadrar de
+modo que:
+
+- «**where appropriate, all essential action takes place inside the Action Safe Area**» (lo
+  esencial de la acción, dentro de la zona segura de acción);
+- «**all graphics are framed in the Graphics Safe Area**» (los grafismos y rótulos, dentro de la
+  zona segura de grafismo);
+- «**the centre of the image retains its position throughout all production processes unless there
+  are creative reasons to deliberately do otherwise**» (el centro de la imagen no se desplaza en la
+  cadena de producción).
+
+Las medidas: «**The action safe area is 3.5% and the graphics safe area is 5%, at the top, bottom
+and lateral parts of the image.**» (nota 5). Es un margen en cada borde; restados los dos lados,
+lo seguro para la acción es el 93 % central del ancho y del alto, y para el grafismo, el 90 %
+(resta, no cifra de la norma). La zona de grafismo es, por tanto, la más estrecha. La norma da
+además los valores exactos en líneas y píxeles para 576i, 720p, 1080i/1080psf, 1080p, 2160p y
+4320p (figuras 1 a 6).
+
+Para el operador, la consecuencia es de oficio: la acción esencial no se lleva al borde del cuadro,
+y en el plano que llevará rótulo —el entrevistado en primer plano, por ejemplo— se deja el hueco
+dentro de la zona de grafismo.
+
 ### Las guías de encuadre del visor
 
 Las cámaras ayudan a encuadrar con marcas en el visor que no se graban. En la Sony PXW-FS5, por
-ejemplo (*Operating Guide*, menú de marcadores):
+ejemplo (*Operating Guide*, opción MARKER, p. 132):
 
 - Marcas de relación de aspecto: «**ASPECT [...] 4:3, 13:9, 14:9, 15:9, 1.66:1, 1.85:1, 2.35:1
   Displays markers at boundaries of display area defined by the aspect ratio**». Sirven para
   encuadrar pensando en una emisión o un recorte de otra proporción (oficio).
 - Zona de seguridad: «**SAFETY ZONE [...] 80%, 90%**», en porcentaje del cuadro. Dentro de ella
   conviene que quede lo importante y el hueco del rótulo, por si el borde se pierde en la pantalla
-  o en un recorte (oficio).
+  o en un recorte (oficio). Son las opciones de este fabricante; las zonas normalizadas son las de la EBU R 95, en el
+  epígrafe anterior.
 - Centro: «**CENTER [...] Displays a marker at the center of the LCD screen**».
 
 ## Composición
@@ -399,7 +446,7 @@ Si se colocan dos cámaras, una a cada lado del eje que une a dos personajes, y 
 otra, se produce un salto de eje: todo se invierte lateralmente. El personaje que estaba a la
 izquierda aparece a la derecha, y dos personas que se miraban parecen mirar hacia el mismo lado,
 como si hablaran con alguien que no está, o darse la espalda. El espectador pierde la orientación
-del espacio y lo nota aunque no sepa por qué. Es el error de continuidad más visible que existe
+del espacio y lo nota aunque no sepa por qué. Es uno de los errores de continuidad más visibles
 (oficio).
 
 Lo mismo pasa con el movimiento: un coche que sale de cuadro por la derecha tiene que entrar por la
@@ -533,7 +580,7 @@ varios aspectos**», que son cuatro (6.4, p. 92):
 
 El aspecto técnico es el que más depende del operador: color, brillo y contraste que casen entre
 planos de una misma pieza exigen el mismo balance de blancos y la misma exposición en toda la
-cobertura (temas 1 y 9). El cinético es la regla del eje del epígrafe anterior, dicha con palabras
+cobertura (temas 1 y 9). El cinético es la regla del eje del epígrafe «Eje», dicha con palabras
 de la casa.
 
 ### Las clases de *raccord* en el oficio
@@ -575,7 +622,7 @@ invierno se vean personas con ropa veraniega.**»— y, si hace falta, «**convi
 misma secuencia.**» (6.3.4, p. 91). Y la edición «**tiene que presentar los acontecimientos de forma
 lineal, sin alteraciones chocantes de los planos, la música, los sonidos y los textos. Una ruptura
 en cualquiera de estos sentidos, o en el orden cronológico, no debe acometerse salvo que se haga con
-lógica y sin inducir a la confusión.**» (6.3, p. 92).
+lógica y sin inducir a la confusión.**» (cierre de 6.3, tras 6.3.4, p. 92).
 
 ### El falso *raccord* y el *jump cut*
 
@@ -631,6 +678,24 @@ imagen es ilegible— y salir de otro barrido en el plano siguiente, con lo que 
 invisible. El barrido produce desenfoque de movimiento, pero no es un efecto de desenfoque: es un
 giro de la cámara.
 
+Por su función, el material didáctico del Instituto de Tecnologías Educativas del Ministerio de
+Educación (curso *Multimedia. Aplicaciones didácticas*, «Lenguaje de imagen», «El movimiento de la
+cámara en el espacio», que toma el texto de los *Cuadernos para Secundaria Obligatoria: El cine y la
+televisión* de la Generalitat Valenciana) distingue tres clases de panorámica:
+
+| Clase | Qué hace, según esa fuente |
+|---|---|
+| Descriptiva | «**consiste en un desplazamiento de la cámara para abarcar un escenario, para poderlo contemplar por entero.**» |
+| De acompañamiento | «**cuando el movimiento se justifica por la acción de algún personaje al que se va siguiendo.**» |
+| De relación | «**establece un vínculo entre dos o más elementos visuales de interés.**» |
+
+Y añade: «**Cuando la panorámica se hace de una manera brusca, sin que podamos fijarnos en los
+detalles de los objetos, entonces se denomina barrido.**» La misma fuente extiende la clasificación
+al desplazamiento: «**El travelling también puede ser descriptivo, de acompañamiento o de
+relación.**» A la de acompañamiento se la llama también, en el oficio, panorámica de seguimiento:
+es la que mantiene en cuadro a un sujeto que se mueve. Los manuales no coinciden ni en la lista ni
+en los nombres de estas clases (oficio).
+
 Los soportes con que se hace cada movimiento —trípode, pedestal, grúa, estabilizador corporal,
 cardán, hombro, *slider*, cabezas remotas— se estudian en el tema 4.
 
@@ -677,12 +742,13 @@ Cómo se evita:
 3. Grabar quieto antes de arrancar y después de parar, para que el montaje pueda entrar y salir del
    movimiento y recortar la deriva si ha quedado. Sin ese colchón, no hay remedio.
 
-El Libro de estilo de Canal Sur fija ese colchón: las panorámicas y los *travellings* «**comenzarán
+El Libro de estilo de Canal Sur fija ese colchón: las panorámicas y los *travellings*, «**sobre todo
+las panorámicas**», «**comenzarán
 y finalizarán con un plano fijo de suficiente duración —lo recomendable es, al menos, un margen de
 diez segundos— como para que pueda ser empleados por sí mismos e independientemente del movimiento,
 en la edición final.**» Además, «**es conveniente seguir registrando la imagen al menos durante
 cinco segundos después de recoger la imagen hasta pulsar ‘stop’.**» (5.3.2, p. 81). El libro
-justifica esos cinco segundos con el «preroll» de la edición en cinta; la regla de dejar margen al
+justifica esos cinco segundos con el «preroll» de una «edición convencional», que era la de cinta; la regla de dejar margen al
 final de cada plano sigue sirviendo al montaje (oficio).
 
 Y pide uniformidad: «**Las panorámicas y 'travellings' tienen que ser grabadas con uniformidad
@@ -710,7 +776,8 @@ El Libro de estilo es restrictivo con el movimiento en informativos:
   trípode**» (3.17.1, p. 59).
 - Barridos y *zoom* rápido, sólo con intención y en formatos que los admitan (5.2, p. 80; citado en
   «La composición en el informativo»).
-- En sucesos, la cámara en mano puede sonar a ficción: «**La imagen oscilante ‘cámara en mano’, una
+- En los reportajes de sucesos (el libro lo dice en su apartado 9.2, «Malos tratos», dentro del capítulo 9, «Asuntos comprometidos»), la cámara en
+  mano puede sonar a ficción: «**La imagen oscilante ‘cámara en mano’, una
   música tópica, un virado a blanco y negro... evocan inevitablemente escenas ficticias de misterio,
   terror... o de una película. Y la información sólo habla de realidad.**» (9.2.12.4, p. 130).
 
@@ -771,8 +838,8 @@ una intención previa**» (5.2, p. 80).
 
 En reportaje, la profundidad de campo también es un margen de seguridad: con mucha profundidad, un
 error de foco o un sujeto que se mueve siguen dentro de lo nítido; con poca, cualquier movimiento lo
-saca de foco (oficio). Por eso los informativos han trabajado durante décadas con sensores pequeños
-y por eso, con sensores grandes, el foco pide más cuidado y las ayudas al enfoque del tema 1.
+saca de foco (oficio). Por eso, con sensores grandes, que dan menos profundidad a igual encuadre, el
+foco pide más cuidado y las ayudas al enfoque del tema 1.
 
 ## Narrativa de imagen
 
@@ -840,8 +907,7 @@ entra en la oficina: el trayecto no se cuenta y nadie lo echa de menos. La elips
 tiempo transcurrido es lo omitido. Casi todo relato audiovisual es elíptico, y la elipsis es lo que
 permite resumir un día en un minuto.
 
-La prolepsis y la analepsis no quitan: reordenan. Las separa una palabra —posterior o anterior— y la
-raíz griega ayuda: *pro-* es «hacia delante», *ana-* es «hacia atrás».
+La prolepsis y la analepsis no quitan: reordenan. Las separa una palabra: posterior o anterior.
 
 Los recursos con que se marca una elipsis:
 
@@ -942,8 +1008,12 @@ cobertura multicámara como técnica, en el tema 15.
 ### Imagen y realidad
 
 La narrativa del informativo tiene un límite que no tiene la ficción: contar la realidad. El Libro de
-estilo lo recuerda al hablar de reconstrucciones de sucesos: «**En caso necesario, podemos usar una
-imagen subjetiva de cámara para reconstruir los hechos a través de sus escenarios, sin la referencia
+estilo lo recuerda al hablar de reconstrucciones, en su apartado 9.2, sobre malos tratos. Primero, la cautela: «**El sistema es
+poco recomendable, especialmente en un informativo diario porque suele incidir en detalles
+truculentos e imágenes escabrosas que, lejos de inducir al rechazo, fomentan una forma reprobable de
+espectáculo. También es arriesgado el recurso de usar escenas cinematográficas como ilustración
+porque acentúan en el espectador la sensación de irrealidad.**» Después, la salida: «**En caso
+necesario, podemos usar una imagen subjetiva de cámara para reconstruir los hechos a través de sus escenarios, sin la referencia
 principal de ningún personaje o actor. No obstante, cuando el recurso de un montaje de ficción sea
 inevitable, es obligatorio que, durante todo el tiempo de aparición de las imágenes en pantalla,
 figure el rótulo ‘Reconstrucción’.**» (9.2.12.3, p. 130).
@@ -965,10 +1035,18 @@ No hay norma jurídica que regule este tema. Los documentos que cita:
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004: apartados
   3.17.1 (entrevista fuera de plató), 5.1 a 5.3.2 (captación de la información), 6.2 a 6.4
   (preparación, montaje y *raccord*), 8.3.2 (presencia en directo) y 9.2.12.3-9.2.12.4
-  (reconstrucciones y recursos estéticos en sucesos). Es el criterio publicado de la casa; no es
+  (reconstrucciones y recursos estéticos, en el apartado 9.2, «Malos tratos», del capítulo 9). Es el criterio publicado de la casa; no es
   una norma jurídica.
 - EBU R 118 v2, *Tiering of Cameras for use in Television Production*, Ginebra, abril de 2017,
   § 3.1.5: el *aliasing* en movimiento.
+- EBU R 95 v1.1, *Safe areas for 16:9 television production*, Ginebra, junio de 2017: zonas
+  seguras de acción y de grafismo y centro de la imagen.
+- Recomendación UIT-R BT.709-6 (06/2015), *Valores de los parámetros de la norma de TVAD para la
+  producción y el intercambio internacional de programas*, apartado 2: relación de aspecto 16:9.
+- Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1), p. 132: marcas del visor.
+- Instituto de Tecnologías Educativas (Ministerio de Educación), curso *Multimedia. Aplicaciones
+  didácticas*, «Lenguaje de imagen», «El movimiento de la cámara en el espacio»: clases de
+  panorámica.
 
 ## Lo que este tema no da, y dónde está
 
@@ -993,21 +1071,25 @@ Todas las fuentes se leyeron el 24/09/2026.
 
 | Fuente | Qué sostiene |
 |---|---|
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004, 3.17.1 a 3.17.1.4 (pp. 59-60) | Plano, encuadre, fondo, posición en el cuadro, mirada y recursos de la entrevista; trípode |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004, 3.17.1 a 3.17.1.4 (pp. 59-60) | Plano, encuadre, fondo, variedad de encuadre y de testimonios, posición en el cuadro, mirada, cercanía y recursos de la entrevista; trípode |
 | Íd., 5.1 a 5.3.2 (pp. 79-81) | Criterio del cámara; cuatro condiciones de la grabación; trípode y hombro; composiciones extravagantes; innovaciones; encuadre; planos y minutos útiles por noticia; el plano; movimientos, *zoom*, plano fijo de diez segundos y cinco segundos finales |
 | Íd., 6.2 y 6.3 a 6.3.4 (pp. 89-92) | Selección de planos, cuatro condiciones del montaje, duración mínima de plano, archivo, linealidad |
 | Íd., 6.4 (p. 92) | *Raccord* y sus cuatro aspectos |
-| Íd., 8.3.2 (p. 117) | Mirada a cámara y encuadre del periodista en directo |
-| Íd., 9.2.12.3 y 9.2.12.4 (p. 130) | Reconstrucción con imagen subjetiva y rótulo; cámara en mano en sucesos |
-| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1) | Marcas de aspecto, zona de seguridad y centro |
+| Íd., 8.3.2 (p. 117) | Mirada a cámara, postura sin escorzo y encuadre del periodista en directo |
+| Íd., 9.2.12.3 y 9.2.12.4 (p. 130) | Reconstrucción poco recomendable, escenas cinematográficas, imagen subjetiva y rótulo; cámara en mano en sucesos |
+| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1), p. 132 | Marcas de aspecto, zona de seguridad y centro, que no se graban |
 | EBU R 118 v2 (abril de 2017), § 3.1.5 | *Aliasing* en movimiento |
+| EBU R 95 v1.1 (junio de 2017), introducción, recomendación y nota 5 | Zonas seguras de acción (3,5 %) y de grafismo (5 %) por borde; centro de la imagen; formatos de las figuras 1 a 6 |
+| Recomendación UIT-R BT.709-6 (06/2015), apartado 2, puntos 2.1 a 2.5 | Relación de aspecto 16:9, 1 920 × 1 080, píxel cuadrado |
+| Instituto de Tecnologías Educativas, *Multimedia. Aplicaciones didácticas*, «El movimiento de la cámara en el espacio» | Panorámica descriptiva, de acompañamiento y de relación; barrido; *travelling* con las mismas clases |
 
 **Oficio sin norma detrás**, y así se declara: la definición de encuadre y fuera de campo; los tamaños
 de plano con sus cortes; la angulación y su carga de sentido; el plano inclinado; los planos
 objetivo, subjetivo y escorzo; la relación entre focal, distancia y tamaño de plano; las reglas de
 composición y la tabla del peso visual; el eje, sus clases, la regla de los 180 grados, los recursos
 para cruzarlo y su aplicación en multicámara; las clases de *raccord*, el falso *raccord* y el *jump
-cut*; las familias de movimiento, el barrido, el *travelling* compensado y la deriva; los factores y
+cut*; las familias de movimiento, el barrido, el *travelling* compensado y la deriva; el
+nombre de panorámica de seguimiento; el uso de las zonas seguras al encuadrar; los factores y
 el uso expresivo de la profundidad de campo y el cambio de foco; las unidades del relato, el plano
 secuencia, la elipsis, la analepsis y la prolepsis; y la comparación entre una cámara y multicámara.
 La cuenta de los ejes de miradas es combinatoria elemental, *n*(*n* − 1)/2, y la media de segundos

@@ -2093,23 +2093,33 @@ BLOQUES["canal-sur-comun"] = dict(
 )
 
 
-BLOQUES["canal-sur-34-redactor"] = dict(
-    BLOQUES["canal-sur-comun"],
-    carpeta="canal-sur-especificos/34-redactor-a",
-    rotulo="Temario específico · Redactor/a · Canal Sur",
-    titulo="Redactor/a",
-    subtitulo="Los veinte temas del <b>temario específico</b> del puesto de Redactor/a<br>"
-              "de la convocatoria de la RTVA y Canal Sur Radio y Televisión",
-    pie="Oposiciones Canal Sur – Redactor/a",
-    aviso_portada=(
-        "<p><b>Dos documentos que cita el programa no están al día en fuente pública.</b> El "
-        "<b>Estatuto profesional</b> vigente de la RTVA no está publicado, y el <b>Libro de "
-        "estilo</b> de Canal Sur es de 2004 y cita normas hoy derogadas: los temas lo dicen y "
-        "dan lo que sí consta.</p>"),
-    temas=[(os.path.basename(f)[:-3], None) for f in sorted(glob.glob(os.path.join(
-        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-        "temas/canal-sur-especificos/34-redactor-a/[0-9][0-9]-*.md")))],
-)
+def _puesto_canal_sur(slug, nombre, aviso):
+    """Bloque del volumen de un puesto específico de Canal Sur, con los temas que
+    haya en su carpeta."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    return dict(
+        BLOQUES["canal-sur-comun"],
+        carpeta="canal-sur-especificos/" + slug,
+        rotulo="Temario específico · %s · Canal Sur" % nombre,
+        titulo=nombre,
+        subtitulo="Los temas del <b>temario específico</b> del puesto de %s<br>"
+                  "de la convocatoria de la RTVA y Canal Sur Radio y Televisión" % nombre,
+        pie="Oposiciones Canal Sur – %s" % nombre,
+        aviso_portada=aviso,
+        temas=[(os.path.basename(f)[:-3], None) for f in sorted(glob.glob(os.path.join(
+            raiz, "temas/canal-sur-especificos", slug, "[0-9][0-9]-*.md")))],
+    )
+
+
+BLOQUES["canal-sur-34-redactor"] = _puesto_canal_sur("34-redactor-a", "Redactor/a", (
+    "<p><b>Dos documentos que cita el programa no están al día en fuente pública.</b> El "
+    "<b>Estatuto profesional</b> vigente de la RTVA no está publicado, y el <b>Libro de "
+    "estilo</b> de Canal Sur es de 2004 y cita normas hoy derogadas: los temas lo dicen y "
+    "dan lo que sí consta.</p>"))
+BLOQUES["canal-sur-08-camara"] = _puesto_canal_sur("08-camara-operador", "Cámara Operador", (
+    "<p><b>Los procedimientos internos de Canal Sur</b> (equipos concretos, protocolos de "
+    "ingesta y de seguridad propios) no constan en documento publicado: los temas dan la "
+    "técnica y la norma, y lo dicen donde falta lo propio de la casa.</p>"))
 
 
 def ruta_tema(carpeta, base):

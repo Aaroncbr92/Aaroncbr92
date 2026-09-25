@@ -6,16 +6,16 @@
 | --- | --- |
 | **Bloque** | Temario específico de Cámara Operador · punto 5 |
 | **Sirve para** | Puesto 2.8, Cámara Operador (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Sin norma jurídica. Recomendaciones UIT-R BT.709-6 y BT.2020-2 (blanco de referencia D65; frecuencia de trama e iluminación); EBU Tech 3355 (marzo de 2017), índice TLCI. Documentación de fabricante: Sony, *PXW-Z200/HXR-NX800 Help Guide* (5-060-574-13(1), 2024); Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual* (noviembre de 2021); Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B); ficha del Astera Titan Tube y su informe de ensayo IEC 62471 (29 de mayo de 2026). Lo demás, oficio y cálculo |
+| **Fuente** | Sin norma jurídica. Recomendaciones UIT-R BT.709-6 y BT.2020-2 (blanco de referencia D65; frecuencia de trama e iluminación); EBU Tech 3355 (marzo de 2017), índice TLCI. Documentación de fabricante: Sony, *PXW-Z200/HXR-NX800 Help Guide* (5-060-574-13(1), 2024); Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual* (noviembre de 2021); Sony, *PXW-Z100 Operating Guide* (4-484-009-11(1), 2013); Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B); ficha del Sekonic SpectroMaster C-800; Adobe, *High key lighting vs low key lighting in videography*; ficha del Astera Titan Tube y su informe de ensayo IEC 62471 (29 de mayo de 2026). Lo demás, oficio y cálculo |
 | **Redacción que se estudia** | Las ediciones vigentes el 24/09/2026: BT.709-6, BT.2020-2 y EBU Tech 3355 de 2017 |
-| **Extensión** | 7.300 palabras aproximadamente |
+| **Extensión** | 8.600 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
 (**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Sector de Radiocomunicaciones de la
 Unión Internacional de Telecomunicaciones (**UIT-R**); Unión Europea de Radiodifusión (**EBU**,
-*European Broadcasting Union*); Comisión Internacional de la Iluminación (**CIE**); captación
+*European Broadcasting Union*); captación
 electrónica de noticias (**ENG**, *electronic news gathering*); diodo emisor de luz (**LED**,
 *light-emitting diode*); lámpara de haluros metálicos (**HMI**, *hydrargyrum medium-arc iodide*);
 filtro de corrección hacia el naranja (**CTO**, *colour temperature orange*) y hacia el azul
@@ -24,13 +24,14 @@ reproducción cromática (**IRC**, en inglés *CRI*, *colour rendering index*, c
 escribe **Ra**); índice de consistencia de la iluminación para televisión (**TLCI**, *television
 lighting consistency index*); protocolo de control de luces por multiplexado digital (**DMX**);
 pantalla de cristal líquido (**LCD**, *liquid crystal display*) e interfaz digital serie (**SDI**,
-*serial digital interface*), que aparecen en una cita de fabricante; kelvin (**K**), unidad de la
+*serial digital interface*), que aparecen en una cita de fabricante; Comisión Electrotécnica Internacional (**IEC**, *International Electrotechnical
+Commission*) y norma europea (**EN**), en la cita de una norma de seguridad; kelvin (**K**), unidad de la
 temperatura de color; mired (grado micro-recíproco, *micro reciprocal
 degree*), unidad de la desviación de color de un filtro; lux (**lx**), lumen (**lm**) y candela
 (**cd**); número f (**f**) del diafragma; hercio (**Hz**).
 
 Los rótulos de menú se escriben tal como los imprime el fabricante (***Tint***, ***Flicker
-Reduce***, ***ATW***…): son rótulos de la máquina, no siglas.
+Reduce***…): son rótulos de la máquina, no siglas.
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.8, punto 5):
@@ -42,10 +43,11 @@ Reduce***, ***ATW***…): son rótulos de la máquina, no siglas.
 tribunal puede preguntar: qué es la temperatura de color y si a más kelvin la luz es más azul o más
 roja; qué temperatura tienen el tungsteno de estudio y la luz de día; qué es el blanco D65; cómo se
 pasa de kelvin a mired y por qué los filtros se miden en mired; qué hace un CTO y qué hace un CTB;
-cómo se corrige la dominante verde; qué mide el TLCI; qué es una relación de contraste, cuántos
-pasos son 4:1 u 8:1 y qué luz baja el contraste; de qué depende la dureza de una sombra; dónde van
+cómo se corrige la dominante verde; con qué se mide la temperatura de color de una fuente; qué mide
+el TLCI; qué es una relación de contraste, cuántos pasos son 4:1 u 8:1 y qué luz baja el contraste;
+qué son la clave alta y la clave baja; de qué depende la dureza de una sombra; dónde van
 la luz principal, el relleno y el contraluz; qué son una bandera, un velo o un rebotador; cuánto cae
-la luz al doblar la distancia; cómo se resuelve un interior con ventana; por qué parpadea la imagen
+la luz al doblar la distancia; cómo cambian la luz y las sombras con la altura del sol; cómo se resuelve un interior con ventana; por qué parpadea la imagen
 con luz de LED o fluorescente. En la prueba práctica: iluminar una entrevista con un equipo ligero,
 igualar el color de fuentes mezcladas y exponer contra una ventana.
 
@@ -64,12 +66,14 @@ igualar el color de fuentes mezcladas y exponer contra una ventana.
   - [El balance de blancos frente a la luz](#el-balance-de-blancos-frente-a-la-luz)
   - [El mired](#el-mired)
   - [Los filtros de conversión: CTO y CTB](#los-filtros-de-conversión-cto-y-ctb)
+  - [Medir el color de una fuente](#medir-el-color-de-una-fuente)
   - [La dominante verde y la mezcla de fuentes](#la-dominante-verde-y-la-mezcla-de-fuentes)
   - [La fidelidad de color: IRC y TLCI](#la-fidelidad-de-color-irc-y-tlci)
 - [Contraste](#contraste)
   - [La relación de contraste](#la-relación-de-contraste)
   - [Medir el contraste en pasos](#medir-el-contraste-en-pasos)
   - [Bajar o subir el contraste](#bajar-o-subir-el-contraste)
+  - [Clave alta y clave baja](#clave-alta-y-clave-baja)
   - [El contraste que admite la cámara](#el-contraste-que-admite-la-cámara)
 - [Sombras](#sombras)
   - [Luz dura y luz suave](#luz-dura-y-luz-suave)
@@ -187,23 +191,22 @@ ideal) para que emitiese luz del mismo tono que la fuente que se describe. Se mi
 escala tiene una particularidad que descoloca: a más kelvin, más azul; a menos kelvin, más rojiza la
 luz.
 
-| Fuente | Temperatura de color aproximada | Tono |
-|---|---|---|
-| Llama de vela | 1.800 K | Muy cálido |
-| Lámpara doméstica incandescente | 2.700 K | Cálido |
-| Lámpara de estudio de tungsteno-halógeno | 3.200 K | Cálido: el patrón de interior |
-| Amanecer y atardecer | 3.000 – 4.000 K | Cálido |
-| Fluorescente de blanco frío | 4.000 K | Neutro |
-| Luz de día fotográfica | 5.500 K | Neutro-frío: el patrón de exterior |
-| HMI y LED de luz día | 5.600 K | Neutro-frío |
-| Blanco de referencia D65 de televisión | 6.500 K | Frío |
-| Cielo cubierto | 6.500 – 7.500 K | Azulado |
-| Sombra a cielo abierto | 8.000 – 10.000 K | Muy azulado |
+| Fuente | Temperatura de color | Tono | Quién la da |
+|---|---|---|---|
+| Llama de vela | Sin cifra única | Cálido | Blackmagic: «**a candle flame emits a warm color**» |
+| Lámpara de tungsteno | 3.200 K | Cálido: el patrón de interior | Preajustes de Canon XF605 y Blackmagic URSA Broadcast G2 |
+| Fluorescente | 4.000 K | Neutro | Preajuste de la Blackmagic |
+| Luz mezclada | 4.500 K | Neutro | Preajuste de la Blackmagic |
+| Luz de día | 5.500-5.600 K | Neutro-frío: el patrón de exterior | Preajustes de Canon y Blackmagic (5.600 K) y de Sony en modo log (5.500 K) |
+| Cielo nublado | 6.500 K | Frío | Preajuste de la Blackmagic; «**an overcast sky emits a cool color**» |
+| Blanco de referencia D65 de televisión | Unos 6.500 K | Frío | Coordenadas de la UIT-R y tabla de la luz de día de la EBU (epígrafe siguiente) |
 
-Las cifras son aproximadas y así se declaran (oficio): una lámpara de estudio se especifica en
-3.200 K y un HMI o un LED de día en 5.600 K, pero una vela, una bombilla doméstica o un cielo
-cubierto no tienen una cifra única; dependen del ejemplar, de la hora y del tiempo. Lo que la tabla
-sostiene sin margen de duda es el orden y los dos patrones del oficio: 3.200 K y 5.500-5.600 K.
+La URSA Broadcast G2 trae esos cinco preajustes: «**Bright sunlight (5600K)**», «**Incandescent
+bulbs (3200K)**», «**Fluorescent bulbs (4000K)**», «**Mixed light (4500K)**» y «**Cloud (6500K)**».
+Son valores de referencia de un fabricante, no medidas: una vela, una bombilla doméstica, un
+amanecer o una sombra a cielo abierto no tienen una cifra única, y dependen del ejemplar, de la hora
+y del tiempo. Lo que la tabla sostiene sin margen de duda es el orden y los dos patrones del oficio:
+3.200 K y 5.500-5.600 K.
 Toda la práctica consiste en llevar las fuentes de una escena a uno de los dos, o a un tercero
 elegido, para que el balance de blancos de la cámara tenga una sola referencia.
 
@@ -218,16 +221,20 @@ remedio óptico, en la fuente o en la cámara.
 Hay dos cifras de «blanco de día», de dos mundos distintos, y las dos son verdad en el suyo:
 
 - 5.500-5.600 K es la luz de día de la fotografía y de la luminotecnia: el patrón al que se
-  equilibran los focos de haluros metálicos y los LED de día. Los preajustes de las cámaras usan esta
+  equilibran los focos de haluros metálicos y los LED de día (oficio). Los preajustes de las cámaras usan esta
   referencia: la Canon XF605 trae «**daylight, 5,600 K**» y «**tungsten lamp, 3,200 K**», con la
   advertencia de que «**Color temperatures are approximate and given only as a reference.**»; la
-  Sony PXW-Z200 ofrece en modo estándar «**[→3200K]**», «**[→4300K]**», «**[→5600K]**» y
+  Sony PXW-Z200 ofrece en su modo de grabación personalizada (*Custom*) «**[→3200K]**», «**[→4300K]**», «**[→5600K]**» y
   «**[→6300K]**».
-- 6.500 K es el blanco de referencia de la televisión, el iluminante D65 de la CIE. No es una luz
+- 6.500 K es el blanco de referencia de la televisión, el iluminante D65 (la EBU lo llama
+  «**Illuminant D65**»). No es una luz
   que se ponga en un plató: es el blanco de la pantalla y de la señal. La Recomendación UIT-R
   BT.709-6 lo fija con sus coordenadas de cromaticidad, «**Cromaticidad supuesta para señales
   primarias iguales (Blanco de referencia) D65**», **x = 0,3127** e **y = 0,3290**, y la BT.2020-2
-  repite las mismas: «**Blanco de referencia (D65)**», **0,3127** y **0,3290**.
+  repite las mismas: «**Blanco de referencia (D65)**», **0,3127** y **0,3290**. Que esas
+  coordenadas son las de una luz de día de unos 6.500 K se comprueba en la tabla de radiadores de luz
+  de día («**Daylight radiators**») de la EBU Tech 3355: a **6500** K le da **0.312787** y
+  **0.329205**.
 
 Si una pregunta habla de iluminar, la luz de día son 5.500-5.600 K; si habla del blanco de la señal
 o del monitor, es D65.
@@ -261,14 +268,14 @@ valor fijo que se suma o se resta, sea cual sea la fuente (cálculo).
 
 | Temperatura de color | Valor en mired (cálculo) |
 |---|---|
-| 1.800 K (vela) | 556 |
+| 1.800 K | 556 |
 | 2.700 K | 370 |
 | 3.200 K (tungsteno de estudio) | 312,5 |
 | 4.000 K | 250 |
 | 5.600 K (luz de día) | 178,6 |
 | 6.000 K | 166,7 |
 | 6.500 K (D65) | 153,8 |
-| 10.000 K (sombra) | 100 |
+| 10.000 K | 100 |
 
 La escala va al revés que la de kelvin: a más kelvin, menos mired. La temperatura más alta es el
 número de mired más pequeño.
@@ -309,6 +316,21 @@ El gel es el dispositivo que se pone delante del foco precisamente para ajustar 
 color. El regulador de intensidad no lo es, aunque en tungsteno la desplace (epígrafe «Luz
 artificial»); el difusor y el reflector no tocan el color.
 
+### Medir el color de una fuente
+
+Antes de elegir un gel hay que saber qué temperatura de color da de verdad cada fuente, porque las
+cifras de las tablas son de referencia. El instrumento es el medidor de color (en el oficio,
+termocolorímetro), que no es el fotómetro: el fotómetro mide cantidad de luz y el medidor de color
+mide su tono. Un ejemplo es el Sekonic SpectroMaster C-800, que su ficha presenta como
+«**Spectrometer (Color Meter)**» y a la vez «**Illuminance Meter**». La ficha dice que «**Measures Color Temperature (K)**» y «**Provides Color Compensation Data**»;
+tiene un modo «**Filter (Lighting/Camera)**» y permite elegir la marca de filtros («**filter brand
+selection**»); mide «**every light source (LED, HMI, Fluorescent and the natural light spectrum)**»
+y da también índices de fidelidad como el IRC y el TLCI.
+
+El uso en rodaje (oficio): se mide cada fuente con el sensor en el sitio del sujeto, se elige cuál
+manda y el medidor da la corrección, en mired o en referencia de gel, para llevar las demás a ella;
+lo que no se puede medir se juzga en cámara con el balance de blancos sobre carta y el monitor.
+
 ### La dominante verde y la mezcla de fuentes
 
 Algunas fuentes de descarga y algunos LED no emiten como un cuerpo negro: su luz, además de más o
@@ -319,6 +341,13 @@ la mezcla con otras fuentes, porque sólo iguala una. Hay dos remedios (oficio):
   con los fluorescentes del local cuando no se pueden apagar.
 - En la cámara: el eje verde-magenta del balance (***Tint*** en la Z200), válido cuando toda la luz
   de la escena tiene la misma dominante.
+
+El alumbrado público de descarga es el caso extremo. Las lámparas de sodio y de mercurio salen en los
+manuales de cámara por dos motivos: el parpadeo (epígrafe «El parpadeo») y el balance de blancos,
+para el que la Sony PXW-Z100 propone el preajuste de interior («**Under sodium lamps or mercury
+lamps**»), y avisa de que con esas lámparas la imagen «**may flicker or change colors**». En un
+directo nocturno bajo farolas, la luz propia del equipo sobre el rostro se equilibra y el fondo se
+acepta con su color (oficio).
 
 La regla con fuentes mezcladas: elegir cuál manda (la que no se puede cambiar: la ventana, los
 tubos del techo, el sol) y llevar todas las demás a ella con geles; después, balance de blancos
@@ -337,11 +366,14 @@ Lo que dice la EBU del TLCI (Tech 3355, marzo de 2017):
   separating luminaires into those which are correctable for television use, and those which are
   not.**» Es decir, 50 es la frontera entre las fuentes que se pueden corregir para televisión y las
   que no.
-- Da dos lecturas del valor según el tipo de trabajo: producción con posproducción («**drama,
-  wildlife and any production where significant post-processing is involved**») y «**Live
-  multi-camera production [...] such as sport and news where pictures have no post-processing and
-  the pictures are required only to be credible**», con la salvedad de que «**these opinions do not
-  form hard definitions; there is considerable overlap**».
+- Da dos lecturas del valor según el tipo de trabajo. La primera, «**Film-style production, where
+  possibly different cameras, locations and lighting need to be intercut or mixed**», propia de
+  «**drama, wildlife and any production where significant post-processing is involved and pictures
+  are required to match each other well**»; la segunda, «**Live multi-camera production**», propia
+  de la producción en directo «**such as sport and news where pictures have no post-processing and
+  the pictures are required only to be credible**». Es decir: en la primera las imágenes tienen que
+  casar entre sí; en la segunda basta con que resulten creíbles. Y añade la salvedad de que «**these
+  opinions do not form hard definitions; there is considerable overlap**».
 - Y advierte de que la cifra no tiene un sentido absoluto: «**Neither the CRI nor the original work
   of Sproson and Taylor on the TLCI give any meaning to the computed value for Ra or Qa.**»
 
@@ -405,6 +437,22 @@ ninguno:
 | Sube la luz principal | Sube | Es la que crea la sombra |
 | Pone una bandera en el lado de sombra, o un reflector negro | Sube | Quita luz de la sombra (relleno negativo) |
 | Sube el contraluz | No cambia la razón del rostro | Dibuja el borde; no toca la zona de sombra |
+
+### Clave alta y clave baja
+
+La razón de contraste da nombre a dos estilos de iluminación. Los define así Adobe (*High key
+lighting vs low key lighting in videography*):
+
+| | Clave alta (*high key*) | Clave baja (*low key*) |
+|---|---|---|
+| Qué es | «**High-key lighting reduces the lighting ratio in the scene, meaning there's less contrast between the darker tones and the brighter areas.**» | «**low-key lighting has greater contrast between the dark and light areas of the image with a majority of the scene in shadow.**» |
+| Cómo se consigue | «**brightly lit subjects with more fill light and softer shadows**» | Poco relleno y luz dirigida: el relleno bajo y las banderas suben el contraste (tabla del epígrafe anterior; oficio) |
+| Razón de contraste | Baja: próxima a 2:1 o menos (oficio) | Alta: 8:1 y más (oficio) |
+| Tono de la imagen | Predominan los tonos claros (oficio) | «**a majority of the scene in shadow**» |
+
+La relación con la razón de contraste es directa: la clave alta es una razón de contraste baja con
+mucho relleno, y la clave baja una razón alta con poco relleno. La iluminación de plató de
+informativos y de magacín tira a clave alta; la clave baja es la del efecto y la ficción (oficio).
 
 ### El contraste que admite la cámara
 
@@ -540,9 +588,31 @@ Las decisiones de oficio con sol directo:
 
 ### La luz natural cambia
 
-La luz de día no tiene una temperatura fija: va de unos 3.000-4.000 K al amanecer y al atardecer a
-unos 10.000 K en una sombra a cielo abierto (tabla del epígrafe «Qué es»). Cambia también de
-dirección y de dureza con la hora y con las nubes. Consecuencias en cámara (oficio):
+La luz de día no tiene una temperatura fija: es más cálida al amanecer y al atardecer y más fría con
+cielo nublado o en una sombra a cielo abierto, que sólo recibe la luz azulada del cielo (oficio; la
+cifra de cada caso varía con la hora y el tiempo). Cambia también de
+dirección y de dureza con la hora y con las nubes.
+
+La altura del sol sobre el horizonte decide la dirección de la luz y la longitud de las sombras
+(oficio; las longitudes son cálculo, longitud de la sombra = altura del objeto / tangente de la
+altura del sol):
+
+| Momento | Sol | Luz | Sombra de un objeto de altura h |
+|---|---|---|---|
+| Amanecer y atardecer | Bajo, a unos 10° | Rasante, lateral o de frente, más cálida | Larga: unas 5,7 h |
+| Media mañana y media tarde | A unos 30-45° | Lateral alta: la más fácil de usar como principal o contraluz | De 1,7 h a h |
+| Mediodía con el sol alto | A 60° o más | Cenital y dura: ojos hundidos en sombra | Corta: 0,6 h o menos |
+
+Las alturas de la tabla son ejemplos: la que alcanza el sol a cada hora depende de la fecha y de la
+latitud.
+
+Con el sol bajo, la luz rasante marca la textura y las sombras largas cruzan el cuadro; con el sol
+alto, la cara se ilumina desde arriba y se rellena con un rebotador desde abajo o se busca sombra
+abierta. El fabricante recoge la hora cálida en los preajustes: la Sony PXW-Z100 propone el
+preajuste de exterior («**“Outdoor” (5 600K)**») para «**Recording sunset/sunrise, just after sunset or just before
+sunrise**», es decir, sin compensar el color cálido de esas horas.
+
+Consecuencias en cámara (oficio):
 
 - El balance de blancos se rehace cuando cambia la luz, no se deja en automático continuo si la
   pieza se va a montar (tema 1).
@@ -614,7 +684,8 @@ Bajar la intensidad no es lo mismo en todas las fuentes (oficio):
 - En tungsteno, bajar el regulador enrojece la luz, porque el filamento se enfría: la temperatura de
   color baja. Es un efecto colateral indeseado, el motivo por el que en televisión se evita regular
   por debajo de cierto punto, y no una manera de ajustar la temperatura de color.
-- En LED, el regulador baja la intensidad sin mover el color.
+- En LED, el regulador baja la intensidad y en principio no mueve el color como en el tungsteno;
+  si lo mueve o no depende del aparato, y se comprueba en cámara.
 - En un foco que no se puede regular, la intensidad se baja con distancia (ley inversa del cuadrado),
   con rejilla, con difusión o con densidad neutra.
 
@@ -625,7 +696,8 @@ del circuito que las alimenta. La cámara lo registra como parpadeo o como cambi
 el fabricante: «**If shooting under lighting produced by fluorescent lights, sodium lamps,
 mercury-vapor lamps, or LEDs, the screen may flicker or colors may vary.**» (Sony, PXW-Z200 Help
 Guide); «**Artificial light sources such as tungsten, fluorescent and LED may introduce some flicker
-to your images.**» (Blackmagic, URSA Broadcast G2).
+to your images.**» (Blackmagic, URSA Broadcast G2, en el apartado de las cadencias altas: «**Another
+thing to be mindful of when shooting at higher frame rates**»).
 
 Tres cosas que hay que saber:
 
@@ -634,14 +706,19 @@ Tres cosas que hay que saber:
    lights you plan to use**» (Blackmagic).
 2. Depende de la obturación: «**Your shutter setting can also affect the visibility of flicker when
    shooting under lights**» (Blackmagic). En Europa la red es de 50 Hz, y la obturación a 1/50 o
-   1/100 es la que evita el parpadeo de la iluminación de red (oficio; tema 1).
+   1/100 es la que suele evitar el parpadeo de la iluminación de red (oficio; tema 1). La URSA
+   Broadcast G2 calcula y muestra las obturaciones sin parpadeo para la cadencia elegida, con una
+   salvedad: «**the characteristics of individual light sources may still cause flicker even when
+   using flicker free values**».
 3. La cámara puede corregirlo: la Z200 trae ***Flicker Reduce***, con modo «**[Auto] / [On] /
    [Off]**» y la frecuencia «**of the power source supplying the lighting that is causing the
-   flicker**», «**[50Hz] / [60Hz]**».
+   flicker**», «**[50Hz] / [60Hz]**», que de fábrica viene en «**[60Hz]**» y en Europa hay que
+   pasar a 50 Hz.
 
 La propia elección de la frecuencia de trama del sistema de televisión tiene en cuenta la luz: «**La
 elección de la frecuencia de trama puede estar influida por la frecuencia de la alimentación
-eléctrica y el tipo de iluminación utilizada**» (Recomendación UIT-R BT.2020-2).
+eléctrica y el tipo de iluminación utilizada**», entre otras consideraciones (Recomendación UIT-R
+BT.2020-2).
 
 ### La seguridad de las fuentes
 
@@ -665,6 +742,13 @@ exteriores— es oficio de prevención y se trata en los temas 11 y 14.
 
 - Qué equipos de iluminación usa CSRTV en reportaje y en plató: no consta en un documento publicado
   localizado. Los ejemplos del tema son aparatos y cámaras del mercado con documentación pública.
+- El espectro y la temperatura de color de las lámparas de sodio y de mercurio del alumbrado
+  público: no se ha leído una fuente que los dé; el tema da sólo el preajuste que propone Sony.
+- La altura del sol en Andalucía a cada hora y en cada estación: depende de la fecha y de la
+  latitud, y el tema da sólo la relación entre altura y sombra.
+- La temperatura de color de una vela, de una bombilla doméstica, del amanecer, del cielo cubierto o
+  de la sombra a cielo abierto en cifras: las tablas que circulan no coinciden entre sí y no se ha
+  localizado una norma que las fije. El tema da los preajustes publicados por fabricantes y el orden.
 - Los umbrales por tramos del TLCI (qué valor se considera aceptable para cada tipo de producción):
   están en una figura de la EBU Tech 3355 que no pudo leerse como texto. El tema da sólo el valor 50
   y las dos lecturas.
@@ -687,19 +771,23 @@ Todas las fuentes se leyeron el 24/09/2026.
 |---|---|
 | Recomendación UIT-R BT.709-6 (edición en español) | Blanco de referencia D65, x = 0,3127 e y = 0,3290 |
 | Recomendación UIT-R BT.2020-2 (edición en español) | D65 con las mismas coordenadas; frecuencia de trama, alimentación eléctrica e iluminación |
-| EBU Tech 3355, *Method for the assessment of the colorimetric properties of luminaires* (TLCI-2012 y TLMF-2013), marzo de 2017 | Valor 50 como frontera de corrección; dos lecturas por tipo de producción; sin sentido absoluto de Ra y Qa |
-| Sony, *PXW-Z200/HXR-NX800 Help Guide*, 5-060-574-13(1), 2024 | Luz de zapata HVL-LBPC y su encendido; preajustes de balance; recorrido 2.000-15.000 K; ***Tint***; pasos del ajuste de temperatura; parpadeo y ***Flicker Reduce*** |
-| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Parpadeo con tungsteno, fluorescente y LED; obturación y parpadeo; cebra con cielo variable; cadencia y luz |
+| EBU Tech 3355, *Method for the assessment of the colorimetric properties of luminaires* (TLCI-2012 y TLMF-2013), marzo de 2017 | Valor 50 como frontera de corrección; dos lecturas por tipo de producción; sin sentido absoluto de Ra y Qa; tabla de radiadores de luz de día (6.500 K ≈ D65) |
+| Sony, *PXW-Z200/HXR-NX800 Help Guide*, 5-060-574-13(1), 2024 | Luz de zapata HVL-LBPC y su encendido; preajustes de balance en modo personalizado y en modo log; recorrido 2.000-15.000 K; ***Tint***; pasos del ajuste de temperatura; parpadeo y ***Flicker Reduce*** |
+| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Preajustes de balance (3.200, 4.000, 4.500, 5.600 y 6.500 K); vela cálida y cielo nublado frío; parpadeo con tungsteno, fluorescente y LED en cadencias altas; obturación sin parpadeo y su salvedad; cebra con cielo variable; cadencia y luz |
 | Canon, *XF605 Instruction Manual*, PUB. DIE-0559-000B (especificaciones) | Preajustes de 5.600 K y 3.200 K; ajuste de 2.000 a 15.000 K |
+| Sony, *PXW-Z100 Operating Guide*, 4-484-009-11(1), 2013 | Preajuste de exterior (5.600 K) para amanecer y atardecer; preajuste de interior bajo lámparas de sodio o de mercurio y aviso de parpadeo y cambio de color |
+| Sekonic, ficha del SpectroMaster C-800 | El medidor de color: espectrómetro y medidor de iluminancia; mide la temperatura de color, da la compensación y el filtro, y los índices de fidelidad |
+| Adobe, *High key lighting vs low key lighting in videography* (página web, sin fecha) | Definición de clave alta y clave baja |
 | Astera, ficha del Titan Tube | Flujo luminoso, IRC y TLCI ≥96 entre 3.200 y 6.500 K, motor RGBMintAmber |
 | Informe de ensayo IEC 62471 del Astera Titan Tube (n.º 2602T58190E-SF, 29 de mayo de 2026) | Norma de seguridad fotobiológica y clasificación en el grupo exento |
 
 Oficio sin norma detrás, y así se declara: qué decide la luz; las magnitudes fotométricas y la
-distinción entre luz incidente y reflejada; el equipo ligero; la definición de temperatura de color
-y la tabla de fuentes; la función de los geles; la regla con fuentes mezcladas; la dureza y el
+distinción entre luz incidente y reflejada; el equipo ligero; la definición de temperatura de color;
+la función de los geles; la regla con fuentes mezcladas; la dureza y el
 tamaño aparente; el esquema de tres puntos y las posiciones de la principal; los accesorios de
-control; la luz por el eje óptico; el trabajo con sol, la variación de la luz natural y el interior
-con ventana; la tabla de aparatos; el regulador y el color. Son cálculo, y se pueden rehacer: la ley
+control; la luz por el eje óptico; el uso del medidor de color; las razones de contraste de la clave alta y
+la baja; el trabajo con sol, la variación de la luz natural, la dirección de la luz según la altura
+del sol, el alumbrado público y el interior con ventana; la tabla de aparatos; el regulador y el color. Son cálculo, y se pueden rehacer: la ley
 inversa del cuadrado (y su paso a diafragmas), la conversión de kelvin a mired y los desplazamientos
-del epígrafe «El mired», y la equivalencia entre relación de contraste y pasos (2 elevado al número
+del epígrafe «El mired», la longitud de la sombra según la altura del sol, y la equivalencia entre relación de contraste y pasos (2 elevado al número
 de pasos).

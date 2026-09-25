@@ -1,0 +1,84 @@
+DPA Microphones, Mic University y diccionario (dpamicrophones.com). Descargado el 25-09-2026 con curl; extractos literales del cuerpo de cada página, sin menús.
+
+=== https://www.dpamicrophones.com/mic-university/background-knowledge/proximity-effect-in-microphones-explained/
+Proximity effect in microphones explained - how it affects different sound sources
+Proximity is when a microphone produces more bass by getting closer to the sound source (a point - or line source). This article takes you through some of the basics of proximity – and introduces a more advanced perspective on the phenomenon.
+The effect of proximity is well-known to most sound engineers. The singer's voice gets more bass when the microphone moves closer to the mouth. As the microphone moves away, the sound gets thinner.
+Proximity only exists with gradient-types of microphones – wide cardioid, open cardioid, cardioid, super-cardioid, hyper-cardioid, figure of eight – and everything in between. Thus, the closer the directionality pattern comes to a figure of eight, the more proximity is exhibited. Also, the proximity effect is strongest on-axis. If you turn the microphone, the proximity effect is reduced.
+Figure 1. The diagrams show the proximity effect of two gradient microphones, a figure-of-eight, and a cardioid. Compare the microphones' bass lift at 100 Hz. The proximity is much higher in the figure-of-eight (bi-directional) microphone than in the cardioid.
+Note that the proximity effect, by design, sometimes provides a flat response when the mic is close to the source (i.e., vocal microphones) – or provides a flat response when the microphone is further than 1 meter away from the sound source (in distant recording or the like). For this reason, when evaluating this information for gradient microphones (for example in a spec sheet), the distance at which the frequency response is neutral/flat should be stated.
+Be aware that pressure microphones (omnidirectional microphones) do not exhibit proximity. This is because the sound has only admittance to the front of the diaphragm. A pressure microphone is basically a diaphragm in front of a closed chamber.
+The sound sources
+Proximity is dependent on the sound source. A point source generates a spherical sound field where the SPL drops by 6 dB/doubling distance. A gradient microphone close to a point source (<1 m) exhibits proximity. If, however, the sound source is either an (infinite) plane source or a point source at some distance (>1 m), practically no proximity effect exists.
+Figure 2. A point source is essentially a sizeless pulsating sphere. A certain amount of sound energy is generated and distributed evenly in all directions away from the point. The further away you get, the more the sound is diluted as the sound energy is distributed throughout a greater area. A microphone records -6 dB per doubling of the distance.
+The SPL from point sources drops by 6 dB/doubling of distance.
+The SPL from line sources drops by 3 dB/doubling of distance.
+The SPL from plane sources drops by 0 dB/doubling of distance.
+You would think that the world should be extremely noisy, having sound sources from which the sound level never drops. However, this is only the case if the plane sources have infinite size – they do not. Thus, any plane source acts as a point source at a distance. Below you can see a practical example of this phenomenon.
+The sound source is a studio monitor (Genelec 8341A). This speaker has coaxial/symmetrical arranged membranes for low, mid and high frequencies, respectively. The cross-over frequencies are 500 Hz and 3 kHz.
+The signal reproduced by the loudspeaker is pink noise.
+Measurement distances are 64, 32, 16, 8, 4, 2 and 1 cm, respectively.
+When moving from 64 cm to 32 cm or from 32 cm to 16 cm, the sound pressure increases by 6 dB at all frequencies. If, however, moving from 8 cm to 4 cm or from 4 cm to 2 cm, the low frequencies stay almost constant, while the higher frequencies still increase. When moving from 2 to 1 cm (from red to blue curve), only frequencies above 3 kHz increase. The measurements are conducted using an omnidirectional microphone (no influence from proximity effect).
+Figure 3. Sound level vs. distance from a monitor loudspeaker (coaxial units). Signal: Pink noise. Measurements are taken at 64, 32, 16, 8, 4, 2 and 1 cm, respectively. The diagram to the right shows level vs. distance at three individual frequencies (100 Hz, 1 kHz and 10 kHz) and a frequency band (20 Hz – 20 kHz).
+Why proximity?
+So, proximity exists only in gradient microphones. The explanation is that sound hits the diaphragm from both the front and the back. (There is an inlet to the rear side of the diaphragm). The pressure difference between the front and rear (the gradient) creates the diaphragm's movement. The distance from the front to the rear is in the range of 1-2 cm. At a low frequency (exhibiting a long wavelength of several meters), the pressure difference across 1-2 cm of a soundwave is small. At higher frequencies, this difference increases (see Microphone technology – the essentials, fig. 4 and 5).
+Apart from this primary gradient, there is another added pressure difference when you get close to the microphone (≤1 m). This is related to distance. If you have a sound source 2 cm from the front side of the diaphragm, then the distance to the rear is farther (let's say 4 cm in this example). The distance to the rear side is now double the distance to the front. If the sound source is a point source, the sound pressure is attenuated by 6 dB from the front to the rear of the diaphragm. This must be regarded as an additional gradient. However, it only gets effect at low frequencies because the primary gradient is weak in this range.
+To conclude, we have a bass lift when the microphone is close to a point source.
+
+=== https://www.dpamicrophones.com/dictionary/p/proximity-effect/
+Proximity Effect
+An inherent characteristic of pressure gradient microphones, resulting in a boost in the low-frequency response when the microphone is brought closer to a source. The effect becomes significant when the source-to-microphone distance is approximately the same as the wavelength of the impinging sound.
+
+=== https://www.dpamicrophones.com/mic-university/technology/about-balanced-and-unbalanced-lines/
+About balanced and unbalanced lines
+Balanced lines provide better rejection of electromagnetically induced noise. This article explains the difference between signal balanced and impedance balanced lines.
+When connecting a microphone to an input a circuit is created. In the unbalanced connection the cable shield is a part of the circuit. Unfortunately this does not provide sufficient isolation to electromagnetic noise present in the surroundings. When using balanced lines, the shield is not a part of the circuit. Induced electromagnetic noise is rejected due to the common mode, the fact that the impedance is exactly the same between each leader and ground. This is called common mode rejection.
+Signal balancing
+Signal balancing can either be achieved by electronic balancing or by using a transformer. Both ends are hot, but one with reversed phase. At the same time the impedance from each wire to ground is exactly the same. If this is NOT the case, the line is not balanced. And with reference to microphones: Phantom power cannot be supplied.
+Impedance balancing
+The impedance balancing does not necessarily involve signal balancing. The explanation for this is that the impedance between pin 2 (in the 3-pin XLR) and ground is equivalent to the impedance between pin 3 and ground. But the signal is only present on pin 2. Pin 3 is the reference like in the unbalanced coupling. Hence the impedance is in balance, but not the signal.
+The advantage of using an unbalanced signal in an impedance-balanced coupling is that the size (amplitude) of the signal will remain constant, independent of the input connection being balanced or unbalanced, with or without an input transformer.
+
+=== https://www.dpamicrophones.com/dictionary/b/balanced-and-unbalanced-lines/
+Balanced and Unbalanced Lines
+Balanced line is a transmission line consisting of two conductors of the same type and equal impedance to ground and other circuits. The balanced impedances to ground minimizes interference pickup.
+When using balanced lines, the shield is not a part of the circuit. Induced electromagnetic noise is rejected due to the common mode, the fact that the impedance is exactly the same between each leader and ground. This is called common mode rejection.
+
+=== https://www.dpamicrophones.com/mic-university/technology/electromagnetic-interference-emc-rfi-immunity-and-cmrr/
+Electromagnetic interference: EMC, RFI immunity and CMRR
+This article describes the problems that arise from electromagnetically induced noise. It explains how to avoid the problems by utilizing balanced lines.
+How to get rid of that hum?
+When working with microphones it is important that only the acoustic sound at the microphone is transmitted. All kinds of noise from electromagnetic interference (EMI) should be avoided. This is easy to say. However, real life can make it very difficult to accomplish.
+Bear in mind that whenever an electric current is driven through an electric conductor, an electromagnetic field is created around that conductor. Furthermore, whenever an electric conductor is placed in a varying electromagnetic field, an electric current is induced in that conductor.
+What is EMC?
+EMC is an abbreviation of Electro-Magnetic Compatibility. It is the term used to describe how well a device or a system is able to function in an electromagnetic environment without introducing electromagnetic disturbances that interfere with the operation of other electrical products in the environment.
+Electronic devices – like microphones – that can function and meet the criteria are called electro-magnetically compatible devices.
+What is RFI?
+RFI is an abbreviation of Radio Frequency Interference. The RFI range is between audible frequencies (AF, Audio Frequency range) and the frequencies of infrared light. Many devices produce radio frequencies despite the fact that they are designed for audio frequencies (e.g. digital power amplifiers) or not for audio at all (like various light dampers). The occurrence of radio frequency is not necessarily related to intentional transmission of radio waves. RFI can be the reason for audible noise when passing un-linear electronic circuitry.
+What does EMI/RFI sound like?
+All audio engineers know the noise a roaming mobile phone can generate in different audio equipment. All electric guitarists know the humming sound induced in the coil of the guitar pickup. Sometimes even radio stations are picked up and detected. On stage the EMI/RFI can be generated by the lighting dimmers, depending on the design principles. Also wireless microphones may introduce broadband noise in the microphone signal.
+EMC testing
+All electronic products (including microphones) must undergo EMC testing before they are offered for sale to prove that they will not create interference, or be susceptible to interference from other devices. For testing purposes, products are grouped into two classes: intentional radiators and unintentional radiators. For example, mobile phones and wireless microphones intentionally radiate energy while mixers, amps, recorders or laptops should not.
+Regarding the emission of a given product, the EMC requirements set the limits for amplitude and frequency that a product can radiate or conduct so that the device does not interfere with others.
+Regarding susceptibility and immunity, the testing category complements the emissions requirement by limiting the amplitude and frequency of the radiated and conducted signals that can interfere with a product. Thus, in a perfect world, there would be no problems.
+Microphones and EMC
+Microphones almost never produce electro-magnetic fields that will cause interference. Some brands use RF modulation for the condenser microphones. However, the emission is in general negligible.
+Rather, the key point is the level of susceptibility that can be obtained in the design from the diaphragm to the output connector. This is primarily related to the microphones’ transducer type, secondly to other issues like shielding and the design of the output stage.
+Most sensible to EMI/RFI are ribbon microphones. The diaphragm itself is a conductor more or less working as an antenna that easily picks up electromagnetic fields. Other dynamic microphones have moving coil designs; the professional types are largely compensated by having a so-called noise coil: attached to the diaphragm, the coil moves inside the gap of a circular magnet and thus produces the output signal. A static coil is placed somewhere else in the microphone body. When an external electromagnetic field generates a voltage across the moving coil, an oppositely phased voltage is generated across the fixed coil. The result is that the two signals more or less cancel each other out while the signal from the movement of the diaphragm remains.
+In general, condenser microphones are less sensitive to external electromagnetic fields. However, in the design process, care must be taken to optimize immunity just as bad soldering can cause a lot of RFI initiated noise problems.
+CMRR – a question of balance
+Common Mode Rejection Ratio (CMRR) expresses the suppression of induced EMI noise on the terminals of a device. This suppression is possible only if you use balanced lines. On the XLR connector pin 1 is for the shielding of the cable and should never carry the signal. Pins 2 and 3 carry the signal. It is important that the impedance measured from pin 2 to ground and from pin 3 to ground is exactly the same. This applies to both sending and receiving devices (for instance a microphone and the input of the mixer) as well as to the cable, the two signal carrying wires running between the XLR connectors’ two pin 2’s and the two pin 3’s. Also the soldering of the cable connectors must be the best possible to avoid a reduced sound quality of the circuitry as a whole. The weakest link determines the final result.
+When the well balanced cable is running through an electromagnetic field the induced voltage has the same polarity and magnitude on both leads. As the input will only accept a signal if it is oppositely phased on pin 2 and pin 3, the noise from the electromagnetic field is rejected.
+If the microphone is sound, the electronics are well designed, and the cable and receiving device are fairly balanced, there is a good chance of avoiding problems with EMI.
+The suppression of the noise (the CMRR) of the MMP-A Microphone Preamplifier in the Recording Microphones Series is approximately 65 dB. This means that less than one thousandth of the noise will pass through the microphone circuitry.
+How to avoid EMC problems?
+First and foremost: check the specs of your equipment. The CMRR is important; a larger number equals better data. Make sure that your microphones meet the EMC requirements. Always use sound cables. Try to avoid placing your microphones or cables in positions where there they are in danger of being exposed to high EMI (close to power transformers, along lighting cables, power cables, speaker cables, etc.).
+Related articles
+
+=== https://www.dpamicrophones.com/mic-university/background-knowledge/10-points-on-microphones-in-installed-systems/
+Some microphones may have unbalanced cables (miniature microphone housing without a built-in connector). However, the unbalanced cabling should be kept as short as possible. The main analog audio cabling should always be balanced.
+
+
+=== Añadido en la fase 5 bis (25-09-2026), misma página «Proximity effect in microphones explained», releída con curl
+On-axis vs. off-axis
+In a soundwave, the distance between the front and the rear also depends on the angling of the microphone. When the microphone is pointing directly towards the sound source, the distance reaches its maximum. When not on-axis, the distance difference is reduced and there is less proximity effect. If the soundwave has the same distance to the front and the rear, no proximity effect exists. For a cardioid microphone, this happens when the angle is exactly 90 degrees. If the microphone is rotated further from the proximity-neutral angle, the effect shows up again.

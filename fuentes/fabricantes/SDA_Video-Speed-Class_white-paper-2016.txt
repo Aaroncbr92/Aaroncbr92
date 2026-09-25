@@ -1,0 +1,292 @@
+11
+Video Speed Class:
+The new capture protocol of SD 5.0
+White Paper  |  February 2016
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+
+1
+2
+Conditions for publication
+Publisher and Copyright Holder:
+SD Card Association
+2400 Camino Ramon, Suite 375
+San Ramon, CA 94583 USA
+Telephone: +1 (925) 275-6615
+Fax: +1 (925) 886-4870
+E-mail: help@sdcard.org
+Disclaimers:
+The information contained in this whitepaper is provided as is
+without any representations or warranties of any kind. No
+responsibility is assumed by the SD Association for any
+damages, or any infringements of patents or other rights of
+the SD Association or any third parties, which may result from
+the use of any portion thereof. No license is granted by
+implication, estoppel or otherwise under any patent or other
+rights of the SD Association or any third-party. Nothing herein
+shall be construed as an obligation by the SD Association to
+disclose or distribute any technical information, know-how or
+other confidential information to any third-party.
+Trademarks Notice:
+SD is a trademark or a registered trademark of SD-3C, LLC in
+the United States, other countries or both. SD, SDHC,
+miniSDHC, microSDHC, SDXC and microSDXC Logos are
+trademarks of SD-3C, LLC.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+
+1
+1
+3
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+Executive Summary
+The SD Association (SDA) released the SD 5.0 specification to
+answer evolving market needs with a Video Speed Class. The
+SDA now positions the Video Speed Class as the preferred
+speed class for a variety of new applications. 
+Video Speed Class provides new capabilities for consumers
+and a new enabling technology for the SD industry. 
+From a consumer’s, and application developer’s, point of view,
+SD 5.0 enables a new generation of applications that require
+extended capture performance of up to 90 megabytes per
+second (MB/s).
+From an SD memory card maker’s point of view, SD 5.0
+reimagines technical mechanisms to provide new SD
+protocols that enable and optimize use of both the latest and
+future NAND technology for all SD applications. 
+From a marketing point of view, SD 5.0 marks an inflection
+point where the SDA acknowledges that new applications like
+video will require minimum speed capture and will continually
+change their bandwidth requirements to achieve the best
+display in any resolution. For every resolution, there are both
+lower and higher quality image options for consumers. From
+now on, applications or product manufacturers need to
+simply report the bandwidth required to save the data, and
+consumers will need to match or better this performance with
+their SD memory card selection.
+
+1
+4
+Consumer Overview
+Video Speed Class joins and extends the existing SD
+defined speed classes (see Figure 1). We use the phrase
+speed class as a term that includes three specific protocols:
+Video Speed Class, UHS Speed Class and Speed Class.
+The speed class types include: Speed Class (C2, C4, C6 and
+C10), UHS Speed Class (U1 and U3) and now Video Speed
+Class (V6, V10, V30, V60 and V90). Video Speed Class
+provides equivalents to existing speed classes and adds
+new capture rates of 60 MB/s and 90 MB/s. 
+The SDA provides a range of speed class options to
+consumers so that they can cost-effectively meet the wide
+array of application speed requirements set by a variety of
+cameras, video cameras and other devices offering unique
+features and capabilities. Each of these devices will
+implement the necessary speed class into the device and,
+to ensure solid performance, the device needs to be paired
+with an SD memory card offering the same, or better,
+capabilities.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+Figure 1: Speed class support by SD interface and capture bandwidth
+Video Speed Class for Consumers
+
+1
+5
+Video Speed Class and Changing 
+NAND Technology
+Video Speed Class was designed to optimize use of modern
+NAND technology. The earlier speed classes include fixed
+parameters that are too specific to earlier NAND technology
+and are difficult to design solutions with the newest NAND
+technology. 
+Each of the given speed class methods defines different card
+access methods closely related to the underlying NAND
+technology. The match, or mismatch, of each speed class
+method to a specific NAND technology may lead to SD
+memory cards that meet Video Speed Class requirements for a
+given capture rate, yet not meet the requirements for the
+equivalent Speed Class or UHS Speed Class. As an example, an
+SD memory card may meet V30 requirements, by supporting
+30 MB/s capture using the Video Speed Class protocol, yet
+only meet C10 requirements, supporting 10 MB/s capture
+with the Speed Class protocol. 
+Video Speed Class Meets Changing 
+Video Technology
+Today’s advanced video capabilities vary greatly based on
+the application. Variations in resolutions, video CODECs,
+the amount of compression, the capture frame rate, and
+possible simultaneous capture of additional information
+(multiple streams, GPS, etc.) make earlier guidelines
+difficult to use today. Figure 2 illustrates some of the
+ranges of resolutions in popular formats, some of the
+ranges of frame rates for each resolution, some of the
+possible required recording rates, and some of the speed
+classes that may be appropriate for any specific
+combination of these factors. 
+Resolution has increased so much it makes it difficult to
+clearly include Standard Definition characteristics in the
+same figure that includes 8K characteristics. While it may
+not be in this figure, it is important to know that Video
+Speed Class does support Standard Definition recording.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+Figure 2: Resolutions, frame rates, and SD speed classes
+If the application offers
+multiple options, Video Speed
+Class is the best choice for
+future applications.
+Despite the large number of
+variables, one rule remains true:
+match the SD memory card to
+your specific application’s
+requirements. The protocol
+speed and type specified by
+the application needs to be
+matched. A guide to help
+consumers select the right
+memory card will be provided
+in device owner’s manuals.
+
+1
+6
+Why Is Video Speed Class the Future for the SD Ecosystem?
+Video recording devices are expected to be among the first
+application implementations for Video Speed Class.
+However, video capture may not be the only applications
+that use Video Speed Class. Consistent, fast writing speeds
+with low wear characteristics are useful to all applications
+that write to SD memory cards. Video Speed Class also
+contains mechanisms to interleave writes to unrelated files,
+enabling random write operations with appropriate OS
+support. The SDA intends to support libraries to enable
+such systems, but this will require more development time.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+One of the basic attributes of the NAND chips used in SD
+storage is that memory access is asymmetric in a couple
+of ways: 
+• An operation that writes data takes longer than an
+operation that reads the same amount of data
+• Relatively small writes (e.g., 4 KB) are easy, but re-writing
+the same small write may require a much larger write
+(e.g., 4 MB), which may take longer than expected to
+complete
+The Video Speed Class protocol provides a solution to this
+re-writing characteristic and supports consistent write
+performance that minimizes wear. This consistent
+performance is a natural fit to the recording requirements
+for video. Video Speed Class was designed to support
+current and upcoming extensions of video resolution and
+quality for 4K, 8K, 3D, HDR, 360 degree and high-speed
+recording. 
+
+1
+7
+How Does Video Speed Class Work?
+In SD 5.0, SD memory cards supporting Video Speed Class
+specify their own block size, using a combination of the
+architecture of the internal NAND and the architecture of
+the SD memory card’s use of those NAND chips to identify
+logical data that may be physically erased without affecting
+other data in the SD memory card. Hosts/applications use
+this information to choose a logical address range of data
+within the SD memory card that is to be erased. First, the
+host ensures that any valid data in that address range is
+moved elsewhere in the SD memory card. Then the
+host/application commands the SD memory card to erase
+the data in that address range. After this, the
+host/application may write sequentially into this address
+range at the maximum speed of the SD memory card
+without any wasted write operations or write acceleration.
+Current Address Saving
+The block size specified by the SD memory card may be
+very large, up to 512 MB. If the block is not fully used when
+power is to be removed by the host, then the next address
+to be written within the block needs to be remembered, so
+that the partially filled block can be properly resumed when
+power is re-applied by the current host or the next host.
+SD 5.0 has commands to save this next address in the block
+being written, and to resume the address to continue
+sequential writing within the block after a power cycle.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+There are three major features that combine to make Video
+Speed Class special:
+• SD memory card specified block size
+• Current address saving
+• Multi-file recording
+SD Memory Card Specified Block Size
+NAND storage chips feature large physical erase blocks that
+physically hold data that can be erased in a single operation
+to enable re-write of that media. The size for erase blocks is
+typically measured in megabytes. With the introduction of
+TLC NAND and 3D NAND, the size of an erase block may not
+be a power of 2, as it was when Speed Class was invented
+years ago. SD memory cards use one or more of these
+physical blocks in one or more physical NAND chips at the
+same time to meet a targeted performance level. 
+The expression “one or more blocks” is a simplistic way to
+describe the complicated ways that NAND chips are used in
+today’s SD memory cards. How multiple NAND devices are
+organized and accessed in parallel is the domain of SD
+memory card manufacturers, the internal organization of
+the NAND memory is the domain of NAND memory
+manufacturers, and the application developers get to figure
+out how to use the result efficiently. To support SD memory
+card manufacturers, NAND chip manufacturers and
+application developers, Video Speed Class contains a
+defined set of 37 block sizes that range from 8 MB to 512
+MB. These 37 block sizes are believed to be sufficient for the
+foreseeable future, but if needed in the future, this
+architecture could support more values.
+
+1
+8
+Multi-File Recording
+Modern video capture has evolved to require interleaving
+the write operations of multiple files. General use by mobile
+or laptop storage has similar needs as described earlier in
+“Why Is Video Speed Class the Future for the SD
+Ecosystem?”
+The following are examples of video functionality that may
+require interleaving multiple files while writing:
+• Saving independent video streams, as recently
+introduced by new 360 degree cameras for virtual
+reality videos and drones
+• Video capture modes that simultaneously capture 
+high-quality still pictures
+• High-quality still pictures that display time-lapse capture 
+• Saving a trail of GPS coordinates during video capture
+• Saving stereoscopic video (3D)
+• Saving independent video streams 
+(broadcast video capture)
+• Saving both raw and jpg still images
+• Random file writing while recording 
+(computer use model)
+In SD technology, a difficult part of interleaving such write
+operations is keeping up with the directory information in
+the file system tables. SD technology has the capability of
+accelerating a single directory area, but only in all earlier
+speed class implementations. In Video Speed Class, this
+support was increased to support the simultaneous
+interleaving of eight different files. Support was also added
+to allow the closure of one update directory and the
+opening of another.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved
+
+1
+9
+Conclusion
+When available, Video Speed Class is the preferred access method for SD
+technology. Video Speed Class will: 
+• Provide much faster recording for the exotic video technology of the future
+• Enable the use of future NAND technology in SD memory cards
+• Support the new standard protocol for hosts/applications to write efficiently
+to SD memory cards
+The most important advice to consumers and users of all types is to continue
+matching the SD memory card to an application’s recommended speed class to
+continue enjoying the best recording and playback possible.
+Video Speed Class: The new capture protocol of SD 5.0 
+www.sdcard.org    |   ©2016 SD Association. All rights reserved

@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Cámara Operador · punto 15 |
 | **Sirve para** | Puesto 2.8, Cámara Operador (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Sin norma jurídica. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (apartados 5.2, 6.3.2, 6.5.2, 8.4.1 y 9.2.12). Recomendaciones y documentos técnicos de la EBU: R 118 v2 (abril de 2017), Tech 3335 (agosto de 2014) y Tech 3355 (marzo de 2017). Documentación de fabricante: Blackmagic Design, Sony y Canon. Lo demás, oficio |
+| **Fuente** | Sin norma jurídica. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (apartados 3.17.1.5, 5.2, 5.3.2, 6.3.2, 6.5.2, 8.4, 8.4.1, 9.2.12 y 9.9.2). Recomendaciones y documentos técnicos de la EBU: R 118 v2 (abril de 2017), Tech 3335 (agosto de 2014) y Tech 3355 (marzo de 2017). Documentación de fabricante: Blackmagic Design, Sony y Canon. Lo demás, oficio |
 | **Redacción que se estudia** | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004, leído el 24/09/2026; documentos técnicos en la edición que se cita en «Trazabilidad» |
-| **Extensión** | 7.700 palabras aproximadamente |
+| **Extensión** | 7.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -32,8 +32,8 @@ lapse*); cámara lenta (*slow motion*) y cámara rápida (*quick motion* o *fast
 continuidad (*raccord*, del francés); desplazamiento de cámara (*travelling*); acercamiento y
 alejamiento óptico (*zoom*); plano inclinado (*dutch angle*); vuelta atrás y salto adelante en el
 tiempo (*flashback* y *flashforward*); cardán motorizado (*gimbal*); estabilizador corporal de brazo
-y chaleco (*steadicam*, que es una marca); obturador de persiana (*rolling shutter*); piloto de
-cámara en el aire (*tally*).
+y chaleco (*steadicam*, que es una marca); obturador de persiana (*rolling shutter*); realce de
+contornos (*peaking*); piloto de cámara en el aire (*tally*).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.8, punto 15):
@@ -96,6 +96,7 @@ cadencia o por intervalos y ofrecer planos en una cobertura multicámara.
   - [Una cámara frente a multicámara](#una-cámara-frente-a-multicámara)
   - [El eje y la planta de cámaras](#el-eje-y-la-planta-de-cámaras)
   - [El operador en multicámara](#el-operador-en-multicámara)
+  - [La sincronización de las cámaras](#la-sincronización-de-las-cámaras)
   - [La homogeneidad de las cámaras](#la-homogeneidad-de-las-cámaras)
   - [Repeticiones y cámaras de apoyo](#repeticiones-y-cámaras-de-apoyo)
 - [Documentos que el tema cita](#documentos-que-el-tema-cita)
@@ -132,10 +133,11 @@ debe renegar de cierta ‘espectacularización’**».
 El tercero, sobre los reportajes de sucesos, nombra los recursos estéticos que evocan la ficción
 (9.2.12.4, pp. 130-131): «**La imagen oscilante ‘cámara en mano’, una música tópica, un virado a
 blanco y negro... evocan inevitablemente escenas ficticias de misterio, terror... o de una película.
-Y la información sólo habla de realidad.**» Y añade que en formatos más extensos «**estos recursos
-deben manejarse con matices**», y que en historias de malos tratos sólo se recurre a los aderezos
-visuales o auditivos «**con seriedad, con rigor y sin artificios (flashes, granulado, manipulación
-del volumen, sonidos estridentes, percusión, voz humana falseada...) porque pueden distraer, alejar
+Y la información sólo habla de realidad.**» Tras referirse a la música, añade: «**La música es un
+aditamento impropio en los informativos diarios y, en formatos más extensos, estos recursos deben
+manejarse con matices.**» Y dice que los aderezos visuales o auditivos en historias de malos tratos
+«**realzan la información pero sólo debemos recurrir a ellos con seriedad, con rigor y sin
+artificios (flashes, granulado, manipulación del volumen, sonidos estridentes, percusión, voz humana falseada...) porque pueden distraer, alejar
 de la realidad e incluso inducir a creer que es una historia de ficción.**»
 
 Leídos juntos, los tres pasajes dan una regla de trabajo: en el informativo diario, cámara frontal
@@ -201,7 +203,7 @@ oficio:
 |---|---|
 | Barrido | Panorámica tan rápida que la imagen se emborrona; sirve de transición entre dos encuadres |
 | Doble foco o cambio de foco | Con poca profundidad de campo, el foco pasa de un término a otro del encuadre y lleva la mirada con él |
-| *Zoom* rápido | Acercamiento o alejamiento óptico brusco que subraya un detalle |
+| *Zoom* rápido | Acercamiento o alejamiento óptico brusco que subraya un detalle; del *zoom* en general, el Libro de estilo dice que «**sólo se usará en circunstancias excepcionales, y con el único objeto de mostrar correctamente una noticia que lo necesite. Es un recurso muy poco natural porque el ojo humano no lo hace y, dentro de una información normal, no es adecuado.**» (5.3.2, p. 81) |
 | Cámara en mano | La imagen oscilante como signo de inmediatez; en sucesos, el Libro de estilo avisa de que evoca la ficción |
 | Virado a blanco y negro | Tratamiento del color; el Libro de estilo lo cita entre los que evocan la ficción en sucesos |
 
@@ -260,8 +262,7 @@ El relato no sólo recorta el tiempo: también lo reordena (oficio).
 | Analepsis | Retrocede: muestra algo anterior a lo ya mostrado y vuelve | *Flashback* |
 | Prolepsis | Adelanta: muestra algo posterior y vuelve al tiempo presente | *Flashforward* |
 
-Lo que separa a una de otra es una sola palabra: posterior frente a anterior. La raíz griega ayuda:
-*pro-* es «hacia delante», *ana-* es «hacia atrás». La elipsis es de otra clase: no reordena, quita.
+Lo que separa a una de otra es una sola palabra: posterior frente a anterior. La elipsis es de otra clase: no reordena, quita.
 
 ### El plano secuencia
 
@@ -301,8 +302,8 @@ dice del escorzo en las declaraciones.
 
 ### Reconstrucciones e imagen subjetiva
 
-La cámara subjetiva es el único recurso de reconstrucción que el Libro de estilo acepta sin
-reservas, y pone condiciones al montaje de ficción (9.2.12.3, p. 130). Primero advierte que el
+La imagen subjetiva es el recurso de reconstrucción que el Libro de estilo admite «**En caso
+necesario**», y pone condiciones al montaje de ficción (9.2.12.3, p. 130). Primero advierte que el
 sistema «**es poco recomendable, especialmente en un informativo diario porque suele incidir en
 detalles truculentos e imágenes escabrosas que, lejos de inducir al rechazo, fomentan una forma
 reprobable de espectáculo. También es arriesgado el recurso de usar escenas cinematográficas como
@@ -325,9 +326,10 @@ manual de la Blackmagic URSA Broadcast G2 lo explica así: la cadencia del proye
 formato de entrega, y la del sensor se iguala a ella para que la imagen se reproduzca a la
 velocidad real; «**If you are looking to create an interesting effect, for example slow motion,
 then you can set the sensor frame rate to a higher setting. The higher the sensor frame rate
-compared to the project frame rate, the slower the playback speed.**» Para Europa, el mismo manual
-da como referencia «**25 frames per second for Europe**» y, para deporte, «**50 frames per second
-in Europe**».
+compared to the project frame rate, the slower the playback speed.**» Para la televisión, el mismo
+manual da como referencia «**25 frames per second for Europe**», y añade que algunos acontecimientos
+deportivos se graban y emiten a cadencias mayores, «**up to 59.94 frames per second in North
+America, and 50 frames per second in Europe**».
 
 Canon lo describe con las mismas dos cadencias en su cámara XF605: «**The camera can record using a
 progressive frame rate (shooting frame rate) that is different from the playback frame rate.**»
@@ -354,7 +356,7 @@ recording with a frame rate much higher than the playback frame rate, you can re
 played back as super slow motion images. Images recorded with the Super Slow Motion function will
 appear smoother than slow playback of images recorded at normal speed.**» Es la diferencia entre
 una cámara lenta de verdad y una ralentización en montaje: la ralentización repite o inventa
-fotogramas; la alta cadencia los tiene grabados.
+fotogramas; la alta cadencia los tiene grabados (oficio).
 
 Para la cámara rápida, la misma Sony da la velocidad resultante con reproducción a 25p (2160/25p):
 12 fps, «**208% quick**»; 6 fps, «**417% quick**»; 1 fps, «**2500% quick**». La cuenta es la misma
@@ -369,46 +371,51 @@ change by opening up your lens an extra stop, by opening up your shutter angle f
 by adding some extra lighting**». De ahí sale una cuenta útil: cada duplicación de cadencia con el
 mismo ángulo de obturación cuesta un diafragma; de 25 a 100 fps, dos; de 25 a 200 fps, tres.
 
-El obturador de referencia es el de medio ciclo. La EBU, al describir cómo se miden las cámaras,
-toma como nominal «**1/50 second for 50 Hz, 1/60 for 59.94 Hz, or 180 degrees for either**» (EBU
-Tech 3335). Con 180 grados, el tiempo de exposición es la mitad del periodo de cada fotograma: a
-100 fps, 1/200 de segundo. Mantener el ángulo al subir la cadencia conserva el aspecto del
-movimiento; abrirlo gana luz y aumenta el emborronamiento (oficio).
+La EBU, al describir la prueba de los efectos del obturador, pide ponerlo en su valor nominal:
+«**1/50 second for 50 Hz, 1/60 for 59.94 Hz, or 180 degrees for either**» (EBU Tech 3335). Con
+180 grados, el tiempo de exposición es la mitad del periodo de cada fotograma: a 100 fps, 1/200 de
+segundo (cuenta). Mantener el ángulo al subir la cadencia conserva el aspecto del movimiento;
+abrirlo gana luz y aumenta el emborronamiento (oficio).
 
-La alta cadencia hace visible el parpadeo de las fuentes artificiales. Blackmagic avisa: «**Artificial
-light sources such as tungsten, fluorescent and LED may introduce some flicker to your images. You
-may not see these flicker issues when previewing the scene on your LCD and SDI feed or while
-recording, so it’s important to perform a test shoot with the lights you plan to use**», y añade
-que «**Your shutter setting can also affect the visibility of flicker when shooting under lights**».
-La UIT-R lo recoge en una de sus recomendaciones de televisión: «**The choice of
-frame frequency may be influenced by the frequency of the mains power and the type of scene lighting
-in use**» (Recomendación UIT-R BT.2020-2). En la práctica: prueba previa con las luces del lugar,
-y en estadios, pabellones y platós, luz sin parpadeo o un obturador ajustado a ella (oficio). El
-tema 5 trata la iluminación.
+A alta cadencia hay que vigilar el parpadeo de las fuentes artificiales. Blackmagic avisa:
+«**Artificial light sources such as tungsten, fluorescent and LED may introduce some flicker to your
+images. You may not see these flicker issues when previewing the scene on your LCD and SDI feed or
+while recording, so it’s important to perform a test shoot with the lights you plan to use**», y
+añade que «**Your shutter setting can also affect the visibility of flicker when shooting under
+lights**». Por eso la URSA Broadcast G2 calcula y ofrece velocidades de obturación sin parpadeo según la
+frecuencia de red elegida (50 o 60 Hz), con una salvedad: «**the characteristics of individual light
+sources may still cause flicker even when using flicker free values**». La UIT-R lo recoge en su
+Recomendación BT.2020-2: «**La elección de la frecuencia de trama puede estar influida por la
+frecuencia de la alimentación eléctrica y el tipo de iluminación utilizada**». En la práctica:
+prueba previa con las luces del lugar, y en estadios, pabellones y platós, luz sin parpadeo o un
+obturador ajustado a ella (oficio). El tema 5 trata la iluminación.
 
 ### Lo que la cámara deja de hacer
 
 La alta cadencia tiene limitaciones que el cámara tiene que conocer antes de pulsar la grabación:
 
 - Sonido. Canon: «**Sound is not recorded with the clip, but it can be recorded separately as a WAV
-  file.**» (XF605). La cámara lenta llega muda, y el ambiente se graba aparte si hace falta.
+  file.**» (XF605). Sony: «**Movies recorded with Slow & Quick Motion or Super Slow Motion do not
+  have sound.**» (FS5). La cámara lenta llega muda, y el ambiente se graba aparte si hace falta.
 - Formato. Sony: «**Super Slow Motion recording is not supported in XAVC QFHD**» (FS5): la
   supercámara lenta no se admite en todos los formatos de grabación de la cámara.
-- Ayudas. Sony: la cebra «**Cannot be displayed when Super Slow Motion mode is set**» (FS5); la
-  exposición se juzga por otras vías.
+- Ayudas. En la FS5, el histograma «**Cannot be displayed when Super Slow Motion mode is set**»;
+  según la tabla de limitaciones del mismo manual, la cebra, el realce de contornos (*peaking*) y
+  la lupa de enfoque sí están disponibles, y la detección de caras y el ajuste del balance de
+  blancos no.
 - Tiempo muerto. Sony: la cámara «**may continue recording for some time (approximately 6 minutes
-  at most) after you press the record button to stop recording**» (FS5). Mientras vuelca lo grabado
-  a la tarjeta, no está disponible.
+  at most) after you press the record button to stop recording**», y pide no manejarla mientras el
+  indicador de grabación parpadea en la pantalla (FS5).
 
 Son datos de dos modelos concretos; cada cámara tiene los suyos en su manual, y lo que conviene
-retener es la lista de comprobación: sonido, formato, ayudas a la exposición y tiempo de volcado.
+retener es la lista de comprobación: sonido, formato, ayudas a la exposición y tiempo muerto.
 
 ### Las cámaras especiales
 
 La EBU clasifica las cámaras de televisión por niveles de calidad (EBU R 118 v2), y reserva uno para
 las especiales: «**Tier SP: Specialist or special effects cameras (broadcaster approval required
 before use)**», que describe como «**specialist or special effects cameras including very high frame
-rate camera, minicams, macro cameras etc.**» De su uso dice que tiene «**restrictions on the amount
+rate camera, minicams, macro cameras etc.**», que no cumplen alguno de los requisitos mínimos de su nivel. De su uso dice que tiene «**restrictions on the amount
 used in a programmes but this content does not usually count against any percentage of lower
 resolution material**». Es decir: las cámaras de muy alta velocidad, las minicámaras y las de macro
 se admiten con autorización de la emisora y en cantidad limitada, pero no computan en el cupo de
@@ -416,13 +423,16 @@ material de menor calidad (epígrafe «La homogeneidad de las cámaras»).
 
 ### La cámara lenta en Canal Sur: la repetición al servicio del juicio
 
-El Libro de estilo sólo nombra la ralentización una vez, en las retransmisiones deportivas, y lo
-hace como herramienta de ecuanimidad, no de espectáculo: «**Del narrador de un acontecimiento
+El Libro de estilo nombra la ralentización en dos sitios. En las retransmisiones deportivas, como
+herramienta de ecuanimidad, no de espectáculo: «**Del narrador de un acontecimiento
 deportivo se espera el máximo acercamiento a la objetividad, especialmente cuando le suelen acompañar
 un comentarista técnico o un árbitro, obligados precisamente a los análisis de más compromiso. En
 caso de que se vea obligado a emitir un juicio de valor, hay que formularlo con las ventajas técnicas
 del medio (repeticiones, tomas diferentes, ralentizaciones...) para extraer de ellas la ecuanimidad en
-los análisis.**» (8.4.1, p. 120).
+los análisis.**» (8.4.1, p. 120). Y en el material objetable, como posibilidad de edición que puede
+volverse contra la víctima: «**las posibilidades de edición (ralentización, imagen congelada...)
+pueden generar un efecto reprobable y no debemos optar por ello si sólo sirve para acentuar la
+morbosidad de una historia.**» (9.9.2, p. 167).
 
 Para el cámara, la cámara lenta tiene dos usos que conviene separar (oficio): el analítico, en el
 deporte, donde la repetición a baja velocidad deja ver lo que a velocidad real no se ve (un fuera de
@@ -453,9 +463,12 @@ manual:
 - No se combina con «**slow & fast motion recording, pre-recording, frame recording or continuous
   recording**».
 
-La misma cámara tiene dos modos vecinos que conviene no confundir: la grabación de fotogramas, en
-la que se fija de antemano cuántos fotogramas se toman («**Set the number of frames in
-advance**»); y la pregrabación, en la
+Canon presenta la grabación por intervalos como un modo «**suitable for recording subjects with little movement, such as
+natural surroundings or plants**».
+
+La misma cámara tiene dos modos vecinos que conviene no confundir: la grabación de fotogramas, que
+«**will record a pre-defined number of frames every time you press the START/STOP button**» (el rótulo del botón de grabación) y que
+Canon considera «**suitable for recording stop motion animation**»; y la pregrabación, en la
 que «**the camera starts recording continuously onto a temporary memory (approx. 3 seconds)**», que
 no es un efecto de tiempo sino un seguro para no perder el arranque de una acción imprevista.
 
@@ -534,7 +547,7 @@ tema 4.
 
 ### La estabilización dentro de la cámara
 
-Muchas cámaras de mano combinan dos familias en el propio cuerpo. La Canon XF605, por ejemplo,
+Una cámara de mano puede combinar dos familias en el propio cuerpo. La Canon XF605, por ejemplo,
 declara en su ficha un «**Optical-shift image stabilizer + digital compensation (Standard IS, Dynamic
 IS, Powered IS)**»: un estabilizador óptico de desplazamiento de lentes con compensación digital, en
 tres modos. Qué hace exactamente cada modo lo explica el manual de cada cámara; lo general es que la
@@ -547,8 +560,8 @@ panorámica.
 
 ### El obturador de persiana y el movimiento rápido
 
-La estabilización no corrige un defecto que aparece en cámaras con sensor CMOS cuando la
-cámara o el sujeto se mueven deprisa. La EBU lo describe así: «**Cameras with CCD sensors usually
+Hay un defecto de la imagen en movimiento que no depende del soporte sino del sensor: puede
+aparecer en cámaras con sensor CMOS cuando la cámara o el sujeto se mueven deprisa. La EBU lo describe así: «**Cameras with CCD sensors usually
 exhibit no odd temporal effects, but cameras with one or more CMOS sensor can produce visible effects
 from the use of a ‘rolling shutter’. The effect is identical to that seen in focal plane film stills
 cameras; leaning verticals, distorted edges, and jelly-like images from rapid motion.**» (EBU Tech
@@ -620,10 +633,28 @@ como oficio:
 La operativa de la cámara de estudio y de unidad móvil (CCU, intercomunicación, retorno, piloto)
 está en el tema 3, y la coordinación con realización en el tema 8.
 
+### La sincronización de las cámaras
+
+En el plató o en la unidad móvil, las cámaras llegan al mezclador del control, que corta entre ellas
+mientras ocurre la acción. Cuando varias cámaras graban cada una por su cuenta para montar después,
+el Libro de estilo pide, al tratar la entrevista (3.17.1.5, p. 61): «**Si disponemos de dos o más
+cámaras ENG independientes, el realizador preverá que los planos respectivos sean técnicamente
+compatibles y uniformes. El código de tiempo que se aplicará será idéntico para facilitar el montaje
+final.**»
+
+El código de tiempo común da a todas las cámaras la misma cuenta, para que el montador pueda
+sincronizarlas. Las cámaras que lo admiten se enganchan además a una señal de vídeo de referencia
+(*genlock*). El manual de la Sony PXW-X400 lo muestra: la cámara recibe el
+código de tiempo externo por su entrada de código de tiempo y la señal de vídeo de referencia por la
+de sincronización, y puede servir ella misma de referencia a otras cámaras encadenadas; si la
+frecuencia de la señal de referencia no es la del sistema de la cámara, la cámara no se sincroniza
+correctamente. Cómo se enlazan una y otra depende de las entradas y los menús de cada modelo; la
+grabación a dos cámaras ENG y lo que se iguala entre ellas se desarrolla en el tema 3.
+
 ### La homogeneidad de las cámaras
 
 En multicámara el espectador ve una imagen tras otra, de cámaras distintas, sin montaje que las
-iguale. Tres documentos de la EBU tratan de que esa sucesión no se note.
+iguale. Tres documentos de la EBU sirven a ese fin.
 
 El primero clasifica las cámaras por calidad para que la emisora sepa qué cámara destina a cada
 programa (EBU R 118 v2): «**Knowing which quality Tier a camera corresponds to will enable its
@@ -632,8 +663,9 @@ pero con límite: «**Broadcasters will usually limit the amount of Tier 3 mater
 programme to around 33%**». Y, como se ha visto, las cámaras especiales («**Tier SP**»: muy alta
 velocidad, minicámaras, macro) necesitan autorización de la emisora.
 
-El segundo mide la luz. El índice TLCI de la EBU (EBU Tech 3355) evalúa cómo reproducen las
-cámaras el color bajo una fuente de luz, y distingue dos maneras de leerlo: una para la producción
+El segundo mide la luz. El índice TLCI de la EBU (EBU Tech 3355) evalúa las propiedades
+colorimétricas de las luminarias, es decir, cómo se reproduce en cámara el color bajo su luz, y
+distingue dos maneras de leerlo: una para la producción
 con posproducción («**drama, wildlife and any production where significant post-processing is
 involved**») y otra para la «**Live multi-camera production [...] such as sport and news where
 pictures have no post-processing and the pictures are required only to be credible**». La propia
@@ -664,7 +696,8 @@ No hay norma jurídica que regule este tema. Los documentos que cita:
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004: apartados
   5.2 (grabación en exteriores), 5.3.2 (movimientos de cámara), 6.3.2 (duración de los planos de
   recurso), 6.5.2 (eficacia y espectáculo en la realización), 8.4 y 8.4.1 (retransmisiones) y
-  9.2.12.3 y 9.2.12.4 (reconstrucciones y recursos estéticos en sucesos). Es el criterio publicado
+  9.2.12.3 y 9.2.12.4 (reconstrucciones y recursos estéticos en sucesos) y 9.9.2 (selección de
+  imagen en el material objetable). Es el criterio publicado
   de la casa; no es una norma jurídica.
 - EBU R 118 v2, *Tiering of Cameras for use in Television Production*, Ginebra, abril de 2017.
 - EBU Tech 3335, *Methods of measuring the imaging performance of television cameras for the
@@ -672,7 +705,9 @@ No hay norma jurídica que regule este tema. Los documentos que cita:
 - EBU Tech 3355, *Method for the assessment of the colorimetric properties of luminaires. The
   Television Lighting Consistency Index (TLCI-2012) and the Television Luminaire Matching Factor
   (TLMF-2013)*, Ginebra, marzo de 2017.
-- Recomendación UIT-R BT.2020-2 (10/2015).
+- Recomendación UIT-R BT.2020-2 (10/2015), *Valores de los parámetros de los sistemas de
+  televisión de ultra alta definición para la producción y el intercambio internacional de
+  programas*.
 - Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021.
 - Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1).
 - Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B) y su ficha de especificaciones.
@@ -691,8 +726,8 @@ No hay norma jurídica que regule este tema. Los documentos que cita:
   y las unidades del relato, en el tema 2; la óptica y el obturador, en el tema 1.
 - El manejo de trípode, pedestal, grúa, estabilizador corporal, cardán, hombro, deslizador y
   sistemas remotos, en el tema 4; la luz, en el tema 5.
-- La operativa de estudio, unidad móvil y retransmisión (CCU, piloto, intercomunicación), en el
-  tema 3; la coordinación con redacción y realización, en el tema 8; la calidad técnica de imagen,
+- La operativa de estudio, unidad móvil y retransmisión (CCU, piloto, intercomunicación) y la
+  grabación a dos cámaras ENG con código de tiempo común, en el tema 3; la coordinación con redacción y realización, en el tema 8; la calidad técnica de imagen,
   en el tema 9; la cobertura de deportes y eventos, en el tema 10.
 - Las imágenes sensibles y las víctimas, en el tema 12; la seguridad del equipo y de las personas,
   en los temas 11 y 14.
@@ -704,18 +739,21 @@ Todas las fuentes se leyeron el 24/09/2026.
 | Fuente | Qué sostiene |
 |---|---|
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004, 5.2 (p. 80) | Estética de ficción, perspectivas extravagantes, cámara frontal a la altura de la mirada, innovaciones con intención previa, planos de recurso, imagen no grabada, trípode y hombro |
-| Íd., 5.3.2 (p. 81) | Prudencia y moderación en los movimientos |
+| Íd., 3.17.1.5 (p. 61) | Código de tiempo idéntico con dos o más cámaras ENG independientes |
+| Íd., 5.3.2 (p. 81) | Prudencia y moderación en los movimientos; el *zoom*, sólo en circunstancias excepcionales |
 | Íd., 6.3.2 (p. 91) | Duración mínima de los planos de recurso |
 | Íd., 6.5.2 (p. 93) | La imagen al servicio de la comunicación; cierta espectacularización |
 | Íd., 8.4 (p. 119) y 8.4.1 (p. 120) | Manda la imagen en las retransmisiones; repeticiones, tomas diferentes y ralentizaciones |
-| Íd., 9.2.12.3 y 9.2.12.4 (pp. 130-131) | Reconstrucción con imagen subjetiva y rótulo; cámara en mano, virado y artificios en sucesos |
-| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Cadencia de sensor y de proyecto; 25 y 50 fps en Europa; pérdida de luz al doblar la cadencia; parpadeo |
-| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1) | Supercámara lenta (cadencias, definición, limitaciones); velocidades de cámara rápida |
-| Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B), pp. 105, 107 y 108, y ficha de especificaciones | Cadencia de captación distinta de la de reproducción y sonido aparte; grabación por intervalos y sus limitaciones; grabación de fotogramas y pregrabación; estabilizador óptico con compensación digital |
-| EBU R 118 v2 (abril de 2017) | Niveles de cámara; «Tier SP»; límite del 33 % de «Tier 3» |
-| EBU Tech 3335 (agosto de 2014) | Obturación nominal; obturador de persiana |
+| Íd., 9.2.12.3 y 9.2.12.4 (pp. 130-131) | Reconstrucción con imagen subjetiva y rótulo; cámara en mano, virado, música y artificios en sucesos |
+| Íd., 9.9.2 (p. 167) | Ralentización e imagen congelada como efecto reprobable |
+| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Cadencia de sensor y de proyecto; 25 fps en Europa y hasta 50 fps en algunos deportes; pérdida de luz al doblar la cadencia; parpadeo y obturación sin parpadeo |
+| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1), pp. 57-58, 131, 146 y 154 | Supercámara lenta (cadencias, definición, limitaciones, funciones disponibles); velocidades de cámara rápida; sin sonido |
+| Sony, *PXW-X400 Operating Instructions*, 4-587-873-13(1), pp. 45-46 («Synchronizing the Timecode to an External Source») | Entradas de código de tiempo y de sincronización; cámara como referencia de otras; sin sincronización si la frecuencia de referencia no es la del sistema |
+| Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B), pp. 105, 107 y 108, y especificaciones | Modos especiales y su uso; cadencia de captación distinta de la de reproducción y sonido aparte; grabación por intervalos y sus limitaciones; grabación de fotogramas y pregrabación; estabilizador óptico con compensación digital |
+| EBU R 118 v2 (abril de 2017), 1.2, 2.6 y 2.9 | Niveles de cámara; «Tier SP»; límite del 33 % de «Tier 3» |
+| EBU Tech 3335 (agosto de 2014), 2.9 | Obturación nominal; obturador de persiana |
 | EBU Tech 3355 (marzo de 2017) | Lectura del TLCI para producción multicámara en directo |
-| Recomendación UIT-R BT.2020-2 (10/2015) | Frecuencia de red e iluminación en la elección de la cadencia |
+| Recomendación UIT-R BT.2020-2 (10/2015), versión española | Frecuencia de red e iluminación en la elección de la frecuencia de trama |
 
 **Oficio sin norma detrás**, y así se declara: la lectura combinada de los pasajes del Libro de
 estilo sobre creatividad; la angulación y su carga de sentido; el plano inclinado; el *travelling*
@@ -724,7 +762,7 @@ herramienta de elipsis; la elipsis y sus marcas; la analepsis y la prolepsis; el
 su riesgo en reportaje; el subjetivo y el escorzo; los dos usos de la cámara lenta; el *time lapse*
 como técnica y su forma de grabarlo; las cinco familias de estabilización, la distinción entre
 orientación y posición y los dos balances del estabilizador corporal; apagar el estabilizador en
-trípode; la comparación entre una cámara y multicámara; la planta de cámaras y el eje; el trabajo del
+trípode; la comparación entre una cámara y multicámara; la planta de cámaras y el eje; el corte en el mezclador del control; el papel del código de tiempo común en el montaje; el trabajo del
 operador en multicámara y la igualación desde la CCU. Las velocidades de reproducción, la pérdida de
 diafragmas por duplicación de cadencia, el tiempo de exposición con obturador de 180 grados y las
 cuentas del *time lapse* son aritmética sobre los datos de fabricante citados.

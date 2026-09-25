@@ -1,0 +1,25 @@
+# Puesto 08 · Tema 15 · Fase 4 · Preguntas tipo test
+
+Fecha: 24-09-2026. Contestadas sólo con el tema
+`temas/canal-sur-especificos/08-camara-operador/15-creatividad-visual-camara-lenta-multicamara.md`.
+Clave entre paréntesis. T = teoría; P = aplicación práctica.
+
+| Nº | Tipo | Pregunta y opciones | Clave | ¿La contesta el tema? |
+|---|---|---|---|---|
+| 1 | T | Según el Libro de estilo de Canal Sur (5.2), en las coberturas habituales de los informativos diarios la cámara se colocará: a) en ligero contrapicado para dar autoridad; b) frontalmente a los hechos con la óptica a la altura de la teórica mirada del espectador; c) donde decida el redactor; d) siempre al hombro para ganar inmediatez | b | Entera («La creatividad al servicio de la información») |
+| 2 | T | Las «innovaciones» (barridos, doble foco, *zoom* rápido), según el Libro de estilo: a) están prohibidas; b) sólo en directos; c) tienen que responder a una intención previa y son admisibles sólo en determinados formatos informativos; d) requieren permiso del realizador | c | Entera |
+| 3 | T | Según el apartado 5.3.2 del Libro de estilo, el *zoom*: a) se usa con libertad en exteriores; b) sólo se usará en circunstancias excepcionales y con el único objeto de mostrar correctamente una noticia que lo necesite; c) sólo en retransmisiones deportivas; d) debe sustituirse siempre por *travelling* | b | A medias: el tema da «sólo se usará en circunstancias excepcionales», pero corta la frase y omite «y con el único objeto de mostrar correctamente una noticia que lo necesite» (y que es «muy poco natural porque el ojo humano no lo hace»). Si el distractor fuera «en circunstancias excepcionales, a criterio del cámara», el tema no lo descarta |
+| 4 | P | Quiere un efecto Vértigo sobre un entrevistado. ¿Qué trayectoria sirve? a) *travelling* lateral con *zoom*; b) panorámica con *zoom*; c) *travelling* en línea recta hacia el sujeto o desde él mientras el *zoom* se ajusta en sentido opuesto; d) grúa ascendente con *zoom* | c | Entera («El *travelling* compensado») |
+| 5 | T | Según el Libro de estilo (6.3.2): a) los planos de menos de un segundo no son admisibles y los cortos de recurso deben durar, como mínimo recomendable, dos segundos; b) mínimo 5 s; c) mínimo 1 s para todos; d) no fija duraciones | a | Entera («El plano de recurso») |
+| 6 | T | La figura que muestra algo posterior y vuelve al presente: a) elipsis; b) analepsis; c) prolepsis; d) raccord | c | Entera |
+| 7 | T | Un plano largo grabado con cardán que lleva cortes disimulados: a) es plano secuencia porque lo hace un cardán; b) no es plano secuencia, porque le falta la condición «sin cortes»; c) es plano secuencia si dura más de un minuto; d) es un plano subjetivo | b | Entera («El plano secuencia») |
+| 8 | P | Para reconstruir un suceso en un informativo, el Libro de estilo (9.2.12.3) admite en caso necesario: a) actores con rótulo «Ficción»; b) escenas de cine; c) imagen subjetiva de cámara por los escenarios, sin personaje ni actor, y rótulo «Reconstrucción» todo el tiempo si el montaje de ficción es inevitable; d) nada | c | Entera |
+| 9 | P | Graba a 200 fps para reproducir a 25 fps. La acción se ve a: a) 50 %; b) 25 %; c) 12,5 %, y un segundo real dura 8 s; d) 800 % | c | Entera (tabla de «La cuenta») |
+| 10 | P | Pasa de 25 a 100 fps con la misma luz y el mismo ángulo de obturación. Para mantener la exposición: a) cerrar un diafragma; b) abrir dos diafragmas (o compensar con obturador o luz); c) abrir cuatro; d) nada | b | Entera («Lo que exige la alta cadencia») |
+| 11 | T | Según la EBU R 118 v2, las cámaras de muy alta velocidad y las minicámaras son: a) Tier 1; b) Tier 3, limitadas al 33 %; c) Tier SP: requieren aprobación de la emisora, tienen restricciones de cantidad y no suelen computar en el porcentaje de material de menor resolución; d) no están clasificadas | c | Entera |
+| 12 | P | Un proceso de 2 horas debe durar 30 s en pantalla a 25 fps, un fotograma por intervalo. El intervalo es: a) 4,8 s; b) 9,6 s; c) 24 s; d) 240 s | b (750 fotogramas; 7.200 ÷ 750) | Entera (cálculo inverso de «La cuenta: intervalo…») |
+| 13 | P | En la Canon XF605 la grabación por intervalos: a) funciona a 50.00i; b) permite cambiar el intervalo durante la grabación; c) no graba sonido y no se usa con la cadencia 59.94i ni 50.00i; d) se combina con la pregrabación | c | Entera |
+| 14 | T | Inclinación de verticales y aspecto «gelatina» con movimiento rápido se debe a: a) estabilizador óptico; b) obturador de persiana de sensores CMOS; c) sensores CCD; d) ganancia alta | b | Entera («El obturador de persiana») |
+| 15 | P | En una grabación a dos o más cámaras que luego se montará, ¿qué se enlaza entre ellas para que el montador pueda sincronizarlas y vayan al mismo compás de cuadro? a) el balance de blancos; b) el código de tiempo común y la sincronización de cuadro (*genlock*); c) el *tally*; d) el ángulo de obturación | b | No: el tema 15 no trata la sincronización multicámara ni remite al tema 3, que sí la da |
+
+Resultado: 13 enteras, 1 a medias (3), 1 no (15).

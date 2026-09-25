@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Cámara Operador · punto 1 |
 | **Sirve para** | Puesto 2.8, Cámara Operador (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Sin norma jurídica. Recomendaciones técnicas de la Unión Europea de Radiodifusión: EBU R 103 v3.0 (mayo de 2020), EBU R 118 v2 (abril de 2017) y EBU Tech 3335 (agosto de 2014). Documentación de fabricante: Sony, *PXW-Z200/HXR-NX800 Help Guide* (5-060-574-13(1), 2024) y *PXW-FS5/FS5K Operating Guide* (4-581-849-11(1)); Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual* (noviembre de 2021); Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B); nota de producto Fujinon UA22x4.8BERD (18 de marzo de 2026). Lo demás, oficio |
+| **Fuente** | Sin norma jurídica. Recomendaciones técnicas de la Unión Europea de Radiodifusión: EBU R 103 v3.0 (mayo de 2020), EBU R 118 v2 (abril de 2017) y EBU Tech 3335 (agosto de 2014). Documentación de fabricante: Sony, *PXW-Z200/HXR-NX800 Help Guide* (5-060-574-13(1), 2024) y *PXW-FS5/FS5K Operating Guide* (4-581-849-11(1)); Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual* (noviembre de 2021); Canon, *XF605 Instruction Manual* (PUB. DIE-0559-000B); Sony, *PXW-X400 Operating Instructions* (4-587-873-13(1), 2015); nota de producto Fujinon UA22x4.8BERD (18 de marzo de 2026), su ficha de especificaciones y las preguntas frecuentes de soporte de FUJINON. Lo demás, oficio |
 | **Redacción que se estudia** | Las ediciones de las recomendaciones EBU vigentes el 24/09/2026 (R 103 en su versión 3.0; R 118 en su versión 2) |
-| **Extensión** | 9.700 palabras aproximadamente |
+| **Extensión** | 10.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -31,7 +31,7 @@ temperatura de color; lux (**lx**); cuadros por segundo (**fps**); los tres prim
 azul (**RGB**) y la luminancia (**Y**).
 
 Los rótulos de menú y de panel se escriben tal como los imprime el fabricante (***Peaking***,
-***Zebra***, ***Auto ND Filter***, ***ATW***, ***KNEE***…): son rótulos de la máquina, no siglas,
+***Zebra***, ***Auto ND Filter***, ***ATW***, ***KNEE***, ***NG***…): son rótulos de la máquina, no siglas,
 y cambian de una marca a otra.
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
@@ -44,10 +44,10 @@ y cambian de una marca a otra.
 tribunal puede preguntar: qué pieza convierte la carga del sensor en números; en qué se diferencian
 un CCD y un CMOS y qué defecto da cada uno; qué es una máscara de Bayer y qué la distingue de un
 bloque de tres sensores con prisma; cómo se relacionan focal, ángulo, diafragma, distancia y
-profundidad de campo; qué es la velocidad de un objetivo y cómo se lee su referencia; cómo se ajusta
-el tiraje; para qué sirven el realce de contornos, la lupa y la cebra; qué hace el *knee*; qué
+profundidad de campo; qué es la velocidad de un objetivo y cómo se lee su referencia; qué hace el extensor y
+cuánta luz cuesta; cómo se ajusta el tiraje; para qué sirven el realce de contornos, la lupa y la cebra; qué hace el *knee*; qué
 niveles de señal recomienda la EBU; qué es el balance de blancos y cuándo no conviene el automático
-continuo; a cuántos pasos equivalen 6, 12 o 18 dB de ganancia y qué cuestan; qué filtro usar para
+continuo; cuándo hay que hacer el balance de negros; a cuántos pasos equivalen 6, 12 o 18 dB de ganancia y qué cuestan; qué filtro usar para
 oscurecer un cielo o para abrir el diafragma con mucha luz. En la prueba práctica: preparar y
 ajustar una cámara de reportaje antes de una toma (tiraje, balance, exposición, filtro, foco).
 
@@ -70,6 +70,7 @@ ajustar una cámara de reportaje antes de una toma (tiraje, balance, exposición
   - [La distancia focal y el ángulo de visión](#la-distancia-focal-y-el-ángulo-de-visión)
   - [Cómo se lee la referencia de un objetivo](#cómo-se-lee-la-referencia-de-un-objetivo)
   - [El diafragma y el número f](#el-diafragma-y-el-número-f)
+  - [El extensor](#el-extensor)
   - [La difracción](#la-difracción)
   - [La profundidad de campo](#la-profundidad-de-campo)
   - [El círculo de confusión y la distancia hiperfocal](#el-círculo-de-confusión-y-la-distancia-hiperfocal)
@@ -95,6 +96,7 @@ ajustar una cámara de reportaje antes de una toma (tiraje, balance, exposición
   - [Qué es y qué hace la cámara](#qué-es-y-qué-hace-la-cámara)
   - [Cómo se hace](#cómo-se-hace)
   - [El balance automático continuo](#el-balance-automático-continuo)
+  - [El balance de negros](#el-balance-de-negros)
 - [Ganancia](#ganancia)
   - [Decibelios y pasos](#decibelios-y-pasos)
   - [El precio: el ruido](#el-precio-el-ruido)
@@ -164,8 +166,9 @@ Los niveles de alta definición, literales (§ 1.2):
 | HD Tier 4 | «**Small consumer HD cameras (broadcaster approval required before use)**» |
 | Tier SP | «**Specialist or special effects cameras (broadcaster approval required before use)**» |
 
-Para UHD hay además dos niveles por resolución: UHD1 Tier 1 (**3840 x 2160**) y UHD1 Tier 2
-(**≥ 2715 x 1527**), y UHD2 Tier 1 (**7680 x 4320**) y UHD2 Tier 2 (**≥ 5430 x 3054**).
+Para UHD hay además dos niveles en cada una de sus dos resoluciones, según la resolución medida a la
+salida: UHD1 Tier 1 (**3840 x 2160**) y UHD1 Tier 2 (**at least 2715 x 1527**), y UHD2 Tier 1
+(**7680 x 4320**) y UHD2 Tier 2 (**at least 5430 x 3054**).
 
 Tres datos de la recomendación que tocan al informativo:
 
@@ -182,7 +185,7 @@ Los criterios de clasificación son el códec y cinco áreas de imagen: «**Nois
 Exposure Range · Spatial Resolution · Spatial Alias artefacts**»; «**Apart from spatial aliasing,
 each factor can be measured using the procedures of EBU Tech 3335.**» El códec «**does not apply to
 system cameras unless on-board recording in used**» (así en el original). Ruido, sensibilidad y
-margen de exposición se tratan más abajo, en su epígrafe.
+margen de exposición se tratan más abajo, cada uno en su epígrafe.
 
 ### Del fotón al número
 
@@ -197,8 +200,7 @@ Cuatro pasos separan la luz de un fichero (oficio):
 
 El dispositivo que convierte las tensiones eléctricas almacenadas en cada píxel en valores digitales
 de código binario es el ADC o conversor analógico-digital. Ni el sensor, que convierte luz en carga,
-ni el amplificador de cada fotosito, que amplifica, digitalizan: la palabra que decide es «binario»,
-y sólo un conversor analógico-digital produce números.
+ni el amplificador de cada fotosito, que amplifica, digitalizan.
 
 ## Sensores
 
@@ -251,8 +253,9 @@ No hay que confundirla con el filtro óptico paso bajo, otra pieza que va delant
 limita el detalle más fino para que no aparezca muaré. La distinción: la máscara de Bayer da color;
 el filtro paso bajo evita el muaré.
 
-La EBU admite los dos diseños en todos sus niveles y fija el tamaño de sensor recomendado para cada
-uno (EBU R 118 v2, tabla 2):
+La EBU admite los dos diseños en los niveles de su tabla (para el HD Tier 4 y el Tier SP remite a
+lo que indique la emisora) y da el tamaño de sensor recomendado para cada uno (EBU R 118 v2,
+tabla 2):
 
 | Nivel | Un sensor | Tres sensores |
 |---|---|---|
@@ -356,6 +359,27 @@ En muchos zooms la apertura máxima no es la misma en todo el recorrido: la fich
 «**F/2.8 – 4.5**». La cifra mayor corresponde al extremo tele: al cerrar el plano con el zoom, la
 óptica pierde luz (oficio).
 
+### El extensor
+
+Hay zooms de televisión que llevan un extensor óptico incorporado, que multiplica todas las focales.
+La ficha del Fujinon UA22x4.8BERD da «**Extender 2x**» y dos recorridos, «**[1x] 4.8-106mm**» y
+«**[2x] 9.6-212mm**»; con él, el ángulo horizontal en tele baja de «**106mm 5.2°x 2.9°**» a
+«**212mm 2.6°x 1.5°**» (Fujifilm, especificaciones del UA22x4.8BERD). Es decir: el extensor dobla la
+focal y reduce el ángulo a la mitad, sin cambiar la relación de zoom.
+
+El precio es la luz. FUJINON lo explica así: «**F-stops are determined by dividing the focal length
+of your lens by the diameter of the aperture opening. Adding a teleconverter to your lens reduces the
+amount of light hitting the sensor by the factor of magnification, so a 2x conversion will reduce the
+light falling on the sensor by two stops.**» (FUJINON, preguntas frecuentes de soporte). La cuenta
+casa con la escala de números f: doblar la focal con la misma abertura dobla el número f, y doblar el
+número f son dos pasos de raíz de dos (f/1,8 pasa a f/3,6). Esa pérdida se suma a la que ya tiene el
+zoom en el extremo tele: el mismo UA22x4.8BERD abre «**1:1.8 (4.8-61ｍｍ) 1:3.15 (106mm)**».
+
+La cámara avisa de que el extensor está puesto: en la PXW-X400, el indicador «**EX: Appears when the
+lens extender function is ON**» (Sony, *PXW-X400 Operating Instructions*). La consecuencia de oficio:
+con poca luz, meter el extensor obliga a abrir dos pasos más o a subir ganancia, y hay que acordarse
+de quitarlo, porque la imagen oscurecida no delata por sí sola la causa.
+
 ### La difracción
 
 Cerrar mucho el diafragma no da más nitidez sin límite. Los fabricantes lo advierten: «**When
@@ -375,6 +399,10 @@ aceptablemente nítida (oficio). Depende de tres cosas:
 | Distancia focal | Focal más larga → menos profundidad, a igual distancia de enfoque |
 | Distancia de enfoque | Más lejos → más profundidad |
 
+A esos tres factores físicos se añade el criterio con el que se juzga qué es nítido, el círculo de
+confusión, que entra en el cálculo (se explica en el epígrafe siguiente); una lista de «factores de
+la profundidad de campo» puede incluirlo.
+
 Reduciendo la apertura del diafragma se aumenta la profundidad de campo, porque un diafragma más
 cerrado hace más estrecho el cono de rayos que llega a cada punto del sensor, así que los puntos que
 están fuera del plano de enfoque dibujan un círculo más pequeño y caen dentro del límite de lo que se
@@ -392,14 +420,11 @@ distinga de un punto nítido. Es el criterio con el que se decide qué es nítid
 en el cálculo de la profundidad de campo y de la hiperfocal. No hay un punto nítido y todo lo demás
 borroso; hay una zona en la que el desenfoque no se nota.
 
-La distancia hiperfocal es la distancia de enfoque a partir de la cual todo, desde la mitad de esa
-distancia hasta el infinito, queda dentro de la profundidad de campo. Es el ajuste que da la máxima
+La distancia hiperfocal es la distancia de enfoque con la que todo, desde la mitad de esa distancia
+hasta el infinito, queda dentro de la profundidad de campo. Es el ajuste que da la máxima
 profundidad posible con una focal y un diafragma dados. Los tres factores que intervienen en su
 cálculo son la distancia focal, la apertura del diafragma y el círculo de confusión. La obturación
-no influye: el obturador controla cuánto tiempo llega la luz al sensor, y la nitidez de un punto
-fuera de foco es un problema de geometría, no de tiempo. Cerrar el diafragma suele obligar a
-alargar la obturación para mantener la exposición, así que las dos cosas cambian juntas; pero la que
-altera la profundidad es el diafragma.
+no influye: la nitidez de un punto fuera de foco es un problema de geometría, no de tiempo.
 
 ### El tamaño del sensor y la profundidad de campo
 
@@ -407,8 +432,9 @@ Las cámaras con sensores grandes dan menores profundidades de campo que las de 
 tercios de pulgada, a igual encuadre y distancia, porque un sensor grande abarca más escena con la
 misma óptica y exige una focal más larga para el mismo encuadre (oficio). El razonamiento:
 
-1. La profundidad de campo depende de la focal, del diafragma y de la distancia de enfoque. El
-   tamaño del sensor no aparece en esa lista.
+1. La profundidad de campo depende de la focal, del diafragma y de la distancia de enfoque, con el
+   círculo de confusión como criterio de nitidez. El tamaño del sensor no aparece en esa lista de
+   factores físicos.
 2. Pero un sensor grande abarca más escena con la misma óptica, así que para conseguir el mismo
    encuadre desde el mismo sitio hay que poner una focal más larga.
 3. Y a más focal, menos profundidad de campo, manteniendo la distancia de enfoque.
@@ -447,12 +473,18 @@ parásita dentro del objetivo, y el *knee*, que es un ajuste electrónico de la 
 La montura es la unión mecánica y óptica entre objetivo y cuerpo, y cada una tiene su distancia de
 brida. Sony la define como la distancia «**from the lens attachment surface and the plane of the
 imaging device**» (PXW-Z200 Help Guide, «Adjusting the Flange Focal Distance»). Los objetivos de
-televisión de 2/3 de pulgada usan la montura B4, detrás de la cual va el bloque de prisma de tres
-sensores (oficio).
+televisión de 2/3 de pulgada usan la montura B4 (oficio).
 
-La consecuencia práctica de la distancia de brida (oficio): un objetivo se puede adaptar a un
-cuerpo cuya brida sea más corta, poniendo un anillo que rellene la diferencia; nunca a uno cuya
-brida sea más larga.
+La consecuencia práctica de la distancia de brida (oficio): con un simple anillo, un objetivo se
+puede adaptar a un cuerpo cuya brida sea más corta, rellenando la diferencia; a uno cuya brida sea
+más larga, no, porque el objetivo quedaría demasiado lejos del sensor. FUJINON lo dice de una
+serie suya de objetivos para cámaras sin espejo: «**[...] designed for cameras with a short flange
+distance, so while you could design a mount adapter to physically mount it, it won’t focus to the
+sensor.**» Hay además adaptadores con óptica, que no rellenan una distancia sino que cambian el
+tamaño de la imagen, y cuestan luz: para montar objetivos de 2/3 de pulgada en cámaras Super 35,
+«**many types of B4 to PL mount expanders are available on the market. Typically, there will be
+between 1 and 1½ stops less light with any lens expander when changing the image circle of your
+lens.**» (FUJINON, preguntas frecuentes de soporte).
 
 ### El estabilizador
 
@@ -541,7 +573,7 @@ tracking available**».
 
 Lo que un operador ajusta del autofoco:
 
-- La zona: en la Z200, «**[Wide]**» busca el sujeto en todo el cuadro, «**[Zone]**» dentro de una
+- La zona: en la Z200, «**[Wide]**» busca el sujeto en una zona amplia del cuadro, «**[Zone]**» dentro de una
   zona y «**[Flexible Spot]**» en un punto elegido.
 - La velocidad de transición: con «**[1(Slow)]**», «**the focus moves slowly when the subject to be
   focused changes**»; con «**[7(Fast)]**», el cambio es inmediato, «**ideal for documentary shooting
@@ -593,6 +625,10 @@ del cuadro y 180° la mitad (oficio). La Z200 admite las dos formas: «**You can
 as an angle, or set the shutter speed value directly according to the frequency of the light
 source.**» La EBU toma como nominal «**1/50 second for 50 Hz, 1/60 for 59.94 Hz, or 180 degrees for
 either**» (EBU Tech 3335, § 2.9).
+
+Ojo con esa equivalencia: 180° sólo son 1/50 s cuando se graba a 25 cuadros por segundo. El tiempo
+de obturación es el ángulo dividido por 360 y multiplicado por la duración del cuadro: a 25 cuadros,
+180° son 1/50 s; a 50 cuadros, 180° son 1/100 s, y 360° son 1/50 s.
 
 Un obturador más corto congela el movimiento y quita luz; uno más largo deja estela. Y la cadencia
 también cuesta luz: «**if you switch from 25 to 50 frames per second, the amount of light reaching
@@ -681,7 +717,8 @@ para conservar información en las luces, como la ventana de una entrevista en i
 
 El margen de exposición (latitud) es la distancia entre la luz más baja y la más alta que la cámara
 registra con detalle: «**It is limited at the low end by noise levels, and at the high end by the
-clipping level.**» (EBU R 118 v2, § 3.1.3). La EBU da cifras de referencia (EBU Tech 3335):
+clipping level.**» (EBU R 118 v2, § 3.1.3). La EBU da cifras de referencia (EBU Tech 3335, § 2.4 y
+4.4):
 
 - Margen sobre el blanco: «**This ‘headroom’ varies in cameras between about 1 stop and 3 stops.**»
 - Margen total: «**A typical broadcast camera with video noise levels of about -50dB can capture
@@ -705,13 +742,19 @@ foco y el encuadre por lo que ve en el visor; con una imagen lavada no se ve si 
 quemada ni si un rostro está bien expuesto. La LUT de monitorización devuelve al visor un contraste
 juzgable sin tocar lo que se graba.
 
-| | Lo que se graba | Lo que se ve en el visor |
+| | Lo que se graba | Lo que se ve en el visor o en la salida |
 |---|---|---|
 | Sin LUT | Logarítmico | Logarítmico: lavado |
 | Con LUT de monitorización | Logarítmico, sin cambios | Con el contraste aplicado: juzgable |
 
-La salida SDI lleva la misma señal logarítmica: un monitor conectado ahí verá la misma imagen
-lavada, salvo que el propio monitor aplique una LUT. La interfaz es un transporte, no un procesador.
+La LUT se activa por separado para cada salida. La Z200 tiene un ajuste para las salidas de vídeo,
+«**[SDI/HDMI] (PXW-Z200 only) [LUT On] / [LUT Off]**», que «**Selects whether to apply a monitor
+LUT to the SDI and HDMI output video.**», y otro para «**[LCD/VF/Proxy/Stream]**», que «**Selects
+whether to apply a monitor LUT to the LCD, viewfinder, and proxy output video.**»; los dos vienen de
+fábrica en «**[LUT Off]**» y sólo se configuran en el modo logarítmico («**Configurable in log
+shooting mode.**», PXW-Z200 Help Guide). Por tanto, un monitor conectado por SDI verá la imagen
+lavada si la LUT de esa salida está apagada, aunque el visor la tenga encendida, y verá el
+contraste corregido si se activa; también puede aplicarla el propio monitor.
 
 Las cámaras de reportaje traen curvas logarítmicas y de alto rango dinámico junto a las de
 televisión estándar: la Z200 ofrece, entre sus aspectos base, «**[ITU709]**», «**[S-Log3]**» y
@@ -722,7 +765,8 @@ televisión estándar: la Z200 ofrece, entre sus aspectos base, «**[ITU709]**»
 La sensibilidad de una cámara se da como el diafragma con el que se expone bien una carta en
 condiciones fijas. El método de la EBU: «**Measure the exposure lens aperture, at 2000-lux
 illumination level and 0 dB gain (or the recommended nominal gain setting), at which the white side
-of a Kodak Gray card produces peak white signal level (100%).**»; y «**the exposure figure should
+of a Kodak Gray card produces peak white signal level (100%).**», con la corrección de gamma
+desactivada o con una curva estándar sin *knee*; y «**the exposure figure should
 match the manufacturer’s specification (normally taken for a white card with 89.9%
 reflectance)**» (EBU R 118 v2, § 3.1.2). Así se leen las fichas: la Canon XF605 da «**(2000 lux,
 89.9% reflection, [High Sensitivity Mode] set to [On]) [...] 50.00 Hz: F13 (at 50.00P)**». A mayor
@@ -730,7 +774,7 @@ número f en esa prueba, más sensible es la cámara.
 
 Con curva logarítmica la cámara puede no llegar al 100 %; entonces la EBU mide el diafragma que da
 «**exactly 50% signal level [...] with 2000 lux illumination of a 90% grey card. This exposure level
-is typically 2 stops below peak exposure for a conventional gamma curve**» (EBU Tech 3335).
+is typically 2 stops below peak exposure for a conventional gamma curve**» (EBU Tech 3335, § 2.3).
 
 ## Balance de blancos
 
@@ -771,8 +815,8 @@ White Balance Manually»):
 4. Se pulsa el botón de balance (WB SET): el resultado se guarda en la memoria elegida.
 
 Las memorias permiten tener dos balances listos —por ejemplo, interior y exterior— y pasar de uno a
-otro sin repetir la medida. Los preajustes de la Z200 en modo estándar son «**[3200K] → [4300K] →
-[5600K] → [6300K]**», y la temperatura puede fijarse a mano entre «**2000 K to 15000 K**» (ficha
+otro sin repetir la medida. Los preajustes de la Z200 en el modo de grabación personalizado (*Custom shooting mode*;
+en el logarítmico cambian) son «**[3200K] → [4300K] → [5600K] → [6300K]**», y la temperatura puede fijarse a mano entre «**2000 K to 15000 K**» (ficha
 técnica).
 
 ### El balance automático continuo
@@ -788,6 +832,39 @@ El aviso de oficio: el balance automático continuo es el enemigo del montaje. D
 escena salen de distinto color, y el montador no puede casarlas. En reportaje se hace balance fijo y
 se rehace cuando cambia la luz. En multicámara, además, el balance tiene que ser igual en todas las
 cámaras, y de eso responde el control de imagen.
+
+### El balance de negros
+
+Una cámara de hombro como la Sony PXW-X400 tiene, junto al de blancos, un balance de negros, que
+iguala el nivel de negro de los canales para que el negro salga neutro (oficio). En la X400 el
+mismo conmutador sirve para los dos: «**AUTO W/B BAL (automatic white/black balance adjustment) switch**», y en su posición BLACK
+«**Adjust the black set and black balance automatically.**» El fabricante dice cuándo hace falta:
+
+- «**When the camcorder is used for the first time**»;
+- «**When the camcorder has not been used for a long time**»;
+- «**When the camcorder is used under conditions in which the surrounding temperature has changed
+  greatly**»;
+- cuando se han cambiado los valores de las posiciones del selector de ganancia.
+
+Y cuándo no: «**It is not usually necessary to adjust the black balance when using the camcorder
+after it has been off.**» Lo que obliga a rehacer el de blancos es otra cosa, la luz: «**Always
+readjust the white balance when the lighting conditions change.**»
+
+El procedimiento: salida de cámara en CAM y conmutador a BLACK. La cámara ajusta primero el nivel
+de negro y después el balance («**black set and black balance**»), y lo hace sin luz: «**During the
+black balance adjustment, the iris is automatically closed.**» Si el diafragma no cierra, sale el
+aviso «**NG: Iris not Closed**»; y el manual advierte aparte de que, con el cable del objetivo mal
+conectado, puede no ajustarse el diafragma y el balance de negros sale incorrecto. El automático no
+funciona «**During recording**», «**During special recording modes**» ni «**When the shutter mode
+is SLS**». El resultado se guarda en memoria y se conserva apagada la cámara
+(Sony, *PXW-X400 Operating Instructions*, «Adjusting the Black Balance and White Balance»). Hacerlo
+antes que el de blancos, cuando toca hacer los dos, es costumbre de oficio: el manual los presenta en
+ese orden, pero no lo impone.
+
+No todas las cámaras lo traen como mando: en la documentación de la Z200 no aparece un balance de
+negros automático, y su menú de imagen ofrece niveles de negro que se ajustan a mano, «**[Master
+Black]**», «**[R Black]**» y «**[B Black]**», sólo en el modo de grabación personalizado («**Enabled
+in custom shooting mode only.**», PXW-Z200 Help Guide, «[Paint/Look] – [Black]»).
 
 ## Ganancia
 
@@ -807,7 +884,7 @@ decimal de 2 es aproximadamente 6.
 | +12 dB | 2 pasos | Mucho |
 | +18 dB | 3 pasos | La imagen ya es ruidosa |
 
-Las cámaras dan la ganancia en conmutador de tres posiciones con valores preajustables: en la Z200,
+Muchas cámaras dan la ganancia en conmutador de tres posiciones con valores preajustables: en la Z200,
 el conmutador ISO/GAIN tiene posiciones L, M y H, cuyo valor se cambia en el menú, y la ganancia va
 de «**−3 dB to +36 dB (1 dB increments, using SDR ITU709)**» (ficha técnica). Algunas cámaras la
 expresan también como sensibilidad ISO: la Canon XF605 da «**ISO200 to ISO12800**» y «**Gain: –6 dB
@@ -818,7 +895,9 @@ razón que el diafragma automático.
 
 ### El precio: el ruido
 
-La EBU fija la relación señal/ruido mínima de cada nivel de cámara (EBU R 118 v2, tabla 6):
+La EBU da la relación señal/ruido apropiada de cada nivel de cámara (EBU R 118 v2, tabla 6), con
+carácter orientativo en los niveles inferiores: la tabla anota «**Guidance only**» en 2L y 2J y «**For
+guidance**» en el 3:
 
 | Nivel | Relación señal/ruido |
 |---|---|
@@ -829,7 +908,7 @@ La EBU fija la relación señal/ruido mínima de cada nivel de cámara (EBU R 11
 Y dos matices: «**Noise should be rated by its impact and visibility as well as by measurement.**»;
 y la ganancia negativa mejora el ruido: «**Some camera menus allow negative gain settings (with
 respect to the published 0 dB). It is therefore possible to improve the S/N ratio using a negative
-(lower) gain setting.**» Cada 6 dB de ruido de más cuestan además un paso de margen de exposición
+(lower) gain setting.**» Cada 6 dB de ruido de más cuestan además, aproximadamente, un paso de margen de exposición
 (epígrafe «El margen de exposición»), y subir la ganancia hace más visibles los píxeles blancos del
 sensor.
 
@@ -842,9 +921,8 @@ zonas bien iluminadas se mantiene.
 
 ### La ganancia es el último recurso
 
-Cada paso de ganancia es un paso de ruido, y el ruido de una toma no se quita después. Antes de
-subir ganancia se abre el diafragma, se baja la obturación si el movimiento lo permite y se añade
-luz (oficio).
+Cada paso de ganancia es un paso de ruido, y el ruido de una toma no se quita después; por eso la
+ganancia va la última en el orden de los mandos de exposición (oficio).
 
 ## Filtros
 
@@ -856,7 +934,7 @@ llevan dentro, en una rueda o disco con posiciones fijas y, en las más reciente
 - Sony PXW-Z200: «**[Clear]: No ND filter**», «**1: 1/4ND**», «**2: 1/16ND**», «**3: 1/64ND**»
   (valores de fábrica de las tres posiciones, que el menú permite cambiar entre «**1/4 / 1/8 / 1/16 /
   1/32 / 1/64 / 1/128**») y «**Linearly variable ND: 1/4ND to 1/128ND**».
-- Sony PXW-FS5: posiciones «**1/4**», «**1/16**», «**1/64**» y modo variable «**in the range 1/4 to
+- Sony PXW-FS5: posiciones con valores de fábrica «**1/4**», «**1/16**», «**1/64**» y modo variable «**in the range 1/4 to
   1/128**».
 - Canon XF605: «**ND Filter Built-in (Off,1/4, 1/16, 1/64), motor operated**».
 
@@ -903,7 +981,7 @@ Se enroscan o se colocan delante del objetivo (el de la Z200 tiene un diámetro 
 
 | Filtro | Qué hace | Cuándo se usa |
 |---|---|---|
-| Polarizador | Elimina la luz polarizada por reflexión | Cielos, reflejos en cristal y en agua |
+| Polarizador | Reduce la luz polarizada por reflexión | Cielos, reflejos en cristal y en agua |
 | Degradado | Oscurece una parte del cuadro | Cielos muy contrastados frente al suelo |
 | Difusor | Suaviza | Retrato |
 | Ultravioleta y de protección | Protege el frontal | Siempre |
@@ -961,18 +1039,22 @@ Todas las fuentes se leyeron el 24/09/2026.
 |---|---|
 | EBU R 103 v3.0 (mayo de 2020), anexos 1 y 2, tabla 1 | Márgenes nominal, preferente y total; error de gama; recortadores en directo; 0-700 mV |
 | EBU R 118 v2 (abril de 2017), § 1.2, 1.3, 3.1.2-3.1.5, tablas 2 y 6 | Niveles de cámara, tamaños de sensor, criterios, tamaño de píxel, relación señal/ruido, ganancia negativa, sensibilidad, latitud, resolución, aliasing |
-| EBU Tech 3335 (agosto de 2014), § 2.9 y 4.4 | Obturador de persiana, obturación nominal, margen sobre blanco, margen dinámico y ruido, medida con curva logarítmica |
+| EBU Tech 3335 (agosto de 2014), § 2.3, 2.4, 2.9 y 4.4 | Obturador de persiana, obturación nominal, margen sobre blanco, margen dinámico y ruido, medida con curva logarítmica |
 | Sony, *PXW-Z200/HXR-NX800 Help Guide*, 5-060-574-13(1), 2024 | Sensor, zoom y diafragma, estabilizador, foco manual, tiraje automático, lupa, autofoco, diafragma, ganancia, obturación, parpadeo, ND, balance de blancos, cebra, monitor de señal, píxeles blancos, aspectos base |
 | Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1) | Realce de contornos, lupa, detección de caras, cebra, ND |
 | Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Realce de contornos, cebra, falso color, parpadeo, cadencia y luz |
 | Canon, *XF605 Instruction Manual*, PUB. DIE-0559-000B (especificaciones) | Sensor, zoom, autofoco, ganancia e ISO, sensibilidad, ND, preajustes de balance, estabilizador |
 | Fujifilm North America, nota de producto FUJINON UA22x4.8BERD, 18 de marzo de 2026 | Ejemplo de referencia de objetivo de 2/3 de pulgada (4,8-106 mm, 22x) |
+| Fujifilm, especificaciones del UA22x4.8BERD (página «4K Portable Lenses») | Extensor 2x, focales con y sin extensor, ángulos, apertura máxima |
+| FUJINON, preguntas frecuentes de soporte | Pérdida de dos pasos con extensor 2x; adaptadores de montura y expansores B4-PL |
+| Sony, *PXW-X400 Operating Instructions*, 4-587-873-13(1), 2015 | Indicador de extensor; balance de negros: conmutador, cuándo, procedimiento, avisos |
 
 **Oficio sin norma detrás**, y así se declara: las familias de cámara y el reparto de tareas con el
 control de imagen; la cadena del fotón al número; la comparación entre CCD y CMOS y la máscara de
 Bayer; la definición de focal, ángulo, número f, profundidad de campo, círculo de confusión,
 hiperfocal y aberraciones; la lectura de la referencia de un objetivo; el procedimiento manual de
-ajuste de tiraje; el orden de los mandos de exposición; el *knee*; la curva logarítmica y la LUT;
+ajuste de tiraje; el orden de los mandos de exposición; la cuenta del ángulo de obturación; el orden entre balance
+de negros y de blancos; el *knee*; la curva logarítmica y la LUT;
 la definición de balance de blancos y sus tres caminos; la equivalencia entre decibelios y pasos,
 que es además una cuenta (20 · log₁₀ 2 ≈ 6); los circuitos de sombras; y el uso de los filtros
 delanteros y de la bandera francesa.

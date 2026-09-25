@@ -120,8 +120,10 @@ preparada para que sus planos casen con los de otra.
 
 La calidad técnica de una imagen no es una impresión: se mide. La EBU propone clasificar las cámaras
 «**according to their technical specifications and their measured quality based on the results of
-tests that are specified in EBU Tech 3335**» (R 118 v2), y fija cinco criterios de medida, a los que
-suma el códec de grabación:
+tests that are specified in EBU Tech 3335**» (R 118 v2, parte que empieza «**Recommends that**»).
+En su § 1.1 habla de «**five areas that are specific to the actual camera and (where applicable) to
+the on-board codec**», pero su lista tiene seis entradas y empieza por el códec; aquí se ordenan con
+el códec al final:
 
 | Criterio (R 118) | Qué es |
 |---|---|
@@ -130,7 +132,7 @@ suma el códec de grabación:
 | ***Exposure Range*** | La latitud: cuántos pasos de luz caben entre el ruido y el recorte |
 | ***Spatial Resolution*** | La resolución real, no el número de píxeles |
 | ***Spatial Alias artefacts*** | Los defectos de solapamiento sobre texturas finas |
-| ***Codec*** | La compresión con que graba la cámara, que sólo cuenta si graba a bordo |
+| ***Codec*** | La compresión con que graba la cámara; en las cámaras de sistema sólo cuenta si graban a bordo |
 
 La propia recomendación dice que «**Apart from spatial aliasing, each factor can be measured using
 the procedures of EBU Tech 3335.**» Y avisa de que el códec puede estropear lo que el sensor ganó:
@@ -198,7 +200,9 @@ Tres datos que sirven al operador de informativos:
   make**».
 - El material de nivel 3 se raciona: «**Broadcasters will usually limit the amount of Tier 3
   material allowed in an HD programme to around 33%**».
-- HD Tier 1 pide «**10-bit**» y «**4:2:2**»; HD Tier 2L y 2J, «**8-bit (10-bit preferred)**».
+- En el procesado mínimo de su tabla 2, HD Tier 1 figura con «**10-bit**» y «**4:2:2**», y HD Tier
+  2L y 2J con «**8-bit (10-bit preferred)**». El texto del nivel 1 (§ 2.7) es más blando que la tabla
+  en los bits: «**10-bit processing preferred**», junto a «**4:2:2 processing**».
 
 ### Los instrumentos de medida
 
@@ -268,7 +272,7 @@ defectos tiran en direcciones contrarias:
 | Abertura mínima —f/16, f/22— | La difracción: al estrecharse mucho el paso, la luz se dispersa en el borde del iris y el detalle se emborrona. Este defecto no depende de la calidad de la lente: es física |
 | Aberturas intermedias | El punto dulce: el diafragma ya ha tapado los bordes de la lente y todavía no es tan pequeño como para difractar |
 
-Dónde cae en la práctica: unos dos o tres pasos por debajo de la abertura máxima. No es un valor
+Dónde cae en la práctica: cerrando unos dos o tres pasos desde la abertura máxima. No es un valor
 fijo: es una posición relativa dentro de la escala de cada objetivo (oficio).
 
 El fabricante lo dice para la cámara de reportaje, y da el remedio: «**When shooting a bright
@@ -286,10 +290,12 @@ objetivo y el plano del sensor. Si esa distancia no es exactamente la que el obj
 enfoque no se mantiene al recorrer el zoom (oficio). Es el defecto de foco más típico de un zoom de
 televisión: la imagen enfocada en tele se ablanda al abrir al angular.
 
-Cuándo hay que hacerlo: cada vez que se cambia de objetivo o de cuerpo, cuando el equipo ha sufrido
-un golpe y cuando hay un cambio grande de temperatura, porque los metales se dilatan (oficio).
+Cuándo hay que hacerlo: un fabricante pide comprobarlo al montar el objetivo y al cambiarlo: «**When
+you first mount a B4 lens on your camera you should check that the back focus is correct. Back focus
+should also be checked when you swap lenses**» (Blackmagic, URSA Broadcast G2). Por oficio, también
+cuando el equipo ha sufrido un golpe y cuando hay un cambio grande de temperatura.
 
-El método, paso a paso (oficio):
+El método, paso a paso (oficio, coincidente con el que describe ese manual):
 
 1. Se va al tele sobre un punto o una carta alejados, con el diafragma abierto, y se enfoca ahí,
    porque en el tele la profundidad de campo es mínima: es donde el error de foco se ve.
@@ -400,7 +406,7 @@ contained in this document should be followed closely.**»
 
 Tres avisos más de R 103:
 
-- Recortar mal es peor que no recortar: el recorte «**can cause harmonic distortion and alias
+- El recorte tiene un precio: la señal que excede el rango total se recorta, y ese recorte «**can cause harmonic distortion and alias
   artefacts in the video signal, which manifests as compression artefacts and the potential for
   increased data rates**».
 - Los legalizadores automáticos, con cuidado: «**colour gamut "legalisers" should be used with
@@ -432,29 +438,44 @@ En una cámara de reportaje actual esos ajustes están en el menú de pintura. E
 [Knee] tiene [Setting] y [Auto Knee] activados de fábrica en SDR, un punto regulable «**75% to
 109%**» con valor de fábrica «**90%**» y una pendiente de «**−99 to +99**».
 
+EBU Tech 3335 (§ 4.4) da el ajuste para escenas de mucho contraste, cuando la cámara no tiene
+curvas de tipo cine y se usa la curva ITU.709: «**Set the knee function on (manual knee) and the
+knee point to between 80% and 90%. This will ensure that skin tones remain in the normal part of the
+gamma curve.**» La pendiente se ajusta después según la sobreexposición que se quiera acomodar:
+«**In a normal gamma curve, the top 14% of the video signal range contains about 1 stop of exposure
+range, but by setting a lower slope to the knee function, this can be raised by at least one
+stop.**» Para escenas de poco contraste, en las que el contraste de la escena «**is effectively
+expanded**», pide curva BBC0.4 o ITU.709 y «**set white clipping to not greater than about 104%**». Y si la cámara tiene curvas de tipo cine y
+el programa va en directo o como si lo fuera, sin posproducción: «**always use curves that do not
+exceed 100%.**» El mismo documento aconseja ajustar el *knee* con la señal de prueba en diente de
+sierra de la cámara y un monitor de forma de onda: «**When setting the knee function, it is best to
+use the camera’s internal sawtooth test signal and a waveform monitor.**»
+
 El *knee* no cambia la sensibilidad —reparte de otra manera lo que ya se captó— ni oscurece la
 imagen: conserva información en las luces (oficio). Es lo que permite, en un exterior con cielo, que
 el cielo conserve algo de nube mientras el rostro está bien expuesto.
 
 ### Las sombras: los negros
 
-Dos circuitos distintos actúan sobre las zonas oscuras de la imagen, y confundirlos es el error
-clásico (oficio):
+EBU Tech 3335 describe la corrección de la parte baja de la curva como una pareja de sentido
+contrario: «**Black-stretch (and black-press) can be useful, allowing direct control over the slope
+of the lower part of the gamma curve. Black-stretch reveals dark detail, black-press conceals it.**»
+(§ 4.4). En la Sony PXW-FS5 ese mando es [BLACK GAMMA], «**To correct gamma in low intensity
+area.**», con un nivel que va de «**–7 (maximum black compression) to +7 (maximum black
+stretch)**».
 
-| Circuito | Sobre qué actúa | Qué hace | ¿Bidireccional? |
-|---|---|---|---|
-| Levantado de negros (*black stretch*) | La señal de luminancia (Y) | Sólo levanta las zonas de sombra | No: sólo en un sentido |
-| Gamma de negros (*black gamma*) | Los tres canales RGB | Levanta o comprime la parte baja de la curva | Sí |
+Levantar los negros abre las sombras y deja ver lo que hay en ellas, pero tiene precio: «**Applying
+black-stretch involves raising the gain near black, which will inevitably increase the noise level
+near black.**» Y el mismo documento aconseja hacerlo en la cámara y no después: «**It is always
+better to have higher gain near black in the camera rather than to apply it in post-production,
+because fewer data-compression artefacts will be generated in the camera recording.**» (Tech 3335,
+§ 4.4).
 
-Levantar los negros abre las sombras y deja ver lo que hay en ellas, a cambio de perder contraste y
-hacer visible el ruido que en negro no se veía. Y por eso sólo levanta: comprimir los negros por
-debajo del nivel de negro no tiene sentido, porque no hay nada por debajo del negro (oficio).
-
-A esos dos se suma el nivel de negro, el pedestal sobre el que se apoya toda la curva. En la Sony
+A esa corrección se suma el nivel de negro, el pedestal sobre el que se apoya toda la curva. En la Sony
 PXW-Z200 el menú [Black] regula «**[Master Black]**», «**[R Black]**» y «**[B Black]**», de
 «**−99.0 to +99.0**».
 
-El mapa que ordena todo: el levantado y la gamma de negros trabajan en la parte baja de la curva; el
+El mapa que ordena todo: la corrección de negros trabaja en la parte baja de la curva; el
 *knee* en la parte alta; y el realce de detalle sobre los bordes de toda ella (oficio).
 
 ### El margen de exposición
@@ -469,14 +490,15 @@ Las cifras de Tech 3335 (§ 4.4):
 
 - «**A typical broadcast camera with video noise levels of about -50dB can capture about 7.5 stops,
   with the controls set to factory settings.**»
-- «**the effective dynamic range will be reduced by about 1 stop per 6dB of video noise level
-  increase.**»
+- «**If the noise level is particularly high, then the effective dynamic range will be reduced
+  by about 1 stop per 6dB of video noise level increase.**»
 - «**most cameras [...] can be set to capture at least 1 extra photographic stop by manipulation of
   the gamma curve and/or knee. In some extreme cases, cameras can capture up to 3 extra stops, and
   effectively handle 12 to 13 stops**».
 
-La consecuencia práctica: subir ganancia no sólo ensucia la imagen; también estrecha la latitud,
-porque sube el suelo de ruido (se deduce de la segunda cita).
+La consecuencia práctica: cuando el ruido ya es alto, subir ganancia no sólo ensucia la imagen;
+también estrecha la latitud, porque sube el suelo de ruido (se deduce de la segunda cita, que pone
+esa condición).
 
 ### Las ayudas a la exposición
 
@@ -528,8 +550,8 @@ La luminancia se forma pesando los tres primarios, y los pesos cambian con la re
 | UIT-R BT.2020 | Ultra alta definición | 0,2627 | 0,6780 | 0,0593 |
 
 El verde aporta la mayor parte del brillo percibido y el azul la menor. Ésa es la razón de que un
-error en el canal azul se note mucho menos que el mismo error en el verde, y de que el ruido suela
-verse antes en el azul (oficio).
+error en el canal azul se note mucho menos que el mismo error en el verde (se deduce de los
+coeficientes).
 
 La BT.709-6 recuerda que el aspecto final se juzga en un monitor de referencia: «**In typical
 production practice the encoding function of image sources is adjusted so that the final picture has
@@ -588,11 +610,12 @@ cámaras de reportaje (oficio; véase «Continuidad»).
 ### La luz que la cámara no reproduce bien
 
 Una cámara bien balanceada reproduce mal el color si la fuente de luz tiene un espectro pobre. Para
-medirlo la EBU creó el TLCI (EBU Tech 3355). El valor 50 marca la frontera: «**The formulation for
+medirlo la EBU usa el TLCI-2012 (EBU Tech 3355), que parte de un trabajo anterior de Sproson y
+Taylor. El valor 50 parece marcar la frontera, y la recomendación lo dice con esa cautela: «**The formulation for
 Qa was constrained to produce a value of 50 for a typical daylight fluorescent tube, and this number
 appears to represent the watershed separating luminaires into those which are correctable for
-television use, and those which are not.**» Por debajo de ese valor, el color no se arregla con el
-balance (el tema 5 trata la iluminación).
+television use, and those which are not.**» Por debajo de ese valor, la luminaria queda del
+lado de las no corregibles para televisión (el tema 5 trata la iluminación).
 
 ### Profundidad de bits y submuestreo
 
@@ -617,8 +640,9 @@ mucho mejor los detalles de brillo que los de color (oficio).
 
 El submuestreo limita lo que se puede hacer después: un croma sobre material 4:2:0 recorta mal,
 porque el borde del recorte se calcula sobre información de color que no está. Por eso el material
-destinado a incrustación se graba en 4:2:2 como mínimo, y mejor en 4:4:4 (oficio). La EBU pide
-4:2:2 y 10 bits a la cámara de nivel 1 (véase «Los niveles de calidad de la EBU»).
+destinado a incrustación se graba en 4:2:2 como mínimo, y mejor en 4:4:4 (oficio). La EBU asigna
+4:2:2 a la cámara de nivel 1, y 10 bits con los matices que se ven en «Los niveles de calidad de la
+EBU».
 
 ### Medir el color
 
@@ -686,8 +710,8 @@ visibility of flicker when shooting under lights**» (Blackmagic, URSA Broadcast
 
 Cómo se evita:
 
-- Con la obturación: la nominal es «**1/50 second for 50 Hz, 1/60 for 59.94 Hz, or 180 degrees
-  for either**» (EBU Tech 3335). Con la red europea de 50 Hz, una obturación de 1/50 o de 1/100
+- Con la obturación: la nominal, según el procedimiento de medida de EBU Tech 3335 (§ 2.9.1), es
+  «**1/50 second for 50 Hz, 1/60 for 59.94 Hz, or 180 degrees for either**». Con la red europea de 50 Hz, una obturación de 1/50 o de 1/100
   recoge ciclos enteros de luz y evita el parpadeo (oficio).
 - Con la corrección de la cámara: la Sony PXW-Z200 tiene [Flicker Reduce], con modo «**[Auto] /
   [On] / [Off]**» (de fábrica, [Off]) y una frecuencia «**[50Hz] / [60Hz]**» que hay que poner a la
@@ -735,8 +759,9 @@ the gain (sensitivity)**» (Sony, PXW-Z200).
 
 ### Cómo se mide
 
-El ruido se mide como relación señal/ruido, en decibelios. EBU R 118 fija mínimos por nivel (tabla
-6): HD Tier 1, «**Better than -48 dB @ 0db gain**»; HD Tier 2L, «**Better than -44 dB**»; HD Tier
+El ruido se mide como relación señal/ruido, en decibelios. EBU R 118 da valores por nivel (tabla 6),
+que en su columna de notas presenta como orientación («**Guidance only**» para 2L y 2J; «**For
+guidance however a good S/N ratio is a requirement**» para HD Tier 1): HD Tier 1, «**Better than -48 dB @ 0db gain**»; HD Tier 2L, «**Better than -44 dB**»; HD Tier
 2J y Tier 3, «**Better than -40 dB**». Y añade que la cifra no lo es todo: «**Noise should be rated
 by its impact and visibility as well as by measurement.**»
 
@@ -762,14 +787,14 @@ ayuda a limpiar ese ruido es la dependencia del nivel: el ruido de una imagen bi
 sobre todo en las sombras, el realce de detalle lo amplifica ahí más que en ningún sitio, y la
 dependencia del nivel apaga el realce en la parte baja de la escala, mientras el detalle de las
 zonas bien iluminadas se mantiene. Levantar los negros hace lo contrario: sube el ruido con ellos
-(oficio).
+(Tech 3335, § 4.4).
 
 En la Sony PXW-Z200 el menú [Detail] regula el nivel «**−7 to +7**», el reparto entre bajas y altas
 luces ([B/W Balance]: «**Sets the balance between detail for low-luminance areas (Black) and detail
 for high-luminance areas (White)**»), el límite y el [Crispening], «**0 to 7**».
 
 Cuánto detalle es demasiado es cuestión de estilo, pero con un límite: «**Moderate overshooting on
-high-contrast edges is acceptable, it is a signature of the ‘videolook’**» (EBU Tech 3335, § 4).
+high-contrast edges is acceptable, it is a signature of the ‘videolook’**» (EBU Tech 3335, § 4.3).
 Un realce excesivo dibuja un contorno blanco alrededor de los bordes y hace más visible el ruido
 (oficio).
 
@@ -843,7 +868,7 @@ recomendaciones citadas):
 
 - El *aliasing* rompe la compresión: «**Aliasing causes motion-dependent video compression to fail
   in the extreme**» (R 118 v2).
-- El recorte mal hecho también: produce «**compression artefacts and the potential for increased
+- El recorte también: produce «**compression artefacts and the potential for increased
   data rates**» (R 103 v3.0).
 - El ruido es detalle aleatorio que cambia en cada cuadro, y el códec lo trata como información que
   hay que codificar: una imagen ruidosa gasta flujo en ruido y deja menos para la imagen (oficio).
@@ -902,16 +927,20 @@ vectorscopio— es oficio de ese puesto, y este tema no lo da en detalle.
 En reportaje con varias cámaras, cada operador tiene que dejar la suya igual que las demás (oficio):
 
 - Los mismos ajustes de imagen: en la Sony PXW-Z200, el archivo de escena se puede guardar en una
-  tarjeta y cargar en otra cámara ([Save to Media(B)] y [Load from Media(B)]).
+  tarjeta y cargar en otra cámara ([Save to Media(B)] y [Load from Media(B)]). El fabricante avisa
+  de su límite: «**It is not possible to completely reproduce the image quality settings of the
+  loaded scene file.**», y entre modelos distintos «**the image quality may not be the same due to
+  differences in sensors and camera signal processing between models. Check the image quality after
+  loading a file.**»
 - El balance hecho sobre la misma carta y bajo la misma luz.
 - La misma cadencia y la misma obturación, para que el movimiento y el parpadeo sean iguales.
-- Cámaras de nivel parecido: la EBU limita el material de nivel 3 a «**around 33%**» de un programa
-  HD, precisamente porque se nota al mezclarlo.
+- Cámaras de nivel parecido: según la EBU, las cadenas suelen limitar el material de nivel 3 a
+  «**around 33%**» de un programa HD.
 
 La luz también cuenta: el TLCI tiene una escala de lectura propia para la «**Live multi-camera
 production [...] such as sport and news where pictures have no post-processing and the pictures are
 required only to be credible**» (EBU Tech 3355), porque en directo no hay etalonaje que iguale
-después.
+después. La propia recomendación advierte de que sus escalas «**do not form hard definitions**».
 
 ## Recomendaciones técnicas que el tema cita
 
@@ -949,8 +978,8 @@ vigente el 24/09/2026:
   que no pudo leerse.
 - Los umbrales por tramos del TLCI: están en una figura de EBU Tech 3355 que no pudo leerse como
   texto.
-- Las filas de la tabla de tasas mínimas de EBU R 118 que no se reproducen (H.264 de nivel 2J e
-  inferior, códecs UHD): no se han comprobado una a una.
+- Las filas de la tabla de tasas mínimas de EBU R 118 que no se reproducen (MPEG-2 en HD, H.264 de
+  nivel 2J e inferior, H.265 y códecs UHD): se consultan en la propia tabla 1 de la recomendación.
 - El obturador global de las cámaras de estudio actuales: la documentación del fabricante no pudo
   leerse.
 - El sensor, el diafragma, el enfoque, la cebra, la ganancia y los filtros como mandos de la cámara,
@@ -966,25 +995,24 @@ Todas las fuentes se leyeron el 24/09/2026.
 | Fuente | Qué sostiene |
 |---|---|
 | EBU R 103 v3.0 (mayo de 2020), anexos 1 y 2, tabla 1 | Márgenes nominal, preferente y total; error de gama y umbral del 1 %; recortadores en directo; legalizadores; recorte y compresión; sub-negros y PLUGE; 0-700 mV |
-| EBU R 118 v2 (abril de 2017), § 1.2, 1.3.1, 3.1.3-3.1.5, tablas 1 y 6 | Criterios de calidad, niveles de cámara, nivel 2J, límite del 33 % del nivel 3, 10 bits y 4:2:2 del nivel 1, familias de códec, tasas mínimas, relación señal/ruido, ganancia negativa, latitud, resolución, *aliasing* |
-| EBU Tech 3335 (agosto de 2014), índice, § 2.9, 4 y 4.4 | Apartados de medida, Lmax y Lmin, margen sobre blanco, margen dinámico y ruido, obturador de persiana, obturación nominal, realce de detalle |
-| EBU Tech 3355 (marzo de 2017) | Valor 50 del índice; escala de multicámara en directo |
-| UIT-R BT.709-6, BT.2020-2 y BT.2100-3 | Primarios, blanco D65, niveles de 8 y 10 bits, monitor de referencia BT.1886, cadencia y red eléctrica, PQ y HLG, blanco de referencia HDR |
+| EBU R 118 v2 (abril de 2017), recomendación, § 1.1, 1.2, 1.3, 1.3.1, 2.7, 2.8, 2.9, 3.1.1, 3.1.3-3.1.5, tablas 1, 2 y 6 | Criterios de calidad, niveles de cámara, nivel 2J, límite del 33 % del nivel 3, 10 bits y 4:2:2 del nivel 1, familias de códec, tasas mínimas, relación señal/ruido, ganancia negativa, latitud, resolución, *aliasing* |
+| EBU Tech 3335 (agosto de 2014), índice, § 2.4, 2.9, 2.9.1, 4.3 y 4.4 | Apartados de medida, Lmax y Lmin, margen sobre blanco, margen dinámico y ruido, obturador de persiana, obturación nominal, realce de detalle, ajuste recomendado del *knee* y del recorte de blancos, corrección de negros y su ruido |
+| EBU Tech 3355 (marzo de 2017), § 1.5.2 | TLCI-2012 y su origen; valor 50 del índice; escala de multicámara en directo y su cautela |
+| UIT-R BT.601-7, BT.709-6, BT.2020-2 y BT.2100-3 | Coeficientes de luminancia, primarios, blanco D65, niveles de 8 y 10 bits, monitor de referencia BT.1886, cadencia y red eléctrica, PQ y HLG, blanco de referencia HDR |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004: 5.1 (p. 79), 5.2 (p. 80), 6.3.4 (p. 91), 6.4 y 6.5 (p. 92) | Criterio del cámara sin realizador, trípode, armonía con el archivo, *raccord* técnico, responsabilidad del realizador |
-| Sony, *PXW-Z200/HXR-NX800 Help Guide*, 5-060-574-13(1), 2024 | Monitor de señal, *knee*, negros, matriz, archivos de escena, detalle, reducción de ruido, puntos blancos, parpadeo y su corrección, estabilizador, conversión HDR a SDR en el visor |
-| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1) | Difracción y ND, cambio de ND en grabación, realce de contornos, lupa, detección de caras, cebra |
-| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Nivel de ayuda al enfoque, cebra, falso color, parpadeo, cadencia y luz |
+| Sony, *PXW-Z200/HXR-NX800 Help Guide*, 5-060-574-13(1), 2024 | Monitor de señal, *knee*, negros, matriz, archivos de escena y su límite entre modelos, detalle, reducción de ruido, puntos blancos, parpadeo y su corrección, estabilizador, conversión HDR a SDR en el visor |
+| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1) | Difracción y ND, cambio de ND en grabación, realce de contornos, lupa, detección de caras, cebra, [BLACK GAMMA] |
+| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021 | Cuándo comprobar el tiraje y método, nivel de ayuda al enfoque, cebra, falso color, parpadeo, cadencia y luz |
 | Panasonic, *AVC-Intra Frequently Asked Questions* (documento comercial sin fecha) | Comportamiento de la compresión intracuadro y *Long GoP* ante el montaje y el movimiento |
 
-La tabla de coeficientes de luminancia (BT.601, BT.709 y BT.2020) procede de las recomendaciones
-UIT-R correspondientes y se toma de un temario ya verificado con ellas; en esta redacción no se han
-vuelto a leer las tres.
+La tabla de coeficientes de luminancia se ha cotejado con las recomendaciones UIT-R BT.601-7,
+BT.709-6 y BT.2020-2.
 
 Oficio sin norma detrás, y así se declara: el reparto de tareas entre operador, control de
 imagen y técnico de imagen digital; la lectura del monitor de forma de onda y del vectorscopio; las
 funciones del monitor de referencia y las señales de prueba; las aberraciones de Seidel; el punto
 dulce; el procedimiento de ajuste de tiraje; *blooming*, *smear* y *moiré*; el orden de los mandos
-de exposición; el *knee* y los circuitos de sombras; el balance de blancos, sus tres caminos y la
+de exposición; el *knee*; el balance de blancos, sus tres caminos y la
 regla del color complementario; el balance de negros; la profundidad de bits y el submuestreo; la
 estabilización pasiva y activa; la obturación de 1/50 o 1/100 con red de 50 Hz; la equivalencia
 entre decibelios y pasos, que es además una cuenta (20 · log₁₀ 2 ≈ 6); los controles del realce de
