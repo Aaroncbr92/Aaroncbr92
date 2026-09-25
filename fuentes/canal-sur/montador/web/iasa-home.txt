@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+ "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+ 
+ 
+ 
+ 
+ 
+ International Association of Sound and Audiovisual Archives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-BP4MJPM8W7", {"groups":"default","cookie_domain":".www.iasa-web.org"});
+//--> 
+ 
+ 
+ 
+ <!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"iasa3","theme_token":"mSom1JCWllid-Bb_ou50wzp4xfmarPYe9svbhmIQDbM","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/lightbox2\/js\/auto_image_handling.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-BP4MJPM8W7":1,"0":1,"sites\/all\/modules\/extlink\/js\/extlink.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/extlink\/css\/extlink.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/4a1151955127fcbf185c57db56546d18.css":1,"public:\/\/ctools\/css\/3a772c57726da3b10e9133b36e39ef1a.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/iasa3\/css\/html-reset.css":1,"sites\/all\/themes\/iasa3\/css\/iasa3-style.css":1,"sites\/all\/themes\/iasa3\/css\/wireframes.css":1,"sites\/all\/themes\/iasa3\/css\/layout.css":1,"sites\/all\/themes\/iasa3\/css\/color-schemes.css":1,"sites\/all\/themes\/iasa3\/css\/local.css":1,"sites\/all\/themes\/iasa3\/css\/print.css":1,"sites\/all\/themes\/iasa3\/css\/ie7.css":1,"sites\/all\/themes\/iasa3\/css\/ie6.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"0000FF","box_color":"fff","top_position":"","overlay_opacity":"0.7","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"preview","image_node_sizes":"(\\.thumbnail)","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"img.thumbnail, img.image-thumbnail","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":1,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":1,"slideshow_automatic_exit":1,"show_play_pause":1,"pause_on_next_click":1,"pause_on_previous_click":1,"loop_slides":0,"iframe_width":800,"iframe_height":600,"iframe_border":1,"enable_video":0,"useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/153.0.0.0 Safari\/537.36"},"googleanalytics":{"account":["G-BP4MJPM8W7"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false},"superfish":{"1":{"id":"1","sf":{"delay":"400","animation":{"opacity":"show"},"speed":"fast","dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supersubs":{"minWidth":"2"}}}},"urlIsAjaxTrusted":{"\/":true,"\/front?destination=front":true}});
+//--> 
+ 
+ 
+ 
+ 
+ Jump to Navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Authority in Sound and Audiovisual Archives 
+ 
+ 
+ 
+ The International Association of Sound and Audiovisual Archives (IASA) is a professional association concerned with the care, access and long-term preservation of the world’s sound and moving image heritage. Through its active worldwide membership and training initiatives, IASA supports and advocates the development of best professional standards and practice amongst organisations and individuals which share these purposes. More...   Français Deutsch Español 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ IASA–BAAC 2026 Preliminary Programme Now Available 
+ Early Bird Registration Now Open for the IASA–BAAC Joint Conference 2026 
+ Introducing &quot;Share Your Story!&quot; Member Feature 
+ IASA Executive Board for 2026-2029 - election announcement 
+ IASA Travel Awards 2026: Applications Now Open 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming events 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No Time To Wait conference (10th edition) 
+ 14 Oct 2026 to 16 Oct 2026 
+ 
+ 2026 IASA-BAAC Joint Conference 
+ 19 Oct 2026 to 22 Oct 2026 
+ 
+ World Day for Audiovisual Heritage 2026 
+ 27 Oct 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	 BACK TO TOP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main menu 
+ 
+ 
+ Home About Activities Branches Code of Conduct Code of Ethics Committees Ambassador Committee Discography Committee International Bibliography of Discographies Diversity, Equity and Inclusion Committee Organising Knowledge Committee Technical Committee Training &amp; Education Committee IASA Preservation Training Programme IASA Preservation Training Programme: videos Tutorials and Workshops offered by IASA Broadcast Archives Section Research Collections with Cold War-era Radio Materials National Archives Section Research Archives Section Constitution Executive Board Executive Board elections Election 2023 Election 2026 Previous Board members History Mailing list Membership Join IASA Membership categories and benefits Membership payments Membership rates Sustaining Members Application Form FAQ - Frequently Asked Questions Conferences Future Conferences Past Conferences Conference photo galleries Conference planning 1. About these Guidelines 2. Introduction to IASA conferences 3. Conference dates and duration 4. Joint conferences and solo conferences 5. Conference organizers’ responsibilities 5.1 IASA EB procedure 5.2 Summary of conference responsibilities 5.3 Guidance for the local host 6. Conference planning committees and organization 7. Programme structure and content 8. Guidelines for chairpersons and speakers 9. Financial assistance for speakers 10. Payment of conference fees 11. Wrap-up Appendix 1: Planning timeline Appendix 2: Example of conference budget Publications IASA Journal IASA Special and Technical Publications An Archive Approach to Oral History Ethical Principles for Sound &amp; AV Archives IASA Cataloguing Rules Selection Criteria Selection in Sound Archives Sound Archives - Establishment &amp; Development TC 03 Safeguarding the Audio Heritage TC 04 Production and Preservation of Digital Audio Objects TC 05 Handling &amp; Storage of AV Carriers TC 06: Guidelines for the Preservation of Video Recordings Guidelines for IASA Publications Translation Awards Honorary Members IASA Award of Recognition Research Grant Travel Awards Carl Fleischhauer Award Dietrich Schüller Award for Audiovisual Training Lars Gaustad Award Policies Copyright National Discography Legal Deposit Audiovisual Legal Deposit register AV legal deposit questionnaire Technical Guidelines Links Europeana Europeana Sounds Task Force CCAAA Joint Technical Symposium Training events Magnetic Tape Alert Project UNESCO World Day for Audiovisual Heritage 
+ 
+ 
+ 
+ 
+ Search form 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IASA conference 
+ 
+ 
+ 
+ I ASA 57th Annual Conference 
+ 
+ 
+ Want to join IASA? 
+ 
+ 
+ Learn more about IASA IASA activities Want to join? Membership categories Membership rates Application form 
+ 
+ 
+ Member login 
+ 
+ 
+ 
+ Username * 
+ 
+ 
+ 
+ Password * 
+ 
+ 
+ Request new password 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quick links 
+ 
+ 
+ 
+ Contact 
+ FAQ 
+ Mailing list 
+ Committees &amp; Sections 
+ Shop 
+ Events listing 
+ @iasa_web 
+ Facebook page 
+ Facebook group 
+ Instagram 
+ Videos 
+ 
+ 
+ 
+ Latest forum posts 
+ 
+ 
+ American Folklife Center archivist posting 
+ Checksums 
+ AFC Position Announcement: Archives Director 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © International Association of Sound and Audiovisual Archives (IASA) Translation not permitted without consent of IASA Executive Board 
+ PRIVACY AND COOKIES | TERMS OF USE | CODE OF CONDUCT | CONTACT US | SITE MAP   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

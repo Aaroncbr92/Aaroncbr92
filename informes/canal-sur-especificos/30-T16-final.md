@@ -36,3 +36,9 @@ Cero hallazgos. No se ha corregido nada.
 ## Ficheros tocados
 
 Sólo este informe.
+
+## Segunda pasada (25-09-2026)
+
+Releídos otra vez los tres pasajes (líneas 112, 1196-1202 y 1515-1517 del tema) contra el art. 10
+del RD 773/1997 (volcado, líneas 131-135) y la BT.2100-3 (txt, líneas 226-258). Todo coincide y
+cada antecedente está delante. Se mantiene: cero hallazgos, nada corregido.

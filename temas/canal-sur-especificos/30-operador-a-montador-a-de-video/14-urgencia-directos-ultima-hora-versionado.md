@@ -81,8 +81,9 @@ Ninguna norma regula cómo se gestiona la urgencia en una sala de montaje. Lo pu
 el *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), que
 trata la urgencia desde la realización (6.5), los cambios de escaleta (6.1), los directos (cap. 8) y
 las versiones (3.15), y la ficha del puesto del X Convenio Colectivo de la RTVA, que da al
-Operador/a Montador/a tareas de directo. Donde el Libro de estilo no llega (la última hora) se usa el
-Manual de estilo de RTVE como referencia de oficio, sin fuerza para Canal Sur. La técnica (ficheros que
+Operador/a Montador/a tareas de directo. Donde el Libro de estilo no desarrolla la noticia de última
+hora de gran repercusión, se usa el Manual de estilo de RTVE como referencia de oficio, sin fuerza
+para Canal Sur. La técnica (ficheros que
 crecen, servidores de repetición, versiones como metadatos) se apoya en la UER y en documentación de
 fabricante; lo que es sólo costumbre de sala se dice como tal.
 
@@ -491,7 +492,9 @@ versiones para plataformas, de los temas 4, 11 y 12.
 ## Lo que este tema no da, y dónde está
 
 - El procedimiento interno de Canal Sur para las piezas de última hora (quién decide pisar un vídeo,
-  tiempos de cierre de cabina, vídeos de reserva): no consta en documento publicado.
+  tiempos de cierre de cabina, vídeos de reserva): no consta en documento publicado. La regla de
+  horarios y turnos de cabina y de entrega escalonada, que libera medios para la última hora (LE
+  cap. 6, p. 88), está en el tema 9.
 - Qué sistema de edición usa Canal Sur y si admite editar ficheros mientras crecen: no consta. Lo dicho
   de la edición durante la ingesta sale de la documentación de un fabricante de grabadores sobre su
   propio producto; la documentación de otros programas de edición no se ha podido leer.

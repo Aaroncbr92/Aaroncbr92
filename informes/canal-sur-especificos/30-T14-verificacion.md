@@ -80,3 +80,9 @@ ni `refutar_modo.py`.
 - Modificado: el tema 14 (cinco pasajes, arriba).
 - Creado: este informe.
 - Temporales en `/tmp/claude-0/` (fuera del repositorio).
+
+## 7. Nueva invocación de la fase 3 (25-09-2026)
+
+Se volvió a lanzar esta fase cuando ya estaba hecha (arriba) y el tema había pasado refutación y
+remate (`30-T14-refutacion.md`, `30-T14-remate.md`; confirmado en el commit b08a902). No se repite:
+volver a verificar sobre el texto rematado desharía un ciclo cerrado. No se ha tocado el tema.

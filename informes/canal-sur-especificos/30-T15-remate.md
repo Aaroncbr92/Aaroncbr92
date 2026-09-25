@@ -83,3 +83,11 @@ La 14 pasa a entera (pasaje 3) y la 15 a entera (pasaje 7). Resultado previsto: 
 
 Modificado: el tema. Creado: este informe. Copia previa del tema y extracto de pp. 89-93 del PDF,
 sólo en el scratchpad. Ninguna fuente de `fuentes/` modificada.
+
+## Relanzamiento (25-09-2026)
+
+La fase 5 se volvió a encargar con el remate ya aplicado y confirmado en la fase 5 bis (`30-T15-final.md`).
+El tema está como quedó tras la 5 bis (sin cambios desde el último commit). No se ha aplicado nada nuevo:
+todas las correcciones de la refutación ya están aplicadas. Se volvieron a correr `indice.py` (30 epígrafes,
+8.138 palabras, sin cambios en el fichero) y `refutar_prosa.py` (0 hallazgos). El resultado sigue siendo el
+mismo: **se amplió contenido nuevo** (DaVinci Resolve 21, pasajes 5 y 7), que ya se revisó en la 5 bis.

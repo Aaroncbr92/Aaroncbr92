@@ -1,68 +1,69 @@
-# Puesto 30 · Tema 4 · Refutación (fase 4)
+# Puesto 30 · Tema 4 · Refutación (fase 4, segunda pasada)
 
 Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema:
 `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/04-formatos-de-video-y-audio.md`
-(unas 13.700 palabras). No se corrige nada: sólo se informa.
+(14.291 palabras, 62 epígrafes), en su estado tras el remate y la revisión 5 bis. No se corrige
+nada: sólo se informa. La primera refutación (anterior al remate: 1 grave, 4 menores, 1 laguna, todo
+aplicado según `30-T04-remate.md` y `30-T04-final.md`) queda en el historial de git (commit b08a902).
 
-Exactitud: se saltan «Copiado del común» y «Copiado de RTVE sin cambios» (lista en `30-T04-redaccion.md`).
-Cobertura: el tema entero.
+Exactitud: se saltan «Copiado del común» y «Copiado de RTVE sin cambios» (lista en
+`30-T04-redaccion.md`). Cobertura: el tema entero.
 
-## Fuentes releídas (25-09-2026, sólo el pasaje citado)
+## Fuentes releídas (25-09-2026, sólo el pasaje)
 
-UIT-R BT.601-7 (punto 6, 720/360; 4:3 y 16:9; Cometido «entrelazada»); BT.709-6 (introducción de la
-parte 2 y tabla de sistemas); BT.2020-2 (nota 1 al cuadro 1, elección de cadencia, tabla 2, «10 or 12
-bits»); BT.2100-3 (recommends, tabla 1 y nota 1b, submuestreo, tabla 9 y párrafo narrow/full);
-Informe BT.2408-9 (§ 2, tabla 1, § 5 introducción y 5.1, escalado a 203 cd/m², § 5.2, «round-trip»);
-SMPTE ST 259:2008, ST 292-1:2018, ST 424:2012, ST 2082-1:2023 y fichas de catálogo (259, 292-1, 424,
-2082-1, 2084, 2086, 377-1, 2067-2); ST 2110-10:2022 (introducción y cl. 1), -20:2022 (cl. 1, 7.4-7.6),
--30:2025 (cl. 1 y 6) e índice de la familia; EBU R 128-2023 (h, l, m); AMWA AS-11; SMPTE IMF (ST 2067-2,
-CPL, OPL, RDD 59-1).
+- UIT-R BT.2100-3: cabecera (02/2025), tabla 1 (cadencias, «Progressive»), valor 10000 de la EOTF PQ.
+- Informe UIT-R BT.2408-9: cabecera (03/2026).
+- UIT-R BT.601-7: «entrelazada» (lín. 112).
+- SMPTE ST 2110-20:2022, 7.4.1-7.4.2 (muestreo, KEY, «ALPHA»; profundidades 8, 10, 12, 16, 16f).
+- SMPTE ST 2110-30:2025, lín. 154 (48 kHz obligatorio; 44,1 o 96 kHz recomendables).
+- SMPTE ST 2110-10:2022, 8.5 (señalización de flujos duplicados).
+- EBU R 123: §§ 1-2 (lín. 63-74), tabla 1 (8a, 8b), clave, notas generales, notas 1, 2, 3 y 5,
+  anexo 2.3.1 (definición SMPTE del sonido internacional).
+- EBU Tech 3343-2023: § 4.2 (lín. 730-735), § 7.1 (lín. 923).
+- EBU R 128-2023: fecha y apartados h), l) y m).
+- AMWA AS-11 (ampliaciones) y página IMF de la SMPTE (RDD 59-1, DPP y NABA, BT.2100).
 
 ## Hallazgos
 
 | Nº | Gravedad | Error (de los nueve) | Pasaje | Qué dice el tema | Qué dice la fuente | Propuesta |
 |---|---|---|---|---|---|---|
-| 1 | Grave | 9 afirmación sin fuente / 6 salvedad omitida | § 11, «La interfaz digital serie», párrafo tras la tabla | «Cuanto más rápida la interfaz, más pérdida de cable admite el receptor a la mitad de la frecuencia de reloj: «20 dB to 30 dB» en la ST 259, «up to 30 dB» en la ST 424 y «up to 40 dB» en la ST 2082-1» | ST 292-1:2018, 8.1.10 (y alcance, lín. 91): receptores **«operating with input cable losses in the range of up to 20 dB at one-half the clock frequency»**. El HD-SDI, más rápido que el SD-SDI, admite menos (20 dB frente a 20-30 dB): la regla general es falsa. Además, en las cuatro normas son valores **típicos** («Typical loss amounts…», «are typical»), no un límite de lo que el receptor «admite» | Quitar la regla general; dar las cuatro cifras (incluida la de la ST 292-1, «up to 20 dB») como pérdidas típicas; conservar la conclusión de oficio (a más velocidad, menos alcance con el mismo cable) |
-| 2 | Menor | 5 sigla mal presentada | § 2, cita de la BT.2020-2, glosa final | «LSDI es la presentación en pantalla grande» | BT.2020-2, lín. 129-134: **«large screen digital imagery (LSDI)»**, **«a system providing a display on a very large screen, typically for public…»** | «LSDI, *large screen digital imagery*: imagen digital en pantalla grande» |
-| 3 | Menor | 9 literalidad de la cita | § 2, misma cita | «"being there"» (comillas rectas) | BT.2020-2, lín. 183: «“being there”» | Comillas de la fuente (el verificador ya lo hizo en «‘round-trip’» y «“Core Constraints”») |
-| 4 | Menor | 6 salvedad omitida | § 11, viñeta de la ST 2110-20 | «con la regla de que, si no se declara, «receivers shall assume the value SDR» (§ 5)» | ST 2110-20:2022, 7.6: sigue «unless the sampling keyword indicates the signal is a KEY signal…» | Añadir «salvo en las señales de clave (§ 5)» o cerrar la cita con «[…]» |
-| 5 | Menor | 9 (oficio impreciso) | § 7, «La cadencia en el montaje», 1.ª viñeta (y fila «Material del móvil» del supuesto) | «un clip a 29,97 en una secuencia a 25 salta o se repite cuadros, porque 25 no divide a 29,97» | Sin fuente (oficio). Al bajar de 29,97 a 25 sin mezcla de cuadros se descartan cuadros (unos 5 por segundo); la repetición es el caso inverso. «25 no divide a 29,97» es una formulación matemática impropia | «…se descartan cuadros (o se mezclan), porque las cadencias no son múltiplos» |
+| 1 | Menor | 3 recuento / 9 | § 8, «La tasa sin comprimir y la relación de compresión», último párrafo | «un DNxHD a 121 Mb/s en 1080i/50, unas 8,5 veces (cálculo, sobre las tasas de § 6)» | Cálculo: la tasa sin comprimir de referencia (1.037 Mb/s) es de 10 bits, y el DNxHD de 121 Mb/s en 1080i/50 es la 120, de 8 bits (sucesora a 25 de la 145, que el § 6 da como 8 bits). Comparado con 10 bits da 8,57 («unas 8,6», no 8,5); con la profundidad propia, 1.920 × 1.080 × 2 × 8 × 25 = 829 Mb/s ÷ 121 ≈ 6,9 | «un DNxHD de 8 bits a 121 Mb/s en 1080i/50, unas 7 veces (829 ÷ 121; la imagen de 8 bits sin comprimir son unos 829 Mb/s)» |
 
-Todo lo demás del texto adaptado y nuevo se confirmó literal: BT.601-7 (720/360), BT.709-6 (cadencias,
-P/PsF/I, 50/I «25 interlace», 25/PsF), BT.2020-2 (cuadro 1, cadencias, «Progressive», elección de
-cadencia), BT.2100-3 (NOTE PQ/HLG, tabla 1, 1:1, nota 1b, 4:4:4/4:2:2/4:2:0, 64/940 y 256/3.760,
-narrow/full), BT.2408-9 (todas las citas; tabla 1: 26/38/38 y 203/58/75), velocidades SDI y BNC 75 Ω,
-estados y fechas de catálogo (2084: 16-08-2014; 2086: 2014-10-13 y 2018-04-09; 377-1: 2019-11-28;
-2067-2: 2013, 2016, 2020-04-07; 259/292-1/424 «stabilized», 2082-1 «active»), títulos del índice
-ST 2110 (-10 a -43), ST 2110-10/-20/-30 (alcances, 16f, ALPHA «for key signals», 48 kHz obligatorio y
-44,1/96 kHz recomendables), R 128-2023 h), l) y m) con su salvedad, AS-11, IMF, CPL, OPL y RDD 59-1.
-Cálculos rehechos: 1.037, 2.074 y 8.294 Mb/s; 20,7 y 8,6; 54.450 MB; 4 × 2.074 < 10.000.
+Todo lo demás del texto adaptado y nuevo que se releyó se confirmó: fechas de BT.2100-3 y BT.2408-9;
+cadencias y barrido de la BT.2100-3 iguales a las de la BT.2020-2; 10.000 cd/m² en la EOTF PQ;
+profundidades de la ST 2110-20 (8, 10, 12 y 16 enteros; 16f); KEY sin TCS y con «ALPHA»; 48 kHz
+obligatorio en la ST 2110-30; ST 2110-10, 8.5; citas de la R 123 (inequívoca, 16 canales, salvedad
+del acuerdo previo, 48 kHz/24 bits, «clearly indicated», notas 1, 2 y 5 y «compatability» [sic]),
+pistas de 8a y 8b; Tech 3343 (LFE fuera de la medida, 5.0, Lo/Ro); R 128 h), l), m) y su salvedad;
+AS-11 y RDD 59-1. Cálculos rehechos: 1.037, 2.074 y 8.294 Mb/s; 20,7; 85 y 34 min; 1.280 s;
+54.450 MB; unos 5 cuadros de cada 30 al pasar de 29,97 a 25. Los antecedentes de «esa pérdida
+típica», «la misma recomendación», «En las dos» y «nota 1» están delante.
 
 ## Cobertura del enunciado
 
-Las doce rúbricas («resolución, compresión, HD, UHD, HDR, códecs, frame rate, bitrate, contenedores,
-compresión, SDI/IP y estándares de entrega») tienen epígrafe propio y en el orden del enunciado; la
-segunda «compresión» se resuelve como compresión en la cadena (§ 10). «Formatos de audio»: códecs
-con y sin pérdida, LPCM 24 bits/48 kHz, WAV/BWF, 48 kHz en ST 2110-30 y R 128.
+Las doce rúbricas tienen epígrafe propio en el orden del enunciado (la segunda «compresión», como
+compresión en la cadena, § 10). La laguna de la primera pasada (configuraciones de canales y orden
+de pistas) está cubierta por el nuevo epígrafe «Las pistas de audio: configuraciones y orden (EBU
+R 123)». «Qué se puede preguntar» no promete nada que el tema no dé.
 
-Preguntas (`30-T04-preguntas.md`): 12 enteras, 1 a medias, 2 no.
+Preguntas (`30-T04-preguntas.md`): 13 enteras, 1 a medias, 1 no.
 
-- **Laguna (pregunta 12)**: configuraciones de canales de audio (mono, estéreo, 5.1) y orden de pistas
-  en el fichero de entrega. El § 12 nombra «pistas de audio y su orden» como parte de una ficha de
-  entrega sin desarrollarlo. Se propone ampliar con fuente (p. ej. UIT-R BS.775 para 5.1, o la EBU R 123
-  para la disposición de pistas, si se leen); si no se confirma, declararlo en «Lo que este tema no da».
-- Pregunta 13 (no): no es laguna de cobertura sino consecuencia del hallazgo 1.
-- Pregunta 7 (a medias): HDR10/HDR10+/Dolby Vision ya están declarados en «Lo que este tema no da»
-  por falta de fuente normativa; no se cuenta como laguna.
+- Pregunta 15 (a medias): consecuencia del hallazgo 1, no laguna.
+- Pregunta 14 (no): HDR10/HDR10+/Dolby Vision están declarados en «Lo que este tema no da» por falta
+  de fuente normativa leída. Hueco declarado; no se cuenta como laguna. Si en el remate se lee una
+  fuente publicada (p. ej. la ficha de la ST 2086 completa o una especificación de plataforma), podría
+  ampliarse; si no, se deja como está.
+
+Lagunas: ninguna.
 
 ## Lentes
 
-Tema técnico sin norma jurídica: proceden sólo `refutar_prosa.py` e `indice.py`, ya pasados en
-redacción y verificación (0 hallazgos; 61 epígrafes). No se re-ejecutan: el tema no ha cambiado desde
-la verificación.
+Tema técnico sin norma jurídica: `refutar_prosa.py` (0 hallazgos) e `indice.py` (14.291 palabras,
+62 epígrafes), ejecutados el 25-09-2026 sobre el tema actual.
 
 ## Resumen
 
-Graves: 1 · Menores: 4 · Lagunas: 1.
+Graves: 0 · Menores: 1 · Lagunas: 0.
 
-Ficheros tocados: creados `30-T04-preguntas.md` y este informe. El tema no se ha modificado.
+Ficheros tocados: reescritos `30-T04-preguntas.md` y este informe (la versión anterior de ambos está
+en git). El tema no se ha modificado.

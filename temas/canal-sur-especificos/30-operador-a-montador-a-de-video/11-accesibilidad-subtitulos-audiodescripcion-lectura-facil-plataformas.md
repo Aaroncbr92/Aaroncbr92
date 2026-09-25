@@ -8,7 +8,7 @@
 | Sirve para | Operador/a Montador/a de Vídeo de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley 18/2007, de la RTVA; Real Decreto Legislativo 1/2013 (Ley General de derechos de las personas con discapacidad); Real Decreto 1112/2018; Ley 11/2023 (título I); Carta del Servicio Público de la RTVA 2024-2029 y Contrato-programa 2024-2026. Normas técnicas UNE 153010:2012, UNE 153020:2005, UNE 153101:2018 EX y UNE 153102:2018 EX: sólo su ficha de catálogo; su contenido, y el de la UNE 139804, por la síntesis de la Universidad de Burgos (subtitulado, audiodescripción y lengua de signos en internet) y por la Revista de la Normalización Española (lectura fácil). ETSI EN 300 743 (subtítulos DVB). Técnicas de subtitulado en directo, por fuente universitaria; subtítulos en la TDT, por un folleto del CESyA. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (leídas el 24 y el 25-09-2026); Carta y Contrato-programa publicados en BOJA en diciembre de 2023; el título I de la Ley 11/2023, aplicable desde el 28-06-2025 |
-| Extensión | 10.400 palabras aproximadamente |
+| Extensión | 10.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -41,7 +41,7 @@ para personas sordas y cuál la audiodescripción; cuántos caracteres por líne
 velocidad y qué permanencia da la síntesis de la UNE 153010; qué técnica es la más usada para
 subtitular en directo; cómo llega el subtítulo cerrado al televisor en la TDT (teletexto o DVB); qué combinación de colores es la más
 legible y cómo se identifica a los personajes; qué son los «bocadillos informativos» y los «huecos de
-mensaje»; qué pautas sigue un guion de audiodescripción; qué es la lectura fácil, en qué norma legal
+mensaje»; qué pautas sigue un guion de audiodescripción; a quién sirven los audiosubtítulos; qué es la lectura fácil, en qué norma legal
 aparece y qué norma técnica la desarrolla; qué ley andaluza reconoce el derecho a programas
 subtitulados en lectura fácil; qué contenidos excluye el Real Decreto 1112/2018; qué exige la Ley
 11/2023 a los servicios que dan acceso a la comunicación audiovisual; en qué se diferencian los
@@ -70,6 +70,7 @@ másteres de emisión y de plataforma; cuánto dura en pantalla un subtítulo de
   - [Qué es](#qué-es)
   - [Cómo se hace](#cómo-se-hace)
   - [La audiodescripción y el montaje](#la-audiodescripción-y-el-montaje)
+  - [Audiosubtítulos o subtítulos hablados](#audiosubtítulos-o-subtítulos-hablados)
 - [4. Lectura fácil](#4-lectura-fácil)
   - [Qué es y dónde está en la ley](#qué-es-y-dónde-está-en-la-ley)
   - [La norma técnica: UNE 153101:2018 EX](#la-norma-técnica-une-1531012018-ex)
@@ -644,6 +645,19 @@ Oficio, coherente con lo anterior:
 
 Quién audiodescribe en Canal Sur y con qué medios no consta en un documento publicado de la RTVA.
 
+### Audiosubtítulos o subtítulos hablados
+
+La Ley 11/2023 los nombra, como «subtítulos hablados», entre los servicios de acceso que deben transmitirse enteros (epígrafe 5). El artículo de Oncins (2019)
+citado en el epígrafe 2 explica para quién sirven: **«Los audiosubtítulos o subtítulos hablados son
+útiles principalmente para proporcionar acceso a los contenidos en lengua extranjera con subtítulos,
+a las personas con baja visión, personas mayores, con trastornos del lenguaje como afasia o dislexia
+o con discapacidad cognitiva»**. Y por qué van junto a la audiodescripción: **«En la mayoría de las
+ocasiones la audiosubtitulación aparece en una sección del estándar o la norma de
+audiodescripción.»** El mismo artículo los da como **«prácticamente desconocido e
+inexistente»** en España; el número de la revista es de 2019, pero el artículo se recibió en
+diciembre de 2020 y se aceptó en marzo de 2021: es un dato de esa fecha, anterior a la LGCA vigente. Si Canal Sur los
+ofrece no consta en un documento publicado de la RTVA.
+
 ## 4. Lectura fácil
 
 ### Qué es y dónde está en la ley
@@ -699,7 +713,10 @@ vicepresidenta del grupo de trabajo):
 ### Lectura fácil y vídeo
 
 La UNE 153101 es una norma para documentos escritos. Ninguna fuente leída la aplica al vídeo ni al
-subtitulado, y no se ha encontrado norma técnica del «subtitulado según métodos de lectura fácil» que
+subtitulado. El artículo de Oncins citado en el epígrafe 2 sólo apunta la tendencia:
+**«la Lectura Fácil se está convirtiendo en una modalidad de accesibilidad en los medios que se podría
+describir como un servicio para mejorar la lectura y fomentar la comprensión (Bernabé y Orero
+2018)»**; no dice cómo se aplica a un programa. No se ha encontrado norma técnica del «subtitulado según métodos de lectura fácil» que
 reconoce la LAA. Tampoco consta en la Carta ni en el Contrato-programa un compromiso de Canal Sur con
 esa modalidad. Lo más cercano es una recomendación, no una obligación: el Consejo Audiovisual de
 Andalucía, en sus *Recomendaciones para el tratamiento informativo de la discapacidad* (2025),
@@ -923,9 +940,11 @@ un clip para redes. Lo que la norma y la síntesis de la UNE dan, y lo que es of
   (sin cifras desde 2024) y el artículo 102.2 de la LGCA: ninguna norma leída lo resuelve.
 - Porcentajes de accesibilidad de cada plan anual de actuación del Contrato-programa y datos de
   cumplimiento de Canal Sur: no localizados.
-- Qué sistema de subtitulado y de audiodescripción usa CSRTV, quién los hace, en qué formatos se
+- Qué sistema de subtitulado, de audiodescripción y de audiosubtítulos usa CSRTV, quién los hace, en qué formatos se
   entregan, cómo se subtitula en directo y si emite en la TDT subtítulos de teletexto, DVB o ambos: no
   consta en un documento publicado de la RTVA.
+- Una definición técnica de los audiosubtítulos (cómo se producen y se entregan): ninguna fuente
+  leída la da.
 - El retardo del subtítulo en directo y los criterios de la UNE 153010 para el directo: no se han
   confirmado en una fuente leída.
 - Formatos de fichero de subtítulos y salidas del sistema de edición: tema 7. Formatos y estándares de
@@ -948,8 +967,8 @@ un clip para redes. Lo que la norma y la síntesis de la UNE dan, y lo que es of
 | Ficha de la tienda de AENOR de UNE 153101:2018 EX y UNE 153102:2018 EX | Epígrafe 4 | 25-09-2026 |
 | *Revista de la Normalización Española*, n.º 4, junio de 2018, «Primera norma técnica sobre Lectura Fácil» (revista.une.org) | Epígrafe 4 | 25-09-2026 |
 | Consejo Audiovisual de Andalucía, *Recomendaciones para el tratamiento informativo de la discapacidad* (PDF de 19-11-2025), recomendación 3 | Epígrafes 4 y 5 | 25-09-2026 |
-| Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 12, 93 y 95 | Epígrafe 5 (tabla de salidas; contratación) | 25-09-2026 |
-| Oncins, E., «Evolución de la accesibilidad en los medios y formación de nuevos perfiles profesionales», *Magazin*, n.º 27, 2019, pp. 91-102 (Universidad de Sevilla), p. 96 | Epígrafe 2: diferido y directo; rehablado, estenotipia y velotipia | 25-09-2026 |
+| Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 12, 92, 93, 94 y 95 | Epígrafe 5 (tabla de salidas; webs y aplicaciones; contratación) | 25-09-2026 |
+| Oncins, E., «Evolución de la accesibilidad en los medios y formación de nuevos perfiles profesionales», *Magazin*, n.º 27, 2019, pp. 91-102 (Universidad de Sevilla; recibido 21-12-2020, aceptado 24-03-2021), pp. 96-97 | Epígrafe 2: diferido y directo; rehablado, estenotipia y velotipia. Epígrafe 3: audiosubtítulos. Epígrafe 4: lectura fácil en los medios | 25-09-2026 |
 | CESyA, *Los subtítulos en la TDT* (folleto sin fecha impresa; fichero PDF creado en enero de 2010; logotipos del CESyA, de la Universidad Carlos III de Madrid y del Real Patronato sobre Discapacidad) | Epígrafe 2: subtítulos de teletexto y DVB | 25-09-2026 |
 | ETSI EN 300 743 V1.6.1 (2018-10), *Digital Video Broadcasting (DVB); Subtitling systems*, cláusula 1 | Epígrafe 2: qué es el subtítulo DVB y cómo se transporta | 25-09-2026 |
 | Oficio | Uso de subtítulos abiertos y cerrados en cada destino; zona del subtítulo y rótulos; partir el subtítulo en el corte; pista propia de audiodescripción; revisión tras cambios de montaje; tabla de accesibilidad por destino; supuesto práctico | — |

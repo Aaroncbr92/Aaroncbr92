@@ -684,7 +684,7 @@ ningún documento publicado de la RTVA; se pregunta antes de entregar (oficio).
 
 ### Los criterios del subtitulado
 
-La norma española de subtitulado para personas sordas es la UNE 153010:2012. Su texto no se ha
+La norma de subtitulado para personas sordas que cita la guía es la UNE 153010:2012 (AENOR). Su texto no se ha
 leído; lo que sigue es la síntesis publicada por la Universidad de Burgos, que advierte que
 son **«algunos requisitos que deben cumplir los subtítulos, los cuales se tratan con mayor detalle en
 la norma UNE 153010»** (p. 4; los requisitos visuales, en las pp. 4-5; los de tiempo, en la p. 6):

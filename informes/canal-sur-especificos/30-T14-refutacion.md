@@ -67,3 +67,64 @@ Lo que no consta en fuente publicada está declarado en «Lo que este tema no da
 ## Ficheros tocados
 
 - Creados: este informe y `30-T14-preguntas.md`. El tema no se ha tocado.
+
+---
+
+# Segunda ronda (fase 4 repetida sobre el tema rematado)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema en su estado actual (commit b08a902, sin cambios
+posteriores en el árbol; 5.739 palabras con portada). No corrijo. Ficheros tocados: este informe y
+`30-T14-preguntas.md` (sección «Segunda ronda»); los dos se amplían, sin sobrescribir la primera ronda.
+
+## Fuentes releídas y fecha
+
+| Fuente | Qué se releyó | Fecha |
+|---|---|---|
+| Libro de estilo CSTV y Canal 2 Andalucía (2004), txt local | 5.6; cap. 6, pp. 87-88 (demora, cierre del ciclo, párrafo de cabinas y entrega escalonada); 6.1, 6.1.1, 6.1.2; 6.3; 6.5, 6.5.1, 6.5.2; 3.15, 3.15.1 | 25-09-2026 |
+| X Convenio RTVA (BOJA 240, 10-XII-2014), txt local | Ficha 5212206 completa | 25-09-2026 |
+
+## Exactitud (sólo lo no copiado)
+
+- Los cuatro pasajes del remate, comprobados: l. 153-155 (aviso, ahora como oficio, y decisión del
+  editor, 5.6) se ajusta a la fuente; l. 123-128 (6.5.1) ya sin glosa, literal; l. 9 «capítulos 3 a 8»
+  cuadra con la Trazabilidad (3.2.1 a 8.3.3); l. 22 BOJA presentado. Bien.
+- Ficha 5212206: función, las dos tareas de directo y la cláusula de lista abierta, literales. «Dos son
+  de directo» (l. 212) es lectura razonable de la lista de ocho tareas.
+- 6.3, 6.5, 6.5.1, 6.5.2, cap. 6 («Una demora imprevista…»), 3.15 («También puede preverse…»), 6.1
+  («tiempo asignado, tiempo real») y 6.1.2: literales.
+
+Graves: ninguno.
+
+Menores (2):
+
+1. **Error 9 · l. 84-85.** «Donde el Libro de estilo no llega (la última hora) se usa el Manual de
+   RTVE». El Libro de estilo sí nombra la última hora: en 3.9.1, que el propio tema cita en l. 170
+   («**la inclusión de un elemento de última hora**»), y en cap. 6, p. 88 (el cumplimiento del horario
+   de cabina **«permite liberar medios técnicos y humanos para cualquier revisión, eventualidad o
+   informaciones de última hora que no podrían ser atendidos con precisión si hemos causado un 'cuello
+   de botella'»**). Contradicción interna. Propuesta: «Donde el Libro de estilo no desarrolla la
+   noticia de última hora de gran repercusión, se usa el Manual de estilo de RTVE…».
+2. **Error 6 (salvedad/remisión omitida) · l. 493-494 y § 1.** «Tiempos de cierre de cabina: no
+   consta» es cierto para las horas concretas, pero el Libro de estilo sí fija la regla de horarios y
+   turnos de cabina y la entrega escalonada (cap. 6, p. 88), que el tema 9 del puesto desarrolla
+   («Tiempos, cabinas y entrega escalonada»). Propuesta: una frase en «Demoras y retrasos» o en «Lo que
+   este tema no da»: «La regla de horarios y turnos de cabina y de entrega escalonada, que libera medios
+   para la última hora (LE cap. 6, p. 88), está en el tema 9.» No es laguna: el contenido está en el
+   temario del puesto; falta la remisión.
+
+Observación sin hallazgo (ya hecha en la primera ronda, sigue igual): «XDCAM es el nombre comercial de
+un formato de grabación» (l. 22) no tiene fuente citada; la de Softron lo llama *codec*.
+
+Lentes: `refutar_prosa.py`, 1 hallazgo (CSTV), falso positivo ya documentado. Tema técnico sin norma:
+no proceden las lentes de norma.
+
+## Cobertura
+
+Las cuatro rúbricas del enunciado siguen con epígrafe propio y en su orden. Lagunas: ninguna. La única
+pregunta que el tema no contesta (15, entrega escalonada y última hora) la contesta el tema 9 y se
+resuelve con la remisión del menor 2; la de a medias (11, contenido de la escaleta en 6.1) es materia
+de los temas 5 y 9, y basta con lo que el tema da para su fin (la duración).
+
+## Preguntas
+
+`30-T14-preguntas.md`, segunda ronda: 15 (7 de aplicación práctica). 13 enteras, 1 a medias, 1 no.

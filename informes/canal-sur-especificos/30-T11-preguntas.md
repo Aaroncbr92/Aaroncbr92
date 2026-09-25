@@ -27,3 +27,33 @@ Resultado: 12 enteras, 1 a medias, 2 no. Las respuestas de 14 y 15 son las del c
 general de oficio, **no verificadas en fuente** en esta fase: si el remate amplía, debe leerlas en
 una fuente técnica (CESyA, EBU/ETSI, UNE 153010) antes de escribirlas; si no la encuentra, las
 declara en «Lo que este tema no da».
+
+---
+
+# Segunda ronda (fase 4 repetida sobre el tema rematado y revisado en 5 bis)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Preguntas nuevas, distintas de la primera ronda,
+contestadas sólo con el tema en su estado actual (10.474 palabras). Respuesta correcta en negrita.
+T = teoría; P = aplicación práctica. E = entera, M = a medias, N = no.
+
+| # | Tipo | Pregunta y opciones | ¿La contesta el tema? |
+|---|---|---|---|
+| 1 | T | Según el artículo de Oncins (2019), que cita a la UER, la técnica más utilizada por las televisiones para subtitular en directo es: a) la estenotipia; b) la velotipia; **c) el rehablado**; d) el subtítulo pregrabado | E (l. 529-530) |
+| 2 | T | En la TDT, los subtítulos de teletexto se reconocen porque: a) permiten más colores y tipografías; **b) van contenidos en una caja negra**; c) van incrustados en la imagen; d) sólo se ven en HbbTV | E (l. 545) |
+| 3 | T | La ETSI EN 300 743 define los subtítulos DVB como elementos gráficos cuyos colores se fijan con tablas de consulta (CLUT) y que se transportan en: a) el teletexto analógico; b) un fichero SRT; **c) el flujo de transporte MPEG-2 (ISO/IEC 13818-1)**; d) la pista de audio | E (l. 550-554) |
+| 4 | T | Máximo de caracteres por línea según la síntesis de la UNE 153010: a) 32; **b) 37**; c) 40; d) 42 | E (l. 456) |
+| 5 | T | Permanencia mínima y máxima de un subtítulo en pantalla según la guía: a) 0,5 y 5 s; **b) 1 y 6 s**; c) 2 y 8 s; d) 3 y 6 s | E (l. 489) |
+| 6 | T | En los aspectos visuales de la guía, la información contextual va: a) en mayúsculas y aparte; **b) entre paréntesis y en la misma línea del subtítulo correspondiente**; c) entre corchetes; d) en cursiva | E (l. 457; el tema advierte de la contradicción interna de la guía) |
+| 7 | T | La cursiva en el subtitulado da cuenta de: a) los términos técnicos; **b) las voces procedentes de un televisor, una radio o de personajes fuera de pantalla**; c) los títulos del programa; d) los gritos | E (l. 462) |
+| 8 | T | La numeración, según la guía, se escribe: a) siempre con cifras; **b) con letras del cero al diez y con cifras el resto**; c) con letras hasta cien; d) con letras siempre | E (l. 463) |
+| 9 | T | En el guion de audiodescripción hay que: a) anticipar la trama; b) usar entonación emotiva; **c) evitar referencias que requieran el sentido de la vista**; d) usar otro idioma que la banda sonora | E (l. 617) |
+| 10 | T | Las condiciones básicas de accesibilidad cognitiva del artículo 29 bis del RDLeg 1/2013: a) ya son exigibles desde 2022; **b) serán exigibles en los plazos y términos que se establezcan reglamentariamente**; c) sólo afectan a la televisión; d) las fija la UNE 153101 | E (l. 659-665) |
+| 11 | T | El título I de la Ley 11/2023 entró en vigor, salvo su artículo 27.4: a) el 28-06-2022; b) el 28-05-2023; **c) el 28-06-2025**; d) el 28-06-2027 | E (l. 779-780) |
+| 12 | P | Canal Sur compra un documental a una productora externa. Según el Contrato-programa (punto 95), las medidas de accesibilidad de esa producción: a) las hace siempre Canal Sur en casa; **b) las productoras se obligarán a ponerlas a disposición de Canal Sur**; c) no se exigen a producción ajena; d) las fija la CNMC | E (l. 747-757) |
+| 13 | P | Un informativo de noticias de la televisión lineal de Canal Sur, según el punto 12 del Contrato-programa: a) sólo subtitulado; b) sólo lengua de signos; **c) subtitulado y con servicio de traducción a lengua de signos española**; d) sin compromiso | E (l. 725) |
+| 14 | P | Se prepara un vídeo con intérprete de signos para la web. Según la síntesis de la UNE 139804 (guía de Burgos), la ventana del intérprete tendrá una resolución mínima de: a) 176 x 144; **b) 256 x 192**; c) 352 x 288; d) 720 x 576 | E (l. 861-863) |
+| 15 | T | Los audiosubtítulos o subtítulos hablados sirven principalmente a: a) las personas sordas signantes; **b) personas con baja visión, mayores, con dislexia o discapacidad cognitiva ante contenidos en lengua extranjera subtitulados**; c) los rehabladores; d) los usuarios de teletexto | N: la expresión «subtítulos hablados» sólo aparece dentro de la cita de la Ley 11/2023 (l. 800), sin explicarse |
+
+**Recuento (segunda ronda)**: 14 enteras, 0 a medias, 1 no. Aplicación práctica: 12, 13 y 14.
+La respuesta de la 15 está en Oncins, *Magazin* 27, pp. 96-97, § 2.3 «Audiosubtitulación», fuente que el
+tema ya usa.

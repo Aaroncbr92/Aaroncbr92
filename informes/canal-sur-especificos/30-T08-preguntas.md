@@ -1,59 +1,56 @@
-# Puesto 30 · Tema 8 · Preguntas tipo test (fase 4)
+# Puesto 30 · Tema 8 · Preguntas tipo test (fase 4, segunda ronda)
 
-Fecha: 25-09-2026 (encargo fechado 24-09-2026). Contestadas sólo con el tema 8. E = entera; M = a
-medias; N = no. T = teoría; P = aplicación práctica.
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Se contestan sólo con el tema 8 en su estado actual
+(tras remate y 5 bis). La primera ronda (13 E, 1 M, 1 N; laguna XMP, ya cubierta) queda en el
+historial de git (commit b08a902). Preguntas nuevas, para no repetir las ya pasadas.
+E = entera; M = a medias; N = no. T = teoría; P = aplicación práctica.
 
-1. (T, ingesta) La ingesta en directo de una señal de agencia se graba por partida doble porque:
-   a) es la más lenta · b) es la única que no se puede repetir · c) exige transcodificar · d) no
-   admite metadatos. → **b** (§ 1, «Qué es la ingesta»). **E**
-2. (P, ingesta) Un compañero «importa» los clips en el proyecto directamente desde la tarjeta y la
-   devuelve a la cámara. ¿Qué pasa? a) nada, el programa ya los copió · b) los clips quedan sin
-   material al retirar el soporte · c) el proyecto se corrompe · d) se pierden sólo los metadatos.
-   → **b** (§ 1, «Ingestar no es lo mismo que importar»). **E**
-3. (T, ingesta) Según la ayuda de Adobe, ingestar en Premiere es: a) enlazar ficheros sin copiarlos ·
-   b) copiar y, en su caso, transcodificar el material desde el soporte de origen al almacenamiento
-   del proyecto o a la caché · c) sólo crear *proxies* · d) exportar a MXF. → **b** (§ 1, cita
-   de Adobe). **E**
-4. (T, digitalización) En la captura desde cinta de DaVinci Resolve 21, los formatos de fichero
-   disponibles son: a) MXF y MP4 · b) DPX y QuickTime · c) ProRes y DNxHD · d) BWF y WAV. → **b**
-   (§ 2, p. 561; ProRes y DNxHD son códecs). **E**
-5. (P, digitalización) Se importa una EDL para recapturar un montaje y en el *Media Pool* ya hay clips
-   con el mismo nombre de cinta y TC de inicio que algunos eventos. Resolve: a) los duplica · b) no
-   crea clips nuevos para esos eventos · c) borra los existentes · d) aborta la importación. → **b**
-   (§ 2, «Batch Capture Via EDL», p. 564). **E**
-6. (P, digitalización) Sin control remoto del magnetoscopio, ¿qué método de captura queda?
-   a) captura por lotes · b) registrar y capturar un clip · c) *Capture Now* · d) captura desde EDL.
-   → **c** (§ 2, «Lo que se revisa al digitalizar», oficio declarado). **E**
-7. (P, transferencia) Un fichero de 30 GB por una línea de 1 Gb/s tarda, como mínimo: a) 30 s ·
-   b) 4 min · c) 30 min · d) 4 h. → **b** (30 × 8 = 240 Gb ÷ 1 Gb/s = 240 s; § 3, método del
-   cálculo). **E**
-8. (T, transferencia) Según el manual de la Sony Z200, para una transferencia segura se usa:
-   a) FTP · b) FTPES (FTPS en modo explícito) · c) SMB · d) HTTP. → **b** (§ 3). **E**
-9. (T, transferencia) Señale la correcta: a) en una SAN se pide un fichero · b) en un NAS se piden
-   bloques · c) una SAN da a cada estación bloques de disco como si fueran suyos · d) NAS y SAN
-   sustituyen al RAID. → **c** (§ 3, tabla y párrafo siguiente). **E**
-10. (T, verificación) En el *Clone Tool* de Resolve, la opción más resistente a colisiones es:
-    a) File Size · b) CRC 32 · c) MD5 · d) SHA 512. → **d** (§ 4, tabla). **E**
-11. (T, verificación) En el modelo OAIS, la función que valida la transferencia correcta del SIP al
-    almacenamiento temporal es: a) *Error Checking* · b) *Quality Assurance* · c) *Replace Media* ·
-    d) *Disaster Recovery*. → **b** (§ 4, «La verificación en el archivo», § 4.2.3.3). **E**
-12. (P, copias) Un proyecto se monta sobre un RAID 1 en la sala y no hay más copias. Según el tema:
-    a) cumple la regla 3-2-1 · b) protege del fallo de un disco, pero no de un borrado ni de un
-    incendio: no es copia de seguridad · c) protege de todo · d) es un RAID sin redundancia. → **b**
-    (§ 5, «Lo que no es una copia de seguridad»). **E**
-13. (T, metadatos) EBUCore es: a) un códec de archivo de la EBU · b) un conjunto de metadatos
-    descriptivos y técnicos/estructurales como extensión del Dublin Core · c) el identificador
-    único del MXF · d) una recomendación SMPTE retirada. → **b** (§ 6). **E**
-14. (T, metadatos) En Premiere Pro, los metadatos de clip y de fichero se escriben en el esquema:
-    a) EBUCore · b) XMP · c) ALE · d) EXIF. → El tema no lo da: dice sólo que Premiere tiene
-    «columnas de metadatos» y remite a los temas 3 y 15, que tampoco tratan XMP. **N** (laguna)
-15. (T, archivo) Una unidad LTO-10: a) lee dos generaciones atrás · b) lee y escribe una generación
-    atrás · c) no tiene compatibilidad hacia atrás · d) lee cintas LTO-5 con LTFS. Y su capacidad
-    nativa es: … → primera parte **c** (§ 7, tabla de compatibilidad); la capacidad nativa no la da
-    (hueco declarado en «Lo que este tema no da»; sólo 100 TB comprimidos). **M**
+1. (T, ingesta) La ingesta que graba automáticamente en un horario previsto, sin nadie delante y con
+   recurrencia, es: a) de fichero · b) en directo (*crash record*) · c) programada · d) por lotes.
+   → **c** (§ 1, «Qué es la ingesta», tabla). **E**
+2. (P, ingesta) Antes de meter una SD en el lector, lo primero es: a) formatearla · b) poner el
+   conmutador LOCK · c) renombrar los clips · d) copiar sólo la carpeta de vídeo. → **b** (§ 1, paso 1). **E**
+3. (T, ingesta) Según la ayuda de Adobe, Premiere, al ingestar: a) no comprueba nada · b) verifica que
+   no hay corrupción ni pérdida de datos, sin decir con qué algoritmo · c) usa SHA-512 · d) usa CRC32.
+   → **b** (§ 1, «La ingesta en el programa de edición»). **E**
+4. (P, digitalización) Digitalizar 90 minutos de cinta con captura normal lleva, como mínimo:
+   a) unos 10 min · b) 45 min · c) 90 min · d) depende sólo del disco. → **c** (§ 2, «va en tiempo
+   real»). **E**
+5. (T, digitalización) En la captura desde cinta de Resolve 21, el número de pistas de audio
+   capturables es: a) 2 · b) de 2 a 8 · c) de 2 a 16 · d) de 1 a 32. → **c** (§ 2, p. 561). **E**
+6. (P, digitalización) Con *Capture Now* en Resolve, un clip capturado en TC 01:00:00:00 a 25 cuadros
+   se llama: a) 01000000.dpx · b) 00090000.dpx · c) 00086400.dpx · d) reel01.dpx. → El tema da el
+   ejemplo del manual (00086400.dpx, TC 01:00:00:00) y la regla (cuadros «based on the ingest frame
+   rate»); 00086400 = 3.600 s × 24, así que a 25 cuadros serían 90.000 (b). El tema da la regla, pero
+   no la cadencia del ejemplo: se deduce. **M** (no es laguna: el cálculo sale de la regla)
+7. (P, transferencia) Un fichero de 45 GB por una línea de 300 Mb/s tarda, como mínimo: a) 2,5 min ·
+   b) 20 min · c) 45 min · d) 2 h. → **b** (45 × 8 = 360 Gb = 360.000 Mb ÷ 300 = 1.200 s; § 3,
+   método). **E**
+8. (T, transferencia) Varias salas de informativos editan a la vez sobre el mismo material con
+   caudal sostenido. El almacenamiento adecuado es: a) local · b) NAS · c) SAN · d) una memoria USB.
+   → **c** (§ 3, tabla local/NAS/SAN). **E**
+9. (T, verificación) En el *Clone Tool* de Resolve, la opción que el manual califica como «by far the
+   fastest» es: a) CRC 32 · b) MD5 · c) SHA 256 · d) XXHASH64. → **d** (§ 4, tabla). **E**
+10. (T, verificación) Dentro del *Archival Storage* del OAIS, la función que da «statistically
+    acceptable assurance» de que el AIP no se ha corrompido es: a) *Replace Media* · b) *Error
+    Checking* · c) *Disaster Recovery* · d) *Quality Assurance*. → **b** (§ 4, § 4.2.3.4). **E**
+11. (T, copias) Un RAID 5 con tres discos de 4 TB da de capacidad útil y aguanta la caída de:
+    a) 12 TB, ninguno · b) 8 TB, uno · c) 6 TB, dos · d) 4 TB, dos. → **b** (§ 5, tabla «Con tres
+    discos»: dos discos de tres, pierde uno). **E**
+12. (T, metadatos) La propiedad XMP que guarda el nombre de la cinta de la que se capturó el clip es:
+    a) `dc:source` · b) `xmpDM:tapeName` · c) `xmpDM:logComment` · d) `xmpDM:good`. → **b** (§ 6, XMP). **E**
+13. (T, archivo) Las cinco clases de la PDI del OAIS son procedencia, contexto, referencia, fijeza y:
+    a) derechos de acceso · b) formato · c) resolución · d) autoría. → **a** (§ 7, «Access Rights
+    Information»). **E**
+14. (T, archivo) La LTFS está incluida en las cintas LTO: a) sólo en la LTO-10 · b) desde la LTO-5 ·
+    c) desde la LTO-7 · d) nunca, es un programa aparte. → **b** (§ 7, LTFS). **E**
+15. (T, archivo) Para conservar a largo plazo una cinta digitalizada, un archivo audiovisual suele
+    usar un códec sin pérdidas de preservación como: a) H.264 · b) FFV1 o JPEG 2000 sin pérdidas ·
+    c) ProRes Proxy · d) MP3. → El tema no habla de formatos de conservación (dice sólo que el formato
+    que usa CSRTV no consta); el tema 4 tampoco. **N** (laguna)
 
-Rúbricas: ingesta (1-3), digitalización (4-6), transferencia (7-9), verificación (10-11), copias
-(12), metadatos (13-14), archivo (15; y 11). Teoría: 1, 3, 4, 8, 9, 10, 11, 13, 14, 15. Práctica: 2,
-5, 6, 7, 12.
+Rúbricas: ingesta (1-3), digitalización (4-6), transferencia (7-8), verificación (9-10), copias
+(11), metadatos (12), archivo (13-15). Teoría: 1, 3, 5, 8, 9, 10, 11, 12, 13, 14, 15. Práctica: 2,
+4, 6, 7.
 
-Resultado: 13 enteras, 1 a medias (15, hueco ya declarado), 1 no (14, laguna).
+Resultado: 13 enteras, 1 a medias (6, se deduce de la regla), 1 no (15, laguna).

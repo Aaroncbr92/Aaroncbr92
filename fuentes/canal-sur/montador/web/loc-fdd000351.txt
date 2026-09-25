@@ -1,0 +1,171 @@
+
+
+ Uncompressed YCbCr Video Picture Stream Family
+
+ Digital Preservation Home | Digital Formats Home    
+
+ Sustainability of Digital Formats: Planning for Library of Congress Collections
+
+ Introduction | Sustainability Factors | Content Categories | 
+ Format Descriptions | Contact
+
+ Printer-friendly version   
+
+-->
+
+Format Description Categories >> 
+ Browse Alphabetical ListUncompressed YCbCr Video Picture Stream Family
+
+>> BackTable of Contents
+ Identification and description
+
+ Local use
+
+ Sustainability factors
+
+ Quality and functionality factors
+
+ File type signifiers
+
+ Notes
+
+ Format specifications
+
+ Useful references
+
+ Format Description Properties
+
+ ID: fdd000351
+
+ Short name: Vid_Unc_Pix
+
+ Content categories: 
+ moving-image
+
+ Format Category:
+ encoding
+
+ Other facets: 
+ unitary, binary, sampled
+
+ Last significant FDD update:
+ 2013-01-25
+
+ Draft status: Partial
+
+Identification and description 
+
+ Full name
+ Uncompressed YCbCr Video Picture Stream Family
+
+ Description
+
+ Family of digital, color-difference component video picture streams. This partial description is intended to provide a high-level context for descriptions of selected picture-stream subtypes and for further description of uncompressed video picture-data "at the byte level" when written to media or presented to a decoder or player.
+
+ There are two widely used terms used to name the three color-difference components in video picture streams: YCbCr and YUV. (In some non-broadcast contexts, there can be a fourth transparency component). At the high level of this format description, the terms have the same meaning. The term YCbCr tends to be used in a relatively precise way while YUV is often used more loosely. The Wikipedia article YUV (consulted January 8, 2013), notes that the scope of these and other similar terms "is sometimes ambiguous and overlapping."
+
+ The designation YCbCr comes from the broadcast profession. Careful writers will use Y' ("Y prime") instead of Y since this component represents luma, i.e., gamma-corrected brightness intensity data. (Strictly speaking, no-prime Y represents intensity in linear terms and is called luminance.) Cb and Cr represent chroma (color) components. As explained in the Wikipedia article YCbCr (consulted January 8, 2013), "Y'CbCr is not an absolute color space; rather, it is a way of encoding RGB information. The actual color displayed depends on the actual RGB primaries used to display the signal. Therefore a value expressed as Y'CbCr is predictable only if standard RGB primary chromaticities are used." The designation YUV (or Y'UV) comes from outside the broadcast community, often used by workers who focus on data networks and computer-based activities.
+
+ Video, as typically encountered in broadcast or data networks, includes soundtracks and may include ancillary data like closed captioning or subtitles. This format description and the descriptions of its subtypes, however, are limited to picture information. The subtype descriptions at this Web site at this time are intended to inform those carrying out the preservation reformatting of older analog and media-dependent digital videotapes. For this reason, they concern the widespread 4:2:2 chroma subsampling pattern, as described in Vid_Unc_Pix_422. This "422" subtype is the most common referent for the term uncompressed video when used by professional broadcasters.
+
+ Production phase
+ Employed in creation (initial phase), post-production or editing (middle phase), and dissemination (final phase).
+
+ Relationship to other formats
+
+     Has subtype
+ Uncompressed YCbCr Video Picture Stream (4:4:4). Not described at this Web site at this time.
+
+     Has subtype
+ Vid_Unc_Pix_422, 
+ Uncompressed YCbCr Video Picture Stream (4:2:2)
+
+     Has subtype
+ Uncompressed YCbCr Video Picture Stream (4:2:0). Not described at this Web site at this time.
+
+     Has subtype
+ Uncompressed YCbCr Video Picture Stream (4:1:1). Not described at this Web site at this time.
+
+     Has subtype
+ Uncompressed YCbCr Video Picture Stream (other chroma subsampling patterns). Not described at this Web site at this time.
+
+Local use 
+
+ LC experience or existing holdings
+ Underpins many video streams in LC collections, both in digital videotape and in files.
+
+ LC preference
+ Not applicable.
+
+Sustainability factors
+
+ Disclosure
+ Not relevant to this description; see Disclosure information for subtypes of the subtypes listed under Relationships.
+
+     Documentation
+ Not applicable. Several relevant online articles are cited in Useful references below.
+
+ Adoption
+ Various subtypes are widely adopted.
+
+     Licensing and patents
+ None.
+
+ Transparency
+ Transparent.
+
+ Self-documentation
+ Not applicable.
+
+ External dependencies
+ None.
+
+ Technical protection considerations
+ None.
+
+Quality and functionality factors
+
+File type signifiers and format identifiers
+
+ Tag
+ Value
+ Note
+
+ Pronom PUID
+ See note. 
+
+ PRONOM has no corresponding entry as of November 2018.
+
+ Wikidata Title ID
+ See note. 
+
+ Wikidata has no corresponding entry as of November 2018.
+
+Notes
+
+ General
+
+ History
+ For video, the need to separate brightness from color information became acute with the development of color broadcast television, which had to accommodate an immense installed base of black-and-white home receivers. The year 1953 marked a significant milestone when the National Television Systems Committee (NTSC) established the "compatible" video signal that served both black-and-white and color receivers. This specification was later defined as the Electronic Industries Alliance (EIA) standard RS-170a. The underlying concepts for separating brightness and color information predate the Second World War; for example, in 1938, a luminance-chrominance encoding system had been patented by the French electrical engineer Georges Valensi. In the 1970s and 1980s, color-difference component systems were developed for non-broadcast applications like television program production; for example, the original analog SONY Betacam recorder that employed color-difference component recording was introduced in 1982.
+
+Format specifications 
+
+ See Disclosure under Sustainability factors.
+
+Useful references
+URLs
+
+ Wikipedia article YCbCr, consulted January 8, 2013 (https://en.wikipedia.org/wiki/Ycbcr).
+
+ Wikipedia article YUV, consulted January 8, 2013 (https://en.wikipedia.org/wiki/YUV).
+
+ Wikipedia article NTSC, consulted January 8, 2013 (https://en.wikipedia.org/wiki/NTSC). Historical information on broadcasting and introduction of color.
+
+ Uncompressed Y´CbCr Video in QuickTime Files (https://developer.apple.com/library/archive/technotes/tn2162/_index.html). Although focused on Quicktime, includes generally useful information.
+
+ Towards Better Chroma Subsampling (http://www.glennchan.info/articles/technical/chroma/chroma1.htm). Explanatory article by Glenn Chan.
+
+Last Updated: 08/04/2021
+
+ Digital Preservation Home | Digital Formats Home    
+

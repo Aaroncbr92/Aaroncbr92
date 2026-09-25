@@ -49,3 +49,11 @@ tabla del *Retime Process*.
 
 El tema, este informe y el extracto nuevo `fuentes/canal-sur/montador/resolve21-extractos/speed.txt`.
 `fuentes/canal-sur/BOE-A-2023-11022.md` figura modificado en `git status`, pero no por este remate.
+
+## Adenda (relanzamiento de la fase 5, 25-09-2026)
+
+El remate ya estaba hecho (arriba) y revisado en la fase 5 bis (`30-T07-final.md`, con cuatro ajustes
+sobre pasajes nuevos). No se reaplica nada para no pisar esos ajustes. Comprobado que siguen en el
+tema: «Los efectos de tiempo», las guías *Social Media* con 1.91:1, *Optical Flow*, y fuera «hoy
+Asociación Española». `indice.py`: 13.660 palabras, 50 epígrafes, sin cambios en el índice.
+`refutar_prosa.py`: 0 hallazgos. Ficheros tocados: sólo este informe.

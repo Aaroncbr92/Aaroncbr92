@@ -38,3 +38,22 @@ ha tocado; la guía no llama «española» a la norma. Queda para quien retome e
 ## Ficheros tocados
 
 El tema y este informe.
+
+## Adenda (relanzamiento de la fase 5 bis, 25-09-2026)
+
+La fase 5 bis ya estaba hecha (arriba). No se repite entera para no pisar sus ajustes. Comprobado en el
+tema que siguen los cuatro: siglas «no desarrolla ninguna de las dos siglas» (l. 34), «pp. 1254-1264»
+(l. 483), «puede no sonar tan bien» (l. 495) y «menos sofisticado» (l. 514); fuera «se numeran las
+normas españolas», «suena peor» y «da tirones». El pendiente fuera de alcance («La norma española de
+subtitulado») lo cerró la adenda de la verificación (`30-T07-verificacion.md`): «La norma de
+subtitulado para personas sordas que cita la guía es la UNE 153010:2012 (AENOR)».
+
+Recotejo de muestra contra `speed.txt` (Resolve 21, cap. 58, releído el 25-09-2026): definición y
+audio *muted* (p. 1254), corrección de tono Linux/Windows sin, Mac con (p. 1254), *may not sound as
+good* (pp. 1255-1256), *Project Settings* / *Frame Interpolation* / inspector, *Nearest*, *Frame
+Blend* (útil cuando el flujo óptico deja defectos), *Optical Flow* y su límite (p. 1265), modos
+*Standard*/*Enhanced*/*Speed Warp* con *Neural Engine* e *isn't always the best choice*
+(pp. 1265-1266): todo cuadra. Antecedentes de «El flujo óptico tiene su límite» y «El mismo proceso»,
+en su sitio. Cero hallazgos nuevos.
+
+Ficheros tocados: sólo este informe.

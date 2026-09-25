@@ -34,3 +34,28 @@ Fuentes releídas (25-09-2026): `fuentes/canal-sur/montador/resolve21-extractos/
 ## Ficheros tocados
 
 El tema y este informe.
+
+---
+
+# Segunda ronda (pasajes del segundo remate)
+
+Fecha de trabajo y de lectura de fuentes: 25-09-2026 (el encargo fija «hoy» en 24-09-2026). Alcance:
+sólo los cuatro pasajes de la segunda ronda de `30-T12-remate.md`.
+
+Fuentes releídas (25-09-2026): `fuentes/canal-sur/montador/web/redes/youtube-ayuda-15424877.txt`
+(l. 38), `youtube-ayuda-72431.txt` (ll. 93-102) y `youtube-ayuda-6375112.txt` (ll. 15-19).
+
+| # | Pasaje | Comprobación | Resultado |
+| --- | --- | --- | --- |
+| 1 | § 6 «Música y reclamaciones…», 1.ª viñeta | l. 38: «Puedes usar cualquier canción disponible en la Biblioteca de audio de Shorts. Además, … limitadas a 60 o 30 segundos.» y «no recibirá ninguna reclamación de derechos de autor» | Literal, completo y bajo «Canales estándar de YouTube» (el tema dice «canales estándar»). La salvedad queda recogida. Correcto |
+| 2 | § 2 «Relación de aspecto», viñeta 4K-8K | l. 19, bajo «Nota:» tras la lista de resoluciones: «En el 2022, empezamos a retirar … contenido en 5K.» | Literal. «empezamos» remite a YouTube, cuya página se cita en el mismo epígrafe; «2160p (4K)» y «4320p (8K)» están en la viñeta anterior. Correcto |
+| 3 | § 4 «Lo que no se puede poner», final del 1.er párrafo | l. 101: mismo párrafo que «Un canal puede subir un número limitado…»; cita literal con las comillas rectas de la fuente | Literal. «el aviso» tiene delante el límite diario; «la página» es la de miniaturas (answer 72431), citada en el epígrafe y en Trazabilidad. Correcto |
+| 4 | Ficha, «Extensión» 8.900 | Recuento del remate: 8.971 palabras | Coherente con «aproximadamente». Correcto |
+
+## Correcciones aplicadas
+
+Ninguna (0 hallazgos).
+
+## Ficheros tocados
+
+Sólo este informe (se añade la segunda ronda; la primera queda como estaba).

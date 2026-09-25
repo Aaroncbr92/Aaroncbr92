@@ -1,47 +1,39 @@
-# Puesto 30 · Tema 8 · Revisión de los pasajes del remate (fase 5 bis)
+# Puesto 30 · Tema 8 · Fase 5 bis (revisión de los pasajes del remate)
 
-Fecha: 25-09-2026 (encargo fechado 24-09-2026). Revisados sólo los ocho pasajes que lista
-`30-T08-remate.md`, cada dato contra su fuente guardada y cada remisión contra su antecedente.
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Revisor distinto del rematador.
+Alcance: sólo los 8 pasajes listados en `30-T08-remate.md` (diff del tema frente a b08a902).
 
 ## Fuentes releídas (25-09-2026)
 
-| Fuente | Pasajes |
-|---|---|
-| `fuentes/canal-sur/montador/web/xmp-adobe.txt` (Adobe, developer.adobe.com/xmp/docs) | 1 |
-| `.../web/xmp-dm.txt` y `.../web/xmp-dc.txt` (adobe/xmp-docs) | 1 |
-| `fuentes/canal-sur/montador/ebu/tech3293.txt` (EBU Tech 3293 v. 1.10, § 2.1, pp. 7-8) | 1 (frase sobre EBUCore) |
-| `.../web/lto-compatibility.txt` (lto.org) | 2, 6, 7, 8 |
-| X Convenio RTVA, `fuentes/canal-sur/documentos/x-convenio-rtva-boja-240-2014.txt`, ll. 6810-6837 (BOJA 240, p. 190) | 3 |
+`fuentes/canal-sur/montador/web/`: `rfc9043.txt` (resumen, § 1, § 4.2.16 «ec», § 4.9.3), `rfc9559.txt`
+(cabecera y resumen), `loc-fdd000341.txt` (líneas 95, 115, 224), `loc-fdd000206.txt`, `jpeg-about.txt`;
+`resolve21-extractos/tape.txt` (l. 149-151, p. 562). Nueva: `iasa-home.txt` (iasa-web.org, 25-09-2026).
 
-## Resultado
+## Comprobado sin cambios
 
-- **Citas literales**: las 14 citas nuevas (4 de XMP, 2 de espacios de nombres, 7 propiedades `xmpDM`,
-  1 de LTO) se cotejaron por programa: literales. La de ISO 16684-1 difiere sólo en el espacio que
-  deja el enlace antes del punto en la fuente.
-- **Ficha del puesto**: ocho tareas en la ficha, la sexta citada literal; el «Cinco de sus ocho»
-  cuadra. El tema 13 tiene el epígrafe «La emisión automatizada»: la remisión es buena.
-- **LTO**: 30 y 40 TB literales y sin calificar de nativos; el hueco lo dice bien.
-- **Portada, «Qué se puede preguntar», «Documentos técnicos», «Lo que este tema no da», «Trazabilidad»,
-  índice**: coherentes con el texto; el ancla del índice coincide con el rótulo.
-- **Antecedentes**: «más abajo», «ella», «esas cifras», «Una sexta», «La de compatibilidad»: todos
-  con su antecedente delante.
+- Las siete negritas nuevas: literales (RFC 9043 ×3, RFC 9559, LoC FFV1 ×2, LoC RDD 48).
+- RFC 9043 «Informational», agosto de 2021; RFC 9559 «Standards Track», octubre de 2024.
+- IASA-TC 06 de 2018 y clases 1-3 (analógico digitalizado, cintas digitales): ficha LoC fdd000341.
+- ST 422 «available from SMPTE for purchase»: «de pago» correcto. Sigla JPEG: jpeg.org l. 57.
+- Cálculo: 3.600 × 24 = 86.400; 3.600 × 25 = 90.000 → 00090000. Ejemplo literal de p. 562.
+- Pasajes 4-8 (portada, qué se puede preguntar, tablas, huecos, trazabilidad): coherentes.
 
-## Correcciones aplicadas (2, error 9)
+## Corregido (comprobado en la fuente)
 
-1. «su documentación nombra a Premiere **entre los programas que fijan sus propiedades**»: la página
-   `xmpDM` nombra a Premiere una sola vez (en `altTapeName`). Pasa a «nombra a Premiere como el
-   programa desde el que se fija una de sus propiedades».
-2. «los dos vocabularios parten del mismo conjunto de elementos»: ninguna fuente leída dice que el
-   «Simple Dublin Core» de EBU Tech 3293 y el «Dublin Core Metadata Element Set» de Adobe sean el
-   mismo conjunto (el tema declara no haber leído la lista de elementos del Dublin Core). Se
-   sustituye por lo que dicen las fuentes: «EBUCore se define como extensión del Dublin Core, y el
-   espacio `dc` de XMP toma de él sus nombres y su uso».
+1. **«cuadro a cuadro» (error 9)**: el RFC 9043 § 4.2.16 dice que el CRC de 32 bits va siempre en el
+   registro de configuración y, con `ec = 1`, también en cada *slice*. Se sustituye por eso.
+2. **Sigla IASA sin fuente (error 9)**: el desarrollo no constaba en ninguna fuente guardada; confirmado
+   en iasa-web.org y añadido a «Documentos técnicos» y «Trazabilidad».
+3. **Antecedentes**: «lo clasifica así» (el «lo» apuntaba a Matroska, la cita habla de FFV1 en
+   Matroska) → «clasifica la combinación así, en su ficha del FFV1»; «su misma ficha» → «esa misma
+   ficha»; «La ficha de la Biblioteca» (ambigua tras citar la del FFV1) → «Otra ficha…, la de esta
+   combinación».
 
-## Lentes tras corregir
+## Lentes
 
-`indice.py`: 11.034 palabras, 44 epígrafes. `refutar_prosa.py`: 1 hallazgo, el previo al remate
-(referencia del convenio en «Documentos técnicos» y «Trazabilidad»). Negritas limpias.
+`indice.py`: 11.893 palabras, 45 epígrafes. `refutar_prosa.py`: 1 hallazgo, el mismo previo (referencia
+del convenio en su sitio). Sin norma jurídica: no proceden las demás.
 
 ## Ficheros tocados
 
-El tema 08 y este informe.
+El tema 8; este informe; nuevo `fuentes/canal-sur/montador/web/iasa-home.txt`.

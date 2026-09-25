@@ -1,74 +1,70 @@
-# Puesto 30 · Tema 9 · Preguntas (fase 4)
+# Puesto 30 · Tema 9 · Preguntas tipo test (fase 4, segunda ronda)
 
 Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema:
-`temas/canal-sur-especificos/30-operador-a-montador-a-de-video/09-coordinacion-con-otras-areas.md`.
-Contestadas sólo con el tema. Clave: entera / a medias / no.
+`temas/canal-sur-especificos/30-operador-a-montador-a-de-video/09-coordinacion-con-otras-areas.md`,
+en su estado actual (tras el remate). La primera ronda (15 enteras) queda en git (commit b08a902);
+estas preguntas son nuevas, para no repetir las ya pasadas ni las diez de la redacción.
+Contestadas sólo con el tema. E = entera; M = a medias; N = no. T = teoría; P = aplicación práctica.
 
-1. **Según el artículo 45.1 del X Convenio, el Operador/a Montador/a de Vídeo está en el nivel:**
-   a) B03; b) B04; c) B02; d) B05.
-   → **b** (p. 74). «La ficha del Operador/a Montador/a de Vídeo». Entera.
-2. **¿Cuál de estas NO es tarea de la ficha del Operador/a Montador/a de Vídeo?**
-   a) Recibir y enviar enlaces; b) Compactar para el archivo de material audiovisual; c) Indizar la
-   documentación audiovisual; d) Repicar cintas orientadas a la producción, emisión y comercialización.
-   → **c** (es del Documentalista). Epígrafes del puesto y 4. Entera.
-3. **El Libro de Estilo de CSTV se define como:** a) norma de obligado cumplimiento en todo su
-   contenido; b) conjunto de recomendaciones periodísticas y selección de métodos de trabajo, con casos
-   de conducta obligatoria; c) reglamento interno aprobado por el Consejo de Administración; d) anexo
-   del convenio.
-   → **b** (Introducción, p. 9). «Advertencia sobre las fuentes». Entera.
-4. **El periodista debe llegar a la cabina con:** a) sólo el texto; b) textos ajustados y revisados,
-   imagen estudiada y minutada, un mínimo esquema narrativo y, en su caso, el archivo que necesite;
-   c) la escaleta técnica; d) el gráfico terminado.
-   → **b** (cap. 6, p. 88). 1, «Con qué llega el redactor a la cabina». Entera.
-5. **Según 6.3, en caso de duda sobre problemas técnicos y estéticos el redactor consulta a:**
-   a) el montador; b) el productor; c) el realizador; d) el Secretario/a de Redacción.
-   → **c**. 1, «La opinión del montador». Entera.
-6. **(Práctica) Con el montaje avanzado, el editor decide cambiar el orden y acortar la pieza. ¿Cómo
-   debe llegar el cambio a la sala?** a) por el redactor, cuando pueda; b) desde el origen de la
-   decisión, inmediata y simultáneamente a todas las personas y departamentos afectados; c) por
-   escrito a producción; d) por el realizador al final del proceso.
-   → **b** (6.1) y el vídeo se adapta a lo que fijan los editores (cap. 6). 1 y tabla práctica. Entera.
-7. **(Práctica) El redactor pide renombrar un vídeo ya escaletado. El montador:** a) lo renombra;
-   b) lo renombra y avisa a realización; c) mantiene el nombre de la escaleta, que debe respetarse por
-   obligación; d) consulta al productor.
-   → **c** (6.1.1); única excepción, vídeo terminado antes de la escaleta. Entera.
-8. **«Responsable máximo de la corrección de la imagen y de la calidad de la emisión del programa»
-   es, según el Libro de Estilo:** a) el editor; b) el realizador; c) el Encargado de montaje; d) el
-   productor.
-   → **b** (6.5, p. 92). 2. Entera.
-9. **Ante imperfecciones técnicas moderadas, según 6.5.1:** a) prevalece la técnica, atribución del
-   realizador; b) prevalece la información, competencia del editor; c) decide el montador; d) decide
-   la Dirección de los Servicios Informativos.
-   → **b**. 2 y tabla práctica. Entera.
-10. **Entre las fichas del convenio, «Coordinar las tareas de montaje, postproducción y mezclas hasta
-    el acabado del programa» corresponde a:** a) Realizador; b) Ayudante de Realización; c) Productor/a;
-    d) Operador de Sonido de Televisión.
-    → **b** (el Realizador las «dirige»). 2, tabla de fichas. Entera.
-11. **(Práctica) Hace falta una sala de montaje no prevista y el coste choca con el interés
-    informativo. ¿Cómo se pide y quién decide si no hay acuerdo?** a) de viva voz, decide el editor;
-    b) por escrito por los cauces ofimáticos habituales salvo urgencia extrema; si no se armonizan,
-    decide la Dirección de los Servicios Informativos; c) por correo al realizador, decide él;
-    d) al Encargado, decide él.
-    → **b** (4.4, 4.4.3). 3. Entera.
-12. **«Comprobar, identificar, verificar (mediante visionado) y registrar los soportes» es tarea de:**
-    a) Documentalista; b) Operador/a Montador/a de Vídeo; c) Ayudante de Archivo y Documentación;
-    d) Secretario/a de Redacción.
-    → **c** (ficha 5213213, B04). 4, «La frontera». Entera.
-13. **(Práctica) Grafismo entrega un gráfico mudo de siete elementos para tres segundos en pantalla.
-    Según el Libro de Estilo:** a) correcto; b) incumple: no más de cuatro o cinco elementos por
-    pantalla, presencia mínima recomendable de ocho segundos y «cama» de audio por el canal
-    correspondiente salvo sonido propio; c) sólo falta la firma; d) sólo falta el audio.
-    → **b** (3.16, 3.16.2). 5 y tabla práctica. Entera.
-14. **La música como elemento del montaje final de una noticia se admite:** a) siempre como fondo;
-    b) sólo si la propia música es la referencia noticiosa principal, sin perturbar la narración ni
-    anular por completo el sonido natural; c) nunca; d) sólo en reportajes.
-    → **b** (3.2.2, p. 46). 6. Entera.
-15. **En la disposición adicional segunda del convenio (desconexiones provinciales), los
-    Operadores/as Montadores/as de esos centros que desempeñen funciones distintas a las de su puesto,
-    acordes a su cualificación, cobran:** a) el complemento de especial responsabilidad del 30 %;
-    b) el complemento de polivalencia, no consolidable; c) el de calidad en el trabajo del 25 %;
-    d) nada.
-    → **b** (el 30 % es para los cuatro de la emisión; el 25 % es de los Operadores de Sonido de radio,
-    que el tema no trata y no hace falta). «Las desconexiones provinciales». Entera.
+1. (T, puesto) En la ficha del Operador/a Montador/a de Vídeo, los campos que el convenio deja en
+   blanco son: a) código y denominación · b) dirección a la que pertenece y departamento · c) función
+   básica y tareas · d) nivel y grupo. → **b** («El encargado del área», salvedad). **E**
+2. (P, documentación) El montador necesita saber a qué fuentes internas y externas acudir para
+   localizar un material y cómo acceder a ellas. Según las fichas, asesora sobre eso: a) el Ayudante de
+   Archivo y Documentación · b) el Documentalista · c) el Secretario/a de Redacción · d) el Productor/a.
+   → **b** («Dos fichas de documentación»). **E**
+3. (T, puesto) Según su ficha, el Encargado/a de Operación y Montaje de Vídeo (B03) informa al
+   responsable del departamento de: a) los derechos de las imágenes · b) los trabajos realizados
+   diariamente y las incidencias · c) la escaleta técnica · d) las horas extraordinarias. → **b**
+   («El encargado del área»). **E**
+4. (T, desconexiones) ¿En cuál de estos centros NO se citaban en 2014 desconexiones informativas
+   provinciales en la disposición adicional segunda? a) Almería · b) Huelva · c) Málaga · d) Jaén.
+   → **c** (la lista es Almería, Cádiz, Córdoba, Huelva y Jaén). **E**
+5. (T, redacción) Según 6.3 del Libro de Estilo, la edición de imágenes se hace siempre: a) con el
+   realizador presente · b) con una escaleta de planos acompañada de un minutaje preciso · c) tras
+   la emisión del avance · d) con el texto locutado en cabina. → **b** («Tiempos, cabinas y entrega
+   escalonada»). **E**
+6. (P, redacción) Un vídeo quedó terminado antes de elaborarse la escaleta. ¿Quién traslada su nombre
+   a la escaleta? a) el montador · b) el equipo de edición, que traslada el nombre que le dio el autor
+   o lo adapta · c) el Secretario/a de Redacción · d) el realizador. → **b** («Tres reglas
+   obligatorias», regla 2). **E**
+7. (T, redacción) Además de la mayor parte de los elementos de la escaleta, los partes de emisión
+   contemplan: a) el presupuesto · b) las vías de sonido, el coleo del vídeo, los rótulos, las
+   observaciones y el pie del texto · c) el plan de trabajo del productor · d) el código de archivo.
+   → **b** («Qué es, en el Libro de Estilo»). **E**
+8. (P, redacción/directos) Un reportero en directo necesita variar algo no pactado; no hay
+   posibilidad de aviso y la cuestión es urgente y elemental. Según 8.1, punto 3: a) no puede
+   variarlo nunca · b) puede, por esa salvedad; las indicaciones previas del editor se acatan
+   obligatoriamente · c) decide el realizador · d) decide el montador. → **b** («Los directos»). **E**
+9. (T, realización) Según 6.5.1, los criterios de realización afectan esencialmente a: a) el fondo ·
+   b) la forma, aunque incluso la forma y la estética están supeditadas al mensaje · c) el presupuesto ·
+   d) el orden de las noticias. → **b** («La delegación»). **E**
+10. (T, realización) Según 6.5.2, la capacidad y autoridad del realizador para decidir sobre modo,
+    forma y diseño del informativo tiene la salvedad de: a) la aprobación del productor · b) ceñirse a
+    criterios de producción y a la supremacía del sentido informativo · c) el visto bueno del
+    montador · d) ninguna. → **b** («Urgencia y autoridad»). **E**
+11. (P, producción) Un productor cita a la vez, a la misma hora, al iluminador y al cámara de una
+    grabación. Según 4.4.2: a) es lo correcto · b) es un error, porque hasta que el primero no termine
+    no empieza la fase siguiente · c) depende del realizador · d) sólo es error en directos. → **b**
+    («Tiempos y fases»). **E**
+12. (T, producción) «Velar por el cumplimiento de la ley de prevención de riesgos laborales» figura
+    entre las tareas de la ficha de: a) Operador/a Montador/a de Vídeo · b) Realizador · c) Productor/a ·
+    d) Encargado de montaje. → **c** («La ficha del Productor/a»). **E**
+13. (P, grafismo) Un gráfico sobre municipios andaluces sin correlación numérica entre ellos: ¿en qué
+    orden aparecen los topónimos? a) de mayor a menor población · b) alfabético · c) de este a oeste ·
+    d) libre, a criterio del grafista. → **b** («Qué pide el Libro de Estilo a un gráfico», orden).
+    **E**
+14. (P, sonido) En una grabación de una actuación musical, si las circunstancias lo permiten, el
+    canal 1: a) recoge el ambiente de cámara · b) se toma de la mesa de sonido · c) se deja libre para
+    la locución · d) duplica el canal 2. → El tema da la regla («sobre todo cuando el sonido es tan
+    importante como la imagen», 5.4), pero no el ejemplo de la actuación musical que pone la fuente;
+    la respuesta **b** se deduce. **M** (no es laguna)
+15. (P, sonido) El realizador de un programa pide a alguien que elija las sintonías, ráfagas y
+    cortinillas. Según las fichas del convenio, esa tarea es del: a) Operador/a Montador/a de Vídeo ·
+    b) Operador de Sonido de Televisión · c) Ambientador Musical · d) Grafista. → **c** («Las fichas:
+    sonido y música»). **E**
 
-Resultado: 15 enteras, 0 a medias, 0 no.
+Rúbricas: puesto (1, 3, 4), documentación (2), redacción (5-8), realización (9-10), producción (11-12), grafismo (13),
+sonido (14-15). Teoría: 1, 3, 4, 5, 7, 9, 10, 12. Práctica: 2, 6, 8, 11, 13, 14, 15.
+
+Resultado: 14 enteras, 1 a medias (14, se deduce de la regla), 0 no.

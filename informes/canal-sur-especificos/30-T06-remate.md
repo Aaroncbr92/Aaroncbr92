@@ -1,43 +1,39 @@
-# Puesto 30 · Tema 6 · Remate (fase 5)
+# Puesto 30 · Tema 6 · Remate (fase 5, segunda pasada)
 
 Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema:
 `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/06-montaje-de-programas-promociones-cultura-deportes-digital.md`.
-Entrada: `30-T06-refutacion.md` y `30-T06-preguntas.md`. **Se amplió contenido nuevo** (tres lagunas): procede 5 bis.
+Entrada: `30-T06-refutacion.md` y `30-T06-preguntas.md` (segunda pasada: 0 graves, 1 menor, 2 lagunas).
+El remate de la primera pasada queda en git (commit b08a902). **Se amplió contenido nuevo** (dos lagunas): procede 5 bis.
 
 ## Fuentes releídas antes de aplicar (25-09-2026)
 
 | Fuente | Qué |
 |---|---|
-| LGCA, BOE-A-2022-11311 (volcado local) | 137.1, 137.2 a)-i), 137.3; 144.2 entero |
-| X Convenio RTVA, BOJA 240/2014 (txt) | Ficha 5354000 Ambientador Musical, p. 101 |
-| Libro de estilo Canal Sur 2004 (txt) | 7.5.4, pp. 109-111 (puntos 1-10) |
-| Mateu Torres 2024 (txt) | 8.1 (p. 85-86, rúbricas de Martínez Sáez y glosa); 10.2, pp. 101-104 |
+| LGCA, BOE-A-2022-11311 (volcado local; 1 redacción, desde 9-7-2022) | Art. 128 entero; art. 136 entero; art. 138 entero |
+| Mateu Torres 2024 (txt) | 8.3 Falso tráiler, pp. 90-92 (definición y las tres tipologías) |
 
 ## Correcciones y ampliaciones (todas confirmadas en la fuente)
 
-| # | Origen | Dónde (líneas actuales) | Qué se cambió |
+| # | Origen | Dónde | Pasaje cambiado |
 |---|---|---|---|
-| 1 | Exactitud 2 | § 1, l. 94-96 | Fuera «la elige... "en colaboración con el realizador"» (en la ficha califica a sintonías, ráfagas, cortinillas). Dentro, literal: «Trabajar en equipo con el realizador (de programas), seleccionando y aportando los conocimientos musicales adecuados a la estética de dichos programas», y «(que cada programa cuente con uno no consta en las fichas)» |
-| 2 | Cobertura 1 (preg. 6) | § 2, l. 204-213 | 137.2 completo, a) a h) literales, i) remitida al § 4 donde ya está; 137.3 literal; línea de aplicación |
-| 3 | Exactitud 3 | § 2, l. 224-225 | «en glosa del propio Mateu» antes de «entronca...» (confirmado: la rúbrica es cita de Martínez Sáez; lo que sigue tras los dos puntos es texto de Mateu) |
-| 4 | Cobertura 3 (preg. 14) | § 4, l. 367-380 | 7.5.4, puntos 2, 4 y 7, literales (pp. 109-110) |
-| 5 | Exactitud 1 (preg. 8) | § 4, l. 403-405 y 418-419 | 2.ª frase del 144.2 literal; aplicación a la carta |
-| 6 | Cobertura 1 y exactitud 1 | § 5, l. 542-554 y 563-564 | Espina de pescado, ramificada y caminos paralelos, literales (pp. 101-104; la refutación decía 101-103: caminos paralelos acaba en p. 104); remisión al 144.2 en la carta |
-| 7 | — | Trazabilidad | Libro: añadido 7.5.4 |
+| 1 | Exactitud, menor 1 (preg. 8) | § 1, «Programa, bloques y publicidad», viñeta Integridad | Fuera «El art. 138.1 lo repite para las interrupciones.» Dentro: «El art. 138.1, entre las reglas de las interrupciones, lo dice sin ceñirlo en su letra al lineal:» + 138.1 literal |
+| 2 | Exactitud, menor 1 (preg. 8) | § 5, aplicación final | Añadido tras «...servicio televisivo lineal.»: «No se ciñen a él, en su letra, la sobreimpresión **«publicidad»** (art. 136.1) ni la integridad del programa en las interrupciones (art. 138.1).» |
+| 3 | Laguna 1 (preg. 15) | § 1, «El patrocinio» | Nueva viñeta entre a) y c): 128.3.b literal |
+| 4 | Laguna 2 (preg. 14) | § 2, tras el *sneak peek* | Párrafo nuevo: definición del falso tráiler (p. 90) y las tres tipologías de Guarinos y Lozano Delmar recogidas por Mateu, literales (1.ª p. 90, con *Nation’s Pride* / *Malditos bastardos*; 2.ª p. 91; 3.ª p. 91). Se dan las tres, no sólo la primera, para que la pregunta de «qué tipo es» se conteste |
+| 5 | — | Trazabilidad, fila Mateu | Añadidos «falso tráiler (8.3)» y Guarinos y Lozano Delmar entre los autores citados a través de Mateu |
 
-No aplicado: la observación sobre la sobreimpresión «publicidad» del 136.1 (opcional) y el «falso tráiler» (opcional, no es promoción de la cadena).
-La refutación no se equivocó en ningún punto; sólo el rango de páginas de 10.2.
+Páginas: la refutación decía 8.3 en pp. 90-91; la tercera tipología acaba en p. 92, y así figura. En lo demás la refutación no se equivocó.
 
 ## Lentes
 
-- `indice.py`: 6.769 palabras de cuerpo, 25 epígrafes; índice sin cambios (no hay epígrafes nuevos). La ficha dice «6.000 palabras aproximadamente»: el exceso es cita literal pedida por las lagunas.
-- `negritas.py` (LGCA, convenio, Libro, Mateu): 109 negritas, 9 «no están»; todas del Libro y todas por salto de página o ligadura. La única nueva, 7.5.4.2, cruza el salto 109-110 y se comprobó a ojo.
-- `refutar_exactitud.py` (LGCA): 3 «no literales», falsos positivos (epígrafes del Libro leídos como artículos 8 y 9; ya estaban).
+- `indice.py`: 7.023 palabras de cuerpo, 25 epígrafes; sin epígrafes nuevos, índice sin cambios. La ficha dice «6.000 palabras aproximadamente»: el exceso es cita literal pedida por las lagunas.
+- `negritas.py` (LGCA, Mateu, convenio, Libro): 118 negritas, 9 «no están», las mismas 9 del Libro de antes (salto de página o ligadura). Todas las nuevas casan.
+- `refutar_exactitud.py` (LGCA): 3 «no literales», los mismos falsos positivos de antes (epígrafes del Libro leídos como art. 8).
 - `refutar_modo.py` (LGCA): 0.
 - `refutar_prosa.py`: 1 («en definitiva», dentro de cita literal de Mateu; no se toca).
 
-Antecedentes releídos: «la i)» remite a la lista del 137.2 que la precede; «Las otras tres» sigue a «La primera tipología»; «Y en los "Aspectos formales"» sigue al párrafo del Libro 7.5.
+Antecedentes releídos: «lo dice» (138.1) sigue a la cita del 136.3; «a él» (§ 5) remite a «servicio televisivo lineal» de la frase anterior; «Mateu recoge» tiene delante el 8.3; «El segundo», «El tercero» siguen a «El primer tipo».
 
 ## Ficheros tocados
 
-El tema y este informe. `fuentes/canal-sur/BOE-A-2023-11022.md` aparece modificado en `git status`, pero no por este remate.
+El tema y este informe.

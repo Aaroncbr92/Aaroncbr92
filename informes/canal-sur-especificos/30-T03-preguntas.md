@@ -52,3 +52,66 @@ Fecha: 25-09-2026 (encargo fechado 24-09-2026). Contestadas sólo con el tema
     c) exportar un AAF; d) *Individual clips*. — § 8. **Entera.**
 
 Resultado: 12 enteras, 1 a medias, 2 no.
+
+## Segunda ronda (fase 4 repetida sobre el tema rematado y revisado en 5 bis)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Quince preguntas nuevas, distintas de las de la
+primera ronda, contestadas sólo con el tema en su estado actual (8.913 palabras de cuerpo, 44 epígrafes).
+✔ = respuesta correcta según la fuente.
+
+1. (Teoría) En la edición lineal, cambiar algo en mitad del montaje: a) no afecta a nada más;
+   b) obliga a rehacer desde ahí ✔; c) sólo cambia el código de tiempo; d) exige recapturar la cinta
+   entera. — § 1, tabla. **Entera.**
+2. (Proyectos) En DaVinci Resolve, la mayor parte de la organización de proyectos se hace: a) en las
+   carpetas del sistema operativo; b) en el *Project Manager* ✔; c) en la página *Deliver*; d) en el
+   *Media Pool*. — § 2 (p. 76). **Entera.**
+3. (Práctica) Llega material AVC-Intra de una cámara P2 y se va a crear la secuencia en Premiere. Lo
+   indicado: a) un preajuste de secuencia AVC-Intra ✔; b) cualquier preajuste y cambiar la base de
+   tiempo después; c) un preajuste de *Mobile and devices*; d) crear el proyecto sin secuencia y
+   exportar. — § 2 y § 4 (preajustes por formato de cámara; la base de tiempo queda bloqueada).
+   **Entera.**
+4. (Bins) En Media Composer, seleccionada una secuencia, la orden que marca cada *master clip*,
+   *subclip*, cinta y fichero del que sale es: a) *Select Media Relatives*; b) *Select Sources* ✔;
+   c) *Select Offline Items*; d) *Select Unreferenced Clips*. — § 3. **Entera.**
+5. (Bins) Si en Avid se vuelve a capturar un *master clip* con otra compresión: a) sólo cambia el
+   *master clip*; b) cambian todos sus *subclips* y las secuencias que salen de él ✔; c) los *subclips*
+   quedan *offline*; d) se crea un *master clip* «.new». — § 3. **Entera.**
+6. (Timeline) En Resolve, una línea de tiempo recién creada se guarda: a) en el *bin Master* siempre;
+   b) en el *bin* del *Media Pool* que esté seleccionado ✔; c) en la caché; d) fuera del proyecto,
+   como .drp. — § 3 (p. 860). **Entera.**
+7. (Render) La caché inteligente de Resolve calcula de antemano, primero, los clips montados en: a)
+   ProRes 422 HQ; b) DNxHD 36; c) H.264, H.265, DCP, JPEG2K o *raw* de cámara ✔; d) sin comprimir de
+   10 bits. — § 5 (p. 209). **Entera.**
+8. (Códecs) DNxHD 145 con fuentes progresivas a 25 cuadros trabaja a: a) 145 Mb/s; b) 115 Mb/s;
+   c) 120 Mb/s ✔; d) 175 Mb/s. — § 5, tabla. **Entera.**
+9. (Códecs) De estos formatos de medios optimizados de Resolve, ¿cuál NO conserva el canal alfa?
+   a) ProRes 4444; b) DNxHR 444; c) sin comprimir de 10 bits; d) DNxHR LB ✔. — § 5 (lista de los que
+   lo conservan). **Entera.**
+10. (Conformado, práctica) En Avid, tras consolidar los *master clips* con el *bin* de secuencias
+    cerrado, al reabrirlo las secuencias parecen *offline*. Lo primero: a) *Batch Digitize*;
+    b) *Load Media Database* ✔; c) *Decompose*; d) borrar el *bin*. — § 7 (pp. 333-334). **Entera.**
+11. (Proxies, práctica) Se ha montado en Resolve con *proxies* y no hay acceso a los originales; hay
+    que sacar la pieza. En *Deliver*: a) se exporta tal cual, porque la salida usa siempre los
+    *proxies*; b) se marca «Use proxy media» ✔; c) se activa *Timeline Proxy Mode*; d) no se puede
+    exportar. — § 6 (la salida vuelve al original por defecto; la casilla lo cambia). **Entera.**
+12. (Proxies, práctica) En la página *Edit* de Resolve, la opción de *Playback > Proxy Handling* que
+    obliga a reproducir sólo el original y muestra «Media Offline» si falta es: a) *Prefer Proxies*;
+    b) *Prefer Camera Originals*; c) *Disable All Proxies* ✔; d) *Use Optimized Media if Available*.
+    — El tema dice sólo «se prefiere el *proxy* o el original»; no da el menú ni los tres modos
+    (sí los de Avid). **No.** (Fuente: manual de Resolve 21, p. 219.)
+13. (Conformado, práctica) En Media Composer se consolida una secuencia en un proyecto PAL sin tocar
+    la longitud de colas. Cada *master clip* nuevo lleva: a) ninguna cola; b) 30 cuadros; c) 50
+    cuadros ✔; d) 60 cuadros. — El tema explica *Consolidate* pero no las colas por defecto (60 NTSC,
+    50 PAL). **No.** (Fuente: guía de 1999, p. 332.)
+14. (Conformado, práctica) Se transcodificó el material de .mov a .mp4 y Premiere no lo reenlaza solo.
+    Lo indicado: a) volver a importar y rehacer el montaje; b) en *Link Media*, desmarcar *File
+    Extension* en *Match File Properties* ✔; c) renombrar la carpeta del proyecto; d) crear
+    *proxies*. — El tema sólo da los ficheros renombrados como caso de fallo y el diálogo *Link Media*
+    para reenlazar a mano. **No.** (Fuente: «Relink media in Premiere», act. 15-04-2026.)
+15. (Exportación) En Resolve, al calcular en *Single clip* un montaje con clips de distintas
+    cadencias: a) cada clip sale a su cadencia; b) todo se convierte a la cadencia del proyecto ✔;
+    c) da error; d) sale un fichero por cadencia. — El tema da *Single clip* e *Individual clips* y el
+    código de tiempo del segundo, pero no qué pasa con la cadencia ni con el código de tiempo del
+    primero. **No.** (Fuente: manual de Resolve 21, p. 4196.)
+
+Resultado de la segunda ronda: 11 enteras, 0 a medias, 4 no.

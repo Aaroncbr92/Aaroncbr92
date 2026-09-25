@@ -36,7 +36,7 @@ modalidades de explotación y qué es la «puesta a disposición»; quiénes son
 audiovisual y si lo es el montador; qué derechos se presumen cedidos al productor; quién puede
 modificar la versión definitiva y qué cambios admite la emisión; qué distingue la obra audiovisual de
 la mera grabación audiovisual y cuánto duran los derechos de cada una; cuánto duran los de artistas y
-productores de fonogramas; qué derechos tiene una entidad
+productores de fonogramas; si doblar a un artista en su propia lengua exige su autorización; qué derechos tiene una entidad
 de radiodifusión sobre sus emisiones; cuánto dura una mera fotografía; qué presume la ley sobre la obra
 del trabajador asalariado; qué tres excepciones tiene el derecho a la propia imagen y qué no salva el
 consentimiento de los padres de un menor; qué víctimas no pueden identificarse en ningún caso; cuándo
@@ -315,7 +315,7 @@ audiovisuales las fijaciones de un plano o secuencia de imágenes, con o sin son
 creaciones susceptibles de ser calificadas como obras audiovisuales en el sentido del artículo 86 de
 esta Ley.**» Y 120.2: productor es «**la persona natural o jurídica que tenga la iniciativa y asuma la
 responsabilidad de dicha grabación audiovisual**». Un plano sin originalidad (una cámara fija, un
-recurso, la señal de un acto) puede no ser obra, pero es grabación audiovisual. Su productor tiene
+recurso, la señal de un acto) puede no ser obra, pero es grabación audiovisual. El productor de su primera fijación tiene
 «**el derecho exclusivo de autorizar la reproducción del original y sus copias**» (artículo 121) y
 «**el derecho de autorizar la comunicación pública de éstas**» (artículo 122.1), que la ley no llama
 exclusivo. Le corresponden, además, «**los derechos de explotación de las fotografías que fueren
@@ -354,7 +354,7 @@ epígrafe 3.
 |---|---|---|
 | Explotación de la obra, regla general | «**toda la vida del autor y setenta años después de su muerte o declaración de fallecimiento**» | 26 |
 | Obras en colaboración, «comprendidas las obras cinematográficas y audiovisuales» | Vida de los coautores y setenta años desde la muerte del último coautor superviviente | 28.1 |
-| Productor de grabaciones audiovisuales | Cincuenta años desde su realización o, si se divulga lícitamente dentro de ese período, cincuenta años desde la divulgación | 125 |
+| Productor de la primera fijación de una grabación audiovisual | Cincuenta años desde su realización o, si se divulga lícitamente dentro de ese período, cincuenta años desde la divulgación | 125 |
 | Entidades de radiodifusión | Cincuenta años desde la realización por vez primera de una emisión o transmisión | 127 |
 | Mera fotografía | Veinticinco años desde su realización | 128 |
 | Artistas intérpretes o ejecutantes | Cincuenta años desde la interpretación o ejecución. Si en ese período se publica o comunica lícitamente una grabación suya por un medio distinto al fonograma, cincuenta años desde la primera publicación o comunicación, si ésta es anterior; si se publica o comunica en un fonograma, setenta años desde esa fecha | 112 |
@@ -420,7 +420,11 @@ Artículo 138: el titular puede instar el cese de la actividad ilícita del infr
 indemnización de los daños materiales y morales causados y la publicación o difusión de la resolución
 judicial o arbitral en medios de comunicación a costa del infractor, y solicitar medidas cautelares.
 Responde también de la infracción «**quien induzca a sabiendas la conducta infractora; quien coopere con
-la misma, conociendo la conducta infractora o contando con indicios razonables para conocerla**».
+la misma, conociendo la conducta infractora o contando con indicios razonables para conocerla; y quien,
+teniendo un interés económico directo en los resultados de la conducta infractora, cuente con una
+capacidad de control sobre la conducta del infractor**». Lo anterior no afecta a las limitaciones de
+responsabilidad de los artículos 14 a 17 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de
+la información y de comercio electrónico, cuando se cumplan sus requisitos.
 
 Artículo 140: la indemnización comprende la pérdida sufrida y la ganancia dejada de obtener, y se fija,
 a elección del perjudicado, por las consecuencias económicas negativas (con el daño moral indemnizable
@@ -912,11 +916,22 @@ relacionados con su misión de interés público**». Entre las obras a las que 
 «**Obras cinematográficas o audiovisuales y fonogramas producidos por organismos públicos de
 radiodifusión hasta el 31 de diciembre de 2002 inclusive, y que figuren en sus archivos.**»
 
-El apartado 5 limita qué obras huérfanas pueden usarse: «**Las obras huérfanas se podrán utilizar
+El apartado 5 fija qué obras huérfanas pueden usarse. La regla general, en su primer párrafo: «**Las obras huérfanas se podrán utilizar
 siempre que hayan sido publicadas por primera vez o, a falta de publicación, hayan sido radiodifundidas
 por primera vez en un Estado miembro de la Unión Europea.**» La búsqueda diligente de los titulares se
 hace en ese Estado; si se trata de obras cinematográficas o audiovisuales cuyo productor tenga su sede o
 residencia habitual en un Estado miembro, en el Estado de la sede o residencia del productor.
+
+El segundo párrafo del apartado 5 abre un caso para las obras que nunca se publicaron ni se
+radiodifundieron: «**Asimismo, las entidades citadas en el apartado anterior que hubieran puesto a
+disposición del público, con el consentimiento de sus titulares de derechos, obras huérfanas no
+publicadas ni radiodifundidas, podrán utilizarlas, cuando sea razonable presumir que sus titulares no
+se opondrían a los usos previstos en este artículo. En este caso, la búsqueda a que se refiere el
+párrafo anterior deberá realizarse en España.**» Las entidades de ese apartado anterior son las del
+apartado 4, organismos públicos de radiodifusión incluidos. El tercer párrafo dice cómo se busca: «**La
+búsqueda diligente se realizará de buena fe, mediante la consulta de, al menos, las fuentes de
+información que reglamentariamente se determinen**», sin perjuicio de la obligación de consultar fuentes
+adicionales disponibles en otros países donde haya indicios de información pertinente sobre los titulares.
 
 Tres condiciones más, del mismo artículo: toda utilización de una obra huérfana requiere la mención de
 los nombres de los autores y titulares identificados, «**sin perjuicio de lo dispuesto en el artículo
@@ -975,6 +990,11 @@ omisión venga dictada por la manera de utilizarlas, y a oponerse a toda deforma
 mutilación o cualquier atentado sobre su actuación que lesione su prestigio o reputación.**» La
 ley no concreta cuándo «la manera de utilizarlas» dicta la omisión; que ampare no rotular a cada
 intérprete de un fragmento musical breve es lectura del texto, no confirmada en otra fuente.
+
+El mismo artículo 113, en su apartado 2, toca a quien monta y versiona: «**Será necesaria la
+autorización expresa del artista, durante toda su vida, para el doblaje de su actuación en su propia
+lengua.**» Doblar a un artista en su propia lengua exige, por tanto, su autorización expresa
+mientras viva.
 
 ### Cuándo la ley exige citar la fuente y el autor
 
@@ -1203,7 +1223,7 @@ el uso singular que requiera autorización individualizada del titular (artícul
 | Música del repertorio de una entidad de gestión | Autorización no exclusiva de la entidad (art. 163.1), salvo uso singular que requiera autorización individualizada (art. 166); declarar el uso en noventa días (art. 167.1) |
 | Música compuesta para la pieza | Su compositor es coautor de la obra audiovisual (art. 87.3) y puede disponer de su aportación aislada salvo pacto (art. 88.2) |
 | Imágenes de otra cadena | Derecho de la emisora sobre la fijación y reproducción de sus emisiones, incluida una imagen aislada (art. 126.1.a y b); el art. 33.1 permite a medios de la misma clase reproducir trabajos de actualidad sin reserva de derechos, con fuente y autor; cómo se combinan no lo resuelve la ley |
-| Vídeo grabado por un particular o sacado de una red social | Su productor tiene los derechos exclusivos de reproducción y comunicación pública (arts. 120 a 122); estar en una red no lo libera; y las personas que salen tienen su derecho a la imagen (LO 1/1982) |
+| Vídeo grabado por un particular o sacado de una red social | El productor de su primera fijación tiene el derecho exclusivo de reproducción (art. 121) y el de autorizar la comunicación pública (art. 122.1); estar en una red no lo libera; y las personas que salen tienen su derecho a la imagen (LO 1/1982) |
 | Fotografía sin originalidad (un documento, una foto de carné) | Mera fotografía: derechos de reproducción, distribución y comunicación pública durante veinticinco años (art. 128) |
 | Material con licencia CC BY | Conservar identificación del creador, avisos de derecho de autor, de licencia y de garantías, el enlace, indicar si se modificó (CC BY 4.0, sección 3(a)(1)) |
 | Recortar una obra ajena terminada para ajustarla a la emisión | Cualquier cambio en la versión definitiva necesita autorización de quienes la acordaron; en obras para radiodifusión se presumen sólo las modificaciones estrictamente exigidas por la programación, sin atentar contra la integridad (arts. 92.2 y 14.4.º) |
@@ -1224,7 +1244,7 @@ el uso singular que requiera autorización individualizada del titular (artícul
 
 | Norma | Qué se usa |
 |---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 88, 90.4, 90.6, 90.7, 92, 93, 105, 107, 108, 110, 112, 113.1, 114 a 116, 119, 120 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
+| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 88, 90.4, 90.6, 90.7, 92, 93, 105, 107, 108, 110, 112, 113.1, 113.2, 114 a 116, 119, 120 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
 | Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto | Artículos 66.6, 70 y 73; rúbricas del título II y de los artículos 67 a 69 |
 | Constitución Española | Artículos 20.4 y 53.2 (en los pasajes del epígrafe 2) |
 | Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | Artículos 1.3, 2, 3, 4, 5.1, 7, 8 y 9 |
@@ -1233,6 +1253,7 @@ el uso singular que requiera autorización individualizada del titular (artícul
 | Reglamento (UE) 2016/679 | Artículos 4.1, 4.2, 8, 17.3 y 85 |
 | Ley Orgánica 3/2018, de 5 de diciembre | Artículo 7 (sólo remisión) |
 | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | Artículos 4.3, 83, 95 y 96 |
+| Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico | Artículos 14 a 17 (sólo remisión, desde el artículo 138 del texto refundido) |
 | Ley 10/2018, de 9 de octubre, audiovisual de Andalucía | Artículo 20 |
 | Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | Artículo 4.1.d) y e) |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023) | Artículos 8.1.d) y n), 24.2.a) y 27 |

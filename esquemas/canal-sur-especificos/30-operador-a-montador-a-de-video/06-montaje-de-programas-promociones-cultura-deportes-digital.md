@@ -20,7 +20,8 @@ Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; hay q
 - Libro de estilo: sin pauta de montaje para entretenimiento, ficción, magacín.
 - Mateu 10.1 (cita Tubau): estructura lineal = 3 actos aristotélicos; TV tradicional, 4 actos por 3 cortes publicidad.
 - Oficio: cada bloque se monta con arranque y cierre propios, para aguantar la interrupción.
-- LGCA art. 136.3/138.1: integridad del programa y sus unidades al insertar publicidad.
+- LGCA art. 136.3: integridad del programa y sus unidades al insertar publicidad (servicio lineal, en su letra).
+- LGCA art. 138.1: repite la integridad, sin nombrar el lineal en su letra; pero está en la sección 3.ª del cap. IV tít. VI, la del servicio lineal.
 - LGCA art. 138.2: películas TV/cine/noticiarios, interrupción cada 30 min mínimo.
 - LGCA art. 138.3: infantiles, cada periodo ininterrumpido de 30 min si el programa dura más de 30 min.
 - LGCA art. 138.4: prohibido interrumpir servicios religiosos.
@@ -29,6 +30,7 @@ Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; hay q
 - Aplicación: cortes donde no rompen una unidad (entrevista, actuación, secuencia).
 - LGCA art. 128.2: patrocinable toda la programación salvo noticiarios y contenido informativo de actualidad.
 - LGCA art. 128.3.a: identificación del patrocinador al principio, cada reanudación y al final.
+- LGCA art. 128.3.b: patrocinio no afecta al contenido ni al horario/catálogo del programa, sin afectar responsabilidad editorial.
 - LGCA art. 128.3.c: no incitar directamente a compra.
 - LGCA art. 137.2.c: patrocinio no computa en límite de publicidad.
 - Oficio (sin fuente publicada): informativo = planos cortos sin efectos; documental = planos largos; ficción = ritmo de escena; publicidad/promoción = ritmo rápido, transiciones marcadas; deportes directo = repetición manda.
@@ -47,6 +49,8 @@ Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; hay q
 - Mateu 8.1: arranque como «gancho» desde los primeros segundos.
 - Mateu 8.2 (duración de Chion): tráiler, 1-2,5 min; sigue planteamiento y nudo, sin desenlace.
 - Mateu 8.2: teaser = tráiler más breve, sensaciones sin trama; sneak peek = avance del siguiente capítulo.
+- Mateu 8.3: falso tráiler = anuncia película inexistente, al menos al concebirse/publicarse.
+- Mateu 8.3 (cita Guarinos/Lozano Delmar 2011), tres tipologías: 1.ª inserta en campaña de película/serie real, aunque falso (ej. *Nation's Pride* en *Malditos bastardos*); 2.ª mide interés de futura película; 3.ª promociona contenidos ajenos a la industria audiovisual.
 - Duraciones de promoción propias de Canal Sur: no constan en fuente publicada.
 - Libro de estilo 9.10: publicidad ajena a la información, separada por medios acústicos y ópticos.
 - Libro de estilo 9.10.1: prohibido montar vídeo informativo con connotación promocional igual al material/orden/estructura de la inserción publicitaria; sólo recurso parcial y limitado.
@@ -116,5 +120,6 @@ Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; hay q
 - Mateu 10.2: interactiva de caminos paralelos = decisiones con acontecimientos predeterminados; mismo final (ej. Kinoautomat, 1967).
 - LGCA art. 127.1/128.1: autopromoción y patrocinio nombran expresamente el catálogo y el servicio de intercambio de vídeos por plataforma.
 - LGCA arts. 136.2/3, 137.1, 139: diferenciación/integridad, límite de minutos y reglas deportivas se refieren al servicio televisivo lineal.
+- LGCA arts. 136.1 y 138.1: no nombran el lineal en su letra, pero están en la misma sección 3.ª (servicio lineal).
 - LGCA art. 144.2: resumen exclusiva a la carta, sólo si el mismo Canal Sur ofrece allí en diferido el mismo informativo.
 - Oficio: versionado de una pieza de programa para web/redes, con otra duración y arranque; pieza interactiva, cada rama montada como unidad cerrada.

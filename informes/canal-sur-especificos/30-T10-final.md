@@ -1,5 +1,40 @@
 # Puesto 30 · Tema 10 · Revisión del remate (fase 5 bis)
 
+## Segunda ronda (25-09-2026; encargo fechado 24-09-2026)
+
+Alcance: sólo los pasajes de la segunda ronda de `30-T10-remate.md` (E1, E2, E3, L1, ficha, Normativa).
+
+### Fuentes releídas (25-09-2026)
+
+TRLPI, `fuentes/canal-sur/BOE-A-1996-8930.md`: art. 37 bis.5 (tres párrafos; una redacción), 113
+(vigente desde 28-07-2006), 120, 121, 122 (vigentes desde 28-07-2006 los dos últimos), 138 (vigente
+desde 01-01-2015).
+
+### Pasaje por pasaje
+
+| # | Pasaje | Dato contra fuente | Antecedentes | Resultado |
+|---|---|---|---|---|
+| E1 | 4, «Obras huérfanas», 37 bis.5 | Párrafos 1.º y 2.º literales. En el 3.º la redonda decía «sin perjuicio de consultar fuentes adicionales»: la fuente dice «**sin perjuicio de la obligación de consultar fuentes adicionales disponibles en otros países**» (error 4: un deber leído como facultad) | «el apartado anterior» = 4, aclarado y delante; «el párrafo anterior» = 1.º, delante | Corregido |
+| E2 | 1, «Si se infringe», 138 | Segundo párrafo literal, con los tres supuestos. Se omitía su salvedad: «Lo anterior no afecta a las limitaciones de responsabilidad específicas establecidas en los artículos 14 a 17 de la Ley 34/2002» (error 6) | Bien | Corregido: salvedad añadida en redonda; Ley 34/2002 añadida a «Normativa» como remisión |
+| E3 | 7, tabla, vídeo de particular | 121 (productor de la primera fijación, exclusivo) y 122.1 (autorizar comunicación pública) bien atribuidos; coincide con epígrafes 1 y 6 | «su primera fijación» → el vídeo de la fila | Bien |
+| L1 | 5, 113.2 | Literal. La consecuencia decía «en la misma lengua en que actuó»; la ley dice «**en su propia lengua**», que no es necesariamente la de la actuación | «El mismo artículo 113» tras el 113.1 | Corregido: «Doblar a un artista en su propia lengua exige, por tanto, su autorización expresa mientras viva» |
+| — | Ficha y Normativa (113.2) | Coherentes con el texto | — | Bien |
+
+### Lentes (25-09-2026)
+
+`indice.py`: 15.463 palabras, 53 epígrafes, índice sin cambios. `refutar_prosa.py`: 0.
+
+### Ficheros tocados
+
+- Modificado: el tema (tres pasajes y una fila de «Normativa»).
+- Reescrito: este informe (la primera ronda se conserva debajo).
+- Scratchpad: copia previa del tema (`30t10-antes-5bis2.md`).
+
+---
+
+## Primera ronda
+
+
 Fecha: 25-09-2026 (encargo fechado 24-09-2026).
 Tema: `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/10-derechos-autor-imagen-musica-archivo-creditos-terceros.md`.
 Alcance: sólo los pasajes listados en `30-T10-remate.md`.

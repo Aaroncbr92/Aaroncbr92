@@ -556,9 +556,10 @@ p. 55), tratado en 3.14 (pp. 55-56):
 - **«El paso tiene que explicarse en sí mismo. El periodista que elabora el vídeo es el encargado de
   escribirlo aunque después será revisado por el presentador y los editores»**, **«que lo asumen con los
   cambios o añadidos pertinentes. Por esta razón su contenido no puede ser parte imprescindible de la
-  información consiguiente sin la cual el vídeo tenga diﬁcultades de comprensión.»** **«En caso de ser así, por cualquier causa, el
-  redactor está obligado a comunicárselo al editor y el presentador, y pactar sus términos con quien se
-  encargue de leerlo en cámara.»** Para el montador: el vídeo tiene que entenderse sin el paso.
+  información consiguiente sin la cual el vídeo tenga diﬁcultades de comprensión.»**
+  **«En caso de ser así, por cualquier causa, el redactor está obligado a comunicárselo al editor y el
+  presentador, y pactar sus términos con quien se encargue de leerlo en cámara.»**
+  Para el montador: el vídeo tiene que entenderse sin el paso.
 - **«Son necesarias, por tanto, frases cortas y precisas, palabras sencillas y lenguaje directo»**.
 - **«un 'paso' jamás puede concluir con la misma frase u otra parecida a la que da comienzo a la
   información.»**

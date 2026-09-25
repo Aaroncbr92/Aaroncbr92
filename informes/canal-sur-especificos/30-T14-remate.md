@@ -1,45 +1,46 @@
 # Puesto 30 · Tema 14 · Remate (fase 5)
 
-Fecha: 25-09-2026 (encargo fechado 24-09-2026). Corrige; no amplía (la refutación no declaró
-lagunas). Tema:
-`temas/canal-sur-especificos/30-operador-a-montador-a-de-video/14-urgencia-directos-ultima-hora-versionado.md`.
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Fuente: `30-T14-refutacion.md` y
+`30-T14-preguntas.md`. Cada corrección comprobada en la fuente antes de aplicarla.
 
-## Correcciones de `30-T14-refutacion.md`, comprobadas en la fuente antes de aplicarlas
+## Pasajes cambiados
 
-1. **Error 9 (l. 154-156).** Comprobado en el Libro de estilo, cap. 6 («hay que comunicarlas de
-   inmediato») y 5.6 («comunicado a los editores para que tomen una decisión»): el aviso no es
-   obligación textual del montador, y la decisión es del editor. Aplicada la redacción propuesta
-   por la refutación.
-2. **Error 9 (l. 128-129).** Comprobado en 6.5.1: el texto sólo dice «tendrá en consideración su
-   operatividad», sin glosarlo como «si se puede aplicar en el tiempo que hay». Quitada la glosa;
-   se deja el término entrecomillado y en negrita.
-3. **Error 3 (l. 9, ficha «Fuente»).** Comprobada la Trazabilidad del propio tema: cita 3.9.1, 3.15,
-   4.4.1, 5.6, 6.1, 6.1.1, 6.1.2, 6.3, 6.5, 6.5.1, 6.5.2 y 7.4.1 (capítulos 3 a 7). Corregido
-   «capítulos 3, 6 y 8» → «capítulos 3 a 8».
-4. **Error 5 (l. 10 y 29 citaban BOJA sin presentarlo).** Comprobado que el resto de siglas del
-   tema sigue el formato «Nombre (SIGLA)» en el párrafo de siglas de entrada; añadido «Boletín
-   Oficial de la Junta de Andalucía (BOJA)» a ese párrafo.
+1. **l. 84-85** (menor 1, segunda ronda). «Donde el Libro de estilo no llega (la última hora) se usa
+   el Manual de estilo de RTVE» contradecía que el propio tema cita LE 3.9.1 (l. 170, «la inclusión de
+   un elemento de última hora») y LE cap. 6, p. 88 («informaciones de última hora»). Comprobado el
+   pasaje de p. 88 en `fuentes/canal-sur/documentos/libro-de-estilo-333233b.txt` (l. 3063-3065).
+   Aplicada la propuesta del informe: «Donde el Libro de estilo no desarrolla la noticia de última
+   hora de gran repercusión, se usa el Manual de estilo de RTVE…».
+2. **l. 493-494** (menor 2, segunda ronda; laguna, se amplía). «Lo que este tema no da» no remitía a
+   la regla de horarios y turnos de cabina / entrega escalonada (LE cap. 6, p. 88), que sí desarrolla
+   el tema 9 (§ «Tiempos, cabinas y entrega escalonada», comprobado en el fichero del tema 9,
+   l. 253-257). Añadida una frase de remisión, sin tocar el resto del epígrafe.
 
-No se aplicó ninguna corrección que no constara así en la fuente; las cuatro se confirmaron.
+No aplicadas: la observación sin hallazgo sobre XDCAM (l. 22) se deja tal cual, como recoge el propio
+informe («inocuo»; no es un error, es una precisión opcional). Los cuatro menores de la primera ronda
+(capítulos 3-8, BOJA en siglas, glosa de 6.5.1, atribución del aviso) ya estaban aplicados en el
+tema antes de este remate; comprobado en la fuente el estado actual, no se repite el cambio.
 
-## Lentes
+## Comprobación de las lentes
 
-Tema técnico sin norma (según el propio encargo, sólo proceden `refutar_prosa.py` e `indice.py`):
-
-- `indice.py`: 5.401 palabras, 26 epígrafes. Sin cambios de estructura.
-- `refutar_prosa.py`: 1 hallazgo — «CSTV» marcada como «sigla sin presentar la primera vez». Es un
-  falso positivo del patrón de la herramienta: el tema presenta CSTV con la fórmula «el Libro de
-  estilo de Canal Sur usa «CSTV» por Canal Sur Televisión», no con el formato «Nombre (SIGLA)» que
-  busca la lente. Pasaje anterior al remate, no tocado por esta fase; no se corrige porque no es un
-  error de exactitud ni de forma, sino una fórmula distinta de presentación ya explícita.
-
-## ¿Se amplió contenido nuevo?
-
-No. La refutación no declaró lagunas (cobertura completa, 15/15 preguntas enteras); esta fase sólo
-corrigió los 4 pasajes menores listados arriba. No procede fase 5 bis.
+- `python3 herramientas/indice.py` sobre el tema: 5.435 palabras, 26 epígrafes. Extensión de ficha
+  («5.300 aproximadamente») sigue siendo correcta a efecto de orden de magnitud; no se toca.
+- `python3 herramientas/refutar_prosa.py` sobre el tema: 1 hallazgo (sigla CSTV), el mismo falso
+  positivo que documentó la refutación (se presenta en la misma frase, unas palabras después de donde
+  la herramienta marca la primera aparición). Tema técnico sin norma: no proceden `negritas.py`,
+  `refutar_exactitud.py` ni `refutar_modo.py`.
 
 ## Ficheros tocados
 
 - `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/14-urgencia-directos-ultima-hora-versionado.md`
-  (los 4 pasajes anteriores).
-- Creado: este informe.
+  (los dos pasajes anteriores).
+- Este informe.
+
+## Respuesta al coordinador
+
+Tema 14 rematado: 2 pasajes corregidos de la segunda ronda de refutación (l. 84-85, contradicción
+interna sobre el alcance del Libro de estilo en última hora; l. 493-494, remisión añadida al tema 9
+sobre horarios de cabina y entrega escalonada). Ambos comprobados en fuente antes de aplicar. Los
+cuatro menores de la primera ronda ya constaban aplicados. `indice.py`: 5.435 palabras, 26 epígrafes.
+`refutar_prosa.py`: 1 falso positivo ya documentado (sigla CSTV). Sí amplié contenido nuevo (frase de
+remisión al tema 9 por laguna de remisión, no de contenido).

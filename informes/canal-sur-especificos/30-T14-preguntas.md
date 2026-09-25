@@ -28,3 +28,32 @@ Probadas además sin pregunta propia (el tema las contesta): recursos ante ausen
 última hora (Manual de RTVE 2.1.3); reemisión sin alterar y adverbios de tiempo (3.15); desconexión
 con tratamiento diferenciado (7.4.1); duplicar la secuencia antes de versionar (Avid 2010); cierre del
 ciclo de la noticia incompleta (cap. 6); grabar aunque se emita (oficio).
+
+---
+
+# Segunda ronda (fase 4 repetida sobre el tema rematado)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Preguntas nuevas, distintas de la primera ronda,
+contestadas sólo con el tema en su estado actual (el del commit b08a902, sin cambios posteriores).
+Respuesta correcta en negrita. T = teoría; P = aplicación práctica. E = entera, M = a medias, N = no.
+
+| # | Tipo | Pregunta y opciones | ¿La contesta el tema? |
+|---|---|---|---|
+| 1 | T | Según el Manual de RTVE (2.1.3), en ausencia de imagen en una noticia de última hora, dos de los recursos más válidos son: a) archivo y rótulos; b) **un mapa del lugar y conexiones telefónicas con protagonistas, testigos, expertos o informadores**; c) grafismo animado y música; d) repetición del último vídeo emitido | E (l. 103-105) |
+| 2 | T | Según el Libro de estilo (cap. 6), una demora imprevista no puede poner nunca en peligro: a) sólo la emisión; b) sólo el montaje; c) **la elaboración, montaje y emisión de una noticia en las condiciones preestablecidas**; d) el horario de la cabina | E (l. 139-142) |
+| 3 | T | Según 6.3, en caso de duda, el redactor consulta los problemas técnicos y estéticos: a) al editor; b) al montador; c) **al realizador**; d) al productor | E (l. 130-133) |
+| 4 | T | En la documentación de Softron, la edición durante la ingesta se llama también: a) *proxy editing*; b) **edición *FrameChase* o soporte de ficheros que crecen (*growing files*)**; c) *conform*; d) edición en caliente | E (l. 186-188) |
+| 5 | T | Según la Recomendación UIT-R SNG.770-2, el SNG: a) es permanente y programado; b) **es temporal y ocasional, y su activación a menudo no puede determinarse con gran antelación**; c) sólo usa enlaces de fibra; d) no admite estaciones portátiles | E (l. 261-265) |
+| 6 | P | Estalla un suceso imprevisto en un lugar sin circuito contratado. De las vías de contribución, la que no sirve para lo imprevisto es: a) satélite; b) mochila de agregación; c) **fibra óptica**; d) microondas | E (l. 254; oficio) |
+| 7 | P | La conexión se cae a mitad de un directo desde la calle. El material del que saldrán resumen, colas y totales de las siguientes ediciones es: a) la señal del enlace ya emitida; b) **la grabación local, que se hace siempre aunque se emita**; c) el archivo; d) el ambiente | E (l. 276-282; oficio) |
+| 8 | T | En un servidor de repetición, la diferencia entre lista de reproducción y línea de tiempo es que: a) son lo mismo; b) **la lista sólo encadena clips; la línea de tiempo es un montaje con transiciones y efectos**; c) la lista admite efectos y la línea no; d) la línea sólo reproduce un clip | E (l. 307-311; oficio) |
+| 9 | P | En pleno directo, falla el sonido de la conexión. Según el Libro de estilo (8.1.9), hay que: a) cortar sin explicación; b) pasar a falso directo; c) **solventarlo con naturalidad e incluso hacérselo saber al espectador**; d) repetir la conexión grabada | E (l. 318-319) |
+| 10 | P | Un vídeo se terminó antes de que existiera la escaleta. Según 6.1.1: a) el redactor le pone nombre nuevo; b) **el equipo de edición traslada a la escaleta el nombre que le dio el autor o lo adapta**; c) se renombra al emitirse; d) lo nombra el realizador | E (l. 340-342) |
+| 11 | T | Según 6.1, la escaleta expresa de cada noticia, además del hecho y el formato: a) sólo el tiempo; b) **número o clave de identificación, tiempo asignado, tiempo real, autor, procedencia, presentador y acotaciones técnicas**; c) sólo el autor; d) los derechos de las imágenes | M: el tema sólo da «tiempo asignado, tiempo real» (l. 387) |
+| 12 | P | Un vídeo del jueves se reemitirá el viernes sin tocarlo. Para anunciar el festival del sábado, el Libro de estilo pide decir: a) «mañana comienza»; b) «pasado mañana comienza»; c) **«este sábado comienza»**; d) «próximamente comienza» | E (l. 422-424) |
+| 13 | T | Con el presente histórico, informes, crónicas y reportajes deben tener una pervivencia mínima de: a) 12 horas; b) **24 horas desde su primera emisión**; c) 48 horas; d) una semana | E (l. 425-427) |
+| 14 | P | Una noticia local de Huelva abre el informativo en cadena. Para la desconexión de Huelva, el Libro de estilo (7.4.1) pide: a) repetir el mismo vídeo; b) no darla; c) **un tratamiento diferenciado, una perspectiva distinta, más cercana y detallada**; d) sólo un total | E (l. 445-449) |
+| 15 | P | Según el Libro de estilo, cumplir el horario asignado en la cabina para una entrega escalonada del trabajo: a) es opcional; b) sólo afecta al montador; c) **libera medios técnicos y humanos para cualquier revisión, eventualidad o informaciones de última hora, y evita el «cuello de botella»**; d) sólo rige en directos | N: el pasaje (LE cap. 6, p. 88) está en el tema 9 del puesto, no en éste, y el tema 14 no remite a él |
+
+**Recuento (segunda ronda)**: 13 enteras, 1 a medias, 1 no. Aplicación práctica: 6, 7, 9, 10, 12,
+14 y 15 (siete).

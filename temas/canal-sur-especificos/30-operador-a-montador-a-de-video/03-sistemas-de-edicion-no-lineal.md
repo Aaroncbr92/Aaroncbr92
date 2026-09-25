@@ -8,7 +8,7 @@
 | Sirve para | Operador/a Montador/a de Vídeo de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. Documentación de fabricante: Avid (*Media Composer User's Guide*, 1999; *What's New for Media Composer v2022.10* y *v2023.3*; *Avid DNxHD Technology*, 2012), Blackmagic Design (*DaVinci Resolve 21 Reference Manual*) y Adobe (ayuda de Premiere, páginas de 2025 y 2026). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Las versiones citadas, leídas el 25-09-2026; el temario no nombra programa y la ficha del puesto tampoco |
-| Extensión | 9.000 palabras aproximadamente |
+| Extensión | 9.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -491,11 +491,17 @@ material).
 
 Resolve. Al crearlos se elige la resolución (**«Original»**, o reducirla a **«Half, Quarter,
 Eighth, or Sixteenth»**, o **«Choose Automatically»**, que sólo reduce lo que supera la resolución
-del *timeline*) y el códec (epígrafe 5; p. 213). Para reproducir se prefiere el *proxy* o el
-original, y si falta el original aparece la línea morada del epígrafe 4. La salida no los usa salvo
-que se pida: **«By default, the Deliver page always reverts proxies to the original source media for
+del *timeline*) y el códec (epígrafe 5; p. 213). Para reproducir, en la página *Edit* se elige
+*Playback > Proxy Handling* (en la página *Cut*, con el icono del visor), con tres modos (p. 219):
+*Disable All Proxies*, **«forces the original media playback only»** (sólo el original; si falta,
+el clip se sustituye por el gráfico «Media Offline»); *Prefer Proxies* (el *proxy*; si el clip no lo
+tiene, el original; si falta el original, el *proxy*, con la línea morada del epígrafe 4); y
+*Prefer Camera Originals* (el original; si falta, el *proxy*, también con la línea morada). La salida
+no los usa salvo que se pida: **«By default, the Deliver page always reverts proxies to the original source media for
 final output to ensure the highest quality render.»** (la página de entrega vuelve siempre al
-original para la salida final; una casilla, «Use proxy media», lo cambia; p. 220).
+original para la salida final). La casilla «Use proxy media» lo cambia, y hay que marcarla también
+**«if you are editing with proxies and do not have access to the original source media»** (si se
+monta con *proxies* sin acceso al original; p. 220).
 
 Media Composer. Desde la versión 2022.10 crea *proxies* en la edición Enterprise: se seleccionan
 en el *bin* los *master clips*, *subclips*, grupos o secuencias y se elige *Create Proxies*;
@@ -622,6 +628,9 @@ objeto (pp. 328-330):
   cambiar de nombre, **«is automatically relinked to the new media files»**. Por eso la guía aconseja
   duplicarla cada vez si se quieren conservar los enlaces con los ficheros originales.
 
+Al consolidar *subclips* o secuencias se fija la longitud de las colas de los clips nuevos o se
+acepta la que viene dada: **«60 frames (NTSC) or 50 frames (PAL)»** (p. 332).
+
 Para qué se consolidan las secuencias terminadas, según la guía: **«Create backup files»**
 (copias de seguridad), **«Preserve only the digitized media required for playback, and delete the
 rest to use less storage space»** (quedarse sólo con lo usado) y **«Gather dispersed media onto one
@@ -663,9 +672,14 @@ normal guarda **«The current file path»** y **«Up to two historical paths»**
 equipo, rutas históricas sin límite. La búsqueda automática mira primero la carpeta del proyecto y sus
 subcarpetas, y después la carpeta que la contiene; **«If both passes fail, Premiere opens the Link
 Media dialog box for manual relinking»** (si fallan las dos pasadas, abre el diálogo *Link Media*
-para reenlazar a mano). Entre los casos en que el reenlace automático puede fallar, la página pone los
-ficheros o carpetas renombrados después de importarlos («Relink media in Premiere», actualizada el
-15-04-2026).
+para reenlazar a mano). La página de ayuda «Relink media in Premiere» (actualizada el 15-04-2026)
+pone cuatro casos en que el reenlace automático puede fallar y hay que
+usar *Link Media*: ficheros o carpetas renombrados después de importarlos; cambios grandes en la
+estructura de carpetas (el material pasa a un árbol que no cuelga de la carpeta del proyecto ni de
+la que la contiene); discos externos desconectados; y cambio de formato del fichero, **«(for example, .mov
+to .mp4)»**: si el material se ha transcodificado, **«unchecking the File Extension option in the
+Match File Properties section of the linking dialog box should enable linking to the new files.»**
+(desmarcar *File Extension* en *Match File Properties* del diálogo).
 
 ### Antes de dar el conformado por bueno (oficio)
 
@@ -721,11 +735,17 @@ Hay dos modos de salida (p. 4196):
 
 - *Single clip*: **«all clips in the session are output together, as a single media file in
   whatever format you choose»**: un solo fichero, MXF o QuickTime, o una secuencia de imágenes. Es la
-  salida normal de una pieza terminada.
+  salida normal de una pieza terminada. El código de tiempo lo da el ajuste «Start timeline timecode
+  at» de la línea de tiempo; con cadencias mezcladas, **«rendering to a single clip converts every
+  clip in the entire session to the project frame rate»** (todo pasa a la cadencia del proyecto), y
+  la mayoría de los efectos quedan incorporados en el fichero.
 - *Individual clips*: **«each clip is rendered as an individual media file»**: un fichero por clip.
   Y **«The timecode written to each clip is cloned from the original source media, making it easy to
   reconform media for projects being passed between DaVinci Resolve and NLEs.»** (el código de tiempo
-  de cada clip se copia del original, para poder conformar de vuelta en otro programa).
+  de cada clip se copia del original, para poder conformar de vuelta en otro programa). Con
+  cadencias mezcladas, cada clip sale a la suya; los efectos de la línea de tiempo se incorporan o no según la casilla
+  «Render Timeline Effects», y la resolución es la del *timeline* o la de origen según «Render at
+  Source Resolution».
 
 Para llevar un montaje ya corregido a otro programa, el manual pide las dos cosas a la vez: calcular
 los clips como individuales y exportar la línea de tiempo como EDL, AAF, XML u OTIO, porque así
@@ -785,12 +805,13 @@ de tiempo.
   no consta en un documento publicado. El tema usa los tres programas cuya documentación se ha leído.
 - Guía vigente de Media Composer: sólo se han leído la guía de 1999 (para cinta), las notas de
   novedades 2022.10 y 2023.3 y el documento de DNxHD de 2012. Lo que diga hoy la ayuda del programa
-  sobre *bins*, exportación o *Dynamic Relink* (el ajuste de Avid para cambiar de resolución de
-  material en almacenamiento compartido) no se ha comprobado en la documentación de Avid.
+  sobre *bins*, exportación o *Dynamic Relink* no se ha comprobado en la documentación de Avid.
 - DNxHR y ProRes: sus variantes y flujos no se han leído en documentación de Avid ni de Apple;
   aquí sólo constan como opciones de Resolve.
 - Resolución, cadencia, muestreo, bits, compresión, GOP, contenedores, HDR y estándares de entrega
-  (IMF, AS-11): temas 2 y 4.
+  (IMF, y AS-11, familia de especificaciones de
+  formatos MXF acotados para entregar piezas terminadas a una cadena o a quien las
+  publique): temas 2 y 4.
 - Corrección de color, efectos, transiciones y colas en transiciones, grafismo, subtítulos y
   limpieza de audio: tema 7.
 - Ingesta, copia verificada, metadatos y archivo: tema 8.
@@ -803,10 +824,11 @@ de tiempo.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Avid Technology, *Avid Media Composer User's Guide*, Release 8.0 for the Macintosh, mayo de 1999: p. 72 (un proyecto por programa), pp. 231-235 (*Redigitize*, *Decompose*, colas), 285-287 (órdenes de selección del *bin*), 321 (*Media Tool*), 327-330 (*Consolidate*), 333-337 (base de datos de material, *Relink*), 462 y 470-471 (*Timeline*, clips *offline* en rojo), 716-717 (exportación) | Epígrafes 1, 3, 4, 7 y 8 | 25-09-2026 |
+| Avid Technology, *Avid Media Composer User's Guide*, Release 8.0 for the Macintosh, mayo de 1999: p. 72 (un proyecto por programa), pp. 231-235 (*Redigitize*, *Decompose*, colas), 285-287 (órdenes de selección del *bin*), 321 (*Media Tool*), 327-330 y 332 (*Consolidate*, colas), 333-337 (base de datos de material, *Relink*), 462 y 470-471 (*Timeline*, clips *offline* en rojo), 716-717 (exportación) | Epígrafes 1, 3, 4, 7 y 8 | 25-09-2026 |
 | Avid Technology, *What's New for Avid Media Composer v2022.10*: pp. 4 y 9-10 (*proxies*), 13-14 (menú *Relink*), 15 (plantillas de secuencia), 16-17 (*Choose For Me*) | Epígrafes 2, 4, 6 y 7 | 25-09-2026 |
 | Avid Technology, *What's New for Avid Media Composer v2023.3*, p. 3 | Reenlace por fichero o carpeta | 25-09-2026 |
 | Avid Technology, *Avid DNxHD Technology* (libro blanco, 2012) | Códec de montaje, familia DNxHD, VC-3, DNxHD 36 *offline*, formatos mezclados en los sistemas Avid | 25-09-2026 |
 | Blackmagic Design, *DaVinci Resolve 21 Reference Manual*: pp. 21 y 23 (páginas y *Media Pool*), 76 y 78 (*Project Manager*, .drp), 201-222 (cap. 8: *proxies*, medios optimizados, caché), 375 (cadencia al importar), 476, 479, 492 y 495 (cap. 22: conformado y reenlace), 860 (cap. 41: *timelines*), 4185-4196 (cap. 187: *Deliver*), 4219 (IMF), 4241 (cap. 190: exportar líneas de tiempo) | Epígrafes 1 a 8 | 25-09-2026 |
 | Adobe, ayuda de Premiere (copias de Wayback Machine, porque helpx.adobe.com rechaza la descarga directa): «Add and delete bins» y «Sequence presets and settings» (act. 22-08-2025), «Ingest and Proxy workflow» (act. 07-01-2026), «Relink media in Premiere» (act. 15-04-2026), «Export directly to Adobe Media Encoder» (act. 01-04-2026), «Export options in Premiere» (act. 18-08-2026) | Epígrafes 2, 3, 4, 6, 7 y 8 | 25-09-2026 |
+| AMWA, página «AS-11: Media Contribution File Formats» | Qué es AS-11 | 25-09-2026 |
 | Oficio | Comparación lineal/no lineal, *offline*/*online*, formato de codificación, códec y contenedor, definición de *render*, fases de códec, usos de los *proxies*, comprobaciones antes de exportar y supuesto práctico | — |

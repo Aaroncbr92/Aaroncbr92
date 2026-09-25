@@ -1,81 +1,81 @@
-# Puesto 30 · Tema 8 · Remate (fase 5)
+# Puesto 30 · Tema 8 · Remate (fase 5, segunda ronda)
 
 Fecha: 25-09-2026 (encargo fechado 24-09-2026).
 Tema: `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/08-ingesta-digitalizacion-transferencia-verificacion-copias-metadatos-archivo.md`.
-Entradas: `30-T08-refutacion.md` (graves 0, menores 0, 1 laguna, 1 observación) y `30-T08-preguntas.md`
-(13 E, 1 M, 1 N).
+Entradas: `30-T08-refutacion.md` (segunda ronda: graves 0, menores 1, laguna 1) y `30-T08-preguntas.md`
+(13 E, 1 M, 1 N). El remate de la primera ronda (XMP, LTO 30/40 TB, sexta tarea) queda en git
+(commit b08a902).
 
-**Amplía contenido nuevo: sí** (subepígrafe XMP en § 6). Procede la fase 5 bis sobre los pasajes 1 y 2.
+**Amplía contenido nuevo: sí** (subepígrafe «El formato de conservación: códecs sin pérdidas», § 7).
+Procede la fase 5 bis sobre los pasajes 1 y 2.
 
 ## Fuentes leídas en el remate (25-09-2026)
 
 | Fuente | Cómo | Guardada en |
 |---|---|---|
-| Adobe, «XMP (Extensible Metadata Platform)», developer.adobe.com/xmp/docs (= README de github.com/adobe/xmp-docs) | curl, HTML a texto | `fuentes/canal-sur/montador/web/xmp-adobe.txt` |
-| Adobe, «XMP Dynamic Media namespace» (adobe/xmp-docs, `XMPNamespaces/xmpDM.md`) | curl raw | `.../web/xmp-dm.txt` |
-| Adobe, «Dublin Core namespace» (adobe/xmp-docs, `XMPNamespaces/dc.md`) | curl raw | `.../web/xmp-dc.txt` |
-| LTO Program, «LTO Generation Compatibility Details», lto.org/lto-generation-compatibility/ | curl, HTML a texto | `.../web/lto-compatibility.txt` |
-| X Convenio RTVA, ficha 5212206 (`documentos/x-convenio-rtva-boja-240-2014.txt`, ll. 6812-6837) | relectura | — |
+| IETF, RFC 9043, *FFV1 Video Coding Format Versions 0, 1, and 3* (agosto de 2021): resumen y § 1 | curl, texto de rfc-editor.org | `fuentes/canal-sur/montador/web/rfc9043.txt` |
+| IETF, RFC 9559, *Matroska Media Container Format Specification* (octubre de 2024): resumen | curl, texto | `.../web/rfc9559.txt` |
+| Library of Congress, *Sustainability of Digital Formats*, fdd000341 (FFV1, act. 2023-10-10) | curl, HTML a texto | `.../web/loc-fdd000341.txt` |
+| Library of Congress, fdd000206 (MXF OP1a, JPEG 2000 sin pérdidas, act. 2025-05-22) | curl, HTML a texto | `.../web/loc-fdd000206.txt` |
+| Library of Congress, fdd000351 (vídeo sin comprimir YCbCr) | curl; leída, no citada | `.../web/loc-fdd000351.txt` |
+| jpeg.org, «About JPEG» | curl, HTML a texto | `.../web/jpeg-about.txt` |
+| Resolve 21, p. 562 (regla y ejemplo de *Capture Now*) | ya citada en el tema | — |
 
-**No se pudo leer**: la ayuda de Premiere sobre metadatos (helpx.adobe.com, «Edit XMP metadata»,
-«Link clip data to XMP metadata», «Metadata in Premiere»): 403 de Akamai por curl y WebFetch;
-web.archive.org cortó la conexión y archive.org respondió 429. Lo que esas páginas dicen (datos de
-clip en el proyecto frente a XMP en el fichero, enlace entre ambos) **no se ha escrito**: sólo se
-conocía por resúmenes del buscador, que no son fuente. Queda declarado como hueco. lto.org/lto-10/
-devolvió un captcha (202).
-
-Todas las citas nuevas se cotejaron por programa contra los ficheros guardados: literales (la de
-ISO 16684-1 lleva en la fuente un enlace sobre «ISO standard (16684-1)»; el texto es el mismo).
+**No leídos** (y así lo dice el tema): IASA-TC 06, SMPTE RDD 48 y SMPTE ST 422; lo que el tema dice
+de ellos va atribuido a las fichas de la Biblioteca del Congreso. Las siete negritas nuevas se
+cotejaron por programa contra los ficheros guardados: todas literales.
 
 ## Decisiones sobre la refutación
 
-1. **Laguna pregunta 14 (XMP en Premiere)**: aplicada ampliando el tema, sin tocar la pregunta. Con
-   el tema nuevo, la pregunta 14 queda **entera** (b, XMP: § 6, «Los metadatos de fichero de Adobe:
-   XMP»; la propiedad `xmpDM:altTapeName` se fija desde Premiere).
-2. **Pregunta 15 (capacidad nativa LTO-10)**: se buscó fuente. La página de compatibilidad da
-   cartuchos de 30 TB y 40 TB, pero no los califica de nativos; no se afirma que lo sean. Se añade la
-   cita y se reescribe el hueco. Sigue **a medias** en la parte «nativa».
-3. **Observación (sexta tarea de la ficha)**: comprobada literal en el convenio; se nombra en una
-   línea y se remite al tema 13 (que tiene «La emisión automatizada»). El «Cinco de sus ocho» se
-   mantiene, ahora con la sexta dicha.
+1. **Menor (sexta tarea en «Documentos técnicos»)**: comprobada en el tema (la cita literal ya está
+   en «El punto en la ficha del puesto»); aplicada tal como se proponía.
+2. **Laguna, pregunta 15 (formatos de conservación)**: aplicada ampliando el tema, sin tocar la
+   pregunta. Con el tema nuevo la pregunta queda **entera** (b, FFV1 o JPEG 2000 sin pérdidas).
+3. **Pregunta 6 (a medias, opcional)**: aplicada una frase de cálculo. 3.600 × 24 = 86.400 cuadra con
+   el ejemplo del manual; el manual no da la cadencia del ejemplo, y así se dice. La pregunta queda
+   **entera** (b, 00090000).
 
 ## Pasajes cambiados (texto nuevo)
 
-1. **§ 6, subepígrafe nuevo «Los metadatos de fichero de Adobe: XMP»** (tras «Los metadatos en el
-   programa de edición»): definición de XMP, qué recoge, ISO 16684-1, extensible (cuatro citas de
-   Adobe); tabla de los espacios `dc` y `xmpDM` con su cita; «El Dublin Core es también la base de
-   EBUCore (véase «La norma del sector: EBUCore»)» (sostenido por EBU Tech 3293 § 2.1, ya citado, y
-   por la página `dc`); siete propiedades `xmpDM` literales (tapeName, altTapeName, startTimecode,
-   good, logComment, scene, shotName); párrafo final de oficio («lo que se escribe en el XMP del
-   fichero viaja con él… lo que sólo se anota en el proyecto se queda en el proyecto») y remisión
-   al hueco. Entrada nueva en el índice.
-2. **§ 7, «La cinta de archivo: la LTO», viñeta Capacidad**: añade **«LTO-10 drives can only read
-   and write to LTO-10 media. But they support both 30 TB and 40 TB LTO-10 media interchangeably.»**
-   con «no dice si esas cifras son nativas».
-3. **«El punto en la ficha del puesto»**: párrafo tras la tabla con la sexta tarea literal y remisión
-   al tema 13.
-4. **Portada**: Fuente añade «y documentación de XMP»; Extensión 10.000 → 11.000 palabras.
-5. **«Qué se puede preguntar»**: añade «qué es XMP y dónde guarda Premiere los metadatos de fichero».
-6. **«Documentos técnicos que el tema cita»**: fila nueva de Adobe XMP; fila LTO con la página de
-   compatibilidad y los cartuchos de 30 y 40 TB.
-7. **«Lo que este tema no da»**: hueco LTO reescrito (100 TB comprimidos; 30 y 40 TB sin calificar);
-   hueco nuevo: qué campos del panel de metadatos de Premiere van al XMP y cuáles al proyecto.
-8. **«Trazabilidad»**: fila nueva de Adobe XMP (25-09-2026); fila lto.org con la página nueva;
-   lista de oficio con «los dos espacios de nombres de XMP que importan al montador y lo que viaja
-   con el fichero frente a lo que se queda en el proyecto».
+1. **§ 7, subepígrafe nuevo «El formato de conservación: códecs sin pérdidas»** (tras «La LTFS: la
+   cinta como un disco»): qué es un códec sin pérdidas y por qué el vídeo de trabajo con pérdidas no es
+   máster de conservación (oficio); FFV1 en Matroska con tres citas del RFC 9043 (sin pérdidas,
+   intra; compresión, fijeza y autodescripción; CRC de la versión 3), una del RFC 9559 y la
+   clasificación de la Biblioteca del Congreso («preferred»), más IASA-TC 06 según la ficha de la
+   Biblioteca; JPEG 2000 sin pérdidas en MXF OP1a con la cita de RDD 48 recogida por la Biblioteca y
+   ST 422 como no leída; tercera vía sin comprimir; consecuencia para la sala (máster frente a copia
+   de trabajo, DIP); hueco de CSRTV. Entrada nueva en el índice.
+2. **§ 2, «Por qué el nombre de cinta y el código de tiempo lo son todo»**: tras la cita de
+   00086400.dpx, «El número es el código de tiempo pasado a cuadros: una hora son 3.600 s, y
+   3.600 × 24 = 86.400, así que el ejemplo corresponde a 24 cuadros por segundo; a 25, el mismo
+   código daría 00090000 (cálculo: el manual no dice la cadencia del ejemplo).»
+3. **Siglas**: IETF, RFC, IASA y JPEG (esta, con jpeg.org).
+4. **Portada**: Fuente añade IETF y la Biblioteca del Congreso; Extensión 11.000 → 12.000 palabras.
+5. **«Qué se puede preguntar»**: añade el formato sin pérdidas de conservación.
+6. **«Documentos técnicos que el tema cita»**: fila del convenio con «etiquetar para la emisión
+   automatizada (remitida al tema 13)»; filas nuevas de RFC 9043/9559, Biblioteca del Congreso y
+   jpeg.org.
+7. **«Lo que este tema no da»**: IASA-TC 06, RDD 48 y ST 422 no leídos; formato de conservación de
+   CSRTV no publicado.
+8. **«Trazabilidad»**: tres filas nuevas (25-09-2026); la lista de oficio añade «por qué el máster de
+   conservación no es el fichero de trabajo», y el cálculo añade el nombre del clip en *Capture Now*.
 
-Relectura de antecedentes: «su documentación», «ella», «más abajo» (→ `altTapeName`, en el mismo
-subepígrafe), «esas cifras» (→ 30 y 40 TB de la cita anterior), «Una sexta» (→ «ocho TAREAS» del
-párrafo anterior a la tabla): todos con su antecedente delante.
+Relectura de antecedentes: «su misma ficha» (→ la de la Biblioteca del Congreso, frase anterior),
+«lo» en «lo define el RFC 9559» (→ el contenedor Matroska), «ella» en «es con ella con la que el RFC
+9043 compara» (→ guardar sin comprimir, misma frase), «el ejemplo», «el mismo código» (→ la cita de
+la p. 562 inmediatamente antes): todos con su antecedente delante.
 
 ## Lentes
 
-- `indice.py`: 11.016 palabras, 44 epígrafes; índice al día (la entrada nueva ya estaba escrita).
-- `refutar_prosa.py`: 1 hallazgo, previo al remate (la referencia del convenio repetida en
-  «Documentos técnicos» y «Trazabilidad», que es su sitio); siglas y negritas limpias.
+- `indice.py`: 11.815 palabras, 45 epígrafes; índice al día. (El aviso «sin portada: es un esquema»
+  sale también con la versión de b08a902: la herramienta sólo reconoce las portadas de los temas del
+  .tsv.)
+- `refutar_prosa.py`: 1 hallazgo, previo al remate (la referencia del convenio en «Documentos
+  técnicos» y «Trazabilidad», que es su sitio); siglas y negritas limpias.
 - Sin norma jurídica citada: no proceden `negritas.py`, `refutar_exactitud.py` ni `refutar_modo.py`.
 
 ## Ficheros tocados
 
-El tema; este informe; nuevos en `fuentes/canal-sur/montador/web/`: `xmp-adobe.txt`, `xmp-dm.txt`,
-`xmp-dc.txt`, `lto-compatibility.txt`.
+El tema; este informe (sustituye al remate de la primera ronda); nuevos en
+`fuentes/canal-sur/montador/web/`: `rfc9043.txt`, `rfc9559.txt`, `loc-fdd000341.txt`,
+`loc-fdd000206.txt`, `loc-fdd000351.txt`, `jpeg-about.txt`.

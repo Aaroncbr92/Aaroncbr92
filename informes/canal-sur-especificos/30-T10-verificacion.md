@@ -86,3 +86,31 @@ resolver; 33.1 frente a 126, sin resolver; «hoja o relación de músicas» como
 - Creado: este informe.
 - Scratchpad: copia previa del tema, Libro con ligaduras normalizadas (`libro30t10.txt`), extracto del
   RDL (`rdl30t10.txt`), `art.sh`.
+
+## Addendum · reanudación del flujo (25-09-2026)
+
+El flujo volvió a lanzar la fase 3 sobre el tema 10, que ya tenía verificación, refutación y remate
+(commit b08a902). El remate amplió (E1-E4, L1, L2) y no consta la fase 5 bis, así que esta pasada
+verificó lo añadido por el remate y comprobó la literalidad de lo copiado sobre el texto actual.
+
+**Copiado del común** (Cámara 08/12), comparado línea a línea: los 7 tramos siguen literales (ahora
+438-508, 510-542, 544-560 sin la frase final omitida y declarada, 564-608, 610-631, 647-665, 945-949);
+las citas incrustadas de 9.9 y 9.9.2 siguen en 640 y 644. «Copiado de RTVE sin cambios»: ninguno.
+
+**Pasajes del remate releídos en su fuente** (TRLPI, volcado `BOE-A-1996-8930.md`; RDL 24/2021,
+volcado `fuentes/BOE-A-2021-17910.md`; leídos 25-09-2026): 14.2.º, 17, 20.2.f-g, 37 bis.3 y .5,
+107.1-3, 108.3-6 (108.5, segundo párrafo, literal), 112 (con el caso intermedio), 115, 116.1-3, 119
+(literal y cómputo), 121, 122.1-2, 125, 127; rúbrica del título II del libro cuarto del RDL y de los
+arts. 67-70. Todo confirmado, salvo:
+
+| # | Error | Pasaje | Corrección |
+|---|---|---|---|
+| 11 | 6 salvedad | 1, «Grabaciones, emisiones y fotografías»: «Su productor tiene… (artículo 121)» | El 121 atribuye el derecho al «productor de la primera fijación»: «El productor de su primera fijación tiene» |
+| 12 | 6 salvedad | 1, «Cuánto duran», fila del 125: «Productor de grabaciones audiovisuales» | El 125 habla de «productores de la primera fijación de una grabación audiovisual»: fila renombrada así |
+
+Pasajes cambiados releídos: «su primera fijación» remite a la grabación audiovisual de la frase anterior.
+Lectura que se mantiene como tal: que la emisión por una televisión cae en el segundo párrafo del 108.5
+(no es ninguno de los actos del 20.2.f, g ni i).
+
+Tocado en esta pasada: el tema (dos líneas) y este informe. Scratchpad: copia previa del tema
+(`30t10-antes-reverif.md`).

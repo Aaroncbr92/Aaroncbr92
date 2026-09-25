@@ -59,3 +59,10 @@ El remate **amplió** (pasajes 1, 2 y 4): procede la fase 5 bis sobre ellos.
 ## Ficheros tocados
 
 - El tema y este informe. Ningún otro.
+
+## Nueva pasada (25-09-2026)
+
+El encargo de remate se relanzó con el tema ya rematado y revisado en fase 5 bis (`30-T02-final.md`).
+Comprobado que los pasajes 1-8 están en el tema; `indice.py` no cambia nada (29 epígrafes, 11.553
+palabras) y `refutar_prosa.py` da el mismo falso positivo «BC». No se aplica nada nuevo: repetirlo
+duplicaría los pasajes. Ficheros tocados: sólo este informe.

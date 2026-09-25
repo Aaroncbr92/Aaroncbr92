@@ -74,3 +74,11 @@ Releídos los pasajes cambiados: sin antecedentes rotos.
 ## Ficheros tocados
 
 Sólo el tema 12 y este informe.
+
+## Relanzamiento de la fase 3 (25-09-2026)
+
+La orquestación volvió a pedir la fase 3 de este tema. No se rehízo: la verificación ya estaba
+completa (arriba) y el tema había pasado después por refutación, remate y fase 5 bis (`30-T12-final.md`);
+el fichero del tema no tiene cambios desde el commit b08a902. Comprobación rápida con `diff`: § 1
+copiado del común sigue idéntico a 34/14 y «Conservar lo publicado…» difiere sólo en «, tema 16»
+(declarado). No se tocó el tema; sólo se añadió esta nota.

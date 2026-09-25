@@ -48,3 +48,10 @@ coincide con la fuente. El sujeto de «tienen que ser grabadas con uniformidad»
 
 Modificado: el tema. Creado: este informe. Nada más (la diferencia de `fuentes/canal-sur/BOE-A-2023-11022.md`
 es anterior).
+
+## Segunda pasada (25-09-2026)
+
+Relectura independiente de los mismos pasajes contra el txt del Libro de estilo (leído el 25-09-2026):
+3.5, 3.7.1, 3.9.1, 3.13, 3.14, 5.3.2 y 5.4 casan literalmente, incluidas las dos correcciones de la
+primera pasada; antecedentes presentes. Sin hallazgos de contenido. Único cambio: se partió la línea
+de 3.14 («En caso de ser así, por cualquier causa…»), que había quedado demasiado larga; el texto no varía.

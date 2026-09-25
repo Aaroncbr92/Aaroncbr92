@@ -76,3 +76,47 @@ folleto» (nombrado en el mismo subepígrafe), «el punto 95» (tras el 43, mism
 - Fuentes nuevas descargadas: `fuentes/canal-sur/montador/web/us-oncins-magazin27.{pdf,txt}`,
   `fuentes/canal-sur/montador/web/cesya-subtitulos-tdt-folleto-2010.{pdf,txt}`,
   `fuentes/canal-sur/montador/etsi/en300743v010601.{pdf,txt}`.
+
+---
+
+# Segunda ronda (remate de la segunda refutación)
+
+Fecha de trabajo y de las lecturas: 25-09-2026 (encargo fechado 24-09-2026). Entrada: segunda ronda
+de `30-T11-refutacion.md` (2 menores, 1 laguna) y de `30-T11-preguntas.md` (14 enteras, 1 no).
+
+**Se amplió contenido nuevo** (subepígrafe «Audiosubtítulos o subtítulos hablados» en § 3 y una cita
+en § 4): procede la fase 5 bis sobre los pasajes 1 y 2.
+
+## Comprobación en la fuente y decisión
+
+| # | Hallazgo | Fuente releída (25-09-2026) | Decisión |
+| --- | --- | --- | --- |
+| 1 | § 4 «Lectura fácil y vídeo» omite la cita de Oncins | Oncins, *Magazin* 27, p. 97, § 2.4 (txt, l. 349-355) | Aplicado, literal. Se mantiene que ninguna fuente lo aplica al vídeo |
+| 2 | Trazabilidad: faltan puntos 92 y 94 del CP en la fila del § 5 | CP, l. 1907-1936 (92, con HbbTV y RD 1112/2018) y 1952-1954 (94, «tenderán progresivamente») | Aplicado: fila «puntos 12, 92, 93, 94 y 95» |
+| Laguna | Audiosubtítulos (pregunta 15) | Oncins, pp. 96-97, § 2.3 (txt, l. 319-340) | Ampliado. Dos citas literales; el «prácticamente desconocido e inexistente» se da fechado en 2019 y anterior a la LGCA vigente, como avisaba la refutación. No se usa el «debería adaptarse». Nota: el PDF numera por error dos apartados «2.3»; el tema no cita número de apartado |
+
+Pregunta 15 de la segunda ronda: pasa a **entera** (15/15).
+
+## Pasajes cambiados
+
+1. § 3, nuevo `### Audiosubtítulos o subtítulos hablados` (tras «La audiodescripción y el montaje»).
+2. § 4 «Lectura fácil y vídeo», primer párrafo: cita de Oncins sobre la lectura fácil en los medios.
+3. «Qué se puede preguntar»: + «qué son los audiosubtítulos y a quién sirven».
+4. «Lo que este tema no da»: + audiosubtítulos en el punto sobre los sistemas de CSRTV.
+5. Trazabilidad: fila del CP del § 5 (+ 92 y 94); fila de Oncins (pp. 96-97; epígrafes 3 y 4).
+6. Portada, «Extensión»: 10.400 → 10.700 palabras.
+
+Antecedentes releídos: «El artículo de Oncins citado en el epígrafe 2» (existe, § 2 «En diferido y en
+directo»), «El mismo artículo» (mismo párrafo), «(epígrafe 5)» para la Ley 11/2023 (§ 5): correctos.
+
+## Lentes
+
+- `indice.py`: 10.702 palabras, 36 epígrafes; índice regenerado con el subepígrafe nuevo.
+- `refutar_prosa.py`: 0 hallazgos.
+- `negritas.py` con Oncins, más cotejo normalizado a mano: las 4 negritas nuevas son literales. Los
+  «NO ESTÁ» restantes son de otras fuentes, no pasadas en esta llamada.
+- `refutar_exactitud.py` y `refutar_modo.py`: no proceden; los pasajes cambiados no citan preceptos.
+
+## Ficheros tocados
+
+- El tema 11 del puesto 30 y este informe (ampliado, sin sobrescribir la primera ronda).

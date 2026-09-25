@@ -1,28 +1,53 @@
-# Puesto 30 · Tema 6 · Preguntas de refutación (fase 4)
+# Puesto 30 · Tema 6 · Preguntas de refutación (fase 4, segunda pasada)
 
-Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema:
-`temas/canal-sur-especificos/30-operador-a-montador-a-de-video/06-montaje-de-programas-promociones-cultura-deportes-digital.md`.
-Fuentes de las respuestas correctas, leídas el 25-09-2026: LGCA (BOE-A-2022-11311, volcado local), X Convenio RTVA
-(BOJA 240/2014, txt), Libro de estilo de Canal Sur 2004 (txt), Mateu Torres 2024 (txt). Cada pregunta se contesta
-**sólo con el tema**: entera, a medias o no. Líneas = líneas del tema.
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Tema en su estado tras el remate y la revisión 5 bis.
+Se contestan **sólo con el tema**. Clave: entera / a medias / no. La primera tanda (anterior al remate)
+queda en el historial de git (commit b08a902).
 
-| N.º | Tipo | Pregunta y opciones | Correcta (fuente) | ¿La contesta el tema? |
-|---|---|---|---|---|
-| 1 | Teoría | Según las fichas del X Convenio, «Dirigir las tareas de montaje, postproducción y mezclas hasta su completo acabado» es tarea del: a) Operador Montador de Vídeo; b) Ayudante de Realización; c) Realizador; d) Encargado Operación y Montaje Vídeo | c (ficha 5351000, p. 196) | Entera (§ 1, tabla, l. 78) |
-| 2 | Teoría | «Realizar reportajes, bloques, microespacios, postproducciones y promociones de programas, bajo las directrices del Realizador» corresponde al: a) Ayudante de Realización; b) Ambientador Musical; c) Operador Montador de Vídeo; d) Realizador | a (ficha 5353000, p. 111) | Entera (§ 1, tabla, l. 79) |
-| 3 | Práctica | Un magacín patrocinado se emite con tres cortes publicitarios. La identificación del patrocinador debe aparecer: a) 2 veces; b) 3 veces; c) 5 veces; d) de forma permanente | c: principio, tres reanudaciones y final (art. 128.3.a) | Entera (§ 1, l. 150-157; el ejemplo es con dos cortes, el cálculo es directo) |
-| 4 | Teoría | La autopromoción, respecto al límite de 144/72 minutos del art. 137.1 LGCA: a) computa entera; b) computa la mitad; c) está expresamente excluida del cómputo; d) sólo se excluye de 18 a 24 h | c (art. 137.2.b) | Entera (§ 2, l. 200-205) |
-| 5 | Práctica | En la promo de una serie propia se monta una locución que anuncia una marca de coches ajena al programa. La pieza: a) sigue siendo autopromoción; b) se considera anuncio publicitario a todos los efectos; c) pasa a ser patrocinio; d) es emplazamiento de producto | b (art. 127.2) | Entera (§ 2, l. 194-199) |
-| 6 | Teoría | ¿Cuál de estas comunicaciones **sí** computa en el límite de minutos del art. 137.1? a) espacios de promoción de apoyo a la cultura europea; b) patrocinio; c) autopromoción; d) anuncios publicitarios | d (art. 137.2 excluye a, b, c; 137.3) | **A medias**: el tema da b y c como excluidas (l. 203-205) pero no la letra e) (cultura europea) ni d), f), g), h); el opositor no puede descartar a) |
-| 7 | Práctica | Resumen gratuito de un partido cuya exclusiva tiene otro operador, en el telediario, en diferido. Duración máxima válida: a) 90 s; b) 89 s; c) 3 min; d) sin límite si se cita al titular | b: «inferior a noventa segundos» (art. 144.3) | Entera (§ 4, l. 381-393) |
-| 8 | Práctica | El mismo resumen informativo se quiere ofrecer en el servicio a la carta de la cadena. Según la LGCA: a) no cabe nunca; b) cabe sólo si el mismo prestador ofrece el mismo programa en diferido; c) cabe sin condiciones; d) cabe sólo en redes sociales | b (art. 144.2, 2.ª frase) | **No**: el tema cita sólo la primera frase del 144.2 (l. 379-380) |
-| 9 | Teoría | Las películas cinematográficas y los noticiarios pueden interrumpirse para publicidad: a) cada 15 min; b) una vez por cada periodo previsto de 30 min como mínimo; c) una vez por hora; d) nunca | b (art. 138.2) | Entera (§ 1, l. 129-132) |
-| 10 | Práctica | Pieza informativa sobre una exposición de pintura que no se emite como cierre. Música de fondo, según el Libro de estilo: a) libre; b) sólo si es la referencia noticiosa principal, lo que aquí no ocurre: no se pone; c) obligatoria; d) la decide el montador | b (3.2.2, p. 46; 3.10, p. 53) | Entera (§ 3, l. 270-287) |
-| 11 | Práctica | En la grabación de una actuación musical, si las circunstancias lo permiten, el canal 1 se toma: a) del micrófono de cámara; b) de mesa de sonido; c) del micro del redactor; d) no se graba | b (5.4, p. 82) | Entera (§ 3, l. 292-295) |
-| 12 | Teoría | Según Mateu, el *teaser* es: a) un tráiler de menor duración que pretende transmitir sensaciones sin desvelar detalles de la trama; b) un avance del siguiente capítulo de una serie; c) un tráiler de una película inexistente; d) un *spot* de 20 s | a (8.2, p. 87) | Entera (§ 2, l. 227-229; b es el *sneak peek*) |
-| 13 | Teoría | Estructura interactiva jerárquica y exponencial, con punto de partida común y diferentes finales: a) interactiva lineal; b) de espina de pescado; c) ramificada; d) de caminos paralelos | c (Mateu 10.2, p. 102) | **No**: el tema sólo recoge la «interactiva lineal» (l. 514-516) |
-| 14 | Práctica | Para una pieza de deportes se dispone de una declaración grabada de un aficionado con expresiones xenófobas hacia el rival. Según el Libro de estilo: a) se emite íntegra por ser declaración; b) no debe incluirse; si por sentido informativo se emite, claramente contextualizada y, llegado el caso, con desacuerdo manifestado; c) se emite pitada; d) se sustituye por música | b (7.5.4.2, pp. 109-110) | **No**: el tema no recoge 7.5.4; sólo el tratamiento «ecuánime y respetuoso» (l. 353-356), que orienta pero no da la regla |
-| 15 | Práctica | En el mando del servidor de repetición (manual EVS v10.01), SHIFT + F10 da acceso a: a) el banco 10 de clips; b) los bancos de listas de reproducción; c) la cámara D; d) la página 10 | b | Entera (§ 4, l. 460-461) |
+1. Según el X Convenio de la RTVA, ¿qué puesto tiene como tarea «Dirigir las tareas de montaje, postproducción y mezclas hasta su completo acabado»?
+   a) Operador Montador de Vídeo · b) Encargado Operación y Montaje Vídeo · c) Realizador · d) Ayudante de Realización
+   **c**. Entera (§ 1, tabla).
+2. Un programa patrocinado se interrumpe tres veces para publicidad. ¿Cuántas veces debe aparecer la identificación del patrocinador?
+   a) 2 · b) 3 · c) 4 · d) 5
+   **d** (principio, tres reanudaciones, final; art. 128.3.a). Entera (§ 1, el patrocinio: la aplicación da el caso de dos cortes y la regla).
+3. ¿Cuál de estos contenidos no puede patrocinarse según la LGCA?
+   a) Un magacín · b) Un programa infantil · c) Un noticiario · d) Una retransmisión deportiva
+   **c**. Entera (art. 128.2).
+4. Límite de comunicaciones comerciales de la televisión lineal entre las 18:00 y las 24:00:
+   a) 36 min · b) 72 min · c) 144 min · d) 12 min por hora
+   **b**. Entera (art. 137.1.b).
+5. ¿Cuál de estas piezas computa en el límite de minutos del art. 137.1?
+   a) Una autopromoción · b) Un emplazamiento de producto · c) Un anuncio publicitario · d) Un anuncio de servicio público
+   **c**. Entera (137.2 a-h y 137.3; aplicación final).
+6. Una promoción de un programa en la que se monta la mención de una marca ajena a él pasa a considerarse:
+   a) Patrocinio · b) Emplazamiento · c) Anuncio publicitario a todos los efectos · d) Autopromoción, sin cambio
+   **c**. Entera (art. 127.2).
+7. Según Mateu (tomándolo de Chion), un tráiler dura por lo general:
+   a) 20-30 s · b) De uno a dos minutos y medio · c) Menos de 90 s · d) De tres a cinco minutos
+   **b**. Entera (§ 2, la técnica).
+8. La sobreimpresión permanente y legible con la indicación «publicidad» del art. 136.1:
+   a) Sólo se exige en la televisión lineal · b) Se exige a la comunicación comercial cuyas características de emisión puedan confundir sobre su carácter publicitario, sin limitarla al lineal · c) Sólo en retransmisiones deportivas · d) Sólo en autopromociones
+   **b**. A medias: el tema da el literal (§ 1) pero no dice su ámbito, y en § 5 enumera lo que se ciñe al lineal (136.2 y 3) sin advertir que el 136.1 y el 138.1 no llevan esa restricción.
+9. Canal Sur monta gratis el resumen de un partido cuya exclusiva tiene otro operador. ¿Qué duración cumple la LGCA?
+   a) 90 s exactos · b) 89 s · c) 120 s · d) Cualquiera, si es en diferido
+   **b** («inferior a noventa segundos»). Entera (§ 4).
+10. Durante ese resumen debe aparecer de forma permanente:
+   a) El logotipo de Canal Sur · b) El logotipo del titular de la exclusiva · c) El logotipo de la entidad organizadora y del patrocinador principal · d) Nada, si dura menos de 90 s
+   **c**. Entera (art. 144.4).
+11. ¿Cuándo puede ofrecerse ese resumen en el servicio a petición?
+   a) Nunca · b) Siempre · c) Si el mismo prestador ofrece el mismo programa en diferido · d) Sólo con autorización del organizador
+   **c**. Entera (art. 144.2).
+12. En el servidor de repetición EVS, en el clip 547:
+   a) 5 banco, 4 página, 7 clip · b) 5 página, 4 banco, 7 clip · c) 5 clip, 4 banco, 7 cámara · d) 5 máquina, 4 página, 7 banco
+   **b**. Entera (§ 4, manual del fabricante).
+13. Según Mateu, *Black Mirror: Bandersnatch* ejemplifica la estructura interactiva:
+   a) lineal · b) de espina de pescado · c) ramificada · d) de caminos paralelos
+   **c**. Entera (§ 5).
+14. Según Mateu, un falso tráiler que se inserta en la campaña publicitaria de una película o serie para anunciar el estreno de un contenido real (caso *Nation's Pride*) es:
+   a) Un *teaser* · b) El primer tipo de falso tráiler publicitario · c) Un *sneak peek* · d) Un *mockumentary*
+   **b**. No: el tema no trata el falso tráiler (Mateu 8.3, pp. 90-91).
+15. ¿Cuál de estas es condición del patrocinio en el art. 128.3 de la LGCA?
+   a) No afectar al contenido del programa ni a su horario de emisión de manera que se vea afectada la responsabilidad editorial del prestador · b) Durar menos de 10 s · c) Emitirse sólo en el lineal · d) No aparecer en las reanudaciones
+   **a**. No: el tema da las letras a) y c) del 128.3, no la b).
 
-Resultado: 11 enteras, 1 a medias (6), 3 no (8, 13, 14). La 8 corresponde a un hallazgo de exactitud (salvedad
-omitida del 144.2); la 6, la 13 y la 14 son lagunas de cobertura.
+Resultado: 12 enteras, 1 a medias (8), 2 no (14, 15).

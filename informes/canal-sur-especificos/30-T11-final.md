@@ -28,3 +28,24 @@ Alcance: sólo los 12 pasajes que lista `30-T11-remate.md`, § 3. Todos se contr
 
 - `temas/canal-sur-especificos/30-operador-a-montador-a-de-video/11-accesibilidad-subtitulos-audiodescripcion-lectura-facil-plataformas.md` (3 correcciones: líneas 543, 556, 757 y 953).
 - Este informe. Renders del folleto en el scratchpad (fuera del repositorio).
+
+---
+
+# Segunda ronda (revisión del remate de la segunda refutación)
+
+Fecha de trabajo y de las lecturas: 25-09-2026 (encargo fechado 24-09-2026). Alcance: los 6 pasajes
+de la segunda ronda de `30-T11-remate.md`.
+
+| # | Pasaje | Fuente releída | Resultado |
+| --- | --- | --- | --- |
+| 1 | § 3 «Audiosubtítulos o subtítulos hablados» | Oncins, txt l. 319-340; Ley 11/2023, anexo I, IV b) 2.º (`BOE-A-2023-11022.md`, l. 2406) | Las tres citas de Oncins, literales; «subtítulos hablados» en la Ley 11/2023, correcto; antecedentes «citado en el epígrafe 2», «El mismo artículo», «(epígrafe 5)», correctos. **Corregido (error 9)**: «Son los subtítulos leídos en voz alta» no consta en ninguna fuente leída (ni Oncins, ni Ley 11/2023, ni Directiva 2018/1808, cdo. 23): quitado y declarado en «Lo que este tema no da». **Corregido (fecha)**: «los da en 2019» era inexacto; el número es de invierno de 2019, pero el artículo se recibió el 21-12-2020 y se aceptó el 24-03-2021 (txt, l. 14-15; cita webs consultadas en 2021). Sigue siendo anterior a la LGCA vigente |
+| 2 | § 4 «Lectura fácil y vídeo», cita de Oncins | Oncins, txt l. 349-352 | Literal; antecedente correcto |
+| 3 | «Qué se puede preguntar» | Tema | **Ajustado**: «qué son los audiosubtítulos y a quién sirven» → «a quién sirven los audiosubtítulos», coherente con la corrección 1 |
+| 4 | «Lo que este tema no da»: audiosubtítulos en CSRTV | — | Correcto; + definición técnica de los audiosubtítulos no hallada |
+| 5 | Trazabilidad: CP puntos 92 y 94; fila de Oncins | CP, l. 1907-1912 y 1952-1955 | Correctos (92: HbbTV y «botón rojo»; 94: «tenderán progresivamente», art. 104.1 LGCA). Fila de Oncins: + fechas de recepción y aceptación |
+| 6 | Portada, «Extensión» 10.700 | `indice.py` | 10.736 palabras, 36 epígrafes: se mantiene |
+
+Lentes tras corregir: `refutar_prosa.py` 0 hallazgos.
+
+Ficheros tocados: el tema 11 del puesto 30 (§ 3 audiosubtítulos, «Qué se puede preguntar», «Lo que
+este tema no da», Trazabilidad) y este informe.

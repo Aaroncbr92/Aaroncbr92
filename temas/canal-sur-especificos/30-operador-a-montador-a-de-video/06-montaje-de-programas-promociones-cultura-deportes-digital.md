@@ -126,7 +126,12 @@ La LGCA pone tres condiciones que se deciden en el montaje de un programa con co
 
 - Integridad (art. 136.3): **«La comunicación comercial audiovisual emitida en un servicio de
   comunicación audiovisual televisivo lineal respetará la integridad del programa en el que se inserte
-  y de las unidades que lo conforman.»** El art. 138.1 lo repite para las interrupciones.
+  y de las unidades que lo conforman.»** El art. 138.1, entre las reglas de las interrupciones, lo dice
+  sin nombrar el lineal en su letra: **«La emisión de comunicaciones comerciales audiovisuales debe
+  respetar la integridad del programa en el que se inserta y de las unidades que lo conforman.»** Pero
+  ambos artículos están en la sección 3.ª del capítulo IV del título VI, **«Normativa específica para las
+  comunicaciones comerciales audiovisuales en el servicio de comunicación audiovisual televisivo
+  lineal»**.
 - Cadencia (art. 138.2): **«La transmisión de películas realizadas para televisión (con exclusión de las
   series, los seriales y los documentales), películas cinematográficas y noticiarios podrá ser
   interrumpida para emitir comunicaciones comerciales audiovisuales una vez por cada periodo previsto de
@@ -151,6 +156,9 @@ El patrocinio se monta dentro del programa: las caretas de entrada, reanudación
 - El patrocinio ha de **«Incluir el nombre, el logotipo, o cualquier otro símbolo, producto o servicio
   del patrocinador al principio, al inicio de cada reanudación posterior a una interrupción y al final del
   programa.»** (128.3.a)
+- Ha de **«No afectar al contenido del programa o comunicación audiovisual patrocinados ni a su horario
+  de emisión o presencia en el catálogo de manera que se vea afectada la responsabilidad editorial del
+  prestador del servicio de comunicación audiovisual.»** (128.3.b)
 - Y **«No incitar directamente a la compra o arrendamiento de bienes o servicios, en particular, mediante
   referencias de promoción concretas a éstos.»** (128.3.c)
 
@@ -236,6 +244,17 @@ montaje. Esto es debido a que el objetivo del tráiler es crear expectativas en 
 derivas: el ***teaser***, **«tráiler de menor duración que pretende transmitir sensaciones sin desvelar
 detalles de la trama»**, y el ***sneak peek***, **«breve pieza que avanza lo que ocurrirá en el
 siguiente capítulo de una serie»**.
+
+El falso tráiler (8.3, pp. 90-92) **«anuncia una película inexistente, al menos en el momento de su
+concepción y publicación»**. Mateu recoge, de Guarinos y Lozano Delmar (2011), tres tipologías **«de
+acuerdo a los propósitos comerciales y las características del producto promocionado»**:
+
+- **«El primer tipo de falso tráiler publicitario es el que se inserta en una campaña publicitaria de una
+  película o serie.»** **«A pesar de ser un falso tráiler, este formato se emplea como herramienta para
+  anunciar el estreno de un contenido real.»** Ejemplo: el falso tráiler de *Nation’s Pride* (Roth, 2009),
+  película inexistente introducida dentro de *Malditos bastardos* (Tarantino, 2009).
+- El segundo, **«aquel creado para medir el interés que podría llegar a despertar una futura película»**.
+- El tercero, **«aquel destinado a promocionar otros contenidos ajenos a la industria audiovisual»**.
 
 Aplicación: la promoción de un programa de la cadena es una autopromoción montada con lógica de *spot* o
 de tráiler: gancho en los primeros segundos, corte ajustado al fotograma a la duración pedida,
@@ -560,6 +579,8 @@ expresamente el catálogo del prestador y las prestaciones del servicio de inter
 plataforma, y la de patrocinio (art. 128.1) el servicio de intercambio de vídeos a través de plataforma y
 los vídeos generados por usuarios. En cambio, la diferenciación y la integridad (art. 136.2 y 3), el límite
 de minutos (art. 137.1) y las reglas de las retransmisiones deportivas (art. 139) se refieren al servicio
+televisivo lineal. La sobreimpresión **«publicidad»** (art. 136.1) y la integridad del programa en las
+interrupciones (art. 138.1) no lo nombran en su letra, pero están en la misma sección 3.ª, la del servicio
 televisivo lineal. El resumen de un acontecimiento en exclusiva sólo se sube a la carta en la condición
 del art. 144.2 (§ 4).
 
@@ -598,7 +619,7 @@ del art. 144.2 (§ 4).
 | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, BOE-A-2022-11311, texto consolidado del BOE | Arts. 127, 128 (incluido 128.1), 136, 137, 138, 139 y 144 | 25-09-2026 |
 | X Convenio colectivo de la RTVA y sociedades filiales, BOJA núm. 240, de 10-12-2014, anexo III | Fichas de Realizador (p. 196), Ayudante de Realización (p. 111), Encargado Operación y Montaje Vídeo (p. 127), Operador Montador de Vídeo (p. 190) y Ambientador Musical (p. 101) | 25-09-2026 |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, ISBN 84-609-0453-9 | 3.2.2, 3.4, 3.10, 5.4, 7.3, 7.3.4, 7.5, 7.5.1, 7.5.4, 8.4, 8.4.1, 8.4.2, 9.2.12.4, 9.10 y 9.10.1. Páginas, las impresas | 25-09-2026 |
-| Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, ISBN 978-84-18177-76-7 | *Spot* (8.1), tráiler, *teaser* y *sneak peek* (8.2), documental y falso documental (9.1), estructuras narrativas e interactivas (10.1, 10.2). Las citas de Martínez Sáez, Chion, León y Tubau se toman de Mateu | 25-09-2026 |
+| Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, ISBN 978-84-18177-76-7 | *Spot* (8.1), tráiler, *teaser* y *sneak peek* (8.2), falso tráiler (8.3), documental y falso documental (9.1), estructuras narrativas e interactivas (10.1, 10.2). Las citas de Martínez Sáez, Chion, Guarinos y Lozano Delmar, León y Tubau se toman de Mateu | 25-09-2026 |
 | EVS, *Multicam LSM Operating Manual*, versión 10.01 (consultado en manualslib.com, p. 28) y versión 11.00 (manualsdir.com, p. 97) | Numeración de clips (página, banco, clip, número de máquina), teclas de los bancos y de los ángulos de cámara, bancos de listas y su reserva en la página 10 | 25-09-2026 |
 | Oficio | Estilos por género; ritmo en la acción rápida; arquitectura del servidor de repetición, lista de reproducción y línea de tiempo; bloques con arranque y cierre; versionado para plataformas | — |
 

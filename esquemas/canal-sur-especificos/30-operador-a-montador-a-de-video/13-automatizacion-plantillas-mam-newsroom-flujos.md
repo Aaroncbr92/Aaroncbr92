@@ -1,93 +1,93 @@
 # Tema 13 del específico de Operador/a Montador/a de Vídeo · Automatización, plantillas, MAM/PAM, newsroom y flujos de producción integrados
 
-**Siglas**: RTVA; CSRTV; RTVE; BOJA; UIT; EBU (*European Broadcasting Union*); MAM (*media asset management*); PAM (*production asset management*); DAM; NRCS (*newsroom computer system*, en MOS «NCS»); MOS (*Media Object Server Communications Protocol*); CG (*character generator*); TCP/IP; XML; API.
+**Siglas**: RTVA, CSRTV, RTVE, BOJA, EBU, MAM, PAM, DAM, NRCS/NCS, MOS, CG, XML, API.
 
-Esqueleto para repasar, no resumen: cada línea es un dato con su fuente delante; vuelve al tema para el desarrollo.
+Esqueleto para repasar, no resumen: cada línea manda a la fuente del tema, no sustituye leerlo.
 
-<!-- indice -->
-<!-- /indice -->
-
-## De dónde sale el tema
-
-- Sin norma legal. Convenio (fichas); Libro de estilo (escaleta); Manfredi (2010, sistema de redacción en CS); mosprotocol.com; EBU Tech 3293; manuales de fabricante (Resolve, Premiere, Avid) como ejemplo, no como regla.
-- MAM, PAM y *newsroom*: palabras de industria; no hay definición de UIT/EBU/SMPTE para MAM ni PAM.
+<!-- indice --><!-- /indice -->
 
 ## 1. Automatización
 
-- Convenio, ficha 5212206 (p. 190): **«etiquetar, grabar e introducir en base de datos, la información para la emisión automatizada de programas y bloques publicitarios»**.
-- Convenio, ficha encargado 5212204 (p. 127): **«realizar todas las operaciones necesarias previas para la posterior emisión automatizada»**. No dice qué sistema usa la casa ni qué campos lleva la base de datos.
-- Oficio (RTVE): 3 piezas — escaleta de emisión (orden, viene de redacción), servidor de emisión (reproduce a su hora), automatización (ejecuta: dispara servidor, grafismo, conmutación). La emisión va separada de todo — servidores, almacenamiento y red propios, único punto donde un fallo se ve en antena.
-- Oficio: sala debe dar nombre exacto de escaleta, duración real anunciada, entrega antes de hora; lo tardío no sale.
-- Manual Resolve 21, cap. 8 (p. 215-217): carpetas vigiladas — Proxy Generator genera *proxy* automáticamente de lo que entra; subcarpeta «Proxy» reservada; *Start*/*Stop* en *Processing*. Cap. 8 (p. 198): *background rendering* (renders, *quick export*, *proxies*), desactivado por defecto por consumo de recursos.
-- Manual Resolve, cap. 187 (p. 4185, 4215): cola de *render* en *Deliver*, varios trabajos, *Start Render*; *render* remoto entre estaciones — exige Studio en ambas, biblioteca de proyectos común, mismo material. Ayuda Premiere: cola de Media Encoder, para exportaciones largas o varias versiones.
-- Manual Resolve, cap. 201 (p. 4418): *scripting* (*Workflow Integration Plugin*, JS/Python/Lua); vía de conexión de un MAM al editor.
-- Oficio: no mira contenido; por eso se revisa lo automatizado al final.
+- Convenio, ficha 5212206 (p. 190): **«Etiquetar, grabar e introducir en base de datos, la información para la emisión automatizada de programas y bloques publicitarios.»**
+- Convenio, ficha encargado 5212204 (p. 127): **«Realizar todas las operaciones necesarias previas para la posterior emisión automatizada»**.
+- Convenio no dice qué sistema ni qué campos lleva la base de datos.
+- Oficio (RTVE, sin fuente citada): escaleta → servidor de emisión → automatización dispara servidor, grafismo, conmutación.
+- Principio de diseño: la emisión va separada (servidores, almacenamiento y red propios); único punto donde un fallo se ve en antena.
+- Oficio: pieza con el nombre exacto que espera la escaleta; duración real = la anunciada; terminada y en servidor antes de su hora.
+- Manual Resolve 21, cap. 8 (p. 215-217): carpetas vigiladas del Blackmagic Proxy Generator generan *proxy* automático; subcarpeta «Proxy» reservada; *Start*/*Stop* en *Processing*; estado *Waiting*.
+- Manual Resolve 21, cap. 8 (p. 198): tareas en segundo plano (render, *quick export*, *proxy*); desactivado por defecto.
+- Manual Resolve 21, cap. 187 (p. 4185): cola de *render* en *Deliver*, varios trabajos con distintos ajustes.
+- Ayuda Premiere, «Export directly to Adobe Media Encoder»: cola de Media Encoder, recomendada para exportaciones largas o varias versiones.
+- Manual Resolve 21, cap. 187 (p. 4215): *render* remoto entre estaciones Studio; exige misma biblioteca de proyectos y acceso al mismo material.
+- Manual Resolve 21, cap. 201 (p. 4418): *Workflow Integration Plugins* (Electron, API Javascript, Python/Lua) — vía de conexión de un MAM.
+- Oficio: la automatización no mira contenido; lo automatizado se revisa al final (nombre, duración, principio y final).
 
 ## 2. Plantillas
 
-- Oficio: plantilla = elemento/ajuste preparado que se reutiliza; 3 clases — rótulo, salida, nombre.
-- Manual Resolve, cap. 56 (p. 1215): *Lower 3rd* (2 líneas, posición automática), *Text+* (estilo único para todo el texto), *Fusion Titles* (biblioteca de plantillas propias de la casa).
-- Ayuda Premiere: fichero **.mogrt**, creado en Premiere o After Effects, para *titles, lower thirds, buttons*; panel *Graphics Templates*; llega de carpeta local, Creative Cloud (automática) o Adobe Stock; exportar sólo si el gráfico es de Premiere, y no con 2+ seleccionados; plantillas con datos admiten texto, color, números, fijados en After Effects.
-- Manfredi (2010, p. 139-140), iNews: rótulos que inserta el periodista **«irán directamente a la emisión»**; qué rótulos van incrustados y cuáles en directo, decisión de la casa, no consta publicada.
-- Manual Resolve, cap. 187 (p. 4193-4194): *preset* de exportación guarda todos los ajustes; se exporta/importa como fichero .xml entre puestos/máquinas.
-- Ayuda Premiere: *preset* por defecto de Media Encoder — **«H.264 Match Source - Adaptive High Bitrate»**, salvo último ajuste usado.
-- Manual Resolve, cap. 15 (p. 345-346): variables de metadatos con «%» (escena_plano_toma → «12_A_3»); campo vacío no aparece; %date/%time toman fecha/hora de salida, no de grabación.
-- Oficio: el nombre que manda es el de la escaleta, no lo inventa la máquina.
+- Definición de oficio: elemento o ajuste preparado que se reutiliza; tres clases: rótulo, salida, nombre.
+- Manual Resolve 21, cap. 56 (p. 1215): *Lower 3rd* central posiciona dos líneas en *title safe*; *Text+* con estilo único; *Fusion Titles*, biblioteca de plantillas prediseñadas.
+- Ayuda Premiere, «Overview of Motion Graphics templates»: fichero **.mogrt**, creado en Premiere o After Effects; para *titles*, *lower thirds*, botones; panel *Graphics Templates*.
+- Ayuda Premiere, «Install Motion Graphics templates»: instalación en pestaña *My Templates*; desde Creative Cloud, disponible sin instalar.
+- Ayuda Premiere, «Export graphic as a Motion Graphics template»: exportación sólo de gráficos creados en Premiere, no de .mogrt de After Effects; no con varios gráficos seleccionados.
+- Ayuda Premiere, «Use data-driven Motion Graphics templates»: datos de tres tipos (texto, color, número), fijados en After Effects, no editables en Premiere.
+- Manfredi (2010, pp. 139-140), sobre iNews: rótulos que inserta el periodista **«irán directamente a la emisión»**.
+- Manual Resolve 21, cap. 187 (pp. 4193-4194): *presets* de exportación con *Save as New Preset*; exportables/importables en ficheros **.xml**.
+- Ayuda Premiere, «Export directly to Adobe Media Encoder»: *preset* por defecto **«H.264 Match Source - Adaptive High Bitrate»**, salvo último ajuste usado.
+- Manual Resolve 21, cap. 15 (p. 345-346): variables de metadatos con «%»; ejemplo escena_plano_toma; variables %date/%time toman fecha de salida, no de rodaje.
+- Oficio: el nombre del vídeo que manda es el de la escaleta, no lo compone la variable.
 
 ## 3. MAM/PAM
 
-- Oficio: MAM y PAM guardan, catalogan y reparten material; sin definición normalizada.
-- Oficio (RTVE): 5 funciones MAM — catálogo, versiones, baja resolución, ciclo de vida, permisos.
-- Oficio: DAM = término general (fotos, docs, audio); MAM = especializado en audiovisual (código de tiempo, subclips, versiones, derechos por ventana). Distinción MAM/PAM, de industria — PAM gestiona material en producción (brutos, *proxies*, secuencias en curso); MAM, material terminado y archivo.
-- Avid, producto *Production Management* (leída 25-09-2026): seguimiento ingesta-archivo, multiusuario, permisos, servicios automáticos (transcodificación, archivo, restauración), almacenamiento Avid NEXIS, búsqueda por metadatos desde Media Composer/Premiere/Cloud UX.
-- Oficio (RTVE): copia de baja resolución viaja por red ofimática, se ve y marca; el fichero grande no se mueve hasta el conformado. Ayuda Premiere: se crean *proxies*, se edita sobre ellos y se pasa a resolución completa cuando hace falta.
-- EBU Tech 3293 (EBUCore), v1.10 abril 2020, p. 7: **«"If you can't find it, you don't have it!"»**; metadatos como **«glue between production operations»**; documentar con EBUCore es requisito mínimo.
-- EBU Tech 3293, p. 8: EBUCore se define como **«the Dublin Core for media»**.
-- Manual Resolve, cap. 201 (p. 4418): MAM accesible desde el editor vía *Workflow Integration Plugins* (ej. EditShare/FLOW: comentar, buscar, gestionar *proxies* sin salir de Resolve).
-- Oficio: montador busca por datos, no por nombre; devuelve la pieza con metadatos completos; lo no devuelto «existe para la cabina, no para la casa».
-- Oficio (RTVE): 2 almacenamientos — de producción (uso, red de bloques, coste alto, dimensiona el material vivo) y de archivo (conservación, diferido/cinta, coste bajo, dimensiona lo conservado).
-- Oficio: la ingesta llena el almacenamiento; sin política de borrado/archivo escrita antes, el sistema se para solo.
+- MAM = *media asset management*; PAM = *production asset management* (nombres de industria, sin definición UIT/EBU/SMPTE hallada).
+- Oficio (RTVE, sin fuente citada), cinco funciones del MAM: catálogo, versiones, baja resolución, ciclo de vida, permisos.
+- DAM = término general (fotos, documentos, audio); MAM especializado en audiovisual (código de tiempo, subclips, versiones, derechos por ventana).
+- Oficio: distinción MAM/PAM es de oficio (PAM = producción en curso; MAM = terminado y archivo); ningún fabricante la define igual.
+- Avid, página de producto *MediaCentral | Production Management* (leída 25-09-2026): seguimiento ingesta-archivo, multiusuario, permisos, transcodificación/archivo/restauración automáticos, almacenamiento Avid NEXIS, búsqueda desde Media Composer/Premiere/Cloud UX.
+- Oficio (RTVE): copia de baja resolución viaja por red ofimática, se ve y se marca; fichero grande no se mueve hasta el conformado.
+- Ayuda Premiere, «Ingest and proxy workflows in Premiere»: **«you first create proxy files, edit these proxies, and then convert to full resolution»**.
+- EBU Tech 3293 v1.10 (abril 2020), p. 7: **«"If you can't find it, you don't have it!"»**; metadatos = **«glue between production operations»**; EBUCore **«is a minimum requirement»**.
+- EBU Tech 3293, p. 8: EBUCore definida como **«the Dublin Core for media»**.
+- Manual Resolve 21, cap. 201 (p. 4418): MAM accesible desde Resolve por *Workflow Integration Plugins* (ejemplo EditShare/FLOW: comentar, buscar, previsualizar sin salir de Resolve).
+- Oficio: montador busca por datos, no por nombre de fichero; devuelve la pieza al sistema con metadatos completos.
+- Oficio (RTVE): almacenamiento de producción (inmediato, red de bloques, coste alto) vs. de archivo (diferido, cinta posible, coste bajo).
+- Oficio (RTVE): la ingesta es donde se llena el almacenamiento; falta política de borrado/archivo = sistema se para.
 
 ## 4. Newsroom
 
-- Oficio (RTVE): *newsroom* = redacción y su sistema (NRCS); contiene ESCALETA (piezas, duración, fuente, estado), guion, referencias al material, CRONOMETRÍA, estados, agenda/teletipos. Es la base de datos; todo cuelga de ella.
-- Oficio: 3 cosas que hacen útil el sistema — cronometra en tiempo real; único sitio donde se cambia algo; habla con los demás equipos por protocolo (MOS).
-- mosprotocol.com (portada): MOS = protocolo evolutivo de comunicación entre Newsroom Computer Systems (NCS) y Media Object Servers (vídeo, audio, *still stores*, CG); finalidad — integrar equipos NCS y MOS diversos. Resuelve (FAQ): comunicar sistema de marca X con servidor de marca Y.
-- mosprotocol.com (FAQ): «un MOS» = dispositivo capaz de guardar objetos de medios (CG, audio, *still store*, vídeo); se supone equipo no lineal, no es requisito.
-- mosprotocol.com («In General»): NCS crea/modifica/borra información editorial y *playlists*; MOS, objetos de medios y sus metadatos. 3 tipos de mensajes: *Descriptive Data* (servidor empuja datos a NCS), *Playlist Exchange* (NCS manda la lista al servidor), *Status Exchange* (estado mutuo de clips/sistema/órdenes de emisión).
-- mosprotocol.com: transporte típico TCP/IP por *sockets*; texto etiquetado unicode; cada versión es superconjunto de la anterior. Vigentes: v4.0 (7-VI-2019, *Secure Web Sockets*); v2.8.5 (7-IX-2017, *Socket*); v3.8.4 (11-II-2011, *Web Services*).
-- mosprotocol.com: lo desarrollan fabricantes, proveedores de software y usuarios desde Orlando 1998 (conferencia ENPS de AP); más de 150 empresas en 2021. No es norma oficial: se presentará a organismos de normalización más adelante.
-- Salvedad: MOS llama NCS al sistema de redacción; industria (Avid) también dice NRCS — son lo mismo.
-- Avid, *MediaCentral | Newsroom Management* (iNEWS), ejemplo de NRCS de mercado: escaletas, tiempos, cambios en directo, integrado con automatización, apuntador, grafismo, emisión (publicidad de fabricante).
-- Libro de estilo, 6.1 (p. 88): **«la escaleta es el documento básico»**; hecho noticioso, formato, identificación, tiempo asignado/real, autor, procedencia, presentador, acotaciones técnicas; partes de emisión añaden vías de sonido, coleo, rótulos, observaciones, pie del texto.
-- Libro de estilo, 6.1: cambio de escaleta se comunica **«inmediata y simultáneamente»** a todos los afectados. 6.1.1: **«son inadmisibles»** los cambios de nombre de un vídeo; excepción — vídeo terminado antes de escaletar, lo traslada el equipo de edición.
-- Libro de estilo, 6.1.2: el redactor fija en escaleta sus textos definitivos, rótulos (orden/ubicación) y pasos de locutor; disponibles para el equipo y ediciones posteriores. No describe formato de guion ni nombra el programa informático de CSRTV.
-- Manfredi (2010, p. 138): Avid instalado **«en todos los Servicios Informativos de RTVE y, en el caso de Andalucía, en Canal Sur»**; dato de 2010, no consta vigente.
-- Manfredi (2010, p. 139-140): iNews = escritura de noticias con agencias, textos y escaletas de todos los informativos; periodista conoce duración y lugar de emisión al recibir la noticia. iNews Instinct (Avid, 2005): modo sencillo de edición de vídeo y guion; ajusta audio y minutado.
-- No consta documento publicado: qué sistema de redacción, MAM ni servidores usa CSRTV hoy.
-- Oficio (RTVE): 2 niveles de edición — ligera en puesto del redactor (baja resolución) y completa en sala del montador (alta resolución); el conformado une ambas. Edición de informativos (minutos, redactor, sencilla, prioridad tiempo) frente a postproducción (días, montador, completa, prioridad calidad).
-- Oficio: la edición debe estar donde está el redactor (copia de trabajo evita mover material de alta tasa); se edita mientras se ingesta. El sistema de redacción es la pieza más integrada de la casa; se elige por sus INTERFACES.
+- Oficio (RTVE, sin fuente citada): *newsroom* = redacción y su sistema (NRCS); contiene escaleta, guion, referencias a material, cronometría, estados, agenda/teletipos.
+- Oficio: la escaleta es la base de datos; todo lo demás cuelga de ella.
+- Oficio: cronometra en tiempo real; es el único sitio donde se cambia algo; habla con los demás equipos por protocolo (MOS).
+- mosprotocol.com (portada, leída 25-09-2026): MOS = **«An evolving protocol for communications between Newsroom Computer Systems (NCS) and Media Object Servers (MOS)»**.
+- mosprotocol.com, FAQ: reparto — NCS crea/modifica/borra información editorial y *playlists*; MOS crea/modifica/borra objetos de medios y sus metadatos.
+- mosprotocol.com, FAQ: tres tipos de mensajes — *Descriptive Data for Media Objects*, *Playlist Exchange*, *Status Exchange*.
+- mosprotocol.com, FAQ: transporte **«TCP/IP network via socket communication»**; texto etiquetado unicode; cada versión «super set» de la anterior.
+- Especificación MOS 2.8.5/4.0: mensajes XML según DTD MOS, **«must be well formed XML, but are not required to be valid»**; codificación ISO 10646 UCS-2 *big endian*.
+- Especificación MOS 2.8.5: puertos por defecto 10540 (redacción), 10541 (servidor), 10542 (búsquedas), seleccionables por proveedor desde la 2.5. MOS 4.0: web sockets, canales mom/ro/aux = 10540/10541/10542.
+- mosprotocol.com, «Current Versions»: 4.0 (7-VI-2019, *Secure Web Sockets*); 2.8.5 (7-IX-2017, *Socket*); 3.8.4 (11-II-2011, *Web Services*).
+- mosprotocol.com: origen en Orlando, 1998, conferencia de desarrolladores ENPS de AP; más de 150 empresas participantes (2021); **no es norma oficial** de organismo de normalización.
+- Avid, página de producto *MediaCentral | Newsroom Management* (iNEWS, leída 25-09-2026): **«Build rundowns, adjust timing, go live and make real-time changes—even on-air»**; integración con automatización de estudio, apuntador, grafismo, servidores de emisión.
+- Libro de estilo CSTV (2004), 6.1 (p. 88): la escaleta **«es el documento básico en el que se plasma y ordena el contenido de un programa»**, con hecho noticioso, formato, tiempos, autor, procedencia, identificación del presentador y acotaciones técnicas.
+- Libro de estilo, 6.1 (p. 88): cambio de escaleta se comunica **«inmediata y simultáneamente, a todas las personas y departamentos afectados»**.
+- Libro de estilo, 6.1.1 (p. 88): **«Son inadmisibles los cambios en la identificación de un vídeo [...] El nombre de una noticia en escaleta debe respetarse por obligación»**; excepción, vídeo terminado antes de la escaleta.
+- Libro de estilo, 6.1.2 (p. 89): el redactor fija en escaleta **«sus textos definitivos (incluidos los rótulos con su orden y ubicación precisa)»**.
+- Manfredi (2010, p. 138): sistema Avid instalado **«en todos los Servicios Informativos de RTVE y, en el caso de Andalucía, en Canal Sur»** (dato de 2010, no consta que siga vigente).
+- Manfredi (2010, pp. 139-140): periodista trabaja en iNews de Avid; iNews Instinct (2005) permite montar con vídeo y guion en el propio puesto.
+- No consta en documento publicado qué sistema de redacción, MAM ni servidores usa CSRTV hoy.
+- Oficio (RTVE): edición ligera en el puesto del redactor (copia de baja resolución) vs. edición completa en sala del montador (alta resolución); el conformado une ambas.
+- Oficio (RTVE): edición de informativos en minutos, sencilla, prioridad a tiempo, frente a postproducción en días, completa, prioridad a que esté bien.
+- Oficio: edición tiene que estar donde está el redactor; el material se edita mientras se ingesta (prestación clave para informativos).
 
 ## 5. Flujos de producción integrados
 
-- Oficio (RTVE): flujo integrado = todas las etapas sobre el mismo material y datos, sin copias sueltas ni pasos a mano.
-- Oficio: 4 etapas — ingesta (operadores de ingesta), gestión (catalogar/buscar/controlar versiones), edición (redactores y montadores), emisión (control de emisión); el archivo atraviesa las cuatro. Cada etapa se encuentra por DATOS DESCRIPTIVOS, no por nombre de fichero.
-- Oficio (RTVE): 4 vías de ingesta — tarjeta/cámara (copia+verificación), tiempo real desde señal (canal ocupado todo el acto), agencia/intercambio (normalización), archivo (restauración). 3 reglas: con metadatos o no se ingesta; se genera copia ligera al ingestar; la ingesta en tiempo real ocupa un recurso entero. No se repite; se graba por partida doble en dos sistemas independientes.
-- Oficio: 3 datos que deciden si se encuentra — quién lo trae, de qué es, qué derechos tiene.
-- Oficio (RTVE): 3 redes separadas — señal (vídeo/audio tiempo real), producción (ficheros/baja resolución/control), ofimática (correo/internet, expuesta); si producción cuelga de ofimática, un incidente de seguridad puede parar la emisión.
-- Oficio (RTVE): debilidades y respaldo — redacción (escaleta en papel, manual), servidor de emisión (segundo replicado), almacenamiento (redundancia+copia del día), red (doble camino), estudio (alternativo), energía (SAI+grupo). 2 reglas: la redundancia se prueba; la degradación debe ser ordenada y ensayada.
-- Oficio: la sala debe tener localizada cada pieza y avisar en cuanto falla una entrega, sin esperar a que la echen en falta.
-- Convenio, ficha 5212206, lectura de oficio sobre las 5 etapas: recibir/enviar enlaces, configurar sistemas → ingesta; editar/postproducir → edición; control técnico de calidad, corregir vídeo/audio → control; etiquetar/introducir en base de datos → emisión; compactar → archivo. Ficha incluye también grabar/emitir/reproducir y repicar cintas (no ligadas al flujo en la tabla).
-- Convenio: no define «compactar» ni la base de datos/automatización de la casa; la lectura por etapas es de oficio.
-
-## Aplicación práctica
-
-- Ingesta a emisión (oficio): nace en escaleta con nombre fijo (6.1; 6.1.1) → tarjeta o señal grabada, verificada → copia ligera automática si hay carpeta vigilada activa → montador busca en MAM/PAM por datos, monta con escaleta de planos (6.3) y texto del redactor (6.1.2) → rótulo, plantilla de la casa → exporta con *preset* de la casa, nombre de escaleta → revisa nombre/duración/inicio/fin/audio → entrega al servidor esperado, datos para automatización (MOS) → tras emisión, vuelve al sistema con metadatos.
-- Cambio de escaleta a 20 min (oficio): se cambia en escaleta, se comunica desde su origen (6.1); orden/duración llegan solos si integrado; nombre no cambia (6.1.1); se duplica, recorta, exporta con mismo *preset*, se revisa duración real; sustituye a la anterior con el mismo nombre, se avisa a emisión.
-
-## Lo que este tema no da, y dónde está
-
-- Sistema de redacción, MAM/PAM, servidores de emisión y automatización que usa CSRTV hoy: no consta (dato Avid es de 2010). Campos de la base de datos de emisión automatizada y significado de «compactar»: el convenio no lo dice.
-- Definición normalizada de MAM/PAM: no se ha encontrado. Contenido técnico de las especificaciones MOS: no leído, sólo portada/versiones/FAQ.
-- Carpetas vigiladas de Adobe Media Encoder, diseño de .mogrt en After Effects y página de Avid sobre *Asset Management*: no leídos.
-- Remite: sistemas de edición/*proxies*/conformado/exportación → tema 3; formatos de entrega → tema 4; montaje de noticias → tema 5; grafismo/rótulos → tema 7; ingesta/verificación/metadatos/archivo → tema 8; coordinación con otras áreas → tema 9; plataformas → tema 12; urgencia/versionado → tema 14; nomenclatura/trazabilidad → tema 15.
+- Definición de oficio: flujo integrado = todas las etapas sobre el mismo material y los mismos datos, sin copias ni pasos a mano.
+- Oficio (RTVE): etapas — ingesta, gestión, edición, emisión; el archivo atraviesa las cuatro, no es una quinta.
+- Oficio: cada etapa encuentra el material por sus datos descriptivos, no por el nombre de fichero.
+- Oficio (RTVE): vías de ingesta — tarjeta/cámara (copia y verificación), tiempo real (canal ocupado), agencia/intercambio (normalización), archivo (restauración).
+- Oficio (RTVE): se ingesta con metadatos o no se ingesta; se genera copia ligera al ingestar; ingesta en tiempo real ocupa un recurso entero; grabación doble por ser irrepetible.
+- Oficio (RTVE): tres redes — de señal (tiempo real), de producción (ficheros/proxy/control), ofimática (expuesta a internet, por eso separada).
+- Oficio (RTVE): degradación por fallo — sistema de redacción (papel/manual), servidor de emisión (segundo servidor replicado), almacenamiento (redundancia propia), red (doble camino), estudio (alternativo con escaleta cargada), energía (SAI y grupo).
+- Oficio: la redundancia se prueba; la degradación tiene que ser ordenada y ensayada.
+- Convenio, ficha 5212206 (p. 190), tareas literales leídas sobre el flujo (oficio): **«Recibir y enviar enlaces»**, **«Configurar sistemas de edición y preparar los materiales a utilizar»** (ingesta); **«Editar y postproducir material audiovisual con criterios de narrativa audiovisual»** (edición); **«Realizar el control técnico de calidad y corregir video y audio para su emisión y/o venta»** (control); **«Etiquetar, grabar e introducir en base de datos [...] emisión automatizada»** (emisión); **«Compactar para el archivo de material audiovisual»** (archivo).
+- Ficha 5212206: otras tareas no ligadas al flujo — **«Grabar, emitir y reproducir videos [...] con selección alternativa a la realización»**; **«Repicar cintas orientadas a la producción, emisión y comercialización»**; lista **«no constituye una lista cerrada de funciones»**.
+- Aplicación práctica (oficio, con fuentes puntuales del tema): pieza de ingesta a emisión, en 9 pasos (nace en escaleta con nombre fijo, entradas verificadas/grabadas con metadatos, copia ligera automática, búsqueda en MAM/PAM, montaje con escaleta de planos —Libro de estilo, 6.3—, rótulo con plantilla o desde grafismo, exportación con *preset* de la casa, revisión, entrega al servidor con MOS, devolución al sistema).
+- Aplicación práctica: cambio de escaleta a 20 minutos — cambio se comunica desde el origen (Libro de estilo 6.1); nombre no cambia (6.1.1); se duplica antes de recortar, se exporta con mismo *preset*, se sustituye en servidor y se avisa a emisión.

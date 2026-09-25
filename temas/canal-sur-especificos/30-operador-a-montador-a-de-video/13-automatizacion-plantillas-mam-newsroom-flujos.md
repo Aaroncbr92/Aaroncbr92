@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Operador/a Montador/a de Vídeo · punto 13 |
 | Sirve para | Operador/a Montador/a de Vídeo de Canal Sur (grupo B04) y la prueba práctica del puesto |
 | Fuente | Sin norma. X Convenio Colectivo de la RTVA (anexo III, fichas del puesto y del encargado); Libro de estilo de Canal Sur Televisión (2004), cap. 6, para la escaleta; Manfredi (2010) para el sistema de redacción en Canal Sur; especificación del protocolo MOS en su web oficial (mosprotocol.com); EBU Tech 3293 (EBUCore) para los metadatos; documentación de fabricante (Avid, Blackmagic Design, Adobe) para los productos que se citan como ejemplo; lo demás, oficio declarado como tal |
-| Redacción que se estudia | X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014); páginas del proyecto MOS (versiones vigentes 4.0, 2.8.5 y 3.8.4); EBU Tech 3293 v1.10 (abril de 2020); manual de DaVinci Resolve 21; páginas de ayuda de Adobe Premiere y de producto de Avid; todo leído el 25-09-2026. Libro de estilo de Canal Sur (1.ª ed., marzo de 2004) y Manfredi (2010), leídos el 24-09-2026 |
-| Extensión | 8.900 palabras aproximadamente |
+| Redacción que se estudia | X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014); páginas del proyecto MOS (versiones vigentes 4.0, 2.8.5 y 3.8.4) y especificaciones 2.8.5 y 4.0; EBU Tech 3293 v1.10 (abril de 2020); manual de DaVinci Resolve 21; páginas de ayuda de Adobe Premiere y de producto de Avid; todo leído el 25-09-2026. Libro de estilo de Canal Sur (1.ª ed., marzo de 2004) y Manfredi (2010), leídos el 24-09-2026 |
+| Extensión | 9.300 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -42,9 +42,9 @@ automatiza; qué es una plantilla de rótulo, de exportación o de nombre, qué 
 qué funciones tiene un MAM, qué diferencia un MAM de un DAM y qué se entiende por PAM (y si hay
 definición normalizada); para qué sirve la copia de baja resolución; qué dice EBUCore de los
 metadatos; qué contiene un sistema de redacción y qué hace útil su escaleta; qué es MOS, entre quién
-se habla, qué tres tipos de mensajes intercambia, quién lo desarrolla, si es norma oficial y cuáles
+se habla, qué tres tipos de mensajes intercambia, en qué formato van y por qué puertos, quién lo desarrolla, si es norma oficial y cuáles
 son sus versiones vigentes; qué dice el Libro de estilo de la escaleta y de su nombre; qué sistema
-consta en Canal Sur y con qué fecha; cuáles son las etapas del flujo integrado y qué atraviesa
+consta en Canal Sur y con qué fecha; qué tareas da la ficha del puesto y si son lista cerrada; cuáles son las etapas del flujo integrado y qué atraviesa
 todas; qué vías de ingesta hay y qué exige cada una; por qué la edición de informativos se hace sobre
 copia ligera y qué es editar mientras se ingesta; qué es el conformado; qué almacenamientos y redes
 conviven y por qué se separan; cómo se degrada un flujo cuando falla una pieza. En la prueba práctica:
@@ -482,6 +482,20 @@ Lo que hay que saber de él (portada, «Current Versions» y FAQ de mosprotocol.
   network via socket communication»**; los mensajes **«will make use of a tagged text unicode format»**;
   y **«Each new version of the protocol will be a "super set" of the previous version»**, para que una
   máquina antigua siga hablando con una nueva con un vocabulario más reducido.
+- **En qué va escrito cada mensaje.** La especificación (versiones 2.8.5 y 4.0, apartado «General
+  Explanation of MOS message format and construction») concreta ese «tagged text»: **«The MOS Protocol
+  is fundamentally a tagged text data stream»**, cuyos campos van delimitados **«using Extensible
+  Markup Language (XML™) tags defined in the MOS Data Type Definition (DTD)»**; en las versiones 1.x el
+  formato era propio. Los mensajes **«must be well formed XML, but are not required to be valid»**, y
+  cada uno **«begins with the root tag ("mos")»**, seguido de los identificadores del servidor y de la
+  redacción (**«"mosID" and "ncsID"»**) y del tipo de mensaje. La codificación es **«ISO 10646
+  (Unicode) in UCS-2»**, con el byte de mayor peso primero (*big endian*). En la versión 2.8.5 la
+  redacción escucha por defecto en el puerto TCP/IP 10540 (**«"Media Object Metadata" port»**) y el
+  servidor en el 10541 (**«"Running Order" port»**); son números de ejemplo, porque desde la versión 2.5
+  los puertos **«are vendor selectable but site specific»**, y las búsquedas de objetos
+  (*mosReqObjList*) van aparte, por el 10542. La 4.0 pasa a *web sockets* y, según la especificación,
+  conserva la lógica de los dos puertos: cada conexión lleva un canal, **«mom = MOS Lower (10540)»**,
+  **«ro = MOS Upper (10541)»** y **«aux = MOS Obj Req (10542)»**.
 - **Versiones vigentes.** La página de versiones actuales da tres: **«MOS Version 4.0 was published on
   June 7th, 2019»** (*Secure Web Sockets*); **«MOS Version 2.8.5 was published on September 7, 2017»**
   (*Socket*); y **«MOS Version 3.8.4 was published on February 11, 2011»** (*Web Services*).
@@ -717,7 +731,9 @@ el esquema anterior (la lectura es de oficio; las tareas, literales, son las de 
 La tabla elige las tareas que tocan el flujo; la ficha tiene otras dos: **«Grabar, emitir y reproducir
 videos para programas en todo tipo de eventos y producciones con selección alternativa a la
 realización»**, la más cercana a la emisión, y **«Repicar cintas orientadas a la producción, emisión y
-comercialización»**. El convenio no define «compactar» ni dice qué base de datos ni qué sistema de automatización usa la
+comercialización»**. Y la ficha advierte que su definición **«no constituye una lista cerrada de funciones»**:
+el trabajador debe realizar además **«todas aquellas tareas que, de acuerdo a su cualificación profesional, le
+sean encomendadas por su inmediato superior»**. El convenio no define «compactar» ni dice qué base de datos ni qué sistema de automatización usa la
 casa; la columna de la derecha es costumbre de oficio, no descripción de Canal Sur.
 
 ## Aplicación práctica
@@ -773,8 +789,8 @@ moverla de bloque.
   significa «compactar»: el convenio no lo dice.
 - Una definición normalizada de MAM y PAM: no se ha encontrado; la distinción entre ellos es costumbre
   de oficio.
-- El contenido técnico de las especificaciones MOS (estructura de los mensajes, puertos, esquemas): no
-  se ha leído; sólo la portada, las versiones vigentes y la FAQ del proyecto.
+- De las especificaciones MOS se da sólo el formato general de los mensajes, su codificación y los
+  puertos o canales; el catálogo de mensajes uno a uno, sus etiquetas y los esquemas de metadatos, no.
 - Las carpetas vigiladas de Adobe Media Encoder: su documentación no se pudo leer y el tema no dice
   nada de ellas. De las plantillas .mogrt se da lo que dice la ayuda de Premiere; cómo se diseñan en
   After Effects, no.
@@ -797,6 +813,7 @@ moverla de bloque.
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9: 6.1, 6.1.1, 6.1.2 y 6.3 (p. 91) | Escaleta, partes de emisión, cambios, nombre del vídeo, textos del redactor; escaleta de planos para editar | 24-09-2026 (pasajes copiados del tema 7 del específico de Redactor/a); 6.3, 25-09-2026 |
 | Antonio Manfredi Díaz, «Escribir para televisión. La imagen manda», en R. Reig García (ed.), *La dinámica periodística: perspectiva, contexto, métodos y técnicas*, Sevilla, Asociación Universitaria Comunicación y Cultura, 2010, pp. 129-145, ISBN 9788493760007 | iNews de Avid en Canal Sur (2010); rótulos que van directamente a la emisión | 24-09-2026 (pasaje copiado del tema 7 del específico de Redactor/a) |
 | MOS Project, mosprotocol.com: portada, «Current Versions» y «MOS FAQ» | Definición de MOS, objetos de medios, reparto NCS/MOS, tres tipos de mensajes, objetivos, versiones vigentes, origen y carácter no oficial | 25-09-2026 |
+| *Media Object Server (MOS) Protocol* v2.8.5 (rev. 558, 7-IX-2017; PDF pp. 11, 13, 14, 35 y 58) y v4.0 (rev. 560, 7-VI-2019; PDF pp. 9 y 18), mosprotocol.com | Formato XML de los mensajes, etiqueta raíz, codificación UCS-2, puertos 10540/10541/10542 (por defecto, seleccionables) y canales de la 4.0 | 25-09-2026 |
 | EBU Tech 3293, *EBUCore Metadata Set*, v1.10, abril de 2020, § 1 (p. 7) y § 2.1 (p. 8) | Los metadatos como «glue»; requisito mínimo; «Dublin Core for media» | 25-09-2026 |
 | Blackmagic Design, *DaVinci Resolve 21 Reference Manual*: cap. 8 (pp. 198, 215-217), cap. 15 (pp. 345-346), cap. 56 (p. 1215), cap. 187 (pp. 4185, 4193-4194, 4215), cap. 201 (p. 4418) | Tareas en segundo plano, carpetas vigiladas del Proxy Generator, variables de metadatos, plantillas de rótulos, cola de *render*, *presets* en .xml, *render* remoto, integraciones y acceso a MAM | 25-09-2026 |
 | Adobe, ayuda de Premiere: «Export directly to Adobe Media Encoder» e «Ingest and proxy workflows in Premiere» | Cola de Media Encoder y *preset* por defecto; flujo de *proxies* | 25-09-2026 |

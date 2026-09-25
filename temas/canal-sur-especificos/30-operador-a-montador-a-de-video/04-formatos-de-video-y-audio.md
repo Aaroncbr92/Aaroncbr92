@@ -762,8 +762,9 @@ cuenta (cálculo, con los parámetros de la BT.709 y de la BT.2100):
   unos 8.294 Mb/s de imagen activa.
 
 La relación de compresión es el cociente: un códec de 50 Mb/s sobre un 1080p25 de 10 bits comprime
-unas 20 veces (1.037 ÷ 50); un DNxHD a 121 Mb/s en 1080i/50, unas 8,5 veces (cálculo, sobre
-las tasas de § 6).
+unas 20 veces (1.037 ÷ 50); un DNxHD de 8 bits a 121 Mb/s en 1080i/50, unas 7 veces (829 ÷ 121; la
+imagen de 8 bits sin comprimir son unos 829 Mb/s, con los mismos parámetros de arriba salvo la
+profundidad; cálculo, sobre las tasas de § 6).
 
 ### La tasa y la capacidad
 

@@ -89,3 +89,14 @@ seguras 93/90 %, guías 1:1-4:5-9:16, seis estilos de fundido, duraciones ¼-½-
 - Modificado: el tema citado arriba.
 - Creado: este informe.
 - Volcado auxiliar del BOE-A-2002-18099 en el directorio temporal de trabajo (fuera del proyecto).
+
+## Adenda (relanzamiento de la fase 3, 25-09-2026)
+
+La fase 3 ya estaba hecha (arriba) y el tema había pasado refutación, remate y revisión final
+(`30-T07-final.md`). No se repite la verificación completa para no pisar el remate. Sólo se cierra
+el pendiente que dejó la revisión final:
+- **9 sin fuente** · § 5 «Los criterios del subtitulado», línea 1: «La norma española de subtitulado …»
+  → «La norma de subtitulado para personas sordas que cita la guía es la UNE 153010:2012 (AENOR)».
+  La guía de Burgos (p. 4 y bibliografía, releída el 25-09-2026) da «UNE 153010» y «AENOR. (2012)»,
+  sin llamarla española.
+Ficheros tocados: el tema (una línea) y este informe.

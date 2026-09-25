@@ -79,3 +79,65 @@ Instagram: hueco declarado, sin fuente oficial legible; no se propone ampliar).
 ## Ficheros tocados
 
 Sólo `30-T12-preguntas.md` y este informe. El tema no se ha modificado.
+
+---
+
+# Segunda ronda (fase 4 repetida sobre el tema rematado)
+
+Fecha de trabajo y de lectura: 25-09-2026 (el encargo fija «hoy» en 24-09-2026). Tema en su estado
+actual (commit b08a902; sin cambios en el árbol; 9.327 palabras con marcas). No corrijo. Se saltan en
+exactitud, como en la primera ronda, lo «Copiado del común» y lo «Copiado de RTVE sin cambios»
+(`30-T12-redaccion.md`); la cobertura mira el tema entero.
+
+## Exactitud: releído en la fuente (25-09-2026)
+
+| Pasaje | Fuente | Resultado |
+| --- | --- | --- |
+| § 2 relación de aspecto, relleno, barras, resoluciones | `youtube-ayuda-6375112.txt` (entera) | Literales ✓ |
+| § 2 Shorts; § 6 música y Content ID | `youtube-ayuda-15424877.txt` (entera) | Literales ✓ (menor 1) |
+| § 4 miniaturas | `youtube-ayuda-72431.txt` (entera) | Literales ✓ (laguna 1) |
+| § 6 codificación, tasas, audio, BT.709, BT.2020 | `youtube-ayuda-1722171.txt` (entera) | Literales ✓ |
+| § 1 y § 5, DNR 2026 | `reuters-dnr-2026-executive-summary.txt`, líneas 36-46, 238 | Literales ✓ |
+| § 2, § 3, § 4, § 6: Resolve 21 caps. 41, 127, 182, 187 (pp. 4187-4190) | `timelines.txt`, `scopes.txt`, `meters.txt`, `render.txt` | Literales y paginados ✓; los tres menores de la primera ronda, bien resueltos en el remate y la fase 5 bis |
+| § 4 art. 9 LGCA; § 6 art. 101.1.g) | `BOE-A-2022-11311.md` | ✓ |
+
+Graves: ninguno.
+
+Menores (1):
+
+1. **§ 6 «Música y reclamaciones», primera viñeta · error 6 (salvedad omitida).** La cita arranca en
+   «puedes usar la mayoría de las canciones durante un máximo de 90 segundos…», pero la página la
+   precede de **«Puedes usar cualquier canción disponible en la Biblioteca de audio de Shorts.
+   Además,»**. Sin esa frase, el límite de 90/60/30 s parece la única regla. Propuesta: citar la
+   frase completa desde «Puedes usar cualquier canción…».
+
+Observación sin hallazgo: la ficha dice «8.800 palabras aproximadamente»; `indice.py` contó 8.886 en
+la fase 5 bis. Vale.
+
+Lentes: `refutar_prosa.py`, 0 hallazgos. Las lentes de norma no proceden: lo que cita norma es copiado
+del común o remisión.
+
+## Cobertura
+
+Las cinco rúbricas del enunciado (formatos verticales, clips, miniaturas, ritmo, distribución
+multiplataforma) tienen epígrafe propio, en su orden, y el supuesto las recorre. La laguna de la
+primera ronda (sacar un rango como fichero) está cubierta en § 3 «Sacar el clip como fichero».
+
+Lagunas (2, leves, fuente ya leída y citada):
+
+1. **Límite diario de miniaturas** (pregunta 6, a medias). La página dice qué hacer: **«Si aparece un
+   mensaje de error que dice "Límite de miniaturas personalizadas diarias superado" al intentar subir
+   una miniatura, inténtalo de nuevo pasadas 24 horas.»** (answer 72431). Una frase en § 4 «Lo que no
+   se puede poner».
+2. **Resoluciones entre 4K y 8K** (pregunta 9, no). **«En el 2022, empezamos a retirar la
+   compatibilidad con la reproducción en resoluciones de entre 4K y 8K. Por ejemplo, es posible que
+   ya no se pueda reproducir contenido en 5K.»** (answer 6375112). Una frase tras la lista de
+   resoluciones de § 2.
+
+## Preguntas
+
+`30-T12-preguntas.md`, segunda ronda: 15 (8 T, 7 P). 13 enteras, 1 a medias, 1 no.
+
+## Ficheros tocados
+
+Ampliados: este informe y `30-T12-preguntas.md` (sección «Segunda ronda»). El tema no se ha tocado.

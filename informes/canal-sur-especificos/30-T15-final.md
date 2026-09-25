@@ -40,3 +40,13 @@ ficha dice 8.000 aproximadamente).
 
 Modificado: el tema (6 cambios). Creado: este informe. Copia previa del tema y extractos del PDF, sólo en
 el scratchpad.
+
+## Relanzamiento (25-09-2026)
+
+La fase 5 bis se volvió a encargar con la revisión ya aplicada. El tema no ha cambiado desde el último
+commit y conserva las seis correcciones de arriba. Se volvieron a leer en la fuente, el 25-09-2026, los
+datos que tocó esta revisión: LAN o subredes distintas (Resolve 21, p. 4329); composiciones en Fusion y
+correcciones de color permitidas con el *bin* bloqueado (p. 4333); ocho copias horarias (p. 90), cinco
+diarias (p. 91), dos y dos (p. 93), cada 10 minutos con seis copias (pp. 90 y 93); y *Libro de Estilo*
+3.17.1.5, «El código de tiempo que se aplicará será idéntico», en impersonal. Todo está confirmado.
+No se ha tocado el tema. Fichero tocado: este informe.

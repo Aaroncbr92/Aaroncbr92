@@ -8,7 +8,7 @@
 | Sirve para | Operador/a Montador/a de Vídeo de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Carta del Servicio Público de la RTVA 2024-2029 y Contrato-programa RTVA 2024-2026; páginas oficiales de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas y codificación); manual de referencia de DaVinci Resolve 21 (Blackmagic Design); Reuters Institute, *Digital News Report 2026*; Manual de Estilo de RTVE, capítulo 4, como pauta de oficio. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; páginas de ayuda de YouTube tal como estaban el 25-09-2026 (son páginas vivas y cambian); manual de DaVinci Resolve 21; resumen ejecutivo del *Digital News Report 2026* (junio de 2026) |
-| Extensión | 8.800 palabras aproximadamente |
+| Extensión | 8.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -236,6 +236,9 @@ YouTube lo explica en su página de ayuda «Resoluciones de vídeo y relaciones 
 - Resoluciones recomendadas para 16:9: **«2160p (4K): 3840x2160»**, **«1440p (2K): 2560x1440»**,
   **«1080p (HD): 1920x1080»**, **«720p (HD): 1280x720»**, y por debajo 480p (854 × 480), 360p
   (640 × 360) y 240p (426 × 240); por encima, **«4320p (8K): 7680x4320»**.
+- Entre 2160p (4K) y 4320p (8K): **«En el 2022, empezamos a retirar la
+  compatibilidad con la reproducción en resoluciones de entre 4K y 8K. Por ejemplo, es posible que ya
+  no se pueda reproducir contenido en 5K.»**
 
 La página no da resoluciones para el vertical. Las que se usan salen de girar el cuadro: una pieza
 vertical en HD es 1080 × 1920, el cuadro de 1920 × 1080 puesto en vertical. El preajuste de TikTok de
@@ -439,7 +442,10 @@ odio»**, **«Violencia»** o **«Contenido dañino o peligroso»**. **«Si se r
 que se te retiren los privilegios de utilizar miniaturas personalizadas durante 30 días o que incluso
 se cancele tu cuenta.»** Además, **«Un canal puede subir un número limitado de miniaturas personalizadas
 al día»**; el límite puede variar según la región, el país o el historial del canal, las faltas por
-derechos de autor pueden influir en él y las faltas por las Normas de la Comunidad influyen en él.
+derechos de autor pueden influir en él y las faltas por las Normas de la Comunidad influyen en él. Si
+salta el aviso, la página dice qué hacer: **«Si aparece un mensaje de error que dice "Límite de
+miniaturas personalizadas diarias superado" al intentar subir una miniatura, inténtalo de nuevo
+pasadas 24 horas.»**
 
 Para una televisión pública hay un límite anterior al de la plataforma: la miniatura es parte de la
 información, y el principio de veracidad del artículo 9 LGCA alcanza a los informativos en cualquier
@@ -656,9 +662,10 @@ en el tema 14 del específico de Redactor/a.
 Las plataformas identifican automáticamente la música y el material ajeno que se sube, y eso condiciona
 la versión para redes. En YouTube (página de los Shorts de tres minutos, leída el 25-09-2026):
 
-- Música en Shorts, canales estándar: **«puedes usar la mayoría de las canciones durante un máximo de
-  90 segundos en un Short de hasta tres minutos. Sin embargo, algunas pistas pueden estar limitadas a
-  60 o 30 segundos.»** La música sin regalías de la Biblioteca de audio de YouTube **«no recibirá
+- Música en Shorts, canales estándar: **«Puedes usar cualquier canción disponible en la Biblioteca de
+  audio de Shorts. Además, puedes usar la mayoría de las canciones durante un máximo de 90 segundos en
+  un Short de hasta tres minutos. Sin embargo, algunas pistas pueden estar limitadas a 60 o 30
+  segundos.»** La música sin regalías de la Biblioteca de audio de YouTube **«no recibirá
   ninguna reclamación de derechos de autor»**.
 - Reclamaciones: **«A partir del 24 de septiembre del 2026, los Shorts nuevos de más de un minuto (pero
   menos de tres) que tengan una reclamación de Content ID activa ya no se bloquearán automáticamente y

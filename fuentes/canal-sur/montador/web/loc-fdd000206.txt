@@ -1,0 +1,236 @@
+
+
+ MXF File, OP1a, Lossless JPEG 2000 in Generic Container
+
+ Digital Preservation Home | Digital Formats Home    
+
+ Sustainability of Digital Formats: Planning for Library of Congress Collections
+
+ Introduction | Sustainability Factors | Content Categories | 
+ Format Descriptions | Contact
+
+ Printer-friendly version   
+
+-->
+
+Format Description Categories >> 
+ Browse Alphabetical ListMXF File, OP1a, Lossless JPEG 2000 in Generic Container
+
+>> BackTable of Contents
+ Identification and description
+
+ Local use
+
+ Sustainability factors
+
+ Quality and functionality factors
+
+ File type signifiers
+
+ Notes
+
+ Format specifications
+
+ Useful references
+
+ Format Description Properties
+
+ ID: fdd000206
+
+ Short name: MXF_OP1a_JP2_LL
+
+ Content categories: 
+ moving-image, sound
+
+ Format Category:
+ file-format, encoding
+
+ Other facets: 
+ container-wrapper, binary
+
+ Last significant FDD update:
+ 2025-05-22
+
+ Draft status: Partial
+
+Identification and description 
+
+ Full name
+ MXF Operational Pattern 1a (OP1a), with Lossless JPEG 2000 in Generic Container.
+
+ Description
+
+ MXF OP1a file with a video essence encoded as a series of frame images, each encoded using JPEG 2000 core coding. One expert stated that the frame images could be either fully realized JPEG 2000 files (jp2 extension), or simple JPEG 2000 codestreams.
+
+ As noted in SMPTE MXF Archive and Preservation Format Registered Disclosure Document (RDD 48), see also MXF_RDD48, "this encoding, especially in the lossless or reversible mode, is typically selected by an archive that is formatting or reformatting content as a part of its own pre-ingest or ingest activity, e.g., transferring content from a videotape carrier, or scanning film, and also prefers to store a reduced-data file as compared to an uncompressed file." 
+
+ The specifics about the carriage of this encoding is detailed in SMPTE ST 422, Material Exchange Format — Mapping JPEG 2000 Codestreams into the MXF Generic Container (available from SMPTE for purchase).
+
+ ST 422 details six use cases for the carriage of lossy and lossless JPEG 2000 in the Generic Container:
+
+ Frame-based wrapping – “FU” Undefined
+
+ Frame-based wrapping – “P1” Progressive
+
+ “I1” Interlaced Frame Wrapping, 1 field per KLV Element
+
+ “I2” Interlaced Frame Wrapping, 2 fields per KLV Element
+
+ “F1” Field Wrapping, 1 field per KLV Element
+
+ “Cn” Clip-based wrapping
+
+ Production phase
+ Middle state
+
+ Relationship to other formats
+
+     Subtype of
+ MXF_OP1a, 
+ MXF Operational Pattern OP1a
+
+     Has subtype
+ MXF_SAMMA, 
+ MXF SAMMA Profile (interim description)
+
+     Has subtype
+ MXF_RDD48, 
+ MXF Archive and Preservation Format Registered Disclosure Document (SMPTE RDD 48)
+
+     Used by
+ IMF_Package, 
+ Interoperable Master Format (IMF)
+
+     Contains
+ J2K_C_LL, 
+ JPEG 2000 Part 1, Core Coding, Lossless Compression
+
+     May contain
+ Sound essences and other elements, not described at this time.
+
+Local use 
+
+ LC experience or existing holdings
+ See MXF
+
+ LC preference
+ See MXF
+
+Sustainability factors
+
+ Disclosure
+ Open standard. MXF developed by the Society of Motion Picture and Television Engineers (SMPTE), a member of the American National Standards Institute (ANSI). JPEG 2000 developed by Joint Technical Committee ISOAEC JTC 1, Information technology, Subcommittee SC 29, in collaboration with ITU-T.
+
+     Documentation
+ MXF: SMPTE 378M-2004, Material Exchange Format (MXF) -- Operational pattern 1A (Single Item, Single Package) (and other specifications); JPEG 2000: ISO/IEC 15444-1:2000. Information technology -- JPEG 2000 image coding system -- Part 1: Core coding system.
+
+ Adoption
+
+ MXF OP1a is supported in a number of systems; see MXF. While popular in the broadcast community, some in the archival sector are moving away towards FFV1/MKV. See From MXF/JPEG2000 to MKV/FFV1: why we’re switching to a new file format see JP2_FF for a discussion about this decision at meemoo, Flemish Institute for Archives in Belgium.
+
+     Licensing and patents
+ See MXF and J2K_C
+
+ Transparency
+ See MXF and J2K_C
+
+ Self-documentation
+ See MXF and J2K_C
+
+ External dependencies
+ See MXF and J2K_C
+
+ Technical protection considerations
+ See MXF and J2K_C
+
+Quality and functionality factors
+
+ Moving Image
+
+ Normal rendering
+ Supported
+
+ Clarity (high image resolution)
+ JPEG 2000 core coding
+
+ Functionality beyond normal rendering
+ See MXF.
+
+ Sound
+
+ Normal rendering
+ See MXF.
+
+ Multiple channels
+ See MXF.
+
+File type signifiers and format identifiers
+
+ Tag
+ Value
+ Note
+
+ Filename extension
+ See related format. 
+
+ See MXF
+
+ Internet Media Type
+ See related format. 
+
+ See MXF
+
+ Magic numbers
+ See related format. 
+
+ See MXF
+
+ Header partition pack key (MXF)
+ See related format. 
+
+ See MXF_OP1a.
+
+ Other
+ See related format. 
+
+ See MXF_OP1a for NARA File Format Preservation Plan ID.
+
+ Pronom PUID
+ See related format. 
+
+ See MXF_OP1a.
+
+ Wikidata Title ID
+ See related format. 
+
+ See MXF_OP1a.
+
+Notes
+
+ General
+
+ History
+
+Format specifications 
+
+ See MXF, MXF_OP1a and J2K_C.
+
+ SMPTE 378M-2004. Television — Material Exchange Format (MXF) — Operational Pattern 1a (Single Item, Single Package)
+
+ ISO/IEC 13818-2:2000 Information technology -- Generic coding of moving pictures and associated audio information: Video. Many other related specifications; see MPEG-2.
+
+Useful references
+URLs
+
+ See MXF, MXF_OP1a and J2K_C.
+
+ SMPTE RDD 48:2018 MXF Archive and Preservation
+Format Registered Disclosure
+Document (https://www.digitizationguidelines.gov/guidelines/rdd48-2018_published.pdf).
+
+ From MXF/JPEG2000 to MKV/FFV1: why we’re switching to a new file format from meemoo, Sept 2, 2020 (https://meemoo.be/en/news/from-mxfjpeg2000-to-mkvffv1-why-were-switching-to-a-new-file-format).
+
+Last Updated: 05/28/2025
+
+ Digital Preservation Home | Digital Formats Home    
+

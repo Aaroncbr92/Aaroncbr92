@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Montador/a de Vídeo · punto 8 |
 | Sirve para | Operador/a Montador/a de Vídeo de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), ficha del puesto 5212206; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Recomendaciones técnicas: EBU Tech 3293 (EBUCore, v. 1.10, 2020); CCSDS 650.0-M-3 (modelo OAIS, 2024). Documentación de fabricante y de organismos: Blackmagic Design (*DaVinci Resolve 21 Reference Manual*), Adobe (ayuda de Premiere, 2026, y documentación de XMP), Sony (*PXW-Z200/HXR-NX800 Help Guide*, 2024), programa LTO (lto.org), Digital Preservation Coalition, INCIBE. Lo demás, oficio declarado como tal |
+| Fuente | Sin norma jurídica. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), ficha del puesto 5212206; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Recomendaciones técnicas: EBU Tech 3293 (EBUCore, v. 1.10, 2020); CCSDS 650.0-M-3 (modelo OAIS, 2024). Documentación de fabricante y de organismos: Blackmagic Design (*DaVinci Resolve 21 Reference Manual*), Adobe (ayuda de Premiere, 2026, y documentación de XMP), Sony (*PXW-Z200/HXR-NX800 Help Guide*, 2024), programa LTO (lto.org), Digital Preservation Coalition, INCIBE, IETF (RFC 9043 y 9559), Biblioteca del Congreso de EE. UU. (*Sustainability of Digital Formats*). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Las ediciones citadas, leídas el 24 y el 25-09-2026; el Libro de estilo en su única edición publicada; el convenio en su texto publicado de 2014 |
-| Extensión | 11.000 palabras aproximadamente |
+| Extensión | 12.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -23,7 +23,11 @@ y de difusión (DIP, *Dissemination Information Package*) y su información de d
 conservación (PDI, *Preservation Description Information*); Organización Internacional de
 Normalización (ISO); formato de intercambio de material (MXF, *material exchange format*), con su
 patrón operacional OP-Atom; identificador único de material (UMID, *unique material identifier*);
-formato avanzado de autoría (AAF, *advanced authoring format*) y lista de decisiones de edición
+Grupo de Trabajo de Ingeniería de Internet (IETF, *Internet Engineering Task Force*), que publica sus
+documentos como peticiones de comentarios (RFC, *Request for Comments*); Asociación Internacional de
+Archivos Sonoros y Audiovisuales (IASA, *International Association of Sound and Audiovisual
+Archives*); grupo conjunto de expertos en fotografía (JPEG, *Joint Photographic Experts Group*),
+que da nombre a la codificación de imagen JPEG 2000; formato avanzado de autoría (AAF, *advanced authoring format*) y lista de decisiones de edición
 (EDL, *edit decision list*); fichero de intercambio de registros de Avid (ALE, *Avid Log Exchange*)
 y valores separados por comas (CSV, *comma-separated values*); formato de imagen de cine digital
 en secuencia (DPX, *Digital Picture Exchange*) y contenedor QuickTime de Apple (MOV); luminancia y diferencias de color (YUV) y rojo, verde y azul
@@ -63,7 +67,8 @@ algoritmos hay (CRC32, MD5, SHA, XXHASH64) y cuál es más rápido o más seguro
 cadena de custodia; qué es la regla 3-2-1; si un RAID es una copia de seguridad, qué nivel es el
 espejo y cuántos discos pide un RAID 5; qué metadatos pone la cámara y cuáles el montador; qué es
 XMP y dónde guarda Premiere los metadatos de fichero; qué es EBUCore y en qué se basa; qué es el modelo OAIS y qué son SIP, AIP y DIP; qué capacidad tiene una
-LTO-10 y si lee cintas de generaciones anteriores; qué es la LTFS; qué dice la ficha del puesto sobre
+LTO-10 y si lee cintas de generaciones anteriores; qué es la LTFS; en qué formato sin pérdidas se conserva el vídeo digitalizado (FFV1 en Matroska, JPEG 2000 en
+MXF); qué dice la ficha del puesto sobre
 el archivo. En la prueba práctica: ingestar una tarjeta con copia verificada a dos destinos,
 digitalizar un fragmento de cinta, poner metadatos útiles al material y preparar lo que va al
 archivo.
@@ -111,6 +116,7 @@ archivo.
   - [El modelo de referencia: OAIS](#el-modelo-de-referencia-oais)
   - [La cinta de archivo: la LTO](#la-cinta-de-archivo-la-lto)
   - [La LTFS: la cinta como un disco](#la-ltfs-la-cinta-como-un-disco)
+  - [El formato de conservación: códecs sin pérdidas](#el-formato-de-conservación-códecs-sin-pérdidas)
   - [El material de archivo en el montaje](#el-material-de-archivo-en-el-montaje)
 - [Aplicación práctica: del material que llega al material que se archiva](#aplicación-práctica-del-material-que-llega-al-material-que-se-archiva)
 - [Documentos técnicos que el tema cita](#documentos-técnicos-que-el-tema-cita)
@@ -314,7 +320,9 @@ lotes y el reconformado desde una EDL no saben qué cinta pedir. Por eso el nomb
 antes de capturar y es único. Resolve, en la captura inmediata, incluso nombra el clip con el
 código de tiempo convertido en número de cuadros según la cadencia de captura (**«based on the ingest
 frame rate»**): **«For example, 00086400.dpx is the file name of a clip captured at timecode
-01:00:00:00.»** (p. 562). Cómo se reconoce y se reenlaza un clip por nombre de cinta y código de tiempo, y el
+01:00:00:00.»** (p. 562). El número es el código de tiempo pasado a cuadros: una hora son 3.600 s,
+y 3.600 × 24 = 86.400, así que el ejemplo corresponde a 24 cuadros por segundo; a 25, el mismo
+código daría 00090000 (cálculo: el manual no dice la cadencia del ejemplo). Cómo se reconoce y se reenlaza un clip por nombre de cinta y código de tiempo, y el
 *Redigitize* de Avid, están en el tema 3.
 
 ### Lo que se revisa al digitalizar (oficio)
@@ -884,6 +892,41 @@ File System», lto.org, leída el 25-09-2026):
 La cinta sigue siendo secuencial: la LTFS dice dónde está cada fichero, pero la unidad tiene que
 llegar hasta él (oficio).
 
+### El formato de conservación: códecs sin pérdidas
+
+La LTO es el soporte; falta decir en qué formato de fichero se guarda lo que se digitaliza para
+conservarlo. Un códec sin pérdidas devuelve al descomprimir exactamente la imagen que recibió; el
+vídeo de trabajo con pérdidas (tema 4) pierde algo en cada generación, y por eso no es el formato
+de un máster de conservación (oficio). Dos combinaciones de códec y contenedor aparecen en la
+documentación publicada de archivos audiovisuales:
+
+- FFV1 en Matroska. El FFV1 lo describe la IETF en el RFC 9043 (agosto de 2021, de carácter
+  informativo): **«This document defines FFV1, a lossless, intra-frame video encoding format.»** y
+  **«Compared to uncompressed video, FFV1 offers storage compression, frame fixity, and
+  self-description, which makes FFV1 useful as a preservation or intermediate video format.»** La
+  versión 3 añade **«embedded Cyclic Redundancy Check (CRC) data to support fixity verification of
+  the encoding»**: la fijeza de «Verificación» va dentro del propio fichero. Según el campo de
+  control de errores del mismo RFC (§ 4.2.16), el CRC de 32 bits va siempre en el registro de
+  configuración y, si el codificador lo activa, también en cada porción (*slice*) del cuadro. El
+  contenedor Matroska lo define el RFC 9559 (octubre de 2024, de la vía de normas de la IETF):
+  **«This document defines the Matroska audiovisual data container structure»**. La Biblioteca del
+  Congreso de los Estados Unidos clasifica la combinación así, en su ficha del FFV1: **«FFV1 codec in the Matroska container is a 'preferred' format in the
+  Recommended Formats Statement for Video -- File-based moving image works.»** Y, según esa misma
+  ficha, las directrices de la IASA para la conservación de grabaciones de vídeo (IASA-TC 06, 2018)
+  **«recommends Matroska and FFV1»** para el vídeo analógico digitalizado y para cintas digitales.
+- JPEG 2000 sin pérdidas en MXF OP1a. Otra ficha de la Biblioteca del Congreso, la de esta combinación, recoge lo que dice el
+  documento de la SMPTE sobre el formato MXF de archivo y conservación (RDD 48): **«this encoding,
+  especially in the lossless or reversible mode, is typically selected by an archive that is
+  formatting or reformatting content as a part of its own pre-ingest or ingest activity, e.g.,
+  transferring content from a videotape carrier, or scanning film, and also prefers to store a
+  reduced-data file as compared to an uncompressed file.»** El transporte de JPEG 2000 en MXF lo
+  fija la norma SMPTE ST 422 (de pago, no leída).
+
+La tercera vía es guardar sin comprimir, a cambio de ficheros mayores; es con ella con la que el
+RFC 9043 compara el FFV1 (oficio para la sala: el máster de conservación es distinto del fichero con el que
+se monta; si se monta con material de archivo, se pide una copia de trabajo, el DIP del OAIS). Qué
+formato de conservación usa el archivo de CSRTV no consta en un documento publicado.
+
 ### El material de archivo en el montaje
 
 Lo que sale del archivo vuelve a la sala como un material más, con dos reglas del Libro de estilo que
@@ -918,7 +961,7 @@ hace el montador (oficio, con los datos del tema):
 
 | Documento | Qué se toma |
 |---|---|
-| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10-XII-2014, anexo III, ficha 5212206 (p. 190) | Objeto del puesto y tareas: configurar y preparar materiales, enlaces, compactar para el archivo, control de calidad, repicar cintas |
+| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10-XII-2014, anexo III, ficha 5212206 (p. 190) | Objeto del puesto y tareas: configurar y preparar materiales, enlaces, compactar para el archivo, control de calidad, repicar cintas; etiquetar para la emisión automatizada (remitida al tema 13) |
 | *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, 2004 | Revisar la grabación en el lugar (5.3.3, p. 82); rótulo de archivo (9.9.1, p. 166) |
 | Blackmagic Design, *DaVinci Resolve 21 Reference Manual* | *Clone Tool* y sumas de verificación (cap. 17, pp. 373-374); metadatos de clip (cap. 18, pp. 417-420 y 434); captura desde cinta (cap. 24, pp. 558-564) |
 | Adobe, «Ingest and proxy workflows in Premiere» (actualizada el 7-1-2026) | Qué es la ingesta en Premiere; verificación al copiar; ingesta y *proxy* combinados |
@@ -926,6 +969,10 @@ hace el montador (oficio, con los datos del tema):
 | EBU Tech 3293, *EBU Core Metadata Set (EBUCore)*, v. 1.10, abril de 2020 | Qué es EBUCore, su base en el Dublin Core, su alcance y su compatibilidad con IMF |
 | CCSDS 650.0-M-3, *Reference Model for an Open Archival Information System (OAIS)*, diciembre de 2024 | Definición de OAIS, «abierto», largo plazo, SIP, AIP, DIP, PDI y sus componentes, seis entidades funcionales, control de calidad en la ingesta, comprobación de errores, renovación de soportes, recuperación ante desastres |
 | LTO Program, «LTO Technology Roadmap», «LTO Generation Compatibility Details» y «Linear Tape File System» (lto.org) | Definición de LTO, generación vigente, capacidad y velocidad de la LTO-10, cartuchos de 30 y 40 TB, compatibilidad hacia atrás; LTFS |
+| IETF, RFC 9043, *FFV1 Video Coding Format Versions 0, 1, and 3* (agosto de 2021), y RFC 9559, *Matroska Media Container Format Specification* (octubre de 2024) | FFV1 sin pérdidas, fijeza por CRC en la versión 3 (registro de configuración y, opcional, cada porción); definición de Matroska |
+| Library of Congress, *Sustainability of Digital Formats*, fichas fdd000341 (FFV1) y fdd000206 (MXF OP1a con JPEG 2000 sin pérdidas) | FFV1 en Matroska como formato preferido; IASA-TC 06; lo que dice SMPTE RDD 48 del JPEG 2000 sin pérdidas; ST 422 |
+| JPEG, «About JPEG» (jpeg.org) | Nombre del comité JPEG |
+| IASA, página de inicio (iasa-web.org) | Nombre de la asociación |
 | Catálogo de la SMPTE, RP 210 | Retirada |
 
 Del tema cerrado de Cámara Operador (tema 7) vienen, con sus fuentes: Sony, *PXW-Z200/HXR-NX800
@@ -944,6 +991,9 @@ de copias de seguridad» (29-09-2021).
 - Qué campos del panel de metadatos de Premiere se escriben en el XMP del fichero y cuáles se quedan
   en el proyecto, y cómo se enlazan: la ayuda de Premiere que lo explica no se ha podido leer (el
   servidor de Adobe rechazó la descarga).
+- El texto de IASA-TC 06, de SMPTE RDD 48 y de SMPTE ST 422: no se han leído; lo que se dice de ellos
+  viene de las fichas de la Biblioteca del Congreso. Qué formato de conservación usa el archivo de
+  CSRTV: no consta publicado.
 - La edición ISO equivalente del modelo OAIS (ISO 14721) y su año: no se ha confirmado; se cita el
   documento del CCSDS.
 - Si hay una versión de EBUCore posterior a la 1.10, y la lista de elementos del Dublin Core: no se han
@@ -968,6 +1018,10 @@ de copias de seguridad» (29-09-2021).
 | EBU Tech 3293 v. 1.10 (abril de 2020), pp. 3, 7 y 8 | EBUCore | 25-09-2026 |
 | CCSDS 650.0-M-3 (diciembre de 2024), §§ 1.1, 1.6.2, 4.2.2, 4.2.3.3 y 4.2.3.4 | Modelo OAIS | 25-09-2026 |
 | lto.org, «LTO Technology Roadmap», «LTO Generation Compatibility Details» y «Linear Tape File System» | LTO-10 y LTFS | 25-09-2026 |
+| IETF, RFC 9043 (resumen, § 1 y § 4.2.16) y RFC 9559 (resumen) | El formato de conservación | 25-09-2026 |
+| Library of Congress, *Sustainability of Digital Formats*, fdd000341 y fdd000206 | El formato de conservación | 25-09-2026 |
+| jpeg.org, «About JPEG» | Sigla JPEG | 25-09-2026 |
+| iasa-web.org, página de inicio | Nombre de la IASA | 25-09-2026 |
 | Catálogo de documentos de la SMPTE, RP 210 | Retirada | 25-09-2026 |
 | Tema 7 del específico de Cámara Operador (cerrado) y sus fuentes | Pasajes copiados: qué es la ingesta, ingesta de una tarjeta, envío desde el lugar y por FTPES, suma de verificación, por qué copiar, regla 3-2-1, RAID, qué son los metadatos y los metadatos en el fichero, LTO | 24-09-2026 (lectura del tema cerrado) |
 
@@ -978,5 +1032,5 @@ digitalizar; el papel del nombre de cinta; las dos maneras de transferir; NAS y 
 su separación; la verificación de contenido; la regla 3-2-1 aplicada a la sala; los niveles de RAID,
 la paridad y el riesgo de la reconstrucción; los tres datos que se capturan en la ingesta; las
 funciones de un MAM y la distinción entre DAM y MAM; la tabla de metadatos descriptivos y técnicos; los dos espacios de nombres de XMP que importan al montador y lo que viaja con el fichero frente a lo que se queda en el proyecto;
-los dos almacenamientos; la lectura de la LTO para vídeo ya comprimido; el supuesto práctico. Es
-cálculo, y se puede rehacer: el tiempo de una transferencia.
+los dos almacenamientos; por qué el máster de conservación no es el fichero de trabajo; la lectura de la LTO para vídeo ya comprimido; el supuesto práctico. Es
+cálculo, y se puede rehacer: el tiempo de una transferencia y el nombre del clip en *Capture Now*.

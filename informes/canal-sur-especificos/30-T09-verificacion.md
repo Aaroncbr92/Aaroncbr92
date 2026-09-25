@@ -65,3 +65,18 @@ Pasajes cambiados releídos: cada remisión conserva su antecedente.
 - Editado: el tema 9 (ruta arriba).
 - Creado: este informe.
 - Copia temporal del Libro con ligaduras normalizadas, en el scratchpad (fuera del repositorio).
+
+## Addendum · reanudación del flujo (25-09-2026)
+
+El flujo volvió a lanzar la fase 3 sobre el tema 9, que ya tenía verificación, refutación y remate
+(commit b08a902). No se repitió el ciclo: se volvió a comprobar sólo la literalidad de lo copiado
+sobre el texto actual, ya rematado.
+
+- 13 tramos de T03 de Redactor/a (espacios normalizados): 12 siguen literales.
+- El tramo 208-211 (realizador supeditado al editor, 6.5 y 6.5.1) ya no es literal: el remate lo
+  partió en dos viñetas («Su margen tiene dos límites:»). Las dos citas en negrita no han cambiado;
+  sólo cambió el enlace («Y ante» ahora es «Ante») y lo dicho en la viñeta. Visto en 6.5 y 6.5.1 del
+  Libro por el remate; no hay nada que corregir.
+- «Copiado de RTVE sin cambios»: ninguno (fila 30/9 al 0 %).
+
+Tocado en esta pasada: sólo este informe.

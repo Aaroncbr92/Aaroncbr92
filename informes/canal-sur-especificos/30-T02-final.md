@@ -35,3 +35,13 @@ declarados como oficio; la RP 184, como no leída.
 ## Ficheros tocados
 
 - El tema y este informe.
+
+## Nueva pasada (25-09-2026)
+
+Encargo de fase 5 bis relanzado con el tema ya revisado. Releídos el 25-09-2026, en los mismos volcados:
+ST 292-1:2018 (8.1.8; tabla 3: B1 10 Hz con *timing*, B2 100 kHz con *alignment*, B3, A1 1 UI, A2 0.2 UI,
+nota 2), BT.709-6 parte 6 (cita, 6.1, 6.3, 6.6 y columnas), R 68-2000 (l. 17-19; «161» del volcado es 16
+más la llamada de nota 1) y R 128-2023 (i, j, m). Todo literal. Las tres correcciones de la pasada
+anterior siguen en el tema («§ 3», «La tabla distingue dos», sin «en el remate»); el § 3, «La sincronía
+entre imagen y sonido», es donde está el reloj síncrono del audio embebido. Antecedentes de los pasajes
+cambiados, bien. Cero hallazgos nuevos; no se toca el tema. Ficheros tocados: sólo este informe.

@@ -144,3 +144,11 @@ Para PDF y documentos que no son volcados del BOE: `texto` (PDF → `.txt` limpi
 (rótulos con su línea) y `seccion <fichero> <rótulo>` (sólo ese artículo, disposición o anexo;
 si el sumario repite el rótulo, se queda con el cuerpo). Medido: el art. 33 del X Convenio son
 3.217 palabras frente a 49.426 del convenio entero.
+
+## Lección: no reanudar un workflow con varios agentes a la vez (25-09-2026)
+
+La reanudación con `resumeFromRunId` sólo aprovecha el **prefijo** de llamadas en el mismo orden;
+con tres agentes a la vez el orden cambia y se vuelve a lanzar casi todo. En Montador/a de Vídeo,
+para rehacer cinco esquemas se relanzaron los 95 agentes (~7,4 M de tokens). Regla: si un
+workflow se corta, **se lanza uno nuevo sólo con lo que falte** (mirando qué hay en disco), nunca
+se reanuda.

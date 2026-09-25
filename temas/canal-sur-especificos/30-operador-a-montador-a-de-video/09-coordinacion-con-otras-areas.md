@@ -131,7 +131,7 @@ definición no constituye una lista cerrada de funciones, debiendo realizar el t
 todas aquellas tareas que, de acuerdo a su cualificación profesional, le sean encomendadas por su
 inmediato superior.»**
 
-Cada tarea mira a un área vecina (lectura de oficio, no del texto): el material que se prepara llega de redacción y de los enlaces; el
+Varias tareas miran a un área vecina (lectura de oficio, no del texto): el material que se prepara llega de redacción y de los enlaces; el
 archivo compactado va a documentación; la emisión automatizada y los vídeos para programas se hacen
 para realización y emisión; el audio que se corrige es trabajo que se reparte con sonido. La ficha no
 explica qué significa «selección alternativa a la realización» ni qué es «compactar»; el convenio no

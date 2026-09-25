@@ -79,3 +79,47 @@ Relectura de antecedentes: «el manual», «§ 1», «apartado siguiente», «(�
 
 - Modificado: el tema 01.
 - Creado: este informe.
+
+---
+
+# Segunda ronda (remate corto, sobre la «Segunda ronda» de refutación y preguntas)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Entrada: la sección «Segunda ronda» de
+`30-T01-refutacion.md` y `30-T01-preguntas.md`.
+
+**Ha ampliado contenido nuevo: no.** Corrige un pasaje ya existente; no procede 5 bis.
+
+## Hallazgo comprobado y aplicado
+
+| Nº | Hallazgo | Comprobación en la fuente | Aplicado |
+|---|---|---|---|
+| 1 (menor) | La tabla de nombres atribuye a Griffith «el plano-contraplano, el montaje alternado y el rescate en el último minuto», sin el paralelo; y el bullet de «Lo que este tema no da» dice que la fila de Griffith no está contrastada | Mateu 2.6 (p. 24): **«el montaje paralelo, combinándose diferentes acontecimientos que se desarrollan en distintos momentos y lugares, tal y como refleja Intolerancia»**, atribuido a Griffith. «El montaje alternado» no aparece atribuido a Griffith en el manual (grep): sin fuente y en tensión con lo confirmado | Sí |
+
+Fuente releída: Mateu Torres, *Fundamentos teóricos…*, UMH, 2024 (txt local), 2.6 (p. 24) y 2.7
+(p. 27, para no descuadrar la frase que introduce la tabla). 25-09-2026.
+
+## Pasajes cambiados
+
+1. **§ 6 «Los nombres de la teoría del montaje»**, frase que introduce la tabla: se añade, junto a la
+   cita de Eisenstein (2.7, p. 27), la cita de Griffith (2.6, p. 24) sobre el montaje paralelo.
+2. **§ 6, tabla de nombres, fila D. W. Griffith**: se quita «el montaje alternado» (no confirmado y en
+   tensión con la fuente) y se añade, con fuente, «el montaje paralelo (*Intolerancia*, 1916)».
+3. **«Lo que este tema no da»**: el bullet sobre vocabulario de oficio pasa de «salvo la fila de
+   Eisenstein» a «salvo las filas de Eisenstein y, en su aportación del montaje paralelo, de Griffith».
+4. **Trazabilidad**: fila de Mateu, añadido «Griffith y el montaje paralelo (2.6)»; fila de Oficio,
+   la tabla de nombres queda «salvo Eisenstein y, en el paralelo, Griffith».
+
+Relectura de antecedentes: el pasaje no introduce nuevos «ese/dicho/el apartado X»; los existentes
+(«el manual», «2.6», «2.7») quedan con su antecedente delante.
+
+## Lentes
+
+- `indice.py`: 44 epígrafes, 10.070 palabras (sin portada).
+- `refutar_prosa.py`: 0 hallazgos.
+- Tema técnico; el dato corregido procede de bibliografía académica, no de una norma BOE: no proceden
+  `negritas.py`, `refutar_exactitud.py` ni `refutar_modo.py`.
+
+## Ficheros tocados (segunda ronda)
+
+- Modificado: el tema 01 (4 pasajes).
+- Modificado: este informe (esta sección).

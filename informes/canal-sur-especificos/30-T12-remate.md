@@ -55,3 +55,55 @@ delante su referente en cada pasaje cambiado.
 El tema y este informe.
 
 ¿Amplió? **Sí** (epígrafe «Sacar el clip como fichero»): toca fase 5 bis sobre el pasaje 6.
+
+---
+
+# Segunda ronda (remate de la segunda refutación)
+
+Fecha de trabajo y de las lecturas: 25-09-2026 (el encargo fija «hoy» en 24-09-2026). Entrada:
+segunda ronda de `30-T12-refutacion.md` (1 menor, 2 lagunas) y de `30-T12-preguntas.md` (13 enteras,
+1 a medias, 1 no).
+
+**Se amplió contenido nuevo** (dos citas literales de páginas ya leídas y citadas): procede la fase
+5 bis sobre los pasajes 2 y 3.
+
+## Comprobación en la fuente (25-09-2026) y decisión
+
+| # | Hallazgo | Fuente releída | Decisión |
+| --- | --- | --- | --- |
+| Menor 1 | § 6 «Música y reclamaciones»: salvedad omitida (Biblioteca de audio de Shorts) | `youtube-ayuda-15424877.txt`, l. 38 | Confirmado, literal: aplicado |
+| Laguna 1 | Límite diario de miniaturas: qué hacer (pregunta 6) | `youtube-ayuda-72431.txt`, l. 101 | Confirmado, literal: ampliado |
+| Laguna 2 | Resoluciones entre 4K y 8K (pregunta 9) | `youtube-ayuda-6375112.txt`, l. 19 | Confirmado, literal: ampliado |
+
+## Pasajes cambiados
+
+1. **§ 6 «Música y reclamaciones…», primera viñeta**: la cita arranca ahora en **«Puedes usar
+   cualquier canción disponible en la Biblioteca de audio de Shorts. Además, puedes usar la mayoría…»**
+   y sigue hasta «…60 o 30 segundos.».
+2. **§ 2 «Relación de aspecto»**, nueva viñeta tras la lista de resoluciones: «Entre 2160p (4K) y
+   4320p (8K): **«En el 2022, empezamos a retirar la compatibilidad con la reproducción en resoluciones
+   de entre 4K y 8K. Por ejemplo, es posible que ya no se pueda reproducir contenido en 5K.»**».
+3. **§ 4 «Lo que no se puede poner»**, final del primer párrafo: «Si salta el aviso, la página dice qué
+   hacer: **«Si aparece un mensaje de error que dice "Límite de miniaturas personalizadas diarias
+   superado" al intentar subir una miniatura, inténtalo de nuevo pasadas 24 horas.»**».
+4. **Ficha**, «Extensión»: 8.800 → 8.900 palabras.
+
+Trazabilidad: sin cambios (las tres páginas ya figuran, con los epígrafes 2, 4 y 6 y fecha 25-09-2026).
+Antecedentes releídos: «el aviso» (tiene delante el límite diario del mismo párrafo), «la página» (la
+de miniaturas, citada en el mismo epígrafe), «2160p (4K)» y «4320p (8K)» (en la viñeta anterior):
+correctos.
+
+## Preguntas
+
+- Segunda ronda, 6 (a medias) → **entera**; 9 (no) → **entera**. Queda 15/15.
+- Primera ronda, 15 (Reels): sigue como hueco declarado; no se recorta la pregunta.
+
+## Lentes
+
+- `indice.py`: 8.971 palabras, 37 epígrafes (sin epígrafes nuevos; índice sin cambios).
+- `refutar_prosa.py`: 0 hallazgos.
+- Lentes de normas: no proceden; ningún pasaje cambiado cita normas.
+
+## Ficheros tocados
+
+El tema 12 del puesto 30 y este informe (ampliado, sin sobrescribir la primera ronda).

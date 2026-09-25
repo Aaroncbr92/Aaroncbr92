@@ -2,112 +2,123 @@
 
 **Siglas**: RTVA; CSRTV; RTVE; TVE.
 
-Esqueleto para repasar, no resumen: cada línea es un dato con su fuente delante; vuelve al tema para el desarrollo.
+Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; se repasa releyendo el tema, no memorizando esto.
 
 <!-- indice -->
 <!-- /indice -->
 
-## 1. Criterio editorial
+## Criterio editorial
 
-- Libro de estilo, cap. 6 (p. 87): obligatorio — vídeo se adapta a orientación, duración y formato que fijan los editores.
-- Libro de estilo, 6.3 (p. 90): opinión técnica y participación activa del montador, esenciales; en duda, redactor consulta al realizador.
-- Libro de estilo, 6.5.1: imperfección técnica moderada → preeminencia de información (editor) sobre técnica (realizador).
-- Libro de estilo, 6.5.2 (p. 93): urgencia se impone, sin anular nivel aceptable de calidad.
-- Reparto: editor (orientación/duración/formato), redactor (texto/orden/prioridad), montador (opinión técnica), realizador (dudas técnicas/estéticas).
-- Libro de estilo, 3.2 (p. 44): noticia básica = hecho con imagen, sonido ambiente, declaraciones, locución; texto soslayable sólo en contadas ocasiones.
-- Libro de estilo, p. 45: cuatro párrafos — idea central (qué/quién); complementarios (cómo/cuándo/dónde); antecedentes (por qué); secundarios/conclusión.
-- Libro de estilo, p. 46: noticia básica, no excede de un minuto en situaciones habituales.
-- Libro de estilo, 6.2 (p. 89): imagen manda; selección no inocua, objetividad e imparcialidad; ejemplo diputado bostezando.
-- Libro de estilo, 6.1 (p. 88): escaleta = documento básico; hecho, formato, clave, tiempo asignado/real, autor, procedencia, acotaciones técnicas.
-- Libro de estilo, 6.1 (p. 88): cambio de escaleta se comunica inmediata y simultáneamente a afectados.
-- Libro de estilo, 6.1.1 (p. 88): cambios de identificación, inadmisibles; nombre se respeta por obligación; excepción, vídeo terminado antes de la escaleta.
-- Libro de estilo, 6.1.2 (p. 88-89): redactor fija textos definitivos y rótulos en escaleta; territoriales se ciñen a su nomenclatura.
-- Oficio: minutado (1.ª acepción) = escaleta con tiempos, duración prevista/acumulada, hora estimada.
-- Oficio: vocabulario del minutado — entradilla (texto del presentador antes de la pieza), total, colas, directo, off, careta/ráfaga/cortinilla.
-- Aviso: «entradilla» en Canal Sur = aparición del redactor en cámara (§ 5); texto del presentador es «paso de locutor».
-- Tabla propia: vídeo (redactor en off, ≤1 min, 3.2); colas (locutor, 3.9); colas+total (presentador+protagonista, 3.9.1); total (protagonista, «sin aditamentos», 3.7); intro (nadie, «vídeo puro», 3.13); intro colas (presentador, 3.13); cierre (presentador en paso previo, admite música, 3.10).
+- lo fija el editor: orientación, duración y formato — cap. 6, p. 87
+- texto y primera escaleta con tiempo para corregir — cap. 6, p. 87
+- opinión técnica y participación activa del montador, esenciales — 6.3, p. 90
+- en duda técnica/estética el redactor consulta al realizador — 6.3, p. 90
+- imperfección técnica moderada: gana la información sobre la técnica — 6.5.1, p. 93
+- la urgencia se impone, sin anular un nivel aceptable de calidad — 6.5.2, p. 93
+- reparto: editor orientación/duración/formato; redactor texto/orden/prioridad; montador opinión técnica; realizador dudas técnicas y estéticas — cap. 6
+- noticia básica: hecho + imagen + sonido ambiente + declaraciones + locución (+ a veces grafismo) — 3.2, p. 44
+- cuatro párrafos: 1 hecho básico (qué/quién) · 2 complementarios (cómo/cuándo/dónde) · 3 antecedentes (por qué) · 4 secundarios/conclusión — p. 45
+- seis interrogantes: qué, quién, cómo, cuándo, dónde, por qué — p. 45
+- noticia básica no excede de un minuto — p. 46
+- imagen manda; texto marca la pauta sólo si la imagen es de menor atractivo, de archivo o no refleja el hecho — 3.2/6.2, p. 89
+- selección no inocua: objetividad e imparcialidad (ejemplo del diputado bostezando) — 6.2, p. 89
+- escaleta: hecho, formato, clave, tiempo asignado/real, autor, procedencia, presentador, acotaciones técnicas — 6.1, p. 88
+- cambio de escaleta se comunica de inmediato a todos los afectados — 6.1, p. 88
+- nombre del vídeo en escaleta inadmisible cambiarlo; si el vídeo se acaba antes, el equipo traslada su nombre a la escaleta — 6.1.1, p. 88
+- centros territoriales: nomenclatura de escaleta obligatoria en cadena — 6.1.2, p. 88
+- minutado (1.ª acepción): escaleta con tiempo previsto, acumulado y hora estimada — oficio
+- vocabulario del minutado: entradilla (texto del presentador), total, colas, directo, off, careta/ráfaga/cortinilla — oficio
+- en el Libro de estilo «entradilla» es la aparición del redactor en cámara al inicio, no el texto del presentador (eso es «paso de locutor») — § entradillas
 
-## 2. Selección de planos
+## Selección de planos
 
-- Libro de estilo, 5.3.1 (p. 80): vídeo de un minuto, entre 20 y 25 planos, en 3 o 4 secuencias.
-- Libro de estilo, 5.3.1: equipo capta entre 4 y 8 minutos de imagen útil para noticia de un minuto.
-- Libro de estilo, 5.3.2 (p. 80): plano = unidad básica, segmento útil para el montaje.
-- Libro de estilo, 5.3.2 (p. 81): escala según tono — más íntimo, planos más cortos; más coral, más abierto; alternancia da vivacidad, ritmo, atractivo.
-- Libro de estilo, 5.3.2 (p. 81): grabación continua, no interrumpir mientras dure la acción; zoom sólo excepcional.
-- Libro de estilo, 5.3.2: panorámicas/*travellings*, uniformes; margen recomendable ≥10 s de plano fijo al inicio y al final.
-- Libro de estilo, 5.3.2: margen de cola, ≥5 s tras recoger imagen (*preroll* de cinta).
-- Oficio: en no lineal con ficheros el *preroll* no aplica, pero el margen sigue dando aire al corte.
-- Libro de estilo, 5.3.2: recursos estáticos, fundamentales.
-- Libro de estilo, 5.3.3 (p. 81): TC, acuerdo básico periodista-cámara; preferible marcador a 00:00:00 si lo usa un tercero (montador).
-- Libro de estilo, p. 82: cinta — una noticia por cinta tras 30 s de barras; dos noticias, separadas por 1 min.
-- Oficio: minutado (2.ª acepción) = describir plano a plano lo rodado (TC, contenido, duración, calidad), tras rodaje, antes de montar.
-- Libro de estilo, cap. 6 (p. 88) y 6.3 (p. 91): a cabina se llega con textos ajustados e imagen minutada; edición siempre con escaleta y minutaje precisos, tanto como permitan las circunstancias.
-- Libro de estilo, 6.3 (p. 91): cuatro condiciones — redundancia (sin adjetivación prolija), agilidad/cadencia (ningún plano <1 s; recurso corto, mínimo 2 s), concordancia (imagen-texto), armonía (archivo en una secuencia); sin coincidencia milimétrica.
-- Libro de estilo, 6.4: raccord = continuidad y uniformidad visual lógica; técnico, físico, sonoro, cinético.
-- Libro de estilo, 6.3: orden lineal, sin alteraciones chocantes salvo lógica y sin confundir.
-- Tabla duraciones: noticia básica ≤1 min (3.2.2); reportaje diario ≤3 min (3.4); crónica ≤2 min salvo excepción (3.5); entrevista informativo ≤3 min (3.17.2.1); titular ≤10 s (3.6); breves 15-20 s (3.8); aparición redactor 15-20 s (8.2.1); total al grabarlo 10-15 s (3.17.1.4); gráfico ≥8 s, ≤4-5 elementos (3.16); plano ≥1 s, recurso corto mínimo 2 s (6.3.2).
+- 20-25 planos buenos, en 3-4 secuencias, para un minuto — 5.3.1, p. 80
+- 4-8 minutos de bruto útil para una noticia de un minuto — 5.3.1, p. 80
+- plano = unidad básica, segmento útil para el montaje — 5.3.2, p. 80
+- escala según el tono: más íntimo, planos más cortos; más coral, más abiertos — 5.3.2, p. 81
+- grabación continua mientras dure la acción — 5.3.2, p. 81
+- zoom sólo en circunstancias excepcionales — 5.3.2, p. 81
+- panorámicas/travellings uniformes; margen de al menos 10 s de plano fijo al inicio y al final — 5.3.2, p. 81
+- margen de cola: al menos 5 s tras recoger la imagen (preroll, propio de cinta) — 5.3.2, p. 81
+- recursos estáticos, fundamentales para el montaje — 5.3.2, p. 81
+- código de tiempo: acuerdo básico cámara-periodista; preferible marcador a 00:00:00 — 5.3.3, p. 81
+- soporte cinta: una noticia por cinta tras 30 s de barras; dos, separadas por 1 min de barras — p. 82
+- minutado (2.ª acepción): describir cada plano rodado (TC, contenido, duración, calidad) antes de montar — oficio
+- a cabina: textos ajustados, imagen estudiada y minutada, esquema narrativo mínimo — cap. 6, p. 88
+- edición con escaleta de planos y minutaje preciso — 6.3, p. 91
+- cuatro condiciones: redundancia (no insistir) · agilidad/cadencia (plano ≥1 s; recurso corto ≥2 s recomendable) · concordancia (no citar a X sobre plano de Y) · armonía (archivo agrupado en una secuencia) — 6.3, p. 91
+- raccord: continuidad técnica, física, sonora, cinética — 6.4
+- edición lineal, sin rupturas cronológicas salvo lógica y sin confundir — 6.3, p. 92
+- duraciones de referencia: noticia ≤1 min (3.2.2) · reportaje ≤3 min (3.4) · crónica ≤2 min salvo excepción (3.5) · entrevista informativo ≤3 min (3.17.2.1) · titular ≤10 s (3.6) · breves 15-20 s (3.8) · aparición redactor 15-20 s (8.2.1) · total al grabarlo 10-15 s (3.17.1.4) · gráfico ≥8 s, ≤4-5 elementos (3.16) · plano ≥1 s (6.3.2)
 
-## 3. Colas
+## Colas
 
-- Libro de estilo, 3.9 (pp. 52-53): colas = imágenes editadas, cronológicas, con sonido ambiente, sobre las que el locutor lee texto ajustado.
-- Libro de estilo, 3.9: texto pactado redactor-presentador; colas breves pero no «menores».
-- Libro de estilo, 3.9.1: colas+total — colas acotan el hecho, total da testimonio; colas de duración holgada (demora, improvisación, última hora); se montan en cintas separadas.
-- Oficio: con ficheros, dos clips separados; total entra cuando termina el presentador, no a duración fija.
-- Libro de estilo, 3.9: apoyo en monitor de estudio para cadencia de lectura; paso previo con parte inicial del texto, prescindible si hay noticias consecutivas separadas por efecto de realización.
-- Libro de estilo, 3.13 (p. 55): intro = vídeo puro, cabecera o ráfaga, imagen y sonido ambiente, sin alteración significativa ni voz en off; a veces declaraciones de impacto; necesita rótulo de momento/lugar; no abusar.
-- Libro de estilo, 3.13: intro colas = con comentario del presentador, paralelo a la imagen.
-- Libro de estilo, 3.8 (p. 52): breves o rápidos, en desuso, 15-20 s, sin declaraciones ni firma.
-- Libro de estilo, 3.5 (p. 49): crónica telefónica — cartón con imagen de postproducción/mapa/rostro; si es posible, colas para ilustrar.
+- imágenes editadas, cronológicas, con sonido ambiente, sobre las que el locutor lee texto ajustado a la secuencia — 3.9, pp. 52-53
+- texto pactado entre redactor y presentador — 3.9
+- colas breves pero no pieza menor — 3.9
+- colas+total: colas acotan el hecho, total da el testimonio; colas de duración holgada por demora, improvisación o última hora — 3.9.1
+- colas+total se montan en piezas separadas — 3.9.1, p. 53
+- lectura con apoyo del monitor de estudio — 3.9
+- paso previo prescindible si hay varias colas seguidas separadas por efecto de realización — 3.9
+- colas deben incluir lo esencial en imagen y texto — 3.9
+- crónica telefónica: cartón con postproducción/mapa/rostro; si es posible, colas ilustrativas — 3.5, p. 49
 
-## 4. Totales
+## Totales
 
-- Libro de estilo, 3.7 (pp. 51-52): totales = declaraciones sin aditamentos narrativos o técnicos; también cortes dentro de un vídeo.
-- Libro de estilo, 3.7: pluralidad y orden — conflicto en cronología (acción-reacción, causa-efecto, acusación-réplica).
-- Libro de estilo, 3.7: breves y relevantes; descriptivas/redundantes, fuera salvo valor especial; no sobre elementos secundarios ni ironía fuera de contexto; no recomendable si responden a algo no mostrado.
-- Libro de estilo, 3.7: texto previo no enuncia miméticamente la declaración; pregunta registrada, implícita en locución, no aparece en el montaje.
-- Libro de estilo, 3.17.1.4 (p. 60): al grabar, repetir pregunta hasta frase cerrada de 10-15 s; no se accede a que revisen la grabación.
-- Libro de estilo, 3.7.1 (p. 52): lengua extranjera, descartar doblaje cuando sea posible; en total de 10-15 s, preferible subtítulo; también desglose en locución.
-- Libro de estilo, 3.7.1: subtítulos, sin interjecciones, síntesis que deje oír el original al principio y al final; original canal 2, doblaje canal 1.
-- Oficio: en sala — cortar en frase cerrada, quitar pregunta registrada, ordenar conflicto como acción-reacción.
-- Libro de estilo, 5.4 (§ 6): sonido directo de declaraciones por canal 1.
+- declaraciones/testimonios sin aditamentos narrativos o técnicos; también cortes dentro de un vídeo — 3.7, pp. 51-52
+- conflicto: orden cronológico acción-reacción, causa-efecto, acusación-réplica — 3.7
+- declaraciones breves y relevantes; se excluyen las meramente descriptivas salvo valor informativo — 3.7
+- texto previo no anticipa el contenido; pregunta implícita, no aparece en el montaje final — 3.7
+- al grabar: frase cerrada de 10-15 s; no se accede a que el entrevistado revise la grabación — 3.17.1.4, p. 60
+- lengua extranjera: se descarta el doblaje cuando sea posible; preferible subtitulado resumido en 10-15 s, o desglose en la locución encabalgada — 3.7.1, p. 52
+- subtítulos: sin interjecciones/onomatopeyas, síntesis, se oye el original al principio y al final — 3.7.1
+- sonido original canal 2, doblaje canal 1 — 3.7.1
+- no referirse a elementos secundarios ni explotar ironía/humor fuera de contexto — 3.7
+- no usar el total para responder a algo no mostrado — 3.7
+- sonido directo de declaraciones por canal 1 — 5.4
 
-## 5. Entradillas
+## Entradillas
 
-- Libro de estilo, 8.2.2 (p. 115): entradilla, medianilla, salidilla = aparición del redactor al principio, en medio o al final del vídeo.
-- Manual de estilo de RTVE, 2.4.4: mismos tres nombres para el «in situ»; refuerza credibilidad, personaliza; riesgo de «hipotecar» el resto si cuenta demasiado.
-- Libro de estilo, 8.1, consideración 1.ª (p. 113): «stand up»; en duda, se graba y se decide después si se edita.
-- Aviso: en el minutado de oficio, «entradilla» es el texto del presentador (§ 1); en Canal Sur, la aparición del redactor.
-- Libro de estilo, 8.2.2 (pp. 115-116): entradilla, descartarla salvo pacto, evita redundancia y no demora la noticia; medianilla, transición entre escenarios/facetas o imagen actual-archivo; salidilla, «la más recomendable», epílogo o consecuencias, sin opinión ni interrogantes.
-- Libro de estilo, 8.2 (p. 115): la Dirección de Servicios Informativos determina quién sale; aparición sólo si imprescindible, cuatro supuestos — «estamos allí», enviado especial fuera de Andalucía, imagen inexistente/insuficiente o detalle no grabado, periodista como hilo conductor.
-- Libro de estilo, 8.2.1 (p. 115): duración de referencia, no más de 15-20 s.
-- Libro de estilo, 8.2.2 (p. 116): voz sin diferencias de entonación/volumen respecto a cabina.
-- Libro de estilo, 3.13/3.14 (pp. 55-56): paso de locutor = texto del presentador antes del vídeo, no es género periodístico, propone lo singular; lo escribe el redactor, lo revisan presentador/editores; no puede ser parte imprescindible de la comprensión, si lo fuera se comunica al editor; frases cortas y sencillas; nunca concluye con la misma frase que abre la información.
+- entradilla/medianilla/salidilla: aparición del redactor en cámara, según vaya al principio, en medio o al final — 8.2.2, p. 115
+- RTVE llama «in situ» a lo mismo; entradilla, medianilla o salidilla determinan el contenido — Manual RTVE 2.4.4
+- stand up: se graba en el lugar; se decide después si se edita — 8.1, p. 113
+- entradilla (inicio): se descarta salvo pacto, para no redundar con el presentador ni demorar la noticia; si es imprescindible, se coordina con el paso de locutor — 8.2.2, pp. 115-116
+- medianilla: transición entre dos escenarios/facetas o de imagen actual a archivo — 8.2.2
+- salidilla: la más recomendable; epílogo, detalle anecdótico no grabado o consecuencias; sin opinión ni interrogantes — 8.2.2
+- riesgo de «hipotecar» la pieza si el in situ cuenta ya las ideas principales — Manual RTVE 2.4.4
+- la Dirección de Servicios Informativos determina quién aparece — 8.2, p. 115
+- aparición sólo si imprescindible: «estamos allí», fuera de Andalucía, imagen inexistente/insuficiente, o programa con el periodista como hilo — 8.2, 8.2.1, p. 115
+- duración de referencia: 15-20 s — 8.2.1, p. 115
+- tono de voz igual al de la locución de cabina — 8.2.1/8.2.2, p. 116
+- paso de locutor: texto del presentador antes del vídeo, distinto de la entradilla — 3.13/3.14, pp. 55-56
+- el paso no es género periodístico; provoca atención, mantiene interés — 3.14
+- lo escribe el redactor; lo revisan presentador y editores — 3.14
+- el vídeo debe entenderse sin el paso — 3.14
+- frases cortas, palabras sencillas, lenguaje directo — 3.14
+- el paso nunca acaba con la misma frase (u otra parecida) con que empieza la información — 3.14
 
-## 6. Locución
+## Locución
 
-- Libro de estilo, 6.2.1 (p. 89): método ortodoxo (imagen primero) no operativo en el trabajo diario; modelo habitual — texto escrito antes pero con conocimiento previo de imagen/sonido/testimonios, acompaña y complementa la imagen.
-- Libro de estilo, 6.2.1 (p. 90): ojo fiable si codifica sosegado, oído menos; no superponer locución adjetivada; las imágenes no se rebobinan.
-- Libro de estilo, 6.2.1: periodista llega a cabina con imagen vista y sonido escuchado, analizados; lo visto/oído testimonial prima sobre el texto.
-- Libro de estilo, 6.2.2 (p. 90): entonación y ritmo, apropiados para reforzar imagen, sonido, declaraciones.
-- Libro de estilo, 6.2.2: cuatro defectos — apresurar lectura forzando más palabras que las del plano; escribir sin conocer la imagen; explicaciones prolijas sobre el ritmo; detalle exagerado de lo obvio.
-- Libro de estilo, 5.4 (p. 82): sonido directo (declaraciones/periodista) canal 1; ambiente (micrófono de cámara) canal 2; si es posible, canal 1 de mesa cuando el sonido pese tanto como la imagen; ambiente registrado siempre, incluso casi ausente; sonido base estética/noticiosa, grabación específica en 1 y 2 simultáneos; nivel y calidad vigilados al grabar.
-- Libro de estilo, 6.4 (p. 92): raccord sonoro — voces, ambiente y ruido de fondo, sin alteraciones en el vídeo.
-- Lo que este tema no da: canal de la locución del redactor en el vídeo montado.
-- Libro de estilo, 8.2.2 (§ 5): voz de la aparición en cámara, sin diferencias con la locución de cabina.
+- el método ortodoxo (editar sólo imágenes, escribir después) no es operativo en el día a día — 6.2.1, p. 89
+- modelo habitual: texto escrito antes pero con conocimiento previo de imagen, sonido y testimonios — 6.2.1, p. 89
+- el texto acompaña, refuerza y complementa; no se superponen adjetivos sobre lo que la imagen ya muestra — 6.2.1, pp. 89-90
+- el periodista llega a cabina con la imagen vista y el sonido escuchado, ambos analizados — 6.2.1, p. 90
+- cuatro defectos: apresurar la lectura más allá de la duración de los planos · escribir sin conocer la imagen · datos/explicaciones prolijas · referencia exagerada a lo obvio — 6.2.2, p. 90
+- canal 1: sonido directo (declaraciones, periodista ante cámara; de mesa si es tan importante como la imagen) — 5.4, p. 82
+- canal 2: sonido ambiente, siempre, incluso casi inaudible — 5.4, p. 82
+- sonido base estética/noticiosa (música, gritos): grabación específica, incluso por los dos canales — 5.4
+- nivel y calidad del sonido se vigilan al grabar — 5.4
+- total extranjero con subtítulos: original canal 2, doblaje canal 1 — 3.7.1
+- raccord sonoro: nivel de voces, ambiente y ruido de fondo, sin alteraciones — 6.4, p. 92
+- canal de la locución del redactor en el vídeo montado: no consta en el Libro de estilo — declarado
 
-## 7. Cierre
+## Cierre
 
-- Aviso: «cierre» tiene dos sentidos — final de cada vídeo y vídeo que cierra el programa; el Libro de estilo sólo llama «cierre» al segundo (3.10).
-- Libro de estilo, 3.2.1 (p. 45): vídeo recortable — párrafos posteriores escritos como si fueran el último; planos de transición «encabalgan» con duración suficiente la última palabra de un párrafo y las primeras del siguiente.
-- Libro de estilo, 3.10 (p. 53): cierre = epílogo, similar a las colas, prima lo formal/estético; no se descarta interés noticioso en breve párrafo sobre las primeras secuencias; único formato en el que, contra la norma general, «puede ser oportuna» la música.
-- Libro de estilo, 3.2.2 (p. 46): en la noticia básica, música sólo si es la referencia noticiosa principal, sin perturbar la narración ni anular el sonido natural.
-- Libro de estilo, 9.2.11.3 (p. 128): en malos tratos, cierres sin orientación melíflua ni estética.
-- Libro de estilo, 3.10: cierres suelen ir precedidos del paso de locutor, sobre todo si sustituyen a la cabecera de salida; no recomendable locución en colas en ese caso; coleo suficiente para despedida y créditos sin premura, consta en partes de emisión (6.1).
-
-## Lo que este tema no da, y dónde está
-
-- Libro de estilo, 2004, terminología de su tiempo (cinta, *preroll*, barras); si fue sustituido por otro posterior, no consta.
-- Canal de audio de la locución del redactor en el vídeo montado, hoy: no consta. Si sigue llamándose «entradilla» a la aparición del redactor: sólo consta el uso de 2004.
-- Vocabulario del minutado y «coleo»: oficio, sin norma ni documento de Canal Sur.
-- Disposición gráfica del guion informativo y programa de redacción actual de CSRTV: no consta.
-- Ritmo, raccord, eje, elipsis, reconstrucciones: tema 1. Edición no lineal: tema 3. Rótulos y subtítulos: tema 7. Coordinación: tema 9. Derechos de imagen: tema 10. Urgencia y directos: tema 14.
+- dos sentidos: final de cada vídeo y vídeo que cierra el informativo (el Libro de estilo sólo llama «cierre» al segundo) — 3.10
+- vídeo recortable: párrafos posteriores escritos como si fueran el último; planos de transición encabalgan la última palabra de un párrafo y la primera del siguiente — 3.2.1, p. 45
+- cierre del informativo: similar a colas, prima lo formal/estético; puede llevar un breve párrafo informativo — 3.10, p. 53
+- única excepción a la norma general: aquí sí puede ser oportuna la música — 3.10
+- suele ir precedido de paso de locutor; si sustituye a la cabecera de salida, no es recomendable locución en colas — 3.10
+- coleo suficiente para despedida y créditos, sin premura — 3.10
+- en malos tratos: en los cierres se descarta cualquier orientación melíflua o estética — 9.2.11.3, p. 128
+- el coleo figura en los partes de emisión — 6.1

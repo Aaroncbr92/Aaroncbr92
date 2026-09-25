@@ -1,87 +1,86 @@
 # Tema 8 del específico de Operador/a Montador/a de Vídeo · Ingesta, digitalización, transferencia, verificación, copias de seguridad, metadatos y archivo
 
-**Siglas**: RTVA; CSRTV; EBU; SMPTE; CCSDS; OAIS (SIP, AIP, DIP, PDI); ISO; MXF (OP-Atom); UMID; AAF; EDL; ALE; CSV; DPX; MOV; YUV; RGB; TC; VTR; SD; SSD; RAID; NAS; SAN; LTO; LTFS; USB; SDI; IP; BWF; FTP; FTPES/FTPS; MAM; DAM; NRCS; CRC; MD5; SHA-256/512; XXHASH64; INCIBE; Mb/s; MB/s; GB; TB; IMF; ISBN.
+**Siglas**: RTVA; CSRTV; EBU (EBUCore); CCSDS (OAIS: SIP, AIP, DIP, PDI); MXF (UMID); IETF (RFC 9043 FFV1, RFC 9559 Matroska); MAM/DAM; NAS/SAN; RAID; LTO/LTFS; FTP/FTPES; MD5, SHA-256/512, CRC32, XXHASH64; XMP (ISO 16684-1); INCIBE.
 
-Esqueleto para repasar, no resumen: cada línea remite al tema; sin el tema no se entiende.
+Esqueleto para repasar, no resumen: cada línea remite a un dato del tema; se lee el tema entero antes del examen.
 
 <!-- indice -->
 <!-- /indice -->
 
-## Ficha del puesto
-
-- (X Convenio, anexo III, ficha 5212206, p.190) Objeto: «Realizar todo tipo de procesos de grabación, reproducción, manipulación, edición y postproducción... en coordinación con otras áreas.» Tareas del tema: configurar sistemas y preparar materiales (ingesta/verificación/metadatos); recibir y enviar enlaces (ingesta directo/transferencia); compactar para archivo; repicar cintas (digitalización/copia); control técnico de calidad (temas 2 y 7).
-- (oficio) Ficha de 2014, habla de cintas; convenio no define «compactar»/«repicar». Reparto entre montador/archivo/documentación: no consta.
-
 ## 1. Ingesta
 
-- (oficio) Meter material en el sistema; 3 formas: de fichero, en directo (*crash record*, irrepetible → doble grabación), programada. Por origen: señal, soporte, fichero.
-- (oficio) Flujo redacción: ingesta→gestión→edición→emisión; archivo atraviesa las 4. Datos descriptivos, no nombre de fichero. Reparto CSRTV: no consta.
-- (oficio, DPC/Adobe/Sony) Tarjeta: 1) lock, bloqueador de escritura (DPC nivel 2: «use write-blockers»; salvedad: no para todo soporte). 2) copiar entera con estructura (Z200: proxy en /PRIVATE/M4ROOT/SUB; P2: audio OP-Atom aparte). 3) comprobar (checksum o tamaño+apertura; DPC: «check fixity on all ingests»). 4) revisar clips partidos (relevo, Z200 no reproduce sin cortes) y sonido. 5) anotar y entregar; sólo entonces formatear en cámara.
-- (Adobe, Premiere help 7-1-2026) Ingesta=copiar/transcodificar a almacenamiento del proyecto; verifica sin decir algoritmo; combinable con proxies. (Blackmagic cap.17 p.373) *Clone Tool*, página Media, checksum a elegir, antes de Media Pool.
-- (oficio) Ingestar ≠ importar (enlaza, se rompe si se retira soporte); reenlace: tema 3.
+- Convenio RTVA, anexo III, ficha 5212206 — objeto: grabación, reproducción, manipulación, edición y postproducción; tareas: configurar sistemas y preparar materiales, recibir/enviar enlaces, compactar para archivo, repicar cintas, control técnico de calidad.
+- Oficio — ingesta = meter material en el sistema, con metadatos, comprobación y a veces conversión.
+- Oficio — tres formas: de fichero, en directo (*crash record*), programada; tres orígenes: señal, soporte (tarjeta/disco), fichero por red. La de directo es la crítica: no se repite, se graba por partida doble.
+- Oficio — flujo: ingesta → gestión → edición → emisión; el archivo atraviesa las cuatro; se busca por datos descriptivos, no por nombre de fichero.
+- DPC, Digital Preservation Handbook — bloquear la tarjeta (write-blocker) antes de leerla; salvedad: no existe para todo soporte, algunas casas lo ven innecesario; «Check fixity on all ingests», «Virus-check high risk content» (nivel 2 de 4).
+- Oficio — copiar la tarjeta entera, con su estructura de carpetas, no sólo el vídeo. Sony Z200 Help Guide, p. 161 — *proxy* en carpeta separada (/PRIVATE/M4ROOT/SUB); p. 98 — clips por relevo no se reproducen sin cortes.
+- Oficio — pasos: proteger, copiar entera, comprobar, revisar (clips, partidos, sin sonido), anotar y entregar; sólo después se formatea la tarjeta.
+- Adobe, ayuda Premiere (7-1-2026) — ingerir = copiar/transcodificar del origen al almacenamiento del proyecto; verifica sin corrupción (algoritmo no dicho); conserva calidad máxima y optimiza para editar; se combina con *proxies*.
+- Resolve 21, cap. 17, p. 373 — *Clone Tool* en la página *Media*, antes de añadir al *Media Pool*; el manual lo propone, no lo impone.
+- Oficio — ingestar ≠ importar: importar sólo enlaza (si se retira el soporte se pierde el clip); se copia antes de importar.
 
 ## 2. Digitalización
 
-- (oficio) Convertir en fichero una cinta (analógica: muestreo+cuantificación, tema 2). Tiempo real (1h cinta=1h captura), al revés que tarjeta. Ficha: «repicar cintas»; fondo digitalizado: no consta.
-- (Resolve cap.24, pp.558-564) Tarjeta/caja de entrada + VTR gobernable. Modo captura: transporte controla VTR; panel de metadatos sustituye a audio, antes de capturar. Se fija: audio+vídeo o sólo vídeo; formato fichero (DPX/QuickTime); códec (ProRes, YUV 422, RGB, DNxHD); carpeta con caudal suficiente; nombre de cinta (fichero y/o cabecera); prefijo; pistas audio 2-16.
-- (Resolve p.562-563) 3 métodos: *Capture Now* (tramo rápido); *Capture Clip* (entrada/salida+metadatos, 1 clip); *Log Clip*+lotes (varios tramos, eficiencia, orden por cinta). + *Batch Capture Via EDL* (p.563-564): recrea tramos de una EDL; no duplica si ya existe mismo nombre+TC inicio.
-- (oficio) Clip se reconoce por nombre de cinta+TC entrada/salida; sin nombre único falla lotes y reconformado. (Resolve p.562) Captura inmediata nombra por TC en cuadros según cadencia (00086400.dpx = TC 01:00:00:00). Reconformado/*Redigitize*: tema 3.
-- (oficio) Revisar al digitalizar: cinta (estado, etiqueta, protección); VTR (limpio, remoto — sin él sólo Capture Now); señal (niveles, tema 2; cortes/congelados); fichero final (duración, pistas, entrada/salida).
+- Oficio — digitalizar = convertir en fichero un material en soporte no fichero (cinta), en tiempo real; si es analógica, conversión A/D (muestreo y cuantificación, tema 2).
+- Convenio — tarea «repicar cintas orientadas a producción, emisión y comercialización»; el convenio no define «repicar».
+- Resolve 21, cap. 24, p. 558-559 — hace falta un dispositivo de entrada de vídeo gobernable y un magnetoscopio con control de dispositivo; en captura, el transporte gobierna el VTR y el panel de audio se sustituye por metadatos de captura, puestos antes de capturar.
+- Resolve 21, p. 561 — se ajusta: vídeo+audio o sólo vídeo; formato (DPX o QuickTime); códec (ProRes, YUV 8/10 bits, RGB 10 bits, DNxHD); carpeta destino con caudal suficiente; nombre de cinta (fichero y/o cabecera); prefijo; pistas de audio (2-16); mínimo (p. 562): «Video Capture and Playback», «Capture Clips Saved to», «Apply Reel Name to».
+- Resolve 21, p. 562-563 — tres métodos: *Capture Now* (rápido, un tramo); registrar y capturar un clip (entrada/salida marcadas, metadatos, *Capture Clip*); registrar varios y capturar por lotes (*Log Clip*, eficiencia, orden por cinta).
+- Resolve 21, p. 563-564 — *Batch Capture Via EDL*: crea clips *offline* por evento de la EDL; no duplica si ya hay clip con mismo nombre de cinta y TC de inicio.
+- Oficio — nombre de cinta + TC de inicio/fin identifican el clip; sin nombre único falla la captura por lotes y el reconformado. Resolve 21, p. 562 — en *Capture Now* nombra el clip con el TC pasado a cuadros según la cadencia (ej. 00086400.dpx = TC 01:00:00:00 a 24 im/s).
+- Oficio — se revisa: estado de la cinta y protección; magnetoscopio limpio y con control remoto (sin control, sólo *Capture Now*); niveles durante la captura (tema 2); duración y pistas al terminar.
 
 ## 3. Transferencia
 
-- (oficio) Mover material; 2 maneras: señal/enlace (tiempo real, no grabado se pierde; tema 14) o fichero (por red, se comprueba al llegar). Ficha: «recibir y enviar enlaces».
-- (oficio) Envío desde el lugar: primero proxy, luego original. (Z200 p.196) FTP sin cifrar; usar FTPES/FTPS. Comprobar fichero completo antes de avisar disponibilidad; no borrar origen hasta confirmar.
-- (cálculo) Tiempo=tamaño/velocidad, bits↔bytes (×8). Ej.: 12 GB a 100 Mb/s = 96.000 Mb ÷100 = 960 s = 16 min mínimo.
-- (oficio) Almacenamiento: local (una sala); NAS (fichero por red, compartido ligero/archivo); SAN (bloques de disco, edición compartida tiempo real). Bajo los tres hay RAID (ver 5). Qué usa CSRTV: no consta.
-- (oficio) 3 redes: señal (tiempo real, caudal/retardo); producción (ficheros, ráfagas); ofimática (expuesta a internet, separada). Fichero externo (USB, descarga) no va directo a producción sin procedimiento.
+- Oficio — transferir = mover material de un sitio a otro; como señal (enlace, ingesta en directo) o como fichero (por red, se comprueba al llegar); la ficha nombra «recibir y enviar enlaces».
+- Oficio — se envía primero el *proxy*, que pesa poco. Sony Z200, p. 196 — FTP no cifra contenido, usuario ni contraseña; usar FTPES (FTPS, cifrado explícito).
+- Oficio — quien recibe comprueba que llegó entero antes de avisar; quien envía no borra hasta confirmación. Cálculo propio — tiempo = tamaño/velocidad, cuidando bits/bytes (1 B = 8 b); 12 GB a 100 Mb/s = 960 s (16 min mínimo).
+- Oficio — local (discos de la estación, una sala); NAS (sirve ficheros por red, trabajo compartido ligero/archivo); SAN (red de bloques, edición en tiempo real); NAS pide fichero, SAN pide bloque; bajo los tres hay un RAID.
+- Oficio — tres redes de redacción: de señal (tiempo real), de producción (ficheros/control), ofimática (expuesta a internet, separada por seguridad); material externo no pasa a producción sin procedimiento.
 
 ## 4. Verificación
 
-- (oficio) 2 sentidos: datos (copia idéntica) y contenido (material usable).
-- (DPC, «Fixity and checksums») Fijeza=fichero no ha cambiado; checksum=huella digital, detecta cambio pero no dónde. Cadena de custodia. Algoritmos de fuerza creciente (MD5, SHA-256); MD5 basta para pérdida/daño accidental, rápido y soportado. Con varias copias, checksum dice cuál usar de recambio (*data scrubbing*).
-- (Resolve cap.17 pp.373-374) 6 opciones *Clone Tool*, velocidad↔seguridad: None (sin verificación); File Size (rápido, mínima resistencia a colisión); CRC32 (más rápido que MD5, menos seguro); MD5 (por defecto, 128 bits, equilibrio; colisión improbable en flujo audiovisual); SHA256/512 (más lento, más seguro; 512>256); XXHASH64 (más rápido, buena protección, ideal en terabytes). Informe de checksum se guarda en cada destino.
-- (oficio, 3 reglas) Tamaño solo no verifica; checksum en origen y cada copia, se compara (sirve años después en archivo); dice que cambió, no dónde (reparación desde otra copia).
-- (CCSDS 650.0-M-3 §4.2.3.3) Ingesta OAIS valida transferencia del SIP con CRC/checksums o logs. (§4.2.3.4) *Error Checking*: garantía estadística de que el AIP no se corrompe en almacenamiento/transferencia interna.
-- (oficio) Verificación de contenido: completo (clips/pistas), es lo que dice ser (formato/TC, tema 4; corresponde al encargo), se ve/oye bien (niveles, tema 2; ficha: «control técnico de calidad»), se puede usar (derechos, tema 10). (Libro de Estilo 5.3.3 p.82) «Revisar la grabación en el mismo lugar... comprobar imagen y sonido.»
+- Oficio — dos sentidos: de datos (copia idéntica) y de contenido; ficha: «control técnico de calidad y corrección».
+- DPC, Fixity and checksums — fijeza = garantía de que el fichero no ha cambiado; el *checksum* es «huella digital», cambia si cambia el fichero, no dice dónde; sirve para la cadena de custodia; MD5 basta para pérdida/daño accidental; con varias copias, la suma señala cuál sustituir (*data scrubbing*).
+- Resolve 21, cap. 17, p. 373-374 — seis opciones del *Clone Tool*, velocidad frente a seguridad: *None* (sin verificación); *File Size* (rápido, mínima resistencia a colisión); CRC32 (más rápido que MD5, menos seguro); MD5 (por defecto, 128 bits, equilibrio); SHA-256/512 (más lento, más seguro; 512 aún más resistente); XXHASH64 (el más rápido, buena protección, útil con terabytes); informe de *checksum* en la raíz de cada destino, se guarda con la copia.
+- Oficio — comparar sólo tamaño no verifica; la suma se calcula sobre original y copia, sirve años después en archivo; dice que cambió, no dónde (se repara con otra copia buena).
+- CCSDS 650.0-M-3, § 4.2.3.3/4.2.3.4 — QA en la ingesta del SIP con CRC/*checksum* o registros de sistema; comprobación de errores en el AIP durante el almacenamiento y las transferencias internas.
+- Oficio — verificación de contenido: clips completos, pistas esperadas; formato/resolución/cadencia/TC coinciden (tema 4); se ve y oye bien; procedencia y derechos (tema 10).
+- Libro de estilo CSRTV, 5.3.3, p. 82 — revisar la grabación en el propio lugar.
 
 ## 5. Copias de seguridad
 
-- (Sony, Help Guide ILCE-1) «Be sure to back up the data for protection.» Protección de la jornada, no trámite de archivo (oficio). (Resolve cap.17 p.373) Clonar el original a backup antes de añadir al proyecto, y a backup externo.
-- (INCIBE, 29-09-2021) Regla 3-2-1: 3 copias, 2 dispositivos distintos, 1 en lugar diferente. (oficio) En sala: original hasta 2 copias comprobadas; 1 copia en almacenamiento de trabajo; 1 en soporte/sitio distinto. (Resolve p.373) *Clone Tool* hace varios destinos a la vez.
-- (oficio) Además del material: proyecto (decisiones, se pierde aparte; *Attic* Avid tema 15); metadatos exportados (Resolve cap.18 p.434: .csv o .ale, reimportables); informes de checksum y listas de entrega (prueba de qué se copió y cuándo).
-- (oficio) RAID no es copia de seguridad: RAID0 *striping* sin redundancia (velocidad+capacidad, cero seguridad); RAID1 *mirroring* (2 discos, mitad capacidad, aguanta 1); RAID5 *striping*+paridad distribuida (mín. 3, aguanta 1, reconstrucción lenta); RAID6 doble paridad (aguanta 2); RAID10 espejos en striping (mitad capacidad, 4 discos). El número no es el nº de discos. Protege de fallo de disco, no de borrado/corrupción replicada/robo/incendio; RAID0 no protege nada.
-- (oficio) RAID5 con 3 discos: capacidad útil 2/3; pierde 1 disco; lectura alta, escritura menor (cálculo paridad). Mnemotecnia: RAID0=cero seguridad, RAID1=disco copiado. Durante reconstrucción RAID5 sin protección: si cae otro disco, se pierde todo.
+- Oficio — hasta copiar, el material existe en un solo sitio; es protección de la jornada, no trámite de archivo. Resolve 21, cap. 17, p. 373 — clonar el original a volúmenes de respaldo antes de añadir al proyecto; considerar copia fuera de la sala.
+- INCIBE (29-09-2021) — regla 3-2-1: tres copias, en dos dispositivos distintos, una en lugar diferente.
+- Oficio — traducción a la sala: original hasta dos copias comprobadas; una en almacenamiento de trabajo; otra en soporte/sitio distinto; el *Clone Tool* admite varios destinos a la vez. Resolve 21, cap. 18, p. 434 — metadatos exportables a CSV o ALE (Avid), reimportables.
+- Oficio — se guardan también los informes de *checksum* y las listas de entrega: demuestran qué se copió y cuándo.
+- Oficio — el RAID no es copia de seguridad: RAID 0, sin redundancia (velocidad/capacidad total, ninguna seguridad); RAID 1, espejo (dos discos, aguanta uno); RAID 5, paridad distribuida (mín. 3 discos, aguanta uno, reconstrucción lenta); RAID 6, doble paridad (aguanta dos); RAID 10, espejos en *striping* (mín. 4 discos, mitad capacidad).
+- Oficio — RAID 5 con tres discos: capacidad útil dos de tres; durante la reconstrucción, sin protección. El RAID protege del fallo de disco, no de borrado, fichero corrupto replicado, robo o incendio.
 
 ## 6. Metadatos
 
-- (oficio) Datos sobre el material (cuándo, cámara, TC, nombre, bueno/malo). Cámara sola / configurado antes (nombre, TC, bits usuario) / operador en vivo (marcas). (EBUCore p.7) «If you can't find it, you don't have it!»
-- (oficio) Van con el material si se copia entero; contenedores profesionales los llevan dentro (MXF); cámaras guardan ficheros de gestión y proxy aparte (Z200: [Update Media] actualiza ficheros de gestión, p.252). UMID (identificador único MXF, tema 15) no se cambia, a diferencia del nombre de fichero. TC: temas 2 y 15.
-- (Resolve cap.18 p.417-420,434) «Once your metadata house is in order...» usable en Cut/Edit/Color/Fairlight. Llegan solos (BWF: escena/toma/canales) o se escriben en editor (Description, Shot, Scene, Take, keywords, de lista para consistencia). Para Smart Bins/Smart Filters; varios clips a la vez; exporta/importa CSV o ALE.
-- (Adobe XMP docs) XMP=metadatos embebidos en el fichero, norma ISO 16684-1 desde 2012, extensible. Espacios: Dublin Core (`dc`, base también de EBUCore) y medios dinámicos (`xmpDM`): `tapeName`, `altTapeName` (vía Premiere), `startTimecode`, `good`, `logComment`, `scene`/`shotName`. XMP viaja con el fichero; proyecto se queda. Campos de Premiere→XMP: no consta (ayuda no leída).
-- (oficio) 3 datos clave en ingesta: quién trae, de qué es, qué derechos. MAM, 5 funciones: catálogo, versiones, baja resolución, ciclo de vida, permisos. DAM=general; MAM=audiovisual (TC, subclips, versiones, derechos). Sistema/campos CSRTV: no consta.
-- (EBU Tech 3293 v1.10, §2.1, pp.3,7) EBUCore=metadatos descriptivos/técnicos, extensión Dublin Core; «the Dublin Core for media». Archivos, intercambio, producción, no sólo archivo; compatible IMF (§2.3, tema 4). Viva/mantenida; SMPTE RP 210: retirada.
-- (oficio, EBUCore) Descriptivos (título, descripción, lugar, personas, keywords, derechos — redacción/montador/documentación) vs. técnicos (formato, códec, resolución, cadencia, pistas, duración, TC — cámara/sistema solos).
+- Oficio — metadatos = datos sobre el material (fecha, cámara, TC, nombre, bueno/malo); los pone la cámara, los configura antes el operador, o los anota mientras graba.
+- EBU Tech 3293, p. 7 — «If you can't find it, you don't have it!».
+- Oficio — se pierden si se copia sólo el vídeo y no la tarjeta entera; los contenedores profesionales (MXF) los llevan dentro. Sony Z200, p. 252 — [Update Media] actualiza el fichero de gestión de la tarjeta.
+- Oficio — el nombre de fichero se repite; el UMID de MXF, identificador único del paquete, no.
+- Resolve 21, cap. 18, p. 417-420 — metadatos entran solos (ej. BWF con escena/toma/canal) o se escriben en el editor (descripción, *shot*, *scene*, *take*, palabras clave de lista); permiten *Smart Bins*/*Smart Filters*; edición por lotes; exportación a CSV/ALE con reenlace automático.
+- Adobe, documentación XMP — embebe metadatos en el propio fichero; norma ISO 16684-1 desde 2012; extensible. Espacio Dublin Core (`dc`), propiedades comunes; espacio de medios dinámicos (`xmpDM`): *tapeName*, *altTapeName* (desde Premiere), *startTimecode*, *good*, *logComment*, *scene*, *shotName*.
+- Oficio — lo escrito en XMP viaja con el fichero a otro proyecto/programa; lo anotado sólo en el proyecto se queda ahí (qué campos de Premiere van a XMP no consta, ayuda no leída).
+- Oficio — tres datos deciden si se encuentra: quién lo trae, de qué es, qué derechos tiene; sin ellos, perdido dentro del sistema.
+- Oficio — MAM, cinco funciones: catálogo, versiones, baja resolución, ciclo de vida, permisos; DAM es el término general, MAM el especializado en audiovisual (TC, subclips, ventanas de explotación); sistema de CSRTV, no consta publicado.
+- EBU Tech 3293, § 2.1, p. 3/7 — EBUCore, extensión del Dublin Core («the Dublin Core for media»); describe audio/vídeo para archivo, intercambio y producción, no limitado a archivo; v. 1.10 compatible con IMF; especificación viva; RP 210 de SMPTE, retirada.
+- Oficio — metadatos descriptivos (título, descripción, lugar, personas, palabras clave, derechos: redacción/montador/documentación) frente a técnicos (formato, códec, resolución, cadencia, TC: cámara y sistema solos).
 
 ## 7. Archivo
 
-- (Convenio, ficha) «Compactar para el archivo»; catalogación=documentación (tema 9). Compactar=oficio: reducir a lo que merece guardarse (emitido+bruto útil, sin duplicados/pruebas/intermedios), identificado, completo, comprobado. Qué conserva CSRTV, formato, plazos: no consta.
-- (oficio) 2 almacenamientos: producción (en uso, acceso inmediato, red de bloques, coste alto) vs. archivo (conservado, acceso diferido/cinta, coste bajo). Lo no archivado no está protegido; lo archivado no se monta directo, se recupera antes.
-- (CCSDS 650.0-M-3 §1.1) OAIS: sistema con hardware/software/información/procedimientos que acepta preservar información para una comunidad designada (en TV: redactores/montadores/documentalistas). «Open»=desarrollado en foros abiertos, no acceso sin restricción (§1.1). Largo plazo=periodo indefinido con cambio de tecnología (§1.6.2). Abarca ingest, archival storage, data management, access, dissemination, migración (§1.1).
-- (§1.6.2) 3 paquetes: SIP (Productor→OAIS, para construir AIP) = lo que la sala entrega (pieza+bruto+datos); AIP (Contenido+PDI, preservado) = lo que archivo guarda; DIP (derivado de AIP, a Consumidor) = copia que archivo devuelve para montar.
-- (§1.6.2) PDI: procedencia (historia, origen, custodia), contexto, referencia (identificador, ej. ISBN), fijeza (mecanismos de no-alteración = checksum guardado), derechos de acceso.
-- (§4.2.2-4.2.3.4) 6 entidades funcionales: Ingest, Archival Storage, Data Management, Administration, Preservation Planning, Access. Dentro de Archival Storage: Replace Media (renovar soportes/migración, sin alterar contenido+PDI) y Disaster Recovery (duplicado en instalación separada = regla 3-2-1).
-- (lto.org, «LTO Technology Roadmap», 25-09-2026) LTO=cinta magnética alta capacidad, escalable, regrabable, formato abierto multifabricante. Generación vigente: 10.ª. Capacidad LTO-10: hasta 100 TB comprimida; cartuchos 30 TB/40 TB (no se dice si nativos; vídeo ya comprimido → cifra útil más cerca de nativa). Velocidad hasta 1200 MB/s (asumiendo compresión 2,5:1). Compatibilidad atrás: hasta 7.ª gen escribe 1 atrás/lee 2 atrás; 8.ª-9.ª escribe/lee 1 atrás; 10.ª sin compatibilidad atrás (cabezal rediseñado, sin inicialización). Ventajas oficio: coste/TB bajo, sin consumo en reposo, dura décadas, fuera de red; desventaja: acceso secuencial y lento, no es almacenamiento de trabajo.
-- (lto.org, «Linear Tape File System», 25-09-2026) LTFS=lee LTO como disco con ficheros/carpetas, incluida desde LTO-5. Partición de índice + partición de datos; interfaz simple, arrastrar y soltar. Sigue siendo secuencial: LTFS localiza, la unidad tiene que llegar.
-- (Libro de Estilo 9.9.1 p.166) «En rotulación debe hacerse constar claramente que es material de 'Archivo' durante todo el tiempo en que la imagen permanezca en pantalla...» — norma escrita para reportajes de sucesos/delincuencia/judicial (cap.9.9); rotular siempre fuera de eso es costumbre de oficio, no regla del pasaje. Derechos de archivo/terceros: tema 10.
-
-## Aplicación práctica: del material que llega al que se archiva
-
-- (oficio, caso: 2 tarjetas + cinta archivo 20 años + clip de corresponsal) Tarjetas: bloquear, clonar enteras (estructura) a 2 destinos con MD5/XXHASH64, guardar informe de sumas. Revisión: clips, pistas, formato, cadencia, TC. No devolver a formatear hasta 2 copias comprobadas. Cinta: captura registrada, nombre único, entradas/salidas, metadatos antes, por lotes. Clip corresponsal: comprobar llegada íntegra antes de confirmar; avisar si FTP sin cifrar. Metadatos: descripción/lugar/personas/keywords/origen/derechos. Montaje: desde almacenamiento de trabajo, no desde tarjeta/disco externo; rotular archivo. Cierre: compactar (emitido+bruto útil) con metadatos y sumas al procedimiento de archivo; limpiar almacenamiento de trabajo sólo tras confirmación (SIP completo y comprobado).
-
-## Lo que este tema no da, y dónde está
-
-- Sistema de ingesta/almacenamiento/MAM/archivo de CSRTV; quién ingesta; qué se conserva del bruto, formato, plazos; procedimiento de material externo: no consta.
-- Sentido actual de «compactar»/«repicar»: convenio no lo define.
-- Capacidad nativa LTO-10, campos de Premiere que van a XMP, edición ISO 14721 del OAIS, versión EBUCore posterior a 1.10, algoritmo de Premiere al ingestar: no confirmados/no leídos.
-- Proxies/reenlace/*Redigitize*: tema 3. Formatos/códecs/MXF/SDI-IP: tema 4. Señal, niveles, TC: tema 2. Control de calidad/corrección: temas 2 y 7. Reparto con documentación: tema 9. Derechos de archivo/terceros: tema 10. MAM/redacción/automatización: tema 13. Directo/enlaces: tema 14. Nomenclatura/UMID/*Attic*: tema 15.
+- Convenio — tarea «compactar para el archivo de material audiovisual»; catalogación es de documentación (tema 9); «compactar» no lo define el convenio; oficio: reducir a lo que merece guardarse, identificado, completo y comprobado.
+- Oficio — producción (en uso, inmediato, caro) frente a archivo (conservación, diferido/cinta, barato); lo que queda en producción no está archivado; lo archivado no se monta directo, se recupera antes.
+- CCSDS 650.0-M-3, § 1.1 — OAIS: sistema con personal, hardware, software y procesos que preserva información y la hace accesible a la comunidad designada; «abierto» = desarrollado en foros abiertos, no acceso sin restricción; abarca ingesta, almacenamiento, gestión de datos, acceso, difusión y migración a nuevos soportes.
+- CCSDS, § 1.6.2 — SIP (de entrega, del productor al OAIS: pieza + bruto seleccionado + datos), AIP (lo conservado, con la PDI), DIP (lo entregado al usuario); PDI: procedencia, contexto, referencia, fijeza, derechos de acceso.
+- CCSDS, § 4.2.2/4.2.3.4 — seis entidades funcionales: ingesta, almacenamiento de archivo, gestión de datos, administración, planificación de la conservación, acceso; *Replace Media* (migración de soporte, sin alterar contenido/PDI); *Disaster Recovery* (copia en sitio separado).
+- lto.org (25-09-2026) — LTO: cinta abierta, escalable, de varios fabricantes; generación vigente, la 10.ª; capacidad hasta 100 TB comprimidos, cartuchos de 30/40 TB (no consta si nativos); velocidad hasta 1200 MB/s (compresión 2,5:1); LTO-10 no lee generaciones anteriores (hasta la 7.ª: escribe una atrás, lee dos atrás; 8.ª-9.ª: una atrás); ventajas: coste bajo, sin consumo en reposo, décadas de duración, fuera de red; desventaja: acceso secuencial y lento. LTFS presenta la cinta como disco, con dos particiones (índice y datos); el acceso sigue secuencial.
+- IETF RFC 9043 — FFV1: códec de vídeo sin pérdidas intracuadro, útil para preservación; v. 3 añade CRC embebido; RFC 9559 define el contenedor Matroska.
+- Library of Congress, fdd000341/fdd000206 — FFV1 en Matroska, formato preferido; IASA-TC 06 recomienda Matroska+FFV1 para vídeo digitalizado; JPEG 2000 sin pérdidas en MXF OP1a (SMPTE RDD 48), típico al formatear en la propia ingesta, para reducir tamaño frente a sin comprimir; transporte fijado por SMPTE ST 422 (no leída).
+- Oficio — existe la vía sin comprimir, con ficheros mayores; el máster de conservación es distinto del fichero de trabajo; formato de CSRTV, no consta publicado.
+- Libro de estilo CSRTV, 9.9.1, p. 166 — rotular «Archivo» mientras la imagen esté en pantalla, con margen de lectura; pasaje del capítulo de asuntos comprometidos (sucesos); rotular siempre fuera de esos casos es oficio, no regla escrita ahí.

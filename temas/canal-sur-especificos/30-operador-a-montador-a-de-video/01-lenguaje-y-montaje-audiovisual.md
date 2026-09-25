@@ -595,11 +595,13 @@ selección de planos **«no es inocua»** (§ 7).
 
 Los nombres de la teoría del montaje, en la síntesis de oficio (la fila de Eisenstein, con Mateu:
 **«el creador del montaje intelectual, también conocido como montaje de atracciones o "cinedialéctico"»**,
-basado **«en colisiones de imágenes que crean significados nuevos»**, 2.7, p. 27):
+basado **«en colisiones de imágenes que crean significados nuevos»**, 2.7, p. 27; y, en la de Griffith,
+con Mateu, **«el montaje paralelo, combinándose diferentes acontecimientos que se desarrollan en
+distintos momentos y lugares, tal y como refleja Intolerancia»**, 2.6, p. 24):
 
 | Nombre | Qué aportó |
 |---|---|
-| D. W. Griffith | El montaje narrativo clásico: el plano-contraplano, el montaje alternado y el rescate en el último minuto |
+| D. W. Griffith | El montaje narrativo clásico: el plano-contraplano, el rescate en el último minuto y, con fuente en Mateu, el montaje paralelo (*Intolerancia*, 1916) |
 | Serguéi M. Eisenstein | El montaje intelectual o de atracciones: el choque de dos planos produce una idea nueva |
 | Vsévolod Pudovkin | El montaje como construcción por acumulación: los planos se suman, no chocan |
 | Dziga Vértov | El cine-ojo: la cámara ve lo que el ojo no ve, y el montaje lo organiza |
@@ -901,11 +903,12 @@ documental y ficción quedan como oficio.
 - No hay en el Libro de estilo pauta de montaje para programas de entretenimiento, ficción o
   documental: los estilos de esos géneros van como oficio (§ 8).
 - Los nombres «regla de los 30 grados», «regla de los 180 grados» y *last minute rescue*, el reparto
-  en secuencia mecánica y secuencia dramática y la tabla de nombres de la teoría del montaje (salvo la
-  fila de Eisenstein) son vocabulario de oficio: no se han contrastado en una fuente publicada
-  concreta. Lo que sí tiene fuente (treinta grados y dos escalas; semicírculo del eje; plano, escena y
-  secuencia; narrativo y expresivo, con el rítmico y el ideológico como subtipos del expresivo;
-  alternado y paralelo; estructuras narrativas; Kuleshov) se cita en su sitio.
+  en secuencia mecánica y secuencia dramática y la tabla de nombres de la teoría del montaje (salvo las
+  filas de Eisenstein y, en su aportación del montaje paralelo, de Griffith) son vocabulario de oficio:
+  no se han contrastado en una fuente publicada concreta. Lo que sí tiene fuente (treinta grados y dos
+  escalas; semicírculo del eje; plano, escena y secuencia; narrativo y expresivo, con el rítmico y el
+  ideológico como subtipos del expresivo; alternado y paralelo; estructuras narrativas; Kuleshov) se
+  cita en su sitio.
 - La clasificación de Eisenstein en cuatro montajes (métrico, rítmico, tonal e intelectual) no consta
   en el manual leído, que sólo trata el métrico como parte del rítmico y el intelectual como otro
   nombre del ideológico; por eso no se da aquí.
@@ -921,8 +924,9 @@ documental y ficción quedan como oficio.
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, ISBN 84-609-0453-9 | Todo lo atribuido al Libro de estilo: 3.2, 3.2.1, 3.2.2, 3.4, 3.5, 3.5.1, 3.10, 5.2, 5.3.2, 6.2, 6.2.1, 6.2.2, 6.3, 6.4, 6.5.1, 7.5.1, 7.5.2, 8.4.1, 9.2.12.3, 9.2.12.4, 9.9, 9.9.1 y 9.9.2 | 25-09-2026 |
-| Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, ISBN 978-84-18177-76-7 (PDF del editor) | Ritmo y funciones del montaje (cap. 4); corte, *jump cut* y elementos de Thompson (3.1); fundido y encadenado (3.2); eje (3.3); raccord y sus cuatro tipos (3.4); creación del movimiento (4.1); montaje interno y externo, capacidades del montador (5.1); montaje narrativo y sus subtipos (5.2); montaje expresivo, rítmico e ideológico (5.3); plano, toma, escena, secuencia y plano secuencia (6.1); estructuras narrativas (10.1); Kuleshov y Eisenstein (2.7, 4.3); *spot* y tráiler (8.1, 8.2). Páginas, las impresas del libro | 25-09-2026 |
-| Oficio | Definición de ritmo como sensación de velocidad; dónde se corta; la acción rápida; la lista de seis raccords; eje como línea que une los sujetos y regla de los 180 grados; cruce del eje; secuencia mecánica y dramática; tabla de nombres (salvo Eisenstein); *last minute rescue*; estilos de ficción y documental | — |
+| Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, ISBN 978-84-18177-76-7 (PDF del editor) | Ritmo y funciones del montaje (cap. 4); corte, *jump cut* y elementos de Thompson (3.1); fundido y encadenado (3.2); eje (3.3); raccord y sus cuatro tipos (3.4); creación del movimiento (4.1); montaje interno y externo, capacidades del montador (5.1); montaje narrativo y sus subtipos (5.2); montaje expresivo, rítmico e ideológico (5.3); plano, toma, escena, secuencia y plano secuencia (6.1); estructuras narrativas (10.1); Kuleshov y Eisenstein (2.7, 4.3); Griffith y el montaje paralelo (2.6);
+*spot* y tráiler (8.1, 8.2). Páginas, las impresas del libro | 25-09-2026 |
+| Oficio | Definición de ritmo como sensación de velocidad; dónde se corta; la acción rápida; la lista de seis raccords; eje como línea que une los sujetos y regla de los 180 grados; cruce del eje; secuencia mecánica y dramática; tabla de nombres (salvo Eisenstein y, en el paralelo, Griffith); *last minute rescue*; estilos de ficción y documental | — |
 
 Mateu cita a su vez a Martin, Chartier, Eisenstein, Tubau, Aumont, Marimón, Fernández-Tubau, Sherman, Thompson, Morales, Katz, Bordwell y Thompson,
 Villain y Martínez Sáez; las citas de esos autores se toman de Mateu, no de sus obras.

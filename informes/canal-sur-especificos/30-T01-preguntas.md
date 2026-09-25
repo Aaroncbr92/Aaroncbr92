@@ -22,3 +22,58 @@ Contestadas sólo con el tema. Clave según la fuente (Libro de estilo de Canal 
 | 15 | Estilos según el género (aplicación) | En una retransmisión deportiva, según el Libro de estilo, quien ha de formular un juicio de valor apoyándose en repeticiones, tomas diferentes y ralentizaciones es: a) el montador; b) el realizador; c) el narrador ✔; d) el editor de informativos | A medias: § 8 da la cita (8.4.1) pero sin sujeto; no dice que es el narrador |
 
 Resultado: 10 enteras, 2 a medias, 3 no. Aplicación práctica en 2, 5, 10 y 15.
+
+---
+
+# Segunda ronda (fase 4 repetida sobre el tema rematado y revisado en 5 bis)
+
+Fecha: 25-09-2026 (encargo fechado 24-09-2026). Contestadas sólo con el tema en su estado actual.
+Clave: E = entera, M = a medias, N = no.
+
+1. Según el Libro de estilo de Canal Sur, los planos de menos de un segundo en un vídeo informativo:
+   a) son recomendables en acción rápida; b) **no son admisibles**; c) se admiten en recursos;
+   d) deben durar dos segundos. → b. **E** (§ 1, 6.3.2).
+2. Una escena de un minuto de alguien que lee, montada con cuarenta planos breves de escalas distintas,
+   tiene: a) ritmo interno y externo rápidos; b) interno rápido y externo lento; c) **interno lento y
+   externo rápido**; d) ambos lentos. → c. **E** (§ 1, Mateu 4.2).
+3. Las tres funciones básicas del montaje según Mateu son: a) cortar, empalmar y sonorizar; b) **creación
+   del movimiento, del ritmo y de la idea**; c) narrar, expresar e informar; d) articular, sintetizar y
+   expandir. → b. **E** (§ 1).
+4. El descubrimiento del *jump cut* se atribuye en el manual a: a) Godard; b) Griffith; c) **Méliès**;
+   d) Kuleshov. → c. **E** (§ 2).
+5. Entre un plano y el siguiente, el elemento «ángulo de cámara» de Thompson pide variar como mínimo:
+   a) una escala y 45 grados; b) **dos escalas y treinta grados**; c) 180 grados; d) nada, basta la
+   acción. → b. **E** (§ 2).
+6. ¿Cuál NO es uno de los cuatro aspectos del raccord del Libro de estilo (6.4)? a) técnico; b) físico;
+   c) cinético; d) **de contenido estructural**. → d. **E** (§ 3).
+7. Según Katz, recogido por Mateu: a) **el fundido separa las secuencias; encadenado y corte las
+   conectan**; b) el encadenado separa y el fundido conecta; c) los tres separan; d) sólo el corte
+   conecta. → a. **E** (§ 4).
+8. Práctico. En una entrevista a una cámara, el operador cambió de lado a mitad: al montar, los dos
+   interlocutores parecen darse la espalda. En un informativo, se resuelve: a) dejándolo, porque el
+   salto de eje transmite confusión deliberada; b) **separando con un inserto o plano de detalle**;
+   c) con un fundido a negro; d) invirtiendo la imagen en horizontal. → b. **E** (§ 5).
+9. Según Mateu (con Bordwell y Thompson), hay cambio de secuencia cuando: a) hay salto espacial;
+   b) **hay salto temporal**; c) cambia el plano; d) cambia la toma. → b. **E** (§ 6).
+10. El montaje alternado se caracteriza porque las líneas narrativas: a) no comparten ni tiempo ni
+    espacio; b) **comparten tiempo pero no espacio**; c) comparten espacio pero no tiempo; d) se
+    comparan por su sentido. → b. **E** (§ 6).
+11. El montaje ideológico, en Mateu, es: a) una tercera categoría junto al narrativo y al expresivo;
+    b) un subtipo del narrativo; c) **un subtipo del expresivo, también llamado intelectual o
+    conceptual**; d) otro nombre del métrico. → c. **E** (§ 6).
+12. *Winchester 73* es el ejemplo del manual de estructura: a) lineal; b) **circular**; c) no lineal;
+    d) interactiva. → b. **E** (§ 6).
+13. Según el manual, entre las aportaciones de Griffith está: a) el cine-ojo; b) el montaje métrico;
+    c) **el montaje paralelo, como refleja *Intolerancia***; d) la geografía creativa. → c. **M**: el § 6
+    pone *Intolerancia* (Griffith, 1916) como ejemplo del paralelo, pero la tabla de nombres atribuye a
+    Griffith «el plano-contraplano, el montaje alternado y el rescate en el último minuto», sin el
+    paralelo, y quien sólo mire la tabla dudaría entre alternado y paralelo.
+14. En el cierre del informativo, según el Libro de estilo (3.10): a) la música está prohibida; b) **puede
+    ser oportuna la música adecuada para embellecer el montaje**; c) la música sólo si es la noticia;
+    d) sólo música de archivo. → b. **E** (§ 8).
+15. Práctico. Un reportaje sobre malos tratos se ilustra con recursos de archivo. El Libro de estilo pide:
+    a) rótular «Archivo» sólo al principio; b) **hacer constar «Archivo» durante todo el tiempo en que la
+    imagen esté en pantalla**; c) no rotular si es material propio; d) avisar en la entradilla.
+    → b. **E** (§ 7, 9.9.1).
+
+**Recuento (segunda ronda)**: 14 enteras, 1 a medias, 0 no.
