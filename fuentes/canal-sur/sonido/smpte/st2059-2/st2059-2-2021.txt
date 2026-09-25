@@ -1,0 +1,1116 @@
+ 
+Copyright © 2021 by THE SOCIETY OF 
+MOTION PICTURE AND TELEVISION ENGINEERS 
+445 Hamilton Avenue, White Plains, NY 10601 
+Approved December 9, 2020  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               Page 
+1 
+Scope ............................................................................................................................................ 4 
+2 
+Conformance Notation .................................................................................................................. 4 
+3 
+Normative References .................................................................................................................. 4 
+4 
+Definition of Terms and Acronyms ................................................................................................ 5 
+5 
+Byte Order ..................................................................................................................................... 7 
+6 
+PTP Profile .................................................................................................................................... 7 
+6.1 
+Profile Identification ....................................................................................................................... 7 
+6.2 
+BMCA ............................................................................................................................................ 7 
+6.3 
+Management Mechanism .............................................................................................................. 7 
+6.4 
+Path Delay Measurement Mechanism .......................................................................................... 7 
+6.5 
+PTP Attribute Values ..................................................................................................................... 8 
+6.6 
+One-step and two-step Clocks .................................................................................................... 10 
+6.7 
+Clock Physical Requirements ..................................................................................................... 11 
+6.8 
+Node Types Required, Permitted or Prohibited .......................................................................... 11 
+6.9 
+Transport Mechanisms Permitted ............................................................................................... 11 
+6.10 
+Communication Model ................................................................................................................ 12 
+6.11 
+PTP Options ................................................................................................................................ 13 
+6.12 
+Organization Extension TLV: Synchronization Metadata ........................................................... 14 
+6.13 
+Setting dynamic SM TLV Values ................................................................................................ 18 
+Annex A (Normative) Calculation of timeOfNextJam ............................................................................... 21 
+Bibliography (Informative) ........................................................................................................................ 22 
+ 
+ 
+ 
+ 
+ 
+SMPTE STANDARD 
+SMPTE Profile for Use of 
+IEEE-1588 Precision Time 
+Protocol in Professional 
+Broadcast Applications 
+Page 1 of 22 pages 
+SMPTE ST 2059-2:2021 
+Revision of SMPTE ST 2059-2:2015 
+
+SMPTE ST 2059-2:2021 
+Page 2 of 22 pages 
+Foreword 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized standards 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices, and Engineering Guidelines, are prepared by SMPTE’s Technology Committees.  
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+SMPTE Engineering Documents are drafted in accordance with the rules given in its Standards Operations 
+Manual.  
+SMPTE ST 2059-2 was prepared by Technology Committee 32NF.  
+ 
+Intellectual Property  
+  
+SMPTE draws attention to the fact that it is claimed that compliance with this Standard may involve the use of 
+one or more patents or other intellectual property rights (collectively, "IPR"). The Society takes no position 
+concerning the evidence, validity, or scope of this IPR. 
+ 
+Each holder of claimed IPR has assured the Society that it is willing to License all IPR it owns, and any third 
+party IPR it has the right to sublicense, that is essential to the implementation of this Standard to those 
+(Members and non-Members alike) desiring to implement this Standard under reasonable terms and 
+conditions, demonstrably free of discrimination. Each holder of claimed IPR has filed a statement to such 
+effect with SMPTE. Information may be obtained from the Director, Standards & Engineering at SMPTE 
+Headquarters.  
+  
+Attention is also drawn to the possibility that elements of this Standard may be subject to IPR other than those 
+identified above. The Society shall not be responsible for identifying any or all such IPR.  
+ 
+Introduction 
+This section is entirely informative and does not form an integral part of this Engineering Document. 
+IEEE Std 1588-2008 is a standard for a Precision Time Protocol (PTP) that enables precise synchronization 
+of clocks in measurement and control systems implemented with technologies such as network 
+communication, local computing, and distributed objects. The clocks communicate with each other over a 
+communication network. The protocol generates a hierarchical relationship among the clocks in the system. 
+All clocks ultimately derive their time from a clock known as the grandmaster clock. In its basic form, this 
+protocol is intended to be administration free. 
+IEEE Std 1588-2008 introduces the concept of a PTP profile. The purpose is to specify particular 
+combinations of options and attribute values to support a given application. The purpose of the profile is 
+described in IEEE Std 1588-2008 subclause 19.3.1.1 ‘General‘: 
+“The purpose of a PTP profile is to allow organizations to specify specific selections of attribute values 
+and optional features of PTP that, when using the same transport protocol, inter-work and achieve a 
+performance that meets the requirements of a particular application. 
+A PTP profile is a set of required options, prohibited options, and the ranges and defaults of configurable 
+attributes. Profiles specifications shall be consistent with the specifications in subclauses 19.2.1 and 
+19.2.2.” 
+
+SMPTE ST 2059-2:2021 
+Page 3 of 22 pages 
+Subclause 19.3.1.2 ‘PTP profile recommendations’ of IEEE Std 1588-2008 specifies what a PTP Profile 
+should contain. This includes: 
+• 
+Which algorithm to implement to compare clocks to determine the best clock to use as a source of 
+time. 
+• 
+Which of the configuration management options is to be implemented. 
+• 
+Which of the path delay mechanisms, delay request-response or peer delay is to be implemented. 
+• 
+The range and default values of all PTP configurable attributes and data set members. 
+• 
+The transport mechanisms required, permitted, or prohibited. 
+• 
+The node types required, permitted, or prohibited. 
+• 
+The options required, permitted, or prohibited. 
+This Standard defines the SMPTE PTP Profile for time and frequency synchronization in a professional 
+broadcast environment. It is intended to be used with SMPTE ST 2059-1 which defines a point in time, the 
+SMPTE Epoch, which is used for alignment of real-time signals; formulae which specify the ongoing 
+alignment of signals to time since the SMPTE Epoch; and formulae which specify the calculation of SMPTE 
+ST 12-1 time address values and SMPTE ST 309 date values. A basic understanding of these concepts that 
+are described in SMPTE ST 2059-1 will be helpful to readers of ST 2059-2. 
+This profile is designed with the following purposes in mind: 
+• 
+To permit clocks to be synchronized quickly and accurately to enable professional media over IP 
+applications.  
+• 
+To convey Synchronization Metadata (SM) required for synchronization and time labeling of 
+audio/video signals. 
+ 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 4 of 22 pages 
+1 
+Scope 
+This standard specifies a Precision Time Protocol profile specifically for the synchronization of audio/video 
+equipment in a professional broadcast environment. 
+The SMPTE PTP profile is based on IEEE Std 1588-2008 and includes a description of parameters, their 
+default values, and permitted ranges.  
+2 
+Conformance Notation 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords.  
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:”  
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended as 
+particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but 
+not necessarily required; or that (in the negative form) a certain possibility or course of action is deprecated 
+but not prohibited.  
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document.  
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the provision 
+will never be defined in the future. 
+A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+Unless otherwise specified, the order of precedence of the types of normative information in this document 
+shall be as follows:  Normative prose shall be the authoritative definition; Tables shall be next; followed by 
+formal languages; then figures; and then any other language forms. 
+3 
+Normative References 
+The following standards contain provisions that, through reference in this text, constitute provisions of this 
+standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this standard are encouraged to investigate the possibility of applying the 
+most recent edition of the standards indicated below. 
+IEEE Std 1588-2008, IEEE Standard for a Precision Clock Synchronization Protocol for Networked 
+Measurement and Control Systems1 
+IETF RFC 2236, Internet Group Management Protocol , Version 2 (IGMPv2)  
+ 
+1 IEEE Std 1588 is a registered trademark of the Institute of Electrical and Electronics Engineers, Inc. 
+
+SMPTE ST 2059-2:2021 
+Page 5 of 22 pages 
+IETF RFC 2710, Multicast Listener Discovery (MLD) for IPv6 
+IETF RFC 3376, Internet Group Management Protocol, Version 3 (IGMPv3) 
+IETF RFC 3810, Multicast Listener Discovery Version 2 (MLDv2) for IPv6 
+4 
+Definition of Terms and Acronyms 
+4.1 
+big-endian 
+byte order where the bytes of a word are transmitted such that the most significant Byte is transmitted first 
+Note 1 to entry: This is commonly known as ‘network byte order’.  
+4.2 
+ Daily Jam 
+optional daily procedure carried out within a facility that uses SMPTE ST 12-1 time code in which the time 
+address value is adjusted to correspond to Local Time at the chosen time of the Daily Jam  
+Note 1 to entry: It is usually carried out in the early hours of the morning at a non-sensitive time as determined by 
+the operator of the facility.  
+Note 2 to entry: The term "Daily Jam" is historical and used in that context. This standard does not constrain the 
+jam to take place on a daily basis.  In some systems it could occur only as required to accommodate discontinuities 
+such as Leap Seconds or daylight saving time adjustment.       
+4.3 
+follower 
+clock in the context of a Precision Time Protocol (PTP) communication path that synchronizes to a source of 
+time 
+Note 1 to entry: Referred to as ‘slave’ in IEEE Std 1588-2008. 
+4.4 
+FOLLOW state 
+state of a clock port that synchronizes to the device on the path with the port that is in the LEAD state 
+Note 1 to entry: Equivalent to SLAVE state as defined in IEEE Std 1588-2008 subclauses 6.6.2.2 and 9.2.5. 
+4.5 
+grandmaster clock 
+clock within a PTP domain that is the ultimate source of time for clock synchronization using the Precision 
+Time Protocol as defined in IEEE Std 1588-2008 
+4.6 
+leader 
+clock in the context of a single Precision Time Protocol (PTP) communication path, that is the source of time 
+to which all other clocks on that path synchronize 
+Note 1 to entry: Referred to as ‘master’ in IEEE Std 1588-2008. 
+4.7 
+LEAD state 
+state of a clock port that is the source of time on the path served by the port 
+Note 1 to entry: Equivalent to MASTER state as defined in IEEE Std 1588-2008 subclauses 6.6.2.2.and 9.2.5. 
+
+SMPTE ST 2059-2:2021 
+Page 6 of 22 pages 
+4.8 
+link 
+network segment between two Precision Time Protocol (PTP) ports supporting the peer delay mechanism of 
+the IEEE Std 1588-2008 
+4.9 
+Local Time 
+time (and date) as chosen by the facility's system administrator and implemented by the system 
+Note 1 to entry: This is typically the calendar date and time-of-day in common use in the locality. It usually includes 
+an offset from UTC including the time zone, accumulated Leap Seconds by the rules of UTC, and, where observed, 
+daylight saving time (summer time) by the rules of the responsible authority. 
+4.10 
+octet 
+byte 
+ordered sequence of 8 bits 
+Note 1 to entry:  usage of byte is retained in this document where applicable reference is made to IEEE Std 1588-
+2008 in which both usages occur. 
+4.11 
+Precision Time Protocol 
+PTP 
+time communication protocol as defined in IEEE Std 1588-2008 
+4.12 
+PTP Domain 
+logical grouping of clocks that synchronize to each other using the Precision Time Protocol, but that are not 
+necessarily synchronized to clocks in another domain  
+Note 1 to entry: See IEEE Std 1588-2008, subclause 7.1. 
+4.13 
+PTP epoch 
+origin of the timescale of a domain as defined in IEEE Std 1588-2008 (subclause 7.2.2) 
+Note 1 to entry: This PTP epoch is the same as the SMPTE epoch defined in SMPTE ST 2059-1. 
+4.14 
+PTP time 
+time elapsed since the PTP epoch as conveyed by the Precision Time Protocol as defined in IEEE Std 1588-
+2008 (subclause 7.2) 
+Note 1 to entry: The PTP epoch as defined above is 63072010 seconds before 1972-01-01T00:00:00Z (UTC).  
+4.15 
+Synchronization Metadata 
+SM 
+metadata required for the synchronization of audio/video signals 
+ 
+4.16 
+Synchronization signal 
+reference signal used for the synchronization of audio/video equipment in a professional broadcast 
+environment, for which a phase relationship with respect to the SMPTE Epoch has been defined 
+Note 1 to entry: see SMPTE ST 2059-1. 
+
+SMPTE ST 2059-2:2021 
+Page 7 of 22 pages 
+4.17 
+Time Jump 
+discontinuity in Local Time that is known in advance, caused typically by an adjustment to the number of 
+accumulated leap seconds or a change in daylight saving time 
+5 
+Byte Order 
+This document follows the byte and bit endianness presentation conventions used in IEEE Std 1588-2008 
+conventions.  
+ 
+All SM TLV numeric data types shall be encoded in big-endian format and the LSB (least significant bit) shall 
+be bit 0. Other data types are as described in IEEE Std 1588-2008. 
+6 
+PTP Profile  
+6.1 Profile Identification 
+The PTP Profile shall be identified as follows: 
+PTP Profile: 
+SMPTE profile for synchronization in a professional broadcast environment 
+Version 1.0 
+Profile identifier: 68-97-E8-00-01-00 
+ 
+This profile is specified by Society of Motion Picture and Television Engineers (SMPTE) 
+ 
+6.2 BMCA 
+The default algorithm defined in IEEE Std 1588-2008 subclauses 9.3.2, 9.3.3, and 9.3.4 (BMCA) shall be 
+used. 
+6.3 Management Mechanism 
+Management messages are used to access attributes and to generate certain events defined in this standard, 
+and for sending the SM dataset.   
+The management mechanism specified in subclause 15.2 ‘PTP management mechanism’ of IEEE Std 1588-
+2008 shall be used. 
+6.4 Path Delay Measurement Mechanism 
+The delay request-response mechanism shall be the default path delay measurement mechanism. The peer 
+delay mechanism may also be implemented. 
+Note:  A boundary clock with ports supporting each of the two mechanisms could be used to bridge between the 
+different mechanisms. As specified in IEEE Std 1588-2008, for each connection only a single mechanism is 
+permitted. 
+
+SMPTE ST 2059-2:2021 
+Page 8 of 22 pages 
+6.5 PTP Attribute Values 
+6.5.1 General 
+Attributes not specified by this profile shall use the default initialization values and ranges specified in IEEE 
+Std 1588-2008. The following attributes are specified by this profile: 
+6.5.2 Configurable data set members 
+defaultDS.priority1 
+Default value: 
+128 
+Configurable range: 
+0 to 255 
+defaultDS.priority2 
+Default value: 
+128 
+ 
+Configurable range: 
+0 to 255 
+ 
+defaultDS.priority1 specifies the priority to be used in the execution of the BMCA. defaultDS.priority2 specifies 
+the secondary priority to be used in the execution of the BMCA.  
+The above default initialization values are the same as those specified in the Default PTP profiles in Annex 
+J.3 and Annex J.4 of IEEE Std 1588-2008. 
+defaultDS.domainNumber 
+Default value: 
+127 
+ 
+Configurable range: 
+0 to 127 
+A domain consists of one or more PTP devices communicating with each other as defined by the protocol. 
+The domain is identified by an integer, the domainNumber, in the configurable range of 0 to 127.  
+defaultDS.slaveOnly 
+Ordinary clocks not capable of or not intended to 
+enter the LEAD state: 
+TRUE 
+ 
+Otherwise: 
+FALSE 
+All Ordinary Clock devices that are not explicitly intended to enter the LEAD state should set this attribute as 
+TRUE. 
+portDS.logAnnounceInterval:  
+Default value:  
+0  
+ 
+Configurable range: 
+-3 to +1   
+The portDS.logAnnounceInterval specifies the mean time interval between successive Announce messages, 
+i.e., the announceInterval. This interval in concert with announceReceiptTimeout governs how quickly the 
+BMCA re-configures the system in the event of a failure.  
+The portDS.logAnnounceInterval shall be chosen to be uniform throughout a domain. 
+Note:  The value of the parameter is the logarithm to base 2 of the time interval in seconds.  (For example, an 
+interval of 0.25 s gives a value of -2, and an interval of 2 s gives a value of +1.) 
+In order to facilitate quick synchronization, the default value, or a shorter interval than the default, is 
+recommended.   
+portDS.announceReceiptTimeout:  Default value:  
+3 
+ 
+Configurable range: 
+2 to 10  
+The value of portDS.announceReceiptTimeout specifies the number of announceIntervals that have to pass 
+without receipt of an Announce message before the occurrence of the event 
+ANNOUNCE_RECEIPT_TIMEOUT_EXPIRES.  
+
+SMPTE ST 2059-2:2021 
+Page 9 of 22 pages 
+The above default initialization value and configurable range is as specified in the Delay Request-Response 
+Default PTP profile in Annex J.3 of IEEE Std 1588-2008. 
+portDS.logSyncInterval:  
+Default value: 
+-3 
+ 
+Configurable range: 
+-7 to -1 
+The portDS.logSyncInterval specifies the mean time interval between successive Sync messages. The value 
+of the parameter is the logarithm to base 2 of the time interval in seconds. 
+This interval is set to a low value (i.e. high message rate) to allow clocks to synchronize quickly. In order to 
+facilitate quick synchronization, the default value, or a shorter interval than the default, is recommended.   
+portDS.delayMechanism: 
+Delay request-response: 
+01h 
+ 
+Peer delay: 
+02h 
+The portDS.delayMechanism specifies the propagation delay measuring option used by the port, as per 
+subclause 6.4 of this profile. 
+portDS.logMinPDelayReqInterval  
+Default value:  
+equal to portDS.logSyncInterval 
+ 
+Configurable range: 
+portDS.logSyncInterval to 
+portDS.logSyncInterval+5 
+The portDS.logMinPDelayReqInterval specifies the minimum permitted mean time interval between 
+successive Pdelay_Req messages, i.e., the minPdelayReqInterval, sent over a link. 
+Note:  Quick synchronization might not be possible with portDS.logMinPDelayReqInterval values greater than 2. 
+transparentClockDefaultDS.delayMechanism End-to-end transparent clock: 
+01h 
+ 
+Peer-to-peer transparent clock 
+02h 
+The transparentClockDefaultDS.delayMechanism specifies the delay measuring option used by the 
+transparent clock. 
+transparentClockDefaultDS.primaryDomain 
+Default value: 
+same as defaultDS.domainNumber 
+The transparentClockDefaultDS.primaryDomain specifies the primary syntonization domain of the transparent 
+clock. 
+6.5.3 Dynamic data set members 
+portDS.logMinDelayReqInterval: 
+Default initialization value: portDS.logSyncInterval 
+ 
+Permitted range: 
+portDS.logSyncInterval to portDS.logSyncInterval + 5 
+portDS.logMinDelayReqInterval is a dynamic attribute determined and advertised by a leader based on the 
+ability of the leader to process the Delay_Req message traffic. (See subclause 7.7.2.4 ‘Delay_Req message 
+transmission interval’ of IEEE Std 1588-2008). 
+The default initialization value should be as above. Optionally, a different initialization value may be 
+configured 
+within 
+the 
+permitted 
+range. 
+The 
+leader 
+should 
+not 
+increase 
+the 
+value 
+of 
+portDS.logMinDelayReqInterval with respect to the initialized value (decrease the message rate) unless the 
+number of followers exceeds the number that the leader is able to support at the initialized rate.  
+
+SMPTE ST 2059-2:2021 
+Page 10 of 22 pages 
+6.5.4 Other attributes 
+τ: 
+Default value: 
+1.0 s 
+This parameter τ (Greek letter tau) is the sample period between measurements in the variance algorithm, as 
+described in subclause 7.6.3.2 ‘Variance algorithm’ of IEEE Std 1588-2008. 
+The above default initialization value is as specified in the Delay Request-Response Default and the Peer-to-
+Peer Default PTP profiles in Annex J.3 and J.4 of IEEE Std 1588-2008. 
+clockClass 
+The characteristics applicable to this profile shall be those defined in Table 5 of IEEE Std 1588-2008. 
+timePropertiesDS.timeTraceable 
+The value of this flag shall be as specified in subclauses 8.2.4.6 and 9.4 of IEEE Std 1588-2008. 
+Note 1: This flag, in conjunction with other clock parameters, can be used to determine whether independent 
+grandmasters are providing an equivalent time reference. 
+Note 2: The use of timePropertiesDS.timeTraceable in this profile is not intended to indicate legal traceability. 
+parentDS.grandmasterClockQuality 
+The value of this attribute shall be as specified in subclauses 7.6.2.4, 7.6.2.5 and 7.6.3 of IEEE Std 
+1588-2008. The clockAccuracy member should not be set to "Unknown". 
+Note: This attribute, in conjunction with other clock parameters, can be used to determine whether independent 
+grandmasters are providing an equivalent time reference. 
+6.5.5 Additional Enumerated Values 
+timeSource 
+The value of timeSource provides information about the source of time used by the grandmaster and shall be 
+as enumerated in subclause 7.6.2.6 of IEEE Std 1588-2008 or one of the following two additional enumerated 
+values defined in this profile: 
+ timeSource = F0h 
+Time in the grandmaster is derived from the periodicity of a 
+synchronization signal where the time value is undefined and is not 
+related to real time and the timescale is ARB. 
+ timeSource = F1h 
+Time in the grandmaster is derived from the periodicity of a 
+synchronization signal where the time value was initialized using the 
+PTP timescale. Subsequent time accuracy in relation to real time will 
+depend on the frequency accuracy of the synchronization signal. 
+6.6 One-step and two-step Clocks 
+Followers shall support one-step and two-step clocks.  
+
+SMPTE ST 2059-2:2021 
+Page 11 of 22 pages 
+6.7 Clock Physical Requirements 
+6.7.1 Frequency accuracy 
+For application as the reference for a facility synchronization system, the PTP grandmaster clock shall 
+maintain a frequency such that the value of the second as measured by the Grandmaster Clock deviates by 
+no more than ± 5 parts per million (ppm) from the SI second.  
+This accuracy might not be appropriate for all applications; requirements for precision and stability of 
+oscillators for both leaders and followers are application dependent, and appropriate choices should be made 
+during system design. 
+6.7.2 Frequency adjustment range 
+Any clock in the FOLLOW state shall be able to correct its frequency to match any clock meeting the 
+requirement above.  
+6.8 Node Types Required, Permitted or Prohibited 
+Required node types: 
+Ordinary Clocks 
+Permitted node types: 
+Boundary Clocks, End-to-end Transparent Clocks, Management node 
+Prohibited node types: 
+Peer to peer Transparent Clocks  
+6.9 Transport Mechanisms Permitted 
+Permitted transport mechanisms:   
+UDP over IPv4 as specified in in Annex D of IEEE Std 1588-2008 
+ 
+UDP over IPv6 as specified in in Annex E of IEEE Std 1588-2008 
+At least one of the two permitted transport mechanisms shall be supported.  
+Boundary clocks supporting both transports simultaneously shall be permitted. 
+Transparent Clocks shall forward IPv4 messages using IPv4 and shall forward IPv6 messages using IPv6. 
+Annex D.5 of IEEE Std 1588-2008 states that for PTP event messages in the case of IPv4, the value of the 
+differentiated service (DS) field in the Type of Service (ToS) field should be set to the highest traffic class 
+selector code point available. The highest available codepoint typically corresponds to Expedited Forwarding 
+(EF) as defined in RFC 3246.  If the network supports Expedited Forwarding, PTP event messages should be 
+marked with the corresponding codepoint.  The recommended codepoint for EF is 46 decimal. If the 
+forwarding behaviors and codepoints supported by the network are unknown, PTP event messages should be 
+marked with the codepoint 46 decimal. PTP general messages should be marked with the same or lower 
+DSCP value as event messages. 
+ 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 12 of 22 pages 
+6.10 Communication Model 
+6.10.1 General 
+For IPv4 multicast messages, IGMPv2 shall be supported. For IPv6 multicast messages, MLDv2 shall be 
+supported and  MLDv1 may be supported. 
+Within a given PTP Domain, Announce, Sync and Follow_Up messages shall use the same transport mode, 
+and shall be either all multicast or all unicast.  
+If a Follow_Up message is associated with an optional unicast Sync message then the Follow_Up message 
+shall also be transmitted as a unicast message to the same unicast address as the associated Sync message 
+in accordance with IEEE Std 1588-2008 subclause 9.5.10. 
+For any Delay_Req messages received in either multicast or unicast, the PTP leader shall respond with a 
+Delay_Resp message in the same mode in accordance with IEEE Std 1588-2008 subclause 9.5.12. 
+Management messages may be multicast or unicast.   
+Within a PTP Domain, SM TLV management messages shall use the same transport mode as the Announce, 
+Sync and Follow_Up messages.   
+Replies to SM TLV management messages shall be unicast. However, to avoid packet burst in large PTP 
+networks a device should not reply to SM TLV management messages. 
+The only valid transport modes shall be multicast, mixed, and unicast as defined below. Multicast and mixed 
+transport modes may coexist within a given PTP Domain while unicast transport mode shall not coexist with 
+other transport modes. 
+Leaders shall support multicast transport mode and mixed transport mode simultaneously and may support 
+unicast transport mode. Followers shall support multicast transport mode. Followers may support mixed 
+transport mode and may support unicast transport mode. 
+6.10.2 Multicast transport mode 
+In this mode, leaders shall send Announce, Sync, SMPTE TLV management messages and, if applicable, 
+Follow_Up messages as multicast and followers shall send Delay_Req messages as multicast. Delay_Resp 
+messages are sent as multicast. 
+6.10.3 Mixed transport mode 
+In this mode which is optional for followers to support, leaders shall send Announce, Sync, SMPTE TLV 
+management messages and, if applicable, Follow_Up messages as multicast and followers shall send 
+Delay_Req messages as unicast. Delay_Resp messages are sent as unicast. Unicast negotiation shall not be 
+used for Delay_Resp messages. 
+In this mode, followers shall send unicast Delay_Req messages to the IP source address in the Announce 
+message from the leader.  The IP source addresses of Sync and Follow_Up messages cannot be relied upon 
+because they might have been replaced by the source address of a Transparent Clock.  The Sync and 
+Follow_Up messages can be correlated with the Announce message using the sourcePortIdentity field in the 
+common message header, which is not altered by Transparent Clocks. 
+ 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 13 of 22 pages 
+6.10.4 Unicast transport mode 
+In this optional mode, leaders shall send Announce, Sync, SMPTE TLV management messages and, if 
+applicable, Follow_Up messages as unicast and followers shall send Delay_Req messages as unicast. 
+Unicast negotiation shall be used.  
+All applicable follower ports are configured with a set of potential leaders. Each follower uses the unicast 
+negotiation option to request that the potential leaders transmit unicast Announce, Sync, and Delay_Resp 
+messages to it. In this mode, leaders grant unicast transmission of Announce, Sync, and Delay_Resp 
+messages and followers send unicast Delay_Req messages.   
+The unicast discovery option specified in IEEE Std 1588-2008 subclause 17.5 may be used to implement this 
+set of leaders.  If more than one leader grants unicast announce messages, the follower shall select the best 
+leader according to the BMCA as specified in IEEE Std 1588-2008 subclause 9.3. 
+Note: The number of potential leaders configured in each follower port is implementation specific.  In most cases all 
+the followers in a system would be configured with the same set of potential leaders to facilitate all followers 
+choosing the same best leader. 
+6.11 PTP Options 
+Required: none 
+Permitted: Path trace, unicast message negotiation, unicast discovery, alternate timescales, acceptable 
+master table 
+Prohibited: alternate master, grandmaster clusters 
+ 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 14 of 22 pages 
+6.12 Organization Extension TLV: Synchronization Metadata 
+Once every second and also when its locking status is changed, every port in LEAD state in a grandmaster 
+clock shall issue a Management Message with Synchronization Metadata (SM) TLV appended.  If followers 
+have negotiated unicast Announce/Sync messages then SM TLV shall be sent as unicast to these 
+destinations. 
+The Management Message (COMMAND) shall be as defined in Table 1 and the SM TLV shall be set as 
+defined in Table 2.  
+Note 1: SM TLV is an organization-specific TLV. Its structure is not the same as that of the management TLV 
+specified in subclause 15.5 of IEEE Std 1588-2008 for use with PTP management messages. Processing of PTP 
+management messages according to IEEE Std 1588-2008 uses the value of the managementId present in the 5th 
+and 6th octets of management TLVs. The SM TLV is of ORGANIZATION_EXTENSION tlvType in which the 5th 
+and 6th octets instead contain part of the organizationId, 0x6897.  While not an issue with implementations that 
+follow this standard, it is possible that devices that do not support the SMPTE Profile might respond with an error 
+message, either because the tlvType is ORGANIZATION_EXTENSION and not MANAGEMENT or because an 
+expected managementId appears as 0x6897, which is in a reserved range. 
+ 
+Note 2: Messages related to synchronization, establishing the  clock hierarchy, and signaling terminate in the 
+protocol engine of a boundary clock and are not forwarded. Management messages are forwarded by other ports 
+on the boundary clock subject to restrictions to limit the propagation of these messages within the system. 
+Table 1 – Structure of Management Message (COMMAND) 
+ 
+Bits 
+Octets 
+(Bytes) 
+Offset 
+Description 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
+Header 
+34 
+0 
+See IEEE Std 1588-2008, 
+subclause 13.3 
+targetPortIdentity 
+10 
+34 
+All ones 
+startingBoundaryHops 
+1 
+44 
+See IEEE Std 1588-2008 
+subclause 15.4.1.4 
+ 
+Note: The value of 
+startingBoundaryHops is chosen to 
+take into account the maximum 
+number of boundary clocks through 
+which the message is expected to 
+propagate. 
+boundaryHops 
+1 
+45 
+See IEEE Std 1588-2008 
+subclause 15.4.1.5 
+Reserved 
+actionField 
+1 
+46 
+actionField = COMMAND 
+Reserved 
+1 
+47 
+ 
+SM TLV (see Table 2) 
+52 
+48 
+ 
+ 
+ 
+ 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 15 of 22 pages 
+Table 2 – Structure of SM TLV 
+ 
+Item 
+Octets 
+(Bytes) 
+Offset 
+Description 
+tlvType 
+2 
+0 
+ORGANIZATION_EXTENSION, which has the value of 
+00 03. 
+lengthField 
+2 
+(uint16) 
+2 
+The length of the SM TLV data structure excluding 
+tlvType and lengthField. This shall be an even number 
+(see IEEE Std 1588-2008, subclause 14.3.2.2). For this 
+version, the value of the lengthField shall be 48. 
+organizationId 
+3 
+4 
+68 97 E8 (SMPTE OUI) 
+organizationSubType 
+3 
+7 
+Used to indicate the SM TLV version for management 
+of forward / backward compatibility. 
+00 00 01 for this version. 
+defaultSystemFrameRate 
+8 
+10 
+Default video frame rate of the system as a lowest term 
+rational. The data type shall be composed of a pair of 
+unsigned Int32 values coded in big-endian form where 
+the first shall be the numerator and the second shall be 
+the denominator. The denominator shall be the 
+smallest value that represents the frame rate 
+denominator2.  
+ 
+2 For example, for a video frame rate of 30000/1001 Hz (i.e., 30/1.001 Hz or nominally “29.97” Hz), the 
+number would appear as 00 00 75 30 00 00 03 e9 in hexadecimal format. 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 16 of 22 pages 
+Item 
+Octets 
+(Bytes) 
+Offset 
+Description 
+gmLockingStatus 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+Complementary information to clockClass3  
+0: Unavailable 
+All information about the grandmaster clock is 
+conveyed in the Announce Message. 
+1: Internal 
+Grandmaster is using a stable internal reference 
+clock but is not synchronized to an external 
+reference time source. Applies if time was set 
+manually or if was previously locked to an external 
+source. Followers would be expected to initiate (or 
+maintain) synchronization with the grandmaster.   
+2: Cold Locking 
+In response to a disturbance, the grandmaster is 
+re-locking quickly. In this situation, a rapid phase 
+adjustment with a time discontinuity can be 
+expected. 
+3: Warm Locking 
+In response to a disturbance, the grandmaster is 
+re-locking slowly by means of a frequency 
+adjustment, with no phase discontinuity. Time 
+continuity is maintained.    
+4: Externally locked (i.e., in normal operation and 
+stable) 
+The grandmaster is locked to an external 
+reference. Frequency stability and phase are 
+determined by the external reference. Followers 
+would be expected to initiate (or maintain) 
+synchronization with the grandmaster. 
+timeAddressFlags 
+1 
+19 
+ 
+Indicates the intended SMPTE ST 12-1 flags.  
+Bit 0: Drop frame 
+         0: Non-drop-frame 
+         1: Drop-frame 
+Bit 1: Color Frame Identification 
+         0: Not in use 
+         1: In use 
+Bits 2-7:  Reserved 
+ 
+ 
+3 The Announce Message has a parameter named clockClass which can convey similar information. Because 
+the clockClass parameter indicates only whether the grandmaster is locked or unlocked, complementary 
+information about the behavior of the grandmaster in the event of a disturbance can be set using this field. 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 17 of 22 pages 
+Item 
+Octets 
+(Bytes) 
+Offset 
+Description 
+currentLocalOffset 
+4 
+(int32) 
+20 
+Offset in seconds of Local Time from grandmaster PTP 
+time4. See Section 6.13.  
+jumpSeconds 
+4 
+(int32) 
+24 
+The size of the next discontinuity, in seconds, of Local 
+Time. A value of zero indicates that no discontinuity is 
+expected. 
+A 
+positive 
+value 
+indicates 
+that 
+the 
+discontinuity will cause the currentLocalOffset to 
+increase. 
+timeOfNextJump 
+6 
+(uint48) 
+28 
+The value of the seconds portion of the grandmaster 
+PTP time at the time that the next discontinuity of the 
+currentLocalOffset will occur. The discontinuity occurs 
+at the start of the second indicated. See Section 6.13. 
+timeOfNextJam 
+6 
+(uint48) 
+34 
+The value of the seconds portion of the PTP time 
+corresponding to the next scheduled occurrence of the 
+Daily Jam.  
+If no Daily Jam is scheduled, the value of 
+timeOfNextJam shall be zero. See Section 6.13. 
+timeOfPreviousJam 
+6 
+(uint48) 
+40 
+The value of the seconds portion of the PTP time 
+corresponding to the previous occurrence of the Daily 
+Jam.  
+See Section 6.13. 
+previousJamLocalOffset 
+4 
+(int32) 
+46 
+The value of currentLocalOffset at the time of the 
+previous Daily Jam event. 
+If a discontinuity of Local Time occurs at the jam time, 
+this parameter reflects the offset after the discontinuity. 
+The default value shall be the current value of 
+currentLocalOffset 
+See Section 6.13. 
+daylightSaving 
+1 
+50 
+Bit 0:  Current Daylight Saving 
+0: Not in effect 
+1: In effect 
+Bit 1: Daylight Saving at next discontinuity 
+0: Not in effect 
+1: In effect 
+Bit 2: Daylight Saving at previous Daily Jam event 
+0: Not in effect 
+1: In effect 
+Bits 3-7: Reserved 
+See Section 6.13. 
+ 
+4 For example, if Local Time is Eastern Standard Time (North America) UTC−5, the date is 2014-01-01, and 
+the time difference between TAI and UTC taking into account the number of leap seconds is -35, the value 
+will be -18035 (decimal). If Daylight Saving is in effect (Eastern Daylight Time) UTC−4, the date is 
+2014-07-01, and the time difference between TAI and UTC taking into account the number of leap seconds is 
+-35, the value will be -14435 (decimal). 
+
+SMPTE ST 2059-2:2021 
+Page 18 of 22 pages 
+Item 
+Octets 
+(Bytes) 
+Offset 
+Description 
+leapSecondJump 
+1 
+51 
+The reason for the forthcoming discontinuity of 
+currentLocalOffset indicated by timeOfNextJump 
+Bit 0:  
+              0: Other than a change in the number  
+                  of leap seconds (default) 
+              1: A change in number of leap seconds 
+Bits 1-7: Reserved 
+See Section 6.13.2. 
+ 
+Note 3: SM TLV messages can experience slight delays from network transit times and internal processing in the 
+follower before being ready for use. jumpSeconds and timeOfNextJump are designed to compensate for these 
+delays by informing the follower in advance when changes signaled by the Synchronization Metadata are to be 
+applied to time address calculations. Use of this mechanism in the follower is detailed in SMPTE ST 2059-1.  
+ 
+Note 4: In Table 2, each reference to ‘Section’ is to a section within this document.  
+ 
+To determine Local Time, the follower shall add the signed 32-bit seconds field currentLocalOffset to the 
+reconstructed PTP time. 
+ 
+6.13 Setting dynamic SM TLV Values 
+6.13.1 General 
+A Time Jump event is signaled in advance to indicate the future occurrence of a discontinuity in Local Time. 
+This might arise from an adjustment to the number of accumulated leap seconds or daylight saving time.  
+The occurrence of the Daily Jam event, used to adjust the SMPTE ST 12-1 time address value generated in 
+followers to Local Time, is also signaled in advance. This is signaled separately to a Time Jump event.   
+The SMPTE ST 12-1 time address discontinuity arising from the Time Jump event might not be immediately 
+reflected in the time address value generated in followers. Rather, the adjustment to the SMPTE ST 12-1 time 
+address value is made at the next Daily Jam event (see SMPTE ST 2059-1). 
+ 
+The values of several of the SM TLV items listed in Table 2 are dynamic in nature: currentLocalOffset, 
+jumpSeconds, 
+timeOfNextJump, 
+timeOfNextJam, 
+timeOfPreviousJam, 
+previousJamLocalOffset, 
+leapSecondJump and daylightSaving.  
+The values of some of these items are influenced by local operational policies and requirements. These 
+include the Local Time zone, the time of the Daily Jam (if applicable), the dates and times when daylight 
+saving time will take effect or end, and when leap-second changes occur. 
+ 
+ 
+Care needs to be taken on days when daylight saving time starts or ends to ensure that time-related SM TLV 
+items signaled using PTP time achieve the required results at the intended Local Time. 
+Section 6.13.2 in this document specifies how SM TLV items are set in order to signal a Time Jump event. 
+ 
+Section 6.13.3 in this document specifies how SM TLV items are set in order to signal the Daily Jam event. 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 19 of 22 pages 
+6.13.2 Signaling a Time Jump event 
+If the time of the next Time Jump event is not yet known, jumpSeconds and timeOfNextJump shall be set to 0. 
+ 
+To signal a Time Jump event, timeOfNextJump should be changed to the required value at least one day in 
+advance of the event. In the same Management Message as the aforementioned change in value of 
+timeOfNextJump and in subsequent Management messages, jumpSeconds shall be set to the value of the 
+required time discontinuity of the Time Jump event and leapSecondJump shall be set to the appropriate value 
+for the forthcoming discontinuity.  
+ 
+If the reason for the Time Jump event is the insertion or deletion of a leap second, Bit 0 of leapSecondJump 
+shall be set to 1. In the case of an inserted (positive) leap second, jumpSeconds shall be set to −1 and 
+timeOfNextJump shall be set to the PTP time of the second following the inserted second. In the case of a 
+deleted (negative) leap second, jumpSeconds shall be set to +1 and timeOfNextJump shall be set to the PTP 
+time of the second following the deleted second. 
+ 
+When the grandmaster PTP time seconds becomes greater than the unsigned 48-bit timeOfNextJump field 
+(i.e., when the time of the event has been passed), the values of the following SM TLV items shall be 
+changed as indicated: 
+ 
+• 
+currentLocalOffset shall be adjusted to take into account the time discontinuity occurring at the Time 
+Jump event. 
+ 
+• 
+jumpSeconds and timeOfNextJump shall be set to 0 if no further Time Jump event is to be signaled 
+and these values shall be maintained in subsequent Management Messages until the next Time 
+Jump event is known. 
+ 
+• 
+daylightSaving shall be set to an updated value in accordance with its usage as described in Table 2 
+and this value shall be maintained in subsequent Management Messages until the next Time Jump 
+event related to a daylight saving change has taken place. 
+ 
+• 
+if the value of Bit 0 of leapSecondJump had been set to 1, it shall be restored to its default value of 0.  
+ 
+6.13.3 Signaling the Daily Jam event 
+If Daily Jam is not in use, timeOfNextJam shall be set to zero, and timeOfPreviousJam and 
+previousJamLocalOffset shall be set to achieve the required initialization of followers. 
+ 
+Note 1: In integer frame rate environments, setting timeOfPreviousJam to any time in the past, such as zero, and 
+previousJamLocalOffset to currentLocalOffset will result in generated time addresses being aligned with Local 
+Time. 
+ 
+If Daily Jam is in use, timeOfNextJam shall be initialized to the value corresponding to the next scheduled 
+occurrence of the Daily Jam event in accordance with the steps described in Annex A. timeOfPreviousJam 
+shall be initialized to the value corresponding to when the previous Daily Jam event would have been and 
+previousJamLocalOffset shall be initialized to the value of currentLocalOffset that would have been applicable 
+at the time of the previous jam. 
+ 
+Note 2:  After initailization in the way described above, the above equation takes into account any adjustments to 
+Local Time caused by changes in daylight saving or the number of leap second. 
+ 
+Following initialization of timeOfPreviousJam and previousJamLocalOffset, their values should not be 
+changed until after a jam has taken place. 
+ 
+The following procedure shall then be followed. 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 20 of 22 pages 
+When the grandmaster PTP time seconds becomes greater than the value of timeOfNextJam (i.e., when the 
+time of the Daily Jam has been passed, the values of the following SM TLV items shall be changed as 
+indicated: 
+ 
+• 
+previousJamLocalOffset shall be set to the value of currentLocalOffset at the time of the Daily Jam 
+event that has just passed and this value of previousJamLocalOffset shall be maintained in 
+subsequent Management Messages until the next Daily Jam event. 
+ 
+• 
+timeOfPreviousJam shall be set to the value of timeOfNextJam and this value of timeOfPreviousJam 
+shall be maintained in subsequent Management Messages until the next Daily Jam event. 
+ 
+• 
+timeOfNextJam shall be set to the value corresponding to the next scheduled Daily Jam event or zero 
+if no forthcoming jam event is scheduled. 
+
+SMPTE ST 2059-2:2021 
+Page 21 of 22 pages 
+Annex A   (Normative) Calculation of timeOfNextJam   
+timeOfNextJam shall correspond to a Local Time that is an integer multiple of 600 seconds (i.e., in units of 10 
+minutes).  
+ 
+There should not be more than one Daily Jam event between two successive midnights (Local Time).  
+ 
+The following steps shall be used to calculate timeOfNextJam: 
+ 
+Where the jam is required to take place on a daily basis at a user-selected time of day on the Local Time 
+scale and where the hours and minutes are userDailyJamTimeHH and userDailyJamTimeMM respectively:  
+ 
+t is the elapsed time from the PTP Epoch in seconds 
+floor(a) is the greatest integer less than or equal to the real number a 
+t_mlocal and t_pdjamLocal are local scope temporary variables 
+ 
+1. 
+Calculate time of midnight on Local Time scale (t_mlocal) 
+t_mlocal = floor ((t + currentLocalOffset)/(24×60×60))×24×60×60 
+2. 
+Calculate next Time of Daily Jam on Local Time scale (t_pdjamLocal) 
+t_pdjamLocal = t_mlocal + (userDailyJamTimeHH×60×60) + (userDailyJamTimeMM×60) 
+3. 
+Calculate time of next Daily Jam on the PTP scale 
+timeOfNextJam = t_pdjamLocal - currentLocalOffset 
+4. 
+Ensure timeOfNextJam is in the future 
+If t is greater than or equal to timeOfNextJam then 
+         
+ 
+ 
+timeOfNextJam = timeOfNextJam + (24×60×60) 
+endif 
+ 
+If currentLocalOffset is scheduled to change (as signaled by timeOfNextJump) in advance of the next planned 
+occurrence of the Daily Jam, the value of timeOfNextJam shall be adjusted by the same amount to ensure 
+that timeOfNextJam corresponds to the correct Local Time of the intended jam. 
+ 
+When the jam is required to take place at the time of the next discontinuity in Local Time (for example, to 
+coincide with a change in daylight saving time), the following equation shall be used to generate 
+timeOfNextJam. 
+ 
+timeOfNextJam = timeOfNextJump 
+ 
+Note: The above provision is also needed when implementing a single jam event in facilities that do not use Daily 
+Jam. 
+ 
+
+SMPTE ST 2059-2:2021 
+Page 22 of 22 pages 
+Bibliography (Informative) 
+SMPTE ST 12-1:2014, Time and Control Code 
+ 
+SMPTE ST 309:2012, Transmission of Date and Time Zone Information in Binary Groups of Time and Control 
+Code 
+ 
+SMPTE ST 2059-1:2021, Generation and Alignment of Interface Signals to the SMPTE Epoch 
+ 
+AES11-2009 (r2014): AES Recommended Practice for Digital Audio Engineering — Synchronization of Digital 
+Audio Equipment in Studio Operations 
+ 
+AES67-2018, AES Standard for Audio Applications of Networks — High-Performance Streaming Audio-Over-
+IP Interoperability 
+ 
+IETF RFC 2365, Administratively Scoped IP Multicast 
+ 
+IETF RFC 4604, Using Internet Group Management Protocol Version 3 (IGMPv3) and Multicast Listener 
+Discovery Protocol Version 2 (MLDv2) for Source-Specific Multicast 
+IETF RFC 4607, Source-Specific Multicast for IP  
+ 
+IETF RFC 5771, IANA Guidelines for IPv4 Multicast Address Assignments 
+ 
+NIST Special Publication 330, 2008 Edition, The International System of Units (SI), Barry N. Taylor and 
+Ambler Thompson, Editors 
+ 
+Recommendation ITU-R TF.460-6 (02/02), Standard-Frequency and Time-Signal Emissions 
+ 
+ 
+ 
+ 

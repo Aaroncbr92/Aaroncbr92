@@ -1,0 +1,378 @@
+Application Report
+SNAA034A–May 2006–Revised May 2013
+AN-1497 Filterless Class D Amplifiers
+.....................................................................................................................................................
+ABSTRACT
+As portable electronic devices continue to shrink in size, manufacturers look for ways to push the
+envelope and develop the smallest, yet most functional product available. The promise of longer battery
+life, smaller size and an enhanced sensory experience appeals to customers. Like the voltage regulator
+market, where system designers moved away from the simple but power hungry linear regulator to the
+more complicated, more efficient switching regulators, audio designers are adopting the switching, or
+Class D amplifier for the same reasons; less heat build up and longer battery life.
+Contents
+1
+Introduction .................................................................................................................. 2
+2
+Revision History ............................................................................................................. 7
+List of Figures
+1
+LM4673 vs. Class AB Efficiency ..........................................................................................
+2
+2
+Battery Life Time............................................................................................................
+3
+3
+LRC Output Filter ...........................................................................................................
+4
+4
+Electrical Speaker Model...................................................................................................
+4
+5
+Conventional Class D Switching..........................................................................................
+4
+6
+In Phase Switching .........................................................................................................
+5
+7
+Switching Waveform with Input Signal ...................................................................................
+5
+8
+LM4673 THD+N vs. Output Power .......................................................................................
+6
+9
+LM4673 THD+N vs Frequency............................................................................................
+6
+10
+LM4673 PSRR ..............................................................................................................
+7
+All trademarks are the property of their respective owners.
+1
+SNAA034A–May 2006–Revised May 2013
+AN-1497 Filterless Class D Amplifiers
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+0
+250
+500
+750
+1000
+1250
+1500
+OUTPUT POWER (mW)
+EFFICIENCY (%)
+LM4673
+CLASS AB
+RL = 8:
+VDD = 5V
+f = 1 kHz
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Introduction
+www.ti.com
+1
+Introduction
+One area where manufacturers look to decrease power consumption is the audio portion of the system. In
+the past, system designers were offered only one option, the tried and true, but inefficient linear audio
+amplifier. Steps were taken to improve the linear amplifier efficiency while preserving audio fidelity
+resulting in the topology that provides the best balance between performance and efficiency, Class AB.
+Class AB exhibits a theoretical peak efficiency of 78%, and is only 30% - 40% efficient at normal operating
+levels. Efficiency is where the switching, or Class D, audio amplifier has large advantages over linear
+classes. Although Class D amplifiers offer increased battery life and lower operating temperatures, early
+generations were met with guarded interest; cost, size and performance were sub-par compared to linear
+amplifiers and limited their adoption. However, recent advances in Class D technology have made these
+amplifiers more appealing. Improved audio performance and the introduction of filterless devices have
+contributed to the increasing acceptance of Class D.
+The major advantage of using Class D is efficiency. The more efficient a device is, the less power it
+wastes; a 90% efficient amplifier at 1W output dissipates 100mW, while a 60% efficient amplifier with the
+same 1W output consumes 400mW. Lower power dissipation, or power consumed by the device, leads to
+longer battery life and less heat generation.
+Figure 1 compares the efficiency of the LM4673, a mono 2.65W Class D amplifier to a similar Class AB
+amplifier. At peak output power (1.5W) the class D amplifier has 88% efficiency while the Class AB
+amplifier only achieves 75%. At a mere 13%, the difference does not appear siginificant. However, a
+comparison at nominal output levels reveals a dramatic difference between the two architectures. At
+500mW into an 8Ωload, a typical class D amplifier exhibits 85% efficiency while the Class AB amplifier is
+only 44% efficient. The difference in power dissipation is a very significant 550mW. At a 500mW output
+level the increased power consumption shortens the life of an 800mAh single cell lithium-ion battery by
+197 minutes, well over three hours. Figure 2 shows the theoretical operating time of an 800mAh lithium-
+ion battery powering a LM4673 and a comparable Class AB amplifier.
+Figure 1. LM4673 vs. Class AB Efficiency
+2
+AN-1497 Filterless Class D Amplifiers
+SNAA034A–May 2006–Revised May 2013
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+1
+10
+100
+1000
+0
+250
+500
+750
+1000
+1250
+1500
+OUTPUT POWER (mW)
+BATTERY LIFE (HOURS)
+CLASS AB
+LM4673
+www.ti.com
+Introduction
+Figure 2. Battery Life Time
+Despite the efficiency advantage, early generations of Class D amplifiers were viewed as large,
+expensive, noisy, cumbersome to design, and featured sub-par audio performance. Not only were the ICs
+more expensive than their linear counterparts, but since the amplifiers utilized a switching architecture,
+layout became critical to minimize noise coupling. Magnetic components were required for filtering also
+increasing the complexity, size and cost of the overall solution. The requirement for output filters limited
+the use of class D amplifiers in space sensitive applications such as cell phones.
+The output filter requirement came about from the need to extract the audio component of the PWM
+output. The output filter, typically a second order low-pass LRC filter (Figure 3), attenuates the high
+frequency content of the amplifier’s output allowing the audio portion to pass to the load. Because the filter
+components sit in the audio signal path between the amplifier and speaker, the filter components,
+especially the inductors, must be sized to handle the maximum output current. This leads to physically
+large, expensive inductors for high power applications. In addition to the increased component count and
+cost, the output filter degrades the overall performance of the amplifier. Filter non-linearities in the pass
+band contributes to THD and noise. Finite inductor DCR, as well as any filter attenuation in the audio
+band, further reduces the efficiency of the system.
+Although the class D outputs a high frequency PWM signal, an external LC filter is, in fact, not required to
+extract the audio content. Speakers have a limited frequency response. Speakers are characterized by
+their DC resistance, typically 4Ωor 8Ωfor loudspeakers and 16Ωor 32Ωfor headphones. However, a
+speaker is not a simple resistive element with a flat frequency response over a very wide bandwidth. A
+speaker consists of a coiled wire (voice coil) suspended in a magnetic field. The inductive nature of the
+coiled wire combined with its resistance gives the speaker a finite frequency response. Figure 4 shows a
+simplified electrical model for a speaker, basically a low-pass filter. Therefore, a speaker cannot respond
+to the high frequency component of a PWM signal, instead reproducing only the audio component without
+extra filtering required.
+The other “filter” inherent in the audio reproduction system is one that is often overlooked. The 20Hz to
+20kHz audio bandwidth is based upon the accepted response of the human ear. Even if a speaker were
+capable of reproducing the switching component of a class D amplifier, it would never be heard by the
+human ear.
+3
+SNAA034A–May 2006–Revised May 2013
+AN-1497 Filterless Class D Amplifiers
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+IL(DC)
+VOUT+
+VOUT-
+VDD
+GND
+VDD
+GND
++VDD
+VL
+IL
+-VDD
+RS
+LS
+RM
+LM
+CM
+ZA
+Introduction
+www.ti.com
+Figure 3. LRC Output Filter
+Figure 4. Electrical Speaker Model
+Conventional Class D amplifiers use two PWM outputs, 180o out of phase, to drive a BTL load. This
+architecture results in a 50% output duty cycle when there is no input signal such that the load sees the
+entire supply voltage in alternating polarity. Idle mode switching (Figure 5) causes continuous current to
+flow through the speaker, increasing quiescent current and leading to possible speaker damage. Not only
+does the offset voltage increase power consumption, but also limits the dynamic range of the speaker (DC
+current offsets the voice coil, limiting the range of motion and distorting the audio), and may lead to
+speaker damage. DC current through the voice coil can cause permanent offset, or worse, burn out the
+voice coil, destroying the speaker.
+Figure 5. Conventional Class D Switching
+The issue of idle mode switching is more difficult to resolve than audio reproduction. In order to eliminate
+the no-input associated output offset, the modulation scheme had to be changed. Instead of the outputs
+switching with a 50% duty cycle 180o out of phase with each other, the outputs now switch in phase with
+a a 50% duty cycle. With the two outputs in phase the result is no net voltage across the speaker and no
+load current during the idle state. Figure 6 shows the outputs of the LM4673. Traces 1 and 2 are the
+device outputs; trace 3 is the total output (VO1 – VO2) across the load. Because of the cancelling
+architecture, the total output at idle is ideally 0.
+When signal is applied, the outputs behave as shown in Figure 7. For positive input voltage, the duty cycle
+of VO1 increases, while the duty cycle of VO2 decreases. For negative input voltage, the converse occurs,
+the duty cycle of VO2 increases while the duty cycle of VO1 decreases. The difference between the two
+pulse widths yields the differential output voltage across the speaker.
+4
+AN-1497 Filterless Class D Amplifiers
+SNAA034A–May 2006–Revised May 2013
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+Vo1
+Vo2
+VIN
+Vo1
+Vo2
+Vo1 - Vo2
+www.ti.com
+Introduction
+Figure 6. In Phase Switching
+Figure 7. Switching Waveform with Input Signal
+Beyond eliminating the output filter, current class D amplifiers offer vastly improved audio performance
+over their predecessors. Early class D amplifiers typically operated open-loop (no feedback path), a
+situation not conducive to high fidelity audio reproduction. Open-loop operation meant that the effect of
+any error introduced by comparator offset, device mismatch, oscillator jitter, or finite rise time of the class
+D output, along with noise contributed by the power supply could not be cancelled. Thus, these amplifiers
+exhibited poor THD+N (>0.5%), and almost non-existent (0 dB) AC PSRR.
+As a result of’ the switching nature of class D, the feedback path consisted of more than just a couple
+passive components. Operation amplifiers with extensive RC networks were required for filtering and
+differential to single-ended conversion. Unlike a linear amplifier, a class D signal path includes a delay
+associated with the conversion from a linear input to a PWM output. This conversion delay further
+complicated the design of the feedback loop. The burden of applying feedback was placed upon the
+system designer. Amplifier manufacturers suggested external feedback architectures and provide
+guidance, but the success of the final amplifier rested upon the expertise of the system engineer, not the
+amplifier designer. Such external feedback topologies, though effective, increased component count,
+board space, and cost, as well as system complexity.
+5
+SNAA034A–May 2006–Revised May 2013
+AN-1497 Filterless Class D Amplifiers
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+Introduction
+www.ti.com
+New class D amplifiers, such as the LM4673, feature integrated feedback. The LM4673, in particular,
+features global feedback; the input signal to the error amplifier is taken after the H-bridge. Now the effect
+of any mismatch, jitter, finite rise/fall time, or supply noise present at any point in the amplifier signal path
+is reduced resulting in class D amplifiers with class AB quality audio. The LM4673 exhibits excellent
+THD+N (< 0.02%, well than an order of magnitude below an open loop amplifier) and PSRR (78dB @
+217Hz) (Figure 8, Figure 9, and Figure 10). Now instead of a costly, complex, under-performing multi-
+device solution, system designers have at their disposal simple, robust, efficient class D amplifiers that
+rival their linear counterparts.
+Figure 8. LM4673 THD+N vs. Output Power
+Figure 9. LM4673 THD+N vs Frequency
+6
+AN-1497 Filterless Class D Amplifiers
+SNAA034A–May 2006–Revised May 2013
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+www.ti.com
+Revision History
+Figure 10. LM4673 PSRR
+The advances in switching amplifier technology have improved performance, eased amplifier design and
+lowered the cost of a class D audio solution. System designers can achieve quality audio reproduction
+with the added benefit of increased efficiency; longer batter life and reduced heat. Filterless amplifiers,
+along with improvements in performance, enable manufacturers of such products as cell phones, PDAs,
+and laptops to produce feature rich, portable multimedia devices with a smaller form factor and longer
+battery life.
+2
+Revision History
+Rev
+Date
+Description
+1.0
+05/24/06
+Initial WEB release.
+7
+SNAA034A–May 2006–Revised May 2013
+AN-1497 Filterless Class D Amplifiers
+Submit Documentation Feedback
+Copyright © 2006–2013, Texas Instruments Incorporated
+
+IMPORTANT NOTICE
+Texas Instruments Incorporated and its subsidiaries (TI) reserve the right to make corrections, enhancements, improvements and other
+changes to its semiconductor products and services per JESD46, latest issue, and to discontinue any product or service per JESD48, latest
+issue. Buyers should obtain the latest relevant information before placing orders and should verify that such information is current and
+complete. All semiconductor products (also referred to herein as “components”) are sold subject to TI’s terms and conditions of sale
+supplied at the time of order acknowledgment.
+TI warrants performance of its components to the specifications applicable at the time of sale, in accordance with the warranty in TI’s terms
+and conditions of sale of semiconductor products. Testing and other quality control techniques are used to the extent TI deems necessary
+to support this warranty. Except where mandated by applicable law, testing of all parameters of each component is not necessarily
+performed.
+TI assumes no liability for applications assistance or the design of Buyers’ products. Buyers are responsible for their products and
+applications using TI components. To minimize the risks associated with Buyers’ products and applications, Buyers should provide
+adequate design and operating safeguards.
+TI does not warrant or represent that any license, either express or implied, is granted under any patent right, copyright, mask work right, or
+other intellectual property right relating to any combination, machine, or process in which TI components or services are used. Information
+published by TI regarding third-party products or services does not constitute a license to use such products or services or a warranty or
+endorsement thereof. Use of such information may require a license from a third party under the patents or other intellectual property of the
+third party, or a license from TI under the patents or other intellectual property of TI.
+Reproduction of significant portions of TI information in TI data books or data sheets is permissible only if reproduction is without alteration
+and is accompanied by all associated warranties, conditions, limitations, and notices. TI is not responsible or liable for such altered
+documentation. Information of third parties may be subject to additional restrictions.
+Resale of TI components or services with statements different from or beyond the parameters stated by TI for that component or service
+voids all express and any implied warranties for the associated TI component or service and is an unfair and deceptive business practice.
+TI is not responsible or liable for any such statements.
+Buyer acknowledges and agrees that it is solely responsible for compliance with all legal, regulatory and safety-related requirements
+concerning its products, and any use of TI components in its applications, notwithstanding any applications-related information or support
+that may be provided by TI. Buyer represents and agrees that it has all the necessary expertise to create and implement safeguards which
+anticipate dangerous consequences of failures, monitor failures and their consequences, lessen the likelihood of failures that might cause
+harm and take appropriate remedial actions. Buyer will fully indemnify TI and its representatives against any damages arising out of the use
+of any TI components in safety-critical applications.
+In some cases, TI components may be promoted specifically to facilitate safety-related applications. With such components, TI’s goal is to
+help enable customers to design and create their own end-product solutions that meet applicable functional safety standards and
+requirements. Nonetheless, such components are subject to these terms.
+No TI components are authorized for use in FDA Class III (or similar life-critical medical equipment) unless authorized officers of the parties
+have executed a special agreement specifically governing such use.
+Only those TI components which TI has specifically designated as military grade or “enhanced plastic” are designed and intended for use in
+military/aerospace applications or environments. Buyer acknowledges and agrees that any military or aerospace use of TI components
+which have not been so designated is solely at the Buyer's risk, and that Buyer is solely responsible for compliance with all legal and
+regulatory requirements in connection with such use.
+TI has specifically designated certain components as meeting ISO/TS16949 requirements, mainly for automotive use. In any case of use of
+non-designated products, TI will not be responsible for any failure to meet ISO/TS16949.
+Products
+Applications
+Audio
+www.ti.com/audio
+Automotive and Transportation
+www.ti.com/automotive
+Amplifiers
+amplifier.ti.com
+Communications and Telecom
+www.ti.com/communications
+Data Converters
+dataconverter.ti.com
+Computers and Peripherals
+www.ti.com/computers
+DLP® Products
+www.dlp.com
+Consumer Electronics
+www.ti.com/consumer-apps
+DSP
+dsp.ti.com
+Energy and Lighting
+www.ti.com/energy
+Clocks and Timers
+www.ti.com/clocks
+Industrial
+www.ti.com/industrial
+Interface
+interface.ti.com
+Medical
+www.ti.com/medical
+Logic
+logic.ti.com
+Security
+www.ti.com/security
+Power Mgmt
+power.ti.com
+Space, Avionics and Defense
+www.ti.com/space-avionics-defense
+Microcontrollers
+microcontroller.ti.com
+Video and Imaging
+www.ti.com/video
+RFID
+www.ti-rfid.com
+OMAP Applications Processors
+www.ti.com/omap
+TI E2E Community
+e2e.ti.com
+Wireless Connectivity
+www.ti.com/wirelessconnectivity
+Mailing Address: Texas Instruments, Post Office Box 655303, Dallas, Texas 75265
+Copyright © 2013, Texas Instruments Incorporated

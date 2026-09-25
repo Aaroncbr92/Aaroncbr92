@@ -1,0 +1,86 @@
+Auditory Precedence Effect
+Q1
+Barbara Shinn-Cunningham*
+Center for Computational Neuroscience and Neural Technology, Boston University, Boston, MA, USA
+Synonyms
+Law of the ﬁrst wavefront
+Definition
+The precedence effect is a well-studied phenomenon in spatial hearing that is related to how we
+localize sounds accurately in everyday settings. Speciﬁcally, when two sound sources reach
+a listener close together in time, listeners often hear a single “fused” image whose perceived
+direction is near the location of the ﬁrst-arriving sound.
+Detailed Description
+The Effects of Room Acoustics on Auditory Spatial Cues
+The signals reaching the listener’s ears directly from a sound source convey information about the
+source’s location (Blauert 1997; Schnupp et al. 2010). However, in ordinary settings, soon after the
+direct sound reaches the listener, reﬂected sound arrives from random directions, coming off of
+walls, ﬂoors, and other reﬂective surfaces. This reﬂected sound energy adds acoustically to the
+direct sound before entering each ear, changing the total signal reaching the ear (e.g., see Allen and
+Berkley 1979). The content of this reﬂected sound energy depends on the geometry of the listening
+space, the positions of objects in the space, and the location and orientation of the listener.
+Moreover, the reﬂected sound energy differs at the left and right ears. As a result, this latearriving sound distorts the spatial information conveyed by the direct sound, degrading the spatial
+cues in the total signal. As a result, the acoustic location information in the signals a listener hears in
+everyday settings is less reliable after an initial “clean glimpse” of the direct sound that happens at
+sound onset, before the reﬂected energy arrives.
+The Precedence Effect
+Perceptually, judgments of the direction of a sound source depend strongly on spatial information
+in the onset of sound and relatively weakly on spatial information in later-arriving portions of
+sound (e.g., see Brown and Stecker 2010). This phenomenon is known as the precedence effect
+(Wallach et al. 1949; Zurek 1987; Litovsky et al. 1999). Given that in ordinary listening spaces the
+onset of the sound has the most reliable information about source direction, the precedence effect is
+*Email: shinn@cns.bu.edu
+Encyclopedia of Computational Neuroscience
+DOI 10.1007/978-1-4614-7320-6_101-5
+# Springer Science+Business Media New York 2013
+Page 1 of 4
+
+thought to be one of the reasons why listeners are relatively good at judging source location even
+when listening in rooms.
+The precedence effect has been studied extensively with pairs of clicks (one leading and one
+lagging); for such brief stimuli, the precedence effect is strongest when the leading click precedes
+the lagging click by 1–5 ms and then rapidly becomes weaker (so that listeners start to hear the
+second click as a separate event and then begin to localize it with increasing accuracy; see Blauert
+1997). For more “natural” sounds, like speech or music, the precedence effect persists for tens of
+ms. Many researchers argue that the precedence effect has a longer time course for ongoing signals
+because they can be thought of as containing multiple “onsets” due to local energy ﬂuctuations,
+each of which can add to the precedence effect (e.g., see Zurek 1980).
+Mechanisms of the Precedence Effect
+Although the precedence effect is often discussed as a single psychophysical phenomenon, many
+different mechanisms likely contribute to the dominance of early spatial information on laterarriving information. For instance, the most peripheral portion of the auditory system, the auditory
+nerve, responds more vigorously at the onset of a sound than to later-arriving portions of a sound.
+This peripheral adaptation helps explain why a lagging sound that arrives within a few milliseconds
+of a leading sound does not convey strong spatial cues (Hartung and Trahiotis 2001). However,
+there are numerous studies that show that the perceptual dominance of the leading sound extends
+beyond very brief lead-lag delays that can be fully explained by peripheral adaptation. It is likely
+that microcircuitry in the brainstem contributes to the precedence effect at longer lead-lag delays
+through some type of inhibition triggered by the leading sound (Xia and Shinn-Cunningham 2011).
+Cross-References
+▶Sound Localization and Experience-Dependent Learning
+▶Sound Localization in Mammals, Models
+References
+Allen JB, Berkley DA (1979) Image method for efﬁciently simulating small-room acoustics.
+J Acoust Soc Am 65:943–950
+Blauert J (1997) Spatial hearing (2e). MIT Press, Cambridge, MA, pp 201–287
+Brown AD, Stecker GC (2010) Temporal weighting of interaural time and level differences in
+high-rate click trains. J Acoust Soc Am 128:283–292
+Hartung K, Trahiotis C (2001) Peripheral auditory processing and investigations of the “precedence effect” which utilize successive transient stimuli. J Acoust Soc Am 110:1505–1513
+Litovsky RY, Colburn HS, Yost WA, Guzman SJ (1999) The precedence effect. J Acoust Soc Am
+106:1633–1654
+Schnupp J, Nelken I, King A (2010) Auditory neuroscience. MIT Press, Cambridge, MA,
+pp 177–222
+Wallach H, Newman EB, Rosenzweig MR (1949) The precedence effect in sound localization. Am
+J Psychol 52:315–336
+Xia J, Shinn-Cunningham BG (2011) Isolating mechanisms that inﬂuence measures of the precedence effect: theoretical predictions and behavioral tests. J Acoust Soc Am 130:866–882
+Encyclopedia of Computational Neuroscience
+DOI 10.1007/978-1-4614-7320-6_101-5
+# Springer Science+Business Media New York 2013
+Page 2 of 4
+
+Zurek PM (1980) The precedence effect and its possible role in the avoidance of interaural
+ambiguities. J Acoust Soc Am 67:952–964
+Zurek PM (1987) The precedence effect. In: Yost WA, Gourevitch GA (eds) Directional hearing.
+Springer, New York, pp 85–105
+Encyclopedia of Computational Neuroscience
+DOI 10.1007/978-1-4614-7320-6_101-5
+# Springer Science+Business Media New York 2013
+Page 3 of 4

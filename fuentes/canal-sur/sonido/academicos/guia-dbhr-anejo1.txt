@@ -1,0 +1,2026 @@
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 1 
+ 
+ 
+ 
+ANEJO 1 
+Conceptos previos 
+ 
+ÍNDICE 
+ 
+A1.1 
+PARÁMETROS CARACTERÍSTICOS DE LAS ONDAS SONORAS  ...................................... A1-3 
+A1.1.1 
+Amplitud  .......................................................................................................................... A1-3 
+A1.1.2 
+Período y frecuencia  ...................................................................................................... A1-3 
+A1.1.3 
+Longitud de onda  ............................................................................................................ A1-3 
+A1.1.4 
+Velocidad de propagación  ............................................................................................. A1-4 
+A1.2 
+ANÁLISIS ESPECTRAL: LAS BANDAS DE FRECUENCIA  .................................................. A1-4 
+ 
+A1.3 
+LA ESCALA DE MEDIDA: EL dB  ............................................................................................ A1-6 
+ 
+A1.4 
+TIPOS DE RUIDO  ..................................................................................................................... A1-6 
+ 
+A1.5 
+CAMPO SONORO  .................................................................................................................... A1-7 
+ 
+A1.6 
+AISLAMIENTO ACÚSTICO Y ACONDICIONAMIENTO ACÚSTICO  ...................................... A1-8 
+ 
+A1.7 
+AISLAMIENTO ACÚSTICO  .................................................................................................... A1-10 
+A1.7.1 
+El ruido en la edificación  ............................................................................................. A1-10 
+A1.7.2 
+El problema del aislamiento acústico en obra  .......................................................... A1-11 
+ 
+A1.7.2.1 
+Vías de transmisión del sonido  ................................................................... A1-11 
+ 
+A1.7.2.2 
+Diferencias entre la NBE CA 88 y el DB HR del CTE  ................................. A1-12 
+A1.7.3 
+Aislamiento acústico a ruido aéreo  ............................................................................ A1-13 
+ 
+A1.7.3.1 
+Índices de aislamiento acústico a ruido aéreo  ............................................ A1-13 
+ 
+A1.7.3.2 
+Índices de aislamiento acústico para ruido aéreo exterior  .......................... A1-14 
+ 
+A1.7.3.3 
+Aislamiento acústico global expresado en dBA  .......................................... A1-14 
+ 
+A1.7.3.4 
+Ley de masa para particiones de una hoja  ................................................. A1-16 
+ 
+A1.7.3.5 
+Aislamiento mixto  ........................................................................................ A1-17 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 2 
+ 
+ 
+ 
+A1.7.4 
+Aislamiento acústico de fachadas  .............................................................................. A1-19 
+A1.7.5 
+Aislamiento acústico a ruido de impactos  ................................................................. A1-20 
+ 
+A1.7.5.1 
+Índices de aislamiento acústico a ruido de impactos  .................................. A1-20 
+A1.7.6 
+Resumen de las magnitudes de aislamiento acústico utilizadas en el DB HR  ...... A1-21 
+ 
+A1.7.6.1 
+Aislamiento acústico a ruido aéreo  ............................................................. A1-21 
+ 
+A1.7.6.2 
+Aislamiento acústico a ruido de impactos  ................................................... A1-22 
+A1.7.7 
+Las mejoras de aislamiento .......................................................................................... A1-22 
+ 
+A1.8 
+ACONDICIONAMIENTO ACÚSTICO  ..................................................................................... A1-23 
+A1.8.1 
+Tiempo de reverberación y absorción acústica  ........................................................ A1-23 
+A1.8.2 
+Inteligibilidad de la palabra  .......................................................................................... A1-24 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 3 
+ 
+ 
+ 
+A1.1 Parámetros característicos de las ondas sonoras 
+Las ondas sonoras se caracterizan por los parámetros siguientes: 
+ 
+A1.1.1   Amplitud 
+La amplitud es la magnitud con que se expresan las variaciones de presión de una onda sonora y es la 
+responsable de la sensación sonora de intensidad o volumen de un sonido; a mayor amplitud mayor 
+intensidad. 
+La unidad de medida absoluta de la amplitud es el Pascal (Pa = N/m2). El rango audible está entre 20 
+μPa y 100 Pa. Sin embargo, esta escala no es muy manejable al tener que manejar muchísimos valores 
+fluctuando entre esos márgenes. Por otra parte el oído no responde a los estímulos de forma lineal sino 
+logarítmicamente. Por tanto se utiliza una escala relativa, en decibelios (dB), utilizando como referencia 
+los 20 μPa del umbral de audición. 
+ 
+A1.1.2   Período y frecuencia 
+El período (T) es el tiempo que tarda en 
+producirse una oscilación completa. Se mide 
+en segundos. 
+[s]
+   
+f
+1
+T =
+ 
+ 
+La frecuencia (f) es el número de oscilaciones (ciclos) por segundo. La unidad de medida es el Hertzio 
+(Hz) que corresponde a un ciclo por segundo. El rango de frecuencias audibles para el oído humano va 
+desde los 20 Hz a los 20kHz, siendo los valores por debajo de este margen infrasonidos y los valores por 
+encima se ultrasonidos. 
+La frecuencia determina el tono de un sonido, siendo las frecuencias más bajas las que se corresponden 
+con los sonidos graves y las frecuencias más altas las que se corresponden con los sonidos agudos. 
+Se calcula como el inverso del período: 
+[Hz]
+  
+T
+1
+f =
+ 
+ 
+A1.1.3   Longitud de onda 
+La longitud de onda (λ) es la distancia recorrida por la onda en 
+un ciclo o período completo. Se mide en unidades de longitud (m). 
+Se relaciona con la frecuencia, el período y la velocidad de 
+propagación del sonido: 
+[m/s]
+  
+f
+c
+⋅
+λ
+=
+ 
+[m]
+  
+f
+c
+=
+λ
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 4 
+ 
+ 
+ 
+ 
+A1.1.4   Velocidad de propagación 
+La velocidad de propagación del sonido es la velocidad con que se desplazan las ondas sonoras en un 
+medio elástico. Depende de las condiciones ambientales (presión y temperatura). Cuando el medio de 
+propagación es el aire, la velocidad del sonido es: 
+[m/s]
+ 
+344
+c =
+ 
+El sonido viaja mucho más deprisa en los sólidos que en el aire. Por ejemplo, la velocidad del sonido 
+en ladrillo es aproximadamente 9 veces mayor que en el aire. 
+ 
+A1.2 Análisis espectral: Las bandas de frecuencia 
+Generalmente, las fuentes de ruido en edificación no son emisoras de una única frecuencia (tono puro) 
+sino que generan sonidos que se componen de una combinación de ondas sonoras, a distintas 
+frecuencias, y con distinto nivel de energía para cada una de ellas. Un espectro sonoro será, por tanto, 
+la representación de los niveles de presión sonora en función de estas frecuencias, es decir, cómo se 
+distribuye la energía de un sonido en función de las frecuencias que lo componen. 
+El interés del análisis espectral radica en que el comportamiento acústico de los materiales y de los 
+sistemas constructivos depende de la frecuencia, así como de la respuesta del oído humano. 
+El aislamiento acústico y la absorción acústica dependen de la frecuencia. 
+En el análisis espectral se utilizan grupos de frecuencias de anchos normalizados: octavas o tercios de 
+octava, normalmente. Posteriormente será posible caracterizar un ruido, un aislamiento, etc. mediante un 
+único valor global en dB(A). 
+Banda de octava: Grupo de frecuencias comprendidas entre dos frecuencias f1 y f2 que cumplen: 
+[Hz]
+  
+f
+2
+f
+1
+2
+⋅
+=
+ 
+La frecuencia central de esta banda cumplirá: 
+[Hz]
+  
+f
+f
+f
+2
+1
+c
+⋅
+=
+ 
+Se utilizan las octavas que tienen como frecuencia central: 
+125 
+250 
+500 
+1000 
+2000 
+4000 
+8000 
+Hz 
+En acústica arquitectónica, para aislamientos acústicos a ruido aéreo y a ruido de impactos, se suelen 
+utilizar las bandas de octava de 125 a 4000 Hz. 
+Banda de 1/3 de octava: Se divide la octava en tres partes. Con un análisis en 1/3 de octava se obtiene 
+información más detallada. 
+En cada banda se cumple la relación: 
+[Hz]
+  
+f
+2
+f
+1
+1/3
+2
+⋅
+=
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 5 
+ 
+ 
+Y la relación entre los extremos de la 
+banda y la frecuencia central: 
+[Hz]
+  
+2
+f
+f
+6
+/
+1
+c
+1 =
+ 
+[Hz]
+ 
+2
+ 
+f
+f
+6
+/
+1
+c
+2
+⋅
+=
+ 
+Las frecuencias centrales de las bandas de 1/3 de octava son las siguientes: 
+OCTAVA 
+(Hz) 
+125 
+250 
+500 
+1000 
+2000 
+4000 
+8000 
+1/3 
+OCTAVA 
+(Hz) 
+100 
+125 
+160 
+200 
+250 
+315 
+400 
+500 
+630 
+800 
+1000 
+1250 
+1600 
+2000 
+2500 
+3150 
+4000 
+5000 
+6300 
+8000 
+10000 
+ 
+Figura A1.1 – Representación del espectro de un sonido en bandas de octava y de 1/3 de octava 
+A la frecuencia central de cada banda se le asigna el nivel resultante de componer los niveles de todas 
+las frecuencias contenidas entre los límites superior e inferior del intervalo: 
+Ejemplo: Composición de niveles 
+f1/3 OCT 
+NPS (dBA) 
+fOCT 
+NPS (dBA) 
+800 Hz 
+55 dBA 
+1000 Hz 
+64,3 dBA 
+1000 Hz 
+56 dBA 
+1250 Hz 
+63 dBA 
+dBA
+ 3,
+64
+10
+10
+10
+ 
+log
+10
+10
+log
+10
+NPS
+10
+63
+10
+56
+10
+55
+3
+1
+i
+10
+NPS
+1000Hz
+ 
+Total
+i
+=
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎝
+⎛
++
++
+⋅
+=
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎝
+⎛
+⋅
+=
+∑
+=
+ 
+ 
+ 
+ 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 6 
+ 
+ 
+A1.3 La escala de medida: El dB 
+Como se ha visto anteriormente el margen de variación de la presión acústica dentro del rango audible 
+por el oído humano es muy amplio y, por tanto, se utiliza el nivel de presión sonora (NPS ó Lp) que se 
+expresa en decibelios (dB). Existe una relación logarítmica entre la presión sonora y el nivel de presión 
+sonora que consiste en comparar un determinado valor de presión sonora con un valor de referencia: 
+[dB]
+   
+p
+p
+ 
+log
+20
+  
+  
+p
+p
+ 
+log
+10
+L
+0
+2
+0
+2
+p
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅
+=
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+⋅
+=
+ 
+Donde: 
+V 
+volumen del recinto receptor, [m3] 
+Lp nivel de presión sonora, [dB] 
+p 
+presión sonora, [Pa]; 
+p0 presión sonora de referencia de valor 20 μPa, que coincide con el umbral de audición. 
+Para adaptar el nivel de presión sonora (dB) a la sensibilidad del oído humano se aplican unas 
+correcciones (reducción o aumento de nivel) y se obtienen niveles ponderados. La ponderación más 
+utilizada, ya que es la que mejor refleja la respuesta del oído para niveles habituales de ruido, es la 
+curva de ponderación A, obteniendo a partir de ella niveles ponderados A (dBA). 
+Frecuencia 
+(Hz) 
+100 
+125 
+160 
+200 
+250 
+315 
+400 
+500 
+630 
+Curva de ponderación 
+(dBA) 
+-19,1 
+-16,1 
+-13,4 
+-10,9 
+-8,6 
+-6,6 
+-4,8 
+-3,2 
+-1,9 
+ 
+Frecuencia 
+(Hz) 
+800 
+1000 
+1250 
+1600 
+2000 
+2500 
+3150 
+4000 
+5000 
+Curva de ponderación 
+(dBA) 
+-0,8 
+0 
+0,6 
+1,0 
+1,2 
+1,3 
+1,2 
+1,0 
+0,5 
+ 
+Figura A1.2 – Curva de ponderación A 
+Además de la Curva de Ponderación A, existen otras ponderaciones: B, C, D, con distintos usos. 
+ 
+A1.4 Tipos de ruido 
+Una vez definido el ruido (sonido indeseado) se puede hacer una clasificación del mismo atendiendo a 
+dos dominios diferentes: tiempo y frecuencia. 
+Clasificación en el dominio del tiempo 
+- 
+Ruido estacionario: Ruido cuyo nivel de presión sonora permanece constante a lo largo del 
+tiempo. Por ejemplo, el ruido procedente de una unidad de aire acondicionado o de un motor 
+eléctrico. 
+- 
+Ruido fluctuante: Ruido cuyo nivel de presión sonora varía en función del tiempo. Las 
+fluctuaciones pueden ser periódicas o aleatorias (no periódicas). Por ejemplo, el tráfico rodado. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 7 
+ 
+ 
+- 
+Ruido intermitente: Ruido que aparece solamente en determinados instantes. Por ejemplo, el 
+accionamiento de un taladro. 
+- 
+Ruido impulsivo: Ruido cuyo nivel de presión sonora aumenta de manera muy acusada por 
+encima del ruido de fondo en instantes muy cortos de tiempo (impulsos). Los impulsos pueden 
+presentarse de manera aleatoria o repetitiva. Suele ser bastante más molesto que el ruido 
+continuo. Por ejemplo, una sucesión de martillazos. 
+ 
+Clasificación en el dominio de la frecuencia 
+- 
+Ruido Blanco: Es un tipo de ruido con espectro plano, es decir, tiene la misma energía en todas 
+las frecuencias. Si se representa esta energía en bandas de frecuencia el nivel aumenta 3dB por 
+octava. 
+- 
+Ruido Rosa: Es un tipo de ruido que no tiene respuesta uniforme en todo el ancho de banda, 
+sino que el nivel de energía decrece a razón de 3dB por octava. Si se representa esta energía en 
+bandas de frecuencia vemos que el nivel permanece constante. 
+- 
+Ruido Tonal: Este tipo de ruido presenta en su espectro una marcada componente tonal y es 
+puede oírse claramente el tono puro. Suele presentar armónicos de la frecuencia fundamental. 
+Por ejemplo, un ventilador o un compresor. 
+Otros criterios 
+Por otra parte, en edificación es habitual diferenciar el ruido en función de su origen y forma de 
+propagación. Se pueden distinguir: 
+- 
+Ruido aéreo: Ruido que tiene origen en una perturbación en el aire, se transmite a través del 
+aire (u otro medio sólido) y es percibido por el receptor a través del aire. Por ejemplo, ruido de 
+tráfico o una conversación. 
+- 
+Ruido de impactos o ruido estructural: Ruido que tiene origen en la excitación mecánica de 
+elementos sólidos, se transmite por vía sólida (estructural) y es percibido por el receptor a través 
+del aire. Dado que los sólidos tienen menor amortiguamiento interno, el ruido de impactos se 
+transmite a gran distancia. Por ejemplo, pisadas, caídas de objetos o vibraciones de equipos e 
+instalaciones. 
+ 
+A1.5 Campo sonoro 
+El sonido producido por una fuente continua dentro de un recinto cerrado, incide sobre las superficies 
+límites del mismo, reflejándose una parte -absorbiéndose otra-, tendiendo estas reflexiones a aumentar 
+el nivel de presión sonora en el recinto. 
+Cada nueva reflexión será afectada por el coeficiente de absorción de la superficie, disminuyendo así su 
+intensidad (de forma diferente en cada frecuencia, según las características del material). También habrá 
+disminución de intensidad por recorrido de distancia. 
+Se denomina campo sonoro en un recinto al valor que adquiere la presión sonora en cada punto del 
+espacio. Tiene dos componentes: 
+Campo directo: 
+Es aquella zona en la que el sonido llega a un punto determinado en 
+línea directa desde la fuente, sin ninguna reflexión. 
+El nivel de presión sonora en el campo directo disminuye con la 
+distancia a la fuente a razón de -6dB cada vez que se duplica la 
+distancia (para fuentes puntuales). 
+ 
+ 
+Campo reverberante: 
+Es aquella zona en la que el sonido sufre multitud de reflexiones que 
+se superponen entre sí dando lugar a una distribución prácticamente 
+uniforme del sonido, de manera que el nivel de presión sonora se 
+mantiene constante. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 8 
+ 
+ 
+Figura A1.3 – Campo directo y campo reverberante 
+Analizando la relación temporal entre el sonido directo y el sonido reflejado (véase figura A1.4): 
+- La onda directa siempre será la primera en llegar al receptor, pues se propaga por el camino 
+más corto posible. 
+- A partir de ese momento comienzan a llegar las distintas reflexiones. 
+- Si la separación temporal de onda directa y la primera reflexión supera un cierto tiempo, llega el 
+fenómeno del eco. Asimismo, si el nivel de las ondas reflejadas es suficientemente alto, éstas 
+se confunden con el sonido directo. Ambos fenómenos disminuyen la inteligibilidad de la sala. 
+ 
+Figura A1.4 – Representación del sonido directo y reflejado en función del tiempo 
+ 
+A1.6 Aislamiento acústico y acondicionamiento acústico 
+Aislamiento acústico y acondicionamiento acústico son los dos conceptos principales en el ámbito de la 
+acústica arquitectónica o acústica de la edificación. Los objetivos de uno y otro, aunque relacionados 
+entre sí, son distintos pero deben emplearse conjuntamente para unir y complementar su potencial. 
+ 
+ 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 9 
+ 
+ 
+Aislamiento acústico 
+Se entiende por aislamiento al conjunto de procedimientos empleados para reducir o evitar la 
+transmisión de ruidos (tanto aéreos como estructurales) de un recinto a otro o desde el exterior hacia el 
+interior de un recinto o viceversa, con el fin de obtener una calidad acústica determinada. Cuando se 
+habla de aislamiento siempre se tiene en consideración a dos recintos diferentes, es decir, se considera 
+el sonido que se genera en un recinto, que se transmite y es percibido en otro recinto. 
+El aislamiento depende de las propiedades de los materiales, de las soluciones constructivas utilizadas y 
+del contexto arquitectónico que las integra. 
+Definido en términos de magnitud física el aislamiento es la cantidad de energía sonora que se atenúa al 
+propagarse del recinto emisor al recinto receptor. Cuando hablamos del aislamiento acústico de un 
+elemento constructivo, nos referiremos a la cantidad de ruido que es capaz de disipar. 
+De la energía acústica incidente en una partición: 
+- Una parte es reflejada por la superficie; 
+- Una parte es absorbida por la superficie; 
+- El resto se transmite. 
+ 
+Al cociente entre la energía transmitida (Et) y la energía incidente (Ei) se le llama Coeficiente de 
+transmisión, siendo su inversa las Pérdidas de transmisión o Aislamiento (recordemos que esta 
+magnitud es dependiente de la frecuencia): 
+[dB]
+     
+E
+E
+ 
+log
+10
+R
+PT
+t
+i
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅
+=
+=
+ 
+Acondicionamiento acústico 
+A diferencia del aislamiento acústico, el acondicionamiento acústico implica a un único recinto, es decir, 
+el sonido es generado y percibido en el mismo recinto. 
+Por acondicionamiento acústico se entiende una serie de medidas que se toman para conseguir en un 
+recinto unas condiciones acústicas y un ambiente sonoro interior determinados conforme al uso que se le 
+va a dar al recinto. Por ejemplo: 
+- Una iglesia tiene muchas superficies reflectantes y por ello tiene una alta reverberación. 
+- Un aula o una sala de reuniones deberán tener superficies absorbentes para conseguir una 
+correcta inteligibilidad de la palabra. 
+Ya hemos visto lo que es el ruido reverberante: cuando la onda sonora se propaga en el recinto, ésta 
+se va reflejando en las superficies del recinto. Estas reflexiones seguirán propagándose, volviendo a 
+incidir en las superficies y dando lugar a reflexiones de mayor orden. Es muy importante considerarlo 
+porque: 
+- Contribuye al aislamiento; 
+- Determina la inteligibilidad de la palabra; 
+- Se obtiene un determinado confort acústico (ambiente sonoro). 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 10 
+ 
+ 
+Un correcto acondicionamiento acústico está vinculado a los tiempos de reverberación, y, por tanto, a la 
+absorción acústica de las superficies del recinto, y se logrará mediante revestimientos de las superficies 
+interiores, reduciendo las componentes reflejadas del sonido. 
+El acondicionamiento acústico pretende crear espacios de calidad o confort acústico para las actividades 
+que se vayan a desarrollar en él. 
+ 
+A1.7 Aislamiento acústico 
+A1.7.1   El ruido en la edificación 
+Las fuentes de ruido en edificación son muy diversas. Fundamentalmente se pueden clasificar en ruido 
+aéreo y ruido de impactos, es decir, aquellos ruidos que se originan en el aire y aquellos ruidos que se 
+generan en los sólidos. Esta clasificación de los ruidos es muy importante ya que en función de que la 
+naturaleza de un ruido sea una u otra, los mecanismos de actuación para la reducción de ruido serán 
+diferentes. 
+Los ruidos que aparecen en edificación provienen de focos emisores con origen diverso: 
+- Ruido exterior (tráfico rodado, trenes, aviones, actividades comerciales o industriales, etc.); 
+- Ruido interior (conversaciones, televisión, electrodomésticos e instalaciones y cualquier otro 
+tipo de actividad de los vecinos); 
+- Ruido de máquinas (ascensores, sistemas de climatización, salas de máquinas); 
+- Ruido de impactos (caída de objetos al suelo, pisadas, etc.). 
+Ruido aéreo 
+Una fuente de ruido aéreo en edificación emite ondas sonoras que inciden sobre los sistemas 
+constructivos separadores entre recintos. Cuando dicha onda sonora incide sobre el elemento 
+constructivo, éste responde a la excitación entrando en vibración y convirtiéndose en un nuevo foco 
+sonoro, que transmite el ruido al recinto colindante. 
+ 
+Figura A1.5 – Excitación de un elemento constructivo. 
+Ruido de impactos 
+Una fuente de ruido de impactos sobre el forjado de un recinto excita a 
+éste mecánicamente; el forjado, o receptor del impacto, se convierte 
+en un generador de ruido aéreo y estructural, originando una serie de 
+vibraciones que se propagan por el forjado a los elementos 
+constructivos conectados a éste, como pilares y tabiques, que son 
+excitados y a su vez se convierten en fuentes de ruido aéreo. Habida 
+cuenta que la velocidad de transmisión del ruido en los sólidos es mas 
+rápida que en el aire el ruido de impacto se transmite a gran distancia 
+con muy escaso amortiguamiento. 
+La forma de actuar ante los ruidos de impacto consiste en interponer 
+un material aislante elástico con el objeto de que la energía del 
+impacto se transforme en una deformación elástica del material en vez 
+de en energía sonora. 
+ 
+ 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 11 
+ 
+ 
+A1.7.2   El problema del aislamiento acústico en obra 
+ 
+A1.7.2.1 
+Vías de transmisión del sonido 
+El tema del aislamiento acústico en obra es un tema complejo ya que, como veremos a continuación, 
+excepto bajo condiciones ideales de laboratorio, para determinar el aislamiento acústico de una partición 
+hay que considerar que el sonido no se transmite de un recinto a otro únicamente a través de dicha 
+partición sino que normalmente también se transmite a través de otra vías como conductos de 
+instalaciones (de ventilación, por ejemplo), puentes acústicos, paredes laterales, etc. 
+La transmisión de ruido entre dos recintos (emisor y receptor), se produce por medio de dos vías 
+diferenciadas (véase figura A1.6): la transmisión directa a través del elemento separador y la transmisión 
+indirecta o por flancos. 
+El sonido no se propaga exclusivamente a través del elemento separador sino que existen otras vías 
+de transmisión indirectas que tienen gran influencia en el aislamiento final in situ de un elemento 
+constructivo. 
+Transmisión por vía directa: 
+Se produce a través del elemento de separación (Dd). Esta transmisión depende básicamente del tipo de 
+elemento constructivo. La transmisión aérea directa incluye la transmisión (E), a través de rejillas, 
+aireadores o dispositivos de menos de un metro cuadrado de superficie que atraviesen en el elemento de 
+separación vertical. 
+Transmisión por vía indirecta: 
+Se distinguen dos tipos de transmisiones indirectas: 
+a) 
+Aérea indirecta, si la energía acústica se transmite de un recinto a otro a través de 
+conductos de instalaciones tales como conductos tipo shunt, de aire acondicionado, falsos 
+techos, suelos técnicos o puertas, (S). 
+b) 
+Transmisión indirecta estructural o por flancos, producida por las vibraciones de los 
+elementos de flanco conectados al elemento de separación entre recintos. El campo 
+acústico produce en los elementos constructivos una serie de vibraciones que no quedan 
+confinadas en el elemento constructivo, sino que se disipan en parte en forma de calor, y 
+en parte se transmiten a los elementos constructivos adyacentes. Ya sea desde el 
+elemento de separación a un elemento de flanco (Df), desde un elemento de flanco al 
+elemento de separación (Fd) o a través de los flancos. (Ff). Las transmisiones indirectas 
+dependen del tipo de elementos constructivos de flanco y de sus formas de unión entre sí. 
+Asímismo, es muy importante vigilar la transmisión a través de puentes acústicos, por ejemplo cuando 
+se conectan de forma rígida las dos hojas de una pared doble. Este defecto de ejecución puede darse 
+por ejemplo en un paso de cables o de tuberías incorrecto, y va a degradar el aislamiento en gran 
+medida. 
+En el caso de los conductos de instalaciones, por ejemplo, conductos de ventilación tipo shunt, deberá 
+evitarse que los recintos emisor y receptor queden interconectados directamente a través de dichos 
+conductos. 
+ 
+Figura A1.6 – Vías de transmisión del sonido entre dos recintos. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 12 
+ 
+ 
+A1.7.2.2 
+Diferencias entre la NBE CA 88 y el DB HR del CTE 
+Todo esto que acabamos de ver acerca de las vías de propagación del sonido entre recintos pone de 
+manifiesto cómo todos los elementos constructivos que conforman un recinto (y no sólo el elemento de 
+separación como se ha considerado hasta ahora) están interrelacionados e influyen de forma conjunta 
+en el valor de aislamiento final que se consiga. 
+La existencia de estas vías de transmisión indirectas además de la vía directa hace que el aislamiento 
+acústico final en obra de un elemento, difiera del comportamiento en laboratorio, ya que aquí las 
+transmisiones indirectas son despreciables. El nuevo enfoque del CTE se ajusta a un mejor 
+comportamiento acústico de los elementos ya construidos ya que considera la existencia de todas estas 
+vías de transmisión. 
+Para un mismo elemento constructivo, el aislamiento obtenido in situ, generalmente es menor que el 
+aislamiento teórico o de laboratorio. 
+Respecto a la NBE-CA-88, el DB HR supone un aumento de las exigencias de aislamiento, lo que se 
+traduce en un aumento del confort acústico de la edificación. 
+Otra de las diferencias, es que los índices que definen el aislamiento en el DB-HR y en la NBE CA-88 
+son distintos. El aislamiento de la norma básica se corresponde con el valor obtenido en laboratorio de 
+los elementos constructivos; para ruido aéreo se trata del índice de reducción acústica ponderado A (RA) 
+y para ruido de impactos del nivel de presión de ruido de impactos de laboratorio (Ln). 
+Sin embargo, en el CTE, el aislamiento acústico a ruido aéreo viene definido como la diferencia de 
+niveles estandarizada ponderada A, DnT,A, que es un índice que evalúa el aislamiento a ruido aéreo entre 
+recintos y no el aislamiento de elementos constructivos. Lo mismo sucede con el aislamiento a ruido de 
+impactos, que está definido como el nivel global de presión de ruido de impactos estandarizado, L’nT,w, 
+que también evalúa el nivel de presión de ruido de impactos entre recintos y no únicamente el del 
+forjado. 
+Tabla A1.1 – Índices en la NBE-CA-88 y en el DB HR 
+Índices de aislamiento 
+NBE-CA-88 
+DB HR - Protección frente al ruido 
+Ruido aéreo 
+RA 
+DnT,A 
+Ruido de impactos 
+Ln 
+L’nT,w 
+Ruido procedente del exterior 
+ag 
+D2m,nT,Atr / D2m,nT,A 
+ 
+Valores de laboratorio
+Valores obtenidos in situ 
+Además de las transmisiones por vía indirecta, existen otros motivos por los cuales el aislamiento 
+acústico proporcionado por un elemento constructivo en una situación de campo es menor que el 
+proporcionado por el mismo en laboratorio, como son: 
+- 
+Defectos en la ejecución (falta de sellado, 
+rozas no macizadas, etc.) 
+- Presencia de instalaciones que pueden actuar 
+como puentes acústicos, transmitiendo el 
+sonido entre las hojas que componen los 
+elementos de separación. 
+ 
+ 
+Las nuevas exigencias de aislamiento del DB HR suponen que es necesario el cálculo de las 
+transmisiones indirectas, y tener en cuenta que la solución constructiva no depende únicamente del 
+elemento de separación, por ejemplo: una pared, sino de todos los elementos que están en contacto con 
+ella, como son tabiques, fachada y forjados. Además se deberán poner en práctica, unas condiciones de 
+ejecución en obra que eliminen los puentes acústicos que puedan disminuir el aislamiento final de la 
+solución. 
+Otra de las aportaciones del CTE es la posibilidad medir el aislamiento in situ y obtener un valor 
+comparable al de la exigencia. Esto no sucedía en la norma básica, en la que los índices son obtenidos 
+en laboratorio. Por eso, en el caso de una medición in situ, el valor obtenido no es comparable con el 
+valor de las exigencias de la NBE-CA-88. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 13 
+ 
+ 
+El tratamiento de la envolvente del edificio, fachadas, cubiertas y suelos en contacto con el aire exterior 
+es otra novedad en el CTE. El aislamiento a ruido aéreo de estos elementos se define en función del 
+nivel de ruido exterior de la zona dónde se ubica el edificio y según el uso del recinto, y se expresa 
+también mediante una magnitud de aislamiento in situ. 
+ 
+A1.7.3   Aislamiento acústico a ruido aéreo 
+A1.7.3.1 
+Índices de aislamiento acústico a ruido aéreo 
+El aislamiento acústico se puede determinar y expresar mediante una serie de índices. A continuación se 
+muestran los principales índices empleados en aislamiento a ruido aéreo en acústica de la edificación: 
+Aislamiento acústico bruto o Diferencia de niveles entre recintos, D: 
+Es la diferencia, en dB, existente entre el nivel medio de presión sonora que existe en el recinto emisor 
+(L1) y el del recinto receptor (L2). Es función de la frecuencia: 
+[dB]
+     
+L
+L
+D
+2
+1 −
+=
+ 
+Aislamiento acústico normalizado o Índice de reducción acústica, R1: 
+Es el aislamiento acústico, en dB, de un elemento constructivo medido en laboratorio. Es función de la 
+frecuencia: 
+[dB]
+     
+A
+S
+lg
+10
+L
+L
+R
+2
+1
+⋅
++
+−
+=
+ 
+Como vemos la definición de este índice se basa en el aislamiento bruto, al que se le añade una 
+corrección mediante el área de la muestra (S) y el área de absorción equivalente del recinto receptor (A). 
+L1 nivel medio de presión sonora en el recinto emisor, [dB]; 
+L2 nivel medio de presión sonora en el recinto receptor, [dB]; 
+S 
+área del elemento constructivo, [m2]; 
+A 
+área de absorción acústica equivalente del recinto receptor, [m2]. 
+Índice de reducción acústica aparente, R’2: 
+Es el aislamiento acústico, en dB, de un elemento constructivo medido in situ. Es función de la 
+frecuencia: 
+[dB]
+     
+A
+S
+lg
+10
+L
+L
+'
+R
+2
+1
+⋅
++
+−
+=
+ 
+Diferencia de niveles estandarizada entre dos recintos interiores, DnT: 
+Diferencia entre los niveles medios de presión sonora producidos en dos recintos por una o varias 
+fuentes de ruido emitiendo en uno de ellos, normalizada al valor 0,5 s del tiempo de reverberación. Es 
+función de la frecuencia: 
+[dB]
+     
+T
+T
+lg
+10
+L
+L
+D
+0
+2
+1
+nT
+⋅
++
+−
+=
+ 
+T 
+tiempo de reverberación del recinto receptor, [s] 
+T0 tiempo de reverberación de referencia, de valor 0,5 segundos, [s] 
+Relación entre las magnitudes DnT y R’: 
+A partir de una magnitud se puede obtener la otra. En el DB-HR se emplea la magnitud DnT. 
+[dB]
+   
+S
+V
+0,032
+ 
+lg
+10
+'
+R
+  
+S
+T
+V
+16
+,0
+ 
+lg
+10
+'
+R
+D
+S
+S
+0
+nT
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+⋅
+⋅
++
+=
+⋅
+⋅
+⋅
++
+=
+ 
+                                                     
+1 R: UNE EN ISO 140-3 
+2 R’: UNE EN ISO 140-4 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 14 
+ 
+ 
+V 
+volumen del recinto receptor, [m3] 
+A1.7.3.2 
+Índices de aislamiento acústico para ruido aéreo exterior 
+El índice utilizado para expresar el aislamiento acústico entre un recinto y el exterior es el siguiente: 
+Diferencia de niveles estandarizada en fachadas, en cubiertas y en suelos en contacto con el aire 
+exterior, D2m,nT: 
+Aislamiento acústico a ruido aéreo, en dB, cuando la medida del nivel de ruido exterior, L1,2m, se realiza a 
+dos metros de la fachada. Es función de la frecuencia: 
+[dB]
+     
+T
+T
+lg
+10
+L
+L
+D
+0
+2
+m
+2
+,1
+nT
+,
+m
+2
+⋅
++
+−
+=
+ 
+ 
+Todas estas magnitudes dependen de la frecuencia. En principio siempre debería evaluarse el 
+aislamiento de una solución constructiva analizando su espectro; sin embargo, para evaluar y comparar 
+los resultados obtenidos tanto entre sí, como con las exigencias de la normativa, se puede caracterizar el 
+aislamiento acústico mediante un único valor: índice global ponderado para la valoración del 
+aislamiento, identificado mediante el subíndice w (por ejemplo, Rw, R’w, DnT,w, D2m,nT,w, etc.) 
+El índice global representa el valor en dB, a 500 Hz de una curva de referencia que se desplaza para 
+ajustarse a los valores de aislamiento obtenidos experimentalmente, según el método que especifica la 
+norma UNE EN ISO 717-1. 
+Los índices globales dependen del espectro acústico de la fuente de ruido, por eso suelen acompañarse 
+de un término de corrección espectral (C, Ctr): 
+- C es el termino de adaptación espectral del índice de reducción acústica para ruido rosa 
+incidente o ruido de tráfico ferroviario, en dB; 
+Se utilizará cuando estamos hablando de elementos constructivos y aislamiento acústico entre 
+dos viviendas. 
+- Ctr es el término de adaptación espectral del índice de reducción acústica para ruido de 
+automóviles y de aeronaves, en dB. 
+Se utilizará en los elementos constructivos y el aislamiento de fachadas. 
+Se obtienen del método de la curva de referencia de la norma UNE EN ISO 717-1. 
+Una vez que tenemos identificados los valores correspondientes al valor ponderado (por ejemplo, Rw), C 
+y Ctr, la magnitud global se expresa de la siguiente manera Rw(C; Ctr). 
+Ejemplo: 
+En un catálogo de elementos constructivos podríamos encontrar un aislamiento ensayado en 
+laboratorio de valor: 
+Rw(C; Ctr) = 52(-1;-4) 
+Î 
+Rw + C = 51 dB 
+ 
+ 
+ 
+ 
+Rw + Ctr = 48 dB 
+ 
+A1.7.3.3 
+Aislamiento acústico global expresado en dBA 
+Hemos visto cómo se expresan las magnitudes globales con los términos de adaptación espectral C y 
+Ctr. 
+En el DB-HR del CTE las magnitudes de las exigencias de aislamiento a ruido aéreo tanto en interiores 
+(DnT,A) como frente al exterior (D2m,nT,Atr, RAtr), así como las magnitudes intermedias relativas al 
+aislamiento de elementos constructivos (RA), a los caminos de transmisión (RDd,A, RFd,A, RDf,A, RFf,A), etc. 
+vienen expresadas en dBA. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 15 
+ 
+ 
+Un índice global expresado en dBA, lleva incorporado el término de adaptación espectral 
+correspondiente. 
+Se aceptan como aproximación, para expresar las magnitudes en dBA, las relaciones siguientes: 
+Para los elementos constructivos: 
+C
+Rw +
+ 
+como aproximación de RA 
+entre recintos interiores 
+tr
+w
+C
+R
++
+ 
+como aproximación de RAtr 
+entre un recinto y el exterior 
+(automóviles) 
+Y para las magnitudes in situ: 
+C
+D
+w
+,
+nT
++
+ 
+como aproximación de DnT,A 
+entre recintos interiores 
+C
+D
+w
+,
+nT
+,
+m
+2
++
+ 
+como aproximación de D2m,nT,A 
+entre un recinto y el exterior (trenes) 
+tr
+w
+,
+nT
+,
+m
+2
+C
+D
++
+ 
+como aproximación de D2m,nT,Atr  
+entre un recinto y el exterior 
+(automóviles) 
+En el caso de aislamiento de fachadas a ruido de tráfico (D2m,nT,Atr) y cuando no se disponga de la 
+caracterización acústica de todos los elementos constructivos mediante los índices Rw, C y Ctr, se puede 
+optar por calcular esta magnitud de forma conservadora mediante la expresión D2m,nT,Atr=D2m,nT,A+Ctr, 
+utilizando como valor Ctr el coeficiente de adaptación espectral del elemento de aislamiento más débil (la 
+ventana normalmente). Para el resto de elementos constructivos se podrá utilizar el índice global de 
+reducción acústica, ponderado A (RA). 
+ 
+En el DB HR se establece la siguiente definición para la Diferencia de niveles estandarizada, ponderada 
+A, entre recintos interiores, DnT,A: 
+Es la valoración global, en dBA, de la diferencia de niveles estandarizada, entre recintos interiores, DnT, 
+para ruido rosa. Se define mediante la expresión siguiente: 
+[dBA]
+     
+10
+lg
+10
+D
+n
+1
+i
+10
+/)
+D
+L
+(
+A
+,
+nT
+i,
+nT
+i,
+Ar
+∑
+=
+−
+⋅
+−
+=
+ 
+DnT,i diferencia de niveles estandarizada en la banda de frecuencia i, [dB]; 
+LAr,i 
+ valor del espectro normalizado del ruido rosa, ponderado A, en la banda de frecuencia i, [dBA]; 
+i 
+recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz. 
+ 
+En el caso de aislamiento de fachadas las magnitudes globales ponderadas A que se utilizan son las 
+siguientes: 
+Diferencia de niveles estandarizada, ponderada A, en fachadas, en cubiertas y en suelos en contacto 
+con el aire exterior, D2m,nT,A: 
+Valoración global, en dBA, de la diferencia de niveles estandarizada de una fachada, una cubierta o un 
+suelo en contacto con el aire exterior, D2m,nT, para ruido rosa: 
+[dBA]
+     
+10
+lg
+10
+D
+n
+1
+i
+10
+/)
+D
+L
+(
+A
+,
+nT
+,
+m
+2
+i,
+nT
+,
+m
+2
+i,
+Ar
+∑
+=
+−
+⋅
+−
+=
+ 
+D2m,nT,i diferencia de niveles estandarizada, en la banda de frecuencia i, [dB]; 
+LAr,i  
+valor del espectro normalizado del ruido rosa, ponderado A, en la banda de frecuencia i, 
+ 
+[dBA]; 
+i 
+recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz. 
+En caso de ruido predominante de tráfico ferroviario o de estaciones ferroviarias también se utilizará este 
+índice para la valoración global, pero usando los valores del espectro normalizado de ruido de tráfico 
+ferroviario o de estaciones ferroviarias, ponderado A. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 16 
+ 
+ 
+ 
+Diferencia de niveles estandarizada, ponderada A, en fachadas, en cubiertas y en suelos en contacto 
+con el aire exterior para ruido de automóviles, D2m,nT,Atr: 
+Valoración global, en dBA, de la diferencia de niveles estandarizada de una fachada, una cubierta, o un 
+suelo en contacto con el aire exterior, D2m,nT para un ruido exterior de automóviles: 
+[dBA]
+     
+10
+lg
+10
+D
+n
+1
+i
+10
+/)
+D
+L
+(
+Atr
+,
+nT
+,
+m
+2
+i,
+nT
+,
+m
+2
+i,
+Atr
+∑
+=
+−
+⋅
+−
+=
+ 
+D2m,nT,i diferencia de niveles estandarizada, en la banda de frecuencia i, [dB]; 
+LAtr,i 
+valor del espectro normalizado del ruido de automóviles, ponderado A, en la banda de 
+frecuencia i, [dBA]; 
+i 
+recorre todas las bandas de frecuencia de tercio de octava de 100 Hz a 5 kHz. 
+En caso de ruido predominante de aeronaves también se utilizará este índice para la valoración global, 
+pero usando los valores del espectro normalizado de ruido de aeronaves, ponderado A. 
+Tabla A1.2 – Espectros normalizados. 
+ 
+ 
+ 
+A1.7.3.4 
+Ley de masa para particiones de una hoja 
+Las particiones de una hoja son cerramientos compuestos por una sola capa de material o por varias 
+capas de diferentes materiales que están rígidamente unidas entre sí (por ejemplo muros de hormigón, 
+paredes de fabrica de ladrillo enlucidas, etc.) de manera que se mueve como se fueran una. 
+El aislamiento de una pared simple depende sobre todo de su masa por unidad de superficie, su rigidez y 
+el amortiguamiento intrínseco en el material o en los bordes del panel. 
+Se espera un aumento en el aislamiento al aumentar la masa, ya que cuanto más pesada es la partición, 
+menos vibra en respuesta a las ondas sonoras y, por tanto, menos energía radiará hacia el otro lado. 
+La Ley de masa es una expresión teórica que puede utilizarse para predecir el aislamiento de paredes 
+homogéneas y simples en función exclusivamente de su masa: 
+[dB]
+    
+42
+)f
+m
+( 
+log
+20
+R
+−
+⋅
+⋅
+=
+ 
+m densidad de masa por superficie, [kg/m2] 
+f 
+frecuencia, [Hz] 
+La constante depende según el autor. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 17 
+ 
+ 
+La ley de masa predice que el aislamiento aumentará en 6dB al duplicar la masa superficial o la 
+frecuencia (6dB/octava): 
+- Puede lograrse un aumento de masa aumentando el espesor del material o seleccionando 
+materiales de mayor densidad de masa; 
+- Todos los materiales aíslan menos las bajas frecuencias (125 Hz, 250 Hz) que las frecuencias 
+medias (500 Hz, 1000 Hz) y que las frecuencias altas (2000 Hz, 4000 Hz). 
+ 
+Figura A1.7 – Representación gráfica de la ley de masa. 
+La ley de masas se puede utilizar como primera aproximación para determinar el aislamiento de una 
+partición pero no explica bien su comportamiento real. La ley de masa sólo se cumple en un cierto 
+intervalo de frecuencias comprendida entre la frecuencia de resonancia (f0) y la frecuencia crítica o de 
+coincidencia (fc) en las cuales tenemos una disminución importante del aislamiento: 
+- La frecuencia de resonancia (f0): es la frecuencia a la que vibra de forma natural un tabique 
+cuando recibe la onda acústica incidente; depende de la masa de la pared y de las sujeciones 
+perimetrales de la hoja. Está en las bajas frecuencias e interesa que sea lo más pequeña 
+posible para que se sitúe fuera del rango de frecuencias de interés. La f0 disminuye al 
+incrementar el espesor y las dimensiones de la pared. 
+- La frecuencia crítica o de coincidencia, (fc): la energía acústica se transmite a través de la 
+partición en forma de ondas de flexión, acopladas con las ondas acústicas en el aire, con la 
+consiguiente disminución del aislamiento; depende exclusivamente del material de la pared y 
+su espesor y no de sus dimensiones. La fc disminuye al incrementarse el espesor de la 
+partición. 
+También se buscaron expresiones que permitieran obtener un valor de aislamiento acústico global de 
+un elemento constructivo a partir de su masa y, a partir de ensayos en laboratorio, se obtuvieron 
+determinadas ecuaciones que constituyen la Ley de masa. 
+La Ley de masas empleada en el DB HR determina el aislamiento RA en dBA, para un elemento 
+constructivo de una hoja de materiales homogéneos, en función de la masa por unidad de superficie (m) 
+expresada en kg/m2: 
+[dBA]
+     
+5
+)
+m
+( 
+log
+6,
+16
+R
+       
+m
+/
+kg
+ 
+150
+m
+A
+2
++
+⋅
+=
+≤
+ 
+[dBA]
+     
+5,
+38
+)
+m
+( 
+log
+5,
+36
+R
+       
+m
+/
+kg
+ 
+150
+m
+A
+2
+−
+⋅
+=
+≥
+ 
+Los elementos constructivos formados por elementos blandos a flexión (aquellos con fc>2000Hz), por 
+ejemplo, las particiones de placas de yeso laminado, no responden a estas ecuaciones. Su aislamiento 
+suele mayor dependiendo en gran parte de su diseño y ejecución, por lo que aislamiento acústico se 
+debe garantizar mediante ensayo. 
+ 
+A1.7.3.5 
+Aislamiento mixto 
+Un elemento constructivo mixto es aquel formado por dos o más partes de cuantías de aislamiento 
+diferentes, hasta cubrir el total de la superficie. Es el caso de fachadas con ventanas, puertas, 
+cristaleras, etc., el de cubiertas con claraboyas o el de paredes interiores con puertas. 
+El aislamiento acústico de estos elementos mixtos se calcula de la siguiente manera: 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 18 
+ 
+ 
+[dBA]
+     
+10
+·
+S
+S
+·lg
+10
+R
+n
+1
+j
+10
+R
+i
+A
+,
+m
+A
+,i
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎝
+⎛
+−
+=
+∑
+=
+−
+ 
+Rm,A 
+índice global de reducción acústica ponderado A del elemento constructivo mixto, [dBA]; 
+Ri,A 
+índice global de reducción acústica ponderado A, del elemento i, [dBA]; 
+S 
+ área total del elemento constructivo mixto, [m2]; 
+Si 
+ área del elemento i, [m2]; 
+En esta ecuación, si un elemento constructivo tiene un aislamiento acústico menor que el de los demás 
+elementos que constituyen la partición mixta, va a ser determinante en el aislamiento mixto final. 
+ 
+Las fachadas son el caso más representativo de elemento 
+constructivo mixto; en ellas, estos elementos acústicamente 
+más débiles y que limitan el aislamiento acústico que se 
+puede alcanzar frente al ruido exterior suelen ser las 
+ventanas. 
+En estos casos, el aislamiento mixto máximo que se puede 
+obtener es 10 dB mayor que el aislamiento del elemento 
+más débil (normalmente la ventana). Por ello, para mejorar 
+el aislamiento acústico de fachadas, el esfuerzo hay que 
+centrarlo en mejorar el aislamiento acústico de la ventana, 
+empleando ventanas de mejor calidad. 
+ 
+ 
+La figura A1.8 ilustra esta influencia del elemento de menos aislamiento en el aislamiento global. Se 
+puede apreciar cómo para porcentajes de huecos habituales 30 – 40 %, el aislamiento final que se puede 
+obtener será como máximo entre 4 y 5 dB mayor que el valor de aislamiento de la ventana. 
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Incremento del aislamiento de la parte ciega sobre el aislamiento de la ventana 
+Incremento del aislamiento global de la fachada sobre el 
+aislamiento de la ventana 
+10
+20
+30
+40
+50
+60
+70
+80
+90
+ 
+% de huecos da fachada 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+50 
+60 
+70 
+80 
+90 
+Máxima mejora del aislamiento 
+de la fachada (dBA) 
+10 
+8,2 
+7 
+6 
+5,2 
+4,5 
+4 
+3 
+2,2 
+1,5 
+0,9 
+0,5 
+Figura A1.8 – Relación entre el aislamiento global, el aislamiento de la ventana y de la parte ciega, en función del % de 
+huecos 
+Porcentaje 
+de huecos 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 19 
+ 
+ 
+Ejemplo: Aislamiento mixto 
+Se tiene un dormitorio de volumen 3,3 x 3,5 x 2,7 m = 30,24 m2 y 9 m2 de fachada. 
+La parte ciega está formada por ladrillo macizo de 15 cm, con un índice de 
+reducción sonora RAtr = 46 dBA y se va a colocar una ventana de dimensiones 1,5 x 
+1,5 m = 2,25 m2, con índice de reducción acústica RAtr=27 dBA. 
+En principio no cabe esperar un aislamiento mixto mayor que 27 + 10 = 37 dBA. 
+Si calculamos el aislamiento global: 
+(
+)
+dBA
+ 
+32,86
+  
+ 
+9
+10
+25
+,2
+10
+25
+,2
+9
+ 
+·lg
+10
+S
+10
+R
+10
+S
+10
+R
+10
+S
+ 
+·lg
+10
+R
+7
+.
+2
+6,4
+fachada
+,
+total
+c,
+tr
+,
+A
+v
+c,
+tr
+,
+A
+c
+Atr
+,
+m
+=
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎝
+⎛
+⋅
++
+⋅
+−
+−
+=
+⎟
+⎟
+⎟
+⎟
+⎠
+⎞
+⎜
+⎜
+⎜
+⎜
+⎝
+⎛
+−
+⋅
++
+−
+⋅
+−
+=
+−
+−
+ 
+ 
+A1.7.4   Aislamiento acústico de fachadas 
+Ya hemos visto cómo a la hora de estimar el aislamiento de una fachada tenemos que considerar a ésta 
+no como un elemento homogéneo sino mixto. Existen tres componentes que dificultan esta estimación: la 
+parte ciega, la carpintería y el acristalamiento; además, el aislamiento conseguido variará el función de la 
+proporción de superficie acristalada con respecto a la superficie ciega. De estos tres elementos que 
+componen la fachada, la parte ciega no presenta muchos problemas. 
+La calidad acústica de una carpintería viene fijada principalmente por su estanquidad al aire 
+determinada mediante ensayo y clasificada por la normativa3 como Clase-1, Clase-2, Clase-3 y Clase-4. 
+Es necesario elegir una carpintería con buena clasificación, normalmente Clases 3 y 4, y debe cuidarse 
+el sellado del marco con la pared de fachada que es otra causa de debilitamiento acústico, llegando 
+hasta pérdidas de entre 3 y 5 dBA (como indicaba la NBE-CA-88). 
+El sistema de apertura también tiene influencia en el aislamiento para una misma clasificación de 
+carpintería, obteniéndose mayor aislamiento con ventanas abatibles que con correderas.  
+Otro elemento muy importante en la estanquidad de la 
+carpintería es el registro de la persiana que puede 
+provocar por sus rendijas pérdidas importantes de 
+aislamiento. Se recomienda utilizar carpinterías con 
+capialzado 
+prefabricado 
+frente 
+al 
+capialzado 
+tradicional; cada vez es más frecuente la incorporación 
+del capialzado a la propia carpintería de la ventana, de 
+forma que la clasificación acústica comprenda al 
+conjunto. 
+El capialzado exterior es el que proporciona una mayor 
+estanquidad, no influye en el aislamiento y éste 
+dependerá únicamente de la carpintería. 
+ 
+Figura A1.9 – Capialzado con y sin material 
+absorbente.  
+Para minimizar estas pérdidas es recomendable rellenar el tambor de la persiana con un material 
+absorbente acústico de al menos 25 mm de espesor de manera que se reduzca el ruido por absorción 
+(véase figura A1.9) e incrementar la masa de la tapa de registro, por ejemplo añadiendo una lámina de 
+plomo, una chapa de aluminio, una placa de yeso laminado, etc. 
+                                                     
+3 UNE EN 12207: 2000 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 20 
+ 
+ 
+En aquellos casos en los que el ruido exterior sea elevado, será necesario colocar una ventana doble. 
+Colocando una carpintería con su registro de persiana correspondiente, enrasada por la cara interior de 
+la fachada y colocando exteriormente otra carpintería enrasada por la cara exterior del muro, se consigue 
+que las zonas de entrada del ruido en el registro queden dentro de la cámara formada por ambas 
+carpinterías. El ancho de la cámara de aire que separa las hojas debe ser grande (más de 10cm), los 
+vidrios gruesos y de distinto espesor y la estanquidad muy buena, siendo preferible evitar correderas en 
+la hoja interior. 
+Por último, hay que considerar la influencia del vidrio según su capacidad como aislante acústico. Los 
+tres tipos de acristalamientos principales son: monolítico, laminado y doble/triple y deberán elegirse en 
+función de las necesidades de aislamiento que se requiera en cada situación.  
+Por otra parte, en fachadas también deben satisfacerse otros requisitos del CTE; en concreto, para 
+facilitar el cumplimiento de la exigencia sobre calidad del aire interior desarrollada en el DB-HS3, una 
+de las opciones, cuando se utilicen ventanas de Clase 2 o superior (recuérdese que por ruido se 
+recomiendan Clases 3 y 4), es la disposición de aireadores en las carpinterías exteriores o en la parte 
+opaca de la fachada. Estos aireadores pueden ser regulables y permiten la entrada de un caudal de aire 
+fresco determinado en función del uso del local al que sirve y de su ocupación. 
+Los aireadores además deben cumplir con las exigencias de HR, por lo que deben proporcionar el 
+aislamiento a ruido aéreo exterior adecuado. 
+ 
+A1.7.5   Aislamiento acústico a ruido de impactos 
+ 
+A1.7.5.1 
+Índices de aislamiento acústico a ruido de impactos 
+El aislamiento acústico se puede determinar y expresar mediante una serie de índices. A continuación se 
+muestran los principales índices empleados en aislamiento a ruido de impactos en acústica de la 
+edificación: 
+Nivel de presión de ruido de impactos normalizado, Ln: 
+Es el nivel de presión de ruido de impactos de un elemento constructivo horizontal ensayado en 
+laboratorio cuando es excitado por la máquina de impactos normalizada. Es función de la frecuencia: 
+[dB]
+      
+10
+A
+lg
+10
+L
+Ln
+⋅
++
+=
+ 
+L 
+nivel de presión sonora de impactos medido en laboratorio (UNE EN ISO 140-6) en el recinto 
+receptor, [dB] 
+Nivel de presión de ruido de impactos normalizado medido in situ, L’n: 
+Es el nivel de presión de ruido de impactos de un elemento constructivo horizontal ensayado in situ 
+cuando es excitado por la máquina de impactos normalizada. Es función de la frecuencia: 
+[dB]
+      
+10
+A
+lg
+10
+L
+'L n
+⋅
++
+=
+ 
+L 
+nivel de presión sonora de impactos medido in situ (UNE EN ISO 140-7) en el recinto receptor, 
+[dB] 
+Nivel de presión de ruido de impactos estandarizado, L’nT: 
+Es el nivel de presión de ruido de impactos in situ, en dB, en el recinto receptor normalizado a un tiempo 
+de reverberación de 0,5 s, cuando el elemento constructivo horizontal es excitado por la máquina de 
+impactos normalizada. Es función de la frecuencia: 
+[dB]
+     
+T
+T
+ 
+lg
+10
+L
+'L
+0
+nT
+⋅
+−
+=
+ 
+T 
+tiempo de reverberación del recinto receptor, [s] 
+T0 tiempo de reverberación de referencia, de valor 0,5 segundos, [s] 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 21 
+ 
+ 
+Relación entre las magnitudes L’nT y L’n: 
+(
+) [dB]
+   
+V
+0,032
+ 
+lg
+10
+'L
+  
+T
+A
+V
+16
+,0
+ 
+lg
+10
+'L
+'L
+n
+0
+0
+n
+nT
+⋅
+⋅
+−
+=
+⋅
+⋅
+−
+=
+ 
+V volumen del recinto receptor, [m3] 
+Todas estas magnitudes dependen de la frecuencia. En principio siempre debería evaluarse el 
+aislamiento de una solución constructiva analizando su espectro; sin embargo, para evaluar y comparar 
+los resultados obtenidos tanto entre sí, como con las exigencias de la normativa, se puede caracterizar el 
+aislamiento acústico mediante un único valor: nivel global de presión de ruido de impactos 
+identificado mediante el subíndice w (por ejemplo, Ln,w, L’n,w, LnT,w, etc.) 
+El nivel global representa el valor en dB, a 500 Hz de una curva de referencia que se desplaza para 
+ajustarse a los valores de aislamiento obtenidos experimentalmente, según el método que especifica la 
+norma UNE EN ISO 717-2. 
+ 
+A1.7.6   Resumen de las magnitudes de aislamiento acústico utilizadas en el DB HR 
+ 
+A1.7.6.1   Aislamiento acústico a ruido aéreo 
+Como hemos visto hay una serie de magnitudes que: 
+- Dependen de la frecuencia (DnT) 
+- Expresan una magnitud global (DnT,w, DnT,A) 
+- Se refieren a un elemento constructivo (RA) 
+- Se refieren a los recintos (R’, DnT) 
+ 
+La tabla siguiente resume todas estas magnitudes empleadas en aislamiento a ruido aéreo: 
+ 
+Tabla A1.3 – Magnitudes de aislamiento a ruido aéreo. 
+ 
+ 
+RA es el aislamiento de un elemento constructivo en laboratorio. 
+NO SE PUEDE ENSAYAR IN SITU 
+DnT,A es el aislamiento in situ entre dos recintos Î ENSAYO IN SITU 
+ 
+ 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 22 
+ 
+ 
+ 
+A1.7.6.2   Aislamiento acústico a ruido de impactos 
+Como hemos visto hay una serie de magnitudes que: 
+- Dependen de la frecuencia (Ln) 
+- Expresan una magnitud global (L’nT,w) 
+- Se refieren a un elemento constructivo (Ln) 
+- Se refieren a los recintos (L’n) 
+La tabla siguiente resume todas estas magnitudes empleadas en aislamiento a ruido de impactos: 
+ 
+Tabla A1.4 – Magnitudes de aislamiento a ruido de impactos. 
+ 
+ 
+Ln es el aislamiento de un elemento constructivo en laboratorio. 
+NO SE PUEDE ENSAYAR IN SITU 
+LnT,w es el aislamiento in situ entre dos recintos Î ENSAYO IN SITU 
+ 
+A1.7.7   Las mejoras de aislamiento 
+El DB HR define el revestimiento como la “capa colocada sobre un elemento constructivo base o 
+soporte. Se consideran revestimientos los trasdosados en elementos constructivos verticales, los suelos 
+flotantes, las moquetas y los techos suspendidos, en elementos constructivos horizontales.” 
+Un revestimiento nos proporcionará una mejora del aislamiento a ruido aéreo (caso del trasdosado, 
+techo suspendido y suelo flotante en menor medida), y en el caso del suelo flotante una mejora al 
+aislamiento del ruido de impactos. El valor en que se incrementa el aislamiento debido a la adición de 
+estos elementos depende del elemento constructivo sobre el que se aplican, siendo un factor muy a 
+tener en cuenta. 
+Se emplean las magnitudes siguientes: 
+- Mejora del índice de reducción acústica (ΔR): 
+Es la mejora de aislamiento a ruido aéreo que aportan los trasdosados, suelos flotantes y 
+techos suspendidos. 
+- Reducción del nivel de presión de ruido de impactos o mejora del aislamiento acústico a 
+ruido de impactos (ΔL) 
+Es la mejora de aislamiento a ruido de impactos que aportan los techos suspendidos y 
+fundamentalmente los suelos flotantes y las moquetas. 
+Las mejoras de aislamiento es dependiente de la frecuencia en ambos casos y, por tanto, sigue siendo 
+aplicable el uso de las magnitudes globales: ΔLw, ΔRw, ΔRA, etc. 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 23 
+ 
+ 
+ 
+ 
+A1.8 Acondicionamiento acústico 
+Como ya sabemos, el acondicionamiento acústico es una parte fundamental del diseño de salas y 
+comprende todas aquellas técnicas necesarias para dotar a una sala de un campo acústico con unas 
+características adecuadas, en función del uso que se le vaya a dar a la sala y supuesta ésta 
+correctamente aislada del exterior. 
+Tradicionalmente el acondicionamiento acústico ha estado ligado a salas de acústica excepcional como 
+es el caso de teatros, auditorios, etc. Sin embargo, éste es un aspecto que debe tenerse muy en cuenta 
+en recintos que a priori puedan parecer de menor relevancia pero que deben ser dotados con un campo 
+sonoro adecuado; es el caso de aulas y salas de conferencias, recintos en los que se va a necesitar una 
+buena inteligibilidad de la palabra, y de restaurantes y comedores, recintos en los que es necesario 
+limitar el ruido de fondo para proporcionar un mínimo confort acústico. Las zonas comunes de los 
+edificios son otro caso importante a considerar puesto que si se les proporciona la absorción acústica 
+adecuada contribuirán muy positivamente a mejorar el aislamiento con respecto a los recintos 
+colindantes. 
+En el ámbito del acondicionamiento acústico se manejan dos conceptos fundamentales como son el 
+tiempo de reverberación y la absorción acústica, que se describen en el apartado siguiente. 
+ 
+A1.8.1   Tiempo de reverberación y absorción acústica 
+En los recintos, el sonido se propaga en forma de ondas en todas direcciones que rebotan en todas las 
+superficies produciéndose numerosas reflexiones. Las reflexiones producen un nivel sonoro 
+suplementario que se suma al principal, por lo que el sonido recibido aumenta, llegando a veces a ser 
+molesto. 
+Este fenómeno de persistencia de la energía sonora en el espacio, incluso una vez que cesa la fuente 
+que la produce, se conoce como reverberación. Se mide por medio del tiempo de reverberación que 
+es el tiempo que se requiere en un espacio cerrado para que un sonido en una frecuencia determinada 
+disminuya 60dB, después de haber cesado la fuente o bien, el tiempo que transcurre hasta que la 
+densidad de la energía acústica en el recinto decrece una millonésima de su valor inicial. El proceso de 
+decaimiento de la energía es diferente para cada posición dentro del recinto y además, varía con la 
+frecuencia. 
+Es habitual calcular el tiempo de reverberación mediante ecuaciones basadas en la teoría estadística; de 
+ellas, la más conocida y empleada es la fórmula de Sabine: 
+[s]
+      
+A
+V
+·
+16
+,0
+T =
+ 
+Donde vemos que el tiempo de reverberación, en segundos, depende del volumen del recinto (V en m3) 
+y de su absorción acústica (A en m2). 
+La absorción acústica es la disminución de la energía acústica en un recinto, que se disipa en energía 
+calorífica, al ser absorbida por el medio que atraviesa. Esta pérdida de energía se deberá a la absorción 
+debida al aire, a los materiales y acabados empleados en los elementos constructivos, caracterizados 
+por un coeficiente de absorción, a los objetos y mobiliario presentes en el recinto y a las personas que se 
+encuentren dentro de la sala. 
+Para calcular la absorción acústica de un recinto es necesario sumar la absorción que aporta cada una 
+de las superficies de distinto material del recinto, así como los objetos o mobiliario que pudiera contener 
+y la absorción del aire. 
+La absorción de una superficie se obtiene multiplicando su coeficiente de absorción por su superficie: 
+]
+[m
+      
+S
+·
+A
+2
+n
+1
+i
+i
+i
+∑
+=
+α
+=
+ 
+Desarrollando la fórmula: 
+
+ 
+GUÍA DE APLICACIÓN DEL DB HR PROTECCIÓN FRENTE AL RUIDO. ANEJO 1                                             A1. 24 
+ 
+ 
+]
+[m
+      
+V
+·
+m
+·
+4
+A
+·
+N
+S
+·
+A
+A
+A
+A
+2
+O
+N
+1
+j
+n
+1
+i
+i
+i
+aire
+objetos
+paramentos
++
++
+α
+=
++
++
+=
+∑
+∑
+=
+=
+ 
+donde: 
+αi coeficiente de absorción acústica de cada paramento en bandas de frecuencia 
+Si  área de paramento cuyo coeficiente de absorción es i, [m2] 
+AO área de absorción acústica media equivalente de cada objeto absorbente diferente en bandas de 
+frecuencias, [m2] 
+La absorción acústica de objetos se define como el área de absorción acústica equivalente, que 
+es el área que tendría el objeto si su coeficiente de absorción fuera 1. 
+4mV absorción en el seno del aire, [m2] 
+m coeficiente de absorción acústica medio en el aire 
+V volumen del recinto, [m3] 
+ 
+El coeficiente de absorción acústica de un material es una magnitud adimensional que se define como 
+la relación entre la energía absorbida y la energía total incidente. 
+El coeficiente de absorción por el que se caracterizan los productos es el coeficiente de absorción 
+acústica de Sabine o de cámara reverberante. Viene dado en 6 bandas de octava de 125 Hz a 4000Hz. 
+En ocasiones podemos encontrarnos con otros coeficientes como: 
+- NRC (noise reduction criteria), que es la media aritmética de los valores del coeficiente de 
+absorción para las frecuencias de 250, 500, 1000 y 2000 Hz. Expresada en múltiplos de 0,05. 
+- αw, que es el coeficiente ponderado según la norma UNE EN ISO 11654. Acústica. 
+Absorbentes acústicos para su utilización en edificios. Evaluación de la absorción acústica. 
+El valor de coeficiente de absorción de un material va a depender de los siguientes factores: 
+- La rugosidad del material y en especial su porosidad; 
+- La pérdida de energía por procesos viscoelásticos debido al paso del aire a través del material, 
+que se puede caracterizar por la resistencia al paso del flujo del aire; 
+- La conducción térmica entre el material y el aire; 
+- La difracción de la onda sonora debido a las irregularidades superficiales del material. 
+Por tanto los materiales más absorbentes han de ser los que presenten una elevada porosidad y una 
+resistencia al paso del flujo del aire pequeña; estos materiales se conocen como materiales porosos 
+entre los que destacan las lanas minerales y las espumas de poliuretano. Otros ejemplos de estos 
+materiales son los tesos y morteros acústicos o los revestimientos textiles (moquetas, cortinas, etc.) 
+ 
+A1.8.2   Inteligibilidad de la palabra 
+La inteligibilidad de la palabra es la capacidad de comprensión de la palabra en un recinto determinado, 
+es decir, que en cualquier punto de la sala donde pueda situarse un oyente, éste sea capaz no sólo de 
+oír el mensaje sino de entenderlo. 
+La inteligibilidad depende tanto de factores objetivos, por ejemplo el ruido de fondo, el tiempo de 
+reverberación, la distancia al orador, su nivel y directividad de la voz, como de factores subjetivos como 
+el conocimiento del orador, su forma de hablar, palabras que utiliza, etc. 
+Existen diferentes parámetros para cuantificar la inteligibilidad de la palabra como el %Alcons (porcentaje 
+de pérdida de articulación de consonantes), el STI (sound transmisión index) o el RASTI (Rapid-STI). 
+ 

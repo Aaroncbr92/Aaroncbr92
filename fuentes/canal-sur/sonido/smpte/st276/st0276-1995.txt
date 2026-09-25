@@ -1,0 +1,248 @@
+1  Scope
+This standard describes a point-to-point coaxial cable
+interface for the transmission of AES/EBU digital
+audio signals throughout television production and
+broadcast facilities.
+The purpose of this standard is to ensure that a level
+of compatibility exists between signals generated to
+this standard and analog video equipment, such
+as nonclamping distribution amplifiers, switchers,
+cables, and connectors, as normally used in television
+applications.
+Signals conforming to ANSI S4.40 balanced
+AES/EBU can be interfaced to signals conforming to
+this standard through the use of matching networks.
+Examples of the use of matching networks in conjunc-
+tion with this standard are provided, for information
+purposes only,  in annex A.
+2  Normative references
+The following standards contain provisions which,
+through reference in this text, constitute provisions of
+this standard. At the time of publication, the editions
+indicated were valid. All standards are subject to
+revision, and parties to agreements based on this
+standard are encouraged to investigate the possibility
+of applying the most recent edition of the standards
+indicated below.
+ANSI S4.40-1992, Digital Audio Engineering ---- Serial
+Transmission Format for Two-Channel Linearly
+Represented Digital Audio Data (AES-3)
+IEC 169-8 (1978), Part 8: R.F. Coaxial Connectors
+with Inner Diameter of Outer Conductor 6.5 mm
+(0.256 in) with Bayonet Lock -- Characteristic Imped-
+ance 50 Ohms (Type BNC), and Appendix A (1993)
+3  Transmission format
+The transmission channel code and source code shall
+be as described in ANSI S4.40.
+4  Generator characteristics
+4.1 The output of the generator shall be
+measured across a 75-ohm resistive load
+connected directly to the output.
+4.1.1 The generator shall have an unbalanced
+output circuit with a source impedance of 75
+ohms and a return loss greater than 25 dB over
+the frequency band 0.1 MHz to 6.0 MHz.
+4.2 The peak-to-peak signal amplitude shall be
+1.0 V ± 10%, when measured across a 75-ohm
+resistive load.
+4.3 The dc offset, as defined by the midamplitude
+point of the signal, shall be nominally 0.0 V ± 50
+mV.
+4.4 The rise and fall times, determined between
+the 10% and 90% amplitude points and
+measured across a 75-ohm resistive load, shall
+lie between 30 ns and 44 ns.
+4.5 Data jitter of the output signal shall comply
+with ANSI S4.40.
+for Television ----
+Transmission of AES/EBU Digital
+Audio Signals Over Coaxial Cable
+CAUTION NOTICE: This Standard may be revised or withdrawn at any time. The procedures of the Standard Developer require that action be taken to reaffirm, revise,
+or withdraw this standard no later than five years from the date of publication. Purchasers of standards may receive current information on all standards by calling or
+writing the Standard Developer.                                                    Printed in USA.
+ANSI/SMPTE 276M-1995
+SMPTE  STANDARD
+Page 1 of 4 pages
+Approved
+December 1, 1995
+Copyright © 1995 by THE SOCIETY OF 
+MOTION PICTURE AND TELEVISION ENGINEERS
+595  W. Hartsdale Ave., White Plains, NY 10607
+(914) 761-1100
+
+5  Receiver characteristics
+5.1 The receiver shall present an impedance of
+75 ohms with a return loss greater than 25 dB
+over the frequency band 0.1 MHz to 6.0 MHz.
+5.2 The receiver shall correctly interpret the
+data when connected directly to a line driver
+working at the upper voltage limit specified in
+4.2.
+5.3 The receiver shall correctly interpret the
+data when the transmitted signal is attenuated to
+an eye-height level of 100 mV, due to cable
+losses. (See annex A for input sensitivity and
+interfacing considerations to matching networks
+[conversion between coaxial and balanced
+twisted-pair transmission formats].)
+6  Equalization
+Equalization for transmission cable losses is not
+usually required. When necessary, equalization shall
+be provided at the link receiver only.
+7  Cable
+The interconnecting coaxial cable shall have a nomi-
+nal characteristic impedance of 75 ohms over the
+frequency range 0.1 MHz to 6.0 MHz.
+8  Connector type
+The connector shall have mechanical characteristics
+conforming to BNC as described in IEC 169-8, but
+may feature an impedance of 75 ohms.
+Annex A (informative)
+Matching network interface considerations
+A.1 This standard is intended primarily for use in specifying
+systems operating with unbalanced electrical line drivers
+and receivers optimized for coaxial cable transmission.  Due
+consideration should be applied when applying the standard
+to systems featuring matching network passive circuits,
+such as are commercially available or may be constructed
+for interfacing balanced 110-Ω circuits to unbalanced 75-Ω
+circuits. For additional information on this topic, the reader’s
+attention is drawn to AES 3ID.
+When integrating coaxial and balanced twisted-pair
+AES/EBU signals in a television system, the following points
+should be considered:
+A.1.1  Conversion between balanced 110 Ω and unbalanced
+75 Ω for use according to this standard
+ANSI S4.40 (also referred to as AES-3) provides for an
+output voltage of a balanced line driver in the range 2 V --
+10 V p-p. Note, however, that the 1992 version restricts the
+maximum p-p voltage to 7 V.
+A signal conforming to the 1985 version of the standard,
+when converted for unbalanced coaxial transmission via a
+matching network, must then be attenuated by a ratio of
+between 1:2 and 1:10 in order to conform to 5.2 of this
+standard (Vmax = 1.0 V p-p ± 10%). (This restriction is
+specified to ensure that unbalanced coaxial AES/EBU
+signals can be routed successfully through nonclamping
+analog video amplifiers.)  The particular value of attenuation
+is decided by the value of the resistive attenuator portion of
+the matching network.
+NOTE -- Precision resistors (1%) should be used to maintain
+the return-loss specification cited in this standard.
+A purely resistive matching network Pi attenuator (figures
+A.1 and A.2) can be applied, but is incapable of providing a
+signal attenuation ratio of less than 1:2.6 while maintaining
+the correct load and source impedance. In this case, if the
+balanced voltage at the input to the matching network is only
+2 V p-p, the unbalanced output voltage will be of the order
+of 770 mV.
+An impedance transformer in series with an unbalanced
+T resistive attenuator (figures A.3 and A.4) can provide
+an output of 1 V p-p with an input level from 2 V -- 10 V,
+while providing loop current immunity. Note that multiple
+transformer isolated matching networks used in a trans-
+mission circuit may result in the circuit return loss
+being degraded outside the specification cited in this
+standard.
+A.1.1.1  Examples of balanced to unbalanced matching net-
+works
+Figures A.1 -- A.4 are examples of resistive and inductive
+matching networks that can be applied for conformity to this
+standard.
+A 14-dB attenuator (figures A.1 and A.3) will provide good
+video equipment compatibility for an AES/EBU signal up to
+6 V -- 7 V p-p (as per AES-3-1992), while an 18-dB attenu-
+ator (figures A.2 and A.4) should provide compatibility for
+any AES/EBU level up to 10 V p-p (as per AES-3-1985). 
+In all the examples shown in figures A.1 -- A.4, a reduction
+in long distance transmission capability will result from the
+attenuation. This is described in table A.1, which is based
+on the cable attenuation properties of standard coaxial cable
+performance at 6 MHz (normally characterized as 0.78
+dB/100 ft @ 10 MHz).
+ANSI/SMPTE 276M-1995 
+Page 2 of 4 pages
+
+Figure A.1 -- 14-dB resistive attenuator
+Figure A.2 -- 18-dB resistive attenuator
+Figure A.3 -- 14-dB transformer attenuator
+Figure A.4 -- 18-dB transformer attenuator
+ PERFORMANCE (@ 6 MHz)
+Eye height
+14-dB attenuator
+18-dB attenuator
+VIN
+VOUT
+Dist. (m)1)
+VOUT
+Dist. (m)1)
+ 2.0
+  0.38  
+ 600
+0.24
+ 400
+ 5.0
+  0.95  
+1000
+0.60
+ 750
+ 7.0
+  1.33  
+1100
+0.84
+ 900
+10.0
+  1.902)
+1250
+1.20
+1050
+ 
+1) Based on additional (cable) attenuation to a minimum eye height of
+  100 mV at the input of the coaxial receiver.
+ 
+2) Not compatible with analog video equipment.
+Table A.1 -- AES/EBU transmission capabilities
+of described matching networks
+ANSI/SMPTE 276M-1995 
+Page 3 of 4 pages
+
+A.1.2  Conversion between unbalanced 75  Ω and balanced
+110  Ω for use according to this standard
+The input sensitivity cited in 5.3 of this standard (VIN  > 100
+mV) is designed to compensate for cable attenuation losses
+of 20 dB from the nominal output voltage specified in 5.2. 
+It should be noted, however, that the minimum eye height at
+the input to an unbalanced to balanced matching network
+must be higher than this to retain conformity to the minimum
+eye height of 200 mV at the input of a balanced receiver, as
+specified in ANSI S4.40.
+Using an ’L’ resistive matching network (figure A.5), a volt-
+age of 320 mV is required on the 75-Ω input side of the
+network to render a voltage of 200 mV on the 110-Ω output,
+in a manner that maintains a sufficient impedance match. As
+a result, the use of resistive matching networks in circuits
+designed to feature maximum voltage levels conforming to
+this standard will result in additional limitations on maximum
+transmission distances due to cable attenuation. 
+Using an impedance matching transformer (TR = 1:1.211)
+(figure A.6) requires a voltage of 165 mV on the 75-Ω input
+side of the network to render a voltage of 200 mV on the
+110-Ω output. This type of circuit then imparts no significant
+limitation on maximum transmission distances, unlike the
+resistive network shown in figure A.5.
+A.1.2.1  Examples of unbalanced to balanced matching net-
+works
+In either of the following cases, a return loss of 25 dB cannot
+be guaranteed. Note that the resistive matching pad will
+guarantee a return loss higher than the transformer.
+Annex B (informative)
+Bibliography
+AES 31D, AES Information Document for Digital Audio
+Engineering ---- Transmission of AES-3 Formatted Data by
+Unbalanced Coaxial Cable
+Figure A.5 -- Coaxial to balanced
+resistive matching network
+Figure A.6 -- Coaxial to balanced
+transformer matching network
+ANSI/SMPTE 276M-1995 
+Page 4 of 4 pages

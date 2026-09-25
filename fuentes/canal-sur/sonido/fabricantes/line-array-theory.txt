@@ -1,0 +1,1671 @@
+Analysis of Loudspeaker Line Arrays*
+MARK S. UREDA, AES Member
+JBL Professional, Northridge, CA 91329, USA
+A set of mathematical expressions to analyze the performance of loudspeaker line arrays
+is provided. At first a set of expressions for straight-line arrays is developed, including the
+directivity function, polar response, quarter-power angle, on-axis and off-axis pressure re-
+sponses, and two-dimensional pressure field. Since in practice many loudspeaker line arrays
+are not actually straight, expressions are provided for curved (arc), J, and progressive line
+arrays. In addition, since loudspeaker systems are often not perfect sources, the effects of
+spherical radiating sources and gaps between sources are analyzed. Several examples of how
+to apply the models are given, and modeled performance is compared to measured polar data.
+0 INTRODUCTION
+Vertical line arrays of loudspeakers are at present
+gaining prominence among sound-reinforcement profes-
+sionals. That is not to say that they are an entirely new
+concept. Indeed, Klepper and Steele wrote in 1963 [1]:
+“Line-source loudspeaker arrays, often called ‘column’
+loudspeakers, have recently become of great interest to
+sound-system contractors and equipment manufacturers in
+this country.”
+What is new is that loudspeaker manufacturers have
+applied good engineering practice to long known prin-
+ciples of line source physics. Systems today provide well-
+behaved directivity response, high output power, and high-
+quality sound over an extended frequency range. Together
+these represent a significant improvement in performance
+over conventional column loudspeakers.
+Column loudspeakers typically comprise a vertical
+stack of full-range direct radiators. They produce modest
+sound power levels and exhibit a vertical directivity re-
+sponse that changes substantially with frequency. Klepper
+and Steele describe problems with column loudspeakers,
+including “narrowing of the major (on-axis) lobe at higher
+frequencies” and “strong minor off-axis lobes or sidelobes
+at high frequencies.” These, they write, are predicted by
+equations given by Olson [2]. Their paper prescribes meth-
+ods for improving the polar response, but the success of
+these techniques is limited by the directional characteris-
+tics of the individual loudspeakers themselves, which nar-
+row at high frequency.
+Today manufacturers of loudspeaker line arrays often
+provide specially designed waveguides in place of in-
+dividual direct radiators for the high-frequency band.
+This is an important improvement. While column loud-
+speakers behave like an array of individual, frequency-
+dependent acoustic sources, contemporary systems behave
+more like continuous line sources. This allows them to
+achieve a well-behaved directivity response to very high
+frequency.
+Manufacturers have also realized that long, perfectly
+straight loudspeaker line arrays produce a directivity re-
+sponse that often becomes too narrow at high frequencies
+for many sound-reinforcement venues. In fact, they have
+learned that it is often desirable to produce an asymmetri-
+cal response in the vertical plane, for instance, one that
+projects energy forward and downward at the same time.
+This can be achieved if the array is slightly curved, par-
+ticularly along the lower portion. Recently manufacturers
+have designed line array loudspeaker systems that can be
+curved over the entire length of the array while maintain-
+ing the attributes of a continuous source. This allows users
+to achieve simultaneously the narrow, long throw charac-
+teristics of a straight-line array and the wide, lower fill
+characteristics of a curved array.
+This paper provides mathematical expressions for esti-
+mating the performance of a wide variety of line arrays.
+The models are based on theoretical line sources, but the
+estimates obtained agree quite well with measurements
+taken on real-life line arrays, particularly those from the
+latest generation of loudspeaker systems designed specifi-
+cally for line array applications.
+1 BACKGROUND AND OVERVIEW
+Most analyses of line sources reference Wolff and Mal-
+ter’s [3] seminal work of 1930. Wolff and Malter develop
+expressions for the polar response of a linear array of point
+*Manuscript received 2003 July 24; revised 2004 February 23.
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+467
+
+sources in the far field. The far-field restriction allows the
+directivity function to be expressed in closed form. Their
+paper has been referenced and/or augmented over the
+years by Beranek [4],1 Wood [5], Davis [6], Rossi [7], and
+Skudrzyk [8] among others. For the convenience of the
+reader, Sections 2.1 through 2.4 summarize important el-
+ements of their work as well.
+Section 2.5 analyzes the on-axis pressure response of
+line sources. Here the far-field restriction is abandoned,
+and the pressure is expressed as a function of distance.
+This analysis follows the work of Lipshitz and Vander-
+kooy [9] and Smith [10], who present the on-axis and
+off-axis pressure responses of line sources. They show that
+the pressure response undulates near the source while gen-
+erally decreasing in level at −3 dB per doubling of dis-
+tance. At a certain distance, referred to as the transition
+distance,2 the undulations disappear and the response falls
+off at −6 dB. The near field is defined as the region be-
+tween the source and the transition distance. Beyond the
+transition distance is the far field. The transition distance
+is a function of the line source length and frequency and
+has been estimated by Smith [10], Heil [12],3 Junger and
+Feit [13], and Ureda [14, p. 6].
+The pressure response of a line source on either side of
+the transition distance, however, is more complex than the
+on-axis pressure response would suggest. In fact, depend-
+ing on the point chosen along the source from which one
+begins the pressure response analysis, different results are
+obtained. Section 2.5 explores this complexity by compar-
+ing the results obtained when different points along a
+straight-line source are taken as the initial point. It is
+shown that each of these responses represents different
+slices through the pressure field. The mathematical expres-
+sion for the pressure field of a straight-line source is given
+in Section 2.6.
+As illustrated throughout Section 2, straight-line sources
+produce polar response curves that vary substantially with
+length and frequency. At long lengths and high frequen-
+cies they get very narrow, often too narrow for sound-
+reinforcement venues. Curved or arc sources, however,
+produce polar response curves that are materially wider
+and approach the included angle of the arc at high fre-
+quency. This has been described in many of the texts cited
+earlier, including Wolff and Malter [3],4 Olson [2],5 and
+Rossi [7, p. 134]. Section 3 of this paper expands on the
+analysis of arc sources by providing mathematical expres-
+sions for the polar response, on-axis pressure response,
+and two-dimensional pressure field.
+Arc sources, while useful by themselves in certain
+sound-reinforcement venues, are of particular interest
+when used in conjunction with straight-line sources. The
+combination is referred to as a J source [15]. J sources are
+comprised of a straight-line source placed above and ad-
+jacent to an arc source. The straight segment provides long
+throw and the arc segment provides coverage in the down
+front region. Together they provide an asymmetrical polar
+response in the vertical plane that is well suited for many
+venues. Section 4 describes J sources and provides expres-
+sions for the polar response, on-axis response, and two-
+dimensional pressure field.
+Like a J source, a progressive6 source [15] also pro-
+vides an asymmetrical polar response in the vertical plane.
+Unlike a J source, however, a progressive source is a
+continuous curve. The upper portion of the source is
+nearly straight but then increases in curvature toward the
+bottom. Section 5 provides expressions for its polar re-
+sponse, on-axis pressure response, and two-dimensional
+pressure field. These show that a progressive source
+produces a response that is remarkably constant with
+frequency.
+In practice, even with specially designed loudspeaker
+systems, large line arrays are not perfectly continuous
+line sources. They invariably have gaps between the
+individual array elements, which are essentially nonradi-
+ating portions of the total line source. Certain effects of
+such discontinuities are described by Urban et al. [16].
+Section 6 expands on this work and analyzes the polar
+responses of straight-line sources with various size gaps.
+It provides guidelines for acceptable gap-to-wavelength
+ratios.
+Urban et al. also describe certain effects produced if
+the radiating elements in loudspeaker line arrays pro-
+duce radial wavefronts instead of pure, flat wavefronts.
+He models this as a stack of slightly curved sources.
+Section 6 examines the polar response of this stack and
+shows that grating lobes occur at high frequency or large
+curvature.
+Finally, it is important to examine how closely the
+mathematical models developed in this paper estimate the
+performance of loudspeaker line arrays. Section 7 com-
+pares the modeled and measured polar response curves
+of three loudspeaker line arrays. Despite the vagaries
+of real-life sources and measurement challenges, the mod-
+els provide remarkably good estimates of array perfor-
+mance over a wide frequency range. Button [17] and En-
+gebretson et al. [18] compare measured results against
+predictions produced by models similar to the ones devel-
+oped in the present paper. Section 7 takes measured results
+from Engebretson et al. and compares them directly
+against predictions produced explicitly by the straight-line
+source and arc source models developed in the following
+sections.
+1The author shows the polar response (in dB) of line sources
+(p. 96) and curved sources (p. 106).
+2“Transition” distance is used instead of “critical” distance to
+avoid confusion with the term “critical distance” used in archi-
+tectural acoustics, where it refers to the distance at which the
+direct and reverberant fields are equal in level. See Eargle [11].
+3The author discusses the response of line arrays in the near
+field (Fresnel region) and the far field (Fraunhofer region).
+4See page 212 for a discussion on curved line sources.
+5See p. 27, where Olson provides the directional characteris-
+tics of 60, 90, and 120° arc sources.
+6The term “progressive” is used in the present paper instead of
+“spiral” originally used by the author. The term spiral array is
+sometimes used in reference to so-called barber-pole arrays, as in
+Klepper and Steele [1].
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+468
+
+2 STRAIGHT-LINE SOURCES
+2.1 Directivity Function of Straight-Line
+Sources—General Form
+A line source can be modeled as a continuum of infi-
+nitely small line segments distributed along a line. The
+acoustic pressure radiated from a line source7 is
+p =−L2
+L2 Ale−jkrl+l
+rl
+dl
+where L is the length of the line source, A(l) is the ampli-
+tude function along the line, (l) is the phase function
+along the line, k is the wavenumber, and r(l) is the distance
+from any segment dl along the line to the point of obser-
+vation P.
+The evaluation of this expression is simplified if we
+assume that the observation point P is a large distance
+away, that is, the distance is much greater than the length
+of the source, and the distances to P from any two seg-
+ments along the line are approximately equal. This allows
+us to bring the r(l) term in the denominator to the front of
+the integral since, by definition,
+1
+rL2 ≈
+1
+r−L2 ≈
+1
+r .
+Conversely, the r(l) term in the exponential has a signifi-
+cant influence on the directivity function. This is because
+the relatively small distance differences to P from any two
+segments are not small compared to a wavelength, par-
+ticularly at high frequency. Fig. 1 shows that r(l) in the
+exponent can be expressed as
+rl = l sin 
+where  is the angle between a line bisecting the source
+and a line from the midpoint of the source to P. Substi-
+tuting, the far-field pressure at angle  of a line source is
+p =
+1
+r −L2
+L2
+Al e−jkl sin +l dl.
+The directivity function R() of a line source is the
+magnitude of the pressure at angle  over the magnitude of
+the maximum pressure that can be obtained, that is,
+R =p
+pmax
+.
+The maximum radiated pressure is obtained when all
+segments along the line radiate in phase, that is, the ex-
+ponential function equals unity.8 It is given as
+pmax =
+1
+r−L2
+L2
+Al dl.
+The general form of the far-field directivity function R()
+of a line source is then
+R =−L2
+L2
+Al e−jkl sin +l dl
+−L2
+L2
+Al dl
+.
+2.2 Directivity Function of Straight-Line
+Sources—Uniform Amplitude and Phase
+The general form of the straight-line source directivity
+function developed in Section 2.1 is valid for any ampli-
+tude and phase functions along the length of the line
+source. A uniform line source has constant amplitude and
+zero phase shift along its length, that is, A(l)  A and (l)
+ 0. Substituting into the general form yields an expres-
+sion for the directivity function of a uniform line source
+RU(),
+RU =
+1
+L−L2
+L2
+e−jkl sin  dl .
+Solving the integral and applying Euler’s identities, this
+becomes
+RU =
+sin kL2 sin 
+kL2 sin 
+or in terms of wavelength instead of frequency,
+RU =
+sin L sin 
+L sin 
+.
+Fig. 2 shows polar response curves9 of a uniform line
+source at various ratios of source length and wavelength.
+The polar response is wide at low ratios of L/. As the
+ratio is increased, the directivity pattern narrows and ex-
+hibits nulls and lobes. These are explored in more detail in
+Section 2.3.
+7The time-varying factor ejt is omitted.
+8Note that the maximum pressure at any given distance and
+frequency may never actually be obtained.
+9A polar response curve is the directivity function expressed in
+decibels and plotted on a polar chart. The on-axis pressure is used
+as the reference pressure, that is, polar response  20 log [R()/
+R(0)].
+Fig. 1. Geometric construction for far-field directivity function of
+a line source.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+469
+
+2.3 Lobes and Nulls—Uniform
+Straight-Line Source
+Fig. 2 shows that at long wavelengths ( > L) the polar
+response of a uniform straight-line source is fairly omni-
+directional. At shorter wavelengths lobes and nulls are
+obtained. The position and magnitude of these are easily
+calculated.
+The far-field directivity function of a uniform line
+source is given in Section 2.2 as
+RU =
+sin L sin 
+L sin 
+.
+This function has the generic form of sin z/z. To evaluate
+this function on axis, that is, z  0, we must use
+L’Hospital’s rule, taking derivatives of the numerator and
+denominator. This yields
+lim
+sin z
+z
+→cos 0 = 1.
+The fact that the limit approaches unity indicates that there
+will always be a maximum on axis. Off-axis nulls are
+obtained when sin z/z goes to zero. This occurs where the
+argument z reaches (nonzero) multiples of . Substituting
+the full expression for z, nulls are obtained when
+L
+ sin  = m
+where m is a nonzero integer. Therefore nulls are ob-
+tained at
+sin = m
+
+L
+where m  1, 2, 3, . . . . Off-axis lobes of the directivity
+function are found between the nulls, that is, at
+sin =
+3
+2L ,
+5
+2L ,
+7
+2L, . . . .
+This can be written as
+sin =
+m + 12
+L
+where m  1, 2, 3, . . . .
+Finally it is possible to calculate the amplitude of the
+lobes of a uniform line source. Since the amplitude de-
+creases inversely with z, the pressure amplitude of the mth
+lobe is
+Am =
+cos m
+m + 2
+where m  1, 2, 3, . . . .
+2.4 Quarter-Power Angle—Uniform
+Straight-Line Source
+Often it is useful to determine the −6-dB angle of a
+uniform straight-line source. This is accomplished by set-
+ting the generic form of the directivity function equal to
+0.5,10 that is,
+sin z
+z
+= 0.5.
+10The directivity function is a pressure ratio. A pressure ratio
+of 0.5 yields a sound pressure level difference of −6 dB.
+Fig. 2. Polar response curves of a uniform line source.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+470
+
+Solving numerically, z  1.895. The −6-dB point on one
+side of the central lobe is at angle , where
+z = 1.895 =
+L
+ sin .
+The quarter-power angle is the total included angle be-
+tween the −6-dB points on either side of the central lobe
+and is given by
+−6 dB = 2.
+Solving for  in terms of length and wavelength and sub-
+stituting we have
+−6 dB = 2 sin−1 1.895
+L
+≈2 sin−1 0.6
+L
+.
+The quarter-power angle as a function of L/ is shown
+in Fig. 3. A similar result is obtained by Benson [19].11
+At small L/, that is, a short line source and long wave-
+length, the quarter-power angle is wide. At large ratios of
+L/, that is, long sources and short wavelengths, the quar-
+ter-power angle is narrow. For small angles,12 where sin z
+≈z, the line source quarter-power angle is
+−6 dB =
+1.2
+L
+where  is in radians. Expression  in degrees, we have
+−6 dB = 68.8
+
+L
+degrees.
+In some cases it is convenient to use frequency rather
+than a ratio of wavelength and source length. Rewriting,
+the quarter-power angle equation for uniform line sources
+becomes (approximately)
+−6 dB ≈
+2.4 × 104
+fL
+for L in meters and f in hertz, or
+−6 dB ≈
+7.8 × 104
+fL
+for L in feet and f in hertz.
+The directivity response of a line source is a plot of the
+quarter-power angle versus frequency. The directivity re-
+sponse of uniform line sources of several lengths is shown
+in Fig. 4. These show that the quarter-power angle of large
+sources is quite narrow at high frequency. For instance,
+at 10 kHz a 4-m-long uniform straight-line source has a
+−6-dB angle of 0.6°.
+2.5 On-Axis Pressure Response of
+Straight-Line Sources
+The on-axis pressure response of a line source is derived
+in much the same manner as the directivity function. The
+pressure radiated from each infinitely small line segment
+is summed at an observation point P. In this case, how-
+ever, P is at a distance x along an axis normal to the source
+and no far-field assumptions are made.
+2.5.1 Conventional Approach—Midpoint Method
+Fig. 5 shows the conventional geometric construction
+used to solve for the pressure along a path normal to the
+source, beginning at its midpoint. Referring to Fig. 5, L is
+11Note that Benson solved for the −3-dB angle.
+12The small angle approximation holds for angles less than
+about 30°. Note that sin (/6)  0.5000 and /6  0.5235 so
+that the error is less than 5%.
+Fig. 3. Quarter-power angle of a uniform line source.
+Fig. 4. Directivity response of uniform line sources 1, 2, 4, and
+8 m long.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+471
+
+the total length of the source and rmid is the distance from
+any radiating element dl of the source to any distance x
+along the horizontal axis. The general form for the radiated
+pressure at x is
+pmidx =−L2
+L2 Al e−jkrmidx, l+l
+rmidx, l
+dl
+where
+rmidx, l = x2 + l2 .
+The pressure response is the logarithmic ratio of the mag-
+nitude of the pressure squared at x over the magnitude of
+the pressure squared at some reference distance, that is,
+Rx = 20 log px
+pxref
+.
+The on-axis pressure response of a 4-m uniform
+straight-line source, where A(l) = A and (l)  0, at 8 kHz
+is shown in Fig. 6. The pressure response generally de-
+creases at a rate of −3 dB per doubling of the distance out
+to approximately 100 m. It exhibits undulations in this
+region, the magnitudes of which increase as the distance
+approaches 100 m. Beyond 100 m the pressure amplitude
+no longer undulates and decreases monotonically at −6 dB
+per doubling of the distance. The point at which this
+change occurs is referred to as the transition distance. The
+region between the source and the transition distance is
+referred to as the near field, and the region beyond is the
+far field.
+The transition distance varies with source length and
+frequency. Fig. 7 shows the on-axis response of three dif-
+ferent-length uniform line sources at 8 kHz. As the length
+L increases, the transition distance increases. Fig. 8 shows
+the on-axis response of a 4-m-long uniform line source at
+500 Hz, 2 kHz, and 8 kHz. It illustrates that the transition
+distance also increases with frequency.
+2.5.2 Midpoint versus Endpoint
+The conventional approach used to determine the on-
+axis pressure response of a line source discussed in Sec-
+Fig. 5. Geometric construction for calculating on-axis pressure
+response of a line source (midpoint convention).
+Fig. 6. On-axis pressure response (from midpoint) of a uniform
+line source (4 m long, 8 kHz).
+Fig. 7. On-axis response (from midpoint) of 2; 4; and 8-m uni-
+form line sources at 8 kHz. 4- and 8-meter response curves are
+offset by 10 and 20 dB, respectively.
+Fig. 8. On-axis response (from midpoint) of a 4-m uniform line
+source at 500 Hz, 2 kHz, and 8 kHz. 2- and 8-kHz response
+curves are offset by 10 and 20 dB, respectively.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+472
+
+tion 2.5.1 is to take a path normal to the source beginning
+at its midpoint. This yields a result, however, that is unique
+to this path. Choosing the midpoint as the initial point
+introduces symmetry into the analysis and minimizes the
+apparent aperture of the source. If a different initial point
+is chosen, the line source appears longer on one side of
+this point than on the other side. This difference is maxi-
+mized when the endpoint of the source is chosen. In this
+case the source has length L in one direction and zero
+length in the other. If the on-axis pressure is summed
+along a path normal to the source beginning at the end-
+point of the line source, the transition distance increases
+substantially.
+Fig. 9 shows a modified geometric construction for cal-
+culating the on-axis pressure response. The pressure
+summed along a path normal to the endpoint of a line
+source is
+pendx =−L2
+L2 Al e−jkrendx, l+l
+rendx, l
+dl
+where
+rendx, l =x2 +l +
+L
+2
+2
+.
+Fig. 10 compares the on-axis response of a 4-m-long
+uniform straight-line source, where A(l)  A and (l) 
+0, at 8 kHz using the midpoint and endpoint methods. The
+last peak of the midpoint near-field response occurs at
+approximately 100 m. The last peak of the endpoint re-
+sponse occurs at approximately 400 m. Note that the end-
+point response is at a lower amplitude level than the mid-
+point response in the near field. In the far field the curves
+converge and yield the monotonic decrease of −6 dB per
+doubling of the distance as described.
+If the origin of the path is moved beyond the endpoint,
+the distance to the last peak occurs at greater and greater
+distances. It can be shown that the distance to the far field
+continues to increase as one chooses a path further off the
+midpoint axis. However, the pressure levels fall off quite
+dramatically once the endpoint is breeched. This is shown
+in Fig. 11. The first two curves labeled “0” and “L/2” are
+the midpoint and endpoint pressure responses, respec-
+tively, shown in Fig. 10. The next two curves are on-axis
+pressure response curves beginning at points one length
+(L) and three half-lengths (3L/2) displaced vertically from
+the midpoint.
+The curves in Fig. 11 are slices through the pressure
+field, normal to the source, at increasing displacement
+from the midpoint. We can see that as the origin of the
+path is moved off the midpoint, the amplitude levels of the
+pressure decreases in the near field. It is approximately
+−6 dB at the endpoint, but decreases to around −40 dB at
+L and 3L/2. Also, the pressure response curves L and 3L/2
+undulate in a fashion that in the aggregate is nearly flat
+from the source to the far field.
+The L and 3L/2 response curves are so low in level
+relative to the midpoint response that they are of limited
+significance. However, the endpoint curve (L/2) is a ma-
+terial feature of the pressure field. It is approximately
+−6 dB down from the midpoint response and undulates
+Fig. 10. Comparison of midpoint and endpoint pressure response
+curves of a 4-m uniform line source at 8 kHz.
+Fig. 9. Geometric construction for calculating pressure response
+along a path originating at the endpoint.
+Fig. 11. Pressure response along paths normal to line source at
+various points of origin (4 m at 8 kHz).
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+473
+
+well past the midpoint transition distance. The fact that
+two such disparate response curves can be obtained by
+merely shifting the origin of the normal path demonstrates
+the ambiguity of the term “on-axis response.”
+2.6 Pressure Field of Straight-Line Sources
+The most comprehensive approach to observe the pres-
+sure response of a line source is to compute its pressure
+field. This eliminates the question of midpoint versus end-
+point. It is obtained by rewriting the expression for the
+radiated pressure in terms of Cartesian coordinates as set
+up in Fig. 12. The pressure at any point P is
+px, y =−L2
+L2 Al e−jkrx, y, l+l
+rx, y, l
+dl
+where
+rx, y, l = x2 + y −l2.
+Fig. 13 shows the pressure field of a 4-m uniform
+straight-line source, where A(l)  A and (l)  0, in
+several frequency bands. The major on-axis lobe gets nar-
+rower with increasing frequency, as expected. The minor
+lobes increase in number and lower amplitude levels. At
+high frequency they dissolve into very complex patterns of
+constructive and destructive interference. Note that the
+pressure varies across the major lobe at 8 kHz in a manner
+consistent with the pressure slices shown in Fig. 11. The
+undulations extend to a greater distance from a line normal
+to the endpoint than from the midpoint.
+3 ARC SOURCES
+Many loudspeaker line arrays used in practice are actu-
+ally curved. This is because pure straight-line arrays pro-
+duce a narrow vertical polar response at high frequency—
+often too narrow to reach audiences beneath and slightly in
+front of the array. A slightly curved array provides supe-
+rior coverage in this area. One important type of curved
+line source is the arc source.
+An arc source is comprised of radiating elements ar-
+ranged along a segment of a circle. At all frequencies it pro-
+vides a wider directivity response than a straight-line source
+of the same length. At high frequency it provides a polar
+pattern that corresponds to the included angle of the arc.
+3.1 Polar Response of Arc Sources
+The derivation of the directivity function of an arc
+source follows the same steps as described for a straight-
+line source. Fig. 14 shows the geometric construction of an
+arc source with radius R and total included angle . The
+pressure radiated by an arc at off-axis angle  is
+pA =−2
+2 A e−jkrA, +
+rA, 
+R d.
+As in Section 2.1, the evaluation of this expression is
+simplified if we assume that the observation point P is a
+large distance away. In this case the distance is much
+greater than the length of the arc, and the distances to P
+from any two segments along the arc are approximately
+equal. This allows us to bring the rA term in the denomi-
+nator to the front of the integral since by definition
+1
+rA2 ≈
+1
+rA−2 ≈
+1
+rA
+.
+Conversely, the rA term in the exponential has a signifi-
+cant influence on the directivity function. This is because
+the relatively small differences in distance to P from any
+two segments are not small compared to a wavelength.
+Fig. 14 shows that rA in the exponent can be expressed as
+rA,  = 2R sin
+
+2 sin
+
+2 + 
+where  is the angle between a line that bisects the arc
+angle and a line from the center point of the arc to P.
+Substituting, the far-field directivity function of an arc is
+then expressed in general form as
+RA =
+−2
+2
+A e−jkrA, +R d
+−2
+2
+AR d 
+.
+If we assume constant amplitude and zero phase shift
+along the arc, that is, A()  A and ()  0, the direc-
+tivity function reduces to13
+RA =
+1
+R−2
+2
+e−jkrA, R d
+13This integral does not have a convenient closed-form solu-
+tion similar to the one obtained for the line array. Wolff and
+Malter [3] provide a point source summation version of the di-
+rectivity function as follows:
+R =
+1
+2m + 1	
+n=−m
+n=m
+cos
+2R
+
+cos  + n
++ i	
+n=−m
+n=m
+sin
+2R
+
+cos  + n
+where m is an integer, 2m + 1 is the number of point sources, and
+ is the angle subtended between any two adjacent point courses.
+Fig. 12. Geometric construction for pressure field of a line
+source.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+474
+
+Fig. 13. Pressure fields of a 4-m line source. Contour scale numbers are removed from 2-, 4-, and 8-kHz plots for clarity.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+475
+
+where rA is as expressed before. The polar response curves
+of a uniform 60° arc source at various ratios of radius and
+wavelength are shown in Fig. 15. In general these are wide
+for low ratios of R/ and approach the included angle of
+the arc at higher ratios.
+3.2 On-Axis Pressure Response of Arc Sources
+The on-axis pressure response of an arc source can be
+expressed in a form similar to the earlier expressions for
+straight-line sources. Fig. 16 shows the geometric con-
+struction of an arc source with radius R and total included
+angle . The pressure of an arc source at distance x is
+pAx =−2
+2 A e−jkrAx, +
+rAx, 
+R d
+where
+rAx,  = x + R1 −cos 2 + R2 sin2 .
+Fig. 17 provides a comparison of the pressure responses
+of equivalent-length uniform straight-line and arc sources.
+Though the arc source is curved only 30°, its on-axis re-
+sponse is materially smoother in the near field than the one
+produced by the straight-line source.
+Like a line source, the pressure response of an arc
+source changes with the arc length and frequency. Fig. 18
+shows the on-axis responses of three uniform arc sources
+of various lengths. The different lengths are provided by a
+constant radius (4 m) with an adjusted included angle. Fig.
+19 shows how the pressure response changes with fre-
+quency. Note that the transition from the near field to the
+far field is generally smoother for an arc than for a line
+source at all lengths and frequencies.
+3.3 Pressure Field of Arc Sources
+The two-dimensional pressure field of an arc source is
+given by
+pAx, y =−2
+2 A e−jkrAx, y, +
+rAx, y, 
+R d
+Fig. 14. Geometric construction of arc source for polar response.
+Fig. 15. Polar response curves of arc source.
+Fig. 16. Geometric construction of arc source for on-axis re-
+sponse.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+476
+
+where
+rAx, y,  = x + R1 −cos 2 + y −R sin 2.
+The geometric construction is shown in Fig. 20. Fig. 21
+shows the pressure field of a uniform arc source, where
+A()  A and ()  0, in several frequency bands. The
+response is quite different from that produced by a uni-
+form straight-line source. At low frequency a uniform arc
+source can produce either a lobe or a null on axis. At mid
+and high frequencies a wedge pattern is produced that
+corresponds to the included angle of the arc.
+4 SOURCES
+A J source is comprised of a line source and an arc
+source. In general the straight segment is located above the
+arc segment and is intended to provide the long-throw
+component of the polar response. The arc segment is in-
+tended to provide coverage in the area below and in front
+of the source. Together the segments provide an asymmet-
+ric polar response in the vertical plane.
+4.1 Polar Response of J Sources
+The directivity function of a J source is obtained by
+combining the directivity functions of the line and arc
+sources presented in previous sections. The geometric con-
+struction is shown in Fig. 22, where L is the length of the
+straight segment and R and  specify the arc segment. We
+assume that the straight and arc segments are adjacent and
+that the center point of the arc is on a line perpendicular to
+the straight segment through its lower endpoint.
+Fig. 17. On-axis pressure response of an arc source and a
+straight-line source at 4 kHz. Arc source has an included angle of
+45° and a radius of 4 m. Line source has a length equal to the arc
+length (3.14 m).
+Fig. 18. On-axis pressure response of three arc sources (  15,
+30, and 60°) at 8 kHz where R  4 m. These correspond to arc
+lengths of approximately 1, 2, and 4 m. The 30 and 60° curves
+are offset by 10 and 20 dB, respectively.
+Fig. 19. On-axis pressure response of an arc source at various
+frequencies (  30° and R  4 m). The arc length is approxi-
+mately 2 m. The 2- and 8-kHz curves are offset by 10 and 20 dB,
+respectively.
+Fig. 20. Geometric construction for arc source pressure
+field.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+477
+
+Fig. 21. Pressure fields of uniform arc source.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+478
+
+If we choose the center point of the line segment as the
+origin, then the pressure radiated from the line segment in
+the far field at off-axis angle  is
+pL =
+1
+r−L2
+L2
+ALl e−jkrL, l+Ll dl
+where
+rL, l = l sin 
+as shown in Section 2.1. Here AL(l) and L(l) are the
+amplitude and phase functions of the line segment. Now
+since we must rotate the arc segment by /2 relative to the
+horizontal, we will also change the limits of integration.
+The pressure radiated in the far field from the rotated arc
+source is
+RA =
+1
+r 0
+
+AA e−jkrA, +AR d
+where
+rA,  = 2R sin
+
+2 sin
+
+2 + 
+and AA() and A() are the amplitude and phase func-
+tions of the arc segment. To properly sum the radiated
+pressure from the line and arc segments, a new function is
+required to express the relative distance difference be-
+tween them. Referring to Fig. 22, it is given as
+rJ =
+L
+2 sin .
+The general form for the radiated pressure in the far field
+of a J source is then
+pJ =
+1
+r−L2
+L2
+ALl e−jkrL, l+L dl
++0
+
+AA e−jkrA, l+A+rJR d.
+If we assume that the amplitudes per unit length are uni-
+form over the line and arc segments, and that the phase
+shifts are zero, the relative source strengths are propor-
+tional to their relative lengths. Letting AL and AA be the
+constant amplitudes per unit length of the line and arc
+segments, respectively, the directivity function of a J
+source reduces to
+RJ =
+1
+ALL + AARAL−L2
+L2
+e−jkrL, l dl
++ AA0
+
+e−jkrA, +rJR d.
+The contributions of the line segment and the arc segment
+to the polar response of a uniform J source are shown in
+Fig. 23. As expected, the line segment provides a long
+throw and the arc segment provides a relatively wide angle
+of coverage rotated downward. The response of the J
+source is a blend of the two.
+The polar response of a J source changes with the
+length of the line segment, the radius and included angle
+of the arc segment, the relative amplitudes of the two
+segments, and frequency. Fig. 24 shows polar response
+curves of a J source with a 2-m-long line segment, a 1-m
+radius, a 60° included angle, and equal amplitudes per unit
+length. The polars show that the straight segment of the J
+source dominates the response and produces a very narrow
+beam, particularly at high frequency. The arc segment
+does not fully balance the high gain of the straight
+segment.
+Fig. 22. Geometric construction of a J source for polar response.
+Fig. 23. Contribution of a line and an arc source to the polar
+response of a J source.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+479
+
+There are several approaches to providing a more bal-
+anced response. One is to make the straight segment
+shorter, thereby reducing the gain. A second is to increase
+AA relative to AL. For instance, one might use a J source
+that has a 1-m-long straight segment (as opposed to 2 m in
+the previous example) and set AA  2AL (instead of AA 
+AL). The polar response of this modified J source is con-
+siderably more balanced than the uniform J source, as
+shown in Fig. 25.
+4.2
+On-Axis Pressure Response of
+J Sources
+The on-axis pressure response of a J source is obtained
+by combining the pressure response functions of the line
+and arc sources presented in the preceding. The geometric
+construction is shown in Fig. 26, where L is the length of
+the straight segment, and R and  specify the arc segment.
+Note that the lower endpoint of the arc segment is taken as
+the initial point for the on-axis response. Based on this
+geometry, the pressure radiated at point P from a J
+source is
+pJx =0
+L ALl e−jkrLx, l+Ll
+rLx, l
+dl
++0
+ AA e−jkrAx, +A
+rAx, 
+R d
+where
+rLx, l = x2 + R sin  + l2
+rAx,  = x + R1 −cos 2 + R2sin  −sin 2.
+Fig. 27 compares the on-axis pressure responses of uni-
+form equivalent-length straight-line and J sources, where
+A()  A. The straight segment of the J source dominates
+the response, producing undulations in the near field very
+similar to those of the straight-line source. However, the
+on-axis aperture of the J source is foreshortened relative to
+the equal-length line source, so the distance to the far field
+is marginally shorter.
+4.3 Pressure Field of J Sources
+The geometric construction for the pressure field of a J
+source is shown in Fig. 28. The general form for the pres-
+sure at P is
+pJx, y =0
+L ALl e−jkrLx, y, l+L
+rLx, y, l
+dl
++ R0
+ AA e−jkrAx, y, +A
+rAx, y, 
+d
+Fig. 24. J-source polar response curves (Example 1). L  2 m, R  1 m,   60°, AL  1, AA  1.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+480
+
+where
+rLx, y, l = x2 + y + l2
+rAx, y,  = x + R1 −cos 2 + y + L + R sin 2.
+The pressure field of a uniform J source, where A()  A
+and ()  0 in several frequency bands, is shown in
+Fig. 29. The parameters of the J source are the same as
+those used for the modified J source described in Section
+4.1, that is, a 1-m straight segment and AA  2AL. These
+plots show clearly that a J source is a blend of straight and
+arc sources. This is particularly true at mid and high frequen-
+cies, where the constituent responses are easily identifiable.
+5 PROGRESSIVE SOURCES
+Like a J source, a progressive source provides an asym-
+metric polar response in the vertical plane. However,
+Fig. 25. J-source polar response curves (Example 2). L  1 m, R  1 m,   60°, AL  1, AA  2.
+Fig. 26. Geometric construction of a J source for on-axis pressure
+response.
+Fig. 27. Comparison at 2 kHz of on-axis pressure response of a
+4-m-long straight-line source and a J source. L  2 m, R  2 m,
+  60°, AL  1, AA  1.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+481
+
+unlike a J source, it is a continuous curve rather than
+two distinct segments. The curvature increases with the
+distance along the curve. This results in an upper portion
+that is largely straight and a lower portion that is curved
+downward.
+5.1 Polar Response of Progressive Sources
+There are numerous possible mathematical expressions
+for progressive expansions, each providing different rates
+of curvature. The relevant set of expressions for loud-
+speaker arrays is characterized by curvature changes at
+equal intervals of length along the progressive curve. The
+interval corresponds to the height of a single loudspeaker
+enclosure of the array.
+An arithmetic progressive source is one for which the
+angle between successive enclosures changes by a prede-
+termined angle given by (n −1), where n is the nth
+enclosure and 1 < n < N, with N being the total number of
+enclosures in the array. For example, if   1° and the
+first enclosure is hung at 0° (horizontal), the second en-
+closure would be hung at 1° relative to the first enclosure
+and the third at 2° relative to the second enclosure. This
+defines a progressive curve, here the aiming angle of the
+nth enclosure is oriented to the horizontal axis by 0°, 1°,
+3°, 6°, 10°, and so on—an arithmetic expansion. An in-
+cremental angle  of 2° would yield 0°, 2°, 6°, 12°, and
+20°. The terminal angle 	 of an array, that is, the aiming
+angle relative to the horizontal of the last enclosure, is
+given by
+	 =
+1
+2 N1 + N
+where N is the total number of enclosures. The total length
+of the source is
+L = NH
+where H is the height of a single enclosure. These two
+terms, 	 and L, fully define an arithmetic progressive
+source.
+The far-field directivity function of an arithmetic pro-
+gressive source is derived in the same manner as used
+earlier for the line, arc, and J sources. The pressure radi-
+ated along the source is summed at a point P in the far
+field. The shape of the polar response curves will be de-
+termined primarily by the small distance function rS.
+The first step is to express the progressive source as a
+continuum of small radiating segments of length L. L
+should be chosen to be a small fraction of the shortest
+wavelength of interest. As a practical guideline, L should
+be set approximately equal to one-quarter of a wavelength,
+that is,
+L =
+
+4 .
+The total number of segments is then
+M =
+L
+L
+and the incremental angle between the element is
+
+ =
+2	
+MM + 1 .
+The progressive source can then be expressed in paramet-
+ric form as
+x =	
+=0
+
+−sin
+1
+2 + 1
+ L
+y = L +	
+=0
+
+−cos
+1
+2 + 1
+ L.
+The geometric construction of an arithmetic progressive
+source is shown in Fig. 30. Its far-field directivity func-
+tion is
+RS =	
+=0
+M
+A e−jkrS, +
+	
+=0
+M
+A
+where
+rS,  = sin −tan−1
+x
+yx2 + y2.
+The far-field directivity function for a uniform progressive
+source, where A  A and   0, is
+RS =
+1
+M + 1	
+=0
+M
+e−jkrS, 
+where rS was given before. The polar response of a uni-
+form arithmetic progressive source is remarkably constant
+with frequency. Fig. 31 shows the polar response curves
+of a 5-m-long progressive source with a terminal angle
+of 45°.
+Fig. 28. Geometric construction for pressure field of a J-source.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+482
+
+Fig. 29. Pressure field of a J source versus frequency.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+483
+
+Fig. 30. Geometric construction of a progressive source for polar response.
+Fig. 31. Polar response of a 5-m-long progressive source with 45° terminal angle.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+484
+
+5.2 On-Axis Pressure Response of
+Progressive Sources
+The geometric construction for the on-axis pressure re-
+sponse of a progressive source is shown in Fig. 32. The
+pressure response along a path from the lower end is
+pSx =	
+=0
+M
+A
+e−jkrSx, +
+rSx, 
+where
+rSx,  = x −x2 + yM −y2
+and A is the amplitude at element  and  is the relative
+phase at element .
+Fig. 33 compares the on-axis response curves of equiva-
+lent-length uniform straight-line and progressive sources.
+These curves show that the progressive source has reduced
+undulations in the near field and a smoother transition
+from the near field to the far field.
+5.3 Pressure Field of Progressive Sources
+The geometric construction for the pressure field of a
+progressive source is shown in Fig. 34. The pressure at any
+point P is
+pSx, y =	
+=0
+M
+A
+e−jkrSx, y, +
+rSx, y, 
+where
+rSx, y,  = x −x2 + y −y2.
+The pressure field of a uniform progressive source in sev-
+eral frequency bands is shown in Fig. 35. These results
+illustrate the well-behaved asymmetrical response of a
+progressive source that makes them an excellent geometry
+upon which to base loudspeaker arrays for sound-
+reinforcement applications.
+6 ADVANCED TOPICS
+As a practical matter, large line arrays of loudspeakers
+are not perfectly continuous line sources. For instance,
+they may have gaps between the loudspeaker enclosures
+because of enclosure construction material or spacing.
+These gaps are effectively nonradiating portions of the line
+and may have an effect on the performance of the array.
+Also, certain radiating elements in loudspeaker line arrays
+may produce radial wavefronts instead of pure, flat wave-
+fronts. This may also have an effect on the performance of
+the array. These topics are analyzed in the following sections.
+6.1 Gaps in Line Sources
+In previous sections we assume that each type of line
+source is continuous along its entire length. In practice,
+Fig. 32. Geometric construction of a progressive source for on-
+axis pressure response.
+Fig. 33. Pressure response comparison at 2 kHz of a 45° terminal
+angle, 4-m-long progressive source and a line source of the same
+length.
+Fig. 34. Geometric construction for pressure field of a progressive source.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+485
+
+Fig. 35. Pressure fields of a progressive source versus frequency.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+486
+
+however, it may not be possible to achieve this. For in-
+stance, the thickness of the material used to construct a
+loudspeaker enclosure does not radiate acoustic energy.
+When loudspeaker enclosures are stacked into an array,
+these nonradiating segments are distributed along the
+length of the array. This can be modeled by limiting the
+integration of the line source to the radiating portions only.
+Referring to Fig. 36, d is the dimension of the nonradiating
+element on either side of the radiating element.
+The directivity function of a line source with N elements
+of length L and gaps between them is
+R =	
+1
+N N−1L+d
+NL−d
+Al e−jkl sin +l dl
+N−1L+d
+NL−d
+Al dl
+.
+In general, gaps have very little effect on the primary
+lobe but change the structure of the off-axis lobes and
+nulls. Fig. 37 shows the linear polar response14 of a four-
+element uniform line source with gaps. The graphs show
+the effects of changing the radiating percentage from
+100% to 90, 75, and 50%. At low frequency, where the
+gap length is a small fraction of the wavelength, gaps have
+very little effect. At high frequency, the sidelobe structure
+changes materially with the gap length. The lobes get
+wider and change position.
+Contemporary loudspeaker line array enclosures are
+usually designed to maximize the radiating percentage. If
+an enclosure is 0.5 m high and constructed of typical ma-
+terials, radiating percentages can exceed 90%. However, if
+the spacing between enclosures gets large, gaps may ex-
+ceed this threshold and the polar response will be affected.
+6.2 Stack of Arc Sources versus Line Sources
+In practice, certain components of a loudspeaker system
+may produce wavefronts that are curved instead of per-
+fectly straight. When stacked in an array, these may more
+closely resemble a stack of arc sources rather than a con-
+tinuous straight-line source. Fig. 38 shows a stack of three
+arc sources representing an array of three loudspeaker
+components with radial wavefronts. The effects that radial
+wavefronts have on the directivity function can be esti-
+mated by summing the radiation from a stack of arc
+sources.
+As derived in Section 3.1, the directivity function of a
+14Linear polar response is a rectilinear representation of the
+polar response, that is, dB along the y axis and angle along the x
+axis.
+Fig. 36. Line array of four elements of length L and nonradiating
+gap d on either end.
+Fig. 37. Directivity function of four-element line array with four
+radiating percentages at three length-to-wavelength ratios. -  -
+50%, --- 75%; –– 90%; —— 100%.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+487
+
+uniform arc source is
+RA =
+1
+R−2
+2
+e−jkrA, R d
+where
+rA,  = 2R sin
+
+2 sin
+
+2 + .
+Here R is the radius and  the included angle of the arc.
+The directivity function of a stack of arc sources is ob-
+tained by applying the first product theorem.15 In this case
+the directivity function of the arc is multiplied by the
+directivity function of an array of simple sources. The
+far-field directivity function for an array of N simple
+sources of equal amplitude and phase distributed a dis-
+tance D apart along a line is given by
+RP =
+1
+N	
+n=1
+N
+e−jkn−1D sin .
+Applying the first product theorem, the directivity func-
+tion of a vertical stack of arc sources is
+RAP = RARP.
+Fig. 39 shows the effects of nonflat wavefronts on the
+directivity function of the sources, compared to a perfectly
+flat wavefront. As with gaps in a line source, a curvature
+primarily produces changes in the lobe/null structure of
+the off-axis response. The changes increase with increas-
+ing curvature and are more predominant when the curva-
+ture is a material fraction of a wavelength.
+Fig. 39(a) compares the directivity function of a uni-
+form line source of length 3L with an array of three curved
+sources of length L, where the curvature  of the arc is
+one-eighth wavelength. The directivity functions are very
+similar, with only small differences in the lobe/null struc-
+15The first product theorem states that the directional factor of
+an array of identical sources is the product of the directional
+factor of the array and the directional factor of a single element
+of the array. See Kinsler et al. [20].
+Fig. 38. Stack of three arc sources of radius R, included angle ,
+and curvature .
+Fig. 39. Comparison of directivity functions of a stack of three
+curved sources and a straight-line source. Curved sources have
+element length L  150 mm, total included angle   20°.
+Straight-line source has total length 3L.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+488
+
+ture. In particular, note that the nulls at approximately 18,
+35, and 60° are not as deep with the stack of arc
+sources.
+Fig. 39(b) and (c) shows the directivity functions of the
+uniform line and the three-element array at curvatures of
+one-quarter and one-half wavelengths. In these cases,
+lobes gradually replace the nulls at 18, 35, and 60°. At
+one-quarter wavelength the lobe at 18° is approximately
+10 dB below the level of the on-axis lobe, up from ap-
+proximately 20 dB. This represents a practical limit to the
+curvature, which maintains, generally speaking, the direc-
+tivity function of a pure line source. The response at one-
+half wavelength is unacceptable as the 18° lobe is here
+nearly equal in amplitude to the primary lobe.
+This one-quarter-wavelength limit on curvature allows
+us to estimate, for a given curvature, the practical upper
+frequency limit for which it maintains the directivity re-
+sponse of a uniform line source. If a source has an element
+length L of 130 mm and a total arc angle of 20°, then
+ =
+L
+2 tan
+
+4 = 6.6 mm
+and the upper frequency limit is
+f =
+c
+4 ≈13 kHz.
+Polar response curves of a stack of three 150-mm-high,
+20° sources are shown in Fig. 40. The data are superim-
+posed over the polar response of a line source 450 mm
+long. The 20° source tends to merge the third and fourth
+off-axis lobes. The amplitude of this merged lobe in-
+creases with frequency. At approximately 12.5 kHz the
+lobes are 10 dB below the primary on-axis lobe. This
+corresponds closely to the 13 kHz estimate given earlier.
+Fig. 40. Polar response curves of a stack of three 150-mm-high, 20° arc sources (---) superimposed over response of a 450-mm
+straight-line source (——).
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+489
+
+7 APPLICATIONS
+The mathematical models developed in the previous
+sections will provide useful estimates of the performance
+of many types of loudspeaker line arrays. However, the
+accuracy of the estimates may be compromised by several
+factors. First, real-life loudspeaker systems do not often
+behave like perfect sources. In addition to the gaps and
+radial wavefronts discussed in Section 6, other potential
+factors include cone or diaphragm breakup, suspension
+and magnetic nonlinearities, and enclosure resonance and
+edge (diffraction) effects. Second, collecting far-field data
+can be problematic since the microphone must be placed at
+large distances. Most anechoic chambers provide adequate
+distances to measure only relatively small arrays. Large
+arrays can be measured outdoors, but environmental fac-
+tors such as wind and atmospheric turbulence may affect
+results. Alternatively, data may be taken in a large indoor
+space, but the acoustical characteristics of the room must
+be isolated and removed from the measurements. None-
+theless, despite all of these potential sources of errors,
+useful estimates can be produced, as illustrated in the fol-
+lowing examples.
+7.1 Example 1: Small Straight-Line
+Array—Low-Frequency Model
+The first example compares the modeled polar response
+of a small straight-line array against measured results. The
+array is comprised of six small horns stacked in a vertical
+array, as shown in Fig. 41. Each horn is approximately 8
+in (203 mm) tall, resulting in an array 48 in (1.22 m) high.
+Polar data were collected on this array at a distance of 15
+ft (4.6 m) in an anechoic chamber. See Ureda [21].
+The most straightforward approach to model this array
+is to assume that it is a uniform straight-line source. This
+assumption will hold at low frequency, where the mouth is
+less than one wavelength high. Since this horn has a
+mouth16 height of approximately 6.5 in (165 mm), the
+highest usable frequency of the model is approximately 2
+kHz. From Section 2.2 the directivity function of a uni-
+form line source is
+RU =
+1
+L−L2
+L2
+e−jkl sin  dl
+where in this case L  48 in (1.22 m). Fig. 42 shows
+measured versus modeled polar responses. Note that the
+model assumes a sine wave input that yields a very fine
+16The horn is 8 in (203 mm) tall, but the mouth is only 6.5 in
+(165 mm) because mounting flanges on either side of the mouth
+are 0.75 in (19 mm) wide.
+Fig. 41. Vertical stack of six 8-in (203-mm)-tall, 40° by 20°
+horns.
+Fig. 42. Measured (  ) versus modeled (——) polar response curves of array in Fig. 41. Model based on a uniform straight-line source
+with a sine wave input. Measured data are one-third-octave pink noise.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+490
+
+lobe and null structure. The measured data are one-third-
+octave pink noise, which tends to fill the sharp nulls of a
+sine wave response. Nonetheless, the modeled response
+closely resembles the measured data. Note that the 1.5-in
+(38-mm) gaps between the horn mouths do not materially
+affect the modeled performance.
+7.2 Example 2: Small Straight-Line
+Array—High-Frequency Model
+The polar response estimate of the six-horn array de-
+scribed in Section 7.1 can be extended to higher frequen-
+cies, if we use a stack of arc sources instead of a uniform
+straight-line model. This is reasonable since the polar re-
+sponse of the individual horns will approach the vertical
+coverage angle at higher frequency. The horns have a vertical
+coverage angle of 20°. Using the directivity function of a
+stack of uniform arc sources from Section 6.2, where
+RAP = RARP
+RP =
+1
+N	
+n=1
+N
+e−jkn−1D sin 
+RA =
+1
+R−2
+2
+e−jkrA, R d
+rA,  = 2R sin
+
+2sin
+
+2 + 
+R =
+L
+2 sin
+
+2
+and setting N  6, L  6.5 in (165 mm), D  8 in (203
+mm), and   20°, we obtain the polar response curves
+shown in Fig. 43. Again, the curves are based on a sine
+wave response, and the measured data were collected in
+one-third-octave bands of pink noise. Nonetheless the
+model predicts the grating lobes at the higher frequencies.
+7.3 Example 3: Large Curved Array
+Engebretson et al. [18] recently took polar response data
+on several large arrays. Among these was an eight-element
+curved array. Each element is approximately 0.5 m high,
+resulting in a total length of 4 m. Vertical polar data were
+derived from ground-plane MLSSA impulse measure-
+ments taken at 20 m on 5° intervals. The data were taken
+inside a vacant airplane hangar to prevent wind-borne tem-
+perature gradients and other disturbances. Fig. 44 shows
+the array of eight cabinets configured for ground-plane
+measurements. The eight boxes are shown set on end with
+5° splay angles between adjacent cabinets.
+This array can be modeled as an arc source with an
+included angle of 40° and an arc length of 4 m. The polar
+response at standard one-third-octave center frequencies
+can be estimated using the far-field directivity function of
+a uniform arc source. From Section 3.1, this is
+RA =
+1
+R−2
+2
+e−jkrA, R d
+where
+R =
+L
+
+and
+rA,  = 2R sin
+
+2sin
+
+2 + .
+The modeled polar response curves are shown in Fig.
+45. The measured data from Engebretson et al. are shown
+as dots superimposed on the modeled curves. Note that the
+measured data are at 5° increments—the directivity func-
+tion provides continuous curves. We can see that the
+agreement between measured and modeled is quite rea-
+sonable. The large lobes along the sides of the polars may
+be due to diffraction effects or room effects. Neither of
+these effects is accounted for in the model. Nonetheless,
+the model provides a useful estimate of the polar response
+across more than six octaves.
+8 SUMMARY
+This paper provides mathematical models that estimate
+the performance of several types of loudspeaker line ar-
+rays. Specifically, models are provided to estimate the
+polar response, on-axis pressure response, and pressure
+fields of straight, curved (arc), J, and progressive arrays.
+The first few sections provide a review of uniform
+straight-line sources, including derivations of the far field
+polar response, lobe and null structure, and quarter-power
+angle as a function of frequency. The remaining sections
+represent largely new work and are summarized as follows.
+First, the pressure response of a line source as a function
+of distance is shown to be dependent on the path along
+which the response is calculated. Typically a path is taken
+normal to the source, beginning at its midpoint. This in-
+troduces symmetry into the model and produces a result
+that is unique to this origin and path. The paper illustrates
+how different responses are obtained by choosing alternate
+origins. The paper further notes that it is typical to use the
+midpoint of the source as the origin for the normal path to
+estimate the transition distance. This understates the com-
+plexity of the transition from the near field to the far field.
+The paper suggests using pressure fields instead of pres-
+sure response to fully capture this complexity and derives
+the required mathematical expressions.
+Second, J and progressive line sources are introduced
+and are shown to provide asymmetrical polar responses in
+the vertical plane. Such asymmetry is useful in many
+sound-reinforcement venues, and this is why so many con-
+temporary loudspeaker line arrays are based on these con-
+figurations. The paper provides analytical models for both
+types and illustrates typical performance. Of particular
+note, progressive arrays produce a vertical polar response
+that is remarkably constant with frequency over a very
+wide bandwidth.
+Third, line arrays of real loudspeakers are not perfectly
+continuous line sources, and this may introduce anomalies
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+491
+
+Fig. 43. Measured (  ) versus modeled (——) polar response curves of array in Fig. 41. Model based on a stack of arc sources with
+a sine wave input. Measured data are one-third-octave pink noise.
+Fig. 44. Indoor ground-plane setup for vertical polar response measurements of eight-element curved array.
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+492
+
+into their response. The paper provides a model that shows
+the effect of gaps in line sources that are introduced by the
+thickness of the loudspeaker enclosure construction mate-
+rial. The model shows that at low frequency, where the
+gap length is a small fraction of the wavelength, gaps have
+very little effect. At high frequency the sidelobe structure
+changes materially with the gap length. The lobes get
+wider and change position. As a practical matter, contem-
+porary loudspeaker line array enclosures are usually de-
+signed to maximize the radiating percentage, often in ex-
+cess of 90%. This minimizes the effects of gaps across the
+useful bandwidth.
+Fourth, real loudspeaker elements may not produce per-
+fectly flat wavefronts, so that a vertical stack of loudspeak-
+ers does not provide a perfectly straight-line source. The
+paper provides an analytical model to estimate the effect
+Fig. 45. Measured polar response data (  ) shown against predicted polar response of eight-element curved array.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+493
+
+of the curvature of the elemental sources of a line array. It
+shows that the effects are frequency dependent and negli-
+gible as long as the curvature is less than one-quarter
+wavelength.
+Finally, measured polar response data of two different
+loudspeaker line arrays were compared to modeled results.
+In general the models produce very good estimates of
+actual performance despite the fact that loudspeaker non-
+linearities, enclosure diffraction, and environmental ef-
+fects among others are not accounted for. Robust results
+can be obtained for a wide variety of array types across an
+extended frequency range of interest.
+ACKNOWLEDGMENT
+The author would like to express his appreciation to his
+colleagues at JBL Professional, including Mark Gander,
+David Scheirman, Mark Engebretson, and Doug Button.
+They piqued his interest in line arrays, encouraged and
+supported this body of work, and were always fun to work
+with.
+10 REFERENCES
+[1] D. L. Klepper and D. W. Steele, “Constant Direc-
+tional Characteristics from a Line Source Array,” Audio
+Eng. Soc., vol. 11, no. 3, p. 198 (1963).
+[2] H. F. Olson, Elements of Acoustical Engineering,
+1st ed. (Van Nostrand, New York, 1940), p. 25.
+[3] I. Wolff and L. Malter, “Directional Radiation of
+Sound, J. Acoust. Soc. Am., vol. 2, no. 2, p. 201 (1930).
+[4] L. Beranek, Acoustics, 1st ed. (McGraw-Hill, New
+York, 1954).
+[5] A. B. Wood, A Textbook of Sound (Bell and Sons,
+London, 1957).
+[6] A. H. Davis, Modern Acoustics, 1st ed. (Macmillan,
+New York, 1934), p. 63.
+[7] M. Rossi, Acoustics and Electroacoustics (Artech
+House, Norwood, MA, 1988).
+[8] E. Skudrzyk, The Foundations of Acoustics
+(Springer, New York, 1971).
+[9] S. P. Lipshitz and J. Vanderkooy, “The Acoustic
+Radiation of Line Sources of Finite Length,” presented at
+the 81st Convention of the Audio Engineering Society, J.
+Audio Eng. Soc. (Abstracts), vol. 34, pp. 1032–1033 (1986
+Dec.), preprint 2417.
+[10] D. L. Smith, “Discrete-Element Line Arrays—
+Their Modeling and Optimization,” J. Audio Eng. Soc.,
+vol. 45, pp. 948–964 (1997 Nov.).
+[11] J. Eargle, Handbook of Sound System Design
+(ELAR Publ., Commack, NY, 1989).
+[12] C. Heil, “Sound Fields Radiated by Multiple
+Sound Source Arrays,” presented at the 92nd Convention
+of the Audio Engineering Society, J. Audio Eng. Soc. (Ab-
+stracts), vol. 40, p. 440 (1992 May), preprint 3269.
+[13] M. Junger and D. Feit, Sound, Structures, and
+Their Interactions (MIT Press, Cambridge, MA, 1972).
+[14] M. S. Ureda, “Line Arrays: Theory and Applica-
+tions,” presented at the 110th Convention of the Audio
+Engineering Society, J. Audio Eng. Soc. (Abstracts), vol.
+49, p. 526 (2001 June), convention paper 5304.
+[15] M. S. Ureda, “J and Spiral Line Arrays,” presented
+at the 111th Convention of the Audio Engineering Society,
+J. Audio Eng. Soc. (Abstracts), vol. 49, p. 1233 (2001
+Dec.), convention paper 5485.
+[16] M. S. Urban, C. Heil, and P. Bauman, “Wavefront
+Sculpture Technology,” J. Audio Eng. Soc. (Engineering
+Reports), vol. 51, pp. 912–932 (2003 Oct.).
+[17] D. Button, “High-Frequency Components for
+High-Output Articulated Line Arrays,” presented at the
+113th Convention of the Audio Engineering Society, J.
+Audio Eng. Soc. (Abstracts), vol. 50, p. 957 (2002 Nov.),
+convention paper 5650.
+[18] M. E. Engebretson, M. S. Ureda, and D. J. Button,
+“Directional Radiation Characteristics of Articulating Line
+Array Loudspeaker Systems,” presented at the 111th Con-
+vention of the Audio Engineering Society, J. Audio Eng.
+Soc. (Abstracts), vol. 49, p. 1233 (2001 Dec.).
+[19] J. E. Benson, “Theory and Applications of Elec-
+trically Tapered Electro-Acoustic Arrays,” in IREE Int.
+Electronics Conv. Digest (1975 Aug.), pp. 587–589.
+[20] L. Kinsler, A. Frey, A. Coppens, and J. Sanders,
+Fundamentals of Acoustics, 4th ed. (Wiley, New York,
+1982).
+[21] M. S. Ureda, “Wave Field Synthesis with Horn
+Arrays,” presented at the 100th Convention of the Audio
+Engineering Society, J. Audio Eng. Soc. (Abstracts), vol.
+44, p. 630 (1996 July/Aug.), preprint 4144.
+THE AUTHOR
+UREDA
+PAPERS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+494
+
+Mark Ureda received a B.S. degree in engineering from
+UCLA, an M.S. degree in acoustics from Penn State, and an
+M.B.A. from the UCLA Graduate School of Management.
+Mr. Ureda joined the Altec Lansing Corporation in
+1976 as an engineer in the acoustics research group. There
+he codeveloped the Mantaray constant directivity horns. In
+1980 he was promoted to director of acoustics and led the
+development of several new lines of horns and loudspeak-
+ers. He left the company when it was sold in 1984 and
+began a career in aerospace. He returned to audio in 1990
+as a consultant to Mark IV Audio, where he developed
+ArraySHOW, a software package that computes radiated
+sound fields of horn arrays. In 1999 he joined JBL Pro-
+fessional and developed the VerTec line array calculator.
+Audio is a hobby for him. He continues his aerospace
+career at Northrop Grumman, where he is the corporate
+vice president of Strategy and Technology. He is respon-
+sible for strategy development and mergers and acquisi-
+tions in the space and electronics segments.
+Mr. Ureda has authored numerous technical papers on
+horns, directivity measurements, line sources, and loud-
+speaker/horn arrays.
+PAPERS
+ANALYSIS OF LOUDSPEAKER LINE ARRAYS
+J. Audio Eng. Soc., Vol. 52, No. 5, May 2004
+495

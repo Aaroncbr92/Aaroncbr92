@@ -1,0 +1,2141 @@
+ 
+ 
+ 
+User's Guide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADI-648 
+ 
+ 
+Multichannel Audio Digital Interface 
+ 
+ 
+ 
+ 
+ 
+SyncAlignTM 
+ 
+SyncCheckTM 
+ 
+Intelligent Clock ControlTM 
+ 
+SteadyClockTM 
+ 
+ 
+ 
+Hi-Precision 24 Bit / 192 kHz 
+64 Channel MADI / ADAT Converter 
+16 x 16 Matrix Router 
+MIDI embedded in MADI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Firmware 2.5 
+MADI 
+24 Bit Interface 
+
+ 
+ 
+2 
+User's Guide ADI-648   © RME 
+ 
+ 
+ 
+Important Safety Instructions ........................................................................... 3 
+ 
+1 
+Introduction ........................................................................................................ 5 
+2 
+Package Contents .............................................................................................. 5 
+3 
+Brief Description and Characteristics .............................................................. 5 
+4 
+Technical Specifications 
+4.1  
+Inputs ............................................................................................................... 6 
+4.2  
+Outputs ............................................................................................................ 7 
+5 
+First Usage 
+5.1  
+Quick Start ...................................................................................................... 8 
+5.2  
+Firmware ......................................................................................................... 8 
+5.3  
+Operating the ADI-648 .................................................................................... 9  
+6 
+The MADI to ADAT Converter 
+6.1  
+General .......................................................................................................... 10 
+6.2  
+Inputs ............................................................................................................. 10 
+6.3  
+Input State Display ........................................................................................ 10 
+6.4  
+Outputs ADAT Optical ................................................................................... 11 
+7 
+The ADAT to MADI Converter 
+7.1  
+General .......................................................................................................... 12 
+7.2  
+Inputs ............................................................................................................. 12 
+7.3  
+Input State Display ........................................................................................ 12 
+7.4  
+Outputs MADI ................................................................................................ 13 
+8 
+Clock Section 
+8.1  
+Clock Configuration ....................................................................................... 13 
+8.2  
+Lock and SyncCheck .................................................................................... 14 
+8.3  
+Word Clock Input and Output ........................................................................ 15 
+9 
+Word Clock 
+9.1  
+Operation and Technical Background ........................................................... 16 
+9.2  
+Cabling and Termination ............................................................................... 17 
+10 
+MIDI 
+10.1  
+Transmission of MIDI .................................................................................. 18 
+10.2  
+Remote Controlling the ADI-648 ................................................................. 18 
+10.3  
+Remote Control Software ........................................................................... 19 
+11 
+Special Modes 
+11.1  
+MADI to MADI Converter ............................................................................ 21 
+11.2  
+ADAT Patchbay and Splitter ....................................................................... 21 
+11.3  
+MADI Coaxial/Optical Converter ................................................................. 21 
+11.4  
+MADI Merger .............................................................................................. 22 
+11.5  
+MADInet ...................................................................................................... 22 
+12 
+Technical Background 
+12.1  
+DS – Double Speed .................................................................................... 23 
+12.2  
+QS – Quad Speed ...................................................................................... 23 
+12.3  
+MADI Basics ............................................................................................... 24 
+12.4  
+SteadyClock ................................................................................................ 25 
+13 
+Controls and Connectors ................................................................................ 26 
+14 
+Block Diagram .................................................................................................. 27 
+15 
+MIDI Implementation Chart 
+15.1  
+Basic SysEx Format ................................................................................... 28 
+15.2  
+Message Types .......................................................................................... 28 
+15.3  
+MADI Input State – Redundancy Mode ...................................................... 28 
+16 
+Warranty ............................................................................................................ 31 
+17 
+Appendix ........................................................................................................... 31 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+3 
+ 
+Important Safety Instructions 
+ 
+ 
+ 
+ATTENTION! Do not open chassis – risk of electric shock 
+ 
+The unit has non-isolated live parts inside. No user serviceable parts inside. 
+Refer service to qualified service personnel. 
+ 
+ 
+ 
+ 
+Mains 
+ 
+• The device must be earthed – never use it without proper grounding 
+• Do not use defective power cords 
+• Operation of the device is limited to the manual 
+• Use same type of fuse only 
+ 
+ 
+ 
+ 
+To reduce the risk of fire or electric shock do not expose this device to rain or 
+moisture. Prevent moisture and water from entering the device. Never leave a 
+pot with liquid on top of the device. Do not use this product near water, i. e. 
+swimming pool, bathtub or wet basement. Danger of condensation inside – 
+don't turn on before the device has reached room temperature. 
+ 
+ 
+ 
+Installation 
+ 
+Surface may become hot during operation – ensure sufficient ventilation. 
+Avoid direct sun light and do not place it near other sources of heat, like radi-
+ators or stoves. When mounting in a rack, leave some space between this 
+device and others for ventilation. 
+ 
+ 
+ 
+Unauthorized servicing/repair voids warranty. Only use accessories 
+specified by the manufacturer. 
+ 
+ 
+ 
+Read the manual completely. It includes all information necessary 
+to use and operate this device. 
+ 
+ 
+ 
+
+ 
+ 
+4 
+User's Guide ADI-648   © RME 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+5 
+ 
+1. Introduction 
+ 
+With the ADI-648 you have an incredibly versatile digital interface to your supply. What at first 
+looks like a simple MADI to ADAT format converter, turns out to be an extremely flexible prob-
+lem solver at a closer look. From small project studios to broadcast and television, this Ad-
+vanced Digital Interface is the perfect tool for many tasks. 
+ 
+As a consequent continuation of RME's world-wide successful ADI-8 series, the 648 also con-
+tains elaborate technology and the latest integrated circuits. In a few words: The ADI-648 is a 
+uniquely powerful and high-quality device, which will excite you even after many years of opera-
+tion. 
+ 
+ 
+2. Package Contents 
+ 
+Please check that your ADI-648 package contains each of the following: 
+ 
+ ADI-648 
+ Manual 
+ Power cord 
+ 
+ 
+3. Brief Description and Characteristics 
+ 
+The ADI-648 consists of two 64-channel digital format converters in reference quality, in a 
+standard 19" box with 1 unit height. The compact device has numerous extraordinary features 
+like Intelligent Clock Control (ICC), SyncCheck®, SyncAlign®, Bitclock PLL, SteadyClock, 
+patchbay functionality, and a 16x16 Matrix router. 
+ 
+All of the ADI-648 I/Os support 192 kHz/24 bit. As ADAT optical is restricted to 48kHz, in DS 
+mode (Double Speed) two channels are being used for the transmission of one channel's data. 
+The Sample Split algorithm used is compatible to S/MUX and Double Wire, and also implement-
+ed in RME's Hammerfall DSP and FireWire devices. Thus the ADI-648 also serves as an ideal 
+MADI frontend for these interfaces, on both Mac and PC. 
+ 
+The format conversion between MADI and ADAT operates in both directions at the same time. 
+LEDs of different colours show the present state of incoming and outgoing signals and of the 
+internal processing in a clear way. 
+ 
+The unique Intelligent Clock Control (ICC) allows for a flexible use with internal clock (44.1, 48, 
+88.2 and 96 kHz), external word clock or the digital input signals. These options are intelligently 
+coupled in a way typical for RME, and easy to apply thanks to a clear and easily understandable 
+display of the Lock and Sync states. 
+ 
+Futhermore the unique 16 x 16 Matrix Router allows to use the ADI-648 as patchbay and splitter. 
+All 128 input channels, MADI and ADAT, can be routed to all 128 outputs – even within the 
+same format. 
+
+ 
+ 
+6 
+User's Guide ADI-648   © RME 
+ 
+4. Technical Specifications 
+ 
+ Power supply: Internal switching PSU, 100 - 240 V AC, 20 Watts 
+ Typical power consumption: 9 Watts 
+ Dimensions including rack ears (WxHxD): 483 x 44 x 242 mm (19" x 1.73" x 9.5") 
+ Dimensions without rack ears/handles (WxHxD): 436 x 44 x 235 mm (17.2" x 1.73" x 9.3") 
+ Weight: 2 kg ( 4.4 lbs) 
+ Temperature range: +5° up to +50° Celsius (41° F up to 122°F) 
+ Relative humidity: < 75%, non condensing 
+ 
+ 
+4.1 Inputs 
+ 
+MADI 
+ Coaxial via BNC, 75 Ohm, according to AES10-1991 
+ High-sensitivity input stage (< 0.2 Vpp) 
+ 
+ Optical via FDDI duplex SC connector 
+ 62.5/125 and 50/125 compatible 
+ 
+ Accepts 56 channel and 64 channel mode, and 96k Frame 
+ Single Wire: up to 64 channels 24 bit 48 kHz 
+ Double Wire: up to 32 channels 24 bit 96 kHz 
+ Quad Wire: up to 16 channels 24 bit 192 kHz 
+ Lock range: 28 kHz – 54 kHz 
+ Jitter when synced to input signal: < 1 ns 
+ 
+ 
+ADAT Optical 
+ 8 x TOSLINK, according to Alesis specification 
+ Standard: 64 channels 24 bit, up to 48 kHz 
+ S/MUX: 8 x 4 channels 24 bit / 96 kHz 
+ S/MUX4: 8 x 2 channels 24 bit / 192 kHz 
+ Bitclock PLL ensures perfect synchronisation even in varispeed operation 
+ Lock range: 31 kHz – 56 kHz 
+ Jitter when synced to input signal: < 1 ns 
+ 
+ 
+Word Clock 
+ BNC, not terminated (10 kOhm) 
+ Automatic Double Speed detection and internal conversion to Single Speed 
+ PLL for low jitter synchronisation even in varispeed operation 
+ Transformer coupled, galvanically isolated input 
+ Not affected by DC-offsets within the network 
+ Signal Adaptation Circuit: signal refresh through auto-center and hysteresis 
+ Overvoltage protection 
+ Level range: 1.0 Vpp – 5.6 Vpp 
+ Lock range: 27 kHz – 112 kHz 
+ Jitter when synced to input signal: < 1 ns 
+ Switch for internal termination 75 Ohm 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+7 
+ 
+MIDI 
+ 16 channels MIDI 
+ 5-pin DIN jack 
+ Optocoupled, ground-free input 
+ Invisible transmission via User bit of channel 56 (up to 48 kHz) 
+ Invisible transmission via User bit of channel 28 (96k Frame) 
+ 
+ 
+4.2 Outputs 
+ 
+MADI 
+ Coaxial via BNC, 75 Ohm, according to AES10-1991 
+ Output voltage 600 mVpp 
+ Cable length: up to 100 m 
+ 
+ Optical via FDDI duplex SC connector 
+ 62.5/125 and 50/125 compatible 
+ Cable length: up to 2,000 m 
+ 
+ Generates 56 channel and 64 channel mode, and 96k Frame 
+ Single Wire: up to 64 channels 24 bit 48 kHz 
+ Double Wire / 96K Frame: up to 32 channels 24 bit 96 kHz 
+ Quad Wire: up to 16 channels 24 bit 192 kHz 
+ 
+ 
+ADAT Optical 
+ 8 x TOSLINK 
+ Standard: 8 x 8 channels 24 bit, up to 48 kHz 
+ S/MUX: 8 x 4 channels 24 bit / 96 kHz 
+ S/MUX4: 8 x 2 channels 24 bit / 192 kHz 
+ 
+ 
+Word Clock 
+ BNC 
+ Max. output voltage: 5 Vpp 
+ Output voltage @ 75 Ohm: 4.0 Vpp 
+ Impedance: 10 Ohms 
+ Frequency range: 27 kHz – 56 kHz 
+ 
+ 
+MIDI 
+ 16 channels MIDI 
+ 5-pin DIN jack 
+ 
+ 
+4.2 Digital 
+ 
+ Clocks: Internal, ADAT In, MADI In, Word Clock In 
+ Low jitter design: < 1 ns in PLL mode, all inputs 
+ Internal clock: 800 ps jitter, random spread spectrum 
+ Jitter suppression of external clocks: > 30 dB (2.4 kHz) 
+ PLL ensures zero dropout, even at more than 100 ns jitter 
+ Additional Bitclock PLL for trouble-free varispeed ADAT operation 
+ Supported sample rates: 32 / 44.1 / 48 / 64 / 88.2 / 96 / 176.4 / 192 kHz 
+
+ 
+ 
+8 
+User's Guide ADI-648   © RME 
+ 
+5. First Usage 
+ 
+5.1 Quick Start 
+ 
+The user interface of the ADI-648 is characterized by a clearly structured architecture and an 
+unambiguous labelling of the front and rear sides. The device can thus be used easily without a 
+manual, because numerous LEDs show the state of the device and of all incoming and outgoing 
+signals in a strictly logical way. However, we don't want to hold you back from reading this man-
+ual, as it includes a lot of important and useful information. 
+ 
+The ADI-648 remembers all settings before switching off and sets them automatically when 
+switching on the next time. 
+ 
+When being switched on for the first time, the ADI-648 comes up in a default mode, which 
+should be appropriate for most applications. The device is in slave mode and gets its reference 
+clock directly out of the MADI input signal. The Matrix Router is deactivated. 
+ 
+A quick guide for operation and functionality of the ADI-648 can be found on the next page. 
+ 
+For transmission of the digital signals into a computer we recommend RME's interface cards of 
+the Hammerfall® DSP series, especially the HDSP MADI. These high quality digital audio cards 
+are available with drivers for all common operating systems, and have the highest reputation 
+world-wide. 
+ 
+ 
+5.2 Firmware 
+ 
+The ADI-648's main part has been realized using programmable logic. By exchanging a little 
+component called EPROM, both function and behaviour of the unit can be changed at any time. 
+ 
+At the time of writing this manual, the unit is shipped with firmware 2.5. This firmware is not 
+compatible to older units, which do not have the REMOTE key. The firmware version is dis-
+played after power on by the AUDIO LEDs for about one second. 
+ 
+Since firmware version 2.5 not only ADAT input 8, but also the current Matrix configuration influ-
+ences the output mode. If MADI output group 8 is assigned to any input, the device generates 64 
+channel format. This is also true when MATRIX STATE is set to OFF. As this channel assign-
+ment is factory default, all ADI-648 with firmware 2.5 will generate 64 channel mode as default 
+mode. To activate the 56 channel format for the MADI output, the MADI output group 8 has to be 
+set to Mute, and no signal must be present at ADAT input 8. 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+9 
+ 
+5.3 Operating the ADI-648 
+ 
+Join us for a small 'tour de ADI', starting on the left side at the MADI to ADAT Converter. Config-
+uration starts with choosing the input, BNC or optical. The state of the input signal is displayed 
+by 14 LEDs. Shown are active input, automatic input selection, receiver state, Sync, 56 or 64 
+channel format, 48k Frame or 96k Frame, and audio data within 8-channel groups. The Sync 
+LED shows the synchronicity between input signal and external/internal clock, or between the 
+active inputs. 
+ 
+The ADAT to MADI 
+Converter shows the 
+Sync state for each of 
+the 8 inputs via 8 
+LEDs. Again 8 LEDs 
+display 
+incoming 
+audio data per 8-
+channel group. 
+ 
+By using the 96k FRAME key, the MADI output is switched into Double Speed mode. This mode 
+is active when the '96k Frame' LED is lit. In case the WCK LED is lit, the word clock output no 
+longer provides 44.1/48 kHz, but 88.2/96 kHz. However many devices operate in Single Speed 
+only, and distribute – as known from Double Wire – 96 kHz data on two channels. In this case 
+the ADI-648 operates correctly even without changing to 96k Frame mode, because Double 
+Wire will be converted 1:1 to ADAT (S/MUX). 
+ 
+RME's intelligent clock control (ICC) offers extensive and professional means. To start with, the 
+clock source can be set to Internal (crystal), External (BNC word clock) and Input, while Input 
+lets you select between ADAT and MADI. The INT(ernal) clock rates are 44.1 and 48kHz. Lock 
+state is displayed by the state of the input LEDs (flashing or constantly lit). 
+ 
+The ADI-648 can be remote controlled by MIDI commands. The key REMOTE is used to select 
+the source of the MIDI commands, and also the destination for the ADI-648's request replies. 
+The normal MIDI ports or the MADI input and output can be chosen. The current REMOTE se-
+lection does not have any influence on the basic conversion of MIDI to MADI and vice versa. 
+ 
+Normally all 64 MADI channels will be routed to the according ADAT outputs, and all ADAT in-
+puts to the 64-channel MADI output (optical and coaxial output operate in parallel). 
+ 
+The 16 x 16 Matrix Router can be activated via the STATE key, and allows to change this rout-
+ing. First choose an output by pressing the Output Select key, then use the Input Select key to 
+select the desired input. An input can be assigned to as many outputs as present (splitting), but 
+an output can not be assigned to more than one input (digital mixing). Routing within the same 
+format is also allowed. This way ADAT inputs can be routed directly to ADAT outputs, without 
+the need of a MADI loopback cabling. So all attached devices can send signals to each other 
+without the need to rearrange the cabling between them. 
+ 
+When stepping through all inputs: the input is muted when no LED is lit. To reset the Matrix 
+Router to the factory default (routing as if de-activated), press the INPUT and OUTPUT SELECT 
+keys at the same time. 
+
+ 
+ 
+10 
+User's Guide ADI-648   © RME 
+ 
+6. The MADI to ADAT Converter 
+ 
+6.1 General 
+ 
+This part of the ADI-648 converts MADI to ADAT optical. MADI offers 64 channels of 24 bit au-
+dio at up to 48 kHz sample rate, 32 channels at up to 96 kHz, or 16 channels at up to 192 kHz. 
+Transmission happens over a single line, either coaxial (BNC) or fiber optic (network). In both 
+cases the cable length can be more than 100 meters. 
+ 
+The 64 MADI channels are transferred to 8 ADAT optical outputs (TOSLINK). Furthermore, the 
+ADI-648 contains an easy-configurable 8-channel 16x16 Matrix Router. Any of the outputs, 
+which are divided into 8-channel blocks, can be fed from any 8-channel input block, both on the 
+ADAT and the MADI side. With this, there is not only free routing within the MADI to ADAT con-
+version, but also splitting and routing within the same format. 
+ 
+ 
+6.2 Inputs 
+ 
+Both MADI inputs are located on the rear of the ADI-648. 
+ 
+The BNC input's ground-free design is built according to AES10-1991. The input's impedance is 
+75 Ohm. It will operate error-free from about 180 mVpp. 
+ 
+The optical input uses a FDDI (ISO/IEC 9413-3) compatible optical module, according to 
+AES10-1991. More information can be found in chapter 12.2, MADI Basics. 
+ 
+The ADI-648 includes automatic input selection. In case the current input signal fails, the unit 
+switches to the other input immediately. This mode, called redundancy mode, offers improved 
+safety against errors on the transmission line. Switching the inputs is done in about one second. 
+The ADI-648 displays redundancy operation by a blinking LED of the original input, while the 
+input LED of the currently active input will be lit constantly. 
+ 
+ 
+6.3 Input State Display 
+ 
+The state of the MADI input is displayed by different LEDs. The ERROR LED is directly coupled 
+with the MADI-Receiver, and informs the user reliably about the quality of the input signal. The 
+LED will light up red, as soon as there is any error, be it a carrier voltage which is too low, invalid 
+data or any other error which prevents the receiver from accepting the input signal. 
+ 
+If a valid input signal is applied, SyncCheck is active automatically. If the MADI input is not cho-
+sen as clock source, SyncCheck takes the chosen clock (Internal, External, ADAT) as reference 
+and compares it with the MADI input clock. In case no synchronous operation is detected the 
+SYNC LED will start blinking. 
+ 
+Audio data present in the input channels is signalled by an AUDIO LED. As the ADI-648 is based 
+on ADAT ports and therefore operates in 8-channel blocks, an AUDIO LED will show audio data 
+from 8 channels simultaneously. The green LED is lit as soon as one of the channels of an 8-
+channel block contains audio data, means is no longer digital zero. 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+11 
+ 
+6.4 Outputs ADAT Optical 
+ 
+The ADI-648 provides 8 outputs in ADAT optical format. They are fully compatible to all ADAT 
+optical inputs. A usual TOSLINK cable is sufficient for connection. 
+ 
+With the Matrix Router de-activated, all MADI channels are copied to the 8-channel ADAT for-
+mat in a logical order: 
+ 
+MADI In 
+1-8 
+9-16 
+17-24 
+25-32 
+33-40 
+41-48 
+49-56 
+57-64 
+ADAT Out 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+ 
+If a MADI signal in Double Wire format (standard frame) is present at the input, technically no 
+special processing is activated, because the output signals will be in Sample Split format 
+(S/MUX) right away. 
+ 
+In 96K FRAME mode, the ADI-648 automatically converts Double Speed data to Sample Split 
+(S/MUX). The data of one MADI channel will be processed and routed to two ADAT channels 
+according to the following table: 
+ 
+ 
+MADI In 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+DS Signal 
+Port 
+1/2 
+1 
+3/4 
+1 
+5/6 
+1 
+7/8 
+1 
+1/2 
+2 
+3/4 
+2 
+5/6 
+2 
+7/8 
+2 
+ 
+ 
+MADI In 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+DS Signal 
+Port 
+1/2 
+3 
+3/4 
+3 
+5/6 
+3 
+7/8 
+3 
+1/2 
+4 
+3/4 
+4 
+5/6 
+4 
+7/8 
+4 
+ 
+ 
+MADI In 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+DS Signal 
+Port 
+1/2 
+5 
+3/4 
+5 
+5/6 
+5 
+7/8 
+5 
+1/2 
+6 
+3/4 
+6 
+5/6 
+6 
+7/8 
+6 
+ 
+ 
+MADI In 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+DS Signal 
+Port 
+1/2 
+7 
+3/4 
+7 
+5/6 
+7 
+7/8 
+7 
+1/2 
+8 
+3/4 
+8 
+5/6 
+8 
+7/8 
+8 
+ 
+ 
+As the device internally always operates in Sample Split mode, the Matrix won't change its func-
+tionality in Double Wire, Quad Wire (Sample Split = Single Speed) and 96K Frame (Double 
+Speed). In both cases the number of channels is reduced to 28/32 or 14/16. At the same time 
+the Matrix Router no longer operates in 8-channel, but in 4-channel or 2-channel blocks. 
+ 
+
+ 
+ 
+12 
+User's Guide ADI-648   © RME 
+ 
+7. The ADAT to MADI Converter 
+ 
+7.1 General 
+ 
+This part of the ADI-648 converts ADAT optical to MADI. ADAT optical carries 8 channels of 24 
+bit audio at up to 48 kHz sample rate, 4 channels at up to 96 kHz, and 2 channels at up to 192 
+kHz. Transmission is done via a single optical line (TOSLINK). The length of the optical cable is 
+limited to about 10 m. 
+ 
+Because the Sample Split (S/MUX, S/MUX4) format doesn't contain a coding, the ADI-648 can-
+not distinguish it from normal (44.1/48 kHz) material. Whether the MADI output is supposed to 
+work in 96K Frame mode has to be set explicitly by the user. 
+ 
+The inputs can be used in any combination, e. g. it is sufficient to connect an input signal only to 
+input 3. In slave mode, this input is automatically being used as clock source. If more than one 
+signal is present, the one furthest left is being used as clock source, i. e. the active input with the 
+lowest number. 
+ 
+The 8 ADAT optical inputs are transferred to a 64-channel MADI output. Furthermore, the ADI-
+648 contains an easy-configurable 8-channel 16x16 Matrix Router. Any of the outputs, which 
+are divided into 8-channel blocks, can be fed from any 8-channel input block, both on the ADAT 
+and the MADI side. With this, there is not only free routing within the ADAT to MADI conversion, 
+but also splitting and routing within the same format. 
+ 
+ 
+7.2 Inputs 
+ 
+The ADAT optical inputs of the ADI-648 are fully compatible with all ADAT optical outputs. 
+ 
+ADAT input 8 is used to switch the MADI output format from 56-channel to 64-channel mode. 
+When ADAT input 8 does not receive a valid input signal, the ADI-648 generates a 56-channel 
+MADI signal. When feeding a valid input signal, a 64-channel MADI signal will be generated. 
+This rule is also true when 96K Frame mode is active. Then 28 or 32 channels will be available. 
+ 
+Since firmware version 2.5 the current Matrix configuration also influences the output mode. If 
+MADI output group 8 is assigned to any input, the device generates 64 channel format. This is 
+also true when MATRIX STATE is set to OFF. As this channel assignment is factory default, all 
+ADI-648 will generate 64 channel mode as default mode. To activate the 56 channel format for 
+the MADI output, the MADI output group 8 has to be set to Mute, and no signal must be present 
+at ADAT input 8. 
+ 
+ 
+7.3 Input State Display 
+ 
+The input state is being displayed by means of 16 LEDs. A missing or invalid input signal is indi-
+cated by flashing of the SYNC LED. When using multiple inputs in clock mode ADAT INPUT, the 
+input with the lowest number is being used as clock source. In case ADAT is not chosen as 
+clock reference, SyncCheck takes the chosen clock (internal, external, MADI) as reference and 
+compares it to the clocks of the inputs. Non synchronous inputs will be indicated by flashing of 
+the corresponding SYNC LED. A missing or invalid input signal will be displayed by blinking of 
+the ADAT INPUT CLOCK LED. 
+ 
+Audio data present in the input channels are signalled by an AUDIO LED per input. As the ADI-
+648 operates in 8-channel blocks, an AUDIO LED will show audio data from 8 channels simulta-
+neously. The green LED is lit as soon as one of the channels of an 8-channel block contains 
+audio data, means is no longer digital zero. 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+13 
+ 
+! 
+7.4 Outputs MADI 
+ 
+At the rear side of the ADI-648 there are two MADI outputs. 
+ 
+The BNC output is built according to AES10-1991. The output's impedance is 75 Ohms. The 
+output voltage will be 600 mVpp when terminated with 75 Ohms.  
+ 
+The optical output uses a FDDI (ISO/IEC 9413-3) compatible optical module, according to 
+AES10-1991. More information can be found in chapter 11.2, MADI Basics. 
+ 
+With the Matrix Router de-activated, all ADAT channels are copied to the MADI format in a logi-
+cal order: 
+  
+ADAT In 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+MADI Out 
+1-8 
+9-16 
+17-24 
+25-32 
+33-40 
+41-48 
+49-56 
+57-64 
+ 
+ 
+When activating the 96k Frame mode, channel distribution changes as follows: 
+  
+ADAT In 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+MADI Out 
+1-4 
+5-8 
+9-12 
+13-16 
+17-20 
+21-24 
+25-28 
+29-32 
+ 
+As the device internally always operates in Sample Split mode, the Matrix won't change its func-
+tionality in Double Wire, Quad Wire (Sample Split = Single Speed) and 96K Frame (Double 
+Speed). In both cases the number of channels is reduced to 28/32 or 14/16. At the same time 
+the Matrix Router no longer operates in 8-channel, but in 4-channel or 2-channel blocks. 
+ 
+ 
+8. Clock Section 
+ 
+8.1 Clock Configuration 
+ 
+The unique ICC technology (Intelligent Clock Control) allows for a flexible use of both converter 
+units with internal clock (44.1 and 48 kHz, 88.2 and 96 kHz in DS mode), external word clock or 
+the digital input signals. All options are intelligently coupled and easily applicable and under-
+standable, thanks to a clear display of the corresponding lock state. 
+ 
+As clock source, INTERNAL (crystal), EXTERNAL (BNC word clock) and INPUT (the digital 
+input signal ADAT/MADI) can be chosen. If the clock signal is present, the corresponding LED 
+will light constantly. If no signal is present, the LED will flash. 
+ 
+The ADI-648 can extract its reference clock directly from the MADI signal. In most cases an 
+additional word clock will not be necessary. 
+ 
+ 
+INPUT 
+As displayed on the front panel, the CLOCK SOURCE for the INPUT setting can be the ADAT or 
+MADI input. A missing or invalid clock source signal is indicated by flashing of the corresponding 
+LED. 
+ 
+EXT. 
+With EXTERNAL, the ADI-648's word clock input is used as clock reference. The LED will flash, 
+if the word clock is missing or unusable. 
+
+ 
+ 
+14 
+User's Guide ADI-648   © RME 
+ 
+!
+INT. 
+For INTERNAL, 44.1 kHz or 48 kHz sampling rate is available. Note: the key 96k FRAME does 
+only affect the format of the MADI output, not channel distribution or sample rate of the ADAT 
+outputs. 
+ 
+For the INTERNAL clock setting it is mandatory that the clock rate of the sources is syn-
+chronous to the ADI-648. Therefore the external device has to be synchronized to the ADI-
+648's word clock out or ADAT/MADI out. 
+ 
+The ADI-648 thus has to be master, all devices connected to it slave. In order to avoid clicks and 
+drop outs due to faulty or missing synchronicity, a special process called SyncCheck compares 
+the incoming data and the ADI-648's internal clock. SYNC is indicated by flashing (error) or con-
+stantly lit (OK) LED. 
+ 
+ 
+8.2 Lock, SyncCheck and SyncAlign 
+ 
+Digital signals consist of a carrier and the data. If a digital signal is applied to an input, the re-
+ceiver has to synchronize to the carrier clock in order to read the data correctly. To achieve this, 
+the receiver uses a PLL (Phase Locked Loop). As soon as the receiver meets the exact fre-
+quency of the incoming signal, it is locked. This Lock state remains even with small changes of 
+the frequency, because the PLL tracks the receiver's frequency. 
+ 
+If an ADAT or MADI signal is applied to the ADI-648, the corresponding input LED starts flash-
+ing. The ADI-648 indicates LOCK, i. e. a valid input signal (in case the signal is in sync, the LED 
+will be lit constantly, see below). 
+ 
+Unfortunately, LOCK does not necessarily mean that the received signal is correct with respect 
+to the clock which processes the read out of the embedded data. Example [1]: The ADI-648 is 
+set to 44.1 kHz INT(ernal), and a mixing desk having an ADAT output is connected to input 
+ADAT1. The INPUT LED will show LOCK immediately, but the mixing desk's clock is usually 
+generated internally (clock mode master), thus slightly higher or lower than the ADI-648's inter-
+nal sample rate. Result: When reading out the data, there will frequently be read errors that 
+cause clicks and drop outs. 
+ 
+Also when using multiple inputs, a simple LOCK is not sufficient. The problem described above 
+can be solved elegantly by setting the ADI-648 from INT to INPUT (its internal clock will then be 
+the clock delivered by the mixing desk). But in case another asynchronous source is connected, 
+there will again be a slight difference in the sample rate, and therefore clicks and drop outs. 
+ 
+In order to display those problems optically at the device, the ADI-648 contains SyncCheck®. It 
+checks all clocks used for synchronicity. If they are not synchronous to each other (i. e. absolute-
+ly identical), the SYNC LED of the asynchronous input flashes. If in total sync, the LED will be lit 
+constantly. In example 1 it would have been obvious at once that the SYNC ADAT1 LED was 
+flashing. 
+ 
+In practice, SyncCheck allows for a quick overview of the correct configuration of all digital de-
+vices. So one of the most difficult and error-prone topics of the digital studio world finally be-
+comes easy to handle. 
+  
+
+ 
+ 
+User's Guide ADI-648   © RME 
+15 
+ 
+! 
+8.3 Word Clock Input and Output 
+ 
+SteadyClock guarantees an excellent performance in all clock modes. Its highly efficient jitter 
+suppression refreshes and cleans up any clock signal, and provides it as reference clock at the 
+BNC output (see section 12.4). 
+ 
+Input 
+ 
+The ADI-648's transformer isolated word clock input is active when EXT is chosen in the clock 
+section. The signal at the BNC input can be single or double speed, the ADI-648 automatically 
+adapts to it. As soon as a valid signal is detected, the EXT LED is constantly lit, otherwise it is 
+flashing. 
+ 
+Thanks to RME's Signal Adaptation Circuit, the word clock input still works correctly even with 
+heavily mis-shaped, dc-prone, too small or overshoot-prone signals. Thanks to automatic signal 
+centering, 300 mV (0.3V) input level is sufficient in principle. An additional hysteresis reduces 
+sensitivity to 1.0 V, so that over- and undershoots and high frequency disturbances don't cause 
+a wrong trigger. 
+ 
+The ADI-648's word clock input is shipped as 
+high impedance type (not terminated). A push 
+switch allows to activate internal termination (75 
+Ohms). The switch is found on the back be-
+tween the BNC jacks. Use a small pencil or 
+similar and carefully push the blue switch so 
+that it snaps into its lock position. Another push 
+will release it again and de-activate the termina-
+tion. 
+ 
+ 
+Output 
+ 
+The word clock output is constantly active, providing the current sample frequency as word clock 
+signal. In master mode (Int.), the word clock will be fixed to 44.1 kHz or 48 kHz. In any other 
+case the sample rate is identical to the one present at the currently chosen clock input. When 
+the current word clock source fails, the last valid sample rate will be held automatically. 
+ 
+The word clock signal received by the HDSP MADI can be distributed to other devices by using 
+the word clock output. With this the usual T-adapter can be avoided, and the HDSP MADI oper-
+ates as Signal Refresher. This kind of operation is highly recommended, because 
+ 
+ 
+Input and output are phase-locked and in phase (0°) to each other 
+ 
+SteadyClock removes nearly all jitter from the input signal 
+ 
+the exceptional input (1 Vpp sensitivity instead of the usual 2.5 Vpp, dc cut, Signal Adapta-
+tion Circuit) plus SteadyClock guarantee a secure function also with most critical word clock 
+signals. 
+ 
+The word clock output usually operates in Single Speed mode, as do all ADAT and TDIF 
+ports. 
+ 
+In S/MUX or Double Speed mode, the word clock output will therefore be no higher than 48 kHz. 
+In case a Double Speed word clock is needed (88.2 or 96 kHz), press the key 96K FRAME sev-
+eral times, until the LED WCK is lit. 
+ 
+Thanks to a low impedance, but short circuit proof output, the ADI-648 delivers 4 Vpp to 75 
+Ohms. For wrong termination with 2 x 75 Ohms (37.5 Ohms), there are still 3.3 Vpp at the out-
+put. 
+
+ 
+ 
+16 
+User's Guide ADI-648   © RME 
+ 
+! 
+9. Word Clock 
+ 
+9.1 Operation and Technical Background 
+ 
+In the analog domain one can connect any device to another device, synchronization is not nec-
+essary. Digital audio is different. It uses a clock, the sample frequency. The signal can only be 
+processed and transmitted when all participating devices share the same clock. If not, the signal 
+will suffer from wrong samples, distortion, crackle sounds and drop outs. 
+ 
+AES/EBU, SPDIF, ADAT and MADI are self-clocking, an additional word clock connection in 
+principle isn't necessary. But when using more than one device simultaneously problems are 
+likely to happen. For example any self-clocking will not work in a loop cabling, when there is no 
+'master' (main clock) inside the loop. Additionally the clock of all participating devices has to be 
+synchronous. This is often impossible with devices limited to playback, for example CD players, 
+as these have no SPDIF input, thus can't use the self clocking technique as clock reference. 
+ 
+In a digital studio synchronisation is maintained by connecting all devices to a central sync 
+source. For example the mixing desk works as master and sends a reference signal, the word 
+clock, to all other devices. Of course this will only work as long as all other devices are equipped 
+with a word clock or sync input, thus being able to work as slave (some professional CD players 
+indeed have a word clock input). Then all devices get the same clock and will work in every pos-
+sible combination with each other. 
+ 
+Remember that a digital system can only have one master! If the ADI-648’s clock mode is 
+set to 'Master', all other devices must be set to ‘Slave’. 
+ 
+But word clock is not only the 'great problem solver', it also has some disadvantages. The word 
+clock is based on a fraction of the really needed clock. For example SPDIF: 44.1 kHz word clock 
+(a simple square wave signal) has to be multiplied by 256 inside the device using a special PLL 
+(to about 11.2 MHz). This signal then replaces the one from the quartz crystal. Big disadvantage: 
+because of the high multiplication factor the reconstructed clock will have great deviations called 
+jitter. The jitter of a word clock is much higher as when using a quartz based clock.  
+ 
+The end of these problems should have been the so called Superclock, which uses 256 times 
+the word clock frequency. This equals the internal quartz frequency, so no PLL for multiplying is 
+needed and the clock can be used directly. But - a square wave signal of 11 MHz distributed to 
+several devices means to fight with high frequency technology. Reflections, cable quality, ca-
+pacitive loads - at 44.1 kHz these factors may be ignored, at 11 MHz they are the end of the 
+clock network. Additionally it was found that a PLL not only generates jitter, but also rejects dis-
+turbances. The slow PLL works like a filter for induced and modulated frequencies above sever-
+al kHz. 
+ 
+The actual end of these problems is offered by the SteadyClock technology of the ADI-648. 
+Combining the advantages of modern and fastest digital technology with analog filter techniques, 
+re-gaining a low jitter clock signal of 22 MHz from a slow word clock of 44.1 kHz is no problem 
+anymore. Additionally, jitter on the input signal is highly rejected, so that even in real world usage 
+the re-gained clock signal is of highest quality. 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+17 
+ 
+! 
+9.2 Cabling and Termination 
+ 
+Word clock signals are usually distributed in the form of a network, split with BNC T-adapters 
+and terminated with resistors. We recommend using off-the-shelf BNC cables to connect all 
+devices, as this type of cable is used for most computer networks. You will find all the necessary 
+components (T-adapters, terminators, cables) in most electronics and/or computer stores. The 
+latter usually carries 50 Ohm components. The 75 Ohm components used for word clock are 
+part of video technology (RG59). 
+ 
+Ideally, the word clock signal is a 5 Volt square wave with the frequency of the sample rate, of 
+which the harmonics go up to far above 500 kHz. To avoid voltage loss and reflections, both the 
+cable itself and the terminating resistor at the end of the chain should have an impedance of 75 
+Ohm. If the voltage is too low, synchronization will fail. High frequency reflection effects can 
+cause both jitter and sync failure. 
+ 
+Unfortunately there are still many devices on the market, even newer digital mixing consoles, 
+which are supplied with a word clock output that can only be called unsatisfactory. If the output 
+breaks down to 3 Volts when terminating with 75 Ohms, you have to take into account that a 
+device, of which the input only works from 2.8 Volts and above, does not function correctly al-
+ready after 3 meter cable length. So it is not astonishing that because of the higher voltage, word 
+clock networks are in some cases more stable and reliable if cables are not terminated at all. 
+ 
+Ideally all outputs of word clock delivering devices are designed as low impedance types, but all 
+word clock inputs as high impedance types, in order to not weaken the signal on the chain. But 
+there are also negative examples, when the 75 Ohms are built into the device and cannot be 
+switched off. In this case the network load is often 2 x 75 Ohms, and the user is forced to buy a 
+special word clock distributor. Note that such a device is generally recommended for larger stu-
+dios. 
+ 
+The ADI-648's word clock input can be high-impedance or terminated internally, ensuring maxi-
+mum flexibility. If termination is necessary (e.g. because ADI-648 is the last device in the chain), 
+push the switch at the back (see chapter 8.3). 
+ 
+In case the ADI-648 resides within a chain of devices receiving word clock, plug a T-adapter into 
+its BNC input jack, and the cable supplying the word clock signal to one end of the adapter. 
+Connect the free end to the next device in the chain via a further BNC cable. The last device in 
+the chain should be terminated using another T-adapter and a 75 Ohm resistor (available as 
+short BNC plug). Of course devices with internal termination do not need T-adaptor and termina-
+tor plug. 
+ 
+ 
+Due to the outstanding SteadyClock technology of the ADI-648, we recommend not to pass 
+the input signal via T-adapter, but to use the ADI-648's word clock output instead. Thanks to 
+SteadyClock, the input signal will both be freed from jitter and - in case of loss or drop out – 
+be held at the last valid frequency. 
+ 
+
+ 
+ 
+18 
+User's Guide ADI-648   © RME 
+ 
+10. MIDI 
+ 
+10.1 MIDI Transmission 
+ 
+MADI allows for a transmission of 64 audio channels over long distances with a single line – 
+perfect. But what about MIDI? Be it remote control commands or sequencer data, in practice 
+only a single MADI line will not suffice. Therefore the ADI-648 also has a MIDI I/O port. The data 
+at the MIDI input are being included into the MADI signal invisibly, and can be collected at the 
+MIDI output of another ADI-648, or a HDSPe MADI, at the other end of the MADI line. 
+ 
+Technically every single MADI channel includes several additional bits, containing various infor-
+mation (Channel Status). RME use the usually unused User Bit of channel 56 (channel 28 in 96k 
+Frame mode), to transmit MIDI data invisibly within MADI, ensuring full compatibility. 
+ 
+ 
+The block diagram shows 
+the basic MIDI operation. 
+The MIDI input signal is 
+added to the MADI output 
+signal. The MIDI data found 
+in the MADI input signal will 
+be available at the MIDI 
+output. This functionality, a 
+bi-directional 
+MIDI/MADI 
+converter, is always availa-
+ble, and not affected by the 
+REMOTE key. 
+ 
+ 
+ 
+The MIDI input signal will never be transferred directly from MADI to MADI, no matter how the 
+matrix router is set up. A MIDI cable connecting MIDI output and MIDI input of the ADI-648, will 
+realize a direct pass-through of MIDI, from MADI input to MADI output. 
+ 
+ 
+10.2 Remote Controlling the ADI-648 
+ 
+The ADI-648 can be completely remote controlled via MIDI. The CPU shown above reacts on 
+specific commands. Furthermore, upon request the CPU will report the complete device status. 
+This includes all controls and LEDs on the front plate. Each ADI-648 can be programmed with its 
+own ID, providing a separated remote control of multiple devices via a single MIDI channel. A 
+description of the MIDI implementation is found in section 15. 
+ 
+The key REMOTE is used to select the source of the MIDI commands, and also the destination 
+for the ADI-648's request replies. A push on REMOTE toggles between MIDI port, MADI port 
+and Off. The latter is a safety function to prevent any setup-change by any MIDI signal. In the 
+picture above, the MIDI commands reach the CPU via the MIDI input, and the CPU's feedback 
+on commands is only available at the MIDI output. 
+ 
+To remote control an ADI-648 from a HDSPe card via MADI, REMOTE has to be set to MADI. 
+As can be seen in the block diagram on the next page, this setup provides a complete data path 
+for MIDI in both directions. 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+19 
+ 
+10.3 Remote Control Software 
+ 
+The Windows and Mac software MIDI Remote can be downloaded for free from the RME web-
+site. It can use any existing MIDI port within the system to perform remote control and status 
+requests of all ADI-648 via a simple mouse click. Most appealing is the combination with a 
+HDSP MADI (PCI card), offering a direct control of the ADI-648 via MADI. The remote control 
+software then uses a virtual MIDI port of the card (port 3), which directly sends and receives 
+MIDI data via MADI. 
+ 
+The block diagram shows 
+the signal flow in a MADI 
+remote controlled system. 
+MIDI commands from a 
+software on PC or Mac trav-
+el via MADI to the MIDI Out 
+of the ADI-648. At the same 
+time they reach the 648's 
+CPU. The MIDI signals of 
+external devices travel via 
+MIDI In and MADI Out back 
+to the software, together 
+with the request responses 
+of the CPU. 
+ 
+Software download: http://www.rme-audio.de, Downloads, MIDI Remote 
+ 
+ 
+MIDI Remote's user interface offers lots of advanced features for an easy and intuitive every 
+day usage. Two views are available: a front-panel style surface, and a full matrix display. The 
+following screenshot shows the software in operation and in both views. 
+ 
+ 
+ 
+Software MIDI Remote in front panel view mode 
+
+ 
+ 
+20 
+User's Guide ADI-648   © RME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software MIDI Remote in matrix view mode 
+ 
+ 
+Brief description of Windows/Mac OS X Software ADI-648 MIDI Remote 
+ 
+File – Save Setup 
+All settings can be stored in a file, and reloaded at any time. This is especially useful to quickly 
+load different routings, or to access different ADI-648 with different IDs. 
+ 
+Options – Start/Stop MIDI I/O 
+Start / Stop of the MIDI communication. The current state is displayed in the title bar, showing 
+chosen ID, online / no response / offline. 
+ 
+Options – MIDI Device Select 
+Opens a dialog to select the used MIDI input and output port. 
+ 
+Options – Select Device ID 
+Opens a dialog box to select a device ID. Choosing 'All', the current device ID of the unit is ig-
+nored. The setting 'All' is not allowed when using more than one ADI-648. 
+ 
+Options – Program Device ID 
+Opens a dialog to program a device ID into the ADI-648. Note: programming is fast and not con-
+firmed. Attention: Programming is only possible when only one ADI-648 is connected via MIDI!
+
+ 
+ 
+User's Guide ADI-648   © RME 
+21 
+ 
+11. Special Modes 
+ 
+11.1 MADI to MADI Converter 
+ 
+MADI has been used for quite some time now and therefore not all interfaces from different 
+manufacturers are compatible with each other. An AMS Neve Logic DFC e. g. only accepts the 
+56 channel input format and when a 64 channel signal is applied, the whole input is muted. 
+There exist lots of other but similar examples. 
+ 
+The ADI-648 can serve here as a perfect link, because its MADI input can read any input format. 
+The ADI-648's MADI output can be set to 56 channel or 64 channel output mode by applying an 
+ADAT signal to ADAT input 8 (see also chapter 7.2). After selecting 96K FRAME there are also 
+28 or 32 channels in a 96k Frame mode. With this option, the ADI-648 can translate a double 
+wire MADI signal (2 single speed channels contain one double speed channel's data) into a sin-
+gle wire double speed signal (1 channel contains 1 channel's data at double sample rate), or 
+vice-versa. 
+ 
+Thanks to an integrated matrix router, no further cabling has to be arranged for (except for acti-
+vating or deactivating of the 64 channel mode), since all MADI input signals can be sent to the 
+MADI output directly via the router. 
+ 
+In short: the ADI-648 makes all MADI interfaces existing at the moment compatible to each oth-
+er in the easiest way. 
+ 
+ 
+11.2 ADAT Patchbay and Splitter 
+ 
+The integrated Matrix Router makes the ADI-648 also an interesting 8 port ADAT patchbay. No 
+matter if different devices are to be connected with each other, or one ADAT signal has to be 
+sent to multiple ADAT receivers, the ADI-648 can achieve this by simply pushing a button. 
+ 
+When the MADI input and output are connected directly (loopback), the user can easily switch 
+between a 1:1 connection and a freely defined router/splitter setting. 
+ 
+ 
+11.3 MADI Coaxial / Optical Converter 
+ 
+The integrated Matrix Router allows to send the MADI signals from the MADI input directly to the 
+MADI output. As the ADI-648 supports both coaxial and optical format, it can be used as either 
+coaxial to optical or optical to coaxial format converter. Thanks to a completely newly generated 
+signal, jitter suppression by SteadyClock, and a reclocking of the MADI output signal, the ADI-
+648 truly represents a hi-end format converter. 
+ 
+For such a simple application, the ADI-648 seems to be highly over-qualified. But seeing the 
+very high prices (but not better quality) of dedicated format converters, we could not resist to 
+point out this ADI-648 capability. 
+ 
+ 
+11.4 MADI Merger 
+ 
+Another very interesting application, else only possible by using very special and expensive de-
+vices, becomes reality when using more than one ADI-648: combining the audio channels of 
+multiple MADI sources into one single MADI wire. The need for this application arises quite of-
+ten, because many devices don't make use of the full channel count. Often only 32 or 40 chan-
+nels are used. A HDSPe MADI card allows to record 64 channels simultaneously into a comput-
+er. To also use the remaining channels, further channels have to be added to the original MADI 
+signal. Two examples will show how the ADI-648 can handle this task with ease. 
+
+ 
+ 
+22 
+User's Guide ADI-648   © RME 
+ 
+Example 1: A mixing desk sends 48 channels via MADI. 16 more channels from two RME Oc-
+taMic-D (8-channel microphone preamps with ADAT output) shall be recorded by a HDSP MADI 
+into a computer. This application requires only one ADI-648, which has to be inserted into the 
+MADI line. The Routing Matrix is used to loop channels 1 to 48 from MADI input to MADI output 
+(groups 1 to 6). The two OctaMic-D will be connected to the ADAT inputs 7 and 8, which not only 
+guarantee best overview, but also automatically activate the 64-channel mode. The Routing 
+Matrix is now set up to send the ADAT input channels 49 to 64 (group 7 and 8) to channels 49 to 
+64 (group 7 and 8) of the MADI output. Now the ADI-648's MADI output signal includes both the 
+original MADI input channels 1 to 48, and the audio signals of both OctaMics (on channels 49 to 
+64). 
+ 
+Example 2: The signals of two MADI devices shall be united to a single MADI stream. This can 
+be handy, because it requires only one MADI cable for transmission. It can also be a require-
+ment, because the receiving device may have only one input… 
+ 
+The number of ADI-648s necessary is identical to the number of MADI signal sources, so it's two 
+for this example. The first ADI-648 serves as MADI to ADAT converter. Its ADAT outputs are 
+connected with the ADAT inputs of the second ADI-648. The second ADI-648 is used as de-
+scribed in example 1, sending the MADI input signal directly to the MADI output. At the same 
+time, the unit fills the unused MADI channels at its MADI output with the audio signals from the 
+ADAT inputs. 
+ 
+ 
+The block diagram 
+shows cabling and 
+signal flow of such 
+an application. 
+ 
+At the bottom, the 
+setting of the sec-
+ond 
+unit's 
+Matrix 
+Router is shown. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.5 MADInet 
+ 
+MADI is much more flexible and powerful as commonly known. To better make clear what MADI 
+really is – a kind of audio network – we introduced the term MADInet. The main point to know is 
+that the MADI input signal is completely rebuild before it is sent to the MADI output. A clock with 
+active jitter suppression (like SteadyClock) provided, numerous ADI-648 can be daisy chained. 
+The input signal can be passed on in different ways using the matrix router. And when build as 
+ring loop, audio can even be sent back from all ADI-648 to the first device. The specified length 
+of BNC cable connections is multiplied by the number of used ADI-648, as each device resends 
+the MADI signal as a newly generated original. 
+ 
+A real world example: Imagine a theme park, where different audio is needed at 20 places far 
+away from each other. The audio material is send from a computer, playing back 20 different 
+stereo tracks via a HDSP MADI. The card is connected via BNC to the first ADI-648. This one 
+(like all others) is set up to pass all incoming audio 1:1 to its MADI output, so that the audio is 
+sent directly to the next ADI-648. At the same time the audio is available at each unit using the 
+ADAT optical outputs. The distance between the units is more than 50 meters. The last ADI-648 
+is connected with the HDSP MADI again, as each ADI-648 can also be used to insert signals 
+into the loop (for example surveillance microphones). MIDI transmission included. 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+23 
+ 
+! 
+12. Technical Background 
+ 
+12.1 DS - Double Speed 
+ 
+When activating the 96k FRAME, the MADI output of the ADI-648 operates at double sample 
+rate. The internal clock 44.1 kHz turns to 88.2 kHz, 48 kHz to 96 kHz. The internal resolution is 
+still 24 bit. 
+ 
+Sample rates above 48 kHz were not always taken for granted, and are still not widely used be-
+cause of the CD format (44.1 kHz) dominating everything. Before 1998 there were no receiv-
+er/transmitter circuits available that could receive or transmit more than 48 kHz. Therefore a 
+work-around was used: instead of two channels, one AES line only carries one channel, of which 
+the odd and even samples are being distributed to the former left and right channels. By this, 
+you get the double amount of data, i. e. also double sample rate. Of course in order to transmit a 
+stereo signal two AES/EBU ports are necessary then. 
+ 
+This transmission mode is being called Double Wire in the professional studio world, and is also 
+known as S/MUX in connection with the ADAT format. 
+ 
+Not before February 1998, Crystal shipped the first 'single wire' receiver/transmitters that could 
+also work with double sample rate. It was then possible to transmit two channels of 96 kHz data 
+via one AES/EBU port. 
+ 
+But Double Wire is still far from being dead. On one hand, there are still many devices which 
+can't handle more than 48 kHz, e. g. digital tape recorders. But also other common interfaces 
+like ADAT or TDIF are still using this technique. 
+ 
+Because the ADAT interface does not allow for sampling frequencies above 48 kHz (a limitation 
+of the interface hardware), the ADI-648 automatically uses the described Sample Split method in 
+DS mode. One channel's data is distributed to two channels according to the following table: 
+ 
+Original 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+DS Signal 
+Port 
+1/2 
+1 
+3/4 
+1 
+5/6 
+1 
+7/8 
+1 
+1/2 
+2 
+3/4 
+2 
+5/6 
+2 
+7/8 
+2 
+ 
+As the transmission of double rate signals is done at standard sample rate (Single Speed) the 
+word clock output still delivers 44.1 kHz or 48 kHz. 
+ 
+Nearly all devices with ADAT and TDIF ports generate a Single Speed word clock, because 
+their ADAT and TDIF interfaces work in the same mode. At 96 kHz sample rate, the used 
+word clock will be no higher than 48 kHz. 
+ 
+Therefore the word clock output of the ADI-648 also will be no higher than 48 kHz. In case a true 
+Double Speed word clock is needed (88.2 or 96 kHz), press the key 96k FRAME several times, 
+until the LED WCK is lit. 
+ 
+ 
+12.2 QS – Quad Speed 
+ 
+Due to the small number of available devices that use sample rates up to 192 kHz, but even 
+more due to a missing real world application (CD...), Quad Speed has had no broad success so 
+far. An implementation of the ADAT format as double S/MUX (S/MUX4) results in only two 
+channels per optical output. Therefore in Quad Speed mode the ADI-648 is limited to 2 channels 
+at the ADAT outputs. As MADI also uses the Quad Wire method at Quad Speed, only 16 chan-
+nels are available instead of 64. 
+
+ 
+ 
+24 
+User's Guide ADI-648   © RME 
+ 
+12.3 MADI Basics 
+ 
+MADI, the serial Multichannel Audio Digital Interface, has been defined already in 1989 as an 
+extension of the existing AES3 standard following several manufacturers' wish. The format also 
+known as AES/EBU, a balanced bi-phase signal, is limited to two channels. Simply put, MADI 
+contains 28 of those AES/EBU signals in serial, i. e. after one another, and the sample rate can 
+still even vary by +/-12.5%. The limit which cannot be exceeded is a data rate of 100Mbit/s. 
+ 
+Because an exact sampling frequency is used in most cases, the 64 channel mode was intro-
+duced officially in 2001. It allows for a maximum sample rate of 48 kHz + ca. 1%, corresponding 
+to 32 channels at 96 kHz, without exceeding the maximum data rate of 100 Mbit/s. The effective 
+data rate of the port is 125 Mbit/s due to additional coding. 
+ 
+Older devices understand and generate only the 56 channel format. Newer devices often work in 
+the 64 channel format, but offer still no more than 56 audio channels. The rest is being eaten up 
+by control commands for mixer settings etc.. The ADI-648 and the HDSP MADI show that this 
+can be done in a much better way, with an invisible transmission of 16 MIDI channels and the 
+MADI signal still being 100% compatible. 
+ 
+For the transmission of the MADI signal, proved methods known from network technology were 
+applied. Most people know unbalanced (coaxial) cables with 75 Ohms BNC plugs, they are not 
+expensive and easy to get. The optical interface is much more interesting due to its complete 
+galvanic separation, but for many users it is a mystery, because very few have ever dealt with 
+huge cabinets full of professional network technology. Therefore here are some explanations 
+regarding 'MADI optical'. 
+ 
+ 
+The cables used are standard in computer network technology. They are thus not at all ex-
+pensive, but unfortunately not available in every computer store. 
+ 
+ 
+The cables have an internal fibre of only 50 or 62.5 µm diameter and a coating of 125 µm. 
+They are called network cables 62.5/125 or 50/125, the former mostly being blue and the lat-
+ter mostly being orange. Although in many cases not clearly labelled, these are always (!) 
+glass fibre cables. Plastic fibre cables (POF, plastic optical fibre) can not be manufactured in 
+such small diameters. 
+ 
+ 
+The plugs used are also an industry standard and called SC. Please don't mix them up with 
+ST connectors, which look similar to BNC connectors and are being screwed. Plugs used in 
+the past (MIC/R) were unnecessarily big and are not being used any longer. 
+ 
+ 
+The cables are available as a duplex variant (2 cables being glued together) or as a simplex 
+variant (1 cable). The ADI-648's opto-module supports both variants. 
+ 
+ 
+The transmission uses the multimode technique which supports cable lengths of up to al-
+most 2 km. Single mode allows for much longer distances, but it uses a completely different 
+fibre (8 µm). By the way, due to the wave-length of the light being used (1300 nm), the optical 
+signal is invisible to the human eye. 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+25 
+ 
+12.4 SteadyClock 
+ 
+The SteadyClock technology of the ADI-648 guarantees an excellent performance in all clock 
+modes. Its highly efficient jitter suppression refreshes and cleans up any clock signal, and pro-
+vides it as reference clock at the word clock output. 
+ 
+Usually a clock section consists of an analog PLL for external synchronization and several 
+quartz oscillators for internal synchronisation. SteadyClock requires a single quartz, using a fre-
+quency not equalling digital audio. Latest circuit designs like hi-speed digital synthesizer, digital 
+PLL, 200 MHz sample rate and analog filtering allow RME to realize a completely newly devel-
+oped clock technology, right within the FPGA at lowest costs. The clock's performance exceeds 
+even professional expectations. Despite its remarkable features, SteadyClock reacts quite fast 
+compared to other techniques. It locks in fractions of a second to the input signal, follows even 
+extreme vari-pitch changes with phase accuracy, and locks directly within a range of 25 kHz up 
+to 100 kHz. 
+ 
+SteadyClock has originally been devel-
+oped to gain a stable and clean clock 
+from the heavily jittery MADI data sig-
+nal. The embedded MADI clock suffers 
+from about 80 ns jitter, caused by the 
+time resolution of 125 MHz within the 
+format. Common jitter values for other 
+devices are 5 ns, while a very good 
+clock will have less than 2 ns. 
+ 
+The picture to the right shows the MADI 
+input signal with 80 ns of jitter (top 
+graph, yellow). Thanks to SteadyClock 
+this signal turns into a clock with less 
+than 2 ns jitter (lower graph, blue). 
+ 
+ 
+Using the other inputs sources of the 
+ADI-648, word clock and ADAT, you'll 
+most probably never experience such 
+high jitter values. But SteadyClock is 
+not only ready for them, it would handle 
+them just on the fly. 
+ 
+The screenshot to the right shows an 
+extremely jittery word clock signal of 
+about 50 ns jitter (top graph, yellow). 
+Again SteadyClock provides an ex-
+treme clean-up. The filtered clock 
+shows less than 2 ns jitter (lower graph, 
+blue). 
+ 
+ 
+The cleaned and jitter-freed signal can be used as reference clock for any application, without 
+any problem. The signal processed by SteadyClock is of course not only used internally, but also 
+available at the ADI-648's word clock output. It is also used to clock the digital outputs MADI and 
+ADAT. 
+
+ 
+ 
+26 
+User's Guide ADI-648   © RME 
+ 
+13. Controls and Connectors 
+ 
+ 
+Front Left Part 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Front Right Part 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power 
+Rear 
+Matrix Router 
+Signal source 
+BNC 
+Optisch 
+Status display 
+Error 
+Sync 
+Audio 
+Matrix Router 
+On/Off 
+Input/Output 
+Select 
+Reset 
+Clock Source 
+ADAT 
+MADI 
+Clock Section 
+Status display 
+Input Sync 
+Audio 
+Clock Source 
+Input 
+Word 
+Internal 
+Internal Clock 
+44.1 / 48 kHz 
+96k Frame 
+88.2 / 96 kHz 
+Status MADI Output 
+96k Frame 
+DS word clock 
+ADAT I/O 
+MADI I/O 
+Wordclock I/O 
+MIDI I/O 
+Remote control via 
+DIN 
+MIDI 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+27 
+ 
+14. Block Diagram (excluding MIDI) 
+ 
+ 
+
+ 
+ 
+28 
+User's Guide ADI-648   © RME 
+ 
+15. MIDI Implementation Chart ADI-648 
+ 
+ 
+15.1 Basic SysEx Format 
+ 
+Value 
+Name 
+ 
+F0h 
+SysEx header 
+00h 20h 0Dh 
+MIDITEMP manufacturer ID 
+64h 
+Model ID (ADI-648) 
+00h..7Eh, 7Fh 
+Device ID. 7Fh = broadcast (all IDs) 
+mm 
+Message type 
+nn 
+Parameter number (see table 1) 
+oo 
+Data byte 
+F7h 
+EOX 
+ 
+ 
+15.2 Message Types 
+ 
+Value 
+Name 
+ 
+10h 
+Request value 
+20h 
+Set value 
+30h 
+Value response 
+ 
+ 
+Request Value 
+ 
+Format: F0 00 20 0D 64 (dev ID) 10 F7 
+ 
+This string triggers a complete dump of all value response data bytes. 
+ 
+  
+Value Response 
+ 
+After being triggered by receiving a request value command, device sends a string of all value 
+response data bytes. Message type is set to 30h. 
+ 
+ 
+Set Value 
+ 
+Sets any number of parameters. 
+nn / oo can be repeated freely. 
+ 
+ 
+15.3 MADI Input State – Redundancy Mode 
+ 
+The MADI input can be BNC or optical. When the ADI-648 enters Redundancy mode, it uses the 
+other input, although not chosen and signalled by the MADI input select byte. See below table.  
+ 
+MADI Input Select 
+MADI Input State 
+Actual input in use 
+0 = BNC 
+0 = normal operation 
+BNC 
+1 = Optical 
+0 = normal operation 
+Optical 
+0 = BNC 
+1 = Redundancy mode 
+Optical 
+1 = Optical 
+1 = Redundancy mode 
+BNC 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+29 
+ 
+Table 1 
+ 
+No. 
+Name 
+Request 
+Value 
+Set 
+Value 
+Value 
+Response 
+Data bytes 
+00h MADI input select 
+x 
+x 
+x 
+1 Byte, 0 = BNC, 1 = optical 
+01h MADI input state 
+x 
+ 
+x 
+1 Byte, 0 = normal operation, 
+            1 = Redundancy mode 
+02h MADI sync state 
+x 
+ 
+x 
+1 Byte, 0 = error, 1 = lock, 2 = sync 
+03h MADI audio state 
+x 
+ 
+x 
+1 Byte, see table 2 
+04h MADI audio state 
+x 
+ 
+x 
+1 Byte, see table 2 
+05h MADI 
+input 
+format 
+display 
+x 
+ 
+x 
+1 Byte, bit 0: 0 = 56ch / 1 = 64ch, 
+            bit 1: 0 = 48k frame, 1 = 96k frame 
+06h WCK input state 
+x 
+ 
+x 
+1 Byte, 0 = no lock, 1 = lock 
+10h ADAT in 1 and 2 state 
+x 
+ 
+x 
+1 Byte, see table 3 
+11h ADAT in 3 and 4 state 
+x 
+ 
+x 
+1 Byte, see table 3 
+12h ADAT in 5 and 6 state 
+x 
+ 
+x 
+1 Byte, see table 3 
+13h ADAT in 7 and 8 state 
+x 
+ 
+x 
+1 Byte, see table 3 
+14h ADAT audio state 
+x 
+ 
+x 
+1 Byte, see table 2 
+15h ADAT audio state 
+x 
+ 
+x 
+1 Byte, see table 2 
+16h 96k frame 
+x 
+x 
+x 
+1 Byte, bit 0: MADI on, bit 1: WCK on 
+20h clock source 
+x 
+x 
+x 
+1 Byte, 1 = INT 44, 2 = INT 48, 
+            3 = WCK, 4 = MADI, 5 = ADAT 
+30h matrix enable 
+x 
+x 
+x 
+1 Byte, 0 = disable, 1 = enable 
+31h matrix reset 
+ 
+x 
+ 
+1 Byte, 1 = reset 
+40h matrix output 1 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+41h matrix output 2 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+42h matrix output 3 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+43h matrix output 4 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+44h matrix output 5 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+45h matrix output 6 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+46h matrix output 7 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+47h matrix output 8 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+48h matrix output 9 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+49h matrix output 10 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Ah matrix output 11 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Bh matrix output 12 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Ch matrix output 13 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Dh matrix output 14 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Eh matrix output 15 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+4Fh matrix output 16 
+x 
+x 
+x 
+1 Byte, 0..15 = input no., 16 = no input 
+60h device ID 
+x 
+x 
+x 
+1 Byte (00h..7Eh, 7Fh = broadcast) 
+ 
+
+ 
+ 
+30 
+User's Guide ADI-648   © RME 
+ 
+Table 2 
+ 
+1st Byte bit 0 
+input 1 audio indication 
+1st Byte bit 1 
+input 2 audio indication 
+1st Byte bit 2 
+input 3 audio indication 
+1st Byte bit 3 
+input 4 audio indication 
+ 
+ 
+2nd Byte bit 0 
+input 5 audio indication 
+2nd Byte bit 1 
+input 6 audio indication 
+2nd Byte bit 2 
+input 7 audio indication 
+2nd Byte bit 3 
+input 8 audio indication 
+ 
+ 
+Table 3 
+ 
+bits 0..2 
+ADAT in 1 / 3 / 5 / 7, 0 = error, 1 = lock, 2 = sync 
+bits 4..6 
+ADAT in 2 / 4 / 6 / 8, 0 = error, 1 = lock, 2 = sync 
+ 
+ 
+
+ 
+ 
+User's Guide ADI-648   © RME 
+31 
+ 
+16. Warranty 
+ 
+Each individual ADI-648 undergoes comprehensive quality control and a complete test at IMM 
+before shipping. The usage of high grade components should guarantee a long and trouble-free 
+operation of the unit. 
+ 
+If you suspect that your product is faulty, please contact your local retailer. Do not open the de-
+vice by yourself as it may get damaged. It has been sealed with tamper-evident material, and 
+your warranty is void if those seals have been damaged. 
+ 
+Audio AG grants a limited manufacturer warranty of 6 months from the day of invoice showing 
+the date of sale. The length of the warranty period is different per country. Please contact your 
+local distributor for extended warranty information and service. Note that each country may have 
+regional specific warranty implications.  
+ 
+In any case warranty does not cover damage caused by improper installation or maltreatment - 
+replacement or repair in such cases can only be carried out at the owner's expense.  
+ 
+No warranty service is provided when the product is not returned to the local distributor in the 
+region where the product had been originally shipped. 
+ 
+Audio AG does not accept claims for damages of any kind, especially consequential damage. 
+Liability is limited to the value of the ADI-648. The general terms of business drawn up by Audio 
+AG apply at all times. 
+ 
+ 
+17. Appendix 
+ 
+RME news and further information can be found on our website: 
+ 
+http://www.rme-audio.com 
+ 
+World-wide distributor: Audio AG, Am Pfanderling 60, D-85778 Haimhausen, Tel.: (49) 08133 / 
+91810 
+ 
+Manufacturer: 
+IMM electronics GmbH, Leipziger Strasse 32, D-09648 Mittweida 
+ 
+ 
+Trademarks 
+ 
+All trademarks and registered trademarks belong to their respective owners. RME and Hammer-
+fall are registered trademarks of RME Intelligent Audio Solutions. Intelligent Clock Control (ICC), 
+SteadyClock, SyncAlign, SyncCheck and Fireface are trademarks of RME Intelligent Audio Solu-
+tions. Alesis and ADAT are registered trademarks of Alesis Corp. ADAT optical is a trademark of 
+Alesis Corp. S/MUX is copyright Sonorus. 
+ 
+Copyright  Matthias Carstens, 09/2016. Version 2.7 
+ 
+All entries in this User’s Guide have been thoroughly checked, however no guarantee for cor-
+rectness can be given. RME cannot be held responsible for any misleading or incorrect infor-
+mation provided throughout this manual. Lending or copying any part or the complete manual or 
+its contents as well as the software belonging to it is only possible with the written permission 
+from RME. RME reserves the right to change specifications at any time without notice. 
+ 
+
+ 
+ 
+32 
+User's Guide ADI-648   © RME 
+ 
+CE / FCC Compliance 
+ 
+CE 
+This device has been tested and found to comply with the limits of the European Council Di-
+rective on the approximation of the laws of the member states relating to electromagnetic com-
+patibility according to RL2004/108/EG, and European Low Voltage Directive RL2006/95/EG. 
+ 
+ 
+FCC 
+This device complies with Part 15 of the FCC Rules.  Operation is subject to the following two 
+conditions:  (1) This device may not cause harmful interference, and (2) This device must accept 
+any interference received, including interference that may cause undesired operation.  
+  
+Warning: Changes or modifications to this unit not expressly approved by the party 
+responsible for compliance could void the user's authority to operate the equipment. 
+ 
+Responsible Party in USA: 
+Synthax United States, 6600 NW 16th Street, Suite 10, Ft Lauderdale, FL 33313 
+T.:754.206.4220 
+ 
+Trade Name: RME, Model Number: ADI-648  
+ 
+ 
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of 
+the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential 
+installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in 
+accordance with the instructions, may cause harmful interference to radio communications. However, there is no guar-
+antee that interference will not occur in a particular installation. If this equipment does cause harmful interference to 
+radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to 
+try to correct the interference by one or more of the following measures: 
+ 
+- Reorient or relocate the receiving antenna. 
+ 
+- Increase the separation between the equipment and receiver. 
+ 
+- Connect the equipment into an outlet on a circuit different from that to which the receiver is connected. 
+ 
+- Consult the dealer or an experienced radio/TV technician for help. 
+ 
+ 
+RoHS 
+This product has been soldered lead-free and fulfils the requirements of the RoHS directive. 
+ 
+ 
+Note on Disposal 
+ 
+According to the guide line RL2002/96/EG (WEEE – Directive on Waste 
+Electrical and Electronic Equipment), valid for all european countries, this 
+product has to be recycled at the end of its lifetime.  
+ 
+In case a disposal of electronic waste is not possible, the recycling can also 
+be done by IMM electronics GmbH, the manufacturer of the ADI-648. 
+ 
+For this the device has to be sent free to the door to: 
+ 
+ 
+IMM electronics GmbH 
+ 
+Leipziger Straße 32 
+ 
+D-09648 Mittweida 
+ 
+Germany 
+ 
+Shipments not prepaid will be rejected and returned on the original sender's costs. 

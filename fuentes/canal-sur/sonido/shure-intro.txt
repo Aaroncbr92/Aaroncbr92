@@ -1,0 +1,580 @@
+INTRODUCTION TO 
+A Shure Educational Publication
+WIRELESS 
+MICROPHONE 
+SYSTEMS
+
+Wireless Microphone Systems
+INTRODUCTION TO WIRELESS 
+MICROPHONE SYSTEMS
+Table of Contents
+Product Glossary........................................................ 4
+Discover the components of a wireless system.
+Concept Guide............................................................ 7
+Understand the unique electronics that make wireless systems 
+work and the features that help determine the right wireless 
+options for you.
+Needs Analysis......................................................... 11
+A series of questions to assess wireless application 
+possibilities and benefits for your performance situation.
+Considerations.......................................................... 15
+Signal path, receiver and antennae placement and battery 
+information.
+Conventional wired microphones convert sound into an 
+electrical audio signal that is sent to the sound system 
+through a cable. Live music stages that are crowded with 
+cables from microphones for vocals, guitars, drums and 
+other instruments can become a snake pit of overlapping 
+wires.
+Wireless microphones convert audio signals created 
+by microphones into radio signals, which are sent by a 
+transmitter through the air to a receiver. The receiver 
+converts the radio signals back into audio signals which 
+are then sent through the sound system. They eliminate 
+the need for cables, so you’re no longer tethered to a 
+sound system or tripping through messy performing 
+environments.
+With continuous technological advances and 
+improvements in sound quality and reliability, wireless 
+microphones are more affordable and popular than ever. 
+Their potential uses go far beyond the stage. You can find 
+wireless microphones in exercise studios, schools, houses 
+of worship, presentation halls – anywhere a performer or 
+presenter wants true freedom of movement.
+SIMPLICITY
+Set up and go for it. Your stage is cleaner and your 
+mics are less intrusive, so you can concentrate on your 
+performance.
+MOBILITY
+Be even more expressive. Wireless microphones cut you 
+loose wherever you perform.
+VERSATILITY
+Multiple microphone choices, system configurations 
+and features mean wireless systems can adapt to nearly 
+anything you do and any place you go.
+NO CABLES. NO WORRIES.
+
+5
+Wireless Microphone Systems
+Wireless Microphone Systems range from simple to sophisticated. But they all include various combinations of            
+these key components:
+• Transmitters: Convert the audio signal from the microphone to a radio signal. There are two types:
+ Handheld Microphone Transmitter – Combines handheld microphone element and transmitter in one unit.
+ Bodypack Transmitter – Wearable unit with a connector that accepts microphones or guitar cables.
+• Microphones (for Bodypack Transmitters): Headworn, lavalier and instrument microphones ideal for a variety of vocal 
+and instrument applications
+• Receivers: Modules that receive radio signals sent from transmitters and convert them back to audio.
+PRODUCT GLOSSARY
+Headworn Vocal Mic
+Rugged, comfortable, easy-to-position headsets provide 
+superior voice pickup in any active user setting.
+Lavalier Vocal Mic
+A range of sizes combine low visibility with high-quality 
+professional audio. They provide full, clear sound for 
+speech applications.
+Clip-On Instrument Mic
+A versatile solution for high volume wind, brass and 
+percussion players. Gooseneck and clamp ensure 
+secure fit and positioning.
+Guitar/Bass Cable
+Connects any guitar to a Bodypack for wireless 
+performance.
+TRANSMITTING
+Two types of transmitters-handheld or bodypack – convert audio signals to radio signals 
+so they can be sent, without a cable, to a wireless receiver at the mixing console.
+Single Channel Receivers
+This is the most common type of receiver. Receivers 
+usually have XLR and ¼” audio outputs for connection 
+to a variety of devices. Units may be free standing or 
+rack-mountable and are typically AC-powered. Indicators 
+for power and signal levels may be present. Diversity 
+receivers utilize two antennas, which may be removable 
+or permanently attached.
+Multi-Channel Receivers
+This type provides two or more channels of wireless, 
+allowing multiple users to be wireless. These systems 
+generally come with various transmitter combinations.  
+Common options are dual or quad receivers.
+RECEIVING
+Wireless receivers convert RF signals sent from a Handheld Microphone Transmitter or a Bodypack 
+Transmittter back to an audio signal. They come in these receiver configurations:
+Portable Receivers
+These resemble portable transmitters externally; they 
+are characterized by small size; one or two outputs; 
+minimal controls and indicators, and are typically battery 
+powered. Portable receivers are great for mounting 
+directly to a camcorder or DSLR camera. 
+2
+1
+Handheld Microphone Transmitter
+This microphone/transmitter integrates the transmitter 
+into the microphone handle, so both functions are 
+contained in one unit. 
+Like conventional wired microphones, wireless 
+handheld vocal microphones are tailored to meet 
+diverse performance vocal requirements and musician 
+preferences. Many different choices are available.
+Bodypack Transmitter
+Lavalier, Headworn and Instrument Microphones, 
+as well as guitar cables, must plug into a Bodypack 
+Transmitter to send their audio signals. Sleek, 
+lightweight bodypacks can be easily clipped to clothing 
+or a guitar strap.
+Guitar Pedal Receiver
+This receiver type is designed with the guitarist or bass 
+player in mind.  It mounts on a pedal board, and can be 
+powered by the pedal board itself.
+
+7
+Wireless Microphone Systems
+CONCEPT GUIDE
+SETUP: VOCALS
+This wireless system setup example follows the wireless signal path for 
+common vocal system configurations using a handheld microphone.
+Application:
+Profile | Handheld
+A handheld wireless
+setup is great for
+performers who want
+a handheld vocal
+microphone that’s not
+connected to a
+bodypack transmitter.
+Ideal for:
+Vocalists
+Speakers / Presenters
+DJs
+Analog or Digital
+Analog systems utilize proven radio technology that 
+offers quality audio performance and high channel 
+count, even with entry-level systems. Digital systems 
+feature exceptionally clear audio, but potentially fewer 
+on-air channels. High-end digital systems, however, offer 
+the best of both worlds, combining superb audio with 
+the ability to use many wireless systems in crowded RF 
+environments.
+Frequency Ranges
+Every wireless microphone system transmits and 
+receives audio on a specific radio frequency, known as 
+the operating frequency. These frequencies are typically 
+divided into these bands, or ranges.
+The UHF-TV Band – Unused television channels in this 
+range are available for wireless microphones and other 
+wireless audio devices. Most cities have a significant 
+number of television stations and the largest cities 
+may also have public safety operations, but there are 
+sufficient unused television channels available for most 
+wireless users to find a clear channel. However, this 
+spectrum is becoming increasingly crowded. Users 
+may be licensed or unlicensed in the UHF Band.
+Multiple frequency range options are available throughout 
+the UHF band, and the best one to use will vary from city 
+to city. In order to determine the best range for your area, 
+you may want to consult with the manufacturer.
+The 900 MHz Range – This band (specifically, 902 – 
+928 MHz) offers additional channels outside of the TV 
+channel range. Users are allowed to operate without 
+a license in this range. There are several high quality 
+wireless microphone systems that operate in this range, 
+most of them fully digital. While 900 MHz wireless 
+microphone systems are legal to use in the United States 
+(and most of the Americas), they are not necessarily legal 
+to use in all parts of the world. Check with your local 
+regulatory agency if you are unsure. 
+The 2.4 GHz Band has attracted some interest for 
+wireless microphone use. Advantages of this band 
+are:  worldwide, license-free operation, and very short 
+antennas, but there is some potential from interference 
+from Wi-Fi devices. This band is great for users who only 
+need a few channels of wireless, but for applications 
+with many channels of wireless, the UHF-TV band may 
+be preferred. 
+Frequency Selection
+Fixed Frequency – Fixed-frequency systems are pre-set 
+to their operating frequency and cannot be changed by 
+the user. They are suitable for use in one particular area 
+or installation, but due to their limited capabilities are 
+not commonly available anymore.  
+Frequency Agile – Frequency-agile (tunable) systems 
+allow users to quickly change frequencies to avoid local 
+TV channels, other wireless users, or other interference 
+sources. Most modern wireless microphone systems 
+offer some degree of frequency agility. 
+Tips! Many newer wireless systems include easy to 
+use features, such as Scan and Sync which quickly 
+and easily sets up the system with a clear channel. 
+Some wireless manufacturers have online tools and 
+resources such as wireless frequency finders to help 
+users find the best frequency for their location.
+Using Multiple Wireless Microphones
+Each microphone needs its own frequency to operate 
+and transmit properly. So it is not possible to use two 
+wireless systems on the same frequency in the same 
+venue or to use two wireless microphones with just one 
+receiver (unless you are using a dual-channel receiver).
+The individual frequency used by each microphone 
+requires a certain amount of space within a particular 
+frequency band. When two wireless systems are used 
+together, the frequencies must be separated by some 
+minimum amount that depends on the design of the 
+system. If frequencies are set too close, microphones 
+will compete with each other, and each system will 
+experience noisy interference and/or sound dropouts.
+As more transmitters and receivers are added to a 
+particular setup, interaction between frequencies 
+increases. This interaction produces more interfering 
+frequencies that need to be avoided. More advanced 
+wireless systems offer greater frequency selection, 
+flexibility and the ability to combine more receivers 
+and transmitters to serve more users. Many of these 
+systems offer pre-configured groups of compatible 
+frequencies to accommodate multiple users, as well 
+as software that can scan for the clearest frequencies 
+in any one particular location.
+These technical and operating concepts help define how a wireless microphone system functions and which is best 
+suited to a specific application.
+Singer
+Visit the Shure Wireless Frequency Finder for the most up to date 
+frequencies for Shure Wireless System use in the United States. 
+http://www.shure.com/americas/support/tools/wireless-frequency-finder
+
+9
+Wireless Microphone Systems
+Polar Pattern
+A polar pattern is the graphic representation of a 
+microphone’s directional sensitivity, which is how a 
+microphone picks up sound from different directions. 
+These are the three most common polar patterns:
+CARDIOID
+These patterns pick up the most sound from in front of 
+the microphone and some from the sides They are less 
+susceptible to feedback in loud environments.
+SUPERCARDIOID
+These are tighter patterns that help screen unwanted 
+sound sources. They are perfect for individual instruments 
+in a multi-instrument setting or single sources in noisy 
+environments. They also provide the best rejection of 
+feedback when used with floor wedge monitor speakers.
+OMNIDIRECTIONAL
+Omnidirectional polar patterns are equally sensitive to 
+sound from all directions. These are most often found in 
+lavalier microphones.
+Operating Principles
+How a microphone changes sound into an electrical 
+signal. This is determined by the type of Transducer 
+inside the microphone. The two most common types are:
+DYNAMIC
+These are workhorse microphone elements with great 
+sound that stand up to rugged regular use. They are also 
+generally more affordable options.
+CONDENSER
+These produce a crisper, more defined sound and are 
+better at capturing subtle details of delicate voices and 
+instruments. They also require power to operate, which is 
+supplied by the battery in a handheld wireless transmitter.
+Application:
+Profile | Lavalier
+A lavalier microphone
+and bodypack transmitter
+setup can work for any
+presenter or performer.
+Application:
+Profile | Headworn
+For situations where
+performers or presenters
+work with louder sound
+systems or use stage
+monitor speakers, a
+headworn microphone is
+a more effective choice.
+Ideal for:
+Speakers / Presenters
+Worship Leaders
+Theater Stage Actors
+SETUP: PRESENTER
+This wireless system setup example follows the wireless signal path 
+for common vocal system configurations using a lavalier microphone.
+Microphone Basics
+There’s more to a microphone than its shape. While invisible from the outside of a microphone, these two fundamental 
+operating principles can help fine tune the selection of the right microphone for your wireless system application.
+CONCEPT GUIDE
+Wireless Receiver
+Lavalier
+Bodypack
+Transmitter
+Signal
+transmitted
+to Receiver
+Presenter
+
+11
+Wireless Microphone Systems
+Application
+Configuration
+Vocalist
+Handheld Microphone /	 	
+      
+Transmitter
+Singing Dancer
+Singing Keyboardist 
+Singing Drummer   
+Fitness Instructor
+Dance Instructor
+Headworn Mic +
+Bodypack Transmitter
+Presenter
+Worship Leader
+Stage Actors
+Lavalier Mic +
+Bodypack Transmitter
+OR
+Headworn Mic +
+Bodypack Transmitter
+Horn | Percussion
+Clip-On Mic +
+Bodypack Transmitter
+Guitar | Bass
+Instrument Cable +	
+	
+	
+Bodypack Transmitter
+Application:
+Profile | Guitar
+A wireless guitar setup
+helps guitarists move
+freely anywhere
+onstage. 
+Ideal for:
+Electric Guitarists
+Acoustic Guitarists
+Bass Guitarists
+SETUP: GUITAR
+This wireless system setup example follows the wireless 
+signal path for common instrument system configurations.
+NEEDS ANALYSIS
+Microphone Configurations
+Wireless system microphone and transmitter choices afford presenters and performers great flexibility in matching an 
+application to a wireless configuration.
+Would your performance benefit from a 
+particular microphone design profile?
+Your usage application is only one key factor in 
+choosing a wireless microphone. Also consider the 
+microphone transducer design and polar pattern. 
+These greatly impact how any wireless microphone 
+reproduces your live sound.
+For example, if you are a vocalist who performs onstage with loud monitors, you might want a handheld 
+transmitter with a tight supercardioid polar pattern to 
+minimize feedback.
+If you tend to sing softly, a condenser microphone will 
+more smoothly capture the subtleties and details of 
+your voice.
+What type of microphone / transmitter 
+configuration best fits your performance needs?
+Bodypack
+Transmitter
+Guitar Cable links
+to Bodypack
+Signal
+transmitted
+to Receiver
+Guitarist
+Guitar Pedal Receiver
+1
+2
+
+13
+Wireless Microphone Systems
+NEEDS ANALYSIS
+System Configurations
+Different transmitter and receiver options in every wireless system are also designed to respond to the special needs of 
+different user applications.
+Where do you intend to use your wireless 
+system? One location? Many locations?
+ONE LOCATION
+If you intend to use the wireless system in one location, 
+you simply need to make sure that you select a system 
+that operates on frequencies compatible with your 
+location’s available UHF broadcast TV channels, or 
+operate on unlicensed frequencies.
+MULTIPLE LOCATIONS
+If you intend to use the wireless system in different 
+cities, you will probably encounter different active TV 
+channels. A frequency-agile wireless system lets you 
+change frequencies to adapt to changing situations 
+as you travel. Choose a system with Scan and Sync 
+features, which will quickly and easily set up the 
+system on a clear channel.
+INTERNATIONAL LOCATIONS
+The 2.4 GHz Band can be used internationally with no 
+license requirement.
+How many wireless systems will be in use at 
+the time and location?
+ONE SYSTEM
+If you are operating a single wireless system in a 
+location where there are no other wireless systems in 
+use, you will not have any special multisystem needs to 
+manage.
+MULTIPLE SYSTEMS
+If you operate more than one wireless system and move 
+from venue to venue, it is usually more convenient to 
+mount receivers in a small rack case. Some wireless 
+systems allow two receivers to mount together in one 
+rack space. These can be used with an antenna splitter 
+that feeds one “master” pair of antennas to serve all 
+receivers. 
+There is a limit to the number of wireless systems 
+that can be used in one location. Each system must 
+transmit on its own frequency. And those frequencies 
+must be selected carefully to prevent interference. 
+Better wireless systems allow for more units to be 
+operated at the same time without interference. 
+Consult with the manufacturer for advice on ensuring 
+multisystem operation.
+Application:
+Profile | Clip-On
+A small, clip-on
+instrument
+microphone and
+Bodypack Transmitter
+is a great wireless
+solution for many
+acoustic instruments.
+Ideal for:
+Brass
+Woodwind
+Percussion
+SETUP: INSTRUMENT
+This wireless system setup example follows the wireless 
+signal path for common instrument system configurations.
+Wireless Receiver
+Clip-On
+Mic
+Signal
+transmitted
+to Receiver
+Bodypack
+Transmitter
+Instrument
+Saxaphone
+3
+4
+
+15
+Wireless Microphone Systems
+CONSIDERATIONS
+RF SIGNALS
+Signal path from transmitter to receiver
+The signal path and signal strength between transmitter 
+and receiver is affected not only by distance, but also 
+by obstructions. Each installation location presents its 
+own challenges.
+Maintain line-of-sight between the transmitter and 
+receiver antennas as much as possible. Avoid metal 
+objects, walls, and large numbers of people between 
+the receiving antenna and its associated transmitter. 
+Ideally, this means that receiving antennas should be in 
+the same room as the transmitters and elevated above 
+the audience or other obstructions.
+Receiver and antenna placement
+PLACE THE RECEIVER PROPERLY
+Receivers are subject to interference from external 
+sources that emit radio frequencies. Where possible, 
+keep receivers a few feet (or rack spaces) away from CD 
+players, cell phones, digital special-effects units, and 
+lighting boards, and other such devices.
+POSITION ANTENNAS PROPERLY
+Ideally, antennas should be positioned above an 
+audience or other obstructions so that the transmitter 
+and receiver can “see” one another. When receivers are 
+mounted in a rack, antennas must be located on the 
+front panel or allowed to project through the top of the 
+rack. Antennas should be oriented vertically or angled 
+apart to maximize the distance between antenna tips.
+POWER
+Batteries
+Unlike most wired microphones, all wireless mic 
+transmitters require batteries. As a result, batteries are 
+an important and constant replacement part. If you 
+are using non-rechargeable batteries, alkaline batteries 
+offer the longest life for wireless applications. Off the 
+shelf rechargeable batteries, such as nickel-cadmium 
+or nickel-metal hydride, though an economical choice, 
+typically last less than three hours before recharging is 
+necessary. This short runtime makes them undesirable 
+for most performers. 
+Some manufacturers offer proprietary rechargeable 
+batteries that utilize more advanced technology, such 
+as lithium-ion, that will provide continuous usage that 
+often surpasses that of alkaline batteries.
+Application:
+Profile | Headworn
+For situations where
+performers or presenters
+work with louder sound
+systems or use stage
+monitor speakers, a
+headworn microphone is
+a more effective choice.
+Ideal for:
+Fitness / Dance
+Instructors
+Singing Dancers or
+Instrumentalists (such
+as drummers and
+keyboardists)
+SETUP: HEADWORN
+This wireless system setup example follows the wireless signal path 
+for common vocal system configurations using a headworn microphone.
+Wireless Receiver
+Headworn
+Mic
+Bodypack
+Transmitter
+Signal
+transmitted
+to Receiver
+Instructor
+
+LEARN MORE
+Wireless Microphone Systems: Selection & Operation Guide
+This booklet provides greater technical detail about specific wireless microphone systems, 
+components, frequency selection, usage applications, setup suggestions and system expansion.
+You can download a PDF of this guide at: 
+http://www.shure.com/americas/support/downloads/publications
+www.shure.com
+Asia, Pacific:
+Shure Asia Limited
+22/F, 625 King’s Road
+North Point, Island East
+Hong Kong
+Phone: +852-2893-4290
+Fax: +852-2893-4055
+Email: info@shure.com.hk
+www.shureasia.com
+United States, Canada, 
+Latin America, Caribbean:
+Shure Incorporated
+5800 West Touhy Avenue
+Niles, IL 60714-4608 USA
+Phone: +1 847-600-2000
+Fax: +1 847-600-1212 (USA)
+Fax: +1 847-600-6446
+Email: info@shure.com
+www.shure.com
+©2014 Shure Incorporated
+Europe, Middle East, Africa:
+Shure Europe GmbH
+Jakob-Dieffenbacher-Str. 12,
+75031 Eppingen, Germany
+Phone: +49-7262-92490
+Fax: +49-7262-9249114
+Email: info@shure.de
+www.shure.eu
+Additional Shure educational publications available:
+Audio Systems Guide for Houses of Worship
+Audio Systems Guide for Video Production
+Personal Monitor Systems | Introduction Guide
+Mic Techniques for Music–Sound Reinforcement
+Mic Techniques for Music–Recording
+Introduction: Home Recording and Podcasting
+AL27274          11/2014

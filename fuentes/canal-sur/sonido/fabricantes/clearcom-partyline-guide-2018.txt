@@ -1,0 +1,3437 @@
+A Comprehensive Guide to Clear-Com 
+Analog and Digital Partyline Systems
+
+ 
+Introduction & Acknowledgments 
+ 
+ 
+Clear-Com’s original development of Partyline intercom effectively created the 
+platform to coordinate live performance technical teams as now we know it. As part 
+of our 50th anniversary, it is an appropriate time to document our Partyline 
+communications platform—both analog and digital formats in this Reference Guide. I 
+use the word “platform” in a very intentional way, as this Guide explains the 
+technology in general terms and comprehensively covers the Partyline concept, as 
+opposed to how it is handed in the specific manuals of a particular product. 
+ 
+Many sources were mined for creating this Reference Guide, including the Clear-Com 
+Analog Partyline Intercom Installation Manual for written in 1988 and revised in 1997, 
+scores of product manuals and technical training materials amassed over decades, 
+and the Clear-Com ‘Solution Finder’ which resides on our website. New to this Guide 
+is the inclusion of the HelixNet Digital Network Partyline, with the purpose of offering 
+the same kind of broad understanding of how the two platforms may fit together for 
+providing a single working solution. A critical aspect of this work includes 
+documenting contemporary wiring standards and their impact on the deployment of 
+our solutions. 
+ 
+Given Clear-Com’s broad history in Partyline intercom, many people have contributed 
+to this body of work, but two people must be recognized by name. First and foremost: 
+Charles ‘Charlie’ Butten – creator of analog Partyline ‘Clear-Com’ technology and 
+a continual inspiration for all intercom specialists. Charlie’s contributions to ClearCom can’t be overstated. A close reading of this Guide reveals exceptionally 
+thoughtful and effective design choices made over the years by Charlie to meet the 
+market’s changing needs. Secondly, we tip our hats to Vinnie Macri – our resident 
+expert in audio and intercom applications. Vinnie took on the challenge of compiling 
+disparate information and converting it into the key professional intercom resource 
+you are now holding. Vinnie has been a passionate champion of Partyline technology 
+for years. I extend my deepest appreciation to both for their efforts. 
+ 
+Finally, allow me to dedicate this to the entire Clear-Com community: staff and 
+alumni, Partners, consultants, users, and supporters. Today Clear-Com has become 
+the de facto intercom provider across many markets, all thanks to our combined 
+passion for communications and our striving to help solve simple to complex 
+communications needs. I consider it an honor to lead a company with such deeplyengaged and committed folks comprising our ‘Clear-Com family.’ It is only fitting that 
+this be dedicated to them. 
+ 
+ 
+Bob Boster 
+President – Clear-Com, an HME Company 
+February 2018 
+
+ 
+
+ 
+ 
+Table of Contents 
+1 
+Clear-Com Analog Partyline Systems .......................................................... 1 
+1.1 
+Introduction to Analog Partyline Intercoms ................................................................................. 1 
+1.2 
+System Components and Their Function ...................................................................................... 2 
+1.3 
+Power Distribution and Short Circuit Protection .......................................................................... 4 
+1.3.1 
+Electrical Isolation for Partyline Intercom Systems .............................................................. 6 
+1.3.2 
+Termination of the Intercom Line ......................................................................................... 7 
+1.3.3 
+Check Termination ................................................................................................................ 8 
+1.4 
+Stations ......................................................................................................................................... 9 
+1.4.1 
+Main Stations ........................................................................................................................ 9 
+1.4.2 
+Beltpack Headset User Station Functional Description ...................................................... 10 
+1.4.3 
+Speaker & Remote User Station Functional Description .................................................... 12 
+1.4.4 
+About Headsets and Microphones for Analog PL ............................................................... 14 
+1.5 
+Source Assignment ...................................................................................................................... 16 
+1.6 
+Interfacing to Partyline ............................................................................................................... 16 
+2 
+General Analog PL Cable Considerations .................................................... 23 
+2.1 
+Cable Installation influences on Cross-Talk ................................................................................ 24 
+2.2 
+Cross-Talk Considerations in a Multi-Channel System................................................................ 25 
+2.3 
+Crosstalk Through a Mutual Capacitance of Two Conductors .................................................... 25 
+2.4 
+Rule of Thumb for Voltage Drop ................................................................................................. 27 
+3 
+Clear-Com digital PartyLine Systems ......................................................... 30 
+3.1 
+Introduction to Digital Partyline ................................................................................................. 30 
+3.2 
+History ......................................................................................................................................... 31 
+3.3 
+Stations ....................................................................................................................................... 31 
+3.3.1 
+HMS-4X ............................................................................................................................... 32 
+3.3.2 
+HRM-4X HelixNet Digital Intercom Four-Channel Remote Station ..................................... 40 
+3.3.3 
+HKB-2X HelixNet Digital Intercom Four-Channel Wall or Desktop Speaker Station ........... 41 
+3.4 
+HelixNet Audio Interface Modules .............................................................................................. 42 
+3.4.1 
+HLI-2W2 Two-Wire Interface Module ................................................................................. 43 
+
+3.4.2 
+HLI-4W2 Four-Wire Interface Module ................................................................................ 44 
+4 
+Networking and Digital Partyline Systems .................................................. 45 
+4.1 
+Application Background .............................................................................................................. 45 
+4.2 
+HLI-ET2 Ethernet Interface Module ............................................................................................ 46 
+4.3 
+HLI-FBS Fiber Interface Module .................................................................................................. 47 
+4.4 
+Network Considerations ............................................................................................................. 47 
+5 
+Digital & Analog Partyline Intercom Cabling Comparison .............................. 52 
+5.1 
+Overview ..................................................................................................................................... 52 
+5.2 
+Background ................................................................................................................................. 52 
+5.3 
+Power Limits ................................................................................................................................ 53 
+5.3.1 
+Analog Partyline .................................................................................................................. 53 
+5.3.2 
+Digital Partyline ................................................................................................................... 54 
+5.4 
+Data Limits .................................................................................................................................. 55 
+5.4.1 
+Analog Partyline .................................................................................................................. 55 
+5.4.2 
+Digital Partyline ................................................................................................................... 56 
+5.5 
+Conclusions ................................................................................................................................. 58 
+5.6 
+Notes on HelixNet Powerline and Patch Bays and Mult Boxes .................................................. 59 
+5.7 
+Recommended Wire chart for all PL ........................................................................................... 61 
+6 
+Glossary ................................................................................................ 62 
+7 
+Key Networking Terms ............................................................................ 71 
+ 
+
+1 
+ 
+ 
+1 CLEAR-COM ANALOG PARTYLINE SYSTEMS 
+1.1 Introduction to Analog Partyline Intercoms 
+Technically speaking, an analog partyline intercom, also commonly referred to as a 
+2-wire system, is a communications system where the path is the same for both talk 
+and listen. The name “partyline” (PL) came from the original telephone systems 
+where more than one subscriber shared the same line and could hear and join all 
+conversations at once. Therefore, partyline intercoms are always full-duplex and are 
+commonly non-private. As a group communications tool, a partyline allows a group 
+of people with similar workflow roles to intercommunicate all the time. An example 
+in broadcast would be camera operators on a camera PL, or in live performance it 
+may be stage hands. Most users only converse on one or two channels, receiving 
+cues and talking within their own group. 
+ 
+“Clear-Com” as a company name was synonymous with its analog partyline system 
+for most of the 50 years of its history. Clear-Com is a closed-circuit intercom system 
+that consistently provides high-clarity communication in both high-noise and lownoise environments. A basic system consists of a single- or multi-channel Main 
+Station (e.g. MS-702), or Power Supply (e.g. PS-702) connected to various single- 
+or multi-channel Remote Stations, such as beltpacks (e.g. RS-701/RS-702) and 
+loudspeaker stations (e.g. KB-702). 
+ 
+Clear-Com is a distributed amplifier system; each Main or Remote Station houses its 
+own microphone preamplifier, headphone or speaker power amplifier, and signaling 
+circuitry. Stations bridge the intercom line at a very high impedance (more than 
+10kΩ) and place a minimum load on the line. The audio level always remains 
+constant, and does not fluctuate as stations leave and join the system. Lowimpedance mic input lines (200Ω) and specially designed circuitry make Clear-Com 
+channels highly resistant to RFI and dimmer noise. 
+ 
+Clear-Com stations are interconnected with two-conductor, shielded microphone 
+cable (or individually shielded multi-pair cable as required). Portable stations are 
+interconnected with 2 conductor shielded cables with 3-pin XLR connectors. One wire, 
+connected to pin 2, carries the DC power (30 Volts, i.e.±15V) from a Main Station or 
+Power Supply to all Remote Stations. The other wire, connected to pin 3, carries the 
+2-way (duplex) audio information. The shield, connected to pin 1, acts as a common 
+ground. See Figure 1. 
+ 
+It is worth noting that every intercom circuit starts out as a 4-wire circuit; i.e., 
+headset earphone/microphone, or separate microphone/loudspeaker. 
+ 
+
+2 
+ 
+ 
+ 
+Figure 1: The wiring configurations of Clear-Com wired PL systems 
+ 
+Clear-Com Main Stations, Power Supplies and certain Remote Stations each have an 
+auxiliary program input with its own volume control, which allows an external, listenonly audio source to be fed to the intercom system or local user. 
+ 
+Call lights are very useful to augment communications in high noise environments, 
+backstage/green room signaling, in theatrical under stage areas, and for various 
+industrial applications and most often to attract the attention of operators who have 
+removed their headsets. Visual Signal Circuitry (Call Lights) is a standard feature on 
+all analog Main stations and user Stations. Clear-Com uses a DC voltage to activate 
+call lights. 
+ 
+Certain stations also have an audible Tone Alert feature which can be useful for this 
+purpose. Outboard signal-only devices, (flashers with beeper) are also available that 
+provide visual and/or audible call signal indication whenever a call signal is present 
+on the intercom line. These devices are wired directly in-line to the party-line 
+intercom channel. 
+ 
+Almost all user stations have Sidetone Control. Sidetone is the level of your own voice 
+you hear while talking on the intercom. Setting a comfortable level of sidetone will 
+ensure that the intercom sounds alive and helps you modulate your voice relative to 
+other voices on the line. Typically, different sidetone null settings are needed 
+depending upon whether you are using the loudspeaker. Sidetone is used for both 
+confidence (that you are sending signal) and a warning (that you are ON). 
+ 
+Clear-Com manufactures a wide variety of both portable and fixed-installation units 
+and are designed to interface with other communication systems and devices. 
+ 
+1.2 System Components and Their Function 
+Most analog partyline intercom ‘systems’ consist of power supplies (or Main Stations), 
+user 
+stations 
+(e.g. 
+beltpacks, 
+speaker 
+stations, 
+remote 
+stations, 
+etc.), 
+interconnecting cable, headsets, panel microphones or push-to-talk microphones. 
+ 
+The power supply (which is normally centralized) generates the DC power for the 
+entire system (except for self-powered user stations). The Clear-Com power supply 
+
+3 
+ 
+includes 200 Ohm(Ω) system termination for the audio channel. The user station 
+connects to the power supply and intercom line. A person connects to the user station 
+via a headset or loudspeaker and microphone or some combination. For a given 
+channel or channels the user stations are connected to each other in parallel. The 
+interconnecting cable for most intercoms is standard shielded microphone cable with 
+three pin XLR type connectors. The female XLR connects towards the power supply 
+and the male XLR plugs into the user station. This connector scheme was chosen to 
+prevent putting DC power onto audio microphones which also use this type cable. 
+One exception to the use of microphone cable is where a twisted pair is the only 
+connection between two points.  
+ 
+Wired analog partyline intercoms are mostly of the distributed amplifier kind. The 
+distributed amplifier is built into the various user stations. The distributed amplifier 
+concept allows each user to adjust their own listening level. The user station also 
+includes a microphone amplifier, a line amplifier/buffer, volume control(s), talk 
+switch(es).  
+ 
+ 
+ 
+Figure 2: Clear-Com System Conceptuals 
+ 
+Simple Clear-Com Loop-Thru Concept using Single Twisted Pair Shielded  Cable
+4 Channel Clear-Com Concept using Single Twisted Pair Shielded  Cable
+User Station
+User Station
+User Station
+User Station
+Power Supply
+Main Station
+Other User Station
+User Station
+User Station
+User Station
+User Station
+Power Supply
+Main Station
+A
+B
+C
+D
+B/C
+A/B/C/D
+B
+B
+C
+User Station
+
+4 
+ 
+1.3 Power Distribution and Short Circuit Protection 
+A Main Station or Power Supply is the heart of an intercom system. It has special 
+features which are not found in traditional designs. It must supply low-noise 30 Volts 
+DC to multiple intercom lines. It must continue to operate in adverse conditions such 
+as low AC line voltage, momentary shorts on the DC power lines to the stations, and 
+excessive peak loads during power-on conditions. 
+ 
+The power supply or Main Station generates the DC power (typically 28–30 VDC), for 
+the entire system. In analog partyline systems the DC voltage is applied to the XLR3 
+pin-2 audio conductor.  
+ 
+The question of how many Speaker Stations and Beltpacks can be powered in varying 
+combinations by a Main Station or Power Supply is dependent on many factors, most 
+significantly the type of cable, its construction and electrical characteristics and how 
+much of it is being used. Refer to Section 5 Digital & Analog Partyline Intercom 
+Cabling Comparison for a more detailed explanation. 
+ 
+Additional power supplies can be connected for additional power capability if required 
+by the application. The current draw requirements of Clear-Com Remote Stations and 
+Beltpacks vary with model and use. A station which is simply "on" and not being used 
+may draw only a small amount of current. 
+ 
+The total current capability of a Main Station or Power Supply is split between its 
+channels. Short circuits and overloads on either channel will not damage a Main 
+Station or Power Supply. It will simply cut power off to each channel which exceeds 
+its maximum current or which causes the system maximum to be exceeded. 
+ 
+Clear-Com’s fail-safe design automatically shuts down the power to a channel when 
+a short circuit or electronic overload is sensed on that channel. The other channel will 
+continue to operate normally. Once the fault condition is removed, the fail-safe circuit 
+will restore power, even under full load conditions. LED indicators signal a short or 
+overload on either channel. 
+ 
+The DC power output details for Power Supplies/Main Stations are: 
+• 
+1.2A (Amperes) continuous output 
+• 
+2A (Amperes) peak output (not exceeding the 1.2A rating for more than 2 seconds 
+per 1-minute period) 
+ 
+The station internal power supply senses the difference between short-term and longterm shorts and overload conditions. Figure 3 shows that after the first few times a 
+short or overload occurs, the power supply will try to restore power after only 0.5 
+seconds. If the short or overload persists or occurs repeatedly, the power supply will 
+take progressively longer (to a maximum of 20 seconds) to try to restore power. This 
+protects the power supply from damage due to overheating. Once the short is 
+removed, the channel will recover, even under a full load condition. The automatic 
+power restore times are shown in the following chart (Figure 3): 
+ 
+
+5 
+ 
+ 
+ 
+ 
+Figure 3: Automatic Power Restore Times 
+ 
+A channel which is within its maximum current rating will not be affected by another 
+channel being automatically cut. Within 15 seconds of automatically cutting power to 
+an overloaded channel, the Main Station or Power Supply will attempt to turn power 
+on again. This allows momentary short or overload conditions to clear automatically. 
+Red Short LEDs corresponding to each channel light if power is cut, indicating which 
+channel is affected. This indication will assist in locating the shorted or overloaded 
+channel. Shorts are generally caused by faulty wiring or damaged cables. Overloads 
+are sometimes caused by connecting too many beltpacks and stations to a channel.  
+ 
+To ensure proper power is budgeted for each Partyline unit, you can refer to the 
+Power Supply Calculator that is available on the Clear-Com website at:  
+https://www.google.com/url?q=http://www.clearcom.com/download/technic
+al-documents/encore-power-supplycalculator&sa=U&ved=0ahUKEwjala2u5vLWAhULxFQKHUZEA20QFggEMAA&cl
+ient=internal-uds-cse&usg=AOvVaw0qnZLWzeZ8woaNjUjzwyGH 
+ 
+ 
+The following (Figure 4) is an example of the Power Supply Calculator in use: 
+
+6 
+ 
+ 
+ 
+Figure 4: Power Supply Calculator available on Clear-Com website 
+ 
+1.3.1  Electrical Isolation for Partyline Intercom Systems  
+The MT-701 partyline isolation box is an accessory for Clear-Com analog partyline 
+systems that will electrically isolate the ground, power, and signaling of two intercom 
+systems. If two power supplies or main stations are connected together in a system 
+but located in different buildings or on different AC power systems, an objectionable 
+“hum” may be caused by a ground loop. The MT-701 will eliminate the “hum” by 
+breaking the ground loop between the powered stations. 
+
+7 
+ 
+ 
+This device also allows channels from two separate Clear-Com systems to be 
+connected together and because of the power isolation it provides, each system can 
+be shut down independently. In addition, the system isolator will pass the “Call” 
+signaling from one system to the other with complete electrical isolation. The MT-701 
+offers transformer isolation for the audio signal and opto-isolation for the “call” signal. 
+It also provides the termination for both systems. 
+ 
+Tip: The MT-701 must have power on both ends in order to carry a call signal. 
+However, power is not needed on either end for an audio-only connection to work. 
+Only one termination is required between the connected systems. 
+ 
+System Termination - Isolation Box relationship 
+One system isolation box must be used for each channel of the intercom 
+systems being connected together. The system isolator box becomes the 
+termination for the connected channels from each system. The station- or 
+power-supply- based terminations for these channels must be turned off. 
+Power is provided by the attached intercom stations or power supplies. The 
+MT-701 is intended for standard Clear-Com intercom lines only and cannot be 
+used on “TW” (Telex RTS) powered lines. 
+ 
+1.3.2  Termination of the Intercom Line 
+The fundamental concept of Clear-Com Partyline intercom is that all channels are 
+terminated in one location, preferably at a Main Station or Power Supply. The ClearCom system termination is not electronic but a passive resistor. This audio 
+termination circuit is what allows many intercom user stations to be connected to a 
+single partyline. Each channel of the system would have its own terminator. The 
+termination prevents drastic changes in the impedance of the PL channel if remote 
+stations or beltpacks were added or removed from the PL line. One Line Termination 
+per channel is needed throughout the intercom network, and is usually located in the 
+Main Station or Power Supply. 
+ 
+Note: All intercom lines must be terminated. Care must be taken not 
+to "double-terminate" a line. All unused intercom lines must also be 
+terminated. 
+ 
+Switching of the channel terminations ON and OFF is done with switches or jumpers 
+on the Main Station. In most systems, the terminations should be in the ON position 
+(default setting). See Figure 5 
+ 
+Clear-Com Power Supplies also provide switch-selectable termination networks on all 
+intercom lines except the small PK-7. The PK-7 has an internal 200ohm termination 
+permanently set to on. The termination cannot be turned off, so if it is to be used 
+along with a main station or power supply the termination for the channel the PK-7 
+is connected to should be set to the "off" position as the PK-7 is now providing the 
+termination for that channel.  
+
+8 
+ 
+It is up to the user to ensure that the terminations are set correctly. An unterminated 
+line will cause excessive levels, possible oscillation of line drivers, and squealing in 
+the headsets. An intercom line with double or multiple terminations will cause low 
+levels and the inability to null the circuit. The termination switches on a Main Station 
+should be set to the OFF position only if the channel is terminated by another Main 
+Station or Power Supply in the system.  
+ 
+ 
+ 
+Figure 5: Rear of MS-704 Main Station showing Termination Switches 
+ 
+Note: If there are no other Main Stations or Power Supplies terminating the 
+line, the termination switch on each channel of the Main Station should be 
+switched to ON. 
+ 
+1.3.3  Check Termination 
+A. Using a multimeter, measure the resistance between pins 1 and 3 on one of the 
+Channel A XLR connectors at the rear of the unit. 
+ 
+B. If the channel is terminated properly, then the resistance should measure 
+approximately 4,000 – 5,000 Ohms. A very high channel resistance (over 10,000 
+Ohms) means the channel is not terminated. 
+Channel resistance of 2,000 
+Ohms indicates a double-termination. If a double-termination is indicated, locate 
+the other terminated Power Supply or Main Station and set its termination to OFF. 
+ 
+C. Repeat for the other channels. 
+ 
+D. Check resistance between Chassis Ground and pin 1. Using an Ohmmeter, 
+measure the resistance from pin 1 on the Main Station or Power Supply to chassis 
+ground. The measurement should read 10 Ohms. A high reading (over 100 
+Ohms) indicates that a component failure within the system and result in an 
+audible "buzz" in the system. A reading of less than 10 Ohms (or a short) typically 
+indicates that the shell and pin 1 of one of the interconnect cables are shorted 
+together. 
+ 
+ 
+Termination Switches 
+ 
+ 
+
+9 
+ 
+1.4 Stations 
+The following Figure 6 is a listing of every Clear-Com device produced since the 
+beginning itemized by model. This includes not only the intercom devices but also 
+the interfaces and interconnect devices used to connect to other communication 
+systems. All products are referenced in following subchapters. 
+ 
+ 
+ 
+Figure 6: Clear-Com Product listing by category and model 
+(oldest model is listed first) 
+ 
+1.4.1  Main Stations 
+The Main Station is designed for applications in which a person needs to communicate 
+with other people or groups of people, either individually or simultaneously, while still 
+maintaining isolation between each of the channels. This station is usually given to a 
+director, producer, stage manager or show caller depending on the workflow. 
+ 
+The Main Station is a multi-channel microprocessor controlled station intended to 
+work with other Clear-Com analog partyline products. It is a self-powered unit and 
+can also power remote Main Stations, speaker stations or beltpack headset stations. 
+It is normally used as a Main Station, (which provides system termination at a central 
+
+10 
+ 
+location), but may be used also as a remote station that provides extra power 
+capacity. 
+ 
+A Main Station will have the following features: Individual talk, listen, and call 
+pushbuttons for each channel. Each channel has individual listen level controls, 
+channel null adjustments, and multiple program inputs with program feed level 
+controls. Main Stations have the ability for Interrupt Fold Back (IFB) of program feeds 
+to intercom channels on talk or call and an all-talk button access to all channels. 
+ 
+Main Stations have extra features for special tasks such as main program feed to the 
+stage announce output with interrupt relay closures, front-panel remote mic-kill 
+switch to turn off all latched talks, a rear panel jack providing a buffered un-switched 
+output of the selected microphone to be used with an external IFB system.  
+ 
+Present models include the CS-702, MS702, MS-704 and SB-704. Discontinued 
+models are: CS-100, CS-200, CS-210, CS222, CS-100K, MS-200, MS-222, MS-232, 
+MS-400A, MS-440, MS-808, MS-812, SB412 and SB-440 
+ 
+ 
+Figure 7: MS-704 Main Station Front Panel 
+1.4.2  Beltpack Headset User Station Functional Description 
+A typical single channel beltpack headset user station has the following connectors: 
+Intercom line and loop-thru (XLR-3MF) and a Headset Connector (XLR-4). The 3-pin 
+XLR-type female and male intercom connectors connect to the Clear-Com intercom 
+line. They are wired in parallel. While the female connector is normally used as the 
+input, either one may be used as the input or as a loop-through output.  
+ 
+ 
+ 
+Figure 8: RS-700 Series Beltpacks 
+(Single Channel/Two-Channel/Two-Channel TW) 
+ 
+The station has the following controls: Microphone ON/OFF (called a TALK switch). 
+The talk button turns the microphone circuit on and off. It also determines whether 
+the circuit is switched on momentarily or continuously. For momentary action, press 
+the talk button for the desired length of time needed to talk on the connected 
+headset’s microphone, then release to deactivate. For continuous (or “latching”) 
+action, tap the talk button twice (this depends on the era of product in question - 
+
+11 
+ 
+newer RS-700 Series use a single tap) in quick succession to lock the microphone on. 
+To turn the microphone off, press and release the talk button again. The RS-500/RS600 and RS-700 models have Latch disable modes. 
+ 
+It may also have a call lamp and a call lamp send button. When the call button is 
+pressed, it transmits a call signal on the intercom line that illuminates all other 
+stations’ call indicator lights on that channel. Units also have headset Volume 
+Controls. The volume control adjusts the listen level of the incoming intercom signal. 
+The single channel requires a single volume control. The two-channel units have a 
+volume control for each channel. The incoming audio level has no effect on the 
+outgoing talk signal. Its range is from full “off” (counterclockwise) to full “on” 
+(clockwise). Units built in 2001 and later contain an output limiter. Examples of  
+earlier stations are the Clear-Com RS-100A, RS-501, RS-601 and RS-701.  
+ 
+A typical two-channel headset beltpack user station adds a channel selector switch 
+to the above, and has the following connectors: Intercom line(s) and loop-thru (XLR6MF) and a Headset Connector (XLR-4).  
+ 
+The 6-pin female connector connects to the Clear-Com intercom lines. The RS-622 
+does not have loop-thru to avoid confusion with the 6-pin male headset jack. 
+Examples of this type of station are: Clear-Com RS-201, RS-502/RS-522, RS-602/ 
+622 and RS-702. Newer units have two talk buttons, two volume controls, two call 
+buttons, and two status indicators to tell which talk button is engaged.  
+ 
+Compatibility with Two-Wire (TW) Intercom Systems 
+ 
+Clear-Com designed the RS-502/522 TW, RS-603, RS-623, RS-603R, RS-623R and 
+RS-703 series of beltpacks to operate with “TW” (two-wire) systems. These beltpacks 
+have the appropriate audio levels and frequency response curves for operating on a 
+TW intercom line, as well as having such TW features as AC call signaling and remote 
+microphone shutoff. The RS-603, RS-623 and RS-703 models are shipped ready to 
+operate on Clear-Com/TW intercom lines, while the RS-603R and RS-623R models 
+are shipped ready to operate on competitor RTS-TW intercom lines.  
+ 
+However, using a beltpack’s onboard controls, you can easily reprogram any of these 
+models to work on the opposite system. For example, you can program a Clear-Com 
+TW-compatible beltpack to operate on an RTS intercom line, and program an RTScompatible beltpack to operate on a Clear-Com TW intercom line. 
+ 
+Note: If you install an RS-603 or RS703 series beltpack with standard 
+Clear-Com equipment, channel B functions, but channel A does not. 
+The use of the TW-701 interface is required. 
+ 
+Note: All TW compatible units use the 3pin XLR loop-thru connector 
+except the RS-502/522 TW which are equipped with the 6-pin female 
+connector. (The RS-522 does not have loop-thru to avoid confusion 
+with the 6-pin male headset jack.) 
+ 
+
+12 
+ 
+Note: The RS-603 and 703 support both DC and AC call signaling in 
+order to be compatible with RTS systems. Because the standard ClearCom intercom “call” signal function is normally accomplished by 
+applying a DC voltage to the intercom audio line, call signaling is 
+deleted from the Channel A line of the RS-603/703 unit. 
+ 
+This means that a RS-603/703 beltpack connected to a MS-704 unit via a TWC-701 
+unit will only be able to send and receive call signal on channel-B. The same is true 
+for the RM-704 unit it will only be able to send and receive call signal on its channel 
+B. However, both units will be able to talk/listen on both intercom channel A and B. 
+ 
+Note: Only TW enabled products should be connected to TW PL 
+systems otherwise non-TW beltpacks, (500 Series), will load the DC 
+power on pin 2 reducing volume level and changing sidetone 
+characteristics on that channel. The exception is that the RS-601/ RS701 beltpack has been specifically designed not to load channel A of 
+TW systems while still being able to talk and listen to channel B of the 
+TW system. 
+ 
+1.4.3  Speaker & Remote User Station Functional Description 
+Speaker stations are often installed with an electrical back-box so they may be used 
+as in-wall user stations and can also be found surface mounted. Clear-Com offers an 
+enclosure for desktop or surface wall mounting. This combination of speaker station 
+with box is most recognized as a ‘biscuit’.  
+ 
+ 
+Figure 9: KB-701 Speaker Station example 
+ 
+Speaker stations provide intercom communication capability in places where wearing 
+a headset may not be feasible (although some speaker stations are supplied with a 
+headset connector). Remote speaker stations permit the user to select between one 
+
+13 
+ 
+or two channels of party line communications, with the ability to talk and/or listen on 
+the selected channel. The user can listen via the integrated speaker, or may use a 
+headset or telephone-style handset—and can talk via a headset mic, gooseneck 
+microphone, a telephone handset, or a push-to-talk microphone. Speaker stations 
+offer both visual and audible call signaling to attract the attention of operators. The 
+Remote Mic Kill (RMK) feature on Main Stations will turn off any open microphones 
+on speaker stations. 
+ 
+With single channel speaker stations, such as the KB-100, KB-111, KB-112, KB-211, 
+KB-212 and KB-701, local or remotely controlled talking or listening is selectable and 
+allows either hands-on or hands-free operation.  
+ 
+In some installations, the 2 channel KB is intended to be used only with one intercom 
+channel. Setting the single channel switch to the on position will connect the station 
+to the one intercom channel regardless of the position of the front panel channel 
+selector  
+ 
+The KB single channel devices feature "control logic" CMOS circuitry for programming 
+the operation of the station. This allows remote or local control (or both) of the 
+speaker and the mic. The station operator pre-sets a bank of dip switches that are 
+located on the electronics module. If pre-set for remote control, the unit speaker 
+and/or mic can be activated by all other Clear-Com stations (on the same channel, 
+using the visual signal circuitry). 
+ 
+The single channel KB operating modes are: 
+• 
+NORMAL: Speaker is on. Mic is locally activated by pushbutton on front panel. 
+• 
+REMOTE PAGE: Speaker is off except when turned on by remote control, or 
+used to page anyone at that KB’s location. Mic is activated locally. 
+• 
+REMOTE LISTEN: Speaker is on. Mic is turned on locally OR by remote control, 
+which allows that KB operator to talk "hands-free." 
+• 
+REMOTE LISTEN-PAGE: Speaker is normally off. Mic remains on for hands-free 
+talking. Another station can turn off the mic and turn on the speaker for paging 
+that KB operator 
+ 
+The Talk button operates in momentary mode. The integral microphone and speaker 
+offer half-duplex communication. 
+ 
+All KB single & dual channel units feature a program input which allows the monitoring 
+of external audio through the speaker or headset. A program level trim control is 
+provided to set the program audio level heard in the panel speaker or headset. This 
+program input can also be used as a paging function. 
+ 
+All KB single & dual channel units except KB-100, KB-111, and KB-112 have audible 
+tone alert. This can be useful when the operator’s attention has been drawn away 
+from the KB indicator panel. This can be enabled to sound when a call signal is 
+received on the selected channel or either channel. The audible tone alert level can 
+be adjusted or turned off by an internal control. The tone alert will not sound if a call 
+signal originates at the KB station or if the speaker on/off switch is turned off.  
+
+14 
+ 
+ 
+A 4-Wire option module is available for speaker stations. This option allows the 
+speaker or headset station to be operated over longer distances than are possible 
+with a standard Clear-Com partyline intercom line. This option can also be used to 
+connect with fiber optic transmission equipment. The 4-Wire Option module 
+connection is a transformer-isolated, audio-only connection and does not convey the 
+call signal. The module also requires local powering. Two channel stations can have 
+two separate 4-wire connections with this option. The Channel Switch on the front 
+panel selects which channel is connected. 
+ 
+1.4.4   About Headsets and Microphones for Analog PL 
+Intercom stations, whether they are analog or digital partyline or more sophisticated 
+matrix user key-panels, have been generally designed for use with dynamic headsets. 
+A dynamic headset typically incorporates a noise cancelling dynamic microphone with 
+an impedance range of about 150 to 500 ohms depending on the manufacturer. An 
+electret microphone headset is usable with an analog partyline intercom and may be 
+self-sensing (i.e., internal circuitry senses an electret element) or may have to be 
+selected for use.  
+ 
+Intercom station panel microphones are typically electret design and have an 
+impedance of 300 to 2000 ohms, and are designed to be phantom-powered with a 
+voltage range of 1.5 to 15 VDC. These panel microphones are typically gooseneck, 
+and are offered in various lengths and with differing connectors (e.g., ¼ inch TRS 
+and/or DIN screw in). 
+ 
+Push-to-talk handsets and telephone-type handsets are useable in any partyline 
+intercom system but more practical to users who cannot use a headset because of 
+their workflow. These units tend to have limited frequency response of 300–3300 Hz. 
+The limited high frequency, although being sufficient for voice grade communications, 
+may not be suitable for users who maintain long periods of listening because it 
+creates fatigue. 
+ 
+Earpiece impedances in headsets range from 50 ohms to 1000 ohms. The use of a 
+50ohm headphone requires a headphone amplifier capable of powering the line. 
+Lower impedance loudspeakers will draw more current from the amplifier. This 
+becomes more important when we talk about IFB earpieces that may have extended 
+audio bandwidth that includes low frequency content that excites the loudspeaker to 
+pull more current. While low impedance headsets are a good choice to provide enough 
+SPL (sound pressure level) to overcome the interference from loud environments, 
+caution should be used to avoid distortion and most important, ear damage. One 
+option for high noise environments are headphones that offer an acoustic isolation of 
+20dB or more to protect the user. Headphones from manufacturers are typically 
+labeled lightweight or full cushion, and offered as single-sided for one earphone or 
+dual-sided with two headphones. It is important to note many user stations including 
+matrix key-panels and wireless user stations have a headphone impedance range 
+from 25 to 600 ohms. 
+
+15 
+ 
+ 
+Binaural/Split Ear Function 
+To be considered, Binaural/Split Ear requires a stereo headphone or ‘dual muff’ 
+headset. The intercom listen function is by and large set up as mono, i.e. a user 
+listens to all intercom channels, and any program if inserted, in both left and right 
+earphones. This is also called dual listen. The dual muff headset will be provided with 
+a 4-pin XLR wired as monaural headphones as shown in Figure 10.  
+ 
+1
+2
+3
+4
++
++
+-
+-
++
+-
+Headphone Left
+Headphone Right
+Boom Microphone
+ 
+ 
+Figure 10: Dual Muff Headset to 4pin XLR - Mono 
+ 
+The purpose to Binaural/Split Ear operation places an intercom channel in one ear 
+and another intercom channel in the other ear– the operation resulting in listening to 
+2 sources separately and independently. In this case, the dual muff headset will be 
+provided with a 5-pin or 6-pin XLR wired as stereo or split headphones as shown in 
+Figure 11. 
+ 
++
++
+-
+-
++
+-
+Headphone Left
+Headphone Right
+Boom Microphone
+1
+2
+3
+4
+5
+ 
+Figure 11: Dual Muff Headset to 5pin XLR – L/R stereo 
+ 
+The RS-622/623 beltpacks were the first units whereby a user could separate the two 
+channels  
+ 
+
+16 
+ 
+1.5 Source Assignment 
+Following from the initial design of analog partyline by Clear-Com, many products 
+follow the model of ‘one channel per cable’. So, if a cable is being used as channel A 
+on it and you need to be on channel B, you must find that cable and re-patch—unless 
+you have a multi-channel user station or source assignment panel. 
+ 
+Source assignment panels are manually operated matrix switches. A source assign 
+panel is usually a separate piece of hardware, although Clear-Com offers a slider 
+matrix source assign feature in the SB704 4-channel Main Station. Applications 
+include any facility with at least four channels of partyline and twelve or more “drops” 
+or “buses” or “circuits,” and where the assignment setups change on a regular basis. 
+ 
+Inputs to the source assign panel are sensibly called “sources” and are typically the 
+partyline channels from a power supply or Main Station or partyline interfaces from 
+a matrix or similar system. The “destinations” are the partyline circuits or buses 
+themselves; i.e., cabled outputs from the source assign panel that are “wet” (have 
+supply voltage, 24–30 VDC). Cables are typically 3pin shielded XLR microphone 
+cables. Remote intercom stations, beltpacks, or other interfaces that can also be 
+groups of such devices connected together are patched to various circuits/buses. The 
+source assignment panel offers flexibility in assigning intercom channels to intercom 
+buses and provides the ability to easily reassign channels to buses on the fly.  
+ 
+The MX-840A Assignment Panel (discontinued) was a mechanical device that could 
+switch up to 40 stations to 8 channels. This was replaced with the RCS-2000 
+(discontinued) and then replaced with the current RCS-2700. The capacity for the 
+RCS-2700 can be expanded to 72 destinations across 15 channels. 
+ 
+With the advent of digital partyline systems, the need for source assignment 
+hardware has been eliminated as all channels now are found on one cable and channel 
+assignment is selected inside the user stations or browser configured. 
+ 
+1.6 Interfacing to Partyline 
+Interfacing generally involves interconnection of separate production communication 
+systems. The most common interface method to wired analog partyline systems is to 
+convert the 2-wire signals to 4-wires. The challenges with interfacing intercoms are 
+conversion, level matching, and signaling. The best means for conversion is the 2Wire-to-4-Wire converter also known as a “hybrid”.  
+ 
+Hybrids/2W-to-4W Interface 
+The term hybrid refers to a device that converts two-wire to four-wire audio and vice 
+versa. Analog hybrids initially used transformers, as shown in Figure 12, and later 
+used op-amps to convert between two-wire and four-wire audio. Digital hybrids with 
+digital signal processing (DSP) chips are most commonly used to perform twowire/four-wire conversion. 
+
+17 
+ 
+Figure 12: Transformer Analog Hybrid 
+ 
+In general, the performance of hybrids is an area of concern and we evaluate this 
+with a metric called ‘trans-hybrid loss’. This is a measure of the loss or isolation 
+between the transmit and the receive ports on the four-wire side of the circuit – in 
+this case ‘loss’ being desirable up to some amount. Trans-hybrid loss depends on 
+signal cancellation accomplished through defining the line impedance and mirroring 
+it in a balanced network. The variations in impedance presented on the two-wire side 
+of the hybrid make balancing difficult and often result in poor trans-hybrid loss. 
+  
+Hybrids are also used in intercom systems as interfaces to telephone networks and 
+as interfaces between two-wire and four-wire intercom systems. The inherent 
+problems associated with two-wire to four-wire conversion justifies why it is better 
+to use the four-wire interface that is available on most camera control units (CCU) 
+instead of a two-wire interface when connecting CCUs to a matrix intercom system. 
+More details on camera interfacing follows. 
+ 
+Null: Nulling refers to adjustments made in balancing a network to achieve greater 
+trans-hybrid loss by making resistive, capacitive, and inductive adjustments to match 
+the impedance of the two-wire side of the circuit. Inductive, resistive, and capacitive 
+nulling affect low-, mid-, and high-frequency bands. Modern hybrids are digital, thus 
+capable of auto-nulling. 
+ 
+A hybrid's ability to isolate the transmit signal from the receive signal in the 2-wireto-4-wire interface is critical. The quality of this isolation is technically known as 
+return-loss. A side tone nulling control fine tunes the circuitry to best match the 
+devices to the acoustic conditions near the intercom, as well as to the electronic 
+conditions on the intercom line. They should be set at the time of system installation 
+and adjusted as changes are made to the system like adding additional cables or 
+more than a few additional end points or interfaces.  
+ 
+
+18 
+ 
+Four-wire audio is defined as a pair of conductors carrying an input/receive signal 
+and a second pair carry the output/send signal. This hybrid circuit connects the fourwire audio to the single wire in such a way as to variably restrict the user's reception 
+of his own voice on the intercom line, which is often referred to as ‘side tone’. There 
+should be no component of the talk signal in the listen signal. This is accomplished 
+by adding an inverse polarity copy of the talk to the Listen. The level of the inverted 
+talk signal must be exactly the same amplitude as the 2wire circuit. High gain 
+between the send and receive poses a risk of oscillation or ‘howling’ resulting from 
+acoustic and/or electronic coupling within a headset or between a speaker and a 
+microphone. 
+Figure 13: 2W-to-4W Interface with L/C/R Null Circuit 
+ 
+With manual nulling devices, there are the following accessible controls: Separate 
+"R" (Resistance), "L" (Inductance), and "C" (Capacitance) controls compensate for 
+each component of the line's impedance, providing the best null possible. Ideally, 
+there should be no portion of the talk signal in the listen signal. The variation of the 
+2-wire line phase coherency is affected by the cable capacitance (length of wire and 
+gauge) and inductive elements of the line. The “C” control compensates for cable 
+capacitance; the setting depends on the length of the line. The “L” control 
+compensates for the low-frequency inductive and capacitive elements the wiring of 
+the external partyline presents to the line. 
+ 
+The importance of 2-wire termination, (as explained earlier), lack of, or double 
+termination also influences the null result. Every time communication goes through 
+a 2-to-4 wire conversion (hybrid) the signal is degraded somewhat.  
+ 
+Cameras  
+A common requirement for interfacing intercoms is video camera’s communication 
+circuits, often added by manufacturers in an attempt to simplify getting cues to the 
+camera operators. However, this effort to be helpful is hampered by a lack of 
+standardization. There is no standard design for camera intercoms among different 
+camera manufacturers. In addition, some manufacturers don't even use the same 
+intercom design within their own line of cameras. 
+ 
+The majority of large installations and virtually all mobile units use camera isolate 
+systems. A camera isolate system allows an operator (usually the video operator or 
+technical director) to have private communications with any of the camera operators 
+for set-up or maintenance purposes without interfering with ongoing communication 
+between the other cameras and the director.  
+
+19 
+ 
+ 
+Cameras and analog PL systems 
+The best way to interface a camera intercom to analog partyline systems is to access 
+the Camera CCU intercom circuit as a 4-wire circuit, and then use a 2-to-4 wire 
+interface to convert to partyline. A 4-wire connection is frequently not available on 
+lower cost cameras. 
+  
+If a 4-wire connection to the camera intercom is not available, almost always the 
+next best choice is to interface to the headset connection on the camera CCU/DCU. 
+(The headset connection must be a 3 or 4-wire circuit.) 
+ 
+It is always best to interface each camera individually. Trying to combine the 2-wire 
+partyline circuits the Camera Control Unit (CCU) or Digital Command Unit (DCU) 
+provides into a single partyline and then use an interface to convert the camera 
+partyline to Clear-Com or RTS partyline is the least effective way to interface multiple 
+cameras. There are several reasons:   
+• 
+First, the more cameras you connect in parallel, the worse the partyline 
+impedance characteristics become, therefore a good null is difficult, if not 
+impossible, to obtain.  
+• 
+Second, if the impedance characteristics of a single camera are worse than the 
+other cameras (which is not uncommon), the overall partyline impedance 
+characteristics are degraded to the level of the worst camera. 
+ 
+NOTE:  Many camera CCU/DCUs have the intercom connection on a 3-pin 
+connector, or on three pins of a multi-pin connector (frequently along 
+with the "tally" controls). The pin-out is frequently identified as: +/hot, 
+-/cold & common. Many people assume that this indicates a 3-wire 
+intercom circuit, with one pin “send”, one pin “receive”, and one pin 
+“common” to both. This is not true. The +/hot & -/cold pins are a 2-wire 
+partyline, with the “common” simply being a shield/ground. There are no 
+known exceptions to this. These problems can be eliminated completely 
+by bypassing the camera altogether. Run a microphone cable with the 
+camera cable, and plug a beltpack in at the end. You see this commonly 
+done at a remote production such as a news shoot or sporting event when 
+there is a set on the field. 
+ 
+Two-Wire IFB Systems 
+Two-wire IFB systems generally require a central electronics control unit to allow 
+multiple users to select one of many IFB channels to talk to different talents. An 
+example of a two-wire IFB system is shown in Figure 14. 
+ 
+The circuitry in the central electronics unit allows for the selection of program sources 
+and the switching of those sources to an IFB channel. When a user talks on an IFB 
+channel, that interrupt audio is mixed with the program source audio, which is dipped 
+in level according to a user-defined setting. 
+ 
+The IFB control unit also superimposes a DC voltage on the IFB line to drive the talent 
+listen receivers. These IFB receivers can, depending on model, be either a two-
+
+20 
+ 
+channel model that can provide non-interrupt audio in one ear and program with 
+interrupt (IFB) audio in the other ear, or a single channel model that provides only 
+interrupt audio. 
+ 
+Figure 14: Example of Partyline IFB 
+ 
+The interrupt audio is generated at IFB control panels that are interfaced to the IFB 
+controller or from a user station. User stations can also generate a local IFB where 
+the program audio that is fed into the user station is interrupted by the talk at the 
+user station and is sent down an intercom channel. A locally generated IFB does not 
+have the flexibility of a centrally based IFB system since only that user station can 
+talk on a given IFB channel. With central IFB systems any number of users can 
+potentially cue talent on the same IFB channel. In a digital matrix system, IFB 
+priorities can be set so that one station has priority over another station for talking 
+on an IFB channel, however in partyline-based systems additional presses on the 
+same channel simply add into the same talk path. User panels can be programmed 
+with different priority levels to ensure that the most important producer in a 
+production will always have communications access to talent. 
+ 
+The central electronics unit provides tally information so that an IFB button assigned 
+to a channel will illuminate to indicate when that channel is in use. For example, if a 
+user talks on IFB channel 1, the IFB 1 button on every user station will illuminate to 
+indicate that IFB channel 1 is in use. 
+ 
+
+21 
+ 
+IFB control panels and appropriately equipped user stations have an IFB all call button 
+that will allow a user to speak on all IFB channels simultaneously. This is a handy 
+feature when a producer needs to provide the same cue to multiple talent on a set. 
+ 
+The monitor speakers in control areas can be connected to the IFB system such that 
+they are muted or dimmed when the IFB is active. This will prevent acoustic leakage 
+of control room monitor audio into the IFB during an interrupt. 
+ 
+Commentators 
+This term refers to a radio or television team member who commentates on the 
+events and actions of sport or news. Other common terms are announcer, 
+newscaster, presenter, or reporter. Within remote sports productions they are 
+referred to as sportscasters, analysts, play-by-play and color commentators. Some 
+sporting events require numerous inputs from specialists, statisticians and other 
+external cueing sources. 
+ 
+Commentators may work from the event itself, or in some cases ‘off tube’ via the 
+host signal while based in their home nation. ‘Off tube’ refers to when commentary 
+on an event is produced in a studio while watching the event on a monitor. In the 
+simplest operation, a commentator may create the program mix on the commentary 
+unit itself and a program output is ready for broadcast.  
+ 
+Commentary/Announce Box 
+Commentator devices are very much part of analog PL systems and Clear-Com offers 
+the AB-120 products for this application within the Encore partyline product family.  
+ 
+Commentators 
+connect 
+their 
+headphones 
+and 
+microphone 
+to 
+the 
+commentary/announce box. In-the-ear earpieces are the most commonly used 
+listening device but communication headsets with high audio quality boom 
+microphones are often used for sportscaster applications. 
+  
+These devices allow announcers to manage their own microphone’s on/off button and 
+monitor a variety of sources. This on/off button is typically called a ‘Cough Button’ 
+and can be configured as a momentary action button that turns off the microphone 
+input only when it is held down. In addition, a commentary/announce box will feature 
+a Co-Ordination (Co-Ord) or TB (Talkback) Circuit. This is the main off air 
+communication channel between the commentators, the engineer, sometimes the 
+audio A1, and the coordinator. The coordinator is an editorial position responsible for 
+the commentators, usually a producer or director. Line level outputs are provided, 
+often with a mixed output of all mics.  
+ 
+For applications that require complex reporting, commentator user stations with 
+multiple input headphone mixers are used. Some units provide up to two or three 
+commentary positions allowing them to set up individual headset mixes. In these 
+applications, a commentator may receive the program audio feed as broadcast, the 
+sound of the stadium crowd, advice on mic levels or popping from the engineer, a 
+local input from a sports statistician and of course off air instruction from his 
+coordinator/producer. Most units are capable of split-ear operation, individual level 
+
+22 
+ 
+and pan controls for each source and 4-wire connections to intercom systems and 
+external line devices. 
+ 
+ 
+
+23 
+ 
+2 GENERAL ANALOG PL CABLE CONSIDERATIONS 
+When thinking through how to install and wire any partyline intercom system, several 
+factors must be considered. These include the number of stations, the length of the 
+cable runs and whether single or multiple channels are required. In analog systems 
+where multi-channel stations are connected with multi-pair cables, then crosstalk 
+becomes an important issue. Crosstalk is not a factor with single-channel systems or 
+multi-channel systems where each channel is run on its own individual cable to singlechannel Remote Stations. While the physical considerations include ease of 
+installation, type of cabling, station location, etc., the electrical considerations are 
+concerned primarily with the capacitance between conductors on the intercom line, 
+and the DC resistance in the ground return of the intercom line. More on this follows 
+in Section 5.7 Recommendations for Various Wire Types. 
+ 
+Note: A general rule with all analog PL intercoms is to never connect 
+PIN 1 to the shell of the XLR connector. 
+ 
+Excessive resistance in the conductors of the cable results in a loss of sidetone null 
+at Remote Stations, and some overall loss of level. Excessive resistance in the ground 
+conductor or shield greatly increases crosstalk between channels. This can 
+significantly affect the performance of multi-channel systems. 
+ 
+The Clear-Com intercom line is intended to run on a shielded twisted pair cable per 
+channel of intercom. One conductor carries full duplex ("two-way") audio, the other 
+conductor carries the DC power for remote stations. The shield is used for ground 
+return for audio and power. When choosing interconnect cable, keep the following 
+considerations in mind: 
+ 
+a) DC resistance of the ground or common conductor affects crosstalk. For runs 
+longer than 500 feet do not use wire smaller than 20 gauge. The total resistance 
+of the ground return (the combined parallel sum of all shields to a location) to any 
+point in the system should be under 1.5 ohms. 
+ 
+b) The capacitance of the interconnect cable affects system frequency response and 
+side-tone stability. Total capacitance should not be greater than 0.25uF 
+(capacitance between conductor and shield) equivalent to an intercom system 
+containing 5000 feet of cable at 50pF per foot. 
+ 
+Table 1: HF Loss to Capacitance 
+
+24 
+ 
+2.1 Cable Installation influences on Cross-Talk  
+When multiple channels are fed to remote stations, the amount of cross-talk between 
+channels is proportional to the amount of DC resistance in the ground return path 
+back to the termination of the channels. 
+ 
+The terminated end of the cable will not contain the cross-talk. The remote end of 
+the cable will have the cross-talk as it is generated in the ground return and not the 
+audio line. 
+ 
+The ideal installation would have all multi-channel cables originate from a central 
+point. The termination for each channel is located at this central point. This type of 
+installation is known as a "Star" type system. If no single multi-channel leg of the 
+"Star" arrangement exceeds 500 ft. the crosstalk should be negligible. 
+ 
+Figure 15: Central Point for termination 
+ 
+ 
+ 
+Figure 16: Central Point for termination 
+
+25 
+ 
+2.2 Cross-Talk Considerations in a Multi-Channel System 
+In a multi-channel system where multiple channels are run from a Main Station to a 
+Remote Station as in the Figure 17 diagram, crosstalk can be an issue. This is because 
+the channels will share a common ground at both ends of the cable run. 
+ 
+ 
+ 
+Figure 17: Party Line Multi-Channel Configuration 
+ 
+When multiple channels are fed to Remote Stations, the amount of crosstalk between 
+channels is proportional to the DC resistance of the ground return path back to the 
+channel terminations. To minimize this crosstalk between channels when running 
+more than one channel in a multi-pair cable, keep the DC resistance of the ground 
+return as low as possible. Ideally, this should be less than 2Ω. This can be achieved 
+as follows:  
+ 
+• 
+Keep cable runs under 500 feet. If a longer cable run is unavoidable and 
+approaches 1,000 feet or more, make sure the appropriate lone line option 
+switches or jumpers are set in the stations. Refer to the individual station manuals 
+for further information. 
+• 
+Use a cable whose common shield has a low DC resistance. 
+• 
+Connect unused cable wires of a multi-pair cable to the Pin 1 shield. 
+ 
+Note: All multi-pair cables must have individually shielded pairs. 
+ 
+The performance of a Clear-Com system depends upon the use of Clear-Com or 
+Clear-Com compatible headsets. Use of headsets other than these can induce 
+crosstalk into a multi-channel system through the headset cable. Clear-Com also 
+recommends against the use of headset extension cables or headset "Y" cables, as 
+they will increase crosstalk in a multi-channel system. 
+2.3 Crosstalk Through a Mutual Capacitance of Two Conductors 
+A factor influenced by cable size is the high frequency response of the whole system 
+affected by the capacitance of the cable. Capacitance occurs between any two 
+conductors separated by an insulator. 
+
+26 
+ 
+ 
+Capacitance (taken from AV Cable Installer Guide by Steve Lampen – used with 
+permission from the author): When two pieces of metal are separated by a 
+nonconductor, an electrical device called a capacitor is formed. A capacitor stores 
+voltage. The effect is called capacitance and is measured in farads. In the case of two 
+metal wires separated by plastic, the capacitance is measured in picofarads (pF), or 
+trillionths of a farad. How can such a small amount of anything have an effect? The 
+reason is that the capacitance increases along the length of the cable. For instance, 
+a 1,000-ft cable with 30 pF/ft will have a total capacitance of 30,000 pF, a significant 
+amount. 
+ 
+Capacitance has a negative impact on system performance which needs to be 
+factored into system design. Even though the capacitance is always the same on a 
+given length of cable, it reacts to the frequency on the wire; this effect is called 
+capacitive reactance. This effect opposes current flow, so it is also measured in ohms 
+(Ω), like resistance. Resistance affects all frequencies equally, whereas capacitance 
+affects high frequencies more than low frequencies. All cables have two or more 
+conductors, so all cables have capacitance. One can substitute a different plastic with 
+a lower dielectric constant and get lower capacitance or move conductors farther 
+apart to reduce capacitance.  
+ 
+For use in intercom, a loss of 3dB at 3kHz is considered the maximum acceptable 
+amount of impact to maintain intelligibility, though this may not be adequate in highnoise applications. 
+ 
+In the following example, we have assumed a 3dB loss @ 3kHz. 
+To determine the maximum tolerable cable length in a system it is essential to know 
+the capacitance of the cable. In the following example, we have assumed a cable 
+capacitance of 100pF/meter or approximately 30.5pF/foot. Here’s the math: 
+The key formula is: Z = 1 /2πFC  
+Where Z = Ohms, F = Hertz, and C = Farads 
+Therefore:  
+C = 1 /2π FZ   For a 3kHz cut off (-6dB point) in 200Ω circuit: 
+C = 1 /(2x3.14) x 3000 x 200 (Ohm) 
+C = 1 /3768000 F or C = 1 /3.768uF or C = 0.264uF or C = 264000 pF   
+Permissible cable length is 264000 ÷ 100pF = 2640 meters 
+Permissible cable length is 264000 ÷ 30.5pF = 8655 ft. 
+This rule applies only to capacitance. 
+ 
+Two conductors such as a twisted pair can accumulate a large mutual capacitance 
+over long distances. Another calculation solving for crosstalk level using the same 
+figure of 100pF (pico-farads) per meter and a distance of 1 kilometer shows the 
+following. The key formula again is: Z = 1 /2πFC which results in a total capacitance 
+of 100nF (nano-farads) or 0.1mF (microfarad). The reactance of 0.1mF at 3000 hertz 
+is roughly 530Ω. Referred to the system impedance of 200Ω, the apparent crosstalk 
+is 20log (200/530) or about -8.5dB. Separating the two channel conductors by a 
+shield greatly reduces the capacitive crosstalk so that the resistive crosstalk 
+discussed above dominates. 
+
+27 
+ 
+ 
+Crosstalk and Starquad cable 
+As established above, the cable with the lowest capacitance will have the highest 
+performance. Therefore, for intercoms in general NEVER use starquad cable as it has 
+by definition the worst performance for these applications based on its unique design. 
+Because you only need two wires for a balanced line, with starquad cable you combine 
+conductors to make a pair. Most starquad cables are color coded, so you can simply 
+combine the conductors of the same color insulation. E.g., if you have two blue wires 
+and two white wires, you combine the blues into one wire and the two whites into 
+one wire. Because you are combining conductors, you are also combining the 
+capacitance. Therefore, capacitance on starquad cable is high, sometimes more than 
+50 pF/ft.  
+ 
+2.4 Rule of Thumb for Voltage Drop  
+The rule for analog PL intercom cabling is to minimize voltage loss to 10Volts. 
+ 
+For this we use a standard Ohm’s Law formula: 
+ 
+ 
+Two pieces of information are needed- 
+1) I = The current source of our load, i.e. the current that a user station (beltpack, 
+etc.) will draw from the circuit. The figure to use is the maximum current draw or 
+the specification shown with the talk latched and signaling applied. 
+ 
+For our example we will use the specification for a 2 channel remote station such as 
+the RM-702 
+Power 
+Input Voltage Range: 20-30 VDC 
+Input Current (Idle): <= 90mA 
+Input Current (Max): <=110mA  
+ 
+2) R = The nominal conductor resistance per 1,000 feet of the cable. This 
+specification is available from wire manufacturers. For this example, we are using an 
+18AWG shielded single pair with a spec stated by the manufacturer as 6.5Ω/1,000ft. 
+ 
+
+28 
+ 
+ 
+ 
+Looking towards an application of a 100-foot run of 18AWG cable we solve for line 
+resistance: (Wire resistance per 1000‘/1000) X (distance in feet) of run X 2. 
+ 
+Example: 
+18AWG = 6.5 Ohms 
+Formula = 6.5Ω/1000 X 100 X 2  
+6.5Ω/1000 = .0065 
+.0065 x 100 (feet run) = .65 
+.65 x 2 = 1.3Ω wire resistance for 100 feet of 18AWG wire. 
+ 
+Looking towards an application where we use 10 Remote Stations we solve for 
+current per drop: 
+Number of user stations X Power Requirements 
+Example: 
+10 RM702 @ 110mA (.11A) ea. 
+10 X .11 = 1.1A 
+ 
+Standard Ohm’s Law formula: E = IR 
+E = I (1.1A) x R (1.3Ω) = 1.43V Loss  
+ 
+For ease of wiring deployment, and because they normally follow the same path, 
+people have often chosen to use the multicore cable microphone ”snake” for the 
+intercom as well as for their audio transport from stage to mixing console (and back). 
+The problem with these for intercom is that the cable is often undersized being 
+24AWG or smaller and the nominal conductor resistance per 1000feet of the cable is 
+very high. 
+ 
+In the example below we look at the voltage loss calculated with this type cable 
+keeping the user station type and quantity the same. 
+ 
+Looking towards an application of a 100-foot run of 22AWG cable we solve for line 
+resistance: (Wire resistance per 1000‘/1000) X (distance in feet) of run X 2 
+ 
+Example: 
+AWG = 14.3 Ohms 
+Formula = 14.3Ω/1000 X 100 X 2  
+14.3Ω/1000 = .0143 
+.0143 x 100 (feet run) = 1.43 
+1.43 x 2 = 2.86Ω wire resistance for 100 feet of 22AWG wire. 
+ 
+Looking towards an application where we use 10 Remote Stations we solve for 
+current per drop: 
+
+29 
+ 
+Number of user stations X Power Requirements 
+Example 
+10 RM702 @ 110mA (.11A) ea. 
+10 X .11 = 1.1A 
+ 
+Standard Ohm’s Law formula: E = IR 
+E = I (1.1A) x R (2.86Ω) = 3.15V Loss  
+ 
+Refer to Section 5.1 Analog & Digital Partyline Intercom Cabling Comparison below 
+to understand how to apply the voltage/resistance to power delivery length limits. 
+ 
+ 
+ 
+ 
+ 
+
+30 
+ 
+3 CLEAR-COM DIGITAL PARTYLINE SYSTEMS 
+3.1 Introduction to Digital Partyline 
+The HelixNet system transports the intercom audio and signaling as packetized 
+Ethernet using CSMA/CD (carrier sense multiple access with collision detection). In 
+its base configuration, the HelixNet system supports powerline technology, where the 
+Ethernet packets are modulated on to the powerline. This makes it possible for 
+several stations connected to the same physical medium to share it. 
+ 
+Carrier sense multiple access (CSMA) is a media access control (MAC) protocol in 
+which a node verifies the absence of other traffic before transmitting on a shared 
+transmission medium, such as an electrical bus. 
+ 
+‘Carrier sense’ means that a transmitter attempts to determine whether another 
+transmission is in progress before initiating a transmission. That is, it tries to detect 
+the presence of a carrier signal from another node before attempting to transmit. If 
+a carrier is sensed, the node waits for the transmission in progress to end before 
+initiating its own transmission. In other words, CSMA is based on the principle "sense 
+before transmit" or "listen before talk”. 
+ 
+‘Multiple access’ means that multiple nodes may send and receive on the medium. 
+Transmissions by one node are generally received by all other nodes connected to 
+the medium. 
+ 
+In this powerline based intercom, we use Frequency Modulation to separate our audio 
+signal from the power signal. Here the digitized audio signal is modulated with a high 
+frequency carrier and then the modulated signal is injected into the powerline through 
+a high pass coupler circuit. The reason for choosing the Frequency Modulation is that 
+it gives excellent quality signal output and free from noise. 
+ 
+This allows Ethernet based devices such as beltpacks, speaker stations and remote 
+master stations to be connected to the powered output using standard twisted pair 
+shielded, 3-pin XLR, cables using the same topologies utilized in analog Partyline 
+systems, including passive splits, daisy chains and extended cable distances. Digital 
+Partyline systems offer improved audio quality, resiliency to external interference 
+that the unbalanced partyline systems are susceptible to, as well as minimal crosstalk 
+between adjacent channels. 
+ 
+Clear-Com Digital PL Powerline and other PL System cautions 
+The user should note that the HelixNet powered platform called ‘powerline’, and any 
+analog or other digital partyline intercoms are dissimilar technologies and cannot be 
+directly connected, i.e. one cannot, and should not, connect any other device  except 
+another HelixNet device on to a HelixNet powerline circuit. Doing so will cause 
+damage to some analog devices such as TW intercom products and older Clear-Com 
+analog PL products pre-RS-700 Series. Interfacing to analog PL systems is only 
+
+31 
+ 
+possible with a purpose-built HelixNet 2-wire interface module required for 
+installation in to the main station. See Section 3.4 on Interface Modules. 
+3.2 History 
+When HelixNet was first introduced, the Main Station provided four channels of fullduplex intercom communication, plus a separate program audio feed, to a 
+combination of at least 20 beltpacks. At that time, wall, desktop, and remote stations 
+were not introduced and the system did not have the capability for user stations to 
+connect via IP network infrastructures using standard switches but only connected 
+user stations to the powered output called “powerline”.  
+ 
+There were 2 basic goals associated with the development of HelixNet: 
+1. Make it familiar 
+2. Make it useable with existing infrastructure 
+ 
+The most important attribute to the HelixNet platform is the familiarity for previous 
+users of analog partyline. If you have read the analog chapters and have worked with 
+Clear-Com analog PL products the layout and functions with HelixNet are almost 
+identical with some very nice additions such as visual displays to channels and menus 
+for ease of configurations. 
+ 
+So, similar to its analog counterpart, a Main Station user will have individual talk, 
+listen, and call pushbuttons for each channel. Each channel has individual listen level 
+controls, remote mic-kill switch to turn off all latched talks, a rear panel jack providing 
+a buffered un-switched output of the selected microphone to be used in an external 
+IFB system and an all-talk button access to all channels. 
+ 
+All Main and Remote Station have the ability for Interrupt Fold Back, (IFB) of program 
+feeds to intercom channels on talk or call and all Main and remote Stations have extra 
+features for special tasks such as main program feed to the stage announce output 
+with interrupt relay closures.  
+ 
+Today, the number of partyline channels created in the system is 12 with option to 
+increase this to 24 partyline channels thru the purchase of an upgrade license. Within 
+today’s HelixNet architecture, there are two basic approaches for connecting 
+components together. All products are capable of connecting to the powered output 
+called “powerline” created within a main station comparable to analog PL as well as 
+on standard IT networks using commercial off-the-shelf, (COTS) IT hardware running 
+IP protocols. All user stations can be connected in a combination of powerline and 
+Ethernet using PoE for hybrid operation. 
+ 
+3.3 Stations 
+The HelixNet intercom products include:  
+HMS-4X 
+HelixNet Main Station  
+HRM-4X  
+4-Channel HelixNet Remote Station  
+
+32 
+ 
+HKB-2X  
+4-Channel (Two Display with Shift Page), HelixNet Speaker 
+Station  
+HBP-2X 
+2-Channel HelixNet Beltpack 
+HXII-BP  
+2-Channel HelixNet Beltpack includes IP and Powerline 
+S-Mount  
+Mounting Kit for HKB-2X Speaker Station 
+ 
+Intercom and audio interfaces include:  
+HLI-2W2  
+2-Wire Interface Module  
+HLI-4W2  
+4-Wire Interface Module 
+  
+IP interfaces include:  
+HLI-ET2 
+Ethernet Linking Module 
+HLI-FBS  
+Fiber Linking Module. 
+ 
+Networking will be discussed subsequent section. 
+3.3.1 HMS-4X  
+ 
+Figure 18: HMS-4X Front/Rear 
+ 
+Just like the analog partyline equipment, the Main Station is designed for applications 
+in which a person needs to communicate with other people or groups of people, either 
+individually or simultaneously, while still maintaining isolation between each of the 
+channels. This station is usually assigned to a director, producer, stage manager or 
+show caller depending on the workflow. The Main Station is self-powered, and does 
+not have a power switch, button or key. The system powers up when you connect 
+the power supply and provides power to remote Main Stations, speaker stations or 
+beltpack headset stations if needed. 
+ 
+The HMS-4X intercom Main Station has two ‘powerline’ circuits to supply power to 
+Remote Stations, with each circuit providing 59VDC, (i.e.±30VDC), on the line. There 
+are two pairs of rear-panel-mounted male and female XLR3MF connectors for this 
+purpose, designated “Digital Intercom (59V)”, “Line 1” and “Line 2”. It is possible to 
+make a redundant connection on the powered intercom line between the Main Station 
+and the Remote Stations by returning a cable from the end of the daisy-chain to the 
+second XLR3 connector in each digital intercom pair.  
+ 
+The intercom Main Station connects to these stations using various cable types 
+including shielded single-twisted-pair cables of various AWG, shielded category data 
+
+33 
+ 
+cable, and coaxial cable. Y-split and star-split cable configurations can be made 
+without the use of active splitter devices. 
+  
+ 
+ 
+Table 2: HelixNet Line 1/Line 2 Powerline XLR pin out 
+ 
+ 
+Figure 19: CAT cable to XLR3 wiring 
+ 
+ 
+ 
+Table 3: CAT cable to XLR3 
+ 
+HelixNet powerline can be deployed using a wide range of topologies, both complex 
+and straightforward. The following table describes three standard types of topology. 
+Cat5/ 5e/ 6
+XLR
+White/ Orange
+1
+Orange
+1
+White/ Green
+3
+Blue
+2
+White/ Blue
+3
+Green
+2
+White / Brown
+3
+Brown
+2
+Shield/ Drain
+1
+   
+     
+     
+     
+        
+      
+                 
+                 
+
+34 
+ 
+ 
+Table 4: Topology types 
+ 
+The HMS-4X Main Station includes a front-panel Menu button to place the Main 
+Station in Menu mode. Menu mode is used to configure the settings for the Main 
+Station and system-wide parameters including channel and audio settings, system 
+administration, system performance monitoring and diagnostics, configuration saves 
+or uploads, and software updates. The four OLED displays enables the programming 
+of Main Station parameters when the front-panel Menu button is pressed, acting in 
+conjunction with each other in a flat menu structure so that all parameter selections 
+are available across the displays. The menu hierarchy proceeds left to right. 
+  
+What is a Keyset? 
+A Keyset is a set of controls associated with an audio assignment. The Main 
+Station and Remote Station has 4 audio assignments (Keysets), and the 
+speaker station and beltpack has two main audio assignments (Keysets).  
+The Keyset on the Main Station and Remote Station is made up of four (4) 
+viewing screens, each with an associated rotary encoder controller, a Call key 
+and a Talk key. These controls display and regulate the audio routes associated 
+with the Main Station. The viewing screens display menu options and 
+diagnostics as well as controlling audio assignments. 
+          
+ 
+ 
+Figure 20: HelixNet Main /Remote Station Keyset example 
+ 
+
+35 
+ 
+Three rear-panel slots are provided to accommodate any mix of 2-wire, 4-wire, 
+copper Ethernet, or optical Ethernet interface modules. These interface modules allow 
+the Main Station to connect with a variety of digital matrix, wireless, or analog wired 
+party-line intercom systems, as well as other audio communication circuits. Ethernet 
+connectivity is described in the ‘network’ section below. Rear panel Control I/O 
+consisting of a DB-25F connector to provide four relay circuits, individually selectable 
+to be normally open or normally closed, and four opto inputs. 
+ 
+ 
+ 
+Table 5: Control 25way female D-type I/O pin out 
+ 
+The HMS-4X Main Station connectors consist of the following:  
+• 
+Front Panel: Headset, 4-pin XLR–M  
+• 
+Front Panel: Gooseneck microphone, 3-pin Tuchel connector  
+• 
+Rear Panel: Intercom Line, Two, (2) set 3-pin XLRMF loop-thru  
+• 
+Rear Panel: Hot Mic /IFB Interface, 1/4" (0.64 cm) phone jack  
+• 
+Rear Panel: One XLR3F, providing one audio line level input labeled Program 
+• 
+Rear Panel: One XLR3M, providing one audio line level output labeled SA Out 
+for Stage Announce or recording purposes 
+• 
+Rear Panel: DB25 providing four (4), opto inputs, four (4), relay contact 
+closures as delineated above. 
+ 
+Linking 
+Up to three Main Stations may be linked. In earlier versions of HelixNet (2.0 and 
+below) linking Main Stations was a way of expanding the Channel capacity of your 
+system (4 Channels on each Main Station). In HelixNet 3.0 and later, this is no longer 
+necessary as each Main Station already has 12 Channels, with the option of licensing 
+another 12 (24 Channels in total). A system, regardless of the number of linked HMS 
+units, will have 12 Channels by default with the potential of increasing that number 
+to 24 with the purchase of a license for each HMS within the Link-Group. 
+Linking Main Stations in HelixNet has the following benefits: 
+Pin
+Function
+Pin
+Function
+Pin 1
+Relay 1 NC
+Pin 14
+Relay 1 - Pole
+Pin 2
+Relay 1 NO
+Pin 15
+Relay 2 NC
+Pin 3
+Relay 2 - Pole
+Pin 16
+Relay 2 NO
+Pin 4
+Relay 3 NC
+Pin 17
+Relay 3 - Pole
+Pin 5
+Relay 3 NO
+Pin 18
+Relay 4 NC
+Pin 6
+Relay 4 - Pole
+Pin 19
+Realy 4 NO
+Pin 7
+Pin 20
++5V
+Pin 8
+GND
+Pin 21
++5V
+Pin 9
+GND
+Pin 22
+Opto 1Pin 10
+Opto 1+
+Pin 23
+Opto 2Pin 11
+Opto 2+
+Pin 24
+Opto 3Pin 12
+Opto 3+
+Pin 25
+Opto 4Pin 13
+Opto 4+
+
+36 
+ 
+• 
+More beltpack connections (20 per Main Station) 
+• 
+System distribution as far as your LAN allows. 
+• 
+The ability to configure all devices from an Internet browser using the CCM 
+(Core Configuration Manager) see below- or from the device menus. 
+• 
+Using a role-based setup. 
+• 
+Expanding a Main Station from four keys to 24 key using the expansion key 
+mode. (see below) 
+ 
+Main Stations can be linked using different methods: 
+• 
+By Ethernet and RJ45 cable in your LAN.  
+• 
+By fiber cabling between units. 
+ 
+ 
+ 
+ 
+ 
+Figure 21: Example Mesh System Topology 
+ 
+Note: Linked Main Stations should have the same number of licensed 
+channels. If you link a 24 channel device to a 12-channel device the system 
+will default to 12 channels only.  
+ 
+Key Expansion Groups 
+HelixNet units can be expanded and stacked to allow for visual monitoring and easy 
+control of multiple channels. Up to five devices (HMS-4X, HRM-4X) can be stacked in 
+an Expansion Group, allowing for convenient observation and control of up to 24 
+Keysets. This gets rid of the need for multiple key presses and microphones. When 
+using this type of connectivity, the Expanded panels act as slaves to the Host panel. 
+ 
+Refer to a HelixNet User Guide for further Link-Group setup information. 
+ 
+
+37 
+ 
+The Core Configuration Manager (CCM) 
+The Core Configuration Manager (CCM) interface provides an intuitive software utility 
+for the Helixnet platform and other IP Clear-Com products on any browser-enabled 
+platform. The CCM facilitates a quick and simple means of configuring any devices in 
+a Link-Group, including role-based configuration of endpoints, account management, 
+save and restore, and live monitoring of all system components.  
+ 
+Although there are subtle differences within CCM when directed towards FreeSpeak 
+II, LQ Series and HelixNet, the common design and workflow of the interface allows 
+a system administrator to quickly navigate from one product line to another without 
+the need for the training on different configuration tools. The pages logically group 
+similar components and/or behaviors to maximize workflow efficiency. 
+ 
+Key Features 
+• 
+Free browser-based configuration tool 
+• 
+Supports latest versions of all major web browsers 
+• 
+Common look and feel across FreeSpeak II, LQ Series and HelixNet systems 
+• 
+Configuration for any device within Link-Group 
+• 
+Multiple administrator monitoring and configuration of Link-Group 
+• 
+Overview of all system components and interfaces on a single page 
+• 
+Dark theme for low-light environments 
+• 
+Password protected 
+ 
+HBP-2X Beltpack  
+The HBP-2X intercom beltpack only communicates with the Main Station and other 
+connected remote intercom stations using the powered powerline output. It can be 
+connected with the Main Station and other user stations using various cable types, 
+including shielded single-twisted-pair cables of various AWG and shielded category 
+data cable wired to XLR3 connectors.  The beltpack receives audio data, control data, 
+and DC power via the same cable.  
+ 
+The beltpack can receive any of the system channels of intercom communications 
+simultaneously over the single cable, and can select among, monitor, and 
+communicate on any two of those channels at any given time, and receive and 
+monitor a separate level-controllable program audio feed. Using the beltpacks menu 
+function, the user can independently select among and change channel assignments 
+as necessary from any position on the intercom line.  
+ 
+The beltpack includes controls and display capabilities to access and communicate on 
+at least two simultaneous intercom channels, including: 
+• 
+OLED display, showing the name and relative level of each selected channel 
+• 
+Momentary/latching Talk buttons 
+• 
+Call buttons  
+• 
+Independent PL Rotary listen level controls 
+• 
+Independent Program Rotary listen level control 
+   
+
+38 
+ 
+A separate rotary level control for program is provided, and when that level is 
+adjusted the OLED display shall temporarily show the relative level of the program 
+signal, and then return to the standard PL screen. 
+  The beltpack provides: 
+• 
+Menu-selectable responses to a received Call, including vibrating and visual 
+alerts   
+• 
+Brightness level of the OLED screen  
+• 
+Variable, and controllable Talk, and Call buttons  
+• 
+Sidetone level can be adjustable in four 6-dB steps, ranging from 0 dB to -18 
+dB   
+• 
+Headphone peak level is adjustable in four 6-dB steps, ranging from +6 dB to 
+-12 dB   
+ 
+The menu is accessed via a front-panel push button, with parameter selection and 
+scrolling controlled by the left and right Call buttons and rotary channel level controls. 
+The beltpack menu displays the existing firmware version, and its firmware is 
+automatically updated via the Main Station to the system’s current version when 
+connected. The beltpack has a micro-USB connector which can be used for a microUSB flasher or to update firmware.  
+ 
+There is a pair of 3-pin XLR intercom connectors (1 x XLR3F, 1 x XLR3M), on the 
+bottom beltpack panel wired as pass-through so that it may be connected to the 
+intercom line and then connected to the next Remote Station or looped-back for 
+redundancy. A four-pin XLRM intercom headset connector is provided, with a five-pin 
+connector optionally available. A 2.5-mm TRS connector is provided for compatible 
+small-format headsets for listen only. 
+ 
+ 
+Figure 22: HelixNet Beltpacks 
+ 
+HXII-BP Beltpack  
+The HXII-BP intercom beltpack communicates with the system using the powerline 
+output as well as using IP protocols on an IT network thru switches providing PoE. 
+
+39 
+ 
+When connected with the Main Station, and other user stations using the powered 
+‘powerline’ output, various cable types including shielded single-twisted-pair cables 
+of various AWG and shielded category data cable wired to 3pin XLR connectors can 
+be used.  The beltpack receives audio data, control data, and DC power via the same 
+cable when connected to powerline. Connection to a Main Station over an IP network 
+requires an Ethernet interface module, (HLI-ET2), fitted to the extension bay of the 
+HMS-4X Main Station. See section 4.2 for networking with HLI-ET2. The beltpack is 
+connected to a port of a network switch providing power over Ethernet (PoE). 
+ 
+Note: The HXII-BP beltpack must be paired to the Main Station. 
+ 
+Beltpack Keysets 
+The HXII-BP-4X beltpack includes keyset controls and display capabilities to access 
+and communicate on two simultaneous intercom channels, including: 
+• 
+OLED display, showing the name and relative level of each selected channel 
+• 
+Momentary/latching Talk buttons 
+• 
+Call buttons  
+• 
+Independent PL Rotary listen level controls 
+• 
+Independent Program listen level controls 
+The listen level (volume) of the Program Feed to the beltpack is adjusted 
+using up and down control buttons on the front of the beltpack. 
+ 
+ 
+Figure 23: HelixNet Beltpack Keyset example 
+ 
+ 
+The HXII-BP-4X beltpack includes all of the features and functions and maintains the 
+same feel as the older HBP-2x beltpack with the following exclusions/additions: 
+• 
+There is no loop-thru XLR connector for the powerline circuit therefore a simple 
+male -to- 1 female/1 male “Y” cord XLR adapter is required.  
+• 
+There is no 2.5-mm TRS connector provided for compatible small-format 
+headsets for listen only. 
+• 
+The beltpack includes a EtherCon connector to facilitate connection to a 
+network switch port with PoE. 
+ 
+ 
+ 
+
+40 
+ 
+ 
+3.3.2 HRM-4X HelixNet Digital Intercom Four-Channel Remote 
+Station 
+ 
+ 
+ 
+ 
+Figure 24: HelixNet HRM-4X Remote Station Front/Rear 
+ 
+The HRM-4X Remote Station (see Figure 24), communicates with the system using 
+the powerline output as well as using IP protocols on an IT network thru switches 
+providing PoE. When connected with the Main Station, and other user stations using 
+the powered powerline output, various cable types including shielded single-twistedpair cables of various AWG and shielded category data cable wired to 3-pin XLR 
+connectors can be used.  The HRM-4X receives audio data, control data, and DC 
+power via the same cable and additionally has the capability to be locally powered 
+via an external power supply or a Power-over-Ethernet (PoE) connection. Connection 
+to a Main Station over an IP network requires an Ethernet interface module, (HLIET2), fitted to the extension bay of the HMS-4X Main Station. 
+ 
+The rack-mountable station provides access to four simultaneous channels of 
+intercom communication, plus program audio. The front panel has separate keyset 
+controls for the four communication channels, each including: 
+• 
+OLED display, showing the name and relative level of each selected channel 
+• 
+Momentary/latching Talk buttons 
+• 
+Call buttons  
+• 
+Independent PL Rotary listen level controls 
+• 
+Independent Program listen level control 
+ 
+The front panel includes a speaker with a rotary encoder level control and multi-color 
+LED level indicator. The station has separate buttons to activate the headset or the 
+gooseneck mic. 
+ 
+The HRM-4X Remote Station includes a front-panel Menu button to place it in Menu 
+mode. The four OLED displays act in conjunction with each other in a flat menu 
+structure so that all parameter selections are available across the displays. The menu 
+hierarchy proceeds left to right. Menu mode is used to configure the settings for the 
+Remote Station only including audio, channel, control I/O, station, network, 
+administration and diagnostic settings. The menu button is programmable and may 
+be locked if access is not required. 
+ 
+The HRM-4X Remote Station connectors consist of the following:  
+
+41 
+ 
+• 
+Front Panel: Headset, 4-pin XLR–M  
+• 
+Front Panel: Gooseneck microphone, 3-pin Tuchel connector  
+• 
+Rear Panel: Intercom Line, one set 3-pin XLRMF loop-thru  
+• 
+Rear Panel: Hot Mic /IFB Interface, 1/4" (0.64 cm) phone jack  
+• 
+Rear Panel: One DB9, providing one opto input, one relay contact closure, and 
+one auxiliary audio balanced input and output 
+• 
+Rear Panel: One XLR3F, providing analog line level audio input labeled for PGM 
+• 
+Rear Panel: One XLR3M, providing analog line level output used for SA 
+• 
+Rear Panel: One EtherCON RJ-45, providing Ethernet connection to Main 
+station or third-party PoE device   
+• 
+Rear Panel: 3 pin Mini-DIN connector for external power supply 
+ 
+Note: The DB9 audio circuits are wired in parallel to the 3-pin XLR PGM input and 
+SA output and cannot be used as a second source/destination. 
+ 
+3.3.3 HKB-2X HelixNet Digital Intercom Four-Channel Wall or 
+Desktop Speaker Station 
+ 
+ 
+Figure 25: HelixNet HKB-4X Speaker Station 
+ 
+The HKB-2X Remote Speaker Station (see Figure 25) communicates with the system 
+using the powerline output as well as using IP protocols on an IT network thru 
+switches providing PoE. When connected with the Main Station, and other user 
+stations using the powered powerline output, various cable types including shielded 
+single-twisted-pair cables of various AWG and shielded category data cable wired to 
+3-pin XLR connectors can be used.  The HKB-2X receives audio data, control data, 
+and DC power via the same cable and additionally has the capability to be locally 
+powered via an external power supply or a Power-over-Ethernet (PoE) connection. 
+Connection to a Main Station over an IP network requires an Ethernet interface 
+module, (HLI-ET2), fitted to the extension bay of the HMS-4X Main Station. 
+  
+The Speaker Station receives four channels of intercom communications 
+simultaneously over the single cable, and is able to select among and communicate 
+
+42 
+ 
+on any two of those channels at any given time, while monitoring all four channels. 
+Using the Speaker Station’s Shift Page button, the user can access two additional 
+intercom channels with the ability to toggle back and forth between the two pairs of 
+channels. 
+The Speaker Station provides the following keyset controls and display capabilities: 
+• 
+OLED display, showing the name and relative level of each selected channel 
+• 
+Momentary/latching Talk buttons 
+• 
+Call buttons  
+• 
+Independent PL Rotary listen level controls 
+• 
+Independent Program listen level control 
+ 
+The Speaker Station has connections for a headset and a gooseneck microphone, 
+with a selector button to choose between the sources. The integral loudspeaker is 
+powered with an amplifier providing 5 watts RMS, with a frequency response of 30 
+Hz to 10 kHz, +/-3 dB. 
+ 
+Sidetone level is adjustable in four 6-dB steps, ranging from 0 dB to -18 dB. 
+Headphone peak level is adjustable in four 6-dB steps, ranging from +6 dB to -12 
+dB. The menu is accessed via a front-panel push button, with parameter selection 
+and scrolling controlled by the left and right Call buttons and rotary channel level 
+controls. 
+ 
+The Speaker Station is mountable into a standard 4-gang ANSI/NEMA OS 1 electrical 
+box, or onto an optional enclosure to enable desktop use. Keyholes are provided in 
+the corners of the front panel to accommodate wall mounting. When mounted in an 
+optional enclosure, one each XLR-3M/F connector is provided allowing the Speaker 
+Station to be daisy-chained on the powered powerline intercom line. A RJ-45 Ethernet 
+jack is provided for connection to the Main station or to a third-party PoE device. A 
+mini-DIN connector is included to allow a local DC power adapter.  
+ 
+3.4 HelixNet Audio Interface Modules 
+For reference, all Audio and Network interface modules that insert in the rear of the 
+HelixNet HMS main station have the same rear edge connector. 
+Note: The interface modules are NOT hot pluggable. Ensure that the Main 
+Station is powered down before inserting or removing modules. 
+ 
+
+43 
+ 
+ 
+ 
+Figure 26: HelixNet module rear view edge connector 
+3.4.1 HLI-2W2 Two-Wire Interface Module 
+ 
+Figure 27: HelixNet HLI-2W2 module 
+ 
+The modular interface is used to connect two, one channel 2-wire analog audio 
+circuits, such as a Clear-Com or RTS partyline intercom, or a wireless 2-wire 
+intercom, to the HelixNet digital intercom system. Each of the connected external 2wire circuits can be assignable to any HelixNet system intercom channel. The 
+interface mounts into any of the HMS-4X Main station’s three module bays, and 
+incorporates a rear-panel edge connector to make all the necessary audio and 
+electrical connections. 
+ 
+The interface offers two 3-pin XLRF connectors to connect intercom lines and are RTS 
+/Clear-Com selectable, via the Main station’s menu or browser. Specifications provide 
+a nominal input level of -12 dBu (RTS) and -18 dBu (Clear-Com), with a maximum 
+level before clipping of +6 dBu. Input impedance is greater than or equal to 10K ohm 
+bridging. The audio output frequency response is 40 Hz to 10 kHz, +/-3 dB, with a 
+noise level of -75 dBu or better, and distortion of less than 0.2% THD at 1 kHz.  
+ 
+Note: An external DC voltage range between 20 and 30 volts must be provided 
+by connecting a system power supply. 
+ 
+
+44 
+ 
+3.4.2 HLI-4W2 Four-Wire Interface Module 
+ 
+Figure 28: HelixNet HLI-4W2 module 
+ 
+The modular interface is used to connect two 4-wire analog line-level audio circuits 
+to the HelixNet digital intercom system. Each of the connected external 4-wire circuits 
+is assignable to any of the HelixNet system intercom channels. The interface mounts 
+into any of the HMS-4X Main station three module bays, and incorporates a rearpanel edge connector to make all the necessary audio and electrical connections. 
+ 
+The interface includes two RJ-45 (Ethercon) connectors to connect 4-wire circuits. 
+Specifications include a nominal input level of 0 dBu, with a maximum level before 
+clipping of at least +18 dBu. Input impedance is greater than or equal to 10K ohm. 
+The interface provides both transformer and electrical balancing for the incoming and 
+outgoing audio paths to eliminate induced hum and noise. 
+ 
+Audio input frequency response is 20 Hz to 10 kHz, +/-3 dB, with a noise level of -
+65 dBu or better, and distortion of less than 0.2% THD at 1 kHz 
+ 
+ 
+ 
+
+45 
+ 
+4 NETWORKING AND DIGITAL PARTYLINE SYSTEMS 
+4.1 Application Background 
+ 
+Large theatres, live Event and remote Broadcast production customers are very 
+interested in HelixNet Partyline because they require a solution that provides more 
+than 20 intelligent drops (beltpacks) and many PL channels. Mid-sized venues require 
+(on average) 5-10 partyline channels with the largest venues requiring 10-20 
+partylines and 60+ drops. 
+ 
+The vast proliferation of IP-based data networks presents an opportunity for ClearCom to offer an even more powerful, flexible partyline communications system by 
+taking advantage of the available telecom/data-com infrastructures.  
+HelixNet Partyline introduces the ability to connect stations directly or over a LAN via 
+Ethernet. This connection provides increased node/user capacity and/or the ability to 
+connect channels/system in disparate locations; multiple campuses, studios, venues 
+located anywhere within a dedicated Local Area Network. HelixNet Partyline resource 
+expansion methodology is quite logical and very similar to how intercom resources 
+are expanded and managed in the analog partyline domain. This linking methodology 
+not only aids in setup and configuration, it offered flexible intercom services to 
+productions that vary in scale.  
+ 
+HelixNet station-to-station networking function is made possible with the HLI-ET2 
+Ethernet Module. Main Stations and all other Helixnet User stations can connect 
+directly or through a LAN using conventional IT switches. The HLI-ET2 comes 
+standard with two RJ-45 jacks. Specifications are given below. A HLI-FBS Fiber 
+Module is also available for linking stations over long distances. The Fiber Module has 
+two fiber ports using small form-factor pluggable, (SFP) modules for simple exchange 
+of fiber transceivers. The standard SFP is Single-Mode with Multi-Mode offered as an 
+option. 
+ 
+Multiple intercom Main Stations may be linkable via Ethernet modules or in a daisychain configuration with optical fiber interfacing modules, enabling the summation of 
+12 channel or 24-channel intercom systems. Ethernet and optical fiber interfacing 
+modules have provision to be used concurrently in the same network. Linking 
+HelixNet Main Stations together creates a network that pools channel resources of 
+the individual stations. Linked main stations can dynamically discover each other thus 
+giving HelixNet users the capability to share multiple digital partyline channels plus 
+program inputs and any 2-wire or 4-wire interfaces in a network distributed system. 
+ 
+
+46 
+ 
+4.2 HLI-ET2 Ethernet Interface Module 
+ 
+Figure 29: HelixNet HLI-ET2 module 
+ 
+The modular interface offers two Ethernet LAN network connections, enabling 
+multiple HMS-4X HelixNet Main stations, Speaker and Remote stations to be 
+connected. The connection use 10/100BaseT protocol and supports DHCP capability. 
+Within a network the stations share all digital partyline channels, program audio 
+signals and any or all 2-wire and/or 4-wire interface audio, and makes them available 
+to any station or beltpack within the linked system. All channel labels are transferred 
+across the system automatically.  
+ 
+The interface is equipped with two RJ-45 (Ethercon) connectors to interconnect the 
+Main stations in to a network. The HLI-ET2 interface incorporates a rear-panel edge 
+connector to make all the necessary audio and electrical connections and designed 
+to be installed into any of a HMS-4X Main station three module bays.  
+ 
+Both ports are configured to bridge traffic from one port to the other to work in a 
+daisy-chained configuration. Spanning Tree Protocol is not enabled on these ports, 
+therefore do not connect them both to the same network. 
+ 
+The Ethernet interface module is able to operate with the fiber optic interface module 
+(HLI-FBS) within the same network.  
+ 
+
+47 
+ 
+4.3 HLI-FBS Fiber Interface Module 
+ 
+Figure 30: HelixNet HLI-FBS module 
+ 
+The modular interface provides for two duplex optical fiber connections, enabling 
+multiple HMS-4X HelixNet Main stations to be connected. The connection employs 
+duplex single-mode and multi-mode optical fiber protocol. Via the connection, the 
+stations share all digital party-line, program audio signals and any or all 2-wire and/or 
+4-wire interface audio and make them available to any station or beltpack within the 
+linked system. All channel labels are transferred across the system automatically. 
+The fiber optic interface module is able to operate with the HLI-ET2 Ethernet interface 
+module within the same network.  
+ 
+The HLI-FBS interface provides slots for one or two hot-pluggable SFP, (small formfactor pluggable) LC duplex transceivers. The interface inserts into any of the main 
+station’s three module bays, and has a rear-panel edge connector to make all the 
+necessary audio and electrical connections.  
+ 
+4.4 Network Considerations 
+For HelixNet 3.0 and above, it is not necessary to be on the same Subnet. 
+ 
+The HelixNet HMS-4X, HRM-4X, HKB-2X and HXII-BP uses a 100Mb NIC. 
+ 
+HelixNet V3 TCP/UDP 
+Port 655 TCP - Linking HMS-4X  
+Port 80 HTML – Core Configuration Manager 
+Port 6000 TCP - Pairing with HKB-2X, HRM-4X, and HXII-BP 
+Port 6001 TCP - Authenticate, update, reboot.   
+Port 5353 UDP - mDNS, Expansion, Pair/Link by Name,  
+Port 6001 UDP - Audio  
+ 
+Managed Ethernet Switch  
+When connecting HelixNet to managed network switch ensure that the network ports 
+are set to Auto-Negotiation or 100Mb full duplex.  
+ 
+
+48 
+ 
+If the system is using more than one switch the link between the switches should be 
+set to auto-negotiation or both side of the link should have auto-negotiation off. One 
+of the most common causes of performance issues on 10/100Mb Ethernet links occurs 
+when one port on the link operates at half-duplex while the other port operates at 
+full-duplex. This occurs when one or both ports on a link are reset and the autonegotiation process does not result in both link partners having the same 
+configuration. It also can occur when users reconfigure one side of a link and forget 
+to reconfigure the other side. 
+ 
+Unmanaged Ethernet Switch  
+Since unmanaged Ethernet switches do not allow user manage port speeds, it is best 
+to use a 10/100Mb switch.    
+If an unmanaged Ethernet switch is connected to a managed Ethernet switch, the 
+port on the managed switch needs to be configured to 100Mb full duplex.  
+ 
+Hubs 
+Hubs should not be used with HelixNet, because when a hub receives a packet at one 
+of its ports, it retransmits (repeats) the packet to all its ports. This mean bandwidth 
+is wasted because all traffic is sent to all ports. 
+ 
+IP Configuration 
+The HelixNet HMS-4X intercom Main Station by default sets automatic IP addressing 
+(DHCP) enabled with menu option to disable DHCP and set static IP addresses.  
+For this to work properly in an existing IP network there must be a DHCP server 
+handing out IP addresses. If no DHCP server is found, a Main Station will revert to 
+an unused link-local address in the 169.254.0.0/16 block.  
+ 
+A link-local address is an IP address within the local segment of any network. Routers 
+do not pass information to these as link-local addresses and are not guaranteed to 
+be unique beyond a single network segment. When first connected to a network, your 
+HelixNet device will attempt to get an IP address via Dynamic Host Configuration 
+Protocol (DHCP). If no DHCP server is available, the unit will automatically enter linklocal IP mode. A link-local IP address will take the form: 169.254.xxx.xxx.  
+ 
+Note: In link-local, the address will change each time the device 
+reboots resulting in potential loss of connection to endpoints. 
+The units will operate in link-local, but for optimum performance 
+it is recommended that they are used with static network 
+settings.  
+ 
+The preferred solution is to take a HelixNet device out of linklocal mode is to disable DHCP and set static IP addresses 
+through the Networking menu from the device front menus. 
+Please confirm with your network administrator that there will 
+be no IP clashes with this address. 
+ 
+ 
+ 
+
+49 
+ 
+HelixNet Network Bandwidth 
+ 
+ 
+ 
+Table 6 – Networking Specifications 
+ 
+HelixNet audio is 300kbps per audio stream. The total IP bandwidth usage is 
+proportional to the number of devices connected over IP. A detailed example of 
+bandwidth requirement calculations follows:  
+ 
+For example, two linked HMS-4X, 10 HBP each, three HRM paired to HMS-A and five 
+HXII-BP paired over IP to HMS B. Pressing All Talk on HMS A sends out 1.2Mbps from 
+HMS-A to HMS-B plus 6Mbps to 10x HBP on HMS-A, (3Mbps) & 10x HBP on HMS-B, 
+(3Mbps) plus 1.8Mbps over IP from HMS -A (600kbps to each HRM and 600kbps to 
+HMS-B) and 1.5Mbps from HMS-B (300kbps to each HXII-BP)  
+ 
+An HMS-4X to be “reachable” from where the HRM/HKB is on port 6001 (i.e. if you 
+connect a computer where the HRM/HKB is you should be able to “ping” the HMS 
+address or at least get a telnet connection to port 6001) can be achieved in many 
+ways. Here are two of the more commonly utilized examples: 
+ 
+Scenario A 
+Company networks typically have multiple subnets or VLANs. IP routers are already 
+configured to route IP traffic across those subnets. The HMS and HRM/HKB should 
+have their IP address, Subnet mask and Gateway set properly (all automatically done 
+when there is a DHCP server). On the HRM/HKB deployed in a different subnet you 
+need to Pair to Station by entering the IP address of the HMS.  
+ 
+
+50 
+ 
+ 
+ 
+HMS IP Preferences: 
+IP Address: 192.168.30.10 
+Subnet Mask: 255.255.255.0 
+Gateway: 192.168.30.1 
+ 
+HKB IP Preferences: 
+IP Address: 172.30.10.25 
+Subnet Mask: 255.255.0.0 
+Gateway: 172.30.10.1 
+Pair to Station:192.168.30.10 
+ 
+HRM IP Preferences: 
+IP Address: 172.30.10.67 
+Subnet Mask: 255.255.0.0 
+Gateway: 172.30.10.1 
+Pair to Station:192.168.30.10 
+ 
+Scenario B 
+The HMS is in a private/different network, not directly reachable from where the 
+HRM/HKB is. A reachable IP router/gateway where the HMS is must be configured to 
+forward all the IP traffic for port 6001 TCP/UDP to the HMS: 
+ 
+ 
+
+51 
+ 
+ 
+HMS IP Preferences: 
+IP Address: 192.168.30.10 
+Subnet Mask: 255.255.255.0 
+Gateway: 192.168.30.1 
+ 
+HKB IP Preferences: 
+IP Address: 172.30.10.25 
+Subnet Mask: 255.255.0.0 
+Gateway: 172.30.10.1 
+Pair to Station:69.70.166.37 
+ 
+HRM IP Preferences: 
+IP Address: 172.30.10.67 
+Subnet Mask: 255.255.0.0 
+Gateway: 172.30.10.1 
+Pair to Station: 69.70.166.37 
+ 
+Here the Router/Gateway on the HMS side must port-forward everything coming 
+to:6001 TCP and:6001 UDP to 192.168.30.10:6001 
+ 
+HelixNet pairing by Name 
+If a HKB-2X, HRM-4X, and HXII-BP pair to a system by name. The system uses mDNS 
+to propagate HMS and HRM presence in a network. As a device populates it’s mDNS 
+entry, it specifies an ID, an IP address, a name and a list of services.  
+When configuration changes, the mDNS entry is updated and all devices connected 
+“by name” will update and re-pair/link/expand as required. 
+ 
+For in depth information see the HelixNet IP Network Technical Guide at: 
+http://www.clearcom.com/upload/download/HelixNet-IPNetworkGuide.pdf 
+ 
+ 
+
+52 
+ 
+5 DIGITAL & ANALOG PARTYLINE INTERCOM CABLING 
+COMPARISON 
+5.1 Overview 
+In both analog partyline systems, which have been in use since the 1960s, and more 
+recently introduced digital partyline systems, standard 3-pin mic cable is used 
+between a Main Station and beltpack to carry two things:    
+• 
+Power 
+• 
+Data (Audio and Control) 
+ 
+The goal of this technical chapter is to provide readers with a clear understanding of 
+the cable characteristics important to the performance of partyline intercom systems. 
+Wiring and crosstalk characteristics of analog partyline have been covered to some 
+extent in previous sections. 
+ 
+HelixNet Digital Partyline uses wired cable infrastructure to transport audio and data 
+over a range of frequencies. The maximum frequency used for transmission is 
+approximately 25MHz. Depending on the amount of audio and data transmitted, 
+HelixNet digital Partyline can work with as much as 90dB signal attenuation. 
+However, the receivers are very sensitive and are susceptible to crosstalk between 
+cables. Therefore, it is important to maintain cable shield integrity through all 
+connectors, splitter boxes and patch panels. 
+ 
+The symptoms of crosstalk are: 
+• 
+Main Station front panel LINE LED indicator turns amber or red. 
+• 
+Beltpacks, Remote Stations and Speaker Stations take longer than usual to 
+boot and connect. 
+• 
+Beltpack, Remote Station and Speaker Station front panel signal strength 
+indicators show lower than usual signal strength (zero or one bar). 
+• 
+Main Station diagnostics screen (Diagnostics->Powerlines) indicates collisions 
+or errors on the line. 
+ 
+5.2 Background 
+Each cable type has a number of physical and electrical characteristics that affect its 
+suitability for an application. Among these are: 
+ 
+Number of cores 
+• 
+Core twist properties 
+• 
+Shielding 
+• 
+Overall diameter 
+• 
+Flexibility 
+• 
+Voltage rating 
+• 
+Flammability rating 
+ 
+
+53 
+ 
+The electrical characteristics that are of particular interest for those transitioning from 
+analog to digital partyline systems are:   
+• 
+DC resistance 
+• 
+Signal attenuation 
+ 
+5.3 Power Limits 
+The one factor that affects a cable’s ability to deliver DC power is its DC resistance 
+which is related to its gauge. Figure 31 shows the relationship between cable gauge 
+and DC resistance.  
+ 
+ 
+Figure 31: Cable DC Resistance vs Wire Gauge 
+ 
+The larger the cable (lower gauge number), the lower the DC resistance and the 
+better its ability to deliver power over a longer distance. Here are some examples for 
+both analog and digital partyline.  
+ 
+5.3.1 Analog Partyline  
+In an analog partyline system, the master station delivers around 30V DC to the line. 
+The beltpack requires a minimum voltage of around 12 to 20V DC (varies dependent 
+on type) at its input in order to operate. Most analog beltpacks draw the same current 
+(around 25mA) from the line no matter what voltage they receive at their input.  
+ 
+Figure 32 shows how a cable can be considered as a simple resistance for calculation 
+of power delivery length limits. The resistance of both cores used in the power 
+delivery loop, the 30V core (R1) and the ground reference core (R2) must be 
+considered in the calculation.  
+MASTER 
+STATION
+BELTPACK
+R1
+R2
+25mA
+30V DC
+OUT
+(Vpsu)
+20V DC
+MIN
+(VLmin)
+D
+ 
+Figure 32: Analog Partyline Voltage Drops 
+ 
+In the example given in Figure 32, the maximum allowable value for the cable DC 
+resistance can be calculated as follows: 
+ 
+0
+50
+100
+18
+19
+20
+21
+22
+23
+24
+DC Resistance 
+(Ω/Km)
+Cable Gauge (AWG)
+
+54 
+ 
+(𝑅1 + 𝑅2)max =
+𝑉𝑝𝑠𝑢−𝑉𝐿𝑚𝑖𝑛
+𝐼𝐿
+ = 
+30−20
+.025 = 400Ω 
+ 
+Based on this calculation, assuming R1 and R2 are equal, a cable with a resistance 
+of 33 ohms/km (such as 20awg Belden 9463F) could achieve a distance of: 
+ 
+𝐷𝑚𝑎𝑥=
+RMAX
+R/Km = 
+400
+2∗33 = 6𝐾𝑚 
+ 
+Note that this is with a single beltpack.  Adding nine more to the end of the same 
+cable, making a total of ten beltpacks gives a maximum power distance limit of:   
+ 
+𝐷𝑚𝑎𝑥=
+𝑉𝑝𝑠𝑢−𝑉𝐿𝑚𝑖𝑛
+𝐼𝐿 x R/Km = 
+30−20
+0.25 𝑥 66 = 0.6Km 
+ 
+The nature of an analog partyline system means that when it reaches its maximum 
+cable length for power distribution, the user will experience a lowering of maximum 
+audio level available at headsets before distortion levels increase.  
+ 
+5.3.2 Digital Partyline  
+In a Clear-com digital partyline system, the master station delivers around 59V DC 
+to the line. The beltpack requires a minimum of around 24VDC to operate. Clear-Com 
+digital partyline beltpacks take the same amount of power (around 3.5W) from the 
+line no matter what voltage (within a specified range) they receive at their input. 
+   
+MASTER 
+STATION
+BELTPACK
+R1
+R2
+IL
+60V 
+DC
+OUT
+24V 
+DC
+MIN
+3.5W 
+LOAD
+ 
+Figure 33: Digital Partyline Voltage Drop 
+ 
+This means that the calculation of maximum cable length is different to that for an 
+analog beltpack. First it is necessary to calculate the current (IL) that would flow in 
+the circuit with the lowest acceptable voltage (𝑉𝐿) available at the load: 
+𝐼𝐿𝑚𝑎𝑥=
+𝑃𝐿
+𝑉𝐿  
+ 
+𝐼𝐿𝑚𝑎𝑥 = 
+3.5
+24 = 146 𝑚𝐴 
+ 
+then calculate the maximum resistance: 
+ 
+𝑅1 + 𝑅2 =
+𝑉𝑝𝑠𝑢−𝑉𝐿(𝑚𝑖𝑛)
+𝐼𝐿
+  
+𝑅1 + 𝑅2 = 
+59−24
+.146 = 240Ω 
+and maximum distance allowed as before: 
+ 
+
+55 
+ 
+𝐷𝑚𝑎𝑥=
+RMAX
+R/Km  
+ 
+𝐷𝑚𝑎𝑥 = 
+240
+2 x 33 = 3.6𝐾𝑚 
+ 
+Again, if the number of units at the end of the line increases from one to ten 
+beltpacks, the maximum cable length allowable (with Belden 9463F) drops to: 
+ 
+𝐷𝑚𝑎𝑥=
+𝑉𝑝𝑠𝑢−𝑉𝐿𝑚𝑖𝑛
+(𝑃𝐿
+𝑉𝐿) x R/Km  
+ 
+𝐷𝑚𝑎𝑥= 
+59−24
+(35
+24) x 66 = 0.36Km 
+ 
+The nature of Clear-Com’s digital partyline system means that when it reaches its 
+maximum cable length for power distribution, units towards the end of the line will 
+cease to operate until the cable connecting them to their Main Station is brought back 
+within the required specification.    
+5.4 Data Limits 
+In addition to delivering power, in both analog and digital party line systems it is also 
+necessary to ensure that the required data signal can be passed from source to 
+destination. 
+ 
+ 
+Figure 34: Comparison of Cable Attenuation 
+ 
+As shown in Figure 34, the attenuation of a cable over a given distance increases as 
+transmission frequency increases. Figure 34 also shows us that some cable types are 
+designed to be more suitable for transmitting higher frequency data whilst other cable 
+types are designed to be suitable for lower frequency transmission.  
+ 
+5.4.1 Analog Partyline 
+With analog party line, the maximum data frequency of interest is the analog audio 
+signal, a frequency of less than 20 kHz. Figure 34 shows us that at frequencies below 
+1 MHz, all the cable choices shown have a very low attenuation (<30dB/Km).  
+0
+50
+100
+150
+200
+250
+300
+350
+1
+10
+100
+Attenuation (dB/Km)
+Frequency (MHz)
+1813A
+1800F
+8412
+9207
+9463F
+Belden Cable Part 
+Numbers
+
+56 
+ 
+ 
+The nature of the analog partyline system is also such that as cable attenuation 
+between nodes increases, the effect observed by the user is a decrease in audio level 
+heard at the headset with a low distortion audio signal still being received.  
+ 
+Take our previous analog partyline system as an example: 
+ 
+BELTPACK 10
+BELTPACK 2
+MASTER 
+STATION
+BELTPACK 1
+250mA
+30V 
+DC
+OUT
+20V 
+DC
+MIN
+0.6Km
+Belden 9463F
+20Ω
+20Ω
+ 
+Figure 35: Ten Beltpack Analog Partyline Example 
+ 
+In this extreme case, assume the audio signal is 20 kHz and the cable attenuation at 
+20 kHz is the same as at 1MHz (In reality it will be much lower, but cable 
+manufacturers do not specify cable attenuation at such low frequencies).  There will 
+be attenuation (see Figure 34) of around 30dB/Km so with our maximum allowable 
+cable length the audio level will be reduced by: 
+ 
+𝐴𝑡𝑡𝑒𝑛𝑢𝑎𝑡𝑖𝑜𝑛= 0.6𝐾𝑚 𝑥30 𝑑𝐵
+𝐾𝑚= 18𝑑𝐵 
+ 
+5.4.2 Digital Partyline 
+In Clear-Com’s digital partyline system, higher frequencies are used to transmit 
+digitized audio and control data than are used in analog partyline systems. The 
+maximum frequency used for transmission is around 25MHz.  
+ 
+At that frequency, cable attenuation increases but the nature of the transmission and 
+reception technology used means that the system can operate with much greater 
+levels of signal attenuation without loss of data.  
+ 
+ 
+0
+20
+40
+60
+80
+100
+120
+0
+10
+20
+30
+40
+43
+46
+60
+70
+76
+79
+82
+85
+90
+Maximum Possible Data 
+Bandwidth (Mbps)
+Cable Attenuation (dB)
+Acceptable
+Unacceptable
+
+57 
+ 
+Figure 36: Clear-Com Digital Partyline Maximum Bandwidth vs Attenuation 
+ 
+Figure 36 shows us that depending on the amount of data transmitted, Clear-Com’s 
+digital partyline system can operate with as much as 90dB of attenuation between 
+nodes.   
+ 
+It should be noted that this ability to receive highly attenuated signals increases the 
+possibility of crosstalk between cables. It is therefore important to maintain cable 
+shield integrity through all connectors, splitter boxes and patch panels.  
+ 
+Each unit connected to a digital partyline requires a certain amount of bandwidth 
+available on the line in order to operate. Clear-Com’s digital partyline products each 
+require the following bandwidth: 
+ 
+Description 
+Model # 
+Bandwidth 
+(Mbps) 
+HelixNet Beltpack 
+HBP-2X 
+1.8 
+HelixNet Beltpack  
+ 
+HBP-2XS 
+1.8 
+HelixNet Speaker Station 
+HKB-2X 
+1.8 
+HelixNet Remote Station 
+HRM-4X 
+3.1 
+ 
+Table 7: Clear-Com Digital Partyline Unit Bandwidth Requirements 
+ 
+ 
+Figure 37: Bandwidth required vs Number of Units 
+ 
+Figure 37 shows the bandwidth required on a Clear-Com digital partyline for differing 
+numbers of digital partyline units. 
+ 
+Take our previous digital partyline example: 
+BELTPACK 10
+BELTPACK 2
+MASTER 
+STATION
+BELTPACK 1
+12.3Ω
+12.3Ω
+1.46A
+60V 
+DC
+OUT
+24V 
+DC
+MIN
+0.36Km
+Belden 9463F
+ 
+Figure 38: Ten Beltpack Digital Partyline Example 
+0
+20
+40
+60
+80
+100
+1
+11
+21
+31
+41
+51
+Bandwidth Required 
+(Mbps)
+# of Units
+HRM-4X Bandwidth
+HBP-2X/HKB-2X Bandwidth
+
+58 
+ 
+ 
+This system, with .36Km of cable with attenuation (from Figure 34) of around 
+130dB/Km will have an attenuation of: 
+𝐴𝑡𝑡𝑒𝑛𝑢𝑎𝑡𝑖𝑜𝑛= 0.36𝐾𝑚 𝑥130 𝑑𝐵
+𝐾𝑚= 48𝑑𝐵 
+ 
+From Table 7 we can calculate that these 10 beltpacks will require: 
+ 
+𝐵𝑎𝑛𝑑𝑤𝑖𝑑𝑡ℎ= 1.8𝑀𝑏𝑝𝑠 𝑥 10 = 18𝑀𝑏𝑝𝑠 
+ 
+From Figure 36 we can see that with 18Mbps of bandwidth required, the system will 
+operate with attenuation up to 90dB. Our calculated attenuation for this example of 
+48dB above is well below that limit.  
+ 
+The nature of Clear-Com’s digital partyline system means that when it reaches its 
+maximum cable length for data attenuation, the user will begin to experience lost 
+audio packets. When the maximum cable is exceeded by a significant amount, units 
+will fail to connect to their Main Station. The units all provide a signal level meter on 
+their display indicating the quality of connection back to their Main Station helping a 
+system installer to see when they are approaching the system’s limits. 
+ 
+5.5 Conclusions 
+Cable Types 
+Analog and digital partyline intercom systems place different demands on the 
+cables used and whilst some cables are very good for both systems, some that are 
+fine for one are not good for the other.  
+ 
+• 
+Analog systems require good shielding and little attention needs to be paid to 
+attenuation at higher signal frequencies.  
+• 
+Digital systems require particular attention be paid to attenuation at 
+frequencies into the MHz range.  
+ 
+Due to the combination of their low DC resistance and low attenuation at 25MHz 
+data rates, Clear-Com recommends the use of: 
+• 
+Belden 9207 cable for fixed digital partyline installations.  
+• 
+Belden 9463F cable for portable or temporary digital partyline installations.  
+See Belden’s website at: www.belden.com for more details. 
+ 
+It is worthy of note that star quad cables have very high attenuation at 25MHz 
+making them particularly poorly suited to digital partyline applications. 
+ 
+Limit Conditions 
+The nature of analog and digital systems dictates that their failure mechanisms are 
+different when cable requirements aren’t met.  
+ 
+
+59 
+ 
+Figure 39 and 40 below give a comparison of what a user can expect from analog 
+and digital partyline systems when approaching the limits of their cable’s 
+capabilities.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.6 Notes on HelixNet Powerline and Patch Bays and Mult Boxes 
+While the concept of HelixNet partyline was to keep the platform familiar and to be 
+used with existing infrastructure there are some considerations to be followed when 
+wiring the powered output (powerline) thru patch bays and mult boxes with daisy 
+chained connectors. 
+ 
+ 
+Figure 41: Patch Panels 
+ 
+ 
+Clear-Com recommends XLR patch panels. These should be made of 3 pin XLR feedthrough adapters (for example, Neutrik NA3MDF) that maintain shield integrity from 
+the back to the front. These adapters also enable easier rewiring of the back or the 
+front of the panel. 
+Figure 39: Analog Partyline 
+Performance with increasing Cable 
+Length and Number of Units 
+Figure 40: Digital Partyline 
+Performance with Increasing Cable 
+Length and Number of Units 
+
+60 
+ 
+ 
+ 
+ 
+ 
+Figure 42: XLR Patch Panels 
+ 
+Splitter boxes 
+Ensure that you split the digital intercom lines within a shielded enclosure. For 
+example, a 1RU shielded chassis, such as Middle Atlantic CH1, and daisy-chained XLR 
+connectors (for example, Neutrik NC3MD or NC3FD). 
+To prevent crosstalk between lines, ensure that each shielded splitter box contains 
+only one digital intercom line. If you should split more than one digital intercom line 
+use multiple shielded enclosures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+61 
+ 
+5.7 Recommended Wire chart for all PL 
+ 
+ 
+ 
+Table 8: Recommendations for various wire types 
+ 
+ 
+ 
+
+62 
+ 
+6 GLOSSARY 
+Some of the terms used when discussing production intercom for television or theatre may 
+be new to you as they are unique to intercom applications. Although many of the terms are 
+common to other audio applications, to be certain you understand their meanings we offer 
+the following definitions: 
+ 
+A1: Person responsible and in charge of the audio effort. Usually the A1 is the person who 
+mixes the show. 
+ 
+A2:  This person works for the A1 and is generally responsible for all audio setup outside of 
+the venue or production truck  
+ 
+Active: As opposed to passive, this means that electronic or electric circuitry is involved in 
+accomplishing something. 
+ 
+A/D: Analog-to-digital conversion. 
+ADC: Analog-to-digital converter 
+ 
+All Call: Activating an All Call button from a Main Station or Remote Main Station or user 
+station will initiate a talk to all channels at once. 
+ 
+Ambient Noise: Those background sounds which are not part of the specific communication 
+but are picked up by the microphone. Selection of a good noise-canceling microphone will 
+reduce ambient noise. 
+ 
+Ampere: The amount of electrical current when one volt is applied to one ohm. 
+ 
+Amplifier: Usually an electronic device that increases the amplitude of an electrical signal. 
+Examples include a microphone preamplifier that brings millivolt signals to volt levels. 
+ 
+Audio Frequency: Range of frequencies lying within the range of human hearing, often 20 
+hertz to 20,000 hertz, where hertz is cycles per second. 
+ 
+AWG American Wire Gauge: a standardized wire gauge system used for measuring the 
+diameters of round, solid, nonferrous, electrically conducting wire. The AWG of a stranded 
+wire is determined by the total cross-sectional area of the conductor, which determines its 
+current-carrying capacity and electrical resistance. Increasing gauge numbers give decreasing 
+wire diameters. 
+ 
+Balanced Audio:  Audio that is differently driven down a path, where neither lead of the 
+audio pair is at ground potential. Each signal on the two leads is 180 degrees out of phase 
+with each other. Because of this fact balanced audio is generally immune to outside 
+interference. Audio XLR connectors have three conductors, two for each of the two audio 
+signals and one for ground. Compared to single ended audio where the audio signal is on a 
+single conductor and referenced to ground, which is the other conductor. RCA audio 
+connectors carry single ended audio. 
+ 
+Balance Line: Defined in terms of the impedances of the two signal conductors with respect 
+to a reference, which is usually "ground". Neither conductor is tied to circuit common. Circuit 
+common is either tied to a transformer center tap, or is an electrical center point, or not tied 
+at all. 
+
+63 
+ 
+ 
+Beltpack: A portable headset user station. This station is designed to be worn on a user’s 
+belt with the idea of semi-portability. It can be single or two intercom channels capable. 
+Requires a headset or handset. Interconnects to system with microphone cable and is 
+powered by a central Power Supply or Main Station.  
+ 
+Breakout Box: A box with multiple connectors on it that is connected to a cable that 
+encompasses multiple feeds within it. The breakout box provides a separate connector for 
+each of the individual feeds for the signals in the cable. See mults and pigtails. 
+ 
+Biscuit: A portable intercom user speaker station. 
+ 
+Bridging, High Impedance (hi-Z): A method of connecting to a nominal impedance audio 
+line (such as Clear-Com) and creating a non-significant effect on the circuit. (loading or taking 
+appreciable power from that line.) Simply stated, as you add more and more stations to the 
+line, the volume remains constant.  
+ 
+Binaural: Refers to two ears. In intercom use it refers to two signals, may be stereo or may 
+be two different signals fed to two ears independently. Sometimes called split-ear. 
+ 
+Bus: Circuitry that transports multiple digital signals grouped together as parallel lines. Also 
+refers to large conductors used to carry electric power. Such a wire, or in general, a collection 
+of wires that carry some multi-bit information, is called a bus. 
+ 
+Call Signaling: This feature is included with the majority of Clear-Com products. It can be 
+an audible and/or visual alert on a user station (a lamp or LED) used to attract the attention 
+of an operator signifying that someone at another station wants to initiate a conversation. 
+The Call light feature is used for two different purposes: 1) primarily to get a user’s attention 
+of incoming communication. 2) To indicate a cue, routinely: light on means standby, light off 
+after light on means apply.  
+ 
+Cans: Slang for headphones. 
+ 
+Capacitance: Exists between the transmission line wires. The capacitance between wires is 
+usually expressed in Pico farads per unit length. This electric field between the wires is similar 
+to the field that exists between the two plates of a capacitor. Your cable consists of two wires 
+normally twisted together in a bundle. Between any two wires there will be capacitance. High 
+capacitance will affect the frequency performance of a line in two ways - increased attenuation 
+and changing phase of a signal. 
+ 
+Channel: A intercom "channel" is one individual circuit of communication used within a 
+partyline - it is typically a two-way talk/listen path. This applies to wired and wireless partyline 
+systems. An example would be a partyline channel for spot light operators. There can be more 
+than one line circuit channel to allow for multiple conversations or information flows to occur 
+simultaneously. It is possible for a user station (beltpack) to select between several channels 
+available in a system with a channel selector on the user station. This allows for multiple 
+conversations or information flows to occur independently as needed. An example would be 
+a Remote Stage Manager with Carpenters on Channel A and the rest of the production on 
+Channel B. 
+*Channel is also used to describe a range of frequencies (or, equivalently, wavelengths) 
+assigned by a government for the operation of a particular television station or radio station. 
+In common usage, the term also may be used to refer to the station operating on a particular 
+frequency. This is common with two-way radios. 
+
+64 
+ 
+ 
+Circuit: A complete path for electrical power or an electrical signal (usually two conductors). 
+In an intercom system, a channel for one or two-way conversation may be called a circuit. 
+ 
+CODEC: An acronym of Compression, Decompression = a device or piece of software which 
+takes one file or signal format and translates it to another with an ideally undetectable loss 
+of quality. Equipment that takes baseband video and audio and compresses it into one of 
+many file or transport stream formats or decompresses it back to baseband.  
+ 
+Conference Line Intercom: see Partyline 
+ 
+Crossover Cables:  
+Computers: A crossover cable is sometimes known as a null modem. 
+A crossover cable is a type of twisted pair copper wire cable for LANs (local area 
+network) in which the wires on the cable are crossed over so that the receive signal 
+pins on the RJ-45 connector on one end are connected to the transmit signal pins on 
+the RJ-45 connector on the other end. This is the opposite of the usual straight-through 
+LAN cable, in which the receive and transmit signal pins on one connector are 
+connected to the corresponding pints on the other connector. Its purpose is to allow 
+the direct connection of two LAN devices, such as two hubs, two switches or a hub and 
+a switch. It can also be used to create a direct connection between two computers. 
+Audio: 
+Very similar to a crossover cable used in Ethernet networks an audio crossover cable 
+is a type of twisted pair copper wire cable in which the wires on the cable are crossed 
+over so that the receive audio signal pins on one end are connected to the transmit 
+audio signal pins on the other end connector.  
+ 
+Cross Talk: Leakage of audio transmissions from one channel to another. 
+ 
+Decibel (dB): In electronics and communications, the decibel is a logarithmic expression of 
+the ratio between two signal power, voltage, or current levels. In acoustics, the decibel is 
+used as an absolute indicator of sound power per unit area. 
+ 
+Dry Pair: A telephone term is used to describe a pair of wires (2 conductors) that carry audio 
+but no voltage. Contrast this with a "Wet Pair" that carries both audio and voltage. 
+ 
+Daisy Chain: Some Clear-Com Partyline user stations allow the looping together (or daisy 
+chaining) of user stations. These stations have a “loop-thru” connector as well as a ‘line” or 
+“line input” connector. A partyline system can be constructed by connecting one user station 
+to another via the line and loop-thru connectors. Other wiring options are “home running,” 
+which is running a line cable from each user station to a central point connecting to the power 
+supply (“home”). 
+ 
+Destination: A destination is anything that a talk key talks to or a listen key listens to. 
+Therefore, a destination can be an intercom station, beltpack or interface, (or group of such 
+devices connected together), which is assigned to a source channel of a power supply or 
+central intercom Main Station. Within foldback systems for cuing talent, a destination also 
+describes the talent receiver or loudspeakers within green rooms 
+ 
+Dim: This the intentional attenuation of an audio signal. “Dim” occurs in two contexts in 
+intercom systems. First, Dim is used to correct a feedback problem that can occur between 
+two user speaker panels operating in close proximity that talk/listen to a common destination. 
+This can help to prevent occasional feedback between the speaker and microphone due to 
+
+65 
+ 
+volume settings, microphone placement, etc. Second, dim is referred to the lowering of a 
+program feed to a destination so that a talk path could be heard – such as in a dressing room 
+page or talent IFB cueing. 
+ 
+Dual Listen: This is an option or feature of intercom user stations. Dual listen permits an 
+operator to listen to two channels at once. This may be a mix of two channels to one ear, or 
+in a binaural or stereo user station, one channel can be assigned to one ear and the other 
+channel to the other ear. 
+Dual Listen could also be an intercom channel and a program audio source. The dual listen 
+pots are functionally configured in two ways: 1. One pot controls the audio of the channel 
+actively used, and the second pot controls the audio of a monitored channel. 2. One pot is 
+always one channel and the other pot is always the other channel.  
+ 
+Duplex: Duplex refers to bi-directional communications. “Full” Duplex describes bidirectional communications all the time. Regular communications between individuals 
+conversing face to face is "full duplex" -- in other words you can talk and listen simultaneously. 
+Full Duplex communication allows simultaneous two-way conversations, plainly - one person 
+can interrupt the other.  
+The alternative is "Half” Duplex. Half Duplex communication allows two-way conversations, 
+one-way at a time, such that one person cannot interrupt the other. A walkie-talkie is a good 
+example of half-duplex communication. 
+ 
+EFP: Electronic Field Production. An EFP truck contains the necessary audio, video, intercom, 
+and other equipment to create these productions. 
+ 
+EMI: Electromagnetic Interference. Interference caused by the radiation of electrical or 
+magnetic fields 
+from sources such as radio transmitters, light dimmers, computers, and transformers. 
+ 
+ENG: Electronic News Gathering. An ENG truck contains the necessary audio, video, intercom, 
+communications, and other equipment to effectively support gathering news and transmitting 
+news reports back to a studio. 
+ 
+Four-Wire:  A communications system where the paths are different for talk and listen. In 
+intercom channels there are four wires (two paths). Four-wire systems can be four-wire 
+balanced and four-wire unbalanced. Four-wire audio is more or less defined as a pair of 
+conductors carrying an input/receive signal and a second pair carry the output/send 
+signal. The four-wire circuit gets its name from the fact that a balanced pair of conductors 
+was used in each of two directions for full-duplex operation.  
+Four-Wire Unbalanced: A four-wire system that uses a circuit common and two 
+additional conductors. The talk pathway consists of one conductor plus circuit common. 
+The listen pathway consists of another conductor and circuit common. 
+Four-Wire Balanced: Four-wire balanced is similar to four-wire unbalanced except 
+that conductors are not tied to circuit common. Circuit common is either tied to a 
+transformer center tap, or is an electrical center point, or not tied at all. 
+ 
+GHz – Gigahertz: Thousand million cycles per second. 
+ 
+GPIO: General Purpose Input/Output. (You may also see this referred to simply as “GPI”.) 
+GPIO is a means of controlling devices using switch contact closures, DC voltages, or similar 
+methods. Additional general purpose control outputs are provided by optional relay frames. 
+ 
+
+66 
+ 
+Headset: portable intercom connection from a user station to one or both ears via 
+headphones with integrated microphone on a boom arm. Connects to a beltpack, remote 
+stations or Main Stations. Used by the user to talk and or listen. 
+ 
+Headset Microphone Type: 
+Dynamic Microphone: Converts sound pressure waves to electrical signals by means 
+of a coil attached to a diaphragm moving in a magnetic field. 
+Electret Microphone: A microphone using a capacitor as the sound pressure sensing 
+element. Electret microphones are a special case of condenser microphones in that 
+they are permanently polarized and require no special polarizing voltage. Electret 
+microphone outputs are high impedance.  
+ 
+Headset/Double-Muff: Headset with two earphones plus a microphone. It can be connected 
+monaurally (same information, both ears) or binaurally (separate feed each ear). In binaural 
+operation, the feed can be intercom in one ear and program in the other, or intercom channel 
+A in one ear and intercom channel B in the other ear. Channels A and B are either conference 
+line channels or other intercom feeds. A binaural feed requires a binaural/stereo capable user 
+station. 
+ 
+Hertz (symbol: Hz): a unit of frequency. It is defined as the number of cycles per second. 
+It is the basic unit of frequency in the International System of Units (SI), and is used 
+worldwide in both general-purpose and scientific contexts. Hertz can be used to measure any 
+periodic event; the most common uses for hertz are to describe radio and audio frequencies, 
+more or less sinusoidal contexts in which case a frequency of 1 Hz is equal to one cycle per 
+second. 
+ 
+IFB: is abbreviation for Interrupted Fold-Back. It is often a communication circuit feature or 
+a separate system that interfaces with the intercom system. In use, a user, (typically talent) 
+listens to the program all the time and is ‘interrupted’ by the director (typically) with cues or 
+instruction.  
+ 
+Impedance: Impedance is the total effect of resistance, capacitance and inductance and 
+each of these oppose electrical flow on a cable in different ways. Impedance is a combined 
+effect or total opposition to current flow. 
+ 
+I/O: input and output connections 
+ 
+ISO: A private conversation path. An ISO channel allows one to simply push a button and 
+transfer themselves and the person they wish to speak with to an isolated channel. 
+ 
+kHz – Kilohertz: Thousand cycles per second.  
+Local area network (LAN): a computer network covering a small physical area, like a home, 
+office, or small group of buildings, such as a school, or an airport. The defining characteristics 
+of LANs, in contrast to wide-area networks (WANs), include their usually higher data-transfer 
+rates, smaller geographic place, and lack of a need for leased telecommunication lines. 
+Latency: Usually used in context of audio, video, and RF signals. Latency is the time it takes 
+a signal to travel over a path or through a piece of equipment. 
+Limiter:  Used to limit dynamic range to ensure adequate intelligibility to the listener. The 
+limiter/compressor in user stations has three functions: I) It helps loud talkers and soft talkers 
+
+67 
+ 
+to be heard equally well, 2) It prevents a loud voice from being severely distorted, 3) It keeps 
+the voltage levels from exceeding system limits. 
+ 
+Line: A single communication or audio path. 
+ 
+Local Power Option: Local Power Source is a small AC converter that converts AC line power 
+to low voltage in order to power a user station --a separate connector is provided. User 
+stations usually get DC from the converter, although occasionally low voltage AC power is 
+used. 
+ 
+Loop-Through See “Daisy Chain”. 
+. 
+MHz: Million cycles per second.  
+ 
+Main Station/Master Station: Typically a analog or digital partyline multi-channel intercom 
+station with an internal power supply which can provide power both to itself and to all of the 
+remote stations connected to it. 
+ 
+Mix-Minus Bus /feed: A mix-minus feed is typically used for the IFB. 
+The mix-minus allows the talent to hear the program audio that includes the voices of other 
+talents at other venues as example, but not the talent’s own voice. The effect is to allow more 
+normal conversations, on air, among the performers. The bus feed refers to the mixer mixminus feed available to one or more IFB program inputs. 
+ 
+Mono: Single channel audio 
+ 
+Mults = A large cable that is made up of many smaller internal cables. Often used to carry 
+multiple audio feeds. In many instances fiber optic cables are replacing these cables. A mult 
+box is sometimes called a 'press box' usually reserved for the sports media's section of an 
+arena or frequently at press conferences.  
+ 
+Multi-Channel: More than one channel 
+ 
+Null: A hybrid's ability to isolate the transmit signal from the receive signal in the 2-wire-to4-wire interface is critical. The quality of this isolation is technically known as return-loss. 
+A side tone nulling control fine tunes the circuitry to best match the devices to the acoustic 
+conditions near the intercom, as well as to the electronic conditions on the intercom line.  
+They should be set at the time of system installation and adjusted as is comfortable for the 
+user.  
+Four-wire audio is more or less defined as a pair of conductors carrying an input/receive signal 
+and a second pair carry the output/send signal. This hybrid circuit connects the four-wire 
+audio to the single wire in such a way as to variably restrict the user's reception of his own 
+voice on the intercom line, which is often referred to as "side tone". 
+High gain between the send and receive poses a risk of oscillation or ‘howling’ resulting from 
+acoustic and/or electronic coupling within a headset or between a speaker and a microphone. 
+With manual nulling devices there are the following accessible controls: Separate "R" 
+(Resistance), "L" (Inductance), and "C" (Capacitance) controls compensate for each 
+component of the line's impedance, providing the best null possible. 
+Ideally, there should be no portion of the talk signal in the listen signal. 
+The variation of the 2-wire line phase coherency is affected by the cable capacitance (length 
+of wire and gauge) and inductive elements of the line . 
+The “C” control compensates for cable capacitance; the setting depends on the length of the 
+line.  
+
+68 
+ 
+The “L” control compensates for the low-frequency inductive and capacitive elements the 
+wiring of the external party line presents to the line. 
+The importance of 2-wire termination, lack of, or double termination also influences the null 
+result. If the “R” control is turned fully counter-clockwise, the line has either more than one 
+termination, or an excessive resistive load. If the “R” control is fully clockwise, then the line 
+has no termination. 
+ 
+Party Line (PL): Intercom system where all people talking on the system can talk or listen 
+to each other simultaneously. The name PL (partyline) came from the original telephone 
+systems where everyone shared the same line and could hear and join all conversations at 
+once. It is often called conference systems, 2-wire or TW, which stands for two-wire (see 
+2-wire description). A Partyline system allows a group of people to intercommunicate. A Party 
+Line is classically used when several users, such as beltpacks, are active in a common task 
+and they must communicate with each other all the time. 
+Characteristics of party lines 
+• 
+When the party line is already in use, if any of the other subscribers to that line pick 
+up the headset, they can hear and participate in the conversation.  
+• 
+Completely non-private lines 
+• 
+Systems are created from building block components to correspond the demand of the 
+event. 
+Conference systems can be distributed or centralized. Most of the systems are distributed 
+conference systems. Distributed means that a station can be plugged-in at any arbitrary point 
+along the bus or channel. 
+ 
+Pigtail: A group of cables that converge into one large connector at one end and at the other 
+ends each cable has its own separate connector. It is designed to patch into an existing line 
+or to terminate the ends of a long run 
+Point to Point: One path to one person 
+ 
+Powerline Technology: A method where data is modulated on a carrier frequency 
+and added to electrical wiring to simultaneously carry both data and electric power. 
+It is a highly-effective data transmission medium. 
+ 
+Power Supply: The source of electrical power (“power outlet”). In North America this source 
+is generally 120 volts AC, 60 hertz. In Japan the source is generally 100 volts, 50 or 60 hertz. 
+In Britain the source is 240 volts, 50 hertz. In Europe the power is usually 220 volts, 50 hertz. 
+In addition, some equipment is operable off of DC sources such as batteries. 
+ 
+Power Supply Clear-Com: A specific power supply to operate Clear-Com beltpacks and 
+remote stations. The analog Clear-com power supply provides low noise DC power (30 VDC 
+± 0.5V) up to 1.2 amperes per channel and an audio line impedance of 200 ohms. 
+ 
+Program: Audio source that is fed into the intercom channels or stage announce. 
+ 
+Program Interrupt: Disconnects the audio source while the talk button on the Main Station 
+is pushed. (see IFB) 
+ 
+Push- To- Talk (PTT): Usually used on handsets or push-to-talk microphones. Pushing the 
+button enables the microphone talk circuit on.  
+QOS: Quality Of Service 
+
+69 
+ 
+Rack Unit: A unit of measure used in racks that designate how tall a piece of equipment is 
+when installed in a rack. One rack unit or RU is 1.75 inches tall (44.45 mm). A piece of 
+equipment that is said to be 4 rack units tall has a height of 7 inches. 
+Relay: A relay is an electrically operated switch. Commonly these relays are Normally-open 
+(NO) contacts which mean they connect the circuit when the relay is activated; the circuit is 
+disconnected when the relay is inactive. It is also called a Form A contact or "make" contact. 
+Typically, in audio electronics, these relays are of the dry contact type. Dry contact refers to 
+a contact of a relay which does not make or break a current. They simply turn something on 
+or off. 
+Rating: In audio electronics a rating of .05 to 2 Amp at 24 volts AC/DC maximum is common. 
+A “Phoenix” type connector plug is also common and it plugs into the relay contact port on 
+the rear of the base station for wiring to external devices. A use for a relay is sometimes 
+associated with turning on a light for attention such as an on-air light.  
+ 
+Remote Mic Kill (RMK): The ability for certain intercom user stations to shut off all talk 
+circuits on an intercom line in a system. 
+ 
+Remote Station: Like the beltpack, this would be any of the products connected to the 
+intercom line that allow duplex or half-duplex conversation, but do not contain a Power 
+Supply. A Remote Station cannot power other Stations 
+ 
+RF: Radio Frequency.  
+ 
+Sidetone: This is a small amount of your own voice heard in your earphone as you are 
+speaking. 
+Splitter: Usually refers to a passive audio device that takes one audio source in and provides 
+two or more outputs. 
+Stage Announce (SA): Typically a voice page made over a loudspeaker. In wired intercom 
+when a SA control is pressed, either at a base station or an assignable beltpack, the user’s 
+audio is routed to the stage announce connector on the back of the base station. This is 
+usually an analog line level audio output. The user may lose their headset side tone as an 
+indication that stage announce is activated. The other users do not hear the announce audio. 
+The button is non-latching. 
+ 
+Station: A station is connected to one or more channels. For example, if you have six people 
+who need to hear one director you have a seven-station single-channel need. If the same 
+director needs to speak privately to any one of the six, add a second channel. You now have 
+a seven-station, two channel system. 
+ 
+Termination: Passive network that is connected in each channel, usually on the Power Supply 
+or Main Station.  
+Tie Lines = Generally cables that have no dedicated use that link one section to another. Tie 
+lines usually terminate at patch panels or other IO panels. 
+Two-Wire: A communications system where the path is the same for both talk and listen. In 
+intercom channels there are two wires (one path). Two-wire systems can be two- wire 
+balanced or two-wire unbalance 
+ 
+
+70 
+ 
+Turn around: A term used to describe an audio interface cable or barrel type tube device, 
+sometimes called couplers, that coverts a female-to-female or male-to-male connector used 
+to turn snake channels from a send to a return or vice versa, but they also come in handy 
+when a stage hand has inadvertently run a very long XLR cable in the wrong direction. 
+ 
+Wet Line:  An intercom that carries both audio and DC voltage/current. As opposed to a dry 
+line that carries only the audio. 
+ 
+XLR: standard connector for audio, most commonly with three pins or contact points. Four 
+and five pin versions are used for intercom headsets and multi-channel microphones. Cannon 
+Electric invented the connector and made it part of its “X” series or connectors. Because of 
+its locking mechanism the “L” was added, and the fact that it has rubber insulation resulted 
+in the final “R” designation. 
+ 
+ 
+
+71 
+ 
+7 KEY NETWORKING TERMS 
+Internet Protocol (IP) - is responsible for addressing hosts and for routing datagrams 
+(packets) from a source host to a destination host across one or more IP networks. For this 
+purpose, the Internet Protocol defines the format of packets and provides an addressing 
+system that has two functions: Identifying hosts and providing a logical location service. 
+Transmission Control Protocol (TCP) - provides a communication service at an 
+intermediate level between an application program and the Internet Protocol. It provides hostto-host connectivity at the Transport Layer of the Internet model. 
+User Datagram Protocol (UDP) - uses a simple connectionless transmission model with a 
+minimum of protocol mechanism. UDP provides checksums for data integrity, and port 
+numbers for addressing different functions at the source and destination of the datagram. It 
+has no handshaking dialogues, and thus exposes the user's program to any unreliability of 
+the underlying network: there is no guarantee of delivery, ordering, or duplicate protection.  
+broadcast data (bc) - Directed broadcast packets NOT global broadcast packets which are 
+255.255.255.255 
+OSI 7-Layers - Reference Model is derived from ARPANET and initially financed by the 
+Defense Advanced Research Projects Agency, or DARPA, of the US Department of Defense. 
+Note: The OSI 7-Layer Model attempts to define how telecom and data systems should 
+interconnect. 
+ 
+Dynamic Host Configuration Protocol (DCHP) - dynamically distributes network 
+configuration parameters, such as IP addresses, for interfaces and services. 
+Internet Protocol version 4 (IPv4) - uses 32-bit addresses which limits the address space 
+to 4294967296 (232) addresses.  
+
+72 
+ 
+Subnet is a logical subdivision of an IP network. The practice of dividing 
+a network into two or more networks is called subnetting. 
+ 
+Default Gateway - in computer networking is the node that is assumed to know how to 
+forward packets on to other networks. Typically, in a TCP/IP network, nodes such as servers, 
+workstations and network devices each have a defined default route setting, (pointing to the 
+default gateway), defining where to send packets for IP addresses for which they can 
+determine no specific route. 
+Domain Name Servers (DNS) are the Internet's equivalent of a phone book. They maintain 
+a directory of domain names and translate them to Internet Protocol (IP) addresses.  
+Example: You enter www.ClearCom.com the DNS translates IP address 5.79.47.16 
+ 
+ 
+ 
+Ports - is an endpoint of communication in an operating system. A port is always associated 
+with an IP address of a host and the protocol type of the communication, and thus completes 
+the destination or origination network address of a communication session. A port is identified 
+for each address and protocol by a 16-bit number, commonly known as the port number.  
+For example, an address may be "protocol: TCP, IP address: 1.2.3.4, port number: 80", which 
+may be written 1.2.3.4:80 when the protocol is known from context. 
+Note: Port numbers are in the range 0 – 65536. Web servers are by default Port 80 while FTP 
+servers are typically Port 21. 
+
+73 
+ 
+Port forwarding - is an application of network address translation (NAT) that redirects a 
+communication request from one address and port number combination to another while the 
+packets are traversing a network gateway, such as a router or firewall. This technique is most 
+commonly used to make services on a host residing on a protected or masqueraded (internal) 
+network available to hosts on the opposite side of the gateway (external network), by 
+remapping the destination IP address and port number of the communication to an internal 
+host. 
+Virtual private network (VPN) - extends a private network across a public network, such 
+as the Internet. It enables users to send and receive data across shared or public networks 
+as if their computing devices were directly connected to the private network. Applications 
+running across the VPN may therefore benefit from the functionality, security, and 
+management of the private network. 
+Types:  
+Internet Protocol Security or IPSec - is used to secure Internet communication 
+across an IP network. IPSec secures Internet Protocol communication by 
+authenticating the session and encrypts each data packet during the connection. 
+Layer 2 Tunneling Protocol (L2TP) -  
+or Layer 2 Tunneling Protocol is a tunneling 
+protocol that is usually combined with another VPN security protocol like IPSec to 
+create a highly secure VPN connection.  
+Point – to – Point Tunneling Protocol (PPTP) - creates a tunnel and encapsulates 
+the data packet. It uses a Point-to-Point Protocol (PPP) to encrypt the data between 
+the connection. PPTP is one of the most widely used VPN protocol and has been in use 
+since the time of Windows 95. Apart from Windows, PPTP is also supported on Mac 
+and Linux.  
+Secure Sockets Layer (SSL) and Transport Layer Security (TLS) - create a VPN 
+connection where the web browser acts as the client and user access is restricted to 
+specific applications instead of entire network. SSL and TLS protocol is most commonly 
+used by online shopping websites and service providers. Web browsers switch to SSL 
+with ease and with almost no action required from the user, since web browsers come 
+integrated with SSL and TLS. SSL connections have https in the beginning of the URL 
+instead of http.  
+OpenVPN - is an open source VPN that is useful for creating Point-to-Point and Siteto-Site connections. It uses a custom security protocol based on SSL and TLS protocol. 
+Secure Shell (SSH) - creates the VPN tunnel through which the data transfer happens 
+and also ensures that the tunnel is encrypted. SSH connections are created by a SSH 
+client and data is transferred from a local port on to the remote server through the 
+encrypted tunnel.  
+Quality of Service (QoS) - is the overall performance of the computer network, particularly 
+the performance seen by the users of the network. 
+
+74 
+ 
+Codec - is a device or computer program for encoding or decoding a digital data stream or 
+signal. 
+ 
+ 
+Bandwidth - is the bit-rate of available or consumed information capacity expressed typically 
+in metric multiples of bits per second. 
+Jitter - is a common problem of the connectionless networks or packet switched networks. 
+Because the information (voice packets) is divided into packets, each packet can travel by a 
+different path from the sender to the receiver. When packets arrive at their intended 
+destination in a different order then they were originally sent, the result is a call with poor or 
+scrambled audio. 
+Dante - Based on industry standards, Audinate created Dante, an uncompressed, multichannel digital media networking technology, with near-zero latency and synchronization. 
+For more training and information on Dante visit www.audinate.com/resources/training-andtutorials 
+Local Area Network (LAN) - everything on the 
+same segment using local sets of IP switches to 
+local PCs and equipment. 
+Wide Area Network (WAN) - may contain 
+several LANs connected over public networks 
+(e.g. T1) or between sites through managed 
+routers. The WAN may have a selection of QoS 
+depending on priority, type of service and 
+packet characteristics. 
+Internet - is an internationally connected network of billions of smaller WANs connecting 
+businesses and homes. 
+Multicast - is group communication where information is addressed to a group of destination 
+computers simultaneously. Group communication may either be application layer multicast or 
+network assisted multicast, where the latter makes it possible for the source to efficiently 
+send to the group in a single transmission. Copies are automatically created in other network 
+
+75 
+ 
+elements, such as routers, switches and cellular network base stations, but only to network 
+segments that currently contain members of the group. 
+Internet Group Management Protocol (IGMP)/Snooping - is a communications protocol 
+used by hosts and adjacent routers on IPv4 networks to establish multicast group 
+memberships. IGMP is an integral part of IP multicast. IGMP can be used for one-to-many 
+networking applications such as online streaming video and gaming, and allows more efficient 
+use of resources when supporting these types of applications. 
+Broadcast - is the distribution of audio and/or video content or other messages to a dispersed 
+audience via any electronic mass communications medium, but typically one using the 
+electromagnetic spectrum (radio waves), in a one-to-many model. 
+Session Initiation Protocol (SIP) – is a communications protocol for signaling, for 
+controlling multimedia communication sessions. Internet telephony, business IP telephone 
+systems, service providers and all of the carriers use SIP. SIP can be used to set up and 
+control voice and video calls, as well as instant messaging. The most common application of 
+SIP is the setup and termination of Voice over IP (VoIP) telephone calls. 
+Voice over IP (VoIP) - is a methodology and group of technologies for the delivery of voice 
+communications and multimedia sessions over Internet Protocol (IP) networks, such as the 
+Internet. 
+Real-time Transport Protocol (RTP) - is a network protocol for delivering audio and video 
+over IP networks. RTP is used extensively in communication and entertainment systems that 
+involve streaming media, such as telephony, video teleconference applications, television 
+services and web-based push-to-talk features. RTP typically runs over UDP. 
+Auto-negotiation - is an Ethernet procedure by which two connected devices choose 
+common transmission parameters, such as speed, duplex mode, and flow control. 
+Full-Duplex - both parties can communicate with each other simultaneously. 
+Network Interface Controller (NIC) - also known as a network interface card, network 
+adapter, LAN adapter or physical network interface. A ‘NIC’ Is a computer hardware 
+component that connects a computer to a computer network. 
+Backplane speed (aka: switching fabric or switching capacity) - Is the maximum 
+number of packets/sec that can be routed out of any one port per second. When the 
+forwarding capabilities of a backplane are greater than the sum of speeds of all ports (counted 
+twice, Tx/Rx) we call the switching fabric non-blocking, meaning traffic between a pair of 
+ports is not influenced by what traffic is exchanged on all other ports. 
+Forwarding Rate - The forwarding rate is expressed in packet per seconds and expresses 
+how many packets per second are needed to reach a certain traffic volume (throughput). As 
+forwarding rate depends on frame size, a switch is normally non-blocking up to a certain 
+frame size. 
+
+76 
+ 
+Throughput - specifically relates to how much data can cross the switch in a given time 
+frame. 
+SFP – The (Small Form-factor Pluggable) transceiver, also known as mini-GBIC, offers a 
+standard optical modular, hot swappable electrical interface, one gigabit port that can 
+support a wide range of physical media, from copper to long-wave single-mode optical fiber, 
+at lengths of hundreds of kilometers. 
+ 
+ 
+
+© 2018. Clear-Com LLC. All rights reserved.
+® Clear-Com and the Clear-Com logo are registered trademarks of Clear-Com LLC. 
+ABOUT CLEAR-COM
+Clear-Com, an HME company, is a trusted global provider of professional real-time 
+communications solutions and services since 1968. We innovate market proven 
+technologies that link people together through wired and wireless systems.
+Clear-Com was ﬁrst to market portable wired and wireless intercom systems for 
+live performances. Since then, our history of technological advancements and innovations 
+has delivered signiﬁcant improvements to the way people collaborate in professional settings 
+where real-time communication matters. For the markets we serve—broadcast, live performance, 
+live events, sports, military, aerospace and government—our communication products have 
+consistently met the demands for high quality audio, reliability, scalability and low latency, while 
+addressing communication requirements of varying size and complexity. Our reputation in the 
+industry is not only based on our product achievements, but also on our consistent level of 
+customer engagement and dedication to delivering the right solutions for specialized applications, 
+with the expertise to make it work. Around the globe and across markets, Clear-Com’s 
+innovations and solutions have received numerous awards and recognitions for ingenuity and 
+impact to customers.
+Americas and Asia-Paciﬁc Headquarters
+California, United States
+Tel: +1 510 337 6600
+Email: SalesSupportUS@clearcom.com
+          SalesSupportAPAC@clearcom.com
+Europe, Middle East, and Africa Headquarters
+Cambridge, United Kingdom
+Tel: +44 1223 815000
+Email: SalesSupportEMEA@clearcom.com
+China Representative Oﬃce
+Beijing, P.R.China
+Sales/Marketing Tel: +86 10 59002608
+Service Tel: +86 10 59000198
+Email: SalesSupportAPAC@clearcom.com
+www.clearcom.com

@@ -1,0 +1,668 @@
+ 
+Microphone Usage for Sports Broadcasting 
+by Helmut Wittek, September 2016 
+ 
+
+ 
+2 / 13 
+Microphone Usage for Sports Broadcasting 
+Direct sound: 
+- 
+Loud, discrete sounds in the stadium 
+such as drums, grunting, yelling, ball 
+hits, stadium announcements, etc. 
+Diffuse sound and ambience: 
+- 
+Reverberation 
+- 
+Basic ambience, audience noise 
+- 
+Stadium music (if applicable) 
+- 
+Motor noise (if applicable) 
+ 
+Introduction: The goals of audio for sports broadcasting ................................................................................................. 2 
+1. 
+Which microphone arrangements offer the greatest potential for sports broadcasting? ......................................... 3 
+2. 
+Main microphones and ambience microphones ..................................................................................................... 3 
+3. 
+Spot and effects miking ........................................................................................................................................ 8 
+4. 
+Commentator miking ......................................................................................................................................... 12 
+5. 
+Sound for sports events – a complex production ................................................................................................. 13 
+ 
+ 
+Introduction: The goals of 
+audio for sports broadcasting 
+Audio for sports broadcasting is a specialty that 
+places extremely high demands on the equipment—
+the microphones in particular. They have to sound 
+good while reproducing the sound of a complex, 
+often irregular space; one must be able to set them 
+up within a few hours; they must be easy to handle, 
+yet robust enough to withstand wind and weather, 
+and they must be reliable under rough, everyday 
+conditions. And they must be nearly invisible, since 
+they can’t be allowed to block the view of the event 
+nor of the advertising banners. All this makes life 
+very interesting for the sound engineers, planners, 
+equipment operators and manufacturers who 
+support this special field. 
+Given the great popularity of televised sports 
+broadcasts, the number of people hearing the results 
+can be very large. And the qualitative expectations 
+for sports broadcasting are also very high. This 
+comes partly from the enormous competition among 
+service providers, but also from the sound engineers, 
+who realize how much untapped potential there is 
+for television sound to involve the audience in the 
+powerful atmosphere of an event. When creative 
+minds are involved in originating the sound, and 
+when the necessary expenditures are not skimped 
+upon, the total experience of the audience can be 
+improved significantly. 
+The arrangement chosen for the microphones is an 
+important part of the overall sound concept for a 
+sports broadcast. The main goals of a microphone 
+arrangement in sports broadcasting are: 
+1. 
+Envelopment: Bringing the audience into the 
+atmosphere of the event 
+2. 
+Providing information about occurrences, not 
+all of which are visible in the picture 
+3. 
+Supporting the picture (maintaining 
+“image/sound congruency”) 
+4. 
+Quasi-cinematic dramatization of events  
+These four main points are not mere details. The 
+sound design and the arrangement of microphones 
+influence the essential characteristics of a sports 
+production significantly, even though the cost in 
+money and personnel represents only a relatively small 
+part of the total technical expenditure for a 
+
+ 
+3 / 13 
+Microphone Usage for Sports Broadcasting 
+production. In addition, the TV viewer increasingly 
+expects the kind of first-class, “hyper-real” sound 
+track that Hollywood film productions offer, even if 
+live sports productions may not seem to offer a 
+comparable range of possibilities. 
+1. Which microphone 
+arrangements offer the 
+greatest potential for sports 
+broadcasting? 
+Audio producers for the most ambitious sports 
+productions, such as the World Cup soccer 
+championships and the Olympics, face many difficult 
+demands. Their way of using microphones is aimed 
+at supporting the four main goals mentioned above. 
+This does not necessarily cause great expense; a 
+careful review of issues and problem areas can often 
+bring about improvements without any increase in 
+expense at all. The following topics in microphone 
+usage will be given special consideration in this 
+article: 
+- 
+Main microphones and ambience 
+microphones (Surround/Stereo), see paragraph 
+3 
+- 
+Ambience spot microphones (Stereo/Mono), 
+see paragraph 4 
+- 
+Spot and effects microphones (Mono), see 
+paragraph 5 
+- 
+Commentator pickup (Mono), see paragraph 6 
+Each aspect can be optimized. Together they must 
+produce an audio mix that the listener will find 
+striking and informative, and that places him or her 
+in the midst of the event. 
+2. Main microphones and 
+ambience microphones 
+Main microphone arrangements or ambience 
+microphone arrangements are each usually placed in a 
+centralized location, though sometimes they may 
+consist of several distributed single microphones. Their 
+purpose is to pick up both the essential occurrences of 
+a sports event as well as the atmosphere and spatial 
+character of the venue. Often, each microphone is 
+directly routed to a single loudspeaker, i.e. in 5.1 
+surround there are 4-5 microphones for the speakers 
+L, (C), R, LS, RS. 
+One determining characteristic of the main 
+microphone arrangement should naturally be sonic 
+transparency. In every study, the fidelity of sound 
+color and the avoidance of sound coloration has been 
+found to be the most relevant attribute. We highly 
+recommend small-diaphragm condenser microphones 
+of studio quality for this reason. 
+The main microphone arrangement has the following 
+functions: 
+a) 
+Capturing the space and the atmosphere 
+b) 
+Enveloping the listener and bringing him into the 
+environment of the event 
+c) 
+Formation of an underlying sonic structure that 
+allows for the fitting in of signals from spot 
+microphones. 
+These functions can be achieved by choosing the main 
+microphone geometry so that two essential factors are 
+obtained: a good 360° representation of direct sound 
+and a decorrelated pickup of the diffuse ambient 
+components of the sound field (' see block below). 
+ 
+ 
+
+ 
+4 / 13 
+Microphone Usage for Sports Broadcasting 
+Microphone setup geometry for ideal 360° representation 
+To achieve an even distribution of sound sources between two loudspeakers, two microphones must be set up with a 
+particular distance and angle between them, thus obtaining level and arrival time differences. The distance and angle 
+depend on the directional pattern of the microphones. These parameters can be calculated by using the "Image Assistant“ 
+at www.hauptmikrofon.de. One well-known example is the ORTF arrangement, in which two cardioid microphones are set 
+with 17 cm and 110° between them. The ORTF arrangement creates an evenly spread image between the loudspeakers for 
+sound sources with arrival angles between -50° and +50° of center; in other words, the stereophonic recording angle is 
+100°. 
+For a 5.1 surround arrangement, the same rules apply as for two-channel stereo, with each adjacent pair of microphones 
+or loudspeakers being considered: L/R (or L/C + C/R), R/RS, LS/L and LS/RS. 
+ 
+360° Imaging 
+360° imaging is achieved by positioning the 
+microphones so that suitable level and/or arrival time 
+differences occur between each adjacent pair of 
+loudspeakers in the surround environment. The decisive 
+factors are the directional patterns of the microphones 
+as well as their relative distances and angles. The 
+relationship between microphone setup geometry and 
+the resulting directional image is well known; the 
+relevant principles are explained in the following block. 
+A rough image can also be achieved by using separate 
+microphones that are positioned distinctly far apart from 
+one another. The signal separation of such microphones 
+will naturally be good, but no kind of stereophonic 
+image will occur between loudspeakers; the 
+loudspeakers themselves will be the only points from 
+
+ 
+5 / 13 
+Microphone Usage for Sports Broadcasting 
+which any sound sources will seem to 
+originate. This increases the risk that the 
+ambience will seem to be tied directly to the 
+loudspeakers. 
+Diffuse sound recording 
+An ambience microphone picks up mainly 
+diffuse sound. In a sports arena the 
+predominant sound components will be 
+diffuse ambience, audience sounds, 
+reverberation, and where applicable, stadium 
+music and motor/engine noise. Optimal 
+pickup of diffuse sound, producing 
+spaciousness and envelopment as well as 
+inclusion of the listener, requires adequate 
+separation among the signals of all the 
+loudspeaker channels. Hence, they must 
+present diffuse sound components that differ 
+from one another. Should this not be so, the 
+virtual space will collapse because the 
+reverberance will seem to emanate only from 
+the specific loudspeaker positions, and the 
+room will sound narrow and unnatural. Each 
+mono component in the main microphone 
+arrangement increases the perceived, 
+unwanted distance between the listener and 
+the recording site. Non-diffuse (in the 
+extreme case, mono) reproduction of diffuse 
+sound has an effect that resembles listening through a 
+small window into the space where the events are 
+occurring. The following block explains the necessary 
+microphone geometry for sufficient decorrelation of 
+diffuse sound.  
+Does the ambience microphone setup 
+need the center channel? 
+In ambience pickup for sports events the center channel 
+is mostly used at a low level or not at all. This is partly 
+because other important content already occupies the 
+center channel (commentary, spot mike signals tied to 
+the picture), and partly because the reproduction of 
+ambience actually tends to decrease in quality when the 
+center channel is included; this is due to the less optimal 
+diffuse-field correlation and the energy balance between 
+the front and rear.  
+The ambience microphone arrangement will need to be 
+significantly larger if a center-channel microphone is part 
+of it, since signals of sufficient difference are required for 
+the L/C and C/R speaker pairs. 
+The main requirement is for a steady, low level of 
+ambience in the center channel so that the commentary 
+microphone can be turned off inaudibly. To meet this 
+requirement, it is sufficient to create a center ambience 
+signal from the sum of the L and R ambience 
+microphones. 
+If the center-channel signal is derived by matrixing (e.g. 
+Diffuse-field correlation 
+Diffuse-field correlation, along with 360° imaging, is the essential 
+criterion for the configuration of ambience microphone setups for 
+surround. Low diffuse-field correlation is required for optimal 
+spaciousness, envelopment and inclusion of the listener. This is 
+especially the case at low frequencies, which are important for the 
+perception of envelopment.  
+Low diffuse-field correlation can be achieved in several ways: by means 
+of a sufficient angle between two directional microphones, by means 
+of sufficient distance between them, or by a combination of both. 
+The following "rules of thumb" can be helpful: 
+- 
+If a coincident setup (microphone distance = 0) is used, an ideally 
+small diffuse-field correlation can be obtained only with 
+supercardioids or figure-8 microphones. The supercardioids should 
+be arranged at an angle of 120°, two figure-8 microphones at an 
+angle of 90°. 
+- 
+A coincident microphone arrangement cannot produce four 
+sufficiently decorrelated signals, let alone five. This is because the 
+greatest possible angle will be 90° (4 * 90° = 360° or 5 * 72 = 
+360°). If a coincident arrangement is used, a 4-channel mix 
+(L/R/LS/RS) will sound better than 5 channels since the added 
+center channel will raise the degree of diffuse-field correlation. 
+- 
+If omnidirectional microphones are used, they should be spaced at 
+least 100 cm apart, while for directional microphones 10—20 cm 
+is sufficient. 
+
+ 
+6 / 13 
+Microphone Usage for Sports Broadcasting 
+from a Double M/S or Soundfield microphone 
+arrangement), the same idea still holds: The matrixing 
+should be carried out in 4-channel mode, since that will 
+give a better sonic result. 
+Signal Separation 
+The general problem in configuring a main microphone 
+system for surround recording is that the degree of 
+signal separation needed both for imaging and for good 
+pickup of diffuse sound cannot be achieved among four 
+or five microphones placed at a single point. As a logical 
+result, coincident microphone arrangements are at a 
+disadvantage relative to arrangements with some space 
+among the microphones.  
+The spatial impression obtained with coincident main 
+microphone arrangements is demonstrably narrower and 
+less natural sounding. Of course coincident 
+arrangements offer the great advantage of being more 
+compact and simple to set up. But great care must be 
+taken to maximize the signal separation. For matrixed 
+systems this can be achieved through optimal 
+dematrixing.  
+One example of an optimal coincident system is the 
+Schoeps “Double M/S” microphone arrangement with 
+either the passive, fixed-parameter MDMS U matrix or 
+the “Double M/S Tool” software plug-in. 
+ 
+Checklist for main microphone configurations for 
+sports events: 
+Sonic characteristics  
+of the main microphone 
+system: 
+- 
+Tone color 
+- 
+Spaciousness, 
+envelopment, sense 
+of depth 
+- 
+Precision and 
+stability of imaging 
+- 
+Downmix 
+compatibility 
+- 
+etc. 
+Practical characteristics 
+of the main microphone 
+system: 
+- 
+Expense 
+- 
+Size 
+- 
+Complexity 
+- 
+Reliability 
+- 
+Flexibility 
+- 
+Usability 
+- 
+etc. 
+ 
+Spaced main microphones 
+If it is allowed to space the microphones some distance 
+Schoeps ORTF Surround (4ch, left) and ORTF-3D (8ch, right), both using a windscreen of the same size.  
+They feature a suspension and heating as well as wind and rain protection as well as multicore cables for an easy usage. 
+
+ 
+7 / 13 
+Microphone Usage for Sports Broadcasting 
+apart, the result will be a significant improvement in 
+360° imaging particularly in the representation of diffuse 
+sound. Unfortunately, there are practical disadvantages 
+to this approach, since spaced microphone 
+arrangements are larger and tend to be more difficult to 
+set up.  
+Another alleged disadvantage, however, is untrue; as 
+long as the microphones are picking up signals that are 
+sufficiently different from one another, spaced 
+microphones bring no disadvantage whatsoever to the 
+two-channel downmix. 
+There are quite a few theoretically optimal arrangements 
+that follow the above rules. For 5-channel pickup there 
+are the Decca Tree, OCT Surround, Williams MMA and 
+INA5. For 4-channel pickup there are the IRT Cross, ORTF 
+Surround and the Hamasaki Square. For a 3D-Audio 
+pickup there are the OCT9 (nine-channel) or the ORTF3D (8ch) setups. 
+These have been used successfully for music recording. 
+But some of these setups are too large and complicated 
+for practical use in sports broadcasting, or the kinds of 
+accessories needed for typical sporting events (e.g. 
+basket-type windscreens or hanging mounts) do not 
+exist.  
+An exception is the ORTF series of Schoeps with the 
+ORTF Stereo, ORTF Surround and ORTF-3D setups; 
+accessories exist which allow it to be handled quite 
+simply like a “single-point” microphone. 
+Positioning the main microphone system 
+The main microphone setup plays a decisive role in the 
+sonic result which is obtained. The main problem is to 
+find a place where an optimally balanced, symmetrical 
+sound image occurs—one which coincides with the 
+visual picture while being neither too far from the sound 
+sources nor too close to any of them. This place must be 
+reachable without undue difficulty, and there also needs 
+to be some way to run cables from it. 
+This is often difficult in practice. One example is in a 
+soccer arena, where the microphone position that would 
+be ideal from a practical standpoint—along the side of 
+the pitch—is terrible from an acoustical standpoint. This 
+is no surprise, since the VIP and press areas are usually 
+there alongside the primary camera, and nothing that is 
+acoustically very exciting happens there. (See the 
+illustration of the football arena on page 10.) 
+A well-balanced overall sound image is generally 
+available only at a certain elevation, as with room 
+microphones at a music concert. But this is scarcely 
+possible at a sporting event because of the many 
+cameras which would each see the 
+microphones. For this reason, the main 
+microphones are often suspended from the 
+roof, which eases this set of problems. 
+At many types of sports events, such as car 
+races, it is necessary to have several 
+distributed main microphone systems which 
+are dynamically mixed together. If certain 
+rules are followed, it is allowable for the 
+acoustical perspective to shift just as the 
+visual perspective shifts with a cut. This is 
+possible when matching “Audio follows 
+Video” techniques applied between 
+picture and sound. 
+Picture of two ambience microphone arrangements in a stadium (hung next 
+to each other for test purposes). Shown here: Schoeps “ORTF Surround” and 
+“Double M/S” 
+
+ 
+8 / 13 
+Microphone Usage for Sports Broadcasting 
+Ambience spot miking 
+Spot microphones can be placed apart from the central 
+array to pick up ambient sounds which the main 
+microphones or main ambience microphones do not 
+adequately cover, or that the main arrays are picking up 
+from an unsuitable direction. A typical example would 
+be stereo spot microphones placed in front of the 
+spectator sections of a soccer arena (see the illustration 
+of the soccer arena on page 10). 
+These microphones are intended to create a spatial 
+image; thus the sound must be reproduced not as point 
+sources, but across a stereophonic zone, as explained in 
+the above-mentioned rules. Stereo ambience spot mikes 
+really do work better than mono spot mikes, since they 
+stabilize the spatial impression and localization rather 
+than detracting from it. Thus they can also improve the 
+“sweet spot” of the mix.  
+In general, it is to the advantage of the sound quality 
+when the signals routed to the various loudspeakers are 
+as discrete as possible; for example, the stereo spot 
+mikes at the right corner of the arena could be routed 
+discretely to R and RS. The basic stereo pairs L-R, L-C, CR and LS-RS can also be provided with directionally 
+stable signals from ambience spot microphones. 
+Small-diaphragm microphones arranged according to 
+the usual stereophonic techniques are suitable for stereo 
+ambience spot miking. The main requirement is good 
+separation of the signals from other channel groups; 
+thus X/Y or ORTF setups are often chosen. Here, too, a 
+compact, practical microphone set with the needed 
+accessories is called for.  
+Optimal solutions for this are the Schoeps MSTC 64 
+ORTF microphone or the Schoeps “ORTF Outdoor Set.” 
+3. Spot and effects miking 
+Crosstalk among the spot microphones 
+The four goals outlined at the beginning of this article 
+require the use of decentralized, spatially separated spot 
+microphones whose signals are dynamically mixed into 
+the overall sound image. They may be used for brief time 
+intervals; for example, the signal from a particular 
+microphone might be used only in the moment when 
+the player jumps into the pit.  
+ 
+Typical setup of an ORTF stereo  
+pair in the corner of the arena. 
+Shown here: Schoeps MSTC 64U 
+with two Schoeps BBG windscreens. 
+Typical setup of an ORTF stereo pair in the corner of 
+the arena. Shown here: Schoeps MSTC 64U with two 
+Schoeps BBG windscreens. 
+
+ 
+9 / 13 
+Microphone Usage for Sports Broadcasting 
+This approach works not only because it 
+excludes unwanted noises; what is far more 
+important is that no two microphones should 
+be active if they are picking up the same 
+signal. To do so would cause comb filter 
+effects (“Phasing”), coloration of the sound, 
+and covering of the main microphone pickup  
+due to the unwanted space and ambience 
+components in the spot microphones.  
+To get any kind of grasp on this problem, 
+sometimes a submix is made by a second 
+sound engineer, e.g. for the so-called “Closeball” mix at a soccer game, only the single 
+best-positioned shotgun microphone at the 
+edge of the field is used. 
+One significant precondition both for 
+avoiding crosstalk between open 
+microphones as well as for unproblematic 
+mixing with the main microphone signals 
+is to have a high ratio of useful to nonuseful signal in the spot microphones. The useful signal 
+is the localizable sound source of the moment; the nonuseful signal could be ambient sound and/or other 
+nearby localizable sound sources.  
+To achieve a high ratio of useful to non-useful signals 
+requires: 
+- 
+the shortest possible distance from the sound 
+sources 
+- 
+optimal spacing between the directional 
+microphones 
+- 
+as narrow as possible a pickup pattern for the 
+directional microphones 
+It rarely is possible to get the microphones very close to 
+the sound sources, or if so, only with very crafty 
+microphone positioning. Optimal microphone placement 
+is often impossible for “political” reasons, or simply 
+because it is impermissible for the microphones to be 
+seen. In this respect there are advantages to those sports 
+which permit special sensors and microphones to be 
+mounted on and among the players and the sports 
+apparatus. 
+Optimal spacing among the shotgun microphones will 
+minimize the overlap of their pickup regions, as with 
+spot microphones in an orchestra. This allows the 
+transition between microphones to occur inaudibly. 
+Sharp directionality 
+The sharpest possible directionality—a narrow lobe 
+pattern—is generally achieved by using “shotgun” 
+microphones such as the Schoeps CMIT 5.  
+An interference tube gives these microphones a greater 
+directivity at high frequencies than normal supercardioid 
+microphones, but this comes at the cost of a slight 
+lessening of sound quality due to angle-dependent 
+frequency response. The interference tube principle 
+works only at wavelengths smaller than the length of the 
+tube. This means that a normal shotgun microphone is a 
+supercardioid up to about 2 kHz, and the pattern 
+becomes narrower only above that point.  
+Typical setup of shotgun microphones on small stands at the edge of the 
+playing field, in basket-type windscreens (see soccer arena graphic below) 
+
+ 
+10 / 13 
+Microphone Usage for Sports Broadcasting 
+Longer shotgun microphones may start to increase 
+directivity at ca. 500 Hz, but with greater reduction of 
+sound quality. One alternative to this is to use parabolic 
+reflectors, which have a supremely narrow pattern at 
+high frequencies. But at low frequencies they have 
+almost no directional effect, which limits their use to 
+special effects such as ski noise or the sounds of 
+American football. 
+Very sharp directionality in a microphone is both a 
+blessing and a curse. It is a blessing in that the abovementioned problems can be avoided by decreasing the 
+pickup of unwanted sound. But it is a curse because a 
+narrow pickup pattern causes more microphones to be 
+needed within any given region to avoid gaps in the 
+coverage.  
+The ideal would be a microphone that has both a 
+narrow front pickup pattern and also good suppression 
+of diffuse sound pickup. This combination of 
+characteristics has become available in the Schoeps 
+digital SuperCMIT microphone, which was introduced in 
+2010 and immediately passed its first major assignment 
+at a large-scale sporting event with flying colors: The 
+World Cup Soccer championship.  
+This microphone has higher directivity than a long 
+shotgun but also greater sonic neutrality, because both 
+its directionality and the additional suppression of diffuse 
+sound are evenly maintained across most of its 
+frequency range. This is made possible by adaptive signal 
+processing on the basis of two separate microphone 
+capsules.  
+In the meantime, the SuperCMIT it has become a 
+popular solution for location sound, theatre and it has 
+been used successfully for many other sporting events of 
+different types—soccer, tennis, cycling and rugby among 
+others. 
+Use of the Schoeps SuperCMIT shotgun microphone in 
+a basket-type windscreen at the edge of a football field, 
+and on the camera at a boxing match 
+
+ 
+11 / 13 
+Microphone Usage for Sports Broadcasting 
+If the intent is to create a cinema-like exaggeration of 
+live sounds, this places even greater demands on the 
+spot microphones. Compression of their signals increases 
+harmful crosstalk among them.  
+A hyper-real, exaggerated loudness and clarity of sound 
+is demanded that can scarcely be obtained from 
+naturally-occurring noises. 
+The illustration below shows an optimal 5.1 microphone 
+arrangement for soccer. Microphones with this 
+positioning were used by the host broadcaster HBS at 
+various football World Cups.  
+Included are the main “ORTF Surround” microphone 
+setup (hanging), the two stereo “ORTF Outdoor Set” 
+spot microphone setups for the two curves and the 
+numerous mono shotguns that were used for picking up 
+the sound of the ball. 
+Nowadays, the “ORTF Surround” can be replaced by the 
+“ORTF-3D” in order to capture a 3D ambience signal.  
+This illustration shows a relatively ambitious example of miking a soccer game.  
+Additional hanging mono spot microphones can be used to cover the sound of the spectator groups. 
+
+ 
+12 / 13 
+Microphone Usage for Sports Broadcasting 
+  
+4. Commentator miking 
+The commentary is an essential component of the sound 
+mix and should be mentioned in this connection because 
+it is often produced within the same space, causing the 
+commentator microphone to pick up ambient sound 
+components.  
+This can sometimes lead to considerable difficulties, 
+since overly strong monophonic ambient signals in the 
+center channel harm the perception of a natural 
+spaciousness.  
+Furthermore, gaps can be heard if the commentator’s 
+microphone is muted (e.g. when speaking with the 
+director), which are no longer covered by the level of 
+ambient sound pickup in the center channel of the main 
+microphone arrangement. 
+It is not easy to find a high-quality miking arrangement 
+that also lives up to the practical requirements for the 
+commentator. The microphone, together with the 
+headphones, must form a robust headset that keeps the 
+microphone positioned very close to the mouth. Some 
+people resort to communications headsets, but a 
+professional solution also exists which uses a smalldiaphragm studio condenser microphone:  
+the Schoeps HSC 4VXP/4VP headsets.
+Producing the commentary in a booth; for a Live TV show 
+(Photo courtesy of “Audio2 Audiodeskription”) 
+
+ 
+13 / 13 
+Microphone Usage for Sports Broadcasting 
+ 
+5. Sound for sports events – a 
+complex production 
+As this article shows, miking for sports events is a highly 
+complex matter, and thus, as with music recording, 
+there are true artists among the recording engineers.  
+It quickly becomes clear that the aspects addressed here 
+cover only some of the problem areas (although the 
+most important ones) that occur in an actual 
+assignment. All these problems are entirely real rather 
+than theoretical. On the contrary, all the solutions 
+described and recommended in this article came about 
+without exception at the initiative of experienced 
+practitioners, and are now being used by them. 
+The quality of sound in a live sports broadcast has 
+become the quality criterion for the broadcast as a 
+whole. No one can afford to produce a substandard 
+result, and the standard is constantly rising as the 
+technology, technical knowledge and overall awareness 
+all increase.  
+Of course there are always financial and political 
+constraints which may frustrate a more ambitious 
+solution. But due to the top quality results at the major 
+events, the awareness of the viewing audience is 
+apparently becoming educated such that soon, 
+inadequate sound will no longer be accepted as part of 
+any sports broadcast.  
+The tools for optimal 5.1 surround sound are ready for 
+action. 
+ 
+ 
+Commentary place in a football arena 

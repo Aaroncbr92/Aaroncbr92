@@ -1,0 +1,176 @@
+ 
+TN294    Page 1 of 3 
+ 
+ 
+ 
+ 
+ 
+TECHNICAL NOTE 
+Date 27th Feb 2013 (rev 3) 
+ref  TN294 
+ 
+Raised by:   DB/TC/DP 
+Distributed to:   as required 
+ 
+Soundtracs - Digico(UK) Ltd. unit 10 Silverglade Business Park Chessington Surrey  KT9 2QL  England 
+Tel: +44 1372 845600  Fax: +44 1372 845656  email: support@digiconsoles.com 
+ 
+SD Series MADI Implementation 
+ 
+The MADI or AES-10 Standard, originated in the 1980’s to support serial digital transmission of up 
+to 64 channels of digital audio over coaxial or fibre optic cable at sampling rates of up to 96K with 
+a resolution of up to 24 bits per channel.  
+The Original AES10 Standard defined MADI as a multichannel transport for linking central control 
+areas, mixing consoles to digital multi-track recorders. It was updated in 2003 and again in 2008 
+adding 64 channel and 96KHz sample rates support. Soundtracs mixers have used MADI since 
+the mid 90’s, including 96KHz operation since 1999, being the first large format mixers to do so. 
+ 
+Digico Coaxial Cable 
+ 
+Standard external cables supplied by Digico (5m, 50m or 100 m) are standard 75 ohm BNC and 
+manufactured with European specification RG59U cable (Note this is NOT the same specification 
+as USA standard RG59B.)   This is basically a good quality video connection cable. 
+In addition, factory cable connectors are individually pull tested to 5Kg. Many cheap ready-made 
+cables would fail this test. The importance of good quality terminations cannot be overstated. 
+It should be noted that MADI is approximately 0.5V RMS 125MHz serial data. Earth (ground) 
+differentials of over 0.25V due to poor power wiring will effectively stop the system from 
+functioning.  
+ 
+The recommended 75 ohm cable RG59U specification and test characteristics are fully detailed in 
+information on MADI coaxial cable, please consult Digico Technical Bulletin 106. 
+ 
+The maximum distance that a MADI signal can be sent is dependent on the performance of both 
+the cable and the equipment being connected. 
+ 
+ 
+Digico Optical cable 
+ 
+The SD series Optocore ® connection is not within the scope of this note. Optical MADI is 
+available by using the Digico Purple Box external convertor unit, to convert from coaxial (BNC) or 
+Digico Cat5 (RJ45) to a standard optical MADI connection and using the DigiGrid range to convert 
+to Ethernet. Note is not the same data format as the Optocore system. Refer to published 
+information for further details of these convertors. 
+ 
+This optical connection can be used with 3rd party systems which are not equipped for coaxial 
+MADI or where long distance connections are required. The optical cable options available for 
+optical MADI are detailed in Digico Technical Bulletin 101 
+ 
+ 
+ 
+
+ 
+TN294    Page 2 of 3 
+ 
+ 
+ 
+ 
+Console MADI connection formats 
+ 
+DiGiCo SD Series consoles have 2 distinct types of MADI Connection:-  
+ 
+SD/DigiRack MADI connection.   
+Standard MADI (called Std MADI) connection  
+ 
+ 
+Console MADI connections at 48K 
+ 
+Connecting a console to a SD-Rack at 48K 
+ 
+Each connection contains 56 Channels of audio plus the rack control data on CH57 thus allowing 
+the 56in/56out configuration with a pair of co-ax cables.  Channels 58-64 are not present. 
+ 
+Connecting Standard MADI at 48K  
+ 
+This is selected in the Audio IO Page, that is a 56 channel MADI connection.  Channels 57-64 are 
+unused / ignored.  It is worth noting that, if 56 channel is selected, some 3rd party MADI interfaces 
+will not accept a 56 channel MADI connection as valid, although this is within the AES-10 
+specification.  
+ 
+In general a standard MADI connection taken from a SD-series mixer or the auxiliary output of an 
+SD-Rack, can be used for recording   56 channels at 48KHz without further adjustment.  The SD 
+Rack MADI split outputs can be set to output a 64 Channel MADI signal although no audio will be 
+present on channels 57-64. 
+ 
+ 
+Console MADI connections at 96K 
+ 
+When connecting via MADI at 96K, the connection requires the use of 2 console MADI ports (4 
+BNC connections rather than 2) for the 56 or 64 in/out. You need 2 pairs of cables to connect for 
+56 or 64 channels of audio.  
+Note on some SD mixers there are redundant MADI port connections, marked 1A and 1B etc. 96K 
+requires the use of port 1A and port 2A (or port 1B and port2B) and NOT 1A &1B or 2A & 2B etc.  
+A mixer with 2 (or 3) ports will allow only one 96K connection in software, a 4 port mixer will allow 
+only two 96K connections in software. 
+ 
+Connecting a console to a SD-Rack at 96K 
+ 
+A SD Rack MADI connection can only be an SMUX connection (see below), which is preselected 
+in the console software. 
+ 
+When SD rack is connected to a console, the first MADI port contains the audio for channels 1-28 
+plus the rack control data for those channels.  The second port contains the audio for channel 29 - 
+56 plus the rack control data for those channels 
+ 
+Connecting Standard MADI at 96K  
+ 
+Currently, each SD Series Engine 96K MADI connection works in 1 of 2 modes.  The switch 
+between the 2 modes is located in the Audio IO Page.  The common names for these 2 modes 
+are S-MUX (48K Frame) and Hi-Speed (96K Frame) but others may be found, sometimes leading 
+to confusion.  These modes are not compatible. 
+ 
+ 
+ 
+ 
+Cont/ 
+ 
+ 
+
+ 
+TN294    Page 3 of 3 
+ 
+ 
+ 
+ 
+ 
+ 
+SMUX Mode:-  Up to 32 channels using a 48KHz base sample rate in which channel pairs to 
+represent a 96KHz signal.  This sends pairs of (odd and even) 96K samples for each channel in 
+sequence (channels 1-28 in that order) in the data stream (for 56 channel use). 
+ 
+Hi-Speed Mode:-  Up to 32 channels at the true 96K sample rate.  This sends the odd (first) 
+sample for all 28 channels followed separately by the even (second) sample for 28 channels in the 
+data stream (for 56 channel use). 
+It is worth noting that this format is not actually “high speed” and the data signal rate is identical to 
+S-MUX but the signals are presented in a different order. 
+ 
+When connecting via MADI at 96K the first MADI port contains the audio for channels 1-28.  The 
+second port contains the audio for channel 29 - 56. 
+ 
+It is important to select the correct 96K MADI type (SMUX or Hi-Speed) when using Std MADI to 
+connect to 3rd party equipment (recorders, routers etc.).  As noted, this is on the Audio IO page. If 
+the wrong type of connection is selected, then audio will appear on the wrong channels on the 
+receiving device.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An SD Series console will auto detect which type of incoming 96K MADI stream is connected to it 
+and configure the input accordingly. 
+ 
+Note the auxiliary output from a SD-Rack is fixed for S-MUX use only. If a Hi-Speed connection is 
+required, this must be taken from a mixer output.  
+ 

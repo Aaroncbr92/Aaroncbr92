@@ -1,0 +1,385 @@
+© 1982 Rane Corporation
+N
+O
+T
+E
+1
+0
+2
+Professional Audio Products
+ANALOG I/O STANDARDS
+•   3-PIN CONNECTOR WIRING
+•   BALANCED INPUTS & OUTPUTS
+•   FLOATING UNBALANCED OUTPUTS
+•   RFI & EMI PROTECTION
+•   GROUNDING
+•   PASSIVE BYPASS
+INTRODUCTION
+Quality engineering necessitates standards.
+Recognizing this, Rane has adopted an input/output
+(I/0) convention for all of its products which parallels international standards where applicable and
+accepted practices elsewhere. This Note describes
+and discusses each of these so the user of our
+equipment will never be in the dark regarding
+polarities, grounding or connector wiring. In general, we are a left-to-right, front-to-back, top-tobottom society—which has absolutely nothing to do
+with this Note. It’s just interesting.
+Dennis Bohn
+V.P. Research & Development
+Although written in 1982, Rane customers continue to request this Note. They refer to it often for
+its basic information and background on connectors, circuit and wiring conventions. Indeed, the
+derivation given for the differential-mode and common-mode input impedance of the everyday
+difference amplifier continues to be referenced by other authors. While some of it may seem
+dated (and is) we continue to keep it among our current Rane Notes for its historical perspective
+and general usefulness. Please read it with its origin date in mind. Seeded throughout the text are
+a few  parenthetical Update Notes. These aid in making certain important concepts current.  For
+exact detailed specifics on any current Rane product, contact our Technical Service Department.
+
+CONNECTOR CONVENTION
+The single biggest source of wiring confusion in the
+pro audio industry is 3-pin connectors. Even their name
+is a source of confusion. Most commonly called “XLR”
+jacks, they are also known as “Cannon plugs”, “3-pin
+connectors”, “XLR-type” jacks, and “circular connectors”. The name confusion makes sense since this type of
+jack has never been given a generic title. Other audio
+connectors are commonly referred to as “phono” (originally called RCA jacks), or “phone” (¼" jacks, after
+headphones and telephones—their original usage), or
+“DIN” plugs (Deutsch Industry Norm) a German standards organization and European standard.
+Nothing comparable has caught on for 3-pin connectors, so they have become known by the original
+manufacturer’s model number. The original manufacturer was ITT-Cannon and the model number was
+“XLR”. Today, “XLR” is a registered trademark of ITTCannon and cannot legally be used to describe any other
+manufacturer’s version of this connector. And since very
+few use ITT-Cannon XLR connectors, violation of their
+trademarked name is commonplace. Until something
+better comes along, Rane will refer to this type of jack as
+a “3-pin connector”.
+3-PIN CONNECTORS
+Much to many people’s surprise there is a standard
+for wiring 3-pin connectors—not two, as commonly
+believed. The conflicting so-called “European” and
+“American” standards are myths. There is one standard.
+It is IEC 268¹ issued in 1975 and signed by 17 countries,
+including the UK and USA. In addition, the same convention was adopted separately in the UK as BS 5428².
+And finally, has been made an American National
+Standard. ANSI PH7.102-1983. There should be no
+conflict in connectors. There obviously is, and that is a
+sorry reflection of how badly informed are many manufacturers of pro audio equipment. (Update Note: In 1992,
+the Audio Engineering Society finally issued it’s Standard AES14.1992 agreeing with the above standards.)
+Rane wires its 3 and 5-pin connectors per IEC 268 as
+follows:
+3-Pin Connectors
+Pin 1
+Ground (Shield, screen, etc.)
+Pin 2
+Positive (Signal, Hot, etc.)
+Pin 3
+Negative (Return, Common, etc.)
+5-Pin Connectors
+Pin 1
+Ground
+Pin 2
+Left Positive
+Pin 3
+Left Negative
+Pin 4
+Right Positive
+Pin 5
+Right Negative
+¼" PHONE JACKS
+On Rane equipment outfitted with input/output phone
+jacks, the wiring convention for standard tip-ring-sleeve
+(TRS) connectors is:
+TRS ¼" Jacks
+Tip = Positive
+Ring = Negative
+Sleeve = Ground
+TS ¼" Jacks
+Tip = Positive
+Sleeve = Ground
+For ¼" TRS output jacks designed exclusively for
+headphone use, the standard is:
+Headphone Jacks
+Tip = Left Positive
+Ring = Right Positive
+Sleeve = Common Ground
+TRANSFORMERLESS BALANCED INPUTS
+Rane incorporates automatic balanced-unbalanced
+inputs on all of its pro audio products. Balanced inputs
+are a thing of beauty. They take two signal lines and
+amplify only the difference between them while rejecting anything that is common. The common stuff is all
+the garbage induced in the lines as they dutifully connect
+two pieces of equipment. Hum, noise, AM radio stations,
+police, fire and ambulance radio signals, radar, fluorescent lights—even life itself—all competing to violate the
+pure signal as it tries heroically to traverse from one
+piece of gear to another.
+Many solutions exist to accommodate balanced
+inputs. Transformers are the most common. And the
+most expensive. And the most troublesome.
+So much for transformers.
+Rane uses the best active balanced input design that
+fits the application and budget for each particular unit.
+These range from the true instrumentation amplifier
+designs used in Flex (and other) units (see the Flex
+Users Guide for details), to the very popular and successful difference amplifier found throughout the proaudio industry.
+A difference amplifier, like its name implies, is one
+that amplifies only the difference between two input
+signals. For instance, two inputs of +1 volt and -1 volt
+respectively result in an output of +2 volts for unity gain
+designs, i.e., a difference of +2 volts. Or, two signals
+equal in value, say, +1 volt each, result in 0 volts output
+(their difference). Two equal signals are called common,
+and the amplifier is said to be operating common mode
+(as opposed to differential mode). For real-world audio
+input signals the amplifier operates in both modes
+simultaneously—it amplifies anything that is different
+(signal) and rejects anything that is common (garbage).
+
+before this circuit can be used. The problem is one opamp gets shorted to ground if an unbalanced (mono)
+plug is used for interconnect. If allowed to happen this
+can cause possible damage to the op amp, along with
+possible distortion interaction with the other op-amp if
+they are part of the same IC package. Rane solves both
+of these problems very simply by adding resistors in
+series with each output (isolation of reactive output loads
+require these anyway), and by ensuring that separate opamp packages are used. These things, along with using
+IC’s capable of driving lines, guarantee that shorting
+either of the outputs does not damage the op-amp or
+induce any distortion products into the other side.
+The myth involves a mistaken belief that the crosscoupled output stage developed by Thomas Hay at MCI
+(AES preprint no. 1723) retains the 6dB headroom
+advantage of balanced lines when used in an unbalanced
+fashion. Hay’s circuit does two nice things when either
+side is shorted: [1] The shorted op amp’s output is forced
+to zero volts. It does not drive the output resistor at all,
+so no stress is put on the output stage. [2] It doubles the
+gain of the unshorted op amp. This way, the output still
+delivers the same level for the same input either balanced or unbalanced. For example, a 1 volt input produces either ±1 volt output balanced, or 2 volts unbalanced. On the surface, this suggests the 6dB headroom
+improvement offered by all balanced output stages is
+preserved when used unbalanced. This is not true at all.
+Since the gain of the output stage is doubled then it will
+run out of headroom 6dB earlier than when operated
+balanced. The op amp can only swing so many volts.
+When only one op amp is driving the line there will be a
+6dB loss of headroom—period. It does not matter how
+cleverly the op amp is configured.
+Since a discretely implemented cross-coupled output
+design requires many carefully trimmed precise parts,
+without producing any real advantages. Rane does not
+use it. Where appropriate. Rane does use a special lasertrimmed integrated circuit developed for this purpose.
+This design exhibits the same 6dB loss of headroom
+when used unbalanced, but otherwise is an excellent
+balanced line driver in a small package. (See note 124
+for additional details.)
+With a single op-amp difference amplifier, you can
+have either equal common mode input impedance or
+equal differential mode input impedance, but not both
+(see sidebar box on back page for details). Of the two the
+most important is common mode impedance; it must be
+equal for the minimization of hum and RFI pick up.
+With equal common mode impedance, you get
+unequal differential impedance. For some designs
+(where all resistors are equal), the mismatch can be as
+much as three to one, with the positive input impedance
+being three times the negative input impedance. This
+sounds like a big problem, when in fact, it is not. All it
+means is that the load impedance seen by the positive
+and negative line drivers are not equal, so the negative
+driver has to deliver more current. But, as long as the
+impedance are within reason (at least 5k ohms or
+greater), you really do not have a problem.
+AUTOMATIC BALANCED-UNBALANCED
+OPERATION
+Figure 1 shows a balanced stage with a TRS ¼"
+phone jack input. There is a bit of cleverness going on
+here that comes for free. Using a stereo phone plug into
+the stereo jack gives you the balanced line input. Not so
+obvious is that by using a mono phone plug the circuit
+automatically switches to unbalanced single line operation. Nice, huh? What happens is that the ring of the jack
+gets shorted to ground by the mono plug and turns the
+difference amp into a non-inverting stage with a gain of
+two (assuming all resistors equal), but there is a 6dB pad
+(a loss of ½) hung on its positive input, so the net result
+is a unity gain unbalanced input. The stage becomes
+universal now, being either balanced or unbalanced,
+depending on whether the input plug is stereo or mono.
+TRANSFORMERLESS BALANCED OUTPUTS
+Balanced outputs have evolved in similar fashion to
+balanced inputs, starting out with everything using
+transformers and gradually moving toward
+transformerless solutions. The most commonly seen
+solid-state circuit involves two op amps as shown in
+Figure 2 (or some variation of this configuration). There
+is one problem and one myth that must be overcome
+Figure 2. BALANCED OUTPUT STAGE
+Figure 1. TRANSFORMERLESS
+BALANCED INPUT STAGE
+
+FLOATING UNBALANCED ¼" OUTPUTS
+On many Rane products fitted with ¼" outputs, a
+floating unbalanced drive circuit is used. What is required is an output scheme compatible with balanced or
+unbalanced inputs that allows signal ground and shield
+(chassis) grounds to be isolated.
+are bolted together in the same rack. All of Rane’s
+products may be intermixed with other brands with
+minimal hum problems.
+Like the balanced input stage of Figure 1, the floating
+output stage of Figure 3 automatically switches to a
+conventional unbalanced output stage if a mono phone
+jack is used for interconnection. The ring of the jack gets
+shorted to the sleeve, thus grounding the sleeve as you
+would in a normal unbalanced system.
+CHASSIS GROUND
+Signal ground is tied to chassis ground by a network
+consisting of a 10 ohm resistor and a .01 microfarad
+capacitor in parallel. (Update Note: the resistor has been
+replace by a Ground Lift switch on most products.)  The
+small resistor allows the signal ground and the chassis
+ground to be at different potentials for all audio frequencies; while the capacitor shorts the two grounds together
+for high radio frequencies. The actual chassis is carefully
+tied to the chassis ground path at only one point. This is
+critical if proper chassis shielding is to be realized.
+SIGNAL POLARITY THROUGH RANE
+PRODUCTS
+While not wishing to engage in the controversy that
+rages on in the audio world regarding whether or not
+signal inversion is audible, it is Rane’s policy to not
+invert signals through its products. Our position is very
+simple—overall signal inversion is not necessary, so
+why do it?
+The best solution, as is so often true, is the simplest.
+It is no more complex than Figure 3. By taking a regular
+single-ended (unbalanced) line driver and floating its
+ground you create a compatible system for driving
+differential (balanced) inputs that is trouble free. Figure
+4 shows the interface between the two systems. Note that
+while the chassis of each unit may be at the same potential, their signal grounds are allowed to be at different
+potentials. This is very important in keeping hum
+common mode, and not differential. Any difference of
+potential existing between the two grounds is seen as a
+common mode signal and is rejected. This problem is
+particularly acute where units of various manufacturers
+Figure 4. INTERCONNECTION
+Figure 3. FLOATING UNBALANCED
+1/4" TRS OUTPUT
+
+Figure 5. PASSIVE BYPASS WIRING
+PASSIVE BYPASS
+It is Rane’s philosophy that Bypass switches should
+not require power to operate. For this reason all bypass
+circuitry is totally passive as shown in Figure 5. (Update
+Note: Some digitally controlled products violate this
+rule, while others use relays to accomplish the same
+function. Technically not passive, but they work in a failsafe mode so that bypassing is automatic with power
+failure.) With the Bypass switch engaged, all signal
+connections are rerouted directly to the output (including
+ground) thus turning the unit into a rather expensive 3wire patch cord. (Note that the floating output ground
+reverts to a straight through balanced ground connection
+in bypass condition.) If at any time, power is lost to a
+Rane product, simply pressing the Bypass switch completely restores the signal path. Some Rane products use
+relays to automatically restore signal path upon power
+loss. Check data sheets.
+RFI & EMI PROTECTION
+Radio frequency interference (RFI) is one of the most
+annoying problems that plagues any piece of equipment
+featuring high gain (e.g. mic preamp stages in mixers). It
+normally enters as a common mode signal induced into
+the mic input cables, although it also gets in via the line
+cord, or in extremely bad areas directly onto the output
+lines.
+The use of balanced inputs and outputs on Rane
+products greatly reduces their susceptibility to RFI pick
+up. In addition, RFI filter traps are featured on all high
+gain inputs. The single point chassis ground concept
+discussed earlier further helps in reducing RFI problems.
+Praying doesn’t hurt either.
+Electro-magnetic interference (EMI) can also be very
+troublesome if proper steps are not taken during product
+design. EMI is primarily due to one piece of equipment
+inducing 50Hz or 60Hz hum into another piece of
+equipment. For example, power amplifiers with their
+large transformers and associated magnetic fields may
+easily induce hum into low level signal processors
+having high gain. Rule: Thou shalt not mount thy
+amplifier upon thine mixer.
+Proper shielding is essential in reducing any piece of
+equipment’s susceptibility to EMI. All Rane products
+utilize steel chassis and front panels to help shield
+against stray field pick up. Balanced inputs further help
+in rejecting EMI since it is nearly always a common
+mode signal. And, again, the single point chassis ground
+is another important safeguard.
+
+plus input port of the op amp—and the minus port
+(virtual short). The ring input current equals the
+voltage across resistor R2, divided by R2. The voltage
+equals +½V— (–1V), or 3/2 volts. The current is then
+3/2 R2. The ring input impedance is, by definition, the
+input voltage (–1V) divided by the input current
+(–3/2R2), (the minus sign indicates current is flowing
+out of the circuit) giving an answer of 2/3 R2.
+Common Mode Negative Input Impedance
+The negative common mode input impedance is
+found from equation (3):
+ Rin (–) =   R3 + R4     R2 
+(3)
+           R3
+For the case where all four resistors are equal. R in
+equals 2 R2.
+Again, an example may be the best way to illustrate
+equation (3). For common mode input signals, the op
+amp works to reject them such that the output will be
+zero. If the output is zero and the input currents to the
+op amp may be ignored (a reasonable assumption with
+modern IC’s) then the negative input impedance is
+simply R1 + R2. Equation (3) is the general equation
+found by writing the input current equation as before,
+and dividing it into the negative input voltage. It serves
+to illustrate the negative input bootstrap effect caused
+by the feedback.
+Comment
+For further confusion (clarification?) it is necessary
+to reiterate that both cases occur simultaneously. That
+is, the negative input impedance is lower than R2 for
+all differential input signals and higher than R2 for all
+common mode signals—at the same time. Audio input
+signals are almost always a mixture of signal (differential input) and interference (common mode input).
+Differential Or Common Mode Positive Input
+Impedance
+Figure 1 shows a standard difference amplifier. On
+the surface it looks simple enough, but close examination of the available literature and text books covering
+difference amplifiers reveals a subtle complexity that
+causes great confusion. It all revolves around the fact
+that the negative input impedance is dynamic while the
+positive input impedance is static. That is, the positive
+impedance is unrelated to the type of input signal or
+feedback resistor. It is always equal to equation (1),
+whether the input signal is differential or common
+mode.
+Rin (+) = R3 + R4 
+(1)
+This is not true for the negative impedance: the
+negative impedance is different depending on the
+nature of the input signal. This is due to the dynamic
+servo loop nature of the feedback circuitry, which is
+always working to keep the voltage at the negative
+input to the op amp equal to the voltage at the positive
+input (the virtual short concept).
+Differential Mode Negative Input Impedance
+The negative differential input impedance is not
+equal to resistor R2 as popularly believed. It is equal to
+equation (2):
+Rin (–) =  R3 + R4   R2 
+(2)
+  2R4 + R3
+For the most common design where all four resistors are equal, Rin equals 2/3 R2.
+An example may be the best way to understand why
+the impedance is 2/3 R2. Assume there is +1 volt at the
+tip and –1 volt at the ring of the input jack and that all
+resistors are equal. There is therefore. +½ volt at the
+Printed in the U.S.A. on Recycled Paper
+©Rane Corporation 10802 47th Ave.W., Mukilteo WA, 98275-5098 TEL (425)355-6000 FAX (425)347-7757
+520-014 FEB99
+1. International Electrotechnical Commission Standard No. 268. Part 12, titled. “Circular Connectors for Broadcast and Similar Use”, 1975. Signers were Australia, Belgium. Canada, Denmark, Egypt, Hungary, Israel, Japan,
+Netherlands, Norway, Romania, South Africa, Sweden, Switzerland, Turkey, the UK, and USA.
+2. British Standards Institution No. BS 5428. Part 5. Sec. 3, 1980/81.
+REFERENCES
+INPUT IMPEDANCE OF DIFFERENCE AMPLIFIERS

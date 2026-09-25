@@ -1,0 +1,1911 @@
+ 
+ 
+Copyright © 2021 by THE SOCIETY OF 
+MOTION PICTURE AND TELEVISION ENGINEERS 
+445 Hamilton Avenue, White Plains, NY 10601 
+(914) 761-1100 
+Approved December 9, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Page 
+ 
+Foreword .................................................................................................................................................. 2 
+Intellectual Property ................................................................................................................................. 2 
+Introduction .............................................................................................................................................. 2 
+1 
+Scope .......................................................................................................................................... 3 
+2 
+Conformance Notation ................................................................................................................ 3 
+3 
+Normative References ................................................................................................................ 4 
+4 
+Definition of Terms and Acronyms .............................................................................................. 5 
+5 
+Nomenclature .............................................................................................................................. 7 
+5.1 
+Arithmetic Operators ................................................................................................................... 7 
+5.2 
+Variable Names ........................................................................................................................... 7 
+6 
+SMPTE Epoch and Signal Alignment ....................................................................................... 10 
+6.1 
+SMPTE Epoch ........................................................................................................................... 10 
+6.2 
+Signal Alignment ....................................................................................................................... 10 
+7 
+Video Signal Generation ........................................................................................................... 11 
+7.1 
+Analog Standard Definition Television ...................................................................................... 11 
+7.2 
+Digital Standard Definition Television Interfaces ...................................................................... 13 
+7.3 
+Analog High Definition Television ............................................................................................. 13 
+7.4 
+Digital High Definition and Ultra High Definition Television Interfaces ..................................... 14 
+8 
+Audio Signal Generation ........................................................................................................... 17 
+8.1 
+AES3 Digital Audio .................................................................................................................... 17 
+8.2 
+Audio/Video Alignment Cadence .............................................................................................. 18 
+9 
+SMPTE ST 12-1 Time Code Generation .................................................................................. 18 
+9.1 
+Introduction and Overview (Informative) ................................................................................... 18 
+9.2 
+Generation of the SMPTE ST 12-1 LTC Codeword .................................................................. 20 
+9.3 
+Generation of the SMPTE ST 12-1 Time-of-Day Time Address Value .................................... 20 
+Annex A (Informative) Alignment Point Timing ...................................................................................... 32 
+A.1 
+Variable names ......................................................................................................................... 32 
+A.2 
+Alignment points in general ....................................................................................................... 32 
+A.3 
+Next alignment point ................................................................................................................. 32 
+Bibliography (Informative) ...................................................................................................................... 33 
+ 
+Page 1 of 33 pages 
+SMPTE ST 2059-1:2021 
+Revision of SMPTE ST 2059-1:2015 
+Generation and Alignment  
+of Interface Signals to  
+the SMPTE Epoch 
+SMPTE STANDARD 
+
+SMPTE ST 2059-1:2021 
+Page 2 of 33 pages 
+Foreword 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized standards 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices, and Engineering Guidelines, are prepared by SMPTE’s Technology Committees.  
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+SMPTE Engineering Documents are drafted in accordance with the rules given in Standards Operations 
+Manual.  
+SMPTE ST 2059-1 was prepared by the Technology Committee 32NF.   
+Intellectual Property  
+  
+SMPTE draws attention to the fact that it is claimed that compliance with this Standard may involve the use of 
+one or more patents or other intellectual property rights (collectively, "IPR"). The Society takes no position 
+concerning the evidence, validity, or scope of this IPR. 
+ 
+Each holder of claimed IPR has assured the Society that it is willing to License all IPR it owns, and any third 
+party IPR it has the right to sublicense, that is essential to the implementation of this Standard to those 
+(Members and non-Members alike) desiring to implement this Standard under reasonable terms and 
+conditions, demonstrably free of discrimination. Each holder of claimed IPR has filed a statement to such 
+effect with SMPTE. Information may be obtained from the Director, Standards & Engineering at SMPTE 
+Headquarters.  
+  
+Attention is also drawn to the possibility that elements of this Standard may be subject to IPR other than those 
+identified above. The Society shall not be responsible for identifying any or all such IPR.  
+Introduction  
+This section is entirely informative and does not form an integral part of this Engineering Document. 
+This Standard is one part of a series of documents defining a mechanism for creating, distributing and using 
+time synchronization messages in motion imaging and related systems, including but not limited to television, 
+digital cinema and film. This Standard specifically deals with the deterministic generation of interface signals. 
+Video and Audio systems often operate in a synchronous manner wherein all signals are locked to the same 
+generator’s timebase with a deterministic phase of signals with respect to that generator. This is 
+accomplished using reference signals such as black burst or tri-level sync for video, DARS for audio and 
+SMPTE ST 12-1 Time Code. These signals are delivered to equipment to be synchronized through dedicated 
+tree-shaped distribution infrastructures. Equipment uses these signals to derive their output signal timing.  
+Using distribution of precision time, definition of an Epoch (“SMPTE Epoch”) and the relationship of signals to 
+that Epoch, equipment can generate legacy reference signals for use in locking legacy equipment, or can 
+internally derive the timing of video and audio essence signals on their interfaces. In addition, equipment 
+requiring Time Code and/or Time Code-like time and date can internally derive it. 
+This method differs significantly from existing methods of direct distribution of end-use signals, such as video, 
+DARS or Time Code. Devices receiving precision time have to synthesize the necessary signals locally.  
+
+ SMPTE ST 2059-1:2021 
+Page 3 of 33 pages 
+This Standard defines a point in time, the SMPTE Epoch, and the phase relationship (alignment) of various 
+signals to it. Distributing elapsed time since the SMPTE Epoch to equipment enables that equipment to 
+generate signals with deterministic frequency and phase. In addition, this standard specifies the logic and 
+formulae to deterministically generate signals. 
+ 
+One means of distributing time is through the use of the IEEE Std 1588-2008 Precision Time Protocol (PTP).  
+The SMPTE ST 2059-2 Profile for PTP specifies operating parameters and additional metadata for the 
+professional broadcast environment. 
+1 
+Scope 
+This Standard defines: 
+1) A point in time, the SMPTE Epoch, which is used for alignment of all real-time signals referenced in 
+this Standard; 
+2) The alignment of these signals to the SMPTE Epoch;  
+3) Formulae which specify the ongoing alignment of these signals to time since the SMPTE Epoch; 
+4) Formulae which specify the calculation of SMPTE ST 12-1 Time Address values and SMPTE ST 309 
+date values from SMPTE Profile IEEE Std 1588-2008 PTP data. 
+Note:  Implementers are encouraged to read both SMPTE ST 2059-1 and SMPTE ST 2059-2 as a pair. 
+2 
+Conformance Notation 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords.  
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:”  
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended as 
+particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but 
+not necessarily required; or that (in the negative form) a certain possibility or course of action is deprecated 
+but not prohibited.  
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document.  
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the provision 
+will never be defined in the future. 
+A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+
+SMPTE ST 2059-1:2021 
+Page 4 of 33 pages 
+Unless otherwise specified, the order of precedence of the types of normative information in this document 
+shall be as follows: Normative prose shall be the authoritative definition; Tables shall be next; followed by 
+formal languages; then figures; and then any other language forms. 
+3 
+Normative References 
+The following Standards contain provisions which, through reference in this text, constitute provisions of this 
+Standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this Standard are encouraged to investigate the possibility of applying 
+the most recent edition of the standards indicated below. 
+SMPTE ST 12-1:2014, Time and Control Code 
+SMPTE ST 125:2013, SDTV Component Video Signal Coding 4:4:4 and 4:2:2 for 13.5 MHz and 18 MHz 
+Systems  
+SMPTE ST 170:2004, Television — Composite Analog Video Signal — NTSC for Studio Applications  
+SMPTE ST 274:2008, Television —1920 × 1080 Image Sample Structure, Digital Representation and Digital 
+Timing Reference Sequences for Multiple Picture Rates 
+SMPTE ST 293:2003, Television — 720 × 483 Active Line at 59.94-Hz Progressive Scan Production —Digital 
+Representation 
+SMPTE ST 296:2012, 1280 × 720 Progressive Image 4:2:2 and 4:4:4 Sample Structure — Analog and Digital 
+Representation and Analog Interface 
+SMPTE ST 309:2012, Transmission of Date and Time Zone Information in Binary Groups of Time and Control 
+Code 
+SMPTE ST 318:2015, Television and Audio — Synchronization of 59.94- or 50-Hz Related Video and Audio 
+Systems in Analog and Digital Areas — Reference Signals 
+SMPTE ST 2048-2:2011, 2048 × 1080 Digital Cinematography Production Image FS/709 Formatting for 
+Serial Digital Interface   
+SMPTE ST 2051:2014, Two-Frame Marker for 48(/1.001)-Hz, 50-Hz, and 60(/1.001)-Hz Progressive Digital 
+Video Signals on 1.5 Gb/s and 3 Gb/s Interfaces 
+SMPTE ST 2059-2:2021, SMPTE Profile for Use of IEEE-1588 Precision Time Protocol in Professional 
+Broadcast Applications 
+AES3-3:2009, AES Standard for Digital Audio — Digital Input-Output Interfacing — Serial Transmission 
+Format for Two-Channel Linearly-Represented Digital Audio Data — Part 3: Transport 
+AES11:2009, AES Recommended Practice for Digital Audio Engineering — Synchronization of Digital Audio 
+Equipment in Studio Operations  
+Recommendation ITU-R BT.601-7 (03/2011), Studio Encoding Parameters of Digital Television for Standard 
+4:3 and Wide-Screen 16:9 Aspect Ratios 
+Recommendation ITU-R BT.1358-1 (09/2007), Studio Parameters of 625 and 525 Line Progressive Television 
+Systems 
+
+ SMPTE ST 2059-1:2021 
+Page 5 of 33 pages 
+Recommendation ITU-R BT.1700-0 (02/2005), Characteristics of Composite Video Signals for Conventional 
+Analogue Television Systems 
+4 
+Definition of Terms and Acronyms 
+4.1 
+AES  
+Audio Engineering Society. This is a professional society and Standards Development Organization focused 
+on audio. 
+4.2 
+Alignment Point 
+reference point that occurs periodically in a signal 
+4.3 
+Alignment Period 
+duration between Alignment Points 
+4.4 
+Alignment Time 
+duration from the SMPTE Epoch at which an Alignment Point occurs 
+4.5 
+Daily Jam 
+As defined in SMPTE ST 2059-2. 
+4.6 
+DARS 
+AES3 Digital Audio Reference Signal conforming to AES11 
+4.7 
+DST 
+Daylight Saving Time. This is an offset to local time in effect in summer months in many countries.  
+4.8 
+EAV 
+End of Active Video digital timing reference sequence as defined in SMPTE ST 274 
+4.9 
+Epoch 
+origin of a timescale 
+4.10 
+IEEE 
+Institute of Electrical and Electronic Engineers. This is a professional association and Standards Development 
+Organization. 
+4.11 
+ITU 
+International Telecommunications Union. This is a specialized agency of the United Nations that is 
+responsible for issues that concern information and communication technologies. 
+4.12 
+Local Time 
+As defined in SMPTE ST 2059-2. 
+4.13 
+LTC 
+Linear Time Code 
+
+SMPTE ST 2059-1:2021 
+Page 6 of 33 pages 
+Note to entry: Linear Time Code is specified in SMPTE ST 12-1.  It was originally intended for recording on a 
+longitudinal audio track of a tape recorder. 
+4.14 
+MJD 
+Modified Julian Date 
+Note to entry: Modified Julian Date is a zero-based Gregorian calendar day number with an origin of 00:00:00 
+hours UTC time, 1858-11-17.  MJD is specified by a number with five significant figures.  
+4.15 
+NTSC 
+National Television System Committee 
+4.16 
+PAL 
+Phase Alternation Line  
+4.17 
+PTP 
+Precision Time Protocol as defined in IEEE Std 1588-2008. 
+4.18 
+PTP time 
+As defined in SMPTE ST 2059-2. 
+4.19 
+SMPTE Profile 
+PTP Profile defined in SMPTE ST 2059-2 
+4.20 
+TAI 
+International Atomic Time  
+timescale established by the International Bureau of Weights and Measures (BIPM) on the basis of data from 
+atomic clocks operating in several establishments conforming to the definition of the second, the unit of time 
+of the International System of Units (SI) 
+[Source: IEC 60050-713, item 713-05-18] 
+4.21 
+Time Address 
+The Time Address of a frame (of video) as defined by SMPTE ST 12-1. 
+4.22 
+UTC 
+Coordinated Universal Time 
+timescale maintained by the Bureau International des Poids et Mesures (BIPM) and the International Earth 
+Rotation and Reference Systems Service (IERS), which forms the basis of a coordinated dissemination of 
+standard frequencies and time signals 
+It corresponds exactly in rate with International Atomic Time, but differs from it by an integral number of 
+seconds. 
+[Source: IEC 60050-713, item 713-05-20] 
+
+ SMPTE ST 2059-1:2021 
+Page 7 of 33 pages 
+5 
+Nomenclature 
+5.1 Arithmetic Operators 
+The arithmetic operators used in the conversion formulae in this document are defined as follows: 
+ 
++ 
+ 
+Addition  
+ 
+− 
+ 
+Subtraction  
+ 
+× 
+ 
+Multiplication  
+ 
+/ 
+ 
+Division  
+ 
+% 
+ 
+Modulus operator (remainder from the division of two integers)  
+ 
+floor(x)  
+Rounds the element ‘x’ to the nearest integer towards negative infinity  
+ 
+ceiling(x) 
+Rounds the element ‘x’ to the nearest integer towards positive infinity  
+ 
+>  
+ 
+greater than  
+ 
+≥  
+ 
+greater than or equal to 
+ 
+< 
+ 
+less than 
+ 
+=  
+ 
+assignment  
+ 
+== 
+ 
+equal to (comparative)  
+ 
+≠ 
+ 
+not equal to 
+Note: These definitions differ slightly from earlier SMPTE documents (EG40) and are intended to be 
+more precise in definition.  
+Note: Sufficient precision is necessary in calculations to ensure that rounding or truncation operations 
+will not create errors in the end results.  
+5.2 Variable Names 
+5.2.1 General 
+t is elapsed continuous time from SMPTE Epoch in seconds.  
+Note:  This is the same as PTP time for PTP-based implementations.  
+AlignmentPeriod is the Alignment Period as defined in section 4. 
+AlignmentTime is the Alignment Time as defined in section 4. 
+
+SMPTE ST 2059-1:2021 
+Page 8 of 33 pages 
+NextAlignmentTime is the time at which the next Alignment Point on the interface signal will occur, 
+as a function of current time, t. 
+SR is the frequency of the sample clock in Hz. 
+5.2.2 Video 
+Cf is the duration of a color field sequence in fields. 
+Note:  This is not the same as variable “CF” defined in section 5.2.4. 
+ColorField is the value of the color field counter (one-based). ColorField value 1 is the 1st field of the 
+color field sequence (as defined in the reference standards).  
+H is the duration of an entire video line in sample clock periods. 
+HA is the duration of an active video line in sample clock periods. 
+L is the line number of the vertical Alignment Point (as defined in the reference standards). 
+LineNumber is the value of the vertical counter (one-based). LineNumber 1 is line 1 of the frame (as 
+defined in the reference standards). 
+P is the sample number of the horizontal Alignment Point (as defined in the reference standards). 
+R is the video frame rate in frames per second. 
+SampleWordNumber is the value of the horizontal sample counter (zero-based). 
+SampleWordNumber 0 is the 1st active sample of the line (as defined in the reference standards). 
+Tenfield is the value of the ten-field counter (one-based). Tenfield value 1 corresponds to the start of 
+the ten-field sequence identification (as defined in SMPTE ST 318). 
+V is the size of a complete frame in lines. 
+5.2.3 Audio 
+FCnt is the frame position within an AES3 block (zero-based). 
+Tsamp is the sample clock period. 
+tsCnt is the time slot position within an AES3 subframe (zero-based). 
+TtsClk is the time slot clock period. 
+5.2.4 Timecode 
+BitNumber is the zero-based number of the bit of the LTC codeword (as defined in  SMPTE ST 12-1). 
+CF is the duration of a color field sequence in frames. 
+Note: This is not the same as variable “Cf” defined in Section 5.2.2. 
+colorFrameIdentificationMode is a flag that specifies if color frame identification (alignment) to the 
+SMPTE Epoch is used. This is the “Color Frame Identification” bit in the “timeAddressCountMode” field in 
+the SMPTE Profile. 
+
+ SMPTE ST 2059-1:2021 
+Page 9 of 33 pages 
+currentLocalOffset is offset in seconds of Local Time from PTP time. This is the “currentLocalOffset” 
+field in the SMPTE Profile. 
+currentLocalOffsetActive is the active offset in seconds of Local Time from PTP time. This factors 
+in the currentLocalOffset and timeOfNextJump information. 
+dayLightSavingMode is a flag that specifies if Daylight Saving time is in effect. This is the “Current 
+Daylight Saving” bit in the “daylightSaving” field in the SMPTE Profile. 
+DD is day of a SMPTE ST 309 date carried in a Time Address value. 
+dropFrameMode is a flag that specifies if drop frame or non-frame drop is used.  This is the “Drop 
+Frame” bit in the “timeAddressCountMode” field in the SMPTE Profile. 
+Ff is the LTC codeword rate in codewords per second. This can be indicated by the “Default System 
+Frame Rate” field in the SMPTE Profile.  
+FF is frames of Time Address value. 
+FFpdjam is frames of Time Address value at the previous Daily Jam event. 
+HH is hours of Time Address value. 
+HHpdjam is hours of Time Address value at the previous Daily Jam event. 
+jumpSeconds is the size of the next discontinuity, in seconds, of Local Time. This is the “jumpSeconds” 
+field in the SMPTE Profile. 
+leapSecondJump is a flag that is true when the next discontinuity of Local Time will be due to the 
+insertion or deletion of a leap second. This is bit 0 of the “leapSecondJump” field in the SMPTE 
+Profile. 
+MJD (modified Julian date) is an abbreviated version of the Julian date (JD) dating method.  See 
+SMPTE ST 309 for details. 
+MM is minutes of Time Address value. 
+MMpdjam is minutes of Time Address value at the previous Daily Jam event. 
+Mo is month of a SMPTE ST 309 date carried in a Time Address value. 
+previousJamLocalOffset is the offset in seconds of Local Time from PTP time that was active at the 
+previous daily jam event. This is “previousJamLocalOffset” field the in the SMPTE Profile. 
+previousDayLightSavingMode is a flag that specifies if Day Light Saving is in effect at the previous Daily 
+Jam event. This is the “Daylight Saving at previous Daily Jam time” bit in the “daylightSaving” field in the 
+SMPTE Profile. 
+SS is seconds of Time Address value. 
+SSpdjam is seconds of Time Address value at the previous Daily Jam event. 
+tepdjamPTP is exact time of the previous Daily Jam event in PTP time. 
+
+SMPTE ST 2059-1:2021 
+Page 10 of 33 pages 
+timeOfNextJam is the PTP time of the next Daily Jam event.  This is the “timeOfNextJam” field in the 
+SMPTE Profile. 
+timeOfNextJump is the PTP time of the Next Jump event. This is the “timeOfNextJump” field in the 
+SMPTE Profile. 
+timeOfPreviousJam is the PTP time of the previous Daily Jam event.  This is the “timeOfPreviousJam” 
+field in the SMPTE Profile. 
+YY is year of a SMPTE ST 309 date carried in a Time Address value. 
+6 
+SMPTE Epoch and Signal Alignment  
+6.1 SMPTE Epoch 
+The SMPTE Epoch shall be 01 January 1970 00:00:00 TAI. 
+ 
+Note 1: The SMPTE Epoch is the same as the PTP Epoch specified in IEEE Std 1588-2008. 
+ 
+Note 2: The SMPTE Epoch is 63072010 seconds before 1972-01-01T00:00:00Z (UTC). 
+6.2 Signal Alignment 
+Signal alignment relative to the SMPTE Epoch is specified in this Standard by the following means: 
+• 
+definition of an Alignment Point for the signal and the corresponding Alignment Period 
+• 
+definition of the Alignment Times at which the Alignment Points occur 
+In all cases where signal alignment is defined in this Standard, the Alignment Times shall be as follows: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴= 𝑛𝑛× 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 
+ 
+where 𝑛𝑛 is an integer and 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 is measured from the SMPTE Epoch 
+The result is that signals in scope of this standard are aligned such that the Alignment Point would have 
+occurred at the SMPTE Epoch and the signals subsequently maintained their periodicity in accordance with 
+the time reference used for their generation. 
+If current time is 𝑡𝑡, the next alignment point on the interface signal will occur at: 
+𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑚𝑚𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= floor ൬
+𝑡𝑡
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴+ 1൰× 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 
+Note: For a value of t which is exactly at an alignment time, the NextAlignmentTime equation will return a time 
+which is one AlignmentPeriod later than t.  For example, if a 50 Hz frame rate is evaluated at a time which is 
+an integer second, then the calculated next alignment time will be one frame (20 ms) after the integer second. 
+Annex A  gives an informative summary of alignment point timing. 
+
+ SMPTE ST 2059-1:2021 
+Page 11 of 33 pages 
+7 
+Video Signal Generation 
+For video signals documented in this Standard the Alignment Point is the beginning of vertical sync in an 
+analog signal or the corresponding sample in a digital signal. When color framing is employed, the Alignment 
+Point corresponds to the first field of the color field sequence.  For interfaces not documented in this standard 
+the Alignment Point shall be defined in those Standards. 
+Note: For video signals stored as files, vertical interval might or might not be germane.  This document 
+addresses video signals at an interface. 
+Video signals shall be generated using alignment to the SMPTE Epoch and the formulae in the following 
+sections (or by an alternative method yielding the identical results).  
+The following tables and formulae describe the relationships of SMPTE and ITU-R standardized legacy video 
+signals with respect to time since the SMPTE Epoch for each video signal interface. This does not imply that 
+generators need to directly use these equations in the implementation of signals; however, any 
+implementation shall produce results identical to those produced by the equations. 
+Note: The following tables utilize variables derived directly from the underlying SMPTE and ITU-R legacy 
+video standards.  As a result of this, there are several variables (e.g., “Cf” or “CF”) which are in effect case 
+sensitive, and may differ between legacy SD and legacy HD usage.  This is due to the fact that the underlying 
+SMPTE and ITU-R legacy video standards evolved over time, and were not written necessarily with the 
+thought that readers might be referring to more than one simultaneously nor that signals would be generated 
+using an underlying core synchronization mechanism based on time. 
+The values in the tables are derived from the reference SMPTE and ITU-R standards for the individual image 
+formats and their interfaces.  
+ 
+7.1 
+Analog Standard Definition Television  
+For analog standard definition television, the Alignment Point shall be the horizontal reference point at the 
+beginning of the vertical alignment line L, and in the case of composite signals, the frame containing color 
+field 1.  The horizontal reference point is defined in the associated reference standards as the half amplitude 
+point of the leading edge of the horizontal sync pulse at the beginning of a line. This is shown in Figure 5 of 
+SMPTE ST 170 and Figure 1 of ITU-R BT.1700. Line numbers increment at the horizontal reference point. 
+The parameters of Analog Standard Television systems are summarized in Table 1. 
+Note: The numbering of fields and the relationship of subcarrier phase to horizontal reference point are 
+defined in Recommendation ITU-R BT. 1700 (which includes SMPTE ST 170). 
+Note: ‘Analog Standard Definition Television’ includes both legacy video black burst (color black) reference 
+signals and legacy analog video essence signals.  
+
+SMPTE ST 2059-1:2021 
+Page 12 of 33 pages 
+Table 1 – Signal generation – Analog SD Television 
+Television 
+System 
+Frame 
+Rate 
+[Hz] 
+R 
+Reference 
+Standard 
+Vertical 
+Alignment 
+Line 
+L 
+Total 
+Lines 
+V 
+Color 
+sequence 
+duration 
+[fields] 
+Cf 
+NTSC 
+525 lines 
+30/1.001 
+SMPTE ST 170 
+4 
+525 
+4 
+625 PAL 
+625 lines 
+25 
+ITU-R BT.1700 
+1 
+625 
+8 
+525 PALa 
+525 lines 
+30/1.001 
+ITU-R BT.1700 
+1 
+525 
+8 
+a 525 PAL is often colloquially referred to as “PAL-M”. 
+ 
+The period between alignment points shall be: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴= 1
+𝑅𝑅 
+ 
+If the color frame sequence is to be aligned, the period between alignment points shall be: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+𝐶𝐶𝐶𝐶
+𝑅𝑅× 2 
+ 
+The vertical counter shall be: 
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿= ൫floor൫𝑡𝑡× 𝑅𝑅× 𝑉𝑉+ (𝐿𝐿−1)൯ % 𝑉𝑉൯+ 1 
+ 
+The color field counter shall be: 
+𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶= ቆfloor ቆ2 × 𝑡𝑡× 𝑅𝑅× 𝑉𝑉+ (𝐿𝐿−1)
+𝑉𝑉
+ቇ % 𝐶𝐶𝐶𝐶ቇ+ 1
+ 
+ 
+ 
+7.1.1 SMPTE ST 318 Ten-Field Sequence Identification  
+SMPTE ST 318 defines the use of composite analog video signals for reference signal purposes. SMPTE 
+ST 318 further defines the generation and encoding of a ten-field Sequence Identification signal for use in 
+30/1.001 frame rate systems. The video frame carrying the field identified as the first in the sequence shall be 
+aligned to the SMPTE Epoch. This corresponds to an output value of one in the equation below.  
+ 
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇= ቆfloor ቆ2 × 𝑡𝑡× 𝑅𝑅× 𝑉𝑉+ (𝐿𝐿−1)
+𝑉𝑉
+ቇ % 10ቇ+ 1
+ 
+ 
+
+ SMPTE ST 2059-1:2021 
+Page 13 of 33 pages 
+7.2 
+Digital Standard Definition Television Interfaces 
+For digital standard definition television, the Alignment Point shall be the horizontal alignment sample P of the 
+vertical alignment line L as shown in Table 2. The horizontal alignment sample P is the Y sample that is 
+coincident with the horizontal reference point (0H) of the corresponding analog signal. Line numbers 
+increment immediately after the last sample of the digital active line (at the first word of the EAV sequence). 
+Table 2 – Signal Generation – Digital Standard Definition Television 
+Television System 
+Frame 
+Rate 
+R 
+[Hz] 
+Reference 
+Standard 
+Horizontal 
+Alignment 
+(Y Sample)  
+P 
+Vertical 
+Alignment  
+Line 
+L 
+ Y 
+samples 
+per total 
+line  
+H 
+Y 
+Samples 
+per 
+active 
+line 
+ HA 
+Total 
+Lines 
+V 
+ 
+Sample 
+Clock 
+Frequency 
+SR 
+[Hz] 
+ 
+525 line Interlaced 
+13.5 MHz Sampling 
+30/1.001 
+SMPTE ST 125 
+736 
+4 
+858 
+720 
+525 
+13.5 x 106 
+625 line Interlaced 
+13.5 MHz Sampling 
+25 
+SMPTE ST 125 
+ 
+732 
+1 
+864 
+720 
+625 
+13.5 x 106 
+525 Line Progressive 
+27 MHz Sampling 
+60/1.001 
+SMPTE ST 293 
+ITU-R BT.1358-1 
+736 
+7 
+858 
+720 
+525 
+27 x 106 
+625 Line Progressive 
+27 MHz Sampling 
+50 
+ITU-R BT.1358-1 
+732 
+1 
+864 
+720 
+625 
+27 x 106 
+ 
+The period between alignment points shall be: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+(𝐻𝐻× 𝑉𝑉)
+𝑆𝑆𝑆𝑆
+= 1
+𝑅𝑅 
+ 
+The horizontal and vertical counters shall be: 
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= (floor(𝑡𝑡× 𝑆𝑆𝑆𝑆) + 𝑃𝑃) % 𝐻𝐻   
+ 
+ 
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿= ቌ൭floor ቆ
+((𝑡𝑡× 𝑆𝑆𝑆𝑆) + 𝑃𝑃−𝐻𝐻𝐻𝐻)
+𝐻𝐻
+ቇ+ (𝐿𝐿−1)൱ % 𝑉𝑉ቍ+ 1     
+7.3 
+Analog High Definition Television 
+For Analog High Definition (HD) television, the Alignment Point is defined as horizontal timing reference point 
+(0H) at the beginning of the line 1. The horizontal timing reference point is defined as the positive zero-
+crossing of the tri-level sync pulse at the beginning of a line. 
+The parameters of Analog High Definition Television systems with 1920x1080 and 1280x720 image sample 
+structures are defined in SMPTE ST 274 and SMPTE ST 296 respectively.  These parameters are 
+summarized in Table 3. 
+Note: ‘Analog High Definition Television’ includes both tri-level sync signals and HD analog video essence 
+signals. 
+
+SMPTE ST 2059-1:2021 
+Page 14 of 33 pages 
+Table 3 – Signal generation – Analog High Definition Television 
+Television System 
+and 
+Reference Standard 
+Frame 
+Rate 
+R 
+[Hz] 
+Reference 
+Standard 
+System 
+Number 
+Clocks 
+per 
+total 
+line  
+H 
+Total 
+Lines 
+V 
+  
+Sample Clock 
+Frequency 
+SR 
+[Hz] 
+ 
+750 line progressive 
+(1280 x 720 active image 
+area) 
+SMPTE ST 296 
+60 
+1 
+1650 
+750 
+74.25 x 106  
+60/1.001 
+2 
+1650 
+750 
+74.25 x 106 / 1.001 
+50 
+3 
+1980 
+750 
+74.25 x 106 
+30 
+4 
+3300 
+750 
+74.25 x 106 
+30/1.001 
+5 
+3300 
+750 
+74.25 x 106 / 1.001 
+25 
+6 
+3960 
+750 
+74.25 x 106 
+24 
+7 
+4125 
+750 
+74.25 x 106 
+24/1.001 
+8 
+4125 
+750 
+74.25 x 106 / 1.001 
+1125 line progressive and 
+interlaced 
+(1920 x 1080 active image 
+area) 
+SMPTE ST 274 
+ 
+60 
+1 
+2200 
+1125 
+148.5 x 106 
+60/1.001 
+2 
+2200 
+1125 
+148.5 x 106 / 1.001 
+50 
+3 
+2640 
+1125 
+148.5 x 106 
+30 
+4 & 7 
+2200 
+1125 
+74.25 x 106 
+30/1.001 
+5 & 8 
+2200 
+1125 
+74.25 x 106 / 1.001 
+25 
+6 & 9 
+2640 
+1125 
+74.25 x 106 
+24 
+10 
+2750 
+1125 
+74.25 x 106 
+24/1.001 
+11 
+2750 
+1125 
+74.25 x 106 / 1.001 
+ 
+The period between alignment points shall be: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+(𝐻𝐻× 𝑉𝑉)
+𝑆𝑆𝑆𝑆
+= 1
+𝑅𝑅 
+ 
+7.4 
+Digital High Definition and Ultra High Definition Television Interfaces 
+In the case of HDTV images transported using SDI: 
+• 
+For 1280x720 image formats, the image is transported in a 750-line container, as defined in SMPTE 
+ST 296.  
+• 
+For 1920x1080 progressive or interlaced images, at frame rates up to and including 60 frames per 
+second, the image is transported in an 1125-line progressive or interlaced container as defined in 
+SMPTE ST 274.  
+• 
+For 2048x1080 images, at frame rates up to and including 60 frames per second, the image is 
+transported in an 1125-line container as defined in SMPTE ST 2048-2.  
+• 
+In certain mappings, a 1080-line progressive image at 60, 60/1.001, 50, 48 or 48/1.001 frames per 
+second is transported in an 1125-line interlaced container at 30, 30/1.001, 25, 24 or 24/1.001 frames 
+per second as defined in SMPTE ST 372. 
+
+ SMPTE ST 2059-1:2021 
+Page 15 of 33 pages 
+• 
+For 1920x1080 and 2048x1080 images, at frame rates > 60  frames per second, the image is 
+transported in an 1125-line container with a half-width line as defined in SMPTE ST 2081-10 and ST 
+2082-10.  
+In the case of UHDTV images transported using SDI: 
+• 
+2160-line image formats are divided into four 1080-line sub-images and 4320-line images are divided 
+into sixteen 1080-line sub-images.  Each 1080-line sub-image is transported in an 1125 line 
+container. 
+The Alignment Point on SDI is defined in terms of the container.  For the formats defined in SMPTE ST 296 
+and SMPTE ST 274, the horizontal position of the Alignment Point corresponds to the horizontal timing 
+reference point (0H). 
+For 750-line containers, the Alignment Point shall be the sample which is 260 samples before the first sample 
+after the SAV of line 1. 
+For 1125-line containers with an active line width of 1920, the Alignment Point shall be the sample which is 
+192 samples before the first sample after the SAV of line 1. 
+For 1125-line containers with an active line width of 960 (high frame-rate mappings), the Alignment Point shall 
+be the sample which is 96 samples before the first sample after the SAV of line 1. 
+For 1125-line containers with an active line width of 2048, the Alignment Point shall be the sample which is 64 
+samples before the first sample after the SAV of line 1. 
+For 1125-line containers with an active line width of 1024 (high frame-rate mappings), the Alignment Point 
+shall be the sample which is 32 samples before the first sample after the SAV of line 1. 
+Table 4 gives the horizontal location of the alignment sample P for each container format. 
+Note: Line numbers increment immediately after the last sample of the digital active line (at the first word of 
+the EAV sequence). 
+ 
+ 
+
+SMPTE ST 2059-1:2021 
+Page 16 of 33 pages 
+Table 4 – Signal Generation – Digital High Definition Television 
+Container Format and 
+Reference 
+Standard(s) 
+Frame 
+Rate 
+R 
+[Hz] 
+Reference 
+Standard 
+System 
+Number 
+Horizontal 
+Alignment 
+(Y sample) 
+P 
+Total Y 
+samples 
+per  
+interface 
+line 
+H 
+Active Y 
+samples 
+per 
+interface 
+line 
+HA 
+Total 
+Lines 
+V 
+Interface Sample 
+Clock Frequency 
+SR 
+[Hz] 
+750 line progressive 
+(1280 x 720 active 
+image area) 
+SMPTE ST 296 
+60 
+1 
+1390 
+1650 
+1280 
+750 
+74.25 x 106 
+60/1.001 
+2 
+1390 
+1650 
+1280 
+750 
+74.25 x 106 / 1.001 
+50 
+3 
+1720 
+1980 
+1280 
+750 
+74.25 x 106 
+30 
+4 
+3040 
+3300 
+1280 
+750 
+74.25 x 106 
+30/1.001 
+5 
+3040 
+3300 
+1280 
+750 
+74.25 x 106 / 1.001 
+25 
+6 
+3700 
+3960 
+1280 
+750 
+74.25 x 106 
+24 
+7 
+3865 
+4125 
+1280 
+750 
+74.25 x 106 
+24/1.001 
+8 
+3865 
+4125 
+1280 
+750 
+74.25 x 106 / 1.001 
+1125 line progressive 
+and interlaced 
+(1920 x 1080 active 
+image area) 
+SMPTE ST 274 
+SMPTE ST 372 
+60 
+1 
+2008 
+2200 
+1920 
+1125 
+148.5 x 106 
+60/1.001 
+2 
+2008 
+2200 
+1920 
+1125 
+148.5 x 106 / 1.001 
+50 
+3 
+2448 
+2640 
+1920 
+1125 
+148.5 x 106 
+30 
+4 & 7 
+2008 
+2200 
+1920 
+1125 
+74.25 x 106 
+30/1.001 
+5 & 8 
+2008 
+2200 
+1920 
+1125 
+74.25 x 106 / 1.001 
+25 
+6 & 9 
+2448 
+2640 
+1920 
+1125 
+74.25 x 106 
+24 
+10 
+2558 
+2750 
+1920 
+1125 
+74.25 x 106 
+24/1.001 
+11 
+2558 
+2750 
+1920 
+1125 
+74.25 x 106 / 1.001 
+1125 line progressive, 
+high-frame-rate 
+ (1920 x 1080 active 
+image area) 
+SMPTE ST 2081-10 
+SMPTE ST 2082-10 
+120 
+-- 
+1004 
+1100 
+960 
+1125 
+148.5 x 106 
+120/1.001 
+-- 
+1004 
+1100 
+960 
+1125 
+148.5 x 106 / 1.001 
+100 
+-- 
+1224 
+1320 
+960 
+1125 
+148.5 x 106 
+1125 line progressive 
+(2048 x 1080 image 
+container) 
+SMPTE ST 2048-2 
+60 
+1 
+2136 
+2200 
+2048 
+1125 
+148.5 x 106 
+60/1.001 
+2 
+2136 
+2200 
+2048 
+1125 
+148.5 x 106 / 1.001 
+50 
+3 
+2576 
+2640 
+2048 
+1125 
+148.5 x 106 
+48/1.001 
+4 
+2686 
+2750 
+2048 
+1125 
+148.5 x 106 / 1.001 
+48 
+5 
+2686 
+2750 
+2048 
+1125 
+148.5 x 106 
+30 
+6 
+2136 
+2200 
+2048 
+1125 
+74.25 x 106 
+30/1.001 
+7 
+2136 
+2200 
+2048 
+1125 
+74.25 x 106 / 1.001 
+25 
+8 
+2576 
+2640 
+2048 
+1125 
+74.25 x 106 
+24 
+9 
+2686 
+2750 
+2048 
+1125 
+74.25 x 106 
+24/1.001 
+10 
+2686 
+2750 
+2048 
+1125 
+74.25 x 106 / 1.001 
+1125 line progressive, 
+high-frame-rate 
+(2048 x 1080 image 
+container) 
+SMPTE ST 2081-10 
+SMPTE ST 2082-10 
+120 
+14 
+1068 
+1100 
+1024 
+1125 
+148.5 x 106 
+120/1.001 
+15 
+1068 
+1100 
+1024 
+1125 
+148.5 x 106 / 1.001 
+100 
+13 
+1288 
+1320 
+1024 
+1125 
+148.5 x 106 
+96 
+11 
+1343 
+1375 
+1024 
+1125 
+148.5 x 106 
+96/1.001 
+12 
+1343 
+1375 
+1024 
+1125 
+148.5 x 106 
+ 
+
+ SMPTE ST 2059-1:2021 
+Page 17 of 33 pages 
+The period between alignment points shall be: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+(𝐻𝐻× 𝑉𝑉)
+𝑆𝑆𝑆𝑆
+= 1
+𝑅𝑅 
+ 
+Horizontal and vertical counters shall be: 
+𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= (floor(𝑡𝑡× 𝑆𝑆𝑆𝑆) + 𝑃𝑃) % 𝐻𝐻   
+ 
+ 
+𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿= ቌ൭floor ቆ
+((𝑡𝑡× 𝑆𝑆𝑆𝑆) + 𝑃𝑃−𝐻𝐻𝐻𝐻)
+𝐻𝐻
+ቇ+ (𝐿𝐿−1)൱ % 𝑉𝑉ቍ+ 1     
+In the case of multi-link interfaces, the equations above shall only apply to the first link, i.e. Link A or Link 1. 
+Note: Multi-link interface standards specify the relative alignment between links. 
+7.4.1 Two-Frame Alignment 
+If the Two-Frame Alignment sequence specified in SMPTE ST 2051 is in use, the Alignment Point shall be as 
+specified in section 7.4 except that it shall only occur in the first interface frame of the frame pair.  The period 
+between Alignment Points shall be two interface frames: 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+(2 × 𝐻𝐻× 𝑉𝑉)
+𝑆𝑆𝑆𝑆
+= 2
+𝑅𝑅 
+The result is that signals with two-frame alignment are aligned such that the first frame would have occurred 
+at the SMPTE Epoch and the sequence subsequently maintained its periodicity in accordance with the time 
+reference used for its generation. The two-frame marker, if used, indicates the two-frame alignment as 
+defined in SMPTE ST 2051. 
+8 
+Audio Signal Generation 
+Signals are generated using alignment to the SMPTE Epoch and associated formulae. The following formulae 
+describe the relationships of AES standardized audio signals with respect to time since the SMPTE Epoch. 
+This does not imply that generators need to directly use these equations in the implementation of signals; 
+however, any implementation shall produce results identical to those produced by the equations. 
+The values in the formulae are derived from the reference AES standards.  
+8.1 
+AES3 Digital Audio 
+AES3 Digital Audio signals shall be generated using alignment to the SMPTE Epoch and the associated 
+formulae.  
+Note: “Digital Audio” includes both digital audio reference signals (DARS) as well as digital essence signals. 
+ 
+The Alignment Point shall be the start of the AES3 digital audio block Z preamble (See AES3-3). 
+ 
+
+SMPTE ST 2059-1:2021 
+Page 18 of 33 pages 
+Note: AES11 specifies alignment of either the X or Z preamble of the signal to the video timing reference 
+point. This standard further constrains alignment by specifying that at the SMPTE Epoch the AES alignment is 
+the Z preamble. 
+ 
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇= 1
+𝑆𝑆𝑆𝑆 
+ 
+𝐴𝐴𝐴𝐴𝐴𝐴𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔= 192 × 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 
+ 
+AES3 time slot clock period: 
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇= 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇
+2 × 32 
+ 
+To calculate the time slot position within a subframe, tsCnt, in terms of clocks of period TtsClk: 
+ 
+𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡= floor ൬
+𝑡𝑡
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇൰ % 32 
+ 
+ 
+To calculate the current frame position within a block, FCnt:  
+𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹= floor ൬
+𝑡𝑡
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇൰ % 192 
+ 
+Note:  FCnt has a value of zero for the frame containing the Z preamble. 
+8.2 
+Audio/Video Alignment Cadence 
+In 60/1.001-based and 30/1.001-based video systems with 48 kHz synchronous audio embedded in ancillary 
+data space, there exists a video to audio alignment cadence which results in periodic alignment of audio and 
+video. For example, 8008 audio samples are distributed over 5 video frames at the 30/1.001 frame rate. The 
+“ten-field Sequence Identification” optionally signaled in SMPTE ST 318 can be used to control the cadence 
+when embedding AES3 digital audio signals in SDI video signals. See SMPTE ST 272, SMPTE ST 299-1, 
+SMPTE ST 318 and AES11 for additional information.  
+For video systems with fractions of AES3 frames in one video frame, alignment of video and audio will occur 
+on every nth frame (e.g. n = 5 at 30/1.001 frames-per-second), which means that every nth Alignment Point of 
+the video signal is coincident with the start of the X or Z preamble of the AES3 signal and shall comply with 
+the requirements of AES11 Section 5.3.4 (Video reference). AES11 further states that the frame when 
+alignment occurs will be the frame identified by an indicator included in the video reference, which shall be the 
+ten-field sequence identification of SMPTE ST 318. The alignment specifications in this document result in the 
+aligned frame being the one containing the first field of the SMPTE ST 318 ten-field sequence. 
+9 
+SMPTE ST 12-1 Time Code Generation 
+9.1 
+Introduction and Overview (Informative) 
+Generation of SMPTE ST 12-1 time-of-day Time Code is divided into generation of the SMPTE ST 12-1 LTC 
+codeword and calculation of the SMPTE ST 12-1 Time Address value for the payload. Time Code generation 
+requires the use of several metadata elements of the SMPTE Profile defined in SMPTE ST 2059-2. 
+
+ SMPTE ST 2059-1:2021 
+Page 19 of 33 pages 
+The SMPTE ST 12-1 Time Address value for the payload is calculated from the PTP time using the SMPTE 
+Profile Metadata as defined in SMPTE ST 2059-2. This typically yields the time-of-day portion of local time (as 
+defined in SMPTE ST 2059-2). 
+The Synchronization Metadata TLV messages carrying the SMPTE Profile metadata are issued once per 
+second and can experience slight delays from network transit times and internal processing before being 
+ready for use.  These delays need to be considered when designing and implementing devices which use 
+these messages. 
+The SMPTE ST 12-1 Time Code Binary Groups can optionally include the date encoded in SMPTE ST 309 
+format. SMPTE ST 2059-1 defines the formulae to calculate the year, month and day or Modified Julian Date 
+(MJD) information. 
+Devices generating Time Code perform a ‘jam’ function which causes the current local time to be forced into 
+the Time Code Time Address. This is performed at device startup and initialization, and daily in many 
+systems.  
+For 1/1.001 based systems, the number of Time Code codewords in a day is not an integer. These systems 
+often use drop frame Time Code and require a Daily Jam event to remove the time error accumulated by the 
+drop frame counting rules. The jam event places a Time Address value into the Time Code payload at a 
+specified time of day from which counting continues. SMPTE EG 35 “Time and Control Code Time Address 
+Clock Precision for Television, Audio and Film” provides background on the time errors in drop frame Time 
+Code and the issue with a non-integer number of frames in a day. 
+The Daily Jam is usually set to occur at an operationally convenient time, typically during the early morning 
+hours in local time, and is not always coincident with the application time defined by civil authorities for leap 
+second or DST adjustments. At the Daily Jam time transmitted in the SMPTE Profile, a new value of local 
+time is calculated and placed into the Time Address of the next Time Code codeword, from which point 
+counting continues. When Time Code color frame identification is in effect, further calculations are used to 
+establish the correct subsequent video frame in the color frame sequence at which to jam the new Time 
+Address value. 
+In systems with Daily Jam in use, discontinuities in the SMPTE ST 12-1 Time Address (such as Leap 
+Seconds and Daylight Saving Time changes) take effect at the Daily Jam event time. In systems without Daily 
+Jam in use, discontinuities are applied manually at a time determined by the operator of the facility.  
+Note that the SMPTE ST 12-1 LTC codeword is indirectly aligned to the related video frame via the formulae 
+and is within the tolerances specified in SMPTE ST 12-1. 
+This Standard provides formulae which describe the relationships of SMPTE ST 12-1 Time Code with respect 
+to IEEE Std 1588-2008 PTP time when aligned to the SMPTE Epoch. Other methods and formulae which 
+achieve identical results can be used.  
+9.1.1 Regarding Generation of SMPTE ST 12-1 Codewords  (Informative) 
+Section 9.3.4 describes a function which converts local time to year, month and day. The calculations in the 
+following sections (9.3.2) depend on some of the values produced by this function.  
+SMPTE ST 12-1 codewords have to be associated with the correct video frame (or field, as the case may be). 
+For example, in certain implementations this could be the video frame that is acquired at a given PTP time. 
+That implementation could also insert the SMPTE ST 12-1 codewords in an ANC Packet associated with that 
+frame. In other implementations the SMPTE ST 12-1 codeword flows in a compression engine’s pipeline with 
+the associated video frame until the codeword can be inserted in the compression engine’s output bitstream 
+or associated with the frame by some other means. 
+
+SMPTE ST 2059-1:2021 
+Page 20 of 33 pages 
+9.1.2 Considerations Regarding Daily Jam Events  (Informative) 
+As described elsewhere, in operations using fractional frame rates (n/1.001), a Daily Jam event is required to 
+re-align the SMPTE ST 12-1 time-of-day addresses with Local Time.  Such Daily Jam events will also factor in 
+Daylight Savings adjustments as well as Leap Seconds. In operations not using fractional frame rates, a 
+single Daily Jam event may be introduced operationally to handle Daylight Savings adjustments and Leap 
+Second adjustments.   
+It is recommended that the choice of Daily Jam time be adopted with consideration of external events such as 
+Daylight Savings adjustments or Leap Second adjustments and to not have an operational impact due to the 
+discontinuity of the time address value. 
+9.2 
+Generation of the SMPTE ST 12-1 LTC Codeword 
+The SMPTE ST 12-1 LTC codewords shall be generated using alignment to the SMPTE Epoch.  The 
+Alignment Point shall be the timing reference datum for LTC which is defined in SMPTE ST 12-1 as the half-
+amplitude point of the first transition of bit 0 of the 80-bit LTC codeword. 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴= 1
+𝐹𝐹𝐹𝐹 
+BitNumber can be calculated as follows: 
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵= floor(𝑡𝑡× 80 × 𝐹𝐹𝐹𝐹) % 80 
+Note:  The alignment point is usually coincident with the corresponding video alignment point in most 
+systems. 
+9.3 
+Generation of the SMPTE ST 12-1 Time-of-Day Time Address Value  
+9.3.1 Introduction and Overview  
+The time address of the Daily Jam time (”timeOfNextJam”) and “currentLocalOffset” shall be as provided by 
+SMPTE ST 2059-2. Local Time (as defined in SMPTE ST 2059-2) shall be the time used for generation of 
+SMPTE ST 12-1 Time Address values. “currentLocalOffset” (as specified in SMPTE ST 2059-2) includes any 
+adjustments for daylight saving time (summer time) as required by the rules of the responsible authority and 
+may be adjusted by local operational requirements.   
+If the “TimeOfNextJam” field is in use, the Local Time value shall be jammed into the Time Address at the 
+time of the Daily Jam. Therefore, leap seconds, daylight saving time and other time discontinuities in “Local 
+Time” are transferred to the Time Address at the “TimeOfNextJam”. 
+Non-1/1.001 Time Code can be directly calculated, however 1/1.001-based Time Code requires additional 
+application of rules to accommodate management of the daily accumulation of error. When color frame 
+identification in the Time Address is required, additional calculations are necessary. The Color Frame Flag in 
+the SMPTE ST 12-1 codeword shall be set to logical 1 when the Time Code is color frame aligned. If color 
+frame identification in the time code is required, the rules are defined in SMPTE ST 12-1. 
+ 
+SMPTE EG 40 defines conversion from local wall clock time to the SMPTE ST 12-1 Time Address value, and 
+makes the assumption that the Daily Jam event occurs at midnight. This standard defines formulae based on 
+the SMPTE EG 40 formulae, however this standard removes the midnight jam assumption and supports a 
+user defined Daily Jam time. The SMPTE ST 12-1 Time Address values and binary groups can be used for 
+LTC, VITC and ATC generation.  
+
+ SMPTE ST 2059-1:2021 
+Page 21 of 33 pages 
+In addition, this standard defines formulae so that SMPTE ST 309 might optionally be used to encode the 
+date in the SMPTE ST 12-1 binary groups.  SMPTE ST 309 states that if the date is specified in MJD format, 
+the time address portion of the time code represents UTC without any offset. 
+9.3.2 Generation of the SMPTE ST 12-1 Time Address value 
+The SMPTE ST 12-1 Time Address value payload shall be calculated using the following steps (or 
+equivalents which produce the identical results) that are expanded in detail in the subsections below: 
+Step 1: (Startup) Calculate exact date, time, and Time Address value of the previous Daily Jam event. 
+Step 2: (Startup) Determine time of first codeword to be generated. 
+Step 3: (Test Daily Jam) Check if Daily Jam event has occurred. 
+Step 4: (Update Daily Jam Values) If Daily Jam event has occurred, calculate exact date, time, and 
+Time Address value of the local Daily Jam event. 
+Step 5: (Output) Calculate the SMPTE ST 12-1 Time Address value and the SMPTE ST 309 date 
+using exact date, time, and Time Address value of the previous Daily Jam event. 
+Step 6: (Continue) Increment codeword; go back to Step 3. 
+Note: If the algorithm is implemented using floating-point arithmetic, the potential for rounding errors needs to 
+be considered. 
+9.3.2.1 
+Step 1: (Startup) Calculate exact date, time, and Time Address value of the previous Daily 
+Jam event 
+The outputs of this step are the exact time (tepdjamPTP) and Time Address value (HHpdjam, MMpdjam, SSpdjam, and 
+FFpdjam) of the previous Daily Jam event. The previous Daily Jam event is the most recent Daily Jam event. 
+This is a conceptual event and it might not have actually occurred (e.g. a cold start). 
+Note:  The steps below are to be followed even in systems not using Daily Jam. 
+The following formulae (or an alternative method yielding the identical results) shall be used for these 
+calculations: 
+ 
+1. Calculate time of previous Daily Jam in PTP time 
+𝑡𝑡𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 
+2. Calculate the number of codewords (𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝) since the SMPTE Epoch at or just after Jam 
+time: 
+𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= ceiling൫𝑡𝑡𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝× 𝐹𝐹𝐹𝐹൯ 
+
+SMPTE ST 2059-1:2021 
+Page 22 of 33 pages 
+If color frame identification is in effect (colorFrameIdentificationMode == 1), calculate the 
+offset to the first frame of the color frame sequence. Color frame identification is only 
+applicable for 25 Hz and 30/1.001 Hz systems. 
+if  𝐹𝐹𝐹𝐹== 30/1.001 then 
+𝐶𝐶𝐶𝐶= 2 
+else if  𝐹𝐹𝐹𝐹== 25 then 
+𝐶𝐶𝐶𝐶= 4 
+endif  
+a. Calculate number of codewords (ncf) to the beginning of the color field sequence 
+𝑛𝑛𝑐𝑐𝑐𝑐 = (𝐶𝐶𝐶𝐶−൫𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 % 𝐶𝐶𝐶𝐶൯) % 𝐶𝐶𝐶𝐶 
+b. Calculate the adjusted number of codewords to the beginning of the color field sequence 
+𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ 𝑛𝑛𝑐𝑐𝑐𝑐 
+3. Calculate exact time of Daily Jam in PTP time adjusted to beginning of next codeword (or 
+codeword at beginning of color frame sequence if color field identification is in effect) 
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= 𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 
+ 𝐹𝐹𝐹𝐹
+ 
+4.   Calculate exact time of Daily Jam on Local Time scale 
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= 𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒+ 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 
+if (𝑡𝑡_𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 < 0)  
+𝑡𝑡_𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 = 𝑡𝑡_ 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 + (24 × 60 × 60) 
+ 
+5. Set Time Address value to time of Daily Jam: 
+𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= floor ൬𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+60 × 60 ൰ % 24  
+𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= floor ൬𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+60
+൰% 60 
+𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 0 
+if (𝐹𝐹𝐹𝐹== 25) and (colorFrameIdentificationMode == 1) then 
+𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 1  
+else 
+
+ SMPTE ST 2059-1:2021 
+Page 23 of 33 pages 
+𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 0  
+endif 
+9.3.2.2 
+Step 2: (Startup) Determine time of first codeword to be generated 
+If the current time is 𝑡𝑡, the time of the alignment point of the first codeword occurring on or after time 𝑡𝑡 will be: 
+𝑡𝑡𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= ൬ceiling ൬
+𝑡𝑡
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴൰× 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴൰ 
+From section 9.2, 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴=
+1
+𝐹𝐹𝐹𝐹 , therefore: 
+𝑡𝑡𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= ceiling(𝑡𝑡× 𝐹𝐹𝐹𝐹)
+𝐹𝐹𝐹𝐹
+ 
+The corresponding codeword number (counting from zero at the SMPTE Epoch) is: 
+𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= 𝑡𝑡𝑐𝑐𝑐𝑐𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑× 𝐹𝐹𝐹𝐹 
+= ceiling(𝑡𝑡× 𝐹𝐹𝐹𝐹) 
+9.3.2.3 
+Step 3: (Test Daily Jam) Check if Daily Jam event has occurred 
+The following formulae (or an alternative method yielding the identical results) shall be used for these 
+calculations: 
+ 
+1. Calculate currentLocalOffsetActive 
+if  (𝑡𝑡𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐≥ 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡) 𝑎𝑎𝑎𝑎𝑎𝑎 (𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑖𝑖𝑖𝑖 𝑛𝑛𝑛𝑛𝑛𝑛 0) then 
+𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐+ 𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗 
+else 
+𝑐𝑐𝑐𝑐𝑐𝑐𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟= 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 
+endif 
+2. Calculate time of Daily Jam in PTP time 
+𝑡𝑡𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗= 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 
+3. Calculate the number of codewords since the SMPTE Epoch at or just after Jam time 
+𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛= ceiling൫𝑡𝑡𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗𝑗× 𝐹𝐹𝐹𝐹൯ 
+
+SMPTE ST 2059-1:2021 
+Page 24 of 33 pages 
+If color frame identification is in effect (colorFrameIdentificationMode = 1), calculate the offset 
+to the first frame of the color frame sequence. Color frame identification is only applicable for 
+25 Hz and 30/1.001 Hz systems.  
+if  𝐹𝐹𝐹𝐹== 30/1.001 then 
+𝐶𝐶𝐶𝐶= 2 
+else if  𝐹𝐹𝐹𝐹== 25 then 
+𝐶𝐶𝐶𝐶= 4 
+endif  
+ 
+a. Calculate number of codewords to the beginning of the color field sequence 
+𝑛𝑛𝑐𝑐𝑐𝑐 = ቀ(𝐶𝐶𝐶𝐶) −൫𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛 % 𝐶𝐶𝐶𝐶൯ቁ% 𝐶𝐶𝐶𝐶 
+b. Calculate adjusted number of codewords to the beginning of the color field sequence 
+𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛= 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛+ 𝑛𝑛𝑐𝑐𝑐𝑐 
+4. Determine if the Daily Jam event has occurred: 
+if  ൫𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐== 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛൯ then 
+ 
+/* 
+Daily Jam has occurred  */ 
+Calculate exact date, time, and Time Address value of the Daily Jam event using the 
+method in Section 9.4.2.4 (“Step 4”) 
+else 
+Go to Step 5 (See Section 9.4.2.5). 
+endif 
+Note: SMPTE ST 2059-2 recommends that there is no more than one Daily Jam event between two 
+successive midnights (local time). 
+9.3.2.4 
+Step 4: (Update Daily Jam Values) If Daily Jam event has occurred, calculate exact date, time, 
+and Time Address value of the local Daily Jam event 
+The following formulae (or an alternative method yielding the identical results) shall be used for these 
+calculations: 
+ 
+
+ SMPTE ST 2059-1:2021 
+Page 25 of 33 pages 
+1. Update number of codewords since the SMPTE Epoch at jam 
+𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 
+2. Update exact time of Daily Jam in PTP time 
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= 𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+𝐹𝐹𝐹𝐹
+ 
+ 
+3. Calculate exact time of Daily Jam on Local Time scale  
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= 𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒+ 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 
+4. Set Time Address to time of Daily Jam: 
+  𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= floor ൬𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+60 × 60 ൰% 24 
+𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= floor ൬𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+60
+൰% 60 
+𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 0 
+if (𝐹𝐹𝐹𝐹== 25) and (colorFrameIdentificationMode == 1) then 
+𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 1  
+else 
+𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝= 0  
+endif 
+9.3.2.5 
+Step 5: (Output) Calculate the SMPTE ST 12-1 Time Address value and the SMPTE ST 309 
+date using exact date, time, and Time Address value of the previous Daily Jam event 
+The following formulae (or an alternative method yielding the identical results) shall be used to calculate the 
+SMPTE ST 12-1 Time Address value: 
+1. Calculate number of frames since previous Daily Jam event  
+𝑓𝑓𝑒𝑒 = 𝑛𝑛𝑐𝑐𝑐𝑐𝑑𝑑𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒− 𝑛𝑛𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 
+2. Calculate the SMPTE ST 12-1 Time Address time value by adding the number of frames since the 
+previous Daily Jam event to the Time Address value at previous Daily Jam event. 
+The HH, MM, SS and FF of the SMPTE 12-1 Time Address value are calculated by adding 𝑓𝑓𝑒𝑒 to 
+HHpdjam, MMpdjam, SSpdjam and FFpdjam using the equations in Section 9.3.3 and the value of 
+dropFrameMode.  
+3. Calculate the SMPTE ST 309 date value. 
+
+SMPTE ST 2059-1:2021 
+Page 26 of 33 pages 
+Set date (YY, Mo, DD, MJD) to date calculated using the method set out in Section 9.3.4 with  
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒= (𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒+ ൬floor ൬𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24
+24
+൰ × 24 × 60 × 60൰ )  
+9.3.2.6 
+Step 6: (Continue) Increment codeword; go back to Step 3 
+Increment codeword number: 
+𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= 𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐+ 1 
+Update time of codeword: 
+𝑡𝑡𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐= 𝑛𝑛𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+𝐹𝐹𝐹𝐹
+ 
+Go to Step 3 (Section 0). 
+Note:  This step is necessary only if generating a continuous stream of codewords. 
+ 
+9.3.3 Adding Elapsed Frames Since the Previous Daily Jam Event to the Time Address Value at 
+Previous Daily Jam Event 
+The value of dropFrameMode shall be the same as the value of the “Drop Frame” bit in the 
+“timeAddressCountMode” field in the SMPTE ST 2059-2 SMPTE Profile. 
+The following variables and terms are used in the formulae in the following sections: 
+𝑓𝑓𝑒𝑒   
+ 
+Number of LTC codewords since the previous Daily Jam event 
+𝐹𝐹𝐹𝐹 
+ 
+Frame Rate of LTC code word e.g. 30000 / 1001 Hz 
+𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 
+Drop-frame (DF) or Nondrop-frame (NDF) 
+9.3.3.1 
+Introduction 
+The Time Address value of the previous Daily Jam event is defined in Section 9.3.2.5 and consists of the 
+following fields: 
+𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝,𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝,𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝, and 𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 
+The Time Address can be represented equivalently as: 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓= “frames since midnight” 
+The “frames since midnight” representation is more convenient for arithmetic operations, such as adding a 
+certain number of frames. 
+The following calculation shall be used add 𝑓𝑓𝑒𝑒  frames: 
+1. Convert the Time Address to 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 
+
+ SMPTE ST 2059-1:2021 
+Page 27 of 33 pages 
+2. Add 𝑓𝑓𝑒𝑒  to frame count 
+3. Convert result back to the new Time Address. 
+The new Time Address value consists of the following fields: 
+𝐻𝐻𝐻𝐻, 𝑀𝑀𝑀𝑀, 𝑆𝑆𝑆𝑆 and 𝐹𝐹𝐹𝐹 
+Note:  The equations below are based on those in SMPTE EG 40, Sections 5.1 and 5.5. 
+9.3.3.2 
+24, 25 and 30 frames-per-second 
+Per SMPTE ST 12-1, for these frame rates, 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 shall be set to Non-drop frame; (indicating drop 
+frame calculations are not to be used.) The following formulae (or an alternative method yielding the identical 
+results) shall be used for these calculations: 
+1. Calculate Time Address of previous Daily Jam Event as frames since midnight: 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓= 𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ ൭𝐹𝐹𝐹𝐹× ቆ𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ ൬60 × ቀ𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ ൫60 × 𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝൯ቁ൰ቇ൱ 
+2. Add number of LTC codewords since previous Daily Jam Event 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ = 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓+ 𝑓𝑓𝑒𝑒 
+3. Calculate new Time Address value: 
+𝐻𝐻𝐻𝐻= floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′
+𝐹𝐹𝐹𝐹× 3600 ቇ 
+𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 = 𝐻𝐻𝐻𝐻 
+𝑀𝑀𝑀𝑀= floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ − (𝐹𝐹𝐹𝐹 × 3600 × 𝐻𝐻𝐻𝐻)
+𝐹𝐹𝐹𝐹× 60
+ቇ 
+𝑆𝑆𝑆𝑆= floor ቌ
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ −ቀ𝐹𝐹𝐹𝐹 × 60 × ൫𝑀𝑀𝑀𝑀+ (60 × 𝐻𝐻𝐻𝐻)൯ቁ
+𝐹𝐹𝐹𝐹
+ቍ 
+𝐹𝐹𝐹𝐹= 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ −൬𝐹𝐹𝐹𝐹 × ቀSS + 60 × ൫𝑀𝑀𝑀𝑀+ (60 × 𝐻𝐻𝐻𝐻)൯ቁ൰ 
+𝐻𝐻𝐻𝐻= 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 % 24 
+9.3.3.3 
+24 / 1.001 and 30 / 1.001 frames-per-second, Non Drop Frame 
+The following formulae (or an alternative method yielding the identical results) shall be used for these 
+calculations:  
+𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 shall be set to Non-drop frame 
+𝑖𝑖𝑖𝑖 𝐹𝐹𝐹𝐹== 24 1.001 𝐻𝐻𝐻𝐻
+⁄
+ 𝑡𝑡ℎ𝑒𝑒𝑒𝑒  
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛= 24 𝐻𝐻𝐻𝐻 
+
+SMPTE ST 2059-1:2021 
+Page 28 of 33 pages 
+𝑖𝑖𝑖𝑖 𝐹𝐹𝐹𝐹== 30 1.001 𝐻𝐻𝐻𝐻
+⁄
+ 𝑡𝑡ℎ𝑒𝑒𝑒𝑒  
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛= 30 𝐻𝐻𝐻𝐻 
+1. Calculate Time Address of previous Daily Jam Event as frames since midnight: 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓= 𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
++ ൭𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛× ቆ𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ ൬60 × ቀ𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝+ ൫60 × 𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝൯ቁ൰ቇ൱ 
+2. Add number of LTC codewords since previous Daily Jam Event 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ = 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓+ 𝑓𝑓𝑒𝑒 
+ 
+3. Calculate new Time Address: 
+𝐻𝐻𝐻𝐻= floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛 × 3600ቇ  
+𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 = 𝐻𝐻𝐻𝐻 
+𝑀𝑀𝑀𝑀= floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ − (𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛 × 3600 × 𝐻𝐻𝐻𝐻)
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛 × 60
+ቇ 
+𝑆𝑆𝑆𝑆= floor ቌ
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ −ቀ𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛 × 60 × ൫𝑀𝑀𝑀𝑀+ (60 × 𝐻𝐻𝐻𝐻)൯ቁ
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛
+ቍ 
+𝐹𝐹𝐹𝐹= 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑡𝑡′ −൬𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛 × ቀSS + 60 × ൫𝑀𝑀𝑀𝑀+ (60 × 𝐻𝐻𝐻𝐻)൯ቁ൰ 
+𝐻𝐻𝐻𝐻= 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 % 24      
+9.3.3.4 
+30 / 1.001 frames-per-second, Drop Frame 
+The following formulae (or an alternative method yielding the identical results) shall be used for these 
+calculations: 
+𝑑𝑑𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 shall be set to Drop frame 
+𝐹𝐹𝐹𝐹𝑛𝑛𝑛𝑛𝑛𝑛= 30 𝐻𝐻𝐻𝐻 
+
+ SMPTE ST 2059-1:2021 
+Page 29 of 33 pages 
+1. Calculate Time Address of previous Daily Jam Event as frames since midnight: 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓= 𝐹𝐹𝐹𝐹𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
++ ൫30 × 𝑆𝑆𝑆𝑆𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝൯+ ൫1798 × 𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝൯+ ൭2 × int ൬𝑀𝑀𝑀𝑀𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+10
+൰൱
++ ൫107892 × 𝐻𝐻𝐻𝐻𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝൯ 
+2. Add number of LTC codewords since previous Daily Jam Event 
+𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ = 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓+ 𝑓𝑓𝑒𝑒 
+ 
+3. Calculate new Time Address: 
+𝐻𝐻𝐻𝐻= floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′
+107892
+ቇ  
+𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 = 𝐻𝐻𝐻𝐻 
+𝑀𝑀𝑀𝑀= floor ൭
+1
+1800
+× ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ + 2 × floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ −107892 × 𝐻𝐻𝐻𝐻
+1800
+ቇ
+−2 × floor ቆ𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ −107892 × 𝐻𝐻𝐻𝐻
+18000
+ቇ−107892 × 𝐻𝐻𝐻𝐻ቇ൱ 
+𝑆𝑆𝑆𝑆= floor ቆ1
+30 × ൬𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ −1798 × 𝑀𝑀𝑀𝑀
+−2 × floor ൬𝑀𝑀𝑀𝑀
+10 ൰−107892 × 𝐻𝐻𝐻𝐻൰ቇ 
+𝐹𝐹𝐹𝐹= 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓′ −30 × 𝑆𝑆𝑆𝑆−1798 × 𝑀𝑀𝑀𝑀−2 × floor ൬𝑀𝑀𝑀𝑀
+10 ൰
+−107892 × 𝐻𝐻𝐻𝐻 
+  
+𝐻𝐻𝐻𝐻= 𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻𝐻24 % 24      
+9.3.4 Generation of the SMPTE ST 309 Date  
+This section defines the formulae to convert a local time into one of the date formats required by SMPTE 
+ST 309. SMPTE ST 309 permits the date to be carried in the Gregorian calendar format years, months and 
+day of month or as a Modified Julian Day number. The Modified Julian Day number is an integer counter of 
+the days beginning at 1858-11-17, which is Modified Julian Day Number 0.  
+These calculations are similar to the functions such as gmtime which are provided by many operating 
+systems and languages. These equations shall be used with the same “local time” value used to generate the 
+Time Address, to ensure that the date changes coincident with the Time Address 00:00:00:00. 
+Note 1: The formulae perform the classic Gregorian calendar algorithm with no UTC Leap Second 
+compensation. 
+Note 2: The formulae are intended for contemporary time keeping and caution should be exercised when 
+applying them to historic time keeping (or times near the SMPTE Epoch). 
+
+SMPTE ST 2059-1:2021 
+Page 30 of 33 pages 
+ 
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒  Is the input local time passed to this function and is derived in the earlier sections which call this 
+function. It is expressed in seconds from 01 January 1970 00:00:00. 
+The Gregorian date consists of the following fields: 
+𝑌𝑌𝑌𝑌, 𝑀𝑀𝑀𝑀 and 𝐷𝐷𝐷𝐷 
+The Modified Julian Day consists of the following field: 
+𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 
+The following formulae (or an alternative method yielding the same results) shall be used for these 
+calculations: 
+ 
+1. Initialize with the year = 1970 
+𝑌𝑌= 1970 
+ 
+2. Initialize with the number of days from beginning of 1970 
+𝐷𝐷= floor ൬
+𝑡𝑡𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+24 × 60 × 60൰ 
+ 
+3. Calculate Modified Julian Day number 
+𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀= 𝐷𝐷+ 40587 
+ 
+4. Estimate year.  If days negative, subtract 1 
+𝑌𝑌𝑔𝑔= 𝑌𝑌+ floor(𝐷𝐷365
+ൗ
+)   
+ 
+if (𝐷𝐷< 0) 
+𝑌𝑌𝑔𝑔= 𝑌𝑌𝑔𝑔− 1 
+ 
+5. Calculate days from beginning of that year 
+𝐷𝐷 = 𝐷𝐷− ൫𝑌𝑌𝑔𝑔−𝑌𝑌൯× 365 −LeapsThroughEndOf൫𝑌𝑌𝑔𝑔−1൯+ LeapsThroughEndOf(𝑌𝑌−1) 
+ 
+6. Update year 
+𝑌𝑌= 𝑌𝑌𝑔𝑔 
+ 
+7. Revise year if necessary 
+if(𝐷𝐷< 0 𝑂𝑂𝑂𝑂 (𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼(𝑌𝑌) AND 𝐷𝐷≥366) OR ((𝑛𝑛𝑛𝑛𝑛𝑛 IsLeap(𝑌𝑌)) AND 𝐷𝐷≥365) ) 
+𝐺𝐺𝐺𝐺 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 𝑡𝑡𝑡𝑡 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 4 
+ 
+
+ SMPTE ST 2059-1:2021 
+Page 31 of 33 pages 
+ 
+Function definitions: 
+ 
+LeapsThroughEndOf(𝑦𝑦) 
+return floor൫𝑦𝑦
+4
+ൗ൯−floor൫𝑦𝑦
+100
+ൗ
+൯ + floor൫𝑦𝑦
+400
+ൗ
+൯  
+ 
+ 
+IsLeap (𝑦𝑦) 
+if ൫ (𝑦𝑦 % 4) == 0 AND ൫(𝑦𝑦 % 100) ≠0 OR (𝑦𝑦 % 400) == 0൯ ൯ then 
+ 
+ 
+ 
+return True 
+ 
+ 
+Else 
+ 
+ 
+ 
+return False 
+ 
+8. Calculate the month and day of month. 
+The month (𝑀𝑀𝑀𝑀) is calculated using Table 5. The “Start day in Leap Year” column shall be used if the 
+year is a leap year. Otherwise the “Start day” column shall be used. Mo shall be the month with the 
+greatest start day that is less than or equal to the day of the year DD.  
+The day of the month (DD) shall be  
+DD – Start day for the selected month + 1 
+ 
+Table 5 – Start day of each month 
+Month 
+Mo 
+Start day 
+Start day in 
+Leap Year 
+    January 
+01 
+00 
+00 
+    February 
+02 
+31 
+31 
+    March 
+03 
+59 
+60 
+    April 
+04 
+90 
+91 
+    May 
+05 
+120 
+121 
+    June 
+06 
+151 
+152 
+    July 
+07 
+181 
+182 
+    August 
+08 
+212 
+213 
+    September 
+09 
+243 
+244 
+    October 
+10 
+273 
+274 
+    November 
+11 
+304 
+305 
+    December 
+12 
+334 
+335 
+ 
+ 
+
+SMPTE ST 2059-1:2021 
+Page 32 of 33 pages 
+Annex A    (Informative) Alignment Point Timing 
+A.1 Variable names 
+Consider a sampled waveform with periodic alignment points and the following parameters: 
+ 
+𝑇𝑇 
+sample period 
+𝑁𝑁 
+number of samples between alignment points 
+𝑡𝑡 
+current time since SMPTE Epoch 
+ 
+For a non-sampled (analogue) waveform,  𝑁𝑁= 1  and  𝑇𝑇= (𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝) 
+A.2 Alignment points in general 
+An alignment point occurs at the SMPTE Epoch, 𝑡𝑡(𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎) = 0 
+Alignment points in general occur at:   𝑡𝑡(𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎) = 𝑛𝑛× 𝑁𝑁× 𝑇𝑇  for all integer  𝑛𝑛  
+ 
+A.3 Next alignment point 
+ 
+The most recent alignment point relative to current time (𝑡𝑡𝑐𝑐) occurred at:   
+   𝑡𝑡(𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚) = 𝑁𝑁× 𝑇𝑇× floor ቀ𝑡𝑡𝑐𝑐(𝑁𝑁× 𝑇𝑇)
+ൗ
+ቁ 
+The next alignment point occurs at:  
+   𝑡𝑡(𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛) = 𝑁𝑁× 𝑇𝑇× ቀfloor ቀ𝑡𝑡𝑐𝑐(𝑁𝑁× 𝑇𝑇)
+ൗ
+ቁ+ 1ቁ 
+ 
+ 
+
+ SMPTE ST 2059-1:2021 
+Page 33 of 33 pages 
+Bibliography (Informative) 
+SMPTE ST 272:2004, Television — Formatting AES/EBU Audio and Auxiliary Data into Digital Video Ancillary 
+Data Space 
+SMPTE ST 299-1:2009, 24-Bit Digital Audio Format for SMPTE 292 Bit-Serial Interface 
+SMPTE ST 372:2017, Dual Link 1.5 Gb/s Digital Interface for 1920 × 1080 and 2048 × 1080 Picture Formats 
+SMPTE ST 2081-10:2018, 2160-line and 1080-line Source Image and Ancillary Data Mapping for 6G-SDI 
+SMPTE ST 2082-10:2018, 2160-line and 1080-line Source Image and Ancillary Data Mapping for 12G-SDI 
+SMPTE ST 2036-1:2014, Ultra High Definition Television — Image Parameter Values for Program Production 
+SMPTE ST 2036-3:2018, Ultra High Definition Television — Mapping into Single-link or Multi-link 10 Gb/s 
+Serial Signal/Data Interface 
+SMPTE EG 35:2012, Time and Control Code Time Address Clock Precision for Television, Audio and Film 
+SMPTE EG 40:2016, Conversion of Time Values Between SMPTE ST 12-1 Time Code, MPEG-2 PCR Time 
+Base and Absolute Time 
+IEEE Std 1588-2008, IEEE Standard for a Precision Clock Synchronization Protocol for Networked 
+Measurement and Control Systems 
+Recommendation ITU-R BS.647-3 (03/2011), A Digital Audio Interface for Broadcasting Studios 
+Recommendation ITU-R BS.2032-0 (01/2013), Synchronization of Digital Audio Sample Clock to Video 
+References 
+ 
+ 
+ 

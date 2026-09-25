@@ -1,0 +1,349 @@
+Understanding Sound System Design
+and Feedback Using (Ugh!) Math
+by Rick Frank
+Shure Incorporated
+222 Hartrey Avenue
+Evanston, Illinois 60202-3696
+(847) 866-2200
+
+
+Understanding Sound System Design and Feedback
+Using (Ugh!) Math
+One of the basic building blocks of sound system design is the Potential Acoustic Gain (PAG) equation.
+With a few simple calculations it can provide a guide to dealing with the problems and restrictions
+encountered in this process.
+Here's a common situation confronting a sound contractor trying to provide a system for an existing room.
+He has a good working knowledge of the audio chain and the products at his disposal to assemble a
+"working system." He knows the room—let's say a conference room. And he knows where he (or the
+client) would like to place the microphones and speakers. But how can he know in advance whether the
+components he would like to install, and the layout he would like to use, will produce the gain needed
+without feedback? And for that matter, how much gain is needed?
+If he wants to do more than try what he "feels" should work and then hope for the best, he will pull out his
+calculator, plug in the dimensions of his system design, and let the equation guide him in the right
+direction.
+Unfortunately, many people who could benefit by understanding and using the equation are put off by its
+apparent complexity. This doesn't have to be the case as I will show in the following pages. A calculator
+with a "log" button and possibly a sound level meter are really all you need to take some of the mystery
+and potential disaster out of sound system design. It all starts with the Inverse Square Law.
+THE INVERSE SQUARE LAW—EASIER THAN IT SOUNDS
+Have you noticed that as you walk away from someone speaking, the talker's voice level decreases as
+perceived by your ears? What's happening is this: distance from a sound source affects the sound pressure
+level (SPL) on your ears in a particular way. It's described by the inverse square law which states that as
+listeners double their distance from the sound source, the SPL they perceive will decrease by 6.02dB. So
+if you first stand 4 feet from a talker and then move to a new position 8 feet from the talker, you should
+notice about a 6.02dB drop in level. (A one dB increase is barely audible, 3dB is a generally noticeable
+change, and a 10dB increase is considered to be twice as loud.) Mathematically the inverse square law
+looks like this:
+New Level = Old Level + 20 X log of old distance - 20 X log of new distance
+or in math shorthand
+L'   =   L   +   20 log D   -   20 log D'
+This equation describes what happens in a so-called "free field." That means that there is no interference
+from things like reflected sounds and that the origin of the sound is a point source (a sound source which
+has much smaller dimensions than the distance to the listener). Since even the earth can complicate the
+issue, there is almost never a situation where we encounter the pure effects of this equation.
+That doesn't mean we have to abandon the theory, but rather that we have to use it with the understanding
+that it will not perfectly predict what is going to happen when we apply it to a real situation. Because it's
+easier to understand this way, let's try working through an example by assuming we're in a free field.
+
+Using the previous example with the old distance, D, equal to 4 feet and the new distance, D' ("D prime"),
+equal to 8 feet, you can use your calculator to test this free space law. Let's say that the old level, L, of the
+talker measures 70dB at 4 feet. Incidentally, I've always found it is easiest to work in reverse on calculator
+logarithm (log) computations. So to work through the problem, punch the D' quantity "8" into the calculator,
+find the logarithm (hit the log button), and get 0.90309.
+Log of 8 = 0.90309
+Now multiply by 20 and get 18 (rounded from 18.0618). (Since 1dB is considered to be the smallest
+difference we can actually hear, I'll round all these figures to the nearest whole number.)
+0.90309 x 20 = 18 (rounded from 18.0618)
+Save this figure and punch in the old distance, D, of "4". If you follow the same steps the new answer is 12
+(again, rounded).
+log of 4 = 0.6021
+0.6021 x 20 = 12 (rounded from 12.0412)
+The final answer is just the arithmetic of the inverse square law: take the old sound pressure level of 70 plus
+12, minus 18, to arrive at the new level, 64 — 6dB less than the old level.
+New Level = Old Level + 20 X log of old distance - 20 X log of new distance
+       64        =        70      +       12     -     18
+Because of the nature of logarithms and the inverse square law, this solution will occur with any pair of
+distances where one is twice the other. Let's say we move from 13 feet to 26 feet away from the talker.
+Working backwards again, entering 26 followed by the log button and multiplying by 20 gives 28dB
+(rounded). The same procedure with 13 gives 22dB. And the arithmetic (70 plus 22 minus 28) results in a
+level of 64dB — the same 6dB drop as we had with 4' to 8'.
+log of 13 = 1.1139434,
+1.1139434 x 20 = 22 (rounded from 22.278867),
+log of 26 = 1.4149733, 1.4149733 x 20 = 28
+New Level = Old Level + 20 X log of old distance - 20 X log of new distance
+64      =      70      +      22      -     28
+Of course this works in reverse, as your ears will tell you. If we move closer to the sound source by cutting
+the distance in half (from 8' to 4'), the sound level rises by 6dB. The important point to remember is that in
+order to get a significant 6dB sound level change, the distance must change by double or half.
+CRITICAL DISTANCE IS CRITICAL
+A lot of the limitations on the practical use of the inverse square law and the PAG equation have to do with
+what's called "critical distance." Basically, when the listener is within the critical distance of the source, the
+inverse square law works pretty well. Outside the critical distance things get much more complex.
+
+The term "critical distance" is defined as the distance from a sound source where the direct sound is the
+same level as the reverberant sound. With a sound level meter and a de-tuned FM radio you can make a
+good estimate of critical distance in a room. The radio serves as a sound source to provide a constant,
+broad spectrum sound. If you walk backwards from the sound source with a sound level meter, you will
+reach a point where the level stops registering change on the meter. At that point, if you walk back
+towards the sound source until the meter increases exactly 3dB you will have reached the critical
+distance. (Equal sound from the direct source and the reverberant field add up to 3dB more than the
+reverberant sound alone.)
+Whether or not you actually make estimates of the critical distances within a system, there is one thing
+that is important to know. Typically in sound systems, the distance between the microphone and the
+talker is the only place where the system component receiver (the listener or microphone) is less than the
+critical distance from the source. Later when we look at the actual distances between the parts of a
+system, we'll see the dramatic effects of changing this distance.
+HOW MUCH ACOUSTIC GAIN IS NEEDED?
+With this in mind we're ready to look at the question of how much gain is needed for listeners in a given
+room. (Remember that in a real room the reflective surfaces create echoes and a reverberant field that
+interfere with the theoretical results of the inverse square law as well as the potential acoustic gain
+equation. This interference generally lowers the actual performance of a system.)
+Let's take an example of a conference room with a 22' table. Normal conversational level in a quiet room
+at a normal conversational distance of 2 feet is about 70dB. The inverse square law will tell us how much
+the loss will be if the listener is at the opposite end of the table, 22 feet away. That listener would ideally
+like to hear exactly what the close listener hears. The distance to the far listener creates the loss which the
+sound system should replace.
+Putting the figures from this scene into the inverse square law equation (using the mathematical shorthand)
+looks like this:
+L'     =     L     +     20 log D       -      20 log D'
+=     70    +     20 X log 2    -      20 X log 22
+Working backwards from the new distance, 22, punch in 22, take its log and multiply the result by 20. Write
+down that result (27), take the log of 2 the same way and multiply it by 20, and you get 6. Now the
+arithmetic: 70 plus 6 minus 27 equals 49 — telling us that the distant listener experiences a loss of 21dB (70
+- 49).
+L'     =     L     +     20 log D      -      20 log D'
+49    =     70    +     6                 -      27
+49    =     70    -      21
+49    -      70    =    -21 (a loss of 21dB)
+This is the sound system's target. The sound system must provide at least 21dB of gain for the farthest
+listener to hear the talker as if she is 2 feet away. This is called the needed acoustic gain (NAG). If the
+distant listener is supposed to hear as well as the near listener then the system must make up the 21dB
+loss caused by the distance.
+Of course if you have a sound level meter you can take a reading in both the near and far positions and
+subtract to get to this point. But with the first method you get to understand and see the inverse square law
+in action. It may also be interesting to compare the two answers to see how much the room acoustics affect
+the results that arc predicted by the inverse square law.
+
+HOW MUCH ACOUSTIC GAIN CAN THE SYSTEM PRODUCE?
+Now let's work with the Potential Acoustic Gain equation to see if our system will theoretically produce
+the acoustic gain we need before it feeds back. To start we need to look at some of its individual terms.
+Each of these terms is a shorthand for a basic distance (D) in the sound system design, as illustrated in
+Figure 1. Since there are four significant distances between the elements in the system, each "D" has a
+subscript such as "D1", "DS", ("D sub one", "D sub S") etc. Specifically, this is what each term stands for:
+Figure 1. The basic distances in a simple sound reinforcement system.
+"Electronic to Electronic" or "People to People" Distances
+• D1 is the distance between the microphone and the loudspeaker
+(remember "1" as the first pan of the system).
+• D0 is the distance between the talker and the farthest listener
+(remember "0" for observer).
+"People to Electronic" Distances
+• D2 is the distance between the loudspeaker and the farthest listener
+(remember "2" as the last pan of the system).
+• DS is the distance between the talker and the microphone
+(remember "S" for source).
+We now get to the point where we determine if the system can meet our need. This is where the Potential
+Acoustic Gain equation comes into play. The simplest form of this equation looks like this:
+PAG = 20 log D1 - 20 log D2 + 20 log D0 - 20 log DS
+This form of the equation will allow us to determine the amount of gain available from the system just
+before the undesirable oscillation we all know as feedback occurs. It also assumes the system uses
+omnidirectional microphones and loudspeakers and it neglects the effects of reverberation and echo (as if
+the system were outdoors). I'll mention more about this later, but for now this version of the equation will
+be easier to work with.
+
+Looking at the system distances as they occur in the equation we can see some obvious facts.
+PAG = 20 log D1 - 20 log D2 + 20 log D0 - 20 log DS
+If we want the PAG on the left side of the equation to get larger, we have to make the positive terms (D1 and D0)
+as large as possible and the negative terms (D2 and DS) as small as possible on the right side of the equation.
+Notice that if the loudspeaker is moved farther from the microphone (as D1 increases), the potential gain
+before feedback is increases. Unfortunately, with D0 there is little change possible since it is usually fixed
+by the layout of the room.
+When the loudspeaker is moved closer to the listener, decreasing the negative term D2 on the right side of
+the equation, the system gain increases on the left side. Finally, concerning the most important distance to
+change as we'll see later, when the talker moves closer to the microphone it decreases DS and increases
+PAG.
+THEORY MEETS REALITY IN A SOUND SYSTEM
+As I mentioned earlier, there are complications when we enter the real world. The variations in direct
+sound compared to reflected sound, the echoes, the presence of people, the atmosphere, and more
+conspire to make each position in a room acoustically different. This affects feedback, as anyone who has
+tried to set up a sound system in a gym will tell you.
+The most important point to remember as we work through these equations is this: if the dimensions of a
+sound system don't provide the needed gain with the theoretical free field conditions, then they are
+even less likely to work under real world conditions.
+To use these ideas in the equation we need the complete picture of our prospective sound system layout—
+the specific distances D1, D0, D2, and DS. Using the conference table we've already looked at, let's say that
+the room dimensions are 20' by 30' with a 10' ceiling. A possible set of system dimensions might be
+something like this (see Figure 2):
+Figure 2. The dimensions of a possible sound system.
+D1 (mic to closest loudspeaker) = 9' 
+D2 (loudspeaker to farthest listener) = 20'
+D0 (talker to listener) = 22'           
+DS (talker to mic) = 1'
+
+Now we simply plug these values into the equation and do the logarithms and arithmetic the same way we
+did with the inverse square law equation.
+PAG = 20 X log of 9 - 20 X log of 20 + 20 X log of 22 - 20 X log of 1
+Working backwards as before, enter 1 and hit "log." Since the logarithm of 1 is zero this term will drop
+out. Now enter 22, hit "log", and multiply by 20 to get 27. Save it. and do the same with 20 and 9 and save
+each of the answers. We wind up with 19 minus 26 plus 27 for a potential acoustic gain in the system of
+20dB.
+PAG = 20 X log of 9 - 20 X log of 20 + 20 X log of 22 - 20 X log of 1
+         =        19           -           26          +             27        -          0
+PAG = 20dB
+That seems like a lot, but not enough to help the listener at the far end of the table who needs 21dB of gain
+to be able to hear the talker as well as the listener close to the talker does.
+So let's change the dimensions of the system to bring the loudspeaker closer to the listener and farther from
+the microphone (see Figure 3):
+Figure 3. Revised system dimensions: loudspeaker closer to listener and farther from the microphone.
+D1=11'        D2=19'        D0=22'        DS=1'
+This time after we do the logs we'll get:
+PAG = 20 X 1.04139 - 20 X 1.27875 + 20 X 1.34242 - 20 X 0
+Do the arithmetic and we get:
+PAG = 22dB
+This is enough gain so that the listener at the far end of the table hears as well as the listener near the
+talker without the system going into feedback. The potential gain minus the needed gain leaves a margin
+of 1dB which seems like what we needed when we started to look at this conference room. But there's a
+catch.
+
+THE FEEDBACK STABILITY MARGIN
+The version of the equation that we've been using gives us the potential gain of the system at the point
+just before it starts to feedback, the point of unity gain. Virtually all systems need to be operated with a
+safety margin (called the feedback stability margin), usually 6dB, to avoid the annoying ringing sound
+associated with a pre-feedback condition. When this margin is included, the equation looks like this:
+PAG = 20 log D1 - 20 log D2 + 20 log D0 - 20 log DS - 6
+Unfortunately this little minus 6 means that the gain from our latest version of the system is now reduced to
+16dB — not enough to meet the 21dB needed. So we're back to the drawing board.
+Let's try to move the loudspeaker even closer to the listener and further from the microphone (see Figure 4):
+Figure 4. Loudspeaker moved even closer to the listener.
+D1=17.5'             D2=13'        D0=22'        DS=1'
+The result looks good this time even with the feedback margin:
+PAG = 25 - 22 + 27 - 0 - 6
+PAG = 24dB
+We're there…and with a 3db margin to spare. If we operate the system just as described, the farthest
+listener will hear as well as the nearest without the system feeding back. Our conference table system
+works…almost.
+THE NUMBER OF OPEN MICROPHONES—
+THE LAST HURDLE
+All along we've assumed that this conference room uses only one microphone at a time. If more
+microphones are open—for example, if microphones are placed and turned on in from of multiple talkers
+at the table—another term is added to the equation which can affect the acoustic gain of the system.
+Multiple open microphones create a greater risk of feedback in the system and degrade the quality of the
+sound due to comb filtering and increased reverberation.
+
+The new term for the Number of Open Microphones (NOM) looks like this in our final version of the
+equation:
+PAG = 20 log D1 – 20 log D2 + 20 log D0 – 20 log DS – 10 log NOM - 6
+Since this term is another logarithm term and the logarithm of 1 (for a single microphone) is 0, a system
+with only one microphone is not affected by including it in the calculation. But if we change from 1
+microphone turned on to 2, the NOM term turns out to be 3dB (10 times the log of 2).  Looking at our
+latest version of the system (where we had only 3dB to spare when we subtracted needed acoustic gain
+from the potential acoustic gain) this extra open microphone would affect our margin. We would have to
+subtract another 3dB from our latest 24dB PAG. If we then subtract the 21dB NAG from the new 11dB
+PAG, the 0dB result means the system will start to use up the feedback margin just as it provides the
+needed gain to the farthest listener.
+Now if we try to change from 2 to 4 open microphones, the problem is further compounded from 3dB to
+6dB. In fact, each time the NOW doubles, the PAG is decreased by 3dB. If we get t o8 open microphones,
+we’ve eliminated any safety margin and are back on the verge of feedback.
+This essentially means that the number of open microphones needs to be limited as much as possible.
+Most ways of doing this have practical disadvantages:  having a sound person turn off the microphones
+that are not being used during the conference (expensive, and difficult with only two hands); having a
+switch on each microphone for the user (users must be taught and often forget to use it); or using only one
+microphone and passing it around (very impractical logistically).
+THE AUTOMATIC MICROPHONE MIXER SOLUTION
+The most practical and effective solution is an automatic microphone mixer. You need to be careful here,
+though, because not all automatic mixers limit the number of open microphones equally well. Most
+systems turn on microphones when the sound they pick up is louder than a particular reference level
+called a “threshold.” They will then turn off when the sound level drops below the threshold. This
+threshold may be a fixed level, and adjustable level, or an automatically adjustable level.
+A weakness exists in these systems when they try to distinguish between the desired sound (such as a
+talker) and undesired sound (random background noise). If the background sound is loud enough, it will
+activate the microphone unless the threshold is set to a higher level. Then, if the background noise drops,
+the normal talker’s level may not activate the microphone unless the threshold level is lowered as well.
+This problem is addressed in certain other systems with integrated microphones which can actually sense
+the location of the desired sound source relative to the background noise. The microphones are then
+activated only when the sound comes from the desired direction, which eliminates the need for any
+threshold adjustments.
+Another new automatic mixer technology solves the problem differently and still avoids the threshold
+adjustment problem. Mixers using this technology can sense the difference between irregular sound (like
+speech) and regular sound (like air conditioning). The mixer only turns on a channel when the signal level
+is louder than the background sound. This system also chooses only one microphone for each talker even
+if multiple microphones are “hearing” him.
+THE QUICKEST FIX
+It may have occurred to you that the only factors that we’ve tried to alter in the system have been D1 and
+D2. Of course it’s not very likely that you’ll be able to adjust the talker-to-listener distance, D0, in most
+real systems, but an easy way to improve the acoustic gain of a system is by adjusting the remaining
+distance, DS.
+
+Remember in the inverse square law free field calculations, where we doubled the distance of the listener
+from the sound source, that we calculated a 6dB drop in the sound level as perceived by that listener. This
+also must work in reverse: if the distance changes from 8 feet to 4 feet, the perceived level will increase
+by 6dB.
+As I mentioned earlier, DS is where the doubling effect of the inverse square law really shows some
+dramatic changes in the system gain. This is because of the relatively short distances involved in
+doubling. When the talker doubles her distance from the microphone, the system gain drops by 6dB. If the
+change is instead from 1 foot to ½ foot (.5), then the system gain will increase by 6dB. Try these
+calculations yourself in the PAG equation by changing only DS and leaving the other distances the same
+as in the last version of the system we used. First change it from 1 foot to 2 feet. Then try changing it
+from 1 foot to .5 foot.
+This is sometimes an easy solution and is actually one of the first rules in microphone application: get the
+microphone as close as possible to the sound source. Compared to moving loudspeakers to change D1
+and D2, it is also often the easiest distance in the system to change. This is simply because it is generally a
+much shorter distance to begin with and therefore much easier to cut in half to get that extra 6dB. The
+concept of critical distance also plays a part here. Since it's generally true that when DS is greater than the
+critical distance of the talker, the result is more reverberance and a loss of intelligibility.
+In the other parts of the system—D1 and D2—the receiver (the listener or microphone) is generally
+outside the critical distance of the source (the talker or loudspeaker). When this is the case for D1, the
+signal received by the microphone is not as low as predicted by the inverse square law, resulting in less
+potential gain than expected for the system. For D2, this higher-than-expected level at the receiver
+actually gives the listener somewhat more sound than predicted. Here, however, working with
+loudspeaker placement and echoes is important since the added level is in part due to reflected sound.
+Early echoes tend to help intelligibility and later ones hurt it. So if a loudspeaker needs to be "somewhat
+near" the ceiling, put it close to the ceiling to take advantage of the early echoes produced within a few
+feet of the reflective surface.
+Without delving too far into the concept of speaker placement, let me just say that multiple speaker
+locations tend to act like late echoes if they arc far apart. The resulting comb filtering and loss of
+intelligibility is minimized by a single loudspeaker or closely spaced array if it can be placed far from the
+talker and close enough to the listeners.
+THE WORST CASE
+Finally, with the multiple microphone problem under our belts we need to deal with the fact that, unlike
+our theoretical system, most systems include multiple loudspeakers. The most practical approach in
+determining the distances, including specific loudspeaker distances to use in the PAG equation, is to
+consider the worst case for each. Therefore, as I stated earlier, you would use the most distant listener for
+Do. You should also pick the largest expected distance for the microphone to talker for DS; the
+loudspeaker closest to the farthest listener for D2; and the loudspeaker closest to the microphone for D1.
+These choices will give the most accurate representation of the acoustic gain in the system.
+A LITTLE KNOWLEDGE
+I mentioned earlier that the microphones in the theoretical system we calculated were omnidirectional.
+Because unidirectional microphones have the ability to target desired sounds (the talker in our example)
+and reject unwanted sounds (the output from the loudspeaker), they can provide a margin of extra gain in a
+system. So can directional loudspeakers. But they are not a magic bullet. The practical limit on the
+improvement that these components can make is usually considered to be about 6dB. Although theory and
+component specifications seem to indicate a 6dB improvement for each component, real world conditions
+provide severe performance limitations.
+
+The second assumption was that the system was not affected by reverberation and echo. Virtually any
+indoor system will be affected by these conditions and the acoustic gain and performance of the system
+will be limited by them. This article will not explore the vast topic of room acoustics, but here's
+something to keep in mind as you think about the PAG equation. If the system won't provide enough gain
+when you ignore these factors (as we have calculated in this article) it almost certainly won't work when
+they're included.
+SUMMARY
+In working through the math or just reading through this information, the major points to remember are:
+1. To make a significant change in the gain of a sound system before it feeds back, distances need to be
+doubled or cut in half. (Inverse Square Law)
+2. Changes to improve the potential acoustic gain of a system involve:
+a. Making the loudspeaker-to-microphone distance, D1, as large as possible.
+b. Making the loudspeaker-to-listener distance, D2, as small as possible.
+c. Most importantly and easiest, making the talker-to-microphone distance, DS, as small as possible.
+3. Limiting the number of open microphones will also improve the potential acoustic gain of the system.
+If you're interested in studying these topics further, the following books are suggested, many of which were
+drawn from when writing this article.
+• Handbook of Sound System Design, John Eargle;
+ELAR Publishing Co., Inc., Commack, NY 11725
+• Handbook for Sound Engineers, Ed. Glen Ballou
+(especially the article by Chris Foreman "Sound System Design")
+Howard W. Sams & Company, A Division of Macmillian, Inc., 4300
+West 62nd Street. Indianapolis. Indiana 46268
+• Architectural Acoustics, M. David Egan; McGraw-Hill Book Company
+• The Gain of a Sound System, by C.P. Boner and R.E. Boner (the original article on the topic)
+Thanks also to Mark Gilbert of Shure Brothers for technical assistance.
+AL1174

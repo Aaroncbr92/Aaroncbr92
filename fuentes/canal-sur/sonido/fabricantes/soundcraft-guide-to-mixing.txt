@@ -1,0 +1,3916 @@
+SOUNDCRAFT
+HARMAN INTERNATIONAL INDUSTRIES LTD.
+CRANBORNE HOUSE,
+CRANBORNE ROAD,
+POTTERS BAR,
+HERTS, EN6 3JN, UK.
+TEL: +44 (0)1707 665000
+FAX: +44 (0)1707 660742
+EMAIL: info@soundcraft.com
+SOUNDCRAFT USA
+1449 DONELSON PIKE,
+NASHVILLE TN 37217, USA
+TEL: 1-615-360-0471
+FAX: 1-615-360-0273
+EMAIL: soundcraft-usa@harman.com
+www.soundcraft.com
+Soundcraft reserves the right to improve or otherwise alter any information supplied in this
+document or any other documentation supplied hereafter.  E&OE 08/01
+Part No.   ZL0439
+Soundcraft Registered Community Trade Mark / RTM No. 000557827
+THE SOUNDCRAFT
+GUIDE TO MIXING
+
+SECTION 1: STARTING OUT
+A What does a Mixer do? 
+3
+B Guidelines in Choosing a Mixer. 
+3
+C The Controls - A Description.
+3
+Mono Inputs, Stereo Inputs, Subgroups, 
+the Master Section.
+D Signal Flow.
+7
+SECTION 2: CONNECTING 
+EQUIPMENT TO YOUR MIXER
+A Input Devices.
+8
+B Equipment requiring Inputs and Outputs.
+9
+C Output Devices.
+9
+SECTION 3: 
+MIXING TECHNIQUES
+A Choosing the Right Microphone; 
+10
+Microphone types, Condenser, Dynamic, 
+Electret. Different Polar Patterns.
+B Setting up a Basic Mix; 
+11
+Setting the Gain, Balancing Fader Levels, 
+Balancing Output Levels.
+C Using the Mixer’s EQ; 
+12
+Fixed EQ. Using a sweep-mid equaliser.
+D Using Effects Units; 
+13
+The different types; Reverb, Delay, Echo, 
+Chorus & Flanging, Pitch Shifters. 
+Setting up an effects loop. 
+Pre and post fade auxiliaries.
+E Using Signal Processors; 
+15
+The difference between signal processors and effects;
+Different types of signal processors; Graphic Equalisers,
+Parametric Equalisers, Gates, Expanders,
+Compressors/Limiters.  
+Setting up a processor.
+F Creating a Foldback/Monitor Mix.
+16
+SECTION 4: PA MIXING
+A Introduction, A Typical Live Performance; Microphones,
+Cables and Connections, Connecting External Effects and
+Processors, Setting Up, Ringing Out: Nulling Room
+Acoustics, Setting the Mix, Avoiding Feedback.
+17
+B Larger Performances; Medium Venues, 
+Large Sized Venues.
+20
+C Recording Live.
+22
+SECTION 5: 
+OTHER APPLICATIONS
+A Monitor mixing. 
+23
+B Submixing.
+24
+SECTION 6: IN THE STUDIO
+A Essentials and Ergonomics. 
+25
+B Tape Machines and Recording media. 
+25
+C The Console.
+25
+D Simple Multitrack Recording.
+26
+E Simple Multitrack Mixdown.
+27
+F Using a Dedicated In-Line Console.
+28
+G Recording Instruments and Voices; Vocals, Drums, Electric
+Guitars, Acoustic Guitars, Bass Guitars, Keyboards.
+28
+H Planning a Session.
+30
+I
+Creating a Mix.
+30
+J
+Balancing the Mix.
+30
+SECTION 7: 
+WIRING UP & CONNECTORS
+Balanced and Unbalanced Mic Inputs, Balanced and
+Unbalanced Line Inputs.
+31
+Inserts, Ground Compensated Outputs, Impedance
+Balanced Outputs.
+31
+SECTION 8: GLOSSARY
+An A to Z to save your head!
+32
+CONTENTS
+2
+THE SOUNDCRAFT GUIDE TO MIXING – CONTENTS
+
+STARTING OUT
+A. What does a Mixer do? 
+No matter how sophisticated or expensive, all mixers carry
+out the same basic function - to blend and control the
+volume of a number of input signals, add effects and
+processing where required and route the resulting mix to
+the appropriate destination, which could be power
+amplifiers, the tracks of a recording device - or both. A
+mixer is the nerve centre of these sources, and therefore the
+most vital part of your audio system.
+B. Guidelines in 
+Choosing a Mixer 
+Audio mixers come in many different sizes and at all price
+levels, so it’s little wonder that people are confused as to
+what type is actually needed for the job in hand. However
+there are several questions you can to ask yourself that will
+help you narrow your search to the most appropriate
+models.
+• What am I going to be using the mixer for - i.e.
+multitrack recording, live PA work or both?
+• What is my budget?
+• How many sound sources do I have? As a guideline your
+mixer needs to have at least as many inputs as sound
+sources. If you are likely to be buying more equipment in
+the future you should budget for extra inputs.
+• What particular mixer facilities must I have for my
+application? i.e. plenty of EQ, auxiliaries, or Direct Outs
+for recording.
+• How portable does the mixer need to be?
+• Will I be doing any location work where there won’t be
+any mains power available?
+• Have I read the Soundcraft Guide to Mixing from cover
+to cover?
+Once you can answer these questions satisfactorily you
+should have a fairly accurate specification for the mixer you
+need.
+C. The Controls - 
+A Description  
+This is where we get into the nitty-gritty of
+what controls and inputs/outputs you’ll find
+on a typical mixer. For this example, we’ve
+used a Spirit SX . If you are already
+familiar with what the controls on a
+standard mixer do, then it’s OK to skip to
+section 2. If you find a term particularly
+difficult, further explanation can be found 
+in the Glossary (Section 8).
+MONO INPUTS
+A
+Mic In
+Use this "XLR" input to connect your 
+microphones or DI boxes. 
+For Mic Input Wiring Explanations see section 7.
+B
+Line In
+Use this connector for plugging in "Line
+Level" instruments such as keyboards,
+samplers or drum machines. It can also be
+used to accept the returns from multitrack
+tape machines and other recording media.
+The Line Input is not designed for
+microphones and although it may be used, 
+will not provide optimum performance with
+them. 
+For Line Input wiring explanations see section 7. 
+C Insert Point
+This is used to connect external signal 
+processors such as compressors or limiters
+within the input module. The Insert Point
+allows external
+devices to be
+placed within the
+Input Path - see
+Fig. 1.1.
+See Section 2 and 3
+for more detail on how to use processors, and
+Section 7 for information on wiring.
+SECTION 1: Starting Out
+3
+10
+0
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+10
+0
+0
+5
+10
+20
+30
+40
+50
+-60dBu
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+DIR
+LINE
+INS
+MIC
+SENS
+100Hz
+MID
+LF
+10
+0
+10
+0
+HF
+AUX
+1
+PRE
+AUX
+2
+POST/
+PRE
+AUX
+3
+POST
+PAN
+10
+5
+0
+5
+10
+15
+20
+30
+∞
+0N
+MIX
+SUB
+PFL
+8
+INSERT
+MIC/LINE
+EQ
+PROCESSOR
+- COMPRESSOR
+- NOISE GATE
+- LIMITER
+- EXPANDER
+A
+B
+C
+FIG. 1.1
+
+D Direct Out
+This allows you to send audio direct from
+your channel out to a multitrack tape
+recorder, or to an effects unit when the channel
+requires its own special effect. 
+See sections 2 and 6 for more details on connections
+and studio techniques.
+E
+Gain Control (Input Sensitivity)
+Sets how much of the signal from the 
+mic or line inputs is fed to the channel. 
+F
+HPF (High Pass Filter)
+As the name suggests this switch cuts out the
+very lowest frequencies of a sound whilst
+allowing the higher frequencies to “Pass
+Through”. It’s particularly useful in live
+situations to reduce stage rumble or microphone
+‘popping’, which can produce a muddy mix,
+or to ‘clean-up’ male vocals and filter out low
+frequency hum. Some manufacturers may
+also use the term “low - cut” filter to describe
+the HPF.  See Fig. 1.2.
+G EQ Section
+Usually the most closely scrutinised part of
+any mixer, the equaliser section allows you to
+change the tone of the sound on each input.
+An EQ is normally split into “bands”, which
+control a range of frequencies, in a similar
+fashion to the treble and bass tone controls on
+your Hi-Fi. Indeed a simple “2 band” EQ is
+little more than an input treble and bass control.
+The more bands an EQ has the more
+sophisticated it is. SX has a 3 band EQ, with a
+separate control for the middle audio
+frequencies. This control is also “swept” which
+provides even more sophistication. Simply
+described, a sweep EQ allows you to choose
+the exact frequency to cut and boost, rather
+than having it chosen for you, as on normal
+“fixed” controls.
+We will talk in more detail about EQ in section 3.
+H Auxiliary Section 
+Typically, these controls have two functions: First, to
+control the levels of effects such as reverb from external
+effects units that have been added to the input signal, and
+second to create separate musician’s "foldback" mixes in
+the studio or on stage. 
+How to use auxiliaries, connecting them to external equipment
+and other applications are described in section 3.
+I Pan (Panoramic Control)
+This determines the position of the signal within the
+stereo mix image or may be used to route (send) the signal
+to particular GROUP outputs as selected by the
+ROUTING SWITCHES (see below). 
+J Solo (PFL and Solo in Place)
+The PFL solo switch allows you to monitor an input
+signal independently of any other instruments that have
+been connected, which is useful for troubleshooting, or
+setting an instrument’s Input Preamp Gain and EQ
+setting. 
+Pre-Fade Listen (PFL) is a type of solo that allows you
+to monitor your sound BEFORE THE FADER. In other
+words when you move the input fader in PFL mode the
+level will not change, nor will you hear any effects.
+Because effects and volume are not a distraction, PFL solo
+is very useful for setting proper input preamp levels.
+Some Soundcraft mixers use SOLO IN PLACE, which
+allows you to monitor signals after the fader in their true
+stereo image, and with any effects that have been added.
+This type of Solo is less good for level setting, but more
+useful in mixdown situations for auditioning sounds.
+See section 3 - Setting Gain, for more information on using PFL.
+K Mute/Channel On-Off Switch
+This turns the channel on or off and is useful for isolating
+the channel when not in use or pre-setting channel levels
+which may not be needed until later, ie: theatre scenesetting or support acts/performers.
+L Fader
+This determines the level of the input signal within the
+mix and provides a visible indication of channel level.
+MRouting
+By selecting the routing switches the input signal is sent
+to a choice of the mixer’s outputs - typically the main mix
+outs or the group outputs. The switches are used in
+conjunction with the PAN control to route the signal
+proportionately to the left or the right side of the mix 
+or to odd/even groups/subs if PAN is turned fully left or
+right.
+SECTION 1:  Starting Out
+4
+dB
+20
+100
+1k
+10k
+Hz
+60
++20
++15
++10
++5
+0
+-5
+-10
+-15
+-20
+500
+5k
+STAGE RUMBLE
+MIC “POPPING”
+-3
+10
+0
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+10
+0
+0
+5
+10
+20
+30
+40
+50
+-60dBu
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+DIR
+LINE
+INS
+MIC
+SENS
+100Hz
+MID
+LF
+10
+0
+10
+0
+HF
+AUX
+1
+PRE
+AUX
+2
+POST/
+PRE
+AUX
+3
+POST
+PAN
+10
+5
+0
+5
+10
+15
+20
+30
+∞
+0N
+MIX
+SUB
+PFL
+8
+100Hz
+HPF
+D
+E
+F
+G
+H
+I
+K
+M
+L
+J
+FIG. 1.2
+FIG. 1.3
+
+STEREO INPUTS 
+Guitar amps and mic’d sound sources only
+provide you with mono signals. However
+keyboards, samplers, drum machines and other
+electronic media often provide true stereo
+outputs with separate left and right signals.
+Stereo Inputs on mixers simply allow you to
+connect both of these signals individually and
+control them from a single fader. Stereo inputs
+tend to incorporate fewer facilities than mono
+inputs as most keyboards are already equipped
+with plenty of internal effects and tone control
+options.
+NB: Soundcraft jack stereo inputs default to Mono
+when the left input is used. RCA phono connectors do
+NOT have this option.
+SUBGROUPS 
+These allow the logical assignment of groups of instruments
+or vocalists so that they may be controlled by just one pair
+of faders, or even a single fader, once individual
+instruments’ relative levels have been balanced. They also
+act as additional outputs with separate volume/level
+controls – ideal for speaker fills or recording a number of
+instruments to one tape track.
+SECTION 1: Starting Out
+5
+10
+0
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+L
+R
+LEVEL
+MIX
+LF
+10
+0
+10
+0
+AUX
+1
+PRE
+AUX
+2
+POST
+/PRE
+AUX
+3
+POST
+BAL
+10
+5
+0
+5
+10
+15
+20
+30
+∞
+0N
+MIX
+SUB
+PFL
+A
+STE-C
+10
+0
+1
+9
+2
+8
+3
+7
+4
+6
+5
+SUB
+STE-A
+HF
+L
+R
+STE-C
+22dB
+0
+11
+GAIN
+T
+INPUT
+FADERS
+GROUP
+FADERS
+Note: Inputs are
+routed to Groups via
+the routing switches
+and Pan pots
+FIG. 1.4
+FIG. 1.5
+
+THE MASTER SECTION 
+N Mix Outputs
+Mix outputs provide left and right level control of the final
+stereo mix. Many consoles feature mix insert points too,
+allowing the connection of signal processors across the
+whole mix.
+O Monitor “Engineer’s” / Control Room Outputs
+These let you listen to any solo, mix, submix from a group,
+or the 2 Track tape return via an external amplifier and
+speakers, or the headphone socket.
+P
+2 Track Tape Returns
+Allow you to connect the outputs of your cassette or DAT
+player and listen back to your completed masterwork. They
+may also be used for playing pre-show music at a gig using
+2-Track to Mix switch (not shown in illustration).
+Q Aux Masters
+These govern the overall output levels from the auxiliary
+outputs and therefore the amount of signal going to an
+effects unit or a musician’s foldback mix. 
+R
+AFL
+Allows monitoring of the actual signal leaving the Aux
+Masters.
+S
+Meters
+Normally they show mix output levels. When any Solo
+button is pressed, the meters automatically switch to show
+the solo level. They provide visual indication of what’s
+going on in your mixer.
+T
+Stereo Returns (see Stereo Inputs earlier in this section) 
+These allow signals from external equipment, such as effects
+units, to be returned to the mixer and routed to the stereo
+Mix or Groups, without using up valuable input channels.
+U +48v or Phantom Power
+Some microphones, known as condenser mics, require
+battery power to operate. Alternatively the power may be
+provided by the console. This is known as ‘phantom power’
+and runs at 48vDC. Simply press “Phantom Power” and
+any condenser mics connected will operate without the
+need for batteries.
+More Information on
+Condenser Mics can be
+found in Section 3 - Mixing
+Techniques.
+Further detail on mic
+wiring may be found in
+Section 7 - wiring.
+V
+Headphones
+Allow you to listen to
+your mix without
+annoying your
+neighbours or being
+distracted by ambient
+sounds.
+That’s it, the basic features
+of your average mixing
+console. If you found it a
+little heavy going, don’t
+despair: it does get easier!
+SECTION 1:  Starting Out
+6
+10
+0
+MIX INSERT
+48V
+PFL
+AFL
+10
+0
+10
+0
+AUX
+1
+AUX
+2
+AUX
+3
+0
+5
+10
+15
+20
+25
+30
+40
+∞
+L      SUB     R
+R
+POST
+PRE
+0
+5
+10
+15
+20
+25
+30
+40
+∞
+0
+5
+10
+15
+20
+25
+30
+40
+∞
+L      MIX     R
+SUB
+TO
+MIX
+AFL
+AFL
+AFL
+10
+0
+1
+9
+2
+8
+3
+7
+4
+6
+5
+MONO SUM
+PHONES
+16
+10
+6
+3
+0
+-3
+-6
+-9
+-12
+-16
+REF +4dBu
+POWER
+10
+0
+1
+9
+2
+8
+3
+7
+4
+6
+5
+10
+0
+1
+9
+2
+8
+3
+7
+4
+6
+5
+2TK
+L
+R
+PFL
+MAX
+SUB
+L
+R
+L
+2TK
+R
+L
+MONITOR
+PHONES
+MONO SUM
+2TK
+LEVEL
+L
+R
+MIX
+Caution: DO NOT ACTIVATE A GLOBAL PHANTOM
+POWER SWITCH IF AN UNBALANCED SIGNAL
+SOURCES IS CONNECTED TO ANY MIC INPUT. 
+Because of the voltage present on pins 2 and 3 of the XLR
+connector, you will damage your microphone/signal source. 
+Always refer to your Mixer’s User Guide.
+N
+O
+P
+Q
+R
+S
+U
+V
+FIG. 1.5
+
+D. Signal Flow
+Now the typical mixer features have been explained in
+detail it is important to understand how they form
+together. The route which a signal source takes through a
+mixer is normally shown using one of two devices: 
+a block diagram or a signal flow diagram.
+Both diagrams provide a ‘visual’ description of the key
+elements of the mixing console.  They allow you to identify
+which components are used in the audio path and help the
+engineer to “troubleshoot” when signal sources don’t appear
+to be doing what they should! In simple terms, they are
+electronic maps.
+An example of a signal flow diagram is shown here. This
+is the most basic representation of console layout, showing
+a how a single sound source may pass through an input
+strip to the various other parts of the mixer. 
+Block diagrams are slightly more complex, showing more
+detail, electronic information, including the location of
+resistors and capacitors, and the structure of the entire
+console including bussing: an example is shown on page
+37. Block diagrams also use a number of symbols to
+represent electronic elements. A few minutes spent
+understanding them some time during your journey
+through this booklet will most definitely pay-off in future
+mixing projects. 
+SECTION 1:  Starting Out
+7
+FADER
+PAN
+MIX
+FADER
+AUX PRE
+AUX PRE
+MASTER
+AUX POST
+AUX POST
+MASTER
+SUB GROUP
+FADER
+SUB GROUP
+TO MIX
+AUX PRE
+OUT
+AUX POST
+OUT
+SUB GROUP
+OUT
+MIX
+OUTPUT
+MIC
+LINE
+MIC
+PREAMP
+HI PASS
+FILTER
+INSERT
+EQ
+ON/OFF
+SWITCH
+ROUTING
+SWITCH
+A Typical Signal Flow Path
+FIG. 1.6
+
+CONNECTING EQUIPMENT
+TO YOUR MIXER
+As we explained in the last section, it is the job of the mixer
+to accept the various signal sources, set the levels and route
+those signals to the correct destination. 
+We’ll now take a quick look at where to connect the
+‘peripheral’ equipment that you will be using with your
+mixer. If you have already created your own set-ups
+successfully in the past, you should only need to 
+skim this part.
+A. Input Devices
+Microphones 
+All microphones should be connected via each 
+input’s XLR connectors. Do not use line inputs.
+For more information on miking up individual instruments, 
+refer to sections 4 and 6 - PA Mixing and In the Studio.
+Direct Injection Box (DI Box)
+• A DI Box allows you to connect a guitar or bass directly
+to the mixer’s input, rather than miking up the
+instrument’s amp/speaker. This technique is often
+preferred by musicians who require a “clean” sound. 
+The best DI boxes are ACTIVE and require Phantom
+Power like condenser microphones. They should be
+connected to XLR mic inputs. 
+SECTION 2:  Connecting Equipment to your Mixer
+8
+EFFECTS UNIT
+HEADPHONES
+>200R
+POWER AMP
+GRAPHIC
+EQ
+POWER AMP
+ARTISTS FOLDBACK
+GRAPHIC EQ
+POWER AMP
+EFFECTS UNIT
+Aux Post
+CASSETTE OR
+DAT PLAYBACK
+GRAPHIC EQ
+COMPRESSOR/
+LIMITER
+KEYBOARD, SYNTHESISER,
+DRUM MACHINE OR SUBMIXER
+DIRECT OUTS
+TO
+MULTITRACK
+TAPE
+INPUT
+POWER
+SUPPLY
+KEYBOARD, SYNTHESISER
+OR SAMPLER
+GUITAR
+VIA
+DI BOX
+MIC ON
+GUITAR
+AMP
+MIC ON
+DRUM KIT
+VOCAL MIC
+PA
+SPEAKERS
+SURROUND/
+FILL/
+VOCAL
+SPEAKERS
+(or from
+mono output)
+MIX INSERT
+MONITOR
+MONO SUM
+L
+R
+L
+R
+2TK
+PHONES
+L
+R
+AUX 1
+AUX 2
+AUX 3
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+MIC
+DIR
+DIR
+DIR
+DIR
+DIR
+DIR
+DIR
+DIR
+LINE
+LINE
+LINE
+LINE
+LINE
+LINE
+LINE
+LINE
+LINE
+L
+R
+L
+R
+A-STE-B
+STE-C
+STE-D
+L
+R
+L
+R
+INS
+1
+INS
+2
+INS
+3
+INS
+4
+INS
+5
+INS
+6
+INS
+7
+INS
+8
+INS
+9
+INS
+10
+INS
+11
+INS
+12
+L
+R L
+R
+SUB
+SUB
+MAIN OUTPUTS
+LINE
+LINE
+LINE
+NB: Although electric guitars and basses may be connected to a
+mixer’s line inputs without danger, the results will be far from
+ideal, because the IMPEDANCE of these instruments will
+not match up with typical line levels. Direct connection
+usually leads to a weak sound.
+FIG. 2.1
+
+9
+Electronic Line Output Devices
+• Keyboards, Drum Machines, CD Players, DAT
+Machines, Wireless Mic Receivers, all provide line level
+outputs, and should all be connected straight into the
+Mixer’s Line Inputs. If some of your instruments are
+STEREO connect their left and right outputs to a spare
+stereo input. Alternatively connect to an adjacent pair of
+mono inputs and Pan the inputs hard left and right to
+create a stereo image.
+B. Equipment Requiring Both 
+Inputs and Outputs
+External effects units
+Connect the input of your effects unit marked "mono" to
+A POST FADER AUXILIARY OUTPUT. If you are
+uncertain, Post fader auxiliaries are coloured blue on
+Soundcraft mixers with the relevant channel aux pots
+usually marked "post". The left and right outputs from the
+effects unit should be connected to a pair of stereo returns,
+or stereo inputs if stereo returns are not available. If
+intensive EQ is required, use a pair of Mono Inputs.
+Remember, the effects signal is no different from any other
+audio signal – it still requires an input to the mixer.
+See Section 3 Mixing Techniques or a detailed explanation of post
+fader auxiliaries.
+NB: YOU DO NOT HAVE TO CONNECT UP BOTH THE
+LEFT AND RIGHT INPUTS OF YOUR EFFECTS UNIT
+TO SEPARATE AUXs. Most units only require "pseudo-stereo"
+operation and will mimic a stereo reverb or effect inside before
+providing a stereo output to the mixer’s returns.
+Signal Processors
+Connect signal processors, such as compressors to the insert
+jack using a special insert ‘Y’ cable. This allows the signal to
+be sent and returned to the mixer using only one
+connector. 
+Refer to section 7 for wiring information.
+It is also possible to connect the processor to the console
+without using the insert jacks by connecting an instrument
+direct to the processor first. However, the advantage of
+using processors in the mix/group or channel inserts is that
+any level changes made by the processor can be monitored
+by the mixers meters.
+NB: A signal processor can be used in a channel to control one audio
+source, across a group to control a number of audio sources or
+across the entire mix.
+Tape machines 
+Multitrack machines are used for initial track-laying in
+either studio or live recording situations. 
+For more sophisticated work, a stand-alone machine offers
+better sound quality and greater versatility than a cassette
+multitracker. The new generation of digital multitracks are
+also very attractive, but analogue, open-reel multitracks are
+also capable of professional sounding results. Aim for a
+minimum of eight tracks if your budget will allow.
+Mastering Machines
+Your final mix should be recorded on the best quality
+machine that you can afford. A recording is only as good as
+the weakest link in the chain, and a good cassette machine
+is fine for demos, but for more serious work, consider a
+DAT machine or perhaps a second hand, open-reel 2-track.
+C. Output Devices
+Amps and Speakers (Monitor and FOH)
+Studio Monitoring
+A high-powered hi-fi amp of around 50 watts per channel
+is fine for home recording, but to ensure adequate headroom you should consider a well-specified rack mount amp.
+Similarly, a pair of accurate hi-fi speakers will do the job,
+but for more serious work we would recommend purposedesigned nearfield monitors. Always remember that no
+matter how good the recording or performance, a poor
+monitoring set-up will not allow you to make qualitative
+judgements about the mix.
+Headphones
+When choosing headphones for monitoring, you’ll
+obviously want a pair that give the best sound reproduction
+for the price. But, bear in mind that in order for you to
+fully concentrate on the mix, the headphones should
+exclude outside noise - therefore open-back designs 
+will be of little use.
+Furthermore, you could be wearing the headphones 
+for several hours at a stretch so comfort is essential.
+NB: Make Sure that the IMPEDANCE of your headphones matches
+the specification of your mixer.
+PA Work
+PA work requires high-powered, rugged, and honestly
+specified amps and FOH (Front of House) speakers. The
+power rating of the system will depend on the size of
+venues you will be playing.
+See PA Mixing, Section 4, for more information.
+SECTION 2:  Connecting Equipment to your Mixer
+
+MIXING TECHNIQUES
+A. Choosing the 
+Right Microphone
+Microphone Types
+The choice of microphone depends on the application that
+the microphone will be used for and individual preference.
+However, broadly speaking microphones fall into two main
+types:
+Dynamic Microphone -
+• A robust design which
+uses a thin diaphragm
+attached to a coil of wire
+arranged about a
+permanent magnet. Any
+variation in air pressure
+on the diaphragm will
+cause the coil to generate a minute electric current which
+then requires amplification. 
+Dynamic mics are relatively inexpensive, rugged and
+require no electrical power to operate. They are ideal for
+all-round high sound pressure levels (SPL) and tend to be
+used for live applications. However, they are not as
+sensitive to high frequencies as condenser types.
+Condenser Microphone -
+• A type of microphone which picks up sound via a thin,
+flexible diaphragm placed
+in proximity to a metal
+plate - as opposed to the
+rigid diaphragm-and-coil
+system used by dynamic
+microphones. They need
+power to operate - the
+most common source
+being +48v DC PHANTOM POWER. 
+Condenser mics are very sensitive to distant sounds and
+high frequencies. Because of this sensitivity they are often
+used in studio recording situations.
+N.B. +48v Phantom power is used to charge the diaphragm and
+plate. It also supplies a small amplifier which boosts the small
+voltages generated by diaphragm movements.
+Microphone Pick-up Patterns
+A pick-up (Polar) pattern refers to the area(s) from which a
+microphone "picks up" its sound. It is important to choose
+the right pattern for your application, or you may pick up
+sounds from areas you don’t want or lose sound
+information you need.
+Omni Pattern
+The most basic type of
+microphone pattern.
+• A 360° polar response which
+picks up sound equally in all
+directions. 
+This pattern is ideal for
+picking up groups of vocals,
+audiences, ambient sounds but is most susceptible to
+feedback.
+Cardioid Pattern
+• The ‘heart-shaped’ polar
+response of a microphone
+meaning that most of the
+sound is picked up 
+from the front. 
+Used for most basic
+recording or in any situation
+where sound has to be picked up from mainly one
+direction. Dynamic cardioid mics are mostly used for live
+applications because they help reduce unwanted spill
+from other instruments, thus reducing the risk of
+feedback. 
+Hyper-cardioid
+• Similar to a cardioid pattern but
+with greater directionality.
+Used for live vocal microphones
+because it provides the greatest
+protection from unwanted spill
+and feedback. 
+Figure of Eight
+• Sound is picked up
+from the front and
+back but not from
+the sides.
+This pattern is
+used mainly in
+studios for picking
+up two ‘harmony’
+vocalists, or solo vocalists who 
+require some room ambience.
+SECTION 3:  Mixing Techniques
+10
++V
+–V
+OUTPUT
+FIG. 3.1
+FIG. 3.3
+FIG. 3.4
+FIG. 3.5
+FIG. 3.6
+FIG. 3.2
+
+B. Setting Up a Basic Mix 
+Setting the Gain
+Input gain is designed to take an audio signal, and adjust it
+to the level which the mixer understands.
+All audio circuits, mixers included, produce a low level of
+electronic noise or hiss, and while this can be made very
+low by careful design, it can never be completely
+eliminated. It is also true that any audio circuit can be
+driven into distortion if the input is too high in level; hence
+care has to be taken when setting the input level so as to
+preserve the best possible sound quality. Ideally the input
+signal should be as high in level as possible while still
+leaving a margin of safety to prevent distortion on loud
+sections. This will ensure that the signal is large enough to
+render the background noise insignificant, whilst keeping
+the signal clean. The remaining safety margin is known as
+Headroom. 
+To set the gain on the mixer; 
+• Press the PFL/Solo switch on the
+relevant input.
+• Adjust gain/input sensitivity until
+meters read within the yellow (‘3’ to
+‘6’ on meter scale). This allows for
+the extra 10dB of gain that is
+available on Soundcraft input faders.
+• Release PFL/Solo.
+• Repeat for all other inputs.
+NB: EQ affects gains settings. If you adjust
+the EQ you will need to re-check your
+gain level using the above method.
+Once you have optimised the gain
+your mixer will give the best possible
+signal quality with the minimum of
+noise and distortion.
+Balancing Fader Levels 
+Faders allow you to make fine adjustments to your sounds
+and act as a visual indication of the overall mix levels.
+It is important to keep your input faders around the ‘0’
+mark for greater control. This is because fader scales are
+typically logarithmic and not linear, so if your fader
+position is near the bottom of its travel then even a small
+movement will lead to huge leaps in level. Similarly try not
+to have your fader at the top of its travel because this will
+leave you no room to further boost the signal.
+See diagram below.
+Balancing Output Levels
+Master Outputs
+Set your master outputs to ‘0’ on the scale. There are
+two reasons for this:
+1 You have the maximum fader travel for fading out your
+mix.
+2 If your faders are set below ‘0’ you will not be getting the
+full benefit from the meters because you will only be
+using the first few LEDs on the meter scale.
+SECTION 3:  Mixing Techniques
+11
+0
+-20
++6
+-30
+-40
+-50
+-60
+10
+5
+0
+5
+10
+15
+20
+30
+∞
+LOW
+LEVEL
+SETTING
+FADER
+OFF
+TYPICAL
+SETTING
+SOLO
+Linear level
+adjustment from
+-20 to +10dB
+TYPICAL GAIN SETTINGS FOR DIFFERENT INPUTS
+NB: Your mixer is not an amplifier. So the master output faders
+should be set to maximum (‘0’ on scale). If extra output is required,
+then turn up your amplifier. 
+FIG. 3.7
+FIG. 3.8
+
+C Using the Mixer’s EQ 
+Equalisation is useful for making both corrective and
+creative changes to a sound, but it needs to be used with
+care. Corrective applications include making tonal changes
+to compensate for imperfect room acoustics, budget
+microphones or inaccurate loudspeaker systems. While
+every effort should be made to get the sound right at
+source, this is less easily achieved live than in the more
+controlled conditions of the recording studio. Indeed, the
+use of equalisation is often the only way to reach a
+workable compromise in live situations.
+Creative applications, on the other hand, are equally as
+valid in the recording studio as they are live, and an
+equaliser with a swept midrange control is infinitely more
+versatile than one that has simple high and low
+controls. The only rule of creative equalisation
+is - ‘If it sounds good, it is good!’ 
+Fixed EQ 
+Most people will be familiar with the operation
+of high and low frequency controls; they work
+in a similar manner to the tone controls on a
+domestic stereo system. 
+In the centre position the controls have no
+effect, but rotate them clockwise and they will
+provide boost, or rotate them anticlockwise
+and they provide cut. Despite their apparent
+simplicity, however, high and low controls should be used
+with caution as overuse can make things worse. Adding a
+small amount of high or low boost should be enough to
+add a touch of brightness or warmth to a sound, but a
+quarter of a turn should be sufficient, especially where the
+low control is concerned. 
+The drawback with fixed controls often lies in the fact
+that you may want to boost just a particular sound such as
+the punch of a bass drum or the ring of a cymbal, whereas
+a fixed control influences a relatively large section of the
+audio spectrum. Apply too much bass boost and you could
+find the bass guitar, bass drum and any other bass sounds
+take on a flabby, uncontrolled characteristic which makes
+the mix sound muddy and badly defined. This is because
+sounds occupying the lower mid part of the spectrum are
+also affected. Similarly, use too much top boost and the
+sound becomes edgy with any noise or tape hiss being
+emphasised quite considerably. 
+In a PA situation, excessive EQ boost in any part of the
+audio spectrum will increase the risk of acoustic feedback
+via the vocal microphones.
+SECTION 3:  Mixing Techniques
+12
+LF
+MID
+HF
+6kHz
+240
+1.2k
+6kHz
+240
+1.2k
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+FIG. 3.9
+THE FREQUENCY RANGE OF DIFFERENT
+INSTRUMENTS AND WHICH EQ BANDS AFFECT THEM
+
+Bearing the above points in mind, the best approach is to
+use small amounts of boost, especially when working live.
+EQ cut, on the other hand, causes far fewer problems, and
+rather than boost a particular sound it is frequently more
+rewarding to apply cut in whichever part of the audio
+spectrum that appears to be overpowering. In this application,
+the sweep mid control is also very effective.
+Using a sweep-mid equaliser
+Like the high and low controls, the sweep mid can provide
+either cut or boost, but its strength comes from the fact
+that it can be ‘tuned’ into the specific part of the audio
+spectrum that needs treatment. Like the high and low
+controls, it is more forgiving if used to cut rather than to
+boost. However, when first tuning in the mid control, it
+helps to set it to full boost, so that when the frequency
+control is adjusted, the effect is most apparent. This is true
+even if the final EQ setting requires cut rather than boost.
+Procedure
+Below is a simple way of eliminating unwanted sounds:
+• Increase sweep-EQ gain.
+• Sweep the frequency pot until the aspect of the sound
+you wish to modify becomes as pronounced as possible.
+This should only take a few seconds. 
+• The cut/boost control is now changed from its full boost
+position to cut. The exact amount of cut required can be
+decided by listening to the sound while making
+adjustments. 
+• Even a small amount of cut at the right frequency will
+clean up the sound to a surprising degree.
+Other sounds may benefit from a little boost, one example
+being the electric guitar which often needs a little extra bite
+to help it cut through the mix. Again, turn to full boost
+and use the frequency control to pick out the area where
+the sound needs help. Then it’s a simple matter of turning
+the boost down to a more modest level and assessing the
+results by ear.
+D. Using Effects Units 
+The Different Types 
+The problem with mixing ‘dry’ (using no effects) within a
+live or recording environment is that the results can often
+sound boring and lacking in colour. This is especially the
+case as most of us are used to listening to highly polished
+CDs at home. These productions are actually achieved by
+using effects which electronically produce certain
+atmospheres. The different types of effects that can be used
+are explained below;
+Reverb
+Reverberation is the most commonly used studio effect,
+and also the most necessary. Western music is invariably
+performed indoors where a degree of room reverberation is
+part of the sound. Conversely, most pop music is recorded
+in a relatively small, dry-sounding studio, so artificial
+reverberation has to be added to create a sense of space and
+reality. Reverberation is created naturally when a sound is
+reflected and re-reflected from the surfaces within a room,
+hall or other large structure. See fig. 10.
+Delay
+Often used to make a sound ‘thicker’ by taking the original
+sound, delaying it, then mixing it back with the original
+sound. This short delay added to the original sound has the
+effect of doubling the signal.
+Echo
+A popular effect that was used extensively on guitars and
+vocals in the 60s and 70s. It is not used on vocals so much
+nowadays, but quite effective on guitars and keyboards. A
+neat trick is to set the echo delay time so that the repeats
+coincide with the tempo of the song. 
+Chorus & Flanging
+Both chorus and flangers are based on a short delay,
+combined with pitch modulation to create the effect of two
+or more instruments playing the same part. Flanging also
+employs feedback and is a much stronger effect. Both these
+SECTION 3:  Mixing Techniques
+13
+Caution: when adjusting EQ, there is a danger of
+feedback which can cause damage to your speakers. 
+You may need to reduce your levels to compensate.
+FIG. 3.10
+REVERB
+
+treatments work well on synth pad sounds such as strings
+and are best used in stereo where they create a sense of
+movement as well as width. 
+Pitch Shifters
+These change the pitch of the original signal, usually by up
+to one octave in either direction and sometimes by two.
+Small pitch shifts are useful for creating de-tuning or
+doubling effects. Which can make a single voice or
+instrument sound like two or three, while larger shifts can
+be used to create octaves or parallel harmonies.
+NB: For useful effects settings with different instruments refer to
+Section 6 ‘In the Studio’.
+Setting up an effects loop
+• Set effect unit to full ‘wet’ signal
+• Connect your effect units as per
+Section 2, Input Devices. 
+• On the relevant input channel,
+set the post fade aux to
+maximum
+• Select AFL on your aux master
+• Set aux master level so that the
+meters read ‘0’
+• Adjust input level on effects
+unit until ‘effects meters reads
+‘0’ (nominal)
+NB: You can now use the mixer AFL
+meters to monitor effects unit levels
+as both meters have been
+calibrated.
+• Release aux master AFL and
+select effects return PFL
+NB: If you are using a simple stereo
+input with no PFL, adjust input
+gain for required effect.
+• Adjust effects return input gain
+until meters 
+read around ‘0’.
+• De-select PFL and adjust effects
+return fader level 
+for required effect level.
+NB: The original ‘dry’ signal is mixed
+with the effects ‘wet’ signal.
+Pre- and Post-fade Auxiliaries
+Pre-Fade
+Pre-fade auxiliaries are independent of the fader so that the
+amount of effect will not change with new fader levels. This
+means you will still hear the effect even when the fader is at
+the bottom of its travel.
+Post-Fade
+It is important to use post fade auxiliary sends for effects
+units. This is because post fade auxiliaries ‘follow’ the input
+fader so that when input level changes the amount of effect
+remains proportional to the new input level.
+NB: Effects Return Aux Post Control must be set to minimum or 
+feedback will occur
+SECTION 3:  Mixing Techniques
+14
+FADER
+AUX
+POST
+MIC
+PREAMP
+HI PASS
+FILTER
+EQ
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+10
+0
+MID
+LF
+HF
+100Hz
+0
+5
+10
+20
+30
+40
+50
+-60dBu
+SENS
+AUX
+PRE
+MONO INPUT
+SIGNAL
+22dB
+0
+11
+GAIN
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+LF
+HF
+EQ
+AUX
+PRE
+EFFECTS
+PSEUDO-STEREO
+OUTPUT
+LEFT
+RIGHT
+STEREO
+INPUT
+FADER
+AUX
+POST
+DRY
+SIGNAL
+PAN
+WET
+SIGNAL
+DRY + WET SIGNAL
+GAIN
+BALANCE
+10
+0
+AUX
+PRE
+10
+0
+AUX
+POST
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+PAN
+10
+0
+AUX
+PRE
+10
+0
+BAL
+AUX
+POST
+10
+0
+FIG. 3.11
+
+E. Using Signal Processors 
+The Difference between Signal Processors 
+and Effects
+Unlike effects, which are creative in nature, signal
+processors are used to control and manipulate sounds to
+achieve the best audio quality performances and recordings.
+Effects and signal processors should never be confused.
+Whereas effects are “mixed” with an input to provide a
+combined sound, signal processors alter an input, group or
+mix signal completely. The signal is actually taken out of
+the mixer entirely, “processed” and returned in its altered
+state, in series with the original audio signal. 
+For this reason signal processors should be connected
+using Insert Points and not the Auxiliary Send and Return
+Loop (effects loop).
+NB: Effects can be connected to inserts if necessary, but then the
+proportion of the effect in the signal is governed solely by the
+effects unit mix control.
+The Different Types of Signal Processors
+Broadly speaking, there are 5 different types of signal
+processor in common use:
+Graphic Equalisers
+Graphic Equalisers work by splitting the sound spectrum
+into narrow, adjacent frequency bands and giving each
+band its own cut/boost slider. The term Graphic comes
+about because the position or ‘curve’ of the sliders gives a
+graphic representation of the way in which the settings
+affect the audio frequency range.
+Graphic Equalisers are most often used to process the
+mix at live venues by notching out troublesome frequencies
+that may be causing feedback. They may also be used to
+enhance a mix at a poor sounding venue. In recording they
+are used to create "flat" listening environments. 
+For more detail on venue acoustics go to section 4 - PA Mixing.
+Parametric Equalisers
+These are similar to the EQ found on an input channel but
+may include more bands and additional bandwidth (Q)
+controls which define how many frequencies in the band
+are affected. 
+They are most often used to provide additional creative
+control over an input signal when a mixer’s EQ is not
+sufficient.
+Gates
+A gate is designed to shut down the audio signal path when
+the input signal falls below a threshold set by the user. It
+may be used to clean-up any signal that has pauses in it.
+For example gates are widely used to prevent ‘spill’ between
+adjacent mics on a multi-mic’d drum kit where, say, a tomtom mic may pick up the snare drum.
+Expanders
+Expanders accomplish much the same task as gates, though
+they are more like compressors in reverse. Compressors
+affect the gain of signals exceeding the threshold, while
+expanders act on signals falling below the threshold. A gate
+will close completely when the signal falls below its
+SECTION 3:  Mixing Techniques
+15
+-3
+-3
+Level
+Time
+Gate
+Closed
+Gate
+Open
+Gate
+Closed
+Threshold
+FIG. 3.12
+FIG.
+3.14
+FIG. 3.13
+
+threshold, but an expander works like an automatic mixing
+engineer who pulls down the signal when the signal falls
+below the threshold; the more it falls below the threshold -
+the more he pulls down the fader.
+Expanders are most often use in Studio recording to
+provide the best mix signal to noise ratio when producing
+final masters.
+Compressor/Limiters 
+A compressor reduces the difference between the loudest
+and quietest parts of a performance. It works on a threshold
+system where signals exceeding the threshold are processed
+and those falling below it pass through unchanged. When a
+signal exceeds the threshold the compressor automatically
+reduces the gain. How much gain reduction is applied
+depends on the ‘compression ratio’ which on most
+compressors is variable: the higher the ratio, the stronger
+the compression. Very high ratios cause the compressor to
+act as a limiter where the input signal is prevented from
+ever exceeding the threshold.
+Compressors are the most commonly used processor and
+are particularly popular for maintaining constant vocal and
+bass guitar levels live and in the studio. This is because, out
+of all instruments, singers tend to vary their levels the most.
+Compressors help to achieve the much sought-after tight,
+"punchy" sound.
+Setting up a Signal Processor
+• Connect your processor to the relevant mixer insert jack
+(mono, group or mix insert), using a insert ‘Y’ lead.
+Refer to section 7 for wiring information
+• Set your processor to unity gain (x1), i.e. no additional
+gain.
+• Make your adjustments on your signal processor
+• Beware that your processor settings may alter your mixer
+input output levels. Re-adjust levels to ‘0’ on meters, if
+necessary.
+NB: Remember a signal processor can be used in a channel to
+control one audio source, in a group to control a number of
+audio sources, or to control the entire mix.
+F. Creating a Foldback/
+Monitor Mix
+Performers usually require their own mix independent from
+the main/engineer’s mix. This is because to achieve the
+optimum performance they need to hear themselves above
+other voices or instruments. This performer’s mix is known
+as a foldback/monitor mix. 
+The procedure is as follows;
+• Set the pre-fade aux to maximum on the relevant
+performers input channel. 
+• Select AFL on your aux master.
+• Set aux master level so meters read ‘0’.
+• Create a foldback mix for the performer by setting the
+pre-fade aux levels on the other performer’s input
+channels.
+• Release aux master AFL.
+NB: It is typical that the performers’ own vocals/instruments will be
+two thirds louder than any other sources in their own monitor
+mix.
+Each performer may require a separate monitor
+mix/auxiliary output.
+NOTE: Pre-fade rather than post-fade auxiliaries must be used.
+This is because they are independent of the input faders. If postfade auxiliaries are used, then foldback mix levels will alter with
+every input fader change made by the FOH engineer. This will
+annoy the band and may lead to feedback which can damage
+speakers and headphones.
+Now that you know how to connect and set up
+different elements of your system let’s look at some
+real-world examples of systems in use.
+SECTION 3:  Mixing Techniques
+16
+FIG. 3.15
+
+PA MIXING 
+A. A Typical Live Performance
+Introduction
+There are so many different types of ‘live’ scenarios that it
+would be almost impossible for us to describe each one in a
+book of these modest proportions. Instead, our ‘typical live
+gig’ is represented by a small band, whose set-up is shown
+in the “Mixing Live” diagram.
+Microphones
+Most of the microphones used in live applications are
+dynamic cardioids because they are tough, produce an
+intelligible sound and their directional response helps
+prevent spill or feedback. Dynamic microphones can
+handle anything from drums to vocals. However, condenser
+types, with their greater sensitivity to high frequencies are
+invariably used for jobs such as overhead pick-up on a
+drum kit or mic’ing acoustic instruments.
+Cables and Connections
+Interference and hum can be avoided! A few minutes spent
+checking cable runs and connectors pays dividends.
+•
+A balanced audio connection provides low noise operation
+by cancelling out any interference in a signal. It does this
+by using a 2-conductor mic cable surrounded by a shield.
+Any interference picked up will be of the same polarity on
+the two conductors and is therefore rejected by the mic
+input’s Differential Amplifier.
+•
+Don’t skimp on interconnecting cables - always buy the
+best that you can afford. Make sure that all connections are
+sound and keep cable runs as short as is practicable. 
+•
+A multicore cable and stage box will keep trailing cables to
+a minimum and presents a tidy and practical approach.
+•
+If your mixer has a separate power supply unit, keep it well
+away from the console.
+•
+Where signal and mains cables must cross, make sure
+they’re at 90° to each other. This will help reduce the risk
+of hum and noise.
+•
+If the venue has a three-phase supply, don’t share the same
+phase as lighting controllers.
+SECTION 4:  PA Mixing
+17
+Mix
+Inserts
+Stereo Input
+Stereo Input Left
+Aux Post
+Aux Pre
+Mix L
+Mic 1
+Mic 2
+Mic 3
+Mic 4
+Mic 5
+Mix R
+To Stereo Input
+Stereo Input Right
+M I X I N G L I V E
+• Basic monitor mixing can be done from
+FOH console as shown, using Aux Pre
+output. For more detailed information on
+Monitor Mixing, read Section 5.
+PA SPEAKER
+DI BOX
+PA SPEAKER
+MICS 
+ON 
+DRUM 
+KIT
+POWER AMP
+POWERED 
+MONITOR
+GRAPHIC EQ
+EFFECTS UNIT
+KEYBOARD OR 
+SYNTHESISER
+GUITAR VIA
+DI BOX
+MIC ON 
+GUITAR AMP
+FIG. 4.1
+DIRECT OUTS
+MIC
+LINE
+INSERTS
+
+• 
+It is dangerous to lift the mains earth when trying to
+eliminate hum. You can isolate hum by lifting the
+appropriate audio signal shield.
+•
+When using wireless mics, set the receiver on stage and run
+back to the console at balanced mic level. This will help
+avoid interference from digital sources and lighting
+controllers.
+•
+Keep unbalanced ‘insert’ leads away from mains and keep
+them short - no longer than about 2 metres.
+Connecting External Effects and Processors 
+We talked about Effects and Processors in Sections 2 and 3,
+so you’re now aware of their functions and applications.
+Effects units are best connected via the console’s Auxiliary
+Send and Return Loop (sometimes known as the Effects
+Send and Return Loop) or the Insert Point. When used in
+the Aux Send system, the dry signal level should be turned
+off on the effects unit, but when used via Insert Points (for
+guidance on how to wire a jack for use with Insert Points,
+see Section 6), the dry/effects balance must be set on the
+effects unit itself. Processors treat the whole of the
+incoming signal and therefore may only be used via console
+Insert Points or directly ‘in-line’ with a signal: they cannot
+be used in the Aux Send/Return loop system.
+Setting Up
+•
+Position the mixing console so that you can hear the onstage performance as the audience will hear it. Ensure that
+you have a clear view of the performers.
+•
+After setting up, switch the power amps on last to prevent
+any thumps occurring when effects or instruments are
+powered up. Ensure the console’s master gain is down
+before you switch on the amplifiers.
+•
+Don’t set up the vocal mic directly in front of the drum kit
+or a guitar stack.
+•
+Make sure the speakers aren’t obstructed by the audience
+and that the majority of the sound is being directed
+towards the audience, not towards the rear or side walls.
+•
+Set up the vocal levels first - it’s no use getting a great drum
+sound if the vocals feed back before they can even be heard.
+•
+Keep the vocals panned towards the centre of the mix. Not
+only will this sound more natural, but it will allow the
+greatest vocal level before feedback or distortion occurs.
+•
+Be sparing on the use of artificial reverb. Most venues are
+too reverberant anyway, and excessive reverb will ruin the
+intelligibility of the vocal performance.
+•
+Do not use reverb on low frequency sound sources such as
+bass, kick drums and tom toms.
+•
+Keep backline amp levels down: let the mic and mixer do
+the work!
+•
+Always leave a little gain in hand so you can wind up the
+level slightly as the show progresses.
+•
+Putting high levels of bass guitar or kick drum through a
+small PA can overload the system and distort vocal quality.
+Try rolling off some of the low bass, you’ll get a higher
+subjective sound level without overload.
+Ringing Out: Nulling Room Acoustics
+As experienced engineers will tell you, there’s no such thing
+as a perfect venue. To help tailor the sound to the room
+acoustics, insert a Graphic Equalizer into the console’s mix
+insert jacks which are effectively between the mixer and the
+power amp.
+‘Ringing Out’ the system prior to the sound check will help
+reduce troublesome feedback. To Ring Out, follow this
+procedure:
+1
+Set all graphic EQ controls to centre (0).
+2
+Turn up amp volume until feedback is just beginning to
+‘ring’.
+3
+Turn back the amp volume slightly to prevent accidental
+feedback.
+4
+Starting from the left, adjust the first graphic EQ frequency
+gain control to ‘max’: if the system doesn’t feedback, then
+this is not a problem frequency. Return this gain control to
+centre position.
+If the system feeds back, reduce the EQ gain by the same
+amount you boosted to get feedback.
+5
+Repeat this procedure for all graphic EQ frequencies.
+SECTION 4:  PA Mixing
+18
+Caution: Ringing out can cause howl around which can
+damage speakers, so use care when adjusting levels.
+
+Setting the Mix
+•
+Turn down the amplifier gain before the system is first
+switched on. This will avoid unwelcome howls of feedback
+and can prevent loudspeaker damage due to switch-on
+transients.
+•
+Set all the channel EQs to their flat or neutral position and
+optimize the input gain control setting for each channel in
+turn using PFLs.
+•
+If low frequency background noise is a problem, switch in
+the High Pass Filter on each of the microphone channels
+being used, except on low frequency sound sources such as
+basses and kick drums.
+•
+Ring out the system as described above, with the vocal mics
+open, and notch out any obvious trouble spots. 
+•
+Establish the maximum working level for the lead vocal mic
+so as not to incur feedback and then work a little below
+this level to allow a margin of safety. Again, see the notes
+on ringing out the system.
+•
+Set up the backing vocal mics and check that there is no
+feedback problem when both the backing vocal and lead
+vocal mics are on. If there is, reduce the master gain setting
+until the feedback disappears. 
+•
+Now the instrument and direct line inputs can be balanced
+relative to the vocals. Start with drums and work through
+to the bass and rythm instruments.
+•
+Test out any effects units connected to the system and
+establish the correct balance of dry and effected sound.
+Avoiding Feedback
+•
+Turn down or mute any mics not in use. This reduces the
+risk of feedback and avoids the back line being picked up.
+•
+If feedback is a real problem, consider moving the main PA
+speakers away from the mics a little. Also check the back of
+the stage, because if the wall is acoustically reflective, some
+sound from the room will be reflected back into the mics
+increasing the risk of feedback. 
+•
+Avoid excessive use of boosted EQ as this can encourage
+feedback and may also spoil the basic character of the
+sound. Consider it an aid to fine tuning rather than as a
+means of making radical changes.
+•
+The use of stage monitors will also worsen the feedback
+situation so run these at the lowest volume that the
+performers can comfortably work with. Position the
+cabinets so as to allow as little direct sound as possible to
+enter the vocal microphones. If possible, use a graphic EQ
+on each monitor.
+NB: Remember, people soak up sound! The perfect mix achieved in
+an empty venue will have to be tweaked when the crowds
+arrive. Sound waves are also affected by heat and humidity.
+SECTION 4:  PA Mixing
+19
+
+B. Larger Performances
+Although the example shown in the ‘Mixing Live’ diagram
+shown at the beginning of this section is of a small band,
+the principles are the same no matter the size of the live
+performance or venue. However, for larger PAs additional
+speakers, monitors, effects and processors may be required
+as well as slightly different positioning for each of these
+pieces of equipment. These additional requirements are
+outlined below:
+Medium Sized Venues 
+The console used will require more input channels. For
+example it is likely you will want to mic up all of the
+drums, and there are also likely to be more instruments,
+backing singers and sound sources in general.
+More monitor sends will also be required - a single
+monitor will not be enough for larger bands. The bass and
+drums will require a monitor between them. The vocalists
+will want a monitor each so they can hear themselves above
+the band.
+More speaker outputs may be needed in larger venues so
+that all the audience can be reached, without there being
+“holes” in the amplified audio signal. It may be necessary to
+record the event. This will require additional level
+controlled stereo outputs or direct outs if a multitrack is
+being used. 
+NB: For simplicity, these diagrams do NOT show any outboard
+equipment.
+Large Sized Venues
+Large venues will require a separate “Front of House”
+(FOH) console for the audience mix and a Monitor console
+for the band, as with a larger stage area each band member
+will require at least one monitor wedge. The auxiliary send
+system of the FOH console will not be able to cope with
+these demands alone as it will have to deal with several
+effects units.
+The FOH console will have a large number of mic/line
+inputs, plus a large number of matrix outputs so that a
+complex range of speaker clusters can be placed around the
+auditorium.
+SECTION 4:  PA Mixing
+20
+WEDGE MONITORS
+AMP
+WEDGE MONITORS
+LEFT SPEAKER
+AMP
+AUDIENCE
+RIGHT SPEAKER
+MIX
+OUT
+AUX PRE
+OUTPUTS
+AUDIENCE
+MIXER
+S M A L L V E N U E S
+FIG. 4.2
+
+SECTION 4:  PA Mixing
+21
+MID/HI
+SUB
+MID/HI
+SUB
+WEDGE MONITORS
+FOH CONSOLE
+AUDIENCE
+INSTRUMENTS
+& MICS
+MULTICORE
+OUTPUTS
+MONITOR
+DESK
+AMPS
+SPLITTER
+LEFT
+SPEAKERS
+MULTICORE
+INPUTS
+AMP
+X-OVER
+RIGHT
+SPEAKERS
+Tx
+Rx
+DRUMMER'S
+MONITOR
+CENTRE VOCAL
+SPEAKER
+(suspended)
+IN-EAR
+MONITORS
+L A R G E R V E N U E S
+SUB SPEAKER
+MID/HI
+SPEAKER
+RIGHT SPEAKER
+SUB SPEAKER
+LEFT SPEAKER
+MID/HI
+SPEAKER
+SUB SPEAKER
+DRUMMER'S
+MONITOR
+SUB
+AMP
+MID/HI
+AMP
+ACTIVE
+CROSSOVER
+MIXER
+AUDIENCE
+WEDGE MONITORS
+MIX
+AUX PRE OUTS
+AMPS
+WEDGE MONITORS
+AUDIENCE
+M E D I U M S I Z E D V E N U E S
+FIG. 4.3
+FIG. 4.4
+
+C. Recording Live 
+In some situations, you may want to record a performance.
+Depending on the situation, the feed for recording may
+come from the FOH mixer, microphone splitter boxes, or
+your own microphones which have been set up alongside
+those of the band.
+The diagram below shows a typical example of the sound
+sources being split between FOH and Recording. The
+recording console operates independently from the FOH
+mixer.
+NB: When using Folio SX it will be necessary to re-patch for
+multitrack playback.
+NB: Subgroups can be used for submixing many inputs (e.g. drums)
+to a multitrack input. This is useful when tape track
+availability is limited.
+Hints & Tips 
+• Try to locate the mixer in a different room to the
+performance to avoid distraction from the live sound. 
+If this is not possible, use a good pair of noise-excluding
+headphones for monitoring.
+• Wherever possible, take feeds from mic splitters - this
+will provide clean, low-noise signals suitable for
+recording.
+• Often, Tape Sends are unbalanced, so keep signal paths as
+short as possible between output and recorder to avoid
+interference.
+• If there aren’t enough microphones, use a stereo pair to
+pick up the overall sound and the rest to emphasize
+individual performers.
+• Use a compressor/limiter to avoid overloading the digital
+input of the recorder.
+SECTION 4:  PA Mixing
+22
+Post-Fade
+Direct Outputs
+Line
+Mic
+Direct Out
+T
+o
+M
+i
+c/L
+in
+e i
+np
+uts
+R E C O R D I N G L I V E
+From mics and
+instruments
+RECORDING
+ENGINEER’S
+HEADPHONES
+<200R
+SPLITTER
+FRONT-OF-HOUSE    
+CONSOLE
+(E.G. SPIRIT 8)
+MULTITRACK TAPE
+MACHINE
+FIG. 4.5
+
+OTHER APPLICATIONS
+A. Monitor Mixing 
+Monitors are used to allow band members to hear
+themselves.
+When dealing with the monitoring requirements of, say,
+a large live band, it is common practice to keep the
+monitor mix function totally separate from the Front of
+House console. 
+Some form of graphic equaliser in line with each monitor
+speaker is desirable as it allows troublesome frequencies to
+be notched out. The monitor system is rung out in exactly
+the same way as the main PA (see Ringing Out Section 4),
+and the final ringing out must be done with both the
+monitor and main PA systems set at their normal operating
+level.The monitoring console is situated off-stage and
+derives its feed direct from mic splitters. Note: the Spirit
+Monitor 2 console has its own built-in mic splitters.
+• It is normal for a telecommunication link to be used
+between the FOH and monitor engineer so that they can
+talk to each other during the performance.
+• Each stage monitor needs its own power amp. Keep
+things tidy by using rack-mounted stereo amps.
+• Graphic EQs are patched via the console, like the power
+amps they should be rack-mounted for easy access.
+• If the lead vocalist uses in-ear monitoring, he/she will be
+acoustically isolated, so it’s a good idea to feed audience
+pick-up mics into his/her mix to provide a sense of
+involvement.
+• ‘Side fills’ are often used where monitoring is required
+over a large stage area, floor space is at a premium, and
+too many wedge monitors would simply clutter things up
+both physically and acoustically. Don’t compromise on
+these speakers - they’ll have to work hard to punch sound
+through to the performers.
+• The Monitor Engineer’s wedge lets him hear the total
+foldback mix or selected parts thereof. 
+• A good Monitor Engineer, who is “invisible” to the
+audience, will always position himself so as to see visual
+signals from the performers. 
+SECTION 5:  Other Applications
+23
+Monitor
+Outputs
+Inserts
+Mic Inputs
+Engineer’s
+Wedge Out
+M O N I T O R M I X
+ENGINEER’S
+MONITOR
+AMP
+SPLITTER*
+FROM MICS AND
+INSTRUMENTS
+POWER
+AMPLIFIERS
+GRAPHIC
+EQS
+DRUMMER’S
+MONITOR
+SIDE FILL
+MONITOR
+SIDE FILL MONITOR
+MULTICORE TO
+FRONT-OF-HOUSE
+CONSOLE
+HEADPHONES/TALKBACK
+TELECOM LINK
+STAGE
+MONITORS
+* If the mixer has a builtin splitter (e.g. Spirit
+Monitor 2 console), an
+on-stage splitter is not
+required.
+FIG. 5.1
+
+B. Submixing 
+There are certain groups of instruments or performers
+(drums, backing vocals, multi-keyboards, etc) that can
+be logically grouped together - to save on input
+channels - via a small mixer, the output of which can
+then be controlled by just one pair of faders on the
+master console.
+• If a mono output is available it can be used for a drum
+fill or for recording purposes.
+• Output from the submixer goes to the FOH console
+and/or may be used for a small recording set up.
+• Use the Aux Returns on the FOH console to return the
+sub-mix. This saves valuable input channels on the FOH
+console.
+• In the case of a drum kit where many mics are in close
+proximity, the use of Noise Gates will prevent spill and
+clean-up the mix.
+• Use a Compressor/Limiter to maintain a consistent level.
+SECTION 5:  Other Applications
+24
+Mix L&R
+Stereo Input
+Mix L&R
+Mono Output
+Channel
+Inserts
+Mic
+Mic 1
+Mic 2
+Mic 3
+Mic 4
+Mic 5
+Mic 6
+Mic 7
+Mic 8
+COMPRESSOR/LIMITER
+DRUMMER’S MONITOR
+HEADPHONES
+AMP
+DRUM
+MACHINE
+OPTIONAL NOISE
+GATES ON INPUTS 2-7
+(DYNAMIC MICS) TO
+CLEAN UP MIX
+CONDENSER MICS
+OVERHEAD
+F1 OUTPUT
+TO MAIN
+MIXER
+INPUTS
+S U B M I X I N G
+FIG. 5.2
+
+IN THE STUDIO
+A. Essentials & Ergonomics
+Think about room layout and equipment. No, we’re not
+going to plan your studio for you, but here are a few
+pointers:
+• If you play keyboards, set them up so that you can reach
+the mixer.
+• Position your effects and synth modules within arms
+length.
+• If you use a computer, position the screen so as to avoid
+reflections. Do not position speakers near the screen
+unless they are magnetically compensated or shielded.
+• If the room is too ‘live’, deaden it with drapes or soft
+furnishings.
+• For best results, use dedicated nearfield monitors.
+• Don’t use large speakers in a small room - they’ll sound
+wrong at low frequencies.
+• Do use a well specified power amp (minimum 50 watts
+per channel).
+• Don’t compromise on a weedy amp: it will distort at high
+levels and may damage the speakers.
+B. Tape Machines & 
+Recording Media
+Basically, you’ll need two types of tape machine: a
+multitrack recorder for recording the individual parts of
+the performance in readiness for mixdown onto a 2-track
+recorder for mastering. There are both analogue and digital
+models available. The final choice must be based on
+individual requirements.
+C. The Console
+Studio work presents additional problems for a mixing
+console in that it has to deal with a two stage process
+requiring very different skills.
+1 
+Recording - Sound sources have to be captured on
+multitrack tape. This process will include ensuring that the
+cleanest strongest signal is being recorded to tape, without
+overload and distortion, optimising the sound of the
+recorded signal with EQ, signal processing and effects,
+monitoring the recorded sources, and creating a headphone
+mix for the musicians to ensure the best possible
+performance from them.
+2
+Mixdown - All the recorded sound sources as well as any
+“live” media coming from sequencers, drum machines or
+samplers must then be blended together using EQ, level,
+pan and effects and mastered down to a two-track device to
+create a “final mix”. This process bears some similarities to
+mixing a band - minus the audience, the live performance
+and poor venue acoustics!
+If you have seen any T.V. shows including footage of
+commercial recording studios you may be forgiven for
+thinking that good multitrack recordings are only possible
+using a mammoth console. This does not have to be the
+case! Professional sounding results can be achieved, albeit
+with some repatching between recording and mixdown
+stages, using a relatively small multipurpose mixer.
+However, to achieve professional results the mixer must be
+equipped with either (and preferably both): 
+• Direct outs
+• Groups/Subs
+When purchasing a console for both live and recording
+work, ensuring these facilities are available will save you
+having to buy a dedicated recording console until your
+requirements become more sophisticted.
+SECTION 6:  In the Studio
+25
+
+D. Simple Multitrack Recording
+The diagram below shows a simple recording set-up using a
+multipurpose console equipped with direct outs and a pair
+of subgroups. The sound from instruments or voices is
+taken straight out to be recorded by the multitrack, with
+recorded signals being returned from the multitrack’s
+channels into spare inputs of the mixer so they can be
+monitored. Alternatively, backing vocals or grouped
+instruments such as drumkits may be recorded to single or
+pairs of tracks by subgrouping them and connecting the
+mixer’s group outputs to the multitrack device.
+The engineer monitors both performances and previously
+recorded material through a monitor amp and speakers,
+with the performers getting their own separate foldback
+mix through the auxiliary sends .
+Hints and Tips when Recording:
+•
+If you are recording as a solo performer on a budget, you
+can avoid the expense of buying a separate amp to create a
+headphone mix. Plug your headphones into the console’s
+headphone connector and use its monitor mix for your
+foldback. Alter channel fader levels as you wish to achieve
+optimum headphone levels for your performance.
+•
+If your console is not large enough to cope with every
+multitrack send and return, connect only as many Direct
+Outs as you need per take. For example, if you are
+recording solo you will only be recording one instrument at
+a time anyway, so a maximum of only two direct outs will
+be required for stereo instruments, and one for mono ones.
+The same channel direct outs may then be repatched to
+adjacent multitrack tape ins to record new tracks. This
+should leave enough channels free to monitor all your
+recorded tracks.
+•
+If you run out of tape tracks, group instruments together.
+For example a fully mic’d up drumkit can be recorded in
+stereo to two tape tracks via a pair of groups, or if you are
+really stretched you could do this with the entire rhythm
+section, including bass and rhythm guitar. However, it is
+then essential to mix the balance between the instruments
+accurately as, once recorded, they can never be individually
+altered again.
+•
+If you have only one effects unit and you need it to create a
+variety of different sounds, it may be neccessary to record
+the instrument with effects included. Again, remember that
+once you have done this there is no going back, so wherever
+possible it is best to record “dry” and buy a second effects
+unit if you can. If you must record “wet”, look at you
+SECTION 6:  In the Studio
+26
+Line
+Sub L&R
+Stereo Input
+Monitor L&R
+Aux Post
+Direct Out
+Mic
+Aux Pre
+Stereo Input
+Stereo Input
+Mic 1
+Mic 3
+Mic 2
+M U L T I T R A C K R E C O R D I N G
+EFFECTS
+DRUMS
+BASS
+LEAD
+RHYTHM
+VOCALS
+NEARFIELD 
+MONITOR
+NEARFIELD 
+MONITOR
+DI BOX
+MULTITRACK RECORDER
+KEYBOARDS OR 
+SYNTHESISERS
+STEREO
+POWER
+AMP
+HEADPHONE AMP
+MUSICIANS’
+MONITOR
+HEADPHONES
+ENGINEER’S
+HEADPHONES
+Spirit SX, with its 12 mono and 8 stereo
+inputs is suitable for the smaller studio
+Multitrack recording is either via open-reel or stacked Adats
+FIG. 6.1
+
+mixer’s block diagram and use outputs coming after the
+effects return for this purpose.
+•
+Do not record in the same room in which you are playing
+unless your monitor speakers are muted. At the very least,
+your recorded track will pick up the mix from the monitor
+speakers, but more likely howl-round and feedback will
+occur which will damage your equipment. If you a
+recording a band, it is best to put them in an entirely
+different room altogether.
+•
+Setting recording levels - for the best results, as it is
+important to set the highest record levels you can on your
+multitrack without getting overload or distortion. If you set
+levels too low, you will end up with a weak signal and
+background hiss. All multitrack recorders allow you to set
+record levels before a take. Consult the recorder’s manual as
+to how best to achieve this.
+E. Simple Multitrack Mixdown
+The diagram below shows how a simple set-up will look for
+the mixdown process. Some repatching has occured to free
+up the input channels which were used as mutitrack tape
+sends. Tape returns can then be plugged into the mixer in
+sequence from channel 1 upwards, leaving any spare inputs
+for sequenced MIDI instruments. Effects, amps and
+speakers may be left as before.
+NB: Mixdown hints and tips may be found in “Creating a Mix” at
+the end of this section.
+SECTION 6:  In the Studio
+27
+EFFECTS
+Mix L&R
+Stereo Input
+Monitor
+Aux Post
+Line
+2 Track
+Stereo Inputs
+Mix
+L&R
+Line Inputs
+Aux Pre
+Out
+In
+Out
+In
+Out
+Out
+In
+In
+Line Inputs
+S I M P L E M U L T I T R A C K M I X D O W N
+NEARFIELD 
+MONITOR
+NEARFIELD 
+MONITOR
+MULTITRACK 
+RECORDER
+KEYBOARDS OR 
+SYNTHESISERS
+STEREO
+POWER
+AMP
+ENGINEER’S
+HEADPHONES
+PERSONAL COMPUTER
+MIDI
+MIDI
+MIDI
+MIDI
+DAT
+FIG. 6.2
+SOUND
+MODULE
+
+F. Using a Dedicated 
+“In-Line” Mixing Console
+For recording projects beyond 8 track, a
+multipurpose console is usually inadequate, being
+unable to cope with the additional multitrack
+sends and returns and with all the repatching that
+is required between recording and mixdown. In
+such cases, a dedicated “in-line” recording console
+is necessary. An example of the input strip of such
+a console is shown here.
+Virtually all of the features and facilities are
+identical to a standard mixer - except one: As well
+as including full channel input facilities and a
+direct out (here called a tape send), the strip also
+includes an extra input for a multitrack tape
+return as well as some basic rotary level control
+and pan facilities for that input. This second
+input is known as the Monitor Input or Monitor
+Return. Using this technique allows  a signal to
+and from a  multitrack to be handled by one
+input strip, saving space and avoiding the
+confusion of having to find corresponding send
+and return signals in different areas of the
+console.
+The major advantage of using an “in-line”
+recording console is that repatching is
+unnecessary. This is because both channel and
+tape return inputs can be swapped (using the
+switch marked “Chan/Mntr Input Rev”), giving
+the signal coming from multitrack all the EQ,
+Auxiliaries and the linear fader of the channel
+input for the mixdown process. This also leaves
+the monitor input free for sequenced MIDI gear
+such as keyboards. If more facilities are required
+for these sound sources, then EQ and auxiliaries
+may be shared between the two inputs.
+With two inputs per channel, a 16 channel “inline”console actually has 32 inputs available. This
+high input count and compactness has made “in -
+line” consoles extremely popular with project
+studios, programming and remixing suites and
+commercially successful bands’ home studios.
+With prices tumbling all the time, “in-line”
+consoles are now barely more expensive than
+standard designs.
+Multitrack Recording and Mixing with an 
+“In-Line” Console
+A more complex recording set up with an “in-line” console
+is shown opposite in Fig 6.4. Both multitrack ins and outs
+are plugged into the same channel strip, avoiding the need
+for repatching, whilst for sound proofing purposes,
+musicians are recorded in a separate room. Effects and
+signal processors are connected in an identical way to any
+other console via auxiliary sends and returns and insert
+points.
+G. Recording Instruments 
+and Voices
+VOCALS
+• Use a cardioid condenser mic positioned 9 inches
+(225mm) from the singer.
+• A pop shield will reduce explosive ‘p’ and ‘t’ sounds.
+• If sibilance is a problem, change to a dynamic mic or
+move the singer back from the mic.
+Recommended effects/processor settings:
+EQ: Not normally required. But, if necessary, use the HPF
+(High Pass Filter) to reduce rumble.
+Compressor: Attack as fast as possible; 
+Release around 0.5S, ratio between 4:1 and 8:1.
+Reverb: Try a decay time of around 3 seconds and a predelay of 50mS.
+DRUMS
+• Place mics 2 inches (50mm) from the heads of snare and
+kick drum. 
+• For the kick drum, place the mic inside - pointing
+directly at where the beater strikes the drumhead.
+• To fully mic a kit, use separate mics on all toms and hats.
+• Use condenser mics 5ft (1.5m) overhead, spaced around
+5ft (1.5m) apart, to pick up the entire drum sound,
+cymbals and “ambience”.
+Recommended effects/processor settings:
+EQ: Boost at: 80Hz to add weight to kick drums, 6kHz to
+add sizzle to cymbals or edge to a snare. Cut at 250-300Hz
+to reduce boxiness on a kick drum or low toms.
+Gate: Fast attack setting to allow percussive transients to
+pass through. Precise settings will depend on microphone
+type and placement.
+Reverb: Keep kick drum ‘dry’. Try a percussion plate
+setting with a 2.5S decay time on other drums.
+SECTION 6:  In the Studio
+28
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++ 15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+MIC
+LF
+10
+0
+HF
+SEND
+RETURN
+INSERT
+LINE
+TRACK
++48v
+DIRECT
+0
+–
++
+LINE
+-20dB
+EQ TO
+MNTR
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+10
+0
+10
+0
+10
+0
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+15
+15
+12
+12
+9
+9
+6
+6
+3
+3
+0
+–
++
+5
+5
+4
+4
+3
+3
+2
+2
+1
+1
+0
+10
+5
+0
+5
+10
+15
+20
+30
+23
+CHAN
+PAN
+PK
+PFL
+ON
+MNTR
+FDR
+MNTR
+PAN
+AUX
+4
+AUX
+3
+MNTR
+FB2
+TAPE
+TRIM
+60dB
+10
+40
+30
+20
+15
+CHAN/MNTR
+INPUT REV
+GAIN
+50
+100
+200
+300
+400
+800
+1.6KHZ
+500
+1k
+2k
+3k
+4k
+8k
+16KHZ
+HMID
+CHAN
+L
+R
+L
+R
+PK
+PFL
+ON
+40
+MIX
+1-2
+3-4
+5-6
+7-8
+∞
+23
+20
+10
+LMID
+CHAN
+FB1
+AUX
+1
+AUX
+2
+FIG. 6.3
+
+ELECTRIC GUITAR
+• Some players prefer the sound of a valve amplifier, so be
+prepared to mic up the speaker cabinet using a cardioid
+dynamic mic.
+• Experiment with mic positioning to achieve the desired
+sound.
+• If preferred, the guitar can be DI’d via a recording
+preamp which incorporates an amp simulator.
+Recommended effects/processor settings:
+EQ: Boost at: 120Hz to add ‘thump’ to rock guitars, 23kHz to add bite, 5-7 kHz to add zing to clean rhythm
+sound. Cut at: 200-300Hz to reduce boxiness, 4kHz and
+above to reduce buzziness.
+Compressor: Attack between 10 and 50mS; Release,
+around 0.3S, Ratio, between 4:1 and 12:1. Because of the
+noise generated by a typical electric guitar, use in
+conjunction with a gate or expander is advised.
+Reverb: Plate or room, 1.5 to 4S; 30 to 60mS pre-delay.
+ACOUSTIC GUITAR
+• Use the best mic that you can, preferably a condenser
+type.
+• For a natural tone, position the mic between 12-18ins
+from the guitar, aiming at where the neck joins the body.
+• If recording in stereo, point a second mic towards the
+centre of the neck, about 12-18ins from the instrument.
+• Acoustic guitars sound best in slightly live rooms, if
+necessary place a piece of acoustically reflective board
+beneath the player.
+Recommended effects/processor settings:
+EQ: Boost: between 5kHz and 10kHz to add sparkle. Cut
+between: 1kHz and 3kHz to reduce harshness, 100 and
+200Hz to reduce boom. In busy pop mixes you can cut the
+low end to produce a more cutting rhythm sound.
+Compressor: Attack 20 mS; Release, around 0.5S, Ratio,
+between 4:1 and 12:1.
+Reverb: Bright setting such as Plate to add vitality. Decay
+time of between 2 to 3S.
+BASS GUITAR
+• Most engineers DI the bass via an active DI box and a
+compressor. This provides a clearer sound.
+• Use the compressor to keep signal peaks under control.
+• Check the player’s technique; the harder the instrument
+is played, the brighter the tone.
+• Consider the use of a budget graphic EQ.
+Recommended effects/processor settings: 
+EQ: Boost: at 80-100Hz to add more weight and punch,
+between 2 and 4kHz to add edge. Cut: below 50Hz to
+SECTION 6:  In the Studio
+29
+Control
+Room
+L&R
+Mic
+Line
+Insert
+Tape Return
+Tape Send
+2 Track
+Mix L&R
+Inserts
+M U L T I T R A C K R E C O R D I N G & M I X D O W N 
+NEARFIELD
+MONITOR
+NEARFIELD
+MONITOR
+DAT
+RECORDER
+PROCESSORS
+(NOISE GATES,
+COMPRESSOR/LIMITERS,
+AURAL EXCITERS)
+MULTITRACK
+RECORDER
+INSTRUMENTS
+To Line Inputs
+MICROPHONES
+To Mic Inputs
+STEREO
+POWER AMP
+FIG. 6.4
+
+reduce unwanted rumble, between 180 and 250Hz to
+reduce boxiness.
+Compressor: Attack around 50mS; Release, around 0.4S,
+Ratio, between 4:1 and 12:1.
+KEYBOARDS
+• Most electronic keyboards can be plugged directly into
+the line inputs of the mixing console.
+• Bear in mind that the majority of contemporary
+synthesizers etc, have stereo outputs and will require two
+mixer channels.
+• Most synthesizer sounds can be used without
+compression, though they do benefit from effects such as
+reverb or chorus.
+• Overdriven keyboard sound may be created by feeding
+the signal via guitar recording preamp.
+H. Planning a Session
+• You have a lot to remember during a session, so create a
+track sheet to keep a log of what instrument is recorded
+onto what tape track, plus other relevant information.
+• Record rhythm sections first; drums, bass, and rhythm
+guitar.
+• Add vocals, solos, and additional instrumentation as
+overdubs.
+• Decide whether you want to add effects at the mixing
+stage or while recording. If you can, try to keep a copy of
+the original “dry signal” on tape. You may wish to remix
+at a later date!
+• When recording vocals, ask the singer what instruments
+they most need to hear in the headphone mix.
+I. Creating a Mix
+Go into ‘neutral’ before you start off -
+• Set all the Aux Sends to zero.
+• Set all EQ controls to their central positions.
+• Pull all the faders down.
+• All routing buttons ‘up’.
+Organize your Subgroups 
+• Put logical groups of sounds together.
+• Route drums to a stereo sub-group.
+• Consider grouping backing vocals.
+• Group multiple keyboards.
+Metering
+• Use the PFL metering system for each channel in turn to
+optimize the gain setting.
+• The PFL should just go into yellow band of the meter
+section, although peaking into the red area is acceptable.
+• Check all the effects units for correct input levels.
+• If fitted, use the Solo In Place function to check
+individual channels in isolation while retaining their
+original pan and level settings.
+J. Balancing the Mix
+If you don’t have a lot of mixing experience, it can help to
+set up the drums and bass balance first, then move onto the
+vocals and the other instruments. Don’t worry about fine
+tuning the EQ or effects until your dry mix is somewhere
+near right.
+• Satisfy yourself that the mix is working in mono. Check
+for Phase problems.
+• Pan bass drums, bass guitar and lead vocals to centre -
+this will stabilize the mix.
+• Spread other instruments across the stereo stage as
+required, including backing singers.
+• EQ the mix as required.
+• Now add stereo effects as necessary to add to the illusion
+of space and width.
+• Check the balance of your final mix by listening to it
+from the next room through the adjoining door: for
+some reason, this often shows up whether the vocals are
+too loud or quiet.
+Hints & Tips
+• Clean the heads of analogue tape machines before every
+session. Use cotton buds dipped in Isopropyl Alcohol.
+• Check all instrument tunings before each take, because
+they have a tendency to change as the room warms up.
+• Make a pop shield from stocking material stretched
+across a wire frame. This will minimise vocal “popping”.
+• Don’t skimp on cables and connectors; these can be a
+source of noise.
+SECTION 6:  In the Studio
+30
+
+WIRING & CONNECTORS
+Faulty connectors and cabling are some of the most
+frequent sources of noise and poor sounding systems. 
+The following section should help you connect your system
+correctly. It’s also worth spending a little time referring to
+all of your user manuals, as wiring conventions can vary
+between manufacturers - see diagrams.
+BALANCED AND UNBALANCED MIC INPUTS 
+Soundcraft uses XLR sockets for its balanced mic inputs.
+The wiring convention for XLRs is: Pin 1 - Shield, Pin 2 -
+Hot (+ve) and Pin 3 - Cold (–ve). 
+Balancing is a method of audio connection which cancels
+any interference in a signal, to give low noise operation.
+This is achieved by using a 2-conductor mic cable, usually
+surrounded by a shield, in which the ‘hot’ and ‘cold’ signals
+are opposite polarity. Any interference picked up will be of
+the same polarity on both hot and cold wires and will be
+rejected by the mic input’s Difference Amplifier. You may
+use unbalanced sources when wired as shown. However, do
+not use unbalanced sources with Phantom Power switched
+on. The voltage on Pins 2 & 3 of the XLR connector may
+cause serious damage.
+BALANCED AND UNBALANCED LINE INPUTS 
+Line inputs accept ‘A’ Gauge, 3-pole (Tip, Ring, Sleeve) 1/4
+inch jack wired as shown in Fig. 7.3. 
+Note that for unbalanced operation the screen of the cable is wired
+to both the Ring and the Sleeve of the jack.
+INSERTS 
+A Mixer insert point is a single, ‘A’ Gauge, 3-pole (stereo),
+switched jack socket (not unlike the headphone socket on a
+hi-fi amplifier). When a 3-pole jack is inserted the signal
+path is interrupted. The signal is taken out of the mixer via
+the plug tip, through an external piece of equipment and
+then back to the mixer on the ring of the plug. A special Ycord is required which has the stereo jack at one end and
+two mono jacks, for the processor’s input and output, at
+the other. See Fig. 7.4.
+GROUND COMPENSATED OUTPUTS 
+Ground compensated outputs may, to all intents and
+purposes, be treated as balanced outputs. Ground
+compensation helps avoid hum loops when the console is
+feeding into an unbalanced piece of equipment. Essentially,
+the Ground Compensated output has three connections,
+much like a conventional balanced output, except that the
+pin normally designated ‘cold’ acts as a ‘ground sense’ line
+enabling it to sense and cancel any ground hum present at
+the output. 
+The convention for XLRs is: Pin 1 - Shield, Pin 2 - Hot,
+Pin 3 - Ground Sense. For jacks, the wiring convention is:
+Tip - Hot, Ring - Ground Sense, Sleeve - Shield.
+For use with balanced destinations, the Ground Sense
+output may be treated as ‘cold’ allowing the connection to
+be made normally. Where the destination has an
+unbalanced jack input, a two-core (balanced-type) lead
+should be made up as shown. Unbalanced jacks may also be
+plugged directly into Ground Compensated Output jack
+sockets, but the benefit of hum rejection will be lost.
+IMPEDANCE BALANCED OUTPUTS
+Impedance Balanced Outputs are configured as normal
+balanced outputs: Pin 1 - Shield, Pin 2 - Hot (+ve) and Pin
+3 - Cold (–ve). See Fig. 7.2.
+Impedance Balanced Outputs work on the principle that
+hot and cold terminals have the same resistance. When
+impedance balanced outputs are used with a balanced
+input, good rejection is achieved for both common-mode
+ground voltages and electrostatic interference.
+Note: The cold terminal can be either shorted to ground locally or
+left open-circuit for balanced and unbalanced operation.
+SECTION 7:  Wiring Up & Connectors
+31
+BALANCED
+UNBALANCED INPUT
+BALANCED INPUT
+UNBALANCED
+FIG. 7.3
+FIG. 7.1
+FIG. 7.2
+FIG. 7.5
+FIG. 7.6
+FIG. 7.4
+
+GLOSSARY
+ACOUSTIC FEEDBACK (HOWLROUND)
+A whistling or howling noise caused by an amplified signal ‘feeding
+back’ into the amplification chain via a microphone or guitar pickup.
+ACTIVE DI BOX
+A device which permits Direct Injection of signals from guitars, etc,
+into the console. Incorporates circuitry to adjust gain and provide
+impedance matching. Requires power and may be battery driven or
+sometimes ‘phantom powered’ from a console.
+AFL (AFTER FADE LISTEN)
+A function that allows the operator to monitor a post-fade signal.
+Used with Aux Masters.
+AMPLIFIER
+Device that increases the level of an electrical signal.
+AMPLITUDE
+Signal level, usually in volts.
+ANALOGUE
+Analogy (n.): correspondence or partial similarity, using physical
+variables. For example; an analogue tape recorder stores sound on
+tape in the form of a magnetic pattern which is a replica of the
+original musical waveform.
+ASSIGN
+On a mixing console, to switch or route a signal to a particular
+signal path or combination of signal paths.
+ATTENUATE
+To decrease the level of a signal.
+AUXILIARY SEND
+Level control feeding a dedicated bus for driving external effects or
+a foldback monitoring system. An output from the console
+comprising a mix of signals from channels derived independently of
+the main stereo/group mixes. Typically the feeds to the mix are
+implemented on rotary level controls.
+BACK-LINE
+Stage parlance for the row of instrument amplifiers and loudspeaker
+cabinets behind the performers, e.g. guitar amps.
+BALANCE
+Relative level of the left and right channels of a stereo signal.
+BALANCED
+A method of audio connection which ‘balances’ the signal between
+two wires and a screen which carries no signal. Any interference is
+picked up equally by the two wires, through common mode
+rejection at the destination differential balanced input resulting in
+cancellation of the interference signal. For balancing to be effective,
+both the sending and receiving device must have balanced output
+and input stages respectively.
+BANDWIDTH
+A means of specifying the range of frequencies passed by an
+electronic device such as an amplifier, mixer or filter.
+BARGRAPH
+A row of LEDs calibrated to indicate signal level.
+BOOST/CUT CONTROL
+A single EQ control which allows the range of frequencies passing
+through its filter to be either amplified or attenuated. The centre
+position is usually the ‘flat’ or ‘neutral’ position.
+BUS or BUSS
+A defined set of conductors along which signals may travel. A mixer
+has several busses carrying the stereo mix, the groups, the PFL
+signal, the aux sends, etc. 
+CAPACITOR
+See Condenser
+CARDIOID PATTERN
+The ‘heart-shaped’ polar response of a microphone meaning that
+most of the sound is picked up from the front. Mainly used for
+stage vocals or in any situation were sound has to be picked up
+from a concentrated area, i.e. drums.
+CHANNEL
+A strip of controls in a mixing console relating to a single mono
+input or a stereo input.
+CHIP
+Integrated circuit; a multi-pinned device consisting of many circuits
+encapsulated in plastic. 
+CHORUS
+Effect created by doubling a signal and adding delay and pitch
+modulation.
+CLIPPING
+Severe form of audio distortion which is the result of signal peaks
+exceeding the amplifier capacity. Normally caused by a limitation of
+the unit’s power supply.
+CLONE
+Exact duplicate. Often refers to digital copies of digital tapes.
+CONDENSER
+Electrical component exhibiting capacitance (the ability to
+temporarily store electric current) and block direct current.
+CONDENSER MICROPHONE
+A type of microphone which picks up sound via a thin, flexible
+diaphragm placed in proximity to a metal plate - as opposed to the
+rigid diaphragm-and-coil system used by dynamic microphones.
+Condenser mics are very sensitive, especially to distant sounds and
+high frequencies. They have to be powered, which can be achieved
+by batteries, but for professional use a 48v DC PHANTOM
+POWER supply is provided from the console via the balanced mic
+cable.
+CONDUCTOR
+A thing that conducts or transmits heat or electricity.
+COMPRESSOR
+A device designed to control or reduce the dynamic range of an
+audio signal.
+SECTION 8: Glossary
+32
+
+CROSSOVER
+A passive circuit, normally built into a speaker system which
+divides the full-range audio signal from an amplifier in order to
+feed the individual drive units, ie: bass, midrange and treble.
+CUEING
+To put a piece of equipment in readiness to play a particular part of
+the recording material. Assisted on a mixing console by use of the
+PFL (Pre-Fade LIsten) facility.
+CUT-OFF FREQUENCY
+The frequency at which the gain of an amplifier or filter has fallen
+by 3dB.
+DAT (DIGITAL AUDIO TAPE)
+High quality cassette based recording format which stores signals
+digitally and therefore provides very high quality sound. Originally
+touted for consumer use, but now firmly ensconced as a
+professional tool.
+dB (DECIBEL)
+A ratio of two signal levels. Can be in Voltage, Watts or Current
+units.
+dBm
+Variation on dB referenced to 0dB = 1mW into 600 ohms.
+dBu
+Variation on dB referenced to 0dB = 0.775 volts.
+dBV
+Variation on dB referenced to 0dB = 1 Volt.
+DETENT
+In audio terms a click-stop in the travel of a rotary or slide control,
+normally used to indicate ‘centre stereo’ on pan-pots or ‘zero
+boost/cut’ on EQ controls.
+DI BOX
+A device allowing connections as explained below.
+DI (DIRECT INJECTION)
+The practice of connecting an electric musical instrument directly
+to the input of the mixing console, rather than to an amplifier and
+loudspeaker which is covered by a microphone feeding the console.
+DIGITAL DELAY
+The creation of delay and echo effects in the digital domain.The
+premise being that, as digital signals are resistant to corruption, the
+process will not introduce additional noise or distortion.
+DIGITAL REVERB
+Reverberation effects created as above.
+DIGITAL
+The processing and storage of signals with sound- information
+represented in a series of ‘1s’ and ‘0s’, or binary digits. 
+DIRECT OUTPUT
+A pre-/post-fade, post-EQ line level output from the input channel,
+bypassing the summing amplifiers, typically for sending to
+individual tape tracks during recording. 
+DRY
+Slang term for an original audio signal that has had no added
+effects. 
+DYNAMIC RANGE
+The ratio in decibels between the quietest and loudest sounds in
+the audible range that the audio equipment will reproduce.
+DYNAMIC MICROPHONE
+A type which uses a thin diaphragm attached to a coil of wire
+arranged about a permanent magnet. Any variation in air pressure
+on the diaphragm will cause the coil to generate a minute electric
+current which then requires amplification.
+EARTH
+See GROUND.
+EFFECTS
+The use of devices to alter or process the sound to add special
+effects eg; reverb, normally as a mix of the original (‘dry’) sound
+and the treated (‘wet’) version.
+EFFECTS RETURN
+Additional mixer input designed to accommodate the output from
+an effects unit.
+EFFECTS LOOP
+Connection system that allows an external signal processor to be
+connected into the audio chain.
+EFFECTS SEND
+A post-fade auxiliary output used to add effects to a mix.
+ELECTRET MICROPHONE
+Type of condenser microphone using a permanently charged
+capsule.
+ELECTRONIC CROSSOVER
+An active device which divides the full range audio signal into
+several narrower frequency bands (eg:low, mid and high), which are
+then amplified and fed to the appropriate speaker drive units.
+ENCLOSED HEADPHONES
+Types that completely enclose the ears and therefore provide good
+exclusion of outside noise. Of particular use when monitor mixing
+or recording live on stage. 
+EQ
+Abbreviation for equaliser or equalisation.
+EQUALISER
+A device that allows the boosting or cutting of selected bands of
+frequencies in the signal path.
+EXPANDER
+The opposite of a compressor, an expander increases the dynamic
+range of signals falling below a pre-determined threshold. 
+FADER
+A linear control providing level adjustment. Favoured by
+professionals due to smoothness of activation and the ability to give
+an instant visual indication of status.
+SECTION 8: Glossary
+33
+
+FILTER
+A filter is a device or network for separating waves on the basis of
+their frequencies.
+FOH
+An acronym for Front Of House. In the entertainment world
+"House" is a collective term for the audience at a theatre, cinema,
+etc. Hence an FOH console will be situated "audience-side" of the
+stage. A "house" PA system refers to the main audio system
+responsible for the principal sound in the venue.
+FOLDBACK
+A feed sent back to the artistes via loudspeakers or headphones to
+enable them to monitor the sounds they are producing.
+FOLDBACK SEND
+A pre-fade auxiliary output used to set up an independent monitor
+mix for the performers.
+FREQUENCY RESPONSE
+The variation in gain of a device with frequency.
+FSK (Frequency Shift Keying)
+A method of synchronisation which generates a series of electronic
+tones related to the tempo of the music. These tones may then be
+record on a spare track of the multitrack recorder.
+FX UNIT
+Slang term for Effects Unit. Typical effects units are delays, reverbs,
+pitch shifters, and chorus units.
+GAIN
+Gain is the factor of how much the level of a signal is increased or
+amplified. Normally expressed in decibels.
+GATE
+A user-adjustable electronic device that switches off the signal path
+when the signal falls below a certain predetermined level or
+threshold.
+Typically used to ensure silence between pauses in the signal during
+vocal passages or to prevent ‘spill’ between the close-proximity,
+multiple mics on a drum kit.
+GRAPHIC EQUALISER
+Device incorporating multiple narrow-band circuits allowing boost
+and cut of predetermined frequencies. Vertical fader controls are
+used which provide a ‘graphic’ representation of the adjustments
+across the frequency range.
+GROUND COMPENSATION
+A technique used to cancel out the effect of ground loops caused by
+connections to external equipment.
+GROUND
+Ground and Earth are often assumed to be the same thing, but
+they are not. Earth is for electrical safety, while Ground is the point
+of zero voltage in a circuit or system. 
+GROUND LOOP
+A ground loop occurs when there are too many ground points,
+allowing small electrical currents to flow. 
+GROUP
+An output into which a group of signals can be mixed.
+HEADROOM
+The available signal range above the nominal level before clipping
+occurs.
+HERTZ (Hz)
+Cycles (or vibrations) per second.
+HIGH PASS FILTER
+A filter that rejects low frequencies below a set frequency, typically
+100Hz.
+IMPEDANCE
+The AC resistance of a circuit which has both resistive and reactive
+components.
+IMPEDANCE BALANCING
+A technique used to minimise the effect of hum and interference
+when connecting to external balanced inputs.
+INDUCTOR
+Reactive component that presents an increasing impedance with
+frequency. A coil in a loudspeaker crossover is an inductor.
+INSERT POINT
+A break point in the signal path to allow the connection of external
+devices, for example signal processors or to another mixer.
+K OHM, K Ωor kHz
+x 1000 ohms, x 1000 ohms and x 1000Hz respectively.
+LINE LEVEL
+Signals at a nominal level of -10dBV to +4dBu, usually coming
+from a low impedance source such as keyboards, drum
+machines,etc.
+mA (milliampere)
+One thousandth of an ampere, a measure for small electrical
+currents.
+MIC SPLITTER
+A device which divides the output from a microphone in order to
+supply two signals, for example; FOH console and recording mixer
+or monitor console.
+MIDBAND
+The range of frequencies to which the human ear is most sensitive.
+MIDI
+Musical Instrument Digital Interface. 
+MIXDOWN
+The process of taking the outputs from a multitrack recorder,
+processing as required and combining all elements to create a stereo
+‘master’.
+MONITOR LOUDSPEAKER
+Any high quality loudspeaker which is used to check the quality or
+status of the signal.
+MTC (MIDI Time Code)
+An interpretation of SMPTE allowing the time code to come in as
+part of the MIDI data stream.
+MULTICORE
+A cable with multiple cores allowing signals to be carried
+independently but within the same physical outer casing.
+SECTION 8: Glossary
+34
+
+MUTE GROUPS
+A method of combining the on/off status of a selection of channels
+under a single control button.
+NEARFIELD MONITOR
+A high quality, compact loudspeaker designed for use at a distance
+of three to four feet from the operator. Their use ensures that
+detrimental room effects are minimised.
+NORMALISE
+A socket is said to be normalised when it is wired in such a way
+that the original signal path is maintained unless a plug is inserted
+into the socket. The most common examples of normalised
+connectors are the INSERT POINTS found on mixing consoles.
+OSCILLATOR
+A tone generator for test and line-up purposes.
+OVERDUB
+To add another part to a multitrack recording or replace one of the
+existing parts.
+OVERLOAD
+To exceed the operating capacity of an electronic or electrical
+circuit.
+PAN (POT)
+Abbreviation of ‘panorama’: controls levels sent to left and right
+outputs. Allows positioning of signals within the stereo sound stage.
+PARAMETRIC EQUALISER
+A graphic equaliser in which the cut/boost, frequency and
+bandwidth are all adjustable.
+PASSIVE
+A circuit or component which does not amplify the signal or is not
+powered.
+PATCH BAY
+A system of panel mounted connectors used to bring inputs and
+outputs to a central point from where they can be routed using
+plug-in patch cords.
+PATCH CORD
+Short cable used with patch bays.
+PEAKING
+A signal of the maximum displacement from its mean (average)
+position.
+PHANTOM POWER
+The +48v DC voltage applied equally to the two signal pins of a
+balanced mic input to provide powering for condenser
+microphones.
+PHASE
+Phase is the fraction of the whole period that has elapsed, measured
+from a fixed datum. A term used to describe the relationship of two
+audio signals: in-phase signals reinforce each other, out-of-phase
+signals result in cancellation.
+PHONO PLUG
+A hi-fi connector developed by RCA and used extensively on semipro recording equipment.
+POLARITY
+The orientation of the positive and negative poles of an audio
+connection. Normally, connections are made positive to positive,
+negative to negative and this would ensure correct polarity. If this is
+reversed the result will be out-of-phase signals (see PHASE above).
+POP SHIELD
+A device used in the studio, consisting of a thin mesh placed
+between the microphone and vocalist in order to reduce the
+‘explosive’ effects of ‘P’ and ‘T’ sound
+POST-FADE
+The point in the signal path after the channel or master fader and
+therefore affected by fader position.
+PRE-FADE LISTEN (PFL)
+A function that allows the operator to monitor the pre-fade signal
+in a channel before it reaches the main mix.
+PRE-FADE
+The point in the signal path before the monitor or master position
+and therefore unaffected by the fader setting.
+PROCESSOR
+A device which affects the whole of the signal passing through it,
+e.g. gate, compressor or equaliser.
+Q (Bandwidth)
+A measure of the sharpness of a bandpass filter. The higher the
+value of Q, the narrower the band of frequencies that passes
+through the filter.
+RESISTANCE
+Opposition to the flow of electrical current.
+REVERB
+Acoustic ambience created by multiple reflections in a confined
+space. A diffuse, continuously smooth decay of sound.
+RINGING OUT
+The process of finding the problem frequencies in a room by
+steadily increasing the gain of the system until feedback occurs. A
+GRAPHIC EQUALISER is then used to reduce the offending
+frequencies.
+ROLL-OFF
+A fall in gain at the extremes of the frequency response. The rate at
+which a filter attenuates a signal once it has passed the filter cut-off
+point.
+SEQUENCER
+Computer-based system for the recording, editing and replay of
+MIDI music compositions.
+SHELVING
+An equaliser response affecting all frequencies above or below the
+break frequency i.e. a high-pass or low-pass derived response.
+SHORT CIRCUIT
+The situation where two electrical conductors touch.
+SIBILANCE
+n. sounding with a hiss. When certain phonics are exaggerated, ie:
+s, sh.
+SECTION 8: Glossary
+35
+
+SIGNAL
+Electrical representation of input such as sound.
+SIGNAL CHAIN
+The route taken by a signal from the input to a system through to
+its output.
+SIGNAL-TO-NOISE RATIO
+An expression of the difference in level between the audio signal
+and the background noise of the device or system. Normally
+expressed in decibels.
+SMPTE (Society of Motion Picture and Television
+Engineers)
+Time code developed for the film industry but now extensively
+used in music and recording. SMPTE is a real-time code and is
+related to hours, minutes, seconds and film or video frames rather
+than to musical tempo.
+SOLO-IN-PLACE
+A function that allows the operator to listen to a selected channel
+on it's own but complete with all relevant effects, by automatically
+muting all other inputs.
+SOUNDCRAFT
+The name found on some of the best-value professional audio
+equipment around.
+SOUND REINFORCEMENT
+The process of amplifying or reinforcing on-stage sound (whether
+from already-amplified or acoustic instruments/voices) without
+overpowering the original sound. Suitable for smaller venues and
+often used solely to raise the level of the vocals above the back line
+and drums.
+SPL (Sound Pressure Level)
+Intensity of sound measured in decibels.
+STEREO
+Two channel system feeding left and right speakers to create the
+illusion of a continuous sound field. Stereo: from the Greek word
+for ‘solid’.
+STEREO RETURN
+An input designed to receive any stereo line level source such as the
+output of effects or other external processing devices.
+STRIPE
+To record time code onto one track of a multitrack tape machine.
+SWEEP EQ
+An equaliser section (e.g. Midband EQ) which boosts or cuts a
+variable rather than fixed frequency.
+TALKBACK
+A system allowing the operator to speak to the artistes or to tape via
+the auxiliary or group outputs.
+TAPE RETURN
+A line level input provided specifically to receive the playback
+output of a tape machine.
+TRANSIENT
+An instantaneous rise in the signal level e.g. a cymbal crash or
+similar.
+TRIM CONTROL
+A variable control which gives adjustment of signal level over a
+limited and predetermined range usually for calibration purposes.
+TRS JACKS
+A 3-pole jack with Tip, Ring and Sleeve connection. Sometimes
+referred to as a stereo or A-gauge jack plug.
+UNBALANCED
+A method of audio connection which uses a single signal wire and
+the cable screen as the signal return.This method does not provide
+the same degree of noise immunity as a BALANCED connection.
+WET
+Slang term for a signal with added effects such as
+REVERBERATION, ECHO, DELAY or CHORUS.
+Y-LEAD
+A lead split so that one source can feed two destinations. Y-leads
+may also be used in console insert points in which case a stereo jack
+plug at one end of the lead is split into two mono jacks at the
+other.
+2-TRACK RETURN
+A line level stereo input on a mixing console designed to accept the
+output from a 2-Track recording device. May also be used as an
+additional effects return, depending on the internal routing of the
+mixer.
+SECTION 8: Glossary
+36
+
+37
+3
+1 2
++48V
++48V
++48V
+MIC
+INPUT
+LINE
+INPUT
+DIRECT
+OUTPUT
+POWER
+MIX /
+SUB
+2 TRK
+MIC/LINE
+GAIN
+AUX1
+AUX1
+AUX2
+AUX2
+AUX3
+AUX3
+PAN
+FADER
+PFL / ENABLE
+ON
+PRE
+POST
+DIRECT
+PRE / POST
+CH. 1 - 8 ONLY
+MIX /
+SUB
+MIX /
+SUB
+EQ
+L
+L
+INSERT
+HIGH PASS
+FILTER
+100Hz
+AUX BUSSES
+MIX LEFT BUS
+MIX RIGHT BUS
+SUB LEFT BUS
+SUB RIGHT BUS
+PFL/AFL BUS
+MIX RIGHT
+MIX LEFT
+INSERT
+INSERT
+MIX
+RIGHT
+MIX
+LEFT
+FADER
+FADER
+MONO INPUTS 1 - 12
+MASTER
+STEREO INPUTS 15/16
+(19/20 SIMILAR)
+L
+R
+PFL /
+ENABLE
+ON
+HF & LF
+EQ
+HF & LF
+EQ
+BAL
+FADER
+PFL/AFL
+PHONES
+C/RM L
+C/RM R
+L METER/
+PFL/AFL
+PHONES
+R METER/
+PFL/AFL
+PFL
+ENABLE
+AUX1
+(AUX 3 SIMILAR)
+AUX2 PRE
+AUX2 POST
+AUX1
+( 3 )
+AUX2
+AFL
+AFL
+AUX2
+POST /
+PRE
+MONO
+OUT
+MONO
+2 TRACK
+R
+L
+MIX /
+SUB
+STEREO INPUTS 13 - 20
+STEREO INPUTS 13/14
+(17/18 SIMILAR)
+R
+L
+SUB
+TO MIX
+MIX L
+MIX R
+SUB LEFT
+OUT
+FADER
+SUB LEFT
+SUB RIGHT
+OUT
+FADER
+SUB RIGHT
+A Typical Block Diagram (Spirit SX shown)
+
+Notes
+38
+
+Notes
+39
+E&OE. All contents © 2001 Soundcraft. No part of this publication may be copied, transmitted or stored electronically or otherwise for commercial gain, although the
+copyright holder will allow copying and distribution for personal or non-profit use.
+
+40
