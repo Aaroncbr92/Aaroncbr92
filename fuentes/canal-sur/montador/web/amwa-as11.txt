@@ -1,0 +1,66 @@
+ 
+ -->
+ AS-11 | AMWA – home of JT-DMF & NMOS 
+ top of page 
+ Specs
+ Contact
+ JT-DMF
+ JT-DMF 
+ DMF Supporters 
+ DMF Supporter – Apply 
+ NMOS
+ Getting Started with NMOS 
+ What's NMOS 
+ NMOS Course 
+ NMOS for Pro AV and IPMX 
+ NMOS FAQs 
+ NMOS Specs 
+ NMOS-controlled Products 
+ Specs
+ AS-11 Specs 
+ NMOS Specs 
+ Join
+ Why Join AMWA? 
+ Join-Principal 
+ Join-General 
+ Join-Associate 
+ Join-Individual 
+ Contact
+ Blog
+ About
+ Members
+ AAF
+ MXF
+ Agile Media
+ Certification
+ Developers
+ Reference
+ Brochures
+ Videos
+ Logos
+ Bylaws and Policies
+ Policy Docs
+ Licenses
+ ...
+ Use tab to navigate through the menu items.
+ Join 
+ JT-DMF and NMOS
+open specifications and collaboration 
+ AS-11: Media Contribution File Formats
+ ​ 
+ The AMWA AS-11 family of Specifications define constrained media file formats (based on MXF) for the delivery of finished media assets to a broadcaster or publisher.  Each Specification is developed for a particular business purpose.
+ The AS-11 Overview GitHub project is used to host additional resources for all the AS-11 Specifications including an issue tracker, sample files, tools, and more information.
+ ​ 
+ History of AS-11 development 
+ The AS-11 UK DPP HD & SD Specifications are well established for the delivery of finished programs to media companies within the UK.
+ Traditionally, AMWA Specifications have been text-based.  While being easily human-readable, they do not support automated processes or allow the Specification to be quickly and efficiently adapted for new users.  This has led to the development of Rules-based, machine-readable Specifications.  Building blocks (“rules”) for all the video, audio, metadata, etc aspects are combined into the final Specification.  Human-readable descriptions can be generated automatically from the machine versions, and these building blocks can be re-used in other Specifications.
+ This new approach has proven especially valuable as the AS-11 family of Specifications has been extended to accommodate the needs of new international users.  New specifications have been created to:
+ Meet the requirements of broadcasters in the Nordic countries, Australia and New Zealand, as well as broadcasters represented by the North American Broadcasters Association (NABA) and the DPP
+ Add support for UHD and HDR content
+ Cater for delivery of short-form content in addition to full-length programs (such as commercials, promotions, and music videos)
+ ​ ​
+ PRIVACY NOTICE | SITE MAP  
+ Copyright © 2026 AMWA – Advanced Media Workflow Association. All rights reserved.
+ Stay in touch! Sign up for AMWA enews here. 
+ bottom of page 
+

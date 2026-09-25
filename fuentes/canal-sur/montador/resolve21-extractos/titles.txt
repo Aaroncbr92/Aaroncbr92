@@ -1,0 +1,298 @@
+
+[[p1212]]
+Chapter 56
+Titles, Generators, 
+and Stills
+Using the Edit page, you can add titles, effects generators, and stills to your 
+timelines. You can also save customized titles, generators, and stills back to the 
+Media Pool for future use.
+Contents
+Adding Titles................................................................... 1213
+Using Safe Area Overlays........................................ 1214
+Custom Action and Title Safe Areas.................... 1215
+Toggle Extents for 
+Selected Safe Area Overlays.................................. 1215
+Types of Title Generators......................................... 1215
+Font Browser.................................................................. 1216
+Show Font Previews Preference........................... 1217
+Spell Checking for all Text Elements................. 1218
+Emoji and Color Fonts 
+for Text+ and MultiText.............................................. 1219
+DaVinci Resolve Title Generators........................ 1219
+Editing Titles Within the Timeline Viewer......... 1219
+Title Generator Panels..............................................  1220
+Shared Title Generator Parameters..................... 1221
+Title Generator Settings Parameters................. 1222
+The Text+ Title Generator....................................... 1223
+Text+ Viewer Controls............................................... 1225
+Fusion Titles and Fusion Templates................... 1226
+MultiText Titles.............................................................. 1227
+Saving Titles in the 
+Media Pool for Future Use...................................... 1229
+Using Generators........................................................ 1229
+ITU-R BT.2111-1 Color Bar Generators...............  1230
+Fusion Generators........................................................ 1231
+Using Stills...................................................................... 1232
+Viewer Updates to Still Images 
+by other Applications................................................. 1232
+Photoshop File Support............................................ 1234
+1212
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1213]]
+Adding Titles
+There’s a collection of titles and generators in the Toolbox that you can use to create leader 
+when outputting to tape, add slates, create subtitles, and otherwise fulfill any textual needs your 
+program has.
+To select and audition titles before you place them into the Timeline, ensure that “Hover Scrub 
+Preview” is checked in the Titles option menu, then simply hover your pointer over any thumbnail 
+in the Titles tab. If the title is animated (i.e., Fusion titles), moving the pointer across the thumbnail 
+will preview the animation. Once you’ve chosen your title, you can drag it from the Titles tab to your 
+Timeline in the Edit page or in the Cut page to either the upper or lower Timelines, or use the editing 
+selection modes at the bottom of the tab.
+Scrubbing over a Title Thumbnail previews the title in the Viewer.
+Titles and generators can be edited much like any other clip. Furthermore, when selected, both titles 
+and generators expose the same Composite, Transform, and Cropping parameter groups as any other 
+clip; these parameters can be used to composite titles and fly them around in order to create different 
+text effects.
+Methods of adding and editing generators and titles:
+	 To drag and drop a generator directly into the Timeline: If you simply drag and drop titles or 
+generators into the Timeline, the default duration of the resulting clip is 5 seconds. This duration 
+can be customized in the Edit panel of the User Preferences.
+	 To edit a generator using the edit overlays of the Timeline Viewer: Click the destination control 
+of the clip you want to edit a generator into, then set Timeline In and Out points to define the 
+duration of the resulting edit, and drag the generator you want to edit onto the edit overlay of the 
+Timeline Viewer that corresponds to the type of edit you want to perform.
+	 To reposition the text of a title in the Timeline Viewer: Select the title generator you want to 
+edit in the Timeline, then click the visible text in the Timeline Viewer so that its bounding box is 
+selected; in this state you can reposition, scale, and rotate the text item. As you reposition text, it 
+will snap to key regions of the frame such as the vertical and horizontal center of the Viewer; hold 
+the Option key down to suspend snapping if you want to freely position the text.
+	 To edit the text of a title in the Timeline Viewer: Select the title generator you want to edit in 
+the Timeline, then double-click the visible text in the Timeline Viewer to insert a text editing 
+cursor. At this point, you can select, delete, or add any text you want by typing directly in the 
+Timeline Viewer.
+	 To edit the parameters of a generator or title: Open the Inspector, and select the generator or 
+title you want to edit to open it into the Inspector.
+1213
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1214]]
+Using Safe Area Overlays
+This drop-down menu overlays many useful framing guides over the Viewer to let you see what part of 
+the image will be included and what will part will be cropped out if you change the Timeline’s aspect 
+ratio. The framing guides can be turned on and off by toggling the Safe Area Framing Guide icon in the 
+Viewer, and the exact guides can be selected in the drop-down menu.
+	 Social Media: 1:1, 4:5, 9:16, 1.91:1, 16:9.
+	 Broadcast and Film: Default (your current timeline aspect ratio), 1.33, 1.66, 1.77, 1.85, 2.35.
+	 Safe Area Guides: These options add additional guide lines on the Viewer to protect your 
+composition from possibly being cut off at the extreme edges of a physical cathode ray tube. 
+While somewhat anachronistic in this age of flat screen digital televisions, many legacy programs 
+still adhere to these guidelines. Safe Areas still can be useful guides in ensuring your image is not 
+inadvertently cropped by the variety of mobile devices and social media sites in use today.
+Action: Keep all movement and important action within this box.
+Title: Keep all on screen text within this box.
+Center: Designates the exact middle of the image.
+The Safe Area Framing Guide icon (circled) 
+and the possible framing options
+The safe area overlays
+1214
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1215]]
+Custom Action and Title Safe Areas
+The Editing panel of the User Preferences has a new “Use custom safe area overlays” checkbox that, 
+when turned on, displays Action Area and Title Area fields that let you set a custom percentage for 
+each. The default values are 93% for Action Area and 90% for Title Area. 
+Toggle Extents for Selected Safe Area Overlays
+You can toggle the Extents Safe Area overlay on or off, in addition to the Action, Title, and Center 
+overlays. You can access this features at View > Safe Area > Extents.
+Types of Title Generators
+When opened into the Inspector, titles expose a set of text parameters that allow you to style the 
+contents of that clip’s Text field within the Inspector. Each of the titles supports rich text, so you can 
+individually style words, lines, or paragraphs of text using the available parameters including Color, 
+Font, and Size. Other attributes such as Alignment, Anchor, Position, and Shadow affect the entire title.
+The following titles are available:
+	 L Lower 3rd: (supports rich text) Automatically positions two lines of text at the bottom left 
+corner of title safe, each with a different set of rich text and Position/Zoom/Rotation controls for 
+independent sizing and animating.
+	 M Lower 3rd: (supports rich text) Automatically positions two lines of text at the bottom middle of 
+title safe, each with a different set of rich text and Position/Zoom/Rotation controls for independent 
+sizing and animating.
+	 R Lower 3rd: (supports rich text) Automatically positions two lines of text at the bottom right 
+corner of title safe, each with a different set of rich text and Position/Zoom/Rotation controls for 
+independent sizing and animating.
+	 Scroll: (supports rich text) Automatically automates a scrolling title sequence from the bottom to 
+the top of the screen. The duration of the generator clip in the Timeline determines the speed of 
+the scroll. Identical parameters as the Simple title.
+	 Text: (supports rich text) Useful for creating titles consisting of a word, line, or paragraph of text. 
+A single body of text shares one set of rich text controls that let you style selected parts of the title 
+text differently.
+	 Text+: (does not support rich text) An advanced title generator based on the title generation 
+tools on the Fusion page. This generator has significantly more options for styling, rendering, and 
+animating than the simple title generator above, but all title text shares a single style.
+	 Fusion Titles: A variety of pre-built title templates assembled in Fusion. DaVinci Resolve comes 
+with a library of pre-assembled Fusion titles, but you can also create your own to appear in this 
+category of the Effects browser.
+1215
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1216]]
+Font Browser
+When selecting and choosing a font for text-based elements, you can opt to show an expanded Font 
+Browser. This expands and emphasizes the text faces, making it easier to choose the perfect font.
+To launch the Font Browser, click on the icon located next to the font selection box in various tools.
+The Font Browser can be launched by clicking on its icon (circled red).
+The Font Browser presents a detailed view of your installed fonts. To pick one, simply click on it in the 
+Font Browser, then press the Select button. That font will now be loaded in the font selection field of 
+your tool.
+The Font Browser in Thumbnail View.
+1216
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1217]]
+When you click on a font, you are actually selecting the entire font family. If the family has multiple 
+styles in thumbnail mode, you can cycle through each font iteration by clicking on the left and right 
+arrows. In List view, there is a disclosure triangle near the font name that will show them all. There is 
+also a star icon that can be clicked in the upper right of the font face, which will add the selected font 
+to your Favorites tab.
+With the Font Family selected, you can navigate 
+each iteration by clicking on the left and right arrows. 
+To add a font to your Favorites tab, clicking on the 
+star in the upper right corner of each font box.
+The Font Browser is resizable, and includes a simple toolset to help you identify the perfect font.
+The Font Browser Toolbar.
+	 All Fonts: Click this tab to show all installed fonts on your machine.
+	 Favorites: Click this tab to show only fonts that you have favorited.
+	 Scale: This slider increases or decreases the size of the font boxes.
+	 Thumbnail View: Presents fonts in a series of square thumbnails.
+	 List View: Presents fonts in a series of long rectangles.
+	 Search Bar: Use this field to search for a specific font. You can also search for its partial name. For 
+example, you could search for “Proxima Nova”, or simply “Nova”.
+	 Light / Dark Mode: Light mode activates dark text on a white background, while dark mode 
+activates white text on a dark background.
+	 Filter: Lets you filter fonts by classification and weight parameters such as serif, monospaced, 
+extra bold, and so on.
+	 Option Menu: Choose the following options:
+Display Default Text: Displays “The Quick Brown Fox…” text string in the font windows.
+Display User Custom Text: Lets you enter custom text to display in the font windows.
+Reset User Custom Text: Resets any custom text that has been entered.
+Show Font Previews Preference
+For a quicker view of the different typefaces, Preview Fonts preference is useful.
+By default, Preview Fonts displays an expanded window with the font name and its corresponding 
+typeface. Selecting a font from this window will insert it into the Font Field in a variety of text tools.
+1217
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1218]]
+To disable this behavior, go to DaVinci Resolve > Preferences > User > UI Settings and uncheck the 
+Show font previews box.
+Choosing a font with the Show font previews preference turned on.
+Spell Checking for all Text Elements
+As a nice quality-of-life improvement for the orthographically challenged, DaVinci Resolve now 
+includes a multi-language text spell checker. Any misspelled words are highlighted red in both the 
+viewer and inspector. To preview suggested fixes or ignore the typo, right-click on the word. 
+Misspelled words are underlined in red. Right-click on an underlined word for 
+suggested fixes, and an option to ignore the suggestion.
+1218
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1219]]
+There is also an associated preference set for Spell Checking in DaVinci Resolve > Preferences > 
+User > Language and Spelling.
+	 Spelling and Formatting Tool: Lets you modify the spell checker.
+Spelling Check: Check this box to turn on or off the spell checker throughout DaVinci Resolve.
+Ignore Words: Opens a text box where you can add words to the spell checker’s ignore list.
+Ignore words with numbers: Will not flag a misspelled word if it includes numbers.
+Ignore words with ALL CAPS: Will not flag a misspelled word if it includes all capital letters.
+TIP: You can toggle off all red underlines in the viewer to ensure clean previews by 
+selecting View > Show Spelling Errors on Viewer.
+Emoji and Color Fonts 
+for Text+ and MultiText
+Emoji support is included for both Text+ and MultiText, giving you the flexibility to add expressive 
+icons and visual accents directly within your text for more dynamic and engaging designs.
+You can add emoji directly into the text fields by pressing Control-Command-Space on 
+macOS, and Windows key-. (period) on Windows.
+In addition, Text+ and MultiText features a more robust font support, with improved support 
+for color fonts, bitmap fonts, and font styles. With supported color fonts, the Text+ inspector 
+shows additional controls for Color Palettes under Advanced Controls, where you can select 
+display options for the font.
+DaVinci Resolve Title Generators
+The original title generators that shipped with DaVinci Resolve all share similar controls, and they all 
+share the ability to support rich text styling.
+Editing Titles Within the Timeline Viewer
+Once you add a title generator to the Timeline, the original title generators that shipped with DaVinci 
+Resolve have onscreen controls that let you edit text and transform and position blocks of text directly 
+within the Timeline Viewer.
+Positioning and Transforming Text
+So long as the Timeline playhead is positioned over a text generator that’s on top of one or more 
+background clips, clicking on the text in the Timeline Viewer reveals onscreen transform controls that 
+correspond to the Position, Zoom, and Rotation parameters in the Inspector.
+1219
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1220]]
+Drag the text to position it in the Viewer
+While dragging text to reposition it, snapping occurs at the X and Y center of the frame, as well 
+as around the outer third of the frame. Holding the Shift key down while dragging a text object 
+constrains movement to just the X or Y axes.
+Editing Text
+Double-clicking on text in the Timeline Viewer puts that text into an editable state, wherein you can 
+insert a text cursor or select characters to edit the text as you would in any text editor.
+Double-click on the text to edit it in the Viewer
+Title Generator Panels
+The parameters of text generators are divided into two panels in the Video Inspector: the Title panel 
+and the Settings panel. 
+	 The Title panel contains all of the text editing, styling, and sizing controls used to edit the contents 
+and look of a title in your project, including the Rich Text, Drop Shadow, Stroke, and Background 
+parameters.
+	 The Settings panel contains the same Composite, Transform, and Cropping parameters that 
+all other clips in DaVinci Resolve have. These parameters are intended for compositing and 
+animating a title.
+1220
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT
+
+[[p1221]]
+Shared Title Generator Parameters
+With the exception of the Text+ generator, all other title generators in DaVinci Resolve are capable 
+of rich text styling. This means you can select any portion of a generator’s text and style it differently. 
+For example, you could have three lines of text within a single generator and style each line 
+individually to create a particular design.
+A single generator with three lines of differently styled text
+Each title generator shares the same parameters in the Video Title panel of the Inspector for editing 
+and styling text:
+	 Rich Text: A control group consisting of a text entry field and parameters that can be used to style 
+different parts of the text independently.
+Text: A text entry field for editing the title being generated. If no characters are selected, the 
+styling controls affect the entire block of text. If you select a specific set of characters, the 
+styling controls only affect the selection. Text in this field can also be edited directly in the 
+Timeline Viewer.
+Font family: A pop-up for choosing one of the font families installed on your workstation.
+Font face: A pop-up for choosing which face of the font family currently selected to use.
+Color: Opens the standard color picker for choosing a font color.
+Size: Slider for choosing the text size.
+Tracking: Slider that sets the spacing between characters.
+Line spacing: Slider for setting the spacing between the selected line of text and the 
+next one below.
+Font style: Buttons to apply underline, overhead line, strikethrough, superscript, 
+and subscript styling.
+Font case: A pop-up for forcing the text selection to be Mixed Case (the default), All Caps, All 
+Lowercase, Small Caps, or Title Caps.
+Alignment: Buttons to select the method of alignment: left, centered, right, or justified.
+Anchor: Buttons for selecting how text is anchored to the current position, both horizontally (top, 
+centered, bottom) and vertically (right, centered, left).
+Position: X and Y parameters determining the bottom left-hand corner (the default Anchor 
+settings) of the rich text block being generated. Corresponds to the act of dragging a selected text 
+box in the Timeline Viewer.
+1221
+Editing Effects and Transitions | Chapter 56 Titles, Generators, and Stills
+EDIT

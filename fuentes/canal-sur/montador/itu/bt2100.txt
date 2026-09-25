@@ -1,0 +1,1386 @@
+  
+International Telecommunication Union 
+Recommendations 
+Radiocommunication Sector 
+ 
+ 
+ 
+ 
+ 
+Recommendation ITU-R BT.2100-3 
+(02/2025) 
+BT Series: Broadcasting service (television) 
+Image parameter values for high 
+dynamic range television for use in 
+production and international 
+programme exchange 
+ 
+ 
+
+ii 
+Rec.  ITU-R  BT.2100-3 
+Foreword 
+The role of the Radiocommunication Sector is to ensure the rational, equitable, efficient and economical use of the radiofrequency spectrum by all radiocommunication services, including satellite services, and carry out studies without limit 
+of frequency range on the basis of which Recommendations are adopted. 
+The regulatory and policy functions of the Radiocommunication Sector are performed by World and Regional 
+Radiocommunication Conferences and Radiocommunication Assemblies supported by Study Groups. 
+Policy on Intellectual Property Right (IPR) 
+ITU-R policy on IPR is described in the Common Patent Policy for ITU-T/ITU-R/ISO/IEC referenced in Resolution 
+ITU-R 1. Forms to be used for the submission of patent statements and licensing declarations by patent holders are 
+available from https://www.itu.int/ITU-R/go/patents/en where the Guidelines for Implementation of the Common Patent 
+Policy for ITU-T/ITU-R/ISO/IEC and the ITU-R patent information database can also be found. 
+ 
+ 
+Series of ITU-R Recommendations  
+(Also available online at https://www.itu.int/publ/R-REC/en) 
+Series 
+Title 
+BO 
+Satellite delivery 
+BR 
+Recording for production, archival and play-out; film for television 
+BS 
+Broadcasting service (sound) 
+BT 
+Broadcasting service (television) 
+F 
+Fixed service 
+M 
+Mobile, radiodetermination, amateur and related satellite services 
+P 
+Radiowave propagation 
+RA 
+Radio astronomy 
+RS 
+Remote sensing systems 
+S 
+Fixed-satellite service 
+SA 
+Space applications and meteorology 
+SF 
+Frequency sharing and coordination between fixed-satellite and fixed service systems 
+SM 
+Spectrum management 
+SNG 
+Satellite news gathering 
+TF 
+Time signals and frequency standards emissions 
+V 
+Vocabulary and related subjects 
+ 
+ 
+Note: This ITU-R Recommendation was approved in English under the procedure detailed in Resolution ITU-R 1. 
+ 
+ 
+Electronic Publication 
+Geneva, 2025 
+ 
+© ITU 2025 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without written permission of ITU. 
+ 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+1 
+ 
+RECOMMENDATION  ITU-R  BT.2100-3 
+Image parameter values for high dynamic range television for use in 
+production and international programme exchange 
+Question ITU-R 142-3/6 
+(2016-2017-2018-2025) 
+TABLE OF CONTENTS 
+ 
+Page 
+Annex 1 (informative) – The relationship between the OETF, the EOTF and the OOTF ...... 
+10 
+Annex 2 (informative) – Parametric representation of electro-optical and 
+opto-electronic transfer functions ................................................................................... 
+13 
+ 
+ 
+ 
+Scope 
+High Dynamic Range Television (HDR-TV) provides viewers with an enhanced visual experience by 
+providing images that have been produced to look correct on brighter displays, that provide much brighter 
+highlights, and that provide improved detail in dark areas. This Recommendation specifies HDR-TV image 
+parameters for use in production and international programme exchange using the Perceptual Quantization 
+(PQ) and Hybrid Log-Gamma (HLG) methods. 
+Keywords 
+High dynamic range, HDR, television, HDR-TV, image system parameters, television production, 
+international programme exchange, wide colour gamut, perceptual quantization, PQ, hybrid 
+log-gamma, HLG 
+The ITU Radiocommunication Assembly, 
+considering 
+a) 
+that digital television image formats for HDTV and UHDTV have been specified by the 
+ITU-R in Recommendations ITU-R BT.709 and ITU-R BT.2020; 
+b) 
+that these television image formats have been limited in the image dynamic range they can 
+provide due to their reliance on legacy cathode ray tube (CRT) characteristics that limit image 
+brightness and detail in dark areas; 
+c) 
+that modern displays are capable of reproducing images at a higher luminance, greater 
+contrast ratio and wider colour gamut than is conventionally employed in programme production; 
+d) 
+that viewers expect future television viewing to provide improved characteristics compared 
+with the current HDTV and UHDTV in terms of a more realistic sensation, greater transparency to 
+the real world and more accurate visual information; 
+e) 
+that high dynamic range television (HDR-TV) has been shown to increase viewer enjoyment 
+of television pictures; 
+
+2 
+Rec.  ITU-R  BT.2100-3 
+f) 
+that HDR-TV provides a “step-change” improvement in viewer experience by means of 
+substantially increased brightness and detail in highlights and diffuse reflecting objects, while 
+providing greater detail in dark areas; 
+g) 
+that the combination of extended dynamic range and extended colour gamut give HDR-TV 
+a substantially larger colour volume; 
+h) 
+that the HDR-TV image formats should have, where appropriate, a degree of compatibility 
+with existing workflows and infrastructure; 
+i) 
+that a reference viewing environment including display parameters should be defined for 
+HDR-TV image formats, 
+further considering 
+that due to rapid developments in HDR technology the ITU may wish to consider early updates and 
+improvements to this Recommendation, 
+recognizing  
+that Report ITU-R BT.2390 contains much information on two methods to achieve HDR-TV, 
+recommends 
+that for programme production and international exchange of HDR-TV, the Perceptual Quantization 
+(PQ) or Hybrid Log-Gamma (HLG) specifications described in this Recommendation should be used. 
+NOTE – The PQ specification achieves a very wide range of brightness levels for a given bit depth 
+using a non-linear transfer function that is finely tuned to match the human visual system. The HLG 
+specification offers a degree of compatibility with legacy displays by more closely matching the 
+previously established television transfer curves. Report ITU-R BT.2390 provides additional 
+information on PQ and HLG, conversion between them, and compatibility with previous systems. 
+TABLE 1 
+Image spatial and temporal characteristics 
+Parameter 
+Values 
+Image Container  1a Shape  
+16:9 
+Container Pixel count  1b  
+Horizontal × Vertical 
+7 680 × 4 320 
+3 840 × 2 160 
+1 920 × 1 080 
+Sampling lattice 
+Orthogonal 
+Pixel aspect ratio 
+1:1 (square pixels) 
+Pixel addressing 
+Pixel ordering in each row is from left to right, and rows  
+are ordered from top to bottom. 
+Frame frequency (Hz) 
+120, 120/1.001,100, 60, 60/1.001, 50, 30, 30/1.001, 25, 24, 24/1.001 
+Image Format 
+Progressive 
+Note 1a – Container is used to define the horizontal and vertical constraints of the image format. 
+Note 1b – Productions should use the highest resolution image format that is practical. It is recognized that in many cases 
+high resolution productions will be down-sampled to lower resolution formats for distribution. It is known that producing 
+in a higher resolution format, and then electronically down-sampling for distribution, yields superior quality than 
+producing at the resolution used for distribution. 
+ 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+3 
+ 
+TABLE 2 
+System colorimetry 
+Parameter 
+Values 
+Optical spectrum 
+(informative) 
+Chromaticity coordinates  
+(CIE, 1931) 
+x 
+y 
+Primary 
+colours 
+Red primary (R) 
+monochromatic 630 nm 
+0.708 
+0.292 
+Green primary 
+(G) 
+monochromatic 532 nm 
+0.170 
+0.797 
+Blue primary (B) 
+monochromatic 467 nm 
+0.131 
+0.046 
+Reference white 
+D65 per 
+ISO 11664-2:2007 
+0.3127 
+0.3290 
+Colour Matching Functions 
+CIE 1931 
+ 
+Table 3 specifies parameters to establish a reference viewing environment for critical viewing of HDR 
+programme material or completed programmes that can provide repeatable results from one facility 
+to another when viewing the same material. Viewing facilities can and will continue to be established 
+in many ways by entities involved in editing, colour correction, screening and the like, and the 
+specifications in this Table are not intended to suggest a need for absolute uniformity in such facilities. 
+TABLE 3 
+Reference viewing environment for critical viewing of HDR programme material 
+Parameter 
+Values 
+Surround and periphery  3a 
+Neutral grey at D65 
+Luminance of surround  
+5 cd/m2 
+Luminance of periphery 
+≤ 5 cd/m2 
+Ambient lighting 
+Avoid light falling on the screen 
+Viewing distance  3b  
+For 1 920 × 1 080 format: 3.2 picture heights 
+For 3 840 × 2 160 format: 1.6 to 3.2 picture heights 
+For 7 680 × 4 320 format: 0.8 to 3.2 picture heights 
+Peak luminance of display  3c 
+≥ 1 000 cd/m2 
+Minimum luminance of 
+display (black level)  3d 
+≤ 0.005 cd/m2 
+Note 3a – “Surround” is the area surrounding a display that can affect the adaptation of the eye, typically the wall or 
+curtain behind the display; “periphery” is the remaining environment outside of the surround. 
+Note 3b – When picture evaluation involves resolution, the lower value of viewing distance should be used. When 
+resolution is not being evaluated, any viewing distance in the indicated range may be used. 
+Note 3c – This is not to imply this level of luminance must be achieved for full screen white, rather for small area 
+highlights.  
+Note 3d – For PQ in a non-reference viewing environment, or for HLG (in any viewing environment), the black level 
+should be adjusted using the PLUGE test signal and procedure specified in Recommendation ITU-R BT.814. 
+ 
+
+4 
+Rec.  ITU-R  BT.2100-3 
+Tables 4 and 5 describe transfer functions for the PQ and HLG formats, respectively. High dynamic 
+range television production and display should make consistent use of the transfer functions of one 
+system or the other and not intermix them. Informative Annex 1 illustrates the meaning of the various 
+transfer functions and where they are used in the signal chain. Informative Annex 2 provides 
+information on alternate equations that could facilitate implementation of these transfer functions. 
+TABLE 4 
+PQ system reference non-linear transfer functions 
+Parameter 
+Values 
+Input signal to PQ electrooptical transfer function 
+(EOTF) 
+Non-linear PQ encoded value. 
+The EOTF maps the non-linear PQ signal into display light. 
+Reference PQ EOTF  4a 
+
+(
+)
+
+
+1
+2
+2
+1
+1
+3
+2
+1
+1
+0,
+max
+10000
+EOTF
+m
+m
+m
+D
+E
+c
+c
+c
+E
+Y
+Y
+E
+F
+
+
+
+
+
+
+
+−
+−
+
+=
+=
+
+=
+ 
+where: 
+E' denotes a non-linear colour value {R', G', B'} or { L', M', S'} in PQ space 
+in the range [0:1] 
+FD is the luminance of a displayed linear component {RD, GD, BD} or YD or 
+ID, in cd/m2.  4b 
+Y denotes the normalized linear colour value, in the range [0:1]  
+m1 = 2610/16384 = 0.1593017578125  
+m2 = 2523/4096  128 = 78.84375  
+c1 = 3424/4096 =0.8359375 = c3 − c2 + 1 
+c2 = 2413/4096  32 = 18.8515625 
+c3 = 2392/4096  32 = 18.6875  
+Input signal to PQ optooptical transfer function 
+(OOTF) 
+Scene linear light. 
+The OOTF maps relative scene linear light to display linear light. 
+Reference PQ OOTF 
+FD = OOTF[E] = G1886 [G709[E]] 
+where: 
+E = {RS, GS, BS; YS; or IS} is the signal determined by scene light and scaled 
+by camera exposure 
+The values E, RS, GS, BS, YS, IS are in the range [0:1]  4c 
+E′ is a non-linear representation of E 
+FD is the luminance of a displayed linear component (RD, GD, BD; YD; or ID) 
+FD = G1886 [G709[E]]  = G1886 E′  
+E′ = G709[E] = 1.099 (59.5208 E)0.45 – 0.099 for 1 ≥ E > 0.0003024 
+ 
+ 
+ 
+ 
+ = 267.84 E  
+ 
+ 
+ 
+ 
+ 
+for 0.0003024 ≥ E ≥ 0 
+FD = G1886[E'] = 100 E′ 2.4 
+Input signal to PQ optoelectronic transfer function 
+(OETF) 
+Scene linear light. 
+The OETF maps relative scene linear light into the non-linear PQ signal 
+value. 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+5 
+ 
+TABLE 4 (end) 
+Parameter 
+Values 
+Reference PQ OETF 
+Use of this OETF will yield 
+the reference OOTF when 
+displayed on a reference 
+monitor employing the 
+reference EOTF. 
+
+
+
+
+
+
+D
+F
+E
+E
+E
+1
+1
+EOTF
+OOTF
+EOTF
+OETF
+−
+−
+=
+=
+=
+
+ 
+where: 
+
+
+10000
+1
+EOTF
+2
+1
+1
+3
+2
+1
+1
+D
+m
+m
+m
+D
+F
+Y
+Y
+c
+Y
+c
+c
+F
+=
+
+
+
+
+
+
++
++
+=
+−
+ 
+E′ is the resulting non-linear signal (R', G', B') in the range [0:1] 
+FD, E, are as specified in the opto-optical transfer function  
+m1, m2, c1, c2, c3 are as specified in the electro-optical transfer function.
+Note 4a – This same non-linearity (and its inverse) should be used when it is necessary to convert between 
+the non-linear representation and the linear representations. 
+Note 4b – In this Recommendation, when referring to the luminance of a single colour component (RD, GD, 
+BD), it means the luminance of an equivalent achromatic signal with all three colour components having that 
+same value. 
+Note 4c – The mapping of the camera sensor signal output to E may be chosen to achieve the desired 
+brightness of the scene.  
+ 
+TABLE 5 
+Hybrid Log-Gamma (HLG) system reference non-linear transfer functions 
+Parameter 
+Values 
+Input signal to HLG OETF 
+Scene linear light. 
+The OETF maps relative scene linear light into the non-linear signal value.
+HLG Reference OETF  5a 
+ 
+
+(
+)
+
+
+
+
+
++
+−
+
+
+
+=
+=
+
+1
+12
+ln
+0
+3
+OETF
+12
+1
+12
+1
+E
+c
+b
+E
+a
+E
+E
+E
+E
+ 
+where: 
+E is a signal for each colour component {RS, GS, BS} proportional to scene 
+linear light normalized to the range [0:1]. 5b  
+E′ is the resulting non-linear signal {R', G', B'} in the range [0:1].   
+a = 0.17883277, 
+a
+b
+4
+1−
+=
+, 
+(
+)
+a
+a
+c
+4
+ln
+5.0
+
+−
+=
+  5c 
+HLG Input signal to OOTF 
+Scene linear light. 
+The OOTF maps relative scene linear light to display linear light. 
+ 
+ 
+
+6 
+Rec.  ITU-R  BT.2100-3 
+TABLE 5 (end) 
+Parameter 
+Values 
+HLG Reference OOTF  5i 
+
+S
+S
+S
+s
+S
+S
+D
+S
+S
+D
+S
+S
+D
+S
+D
+B
+G
+R
+Y
+B
+Y
+B
+G
+Y
+G
+R
+Y
+R
+E
+Y
+E
+F
+0593
+.0
+6780
+.0
+2627
+.0
+α
+α
+α
+α
+OOTF
+1
+γ
+1
+γ
+1
+γ
+1
+γ
++
++
+=
+=
+=
+=
+=
+=
+−
+−
+−
+−
+ 
+where: 
+FD is the luminance of a displayed linear component {RD, GD, or BD}, in 
+cd/m2. 5d 
+E is a signal for each colour component {Rs, Gs, Bs} proportional to scene 
+linear light normalized to the range [0:1]. 
+YS is the normalized linear scene luminance. 
+α is the variable for user gain in cd/m2. It represents LW, the nominal peak 
+luminance of a display for achromatic pixels. 
+γ is the system gamma.  = 1.2 at the nominal display peak luminance of 
+1 000 cd/m2. For displays of nominal peak luminance other than 
+1 000 cd/m2, the system gamma should be adjusted according to the gamma 
+formulae in Note 5f. 5e, 5f, 5g 
+Input signal to HLG EOTF 
+Non-linear HLG encoded value. 
+The EOTF maps the non-linear HLG signal into display light. 
+HLG Reference EOTF 
+(
+)
+(
+)
+1
+EOTF max 0,(1 β)
+β
+OOTF OETF
+max 0,(1 β)
+β
+D
+F
+E
+E
+−
+
+=
+−
++
+
+
+
+
+
+
+
+=
+−
++
+
+
+
+
+
+
+ 
+where: 
+FD is the luminance of a displayed linear component {RD, GD, or BD}, in 
+cd/m2.  
+E′ is the non-linear signal {R', G', B'} as defined for the HLG Reference 
+OETF.  5h 
+β is the variable for user black level lift. 
+OOTF[ ] is as defined for the HLG Reference OOTF. 
+
+(
+)
+(
+)
+
+
+
+
+
++
+−
+
+
+=
+−
+1
+12
+/
+}
+/
+{exp
+0
+3
+/
+OETF
+2
+1
+2
+1
+2
+1
+x
+b
+a
+c
+x
+x
+x
+x
+ 
+The values of parameters a, b, and c are as defined for the HLG Reference 
+OETF. 
+and: 
+β = √3(𝐿𝐵𝐿𝑊
+⁄
+)1 γ
+⁄ 
+LW is nominal peak luminance of the display in cd/m2 for achromatic pixels. 
+LB is the display luminance for black in cd/m2.  
+Notes to Table 5 
+Note 5a – The inverse of this non-linearity should be used when it is necessary to convert between the nonlinear representation and the linear representation of scene light. 
+Note 5b – The mapping of the camera sensor signal output to E may be chosen to achieve the desired 
+brightness of the scene. 
+Note 5c – The values of b and c are calculated to b = 0.28466892, c = 0.55991073. 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+7 
+ 
+Note 5d – In this Recommendation, when referring to the luminance of a single colour component (RD, GD, 
+BD), it means the luminance of an equivalent achromatic signal with all three colour components having that 
+same value. 
+Note 5e – This EOTF applies gamma to the luminance component of the signal, whereas some legacy displays 
+may apply gamma separately to colour components. Such legacy displays approximate this reference OOTF. 
+Note 5f – For displays with nominal peak luminance (LW) other than 1 000 cd/m2, or where the effective 
+nominal peak luminance is adjusted through the use of a contrast control, the system gamma value should be 
+adjusted according to the formula below and may be rounded to three significant digits: 
+γ = 1.2 + 0.42 log10(𝐿𝑊1 000
+⁄
+) 
+For applications outside of the usual production monitoring range of LW equal to 400 cd/m2 to 2 000 cd/m2, 
+the following extended range formula should be used: 
+γ = 1.2  𝜅log2(𝐿𝑤/1 000) where 𝜅 = 1.111 
+Note 5g – The system gamma value may be decreased for brighter background and surround conditions. 
+Note 5h – During production, signal values are expected to exceed the range E′ = [0.0 : 1.0]. This provides 
+processing headroom and avoids signal degradation during cascaded processing. Such values of E′, below 
+0.0 or exceeding 1.0, should not be clipped during production and exchange. Values below 0.0 should not be 
+clipped in reference displays (even though they represent “negative” light) to allow the black level of the 
+signal (LB) to be properly set using test signals known as “PLUGE”.  
+Note 5i – The inverse of HLG OOTF is derived as follows: 
+(
+)
+(
+)
+(
+)
+1
+1
+1
+0.2627
+0.6780
+0.0593
+D
+D
+S
+D
+D
+S
+D
+D
+S
+D
+D
+D
+D
+Y
+R
+R
+Y
+G
+G
+Y
+B
+B
+Y
+R
+G
+B
+−
+
+−
+
+−
+
+
+
+= 
+
+
+
+
+
+
+
+= 
+
+
+
+
+
+
+
+= 
+
+
+
+
+
+=
++
++
+ 
+For processing purposes, when the actual display is not known, α may be set to 1.0 cd/m2. 
+Tables 6 and 7 describe different luminance and colour difference signal representations, suitable for 
+colour sub-sampling, and/or source coding. The Non-Constant Luminance (NCL) format is in 
+widespread use and is considered the default. The Constant Intensity (CI) format is newly introduced 
+in this Recommendation and should not be used for programme exchange unless all parties agree.  
+ 
+TABLE 6 
+Non-Constant Luminance Y'C'BC'R signal format  6a 
+Parameter 
+Values PQ 
+Values HLG 
+Derivation of R', G', B' 
+{R', G', B'}=EOTF−1(FD) 
+where FD = {RD, GD, BD} 
+{R', G', B'}=OETF(E) 
+where E = {RS, GS, BS} 
+Derivation of Y' 
+Y' = 0.2627R' + 0.6780G' + 0.0593B' 
+Derivation of colour difference 
+signals  
+ 
+Note 6a – For consistency with prior use of terms, Y', C'B and C'R employ prime symbols indicating they have 
+come from non-linear Y, B and R.
+ 
+4746
+.
+1
+8814
+.
+1
+Y'
+R'
+C
+Y'
+B'
+C
+R
+B
+−
+=
+
+−
+=
+
+
+8 
+Rec.  ITU-R  BT.2100-3 
+TABLE 7 
+Constant Intensity ICTCP signal format 7a, 7b 
+Parameter 
+Values PQ 
+Values HLG 
+L, M, S Colour Space 
+L = (1688R + 2146G + 262B)/4096 
+M = (683R + 2951G + 462B)/4096 
+S = (99R + 309G + 3688B)/4096 
+Derivation of L', M', S'  7c 
+{L', M', S'}=EOTF−1(FD) 
+where FD = {LD, MD, SD} 
+{L', M', S'}=OETF(E) 
+where E = {LS, MS, SS} 
+Derivation of I 
+I = 0.5L' + 0.5M' 
+Derivation of colour 
+difference signals  
+(
+)
+(
+) 4096
+543
+17390
+17933
+4096
+7003
+13613
+6610
+S'
+M'
+L'
+C
+S'
+M'
+L'
+C
+P
+T
+−
+−
+=
++
+−
+=
+ 
+𝐶𝑇= (3625𝐿′ −7465𝑀′ + 3840𝑆′)/4096
+𝐶𝑃= (9500𝐿′ −9212𝑀′ −288𝑆′)/4096 
+Note 7a – The newly introduced I, CT and CP symbols do not employ the prime symbols to simplify the 
+notation. 
+Note 7b –Colours should be constrained to be within the triangle defined by the RGB colour primaries in 
+Table 2. 
+Note 7c – The subscripts D and S refer to display light and scene light, respectively.  
+ 
+TABLE 8 
+Colour sub-sampling 
+Parameters 
+Values 
+Coded signal 
+R', G', B' or Y', C'B, C'R, , or I, CT, CP 
+Sampling lattice 
+– R', G', B', Y', I 
+Orthogonal, line and picture repetitive co-sited 
+Sampling lattice 
+– C'B, C'R, CT, CP 
+Orthogonal, line and picture repetitive co-sited with each other. 
+The first (top-left) sample is co-sited with the first Y' or I samples. 
+4:4:4 system 
+4:2:2 system 
+4:2:0 system 
+Each has the same 
+number of horizontal 
+samples as the Y' or I 
+component. 
+Horizontally 
+subsampled by a factor 
+of two with respect to 
+the Y' or I component. 
+Horizontally and 
+vertically subsampled 
+by a factor of two 
+with respect to the Y' 
+or I component. 
+ 
+Table 9 describes two different signal representations, “narrow” and “full”. The narrow range 
+representation is in widespread use and is considered the default. The full range representation is 
+newly introduced in this Recommendation and should not be used for programme exchange unless 
+all parties agree. 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+9 
+ 
+TABLE 9 
+Digital 10- and 12-bit integer representation 
+Parameters 
+Values 
+Coded signal 
+R', G', B' or Y', C'B, C'R, or I, CT, CP 
+Coding format 
+n = 10, 12 bits per component 
+Quantization of R', G', B', Y', I 
+(resulting values that exceed 
+the video data range should be 
+clipped to the video data 
+range) 
+Narrow range 
+Full range 
+D = Round [(219  E′ + 16)  2n−8] 
+D = Round [(2n-1)  E′] 
+Quantization of C'B, C'R, CT, CP 
+(resulting values that exceed 
+the video data range should be 
+clipped to the video data 
+range) 
+D = Round [(224  E′ + 128)  2n−8] 
+D = Round [(2n-1)  E′ + 2n-1]      
+Quantization levels 
+10-bit coding
+12-bit coding
+10-bit coding
+12-bit coding
+Black  
+ 
+(R' = G' = B' = Y' = I = 0) 
+ 
+DR', DG', DB', DY', DI 
+64 
+256 
+0 
+0 
+Nominal Peak  
+ 
+(R' = G' = B' = Y' = I = 1) 
+ 
+DR', DG', DB', DY', DI 
+940 
+3 760 
+1 023 
+4 095 
+Achromatic 
+ 
+(C'B = C'R = 0) 
+ 
+DC'B, DC'R, DCT, DCP 
+512 
+2 048 
+512 
+2 048 
+Nominal Peak 
+ 
+(C'B = C'R = +0.5) 
+ 
+DC'B, DC'R, DCT, DCP 
+960 
+3 840 
+1 023 
+4 095 
+Nominal Peak 
+ 
+(C'B = C'R = -0.5) 
+ 
+DC'B, DC'R, DCT, DCP 
+64 
+256 
+1 
+1 
+Video data range 9a, 9b  
+4 through 
+1 019 
+16 through 
+4 079 
+0 through 
+1 023 
+0 through 
+4 095
+Where:  
+ 
+Round( x ) = Sign( x ) * Floor( | x | + 0.5 ) 
+ 
+Floor( x ) the largest integer less than or equal to x 
+ 
+Sign( x ) = 
+
+
+
+
+−
+=
+
+0
+;
+1
+0
+;
+0
+0
+;
+1
+x
+x
+x
+ 
+Note 9a – Narrow range signals may extend below black (sub-blacks) and exceed the nominal peak values 
+(super-whites), but should not exceed the video data range. 
+Note 9b – Some digital image interfaces reserve digital values, e.g. for timing information, such that the 
+permitted video range of these interfaces is narrower than the video range of the full-range signal. The mapping 
+from full-range images to these interfaces is application-specific. 
+ 
+
+10 
+Rec.  ITU-R  BT.2100-3 
+Table 10 introduces a 16-bit floating-point signal representation for application in HDR international 
+programme exchange. 
+R, G, B values that are linearly proportional to scene light (scene referred), or that represent absolute 
+display light on the reference display (display referred), may be represented by floating-point values 
+as indicated in the table below. Note that this representation is independent of HDR or SDR, but HDR 
+signals are able to employ more of the dynamic range that is available in the floating-point 
+representation. 
+Currently, real-time interfaces do not exist for this format. It is expected that this format would 
+initially see usage in file-based workflows and programme exchange. 
+TABLE 10 
+Floating-Point (FP) signal representation 
+Parameter 
+Values 
+Signal representation 
+Linear R, G, B 
+Signal encoding 
+16-bit floating-point binary interchange format per IEEE standard 754-2019 
+Normalization 
+R = G = B = 1.0 represents HDR Reference White. 10a, 10b 
+Notes to Table 10: 
+Note 10a – HDR Reference White is the nominal signal level obtained from an HDR camera and a 100% 
+reflectance white card resulting in a nominal luminance of 203 cd/m2 on a PQ display or on an HLG display 
+that has a nominal peak luminance capability of 1 000 cd/m2. 
+Note 10b – In order to have better precision near black, some productions may employ a normalization such 
+that R = G = B = 1.0 represents white at a luminance of 1.0 cd/m2 on the reference display. 
+ 
+ 
+ 
+Annex 1 
+(informative) 
+ 
+The relationship between the OETF, the EOTF and the OOTF 
+This Recommendation makes extensive use of the following terms: 
+OETF: the opto-electronic transfer function, which converts linear scene light into the video signal, 
+typically within a camera. 
+EOTF: electro-optical transfer function, which converts the video signal into the linear light output 
+of the display. 
+OOTF: opto-optical transfer function, which has the role of applying the “rendering intent”. 
+These functions are related, so only two of the three are independent. Given any two of them the third 
+one may be calculated. This section explains how they arise in television systems and how they are 
+related. 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+11 
+ 
+In television systems the displayed light is not linearly related to the light captured by the camera. 
+Instead an overall non-linearity is applied, the OOTF. The “reference” OOTF compensates for 
+difference in tonal perception between the environment of the camera and that of the display. 
+Specification and use of a “reference OOTF” allows consistent end-to-end image reproduction, which 
+is important in TV production. 
+ 
+Artistic adjustment may be made to enhance the picture. These alter the OOTF, which may then be 
+called the “artistic OOTF”. Artistic adjustment may be applied either before or after the reference 
+OOTF. 
+ 
+In general the OOTF is a concatenation of the OETF, artistic adjustments, and the EOTF. 
+ 
+
+12 
+Rec.  ITU-R  BT.2100-3 
+The PQ system was designed with the model shown below, where the OOTF is considered to be in 
+the camera (or imposed in the production process). 
+ 
+The HLG system was designed with the model shown below, where the OOTF is considered to be in 
+the display. 
+ 
+Only two of three non-linearities, the OETF, the EOTF, and the OOTF, are independent. In functional 
+notation (where subscripts indicate the colour component): 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+B
+B
+G
+G
+G
+R
+R
+R
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+=
+=
+=
+ 
+This is clearer if the concatenation is represented by the symbol . With this notation, the following 
+three relationships between these three non-linearities are obtained: 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+OOTF
+EOTF
+OETF
+OETF
+OOTF
+EOTF
+OETF
+EOTF
+OOTF
+EOTF
+OOTF
+OETF
+OOTF
+OETF
+EOTF
+EOTF
+OETF
+OOTF
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+=
+
+=
+
+=
+
+=
+
+=
+
+=
+ 
+The PQ approach is defined by its EOTF. For PQ, the OETF may be derived from the OOTF using 
+the third line of the equations above. In a complementary fashion the HLG approach is defined by its 
+OETF. For HLG, the EOTF may be derived from the OOTF using the second line of the equations 
+above. 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.2100-3 
+13 
+ 
+Annex 2 
+(informative) 
+ 
+Parametric representation of electro-optical and 
+opto-electronic transfer functions 
+This Annex in connection with appropriate parameter sets facilitates the implementation of the 
+reference opto-electronic transfer functions (OETFs), as well as the reference electro-optical transfer 
+functions (EOTFs) of this Recommendation. 
+An EOTF may be represented by equation (1): 
+ 
+ 
+( )
+(
+)
+n
+s
+m
+V
+st
+m
+V
+c
+V
+L
+/
+1
+
+
+
+
+−
+−
+−
+−
+=
+ 
+(1) 
+where: 
+ 
+V : 
+nonlinear colour value 
+ 
+L : 
+corresponding linear colour value. 
+The parameter set {s, t, c, n, m} can be set according to a desired application. 
+An OETF may be represented by equation (2): 
+ 
+ 
+( )
+m
+st
+L
+c
+sL
+L
+V
+n
+n
++
++
++
+=
+ 
+(2) 
+It should be noted that if the parameters s, t, c, n and m are given identical values in equations (1) and 
+(2), then 𝐿(𝑉) and 𝑉(𝐿) are the mathematical inverse of each other. 
+In certain applications, it is helpful to normalize V in equations (1) and (2) according to equation (3): 
+ 
+ 
+m
+k
+p
+V
+V
++
+−
+=
+ˆ
+ 
+(3) 
+where: 
+ 
+V : 
+non-linear colour value 
+ 
+Vˆ : 
+normalized non-linear colour value that replaces V in equations (1) and (2). 
+The parameters k and p can be set according to a desired application. 
+In certain applications, it is helpful to normalize L in equations (1) and (2) according to equation (4): 
+ 
+ 
+a
+b
+L
+L
+−
+=
+ˆ
+ 
+(4) 
+where: 
+ 
+L : 
+linear colour value 
+ 
+Lˆ : 
+normalized linear colour value that replaces L in equations (1) and (2). 
+The parameters a and b can be set according to a desired application. 
+Using these equations, an actual implementation may be created by specifying values for each of the 
+parameters. As an example, a linear normalised signal may have to be reproduced, in which case the 
+parameters for equation (3) are: 𝑝= 𝑚= 0 and 𝑘= 1. The parameters for equation (4) would then 
+be: 𝑎= 1 and 𝑏= 0. A sample pair of OETF and EOTF with a system gamma of 1.0, serving as a 
+starting point, can be implemented using equations (1) and (2), with parameters 𝑠= 1,  
+t = m = 0.2701, c = −0.0729, n = 0.4623. 
+ 

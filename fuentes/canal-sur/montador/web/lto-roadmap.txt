@@ -1,0 +1,13 @@
+LTO Program, «LTO Technology Roadmap», https://www.lto.org/roadmap/ — leída el 25-09-2026.
+Lectura: una descarga directa con curl (25-09-2026) devolvió la página completa y de ella se
+extrajeron los fragmentos marcados [curl]; las descargas siguientes cayeron en un captcha del
+servidor. Los marcados [WebFetch] se leyeron el mismo día con WebFetch, pidiendo cita literal.
+
+[WebFetch] "It's a powerful, scalable and adaptable tape format that helps address the growing demands of data protection. It's also an open format, licensed by some of the most prominent names in the storage industry to ensure a broad range of compatible tape drives and cartridges."
+[curl, desde «...ptable tape format»] "...ptable tape format that helps address the growing demands of data protection. It's also an open format, licensed by some of the most prominent names in the storage industry to ensure a broad range of compatible tape drives and cartridges."
+[curl y WebFetch] "LTO technology is currently in its 10th generation, with a twenty-five-year history of providing secure, reliable storage for Enterprises and organizations across the world."
+[curl y WebFetch] "LTO-10 specifications support tape cartridge storage with a compressed capacity of up to 100 TB."
+[curl y WebFetch] "In terms of performance, the newest LTO-10 tape drives support data transfer rates of up to 1200 MB/s using a new 32 GB interface, providing 3.6 terabytes of storage performance per hour and per drive.*"
+[WebFetch] "*Assuming a 2.5:1 compression achieved with larger compression history buffer available beginning with LTO generation 6 drives."
+[curl y WebFetch] "LTO specifications for backwards compatibility, up to the 7th generation of the technology, support writing back one generation and reading back two generations."
+[WebFetch; curl hasta «The later 8 th and»] "The later 8th and 9th generations of LTO Ultrium tape drives are able to write back and read back one generation. The 10th generation of LTO Ultrium tape drives does not support backwards compatibility due to a redesign of the drive head to eliminate the need for initialization."

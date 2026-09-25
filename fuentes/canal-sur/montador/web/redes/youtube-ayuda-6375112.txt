@@ -1,0 +1,29 @@
+
+Resoluciones de vídeo y relaciones de aspecto
+YouTube muestra distintas relaciones de aspecto en función de la plataforma y del formato de vídeo. El reproductor de vídeo de YouTube se adapta automáticamente al tamaño de cada vídeo.
+¿Qué aspecto tendrá el vídeo?
+La relación de aspecto estándar de YouTube en ordenadores es 16:9. Si tu vídeo tiene una relación de aspecto distinta, el reproductor cambiará de tamaño automáticamente para ajustar el vídeo al dispositivo del usuario.
+Para ciertas combinaciones de relación de aspecto de vídeo y dispositivo, como 9:16 (vertical) en navegadores en el ordenador, es posible que YouTube añada más espacio de relleno para ofrecer una visualización óptima. De forma predeterminada, el espacio de relleno es blanco. Sin embargo, si el tema oscuro está activado, será de color gris oscuro.
+Para obtener un mejor resultado, no añadas márgenes ni barras negras en tus vídeos, ya que entrarían en conflicto con la forma en que YouTube ajusta el reproductor de forma dinámica al tamaño del vídeo y al dispositivo del espectador.
+Resoluciones y relaciones de aspecto recomendadas
+Para tener la relación de aspecto predeterminada (16:9), codifica el vídeo con estas resoluciones:
+4320p (8K): 7680x4320
+2160p (4K): 3840x2160
+1440p (2K): 2560x1440
+1080p (HD): 1920x1080
+720p (HD): 1280x720
+480p (SD): 854x480
+360p (SD): 640x360
+240p (SD): 426x240
+Nota: 
+ En el 2022, empezamos a retirar la compatibilidad con la reproducción en resoluciones de entre 4K y 8K. Por ejemplo, es posible que ya no se pueda reproducir contenido en 5K.
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+¿Te ha resultado útil esta información?
+¿Cómo podemos mejorar esta página?
+Sí
+No
+Enviar
+Ordenador
+Android
+iPhone y iPad
+Más

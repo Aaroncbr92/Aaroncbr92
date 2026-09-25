@@ -1,0 +1,27 @@
+Fuente: https://helpx.adobe.com/premiere/desktop/add-text-images/use-motion-graphics-templates/use-data-driven-motion-graphics-templates.html
+Leído: 25-09-2026 (descarga directa de helpx.adobe.com; texto de la página sin navegación)
+
+Work with Photoshop and Premiere
+Use data-driven Motion Graphics templates
+Last updated on
+Jan 7, 2026
+Learn how to use data-driven Motion Graphics templates to efficiently customize charts and animations with spreadsheet data, creating dynamic visuals for your projects in Adobe Premiere.
+Data-driven Motion Graphics templates allow you to quickly and accurately customize bar charts, line graphs, and more, without manual entry or deep knowledge of motion graphics.
+You can create these data-driven mogrts in After Effects, or get free or premium mogrts on Adobe Stock. You can access them directly from the
+Graphics Templates
+panel in Premiere.
+Data-driven Motion Graphics templates can contain three types of data:
+Text
+Color
+Numbers
+Note
+The author sets the data type for each column in After Effects, and the data types cannot be changed in Premiere.
+When unmapped, the types translate as a text string for text data, a hot text slider for number data, or a hexadecimal value with a color swatch for color data. Mapped data show as labels, disabled for manual entry.
+Open the
+Graphics Templates
+panel, find, and drag the desired
+Motion Graphics
+template into a Premiere sequence.
+Add numbers to the elements in the template and adjust colors, fonts, and other visual settings as needed.
+Fine-tune visual aspects like colors, fonts, and other design settings to suit your project using the Properties panel.
+Fine-tune visual aspects like colors, fonts, and other design settings to suit your project using the Properties panel.

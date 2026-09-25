@@ -1,0 +1,342 @@
+
+[[p4077]]
+Chapter 180
+Audio Effects
+DaVinci Resolve includes Fairlight FX audio plugins and support for compatible 
+third-party VST and Audio Unit plugins for use in the Edit and Fairlight pages, which 
+let you add effects such as echo, reverb, noise reduction, and aural enhancement 
+to audio clips, tracks, and busses. 
+This chapter covers different methods of using these effects on clips and tracks.
+Contents
+Elastic Wave Audio Retiming......................................................................................................................................................  4078
+Elastic Wave Options....................................................................................................................................................................... 4080
+Elastic View............................................................................................................................................................................................ 4081
+Clearing Timing Points..................................................................................................................................................................... 4081
+About Audio Plugins......................................................................................................................................................................... 4081
+Fairlight FX............................................................................................................................................................................................. 4081
+VST and VSTi ...................................................................................................................................................................................... 4082
+Audio Units............................................................................................................................................................................................ 4082
+Using Audio Plugins......................................................................................................................................................................... 4082
+Applying Plugins................................................................................................................................................................................ 4083
+Editing Plugin Parameters............................................................................................................................................................. 4085
+Working with Plugins in the Inspector..................................................................................................................................... 4086
+Sidechaining......................................................................................................................................................................................... 4086
+Applying Audio Plugins to Busses........................................................................................................................................... 4087
+Dealing With Processor Intensive Plugins........................................................................................................................... 4087
+Caching Audio Clips With Plugins............................................................................................................................................. 4087
+Exporting Audio Clips With Plugins.......................................................................................................................................... 4088
+4077
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4078]]
+Elastic Wave Audio Retiming
+Elastic Wave retiming is a fast and easy keyframe-based way of dynamically retiming audio, squishing 
+and stretching different parts of a waveform to subtly retime audio playback for a variety of reasons, all 
+while maintaining constant pitch. For example, if you’re using the audio from another take to replace 
+that of the current take, but the performer’s timing is just a little bit different, you can use Elastic Audio 
+to make small adjustments to retime the second performance to match the first.
+To use Elastic Wave retiming on an audio clip:
+1	
+In this example, two tracks of foley effects have been recorded, and the bottom one needs to be 
+retimed to match the top one.
+2	
+Right-click an audio clip and choose Elastic Wave retiming from the contextual menu to reveal the 
+Elastic Wave retiming controls.
+Enabling Elastic Wave
+3	
+Command-click anywhere on the clip to add speed keyframes to parts of the waveform you 
+want to retime by stretching or squishing. You can also place speed keyframes to lock parts of a 
+waveform you don’t want to retime.
+4078
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4079]]
+Adding a speed keyframe with Elastic Wave retiming enabled
+4	
+Dragging the speed keyframe to the left or right speeds up the audio on one side of the 
+keyframe and slows down the audio on the other side of the keyframe, from that keyframe to the 
+neighboring keyframes applied to that clip. Using an audio clip’s waveform as your guide, you 
+can use multiple speed keyframes to match the waveform of one performance to the waveform 
+of another, in order to make the timing match. Or, you can adjust speed keyframes freeform to 
+manipulate performances or sounds for creative effect.
+You can also drag the beginning or end of an audio clip to retime that portion of the clip going 
+forwards or back to the next speed keyframe that’s been added.
+Adjusting a series of speed keyframes to retime 
+one performance to match another
+4079
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4080]]
+5	
+If you’ve made some speed keyframe adjustments, but you find yourself wishing a speed 
+keyframe you created had been placed at a different position relative to the audio waveform being 
+adjusted, you can hold the Command key down and drag any speed keyframe to move it closer 
+to or farther away from a part of the waveform you want it to retime. This fine-tunes the audio 
+retiming adjustment occurring at that point in the clip.
+(Left) Before Command-dragging a speed keyframe to be closer to the 
+original beginning of the sound being retimed, (Right) After
+6	
+When you’re done, you can click the close button at the upper-left-hand corner to hide the Elastic 
+Wave retiming controls.
+To remove Elastic Wave retiming keyframes, do one of the following:
+	 To remove a single speed keyframes: Right-click on a speed keyframe and choose Remove 
+Speed Keyframe from the contextual menu.
+	 To remove all speed keyframes and eliminate the Elastic Wave retiming effect: Right-click a clip 
+and choose Reset Speed Curve.
+NOTE: All Elastic Wave retiming adjustments you make in the Fairlight page appear in the 
+Edit page as variable speed effects, accessible using the Retime controls. Be aware that 
+while all Elastic Wave retiming effects can appear as Edit page retime effects, not all Edit 
+page retime effects can appear as Elastic Wave retiming effects on the Fairlight page.
+Elastic Wave Options
+The Elastic Wave context menu has three options for processing:
+	 Off: Elastic Wave is not enabled for the clip (Default).
+	 Voice: Focused on human speech or singing. Note that this is not a good option for other material.
+	 General Purpose: Ideal for music and effects.
+4080
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4081]]
+Elastic View
+Elastic view shows Elastic Wave “time points,” which are similar, but the not the same as, Resolve 
+keyframes. Keyframes represent a point in time plus a value, and Elastic Wave time points represent 
+only a point in time.
+When Elastic View is enabled, time points are visible on the selected clip.
+Elastic Wave time points	
+Elastic Wave disabled
+When disabled, the time points are not visible, but the info lane still shows that Elastic Wave is 
+enabled with the Elastic Wave icon.
+Clearing Timing Points
+“Timing points” are the moveable Elastic Wave control points that stretch or compress a given area of 
+a clip. If you choose “Clear Timing Points,” all selected points within a clip are cleared (deleted).
+Elastic Wave can operate in the Edit window where video editors may want to re-time spoken word 
+performances so that when the audio is re-timed, the video follows the retiming to match. However, 
+when working in the Fairlight page, re-timing of video is disabled so that you can have separate 
+control of the audio file.
+About Audio Plugins
+There is no limit to the number of single or multiple plugins when in FlexBus mode that can be applied 
+to clips and to tracks. However there is a limit of 480 when using Fixed Bus Legacy. Plugins are 
+accessed via each track’s control strip, or via the Inspector which provides access to both clip and 
+track plugins.
+Fairlight FX
+Fairlight FX are proprietary DaVinci Resolve-specific plugins that run natively on macOS, Windows, 
+and Linux, providing high-quality audio effects with professional features to all DaVinci Resolve users 
+on all platforms.
+Most Fairlight FX plugins, including Channel Dynamics and EQ, and dynamics processors like the 
+Multiband Compressor, Limiter, Reverb, and Ambisonics Meter, are Ambisonics native and offer 
+multichannel processing.
+4081
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4082]]
+VST and VSTi 
+VST (Virtual Studio Technology) is an audio plugin standard created by Steinberg. The VST standard 
+allows third-party developers to create plugins for use within VST host applications or create VST host 
+applications. 
+The Fairlight page supports VST effects from Mono to 7.1 and beyond. These effects can be inserted 
+on mono channels or Link Groups, and compatible VST Ambisonic effects can be used on Ambisonic 
+tracks or busses.
+If a stereo VST effect is inserted on an LCR, LCRS, or 5.1 Link Group, the left and right channels will 
+automatically be allocated to the left and right Link Group channels. 
+DaVinci Resolve supports VST3. VST effects are available on macOS and Windows workstations, 
+but not on Linux.
+VST Effects versus VST Instruments (VSTi)
+A VST effect is a type of VST plugin that is used to process audio. A VST effect might be a Reverb, 
+Compressor, or EQ. VST Instruments are typically used to synthesize sound or play back sampled 
+audio. VSTs have rapidly replaced hardware synthesizers and dedicated samplers due to their 
+flexibility, repeatability, and low cost.
+Audio Units
+Audio Units is an audio plugin API created by Apple for use on macOS workstations. Like VST, 
+Audio Units (AU) can either process audio or work as instruments.
+Compatible AU Ambisonic effects are used on Ambisonic tracks or busses. 
+Using Audio Plugins
+Fairlight FX are pre-installed with all DaVinci Resolve installations. If you install additional VST or 
+Audio Unit effects on your workstation, they appear in the Audio FX panel of the Effects Library, 
+organized in separate categories.
+Audio plugins in the Effects Library
+4082
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4083]]
+You can click on the far right of any effect to flag it with a star as a favorite effect. When you 
+do so, the favorited effects appear in a separate Favorites area at the bottom of the Effects 
+Library Bin list, and it also appears at the top of the Effects button’s menu on the Mixer when 
+you click the “plus” button.
+Stars indicate a flagged favorite effect; all favorites are currently filtered
+Audio plugins let you apply effects to individual audio clips or entire tracks worth of audio, to 
+add creative qualities such as echo or reverb, or to take care of mastering issues using noise 
+reduction, compression, or EQ.
+Applying Plugins
+Methods of applying audio plugins to clips on the Fairlight page:
+	 To apply an audio effect to a clip: Drag any effect from the Audio FX panel of the Effects Library 
+onto the clip in the Timeline you want to apply it to.
+	 To apply an audio effect to multiple clips: Select all of the clips you want to apply an audio 
+effect to, then drag any effect from the Audio FX panel of the Effects Library onto any of the 
+selected clips.
+When you apply an audio plugin to a clip, a badge appears to the left of that clip’s name bar in the 
+Timeline to let you know there’s an effect applied to it.
+Timeline clips with audio plugins applied appear with a badge.
+Methods of applying audio plugins to tracks on the Fairlight page:
+	 To apply an audio effect to an entire track in the Timeline: Drag any effect from the Effects 
+Library onto the track header.
+Applying an audio effect to a whole track via the Timeline
+4083
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4084]]
+	 To apply an audio effect to a track or bus in the Mixer: Drag any effect from the Audio FX panel 
+of the Effects Library onto the clip in the Timeline you want to apply it to.
+Applying an audio effect to a whole  
+track via drag and drop to the Mixer
+	 To apply an audio effect to a track or bus using the Mixer controls: Click the plus button in 
+the channel strip of the track you want to apply an effect to, and then choose an effect from the 
+dropdown menu that appears. All filters appear within categories to make them easier to find. If 
+you’ve clicked the star button of any filters in the Effects Library to favorite them, these favorite 
+filters appear at the top of the plus button’s dropdown list.
+	 To copy audio effects from one mixer channel to another: Hold the Option key and click and 
+drag the effect to the desired channel and slot to copy.
+	 To reorder audio effects in the Mixer: Click and drag the audio effect to move to the 
+desired slot position.
+Applying an audio effect to a whole track via the Mixer’s own controls
+TIP: The categories that VST and Audio Units effects are organized into in the Mixer can 
+be edited in the Audio Plugins panel of the DaVinci Resolve System Preferences window. 
+All plugins on a workstation are shown in the Available Plugins list, and clicking within the 
+Category column lets you use a dropdown menu with which to change categories.
+NOTE: This does not apply to Fairlight FX plugins.
+4084
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4085]]
+Editing Plugin Parameters
+To edit a clip’s audio plugins:
+	 Select that clip and open the Inspector. All audio plugins applied to that clip appear in the Effects 
+tab, with that effect’s controls appearing directly in the Inspector.
+To edit a track’s audio plugins, do one of the following:
+	 Click in the background of the Timeline header to select that track, and then open the Inspector. 
+Click the custom UI button for that effect to open its controls.
+	 Move the pointer over the plugin’s name in the Effects area of the Mixer, and click on the custom 
+UI button to open its controls.
+The custom 
+UI button for 
+audio plugins in 
+the Inspector
+The custom UI button 
+for audio plugins 
+in the Mixer
+Nearly all Fairlight FX, VST, and Audio Unit audio plugins have a custom user interface that 
+makes it much easier to manipulate that effect’s controls. These can be opened from within 
+DaVinci Resolve.
+The custom audio effect interface for iZotope RX Voice De-noise
+4085
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4086]]
+Working with Plugins in the Inspector
+Methods of working with audio plugins in the Inspector:
+	 To rearrange the order of multiple audio effects applied to a clip: Click the move up or move 
+down buttons in any effect’s title bar, to the left of each effect’s Trash Can button.
+	 To disable or re-enable an effect: Click the toggle button at the far left of each effect’s title bar.
+	 To remove an effect: Click the Trash Can button.
+	 To reset any effect parameter: Click the Reset button at the far right of the 
+parameter you want to reset.
+	 To open or collapse an effect’s parameters: Double-click the title bar.
+	 To open or collapse the parameters of all effects: Hold the Option key down and 
+double-click any effect’s title bar.
+Once applied to a clip or track, audio plugins can also be keyframed or automated just like 
+volume and pan settings, to create dynamic audio effects that change over time.
+Sidechaining
+DaVinci Resolve supports the sidechaining of compatible Fairlight FX, AU, and VST plugins, which 
+lets you temporarily lower the level of a target track or bus using the audible signal from a source 
+track or bus.
+This process, also known as “ducking,” is helpful when multiple tracks compete for space in a mix 
+because they share some or all the same frequencies, such as a track or bus with dialogue and a bus 
+with a crowd cheering at a sports event.
+In the example above, the dialogue is fed to the sidechain input of a compatible dynamics plugin (i.e., 
+a compressor or limiter) on the Mixer channel for the crowd noise. When the controls on the dynamics 
+are set correctly, the voices on the Dialogue channel will subtly and slightly lower or attenuate the 
+level of the crown noise, allowing the voices to be heard more prominently in the mix. When the 
+dialogue stops, the cheering returns to its original level.
+Sidechain controls 
+To use sidechaining 
+	 Open the compressor or limiter on the Mixer channel with the crowd noise. 
+	 Select the Dialogue channel in the source dropdown at the top of the plugin, 
+to the right of the Listen button. 
+This is the audio you’re using to attenuate the level of the cheering crowd. 
+Using a bus as the ducking source lets you use multiple sources to trigger changes 
+in your target track. 
+	 Click the On button, which turns red, indicating that the Sidechain (S/C) function is active. 
+	 Adjust the controls to taste during playback of your mix, while ensuring the effect sounds natural. 
+You can experiment with this procedure using the Compressor section of the Channel Dynamics 
+plugin or the Fairlight FX Limiter. 
+4086
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4087]]
+For more information on sidechaining with the Channel Dynamics plugin, jump to this 
+chapter: Mixing in the Fairlight Page. To learn more about sidechaining with the Fairlight 
+FX Limiter, jump to this chapter: Fairlight FX.
+	 Clicking the Listen button lets you hear the incoming signal if you need to confirm that the correct 
+input signal is coming into the Limiter. This button turns yellow when active. 
+Applying Audio Plugins to Busses
+You can apply audio plugins to Main and Sub buses just like any other track, with which to apply any 
+audio mastering effects operations you require to individual submixes, or even to an entire main.
+TIP: You can quickly assign plugins for a selected group of channel strips, or to all channel 
+strips, by holding down the Option key (Mac) or the Alt key (Windows) for all selected tracks 
+or Command-Option (Mac) or Control-Alt (Windows) for all mixer channel strips prior to 
+performing the operation. These shortcuts can save a lot of time in your workflow.
+Dealing With Processor Intensive Plugins
+As you apply more and more plugins directly to clips in complicated mixes, you may discover you lack 
+the processing power to play all audio tracks and effects in real time. When this happens, there are 
+two ways you can ease the burden that audio clip effects are placing on your workstation.
+Caching Audio Clips With Plugins
+One quick fix is to manually enable the caching of one or more selected audio clips with audio effects 
+applied to them to improve your project’s performance. Once an audio clip is cached, all plugin effects 
+are “baked in” and that clip’s audio waveform updates to reflect the altered audio. Cached clips appear 
+with a small badge to the right of the FX badge in the name bar of the clip.
+A cache badge lets you know this audio clip has cached effects
+This is a non-destructive operation that has no lasting effect on the source media of cached clips. 
+You can still alter a cached clip’s plugin parameters whenever you want. Opening the graphical 
+controls of a cached clip temporarily suspends audio caching, and when you’re finished, the clip is 
+automatically re-cached and its waveform is updated to reflect the change so long as Cache Audio 
+Effects remains enabled.
+4087
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT
+
+[[p4088]]
+To cache audio effects for one or more selected clips:
+	 Right-click an audio clip with a plugin applied and choose Cache Audio Effects to enable 
+audio effect caching for that clip. If you right-click one of multiple selected clips, you’ll enable 
+Cache Audio Effects for all selected clips at once. Once enabled, that clip will be continue to 
+be cached (and re‑cached if you change the plugin’s parameters) until you manually disable 
+audio caching.
+To disable audio caching for one or more selected clips:
+	 Right-click an audio clip that’s been cached and choose Cache Audio Effects to disable audio 
+effect caching for that clip.
+Exporting Audio Clips With Plugins
+Another way of easing the burden of audio clip effects on your system is to export the effected clip to 
+another layer. This creates a new piece of audio media with the effect “baked in,” which is written to 
+the directory location specified by the “Save clips to” field of the Capture and Playback panel of the 
+Project Settings.
+To bounce one or more selected audio clips with effects to another layer:
+	 Right-click an audio clip with a plugin applied and choose Export Audio Files. If you right-click one 
+of multiple selected clips, you’ll have options for what you would like exported for each selected 
+clip all at once.
+Exported clips no longer have editable effects, but you can always choose View > Show Audio 
+Track Layers to see the original underlying clip that still has the original plugin effect applied, and 
+you can unmute it, move it back up to the top, edit the effect, and export another version of the 
+clip, which appears as the topmost layer.
+For more information on exporting clips to files, jump to this chapter: Editing Basics in the 
+Fairlight Page.
+4088
+Fairlight | Chapter 180 Audio Effects
+FAIRLIGHT

@@ -1,0 +1,485 @@
+
+[[p4218]]
+Chapter 188
+Delivering 
+DCP and IMF
+For projects requiring Digital Cinema Package (DCP) or Interoperable Master 
+Format (IMF) mastering for digital cinema or broadcast distribution, DaVinci Resolve 
+allows native DCP and IMF encoding and decoding for the creation and playback 
+of unencrypted DCP and IMF deliverables, or it can be integrated with Fraunhofer’s 
+easyDCP application in order to master fully encrypted DCP files, play them back 
+for testing, and generate Key Delivery Messages (KDMs) for theatrical distribution, 
+all directly within DaVinci Resolve. 
+This means you can encode a DCP or IMF master straight from your program’s source media, all 
+within the 32-bit floating point image processing pipeline of DaVinci Resolve, for the highest possible 
+quality result.
+Contents
+Native IMF Encoding and Decoding 
+(Studio Version Only).................................................. 4219
+Native Unencrypted DCP Encoding 
+and Decoding (Studio Version Only)................... 4221
+Native DCP Encoding Parameters....................... 4221
+Rendering IMF  
+Segments and DCP Reels...................................... 4223
+Creating DCP/IMF  
+Supplemental Packages......................................... 4224
+Importing a DCP or IMF Into a Timeline........... 4224
+Editing the Resulting Timeline.............................. 4225
+Dolby Vision Metadata............................................. 4226
+Exporting......................................................................... 4226
+Photon Validation of IMF Packages.................. 4227
+Validating in the Media Pool.................................. 4227
+Validating on Export.................................................. 4228
+Using and Licensing EasyDCP............................ 4229
+Requesting Your Server Certificate Set........... 4229
+Importing Your Server Certificate Set..............  4230
+Switching Between Native DCP 
+and EasyDCP Encoding.........................................  4230
+EasyDCP Color Management.............................  4230
+EasyDCP Output in the Deliver Page............... 4231
+KDM Generation and Management................... 4232
+Publishing Your Encrypted 
+Digital Cinema Package.......................................... 4232
+Playing Your Digital Cinema Package............... 4232
+Playing Third-Party 
+Digital Cinema Packages........................................ 4232
+4218
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4219]]
+Native IMF Encoding and Decoding 
+(Studio Version Only)
+The Format dropdown in the Video panel of the Render Settings now has a native IMF option that 
+lets you export to the SMPTE ST.2067 Interoperable Master Format (IMF) for tapeless deliverables to 
+networks and distributors. No additional licenses or plugins are required to output to IMF. 
+The IMF format supports multiple tracks of video, multiple tracks of audio, and multiple 
+subtitle and closed caption tracks, all of which are meant to accommodate multiple output formats and 
+languages from a single deliverable. As of DaVinci Resolve 16, IMF export also supports exporting 
+IMF packages that use ST.2098 and Dolby immersive audio via selected Main busses. All of this is 
+done by wrapping a timeline’s different video and audio tracks (media essences) and subtitle tracks 
+(data essences) into a “composition” within the Material eXchange Format (MXF). 
+Additionally, a dropdown menu to the right of this preset provides options for Generic, 
+20th Century Fox, and Netflix versions of this preset.
+The IMF Generic preset in the Render Settings has options for different resolu-
+tions of output
+When IMF is selected from the Format dropdown, the Codec drop-down menu presents options for 
+Kakadu or EasyDCP encoding, with Kakadu being the method that’s included with DaVinci Resolve 
+Studio. A Type dropdown lets you choose what kind of JPEG2000 output you want, with options 
+including RGB, YUV, Dolby Vision, and HDR Vivid. 
+Additional parameters include:
+	 Package Type: Defaults to App2 Extended (App2e), for encoding JPEG 2000 up to 4K.
+	 Bit Depth: The bit depth of the encoded IMF video.
+	 Encoding Profile: A dropdown that lets you choose among Auto, IMF, and Broadcast.
+	 Encoding Level: Provides different choices based on what is selected in Encoding Profile.
+	 Maximum bit rate: Lets you choose how much to compress the result.
+	 Lossless Compression: Lets you choose to encode using lossless compression.
+	 Slope-Rate Control: A checkbox lets you specify lossless compression.
+	 QStep: (DCP, IMF) Lets you choose either automatic or manually specified DCP quantization levels 
+at which to compress the video signal when using the Kakadu JPEG 2000 encoder. 
+4219
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4220]]
+Render settings in the Export Video section for the IMF format
+A separate group of parameters named Composition Settings, underneath the Advanced Settings, lets 
+you add metadata to your IMF package, including:
+	 Composition name: The name of the exported composition.
+	 Issuer: The organization providing the composition.
+	 Use current date: A checkbox that lets the current date be used as the Issue date automatically.
+	 Issue date: The date the composition is issued.
+	 Content kind: A dropdown provides a list of acceptable choices for defining the content.
+	 Content version label: Meant to identify the version of the content being provided.
+	 Annotate xml using composition name: Auto-populates Asset Map, Composition Playlist, and 
+Packing List with data from the project. Otherwise these three fields are manually editable.
+	 Annotate media using filename: Auto-populates Main Video Track and Audio Track 1 with data 
+from the project. Otherwise these three fields are manually editable.
+Parameters for adding composition metadata
+4220
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4221]]
+Native Unencrypted DCP Encoding 
+and Decoding (Studio Version Only)
+DaVinci Resolve also has native DCP encoding and decoding support built-in, for unencrypted 
+DCP files only. That means that you can output and import (for test playback) unencrypted DCP files 
+without needing to purchase a license of EasyDCP. If you have a license, a setting in the Configuration 
+panel of the System Preferences enables you to choose whether to use EasyDCP (for creating 
+encrypted DCP output), or the native DaVinci Resolve encoding.
+Native DCP Encoding Parameters
+When you choose DCP from the Format dropdown menu, the following additional parameters 
+are exposed:
+	 HDR: (DCP, IMF) Specifies the package as having HDR content.
+	 Use interop packaging: (DCP only, located under Type parameter) Lets you create an Interop 
+DCP package, based on an earlier standard of DCP delivery that is not forward compatible with 
+SMPTE DCP packages.
+	 Maximum bit rate: (DCP, IMF) Lets you choose how much to compress the result.
+	 Lossless Compression: (IMF) Lets you choose to encode using lossless compression.
+	 Slope-Rate Control: (DCP, IMF) A checkbox lets you specify lossless compression.
+	 Quality: (DCP, IMF) Lets you choose either automatic or manually specified DCP quantization 
+levels at which to compress the video signal when using the Kakadu JPEG 2000 encoder.
+Native DCP settings in DaVinci Resolve
+If you’ve selected DCP from the Format dropdown menu, a Composition Settings group appears with 
+the following parameters when you click the disclosure control, which let you populate standard DCP 
+composition metadata:
+4221
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4222]]
+	 Composition name: The name of the exported composition. DCPs use specific naming 
+conventions for the composition name that include metadata about the file itself for DCP 
+projectors and playback equipment. DaVinci Resolve has a tool called the Composition Name 
+Generator to generate these names properly for you; it is accessed by pressing the “Edit” button 
+next to this field. Simply fill out the fields and press OK, and DaVinci Resolve will rename your 
+composition in line with these standards.
+The Composition Name Generator will pass a standards  
+compliant name for you to the Composition Name field.
+	 Issuer: The organization providing the composition.
+	 Use current date: A checkbox that lets the current date be used as the Issue date automatically.
+	 Issue date: The date the composition is issued.
+	 Content kind: A dropdown provides a list of acceptable choices for defining the content.
+	 Content version label: Meant to identify the version of the content being provided.
+	 Annotate xml using composition name: Auto-populates Asset Map, Composition Playlist, and 
+Packing List with data from the project. Otherwise these three fields are manually editable.
+	 Annotate reel index as suffix: Auto-populates Reel Annotation with data from the project. 
+Otherwise this is manually editable.
+	 Annotate media using filename: Auto-populates Main Video Track and Audio Track 1 with data 
+from the project. Otherwise these three fields are manually editable.
+4222
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4223]]
+Parameters for adding composition metadata
+Rendering IMF Segments and DCP Reels
+DaVinci Resolve supports splitting IMF and DCP projects into separate segments and reels, in addition 
+to rendering media as a single file. This can be useful for breaking up your timeline to fit within allowed 
+file sizes on legacy file systems, separating marketing and studio assets from the final film, or just 
+being able to replace certain sections of the film without having to re-encode the entire file.
+To Render an IMF Segment or DCP Reel:
+1	
+Choose IMF or DCP from the format settings in the Video tab of the Render Settings panel.
+2	
+Navigate to the “Segment list” or “Reel list” section of the composition settings. 
+3	
+Choose from the following options:
+Single segment/reel: Encodes the Timeline into a single file (default setting).
+Regular intervals of: Encodes the Timeline into multiple segments/reels, each one the duration of 
+the value set in the “mins” field.
+Align to clips on the first video track: Encodes the Timeline into multiple segments/reels; each 
+individual clip on the V1 track of the Timeline becomes its own separate file.
+Keep audio as single segment (IMF only): Select this checkbox to keep the audio portion of the 
+IMF as a single file, regardless of the segment options selected above.
+4	
+Press the Add to Render Queue button. 
+IMF Segment options
+4223
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4224]]
+Creating DCP/IMF Supplemental Packages
+Once created, DaVinci Resolve has the ability to reimport a DCP or IMF so that you can overwrite 
+parts that need to be updated with new media, in order to export a “Supplemental Package,” which is 
+effectively a new version of the program that combines the new overwritten parts of the program with 
+the old version, such that you can deliver just the changes.
+NOTE: Supplemental packages are only supported using the Kakadu encoder and decoder; 
+this is not compatible with DCP or IMF packages created using EasyDCP. To avoid issues, 
+disable “Use easyDCP decoder” in the Decode Options panel of the DaVinci Resolve 
+System Preferences.
+Importing a DCP or IMF Into a Timeline
+1	
+Using the Media Storage browser in the Media page, find and select the DCP or IMF, and check 
+the header of the Metadata Editor to verify that your media is suitable for creating a supplemental 
+package. Supported IMF profiles will be displayed in the Metadata Viewer.
+ 
+The header in the Metadata Editor showing an IMF that’s 
+compatible with the creation of a supplemental package
+2	
+Create a new project and add the DCP/IMF package you need to modify to the Media Pool. If a 
+dialog appears asking if you want to change your timeline frame rate to match the incoming media, 
+click Change to make your project match the media. 
+3	
+Create a timeline from the composition playlist (XML) within the imported DCP or IMF by right 
+clicking the imported package in the media pool and choosing “Create New Timeline Using 
+Composition Playlist” from the contextual menu.
+Right-clicking an imported IMF or DCP clip in the Media 
+Pool reveals a command to make a new timeline using 
+the composition playlist in the contextual menu
+4	
+The New Timeline dialog has an “Import Dolby Vision Project Settings” checkbox. When it’s turned 
+on, clicking Create will do the following:
+a)	 Dolby Vision will be enabled in the Color Management panel of the Project Settings, and the 
+Mastering Display menu will be set to match that of the IMF package.
+b)	 If Resolve Color Management (RCM) is not active, the Timeline Color Space will be set to 
+match the Dolby Vision metadata. However, if RCM is already enabled, the user must manually 
+set this by turning on “Use Separate Color Space and Gamma,” and changing the Timeline 
+settings to P3-D65” and “ST.2084” respectively.
+4224
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4225]]
+5	
+Creating the Timeline will import Dolby Vision metadata (if applicable). This will allow a 
+Tone Mapping preview to be seen on the Color page that uses the original metadata. 
+Dolby Vision metadata will be imported if 
+present when importing an IMF
+Once import is complete, all video and audio clips from the DCP or IMF appear within a new 
+bin with the name of the package. The resulting timeline will be identified via its icon as a 
+DCP/IMF timeline. 
+ 
+The imported media and timeline when you import an IMF
+Editing the Resulting Timeline
+At this point, you can edit the program in the Timeline as necessary. 
+	 You can overwrite sections of the Timeline with new clips. All modifications will be automatically 
+included into the supplemental package.
+	 You can use the Blade tool or Insert Edit command to cut sections of the existing program to 
+which you want to add Fusion effects, audio grading, or color correction. When you do this, 
+you must right click that section and choose “Include in Supplemental Package” to make sure it 
+exports correctly.
+ 
+Right-clicking a section of the program and 
+choosing Include In Supplemental Package
+For IMF Dolby Vision packages, please ensure all modifications are on the first video track (V1).
+NOTE: If RCM is being used, please ensure the input color space and gamma of the inserts 
+are correct.
+4225
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4226]]
+Dolby Vision Metadata
+The Dolby Vision metadata from the imported DCP/IMF file can be reused by selecting 
+“Original Metadata” from the Tone Map Using dropdown menu of the Dolby Vision palette 
+in the Color Page 
+ 
+Setting a clip to Original Metadata in the Color Page
+Alternatively, this metadata can be imported separately from an existing XML via the “Import 
+Metadata from XML” command in the option menu of the Dolby Vision palette in the Color page. 
+When successful, “Imported Metadata” will be enabled.
+Exporting
+You can export a supplemental package by turning on “Supplemental Package” in the the video panel 
+of the Deliver page Render Settings list.
+ 
+Setting an export to be a  
+Supplemental Package
+The codec type and profile will be automatically selected to match the original version of the DCP/IMF 
+package, and the audio tracks are set to match the Timeline tracks. Please ensure the rest of these 
+audio settings are matched to the original version, since they start out set to the default values. 
+4226
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4227]]
+Setting the audio settings of a Supplemental Package export
+Photon Validation of IMF Packages
+Photon is Netflix’s validation software for IMF App2/App2e packages. The option for using Photon 
+validation will only be shown on Resolve Studio with JDK/JRE version 1.8 and above installed, which is 
+available at https://github.com/Netflix/photon.
+NOTE: Please disable “Use easyDCP decoder” from “Preference” as there can be issues 
+decoding IMF packages without an easyDCP license. 
+Validating in the Media Pool
+An existing IMF package can be validated with Photon by importing it into the Media Pool, then right-
+clicking it and choosing “Perform Photon Validation” from the context menu.
+Validating an IMF in the Media Pool
+4227
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4228]]
+A report dialog will be shown when the validation is completed.
+A validation report
+Validating on Export
+Photon validation can be enabled in the File panel of the Deliver page Render Settings; choosing the 
+“IMF Netflix” preset will also enable this option. When enabled, DaVinci Resolve will perform Photon 
+validation after the IMF package is exported. The validation report will be saved to a text file in the IMF 
+package folder, and a report dialog will be shown if there is any error. 
+Enabling Photon validation on export
+4228
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4229]]
+Using and Licensing EasyDCP
+Both DaVinci Resolve and DaVinci Resolve Studio include a demo version of easyDCP. Details of 
+operation and restrictions of the demo version can be found later in this chapter. The fully functional 
+version of easyDCP operates via licensing modules purchased from http://www.easyDCP.com (info@
+easyDCP.com) and every new DaVinci Resolve system (server) needs its own license and specific 
+certificates for DCP and KDM generation and for playback of DCPs. 
+Requesting Your Server Certificate Set
+For your DaVinci Resolve system to generate DCPs and KDMs you need to request a specific set of 
+configuration files called the Server Certificate Set. To begin, first purchase your encoding, encryption, 
+decoding, and decryption modules from easyDCP. They will provide a password to access your 
+easyDCP account.
+Then, from the DaVinci Resolve File menu, select easyDCP > Request Server Certificate Set. Fill in 
+the detail listed on the request form and save the form to your desktop or somewhere it can be easily 
+found. This html file can be emailed to info@easyDCP.com. After sending the html, a customized 
+Server Certificate Set for your installation will be generated and made available for download in your 
+easyDCP Website User Account. 
+The Server Certificate Set generated for your DaVinci Resolve will contain files based on your 
+purchased modules and your specific DaVinci Resolve server hardware. The table below shows the 
+modules and the licenses and certificates generated, followed by a brief description of each item.
+License
+Server Certificate
+Signer Certificate
+DCP Encoder
+X
+­
+X
+DCP Encoder with Encryption
+X
+X
+X
+DCP Player
+X
+DCP Player with Encryption
+X
+X
+License: The License is used to activate the purchased modules on a specific 
+hardware server. 
+Server Certificate: Each DCP render (referred in the industry as an “Instance”) using encryption 
+or decryption has an individual server certificate. This certificate is required to be able to 
+receive Key Delivery Messages (KDMs), which unlock encrypted DCPs.
+Signer Certificate: A Signer Certificate is used to sign certain files within a DCP package and/
+or Key Delivery Message (KDM) to verify which authority generated the DCP instance.
+4229
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4230]]
+Importing Your Server Certificate Set
+Once generated and downloaded to your DaVinci Resolve server, the Server Certificate Set needs to 
+be imported into DaVinci Resolve. 
+To import your server certificate:
+1	
+Choose File > easyDCP > Import License and Certificates. 
+2	
+Use the Import Server Certificate dialog to select the file, enter your Certificate Set password, 
+then click Import.
+3	
+To verify your easyDCP license and the Server Certificates, choose easyDCP > About easyDCP.
+From this point onward, you can use the controls from within the Settings window, the Deliver page, 
+and the File menu to master and play DCPs.
+Limitations of the Demo Version of easyDCP
+The demo version of the DCP encoder embeds visible DaVinci Resolve and easyDCP logo 
+watermarks in the rendered Digital Cinema Package (DCP) images. The demo version does 
+not include encryption so these DCPs can be used for screening in a digital equipped cinema. 
+The demo version of the DCP playback module will play 15 seconds in full quality. After that 
+playback quality reduces drastically. Furthermore, audio won’t be rendered after 15 seconds 
+of playback.
+Switching Between Native DCP 
+and EasyDCP Encoding
+A checkbox in the Configuration panel of the System Preferences, “Use EasyDCP Encoder,” lets you 
+choose whether to use the native DCP/IMF encoding in DaVinci Resolve, or your licensed EasyDCP 
+software. In either case, all set up happens from within the Deliver page of DaVinci Resolve.
+EasyDCP Color Management
+The Color Management panel of the Project Settings has a Timeline Colorspace dropdown menu that 
+is enabled for EasyDCP encoding regardless of whether or not DaVinci Resolve Color Management is 
+used for the current project (the same setting is used for both color management tasks). You should 
+set this to the color space used by your current DaVinci Resolve timeline. If, for example, you are 
+grading using a Rec. 709 monitor for television deliverables but also wish to make a DCP, select Rec. 
+709 Gamma 2.4 and DaVinci Resolve will render the DCP with the correct Rec. 709 to XYZ matrix. 
+4230
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4231]]
+EasyDCP Output in the Deliver Page
+To master to a DCP in the Deliver page, use the following procedure, which walks you through all of 
+the easyDCP settings that are available in the Render Settings list.
+To master a DCP or IMF:
+1	
+Set “Render timeline as” to Single clip.
+2	
+Choose easyDCP from the Video Format dropdown.
+3	
+Choose the appropriate option from the Codec dropdown that corresponds to the type (DCP or 
+IMF) resolution (2K or 4K), and aspect ratio (native, scope, or flat) of your intended output.
+4	
+Set the Composition Name. This field is intended to hold a standardized name for the DCP being 
+encoded. You can either type a name into this field directly, or you can press the “...” button to 
+open the easyDCP Composition Name Generator window. An editable Film Title field appears, 
+along with a number of dropdown menus that let you select various DCP attributes such as 
+content type, aspect ratio, language of audio and subtitles, and so forth. As you populate each 
+attribute, the name being generated appears at the top of the window, and clicking OK copies the 
+resulting Composition Name into the Composition Name field of the Render Settings.
+5	
+If necessary, set the desired “Maximum DCP bit rate” by either typing or dragging within the field 
+(the range is 50 to 250 Mbit/sec). If you’re not sure what data rate to use, consult the client or 
+distributor to whom you’re delivering the DCP.
+6	
+There are two DCP package types you can output, determined by the “Use Interop 
+packaging” checkbox:
+	 The standard package conforms to the “Interop” specifications for DCPs, which is turned on 
+by default. With “Use Interop packaging” turned on, however, the frame rate of your output is 
+limited to either 24fps or 48fps, so you need to make sure that your timeline conforms to these 
+frame rates.
+	 If you want to generate DCP packages with other frame rates to match your timeline, you 
+need to turn “Use Interop packaging” off to generate a SMPTE-standard DCP. This supports 
+additional frame rates including 25, 30, 50, and 60 fps. However, SMPTE-Standard-DCPs are not 
+supported on all JPEG2000-based playback systems so it’s generally recommended to use the 
+Interop standard unless you know the player supports the SMPTE-Standard DCPs.
+7	
+Turn on the “Encrypt package” checkbox to encode an encrypted DCP. This sets the encoder to 
+generate a Digest containing the keys used during encryption. This Digest will allow you to play the 
+resulting DCP on your system, and to generate KDMs to allow that DCP to be played on other servers.
+NOTE: If you do not encrypt the DCP it can be played on any DCP player/decoder 
+without restriction.
+8	
+Set the Subtitles Path. If you have a properly formatted subtitle file, click the Browse button to link to it.
+9	
+If you’re including an audio mix in the DCP, go to the Audio section, turn on the Render audio 
+checkbox, and choose the number of channels in the “Render channels of audio” dropdown menu 
+that corresponds to the number of Audio Mixer output channels defined in the Edit page.
+10	 Click the Browse button under the “Render to” field, and choose a location for the resulting DCP. 
+Make sure you pick a drive with enough room for the estimated size of the final DCP.
+11	 Choose all necessary options from the Output Options to ensure the quality you need.
+12	 Click the Add Job to Render Queue button, and then click Start Render to create your DCP. 
+A DCP will be created and placed at the location you chose, ready for playback or delivery.
+4231
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER
+
+[[p4232]]
+KDM Generation and Management
+Key Delivery Messages (KDMs) are required to allow an encrypted DCP play on a designated 
+projector at a particular theater at a specified time. DaVinci Resolve is capable of creating KDMs, 
+which is convenient for exporting KDMs for select screenings, but commercial distributors may require 
+thousands of KDMs. Fortunately, easyDCP allows you to use external Distribution KDM (DKDM) utilities 
+to generate KDMs for your clients, so you don’t have to tie up your DaVinci Resolve workstation 
+with this task. 
+Publishing Your Encrypted Digital Cinema Package
+While you can play your encrypted DCP on the same DaVinci Resolve system that generated it, if you 
+wish to publish the DCP so other players can decode and play you need to generate a KDM to send to 
+the player. The user of the other player, or players, will need to generate a Server Certificate for each 
+of their players and send this to you so when you generate the KDM it will be just for those players.
+Select the DCP in the Media page Library. Right-click and select Generate KDMs. From the dropdown 
+select the location of the Server Certificate file if the KDM is for one player, or folder for multiple 
+players. Set the start and end dates that the KDM will be valid for, an output folder to place the KDM, 
+and then select Generate.
+You can now send your DCP and the KDMs to the player you authorized. The user there will import the 
+KDM and the DCP will play between the start and end dates.
+Playing Your Digital Cinema Package
+To play a DCP you’ve output from DaVinci Resolve, use the Media page to add it to the Media Pool and 
+edit it into a timeline like any other clip.
+Decoding the JPEG2000 images embedded within the DCP in real time is computationally intensive. 
+If your system is underpowered you can reduce the decoded resolution of the files by selecting Half 
+or Quarter Resolution Decode from the File > easyDCP menu. A smaller, less bandwidth-intensive 
+version of the JPEG2000 files will be decoded by discarding some levels of the wavelet stage inside 
+the decoder, which will directly increase the playback performance. 
+Playing Third-Party Digital Cinema Packages
+To play a non-encrypted DCP simply select the DCP in the Media page like any other clip. To play 
+an encrypted DCP from a third party you first must publish your Server Certificate. They use the 
+certificate to generate KDMs for their DCP to play on your DaVinci Resolve system. From the File menu 
+choose easyDCP > Export Server Certificate, and on the dropdown menu choose a location to save 
+the file. Send this to the third party for KDM generation.
+When you receive a KDM or a Digest for an encrypted DCP you must first import the file into your 
+DaVinci Resolve system. Choose File > easyDCP menu > Import KDM/Digest, and then select the file. 
+Then simply select the encrypted DCP in the Media Page Library to play.
+4232
+Deliver | Chapter 188 Delivering DCP and IMF
+DELIVER

@@ -1,0 +1,12 @@
+ ST 377-1, Material Exchange Format (MXF) — File Format Specification 
+ SMPTE Document Library 
+ / 377 
+ / ST 377-1, Material Exchange Format (MXF) — File Format Specification 
+ Versions of ST 377-1, Material Exchange Format (MXF) — File Format Specification active 
+ Publication (2019-11-28) 
+ Publication (2011-06-07) 
+ Amended by: 
+ Publication (2012-03-14) 
+ Amended by: 
+ Publication (2012-10-07) 
+ Publication (2009-05-04) 

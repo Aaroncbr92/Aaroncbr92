@@ -1,0 +1,363 @@
+
+[[p75]]
+Chapter 3
+Managing Projects 
+and Project Libraries
+This chapter covers how to use the Project Manager to organize the projects 
+you’re working on in DaVinci Resolve, as well as how to deal with managing the 
+project libraries that serve as the organizational foundation of the Project Manager. 
+You’ll also see how to export and import projects, and how to archive a project and 
+its media for long‑term storage.
+Contents
+Using the Project Manager................................................................................................................................................................ 76
+Creating a New Project......................................................................................................................................................................... 77
+Project Management.............................................................................................................................................................................. 77
+Importing and Exporting DaVinci Resolve Projects (.drp Files)......................................................................................... 78
+Project Manager View Options......................................................................................................................................................... 79
+Searching for Projects..........................................................................................................................................................................  80
+Customize Project Poster Frames..................................................................................................................................................... 81
+Organizing Projects in Folders........................................................................................................................................................... 81
+Managing Project Libraries................................................................................................................................................................ 82
+Project Library Types............................................................................................................................................................................. 82
+Opening the Project Libraries Sidebar.......................................................................................................................................... 82
+Moving Projects From One Project Library to Another on the Same Workstation.................................................. 83
+Managing Project Libraries in the Project Libraries Sidebar.............................................................................................. 84
+Quick Access to Recent Projects from the File Menu.......................................................................................................... 88
+Saving Projects......................................................................................................................................................................................... 89
+Live Save.....................................................................................................................................................................................................  90
+Project Backups.......................................................................................................................................................................................  90
+Timeline Backups.................................................................................................................................................................................... 92
+Compare Timelines with Timeline Backup Snapshots.......................................................................................................... 93
+Project Notes............................................................................................................................................................................................. 94
+Dynamic Project Switching................................................................................................................................................................ 94
+Archiving and Restoring Projects................................................................................................................................................... 95
+75
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p76]]
+Using the Project Manager
+Ordinarily, the Project Manager is the first window you’ll see when DaVinci Resolve starts up. It’s a 
+convenient, centralized browser for creating, organizing, and managing all of your projects. Unlike 
+other applications that rely on your file manager for organizing projects, DaVinci Resolve requires you 
+to do most project organization in the Project Manager.
+Project Manager
+If you’ve already opened a project, you can reopen the Project Manager at any time by clicking the 
+Home button at the bottom right-hand corner of the DaVinci Resolve window, in the Page Navigation 
+bar. If you’ve hidden the Page Navigation bar at the bottom of the DaVinci Resolve window, you can 
+open the Project Manager by choosing File > Project Manager.
+The Project Manager button at 
+the bottom-right corner of the 
+DaVinci Resolve interface
+Launching DaVinci Resolve for the First Time?
+If you’ve just installed DaVinci Resolve and have opened it for the first time, it’s time to set the 
+preferences in order to specify your language, scratch disk volume, and hardware configuration for 
+video and audio I/O and control panels (if you have one). 
+For more information on setting the preferences in DaVinci Resolve, jump to this chapter: 
+System and User Preferences.
+76
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p77]]
+Creating a New Project
+The first step into DaVinci Resolve is to create a new Project in the Project Manager, which is 
+conveniently the first thing that opens when you launch the program. Each project contains links to 
+all of the media, graphics, and sound files used in your film, as well as timelines where all the editing, 
+color correction, motion graphics, and audio post work is done.
+There are several settings, options, and preferences attached to each project (you can access them by 
+clicking on the small gear icon in the very bottom right of the interface), and all of them are described 
+in detail later in this section. However, actually creating a project requires only four steps.
+Creating a New Project:
+1	
+Click on the New Project button at the bottom of the Project Manager.
+2	
+Type in a name for your project.
+3	
+Observe the folder where any media created by DaVinci Resolve will be stored in Media Location. 
+Make sure you have some space on this drive. Clicking on the Change Location button lets you 
+select another drive/folder instead of the default.
+4	
+Click the Create button.
+The Create New Project dialog
+Project Management
+The Project Manager provides an in-application interface for creating, renaming, and deleting projects. 
+Many of these commands exist within the contextual menu that appears when you right-click the 
+background of the Project Manager.
+Methods of project management:
+	 To create a new project: Double-click the Default Project icon, or click the New Project button 
+at the bottom of the window. A new project is created, and DaVinci Resolve opens up the Media 
+page. Once a project is open, you can alter its project settings by clicking the gear icon.
+	 To open a previously saved project: Double-click any Project icon, or Item if you’re in List view. 
+You can also select a project and click the Open button.
+	 To open a project in Read-Only Mode: Right-click a Project icon or Item, and choose Open in 
+Read Only Mode. This lets you open a project without danger of altering it. If you make changes, 
+you can use the Save As command to save a new copy of the project with a new name.
+	 To rename a project: Right-click a Project icon or Item, choose Rename, and type a new name in 
+the dialog that appears, clicking OK when you’re finished.
+	 To load project settings from another project to the currently open project: Right-click a 
+Project icon or Item (other than the currently open project), and choose “Load Project Settings to 
+Current Project.” This lets you change a project’s settings prior to opening it in cases where the 
+project settings are causing some kind of problem that prevents you from opening the project.
+77
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p78]]
+	 To update the thumbnails of a project in the Project Manager: Right-click any project, and 
+choose “Update Thumbnails.”
+	 To delete a project: Select one or more projects, then either press the Backspace key, or 
+right-click one of the selected projects and choose Delete. Click OK when a dialog asks you to 
+confirm the operation.
+NOTE: You cannot move or delete the currently open or loaded project. 
+Importing and Exporting DaVinci Resolve Projects (.drp Files)
+DaVinci Resolve projects are saved with the file extension .drp and enable you to exchange files with 
+other DaVinci Resolve users. If you double-click a DaVinci Resolve .drp file in the Windows or macOS 
+file system, this will automatically open DaVinci Resolve, import that project into the Project Manager 
+regardless of what kind of project library you’re using, and open that project so that you’re ready to work.
+Importing and Exporting Projects in Local Project Libraries
+If you’re using local project libraries to manage your projects, you can copy and import projects using 
+the project folders in the file manager of either macOS or Windows. This method does not work for 
+DaVinci Resolve on Linux.
+Moving projects from one local project library into another using macOS or Windows:
+1	
+Locate the local project library directory in which the project you want to copy is stored. If you 
+don’t know where the designated local project library directory is, you can open DaVinci Resolve 
+and check the directory path for the current local project library in the Project Libraries sidebar.
+2	
+Copy the project folder from the source workstation to the designated local project library 
+directory on the destination workstation. If you don’t know where the designated local project 
+library directory is, you can open DaVinci Resolve on the workstation you’re copying the project to 
+and check the directory path for the current local project library in the Project Libraries sidebar. 
+3	
+Once you’ve copied the project folder into the correct location, you’ll need to quit and reopen 
+DaVinci Resolve. Afterwards, the imported project should appear in the Project Manager.
+Importing and Exporting Projects in Network Project Libraries
+If you’re using a network project library, another set of commands let you import and export projects 
+using the .drp file format. You can also export .drp files from local project libraries if you want to export 
+a more self-contained item to transport.
+To import a .drp project file, do one of the following: 
+	 Select the Import button at the bottom of the Project Manager, then find and select a .drp project 
+file using the Import Project File dialog, and click Open.
+	 Drag the .drp file you want to import from your file system and drop it anywhere into the 
+Project Manager window.
+	 Right-click any empty area of the Project Manager and choose Import, then find and select a .drp 
+project file using the Import Project File dialog, and click Open.
+To import a .drp project file and reconfigure the gallery path at the same time:
+	 Hold the Option key down while right-clicking any empty area of the Project Manager, and choose 
+Import+, then find and select a .drp project file, and click Open. Upon opening, the gallery path will 
+automatically be updated to that of your workstation.
+78
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p79]]
+To export the currently open project as a .drp file:
+	 Choose File > Export Project, and when the Save dialog appears, choose a location, enter 
+a name, and click Save. The result is a self-contained file with a .drp file suffix saved at the 
+location you chose.
+To export a .drp project file from the Project Manager: 
+	 Select the Export button at the bottom of the Project Manager, and when the Save dialog appears, 
+choose a location, enter a name, and click Save. The result is a self-contained file with a .drp file 
+suffix saved at the location you chose.
+	 Right-click a Project icon or Item in the Project Manager, then choose one of the 
+following commands;
+Export Project: Exports project data with no LUTs and no stills. Best when you need to export the 
+smallest possible file.
+Export Project With Stills and LUTs: Exports the project, including both still frames in the Gallery 
+and LUTs used in grades. Best when you want to export the most self-contained file and you can’t 
+guarantee the recipient will have the same LUTs you do.
+	 When the Save dialog appears, choose a location, enter a name, and click Save. The result is a 
+self-contained file with a .drp file suffix saved at the location you chose.
+TIP: You can export multiple projects from the Project Manager at the same time by either 
+command-clicking or lassoing the projects, right-clicking on one of them, and selecting 
+Export Projects from the dropdown menu. All projects will be saved in the same location.
+Project Manager View Options
+Four buttons at the top right let you control how projects are viewed in the Project Manager.
+Select Thumbnail or List View 
+	 Zoom slider: (Only appears in Thumbnail view) Lets you adjust the size of the thumbnails in 
+Thumbnail view.
+	 Project Sort Order dropdown: (Only appears in Thumbnail view) Lets you choose the sort order of 
+projects in Thumbnail view.
+	 Information: (Only appears in Thumbnail view) Lets you show or hide additional project 
+information displayed underneath each project’s thumbnail, including the frame size, number of 
+timelines within, and when that project was last modified.
+	 Thumbnail view: Each project is represented by a large image that can be hover-scrubbed to 
+reveal five representative images from that project. 
+Hover-scrub over Project icon;  
+information is enabled
+79
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p80]]
+	 List view: Every project appears as an item in a list that has seven columns: Name, Last Modified, 
+Timelines, Format, Frame Rate, Date Created, and Note. You can click any column header to sort 
+the contents of the Project Manager by that criteria; clicking the header a second time toggles that 
+column between ascending and descending sorting. 
+Project List view
+Searching for Projects
+Clicking the magnifying glass button at the upper right-hand corner of the Project Manager exposes 
+the Search Options, which can be used to locate one or more projects based on the metadata that’s 
+selected in the Filter By dropdown menu to the right of it.
+Search field open with Filter by search criteria selected
+Using the dropdown menu, you can choose to search by name, or by project format. Once 
+you’ve chosen a criteria, begin typing into the search field, and the Project Manager will 
+immediately and dynamically begin to be filtered by your search text.
+80
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p81]]
+Customize Project Poster Frames
+You can set a custom Poster Frame for the Project thumbnail in the Project Manager directly from the 
+Media Pool. This lets you visually categorize all your projects at a glance.
+To set a Project Poster Frame:
+1	
+Select a clip from the Media Pool for the new poster frame.
+2	
+Scrub over the clip until the frame you want shows up in the thumbnail image.
+3	
+Right-click the clip and select Clip Operations > Set Project Poster Frame.
+Organizing Projects in Folders
+If you’re organizing a lot of projects, you can create folders to put them into.
+A folder in the Project Manager 
+Methods of working with project folders:
+	 To create a folder: Click the New Folder button, then enter a name into the Create New Folder 
+dialog and click Create.
+	 To delete a folder: Right-click a folder, choose Delete, and click Yes when prompted. All projects 
+inside a deleted folder will be deleted as well.
+	 To rename a folder: Right-click a folder, choose Rename, then enter a new name and click OK.
+	 To copy a folder: Right-click on a folder and choose Copy from the dropdown menu, or select the 
+folder and press Command-C. Any projects enclosed inside that folder will also be copied.
+	 To paste a folder: Once a copy operation has been made, right-click on the background of the 
+Project Manager and choose Paste from the dropdown menu, or press Command-V. You can 
+paste into other project libraries, into other folders, or into the same location where a new version 
+of the folder will have the word (Copy) appended to it. All enclosed timelines will copy over as well.
+	 To open a folder: Double-click a folder to open it and view its contents. At the upper left-hand 
+corner of the Project Manager, a folder path view shows you which folder is open, as well as where 
+you are within a nested series of folders if that’s what you’ve set up.
+	 To exit a folder: Use the path control at the top of the Project Manager to click on a higher level 
+in the folder hierarchy.
+	 To move a project into a folder: Drag the project onto a folder icon, and drop it to place it 
+inside the folder.
+	 To move a project out of a folder: Open a folder, select one or more projects you want to move, 
+then right-click the selection and choose Cut from the contextual menu. Then, navigate to the next 
+place in the Project manager where you want to place the cut projects, right-click the background 
+of the Project Manager, and choose Paste. The projects should appear in the new location.
+81
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p82]]
+Managing Project Libraries
+Unlike other applications which save self-contained project files to user-specified locations 
+wherever you like in your file system, DaVinci Resolve takes a more centrally organized approach to 
+project management, using project libraries. By default, DaVinci Resolve uses a local project library 
+to keep track of every project you create. The Project Libraries sidebar lets you manage the projects 
+found within this project library, which are saved to a specific directory on your system (particular 
+to that project library). The default location of this local project library depends on the operating 
+system you use.
+However, you can create additional project libraries with which to store other projects, if you like. 
+For example, you might create one project library each for each year in which you work. If you 
+work on series television, you could create multiple project libraries for each program you work 
+on. Or, you could create separate project libraries for each client you do work for. There’s no hard 
+and fast rule; ultimately how you use project libraries is entirely up to you and your individual 
+organizational preferences.
+Project Library Types
+Project libraries can be stored in three different project library types which work similarly in function 
+but have additional connectivity and sharing features based on your networking setup. You select the 
+Library Type at the top left of the Project Manager.
+	 Local: Stores your project libraries locally on your workstation. This is the default and is best for 
+individual users or single systems.
+	 Network: Stores your project libraries on an external computer that is connected to several 
+workstations on the same local network. It also allows you to control user access to the project 
+library. This is best for a facility composed of multiple workstations in the same building working 
+on the same material.
+	 Cloud: Stores your project libraries in the Blackmagic Cloud. This allows several workstations 
+to connect to the same project library over the internet. It also allows you to control user access 
+to the project library. This is best for multiple people working on the same project from different 
+locations around the world.
+ 
+The three types of project libraries: local, network, and cloud. 
+For more information on setting up and configuring the different project library types, jump to 
+this chapter: Managing Project Libraries and Project Servers.
+Opening the Project Libraries Sidebar
+If you already have multiple project libraries, then clicking the button at the upper-left hand corner of 
+the Projects Browser reveals a sidebar at the left of the Project Manager that lists every project library 
+on your workstation, with various options for managing these project libraries and for browsing the 
+projects found within them.
+82
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p83]]
+You can use this sidebar to open different project libraries and browse the 
+projects found inside.
+Project Libraries  
+sidebar button 
+Project Manager with the Project Libraries sidebar displayed 
+Moving Projects From One Project Library 
+to Another on the Same Workstation
+If you’ve used multiple project libraries to organize your projects, you can browse the contents of each 
+project library to search for what you’re looking for, and then copy one or more projects from one 
+project library to another if you need to rearrange how they’re organized.
+To view the contents of a project library:
+1	
+Click the button at the upper-left hand corner of the Projects window to open the Project 
+Libraries sidebar.
+2	
+Click to select a project library in the sidebar, and an orange highlight will appear
+If you had a project already open, you’ll be asked if you want to save it before closing, because 
+all open projects must be closed prior to viewing the contents of another project library. Then, 
+the projects corresponding to that user within the selected project library appear in the Project 
+Manager window.
+83
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA
+
+[[p84]]
+To import a project from another project library using the Project Libraries sidebar:
+1	
+Click the button at the upper-left hand corner of the Projects window to open the Project 
+Libraries sidebar.
+2	
+Click to select a project library in the sidebar, and if necessary use the dropdown menu at the 
+right of the project library listing to choose a specific user. The projects corresponding to that user 
+within the selected project library appear in the Project Manager window.
+3	
+Select a project you want to import, and press Command-C to copy it.
+4	
+Click to select the current project library again (the project library you want to work within).
+5	
+Press Command-V to paste the project you copied. A copy appears in the current project library.
+For more information on shared project library setup and operation, jump to this chapter: 
+Managing Project Libraries and Project Servers.
+To import Project Settings from another project using the Project Libraries sidebar:
+1	
+Click the button at the upper-left hand corner of the Projects window to open the 
+Project Libraries sidebar.
+2	
+Select a project you want to import Project Settings to so that it’s highlighted.
+3	
+Right-click any project and choose “Load Project Settings to Current Project.” That project’s 
+settings will be copied to the project you selected in step 2.
+Managing Project Libraries in the Project Libraries Sidebar
+Controls within the Project Libraries sidebar make it easy to create new project libraries (via the button 
+at the bottom), upgrade project libraries that have been flagged (via circular badges), import and 
+export project libraries (via buttons at the top), and reveal additional information about each project 
+library (via buttons at the top of this sidebar).
+Project Libraries sidebar controls
+The three controls at the top of the Project Libraries sidebar have the following functions:
+Sort Order dropdown menu: This menu lets you choose how to sort the various local 
+and network project libraries displayed in the sidebar. You can sort by Project Library 
+Name, Schema (by date), Status, or Location in Ascending or Descending order.
+Restore: Imports .resolve.backup files to restore a backed up project library.
+Show Search Field: Displays a search field and search criteria dropdown that lets you 
+search for project libraries in the sidebar by Name, Schema, Status, or Location.
+Clicking on the Display Project Library Details icon (the circled letter “i” to the right of the project 
+library), shows additional information underneath each project library in the sidebar. What 
+information depends on the type of project library. Local project libraries display their status 
+84
+Setup and Workflows | Chapter 3 Managing Projects and Project Libraries
+MEDIA

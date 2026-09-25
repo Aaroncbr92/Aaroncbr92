@@ -1,0 +1,35 @@
+LTO Program, «LTO Generation Compatibility Details», https://www.lto.org/lto-generation-compatibility/ — leída el 25-09-2026 (curl, HTML a texto).
+
+ LTO Generation Compatibility Details | LTO Ultrium Subscribe to Newsbytes Licensee Login Contact Us Search 
+for: ABOUT LTO What is LTO Technology? Benefits of LTO Technology LTO Technology Use Cases FAQs about LTO 
+Technology LTO Technology Participants LTO TECHNOLOGY Roadmap LTO Generation 8 LTO Generation 9 LTO 
+Generation 10 LTO Compatibility Linear Tape File System Encryption Active Archiving Sustainability 
+Cybersecurity NEWS Latest Headlines NewsBytes BlogBytes Analyst and Media Quotes Press Releases Press Release 
+Archive RESOURCES INSIC Roadmap 2024 Podcasts & Webinars Videos White Papers and Reports Case Studies 
+Superhero Ebook LICENSING Licensing Process Licensee Login Select Page LTO GENERATION COMPATIBILITY &#x3b; 
+Proprietary storage systems don’t give you a lot of options when you want to transfer data. They can lock 
+you into a system that can be more expensive and lacking innovation. How the LTO format works That’s why 
+LTO specifications are open format, designed for interoperability from among multiple competing vendors. 
+These vendors submit their products to compatibility testing to ensure vendor functionality so that an LTO 
+technology from one vendor can be used on a drive provided by another. It’s become the de-facto standard 
+for medium-tier storage needs. Protecting your investment Most importantly, the LTO format ensures that your 
+investment today will continue to pay off for years to come. LTO specifications provide backwards 
+compatibility to read/write with previous generations.   LTO drive generations 1-7 are able to read tapes 
+from two generations prior and are able to write to tapes from the prior generation.   LTO-8 drives can read 
+and write to LTO-7 and LTO-8 media, including LTO-7 Type M.   LTO-9 drives can read and write to LTO-8 and 
+LTO-9 media only.   LTO-10 drives can only read and write to LTO-10 media. But they support both 30 TB and 
+40 TB LTO-10 media interchangeably. With a published roadmap, LTO technology allows you to better forecast 
+how to address your future technology as you consider your needs today. Linear Tape File System And with the 
+Linear Tape File System (LTFS), LTO technology options are more compatible than ever before. There’s no 
+need for a proprietary system to locate that document or video file that you’re searching for. LTFS makes 
+it easy and simple. It’s open source and open standard, meaning that it’s broadly available regardless of 
+which brand of LTO technology that you’re using. Today, LTO technology provides the confidence that the 
+file you save can be accessed by a broad range of partners for years to come. That’s the LTO difference. 
+LTO Ultrium Roadmap Hewlett Packard Enterprise Company, International Business Machines Corporation and 
+Quantum Corporation collaborate and support technology specifications, licensing, and promotions of LTO 
+Ultrium products. © 1999 – 2026 Hewlett Packard Enterprise, IBM and Quantum. All rights reserved. 
+Information subject to change without prior notice. All trademarks and registered trademarks contained herein 
+are the property of their respective owners. Linear Tape-Open LTO, the LTO logo, Ultrium and the Ultrium logo 
+are registered trademarks of Hewlett Packard Enterprise, IBM and Quantum in the US and other countries. 
+Privacy Policy Cookie Policy Sitemap Press Releases X RSS This website uses cookies to ensure you get the 
+best experience on our website. GOT IT! LEARN MORE 

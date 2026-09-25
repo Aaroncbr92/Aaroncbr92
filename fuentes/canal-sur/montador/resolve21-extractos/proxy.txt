@@ -1,0 +1,1233 @@
+
+[[p196]]
+Chapter 8
+Improving 
+Performance, 
+Proxies, and 
+the Render Cache
+DaVinci Resolve is a high-performance piece of software designed to enable real 
+time effects on a variety of workstations. 
+This section describes the various ways you can monitor your performance to make sure you’re 
+maintaining real time playback, along with different methods of optimizing real time performance, 
+including using on-the-fly proxies and the background Render Cache.
+Contents
+Background Rendering...................................................................................................................................................................... 198
+Understanding the GPU Status Display.................................................................................................................................... 199
+Prioritizing Audio or Video Playback in the Edit Page....................................................................................................... 199
+Performance Mode Improves Overall Performance.......................................................................................................... 200
+Adjusting Performance Mode......................................................................................................................................................... 200
+Timeline Proxy Mode Improves Effects Performance....................................................................................................... 200
+Reducing Decode Quality Improves Raw Media Performance..................................................................................... 201
+Optimized Media Improves Overall Performance............................................................................................................... 202
+Creating Optimized Media............................................................................................................................................................... 202
+Optimized Media for Raw Source Clips...................................................................................................................................... 203
+Customizing the Type of Optimized Media You Create..................................................................................................... 203
+Switching Between Optimized and Original Media............................................................................................................. 204
+Sharing Optimized Media Between Projects.......................................................................................................................... 204
+Rediscovering Lost Optimized Media......................................................................................................................................... 205
+196
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p197]]
+Deleting Optimized Media................................................................................................................................................................ 205
+Using Optimized Media for Delivery........................................................................................................................................... 205
+Using the Smart or User Cache Improves Effects Performance................................................................................. 205
+How Cached Media Is Organized................................................................................................................................................. 206
+Choosing a Cache Format and Location................................................................................................................................... 208
+When Caching Happens................................................................................................................................................................... 208
+The Difference Between the Smart Cache and User Cache Modes........................................................................... 209
+Manually Controlling the Cache.................................................................................................................................................... 210
+Controlling Fusion Output Caching.............................................................................................................................................. 210
+Controlling Node Caching.................................................................................................................................................................. 211
+Controlling Color Output Caching.................................................................................................................................................. 211
+Controlling Edit Page Filter Caching............................................................................................................................................. 211
+Using Cached Media When Rendering in the Deliver Page.............................................................................................. 211
+Clearing Cached Media....................................................................................................................................................................... 211
+The Cache Manager............................................................................................................................................................................. 212
+Automatic Cache Deletion............................................................................................................................................................... 213
+Using Proxy Media................................................................................................................................................................................ 213
+Creating and Using Proxy Media................................................................................................................................................... 213
+Proxy Handling Display....................................................................................................................................................................... 214
+Creating Proxy Files with the Blackmagic Proxy Generator............................................................................................. 215
+Generating Proxy Media in Other Applications...................................................................................................................... 218
+Managing Proxy Media....................................................................................................................................................................... 218
+Switching Between Proxy Media and Original Media.......................................................................................................... 219
+Using Proxy Files for Delivery......................................................................................................................................................... 220
+Moving Proxies Using a DaVinci Resolve Archive (.dra)..................................................................................................... 220
+Working Remotely Using Proxy Media........................................................................................................................................ 221
+Proxy Media vs. Other Playback Optimizations in DaVinci Resolve............................................................................ 222
+Using Optimized Media, Proxy Media, and Caching Together.................................................................................... 222
+Which Playback Optimization Method Should I Use?....................................................................................................... 223
+Other Project Settings That Improve Performance............................................................................................................ 223
+197
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p198]]
+Background Rendering
+DaVinci Resolve supports background rendering for certain computationally intensive operations, 
+including background renders, quick exports, and proxy generation. You can also use background 
+analysis for transcription and audio classification. When an operation moves to the background for 
+processing, you can continue working within the Resolve interface without affecting the original operation.
+NOTE: Background rendering requires significant computational resources and may slow 
+down your system significantly, depending on your workstation’s processor, ram, data 
+throughput and so on. As a result, this operation is disabled by default.
+You can monitor the progress of your ongoing background tasks via the pop-up on the bottom toolbar.
+Background Tasks preferences.
+	 Background Render: These options control the Background Rendering parameters.
+Enable background renders: Checking this box turns on Background Rendering, while 
+unchecking turns it off.
+Pause background renders on foreground activity: Checking this box will pause your 
+background tasks while you’re using the DaVinci Resolve interface, giving you full computer power 
+for your active work.
+	 Tasks Options: These options let you choose which operations to render in the background.
+Transcription: Check this box to move transcription tasks to the background.
+Proxy Generation: Check this box to move proxy generation tasks to the background.
+The Background Tasks pop-up.
+198
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p199]]
+Understanding the GPU Status Display
+Every viewer in DaVInci Resolve exposes a GPU status indicator and a frame-per-second (FPS) meter, 
+which appears in the Viewer’s title bar, which shows you your workstation’s performance whenever 
+playback is initiated. Since DaVinci Resolve uses one or more GPUs (graphics processing units) to 
+handle all image processing and effects, the GPU status display shows you how much processing 
+power is being used by whichever clip is playing. 
+Frame rate and GPU indication,  
+green is good
+A green status indicator shows there is plenty of GPU processing headroom available. As the 
+GPU resources is increasingly taxed, this green graph eventually turns red to show that the 
+available GPU power is insufficient for consistent real time playback. 
+Red indicates that playback is at  
+slower than real time
+Eventually, as you add more and more effects and corrections, you’ll reach the limits of available 
+performance, forcing DaVinci Resolve to either drop frames, or play video at a slower speed in order to 
+maintain high image quality, shown by the red FPS indicator.
+When real time performance falls short, DaVinci Resolve provides a variety of controls and options that 
+let you enhance real time playback and effects. Each is useful for different situations, and all can work 
+together so you can choose the best trade-off between image quality and performance while you 
+work. All of these methods can be set up to have no effect on your delivered output.
+Prioritizing Audio or Video 
+Playback in the Edit Page
+When available processing power is insufficient to play the clip or clips at the position of the playhead 
+due to the grade, transforms, or effects that are applied at that moment in the Timeline, you have the 
+ability to choose exactly how performance in DaVinci Resolve degrades, by turning the “Show All 
+Video Frames” on or off in the Option menu of the Edit page Viewers.
+•	 Show All Video Frames off: The default setting, ideal for video editing. Prioritizes audio 
+playback at the expense of dropping video frames when processing power is tight, resulting 
+in a more conventional playback experience.
+•	 Show All Video Frames on: An alternate setting that’s ideal when you’re doing effects 
+work, for which you need to see every single frame play back, sequentially. Audio quality 
+is compromised while every frame of video plays in slower-than-real-time, if necessary, to 
+maintain playback.
+Keep in mind that this setting only affects playback when GPU performance is lacking. 
+In areas of the Timeline where performance is adequate, playback remains uncompromised.
+199
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p200]]
+Performance Mode Improves 
+Overall Performance
+Performance Mode, which is found in the Playback Settings of the User Preferences, analyzes your 
+computer’s configuration, the CPU, GPU, connected video interface, and so on, and automatically 
+tunes DaVinci Resolve’s under-the-hood image processing settings to provide the best interactivity on 
+your machine. It’s set to Automatic by default, although you can choose to adjust its effect manually, 
+or disable it altogether. When enabled, Performance Mode dramatically improves the experience of 
+editing, mixing, and grading on less powerful computers.
+While Performance Mode is turned on, DaVinci Resolve still outputs to video, renders in the Delivery 
+page, and processes via the Media Management command at the highest quality. As a result, using 
+Performance Mode makes no compromise in the quality of your output, so creative editors and audio 
+mixers can leave this setting on always.
+Finishing editors and colorists might notice subtle differences between the image on your computer 
+monitor on less powerful computers when Performance Mode is on versus when it’s off, which is 
+why this setting can be disabled, either entirely or in part using checkboxes in the Playback Settings 
+panel of the User Preferences for instances where GUI interactivity is less important than your 
+onscreen display.
+Adjusting Performance Mode
+A pair of radio buttons in the Playback Settings panel of the User Preferences let you choose between 
+Automatic (default) and Manual behaviors when you turn on Performance Mode in DaVinci Resolve. 
+Set to Automatic, Performance mode automatically optimizes a variety of operations in a bid to balance 
+performance with the necessary level of image quality, for fast onscreen performance while always 
+maintaining the highest level of quality for video output. 
+Set to Manual, there are three different settings you can choose to disable for instances where 
+a particular performance tradeoff results in an undesirably noticeable reduction in image 
+quality in Performance Mode:
+•	 Optimized Sizing: Relates to how image resizing is handled.
+•	 Optimized Decode Quality: Relates to how clip resolution vs. timeline resolution is handled.
+•	 Optimized Image Processing: Relates to how image processing operations are handled.
+Timeline Proxy Mode 
+Improves Effects Performance
+If you don’t want to either drop frames or play at slower than real time speed whenever the GPU Status 
+indicator is in the red, an immediate way of improving performance is to turn on the Use Timeline 
+Proxies option in the Playback menu. Using timeline proxies reduces processing demands by taking 
+advantage of the resolution independence of DaVinci Resolve to lower the resolution of your clips 
+on-the-fly, thereby increasing real time playback performance without the need to spend time caching 
+part or all of the timeline, or create optimized media (both discussed later).
+200
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p201]]
+To turn Use Timeline Proxies on and off:
+	 Choose Playback > Timeline Proxy Resolution > Half Resolution, Quarter Resolution, or None.
+Turning on one of the proxy resolutions reduces the working resolution by either half or a quarter 
+of whatever the current Timeline resolution is for your project. Working at a temporarily reduced 
+resolution increases your workstation’s real time performance, while the resolution independence 
+of Resolve guarantees that every window you draw and sizing operation you make scales 
+correctly to the actual resolution of your project.
+Proxy Resolution
+Width
+Height
+Full 8K UHD
+7680
+4320
+Full UHD/Half 8K UHD
+3840
+2160
+Full-HD/Half UHD/Quarter 8K UHD
+1920
+1080
+Half-HD/Quarter UHD/Eighth 8K UHD
+960
+540
+Quarter-HD/Eighth UHD/Sixteenth 8K UHD
+480
+270
+Table of half and quarter proxy resolutions for different television frame sizes
+IMPORTANT: Timeline Proxy Mode is entirely different and independent of the creation of 
+Proxy Media as described later in this chapter. The two functions, Timeline Proxy Mode and 
+Proxy Media, have no relation to each other. 
+Reducing Decode Quality 
+Improves Raw Media Performance
+The Use Proxy command will improve performance when grades and effects are responsible for your 
+project’s slower than real time playback, but Use Proxy won’t help when real time performance is 
+being used up by the need to debayer raw media. While you could improve playback performance by 
+taking the time to either generate optimized media (see below) or render to the Fusion Output Cache 
+by enabling the Smart Cache (see later in this chapter), the fastest solution is to open the Camera Raw 
+panel of the Project Settings and reduce the Decode Quality of the raw media formats you’re using:
+	 Decode Quality: Camera raw formats such as R3D and F65 can be debayered at different levels 
+of quality. For higher real time performance, you can choose a lower quality setting while you 
+work, and then switch to a higher quality when rendering the final output. 
+Options for reducing resolution vary by each raw format’s differing capabilities, but at the very 
+least include full, half, and quarter resolution (R3D and Sony Raw have options for full, half, quarter, 
+eighth, and sixteenth). Exceptions include the Canon RAW, Panasonic Varicam RAW, and Phantom 
+Cine formats, which only decode to full resolution.
+If you reduce the decode quality of raw media formats in your project to improve performance, 
+you can use the “Force debayer res to highest quality” checkbox in the Render Settings list of 
+the Deliver page to ensure that DaVinci Resolve renders all raw formats at the highest quality 
+available, so you don’t have to worry about forgetting to change the decode quality back when it’s 
+time to render your deliverables.
+201
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p202]]
+Optimized Media Improves 
+Overall Performance
+If you’re editing processor-intensive source formats such as camera raw, H.264, or 8K media, and 
+your computer isn’t fast enough to work with it easily in real time, you can create pre-rendered, low-
+overhead duplicate media to use instead, that’s automatically managed alongside the original media. 
+This is called “Optimized Media.” Optimized Media lets you work more quickly by allowing you to edit 
+with a more processor-efficient media format and resolution, while providing the ability to easily switch 
+your project back to the original source media whenever you want. So, you can use Optimized media 
+to edit, and switch back to the original source media when it’s time to finish and output. Switching is as 
+easy as choosing Playback > Use Optimized Media if Available to toggle Optimized media on and off.
+The advantage of using optimized media to help you work faster is that it’s pre-generated, meaning 
+you can render it once and then use the files for the duration of your work in that project (unless you 
+change the debayering settings of the raw media). Also, optimized media improves the playback 
+performance of clips throughout DaVinci Resolve, including in the Media page and in the Media Pool 
+and Source Viewer of the Edit page, whereas the similar but different Fusion Output Cache component 
+of the Smart Cache only improves the performance of clips that are already in the Timeline by caching 
+them at the Timeline resolution. This makes optimized media ideal for editing workflows of all kinds.
+Choosing the Appropriate Optimized Media Format for Your Project
+You have the option of choosing the Format of the optimized media you create, using controls 
+in the Master Settings panel of the Project Settings. Be aware that the format you choose via 
+the “Optimized Media Format” menu will determine whether out-of-bounds image data (also 
+known as “overshoots”) and Alpha Channels are preserved when the clip is cached.
+•	 Preventing Clipping: You should use 16-bit float, ProRes 4444, ProRes 4444 XQ, or DNxHR 
+444 if you plan on grading using optimized media. This is particularly true for HDR grading.
+•	 Preserving Alpha Channels: Also be aware that the format you choose will determine 
+whether Alpha Channels will be preserved if they’re present in the clips being optimized. 
+Currently, the Uncompressed 10-bit, Uncompressed 16-bit Float, ProRes 4444, ProRes 4444 
+XQ, and DNxHR 444 formats preserve alpha channels.
+Creating Optimized Media
+Creating optimized media to work with is easy. Resolve automatically manages the relationship 
+between source clips and the optimized media you create, so all you need to do is choose which clips 
+to make optimized media for. You can manually choose which clips to optimize, or you can use a Smart 
+Bin to collect all of the media corresponding to one or more formats you need to optimize to gather 
+it procedurally. In either case, this gives you the option of only optimizing clips in formats that require 
+optimization, saving you time. 
+For example, if you’re editing a project that consists half of camera raw media, and half of DNxHD 
+media, you probably only need to optimize the camera raw media, so you can create a Smart Bin that 
+gathers all of it, based on Resolution, Codec, File Name, or whatever other metadata is appropriate. 
+Once gathered, it’s an easy thing to select all of these clips in preparation for the next step.
+To create optimized media for one or more selected clips:
+Right-click one of the selected clips, and choose Generate Optimized Media from 
+the contextual menu.
+202
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p203]]
+All optimized media is written to the same directory as the Cache files are written, which defaults to 
+the first scratch disk listed in the Preference dialog’s Media Storage panel. The location of Cache and 
+Optimized files is also selectable via the “Cache files location” setting in the Master Settings panel of 
+the Project Settings.
+Optimized Media for Raw Source Clips
+In general, once you create optimized media, DaVinci Resolve keeps track of it and continues using it 
+regardless of whatever changes you make to your project, including changing the Timeline resolution. 
+However, any change to the camera raw settings of optimized clips will automatically discard the 
+optimized media, requiring you to re-generate optimized media for them. 
+Customizing the Type of Optimized Media You Create
+The Master Settings panel of the Project Settings has a set of controls that govern what kind of media 
+files are created when you create optimized media.
+Options available for creating optimized media in the Master Settings panel of the Project Settings
+There are two settings affecting Optimized Media in the Optimized Media and Render Cache section:
+	 Resolution: Lets you choose whether to create optimized media at the same size as your original 
+media files (by choosing Original), or to reduce the bandwidth of your optimized media further by 
+reducing its resolution by a Half, Quarter, Eighth, or Sixteenth. The “Choose automatically” option 
+tries to balance visual quality with efficiency by only reducing the resolution of media files that are 
+larger than the currently selected Timeline resolution, using whatever reduction ratio best matches 
+the Timeline resolution.
+	 Optimized Media Format: Lets you choose the format and codec with which to generate 
+optimized media. Options include Uncompressed 10-bit, and Uncompressed 16-bit float for 
+maximum quality. Other options include ProRes Proxy through 4444 XQ, and DNxHR LB 
+through 444. All options will store image data in the optimized and proprietary .dvcc image format. 
+While smaller formats take less room on your scratch disk, there are two good reasons to use 
+higher-quality formats for creating Optimized Media.
+Preventing Clipping: Be aware that the format you choose will determine whether out-of-bounds 
+image data is preserved when the signal is optimized. If you find that image data (typically super-
+white levels) are clipped after optimization, you should switch to 16-bit float, ProRes 4444, or 
+ProRes 4444 XQ; in particular, any of these three codecs are appropriate optimized formats for 
+HDR grading.
+Preserving Alpha Channels: Also be aware that the format you choose will determine whether 
+Alpha Channels will be preserved, if they’re present in the clips being Optimized. Currently, 
+the Uncompressed 10-bit, Uncompressed 16-bit Float, ProRes 4444, ProRes 4444 XQ, and 
+DNxHR 444 formats preserve alpha channels.
+203
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p204]]
+Choosing Resolution Automatically
+The “Choose automatically” option of the Resolution setting bears a bit more explanation. When 
+selected, only source media with a higher resolution than the selected Timeline resolution will 
+generate downsized optimized media. How much each clip will be downsized depends on how much 
+larger each clip is than the Timeline resolution. For example, if you’re working within a 1080 resolution 
+project, then 8K clips will generate quarter-resolution optimized media, and 4K clips will generate 
+half‑resolution optimized media, such that all optimized media is somewhere around 1080 resolution. 
+All clips that are 1080 and smaller generate optimized media at the same resolution as the 
+source clips.
+In the example of a 4K project, 8K clips will generate half-resolution optimized media, and all other 
+clips that are 4K and smaller will generate optimized media at the same resolution as the source clips.
+Proxy Resolution
+Width
+Height
+Full 8K UHD
+7680
+4320
+Full UHD/Half 8K UHD
+3840
+2160
+Full-HD/Half UHD/Quarter 8K UHD
+1920
+1080
+Half-HD/Quarter UHD/Eighth 8K UHD
+960
+540
+Quarter-HD/Eighth UHD/Sixteenth 8K UHD
+480
+270
+Eighth-HD/Sixteenth UHD
+240
+135
+Table of optimized resolutions for different television frame sizes
+Switching Between Optimized and Original Media
+Choosing whether or not you’re using optimized media is easy. Simply choose Playback > 
+Use Optimized Media if Available to switch your entire project between using optimized media 
+(if it’s been generated), or the original media. Furthermore, a checkbox in the Render Settings of the 
+Deliver page lets you choose whether you want to use optimized media to speed up rendering, or 
+render using the original media only.
+NOTE: Optimized media is not included in Media Management operations, nor is it included 
+as part of Archive operations in the Project Manager.
+Sharing Optimized Media Between Projects
+Optimized Media is shared across projects in the same project library (previously optimized media was 
+confined to a single project). This means that if you create optimized media for a clip in one project, 
+that same optimized media will be used for that clip in any other project that’s in the same project 
+library. This happens automatically and requires no user input. This will dramatically cut down the 
+space requirements for working with the same media across different projects. 
+204
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p205]]
+Rediscovering Lost Optimized Media
+It’s difficult, but it is possible to lose track of optimized media you’ve generated in certain rare 
+circumstances. For example, if you generate optimized media on another workstation, but failed to 
+save the project, DaVinci Resolve may lose the relationship between the clips in the Media Pool and 
+the optimized media files you created. In these cases, it’s possible to rediscover the optimized media 
+so you don’t have to regenerate it.
+To rediscover lost optimized media:
+Select the clips in the Media Pool for which you know you have optimized media, then 
+right-click one of the selected clips and choose Rediscover Optimized Media from the 
+contextual menu.
+Deleting Optimized Media
+The optimized media you generate within a project is persistent; it’s saved for future use even when 
+the project is closed and later reopened. If you need to delete optimized media to free up space on 
+your scratch volume (or wherever you’ve decided to locate your project’s cache files), you must delete 
+the optimized media manually in your OS. By default, the Optimized Media is stored in the first volume 
+in the Media Storage tab of the System Preferences.
+Using Optimized Media for Delivery
+An option in the More options section of the Render Settings in the Deliver page, “Use Optimized 
+Media,” lets you output using Optimized Media, rather than the original media, in order to save 
+rendering time. If you’re planning on using this option, it’s advisable to set the Optimized media format 
+to a suitably high-quality HDR-capable format to guarantee the best results.
+Using the Smart or User Cache 
+Improves Effects Performance
+Another option for achieving real time performance when the GPU Status indicator is in the red due 
+either to Timeline effects, Color page grading, or processor-intensive media in the Timeline, is to use 
+the Smart Cache or User Cache modes of the Render Cache. What DaVinci Resolve calls “caching” is 
+sometimes referred to by other applications as “rendering.” Both terms refer to the behind-the-scenes 
+creation of new media, with all effects “baked in,” which DaVinci Resolve plays back in real time in 
+place of the original source media containing processor-intensive effects at the same time. This results 
+in smooth playback without the risk of dropped frames.
+The DaVinci Resolve Smart Cache and User Cache automatically render and cache clips, including 
+simple video clips, compound clips, Fusion clips, and nested timelines that have processor-intensive 
+grades and effects applied to them, or that you manually flag for caching by right-clicking any clip in 
+the Color page or Edit page timeline and enabling the Render Cache Clip Output option. When the 
+Smart or User Caches are enabled, frames of each automatically or manually flagged clip are cached 
+either during playback in the Timeline, or automatically whenever you pause work, to the “Cache files 
+location” specified in the Master Settings panel of the Project Settings. 
+205
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p206]]
+Once you’ve cached clips in the Timeline, they play back in real time until they’re modified, which 
+automatically flushes the now out-of-date cache files for those modified clips and triggers the need 
+to re-cache.
+The settings governing caching in the Master Settings panel of the Project Settings
+To use clip caching on any page, do one of the following:
+	 Choose Playback > Render Cache > Smart to set DaVinci Resolve to automatically cache 
+computationally intensive effects and timeline clips in formats judged too processor-intensive to 
+play in real time.
+	 Choose Playback > Render Cache > User to set DaVinci Resolve to cache clips and effects 
+that you manually choose to cache, as well as automatically caching processor-intensive 
+effects (transitions, composites, and Fusion Effects) you specify in the Master Settings of the 
+Project Settings.
+	 Choose Playback > Render Cache > Off to disable all render caching.
+	 In the Color and Edit pages, press Option-R to cycle among Off, Smart, and User.
+Choosing the Appropriate Cache Media Format for Your Project
+You have the option of choosing the Format of the cached media you create, using controls in 
+the Master Settings panel of the Project Settings. Be aware that the format you choose via the 
+“Render Cache Format” menu will determine whether out-of-bounds image data (also known 
+as “overshoots”) and Alpha Channels are preserved when the clip is cached.
+•	 Preventing Clipping: You should use 16-bit float, ProRes 4444, ProRes 4444 XQ, or DNxHR 
+444 if you plan on grading using cached media. This is particularly true for HDR grading.
+•	 Preserving Alpha Channels: Also be aware that the format you choose will determine 
+whether Alpha channels will be preserved, if they’re present in the clips being cached. 
+Currently, the Uncompressed 10-bit, Uncompressed 16-bit Float, ProRes 4444, ProRes 4444 
+XQ, and DNxHR 444 formats preserve Alpha channels.
+How Cached Media Is Organized
+The cache mechanism in DaVinci Resolve actually comprises three independently managed media 
+caches that interact with one another. This is done to keep you working quickly by ensuring that 
+changes you make to your timeline don’t require a grade to be re-cached, and that changes you make 
+to a grade don’t require the timeline to be re-cached. The three levels of caching are:
+First, Fusion Output Caching
+Formerly called the “Source Cache” in previous versions of DaVinci Resolve. When enabled by turning 
+on the Smart Cache, by individually turning on Render Cache Fusion Output for a particular clip, or by 
+enabling the automatic caching of clips with Fusion Effects applied in the Project Settings, this caches 
+the portion of each source media file that appears in the Timeline in its pre-graded state for clips that 
+have the following characteristics:
+206
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p207]]
+	 Clips in media formats DaVinci Resolve considers to be processor-intensive to decode, 
+such as H.264, HEVC, and various raw camera formats
+	 Clips with Fusion Effects that have been added in the Fusion page
+Effectively, this is a “pre-Color page” cache. By caching all processor-intensive clips in the 
+Timeline, you’ll experience vastly improved trimming and grading performance. However, 
+you also have the option to turn the Fusion Output Cache on or off for individual clips, or for 
+multiple selected clips all at once. This lets you switch between using the native source of 
+each clip with live effects, or the cached clip in the cache format you’ve chosen. 
+The advantage of the Fusion Output Cache over Optimized Media is that you only cache clips 
+that are used in a timeline, which is ideal for finishing workflows. However, the Smart and 
+User caches aren’t useful for speeding up work done with source media in the Media Pool 
+and Source Viewer when you’re at the very beginning of an edit; that’s what Optimized Media 
+is for (as described in the previous section). 
+If Optimized media exists for a given clip, and “Use Optimized Media if available” is turned on, 
+then Optimized media will be used instead of the Fusion Output Cache if there are no Speed 
+effects or Fusion Effects applied to a particular clip.
+Second, Node Caching
+The Node Cache, which is a separate level of caching from the Fusion Output Cache, can be triggered 
+in several different ways, corresponding to the three different purposes it serves.
+	 When enabled by turning on the Smart Cache, nodes with processor-intensive operations (along 
+with all nodes appearing upstream in that grade’s node tree) are automatically cached, meaning 
+that, for example, if Nodes 1 and 2 are cached, you can continue adjusting Nodes 3, 4, and 5 to 
+your heart’s content without needing to re-render your grade to the cache. Operations that trigger 
+caching include Noise Reduction, Motion Blur, and any Resolve FX or OFX plugin that’s added to 
+a node. If you’ve added a Resolve FX to a node that’s capable of playing in real time but that node 
+is being flagged for caching anyway, you can force caching off for that node by right-clicking it and 
+choosing Node Cache > Off from the contextual menu.
+	 You can manually force any node to cache if it and its upstream nodes are compromising 
+performance but somehow not being automatically flagged, by right-clicking a node and choosing 
+Node Cache > On from the contextual menu. 
+	 You can also turn on the “Render Cache Color Output” option for a clip in the Timeline of either the 
+Edit or Color pages. This forces that clip’s entire grade to be cached via the Node Cache, all the way 
+through the Node tree’s output. This can result in higher real time performance in the Edit page, at 
+the expense of needing to completely re-cache that clip whenever you adjust any part of its grade. 
+	 If you apply Resolve FX or OFX filters to clips in the Edit page, these will also be cached via the 
+Node Cache. You can choose which OFX to cache via the Render Cache OFX Filter submenu 
+in the contextual menu for clips in the Timeline. This is useful when you have a combination of 
+realtime and non-realtime filters applied to a clip; caching the non-realtime filters only enables 
+you to continue adjusting realtime filters without the need to re-cache. However, be aware that 
+making changes to a filter being cached in the Edit page timeline will force that clip’s grade to be 
+re-cached in the Color page, and vice versa.
+If multiple nodes are flagged for caching in a particular node tree, then each node will be individually 
+cached. That way, you can turn a cached node off and on to get a before-and-after look without 
+needing to re-cache the entire node tree. If a clip is part of a group in the Color page, you can enable 
+a Group Cache in the Group Pre-Clip and Group Post-Clip Node Editor modes, which cache these 
+parts of a group grade as part of the Node Cache.
+207
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p208]]
+Third, the Sequence Cache
+The Sequence Cache is a separate cache for effects that are specifically applied within the Timeline in 
+the Edit page. These include transitions, opacity adjustments, adjustment layers and composite mode 
+superimpositions, as well as clips with Speed or Retime effects. Sequence Cache effects can be auto-
+cached in both the Smart and User caches.
+Choosing a Cache Format and Location
+The cache format is user selectable by opening the Master Settings panel of the Project Settings, 
+and using the “Render Cache Format” dropdown menu to choose one of the ProRes, DNxHR, or 
+uncompressed 10- or 16-bit float uncompressed .dvcc formats. Selecting a higher quality cache format 
+guarantees high quality image playback, but makes more demands on the throughput and size of 
+your available disk storage. On the other hand, choosing a more highly compressed cache format 
+makes real time playback possible on less capable computers with slower and smaller storage, at the 
+expense of slightly compromised image quality. Ideally, you should choose the highest quality cache 
+format that your workstation’s storage can accommodate.
+The format you choose via the “Render Cache Format” menu will determine whether out-of-bounds 
+image data (including “super white” or HDR strength highlights) is preserved when the signal is 
+cached. Formats in this menu that end in “– HDR” preserve out-of-bounds image data, while formats 
+that don’t, wont. If you find that image data (typically bright highlights) is clipped after caching or 
+optimizing, you should switch to 16-bit float, ProRes 4444, ProRes 4444 XQ, or DNxHR 444; in 
+particular, any of these codecs are appropriate for HDR grading.
+The Cache files location defaults to the first volume you add to the Scratch Disks list of the Media 
+Storage panel of the System Preferences. If no scratch disk is specified, your System disk will be 
+used, which may pose problems with capacity and/or performance depending on the size and type 
+of System disk you’re using, and on the media format you choose to cache to. For this reason, it’s 
+nearly always advisable to set your first scratch disk to the largest, fastest storage volume available to 
+your workstation.
+When Caching Happens
+When caching is enabled, cache indicators along the bottom of the Timeline Ruler of the 
+Edit page timeline shows the status of the cache. Red means “to be cached,” while blue means 
+“has been cached.”
+Source, Clip, and Sequence Cache bars seen in the Timeline of the Edit page; red bars show 
+areas of the Timeline that need caching, blue shows areas that have been cached
+In the Color page, cache indicators are node specific, showing the node in your grading node tree 
+(including all upstream nodes) at which caching will take place.
+Node Cache indicator seen as a red colored node number  
+on node two of the Node Editor of the Color page
+208
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p209]]
+Caching happens in two ways. First, when either Smart or User caching is enabled, caching 
+always happens whenever you play clips with red caching indicators.
+Second, if background caching is enabled in the Project settings (it’s turned on by default), 
+and you don’t make any changes to your project for a user-definable number of seconds (this 
+is adjustable in the Master Settings panel of the Project Settings), caching will automatically 
+begin during periods of user inactivity. So feel free to use this as an excuse to take those 
+coffee, mate, or tea breaks; DaVinci Resolve will keep on working for you.
+The Difference Between the 
+Smart Cache and User Cache Modes
+The Smart Cache option of the Render Cache submenu provides the easiest user experience when 
+you want to “set it and forget it.” Choosing Smart triggers a variety of automatic caching behaviors 
+designed to optimize playback in DaVinci Resolve by rendering clip formats, grading operations, and 
+timeline effects that are known to be performance-intensive, while also letting you manually flag clips 
+that you’d like to cache that the Smart Cache hasn’t. 
+The User Cache, on the other hand, does not automatically cache clips in processor-intensive formats, 
+so this is a good option to choose when your workstation is capable of playing all media formats you’re 
+using in real time. Ordinarily, the User cache relies on you to control what is cached and what is not by 
+manually flagging specific clips and effects. However, the Master Settings panel of the Project Settings 
+has three options you can enable for automatically caching transitions, composites, and Fusion Effects 
+while in User Cache mode (these options are found in the Optimized Media and Render Cache group). 
+Of these settings, only “Automatically cache Fusion Effects in User Mode” is turned on by default.
+Here are the differences between the Smart and User cache modes for each type of caching 
+DaVinci Resolve does.
+Fusion Output Caching
+	 In Smart mode: For all clips with “Render Cache Fusion Output” set to either Auto (by default) or 
+On, three types of effects are rendered. First, H.264, H.265, DCP, JPEG2K, or camera raw clips 
+that have been edited into a timeline are cached. Camera Raw clips are cached using the currently 
+selected project or clip debayer settings. Second, Speed effects are cached at the source level, 
+which makes it possible to move cached speed effects clips on the Timeline without needing to 
+re‑cache them. Finally, Fusion Clips or clips with Fusion Effects applied to them are also cached, 
+and manually flagged clips are also cached in Smart mode.
+	 In User mode: Clips with Render Cache Fusion Output set to On are cached, while clips set to 
+Auto are ignored, except for clips with Fusion Effects, which are automatically cached in Auto 
+mode when the “Automatically cache Fusion Effects in User Mode” Project Setting is on.
+Caching Specific Nodes in the Color Page
+	 In Smart mode: DaVinci Resolve automatically caches all nodes that use Motion Blur, 
+Noise Reduction, or Resolve FX and OFX plugins. Manually flagged nodes are also 
+cached in Smart mode.
+	 In User mode: DaVinci Resolve only caches nodes that have been manually flagged by right-
+clicking them and choosing Node Cache > On to force that node to cache in User mode, along 
+with all upstream nodes to the left of them.
+209
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p210]]
+Cache Color Output Is Actually Node Caching for the Whole Grade
+	 In Smart mode: Manually flagged clips with Render Cache Color Output turned on cache the 
+entire output of the Color page node graph, effectively caching that clip’s entire grade. This is 
+most useful when you want to improve trimming and playback performance in the Edit page. 
+Flagging a clip for caching also causes EVERY SINGLE VERSION associated with that clip to be 
+cached as well.
+	 In User mode: Manually flagged clips with Render Cache Color Output turned on also cache the 
+entire output of the Color page node graph.
+Caching of Resolve FX and OFX in the Edit Page Is Also Node Caching
+Caching of Resolve FX and OFX filters applied to clips in the Edit page can only be set manually, 
+whether you’re in Smart or User mode. Only filters that you have flagged to cache by right-clicking the 
+clip they’re applied to and choosing them in the Render Cache OFX Filter submenu are cached.
+Sequence Caching
+	 In Smart mode: DaVinci Resolve automatically caches all superimposed clips that use composite 
+modes other than “Normal,” any clips with opacity or speed effects, and any transitions. 
+Clips cannot be manually flagged for Sequence caching.
+	 In User mode: If you’ve enabled User mode and you find that your workstation does not have 
+adequate performance to play composite and opacity effects in the Edit page, you can force 
+these categories of effects to be automatically cached in User mode via a set checkboxes in 
+the Optimized Media and Render Cache section of the Master Settings of the Project Settings. 
+When these options are enabled, you also gain the ability to exclude specific tracks from being 
+cached, by right-clicking the track header of any video track you want to exclude from caching, 
+and choosing Exclude track from caching. Excluding an entire track from caching is a convenient 
+way of keeping a track full of effects that are capable of playing in real time on your workstation, 
+such as a track of titles, from wasting time and storage by being cached when it’s not necessary.
+Manually Controlling the Cache
+This section describes how to manually control each type of caching that is manually controllable in 
+DaVinci Resolve.
+Controlling Fusion Output Caching
+You can manually control which clips in the Timeline are cached, and which are not. You can select 
+one or more clips in the Timeline of the Edit page, or in the Thumbnail Timeline of the Color page, 
+right-click one of the selected clips or thumbnails, and choose an option from the Render Cache 
+Fusion Output submenu. There are three options:
+	 Auto: The clip will only be cached in Smart mode if it’s a format designated for caching or if 
+there’s a speed effect applied. The clip will only be cached in User Mode if “Automatically cache 
+transitions in User Mode” is enabled.
+	 On: The clip will be cached in either Smart or User mode, no matter what format or effects 
+are applied.
+	 Off: The clip will not be cached at all, in either Smart or User modes.
+210
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p211]]
+Controlling Node Caching
+You can manually control which nodes in a grade are cached, and which are not. Right-click any node 
+in a node tree, and choose an option from the Node Cache submenu. There are three options:
+	 Auto: The flagged node and all upstream nodes will only be cached in Smart mode if it 
+contains an operation that’s designated for caching.
+	 On: The node will always be cached in either Smart or User mode, no matter 
+what operations it performs.
+	 Off: The node will not be cached, in either Smart or User modes. This lets you exclude nodes from 
+caching in Smart mode if they’re capable of real time operation on your system.
+Controlling Color Output Caching
+Each clip in the Timeline (including Adjustment clips) has a Color Output setting that you can turn on or 
+off by right-clicking that clip in the Timeline of the Edit page, and choosing Render Cache Color Output 
+from the contextual menu. A check mark indicates when this setting is turned on.
+Controlling Edit Page Filter Caching
+You can choose which of the Resolve FX or OFX filters applied to a particular clip should be cached 
+by right-clicking that clip in the Timeline of the Edit page, and choosing which of the filters in the 
+Render Cache OFX Filter submenu you want to cache. 
+Each filter applied to that clip appears in this submenu in the order in which it’s applied to the clip, and 
+you can turn the caching of specific filters on and off (selected filters appear with a check mark to the 
+left of their menu item).
+Using Cached Media When Rendering in the Deliver Page
+The “Use Render Cached Images” option in the “More options” section of the Video panel of 
+the Render Settings in the Deliver page lets you write media directly from the cache, rather than 
+re‑rendering the effects from scratch, in order to save rendering time when you output your project. 
+If you’re planning on using this option, it’s advisable to set the cache format to a suitably high-quality 
+format to guarantee the best results.
+Clearing Cached Media
+Each project’s cache is persistent; the cache is saved for future use even when the project is closed 
+and later reopened. If you need to delete a project’s cache to free up space on a storage volume, 
+there are three options in the Delete Render Cache submenu:
+	 All: You can delete all media in the cache to reset every single cached clip.
+	 Unused: You can choose to delete only Unused cache clips that no longer correspond to clips or 
+effects in the Timeline.
+	 Selected clips: You can make a manual selection of clips in the Timeline, and delete the cache 
+corresponding to just those clips.
+To clear a project’s cache:
+Open the project, and choose Playback > Delete Render Cache > All, Unused, or 
+Selected Clips.
+211
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p212]]
+The Cache Manager
+There is an advanced render cache management window to help you easily see the size and manage 
+your cache data for various projects across all your project libraries. This cache manager can be 
+accessed from Playback > Manage Render Cache.
+The Cache Manager window ties in with the Project Manager, letting you select cached media from 
+any library accessible from your system, not just the current project library. 
+The functions of the Cache Manager are:
+•	 Location: This dropdown menu lets you choose the type of project library to connect to. 
+Options are: Local, Network, Cloud, and All.
+•	 Project Library: This dropdown menus lets you choose the project library whose projects 
+you want to manage. This lists all the project libraries in the selected Location, and you 
+can select one for management. You can also select All to reveal all project libraries in 
+that location.
+•	 Project: The main window shows all the projects in the Project Libraries selected above. It 
+is categorized into sortable columns by Location, Project Library, Project Name, and Render 
+Cache. Check the box in the Render Cache column to select any projects you want to 
+delete the cache of.
+•	 Clear Selected Cache: Click this button to delete the Cache for all the selected projects. 
+As of this writing there is no warning dialog or undo for this function, so double check that 
+you’ve selected the correct caches for deletion.
+•	 Close: Closes the Cache Manager.
+The Cache Manager
+212
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p213]]
+Automatic Cache Deletion
+A User Preference allows you to delete your local cache automatically after a certain number of days 
+to keep your drive from filling up with older projects.
+It is found in DaVinci Resolve > Preferences > User > Cache Management > Delete cache older 
+than xx days.
+Check the box to automatically delete any cache files older than the number of days set in the field.
+You can always manage these files manually from the Playback > Manage Render Cache menu, but 
+this new preference lets you set and forget a cleanup operation.
+Using Proxy Media
+DaVinci Resolve includes a Proxy Media workflow to provide a playback optimization option that 
+makes it easier to exchange projects online, work on projects remotely, and work with external media 
+asset management systems. It creates a simple and flexible system for editing collaboration that can 
+be custom configured to your specific requirements.
+Creating and Using Proxy Media
+Proxy Media is essentially more highly compressed (and potentially lower resolution) versions of your 
+source media that are linked to your source media in DaVinci Resolve via metadata. This is done in 
+such a way as to make it easy to switch back and forth between the original and proxy media as your 
+needs require. 
+Typically, this lets you use lower bandwidth proxy media for increased real-time effects performance 
+and full speed playback while editing, while easily reverting back to more bandwidth and processor-
+intensive source media for color correction, finishing, and final output. In addition to enabling better 
+performance, these proxy files are fully portable, which lets you move your whole project easily 
+from workstation to workstation, and even across the internet, accompanied by much more compact 
+proxy media.
+You set the resolution and format of your proxies in the Optimized Media and Render Cache section of 
+the Master Settings panel in the Project Settings. There are two settings that control the actual media 
+files created by the Generate Proxy Media command.
+	 Proxy Media Resolution: Choose “Original” to keep proxies the same resolution as the source 
+media. If you prefer, reduce the resolution of the proxy media files by choosing Half, Quarter, 
+Eighth, or Sixteenth to save bandwidth. The “Choose Automatically” option balances visual quality 
+with efficiency by only reducing the resolution of media files that are larger than the currently 
+selected Timeline resolution, using whatever reduction ratio best matches the Timeline resolution. 
+	 Proxy Media Format: Lets you choose the specific QuickTime format and codec that the proxy 
+files will be created with. There are several ProRes and DNxHR varieties to chose from, as well 
+as H.264 and H.265 options. Which format you chose will be determined by the bandwidth 
+and quality tradeoffs that you need for a particular project. For example, if you simply want 
+better playback speed from RAW media while preserving image quality, you may want to pick a 
+high‑quality codec like ProRes 422 HQ, or DNxHR HQX. If your goal is to send your media across 
+the internet to another editor, you may want to chose a more compressed format, such as ProRes 
+Proxy, or even H.264 or H.265, to keep file sizes small.
+213
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p214]]
+ 
+The Proxy Media Resolution and Format settings
+To generate proxy media in DaVinci Resolve:
+1	
+Select all of the clips you wish to generate proxies for in the Media Pool. 
+2	
+Right-Click any selected clip and choose “Generate Proxy Media” from the contextual menu.
+DaVinci Resolve will display a progress bar and give you a time estimate for completion as 
+it renders out your selected clips to the format and codec determined by the Proxy Media 
+Resolution and Format settings.
+NOTE: If your source clip has a separate audio file synced to it in the Media Pool, any proxies 
+generated from that clip will include the synced audio, but that audio will be embedded in the 
+video clip instead of being created as a separate file.
+Where is Proxy Media Saved?
+Proxy media is created in the “Proxy generation location” destination, found in the Working Folders 
+section of the Master Settings of the Project Settings. The proxies are further organized into subfolders 
+by original source clip location. It is important to have enough free space on this drive to contain the 
+proxies. Once created, these proxy files can then be moved to any other drive location on the system, 
+if you wish, and then re-linked to their source files.
+This location can be overridden by adjusting the Proxy Generation Location options in the Media 
+Storage settings in the DaVinci Resolve Preferences.
+Proxy Handling Display
+In both the Media Pool and on the Timeline in the lower left corner of a clip, there can be found a 
+proxy status icon. This icon changes to let you know exactly which type of media DaVinci Resolve is 
+currently using.
+The Proxy Only icon
+The Proxy  
+Preferred icon
+The Camera Original 
+Preferred icon
+The Camera Original 
+with no icon
+Purple PXY Only:  
+This icon indicates 
+that only proxy media 
+is available; the 
+camera original media 
+is missing.
+Purple PXY over a 
+White Background: 
+This icon indicates 
+that both camera 
+originals and proxy 
+media for this clip 
+exist, and that proxy 
+media is being used.
+White HQ over a 
+Purple Background: 
+This icon indicates 
+that both camera 
+originals and proxy 
+media for this clip 
+exist, and that original 
+media is being used.
+No Icon:  
+No icon means that 
+proxy workflow 
+has been disabled, 
+and all media is 
+Camera Original.
+214
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p215]]
+You can select which media you prefer to use in the Proxy Handling selector in the top right 
+of the Viewer. This is a global setting that changes proxy handling for all the viewers across 
+DaVinci Resolve.
+The Proxy Handling Selector in the Viewer  
+lets you choose which type of media to use.
+Creating Proxy Files with the Blackmagic Proxy Generator
+The Blackmagic Proxy Generator is a separate program that can automatically generate proxy media 
+from master video files placed in a watch folder. This is a small, lightweight application that can be left 
+to run in the background while importing media. This frees up your DaVinci Resolve program to do 
+more creative tasks while the proxies are generated.
+Using Watch Folders
+Watch folders are simply specific folders in your OS that are constantly monitored by the Blackmagic 
+Proxy Generator. When new files are added to the watch folder, the Blackmagic Proxy Generator 
+is notified, and it automatically transcodes those new files into proxy media, without any additional 
+human interaction needed. You can have as many different watch folders as you want; the only 
+requirement is that the storage media the watch folder is on has enough space to hold both the 
+original media files and the new proxy media. 
+IMPORTANT: The proxy media is generated inside a subfolder named “Proxy” at the same 
+level in the file hierarchy as the original media file. This means that if your original media is 
+all in the same folder, you will have one “Proxy” folder containing all of the proxy clips. If your 
+original media is all contained in separate folders (i.e., one folder for each video clip), you will 
+have multiple “Proxy” folders, one inside every clip folder and containing one proxy clip each. 
+NOTE: You can not name a watch folder “proxy.” That name is reserved for the 
+Proxy Generator.
+To Add a New Watch Folder
+You need to create at least one watch folder and can have as many different watch folders as you 
+need. For example, you could have separate watch folders for each card, or scene, or date, or 
+whatever makes the most sense for your workflow.
+1	
+Select the Add button.
+2	
+Create a new folder, or select an existing folder in the file system window.
+3	
+Click on the open button.
+The new watch folder will appear in the Watch Folders pane of the Blackmagic Proxy Generator and 
+will display its location and current status.
+215
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p216]]
+To Remove an Existing Watch Folder
+When you’re finished using a specific watch folder, you can remove it from the Blackmagic Proxy 
+Generator’s watch list. Removing a folder does not delete it or its files from your drive; it only stops the 
+Blackmagic Proxy Generator from monitoring it.
+1	
+Select the watch folder from the Watch Folders list.
+2	
+Select the Remove button.
+If you’ve accidentally removed the wrong watch folder, you can simply add it back again using 
+the steps above.
+Monitoring Watch Folders
+You can see the status of all your watch folders in the Watch Folders section of the Blackmagic Proxy 
+Generator. You can manually change the order that they appear in the list by dragging an entry up or 
+down in the list. The estimated disk space required for the proxies can be found below, and there are 
+three columns that contain information about each folder.
+	 Volume: This is the logical volume (disk, network storage, usb drive, etc.) that the watch folder 
+is on. This lets you know which physical device needs to be attached to the computer for the 
+Blackmagic Proxy Generator to function. 
+	 Folder: This is the name of the Watch Folder. It does not show the folder’s path, only the name of 
+the watch folder itself.
+	 Status: This column shows the current status of the files in the watch folder.
+Waiting: This folder has clips in it that have not been transcoded yet into proxies. It is waiting 
+for the Blackmagic Proxy Generator to be started or for a folder ahead of it in the queue 
+to be finished.
+Processing (x/x): This folder has clips that are currently being transcoded. The number to the left 
+of the slash is the current clip number, the number to the right is the total number of clips to be 
+transcoded.
+Completed: This folder has finished transcoding all proxy files for the media in the folder.
+The Watch Folders section of the Blackmagic Proxy Generator
+216
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p217]]
+Setting the Proxy Format
+You can select the proxy codec you wish to use by selecting the format from this list.
+The Proxy Media Format section of the Blackmagic Proxy Generator
+Starting and Stopping the Blackmagic Proxy Generator
+Once you’ve set up a watch folder and selected a proxy format, all you need to do is select the Start 
+button in the Processing pane to automatically transcode and monitor your watch folders. If you want 
+to stop the process at any time, just select the Stop button. You can also toggle Start/Stop by pressing 
+the space bar.
+The Processing pane of the Blackmagic Proxy Generator
+In the Processing pane, you can also see the status of the current job. The pane displays the progress 
+of the job in terms of number of clips rendered (x of x), a progress bar, and a percentage indicator. 
+It also displays the name of the current clip, the frames-per-second (fps) that the render is happening 
+at, and an estimated time left to complete.
+Managing Proxies from the Blackmagic Proxy Generator
+There are two options to help manage your proxy files once they’ve been created. The Processing 
+mode must be stopped for them to be available.
+Delete Proxies: This option deletes all proxy files (and the Proxy folder) from the 
+selected watch folders.
+Extract Proxies: This option copies all proxy files from the selected watch folders to a new 
+destination in the file system dialog. This is useful to create a separate proxy-only folder that 
+you can hand over to another person on a portable hard drive or upload onto cloud storage.
+Linking Proxies from the Blackmagic Proxy Generator in DaVinci Resolve
+Once your proxies are created they are linked automatically to their original source media in 
+DaVinci Resolve when you import the original clips in the watch folder into the Media Pool. You can 
+also link and unlink them manually as explained in the Managing Proxy Media section later in 
+this chapter.
+217
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p218]]
+Generating Proxy Media in Other Applications
+Proxy files can also be generated in applications outside of DaVinci Resolve, such as other NLEs or 
+various media asset management systems. To properly link the proxy to its source media in DaVinci 
+Resolve, the proxy file must meet the following criteria:
+	 Proxy files must have identical timecode to the source file.
+	 Proxy files must have the same file name as the source file (excluding extensions).
+	 Proxy files must have the same frame rate as the source file.
+	 The format and codec used for proxy files must be supported in DaVinci Resolve.
+If your proxy file meets these criteria, you’ll be able to manually link proxy media created in other 
+applications to source clips in the Media Pool as described below.
+Managing Proxy Media
+You can check the status and location of all your proxy media in the List view of the Media Pool. 
+Right‑click on any column heading and click the checkboxes of “Proxy” and “Proxy Media Path.”
+	 Proxy: This column shows the current proxy status. 
+None: Indicates no proxy media has been created.
+Offline: Indicates a proxy has been created but cannot be found in the Proxy Media path.
+(Resolution): A number indicating the resolution of the created proxy and that it is online.
+	 Proxy Media Path: The location of where DaVinci Resolve is looking for the proxy file. If this 
+location is incorrect, you can relink the proxy to a new path manually.
+The proxy columns in List view, showing Proxy Media status and location
+Linking Clips to Proxy Media
+If you’ve created proxy media in another application, or moved the internally created proxy media out 
+of its default location in “ProxyMedia,“ you’ll need to manually link the proxies to their source media 
+files in your Media Pool.
+To link proxy media to a source clip:
+1	
+Select one or more clips in the Media Pool you wish to link proxy media to. 
+2	
+Right-click one of the selected clips, and choose “Link Proxy Media” from the contextual menu.
+3	
+Use the file browser to find the specific proxy file or directory (in the case of multiple clips) to set a 
+new Proxy Media path, and click Open. If you select an incorrect file or directory, a warning dialog 
+box will appear and no linking will occur.
+4	
+If the linking was successful, the proxy media icon will show up on the clip’s thumbnail in the 
+Media Pool.
+218
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p219]]
+The Proxy Icon showing in 
+the lower left corner of the 
+thumbnail, indicating proxy 
+media is linked for this clip
+To unlink proxy media from a source clip:
+1	
+Select a clip or clips in the Media Pool you wish to unlink proxy media from.
+2	
+Right-click on any clip and select “Unlink Proxy Media” from the contextual menu. This will remove 
+the metadata link from proxy to source and will set the status in the Proxy column to “None.”
+NOTE: Unlinking a proxy file does not delete it. The proxy file remains on the hard drive 
+where it was created. As of this writing, proxy files must be deleted manually using your 
+OS file system outside of DaVinci Resolve.
+Re-generating Proxy Media
+You can generate more than one proxy file per clip. This can be useful if you want to set multiple 
+Camera Raw parameters and choose between them, or to create proxy files of different resolutions. 
+To generate a new proxy:
+1	
+Make your desired changes to the current clip’s settings.
+2	
+Right-click on the same clip and select “Generate Proxy Media” from the contextual menu. 
+A new proxy file is created in the same directory as the previously linked proxy file, and its file name 
+is appended with “_s00x” to differentiate it. The latest proxy generated is automatically linked to 
+the source file, but previous proxy versions are retained on disk, so you can then manually relink the 
+different versions as needed.
+Switching Between Proxy Media and Original Media
+You can switch between using your original source media and the proxy media for playback in the 
+Cut page by using the Proxy Handling icon in the Viewer, or in the Edit page, by selecting Playback > 
+Proxy Handling and selecting one of the following options.
+	 Disable All Proxies: This option disables the proxies altogether and forces the original 
+media playback only. If the original media is not available, the clip is replaced with a Media 
+Offline graphic. 
+	 Prefer Proxies: This option will use proxy files for playback, and if there is no proxy file for a clip, 
+the original media will automatically be used instead. If the original media is not available, the 
+proxies will be used, and the timeline will have a purple line across it for the duration that the 
+original clips are missing.
+	 Prefer Camera Originals: This option will use the original media files for playback, and if there 
+is no original media file for a clip, the proxy media will automatically be used instead, and the 
+timeline will have a purple line across it for the duration that the original clips are missing.
+219
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p220]]
+TIP: Regardless of the proxy mode, a purple line on your timeline indicates the original media 
+is missing and gives you a visual indicator to help identify those missing clips.
+Using Proxy Files for Delivery
+By default, the Deliver page always reverts proxies to the original source media for final output to 
+ensure the highest quality render. Checking the “Use proxy media” box in the Advanced Settings of 
+the Video Render settings in the Deliver page overrides this so DaVinci Resolve uses proxy media for 
+final output instead. This can be useful if you need to save rendering time while making dailies, or to 
+quickly create outputs of your timeline for producers or audio engineers where master quality is not 
+necessarily needed. You will also need to check the “Use proxy media” box if you are editing with 
+proxies and do not have access to the original source media.
+Moving Proxies Using a DaVinci Resolve Archive (.dra)
+When moving proxies from one DaVinci Resolve system to another, it can be time consuming and 
+problematic to manually copy many individual assets (proxies, graphics, source files, etc.) from different 
+folders and locations. By far the easiest way to move complete projects from system to system is by 
+letting DaVinci Resolve do all that file management for you, by creating a DaVinci Resolve Archive 
+(.dra). An archive file contains not only your project, but all its media as well, maintaining the file paths 
+and organization of the original project. 
+To create a DaVinci Resolve Archive file, right-click on any project in the Project Manager, and choose 
+“Export Project Archive” from the dropdown menu. Within this mechanism, a new Archive setting in 
+DaVinci Resolve makes working with proxies simple and elegant. 
+Creating a Proxy-Only Archive to Share
+In the Archive Options dialog, if you check Proxy Media, and uncheck Media Files and Render Cache, 
+DaVinci Resolve will make an Archive using only the proxy media. This allows you to create a compact 
+and easily transported version of your project to either move to another computer, or to give to an 
+editor working remotely. If proxy media is not available for a clip (say a graphic or a media file you 
+didn’t create a proxy for in the first place), the original media is automatically exported to ensure that 
+nothing goes offline.
+Archive Setting options for exporting only Proxy Media
+The resulting .dra is a folder that is a fully self-contained version of your project and proxy media. 
+This folder can easily be moved from drive to drive, or zipped up and sent across the internet. 
+220
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p221]]
+Working Remotely Using Proxy Media
+The proxy workflow in DaVinci Resolve opens up many new possibilities for editing collaboration and 
+media management. For example, one common workflow is to use the RAW camera master source 
+clips in the editing suite but to then generate low resolution proxies to take home to edit on a laptop. 
+To create a portable set of proxies for editing on a laptop:
+1	
+Set up the Resolution and Format settings for the proxies in the Project Settings. In this case, you 
+may want to use “Choose Automatically” and a low-bandwidth, easily editable codec like ProRes 
+LT or DNxHR LB. 
+2	
+Select all source media in the Media Pool and Generate Proxy.
+3	
+Export a DaVinci Resolve Archive (.dra) onto an external drive, with only Proxy Media checked.
+4	
+Go away. Once at home, connect that drive to your home laptop, and use the Restore Project 
+Archive command in the Project Manager to import the archive.
+5	
+When you’ve finished working at home, export a timeline, bin, or project from your laptop when 
+finished, and bring just that file back into the edit suite to continue working with the original 
+source media.
+Another common scenario might involve sending proxies over the internet to an editor in 
+another city or country. 
+To send a project to another editor over the internet:
+1	
+Set up the Resolution and Format settings for the proxies in the Project Settings. In this case, 
+you may want to use a low resolution like “quarter” or “one-eighth,” and a low-bandwidth, 
+highly‑compressed codec like H.265 for the smallest file sizes possible.
+2	
+Select all of the source media in the Media Pool and Generate Proxy.
+3	
+Export a DaVinci Resolve Archive (.dra), with only Proxy Media checked.
+4	
+Using the file compression tools in your OS, zip the archive folder so it becomes one large file.
+5	
+Upload the resulting .zip to the online file sharing service you prefer, and send the download link 
+to the remote editor.
+6	
+Once the other editor unzips and imports the archive, you and they can then simply send 
+timelines, bins, and/or project files back and forth to collaborate. These files are small enough to 
+transfer over email or an instant messaging service.
+Additionally, you may have your editing computer connected via ethernet to a Media Asset 
+Management system that can create its own proxies. In order to edit smoothly via the network, you 
+need to use low bandwidth proxies instead of the source media. 
+To create proxy media externally to edit over a local network:
+1	
+Import the original source media files to your Media Pool from the network storage system 
+you’re using.
+2	
+Set up the proxy generation settings in your Media Asset Management software to accommodate 
+the amount of network bandwidth you expect to have access to.
+3	
+Make sure the timecode and frame rate of the proxies match the original source media, and render 
+the proxies to a network location.
+4	
+Select all of your original source media in the Media Pool, and choose “Link Proxy Media.”
+5	
+Choose the proxy media at the network location where they’ve been rendered.
+221
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p222]]
+Proxy Media vs. Other Playback 
+Optimizations in DaVinci Resolve
+There continue to be other methods of optimizing real time performance in DaVinci Resolve, so it’s 
+natural that one might wonder how this is different from Optimized media, Timeline Proxy Mode, and 
+other performance optimization techniques available in DaVinci Resolve. The key aspect of proxy 
+media that differentiates it is that proxy media is independent, portable, and can be created by 
+applications outside of DaVinci Resolve, if desired.
+Proxy Media vs. Timeline Proxy Mode
+One of the oldest performance optimization options, originally named “Proxy Mode” in previous 
+versions of DaVinci Resolve, has been renamed “Timeline Proxy Mode” in DaVinci Resolve 17 to 
+differentiate it from Proxy Media. While the new Proxy Media feature creates actual media files on disk, 
+“Timeline Proxy Mode” simply reduces the resolution of the timeline on-the-fly, allowing for increased 
+real time playback performance. To be clear, Proxy Media and Timeline Proxy Mode are two entirely 
+different features, which are wholly independent of one another.
+Proxy Media vs. the Render Cache
+Proxy Media is designed to create easy-to-edit primary source material on the Timeline, for improved 
+performance before you start editing. The Render Cache is designed to improve the real time 
+performance of clips that have enough computationally intensive effects (such as Resolve FX, color 
+corrections, noise reduction, compound clips, fusion compositions, etc.) to slow playback, even at the 
+current Timeline resolution. Proxy Media is independent and portable (you can move clips wherever 
+you want; you just have to relink them afterward), while the Render Cache media is not designed to be 
+moved or interacted with externally and only works with the project it was made for.
+Proxy Media vs. Optimized Media
+On the surface, Proxy Media and Optimized Media appear similar in function. Both options are 
+designed to create lower bandwidth, easier to edit versions of source media. However, Optimized 
+Media is managed internally by DaVinci Resolve, cannot be exported, and is not user accessible. 
+In contrast, Proxy Media creates fully portable and independent media that can be easily managed 
+by the user.
+Using Optimized Media, 
+Proxy Media, and Caching Together
+How you use DaVinci Resolve’s various performance-enhancing features together is entirely up to you, 
+but you should know that they’re not an either/or proposition. For example, you can create optimized 
+media from the camera raw original clips in your project, then enable Timeline Proxy Mode playback 
+to enhance the performance of your 4K timeline, and turn on Smart Cache to speed up your work in 
+the Color page as you add Fusion effects, noise reduction, and Resolve FX or OFX to every clip. All of 
+these optimization methods work happily and seamlessly together to improve your performance while 
+keeping the image quality of your project as high as the Optimized, Proxy, and Cache formats you’ve 
+selected in the Master Settings panel of the Project Settings.
+222
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p223]]
+Which Playback Optimization 
+Method Should I Use?
+DaVinci Resolve’s various playback optimization features are designed to specifically increase 
+performance to make up for hardware, storage, and bandwidth deficiencies, but knowing when to use 
+each method is essential to proper functionality. Included below is a quick reference.
+	 Timeline Proxy Mode: My timeline is playing back, just a little bit too slowly. 
+	 Cache Clip: I need help playing back a few clips in real time that have heavy effects applied.
+	 Optimized Media: I need help playing back all my source media in real time, and I will only be 
+editing on this computer.
+	 Proxy Media: I need help playing back all my source media in real time, and I need to collaborate 
+and share this media with other users, programs, or outside storage locations.
+Other Project Settings 
+That Improve Performance
+In addition to working with proxies, using reduced raw decoding quality, generating optimized media, 
+and enabling the Smart and User caches, there are five additional options in the Project Settings 
+window and one setting in the UI Settings panel of the User Preferences that you can use to further 
+improve real time performance if you’re working on an underpowered computer, at the expense of 
+lower image quality while you work. These settings can then be changed back to higher quality modes 
+prior to rendering.
+	 Set timeline resolution to: (Master Project Settings, Timeline Format) DaVinci Resolve is resolution 
+independent, so you can change the resolution at any time and all windows, tracks, sizing 
+changes, and keyframe data will be automatically recalculated to fit the new size. Lowering the 
+Timeline resolution while you’re grading will improve real time performance by reducing the 
+amount of data being processed, but you’ll want to increase Timeline resolution to the desired size 
+prior to rendering. This is effectively the same as using the Proxy command, but you get to choose 
+exactly what resolution you want to work at.
+	 Enable video field processing: (Master Project Settings, Timeline Format) You can leave this 
+option turned off even if you’re working on interlaced material to improve real time performance. 
+When you’re finished, you can turn this setting back on prior to rendering. However, whether or 
+not it’s necessary to turn field processing on depends on what kinds of corrections you’re making. 
+If you’re applying any filtering or sizing operations such as blur, sharpen, pan, tilt, zoom, or rotate, 
+then field processing should be on for rendering. If you’re only applying adjustments to color and 
+contrast, field processing is not necessary.
+	 Video bit depth: (Master Project Settings, Video Monitoring) Monitoring at 8-bit improves real time 
+performance, at the expense of possibly introducing banding to the monitored image.
+	 Monitor scaling: (Master Project Settings, Video Monitoring) Lets you choose which transform 
+filter to use when scaling video to fit into the Video format resolution you’ve specified. Options are 
+Bilinear and Basic. 
+	 Resize Filter: (Image Scaling) A dropdown menu that lets you choose an alternate image transform 
+filter (such as Bilinear) that is lower quality but less processor intensive. A “Force sizing highest 
+quality” checkbox in the Render Settings list of the Deliver page helps make sure you don’t 
+accidentally render your final media at this lower quality setting, however.
+223
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p224]]
+	 Hide UI overlays: (User Preferences, Playback Settings) Off by default. When using a single GPU 
+for both display and CUDA or OpenCL processing, or if your display GPU is underpowered, or 
+if you lack the PCIe bandwidth required for the currently specified resolution or frame rate, you 
+may be able to improve real time performance by turning this option on. When enabled, onscreen 
+controls such as the cursor, Power Window outlines, and split-screen views are disabled and 
+hidden during playback. When playback is paused, all onscreen controls reappear.
+	 Minimize interface updates during playback: (User Preferences, Playback Settings) On by default. 
+While enabled, this setting improves real time performance by hiding on-screen controls that 
+appear in the Viewer, such as the cursor, Power Window outlines, and split-screen views during 
+playback. When playback is stopped, onscreen controls reappear.
+224
+Setup and Workflows | Chapter 8 Improving Performance,Proxies, andthe Render Cache
+MEDIA
+
+[[p225]]
+Chapter 9
+Data Levels, 
+Color Management, 
+and ACES
+This chapter covers operational details that affect how color is managed for media 
+that is imported into and exported from DaVinci Resolve. If color accuracy is 
+important to you, then it’s a good idea to learn more about how Resolve handles 
+the data levels of each clip, how DaVinci Resolve Color Management helps you to 
+work with different formats, and how to use ACES. 
+Contents
+Data Levels Settings and Conversions..................................................................................................................................... 227
+Converting Between Ranges and Clipping.............................................................................................................................. 227
+Internal Image Processing and Clip Data Levels................................................................................................................... 228
+Assigning Clip Levels in the Media Pool................................................................................................................................... 228
+Video Monitoring Data Levels........................................................................................................................................................ 229
+Deck Capture and Playback Data Level.................................................................................................................................... 230
+Output Data Level Settings in the Deliver Page.................................................................................................................... 230
+So, What’s the “Proper” Data Range for Output?................................................................................................................... 231
+Introduction to DaVinci Resolve Color Management......................................................................................................... 231
+Display Referred vs. Scene Referred Color Management................................................................................................. 231
+Updated RCM In DaVinci Resolve 17........................................................................................................................................... 232
+Resolve Color Management for Editors..................................................................................................................................... 233
+The Input, Timeline, and Output Color Space........................................................................................................................ 233
+The RCM Image Processing Pipeline.......................................................................................................................................... 234
+Identifying the Input Color Space of Different Clips............................................................................................................ 235
+225
+Setup and Workflows | Chapter 9 Data Levels, Color Management, and ACES
+MEDIA

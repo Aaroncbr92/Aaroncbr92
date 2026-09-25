@@ -1,0 +1,19 @@
+Fuente: https://helpx.adobe.com/premiere/desktop/add-text-images/insert-images-and-graphics/export-graphic-as-a-motion-graphics-template.html
+Leído: 25-09-2026 (descarga directa de helpx.adobe.com; texto de la página sin navegación)
+
+Work with Photoshop and Premiere
+Export graphic as a Motion Graphics template
+Last updated on
+Jan 7, 2026
+Learn how to export your graphic, including all text and shape layers, effects and keyframes, as a Motion Graphics template for future reuse or sharing in Adobe Premiere.
+Select
+Graphics and Titles
+>
+Export Motion Graphics template
+.
+You can also right-click the graphic clip in your timeline and select
+Export As Motion Graphics Template
+.
+This export feature is only available for graphics created in Premiere, not for .mogrt files that were originally created in After Effects. The
+Export As Motion Graphics Template
+option is unavailable or greyed out when two or more Graphics are selected or if it’s an After Effects graphic.

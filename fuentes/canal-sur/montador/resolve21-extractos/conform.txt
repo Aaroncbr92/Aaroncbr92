@@ -1,0 +1,1050 @@
+
+[[p476]]
+Chapter 22
+Importing 
+and Conforming 
+Timelines
+Generally speaking, “conforming” a project describes the process of importing a 
+project exchange file from another post-production application, and automatically 
+relinking each clip in the imported timeline to the high-quality media files 
+each clip corresponds to.
+If you need to continue editing, color correct, or finish a project that was put together in another 
+application, you can import via the EDL, AAF, or XML project exchange formats. When you go through 
+the process of conforming a project, you use the imported project data to arrange the clips in the 
+Media Pool into a timeline that constitutes the program that’s about to be graded.
+This chapter walks you through the process of preparing timelines in other applications prior to moving 
+them into DaVinci Resolve and covers which effects have counterparts in the DaVinci Resolve timeline. 
+It ends with instructions on how to set up to compare a reference movie to the Timeline.
+Contents
+Preparing to Move Your Project to DaVinci Resolve.......................................................................................................... 479
+Move Clips to the Lowest Video Track....................................................................................................................................... 479
+Organize Unsupported Media Files............................................................................................................................................. 479
+Creating an Offline Reference Movie.......................................................................................................................................... 479
+Mixed Frame Sizes and Mixed Codecs...................................................................................................................................... 479
+Mixed Frame Rates..............................................................................................................................................................................  480
+Importing Effects when Conforming Edits.............................................................................................................................  482
+About Supported Color Corrections........................................................................................................................................... 483
+About Supported Transitions.......................................................................................................................................................... 483
+Transition Names.................................................................................................................................................................................. 484
+About Supported Opacity, Position, Scale, and Rotation Settings.............................................................................. 484
+About Flip and Flop Support........................................................................................................................................................... 484
+476
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p477]]
+Pitch and Yaw.......................................................................................................................................................................................... 484
+About “Ken Burns Effect” and Dynamic Zoom....................................................................................................................... 485
+About Speed Effects........................................................................................................................................................................... 485
+About Nested Sequences and Compound Clips.................................................................................................................. 485
+About Supported Composite Modes.......................................................................................................................................... 486
+About Supported Still Image Formats........................................................................................................................................ 486
+About Supported Alpha Channels............................................................................................................................................... 486
+About Imported Text Effects........................................................................................................................................................... 487
+About Imported Audio in AAF Projects..................................................................................................................................... 487
+Verifying Imported Timelines Using Offline References................................................................................................. 488
+Why Set Up An Offline Comparison?.......................................................................................................................................... 488
+Assigning a Clip or Timeline for Offline Comparison.......................................................................................................... 489
+Setting Up an Offline Reference/Timeline Comparison.................................................................................................... 490
+Conforming and Relinking Media................................................................................................................................................ 492
+Conforming and Relinking During Project Import................................................................................................................. 492
+Conforming and Relinking Existing Timelines and Clips................................................................................................. 492
+The Difference Between Unlinked and Missing Clips...................................................................................................... 493
+Duplicate Clips Are Considered Separate Sources............................................................................................................ 494
+Summary of Methods for Conforming and Relinking........................................................................................................ 494
+Conform Multiple Selected Timelines....................................................................................................................................... 496
+Unlinking Clips....................................................................................................................................................................................... 496
+Conforming Clips During XML and AAF Import................................................................................................................... 496
+Importing Clips Before Importing an EDL, AAF, or XML................................................................................................. 498
+Essential Clip Metadata for Easy Conforming and Relinking.......................................................................................... 498
+Defining Clip Metadata When Adding Media to the Media Pool................................................................................... 499
+How Reel Names Are Identified.................................................................................................................................................... 499
+Conform Missing Clips by Importing Their Source Media.............................................................................................. 503
+Using the Import Additional Clips Command........................................................................................................................ 503
+Using Conform Lock As a Command......................................................................................................................................... 504
+Relinking Clips to Media Files on Disk...................................................................................................................................... 505
+Using “Change Source Folder” to Relink Clips.................................................................................................................... 506
+Using the “Reconform From Bins” Command....................................................................................................................... 506
+Using Reconform From Media Storage..................................................................................................................................... 509
+Understanding, Fixing, and Using Reel Conflicts................................................................................................................ 512
+Using Clip Conflicts as a Conform Tool...................................................................................................................................... 513
+Resolving Clip Conflicts...................................................................................................................................................................... 513
+Re-editing Media Directly to the Timeline............................................................................................................................... 514
+How Grades Are Linked to Multiple Timelines...................................................................................................................... 515
+Creating Digital Dailies for Round Trip Workflows.............................................................................................................. 515
+Step 1–Ingest Media and Add/Edit Metadata.......................................................................................................................... 515
+Step 2–Sync Audio to the Dailies.................................................................................................................................................. 516
+477
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p478]]
+Step 3–Do Whatever Grading is Necessary.............................................................................................................................  517
+Step 4–Export Media Suitable for Editing................................................................................................................................. 519
+Step 5–Reconform Media to an EDL, AAF, OTIO, or XML Project File........................................................................ 521
+Step 6–Output Final Media for Finishing................................................................................................................................... 521
+Conforming XML Files........................................................................................................................................................................ 521
+Importing XML Project Files........................................................................................................................................................... 522
+Conforming AAF Files........................................................................................................................................................................ 525
+Supported Media Types in AAF Workflows........................................................................................................................... 525
+Transcoding to DNxHD or DNxHR Always Works................................................................................................................ 525
+Linking to Media Using AMA and Consolidating................................................................................................................... 525
+Fast Imported Media........................................................................................................................................................................... 526
+Logged Errors When Importing AAF.......................................................................................................................................... 527
+Simple AAF Import.............................................................................................................................................................................. 527
+Supported AAF Timeline Features................................................................................................................................................ 531
+Performing an AAF Avid Round Trip........................................................................................................................................... 531
+Step 1–Create a Project in Media Composer........................................................................................................................... 531
+Step 2–Exporting an AAF for DaVinci Resolve...................................................................................................................... 532
+Step 3–Conforming Your AAF in DaVinci Resolve............................................................................................................... 533
+Step 4–Continue Editing, Grading, and Finishing the Project........................................................................................ 535
+Step 5–Render Graded Media and Export a New AAF..................................................................................................... 535
+Step 6–Copy the Graded Media to Avid MediaFiles.......................................................................................................... 536
+Step 7–Import the Graded AAF..................................................................................................................................................... 536
+Relinking Transcoded Media to AMA Media.......................................................................................................................... 536
+Step 1–Relink Your Transcoded Media to AMA-Linked Source..................................................................................... 536
+Step 2–Export an AAF File............................................................................................................................................................... 537
+Step 3–Import the AAF, Grade, Render, and Export........................................................................................................... 537
+Step 4–Reimport the AAF into Media Composer/Symphony......................................................................................... 537
+Audio AAF Import from Pro Tools................................................................................................................................................ 537
+Import AAF, EDL, XML........................................................................................................................................................................ 537
+Import AAF to Current Timeline..................................................................................................................................................... 538
+Conforming EDL Files........................................................................................................................................................................ 538
+EDL Export of a Project and Its Media...................................................................................................................................... 539
+Conforming EDLs to Individual Media Files........................................................................................................................... 540
+Preconforming “Flat” Media Files to EDLs............................................................................................................................... 541
+Override Input Color Space of Clips in Preconform Workflows Using Color Management.......................... 542
+Conforming “Flat” Media Files Using Split and Add.......................................................................................................... 542
+Importing an EDL to a New Track................................................................................................................................................ 543
+Conforming OTIO Files...................................................................................................................................................................... 544
+Importing OTIO Project Files.......................................................................................................................................................... 544
+Importing .otioz Files........................................................................................................................................................................... 547
+Conforming ADL Files........................................................................................................................................................................ 548
+Importing ADL Project Files............................................................................................................................................................ 548
+478
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p479]]
+Preparing to Move Your Project 
+to DaVinci Resolve
+When you’re preparing to move a project from another NLE to DaVinci Resolve, there are a few steps 
+you can take to make your work more organized.
+Move Clips to the Lowest Video Track
+Editors often use the multiple tracks NLEs offer for simple clip organization in the edit of a scene. While 
+this is convenient for offline editorial, it is less convenient when you’re trying to conform, grade, finish, 
+and render the media used by a project as quickly and efficiently as possible.
+For this reason, it’s a good idea to move all clips that are not stacked or superimposed as part of a 
+compositing operation down to track V1 of the Timeline in your NLE. This produces a simplified edit 
+that has many advantages. The project becomes smaller to move because there’s less media in the 
+Timeline, and consequently becomes faster to render. Furthermore, the colorist is spared confusion 
+because this eliminates “hidden” media that is nonetheless connected to other clips that can be seen.
+It’s also helpful, once you’ve reorganized the Timeline, to eliminate any empty tracks that are left. 
+This can be done from within DaVinci Resolve, but doing it in your NLE further simplifies the project 
+import process.
+Organize Unsupported Media Files
+Depending on your workflow and on the NLE you’re working with, there may be clips using formats 
+that are unsupported in DaVinci Resolve. Unsupported generators, media formats, and other effects 
+constructs may simply not be seen in DaVinci Resolve, and will consequently appear as unlinked clips.
+If you know this in advance, you can move all such clips into dedicated tracks where they can be 
+isolated, and the track can be turned off to hide the unsupported clips, simplifying timeline navigation. 
+This also saves the colorist from the need to worry about why there are offline clips in the Timeline at 
+3 o’clock in the morning, immediately before starting a render.
+Creating an Offline Reference Movie
+Even though the colorist in any given workflow is likely to be building new grades from scratch, 
+it can be valuable to have a reference movie showing any color corrections, filters, or effects that 
+the offline editor applied during the editing process. This offline reference can be imported into a 
+DaVinci Resolve project, and used as a split-screen reference whenever there’s some question about 
+a look or effect from the offline edit.
+Offline reference movies also serve as a useful tool when conforming a project in the Edit page. 
+After project conform, you can compare the project as seen in the Record Viewer with the 
+synchronized offline movie as seen in the Source Viewer set to Offline mode. This makes it easy to 
+scrub through a project to make sure that each clip has imported correctly and is in sync. 
+More information about using offline reference movies appears later in this chapter.
+Mixed Frame Sizes and Mixed Codecs
+Most NLEs can freely mix media using different frame sizes, different codecs, and different frame rates. 
+DaVinci Resolve deals with these combinations in different ways, depending on what settings you’ve 
+selected in the Project Settings.
+479
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p480]]
+Mixing Frame Sizes: Mixed frame sizes are easily handled. The Set Timeline Resolution To 
+parameter in the Project Settings panel of the Project Settings dictates the current resolution 
+of the project. Any clips with a frame size that doesn’t match the project is resized according 
+to the option selected in the Image Scaling panel of the Project Settings. You can, of course, 
+always manually readjust the sizing of any clip if you want to make a specific adjustment. 
+All resizing is done using the optical-quality resizing algorithms in DaVinci Resolve. 
+For more information, jump to this chapter: Sizing and Image Stabilization.
+Mixing Codecs: Mixed codecs are also not a problem, as long as the different codecs used 
+by the media in the project you’re importing are compatible with the list of codecs and formats 
+that DaVinci Resolve supports. For more information about the currently supported list of 
+codecs and formats, check the Blackmagic Design support page for DaVinci Resolve. This list 
+is updated often with newly supported formats.
+Mixed Frame Rates
+DaVinci Resolve also supports mixed frame rates, although there is a setting you must choose to 
+ensure the best results for the NLE you’re importing from. By default, mixed clip frame rate support 
+is enabled via the “Mixed frame rate format” pop-up menu that appears either in the Master Project 
+Settings, or in the Import AAF or XML dialog. 
+The different options available in the “Mixed frame rate format” pop-up are available to let you conform 
+projects using the method of mixed frame rate calculation used by the NLE a project was originally 
+edited in; different NLEs have different ways of mixing frame rates, and that used by Final Cut Pro 7 is 
+different from that used by Final Cut Pro X or Avid Media Composer. If you need to change this setting, 
+you must do so before you import any media into the Media Pool; once the Media Pool is populated, 
+this setting can no longer be changed.
+Mixed frame rate format selection
+480
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p481]]
+This Mixed frame rate format pop-up menu is also found in the Load AAF and Load XML dialogs. 
+DaVinci Resolve automatically chooses a setting from the “Mixed frame rate format” pop-up menu 
+that corresponds to the project file you’re importing, but in some cases you can override this 
+setting if necessary. For projects sent from Final Cut Pro, you can choose either “Final Cut Pro 7” or 
+“Final Cut Pro X” to match the type of project you’re importing. On the other hand, you should choose 
+“Resolve” for projects imported from Premiere Pro, Smoke, Media Composer, or other NLEs.
+When “Mixed frame rate format” is set to anything but None, DaVinci Resolve conforms and processes 
+all clips in the Timeline to play at the project’s frame rate. For example, 23.98, 29.97, 30, 50, 59.94, 
+and 60 fps clips will all play at 24 fps if that’s what “Timeline frame rate” is set to in the Master Project 
+Settings. Clips with different source frame rates will be retimed to match the Timeline conform 
+frame rate. 
+The Retime process that’s used to render clips with differing frame rates can be changed for 
+individual clips via the Retime Process parameter in the Edit page Inspector, or it can be changed 
+project-wide using the Retime Process parameter found in the Frame Interpolation panel of the 
+Master Project Settings. 
+For more information on how each of the three available options work, jump to this chapter: 
+System and User Preferences. 
+If you choose “None,” then clips with frame rates that aren’t equal to the Timeline frame rate will ignore 
+their original frame rate and will play at the Timeline rate, resulting in either faster or slower motion, 
+depending on the difference between the original and Timeline frame rates.
+NOTE: Because DPX files often either lack or have incorrect frame rate information in 
+the header data, you may need to select None when conforming a project using image 
+sequences to make sure your media is not incorrectly interpreted.
+How clips in mixed frame rate timelines are rendered depends on whether the Render Settings are set 
+to render individual source clips or one single clip. When you render the Timeline as ”Individual Source 
+Clips,” then all clips are rendered individually at their original frame rate. If you select ”Single Clip,” 
+then all clips are converted to the “Timeline frame rate” frame rate setting, and rendered as a single 
+media file.
+481
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p482]]
+Importing Effects when Conforming Edits
+DaVinci Resolve is capable of translating a subset of the effects exported within XML, AAF, and EDL 
+project files into their DaVinci Resolve equivalents. The following chart illustrates which effects are 
+supported, and for which project import formats.
+Unsupported effects are neither imported nor displayed in DaVinci Resolve. However, the majority of 
+unsupported effects are preserved internally, and are reinserted into exported XML or AAF files so 
+that those effects will reappear in your NLE once the project is reimported.
+EDL
+FCP 7 XML
+FCP X XML
+AAF
+Color Corrections
+No
+No
+Yes
+No
+Composite Modes
+No
+Yes
+Yes
+Overlay only
+Multiple Tracks
+No
+Yes
+Yes
+Yes
+Video Transitions
+Yes
+Yes
+Yes
+Yes
+Audio Transitions
+No
+No
+No
+Yes
+Opacity Settings
+No
+Yes
+Yes
+Yes, via 3D Warp 
+or Superimpose
+Position, Scale, Rotation
+No
+Yes
+Yes
+Yes, via 3D Warp
+Flip and Flop
+No
+No
+No
+Yes, via Flip, Flop, or 
+Flip‑Flop effects
+Pitch and Yaw
+No
+No
+No
+Yes, via 3D Warp
+Linear Speed Effects
+Yes
+Yes
+Yes
+Yes
+Variable Speed Effects
+No
+Yes
+Yes
+Yes
+Still Image Clips
+No
+All supported formats 
+in Resolve
+All supported formats 
+in Resolve
+All supported  
+formats in Resolve
+Freeze Frames
+No
+No
+No
+Yes
+Nested Sequences
+No
+Yes
+Yes
+No
+Linked Clip Audio
+Yes
+Yes
+Yes
+Yes
+Mixed Frame Rates
+No
+Yes
+Yes
+Yes
+Text Generators
+No
+Yes
+Yes
+No
+Effects supported with imported AAF, XML, and EDL
+482
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p483]]
+About Supported Color Corrections
+At the time of this writing, only Final Cut Pro X XML projects are capable of exporting color correction 
+data that can be imported as primary grades in DaVinci Resolve. For obvious reasons, color correction 
+import is a one-way street, and imported color corrections cannot be output back to Final Cut Pro. 
+Imported Final Cut Pro X color adjustments appear in the Color page as primary corrections.
+Other workflows for importing color correction information from other applications are available using 
+ColorTrace to import grade data from CDLs (Color Decision Lists). 
+For more information, jump to this chapter: Copying and Importing Grades Using ColorTrace.
+About Supported Transitions
+EDLs are the most restrictive when it comes to transition support in DaVinci Resolve, as only Cross 
+Dissolves will be read. Any other transitions appearing in an EDL will be automatically converted to a 
+Cross Dissolve of the same duration when it’s imported into DaVinci Resolve.
+On the other hand, DaVinci Resolve supports the import of ten different transitions when importing 
+XML project files from Final Cut Pro X and legacy Final Cut Pro 7, or nine different transitions when 
+importing AAF files from Avid Media Composer or Symphony.
+EDL
+FCP XML
+AAF
+Clock Wipe
+No
+Yes
+Yes
+Center Wipe
+No
+Yes
+Yes
+Cross Dissolve
+Yes
+Yes
+Yes
+Additive Dissolve
+No
+Yes
+No
+Dip to Color Dissolve
+No
+Yes
+Yes
+Edge Wipe
+No
+Yes
+Yes
+Venetian Blind Wipe
+No
+Yes
+Yes
+Cross Iris
+No
+Yes
+Yes
+Diamond Iris
+No
+Yes
+Yes
+Oval Iris
+No
+Yes
+Yes
+Supported transitions for imported EDL, XML, and AAF
+483
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p484]]
+Transition Names
+To help you prepare projects for export, note that the names of transitions vary between XML 
+and AAF project files. Here are the supported transitions as they appear in Avid Media Composer 
+and Symphony.
+Dip to Color Dissolve
+Dip to Color effect in the Blend category
+Edge Wipe
+Horizontal/Vertical/Lower Left/Lower Right/Upper Left/Upper Right 
+Diagonal effects in the Edge Wipe category
+Center Wipe
+Horizontal Open and Vertical Open effects in the Edge Wipe category
+Clock Wipe 
+Clock effect in the Shape Wipe category
+Venetian Blind Wipe
+Vertical Blinds and Horizontal Blinds effects in the Shape Wipe category
+Cross Iris
+4 Corners effect in the Shape Wipe category
+Diamond Iris 
+Diamond effect in the Shape Wipe category
+Oval Iris
+Circle effect in the Shape Wipe category
+About Supported Opacity, Position, Scale, and Rotation Settings
+When importing XML project files from Final Cut Pro X, Premiere Pro, or legacy Final Cut Pro 7, DaVinci 
+Resolve supports the import of Opacity, Position, Scale, and Rotation settings. Imported Composite 
+and Transform settings for any given clip appear in the Inspector of the Edit page, or in the Edit Sizing 
+mode of the Sizing palette in the Color page. If these settings have been keyframed, the animation will 
+appear in DaVinci Resolve.
+When importing AAF files from Media Composer or Symphony, DaVinci Resolve supports the 
+import of Opacity, Resize, and 3D Warp effects, which are converted into Pan, Tilt, Zoom, and Rotate 
+settings in DaVinci Resolve, located in the Edit page Inspector or the Edit Sizing mode of the Sizing 
+palette in the Color page. 
+About Flip and Flop Support
+When importing AAF project files from Media Composer or Symphony, Flip, Flop, and Flip-Flop effects 
+are converted into the equivalent horizontal and vertical Flip toggles in DaVinci Resolve, located in the 
+Edit page Inspector or the Edit Sizing mode of the Sizing palette in the Color page.
+Pitch and Yaw
+When importing AAF files from Media Composer or Symphony, DaVinci Resolve supports the 
+import of Pitch and Yaw 3D Warp effects, which are converted into equivalent Pitch and Yaw settings 
+in DaVinci Resolve, located in the Edit page Inspector or the Edit Sizing mode of the Sizing palette 
+in the Color page.
+484
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p485]]
+About “Ken Burns Effect” and Dynamic Zoom
+If you import a project from Final Cut Pro X with clips that use the Ken Burns effect for creating pan and 
+scan animation, then the Dynamic Zoom parameters (found in the Edit page Inspector when a clip is 
+selected) for each affected clip will be populated with an equivalent animated effect.
+About Speed Effects
+DaVinci Resolve supports the import of speed effects from different applications, but different project 
+formats have different speed effect support.
+	 EDL: DaVinci Resolve only supports the import of linear speed effects when importing EDLs. 
+	 XML: DaVinci Resolve supports the import of both linear and variable speed effects when 
+importing XML project files from Premiere Pro, Final Cut Pro 7, and Final Cut Pro X. As of DaVinci 
+Resolve version 11.1, XML from Final Cut Pro X can also provide information about whether frame 
+blending or optical flow is used, as well as information about the Bezier curve transitions of 
+speed effects.
+	 AAF: DaVinci Resolve supports the import of both linear and variable speed effects when 
+importing AAF files from Media Composer or Symphony that use Timewarp effects.
+DaVinci Resolve has high-fidelity conversion of variable-speed speed effect data from other 
+applications, accomplished by creating one speed keyframe per frame for each affected clip. 
+However, you may see small variations between the resulting speed effect in DaVinci Resolve 
+and an offline reference movie exported from the original NLE if you haven’t set the Retime 
+Process setting to the same type of speed interpolation that the original NLE was using. 
+In other words, if you created a Timewarp speed effect in Media Composer that uses 
+FluidMotion to create smooth slow motion effects, then you’ll want to make sure to change 
+either the project-wide or clip-specific Retime Process setting to Optical Flow so that the 
+speed effects in DaVinci Resolve best match those in Media Composer. 
+For more information on speed effects in DaVinci Resolve, jump to this chapter: Speed Effects.
+About Nested Sequences and Compound Clips
+DaVinci Resolve supports the import of compound clips from Final Cut Pro X and of nested sequences 
+from legacy Final Cut Pro 7. Both appear within DaVinci Resolve as compound clips, in both the 
+Timeline and the Media Pool. Compound clips with mixed frame rates are supported, as well as multi-
+cam and A/V synchronized clips from Final Cut Pro X, which are represented in DaVinci Resolve as 
+compound clips. 
+For more information on creating and using compound clips in DaVinci Resolve, jump to this 
+chapter: Take Selectors, Compound Clips, and Nested Timelines.
+485
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p486]]
+About Supported Composite Modes
+When importing XML project files from Final Cut Pro 7, Premiere Pro, and Final Cut Pro X, DaVinci 
+Resolve supports the import of eight different composite modes. When importing AAF files from Media 
+Composer, the Overlay composite mode is supported when the source AAF file has a Superimpose 
+effect applied to it.
+FCP 7/X XML
+AAF
+Add
+Yes
+No
+Subtract
+Yes
+No
+Difference
+Yes
+No
+Multiply
+Yes
+No
+Screen
+Yes
+No
+Overlay
+Yes
+Yes
+Lighten
+Yes
+No
+Hardlight
+Yes
+No
+Softlight
+Yes
+No
+Darken
+Yes
+No
+Supported composite modes with imported XML and AAF 
+About Supported Still Image Formats
+DaVinci Resolve supports the import of greater-than-one-frame-in-duration TIF, JPG, PNG, DPX, 
+TGA, and DNG still image files that appear in Final Cut Pro X, Final Cut Pro 7, and Premiere Pro 
+XML files, and AAF files exported from Media Composer. These clips appear as ordinary clips in 
+the DaVinci Resolve Timeline. Export of still images is limited to Final Cut Pro 7 and Final Cut Pro X 
+XML formats.
+About Supported Alpha Channels
+Media with embedded alpha channels is supported for any project as long as it’s in a media format that 
+DaVinci Resolve supports; this includes TIFF, OpenEXR image sequence formats, and four-channel 
+QuickTime formats such as ProRes 4444, DNxHR 444, and QuickTime Animation. Alpha channels are 
+automatically enabled, and can be used for compositing directly within the DaVinci Resolve Timeline.
+Alpha channels can be exported in round-trip workflows when rendering individual source clips. 
+However, when rendering a program as a single clip, all composited effects are rendered together to 
+produce a single output media file. 
+For more information on rendering clips with alpha channels, jump to this chapter:  
+Delivery Effects Processing.
+486
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p487]]
+About Imported Text Effects
+DaVinci Resolve supports the import of text generators when importing XML project files from both 
+Final Cut Pro X and Final Cut Pro 7. All imported text effects appear in the DaVinci Resolve Timeline as 
+Basic text generators. Some, but not all, formatting parameters are imported, depending on the project 
+file format being imported.
+About Imported Audio in AAF Projects
+Any combination of audio track types, channel map order, MXF and QuickTime files, and rendered or 
+unrendered clips should import without problems.
+NOTE: When exporting an AAF project, DaVinci Resolve is capable of writing mono media in 
+stereo tracks.
+Preparing Unsupported Clips and Effects You Want to Grade
+If there is an unsupported effect within your NLE of choice that you want to move into DaVinci Resolve 
+for grading (for example, clips with effects filters that are native to a particular NLE), here’s a simple 
+workflow to follow.
+To “bake” an effect into a clip you’re sending to DaVinci Resolve:
+1	
+Export that clip as a self-contained media file using whatever DaVinci Resolve-compatible 
+mastering codec you prefer.
+2	
+Reimport the resulting media file into your project.
+3	
+Edit it into your project’s timeline to replace the original effects clip.
+4	
+Export a version of the resulting sequence for use in DaVinci Resolve.
+This is a good way of prepping the titles and effects of projects that you want to finish in 
+DaVinci Resolve. If you create self-contained media files for all title clips and effects, then 
+these elements will import cleanly and easily, and you can export a complete, texted version 
+of your program out of DaVinci Resolve.
+Additionally, if a composited clip is using unsupported effects (for example, a filtered still 
+image with animated position that’s superimposed using the Overlay composite mode and 
+set to 70% opacity), an ideal way to prep this clip for XML export to DaVinci Resolve is to set 
+the composite mode to Normal, set Opacity to 100%, and then export the resulting clip as a 
+self-contained QuickTime movie. Reimport the result, edit it back into the Timeline to replace 
+the original superimposed clip, and then set its composite mode to Overlay and its Opacity to 
+70% to match the original settings. Now the unsupported effects are “baked” into the clip, but 
+the effects that DaVinci Resolve does support are still live, and can be readjusted in context 
+while grading.
+487
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p488]]
+Verifying Imported Timelines 
+Using Offline References
+DaVinci Resolve has a specific interface for comparing two versions of a program. This eliminates the 
+need to edit a rendered version of a timeline as a superimposed clip within your timeline and provides 
+many other features to aid this comparison without cluttering your timeline. 
+By setting the Source Viewer in the Edit page to Offline mode, you can compare an Offline Reference 
+Clip or Timeline to a currently open timeline, with both playheads ganged together, either side by 
+side, or as a split screen, a box wipe, or difference operation, all of which will be visible via your video 
+output device. As you play the Timeline, the Offline Reference Clip or timeline plays as well, making it 
+easy to spot differences between the two. 
+IMPORTANT: You need to make sure that the media you’ve imported or are using as an 
+Offline Reference Clip has a valid timecode track with a start time that matches the timecode 
+of the Timeline you’re comparing to, otherwise there will be an offset between the Timeline 
+and offline reference that will make a comparison difficult to impossible. Small offsets can be 
+corrected via an offset field in the Source Viewer while in offline mode, but large offsets will 
+be impractical to correct.
+Why Set Up An Offline Comparison?
+However you set up an offline reference, this is a convenient way of comparing two versions of a 
+program. There are several reasons for comparing an Offline Reference Clip to a timeline:
+	 Verifying the clip order: If you’re unsure whether or not you’ve properly resolved reel conflicts or 
+other problems that occurred while you were conforming a timeline, you can compare each edit 
+to the offline version of the program to spot problems and identify the proper media that should 
+correspond to any clip.
+	 Recreating effects: If there are offline effects, such as temporary grades made in the NLE, or pan 
+and scan transforms that you want to check, the Offline reference mode lets you split-screen your 
+current grade against the Offline Reference Clip in the Color page.
+	 Comparing two versions of a timeline: You can make a visual comparison a timeline with another 
+version of that timeline to spot differences for evaluation.
+	 Filling holes in timelines with missing or unlinked clips: Two options found in the Preferences > 
+User > Editing > General settings, “Show offline clips through conform gaps,” and “Show offline 
+clips through missing clips,” let you set DaVinci Resolve to display Offline Reference Clip media to 
+fill gaps in the Timeline or replace the contents of unlinked clips. This is typically done to resolve 
+emergency situations when you need to proceed with a screening or review session despite the 
+fact that you’re missing media for whatever reason. 
+For more information, jump to this chapter: System and User Preferences.
+488
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p489]]
+NOTE: Typically, the flattened version of the program you’re given uses a low-quality codec, 
+and contains effects and color correction that’s not final, which is why it’s called an Offline 
+Reference Clip.
+Assigning a Clip or Timeline for Offline Comparison
+There are two ways you can assign an Offline Reference Clip or Timeline to a particular timeline for 
+comparison. The easiest and most flexible way is to open a timeline, and then drag and drop a clip or 
+timeline with matching timecode that you want to compare to from the Media Pool onto the Source 
+Viewer in Offline mode.
+To assign any clip or timeline to a specific timeline for comparison:
+1	
+Open the timeline you want to make the assignment to in the Edit page.
+2	
+Set the Source Viewer to Offline mode.
+3	
+Drag a clip or timeline with matching timecode that you want to assign onto the Source Viewer. 
+The clip or timeline you dragged is immediately assigned to the open timeline as an Offline 
+Reference Clip, and synced via timecode.
+4	
+In the Media Pool, right-click the Timeline you want to review against the Offline Reference 
+Clip, and choose the reference clip or timeline you assigned from the Timelines > Link Offline 
+Reference Clip submenu of that timeline’s contextual menu.
+You can also add a clip to the Media Pool specifically as an Offline Reference Clip, making it easy 
+to associate such a clip with a particular timeline by right-clicking that timeline in the Media Pool 
+and choosing it from the Link Offline Video submenu. The idea is that if you or your client exports 
+a flattened version of their edited sequence at the same time as they export the EDL, AAF, or XML 
+project file they want graded, then you can compare the project data that’s imported into DaVinci 
+Resolve to the actual video of the offline edit.
+To assign an imported Offline Reference Clip to a specific timeline for comparison:
+1	
+Open the Media page, and use the Media Storage browser to find the flattened Offline Reference 
+Clip that you want to use for comparison.
+2	
+Right-click the Offline Reference Clip file and choose Add as Offline Reference Clip.
+3	
+That clip appears with a small checkerboard badge in its icon in the Media Pool.
+Checkerboard indicating an offline video
+4	
+Open the Edit page, right-click the timeline you want to review against the Offline Reference 
+Clip, and choose the offline clip you imported from the Timelines > Link Offline Reference 
+Clip submenu.
+489
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p490]]
+Selecting the offline video to link to the current Timeline.
+Setting Up an Offline Reference/Timeline Comparison
+Once you’ve assigned a clip or timeline as an Offline Reference Movie, it’s easy to see a comparison.
+Selecting the Offline  
+video in the Source Viewer
+To view an offline reference comparison:
+1	
+Open the Source Viewer’s Mode pop-up menu and choose the checkerboard icon 
+indicating Offline Reference.
+The Offline Reference Clip you assigned previously now appears within the Offline Viewer, and 
+plays back in sync with the Timeline. If your clips have sizing applied, have Fusion or other effects, 
+or are graded, you can see a side-by-side comparison between the state of each clip in the Offline 
+Reference Clip, and the graded Timeline clip.
+The Edit page in Offline/Timeline mode
+490
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p491]]
+2	
+If the currently selected Offline Reference is out of sync (which can be confirmed via the position 
+of a slate, two-pop, title, or other known shared sync point at the beginning of the program), you 
+can use the sync field at the upper left-hand corner of the Source Viewer in Offline mode to slip 
+the sync of the reference by whatever number of frames you need.
+3	
+If you like, you can optionally choose other ways of comparing clips, by right-clicking anywhere 
+within the Timeline Viewer and choosing Vertical Wipe, Horizontal Wipe, Diagonal Wipe, Mix Wipe, 
+Difference (a Composite mode), Box (wipe), Venetian Blind, or Checkerboard. These modes offer 
+you different ways of quickly and directly comparing the content, sizing, color, and alignment of 
+the Offline Reference Movie to the clips in your timeline.
+Different viewing options for comparing the Offline Reference Movie to the 
+Timeline are available in the Timeline Viewer contextual menu
+If you choose a wipe or difference comparison, that comparison will also be visible on the display 
+connected to your video output interface, and dragging anywhere within the Timeline Viewer will 
+adjust the ratio and position of the wipe.
+4	
+To turn an offline comparison viewer mode off, simply right-click the Timeline Viewer again and 
+choose No Wipe.
+5	
+When you’re done doing this offline comparison, choose Source from the Source Viewer’s Mode 
+pop-up menu, and the Source Viewer is ready for viewing clips from the Media Pool, as normal.
+491
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p492]]
+Conforming and Relinking Media
+DaVinci Resolve has tools for managing the relationship between clips in the Media Pool, clips in 
+timelines, and the links between each clip and its corresponding media file on disk. These tools 
+support a variety of project workflows, and can help to resolve issues that may arise when importing 
+projects of different formats and sources.
+This section covers the available methods for conforming clips and relinking media. More information 
+on the clip metadata that’s used to match clips with their source media is covered later in this chapter.
+Conforming and Relinking During Project Import
+When you import an AAF or XML file, DaVinci Resolve automatically relinks the imported clips in the 
+Media Pool to their corresponding source media files on disk. At the same time, the imported timeline 
+is conformed to those clips in the Media Pool. The result is a populated media pool, and a timeline 
+containing the arranged clips. 
+Because these steps typically happen together, it’s easy to overlook the distinction between 
+a timeline’s relationship to clips in the Media Pool, and each clip’s relationship to its source 
+media file on disk.
+The workflow for importing an EDL makes this distinction more explicit. You’ll start by 
+importing the required clips into the Media Pool, ensuring they have the correct reel names 
+and timecode. This establishes the link between the Media Pool clips and the source media 
+on disk. You’ll then import the EDL, which creates a timeline that attempts to conform itself to 
+the media pool clips using reel name and timecode information.
+Conforming and Relinking 
+Existing Timelines and Clips
+Sometimes, you may need to reconform or relink media after editing or grading has begun. For 
+example, you might start a project using placeholder VFX or stock footage clips, then replace these 
+with final versions of the same shots. Or, you may choose to edit using transcoded versions of camera 
+raw media files, and later switch to the original camera media for grading and finishing. 
+To support these workflows, DaVinci Resolve has a wide variety of tools for reconforming timelines 
+and relinking media throughout the life of a project.
+The Difference Between Conforming and Relinking
+While the terms are often used interchangeably, conforming generally refers to matching clips 
+in a timeline to the appropriate source clips in the Media Pool, and relinking refers to matching 
+source clips in the Media Pool to their corresponding media files on disk. This recent change 
+reflects the expanded relinking and conforming workflows available in DaVinci Resolve, so the 
+author offers his apologies if these terms are used more loosely elsewhere in this manual. 
+492
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p493]]
+The Difference Between 
+Unlinked and Missing Clips
+When it comes to the relationship between clips in the Media Pool and clips in a timeline, there’s an 
+important distinction between clips that are unlinked, and clips that are missing. While both of these 
+“offline” clip states look different in the timeline, their differences aren’t just cosmetic.
+A missing clip in the Timeline (left) compared to an unlinked clip in the Timeline (right).
+An unlinked clip is one that exists in the Media Pool, but has lost its connection to the corresponding 
+media file on disk. However, because the unlinked clip and its metadata remain in your project’s 
+timelines, it can be easily relinked to matching media with the Relink command (described later), or 
+reconformed to previously imported or newly imported clips in specific bins of the Media Pool with the 
+Reconform From Bins command (also described later).
+A missing clip doesn’t exist in the Media Pool, but might still appear in the timelines of your project. If 
+there isn’t a corresponding source clip in the Media Pool, its metadata is unavailable in the Metadata 
+Editor, and any remote grades associated with that source clip are also lost. 
+For more information about remote grades, jump to this chapter: Grade Management.
+You can fix missing clips in a timeline in one of two ways:
+	 If the “Automatically conform missing clips added to Media Pool” setting is enabled in the Project 
+Settings > General Options panel, simply reimport the corresponding source clips into the Media 
+Pool. Any missing clips with matching timecode and file names in the timeline will be reconformed. 
+Note that this only occurs at the time of import, and doesn’t apply to matching clips that are 
+already in the Media Pool. This setting must be disabled if you use collaborative workflows.
+	 If the “Automatically conform missing clips added to Media Pool” setting is disabled in the Project 
+Settings > General Options panel, reimport the missing media. Then either manually reconform 
+them individually to the missing timeline clips with the Conform Lock with Media Pool Clip 
+command, or use the Reconform From Bin(s) or Import Additional Clips With Loose/Tight Filename 
+Match commands to simultaneously reconform multiple clips.
+When you reconform the missing clips, you won’t get back the original remote grades or 
+manually edited metadata, unless you previously exported them—in which case, you can 
+reimport them and apply these in separate steps.
+493
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p494]]
+Duplicate Clips Are Considered 
+Separate Sources
+In DaVinci Resolve, duplicate clips are treated as separate from the original Media Pool or Timeline 
+clips you duplicated them from.
+For example, if you import five clips into Media Pool Bin 1, edit them into a timeline, then 
+drag those timeline clips into Media Pool Bin 2, the clips in Bin 1 and Bin 2 would not be 
+intrinsically linked.
+This means that if you select the original clips in Bin 1 and choose Unlink Selected Clips, any 
+instances of those clips used in the timeline will be unlinked—but the duplicate clips in Bin 2 
+would be unaffected.
+Summary of Methods for 
+Conforming and Relinking
+Because timelines, source media and Media Pool clips are managed autonomously, there are 
+several methods for conforming and relinking media. The most appropriate method depends on your 
+chosen workflow.
+	 Conforming clips during XML and AAF import: When importing a project via AAF or XML, 
+you can use the embedded file paths to import referenced media into the Media Pool and 
+automatically reconform the clips in the imported timeline. If the original media has been moved, 
+DaVinci Resolve will prompt you to locate it. Alternatively, you can ignore the AAF or XML file’s 
+embedded file paths and instead conform the timeline using different media files that share the 
+same file names and timecode.
+	 Importing clips before importing an EDL, AAF, or XML: For EDL workflows, you must import 
+the media before the EDL itself. The same approach applies to AAF and XML import workflows. 
+When you import clips into the Media Pool before importing an AAF or XML, DaVinci Resolve 
+automatically reconforms the clips in the imported timeline to those in the Media Pool first. It then 
+identifies the media on disk for missing clips. This behavior depends on the options selected in 
+the Import AAF/EDL/XML dialog.
+	 Conforming missing clips by importing their source media into the Media Pool: When the 
+“Automatically conform missing clips added to Media Pool” setting is enabled in the Project 
+Settings > General Options panel, DaVinci Resolve automatically matches newly added Media 
+Pool clips with missing clips in your project timelines. This applies whether you add clips to the 
+Media Pool by importing, copying and pasting, or creating duplicates. For example, importing 
+a clip with a matching file name and timecode into the Media Pool can automatically restore a 
+missing timeline clip. This setting must be disabled if you use collaborative workflows.
+	 Using the Import Additional Clips commands: You can automate the process of importing media 
+for missing clips in a timeline. Simply right-click a timeline in the Media Pool and go to Timelines 
+> Import > Additional Clips With Loose Filename Match or Additional Clips With Tight Filename 
+Match. This searches the selected directory and its subfolders for media that matches the offline 
+clips in that timeline. The Loose Filename Match command ignores file extensions and lets you 
+conform to alternate media formats, while the Tight Filename Match command requires file 
+extensions to match.
+494
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p495]]
+	 Reconforming online clips by importing new media into the Media Pool: When the “Automatically 
+conform missing clips added to Media Pool” setting is enabled in the Project Settings > General 
+Options panel, DaVinci Resolve attempts to update the conformed relationship between the clips 
+you’re adding to the Media Pool, and the clips whose Conform Lock Enabled setting has been 
+disabled. This applies whether you add clips to the Media Pool by importing, copying and pasting, 
+or creating duplicates.
+By default, clips in imported or new timelines have Conform Lock Enabled turned on (unless the 
+source media goes missing). This option means that a particular clip in a timeline will only consider 
+the source clip in the Media Pool to which it’s currently conformed as the correct match. All other 
+clips are ignored, regardless of matching file names and overlapping timecode.
+If you right-click a clip in the timeline that has multiple potential matches in the Media Pool, then 
+disable Conform Lock Enabled, a “clip conflict” icon appears, with a red <!> badge beside its 
+name. Double-click the indicator to view all matching Media Pool clips, from which you can choose 
+your desired source.
+NOTE: The “Auto conform clips with media added into Media Pool” setting must be 
+disabled if you use collaborative workflow.
+	 Using Conform Lock commands to force a timeline clip to conform itself to a clip in the Media 
+Pool: A manual command that conforms a selected timeline clip to a selected Media Pool clip. It’s 
+useful when none of the automatic conforming methods don’t produce the desired result.
+	 Using the Relink command on clips or bins in the Media Pool: If  there are unlinked clips in the 
+Media Pool of your project, use the Relink Media, Relink Selected Clips, or Relink Clips in Selected 
+Bins commands to relink clips to the corresponding source media on whatever storage volume it’s 
+on. At the same time, any timeline instances of those clips are automatically updated. You can also 
+use these commands to force clips to relink to alternative media. The Relink command searches 
+all subfolders in the selected directory, making it useful when your media has moved. Note that if 
+you’re searching large SAN volumes, choosing a directory that’s too high in the folder hierarchy 
+may result in longer search times.
+	 Using the Change Source Folder command: This command updates the directory structure of 
+each selected clip’s file path into a new file path, based on the parent directory you select. It’s 
+useful when media has been moved, but retains its original subdirectory structure. This makes it a 
+safe and fast command to use when relinking to a structured collection of media on a SAN volume.
+	 Using the Reconform From Bin(s) command: If you have multiple versions of the same clips (with 
+identical file names, overlapping timecode, or other matching criteria) separate Media Pool bins, 
+you can disable Conform Lock Enabled for every clip in a timeline you want to reconform—then 
+use the Reconform From Bin(s) command to reconform timeline clips to Media Pool clips in one or 
+more specific bins. You can also choose the matching criteria used during reconforming. DaVinci 
+Resolve will only reconform timeline clips that can be matched to media in your chosen bins; 
+timeline clips without a match remain unchanged.
+	 Using the Reconform From Media Storage command: This command reconforms timeline clips 
+directly to media located in a selected file-system directory that hasn’t been imported into the 
+Media Pool. You can also choose the specific criteria used during reconforming to match timeline 
+clips with clips in the selected bins. Only clips with a valid match are updated, while timeline clips 
+without a match remain unchanged.
+	 Overwriting clips on disk that are linked to in a DaVinci Resolve project: When a media file has 
+been overwritten on disk, DaVinci Resolve automatically updates relinked clips—provided the 
+replacement clip has the same file name, timecode, and reel name (if used).
+The following sections detail each of these methods of conforming and relinking media.
+495
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p496]]
+Conform Multiple Selected Timelines
+To conform multiple timelines from the same source media simultaneously, simply select the timelines 
+you wish to conform in the Media Pool by Option-clicking or Shift-clicking them. Right-click on one of 
+the selected timelines, then select Timelines Reconform from Bins or Reconform from Media Storage.
+Unlinking Clips
+To unlink media pool clips, select the clip(s) to unlink, right-click any of them, then choose 
+Unlink Selected Clips.
+Conforming Clips During 
+XML and AAF Import
+For AAF and XML workflows where DaVinci Resolve relinks imported clips to media on disk or 
+reconforms them to clips already in the Media Pool, the clip metadata used for reconforming depends 
+on two settings in the Load AAF or XML dialog: “Automatically import source clips into media pool”, 
+and “Ignore file extensions when matching”.
+The most important settings for conforming 
+media in the Load dialog.
+These two checkboxes interact in a complex manner to let you decide how media is 
+conformed to an imported AAF or XML file. Here are the rules:
+When Importing Clips With File Extensions Matching Those in the AAF or XML File
+Turn “Automatically Import” on and “Ignore file extensions” off.
+This default setting is useful when the AAF or XML file you’re importing has references to media you 
+want to add to the Media Pool for use.
+	 If there are already clips in the Media Pool, DaVinci Resolve will conform as many of them as possible 
+by matching the file paths in the AAF or XML file to the stored file paths of each clip in the Media Pool. 
+	 The software will then import as many remaining missing clips as possible into the Media Pool from 
+any storage volumes that are visible to DaVinci Resolve, using the file paths from the XML or AAF.
+	 For all remaining clips not found, DaVinci Resolve executes a clip name match in the Media Pool.
+	 If there are still missing clips, DaVinci Resolve attempts a timecode match (along with a reel name 
+match, if this is enabled) of media pool clips.
+	 Finally, for all remaining clips that still aren’t found, you’ll be prompted to manually choose another 
+folder to search.
+496
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p497]]
+When Importing Clips With Different File Extensions
+Turn on both “Automatically import”, and “Ignore file extensions”.
+Enabling both these options is useful when the sequence you’re importing was edited using offline 
+quality media, and you want to conform to high-quality online media in a different format—possibly in 
+the Media Pool, or on another disk. 
+For example, if you’ve edited using QuickTime proxies and wish to conform the edit back to 
+its original camera RAW files for color grading,  you should enable both “Automatically import 
+source clips into media pool”, and “Ignore file extensions”. This imports and relinks the RAW 
+files in a single operation.
+•	 If there are already clips in the Media Pool, DaVinci Resolve attempts to conform as many of 
+these clips as possible by matching clip names. 
+•	 For all remaining clips not found, the user is prompted to choose another folder to search, 
+and DaVinci Resolve imports as many clips as possible by matching clip names, ignoring file 
+extensions.
+•	 For all remaining clips that still aren’t found, DaVinci Resolve attempts a timecode match 
+(and reel name match, if this is enabled in the Project Settings > General Options panel) of 
+clips that are already within the Media Pool.
+•	 Finally, if there are still remaining clips not found, the user is prompted to manually choose 
+another folder to search.
+Turn on both “Automatically import”, and “Link to source camera files”.
+The “Link to source camera files” checkbox only appears when you import AAF files. When 
+automatically importing media, enabling this option relinks the imported project to the original camera 
+source files, which Media Composer/Symphony track using the Source Name metadata in the AAF file.
+When You’re Only Relinking to Clips Already in the Media Pool
+Turn “Automatically import” off.
+Disable the “Automatically Import source clips into media pool” setting when you want to conform an 
+imported AAF or XML to clips in the Media Pool. This is most useful if you’ve already imported the 
+original camera media—for example, when reconforming an edited AAF or XML to dailies created 
+earlier in DaVinci Resolve.
+•	 If there are already clips in the Media Pool, DaVinci Resolve attempts to conform as many 
+clips as possible by matching the file paths in the XML or AAF to the file paths stored for 
+each clip in the Media Pool. 
+•	 For all remaining clips not found, DaVinci Resolve tries a clip name match of clips that are 
+already in the Media Pool.
+•	 For all remaining clips that still aren’t found, DaVinci Resolve attempts a timecode match 
+(and reel name match if this is enabled) of clips that are already within the Media Pool. In this 
+case, the file name is not used.
+497
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p498]]
+Beware When Choosing a Volume or Folder to Search
+When prompted to choose a folder to search, you can optionally choose an entire volume. 
+DaVinci Resolve always searches through all subdirectories, and all media on that volume 
+will be found. However, the operation time depends on the size and number of files on the 
+selected volume—so you can expect long wait times on a SAN volume, for example.
+Importing Clips Before Importing 
+an EDL, AAF, or XML
+When importing media prior to importing an EDL, DaVinci Resolve follows a specific set of rules to 
+determine which Media Pool clips correspond to clips in the resulting timeline. These rules also apply 
+when you’ve imported media prior to importing an AAF or XML file, and want to prioritize specific 
+media over the file paths embedded in those imported timeline formats. 
+The following sections elaborate on these rules, and how to use them to your advantage.
+Essential Clip Metadata for Easy Conforming and Relinking
+When conforming projects in DaVinci Resolve, the accuracy and integrity of clip metadata is critical for 
+a successful result. Keep this criteria in mind when preparing your media for use in DaVinci Resolve:
+	 Accurate timecode: Each clip requires a valid timecode track, and that timecode should match 
+all other instances of that media file within a project. If there are problems with a clip’s timecode, 
+you can edit or offset timecode inconsistencies with DaVinci Resolve tools. By default, the “Use 
+Timecode” project setting is set to Embedded in the Source Clip—which means that timecode is 
+read from the embedded timecode track within a QuickTime or MXF file, or from the header data 
+of a DPX frame file. However, you can also enable the “From the source clip frame count” option, 
+which lets you read the timecode from the source clip’s frame count for image sequences.
+	 File names: When “Assist using reel names from the” in Project Settings > General Options panel 
+is disabled (the default setting), DaVinci Resolve conforms clips using file names when importing 
+XML and AAF projects. File names can only be only used when conforming XML or AAF files, or 
+when importing a DaVinci project. They’re never used when conforming EDLs.
+	 Reel Name: This is only used for conforming if “Assist using reel names from the” is enabled in 
+Project Settings > General Options panel. Assigning reel names to your media is recommended 
+but not essential; it can ease media management for certain operations, especially in EDL 
+workflows. However, if you experience problems conforming clips when the “Assist using reel 
+names from the” option is enabled, try disabling it.
+The way that DaVinci Resolve matches media files to clips in an imported project depends on 
+how you’re importing that project.
+498
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA
+
+[[p499]]
+Defining Clip Metadata When Adding Media to the Media Pool
+The rules on defining clip metadata before conforming are different, if your workflow involves any of 
+the following: Manually adding media files when editing from scratch in DaVinci Resolve, preparing 
+to process dailies, or as a separate step before importing EDL, XML, or AAF project files and 
+reconforming them to a higher quality set of media than what was used in the original edit.
+	 Timecode: Calculated using the “Timeline Frame Rate” setting in the Project Settings > 
+Master Project Settings panel.
+	 Reel Names: Determined by enabling or disabling the “Assist using reel names from the” 
+checkbox in the Project Settings > General Options panel, and depending on your selected 
+option. Reel names can be extracted dynamically, and changing this setting will update your 
+Media Pool with the revised reel names. Reel names can also be defined manually if you set 
+different methods of reel name extraction per clip.
+	 Clip Names: Read and stored, used for AAF and XML imports, but not used for imported EDLs.
+How Reel Names Are Identified
+The “Assist using reel names from the” checkbox in the Project Settings > General Options panel 
+is a crucial setting for controlling the conform process. By default, it’s disabled, and reel names are 
+left blank. This is fine for conform workflows that only require the file path or file name and source 
+timecode to successfully identify which media files correspond to which clips. 
+However, if you need more information to reconform the clips in your project, you can enable the 
+“Assist using reel names from the” checkbox, which triggers DaVinci Resolve to use one of four 
+methods to automatically define reel names for every clip in the Media Pool.
+Automatically Defining Reel Names
+When you use the “Assist using reel names from the” options in the Project Settings > General Options 
+panel, reel names are extracted dynamically. If you change the method of reel name extraction in the 
+project settings, the reel names of all media pool clips will automatically reflect that change. These are 
+viewable in the Reel Name column of the Media Pool (when in List view). 
+For example, if you change the “Assist using reel names” options from “Source clip file 
+pathname” to “Mediapool folder name,” the contents of the Reel Name column are updated. 
+This is useful when you’re importing a project for which all clips use the same method of 
+determining their reel name.
+Manually Choosing Reel Name Definitions for Individual Clips
+You can also manually select the criteria for how your media pool clip(s) have their reel names defined, 
+using the Clip Attributes dialog. This is useful for project clips that require a different method of reel 
+name extraction, or require manually entered reel names.
+To manually define reel names for one or more clips:
+1	
+Select one or more clips in the Media Pool.
+2	
+Right-click one of the selected clips, and choose Clip Attributes.
+3	
+Open the Reel Name panel of the Clip Attributes dialog, choose a new option, and click OK.
+499
+Ingest and Organize Media | Chapter 22 Importing and Conforming Timelines
+MEDIA

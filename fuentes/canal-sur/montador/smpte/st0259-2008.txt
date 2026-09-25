@@ -1,0 +1,804 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+Foreword .................................................................................................................................................  2 
+Introduction .............................................................................................................................................  2 
+1  Scope ..................................................................................................................................................  3 
+2  Conformance Notation ........................................................................................................................  3 
+3  Normative References ........................................................................................................................  3 
+4  Signal Levels and Specifications ........................................................................................................  4 
+5  Connector and Cable Types ...............................................................................................................  5 
+6  Channel Coding ..................................................................................................................................  5 
+7  Transmission Order.............................................................................................................................  6 
+8  Component 4:2:2 Signals....................................................................................................................  6 
+9  Levels of Operation.............................................................................................................................  6 
+Annex A   Composite NTSC 4fsc Signals ................................................................................................  7 
+Annex B   Composite PAL 4fsc Signals ...................................................................................................  9 
+Annex C   Generator Polynomial Implementations................................................................................. 12 
+Annex D   Timing Jitter Specification ...................................................................................................... 13 
+Annex E   Waveform Measurement Method........................................................................................... 14 
+Annex F   Optional Ancillary Data 4fsc PAL............................................................................................. 15 
+Annex G   259M Road Map..................................................................................................................... 16 
+Annex H   Bibliography............................................................................................................................ 17 
+Revision Notes........................................................................................................................................ 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1SDTV – Standard Definition Television 
+Page 1 of 18 pages 
+SMPTE 259M-2008
+Revision of 
+SMPTE 259M-2006 
+SMPTE STANDARD  
+for Television —   
+SDTV1 Digital Signal/Data —   
+Serial Digital Interface 
+Copyright © 2008 by THE SOCIETY OF 
+MOTION PICTURE  AND TELEVISION ENGINEERS 
+3 Barker Avenue, White Plains, NY 10601 
+(914) 761-1100 
+Approved 
+January 29, 2008 
+
+SMPTE 259M-2008 
+Page 2 of 18 pages 
+Foreword 
+ 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally recognized standard 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices and Engineering Guidelines, are prepared by SMPTE’s Technology Committees.  
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+ 
+SMPTE Engineering Documents are drafted in accordance with the rules given in Part XIII of its 
+Administrative Practices. 
+ 
+SMPTE Standard 259M was prepared by Technology Committee N26. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+This version of SMPTE 259M reflects the industry usage that has evolved over the past years. The original 
+intent of SMPTE 259M was to provide a serial digital connection between equipment replacing the parallel 
+interface. At that time, uncompressed digital video was considered to be the only payload. This standard has 
+evolved to also carry formatted data within the defined payload areas. Formatting of the data, and the types of 
+data to be carried are defined by other SMPTE standards (see Annex G for a document road map). Annex F 
+includes a reference to SMPTE 291M; this reference is made, as the IEC reference  part of Annex B does not 
+include a definition of ancillary data structure. 
+ 
+
+SMPTE 259M-2008 
+Page 3 of 18 pages 
+1   Scope 
+ 
+This standard describes a 10-bit serial digital interface operating at 143/270/360 Mb/s. The serial interface 
+may carry uncompressed SDTV signals, or data. This standard has application in the television studio over 
+lengths of coaxial cable where the signal loss does not exceed an amount specified by the receiver 
+manufacturer. Typical loss amounts may be in the range of 20 dB to 30 dB at one-half clock frequency with 
+appropriate receiver equalization. Receivers designed to work with lesser signal attenuation are acceptable, 
+but are not recommend for new designs. 
+ 
+2   Conformance Notation 
+ 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords.  
+ 
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:”  
+ 
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+ 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended as 
+particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but 
+not necessarily required; or that (in the negative form) a certain possibility or course of action is deprecated 
+but not prohibited.  
+ 
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document.  
+ 
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the provision 
+will never be defined in the future. 
+ 
+A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+ 
+3   Normative References 
+ 
+The following standards contain provisions which, through reference in this text, constitute provisions of this 
+standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this standard are encouraged to investigate the possibility of applying the 
+most recent edition of the standards indicated below. 
+ 
+SMPTE 125M-1995, Television — Component Video Signal 4:2:2 — Bit-Parallel Digital Interface 
+ 
+SMPTE 244M-2003, Television — System M/NTSC Composite Video Signals — Bit-Parallel Digital Interface 
+ 
+ 
+SMPTE 267M-1995, Television — Bit-Parallel Digital Interface — Component Video Signal 4:2:2 16x 9 Aspect Ratio 
+ 
+SMPTE RP 184-2004, Specification of Jitter in Bit-Serial Digital Systems 
+ 
+
+SMPTE 259M-2008 
+Page 4 of 18 pages 
+IEC 61169-8 (2007-02)2, Radio Frequency Connectors, Part 8: Sectional Specification — R.F. Coaxial 
+Connectors with Inner Diameter of Outer Conductor 6,5 mm (0,256 in) with Bayonet Lock — Characteristics 
+Impedance 50 Ohm (Type BNC), Annex A (Normative) — Information for Interface Dimensions of 75 Ohm 
+Characteristic Impedance Connector with Unspecified Reflection Factor 
+ 
+4  Signal Levels and Specifications 
+ 
+The specifications in this clause are defined for measurement of the serial output of a source, “a generator”, 
+derived from a parallel domain whose timing ensures the jitter specifications defined in § 4.5. Specifications at 
+the output of equipment located at other places in an all-serial digital chain are not addressed by this 
+standard. Clock frequency refers to the serial clock and is equal to the bit rate for each television system. 
+ 
+4.1  The output of the generator shall be measured across a 75-ohm resistive load connected through a short 
+coaxial cable (approximately 1 meter). Figure 1 depicts the measurement dimensions for amplitude, risetime, 
+and overshoot (see Annex E for the preferred measurement method for these parameters). 
+ 
+ 
+ 
+Figure 1 – Waveform measurement dimensions 
+ 
+ 
+ 
+4.1.1  The generator shall have an unbalanced output circuit with a source impedance of 75 ohm and a return 
+loss of at least 15 dB over a frequency range from 5 MHz to the clock frequency of the signal being transmitted.  
+ 
+4.1.2  The peak-to-peak signal amplitude shall be 800 mV ± 10%. 
+ 
+4.2  The DC offset, as defined by the mid-amplitude point of the signal, shall be nominally 0.0 V ± 0.5 V. 
+ 
+4.3  The rise and fall times, determined between the 20% and 80% amplitude points, shall be no less than 0.4 
+ns, no greater than 1.50 ns, and shall not differ by more than 0.5 ns. 
+ 
+4.4  Overshoot of the rising and falling edges of the waveform shall not exceed 10% of the amplitude. 
+ 
+                                                 
+2 Please note that the title of this normative reference may be misleading. This standard requires the use of the 75-ohm 
+connector defined in this reference. 
+ 
+
+SMPTE 259M-2008 
+Page 5 of 18 pages 
+4.5  The jitter in the timing of the transitions of the data signal shall be measured in accordance with SMPTE 
+RP 184. Measurement parameters are defined in SMPTE RP 184 and shall have the following values for 
+compliance with this standard: 
+ 
+Timing jitter lower band edge 
+ 
+10 Hz  
+ 
+f1 
+ 
+Alignment jitter lower band edge 
+ 
+1 kHz  
+ 
+f3 
+ 
+Upper band edge  
+  
+ 
+>1/10 clock rate  
+f4 
+ 
+Timing jitter (note 1) 
+ 
+ 
+0.2 UI p-p 
+ 
+A1 
+ 
+Alignment jitter (UI = unit interval)   
+0.2 UI p-p 
+ 
+A2 
+ 
+Color bar test signal such as 
+ 
+525 Lines 
+ 
+75/7.5/75/7.5 
+ITU-R BT 471-1 or similar (note 2)  
+625 Lines 
+ 
+100/0/75/0 
+ 
+Serial clock divider (note 3)  
+ 
+≠10  
+ 
+ 
+n 
+ 
+ 
+NOTES  
+ 
+1  Designers are cautioned that the clock in parallel signals conforming to interconnection standards, such as 
+SMPTE 125M, may contain jitter up to 6 ns p-p. Deriving the serial signal directly from the unfiltered parallel clock 
+could result in excessive serial signal jitter (see Annex D for further information on timing jitter). 
+ 
+2  Color bars are chosen as a non-stressing test signal for jitter measurements. Use of a stressing signal with long 
+runs of zeros may give misleading results 
+ 
+3 Use of a serial clock divider value of 10 is acceptable; however, it may mask word-correlated jitter components. 
+The divider value should be stated in conjunction with jitter specifications. 
+ 
+4.6  The input to the serial receiver signal shall present an impedance of 75 ohm with a return loss of at least 
+15 dB over a frequency range from 5 MHz to the clock frequency of the signal being transmitted. 
+ 
+5   Connector and Cable Types 
+ 
+5.1  The male and female connectors shall be 75-ohm BNC as defined in IEC 61169-8, Part 8, Annex A. 
+ 
+5.2  Application of this standard does not require a particular type of coaxial cable. It is necessary for the 
+frequency response of the coaxial cable loss, in decibels, to be approximately proportional to 1/√f from 1 MHz 
+to the clock frequency of the signal being transmitted to ensure correct operation of automatic cable 
+equalizers over moderate to maximum lengths. 
+ 
+6   Channel Coding 
+ 
+6.1  The channel coding shall be scrambled NRZI. 
+ 
+6.2  The generator polynomial for the scrambled NRZ shall be G1(X) = X9 + X4 +1. The polarity-free scrambled 
+NRZI sequence shall be produced by G2(X) = X + 1. The input signal to the scrambler shall be positive logic 
+(the highest voltage represents data 1 and the lowest voltage data 0) [see Annex C]. 
+ 
+6.3  Data word length shall be 10 bits. 
+ 
+NOTE – Because some legacy parallel interfaces may carry only 8 bits of data, values in the range 3FCh to 3FFh must 
+be treated as equivalent to 3FFh for the purpose of detecting ancillary data flags or other identifying flags using those 
+values. 
+
+SMPTE 259M-2008 
+Page 6 of 18 pages 
+7   Transmission Order 
+ 
+The LSB of each data word shall be transmitted first. 
+ 
+8   Component 4:2:2 Signals 
+ 
+8.1 The input source for generating a serial 4:2:2 video data stream shall be as defined by SMPTE 125M and 
+SMPTE 267M. Ancillary data, if present, shall be passed by the serial interface transparently. 
+ 
+NOTE – Ancillary data may be added to the serial bit stream by external devices. 
+ 
+8.1.1 Because some parallel component digital interfaces may carry only 8 bits of video data, it is 
+necessary for the data serializer to identify this condition and to add the necessary data to convert the 8-bit 
+signal to a 10-bit representation. The EAV and SAV of the 8-bit signals should be converted in the following 
+manner: 
+ 
+8 bit  
+ 
+ 
+10 bit 
+ 
+FF  
+ 
+ 
+3FF 
+00  
+ 
+ 
+000 
+00  
+ 
+ 
+000 
+PQ  
+ 
+ 
+XYZ (= PQ data left shifted twice with subordinate bits set to zero) 
+ 
+8.2  The bit rate for the resulting serial data stream shall be nominally 270 Mb/s for 13.5-MHz luma sampling 
+and 360 Mb/s for 18-MHz luma sampling  
+ 
+9   Levels of Operation  (Informative) 
+ 
+To define the level of support for this standard, manufacturers are encouraged to indicate in commercial 
+publications, bit rate (s) supported:  
+ 
+Level A  –  143 Mb/s,  
+Level B  –  177 Mb/s,  
+Level C  –  270 Mb/s,  
+Level D  –  360 Mb/s,  
+ 
+Examples of compliance nomenclature:    
+ 
+A SMPTE D-2 VTR accepting only composite digital NTSC would be said to conform to SMPTE 259M-A. 
+ 
+A multi-standard routing switcher with a maximum bit rate of 270 Mb/s would be said to conform to 
+SMPTE 259M-ABC. 
+
+SMPTE 259M-2008 
+Page 7 of 18 pages 
+Annex A  (Normative) 
+Composite NTSC 4fsc Signals 
+ 
+Although it is not anticipated that use of this annex will expand greatly, there continues to be many 
+implementations still in use, as such, this is a normative annex.  
+ 
+A.1  Input source 
+ 
+The input source for generating a serial 4fsc composite video data stream shall conform to SMPTE 244M. 
+Ancillary data may be part of the SMPTE 244M interface, or may be added by external devices. 
+ 
+A1.1  Because some SMPTE 244M interfaces may only carry 8 bits of video data, it is necessary for the data 
+serializer to identify this condition and to add the necessary data to convert the 8-bit signal to a 10-bit 
+representation. 
+ 
+A.2  Bit rate 
+ 
+The bit rate for the resulting data stream shall be nominally 143 Mb/s. 
+ 
+A.3  Signal processing 
+ 
+Signal processing of the input signal is necessary to provide timing and synchronizing information in the serial 
+digital domain. This information is designated TRS-ID, timing reference signal and line number identification. 
+ 
+A.3.1  The TRS and line number ID shall be present only following the sync leading edge that identifies a 
+horizontal rate transition (see Figures A.1 and A.2). 
+ 
+A.3.2  The TRS signal shall consist of four words located at word number addresses 790, 791, 792, 793. 
+Corresponding word values are 3FF, 000, 000, 000. 
+ 
+A.3.3  Line number ID shall be one word. The line number word-number address shall be 794 with the 
+following values:  
+ 
+b2 
+b1 
+b0 
+ 
+ 0 
+ 0 
+ 0 
+Line 1 – 263  
+   Field 1 
+ 0 
+ 0  
+ 1 
+Line 264 – 525     Field 2 
+ 0  
+ 1 
+ 0 
+Line 1 – 263  
+   Field 3 
+ 0  
+ 1  
+ 1 
+Line 264 – 525     Field 4 
+ 
+b7  
+b6 
+ b5 
+b4  
+b3 
+(MSB)  
+ 
+ 
+          (LSB) 
+ 
+The possible values of X1 are restricted by the use of bits b7-b3  and indicate the following: 
+ 
+X1 = 0  
+Not used. 
+ 
+1 < X1 < 30 
+X1 indicates the line number of each field (lines 1 - 30 in odd fields, lines 264 - 293 in 
+even fields). 
+ 
+X1 = 31  
+To indicate line number 31 and up of each odd field and line number 294 and up on 
+each even field. 
+ 
+X1 = 16 (b7) + 8 (b6) + 4 (b5) + 2 (b4) + 1 (b3). 
+ 
+b8 is even parity for b7 through b0 
+b9 = b8 
+ 
+
+SMPTE 259M-2008 
+Page 8 of 18 pages 
+ 
+ 
+Figure A.1 – NTSC horizontal sync details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A.2 – NTSC vertical sync details 
+ 
+ 
+ 
+ 
+Figure A.3 – NTSC equalizing pulse details 
+ 
+
+SMPTE 259M-2008 
+Page 9 of 18 pages 
+Annex B  (Informative) 
+Composite PAL 4fsc Signals 
+ 
+Details of 4fsc composite PAL data formatting is provided for systems designers. It is not expected that further 
+use of this mapping will be implemented. Some legacy installations may still be in service.  
+ 
+B.1  Input source 
+ 
+The input source for generating a serial 4fsc composite video data stream shall conform to IEC 61179. 
+Ancillary data may part of the IEC 61179 interface, or may be added by external devices (see informative 
+Annex F) 
+ 
+B.1.1  Because some IEC 61179 interfaces may carry only 8 bits of video data, it is necessary for the data 
+serializer to identify this condition and to add the necessary data to convert the 8-bit signal to a 10-bit 
+representation. 
+ 
+B.2  Bit rate 
+ 
+The bit rate for the resulting serial data stream shall be nominally 177.3 Mb/s. 
+ 
+B.3  Signal processing 
+ 
+Signal processing of the input signal is necessary to provide timing and synchronizing information in the serial 
+digital domain. This information is designated TRS-ID, timing reference signal and line number identification. 
+ 
+B.3.1 The TRS and line number ID shall be present only following the sync leading edge that identifies a 
+horizontal rate transition (see Figures B.1 and B.2). 
+ 
+B.3.2 The TRS signal shall consist of four words located at word number addresses 967, 968, 969, 970. 
+Corresponding word values are 3FF, 000, 000, 000. 
+ 
+B.3.3 Reset of the TRS position relative to the H-sync edge shall take place once per field on only one of lines 
+625 – 4 and one of lines 313 – 317. Reset is necessary due to the non-integer number of samples per line. 
+Therefore, from a sample numbering standpoint, all lines will have 1135 samples except the two lines used for 
+reset which will have 1137 samples. The additional samples will be numbers 1135 and 1136 just prior to the 
+first active picture sample 000. This does not affect the continuous signal concept where all but two lines in a 
+field have 1135 samples and the other two have 1136. (The line numbers with 1136 samples are a function of 
+Sc/H phase and the criteria for determining which samples fall in which lines.) 
+ 
+Designers should note that sample locations in Figures B1, B2, and B3 represent the first line following the 
+above-mentioned reset. Subsequent nearby low-line numbers will be similar, but the samples are slightly 
+earlier on each line due to the non-integer number of samples per line.  
+ 
+Initial determination of the position of TRS should, therefore, be done on the line following sample numbering 
+reset or a nearby subsequent line. 
+ 
+Considering the 0 Sc/H phase requirement of IEC 61179 and the sample numbering system described above, 
+the TRS location is known and starts exactly with sample 967 on each line, but its time from the leading edge 
+of sync varies due to the non-integer number of samples per line. 
+ 
+B.3.4 Line number ID shall be one word. The line number word-number address shall be 971 with the 
+following values: 
+
+SMPTE 259M-2008 
+Page 10 of 18 pages 
+ 
+b2 
+ b1 
+ b0 
+ 
+ 0  
+ 0  
+ 0 
+ Line  
+1 – 313   
+Field 1 
+ 0  
+ 0  
+ 1  
+ Line  
+314 – 625 
+Field 2 
+ 0  
+ 1  
+ 0 
+ Line  
+1 – 313  
+Field 3 
+ 0 
+ 1  
+ 1 
+ Line  
+314 – 625 
+Field 4 
+ 1  
+ 0  
+ 0  
+ Line  
+1 – 313  
+Field 5 
+ 1  
+ 0  
+ 1  
+ Line  
+314 – 625 
+Field 6 
+ 1  
+ 1  
+ 0  
+ Line  
+1 – 313   
+Field 7 
+ 1   
+ 1  
+ 1   
+ Line  
+314 – 625 
+Field 8 
+ 
+b7  
+b6 
+ b5 
+ b4 
+ b3 
+(MSB) 
+ 
+ 
+           (LSB) 
+ 
+The possible values of X1 are restricted by the use of bits b7-b3 and indicate the following: 
+ 
+X1 = 0  
+Not used. 
+ 
+1 < X1 < 30 
+X1 indicates the line number of each field (lines 1 - 30 in odd fields, lines 314 - 343 in 
+even fields). 
+ 
+X1 = 31 
+To indicate line number 31 and up of each odd field, and line number 344 and up on 
+each even field. 
+ 
+X1 = 16 (b7) + 8 (b6) + 4 (b5) + 2 (b4) + 1 (b3). 
+ 
+b8 is even parity for b7 through b0. 
+b9 = b8 
+ 
+
+SMPTE 259M-2008 
+Page 11 of 18 pages 
+ 
+Figure B.1 – PAL horizontal sync details 
+ 
+ 
+ 
+ 
+Figure B.2 – PAL vertical sync details 
+ 
+ 
+ 
+ 
+ 
+Figure B.3 – PAL equalizing pulse details 
+ 
+
+SMPTE 259M-2008 
+Page 12 of 18 pages 
+Annex C  (Informative) 
+Generator Polynomial Implementations 
+ 
+Possible generator polynomial implementations are given in Figures C.1 and C.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SMPTE 259M-2008 
+Page 13 of 18 pages 
+Annex D  (Informative) 
+Timing jitter specification 
+ 
+Low-frequency jitter in the range of 10 Hz to 1 kHz is indicated by the difference between timing jitter (A1) and 
+alignment jitter (A2) measurements. Although purely digital systems will operate correctly with significant 
+amounts of low-frequency jitter, this standard (§4.5) specifies a tight tolerance for timing jitter to ensure 
+operation in mixed digital/analog systems. Methods do exist for handling larger amounts of low-frequency 
+jitter in such systems. 
+ 
+
+SMPTE 259M-2008 
+Page 14 of 18 pages 
+Annex E  (Informative) 
+Waveform measurement method 
+ 
+The preferred method for measuring serial digital waveform amplitude, risetime, and overshoot is using a 1GHz bandwidth oscilloscope. Input impedance of the oscilloscope should be 75 ohm with a return loss greater 
+than 20 dB to 400 MHz. Measurements should be made using a 2-m length of coaxial cable between the 
+transmitter and oscilloscope with no more than 0.15 dB/m loss at 135 MHz. 
+ 
+ 
+
+SMPTE 259M-2008 
+Page 15 of 18 pages 
+Annex F  (Informative) 
+Optional Ancillary Data 4fsc  PAL 
+ 
+This annex is intended to provide information for the insertion of optional ancillary data into an IEC 61179 
+interface.,  
+ 
+F.1  Ancillary data — Optional 
+ 
+Ancillary data, if present, shall comply with the following rules 
+ 
+F1.1  Ancillary data shall be formatted according to SMPTE 291M.  
+ 
+F1.2  Certain word numbers within the ancillary data space are reserved for error detection data format. See 
+SMPTE RP 165 
+ 
+F1.3  There may be multiple ANC data flags in the allocated ancillary data space 
+ 
+F1.4  Ancillary data may be present within the following word number boundaries: 
+ 
+972 – 1035 
+for horizontal sync period 
+ 
+972 – 994 
+for equalizing pulse period 
+404 – 426 
+ 
+972 – 302 
+for vertical sync period 
+404 – 869  
+ 
+ 
+
+SMPTE 259M-2008 
+Page 16 of 18 pages 
+Annex G  (Informative) 
+SMPTE 259 document road map 
+ 
+Referenced documents: 
+  
+SMPTE 125  –  Interface/source 
+SMPTE 244  –  NTSC parallel interface 
+SMPTE 267 –  Interface/source 
+SMPTE RP 184  –  Jitter 
+IEC 61169-8  –  Connector 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connector 
+IEC 61169-8 
+Serial interface 
+SMPTE 259 
+Parallel Composite Interface/Source 
+SMPTE 244 (NTSC) 
+IEC61179-5 (PAL) 
+Parallel Component Interface/Source 
+SMPTE 125M (59.94/60Hz) interlace 
+SMPTE 293 (59.94Hz) progressive 
+SMPTE 291  
+ANC space formatting 
+SMPTE 272 
+Audio data stream 
+RP 165 
+EDH 
+RP 184 
+Jitter 
+SMPTE 266 
+DVITC 
+259M Referenced documents 
+Optional applications 
+SMPTE 352 
+Format ID 
+SMPTE 305 
+SDTI 
+RP 168 Switching 
+Point (Informative) 
+direct insertion 
+path 
+
+SMPTE 259M-2008 
+Page 17 of 18 pages 
+Annex H  (Informative) 
+Bibliography 
+ 
+SMPTE 291M-2006, Television — Ancillary Data Packet and Space Formatting 
+ 
+SMPTE RP 165-1994, Error Detection Checkwords and Status Flags for Use in Bit-Serial Digital Interfaces for 
+Television 
+ 
+SMPTE RP 178-2004, Serial Digital Interface Checkfield for 10-Bit 4:2:2 Component and 4fsc Composite 
+Digital Signals 
+ 
+SMPTE RP 192-2003, Jitter Measurement Procedures in Bit-Serial Digital Interfaces 
+ 
+IEC 61179 (1993), Helical-Scan Digital Composite Video Cassette Recording System Using 19 mm Magnetic 
+Tape, Format D2 (NTSC, PAL, PAL-M), Section 5, Video Interface 
+ 
+IEEE Std 1521,  Trial-Use Standard for Measurement of Video Jitter and Wander 
+ 
+ITU-R BT.471-1, Nomenclature and Description of Colour Bar Signals 
+ 
+ITU-R BT.1700,  Characteristics of Video Signals for Conventional Analogue Televisions Systems 
+
+SMPTE 259M-2008 
+Page 18 of 18 pages 
+Revision Notes 
+ 
+This version incorporates Amendment #1 to SMPTE 259M approved January 29, 2008. The purpose of this 
+revision is to update the normative reference to the physical 75-ohm connector. There are no physical 
+changes to the connector, just the IEC reference number. The changes are summarized below. 
+ 
+1.   "Section 2,  Conformance Notation" has been added and all sections following have been renumbered 
+       (including all references to sections within the document). 
+ 
+2.   Under Normative References in Section 3 (previously Section 2), the IEC document has been updated. 
+ 
+3.   Section 5.1 (previously 4.1) has been revised. 
+ 
+4.   Annex G, Document Road Map, has been revised. 
+ 
+ 
+ 
+ 
+ 
+ 

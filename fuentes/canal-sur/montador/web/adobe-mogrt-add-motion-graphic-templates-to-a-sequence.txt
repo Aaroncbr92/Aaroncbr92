@@ -1,0 +1,25 @@
+Fuente: https://helpx.adobe.com/premiere/desktop/add-text-images/use-motion-graphics-templates/add-motion-graphic-templates-to-a-sequence.html
+Leído: 25-09-2026 (descarga directa de helpx.adobe.com; texto de la página sin navegación)
+
+Add Motion Graphic templates to a sequence
+Last updated on
+Jan 7, 2026
+Learn how to add a Motion Graphics template from the Graphics Templates panel to a sequence in Adobe Premiere.
+Open the
+Graphics Templates
+panel and go to the
+My Templates
+tab.
+Select the template that you want to use and drag it into a video track in your sequence.
+After adding a template to your sequence, you can customize it in the
+Edit
+tab of the
+Properties
+panel to change its appearance.
+Tip
+When you add a template to a sequence, Premiere shows the media as offline until the template completes loading. If the template requires fonts that have not been installed, you can resolve the fonts that are missing.
+Craft the perfect story with Premiere
+Find the best-in-class video-editing tools all in one place.
+Open the app
+Open the app
+Previous

@@ -1,0 +1,175 @@
+Los subtítulo
+s en la TDT - Televisión Digital Terrestre
+¿Qué debe saber?
+¿Qué debe tener su receptor o 
+televisor? ¿Cómo comprobarlo?
+Para muchos de nosotros, especialmente para 
+las personas mayores, personas con discapacidad auditiva y para las que están aprendiendo 
+un idioma, los subtítulos son un recurso fundamental para ver la televisión. Esta guía le dirá lo 
+que tiene saber sobre los nuevos subtítulos de 
+la Televisión Digital Terrestre (TDT).
+Verificación de los subtítulos en la TDT
+Verificar que puede ver los subtítulos DVB:
+1. Cambie al canal Clan TVE (canal que subtitula 
+todos sus programas en ambos tipos de subtítulos DVB y Teletexto).
+2. Pulse la tecla de subtitulado del mando. En 
+la mayoría de los casos aparecerá un menú 
+navegable en pantalla.
+3. Active los subtítulos DVB, generalmente denominados como: SUBTITULOS ESTANDAR, 
+ESTANDAR, SUBTITULOS, SUB O SUBTITLE.
+4. Espere unos segundos para verificar que aparecen en pantalla los subtítulos DVB. La principal diferencia con los de Teletexto es que no 
+están contenidos en una caja negra:
+Captura de una emisión de televisión en el que se observan subtítulos DVB (sin caja negra).
+Verificar que puede ver los subtítulos de Teletexto:
+1. De nuevo en el canal Clan TVE pulse la tecla 
+de subtitulado. En el menú navegable, las 
+variantes más comunes para referirse a los 
+subtítulos de Teletexto son SUBTITULOS TELETEXTO, TELETEXTO, O TXT.
+2. Una vez activados compruebe que, tras unos 
+segundos, aparecen los subtítulos de Teletexto (se caracterizan por estar contenidos en 
+una caja negra):
+Captura de una emisión de televisión en el que se observan subtítulos de teletexto (con caja negra).
+En este caso verifique además la legibilidad de los 
+subtítulos de Teletexto y el correcto funcionamiento 
+de caracteres especiales como Ñ o ¿.
+Verificar la memoria de subtitulado:
+El receptor debe recordar la activación del subtitulado de un canal, de manera que al volver a ese canal 
+los subtítulos sigan activados. Para comprobar que 
+el dispositivo recuerda esta activación por canal siga 
+estos pasos:
+1. Active los subtítulos DVB en Clan TVE siguiendo 
+los pasos anteriores.
+2. Compruebe que al cambiar de canal y volver a 
+Clan TVE no dejan de verse los subtítulos, y por 
+tanto, no tiene que volver a activarlos.
+3. Apague el televisor y el receptor, vuelva a encenderlos y compruebe que sigue viendo los 
+subtítulos en Clan TVE. 
+4. Active los subtítulos de Teletexto en un canal 
+que no disponga de subtítulos DVB (como Telecinco, Cuatro o La Sexta). Cambie entre Clan 
+TVE y el canal escogido, verificando que ambos 
+tipos de subtítulos siguen viéndose en ambos 
+canales.
+Recuerde que algunos receptores permiten activar 
+los subtítulos para todos los canales desde el panel 
+de configuración general. Sin embargo en otros receptores al activar los subtítulos de un canal quedan 
+también activados para todos los demás.
+
+Los subtítulos 
+en la TDT
+La TDT (Televisión Digital Terrestre) es una tecnología que permite emitir en forma digital los canales de televisión que hasta ahora se emitían en 
+forma analógica. Gracias a esta nueva tecnología es 
+posible emitir más canales y funciones adicionales 
+como servicios interactivos, televisión de pago, mejor calidad de imagen (alta definición HD), etc.
+Entre las nuevas funciones se encuentra un subtitulado más avanzado que el de teletexto: el subtítulo 
+DVB (Digital Video Broadcast). Este nuevo subtítulo 
+permite utilizar más colores, tipografías y formatos 
+de texto.
+El subtítulo DVB lo utilizan ya la mayoría de los 
+canales, aunque generalmente no todos los programas están subtitulados. Hay canales que emiten tanto los subtítulos de teletexto como los de 
+DVB  como todos los canales de TVE y de Antena 3. 
+Sin embargo algunos nuevos canales como Hogar 
+10 o Sony TV aún no emiten subtítulos, mientras 
+que otros aún no emiten los nuevos subtítulos DVB 
+como Telecinco, Cuatro, La Sexta y la mayoría de 
+canales autonómicos.
+En cualquier caso, para poder disfrutar de los subtítulos en todos los canales es necesario que el receptor de TDT, sea externo o integrado en el televisor, sea compatible con ambos tipos de subtítulo. 
+El receptor o 
+Televisor TDT
+Las características idóneas que debe tener un receptor de TDT o televisor con TDT integrado para ver los 
+subtítulos son:
+1. El mando debe disponer de una tecla que active 
+tanto los subtítulos DVB como de Teletexto.
+2. La información del programa que aparece 
+al pulsar INFO debe también indicar con 
+un icono la disponibilidad de los subtítulos.
+3. Dispone de memoria de subtitulado: 
+el aparato recuerda que activamos 
+previamente los subtítulos, aun habiendo cambiado de canal o apagado el equipo.
+Las siguientes características son deseables aunque no imprescindibles:
+4. El receptor debe mostrar cualquier 
+tipo de subtítulo emitido aunque no 
+sea el que hayamos marcado como preferido. (Un problema frecuente es que, tras haber 
+configurado como preferentes los subtítulos DVB, 
+no se muestran los de teletexto aun estando disponibles o vicecersa). 
+5. Activar o desactivar los subtítulos no debería costarnos más de 3 pulsaciones del mando
+Estas otras características son también importantes para personas mayores o con discapacidad sensorial:
+6. El tamaño de las teclas del mando debe ser 
+adecuado. 
+7. El equipo no debería generar interferencias 
+en los audífonos.
+8. Incorpora puertos para la conexión de ayudas técnicas como auriculares, sistemas RF...
+N A C I O N A L
+A
+N
+A
+L
+Ó
+G
+I
+C
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+O
+U
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12*
+50
+40
+60
+50
+21
+Logotipo del Real Patronato sobre Discpacidad, Ministerio de Sanidad y Política Social, Gobierno de España.

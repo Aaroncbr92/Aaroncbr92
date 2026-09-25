@@ -1,0 +1,117 @@
+
+Añadir miniaturas personalizadas en YouTube
+Gracias a las miniaturas personalizadas de los vídeos y Shorts, tu audiencia puede ver una captura rápida de tu contenido. Puedes elegir una de las opciones sugeridas que se generan automáticamente o subir la que tú quieras 
+si tu cuenta se ha verificado
+. Asegúrate de que la miniatura cumpla nuestras 
+Normas de la Comunidad
+.
+Nota:
+ Por el momento, solo se pueden añadir miniaturas personalizadas a los Shorts en YouTube Studio desde un ordenador. Para usar esta función, 
+debes verificar tu cuenta
+.
+Añadir una miniatura de vídeo personalizada
+Inicia sesión en 
+YouTube Studio
+.
+En el menú de la izquierda, selecciona 
+Contenido
+.
+Ve al vídeo que quieras editar 
+ haz clic en 
+.
+En "Miniatura", haz clic en 
+Subir archivo
+ para crear una miniatura de vídeo personalizada a partir de una imagen de tu dispositivo o selecciona 
+Obtener sugerencias
+ para generar una miniatura.
+Haz clic en 
+GUARDAR
+.
+Añadir una miniatura personalizada a un Short
+Inicia sesión en 
+YouTube Studio
+.
+En el menú de la izquierda, selecciona 
+Contenido
+Shorts
+ en la parte superior.
+Ve al Short que quieras editar 
+ haz clic en 
+.
+En "Miniatura", haz clic en 
+Subir archivo 
+ para crear una miniatura de Short personalizada a partir de una imagen de tu dispositivo.
+En el caso de los archivos subidos, la relación de aspecto recomendada es 9:16.
+Haz clic en 
+GUARDAR
+.
+Nota:
+ Los cambios en las miniaturas pueden tardar un tiempo en reflejarse en YouTube.
+Vídeo con instrucciones para añadir una miniatura de vídeo personalizada
+En el siguiente vídeo del canal YouTube Creators te explicamos cómo añadir miniaturas de vídeo personalizadas.
+Cómo añadir miniaturas personalizadas a tus vídeos de YouTube
+✨CÓMO✨ SUBIR una miniatura personalizada de Shorts
+Suscríbete al 
+canal YouTube Creators
+ para enterarte de las últimas noticias, novedades y consejos.
+Consulta estos consejos para creadores sobre las 
+miniaturas de los vídeos
+.
+Generar miniaturas con Pregunta a Studio
+Usa Pregunta a Studio para obtener sugerencias sobre miniaturas personalizadas para tus vídeos. Pregunta a Studio analiza la transcripción y los temas de tu vídeo para sugerirte miniaturas que se adapten a él.
+Para generar una miniatura, sigue estos pasos:
+Abre Pregunta a Studio en tu flujo de trabajo de publicación.
+Introduce una petición como "Crea una miniatura".
+En el cuadro de chat, haz clic en Añadir
+ para seleccionar el vídeo del que quieres recibir sugerencias o subir imágenes de referencia.
+Usa más peticiones para hacer los cambios que quieras.
+Por ejemplo, puedes usar Pregunta a Studio para pedir que se aumente el tamaño del texto de tu miniatura.
+Revisa las sugerencias generadas.
+Prácticas recomendadas para las miniaturas personalizadas
+Tamaño y resolución de la imagen
+La imagen de la miniatura personalizada debe tener el mayor tamaño posible, ya que se utilizará como imagen de vista previa en el reproductor insertado. Para las miniaturas personalizadas, recomendamos lo siguiente:
+Tener una resolución de 3840x2160 píxeles en el caso de los vídeos y de 2160x3840 en el de los Shorts, con una anchura mínima de 640 píxeles en el caso de los vídeos y una altura mínima de 640 píxeles en el de los Shorts.
+Trata de subirlas en uno de estos formatos de imagen: JPG o PNG.
+Intenta que no superen el límite de MB correspondiente, que dependerá del dispositivo que uses para subir la miniatura:
+Móvil:
+ 2 MB para miniaturas de vídeo y 10 MB para miniaturas de pódcast.
+Ordenador:
+ 50 MB para miniaturas de vídeo, Shorts y pódcasts.
+En el caso de los vídeos, intenta subir una miniatura con una relación de aspecto de 16:9.
+En el caso de los Shorts, intenta subir una miniatura con una relación de aspecto de 9:16.
+En el caso de las listas de reproducción de pódcasts, la miniatura que subas debe tener una relación de aspecto de 1:1 en lugar de 16:9.
+Nota:
+ En los vídeos verticales con miniaturas personalizadas con una relación de aspecto de 16:9, estas se sustituirán por una miniatura generada automáticamente con una relación de aspecto de 4:5 en la página principal, en la de exploración y en la de suscripciones. Tu miniatura personalizada seguirá apareciendo en el feed de la página de visualización, en el historial de reproducciones y en los dispositivos que no sean móviles.
+Políticas de las miniaturas
+Todas las imágenes de las miniaturas personalizadas deben cumplir nuestras 
+Normas de la Comunidad
+. Es posible que rechacemos tus miniaturas y que tu cuenta reciba una falta si muestran el siguiente contenido:
+Desnudos o contenido sexual provocativo
+Incitación al odio
+Violencia
+Contenido dañino o peligroso
+Si se repiten las infracciones, puede que se te retiren los privilegios de utilizar miniaturas personalizadas durante 30 días o que incluso se cancele tu cuenta. 
+Más información acerca de las faltas por incumplimiento de las Normas de la Comunidad
+Si se te aplica una falta, recibirás un correo electrónico y aparecerá una alerta en la 
+configuración de tu canal
+ la próxima vez que inicies sesión en YouTube. Si consideras que tus miniaturas no infringen las Normas de la Comunidad de YouTube, puedes 
+apelar la falta
+. Si se aprueba tu apelación y aún no has sustituido la miniatura, es posible que la restauremos.
+Limitaciones de las miniaturas personalizadas
+Un canal puede subir un número limitado de miniaturas personalizadas al día. Si aparece un mensaje de error que dice "Límite de miniaturas personalizadas diarias superado" al intentar subir una miniatura, inténtalo de nuevo pasadas 24 horas.
+Esta limitación puede variar dependiendo de la región, el país o el historial del canal. Las faltas por infracción de derechos de autor pueden influir en la limitación que tiene un canal a la hora de subir miniaturas personalizadas. Las faltas por incumplimiento de las Normas de la Comunidad influyen en el número de miniaturas que un canal puede subir.
+¿Por qué se han inhabilitado mis miniaturas personalizadas?
+Es posible que YouTube inhabilite las miniaturas personalizadas de determinados resultados de búsqueda si se consideran inadecuadas para los usuarios.
+Todas las imágenes de las miniaturas personalizadas deben cumplir nuestras 
+Normas de la Comunidad
+.
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+¿Te ha resultado útil esta información?
+¿Cómo podemos mejorar esta página?
+Sí
+No
+Enviar
+Ordenador
+Android
+iPhone y iPad
+Más

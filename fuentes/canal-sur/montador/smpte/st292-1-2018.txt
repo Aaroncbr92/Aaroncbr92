@@ -1,0 +1,1653 @@
+ 
+Copyright © 2018 by THE SOCIETY OF MOTION PICTURE AND  
+TELEVISION ENGINEERS 
+445 Hamilton Avenue, White Plains, NY 10601 
+(914) 761-1100 
+Approved April 12, 2018 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents                                                                                                      Page 
+1  Scope........................................................................................................................................................ 3 
+2 Conformance Notation .......................................................................................................................... 3 
+3  Normative References ............................................................................................................................ 3 
+4  Source Format Data ................................................................................................................................ 4 
+5  Interface Data Format ............................................................................................................................. 5 
+6  Serial Data Format .................................................................................................................................. 6 
+7  Channel Coding ....................................................................................................................................... 7 
+8  Coaxial Cable Interface........................................................................................................................... 7 
+9  Payload Identifier .................................................................................................................................... 9 
+Annex A   Channel Code  (Informative) .................................................................................................. 15 
+Annex B  Timing Reference Codes  (Informative) ................................................................................. 16 
+Annex C   Source Signal Formats  (Informative) ................................................................................... 17 
+Annex D  Audio Data Mapping  (Informative) ......................................................................................... 19 
+Bibliography  (Informative) ...................................................................................................................... 20 
+ 
+ 
+Page 1 of 20  
+SMPTE STANDARD  
+SMPTE ST 292-1:2018 
+Revision of SMPTE ST 292-1:2012 
+1.5 Gb/s Signal/Data  
+Serial Interface 
+
+SMPTE ST 292-1:2018 
+Page 2 of 20 pages 
+Foreword 
+ 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized 
+standards developing organization. Headquartered and incorporated in the United States of America, 
+SMPTE has members in over 80 countries on six continents. SMPTE’s Engineering Documents, including 
+Standards, Recommended Practices and Engineering Guidelines, are prepared by SMPTE’s Technology 
+Committees. Participation in these Committees is open to all with a bona fide interest in their work. 
+SMPTE cooperates closely with other standards-developing organizations, including ISO, IEC and ITU. 
+ 
+SMPTE Engineering Documents are drafted in accordance with the rules given in Part XIII of its 
+Administrative practices. 
+ 
+SMPTE ST 292-1 was prepared by Technology Committee 32NF. 
+ 
+Intellectual Property 
+ 
+At the time of publication no notice had been received by SMPTE claiming patent rights essential to the 
+implementation of this Standard.  However, attention is drawn to the possibility that some of the elements 
+of this document may be the subject of patent rights. SMPTE shall not be held responsible for identifying 
+any or all such patent rights. 
+ 
+Introduction 
+ 
+This section is entirely informative and does not form an integral part of this Engineering Document. 
+ 
+This standard has been developed to carry HDTV digital video signals and formatted data within the 
+defined payload areas including ancillary data. The standard can carry 1280×720, 1920×1080 or 
+2048×1080 active pixel formats through the 1.5 Gb/s Serial Digital Interface and enables the carriage of 
+any ancillary data conforming to SMPTE ST 291. 
+ 
+ 
+ 
+
+SMPTE ST 292-1:2018 
+Page 3 of 20 pages 
+1  Scope 
+ 
+This standard defines a bit-serial data structure and the coaxial cable interface specifications for 1.5 Gb/s 
+[nominal] Signal/Data Serial Interface to carry either 1280×720, 1920×1080 or 2048×1080 active pixel 
+formats mapped into the 1.5 Gb/s payload. This standard defines the method of serializing the parallel 
+source format data to a serial bit stream. This interface may also carry packetized data mapped into the 
+1.5 Gb/s transport payload providing the constraints imposed by the reference source image formats are 
+observed. 
+ 
+This standard specifies a coaxial cable interface suitable for application where the signal loss does not 
+exceed an amount specified by the receiver manufacturer, typical loss amounts would be in the range of 
+up to 20 dB at one-half the clock frequency. 
+ 
+2 Conformance Notation 
+ 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially 
+helpful to the user, but not indispensable, and can be removed, changed, or added editorially without 
+affecting interoperability. Informative text does not contain any conformance keywords.  
+ 
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled 
+as "Informative" or individual paragraphs that start with "Note:”  
+ 
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+ 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended 
+as particularly suitable, without mentioning or excluding others; or that a certain course of action is 
+preferred but not necessarily required; or that (in the negative form) a certain possibility or course of 
+action is deprecated but not prohibited.  
+ 
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the 
+document.  
+ 
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may 
+be defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the 
+provision will never be defined in the future. 
+ 
+3  Normative References 
+ 
+The following standards contain provisions which, through reference in this text, constitute provisions of 
+this standard. At the time of publication, the editions indicated were valid. All standards are subject to 
+revision, and parties to agreements based on this standard are encouraged to investigate the possibility 
+of applying the most recent edition of the standards indicated below. 
+ 
+SMPTE RP 2077:2013, Full Range Image Mapping 
+ 
+SMPTE ST 274:2008, Television — 1920 x 1080 Image Sample Structure, Digital Representation and 
+Digital Timing Reference Sequences for Multiple Picture Rates 
+ 
+SMPTE ST 296:2012, 1280 x 720 Progressive Image Sample Structure — Analog and Digital 
+Representation and Analog Interface  
+ 
+SMPTE ST 352:2013, Payload Identification Codes for Serial Digital Interfaces 
+ 
+SMPTE ST 2048-2:2011, 2048 x 1080 Digital Cinematography Production Image FS/709 Formatting for 
+Serial Digital Interface  
+
+SMPTE ST 292-1:2018 
+Page 4 of 20 pages 
+ 
+SMPTE RP 184:2015, Specification of Jitter in Bit-Serial Digital Systems 
+ 
+IEC 61169-8 (2007-2), Part 8: Sectional Specification — R.F. Coaxial Connectors with Inner Diameter of 
+Outer Conductor 6,5 mm (0,256 in) with Bayonet Lock — Characteristic Impedance 50Ω (Type BNC), 
+Annex A (Normative) Information for Interface Dimensions of 75Ω Characteristic Impedance Connector with 
+Unspecified Reflection Factor 
+ 
+Note that the title of this normative reference could be misleading. This standard requires the use of the 75ohm connector defined in this reference. 
+ 
+Recommendation ITU-R BT.2100-1 (06/2017), Image parameter values for high dynamic range television 
+for use in production and international programme exchange. 
+ 
+4  Source Format Data 
+ 
+4.1  For this interface, the source data shall be 10-bit words. The source data may be an uncompressed 
+video source or packetized data constrained by the pixel array of the referenced source image formats. 
+ 
+4.2  For uncompressed 4:2:2 1280x720, 1920x1080  or 2048×1080 pixel signals, the interface shall be 
+two parallel bit streams  forming a 20-bit virtual interface..  One stream shall be defined as the Luma (Y’) 
+data channel, and the second stream shall be the Color-Difference (C’B,C’R) data channel. These data 
+channels shall be multiplexed to form the serial data stream. The multiplexing shall be as defined in 
+Figure 3.  
+ 
+For ICTCP image mapping, Y’ shall be replaced with I, C’B shall be replaced with CT and C’R shall be 
+replaced with CP. 
+ 
+NOTE: ICTCP sampling is only applicable to the High Dynamic Range (HDR) image formats defined in 
+Recommendation ITU-R BT.2100. See Annex C.4. Furthermore, the use of ICtCp for program 
+interchange is by prior agreement between parties as defined in ITU-R BT.2100. 
+ 
+Other mappings shall be defined by application documents. 
+ 
+4.3 Data for each line of the interface shall be divided into four areas: "EAV/LN/CRC (end of active 
+video/line number/cyclic redundancy check code); digital line blanking; SAV (start of active video) timing 
+reference and digital active video as shown in Figure 1. The number of words and defined data in each area 
+shall be specified by the source format or mapping documents. 
+ 
+4.4 Parameters for uncompressed 1280x720, 1920x1080 and 2048×1080 pixel sources and associated 
+ancillary space shall be defined by: 
+ 
+ 
+ 
+SMPTE ST 274 for 1920x1080 Standard Dynamic Range TV (SDR-TV) 
+ 
+SMPTE ST 296 for 1280x720 SDR-TV 
+ 
+SMPTE ST 2048-2 for 2048x1080 Production Image Formats for Digital Cinematography 
+Recommendation ITU-R BT.2100-1 for 1920x1080 HDR 
+ 
+(See informative Annex C.) 
+ 
+ 
+ 
+The total data rate shall be either 1.485 Gb/s or 1.485/1.001 Gb/s. The source format or mapping 
+documents determine the precise interface clock frequency. 
+ 
+NOTE: Designers are encouraged to refer to multi-link 1.5 Gb/s-SDI or higher data rate SDI documents 
+for the image formats which require higher than 1.485 Gb/s or 1.485/1.001 Gb/s. 
+ 
+ 
+
+SMPTE ST 292-1:2018 
+Page 5 of 20 pages 
+ 
+Figure 1 – Interface horizontal line data 
+ 
+5  Interface Data Format 
+ 
+5.1  Digital active line and digital line blanking shall consist of 10-bit words as defined by the source format 
+document. Data values 000h to 003h and 3FCh to 3FFh shall be used exclusively for synchronization 
+purposes. 
+ 
+5.2  Timing references SAV, EAV (See informative Annex B.), line number, and CRCs for each of the 
+two parallel data streams shall be formatted as shown in Figure 2. 
+ 
+ 
+ 
+Figure 2 – Timing reference format (Luma channel shown) 
+ 
+ 
+5.3  Interface line number data shall be composed of two words and shall be as shown in Table 1. 
+ 
+5.4  CRC (cyclic redundancy check codes) shall be used to detect errors in the active digital line, 
+including EAV and LN. The error detection code shall consist of two words determined by the 
+polynomial generator equation: 
+ 
+ 
+ 
+ 
+CRC(X) = X18 + X5 + X4 + 1 
+ 
+The initial value of the CRC shall be set to zero. The calculation shall start at the first active line word and 
+shall end at the final word of the line number data, LN1. Two CRCs shall be calculated, one for the luma 
+data channel and one for the color-difference data channel of the interface, as shown in Table 2. 
+ 
+Luma channel and color-difference channel of the interface may carry packetized data as defined by other application 
+documents providing the constraints defined in this standard and that of the source image formats  are observed. 
+ 
+ 
+5.5  Available ancillary data space shall be defined by the source format. Attention is drawn to the 
+reduced sample number of H-Blank by 2048 – 1920 = 128 when transporting 2048×1080 active image 
+formats. (See informative Annex D.) 
+
+SMPTE ST 292-1:2018 
+Page 6 of 20 pages 
+ 
+Table 1 – Line number data 
+ 
+Word 
+9 
+(MSB) 
+  8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
+(LSB) 
+LN0 
+B8 
+L6 
+L5 
+L4 
+L3 
+L2 
+L1 
+L0 
+R 
+R 
+LN1 
+B8 
+R 
+R 
+R 
+L10 
+L9 
+L8 
+L7 
+R 
+R 
+     
+    NOTES 
+    1  L0 – L10 = line number in binary code. 
+    2  R = reserved, set to “0”. 
+ 
+Table 2 – CRC data 
+ 
+Word 
+9 
+(MSB) 
+  8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
+(LSB) 
+YCR0 
+ B8 
+  CRC8 
+  CRC7 
+  CRC6 
+  CRC5 
+  CRC4 
+  CRC3 
+ CRC2 
+CRC1 
+ CRC0 
+YCR1 
+ B8 
+  CRC17   CRC16   CRC15 
+  CRC14 
+  CRC13   CRC12  CRC11 CRC10  CRC9 
+CCR0 
+ B8 
+  CRC8 
+  CRC7 
+  CRC6 
+  CRC5 
+  CRC4 
+  CRC3 
+ CRC2 
+CRC1 
+ CRC0 
+CCR1 
+ B8 
+  CRC17   CRC16   CRC15 
+  CRC14 
+  CRC13   CRC12  CRC11 CRC10  CRC9 
+ 
+ 
+ 
+6  Serial Data Format 
+ 
+6.1  The two source format parallel data streams with EAV and SAV shall be as shown in Figure 2 and 
+shall be interleaved as shown in Figure 3. 
+ 
+6.2  Interleaved data shall be serialized with the LSB (least significant bit) of each data word transmitted 
+first. 
+ 
+ 
+ 
+3FF (C)
+3FF (Y)
+3FF (C)
+3FF (Y)
+000 (C)
+000 (Y)
+000 (C)
+000 (Y)
+000 (C)
+000 (Y)
+000 (C)
+000 (Y)
+XYZ (C)
+XYZ (Y)
+LN0 (C)
+LN0 (Y)
+LN1 (C)
+LN1 (Y)
+CCR0
+YCR0
+CCR1
+YCR1
+C'B data
+Y' data
+C'R data
+Y' data
+XYZ (C)
+XYZ (Y)
+C'B data
+Y' data
+C'R data
+Y' data
+EAV
+LN
+CRC
+SAV
+Data
+Data
+ 
+ 
+Figure 3 – Interleaved data stream 
+
+SMPTE ST 292-1:2018 
+Page 7 of 20 pages 
+7  Channel Coding 
+ 
+7.1  The channel coding scheme shall be scrambled NRZI (non-return to zero inverted). (See 
+Informative Annex A.) 
+ 
+7.2  The generator polynomial for the scrambled NRZ shall be G1(X) = X9 + X4 + 1. Polarity-free 
+scrambled NRZI sequence data shall be produced by the generator polynomial G2(X) = X + 1. The 
+input signal to the scrambler shall be positive logic. (The highest voltage represents data 1 and the 
+lowest voltage represents data 0.) 
+ 
+7.3  The serial interface data word length shall be 10 bits. 
+ 
+8  Coaxial Cable Interface 
+ 
+8.1  Signal Levels and Specifications 
+ 
+These specifications shall be defined for measurement of the serial output of a source derived from a 
+parallel domain signal. 
+ 
+8.1.1  The output of the generator shall be measured across a 75-ohm resistive load connected through a 
+1-m coaxial cable. Figure 4 defines the measurement dimensions for amplitude, rise-time and overshoot. 
+ 
+ 
+Figure 4 – Waveform measurement dimensions 
+8.1.2  The generator shall have an unbalanced output circuit with a source impedance of 75 ohms and a 
+return loss of at least 15 dB over a frequency range of 5 MHz to the clock frequency of the signal being 
+transmitted. 
+ 
+8.1.3  The peak-to-peak signal amplitude shall be 800 mV ± 10% measured as specified in § 8.1.1. 
+ 
+8.1.4  The dc offset, as defined by the mid-amplitude point of the signal, shall be nominally 0.0 V ± 0.5 
+V. 
+ 
+8.1.5  The rise and fall times, determined between the 20% and 80% amplitude points shall be no 
+greater than 270 ps and shall not differ by more than 100 ps. 
+ 
+8.1.6  Overshoot of the rising and falling edges of the waveform shall not exceed 10% of the amplitude. 
+
+SMPTE ST 292-1:2018 
+Page 8 of 20 pages 
+8.1.7 Output amplitude excursions due to signals with a significant dc component occurring for a 
+horizontal line (pathological signals) shall not exceed 50 mV above or below the average peak-topeak signal envelope. 
+ 
+Note: This specification defines a minimum output coupling time constant. 
+ 
+8.1.8  The jitter in the timing of the transitions of the data signal shall be measured in accordance with 
+SMPTE RP 184. Measurement parameters shall be as defined in SMPTE RP 184 and shall have the 
+values shown in Table 3 for compliance with this standard. 
+ 
+8.1.9  The receiver of the serial interface signal shall present an impedance of 75 ohms with a return loss 
+of at least 15 dB over a frequency range of 5 MHz to the clock frequency of the signal being transmitted. 
+ 
+8.1.10  Receivers operating with input cable losses in the range of up to 20 dB at one-half the clock 
+frequency are nominal; however, receivers designed to work with greater or lesser signal attenuation are 
+acceptable. 
+ 
+8.1.11  When connected to a line driver operating at the lower limit of voltage permitted by § 8.1.3, the receiver 
+should sense correctly the binary data in the presence of the superimposed interfering signal at the following 
+levels: 
+ 
+dc                         
+± 2.5V 
+Below 5 kHz          
+<2.5V p-p 
+5 kHz to 27 MHz     
+<100 mV p-p 
+Above 27 MHz       
+<40 mV p-p 
+ 
+ 
+Table 3 – Jitter specifications 
+       B1 
+           10 Hz 
+          Timing jitter lower band edge 
+       B2 
+           100 kHz 
+          Alignment jitter lower band edge 
+       B3 
+           > 1/10 the clock rate 
+          Upper band edge 
+       A1 
+          1 UI 
+          Timing jitter 
+         (Note 1) 
+       A2 
+          0.2 UI 
+          Alignment jitter (UI = unit interval) 
+       Test signal 
+          Color bar test signal 
+        (Note 2) 
+       n 
+          ≠10 (preferred) 
+          Serial clock divided         (Note 3) 
+Notes: 
+      
+1  Designers are cautioned that parallel signals could contain jitter up to 2 ns p-p. Direct conversion of such signals 
+from parallel to serial could result in excessive serial signal jitter. 
+      
+2  Color bars are chosen as a non-stressing test signal for jitter measurements. Use of a stressing signal with long 
+runs of zeros could give misleading results. 
+     
+3  Use of a serial clock divider value of 10 could mask word correlated jitter components. 
+      
+4  See SMPTE RP 184 for definition of terms. 
+ 
+ 
+8.2  Connector and Cable Types 
+ 
+8.2.1  The male and female connectors shall be 75-ohm BNC as defined in IEC 61169-8, Part 8, Annex 
+A. 
+ 
+8.2.2  Application of this standard does not require a particular type of coaxial cable. It is necessary for 
+the frequency response of the coaxial cable loss, in decibels, to be approximately proportional to 1/√f 
+
+SMPTE ST 292-1:2018 
+Page 9 of 20 pages 
+from 1 MHz to the clock frequency of the signal being transmitted to ensure correct operation of automatic 
+cable equalizers over moderate to maximum lengths. 
+ 
+8.2.3  Return loss of the correctly terminated transmission line shall be greater than 15 dB over a 
+frequency range of 5 MHz to the clock frequency of the signal being transmitted. 
+ 
+9  Payload Identifier 
+ 
+9.1 A Payload identifier is optional but strongly recommended for the image formats defined in 
+SMPTE ST 274 and ST 296 – see Tables C.1 and C.2. The precise definition of the 4 byte payload 
+identifier packet if used shall be as defined below.  
+ 
+A payload identifier shall be inserted into the horizontal ancillary data space of the Luma (Y’) or 
+Intensity (I) data channel for all other formats. The format of the payload identifier shall be in 
+accordance with SMPTE ST 352. The precise definition of the 4 byte payload identifier packet if used 
+shall be as defined below.  
+ 
+9.2  Placement of the Ancillary Data Packet 
+ 
+As this packet defines a basic payload type, the preferred horizontal placement of the ancillary data 
+packet is immediately following the word YCR1, shown in Figure 2.  
+ 
+The preferred horizontal and vertical locations for the Payload Identification Code packets are 
+recommendations only. The actual packet location may vary on a case by case basis. Decoders shall not 
+depend on the recommended location for the detection and extraction of the payload packet.  
+ 
+Note:  The line numbers given in the remainder of this section are interface line numbers which might differ 
+from the picture source line numbers. These line number differences occur when using special raster mappings 
+such as PsF, multi-link and multi-channel. 
+ 
+9.2.1  750-line digital interfaces, progressive 
+ 
+For digital interfaces having 750 lines with a progressive (P) scanning structure, the ancillary data packet 
+shall be added once per frame on the Y-channel. The recommended location of the ancillary packet, if 
+ancillary space is available, shall be on the following line: 
+ 
+ 
+750P: Line 10 
+ 
+9.2.2  1125-line digital interfaces, interlace and segmented-frame 
+ 
+For digital interfaces having 1125 lines with interlaced (I) and progressive segmented-frame (PsF) 
+scanning structures, the ancillary data packet shall be added once per field on the Y-channel. The 
+recommended location of the ancillary packet, if ancillary space is available, shall be on the following 
+lines: 
+ 
+ 
+1125I (field 1): Line 10 
+ 
+1125I (field 2): Line 572 
+ 
+Note:  These line numbers also apply to dual-link HD-SDI when using interlaced and progressive segmentedframe scanning. 
+ 
+9.2.3  1125-line digital interfaces, progressive 
+ 
+
+SMPTE ST 292-1:2018 
+Page 10 of 20 pages 
+For digital interfaces having 1125 lines with a progressive (P) scanning structure, the ancillary data 
+packet shall be added once per frame on the Y-channel. The recommended location of the ancillary 
+packet, if ancillary space is available, shall be on the following line: 
+ 
+ 
+1125P: Line 10 
+ 
+9.3 The payload identifier shall be 4 bytes long where each byte has a separate significance. The first 
+byte of the payload identifier shall have the highest significance and subsequent bytes shall be used to 
+define lower order payload information as defined in SMPTE ST 352.  
+The precise definition of the 4 byte payload identifier packet for 720-line and 1080-line payloads shall be 
+as defined below and these definitions shall supersede the definitions contained in Annex B of SMPTE 
+ST 352. 
+The values for byte 1 are contained in a register published on line at SMPTE RA <www.smpte-ra.org>.  
+Readers are encouraged to check the online site for the current registered values for each payload format 
+and interface combination. 
+ 
+9.4  720-line Payloads on a 1.485 Gb/s (Nominal) Serial Digital Interface 
+ 
+ 
+Table 4 – Payload identifier definitions for 720-line progressive payloads 
+on a 1.485 Gb/s (nominal) serial digital interface 
+ 
+Bits 
+Byte 1 
+Byte 2 
+Byte 3 
+Byte 4 
+Bit 7 
+1 
+Reserved 
+Reserved 
+Reserved 
+Bit 6 
+0 
+Progressive (1) 
+picture 
+Reserved 
+Reserved 
+Bit 5 
+0 
+Reserved 
+Reserved 
+Reserved 
+Bit 4 
+0 
+Reserved 
+Reserved 
+Reserved 
+Bit 3 
+0 
+Picture rate 
+(see Table 2  
+SMPTE ST 352) 
+Sampling structure 
+4:2:2 (0h) 
+(see Table 6) 
+Reserved 
+Bit 2 
+1 
+Reserved 
+Bit 1 
+0 
+Reserved 
+Bit 0 
+0 
+Bit depth 
+8-bit (0) or 10-bit (1) 
+ 
+ 
+9.4.1  Byte 2 
+The second byte shall be used to identify the picture rate and the picture and transport scanning 
+methods. 
+The progressive picture flag bit b6 of Byte 2 shall be set to (1); 
+The picture rate bits b3 to b0 of Byte 2 shall only use the values as defined in SMPTE ST 296 
+and shall be as defined in SMPTE ST 352; 
+All other bits shall be Reserved and set to (0). 
+ 
+9.4.2  Byte 3 
+
+SMPTE ST 292-1:2018 
+Page 11 of 20 pages 
+The third byte shall be used to identify the sampling structure of the payload.  
+ 
+The sampling structure bits b3 to b0 of Byte 3 shall be set to (0) 4:2:2; 
+All other bits shall be Reserved and set to (0). 
+ 
+9.4.3  Byte 4 
+The fourth byte shall be used to identify extended aspects of the payload. 
+Bit b0 shall be used to identify the bit depth of the sample quantization such that: 
+(0) identifies quantization using 8 bits per sample; 
+(1) identifies quantization using 10 bits per sample. 
+ 
+9.5  1080-line Payloads on a 1.485 Gb/s (Nominal) Serial Digital Interface 
+ 
+Table 5 – Payload identifier definitions for 1080-line interlaced and progressive 
+payloads on a 1.485 Gb/s (nominal) serial digital interface 
+ 
+Bits 
+Byte 1 
+Byte 2 
+Byte 3 
+Byte 4 
+Bit 7 
+1 
+Interlaced (0) or 
+progressive (1) 
+transport 
+Colorimetry 
+Reserved 
+Bit 6 
+0 
+Interlaced (0) or 
+progressive (1) 
+picture 
+Horizontal pixel count 
+1920 (0) or 2048 (1) 
+Reserved 
+Bit 5 
+0 
+Transfer 
+Characteristics 
+ 
+SDR-TV (0h) 
+HLG (1h) 
+PQ (2h) 
+Unspecified (3h) 
+Aspect ratio 
+16:9 (1), unknown (0) 
+Reserved 
+Bit 4 
+0 
+Colorimetry 
+Luminance and color 
+difference signal 
+ 
+Y’C’BC’R (0) 
+ICTCP (1) 
+Bit 3 
+0 
+Picture rate 
+(see Table 2  
+SMPTE ST 352) 
+Sampling structure 
+(see Table 6) 
+Reserved 
+Bit 2 
+1 
+Reserved 
+Bit 1 
+0 
+Bit depth 
+8-bit (0), 
+10-bit (1) 
+Reserved (2h) 
+10-bit full range (3h) 
+Bit 0 
+1 
+ 
+9.5.1  Byte 2 
+The second byte shall be used to identify the picture rate, Transfer Characteristics and the picture and 
+transport scanning methods. 
+ 
+Bit b7 shall be used to identify whether the digital interface uses a progressive or interlaced transport 
+structure such that: 
+
+SMPTE ST 292-1:2018 
+Page 12 of 20 pages 
+ 
+b7 = (0) identifies an interlaced transport 
+ 
+b7 = (1) identifies a progressive transport 
+ 
+Bit b6 shall be used to identify whether the picture has a progressive or interlaced structure such that.  
+ 
+b6 = (0) identifies an interlaced structure 
+ 
+b6 = (1) identifies a progressive structure 
+Note:  PsF payloads are identified by a progressive scanning of the payload transported over an 
+interlaced digital interface transport carrying the progressive payload as a first and second picture 
+segment within the transport frame duration. These first and second picture segments are indicated by 
+the first and second field indicators in the digital interface transport. 
+Bits b5 and b4 shall be used to indicate Transfer Characteristics such that: 
+b5:b4 = 0h identifies SDR-TV in accordance with SMPTE ST 274 or ST 296  
+b5:b4 = 1h identifies HLG HDR-TV in accordance with Recommendation ITU-R BT.2100 
+b5:b4 = 2h identifies PQ HDR-TV in accordance with Recommendation ITU-R BT.2100 
+b5:b4 = 3h identifies Unspecified Transfer Characteristics 
+ 
+If the Transfer Characteristic signaled in the Color VANC packet referenced in SMPTE ST 2048-2 
+is active, then it takes precedence over the Transfer Characteristic signaled in b5:b4. 
+  
+NOTE: The Reference EOTF as defined in SMPTE ST 2084 is the same as the Reference PQ 
+EOTF defined in Recommendation ITU-R BT.2100. 
+ 
+The picture rate bits b3 to b0 of Byte 2 shall only use the values as defined in SMPTE ST 274 and 
+SMPTE ST 2048-2 and shall be as defined in SMPTE ST 352. 
+ 
+9.5.2  Byte 3 
+ 
+The third byte shall be used to identify the aspect ratio, Colorimetry and sampling structure of the 
+payload. 
+ 
+Bits b7 and b4 shall identify the colorimetry for the image formats identified in Annex C such that:  
+ 
+b7,b4 = 0h identifies Rec 709 colorimetry in accordance with Recommendation ITU-R BT.709 as 
+referenced by SMPTE ST 274 and ST 296  
+ 
+b7,b4 = 2h identifies  UHDTV colorimetry in accordance with the Reference Primaries and 
+Reference White defined in Recommendation ITU-R BT.2100 
+ 
+b7,b4 = 3h identifies unknown colorimetry  
+ 
+Other values are reserved 
+ 
+ 
+Bit b6 shall be used to identify horizontal Pixel count:  
+ 
+(0) 1920 Pixels 
+ 
+(1) 2048 Pixels 
+ 
+ 
+Bit b5 shall be used to identify the image aspect ratio: 
+(0) aspect ratio unknown 
+
+SMPTE ST 292-1:2018 
+Page 13 of 20 pages 
+(1) 16x9 image 
+ 
+Bits b3 to b0 of byte 3 shall be used to identify the horizontal sampling structure in accordance with 
+Table 6. This standard is constrained to value 0h. 
+Table  6 – Sampling Structure 
+Value 
+Sampling 
+Value 
+Sampling 
+Value 
+Sampling 
+Value 
+Sampling 
+0h 
+4:2:2  
+(Y'C'BC'R) or 
+(ICTCP) 
+1h 
+4:4:4 
+(Y'C'BC'R) or 
+(ICTCP) 
+2h 
+4:4:4 
+(G'B'R') 
+3h 
+4:2:0 
+(Y'C'BC'R) 
+or (ICTCP) 
+4h 
+4:2:2:4 
+(Y'C'BC'RA) or 
+(I/CT/CP/A) 
+5h 
+4:4:4:4 
+(Y'/C'B/C'R/A) 
+or (I/CT/CP/A) 
+6h 
+4:4:4:4 
+(G'B'R'A) 
+7h 
+SMPTE ST 
+2048-2 
+FS*1 
+8h 
+4:2:2:4 
+(Y'C'BC'R+D) or 
+(ICTCP+D) 
+9h 
+4:4:4:4 
+(Y'C'BC'R+D) 
+or (ICTCP+D) 
+Ah 
+4:4:4:4 
+(G'/B'/R'/D) 
+Bh 
+Reserved 
+Ch 
+Reserved 
+Dh 
+Reserved 
+Eh 
+4:4:4 
+(X’Y’Z’) 
+Fh 
+Reserved 
+*1 Indicates 4:4:4 RFS GFS BFS Sampling. In this case, the Color VANC packet referenced in 
+SMPTE ST 2048-2 will be present. 
+ 
+ 
+9.5.3  Byte 4  
+ 
+The fourth byte shall be used to identify extended aspects of the payload.  
+ 
+Bits b7 to b5 are Reserved and set to (0).  
+ 
+Bit b4 shall be used to indicate the interpretation of the Luminance and color difference signal such that: 
+b4 = 0 indicates that the Sampling Structure defined in Byte 3 bits b3:b0, is interpreted as 
+Y′C′BC′R 
+ 
+b4 = 1 indicates that the Sampling Structure defined in Byte 3 bits b3:b0, is interpreted as ICTCP 
+in accordance with Recommendation ITU-R BT.2100 
+ 
+NOTE: Non-Constant Luminance (NCL) Y′C′BC′R sampling as referenced by Recommendation ITU-R 
+BT.2100 is equivalent to Y′C′BC′R sampling in this document. 
+ 
+Bits b3 and b2 are Reserved and set to (0).  
+ 
+Bits b1 and b0 shall be used to identify the bit depth of the sample quantization such that: 
+(0) identifies quantization using 8 bits per sample 
+(1) identifies quantization using 10 bits per sample 
+(2) Reserved 
+(3) identifies quantization using 10 bits per sample with full range coding in accordance with 
+Recommendation ITU-R BT.2100 
+
+SMPTE ST 292-1:2018 
+Page 14 of 20 pages 
+The prohibited code values required for synchronization (000h ~ 003h and 3FCh ~ 3FFh), 
+shall be protected in accordance with RP 2077 - Mapping to Interfaces and Formats that Rely 
+upon Protected Code Values with CVLOW = 4 and CVHIGH = 1019. 
+ 
+
+SMPTE ST 292-1:2018 
+Page 15 of 20 pages 
+Annex A   Channel Code  (Informative) 
+ 
+When scrambled NRZI channel coding is applied to certain video signals (informally called pathological 
+signals), repeated long strings of 19 or 20 zeros can occur during the period of one horizontal television 
+line. A stressing test signal is defined in SMPTE RP 198 that will help in evaluating channel performance. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A.1 – Example 1 of a possible Scrambler implementation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure A.2 – Example 2 of a possible Scrambler implementation 
+
+SMPTE ST 292-1:2018 
+Page 16 of 20 pages 
+Annex B  Timing Reference Codes  (Informative) 
+ 
+These codes, specified in the video source standards, are included as a convenience to designers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Word 
+9 
+(MSB)  
+8  
+ 
+7 
+  
+6  
+ 
+5  
+ 
+4  
+ 
+3  
+ 
+2  
+ 
+1  
+ 
+0  
+(LSB) 
+3FF  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+1  
+000  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+000  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+XYZ  
+1  
+F  
+V  
+H  
+P3  
+P2  
+P1  
+P0  
+0  
+0 
+ 
+Notes: 
+1  F = 0 during field 1; F = 1 during field 2. 
+2  V = 0 elsewhere; V = 1 during field blanking. 
+3  H = 0 in SAV; H = 1 in EAV. 
+4  MSB = most significant bit; LSB = least significant bit. 
+5  P0, P1, P2, P3 are protection bits defined below. 
+ 
+Bit 
+9 
+(MSB)  
+8  
+ 
+7 
+  
+6  
+ 
+5  
+ 
+4  
+ 
+3  
+ 
+2  
+ 
+1  
+ 
+0  
+(LSB) 
+ 
+1  
+Fixed 
+F 
+  
+V  
+ 
+H  
+ 
+P3  
+ 
+P2  
+ 
+P1 
+  
+P0  
+ 
+0 
+Fixed  
+0 
+Fixed  
+200h  
+1  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+0  
+274h  
+1  
+0  
+0  
+1  
+1  
+1  
+0  
+1  
+0  
+0  
+2ACh  
+1  
+0  
+1  
+0  
+1  
+0  
+1  
+1  
+0  
+0  
+2D8h  
+1  
+0  
+1  
+1  
+0  
+1  
+1  
+0  
+0  
+0  
+31Ch  
+1  
+1  
+0  
+0  
+0  
+1  
+1  
+1  
+0  
+0  
+368h  
+1  
+1  
+0  
+1  
+1  
+0  
+1  
+0  
+0  
+0  
+3B0h  
+1  
+1  
+1  
+0  
+1  
+1  
+0  
+0  
+0  
+0  
+3C4h  
+1  
+1  
+1  
+1  
+0  
+0  
+0  
+1  
+0  
+0  
+ 
+
+SMPTE ST 292-1:2018 
+Page 17 of 20 pages 
+Annex C   Source Signal Formats  (Informative) 
+ 
+ 
+C.1 SMPTE ST 274 — 
+ 
+ 
+ 
+ 
+System 
+No. 
+ 
+ 
+ 
+System 
+nomenclature 
+Luma 
+samples 
+per active 
+line (S/AL) 
+ 
+ 
+Active 
+lines per 
+frame 
+(AL/F) 
+ 
+ 
+ 
+Frame rate 
+(Hz) 
+ 
+Interface 
+sampling 
+frequency 
+fs (MHz) 
+Luma 
+sample 
+periods per 
+total line 
+(S/TL) 
+ 
+ 
+ 
+Total lines 
+per frame 
+1 
+1920 × 1080/60/P 
+1920 
+1080 
+60 
+148.5 
+2200 
+1125 
+2 
+1920 × 1080/59.94/P 
+1920 
+1080 
+60 
+1.001 
+148.5 
+1.001 
+2200 
+1125 
+3 
+1920 × 1080/50/P 
+1920 
+1080 
+50 
+148.5 
+2640 
+1125 
+4 
+1920 × 1080/60/I 
+1920 
+1080 
+30 
+74.25 
+2200 
+1125 
+5 
+1920 × 1080/59.94/I 
+1920 
+1080 
+30 
+1.001 
+74.25 
+1.001 
+2200 
+1125 
+6 
+1920 × 1080/50/I 
+1920 
+1080 
+25 
+74.25 
+2640 
+1125 
+7 
+1920 × 1080/30/P 
+1920 
+1080 
+30 
+74.25 
+2200 
+1125 
+8 
+1920 × 1080/29.97/P 
+1920 
+1080 
+30 
+1.001 
+74.25 
+1.001 
+2200 
+1125 
+9 
+1920 × 1080/25/P 
+1920 
+1080 
+25 
+74.25 
+2640 
+1125 
+10 
+1920 × 1080/24/P 
+1920 
+1080 
+24 
+74.25 
+2750 
+1125 
+11 
+1920 × 1080/23.98/P 
+1920 
+1080 
+24 
+1.001 
+74.25 
+1.001 
+2750 
+1125 
+ 
+A single link 1.5 Gb/s-SDI can transport 1920×1080/4:2:2/23.98P-30P (or PsF) or 50I-60I/10-bit as 
+defined by SMPTE ST 274. Refer to multi-link 1.5 Gb/s-SDI documents for higher data rate SDI transports. 
+ 
+ 
+C.2 SMPTE ST 296 — 
+ 
+ 
+ 
+ 
+System 
+No. 
+ 
+ 
+ 
+System 
+nomenclature 
+Luma 
+samples 
+per active 
+line (S/AL) 
+ 
+ 
+Active 
+lines per 
+frame 
+(AL/F) 
+ 
+ 
+ 
+Frame rate 
+(Hz) 
+Luma or 
+R’G’B’  
+sampling 
+frequency 
+fs (MHz) 
+Luma 
+sample 
+periods per 
+total line 
+(S/TL) 
+ 
+ 
+ 
+Total lines 
+per frame 
+1 
+   1280 × 720/60 
+1280 
+720 
+60 
+74.25 
+1650 
+750 
+2 
+   1280 × 720/59.94 
+1280 
+720 
+60/1.001 
+74.25/1.001 
+1650 
+750 
+3 
+   1280 × 720/50 
+1280 
+720 
+50 
+74.25 
+1980 
+750 
+4 
+   1280 × 720/30 
+1280 
+720 
+30 
+74.25 
+3300 
+750 
+5 
+   1280 × 720/29.97 
+1280 
+720 
+30/1.001 
+74.25/1.001 
+3300 
+750 
+6 
+   1280 × 720/25 
+1280 
+720 
+25 
+74.25 
+3960 
+750 
+7 
+   1280 × 720/24 
+1280 
+720 
+24 
+74.25 
+4125 
+750 
+8 
+   1280 × 720/23.98 
+1280 
+720 
+24/1.001 
+74.25/1.001 
+4125 
+750 
+ 
+A single link 1.5 Gb/s-SDI can transport 1280×720/4:2:2/23.98P-60P/10-bit as defined by SMPTE ST 296. 
+Refer to multi-link 1.5 Gb/s-SDI documents for higher data rate SDI transports.  
+ 
+ 
+
+SMPTE ST 292-1:2018 
+Page 18 of 20 pages 
+ 
+C.3 SMPTE ST 2048-2 — 
+ 
+ 
+ 
+ 
+System 
+No. 
+ 
+ 
+ 
+System 
+nomenclature 
+Luma 
+samples 
+per active 
+line (S/AL) 
+ 
+ 
+Active 
+lines per 
+frame 
+(AL/F) 
+ 
+ 
+ 
+Frame rate 
+(Hz) 
+ 
+Interface 
+sampling 
+frequency 
+fs (MHz) 
+Luma 
+sample 
+periods per 
+total line 
+(S/TL) 
+ 
+ 
+ 
+Total lines 
+per frame 
+1 
+2048 × 1080/60/P 
+2048 
+1080 
+60 
+148.5 
+2200 
+1125 
+2 
+2048 × 1080/59.94/P 
+2048 
+1080 
+60 
+1.001 
+148.5 
+1.001 
+2200 
+1125 
+3 
+2048 × 1080/50/P 
+2048 
+1080 
+50 
+148.5 
+2640 
+1125 
+4 
+2048 × 1080/48/P 
+2048 
+1080 
+48 
+148.5 
+2750 
+1125 
+5 
+2048 × 1080/47.95/P 
+2048 
+1080 
+48 
+1.001 
+148.5 
+1.001 
+2750 
+1125 
+6 
+2048 × 1080/30/P 
+2048 
+1080 
+30 
+74.25 
+2200 
+1125 
+7 
+2048 × 1080/29.97/P 
+2048 
+1080 
+30 
+1.001 
+74.25 
+1.001 
+2200 
+1125 
+8 
+2048 × 1080/25/P 
+2048 
+1080 
+25 
+74.25 
+2640 
+1125 
+9 
+2048 × 1080/24/P 
+2048 
+1080 
+24 
+74.25 
+2750 
+1125 
+10 
+2048 × 1080/23.98/P 
+2048 
+1080 
+24 
+1.001 
+74.25 
+1.001 
+2750 
+1125 
+ 
+A single link 1.5 Gb/s-SDI can transport 2048×1080/4:2:2/23.98P-30P or PsF/10-bit as defined by 
+SMPTE ST 2048-1. Refer to multi-link 1.5 Gb/s-SDI documents for higher data rate SDI transports. 
+ 
+ 
+C.4 Recommendation ITU-R BT.2100 — 
+ 
+ 
+ 
+ 
+System 
+nomenclature 
+Luma, or I 
+samples 
+per active 
+line (S/AL) 
+ 
+ 
+Active lines 
+per frame 
+(AL/F) 
+ 
+ 
+ 
+Frame rate 
+(Hz) 
+ 
+Interface 
+sampling 
+frequency 
+fs (MHz) 
+Luma 
+sample 
+periods per 
+total line 
+(S/TL) 
+ 
+ 
+ 
+Total lines 
+per frame 
+1920 × 1080/30/P 
+1920 
+1080 
+30 
+74.25 
+2200 
+1125 
+1920 × 1080/29.97/P 
+1920 
+1080 
+30 
+1.001 
+74.25 
+1.001 
+2200 
+1125 
+1920 × 1080/25/P 
+1920 
+1080 
+25 
+74.25 
+2640 
+1125 
+1920 × 1080/24/P 
+1920 
+1080 
+24 
+74.25 
+2750 
+1125 
+1920 × 1080/23.98/P 
+1920 
+1080 
+24 
+1.001 
+74.25 
+1.001 
+2750 
+1125 
+ 
+A single link 1.5 Gb/s-SDI can transport 1920×1080/4:2:2/23.98P-30P (or PsF) as defined by ITU-R 
+BT.2100. Refer to multi-link 1.5 Gb/s-SDI documents for higher data rate SDI transports. 
+ 
+
+SMPTE ST 292-1:2018 
+Page 19 of 20 pages 
+Annex D  Audio Data Mapping  (Informative) 
+When transporting the image formats corresponding to system numbers 1, 2, 6 and 7 defined in SMPTE 
+ST 2048-2 through single-link or multiple-link SMPTE ST 292-1 (HD-SDI) interface, the maximum number 
+of 32 kHz to 48 kHz sampling audio channels transported per single-link SMPTE ST 292-1 is reduced 
+from 16 channels to 8 channels (4 channels in the case of 96 kHz sampling). 
+ 
+ 
+
+SMPTE ST 292-1:2018 
+Page 20 of 20 pages 
+ 
+ 
+Bibliography  (Informative) 
+ 
+SMPTE RP 198:1998, Bit-Serial Digital Checkfield for Use in High-Definition Interfaces 
+ 
+SMPTE RP 291-2:2013, Ancillary Data Space Use — 4:2:2 SDTV and HDTV Component Systems and 
+4:2:2 2048 ×1080 Production Image Formats 
+ 
+SMPTE ST 259:2008, Television — SDTV Digital Signal/Data — Serial Digital Interface 
+ 
+SMPTE ST 291:2011, Ancillary Data Packet and Space Formatting 
+ 
+SMPTE ST 2048-1:2011, 2048 x 1080 and 4096 x 2160 Digital Cinematography Production Image 
+Formats FS/709 
+ 
+SMPTE ST 2048-1-Am1-2016, 2048×1080 and 4096×2160 Digital Cinematography Production Image 
+Formats FS/709 – Amendment 1 
+ 
+SMPTE ST 2084:2014, High Dynamic Range Electro-Optical Transfer Function of Mastering Reference 
+Displays 
+ 

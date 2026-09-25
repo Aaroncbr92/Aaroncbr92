@@ -1,0 +1,21 @@
+Fuente: https://helpx.adobe.com/premiere/desktop/add-text-images/use-motion-graphics-templates/about-motion-graphics-templates.html
+Leído: 25-09-2026 (descarga directa de helpx.adobe.com; texto de la página sin navegación)
+
+Work with Photoshop and Premiere
+Overview of Motion Graphics templates
+Last updated on
+Jan 7, 2026
+Learn more about Motion Graphics templates that can help you elevate your video projects with dynamic and professional designs.
+A Motion Graphics template is a file type (.mogrt) that can be created in Adobe Premiere or Adobe After Effects. Packaged as templates with easy-to-use controls designed to be customized in Premiere, these templates give you the power of After Effects motion graphics.
+Use Motion Graphics templates to create various animated elements, such as titles, lower thirds, and buttons. Use the
+Graphics Templates
+panel to browse
+Motion Graphics
+and
+Adobe Stock
+assets.
+You can also bring Motion Graphics templates into Premiere from the following locations:
+Local Templates Folder
+Creative Cloud Libraries
+Adobe Stock
+Create and export your motion graphics as templates, install them, and add them to your projects whenever required.

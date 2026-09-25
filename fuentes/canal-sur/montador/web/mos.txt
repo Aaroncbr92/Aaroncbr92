@@ -1,0 +1,23 @@
+ 
+ MOS Project 
+ MOS Project 
+ Search 
+ Primary Menu 
+ Skip to content 
+ Welcome 
+ MOS Documentation 
+ Prior Versions 
+ Additional Documents 
+ MOS Meetings 
+ Prior MOS Meetings 
+ MOS Protocol on Slack 
+ FAQ 
+ Promote MOS 
+ Search for: 
+ Welcome
+ Media Object Server Communications P rotocol (MOS): An evolving protocol for communications between Newsroom Computer Systems (NCS) and Media Object Servers (MOS) such as Video Servers,  Audio Servers, Still Stores, and Character Generators. This protocol is supported and developed through cooperative collaboration among equipment vendors, software vendors and end users. Our goal is to develop and maintain a common communications protocol which allows integration of diverse NCS and MOS equipment.
+ This site is used by collaborators, both vendor developers and customers, to continue the authorship and implementation of this emerging industry standard protocol.
+ Technical documents can be found here which define the protocol and outline its use.  Also included are non-technical documents which describe the various ways MOS can be implemented and the benefits it will provide to end users.
+ Please visit the MOS Protocol Slack workspace to collaborate on a variety of MOS related topics.  
+ Proudly powered by WordPress 
+

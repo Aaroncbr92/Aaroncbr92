@@ -1,0 +1,550 @@
+
+[[p371]]
+Chapter 17
+Adding and 
+Organizing Media 
+with the Media Pool
+Before you can edit or grade media, you need to add it to the Media Pool, which is 
+the central repository of clips in DaVinci Resolve. The Media Pool is a feature-rich 
+environment, giving you many different methods of importing clips into your project 
+and organizing them.
+Contents
+Copying Media Using the Clone Tool........................................................................................................................................  373
+Adding Media to the Media Pool.................................................................................................................................................. 375
+Basic Methods for Adding Media in the Media Page.......................................................................................................... 375
+Adding Subclips From the Media Storage Panel..................................................................................................................  377
+Adding Individual Frames From Image Sequences.............................................................................................................  377
+Adding OGraf HTML Graphics and Lottie Animations........................................................................................................  377
+Adding Media Based on EDLs........................................................................................................................................................  378
+Splitting Clips Based on EDLs........................................................................................................................................................  378
+Import Clips With Metadata Via Final Cut Pro 7 XML.......................................................................................................... 379
+Adding Media With Offset Timecode.......................................................................................................................................... 379
+Import Blackmagic Cloud Shared Folders to Media Pool............................................................................................... 380
+Sync Media Pool Bins with File System Folders................................................................................................................... 381
+Adding Media to the Cut, Edit, Fusion, and Fairlight Pages.......................................................................................... 384
+Removing Media From the Media Pool..................................................................................................................................... 384
+Removing Unused Media from a Project................................................................................................................................. 385
+Adding and Removing External Mattes.................................................................................................................................... 385
+What Are Mattes For?......................................................................................................................................................................... 386
+Adding Mattes........................................................................................................................................................................................ 387
+Using Embedded Mattes in OpenEXR Files............................................................................................................................ 387
+Adding Offline Reference Movies............................................................................................................................................... 388
+371
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p372]]
+Extracting Audio in Media Storage............................................................................................................................................. 388
+Manually Organizing the Media Pool......................................................................................................................................... 389
+To Select Clips in the Media Pool................................................................................................................................................. 389
+Organizing Media into Bins.............................................................................................................................................................. 389
+Import and Export DaVinci Resolve Project Bins (.drb)..................................................................................................... 390
+Import and Export DaVinci Resolve Timelines (.drt)............................................................................................................ 391
+Sharing Media Among Projects Using Power Bins............................................................................................................. 392
+Automated Organization Using Smart Bins........................................................................................................................... 393
+Smart Bins Are Only As Good As Your Metadata................................................................................................................. 393
+Smart Bins Update Their Contents Dynamically................................................................................................................... 394
+Automatic Smart Bin Creation........................................................................................................................................................ 394
+Manual Smart Bin Creation.............................................................................................................................................................. 395
+Organizing Smart Bins........................................................................................................................................................................ 398
+Duplicating Clips in the Media Pool........................................................................................................................................... 398
+Duplicating Timelines......................................................................................................................................................................... 399
+Choosing How to Display Bins...................................................................................................................................................... 399
+Showing Bins in Separate Windows............................................................................................................................................ 399
+Using the Media Pool in Thumbnail View................................................................................................................................. 400
+Custom Sort of Clip Thumbnails in the Media Pool............................................................................................................. 400
+Export Media Bin Thumbnails as a PDF...................................................................................................................................... 401
+Working With Columns in List View............................................................................................................................................. 402
+Editable Name, Description, Keyword, and Comments Columns................................................................................. 403
+Using Metadata View in the Media Pool................................................................................................................................... 403
+Media Pool Tabs.................................................................................................................................................................................... 405
+Thumbnail, List and Metadata Views Can Be Set Per Bin................................................................................................. 406
+Finding Clips, Timelines, and Media.......................................................................................................................................... 407
+Finding Clips and/or Timelines Within the Media Pool....................................................................................................... 407
+Finding Synced Audio......................................................................................................................................................................... 408
+Finding Timeline Clips in the Media Pool.................................................................................................................................. 408
+Finding Timelines in the Media Pool........................................................................................................................................... 408
+Finding Media in the Media Storage Panel and Finder ..................................................................................................... 408
+Reveal Media Pool Bin from Multi-Bin or Search Displays............................................................................................... 408
+Going Immediately to a File System Location in the Media Browser.......................................................................... 408
+IntelliSearch (Studio Version Only)............................................................................................................................................... 409
+Setting up IntelliSearch...................................................................................................................................................................... 409
+Using IntelliSearch..................................................................................................................................................................................  411
+Tracking Media Usage........................................................................................................................................................................  413
+Thumbnail Clip Usage Indicators...................................................................................................................................................  413
+List View Clip Usage Column...........................................................................................................................................................  414
+Relinking Media Simply...................................................................................................................................................................... 415
+Relink Media............................................................................................................................................................................................. 415
+Relink Selected Clips........................................................................................................................................................................... 416
+Change Source Folder........................................................................................................................................................................ 416
+372
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p373]]
+Copying Media Using the Clone Tool
+One of the few things you may want to do before you add media to your project is to clone all camera 
+original media onto a safe set of backup volumes, for redundancy in case any one volume fails. 
+Additionally, you should consider cloning all media to an off-site backup as well.
+Whether you’re on-set working as a DIT, or doing data ingest at a post facility, the Clone Tool in 
+the Media page lets you safely and accurately copy media from SD cards, SSDs, or disk drives, to 
+multiple destinations, with a checksum report (based on a choice of six checksum options) written to 
+the root of each destination volume that verifies the absolute accuracy of the duplicate media saved to 
+each destination.
+To duplicate media using the Clone Tool:
+1	
+Open the Clone Tool by clicking the Clone button at the far left of the Media Pool toolbar, which 
+reveals the Clone Tool palette. 
+2	
+Click the Add Job button at the bottom left to create a new job. A job item appears within the 
+Clone Tool palette, with overlays to guide you through its use.
+3	
+Drag a volume or folder from the Media Storage panel to the “Drop source here” drop zone. 
+Alternately, you can right-click any volume or folder in the Media Storage panel and choose 
+Set As Clone Source.
+4	
+Next, drag one or more volumes or folders from the Media Storage panel to the “Drop destination 
+here” drop zone. Alternately, you can right-click any volume or folder in the Media Storage panel 
+and choose Set As Clone Destination. You can have more than one destination. 
+5	
+If you want to preserve the top level folder name from the source volume or folder, click the 
+Clone Tool panel’s option menu, and choose “Preserve Folder Name.” The overall folder structure 
+of the cloned media is always preserved.
+6	
+If you want to change the checksum method used by DaVinci Resolve to verify that each clip 
+has copied properly, you can choose an option from the Checksum submenu of the Clone Tool’s 
+option menu. Each option is a tradeoff between the speed of your file copy operation and the 
+security of the verification process. Greater security generally means a slower copy operation. 
+The options are:
+None: Disables data verification, sacrificing safety for speed.
+File Size: Fast, but minimal data verification. Data verification is done simply by comparing the 
+file size of a duplicate file with that of the original. “Collision resistance” refers to whether two 
+files (or a file and an incorrectly duplicated file) may coincidentally have the same comparison 
+value (be it file size, an error-detecting code, or a hash). File Size is very fast, but it’s minimally 
+collision resistant.
+CRC 32: Faster than MD5, but less secure. An error-detecting code rather than the hash used 
+by the next three options. A “check value” is generated based on the remainder of a polynomial 
+division of the file’s contents. By comparing the check value derived from an original file with that 
+derived from a copy, data integrity can be verified. This is a much faster data verification scheme 
+than MD5 (the default), but it is significantly less collision resistant.
+MD5: This is the default setting. A reasonable tradeoff between speed and security. A hash 
+function generates a 128-bit value that’s unique to a particular file; Data integrity is checked by 
+comparing the hash value generated by the original file to that generated by the copied file. 
+MD5 is not as collision resistant as the SHA options, but it’s a faster operation, and the probability 
+of such collisions in conventional film and video workflows is probably small.
+373
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p374]]
+SHA 256, SHA 512: Slower, but more secure. SHA is a more collision resistant hash function 
+than MD5; options are provided for 256- and 512-bit value generation, with 512 being even more 
+collision resistant than 256. However, these options are progressively slower than MD5, and will 
+result in significantly slower copy times. Similarly to MD5, data integrity is checked by comparing 
+the hash value generated by the original file to that generated by the copied file.
+XXHASH64: This is by far the fastest checksum method and also provides good collision 
+protection. This speed is very welcome when verifying terabytes of data.
+7	
+When you’re ready, click the Clone button to initiate the cloning process.
+The Clone tool with a job set up
+To duplicate media quickly using the Clone Tool:
+1	
+Right-click any volume or folder in the Media Storage panel, and choose Set as Clone Source. 
+A job item appears within the Clone Tool palette, populated by the volume or folder you selected.
+2	
+Next, right-click any volume or folder in the Media Storage panel, and choose Set As Clone 
+Destination. You can do this more than once because you can have more than one destination. 
+3	
+If you want to preserve the top level folder name from the source volume or folder, click the Clone 
+Tool panel’s option menu, and choose “Preserve Folder Name.” The overall folder structure of the 
+cloned media is always preserved.
+4	
+When you’re ready, click the Clone button to initiate the cloning process.
+374
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p375]]
+Adding Media to the Media Pool
+At minimum, you’ll be using the Media page to add clips to a project to begin editing, in preparation 
+to create dailies, or as a prelude to conforming a project using an EDL. All clips you want to work with 
+must first be added to the Media Pool to be available for grading and processing in DaVinci Resolve, 
+regardless of whether or not there’s edited project data to go along with it.
+If you import XML or AAF projects, you can choose to automatically import all accompanying media 
+as part of the import process you initiate in the Edit page. However, if you find yourself needing to 
+replace updated effects or stock footage in the Timeline, or you’re called upon to add additional media 
+such as animated titles or superimposed clips for compositing, then you’ll still need to use the Media 
+page to do so. 
+Whatever kind of project you’re working on, you can add clips to the Media Pool from as many different 
+volumes as you need. All imported clips are linked to the original media on whichever disks you found 
+them; files are not moved, copied, or otherwise transcoded when you add them to the Media Pool. 
+Consequently, it’s a good idea to make sure that all media you want to import into your project has 
+already been copied to a suitably fast volume before importing it.
+Basic Methods for Adding Media in the Media Page
+There are several ways of adding clips to the Media Pool.
+To add individual clips from the Media Storage panel to the Media Pool:
+1	
+Use the Media Storage panel to find a media file to import. 
+2	
+If you have multiple bins available in the Bin list, choose the bin you want to add the 
+incoming media to.
+3	
+Do one of the following:
+Shift-click or Command-click multiple files, then right-click one of the selected files and 
+choose “Add into Media Pool.”
+Drag a clip from the Media Storage panel browser to the Media Pool or to a specific 
+bin in the Bin list.
+4	
+If a dialog appears asking if you want to change your project to match the criteria, click 
+“Change” to alter the project’s settings, or click “Don’t Change” to continue importing the media 
+while leaving the project at its previous frame rate. Once clips have been imported into the 
+Media Pool, the frame rate cannot be changed again, so choose carefully.
+You also have the option of dragging media directly from the file system of supported platforms 
+into the Media Pool.
+To drag one or more clips from the File System to the Media Pool (supported platforms only):
+1	
+Select one or more clips in your File System.
+2	
+Drag those clips into the Media Pool of DaVinci Resolve or to a specific bin in the Bin list.
+Those clips are added to the Media Pool of your project.
+If you need to add the contents of all directories and subdirectories to the Media Pool as a flat 
+group of media, that’s easily accomplished. A good example of this is when you’re importing 
+camera original media from a cloned file structure, in which clips are organized into subdirectories 
+that are many levels deep. DaVinci Resolve can easily import all of these clips and put them all into 
+the same bin.
+375
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p376]]
+To add the entire contents of one or more directories of clips to the Media Pool:
+1	
+Use the Media Storage panel to find and select one or more directories containing media files you 
+need to import.
+2	
+If you have multiple bins available in the Bin list, select the specific bin you want to add the 
+incoming media to.
+3	
+Do one of the following:
+	 Right-click the selected directory or directories in the Media Storage panel, and choose “Add 
+Folder into Media Pool” to add only clips from the selected directory. Subdirectories are ignored.
+	 Right-click the directory in the Media Storage panel, and choose “Add Folder and 
+SubFolders into Media Pool” to add clips from the selected directory and those from all 
+subdirectories within.
+	 Drag one or more selected directories you want from the Media Storage panel’s browser area 
+to the browser area of the Media Pool to add its contents, and the contents of all subdirectories 
+within, to the currently selected bin in the Bin list.
+You also have the option of using the directories and subdirectories that organize media in 
+your file system as bins in the Media Pool, so that you can preserve the original organization 
+of your media.
+To add all clips and folders in a directory organized into matching folders in the Media Pool:
+1	
+Use the Media Storage panel to find the directory containing the files you need to import.
+2	
+Do one of the following:
+	 Right-click the directory and choose “Add Folder and SubFolders into Media Pool (Create Bins)”
+	 Drag the folder you want to import from the Media Storage panel to the Bin list of the Media Pool 
+to add that folder, and all subfolders within, as a new bin in the Bin list.
+A folder appears in the Media Pool with the same name as the folder you dragged in. All clips 
+and all subdirectories appear within, nested hierarchically in the Media Pool as they were in the 
+file system.
+Import Hierarchically Organized Nests of Empty Directories
+You can also import a nested series of directories and subdirectories that constitutes a default 
+bin structure you’d like to bring into projects, even if those directories are empty, by dragging 
+them from your file system into the Media Pool Bin list of a project. The result is a hierarchically 
+nested series of bins that mimics the structure of the directories you imported. This is useful if 
+you want to use such a series of directories as a preset bin structure for new projects.
+376
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p377]]
+Adding Subclips From the Media Storage Panel
+If you’re browsing long source clips in the Media Storage panel, but you only want to import a small 
+segment of a much longer clip into the Media Pool, you can create subclips directly from the Media 
+Storage panel.
+To add a subclip from a clip in the Media Storage panel to the Media Pool:
+1	
+Single-click any clip in the Media Storage panel to open it into the Viewer in order to create a 
+subclip without needing to first import that clip into the Media Pool.
+2	
+Set In and Out points in the Source Viewer to define the section you want to turn into a subclip.
+3	
+Do one of the following:
+	 Right-click the jog bar and choose Make Subclip from the contextual menu
+	 Drag the clip from the Viewer to the Media Pool to add it as a subclip
+Adding Individual Frames From Image Sequences
+If you’re working with image sequences, or with sequentially numbered image files from any source, 
+DaVinci Resolve automatically presents them as clips in the Media Storage panel. This is good if that’s 
+what they are, but there are instances where sets of photos, of which each frame is in actuality a 
+separate media file, are also sequentially numbered. For this reason, you can import individual frames, 
+rather than entire image sequences.
+To choose between adding individual frames from a number sequence of images, 
+or adding them as image sequence clips in the Media Storage panel:
+1	
+Click the Media Storage panel option menu, and choose Frame Display Mode. 
+2	
+Close one of the drop-down options:
+Auto: DaVinci Resolve will automatically select Individual Frames or Image Sequence based on file 
+type. For example, DPX and EXR files will be imported as image sequence clips, while JPG files 
+will be imported as individual frames.
+Individual: Each image sequence is now separated into its individual frames, allowing you to 
+select only the frames you need.
+Sequence: Will group sequentially numbered files together as an image sequence clip, regardless 
+of file type.
+3	
+Use any of the previous described methods to add the frames you want to the Media Pool as 
+individual clips or image sequences.
+Adding OGraf HTML Graphics and Lottie Animations
+DaVinci Resolve supports OGraf (.json) and Lottie (.lottie) HTML-based animation on macOS and 
+Windows. Whether it’s something you found online or created from scratch, animations can now be 
+added directly to your timeline. Simply export your .json or .lottie file, then drag and drop it into your 
+Media Pool just like any other media. 
+You can also drop it straight into the timeline, where it will be recognized as a fully rendered animation 
+clip. The alpha background is recognized too, so transparency is maintained. You can add the clip over 
+another layer and it will composite correctly, which makes it perfect for use as a stinger or transition.
+377
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p378]]
+Adding Media Based on EDLs
+Another strategy for adding media to the Media Pool is to use an EDL to add only the clips it refers 
+to from a directory. This lets you add only the clips that are necessary for conforming a particular 
+imported project before conforming an EDL, and eliminates the need to add too much media to 
+the Media Pool, which might slow you down in the case of projects referencing terabytes of media. 
+Furthermore, you can choose multiple EDLs to base the import on, and many directories to examine.
+The EDLs will reference clips via their timecode and sometimes reel name and path. It is these settings 
+and the conform frame rate that you made previously in the Configuration screen that are now used to 
+place images correctly into the Media Pool.
+To add only media used in an EDL to the Media Pool:
+1	
+If necessary, open the General Options panel of the Project Settings, turn on the “Assist using  
+reel names from the” checkbox, and choose a method with which to extract reel name 
+information from the media files you’re about to import. 
+For more information, jump to this chapter: Using Clip Metadata.
+2	
+Right-click a directory in the Media Storage panel, and choose one of the following commands:
+	 Add Folder Based on EDLs into Media Pool
+	 Add Folder and SubFolders Based on EDLs into Media Pool
+3	
+Using the file dialog that appears, select one or more EDLs to use.
+TIP: DaVinci Resolve searches the directory hierarchy, either one level deep or all levels 
+deep, for every media file matching the source timecode and the reel ID of an event in one of 
+the selected EDLs.
+Splitting Clips Based on EDLs
+You can also use EDLs to split a media file into multiple clips in the Media Pool, either as an alternate 
+means of “preconforming” a flattened master media file, or to import multiple sections of a longer 
+media file that happen to be referenced by an EDL.
+To split and add clips based on an EDL:
+1	
+Right-click a directory in the Media Storage panel, and choose “Split and add into Media Pool.”
+2	
+Using the file dialog that appears, select an EDL to use, and click Open.
+3	
+Choose a frame rate to use to conform the clips to in the “File Conform Frame Rate” dialog, 
+and click OK.
+4	
+Choose a handle size, in frames, and whether or not you want to split unreferred clips from 
+the “Enter handle size for splitting” dialog, and click Split & Add. The media file is split into the 
+component clips specified in the EDL, and added to the Media Pool.
+TIP: Turning on the Split Unreferred Clips checkbox automatically splits out sections of the 
+file that were not referred to by the EDL you selected, and adds them to the Media Pool 
+separately, giving you access to every piece of media that’s available.
+378
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p379]]
+Import Clips With Metadata Via Final Cut Pro 7 XML
+In order to support workflows with media asset management (MAM) systems, DaVinci Resolve 
+supports two additional Media Pool import workflows that use Final Cut Pro 7 XML to import clips 
+with metadata.
+To import clips with metadata using Final Cut Pro 7 XML files, do one of the following:
+	 Right-click anywhere in the background of the Media Pool, choose Import > Media from File, and 
+then choose the XML file you want to use to guide import from the import dialog.
+	 Drag and drop any Final Cut Pro 7 XML file into the Media Pool from the macOS Finder.
+Every single clip referenced by that XML file that can be found via its file path will be imported 
+into the Media Pool, along with any metadata entered for those clips. If the file path is invalid, 
+you’ll be asked to navigate to the directory with the corresponding media. Additionally, the 
+following metadata is imported:
+•	 Clips
+•	 Browser metadata
+•	 Subclips
+•	 Clip Markers, with colors and duration
+•	 Bin Hierarchy
+•	 Comments
+Adding Media With Offset Timecode
+Sometimes source media was created with incorrectly offset timecode, due to mistakes made earlier 
+in the postproduction process. If this offset is consistent, you can use the “Add Folder with Source 
+Offset” command to add media to the Media Pool as clips with a timecode offset.
+To add a folder of clips to the Media Pool with offset timecode:
+1	
+Right-click a directory in the Media Storage panel, and choose one of the following commands:
+	 Add Folder with Source Offset
+	 Add Folder and SubFolders with Source Offset
+2	
+Choose a number of frames with which to offset the timecode from the “Change Frame Offset” 
+dialog, and click Apply.
+The media is imported as clips with offset timecode in the Media Pool. However, the original 
+source timecode of the clips on disk has not been altered. All media rendered out of the 
+Deliver page will reflect the offset timecode.
+379
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p380]]
+Import Blackmagic Cloud 
+Shared Folders to Media Pool
+You can now import and sync Blackmagic Cloud Folders into the Media Pool. This allows you to 
+connect to one or more cloud media folders and selectively download media from them to your 
+local machine. Blackmagic Cloud Folders are online common storage folders that are not tied to a 
+specific project. This lets you create a pool of commonly used media assets, such as title sequences, 
+credits, bumpers, etc., and share them online without having to import them separately into each 
+individual project.
+The Import Cloud Folder icon at the top of the Media Pool
+To link a Blackmagic Cloud Folder to your project:
+1	
+Sign into your Blackmagic Cloud account in DaVinci Resolve.
+2	
+Click on the Import Blackmagic Cloud Folder icon at the top of the Media Pool in any page.
+3	
+In the Blackmagic Cloud Folder dialog, click select to choose a Blackmagic Cloud Folder. The 
+choices here will show any Blackmagic Cloud Folder that you have created or someone else has 
+shared with you. Click the Add button.
+4	
+In the Download Folder Location, select a file location on your local system that you want the 
+media from the Blackmagic Cloud Folder to be stored in.
+5	
+Choose whether you want to sync proxies only, or proxies and used originals.
+6	
+Press Download to add the Cloud Folder to your Media Pool.
+The Blackmagic Cloud Folder link dialog
+When you open the Blackmagic Cloud Folder in the Media Pool, it will be empty and populate 
+one clip at a time as their clip names (not their media) are downloaded from the cloud. Also, the 
+Blackmagic Cloud Folder is not actually linked to your project yet; it is only linked when the first 
+media clip is “used.”
+380
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p381]]
+A “used” clip is new terminology in DaVinci Resolve and simply means a clip that has been 
+altered in any way inside the project. A clip can be used be by putting it on a timeline, 
+certainly, but also includes other actions like applying a flag, altering its metadata, transcribing 
+it, etc. Once a clip is used, its media will start to download to your local machine. Clips that are 
+used are denoted by a red dot next to them in the Media Pool. Any unused clips will remain as 
+virtual clips in the Cloud Folder until used. Once downloaded, clips in Cloud Folders can be 
+used just like any other clip in the Media Pool.
+The Cloud Folder linked in List view. Clips with red dots are “used,” 
+and the original media has been downloaded. Unused clips have just 
+their proxies available to view. The Cloud Sync column shows that the 
+media is registered and synced with the Blackmagic Cloud.
+Sync Media Pool Bins 
+with File System Folders
+You can sync a Media Pool bin with a folder on your computer’s file system (MacOS, Windows, Linux, 
+etc.). This allows you to add additional media into a folder on your computer and have it automatically 
+import to its respective bin in DaVinci Resolve.
+To set up a folder with Automatic Syncing:
+1	
+On the Cut page, use the Import Folder icon on the top menu bar to set up matching folder and 
+sub folder names.
+Use the Import Media Folder  
+icon in the Cut page
+381
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p382]]
+2	
+Right-click on the imported folder and choose ”Automatically Resync Media Files.“ 
+Right-click on the bin and select Automatically Resync Media Files
+Newly added clips in this folder will be added automatically to the media bin. This can be useful 
+when working with cloud-synced media files (as when using DaVinci Resolve’s Replay capabilities), 
+or any files that may be added to the folder later.
+To manually resync the contents of a Media Pool bin once, right-click a bin and choose 
+”Resync Media Files.”
+Right-click on the bin and select Resync Media Files  
+to perform the sync operation manually.
+For both Resync actions, ensure that: 
+	 At least one clip is present in the media bin.
+	 All existing clips in the media bin share the same file path.
+The media bin name matches the parent folder of the clip paths. You can ensure this is set up 
+correctly by using “Import Media Folder” in the Cut page, or “Add Folder and SubFolders into 
+Media Pool (Create Bins)” in the Media page.
+Sync actions will add new clips from sub-folders if the corresponding sub-bins exist. However, 
+newly created sub-folders without corresponding media bins are not tracked, and new media 
+bins without the corresponding sub-folders are skipped.
+382
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p383]]
+For example, say you were editing a sporting event, and you had a graphics operator creating 
+animated lower-thirds for each of the players. By creating a common network folder called 
+“CG” and automatically syncing it in DaVinci Resolve, each time a new lower-third was finished 
+and saved, it would automatically appear in your bin in the Media Pool ready for use. 
+Here’s how you would set this up:
+•	 Create a folder on your network storage called “CG.” Both the editor and the graphics 
+operator need to have access to this folder.
+•	 Note that because this folder is currently empty, it can not be used in a Resync action yet. 
+Only after there is at least one media file in the folder can you perform a Resync.
+•	 The graphics operator finishes his first animated lower third and saves it to the “CG” 
+folder as a .mov file (though any DaVinci Resolve readable media format would work).
+•	 The editor then imports the “CG” folder into the Media Pool in DaVinci Resolve and selects 
+Automatically Resync Media Files from the context menu.
+•	 As the graphics operator finishes and saves additional lower thirds into that folder, they 
+automatically appear in the Editor’s “CG” bin in the Media Pool, without having to specifically 
+import them.
+•	 For organizational purposes, the graphics operator then creates a new folder in “CG” for 
+the other team, called “Team B.” Unfortunately, because this folder structure was not in 
+the original imported bin, it does not show up in the editor’s media pool. However, if they 
+had created this Team B folder before the editor imported it, and it had media in it, it would 
+been there.
+•	 Now in this case, the editor simply imports the same bin again, selects Automatically Resync 
+Media Files, and the new folder and all its media appear as expected. Any further files in 
+dropped in “Team B” will show up in the editor’s media pool.
+IMPORTANT: Media entries for clips that are removed or not found on the file system are 
+set as offline media. This allows for retention of metadata and is useful when the clip path is 
+temporarily offline, on cloud storage where file status may be in flux, or moved away by apps 
+or workflows seeking to write a new version in its place.
+383
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA
+
+[[p384]]
+Adding Media to the Cut, Edit, 
+Fusion, and Fairlight Pages
+While adding clips to the Media Pool in the Media page provides the most organizational flexibility and 
+features, if you find yourself in the Cut, Edit, Fusion, or Fairlight page and you need to quickly import a 
+few clips for immediate use, you can do so in a couple of different ways.
+To add media by dragging one or more clips from the Finder to the Media Pool (macOS only):
+1	
+Select one or more clips in the Finder.
+2	
+Drag those clips into the Media Pool of DaVinci Resolve, or to a bin in the Bin list.
+Those clips are added to the Media Pool of your project.
+To use the Import Media command in the Media Pool:
+1	
+Right-click anywhere in the Media Pool, and choose Import Media.
+2	
+Use the Import dialog to select one or more clips to import, and click Open.
+Those clips are added to the Media Pool of your project.
+Removing Media From the Media Pool
+If you’ve added clips to the Media Pool that you need to eliminate, this is easy to do, either singly, or in 
+the aggregate.
+To remove clips from the Media Pool, do one of the following:
+	 Select one or more clips in the Media Pool, then press the Delete or Backspace key.
+	 Select one or more clips in the Media Pool, right-click one of the selected clips, and then choose 
+Remove Selected Clips.
+	 Right-click anywhere in the Media Pool, and choose Remove All Clips in Bin.
+NOTE: If you’ve turned on “Automatically match master timeline with media pool” in the 
+General Options panel of the Project Settings, you cannot remove all clips from the Media 
+Pool if there are other timelines using that media.
+To remove clips from the Master Timeline (if it’s exposed):
+	 Open the Edit page, then select one or more clips in the Media Pool, right-click one of the 
+selected clips, and choose “Remove Selected Clips from Master Timeline.” 
+For more information on using the Master Timeline, jump to this chapter: Using the Edit Page.
+384
+Ingest and Organize Media | Chapter 17 Adding and Organizing Media with the Media Pool
+MEDIA

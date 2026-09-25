@@ -1,0 +1,1121 @@
+Copyright © 2023 by THE SOCIETY OF MOTION PICTURE AND TELEVISION ENGINEERS 
+445 Hamilton Ave., White Plains NY 10601, (914) 761-1100 
+Approved November 15, 2023 
+SMPTE ST 2082-1:2023 
+Revision of SMPTE ST 2082-1:2015 
+SMPTE STANDARD 
+12 Gb/s Signal/Data  
+Serial Interface — Electrical 
+ 
+Page 1 of 15 pages 
+Table of Contents 
+Page 
+Foreword ................................................................................................................................................ 2 
+Intellectual Property .............................................................................................................................. 2 
+Introduction ........................................................................................................................................... 2 
+1 
+Scope ....................................................................................................................................... 3 
+2 
+Conformance Notation ............................................................................................................ 3 
+3 
+Normative References ............................................................................................................. 4 
+4 
+Terms and Definitions ............................................................................................................. 4 
+5 
+Source Data ............................................................................................................................. 4 
+5.1 
+Source Data Interface................................................................................................................ 4 
+5.2 
+Sync-bit Insertion ...................................................................................................................... 6 
+5.3 
+Channel Coding and Serialization .............................................................................................. 8 
+6 
+Coaxial Cable Interface ........................................................................................................... 8 
+6.1 
+Generator Signal Levels and Specifications ............................................................................... 8 
+6.2 
+Receiver Signal Levels and Specifications ................................................................................. 9 
+6.3 
+Return Loss............................................................................................................................. 10 
+7 
+Connector and Cable Types ................................................................................................. 11 
+7.1 
+BNC Connectors ..................................................................................................................... 11 
+7.2 
+Cables .................................................................................................................................... 11 
+Annex A (Informative)  Channel Coding ............................................................................................. 12 
+Annex B (Informative)  Pothole Pathological and the Sync-bit Insertion Process ........................... 13 
+Bibliography (Informative) .................................................................................................................. 15 
+ 
+ 
+ 
+
+SMPTE ST 2082-1: 2023 
+Page 2 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+Foreword 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized standards 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices, and Engineering Guidelines, are prepared by SMPTE’s Technology Committees. 
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+SMPTE Engineering Documents are drafted in accordance with the rules given in its Standards Operation 
+Manual. 
+SMPTE ST 2082-1 was prepared by Technology Committee 32NF. 
+Intellectual Property 
+At the time of publication, no notice had been received by SMPTE claiming patent rights essential to the 
+implementation of this Standard. However, attention is drawn to the possibility that some of the elements 
+of this document may be the subject of patent rights. SMPTE shall not be held responsible for identifying 
+any or all such patent rights. 
+Introduction 
+This clause is entirely informative and does not form an integral part of this Engineering Document. 
+SMPTE ST 2082-1 defines a bit-serial data interface for the transport of 12 Gb/s [nominal] component digital 
+signals or packetized data. The mapping of various source image formats to the bit-serial data structure 
+defined here in this document is described in additional SMPTE ST 2082 document parts. 
+SMPTE OV 2082-0 contains an informative roadmap for the 12 Gb/s Signal/Data Serial Interfaces. 
+End users are cautioned that they should work with Serial Digital Interface equipment vendors to ensure 
+the electrical and mechanical capabilities of cables and connectors—whether existing or new—designed in 
+support of this interface meet their requirements. 
+ 
+ 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 3 of 15 pages 
+1 
+Scope 
+This standard describes the electrical and physical characteristics of a 12G-SDI coaxial cable interface 
+suitable for applications where the signal loss does not exceed an amount specified by the receiver 
+manufacturer. Typical loss amounts would be in the range of up to 40 dB at one-half the clock frequency. 
+2 
+Conformance Notation 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords. 
+All text in this document is, by default, normative, except: the Introduction, any clause explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:” 
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended 
+as particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred 
+but not necessarily required; or that (in the negative form) a certain possibility or course of action is 
+deprecated but not prohibited. 
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document. 
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the 
+provision will never be defined in the future. 
+ A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+Unless otherwise specified, the order of precedence of the types of normative information in this document 
+shall be as follows: Normative prose shall be the authoritative definition; tables shall be next; followed by 
+formal languages; then figures; and then any other language forms. 
+
+SMPTE ST 2082-1: 2023 
+Page 4 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+3 
+Normative References 
+The following standards contain provisions that, through reference in this text, constitute provisions of this 
+standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this standard are encouraged to investigate the possibility of applying 
+the most recent edition of the standards indicated below. 
+SMPTE ST 2082-10:2018, 2160-line and 1080-line Source Image and Ancillary Data Mapping for 12G-SDI 
+SMPTE RP 184:2015, Specification of Jitter in Bit Serial Digital Systems 
+IEC 61169-8 (2007-2), Radio-Frequency Connectors — Part 8: Sectional Specification — R.F. Coaxial 
+Connectors with Inner Diameter of Outer Conductor 6,5 mm (0,256 in) with Bayonet Lock — Characteristic 
+Impedance 50Ω (Type BNC), Annex A (Normative) Information for Interface Dimensions of 75 Ω 
+Characteristic Impedance Connector with Unspecified Reflection Factor1, 2 
+IEC 61169-29 (2005-6), Radio-Frequency Connectors — Part 29: Sectional Specification — Miniature 
+Radio Frequency Coaxial Connectors Model Screw, Snap-on, Push-pull or Quick-lock, Slide-in (Rack and 
+Panel Applications) — Characteristic Impedance 50 Ω (Type 1,0/2,3) – 50 Ω and 75 Ω Applications2 
+4 
+Terms and Definitions 
+No terms and definitions are listed in this document. 
+5 
+Source Data 
+5.1 
+Source Data Interface 
+For this interface, the source data shall be the 12G-SDI 10-bit multiplex as defined for example in SMPTE 
+ST 2082-10, of the form illustrated in the diagram of Figure 1 or  Figure 2, having an interface frequency of 
+1188 MHz or 1188/1.001 MHz. 
+NOTE 
+Figure 1 shows the Type 1 10-bit multiplex resulting from mapping modes in which each data 
+stream has a single instance of TRS words, Line Numbers, CRC words, etc. 
+Figure 2 shows the Type 2 10-bit multiplex resulting from mapping modes in which each data 
+stream has two instances of TRS words, Line Numbers, CRC words, etc. A Type 2 multiplex is 
+the result of SMPTE ST 292-1 mapping of each sub image. It is generated for 4:2:2 10-bit 
+formats with frame rates of 30 fps or less. 
+ 
+1 Please note that the title of this normative reference (IEC 61169-8 (2007-2)) could be misleading. This 
+standard requires the use of the 75-ohm connector defined in Annex A of IEC 61169-8 (2007-2). 
+2 Please note that this reference is required ONLY to provide mechanical dimensions of 75-ohm connectors. 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 5 of 15 pages 
+ 
+Figure 1 — 12G-SDI 10-bit multiplex – Type 1 
+12G-SDI 10-bit multiplex
+Data Stream one
+Data Stream two
+Data Stream three
+Data Stream four
+80-bit Virtual Interface
+EAV 3FF
+EAV 3FF
+EAV 3FF
+EAV 3FF
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV XYZ
+EAV XYZ
+EAV XYZ
+EAV XYZ
+LN1
+LN1
+LN1
+LN1
+Data Stream four
+Data Stream two
+Data Stream three
+Data Stream one
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+Data Stream five
+Data Stream six
+Data Stream seven
+Data Stream eight
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+EAV 3FF
+EAV 000
+EAV 000
+LN1
+CRC0
+CRC1
+EAV XYZ
+Blanking Code Words or Optional Ancillary 
+Data
+SAV 3FF
+SAV 000
+SAV 000
+SAV XYZ
+Digital Active Line
+Data Stream eight
+Data Stream six
+Data Stream seven
+Data Stream five
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN0
+LN1
+LN1
+LN1
+LN1
+LN0
+LN0
+LN0
+LN0
+EAV XYZ
+EAV XYZ
+EAV XYZ
+EAV XYZ
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 000
+EAV 3FF
+EAV 3FF
+EAV 3FF
+EAV 3FF
+12Gb/s SDI 10-bit interface
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+1188 (/1.001) MHz
+
+SMPTE ST 2082-1: 2023 
+Page 6 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+Data Stream one
+Data Stream two
+Data Stream three
+Data Stream four
+80-bit Virtual Interface
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+Data Stream five
+Data Stream six
+Data Stream seven
+Data Stream eight
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (Y)
+LN1 (C)
+LN1 (Y)
+CRC0 (C)
+CRC0 (Y)
+CRC1 (C)
+CRC1 (Y)
+EAV XYZ (C)
+EAV XYZ (Y)
+Blanking Code Words or 
+Optional Ancillary Data
+SAV 3FF (C)
+SAV 3FF (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV 000 (C)
+SAV 000 (Y)
+SAV XYZ (C)
+SAV XYZ (Y)
+Digital Active Line
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+LN0 (C)
+LN0 (Y)
+12G SDI 10-bit multiplex
+Data Stream four
+Data Stream two
+Data Stream three
+Data Stream one
+Data Stream eight
+Data Stream six
+Data Stream seven
+Data Stream five
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (C)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (Y)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+EAV 000 (C)
+1188 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+148.5 (/1.001) MHz
+ 
+Figure 2 — 12G SDI 10-bit multiplex – Type 2 
+5.2 
+Sync-bit Insertion 
+To prevent long runs of zeros and ones occurring in the serial bitstream, the 10-bit parallel interface data 
+stream shall be modified such that the two Least Significant Bits (LSBs), of repeated 3FF or 000 code words 
+shall be replaced by the sync-bit values of 10b for 000h words and 01b for 3FFh words, excluding the 3FFh 
+000h 000h sequence as illustrated in the diagram of Figure 3. 
+To ensure synchronization and word alignment can be reliably achieved in the receiver, this 3FFh 000h 
+000h sequence shall be retained without modification as shown in Figure 3. 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 7 of 15 pages 
+This sync-bit insertion process shall be reversed in the receiver restoring the original 3FFh and 000h data 
+patterns. 
+NOTE 
+Repeating patterns of 3FF or 000h in the 10-bit parallel interface can result in a long run of 
+zeros feeding the scrambling polynomial. This condition can result in the generation of the 
+“pothole pathological” condition as described in the paper “Pathological Check Codes and the 
+SMPTE Scrambler in the HD Age” published in the October 2011 edition of the SMPTE Motion 
+Imaging Journal. 
+A run length of up to 160 “1’s” and up to 339 “0’s” can be produced as described in informative 
+Annex B for the Type 2 multiplex, and 80 “1’s” and up to 179 “0’s” can be produced for the Type 
+1 multiplex. 
+EAV 3FD (C)
+EAV 3FD (C)
+EAV 3FD (C)
+EAV 3FD (C)
+EAV 3FD (Y)
+EAV 3FD (Y)
+EAV 3FD (Y)
+EAV 3FF (Y)
+EAV 000 (C)
+EAV 000 (C)
+EAV 002 (C)
+EAV 002 (C)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV 002 (C)
+EAV 002 (C)
+EAV 002 (C)
+EAV 002 (C)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV 002 (Y)
+EAV XYZ (C)
+EAV XYZ (C)
+EAV XYZ (C)
+EAV XYZ (C)
+EAV XYZ (Y)
+EAV XYZ (Y)
+EAV XYZ (Y)
+EAV XYZ (Y)
+LN0 (C)
+LN0 (C)
+LN0 (C)
+LN0 (C)
+0000000000 0000000000
+20 “0's”
+Worst-case run of zeros
+Into scrambler
+LSb
+MSb
+0100000000
+0100000000
+0100000000
+1111111111
+3FF, 000, 000 sequence 
+left intact for framing
+10-bit Muliplex after sync bit 
+insertion
+1011111111
+1011111111
+Worst-case run of ones
+18 “1's”
+10-bit word:
+3FDh
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+10-bit word:
+002h
+MSb
+LSb
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10-bit word:
+000h
+0
+1
+1
+0
+Two LSb’s
+replaced with:
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+10-bit word:
+3FFh
+MSb
+LSb
+TRS / AFD Pre-ambles after 
+Sync-bit insertion
+ 
+Figure 3 — Sync-bit insertion process 
+
+SMPTE ST 2082-1: 2023 
+Page 8 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+5.3 
+Channel Coding and Serialization 
+Multiplexed data shall be serialized with the LSB (Least Significant Bit) of each data word transmitted first 
+at a serial data rate of 11.88 Gb/s or 11.88/1.001 Gb/s. 
+The channel coding scheme shall be scrambled NRZI (non-return to zero inverted), See Annex A. 
+The generator polynomial for the scrambled NRZ (non-return to zero) shall be G1(X) = X9 + X4 + 1. Polarityfree scrambled NRZI sequence data shall be produced by the generator polynomial G2(X) = X + 1. The 
+input signal to the scrambler shall be positive logic, where the highest voltage represents data 1 and the 
+lowest voltage represents data 0. 
+6 
+Coaxial Cable Interface 
+6.1 
+Generator Signal Levels and Specifications 
+These specifications are defined for measurement of the serial output of a source derived from a parallel 
+domain signal. 
+The output of the generator (source signal transmitter) shall be measured across a 75-ohm resistive load 
+connected through a 1-meter coaxial cable and 75-ohm BNC connectors meeting the requirements defined 
+in Clause 7.2. Figure 4 depicts the measurement dimensions for amplitude, rise time and overshoot. 
+The generator shall have an unbalanced output circuit with a source impedance of 75 ohms and shall meet 
+the return loss requirements defined in Table 2. 
+ 
+Figure 4 — Waveform measurement dimensions 
+The peak-to-peak signal amplitude shall be 800 mV ± 10%. 
+The DC offset, as defined by the mid-amplitude point of the signal, shall be nominally 0.0 V ± 0.5 V. 
+The rise and fall times, determined between the 20% and 80% amplitude points shall be no greater than 45 ps 
+and shall not differ by more than 18 ps. 
+Overshoot of the rising and falling edges of the waveform shall not exceed 10% of the amplitude. 
+Output amplitude excursions due to signals with a significant DC component occurring for a horizontal line 
+(pathological stress signal) shall not exceed 50 mV above or below the average peak-to-peak signal 
+envelope. 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 9 of 15 pages 
+The jitter in the timing of the transitions of the data signal shall be measured in accordance with SMPTE 
+RP 184. Measurement parameters are defined in SMPTE RP 184 and shall have the values shown in 
+Table 1 for compliance with this standard. 
+Table 1 — Jitter specifications 
+Parameter 
+Value 
+Description 
+f1 
+10 Hz 
+Timing jitter lower band edge (Low Frequency 
+Specification Limit) 
+f3 
+100 kHz 
+Alignment jitter lower band edge 
+f4 
+>1/10th the clock rate (>1188 MHz) 
+Upper band edge 
+A1 
+8 UI (674 ps) 
+Timing jitter  
+A2 
+0.3 UI (25.3 ps) 
+Alignment jitter (UI = unit interval. 1 UI = 84 ps). 
+See NOTE 1. 
+Test Signal 
+Color bar test signal 
+See NOTE 2. 
+NOTE 1 
+This should be considered an absolute maximum requirement. An alignment jitter 
+specification of 0.2 UI or better is strongly recommended 
+NOTE 2 
+Color bars are chosen as a non-stressing test signal for jitter measurements. Use of a 
+stressing signal with long runs of zeros could give misleading results. 
+NOTE 3 
+See SMPTE RP 184 for definition of terms. 
+ 
+6.2 
+Receiver Signal Levels and Specifications 
+The receiver of the serial interface signal shall present an impedance of 75 ohms and shall meet the return 
+loss requirements defined in Table 2. 
+Receivers operating with input cable losses in the range of up to 40 dB at one-half the clock frequency are 
+typical; however, receivers designed to work with greater or lesser signal attenuation are acceptable. 
+
+SMPTE ST 2082-1: 2023 
+Page 10 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+6.3 
+Return Loss 
+The generator and receiver unbalanced circuit shall have a return loss that complies with the Figure 5 
+diagram in accordance with the parameters enumerated in Table 2. 
+Frequency
+F2
+F1
+B0
+F0
+Return Loss
+B1
+F3
+B2
+F4
+B3
+ 
+Figure 5 — Return loss 
+Table 2 — Return loss parameters 
+Parameter 
+Value 
+Description 
+F0 
+5 MHz 
+Return loss lower band edge 
+F1 
+1.485 GHz 
+Return loss transition lower band edge 
+F2 
+3 GHz 
+Return loss mid band edge 
+F3 
+6 GHz 
+Return loss mid band upper edge 
+F4 
+12 GHz 
+Return loss upper band edge 
+B0 
+−15 dB 
+Return loss f0 to f1 
+B1 
+−10 dB 
+Return loss f1 to f2 
+B2 
+−7 dB 
+Return loss f2 to f3 
+B3 
+−4 dB 
+Return loss f3 to f4 
+ 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 11 of 15 pages 
+7 
+Connector and Cable Types 
+7.1 
+BNC Connectors 
+75-ohm BNC connectors that are usable at frequencies >12.0 GHz—based on a return loss at 12.0 GHz 
+that is better than the parameters defined in Table 2 and an insertion loss (frequency response) that is 
+lower than the typical cable loss identified in Clause 7.2—shall be used on equipment and installations that 
+are compliant with this standard. 
+The mechanical characteristics of the preferred connector shall conform to the 75-ohm BNC as defined in 
+IEC 61169-8, Annex A. 
+Other application-specific connector types may also be used so long as they meet the electrical 
+requirements defined in this standard. Manufacturers are encouraged to indicate in publications which 
+connector type is being used. 
+Examples of application-specific connector types include, but are not limited to, the 1,0/2,3 series RF 
+connectors with mechanical dimensions as defined in IEC 61169-29:2005, Radio-frequency connectors – 
+Part 29: Sectional specification – Miniature radio frequency coaxial connectors model screw, snap-on, 
+push-pull or quick-lock, slide-in (rack and panel applications ) – Characteristic impedance 50 Ω (type 
+1,0/2,3) – 50 Ω and 75 Ω applications. 
+Section 8 of IEC 61169-8 provides additional suggested electrical parameters for connectors compliant with 
+this standard. 
+NOTE 
+IEC 61169-8 and IEC 61169-29 are required only for interface (mechanical), dimensions of 75ohm characteristic impedance connectors. Electrical specifications for connectors compliant 
+with this standard are as defined in this subclause. 
+7.2 
+Cables 
+75-ohm video coax cable that is specified for operation at frequencies >12.0 GHz shall be used in 
+installations that are compliant with this standard. It is necessary for the frequency response of the coaxial 
+cable loss, in decibels, to be approximately proportional to 1/√f from 1 MHz to the clock frequency of the 
+signal being transmitted to ensure correct operation of automatic cable equalizers over moderate to 
+maximum cable lengths. 
+Return loss of the correctly terminated transmission line shall be better than the parameters defined in 
+Table 2. 
+
+SMPTE ST 2082-1: 2023 
+Page 12 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+Annex A 
+(Informative) 
+ 
+Channel Coding 
+When scrambled NRZI channel coding is applied to certain video signals (informally called pathological 
+signals), repeated long strings of 19 or 20 zeros can occur during the period of one horizontal television 
+line. A stressing test signal is defined in SMPTE RP 198 that aids in evaluating channel performance. 
+Possible generator polynomial implementations are given in Figure A.1 and Figure A.2. 
+ 
+Figure A.1 — Possible generator polynomial – Method 1 
+ 
+Figure A.2 — Possible generator polynomial – Method 2 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 13 of 15 pages 
+Annex B 
+(Informative) 
+ 
+Pothole Pathological and the Sync-bit Insertion Process 
+The concatenation of timing reference signal (TRS) preambles at the start and end of each line brought 
+about by the 10-bit word multiplex defined in SMPTE ST 2082-10, for example, can result in a long run of 
+zeros feeding the scrambling polynomial. This condition can result in the generation of the “pothole 
+pathological” condition as described in the paper, “Pathological Check Codes and the SMPTE Scrambler 
+in the HD Age” published in the October 2011 edition of the SMPTE Motion Imaging Journal. 
+The concatenated TRS preambles for the Type 2 multiplex result in 8 consecutive words of 3FFh and 16 
+consecutive words of 000h. When serialized, this will result in 160 ones followed by 320 zeros at the input 
+of the scrambler as shown in Figure B.1. 
+12G SDI 10-bit multiplex
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF XYZ (C)
+ADF XYZ (C)
+ADF XYZ (C)
+ADF XYZ (C)
+ADF XYZ (Y)
+ADF XYZ (Y)
+ADF XYZ (Y)
+ADF XYZ (Y)
+0000000000
+0000000000
+320 “0's”
+1111111111
+1111111111
+160 “1's”
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (C)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 3FF (Y)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (C)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF 000 (Y)
+ADF XYZ (C)
+ADF XYZ (C)
+ADF XYZ (C)
+ADF XYZ (C)
+ 
+Figure B.1 — Pothole pathological as a result of 10-bit word multiplex 
+If the scrambler registers are already at zero when this condition occurs, an additional 10 zero bits are 
+added to the run-length. 
+In addition, the first XYZ word in the multiplexed stream could also be 200h, which when serialized LSB 
+first, results in another 9 zeros. 
+Therefore, the maximum run of zeros output from the scrambling polynomial defined in Clause 5.3 will be 
+339 (320 + 10 + 9). After NRZI is applied, this produces a long run of 339 zeros or ones in the 12G-SDI 
+serialized data stream. 
+This condition occurs on average twice every 512 lines, i.e., many times per second. A long sequence of 
+zeros, when NRZI encoded to a long sequence of either zeros or ones, is potentially challenging to clock 
+recovery circuits. 
+Similarly, a long sequence of ones from the scrambler, when NRZI coded, produces a long sequence of 
+transitions. The 12G-SDI signal then has a single frequency component at one half of the data rate. This 
+signal is challenging to equalizing circuits. 
+Similar pothole conditions may also be created by the concatenation of the ancillary data flag (ADF) 
+preamble contained in the 10-bit parallel data stream. 
+
+SMPTE ST 2082-1: 2023 
+Page 14 of 15 pages 
+© SMPTE 2023 – All Rights Reserved 
+These long runs, although infrequent, can cause unwanted DC shifts on the 12G-SDI serialized link or may 
+look like a loss of signal to receiving equipment. 
+The sync-bit insertion process defined in this standard reduces the pothole condition to a maximum of 20 
+consecutive zeros. 
+The modified preamble values, 3FDh, 3FEh, 001h, and 002h, produced by the sync-bit insertion process, 
+are still illegal video code words; they cannot appear within the active video data stream once the receiver 
+has correctly synchronized and framed the serial data stream into 10-bit parallel data words. 
+It should be noted, however, that until word alignment is achieved in the receiver, it is possible—although 
+extremely unlikely—that similar data patterns can occur during the active line. The sync-bit insertion 
+process defined in this standard therefore retains one complete sequence of 3FFh, 000h, 000h code words. 
+This sequence is always uniquely identifiable, ensuring that framing in the receiver can be reliably 
+performed. 
+Other 3FFh and 000h words can be modified without risking conflict with legal active video or ancillary data. 
+
+ 
+SMPTE ST 2082-1: 2023 
+© SMPTE 2023 – All Rights Reserved 
+Page 15 of 15 pages 
+Bibliography (Informative) 
+SMPTE EG 34:2004, Pathological Conditions in Serial Digital Video Systems 
+SMPTE RP 157:2012, Key and Alpha Signals 
+SMPTE RP 198:1998, Bit-Serial Digital Checkfield for Use in High-Definition Interfaces 
+SMPTE ST 292-1:2018, 1.5Gb/s Signal/Data Interface 
+SMPTE OV 2082-0:2018, 12G-SDI Bit-Serial Interfaces — Overview for the SMPTE ST 2082 Document 
+Suite 
+Brown, David, and Hudson, John. “Pathological Check Codes and the SMPTE Scrambler in the HD Age” 
+SMPTE Motion Imaging Journal, October 2011, pp 49-59. 

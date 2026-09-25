@@ -1,0 +1,686 @@
+
+[[p417]]
+Chapter 18
+Using Clip Metadata
+DaVinci Resolve has powerful tools for viewing, editing, exporting, and importing 
+metadata associated with each clip in the Media Pool. 
+Once your metadata house is in order, you can use this metadata in the Cut, Edit, Color, and Fairlight 
+pages to find, sort, and organize the clips in your project, so you can work faster.
+Contents
+Editing Clip Metadata.......................................................................................................................................................................... 418
+Automatically Imported Metadata................................................................................................................................................. 418
+Using the Metadata Editor................................................................................................................................................................ 419
+Editing Star Ratings For Clips......................................................................................................................................................... 420
+Editing Keywords.................................................................................................................................................................................. 420
+Adding and Populating Custom Metadata Fields.................................................................................................................. 421
+AI Clip Analysis...................................................................................................................................................................................... 423
+Editing Metadata Using the File Inspector.............................................................................................................................  424
+Slate Finder and Slate ID (Studio Version Only).................................................................................................................... 426
+Slate ID....................................................................................................................................................................................................... 426
+Audio Classification for Clips (Studio Version Only)............................................................................................................ 428
+Face Detection to Generate People Keywords.................................................................................................................... 430
+Creating Custom Metadata Groups............................................................................................................................................ 433
+Importing and Exporting Media Pool Metadata................................................................................................................... 434
+Different Ways of Using Clip Metadata.................................................................................................................................... 436
+Renaming Clips Using Clip Names.............................................................................................................................................. 436
+Switching Between File Names and Clip Names..................................................................................................................  437
+Using Metadata to Define Clip Names.......................................................................................................................................  437
+417
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p418]]
+Editing Clip Metadata
+Whether you’ve imported media in preparation for editing, or you’ve imported a project for grading 
+that resulted in media being imported automatically, once you’ve added clips to the Media Pool, it 
+would behoove you to consider taking the time to review and add metadata to your clips. 
+At the very least, it would be valuable for you to use the Metadata Editor that’s available in either the 
+Media page or the Edit page to add information to each clip such as a Description, Shot and Scene 
+designations, Take information, and possibly some useful keywords such as Character Names, Shot 
+Framing, Interior or Exterior keywords, and so on. If you’re especially ambitious (or you have a very 
+responsible assistant), you could go further and add Shoot Day, Camera Type, Audio Notes, and other 
+valuable information. Much of the metadata that is useful in the day to day work of editing and grading 
+can be found in the Shot & Scene group, but there are many other potentially useful groups as well 
+that you should explore.
+Keep in mind that the more metadata you associate with each clip, the more methods you have at your 
+disposal for creating custom Smart Bins (for editing) and Smart Filters (for grading) with which to zero 
+in on the clips you need for any given situation. This will not only make it easier to find what you need, 
+but it’ll help you to work faster.
+For example, if you’ve entered enough metadata, then you can create multi-criteria Smart Bins 
+or Smart Filters that let you find the equivalent of “every close-up of Sally inside the diner,” 
+or “every long shot of Antonio outside in the parking lot.” In a documentary, you could easily 
+isolate “every interview shot of Louis from camera 1,” or “every B-roll clip with Robyn.” All of 
+this will help you to find media faster for editing, or to quickly isolate similar clips that you need 
+to match together for grading.
+Automatically Imported Metadata
+In many instances, metadata is also imported along with the media you’ve added to the Media Pool. 
+For example, media recorded on BMD cameras may have had a variety of metadata entered into the 
+camera or automatically generated by the camera, and this metadata is automatically available in 
+the Metadata Editor. Similarly, Broadcast WAVE files can have quite a bit of metadata entered at the 
+time of recording, such as scene and take numbers and channel names describing each microphone. 
+Still images are imported with EXIF metadata. In all cases, available metadata is imported along with 
+the media and exposed in the Metadata Editor to facilitate workflows where valuable organizational 
+metadata is being entered on set during the shoot or immediately after ingest.
+418
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p419]]
+Using the Metadata Editor
+Whenever you select a clip in the Media Pool, its editable metadata appears in the appropriately 
+named Metadata Editor (so long as it’s displayed). You can use this editor to further massage 
+the metadata of the clips in a project, adding information on set that will be of help later during 
+editing and finishing. 
+By default, clips initially appear with a set of clip metadata called “Clip Details,” that shows some of the 
+most fundamental details of the clip such as start and end timecode, duration, bit depth, and so on.
+Because there are so very many metadata fields that are available, two drop-down menus at the top 
+right of the Metadata Editor let you change which set of metadata is displayed.
+	 Metadata Presets (to the left): If you’ve used the Metadata panel of the User Preferences to 
+create your own custom sets of metadata, you can use this drop-down to choose which one to 
+expose. Surprisingly enough, this is set to “Default” by default.
+	 Metadata Groups (to the right): This drop-down menu lets you switch among the various groups 
+of metadata that are available, grouped for specific tasks or workflows.
+Metadata categories drop-down menu
+If you want to see a list of every piece of metadata in a clip, you can choose All Groups. 
+Otherwise, you can choose any set of metadata to narrow your focus to just those 
+items of information.
+To edit metadata for a single clip:
+Select any clip in the Media Pool, and edit whatever metadata fields you require. The edited metadata 
+is immediately saved.
+419
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p420]]
+To edit metadata for multiple clips:
+1	
+Choose a metadata set using the drop-down menu in the Metadata Editor.
+2	
+Select multiple clips in the Media Pool by Shift-clicking, Command-clicking, or dragging a 
+bounding box around them.
+3	
+Edit whichever metadata fields you want to. Checkboxes are automatically turned on for any 
+metadata fields you edit.
+4	
+When you’re done, click the Save button at the bottom of the Metadata Editor. When you’ve edited 
+metadata for multiple clips at once, you’ll be prompted to save your changes if you create a new 
+selection in the Media Pool without clicking the Save button first.
+Editing Star Ratings For Clips
+You can rate media pool clips from one to five stars in the Shot & Scene Metadata Panel, as well as still 
+photos from multiple Photo Page controls.
+Giving a clip a four star rating 
+ in the Shot & Scene metadata.
+Click on the star rating to rate that shot and scene—you can also change your rating at any time by 
+clicking on it again. To sort by Rating in the list view of the media pool, use Rating as a Smart Bin 
+criteria and sort an album by rating in the Photo page.
+Editing Keywords
+While most metadata in the Metadata Editor is edited via text fields, checkboxes, or multiple button 
+selections (such as Flags and Clip Color), the Keyword field is unique in that it uses a graphical “tag” 
+based method of data entry. The purpose of this is to facilitate consistency with keyword spelling by 
+making it easy to reference both a built-in list of standardized keywords, as well as other keywords that 
+you’ve already entered to other clips.
+Once added, keywords are incredibly useful for facilitating searching and sorting in the Media Pool, 
+for creating Smart Bins in the Media and Edit pages, and for use in Smart Filters on the Color page. 
+Reaping these benefits by adding and editing keywords is simple, and works similarly to the method of 
+entering metadata variables. 
+For more information on metadata variables, jump to this chapter:  
+Using Variables and Keywords.
+420
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p421]]
+To add a keyword:
+1	
+Select the Keyword field of the Metadata Editor, and begin typing the keyword you want to use. 
+As you begin typing, a scrolling list appears showing all keywords that are available using the 
+string of characters you’ve just typed.
+2	
+To find a specific keyword in the list, start typing that keyword’s name and this list automatically 
+filters itself to show only keywords that contain the characters you’ve just typed. Choose which 
+keyword you want to use in the list using the Up and Down Arrow keys, and press Return to 
+choose that keyword to add.
+The keyword list that appears when  
+you type within the Keyword field
+As soon as you add one or more keywords, they appear as a graphical tag. To re-edit any 
+keyword, simply click anywhere within the Keyword field to edit it.
+To edit a keyword:
+	 Double-click any keyword to make it editable, then edit it as you would any other piece of text, 
+and press Return to make it a graphical keyword tag again.
+To remove a keyword:
+	 Click any keyword to select it, and press Delete.
+TIP: In macOS, any color tags that are set and defined in the Finder can automatically be 
+imported as keywords alongside their media clips. To do so check the “Import Finder tags as 
+Keywords” box in the General Settings panel of the Editing section in the User Preferences. 
+Adding and Populating Custom Metadata Fields
+You can add your own custom Metadata fields to clips in the Media and Edit pages. These fields 
+can be defined for the current project only, or across all your projects. Metadata fields can be of the 
+following types:
+	 Text Input: A field consisting of one line to enter text into.
+	 Text Area: A field of multiple lines to enter text into, for more detailed metadata.
+	 Numeric: A field that accepts a numeric value.
+	 Timecode: A field that accepts a single timecode entry.
+	 Checkbox: A simple on/off checkbox.
+421
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p422]]
+To add or edit custom metadata, select Create Custom Metadata from the three dot options menu in 
+the Metadata tab.
+Next, define the field name and field type and whether you want to see the fields across all projects. 
+Then repeat as needed to add all your custom metadata fields.
+The Create Custom Metadata option in the  
+Metadata tab’s three dot option menu
+The new custom metadata dialog
+To Manage Custom Metadata to re-order, edit, and delete custom metadata types, select Manage 
+Custom Metadata from the Metadata three-dot option menu, then make any adjustments in the 
+Manage Custom Metadata interface.
+The Manage Custom Metadata interface
+The populated Custom Metadata fields
+Once the fields are determined you can populate them just like any other metadata field in the 
+Metadata Tab. To view just the custom metadata fields, select the group filter dropdown menu in 
+the top-right of the Metadata tab, and select Custom.
+You can define metadata fields for the current project, or select “show in all projects” to see that 
+field across all of your projects. Project metadata is saved alongside the project and is available to 
+all users of that project. Cross-project metadata definitions are remembered and displayed across 
+projects and project libraries for you. When you add a value to a cross-project metadata field, it is 
+saved to the project and becomes available to other users of the project. The custom metadata 
+panel displays a superset of project persisted custom metadata and cross-project metadata fields.
+422
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p423]]
+Use Custom Metadata in Smart Bins, Clip Filters, Data Burn-in and Naming Tags
+You can use any Custom Metadata fields that were previously created in the Metadata Editor as criteria 
+for Smart Bins, Clip Filters, Data Burn-ins, and Tags.
+AI Clip Analysis
+The AI Clip Analysis window lets you perform several AI-assisted metadata functions from its interface. 
+To access it,  clicking on its corresponding icon, located at the top toolbar of the Media Pool.
+The AI Clip Analysis icon. To open the clip 
+selection range dropdown menu, click on the 
+caret (the dropdown arrow) beside it.
+Next to the AI Clip Analysis icon is a caret (the small dropdown indicator). Clicking on this lets you 
+choose the clip selection range for the AI analysis.
+	 Perform AI Analysis in all Clips: Runs all selected AI Analysis tools on all clips in the bin.
+	 Perform AI Analysis in Selected Clips: Runs all selected AI Analysis tools on only the selected 
+clips in the bin.
+When you expand the dropdown, you are presented with a set of AI-based functions and a 
+toggle switch for each. To run an AI analysis on the selected clip(s), choose your preferred 
+function(s) by toggling their corresponding switches, then click Analyze. 
+To exclude a particular AI analysis function, slide the toggle off. In this way, you can queue 
+several AI analysis jobs at once, and have them run sequentially without any further user 
+input needed.
+The AI Clip Analysis window with all functions toggled on.
+423
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p424]]
+The current AI Clip Analysis Tools are:
+	 Analyze for Intellisearch: Runs the Intellisearch Analysis, with a checkbox option to find faces in 
+the search. 
+For more information on Intellisearch, jump to this chapter: Adding and Organizing Media 
+with the Media Pool.
+	 Analyze for Slate: Runs the Slate Finder Analysis, with a dropdown option to choose the marker 
+color. For more information on Slate Finder, see the Slate Finder and Slate ID section below.
+	 Transcription: Runs the Audio Transcription Analysis. For more information on Audio Transcription, 
+jump to this chapter: Text Based Editing.
+	 Audio Classification: Runs the Audio Classification Analysis, with a dropdown option to choose 
+the marker color. 
+For more information on Audio Classification, jump to this chapter: Audio Classification for 
+Clips below.
+Editing Metadata Using the File Inspector
+The File tab of the Inspector provides a consolidated way to view and edit a subsection of a clip’s most 
+commonly used media file metadata. It’s easily accessible in the Inspector across the Media, Cut, Edit, 
+and Fairlight pages. The tab is composed of the following parts:
+	 Clip Details: Presents data about the clip’s data format (codec, resolution, frame rate, etc.).
+	 Metadata: Presents a reduced set of common metadata fields for quick user entry.
+Timecode: The start timecode of the clip. This field is editable if you want to manually change the 
+clip’s starting timecode.
+Date Created: The date that the clip was created. This field is editable if you want to manually 
+change the clip’s creation date.
+Camera: Sets the Camera # metadata.
+Reel: Sets the Reel/Card ID.
+Scene: The Scene number of the clip.
+Shot: The Shot letter/number of the clip.
+Take: The Take number of the clip.
+Good Take: This checkbox indicates if the clip is a good or circled take.
+Clip Color: Assign a specific color to a clip that is reflected in the Timeline.
+Name: The clip name field; this can be entered manually.
+Comments: Add a text description to the clip.
+	 Auto Select Next Unsorted Clip: When this box is checked, the next clip in the Media Pool 
+is selected when you hit the return button after entering a metadata field, and the cursor is 
+automatically placed in the same field. This allows rapid sequential metadata entry without having 
+to manually click to load each individual clip in the Media Pool. The Next Clip button will select the 
+next clip in the Media Pool, regardless of the checkbox status.
+424
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p425]]
+The File Inspector parameters
+Tips for Editing Metadata
+Editing metadata is like taking vitamins. Nobody wants to, but you know you probably should. 
+To encourage you to undertake this task so you can reap the benefits, here are a few pointers.
+•	 Don’t start editing until you review your footage and add metadata. If you get into the habit 
+of entering your clip metadata before you get preoccupied with your edit, you’ll be in a 
+much better position to edit faster using organizational tools that leverage the metadata 
+you’ve entered.
+•	 Enter metadata starting with groups of clips and then moving to individual clips. Since the 
+Metadata Editor lets you add metadata for multiple selected clips at once, it becomes easy 
+to select groups of clips based on their thumbnails for entering information such as Scene 
+designations, Interior or Exterior keywords, Character keywords, and Framing keywords. 
+You’ll be surprised how fast this goes, and how useful this information is later on, for both 
+editing and grading.
+•	 After you’ve entered all the metadata you can in groups of clips, then switch to entering 
+clip-specific metadata such as Shot designations, Take numbers, descriptions of action, and 
+other clip-specific keywords.
+•	 There’s no right or wrong way to edit or use metadata, but a lack of consistency will make it 
+less useful. For example, if you’re identifying each clip that takes place at the same diner, try 
+to use the same keyword or descriptive text. If you call half the shots “diner” and the other 
+half “restaurant,” your ability to easily search for all the diner shots will be compromised.
+425
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p426]]
+Slate Finder and Slate ID 
+(Studio Version Only)
+Slate Finder uses AI to automatically detect slates (clapper boards) and mark their positions using a 
+duration marker on your clips. This lets you quickly jump to the slate for information about the scene.
+To use Slate Finder and Slate ID, download its corresponding AI model from DaVinci Resolve > Extras 
+Download Manager.
+To analyze slates:
+1	
+Select the clip or clips with slates you want to analyze in the Media Page.
+2	
+Right-click on one of them and select AI Tools > Analyze for Slate. Or toggle on Analyze for Slate in 
+the AI Clip Analysis tool whose icon is at the top of the bin column.
+3	
+A progress box will appear showing you the status of the Slate Finder operation.
+4	
+Once completed, a duration marker will be added the the clip(s) analyzed for the time that the slate 
+is in the frame and readable.
+The Slate Finder has identified the frames in which the slate appears, a 
+nd marked them as a blue duration marker.
+Slate ID
+When a slate is found using Slate Finder, you can click on the Slate ID icon in the Metadata pane to 
+view Scene, Take, Shoot Day, and other information written on the slate. You’ll also have options to 
+populate a clip’s metadata based on these values automatically.
+426
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p427]]
+The Scene, Take, and other information handwritten on this slate can be extracted using Slate ID.
+To automatically populate clip metadata based on Slate ID:
+1	
+Select the clip you want to extract the slate metadata from. This clip must have been previously 
+analyzed with Slate Finder.
+The Slate ID icon (circled red), with the 
+metadata from the slate populating the 
+Scene, Take, Date, and Camera # fields.
+2	
+Click on the Slate ID icon at the top of the Metadata bar.
+3	
+A progress box will appear, indicating the status of the Slate ID operation.
+427
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p428]]
+The Slate Information window.
+4	
+Once finished, a Slate Information window will appear with metadata details pulled from your 
+Slate ID operation. The right side of the window (marked Metadata) indicates the metadata fields 
+and information that will be populated. To select the metadata you want to save, locate the 
+checkboxes on the far-left of the window and enable or disable them accordingly. While none of 
+this data is editable, you can change individual fields by going to the Metadata Editor field and 
+manually entering the amended metadata values.
+5	
+Click the Save button to add the information in the selected fields to the clip’s metadata.
+Audio Classification for Clips  
+(Studio Version Only)
+You can have DaVinci Resolve’s Neural Engine analyze the audio for any clip in the Media Pool, and 
+then automatically assign it a Category and add keywords about its contents in the clip’s Subcategory 
+audio metadata. This lets you categorize and organize large amounts of audio clips extremely 
+efficiently by letting the computer do the tedious work of listening to all the media and assigning it 
+metadata for you. Of course, you can then modify or change any metadata necessary in the Metadata 
+Editor in case the computer had miscategorized it. 
+Analyzing an audio clip
+428
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p429]]
+Each clip analyzed gets Audio Category and Subcategory metadata applied to it. Audio 
+Categories are types of audio commonly used in post-production; as of this writing the 
+available choices are: Dialogue, Effect, Music, Silence, and Uncategorized. Subcategories 
+are more detailed keywords that are assigned based on what sounds the Neural Engine 
+can recognize in the clip. Subcategories can be anything like sirens, water, dog, etc. Audio 
+Category and Subcategory are available as Smart Bin filters that let you quickly organize 
+persistent folders for whatever combination of Categories and Subcategories you desire. 
+For example, you could create a Smart Bin that contains all clips that have both Dialogue 
+(category) and sirens and dogs (subcategories) in them.
+To Automatically Classify an Audio Clip:
+1	
+Select the clip or clips in the Media Pool you want to classify the audio for.
+2	
+Right-click on any of the selected clips and select AI Tools > Audio Classification > Analyze from 
+the contextual menu. DaVinci Resolve will work its way through analyzing all the selected clips and 
+will automatically add the metadata to the Audio Metadata for each clip.
+3	
+Optionally, you can then review the Audio Metadata for each clip and correct, delete, or add 
+additional metadata manually.
+The results of the analysis in  
+Category and Subcategory
+429
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p430]]
+Each Category and Subcategory found by this process automatically creates Smart Bins in the 
+Collections folder, based on that metadata. You can also define your own Smart Bins based on 
+combinations of these keywords.
+Subcategories folder list showing  
+folders created from analysis
+To Remove Classification Metadata from an Audio Clip:
+1	
+Select the clip or clips that have Category and Subcategory metadata that you want to remove.
+2	
+Right-click on any of the selected clips and select Audio Classification > Clear Classification from 
+the contextual menu, then click on Remove in the warning dialog box that appears. There is no 
+undo for this feature.
+Face Detection to Generate 
+People Keywords
+You can select multiple clips in the Media Pool, then right-click the selection and choose AI Tools > 
+Analyze clips for people from the context menu to automatically analyze all selected clips using the 
+DaVinci Neural Engine, identifying faces that can be used to help organize the media. A progress 
+dialog shows you how long until the analysis is finished (you can cancel the operation if necessary). 
+Afterwards, the People Management window appears that shows you the results, automatically 
+organized into a number of bins in a sidebar. 
+	 A “People” bin shows each face that has been recognized as an individual person. Click, pause, 
+then click again underneath any thumbnail to edit the name or role of that person. You must assign 
+a name if you want a keyword to appear for that individual in the People field of the Metadata 
+Editor. Assigning names renames the bins corresponding to each found person and enables 
+retagging to fix mistaken identification.
+430
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p431]]
+The Face Recognition window seen immediately after a Face Recognition operation
+	 Individual bins collect all clips with a particular person, allowing you to evaluate whether or not the 
+contents have been identified correctly. If you see an incorrectly identified clip, you can right-click 
+it and re-tag it from the contextual menu, or choose “Untag” if it’s a new person that has not been 
+identified at all.
+A bin for a particular person lets you evaluate the contents
+431
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p432]]
+	 An “Other People” bin shows all faces that could not be identified. You can right-click any of these 
+to re-tag it as one of the people that have been already identified, or you can choose New Person 
+if it’s someone who wasn’t initially identified (this sometimes happens when multiple people have 
+very similar features).
+The Face Recognition window seen immediately after a Face Recognition operation
+Clicking the Close button closes this window and assigns the names you edited as keywords to the 
+People field of the “Shot & Scene” group in the Metadata Editor. Clips with multiple people who have 
+been identified have multiple keywords assigned. 
+The People keywords field of the Shot & Scene group in 
+the Metadata Editor, populated with who is in that shot
+Once People keywords are assigned to one or more clips, a People smart category of smart bins can 
+automatically be created in the Smart Bins sidebar of the Media Pool, making it easy to immediately 
+begin finding clips that have specific people in them. To create this People Smart Bin, select 
+“Automatic Smart Bins for People Metadata” box in the Preferences > User > Editing window.
+You can reopen the Face Recognition window at any time to make modifications by choosing 
+Workspace > People. You can reset all faces by clicking the People Management Option menu and 
+choosing “Reset Face Database.”
+NOTE: A command in the Option menu of the Face Recognition window, Reset Face 
+Database, lets you reset all analyzed results if the results are not acceptable and you don’t 
+want to save the resulting metadata.
+432
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p433]]
+Creating Custom Metadata Groups
+The Metadata panel in the User Preferences lets you create custom sets of metadata parameters 
+that will be exposed in the Metadata Editor. Using this panel, you can create customized subsets of 
+metadata that are focused on your particular needs. 
+Presets that you create are available from the Option menu that’s just to the left of the Metadata 
+categories drop-down menu. 
+Choose any custom preset to restrict the Metadata Editor to only showing the metadata fields 
+in that preset. To see the full set of custom metadata fields you’ve saved to a particular preset, 
+you should set the Metadata Categories drop-down menu to All Groups. To make the full set 
+of metadata fields reappear, just choose default presets in the same drop-down.
+Custom Metadata Categories drop-down menu
+Making and managing metadata presets is simple.
+To create a new metadata preset:
+1	
+Open the Metadata panel of the User pane of the Preferences window, and click New.
+2	
+Click the checkboxes of every metadata tag you want to include in this preset, or click the 
+checkbox of a group name on the list to include all metadata tags within it.
+Every single metadata tag available in DaVinci Resolve appears within one of several groups that 
+appear as a list. To open any group to see its contents, move the pointer over that group’s entry 
+on the list, and click the Open button when it appears.
+3	
+When you’re finished, click the Save button under Metadata Options.
+4	
+Click the Save Button for the User Preferences.
+To edit an existing metadata preset:
+1	
+Select a preset from the list, and click Edit.
+2	
+Turn checkboxes on and off to include or exclude whatever tags you need.
+3	
+Click the Save button under Metadata Options.
+4	
+Click the Save Button for the User Preferences.
+To delete a metadata preset:
+Select a preset from the list and click Delete.
+433
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p434]]
+Importing and Exporting 
+Media Pool Metadata
+Once you’ve taken the trouble to add metadata to the clips in your project, DaVinci Resolve makes 
+it possible to export metadata from the Media Pool of one project for import into the clips of another 
+project, for instances where you need to move metadata around. 
+For example, a DIT might have entered a lot of metadata to the DaVinci Resolve project used for 
+generating dailies, but then an impatient editor might have created a separate project to begin editing 
+those dailies. Instead of requiring the editor to enter each clip’s metadata all over again, you can 
+export the metadata from the DIT’s project and import it into the editor’s new project, automatically 
+matching the relevant metadata to each corresponding clip.
+To export Media Pool metadata:
+1	
+Open a project containing Media Pool metadata you want to export.
+2	
+Optionally, select which clips in the Media Pool you want to export metadata for.
+3	
+Choose File > Export Metadata From > Media Pool to export metadata from every clip in the Media 
+Pool, or choose File > Export Metadata From > Selected Clips to only export metadata from clips 
+you selected in step 2.
+4	
+When the Export Metadata dialog appears, enter a name and choose a location for the file to be 
+written, then click Save. All metadata is exported into a .csv file that can be viewed and/or edited 
+in any spreadsheet application, or an Avid Log Exchange (.ale) file if you need compatibility with 
+Avid Media Composer.
+If you open the resulting metadata .csv file, the first line is a header that lists what metadata is to 
+be found for each item listed in this document, and in what order. Only metadata fields that have 
+been populated for at least one clip are exported and listed in this header; unused metadata fields 
+in the Metadata Editor or Media Pool are ignored. 
+This file can now be imported into another project file to reattach the metadata to the same clips.
+The Metadata Import Dialog
+434
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p435]]
+To import Media Pool metadata:
+1	
+Open a project containing clips you want to populate with imported metadata.
+2	
+Optionally, select which clips in the Media Pool you want to import metadata to.
+3	
+Choose File > Import Metadata To > Media Pool to import metadata to potentially every clip in the 
+Media Pool, or choose File > Import Metadata To > Selected Clips to only import metadata to clips 
+you selected in step 2.
+4	
+When the Import Metadata dialog appears, choose a metadata .csv or .ale file to import, and 
+click Open.
+5	
+When the Metadata Import dialog appears, choose the Import Options you want to use to match 
+the .csv file’s metadata to the correct clips in the currently open project. By default, DaVinci 
+Resolve tries to use “Match using filename” and “Match using clip start and end Timecode” to 
+match each line of metadata in the .csv file with a clip in the Media Pool, but there are other 
+options you can use such as ignoring file extensions, using Reel Name, and using source file 
+paths. You can also decide whether to import any additional metadata fields as custom metadata.
+6	
+Next, choose which Merge Option you want to use in the Metadata Import dialog. There are 
+three options:
+Only update metadata items with entries in the source file: The default setting. Only updates a 
+clip’s metadata if there’s a valid entry in the imported .csv file. Other clip metadata fields are left as 
+they were before the import.
+Update all metadata fields available in the source file: For each clip that corresponds to a line 
+of metadata in the imported .csv file, every single metadata field referenced by the .csv file is 
+overwritten, regardless of whether or not there’s a valid entry for that field.
+Update all metadata fields available in the source file and clear others: For each clip that 
+corresponds to a line of metadata in the imported .csv file, every single metadata field referenced 
+by the .csv file is overwritten, regardless of whether or not there’s a valid entry for that field. 
+Furthermore, metadata fields that aren’t referenced by the imported .csv file are cleared of 
+whatever metadata was there before.
+7	
+When you’re finished choosing options, click Ok and all available metadata from the source .csv 
+file will be imported.
+The Metadata Import dialog that lets you choose  
+options for how to match and merge imported metadata
+435
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p436]]
+Different Ways of Using Clip Metadata
+To encourage you to take advantage of the clip metadata tools that exist in DaVinci Resolve, here’s a 
+short list of the many different ways you can use clip metadata to help you work faster.
+	 Searching for clips in the Media Pool
+	 Searching for clips in the Timeline
+	 Sorting the Media Pool by metadata columns in list view
+	 Creating Smart Bins in the Edit page
+	 Creating Timeline Filters in the Color page
+	 Using Metadata to create clip Clip Names
+	 Displaying Metadata in frame using the Color page Burn In palette
+Renaming Clips Using Clip Names
+The most fundamental piece of clip metadata is each clip’s name, which is used to identify clips 
+nearly everywhere they appear inside DaVinci Resolve. By default, clips show the file name of the 
+corresponding media file on disk. Since the dawn of tapeless recording, however, editors have been 
+stuck with camera original media having names that are not exactly “human readable.” 
+Fortunately, you have the option of entering a more user-friendly clip name to use instead, while 
+preserving the original file name that’s critical for maintaining the link between a clip and its media, 
+as well as for tracking an offline clip’s corresponding link to the online media from which it originated. 
+There are a few ways you can edit the clip name of a clip.
+NOTE: You can also edit the clip names of timelines, compound clips, and multicam clips, so 
+that you can have two sets of naming conventions for these items, one for when you’re doing 
+creative editing, and one for when you’re doing finishing tasks.
+To edit a clip’s clip name, do one of the following:
+	 In the Media Pool’s Icon view, click a clip’s name once, pause a moment, then click a second time 
+to select the name, type a new name, then press return to accept the name.
+	 In the Media Pool’s List view, the Clip Name mirrors the source clip’s file name (hidden by default), 
+but you can click the Clip Name column for any clip to add a new name from scratch.
+	 With the Clip Name column exposed in the Media Pool’s List view, Option-click the Clip Name 
+column for any clip to edit the file name, rather than entering a brand new name.
+	 To edit the clip name of multiple clips, select all of the clips for which you want to change the clip 
+name, then right-click one of the selected clips and choose Clip Attributes. Open the Name panel 
+of the Clip Attributes window, edit the Clip Name field, and click OK.
+436
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p437]]
+After you’ve changed a clip’s clip name, that clip appears in the following places using the clip name 
+instead of the original file name:
+	 The Media Pool’s Thumbnail view
+	 The name bar of each clip in the Timeline
+	 The Source Viewer title bar
+	 The Clip Name field of the Clip Attributes dialog’s Name panel
+Switching Between File Names and Clip Names
+Since different tasks require different information, you have the ability to switch between using clip 
+file names and clip names. For example, finishing editors will probably have more reason to refer to 
+the file name of each clip, making it easier to troubleshoot problems with reconforming and relinking. 
+Creative editors, on the other hand, will want to use easier-to-read clip names to make it easier to find 
+what they need.
+To switch between file names and clip names:
+	 Choose View > Show File Names to toggle between both naming conventions.
+Using Metadata to Define Clip Names
+If you’re an enthusiastic user of clip metadata (and you should be), you can use “metadata variables” 
+that you can add into a field that let you reference other metadata for that clip. For example, you could 
+add the combination of variables and text seen in the following screenshot to define a clip name 
+automatically. Variables, once they’ve been entered, are represented as graphical tags shown with a 
+background, while regular text characters that you enter appear before and after these tags.
+ 
+Variables and text characters entered to create a 
+clip name based on a clip’s metadata
+As a result, that clip would display “12_A_3” as its name if scene “12,” shot “A,” and take 
+“3” were its metadata. When you do this, you can freely mix metadata variables with other 
+characters (the underscore, as in the example above) to help format the metadata to make it 
+even more readable. 
+Every single item of metadata that’s available in the Metadata Editor can be used as a 
+variable, and several other clip and timeline properties such as the version name of a 
+clip’s grade, a clip’s EDL event number, and that clip’s timeline index number can be also 
+referenced via variables. 
+Since the use of metadata variables is a great way to automatically generate names for 
+multiple clips, you may find it more useful to add metadata variable-driven clip names by 
+selecting all of the clips you want to edit, and opening the Clip Attributes window. By editing 
+the Clip Name field found in the Name panel, you can add a single clip name to all selected 
+clips at once.
+437
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p438]]
+To add a variable to a text field that supports the use of variables:
+1	
+Type the percentage sign (%) and a scrolling list appears showing all variables that are available. 
+2	
+To find a specific variable quickly, start typing the characters of that variable’s name and this list 
+automatically filters itself to show only variables that contain the characters you’ve just typed. 
+3	
+Choose which variable you want to use using the Up and Down Arrow keys, and press Return to 
+choose that variable to add.
+The variable list that appears when you type the % character
+As soon as you add one or more metadata variables to a clip’s Clip Name column and press 
+Return, the string is replaced by its corresponding text. To re-edit the metadata string, simply 
+click within that column, and the metadata variables will reappear. Be aware that, for clips where a 
+referenced metadata field is blank, no characters appear for that corresponding metadata variable 
+in the Clip Name column.
+To remove a metadata variable:
+•	 Click within a field using variables to begin editing it, click a variable to select it, and 
+press Delete.
+For more information on the use of variables, as well as a list of all variables that are available 
+in DaVinci Resolve, jump to this chapter: Using Variables and Keywords.
+438
+Ingest and Organize Media | Chapter 18 Using Clip Metadata
+MEDIA
+
+[[p439]]
+Chapter 19
+Using the Inspector 
+in the Media Page
+The Inspector holds all the controls to modify, resize, retime, and generally adjust 
+anything related to a clip, transition, or effect on the Media page Timeline.
+Contents
+Using the Inspector............................................................................................................................................................................. 440
+Adjusting Media Pool Clips in the Inspector.......................................................................................................................... 440
+Video............................................................................................................................................................................................................ 441
+Audio........................................................................................................................................................................................................... 445
+Image..........................................................................................................................................................................................................  447
+File ............................................................................................................................................................................................................... 448
+439
+Ingest and Organize Media | Chapter 19 Using the Inspector in the Media Page
+MEDIA

@@ -1,0 +1,39 @@
+Fuente: https://helpx.adobe.com/premiere/desktop/add-text-images/use-motion-graphics-templates/install-motion-graphics-templates.html
+Leído: 25-09-2026 (descarga directa de helpx.adobe.com; texto de la página sin navegación)
+
+Work with Photoshop and Premiere
+Install Motion Graphics templates
+Last updated on
+Jan 7, 2026
+Learn how to install a Motion Graphics template file (.mogrt) in Adobe Premiere.
+When you install a Motion Graphics template file (.mogrt) in Premiere, the imported Motion Graphics template will be installed under the
+My Templates
+tab in the
+Graphics Templates
+panel. You can simply drag and drop it into your timeline and start customizing it.
+Select
+Window
+>
+Graphics Templates
+to open the panel where you can manage your Motion Graphics templates.
+Select the
+Install Motion Graphics template
+icon in the upper-right corner of the
+Graphics Templates
+panel.
+Select the Install Motion Graphics template to open the folder where they are located.
+Select the Install Motion Graphics template to open the folder where they are located.
+Navigate to a folder where the Motion Graphics template is saved and select
+Open
+.
+You can also install multiple Motion Graphics templates at once by dragging them from the
+Finder
+or the
+Explorer Window
+into the
+My Templates
+tab of the
+Graphics Templates
+panel.
+Note
+Any Motion Graphics template stored in your Creative Cloud Libraries is automatically available for use in Premiere. It doesn't need to be installed.

@@ -1,0 +1,265 @@
+
+[[p3085]]
+Chapter 125
+Introduction to 
+Color Grading
+For over thirty years, DaVinci has pioneered the development of color 
+correction hardware and software designed to enhance visual images 
+acquired from film and video. 
+This release of DaVinci Resolve possesses our newest and most evolved professional color correction 
+tools yet. However, for all its technological sophistication, DaVinci Resolve is merely a tool that 
+requires the hands of a skilled artist to realize its full potential.
+Subsequent chapters of this user manual cover the DaVinci Resolve grading tools in the Color page 
+in great detail, but before getting into the specifics of color balancing and contrast adjustment, 
+Power Windows, and Custom Curves, it’s important to step back and consider what these tools are for, 
+and why you’re learning to use this application in the first place.
+This introduction is for those of you who are new to this process we call color correction, 
+or color grading. If you’re a veteran colorist then you might want to skip ahead, but if you’re just 
+starting out, the following sections are intended to describe the many goals of color correction, and 
+how the DaVinci Resolve toolset has been designed to address them; making it fast and efficient to 
+alter images in innumerable ways as we elevate raw footage to cinematic art.
+Contents
+The Goals of Color Correction.................................................................................................................................................... 3086
+Maximizing the Look of Your Media........................................................................................................................................ 3086
+Emphasizing What’s Important.................................................................................................................................................. 3089
+Audience Expectations.................................................................................................................................................................. 3090
+Balancing Scenes............................................................................................................................................................................... 3091
+Adding Style......................................................................................................................................................................................... 3092
+Quality Control................................................................................................................................................................................... 3095
+Never Stop Experimenting........................................................................................................................................................... 3096
+3085
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3086]]
+The Goals of Color Correction
+If reality is a fire hose of visual information, then digital cinema and broadcast would be represented 
+by a garden hose. Color correction, therefore, could be considered the process of choosing which 
+parts of the fire hose of raw image data to fit into the garden hose of our displays in order to create a 
+pleasing image for the viewer. 
+Maximizing the Look of Your Media
+Clearly, the most fundamental aspect of the color correction process is that of making every clip 
+look its best. While the job of the cinematographer is to light and expose the image with an artistic 
+intent, your job is to realize this intent by making adjustments to the color and contrast of the 
+image, so that the final result is as close to what the director and cinematographer had in mind as 
+is humanly possible. In the process, you have the opportunity to overcome inconsistencies with 
+exposure and white balance that were, for various reasons, unavoidable. Furthermore, you can make 
+subtle adjustments to add warmth or contrast that was not available during the shoot, but that the 
+cinematographer would have liked.
+Increasingly, color correction is seen as a critical stage in the post-production process. For example, 
+the newer generation of digital cinema cameras are capable of shooting raw colorspace image data, 
+or RGB image data with a log exposure, in order to preserve the maximum amount of image data for 
+manipulation during the color correction process. However, when you acquire image data this way, 
+it must be transformed into a viewable image via color correction in the same way that film negative 
+must first be developed and printed to positive film.
+Log encoded source 	
+Normalized and corrected
+Source footage courtesy of Gianluca Bertone DP, www.bertonevisuals.com
+Of course, there are also situations in which you may find it necessary to attempt to fix source media 
+with far more substantial problems in color and exposure. In these cases, the tools exist to make far 
+more involved adjustments to the image; however, the quality of your results will depend heavily on 
+the data quality and “latitude” of your source media. 
+For example, Blackmagic URSA, ARRI ALEXA, and RED DRAGON cameras record quite a bit of image 
+data, making extreme corrections far more possible than more heavily compressed camera formats 
+such as the Canon 5D. However, in either case, DaVinci Resolve provides the tools to process images 
+in many different ways to adjust the image for a better look.
+3086
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3087]]
+Underexposed source 	
+Balanced and gain corrected
+Whether clips need changes large or small, the primary DaVinci Resolve toolset adjusts the 
+characteristics of hue, saturation, and contrast in a variety of ways. In the Color Wheels palette, 
+Color balance wheels let you adjust all three color channels at once, altering the color temperature 
+of the scene at specific ranges of tonal detail referred to as lift, gamma, and gain. Alternately, the 
+slider‑based Primaries Bars mode lets you make the same kinds of controls via independently 
+adjustable red, green, and blue lift, gamma, and gain controls.
+Primary correction wheels, Primary correction bars
+3087
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3088]]
+All of these controls let you adjust the color tone of the shadows, midtones, and highlights 
+independently from each other.
+Cool look	Warm look
+Meanwhile, the Master Lift, Gamma, and Gain wheels work together to let you alter image contrast in 
+different ways: deepening shadows, lightening highlights, and brightening or darkening the midtones 
+in between to create whatever image tonality you prefer for a given scene.
+High contrast	
+Low contrast
+Source footage courtesy of Gianluca Bertone DP, www.bertonevisuals.com
+Separate saturation controls let you increase or decrease color intensity throughout the scene, while 
+the Lum vs. Sat and Sat vs. Sat curves give you the ability to fine-tune saturation very specifically.
+High Saturation	
+Low Saturation
+For more information on these controls, which are essential to the color correction process,  
+jump to this chapter: Primaries Palette.
+3088
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3089]]
+Emphasizing What’s Important
+Another important aspect of the color correction process is the ability to make adjustments 
+to emphasize or de-emphasize specific elements within the frame. It’s similar in concept to 
+equalization in audio mixing, in that you’re choosing which color values to boost or suppress using a 
+variety of techniques.
+This can be done to direct the viewer’s gaze, for example by surrounding a specific part of the image 
+with a window, which lets you restrict specific adjustments made to the inside and outside of the 
+window’s shape.
+Drawing a window to isolate a region of the picture to highlight
+Specific alterations can also be made to prevent audience distraction. For example, a low-saturation 
+monochromatic tint may be a pleasing look overall, but in the soft wash of color, the viewer might lose 
+track of the watch that’s preoccupying the protagonist. Using tools such as the Hue curves and HSL 
+Qualifier, you can quickly and easily tune the color of the woman’s hands and of the watch to guide the 
+viewer’s eye, and bring some needed depth to the scene.
+Source image	
+Curves and HSL qualification used to 
+distinguish hands and highlight watch
+For more information on Power Windows, jump to this chapter: Secondary Windows.  
+For more information on Hue curves, jump to this chapter: Curves.
+3089
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3090]]
+Audience Expectations
+There is another family of tools, the HSL, RGB, and Luma Qualifiers, that provide even more specific 
+control, and they’re useful for adjusting ranges of color to either play into or against the audience 
+expectations for color in a scene. Substantial research into what has been termed “memory color” 
+shows that people have finely tuned expectations for the hues of particular subjects, such as 
+flesh tone, foliage greens, and sky blues. Deviation from these expectations can create a sense of 
+something being not quite right, which can be either detrimental or beneficial, depending on your 
+goals for a particular scene.
+HSL Qualification is effectively a chroma keyer that lets you sample the image to create a key that’s 
+used to define where to apply a specific correction. 
+For example, if you’re happy with the rest of the image, but the skin tone of the actor has an unhealthy 
+green tinge to it as a result, you can isolate the color of that actor’s skin and adjust it to a healthier hue.
+Source Image	
+HSL qualification on the skin
+Skin now has warmer grade
+Another common example is the adjustment of skies. If you’re aiming for a gorgeous summer day, a 
+washed out sky in the source media can be a bit of a bummer. However, using qualification it’s easy to 
+isolate that wedge of blue, then push and pull it into just the right amount of summertime joy.
+Originally graded scene	
+HSL qualification of the sky
+3090
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3091]]
+Corrected and sky enhanced
+For more information on using qualifiers, jump to this chapter: Secondary Qualifiers.
+Balancing Scenes
+It’s rare when the uncorrected shots of a scene match one another perfectly. Even the most carefully 
+exposed angles of coverage can have small variances that need to be evened out. On the other end 
+of the spectrum, run-and-gun programs using available light often result in edited scenes with huge 
+changes in lighting and color as each shot cuts away to the next. 
+Small or large, unintended variations from one shot to the next can call undue attention to the editing, and 
+jar the audience’s attention in ways that throw them out of the program. Evening out these differences 
+and balancing the clips in each scene to match is another of the fundamental tasks of the colorist. 
+You know you’re finished when the color in the scene flows unnoticeably from one clip to the next.
+DaVinci Resolve has a variety of tools that you can use to help you compare images with one another, 
+the most important of which is the Gallery, in which you can save still images of clips that you can then 
+compare to other clips using an adjustable split screen.
+Timeline thumbnail view of unbalanced clips
+Thumbnail view of balanced clips
+By using the Gallery to play stills, either split or whole (flipping back and forth between the clip you’re 
+adjusting and the still), it becomes easier to use the extensive DaVinci Resolve toolset to match the 
+color and exposure of every clip in a scene.
+3091
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3092]]
+Split screen of two shots	
+Left image corrected to match right
+An additional set of features let you manage grades by copying them from clip to clip, or by linking 
+similar clips, either automatically, or manually using groups.
+Link icon indicates clips are grouped for grading
+For more information on using the Still Store, jump to this chapter: Using the Color Page.  
+For more information on grade management, jump to this chapter: Grade Management.
+Adding Style
+Of course, it’s not all about subtlety and correction. It’s often appropriate, when grading music videos 
+and commercials, for instance, to add some radical style to a piece. Here, too, DaVinci Resolve 
+provides an abundance of features for manipulating unexpected aspects of the image; for example, by 
+abusing the Custom Curves to create the illusion of chemical cross‑processing.
+Custom Curves controls
+3092
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3093]]
+Original image	
+Image enhanced with Curves
+DaVinci Resolve’s node-based image processing makes it possible to use more exotic node structures 
+to create effects using composite modes, such as a colored glow generated by adding two differently 
+graded versions of the same image together using a Layer node.
+Node tree adding two different treatments together
+Original image	
+Enhanced and balanced final
+You can also create complex node trees to build specific mattes, to use for isolating specific elements 
+of the image. For example, if you wanted to isolate an actor in color against a background turned 
+monochromatic, you can create multiple keys (pulled via HSL Qualification) and combine them using a 
+Key Mixer node to build that effect.
+3093
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3094]]
+Node tree to isolate the man’s face and clothes
+Original image	
+The final effect, desaturating 
+everything except for the man
+Finally, DaVinci Resolve doesn’t just have tools governing color and contrast. A Blur palette provides 
+controls over blurring, sharpening, or adding mist to all or part of the image. When combined with the 
+other tools that are available for isolation and color adjustment, these are powerful additions to your 
+creative arsenal.
+Defocus effect created in real time
+3094
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3095]]
+Quality Control
+Lastly, it’s important to keep in mind that, for all the creative possibilities that DaVinci Resolve affords, 
+it’s still important that the final deliverables that you give to your client has appropriate signal levels 
+relative to their requirements. In particular, programs destined for broadcast have specific outer 
+boundaries of luma and chroma that you must not exceed, or you’ll risk having a show rejected for 
+QC (quality control) violations. 
+However, even if you’re not delivering a show for broadcast, it’s important to be aware of the 
+mathematical limitations of a digital video signal to make sure you’re not clipping or crushing image 
+detail through overzealous adjustments that you may, in fact, want to preserve.
+For example, if you take a look at the next two images, you can see the perils of overzealous 
+adjustments when compared to a clip that, while graded creatively, has been adjusted with respect to 
+the mathematical boundaries of image data.
+Image graded to preserve detail in highlights	
+Image graded with highlight detail blown out
+Here, too, DaVinci Resolve provides tools designed to help you exercise control over the fine-tuning 
+of the image. A Video Scopes window provides the standard Waveform, Parade, Vectorscope, and 
+Histograms that are used to analyze your image data. These scopes let you see the boundaries of 
+what’s possible, and make it easy to spot subtle problems, and compare the characteristics of one 
+image to another.
+Video scopes
+3095
+Color | Chapter 125 Introduction to Color Grading
+COLOR
+
+[[p3096]]
+When the time comes that you want to start clipping data in the highlights and shadows, as part of 
+a creative look, the Soft Clip controls let you introduce a subtle or large roll-off, compressing the 
+extremes of the signal so that what clipping you do is softer and more pleasing.
+For more information on the video scopes and the Soft Clip controls, jump to these chapters: 
+Using the Color Page and Curves.
+Never Stop Experimenting
+So now that you’ve gotten an extremely brief overview of the grading process as seen through 
+the toolset of DaVinci Resolve, we invite you to use this manual to explore DaVinci Resolve more 
+thoroughly. You may discover that, the more you work with the different features that are available, 
+the more unexpected uses you’ll find for different controls that you thought you knew well.
+Have fun.
+3096
+Color | Chapter 125 Introduction to Color Grading
+COLOR

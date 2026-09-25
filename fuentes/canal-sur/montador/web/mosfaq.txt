@@ -1,0 +1,68 @@
+ 
+ MOS FAQ | MOS Project 
+ MOS Project 
+ Search 
+ Primary Menu 
+ Skip to content 
+ Welcome 
+ MOS Documentation 
+ Prior Versions 
+ Additional Documents 
+ MOS Meetings 
+ Prior MOS Meetings 
+ MOS Protocol on Slack 
+ FAQ 
+ Promote MOS 
+ Search for: 
+ MOS FAQ
+ Contents:
+ MOS is an acronym for? 
+ What does MOS do? 
+ Who Participates in the Development of MOS? 
+ What are the Goals of the MOS Group? 
+ Where is the MOS Protocol Defined? 
+ What is a “MOS?” 
+ What are Media Objects? 
+ What is the NCS responsible for? 
+ What is the MOS responsible for? 
+ The first meeting of the MOS Development Group was held in the late summer of 1998.
+ MOS is an acronym for?
+ MOS is short for Media Object Server Communication Protocol. The MOS Protocol is intended to be a global industry solution to the problem of “How do I get my brand-X computer system to communicate with my brand-Y media server?”
+ What does MOS do? 
+ Media Object Server Communications Protocol allows Newsroom Computer Systems (NCS) and Media Object Servers (MOS) to exchange information using a standard protocol (language and vocabulary).  This protocol enables the exchange of the following type of messages:
+ Descriptive Data for Media Objects .  The MOS “pushes” descriptive information and pointers to the NCS as objects are created, modified, or deleted in the MOS.  This allows the NCS to be “aware” of the contents of the MOS and enables the NCS to perform searches on and manipulate the data the MOS has sent.
+ Playlist Exchange.  The  NCS can build and transfer playlist information to the MOS.  This allows the NCS to control the sequence that media objects are played or presented by the MOS.
+ Status Exchange.   The MOS can inform the NCS of the status of specific clips or the MOS system in general.  The NCS can notify the MOS of the status of specific playlist items or running orders.
+ Who Participates in the Development of MOS? 
+ Some of the best software and hardware vendors in the Broadcast Industry are participating in the development of the MOS Protocol.  The first meeting of the group was held in Orlando, Florida during the late summer of 1998 at the AP’s ENPS developer’s conference.  Based on feedback from the hardware and software vendors present, and AP’s own desire for an open protocol, the fundamental concepts of MOS were released to the public domain.
+ As of 2021 more than 150 companies participate in the development of MOS.  Worldwide, they include some of the largest and most influential software and hardware vendors in the broadcast industry.
+ What are the Goals of the MOS Group?
+ Develop and Implement a communication protocol for use between NCS and MOS which will allow these machines to communicate with each other independent of vendors.
+ Common implementation of the protocol will be over a TCP/IP network via socket communication.
+ Messages will be concise and optimized for speed of transmission and processing.
+ Messages will make use of a tagged text unicode format.
+ The protocol will be extensible to meet future industry requirements
+ Each new version of the protocol will be a “super set” of the previous version, enabling machines using an older version of the protocol a method of communicating with newer machines, though using a smaller, older, and reduced feature vocabulary.
+ Development of the protocol will be through cooperation of participating companies.
+ Development of the protocol will be done in an expeditious manner so that software and hardware products which support the protocol can be brought to market quickly.
+ Those who participate in the development of the protocol agree to publicly support it through their own PR and Marketing efforts as an industry initiative which they participate and support.
+ The protocol will be presented to appropriate standards bodies at a later date.   However, it is acknowledged that the process of having a protocol reviewed and adopted as an “official” standard can be a lengthy process.  Those who contribute to the development of this protocol agree that our work should not be slowed nor the implementation of our work predicated on the official “blessing” of a standards body.
+ Where is the MOS Protocol Defined? 
+ The MOS protocol is defined in the current version section above.
+ What is a “MOS?” 
+ A Media Object Server (MOS) is any device capable of storing Media Objects.
+ What are Media Objects? 
+ Media Objects are defined as:
+ CGs (Character Generator Objects)
+ Audio
+ Still Store
+ Video
+ It is generally assumed, though not a requirement,  that these objects will be stored in a non-linear device.
+ Other types of Media Objects may be  added to this list.
+ What is the NCS responsible for? 
+ In General, the Newsroom Computer System is responsible for the creation, modification, and deletion of editorial information, including playlists.
+ What is the MOS responsible for? 
+ In General, the Media Object Server is responsible for the creation, modification, and deletion of media objects and their associated meta-data.
+ The Development of the MOS Protocol is a collaborative effort.
+ Proudly powered by WordPress 
+

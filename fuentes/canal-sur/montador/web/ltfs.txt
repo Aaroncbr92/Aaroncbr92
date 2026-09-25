@@ -1,0 +1,134 @@
+ Linear Tape File System (LTFS) Specifications | Ultrium LTO 
+ Subscribe to Newsbytes 
+ Licensee Login 
+ Contact Us 
+ Search for: 
+ ABOUT LTO What is LTO Technology? 
+ Benefits of LTO Technology 
+ LTO Technology Use Cases 
+ FAQs about LTO Technology 
+ LTO Technology Participants 
+ LTO TECHNOLOGY Roadmap 
+ LTO Generation 8 
+ LTO Generation 9 
+ LTO Generation 10 
+ LTO Compatibility 
+ Linear Tape File System 
+ Encryption 
+ Active Archiving 
+ Sustainability 
+ Cybersecurity 
+ NEWS Latest Headlines 
+ NewsBytes 
+ BlogBytes 
+ Analyst and Media Quotes 
+ Press Releases 
+ Press Release Archive 
+ RESOURCES INSIC Roadmap 2024 
+ Podcasts & Webinars 
+ Videos 
+ White Papers and Reports 
+ Case Studies 
+ Superhero Ebook 
+ LICENSING Licensing Process 
+ Licensee Login 
+ Select Page 
+ LINEAR TAPE FILE SYSTEM
+ &#x3b; 
+ What is the Linear Tape File System (LTFS)? 
+The Linear Tape File System (LTFS) makes it easy to quickly and precisely locate and retrieve any
+item of data stored on an LTO Ultrium tape cartridge. LTFS works in conjunction with LTO
+technology’s partitioning feature to speed up and simplify access to data stored on LTO Ultrium
+and is included with all generations since LTO-5. LTO LTFS data compression made easy.
+ LTFS partitioning allows a portion of the tape to be reserved for indexing, which tells the drive precisely where in the tape a file is stored. The second partition holds the actual file. The indexing information is first read by the drive and presented in a simple, easy-to-use format that allows for drag-and-drop capabilities. It’s as fast and straightforward as searching and retrieving data volumes stored on a USB flash drive.
+   Find out more about LTFS in our White Papers and Reports   or by watching the video. 
+ LTFS Adoptees 
+ 1 Beyond 
+ Click for more 
+ Archiware 
+ Click for more 
+ Arkivum 
+ Click for more 
+ Atempo 
+ Click for more 
+ Bright Technologies 
+ Click for more 
+ X2X Media Group 
+ Click for more 
+ Digital Bedrock 
+ Click for more 
+ EStructure 
+ Click for more 
+ Etere 
+ Click for more 
+ For.A 
+ Click for more 
+ FUJIFILM 
+ Click for more 
+ Imagine Products 
+ Click for more 
+ intellique 
+ Click for more 
+ MagStor 
+ Click for more 
+ mLogic 
+ Click for more 
+ Nodeum 
+ Click for more 
+ Odyssey Development 
+ Click for more 
+ Oracle 
+ Click for more 
+ Panasonic 
+ Click for more 
+ Point Software & Systems 
+ Click for more 
+ proMax 
+ Click for more 
+ Qstar Technologies 
+ Click for more 
+ Qualstar 
+ Click for more 
+ Retrospect 
+ Click for more 
+ Spectra Logic 
+ Click for more 
+ storageDNA 
+ Click for more 
+ Storage Heaven 
+ Click for more 
+ Strong Box Data Solutions 
+ Click for more 
+ Symply 
+ Click for more 
+ Telestream 
+ Click for more 
+ Tiger Technology 
+ Click for more 
+ Unitex 
+ Click for more 
+ XenData 
+ Click for more 
+ YoYotta 
+ Click for more 
+ Case Studies 
+ Read how others are using Linear Tape File System in our Case Studies  section 
+ Developers Rave About LTFS 
+ With LTFS, tape looks more like disk.
+ LTO Tech Makes an Impact for BAMM
+ With more than 80 TB of storage, tape tops disk for the producers at BAMM. 
+ Screenscape Saves Money and Space with LTO Tech 
+ For archiving footage, LTO technology with LTFS has been a “no brainer” for the production company. 
+ Getting Started With LTFS Studies 
+ You can download LTFS software from one of the three LTO Program vendors. 
+ Hewlett Packard Enterprise Company, International Business Machines Corporation and Quantum Corporation collaborate and support technology specifications, licensing, and promotions of LTO Ultrium products.
+ © 1999 – 2026 Hewlett Packard Enterprise, IBM and Quantum. All rights reserved. Information subject to change without prior notice. All trademarks and registered trademarks contained herein are the property of their respective owners.
+ Linear Tape-Open LTO, the LTO logo, Ultrium and the Ultrium logo are registered trademarks of Hewlett Packard Enterprise, IBM and Quantum in the US and other countries.
+ Privacy Policy 
+ Cookie Policy 
+ Sitemap 
+ Press Releases 
+ X 
+ RSS 
+ This website uses cookies to ensure you get the best experience on our website. GOT IT! LEARN MORE 
+ 

@@ -1,0 +1,139 @@
+
+Configuración de codificación recomendada para las subidas a YouTube
+Solo los partners que utilizan el Gestor de contenido de YouTube Studio pueden acceder a estas funciones.
+A continuación se detalla la configuración de codificación de subidas recomendada para los vídeos de YouTube.
+Contenedor: MP4
+Sin listas de edición (de lo contrario, el vídeo podría no procesarse correctamente)
+Atom moov al principio del archivo (inicio rápido)
+Códec de audio: AAC-LC, Opus o Eclipsa Audio
+Canales: estéreo, estéreo con 5.1 o estéreo con Eclipsa Audio
+Frecuencia de muestreo: 48 kHz
+Códec de vídeo: H.264
+Exploración progresiva (sin entrelazado)
+Perfil alto
+Dos fotogramas consecutivos de tipo B
+GOP cerrado (grupo de imágenes equivalente a la mitad de la frecuencia de imagen)
+CABAC
+Tasa de bits variable (no se requiere ningún límite, pero puedes consultar los valores de tasa de bits recomendados a continuación como referencia)
+Submuestreo de croma: 4:2:0
+Frecuencia de imagen
+El contenido se debe codificar y subir con la misma frecuencia de imagen con la que se grabó.
+Frecuencias de imagen más comunes: 24, 25, 30, 48, 50 y 60 fotogramas por segundo (también son aceptables otras frecuencias).
+El contenido entrelazado se debe desentrelazar antes de subirlo. Por ejemplo, el contenido a 1080i60 se debe desentrelazar a 1080p30; es decir, de 60 campos entrelazados por segundo a 30 fotogramas progresivos por segundo.
+Tasa de bits
+Las siguientes tasas de bits son las recomendadas para las subidas. La tasa de bits de la reproducción de audio no está relacionada con la resolución del vídeo.
+Tasas de bits de vídeo recomendadas para las subidas SDR
+Para ver vídeos nuevos en 4K, usa un navegador o dispositivo compatible con VP9.
+Tipo
+Tasa de bits de vídeo, frecuencia de imagen estándar
+(24, 25, 30)
+Tasa de bits de vídeo, frecuencia de imagen alta
+(48, 50, 60)
+8K
+80-160 Mbps
+120-240 Mbps
+2160p (4K)
+35-45 Mbps
+53-68 Mbps
+1440p (2K)
+16 Mbps
+24 Mbps
+1080p
+8 Mbps
+12 Mbps
+720p
+5 Mbps
+7,5 Mbps
+480p
+2,5 Mbps
+4 Mbps
+360p
+1 Mbps
+1,5 Mbps
+Tasas de bits de vídeo recomendadas para las subidas HDR
+Tipo
+Tasa de bits de vídeo, frecuencia de imagen estándar
+(24, 25, 30)
+Tasa de bits de vídeo, frecuencia de imagen alta
+(48, 50, 60)
+8K
+100-200 Mbps
+150-300 Mbps
+2160p (4K)
+44-56 Mbps
+66-85 Mbps
+1440p (2K)
+20 Mbps
+30 Mbps
+1080p
+10 Mbps
+15 Mbps
+720p
+6,5 Mbps
+9,5 Mbps
+480p
+Incompatible
+Incompatible
+360p
+Incompatible
+Incompatible
+Tasas de bits de audio recomendadas para las subidas
+Tipo
+Tasa de bits de audio
+Mono
+128 Kbps
+Estéreo
+384 Kbps
+5.1
+512 Kbps
+Nota:
+ Para Eclipsa Audio (audio inmersivo), recomendamos 128 kbps por canal.
+Resolución y relación de aspecto de los vídeos
+La relación de aspecto estándar de YouTube en ordenadores es 16:9. Si subes vídeos con otras relaciones de aspecto (como vertical o cuadrada), el reproductor se adaptará automáticamente al tamaño del vídeo. Esta configuración permite ofrecer una experiencia de visualización óptima según la relación de aspecto y el dispositivo en que se reproduzca.
+Descubre cómo 
+utilizar la resolución y la relación de aspecto de los vídeos
+ correctamente.
+Espacio de color
+Espacio de color recomendado para subidas SDR
+YouTube recomienda usar BT.709 como espacio de color estándar para las subidas SDR:
+Espacio de color
+Características de transferencia de color (TRC)
+Colores primarios
+Coeficientes de la matriz de color
+BT.709
+BT.709 (valor de H.273: 1)
+BT.709 (valor de H.273: 1)
+BT.709 (valor de H.273: 1)
+Antes de procesar los vídeos, YouTube estandariza las matrices de color y los colores primarios que son similares a efectos prácticos. Por ejemplo, BT.601 y BT.709 TRC son idénticos y, por lo tanto, YouTube los unifica en BT.709. Lo mismo ocurre con BT.601 NTSC y BT.601 PAL; puesto que tienen matrices de color similares, YouTube los unifica en BT.601 NTSC. Además, YouTube puede llevar a cabo las siguientes acciones para interpretar los valores de espacio de color:
+Cuándo
+Acción de YouTube
+No se ha especificado la TRC del espacio de color de la subida.
+Utiliza BT.709 TRC.
+No se han especificado la matriz de color ni los colores primarios de la subida o sus valores son desconocidos.
+Utiliza la matriz de color y los colores primarios BT.709.
+El espacio de color combina los colores primarios y la matriz de color BT.601 y BT.709, y sus valores se han especificado.
+Hace que la matriz de color prevalezca sobre los colores primarios y los unifica.
+El espacio de color combina los colores primarios y la matriz de color BT.601 y BT.709, y no se han especificado los colores primarios o la matriz de color.
+Hace que el valor especificado de los colores primarios o de la matriz de color prevalezca sobre el que no se ha especificado.
+ Una vez realizada la estandarización del espacio de color de la subida, YouTube comprueba si el espacio de color se corresponde con BT.709 o con BT.601, en cuyo caso se pasa a ese espacio. De lo contrario, YouTube convierte los espacios de color no admitidos a BT.709 asignando valores de píxeles.
+Nota:
+ YouTube convierte los colores primarios que requieren una profundidad de bits alta sin una función de transferencia de HDR apropiada para evitar que haya cambios bruscos entre tonos. Por ejemplo, convierte BT.2020 a BT.709 (8 bits). Además, YouTube cambia las gamas de color completas por gamas limitadas.
+Advertencia:
+ YouTube no recomienda la matriz de color RGB para las subidas. Si se utiliza, primeramente, YouTube asumirá que no se ha especificado la matriz de color antes de realizar la estandarización. Durante el proceso de estandarización, deducirá la matriz de color a partir de los colores primarios. Ten en cuenta que sRGB TRC pasará a ser BT.709 TRC. YouTube define los colores primarios, la matriz de color y la TRC como BT.709 si el filtro de conversión del espacio de color FFmpeg no los admite.
+Espacio de color recomendado para subidas HDR
+Consulta el artículo sobre la 
+subida de vídeos HDR
+.
+Aprende a utilizar el 
+audio espacial
+, los 
+vídeos en 360°
+ y los de 
+ realidad virtual
+ para que los espectadores puedan disfrutar de contenido con sonidos procedentes de todas las direcciones, como en la vida real.
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+¿Te ha resultado útil esta información?
+¿Cómo podemos mejorar esta página?
+Sí
+No
+Enviar

@@ -1,0 +1,650 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guía para elaborar 
+Material Multimedia Accesible 
+ 
+ 
+Unidad de Atención a la Diversidad  
+ 
+ 
+ 
+
+ 
+ 
+ 
+Glosario de términos 
+ 
+Accesibilidad: Es la condición que deben presentar, en este caso, los 
+documentos para poder ser utilizados por todas las personas de forma 
+autónoma, segura y eficiente. 
+ 
+Ayudas técnicas o productos de apoyo: Son herramientas (software, 
+dispositivos…) que facilitan la accesibilidad de las personas con 
+discapacidad o con necesidades específicas de apoyo educativo. 
+ 
+Apuntador: Dispositivo de entrada conectado a un ordenador o a un terminal, 
+cuya función es mover el cursor por la pantalla para dar órdenes. 
+Ejemplos: ratón, trackball, joystick, touchpad, headmaster, etc. 
+ 
+Contraste: Diferencia relativa en la intensidad entre un punto de una imagen y 
+sus alrededores. 
+ 
+Diseño para todos o diseño universal: Actividad por la que se concibe o 
+proyecta, desde el origen, entornos, procesos, bienes, productos, 
+servicios, objetos, instrumentos, dispositivos o herramientas, de tal forma 
+que puedan ser utilizados por todas las personas sin necesidad de 
+efectuar ni adaptaciones, ni un diseño especializado. 
+ 
+Lectores de Pantalla: Son programas que utilizan las personas ciegas para 
+navegar y leer páginas web, documentos a través de su ordenador, el 
+más conocido es el JAWS. Identifica e interpreta lo que aparece en la 
+pantalla por medio de sintetizadores de texto a  voz, iconos sonoros o 
+una salida braille. 
+ 
+ 
+ 
+
+ 
+ 
+Índice de contenidos  
+1. 
+Pautas generales de accesibilidad en contenidos multimedia .................... 1 
+2. 
+La transcripción en formato texto ................................................................ 2 
+3. 
+Subtítulos .................................................................................................... 3 
+3.1  Requisitos de los subtítulos .............................................................................................. 4 
+4. 
+La Audiodescripción .................................................................................... 7 
+5. 
+Interpretación en lengua de Signos ............................................................. 9 
+6. 
+Herramientas para crear videos accesibles .............................................. 12 
+6.1 Herramientas online ................................................................................ 12 
+6.2 Herramientas de escritorio ...................................................................... 13 
+6.3 Herramientas reconocimiento del habla .................................................. 14 
+Webgrafía ......................................................................................................... 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+Pautas generales de accesibilidad en contenidos multimedia  
+El término multimedia hace referencia al uso conjunto de diversos medios, como 
+texto, imágenes y sonidos para transmitir la información. La combinación 
+adecuada de estos medios, mejora la atención y la comprensión de los 
+contenidos, ya que el resultado se asemeja a la forma habitual de comunicarnos.   
+Cada vez es más frecuente la inclusión de elementos multimedia, como audio y 
+video, en los contenidos de enseñanza - aprendizaje. El video puede ser el 
+recurso más utilizado, ya que al involucrar las imágenes y los sonidos, aumenta 
+el potencial de comunicación haciendo los contenidos más llamativos y fáciles 
+de asimilar. El uso habitual de material multimedia hace necesario tener en 
+cuenta los requisitos de accesibilidad  para eliminar las barreras de acceso que 
+puedan encontrar determinadas personas con algún tipo de discapacidad.  
+Con carácter general, las pautas de accesibilidad que podemos aplicar a los 
+contenidos multimedia son (Observatorio de Accesibilidad, 2014): 
+- Evitar la reproducción automática de los elementos de vídeo o audio al 
+cargar la página. Esto podría dar lugar a distracciones o confusiones, 
+además de ralentizar el acceso. En caso de no poder evitarlo, y el audio 
+o el video, tenga una duración superior a cinco segundos, hay que 
+proporcionar un mecanismo que permita controlar a los usuarios la 
+reproducción de tales elementos (avanzar, pausar, parar, ocultar, etc.)  
+- Proporcionar acceso a todas las funciones mediante el teclado o una 
+interfaz de teclado (botones de reproducción, pausa, etc.) además de dar 
+soporte a otros tipos de acceso como ratón/apuntador, ingreso por voz, 
+etc.   
+- Ofrecer más de un formato o más de una codificación disponible para la 
+descarga del contenido multimedia. La conversión de una fuente de vídeo 
+o audio en diversos formatos, potencia en gran medida la accesibilidad y 
+la difusión del contenido ofrecido.  
+Las pautas de accesibilidad multimedia, se dirigen principalmente a personas 
+con algún tipo de discapacidad sensorial, como son las que afectan a la vista y 
+
+2 
+ 
+el oído. También deberemos tener en cuenta las necesidades de las personas 
+con movilidad reducida de manera que puedan acceder correctamente los 
+reproductores que utilicen y a los mecanismos de navegación. A continuación 
+veremos las principales medidas de accesibilidad aplicables a los materiales 
+didácticos de video y de audio.  
+Las principales medidas de accesibilidad para este tipo de material multimedia 
+son: 
+ Transcripción en formato texto.   
+ Subtitulado. 
+ Audiodescripción. 
+ Interpretación en lenguaje por signos. 
+1. La transcripción en formato texto  
+La transcripción es un documento de texto en el que se refleja tanto la 
+información visual como sonora del video. La lectura de la transcripción nos 
+debería de aportar información equivalente a la que obtendríamos en caso de 
+ver y oír el vídeo. 
+De todas las medidas de accesibilidad multimedia, la transcripción es la primera 
+a la que deberíamos atender ya que presenta la ventaja de poder ser 
+representada a través de cualquier modalidad sensorial (vista, oído y tacto) e 
+interpretada de diferentes formas por los productos de apoyo (leída en voz alta 
+por un lector de pantalla, presentada visualmente o convertida a braille). La 
+transcripción en texto permite el acceso al contenido del video a una gran 
+variedad de personas. 
+Para realizar una trascripción textual deberemos tener en cuenta tanto la 
+información sonora como visual y describir los siguientes elementos (Valentin 
+Sama Rojo, 2012): 
+• Información Sonora  
+- Identificar a los personajes.  
+- Contenido de los diálogos. 
+
+3 
+ 
+- Eventos sonoros, como, por ejemplo: música, risas, aplausos, 
+efectos especiales.  
+- Todos aquellos elementos sonoros que sean relevantes para 
+comprender el documento.  
+- Información visual  
+- Descripción de las acciones, personas, expresiones corporales, 
+escenarios y localizaciones.   
+- Transcripción de los textos que se muestren en pantalla.  
+- Todos aquellos elementos visuales que sean relevantes para 
+comprender el documento. 
+El texto resultante deberá cumplir con los requisitos de accesibilidad para el 
+formato en el que lo presentemos, Word, HTML, PDF, etc. 
+2. Subtítulos  
+Podemos considerar los subtítulos como un tipo de traducción audiovisual 
+consistente en presentar un texto escrito, normalmente en la parte inferior de la 
+pantalla, sincronizado con el audio del diálogo de los personajes. Su uso está 
+muy extendido en el mundo de los contenidos audiovisuales y es la forma más 
+habitual de mejorar la accesibilidad de un video. 
+Todo el contenido audiovisual subtitulado se articula en torno a tres componentes 
+principales: la palabra oral, la imagen y los subtítulos. Una buena práctica de 
+subtitulado debe combinar de forma precisa estos tres componentes e 
+integrarlos teniendo en cuenta aspectos como la velocidad lectora del 
+espectador y el tiempo de permanencia en pantalla. 
+Puede parecer que los subtítulos van destinados principalmente a las personas 
+que tienen algún tipo de discapacidad auditiva, pero también son una 
+herramienta valiosa para otros muchos tipos de usuarios. Así encontramos que 
+también ayudan a mejorar habilidades de lectoescritura y comprensión de 
+aquellos que están aprendiendo un idioma, ayudan a aquellas personas que 
+tengan algún tipo de deficiencia visual gracias a la personalización de los 
+subtítulos (tipo de fuente, color, contraste…). Facilitan el acceso a la información 
+
+4 
+ 
+en entornos en los que no se puede acceder al audio, bien porque se encuentren 
+en entornos ruidosos, o bien porque sea conveniente guardar silencio.   
+Dentro de la clasificación de los subtítulos nos encontramos con subtítulos 
+abiertos y cerrados. La diferencia reside en que los subtítulos abiertos van 
+incrustados en el video y el usuario no tiene control sobre ellos. Los  subtítulos 
+cerrados, pueden añadirse y eliminarse a voluntad del espectador cuando desee. 
+Desde el punto de vista de la accesibilidad son más adecuados los subtítulos 
+cerrados ya que permiten decidir activarlos o no.  
+2.1 Requisitos de los subtítulos  
+A continuación, mostramos algunos requisitos que deben cumplir los subtítulos, 
+los cuales se tratan con mayor detalle en la norma UNE 153010 “Subtitulado 
+para personas sordas y personas con discapacidad auditiva” (AENOR, UNE 
+153010 Subtitulado para personas sordas y personas con discapacidad auditiva, 
+2012)”.  
+Podemos clasificar las recomendaciones teniendo en cuenta aspectos visuales, 
+temporales, sonoros y de identificación de los personajes.  
+Aspectos Visuales  
+- Los subtítulos deben aparecer centrados en la parte inferior de la pantalla 
+y ocupar dos líneas de texto y excepcionalmente tres.  
+- En los diálogos, se debería asignar una línea nueva para cada personaje. 
+- El máximo número de caracteres por línea es 37. 
+- La información contextual debe aparecer entre paréntesis y en la misma 
+línea del subtítulo correspondiente. 
+- No se deben separar sílabas de la misma palabra en dos líneas. 
+- Hay que considerar las pausas interpretativas, y deben coincidir en la 
+medida de lo posible con comas y puntos. 
+- La elección de la tipografía debe responder a criterios de máxima 
+legibilidad. 
+- Los subtítulos deben ser correctos ortográfica y gramaticalmente. 
+- No reproducir las abreviaturas. 
+
+5 
+ 
+- Las mayúsculas sólo se usan para traducir el título del programa y para 
+dar cuenta de texto que aparece escrito en mayúsculas en el original: 
+titulares de periódicos, pancartas, etc. 
+- La cursiva da cuenta de las voces procedentes de un televisor, una radio, 
+o de personajes que están fuera de pantalla. También se usan para 
+escribir los títulos de películas o libros, de las letras de las canciones y de 
+términos en un idioma extranjero 
+- Escribir la numeración con letras del cero al diez y con caracteres arábigos 
+el resto de las cantidades. 
+- Utilizar mejor los paréntesis que los corchetes. 
+- Emplear siglas y acrónimos y las formas cortas de entidades u 
+organismos.  
+- Utilizar los pronombres siempre que se pueda.  
+- Los subtítulos, en la medida de lo posible, deben ser literales. 
+Combinación de colores para caracteres y fondos  
+Según la norma UNE 153010, ciertas combinaciones de colores facilitan la 
+lectura ya que producen mayor contraste y menor fatiga visual. En orden de 
+legibilidad son  
+° 
+Carácter amarillo sobre fondo negro.  
+° 
+Carácter verde sobre fondo negro 
+° 
+Carácter cian sobre fondo negro 
+° 
+Carácter magenta sobre fondo negro 
+° 
+Carácter blanco sobre fondo negro  
+° 
+Carácter rojo sobre fondo blanco  
+° 
+Carácter azul sobre fondo blanco  
+° 
+Carácter azul sobre fondo amarillo  
+Esta combinación de colores también debe tenerse en cuenta  a la hora de 
+subtitular a los personajes que intervengan en el dialogo.  De esta forma el 
+personaje principal estaría subtitulado con caracteres amarillos sobre fondo 
+negro, el segundo en importancia le correspondería caracteres verdes y así 
+sucesivamente.   
+
+6 
+ 
+Aspectos temporales  
+- La velocidad de exposición del texto debe seguir el ritmo original y facilitar 
+una lectura cómoda. La velocidad recomendada para los subtítulos es de 
+unos 15 caracteres por segundo.  
+- Las entradas y salidas de los subtítulos deben coincidir, siempre que sea 
+posible, con el movimiento labial, con los cambios de plano, con la 
+locución y/o información sonora.  
+- Un subtítulo de una línea permanece en pantalla unos tres segundos, y el 
+subtítulo de dos líneas no debería mantenerse más de seis segundos. 
+- Los subtítulos han de estar en pantalla como mínimo un segundo y como 
+máximo seis.  
+ 
+Efectos sonoros  
+- Las voces en off, es decir, las emitidas por personajes que no salen en 
+pantalla, también se subtitulan y si es posible, en  cursiva. 
+- Describir los efectos sonoros (música, ruidos de fondo, sonidos de 
+animales o cosas) que sean relevantes para la comprensión del vídeo, 
+haciendo evidente su diferenciación del resto del diálogo. 
+- La información contextual  se subtitula en mayúsculas y entre paréntesis. 
+ 
+Aspectos de Identificación de los personajes 
+- Los personajes que intervienen deben estar claramente identificados 
+mediante colores (combinación de colores para caracteres y fondos),  o 
+su nombre entre paréntesis al principio de su dialogo. 
+- Las técnicas para identificar los personajes deben elegirse según el 
+siguiente orden de prioridad 
+o Uso del color 
+o Uso de etiquetas 
+o Uso de guiones  
+
+7 
+ 
+- Si se usan colores para identificar a los personajes, se debe mantener 
+dicha asignación. 
+- Cuando los personajes se identifiquen con etiquetas, estas deben 
+anteceder al subtítulo y contener el nombre o algún dato para identificar 
+al personaje. 
+- El uso de guiones en los diálogos, se debe utilizar solo cuando exista 
+riesgo de confusión entre personajes. 
+ 
+3. La Audiodescripción  
+La audiodescripción es un sistema de apoyo a la comunicación que consiste en 
+aportar una descripción oral de los elementos puramente visuales de un video, 
+tales como escenarios, acciones, personajes, posiciones, formas, colores, 
+situaciones y detalles, para que las personas con discapacidad visual y ciegas 
+tengan acceso a la narrativa, mediante audio. 
+La audiodescripción es una herramienta valiosa tanto para personas con algún 
+tipo de discapacidad visual como para el resto de usuarios. Puede utilizarse en 
+muchos ámbitos, desde películas, obras de teatro o audioguías de museos. Para 
+aquellas personas que posean algún tipo de discapacidad visual, aporta detalles 
+que ayudan a comprender el mensaje como un todo armónico y de la forma más 
+parecida a como lo percibe una persona con una visión normal.  
+Se realiza de manera que pueda insertarse entre los diálogos y las narraciones, 
+sin interferir el audio original. En caso de no haber suficiente pausa en el audio, 
+el video se detiene para poder describir la imagen. Una vez terminada la 
+explicación, el video continúa. Cada frase o locución de la audiodescripción se 
+denomina “bocadillo informativo” o “unidades descriptivas” y los espacios en los 
+que se insertarán se denominan “huecos de mensaje”.  
+Los requisitos para elaborar de forma correcta la audiodescripción, están 
+recogidos en la norma UNE 153020 de Audiodescripción para personas con 
+discapacidad visual. (AENOR, UNE 153020: 2005.Audiodescripción para 
+personas con discapacidad visual. Requisitos para la audiodescripción y 
+
+8 
+ 
+elaboración de audioguias, 2005). A diferencia de los subtítulos, la 
+audiodescripción requiere la elaboración de un guión y análisis previo ya que no 
+todas las obras audiovisuales permiten una buena audiodescripción. Para saber 
+si una obra es válida para este recurso, se hace un primer visionado en el que 
+se analiza la existencia de “huecos de mensaje” donde se podrá incorporar la 
+información sonora. Después se elabora el guion con las “unidades descriptivas” 
+que va narrar el locutor. Al finalizar el proceso es necesario previsualizar el video, 
+preferentemente por una persona que no sea el narrador, para valorar la 
+posibilidad de añadir esta medida de accesibilidad.  
+ A continuación, se exponen algunos de los aspectos a tener en cuenta para 
+elaborar el guion de la audiodescripción:  
+- La información contenida en los “huecos de mensaje”, debe ser adecuada 
+para no provocar cansancio o poca información al oyente.  
+- El Idioma debe ser el mismo que el de la banda sonora del video. 
+- El guión será adecuado para el tipo de obra y a las necesidades del 
+público al que se dirige. 
+- Tiene que cumplir con las normas gramaticales, usar adjetivos concretos 
+y emplear un lenguaje fluido y sencillo. 
+- No revelar o descubrir la trama y transmitir la información de forma 
+objetiva. 
+- Evitar referencias que requieran el sentido de la vista, del estilo de "tal y 
+como aparece aquí" o "si comparamos esto con aquello". 
+- Si la audiodescripción es demasiado larga se incluirá un documento de 
+texto donde se indique a qué pasaje del vídeo corresponde cada 
+descripción. Este documento se pondrá a disposición del estudiante junto 
+con el material audiovisual. 
+En la grabación de la locución, se deberán tener en cuenta una serie de 
+aspectos: (Valentin Sama Rojo, 2012) 
+- Garantizar la correcta ecualización de la pista que contiene la 
+audiodescripción con la pista de audio que contiene la banda sonora del 
+vídeo.  
+
+9 
+ 
+- Realizar la grabación visualizando las imágenes que se están 
+describiendo.  
+- Es preferible la utilización de locutores profesionales.  
+-  Seleccionar la voz de la audiodescripción acorde con la obra: si en el 
+vídeo predominan las voces femeninas, la audiodescripción la realizará 
+con una voz masculina y viceversa.  
+- Utilizar una locución neutra, dicción correcta, evitando entonaciones que 
+transmitan emociones.  
+La mayor parte de los videos elaborados por el profesorado, no disponen de 
+audiodescripción. En este caso para garantizar la accesibilidad del video, es 
+necesario incluir la descripción de lo que contendría la audiodescripción en el 
+propio guion del video.  
+4. Interpretación en lengua de Signos  
+La Lengua de Signos Española (LSE) es un lenguaje de carácter visual y gestual, 
+por el cual se comunican las personas sordas, con discapacidad auditiva y/o 
+dificultad en el habla en España. Cada país o contexto geográfico cultural, tiene 
+su propia lengua de signos. En España además de la LSE, contamos con la 
+lengua de signos catalana.  
+Por medio de la interpretación de lengua de signos, un profesional interpreta y 
+traduce la información de la lengua oral o escrita a la lengua de signos, de forma 
+sincronizada con el video o el documento original, y viceversa. De esta forma 
+asegura la comunicación entre las personas con algún tipo de discapacidad 
+auditiva y su entorno social. 
+Algunos usuarios prefieren acceder a la información en lengua de signos debido 
+a que es su lengua materna, con la que se comunican de forma habitual. Es 
+frecuente recurrir a ella en mensajes institucionales o actos en directo. 
+El uso de la lengua de signos en materiales multimedia está regulado en la 
+Norma UNE 139804 (AENOR, UNE 139804. Requisitos para el uso de la lengua 
+de signos española en redes infomáticas, 2007) “Requisitos para el uso de la 
+lengua de signos española en redes informáticas”. La norma establece las 
+
+10 
+ 
+recomendaciones divididas en diferentes categorías. A continuación, se exponen 
+algunas de ellas: 
+Aspectos generales de la lengua de signos  
+- Seguir los criterios lingüísticos de la lengua de signos establecidos por la 
+comunidad de usuarios o en su defecto por el Centro de Normalización 
+Lingüística de la lengua de signos española. Además, el signado deberá 
+adecuarse al público al que vaya dirigido el material. 
+-  La persona que signa deberá ser competente en lengua de signos 
+-  Siempre se recomienda que la persona que va a signar el material 
+participe en la preparación del mismo.  
+Apariencia del intérprete  
+- La ropa del intérprete tendrá contraste con el color de su piel, ser de color 
+uniforme, no tener elementos que destaquen y tener contraste con el 
+fondo de la escena.  
+- La persona que signa deberá evitar llevar adornos o joyas.  
+Puesta en escena  
+- Cuando se tiene control sobre el fondo, debe ser tal que maximice la 
+comprensión de la lengua de signos.  
+- En lengua de signos hay determinados signos que se realizan por debajo 
+de la cintura o por encima de la cabeza por lo que es importante cubrir 
+toda el área de signado.  
+- Garantizar una buena iluminación del intérprete, evitando tanto el exceso 
+de luz como las sombras. Evitar sombras en la cara del intérprete o en el 
+fondo.  
+Características del vídeo con LSE  
+- El vídeo se debe grabar a un mínimo de 25 imágenes por segundo.  
+- La ventana del intérprete deberá tener una resolución mínima de 256 x 
+192 píxeles, aunque se recomienda utilizar una resolución de 352 x 288 
+píxeles.  
+
+11 
+ 
+- Utilizar una tasa mínima de bits de 240 kbps.  
+- Usar algoritmos de compresión que permitan visualizar el vídeo sin 
+problemas independientemente de la plataforma que se utilice y sin 
+pérdida de calidad.  
+Integración de Lengua de Signos en páginas web  
+- Para incluir un video que incluya lengua de signos en una web, existen 
+dos posibilidades: incrustar el video en un área fija de la web o enlazar el 
+video.  
+- Identificar el contenido en lengua de signos con el icono representativo 
+existente. 
+ 
+ 
+Ilustración 1. Icono representativo de la lengua de signos 
+ 
+- Informar de los requisitos técnicos necesarios para visualizar el contenido 
+en lengua de signos  
+- Permitir que el usuario controle el vídeo: en contenidos en directo el 
+usuario deberá poder detener y reproducir el vídeo. En el resto de 
+contenidos el usuario debe poder detener, pausar, reproducir, retroceder 
+y avanzar el vídeo. 
+En la mayoría de las ocasiones se utilizan intérpretes reales, personas signando, 
+pero cada vez está evolucionando más el desarrollo y utilización de intérpretes 
+generados por ordenador. La norma UNE 139804, establece que cuando se 
+utilice un lenguaje de signos generado por ordenador deben realizarse pruebas 
+de usuario con personas sordas usuarias del lenguaje de signos para garantizar 
+su adecuación al uso. 
+
+12 
+ 
+También es recomendable usar al mismo tiempo el subtitulado. En este caso se 
+ha de seguir la norma UNE 153020 de subtitulado y garantizar que ambos 
+sistemas ni se solapan, ni se ocultan.  
+Compartir con el intérprete el guión del video de forma que lo conozca con 
+antelación suficiente, sobre todo si el contenido es de carácter muy técnico o 
+específico, constituye una práctica valiosa a tener en cuenta.   
+5. Herramientas para crear videos accesibles  
+En la creación de material multimedia accesible, existen múltiples herramientas 
+que permiten incorporar subtítulos y otras características a los videos. Algunos 
+de estos recursos son gratuitos, otros de pago y además existen empresas 
+dedicadas 
+a 
+dotar 
+de 
+accesibilidad 
+los 
+contenidos 
+audiovisuales.                          
+A continuación, se muestran algunas herramientas sencillas y de carácter 
+gratuito con las que poder crear material multimedia accesible. 
+6.1 Herramientas online para subtitular 
+- Amara. Herramienta web de código abierto que permite subtitular cualquier 
+vídeo que esté publicado en plataformas como YouTube o Vimeo. A su vez 
+permite que los usuarios incluyan traducciones de los subtítulos, insertar los 
+vídeos subtitulados en páginas web, y descargar los subtítulos en formato 
+SubRip (.srt). 
+- Veed.io. Es un editor gratuito útil para proyectos sencillos como crear vídeos 
+con subtítulos para redes sociales o para hacer transcripciones. Incorpora 
+también una herramienta de subtitulación automatizada por voz, que ejecuta un 
+reconocimiento de voz sobre el archivo de vídeo que carguemos y hace una 
+propuesta de transcripción sincronizada que convierte en subtítulos.  
+- Overstream. Aplicación web que permite crear y sincronizar el subtitulado con 
+un vídeo disponible en plataformas como YouTube, Vimeo, Google Video, 
+Myspace, entre otras. Finalizada la subtitulación, esta se guarda en el servidor 
+de Overstream y, facilita un enlace para acceder a página del vídeo subtitulado. 
+
+13 
+ 
+- Insertar Subtítulos en Videos de YouTube. Esta plataforma se ha convertido en 
+uno de los recursos más empleados para compartir información. Podemos incluir 
+subtítulos en los videos que subamos a este sitio web y editarlos sin necesidad 
+de un recurso externo. También es capaz de generarlos de forma automática si 
+así lo indica el autor.  
+6.2 Herramientas de escritorio para subtitular  
+- Subtitle Edit. Programa de software libre que destaca por ser compatible con 
+un elevado número de formatos de archivos de subtítulos. Cuenta con un sistema 
+que permite ajustar fácilmente los subtítulos cuando no están sincronizados con 
+el video.  Incorpora un traductor y su editor de texto permite consultar el número 
+de caracteres de cada línea y la tasa de caracteres por segundo, entre otras 
+funciones. Está disponible en más de 30 idiomas y cuenta con más de 70 
+formatos disponibles. Al instalarse, el programa está en inglés, pero se puede 
+cambiar al español, catalán o vasco mediante el menú Options > Choose 
+language. Disponible para plataformas Windows, GNU/Linux. 
+- Aegisub.   Editor gratuito que destaca por el buen funcionamiento de su visor 
+de la onda de audio. Permite sincronizar subtítulos de una manera bastante 
+práctica e intuitiva usando atajos de teclado, que además son personalizables. 
+Cuenta con un administrador de estilos con el que poder personalizar los colores 
+y tipos de letra de los subtítulos, además de mover fácilmente los subtítulos con 
+el ratón y colocarlos en el lugar de la pantalla que queramos. Disponible para 
+plataformas Windows, Mac OS, GNU/Linux 
+- Subtitle Workshop. Herramienta para subtitular muy completa que permite 
+llevar a cabo tareas avanzadas como personalizar y automatizar funciones como 
+las duraciones de cada subtitulo o el límite de caracteres por línea. Soporta hasta 
+65 formatos diferentes lo que permite crear archivos de subtítulos para 
+numerosos fines. Cuenta con características avanzadas, como la revisión 
+ortográfica, la vista previa del video. Etc. Disponible para plataformas Windows, 
+Mac OS, GNU/Linux. 
+
+14 
+ 
+- VisualSubSyc. Editor de subtítulos sencillo y práctico. Permite personalizar 
+atajos de teclado ahorrando tiempo de edición y cuenta con un contador de 
+caracteres por línea, entre otras funciones. Disponible para Windows  
+- Sub-titling text add-in for Microsoft PowerPoint (STAMP). Power Point, desde 
+su versión 2010, cuenta con un complemento que permite añadir subtítulos al 
+contenido multimedia incluido en las presentaciones. Destaca por permitir  
+importar subtítulos ya creados en formato Timed Text Markup (TTML), crear y 
+editar subtítulos y dar la opción de activar o desactivar los subtítulos de la 
+presentación. El complemento está diseñado para PowerPoint 2010, 2013 o 
+2016, y se debe instalar el complemento correcto para su versión de Office (32 
+bits o 64-bit). 
+- Subtítulos en Skype. Este software de cuenta con una función de subtitulado 
+para las llamadas o videollamadas, que funciona en tiempo real durante las 
+conversaciones. Permite subtitulado en varios idiomas. Disponible para la 
+mayoría de las versiones de Skype para Windows, Mac, Linux, Windows 10, 
+Android, iPhone y iPad.  
+6.3 Herramientas reconocimiento del habla para trascribir  
+- Speachnotes. Editor de textos en línea que funciona con reconocimiento de 
+voz. Desarrollado por la tecnología Google. Destaca por su sencillez y facilidad 
+para su uso. No requiere registro, solo hay que abrir la aplicación y pulsar el 
+icono del micrófono para comenzar a transcribir. Permite incorporar signos de 
+puntuación, saludos y otros textos de uso frecuente mediante el teclado 
+integrado. Una vez creada la nota permite su descarga en varios formatos. 
+Disponible desde Google Play Store y para el navegador Google Chrome.  
+-Dictation: herramienta de dictado que permite guardar el resultado en un archivo 
+.txt desde el que podemos copiar y pegar el texto donde queramos. Puede 
+usarse online o añadirla como una extensión de Goolge Chrome. 
+-TAL. Aplicación web desarrollada por la Unidad de Accesibilidad Digital de la 
+Universidad de Alicante. Sencilla y fácil de usar, se apoya en el motor de 
+reconocimiento de voz de Google. Permite realizar la transcripción de voz a texto 
+
+15 
+ 
+y descargarla para incluirla como subtitulos, entre otras funciones. Disponible 
+para Windows, Mac, Linux, usando el navegador Google Chrome. 
+-Dictado de Voz de Google Docs. Permite transcribir texto y editarlo sin hacer 
+uso del teclado, solo se necesita tener una cuenta de Google asociada a una 
+dirección de correo electrónico.  Para ello accedemos a la página principal de 
+Google y desde el menú de aplicaciones seleccionamos la aplicación 
+“documentos”. Una vez abierto en la pestaña “archivo” escogemos el idioma en 
+el que vayamos a realizar el dictado. A continuación accedemos al menú de 
+“herramientas” y hacemos clic en “escritura por voz”. Inmediatamente aparecerá 
+el icono de un micrófono sobre el que tienes que hacer clic para comenzar a 
+dictar. Esta función es válida en los navegadores Chrome. 
+- Dictado de voz en Mac. Es una característica que viene integrada dentro del 
+propio sistema operativo. Al acceder al menú de Apple, seleccionar “preferencias 
+del sistema”. Desde ahí hacer clic en “teclado” y a continuación en “dictado”. 
+Hacer clic en Activar. Si lo solicita, hacer clic en “Activar dictado” y confirmar. 
+Permite configurar opciones como usar el “dictado mejorado”, elegir el idioma y 
+el micrófono. Para iniciar el dictado hay presionar la tecla función dos veces (fnfn) 
+o elegir “editar” e “iniciar dictado”  
+- Dictate Microsoft. Es complemento gratuito para los programas Office Word, 
+PowerPoint y Outlook que convierte la voz en texto. Dictate soporta más de 20 
+idiomas y ofrece traducción en tiempo real a 60 idiomas. Es necesario tener 
+instalado Windows. Está disponible para Office 2013 o superior de 32 y 64bits y 
+es compatible con las versiones de Windows 8.1 o superior. Para disfrutar este 
+complemento debemos abrir la aplicación de Microsoft Office a usar y encender 
+el micrófono. Seleccionar la opción de Dictate y esperar que el icono cambie a 
+rojo para empezar a hablar.  
+ 
+ 
+ 
+ 
+
+16 
+ 
+Webgrafía 
+ 
+AENOR. (2007). UNE 139804. Requisitos para el uso de la lengua de signos 
+española en redes infomáticas. Madrid: AENOR. 
+AENOR. (2012). UNE 153010 Subtitulado para personas sordas y personas con 
+discapacidad auditiva. Madrid: AENOR. 
+AENOR. (2003). UNE 153010: 2003. Subtitulado para personas sordas y 
+personas con discapacidad auditiva. MADRID: AENOR. 
+AENOR. (2005). UNE 153020: 2005.Audiodescripción para personas con 
+discapacidad visual. Requisitos para la audiodescripción y elaboración de 
+audioguias. Madrid: AENOR. 
+changedyslexia. (s.f.). Recuperado el 25 de 06 de 2020, de Dictado automático 
+(herramientas 
+gratuitas): 
+https://blog.changedyslexia.org/dictado-
+automatico-herramientas-gratuitas/ 
+Gonzalez, J. R., & Montalco, E. C. (2015). Guía para crear contenidos digitales 
+accesibles: documentos, presentaciones, audios y páginas web. Alcala de 
+Henares: Universidad de Alacala. 
+jugando@traducir. (s.f.). Recuperado el 20 de 06 de 2020, de Editores de 
+Subtitulos gratuitos en 2020 : https://jugandoatraducir.com/?s=subtitulos 
+LuisGyG. (s.f.). Recuperado el 24 de 06 de 2020, de ¿Como puedo dictar texto 
+en Mac?: https://luisgyg.com/dictar-texto-en-mac-como-activarlo-app/ 
+Observatorio de Accesibilidad. (2014). Guia de Accesibilidad en Contenidos 
+Multimedia. Madrid: Ministerio de Hacienda y Administraciones Públicas. 
+UNED. (2020). Materiales Digitales Accesibles (4ed). Madrid: Uned. 
+Valentin Sama Rojo, E. S. (2012). Guía de Accesibilidad de Documentos 
+Electrónicos . Madrid: Universidad Nacional de Educación a Distancia . 
+ 

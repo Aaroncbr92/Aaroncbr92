@@ -1,0 +1,1259 @@
+
+[[p4089]]
+Chapter 181
+Fairlight FX
+Fairlight FX are DaVinci Resolve-specific audio plugins that run natively on macOS, 
+Windows, and Linux and provide high-quality audio effects with professional 
+features to all DaVinci Resolve users. 
+These plugins are available on the Edit and the Fairlight pages and offer various options for repairing 
+faulty audio, creating effects, and simulating spaces.
+On the Fairlight page, they’re categorized as either Track FX or Audio Effects based on their position 
+in the Fairlight Mixer’s signal path. 
+For more information on For more information on the Fairlight Mixer’s signal path, jump to this 
+chapter: Mixing in the Fairlight Page. This chapter explains what they do and how to use them.
+Contents
+Common Controls For All Fairlight FX........... 4090
+Track FX .........................................................................  4091
+Dialogue Leveler.........................................................  4091
+Dialogue Separator (Studio Version Only).....  4093
+Ducker.............................................................................  4094
+Music Remixer (Studio Version Only)................ 4096
+Voice Isolation (Studio Version Only)................ 4096
+Insert Effects................................................................. 4097
+Ambisonics Meter....................................................... 4097
+Chain FX.......................................................................... 4097
+Chorus............................................................................. 4099
+De-Esser............................................................................ 4101
+De-Hummer.................................................................... 4102
+Delay.................................................................................. 4103
+Dialogue Processor..................................................... 4104
+Distortion........................................................................  4105
+Echo.................................................................................... 4107
+EQ ‑ Fairlight EQ..........................................................  4108
+Flanger............................................................................... 4110
+Foley Sampler.................................................................. 4111
+Frequency Analyzer..................................................... 4115
+Gain...................................................................................... 4115
+LFE Filter............................................................................ 4115
+Limiter................................................................................. 4116
+Meter................................................................................... 4118
+Modulation....................................................................... 4118
+Multiband Compressor.............................................. 4120
+Noise Reduction............................................................ 4121
+Phase Meter.................................................................... 4122
+Pitch.................................................................................... 4123
+Reverb............................................................................... 4123
+Soft Clipper..................................................................... 4125
+Stereo Fixer..................................................................... 4126
+Stereo Width................................................................... 4127
+Surround Analyzer....................................................... 4127
+Vocal Channel............................................................... 4128
+4089
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4090]]
+Common Controls For All Fairlight FX
+Before going into the specific controls of each Fairlight FX plugin, there are some common controls 
+that all plugins share, found at the top of the custom GUI window for each plugin.
+Common controls for all Fairlight FX
+	 Presets: A cluster of controls that let you recall and save presets specific to each plugin.
+Add Preset button: Click this button to save the current settings of the Fairlight FX you’re using. 
+A dialog box lets you enter a Preset name and click OK.
+Preset dropdown menu: All presets for the currently open plugin appear in this menu.
+Previous/Next preset buttons: These buttons let you browse presets one by one, going up and 
+down the list as you evaluate their effects.
+	 A/B Comparison: A set of buttons that lets you compare two differently adjusted versions of 
+the same plugin. The A and B buttons let you create two sets of adjustments for that plugin, 
+and toggle back and forth to hear which one you like better. The arrow button lets you copy 
+the adjustments from one of these buttons to the other, to save the version you like best while 
+experimenting further.
+	 Reset: A single reset control brings all parameters in the current plugin to their default settings.
+When the Automation is turned on, an automation button appears at the top right of each of the 
+plugins. Automatable parameters for that effect are available in the Plugin dropdown menu for 
+that track.
+Automation activated and available to the Fairlight FX
+NOTE: Although Default is the preset when initially opened, many of the plugins, have 
+presets already created. Reverb, for instance, has Cathedral, Concert Hall, and Studio presets 
+built in.
+These can be excellent starting points to change, rename, and save for your specific needs. 
+These new presets will also be available in the Preset dropdown menu.
+TIP: Fairlight FX support “granular” control adjustments by holding down the Option or Shift 
+key while clicking in and dragging left or right within the numerical value fields for virtual 
+sliders in a Fairlight FX plugin or the Inspector.
+4090
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4091]]
+Track FX 
+These built-in Fairlight FX plugins are accessed via the Track FX section of Audio Track channel strips 
+or in the Inspector. If the Track FX section doesn’t appear in the Mixer, click the three dots in the 
+upper-right corner of the Mixer and select Track FX. 
+The available plugins in this category are: Voice Isolation, Dialogue Leveler, Dialogue Separator, 
+Music Remixer, and Ducker. 
+Each plugin occupies a fixed, dedicated insert point in the Track FX section, with the Voice Isolation 
+and Dialogue Leveler visible by default. To reveal the other Track FX plugins, click the three dots 
+in the upper-right corner of the Mixer and select each plugin from the “Visible Track FX” submenu 
+at the bottom. 
+TIP: Track effects can be applied to stereo-linked groups (stereo-linked tracks). 
+The Mixer menu
+Dialogue Leveler
+The Dialogue Leveler analyzes source material to detect dialogue and then “rides down” louder areas, 
+“lifts up” softer areas, and lowers background sounds that are not dialogue. 
+It works without the typical “pumping” or other unwanted side effects of dynamics processors 
+(compression/limiting) to produce results like those achieved through detailed, manual clip gain 
+adjustments or “riding” the track with fader automation.
+4091
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4092]]
+The Dialogue Leveler can often “fix and mix” a recording made with a single boom mic, where one 
+character is closer than another or turns away from the mic and levels it out so that the original relative 
+dynamics are preserved while increasing intelligibility and average level. 
+The Dialogue Leveler plugin
+Although Dialogue Leveler can be used on an audio track in real time, it cannot be used on live audio 
+input. It can be used on any mono, stereo, or dual-mono audio track, but it isn’t supported on tracks 
+with more than two channels.
+Dialogue Leveler controls:
+	 Dialogue Leveler: Enables or disables the plugin.
+	 Waveform Processing display: This shows a scrolling waveform and a gray line indicating 
+Dialogue Leveler processing. However, this display is not available when using the Dialogue 
+Leveler found in the Inspector to process audio clips on the timeline.
+	 Preset Menu: This menu provides the following options:
+Allow wider dynamics: This is the default and is best for audio with a wider-ranging 
+dynamic from loud-to-soft, and where the clip levels are medium to high.
+More lift for low levels: Select this option if the source has more low-level 
+dialogue that you want to boost.
+Lift soft whispery sources: Select this option if the source has whispered 
+dialogue and background noise.
+Optimize moderate levels: Select this option if the source is at medium levels throughout.
+	 Reduce Loud Dialogue: When enabled, louder dialogue is ridden downward when it peaks, acting 
+like a “perfect limiter” where you don’t have to adjust the threshold or time parameters. Due to the 
+“near real-time” functionality, analysis occurs prior to audible playback for optimal results.
+	 Lift Soft Dialogue: This setting finds and lifts low-level dialogue, evening-out material that is 
+quieter while more variable in level. Because the process is dialogue-focused, it doesn’t tend to 
+raise background sounds unless they’re audible at the same time as the dialogue.
+The Lift Soft Dialogue option is often the most useful of the three options, as it makes quieter lines 
+of dialogue louder and naturally smooth without boosting background noise.
+4092
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4093]]
+	 Background Reduction: This option gently removes background noise based on the internal 
+preset selected in the Preset menu.
+	 Output Gain: You can use this control to adjust the output level by clicking and dragging it or 
+entering a value in the numeric field. The range of the Output Gain control of 0.0 to +6.0 dB.
+TIP: Before using the Dialogue Leveler on a track, it can be useful to set an optimum baseline 
+level for use with the default “Allow wider dynamics” preset by normalizing the audio.
+For more information on normalizing audio, jump to this chapter: The Fairlight Inspector.
+Dialogue Separator (Studio Version Only)
+Dialogue Separator uses DaVinci Neural Engine AI to give you individual control over the level of 
+dialogue, background sounds, and the reverberant field or ambient room sound (“ambience”). 
+The Dialogue Separator plugin
+The Dialogue Separator is useful when, for example, a source file has a great roomy sound, but there’s 
+music or crowd noise in the background. In this instance, you can rebalance the audio to reduce the 
+background sounds or adjust the room sound to make the dialogue more intelligible.
+Another use case would be when someone moves toward the camera in a roomy environment while 
+speaking. You could use automation to rebalance the audio so that the ambient room sound gradually 
+becomes “drier” as they get closer, without affecting the background.
+Dialogue Separator is currently a mono-only plugin. If your source is stereo, you’ll need to split 
+it into dual-mono and process both mono tracks separately.
+4093
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4094]]
+Ducker
+This plugin lets you use the audible signal from a track or multiple tracks to lower the level of another.
+Although it can be used in many creative ways, a common use of “ducking” is automatically lowering a 
+music or sound effects bed so that dialogue or a VO track can be heard more prominently in a mix.
+This is achieved without compressing the incoming signals. When set up correctly in the Ducker 
+interface or via the Audio tab in the Inspector, your audio tracks can practically “mix themselves.”
+In a simple use case, the Ducker uses level changes of a single incoming dialogue or VO track to 
+decrease the volume of the sound effects bed of a noisy freeway.
+In a more complex situation, such as a scene where three characters are conversing next to the same 
+noisy freeway, a single Ducker plugin can use the level changes of each dialogue track to attenuate 
+the traffic noise.
+With only one input source (Dialogue 1), the Ducker would only be effective when the first character 
+speaks. However, this new feature lets you add the other two dialogue tracks (Dialogue 2 and 
+Dialogue 3) as input sources for attenuating the traffic noise. 
+The Ducker plugin
+Using the Ducker
+Continuing with the use cases mentioned above:
+1	
+Choose the target track that you want to attenuate (the Freeway Traffic track), and open 
+the Ducker.
+2	
+Click the Source dropdown and select Dialogue 1 as the input source.
+	 To use additional input sources, Command-click the other track names; in this example, 
+Dialogue2 and Dialogue3.
+	 Play a bit of your sequence, and adjust the duck level and other controls to taste.
+Adding Input Sources via the Inspector
+If you prefer working within the Inspector:
+1	
+Select the Freeway Traffic track, ensure the Ducker is switched on, and open the Inspector’s 
+Audio tab.
+2	
+Click the plus sign to the right of the Source 1 dropdown containing Dialogue 1 to create a 
+dropdown menu for Source 2, then choose Dialogue2 from the list.
+4094
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4095]]
+3	
+Click the plus sign to the right of the Source 2 dropdown to create a dropdown menu for Source 3, 
+then choose Dialogue3 from the list. 
+Adding Ducker input sources in the Inspector
+Ducker Controls
+	 Duck Amount: This control determines level attenuation on the target track in dB with a default 
+value of 2.7 dB. Most of the time, a value between 2.0 dB and 5.0 dB works the best.
+	 Lookahead: Adjusts the amount of lookahead time in milliseconds, with a default value of 
+15ms. Lookahead allows the Ducker to start attenuating the destination track before the 
+source track is audible.
+The larger the value, the more the Ducker will “pre-anticipate” the source track. If you want the 
+Ducker to start lowering the sound before a line of dialogue or VO begins, you can experiment 
+with higher values, but the default will usually produce good results.
+	 Rise Time: This determines how many milliseconds it takes for the Ducker to reach the amount of 
+reduction specified by the Duck Amount. The default value is 10 milliseconds, which should work 
+for most situations. Longer Rise Times may be useful with higher Duck Amount values and longer 
+gaps in the source track.
+	 Hold: This parameter determines how long the target signal will be attenuated. The default is 150ms.
+	 Recovery Time: This value indicates how quickly the target signal will return to its previous level 
+after attenuation. The default time value is 750ms, but setting the correct Recovery time is crucial 
+to a natural-sounding ducking process, so you should try different values to find the best results.
+Ducker Graph Display
+This area shows a gray line representing the incoming signal against the action of the Ducker, shown 
+in yellow. Dips in the yellow line signify attenuation of the target track based on the Duck Amount in 
+combination with the other parameters.
+4095
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4096]]
+Music Remixer (Studio Version Only)
+This DaVinci Neural Engine AI-based plugin splits music into individual stems: Vocals, Drums, Bass, 
+Guitar, and “Other” (“everything else”), letting you creatively rebalance or remix the track.
+You can use the level controls to adjust the volume of each stem and the Mute buttons to remove 
+or bring them back into your mix. For example, you may want to remove or lower a vocal because it 
+clashes with a featured piece of dialogue. 
+The Music Remixer plugin
+Voice Isolation (Studio Version Only)
+Voice Isolation uses an AI model trained for any type of human voice, male or female, young or old, 
+which lets you completely remove loud, undesirable sounds from existing voice recordings with 
+incredible results.
+The Voice Isolation plugin 
+You can get rid of all kinds of background noise, from air conditioners or fans to jackhammers, 
+restaurant background noise, music playing during a featured piece of dialogue, and more.
+The Amount control adjusts the mix between the original source and the isolated voice. When 
+set to 50, the mix is roughly equal. Values between 70 and 80 work well for natural results while 
+strongly isolating the source. 
+Although Voice Isolation can be used on an audio track in real time, it cannot be used on live audio 
+input. It can be used on any mono, stereo, or dual-mono audio track, but it isn’t supported on tracks 
+with more than two channels. 
+4096
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4097]]
+Insert Effects
+Ambisonics Meter
+This Fairlight FX plugin can be inserted on an Ambisonics track or bus to present a graphic display of 
+your Ambisonic sound field. Clicking the three dots in the upper right opens an options menu where 
+you can choose either “power” (Power Map), or “Sonar” style map as the metering method.
+Both meters convey the intensity of the sound and its current location in the Viewer.
+Ambisonics meter - Power Map view	
+Ambisonics meter - Sonar view
+Chain FX
+Fairlight Chain FX lets you build chains of up to six Fairlight FX or compatible Audio Units or VST 
+effects plugins, which can be adjusted using a single control. 
+Chain FX plugin
+Master Controls
+The Chain FX window has the following controls located in the upper section of the interface.
+	 Preset Menu: This is where you can save and recall Chain FX settings.
+	 Chain FX combinations can be saved as presets by clicking the Plus button to the left of the 
+Preset menu and recalled by clicking the menu and making a selection.
+	 You can also scroll through the presets by clicking the left or right “arrow” ( < or >) to the right of 
+the drop-down menu.
+4097
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4098]]
+	 You can save a Chain FX configuration as the default by selecting the Set as Default option from 
+the Options menu (three dots) located in the upper-right corner, to the right of the Reset button.
+	 Chain FX presets can be copied and pasted to other instances of the plugin for a 
+faster workflow.
+TIP: Chain FX presets can also be recalled by clicking the plus sign on an insert slot, 
+followed by Chain FX.
+	 Compare Buttons (A and B): These buttons let you quickly compare two different 
+Chain FX settings.
+If you create a Chain FX setting or select a preset when button A is active (red), then click button 
+B and create a different setting or choose a different preset, clicking between the buttons quickly 
+switches from one to the other.
+	 Bypass Button: Switches the Fairlight EQ on and off.
+	 Reset Button: Clicking the circular Reset icon, located in the upper-right corner of the EQ, 
+undoes the most recent action you’ve taken in the plugin interface.
+Sidechain (SC) Section
+	 On Button: Clicking this button activates the Sidechain section of the plugin, prompting you to 
+select an audio track or buss as the input source from the Source drop-down menu.
+For more information about Sidechaining, jump to this chapter: Audio Effects.
+	 Listen Button: Clicking this button lets you hear only the incoming audio signal, which is 
+helpful if you need to confirm that the correct audio signal is being sent to the Sidechain module.
+	 Source: This button selects the track or buss the incoming audio signal is coming from.
+Building an FX Chain
+To create an effect chain in a Chain FX instance:
+1.	
+Open an empty Chain FX plugin by clicking an empty Effects slot on a Mixer Channel 
+Strip and choosing Multi Effect > Fairlight FX > Chain FX.
+Ensure that the plugin is active.
+2.	 Add the first Fairlight FX or compatible third-party plugin by clicking the plus sign in the 
+Plugin Chain section and selecting a plugin from the menu.
+While the plugin is active, either recall an existing preset or adjust the controls to dial in 
+your desired settings.
+3.	 Repeat the previous step until you have built an FX chain of up to six plugins that works 
+for you.
+4.	 Save the resulting combination of plugins, in their current state as a Chain FX Preset, 
+by clicking the Plus button to the left of the Preset menu.
+TIP: Clicking the name of any plugin listed in the effect chain opens its respective 
+plugin window.
+4098
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4099]]
+You can also create a new effects chain by opening any compatible plugin, such as a 
+compressor, clicking the three dots in the upper-right corner of the plugin window, and 
+selecting Add to Plugin Chain from the menu. 
+Add to Plugin Chain menu option
+This opens a new Chain FX instance with the plugin you originally selected (the compressor, in 
+this example) already inserted in the first slot.
+•	 The Chain FX plugin replaces the compressor in the mixer channel insert.
+•	 You can add more plugins to the effect chain by clicking the plus sign in the Plugin Chain 
+section and selecting a plugin from the menu.
+Chorus
+A classic Chorus effect layers voices or sounds against modulated versions of themselves to add 
+harmonic interest in different ways.
+An animated graph shows the results of adjusting the Modulation parameters of this plugin, 
+giving you a visualization of the kind of warble or tremolo that will be added to the signal as you 
+make adjustments.
+The Chorus Fairlight FX 
+4099
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4100]]
+Chorus has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Input Format: (Only visible when Chorus is inserted on a multi-channel track.) Lets you choose 
+how multiple channels are input to the Chorus. Stereo sets separate Left and Right channels. 
+Mono sums Left and Right to both channels. Left inputs the Left channel only, and Right inputs the 
+Right channel only.
+	 Delay: The amount of delay between the original sound and the Chorus effect.
+Delay Time: Length of the Chorus delay lines.
+Separation: Time separation of the delay voices.
+Expansion: Sets L/R length differences, phase offset of modulators.
+	 Modulation: These controls adjust the low frequency oscillator (LFO) that drives the tremolo of the 
+chorus effect in different ways.
+Waveform: Specifies the shape of the LFO that modulates the rate of the Chorus, affecting the 
+timing of the oscillations. There are six options for the oscillator for you to choose from:
+Sine (Smooth oscillations)
+Saw2 (Jerky oscillations)
+Triangle (Sudden oscillations)
+Square (Hard stops between oscillations)
+Saw1 (Jerky oscillations)
+Random (Randomly variable oscillations)
+Frequency: Rate of LFO controlling the Chorus. Lower values generate a warble, 
+higher values create a tremolo.
+Pitch: Amount of frequency modulation, which affects the pitch of the Chorus.
+Level: Depth of level modulation. Affects the “length” of the segment of Chorus that’s added to the 
+sound. Low values add only the very beginning of the Chorus effect, high values add more fully 
+developed Chorus warble or tremolo.
+	 Feedback: A signal fed back to the Chorus Delay Line
+Amount (%): The percentage of signal fed back to the Chorus Delay Line. Values can be positive 
+or negative, the default is 0 (no effect). Increasing this parameter adds more of the Chorus effect to 
+the signal, lowering this parameter adds more of the inverted Chorus effect to the signal. At values 
+closer to 0, only a faint bit of Chorus can be heard in the audio, but at values farther away from 0 
+(maxing at +/- 99), a gradually pronounced Chorus becomes audible.
+Blend (%): Amount of feedback which bleeds into the opposite channel (Stereo mode only).
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+4100
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4101]]
+De-Esser
+A repair plugin specific to dialog. The De-Esser is a specialized filter that’s designed to reduce 
+excessive sibilance, such as hissing “s” sounds or sharp “ts” sounds, in dialogue or vocals. 
+A graph shows you which part of the signal the controls are set up to adjust, while reduction and 
+output meters let you see which part of the signal is affected and what level is being output.
+The De-Esser Fairlight FX
+The De-Esser has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Listen to Ess Only: This checkbox at the top right lets you listen only to the ess that is being 
+removed. This is very useful to determine if too much signal is being removed or if more ess 
+attenuation can be applied. 
+	 Frequency Range: Two controls let you target the frequency of the “s” sound for a 
+particular speaker.
+Target Frequency: A knob that lets you target the frequency of the offending sibilance. Sibilant 
+sounds are usually found in the range of 5 - 8kHz. 
+Range: switches the operational mode of the De-Esser. Three choices (from top to bottom) let you 
+switch among Narrow Band, Wide Band, and All High Frequency which processes all audio above 
+the source frequency.
+	 Amount: Adjusts the amount de-essing that’s applied.
+	 Reaction Time: Adjusts how suddenly de-essing is applied. There are three choices.
+Slow: Equivalent to a slow attack.
+Medium: Equivalent to a medium attack.
+Fast: Equivalent to a fast attack.
+4101
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4102]]
+De-Hummer
+A repair plugin with general applications to any recording. Eliminates hum noise that often stems 
+from electrical interference with audio equipment due to improper cabling or grounding. Typically 
+50 or 60 cycle hum is a harmonic noise, consisting of a fundamental frequency and subsequent partial 
+harmonics starting at twice this fundamental frequency. 
+A graph lets you see the frequency and harmonics being targeted as you adjust this plugin’s controls.
+The De-Hummer Fairlight FX
+De-Hummer has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Listen to Hum only: This checkbox at the top right lets you listen only to the hum that is being 
+removed. This is very useful to determine if too much signal is being removed or if more hum 
+attenuation can be applied.
+	 Frequency: Target source fundamental frequency. A knob lets you make a variable frequency 
+selection, while radio buttons let you select common frequencies that correspond to 50Hz/60Hz 
+electrical mains that are the typical culprits for causing hum.
+	 Amount: Adjusts how much De-Hum extraction you want to apply.
+	 Slope: Adjusts the ratio of fundamental frequency to partial harmonics, the adjustment of which 
+lets makes it possible for various kinds of hum to be targeted. For example, a value of 0 biases 
+hum extraction towards the fundamental frequency, while a value of 0.5 gives equal extraction of 
+all harmonics (up to 4), and finally a value of 1.0 targets the higher frequency partials.
+4102
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4103]]
+Delay
+An effects plugin. A general purpose stereo delay effect, suitable for tasks varying from track 
+doubling, to early reflection generation, through simple harmonic enhancement. Processes in stereo 
+or mono, depending on the track it’s applied to.
+A graph shows the timing and intensity of the echoes generated by this plugin on each channel, and 
+an Output meter displays the output level of the resulting signal.
+The Delay Fairlight FX
+Delay has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Input Format: (Only visible when Delay is inserted on a multi-channel track.) Lets you choose 
+how multiple channels are input to the delay. Stereo sets separate Left and Right channels. 
+Mono sums Left and Right to both channels. Left inputs the Left channel only, and Right inputs the 
+Right channel only.
+	 Filters: Alters the proportion of frequencies that are included in the delay effect. When the 
+Delay plugin is inserted on a Mono Channel, the Left and Right sections are replaced with a 
+single “Delay” section.
+Low Cut (Hz): A global High Pass filter.
+High Cut (Hz): A global Low Pass filter.
+	 Delay: Adjusts the timing of the delay.
+Left/Right Delay (ms): Delay time of each channel.
+Left/Right Feedback (%): Feedback % of the Left or Right channel back to itself. A negative value 
+equates to % of feedback with a phase reverse from the original signal.
+4103
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4104]]
+	 Feedback: Controls for adjusting the amount of bleed between channels.
+High Ratio: Adjusts the frequency of a damping filter for the feedback signal.
+Stereo Blend: Adjusts the proportion of signal from Left and Right channel feedback which feeds 
+into the opposite channel. When the Delay plugin is inserted on a Mono channel, Stereo Blend 
+control does not appear.
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+Dialogue Processor
+The Dialogue Processor chains together six different common audio processing operations inside 
+of a single plugin, each tuned to the specific needs of adjustments to improve recorded dialog. The 
+specialized De-Rumble, De-Pop, De-Ess, Comp(ressor), Expander, and Excite controls each have a 
+streamlined set of controls tailored to the specific types of common adjustments that may be required 
+for a great sounding dialogue track.
+The Dialogue Processor plugin
+	 De-Rumble: The de-rumble filter is a high pass filter that allows you to remove subsonic rumble 
+(subharmonic low frequencies) in your vocal microphone signal. A safe value to use for most 
+condenser microphones is 40 or 50Hz. Using higher values can start to remove lower frequencies 
+in the source signal, which can be a useful creative effect at times.
+Frequency: Sets the high-pass filter to frequencies between 40Hz to 235Hz.
+	 De-Pop: Controls the center frequency for a specialized filter for removal of vocal “popping” 
+sounds, or plosives, that can occur when someone speaks close to a microphone capsule on-axis.
+Frequency: Sets the filter to frequencies between 50Hz to 200Hz.
+Amount: Sets the amount of the filter effect on the signal with lower values effecting less 
+and higher values effecting more. A meter next to the amount knob shows how the signal is 
+being effected.
+4104
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4105]]
+	 De-Ess: Sets the center point of a specialized bandpass filter for removal of vocal “Esses,” which 
+can be overly present due to sibilance. De-essing allows you to raise average level and brighten a 
+vocal source without it sounding harsh, as our ears are very sensitive to overly present sibilance. 
+The best frequency range for male and female voices tends to be between 6 and 7 kHz.
+Frequency: Sets the filter to frequencies between 700Hz to 9000Hz.
+Amount: Sets the amount of the filter effect on the signal with lower values effecting less 
+and higher values effecting more. A meter next to the amount knob shows how the signal is 
+being effected.
+	 Compressor: Used to compress a signal’s dynamic range by reducing differences in level 
+between the loudest and quietest parts of the input signal. Compression can be used to raise 
+the signal’s overall level, boosting it without clipping and thus increasing perceived loudness. 
+Compression is often used to give voices more presence within a mix and to smooth out changes 
+in the levels of tracks that may have too much dynamic range for its context.
+Threshold (dB): Sets the level at which the signal will start to be effected from –40dB to –8dB.
+Amount: Sets the amount of the compression on the signal with lower values effecting less 
+and higher values effecting more. A meter next to the amount knob shows how the signal is 
+being effected.
+Fast/Slow: Determines the speed at which the effect is applied, fast or slow.
+	 Expander: Emphasizes differences in volume by lowering the level of soft parts of the signal 
+relative to the level of louder parts and can be used to minimize noise while increasing the 
+dynamic range of a signal.
+Threshold (dB): Sets the level at which the signal will start to be effected from –40dB to –8dB.
+Range: Amount of decrease in signal level in dB, as expansion lowers the softer parts of the signal.
+Fast/Slow: Determines the speed at which the effect is applied, fast or slow.
+	 Excite: Synthesizes additional high frequency content in a source signal, using various techniques. 
+Used subtly, it can add more presence to sounds that may be overly dull without having to use EQ.
+Amount: Sets the amount of the exciter on the signal with lower values effecting less and higher 
+values effecting more. A meter next to the amount knob shows how the signal is being effected.
+Female/Male: Tailors the exciter’s response to be optimized for a male or female voice.
+Distortion
+An effects plugin. Creates audio distortion that’s useful for sound design and effects, ranging from 
+simple harmonic distortion simulating an audio signal going through primitive or faulty electronics 
+(such as bad speakers, old telephones, or obsolete recording technologies), all the way to mimicking 
+an overdriven signal experiencing different intensities of hard clipping (think someone yelling 
+through a cheap bullhorn, megaphone, or PA system). This plugin includes soft tube emulation in the 
+output stage.
+An animated graph shows the results of adjusting the Distortion parameters of this plugin, giving you 
+a visualization of the kind of harmonic distortion, waveshaping, and clipping that will be modifying 
+the signal as you make adjustments. Input and Output meters let you see how the levels are 
+being affected.
+4105
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4106]]
+The Distortion Fairlight FX
+Distortion has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Filters: Two filters let you simulate devices reproducing limited frequency ranges.
+LF Cut: Low frequency distortion shaping.
+HF Cut: High frequency distortion shaping.
+	 Distortion: Three sets of controls let you create the type and intensity of distortion you want.
+Mode buttons: Switch the operational mode of distortion. The one to the left, Distortion, creates 
+harmonic distortion. The button to the right, Destroy, is a more extreme polynomial waveshaper.
+Distortion: Adjusts the amount of distortion that’s applied to the signal. Higher values distort more.
+Ceiling: Adjusts the level of input signal that triggers clipping.
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+Auto Level button: Applies automatic compensation for gain added to the signal due to the 
+distortion being applied. Having this button turned on prevents the signal from becoming 
+dramatically and unexpectedly increased, while turning it off frees you to do what you want, if what 
+you want is to hear a lot of distortion.
+4106
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4107]]
+Echo
+An effects plugin. A classic Echo effect, simulating the reflection of sounds that occur with a delay after 
+the direct sound is heard. Processes in stereo or mono, depending on the track it’s applied to.
+A graph shows the timing and intensity of the echoes generated by this plugin on each channel, and 
+an Output meter displays the output level of the resulting signal.
+The stereo Echo Fairlight FX
+Echo has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Input Format: (Only visible when Echo is inserted on a multi-channel track.) Lets you choose how 
+multiple channels are input to the echo. Stereo sets separate Left and Right channels. Mono sums 
+Left and Right to both channels. Left inputs the Left channel only, and Right inputs the Right 
+channel only.
+	 Filter: Alters the proportion of frequencies that are included in the delay effect. When the Delay 
+plugin is inserted on a Mono Channel, the Left and Right sections are replaced with a single 
+“Delay” section.
+Low Cut (Hz): A global High Pass filter.
+High Cut (Hz): A global Low Pass filter.
+Feedback: Adjusts the frequency of a damping filter for the feedback signal.
+	 Left Channel: Parameters that independently affect delay on the Left Channel. When the Echo 
+plugin is inserted on a Mono Channel, the Left Channel and Right Channel sections are replaced 
+with a single “Echo” section with only the Delay Time, Feedback Delay, and Feedback controls.
+Delay Time: Global Delay time for the Left Channel.
+Feedback Delay: Echo Delay time for the Left Channel.
+Feedback: Feedback percentage of the Left channel back to itself.
+L > R Feedback: Percentage of Left feedback signal which feeds back to Right Channel.
+4107
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4108]]
+	 Right Channel: Parameters that independently affect delay on the Right Channel.
+Delay Time: Global Delay time for the Right Channel.
+Feedback Delay: Echo Delay time for the Right Channel.
+Feedback: Feedback percentage of the Right channel back to itself.
+R > L Feedback: Percentage of Right feedback signal which feeds back to Left Channel.
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+EQ ‑ Fairlight EQ
+The Fairlight EQ is a 6-band parametric equalizer with controls for boosting or attenuating different 
+frequencies.
+Each band has controls for filter type, including Bell, Lo-Shelf, Hi-Shelf, Notch, Frequency, Gain, and 
+Q-factor (sharpness of the band). 
+Fairlight EQ plugin
+Master Controls
+The Equalizer window has the following controls located in the upper section of the interface
+	 Preset Menu: Your EQ settings can be saved as presets by clicking the Plus button to the left of 
+the Preset menu and recalled by clicking the menu and making a selection. You can also scroll 
+through the presets by clicking the left or right “arrow” (< or >) to the right of the drop-down menu.
+4108
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4109]]
+TIP: You can save an EQ setting as the default by selecting the Set as Default option 
+from the Options menu (three dots) located in the upper-right corner, to the right of the 
+Reset button.
+Fairlight EQ Presets can be copied and pasted to other instances of the plugin for a 
+faster workflow.
+	 Compare Buttons (A and B): These buttons let you quickly compare two different EQ settings.
+If you create an EQ setting or select a preset when button A is active (red), then click button B 
+and create or choose a different setting, clicking between the buttons quickly switches from one 
+setting to the other.
+	 Bypass Button: Switched the Fairlight EQ on and off.
+	 Reset Button: Clicking the circular Reset icon, located in the upper-right corner of the EQ, undoes 
+the most recent action you’ve taken in the plugin interface.
+EQ Graph
+This graph displays the current EQ curve with handles representing each EQ band. Although their 
+position on the graph is based on the parameter settings on the plugin interface, you can drag any 
+numbered handle to boost or attenuate the range of frequencies governed by an active band, based 
+on the currently selected equalization filter.
+Fairlight EQ graphical display
+Bands 1 and 6
+These parameters let you adjust the lowest and highest frequencies of the audio signal.
+Band enable button: Switches each EQ band on and off.
+Band filter type: Bands 1 and 6 can be switched between five filtering options as 
+described below:
+•	 For Band 1, these include (from top to bottom): Lo-Shelf, Notch, Hi-Shelf, and Hi-Pass.
+•	 For Band 6, the options are (from top to bottom): Lo-Pass, Bell, Notch, and Hi-Shelf.
+Frequency: Adjusts the center frequency of the EQ adjustment.
+Q Factor: This parameter adjusts the width of affected frequencies and appears whenever the 
+Bell option is selected. Lower values cover a wider range of frequencies; higher values narrow 
+the frequency range.
+This parameter does not affect the audio signal when either the Hi-Pass, Lo-Shelf, 
+or Hi‑Shelf filter is in use.
+4109
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4110]]
+Bands 2 through 5
+These bands included the following controls and parameters:
+Band enable button: Turns each band of EQ on and off.
+Band filter type: These Bands offer four filtering options (from top to bottom): Lo-Shelf, Bell, 
+Notch, and Hi-Shelf.
+Frequency: Adjusts the center frequency of the EQ adjustment.
+Gain: Negative values attenuate the selected frequency, while positive values boost it.
+This parameter does not affect the audio signal when the Notch filter is in use.
+Q Factor: This parameter appears when the Bell setting is selected. It adjusts the width of 
+affected frequencies. Lower values cover a wider range of frequencies; higher values narrow 
+the frequency range.
+This parameter does not affect the audio signal when either the Lo-Shelf, Notch, 
+or Hi-Shelf filter is in use.
+Flanger
+An effect plugin, giving that unmistakable Flanger sound dating from the days of dual tape machines 
+with a slight delay added to one in periodic intervals causing flanging as they got back in sync 
+with one another. Typically used to add a sort of warbling harmonic interest to a signal, in a wide 
+variety of ways.
+An animated graph shows the results of adjusting the Modulation parameters of this plugin, giving you 
+a visualization of the kind of warble that will be added to the signal as you make adjustments.
+The Flanger Fairlight FX
+4110
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4111]]
+The Flanger has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Input mode: (Only visible when the Flanger is inserted on a multi-channel track.) Lets you choose 
+how multiple channels are input to the Flanger. Stereo sets separate Left and Right channels. 
+Mono sums Left and Right to both channels. Left inputs the Left channel only, and Right inputs the 
+Right channel only.
+	 Modulation: A low frequency oscillator (LFO) used to drive the Flanger effect.
+Waveform (Hz): Specifies the shape of the LFO that modulates the rate of the Flanger. The 
+three choices are Sine (a smooth change in rate), Triangle (a jerky change in rate), and Sawtooth 
+(an abrupt change in rage). Affects the timing of the warble that is added to the sound.
+Rate: Speed of the LFO, affects the speed of the warble that is added to the sound. Low rate 
+values create a slow warble, while high rate values create more of a buzz.
+Depth: Affects the “length” of the warble that is added to the sound. Low values add only the very 
+beginning of a warble, high values add more fully developed warble.
+	 Width: Consists of a single parameter, Expansion, which sets Left/Right channel length 
+differences, along with the phase offset of modulators.
+	 Feedback: These controls determine, in large part, how extreme the Flanging effect will be.
+Amount (%): The percentage of signal fed back to the Delay Line. Values can be positive or 
+negative, the default is 0 (no effect). Increasing this parameter adds more of the Flange effect to 
+the signal, lowering this parameter adds more of the inverted Flange effect to the signal. At values 
+closer to 0, only a faint phase shift can be heard in the audio, but at values farther away from 0 
+(maxing at +/- 99), a gradually increasing warble becomes audible. The type of warble depends on 
+the Modulation controls.
+High Ratio: Determines the attenuation of the echo over time.
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+Foley Sampler
+The Foley Sampler is a built-in sampler that makes it easy to add sound effects that you want to play 
+using a keyboard, pad, or other MIDI performance device connected to your computer, to add timed 
+sound effects to sync with onscreen visuals. This plugin has been designed to simplify the process of 
+recording performed audio cues on the current track to which the sampler has been added.
+Setting Up the Foley Sampler
+Using the Foley Sampler to record samples played with a MIDI controller is easy.
+1	
+Create an audio track for your sound effects or instrument recording.
+2	
+Drag the Foley Sampler onto the track header to assign it to that track. The Foley Sampler window 
+automatically appears. The Fairlight page knows this is an instrument with no inputs to the plugin, 
+so this effect is automatically patched to that track’s input, ready for recording.
+3	
+If you have a MIDI controller of some kind connected to your computer and properly configured, 
+it will appear in the MIDI dropdown menu at the upper-right corner of the Foley Sampler window 
+(next to the Keyboard button). Choose your device from this menu, and the Keyboard button will 
+highlight to show it’s enabled.
+At this point, the Foley Sampler is ready to be used, but by default it has no samples loaded to play. 
+The next step is to add sound effects.
+4111
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4112]]
+Adding Sound Effects
+You can add prerecorded sound effects or instruments to the Foley Sampler in the following ways:
+	 Drag and drop an audio file in a supported format from the file system onto the 
+Foley Sampler window
+	 Drag and drop a sound effect from the Sound Library onto the Foley Sampler window
+	 Click the Foley Sampler window’s Option menu and input sounds from your attached drives. 
+Once you’ve loaded a sound effect of some kind, it’s automatically mapped to the top four keys of your 
+instrument, starting at C2. Pressing a key or pad of your controller will play that sound.
+To see the sound’s waveform, click the Sample button at the top of the Sound panel. In this example, 
+there are a series of continuous footsteps recorded in a row that we can use.
+A footsteps recording loaded into the Foley Sampler
+Splitting Sound Effects
+It’s common to use pre-recorded library sound effects that consist of a series of recorded footsteps, 
+cloth rustles, punches, or other “foleyed” sound recordings, in order to play variations of a specific 
+kind of repetitive sound effect in sync to action that’s happening on screen. The Foley Sampler lets 
+you do this easily.
+1	
+After you’ve loaded a sound effect, click the Foley Sampler window’s Option menu and choose 
+Split Sample to automatically split the current sample into slices based on an analysis of its noise 
+floor, and assign each slice to a set of keys or pads on your selected MIDI device. Continuing with 
+the previous example, each footstep has been split and assigned to a different key.
+2	
+To adjust the timing of each slice of the sound effect that’s been split apart, you can click on 
+the assignment text above the keyboard at the bottom of the window to see that slice in the 
+Sample view.
+4112
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4113]]
+3	
+You can adjust the Range Start and Range End parameters to encompass as much or as little of 
+that slice as you want to play back. 
+4	
+If you want a sample to loop if a note is held down, you can enable the Loop button, and then 
+adjust the Loop Start and Loop End parameters to choose how much of each slice will loop.
+5	
+To delete slices that aren’t useful, you can select a slice you don’t like and press Shift-Delete to 
+clear that slice from the virtual keyboard.
+A single slice of the footsteps recording after being split in the 
+Foley Sampler, with the range of the effect adjusted
+Assigning Sound Effects Manually
+When you first load sound effects into the Foley Sampler, they’re automatically assigned to a series of 
+notes. Each additional sound effect that you load is automatically assigned to the next series of notes 
+to the right. Once all notes are occupied, additional sound effects will shuffle all previous assignments 
+to the left.
+You also have the option of manually assigning sound effects that you load. This is useful when you 
+want to manually load a variety of different sound effects all at once (such as a combination of punch 
+sounds, human grunts, and cloth rustles to use in a fight scene), and assign them to particular notes of 
+your choosing.
+1	
+Load a sound effect you want to map.
+2	
+Click the Mapping button to remap the range of notes it corresponds to.
+3	
+Use the Low and High parameters to select a range of notes for the selected sound.
+4	
+You also have the option of tuning the pitch of specific sound effects, if necessary.
+4113
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4114]]
+The Mapping controls used to assign a 
+sound to a particular set of notes
+Adjusting Sound Effects
+If you want to customize a sample or slice further, you can select it above the virtual keyboard and use 
+the controls on the Level panel to control the dynamics of audio playback, or you can use the controls 
+on the Filter panel to EQ the sound.
+TIP: If a sample or slice is set to loop, you can press the Control key and click a key on the 
+virtual keyboard to initiate looping, so you can hear these adjustments as you’re making them.
+Playing and Recording Sound Effects
+Once you’ve set up the Foley Sampler with sound effects you can play from a MIDI controller, 
+recording those sound effects is simple. 
+1	
+Make sure that the “Save clips to” field in the Capture and Playback panel of the Project Settings is 
+correctly set up to record to the desired storage volume, using the Browse button, if necessary.
+2	
+Click the R button in the track header of the audio track to which you applied the Foley Sampler, to 
+put that track into Record Enable mode.
+3	
+Click the Record button in the Fairlight toolbar.
+4	
+While Fairlight records, use the keys or buttons of your MIDI controller to play sounds in sync to 
+the picture on your display. When you’re done, click the Stop button.
+You should now have a recorded clip containing the sound effects you played, in sync to the picture. 
+If they’re a bit out of sync, you can always use the Elastic Wave audio retiming controls to tighten the 
+sync without re-recording everything.
+A new clip of audio created by recording sounds played via the Foley Sampler
+4114
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4115]]
+Frequency Analyzer
+The Frequency Analyzer provides visual information about your clips or tracks as either a Spectrum or 
+Waterfall graph to identify possible sonic issues so you can further sculpt your audio.
+Options in the Mode menu in the upper right let you examine either the Full frequency range of the 
+signal (default) or close-up views of the Low, Midrange, or High frequencies.
+Frequency Analyzer Spectrum view 	
+Frequency Analyzer plugin Waterfall view
+Gain
+This plugin is used to accurately increase or decrease the volume level of an audio signal by a specific 
+number of decibels. It is helpful in numerous contexts, such as making a quick adjustment to the 
+overall volume of a track that has extensive mixer or plugin automation written to it.
+This plugin is used to accurately increase or decrease the volume level of an audio signal by a specific 
+number of decibels. It is helpful in numerous contexts, such as making a quick adjustment to the 
+overall volume of a track that has extensive mixer or plugin automation written to it.
+The Fairlight Gain plugin
+LFE Filter
+A low-pass filter that you can apply to a FlexBus or Main that’s in a surround sound format, to feed low-
+frequency sound to an LFE channel as part of a surround sound mix. The filter will exclude any sounds 
+above your chosen frequency setting to the audio that is sent to a sub-woofer in the LFE channel. 
+It helps keep unwanted and unnecessary audio from being sent to the sub-woofer and increases 
+playback clarity.
+4115
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4116]]
+A Frequency control lets you choose which low frequency range you want to include, and a Trim 
+control lets you set the level of the resulting LFE channel. If it is multi-channel but has no LFE channel 
+available, such as a 5.0 format, then this plugin does nothing.
+The LFE plugin
+Limiter
+The Limiter detects and reduces peaks in an audio signal, so the overall level can be boosted without 
+clipping while reducing the dynamic range in a similar manner to a compressor.
+This is a true peak limiter that can look 64 samples ahead of the input signal, allowing an extremely 
+smooth limiting response.
+The Input control lets you adjust the incoming signal level, while the Threshold and Release 
+control when limiting occurs and for how long. The graph indicates which parts of the signal are 
+being affected.
+The Limiter plugin
+4116
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4117]]
+Limiter controls
+	 Bypass: Toggles this plugin on and off.
+	 Input Meter: Shows the level of the incoming signal.
+	 Input Level: This control lets you adjust the incoming signal level within a range of -18 dB to +18 dB. 
+Activating the Soft button causes the limiter to use a gentler attack. 
+	 Ceiling: This determines the threshold (level) at which the Limiter starts reducing the input signal. 
+When set to -24 dB, any signal above that level is limited. When set to 0 dB, no limiting occurs.
+	 Release: This determines how long the limiting (signal reduction) takes place. Setting this 
+control to 0.01 milliseconds results in a very fast release time, while the longer release time of 
+1000 milliseconds is the slowest. 
+	 Reduction Meter: This shows the amount of level (gain) reduction applied to the input signal. 
+	 Output Meter: Shows the output level after the limit.
+Limiter Sidechaining
+The Fairlight FX Limiter supports sidechaining, which lets you temporarily lower the level of a target 
+track or bus using the audible signal from a source track or bus. 
+This is very helpful when multiple tracks are “fighting” for space in a mix because they share some or 
+all the same frequency range. For example, a track or bus with dialogue and a bus or track with traffic 
+and crowd noise. 
+Essentially, this is another form of “ducking” where, in the example above, the dialogue attenuates the 
+traffic and crowd noise until the dialogue stops. This allows the voices to be heard more prominently 
+in the mix. 
+Sidechain controls
+Using the Limiter Sidechain
+Carrying on with the example mentioned above:
+1	
+Open the Limiter on the destination track or bus with the traffic and crowd noise.
+2	
+Select the Dialogue track or bus in the source dropdown to the right of the Listen button.
+	 This is the audio you’re using to attenuate the level of the target track. 
+	 Using a bus as the source lets you use multiple sources to trigger changes in your target track.
+Clicking the Listen button lets you hear the incoming signal if you need to confirm that the 
+correct input signal is coming into the Limiter. This button turns yellow when active.
+4117
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4118]]
+Meter
+A sample peak processing meter that’s useful for temporarily adding a meter to a specific track or 
+FlexBus. These meters are useful for instances where you want a large meter that focuses on a 
+specific bus or track while you’re working.
+The Meter Fairlight FX
+These meters are presented very simply, with a gray bar indicating level and a red peak line that holds 
+for two seconds, which indicates the highest peak. A numeric reading at the top of the meter gives the 
+exact level, in dB. This number continues to hold, indicating the loudest level measured for any given 
+stretch of playback.
+Meter can be resized by pulling from the bottom right and has the following controls located in the 
+option menu:
+	 Reset Peak on Play: When enabled, the numeric peak level is reset every time playback stops and 
+starts again. When disabled, the numeric peak level persists until changed by a higher peak.
+	 Reset: Resets the numeric peak level.
+Modulation
+An effect plugin. General purpose modulation plugin for sound effects or sound design. Four effects 
+combine an LFO, FM adjustment, AM adjustment, Sweep and Gain filters to allow simultaneous 
+frequency, amplitude and space modulation. In conjunction with the Rotation controls, simple Tremelo 
+and Vibrato effects can be combined with auto-filter and auto-Pan tools in order to provide texture 
+and movement to a sound.
+An animated graph shows the results of adjusting the Modulator, Frequency, and Amplitude 
+parameters of this plugin, giving you a visualization of the kind of modulations that will be applied to 
+the signal as you make adjustments. Output meters let you see what level is being output.
+4118
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4119]]
+The Modulation Fairlight FX
+Modulation has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Modulator: A low frequency oscillator (LFO), shown in blue in the animated graph.
+Shape: Specifies the shape of the LFO waveform that modulates the audio. Six options 
+include Sine, Triangle, Saw1, Saw2, Square, Random.
+Rate (Hz): Adjust the speed of the modulating LFO. Lower settings result in warbling audio, 
+while extremely high settings result in buzzing audio the timbre of which is dictated by the 
+shape you’ve selected. 
+	 Frequency: Frequency modulation (FM) of a secondary oscillator, shown as 
+green in the animated graph.
+Level (%): Acts as a Dry/Wet knob controlling the amount of Frequency Modulation that’s applied, 
+intensifying or easing off the effect.
+Phase: Since each of the four primary effects within this plugin can be applied together, along 
+with the fact that modulation with level components (Tremelo/Rotation/Filter) have the ability 
+to combine or cancel out one another, phase controls are available. Altering the phase of an 
+individual effect allows control of such interaction (e.g., cancel out a high level change, or 
+offset a cancellation).
+	 Filter: Sweep and gain filters.
+Filter (%): Acts as a Dry/Wet knob controlling the amount of filter sweep and gain to additionally 
+use to modify the signal. The amount you’ve selected is previewed in a 1D graph to the side.
+Tone: Adjusts the center frequency of sweep.
+Phase: Since each of the four primary effects within this plugin can be applied together, along 
+with the fact that modulation with level components (Tremelo/Rotation/Filter) have the ability 
+to combine or cancel out one another, phase controls are available. Altering the phase of an 
+individual effect allows control of such interaction (e.g., cancel out a high level change, or 
+offset a cancellation).
+4119
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4120]]
+	 Amplitude: Amplitude modulation (AM) of a secondary oscillator, shown as 
+green in the animated graph.
+Level (%): Acts as a Dry/Wet knob controlling the amount of Amplitude modulation applied. 
+(Disabled in Ring Modulation Mode.)
+Phase: Since each of the four primary effects within this plugin can be applied together, along 
+with the fact that modulation with level components (Tremelo/Rotation/Filter) have the ability 
+to combine or cancel out one another, phase controls are available. Altering the phase of an 
+individual effect allows control of such interaction (e.g., cancel out a high level change, or 
+offset a cancellation).
+Ring Modulation Mode: Enables a Ring Modulation effect (where the signal is multiplied by the 
+modulator, rather than modulated by it).
+	 Rotation: These controls are only available when applied to a multi-channel track.
+Rotate: Amount of Rotation applied.
+Offset: Start offset of rotation in order to further place the signal in space.
+Phase: Since each of the four primary effects within this plugin can be applied together, along 
+with the fact that modulation with level components (Tremelo/Rotation/Filter) have the ability 
+to combine or cancel out one another, phase controls are available. Altering the phase of an 
+individual effect allows control of such interaction (e.g., cancel out a high level change, or 
+offset a cancellation).
+	 Output: Controls for adjusting the final output from this plugin.
+Dry/Wet (%): A percentage control of the output mix of “dry” or original signal to “wet” or 
+processed signal. 0 is completely dry, 100% is completely wet.
+Output Level (dB): Adjusts the overall output level of the affected sound.
+Multiband Compressor
+A dynamics processor that compresses in highly definable frequency bands. The graph displays 
+frequencies in Hertz horizontally and gain in decibels vertically. This allows for precise compression 
+specific to defined frequency bands and is useful for taming only one or several parts of a signal. 
+The default setting of the Multiband Compressor
+4120
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4121]]
+Each band has dynamics control in the determined frequency ranges of Low, Med, and High and are 
+adjustable by pushing the intersection mark on the graph per band or by typing in a frequency.
+Bands 1 – 4
+Controls for each band.
+	 Threshold: Sets the maximum allowable output level. The default is –25dB. The range is from 
+–50 to 0dB.
+	 Gain: Can add or attenuate up to 12 dB of gain.
+	 Ratio: Adjusts the compression ratio. This sets the gain reduction ratio (input to output) applied to 
+signals that rise above the threshold level. The default is 1.5.0:1. The range is 1.0:1 to 7:1.
+	 Limit: Limits the output amount by up to 15 dB. The default is 4.5 dB.
+	 Attack: Adjusts the attack rate time constant of the sidechain detector. The default is 1.4 mS. The 
+range is 0.1 to 100 mS.
+	 Hold: Keeps dynamics from being triggered again until a certain amount of time has passed, in mS 
+(milliseconds). Defaults to 0mS. The range is from 0 to 4000 mS.
+	 Release: Adjusts how quickly the sidechain detector stops applying dynamics when a signal goes 
+back below the threshold. The default is 150 mS. The range is 50 mS to 4.0 S.
+Master
+Controls for adjusting the final output from this plugin.
+	 Gain (dB): Adjusts the overall output level of the affected sound by adding or reducing 
+18 dB of gain.
+	 Q: Adjusts the width of affected frequencies. Lower values include a wider range of frequencies, 
+higher values include a narrower range of frequencies.
+Noise Reduction
+A repair plugin designed to reduce a wide variety of noise in all kinds of recordings. A graph shows 
+a spectral analysis of the audio being targeted, along with a purple overlay that shows what noise is 
+being targeted. Two audio meters let you evaluate the input level (to the left) versus the output level 
+(to the right), to compare how much signal is being lost to noise reduction. There are three default 
+presets: De-Hiss, De-Rumble, and De-Rumble and Hiss.
+The Noise Reduction Fairlight FX in action
+4121
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4122]]
+Noise Reduction has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Listen to Noise Only: This checkbox at the top right lets you listen only to the noise that is being 
+removed. This is very useful to determine if too much signal is being removed or if more noise 
+attenuation can be applied.
+	 Threshold (in dB): Relates to the signal-to-noise ratio (SNR) in the source recording. Recordings 
+with a poor signal-to-noise ratio will require a higher threshold value, resulting in more noise 
+reduction being applied.
+	 Attack (in ms): Primarily useful in Auto Speech mode, this controls the duration over which the 
+noise profile is detected. Ideally, the attack time should match the variability of the unwanted 
+noise. A low value corresponds to a faster update rate of the noise profile and is useful for quickly 
+varying noise; a high value corresponds to a slower update rate and can be used for noise 
+that’s more consistent.
+	 Sensitivity: Higher sensitivity values exaggerate the detected noise profile; the result is that more 
+noise will be removed, but more of the dialogue you want to keep may be affected. 
+	 Ratio: Controls the attack time of the signal profile relative to the attack time of the noise profile. 
+A faster ratio detects and preserves transients in speech more easily, but the resulting speech 
+profile is less accurate. 
+	 Frequency Smoothing: Smooths the resulting signal in the frequency domain to compensate 
+for harmonic ringing in the signal after the noise has been extracted.
+	 Time Smoothing: A toggle button enables smoothing of the resulting signal in the time 
+domain as well.
+	 Dry/Wet: A percentage control of the output mix of “dry” or original signal to “wet” or processed 
+signal. 0 is completely dry, 100% is completely wet.
+	 Level: To let you compensate for level that may be lost due to the noise reduction operation you’re 
+applying, this applies a pre-gain in, from -6dB to +18dB, just before the dry/processed mix. 
+Phase Meter
+Phase cancellation is a phenomena where the waveforms of a stereo recording (for example a stereo 
+recording of a music performance) go slightly out of sync with one another for whatever reason, and 
+begin to cancel one another out in unpredictable ways, resulting in the audio sounding strange. 
+This results in poor quality audio and can cause problems when you’re trying to compress a mix to a 
+distribution format such as AAF or MP3. 
+The Phase Meter plugin is a visual meter that lets you evaluate whether or not a signal is in phase 
+and is meant to be applied to a bus so you may evaluate the phase of a mix and correct whatever 
+problems may be occurring. The position of a green dot within a horizontal meter indicates the phase 
+of the signal. When there’s no signal or a signal on only one half of a stereo bus, the dot appears in the 
+center (0). When the signal is out of phase, the dot appears all the way to the left (–). When the signal is 
+in phase, the dot appears all the way to the right (+).
+The Phase Meter plugin
+4122
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4123]]
+Pitch
+An effects plugin that shifts audio pitch without altering clip speed.
+The Pitch Fairlight FX
+Pitch has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Semitones: A “coarse” adjustment that can shift audio pitch up to +/- 12 semitones.
+	 Cents: A “fine” adjustment that can tune audio pitch in +/-100th of a semitone.
+	 Dry/Wet: A percentage control of the output mix of “dry” or original signal to “wet” or processed 
+signal. 0 is completely dry, 100% is completely wet.
+Reverb
+A spatial simulation plugin, capable of recreating multichannel reverberation corresponding to rooms 
+of different sizes, adjustable via a graphical 3D cube control. This plugin lets you take a “dry” recording 
+and make it sound as if it’s within a grand cathedral, an empty room, a tiled bathroom, or other spaces.
+The Reverb Fairlight FX
+4123
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4124]]
+To understand this plugin’s controls, it helps to know that the signal follows three paths which are 
+combined to create the final effect:
+	 A direct path.
+	 An early reflection path (ER) simulating early reflection rays obtained from the first multiple 
+reflections on the walls, traveling from the virtual source to the virtual listener.
+	 A late reverberation path (Reverb) simulating the behavior of an acoustic model of the room.
+A graph shows an approximate visualization of the reverb’s effect on the frequencies of the 
+audio signal.
+Reverb has the following controls:
+	 Bypass: Toggles this plugin on and off.
+	 Room Dimensions: By controlling the size of the virtual room a sound is to inhabit, these 
+parameters simultaneously control the configuration of Early Reflection and Late Reverberation 
+processing. The acoustic modes from this simulated room are computed and fed to Late 
+Reverberation processing. The shape, gain, and delay of the first reflections are computed and 
+then fed to Early Reflection processing.
+Height, Length, Width: Defines the dimensions of the reverberant space, in meters.
+Room Size: The calculated Room Width x Length, in meters.
+	 Reverb: Additional controls that further customize the configuration of Early Reflection and Late 
+Reverberation processing.
+Pre Delay: Increase or negate the propagation time from the virtual source to the virtual listener. 
+As a result, it modifies the initial delay time between the source signal and the first reflection.
+Reverb Time: Decay time of the Reverb tail. It controls the overall decay time of the acoustic 
+modes from late reverberation processing. 
+Distance: Modifies the distance between the virtual source and the virtual listener. It modifies only 
+the configuration of early reflections processing.
+Brightness: Modulate the shape of the decay time over frequency. At maximum brightness, decay 
+time is identical at any frequency. At minimum brightness, higher frequencies result in shorter 
+decay time and therefore duller sound. 
+Modulation: Adds random low-frequency phase modulation from the tapping point of 
+ER processing. At 0%, modulation is not used.
+	 Early Reflection Tone: Four post equalization controls modify the tone of early reflections to suit a 
+particular room’s characteristics.
+Low Gain: Amount of gain added to the low frequency.
+Low Frequency: Frequency range of 150 Hz to 500 Hz.
+High Gain: Amount of gain added to the high frequency.
+High Frequency: Frequency range of 1k Hz to 16k Hz.
+	 Reverb Tone: Four post equalization controls modify the tone of the reverb tail to suit a particular 
+room’s characteristics.
+Reverb Tail Low Gain: Amount of gain added to the low frequency.
+Reverb Tail Low Frequency: Frequency range of 150 Hz to 500 Hz.
+Reverb Tail High Gain: Amount of gain added to the high frequency.
+Reverb Tail High Frequency: Frequency range of 1k Hz to 16k Hz.
+4124
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4125]]
+	 Output: These controls recombine the three audio processing paths into a single output signal.
+Dry/Wet: A percentage control of the output mix of “dry” or original signal to “wet” or processed 
+signal. 0 is completely dry, 100% is completely wet.
+Direct Level: The amount of the direct level to mix into the final signal.
+Early Reflection Level: The amount of early reflection to mix into the final signal.
+Reverb Level: The amount of reverb to mix into the final signal.
+Soft Clipper
+The Soft Clipper is a limiting processor that reduces the output level above a defined threshold in 
+a rounded manner so that peaks are more cleanly attenuated. The Soft Clipper plugin will impart 
+saturation effects when pushed hard above the threshold, allowing for the introduction of warmth and 
+subtle distortion to the sound. A graph shows the shape of the curve adjustment this plugin makes to 
+the audio.
+A soft clipper is often combined with a standard limiter in order to increase perceptual loudness of 
+material without imparting harshness.
+The Soft Clipper Fairlight FX
+	 Threshold: Introduces input gain to the signal prior to hitting the clipper, forcing audio peaks over 
+the threshold by that amount. As such, it will drive the saturation and distortion.
+	 Shape: The shape of the clipper can be varied to change the character of the soft clipper from 
+full soft-clipping (all the way right, where the peaks are rounded) to full hard-clipping (all the way 
+left, where the peaks are squared off). 
+	 Output Level: Lets you adjust the output gain to compensate for signal loss during soft clipping, 
+if necessary.
+4125
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4126]]
+Stereo Fixer
+A simple plugin designed to fix stereo source material in cases where only one side of a stereo signal 
+was recorded, where one side of a stereo recording is a different level to the other, or where the 
+stereo channels have been incorrectly Left/Right swapped.
+This plugin can also be used as a “Mid/Side” decoder, for recordings that were made using this 
+microphone technique. 
+This plugin is for stereo clips only.
+The Stereo Fixer Fairlight FX
+	 Format: The input processing mode you want to use to fix the stereo output.
+Stereo: (Default) No format conversion is performed.
+Reverse Stereo: Swaps the Left and Right side.
+Mono: The output from the plugin is a mono mix of the two inputs.
+Left Only: The left input is sent to both left and right outputs.
+Right Only: The right input is sent to both left and right outputs.
+M/S: The left output is the left (Mid) input minus the right input (Side). The right output is the left 
+(Mid) input plus right input (Side).
+	 Left/Right Gain: Lets you apply independent gain on the left or right outputs. This gain is applied 
+after (post) the input processing mode.
+TIP: For a comprehensive M/S decoder solution, simply chain two Stereo Fixer plugins 
+together. Use the first unit to control the Side signal level, thus controlling the width of the 
+second unit (set to M/S).
+4126
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4127]]
+Stereo Width
+An enhancement plugin that increases or reduces the spread of a stereo signal in order to widen or 
+reduce the separation between channels. If this plugin is added to a Mono channel, it will be disabled, 
+as there is no stereo width to either distribute or control.
+A graph shows the currently selected width of stereo distribution as a purple arc, while inside of that 
+graph a stereo meter shows the Left and Right distribution of the audio signal. Two audio meters 
+measure levels, an Input meter to the left, and an Output meter to the right.
+The Stereo Width Fairlight FX in action
+Stereo Width has the following controls:
+	 Width: Lets you control the spread of the stereo output. Settings range from 0 (Mono) to 1 (Stereo) 
+to 2 (extra wide stereo).
+	 Diffusion: Adds more complexity to the output.
+	 Sparkle: Adds more high frequencies to the spread.
+Surround Analyzer
+The Surround Analyzer is a graphical meter that shows a spatial image of the audio being measured, 
+rather than a typical bar graph meter. Due to its changing shape because of the signal being played, 
+sometimes it is referred to as the “jellyfish meter.”
+This type of metering is very useful; rather than relying on bars to indicate the directions in which 
+audio is radiating, you can clearly see the relationship of all of the channels to one another.
+The signal here is radiating more to the 
+right, indicating the panning of the audio.
+4127
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT
+
+[[p4128]]
+Vocal Channel
+An enhancement plugin for general purpose vocal processing consisting of High Pass filtering, 
+EQ, and Compressor controls.
+Side by side EQ and Dynamics graphs are presented above the controls. An output audio meter lets 
+you monitor the final signal being produced by this plugin.
+The Vocal Channel Fairlight FX
+Vocal Channel has the following controls:
+	 High Pass: Enabled by a toggle, off by default. Has a single frequency knob that sets the threshold 
+below which frequencies are attenuated to reduce boominess or rumble.
+	 EQ: A three-band EQ for fine tuning the various frequencies of speech, enabled by a toggle, 
+including Low, Mid, and High Mode, Frequency, and Gain controls 
+Low/Mid/Hi Mode: Lets you choose from different filtering options to use for isolating a range of 
+frequencies to adjust. Different bands present different options.
+Low/Mid/Hi Freq (Hz): Lets you choose the center frequency to adjust.
+Low/Mid/Hi Gain (dB): Lets you boost or attenuate the selected frequencies.
+	 Compressor:
+Threshold (dB): Sets the signal level below which compression occurs. Defaults to -25dB. 
+The range is from -40 to 0dB. 
+Reaction: Adjusts how quickly compression is applied when a signal exceeds the threshold. 
+The default is 0.10.
+Ratio: Adjusts the compression ratio. This sets the gain reduction ratio (input to output) applied to 
+signals which rise above the threshold level. The default is 1.5:1. The range is 1.1 to 7.0.
+Gain (dB): Lets you adjust the output gain to compensate for signal loss during compression, 
+if necessary.
+4128
+Fairlight | Chapter 181 Fairlight FX
+FAIRLIGHT

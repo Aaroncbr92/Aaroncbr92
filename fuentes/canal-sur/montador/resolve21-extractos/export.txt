@@ -1,0 +1,509 @@
+
+[[p4241]]
+Chapter 190
+Exporting Timelines 
+to Other Applications
+Once you’ve completed editing and grading a program, you may need to export your 
+final graded timeline as EDL, AAF, XML, or OTIO files in order to send it to another 
+application for further finishing, effects work, or to complete a round trip from an NLE.
+To send a graded project to another application, you need to render the graded clips first using 
+the controls on the Deliver page to render the Timeline as individual source clips. In this mode, the 
+reel name and timecode metadata of each rendered clip is mirrored by the exported project file, to 
+maintain the correlation between exported EDL, XML, AAF, or OTIO data and the rendered media.
+For detailed information on rendering in the Deliver page, jump to chapter: Rendering Media.
+If you render using the Easy Setups that correspond to Final Cut Pro XML or Avid AAF round trips, 
+then an XML or AAF will be exported to the same directory you’ve rendered to. However, you can still 
+export an XML, AAF, or EDL file separately should the need arise.
+Alternately, if you’ve edited a project from scratch in DaVinci Resolve and need to move a timeline 
+to another application, you can export any timeline to any format for purposes of project exchange, 
+without the need to render new media (depending on your workflow). 
+Even in situations where you’ve imported a timeline from another application, the robust project 
+compatibility of DaVinci Resolve makes it possible to import one type of project exchange file, such 
+as XML, and then export a completely different kind, such as AAF or EDL. This lets you use DaVinci 
+Resolve as a project exchange utility.
+Contents
+Exporting Timelines from DaVinci Resolve.. 4242
+Exporting to OTIO...................................................... 4242
+Exporting to AAF/XML............................................. 4243
+More About Exporting to AAF............................. 4244
+Exporting an EDL........................................................ 4244
+Exporting a Missing Clips EDL............................ 4245
+Exporting Timeline Markers to EDL.................. 4245
+Exporting to CDL........................................................ 4246
+Exporting the Edit Index 
+as a CSV or TXT File................................................. 4247
+Exporting to ALE......................................................... 4247
+Exporting to ALE with CDL.................................... 4249
+Exporting Timeline Markers to EDL.................  4250
+Exporting and Importing 
+Media Pool Metadata..............................................  4250
+4241
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4242]]
+Exporting Timelines from DaVinci Resolve
+Modern post-production is not a one-stop process. It’s a common need for timelines and assets to be 
+moved between many different applications from a multitude of companies. While DaVinci Resolve has 
+its own proprietary .drt format for use in passing timelines between DaVinici Resolve workstations, the 
+program also offers a robust toolset for moving your assets to many other popular applications.
+As of this writing, the most reliable way to pass DaVinci Resolve timelines between 
+applications is as follows:
+	 From DaVinci Resolve to/from another DaVinci Resolve workstation: Export/Import a 
+DaVinci Resolve Timeline file (.drt)
+	 From DaVinci Resolve to/from another application: Export/Import an OpenTimelineIO file 
+(.otio, .otioz), if supported. If not supported, fall back to using XML or AAF flies instead.
+Exporting to OTIO
+DaVinci Resolve supports the Open Timeline IO (.otio) format for importing and exporting timelines 
+between applications. OTIO is an open source media and timeline interchange format created by the 
+Academy Software Foundation. It’s designed to be application and platform agnostic, allowing you to 
+pass your timeline and its media assets between programs with more compatibility than AAF or XML.
+There are two different OTIO formats supported by DaVinci Resolve:
+.otio: These files contain just the metadata about the timeline and no associated media. 
+They are small, portable, and require the end user to link the timeline to their own copies of 
+the media.
+.otioz: These bundle files contain both the timeline metadata and all of the timeline’s media 
+assets zipped together into one file. As a result, this file can be very large, as it contains the 
+full length media files of all assets used in the timeline. However it assures that whoever 
+imports the file has all the media needed and is linked automatically to replicate the timeline 
+on their machine without error.
+To Export an OpenTimelineIO (.otio, .otioz) file:
+1	
+Select File > Export > Timeline (Shift-Command-O).
+2	
+Type in a name for the timeline file.
+3	
+In the file browser select either .otio files or .otioz bundle files in the format selector.
+4	
+Click Save.
+NOTE: If you selected to export .otioz bundle files, an additional step of creating the OTIO 
+bundle will occur as it adds each complete media file from all clips in the timeline to the final 
+bundled file. This can take a long time and may need additional storage based on the length 
+and amount of media assets used.
+4242
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4243]]
+Exporting to AAF/XML
+Whether you’ve edited your project from scratch inside of DaVinci Resolve, or you’re doing a round trip 
+with an application that uses AAF, Final Cut Pro 7 XML, or Final Cut X XML project exchange formats, 
+you can export any DaVinci Resolve timeline in the Edit page to any project format DaVinci Resolve 
+supports. Whatever your workflow, keep the following in mind:
+Timelines are automatically exported when you render a timeline in the Deliver page: When 
+you use the “Final Cut Pro Round-Trip” or “Avid AAF Round-Trip” render setting presets, or a 
+preset created from one of them, a corresponding XML or AAF file is automatically exported 
+along with the media you render. 
+Even if you’ve imported a project from another application, you can re-edit imported projects 
+before export: If necessary, you can freely re-edit projects you’re planning to export. When 
+you export an AAF or XML file, the Timeline will be sent back to the originating NLE, or 
+onward to the finishing application of choice.
+Unsupported effects are sometimes preserved in Round Trip workflows: If there were effects 
+or clip constructs in the original sequence that were not compatible with DaVinci Resolve, how 
+those effects will be handled depends on the project format you’re exporting to, and whether 
+or not you’ve edited the project. For XML projects, unsupported effects are saved internally 
+by DaVinci Resolve, and are exported with the XML file that you output no matter what. 
+Consequently, they should reappear when you reopen the exported file in the originating NLE. 
+For AAF projects, you can export unsupported effects as long as you don’t re-edit the project. 
+However, if you do re-edit the project, then you can only export an AAF file that’s been 
+stripped of all unsupported effects.
+Project formats can be converted to other formats: Using DaVinci’s Export commands, 
+compatible project formats can be converted from one format to another. For example, an 
+imported EDL can be output as Final Cut Pro X XML. For that matter, Final Cut Pro 7 XML can 
+be imported and then exported as Final Cut X XML. Or, an AAF file from Media Composer 
+can be imported and then exported as a Final Cut Pro XML file to be opened in any NLE or 
+finishing application compatible with that format, such as Premiere Pro or Smoke.
+To export an AAF or XML file after you’ve rendered the graded clips:
+Do one of the following:
+1	
+To export the current Timeline, choose File > Export AAF, XML, or press Shift-Command-O.
+	 Open the Edit page, right-click the Timeline you want to export in the Media Pool, and choose 
+Timelines > Export > AAF/XML.
+	 When the Export XML dialog appears, type a name for the file and choose a location for the 
+exported XML file, then click Save.
+2	
+An XML version of that timeline is saved, complete with references to the graded media you 
+rendered, and is ready for import into an NLE or finishing application.
+4243
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4244]]
+More About Exporting to AAF
+When you export to AAF, there are actually two options that are available to you, depending on 
+whether you made editorial changes to the Timeline in the Edit page:
+If you didn’t make any editing changes to the Timeline you imported: You can choose 
+File > Export AAF, XML, and choose “AAF Files” from the Format dropdown menu. 
+This exports all audio and effects using data from the original AAF file that was exported 
+from Media Composer, regardless of whether or not they’re supported in DaVinci Resolve. 
+When you export an unedited AAF, DaVinci Resolve uses the Avid AAF file that you originally 
+imported to create an updated one; make sure it’s still in the same location as it was when you 
+first imported it into DaVinci Resolve.
+If you made editing changes to the Timeline you imported, or you’re exporting a project that 
+wasn’t AAF to begin with: Then you need to right-click the Timeline you want to export in 
+the Media Pool and choose Timelines > Export > Generate New AAF. This option creates a 
+brand new AAF file, but audio and effects that are not supported in DaVinci Resolve in an 
+AAF import are discarded. 
+Exporting an EDL
+DaVinci Resolve is also capable of exporting EDLs that can be reimported into other applications. 
+For more information on EDL workflows, jump to these chapters: Ingesting From Tape, 
+Conforming and Relinking Media and Conforming EDL Files.
+To export an EDL:
+1	
+Open the Edit page and select the Timeline you want to export an EDL from in the Media Pool.
+2	
+Exported EDLs only have a single video track. For timelines with multiple tracks, only the events 
+on the video track with the destination control assigned to it will be exported (the destination 
+control is the first control at the left in the track header). If you want to export a track other than 
+Video 1, you can assign the destination control to the specific track you need to export.
+3	
+Right-click the Timeline in the Media Pool, and choose Timelines > Export > AAF/XML/EDL from 
+the contextual menu.
+4	
+When the Export Timeline dialog appears, type a name, choose a location for the exported EDL, 
+and choose EDL Files from the dropdown menu at the bottom, then click Save. An EDL 
+is exported.
+4244
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4245]]
+Exporting a Missing Clips EDL
+This command lets you export a quick report listing all clips that are offline in the currently selected 
+track of the Timeline in the Edit page. This report is in EDL format, with one event for each clip that’s 
+offline, which describes the reel number and source timecode of the missing media, as well as the 
+record timecode of the missing media’s position on the Timeline.
+Here’s an example of an exported Missing Clips EDL:
+TITLE: ( no title )
+1
+A001_C002_0820GA_001 V
+C
+10:28:27:03
+10:28:28:00
+01:00:00:00
+01:00:00:21
+2
+A004_C012_0820MC_001 V
+C
+14:07:31:21
+14:07:35:13
+01:00:12:13
+01:00:16:05
+3
+A017_C001_0820CV_001 V
+C
+21:16:14:22
+21:16:15:00
+01:00:16:05
+01:00:16:07
+Once you’ve exported this information, you can hand it off to whomever can help you track down the 
+missing media.
+To export a Missing Clips EDL:
+1	
+Open the Edit page and open the Timeline you want to export a Missing Clips EDL for in the 
+Timeline browser.
+2	
+For timelines with multiple tracks, only the events on the video track with the destination control 
+assigned to it will be examined for missing clips. If you want to examine a track other than Video 1, 
+you can assign the destination control to the specific track you need to examine for missing clips.
+3	
+Right-click the Timeline in the Media Pool, and choose Timelines > Export > Missing Clips EDL 
+from the contextual menu.
+4	
+When the Save Missing Clips EDL dialog appears, type a name and choose a location for the 
+exported EDL, then click Save.
+Exporting Timeline Markers to EDL
+If you keep notes about a project within the notes field of Timeline markers, found in the Timeline ruler, 
+then it’s possible to export those notes as an EDL.
+To export timeline markers as an EDL: 
+1	
+Right-click that timeline in the Media Pool, and choose Timelines > Export > Timeline 
+Markers to EDL. 
+2	
+Choose a location and export format from the Export Edit Index dialog, and click Save. Each 
+Timeline marker is listed in the resulting EDL, with any notes included along with a duration, 
+where applicable.
+4245
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4246]]
+Exporting to CDL
+DaVinci Resolve can export and import basic grading data to and from other applications via a Color 
+Decision List (CDL). CDLs are an industry-standard file format originally developed by the American 
+Society of Cinematographers’ technology committee. DaVinci Resolve supports the 1.2 CDL standard 
+that defines the slope, offset, and power for each of the red, green, and blue channels, as well as the 
+overall saturation of each clip in a program. 
+CDL files are formatted similarly to EDLs, with SOP (Slope/Offset/Power), and SAT (Saturation) values 
+embedded as metadata in much the same way as comments are in a more typical EDL. 
+Here’s an example of a single CDL event:
+020 001 V C 03:02:49:13 03:02:53:00 01:01:28:11 01:01:31:22
+*ASC_SOP (1.109563 1.717648 0.866061)(-0.238880 -0.390357 0.353743) 
+(0.672948 1.384022 0.889876)
+*ASC_SAT 1.000000
+Because the CDL definition of a grade is so narrow, projects you’re planning to export to other 
+applications via a CDL must be constrained to only those operations the CDL mathematically defines. 
+Here are some things to keep in mind:
+	 Only primary corrections in the first node of each clip are exported.
+	 Restrict yourself to using the Lift/Gamma/Gain, Offset, and Saturation controls.
+	 Keyframes are never exported. If keyframes are present in a grade, only the parameter values at 
+the first frame of the clip are used. 
+	 The track grade and group grades are completely ignored.
+	 If there is an HSL Qualifier or a Power Window in the first node, it is ignored and the corrections in 
+that node are exported as if it were a primary correction.
+	 Do not make Y’ only adjustments; they’re not compatible with CDLs. To ensure that your exported 
+CDL is accurate, set the Lum Mix parameter in the Primary Controls palette for each grade to 0. 
+For workflows involving frequent CDL export, you can turn on the “Luminance Mixer defaults to 
+zero” option in the Color section of the General Options panel of the Project Settings to guarantee 
+this parameter is always set to 0.
+If your timeline conforms to all of these restrictions, then you’re ready to export a CDL.
+To export a CDL:
+1	
+Open the Edit page, right-click the Timeline you want to export in the Media Pool, and choose 
+Timelines > Export > CDL from the contextual menu.
+2	
+Enter a name for the CDL, choose a location to save it to, and click OK.
+For more information on importing a CDL to add grades to your project,jump to this chapter: 
+Copying and Importing Grades Using ColorTrace.
+4246
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4247]]
+Exporting the Edit Index 
+as a CSV or TXT File
+You can export the current contents of the Edit Index, in the Edit page, as a self-contained file to use 
+for reference in a variety of ways. 
+To export the Edit Index:
+1	
+Open the Edit Index, and choose one of the Edit Index filters from the Edit Index option menu, 
+if necessary. For example, you could filter the edit index by Offline Clips Only if you wanted to 
+export a list of all offline clips in the current timeline.
+2	
+Right-click that timeline in the Media Pool, and choose Timelines > Export > Edit Index, then 
+choose a location and export format from the Export Edit Index dialog, and click Save.
+Exporting to ALE
+DaVinci Resolve is also capable of exporting ALE (Avid Log Exchange) files. ALE is a tab-delimited, 
+ASCII text-based clip logging list format that enables the exchange of clip metadata that can’t be 
+embedded inside MXF files. ALE files are designed to let you export a log of all clips that are used in a 
+particular timeline with all of the metadata that’s associated with those clips in DaVinci Resolve, so this 
+metadata can be imported into and associated with clips inside Media Composer or Symphony.
+ALE files are divided into three sections, labeled Heading, Column, and Data:
+	 The Heading provides information about the clips being logged, including the picture and audio 
+format, and the frame rate. 
+	 The Column line defines each of the columns of metadata being exported in the list. There’s an 
+automatic minimum of metadata columns that are automatically included, regardless of whether 
+they’re populated or not. However, additional metadata columns are automatically added to 
+this list by DaVinci Resolve when any corresponding metadata field in the Metadata Editor is 
+populated. For example, if you enter information into the Camera, Keyword, and Shot fields of 
+the Metadata Editor, then those columns will be added to the exported ALE. There are no user 
+settings that control this.
+	 The Data section contains multiple lines, one for each event being referenced in the list, that 
+contain all the data corresponding to that clip. 
+If you’re exporting stereoscopic clips from stereoscopic timelines, the following additional columns of 
+metadata are automatically included in the two ALE files that are generated: 
+	 Pan (relative to timeline resolution)
+	 Tilt (relative to timeline resolution)
+	 Zoom
+	 Rotate
+	 Convergence (relative to timeline resolution)
+	 HFlip (0 or 1)
+	 VFlip (0 or 1)
+If you’re exporting ALE files from projects using ARRIRAW clips, the following additional columns of 
+metadata can be included: 
+	 Temperature
+	 Tint
+4247
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4248]]
+To export an ALE file:
+1	
+Open the Edit page, right-click the Timeline you want to export in the Media Pool, and choose 
+Timelines > Export > ALE from the contextual menu.
+2	
+Enter a name for the ALE file, choose a location to save it to, and click OK.
+The ALE file is saved, and a dialog appears reminding you of the file path to which it was saved 
+(click OK to dismiss it).
+Here’s an example of a short ALE export:
+Heading
+FIELD_DELIM
+TABS
+VIDEO_FORMAT
+1080
+AUDIO_FORMAT
+48khz
+FPS
+23.976
+Column
+Name, Tracks, Start, End, Take, Tape, UNC, FPS, Reel, Scene, Shoot, date, 
+Manufacturer, Source Resolution, Source, Bit Depth, DESCRIPT, Comments, 
+Audio SR, Audio Bit Depth, Auxiliary TC1, KN Start, Source File Path, 
+Display Name
+Data
+A001_C002_V01.CBF6A4FD139AD.mxf, V, 10:28:27:03, 10:28:28:00,  
+A001_C002_V01.CBF6A4FD139AD 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A001_C002_V01.CBF6A4FD139AD.mxf 
+23.98, DaVinci Resolve, 1920x1080, 10 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A001_C002_V01.CBF6A4FD139AD.mxf 
+A001_C002_V01.CBF6A4FD139AD
+A016_C008_V01.CBF6A4FD13ABD.mxf,V, 23:35:56:03, 23:36:00:11,  
+A016_C008_V01.CBF6A4FD13ABD 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A016_C008_V01.CBF6A4FD13ABD.mxf 
+23.98, DaVinci Resolve, 1920x1080, 10 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A016_C008_V01.CBF6A4FD13ABD.mxf 
+A016_C008_V01.CBF6A4FD13ABD
+A004_C012_V01.CBF6A4FD1438E.mxf, V, 14:07:31:21, 14:07:35:15,  
+A004_C012_V01.CBF6A4FD1438E 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A004_C012_V01.CBF6A4FD1438E.mxf 
+23.98, DaVinci Resolve, 1920x1080, 10 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A004_C012_V01.CBF6A4FD1438E.mxf
+NOTE: The commas shown above are not normally in the ALE but shown here for field clarity.
+4248
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4249]]
+Exporting to ALE with CDL
+Avid Media Composer and Symphony also support the import of ALE files with additional CDL 
+metadata columns with which to associate SOP (Slope/Offset/Power) and SAT (Saturation) adjustment 
+metadata to each clip that’s logged in the ALE. 
+When you import an ALE with CDL file into Media Composer, the SOP and SAT data populate 
+metadata columns for preservation and export in various Avid workflows. Here’s an example of the 
+Heading, Column, and Data sections of a sample ALE with CDL, with one line of clip and CDL data.
+To export an ALE with CDL file:
+1	
+Open the Edit page, right-click the Timeline you want to export in the Media Pool, and choose 
+Timelines > Export > ALE and CDL from the contextual menu.
+2	
+Enter a name for the ALE file, choose a location to save it to, and click OK.
+The ALE file is saved, and a dialog appears reminding you of the file path to which it was saved 
+(click OK to dismiss it).
+Here’s an example of a short ALE with CDL export:
+Heading
+FIELD_DELIM
+TABS
+VIDEO_FORMAT
+1080
+AUDIO_FORMAT
+–
+FPS
+23.976
+Column
+Name, Tracks, Start, End, Take, Tape, UNC, FPS, Reel, Scene, Shoot date, 
+Manufacturer, Source Resolution, Source Bit Depth, DESCRIPT, Comments, 
+Audio SR, Audio Bit Depth, Auxiliary TC1, KN Start, Source File Path, 
+Display Name KeyKode, ASC_SOP, ASC_SAT, RESOLVE_SIZING
+Data
+A001_C002_V01.CBF6A4FD139AD.mxf, V, 10:28:27:03, 10:28:28:00,  
+A001_C002_V01.CBF6A4FD139AD 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A001_C002_V01.CBF6A4FD139AD.mxf 
+23.98, DaVinci Resolve, 1920x1080, 10 
+/Volumes/Disk_1/Avid MediaFiles/MXF/1/A001_C002_V01.CBF6A4FD139AD.mxf 
+A001_C002_V01.CBF6A4FD139AD 
+(1.0260 1.0260 1.0260)(-0.0260 -0.0260 -0.0260)(0.8237 0.8237 0.8237) 0.8640 
+(0.0000 0.0000 1.0000 0.0000 0.0000 0 0)
+NOTE: The commas shown above are not normally in the ALE but shown here for field clarity.
+4249
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4250]]
+Exporting Timeline Markers to EDL
+This command lets you export a quick report listing the text of all markers that have been added to 
+the Timeline as notes in an EDL. Clip markers are ignored. This report is in EDL format, with one event 
+for each Timeline marker, with a placeholder reel number (001 by default), and source and record 
+timecodes that correspond to each marker’s position in the Timeline (with a duration of one frame). An 
+EDL note for each event lists the Marker note, if there is one. There is no note available for the color of 
+the markers
+Here’s an example of an exported Timeline Marker EDL:
+TITLE: ( no title )
+001 001
+V
+C
+01:00:09:09 01:00:09:10 01:00:09:09 01:00:09:10 
+Replace with another car door sound effect
+002 001 
+V
+C
+01:00:20:12 01:00:20:13 01:00:20:12 01:00:20:13 
+Trim this clip shorter
+003 001 
+V
+C
+01:00:30:12 01:00:30:13 01:00:30:12 01:00:30:13 
+Find another stock footage clip of the bridge
+004 001
+V 
+C
+01:00:30:13 01:00:30:14 01:00:30:13 01:00:30:14 
+Trim this montage three seconds shorter
+Exporting and Importing 
+Media Pool Metadata
+DaVinci Resolve makes it possible to export metadata from the Media Pool of one project for import 
+into the clips of another project, for instances where you need to move metadata around. This process 
+exports all metadata from the Media Pool as a .csv file.
+For example, a DIT might have entered a lot of metadata to the DaVinci Resolve project used for 
+generating dailies, but then an impatient editor might have created a separate project to begin editing 
+those dailies. Instead of requiring the editor to enter each clip’s metadata all over again, you can 
+export the metadata from the DIT’s project and import it into the editor’s new project, automatically 
+matching the relevant metadata to each corresponding clip. 
+To export Media Pool metadata:
+1	
+Open a project containing Media Pool metadata you want to export.
+2	
+Optionally, select which clips in the Media Pool you want to export metadata for.
+3	
+Choose File > Export Metadata From > Media Pool to export metadata from every clip in the Media 
+Pool, or choose File > Export Metadata From > Selected Clips to only export metadata from clips 
+you selected in step 2.
+4	
+When the Export Metadata dialog appears, enter a name and choose a location for the file to be 
+written, then click Save. All metadata is exported into a .csv file that can be viewed and/or edited 
+in any spreadsheet application.
+4250
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER
+
+[[p4251]]
+To import Media Pool metadata:
+1	
+Open a project containing clips you want to populate with imported metadata.
+2	
+Optionally, select which clips in the Media Pool you want to import metadata to.
+3	
+Choose File > Import Metadata To > Media Pool to import metadata to potentially every clip in the 
+Media Pool, or choose File > Import Metadata To > Selected Clips to only import metadata to clips 
+you selected in step 2.
+4	
+When the Import Metadata dialog appears, choose a metadata .csv file to import, and click Open.
+5	
+When the Metadata Import dialog appears, choose the Import Options you want to use to 
+match the .csv file’s metadata to the correct clips in the currently open project. By default, 
+DaVinci Resolve tries to use “Match using filename” and “Match using clip start and end 
+Timecode” to match each line of metadata in the .csv file with a clip in the Media Pool, but there 
+are other options you can use such as ignoring file extensions, using Reel Name, and using source 
+file paths.
+6	
+Next, choose which Merge Option you want to use in the Metadata Import dialog.  
+There are three options:
+Only update metadata items with entries in the source file: The default setting. Only updates a 
+clip’s metadata if there’s a valid entry in the imported .csv file. Other clip metadata fields are left as 
+they were before the import.
+Update all metadata fields available in the source file: For each clip that corresponds to a line 
+of metadata in the imported .csv file, every single metadata field referenced by the .csv file is 
+overwritten, regardless of whether or not there’s a valid entry for that field.
+Update all metadata fields available in the source file and clear others: For each clip that 
+corresponds to a line of metadata in the imported .csv file, every single metadata field referenced 
+by the .csv file is overwritten, regardless of whether or not there’s a valid entry for that field. 
+Furthermore, metadata fields that aren’t referenced by the imported .csv file are cleared of 
+whatever metadata was there before.
+The Metadata Import dialog that lets you choose options 
+for how to match and merge imported metadata
+7	
+When you’re finished choosing options, click Ok and all available metadata from the source .csv 
+file will be imported.
+4251
+Deliver | Chapter 190 Exporting Timelines to Other Applications
+DELIVER

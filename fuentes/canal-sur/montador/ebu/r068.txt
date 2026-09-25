@@ -1,0 +1,98 @@
+Page 1 
+ 
+EBU Technical Recommendation R68-2000 
+Alignment level in digital audio production equipment  
+and in digital audio recorders 
+EBU Committee 
+First issued 
+Revised 
+Re-issued 
+PMC 
+1992 
+1995 - 2000 
+ 
+ 
+Keywords: 
+Audio, Audio recording 
+The EBU has studied the needs of audio signal levels in digital equipment and recorders used in 
+broadcasting. It is of the opinion that recordings should be made with linear coding using no pre-emphasis and 
+with a resolution of at least 161 bits in accordance with ITU-R Recommendation BS.646 [1]. The EBU considers 
+that it is desirable to recommend a signal coding level so that signals can easily be exchanged between 
+equipment. 
+The EBU has considered various ways of specifying an audio level in digital form and has taken into 
+account: 
+- 
+that the only reliable method to specify a level in a digital signal is by reference to the maximum digital codes 
+allowed by the number of bits in use; 
+- 
+that an audio signal level can be defined in terms of an alignment signal that is a sine wave signal which has 
+a level (the alignment level) which is 9 dB (or 8 dB in some organizations) below the permitted maximum 
+level of the audio programme (the terms “alignment level” and “permitted maximum level” are defined in 
+ITU-R Recommendation BS.645 [2]; 
+- 
+that an alignment signal can be specified relative to the maximum sine-wave signal that can be coded by the 
+digital coding levels; 
+- 
+that, due to the characteristics of quasi-peak programme meters used by broadcasters, the true programme 
+peaks can be 3 dB greater than those indicated;  When operator errors are taken into account the true peaks 
+may occasionally be 6 dB greater than indicated or 15 dB above alignment level; 
+- 
+that the signal to noise ratio in a digital audio system is directly related to the number of bits used and the 
+alignment level chosen; 
+- 
+that it is desirable in practical operations to have all equipment and recorders aligned to the same level. 
+The EBU recommends 
+ that, in digital audio equipment, its Members should use coding levels for digital audio signals which 
+correspond to an alignment level which is 18 dB2 below the maximum possible coding level of the digital 
+system, irrespective of the total number of bits available.  The digital codes for maximum coding levels and 
+alignment levels for 16, 18, 20 and 24-bit audio systems are shown in Table 1. 
+Table  1  -  Digital codes for maximum levels and alignment levels 
+Number of bits 
+Maximum coding level 
+Audio alignment level 
+ 
+negative peaks 
+positive peaks 
+negative peaks 
+positive peaks 
+161 
+8000 
+7FFF 
+F000 
+0FFF 
+18 
+20000 
+1FFFF 
+3C000 
+03FFF 
+20 
+80000 
+7FFFF 
+F0000 
+0FFFF 
+24 
+800000 
+7FFFFF 
+F00000 
+0FFFFF 
+                                                        
+1. 
+16-bit recordings may not meet the requirements of some organizations regarding the signal-to-noise in production equipment, depending on 
+the performance of the A/D and D/A converters. 
+ 
+2. 
+corresponding to a ratio of 1:8 (18.06 dB) 
+ 
+
+ 
+Page 2 
+ 
+Bibliography 
+ 
+[1] 
+ITU-R Recommendation BS.646-1: Source encoding for digital sound signals in broadcasting 
+studios. 
+ 
+[2] 
+ITU-R Recommendation BS.645-2: Test signals and metering to be used on international soundprogramme connections. 
+ 

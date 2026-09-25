@@ -1,0 +1,234 @@
+
+[[p4410]]
+Chapter 201
+Workflow 
+Integrations
+This chapter describes third party Workflow Integration and Codec plugins for 
+DaVinci Resolve.
+Contents
+DaVinci Resolve Renderer Plugin for OFX VFX Applications (Studio Version Only)........................................  4411
+Dropbox Replay...................................................................................................................................................................................  4414
+Enabling Dropbox Replay Integration in Preferences.......................................................................................................  4414
+Deliver and Upload to Dropbox Replay...................................................................................................................................  4414
+Upload New Versions to Dropbox Replay.............................................................................................................................. 4416
+Dropbox Replay Comments Sync with Timeline Markers............................................................................................... 4416
+Working With Dropbox Markers................................................................................................................................................... 4417
+Workflow Integrations in DaVinci Resolve (Studio Version Only)..............................................................................  4418
+Creating Workflow Integration Plugins...................................................................................................................................  4418
+Workflow Integration Plugins......................................................................................................................................................  4418
+EditShare.................................................................................................................................................................................................  4418
+Studio Network Solutions (SNS).................................................................................................................................................. 4419
+Codec Plugins (Studio Version Only)........................................................................................................................................ 4420
+MainConcept........................................................................................................................................................................................ 4420
+4410
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4411]]
+DaVinci Resolve Renderer Plugin for 
+OFX VFX Applications (Studio Version Only)
+The Open FX plugin DaVinci Resolve Renderer allows third-party applications to open and apply 
+DaVinci Resolve’s color changes using exported DRX stills. Essentially this turns an installation of 
+DaVinci Resolve Studio into one large OFX plugin. This can be very useful when round tripping 
+with various VFX authoring applications where you may want to maintain the exact look created in 
+DaVinci Resolve.
+Exporting a DRX still contains much more information about the grade than a simple LUT. DRX files 
+can include data like all the native color and sizing palettes and other items you stored in a Gallery still. 
+This ensures that the grade the colorist created can be exactly replicated in the VFX software.
+As of this writing, the following attributes WILL transfer 
+via the DaVinci Resolve OFX Renderer Plugin:
+•	 All native color palettes (Primaries, HDR, Curves etc.).
+•	 All native sizing palettes (Input, Output, Node etc.).
+•	 Most Resolve FX.
+•	 Most third-party Open FX.
+As of this writing, the following attributes WILL NOT 
+transfer via the DaVinci Resolve OFX Renderer Plugin:
+•	 Resolve and Open FX that are temporal based.
+•	 Magic Mask.
+To set up the DaVinci Resolve OFX Renderer Plugin:
+1	
+When installing DaVinci Resolve Studio, select Custom Install and then check the plugin option in 
+the program installer. 
+Select Custom Install, then check DaVinci Resolve  
+Open FX Renderer to install the plugin
+4411
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4412]]
+2	
+Create your grade for a clip in the Color page, then save a still to the Gallery. From the Gallery, 
+export a .DRX file.
+3	
+In the third-party application, apply the DaVinci Resolve Renderer plugin where appropriate for 
+your composition.
+Inserting the DaVinci Resolve Renderer OFX into a Nuke node tree
+4	
+In the DaVinci Resolve Renderer plugin in your application, choose the .DRX file you exported 
+from the file browser.
+Select the .DRX file you exported from DaVinci Resolve in the plugin.
+The Color Grade Plugin should work with most Open FX-capable VFX software, such as Autodesk 
+Flame and The Foundry’s Nuke.
+4412
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4413]]
+The DaVinci Resolve Renderer OFX Plugin in Nuke (below), showing a balanced grade with 
+green and orange Power Windows from multiple nodes in DaVinci Resolve (above).
+IMPORTANT: Use of the plugin requires a DaVinci Resolve Studio license on the system that 
+is running the third party application.
+4413
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4414]]
+Dropbox Replay
+DaVinci Resolve can integrate directly with Dropbox Replay, allowing you to edit and collaborate on 
+your projects using the widely-used Dropbox service.
+Enabling Dropbox Replay Integration in Preferences
+You can sign in to your Dropbox account via the Internet Accounts panel in DaVinci Resolve > 
+Preferences > System tab. You’ll need to enter your login name and password to enable Dropbox 
+integration the first time, after which you’ll be signed in automatically whenever you open 
+DaVinci Resolve. 
+The Dropbox Login window in the Internet Accounts panel of the 
+System tab of the DaVinci Resolve Preferences window
+Deliver and Upload to Dropbox Replay
+A Dropbox Replay preset at the top of the Deliver page’s Render Settings panel lets you render and 
+upload a program for review. All options in the Render Settings panel update to present suitable 
+controls for this process.
+NOTE: The Dropbox Replay Render settings are separate from the normal Dropbox Render 
+settings, and you need to use this specific set of presets to integrate with Dropbox Replay.
+4414
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4415]]
+The Dropbox Replay Render settings (highlighted). 
+Note they are different from the normal 
+Dropbox Render settings to the left.
+When you export to Dropbox Replay, the available choices in the Resolution, Format, Video Codec, 
+and Audio pop-up menus are limited to those that are most suitable for Dropbox Replay. Choose your 
+preferred export options, then click the Add to Render Queue button to add this job to the Render 
+Queue, as you would with any other export. When that job is rendered, it automatically proceeds to 
+upload to Dropbox Replay, and an upload percentage indicator appears in the job listing with your 
+upload progress. Once it’s finished, the job displays the text “Upload completed.”
+The job in the Render Queue shows your file upload 
+progress and lets you know when it’s completed.
+This upload is done in the background, so you can continue working on other things in 
+DaVinci Resolve in the meantime. To check how long the upload will take on any other page, 
+go to Workspace > Background Activity to see the Background Activity window.
+Unlinking a Timeline from Dropbox Replay
+To remove a specific timeline from using Dropbox Relay integration, simply right-click on the Timeline 
+and select Unlink from Dropbox Media from the contextual menu.
+4415
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4416]]
+Upload New Versions to Dropbox Replay
+DaVinci Resolve supports the versioning functions found in Dropbox Replay. This lets the Replay user 
+easily comment and switch between different versions of the same clip. 
+Once the original timeline has been rendered and uploaded to Dropbox using the Replay preset in the 
+Deliver page, an additional checkbox appears in the preset, called “Upload as new version.” With this 
+box checked, any subsequent renders of this timeline will automatically be added to the version stack 
+of the clip in Dropbox Replay. The latest version will always be the default for the clip in the Replay 
+interface.
+Dropbox Replay Comments Sync with Timeline Markers
+When you render a timeline directly to Dropbox Replay, that timeline is automatically linked to the 
+movie that’s been uploaded to Dropbox Replay. At the same time, all comments and graphical 
+annotations (drawings and arrows) from reviewers that are added online via the Dropbox Replay 
+interface are automatically synced to Dropbox markers on your timeline—so long as your computer 
+has an active Internet connection. Dropbox markers are distinct from all other markers and can 
+be independently shown and hidden or deleted. Drawings and arrows from Dropbox Replay are 
+converted into their equivalent DaVinci Resolve annotation graphics for visibility in DaVinci Resolve.
+Comments and graphical annotations from Dropbox Replay appear as markers 
+with their corresponding overlays in your DaVinci Resolve timeline.
+4416
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4417]]
+Working With Dropbox Markers
+Double-clicking any Dropbox marker in the Timeline opens a dialog that lets you send replies to 
+comments that appear on Dropbox Replay, enabling editors to respond directly to commenters.
+The Dropbox Replay comment dialog that 
+appears when you open a Dropbox marker
+You can also place Dropbox markers on the Timeline to have them automatically sync back to 
+Dropbox Replay, giving you the ability to send your own comments back to commenters (be kind).
+If you delete one or more Dropbox markers on the DaVinci Resolve timeline, those markers 
+will also be deleted in Dropbox Replay. This includes the Mark > Delete All Markers > 
+Dropbox command. This cannot be undone. 
+Dropbox Marker Navigation
+You can specifically navigate only the markers created in Dropbox Replay while in the comment dialog 
+of a Dropbox marker, using the Previous Marker (Shift-UpArrow) and Next Marker (Shift-DownArrow) 
+commands. This allows you to skip directly from comment to comment in Dropbox Replay without 
+having to either navigate all markers in-between, or double-click each Dropbox marker individually 
+to respond.
+4417
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4418]]
+Workflow Integrations in DaVinci Resolve 
+(Studio Version Only)
+DaVinci Resolve allows third parties to create their own custom interface plugins using scripting 
+languages. This makes possible a direct integration between DaVinci Resolve and other software 
+programs, for a variety of uses. More than one Integration plugin can be active at the same time.
+After installation, plugins can be enabled in DaVinci Resolve by going to Workspace > Workflow 
+Integrations, and selecting your plugin from the dropdown menu.
+Creating Workflow Integration Plugins
+Users can write their own Workflow Integration Plugin (an Electron app), using Resolve Javascript’s 
+API, and Python or Lua scripts. For more information on how to create a Workflow Integration Plugin 
+go to Help > Documentation > Developer, and open up the Workflow Integrations folder for technical 
+details and sample code.
+Workflow Integration Plugins
+There are several Media Asset Management (MAM) systems that can now directly be accessed 
+through DaVinci Resolve using the Workflow Integration Plugins.
+EditShare
+EditShare has created a workflow integration plugin that allows DaVinci Resolve to interface directly 
+with their FLOW media management system. This plugin allows you to comment, search, and preview 
+media in FLOW without leaving DaVinci Resolve. You can also upload revisions, manage proxy media, 
+and maintain full metadata support throughout the process. 
+EditShare’s FLOW Integration Plugin
+For more information on this plugin and how FLOW works with DaVinci Resolve go to: 
+editshare.com/say-hello-to-flow-and-davinci-resolve-studio/
+4418
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4419]]
+Studio Network Solutions (SNS)
+Studio Network Solutions (SNS) created the ShareBrowser Integration Plugin to interface between 
+DaVinci Resolve and their ShareBrowser media asset management software, included with 
+SNS EVO media servers. This plugin allows your team to search, tag, preview, comment, organize, and 
+import media without leaving the DaVinci Resolve interface. Your team can directly import the media 
+into a DaVinci Resolve project and the metadata you entered carries over along with the media. 
+SNS ShareBrowser Integration Plugin
+For more information on this plugin and how SNS’s high-speed server or cloud solutions work 
+with DaVinci Resolve, go to: www.studionetworksolutions.com.
+4419
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER
+
+[[p4420]]
+Codec Plugins (Studio Version Only)
+Codec plugins allow third parties to install new codecs for encoding in the Deliver page that are not 
+currently supported in the main DaVinci Resolve software. This opens the door for extremely specific 
+deliverables that would normally require passes through multiple programs to deliver.
+MainConcept
+The MainConcept Codec Plugin allows you to render your DaVinci Resolve Studio timelines in a variety 
+of new codecs: 
+•	 AS-11 UK SD, AS-11 UK HD along with an included XML metadata file to create AS-11 UK DPP 
+compliant content.
+•	 MainConcept’s software HEVC Main and Main 10 profiles, allowing H.265 files in 8-bit/10-bit 
+4:2:0/4:2:2 at up to 8K resolution.
+•	 MainConcept MXF and MP4, allowing encoding into the native camera formats used by 
+Sony XAVC/XDCAM and Panasonic P2 AVC based cameras.
+More information on the MainConcept Codec Plugin for DaVinci Resolve can be found here: 
+www.mainconcept.com/blackmagic-plugins
+The MainConcept Codec Plugin for DaVinci Resolve 
+options in the Deliver page
+4420
+Advanced Workflows | Chapter 201 Workflow Integrations
+OTHER

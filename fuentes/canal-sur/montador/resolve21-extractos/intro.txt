@@ -1,0 +1,489 @@
+
+[[p13]]
+Chapter 1
+Introduction to 
+DaVinci Resolve
+DaVinci Resolve integrates editing, compositing and motion graphics, color  
+correction, audio recording and mixing, and finishing within a single, 
+easy to learn application. The editing, compositing, grading, and audio tools 
+found in DaVinci Resolve should be immediately familiar to experienced 
+artists who’ve used other applications, but they’re also approachable to 
+folks who are new to post-production.
+Additionally, dedicated tools available for on-set workflows integrate tasks such as media duplication, 
+shot and metadata organization, and on-location look management into a complete toolset that lets 
+you smoothly segue from the camera original media being acquired in the field to the organization and 
+use of that media in a wide variety of post‑production workflows with DaVinci Resolve at their heart. 
+In particular, the tight integration in DaVinci Resolve means that you can freely move from one task to 
+the next of your project’s workflow without skipping a beat, making it easy to back up and organize a 
+shoot’s media before immediately diving into editing, while switching over to add a quick composite 
+or to color-correct clips in the middle of your editing spree, and then getting right back to cutting, 
+with a bit of mixing to make sure things sound right, all without needing to export projects or launch 
+other applications. 
+And you can go further, using the collaborative features of DaVinci Resolve to enable multiple artists, 
+for example an editor, a colorist, and assistants, to work together on the same timeline simultaneously, 
+for the ultimate integrated workflow.
+Of course, no post-production professional works in a vacuum, and DaVinci Resolve makes it easy to 
+work with other facilities by importing projects and exporting project exchange formats and rendered 
+or managed media among applications such as Apple’s Final Cut Pro X, Adobe’s Premiere Pro, Avid’s 
+Media Composer and Pro Tools, Autodesk’s Flame Premium, and many other applications via robust 
+support of XML, AAF, and EDL import and export workflows.
+This chapter introduces the DaVinci Resolve user interface (UI), explaining where to find each group 
+of features, and how the highly focused and tightly integrated Media, Edit, Fusion, Color, Fairlight, 
+and Deliver pages work together to let you pursue nearly any post‑production workflow you can 
+imagine. After this brief tour, the rest of Part 1 of this manual provides much more in‑depth information 
+about project management, preferences, project settings, and other topics of general interest for 
+getting started.
+13
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p14]]
+Contents
+The Project Manager..................................................... 15
+Preferences and Project Settings........................... 16
+Individual Preferences 
+and Settings Based on Login..................................... 16
+Preferences......................................................................... 16
+System Preferences........................................................ 17
+User Preferences............................................................. 18
+Project Settings................................................................ 19
+Switching Among Pages............................................  20
+Minimizing the Resolve Page Bar...........................  20
+Switching Pages Using Keyboard Shortcuts....  20
+Hide Pages You Don’t Use........................................  20
+Hide Page Navigation Altogether............................ 21
+The Media Page............................................................... 21
+The Media Storage Browser.....................................  22
+Viewer.................................................................................  22
+Media Pool......................................................................... 23
+Metadata Editor............................................................... 24
+Audio Panel........................................................................ 24
+The Cut Page.................................................................... 25
+The Media Pool................................................................ 25
+The Viewer......................................................................... 26
+Audio Meter....................................................................... 27
+The Timeline...................................................................... 27
+The Edit Page................................................................... 28
+The Media Pool...............................................................  29
+Effects Library Browsing............................................  30
+Edit Index...........................................................................  30
+Source/Offline and Timeline Viewers.................... 31
+Inspector............................................................................. 32
+Toolbar................................................................................. 32
+Timeline............................................................................... 32
+Floating Timecode Window....................................... 33
+Motion Graphics and 
+Visual Effects in DaVinci Resolve.......................... 33
+VFX Connect..................................................................... 34
+The Fusion Page............................................................. 35
+The Work Area.................................................................. 35
+Viewers................................................................................ 36
+Toolbar................................................................................. 36
+Effects Library................................................................... 37
+Node Editor........................................................................ 37
+Inspector............................................................................. 38
+Thumbnail Timeline....................................................... 39
+Media Pool......................................................................... 39
+Status Bar...........................................................................  40
+The Console.....................................................................  40
+The Color Page................................................................. 41
+Viewer................................................................................... 41
+Gallery.................................................................................. 42
+Node Editor........................................................................ 43
+Timeline............................................................................... 43
+Left Palettes....................................................................... 44
+Center Palettes................................................................ 44
+Keyframe Editor............................................................... 45
+The Fairlight Page.......................................................... 46
+The Audio Timeline........................................................ 46
+Toolbar................................................................................. 48
+Mixer..................................................................................... 48
+Dedicated Channel Strip Controls.......................... 48
+The Monitoring Panel..................................................  50
+Floating Timecode Window........................................ 51
+The Deliver Page............................................................. 51
+The Render Settings List............................................. 52
+The Deliver Page Timeline......................................... 52
+The Viewer......................................................................... 53
+The Render Queue......................................................... 54
+14
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p15]]
+The Project Manager
+For most users, Project Manager is the first window you’ll see when you open DaVinci Resolve. 
+The Project Manager is a centralized interface for managing all projects belonging to the user 
+who’s currently logged in, whose name appears at the upper right-hand corner in a project title 
+bar. The Project Manager is also the place where you import and export projects to and from 
+DaVinci Resolve, whether you’re moving projects around from user to user, or moving projects from 
+one DaVinci Resolve workstation to another. Finally, the Project Manager also lets you organize 
+the project libraries that are used to manage everything in DaVinci Resolve using the Project 
+Library sidebar.
+To open any project, double-click it. To create a new project, double-click the Untitled Project icon, 
+or click the New Project button.
+The Project Manager shows all projects belonging to the current user.
+For more information on Project Manager, jump to this chapter: Managing Projects and Project 
+Libraries
+15
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p16]]
+Preferences and Project Settings
+Once you open a project, you have the option of adjusting the system and user preferences that 
+govern the installation of DaVinci Resolve on your workstation, and the project settings governing the 
+currently open project. When you first install DaVinci Resolve, the most important of these settings is 
+selected via the installer’s onboarding questions. However, if you’re opening DaVinci Resolve for the 
+first time, you should check these settings to make sure they’re optimal for your system.
+Individual Preferences and Settings Based on Login
+As of DaVinci Resolve 16, there are individual preferences and settings for each login account on a 
+given computer. This means that multiple artists can each have their own login, and DaVinci Resolve 
+will maintain separate workspace layouts and preference states for each artist, depending on who’s 
+logged in.
+Preferences
+The Preferences window, divided into the System preferences and User preferences panels, 
+lets you set up the overall environment of your DaVinci workstation, choosing what hardware 
+to use with DaVinci Resolve and your preferred user interface settings. To open it, go to 
+DaVinci Resolve > Preferences.
+The DaVinci Resolve preferences window lets you set up your environment
+16
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p17]]
+A quick overview of the most important system and user preferences appears below, with 
+guidance about which settings you should adjust when you first set up DaVinci Resolve on 
+your workstation. For more information, jump to this chapter: System and User Preferences.
+System Preferences
+The System preferences let you configure the hardware DaVinci Resolve works with. If you have a 
+system that doesn’t change very often, then you may only rarely use the Preferences window. On the 
+other hand, if you’re working with a mobile system with changing video interfaces, control panels, and 
+scratch volumes, then you may use this window more frequently.
+NOTE: Whenever you change certain core system settings in Preferences, you may have to 
+quit and restart DaVinci Resolve for those changes to take effect.
+Memory and GPU
+Lets you choose various options governing how to use the GPUs attached to your computer, and 
+how to configure Viewers in different pages. This panel also provides an overview, for reference, 
+of all hardware and computer characteristics that are relevant to DaVinci Resolve running smoothly, 
+including a listing of installed GPUs.
+Media Storage
+This is a list within which you define the scratch disk used by your system. The first volume in this list 
+is where Gallery stills and cache files are stored, so you want to make sure that you choose the fastest 
+storage volume that’s connected.
+Decode Options
+These settings let you select various hardware options for decoding RAW files and H.264/H.265. It 
+also lets you choose to use the easy DCP decoder and the ability to refresh growing any files (files that 
+are in the process of being written) in the Media Pool.
+Video and Audio I/O
+The preferences in this panel let you choose which video and audio Capture and Monitor interfaces 
+you want DaVinci Resolve to use on your workstation. If you have multiple Blackmagic Design 
+I/O interfaces connected to your computer, you can choose between them.
+Video Plugins
+If you have any third-party Open FX plugins installed, you can see them and enable/disable them here.
+Audio Plugins
+If you have any third-party VST plugins installed, you can see them and enable/disable them here.
+Control Panels
+Lets you choose and configure (if necessary) a control panel that’s connected for use during grading in 
+DaVinci Resolve.
+General
+Lets you choose from a variety of settings that modify DaVinci Resolve’s behavior. The LUT Locations 
+section lets you point DaVinci Resolve to any external folders containing LUTs for use in your project.
+17
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p18]]
+Background Tasks
+Lets you activate and choose what operations take advantage of background rendering.
+Internet Accounts
+The Internet Accounts panel serves as a login manager for the Blackmagic Cloud and other social 
+media sites.
+Advanced
+This tab is used for special DaVinci Resolve configurations and SAN parameters that are applicable to 
+older file systems.
+User Preferences
+User preferences govern the setup of the user interface in DaVinci Resolve, letting you customize 
+it to work the way you like. 
+UI Settings
+A Language drop-down menu at the top lets you specify which language the DaVinci Resolve user 
+interface displays. Additional checkboxes let you choose options for which project to open during 
+startup, and how to configure the Viewers that appear in every page of DaVinci Resolve.
+Language and Spelling
+This panel lets you set your preferred language for AI tools such as Auto Transcription. By default, the 
+input language is set to auto. You can also customize the internal spell checker accordingly.
+Project Save and Load
+This panel contains the all-important auto-save controls, including the Live Save option that enables 
+Resolve to incrementally save your changes as you work.
+Editing
+Numerous controls in this panel let you customize the editing experience in the Edit page, including 
+default settings to use when making new timelines, and general settings that govern standard effects 
+durations and trim behaviors.
+Color
+These controls let you customize the grading experience in the Color page, with options controlling 
+video scope display, the look of UI overlays, and other color-specific functions.
+Fairlight
+These controls let you customize the editing experience in the Fairlight page with options controlling 
+video offset, automation, and general settings.
+Playback Settings
+These controls let you customize how DaVinci Resolves handles video playback. If your playback is 
+too slow, adjusting these settings may help. 
+Control Panels
+These controls let you customize the settings of your connected control surface.
+Metadata
+These controls let you customize the Metadata Presets. 
+18
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p19]]
+Project Settings
+Once you’ve created a project, all project-specific settings are found in the Project Settings window. 
+To open the Project Settings window, just click the gear button at the bottom right on any page.
+Project Manager and 
+Project Settings buttons
+The Project Settings open in the middle of the screen, divided into a series of panels which can be 
+selected from a sidebar to the left. Each panel contains a collection of related settings that affects 
+some category of DaVinci Resolve functionality. To open a panel of settings, simply click its name in 
+the sidebar at the left.
+ The Project Settings show all project-specific settings and attributes.
+19
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p20]]
+The Master Settings define the principal attributes of a project, such as the timeline resolution, 
+timeline frame rate, color science, and bit depth. Image Scaling settings define how clips that 
+don’t match the timeline resolution are scaled to fit. There are other panels for Color Management, 
+Camera Raw, Capture and Playback, etc.
+For more information on Project Settings, jump to this chapter: System and User Preferences.
+Switching Among Pages
+Buttons for switching pages appear at the bottom of the UI.
+DaVinci Resolve is divided into seven main pages of functionality, each of which facilitates a different 
+specialization of a typical post production workflow, and each of which can be accessed using buttons 
+at the very bottom of the DaVinci Resolve interface. These buttons are organized in order of workflow, 
+and they’re always available, letting you quickly switch between importing media, fast editing, detailed 
+editing, compositing, grading, audio mixing, and outputting your project in a structured manner.
+Minimizing the Resolve Page Bar
+If you right-click anywhere within the Resolve page bar at the bottom of the DaVinci Resolve UI, 
+two options appear in a contextual menu: Show Icons and Labels, and Show Icons Only. If you show 
+icons only, the Resolve Page bar at the bottom takes less room.
+The Page bar showing icons only, to save space
+Switching Pages Using Keyboard Shortcuts
+You can also switch pages using the following keyboard shortcuts, which can be referenced from the 
+Workspace > Switch to Page submenu. 
+Hide Pages You Don’t Use
+You can leave the page navigation bar showing and just hide the buttons of specific pages. 
+For example:
+	 If you like the quick navigation of this bar but there are pages you simply don’t want to use
+	 If you’re setting up a DaVinci Resolve workstation for an artist making specific contributions to a 
+project, and you want to hide easy access to pages of functionality they won’t (or shouldn’t) be 
+using; this can be especially useful in collaborative workflow projects
+You can disable/re-enable each page’s buttons using the Workspace > Show Page submenu. 
+Effects and adjustments that have been applied on hidden pages continue to affect the current 
+project, they’re only hidden, and you can still navigate to them using the Workspace > Switch to Page 
+submenu commands or keyboard shortcuts.
+20
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p21]]
+Hide Page Navigation Altogether
+If you’re an artist that only uses a single page of the DaVinci Resolve experience, or if you want more 
+screen real estate to work with given your existing computer display’s limited resolution, you can 
+choose Workspace > Show Page Navigation to hide the page navigation bar at the bottom of the 
+DaVinci Resolve user interface. While this bar is closed, you can still navigate to other pages using the 
+Workspace > Switch to Page submenu commands or keyboard shortcuts.
+To toggle the Show Page Navigation function:
+Check Workspace > Show Page Navigation.
+With this interface element hidden, you can use keyboard shortcuts to access the 
+individual pages (Shift - 2 through 8), Project manager (Shift - 1), and Project Settings (Shift - 9). 
+You can also access these functions from DaVinci Resolve’s main menu bar.
+The Media Page
+The Media page is the primary interface for clip import, media management, and clip organization in 
+DaVinci Resolve. It’s central to the way DaVinci Resolve works that the source media used by a project 
+is organized separately from the project data that you import and manage in the Edit page. In this way, 
+you can manage and update the clips used by timelines in the current project with ease, switching 
+between offline and online media, reorganizing clips, and troubleshooting any problems that occur.
+Media page
+The Media page also contains much of the core functionality that will be used for on-set workflows, 
+and in the ingest, organizational, and sound-syncing steps of digital dailies workflows. This chapter 
+covers most of the functionality found in the Media page, including functions in detail that are 
+referenced throughout this manual.
+21
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p22]]
+The Media page is divided into six different areas, designed to make it easy to find, select, and work 
+with media in your project. Much of the functionality and most of the commands are found within the 
+contextual menus that appear when you right-click on clips in the Library, File Browser, or Media Pool.
+For more information on using the Media page, jump to this chapter: Using the Media Page.
+The Media Storage Browser
+The Media Storage browser shows a list of all volumes that are currently available to your Resolve 
+workstation. It’s used to locate media that you want to import manually into your project.
+Media Storage with scrubbable Clip view
+Viewer
+Clips that you select in any area of the Media page show their contents in the Viewer. A jog bar 
+appears at the bottom, letting you drag the playhead directly with the pointer, while a jog control 
+between the mode drop-down and transport controls lets you move through a long clip more 
+slowly. The full width of the jog bar represents the full duration of the clip in the Viewer. The current 
+position of the playhead is shown in the timecode field at the upper right-hand corner of the Viewer. 
+Simple transport controls appear underneath the jog bar, letting you Jump to First Frame, Play/Stop, 
+and Jump to Last Frame. Audio levels can be adjusted by right-clicking on the speaker icon and 
+dragging the slider.
+You can also put the Viewer into Cinema Viewer mode by choosing Workspace > Viewer Mode > 
+Cinema Viewer (Command-F), so that it fills the entire screen. This command toggles Cinema Viewer 
+mode on and off.
+If you have two monitors connected to your computer, you can make the Viewer fill one entire screen 
+and keep the Resolve UI in the other monitor by choosing Workspace > Full Screen Viewer On, and 
+selecting the display you wish to use for the Viewer.
+22
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p23]]
+Media page Viewer
+Media Pool
+The Media Pool contains all of the video, audio, and still image media that you import into the current 
+project. It also contains any media that’s automatically imported along with timelines that have been 
+imported into DaVinci Resolve. Ordinarily, all media imported into a project goes into the Master bin. 
+However, your media pool can be organized into as many user-definable bins as you like, depending 
+on your needs. Media can be freely moved from one bin to another from within the Media Pool. It also 
+appears on the Edit, Fusion, Color, and Fairlight pages, making it possible to browse and open clips 
+and timelines everywhere they’re relevant.
+Media Pool showing the selected bins’ clips
+23
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p24]]
+Metadata Editor
+When you select a clip in any area of the Media page, its metadata is displayed within the Metadata 
+Editor. If you select multiple clips, only the last clip’s information appears. The Metadata Editor’s header 
+contains uneditable information about the selected clip, including the file name, directory, duration, 
+frame rate, resolution, and codec. A series of editable fields within the editor lets you review and edit 
+the different metadata items that are available. A drop-down menu at the upper right of the Metadata 
+Editor also lets you choose from many different sets of metadata fields and checkboxes, each grouped 
+for a specific task or workflow.
+Clip Metadata Editor	
+Audio Meters exposed
+Audio Panel
+The Audio panel can be put into one of two modes via a pair of buttons above the audio meters. 
+In the default Meters mode, Audio Meters are displayed that show the levels of audio in clips you’re 
+playing. In Waveform mode, you can load audio clips side by side with video clips opened in the 
+Viewer in order to sync them together manually. The Audio panel can also be hidden.
+24
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p25]]
+The Cut Page
+The Cut page is a focused environment for fast editing. It’s useful in situations where you need 
+to quickly cut a news segment, build an episode of web content, edit a straightforward program, 
+experiment with multiple arrangements of a scene, or put together a first assembly edit. 
+The Cut page is also a good introductory editing interface for people who are new to editing, as it 
+presents a streamlined set of tools that are fast to learn and simple to use. Whatever your background, 
+you’ll find the Cut page to be a valuable addition to your editing experience in DaVinci Resolve.
+The default workspace of the Cut page consists of the Media Pool, a single Viewer, and the Timeline 
+area. These three regions let you quickly import and organize clips, edit clips, and even export the 
+result, all from within the Cut page.
+The Cut page
+For more information on the Cut page, jump to this chapter: Using the Cut Page.
+The Media Pool
+The Media Pool appears in the Cut page as well, and contains all video clips, audio clips, graphics, 
+and other media that you import into your project. You can create Bins with which to organize all of this 
+media, to make it easier to find what you need quickly. These bins are opened via the bin drop-down 
+at the upper left-hand corner.
+Each piece of media you import, whether it’s video, audio, or graphics, appears as an individual clip, 
+and they can be selected, scrubbed for fast viewing, reorganized into bins, opened into the Viewer for 
+playback, or edited into a timeline using the edit buttons or via drag and drop.
+Owing to the Cut page’s mission to make editing faster, the Media Pool has different options for 
+viewing (such as the Strip view) and customizing.
+25
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p26]]
+The Strip View mode
+The Viewer
+The Viewer lets you see clips from the Media Pool or clips in the Timeline play, and has numerous 
+controls to control what you see and how things play. 
+The single Viewer in the Cut page
+The Viewer has four mode options. Which option is currently in use can be seen, and switched, by four 
+buttons in the upper left-hand corner of the Viewer. 
+The Viewer modes buttons
+26
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p27]]
+The Different options are entered automatically by various actions (from left to right):
+	 You can double-click any clip to open it into the Viewer as a Source Clip.
+	 You can view an entire bin full of clips in the Source Tape.
+	 You can play your edited program in the Timeline.
+	 You can see all of your synced material at the same time in the Multi Source Viewer.
+Clicking the Tools button in the lower left of the Viewer reveals an effects toolbar that you can use 
+to add and edit clip effects, right within the Viewer with no Inspector needed. The Tools button 
+reveals a variety of controls over sizing, cropping, audio, speed effects, stabilization, dynamic zoom, 
+and compositing.
+The Tools bar shown opened
+Audio Meter
+An audio meter to the right of the Viewer shows you a graphical representation of the audio levels 
+playing in the current clip or in the Timeline as you play through the Viewer, via animated vertical bars 
+that are tinted to indicate how loud the levels are.
+The Timeline
+The word “timeline” refers both to an edited sequence of clips which constitutes a program that is 
+stored in the Media Pool, and to the area of the Cut page interface where you can open this sequence 
+of clips to see its contents, and for playback and editing. 
+For the Cut page user, the timeline is divided into an Upper Timeline at the top, and a larger and more 
+detailed Timeline Editor showing a zoomed in portion of the timeline around the playhead at the 
+bottom. Working together, these two views of your edited sequence make it possible to navigate your 
+entire project and cut in great detail. 
+The Timeline of the Cut page, comprising the Upper Timeline and the zoomed in Lower Timeline
+Three icons at the upper left-hand corner of the Timeline lets you choose a variety of timeline tasks. 
+They are composed of Timeline Options, Timeline Actions, and Edit Actions.
+27
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p28]]
+The Timeline is divided into multiple tracks, with each track capable of holding a sequence of clips in 
+order to create a program. The main tracks, which are labeled numerically, combine a clip’s video and 
+audio into a single item in the Timeline, for simplicity. Editing the In or Out point of a clip edits the video 
+and audio together.
+The Action icons  
+in the Cut page
+Video+Audio tracks  
+in the Cut page Timeline
+TIP: In the Edit page, Video+Audio clips are presented as separated Video and Audio items 
+on different tracks. When you open the Fairlight page, audio is presented on tracks with 
+lanes, where each audio channel can be seen. In this way, each page gives you different sets 
+of controls over the contents of the timeline that are appropriate for each page.
+The Edit Page
+The Edit page exposes a source-record style NLE that incorporates many specialized features for both 
+creative editing and finishing. The Edit page is divided into three main regions: the browsers found at 
+the left, the Viewers at the top, and the Timeline at the bottom, all of which work together to let you 
+import, edit, and trim timelines with a flexible variety of tools and methods.
+The Edit page
+28
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO
+
+[[p29]]
+For more information on the Edit page, jump to this chapter: Using the Edit Page.
+The Media Pool
+As with everywhere else it appears in DaVinci Resolve, the Media Pool lets you organize and peruse 
+all of the media and timelines in a project. DaVinci Resolve projects may contain one or more edited 
+timelines (sometimes called a sequence in other applications).
+The Media Pool in the Edit page is identical to that shown on the Media, Fusion, Color, and Fairlight 
+pages, and shows you all of the source clips and timelines that are available for editing. A Bin list at the 
+left shows a hierarchical list of folders that you can use to organize your media. 
+By default, the Media Pool has a single bin, named Master, but you can add more bins as 
+necessary to organize your clips, opening any of them to expose their contents with a single 
+click. The Bin list can be hidden or shown via the button at the upper-left of the Media Pool. 
+A browser to the right shows the contents of the currently selected bin.  
+The Media Pool in Thumbnail mode
+29
+DaVinci Resolve Interface | Chapter 1 Introduction to DaVinci Resolve
+INTRO

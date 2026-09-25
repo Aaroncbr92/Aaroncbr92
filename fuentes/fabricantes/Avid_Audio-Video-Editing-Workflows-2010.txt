@@ -1,0 +1,2007 @@
+Avid
+® Audio-Video 
+Editing Workflows
+
+Legal Notices
+Product specifications are subject to change without notice and do not represent a commitment on the part of Avid Technology, Inc.
+This product is subject to the terms and conditions of a software license agreement provided with the software. The product may 
+only be used in accordance with the license agreement.
+Avid products or portions thereof are protected by one or more of the following United States Patents: 5,267,351; 5,355,450; 
+5,396,594; 5,440,348; 5,528,310; 5,557,423; 5,577,190; 5,584,006;  5,724,605; 5,726,717; 5,745,637; 5,752,029; 5,754,851; 
+5,812,216; 5,905,841; 5,930,445; 5,959,610, 6,057,829, 6,091,778, 6,105,083, 6,118,444, 6,141,691, 6,160,548, 6,201,531; 
+6,269,195; 6,330,369; 6,336,093, 6,353,862, 6,404,435; 6,407,775, 6,426,778; 6,477,271, 6,489,969; 6,512,522; 6,546,190; 
+6,552,731, 6,553,142; 6,570,624; 6,571,255, 6,583,824; 6,618,547; ,665,450; 6,678,461; 6,687,407; 6,704,445; 6,728,682, 
+6,747,705; 66,763,134,6,766,063; 6,791,556; 6,810,157, 6,847,373; 6,871,003; 6,871,161, 6,901,211; 6,907,191; 6,928,187, 
+7,043,058; 7,081,900; 7,103,231; 7,145,567; 7,266,241, 7,280,117; 7,403,561; 7,433,519; 7,441,193, 7,545,957; 7,671,871; 
+7,684,096; 7,725,812; 7,729,423; and D515,095, D396,853. Other patents are pending.
+Avid products or portions thereof are protected by one or more of the following European Patents: 0506870; 0635188; 0674414; 
+0752174; 0811290; 0811292; 0811293; 0857293; 0976108; 0988756; 1050048; 1068734; 1111910; 1173850; 1629675.  
+Other patents are pending.
+Avid products or portions thereof are protected by one or more of the following United States Patents: 5,267,351; 5,309,528; 
+5,355,450; 5,396,594; 5,440,348; 5,467,288; 5,513,375; 5,528,310; 5,557,423; 5,577,190; 5,584,006; 5,640,601; 5,644,364; 
+5,654,737; 5,724,605; 5,726,717; 5,745,637; 5,752,029; 5,754,851; 5,799,150; 5,812,216; 5,828,678; 5,842,014; 5,852,435; 
+5,959,610, 5,986,584; 5,999,406; 6,038,573; 6,057,829, 6,069,668; 6,141,007; 6,211,869; 6,336,093, 6,532,043; 6,546,190; 
+6,596,031;6,728,682, 6,747,705; 6,763,523; 6,766,357; 6,847,373; 7,081,900; 7,403,561; 7,433,519; 7,441,193, 7,671,871; 
+7,684,096; D352,278; D372,478; D373,778; D392,267; D392,268; D392,269; D395,291; D396,853; D398,912. 
+Other patents are pending.
+Avid products or portions thereof are protected by one or more of the following European Patents: 0506870; 0635188; 0674414; 
+0752174; 0811290; 0811292; 0811293; 1050048; 1111910; 1629675. Other patents are pending.
+This document is protected under copyright law. An authorized licensee of Avid Media ComposerNewsCutterAvid Symphony Nitris 
+may reproduce this publication for the licensee’s own use in learning how to use the software. This document may not be 
+reproduced or distributed, in whole or in part, for commercial purposes, such as selling copies of this document or providing support 
+or educational services to others. This document is supplied as a guide for Avid Media ComposerNewsCutter and NewsCutter 
+XPAvid Symphony Nitris. Reasonable care has been taken in preparing the information it contains. However, this document may 
+contain omissions, technical inaccuracies, or typographical errors. Avid Technology, Inc. does not accept responsibility of any kind 
+for customers’ losses due to the use of this document. Product specifications are subject to change without notice.
+Copyright © 2010 Avid Technology, Inc. and its licensors. All rights reserved.
+The following disclaimer is required by Apple Computer, Inc.:
+APPLE COMPUTER, INC. MAKES NO WARRANTIES WHATSOEVER, EITHER EXPRESS OR IMPLIED, REGARDING THIS 
+PRODUCT, INCLUDING WARRANTIES WITH RESPECT TO ITS MERCHANTABILITY OR ITS FITNESS FOR ANY PARTICULAR 
+PURPOSE. THE EXCLUSION OF IMPLIED WARRANTIES IS NOT PERMITTED BY SOME STATES. THE ABOVE EXCLUSION 
+MAY NOT APPLY TO YOU. THIS WARRANTY PROVIDES YOU WITH SPECIFIC LEGAL RIGHTS. THERE MAY BE OTHER 
+RIGHTS THAT YOU MAY HAVE WHICH VARY FROM STATE TO STATE.
+The following disclaimer is required by Sam Leffler and Silicon Graphics, Inc. for the use of their TIFF library:
+Copyright © 1988–1997 Sam Leffler  
+Copyright © 1991–1997 Silicon Graphics, Inc.
+Permission to use, copy, modify, distribute, and sell this software [i.e., the TIFF library] and its documentation for any purpose is 
+hereby granted without fee, provided that (i) the above copyright notices and this permission notice appear in all copies of the 
+software and related documentation, and (ii) the names of Sam Leffler and Silicon Graphics may not be used in any advertising or 
+publicity relating to the software without the specific, prior written permission of Sam Leffler and Silicon Graphics.
+THE SOFTWARE IS PROVIDED “AS-IS” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, 
+INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+IN NO EVENT SHALL SAM LEFFLER OR SILICON GRAPHICS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR 
+CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR 
+PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING 
+OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+The following disclaimer is required by the Independent JPEG Group:
+This software is based in part on the work of the Independent JPEG Group.
+
+This Software may contain components licensed under the following conditions:
+Copyright (c) 1989 The Regents of the University of California. All rights reserved. 
+Redistribution and use in source and binary forms are permitted provided that the above copyright notice and this paragraph are 
+duplicated in all such forms and that any documentation, advertising materials, and other materials related to such distribution and 
+use acknowledge that the software was developed by the University of California, Berkeley. The name of the University may not be 
+used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS 
+PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+Copyright (C) 1989, 1991 by Jef Poskanzer. 
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby 
+granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice 
+appear in supporting documentation. This software is provided "as is" without express or implied warranty. 
+Copyright 1995, Trinity College Computing Center. Written by David Chappell. 
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby 
+granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice 
+appear in supporting documentation. This software is provided "as is" without express or implied warranty. 
+Copyright 1996 Daniel Dardailler. 
+Permission to use, copy, modify, distribute, and sell this software for any purpose is hereby granted without fee, provided that the 
+above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting 
+documentation, and that the name of Daniel Dardailler not be used in advertising or publicity pertaining to distribution of the software 
+without specific, written prior permission. Daniel Dardailler makes no representations about the suitability of this software for any 
+purpose. It is provided "as is" without express or implied warranty. 
+Modifications Copyright 1999 Matt Koss, under the same license as above. 
+Copyright (c) 1991 by AT&T. 
+Permission to use, copy, modify, and distribute this software for any purpose without fee is hereby granted, provided that this entire 
+notice is included in all copies of any software which is or includes a copy or modification of this software and in all copies of the 
+supporting documentation for such software. 
+THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN PARTICULAR, 
+NEITHER THE AUTHOR NOR AT&T MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE 
+MERCHANTABILITY OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.
+This product includes software developed by the University of California, Berkeley and its contributors.
+The following disclaimer is required by Nexidia Inc.:
+© 2010 Nexidia Inc.  All rights reserved, worldwide.  Nexidia and the Nexidia logo are trademarks of Nexidia Inc. All other 
+trademarks are the property of their respective owners.  All Nexidia materials regardless of form, including without limitation, 
+software applications, documentation and any other information relating to Nexidia Inc., and its products and services are the 
+exclusive property of Nexidia Inc. or its licensors.  The Nexidia products and services described in these materials may be covered 
+by Nexidia's United States patents: 7,231,351; 7,263,484; 7,313,521; 7,324,939; 7,406,415, 7,475,065; 7,487,086 and/or other 
+patents pending and may be manufactured under license from the Georgia Tech Research Corporation USA. 
+The following disclaimer is required by Paradigm Matrix:
+Portions of this software licensed from Paradigm Matrix.
+The following disclaimer is required by Ray Sauers Associates, Inc.:
+“Install-It” is licensed from Ray Sauers Associates, Inc. End-User is prohibited from taking any action to derive a source code 
+equivalent of “Install-It,” including by reverse assembly or reverse compilation, Ray Sauers Associates, Inc. shall in no event be liable 
+for any damages resulting from reseller’s failure to perform reseller’s obligation; or any damages arising from use or operation of 
+reseller’s products or the software; or any other damages, including but not limited to, incidental, direct, indirect, special or 
+consequential Damages including lost profits, or damages resulting from loss of use or inability to use reseller’s products or the 
+software for any reason including copyright or patent infringement, or lost data, even if Ray Sauers Associates has been advised, 
+knew or should have known of the possibility of such damages.
+The following disclaimer is required by Videomedia, Inc.:
+“Videomedia, Inc. makes no warranties whatsoever, either express or implied, regarding this product, including warranties with 
+respect to its merchantability or its fitness for any particular purpose.”
+
+“This software contains V-LAN ver. 3.0 Command Protocols which communicate with V-LAN ver. 3.0 products developed by 
+Videomedia, Inc. and V-LAN ver. 3.0 compatible products developed by third parties under license from Videomedia, Inc. Use of this 
+software will allow “frame accurate” editing control of applicable videotape recorder decks, videodisc recorders/players and the like.” 
+The following disclaimer is required by Altura Software, Inc. for the use of its Mac2Win software and Sample Source 
+Code:
+©1993–1998 Altura Software, Inc.
+The following disclaimer is required by Ultimatte Corporation:
+Certain real-time compositing capabilities are provided under a license of such technology from Ultimatte Corporation and are 
+subject to copyright protection.
+The following disclaimer is required by 3Prong.com Inc.:
+Certain waveform and vector monitoring capabilities are provided under a license from 3Prong.com Inc.
+The following disclaimer is required by Interplay Entertainment Corp.:
+The “Interplay” name is used with the permission of Interplay Entertainment Corp., which bears no responsibility for Avid products.
+This product includes portions of the Alloy Look & Feel software from Incors GmbH.
+This product includes software developed by the Apache Software Foundation (http://www.apache.org/).
+© DevelopMentor
+This product may include the JCifs library, for which the following notice applies:
+JCifs © Copyright 2004, The JCIFS Project, is licensed under LGPL (http://jcifs.samba.org/). See the LGPL.txt file in the Third Party 
+Software directory on the installation CD.
+Avid Interplay contains components licensed from LavanTech. These components may only be used as part of and in connection 
+with Avid Interplay.
+Attn. Government User(s). Restricted Rights Legend
+U.S. GOVERNMENT RESTRICTED RIGHTS. This Software and its documentation are “commercial computer software” or 
+“commercial computer software documentation.” In the event that such Software or documentation is acquired by or on behalf of a 
+unit or agency of the U.S. Government, all rights with respect to this Software and documentation are subject to the terms of the 
+License Agreement, pursuant to FAR §12.212(a) and/or DFARS §227.7202-1(a), as applicable.
+Trademarks
+003, 192 Digital I/O, 192 I/O, 96 I/O, 96i I/O, Adrenaline, AirSpeed, ALEX, Alienbrain, AME, AniMatte, Archive, Archive II, Assistant 
+Station, AudioPages, AudioStation, AutoLoop, AutoSync, Avid, Avid Active, Avid Advanced Response, Avid DNA, Avid DNxcel, Avid 
+DNxHD, Avid DS Assist Station, Avid Liquid, Avid Media Engine, Avid Media Processor, Avid MEDIArray, Avid Mojo, Avid Remote 
+Response, Avid Unity, Avid Unity ISIS, Avid VideoRAID, AvidRAID, AvidShare, AVIDstripe, AVX, Axiom, Beat Detective, Beauty 
+Without The Bandwidth, Beyond Reality, BF Essentials, Bomb Factory, Boom, Bruno, C|24, CaptureManager, ChromaCurve, 
+ChromaWheel, Cineractive Engine, Cineractive Player, Cineractive Viewer, Color Conductor, Command|24, Command|8, Conectiv, 
+Control|24, Cosmonaut Voice, CountDown, d2, d3, DAE, Dazzle, Dazzle Digital Video Creator, D-Command, D-Control, Deko, 
+DekoCast, D-Fi, D-fx, Digi 003, DigiBase, DigiDelivery, Digidesign, Digidesign Audio Engine, Digidesign Development Partners, 
+Digidesign Intelligent Noise Reduction, Digidesign TDM Bus, DigiLink, DigiMeter, DigiPanner, DigiProNet, DigiRack, DigiSerial, 
+DigiSnake, DigiSystem, Digital Choreography, Digital Nonlinear Accelerator, DigiTest, DigiTranslator, DigiWear, DINR, DNxchange, 
+DPP-1, D-Show, DSP Manager, DS-StorageCalc, DV Toolkit, DVD Complete, D-Verb, Eleven, EM, Euphonix, EUCON, EveryPhase, 
+Expander, ExpertRender, Fader Pack, Fairchild, FastBreak, Fast Track, Film Cutter, FilmScribe, Flexevent, FluidMotion, Frame 
+Chase, FXDeko, HD Core, HD Process, HDPack, Home-to-Hollywood, HYBRID, HyperControl, HyperSPACE, HyperSPACE 
+HDCAM, iKnowledge, Image Independence, Impact, Improv, iNEWS, iNEWS Assign, iNEWS ControlAir, Instantwrite, Instinct, 
+Intelligent Content Management, Intelligent Digital Actor Technology, IntelliRender, Intelli-Sat, Intelli-sat Broadcasting Recording 
+Manager, InterFX, Interplay, inTONE, Intraframe, iS Expander, ISIS, IsoSync, iS9, iS18, iS23, iS36, ISIS, IsoSync, KeyRig, 
+KeyStudio, LaunchPad, LeaderPlus, LFX, Lightning, Link & Sync, ListSync, LKT-200, Lo-Fi, Luna, MachineControl, Magic Mask, 
+Make Anything Hollywood, make manage move | media, Marquee, MassivePack, Massive Pack Pro, M-Audio, M-Audio Micro, 
+Maxim, Mbox, Media Composer, MediaFlow, MediaLog, MediaMatch, MediaMix, Media Reader, Media Recorder, MEDIArray, 
+MediaServer, MediaShare, MetaFuze, MetaSync, MicroTrack, MIDI I/O, Midiman, Mix Rack, MixLab, Moviebox, Moviestar, 
+MultiShell, NaturalMatch, NewsCutter, NewsView, Nitris, NL3D, NLP, Nova, NRV-10 interFX, NSDOS, NSWIN, Octane, OMF, OMF 
+Interchange, OMM, OnDVD, Open Media Framework, Open Media Management, Ozone, Ozonic, Painterly Effects, Palladium, 
+Personal Q, PET, Pinnacle, Pinnacle DistanTV, Pinnacle GenieBox, Pinnacle HomeMusic, Pinnacle MediaSuite, Pinnacle Mobile 
+Media, Pinnacle Scorefitter, Pinnacle Studio, Pinnacle Studio MovieBoard, Pinnacle Systems, Pinnacle VideoSpin, Podcast Factory, 
+PowerSwap, PRE, ProControl, ProEncode, Profiler, Pro Tools LE, Pro Tools M-Powered, Pro Transfer, Pro Tools, QuickPunch, 
+QuietDrive, Realtime Motion Synthesis, Recti-Fi, Reel Tape Delay, Reel Tape Flanger, Reel Tape Saturation, Reprise, Res Rocket 
+Surfer, Reso, RetroLoop, Reverb One, ReVibe, Revolution, rS9, rS18, RTAS, Salesview, Sci-Fi, Scorch, Scorefitter, ScriptSync, 
+
+SecureProductionEnvironment, Serv|LT, Serv|GT, Session, Shape-to-Shape, ShuttleCase, Sibelius, SIDON, SimulPlay, 
+SimulRecord, Slightly Rude Compressor, Smack!, Soft SampleCell, Soft-Clip Limiter, Solaris, SoundReplacer, SPACE, SPACEShift, 
+SpectraGraph, SpectraMatte, SteadyGlide, Streamfactory, Streamgenie, StreamRAID, Strike, Structure, Studiophile, SubCap, 
+Sundance Digital, Sundance, SurroundScope, Symphony, SYNC HD, Synchronic, SynchroScope, SYNC I/O, Syntax, TDM 
+FlexCable, TechFlix, Tel-Ray, Thunder, Titansync, Titan, TL Aggro, TL AutoPan, TL Drum Rehab, TL Everyphase, TL Fauxlder, TL In 
+Tune, TL MasterMeter, TL Metro, TL Space, TL Utilities, tools for storytellers, Torq, Torq Xponent, Transfuser, Transit, TransJammer, 
+Trigger Finger, Trillium Lane Labs, TruTouch, UnityRAID, Vari-Fi, Velvet, Video the Web Way, VideoRAID, VideoSPACE, VideoSpin, 
+VTEM, Work-N-Play, Xdeck, X-Form, Xmon, XPAND!, Xponent, X-Session, and X-Session Pro are either registered trademarks or 
+trademarks of Avid Technology, Inc. in the United States and/or other countries.
+Adobe and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or 
+other countries. Apple and Macintosh are trademarks of Apple Computer, Inc., registered in the U.S. and other countries. Windows 
+is either a registered trademark or trademark of Microsoft Corporation in the United States and/or other countries. All other 
+trademarks contained herein are the property of their respective owners. 
+Footage
+Arri — Courtesy of Arri/Fauer — John Fauer, Inc. 
+Bell South “Anticipation” — Courtesy of Two Headed Monster — Tucker/Wayne Atlanta/GMS. 
+Canyonlands — Courtesy of the National Park Service/Department of the Interior. 
+Eco Challenge British Columbia — Courtesy of Eco Challenge Lifestyles, Inc., All Rights Reserved.  
+Eco Challenge Morocco — Courtesy of Discovery Communications, Inc. 
+It’s Shuttletime — Courtesy of BCP & Canadian Airlines.  
+Nestlé Coffee Crisp — Courtesy of MacLaren McCann Canada.  
+Saturn “Calvin Egg” — Courtesy of Cossette Communications.  
+“Tigers: Tracking a Legend” — Courtesy of www.wildlifeworlds.com, Carol Amore, Executive Producer. 
+"The Big Swell" — Courtesy of Swell Pictures, Inc. 
+Windhorse — Courtesy of Paul Wagner Productions.
+Arizona Images — KNTV Production — Courtesy of Granite Broadcasting, Inc.,  
+Editor/Producer Bryan Foote. 
+Canyonlands — Courtesy of the National Park Service/Department of the Interior. 
+Ice Island — Courtesy of Kurtis Productions, Ltd. 
+Tornados + Belle Isle footage — Courtesy of KWTV News 9. 
+WCAU Fire Story — Courtesy of NBC-10, Philadelphia, PA. 
+Women in Sports – Paragliding — Courtesy of Legendary Entertainment, Inc.
+Avid Audio-Video Editing Workflows • October 2011
+
+
+7
+Contents
+Chapter 1
+Post-Production Editing Workflows for Film and Television . . . . . . . . . . . .  9
+Overview of Production Workflows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Chapter 2
+Supported Pro Tools Configurations for Video I/O and Monitoring. . . . . .  14
+Pro Tools Basic Video Import . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Pro Tools with Avid Video Peripherals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Pro Tools Video Satellite System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+Chapter 3
+Exchanging Projects between Avid Audio and Video Editing Systems . .  18
+Methods of Transferring Projects between Audio and Video Editing Applications . . . . .  18
+AAF or OMF? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Linked or Embedded Media? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+Unified Nomenclature for Audio and Video Editing. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Checklists for Audio/Video Editing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  24
+Checklist: Exporting a Sequence to Pro Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+Checklist: Importing a Sequence from the Avid Video Editing Application . . . . . . . . . . .  27
+Checklist: Sending the Audio Mix to the Video Editing Application. . . . . . . . . . . . . . . . .  30
+Checklist: Importing the Audio Mix into the Video Editing Application . . . . . . . . . . . . . .  31
+Checklist: Exchanging Project Files between Co-installed Audio & Video  
+Editing Applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+Exporting Sequences from Avid Video Editing Applications . . . . . . . . . . . . . . . . . . . . . .  36
+Exporting AAF Sequences with Special Options . . . . . . . . . . . . . . . . . . . . . . . . . . .  36
+Opening a Sequence on a Video Satellite System . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  39
+Chapter 4
+Interoperability Support for Avid  
+Audio & Video Editing Applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40
+Hardware Solutions for Avid Audio and Video Editing Applications . . . . . . . . . . . . . . . .  40
+Video I/O and Monitoring Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40
+Control Surface Options. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  42
+Shared Storage Options. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  42
+Co-Editing with Avid Audio and Video Editing Applications . . . . . . . . . . . . . . . . . . . . . .  43
+Avid Media Composer Support for Pro Tools. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  43
+Avid Pro Tools Support for Media Composer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  44
+Transferring Projects and Media between Audio and Video Editing Applications. . . . . .  45
+
+ 
+8
+
+1
+Post-Production Editing Workflows for 
+Film and Television
+Production companies, post houses, and audio post facilities need to stay connected and in 
+constant contact to meet tight deadlines and stringent quality requirements. Offline editing, 
+sound post, effects and graphics work can take place at different facilities, and Avid editing tools 
+and interconnectivity solutions support the file interchange workflows between these specialized 
+post facilities.
+This guide describes best practices recommended by Avid specifically for audio and video 
+editing. The products discussed in this guide include the Avid Pro Tools audio editing application 
+and the Avid video editing applications—Media Composer, Symphony and NewsCutter. (The 
+name Media Composer is used throughout this guide as a reference to the Avid video editing 
+applications.)
+Where necessary, this guide also refers you to other product documentation for more details.
+Overview of Production Workflows
+The illustration below shows a typical workflow where offline/online editing of audio and video 
+components are conducted within the same facility. It shows the workflow between standalone 
+editing systems, as well as how they can be integrated within a larger network interconnecting 
+audio and post houses.
+
+Overview of Production Workflows
+10
+Acquisition
+You can capture and edit footage from tape or from digital file format (originating from digital 
+cameras or CGI applications) directly into the video editing application. If you receive footage 
+from a traditional film reel, you need to either scan it to file or transfer it through Telecine onto 
+tape in a digital HD format. 
+The sound is usually recorded separately on a digital audio system, such as a BWF file-based 
+recorder, or a field recorder. The audio can be captured directly from the recorder, and synced 
+with the video during the editing process.
+Video Editing in Media Composer
+You can perform all your video editing with Avid Media Composer, and even create some basic 
+audio tracks with surround sound and audio effects, that can later be sweetened in Pro Tools. 
+Interplay Stream Publish Service
+   
+Avid ISIS
+Avid Interplay Engine
+Interplay Transcode Service
+   
+Hi-Res ingest
+Lo-Res ingest
+Avid AirSpeed
+Multi Stream
+Hi-Res playout
+Avid Media Composer
+   
+ACQUISITION
+OUTPUT & 
+DISTRIBUTION
+PRODUCTION
+INTERCONNECTED SOLUTIONS
+FILM
+DELIVERABLES
+VIDEO
+DELIVERABLES 
+(HD, SD, DVD, BLU-RAY)
+TELECINE
+HD 4:4:4
+Avid Pro Tools
+   
+SCANNER
+DPX
+R3D
+ARRI
+QuickTime
+CG
+TIF
+WEB
+DELIVERABLES
+STANDALONE SOLUTIONS
+AAF/OMF
+ARCHIVE
+RESTORE
+Video Editing
+Audio Editing
+BWF
+Storage
+Hi-Res
+Transcoded media
+SHARE
+MEDIA
+
+Overview of Production Workflows
+11
+The key to maintaining a high level of interoperability between Media Composer and Pro Tools 
+is to use an AAF file. This is currently the best format for transferring and reassembling the 
+sequence or session composition from one application to another. 
+In Media Composer, you can export the audio tracks to an AAF, as well as perform separate 
+exports of the media files (e.g. QuickTime or MXF). If the destination Pro Tools system has an 
+Avid video peripheral or a Video Satellite system, you can also export Avid video tracks as part 
+of the AAF.
+Audio Editing in Pro Tools
+When you open an AAF in Pro Tools, it will populate a new session with all the audio media 
+and/or video metadata needed to recreate any initial edits done in Media Composer. This 
+includes any markers placed on the timeline by the video editor to indicate where sound effects 
+need to be added.
+During the editing session, you can enhance and improve the rough audio track (also known as 
+the “guide track”) produced by the video editor, and use the markers to help spot where sound 
+effects need to be added. You can also view any volume automation, clip gain or pan automation 
+information imported for individual tracks and easily add and manipulate break points using the 
+Pro Tools editing functions.
+n You can also edit with accompanying video in Pro Tools by either importing and viewing a 
+QuickTime file, capturing with an attached video peripheral, or viewing playback from a 
+connected Media Composer Video Satellite system—see “Supported Pro Tools Configurations 
+for Video I/O and Monitoring” on page 14 for details.
+You can then create any other necessary audio tracks for dialog, ADR, foley, music, and sound 
+effects in either mono or stereo. When the final audio sweetening session is complete, mix it 
+down, and export both the AAF and audio media back to Media Composer.
+Conforming Audio
+After audio is imported into a Pro Tools session from a video editing system, the project’s picture 
+is often re-edited, which requires all of the audio to be re-edited to match the new picture 
+changes. This process is known as conforming which involves cutting and re-editing audio to 
+match new picture changes that have occurred since the last audio edits were made. Before the 
+conforming of audio can occur, the video editing system usually outputs a text file called an EDL 
+(Edit Decision List) with the new picture edits. The EDL can be used with a third-party 
+conforming tool to match the changes to the sound track in Pro Tools.
+
+Overview of Production Workflows
+12
+Export for Review or Final Delivery
+When the project is completed, you can output and transfer the project for final delivery to the 
+client. Depending on your client’s delivery specifications, you will need to either export final 
+sequence with the combined video and audio, or deliver the audio and video components 
+separately.
+There are a variety of linear tape final delivery formats (such as Digital Betacam, DVC-Pro, 
+DVCAM, and Timecode DAT), as well as digital file formats such as QuickTime, AAF, OMFI, 
+WAV, AIFF, MXF, and MP3.
+Editing on Interplay
+The exchange process between Avid audio and video editing systems can be facilitated with 
+Avid interconnectivity solutions. Media Composer, Symphony, NewsCutter, and Pro Tools 
+systems support integration with Avid’s Interplay asset management system and shared storage. 
+This allows workflows with greater speed, flexibility and team collaboration. Both post and 
+broadcast facilities can configure a project-wide, multi-resolution workflow, that allow 
+producers, assistants and editors to log, mark and edit large amounts of material quickly and 
+accurately.
+When connected to an Interplay system, Avid video editing systems can check in/out projects, 
+sequences, and media from Interplay, created for or by Pro Tools.
+When equipped with the Pro Tools Interplay Integration Option, Pro Tools can interact directly 
+with Avid Interplay to:
+•
+Open AAF sequences directly from Interplay
+•
+Export the session and any new media back to the sequence on Interplay
+•
+Send sequences directly to 3rd-party playback servers, for live playback (Interplay Transfer 
+option and Pro Tools Send to Playback web service required).
+For more information on these workflows, see the Avid Editing on Interplay Workflow Guide (for 
+video editors) and the Pro Tools Avid Interplay Guide (for audio editors).
+Avid Editing Systems and Shared Storage
+With an Avid shared storage solution, you can quickly increase collaboration in a post facility. 
+There are Avid storage solutions for facilities with standalone editing systems, as well as larger 
+networked systems requiring high-resolution storage and bandwidth.
+Avid ISIS® and Unity MediaNetwork are high-speed network storage systems that let multiple 
+users store and share media through a gigabit Ethernet or Fibre Channel connection.
+
+Overview of Production Workflows
+13
+Pro Tools, Media Composer, Symphony, and NewsCutter can use a common shared storage 
+system to share the same media as follows:
+•
+Stream audio and video media in real time
+•
+Share AAF or OMF audio and video sequences
+•
+Share audio and video media in a push-pull workflow (Mac and Windows)
+
+2
+Supported Pro Tools Configurations for 
+Video I/O and Monitoring
+There are three main types of Pro Tools system configurations for audio-video editing:
+•
+“Pro Tools Basic Video Import” on page 14
+•
+“Pro Tools with Avid Video Peripherals” on page 15
+•
+“Pro Tools Video Satellite System” on page 16
+In addition, Pro Tools and Media Composer software can be installed on the same computer. For 
+a table of compatible software versions, as well as a list of Pro Tools interfaces which can be 
+used as audio I/O devices with Avid video editing applications, refer to the Co-Install Notes on 
+the Avid Knowledge Base.
+Pro Tools Basic Video Import
+All Pro Tools systems can import and view QuickTime (SD and HD) movies in a floating 
+window on the desktop. 
+On Macintosh systems only, a PCIe BlackMagic card or DV transcoder can be installed in the 
+Pro Tools system to play full resolution QuickTime files on a secondary video monitor. 
+Avid Pro Tools
+Audio I/O hardware
+with embedded or linked
+QuickTime  media
+AAF/OMF sequence
+Playback in external monitor
+(only on Macintosh systems
+with appropriate hardware)
+
+Pro Tools with Avid Video Peripherals
+15
+Pro Tools with Avid Video Peripherals
+Pro Tools and Avid video peripherals combine to support import and playback of QuickTime, 
+and Avid MXF/OMF video media. 
+When using an Avid video peripheral such as Mojo SDI with Pro Tools, you must have 
+Pro Tools HD software running on HDX, HD Native, or Pro Tools|HD hardware with a 
+synchronization peripheral (such as SYNC HD) in order to maintain near sample accurate 
+audio/video sync.
+While it is possible to use an Avid video peripheral without the presence of any hardware 
+(Pro Tools software only), audio and video synchronization is not guaranteed.
+In addition to the “Pro Tools Basic Video Import” on page 14, this system offers several 
+advantages:
+•
+Import an AAF and copy/relink to existing Avid MXF video (SD) or audio media for 
+playback in Pro Tools.
+Avid Mojo SDI with the SYNC HD hardware, works with many popular Avid video 
+resolutions, including uncompressed SD, DV25 and DV50, 15:1s, and several 24p/25p 
+progressive-scan resolutions.
+n All audio I/O is handled by the Pro Tools audio hardware.
+Capture MXF Video (SD)
+ directly to Timeline
+Avid Mojo SDI
+Audio I/O hardware
+Avid Pro Tools HD
+AAF/OMF sequence
+with embedded or linked 
+MXF/OMF or 
+QuickTime media
+SYNC HD
+Playback in External Monitor
+Capture audio
+
+Pro Tools Video Satellite System
+16
+•
+Import QuickTime video and playback via Mojo SDI.
+•
+Capture Avid video directly to the Pro Tools timeline.
+•
+Play back to an external SD-SDI, NTSC or PAL monitor.
+•
+Mojo SDI also offers simultaneous output to both broadcast monitors and tape, and features 
+Genlock for video sync with external devices.
+Pro Tools Video Satellite System
+Pro Tools and a Media Composer with the video satellite option are known collectively as a 
+Video Satellite system. Pro Tools HD software running on HDX, HD Native, or Pro Tools|HD 
+hardware with a synchronization peripheral (such as SYNC HD) can play any Avid HD or SD 
+sequence from a second dedicated computer running Avid Media Composer or Symphony 
+software, in sync with a Pro Tools session.
+The two computers are connected via Avid’s satellite Ethernet protocol. The Media Composer 
+system supports the Avid Mojo DX and Nitris DX video peripherals for high quality output to an 
+external HD NTSC or PAL monitor.
+The Pro Tools system may consist of:
+•
+Pro Tools|HD, HD Native or HDX cards
+•
+One or more Avid HD audio interfaces (e.g. HD I/O, HD OMNI, and HD MADI)
+Avid Pro Tools
+Synchronized HD/SD 
+video playback
+ with Media Composer
+SYNC HD
+Audio I/O hardware
+Video Reference
+Locks Pro Tools 
+audio clock
+to video reference
+Avid Media Composer
+Nitris DX
+Video I/O hardware
+Ethernet Connection
+
+Pro Tools Video Satellite System
+17
+•
+SYNC HD or SYNC I/O
+•
+Avid video I/O hardware (optional)
+•
+Video reference (connected to the SYNC HD or SYNC I/O)
+•
+Local and/or shared audio storage
+•
+Ethernet connection, either directly through an Ethernet hub or over a larger Ethernet 
+network
+The Media Composer/Symphony system consists of:
+•
+External monitor for video playback (optional) (NTSC, PAL or HD)
+•
+Avid video I/O hardware (optional)
+•
+Video reference (connected to the Avid video peripheral and the VTR, if present)
+•
+VTR (optional)
+•
+Keyspan USA-19HS adapter for 9-pin deck connection (Mac only)
+•
+RS-232 to RS-422 serial adapter (Mac only)
+•
+Local and/or shared storage for audio and video
+•
+Ethernet connection, either directly through an Ethernet hub or over a larger Ethernet  
+network
+Compared to “Pro Tools with Avid Video Peripherals” on page 15, the Video Satellite system 
+offers the following additional advantages:
+•
+Eliminates the need to render effects, copy files, or do video mixdowns as the Media 
+Composer Video Satellite system can simply open the Avid bin or sequence and play the 
+picture exactly as it was seen in the video editing suite. It also takes the heavy load of video 
+playback off the Pro Tools system.
+The Video Satellite option enables loop playback and scrubbing of picture as well.
+•
+Media Composer/Symphony with the Video Satellite option can capture, output and 
+playback synchronized video, through the video peripherals listed below.
+Monitor
+Required Peripherals
+NTSC or PAL video monitor, 
+HD-SDI video monitor, 
+HDMI video monitor
+Avid Nitris DX or Avid Mojo DX
+Analog HD video monitor
+Avid Nitris DX
+Computer monitor using DVI output 
+(Full-screen playback mode)
+Available by default from the graphics card.
+
+3
+Exchanging Projects between Avid Audio 
+and Video Editing Systems
+Before you begin exchanging files between your Avid video and audio editing systems, make 
+sure that you understand the possible workflows for the editing of audio and video—see 
+“Overview of Production Workflows” on page 9.
+You should also familiarize yourself with the various functions that support interoperability 
+between Media Composer and Pro Tools—see “Interoperability Support for Avid Audio & 
+Video Editing Applications” on page 40.
+Methods of Transferring Projects between Audio and 
+Video Editing Applications
+AAF (Advanced Authoring Format) and OMF (Open Media Framework) are the two main 
+industry-standard formats that you can use to exchange compositions and media between 
+different applications and platforms. 
+Avid editing applications can export an AAF or OMF file that contains the editing information 
+(metadata) for the selected sequence, along with the video and audio media files for the master 
+clips within the sequence. The media files can either be embedded or linked with the AAF or 
+OMF file. 
+When an editing application receives AAF or OMF sequence files, it uses the metadata to 
+automatically and quickly reassemble the composition. A simple metaphor for this approach is 
+that media files are the pieces of a puzzle and metadata is the set of instructions for assembling 
+the puzzle.
+•
+“AAF or OMF?” on page 19
+•
+“Linked or Embedded Media?” on page 20
+n Pro Tools can also export audio media files (such as AIFF and WAV) with an OMF wrapper 
+which can be imported into Media Composer..
+
+Methods of Transferring Projects between Audio and Video Editing Applications
+19
+AAF or OMF?
+AAF sequences are the best way to exchange projects between your Avid video and audio 
+editing applications. AAF is a more comprehensive standard of exchange and amongst many 
+other media formats, it can also embed/refer to MXF media files which the OMF format cannot. 
+Both AAF and OMF can store the editing metadata as well as the digital media (video, audio, 
+graphics and animation) required to rebuild the composition in another editing application. 
+However, not all settings may be saved in an OMF file, and therefore certain information may 
+not be transferred to another application. Avid strongly recommends that you use AAF as it 
+supports the latest features in Media Composer and Pro Tools.
+Only AAF can exchange markers, export RTAS plug-ins, multichannel audio tracks, clip-based 
+gain from Pro Tools, as well as support HD video. For a more detailed list of metadata that can 
+be interchanged with each format, refer to “Interchange Support for AAF and OMF” on page 65.
+AAF
+AAF is a sequence file format. AAF sequences are the best way to exchange projects and 
+maintain valuable metadata. An AAF sequence can refer to OMF and/or MXF media files, or 
+have OMF and MXF media files embedded within them.
+Pro Tools will import, play back, and export an AAF sequence that either links to media files or 
+has audio embedded within it.
+When you import an AAF file with embedded audio into Pro Tools, the audio will be extracted 
+into the appropriate tracks using the current session’s audio file format.
+OMF
+OMF is both a media file and sequence format.
+OMF media files can be audio or video, and Pro Tools can import and play back OMF audio and 
+video media files. Pro Tools can also export OMF audio, but not OMF video media files.
+An OMF sequence generated in an Avid video editing application cannot reference or have HD 
+video embedded within it. Also, Pro Tools can import an OMF sequence with embedded audio, 
+but not embedded video.
+MXF
+MXF is a media file format. There are MXF video files and MXF audio files, but there are no 
+MXF sequences. An AAF sequence may refer to or include MXF media files, but OMF 
+sequences cannot refer to or include MXF files.
+
+Methods of Transferring Projects between Audio and Video Editing Applications
+20
+Pro Tools can import and play back MXF audio and video files created in Media Composer or 
+other Avid applications.
+n Video files digitized in Pro Tools are technically in the MXF format, but are intended only for use 
+in Pro Tools and are not tested for compatibility with other applications.
+Linked or Embedded Media?
+There are two ways to handle media files when exporting AAF or OMF files—Embedded media 
+(in which the media files are embedded in the sequence) versus Linked media (in which media 
+files are referenced by the AAF or OMF sequence).
+With both approaches, media can first be consolidated so that only the necessary portions of the 
+media files are kept before embedding or linking them during the export process.
+n You can also export sequences with media that is both embedded and linked. For example, the 
+audio can be embedded, but the video linked.
+Embedded Media
+Embedding media results in one large OMF or AAF file containing both the sequence metadata 
+and all associated media. Although it is easier to transfer a single file with embedded media, it is 
+important to note that this file is also slower to export and import.
+When Media Composer exports an embedded AAF, Pro Tools must copy and import the audio 
+files.
+Pro Tools imports just the audio media from an embedded AAF or OMF. If you have a 
+Media Composer Video Satellite system, you can import AAF or OMF sequences containing 
+embedded video files. In such a case, only the video metadata is imported onto a satellite track, 
+and not the video media.
+
+Methods of Transferring Projects between Audio and Video Editing Applications
+21
+Linked Media
+Exporting AAF or OMF with linked media results in a metadata file (.AAF or .OMF) and any 
+associated media stored as separate files. This keeps the size of the sequence file small and the 
+export/import process becomes relatively fast.
+Using the linked option is much more efficient especially when you have multiple media files to 
+access within your sequence. However, you need to ensure these files are kept well organized 
+since there are potentially numerous files to be transported between systems. 
+Linked media is also beneficial and recommended in environments where both Media Composer 
+and Pro Tools are installed, or where media is shared between the two systems. Large amounts of 
+storage space can be saved by linking to the media instead of duplicating it.
+When Media Composer exports a sequence with files that are linked, Pro Tools automatically 
+links to these files when the AAF is imported.
+n You cannot export an AAF with AMA-linked clips. You must transcode the media before 
+exporting the AAF.
+Avid Workstation Edited Sequence
+Original Source Media Files
+Export AAF/OMF with Embedded Media
+creates ...
+Sequence (metadata)
+Consolidated Media Files
+(with Handles)
+Embedded AAF/OMF File (metadata and media)
+Refers to:
+
+Unified Nomenclature for Audio and Video Editing
+22
+Unified Nomenclature for Audio and Video Editing
+To ease the workflows between the Avid audio and video editing applications, nomenclature 
+changes have been made to certain tools and options in the Media Composer and Pro Tools 
+applications.
+New Nomenclature for Pro Tools 10
+Avid Media Composer Edited Sequence
+Export sequence edits
+and file information
+as AAF/OMF sequence
+Pro Tools imports
+Session file
+Original Source Media Files
+Translated Pro Tools Session File
+AAF/OMF File (metadata only)
+Linked to:
+Old Term
+New Term
+Region
+Clip
+Region List
+Clip List
+Region Groups
+Clip Groups
+Region Clip indicator (rendered EA only)
+Elastic Audio Processing Clipping indicator
+Trimmer Tools
+Trim Tools
+Timeline selection start marker
+Timeline Selection In Point
+Timeline selection end marker
+Timeline Selection Out Point
+
+Unified Nomenclature for Audio and Video Editing
+23
+Additionally, “Digidesign” has been replaced with “Avid” for all file names and file path names.
+New Nomenclature for Media Composer/Symphony/NewsCutter
+Time Code
+Timecode
+Locators To Import (Import Session Data 
+dialog)
+Markers To Import (Import Session Data dialog)
+Process (AudioSuite)
+Render (AudioSuite)
+Old Term
+New Term
+Old Name
+New Name
+Digidesing CoreAudio Manager
+Avid Core Audio Manager
+Digidesign CoreAudio Driver
+Avid Core Audio Driver
+Digidesign ASIO Driver
+Avid ASIO Driver
+DigiTest
+Avid DigiTest
+/Digidesign/Pro Tools/
+Avid Pro Tools/
+Old Term
+New Term
+Auto Gain
+Volume
+Auto Pan
+Pan
+Locator
+Marker
+Sample Bit Depth
+Bit Depth
+Enable/Disable (audio tracks)
+Active/Inactive
+Gang (audio faders only)
+Group
+
+Checklists for Audio/Video Editing
+24
+Checklists for Audio/Video Editing
+Use the following checklists as guidelines when exchanging project files between the Avid video 
+and audio editing systems.
+If you are a smaller studio operator, or a single machine operator with an Avid video editing 
+application and Pro Tools co-installed, then you only need to refer to the following checklist:
+•
+“Checklist: Exchanging Project Files between Co-installed Audio & Video Editing 
+Applications” on page 32
+If you are editing on a separate Avid video editing system, refer to the following depending on 
+whether you are importing or exporting a sequence/session:
+•
+“Checklist: Exporting a Sequence to Pro Tools” on page 25
+•
+“Checklist: Importing the Audio Mix into the Video Editing Application” on page 31
+If you are editing on a separate Avid Pro Tools system, refer to the following depending on 
+whether you are importing or exporting a sequence/session:
+•
+“Checklist: Importing a Sequence from the Avid Video Editing Application” on page 27
+•
+“Checklist: Sending the Audio Mix to the Video Editing Application” on page 30
+n For guidelines on exchanging sequences and media in an Interplay environment, refer to the 
+Pro Tools Avid Interplay Guide.
+n For version compatibility and any known limitations, refer to the Readme for the associated Avid 
+products.
+
+Checklist: Exporting a Sequence to Pro Tools
+25
+Checklist: Exporting a Sequence to Pro Tools
+The following checklist contains some quick steps to send a sequence to Pro Tools for the audio 
+sweetening session. If you require information on more custom options, refer to the topics in the 
+Further reference column.
+Step
+Further reference
+Setting up the storage:
+There are many ways to exchange files between the audio and 
+video editing systems. When using shared storage, media does not 
+have to be duplicated. When you export your sequence, you have 
+the benefit of linking to a common location for the audio or video 
+media. Here are cases where you can use shared storage: 
+•
+Video and audio editing systems are on the same network and 
+connected to Avid shared storage.
+•
+Video and audio editing applications are installed on the same 
+system.
+“Devices and Methods 
+for Transferring Files” 
+- Media Composer Help
+Non-shared storage devices or electronic delivery methods can also 
+be used to exchange files. The media can be consolidated before or 
+during export. Both the sequence files and media need to be 
+transferred and placed in a similar structure so that the appropriate 
+links can be re-established on the receiving system.
+“Transferring Project 
+Files and Media Using 
+Nonshared Storage” 
+- Media Composer Help
+
+If you are sharing storage with the audio editor, make sure that your 
+system is connected to the storage that is most appropriate for the 
+types of files that you will be transferring back and forth.
+For shared storage such as an Avid ISIS, make sure the drive is 
+mounted and that you have access to the appropriate workspace(s) 
+where the project files and media are located.
+
+Create the necessary exchange folders on your storage space.
+We recommend that you create at least two folders for the exported 
+sequence files—for example, one labeled ‘To Audio Editor’ and the 
+other ‘From Audio Editor’.
+Export the Sequence:
+
+Duplicate the finished video sequence and name it appropriately. 
+For example, Sequence_ForMix.
+
+Before you begin the export process, read about the ways in which 
+you can optimize your sequence for a quick and easy export.
+“Preparing to Export a 
+Sequence” 
+- Media Composer Help
+
+Checklist: Exporting a Sequence to Pro Tools
+26
+
+Set up an export template with options that streamline your specific 
+production workflow—see the reference alongside for the 
+recommended settings.
+“Exporting Sequences 
+from Avid Video Editing 
+Applications” on 
+page 36.
+n Optionally, you can use the Export function. The Export 
+dialog box also has an Export To Pro Tools template that can 
+be modified and used for exporting your sequences and 
+media.
+“Exporting AAF 
+Sequences with Special 
+Options” on page 36.
+
+Right-click on the duplicated sequence and choose the Send To > 
+and the template that you set up for the export.
+
+If necessary, enter a new file name for the exported sequence.
+Click the Set button and select the storage location for the exported 
+files.
+
+Click Ok to begin the Export process. 
+If you are doing a video mixdown, the export may take some time 
+depending on the length and quality of the media.
+The exported sequence will be displayed in the bin.
+
+If you exported to a shared storage device, the sequence and 
+any associated media are placed in the proper location for the 
+audio editor.
+
+If you are using a non-shared storage, then you need to 
+copy/send the exported sequence and any linked media to the 
+audio editor.
+Step
+Further reference
+
+Checklist: Importing a Sequence from the Avid Video Editing Application
+27
+Checklist: Importing a Sequence from the Avid Video 
+Editing Application
+The following checklist outlines some quick steps to import a sequence from a video editing 
+application, such as Media Composer, into Pro Tools for the audio sweetening session. If you 
+require information on more custom options, refer to the topics in the Further reference 
+column.
+Step
+Further reference
+Set up the storage:
+There are many ways to exchange files between the audio and video 
+editing systems. When using shared storage, media does not have to 
+be duplicated. When you export your sequence, you have the benefit 
+of linking to a common location for the audio or video media. Here 
+are cases where you can use shared storage: 
+•
+Video and audio editing systems are on the same network and 
+connected to an Avid shared storage.
+•
+Video and audio editing applications are installed on the same 
+system.
+Non-shared storage devices or electronic delivery methods can also 
+be used to exchange files. The media can be consolidated before or 
+during export. Both the sequence files and media need to be 
+transferred and placed in a similar structure so that the appropriate 
+links can be re-established on the receiving system.
+
+If you are sharing storage with the video editor, make sure that your 
+system is connected to the storage.
+
+For shared storage such as an Avid ISIS, make sure the drive is 
+mounted and that you have access to the appropriate 
+workspace(s) where the project files and media are located.
+
+Checklist: Importing a Sequence from the Avid Video Editing Application
+28
+
+If the Pro Tools system is connected to a Video Satellite 
+system, it is preferable to mount the video storage on the Pro 
+Tools system.
+Alternatively, you can mount the audio storage on the satellite 
+system if you frequently use any of the following workflows:
+•
+You receive updated versions of AAF sequences with 
+additional audio files.
+•
+You export audio from Pro Tools for import into Media 
+Composer.
+•
+Your satellite system is connected to a shared storage 
+system, but your Pro Tools system is not.
+•
+Your satellite system is connected to Avid Interplay, but 
+your Pro Tools system is not.
+“Cross-Mounting 
+Media Storage on 
+Remote Systems” 
+- Avid Pro Tools 
+Video Satellite Guide
+
+We recommend that at least two folders should be available for the 
+exported sequence files—one labeled ‘To Audio Editor’ and the 
+other ‘From Audio Editor’.
+Transfer the files:
+
+If you are sharing storage between the audio and video editing 
+systems, or if your audio and video editing applications are 
+co-installed on the same system, then the files should already have 
+been exported directly to the appropriate workspace or folder. 
+
+If you are not sharing storage between the audio and video editing 
+applications, copy the files that you received from the video editor 
+to the appropriate folder on your audio storage.
+
+Make sure that any alternate source files from your recordings (such 
+as those from a field recorder) are also placed on your storage. 
+These will need to be imported into Pro Tools.
+“Field Recorder 
+Workflows” 
+- Pro Tools Help
+Import the sequence for the mixing session:
+
+Choose File > Open Session and navigate to the sequence that you 
+want to import. 
+Choose a place to save the session, then name it, and click Save.
+This will create a new session with the correct parameters and 
+automatically launch the Import Session Data dialog.
+n Optionally, you can create a new session from a template, 
+and import the sequence into it.
+“Importing an AAF or 
+OMF Sequence as a 
+Pro Tools Session” 
+- Pro Tools Help
+Step
+Further reference
+
+Checklist: Importing a Sequence from the Avid Video Editing Application
+29
+
+In the Import Session Data dialog, select the options to import the 
+track information and link to the media.
+“Import Options when 
+Importing AAF or 
+OMF Sequences” 
+- Pro Tools Help
+
+Pro Tools supports a number of video playback functions that are 
+dependant on the type of hardware configuration of your system.  
+Here are some options if you want to view video media while 
+performing your audio editing:
+“Working with Video 
+in Pro Tools” 
+- Pro Tools Help
+
+Link/import and view QuickTime files (SD or HD) in a 
+floating window on the desktop. Choose File > Import > 
+Video.
+n Make sure you have QuickTime installed (Downloads 
+are available on www.apple.com).
+“Importing Video into 
+Pro Tools” 
+- Pro Tools Help
+
+On Macintosh systems only. Link/import and view QuickTime 
+files (SD or HD) on an external monitor with a supported 
+Blackmagic card.
+
+On Pro Tools systems with a connected Mojo SDI peripheral. 
+Link/import and view Avid MXF/OMF, or QuickTime files 
+(SD only), on an external monitor.
+“Importing Sequences 
+from Avid 
+Applications” and 
+“Digitizing Video to 
+the Pro Tools 
+Timeline” 
+- Avid Video 
+Peripherals Guide
+
+On Video Satellite systems only. You can open and playback 
+sequences with Avid SD/HD video (using the Full Screen 
+playback mode, on an external monitor connected to Media 
+Composer.
+“Opening a Sequence 
+on a Video Satellite 
+System” on page 39.
+
+Perform the necessary audio editing.
+
+At this point in the workflow, the finished sequence with the new 
+audio tracks can be sent on to the next stage of production. You have 
+the following possible scenarios:
+
+Review and approval via the video suite. The sequence can be 
+exported back to the video editing application for playback, or 
+to a playout server for transmission.
+n You can only export audio tracks as AAF/OMF. This 
+excludes auxiliary, master fader and MIDI tracks.
+“Checklist: Sending 
+the Audio Mix to the 
+Video Editing 
+Application” on 
+page 30.
+Step
+Further reference
+
+Checklist: Sending the Audio Mix to the Video Editing Application
+30
+Checklist: Sending the Audio Mix to the Video 
+Editing Application
+The following checklist outlines all the basic steps required to send a Pro Tools audio session 
+back to a video editing application, such as Media Composer, for the final review and edit. If you 
+require information on more custom options, refer to the topics in the Further reference 
+column.
+
+Layback to tape. If you have a tape deck attached to your 
+system, you can layback an audio mix to create a tape master 
+of your project.
+“Arming Tracks 
+Remotely for 
+Layback”  
+- Pro Tools 
+MachineControl 
+Guide
+
+Bounce to file. Output a BWF/WAV mixdown of your session, 
+or an MP3 for streaming and downloading audio over the 
+Internet.
+“Bounce to Disk”  
+- Pro Tools Help
+If you have a Video Satellite system, you can export the audio 
+and video tracks to a QuickTime or Windows Media digital 
+movie.
+Exporting Audio and 
+Video as a Digital 
+Movie from a Video 
+Satellite”  
+- Avid Video Satellite 
+Guide
+Step
+Further reference
+Step
+Further reference
+Export the Mix:
+
+After the audio sweetening session is complete, you can export the 
+session as an AAF, or if the video editor only needs the resulting 
+mix, export the audio session to a media file such as aiff, wav, or 
+QuickTime.
+
+To export the session metadata and/or media. 
+Select the finished audio tracks, and choose File > Export 
+Selected Tracks as New AAF/OMF.
+Select the format for the exported media.
+Navigate to the appropriate folder where the files will be 
+exported, and click Save to begin the export.
+“Exporting Pro Tools 
+Tracks as AAF or 
+OMFI Sequences” 
+- Pro Tools Help
+
+Checklist: Importing the Audio Mix into the Video Editing Application
+31
+Checklist: Importing the Audio Mix into the Video 
+Editing Application
+The following checklist outlines some quick steps to import an audio mix into an existing video 
+sequence (in an application such as Media Composer), for the final editing and output. If you 
+require information on more custom options, refer to the topics in the Further reference 
+column.
+
+If you exported to a shared storage device, the sequence and any 
+associated media are placed in the proper location for the audio 
+editor.
+
+If you are using a non-shared storage, then you need to copy/send 
+the exported sequence and any linked media to the audio editor.
+Step
+Further reference
+Step
+Further reference
+Transfer the files:
+
+If you are sharing storage between your audio and video editing 
+systems, or if your audio and video editing applications are 
+co-installed on the same system, then the files should already have 
+been exported directly to the appropriate workspace or folder. 
+
+If you are not sharing storage between the audio and video editing 
+applications, copy the files that you received from the audio editor 
+to the appropriate folder on your video storage. It’s important to 
+save these files in a location where Media Composer expects 
+them—see topic under Further reference for specific details.
+“Transferring Project 
+and Media Files Using 
+Nonshared Storage” 
+- Media Composer 
+Help
+Import the Mix:
+
+Import the AAF and final media into the video editing system.
+If the media was embedded in the AAF, Media Composer will 
+extract the media on import and place it in the media files folder. If 
+the media was linked, then the files will be automatically located if 
+they were placed in the appropriate storage location.
+
+Edit the final sequence in Media Composer.
+Output the final sequence:
+
+Output or export the final sequence. Here are your options:
+
+Checklist: Exchanging Project Files between Co-installed Audio & Video Editing Applications
+32
+Checklist: Exchanging Project Files between 
+Co-installed Audio & Video Editing Applications
+The following checklist contains some quick steps to exchange project files on a system where 
+both the video and audio editing applications are installed. If you require information on more 
+custom options, refer to the topics in the Further reference column.
+
+Create a digital cut to a tape master.
+“Generating Output” 
+- Media Composer 
+Help
+
+Export the sequence as a digital movie for final distribution or 
+for further processing in another application.
+“Exporting 
+QuickTime Movies” 
+or “Exporting as 
+Windows Media” 
+- Media Composer 
+Help
+
+Transfer completed sequences from your video editing system, 
+to an AirSpeed system for playout to air.
+“Playout”  
+- AirSpeed Multi 
+Stream Help
+n In a newsroom environment you can use the Avid 
+iNEWS® Command application to create your 
+playlists.
+Avid iNews Command 
+User’s Guide
+Step
+Further reference
+Step
+Further reference
+Co-installing Media Composer and Pro Tools:
+Pro Tools and Media Composer software can be installed on the 
+same computer. You must follow specific instructions to ensure that 
+they perform correctly.
+Co-Install Notes  
+- Avid Knowledge Base
+Setting up the storage:
+Since your video and audio editing applications are installed on the 
+same system, you have the benefit of linking to a common location 
+for the audio or video media.
+
+Checklist: Exchanging Project Files between Co-installed Audio & Video Editing Applications
+33
+
+Create the necessary exchange folders on your storage space.
+We recommend that you create at least two folders for the exported 
+sequence files—for example, one labeled ‘To Audio’ and the other 
+‘From Audio’.
+Export the Sequence from the video editing application:
+
+Duplicate the finished video sequence and name it appropriately. 
+For example, Sequence_ForMix.
+
+Before you begin the export process, read about the ways in which 
+you can optimize your sequence for a quick and easy export.
+“Preparing to Export a 
+Sequence” 
+- Media Composer Help
+
+Optional. Set up an export template with options that streamline 
+your specific production workflow—see the reference alongside for 
+the recommended settings.
+“Exporting Sequences 
+from Avid Video Editing 
+Applications” on 
+page 36.
+n Alternatively, you can use the Export function. The Export 
+dialog box also has an Export To Pro Tools template that can 
+be modified and used for exporting your sequences and 
+media.
+“Exporting AAF 
+Sequences with Special 
+Options” on page 36.
+
+Right-click on the duplicated sequence and choose the Send To > 
+Pro Tools option or use the template that you set up for the export.
+
+If necessary, enter a new file name for the exported sequence.
+Click the Set button and select the storage location for the exported 
+files.
+
+Click Ok to begin the Export process. 
+If you are doing a video mixdown, the export may take some time 
+depending on the length and quality of the media.
+The exported sequence will be displayed in the bin. The AAF 
+sequence and any associated media are placed in the proper 
+location for access by the audio editing application.
+Import the sequence into Pro Tools:
+Step
+Further reference
+
+Checklist: Exchanging Project Files between Co-installed Audio & Video Editing Applications
+34
+
+Choose File > Open Session and navigate to the sequence that you 
+want to import. 
+Choose a place to save the session, then name it, and click Save.
+This will create a new session with the correct parameters and 
+automatically launch the Import Session Data dialog.
+n Optionally, you can create a new session from a template, 
+and import the sequence into it.
+“Importing an AAF or 
+OMF Sequence as a Pro 
+Tools Session” 
+- Pro Tools Help
+
+In the Import Session Data dialog, select the options to import the 
+track information and link to the media.
+n If you are re-importing a sequence from Media Composer 
+into an existing Pro Tools session, we do not recommend that 
+you select the Match Tracks button as this overwrites the 
+existing tracks and you’d lose any changes that were made.  
+ 
+Instead, make sure that you import to new tracks, and then 
+compare the new tracks and manually fix any timing changes 
+on the tracks on which you were already working.
+“Import Options when 
+Importing AAF or OMF 
+Sequences” 
+- Pro Tools Help
+
+Pro Tools supports a number of video playback functions that are 
+dependant on the type of hardware configuration of your system.  
+Here are some options if you want to view video media while 
+performing your audio editing:
+“Working with Video in 
+Pro Tools” 
+- Pro Tools Help
+
+Import and view SD or HD QuickTime files in a floating 
+window on the desktop. Choose File > Import > Video or 
+Audio.
+n Make sure you have QuickTime installed (Downloads 
+are available on www.apple.com).
+“Importing Video into 
+Pro Tools” 
+- Pro Tools Help
+
+On Macintosh systems only. Import and view SD or HD 
+QuickTime files on an external monitor with a supported 
+Blackmagic card.
+
+With a connected Mojo SDI peripheral. Import and view Avid 
+MXF or OMF files, or SD QuickTime files on an external 
+monitor.
+“Importing Sequences 
+from Avid Applications”  
+- Avid Video Peripherals 
+Guide
+
+On systems with Pro Tools HDX, HD Native, or HD 
+hardware only. Digitize video directly to the Pro Tools video 
+track.
+“Digitizing Video to the 
+Pro Tools Timeline 
+- Avid Video Peripherals 
+Guide
+Step
+Further reference
+
+Checklist: Exchanging Project Files between Co-installed Audio & Video Editing Applications
+35
+
+Perform the necessary audio editing.
+
+At this point in the workflow, the finished sequence with the new 
+audio tracks can be sent on to the next stage of production. You 
+have the following possible scenarios:
+
+Review and approval via the video suite. The sequence can be 
+exported back to the video editing application for playback, 
+or to a playout server for transmission.
+n You can only export audio tracks as AAF/OMF. This 
+excludes auxiliary, master fader and MIDI tracks.
+“Checklist: Sending the 
+Audio Mix to the Video 
+Editing Application” on 
+page 30.
+
+Layback to tape. If you have a tape deck attached to your 
+system, you can layback an audio mix to create a tape master 
+of your project.
+“Arming Tracks 
+Remotely for Layback”  
+- Pro Tools 
+MachineControl Guide
+
+Bounce to file. Output a BWF/WAV mixdown of your 
+session, or an MP3 for streaming and downloading audio 
+over the Internet.
+You can also bounce your mix to an iTunes library, or to the 
+SoundCloud social audio sharing site.
+“Bounce to Disk”  
+- Pro Tools Help
+Import the Mix into the video editing application:
+
+Import the AAF and final media into the video editing system.
+If the media was embedded in the AAF, Media Composer will 
+extract the media on import and place it in the media files folder. If 
+the media was linked, then the files will be automatically located if 
+they were placed in the appropriate storage location.
+
+Edit the final sequence in Media Composer.
+Output the final sequence:
+
+Output or export the final sequence. Here are your options:
+
+Create a digital cut to a tape master.
+“Generating Output” 
+- Media Composer Help
+
+Export the sequence as a digital movie for final distribution 
+or for further processing in another application.
+“Exporting QuickTime 
+Movies” or “Exporting 
+as Windows Media” 
+- Media Composer Help
+Step
+Further reference
+
+Exporting Sequences from Avid Video Editing Applications
+36
+Exporting Sequences from Avid Video Editing 
+Applications
+Projects created on an Avid video editing system (such as Avid Media Composer) can be 
+exported as AAF or OMF 2.0 sequences, and imported into Pro Tools with an Avid video 
+peripheral. This exchange of data between applications is significantly faster and easier than 
+other methods, such as laying off to tape and re-digitizing.
+n When exporting sequences from an Avid application, AAF is the recommended format because it 
+carries more data and is more recognized than OMF as a standard.
+When an AAF or OMF sequence exported from Avid software is imported into Pro Tools, one 
+video track will display each of the video files as clips in the Edit window. Generally, these 
+reflect the same clips on the Avid timeline, unless an effect spans more than one video clip.
+All video effects, including fades, titles and multi-stream effects, must be rendered before they 
+can be exported in an AAF or OMF 2.0 sequence for import into Pro Tools. Rendering means 
+that a media file called a “precompute” is created. This precompute is what is referenced by the 
+exported sequence and what appears in the Pro Tools Edit window. For example, if there are 
+three video clips in the Avid timeline and a title effect is laid across all three, the title would have 
+to be rendered before export, creating a single precompute file. Then, instead of seeing the three 
+original video files in the Pro Tools Edit window, only the one pre compute clip will be 
+displayed.
+Pro Tools with an Avid video peripheral can import and play sequences containing one or more 
+single-stream clips, video editing metadata video tracks, or video mixdown tracks.
+Exporting AAF Sequences with Special Options
+You can make the export process much more efficient by choosing the right options for your 
+workflow. You can even use Send To templates to create an export operation that uses up to two 
+export templates without you having to export a sequence multiple times. (Avid applications can 
+also export directly to Avid Interplay.)
+
+Exporting Sequences from Avid Video Editing Applications
+37
+When choosing your export settings for audio, consider the following:
+•
+Editing systems connected to shared storage can export a sequence linking directly to the 
+source audio files. If desired, the audio editor can also choose to consolidate the audio files 
+to a dedicated workspace when importing them into Pro Tools.
+When choosing your export settings for video, consider the following:
+•
+QuickTime video is mandatory if you do not have an Avid video peripheral (e.g. Mojo SDI) 
+or if you're not using Video Satellite. An alternative to creating a complete QuickTime 
+movie file (when you're working on shared storage) is to export a QuickTime reference file 
+that links directly to the source files. This makes for a much faster export.
+•
+If you DO have an Avid video peripheral then you could potentially link directly to the video 
+files on shared storage (no need to consolidate first), as long as (a) they are SD, (b) they are 
+of a format that the peripheral supports in conjunction with Pro Tools, and (c) all video 
+effects in the sequence are rendered. If the sequence is HD, or uses video of an unsupported 
+format, then you need to either transcode or mixdown the video first.
+•
+If you are using a Video Satellite system then no processing (rendering, consolidating, 
+transcoding, mixdown etc) needs to take place as the Video Satellite can link directly to the 
+source files regardless of SD/HD, format, unrendered effects etc.
+To create a custom Send To template:
+1. Right-click on a clip or sequence in a bin.
+2. Select File > Send To > Make New.
+3. (Option) Type a new file name in the Filename text box. 
+4. The following are some recommended settings based on whether you are linking to media 
+(shared storage) or creating new media to send to Pro Tools:
+Export Settings for Pro Tools
+Export Setting
+Options for linking to existing media
+Consolidate - Link 
+Audio and Video
+Consolidates the audio and video media, and then exports AAF 
+metadata only (no media is exported). Pro Tools will link to, or 
+reference, the Avid audio or video files located on Avid shared storage. 
+Link To Audio only 
+or 
+Link To Audio and 
+Video
+Exports AAF metadata only (no media is exported). Pro Tools will link 
+to, or reference, the Avid audio or video files located on Avid shared 
+storage. This is the fastest method of export.
+Link to Audio and 
+Video Mixdown
+First creates flattened audio and video mixdowns of the tracks. The 
+AAF then links to the Avid audio and video mixdown (MXF) files 
+located on Avid shared storage.
+
+Exporting Sequences from Avid Video Editing Applications
+38
+n To export AAFs larger than 2 GB (which is usually the case when embedding video), the AAF 
+Edit Protocol option must be checked in order for the editing application to perform the export.
+5. (Option) Do the following if you want the third-party application to automatically launch 
+after you export.
+a.
+(Option) Click the Auto Launch button, and select Add Item. 
+b.
+(Option) Browse to find the third-party application.
+c.
+Click Open.
+d.
+Select Auto Load Exported File(s) if you want the files you export to automatically load 
+in the third-party application.
+e.
+Select Reveal file if you want the system to search available drives, open Windows 
+Explorer or the folder (Macintosh), and highlight related media files.
+6. Make any changes to the Export settings that you need by clicking the appropriate Options 
+button, making the changes, and then clicking Save.
+7. Click OK.
+The Save As dialog opens. 
+8. Name the new Send To (.stt) template.
+9. Click Save and the new template will now be available as a Send To menu command.
+Pro Tools Quicktime 
+(Ref)
+Creates a QuickTime reference file that points to the source audio or 
+video files. When the QuickTime Ref is imported into Pro Tools, it 
+links to the associated source audio/video files.
+Export Setting
+Options for creating new media
+Send to QT Movie
+Creates a QuickTime movie, consolidates the audio, and embeds the 
+audio into the AAF file. (You can also select the option to include 
+video).
+When exporting a DV movie to Pro Tools, do not enable 'use Avid 
+Codec'. If an Avid-codec DV movie is imported into Pro Tools, you 
+cannot play it unless you have installed an Avid video peripheral.
+Consolidate - Embed 
+Audio only
+Creates a video mixdown of the tracks (MXF), consolidates the audio, 
+and embeds the audio into the AAF file. (Even on shared storage it's 
+good practice to consolidate audio to a separate workspace specifically 
+for Pro Tools.)
+Export Setting
+Options for linking to existing media
+
+Opening a Sequence on a Video Satellite System
+39
+Opening a Sequence on a Video Satellite System
+If you are using a Video Satellite System, certain steps must be taken to open a sequence for 
+playback. This topic is designed to provide a quick start. For more details of all the other possible 
+options, refer to the Avid Video Satellite Guide.
+Open the sequence in Media Composer Video Satellite:
+1. Open a new project.
+2. Right-click in the bin, and choose Import.
+3. Navigate to the folder where the files are located, select the video sequence, and click 
+Import.
+4. Drag and drop the sequence into the Record Monitor.
+If you are not using shared storage (or Interplay), then do the following:
+-
+Right-click on the sequence and choose the option to “Send To”. Make sure to link to 
+the video and consolidate the audio.
+-
+Export the AAF sequence and audio files to the proper storage location.
+Open the session in Pro Tools:
+1. Open a blank session and choose Import > Session Data.
+2. Open the AAF sequence that was exported from the Video Satellite and select the following 
+options:
+-
+Set V1 to New Satellite Track
+-
+Link to source media
+3. Activate the satellite (Shift+Alt+L).
+You can view the video in Full Screen Playback mode, or in an external monitor connected 
+to the Video Satellite system.
+
+4
+Interoperability Support for Avid 
+Audio & Video Editing Applications
+There are many features that support input/output, file interchange and media sharing between 
+audio and video editing applications. The products covered here include Avid Pro Tools 10, 
+Media Composer 6, Symphony 6 and NewsCutter 10. New features in these releases have been 
+highlighted in the support tables. 
+•
+“Hardware Solutions for Avid Audio and Video Editing Applications” on page 40
+•
+“Co-Editing with Avid Audio and Video Editing Applications” on page 43
+•
+“Transferring Projects and Media between Audio and Video Editing Applications” on 
+page 45
+For a listing of compatible software versions, as well as supported audio and video I/O interfaces 
+for the audio and video editing applications, refer to the Co-Install Notes on the Avid Knowledge 
+Base.
+Hardware Solutions for Avid Audio and Video Editing 
+Applications
+Avid provides a number of hardware solutions for input/output, video monitoring, surface 
+controllers, and shared storage for the Media Composer and Pro Tools family of products.
+•
+“Video I/O and Monitoring Options” on page 40
+•
+“Control Surface Options” on page 42
+Video I/O and Monitoring Options
+Avid supports various video input/output and monitoring devices for integrated picture solutions 
+and direct interoperability with ICON workstations. Refer to the appropriate section below for 
+your Avid editing application. 
+
+Hardware Solutions for Avid Audio and Video Editing Applications
+41
+Supported Options for the Media Composer Family
+Supported Options for the Pro Tools Family
+Feature
+Refer to
+Integration with Pro Tools Hardware and Peripherals
+•
+Install Media Composer with the new versions of 
+Pro Tools hardware and peripherals, including the HD 
+Native and Pro Tools|HD cards. You can use the same 
+audio hardware for both audio and video editing 
+applications.
+Avid HD Native and 
+Pro Tools|HD Hardware 
+Configuration for Editing 
+Systems 
+- Media Composer Help
+•
+Use supported Pro Tools audio devices for input/output 
+operations.
+Co-installation 
+Configurations and Audio 
+Device Support 
+- Media Composer 
+Readme
+Using Mbox Family Audio 
+Devices 
+- Media Composer Help
+Feature
+Refer to
+Near-Sample Accurate Lock for Pro Tools HDX, HD 
+Native and HD Hardware
+Use SYNC peripherals to keep your audio-video productions 
+in total sync. SYNC HD attains near sample-accurate lock to 
+serial timecode (through RS-422), LTC, or bi-phase/tach 
+signals, as well as standard pull-up/pull-down rates for film 
+and video applications.
+Avid SYNC HD Guide
+Peripherals for SD Video Capture 
+Use Avid video I/O peripherals such as Mojo SDI to capture 
+or playback standard definition video in the Pro Tools 
+timeline. 
+Avid Video Peripherals 
+Guide
+
+Hardware Solutions for Avid Audio and Video Editing Applications
+42
+Control Surface Options
+There are various Avid control surfaces to give you tactile control of track volume, panning, 
+plug-ins, transport and other vital recording, mixing/editing operations. Refer to the appropriate 
+section below for your Avid editing application.
+Supported Options for the Media Composer Family
+Shared Storage Options
+Pro Tools and Avid video editing applications can use Avid ISIS 7000, ISIS 5000, and Unity 
+MediaNetwork high-speed network storage systems to share the same media as follows:
+Peripherals for HD Video Capture 
+Use Media Composer Video Satellite for synchronized video 
+playback, capture, and conversion of HD media in Pro Tools. 
+Video Satellite is a software option that allows you to quickly 
+and easily play Avid HD video sequences from a dedicated 
+Mac or Windows-based computer, running Avid Media 
+Composer software (with attached Mojo DX or Nitrix DX 
+peripherals). 
+Avid Video Satellite Guide
+Feature
+Refer to
+Feature
+Refer to
+Integration with Audio Controllers
+•
+EUCON™ integration: Use Avid Artist Control, Avid 
+Artist Transport, and Avid Artist Mix with your Avid 
+editing application for audio navigation and transport 
+functions, as well as some video and audio editing 
+features such as recording volume automation. 
+Using Avid Artist Series 
+Controllers  
+- Media Composer Help
+Feature
+Refer to
+•
+Push/pull audio and video media
+•
+Share AAF, OMF, and MXF audio and video sequences
+Pro Tools ISIS Guide and 
+the Pro Tools Avid 
+MediaNetwork Guide
+•
+Stream audio and video media in real time. 
+NEW
+•
+Increased track counts and Mac streaming support for 
+Pro Tools on ISIS 7000 and Avid Unity MediaNetwork.
+
+Co-Editing with Avid Audio and Video Editing Applications
+43
+Co-Editing with Avid Audio and Video Editing 
+Applications
+n Avid Pro Tools and Media Composer can be installed on the same computer. Refer to the 
+Co-Install Notes on the Avid Knowledge Base.
+•
+“Avid Media Composer Support for Pro Tools” on page 43
+•
+“Avid Pro Tools Support for Media Composer” on page 44
+Avid Media Composer Support for Pro Tools
+The Avid Media Composer family of video editing applications provides the following features 
+to support interoperability with the Avid Pro Tools audio editing application.
+Editing
+NEW
+•
+Elastic Audio processing support in Pro Tools.
+NEW
+•
+In Pro Tools, new disk cache settings let you load audio 
+files into RAM for cached playback.
+Feature
+Refer to
+Feature
+Refer to
+NEW
+Common Nomenclature
+To ease the workflows between the Avid audio and video 
+editing applications, nomenclature changes have been made 
+to certain tools and options in the Media Composer and Pro 
+Tools applications.
+“Unified Nomenclature for 
+Audio and Video Editing” 
+on page 22.
+Basic Audio Assembly
+Perform basic mixing using controls like Clip Gain, Volume 
+Automation (“rubber banding”), Clip Pan, Pan Automation, 
+Avid EQ, and AudioSuite Plug-ins. These can all be 
+transferred to Pro Tools for further sweetening.
+Working with Audio 
+- Media Composer Help
+Add markers to Media Composer tracks to indicate where 
+the sound effects need to be added. Giving all the sound 
+markers the same color makes them easy to filter for import 
+in Pro Tools.
+Suggested Uses for 
+Markers  
+- Media Composer Help
+
+Co-Editing with Avid Audio and Video Editing Applications
+44
+Sound Effects
+Avid Pro Tools Support for Media Composer
+The Avid Pro Tools audio editing application provides the following features to support 
+interoperability with the Avid Media Composer family of video editing applications.
+Editing & Playback
+Feature
+Refer to
+Audio Plug-ins
+A core collection of audio plug-ins are installed with your 
+Avid editing application. Avid also supports other 3rd-party 
+RTAS and AudioSuite plug-ins.
+If you are exchanging sequences/sessions where third-party 
+effects have been applied, make sure that the receiving 
+application also has these 3rd-party plug-ins installed.
+Using Audio Plug-ins 
+- Media Composer Help
+Feature
+Refer to
+Video Playback 
+Pro Tools can import and play back QuickTime HD 720p and 
+1080i at all standard frame rates.
+Alternatively, use Avid video I/O peripherals such as Mojo 
+SDI to capture or playback SD video in the Pro Tools 
+timeline. 
+Pro Tools System 
+Configurations 
+- Avid Audio and Video 
+Editing Workflow Guide
+Basic Audio Assembly
+Using Avid video peripherals, there are many video 
+functions available to you in Pro Tools:
+Working with Video in 
+Pro Tools 
+- Pro Tools Reference 
+Guide
+•
+Locate markers that were imported with Media 
+Composer tracks to indicate where the sound effects need 
+to be added.
+Import Options when 
+Importing OMF or AAF 
+Sequences 
+- Pro Tools Reference 
+Guide
+
+Transferring Projects and Media between Audio and Video Editing Applications
+45
+Sound Effects
+Transferring Projects and Media between Audio and 
+Video Editing Applications
+•
+“Media Import/Export” on page 46
+•
+“AAF Support” on page 47
+•
+“OMF Support” on page 49
+NEW
+•
+Trim AudioSuite effects with the clip handles.
+Working with Video in 
+Pro Tools 
+- Pro Tools Reference 
+Guide
+•
+Make use of the various timecode and synchronization 
+features for working with audio, film, video, or digital 
+video.
+Time Code and 
+Synchronization Features  
+- Pro Tools Reference 
+Guide
+•
+Keep the picture and audio editing in sync by using a 
+guide audio track between Media Composer and Pro 
+Tools.
+Example Workflow: 
+Working with a Guide 
+Track 
+- Pro Tools Reference 
+Guide
+Feature
+Refer to
+Feature
+Refer to
+NEW
+Imported clip-based gain data can be edited alongside (and 
+used in leiu of) the normal volume automation used in 
+Pro Tools. Dynamic clip gain, or clip gain exceeding +12 dB 
+is rendered on export to Media Composer.
+Pro Tools Reference Guide
+
+Transferring Projects and Media between Audio and Video Editing Applications
+46
+Media Import/Export
+Feature
+Further reference
+Exchange of media between Media Composer and 
+Pro Tools
+Media Composer can interchange media as follows:
+•
+Media Composer can export AAF/OMF sequences with 
+both video and audio tracks (containing embedded or 
+linked audio media) for import by Pro Tools. Video 
+media can also be linked.
+•
+Media Composer can export MXF audio and video files.
+•
+Media Composer can import MXF, WAV, or AIFF audio 
+files exported by Pro Tools, into an Avid bin. 
+Guidelines for Exporting 
+OMFI and AAF Files 
+- Media Composer Help 
+Importing Media Files 
+- Media Composer Help
+Pro Tools can interchange media as follows:
+•
+Bounce to Disk and import the files into Media 
+Composer
+•
+Export audio tracks with media to an AAF/OMF 
+sequence . 
+•
+Export MXF, WAV, or AIFF audio files.
+Importing and Exporting 
+Session Data 
+- Pro Tools Reference 
+Guide
+
+Transferring Projects and Media between Audio and Video Editing Applications
+47
+AAF Support
+Export Media to Pro Tools 
+The following options are available when exporting media to 
+Pro Tools:
+•
+Create Export templates which transcode, copy, 
+consolidate media.
+•
+Transcode media from Media Composer to various video 
+formats during export.
+•
+Copy or consolidate media from Media Composer to any 
+directory on shared or portable storage.
+Each time the sequence is updated and exported again to 
+the same directory, only new media files are exported, 
+making updates much faster.
+•
+Mixdown layers of video media and effects to a single 
+MXF file that can be played by Pro Tools systems that 
+have a video peripheral attached.
+Along with the media, export an AAF file of all the video 
+metadata that includes the complex edit information (for 
+example video clip names and scene markers) that can be 
+displayed in Pro Tools.
+•
+Export high-definition QuickTime movies from Media 
+Composer that are lightweight but retain good viewing 
+quality for playback in Pro Tools.
+Guidelines for Exporting 
+OMFI and AAF Files 
+- Media Composer Help
+Feature
+Further reference
+Feature
+Refer to
+Media Composer support for AAF Sequences
+Import and export AAF sequences with:
+Importing Media Files 
+- Media Composer Help
+•
+Linked and embedded audio files (MXF, WAV, or AIFF) 
+and/or linked video files (MXF or OMF). The exported 
+audio and media files must be placed on a storage where 
+the video editing application can access them.
+•
+Mono and stereo audio tracks. 
+NEW
+•
+Surround sound (5.1 and 7.1) audio tracks (with 
+rendered/unrendered audio effects). 
+
+Transferring Projects and Media between Audio and Video Editing Applications
+48
+NEW
+•
+Volume automation (up to +12 dB) via AAF.
+Pro Tools support for AAF Sequences
+Import and export AAF sequences with:
+•
+Linked and embedded audio files (MXF, WAV, or AIFF) 
+and/or linked video files (MXF or OMF). The exported 
+audio and media files must be placed on a storage where 
+Pro Tools can access them.
+•
+Mono and stereo audio tracks.
+Pro Tools Reference Guide
+NEW
+•
+Multichannel (stereo, 5.1, or 7.1) audio tracks. These can 
+also be exported as split mono audio files.
+Pro Tools Reference Guide
+NEW
+•
+Clip gain settings and automation (+12 dB).
+Media Composer does not support dynamic clip gain, or 
+clip gain exceeding +12 dB, therefore, these are rendered 
+on export. 
+Pro Tools Reference Guide
+Import volume automation.
+Pro Tools Reference Guide
+NEW
+Pro Tools now uses real-time fades, rather than rendered 
+fades. On AAF export, all fades will be rendered for 
+compatibility with Media Composer and other 3rd-party 
+applications.
+Pro Tools Reference Guide
+Import markers that were added on Media Composer tracks 
+to indicate where the sound effects need to be added. (These 
+sound markers can be filtered by color during import, and are 
+translated as "Memory Markers" in Pro Tools.)
+Import Options when 
+Importing OMF or AAF 
+Sequences 
+- Pro Tools Reference 
+Guide
+Import rendered audio effects from Media Composer.
+Pro Tools Reference Guide
+NEW
+Automatically set the start time of the current Pro Tools 
+session to match the start time of the AAF sequence that you 
+are importing.
+Importing and Exporting 
+Session Data 
+- Pro Tools Reference 
+Guide
+For high definition sequences, Pro Tools can import the 
+audio tracks, and the Avid video track will appear as offline. 
+(Pro Tools supports Avid HD video playback with Video 
+Satellite using a linked Media Composer system.)
+Video Satellite Guide
+Feature
+Refer to
+
+Transferring Projects and Media between Audio and Video Editing Applications
+49
+OMF Support
+Feature
+Refer to
+Exchange OMF Files between Media Composer and 
+Pro Tools
+•
+Media Composer can export OMF sequences with both 
+video and audio tracks (containing embedded or linked 
+audio media) for import by Pro Tools. Video media can 
+also be linked.
+Guidelines for Exporting 
+OMFI and AAF Files 
+- Media Composer Help 
+ 
+Interop guide
+•
+Pro Tools can export audio tracks to an OMF sequence 
+for import by Media Composer. 
+Media Composer support for OMF Sequences
+Media Composer supports the following actions when 
+working with OMF media and sequences:
+•
+Import and export of OMF sequences with embedded 
+OMF video files and WAV or AIFF audio files.
+•
+Import and export of OMF sequences that refer to linked 
+OMF video files and WAV or AIFF audio files.
+•
+OMF files only support mono audio tracks.
+Import Settings: 
+OMFI/AAF Tab 
+- Media Composer Help
+Pro Tools support for OMF Sequences
+The following actions are supported when working with 
+OMF media and sequences:
+•
+Export of OMF sequences with WAV or AIFF audio 
+files.
+•
+Import and export of OMF sequences that refer to linked 
+OMF video files and WAV or AIFF audio files.
+•
+OMF files only support mono audio tracks.
+Importing and Exporting 
+Session Data 
+- Pro Tools Reference 
+Guide
+NEW
+•
+Automatically set the start time of the current Pro Tools 
+session to match the start time of the OMF sequence that 
+you are importing.
+Importing and Exporting 
+Session Data 
+- Pro Tools Reference 
+Guide
+NEW
+•
+Export of real-time fades (rendered on export).
+
+

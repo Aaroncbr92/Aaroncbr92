@@ -1,0 +1,1386 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendation  ITU-R  BT.709-6 
+(06/2015) 
+ 
+Parameter values for the HDTV standards 
+for production and international 
+programme exchange 
+ 
+ 
+ 
+ 
+BT Series 
+Broadcasting service 
+(television) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  ITU-R  BT.709-6 
+Foreword 
+The role of the Radiocommunication Sector is to ensure the rational, equitable, efficient and economical use of the 
+radio-frequency spectrum by all radiocommunication services, including satellite services, and carry out studies without 
+limit of frequency range on the basis of which Recommendations are adopted. 
+The regulatory and policy functions of the Radiocommunication Sector are performed by World and Regional 
+Radiocommunication Conferences and Radiocommunication Assemblies supported by Study Groups. 
+Policy on Intellectual Property Right (IPR) 
+ITU-R policy on IPR is described in the Common Patent Policy for ITU-T/ITU-R/ISO/IEC referenced in Annex 1 of 
+Resolution ITU-R 1. Forms to be used for the submission of patent statements and licensing declarations by patent 
+holders are available from http://www.itu.int/ITU-R/go/patents/en where the Guidelines for Implementation of the 
+Common Patent Policy for ITU-T/ITU-R/ISO/IEC and the ITU-R patent information database can also be found.  
+ 
+ 
+Series of ITU-R Recommendations  
+(Also available online at http://www.itu.int/publ/R-REC/en) 
+Series 
+Title 
+BO 
+Satellite delivery 
+BR 
+Recording for production, archival and play-out; film for television 
+BS 
+Broadcasting service (sound) 
+BT 
+Broadcasting service (television) 
+F 
+Fixed service 
+M 
+Mobile, radiodetermination, amateur and related satellite services 
+P 
+Radiowave propagation 
+RA 
+Radio astronomy 
+RS 
+Remote sensing systems 
+S 
+Fixed-satellite service 
+SA 
+Space applications and meteorology 
+SF 
+Frequency sharing and coordination between fixed-satellite and fixed service systems 
+SM 
+Spectrum management 
+SNG 
+Satellite news gathering 
+TF 
+Time signals and frequency standards emissions 
+V 
+Vocabulary and related subjects 
+ 
+ 
+Note: This ITU-R Recommendation was approved in English under the procedure detailed in Resolution ITU-R 1. 
+ 
+ 
+Electronic Publication 
+Geneva, 2015 
+ 
+ ITU 2015 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without written permission of ITU. 
+
+ 
+Rec.  ITU-R  BT.709-6 
+1 
+RECOMMENDATION  ITU-R  BT.709-6 
+Parameter values for the HDTV1 standards for production 
+and international programme exchange 
+(Question ITU-R 27/11) 
+(1990-1994-1995-1998-2000-2002-2015) 
+Scope 
+This Recommendation defines the image format parameters and values for HDTV2. 
+Keywords 
+HDTV (high definition television), Image format, EOTF (electro optical transfer function), OETF 
+(optical electrical transfer function), PsF (progressive segmented frame) 
+The ITU Radiocommunication Assembly, 
+considering 
+a) 
+that for many years HDTV programmes have been produced worldwide; 
+b) 
+that parameter values for HDTV production standards should have maximum commonality; 
+c) 
+that the parameters defined for all these systems meet the quality goals set for HDTV; 
+d) 
+that film productions are an important programme source for HDTV broadcasting and, 
+conversely, the use of HDTV production systems has significant benefits for film programme 
+production; 
+e) 
+that high-quality conversion between the various HDTV systems, as well as 
+down-conversion to 525/625 television systems, has been successfully implemented; 
+f) 
+that programmes produced and archived will have a long shelf life, 
+recommends 
+that for HDTV programme production and international exchange, one of the systems described in 
+this Recommendation, should be used.  
+ 
+ 
+                                                 
+1  “A high-definition system is a system designed to allow viewing at about three times the picture height, 
+such that the system is virtually, or nearly, transparent to the quality of portrayal that would have been 
+perceived in the original scene or performance by a discerning viewer with normal visual acuity”. Report 
+ITU-R BT.801. 
+2  Previous versions of this Recommendation that may contain historic information can be found on the ITU 
+website. 
+
+2 
+Rec.  ITU-R  BT.709-6 
+HDTV system with square pixel common image format 
+Introduction 
+The common image format (CIF) is defined to have common picture parameter values independent 
+of the picture rate. The following picture rates are specified: 60 Hz, 50 Hz, 30 Hz, 25 Hz and 24 Hz. 
+For the 60, 30 and 24 Hz systems, picture rates having those values divided by 1.001 are also 
+specified.  
+Pictures are defined for progressive (P) capture and interlace (I) capture. Progressive captured 
+pictures can be transported with progressive (P) transport or progressive segmented frame (PsF) 
+transport. Interlace captured pictures can be transported with interlace (I) transport. Refer to 
+Attachment 2 for a description of segmented frame transport. 
+This results in the following combinations of picture rates and transports: 
+ 
+System 
+Capture 
+(Hz) 
+Transport 
+60/P 
+60 or 60/1.001 progressive 
+Progressive 
+30/P 
+30 or 30/1.001 progressive 
+Progressive 
+30/PsF 
+30 or 30/1.001 progressive 
+Segmented frame 
+60/I 
+30 or 30/1.001 interlace 
+Interlace 
+50/P 
+50 progressive 
+Progressive 
+25/P 
+25 progressive 
+Progressive 
+25/PsF 
+25 progressive 
+Segmented frame 
+50/I 
+25 interlace 
+Interlace 
+24/P 
+24 or 24/1.001 progressive 
+Progressive 
+24/PsF 
+24 or 24/1.001 progressive 
+Segmented frame 
+ 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+3 
+1 
+Opto-electronic conversion 
+ 
+Item 
+Parameter 
+System Values 
+1.1 
+Opto-electronic transfer 
+characteristics before  
+non-linear pre-correction 
+Assumed linear 
+1.2 
+Overall opto-electronic transfer 
+characteristics at source(1) 
+ 
+V  1.099 L0.45 – 0.099 
+for 
+1  L  0.018 
+ 
+V  4.500 L 
+for 
+0.018 > L  0 
+ 
+where: 
+ 
+L :  luminance of the image  0  L  1 
+ 
+V :  corresponding electrical signal 
+1.3 
+Chromaticity coordinates 
+(CIE, 1931) 
+x 
+y 
+Primary 
+– Red (R) 
+– Green (G) 
+– Blue (B) 
+ 
+0.640 
+0.300 
+0.150 
+ 
+0.330 
+0.600 
+0.060 
+1.4 
+Assumed chromaticity for 
+equal primary signals 
+(Reference white) 
+D65 
+ 
+x 
+y 
+ER  EG  EB 
+0.3127 
+0.3290 
+(1) 
+In typical production practice the encoding function of image sources is adjusted so that the final picture has the 
+desired look, as viewed on a reference monitor having the reference decoding function of Recommendation 
+ITU-R BT.1886, in the reference viewing environment defined in Recommendation ITU-R BT.2035. 
+ 
+2 
+Picture characteristics 
+ 
+Item 
+Parameter 
+System Values 
+2.1 
+Aspect ratio 
+16:9 
+2.2 
+Samples per active line 
+1 920 
+2.3 
+Sampling lattice 
+Orthogonal 
+2.4 
+Active lines per picture 
+1 080 
+2.5 
+Pixel aspect ratio 
+1:1 (square pixels) 
+ 
+ 
+ 
+
+4 
+Rec.  ITU-R  BT.709-6 
+3 
+Signal format 
+ 
+Item 
+Parameter 
+System Values
+3.1 
+Conceptual non-linear pre-correction 
+of primary signals 
+  0.45 
+(see item 1.2) 
+3.2 
+Derivation of luminance signal 
+Y
+E 
+Y
+E  0.2126
+R
+E  0.7152
+G
+E  0.0722
+B
+E 
+3.3 
+Derivation of colour-difference 
+signal (analogue coding) 
+8556
+.1
+E
+E
+E
+Y
+B
+CB
+
+
+
+
+
+ 
+8556
+.1
+E
+9278
+.0
+E
+7152
+.0
+E
+2126
+.0
+B
+G
+R
+
+
+
+
+
+
+
+ 
+5748
+.1
+E
+E
+E
+Y
+R
+CR
+
+
+
+
+
+ 
+5748
+.1
+E
+0722
+.0
+E
+7152
+.0
+E
+7874
+.0
+B
+G
+R
+
+
+
+
+
+
+ 
+3.4 
+Quantization of RGB, luminance and 
+colour-difference signals(1), (2) 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+R
+R
+E
+D
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+G
+G
+E
+D
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+B
+B
+E
+D
+ 
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+Y
+Y
+E
+D
+ 
+
+
+
+
+8
+2
+128
+224
+INT
+
+
+
+
+
+
+n
+CB
+CB
+E
+D
+ 
+
+
+
+
+8
+2
+128
+224
+INT
+
+
+
+
+
+
+n
+CR
+CR
+E
+D
+ 
+3.5 
+Derivation of luminance and colourdifference signals via quantized RGB 
+signals 
+
+
+B
+G
+R
+Y
+D
+D
+D
+D
+
+
+
+
+
+
+
+0722
+.0
+7152
+.0
+2126
+.0
+INT
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+219
+224
+8556
+.1
+9278
+.0
+8556
+.1
+7152
+.0
+8556
+.1
+2126
+.0
+ 
+INT
+n
+B
+G
+R
+CB
+D
+D
+D
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+219
+224
+5748
+.1
+0722
+.0
+5748
+.1
+7152
+.0
+5748
+.1
+7874
+.0
+INT
+n
+G
+R
+CR
+B
+D
+D
+D
+D
+ 
+(1) 
+“n” denotes the number of the bit length of the quantized signal. 
+(2) 
+The operator INT returns the value of 0 for fractional parts in the range of 0 to 0.4999... and +1 for fractional parts 
+in the range of 0.5 to 0.9999..., i.e. it rounds up fractions above 0.5. 
+ 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+5 
+4 
+Digital representation 
+ 
+Item 
+Parameter 
+System Values 
+4.1 
+Coded signal 
+R, G, B or Y, CB, CR 
+4.2 
+Sampling lattice 
+– R, G, B, Y 
+Orthogonal, line and picture repetitive 
+4.3 
+Sampling lattice 
+– CB, CR 
+Orthogonal, line and picture repetitive co-sited with each other 
+and with alternate(1) Y samples 
+4.4 
+Number of active samples per line 
+– R, G, B, Y 
+– CB, CR 
+ 
+1 920 
+960 
+4.5 
+Coding format 
+Linear 8 or 10 bits/component 
+4.6 
+Quantization levels 
+8-bit coding 
+10-bit coding 
+– Black level 
+R, G, B, Y 
+– Achromatic 
+CB, CR 
+– Nominal peak 
+ 
+– R, G, B, Y 
+ 
+– CB, CR 
+ 
+16 
+ 
+128 
+ 
+235 
+16 and 240 
+ 
+64 
+ 
+512 
+ 
+940 
+64 and 960 
+4.7 
+Quantization level assignment 
+8-bit coding 
+10-bit coding 
+– Video data 
+– Timing reference 
+1 through 254 
+0 and 255 
+4 through 1 019 
+0-3 and 1 020-1 023 
+4.8 
+Filter characteristics(2) 
+– R, G, B, Y 
+– CB, CR 
+ 
+See Attachment 1 
+(1) 
+The first active colour-difference samples being co-sited with the first active luminance sample. 
+(2) 
+These filter templates are defined as guidelines. 
+ 
+
+6 
+Rec.  ITU-R  BT.709-6 
+5 
+Picture scanning characteristics 
+ 
+Item 
+Parameter 
+System Values 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+5.1 
+Order of sample presentation  
+in a scanned system 
+Left to right, top to bottom 
+For interlace and segmented frame systems, 1st active line of field 1 at top of picture 
+5.2 
+Total number of lines 
+1 125 
+5.3 
+Field/frame/segment frequency   (Hz) 
+60,  
+60/1.001 
+30,  
+30/1.001 
+60, 60/1.001 
+50 
+25 
+50 
+24, 
+24/1.001 
+48, 
+48/1.001 
+5.4 
+Interlace ratio 
+1:1 
+2:1 
+1:1 
+2:1 
+1:1 
+5.5 
+Picture rate   (Hz) 
+60, 60/1.001 
+30, 30/1.001 
+50 
+25 
+24, 24/1.001 
+5.6 
+Samples per full line 
+– R, G, B, Y 
+– CB, CR 
+ 
+2 200 
+1 100 
+ 
+2 640 
+1 320 
+ 
+2 750 
+1 375 
+5.7 
+Nominal analogue signal 
+bandwidths(1) (MHz) 
+60 
+30 
+60 
+30 
+5.8 
+Sampling frequency 
+– R, G, B, Y (MHz) 
+148.5, 
+148.5/1.001 
+74.25, 74.25/1.001 
+148.5 
+74.25 
+74.25, 74.25/1.001 
+5.9 
+Sampling frequency(2) 
+– CB, CR (MHz) 
+74.25, 
+74.25/1.001 
+37.125, 37.125/1.001 
+74.25 
+37.125 
+37.125, 37.125/1.001 
+(1) 
+Bandwidth is for all components. 
+(2) 
+CB, CR sampling frequency is half of luminance sampling frequency. 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+7 
+6 
+Analogue tri level sync signal 
+The tri level sync signal may be used as a reference signal for synchronization of devices operating 
+on this Recommendation. 
+ 
+Item 
+Parameter 
+System Values 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+6.1 
+Nominal level   (mV) 
+Y
+B
+G
+R
+E
+E
+E
+E
+
+
+
+
+,
+,
+,
+ 
+Reference black: 0 
+Reference white: 700 
+(see Fig. 2B) 
+6.2 
+Nominal level   (mV) 
+R
+B
+C
+C
+E
+E
+
+,
+ 
+350 
+(see Fig. 2B) 
+6.3 
+Form of synchronizing 
+signal 
+Tri-level bipolar 
+(see Fig. 2A) 
+6.4 
+Line sync timing 
+reference 
+OH 
+(see Fig. 2A) 
+6.5 
+Sync level   (mV) 
+300  2% 
+6.6 
+Sync signal timing 
+Sync on all components 
+(see Table 1, Figs 1 and 2) 
+6.7 
+Blanking interval 
+(see Table 1, Figs 1 and 2) 
+ 
+
+8 
+Rec.  ITU-R  BT.709-6 
+TABLE 1 
+Level and line timing specification 
+(See Figs 1 and 2) 
+Symbol 
+Parameter 
+System Values 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+T 
+Reference clock interval   (s) 
+1/148.5, 
+1.001/148.5 
+1/74.25, 1.001/74.25 
+1/148.5 
+1/74.25 
+1/74.25, 1.001/74.25 
+a 
+Negative line sync width(1)   (T) 
+44  3 
+b 
+End of active video(2)   (T) 
+88 + 6 
+– 0 
+528 + 6 
+– 0 
+638 + 6 
+– 0 
+c 
+Positive line sync width   (T) 
+44  3 
+d 
+Clamp period   (T) 
+132  3 
+e 
+Start of active video   (T) 
+192 + 6 
+– 0 
+f 
+Rise/fall time   (T) 
+4  1.5 
+– 
+Active line interval   (T) 
+1 920 + 0 
+– 12 
+Sm 
+Amplitude of negative pulse   (mV) 
+300  6 
+Sp 
+Amplitude of positive pulse   (mV) 
+300  6 
+V 
+Amplitude of video signal   (mV) 
+700 
+H 
+Total line interval   (T) 
+2 200 
+2 640 
+2 750 
+g 
+Half line interval   (T) 
+1 100 
+1 320 
+1 375 
+h 
+Vertical sync width   (T) 
+1 980  3 
+880  3 
+1 980  3 
+880  3 
+1 980  3 
+880  3 
+k 
+End of vertical sync pulse   (T) 
+88  3 
+528  3 
+308  3 
+638  3 
+363  3 
+(1) 
+“T ” denotes the duration of a reference clock or the reciprocal of the clock frequency. 
+(2) 
+A “line” starts at line sync timing reference OH (inclusive), and ends just before the subsequent OH (exclusive). 
+
+ 
+Rec.  ITU-R  BT.709-6 
+9 
+FIGURE 1A 
+Field/frame/segment synchronizing signal waveform 
+OV
+BT.
+0
+0709- 1A
+No. 1121
+No. 1125
+No. 1
+No. 2
+No. 3
+No. 4
+No. 5
+No. 6
+No. 7
+No. 42
+No. 1123
+No. 1124 No. 1125
+No. 1
+No. 2
+No. 3
+No. 4
+No. 5
+No. 6
+No. 7
+No. 21
+No. 563
+No. 560
+No. 561
+No. 562
+No. 564
+No. 565
+No. 566
+No. 567
+No. 568
+No. 569
+No. 584
+First field/segment
+First field/segment
+First field/segment sync timing reference
+Progressive
+Progressive
+first segment
+Progressive
+second segment
+Interlace
+first field
+Interlace
+second field
+5 H
+1/2 H
+1/2 H
+23 H
+5 H
+5 H
+22 H
+45 H
+ 
+
+10 
+Rec.  ITU-R  BT.709-6 
+FIGURE 1B 
+Detail of field/frame/segment synchronizing signal waveform 
+BT.
+0
+0709- 1B
+Interlace
+field
+1 line
+Progressive
+segment
+Progressive
+1 line
+f
+f
+h
+d
+OH
+OH
+k
+a
+c
+d
+k
+f
+f
+f
+f
+f
+f
+f
+h
+d
+g
+h
+OH
+OH
+k
+ 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+11 
+FIGURE 2A 
+Line synchronizing signal waveform 
+BT.
+02
+0709A
+(The waveform exhibits symmetry with respect to point T )
+r
+f
+f
+f
+V/2
+Sm
+Sm/2
+Sp
+V/2
+b
+a
+c
+d
+e
+OH
+90%
+10%
+f
+Sp/2
+Tr
+ 
+ 
+ 
+
+12 
+Rec.  ITU-R  BT.709-6 
+FIGURE 2B 
+Sync level on component signals 
+BT.
+2
+0709-0 B
+Blanking interval
++700
++300
+0
+–300
++350
++300
+0
+–300
+–350
+OH
+mV
+ECB
+, ECR
+ER, EG, EB, EY
+ 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+13 
+Attachment 1  
+(Informative) 
+ 
+Filter templates 
+Figures in this Attachment are suggested filter templates intended to remove alias components. 
+FIGURE A1-1 
+Guideline filter characteristics for R, G, B and Y signals (informative) 
+BT.
+1-01
+0709-A
+Insertion loss (dB)
+a)   Template for insertion loss
+Frequency (times )
+fs
+Insertion loss (dB)
+0.1 dB
+b)   Passband ripple tolerance
+c)   Passband group-delay
+0.05
+– 0.05
+0.15 T
+0.22 T
+Frequency (times )
+fs
+Group delay ( )
+T
+– 0.110
+0.075
+– 0.075
+0.27
+0.40
+0.40
+0.40
+0.50
+0.60
+0.73
+1.00
+Frequency (times )
+fs
+0.110
+50 dB
+40 dB
+12 dB
+50
+40
+30
+20
+10
+0
+0
+0
+0
+0
+0
+ 
+Note 1 – ƒs denotes luminance sampling frequency, the value of which is given in item 5.7. 
+Note 2 – Ripple and group delay are specified relative to the value at 100 kHz. 
+
+14 
+Rec.  ITU-R  BT.709-6 
+FIGURE A1-2 
+Guideline filter characteristics for CB and CR signals (informative) 
+BT.
+A1-02
+0709Insertion loss (dB)
+a)   Template for insertion loss
+Frequency (times )
+fs
+Insertion loss (dB)
+0.1 dB
+b)   Passband ripple tolerance
+c)   Passband group-delay
+0.05
+– 0.05
+0.15 T
+0.22 T
+Frequency (times )
+fs
+Group delay ( )
+T
+– 0.110
+0.075
+– 0.075
+0.14
+0.20
+0.20
+0.20
+0.25
+0.30
+0.37
+0.50
+Frequency (times )
+fs
+0.110
+50 dB
+40 dB
+6 dB
+50
+40
+30
+20
+10
+0
+0
+0
+0
+0
+0
+ 
+ 
+Note 1 – ƒs denotes luminance sampling frequency, the value of which is given in item 5.8. 
+Note 2 – Ripple and group delay are specified relative to the value at 100 kHz. 
+ 
+ 
+
+ 
+Rec.  ITU-R  BT.709-6 
+15 
+Attachment 2  
+(Informative)  
+ 
+Segmented frame (See Note 1) 
+ 
+NOTE 1 – The term segmented frame in the context of this Recommendation is intended to indicate that a 
+picture has been captured in a progressive mode, and transported as two segments. One segment containing 
+the odd lines of the progressive image, the second segment containing the even lines of the progressive 
+image. 
+1 
+Background 
+The television systems in current use have typically used interlace capture (acquisition) and 
+transmission. The frame/field rates of these systems have been 50/60 Hz, a rate that when presented 
+on cathode ray tube (CRT) display devices did not require any associated picture flicker correction. 
+Current Television systems support both interlace and progressive capture and display technology 
+with wide deployment of flat panel displays capable of displaying images from 24 Hz to 60 Hz 
+without any flicker. 
+Specifically, the PsF technology is intended to be implemented only when frames rates of 30 Hz 
+and lower are being used and displayed on CRTs. PsF is an interface technology not an image 
+capture or processing technology. 
+2 
+24-frame/s production 
+Using the CIF of 1 920  1 080, film material may be transferred using progressive capture. 
+This transfer will provide the highest resolution capture, with no 3:2 pull-down artefacts, moreover 
+both 30 Hz frame rate and 25 Hz frame rate versions may be created from a single master with no 
+quality loss. 
+The 30 Hz frame rate copy may be created by playing the 24-frame/s original and inserting the 
+3:2 pull-down during the replay process. This process also has the advantage of maintaining the 
+3:2 pull-down sequence during the replay process such that any downstream picture processing, 
+such as an MPEG encoder, will not be affected by any 3:2 discontinuities. 
+The 25 Hz frame rate copy may be created by simply playing back the 24 Hz film rate original at 
+the slightly faster 25 Hz rate; there is no picture quality loss. 
+In addition to simply transferring film originated material it is expected that electronic capture of 
+images will occur at a 24-frame/s rate; this will provide the production community with yet another 
+tool for seamless integration of images from various sources. 
+3 
+Progressive/interlace compatibility 
+The post production world has a need to cater for both progressive and interlace television signal 
+formats for the foreseeable future. Therefore any new signal format such as 24 P, the original film 
+frame rate, will need to coexist with interlace formats of 25 Hz and 30 Hz systems. One of the 
+constraints in monitoring the 24-frame/s systems is the picture flicker that is present when 
+displaying a 24-frame/s signal on a CRT display. Interlace systems minimize this flicker by 
+refreshing the CRT phosphors every 60 th/50 th of a second. There are at least two solutions to the 
+flicker created by the 24-frame/s systems, install a frame store in every monitor, or provide to the 
+monitor a signal that emulates the interlace refresh rate. 
+
+16 
+Rec.  ITU-R  BT.709-6 
+24PsF/25PsF/30PsF are interface formats that will provide monitoring devices with signal refresh 
+rates that will permit direct monitoring of the original frame rate of the material. 
+It should be noted that in some cases users may want to monitor 24-frame/30-frame material at 
+other than the original frame rates. 
+The use of 24PsF/25PsF/30PsF does not in any way limit the monitoring of the signal by the newer 
+flat panel displays. 
+A second potential use of the 24PsF/25PsF/30PsF transmission format is in the area of digital post 
+production switchers. A common switcher design handling both interlace and progressive signals is 
+economically possible, and addresses the requirements of end users who have a requirement to 
+work in interlace and progressive formats with common equipment. The digital interface of an 
+interlace signal and a PsF signal are common, only the signal content is different. 
+4 
+Signal mapping 
+The 24PsF/25PsF/30PsF transmission format maps a progressive image onto the interlace digital 
+serial interface as defined in this Recommendation (see Fig. A2-1). 
+Line numbering convention for the image capture and image transmission is contained in the 
+introduction (see also Fig. A2-1). 
+The same line numbers of an interlace picture are used by the PsF to carry the segmented frame 
+format. 
+The sF format is not related to any interlace format characteristics. It is a way to convey a 
+progressive image that has been captured at a 24/25/30 Hz rate. Capture at these low frequencies 
+may require special monitoring considerations. The sF transmission format is intended to provide an 
+economical solution while still retaining the compatibility with interlace systems. 
+In cases where a progressive captured image is transported as a segmented frame, or a segmented 
+frame signal is processed in a progressive format, the following rules shall be observed 
+(see Fig. A2-1): 
+– 
+line numbering from the top of the captured frame to the bottom of the captured frame shall 
+be sequential; 
+– 
+active line 1 and active line 1 080 of the progressive captured image shall be mapped onto 
+total line 42 and total line 1 121, respectively, of the 1 125 total lines; 
+– 
+odd active lines of the progressive captured image (1, 3, ..., 1 079) shall be mapped onto 
+total lines 21 through 560 of the segmented frame interface; 
+– 
+even active lines of the progressive captured image (2, 4, ..., 1 080) shall be mapped onto 
+total lines 584 through 1 123 of the segmented frame interface. 
+With these rules, segmented frame transport has the same line numbering as that of interlace 
+transport. 
+
+ 
+Rec.  ITU-R  BT.709-6 
+17 
+FIGURE A2-1 
+Mapping of progressive images into progressive and segmented frame transport interfaces 
+BT.
+2-01
+0709-A
+Progressive capture
+Digital interface
+Progressive
+Active line 1 mapped to total line 42
+Active line 1080 mapped to total line 112
+Segmented frame
+Active line 1, 3.... 1079 mapped to
+total line 21, 22.... 560
+Active line 2, 4.... 1080 mapped to
+total line 584, 585.... 1123
+Progressive picture/image
+information
+24/25/30P frames/s
+1920 1080 CIF
+
+ 
+______________ 

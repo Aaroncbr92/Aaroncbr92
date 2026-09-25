@@ -1,0 +1,1415 @@
+
+ Sequence presets and settings
+ Premiere 
+ Open app 
+ Desktop 
+ Desktop 
+ Mobile 
+ Close Menu 
+ Desktop 
+ Desktop 
+ Mobile 
+ Adobe Help Center 
+ Premiere Desktop Help 
+ What's new 
+ What’s new in Adobe Premiere Pro 
+ Adobe Premiere desktop release notes 
+ What’s new in Premiere Pro (beta) desktop 
+ Get started 
+ Technical requirements 
+ Adobe Premiere technical requirements 
+ GPU and GPU Driver requirements 
+ Storage recommendations 
+ Processor, memory, and GPU recommendations 
+ Hardware-accelerated decoding and encoding 
+ Enable hardware accelerated decoding support 
+ Supported codecs and drivers for hardware-accelerated decoding 
+ Enable Hardware Encoding in Premiere Pro 
+ Install macOS updates for Apple Metal GPU Acceleration 
+ Adobe Premiere Pro 24.x technical requirements 
+ Enable Mercury Playback Engine (GPU accelerated) renderer 
+ Download and install 
+ Best practices for updating Premiere Pro 
+ Creative Cloud Apps available for download 
+ Check if your system is compatible with Premiere Pro 
+ Mercury Playback Engine (GPU Accelerated) in Premiere Pro 
+ Preferences and settings 
+ Preferences overview 
+ General preferences 
+ Set Appearance preferences 
+ AI Models preferences 
+ Audio preferences 
+ Audio Hardware preferences 
+ Auto Save preferences 
+ Collaboration preferences 
+ Color preferences 
+ Control Surface preferences 
+ Graphics preferences 
+ Labels preferences 
+ Media preferences 
+ Media Analysis & Transcription preferences 
+ Memory preferences 
+ Playback preferences 
+ Timeline preferences 
+ Trim preferences 
+ Display Premiere Pro interface on a second monitor 
+ Display video on a second monitor 
+ Best practices for film and TV productions 
+ Set up accessibility features 
+ Accessibility overview 
+ Accessibility Support for Screen Readers and Magnifiers 
+ Navigate Premiere Pro using the keyboard 
+ Keyboard shortcuts 
+ About keyboard shortcuts 
+ Default keyboard shortcuts 
+ Customize keyboard shortcuts 
+ Copy keyboard shortcuts from one computer to another 
+ Assign multiple keyboard shortcuts to a command 
+ Find keyboard shortcuts 
+ Remove keyboard shortcuts 
+ Print keyboard shortcuts 
+ Set up Directx HDR for Windows 
+ Supported operating systems, GPUs, and displays for Directx HDR support 
+ Supported and unsupported features with Directx HDR in Premiere Pro 
+ Set up your system for Directx HDR 
+ Set up Premiere Pro for Directx HDR 
+ Use touch and gesture controls 
+ Touch and Gesture controls on Windows Devices 
+ Use thumbnail controls in the Project panel 
+ Learn how touch and gesture actions work with buttons 
+ Workflows, workspaces, and panels 
+ Overview of workspaces 
+ Import workspaces 
+ Change, create, and reset workspaces 
+ Manage workspaces 
+ Display panel options and menu 
+ Navigate the panels 
+ Dock, group, or undock panels 
+ Customize panels 
+ Display any panel full-screen 
+ Tools panel in Premiere Pro 
+ Clip details in the Info panel 
+ Adobe Premiere Pro FAQ 
+ Customize the Project panel 
+ Customization options for the Project panel 
+ Customize the Icon View in Project panel 
+ Customize metadata in Freeform View in Project panel 
+ Customize Freeform view in Project panel 
+ Customize List View in Project panel 
+ Align and reset clips to grid in Freeform View in Project panel 
+ Create layouts in Freeform View in Project panel 
+ Customize the position of the Project panel 
+ List View columns 
+ Restore or delete layouts in Freeform View in Project panel 
+ Source and Program Monitor adjustments 
+ Overview of Source Monitor and Program Monitor 
+ Set display quality for Source and Program Monitors 
+ Adjust magnification for Source and Program Monitors 
+ Enable High Quality Playback 
+ Choose a display mode 
+ Gang Source and Program Monitor 
+ Set display options for interlaced footage 
+ Compare edits to clips in the Program Monitor 
+ Open or clear a clip in the Source Monitor 
+ Navigate clips in the Source menu in the Source Monitor 
+ Display controls in the Source and Program Monitors 
+ Time controls in the Source and Program Monitors 
+ View safe zones in the monitors 
+ Change the unit of measurement 
+ Add or remove guides 
+ Snap objects to guides 
+ Nudge clips in Program Monitor 
+ Save, export, and import custom guides 
+ Enable Dropped Frame Indicator 
+ Organize media 
+ Create projects 
+ Overview of projects 
+ Create new projects 
+ Open projects 
+ Copy projects 
+ Consolidate and archive projects 
+ Move projects to another computer 
+ Delete projects 
+ Edit multiple open projects 
+ Save workspace when editing multiple projects simultaneously 
+ Project locking with multiple open projects 
+ Import files 
+ Import still images 
+ Import images as an image sequence 
+ Import Photoshop and Illustrator files 
+ Resize imported images 
+ Import a Premiere Elements project 
+ Record audio 
+ Record a voice-over on an audio track from the Timeline 
+ Record audio using the Audio Track Mixer 
+ Mute input during recording 
+ Supported file formats 
+ Blackmagic RAW support 
+ Import media from Firefly to Premiere on desktop 
+ Organize files 
+ Overview of bins 
+ Add and delete bins 
+ Open and close bins 
+ Manage bins 
+ Change bin behaviors 
+ Sort and view bins 
+ Search for media using AI-powered media intelligence 
+ Locate and link offline files 
+ Relink offline media automatically 
+ Manually locate and relink offline media 
+ Consolidate duplicate folders 
+ Search for audio using media intelligence 
+ Search for similar visuals using media intelligence 
+ Apply labeling 
+ Overview of markers 
+ Add a marker to a clip 
+ Copy and paste sequence markers 
+ Find, move, and delete markers 
+ Set default marker colors 
+ Show or hide markers by color 
+ View and edit marker properties 
+ Share markers with After Effects 
+ Overview of timecode 
+ Enter timecode 
+ View Sequence Timecode 
+ Choose timecode display format 
+ View source timecode in the Program Monitor 
+ Change timecode display format 
+ Timecode display options  
+ Set clip timecode manually 
+ Label colors in sequence tabs 
+ Transfer files 
+ Transfer projects from one computer to another 
+ Transfer assets from file-based media 
+ Copy, transcode, or archive project 
+ Ingest proxy workflow 
+ Ingest and Proxy workflow   
+ Configure ingest settings   
+ Create proxies 
+ Attach proxies to full-resolution media 
+ Reconnect full-resolution media to proxies 
+ Detach proxies 
+ Export proxies 
+ Edit projects 
+ Intro to editing 
+ Add or remove clips 
+ Aspect ratios 
+ Set the aspect ratio of a sequence 
+ Pixel aspect ratio 
+ Frame aspect ratio 
+ Aspect ratio preservation 
+ Correct aspect ratio misinterpretations 
+ Convert a subclip to a Source clip 
+ Add media to the timeline using Source Patching 
+ Work with clips on the timeline using Track Targeting 
+ Create a subclip from the Project panel 
+ Create a subclip from the Timeline 
+ Adjust media start and end times of a subclip 
+ Apply Multi Transitions across audio and video clips 
+ Use built-in Adobe Stock panel 
+ Edit video using Text-based editing 
+ Overview of Text-Based editing 
+ Add clips to the timeline using Text-Based Editing 
+ Transcribe video 
+ Edit transcripts using Text-Based Editing 
+ Detect and delete pauses in transcripts 
+ Transcribe individual source files 
+ Edit speaker names in transcription 
+ Edit sequences using Text-Based Editing 
+ Remove all instances of one speaker in transcript 
+ Multichannel audio support in Text-Based Editing 
+ Trim clips 
+ Trim a clip 
+ Cut clips 
+ Perform ripple edits 
+ Perform rolling edit 
+ Perform slip edits 
+ Perform slide edits 
+ Perform J cuts and L cuts 
+ Change clip speed 
+ Different ways to change clip speed and duration 
+ Change clip speed and duration using the Speed/Duration command 
+ Change clip speed and duration using the Rate Stretch tool 
+ Change clip speed and duration using Time Remapping 
+ Apply Time Interpolation Methods to adjust clip speed 
+ Remove Time Remapping from a clip 
+ Change clip sequence 
+ Create a sequence 
+ Navigation controls in the timeline 
+ Navigate sequences in the timeline 
+ Change sequence settings 
+ Sequence settings reference 
+ Sequence presets and settings 
+ Create a custom sequence preset 
+ Copy and paste clips 
+ Different ways to move clips 
+ Rearrange clips on the timeline 
+ Add tracks 
+ Delete tracks 
+ Rename tracks 
+ Lift and paste frames 
+ Edit track appearance 
+ Sync Lock to prevent changes 
+ Track Lock to prevent changes 
+ Modify clip properties 
+ Change the frame rate of a clip 
+ Interlaced video overview 
+ Change the field order of a clip 
+ Create interlaced or non-interlaced clips 
+ Set up multi-camera sequences for editing 
+ Create a multi-camera source sequence 
+ Create and edit a multi-camera target sequence 
+ Mark clips for synchronization 
+ Manage multi-camera thumbnails in the Project panel 
+ Change the order of cameras in Source and Program Monitors 
+ Compare edits to source clips 
+ Compare edits to clips in the Program Monitor  
+ Open or clear a clip in the Source Monitor  
+ Navigate clips in the Source menu in the Source Monitor  
+ Correct mistakes 
+ View warnings, errors, and information events 
+ View or make changes in the History panel 
+ Edit VR content 
+ VR editing in Premiere Pro 
+ VR auto-detection 
+ Interpret VR footage 
+ Assign VR properties to sequences 
+ 360-degree panning 
+ VR assignments 
+ Hide VR video view controls 
+ Immersive video effects and transitions 
+ Three-axis video rotation 
+ Assembling Ambisonics Audio 
+ Monitor Ambisonics audio 
+ Restage correctly aligned video and audio 
+ Publish VR videos 
+ Edit with Generative AI 
+ Generative Extend overview 
+ Add frames using Generative Extend 
+ Generative Extend FAQ 
+ Add text and images 
+ Use Motion Graphics templates 
+ Overview of Motion Graphics templates 
+ Install Motion Graphics templates 
+ Add Motion Graphic templates to a sequence 
+ Organize Motion Graphics templates 
+ Browse and sort Motion Graphics templates 
+ Customize Motion Graphics templates 
+ Use Motion Graphics templates from Adobe Stock 
+ Use data-driven Motion Graphics templates 
+ Stylize text 
+ Create titles 
+ Create text styles 
+ Apply styles to a sub-selection of the text 
+ Style parameters when applying from the style browser 
+ Replace fonts 
+ Create Linked and Track Styles 
+ Apply Linked and Track Styles 
+ Redefine Linked and Track Styles 
+ Parameters when applying as a Linked style or Track style 
+ Use color fonts 
+ Use emojis 
+ Insert images and graphics 
+ Create responsive graphics 
+ Preserve intro and outro animations while creating Responsive Design graphics 
+ Group text and graphic layers 
+ Create clip layers 
+ Create credit rolls 
+ Add gradients 
+ Animate layers using the Effect Controls panel 
+ Animate layers using the Properties panel 
+ Rename layers 
+ Export graphic as a Motion Graphics template 
+ Create Source Graphics 
+ Draw objects 
+ Overview of Pen tool 
+ Draw a straight line 
+ Draw a curve 
+ Create a shape 
+ Create free form shapes for masking 
+ Align and distribute objects 
+ Align objects 
+ Distribute objects 
+ Insert captions 
+ Captions overview 
+ Auto transcribe video using Speech-to-Text 
+ Find and replace text in transcript 
+ Create captions 
+ Create styles for captions 
+ Translate captions 
+ Languages supported by Speech-to-Text 
+ Supported file formats for captions 
+ Import caption file from third-party service 
+ Download language packs from within Premiere Pro 
+ Download language packs from Creative Cloud 
+ Deploy language packs for Teams and Enterprise users 
+ Add video effects 
+ Types of effects 
+ About Effects and Effects panel 
+ Types of effects 
+ List of accelerated effects 
+ List of 32-bit effects 
+ List of YUV effects 
+ Modern transitions in Premiere on desktop 
+ Modern animations in Premiere on desktop 
+ Apply video effects 
+ Apply effects 
+ Remove effects 
+ Copy and paste clip effects 
+ Find and group effects 
+ About Effect Controls panel 
+ Adjust controls in the Effect Controls panel 
+ View effects in the Effect Controls panel 
+ Effect presets 
+ Create effect presets 
+ Apply effect presets 
+ Use FX badges 
+ Manage effects and plug-ins  
+ Effects and transitions library 
+ List of Video transitions 
+ List of Video Dissolve transitions 
+ Adjust effects 
+ Blur and Sharpen effects 
+ Channel effects 
+ Color Correction effects 
+ Distort effects 
+ Generate effects 
+ Image Control effects 
+ Immersive Video effects 
+ Keying effects 
+ Apply and customize Chromakey using the Ultra Key effect 
+ Ultra Key effect parameters 
+ Noise and Grain effects 
+ Perspective effects 
+ Stylize effects 
+ Time effects 
+ Transform effects 
+ Transition effects 
+ Utility effects 
+ Video effects 
+ Control effects and transitions using keyframes 
+ Adjust effect speed 
+ About keyframes 
+ Add keyframes 
+ Select keyframes  
+ Copy and paste keyframes 
+ Set keyframes to snap 
+ Delete keyframes 
+ Keyframes and graphs in panels 
+ Edit keyframes graphs  
+ View keyframes and properties in the Timeline panel 
+ View keyframes in the Effect Controls panel 
+ Move the Current Time Indicator to a keyframe 
+ Control effect changes using keyframe interpolation 
+ Change the keyframe interpolation method 
+ Filter properties in the Effect Controls panel 
+ Adjust or reset controls in the Effect Controls panel 
+ Control change using Bezier keyframe interpolation 
+ Create masks and composites 
+ Create masks 
+ Adjust mask properties 
+ Edit the appearance of a mask 
+ Copy and paste masks 
+ Track masks 
+ Compositing overview 
+ Combine multiple video clips using Blend modes 
+ Blend mode options 
+ Set clip opacity 
+ Redesigned Rectangle, Ellipse, and Pen tools (beta) 
+ Object Masking in Premiere (beta) 
+ Adjust masks at the clip or frame level in Premiere (beta) 
+ Mask tracking tools in Premiere (beta) 
+ Apply effects to existing unassigned masks in Premiere (beta) 
+ Commonly used effects 
+ Auto Reframe overview 
+ Add Auto Reframe effect to sequences 
+ Add Auto Reframe effect to clips 
+ Apply Motion effect 
+ Edit vector graphics using Vector Motion effect 
+ Stabilize shaky footage using Warp Stabilizer 
+ Warp Stabilizer settings 
+ Create fade-in video effects 
+ Add lightning effects 
+ Create a Jacob’s ladder effect 
+ Effects and transitions removed from Adobe Premiere Pro 
+ Apply video transitions 
+ Transitions overview 
+ Set and apply default transitions 
+ Apply single-sided transitions 
+ Copy and paste transitions 
+ Align and reposition transitions 
+ Reposition the center of a transition 
+ Change transition settings 
+ Replace transitions 
+ Move cuts and transitions simultaneously 
+ Change transition duration using the Effect Controls panel 
+ Morph Cut overview 
+ Apply morph cut to smoothen jump cuts 
+ Morph Cut transition options 
+ Clip handles settings 
+ Add audio effects 
+ Basic audio editing 
+ Audio editing concepts 
+ Extract audio from clips  
+ Link audio and video clips 
+ Synchronize audio and video 
+ Synchronize clips in the Timeline panel 
+ Merge clips in the Project panel 
+ Merge clips in the Timeline panel 
+ Use the timecode from an audio primary clip to create a merged clip 
+ Edit merged clips 
+ Edit metadata of merged clips 
+ Limitations of merged clips 
+ Advanced audio techniques 
+ Audio channel mapping 
+ Audio Track Mixer overview 
+ Create a submix 
+ Map source audio channels on import 
+ Change source audio channel mapping 
+ Map to audio output device hardware channels 
+ Break a stereo track into mono tracks 
+ Use mono clips as stereo clips 
+ Edit a multi-clip link in the Source Monitor 
+ Clean audio with bulk mute or bleep 
+ Adjust volume and levels 
+ Automatically tag audio 
+ Apply Enhance Speech 
+ Audio editing with Essential Sound panel 
+ Improve dialogue clarity 
+ Repair dialogue 
+ Create a Reverb effect 
+ Automatically duck audio 
+ Create audio presets 
+ Adjust gain in audio 
+ Adjust track volume 
+ Auto-match audio loudness 
+ Monitor volume levels 
+ Use Dynamic Audio Waveforms 
+ Enhance Speech technical requirements 
+ Live waveform editing 
+ Apply audio effects 
+ Audio effects library 
+ Loudness Meter overview 
+ Apply Loudness Meter to a track 
+ Measure the loudness of your track 
+ Edit Loudness Meter settings 
+ Apply audio transitions 
+ Crossfade between audio clips 
+ Fade in or fade out clip audio 
+ Specify default audio transitions 
+ Audio crossfade transitions 
+ Use Adobe Stock audio 
+ Use Adobe Stock audio in your project 
+ About Adobe Stock audio licensing and usage rights 
+ Correct color 
+ Color correction fundamentals 
+ Color grading overview 
+ Basic color correction options 
+ Color settings 
+ Create and edit multiple Lumetri Color effects 
+ Color correction workflow 
+ Add color effects 
+ Color Correction effects overview 
+ Available color correction effects 
+ Correct color using RGB curves 
+ Correct color using Hue and Saturation curves 
+ Install custom Look-up Table files  
+ Add Look-up Tables 
+ Save or export Look-up Tables 
+ Set up Color Management 
+ Color Management overview 
+ How Color Management works 
+ Color Management and Lumetri Color 
+ Color Management options 
+ Manage source media colors in the Program Monitor 
+ Tone mapping in Premiere Pro 
+ Configure sequence Color Management 
+ Configure clips for Color Management using Clip Modify 
+ Customize color presets for new or existing sequences 
+ Configure sequence’s output color space 
+ Premiere Pro and After Effects Color Management compatibility 
+ Disable Color Management 
+ Render and export 
+ Render sequences for playback 
+ Render a section of a sequence 
+ Render and replace media in a sequence 
+ Replace rendered clips with original media 
+ Use preview files when rendering  
+ Delete preview files  
+ Preview on a television monitor 
+ Export files 
+ Export video 
+ Export a still frame 
+ Export a still image 
+ Export transcripts 
+ Export caption tracks 
+ Export selected captions 
+ Export text from Motion Graphics 
+ Best practices for exporting video for social media and phones 
+ Export videos for social media channels 
+ Export a project as an EDL file 
+ Export a project as a Final Cut Pro XML file 
+ Export videos with Content Credentials 
+ Stream video 
+ Overview of Secure Reliable Transport 
+ Enable Secure Reliable Transport stream 
+ Secure reliable transport modes 
+ SRT settings 
+ Collaborate with others 
+ Collaborate using Team Projects 
+ About Team Projects 
+ When to use Team Projects and when to use Productions 
+ Collaboration using Team Projects 
+ Create Team Projects 
+ Create linked Team Projects 
+ Convert Premiere Pro projects to Team Projects 
+ Add media 
+ Manage media 
+ Connect to Team Projects service 
+ Invite collaborators to existing Team Projects 
+ Accept an invitation to collaborate 
+ View online collaborators 
+ Remove collaborators from Team Projects 
+ Search and filter Team Projects 
+ Archive Team Projects 
+ Delete archived Team Projects 
+ Restore archived Team Projects 
+ Publish an edited sequence with changes 
+ Visual cues during collaboration 
+ Offline editing and cloud sync status 
+ View versions of a Team Project 
+ Create a new Team Project from a version 
+ Specify Auto Save cache location 
+ Sequence Locking 
+ Sequence Locking for offline editing 
+ View auto saves 
+ Share for review using Frame.io 
+ Frame.io overview 
+ Upload media to Frame.io 
+ Add comments on shared projects 
+ Add collaborators using the Frame.io panel 
+ Remove collaborators using the Frame.io panel 
+ Share for review with Frame.io 
+ Import comments as markers 
+ Use Premiere Pro with other apps 
+ Install plugins and extensions 
+ Third-party plug-ins and tools 
+ Troubleshooting 
+ Limitations and known issues 
+ Known and fixed issues in Adobe Premiere 
+ iPhone HDR clips are unsupported for Generative Extend 
+ Unable to send media from Firefly to Premiere 
+ Projects saved in v25.6.0 cannot be opened in other v25.x versions 
+ Media issues 
+ Automatically manage your Media Cache files 
+ Clear media cache on launch 
+ Clear media cache using preferences 
+ Delete media cache files manually 
+ Manage media cache 
+ Eliminate flicker 
+ Crash issues 
+ Premiere Pro is crashing 
+ Fix outdated Windows Libraries 
+ Premiere Pro freezes on the splash screen 
+ Recover projects after a crash 
+ No splash screen appears on app launch 
+ Try Adobe Creative Cloud Diagnostics 
+ Adobe Premiere Pro hangs on launch on macOS 
+ Premiere Pro crashes when you open a specific project  
+ Preferences and settings issues 
+ Why reset preferences 
+ Reset preferences at launch 
+ Reset preferences using the preferences folder 
+ Restore custom preferences 
+ Export issues 
+ Unable to find the cause of render or export issue 
+ Export is very slow 
+ Unable to render or export a specific project 
+ Unable to render or export Premiere Pro project 
+ Audio issues 
+ Search for clips without sound 
+ Playback issues due to missing sound from all clips 
+ Playback issues due to missing sound from some of the clips 
+ Enhance Speech is running slow 
+ Playback issues 
+ Timeline doesn’t show video preview 
+ Not able to optimize playback performance 
+ Hardware setup not optimal for playback performance 
+ Audio playback keep getting stuck 
+ Optimize playback performance for H.264 and H.265 media 
+ Troubleshoot sequence and file-interpretation settings 
+ Choppy playback and poor performance issue 
+ Slow rendering and playback 
+ Adobe Help Center 
+ Premiere Desktop Help 
+ What's new 
+ What’s new in Adobe Premiere Pro 
+ Adobe Premiere desktop release notes 
+ What’s new in Premiere Pro (beta) desktop 
+ Get started 
+ Technical requirements 
+ Adobe Premiere technical requirements 
+ GPU and GPU Driver requirements 
+ Storage recommendations 
+ Processor, memory, and GPU recommendations 
+ Hardware-accelerated decoding and encoding 
+ Enable hardware accelerated decoding support 
+ Supported codecs and drivers for hardware-accelerated decoding 
+ Enable Hardware Encoding in Premiere Pro 
+ Install macOS updates for Apple Metal GPU Acceleration 
+ Adobe Premiere Pro 24.x technical requirements 
+ Enable Mercury Playback Engine (GPU accelerated) renderer 
+ Download and install 
+ Best practices for updating Premiere Pro 
+ Creative Cloud Apps available for download 
+ Check if your system is compatible with Premiere Pro 
+ Mercury Playback Engine (GPU Accelerated) in Premiere Pro 
+ Preferences and settings 
+ Preferences overview 
+ General preferences 
+ Set Appearance preferences 
+ AI Models preferences 
+ Audio preferences 
+ Audio Hardware preferences 
+ Auto Save preferences 
+ Collaboration preferences 
+ Color preferences 
+ Control Surface preferences 
+ Graphics preferences 
+ Labels preferences 
+ Media preferences 
+ Media Analysis & Transcription preferences 
+ Memory preferences 
+ Playback preferences 
+ Timeline preferences 
+ Trim preferences 
+ Display Premiere Pro interface on a second monitor 
+ Display video on a second monitor 
+ Best practices for film and TV productions 
+ Set up accessibility features 
+ Accessibility overview 
+ Accessibility Support for Screen Readers and Magnifiers 
+ Navigate Premiere Pro using the keyboard 
+ Keyboard shortcuts 
+ About keyboard shortcuts 
+ Default keyboard shortcuts 
+ Customize keyboard shortcuts 
+ Copy keyboard shortcuts from one computer to another 
+ Assign multiple keyboard shortcuts to a command 
+ Find keyboard shortcuts 
+ Remove keyboard shortcuts 
+ Print keyboard shortcuts 
+ Set up Directx HDR for Windows 
+ Supported operating systems, GPUs, and displays for Directx HDR support 
+ Supported and unsupported features with Directx HDR in Premiere Pro 
+ Set up your system for Directx HDR 
+ Set up Premiere Pro for Directx HDR 
+ Use touch and gesture controls 
+ Touch and Gesture controls on Windows Devices 
+ Use thumbnail controls in the Project panel 
+ Learn how touch and gesture actions work with buttons 
+ Workflows, workspaces, and panels 
+ Overview of workspaces 
+ Import workspaces 
+ Change, create, and reset workspaces 
+ Manage workspaces 
+ Display panel options and menu 
+ Navigate the panels 
+ Dock, group, or undock panels 
+ Customize panels 
+ Display any panel full-screen 
+ Tools panel in Premiere Pro 
+ Clip details in the Info panel 
+ Adobe Premiere Pro FAQ 
+ Customize the Project panel 
+ Customization options for the Project panel 
+ Customize the Icon View in Project panel 
+ Customize metadata in Freeform View in Project panel 
+ Customize Freeform view in Project panel 
+ Customize List View in Project panel 
+ Align and reset clips to grid in Freeform View in Project panel 
+ Create layouts in Freeform View in Project panel 
+ Customize the position of the Project panel 
+ List View columns 
+ Restore or delete layouts in Freeform View in Project panel 
+ Source and Program Monitor adjustments 
+ Overview of Source Monitor and Program Monitor 
+ Set display quality for Source and Program Monitors 
+ Adjust magnification for Source and Program Monitors 
+ Enable High Quality Playback 
+ Choose a display mode 
+ Gang Source and Program Monitor 
+ Set display options for interlaced footage 
+ Compare edits to clips in the Program Monitor 
+ Open or clear a clip in the Source Monitor 
+ Navigate clips in the Source menu in the Source Monitor 
+ Display controls in the Source and Program Monitors 
+ Time controls in the Source and Program Monitors 
+ View safe zones in the monitors 
+ Change the unit of measurement 
+ Add or remove guides 
+ Snap objects to guides 
+ Nudge clips in Program Monitor 
+ Save, export, and import custom guides 
+ Enable Dropped Frame Indicator 
+ Organize media 
+ Create projects 
+ Overview of projects 
+ Create new projects 
+ Open projects 
+ Copy projects 
+ Consolidate and archive projects 
+ Move projects to another computer 
+ Delete projects 
+ Edit multiple open projects 
+ Save workspace when editing multiple projects simultaneously 
+ Project locking with multiple open projects 
+ Import files 
+ Import still images 
+ Import images as an image sequence 
+ Import Photoshop and Illustrator files 
+ Resize imported images 
+ Import a Premiere Elements project 
+ Record audio 
+ Record a voice-over on an audio track from the Timeline 
+ Record audio using the Audio Track Mixer 
+ Mute input during recording 
+ Supported file formats 
+ Blackmagic RAW support 
+ Import media from Firefly to Premiere on desktop 
+ Organize files 
+ Overview of bins 
+ Add and delete bins 
+ Open and close bins 
+ Manage bins 
+ Change bin behaviors 
+ Sort and view bins 
+ Search for media using AI-powered media intelligence 
+ Locate and link offline files 
+ Relink offline media automatically 
+ Manually locate and relink offline media 
+ Consolidate duplicate folders 
+ Search for audio using media intelligence 
+ Search for similar visuals using media intelligence 
+ Apply labeling 
+ Overview of markers 
+ Add a marker to a clip 
+ Copy and paste sequence markers 
+ Find, move, and delete markers 
+ Set default marker colors 
+ Show or hide markers by color 
+ View and edit marker properties 
+ Share markers with After Effects 
+ Overview of timecode 
+ Enter timecode 
+ View Sequence Timecode 
+ Choose timecode display format 
+ View source timecode in the Program Monitor 
+ Change timecode display format 
+ Timecode display options  
+ Set clip timecode manually 
+ Label colors in sequence tabs 
+ Transfer files 
+ Transfer projects from one computer to another 
+ Transfer assets from file-based media 
+ Copy, transcode, or archive project 
+ Ingest proxy workflow 
+ Ingest and Proxy workflow   
+ Configure ingest settings   
+ Create proxies 
+ Attach proxies to full-resolution media 
+ Reconnect full-resolution media to proxies 
+ Detach proxies 
+ Export proxies 
+ Edit projects 
+ Intro to editing 
+ Add or remove clips 
+ Aspect ratios 
+ Set the aspect ratio of a sequence 
+ Pixel aspect ratio 
+ Frame aspect ratio 
+ Aspect ratio preservation 
+ Correct aspect ratio misinterpretations 
+ Convert a subclip to a Source clip 
+ Add media to the timeline using Source Patching 
+ Work with clips on the timeline using Track Targeting 
+ Create a subclip from the Project panel 
+ Create a subclip from the Timeline 
+ Adjust media start and end times of a subclip 
+ Apply Multi Transitions across audio and video clips 
+ Use built-in Adobe Stock panel 
+ Edit video using Text-based editing 
+ Overview of Text-Based editing 
+ Add clips to the timeline using Text-Based Editing 
+ Transcribe video 
+ Edit transcripts using Text-Based Editing 
+ Detect and delete pauses in transcripts 
+ Transcribe individual source files 
+ Edit speaker names in transcription 
+ Edit sequences using Text-Based Editing 
+ Remove all instances of one speaker in transcript 
+ Multichannel audio support in Text-Based Editing 
+ Trim clips 
+ Trim a clip 
+ Cut clips 
+ Perform ripple edits 
+ Perform rolling edit 
+ Perform slip edits 
+ Perform slide edits 
+ Perform J cuts and L cuts 
+ Change clip speed 
+ Different ways to change clip speed and duration 
+ Change clip speed and duration using the Speed/Duration command 
+ Change clip speed and duration using the Rate Stretch tool 
+ Change clip speed and duration using Time Remapping 
+ Apply Time Interpolation Methods to adjust clip speed 
+ Remove Time Remapping from a clip 
+ Change clip sequence 
+ Create a sequence 
+ Navigation controls in the timeline 
+ Navigate sequences in the timeline 
+ Change sequence settings 
+ Sequence settings reference 
+ Sequence presets and settings 
+ Create a custom sequence preset 
+ Copy and paste clips 
+ Different ways to move clips 
+ Rearrange clips on the timeline 
+ Add tracks 
+ Delete tracks 
+ Rename tracks 
+ Lift and paste frames 
+ Edit track appearance 
+ Sync Lock to prevent changes 
+ Track Lock to prevent changes 
+ Modify clip properties 
+ Change the frame rate of a clip 
+ Interlaced video overview 
+ Change the field order of a clip 
+ Create interlaced or non-interlaced clips 
+ Set up multi-camera sequences for editing 
+ Create a multi-camera source sequence 
+ Create and edit a multi-camera target sequence 
+ Mark clips for synchronization 
+ Manage multi-camera thumbnails in the Project panel 
+ Change the order of cameras in Source and Program Monitors 
+ Compare edits to source clips 
+ Compare edits to clips in the Program Monitor  
+ Open or clear a clip in the Source Monitor  
+ Navigate clips in the Source menu in the Source Monitor  
+ Correct mistakes 
+ View warnings, errors, and information events 
+ View or make changes in the History panel 
+ Edit VR content 
+ VR editing in Premiere Pro 
+ VR auto-detection 
+ Interpret VR footage 
+ Assign VR properties to sequences 
+ 360-degree panning 
+ VR assignments 
+ Hide VR video view controls 
+ Immersive video effects and transitions 
+ Three-axis video rotation 
+ Assembling Ambisonics Audio 
+ Monitor Ambisonics audio 
+ Restage correctly aligned video and audio 
+ Publish VR videos 
+ Edit with Generative AI 
+ Generative Extend overview 
+ Add frames using Generative Extend 
+ Generative Extend FAQ 
+ Add text and images 
+ Use Motion Graphics templates 
+ Overview of Motion Graphics templates 
+ Install Motion Graphics templates 
+ Add Motion Graphic templates to a sequence 
+ Organize Motion Graphics templates 
+ Browse and sort Motion Graphics templates 
+ Customize Motion Graphics templates 
+ Use Motion Graphics templates from Adobe Stock 
+ Use data-driven Motion Graphics templates 
+ Stylize text 
+ Create titles 
+ Create text styles 
+ Apply styles to a sub-selection of the text 
+ Style parameters when applying from the style browser 
+ Replace fonts 
+ Create Linked and Track Styles 
+ Apply Linked and Track Styles 
+ Redefine Linked and Track Styles 
+ Parameters when applying as a Linked style or Track style 
+ Use color fonts 
+ Use emojis 
+ Insert images and graphics 
+ Create responsive graphics 
+ Preserve intro and outro animations while creating Responsive Design graphics 
+ Group text and graphic layers 
+ Create clip layers 
+ Create credit rolls 
+ Add gradients 
+ Animate layers using the Effect Controls panel 
+ Animate layers using the Properties panel 
+ Rename layers 
+ Export graphic as a Motion Graphics template 
+ Create Source Graphics 
+ Draw objects 
+ Overview of Pen tool 
+ Draw a straight line 
+ Draw a curve 
+ Create a shape 
+ Create free form shapes for masking 
+ Align and distribute objects 
+ Align objects 
+ Distribute objects 
+ Insert captions 
+ Captions overview 
+ Auto transcribe video using Speech-to-Text 
+ Find and replace text in transcript 
+ Create captions 
+ Create styles for captions 
+ Translate captions 
+ Languages supported by Speech-to-Text 
+ Supported file formats for captions 
+ Import caption file from third-party service 
+ Download language packs from within Premiere Pro 
+ Download language packs from Creative Cloud 
+ Deploy language packs for Teams and Enterprise users 
+ Add video effects 
+ Types of effects 
+ About Effects and Effects panel 
+ Types of effects 
+ List of accelerated effects 
+ List of 32-bit effects 
+ List of YUV effects 
+ Modern transitions in Premiere on desktop 
+ Modern animations in Premiere on desktop 
+ Apply video effects 
+ Apply effects 
+ Remove effects 
+ Copy and paste clip effects 
+ Find and group effects 
+ About Effect Controls panel 
+ Adjust controls in the Effect Controls panel 
+ View effects in the Effect Controls panel 
+ Effect presets 
+ Create effect presets 
+ Apply effect presets 
+ Use FX badges 
+ Manage effects and plug-ins  
+ Effects and transitions library 
+ List of Video transitions 
+ List of Video Dissolve transitions 
+ Adjust effects 
+ Blur and Sharpen effects 
+ Channel effects 
+ Color Correction effects 
+ Distort effects 
+ Generate effects 
+ Image Control effects 
+ Immersive Video effects 
+ Keying effects 
+ Apply and customize Chromakey using the Ultra Key effect 
+ Ultra Key effect parameters 
+ Noise and Grain effects 
+ Perspective effects 
+ Stylize effects 
+ Time effects 
+ Transform effects 
+ Transition effects 
+ Utility effects 
+ Video effects 
+ Control effects and transitions using keyframes 
+ Adjust effect speed 
+ About keyframes 
+ Add keyframes 
+ Select keyframes  
+ Copy and paste keyframes 
+ Set keyframes to snap 
+ Delete keyframes 
+ Keyframes and graphs in panels 
+ Edit keyframes graphs  
+ View keyframes and properties in the Timeline panel 
+ View keyframes in the Effect Controls panel 
+ Move the Current Time Indicator to a keyframe 
+ Control effect changes using keyframe interpolation 
+ Change the keyframe interpolation method 
+ Filter properties in the Effect Controls panel 
+ Adjust or reset controls in the Effect Controls panel 
+ Control change using Bezier keyframe interpolation 
+ Create masks and composites 
+ Create masks 
+ Adjust mask properties 
+ Edit the appearance of a mask 
+ Copy and paste masks 
+ Track masks 
+ Compositing overview 
+ Combine multiple video clips using Blend modes 
+ Blend mode options 
+ Set clip opacity 
+ Redesigned Rectangle, Ellipse, and Pen tools (beta) 
+ Object Masking in Premiere (beta) 
+ Adjust masks at the clip or frame level in Premiere (beta) 
+ Mask tracking tools in Premiere (beta) 
+ Apply effects to existing unassigned masks in Premiere (beta) 
+ Commonly used effects 
+ Auto Reframe overview 
+ Add Auto Reframe effect to sequences 
+ Add Auto Reframe effect to clips 
+ Apply Motion effect 
+ Edit vector graphics using Vector Motion effect 
+ Stabilize shaky footage using Warp Stabilizer 
+ Warp Stabilizer settings 
+ Create fade-in video effects 
+ Add lightning effects 
+ Create a Jacob’s ladder effect 
+ Effects and transitions removed from Adobe Premiere Pro 
+ Apply video transitions 
+ Transitions overview 
+ Set and apply default transitions 
+ Apply single-sided transitions 
+ Copy and paste transitions 
+ Align and reposition transitions 
+ Reposition the center of a transition 
+ Change transition settings 
+ Replace transitions 
+ Move cuts and transitions simultaneously 
+ Change transition duration using the Effect Controls panel 
+ Morph Cut overview 
+ Apply morph cut to smoothen jump cuts 
+ Morph Cut transition options 
+ Clip handles settings 
+ Add audio effects 
+ Basic audio editing 
+ Audio editing concepts 
+ Extract audio from clips  
+ Link audio and video clips 
+ Synchronize audio and video 
+ Synchronize clips in the Timeline panel 
+ Merge clips in the Project panel 
+ Merge clips in the Timeline panel 
+ Use the timecode from an audio primary clip to create a merged clip 
+ Edit merged clips 
+ Edit metadata of merged clips 
+ Limitations of merged clips 
+ Advanced audio techniques 
+ Audio channel mapping 
+ Audio Track Mixer overview 
+ Create a submix 
+ Map source audio channels on import 
+ Change source audio channel mapping 
+ Map to audio output device hardware channels 
+ Break a stereo track into mono tracks 
+ Use mono clips as stereo clips 
+ Edit a multi-clip link in the Source Monitor 
+ Clean audio with bulk mute or bleep 
+ Adjust volume and levels 
+ Automatically tag audio 
+ Apply Enhance Speech 
+ Audio editing with Essential Sound panel 
+ Improve dialogue clarity 
+ Repair dialogue 
+ Create a Reverb effect 
+ Automatically duck audio 
+ Create audio presets 
+ Adjust gain in audio 
+ Adjust track volume 
+ Auto-match audio loudness 
+ Monitor volume levels 
+ Use Dynamic Audio Waveforms 
+ Enhance Speech technical requirements 
+ Live waveform editing 
+ Apply audio effects 
+ Audio effects library 
+ Loudness Meter overview 
+ Apply Loudness Meter to a track 
+ Measure the loudness of your track 
+ Edit Loudness Meter settings 
+ Apply audio transitions 
+ Crossfade between audio clips 
+ Fade in or fade out clip audio 
+ Specify default audio transitions 
+ Audio crossfade transitions 
+ Use Adobe Stock audio 
+ Use Adobe Stock audio in your project 
+ About Adobe Stock audio licensing and usage rights 
+ Correct color 
+ Color correction fundamentals 
+ Color grading overview 
+ Basic color correction options 
+ Color settings 
+ Create and edit multiple Lumetri Color effects 
+ Color correction workflow 
+ Add color effects 
+ Color Correction effects overview 
+ Available color correction effects 
+ Correct color using RGB curves 
+ Correct color using Hue and Saturation curves 
+ Install custom Look-up Table files  
+ Add Look-up Tables 
+ Save or export Look-up Tables 
+ Set up Color Management 
+ Color Management overview 
+ How Color Management works 
+ Color Management and Lumetri Color 
+ Color Management options 
+ Manage source media colors in the Program Monitor 
+ Tone mapping in Premiere Pro 
+ Configure sequence Color Management 
+ Configure clips for Color Management using Clip Modify 
+ Customize color presets for new or existing sequences 
+ Configure sequence’s output color space 
+ Premiere Pro and After Effects Color Management compatibility 
+ Disable Color Management 
+ Render and export 
+ Render sequences for playback 
+ Render a section of a sequence 
+ Render and replace media in a sequence 
+ Replace rendered clips with original media 
+ Use preview files when rendering  
+ Delete preview files  
+ Preview on a television monitor 
+ Export files 
+ Export video 
+ Export a still frame 
+ Export a still image 
+ Export transcripts 
+ Export caption tracks 
+ Export selected captions 
+ Export text from Motion Graphics 
+ Best practices for exporting video for social media and phones 
+ Export videos for social media channels 
+ Export a project as an EDL file 
+ Export a project as a Final Cut Pro XML file 
+ Export videos with Content Credentials 
+ Stream video 
+ Overview of Secure Reliable Transport 
+ Enable Secure Reliable Transport stream 
+ Secure reliable transport modes 
+ SRT settings 
+ Collaborate with others 
+ Collaborate using Team Projects 
+ About Team Projects 
+ When to use Team Projects and when to use Productions 
+ Collaboration using Team Projects 
+ Create Team Projects 
+ Create linked Team Projects 
+ Convert Premiere Pro projects to Team Projects 
+ Add media 
+ Manage media 
+ Connect to Team Projects service 
+ Invite collaborators to existing Team Projects 
+ Accept an invitation to collaborate 
+ View online collaborators 
+ Remove collaborators from Team Projects 
+ Search and filter Team Projects 
+ Archive Team Projects 
+ Delete archived Team Projects 
+ Restore archived Team Projects 
+ Publish an edited sequence with changes 
+ Visual cues during collaboration 
+ Offline editing and cloud sync status 
+ View versions of a Team Project 
+ Create a new Team Project from a version 
+ Specify Auto Save cache location 
+ Sequence Locking 
+ Sequence Locking for offline editing 
+ View auto saves 
+ Share for review using Frame.io 
+ Frame.io overview 
+ Upload media to Frame.io 
+ Add comments on shared projects 
+ Add collaborators using the Frame.io panel 
+ Remove collaborators using the Frame.io panel 
+ Share for review with Frame.io 
+ Import comments as markers 
+ Use Premiere Pro with other apps 
+ Install plugins and extensions 
+ Third-party plug-ins and tools 
+ Troubleshooting 
+ Limitations and known issues 
+ Known and fixed issues in Adobe Premiere 
+ iPhone HDR clips are unsupported for Generative Extend 
+ Unable to send media from Firefly to Premiere 
+ Projects saved in v25.6.0 cannot be opened in other v25.x versions 
+ Media issues 
+ Automatically manage your Media Cache files 
+ Clear media cache on launch 
+ Clear media cache using preferences 
+ Delete media cache files manually 
+ Manage media cache 
+ Eliminate flicker 
+ Crash issues 
+ Premiere Pro is crashing 
+ Fix outdated Windows Libraries 
+ Premiere Pro freezes on the splash screen 
+ Recover projects after a crash 
+ No splash screen appears on app launch 
+ Try Adobe Creative Cloud Diagnostics 
+ Adobe Premiere Pro hangs on launch on macOS 
+ Premiere Pro crashes when you open a specific project  
+ Preferences and settings issues 
+ Why reset preferences 
+ Reset preferences at launch 
+ Reset preferences using the preferences folder 
+ Restore custom preferences 
+ Export issues 
+ Unable to find the cause of render or export issue 
+ Export is very slow 
+ Unable to render or export a specific project 
+ Unable to render or export Premiere Pro project 
+ Audio issues 
+ Search for clips without sound 
+ Playback issues due to missing sound from all clips 
+ Playback issues due to missing sound from some of the clips 
+ Enhance Speech is running slow 
+ Playback issues 
+ Timeline doesn’t show video preview 
+ Not able to optimize playback performance 
+ Hardware setup not optimal for playback performance 
+ Audio playback keep getting stuck 
+ Optimize playback performance for H.264 and H.265 media 
+ Troubleshoot sequence and file-interpretation settings 
+ Choppy playback and poor performance issue 
+ Slow rendering and playback 
+ Sequence presets and settings
+ Last updated on 
+ Aug 22, 2025 
+ Learn about sequence presets and settings in Adobe Premiere Pro to ensure your project matches the right resolution, frame rate, and codec from the start.
+ The sequence settings must be correct when you create the sequence. Sequence settings like time base are locked once the sequence is created. It prevents unwanted inconsistencies that could result from changing sequence settings later.
+ When creating a sequence, you can select from among the standard sequence presets. Alternatively, you can customize a group of settings and save the group in a custom sequence setting preset. If you want full control over almost all the sequence parameters, start a new sequence and customize its settings.
+ Creating a sequence opens the New Sequence dialog box. The New Sequence dialog box contains three tabs, each with various settings: Sequence Presets , General , and Tracks .
+ Sequence Presets options
+ Available Presets are groups of sequence settings. Premiere Pro comes with several categories of sequence settings presets installed, like the following:
+ AVC-Intra
+ AVCHD
+ Digital SLR
+ DV-24p
+ DV-NTSC (North American standard)
+ DV-PAL (European standard)
+ DVCPRO50
+ DVCPROHD
+ Mobile and devices
+ XDCAM EX
+ XDCAM HD422
+ XDCAM HD
+ These sequence settings presets contain the correct settings for the most typical sequence types. For example, use the AVC-Intra, DVCPRO50, and DVCPROHD sequence setting presets to edit AVC-Intra or DVCPRO material shot on Panasonic P2 video cameras. For DV25 material recorded in Panasonic P2 format, use a preset for DV-NTSC or DV-PAL, depending on the television standard of the footage.
+ Note 
+ If you must change sequence settings that are unavailable, you can create a sequence with the settings you want. Then, move the contents of the current sequence into it.
+ Selecting a Sequence Presets
+ A sequence can contain different types of assets in different formats and with various parameters. However, Premiere Pro performs best when the settings for a sequence match the parameters of most of the assets used in that sequence. To optimize performance and reduce rendering times, find out the asset parameters for the primary assets you want to edit before creating a sequence. After learning the asset parameters, you can create a sequence with settings to match. Before capturing assets from a tape-based device, learn these parameters so that you can select the correct capture settings. Asset parameters include the following:
+ Recording format (for example, DV, or DVCPRO HD)
+ File format (for example, AVI, MOV, or VOB
+ Frame aspect ratio (for example, 16:9, or 4:3)
+ Pixel aspect ratio (for example, 1.0, or 0.9091)
+ Frame rate (for example, 29.97 fps, or 23.976 fps)
+ Time base (for example, 29.97 fps, or 23.976 fps)
+ Fields (for example, progressive or interlaced)
+ Audio sample rate (for example, 32 Hz or 48 Hz)
+ Video codec
+ Audio codec
+ Use the Properties panel to discover many of these parameters for your assets.
+ Alternatively, you can use a third-party application, such as the freeware MediaInfo or GSpot Codec Information Appliance. You can also choose Window > Show Movie Inspector in Apple QuickTime Player to find the codecs used to generate a file.
+ Assets can use codecs not supported natively by Premiere Pro. Often, you can edit these assets after installing the relevant codecs. However, beware of installing untested codecs that introduce severe problems with your computer system.
+ Using multiple sequences
+ A single project can contain multiple sequences with different settings. You select settings for each sequence when you create it, but you can change some of these settings after a sequence is created.
+ To switch sequences, in the Program Monitor or in the Timeline panel, select the tab of the sequence you want to use. The sequence becomes the frontmost tab in both panels.
+ To view a sequence in a separate Timeline panel, drag the Sequence tab away from the panel to an empty area. Ctrl -drag (Windows) or c ommand -drag (macOS) to prevent the panel from docking.
+ To open a sequence in the Source Monitor , press Ctrl or Command  and double-click the sequence in the Project panel. In the Timeline panel, use  Ctrl or Command and double-click a nested sequence.
+ Craft the perfect story with Premiere Pro 
+Find the best-in-class video-editing tools all in one place.
+ Open the app 
+ Open the app 
+ Previous 
+ Sequence settings reference
+ Next 
+ Create a custom sequence preset
+ Learn
+ Learn with step-by-step video tutorials and hands-on guidance right in the app.
+ Community
+ Join discussions, find answers, learn from experts, and share your knowledge.
+ Adobe Home
+ Access your favorite Creative Cloud apps, services, file management, and more.
+ Language Navigation
+ Language Navigation
+ Choose a region
+ Selecting a region changes the language and/or content on Adobe.com.
+ Americas
+ Brasil
+ Canada - English
+ Canada - Français
+ Latinoamérica
+ México
+ Argentina
+ Colombia
+ Perú
+ Chile
+ United States
+ Asia Pacific
+ Australia
+ Hong Kong S.A.R. of China
+ India - English
+ Indonesia - English
+ Malaysia - English
+ New Zealand
+ Philippines - English
+ Vietnam - English
+ 中国
+ 中國香港特別行政區
+ 台灣地區
+ 日本
+ Indonesia
+ Malaysia
+ Pilipinas
+ Việt Nam
+ भारत
+ 한국
+ Singapore
+ Thailand - English
+ ประเทศไทย
+ Europe, Middle East and Africa
+ Africa - English
+ België - Nederlands
+ Belgique - Français
+ Belgium - English
+ Česká republika
+ Danmark
+ Deutschland
+ Eesti
+ España
+ France
+ Greece - English
+ Ireland
+ Israel - English
+ Italia
+ Latvija
+ Lietuva
+ Luxembourg - Deutsch
+ Luxembourg - English
+ Luxembourg - Français
+ Magyarország
+ Middle East and North Africa - English
+ Nederland
+ Norge
+ Österreich
+ Polska
+ Portugal
+ România
+ Schweiz
+ Slovenija
+ Slovensko
+ Suisse
+ Suomi
+ Svizzera
+ Türkiye
+ United Kingdom
+ България
+ Россия
+ Україна
+ الشرق الأوسط وشمال أفريقيا - اللغة العربية
+ ישראל - עברית
+ Sverige
+ Saudi Arabia - English
+ United Arab Emirates - English
+ الإمارات العربية المتحدة
+ المملكة العربية السعودية
+ 

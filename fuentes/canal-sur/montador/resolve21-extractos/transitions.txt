@@ -1,0 +1,251 @@
+
+[[p1193]]
+Chapter 55
+Using Transitions
+Transitions are the connective tissue binding together moments requiring a more 
+significant way of changing from one image to the next than a simple cut. 
+This chapter shows the many ways you can add and edit transitions in your program.
+Contents
+Working With Transitions......................................... 1194
+Previewing Transitions.............................................. 1194
+Adding and Editing Transitions............................. 1195
+Adding Transitions When 
+There’s Not Enough Handles................................. 1197
+Adding Transitions By 
+Dragging to Create Overlap................................... 1197
+Transition Properties in the Inspector............... 1198
+Favorite Transitions..................................................... 1199
+Changing the Standard Transition...................... 1199
+Creating Transition Presets..................................... 1201
+Changing Transitions to 
+Fusion Compositions.................................................. 1201
+Video Transitions......................................................... 1202
+Dissolve............................................................................ 1202
+Iris........................................................................................ 1203
+Motion................................................................................ 1204
+Shape................................................................................  1205
+Wipe..................................................................................  1206
+User Transitions............................................................ 1207
+Fusion Transitions........................................................ 1207
+Resolve FX Transitions............................................  1209
+Burn Away Transition................................................  1209
+DCTL Transition............................................................  1210
+Audio Transitions........................................................... 1211
+OpenFX Transitions..................................................... 1211
+1193
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1194]]
+Working With Transitions
+Transitions provide another way of bridging the change from one clip to another, and are often used 
+to indicate a change in time or location when changing scenes. DaVinci Resolve supports a variety 
+of transitions ranging from various forms of the traditional cross dissolve to different types of wipes, 
+allowing for great flexibility when finishing creative edits. In addition, DaVinci Resolve supports 
+third‑party OpenFX transitions that you install on your system. Transitions are applied at edit points, 
+and appear as editable objects in the Timeline.
+Video and audio transitions in the Timeline
+Previewing Transitions
+To preview a transition before you place it into the Timeline, ensure that “Hover Scrub Preview” is 
+checked in the Transitions option menu, then simply hover your pointer over any transition in the 
+Transitions tab (Cut page) or Effects Library Toolbox (Edit page) and move it across the thumbnail. 
+The transition will preview in the Viewer using the two clips nearest the smart indicator in the Cut 
+page, or the two clips nearest the playhead in the Edit page.
+Scrubbing over a Transition Thumbnail previews the transition in the Viewer.
+Pressing Shift-Space will bring up the Effects Search dialog which also includes transitions. Start typing 
+in the search field to bring up the appropriate transitions. Clicking on the transition in the search list will 
+apply that transition to the nearest edit point to the playhead.
+1194
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1195]]
+Adding and Editing Transitions
+The following procedures describe how to work with add and edit transitions in the Timeline using 
+both the mouse and keyboard shortcuts.
+Methods of adding transitions using the mouse:
+	 To add a transition by dragging it from the Effects Library: Drag a video transition from the 
+Effects Library to an edit point in the Timeline so that it’s centered at, ends at, or starts at the edit 
+point. If there is no overlap between the heads and tails of the two clips, you may not be able to 
+add a transition where you want.
+	 To add a transition by double-clicking its icon in the Effects Library: Double click a transition’s 
+icon in the Effects Library to apply that transition to the edit point indicated by the smart indicator 
+(Cut page), or at the end of the clip that is currently under the playhead (Edit page).
+	 To add a transition by clicking the Transition Alignment icons: In the Cut page, at the bottom of 
+the Transitions Library, are three Transition Alignment icons. Clicking any of these icons applies the 
+selected transition to the edit point indicated by the smart indicator, with the specified alignment.
+	 To add a transition using the Effects Library contextual menu: Select one or more edit points 
+(one per track), then right-click a video transition in the Effects Library and choose Add to Selected 
+Edit Points. That transition will be added to every selected edit point at once.
+The Transition contextual menu in the Effects Library
+	 To add a transition using the Edit Point contextual menu: In the Edit page, right-click any edit 
+point between clips with overlapping handles, and choose one of the four durations available for 
+the standard transition; the available choices are quarter-second, half-second, one second, and 
+two seconds, expressed in frames at whatever the current frame rate of the Timeline is.
+The Transition contextual menu for an edit in the Timeline
+Methods of adding transitions using keyboard shortcuts:
+	 To add a video+audio transition using the Effects Search: Pressing Shift-Space will bring up the 
+Effects Search dialog which also includes transitions. Start typing in the search field to bring up the 
+appropriate transitions. Clicking on the transition in the search list will apply that transition to the 
+nearest edit point to the playhead. 
+1195
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1196]]
+	 To add a video+audio transition using the keyboard: Select one or more edit points using the 
+Selection tool, or move the playhead near an edit you want to select and press V to select it, then 
+press Command-T (Timeline > Add Transition) to add the standard transition. Transitions are added 
+using the “Standard transition duration” as specified in the Editing panel of the User Preferences, 
+which defaults to one second, or however long the overlapping handles of the selected 
+edit point allow.
+	 To add a video or audio-only transition using the keyboard: Select one or more edit points, and 
+press Option-T (Timeline > Add Video Only Transition) to add only a video transition, or Shift-T 
+(Timeline > Add Audio Only Transition) to add only an audio transition. Transitions are added using 
+the “Standard transition duration” as specified in the Editing panel of the User Preferences, which 
+defaults to one second, or however long the overlapping handles of the selected edit point allow.
+	 To add a transition with specific alignment using the keyboard: Select an edit, press the U key 
+to choose the start, center, or end of the edit, then press Command-T. The standard transition will 
+be added with its alignment based on the edit selection; selecting the start of the edit places a 
+transition that ends on the edit; selecting the end of the edit places a transition that starts on the 
+edit, and choosing the center of the edit places a transition that is similarly centered.
+Selecting all transitions:
+To select all transitions on a timeline, go to Timeline > Select Transitions. This command automatically 
+selects all transitions in a timeline, or in a set in-out range. It can also be limited by the track 
+selector controls.
+Methods of moving and duplicating transitions:
+	 To move a transition from one edit to another: Select a transition, then drag it to 
+another edit point.
+	 To copy a transition from one edit to another: Select a transition, then option-drag it 
+to another edit point.
+Copying a transition from one edit to multiple edit points:
+1	
+Right-Click on the transition you want to duplicate, and select copy (or hit Command-C). 
+2	
+Hold down the Command-Key, and select all the edit points in the Timeline you want to copy the 
+transition to, so they’re highlighted green. Release the Command-Key.
+3	
+Right-Click on any one of the green highlighted edit points, and select Paste (or hit Command-V) 
+to duplicate the selected transition to all selected edit points.
+Methods of altering transitions in the Timeline:
+	 To change a transition’s type: Drag a different transition from the Effects Library onto the current 
+one in the Timeline.
+	 To change a transition’s duration: Drag the beginning or end of the transition in the Timeline to be 
+longer or shorter symmetrically about the current edit. Alternately, you can do one of the following:
+	 Right-click any transition and select Change Transition Duration, or select the transition and 
+press Command-D, then alter the duration in the dialog that appears, and click Change.
+	 Double-click any transition to open it in the Inspector, and set a new duration in seconds 
+or frames.
+	 Click and drag a transition’s edge on the Timeline to alter its duration. Holding down the 
+Command key while you drag allows you to adjust the duration of just one side of the transition. 
+	 To change a transition’s alignment: Right-click a transition in the Timeline and choose a new 
+method of alignment from the contextual menu. Alternately, you can double-click any transition to 
+open it in the Inspector, and choose a new option from the Alignment drop-down.
+	 To remove a transition: Select a transition in the Timeline and press the Delete key. Or, right-click 
+a transition in the Timeline and choose Delete from the contextual menu.
+1196
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1197]]
+Adding Transitions When 
+There’s Not Enough Handles
+If the outgoing and incoming overlapping handles at a given edit point don’t have enough frames to 
+fit the standard transition duration, and you try to add a transition by selecting one or more edit points 
+and pressing Command-T, or by right-clicking an edit point and using the transition options in the 
+resulting contextual menu, then you’ll be presented with a dialog that gives you three choices:
+	 Trim Clips: You can automatically trim the incoming and outgoing sides of each selected edit point 
+to create the overlap needed for adding the standard transition.
+	 Skip Clips: Don’t add transitions to the selected edit points that lack the appropriate overlap.
+	 Cancel: Cancel the operation entirely.
+Adding Transitions By 
+Dragging to Create Overlap
+There’s another method you can use to create transitions that makes it easy to create transitions while 
+you’re doing drag and drop editing by simply overlapping the beginning and end of two clips where 
+you want a transition to appear. Just press and hold the Option and Shift keyboard modifiers together 
+while you drag a clip or edit to create overlap with another clip. You can do this in three ways:
+Select the In or Out point of a clip, then press and hold Option-Shift down and drag the 
+selected edit point to overlap a neighboring clip where you want to create a transition.
+Creating a transition by Option-Shift dragging an  
+edit point to create an overlap between two clips
+Select a clip, then press and hold Option-Shift down and drag the entire clip to overlap a 
+neighboring clip where you want to create a transition.
+Creating a transition by Option-Shift dragging a whole  
+clip to create an overlap between it and another clip
+1197
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1198]]
+Hold the Option-Shift keys down while you drag a clip from the Media Pool to overlap a clip 
+that’s already in the Timeline.
+Creating a transition by Option-Shift dragging a clip  
+from the Media Pool to overlap a clip in the Timeline
+Transition Properties in the Inspector
+Double-clicking a transition in the Timeline opens that Transition tab in the Inspector. Each transition 
+has the following properties you can edit.
+	 Transition Type: The currently selected transition. You can change to any other installed transition 
+by selecting one in the drop-down menu. 
+	 Duration: The duration of the transition, shown in both seconds and frames.
+	 Alignment: A drop-down that lets you choose the transition’s position relative to the edit point it’s 
+applied to. Your choices are “Start on Edit,” “Center on Edit,” and “End on Edit.”
+Additional properties that are specific to each type of transition appear in another group below. 
+Since the Cross Dissolve transition is the most common transition used, its properties will be 
+shown as an example.
+	 Style: The different Dissolve transitions (Cross Dissolve, Additive Dissolve, and so on) expose this 
+drop-down that lets you choose different ways for the outgoing clip to blend into the incoming clip 
+during the dissolve. There are six different options to choose from:
+Video: A simple linear dissolve; the outgoing clip fades out as the incoming clip fades in.
+Film: A logarithmic dissolve, simulating film dissolves as created by an optical printer.
+Additive: The outgoing and incoming clips are cross faded using the Additive composite mode. As 
+a result, the transition seems to brighten at the halfway point.
+Subtractive: The outgoing and incoming clips are cross faded using the Subtractive composite 
+mode. As a result, the transition seems to darken at the halfway point.
+Highlights: The outgoing and incoming clips are cross faded using the Lighten composite mode. 
+The lightest parts of each clip are emphasized during this transition.
+Shadows: The outgoing and incoming clips are cross faded using the Darken composite mode. 
+The darkest parts of each clip are emphasized during this transition.
+	 Start Ratio: Defines the percentage of completion for the transition at its first frame, from 0 to 100 
+percent. Setting the Start Ratio to anything but 0 results in the transition immediately appearing at 
+a more fully cross-dissolved state from the very first frame.
+	 End Ratio: Defines the percentage of completion for the transition at its last frame. Setting the 
+End Ratio to anything but 0 results in the transition never fully dissolving to the incoming shot at its 
+last frame.
+1198
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT
+
+[[p1199]]
+	 Reverse: Reverses the transition. This parameter is disabled for Dissolve transitions.
+	 Ease: A drop-down that lets you apply nonlinear acceleration to the beginning, ending, or overall 
+duration of a transition. The result is to add inertia to the transition from the outgoing clip to the 
+incoming clip, and providing a gentler change from each clip into and out of the transition.
+None: The outgoing clip fades away to the next shot in a linear fashion.
+In: The outgoing clip lingers as the beginning of the transition dissolves more slowly than the end.
+Out: The outgoing clip fades away more quickly, as the beginning of the transition dissolves more 
+quickly than the end.
+In & Out: Both the outgoing and incoming clips make slower transitions at the beginning and end 
+of the dissolve, but the very center of the transition is faster as a result.
+Custom: Lets you modify the parameters of the fade manually using the Transition Curves below.
+	 Transition Curve: Allows you to manually set keyframes controlling the progress of the transition 
+along its duration.
+Other types of transitions display properties that are specific to that transition’s particular effect. 
+These are described at length in the following section.
+Favorite Transitions
+While DaVinci Resolve provides a wide variety of transitions by default, most editors typically only use 
+a subset of these in their day-to-day work. Also, it’s typical to save customized versions of a particular 
+transition in order to reuse that specific set of transition settings over and over again.
+To set a transition or other effect as a favorite in the Effects Library: 
+Move the pointer over any transition, and click the star button when it appears to set that 
+transition as a favorite. Click any transition’s star to “un-favorite” it. Favorites are displayed 
+in the Favorites area of the Effects Library bin list in the Edit page, or the Favorites tab in the 
+Transitions panel in the Cut page. 
+Changing the Standard Transition
+Different projects may require different transitions be used as the standard transition. DaVinci Resolve 
+gives you several tools for dealing with this.
+To change the standard transition:
+Right-click any transition or effect and choose “Set as Standard Transition.” The standard 
+transition appears with an orange indicator to the left of its name in the Effects Library.
+1199
+Editing Effects and Transitions | Chapter 55 Using Transitions
+EDIT

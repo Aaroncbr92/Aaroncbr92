@@ -1,0 +1,613 @@
+
+[[p259]]
+Chapter 10
+HDR Setup 
+and Grading
+High Dynamic Range (HDR) grading for cinema, television, and streaming is the 
+latest evolution of the consumer media experience.While HDR workflows in 
+high‑end cinema and television aren’t new, this way of mastering media has been 
+slow to expand to less expensive programming. 
+However, new developments and an expanding array of affordable HDR-capable consumer devices 
+are poised to make HDR mastering of visual content increasingly ubiquitous. 
+This chapter describes what HDR is for the uninitiated and covers the operational details that will let 
+you set up DaVinci Resolve to do HDR grading. 
+Contents
+High Dynamic Range (HDR) Grading in DaVinci Resolve................................................................................................. 261
+HDR Isn’t Just for Televisions.......................................................................................................................................................... 261
+The Different Ways of Mastering HDR........................................................................................................................................ 262
+What Do I Do With HDR?................................................................................................................................................................... 263
+Analyzing HDR Signals Using Video Scopes.......................................................................................................................... 263
+HDR Viewers........................................................................................................................................................................................... 264
+MultiMaster Trim Manager (Studio Version Only)................................................................................................................. 265
+Dolby Vision® .......................................................................................................................................................................................... 267
+Organizing Your Timeline for Dolby Vision Mastering........................................................................................................ 268
+Letterboxing for Dolby Vision Mastering.................................................................................................................................. 269
+Setting Up Color Management for Dolby Vision Mastering............................................................................................ 269
+Choosing Mastering Displays for Dolby Vision...................................................................................................................... 269
+Using the Dolby Vision Internal Content Mapping Unit (iCMU)...................................................................................... 270
+Simultaneous Master and Target Display Output for Dolby Vision.............................................................................. 270
+HDMI Tunneling using DeckLink 8K Pro G2.............................................................................................................................  271
+External Content Mapping Unit (eCMU) for Dolby Vision................................................................................................. 272
+Dolby, Dolby Vision, and the double-D symbol are registered trademarks of Dolby Laboratories Licensing Corporation.
+259
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p260]]
+Auto Analysis is Available to All Studio Users........................................................................................................................ 272
+Licensing DaVinci Resolve to Expose Dolby Vision Trim Controls............................................................................... 273
+Dolby Vision® Trim Controls in DaVinci Resolve..................................................................................................................... 274
+Previewing and Trimming At Different Levels.........................................................................................................................  277
+Managing Dolby Vision™ Metadata..............................................................................................................................................  277
+Setting Up Resolve Color Management for Grading HDR............................................................................................... 278
+DaVinci Resolve Grading Workflow For Dolby Vision........................................................................................................ 279
+Delivering Dolby Vision..................................................................................................................................................................... 280
+SMPTE ST.2084 and HDR10........................................................................................................................................................... 281
+Monitoring and Grading to ST.2084 in DaVinci Resolve................................................................................................... 283
+Connecting to HDR-Capable Displays using HDMI 2.0a.................................................................................................. 283
+HDR10+™.................................................................................................................................................................................................... 284
+Project Settings for HDR10+............................................................................................................................................................ 284
+Monitoring and Grading to ST.2084 for HDR10+................................................................................................................... 284
+Simultaneous Master and Target Display Output for HDR10+........................................................................................ 284
+HDR10+ Grading Workflow.............................................................................................................................................................. 285
+HDR10+ Auto Analysis Commands.............................................................................................................................................. 285
+Delivering HDR10+............................................................................................................................................................................... 286
+HDR Vivid................................................................................................................................................................................................. 286
+Monitoring and Grading to ST.2084 for HDR Vivid.............................................................................................................. 287
+HDR Vivid Grading Workflow.......................................................................................................................................................... 287
+Simultaneous Master and Target Display Output for HDR Vivid................................................................................... 287
+HDR Vivid Trim Controls in DaVinci Resolve........................................................................................................................... 288
+Delivering HDR Vivid.......................................................................................................................................................................... 289
+Rendering an HDR Vivid Master.................................................................................................................................................... 289
+Hybrid Log-Gamma (HLG)................................................................................................................................................................ 289
+Grading Hybrid Log­‑Gamma in DaVinci Resolve.................................................................................................................. 290
+Ouputting Hybrid Log-Gamma....................................................................................................................................................... 290
+Reset HDR Trim Analysis from the Option Menu................................................................................................................. 290
+Generate HDR Light Level Report (Studio Version Only)................................................................................................... 291
+260
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p261]]
+High Dynamic Range (HDR) 
+Grading in DaVinci Resolve
+The HDR features found in DaVinci Resolve are only available in DaVinci Resolve Studio.
+High Dynamic Range (HDR) video describes an emerging family of video encoding and distribution 
+technologies designed to enable a new generation of television displays to play video capable of 
+intensely bright highlights and increased saturation. The general idea is that the majority of an HDR 
+image will be graded similarly to how a Standard Dynamic Range (SDR) image is graded now, with the 
+shadows and midtones being mostly the same between traditionally SDR and HDR-graded images. 
+This is mostly because shadows are shadows and are meant to be dark; however this philosophy also 
+maintains a comfortable viewing experience and easier backward compatibility when you need to 
+master both SDR and HDR versions of a program. 
+The difference is that HDR provides abundant additional headroom for very bright highlights and color 
+saturation that far exceed what has been previously visible in SDR television and cinema. This enables 
+the colorist to create more vivid and life‑like highlights in images, such as sunsets, lit clouds, firelight, 
+explosions, sparkles, and other intensely bright and colorful imagery. In short, you can now “open up” 
+the highlights in an image just as you’ve always been able to open up, or expand, the detail of the 
+shadows. This not only provides more life‑like lighting intensity and saturation, but it also dramatically 
+expands the contrast available in the scene. For example, a calibrated SDR display should have a peak 
+luminance level of 100 nits (cd/m2), but existing HDR displays can provide peak luminance levels of 
+700, 1000, or even 4000 nits.
+However, because it’s an evolving technology, the technical standards that have been 
+developed far exceed what current consumer televisions, projectors, phones, and tablets are 
+capable of. At the time of this writing, consumer televisions are capable of outputting 700 to 
+1600 nits. Furthermore, consumer displays are often saddled with automatic brightness 
+limiting (ABL) circuits that limit power consumption to acceptable levels for home use, which 
+means that only a certain percentage of the picture may reach these peak values at any one 
+time. This is fine, because the point of HDR is not that you’re making the entire image brighter, 
+it’s that you have more headroom for specific bright highlights and additional saturation.
+For all of these reasons, HDR standards focus on describing what displays should be capable 
+of, not how these levels are to be used. That is a creative decision.
+HDR Isn’t Just for Televisions
+Lest you think that living room televisions and projectors are the only way to watch HDR content, 
+certain flagship iOS and Android phones and tablets have implemented HDR viewing capabilities that 
+are capable of meeting or even exceeding the UltraHD requirements for HDR content on an OLED 
+display. This makes HDR, surprisingly, a widely available mobile experience.
+261
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p262]]
+The Different Ways of Mastering HDR
+While different HDR technologies use different methods to map the video levels of your program to 
+an HDR display’s capabilities, they all output a “near-logarithmically” encoded signal that requires a 
+compatible television that’s capable of correctly stretching this signal into its “normalized” form for 
+viewing. This means if you look at an HDR signal that’s output from the video interface of your grading 
+workstation on an SDR display, it will look flat, desaturated, and unappealing until it’s plugged into your 
+HDR display of choice.
+A graded HDR image being output looks similar to a log-encoded image
+At the time of this writing, there are five principal approaches to mastering HDR that DaVinci Resolve is 
+capable of supporting, including:
+	 Dolby Vision®
+	 HDR10
+	 HDR10+
+	 HDR Vivid
+	 Hybrid Log-Gamma (HLG)
+Each of these HDR standards define how an HDR signal is encoded for export and later mapped to the 
+visible output of an HDR or SDR display. Grading to each of these standards requires some degree of 
+color management, and DaVinci Resolve gives you three main ways to handle this:
+	 The easiest way is to enable Resolve Color Management (RCM) or ACES in the Color Management 
+panel of the Project Settings, and use the Color Space conversion options that are available. 
+There are options there for each supported type of HDR.
+	 The transforms that are available in RCM are also available as Resolve FX operations, if you want to 
+organize your grading pipeline more manually using the Color Transform Resolve FX adjustment.
+	 LUTs are also available to accomplish each of these color space conversions if you want to develop 
+your own specific image processing pipeline based on custom-made LUT or DCTL transforms.
+Overall, Resolve Color Management and ACES are reliable and recommended approaches to handling 
+HDR grading in DaVinci Resolve in most instances. 
+For more information on Resolve Color Management, jump to this chapter: Data Levels, Color 
+Management, and ACES.
+262
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p263]]
+What Do I Do With HDR?
+While these standards make HDR mastering and distribution possible, they have nothing to say about 
+how these HDR-strength levels should be used creatively. That’s up to you, because the question of 
+how to utilize the expansive headroom for brightness and saturation that HDR enables is fully within 
+the domain of the colorist, as a series of creative decisions that must be made regarding how to assign 
+the range of highlights that are available in your source media to the above-100 nit HDR levels you’re 
+mastering to as you grade, given the peak luminance level that you’re assigned to master with. Which 
+HDR peak luminance level you use (1000 nit, 3000 nit, 4000 nit) probably depends on which display 
+you have access to and who’s distributing the resulting program.
+Analyzing HDR Signals Using Video Scopes
+When you’re using waveform scopes of any kind, including parade and overlay scopes, the signal will 
+fit within the 10-bit scale used to analyze the signal much differently owing to the way HDR is encoded. 
+The following chart of values will make it easier to understand how each level in “nits” (i.e., cd/m2) 
+corresponds to a code value within the 10-bit image scale:
+10-Bit Code
+Nearest  
+Value in cd/m2
+HDR Display Peak Luminance Capability
+1019†
+10,000
+No commercially available display
+948
+5000
+Outdoor LED Displays
+920
+4000
+Professional HDR Displays from Sony, Dolby, Flanders Scientific, EIZO, etc.
+889
+3000
+Professional HDR Displays from Sony, Dolby, Flanders Scientific, EIZO, etc.
+844
+2000
+Professional HDR Displays from Sony, Dolby, Flanders Scientific, EIZO, etc.
+824
+1600
+Virtual Production Wall Panels
+767
+1000
+Professional HDR Displays from Sony, Dolby, Flanders Scientific, EIZO, etc.
+728
+700
+OLED mobile phone brightness
+691
+500
+Minimum standard for an “UltraHD” OLED display
+635
+300
+Professional SDR displays in “HDR preview mode”
+593
+203
+BT.2408 recommendation for diffuse white of SDR content being intercut 
+with 1000 nit max HDR content
+528
+108
+Dolby Cinema projector
+520
+100
+Standard peak luminance for SDR displays
+447
+48
+Standard peak luminance for SDR DCI projection, Dolby Cinema 3D peak 
+luminance
+4†
+0
+Absolute black
+† 0–3 and 1020–1023 are reserved values
+While this table of values is useful for understanding where HDR nit levels fall on legacy external 
+scopes, if you’re monitoring with the built-in video scopes in DaVinci Resolve, you can turn on 
+“HDR (ST.2084/HLG)” in the Waveform Scale Style settings in the Scopes option menu, which replaces 
+the 10-bit scale of the video scopes with a scale based on nit values (or cd/m2) instead.
+263
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p264]]
+The video scopes with HDR (ST.2084/HLG) on in the 
+Waveform Scale Style settings in the Scopes option menu
+IMPORTANT: If you are working in a non Davinci Resolve Color Managed workflow and 
+activate the HDR (ST.2084/HLG) scopes, the waveform will always reflect HDR levels, even if 
+you’ve manually selected the output color space as Rec.709, and thus not be 100% accurate.
+TIP: If you’re unsatisfied with the amount of detail you’re seeing in the 0–519 range 
+(0–100 nits) of the video scope graphs, then you can use the 3D Scopes Lookup Table setting 
+in the Color Management panel of the Project Settings to assign the appropriate “HDR X nits 
+to Gamma 2.4 LUT,” with X being the peak nit level of the HDR display you’re using. This 
+converts the way the scopes are drawn so that the 0–100 nit range of the signal takes up the 
+entire range of the scopes, from 0 through 1023. This will push the HDR-strength highlights 
+up past the top of the visible area of the scopes, making them invisible, but it will make it 
+easier to see detail in the midtones of the image.
+HDR Viewers
+You can display the native viewers in DaVinci Resolve in HDR on Mac and Windows systems. 
+The setting affects all DaVinci Resolve viewers, including the main page viewers, Cinema Mode, 
+Fairlight Floating Viewer, Scene Cut Dialog, and the Video Clean Feed.
+You will need an HDR-capable display and to turn on HDR in your OS: 
+	 Activate the Windows HDR display settings (System > Display > HDR).
+	 Activate the Mac HDR display settings (System Settings > Displays > High Dynamic Range).
+	 In DaVinci Resolve Preferences > System > General, you will need to check the “Use 10-bit 
+precision in viewers if available” box.
+NOTE: The general controls/UI and non-viewer dialogs (e.g., secondary screen, project 
+manager, floating Media Pool) are not affected.
+264
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p265]]
+MultiMaster Trim Manager 
+(Studio Version Only)
+DaVinci Resolve has simplified the management of HDR grade trims with the new MultiMaster Trim 
+Manager, which lets you manage multiple grade trims from a single timeline. The main node graph 
+(including Pre- and Post-Group and node stack layers) serves as the hero grade for your timeline, while 
+additional trim layers are grades that you can apply on top of the hero grade per deliverable. 
+For example, you can color grade your master 4000 nit HDR timeline, and simultaneously set 
+up and manage trims for HDR 1000 and SDR Rec.709 output.
+To enable the MultiMaster Trim Manager, go to Color > MultiMaster Trim Manager. Then toggle 
+the Trim Passes switch located on the top left of the window. 
+The MultiMaster Trim Manager.
+This window lets you create and manage unlimited trims for your timeline. Add or remove 
+trims by pressing the appropriate button. To rename a trim, click on its name in the list and 
+start typing. Each trim can also be configured with custom monitoring, output, and color 
+management output settings. 
+By default, each trim enables five types of node graphs: After Clip, Before Group, After Group, 
+Before Timeline, and After Timeline. To enable/disable a specific node graph element, go to 
+the 3-dot option menu > Trim Manager.
+265
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p266]]
+The Enable Trim On Selector.
+To toggle your active trim, use the 3-dot option menu in the Color page node graph. The selected 
+trim’s name will be displayed at the top of the node graph, so you can easily identify which trim 
+is active.
+Selecting Trim Pass from the Node Graph option menu.
+You can also set your blanking (at the clip level or timeline level) per trim in the Output Sizing palette. 
+To do this, enable the Use Trim blanking checkbox, which will set the blanking at a trim level. Note that 
+this feature is independent of the node stack layers that you enable for the main clip grade.
+When it’s time to output in the Deliver page, go to Video Settings and select the specific Trim 
+Pass grade that you want to render for each output.
+Go to the Video Render settings to select the Trim Pass 
+you wish to output in the Deliver page.
+266
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p267]]
+Dolby Vision® 
+Long a pioneer and champion of HDR for enhancing the consumer video experience, 
+Dolby Laboratories has developed a method for mastering and delivering HDR called Dolby Vision. 
+As with most HDR standards discussed in this chapter, Dolby Vision uses the PQ (perceptual quantizer) 
+electrical-optical transfer function (EOTF, which defines how an electronic video signal is presented on 
+a display), which is defined by SMPTE ST.2084, along with a hierarchy of metadata that’s embedded 
+alongside the video stream. All metadata used by Dolby Vision is organized into levels, of which the 
+following are important to the colorist:
+	 Level 0 metadata, which is global metadata that defines the Mastering Display (what the colorist is 
+using), including aspect ratio, frame rate, color encoding and information on all the target displays 
+that are used for the Level 2 and Level 8 trim metadata below.
+	 Level 1 metadata, which is the Dolby Vision v2.9 analysis metadata that’s generated automatically 
+when you use the Dolby Vision controls to analyze the clips in the timeline. The controls for 
+automatically generating Level 1 metadata are available to all DaVinci Resolve Studio users.
+	 Level 2 metadata, which is the Dolby Vision v2.9 trimming metadata that’s set by the colorist via 
+the version 2.9 trim controls available in the Dolby Vision palette of the Color page. This trimming 
+allows adjustment of how the Dolby Vision image is to be mapped to a target display (such as 
+a 100 nit BT.709 display) that’s different from the mastering display (such as a 1000 nit BT.2020 
+display). The purpose of this metadata is to maintain a program’s artistic intent by providing 
+guidance from the colorist over how the program’s signal should be fit into the differing luminance 
+ranges of a variety of displays with different peak luminance capabilities. Manually adjustable 
+Level 2 metadata is only available to DaVinci Resolve Studio users via a license obtained from Dolby.
+	 Level 3 metadata, which is the offset for Dolby Vision v4.0 added to Level 1 metadata generated 
+by the analyze buttons in the Dolby Vision controls. It also stores the mid tone offset data. 
+	 Level 5 metadata, which provides information about the aspect ratio of the deliverable format, and 
+the aspect ratio of the actual image within that format. This metadata is also applicable at the per 
+clip level.
+	 Level 6 metadata, which stores the MaxCLL and MaxFALL levels required by the HDR10 mastering 
+standard of HDR.
+	 Level 8 metadata, which is the updated Dolby Vision v4.0 trimming metadata that’s set by the 
+colorist via the v4.0 trim controls available in the Dolby Vision palette of the Color page. This 
+evolved set of trimming commands allows more detailed adjustment of how the Dolby Vision 
+image is to be mapped to a target display (such as a 100 nit BT.709 display) that’s different from 
+the mastering display (such as a 1000 nit BT.2020 display). Just like Level 2 metadata, the purpose 
+of Level 8 metadata is to maintain a program’s artistic intent by providing guidance from the 
+colorist over how the program’s signal should be fit into the differing luminance ranges of a variety 
+of displays with different peak luminance capabilities. Manually adjustable Level 8 metadata is 
+only available to DaVinci Resolve Studio users via a license obtained from Dolby. Whether you 
+use Level 2 trim controls or Level 8 trim controls depends on the Dolby Vision version setting you 
+choose in the Color Management panel of the Project Settings.
+NOTE: It’s currently recommended for all users to choose Dolby Vision v4.0 for analysis 
+and trimming, as it provides superior results. If you’re required to deliver Dolby Vision v2.9 
+metadata when mastering for backwards compatibility, DaVinci Resolve can now export v2.9 
+metadata from projects using v4.0 workflows.
+The metadata levels described above are current of this writing. However Dolby Vision 
+is a rapidly evolving technology, and as Dolby adds new features and metadata levels 
+you should reference Dolby’s website to keep track of the latest developments: https://
+professionalsupport.dolby.com/s/article/Dolby-Vision-Metadata-Levels?language=en_US
+267
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p268]]
+For the foreseeable future, the current consumer display landscape encompasses a wide variety of 
+differently performing televisions and projectors that are guaranteed to improve year over year. This 
+means that mastering for today’s displays may render content less vibrant than content that emerges 
+five years from now. This can be especially vexing for narrative content that will have a long lifespan on 
+streaming services as new generations of viewers discover them. While one way of solving this would 
+be to re-grade your program many times at a variety of nit levels to create deliverables suitable to a 
+range of display capabilities, that’s an enormous amount of work.
+Dolby Vision offers a shortcut by using sophisticated algorithms to derive automatically analyzed 
+metadata that intelligently guides how an image graded at one nit level (say 4000 nits) can be 
+adjusted to be perceptually similar to viewers watching a 1000 nit display. Highlights and saturation 
+that are too bright for a particular display will be adjusted to provide as close to the same experience 
+without clipping or flattening image detail.
+Furthermore, this automatic analysis can be manually trimmed by a colorist to account for the artistic 
+intentions of the authors of a program, in cases where the automatic analysis doesn’t do exactly what’s 
+wanted. This combination of auto-analysis and manual trimming is key to how Dolby Vision streamlines 
+the process of mastering programs to accommodate backward compatibility with SDR displays, as 
+well as the varying peak luminance capabilities of different makes and models of HDR consumer 
+displays, both now and in the future. You’re only required to make a 100 nit trim pass to guide the HDR 
+program’s conversion all the way down to SDR, and the Dolby Vision system can use that information 
+to guide how intermediate presentations (such as at 700 or 1200 nits) should be adjusted. You can 
+even do multiple trim passes at specific nit levels, such as a 100 nit pass and a 1000 nit pass, to give 
+the Dolby Vision system more information to accurately guide intermediate presentations on different 
+displays. Additionally, you don’t have to trim every clip. If the analysis is good, you can skip those clips 
+and only trim clips that need it. The overall system has been created to make it as efficient as possible 
+for colorists to ensure that the widest variety of viewers see the image as it’s meant to be seen.
+This, in a nutshell, is the advantage of the Dolby Vision system. You can grade a program on a more 
+future-proofed 4000 nit display, and use auto-analysis plus one or two manual trim passes to make 
+the program backward compatible with SDR televisions, and capable of intelligently scaling the HDR 
+highlights to provide the best representation of the mastered image for whatever peak luminance and 
+color volume a particular television is capable of. All of this is guided by decisions made by the colorist 
+during the grade.
+At the time of this writing, all seven major Hollywood studios are mastering in Dolby Vision for cinema. 
+Studios that have pledged support to master content in Dolby Vision for home distribution include 
+Universal, Warner Brothers, Sony Pictures, and MGM. Content providers that have agreed to distribute 
+streaming Dolby Vision content include Netflix, Vudu, and Amazon. If you want to watch Dolby Vision 
+content on television at home, consumer television manufacturers LG, TCL, Vizio, HiSense, Sony, 
+Toshiba, and Bang & Olfusen have all shipped models with Dolby Vision support.
+Organizing Your Timeline for Dolby Vision Mastering
+One of the first things you need to do before doing a Dolby Vision grade is to organize your timeline 
+accordingly. Because each clip undergoes a visual analysis to facilitate the Dolby Vision workflow, 
+there are specific limitations to how clips can appear in a timeline.
+	 All clips to be analyzed in a Dolby Vision workflow need to be on video track V1; clips on other 
+tracks will be ignored.
+	 All clips that overlap one another as part of a composite must be turned into a single item in 
+the timeline in order to be correctly analyzed. This means that each group of clips that create 
+a composite in a timeline, be it multiple overlapping clips combined via keys or alpha channel 
+transparency, multiple overlapping clips combined using composite or blend modes, or text 
+generators appearing above one or more video clips, must be turned into a compound clip for 
+Dolby Vision analysis to work correctly.
+268
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p269]]
+Letterboxing for Dolby Vision Mastering
+The analysis of clips in a Dolby Vision workflow keeps track of the timeline aspect ratio, as well as the 
+image aspect ratio of each clip in that timeline. Programs that mix different aspect ratios of letterboxing 
+(or blanking) will be accommodated by the Dolby Vision analysis, however Dolby Vision does not 
+support letterbox on two sides (both pillarbox and letterbox), only one at a time.
+Setting Up Color Management for Dolby Vision Mastering
+For an HDR signal to look correct, you need to output your graded program using the right EOTF for 
+the HDR standard you’re mastering. The EOTF maps the different levels DaVinci Resolve outputs to 
+your HDR display using the SMPTE ST.2084 PQ setting required for outputting Dolby Vision. 
+You can set this up in one of three different ways, as: 
+•	 Output Color Space and Gamma settings in RCM or ACES
+•	 Color Space and Gamma settings within a series of Resolve FX Color Transform plugins that 
+can be used at the end of each grade or at the end of a Timeline grade
+•	 3D LUTs used for converting signals from one standard to another that can be used at the 
+end of each grade or at the end of a Timeline grade
+While Dolby Vision content is not limited to a particular color space, Resolve Color 
+Management provides a P3 D65 setting that matches the capabilities of most mastering 
+displays in use at the time of this writing.
+Choosing Mastering Displays for Dolby Vision
+To do HDR grading, you need a suitable HDR display. Technically any monitor that supports SMPTE 
+ST.2084 (aka PQ) will work. Happily, a growing number of professional displays from Sony, Flanders 
+Scientific, TV-Logic, Canon, and Eizo are suitable for use in HDR grading suites. EBU Tech 3320 
+specifies the requirements for a Grade 1 HDR mastering monitor. 
+Dolby recommends the following minimum requirements for HDR monitors: 
+•	 A minimum Peak Luminance of 1000 nits
+•	 A 200,000:1 contrast ratio
+•	 Minimum black at 0.005 nits
+•	 Capable of at least 99% of P3 gamut
+For more information on Dolby best practices for color grading Dolby Vision, visit:  
+https://www.dolby.com/us/en/technologies/dolby-vision/dolby-vision-for-creative-
+professionals.html.
+269
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p270]]
+Using the Dolby Vision Internal Content Mapping Unit (iCMU)
+DaVinci Resolve has a GPU-accelerated “internal” software version of the Dolby Vision CMU (Content 
+Mapping Unit) for previewing Dolby Vision mapping right in DaVinci Resolve. iCMU support can be 
+enabled and set up in the Color Management panel of the Project Settings by turning on the Enable 
+Dolby Vision checkbox. This is a DaVinci Resolve Studio-only feature.
+Dolby Vision settings in the Color Management panel of the Project Settings
+The Dolby Vision group of settings also exposes menus for choosing the version of Dolby Vision you 
+want to use, the type of analysis and what kind of Master Display you’re using, and whether or not 
+to use an eCMU (assuming you possess the option). In addition, there are options to enable HDMI 
+tunneling (as described below). Finally, turning Dolby Vision on also enables the Dolby Vision palette 
+and controls in the Color page, which are described in greater detail later in this chapter.
+To master with Dolby Vision in DaVinci Resolve using the built-in iCMU, you still need a more 
+specific hardware setup than the average grading and finishing workstation, consisting of the 
+following equipment:
+•	 Your DaVinci Resolve grading workstation using a DeckLink 8K Pro or DeckLink 4K Extreme 
+12G video interface.
+•	 A mastering display capable of outputting HDR nit levels suitable for the deliverable you’re 
+required to produce
+Simultaneous Master and Target 
+Display Output for Dolby Vision
+When mastering HDR and trimming versions for more limited displays, it’s extremely useful to be able 
+to evaluate your HDR grade and SDR trim pass side-by-side. It’s possible to output both the Master 
+Display output and the Target Display output simultaneously when you’re grading with either Dolby 
+Vision or HDR10+ enabled. 
+Necessary Hardware
+To work in this manner, you must have the following equipment:
+	 Your DaVinci Resolve grading workstation must output via a DeckLink 8K Pro via the attached 
+HDMI card. This will pass the Dolby Vision metadata through to the SDR display, so you will see 
+the SDR out from the HDR grade.
+	 Your Mastering Display must be capable of HDR nit levels suitable for the deliverable you’re 
+required to produce.
+	 A display that can be set to output calibrated SDR, probably using the BT.709 gamut
+270
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p271]]
+Enabling Simultaneous Monitoring
+When you set up your display hardware, the HDR Master Display must be connected to output A, 
+and the Target Display must be connected to output B of whichever BMD video output device you’re 
+using. Then, you need to turn on the “Use dual outputs on SDI” checkbox in the Master Settings of 
+the Project Settings. At this point, assuming all of your connections are compatible with one another, 
+you should see an HDR image output to your HDR display, and a trimmed image output to your 
+SDR display.
+HDMI Tunneling using DeckLink 8K Pro G2
+HDMI Tunneling allows you to preview Dolby Vision content directly on a consumer display in real 
+time. The variables involved in display type and manufacturer all have their own processing behaviors, 
+so HDMI tunneling is not for reference grading but more of letting you get an idea of what the 
+audience will be seeing at home for QC purposes. 
+Performing HDMI tunneling in DaVinci Resolve is possible using lower cost Blackmagic DeckLink cards 
+instead of Dolby’s dedicated eCMU hardware. Currently, the only DeckLink card that supports Dolby 
+Vision HDMI tunneling is the DeckLink 8K Pro G2.
+Setting up Dolby Vision HDMI Tunneling in DaVinci Resolve:
+1	
+In Preferences > System > Video and Audio I/O, make sure that both the Capture Device and 
+Monitor Device are set to the DeckLink 8K Pro.
+2	
+In Project Settings > Master Settings > Video Monitoring, set the following parameters:
+Use 4:4:4 SDI: Check this box.
+Video bit depth: Set this value to 12 bit.
+Enable HDR metadata: Check this box.
+The Project settings in Video Monitoring to enable Dolby Vision HDMI tunneling
+3	
+In Project Settings > Color Management > Dolby Vision, set the following parameters:
+Enable Dolby Vision: Check this box.
+Enable Dolby Vision HDMI tunneling: Check this box.
+Enable L5 metadata on HDMI: Check this box.
+271
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p272]]
+The Project settings in Dolby Vision to enable HDMI tunneling
+4	
+In the Color page, in the Dolby Vision palette, make sure that the Enable Tone Mapping Preview is 
+disabled (the box is not checked). HDMI tunneling will not work if this box is checked.
+Disable the Enable Tone Mapping Preview box  
+in the Dolby Vision palette in the Color page
+For more information on Dolby Vision HDMI tunneling refer to the Dolby’s website:  
+https://professionalsupport.dolby.com/s/article/HDMI-Tunneling?language=en_US
+External Content Mapping Unit (eCMU) for Dolby Vision
+DaVinci Resolve supports the use of a Dolby External Content Mapping Unit (eCMU) for studios doing 
+more intensive HDR mastering work, as it lets you monitor and adjust an HDR display simultaneously 
+to an SDR display for side-by-side trimming at high resolutions via hardware. The eCMU also has the 
+ability to preview Dolby Vision on a consumer display in real time via HDMI tunneling to view directly 
+what the audience will see at home.
+Auto Analysis is Available to All Studio Users
+Resolve Studio enables either unlicensed or licensed users to automatically analyze the image and 
+generate Dolby Vision analysis metadata. This metadata is used to deliver Dolby Vision content and 
+to render other HDR and SDR deliverables from the HDR grade that you’ve made. This enables any 
+DaVinci Resolve Studio user to create Dolby Vision deliverables with Level 1 metadata. However, 
+manual trimming of the analysis metadata requires a license from Dolby.
+272
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p273]]
+The commands governing Dolby Vision auto-analysis, which are available to all Resolve Studio 
+users, are available in the Color > Dolby Vision™ submenu, as well as the Dolby Vision palette, 
+and consist of the following:
+•	 Analyze All Shots: Automatically analyzes each clip in the Timeline and stores 
+the results individually. 
+•	 Analyze Selected Shot(s): Only analyzes selected shots in the Timeline. 
+•	 Analyze Selected And Blend: Analyzes multiple selected shots as if they were a single 
+sequence. The result is the same analysis being saved to each clip. Useful to save time 
+when analyzing multiple clips that have identical content. 
+•	 Analyze Current Frame: A fast way to analyze clips where a single frame is representative 
+of the entire shot. 
+Once you analyze a clip, the Min, Max, and Average fields automatically populate with the 
+resulting L1 data; these fields are not editable.
+The metadata fields for each clip
+Additionally, clips that have been analyzed show an HDR badge in the Thumbnail timeline, 
+to help you keep track of which clips have been analyzed and which have yet to be.
+Analyzed clips have HDR 
+badges to identify them
+Licensing DaVinci Resolve to Expose Dolby Vision Trim Controls
+To expose the Dolby Vision controls in DaVinci Resolve Studio that let you make manual trims 
+on top of the automatic analysis that any copy of DaVinci Resolve Studio can do, you must email 
+dolbyvisionmastering@dolby.com to receive more information about obtaining a license. 
+Once you’ve obtained a license file from Dolby, you can import it by choosing File > Dolby Vision > 
+Load License, and its successful installation will enable the Dolby Vision controls to be enabled in the 
+Color page. You should also receive a display configuration file, which can be loaded via the File > 
+Dolby Vision > Load Configuration command and lets you populate the Dolby Vision dropdown menus 
+with the most up to date options.
+273
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+
+[[p274]]
+Dolby Vision® Trim Controls in DaVinci Resolve
+Once you’ve analyzed a clip, you’re in a position to trim the result. The latest version of the 
+Dolby Vision palette exposes four sets of controls. The first are the main controls:
+	 Target Display Output: This dropdown specifies what Dolby refers to as the Target Display, used 
+to display the tone mapped image. This menu lets you choose specific display properties to obtain 
+a preview of what the trimmed image will look like on different displays with different gamuts 
+and peak luminance capabilities. You can link the Target Display Output and the Trim Controls 
+For fields by clicking on the little chain icon directly to the left of the options. This automatically 
+changes the Trim Controls For field to the same value you set in the Target Display Output, 
+ensuring your trim controls are always right for the selected display.
+	 Trim Controls for: Which Target Display you’re currently trimming for. The default setting 
+(100-nit, BT.709, BT.1886, Full) lets you monitor an SDR version of the HDR image, so you can see 
+how the trim metadata tone maps the image on non-HDR televisions.
+	 Analyze controls: The commands governing Dolby Vision auto-analysis are available as buttons, 
+which perform the same functions as their similarly named counterparts in the Color > Dolby Vision 
+submenu. Please note that most trim controls are disabled until you perform an analysis, which is a 
+necessary first step.
+All: Automatically analyzes each clip in the current Timeline and stores the results individually.
+Selected: Only analyzes selected shots in the Timeline.
+Blend: Analyzes multiple selected shots as if they were a single sequence. The result is the same 
+analysis being saved to each clip. You need to use the blend option when analyzing two clips that 
+meet at a through edit separating otherwise contiguous frames. It’s also typical to use the Blend 
+option when analyzing a scene of clips that take place at the same location at the same time, to 
+ensure that natural variations in lighting don’t add unwanted variations between the analyses of 
+clips that are supposed to already be balanced with one another. Blend also saves time when 
+analyzing multiple clips that have identical content.
+Frame: Useful in situations where part of a clip has an extreme level of color or lightness that’s 
+not typical of the rest of the clip, that incorrectly biases the analysis and produces a poor result. 
+Placing the playhead on a frame that’s representative of how the clip is supposed to look and 
+using the Frame option bases the analysis on only that frame. This is also a fast way to analyze 
+clips where a single frame is representative of the entire shot.
+	 Enable Tone Mapping Preview: Lets you see the target display output in the Color page Viewer 
+and video output, so you can evaluate how the tone mapped version looks on your HDR display. 
+This control is disabled when you enable “Use dual-outputs on SDI” in the Master Settings of the 
+Project Settings, since the second output SDI now automatically displays the target display output.
+	 Mid Tone Offset (CM v4.0 only): This control is used to match the overall exposure between the 
+tone mapped SDR signal to the HDR master. This offset is applied to the L1 Mid values, allowing 
+the adjustment of mid tones without affecting the blacks and highlights. It can be used to shift 
+overall L1 analysis to ensure the best preservation of artistic intent. This setting is shared among all 
+trim passes you do at all nit levels, so if you’ve done two trim passes, one at 100 nits and another 
+at 1000 nits, adjusting this setting always adjusts both trim passes at once. Changes made to this 
+control are recorded to the L3 metadata for each clip.
+The second are the Min, Mid, and Max metadata fields that are populated by the analyzed values of 
+the current clip. These fields cannot be edited, although analysis metadata can be copied and pasted 
+among clips. These values represent the L1 analysis and are used to calculate how the HDR image 
+should be trimmed to fit into the video standard specified by the Target Display.
+The third are the Primary Trims, which are only editable if you’ve performed an analysis and if you 
+have a license from Dolby. Which controls are exposed depends on the version of Dolby Vision you’ve 
+selected in the Color Management panel of the Project Settings.
+274
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
