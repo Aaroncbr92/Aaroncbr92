@@ -51,6 +51,6 @@ const tema = async (n, bloque) => {
 }
 
 return await pipeline(args.bloques,
-  b => args.desde ? null : A(`${BASE}\nFASE 1 · INVESTIGAR el bloque ${b.id}: temas ${b.temas.join(', ')}. ${b.nota}\nLo reutilizable ya está localizado (RTVE y común) y lo leerá el redactor: tú investiga SOLO lo que falta para cubrir el enunciado.${b.temas.map(n => reuso(n) ? `\nTema ${n}:${reuso(n)}` : '').join('')}\nMaterial denso con la fuente y la cita literal pegadas a cada dato, por tema y epígrafe, y lo que no pudiste confirmar. Escríbelo según avances en ${INF}-investigacion-${b.id}.md. SI ESE FICHERO YA EXISTE, léelo, compléta solo lo que falte y no repitas lo hecho.`, { label: `investigar ${b.id}`, phase: 'Investigar' }),
+  b => args.desde ? Promise.resolve('sin investigar') : A(`${BASE}\nFASE 1 · INVESTIGAR el bloque ${b.id}: temas ${b.temas.join(', ')}. ${b.nota}\nLo reutilizable ya está localizado (RTVE y común) y lo leerá el redactor: tú investiga SOLO lo que falta para cubrir el enunciado.${b.temas.map(n => reuso(n) ? `\nTema ${n}:${reuso(n)}` : '').join('')}\nMaterial denso con la fuente y la cita literal pegadas a cada dato, por tema y epígrafe, y lo que no pudiste confirmar. Escríbelo según avances en ${INF}-investigacion-${b.id}.md. SI ESE FICHERO YA EXISTE, léelo, compléta solo lo que falte y no repitas lo hecho.`, { label: `investigar ${b.id}`, phase: 'Investigar' }),
   (_, b) => parallel(b.temas.map(n => () => tema(n, b)))
 )
