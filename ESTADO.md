@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-26 (Canal Sur · específicos: 4 puestos cerrados, Productor/a casi)
+**Última actualización:** 2026-09-26 (Canal Sur · específicos: 5 puestos cerrados)
 
 ## Qué es esto
 
@@ -1851,21 +1851,9 @@ con los datos de cada puesto en `informes/canal-sur-especificos/PP-args.json` (s
 | 08 Cámara Operador | 21 | 17 | cerrado | `libro-canal-sur-08-camara.*` (436 pp.) |
 | 28 Operador/a de Sonido | 21 | 16 | cerrado | `libro-canal-sur-28-sonido.*` (402 pp.) |
 | 30 Operador/a Montador/a de Vídeo | 17 | 16 | cerrado | `libro-canal-sur-30-montador.*` (397 pp.) |
-| 32 Productor/a | 14 | 15 | **a medias** (ver abajo) | — |
+| 32 Productor/a | 14 | 15 | cerrado | `libro-canal-sur-32-productor.*` (483 pp.) |
 
-### Productor/a: dónde se quedó (parado a petición del titular, 26-09-2026)
-
-- Hecho en los 15 temas: redacción, verificación, refutación (15 preguntas) y remate.
-- Segunda revisión (5 bis) hecha en 01, 03, 04, 05, 06, 08, 09, 10, 11 y 12. **Falta comprobar
-  02, 07, 13, 14 y 15**: mirar en `32-TNN-remate.md` si el remate amplió; si amplió y no hay
-  `32-TNN-final.md`, hacer la 5 bis. El workflow se paró en marcha: revisar también que ningún
-  remate haya quedado a medias.
-- Esquemas hechos del 01 al 11. **Faltan 12, 13, 14 y 15.**
-- Después: `indice.py` sobre los temas, añadir `BLOQUES["canal-sur-32-productor"]` en `libro.py`
-  (con `_puesto_canal_sur`) y montar el volumen.
-- Para continuar: `informes/canal-sur-especificos/32-args.json` con `desde` ajustado (`esquema`
-  para los que sólo necesiten esquema). **No reanudar con `resumeFromRunId`**: relanza casi todo
-  (ver `informes/canal-sur-comun/CICLO.md`).
+Cinco puestos cerrados: 134 de las 228 plazas (59 %) tienen ya temario completo, común y específico.
 
 Siguiente puesto por plazas: 33 Realizador/a (8 plazas, 19 temas).
 
