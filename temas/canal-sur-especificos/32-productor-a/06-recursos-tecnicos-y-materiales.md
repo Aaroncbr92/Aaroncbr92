@@ -6,7 +6,7 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 6 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Sin norma que regule la materia. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, fichas de los puestos que operan los medios; Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y de CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021), §§ 221-225; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023); Carta del Servicio Público 2024-2029 (BOJA núm. 247, de 28/12/2023), artículo 27; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), 6.1, 8.1 y 9.9.1. Una norma legal: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, artículo 156.2. Dos reglamentos: Real Decreto 16/2023, de 17 de enero, artículo segundo; Real Decreto 250/2025, de 25 de marzo, artículo 10 y disposición derogatoria única. Normas técnicas: Recomendación UIT-R SNG.770-2 (01/2012); SMPTE ST 2110-10:2022. Lo demás, oficio declarado como tal |
+| **Fuente** | Sin norma que regule la materia. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, fichas de los puestos que operan los medios; Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y de CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021), §§ 221-225; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023); Carta del Servicio Público 2024-2029 (BOJA núm. 247, de 28/12/2023), artículo 27; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), 6.1, 8.1 y 9.9.1. Una norma legal: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, artículo 156.2. Dos reglamentos: Real Decreto 16/2023, de 17 de enero, artículo segundo; Real Decreto 250/2025, de 25 de marzo, artículo 10 y disposición derogatoria única. Normas técnicas: Recomendaciones UIT-R SNG.770-2 (01/2012) y V.431-8 (08/2015); SMPTE ST 12-1:2014 y ST 2110-10:2022. Lo demás, oficio declarado como tal |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El convenio está prorrogado sin modificación publicada; el Contrato-programa 2024-2026 está en su último año; el artículo 156 de la Ley 13/2022 conserva su redacción original; el artículo 7 del Real Decreto 391/2019, que fijó el paso a la alta definición, está derogado desde el 27/03/2025 por el Real Decreto 250/2025 |
 | **Extensión** | 15.000 palabras aproximadamente |
 
@@ -20,8 +20,8 @@ control unit*); programa (**PGM**) y previo (**PVW**); interfaz digital serie (*
 digital interface*) y su versión de alta definición (**HD-SDI**); protocolo de internet (**IP**);
 diodo emisor de luz (**LED**); haluros metálicos (**HMI**); alta definición (**HD**) y ultraalta
 definición (**UHD**); televisión digital terrestre (**TDT**); periodismo electrónico por satélite
-(**SNG**, *satellite news gathering*) y su versión digital (**DSNG**); periodismo electrónico con
-cámara (**ENG**, *electronic news gathering*); fibra hasta el hogar (**FTTH**, *fiber to the home*);
+(**SNG**, *satellite news gathering*) y su versión digital (**DSNG**); servicio fijo por satélite
+(**SFS**); periodismo electrónico con cámara (**ENG**, *electronic news gathering*); fibra hasta el hogar (**FTTH**, *fiber to the home*);
 producción remota multicámara (**MCRP**, *multi-camera remote production*); señal de programa menos
 uno (**N-1**); lista de decisiones de edición (**EDL**, *edit decision list*); regrabación
 automática de diálogos (**ADR**, *automated dialogue replacement*); gestión de activos de medios
@@ -55,8 +55,8 @@ qué es una PEL y qué hay dentro de una UM; qué es un zum, qué resolución ti
 soporte hace un travelling corto; qué micrófono necesita alimentación fantasma y cuál aguanta mejor
 el viento; qué mide el lux y qué el lumen, a cuántos kelvin está la luz de día, qué es la luz
 llave; qué es contribución y qué distribución, qué es el *uplink*, qué exige el DSNG según la
-UIT-R, qué necesita una producción remota; qué fases tiene el montaje, qué lleva una EDL, qué es el
-ADR y qué especifica un máster; qué es un *chyron*, una mosca y un faldón; quién hace la
+UIT-R y en qué bandas trabaja, qué necesita una producción remota; qué fases tiene el montaje, qué lleva una EDL, cómo se escribe el
+código de tiempo, qué es el ADR y qué especifica un máster; qué es un *chyron*, una mosca y un faldón; quién hace la
 continuidad en Canal Sur y cuánto tiempo hay que conservar lo emitido; qué dice la Carta del
 archivo; qué hace un MAM y un sistema de redacción; qué es Canal Sur Más. En la prueba práctica:
 hacer la previsión de medios de un programa en estudio o de una retransmisión, elegir la vía de
@@ -122,6 +122,7 @@ productor necesita saber de cada medio es qué pedir, a quién y qué cuesta en 
   - [Las vías de transporte](#las-vías-de-transporte)
   - [El enlace por satélite](#el-enlace-por-satélite)
   - [Lo que la UIT-R pide al equipo de satélite](#lo-que-la-uit-r-pide-al-equipo-de-satélite)
+  - [Las bandas de frecuencia del DSNG](#las-bandas-de-frecuencia-del-dsng)
   - [Las mochilas de agregación celular](#las-mochilas-de-agregación-celular)
   - [La producción remota multicámara](#la-producción-remota-multicámara)
   - [Los enlaces en la RTVA](#los-enlaces-en-la-rtva)
@@ -205,8 +206,8 @@ la RTVA con ese contenido está publicado.
 
 ### Los medios de la RTVA: lo que consta publicado
 
-El único inventario publicado es el que resume la Cámara de Cuentas en su informe de fiscalización
-del ejercicio 2018 (apartado 6.3.2, «Recursos tecnológicos»). Según el § 222, las inversiones han
+El único inventario publicado que se ha localizado es el que resume la Cámara de Cuentas en su
+informe de fiscalización del ejercicio 2018 (apartado 6.3.2, «Recursos tecnológicos»). Según el § 222, las inversiones han
 ido principalmente a:
 
 > **a) Centros de Producción gestionados por RTVA para albergar los espacios de trabajo, de
@@ -765,7 +766,7 @@ Cuatro puestos del anexo III reparten la iluminación: el Iluminador superior, q
 estilo de luz y determina personal y material (apartado primero); el Capataz de iluminación, que
 debe «**Organizar y distribuir adecuadamente a los equipos técnicos y humanos para los diferentes
 montajes de escenas de luces.**» y organiza «**el montaje y desmontaje y la correcta ubicación de
-los aparatos de iluminación tanto en estudios como en exteriores**»; y el Iluminador, que maneja
+los aparatos de iluminación tanto en estudios como en exteriores**»; el Iluminador, que maneja
 los aparatos y los pupitres durante el programa y hace la medición y el filtrado; y el Eléctrico
 de iluminación, que tiene por objeto «**Montar, desmontar, direccionar y mantener la iluminación
 de los programas, así como el mantenimiento de los equipos de iluminación.**»
@@ -924,6 +925,38 @@ activación no puede determinarse con gran antelación»** (considerando c). Eso
 unidad de satélite de un circuito permanente: no está contratada de antemano porque la noticia
 tampoco lo estaba.
 
+### Las bandas de frecuencia del DSNG
+
+La Recomendación UIT-R SNG.770-2 no impone una banda: **«Los sistemas DSNG pueden utilizar todas
+las bandas de frecuencia atribuidas a los enlaces ascendentes para el SFS.»** Pero, como el terminal
+tiene que llevar una antena pequeña para poder transportarse, **«Se prefiere la utilización de la
+banda de 14 GHz, para la que ya se dispone de tecnología suficiente.»** (anexo 1, 2.1.2). Al tratar
+de la coordinación con los enlaces terrenales, añade que **«La coordinación de frecuencias para los
+terminales DSNG resulta más difícil en la banda de 6 GHz»** y que **«Conviene utilizar bandas de
+frecuencias más altas (por ejemplo, 14 y 30 GHz) para facilitar el transporte y la coordinación.»**
+(anexo 1, 3.3). Y, al tratar de la conmutación a bordo, da un ejemplo de subida y bajada en
+bandas distintas: en algunos satélites puede ser posible conectar **«la capacidad del enlace ascendente en la banda de 14 GHz con los circuitos
+del enlace descendente en la banda de 4 GHz»** (anexo 1, 2.3).
+
+En el sector esas bandas se nombran por letras. La Recomendación UIT-R V.431-8 (08/2015),
+«Nomenclatura de las bandas de frecuencias», advierte que **«No existe actualmente una
+correspondencia normalizada entre las letras y las bandas de frecuencias, pues la misma letra puede
+designar varias bandas distintas»** y desaconseja usarlas en las publicaciones de la UIT, pero
+recoge **«a título informativo»** las designaciones más corrientes (nota 5 y cuadro 4). Las de las
+radiocomunicaciones espaciales:
+
+| Letra | Designación nominal | Ejemplos de bandas (GHz) |
+|---|---|---|
+| C | **Banda de 4/6 GHz** | 3,4-4,2; 4,5-4,8; 5,85-7,075 |
+| Ku | **Banda de 11/14 GHz**; **Banda de 12/14 GHz** | 10,7-13,25; 14,0-14,5 |
+| K | **Banda de 20 GHz** | 17,7-20,2 |
+| Ka | **Banda de 30 GHz** | 27,5-30,0 |
+
+Con una salvedad del mismo cuadro: **«En las radiocomunicaciones espaciales, las bandas K y Ka se
+designan frecuentemente por el símbolo Ka.»** Puestas juntas las dos Recomendaciones, la banda de
+14 GHz que la SNG.770-2 prefiere para el DSNG es la que el sector llama Ku; la de 4/6 GHz, la C, y
+la de 30 GHz, la Ka.
+
 ### Las mochilas de agregación celular
 
 Una mochila de agregación suma varias conexiones de telefonía móvil para conseguir un canal
@@ -1023,6 +1056,15 @@ La bisagra entre el *off-line* y el *on-line* es una lista: la EDL.
 Una EDL es la lista de las decisiones de un montaje: para cada corte, de qué fuente sale, con qué
 código de tiempo de entrada y de salida, en qué posición del montaje se coloca y con qué transición
 entra. Es el documento que permite rehacer un montaje en otro sistema y con el material original.
+
+El código de tiempo es la dirección de cada cuadro de la grabación. Lo define la norma SMPTE
+ST 12-1:2014, *Time and Control Code*: **«Each frame shall be identified by a unique and complete
+address consisting of an hour, minute, second, and frame number.»** Horas, minutos y segundos
+siguen un reloj de 24 horas, de 00:00:00 a 23:59:59; en los sistemas de 25 cuadros por segundo los
+cuadros se numeran **«successively 00 through 24»**, y el recuento con salto de cuadros (*drop
+frame*) no se aplica, porque **«is applicable only to 30-frame counting»** (5.2 y 6.2). El código se escribe
+en la forma horas:minutos:segundos:cuadros; el manual de DaVinci Resolve 21, por ejemplo, pide las
+duraciones en formato **«HH:MM:SS:FF»**.
 
 Una EDL no lleva todos los parámetros de una edición: lleva las fuentes, los códigos de tiempo, el
 orden y el tipo de transición, y deja fuera la corrección de color, los niveles de audio, la
@@ -1160,8 +1202,8 @@ Tres puestos del anexo III la reparten:
 - Locutor de continuidad: «**Realizar la locución de los elementos de continuidad de la
   emisión.**»
 
-La consecuencia para el productor: un programa grabado se entrega a emisiones, que lo recibe y lo
-comprueba antes de programarlo; un directo se coordina con el editor de continuidad, que controla
+La consecuencia para el productor: un programa grabado se entrega a emisiones, que recibe, comprueba
+y archiva el material programado; un directo se coordina con el editor de continuidad, que controla
 los tiempos de entrada y salida.
 
 ### Lo que hay que conservar de lo emitido
@@ -1527,6 +1569,8 @@ Las fuentes de la RTVA, el convenio y la Ley 13/2022 se leyeron el 25/09/2026, y
 convocatoria es el 24/09/2026; las fuentes son las mismas en las dos fechas). Los pasajes que citan
 la Recomendación UIT-R SNG.770-2, la norma SMPTE ST 2110-10:2022 y el capítulo de Manfredi (2010)
 se tomaron de temas ya cerrados de este mismo temario de Canal Sur, que los leyeron el 24/09/2026.
+En el remate (25/09/2026) se leyeron en su texto el anexo 1 de la SNG.770-2 (2.1.2, 2.3 y 3.3), la
+Recomendación UIT-R V.431-8, la norma SMPTE ST 12-1:2014 y el manual de DaVinci Resolve 21.
 
 | Fuente | Qué sostiene |
 |---|---|
@@ -1539,7 +1583,10 @@ se tomaron de temas ya cerrados de este mismo temario de Canal Sur, que los leye
 | Real Decreto 391/2019 (`BOE-A-2019-9513`), artículo 7, tres redacciones | Derogado desde el 27/03/2025 |
 | Real Decreto 250/2025 (`BOE-A-2025-6004`), redacción original, única | Disposición derogatoria única.1; artículo 10.1 y 10.2: requisitos de la emisión en HD |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004) | 6.1, la escaleta; 8.1, punto 6, los términos del directo; 9.9.1, el rótulo de archivo |
-| Recomendación UIT-R SNG.770-2 (01/2012), edición en español | Considerandos c), e) y g); recomienda 8 y 9; anexo 1, 1.1 y 2.2.1 |
+| Recomendación UIT-R SNG.770-2 (01/2012), edición en español | Considerandos c), e) y g); recomienda 8 y 9; anexo 1, 1.1, 2.1.2 (banda de 14 GHz preferida), 2.2.1, 2.3 (ejemplo 14/4 GHz) y 3.3 (6 GHz más difícil de coordinar; 14 y 30 GHz) |
+| Recomendación UIT-R V.431-8 (08/2015), «Nomenclatura de las bandas de frecuencias», edición en español | Nota 5 y cuadro 4: letras C, Ku, K y Ka, a título informativo y sin correspondencia normalizada |
+| SMPTE ST 12-1:2014, *Time and Control Code* | 5.2 y 6.2: dirección de cada cuadro en hora, minuto, segundo y cuadro; reloj de 24 horas; cuadros 00 a 24 en 25 cuadros por segundo; *drop frame* sólo en 30 cuadros |
+| DaVinci Resolve 21, manual de referencia (Blackmagic Design), cap. 58 | Forma de escritura «HH:MM:SS:FF» |
 | SMPTE ST 2110-10:2022 | Introducción: transporte IP de cada esencia por separado; base en VSF TR-03/TR-04 y AES67 |
 | Manfredi (2010), capítulo en obra colectiva de periodismo (Sevilla), p. 138 | Avid instalado en Canal Sur en 2010 |
 
@@ -1552,8 +1599,8 @@ la N-1; los tamaños de UM (número de cámaras orientativo), sus zonas y su ord
 aquí se dan como conocimiento del sector—, los soportes y las rótulas; la microfonía, la
 alimentación fantasma y el efecto Haas, cuyos intervalos son aproximados; las magnitudes de la
 luz, la escala de temperaturas de color (aproximada salvo 3.200 y 5.500-5.600 K), el esquema de
-tres puntos, la medición y los aparatos; las vías de transporte, el satélite, las mochilas y la
-producción remota; la postproducción, el montaje, la EDL, el sonido, el ADR y el máster; la familia
+tres puntos, la medición y los aparatos; las vías de transporte, el satélite (salvo las bandas, con fuente), las mochilas y la
+producción remota; la postproducción, el montaje, la EDL (salvo el código de tiempo, con fuente), el sonido, el ADR y el máster; la familia
 del grafismo; la continuidad y la distribución; los almacenamientos y la LTO; el MAM, el PAM, el
 sistema de redacción, el flujo integrado y las redes. Buena parte de ese oficio procede de
 temarios de RTVE que no citan fuente.

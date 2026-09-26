@@ -32,7 +32,8 @@ de trabajo, la orden de trabajo diaria, el parte de trabajo y el cronograma; qu�
 qué sale de él; en qué orden se hacen desglose, localización, presupuesto y plan de trabajo; qué es
 un diagrama PERT, qué es el camino crítico y qué es un diagrama de Gantt; cuál es el objetivo
 primordial de un plan de rodaje y qué criterios de agrupación siguen; qué dice el Libro de estilo
-sobre el rango y la prioridad de cada información, sobre las peticiones por escrito y sobre revisar
+sobre el rango y la prioridad de cada información, sobre el coste, sobre qué gestiones pasan
+siempre por Producción, sobre las peticiones por escrito y sobre revisar
 las situaciones previas; cómo define la UNE-ISO 31000 el riesgo y cuáles son las etapas de su
 proceso; qué es un registro de riesgos y un plan de contingencia; qué reprochó la Cámara de Cuentas
 a la RTVA en el seguimiento de objetivos y desviaciones. En la parte práctica: ordenar los
@@ -168,9 +169,11 @@ un **«Plan de Trabajo inicial»**, una **«Memoria de Contenidos»**, una **«E
 **«Relación de Medios Técnicos»** y una **«Relación de Recursos Humanos»**. Del plan de trabajo
 inicial se exigía: **«Distribución temporal del plan de producción del programa o serie»**,
 **«Desglose en preproducción, producción y postproducción»** y **«Fechas aproximadas de entrega de
-programas»**. Es la situación que la RTVA describió para 2018; no consta publicado el procedimiento
-vigente. Sirve, con esa cautela, para ver qué piezas tiene un plan de producción completo: contenido,
-medios técnicos, personas, calendario por fases y presupuesto.
+programas»**. Es la situación que la RTVA describió para 2018, en una alegación que la Cámara
+rotuló **«ALEGACIÓN NO ADMITIDA»**: lo no admitido fue el argumento de la entidad sobre la solvencia
+de las productoras, no la lista, que es descripción de la propia RTVA. No consta publicado el
+procedimiento vigente. Sirve, con esa cautela, para ver qué piezas tiene un plan de producción
+completo: contenido, medios técnicos, personas, calendario por fases y presupuesto.
 
 ## Análisis de necesidades
 
@@ -186,7 +189,9 @@ Y el segundo, que es ya el análisis de necesidades (punto 2): **«Producción, 
 recursos, tiene que disponer de un desglose detallado del asunto que se atiende, el espacio o
 espacios para los que hay que trabajar y en qué formatos: directos, enlaces, asistencias,
 aportaciones a desconexión, pactos con otras televisiones... La eficacia es más probable si se sabe
-pronto y exactamente lo que se quiere.»**
+pronto y exactamente lo que se quiere. Este es siempre un elemento clave pero lo es más en
+acontecimientos importantes y programados, que pueden ser planificados con sosiego y en los que, en
+general, hay que contratar asistencias ajenas.»**
 
 El tiempo de aviso es la primera necesidad del productor (4.4): **«Cuanto más pronto y con más
 detalle conozcan los productores una necesidad, mayor será el margen para acometer un trabajo
@@ -441,8 +446,9 @@ correspondiente a la producción.»**
 ### Las cuatro clases de recursos que el plan cuantifica
 
 El plan de producción reparte cuatro clases de recursos, que son las del enunciado del tema 2: humanos,
-técnicos, económicos y materiales. La ficha las nombra en tres tareas: la previsión de **«medios
-humanos y materiales»**; la negociación de las **«condiciones de contratación de los medios
+técnicos, económicos y materiales. La tabla de más abajo las agrupa de otro modo (oficio): junta
+técnicos y materiales, como el tema 6, y separa lo externo, que se contrata. La ficha las nombra en
+tres tareas: la previsión de **«medios humanos y materiales»**; la negociación de las **«condiciones de contratación de los medios
 técnicos, humanos y artísticos necesarios para la realización del programa»**; y el presupuesto.
 
 | Recurso | Qué fija el plan | Tema donde se desarrolla |
@@ -523,6 +529,13 @@ Y si la prioridad informativa choca con el coste (4.4.3): **«El productor es re
 presupuestariamente las demandas de los Servicios Informativos para poder equilibrar la obligación
 informativa con un coste adecuado. Cuando las posturas no puedan armonizarse decidirá la Dirección
 de los Servicios Informativos.»**
+
+El coste entra en la prioridad desde el principio (4.4.4, punto 5): **«El coste ha de contemplarse
+siempre. Es aceptable que un editor reclame lo mejor sin pensar en ello, pero el productor está
+obligado a gestionar los recursos adecuadamente, con un coste equilibrado, sin que se resienta la
+calidad de la información. Junto con el editor y el realizador debe acordar los términos en los que
+converjan la información correcta, según parámetros técnicos y periodísticos, bien colocada en
+escaleta y a un precio asumible.»**
 
 ### Priorizar con el camino crítico y con el riesgo
 
@@ -637,14 +650,26 @@ Las áreas que suelen entrar en un plan de producción de televisión (oficio):
 | Prevención | Evaluación y medidas preventivas | Qué se hace, dónde y con quién (temas 14 y 15) |
 | Programación, continuidad y medios digitales | Fechas de emisión y ventanas | Entregas en fecha y en formato (tema 9) |
 
-El Libro de estilo describe esa función de hilo conductor en informativos (4.4.4, punto 10):
+En informativos, el Libro de estilo sitúa al productor dentro de la decisión editorial (4.4):
+**«Cada productor adscrito a un espacio informativo, individualmente o integrado en el departamento,
+participa en la toma de decisiones al lado del equipo de edición y tiene que estar avisado al
+instante de sus intenciones, sobre todo en las asistencias no habituales que puedan ser previstas y
+planificadas.»** Y hace de Producción el paso obligado del gasto (encabezado de 4.4.4): **«Cualquier
+gestión que lleve aparejado un gasto o un compromiso, especialmente ante suministradores o
+proveedores ajenos, sólo podrá ejecutarse a través del Departamento de Producción, cuyas
+competencias se desarrollan a través de los siguientes pasos»**; los diez pasos se citan repartidos
+por los epígrafes de este tema.
+
+El mismo Libro describe la función de hilo conductor en informativos (4.4.4, punto 10):
 **«Los productores también son los encargados de coordinar y armonizar el proceso de
 planificación, realización y elaboración de los programas informativos desde las gestiones
 iniciales, generalmente surgidas de los periodistas o de la Dirección de los Servicios Informativos,
 hasta culminar con la emisión de la noticia, responsabilidad básica del realizador.»** Y lo que se
 canaliza siempre por producción (punto 9): **«Las localizaciones, asistencias externas, gestión de
 medios propios, permisos, seguros, acreditaciones... serán canalizadas siempre a través de los
-productores.»**
+productores. En lo que atañe al personal propio, hay que respetar los términos del convenio
+colectivo, así como las normas de contratación que rijan en cada momento para las relaciones con
+empresas ajenas a la RTVA.»**
 
 ### Por escrito y con constancia
 
@@ -792,7 +817,7 @@ Fuentes leídas el 25/09/2026:
 | Fuente | Qué sostiene |
 |---|---|
 | X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III: ficha 5331000 Productor/a (pág. 194) y ficha de Ayudante de producción | Objeto del puesto (plan de producción y presupuesto), previsión de medios, cierre y memoria, seguimiento técnico y económico, plan de trabajo, relación con terceros, contratación, PRL, coordinación del equipo; colaboración del ayudante en el plan, citaciones, archivo y seguimiento |
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., 2004, apartado 4.4 (4.4.1 a 4.4.4) | Función de Producción, antelación y peticiones por escrito, responsabilidades de planificación, rango y prioridad, rendimiento, economía, los diez pasos de las competencias |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., 2004, apartado 4.4 (4.4.1 a 4.4.4) | Función de Producción, antelación y peticiones por escrito, responsabilidades de planificación, rango y prioridad, rendimiento, economía, el gasto canalizado por Producción y los diez pasos de las competencias |
 | Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), cláusula tercera, apartado 3.24, punto 127 | Planificación estratégica y Plan Estratégico 2021-2026 |
 | Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021): §155 (fiscalización operativa), recomendación 306 y alegación nº 19 de la entidad (pág. 291-292) | Seguimiento de objetivos y desviaciones; documentación del RPA en 2018 |
 | Revista AENOR núm. 352, «Gestión global del riesgo con la UNE-ISO 31000», octubre de 2019 (revista.aenor.com), consultada el 25/09/2026; ficha de la norma UNE-ISO 31000:2018 en la tienda de AENOR (tienda.aenor.com), consultada el 25/09/2026 | Definición de riesgo, pasos del proceso, actividades transversales y tratamiento según el nivel del riesgo; título de la norma y equivalencia idéntica con la ISO 31000:2018 |

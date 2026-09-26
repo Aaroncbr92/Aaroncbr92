@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 8 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Lo propio de la casa: *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004); Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA, artículos 30 y 31; Carta del Servicio Público de la RTVA 2024-2029, artículo 16.3; X Convenio Colectivo de la RTVA, artículos 39 y 53. Normas: Reglamento General de Circulación (Real Decreto 1428/2003), artículo 55 y anexo II, artículos 2, 34 y 35; Reglamento de Ejecución (UE) 2019/947, artículos 3, 4, 5 y 14; Real Decreto 517/2024, artículos 8, 40 y 60; Real Decreto 393/2007, Norma Básica de Autoprotección, anexo I y norma 3.1; Ley 13/2022, artículo 101.3. Normas técnicas: Recomendación UIT-R SNG.770-2 (01/2012). Páginas oficiales: Junta de Andalucía (Agencia Digital de Andalucía), Dirección General de Tráfico y Cámara de Comercio de España. Lo demás, oficio declarado como tal |
-| **Redacción que se estudia** | La vigente el 24/09/2026. Del anexo II del Reglamento General de Circulación, los artículos 34 y 35 en la redacción vigente desde el 06/06/2026; del Real Decreto 517/2024, el artículo 40 en su redacción original, con la sección de registros (artículos 53 a 58) anulada por el Tribunal Supremo; del Reglamento (UE) 2019/947, el texto consolidado a 01/05/2025, en el que los artículos citados conservan su redacción original; la Norma Básica de Autoprotección (Real Decreto 393/2007), derogada desde el 11/07/2023 pero que sigue aplicándose hasta que se apruebe el instrumento que la sustituya; el Libro de estilo, en su única edición publicada |
-| **Extensión** | 11.700 palabras aproximadamente |
+| **Fuente** | Lo propio de la casa: *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004); Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA, artículos 30 y 31; Carta del Servicio Público de la RTVA 2024-2029, artículo 16.3; X Convenio Colectivo de la RTVA, artículos 39 y 53. Normas: Reglamento General de Circulación (Real Decreto 1428/2003), artículo 55 y anexo II, artículos 2, 34 y 35; Reglamento de Ejecución (UE) 2019/947, artículos 3 a 6 y 14; Real Decreto 517/2024, artículos 8, 40 y 60; Real Decreto 393/2007, Norma Básica de Autoprotección, anexo I y norma 3.1; Ley 13/2022, artículo 101.3. Normas técnicas: Recomendación UIT-R SNG.770-2 (01/2012). Páginas oficiales: Junta de Andalucía (Agencia Digital de Andalucía), Dirección General de Tráfico y Cámara de Comercio de España. Lo demás, oficio declarado como tal |
+| **Redacción que se estudia** | La vigente el 24/09/2026. Del anexo II del Reglamento General de Circulación, los artículos 34 y 35 en la redacción vigente desde el 06/06/2026; del Real Decreto 517/2024, el artículo 40 en su redacción original, con la sección de registros (artículos 53 a 58) anulada por el Tribunal Supremo; del Reglamento (UE) 2019/947, el texto consolidado a 01/05/2025, en el que los artículos citados conservan su redacción original, salvo el 5.5 (Reglamento de Ejecución (UE) 2020/639); la Norma Básica de Autoprotección (Real Decreto 393/2007), derogada desde el 11/07/2023 pero que sigue aplicándose hasta que se apruebe el instrumento que la sustituya; el Libro de estilo, en su única edición publicada |
+| **Extensión** | 12.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -368,12 +368,9 @@ resume quién autoriza:
   disposición de la autorización para rodajes audiovisuales concedida por la Dirección General de
   Tráfico (DGT).»**
 
-Y, en su página de ordenanzas y tasas de rodaje, añade que **«Las ordenanzas locales regulan el uso
-del espacio público, cortes de tráfico y tasas por rodaje.»** y que **«Los plazos de concesión,
-procedimientos administrativos e importes varían en función del territorio y tipo de
-producción.»** La misma página remite a las oficinas de rodaje (*film offices*) de cada provincia.
-Por eso el tema no da plazos ni tasas municipales: dependen de la ordenanza de cada ayuntamiento, y
-la producción los consulta en cada caso.
+La misma página remite a las oficinas de rodaje (*film offices*) de cada provincia. Como la
+autorización es municipal, el tema no da plazos ni tasas de rodaje: los fija cada ayuntamiento, y
+la producción los consulta en cada caso (oficio).
 
 ### Tráfico: rodar en la vía y cortarla
 
@@ -410,6 +407,14 @@ Su anexo II, reformado con vigencia desde el 6 de junio de 2026, regula en su se
   obligado a comunicar, por medios electrónicos, el inicio y fin efectivo de la afección a la
   circulación de la vía a la autoridad responsable de la gestión del Punto de Acceso Nacional en
   materia de tráfico y movilidad.»**
+- Documentación de la comunicación (artículo 34.3): **«La comunicación de las actividades requerirá
+  la aportación de la información o documentación establecida en el párrafo b) del artículo 2.3 de
+  la sección 1.ª, con excepción de lo establecido en el punto 2.º en relación con su punto 7.º,
+  únicamente será exigible el justificante de la contratación del seguro de responsabilidad civil a
+  que se refiere el artículo 14 de este anexo.»** Leído junto al artículo 2.3.b, que exige la memoria
+  de la prueba: se aporta esa memoria, con la excepción que el apartado hace de su punto 2.º (el
+  reglamento de la prueba), y, de los seguros del punto 7.º (responsabilidad civil y accidentes),
+  sólo el justificante del de responsabilidad civil.
 - Autorización del cierre (artículo 35): si la actividad precisa el cierre total o parcial, la
   autoridad **«deberá emitir resolución expresa autorizando o denegando dicho cierre»**, con las
   instrucciones de tráfico; **«Esta resolución se podrá emitir como máximo hasta el día antes del
@@ -478,7 +483,22 @@ La categoría «abierta» tiene sus condiciones en el artículo 4.1, y una de el
 en una retransmisión con público: la operación sólo es «abierta» si **«el piloto a distancia
 garantiza que la aeronave no tripulada se mantiene a una distancia segura de las personas y que no
 vuela sobre concentraciones de personas»** (letra c); también exige, entre otras, una masa máxima
-de despegue inferior a 25 kg (letra b). Lo que no cumple esas condiciones pasa a la «específica».
+de despegue inferior a 25 kg (letra b). Lo que no cumple esas condiciones pasa a la «específica»,
+salvo que entre en la «certificada».
+
+Artículo 6, apartado 1: «Las operaciones se clasificarán como operaciones de UAS en la categoría
+«certificada» únicamente cuando se cumplan los requisitos siguientes: a) el UAS está certificado
+con arreglo al artículo 40, apartado 1, letras a), b) y c), del Reglamento Delegado (UE) 2019/945;
+y b) la operación se realiza en cualquiera de las condiciones siguientes: i. implica volar sobre
+concentraciones de personas; ii. conlleva el transporte de personas; iii. conlleva el transporte de
+mercancías peligrosas que pueden entrañar un riesgo elevado para terceros en caso de accidente».
+El apartado 2 añade la operación que la autoridad competente, tras la evaluación del riesgo del
+artículo 11, considera que no puede atenuarse sin certificar el UAS y el operador y, en su caso, sin licencia
+del piloto a distancia. Por tanto, volar
+sobre concentraciones de personas con un UAS certificado es categoría «certificada»; con uno que no
+lo está, no cabe en la «abierta» y va a la «específica», salvo que la autoridad, por ese apartado 2,
+la lleve a la «certificada». Este tema no desarrolla los requisitos de la «certificada» más allá de
+los que enumera el artículo 3.c.
 
 Artículo 5, apartado 1: «Cuando no se cumpla uno de los requisitos establecidos en el artículo 4 o
 en la parte A del anexo, el operador de UAS deberá solicitar una autorización operacional, de
@@ -502,8 +522,10 @@ juguete conforme con esa directiva, que no es el caso de un equipo de rodaje pro
 «específica» se registra siempre.
 
 Lo que eso significa para producción: en la categoría «abierta» no hay autorización previa, pero
-tampoco se vuela sobre concentraciones de personas; en la «específica», el operador necesita autorización de la autoridad competente, y la pide con una
-evaluación del riesgo y sus medidas de atenuación; y el registro es del operador. La autoridad
+tampoco se vuela sobre concentraciones de personas; en la «específica», el operador necesita, por
+regla general, autorización operacional de la autoridad competente, y la pide con una evaluación del
+riesgo y sus medidas de atenuación, salvo que la operación se ajuste a un escenario estándar: entonces
+basta una declaración del operador y no necesita autorización operacional (artículo 5.5); y el registro es del operador. La autoridad
 competente en España la designa el RD 517/2024 (artículo 60.1): **«la Agencia Estatal de Seguridad
 Aérea es la autoridad competente para llevar a cabo las tareas de su artículo 18, a excepción de la
 tarea recogida en la letra f), así como para ejercer las demás competencias sobre utilización de
@@ -534,7 +556,11 @@ Allí rigen, entre otras, dos reglas:
   de UAS sujetos a la obligación de registrarse como tales que pretendan llevar a cabo operaciones
   de UAS en entornos urbanos o sobre concentraciones de personas, deberán comunicarlo previamente
   al Ministerio del Interior con una antelación mínima de cinco días naturales respecto a la fecha
-  prevista para el inicio de la operación.»** Y **«Las autoridades competentes en materia de
+  prevista para el inicio de la operación.»** La misma comunicación puede agrupar varias
+  operaciones: **«Esta comunicación podrá contener cuantas operaciones se vayan a desarrollar en
+  los cinco días naturales siguientes a la fecha de inicio de las operaciones previstas en dicha
+  comunicación, debiendo el operador indicar la fecha y la franja horaria concreta con la
+  suficiente delimitación de cada una de las operaciones a ejecutar.»** Y **«Las autoridades competentes en materia de
   seguridad pública en el ámbito territorial de la operación podrán limitar o prohibir su
   realización cuando pueda dar lugar a graves riesgos para la protección de personas o bienes.»**
 - Distancia en categoría «abierta» (artículo 40.3.b): el piloto no sobrevuela edificios, casas ni
@@ -564,7 +590,9 @@ producción (oficio):
    que ocupa la vía, los cinco días naturales de la comunicación de un dron en entorno urbano, los
    que fije cada ordenanza.
 4. Presentar las solicitudes con la documentación (memoria, planos, horarios, seguro de
-   responsabilidad civil, si se pide).
+   responsabilidad civil, si se pide; en la comunicación de un evento que ocupa la vía, la memoria
+   y el justificante del seguro que exige el artículo 34.3 del anexo II del Reglamento General de
+   Circulación).
 5. Guardar las autorizaciones y llevarlas encima el día de la grabación.
 6. Comunicar a todo el equipo las condiciones que imponga la autorización.
 
@@ -709,9 +737,7 @@ instrucciones de emergencia del recinto.
 Los seguros son una de las gestiones que el Libro de estilo manda canalizar siempre a través de los
 productores (4.4.4, punto 9, citado en la primera rúbrica). Para el personal propio, el convenio
 (artículo 39, seguro de vida e invalidez) da a todo el personal una póliza colectiva de vida e
-invalidez.
-
-Y compromiso de establecer un seguro para desplazamientos a zonas de riesgo, conflictos, guerras,
+invalidez. El mismo artículo añade el compromiso de establecer un seguro para desplazamientos a zonas de riesgo, conflictos, guerras,
 catástrofes y zonas radiactivas, con asistencia médica y repatriación.
 
 A eso se suman, como oficio, el seguro del material que sale del centro, el de responsabilidad
@@ -1056,7 +1082,10 @@ andaluza, con una unidad móvil, cámaras en recorrido y un plano aéreo con dro
 3. Dron: la ciudad es entorno urbano y la procesión, una concentración de personas: comunicación
    al Ministerio del Interior con cinco días naturales de antelación; y, como la categoría «abierta»
    no permite volar sobre concentraciones de personas, la operación sobre la procesión es
-   «específica», con autorización operacional de AESA, registro y seguro del operador.
+   «específica», con autorización operacional de AESA, registro y seguro del operador (sería
+   «certificada» si el UAS estuviera certificado: artículo 6.1 del Reglamento (UE) 2019/947). Si
+   hay varios vuelos en los cinco días naturales siguientes a la fecha de inicio, una sola
+   comunicación puede agruparlos, con la fecha y la franja horaria de cada uno (artículo 40.3.a).
 4. Seguridad: integrarse en el dispositivo de seguridad del acto, sin ocupar vías de evacuación;
    si el acto está obligado a plan de autoprotección, pedir sus condiciones.
 5. Telecomunicaciones: fibra si el recinto la tiene, enlace de microondas o satélite; y mochila
@@ -1094,8 +1123,8 @@ andaluzas.**
 |---|---|---|
 | Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | Artículos 30 y 31 | Vigente el 24/09/2026 |
 | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | Artículo 101.3 | Vigente el 24/09/2026 |
-| Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación | Artículo 55.1; anexo II, artículos 2.1 y 2.3 (redacción original) y 34 y 35 (redacción vigente desde el 06/06/2026) | Vigente el 24/09/2026 |
-| Reglamento de Ejecución (UE) 2019/947 de la Comisión, de 24 de mayo de 2019 | Artículos 3, 4.1, 5 y 14 | Texto consolidado a 01/05/2025 (los artículos citados, en su redacción original) |
+| Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación | Artículo 55.1; anexo II, artículo 2 (apartados 1 a 4, redacción original) y 34 y 35 (redacción vigente desde el 06/06/2026) | Vigente el 24/09/2026 |
+| Reglamento de Ejecución (UE) 2019/947 de la Comisión, de 24 de mayo de 2019 | Artículos 3, 4.1, 5, 6 y 14 | Texto consolidado a 01/05/2025 (los artículos citados, en su redacción original, salvo el 5.5, en la del Reglamento de Ejecución (UE) 2020/639) |
 | Real Decreto 517/2024, de 4 de junio | Artículos 8, 40 y 60.1; nulidad de los artículos 53 a 58 (sección 3.ª del capítulo VI) | Vigente el 24/09/2026 |
 | Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección | Norma 3.1; anexo I, apartados 1.d y 2.g | Derogada por el Real Decreto 524/2023 con efectos de 11/07/2023; sigue aplicándose hasta que se apruebe el instrumento que la sustituya |
 | Real Decreto 524/2023, de 20 de junio, Norma Básica de Protección Civil | Disposición derogatoria única, 2.d | Vigente el 24/09/2026 |

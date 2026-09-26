@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 9 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Sin norma que regule la producción multiplataforma. Lo propio de la casa: Contrato-programa 2024-2026 entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA (BOJA núm. 245, de 26/12/2023), «Manifiestan», apartado 4; cláusula tercera, puntos 9, 12, 29, 43, 45 a 50, 92 a 95 y 103; cláusula cuarta, punto 9; Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023), artículos 7 y 13.9; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), capítulos 3, 4, 5 y 8. Leyes: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, artículos 2, 101, 102, 104, 105 y 156; Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía, artículos 9, 31.1.i) y disposición transitoria primera; y, por remisión, Ley 18/2007 (artículo 29 y disposición adicional segunda) y Ley 11/2023. Documentos técnicos: EBU R 128-2023 y su suplemento R 128 s2-2023; AES TD1008.1.21-9; RFC 8216. Documentación de plataforma: ayuda de YouTube y requisitos de audio de Apple Podcasts. Lo demás, oficio declarado como tal |
+| **Fuente** | Sin norma que regule la producción multiplataforma. Lo propio de la casa: Contrato-programa 2024-2026 entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA (BOJA núm. 245, de 26/12/2023), «Manifiestan», apartado 4; cláusula tercera, puntos 9, 12, 29, 43, 45 a 50, 92 a 95 y 103; cláusula cuarta, punto 9; Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023), artículos 7 y 13.9; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), capítulos 3, 4, 5 y 8. Leyes: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, artículos 2, 101, 102, 104, 105 y 156; Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía, artículos 9, 31.1.i) y disposición transitoria primera; y, por remisión, Ley 18/2007 (artículo 29 y disposición adicional segunda) y Ley 11/2023. Documentos técnicos: EBU R 128-2023 y sus suplementos R 128 s2-2023 y R 128 s3-2023; AES TD1008.1.21-9; RFC 8216. Documentación de plataforma: ayuda de YouTube y requisitos de audio de Apple Podcasts. Lo demás, oficio declarado como tal |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Contrato-programa 2024-2026 está en su último año; la Carta rige para 2024-2029; el Libro de estilo, en su única edición publicada; de cada documento técnico, la edición citada en «Trazabilidad»; las páginas de ayuda de las plataformas, tal como estaban el 25/09/2026 (son páginas vivas y cambian) |
-| **Extensión** | 15.800 palabras aproximadamente |
+| **Extensión** | 16.300 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -33,7 +33,9 @@ Society*) y sus documentos técnicos (**TD**); Unión Internacional de Telecomun
 inglés **ITU**);
 peticiones de comentarios (**RFC**, *Request for Comments*), serie de documentos de internet;
 retransmisión en directo por HTTP (**HLS**, *HTTP Live Streaming*), sobre el protocolo de
-transferencia de hipertexto (**HTTP**); protocolo de mensajería en tiempo real (**RTMP**, *Real
+transferencia de hipertexto (**HTTP**); localizador uniforme de recursos (**URL**, *uniform resource
+locator*); capa de conexión segura (**SSL**, *secure sockets layer*) y su sucesora, la seguridad de la
+capa de transporte (**TLS**, *transport layer security*); protocolo de mensajería en tiempo real (**RTMP**, *Real
 Time Messaging Protocol*) y su versión segura (**RTMPS**); transporte seguro y fiable (**SRT**, *Secure Reliable Transport*);
 unidades de sonoridad relativas a la escala completa (**LUFS**; **LKFS** es el mismo valor con otro
 nombre) y unidad de sonoridad (**LU**); decibelios de pico verdadero (**dBTP**) y relativos a la
@@ -42,7 +44,7 @@ escala completa (**dBFS**, que Apple escribe «dB **FS**»); codificación de au
 los modelos de vídeo a petición por suscripción (**SVOD**, *subscription video on demand*), con
 publicidad (**AVOD**, *advertising video on demand*) y por transacción (**TVOD**, *transactional
 video on demand*), y la televisión lineal gratuita con publicidad por internet (**FAST**, *free
-ad-supported streaming television*); MP3,
+ad-supported streaming television*); Universidad Miguel Hernández de Elche (**UMH**); MP3,
 MP4, H.264, WAV y FLAC son nombres de uso de formatos, contenedores y códecs, no siglas que se
 desarrollen aquí. «El Contrato-programa» es el de 2024-2026; «la Carta», la del Servicio Público
 2024-2029; «el Libro de estilo», el de Canal Sur Televisión de 2004.
@@ -620,9 +622,34 @@ línea, que es la misma señal de antena; el programa entero o por secciones a p
 plataforma de pódcast; y los cortes o piezas sueltas para la web y las redes, a menudo con imagen
 fija o con vídeo del estudio. Los dos primeros se estudian en «*Streaming*» y en «Podcast».
 
-La sonoridad propia de la radio la trata la UER en documentos que no se han leído para este tema: la
-EBU R 128 remite para ella a su suplemento **«EBU R 128 s3»** y a la **«EBU Tech 3401»**
-(recomendación s). Sus cifras no se dan aquí.
+La sonoridad propia de la radio la trata la UER en su suplemento **«EBU R 128 s3»** (*Loudness in
+Radio*, noviembre de 2023), al que remite la EBU R 128 (recomendación s). Su punto de partida:
+**«The key concept is the clear differentiation between the production and the distribution
+realm.»**
+
+Para la producción recomienda:
+
+- **«h) that programmes shall be produced or prepared according to EBU R 128 and EBU Tech 3343 [...],
+  that is with an average loudness level of −23.0 LUFS [...]. The True Peak Level of a programme shall
+  not exceed −1 dBTP. For tolerances refer to [1]»**; la referencia [1] es la propia EBU R 128
+  (epígrafe «Televisión»);
+- **«i) that, consequently, internal and external programme exchange shall be performed with these
+  key values in place (−23.0 LUFS and −1 dBTP)»**.
+
+Para la distribución, la cifra por defecto es la misma: **«k) that by default, Radio stations should
+aim to broadcast their programmes according to EBU Tech 3344 [...], that is at a Distribution
+Loudness Level of −23.0 LUFS»**. Pero admite otra: **«n) that, generally, a Distribution Loudness
+Level deviating from −23.0 LUFS should be chosen within the range of −20.0 to −16.0 LUFS»**. La
+radio por internet va por el suplemento del *streaming*: **«p) that broadcasters should perform
+Radio Streaming in accordance with EBU R 128 s2»** (epígrafe «La sonoridad del *streaming*»). Y el resto
+de procesos de audio de la producción y la distribución de radio, a la **«EBU Tech 3401»** (*Guidelines for Radio production & distribution in accordance with
+EBU R 128*, noviembre de 2023), recomendación s) del suplemento, cuyo contenido no se desarrolla
+aquí.
+
+Para el Productor/a, la consecuencia es de entrega: el programa o la pieza de radio, se haga dentro
+o se encargue fuera, se produce a −23 LUFS y sin pasar de −1 dBTP (recomendaciones h e i); el nivel al
+que después sale por antena o por internet es una decisión de distribución. Qué nivel de
+distribución aplica Canal Sur Radio no consta en un documento publicado.
 
 ## Web
 
@@ -1389,8 +1416,12 @@ testimonios. El recorrido de producción (los pasos son oficio; los datos, de lo
   transitoria primera (por remisión).
 - Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por
   la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA): artículo 29 y
-  disposición adicional segunda; y Ley 11/2023 (las dos, por remisión al tema 11 del específico de
-  Operador/a Montador/a de Vídeo).
+  disposición adicional segunda; y Ley 11/2023, de 8 de mayo, de trasposición de Directivas de la
+  Unión Europea en materia de accesibilidad de determinados productos y servicios, migración de
+  personas altamente cualificadas, tributaria y digitalización de actuaciones notariales y
+  registrales; y por la que se modifica la Ley 12/2011, de 27 de mayo, sobre responsabilidad civil
+  por daños nucleares o producidos por materiales radiactivos (las dos, por remisión al tema 11 del
+  específico de Operador/a Montador/a de Vídeo).
 - Contrato-programa 2024-2026 entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA (BOJA
   núm. 245, de 26/12/2023): «Manifiestan», apartado 4; cláusula tercera, puntos 9, 12, 29, 43, 45,
   46, 47, 48, 49, 50, 92, 93, 94, 95 y 103; cláusula cuarta, punto 9.
@@ -1403,8 +1434,8 @@ testimonios. El recorrido de producción (los pasos son oficio; los datos, de lo
   Tampoco una guía de estilo de Canal Sur o de Canal Sur Media para redes, ni un procedimiento
   publicado entre producción y Canal Sur Media.
 - Las especificaciones oficiales de Instagram, TikTok, Facebook y X: no leídas; no se dan.
-- La sonoridad que aplica Canal Sur a su *streaming* y a su pódcast, y los documentos de la UER
-  sobre la sonoridad en radio (EBU R 128 s3 y EBU Tech 3401): no leídos.
+- La sonoridad que aplica Canal Sur a su *streaming*, a su pódcast y a su radio: no publicada. El
+  desarrollo de la EBU Tech 3401, guía de la UER para la radio: no leído.
 - Qué protocolos, plataformas y codificadores usa Canal Sur para distribuir por internet, y qué
   modelo de mochila usa CSRTV: no publicados.
 - Los datos de España del *Digital News Report 2026*: no leídos.
@@ -1429,9 +1460,10 @@ fuentes son las mismas en ambas fechas).
 | Fuente | Qué sostiene |
 |---|---|
 | Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), leído en su texto del BOJA | «Manifiestan» 4 (pódcast como servicio sonoro a petición); cláusula tercera, puntos 9, 12, 45, 46, 47, 48, 49, 50 y 103 (y, por remisión a temas cerrados, 29, 43 y 92 a 95); cláusula cuarta, punto 9 (costes de la radio en 2024) |
-| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023) | Artículo 7.6 (HD exclusiva desde el 14/02/2024); 7.2 y 7.7, por remisión |
+| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023) | Artículo 7.1 (pódcast en la expansión digital), 7.2 (redes y plataformas de intercambio de vídeo), 7.6 (HD exclusiva desde el 14/02/2024) y 7.7 («podrán ser instadas»); 13.9 (subtitulado de los informativos) |
 | *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), a través de temas cerrados del específico de Cámara Operador | 3.17.1.5, 4.4, 4.4.1, 4.4.4, 5.2, 5.3.1, 5.4, 5.6, 8.1.6, 8.3 y 8.3.3. Es un documento de 2004 y no trata internet |
 | EBU R 128-2023 (Ginebra, noviembre de 2023) | −23 LUFS y tolerancia de ±1 LU (recomendación h); remisión a R 128 s2, R 128 s3 y Tech 3401 (recomendaciones r y s) |
+| EBU R 128 s3-2023, *Loudness in Radio* (Ginebra, noviembre de 2023; primera edición, junio de 2021), leída el 25/09/2026, y portada de EBU Tech 3401 (noviembre de 2023) | Sonoridad de la radio: concepto de partida; recomendaciones h, i, k, n, p y s |
 | EBU R 128 s2-2023, *Loudness in Streaming* (noviembre de 2023) | Contexto de las plataformas; considerandos a y b; recomendaciones d a h |
 | AES TD1008.1.21-9 (24/09/2021) y Apple, *Audio requirements – Apple Podcasts for Creators*, a través del tema 7 del específico de Operador/a de Sonido | Sonoridad y formato del pódcast y de la radio por internet |
 | RFC 8216 (agosto de 2017) y ayuda de YouTube sobre emisión en directo, a través de los temas 7 de Operador/a de Sonido y 13 de Cámara Operador | *Streaming*, HLS, RTMP, URL y clave de emisión |

@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 12 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía; Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (artículos 2, 17, 26 y 70); Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (artículos 36, 63, 116, 118, 153, 335 y 346); Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía (artículos 3 y 15); Estatuto de los Trabajadores (artículos 34.9 y 35.5); X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (1.ª ed., 2004), apartado 4.4; Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV del ejercicio 2018 (BOJA núm. 36, de 23/02/2021); además, Ley 9/2007 (artículos 50 y 52), Orden TAS/2926/2002 y Contrato-programa 2024-2026 (cláusula octava). Lo demás, oficio |
+| **Fuente** | Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía; Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (artículos 2, 17, 26 y 70); Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (artículos 36, 37, 63, 116, 118, 120, 153, 317, 318, 335 y 346); Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía (artículos 3 y 15); Estatuto de los Trabajadores (artículos 34.9 y 35.5); X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (1.ª ed., 2004), apartados 4.4, 5.3.3 y 9.9.1; Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV del ejercicio 2018 (BOJA núm. 36, de 23/02/2021); además, Ley 9/2007 (artículos 50 y 52), Orden TAS/2926/2002 y Contrato-programa 2024-2026 (cláusula octava). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Libro de estilo es de 2004 y la fiscalización describe la situación de 2018: se citan con su fecha |
-| **Extensión** | 12.700 palabras aproximadamente |
+| **Extensión** | 13.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -123,7 +123,7 @@ documental en dos sitios con casi las mismas palabras. En las definiciones (art�
 documentos, para garantizar el acceso y uso de los mismos, así como para la configuración del
 Patrimonio Documental de Andalucía. La gestión documental tiene un carácter transversal, ya que
 participan en la misma todas las personas responsables de la gestión administrativa y se aplica a
-todos los ámbitos de actividad.»** Y en el artículo 53, que añade que esas funciones se aplican
+todos los ámbitos de actividad.»** Y en el artículo 53, que dice que esos procesos se aplican
 **«con carácter transversal»**.
 
 El artículo 54.1 enumera sus funciones: **«la identificación, la valoración, la organización, la
@@ -149,7 +149,7 @@ la gestión documental es el medio y la trazabilidad, el resultado.
 
 ### Quién lleva los papeles: la ficha del Productor/a y la del Ayudante
 
-La ficha del Productor/a no nombra la gestión documental, pero todas sus tareas producen documentos:
+La ficha del Productor/a no nombra la gestión documental, pero buena parte de sus tareas producen documentos:
 **«Realizar la previsión de medios humanos y materiales necesarios para la creación de un programa
 en coordinación con el director y/o el realizador del mismo.»**; **«Elaborar, gestionar y cerrar el
 presupuesto y posterior memoria de los programas tanto si se realiza con medios propios como
@@ -172,9 +172,11 @@ ayudantes, responde de que la documentación exista, esté completa y cierre con
 El Libro de estilo añade la regla de forma, para informativos. Las peticiones a los productores,
 **«Salvo razones infrecuentes y de extremada urgencia»**, **«se cursarán por escrito, a través de
 los cauces ofimáticos habituales, y con la mayor precisión.»** (4.4). Y entre los diez pasos de las
-competencias de producción (4.4.4, punto 6): **«nunca se formularán de viva voz, sino por un medio
-del que quede constancia, sobre todo en asuntos de envergadura. El acuerdo final es obligatorio
-para todos.»** El apartado 4.4, antes de ese decálogo, sitúa en el productor **«las tareas administrativas ligadas a
+competencias de producción, el punto 6 del 4.4.4 extiende la regla a todo intercambio entre
+periodistas, técnicos y productores, con su salvedad: **«En la medida de lo posible, las propuestas
+e intercambios de información entre periodistas, técnicos y productores deben hacerse con fluidez:
+nunca se formularán de viva voz, sino por un medio del que quede constancia, sobre todo en asuntos
+de envergadura. El acuerdo final es obligatorio para todos.»** El apartado 4.4, antes de ese decálogo, sitúa en el productor **«las tareas administrativas ligadas a
 coberturas habituales o extraordinarias: acreditaciones, permisos, transporte, alojamiento,
 dietas...»** Es la base de la trazabilidad en la casa: lo que no está escrito no se puede seguir.
 
@@ -212,7 +214,20 @@ Lo que eso supone para quien maneja papeles de producción:
   productor que deja un programa entrega su documentación; no se la lleva ni la destruye.
 - Patrimonio: los documentos de titularidad pública del artículo 9, **«de cualquier época, recogidos
   o no en archivos»**, forman parte del Patrimonio Documental de Andalucía (artículo 15.1.a), y los
-  que lo integran son **«inalienables, imprescriptibles e inembargables»** (artículo 10.1).
+  documentos de titularidad pública que forman parte de él por esa letra son **«inalienables,
+  imprescriptibles e inembargables»** (artículo 10.1).
+- Eliminación: no la decide quien tiene los papeles. Corresponde a la Comisión Andaluza de
+  Valoración de Documentos (así se llama desde la redacción del artículo 31 dada por la Ley 1/2014,
+  vigente desde el 30 de junio de 2015; antes, «de Valoración y Acceso a los Documentos»): **«Dictaminar
+  la conservación de aquellos documentos que tengan interés para la Comunidad Autónoma y autorizar
+  la eliminación de aquellos otros que, extinguido su valor probatorio de derechos y obligaciones,
+  carezcan de ese interés, de acuerdo con el procedimiento que reglamentariamente se establezca.»**
+  (artículo 31.3.a), y **«Establecer los plazos de permanencia, custodia y control de los
+  documentos en los diferentes archivos.»** (31.3.c). Es infracción muy grave **«La eliminación de
+  documentos de titularidad pública prescindiendo de los procedimientos reglamentariamente
+  establecidos a los que se refiere el artículo 18.»** (artículo 71.b). Un productor que cierra un
+  programa no tira sus carpetas porque estén digitalizadas: las transfiere, y lo que se elimine lo
+  decide ese procedimiento.
 
 ### El ciclo de vida: de la oficina al archivo histórico
 
@@ -224,6 +239,29 @@ La ley define los archivos por la etapa del documento (artículo 2):
 | Central (2.h) | **«Unidad administrativa cuya función es la gestión documental aplicada a los documentos de los organismos a los que están adscritos, transferidos desde las unidades productoras o desde los archivos de oficina, hasta su transferencia al archivo intermedio.»** | Adonde va el expediente cerrado |
 | Intermedio (2.i) | **«Archivo cuya función es la gestión de los documentos transferidos desde los archivos centrales hasta su eliminación o transferencia a un archivo histórico para su conservación definitiva.»** | Donde se decide qué se conserva |
 | Histórico (2.j) | **«Archivo cuya función es la custodia y conservación de los documentos calificados como de conservación permanente.»** | Lo que queda para siempre |
+
+Cuándo pasa el documento de una etapa a la siguiente lo fija la misma ley:
+
+- Del archivo de oficina al central (artículo 38.2): las personas responsables de las unidades
+  administrativas velarán por que sus archivos de oficina **«custodien y conserven los documentos
+  de los procedimientos en fase de tramitación, hasta su transferencia al archivo correspondiente,
+  de acuerdo con los plazos establecidos por la Comisión Andaluza de Valoración y Acceso a los
+  Documentos o, en su defecto, al año de finalizado el correspondiente procedimiento.»** En los
+  procedimientos tramitados electrónicamente y, en general, en los documentos producidos por medios
+  electrónicos, **«los propios sistemas de tramitación tendrán, en
+  esta fase procedimental, el carácter de archivos de oficina.»** (38.4).
+- El archivo central de una entidad instrumental (artículo 43.3): **«En cada entidad instrumental
+  dependiente de la Administración de la Junta de Andalucía existirá un archivo central. Estos
+  archivos transferirán sus documentos al Archivo General de Andalucía, excepto los de aquellas
+  entidades cuyo ámbito de actuación sea una sola provincia, en cuyo caso lo harán al archivo
+  provincial intermedio correspondiente.»** Transfieren **«de acuerdo con los plazos establecidos
+  por la Comisión Andaluza de Valoración y Acceso a los Documentos o, en su defecto, en el plazo
+  que reglamentariamente se establezca»**, y en los expedientes electrónicos **«garantizarán la
+  cadena de custodia.»** (43.5).
+
+Los artículos 38 y 43 conservan el nombre original de la Comisión; desde el 30 de junio de 2015 el
+artículo 31, en la redacción que le dio la Ley 1/2014, la llama **«Comisión Andaluza de Valoración
+de Documentos»** (véase «Los documentos de la RTVA son documentos públicos»).
 
 En la RTVA, la ficha del Jefe de Departamento de Servicios Generales incluye **«Dirigir las
 actividades del Archivo Central de RTVA y SSFF, y mantener las relaciones oportunas con la
@@ -247,7 +285,10 @@ se entrega inventariada.
 
 Las cinco cualidades que la Ley 7/2011 quiere en el diseño de los documentos (artículo 54.2.c y,
 para la Junta, 57.b) son **«autenticidad, fiabilidad, integridad, disponibilidad y
-contextualización»**. Aplicadas a un papel de producción (oficio):
+contextualización»**. No son sólo un criterio de diseño: el artículo 11.1 las exige como requisito
+de validez. **«Los documentos de titularidad pública, a efectos de su validez, han de cumplir los
+requisitos de autenticidad, fiabilidad, integridad, disponibilidad y contextualización, de acuerdo
+con la normativa que sea de aplicación.»** Aplicadas a un papel de producción (oficio):
 
 | Cualidad | Qué pregunta responde | Ejemplo en producción |
 |---|---|---|
@@ -353,7 +394,8 @@ contratos de las Administraciones Públicas:
   g) la decisión de no dividir en lotes, en su caso.
 
 A quién se aplica: a la RTVA, que a efectos de contratación es Administración Pública según la
-Cámara de Cuentas (fiscalización de 2018); y a CSRTV
+Cámara de Cuentas (fiscalización de 2018; dos votos particulares del informe la consideran, en
+cambio, poder adjudicador no Administración Pública); y a CSRTV
 en sus contratos sujetos a regulación armonizada, porque el artículo 317 los somete a **«las
 Secciones 1.ª y 2.ª del Capítulo I del Título I del Libro II»**, donde está el 116. Para los
 contratos de CSRTV no sujetos a regulación armonizada rige el artículo 318, cuya letra a) permite
@@ -379,8 +421,8 @@ del gasto o la factura, no queda prueba de que el contrato existió en regla.
 
 ### Lo que la Cámara de Cuentas encontró en 2018
 
-La fiscalización de la RTVA y CSRTV del ejercicio 2018 (BOJA núm. 36, de 23/02/2021) es la única
-fuente publicada sobre cómo se documentaban los expedientes de la casa. Describe 2018; lo que se haya
+La fiscalización de la RTVA y CSRTV del ejercicio 2018 (BOJA núm. 36, de 23/02/2021) es, entre las
+fuentes leídas, la única que describe cómo se documentaban los expedientes de la casa. Describe 2018; lo que se haya
 corregido después no consta en las fuentes leídas.
 
 - El expediente disperso (punto 103): **«La celebración de contratos requiere de acuerdo al art.116
@@ -478,7 +520,15 @@ sólo exista en el correo de una persona.
 
 ### Cuándo existe el contrato: perfección y formalización
 
-Dos preceptos deciden qué papel hace nacer un contrato del sector público:
+La base es la forma escrita. El artículo 37.1 de la LCSP:
+**«Las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga,
+conforme a lo señalado en el artículo 120.1, carácter de emergencia.»** Para el productor, todo
+encargo a un proveedor tiene que constar por escrito; la única salvedad es la emergencia, que el
+artículo 120.1 reserva a cuando la Administración tenga que actuar de manera inmediata **«a causa de
+acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que
+afecten a la defensa nacional»**. La prisa de una grabación no es ninguno de esos supuestos.
+
+Sobre esa base, dos preceptos deciden qué papel hace nacer un contrato del sector público:
 
 - Artículo 36.1 de la LCSP: los contratos de los poderes adjudicadores, **«a excepción de los
   contratos menores»** y de los basados en un acuerdo marco o en un sistema dinámico de adquisición,
@@ -525,7 +575,8 @@ con lo que se va a imputar.
 
 ### Dónde queda constancia pública del contrato
 
-La trazabilidad de un contrato público no se queda en la casa. Hay cuatro registros externos:
+La trazabilidad de un contrato público no se queda en la casa. Hay cuatro sitios fuera de la casa
+donde queda constancia de él:
 
 1. El perfil de contratante (artículo 63 de la LCSP). Es el **«elemento que agrupa la información y
    documentos relativos a su actividad contractual al objeto de asegurar la transparencia y el
@@ -568,12 +619,12 @@ La trazabilidad de un contrato público no se queda en la casa. Hay cuatro regis
 4. El órgano de control externo (artículo 335 de la LCSP). Dentro de los tres meses siguientes a la
    formalización se remite al Tribunal de Cuentas **«u órgano externo de fiscalización de la
    Comunidad Autónoma»** una copia certificada del contrato con un extracto del expediente cuando el
-   precio de adjudicación excede de 600.000 euros en obras, concesiones y acuerdos marco, de 450.000
+   precio de adjudicación (en los acuerdos marco, el valor estimado) excede de 600.000 euros en obras, concesiones y acuerdos marco, de 450.000
    euros en suministros y de 150.000 euros en servicios y contratos administrativos especiales
    (335.1); del resto, incluidos los menores, una relación con adjudicatario, objeto y cuantía,
    salvo los menores de 5.000 euros pagados por anticipo de caja fija. Se comunican también las
-   modificaciones, prórrogas, variaciones de plazo y de precio, el importe final y la extinción
-   (335.2), y el órgano de control puede reclamar **«cuantos datos, documentos y antecedentes estime
+   modificaciones, prórrogas o variaciones de plazos, las variaciones de precio y el importe final,
+   la nulidad y la extinción normal o anormal (335.2), y el órgano de control puede reclamar **«cuantos datos, documentos y antecedentes estime
    pertinentes con relación a los contratos de cualquier naturaleza y cuantía.»** (335.3).
 
 El órgano externo en Andalucía:
@@ -738,7 +789,7 @@ a efectos de prueba, a una autorización que no existe.
 Toda obra ajena que entra en un programa (música, imágenes de archivo, fotografías, fragmentos de
 otras producciones) necesita su título: licencia, contrato de cesión o la cobertura de una entidad
 de gestión, según el caso (el régimen, en el tema 11). En la compra de programas, la documentación
-que la RTVA dijo exigir en 2018 para el RPA incluía un **«Documento de Propiedad Intelectual»** y un
+que la RTVA dijo exigir para el RPA (alegación a la fiscalización de 2018) incluía un **«Documento de Propiedad Intelectual»** y un
 **«Documento Disposición de Derechos»**. Como oficio, cada cesión se registra con su objeto, su
 titular, su ámbito (medios, territorios, número de pases), su plazo y su referencia de contrato, y
 se enlaza con la pieza que la usa: si al reemitir un programa no se sabe qué música lleva ni con qué
@@ -896,8 +947,8 @@ con que se ordena están en el tema 3.
 ### Los informes que exige la contratación
 
 Varios informes de la LCSP nacen en la producción, porque es quien conoce la necesidad. En la
-redacción de la ley los firma o los emite el órgano de contratación, pero su contenido técnico lo
-aporta quien pide el contrato (oficio; el reparto interno en la RTVA no está publicado):
+ley, el informe del contrato menor lo emite el órgano de contratación (118.2) y el expediente lo
+inicia él motivando la necesidad (116.1), pero su contenido técnico lo aporta quien pide el contrato (oficio; el reparto interno en la RTVA no está publicado):
 
 | Informe | Precepto | Qué dice |
 |---|---|---|
@@ -1030,7 +1081,7 @@ Y la Carta del Servicio Público de la RTVA 2024-2029:
   «**acceso gratuito**» para investigadores y comunidad universitaria, y protocolo de cesión para
   uso privado o comercial.
 
-El archivo lo gestiona en la RTVA el Departamento de Archivo y Documentación, cuya ficha de jefatura
+Del archivo audiovisual se ocupa en la RTVA el Departamento de Archivo y Documentación, cuya ficha de jefatura
 incluye **«Establecer criterios de selección y conservación de la documentación y del patrimonio
 audiovisual de la Comunidad Autónoma de Andalucía.»** Qué se conserva de cada programa lo decide ese
 criterio, no el productor; lo que corresponde al productor es entregar completo, identificado y a
@@ -1091,10 +1142,10 @@ su hora.
 
 | Norma | Preceptos | Para qué |
 |---|---|---|
-| Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía | 2 (a, g, h, i, j, m), 3.1.a, 9.2.d, 10.1, 12, 13.3, 15.1.a, 53, 54, 57.b | Documento, gestión documental, archivos por etapas, documentos de titularidad pública, custodia y transferencia |
+| Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía | 2 (a, g, h, i, j, m), 3.1.a, 9.2.d, 10.1, 11.1, 12, 13.3, 15.1.a, 31.3.a y c, 38.2 y 4, 43.3 y 5, 53, 54, 57.b, 71.b | Documento, gestión documental, archivos por etapas y plazos de transferencia, documentos de titularidad pública, requisitos de validez, custodia, transferencia y eliminación |
 | Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía | 50.1, 52 | Entidades instrumentales: agencias y sociedades mercantiles |
 | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas | 2, 17, 26.2, 70 | Ámbito, archivo electrónico, documento electrónico, expediente |
-| Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | 36.1, 63, 116, 118, 153, 317, 318.a, 335, 346 | Expediente de contratación y del contrato menor, perfección y formalización, perfil de contratante, remisión al órgano de control, Registro de Contratos |
+| Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | 36.1, 37.1, 63, 116, 118, 120.1, 153, 317, 318.a, 335, 346 | Prohibición de contratar verbalmente, expediente de contratación y del contrato menor, perfección y formalización, perfil de contratante, remisión al órgano de control, Registro de Contratos |
 | Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía | 3.1.c e i, 15.a | Publicación de los contratos |
 | Texto refundido del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015) | 34.9, 35.5 | Registro de jornada y de horas extraordinarias |
 | Orden TAS/2926/2002, de 19 de noviembre | 1 y 3 | Modelos del parte de accidente y sistema Delt@ |
@@ -1120,8 +1171,11 @@ su hora.
   producción, de parte, de orden de trabajo, de registro de permisos o autorizaciones, de cierre o
   de memoria; el procedimiento vigente del RPA y la vigencia de la Instrucción 1/2010 y de la
   Disposición nº 4 de 2016 (sólo constan en la fiscalización de 2018); cómo organiza la RTVA su
-  registro de jornada; cómo aplica la RTVA la Ley 7/2011 a su documentación de producción y qué
-  plazos de conservación tiene fijados para ella.
+  registro de jornada; cómo aplica la RTVA la Ley 7/2011 a su documentación de producción.
+- No se ha localizado si la Comisión Andaluza de Valoración de Documentos, a la que la Ley 7/2011
+  atribuye fijar los plazos de permanencia, custodia y control (artículo 31.3.c), ha dictado plazos
+  para las series documentales de producción de la RTVA; el tema no da ninguno. En defecto de
+  esos plazos, el archivo de oficina transfiere al año de finalizado el procedimiento (artículo 38.2).
 - No se han leído: las normas técnicas de gestión de documentos (serie UNE-ISO 15489), el Esquema
   Nacional de Interoperabilidad y sus normas técnicas (que cita el artículo 70.3 de la Ley 39/2015)
   ni el reglamento de desarrollo del Registro de Contratos del Sector Público. El tema no afirma nada
@@ -1134,15 +1188,15 @@ cambió entre ambas fechas):
 
 | Fuente | Qué sostiene |
 |---|---|
-| Ley 7/2011, de Documentos, Archivos y Patrimonio Documental de Andalucía (BOE-A-2011-18654), texto consolidado del BOE | Definiciones, ámbito, documentos de titularidad pública, inalienabilidad, custodia, transferencia, patrimonio documental, gestión documental y sus funciones |
+| Ley 7/2011, de Documentos, Archivos y Patrimonio Documental de Andalucía (BOE-A-2011-18654), texto consolidado del BOE | Definiciones, ámbito, documentos de titularidad pública, requisitos de validez, inalienabilidad, custodia, transferencia y sus plazos, archivo central de las entidades instrumentales, Comisión Andaluza de Valoración de Documentos, eliminación e infracción muy grave, patrimonio documental, gestión documental y sus funciones |
 | Ley 9/2007, de la Administración de la Junta de Andalucía (BOE-A-2007-19819), artículos 50 y 52 | Entidades instrumentales y su clasificación; personalidad pública de las agencias; sociedades sin ejercicio de autoridad |
 | Ley 39/2015 (BOE-A-2015-10565), artículos 2, 17, 26 y 70 | Ámbito, archivo electrónico, documento electrónico, expediente |
-| LCSP (BOE-A-2017-12902), artículos 36, 63, 116, 118, 153, 317, 318, 335 y 346 | Expediente, contrato menor, perfección, formalización, publicidad, remisión al órgano de control, Registro de Contratos |
+| LCSP (BOE-A-2017-12902), artículos 36, 37, 63, 116, 118, 120, 153, 317, 318, 335 y 346 | Forma escrita y su salvedad de emergencia, expediente, contrato menor, perfección, formalización, publicidad, remisión al órgano de control, Registro de Contratos |
 | Ley 1/2014, de Transparencia Pública de Andalucía (BOE-A-2014-7534), artículos 3 y 15 | Ámbito y publicación de contratos |
 | Estatuto de los Trabajadores (BOE-A-2015-11430), artículos 34.9 y 35.5 | Registro de jornada y de horas extraordinarias |
 | Orden TAS/2926/2002 (BOE-A-2002-22650), artículos 1 y 3 | Modelos de parte de accidente y Delt@ |
 | X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III: fichas de Productor/a, Ayudante de producción, Jefe de Departamento de Archivo y Documentación, Jefe de Departamento de Servicios Generales y Ayudante de unidades móviles; artículo sobre la incapacidad temporal (parte de baja) | Quién lleva cada documento |
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., 2004, apartados 4.4, 4.4.4 (puntos 1, 4, 6 y 9) y 9.9.1 | Peticiones por escrito y con constancia, cambios comunicados, situaciones previas, permisos canalizados por producción, rotulación de archivo |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., 2004, apartados 4.4, 4.4.4 (puntos 1, 4, 6 y 9), 5.3.3 y 9.9.1 | Peticiones por escrito y con constancia, cambios comunicados, situaciones previas, permisos canalizados por producción, código de tiempo, rotulación de archivo |
 | Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), cláusula octava, puntos 8 y 9 | Informes anuales de la RTVA |
 | Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV del ejercicio 2018 (BOJA núm. 36, de 23/02/2021): puntos 41, 46 a 52 y 103, recomendación 300 y alegación nº 19 | Circuito y documentación de los expedientes en 2018 y sus fallos |
 

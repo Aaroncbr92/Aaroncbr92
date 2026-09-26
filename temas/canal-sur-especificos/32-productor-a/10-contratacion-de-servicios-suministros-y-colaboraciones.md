@@ -7,8 +7,8 @@
 | **Bloque** | Temario específico de Productor/a · punto 10 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): test de teoría específica, test de aplicación práctica y prueba práctica del puesto |
 | **Fuente** | Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (`BOE-A-2017-12902`); Ley 60/2003, de 23 de diciembre, de Arbitraje (`BOE-A-2003-23646`), artículos 9, 11 y 43; Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`), artículos 19.2.e) y 26; X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III; Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023), artículos 23 y 24; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), cláusula tercera, puntos 34 y 43; Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004), apartado 4.4. Lo demás, oficio |
-| **Redacción que se estudia** | La vigente el 24/09/2026. De la Ley 9/2017: artículos 20, 21, 22 y 318 en la redacción aplicable desde el 01/01/2026; 29 y 168, desde el 01/01/2023; 217, desde el 19/10/2022; 159, desde el 01/01/2022; 125, desde el 23/04/2021; 118, desde el 06/02/2020; 116 y 215, desde el 06/11/2019; el resto de los artículos citados, en su redacción original (09/03/2018). De la Ley 60/2003: artículo 9, original; 11, desde el 07/10/2015; 43, desde el 10/06/2011 |
-| **Extensión** | 11.300 palabras aproximadamente |
+| **Redacción que se estudia** | La vigente el 24/09/2026. De la Ley 9/2017: artículos 20, 21, 22 y 318 en la redacción aplicable desde el 01/01/2026; 29 y 168, desde el 01/01/2023; 71, desde el 22/08/2024; 217, desde el 19/10/2022; 159, desde el 01/01/2022; 125, desde el 23/04/2021; 118, desde el 06/02/2020; 116 y 215, desde el 06/11/2019; el resto de los artículos citados, en su redacción original (09/03/2018). De la Ley 60/2003: artículo 9, original; 11, desde el 07/10/2015; 43, desde el 10/06/2011 |
+| **Extensión** | 12.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -36,7 +36,9 @@ prescripciones técnicas y cuándo se puede citar una marca («o equivalente»);
 vigentes (216.000 euros en servicios y suministros para las entidades que no son la Administración
 General del Estado); que los contratos de programas no son SARA sea cual sea su valor; quién es el
 responsable del contrato; el plazo de un mes para el acto de recepción o conformidad y el de treinta
-días para la liquidación; qué debe comunicar el contratista para subcontratar. En aplicación
+días para la liquidación; qué debe comunicar el contratista para subcontratar; las condiciones de
+aptitud del artículo 65; las penalidades por demora del artículo 193 (0,60 euros por cada 1.000 del
+precio, IVA excluido). En aplicación
 práctica: si un encargo cabe como contrato menor o se está troceando; cómo se redacta una
 prescripción sin cerrar la competencia; qué se hace cuando lo entregado no se ajusta a lo pedido;
 qué pasa si la productora contratada subcontrata una parte; a qué régimen se somete un contrato
@@ -70,6 +72,7 @@ calificación.
   - [Presupuesto base de licitación y valor estimado](#presupuesto-base-de-licitación-y-valor-estimado)
   - [Del presupuesto de producción al de licitación](#del-presupuesto-de-producción-al-de-licitación)
 - [Proveedores](#proveedores)
+  - [Quién puede ser proveedor: las condiciones de aptitud](#quién-puede-ser-proveedor-las-condiciones-de-aptitud)
   - [Cómo se elige al proveedor: el contrato menor](#cómo-se-elige-al-proveedor-el-contrato-menor)
   - [El fraccionamiento: la trampa práctica](#el-fraccionamiento-la-trampa-práctica)
   - [Por encima del contrato menor: los procedimientos](#por-encima-del-contrato-menor-los-procedimientos)
@@ -281,7 +284,10 @@ art.9 de la LCSP por lo que se regulan por las instrucciones y disposiciones int
 detalladas en el Anexo 9.5.**» Es una lectura de la Cámara, no una regla expresa de la ley. El
 artículo 9 trata del dominio público y del ámbito patrimonial, y su apartado 2 excluye «**los
 contratos de compraventa, donación, permuta, arrendamiento y demás negocios jurídicos análogos sobre
-bienes inmuebles, valores negociables y propiedades incorporales**»; no nombra los programas, y que
+bienes inmuebles, valores negociables y propiedades incorporales, a no ser que recaigan sobre
+programas de ordenador y deban ser calificados como contratos de suministro o servicios, que tendrán
+siempre el carácter de contratos privados y se regirán por la legislación patrimonial.**»; los únicos
+«programas» que nombra son los de ordenador, no los audiovisuales, y que
 la compra de producciones encaje en «propiedades incorporales» es la interpretación del informe.
 Para el examen: que los contratos de programas no son SARA lo dice el artículo 19.2.a); que estén
 excluidos de la ley no lo dice ningún artículo con esas palabras.
@@ -301,12 +307,15 @@ resultaren adecuadas en función de las necesidades de las programaciones audiov
 con la tipología de producciones que se establecen en la Carta del Servicio Público de la RTVA, con
 arreglo a estrictos y tasados criterios profesionales, con toma de decisiones de contratación
 adoptadas por órganos colegiados de la organización interna del grupo empresarial RTVA, y con la
-garantía para el sector del cumplimiento del principio de publicidad**». Punto 43: «**La RTVA y
+garantía para el sector del cumplimiento del principio de publicidad que asegure un conocimiento
+previo por parte de las empresas sobre las futuras necesidades de producción de los medios de Canal
+Sur a fin de que, en igualdad de condiciones, puedan presentar sus ofertas para acometer tales
+proyectos sobre las necesidades de producción comunicadas.**» Punto 43: «**La RTVA y
 Canal Sur establecerán requerimientos para la contratación relativos a cláusulas sociales en
 garantía de los derechos de los profesionales de las empresas del sector con las que se relacionen
 contractualmente, y establecerá medidas para que los programas, contenidos y servicios audiovisuales
 contratados dispongan de las facilidades de accesibilidad para personas con diversidad funcional
-sensorial**».
+sensorial**» (…); el punto sigue con medidas de transformación digital de las producciones contratadas.
 
 ## Definición de necesidades
 
@@ -324,7 +333,9 @@ Tres cosas en un solo apartado: la necesidad ligada a los fines de la entidad; s
 extensión, y la idoneidad del objeto para cubrirla; y el momento, antes de iniciar el
 procedimiento y por escrito. El 28.4 añade la programación: las entidades «**programarán la
 actividad de contratación pública, que desarrollarán en un ejercicio presupuestario o períodos
-plurianuales y darán a conocer su plan de contratación anticipadamente**».
+plurianuales y darán a conocer su plan de contratación anticipadamente mediante un anuncio de
+información previa previsto en el artículo 134 que al menos recoja aquellos contratos que quedarán
+sujetos a una regulación armonizada**».
 
 En las Administraciones Públicas (la RTVA, según la calificación de la Cámara), el expediente se
 inicia justificando esa necesidad. Artículo 116.1: el expediente «**se iniciará por el órgano de
@@ -525,6 +536,28 @@ necesidad del contrato**».
 
 ## Proveedores
 
+### Quién puede ser proveedor: las condiciones de aptitud
+
+Antes de elegir, hay que saber quién puede contratar. Artículo 65 («Condiciones de aptitud»),
+apartado 1: «**Solo podrán contratar con el sector público las personas naturales o jurídicas,
+españolas o extranjeras, que tengan plena capacidad de obrar, no estén incursas en alguna prohibición
+de contratar, y acrediten su solvencia económica y financiera y técnica o profesional o, en los casos
+en que así lo exija esta Ley, se encuentren debidamente clasificadas.**» Y el 65.2: «**Los
+contratistas deberán contar, asimismo, con la habilitación empresarial o profesional que, en su caso,
+sea exigible para la realización de las prestaciones que constituyan el objeto del contrato.**»
+
+| Condición | Dónde |
+|---|---|
+| Plena capacidad de obrar | 65.1 |
+| No estar incurso en prohibición de contratar | 65.1; las prohibiciones, en el artículo 71 |
+| Solvencia económica y financiera y técnica o profesional, o clasificación cuando la ley la exija | 65.1 |
+| Habilitación empresarial o profesional exigible para la prestación | 65.2 |
+
+El artículo habla de contratar «con el sector público», así que alcanza tanto a la RTVA como a
+CSRTV. La solvencia y la clasificación no son criterios para puntuar ofertas: son requisitos para
+poder ser contratista. En el contrato menor la ley sólo menciona, para adjudicar directamente, la
+capacidad de obrar y la habilitación profesional (artículos 131.3 y 318.a, más abajo).
+
 ### Cómo se elige al proveedor: el contrato menor
 
 Artículo 118 («Expediente de contratación en contratos menores», redacción vigente desde el
@@ -663,10 +696,11 @@ condiciones de entrega tales como la fecha en que esta última debe producirse, 
 el plazo de entrega o ejecución**» (145.2.3.º). En una unidad móvil, la experiencia del equipo y el
 plazo de montaje pueden pesar tanto como el precio.
 
-La Cámara halló en 2018 un fallo de este tipo en la contratación de producciones: en los 71
+La Cámara halló en 2018 otro fallo, anterior a la valoración: en los 71
 contratos de producción audiovisual de su muestra (22.153.964,71 euros), «**No acreditación solvencia
 técnica y económica en el sector audiovisual**» (cuadro nº 3, incidencia 1, referida al apartado 15
-de la Instrucción 1/2010).
+de la Instrucción 1/2010). Es anterior porque la solvencia no es un criterio de adjudicación
+sino una condición de aptitud del licitador, la del artículo 65.1 que se ve al principio de esta rúbrica.
 
 ### Conflictos de intereses
 
@@ -757,6 +791,28 @@ mora al recibirlos**» (300.2).
 Cuando el contratista se retrasa, el artículo 29.3 permite al órgano de contratación conceder una
 ampliación del plazo de ejecución, «**sin perjuicio de las penalidades que en su caso procedan**».
 
+Esas penalidades las regula el artículo 193 («Demora en la ejecución»), dentro de los contratos de
+las Administraciones Públicas (la RTVA):
+
+- 193.1: el contratista está obligado a cumplir «**dentro del plazo total fijado para la realización
+  del mismo, así como de los plazos parciales señalados para su ejecución sucesiva.**»
+- 193.2: «**La constitución en mora del contratista no precisará intimación previa por parte de la
+  Administración.**»
+- 193.3: si por causas imputables incurre en demora respecto del plazo total, la Administración
+  puede optar «**por la resolución del contrato o por la imposición de las penalidades diarias en la
+  proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.**» El órgano
+  de contratación puede acordar que el pliego de cláusulas administrativas particulares incluya
+  penalidades distintas cuando, por las especiales características del contrato, se considere
+  necesario para su correcta ejecución y así se justifique en el expediente.
+- 193.4: «**Cada vez que las penalidades por demora alcancen un múltiplo del 5 por 100 del precio del
+  contrato, IVA excluido, el órgano de contratación estará facultado para proceder a la resolución
+  del mismo o acordar la continuidad de su ejecución con imposición de nuevas penalidades.**»
+- 193.5: las mismas facultades por incumplimiento de los plazos parciales, si lo prevé el pliego o si
+  la demora hace presumir razonablemente la imposibilidad de cumplir el plazo total.
+
+El artículo 193 no está entre los que el artículo 319.1 aplica a los contratos de CSRTV: sus efectos y
+extinción, y con ellos la demora, se rigen por **normas de derecho privado**.
+
 Qué hace el productor en el seguimiento, como oficio: comprobar que lo que llega (personal, equipo,
 horarios) es lo pactado; dejar constancia escrita de las incidencias en el momento (parte de
 producción, correo al proveedor); dar las instrucciones por el cauce que prevea el contrato y no de
@@ -776,7 +832,10 @@ Ley 60/2003 explica por qué funciona:
   o de acuerdo independiente**» y debe expresar la voluntad de someter a arbitraje «**todas o algunas
   de las controversias que hayan surgido o puedan surgir respecto de una determinada relación
   jurídica, contractual o no contractual.**» 9.3: «**El convenio arbitral deberá constar por
-  escrito**».
+  escrito, en un documento firmado por las partes o en un intercambio de cartas, telegramas, télex,
+  fax u otros medios de telecomunicación que dejen constancia del acuerdo.**» Y el segundo párrafo:
+  «**Se considerará cumplido este requisito cuando el convenio arbitral conste y sea accesible para
+  su ulterior consulta en soporte electrónico, óptico o de otro tipo.**»
 - Artículo 11.1: «**El convenio arbitral obliga a las partes a cumplir lo estipulado e impide a los
   tribunales conocer de las controversias sometidas a arbitraje, siempre que la parte a quien
   interese lo invoque mediante declinatoria.**» 11.3: no impide solicitar a un tribunal «**la
@@ -788,7 +847,7 @@ Ley 60/2003 explica por qué funciona:
 | Lo que aporta el arbitraje | Artículo de la Ley 60/2003 |
 |---|---|
 | Va dentro del propio contrato, como una cláusula más | 9.1 |
-| Por escrito | 9.3 |
+| Por escrito, también en soporte electrónico accesible para su consulta | 9.3 |
 | Cierra la puerta al juzgado para el fondo del asunto, si se invoca por declinatoria | 11.1 |
 | No impide pedir medidas cautelares al juez | 11.3 |
 | El laudo es cosa juzgada; sólo cabe anulación y, en su caso, revisión | 43 |
@@ -961,7 +1020,7 @@ los principios se realiza en las disposiciones e instrucciones internas**». La 
 
 | Norma | Qué se cita | Redacción |
 |---|---|---|
-| Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (`BOE-A-2017-12902`) | Artículos 1, 3, 4, 9, 11, 16, 17, 19, 20, 21, 22, 25, 26, 27, 28, 29, 62, 63, 64, 99, 100, 101, 116, 118, 120, 124, 125, 126, 131, 132, 145, 159, 168, 210, 215, 217, 300, 311, 316, 317, 318, 319 y 326 | Vigente el 24/09/2026 (fechas de las redacciones en la portada) |
+| Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (`BOE-A-2017-12902`) | Artículos 1, 3, 4, 9, 11, 16, 17, 19, 20, 21, 22, 25, 26, 27, 28, 29, 62, 63, 64, 65, 71, 99, 100, 101, 116, 118, 120, 124, 125, 126, 131, 132, 145, 159, 168, 193, 210, 215, 217, 300, 311, 316, 317, 318, 319 y 326 | Vigente el 24/09/2026 (fechas de las redacciones en la portada) |
 | Ley 60/2003, de 23 de diciembre, de Arbitraje (`BOE-A-2003-23646`) | Artículos 9, 11 y 43 | Vigente el 24/09/2026 |
 | Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`) | Artículos 19.2.e) y 26 | Original |
 | X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014) | Anexo III: fichas de Productor/a y de Ayudante de producción; artículo 24 (Mesa de Contratación) | Prorrogado, sin modificación publicada |
@@ -997,7 +1056,7 @@ cambia entre ambas fechas).
 
 | Fuente | Qué sostiene |
 |---|---|
-| Ley 9/2017 (`BOE-A-2017-12902`), texto consolidado del BOE | Principios (1, 28, 64, 132), ámbito subjetivo y régimen (3, 25, 26, 27, 316 a 319), tipos de contrato (16, 17), exclusiones (4, 9, 11), programas audiovisuales (19.2.a), umbrales (20 a 22, 118, 318), expediente, objeto y presupuesto (29, 99, 100, 101, 116), prescripciones (124 a 126), procedimientos (120, 131, 145, 159, 168), publicidad (63), subcontratación (215, 217), responsable del contrato (62), ejecución y recepción (210, 300, 311), mesa de contratación (326). Artículo 118 original leído en la redacción vigente el 01/01/2019 |
+| Ley 9/2017 (`BOE-A-2017-12902`), texto consolidado del BOE | Principios (1, 28, 64, 132), ámbito subjetivo y régimen (3, 25, 26, 27, 316 a 319), tipos de contrato (16, 17), exclusiones (4, 9, 11), programas audiovisuales (19.2.a), umbrales (20 a 22, 118, 318), expediente, objeto y presupuesto (29, 99, 100, 101, 116), prescripciones (124 a 126), procedimientos (120, 131, 145, 159, 168), publicidad (63), aptitud del contratista (65, 71), subcontratación (215, 217), responsable del contrato (62), ejecución, demora y recepción (193, 210, 300, 311), mesa de contratación (326). Artículo 118 original leído en la redacción vigente el 01/01/2019 |
 | Ley 60/2003 (`BOE-A-2003-23646`), texto consolidado del BOE | Convenio arbitral, declinatoria, medidas cautelares y efectos del laudo |
 | Ley 18/2007 (`BOE-A-2008-1185`) | Régimen de contratación y órgano de contratación (a través del tema 5 del común) |
 | X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), artículo 24 y anexo III, páginas 194 (Productor/a) y 110 (Ayudante de producción) | Tareas del Productor/a y del Ayudante de producción sobre proveedores, contratación y presupuesto |

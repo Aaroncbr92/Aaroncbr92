@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 1 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023): artículos 7, 23 y 24; Contrato-programa 2024-2026 entre la Junta de Andalucía y la RTVA (BOJA núm. 245, de 26/12/2023): parte expositiva y cláusulas tercera y cuarta; Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`): artículo 17.1.j; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (`BOE-A-2022-11311`): artículos 2 y 112; manual universitario de producción (Cerdà Bañón, Universidad de Alicante, 2024). Lo demás, oficio |
+| **Fuente** | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023): artículos 7, 23 y 24; Contrato-programa 2024-2026 entre la Junta de Andalucía y la RTVA (BOJA núm. 245, de 26/12/2023): parte expositiva y cláusulas tercera, cuarta y quinta; Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`): artículo 17.1.b y j; Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (`BOE-A-2022-11311`): artículos 2 y 112; manual universitario de producción (Cerdà Bañón, Universidad de Alicante, 2024). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Ley 13/2022 conserva en los artículos citados su redacción original; el Contrato-programa rige para 2024-2026 |
-| **Extensión** | 7.800 palabras aproximadamente |
+| **Extensión** | 8.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -33,6 +33,7 @@ cuáles son las modalidades de producción que define la Carta (propia interna, 
 financiada mixta o financiada, ajena y coproducción) y en cuál asume Canal Sur la responsabilidad
 editorial de una obra que hace otra empresa; qué porcentaje de producción propia fija el
 Contrato-programa para la televisión lineal (en torno al 75 %) y cuál es el de la radio (100 %);
+y las referencias orientativas por géneros (Informativos 30 % en televisión, 55 % en la radio generalista);
 quién determina cada año ese porcentaje (el Consejo de Administración); qué es un productor
 independiente; qué diferencia un servicio lineal de uno a petición; qué dirección organiza la
 producción digital (Canal Sur Media) y cómo se llama la plataforma OTT (Canal Sur Más); qué dice la
@@ -147,11 +148,16 @@ maquillaje y autorización de imagen. Por eso la televisión es la línea donde 
 más y donde un día de más cuesta más.
 
 El Contrato-programa recuerda además la obligación técnica que alcanzó a toda la producción de
-televisión en este periodo: el Real Decreto 16/2023, de 17 de enero, que modifica el artículo 7.1 del Real Decreto
-391/2019, por el que se aprueba el Plan Técnico Nacional de la TDT, **«implica la necesaria actualización de la integridad de los sistemas de producción, edición
+televisión en este periodo: el Real Decreto 16/2023, de 17 de enero, que modifica el Real Decreto 391/2019, por el que se
+aprueba el Plan Técnico Nacional de la TDT, **«implica la necesaria actualización de la integridad de los sistemas de producción, edición
 y de emisión de la totalidad de Centros de Producción que intervienen en la generación de contenidos
 para televisión para su difusión en sistema en TDT, a fin de adaptarlos a la tecnología de Alta
-Definición (HD) antes del 14 de febrero de 2024»** («Manifiestan», apartado 8).
+Definición (HD) antes del 14 de febrero de 2024»** («Manifiestan», apartado 8). El propio
+Contrato-programa no numera igual el precepto modificado: en ese apartado 8 dice «artículo 7.1»; en
+la cláusula tercera, punto 101, y en la cláusula quinta (actividad inversora, punto 3) habla del «artículo
+segundo» del Real Decreto 16/2023, «de modificación del artículo 7.2». El punto 101 fija la
+consecuencia: la TDT de Canal Sur, **«a partir del 14 de febrero de 2024»**, se refiere a **«la
+utilización de la tecnología de difusión del sistema de Alta Definición (HD)»**.
 
 ### La radio
 
@@ -547,7 +553,12 @@ La Carta pide un **«alto grado de producción propia»** (24.1) y remite la cif
 Contrato-programa y a cada plan anual. Las piezas:
 
 - Quién decide cada año: el Consejo de Administración de la RTVA, por el artículo 17.1 de la Ley
-  18/2007:
+  18/2007. La letra b) le atribuye **«Aprobar, a propuesta de la persona titular de la Dirección
+  General de la RTVA, el plan de actividades de la RTVA, que, de acuerdo y en cumplimiento tanto de la Carta del Servicio
+  Público como del Contrato-Programa en vigor, fijará los criterios básicos y
+  las líneas generales de las programaciones de radio y de televisión y los servicios conexos e
+  interactivos, así como el plan de actuación anual, y, en su caso, plurianual, de las sociedades
+  filiales»**; y la letra j):
 
   j) «**Determinar anualmente el porcentaje de producción propia que debe incluirse en las
   programaciones audiovisuales, de acuerdo con lo establecido en el Contrato-Programa en
@@ -566,8 +577,36 @@ Contrato-programa y a cada plan anual. Las piezas:
   lectura conjunta es que ambas cuentan para ese 75 %; ninguno de los dos textos lo dice con esas
   palabras.
 
+  - *Por géneros (punto 88).* La concreción de cada año, y la de los porcentajes por géneros y
+    subgéneros, **«se determinarán en cada Plan de Actuación anual del artículo 19.2 b) de la Ley
+    18/2007»**, con estas **«referencias orientativas»** en cómputo anual para las programaciones
+    de servicio público por ondas hertzianas terrestres:
+
+    | Género (televisión lineal) | Referencia orientativa |
+    |---|---|
+    | **Informativos** | **30%** |
+    | **Divulgativos** | **30%** |
+    | **Entretenimiento** | **15%** |
+
+    **«Los porcentajes de géneros “Infantil” y “Ficción” se determinarán conforme a los
+    especificado en cada Plan de Actuación anual.»** El punto 89 remite también al Plan de
+    Actuación anual los porcentajes de la segunda señal lineal en TDT.
+
 - Cuánto en radio: el 100 %, según la estimación de costes de 2024 (cláusula cuarta, punto 9, citada
-  en «La radio»).
+  en «La radio»). Y por géneros, el punto 98 (apartado 3.18) fija **«porcentajes anuales
+  orientativos»** para la producción propia de cada oferta de radio por ondas:
+
+  | Oferta de radio | Informativos | Divulgativos/Culturales | Entretenimiento |
+  |---|---|---|---|
+  | Lineal generalista | **55%** | **23%** | **22%** |
+  | Lineal de actualidad informativa y divulgación de interés público | **55%** | **40%** | **5%** |
+
+  Para la temática lineal dirigida a audiencia joven, **«El 75% estará basado fundamentalmente en
+  la divulgación de las creaciones de artistas andaluces de la música popular, así como del resto
+  de España, y el 25% en espacios de entretenimiento»**; para la temática lineal distribuida online dedicada al
+  flamenco, **«producción propia al 100% de su oferta divulgativa»**; y los nuevos canales web de
+  radio, permanentes o eventuales, se dedicarán **«a contenidos sobre eventos de notorio interés
+  público general»**.
 
 ## Función estratégica del área de producción
 
@@ -578,7 +617,7 @@ seis.
 
 ### El equipo de producción y su función
 
-Aquí conviene separar tres equipos que trabajan a la vez y responden de cosas distintas:
+Aquí conviene separar cuatro equipos que trabajan a la vez y responden de cosas distintas:
 
 | Equipo | De qué responde |
 |---|---|
@@ -587,12 +626,9 @@ Aquí conviene separar tres equipos que trabajan a la vez y responden de cosas d
 | Equipo técnico | De los medios técnicos: cámaras, sonido, iluminación, control, transmisión |
 | Equipo artístico | De la apariencia: escenografía, vestuario, caracterización, atrezo |
 
-(La frase de entrada dice «tres equipos» y la tabla trae cuatro: el de producción y los tres que
-coordina.)
-
 La función del equipo de producción es coordinar a los demás. No decora el plató —eso es dirección
 artística—, no vigila las tomas de cámara —eso es realización y *script*— y no coordina la
-elaboración del guion —eso es dirección o guion—. Produce significa poner los medios y hacer que
+elaboración del guion —eso es dirección o guion—. Producir significa poner los medios y hacer que
 encajen.
 
 Sus puestos habituales:
@@ -808,8 +844,8 @@ razona en este orden:
   24.
 - Contrato-programa 2024-2026 entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA, BOJA
   núm. 245, de 26/12/2023: «Manifiestan», apartados 5 y 8; cláusula tercera, puntos 9, 34 a 36, 45
-  a 47, 49, 68, 87, 103 y 127; cláusula cuarta, puntos 8, 9 y 11.
-- Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`): artículo 17.1.j.
+  a 47, 49, 68, 87 a 89, 98, 101, 103 y 127; cláusula cuarta, puntos 8, 9 y 11; cláusula quinta, punto 3.
+- Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`): artículo 17.1, letras b) y j).
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (`BOE-A-2022-11311`): artículo 2,
   definiciones 5 a 8; artículo 112.
 
@@ -820,8 +856,9 @@ razona en este orden:
   contratación que cita el Contrato-programa, en el tema 10.
 - **El Plan Estratégico 2021-2026**: citado por el Contrato-programa, no publicado en las fuentes
   leídas.
-- **Los porcentajes de producción propia de cada plan anual de actuación** y **el gasto ejecutado**:
-  no publicados; el tema da la referencia del Contrato-programa y la estimación de 2024.
+- **Los porcentajes de producción propia de cada plan anual de actuación** (incluidos los de
+  «Infantil» y «Ficción») y **el gasto ejecutado**: no publicados; el tema da las referencias
+  orientativas del Contrato-programa (puntos 87, 88 y 98) y la estimación de 2024.
 - **El porcentaje de financiación anticipada de obra audiovisual del artículo 118 de la LGCA**: fuera
   de este tema; el común lo trata en el tema 4.
 - **Una descripción publicada de las fases de la producción de radio o para plataformas**: no se ha
@@ -839,8 +876,8 @@ Todas las fuentes se leyeron el 25/09/2026.
 | Fuente | Qué sostiene |
 |---|---|
 | Carta del Servicio Público de la RTVA 2024-2029, BOJA núm. 247, de 28/12/2023: artículos 7, 23 y 24 | Modalidades de producción, producción propia, fomento del sector, expansión digital |
-| Contrato-programa 2024-2026, BOJA núm. 245, de 26/12/2023: «Manifiestan» 5 y 8; cláusula tercera, puntos 9, 34-36, 45-47, 49, 68, 87, 103 y 127; cláusula cuarta, puntos 8, 9 y 11 (cuadro de costes, págs. 40208/59 y 60) | Tres líneas de actividad, Canal Sur Media y Canal Sur Más, convergencia, porcentajes, centros territoriales, planificación, costes de 2024 |
-| Ley 18/2007 (`BOE-A-2008-1185`), artículo 17.1.j | Quién fija el porcentaje anual de producción propia |
+| Contrato-programa 2024-2026, BOJA núm. 245, de 26/12/2023: «Manifiestan» 5 y 8; cláusula tercera, puntos 9, 34-36, 45-47, 49, 68, 87-89, 98, 101, 103 y 127; cláusula cuarta, puntos 8, 9 y 11 (cuadro de costes, págs. 40208/59 y 60); cláusula quinta, punto 3 | Tres líneas de actividad, Canal Sur Media y Canal Sur Más, convergencia, porcentajes, centros territoriales, planificación, costes de 2024 |
+| Ley 18/2007 (`BOE-A-2008-1185`), artículo 17.1, letras b) y j) | Plan de actividades; quién fija el porcentaje anual de producción propia |
 | Ley 13/2022 (`BOE-A-2022-11311`), texto consolidado volcado el 24/09/2026, una sola redacción: artículo 2, definiciones 5 a 8; artículo 112 | Servicios lineales y a petición; productor independiente |
 | Francisco J. Cerdà Bañón, *Manual de Producción y Realización en Medios Audiovisuales*, Universidad de Alicante, RUA, 2024, http://rua.ua.es/dspace/handle/10045/143099, «Temas 1a-1b: La Producción audiovisual» (diapositivas docentes; descargado el 25/09/2026) | Tres sentidos de «producción»; cinco fases; jefe de departamento de producción y productor delegado de televisión |
 

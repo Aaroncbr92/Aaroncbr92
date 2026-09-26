@@ -351,7 +351,10 @@ lo que se ve (el realizador) o sobre lo que se cuenta (el director o el editor) 
 
 El criterio para distinguirlos es siempre el mismo: primero, dónde está la persona; segundo, si
 decide o ejecuta. En la RTVA, la asistencia de realización y la regiduría son la misma ficha, la
-del Ayudante de realización; la dirección artística del decorado es del Decorador.
+del Ayudante de realización; la dirección artística del decorado es del Decorador. Sobre un
+colaborador que va a entrar en plató, «qué decide» producción en esta tabla es distinto de lo que
+decide en «Las entradas y salidas de personas»: quién viene como interviniente y con qué papel lo
+decide la dirección o el editor; producción decide con qué medios se le trae y cuándo (oficio).
 
 ### La agenda del estudio
 
@@ -413,11 +416,12 @@ contenido informativo (punto 6 del decálogo) y las pautas de imagen. Una hoja d
 | Documentos que firmará | Autorización de imagen y cesión de derechos (tema 11) |
 | Necesidades de accesibilidad | Movilidad, intérprete, acompañante: epígrafe siguiente |
 
-El vestuario: el Libro de estilo, para el redactor que sale en plató, dice que la indumentaria
-**«se ceñirá a los patrones habituales»** y advierte, **«cuando el vestuario sea particular»**, que
-**«los tonos claros engordan y los oscuros estilizan, el blanco causa problemas de saturación, rayas y cuadros
-distorsionan lo mismo que los tejidos brillantes, satenes y sedas.»** (8.5), y para él añade:
-**«Es obligatorio el paso por el departamento de maquillaje.»** Para los presentadores, las pautas
+El vestuario: el Libro de estilo, para el redactor que sale en plató, dice primero:
+**«Es obligatorio el paso por el departamento de maquillaje.»** Y a continuación, sobre la
+indumentaria, que **«se ceñirá a los patrones habituales»** y advierte, **«cuando el vestuario sea
+particular»**, que **«los tonos claros engordan y los oscuros estilizan, el blanco causa problemas
+de saturación, rayas y cuadros distorsionan lo mismo que los tejidos brillantes, satenes y
+sedas.»** (8.5). Para los presentadores, las pautas
 de vestuario son nueve (8.6.1); la novena se dirige a los departamentos: **«Los departamentos de
 Estilismo y Realización deberán tener muy en cuenta los condicionantes técnicos de cromas,
 transparencias o bien de la grabación o emisión desde un plató con decorado virtual.»** Que esas
@@ -536,8 +540,9 @@ La escaleta cambia: **«Cualquier cambio del contenido de la escaleta debe comun
 la decisión, inmediata y simultáneamente, a todas las personas y departamentos afectados.»** (6.1, p. 88).
 Lo que no cambia es el nombre: **«Son inadmisibles los cambios en la identiﬁcación de un vídeo [...] El
 nombre de una noticia en escaleta debe respetarse por obligación.»** La única excepción: un vídeo
-terminado antes de hacerse la escaleta, cuyo nombre traslada a ella el equipo de edición (6.1.1, p. 88). El redactor fija en ella **«sus textos deﬁnitivos (incluidos los rótulos con su orden y
-ubicación precisa)»** (6.1.2, p. 89).
+terminado antes de hacerse la escaleta, cuyo nombre traslada a ella el equipo de edición
+(6.1.1, p. 88). El redactor fija en ella **«sus textos deﬁnitivos (incluidos los rótulos con su
+orden y ubicación precisa)»** (6.1.2, p. 89).
 
 La definición del Libro de estilo es de informativos («el hecho noticioso concreto»). En un programa
 de entretenimiento o un magacín la escaleta tiene la misma función —ordenar el contenido, con
@@ -950,8 +955,8 @@ actuación musical, una conexión en directo con un centro territorial y 80 pers
    punto 6); duración de cada intervención; indicaciones de vestuario; transporte si lo hay;
    cesión de imagen. Para el invitado en silla de ruedas: acceso sin escalones al plató y al
    decorado, sitio en la mesa sin tarima y aseo accesible (oficio; la obligación de fondo es el
-punto 97 del Contrato-programa). Revisión
-   del reparto de invitados con el criterio de presencia equilibrada (punto 57).
+   punto 97 del Contrato-programa). Revisión del reparto de invitados con el criterio de presencia
+   equilibrada (punto 57).
 4. Público: convocatoria de 80 personas, sin superar el aforo; citación con una hora de margen;
    lista, acreditación y autorización de imagen; plazas accesibles; responsable del público
    coordinado con la regiduría; instrucciones antes de empezar.

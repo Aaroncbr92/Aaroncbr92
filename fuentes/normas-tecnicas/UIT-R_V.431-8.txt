@@ -1,0 +1,384 @@
+Recomendación UIT-R V.431-8 (08/2015), «Nomenclatura de las bandas de frecuencias», edición en español.
+https://www.itu.int/dms_pubrec/itu-r/rec/v/R-REC-V.431-8-201508-I!!PDF-S.pdf — descargada el 25-09-2026.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  V.431-8 
+(08/2015) 
+ 
+Nomenclatura de las bandas de frecuencias 
+y de las longitudes de onda empleadas 
+en telecomunicaciones 
+ 
+ 
+ 
+Serie V 
+Vocabulario y cuestiones afines 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  V.431-8 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en el Anexo 1 a la Resolución UIT-R 1. Los formularios que deben 
+utilizarse en la declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección 
+web http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2016 
+ 
+ UIT 2016 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  V.431-8 
+1 
+ 
+RECOMENDACIÓN  UIT-R  V.431-8 
+Nomenclatura de las bandas de frecuencias y de las longitudes de onda 
+empleadas en telecomunicaciones 
+ 
+(1953-1956-1959-1963-1966-1974-1978-1982-1986-1993-2000-2015) 
+Rec. UIT-R V.431-7 
+Cometido 
+Este texto recomienda el empleo del hertzio (Hz) como unidad de frecuencia, así como la nomenclatura que 
+debería utilizarse para la designación de las bandas de frecuencias y de las longitudes de onda. Este texto 
+contiene igualmente amplia información sobre la nomenclatura utilizada para aplicaciones específicas. 
+Palabras clave 
+Hercio, bandas de frecuencias, longitudes de onda 
+Recomendaciones de la UIT relacionadas 
+Recomendación UIT-R V.430-4 
+Empleo del sistema internacional de unidades (SI) 
+Recomendación UIT-R V.573-6 
+Vocabulario de radiocomunicaciones 
+Recomendación UIT-R V.574-5 
+Uso del decibelio y del neperio en telecomunicaciones 
+Recomendación UIT-R V.665-3 
+Unidad de intensidad de tráfico 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que los méritos de Heinrich Hertz (1857-1897) en el campo de la investigación de los 
+fenómenos fundamentales de las ondas radioeléctricas se han reconocido universalmente, como se ha 
+podido comprobar con motivo del centenario de su nacimiento y que la Comisión Electrotécnica 
+Internacional (CEI) adoptó ya el hertzio (símbolo: Hz) en 1937 para designar la unidad de frecuencia 
+(véase especialmente la Norma internacional IEC 60027); 
+b) 
+que la nomenclatura de esta Recomendación debe ser lo más sinóptica posible y la 
+designación de las bandas de frecuencias lo más concisa posible, 
+recomienda 
+1 
+que en las Publicaciones de la UIT, para denominar la unidad de frecuencia se utilice el 
+hertzio (Hz) de conformidad con la Recomendación UIT-R V.430 sobre la utilización del sistema 
+internacional de unidades (SI); 
+2 
+que las administraciones utilicen siempre la nomenclatura de las bandas de frecuencias y de 
+las longitudes de onda incluidas en el Cuadro 1 y sus Notas 1 y 2, que tienen en cuenta el número 2.1 
+del Reglamento de Radiocomunicaciones (RR). 
+
+2 
+Rec.  UIT-R  V.431-8 
+CUADRO 1 
+Número de 
+la banda 
+Símbolos 
+(en inglés) 
+Gama de frecuencias 
+(excluido el límite inferior, 
+pero incluido el superior) 
+Subdivisión métrica 
+correspondiente 
+Abreviaturas 
+métricas para las 
+bandas 
+3 
+ULF 
+300-3 000 Hz 
+Ondas hectokilométricas 
+B.hkm 
+4 
+VLF 
+3-30 kHz 
+Ondas miriamétricas 
+B.Mam 
+5 
+LF 
+30-300 kHz 
+Ondas kilométricas 
+B.km 
+6 
+MF 
+300-3 000 kHz 
+Ondas hectométricas 
+B.hm 
+7 
+HF 
+3-30 MHz 
+Ondas decamétricas 
+B.dam 
+8 
+VHF 
+30-300 MHz 
+Ondas métricas 
+B.m 
+9 
+UHF 
+300-3 000 MHz 
+Ondas decimétricas 
+B.dm 
+10 
+SHF 
+3-30 GHz 
+Ondas centimétricas 
+B.cm 
+11 
+EHF 
+30-300 GHz 
+Ondas milimétricas 
+B.mm 
+12 
+ 
+300-3 000 GHz 
+Ondas decimilimétricas 
+B.dmm 
+13 
+ 
+3-30 THz 
+Ondas centimilimétricas 
+B.cmm 
+14 
+ 
+30-300 THz 
+Ondas microméticas 
+B.m 
+15 
+ 
+300-3 000 THz 
+Ondas decimicrométricas 
+B.dm 
+ 
+NOTA 1 – La «banda N» se extiende de 0,3  10N a 3  10N Hz. 
+NOTA 2 – Símbolos: 
+Hz: 
+hertzio 
+k: 
+kilo (103 ), M: mega (106 ), G: giga (109 ), T: tera (1012 ) 
+: 
+micro (10–6 ), m: mili (10–3 ), c: centi (10–2 ), d: deci (10–1 ) 
+da: 
+deca (10), h: hecto (102 ), Ma: miria (104 ). 
+NOTA 3 – Esta nomenclatura, utilizada para la designación de frecuencias en el campo de las 
+telecomunicaciones, puede ser ampliada a las gamas que se citan a continuación, de conformidad con la 
+proposición de la Unión Radiocientífica Internacional (URSI) (véase el Cuadro 2). 
+CUADRO 2 
+Número de 
+la banda 
+Símbolos 
+(en inglés) 
+Gama de frecuencias 
+(excluido el límite inferior, 
+pero incluido el superior) 
+Subdivisión métrica 
+correspondiente 
+Abreviaturas 
+métricas para las 
+bandas 
+–1 
+ 
+0,03-0,3 Hz 
+Ondas gigamétricas 
+B.Gm 
+0 
+ELF 
+0,3-3 Hz 
+Ondas hectomegamétricas 
+B.hMm 
+1 
+ 
+3-30 Hz 
+Ondas décamegamétricas 
+B.daMm 
+2 
+ 
+30-300 Hz 
+Ondas megamétricas 
+B.Mm 
+ 
+NOTA 4 – En la mayoría de los países las gamas de frecuencias utilizadas para la radiodifusión sonora con 
+modulación de frecuencia y para la televisión se designan mediante números romanos, de I a V. Sin embargo, 
+estas gamas no se reservan únicamente para el servicio de radiodifusión. Las gamas de frecuencias se indican 
+en el Cuadro 3. 
+
+ 
+Rec.  UIT-R  V.431-8 
+3 
+ 
+CUADRO 3 
+Designación 
+Gamas de frecuencias 
+(MHz) 
+Región 1 
+Región 2 
+Región 3 
+I 
+47-68 
+54-68 
+47-68 
+II 
+87,5-108 
+88-108 
+87-108 
+III 
+174-230 
+174-216 
+174-230 
+IV 
+470-582 
+470-582 
+470-582 
+V 
+582-960 
+582-890 
+582-960 
+ 
+NOTA 5 – Ciertas bandas de frecuencias se designan a veces mediante símbolos literales distintos de los 
+símbolos y abreviaturas recomendados en los Cuadros 1 y 2. Estos símbolos son letras mayúsculas, 
+acompañadas a veces de un índice (generalmente una letra minúscula). No existe actualmente una 
+correspondencia normalizada entre las letras y las bandas de frecuencias, pues la misma letra puede designar 
+varias bandas distintas. Se desaconseja utilizar estos símbolos en las publicaciones de la UIT. Sin embargo, si 
+se usa ese símbolo literal, conviene precisar, la primera vez que se emplee en un texto dado, los límites de la 
+banda de frecuencias correspondiente, o al menos una frecuencia de la banda, si bastara con esta indicación. 
+En el Cuadro 4 se incluyen, a título informativo, las designaciones más corrientes utilizadas por algunos 
+autores, principalmente en el campo del radar y de las radiocomunicaciones espaciales. 
+CUADRO 4 
+ 
+Símbolo literal 
+Utilización en el campo del radar 
+(GHz) 
+Radiocomunicaciones espaciales 
+Gama del espectro 
+Ejemplos 
+Designación nominal 
+Ejemplos 
+(GHz) 
+L 
+1-2 
+1,215-1,4 
+Banda de 1,5 GHz 
+1,525-1,710 
+S 
+2-4 
+2,3-2,5 
+2,7-3,4 
+Banda de 2,5 GHz 
+2,5-2,690 
+C 
+4-8 
+5,25-5,85 
+Banda de 4/6 GHz 
+3,4-4,2 
+4,5-4,8 
+5,85-7,075 
+X 
+8-12 
+8,5-10,5 
+– 
+– 
+Ku 
+12-18 
+13,4-14,0 
+15,3-17,3 
+Banda de 11/14 GHz 
+Banda de 12/14 GHz 
+10,7-13,25 
+14,0-14,5 
+K(1) 
+18-27 
+24,05-24,25 
+Banda de 20 GHz 
+17,7-20,2 
+Ka(1) 
+27-40 
+33,4-36,0 
+Banda de 30 GHz 
+27,5-30,0 
+V 
+– 
+– 
+Banda de 40 GHz 
+37,5-42,5 
+47,2-50,2 
+(1) En las radiocomunicaciones espaciales, las bandas K y Ka se designan frecuentemente por el símbolo Ka. 
+ 
+______________ 
+ 

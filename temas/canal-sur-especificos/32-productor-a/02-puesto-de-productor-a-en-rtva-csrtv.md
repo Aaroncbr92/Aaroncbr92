@@ -107,8 +107,7 @@ Televisión, S.A. Después se fusionaron:
 
 Por eso el texto del convenio sigue hablando de «**sus Sociedades Filiales**», en plural, mientras
 que el Reglamento de la Mesa de Contratación (punto 1) habla de la Agencia «**y su Sociedad Filial,
-Canal Sur Radio y Televisión, S.A.**». El enunciado del programa conserva el
-plural del título.
+Canal Sur Radio y Televisión, S.A.**».
 
 Para este puesto la consecuencia es práctica: el anexo II del convenio reparte a los productores
 entre CSTV y CSR, dos sociedades que hoy son una sola, CSRTV. El enunciado dice «RTVA/CSRTV»
@@ -201,7 +200,7 @@ Lo que esa lista significa para el puesto, leído en el artículo 45:
 | «**\* PRODUCTOR/A**» | B03 | Es el puesto |
 | «**\* PRODUCTOR/A MUSICAL TELEVISIÓN**», «**\* PRODUCTOR/A MUSICAL RADIO**», «**\* PRESENTADOR/A PRODUCTOR/A RADIO**» | B03 | Mismo nivel, puestos distintos |
 | «**\* AYUDANTE DE PRODUCCIÓN**» | B04 | Trabaja «**bajo la supervisión del productor**» |
-| «**\* COORDINADOR/A PRODUCC/PROGRAMAS**» (puestos de coordinador/a de producción ajena y de programas) | B02 | Nivel superior; hace la producción ejecutiva de coproducciones |
+| «**\* COORDINADOR/A PRODUCC/PROGRAMAS**» (puestos de coordinador/a de producción ajena y de programas) | B02 | Nivel superior; el Coordinador de programas hace la producción ejecutiva de coproducciones |
 | «**\* REALIZADOR/A**» | B02 | Nivel superior; el productor prevé los medios «**en coordinación con el director y/o el realizador**» |
 
 La convocatoria de 2026 encuadra el puesto en el ámbito ocupacional «**PRODUCCIÓN DE CONTENIDOS
@@ -244,7 +243,8 @@ que llegan a esta última dependen de lo que se cubra en las anteriores.
 | Cursos | «**PRODUCCIÓN**»; «**APLICACIONES CORPORATIVAS JUNTA DE ANDALUCÍA UTILIZADAS EN RTVA**»; «**PRESUPUESTOS**»; «**NORMATIVA DE CONTRATACIÓN SECTOR PÚBLICO**»; «**LEGISLACIÓN AUDIOVISUAL Y DE ESPECTÁCULOS**»; «**ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS AUDIOVISUALES**»; «**GESTIÓN DE EQUIPOS Y LIDERAZGO**»; «**GESTIÓN PREVENCIÓN RL**»; «**LEGISLACIÓN PROTECCIÓN DATOS PERSONALES**»; «**LEGISLACIÓN LABORAL**»; «**SISTEMA DIGITAL DE NOTICIAS Y DE PROGRAMAS DE TV**»; «**HABILIDADES SOCIALES Y PERSONALES**»; «**GESTIÓN DE CONFLICTOS**» (trece) |
 
 El anexo explica el alcance de cada columna: la titulación específica opera «**como requisito de
-acceso en la fase de concurso-oposición**»; la opcional, en la promoción interna, y la observación 1
+acceso en la fase de concurso-oposición**»; en la promoción interna operan asimismo las de la
+columna opcional, y la observación 1
 añade que «**En ningún caso dicha titulación será utilizada como requisito ni como criterio de
 valoración en los procesos de acceso o contratación externa**»; los cursos «**son de aplicación en
 el concurso de méritos para todas las fases del proceso**». La lista de cursos es, de hecho, un
@@ -723,8 +723,9 @@ permiten decir:
   digitales**»; sus modalidades (24.2) alcanzan la producción propia interna y externa, la ajena y
   la coproducción. La ficha del Productor/a le encarga presupuesto y memoria «**tanto si se realiza
   con medios propios como ajenos**».
-- La relación con el sector audiovisual privado para la «**producción de obras audiovisuales**» la
-  atribuye el contrato-programa (punto 42) a una unidad ejecutiva interna que no se nombra.
+- La relación con el sector audiovisual privado la atribuye el contrato-programa (punto 42) a una
+  unidad ejecutiva interna que no se nombra, entre cuyos ejes está la ejecución de las líneas
+  estratégicas sobre «**producción de obras audiovisuales**».
 
 La producción para web, redes, *streaming* y *podcast* y la adaptación de recursos a cada formato
 se desarrollan en los temas 1 y 9 de este específico.

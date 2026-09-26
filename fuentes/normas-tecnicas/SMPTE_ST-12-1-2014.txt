@@ -1,0 +1,3365 @@
+SMPTE ST 12-1:2014, «Time and Control Code», aprobada el 20-02-2014 (última versión publicada en pub.smpte.org).
+https://pub.smpte.org/doc/st12-1/20140220-pub/ — descargada el 25-09-2026.
+
+ Copyright © 2014 by THE SOCIETY OF 
+MOTION PICTURE  AND TELEVISION ENGINEERS 
+3 Barker Avenue, White Plains, NY 10601 
+(914) 761-1100 
+Approved  
+February 20, 2014 
+ ( 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Page 
+ 
+Foreword .................................................................................................................................................   4 
+Intellectual Property ................................................................................................................................   4 
+Introduction..............................................................................................................................................   5 
+1    Scope ................................................................................................................................................   6 
+2    Conformance Notation ......................................................................................................................   6 
+3    Normative References ......................................................................................................................   7 
+4    Definitions .........................................................................................................................................   7 
+      4.1   Time and Control Code .............................................................................................................   7 
+      4.2   Linear Time Code (LTC) ...........................................................................................................   7 
+      4.3   Vertical Interval Time Code (VITC) ...........................................................................................   8 
+      4.4   Ancillary Time Code (ATC) .......................................................................................................   8 
+      4.5   Frame ........................................................................................................................................   8 
+      4.6   Field ..........................................................................................................................................   8 
+      4.7   Time Code Source/Original Source ..........................................................................................   8 
+      4.8   Binary Coded Decimal (BCD) System ......................................................................................   8 
+      4.9   Frame Rate ...............................................................................................................................   8 
+      4.10 Frame Pair.................................................................................................................................   8 
+5    Time Representation in 30 and 60 Frames-Per-Second Systems ...................................................   9 
+      5.1   Definitions of Real Time and NTSC Time .................................................................................   9 
+5.1.1   Definition of real time......................................................................................................   9 
+5.1.2   Definition of NTSC time ..................................................................................................   9 
+      5.2   Time Address of a Frame .........................................................................................................   9 
+5.2.1   Non-drop frame – Uncompensated mode ......................................................................   9 
+5.2.2   Drop frame – NTSC time compensated mode ...............................................................   9 
+      5.3   Color Frame Identification in NTSC Analog Composite Television Systems ........................... 10 
+6    Time Representation in 25 and 50 Frames-Per-Second Systems ................................................... 10 
+      6.1   Definition of Real Time .............................................................................................................. 10 
+      6.2   Time Address of a Frame ......................................................................................................... 10 
+      6.3   Color Frame Identification in PAL Composite Television Systems ........................................... 10 
+6.3.1   Logical relationship......................................................................................................... 11 
+6.3.2   Arithmetic relationship .................................................................................................... 11 
+7    Time Representation in 24 and 48 Frames-Per-Second Systems ................................................... 11 
+      7.1   Definitions of Real Time and NTSC Time ................................................................................. 11 
+7.1.1   Definition of real time...................................................................................................... 11 
+7.1.2   Definition of NTSC time .................................................................................................. 11 
+      7.2   Time Address of a Frame ......................................................................................................... 12 
+ 
+Page 1 of 41 pages 
+SMPTE ST 12-1:2014 
+Revision of 
+SMPTE 12M-1:2008 
+ 
+SMPTE STANDARD  
+Time and Control Code 
+ 
+
+SMPTE ST 12-1:2014 
+Page 2 of 41 pages 
+8    Structure of the Time Address and Control Bits ................................................................................ 12 
+      8.1   Numeric Code ............................................................................................................................ 12 
+      8.2   Time Address............................................................................................................................. 12 
+      8.3   Flag Bits ..................................................................................................................................... 12 
+8.3.1   Drop frame flag ............................................................................................................... 12 
+8.3.2   Color frame flag (NTSC and PAL composite color systems) ......................................... 12 
+8.3.3   Binary group flags ........................................................................................................... 12 
+8.3.4   Modulation method specific flag ..................................................................................... 13 
+      8.4   Use of the Binary Groups .......................................................................................................... 13 
+8.4.1   Character set not specified and unspecified clock time (BGF2=0, BGF1=0, BGF0=0) ... 13 
+8.4.2   Eight-bit character set and unspecified clock time (BGF2=0, BGF1=0, BGF0=1) ......... 13 
+8.4.3   Character set not specified and clock time specified (BGF2=0, BGF1=1, BGF0=0) ..... 14 
+8.4.4   Reserved binary group usage and reserved clock time (BGF2=0, BGF1=1, BGF0=1) ... 14 
+8.4.5   Date/time zone and unspecified clock time (BGF2=1, BGF1=0, BGF0=0) .................... 14 
+8.4.6   Page/line multiplex system and unspecified clock time (BGF2=1, BGF1=0, BGF0=1) ... 14 
+8.4.7   Date/time zone and clock time (BGF2=1, BGF1=1, BGF0=0) ....................................... 14 
+8.4.8   Page/line multiplex system and clock time specified (BGF2=1, BGF1=1, BGF0=1) ..... 14 
+      8.5   Clock Time Reference – Binary Group Flag Combinations ...................................................... 14 
+9    Linear Time Code Application ........................................................................................................... 14 
+      9.1   Codeword Format ...................................................................................................................... 14 
+      9.2   Codeword Data Content ............................................................................................................ 15 
+9.2.1   Time address .................................................................................................................. 15 
+9.2.2   Flag bits .......................................................................................................................... 15 
+9.2.3   Biphase mark polarity correction .................................................................................... 15 
+9.2.4   Binary groups .................................................................................................................. 16 
+9.2.5   Synchronization word ..................................................................................................... 16 
+      9.3   Modulation Method .................................................................................................................... 17 
+      9.4   Bit Rate ...................................................................................................................................... 17 
+      9.5   Timing of the Codeword Relative to a Television Signal ........................................................... 18 
+      9.6   Linear Time Code Interface Electrical and Mechanical Characteristics .................................... 18 
+9.6.1   Rise/fall time ................................................................................................................... 18 
+9.6.2   Amplitude distortion ........................................................................................................ 18 
+9.6.3   Timing of the transitions .................................................................................................. 18 
+9.6.4   Interface connector  (Informative) ................................................................................... 19 
+9.6.5   Output impedance .......................................................................................................... 19 
+9.6.6   Output amplitude  (Informative) ...................................................................................... 19 
+10  Vertical Interval Application — Analog Television Systems .............................................................. 24 
+      10.1  Codeword Format ..................................................................................................................... 24 
+      10.2  Codeword Data Content ........................................................................................................... 24 
+10.2.1   Time address ................................................................................................................ 27 
+10.2.2   Flag bits ........................................................................................................................ 27 
+10.2.3   Binary groups ................................................................................................................ 27 
+10.2.4   Field identification flag .................................................................................................. 28 
+10.2.5   Synchronization bits ...................................................................................................... 28 
+10.2.6   Cyclic redundancy check code ..................................................................................... 28 
+      10.3  Modulation Method ................................................................................................................... 29 
+      10.4  Bit Timing .................................................................................................................................. 29 
+      10.5  Timing of the Codeword Relative to the Television Signal ....................................................... 29 
+10.5.1   525/59.94 television system ......................................................................................... 29 
+10.5.2   625/50 television system .............................................................................................. 29 
+      10.6  Location of the VITC Codeword in the Vertical Interval ........................................................... 30 
+10.6.1   525/59.94 television system ......................................................................................... 30 
+10.6.2   625/50 television system .............................................................................................. 30 
+10.6.3   Component television systems ..................................................................................... 30 
+      10.7  Redundancy.............................................................................................................................. 30 
+
+SMPTE ST 12-1:2014 
+Page 3 of 41 pages 
+      10.8  Vertical Interval Time Code Waveform Characteristics ........................................................... 30 
+ 10.8.1   Logic level ................................................................................................................... 30 
+ 10.8.2   Rise/fall time ................................................................................................................ 31 
+ 10.8.3   Amplitude distortion ..................................................................................................... 31 
+11  Relationship Between LTC and VITC ............................................................................................... 31 
+      11.1  Time Address Data .................................................................................................................. 31 
+      11.2  Binary Group Data ................................................................................................................... 31 
+ 11.2.1   Transferring VITC binary group data to LTC binary group data ................................. 31 
+ 11.2.2   Transferring LTC binary group data to VITC binary group data ................................. 31 
+      11.3  VITC and LTC Codeword Comparison .................................................................................... 31 
+12  Progressive Systems with Frame Rates Greater than 30 Frames Per Second ............................... 33 
+      12.1  Time Address of a Frame Pair in 48, 50, and 60 Frames-Per-Second Progressive Systems ....... 33 
+      12.2  Implementation Guidelines  (Informative) ................................................................................ 34 
+Annex A   Explanatory Notes (Informative) ............................................................................................. 35 
+      A.1   Time Precision .......................................................................................................................... 35 
+      A.2   Leap Second Corrections ......................................................................................................... 35 
+      A.3   Frames and Time Code ............................................................................................................ 35 
+Annex B   Converting Time Codes when Converting Video from 24 Frames-Per-Second Television  
+                  Systems  (Informative) .......................................................................................................... 37 
+      B.1   Conversion of 24/1.001 (23.98) Fps Video to 30/1.001 (29.97) Fps Video .............................. 37 
+      B.2   Conversion of 24 Fps Video to 25 Fps Video ........................................................................... 38 
+Annex C   Bibliography  (Informative) ..................................................................................................... 39 
+Annex D   Time Code System "Roadmap"  (Informative) ....................................................................... 41 
+ 
+ 
+ 
+
+SMPTE ST 12-1:2014 
+Page 4 of 41 pages 
+Foreword 
+ 
+SMPTE (the Society of Motion Picture and Television Engineers) is an internationally-recognized standards 
+developing organization. Headquartered and incorporated in the United States of America, SMPTE has 
+members in over 80 countries on six continents. SMPTE’s Engineering Documents, including Standards, 
+Recommended Practices and Engineering Guidelines, are prepared by SMPTE’s Technology Committees.  
+Participation in these Committees is open to all with a bona fide interest in their work. SMPTE cooperates 
+closely with other standards-developing organizations, including ISO, IEC and ITU. 
+ 
+SMPTE Engineering Documents are drafted in accordance with the rules given in its Standards Operations 
+Manual.  
+ 
+SMPTE Standard ST 12-1 was prepared by Technology Committee 33TS. 
+ 
+ 
+ 
+ 
+ 
+Intellectual Property 
+ 
+At the time of publication no notice had been received by SMPTE claiming patent rights essential to the 
+implementation of this Engineering Document.  However, attention is drawn to the possibility that some of the 
+elements of this document may be the subject of patent rights. SMPTE shall not be held responsible for 
+identifying any or all such patent rights. 
+ 
+ 
+
+SMPTE ST 12-1:2014 
+Page 5 of 41 pages 
+Introduction  
+ 
+This section is entirely informative and does not form an integral part of this document. 
+ 
+This standard is one of the oldest SMPTE Standards. It was first adopted in 1975, and it has been widely 
+used for many systems outside SMPTE’s normal area of purview. It was developed for analog television 
+recording systems and thus dealt only with interlaced television systems operating with frame rates up to 30 
+frames per second. It is, however, flexible enough in design to be used in digital television systems, both 
+standard definition and high definition. The actual transport of the codewords for digital systems varies 
+significantly from the transport methods defined for analog systems, and is defined in the associated 
+document, SMPTE ST 12-2. 
+ 
+Progressive video systems with frame rates above 30 frames per second are described in this document, 
+documenting what have become “de facto” implementations.  Since the frame rate of these 50 and 60 frames- 
+per-second progressive systems exceeds the frame count capacity of the time address, counting is done on 
+frame pairs, which results in an edit resolution of two frames using traditional linear time code. 
+ 
+For applications of time code to film, SMPTE Recommended Practices RP 135 and RP 136 (see Annex C, 
+Bibliography), which are similar to, but not the same as this standard, may be applied, in particular for incamera optical recording. 
+ 
+Sections 5, 6, and 7 specify the manner in which time is represented in frame-based systems. Section 8 
+describes the structure of the time address and control bits of the code, and sets guidelines for storage of 
+user data in the binary groups of the code. Section 9 specifies the modulation method and interface 
+characteristics of a linear time code (LTC) source. Section 10 specifies the modulation method for inserting 
+the code into the vertical interval of an analog television signal (VITC). Section 11 summarizes the 
+relationship between the two forms of time and control code, LTC and VITC.  Section 12 has been added to 
+document time code implementations for video formats with frame per second rates greater than 30 fps. 
+ 
+The reader’s attention is drawn to the following documentation changes from the prior SMPTE 12M:1999: 
+ 
+Two SMPTE Recommended Practices — RP 164:1996, Location of Vertical Interval Time Code, and RP 
+159:1995, Vertical Interval Time Code and Longitudinal Time Code Relationship — have been 
+consolidated into this document.  The LTC reference datum has been relocated to the beginning of 
+Vertical Sync from a location one horizontal line later. This change includes a widening of the tolerance 
+interval to include the previous location tolerance interval  
+ 
+The time code documents have been restructured and organized into a suite of documents: 
+ 
+SMPTE ST 12-1 (previously SMPTE 12M), including the revisions described above. 
+ 
+SMPTE ST 12-2 (previously SMPTE RP 188), Ancillary Time Code. 
+ 
+ 
+
+SMPTE ST 12-1:2014 
+Page 6 of 41 pages 
+1 Scope 
+ 
+This Standard specifies a time and control code for use in television and accompanying audio systems 
+operating at nominal rates1 of 60, 59.94, 50, 48, 47.95, 30, 29.97, 25, 24, and 23.98 frames per second. This 
+standard defines a time address, binary groups, and flag bit structure. The standard also defines a binary 
+group flag assignment, a linear time code transport, and a vertical interval time code transport. 
+ 
+This standard defines primary data transport structures for Linear Time Code (LTC) and Vertical Interval Time 
+Code (VITC).  This standard defines the LTC modulation and timing for all video formats. This standard also 
+defines the VITC modulation and location for 525/59.94 and 625/50 analog composite and component 
+systems only. 
+ 
+Note:  The digital representation of analog VITC (D-VITC) is specified in SMPTE ST 266 and is defined for 525/59.94 and 
+625/50 digital component systems only.  High Definition formats, such as those documented in SMPTE ST 2048-2, 
+SMPTE ST 274, and SMPTE ST 296, use Ancillary Time Code (ATC) as specified in SMPTE ST 12-2 (formerly SMPTE 
+RP 188) for transport of time code in the digital video data stream. For future implementations of time code for digital 
+Standard Definition formats, the use of ATC rather than D-VITC is encouraged. 
+ 
+2 Conformance Notation 
+ 
+Normative text is text that describes elements of the design that are indispensable or contains the 
+conformance language keywords: "shall", "should", or "may". Informative text is text that is potentially helpful 
+to the user, but not indispensable, and can be removed, changed, or added editorially without affecting 
+interoperability. Informative text does not contain any conformance keywords.  
+ 
+All text in this document is, by default, normative, except: the Introduction, any section explicitly labeled as 
+"Informative" or individual paragraphs that start with "Note:”  
+ 
+The keywords "shall" and "shall not" indicate requirements strictly to be followed in order to conform to the 
+document and from which no deviation is permitted. 
+ 
+The keywords, "should" and "should not" indicate that, among several possibilities, one is recommended as 
+particularly suitable, without mentioning or excluding others; or that a certain course of action is preferred but 
+not necessarily required; or that (in the negative form) a certain possibility or course of action is deprecated 
+but not prohibited.  
+ 
+The keywords "may" and "need not" indicate courses of action permissible within the limits of the document.  
+ 
+The keyword “reserved” indicates a provision that is not defined at this time, shall not be used, and may be 
+defined in the future. The keyword “forbidden” indicates “reserved” and in addition indicates that the provision 
+will never be defined in the future. 
+ 
+A conformant implementation according to this document is one that includes all mandatory provisions 
+("shall") and, if implemented, all recommended provisions ("should") as described. A conformant 
+implementation need not implement optional provisions ("may") and need not implement them as described. 
+                                                 
+1The reader is cautioned that non-integer values are abbreviated. These abbreviations may be seen throughout this 
+document.  See Section 5.1.2 for additional information. 
+
+SMPTE ST 12-1:2014 
+Page 7 of 41 pages 
+ 
+3 Normative References 
+ 
+Note:  All references in this document to other SMPTE documents use the current numbering style (e.g. 
+SMPTE ST 170:2004) although, during a transitional phase, the document as published (printed or PDF) may 
+bear an older designation (such as SMPTE 170M-2004).  Documents with the same root number (e.g. 170) 
+and publication year (e.g. 2004) are functionally identical. 
+ 
+The following standards contain provisions which, through reference in this text, constitute provisions of this 
+standard. At the time of publication, the editions indicated were valid. All standards are subject to revision, 
+and parties to agreements based on this standard are encouraged to investigate the possibility of applying the 
+most recent edition of the standards indicated below. 
+ 
+ISO/IEC 646:1991, Information Technology — ISO 7-Bit Coded Character Set for Information Interchange  
+ 
+ISO/IEC 2022:1994, Information Technology — Character Code Structure and Extension Techniques  
+ 
+Recommendation ITU-R BT.1700 (2005), Characteristics of Composite Video Signals for Conventional 
+Analogue Television Systems, Annex 1 Part B, PAL Signal Format and Specification 
+ 
+SMPTE ST 170:2004 (Archived 2010), Television — Composite Analog Video Signal — NTSC for Studio 
+Applications  
+ 
+SMPTE ST 262:1995 (Archived 2011), Television, Audio and Film — Binary Groups of Time and Control 
+Codes — Storage and Transmission of Data 
+ 
+SMPTE ST 309:2012, Transmission of Date and Time Zone Information in Binary Groups of Time and Control 
+Code 
+ 
+SMPTE RP 168:2009, Definition of Vertical Interval Switching Point for Synchronous Video Switching 
+ 
+4 Definitions  
+ 
+4.1    
+Time and Control Code 
+The term “time and control code” encompasses all aspects of the time address, flag bits, and binary groups 
+for user-defined data codes, as well as two methods of modulation of the resulting codewords.  It is commonly 
+abbreviated to simply “time code” (note that some users spell this “timecode”). 
+ 
+Note:  The time address and binary group (“user data”) payload is attached to a particular frame or frame pairs either 
+directly or by reference within the user’s system. For frame-based systems the time address that forms part of the time 
+code is primarily intended as a label to identify discrete frames. It also may imply that a particular frame has had, has now, 
+or will have, a temporal relationship to something else, such as the frame's position in a sequence of frames or 
+synchronization to a reference signal. 
+ 
+4.2    
+Linear Time Code (LTC) 
+The acronym LTC refers to Linear Time Code, a codeword format and modulation system which is normally 
+used to record the time code signal on a linear recording medium or to transport the serial signal over an 
+interface independent of any video signal. 
+ 
+Note:  LTC was, in earlier editions of this standard, referred to as the longitudinal track application of time and control 
+code. The LTC codeword data is also used in digital television systems as Ancillary Time Code (see below). 
+
+SMPTE ST 12-1:2014 
+Page 8 of 41 pages 
+4.3    
+Vertical Interval Time Code (VITC) 
+The acronym VITC refers to the codeword format and modulation system used to insert the time code signal 
+in an active line within the vertical blanking interval of an analog Standard Definition television (SDTV) signal. 
+ 
+Note:  The VITC codeword data is also used in digital television systems as Ancillary Time Code (see below). 
+ 
+4.4    
+Ancillary Time Code (ATC) 
+The acronym ATC refers to ancillary packets carried in the Ancillary space (VANC or HANC) of a digital 
+television data stream, as described in SMPTE ST 12-2 (formerly SMPTE RP 188), and payloads of these 
+packets convey LTC or VITC codeword data. 
+ 
+Note:  ATC may also be used to carry other user-defined information, such as real time clock, film transfer 
+information, or tape timer information. ATC is a data transport applicable to both High Definition television (HDTV) 
+and SDTV digital video formats. 
+ 
+4.5    
+Frame 
+A frame contains all of the lines of spatial information of a video signal required to make up one complete 
+picture (including any necessary associated synchronization lines). For progressive video, these lines contain 
+picture samples, captured at one time instant, starting from the top of the frame and continuing through 
+successive lines to the bottom of the frame. 
+ 
+4.6    
+Field 
+For interlaced video, a frame consists of two fields. One of these fields will commence one field period later 
+than the other.   
+ 
+Note:  See SMPTE ST 170 for an example of such a system. Composite television standards might require multiple fields 
+in a “color sequence,” but that does not alter this document’s nominal terminology. 
+ 
+4.7    
+Time Code Source/Original Source 
+A Time Code Source is any device which generates a time and control code signal, or regenerates a time and 
+control code signal from a recorded medium or transmission channel.  
+ 
+An Original Source refers specifically to a device which is generating the time and control code signal in 
+synchronization with its associated video and/or audio. 
+ 
+Note:  An example of such an Original Source is a video server or a videotape transport at play speed only. A videotape 
+transport in shuttle would not qualify by this definition as an “Original Source.” 
+ 
+4.8    
+Binary Coded Decimal (BCD) System 
+A means for encoding decimal numbers as groups of binary bits. Each decimal digit (0-9) is represented by a 
+unique four-bit code. The four bits are weighted with the digit's decimal weight multiplied by successive 
+powers of two.  
+ 
+Note:  For example, the bit weights for a "units" digit would be 1 x 20, 1 x 21, 1 x 22, and 1 x 23, while the bit weights for a 
+"tens" digit would be 10 x 20, 10 x 21, 10 x 22, and 10 x 23. 
+ 
+4.9    
+Frame Rate 
+Frame rates are either an integer number of frames per second or an integer number divided by 1.001 per 
+second. 
+ 
+4.10   
+Frame Pair 
+Two time-consecutive frames of a video signal for which there is a first frame and a second frame. 
+
+SMPTE ST 12-1:2014 
+Page 9 of 41 pages 
+5 Time Representation in 30 and 60 Frames-Per-Second Systems  
+ 
+5.1   Definitions of Real Time and NTSC Time 
+ 
+5.1.1   Definition of real time 
+ 
+In a system operating at a frame rate of 30 frames per second, exactly one second of real time elapses during 
+the duration of 30 frames. In a system operating at a frame rate of 60 frames per second, exactly one second 
+of real time elapses during the duration of 60 frames. 
+ 
+5.1.2   Definition of NTSC time2 
+ 
+In an NTSC television system operating at a frame rate of 30/1.001 frames per second (a field rate of 
+60/1.001 fields per second), one second of NTSC time elapses during the duration of 30 television frames. 
+Because of the difference in scanning rates, the relationship between real time (t(REAL)) and NTSC time (t(NTSC)) 
+is:  
+ 
+ 
+ 
+t(NTSC) = 1.001 * t(REAL), 
+ 
+Note:  There are other television systems (such as some HDTV systems) which operate at 24/1.001, 30/1.001, 48/1.001, 
+or 60/1.001 frames per second. The term “NTSC time” is used to indicate its historical origins and to describe the common 
+frame time base of all of these systems. 
+ 
+Note:  The results of dividing the integer frame rates by 1.001 do not result in precise decimal numbers, for example, 
+30/1.001 is 29.970029970029... (to 12 decimals). This is commonly abbreviated as 29.97.  In a similar manner, it is 
+common to abbreviate 24/1.001 as 23.98, 48/1.001 as 47.95, and 60/1.001 as 59.94.  These abbreviations are used 
+throughout this document. Sufficient precision is necessary in calculations to assure that rounding or truncation operations 
+will not create errors in the end result. This is particularly important when calculating audio sample alignments or when 
+long-term time keeping is required. 
+ 
+5.2   Time Address of a Frame  
+ 
+Each frame shall be identified by a unique and complete address consisting of an hour, minute, second, and 
+frame number. For systems operating at 60 frames per second, each frame pair shall be identified by a 
+unique and complete address consisting of an hour, minute, second, and frame number. 
+ 
+Note:  Refer to SMPTE 258M for standard character data formats. 
+ 
+The hours, minutes, and seconds follow the ascending progression of a 24-hour clock beginning with 00 
+hours, 00 minutes, and 00 seconds to 23 hours, 59 minutes, and 59 seconds. The frames shall be numbered 
+successively according to the counting mode (drop frame or non-drop frame) as described below. 
+ 
+Note:  See Section 12 for additional information regarding television systems which operate at 60 frames per second. 
+ 
+5.2.1   Non-drop frame – Uncompensated mode  
+ 
+Frames shall be successively numbered 00 through 29, with no omissions. 
+ 
+5.2.2   Drop frame – NTSC time compensated mode  
+ 
+Because the frame rate of an NTSC-time related 30 frames-per-second television signal is 30/1.001 frames 
+per second (≈ 29.97 Hz, which also is a field rate of 60/1.001 fields per second, ≈ 59.94 Hz), monotonically 
+counting at 30 frames per second will yield a deviation of approximately +108 frames (+3.6 s) in one hour of 
+elapsed time. counting at 30 frames per second will yield a deviation of approximately +108 frames (+3.6 s) in 
+one hour of elapsed time.  
+                                                 
+2 This term is chosen to indicate its historical origins, not to be proscriptive. 
+
+SMPTE ST 12-1:2014 
+Page 10 of 41 pages 
+To minimize the NTSC time deviation from real time, the first two frame numbers (00 and 01) shall be omitted 
+from the count at the start of each minute except minutes 00, 10, 20, 30, 40, and 50.  
+ 
+Because the frame rate of a progressive NTSC-time related 60 frames-per-second television signal is actually 
+60/1.001 frames per second, and each time code count references a frame pair, the same counting 
+mechanism may be applied as well.  See § 12 for additional information on this subject. 
+ 
+Note:  When drop-frame compensation is applied to an NTSC television time code, the total deviation accumulated after 
+one hour is reduced to approximately –3.6 ms. The total deviation accumulated over a 24-hour period is approximately 
+–2.6 frames (–86 ms). 
+ 
+5.3   Color Frame Identification in NTSC Analog Composite Television Systems 
+ 
+If color frame identification in the time code is required, the even units of frame numbers shall identify color 
+fields I and II, and the odd units of frame numbers shall identify color fields III and IV, as specified in SMPTE 
+170M. 
+ 
+Note:  Even though a component system does not have a color sequence, the time code may carry color sequence 
+information from an original video source so that recoding of a composite signal into a component signal and back can 
+preserve the original color sequence relationship. 
+ 
+6 Time Representation in 25 and 50 Frames-Per-Second Systems 
+  
+6.1   Definition of Real Time  
+ 
+In a system running at a frame rate of 25 frames per second, exactly one second of real time elapses during 
+the duration of 25 frames. In a system running at a frame rate of 50 frames per second, exactly one second of 
+real time elapses during the duration of 50 frames. 
+ 
+Note:  In rare instances, such as standards conversion, some systems use an NTSC-time related timebase, resulting in a 
+frame rate of 25/1.001 (24.9750...3). 
+ 
+6.2   Time Address of a Frame  
+ 
+Each frame shall be identified by a unique and complete address consisting of an hour, minute, second, and 
+frame number. For systems operating at 50 frames per second, each frame pair shall be identified by a 
+unique and complete address consisting of an hour, minute, second, and frame number. 
+ 
+The hours, minutes, and seconds follow the ascending progression of a 24-hour clock beginning with 00 
+hours, 00 minutes, and 00 seconds to 23 hours, 59 minutes, and 59 seconds. The frames (or frame pairs for 
+50 frames-per-second systems) shall be numbered successively 00 through 24. 
+ 
+There is no counting mode such as drop frame (which is applicable only to 30-frame counting) that is 
+applicable to 25-frame counting. 
+ 
+Note:  See Section 12 for additional information regarding television systems which operate at frame rates of 50 frames 
+per second. 
+ 
+6.3   Color Frame Identification in PAL Composite Television Systems  
+ 
+If identification of the eight-field color sequence in the time code is required, the time address shall bear a 
+deterministic relationship with the eight-field color sequence (as specified in ITU-R BT.1700). This relationship can 
+be expressed using either logical or arithmetic notations as given in Section 6.3.1 and Section 6.3.2, 
+respectively.  
+                                                 
+3 Please see the Note in Section 5.1.2 regarding rounding errors. 
+
+SMPTE ST 12-1:2014 
+Page 11 of 41 pages 
+Note:  Even though a component system does not have a color sequence, the time code could carry color sequence 
+information from an original video source so that recoding of a composite signal into a component signal and back can 
+preserve the original color sequence relationship. 
+ 
+6.3.1   Logical relationship  
+ 
+Given that the frame and second numbers of the time address are expressed as BCD digit pairs, the value of 
+the logical expression (A|B) ^ C ^ D ^ E ^ F shall be: 
+ 
+"1" for fields 1, 2, 3, and 4;  
+"0" for fields 5, 6, 7, and 8; 
+ 
+where: 
+ 
+A  
+equals the value of the 1's bit of the frame number; 
+B  
+equals the value of the 1's bit of the second number; 
+C  
+equals the value of the 2's bit of the frame number; 
+D  
+equals the value of the 10's bit of the frame number; 
+E  
+equals the value of the 2's bit of the second number; 
+F  
+equals the value of the 10's bit of the second number; 
+|  
+represents the logical OR operation; 
+^  
+represents the logical EXCLUSIVE OR operation. 
+ 
+6.3.2   Arithmetic relationship  
+ 
+The remainder of the quotient of the division (S + P) / 4 shall be:  
+ 
+ 0 for fields 7 and 8;  
+ 1 for fields 1 and 2;  
+ 2 for fields 3 and 4;  
+ 3 for fields 5 and 6;  
+ 
+where: 
+ 
+ S equals the decimal value of the seconds digits of the time address, and  
+ P equals the decimal value of the frames digits of the time address. 
+ 
+7 Time Representation in 24 and 48 Frames-Per-Second Systems 
+ 
+7.1   Definitions of Real Time and NTSC Time 
+ 
+7.1.1   Definition of real time 
+ 
+In a system running at a frame rate of 24 frames per second, exactly one second of real time elapses during 
+the duration of 24 frames. In a system operating at a frame rate of 48 frames per second, exactly one second 
+of real time elapses during the duration of 48 frames. 
+ 
+7.1.2   Definition of NTSC time 
+ 
+In a NTSC-time related television signal operating at 24/1.001 frames per second (approximately 23.984), 
+straightforward counting at 24 frames per second will yield a deviation of approximately 86 frames (3.6 
+seconds) in one hour of elapsed time.  
+ 
+Where it is desired to maintain a correspondence with 30 frame per second systems the 30 non-drop frame 
+count mode should be used.  For additional details refer to Annex B.1. 
+                                                 
+4 Please see the Note in Section 5.1.2 regarding rounding errors. 
+
+SMPTE ST 12-1:2014 
+Page 12 of 41 pages 
+7.2   Time Address of a Frame  
+ 
+For systems operating at 24 or 24/1.001 frames per second, each frame shall be identified by a unique and 
+complete address consisting of an hour, minute, second, and frame number. For systems operating at 48 or 
+48/1.001 frames per second, each frame pair shall be identified by a unique and complete address consisting 
+of an hour, minute, second, and frame number. The hours, minutes, and seconds follow the ascending 
+progression of a 24-hour clock beginning with 00 hours, 00 minutes, and 00 seconds to 23 hours, 59 minutes, 
+and 59 seconds. The frames (or frame pairs for 48 or 48/1.001 frames per second systems) shall be 
+numbered successively 00 through 23. 
+  
+There is no counting mode such as drop frame (which is applicable only to 30-frame counting) that is 
+applicable to 24-frame counting.  
+ 
+8 Structure of the Time Address and Control Bits 
+ 
+8.1   Numeric Code  
+ 
+The numeric code consists of sixteen groups, eight four-bit groups containing time address and flag bits, and 
+eight four-bit binary groups for user-defined data and control codes.  
+ 
+8.2   Time Address  
+ 
+The basic structure of the time address is based upon the BCD system, using units and tens in digit pairs for 
+hours, minutes, seconds, and frames. Some of the digits are limited to values that do not require all four bits 
+to be significant. These bits shall be omitted from the time address and include the "80’s" and "40’s" of hours, 
+"80’s" of minutes, "80’s" of seconds, and the "80’s" and "40’s" of frames. Thus the entire time address is 
+coded into 26 bits.  
+ 
+8.3   Flag Bits 
+ 
+Six bits shall be reserved for the storage of flags which define the operational mode of the time and control 
+code. A device which decodes a time and control code may utilize these flags to properly interpret the time 
+address and binary group data.  
+ 
+8.3.1   Drop frame flag  
+ 
+This flag shall be set to logical one when drop-frame compensation is being performed as specified in Section 
+5.2.2. When the count is not drop-frame compensated, this flag bit shall be set to logical zero.  
+ 
+8.3.2   Color frame flag (NTSC and PAL composite color systems)  
+ 
+If this flag is set to logical one it shall indicate that color frame identification has been applied to the time 
+address as defined in Section 5.3 or Section 6.3. If this flag is set to logical zero then there is no implied 
+relationship between the color frame sequence and the time address. 
+ 
+Note:  Color frame identification may be forced by an original source of time and control code by halting the time address 
+count until the color field to time code relationship is satisfied, after which the time address is incremented normally for 
+each frame. As long as neither the time address counting sequence nor the color field sequence is changed, the 
+relationship will remain satisfied.  
+ 
+8.3.3   Binary group flags  
+Three flags provide eight unique combinations which signify the use of the binary groups (see Section 8.4). 
+Three combinations of these flags also specify that the time address count is referenced to a time-of-day 
+clock reference (see Section 8.5) and these flag combinations also identify subsets of the binary group 
+applications.   
+
+SMPTE ST 12-1:2014 
+Page 13 of 41 pages 
+ 
+Note:  The term Binary Group Flags represents its historical origins, however these flags now also signal time address 
+count parameters. 
+ 
+8.3.4   Modulation method specific flag  
+ 
+The remaining flag bit is reserved for use by each modulation method. This flag is defined in Section 9.2.5 and 
+Section 10.2.4. 
+ 
+8.4   Use of the Binary Groups 
+ 
+The binary groups are intended for storage and transmission of data by the users. The format of the data 
+contained in the binary groups is specified by the value of three binary group flag bits BGF2, BGF1, and 
+BGF0. The following sections illustrate the assignments of the binary group flag states. The relevant 
+documents cited in each subsection provide the definitions for the use of each Binary Group flag assignment.  
+Table 1 summarizes the present assigned combinations. 
+ 
+Note:  The binary groups are commonly referred to as "user bits". 
+ 
+Table 1 – Binary group flag assignments 
+ 
+BGF2 
+ 
+BGF1 
+ 
+BGF0 
+ 
+Time address 
+reference 
+Binary group 
+ 
+Reference Section 
+ 
+0 
+0 
+0 
+Unspecified 
+Unspecified 
+Section 8.4.1 
+0 
+0 
+1 
+Unspecified 
+8-bit codes 
+Section 8.4.2 
+0 
+1 
+0 
+Clock time 
+Unspecified 
+Section 8.4.3, Section 8.5 
+0 
+1 
+1 
+Reserved 
+Reserved 
+Section 8.4.4 
+1 
+0 
+0 
+Unspecified 
+Date and time zone 
+Section 8.4.5 
+1 
+0 
+1 
+Unspecified 
+Page/line 
+Section 8.4.6 
+1 
+1 
+0 
+Clock time 
+Date and time zone 
+Section 8.4.7, Section 8.5 
+1 
+1 
+1 
+Clock time 
+Page/line 
+Section 8.4.8,  Section 8.5 
+ 
+ 
+Note:  SMPTE RP 135, which specifies the use of binary groups for Motion Picture applications, specifies Binary Group 
+flag combinations which are applicable only to the time code specified in SMPTE RP 136 for Motion Picture applications. 
+The two time codes specified in SMPTE RP 136 are similar to the time code specified in this document, but have 
+significant differences in their overall structure. 
+ 
+8.4.1   Character set not specified and unspecified clock time (BGF2=0, BGF1=0, BGF0=0) 
+ 
+When used, this combination of binary group flags shall signify that the time address reference is undefined 
+and that the binary groups contain an unspecified character set. The 32 bits within the eight binary groups 
+may be assigned in any manner without restriction.  
+ 
+8.4.2   Eight-bit character set and unspecified clock time (BGF2=0, BGF1=0, BGF0=1) 
+ 
+When used, this combination shall signify that the time address reference is undefined and that the binary 
+groups contain an eight-bit character set conforming to ISO/IEC 646 or ISO/IEC 2022. If the seven-bit ISO 
+codes are being used, they shall be converted to eight-bit codes by setting the eighth bit to 0.  
+ 
+Four ISO codes may be encoded in the binary groups, each occupying two binary groups. The first ISO code 
+is contained in binary groups 7 and 8, with the least significant four bits in binary group 7 and the most 
+significant four bits in binary group 8. The three remaining ISO codes are stored in binary groups 5/6, 3/4, and 
+1/2 accordingly.  
+
+SMPTE ST 12-1:2014 
+Page 14 of 41 pages 
+ 
+8.4.3   Character set not specified and clock time specified (BGF2=0, BGF1=1, BGF0=0) 
+ 
+When used, this combination shall specify that the time address is referenced to an external time-of-day clock 
+and signifies an unspecified character set. The 32 bits within the eight binary groups may be assigned in any 
+manner without restriction (see also Section 8.5).  
+ 
+8.4.4   Reserved binary group usage and reserved clock time (BGF2=0, BGF1=1, BGF0=1) 
+ 
+This combination is reserved for future definition by SMPTE, and shall not be used. 
+ 
+8.4.5   Date/time zone and unspecified clock time (BGF2=1, BGF1=0, BGF0=0) 
+ 
+When used, this combination shall signify that the time address reference is undefined and that the binary 
+groups contain date and time zone data encoded as described in SMPTE ST 309.  
+ 
+8.4.6   Page/line multiplex system and unspecified clock time (BGF2=1, BGF1=0, BGF0=1) 
+ 
+When used, this combination shall signify that the time address reference is undefined and that the binary 
+groups contain information formatted according to the page/line multiplex system as described in SMPTE ST 
+262. This multiplex system defines a hierarchy that can be used to encode large amounts of data in the binary 
+groups through the use of time multiplexing. Applications for this encoding scheme include control codes, text 
+data, and production information.  
+ 
+8.4.7   Date/time zone and clock time (BGF2=1, BGF1=1, BGF0=0) 
+ 
+When used, this combination shall signify that the time address is referenced to an external time-of-day clock 
+and shall signify date and time zone encoding as described in SMPTE ST 309 (see also Section 8.5).  
+ 
+8.4.8   Page/line multiplex system and clock time specified (BGF2=1, BGF1=1, BGF0=1) 
+ 
+When used, this combination shall signify that the time address is referenced to an external time-of-day clock 
+and shall signify the page/line multiplex system as described in SMPTE ST 262. This multiplex system 
+defines a hierarchy that can be used to encode large amounts of data in the binary groups through the use of 
+time multiplexing. Applications for this encoding scheme include control codes, text data, and production 
+information (also see Section 8.5).  
+ 
+8.5   Clock Time Reference – Binary Group Flag Combinations 
+ 
+Three flag combinations are used when the time address has been referenced to a time-of-day clock 
+reference. These flag combinations also signify subsets of the available binary group applications (see Section 
+8.4.3, Section 8.4.7, and Section 8.4.8). One of these combinations also signifies the encoding of the time 
+zone and the date in the binary groups (see Section 8.4.7).  
+ 
+Note:  Additional information relating to time precision is included in Annex A.  
+ 
+9 Linear Time Code Application 
+ 
+9.1   Codeword Format  
+ 
+Each LTC codeword consists of 80 bits numbered 0 through 79. The bits are generated serially beginning 
+with bit 0. Bit 79 of the codeword is followed by bit 0 of the next codeword. For systems operating at 30 Hz or 
+below, each codeword is normally associated with one television frame. For systems operating above 30 Hz, 
+each codeword is normally associated with a pair of television frames. 
+
+SMPTE ST 12-1:2014 
+Page 15 of 41 pages 
+ 
+9.2   Codeword Data Content  
+ 
+Each LTC codeword contains the time address, flag bits, binary groups, biphase mark polarity correction bit, 
+and a synchronization word.  
+ 
+9.2.1   Time address  
+ 
+The time address bits are defined in Section 8.2. The lowest numbered bit of each group corresponds to the 
+least significant bit of each BCD digit. The bit positions are listed in Table 2. 
+ 
+Table 2 – LTC time address bit positions 
+ 
+Bit 
+Definition 
+0 – 3 
+  Units of frames 
+8 – 9 
+  Tens of frames 
+16 – 19 
+  Units of seconds 
+24 – 26 
+  Tens of seconds 
+32 – 35 
+  Units of minutes 
+40 – 42 
+  Tens of minutes 
+48 – 51 
+  Units of hours 
+56 – 57 
+  Tens of hours 
+ 
+9.2.2   Flag bits  
+ 
+The drop frame, color frame, and binary group flag bits are defined in Section 8.3. The bit positions are listed 
+in Table 3. Note that not all flag bits are used by all systems, as designated by the symbol "–". Unused flag 
+bits shall be set to 0 by original sources and ignored by receiving equipment.   
+ 
+Note:  Users are advised that some legacy devices may set unused flag bits to other values. 
+ 
+Table 3– LTC flag bit positions 
+ 
+30-frame Bit 
+25-frame Bit 
+24-frame Bit 
+Definition 
+10 
+– [10] 
+– [10] 
+Drop frame flag 
+11 
+11 
+– [11] 
+Color frame flag 
+27 
+59 
+27 
+Polarity correction 
+43 
+27 
+43 
+Binary group flag BGF0 
+58 
+58 
+58 
+Binary group flag BGF1 
+59 
+43 
+59 
+Binary group flag BGF2 
+ 
+9.2.3   Biphase mark polarity correction  
+ 
+This flag bit is specific to the LTC modulation method described in Section 9.3. The position of this flag is 
+listed in Table 3.  
+ 
+Because of the nature of the modulation method, the polarity of the first clock transition of the first bit of the 
+synchronization word may differ from codeword to codeword depending on the number of logical zeros in the data.  
+ 
+Applications which switch between two sources of time and control code may require the polarity of the two 
+sources to be stable during the synchronization word. If polarity stabilization of the sync word is required, the 
+biphase mark polarity correction bit shall be put in a state so that every 80-bit codeword will contain an even 
+number of logical zeros.  
+ 
+
+SMPTE ST 12-1:2014 
+Page 16 of 41 pages 
+This requirement is summarized as follows:  
+ 
+When polarity correction of the codeword is required and the number of logical zeros in bit positions 0 
+through 63 (exclusive of the polarity correction bit itself) is odd, then the polarity correction bit shall be set 
+to logical one, otherwise the polarity correction bit shall be set to logical zero.  
+ 
+9.2.4   Binary groups  
+ 
+Eight four-bit binary groups are defined in Section 8.3. The lowest numbered bit of each group corresponds to 
+the least significant bit of that group. The positions of the bits are listed in Table 4. 
+ 
+Table 4 – LTC binary group bit positions 
+ 
+Bit 
+Definition 
+4 to 7 
+ First binary group 
+12 to 15 
+ Second binary group 
+20 to 23 
+ Third binary group 
+28 to 31 
+ Fourth binary group 
+36 to 39 
+ Fifth binary group 
+44 to 47 
+ Sixth binary group 
+52 to 55 
+ Seventh binary group 
+60 to 63 
+ Eighth binary group 
+ 
+9.2.5   Synchronization word  
+ 
+The synchronization word is a static combination of bits which can be used by receiving equipment to 
+accurately identify the bit position of the serial code. The LTC synchronization word is unique in that the same 
+combination cannot be generated by any combination of valid data values in the remainder of the code.  
+ 
+Bits 65 to 78 form a unique pattern that is symmetrical about the center of the synchronization word, allowing 
+detection in either direction. Bits 64 and 79 are complements of each other, allowing a receiver to determine 
+the direction of the code. 
+ 
+Table 5 – LTC synchronization word bit positions and values 
+ 
+Sync word Bit position 
+Sync word bit value 
+64 
+0 
+65 
+0 
+66 
+1 
+67 
+1 
+68 
+1 
+69 
+1 
+70 
+1 
+71 
+1 
+72 
+1 
+73 
+1 
+74 
+1 
+75 
+1 
+76 
+1 
+77 
+1 
+78 
+0 
+79 
+1 
+
+SMPTE ST 12-1:2014 
+Page 17 of 41 pages 
+9.3   Modulation Method  
+ 
+The LTC codeword is biphase mark encoded according to the following coding rules (see Figure 1):  
+ 
+a) a transition occurs at each bit cell boundary, regardless of the value of the bit;  
+ 
+b) a logical one is represented by an additional transition occurring at the bit cell midpoint;  
+ 
+c) a logical zero is represented by having no additional transitions within the bit cell.  
+ 
+The biphase mark encoded signal has no DC component, is amplitude and polarity insensitive, and includes 
+transitions at every bit cell boundary from which the clock may be extracted. 
+ 
+1/Fe
+"ZERO" BIT
+"ONE" BIT
+1/Fe
+(NO TRANSITION)
+(TRANSITION)
+CLOCK
+TRANSITION
+CLOCK
+TRANSITION
+CLOCK
+TRANSITION
+5% MAX
+100% P-P
+5% MAX
+tr
+1/2 Fe
+40 µs
+90%
+10%
+NOMINAL VALUES:
+Frame
+Rate:        1/2 Fe       1/Fe
+30.00 F/s   208.3 µs   416.7 µs
+25.00 F/s   250.0 µs   500.0 µs
+24.00 F/s   260.4 µs   520.8 µs
+23.98 F/s   260.7 µs   521.4 µs
+29.97 F/s   208.5 µs   417.1 µs
+ 
+Figure 1 – Linear time code source output waveform 
+ 
+9.4   Bit Rate  
+ 
+The bits shall be evenly spaced throughout the codeword period, and shall fully occupy the codeword period 
+which is one frame or two television fields. Consequently, the nominal rate, Fe, at which the bits are 
+generated, shall be:  
+ 
+f
+e
+F
+F
+
+80
+ 
+where:  
+Ff  is the frame rate of the LTC time code. 
+ 
+If an original source generates an LTC signal referenced to a television signal, the bit clock shall be phase 
+locked to the television signal. In such case, each LTC codeword is normally associated with one television 
+frame.  (Note:  See Section 12 for the exception.)  However, if an original source generates an LTC signal 
+without a reference, the frequency tolerance shall be ±100 ppm. 
+
+SMPTE ST 12-1:2014 
+Page 18 of 41 pages 
+9.5   Timing of the Codeword Relative to a Television Signal  
+ 
+The timing reference datum for LTC shall be the half-amplitude point of the first transition of bit 0 of the 80-bit 
+LTC codeword. 
+ 
+For analog television systems the video reference datum is the start of vertical sync.  For digital television 
+systems, the video reference datum is the start of the video frame.  For 525/59.94 systems this is the start of 
+line 4 and for all other systems this is the start of line 1.   
+ 
+Note:  SMPTE RP 168, Appendix A defines the timing relationship between the different video formats with common time 
+bases. 
+ 
+The first transition of bit 0 of the codeword shall occur at the reference datum of the video frame with which it 
+is associated.  The tolerance shall be -32 / +160 μs. 
+ 
+For television systems operating above 30 frames per second, the video reference datum is the start of line 1 
+of the first frame of the frame pair to which the LTC is associated. The individual frames should be identified 
+by their timing relative to the LTC with the first frame of the pair aligned with LTC bits 0 through 39 and the 
+second frame of the pair aligned with LTC bits 40 through 79.  Figure 5 shows an example of the relationship 
+between the resulting LTC and the video signal. 
+ 
+Examples of the alignment of LTC to some 30, 29.97, 25, 24 and 23.98 frames-per-second television systems 
+are shown in Figure 2, Figure 3, and Figure 4. 
+ 
+Note:  Since LTC may be recorded on a different track or stored in a separate area from the video signal on a storage 
+medium, the phase relation between the reproduced LTC and the reproduced video signal may vary during the range of 
+full system operation, while keeping the basic function of video frame identification. Such a video system may regenerate 
+the LTC during playback.  See Section 4.7 discussion of “source” versus “original source.” 
+ 
+This standard specifies the tolerance for the datum alignment at the output of an Original LTC Source. A 
+receiver shall as a minimum accept the tolerances of a source time code.   
+ 
+Note:  Users are advised that in operational systems the datum alignment is subject to deviation. 
+ 
+9.6   Linear Time Code Interface Electrical and Mechanical Characteristics  
+ 
+All measurements shall be made at the LTC interface while driving a resistive load of 1 kΩ and the source 
+device is running at normal play speed.  
+ 
+9.6.1   Rise/fall time  
+ 
+The rise and fall times of the transitions of the time code pulse train shall be 40 µs ± 10 µs, measured 
+between the 10 % and 90 % amplitude points on the waveform.  
+ 
+9.6.2   Amplitude distortion  
+ 
+Any combination of overshoot, undershoot, and tilt shall be limited to 5 % of the peak-to-peak amplitude of the 
+signal waveform.  
+ 
+9.6.3   Timing of the transitions  
+ 
+The time between clock transitions shall not vary by more than 1.0 % of the average clock period measured 
+over at least the time of one frame. The “one” transition shall occur midway between the two clock transitions 
+within 0.5 % of one clock period. Measurement of these timings shall be made at half-amplitude points on the 
+waveform.  
+
+SMPTE ST 12-1:2014 
+Page 19 of 41 pages 
+9.6.4   Interface connector  (Informative) 
+ 
+The preferred connector for double-ended or balanced outputs is a 3-pin XLR (MALE) and for inputs a 3-pin 
+XLR (FEMALE). Pin 1 is chassis ground, pins 2 and 3 carry the double-ended or balanced signals. The 
+preferred connector for single-ended or unbalanced outputs or inputs is a BNC (FEMALE).  
+ 
+9.6.5   Output impedance  
+ 
+The output impedance of a single-ended, balanced or unbalanced source shall be no greater than 50 Ω. The 
+output impedance of a double-ended output shall be no greater than 25 Ω for each output side.  
+ 
+9.6.6   Output amplitude  (Informative) 
+ 
+The preferred output amplitude is between 1 V and 2 V peak-to-peak. The allowable range of amplitudes is 
+0.5 V to 4.5 V peak-to-peak. 
+
+SMPTE ST 12-1:2014 
+Page 20 of 41 pages 
+ 
+ 
+Figure 2 – 29.97/30-frame linear time code example 
+SYNCWORD
+  33.37 ms  NOMINAL FOR 29.97 F/s SYSTEMS
+33.33 ms NOMINAL FOR 30.0 F/s SYSTEMS
+BIT 0
+1
+8
+4
+2
+10
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+20
+DROP FRAME
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+COLOR FRAME
+POLARITY CORRECTION
+BGF0
+BGF2
+BGF1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+FRAMES
+FRAMES
+SECONDS
+SECONDS
+MINUTES
+MINUTES
+HOURS
+HOURS
+BINARY GROUP 1
+BINARY GROUP 2
+BINARY GROUP 3
+BINARY GROUP 4
+BINARY GROUP 5
+BINARY GROUP 8
+BINARY GROUP 7
+BINARY GROUP 6
+BIT 79
+BIT 64
+BIT 0 OF NEXT
+CODE WORD
+CODE START RELATIVE
+TO TELEVISION SYNC
+8
+9
+7
+6
+5
+4
+3
+2
+1
+525
+10
+524
+525/59.94/I
+NOT TO
+SCALE
++160 µs
+TOLERANCE  -32 µs
+1080/29.97/P
+5
+9
+10
+11
+8
+7
+6
+4
+3
+2
+1
+14
+13
+12
+1125
+16
+15
+1119
+1120
+1121
+1122
+1123
+1124
+1116
+1117
+1118
+1080/59.94/I
+
+SMPTE ST 12-1:2014 
+Page 21 of 41 pages 
+ 
+ 
+Figure 3 – 25-frame linear time code example 
+CODE START RELATIVE
+TO TELEVISION SYNC
+BIT 0 OF NEXT
+CODE WORD
+SYNCWORD
+  40 ms  NOMINAL
+BIT 0
+1
+8
+4
+2
+10
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+20
+UNASSIGNED
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+COLOR FRAME
+BGF0
+BGF2
+POLARITY CORRECTION
+BGF1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+FRAMES
+FRAMES
+SECONDS
+SECONDS
+MINUTES
+MINUTES
+HOURS
+HOURS
+BINARY GROUP 1
+BINARY GROUP 2
+BINARY GROUP 3
+BINARY GROUP 4
+BINARY GROUP 5
+BINARY GROUP 8
+BINARY GROUP 7
+BINARY GROUP 6
+BIT 79
+BIT 64
+NOT TO
+SCALE
+625/50/I
+6
+5
+4
+3
+2
+1
+625
+624
+623
+622
+7
+621
++160 µs
+TOLERANCE  -32 µs
+1080/25/P
+5
+9
+10
+11
+8
+7
+6
+4
+3
+2
+1
+14
+13
+12
+1125
+16
+15
+1119
+1120
+1121
+1122
+1123
+1124
+1116
+1117
+1118
+1080/50/I
+
+SMPTE ST 12-1:2014 
+Page 22 of 41 pages 
+ 
+ 
+Figure 4 – 24-frame linear time code example 
+CODE  START  RELATIVE
+TO  TELEVISION  SYNC
+BIT  0  OF  NEXT
+CODE WORD
+BINARY GROUP 1
+BINARY GROUP 2
+BINARY GROUP 3
+BINARY GROUP 4
+BINARY GROUP 5
+BINARY GROUP 8
+BINARY GROUP 7
+BINARY GROUP 6
+SYNCWORD
+  41.71 ms  NOMINAL  23.98 Hz SYSTEMS
+  41.67 ms  NOMINAL  24.00 Hz SYSTEMS
+BIT 0
+1
+8
+4
+2
+10
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+20
+UNASSIGNED
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+UNASSIGNED
+POLARITY CORRECTION
+BGF0
+BGF2
+BGF1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+FRAMES
+FRAMES
+SECONDS
+SECONDS
+MINUTES
+MINUTES
+HOURS
+HOURS
+BIT 79
+BIT 64
+NOT  TO
+SCALE
+625/47.95/I
+625/48/I
+6
+5
+4
+3
+2
+1
+625
+624
+623
+622
+7
+621
+5
+9
+10
+8
+7
+6
+4
+3
+2
+1
+750
+744
+745
+746
+747
+748
+749
+720/23.98/P
+720/24/P
+1080/23.98/P
+1080/24/P
++160 µs
+TOLERANCE  -32 µs
+1119
+1120
+1122
+1123
+1124
+1116
+1117
+1118
+5
+9
+10
+11
+8
+7
+6
+4
+3
+2
+1
+14
+13
+12
+16
+15
+1121
+1125
+
+SMPTE ST 12-1:2014 
+Page 23 of 41 pages 
+ 
+ 
+Figure 5 – Linear time code relationship to 59.94-frame progressive video example 
+SYNCWORD
+1
+8
+4
+2
+10
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+40
+20
+1
+8
+4
+2
+10
+20
+DROP FRAME
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+LSB
+MSB
+COLOR FRAME
+POLARITY CORRECTION
+BGF0
+BGF2
+BGF1
+1
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+FRAMES
+FRAMES
+SECONDS
+SECONDS
+MINUTES
+MINUTES
+HOURS
+HOURS
+BINARY GROUP 1
+BINARY GROUP 2
+BINARY GROUP 3
+BINARY GROUP 4
+BINARY GROUP 5
+BINARY GROUP 8
+BINARY GROUP 7
+BINARY GROUP 6
+BIT 79
+BIT 0 OF NEXT
+CODE WORD
+CODE  START  RELATIVE
+TO  TELEVISION  SYNC
+NOT  TO
+SCALE
++160 µs
+TOLERANCE  -32 µs
+5
+8
+7
+6
+4
+3
+2
+1
+750
+744
+745
+746
+747
+748
+749
+5
+9
+1
+0
+1
+1
+8
+7
+6
+4
+3
+2
+1
+1
+2
+1125
+1119
+1120
+1121
+1122
+1123
+1124
+1116
+1117
+1118
+  33.37 ms  NOMINAL PER PAIR OF 59.94 F/s FRAMES
+33.33 ms NOMINAL FOR PAIR OF 60 F/s FRAMES
+  16.68 ms  NOMINAL FOR 59.94 F/s SYSTEMS
+16.67 ms NOMINAL FOR 60.0 F/s SYSTEMS
+BIT 64
+BIT 0
+BIT 39
+BIT 40
+720/59.94/P
+5
+8
+7
+6
+4
+3
+2
+1
+750
+744
+745
+746
+747
+748
+749
+5
+9
+1
+0
+1
+1
+8
+7
+6
+4
+3
+2
+1
+1
+2
+1125
+1119
+1120
+1121
+1122
+1123
+1124
+1116
+1117
+1118
+1080/59.94/P
+
+SMPTE ST 12-1:2014 
+Page 24 of 41 pages 
+10  Vertical Interval Application — Analog Television Systems 
+ 
+Note:  Digital television systems are encouraged to use ATC for this application.  Alternatively, D-VITC may be used. 
+ 
+10.1   Codeword Format  
+ 
+Each codeword shall consist of 90 bits numbered 0 through 89, organized as nine groups of ten bits. Each 
+ten-bit group starts with a synchronization bit pair, which is a logical one bit followed by a logical zero bit. The 
+synchronization bit pair is followed by eight data bits.  
+ 
+The first eight groups contain the sixty-four time and control code data bits, the ninth contains a cyclic 
+redundancy check (CRC) code used to detect errors in the VITC codeword.  
+ 
+The boundaries of the codeword are defined as the leading edge of the first bit (bit 0) and the trailing edge of 
+the last bit (bit 89). Since bit 0 is the first synchronization bit of the codeword, it shall always have the value of 
+logical one. Thus, there will always be a rising transition at the leading edge of bit 0 to signal the start of the 
+word.  
+ 
+10.2   Codeword Data Content  
+ 
+Each VITC codeword consists of a time address, flag bits, binary groups, field mark flag, CRC code, and 
+synchronization bits. Refer to Figure 6 and Figure 7 for examples of the VITC signal. 
+
+SMPTE ST 12-1:2014 
+Page 25 of 41 pages 
+ 
+ 
+Figure 6 – 525/59.94 vertical interval time code address bit assignment and timing 
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+FRAMES
+BINARY GROUP 1
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+SECONDS
+BINARY GROUP 3
+1
+0
+SYNC BIT PAIR
+10
+20
+DROP FRAME
+COLOR FRAME
+LSB
+MSB
+FRAMES
+BINARY GROUP 2
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+MINUTES
+BINARY GROUP 5
+1
+0
+SYNC BIT PAIR
+10
+20
+40
+FIELD MARK
+LSB
+MSB
+SECONDS
+BINARY GROUP 4
+1
+0
+SYNC BIT PAIR
+10
+20
+40
+BGF0
+LSB
+MSB
+MINUTES
+BINARY GROUP 6
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+HOURS
+BINARY GROUP 7
+10
+20
+BGF1
+BGF2
+LSB
+MSB
+HOURS
+BINARY GROUP 8
+X8
+CRC CODE
+X1
+  63.556 us  NOMINAL
+49.739 us  NOMINAL
+1
+0
+SYNC BIT PAIR
+1
+0
+SYNC BIT PAIR
+2 us MIN
+10 us MIN
+BIT 0
+BIT 89
+
+SMPTE ST 12-1:2014 
+Page 26 of 41 pages 
+ 
+ 
+Figure 7 – 625/50 vertical interval time code address bit assignment and timing 
+ 
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+FRAMES
+BINARY GROUP 1
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+SECONDS
+BINARY GROUP 3
+1
+0
+SYNC BIT PAIR
+10
+20
+UNASSIGNED
+COLOR FRAME
+LSB
+MSB
+FRAMES
+BINARY GROUP 2
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+MINUTES
+BINARY GROUP 5
+1
+0
+SYNC BIT PAIR
+10
+20
+40
+BGF0
+LSB
+MSB
+SECONDS
+BINARY GROUP 4
+1
+0
+SYNC BIT PAIR
+10
+20
+40
+BGF2
+LSB
+MSB
+MINUTES
+BINARY GROUP 6
+1
+0
+SYNC BIT PAIR
+1
+2
+4
+8
+LSB
+MSB
+HOURS
+BINARY GROUP 7
+10
+20
+BGF1
+FIELD MARK
+LSB
+MSB
+HOURS
+BINARY GROUP 8
+X8
+CRC CODE
+X1
+  64.000 us  NOMINAL
+  50.087 us  NOMINAL
+1
+0
+SYNC BIT PAIR
+1
+0
+SYNC BIT PAIR
+1.9 us MIN
+11.2 us MIN
+BIT 0
+BIT 89
+
+SMPTE ST 12-1:2014 
+Page 27 of 41 pages 
+10.2.1   Time address  
+ 
+The time address bits of the frame are defined in Section 8.2. The lowest numbered bit of each group 
+corresponds to the least significant bit of each BCD digit. The positions of these bits are listed in Table 6. 
+ 
+Table 6 – VITC time address bit positions 
+ 
+Bit 
+Definition 
+2 – 5 
+  Units of frames 
+12 – 13 
+  Tens of frames 
+22 – 25 
+  Units of seconds 
+32 – 34 
+  Tens of seconds 
+42 – 45 
+  Units of minutes 
+52 – 54 
+  Tens of minutes 
+62 – 65 
+  Units of hours 
+72 – 73 
+  Tens of hours 
+ 
+10.2.2   Flag bits  
+ 
+The drop frame, color frame, and binary group flag bits are defined in Section 8.3. The positions of these flags 
+are listed in Table 7. Note that not all flag bits are used by all systems, as designated by the symbol “–". 
+Unused flag bits shall be set to logical zero by Original Sources, and ignored by receiving equipment. 
+ 
+Table 7 – VITC flag bit positions 
+ 
+30-frame  
+Bit 
+25-frame  
+Bit 
+24-Frame 
+Bit 
+Definition 
+14 
+– [14] 
+– [14] 
+    Drop frame flag 
+15 
+15 
+– [15] 
+    Color frame flag 
+35 
+75 
+35 
+    Field identification flag 
+55 
+35 
+55 
+    Binary group flag BGF0 
+74 
+74 
+74 
+    Binary group flag BGF1 
+75 
+55 
+75 
+    Binary group flag BGF2 
+ 
+10.2.3   Binary groups  
+ 
+Eight four-bit binary groups are defined in Section 8.4. The lowest numbered bit of each group corresponds to 
+the least significant bit of that group. The positions of these bits are listed in Table 8. 
+ 
+Table 8 – VITC binary group bit positions 
+ 
+Bit 
+Definition 
+6 – 9 
+ First binary group 
+16 – 19 
+ Second binary group 
+26 – 29 
+ Third binary group 
+36 – 39 
+ Fourth binary group 
+46 – 49 
+ Fifth binary group 
+56 – 59 
+ Sixth binary group 
+66 – 69 
+ Seventh binary group 
+76 – 79 
+ Eighth binary group 
+ 
+
+SMPTE ST 12-1:2014 
+Page 28 of 41 pages 
+10.2.4   Field identification flag  
+ 
+The position of this flag shall be as listed in Table 7.  
+ 
+10.2.4.1   NTSC composite television system  
+ 
+Field identification shall be recorded as follows: A logical zero shall represent monochrome field 1 or color 
+field I or III. A logical one shall represent monochrome field 2 or color field II or IV. Color fields I through IV are 
+defined in SMPTE ST 170.  
+ 
+10.2.4.2   PAL composite television system  
+ 
+Field identification shall be recorded as follows: A logical zero shall represent color fields 1, 3, 5, and 7. A 
+logical one shall represent color fields 2, 4, 6, and 8. Color fields 1 through 8 are defined in the annex to ITU-R 
+BT.1700-1.  
+ 
+10.2.4.3   Analog component television system 
+ 
+Field identification shall be recorded as follows: A logical zero shall represent field 1. A logical one shall 
+represent field 2. 
+ 
+10.2.5   Synchronization bits  
+ 
+A synchronization bit pair consisting of a logical one followed by a logical zero is inserted preceding every 
+eight data bits. Bits 0, 10, 20, 30, 40, 50, 60, 70, and 80 are coded as logical one; bits 1, 11, 21, 31, 41, 51, 
+61, 71, and 81 are encoded as logical zero.  
+ 
+10.2.6   Cyclic redundancy check code  
+ 
+Eight bits, 82 through 89, are encoded with a cyclic redundancy check (CRC) code to provide for error 
+detection by cyclic redundancy.  
+ 
+The generating polynomial of the CRC code, G(X), is defined as G(X) = X8 + 1 with an initial condition of 0.  
+ 
+The generating polynomial shall be applied to all bits from 0 to 81 inclusive. The remainder is then encoded in 
+bits 82 through 89 as shown in Table 9.  
+ 
+Applying the generating polynomial to the received data, bits 0 through 89 inclusive, shall result in a 
+remainder of 0 when no error exists. 
+ 
+Table 9 – CRC bit positions 
+Bit 
+CRC code bit 
+82 
+X8 
+83 
+X7 
+84 
+X6 
+85 
+X5 
+86 
+X4 
+87 
+X3 
+88 
+X2 
+89 
+X1 
+ 
+
+SMPTE ST 12-1:2014 
+Page 29 of 41 pages 
+10.3   Modulation Method  
+ 
+The VITC codeword is NRZ modulated and inserted as a single codeword within the non-blanked interval of a 
+selected television line in the vertical interval (see Figure 8). Logic level to signal level specifications are listed 
+in Section 10.8.1.  
+ 
+Since an NRZ code has no self-clocking reference, the signal shall be sampled at periodic intervals based on 
+known bit cell timing. The sample period can be adjusted at any available 1-0 or 0-1 transition. Because of the 
+insertion of fixed-value synchronization bits, a transition is guaranteed to occur at least every ten bits. 
+ 
+ 
+Figure 8 – Vertical interval time code waveform 
+ 
+10.4   Bit Timing  
+ 
+Each bit of the codeword shall have a uniform period, Te, related to the horizontal line frequency, Fh, as 
+expressed below:  
+
+
+
+
+
+
+
+h
+e
+F
+T
+115
+1
+  ± 2% 
+ 
+Note:  Previous definitions of the bit timing for 525/59.94 and 625/50 television systems are different from that given here, 
+but do lie within the tolerance range given.  
+ 
+10.5   Timing of the Codeword Relative to the Television Signal  
+ 
+10.5.1   525/59.94 television system  
+ 
+The half-amplitude point of bit 0 shall occur no earlier than 10.0 µs following the half-amplitude point of the 
+leading edge of the line synchronizing pulse. The half-amplitude point of the trailing edge of bit 89 (logical 
+one) shall occur no later than 2.1 µs before the half-amplitude point of the leading edge of the following line 
+synchronizing pulse.  
+ 
+10.5.2   625/50 television system  
+ 
+The half-amplitude point of bit 0 shall occur no earlier than 11.2 µs following the half-amplitude point of the 
+leading edge of the line synchronizing pulse. The half-amplitude point of the trailing edge of bit 89 (logical 
+one) shall occur no later than 1.9 µs before the half-amplitude point of the leading edge of the following line 
+synchronizing pulse.  
+Te
+Te
+5% MAX
+100% P-P
+5% MAX
+tr
+90%
+10%
+LOGICAL "ZERO"
+LOGICAL "ONE"
+100% LUMINANCE
+
+SMPTE ST 12-1:2014 
+Page 30 of 41 pages 
+10.6   Location of the VITC Codeword in the Vertical Interval  
+ 
+The VITC codeword shall be inserted on the same line (or lines) in each field for a given analog SDTV signal. 
+Line numbers shown in parentheses correspond to the equivalent line in field two.  
+ 
+10.6.1   525/59.94 television system  
+ 
+Insertion of the address code shall not be earlier than line 10(273) or later than line 20(283). The preferred 
+placement of the VITC codeword is on line 14(277) and optionally on line 16(279). 
+ 
+If it is necessary to preserve compatibility with older equipment, VITC should appear on two nonconsecutive 
+lines in each field. 
+ 
+In such case the preferred lines are 14(277) and 16(279) except: 
+ 
+ 
+lines 12(275) and 14(277) in type C recorders with sync heads; 
+ 
+ 
+lines 16(279) and 18(281) in type C recorders without sync heads. 
+ 
+10.6.2   625/50 television system  
+ 
+Insertion of the address code shall not be earlier than line 6(319) or later than line 22(335). The preferred 
+placement of the VITC codeword is on television lines 19(332) and 21(334).   
+ 
+10.6.3   Component television systems 
+ 
+In analog component systems, the VITC codeword shall be carried in the Y (also known as luma or 
+luminance) video channel. 
+ 
+10.7   Redundancy  
+ 
+The address code may be inserted in multiple lines of the vertical interval, provided all lines contain the same 
+time address, drop frame, and color frame data.  
+ 
+Redundancy of the binary group data is dependent on the binary group flags and the requirements of the 
+encoding system which their values indicate. 
+  
+10.8   Vertical Interval Time Code Waveform Characteristics  
+ 
+This subsection specifies the waveform characteristics of the VITC signal (refer to Figure 8.) 
+ 
+10.8.1   Logic level  
+ 
+The tolerance ranges specified for logical one and logical zero states are listed in Table 10. 
+ 
+Table 10 – VITC logic level ranges 
+Television system 
+Logical one 
+Logical zero 
+525/59.94 
+70--90 IRE 5  
+0 – 10 IRE 
+625/50 
+500--600 mV  
+0 – 25 mV 
+ 
+Note:  For analog component systems, the logic levels apply to the Y video channel. 
+                                                 
+5 See Annex B of SMPTE ST 170 for a definition of IRE units. 
+
+SMPTE ST 12-1:2014 
+Page 31 of 41 pages 
+10.8.2   Rise/fall time  
+ 
+The rise and fall times of the code shall be 200 ns ± 50 ns for 525/60 and 625/50 television systems. These 
+measurements shall be made between 10 % and 90 % amplitude points on the waveform.  
+ 
+10.8.3   Amplitude distortion  
+ 
+Amplitude distortions, such as overshoot, undershoot, and tilt, shall be limited to 5 % of the peak-to-peak 
+amplitude of the code waveform.  
+ 
+11 Relationship Between LTC and VITC 
+ 
+Note: The relationship between LTC and VITC specified here is primarily addressed to analog television systems, 
+however it may also apply to SDTV digital systems employing D-VITC. The relationship may also apply to digital systems 
+employing VITC data carried in ATC. 
+ 
+11.1   Time Address Data  
+ 
+Because of the relative timing of the two time code modulation methods, direct interchange of time address 
+bits is not possible in real time. In order to generate a linear time code from a vertical interval time code, or 
+vice versa, the time address of one frame is incremented by one unit and used as the time address of the 
+next frame. Drop frame and color frame flag bits (if applicable) are maintained.  
+ 
+This method will produce a one-to-one correspondence between the time address and flag bits of the linear 
+time code and the vertical interval time code as long as the counting sequence is continuous and ascending. 
+Discontinuities will propagate to the output time code after one frame of delay.  
+ 
+11.2   Binary Group Data  
+ 
+When transferring binary group data, a one-frame update, similar to that used in time address data transfer, 
+may be applied if the nature of the binary group data format lends itself to being predictable. If this is not the 
+case, then no update shall be applied to the data and the transfer will result in a one-frame delay.  
+ 
+The guideline for transferring binary group data between linear and vertical interval time codes shall be as 
+follows:  
+ 
+11.2.1   Transferring VITC binary group data to LTC binary group data  
+ 
+The binary group data and flag bits from the first VITC codeword contained in the vertical interval shall be 
+transferred to the corresponding bits in the linear time code of the next frame.  
+ 
+11.2.2   Transferring LTC binary group data to VITC binary group data  
+ 
+The binary group data and flag bits from the linear time code shall be transferred to the corresponding bits in 
+the vertical interval time code of the next frame.  
+ 
+If the binary group data format, as identified by the binary group flag bits, supports line or field independence, 
+then the binary group data and flags of the remaining lines in the vertical interval code for that frame shall be 
+set to logical zero. If the binary group data format is redundant, then the redundant lines in the frame shall 
+contain identical data.  
+ 
+11.3   VITC and LTC Codeword Comparison  
+ 
+Table 11 summarizes the correspondence between the VITC and LTC codewords for 60-, 50-, 30-, 25-, and 
+24-frame systems. 
+ 
+
+SMPTE ST 12-1:2014 
+Page 32 of 41 pages 
+Table 11 – Summation of VITC and LTC codeword bit definitions 
+ 
+VITC 
+bit no. 
+Value 
+(weight) 
+Common 
+assignment 
+LTC 
+bit no. 
+30-frame/60-field 
+60-frame 
+25-frame/50-field 
+50-frame 
+24-frame 
+48-frame 
+0 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+1 
+0 
+ 
+ 
+ 
+ 
+2 
+(1) 
+FRAME UNITS 
+0 
+  
+  
+  
+3 
+(2) 
+1 
+ 
+ 
+ 
+4 
+(4) 
+2 
+ 
+ 
+ 
+5 
+(8) 
+3 
+  
+  
+  
+6 
+(LSB) 
+FIRST BINARY 
+GROUP 
+4 
+  
+  
+  
+7 
+| 
+5 
+ 
+ 
+ 
+8 
+| 
+6 
+ 
+ 
+ 
+9 
+(MSB) 
+7 
+  
+  
+  
+10 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+11 
+0 
+ 
+ 
+ 
+ 
+12 
+(10) 
+FRAME TENS 
+8 
+  
+  
+  
+13 
+(20) 
+9 
+ 
+ 
+ 
+14 
+FLAG FLAG 
+10 
+DROP FRAME FLAG 
+SET TO ZERO 
+SET TO ZERO 
+15 
+FLAG FLAG 
+11 
+COLOR FRAME FLAG COLOR FRAME FLAG SET TO ZERO 
+16 
+(LSB) 
+SECOND BINARY 
+GROUP 
+12 
+  
+  
+  
+17 
+| 
+13 
+ 
+ 
+ 
+18 
+| 
+14 
+ 
+ 
+ 
+19 
+(MSB) 
+15 
+  
+  
+  
+20 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+21 
+0 
+ 
+ 
+ 
+ 
+22 
+(1) 
+SECOND UNITS 
+16 
+  
+  
+  
+23 
+(2) 
+17 
+ 
+ 
+ 
+24 
+(4) 
+18 
+ 
+ 
+ 
+25 
+(8) 
+19 
+  
+  
+  
+26 
+(LSB) 
+THIRD BINARY 
+GROUP 
+20 
+  
+  
+  
+27 
+| 
+21 
+ 
+ 
+ 
+28 
+| 
+22 
+ 
+ 
+ 
+29 
+(MSB) 
+23 
+  
+  
+  
+30 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+31 
+0 
+ 
+ 
+ 
+ 
+32 
+(10) 
+SECOND TENS 
+24 
+  
+  
+  
+33 
+(20) 
+25 
+ 
+ 
+ 
+34 
+(40) 
+26 
+ 
+ 
+ 
+35 
+FLAG FLAG 
+27 
+FIELD 
+BIT 
+/ 
+LTC POLARITY 
+BINARY 
+GROUP 
+FLAG 0 
+FIELD 
+BIT 
+/ 
+LTC POLARITY 
+36 
+(LSB) 
+FOURTH BINARY 
+GROUP 
+28 
+  
+  
+  
+37 
+| 
+29 
+ 
+ 
+ 
+38 
+| 
+30 
+ 
+ 
+ 
+39 
+(MSB) 
+31 
+  
+  
+  
+40 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+41 
+0 
+ 
+ 
+ 
+ 
+42 
+(1) 
+MINUTE UNITS 
+32 
+  
+  
+  
+43 
+(2) 
+33 
+ 
+ 
+ 
+44 
+(4) 
+34 
+ 
+ 
+ 
+45 
+(8) 
+35 
+  
+  
+  
+46 
+(LSB) 
+FIFTH BINARY  
+GROUP 
+36 
+  
+  
+  
+47 
+| 
+37 
+ 
+ 
+ 
+48 
+| 
+38 
+ 
+ 
+ 
+49 
+(MSB) 
+39 
+  
+  
+  
+
+SMPTE ST 12-1:2014 
+Page 33 of 41 pages 
+VITC 
+bit no. 
+Value 
+(weight) 
+Common 
+assignment 
+LTC 
+bit no. 
+30-frame/60-field 
+60-frame 
+25-frame/50-field 
+50-frame 
+24-frame 
+48-frame 
+50 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+51 
+0 
+ 
+ 
+ 
+ 
+52 
+(10) 
+MINUTE TENS 
+40 
+  
+  
+  
+53 
+(20) 
+41 
+ 
+ 
+ 
+54 
+(40) 
+42 
+  
+  
+  
+55 
+FLAG FLAG 
+43 
+BINARY 
+GROUP 
+FLAG 0 
+BINARY 
+GROUP 
+FLAG 2 
+BINARY 
+GROUP 
+FLAG 0 
+56 
+(LSB) 
+SIXTH BINARY   
+GROUP 
+44 
+  
+  
+  
+57 
+| 
+45 
+ 
+ 
+ 
+58 
+| 
+46 
+ 
+ 
+ 
+59 
+(MSB) 
+47 
+  
+  
+  
+60 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+61 
+0 
+ 
+ 
+ 
+ 
+62 
+(1) 
+HOUR UNITS 
+48 
+  
+  
+  
+63 
+(2) 
+49 
+ 
+ 
+ 
+64 
+(4) 
+50 
+ 
+ 
+ 
+65 
+(8) 
+51 
+  
+  
+  
+66 
+(LSB) 
+SEVENTH BINARY
+GROUP 
+52 
+  
+  
+  
+67 
+| 
+53 
+ 
+ 
+ 
+68 
+| 
+54 
+ 
+ 
+ 
+69 
+(MSB) 
+55 
+  
+  
+  
+70 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+71 
+0 
+ 
+ 
+ 
+ 
+72 
+(10) 
+HOUR TENS 
+56 
+  
+  
+  
+73 
+(20) 
+57 
+  
+  
+  
+74 
+FLAG FLAG 
+58 
+BINARY 
+GROUP 
+FLAG 1 
+BINARY 
+GROUP 
+FLAG 1 
+BINARY 
+GROUP
+FLAG 1 
+75 
+FLAG FLAG 
+59 
+BINARY 
+GROUP 
+FLAG 2 
+FIELD 
+BIT 
+/ 
+LTC POLARITY 
+BINARY 
+GROUP 
+FLAG 2 
+76 
+(LSB) 
+EIGHTH BINARY 
+GROUP 
+60 
+  
+  
+  
+77 
+| 
+61 
+ 
+ 
+ 
+78 
+| 
+62 
+ 
+ 
+ 
+79 
+(MSB) 
+63 
+  
+  
+  
+80 
+1 
+VITC SYNC BITS 
+ 
+ 
+ 
+ 
+81 
+0 
+ 
+ 
+ 
+ 
+82-89 
+  
+VITC CRC CODE 
+ 
+ 
+ 
+ 
+ 
+ 
+LTC SYNC WORD 
+64-79 
+  
+  
+  
+ 
+ 
+12  Progressive Systems with Frame Rates Greater than 30 Frames Per Second 
+ 
+12.1   Time Address of a Frame Pair in 48, 50, and 60 Frames-Per-Second Progressive Systems 
+ 
+Since the frame rate of 48, 50, and 60 frames-per-second progressive systems exceeds the frame count 
+capacity of the time address, the count shall be constrained to increment only every other frame (as shown in 
+Figure 9).  This results in an edit resolution of two frames6. 
+ 
+Where the time code is conveyed as VITC data (for example as in ATC), the field mark flag should be used to 
+identify each frame of the frame pair.  The preferred implementation is to set the field mark flag of the VITC 
+data to zero for the first frame of a pair and to one for the second frame of a pair. 
+ 
+Where the time code is modulated as LTC the codeword shall be aligned to the television signal as specified 
+by Section 9.5. 
+                                                 
+6 With extensive external processing of the time code data it is possible to achieve one frame resolution and still meet all 
+requirements of this standard. 
+
+SMPTE ST 12-1:2014 
+Page 34 of 41 pages 
+12.2   Implementation Guidelines  (Informative) 
+ 
+Users of this standard are advised that various implementations of the field mark flag contained in the VITC 
+data and carried as ATC exist. Users are further cautioned that ATC packets are not carried in protected 
+HANC or VANC areas of the serial interface, thus they may be overwritten. 
+ 
+In time code compliant with previous versions of this standard, time code values for time representation in 
+progressive systems cannot be distinguished from time code values in interlaced systems. Such distinction 
+must be determined by other parameters such as the line scanning structure at the interface. Where the time 
+code values are used in data systems, other methods must be provided to ensure that this distinction can be 
+determined. 
+ 
+Users are advised to verify which of these methods is implemented in their equipment, so that interoperability 
+problems can be avoided. 
+ 
+To be compliant with the current version of this standard all new implementations that convey the timecode as 
+VITC data carried in ATC should implement the use of the field mark flag. 
+ 
+ 
+ 
+Figure 9 – Example of frame labeling for 48, 50, and 60 frames-per-second progressive systems 
+ 
+LTC 80-BIT CODEWORD
+Syncword
+Time Address, Binary Groups, Flag Bits
+Video Frame
+Video Frame
+Time Address = 01:23:45:13
+Field Flag Bit = 0
+Frame Label = 01:23:45:13.0
+Time Address = 01:23:45:13
+VITC DATA in ATC
+Time Address = 01:23:45:13
+Field Flag Bit = 1
+VITC DATA in ATC
+Video Frame
+Frame Label = 01:23:45:13.1
+Frame Label = 01:23:45:12.1
+Video Frame Pair
+
+SMPTE ST 12-1:2014 
+Page 35 of 41 pages 
+Annex A   Explanatory Notes  (Informative) 
+A.1   Time Precision  
+ 
+Some time code applications use the time code to convey clock time and must be maintained in 
+synchronization with time-of-day clock time.  The precision of the clock time in the time code can be subject to 
+variances due to the video phase relative to midnight rollover, the use of color field identification, cyclic drift 
+associated with drop frame compensation, systematic drift associated with non-integer frame rates, the 
+reference video frequency accuracy, and the precision of the clock reference. It is the responsibility of the 
+system implementers to take appropriate measures to ensure satisfactory system operation.  
+ 
+SMPTE ST 309 provides a method of signaling the degree of time precision that is intended. It also provides 
+for indicating the date and time zone to which the time applies.  
+ 
+A.2   Leap Second Corrections  
+ 
+Because of small differences between atomic time (UTC) and time based on the rotational speed of the earth 
+(UTCI), periodic adjustments to atomic time are made in increments of 1 second. These adjustments, when 
+required, are made at the end of June 30, or December 31, universal time, so that UTC never deviates by 
+more than 0.9 second. The last minute of the day on which an adjustment is made has 61 seconds or 59 
+seconds. It could happen that leap seconds would need to be removed (negative leap seconds); however, all 
+leap seconds so far have been positive. Since many television facilities operate with their facility time code 
+generator tied to an external time reference, such as GPS, leap second adjustments can affect broadcast 
+operations.  In such cases, the binary group flags (see Sections 8.4 and  8.5) should signal “clock time.” 
+ 
+The occurrence of a positive leap second time correction results in a second of time being added. It might not 
+be possible to create or display a time address label with the value of 60 seconds to identify uniquely this 
+second due to the design of existing compliant SMPTE time code devices. For uniformity in adding a leap 
+second, it is suggested that at the end of the hour, the last second with a value of 59 seconds might be 
+repeated.  
+ 
+For 625/50 systems that also implement color field identification, the occurrence of a leap second adjustment 
+can result in a time shift of one or three frames depending on the method of adjusting time to identify the color 
+frame sequence. Users are advised that this can change the intended time precision of the system. 
+ 
+Users are advised that some devices which use time code primarily as a label might not generate or correctly 
+recognize 59-second or 61-second minutes, and might treat such as labeling errors when they are 
+encountered.  Not withstanding this limitation, such devices are fully compliant with this standard. 
+ 
+A.3   Frames and Time Code 
+ 
+Fundamentally, a given value of time code labels a moment of time. This document uses the specifications of 
+traditional raster-scan video formats to obtain the duration of a unit of time to which a time code sample is 
+attached. This is called a frame. Users are advised that certain time code values can be skipped (or never 
+associated with a frame of video). This is called the “drop frame” mode of time code counting. 
+ 
+For example, in a 525-line (“NTSC”) signal running at its native frame rate (30/1.001 frames per second), 
+each video frame's duration is 1.001/30 seconds (approximately 33.3667 ms). This is then taken to define the 
+duration of the frame each specific time code sample is applied to. Similarly, in a 625-line signal running at a 
+standard frame rate (25 frames per second), a video frame's duration is 1/25 second (40 ms), and this defines 
+the time code frame duration. 
+ 
+Time code can be used in systems which have no associated video format, such as audio streams, 
+synchronization signals, or object based digital formats. In such systems, the duration of the frame must be 
+specified in terms to match a frame's duration as if it were defined by reference to some video format. 
+
+SMPTE ST 12-1:2014 
+Page 36 of 41 pages 
+For example, in an audio stream running at a true 48000 samples per second (“48 kHz sampling”), the time 
+code Frame's duration can be defined several ways, depending on system requirements. If the Frame is 
+defined as 48000 / (25 / 1) to match a standard frame rate 625-line signal, the time code sample labels 1920 
+audio samples. If the Frame is defined as 48000 / (30000 / 1001) to match a standard frame rate 525-line 
+signal,  time code sample labels 1601.6 audio samples, or 8008 samples in 5 Frames. If the Frame is defined 
+as 48000 / (30 / 1), to match a non-standard frame rate 525-line signal, the time code labels 1600 audio 
+samples. Other combinations are possible, but might not represent “real world” implementations. 
+ 
+System designers must use appropriate choices for the time code frame duration and take account of its 
+implications, such as the non-terminating decimal representation of rational numbers, to assure consistent 
+behavior. 
+
+SMPTE ST 12-1:2014 
+Page 37 of 41 pages 
+Annex B   Converting Time Codes when Converting Video from 24 Frames-Per- 
+                  Second Television Systems  (Informative) 
+ 
+When rate converting 24 Fps (frames per second) video to 25 or 30 Fps video by periodically replicating video 
+fields, the conversion hardware inserts extra fields of some of the images to create a pull-down cadence of 
+the picture content on the converted output. In addition the incoming time code must be converted from a 
+nominal 24 Fps to 25 Fps or 30 Fps rate. This method is valid as well for conversions between non-integer 
+frame rate numbers.  A different method for conversion between “integer number” frame rates to “non-integer 
+number” frame rates can be used and is beyond the scope of this document. 
+ 
+B.1   Conversion of 24/1.001 (23.98) Fps Video to 30/1.001 (29.97) Fps Video 
+ 
+In order to deterministically move between the nominal 24 and 30 frames-per-second formats, it is 
+recommended that the video frames of the 24 Fps high definition material with the time code frame number 
+zero be converted to an A frame as shown in Figure B.1. These frames are called the A frame candidate 
+frames.  SMPTE ST 318 also recommends that these A frames are aligned with the field identified by the 
+Field 1 pulse of the 10 field sequence as shown in Figure B.1. It follows then that subsequent 24 Fps high 
+definition frame numbers that are evenly divisible by 4 will also become A frames. As specified in Section 7 of 
+this standard, the 30 non-drop frame count mode is strongly recommended to be used for the time code of the 
+converted material. It is recommended that the A frame candidate zero frame be numbered as the zero frame 
+on the converted video, resulting in subsequent A frames of the converted video having time code frame 
+numbers that are evenly divisible by 5. 
+ 
+ 
+ 
+ 
+Figure B.1 – Example of conversion of 23.98 Fps video to 525/59.94/I 
+0
+1
+2
+3
+0
+odd
+0
+even
+1
+odd
+1
+even
+2
+odd
+2
+even
+3
+odd
+3
+even
+1080/23.98P
+1080/23.98PsF
+525/59.94/I
+Frame
+Buffer
+A Frame Candidate
+0
+odd
+0
+even
+1
+odd
+1
+even
+1
+odd
+2
+even
+2
+odd
+3
+even
+3
+odd
+3
+even
+:04
+:03
+:02
+:01
+:00
+A Frame
+B Frame
+C Frame
+D Frame
+525/59.94/I
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+SMPTE 318M 10 Field Sequence
+           SMPTE ST 318 10 Field Sequence 
+
+SMPTE ST 12-1:2014 
+Page 38 of 41 pages 
+As there are delays through the conversion hardware it may not be possible to align the vertical sync at the 
+start of an A frame with the vertical sync at the start of an A frame candidate frame, but the vertical sync at 
+the beginning of the A frame (line 4 for 525 systems) should be aligned with the vertical sync at the beginning 
+of one of the input frames (line 1) as shown in SMPTE RP 168. 
+ 
+B.2   Conversion of 24 Fps Video to 25 Fps Video 
+ 
+For specific editorial applications it may be desirable to perform an 11(2):3 pull-down conversion between 
+systems operating at 24 and 25 frames per second. Due to the visibility of temporal artifacts this process is 
+not recommended for release material. 
+ 
+In order to deterministically move between the 24 and 25 frames-per-second formats it is recommended that 
+the video frames of the 24 Fps material with the time code frame number zero be converted to the first A 
+frame or the 24:25 frame pull-down sequence as shown in Figure B.2. These frames are called the A1 frame 
+candidate frames. It follows then each that subsequent 24 Fps frame number zero will also become an A 
+frame at the start of the 24:25 pull-down cycle. The converted A1 frame should be numbered as the zero 
+frame of the time code second. 
+ 
+ 
+Figure B.2 – Example of Conversion from 24 Fps High Definition video to 625/50/I 
+ 
+ 
+As there are delays through the conversion hardware it might not be possible to align the vertical sync at the 
+start of an A1 frame with the vertical sync at the start of an A1 candidate frame, but the vertical sync at the 
+beginning of the A1 frame (line 1 for 625 systems) can be aligned with the vertical sync at the beginning of 
+one of the input frames (line 1). 
+23
+0
+1
+2
+23
+odd
+23
+even
+0
+odd
+0
+even
+1
+odd
+1
+even
+2
+odd
+2
+even
+1080/24P
+1080/24PsF
+625/50/I
+Frame
+Buffer
+A1 Frame Candidate
+23
+odd
+23
+even
+0
+odd
+0
+even
+1
+odd
+1
+even
+2
+odd
+2
+even
+22
+odd
+23
+even
+D Frame
+A1 Frame
+A2 Frame
+A3 Frame
+:02
+:01
+:00
+:24
+:23
+
+SMPTE ST 12-1:2014 
+Page 39 of 41 pages 
+Annex C   Bibliography  (Informative) 
+ARIB STD B4, Version 2.0, Time Code Conveyed by Ancillary Data Packets for 1125/60 Television Systems 
+(available in the Japanese language only) 
+ 
+EBU Technical Standard N12-1999, Time-and-Control Codes for Television Recording 
+ 
+IEC 61169-8 ed1.0 (2007-02)7, Radio-Frequency Connectors — Part 8: Sectional Specification — R.F. 
+Coaxial Connectors with Inner Diameter of Outer Conductor 6,5mm (0,256 in) with Bayonet Lock — 
+Characteristics Impedance 50 Ohms (Type BNC) 
+ 
+IEC 60461:2010, Time and Control Code  
+ 
+Recommendation ITU-R BT.1366-2 (2009) Transmission of Time Code and Control Code in the Ancillary 
+Data Space of a Digital Television Stream According to Recommendations ITU-R BT.656, ITU-R BT.799 and 
+ITU-R BT.1120 
+ 
+SMPTE ST 12-2:2014, Transmission of Time Code in the Ancillary Data Space 
+ 
+SMPTE ST 125:2013, SDTV Component Video Signal Coding 4:4:4 and 4:2:2 for 13.5 MHz and 18 MHz 
+Systems 
+ 
+SMPTE ST 240:1999 (Archived 2004), Television — 1125-Line High-Definition Production Systems — Signal 
+Parameters  
+ 
+SMPTE ST 258:2004 (Archived 2011), Television – Transfer of Edit Decision Lists 
+ 
+SMPTE ST 260:1999 (Archived 2004), Television — 1125/60 High-Definition Production System — Digital 
+Representation and Bit-Parallel Interface  
+ 
+SMPTE ST 266:2012, SD Digital Component Systems — Digital Vertical Interval Time Code 
+ 
+SMPTE ST 274:2008, Television — 1920 x 1080 Image Sample Structure, Digital Representation and Digital 
+Timing Reference Sequences for Multiple Picture Rates 
+ 
+SMPTE ST 292-1:2012, 1 Gb/s Signal/Data Serial Interface 
+ 
+SMPTE ST 293:2003 (Archived 2010), Television — 720 x 483 Active Line at 59.94-Hz Progressive Scan 
+Production — Digital Representation 
+ 
+SMPTE ST 296:2012, 1280 x 720 Progressive Image 4:2:2 and 4:4:4 Sample Structure — Analog and Digital 
+Representation and Analog Interface 
+ 
+SMPTE ST 318:1999, Television and Audio — Synchronization of 59.94- or 50-Hz Related Video and Audio 
+Systems in Analog and Digital Areas — Reference Signals 
+ 
+SMPTE ST 2048-1:2011, 2048 x 1080 and 4096 x 2160 Digital Cinematography Production Image Formats 
+FS/709 
+ 
+SMPTE ST 2048-2:2011, 2048 x 1080 Digital Cinematography Production Image FS/709 Formatting for Serial 
+Digital Interface 
+                                                 
+7 Please note that the title of this reference may be misleading. This reference actually defines both the 50 Ω and the 75 
+Ω BNC connectors.  While this standard specifies use of only the 50 Ω connector, most other SMPTE standards specify 
+use of only the 75 Ω connector. 
+
+SMPTE ST 12-1:2014 
+Page 40 of 41 pages 
+SMPTE RP 135:2004 (Archived 2009), Use of Binary User Groups in Motion-Picture Time and Control Codes 
+ 
+SMPTE RP 136:2004 (Archived 2009), Time and Control Codes for 24, 25 or 30 Frame-Per-Second MotionPicture Systems 
+ 
+SMPTE RP 169:1995 (Archived 2011), Television, Audio and Film Time and Control Code — Auxiliary Time 
+Address Data in Binary Groups — Dialect Specification of Directory Index Locations  
+ 
+SMPTE RP 179:2002 (Archived 2011), Dialect Specification of Page-Line Directory Index for Television, 
+Audio and Film Time and Control Code for Video-Assisted Film Editing 
+ 
+SMPTE EG 40:2012, Conversion of Time Values Between SMPTE 12-1 Time Code, MPEG-2 PCR Time 
+Base and Absolute Time 
+ 
+
+SMPTE ST 12-1:2014 
+Page 41 of 41 pages 
+Annex D   Time Code System “Roadmap”  (Informative) 
+ 
+ 
+ 
+ 
+SMPTE ST 12-1
+Time Address, Control, 
+User Bit definition
+SMPTE ST 12-1
+LTC codeword and 
+modulation
+SMPTE ST 12-1
+VITC codeword and 
+modulation
+SMPTE ST 12-2
+Timecode in ANC data 
+space (ATC)
+RP168
+ISO/IEC 
+646 & 2022
+SMPTE ST 
+170
+RP164
+ITU-R 
+BT.1700-1
+SMPTE ST 
+318
+SMPTE ST 
+266
+Application Documents
+(SMPTE ST 262,
+ST 309), etc.
+non-SMPTE
+Applications

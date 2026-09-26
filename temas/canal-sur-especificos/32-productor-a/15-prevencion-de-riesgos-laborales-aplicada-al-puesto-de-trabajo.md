@@ -8,7 +8,7 @@
 | Sirve para | Productor/a de Canal Sur (puesto 2.32, grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, ficha del puesto 5331000); Carta del Servicio Público de la RTVA 2024-2029; documentación técnica del INSST |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 |
-| Extensión | 13.802 palabras |
+| Extensión | 14.082 palabras |
 
 <!-- /portada -->
 
@@ -513,7 +513,7 @@ evaluación oficial del puesto, que la RTVA no ha publicado:
 | Tarea del convenio | Riesgo que genera | Dónde se estudia |
 | --- | --- | --- |
 | «Elaborar, gestionar y cerrar el presupuesto y posterior memoria»; «Realizar el seguimiento técnico y económico»; «Diseñar y elaborar el plan de trabajo» | Trabajo con pantallas, posturas, TME | Epígrafe 3 |
-| «Ser responsable de la relación con proveedores, empresas externas, otras televisiones y todo tipo de organismos públicos y privados en las grabaciones» | Accidente de tráfico en los desplazamientos (en misión) y en el trayecto al trabajo (in itinere) | Epígrafe 4 |
+| «Ser responsable de la relación con proveedores, empresas externas, otras televisiones y todo tipo de organismos públicos y privados en las grabaciones» | Accidente de tráfico en los desplazamientos (en misión) | Epígrafe 4 |
 | «Supervisar su cumplimiento» [el del plan de trabajo] en estudios, exteriores y localizaciones | Riesgos del lugar: caídas, golpes, cables, electricidad, climatología, aglomeraciones; concurrencia con otras empresas | Tema 14; EPI, epígrafe 5 |
 | «Velar por el cumplimiento de la ley de prevención»; «Coordinar el equipo del programa y organizar el trabajo de los ayudantes de producción» | Carga mental y estrés por responsabilidad sobre personas y plazos | En este epígrafe, «Otros riesgos del puesto» |
 | Directos, retransmisiones y eventos fuera del horario ordinario (no figuran en la ficha) | Trabajo a turnos y nocturno | En este epígrafe, «Otros riesgos del puesto» |
@@ -525,8 +525,9 @@ considere que dicha actividad entraña un riesgo grave e inminente para su vida 
 Esta segunda obligación alcanza a **aquellas otras personas a las que pueda afectar su actividad
 profesional**, y en el productor/a esas personas son muchas: el equipo del programa, los ayudantes
 de producción, los invitados y el público. La obligación 4.ª del artículo 29.2 le marca además el
-camino de cualquier incidencia: informar **de inmediato** a su superior jerárquico directo y a los
-trabajadores designados o, en su caso, al servicio de prevención.
+camino ante cualquier situación que, a su juicio, entrañe por motivos razonables un riesgo para la
+seguridad y la salud de los trabajadores: informar **de inmediato** a su superior jerárquico directo
+y a los trabajadores designados o, en su caso, al servicio de prevención.
 
 ### Otros riesgos del puesto: estrés y trabajo a turnos
 
@@ -668,8 +669,7 @@ establecido para cada trabajador/a y turno. El disfrute de este descanso en ning
 suponer una alteración de aquellas actividades que, por la naturaleza de las mismas, no permitan
 una interrupción en el desarrollo del trabajo a efectuar.»** Tres rasgos: diez minutos por hora
 continuada, no acumulable y sin alterar el horario; y la salvedad de las actividades que no
-admiten interrupción, que en una redacción son, por ejemplo, el cierre de un informativo o un
-directo.
+admiten interrupción, que en producción son, por ejemplo, una grabación o un directo en curso.
 
 **Vigilancia de la salud (artículo 4).** El empresario **garantizará el derecho de los
 trabajadores a una vigilancia adecuada de su salud, teniendo en cuenta en particular los riesgos
@@ -756,8 +756,8 @@ que los trabajadores hayan sido informados y previa consulta con sus representan
 sistemas deberán **proporcionar a los trabajadores indicaciones sobre su desarrollo**; **d)**
 **mostrar la información en un formato y a un ritmo adaptados a los operadores**; y **e) los
 principios de ergonomía deberán aplicarse en particular al tratamiento de la información por
-parte de la persona**. Aplicado a la redacción: el sistema de edición y de escaletas es un
-«programa» a estos efectos.
+parte de la persona**. Aplicado a la producción: las aplicaciones con las que se elaboran el
+presupuesto y el plan de trabajo son «programas» a estos efectos.
 
 ### La colocación de la pantalla (Guía Técnica)
 
@@ -1073,8 +1073,32 @@ artículo 7**; y **e) asegurar que el mantenimiento** se haga conforme a ese mis
 motivan su uso, sin suponer por sí mismos u ocasionar riesgos adicionales ni molestias
 innecesarias**; deberán **responder a las condiciones existentes en el lugar de trabajo**, **tener
 en cuenta las condiciones anatómicas y fisiológicas y el estado de salud del trabajador** y
-**adecuarse al portador, tras los ajustes necesarios**. Si hay que llevar varios a la vez, **deberán
-ser compatibles entre sí**.
+**adecuarse al portador, tras los ajustes necesarios** (5.1). Si hay que llevar varios a la vez,
+**deberán ser compatibles entre sí y mantener su eficacia en relación con el riesgo o riesgos
+correspondientes** (5.2). Y **en cualquier caso** los que se utilicen conforme al artículo 4
+**deberán reunir los requisitos establecidos en cualquier disposición legal o reglamentaria que les
+sea de aplicación, en particular en lo relativo a su diseño y fabricación** (5.3).
+
+**Elección (artículo 6).** Desarrolla la letra b) del artículo 3. Para elegir los EPI, **el
+empresario deberá llevar a cabo las siguientes actuaciones** (6.1):
+
+- **a) Analizar y evaluar los riesgos existentes que no puedan evitarse o limitarse
+  suficientemente por otros medios.** El esquema indicativo de riesgos por partes del cuerpo está
+  en el anexo I.
+- **b) Definir las características que deberán reunir los equipos de protección individual para
+  garantizar su función, teniendo en cuenta la naturaleza y magnitud de los riesgos de los que
+  deban proteger, así como los factores adicionales de riesgo que puedan constituir los propios
+  equipos de protección individual durante su utilización.**
+- **c) Comparar las características de los equipos de protección individual existentes en el
+  mercado con las definidas según lo señalado en el párrafo anterior.**
+
+Elegido el equipo, **el empresario deberá verificar la conformidad del equipo elegido con las
+condiciones y requisitos establecidos en el artículo 5 de este Real Decreto** (6.2). Y esa
+determinación de características **deberá revisarse en función de las modificaciones que se
+produzcan en cualquiera de las circunstancias y condiciones que motivaron su elección** (6.3),
+entre ellas **las modificaciones significativas que la evolución de la técnica determine** en los
+riesgos, en las medidas técnicas y organizativas, en la protección colectiva y en las
+prestaciones de los equipos.
 
 **Utilización (artículo 7).** Su utilización, almacenamiento, mantenimiento, limpieza, desinfección
 cuando proceda, y reparación **deberán efectuarse
@@ -1131,9 +1155,9 @@ protección individual**):
 Las obligaciones del productor/a con sus EPI son las del artículo 10 del RD 773/1997 (usarlos y
 cuidarlos, guardarlos en su sitio, avisar de cualquier defecto a su superior jerárquico directo).
 Y como la ficha del puesto le encarga **«velar por el cumplimiento de la ley de prevención de
-riesgos laborales»** y el plan de trabajo, que el productor/a hace la previsión de medios, prever
-que el equipo que va a exteriores disponga de los EPI que la evaluación de riesgos le asigne es una
-aplicación natural de esa tarea; que la RTVA lo tenga así establecido no consta en documento
+riesgos laborales»** y **«Realizar la previsión de medios humanos y materiales»**, prever que el
+equipo que va a exteriores disponga de los EPI que la evaluación de riesgos le asigne es una
+aplicación natural de esas tareas; que la RTVA lo tenga así establecido no consta en documento
 publicado. Cómo se organizan los EPI en una producción concreta, con personal externo, es materia
 del tema 14.
 
@@ -1164,7 +1188,7 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención | Art. 34 (disciplinas preventivas) |
 | Real Decreto 488/1997, de 14 de abril, pantallas de visualización | Arts. 1 a 6 y anexo |
 | Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Arts. 7 y 8; anexo III (3.a y 3.b) y anexo IV (niveles mínimos de iluminación) |
-| Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 5, 7, 8 y 10; anexos I y III |
+| Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 8 y 10; anexos I y III |
 | Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Art. 156 |
 | Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.4 (trabajo nocturno y a turnos) |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-XII-2014) | Arts. 25 a 31; anexo III, ficha del puesto de productor/a (5331000) |

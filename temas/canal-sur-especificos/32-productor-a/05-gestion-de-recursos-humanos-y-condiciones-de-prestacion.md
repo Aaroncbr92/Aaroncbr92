@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 5 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014): articulado, disposiciones adicionales y transitorias y anexos II y III; texto refundido de la Ley del Estatuto de los Trabajadores (`BOE-A-2015-11430`), artículos 34 a 37 y 40; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004, apartado 4.4; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), cláusula tercera, punto 68; Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y de CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021); Leyes 3/2012 y 8/2025 de la Junta de Andalucía, en lo que afectan al convenio. Lo demás, oficio |
+| **Fuente** | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014): articulado, disposiciones adicionales y transitorias y anexos II y III; texto refundido de la Ley del Estatuto de los Trabajadores (`BOE-A-2015-11430`), artículos 34 a 37 y 40; Real Decreto 1561/1995, sobre jornadas especiales de trabajo (`BOE-A-1995-21346`), artículos 2 y 19; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004, apartado 4.4; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), cláusula tercera, punto 68; Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y de CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021); Leyes 3/2012 y 8/2025 de la Junta de Andalucía, en lo que afectan al convenio. Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El convenio está prorrogado sin modificación publicada; sus cuantías son las de 2013. Estatuto de los Trabajadores: artículo 34 en la redacción del Real Decreto-ley 5/2023 (vigente desde el 30/06/2023); 35 y 36, redacción original de 2015; 37, la vigente desde el 03/03/2025; 40, la vigente desde el 22/08/2024 |
-| **Extensión** | 11.600 palabras aproximadamente |
+| **Extensión** | 12.400 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -484,7 +484,8 @@ eventos de Andalucía**». Para el plan de producción, el pacto es un plazo má
 
 En lo que el convenio no prevé se aplica el ET (artículo 6 del convenio). Sobre turnos, dos reglas
 del artículo 34.3 coinciden con el convenio, una del 37.1 queda por debajo de él y el artículo 36
-regula el trabajo nocturno y a turnos:
+regula el trabajo nocturno y a turnos; el reglamento de jornadas especiales matiza, en el trabajo a
+turnos, el descanso entre jornadas del 34.3 y el semanal del 37.1:
 
 **Artículo 34**, apartado 3:
 
@@ -514,17 +515,53 @@ convenio no regula más allá del turno de noche de siete horas y del complement
   extraordinarias.**» Es trabajador nocturno quien realice normalmente en ese período «**una parte no
   inferior a tres horas de su jornada diaria de trabajo**», o se prevea que haga en él «**una parte no
   inferior a un tercio de su jornada de trabajo anual**».
+- Apartado 2: «**El trabajo nocturno tendrá una retribución específica que se determinará en la
+  negociación colectiva, salvo que el salario se haya establecido atendiendo a que el trabajo sea
+  nocturno por su propia naturaleza o se haya acordado la compensación de este trabajo por
+  descansos.**» En la RTVA, esa retribución es el plus de nocturnidad del artículo 50 del convenio
+  (véase «Complementos ligados al turno», en este mismo tema).
 - Apartado 3: «**Se considera trabajo a turnos toda forma de organización del trabajo en equipo según
   la cual los trabajadores ocupan sucesivamente los mismos puestos de trabajo, según un cierto ritmo,
   continuo o discontinuo, implicando para el trabajador la necesidad de prestar sus servicios en
   horas diferentes en un periodo determinado de días o de semanas.**» En las empresas con procesos
   productivos continuos durante las veinticuatro horas, se tendrá en cuenta la rotación y «**que
   ningún trabajador esté en el de noche más de dos semanas consecutivas, salvo adscripción
-  voluntaria**».
+  voluntaria**». Y el párrafo tercero, que es una regla de dimensionamiento: «**Las empresas que por
+  la naturaleza de su actividad realicen el trabajo en régimen de turnos, incluidos los domingos y
+  días festivos, podrán efectuarlo bien por equipos de trabajadores que desarrollen su actividad por
+  semanas completas, o contratando personal para completar los equipos necesarios durante uno o más
+  días a la semana.**»
 - Apartado 4: los trabajadores nocturnos y a turnos deben tener un nivel de protección en salud y
   seguridad adaptado a su trabajo; los nocturnos, una evaluación gratuita de su salud antes de su
   afectación y a intervalos regulares (la prevención de riesgos del trabajo a turnos es materia del
   tema 14).
+
+El **Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo**
+(`BOE-A-1995-21346`, redacción única), dicta en su artículo 19, «Trabajo a turnos», dos reglas para
+las empresas que trabajan por equipos en régimen de turnos (remite al texto refundido del ET de 1995,
+cuyos artículos 34.3 y 37.1 tienen el mismo número en el de 2015):
+
+- Apartado 1: «**cuando así lo requiera la organización del trabajo, se podrá acumular por períodos
+  de hasta cuatro semanas el medio día del descanso semanal previsto en el apartado 1 del artículo
+  37 del Estatuto de los Trabajadores, o separarlo del correspondiente al día completo para su
+  disfrute en otro día de la semana**».
+- Apartado 2: «**cuando al cambiar el trabajador de turno de trabajo no pueda disfrutar del descanso
+  mínimo entre jornadas establecido en el apartado 3 del artículo 34 del citado Estatuto, se podrá
+  reducir el mismo, en el día en que así ocurra, hasta un mínimo de siete horas, compensándose la
+  diferencia hasta las doce horas establecidas con carácter general en los días inmediatamente
+  siguientes**».
+
+Su artículo 2.1 exige que esas reducciones se compensen con descansos alternativos «**de duración no
+inferior a la reducción experimentada**», y el 2.2 prohíbe sustituirlos por dinero salvo al terminar
+la relación laboral por causas distintas de la duración del contrato (o en un supuesto sectorial del
+artículo 18). El mismo 2.2 condiciona estas reducciones, en los contratos temporales, a que los
+descansos compensatorios puedan disfrutarse antes de que el contrato termine. Para el productor: la
+regla estatal de las doce horas no es absoluta en el cambio de turno.
+Pero el convenio fija las doce horas como condición mínima (artículo 12.b.2) y el descanso de dos
+días consecutivos (12.b.3) sin prever estas reducciones —con su salvedad general, «**a excepción de
+los casos especiales que se regulen**», y, en el semanal, «**salvo horarios de fin de semana y
+procesos productivos especiales**»—, y ninguna fuente publicada de la RTVA dice
+si se aplican en ella; el tema no lo decide.
 
 Comparación (elaboración del tema): el convenio da más que el ET en descanso semanal (dos días
 consecutivos frente a día y medio) y en pausa de la jornada continuada (veinte minutos computables
@@ -662,9 +699,14 @@ descanso retribuido**»; el convenio de la RTVA ha optado por el descanso, y a r
 hora. Además:
 
 - Apartado 2, el límite: «**El número de horas extraordinarias no podrá ser superior a ochenta al
-  año**», salvo lo previsto en el apartado 3; y «**no se computarán las horas extraordinarias que
-  hayan sido compensadas mediante descanso dentro de los cuatro meses siguientes a su
-  realización**».
+  año**», salvo lo previsto en el apartado 3. El mismo apartado lo reduce: «**Para los trabajadores
+  que por la modalidad o duración de su contrato realizasen una jornada en cómputo anual inferior a
+  la jornada general en la empresa, el número máximo anual de horas extraordinarias se reducirá en
+  la misma proporción que exista entre tales jornadas.**» Y «**no se computarán las horas
+  extraordinarias que hayan sido compensadas mediante descanso dentro de los cuatro meses siguientes
+  a su realización**». En la RTVA, el personal temporal, interino o indefinido no fijo con la
+  jornada reducida un 10 % por la DT 1.ª A.b tiene, por esa regla, un tope reducido en la misma
+  proporción (aplicación del tema).
 - Apartado 3: no cuentan para la jornada máxima ni para el tope «**el exceso de las trabajadas para
   prevenir o reparar siniestros y otros daños extraordinarios y urgentes, sin perjuicio de su
   compensación como horas extraordinarias**».
@@ -720,7 +762,7 @@ convenio y el ET):
 
 | Situación | Qué es | Qué genera |
 | --- | --- | --- |
-| Salida en el día o de pocos días (grabación, directo, cobertura) | Trabajo fuera del centro sin cambiar de residencia | Dietas, kilometraje, viaje y, fuera de Andalucía, plus de pernocta (artículo 53 del convenio) |
+| Salida en el día o de pocos días (grabación, directo, cobertura) | Trabajo fuera del centro sin cambiar de residencia | Dietas, kilometraje, viaje y, si se pernocta fuera de Andalucía y la jornada se prolonga más de dos horas, plus de pernocta (artículo 53 del convenio) |
 | Desplazamiento temporal | Trabajo en otra población que exige residir fuera del domicilio habitual, por un tiempo | Salarios, gastos de viaje y dietas; si pasa de tres meses, permiso en el domicilio de origen (artículo 21.3.B del convenio; artículo 40.6 del ET) |
 | Traslado | Cambio de centro que exige cambiar de residencia de forma indefinida | Consultas, preaviso, ayudas u opción por la extinción (artículo 21.3.A del convenio; artículos 40.1 y 40.2 del ET). No es herramienta de producción |
 
@@ -1033,10 +1075,10 @@ Resumen de lo visto en los epígrafes anteriores (elaboración del tema):
 | Materia | Convenio | ET | Qué hace el productor |
 | --- | --- | --- | --- |
 | Jornada diaria | Entre cinco y nueve horas, salvo fin de semana (art. 12.b.1) | Nueve horas salvo convenio (34.3) | Planifica jornadas de nueve horas como máximo |
-| Descanso entre jornadas | Doce horas (12.b.2) | Doce horas (34.3) | No cita a nadie antes de doce horas desde su salida |
+| Descanso entre jornadas | Doce horas (12.b.2) | Doce horas (34.3); en el cambio de turno, el Real Decreto 1561/1995 permite bajar ese día a siete, compensando en los siguientes (19.2) | No cita a nadie antes de doce horas desde su salida |
 | Descanso semanal | Dos días consecutivos (12.b.3) | Día y medio (37.1) | Prevé relevos en coberturas de más de cinco días |
 | Pausa en jornada continuada | Veinte minutos computables (12.c.2) | Quince minutos si pasa de seis horas (34.4) | Incluye la pausa en el plan |
-| Nocturno | Máximo siete horas si toda la jornada es entre las 22 y las 7 (12.b.9) | Ocho horas diarias de promedio en quince días; sin horas extraordinarias (36.1) | Acorta el turno de noche y no le carga horas extra |
+| Nocturno | Máximo siete horas si toda la jornada es entre las 22 y las 7 (12.b.9) | Trabajadores nocturnos (al menos tres horas de su jornada diaria, o un tercio de la anual, en periodo nocturno): ocho horas diarias de promedio en quince días; sin horas extraordinarias (36.1) | Acorta el turno de noche y no carga horas extra a quien es trabajador nocturno |
 | Horas extraordinarias | Dos horas de descanso por hora (14) | Tope de ochenta al año; voluntarias (35) | Las presupuesta como descanso futuro |
 | Desplazamiento temporal | Hasta un año; no repetible en cuatro (21.3.B) | Más de doce meses en tres años es traslado (40.6) | No lo usa como solución de producción corriente |
 | Registro de jornada | — | Registro diario, conservado cuatro años (34.9) | Deja constancia de horas reales en los partes |
@@ -1053,7 +1095,8 @@ Lista de oficio para aplicar lo anterior a un plan de trabajo:
    pacto de trabajo (tres días antes al Comité Intercentros)?
 5. ¿Cuántas horas extraordinarias genera, y cuánto descanso habrá que devolver?
 6. ¿Hay salida de la localidad? Dietas enteras o medias, dieta de rodaje, alojamiento contratado
-   por la empresa, vehículo autorizado; fuera de Andalucía, plus de pernocta.
+   por la empresa, vehículo autorizado; si se pernocta fuera de Andalucía y la jornada se prolonga
+   más de dos horas, plus de pernocta.
 7. ¿Exige residir fuera durante meses? Entonces es un desplazamiento temporal, con sus límites y
    su permiso de cuatro días laborables por cada tres meses.
 8. ¿Puede hacerlo un centro territorial con sus propios medios, sin desatender sus desconexiones?
@@ -1068,6 +1111,7 @@ Lista de oficio para aplicar lo anterior a un plan de trabajo:
 | --- | --- | --- |
 | X Convenio Colectivo Interprovincial para la RTVA y sus Sociedades Filiales (Resolución de 2 de diciembre de 2014, de la Dirección General de Relaciones Laborales) | Código 71000253011989 · BOJA núm. 240, de 10/12/2014 | Texto publicado, prorrogado, sin modificaciones publicadas ni inscritas a 24/09/2026: artículos 1, 3, 6, 7, 9, 10, 11, 12, 14, 21, 24, 34, 41, 50, 51 y 53; DA 2.ª, 5.ª y 7.ª; DT 1.ª y 7.ª; anexos II y III |
 | Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | `BOE-A-2015-11430` | Vigente el 24/09/2026: art. 34 (redacción del Real Decreto-ley 5/2023, `BOE-A-2023-15135`, desde el 30/06/2023); arts. 35 y 36 (redacción original); art. 37.1 y 37.2 (redacción vigente desde el 03/03/2025, Ley 6/2024, `BOE-A-2024-26693`); art. 40.6 y 40.7 (redacción vigente desde el 22/08/2024, `BOE-A-2024-15936`) |
+| Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo | `BOE-A-1995-21346` | Redacción única, vigente el 24/09/2026: arts. 2 y 19 |
 | Ley 3/2012, de 21 de septiembre, de Medidas Fiscales, Administrativas, Laborales y en materia de Hacienda Pública para el reequilibrio económico-financiero de la Junta de Andalucía | `BOE-A-2012-13126` | Sólo en cuanto la invocan las DT 1.ª y 7.ª del convenio (arts. 22, 23 y 25) |
 | Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2026 | `BOE-A-2026-945` | Disposición adicional cuarta |
 | Decreto 54/1989, de 21 de marzo, sobre indemnizaciones por razón del servicio de la Junta de Andalucía | — | Sólo se nombra porque lo cita la DT 7.ª; sus cuantías no se estudian |
@@ -1107,6 +1151,7 @@ ambas fechas).
 | X Convenio Colectivo RTVA, BOJA núm. 240, de 10/12/2014: artículos 14, 21.3.B y C, 50.11 y 53, leídos en el texto del BOJA; anexo II (filas de Productor/a); anexo III, fichas de Productor/a (5331000, pág. 194) y Ayudante de producción (5212705, pág. 110) | Reglas de horas extraordinarias, desplazamiento temporal, guardia, dietas; dotación y funciones |
 | Tema 7 del temario común de Canal Sur (redacción cerrada y verificada) | Pasajes copiados literalmente: artículos 1, 3, 6, 7, 10, 11, 12, 14, 21.3, 24, 34, 41, 50, 51 y 53; DA 2.ª, 5.ª y 7.ª; DT 1.ª y 7.ª y su situación en 2026; contraste de horas extraordinarias con el ET |
 | ET (`BOE-A-2015-11430`), leído con su cadena de redacciones el 25/09/2026: artículos 34 (4 redacciones), 35 (1), 36 (1), 37 (15; se usan los apartados 1 y 2) y 40 (4) | Jornada, descansos, horas extraordinarias, nocturno y turnos, fiestas, desplazamientos, registro, adaptación de jornada |
+| Real Decreto 1561/1995 (`BOE-A-1995-21346`), leído vigente a 24/09/2026 el 25/09/2026: artículos 1, 2 y 19 (una redacción) | Reducción del descanso entre jornadas en el cambio de turno y acumulación del medio día semanal; compensación |
 | Ley 8/2025 (`BOE-A-2026-945`), disposición adicional cuarta, a través del tema 7 del común | Medidas de la Ley 3/2012 que se mantienen en 2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: apartado 4.4 (introducción, 4.4.1, 4.4.2 y 4.4.4, punto 2), págs. 75 a 77 | Peticiones por escrito, puntualidad, convocatoria por fases, aportaciones a desconexión |
 | Cámara de Cuentas de Andalucía, informe de fiscalización de la RTVA y CSRTV, ejercicio 2018, BOJA núm. 36, de 23/02/2021: puntos 162, 235, 236, 250, 252 y 253; anexo 9.1 | Centros, desconexiones, diagnóstico de dimensionamiento (con fecha) |

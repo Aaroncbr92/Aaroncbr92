@@ -8,7 +8,7 @@
 | Sirve para | Puesto 2.32, Productor/a (grupo B03): test de teoría específica, test de aplicación práctica y prueba práctica del puesto |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 18/2007, de la RTVA; Ley 31/1995, de Prevención de Riesgos Laborales, artículos 16, 20 y 24 a 27; Real Decreto 171/2004, de 30 de enero; Real Decreto 393/2007, de 23 de marzo (Norma Básica de Autoprotección); Real Decreto 524/2023, de 20 de junio (Norma Básica de Protección Civil); Ley 13/1999, de 15 de diciembre, de Espectáculos Públicos y Actividades Recreativas de Andalucía; Ley 9/2017, de Contratos del Sector Público, artículos 71, 122, 126, 145, 201, 202 y 319; texto refundido de la Ley del Estatuto de los Trabajadores, artículo 6; Real Decreto 1435/1985, artículo 2; Carta del Servicio Público de la RTVA 2024-2029; Contrato-programa 2024-2026; X Convenio Colectivo de la RTVA, anexo III |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026. Del Real Decreto 393/2007, derogado con efectos de 11-07-2023 por el Real Decreto 524/2023 pero aplicable hasta que se apruebe el instrumento que lo sustituya, el texto de la Norma Básica en la redacción del Real Decreto 1468/2008, desde el 04-10-2008, y los artículos y anexos citados en la original; del Real Decreto 171/2004, su única redacción (30-04-2004); de la Ley 13/1999, los artículos 1, 2, 6, 7, 12 y 14 en la redacción vigente desde el 10-10-2014, el 5 desde el 17-02-2024 y los 15 a 17 en la original; de la Ley 9/2017, el 202 en la redacción que el BOE da como aplicable desde el 02-01-2025, el 71 desde el 22-08-2024, el 122 desde el 02-03-2023 y los demás en la original. Carta, Contrato-programa y convenio en su texto publicado |
-| Extensión | 21.100 palabras aproximadamente |
+| Extensión | 21.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -20,7 +20,9 @@ Prevención de Riesgos Laborales (LPRL); Real Decreto (RD); Norma Básica de Aut
 por el Real Decreto 393/2007, de 23 de marzo (NBA); Ley 9/2017, de 8 de noviembre, de Contratos del
 Sector Público (LCSP); texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el
 Real Decreto Legislativo 2/2015, de 23 de octubre (ET); Comisión Nacional de los Mercados y la
-Competencia (CNMC); Centro Español del Subtitulado y la Audiodescripción (CESyA); Centro de
+Competencia (CNMC); Boletín Oficial del Estado (BOE); Boletín Oficial de la Junta de Andalucía
+(BOJA); Unión Europea (UE); disposición adicional, transitoria, derogatoria y final (DA, DT, DD, DF,
+sólo en la trazabilidad); Centro Español del Subtitulado y la Audiodescripción (CESyA); Centro de
 Normalización Lingüística de la Lengua de Signos Española (CNSLE); personas lesbianas, gais, trans,
 bisexuales e intersexuales (LGTBI; el nombre del Consejo Andaluz LGBTI lo escribe con otro orden);
 televisión digital terrestre (TDT); servicio de vídeo por internet (OTT); UNE, sigla con la que se
@@ -920,7 +922,9 @@ y responder a las emergencias **«en la zona bajo responsabilidad del titular de
 una producción con público están en el epígrafe 5). Pero **«las Administraciones Públicas
 competentes podrán exigir la elaboración e implantación de planes de autoprotección a los titulares
 de actividades no incluidas en el anexo I, cuando presenten un especial riesgo o vulnerabilidad»**
-(2.2). Es una norma mínima (artículo 3.1).
+(2.2). Las obligaciones de autoprotección se exigen **«como norma mínima o supletoria, de
+conformidad con lo establecido en el artículo 2.1»** (artículo 3.1): supletoria para las actividades
+con reglamentación sectorial específica del punto 1 del anexo I (2.1).
 
 **Quién lo hace (artículo 4.1).**
 
@@ -1158,8 +1162,8 @@ empresa y por las funciones técnicas que desempeñen en relación con el proces
 producción desarrollados en el centro, esté capacitado para la coordinación de las actividades
 empresariales.»** (13.3.e). Las personas encargadas están facultadas para **«Acceder a cualquier zona del centro de
 trabajo»** e impartir instrucciones (14.2), deben estar presentes el tiempo necesario (14.3) y
-**«deberán contar con
-la formación preventiva correspondiente, como mínimo, a las funciones del nivel intermedio»** (14.4).
+**«deberán contar con la formación preventiva correspondiente, como mínimo, a las funciones del
+nivel intermedio»** (14.4).
 
 **Documentación.** **«Cualquier información o documentación derivada de lo establecido en este real
 decreto que se formalice por escrito formará parte de la documentación a que se refiere el artículo
@@ -1206,7 +1210,8 @@ seguridad que deben reunir los establecimientos públicos donde aquellos se cele
   diversión o contemplación intelectual y que se dirija a atraer la atención de los espectadores»**
   (1.2). **Establecimientos públicos**: **«aquellos locales, recintos o instalaciones de pública
   concurrencia en los que se celebren o practiquen espectáculos o actividades recreativas»** (1.2).
-- Se aplica **«independientemente de su titularidad»** y **«aun cuando estos se encuentren situados
+- Se aplica a los espectáculos y actividades que se celebren, **«independientemente de su
+  titularidad, en establecimientos públicos, aun cuando estos se encuentren situados
   en espacios abiertos, en la vía pública, en zonas marítimo-terrestres o portuarias, o en
   cualesquiera otras zonas de dominio público»** (1.3).
 - Quedan fuera **«las celebraciones de carácter estrictamente privado o familiar, así como las que
@@ -1221,7 +1226,9 @@ que ninguna norma leída hace; depende de que la grabación sea una función que
 públicamente para atraer a espectadores. Lo que sigue se aplica **si** el acto lo es.
 
 **Intervención administrativa.** Todo espectáculo o actividad recreativa no excluido por el 1.4
-**«estará sujeta a los medios de intervención por parte de la Administración competente»** (2.1).
+**«que se desarrolle dentro de la Comunidad Autónoma de Andalucía, incluidas las zonas de dominio
+público, en establecimientos públicos fijos o no permanentes, estará sujeta a los medios de
+intervención por parte de la Administración competente»** (2.1).
 Cuando se requiera autorización previa, esta debe señalar el tiempo, el establecimiento **«así como
 el aforo permitido en cada caso»** (2.3). Y **«La celebración de espectáculos o el ejercicio de
 actividades recreativas sin haberse sometido a los medios de intervención de la Administración
@@ -1238,8 +1245,9 @@ recreativas cuyo desarrollo discurra por más de un término municipal, así com
 o excepcionales que no estén reglamentados o que por sus características no pudieran acogerse a los
 reglamentos dictados o no estén catalogados»** (5.7).
 
-El reglamento andaluz sobre espectáculos ocasionales y extraordinarios (Decreto 195/2007) no se ha
-podido leer en fuente fiable, y el tema no da sus plazos ni requisitos.
+El reglamento andaluz sobre espectáculos ocasionales y extraordinarios (Decreto 195/2007, de 26 de
+junio, BOJA núm. 137, de 12-07-2007) no se ha podido leer en su redacción vigente, y el tema no da sus
+plazos ni requisitos.
 
 ### No discriminar en espacios abiertos al público
 
@@ -1340,7 +1348,7 @@ El resto: b) permitir las inspecciones; d) mantener el espectáculo anunciado sa
 justificada; e) devolver lo pagado si se modifica o suspende; f) evitar ruidos y molestias; i)
 conservar los espacios naturales protegidos; k) las demás obligaciones reglamentarias.
 
-**Admisión.** Los titulares pueden fijar **«condiciones objetivas de admisión»**, que **«en ningún caso
+**Admisión.** Los titulares de establecimientos públicos pueden fijar **«condiciones objetivas de admisión»**, que **«en ningún caso
 podrán ser contrarias a los derechos reconocidos en la Constitución española, suponer un trato
 discriminatorio o arbitrario para los usuarios, o colocarlos en situaciones de inferioridad,
 indefensión o agravio comparativo con otros asistentes o espectadores»**; deben figurar **«de forma
@@ -1462,7 +1470,7 @@ un poder adjudicador no Administración.
 - **Prescripciones técnicas (artículo 126.3):** en toda contratación destinada a ser utilizada por
   personas físicas, **«ya sea el público en general o el personal de la Administración Pública
   contratante»**, las prescripciones técnicas se redactarán, **«salvo en casos debidamente
-  justificados»**, teniendo en cuenta la Convención de la ONU sobre los derechos de las personas con
+  justificados»**, teniendo en cuenta la Convención de las Naciones Unidas sobre los derechos de las personas con
   discapacidad y **«los criterios de accesibilidad universal y de diseño universal o diseño para
   todas las personas»**; si no es posible, **«deberá motivarse suficientemente esta
   circunstancia»**.
@@ -1474,6 +1482,8 @@ Los artículos 122 y 126 están en las normas de preparación de los contratos d
 públicas; cuándo se aplican a un poder adjudicador que no es Administración es materia del tema 10.
 
 ### Lo que dicen las leyes de igualdad sobre la contratación
+
+De la Ley 12/2007 de Andalucía (texto del tema 8 del común):
 
 *Contratación pública (artículo 12)*.
 
@@ -1489,6 +1499,9 @@ públicas; cuándo se aplican a un poder adjudicador que no es Administración e
 
 Cadena: la Ley 9/2018 (en vigor desde el 16/10/2018) cambió el 12.1 de **«podrá establecer»**
 a **«establecerá»** y añadió al 12.2 el protocolo de acoso.
+
+De la Ley 15/2022 (mismo tema del común):
+
 - Subvenciones y contratación (artículo 37): las administraciones **«podrán establecer
   condiciones especiales»** de ejecución de los contratos para promover la igualdad de trato
   (37.2); **«no subvencionarán, bonificarán o prestarán ayudas públicas»** a quienes hayan sido
@@ -1779,8 +1792,10 @@ menores de dieciséis años en espectáculos públicos solo se autorizará en ca
 autoridad laboral, siempre que no suponga peligro para su salud ni para su formación profesional y
 humana. El permiso deberá constar por escrito y para actos determinados.»** (6.4).
 
-**Real Decreto 1435/1985, artículo 2.Uno**, que regula la relación laboral especial de los artistas
-en espectáculos públicos: la autorización **«habrá de solicitarse por los representantes legales del
+**Real Decreto 1435/1985, artículo 2.Uno** (el real decreto de la relación laboral especial de las
+personas artistas; su título original hablaba de «los artistas en espectáculos públicos» y el Real
+Decreto-ley 5/2022 lo renombró para las artes escénicas, audiovisuales y musicales y el personal
+técnico o auxiliar; el artículo 2 sigue refiriéndose a «espectáculos públicos»): la autorización **«habrá de solicitarse por los representantes legales del
 menor, acompañando el consentimiento de éste, si tuviera suficiente juicio, y la concesión de la
 misma deberá constar por escrito, especificando el espectáculo o la actuación para la que se
 concede»**; concedida, **«corresponde al padre o tutor la celebración del correspondiente
@@ -1829,10 +1844,11 @@ integral de los menores.»** (8.1.d, epígrafe 9).
 Aplicación, no texto de norma: en la preparación de un programa con menores hay que distinguir tres
 papeles, cada uno con sus propios documentos. Si aparecen, su imagen y su voz necesitan su
 consentimiento o el de su representante legal (95.1 LGCA), y nunca puede identificárseles en los
-contextos del 95.2. Si actúan y tienen menos de dieciséis años, hace falta la autorización escrita
-de la autoridad laboral para actos determinados (6.4 ET), y antes de incorporar a cualquier menor
+contextos del 95.2. Si actúan y tienen menos de dieciséis años, y la grabación es «espectáculo público»
+(salvedad de más arriba), hace falta la autorización escrita de la autoridad laboral para actos
+determinados (6.4 ET), y antes de incorporar a cualquier menor
 de dieciocho años al trabajo, la evaluación específica del artículo 27 LPRL, con información a él y
-a quien haya intervenido en su contratación. Si están en el público, las condiciones de admisión y
+a sus padres o tutores que hayan intervenido en su contratación. Si están en el público, las condiciones de admisión y
 la evacuación deben preverlos (epígrafes 5 y 7). La calificación por edades y la franja de emisión
 (98 y 99 LGCA) condicionan el contenido desde el guion.
 
@@ -1942,8 +1958,9 @@ Aplicación de todo lo anterior a las tareas de la ficha; no es texto de ninguna
   126.3, 145.2, 201, 202 y 319.1.
 - Texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015):
   artículo 6.
-- Real Decreto 1435/1985, de 1 de agosto, relación laboral especial de los artistas en espectáculos
-  públicos: artículo 2.
+- Real Decreto 1435/1985, de 1 de agosto, relación laboral especial de las personas artistas (así
+  denominado desde el Real Decreto-ley 5/2022; antes, «de los artistas en espectáculos públicos»):
+  artículo 2.
 - Por remisión de esas leyes: Ley Orgánica 1/1982, Ley Orgánica 2/1984, Ley Orgánica 3/2018
   (artículo 7), Reglamento (UE) 2016/679 (artículo 8), Ley Orgánica 1/2004, Ley 13/2011, de
   regulación del juego, y la derogada Ley 7/2010 (sólo como historia); Real Decreto 1627/1997 (obras
@@ -1956,8 +1973,9 @@ Aplicación de todo lo anterior a las tareas de la ficha; no es texto de ninguna
 
 ## Lo que este tema no da, y dónde está
 
-- **Decreto 195/2007** (espectáculos ocasionales y extraordinarios en Andalucía) y el catálogo
-  andaluz de espectáculos: no leídos en fuente fiable; sin plazos ni requisitos.
+- **Decreto 195/2007**, de 26 de junio (espectáculos ocasionales y extraordinarios en Andalucía;
+  BOJA núm. 137, de 12-07-2007), y el catálogo andaluz de espectáculos: localizada sólo la
+  publicación original, no la redacción vigente; sin plazos ni requisitos.
 - **Si una grabación de televisión con público es «espectáculo público»** a efectos de la Ley
   13/1999, del anexo I.1.d) de la Norma Básica o del artículo 6.4 del ET: ninguna norma leída lo
   dice.
@@ -1989,8 +2007,9 @@ Aplicación de todo lo anterior a las tareas de la ficha; no es texto de ninguna
 | Real Decreto 524/2023 (BOE-A-2023-14679): DD única, DF 1.ª, arts. 12, 14.4 y 15.4 de la Norma | Epígrafe 2 | 25-09-2026 |
 | Buscador de sumarios del BOE, «autoprotección» y «Directriz Básica», 01-07-2023 a 24-09-2026 | Epígrafe 2 (ninguna directriz de autoprotección publicada; las cuatro del 21-04-2026, BOE-A-2026-9158 a 9161) | 25-09-2026 |
 | Ley 13/1999 de Andalucía (BOE-A-2000-1009): arts. 1, 2, 5, 6, 7, 12, 14 a 17 | Epígrafes 4 y 5 | 25-09-2026 |
+| Sumario del BOJA núm. 137, de 12-07-2007: título y fecha del Decreto 195/2007 (sólo la publicación original; redacción vigente no obtenida) | Epígrafe 4 y «Lo que este tema no da» | 25-09-2026 |
 | Ley 15/2022 (BOE-A-2022-11589): arts. 3.1.l) y 21 | Epígrafe 4 | 25-09-2026 |
 | LCSP (BOE-A-2017-12902): arts. 71 (vig. 22-08-2024), 122 (vig. 02-03-2023; el 3 bis no existe antes), 126, 145, 201, 202 (cadena: aplicable 02-01-2025, publicada 02-04-2025) y 319 | Epígrafe 6 | 25-09-2026 |
-| ET (BOE-A-2015-11430): art. 6; RD 1435/1985 (BOE-A-1985-17303): art. 2 | Epígrafe 8 | 25-09-2026 |
+| ET (BOE-A-2015-11430): art. 6; RD 1435/1985 (BOE-A-1985-17303): art. 2 y nota del texto consolidado sobre su denominación (Real Decreto-ley 5/2022, art. 2.1) | Epígrafe 8 | 25-09-2026 |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): arts. 9.2, 17.1, 17.2, 25.1 y 25.3 | Epígrafes 1, 8 y 9 | 25-09-2026 |
 | X Convenio Colectivo RTVA (BOJA 240, 10-XII-2014, p. 194), ficha 5331000 | «De dónde sale este tema» y epígrafes 2, 3 y 10 | 25-09-2026 |

@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 14 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Ley 31/1995, de Prevención de Riesgos Laborales (artículos 4, 14, 15, 16, 18, 20, 21, 23, 24, 29 y 32 bis); Real Decreto 171/2004, de coordinación de actividades empresariales; Real Decreto 393/2007, Norma Básica de Autoprotección; Real Decreto 486/1997, de lugares de trabajo (artículos 1 y 10, disposición adicional única y anexos I, III, IV y VI); Real Decreto 487/1997, de manipulación manual de cargas; Real Decreto 1215/1997, de equipos de trabajo (anexos I y II); Real Decreto 614/2001, de riesgo eléctrico; Real Decreto 773/1997, de equipos de protección individual (anexo III); Real Decreto 513/2017, Reglamento de instalaciones de protección contra incendios (anexo I); Reglamento General de Circulación (artículos 14, 18 y 118); Estatuto de los Trabajadores (artículos 36, 37.3.g, 64.4.e y 85.1); texto refundido de la Ley General de la Seguridad Social (artículo 156); Orden de 16 de diciembre de 1987 (partes de accidente) y Orden TAS/2926/2002 (Delt@); Ley andaluza 13/1999, de Espectáculos Públicos y Actividades Recreativas; X Convenio Colectivo de la RTVA (artículos 12, 25 a 31 y 50, anexo III); Carta del Servicio Público de la RTVA 2024-2029 (artículo 32.2); Libro de estilo de Canal Sur Televisión (2004), apartado 5.6. INSST: Guía técnica de manipulación manual de cargas (2024) y NTP 318, 443, 476, 502, 536, 704, 1090 y 1091. Lo demás, oficio |
+| **Fuente** | Ley 31/1995, de Prevención de Riesgos Laborales (artículos 4, 14, 15, 16, 18, 20, 21, 23, 24, 29 y 32 bis, y disposición adicional primera); Real Decreto 39/1997, Reglamento de los Servicios de Prevención (artículos 22 bis y 34); Real Decreto 171/2004, de coordinación de actividades empresariales; Real Decreto 393/2007, Norma Básica de Autoprotección (derogado por el Real Decreto 524/2023, Norma Básica de Protección Civil, y que se sigue aplicando); Real Decreto 486/1997, de lugares de trabajo (artículos 1 y 10, disposición adicional única y anexos I, II, III, IV y VI); Real Decreto 487/1997, de manipulación manual de cargas; Real Decreto 1215/1997, de equipos de trabajo (anexos I y II); Real Decreto 614/2001, de riesgo eléctrico; Real Decreto 842/2002, Reglamento electrotécnico para baja tensión (artículos 2 y 4 e ITC-BT-24); Real Decreto 773/1997, de equipos de protección individual (anexo III); Real Decreto 513/2017, Reglamento de instalaciones de protección contra incendios (anexo I); Reglamento General de Circulación (artículos 14, 18 y 118); Estatuto de los Trabajadores (artículos 36, 37.3.g, 64.4.e y 85.1); texto refundido de la Ley General de la Seguridad Social (artículo 156); Orden de 16 de diciembre de 1987 (partes de accidente) y Orden TAS/2926/2002 (Delt@); Ley andaluza 13/1999, de Espectáculos Públicos y Actividades Recreativas; X Convenio Colectivo de la RTVA (artículos 12, 14, 25 a 31, 39, 45, 50 y 53, anexo III); Carta del Servicio Público de la RTVA 2024-2029 (artículo 32.2); Libro de estilo de Canal Sur Televisión (2004), apartado 5.6. INSST: Guía técnica de manipulación manual de cargas (2024) y NTP 318, 443, 476, 502, 536, 704, 1090 y 1091. Lo demás, oficio |
 | **Redacción que se estudia** | Normas en su redacción vigente el 24-09-2026 (con aviso de la reforma del Reglamento General de Circulación que entra en vigor el 1-10-2026); documentos técnicos y de la RTVA en la edición que se cita en «Trazabilidad» |
-| **Extensión** | 27.800 palabras aproximadamente |
+| **Extensión** | 28.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -147,7 +147,9 @@ temario:
   tipo de organismos públicos y privados en las grabaciones.»**
 - **«Coordinar el equipo del programa y organizar el trabajo de los ayudantes de producción.»**
 
-La primera es la única ficha de producción que nombra la ley de prevención como tarea; la segunda
+La primera la comparte, en posición de apoyo, la ficha de Ayudante de Producción (**«Ayudar al
+productor en el cumplimiento de la legislación de prevención de riesgos laborales.»**), que así sitúa
+al productor como responsable de esa tarea en el equipo de producción; la segunda
 hace del productor el punto de contacto con las empresas que concurren en una grabación, que es el
 supuesto de la coordinación de actividades empresariales; la tercera le da el mando sobre el equipo,
 y con él la cadena por la que suben las incidencias. La ficha no enumera riesgos ni dice qué
@@ -679,6 +681,32 @@ necesarios** en esas actividades o procesos **y cuenten con la formación preven
 correspondiente, como mínimo, a las funciones del nivel básico.** Esos trabajadores **deberán
 mantener la necesaria colaboración con los recursos preventivos del empresario**.
 
+*La lista reglamentaria.* La letra b) remite al artículo 22 bis.1.b) del RD 39/1997 (redacción única,
+vigente desde el 29 de junio de 2006), que enumera las **«actividades o procesos peligrosos o
+con riesgos especiales»**:
+
+1. **«Trabajos con riesgos especialmente graves de caída desde altura, por las particulares
+   características de la actividad desarrollada, los procedimientos aplicados, o el entorno del puesto
+   de trabajo.»**
+2. **«Trabajos con riesgo de sepultamiento o hundimiento.»**
+3. Actividades con máquinas que carecen de la declaración de conformidad por ser anteriores a su
+   exigencia obligatoria, en los términos del precepto.
+4. **«Trabajos en espacios confinados.»**
+5. **«Trabajos con riesgo de ahogamiento por inmersión»**, salvo los trabajos en inmersión con equipo
+   subacuático, que tienen su norma.
+
+Son cinco. La primera es la que toca a la producción: el montaje de una parrilla de iluminación o de
+un decorado con riesgo especialmente grave de caída exige recurso preventivo presente. Tres reglas más
+del mismo artículo: la evaluación de riesgos **«identificará los trabajos o tareas integrantes del
+puesto de trabajo ligados a las actividades o los procesos peligrosos o con riesgos especiales»**
+(22 bis.2); los recursos deben **«permanecer en el centro de trabajo durante el tiempo en que se
+mantenga la situación que determine su presencia»** (22 bis.3); y, con empresas concurrentes, **«la
+obligación de designar recursos preventivos para su presencia en el centro de trabajo recaerá sobre la
+empresa o empresas que realicen dichas operaciones o actividades»** (22 bis.9): si el montaje lo hace
+una contratista, el recurso preventivo lo pone ella. El artículo 22 bis.8 deja a salvo las normas
+específicas de ciertos trabajos, entre ellos los **«Trabajos con riesgos eléctricos»** y las actividades
+con **«explosivos, incluidos artículos pirotécnicos»**.
+
 La letra a) del 32 bis.1 (**concurrencia de operaciones diversas** que agravan o modifican los
 riesgos) describe bien un montaje con varios equipos a la vez; y la presencia de los recursos
 preventivos de las empresas concurrentes es, a la vez, uno de los medios de coordinación del
@@ -896,6 +924,9 @@ del montaje es la organización:
 - Los **«trabajos temporales en altura sólo podrán efectuarse cuando las condiciones meteorológicas no
   pongan en peligro la salud y la seguridad de los trabajadores»** (RD 1215/1997, anexo II, apartado
   4.1.6), lo que en un montaje exterior condiciona el horario.
+- Si hay **«riesgos especialmente graves de caída desde altura»**, o varias operaciones concurrentes que
+  agravan los riesgos, hace falta recurso preventivo presente (artículo 32 bis de la LPRL y 22 bis del RD
+  39/1997; véase «Los recursos preventivos»), y lo designa la empresa que hace el montaje.
 - El desmontaje se hace con cansancio, de noche a menudo y con prisa por dejar libre el recinto: la
   planificación del plan de producción le reserva tiempo y luz (oficio).
 
@@ -921,11 +952,13 @@ origen a situaciones de emergencia, aprobada por el Real Decreto 393/2007, de 23
 consolidado del BOE lo anota así: **«Norma derogada, con efectos de 11 de julio de 2023, por la
 disposición derogatoria única.2.d) del Real Decreto 524/2023, de 20 de junio. […] No obstante, la
 Norma Básica continuará aplicándose hasta tanto sea aprobado el nuevo instrumento de planificación que
-la sustituya, según establece el apartado 3 de la citada disposición.»** El apartado 3 dice que las
-normas derogadas **«continuarán aplicándose hasta tanto sean aprobados […] los nuevos instrumentos de
-planificación que los sustituyan»**; la disposición final primera del mismo real decreto da **«el
+la sustituya, según establece el apartado 3 de la citada disposición.»** El apartado 3 dice, de
+**«Las Directrices Básicas de Planificación y los Planes Estatales de protección civil a las que se
+refiere el apartado anterior»**, que **«continuarán aplicándose hasta tanto sean aprobados […] los
+nuevos instrumentos de planificación que los sustituyan»**: no nombra la NBA, que no es directriz ni
+plan estatal, y es la nota del BOE la que le extiende esa regla; la disposición final primera del mismo real decreto da **«el
 plazo máximo de cuatro años»** para adaptar a la nueva norma **«la Norma Básica de Autoprotección»**;
-y su artículo 12 define ya los planes de autoprotección **«de acuerdo con la Directriz Básica de
+y el artículo 12 de la Norma Básica de Protección Civil que ese real decreto aprueba define ya los planes de autoprotección **«de acuerdo con la Directriz Básica de
 Planificación de Autoprotección»**. A 25 de septiembre de 2026 no se ha localizado en el BOE esa
 Directriz ni otra norma que sustituya a la de 2007: lo que sigue es, pues, la norma que se sigue
 aplicando, formalmente derogada.
@@ -973,14 +1006,19 @@ revisión) está en «Emergencias».
 Públicos y Actividades Recreativas de Andalucía, define en su artículo 1.2: **«se entiende por
 espectáculo público toda función o distracción que se ofrezca públicamente para la diversión o
 contemplación intelectual y que se dirija a atraer la atención de los espectadores.»** Excluye (1.4)
-**«las celebraciones de carácter estrictamente privado o familiar»**. La ley no nombra la televisión
+**«las celebraciones de carácter estrictamente privado o familiar, así como las que supongan el
+ejercicio de derechos fundamentales en el ámbito laboral, político, religioso, sindical o docente»**,
+aunque **«los recintos, locales, establecimientos o instalaciones donde se realicen estas actividades
+deberán reunir las condiciones de seguridad exigidas en esta ley y en las normas que la desarrollen»**:
+una manifestación o una concentración sindical que se cubre queda, pues, fuera de esta ley. La ley no nombra la televisión
 ni las grabaciones con público, y ninguna fuente leída dice que la grabación de un programa con
 público sea «espectáculo público»: si el acto lo es (un concierto o una gala abiertos al público, por
 ejemplo), rigen, entre otras, estas reglas:
 
 - La autorización previa, cuando se requiera, señala **«el aforo permitido en cada caso»** (artículo
   2.3).
-- Las empresas organizadoras responden de los daños y **«estarán obligadas a concertar el oportuno
+- Los titulares de las empresas, sus cargos directivos y empleados responden de los daños, y las
+  empresas **«estarán obligadas a concertar el oportuno
   contrato de seguro de responsabilidad civil en los términos que reglamentariamente se determinen»**
   (artículo 14.c).
 - El público debe **«Seguir las instrucciones que impartan en su caso los empleados o el personal de
@@ -1070,9 +1108,10 @@ de protección contra los contactos directos o en caso de imprudencia de los usu
 **«La utilización de tales dispositivos no constituye por sí mismo una medida de protección completa y
 requiere el empleo de una de las medidas de protección enunciadas en los apartados 3.1 a 3.4 de la
 presente instrucción.»** Frente a los contactos indirectos, el apartado 4.1 prevé la **«Protección por
-corte automático de la alimentación»**, que es la función ordinaria del diferencial. El diferencial
-aparece así en los dos capítulos: complementario frente a los directos (con el umbral de 30 mA) y
-dispositivo de corte frente a los indirectos.
+corte automático de la alimentación»**, y entre los dispositivos de corte que admite figuran los
+**«Dispositivos de protección de corriente diferencial-residual»**. El diferencial aparece así en los
+dos capítulos: complementario frente a los directos (con el umbral de 30 mA) y uno de los
+dispositivos de corte frente a los indirectos.
 
 Para la producción, como oficio: saber de dónde sale la corriente (acometida del recinto, generador
 propio o contratado), quién la instala y certifica (la empresa del recinto o la contratada, no el
@@ -1817,6 +1856,20 @@ El derecho es a interrumpir la actividad y, **en caso necesario**, abandonar el 
 trabajo; y el motivo es **riesgo grave e inminente**: ni «riesgo muy grave», ni «riesgo para
 la salud», ni «cualquier riesgo».
 
+**21.3. La paralización por los representantes.** **«Cuando en el caso a que se refiere el apartado 1
+de este artículo el empresario no adopte o no permita la adopción de las medidas necesarias para
+garantizar la seguridad y la salud de los trabajadores, los representantes legales de éstos podrán
+acordar, por mayoría de sus miembros, la paralización de la actividad de los trabajadores afectados por
+dicho riesgo. Tal acuerdo será comunicado de inmediato a la empresa y a la autoridad laboral, la cual,
+en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada.»** Y si no se puede
+reunir a tiempo al órgano de representación: **«El acuerdo a que se refiere el párrafo anterior podrá
+ser adoptado por decisión mayoritaria de los Delegados de Prevención cuando no resulte posible reunir
+con la urgencia requerida al órgano de representación del personal.»**
+
+Es el escalado cuando el mando no responde: quien paraliza son los representantes (o los delegados de
+prevención, por mayoría), no un trabajador solo; la paralización alcanza a **«los trabajadores
+afectados por dicho riesgo»**, no a toda la empresa; y la autoridad laboral decide en veinticuatro horas.
+
 **21.4. La garantía.** **Los trabajadores o sus representantes no podrán sufrir perjuicio
 alguno derivado de la adopción de las medidas** a que se refieren los apartados anteriores,
 **a menos que hubieran obrado de mala fe o cometido negligencia grave**.
@@ -1916,8 +1969,7 @@ apartado 4, regula los extintores:
 | **D** | **«Fuegos de metales.»** |
 | **F** | **«Fuegos derivados de la utilización de ingredientes para cocinar (aceites y grasas vegetales o animales) en los aparatos de cocina.»** |
 
-(El texto consolidado del BOE dice «combinación» en la clase A, donde la definición técnica habla de
-combustión; se reproduce tal cual.) No hay una clase de fuego eléctrico: la electricidad condiciona el
+(«Combinación», en la clase A, es lo que dice el texto consolidado del BOE; se reproduce tal cual.) No hay una clase de fuego eléctrico: la electricidad condiciona el
 agente que se puede usar. La NTP 536 del INSST (1999), «Extintores de incendio portátiles:
 utilización», recoge la tabla de adecuación de agentes del reglamento de 1993 (Real Decreto
 1942/1993, sustituido por el de 2017, que no reproduce esa tabla), con esta nota: **«En presencia de
@@ -1926,7 +1978,8 @@ de los agentes extintores podrán utilizarse en aquellos extintores que superen 
 normalizado en UNE-23.110.»** La misma NTP describe el extintor de anhídrido carbónico, cuya etiqueta
 indica **«NO CONDUCTOR DE LA ELECTRICIDAD»** y **«No utilizar en fuegos metálicos y productos
 radioactivos»**, con la boquilla de **material aislante** para evitar quemaduras por la baja
-temperatura del gas; y el modo de empleo: **«Quitar el pasador de seguridad»**, apretar la maneta y
+temperatura del gas. Como modo de empleo general, la NTP indica **«Quitar el pasador de seguridad
+tirando de su anilla»**, acercarse dejando **«como mínimo un metro de distancia»**, apretar la maneta y
 **«Dirigir el chorro a la base de las llamas»**. En un plató o una UM, donde el fuego más probable
 empieza en un equipo o una instalación eléctrica, la consecuencia es de oficio: el extintor de CO₂ o
 de polvo que haya junto a los equipos, nunca agua a chorro ni espuma sobre tensión.
@@ -1949,7 +2002,7 @@ trabajadores accidentados, ajustándose a lo establecido en el anexo VI.»** El 
 - Local (apartado 5): **«Los lugares de trabajo de más de 50 trabajadores deberán disponer de un
   local destinado a los primeros auxilios y otras posibles atenciones sanitarias.»** También los de
   **más de 25 trabajadores** cuando lo determine la autoridad laboral, por la peligrosidad o la
-  dificultad de acceso al centro de asistencia médica. El local tendrá, **«como mínimo, de un
+  dificultad de acceso al centro de asistencia médica. El local dispondrá, **«como mínimo, de un
   botiquín, una camilla y una fuente de agua potable.»** (apartado 6), y material y locales estarán
   **«claramente señalizados.»** (apartado 7).
 - Los apartados 5 y 6 no se aplican a los lugares de trabajo ya utilizados antes de la entrada en
@@ -2156,8 +2209,9 @@ que retrocede hacia la calzada mirando a cámara.
 *Quién es el responsable preventivo.* El artículo 29.2.4.º nombra los destinatarios: el **superior
 jerárquico directo** y **los trabajadores designados para realizar actividades de protección y de
 prevención o, en su caso, al servicio de prevención**. En la RTVA, el convenio da un Servicio de
-Prevención con personal de nivel superior (artículo 27), comités de seguridad y salud por centro y un
-Comité Intercentros (artículos 25 a 27) y unidades básicas de salud laboral (artículo 31); los
+Prevención con personal de nivel superior (artículo 27), comités de seguridad y salud laboral en los
+centros de trabajo **«que cuenten con 50 ó más trabajadores/as»** (artículos 25 y 26), un Comité
+Intercentros (artículo 27) y unidades básicas de salud laboral (artículo 31); los
 delegados de prevención son el cauce de la representación. Cómo se llama y dónde está en cada centro
 el interlocutor preventivo, y si hay un procedimiento interno de comunicación de incidencias, no
 consta en un documento publicado. En una producción con varias empresas, además, la persona
@@ -2172,7 +2226,7 @@ actuaciones del plan, la **«Comunicación de anomalías o incidencias al titula
 | --- | --- | --- |
 | 1. Detectar y avisar | Cualquier miembro del equipo, de inmediato, a su superior directo y al servicio de prevención o trabajadores designados | LPRL, artículo 29.2.4.º |
 | 2. Actuar si no hay tiempo | El trabajador que no puede contactar con su superior, con sus conocimientos y medios; y el derecho a interrumpir ante riesgo grave e inminente | LPRL, artículo 21.1.c) y 21.2 |
-| 3. Parar y resolver | La producción adopta la medida o interrumpe; si hay otras empresas, se informa a todas y, si es emergencia, de inmediato | LPRL, artículo 21.1; RD 171/2004, artículo 4.2 y 4.3 |
+| 3. Parar y resolver | La producción adopta la medida o interrumpe; si hay otras empresas, se informa a todas y, si es emergencia, de inmediato. Si el empresario no adopta las medidas ante un riesgo grave e inminente, los representantes legales (o los delegados de prevención) pueden acordar la paralización | LPRL, artículo 21.1 y 21.3; RD 171/2004, artículo 4.2 y 4.3 |
 | 4. Escalar | Al servicio de prevención, que investiga si hay daño | LPRL, artículo 16.3 |
 | 5. Notificar el accidente | La empresa, en los plazos reglamentarios | LPRL, artículo 23.3; Orden de 16-12-1987 |
 | 6. Documentar | La empresa conserva la relación de accidentes con baja superior a un día | LPRL, artículo 23.1.e) |
@@ -2201,16 +2255,20 @@ tramitación»** (se cita por el texto original del BOE; la norma no tiene texto
 | --- | --- | --- |
 | Accidente con baja de al menos un día (sin contar el del accidente) | Parte de accidente a la entidad gestora o colaboradora | **Cinco días hábiles** desde el accidente o la baja |
 | Accidente sin baja | Relación mensual | **Cinco primeros días hábiles** del mes siguiente |
-| Fallecimiento, grave o muy grave, o más de cuatro trabajadores afectados | Comunicación a la autoridad laboral de la provincia donde ocurrió, además del parte | **Veinticuatro horas** |
+| Fallecimiento, grave o muy grave, o accidente en un centro de trabajo que afecte a más de cuatro trabajadores | Comunicación a la autoridad laboral de la provincia donde ocurrió, además del parte | **Veinticuatro horas** |
 
 El artículo 6.º incluye expresamente los accidentes **«por desplazamiento en jornada de trabajo»**: un
 accidente grave en el traslado a un exterior se comunica en veinticuatro horas. Y **«pertenezcan o no
 en su totalidad a la plantilla de la Empresa»**: cuentan los trabajadores de las empresas concurrentes.
 
 La Orden TAS/2926/2002, de 19 de noviembre (redacción única, vigente desde el 1 de enero de 2003),
-aprobó los modelos vigentes y el sistema **Delt@** de notificación electrónica, y precisa: **«Asimismo,
-podrá utilizarse la transmisión electrónica para la comunicación urgente de accidente de trabajo, en
-los supuestos referidos en el artículo 6.º de la Orden 16 de diciembre de 1987.»** La dirección de
+sustituyó los modelos de 1987 por los de su anexo (artículo 1) y aprobó el sistema **Delt@** de
+notificación electrónica (artículo 3), y precisa: **«Asimismo, podrá utilizarse la transmisión
+electrónica para la comunicación urgente de accidente de trabajo, en los supuestos referidos en el
+artículo 6.º de la Orden 16 de diciembre de 1987.»** Su disposición adicional primera cerró la vía del
+papel: **«Transcurrido un año desde la entrada en vigor de la presente Orden, la cumplimentación y
+transmisión de los modelos establecidos en el artículo 1.º sólo podrá efectuarse por medios
+electrónicos a través de la aplicación informática aprobada en el artículo 3.º de esta Orden.»** La dirección de
 Delt@ que da la Orden es la de 2002; la vigente no se ha comprobado. Quién tramita los partes en la
 RTVA no consta publicado; al productor le toca que la información llegue, completa y a tiempo, a quien
 los tramita (aplicación de este tema).
@@ -2220,10 +2278,11 @@ los tramita (aplicación de este tema).
 | Norma | Qué se toma |
 | --- | --- |
 | Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | Artículos 4.4.º, 14.1, 14.2 y 14.5, 15.1, 15.3 y 15.4, 16.1, 16.2 y 16.3, 18.1, 20, 21, 23, 24, 29 y 32 bis; disposición adicional primera |
+| Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención | Artículos 22 bis y 34 |
 | Real Decreto 171/2004, de 30 de enero, coordinación de actividades empresariales | Artículos 1 a 16; disposición adicional tercera |
 | Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (derogada por el Real Decreto 524/2023 con efectos de 11-07-2023; se sigue aplicando hasta que se apruebe el instrumento que la sustituya) | Artículos 2 y 4; Norma, apartados 1.5, 3.3, 3.5, 3.6.4 y 3.7; anexo I, 1.d); anexo II, 3.3, 6, 8.4 y 8.5; anexo III |
-| Real Decreto 524/2023, de 20 de junio, Norma Básica de Protección Civil | Artículo 12; disposición derogatoria única, apartados 2.d) y 3; disposición final primera |
-| Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Artículos 1.2, 1.3 y 10; disposición adicional única (Real Decreto-ley 4/2023); anexo I, apartados 10 y 12 (redacción de 2004); anexo III (redacción de 2023); anexo IV; anexo VI |
+| Real Decreto 524/2023, de 20 de junio, Norma Básica de Protección Civil | Norma Básica, artículo 12; disposición derogatoria única, apartados 2.d) y 3; disposición final primera |
+| Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Artículos 1.2, 1.3 y 10; disposición adicional única (Real Decreto-ley 4/2023); anexo I, apartados 3.1.º, 10 y 12 (redacción de 2004); anexo II, apartado 1; anexo III (redacción de 2023); anexo IV; anexo VI |
 | Real Decreto 487/1997, de 14 de abril, manipulación manual de cargas | Artículos 1.1, 2, 3, 4 y 6; anexo |
 | Real Decreto 1215/1997, de 18 de julio, equipos de trabajo | Anexo I, 1.6; anexo II, 4.1.1, 4.1.6 y 4.2.2 a 4.2.4 (redacción del Real Decreto 2177/2004) |
 | Real Decreto 614/2001, de 8 de junio, riesgo eléctrico | Artículos 1, 3, 4, 5; anexo I; anexo III.A.1 y A.6 |
@@ -2234,7 +2293,7 @@ los tramita (aplicación de este tema).
 | Real Decreto Legislativo 2/2015, Estatuto de los Trabajadores | Artículos 36, 37.3.g), 64.4.e) y 85.1 |
 | Real Decreto Legislativo 8/2015, Ley General de la Seguridad Social | Artículo 156 |
 | Orden de 16 de diciembre de 1987, notificación de accidentes de trabajo | Artículos 3.º y 6.º |
-| Orden TAS/2926/2002, de 19 de noviembre | Artículo 3 (Delt@) |
+| Orden TAS/2926/2002, de 19 de noviembre | Artículos 1 y 3 (Delt@); disposición adicional primera |
 | Ley 13/1999, de 15 de diciembre, de Espectáculos Públicos y Actividades Recreativas de Andalucía | Artículos 1.2, 1.4, 2.3, 14.c), 16.c) y 17.e) |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-12-2014) | Artículos 12.b).9, 14.f), 25 a 31, 39, 45, 50.1 y 53.2; anexo III (puesto 5331000, Productor/a) |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023) | Artículo 32.2 |
@@ -2263,8 +2322,11 @@ los tramita (aplicación de este tema).
 - *La tabla de adecuación de agentes extintores* que recoge la NTP 536 procede del reglamento de
   1993, sustituido; el reglamento de 2017 no la reproduce. Tampoco se dan las bocas de incendio
   equipadas ni el reglamento de establecimientos industriales.
-- *El alcance de la Sentencia del Tribunal Constitucional 211/2012* sobre la Orden TAS/2926/2002 y la
-  dirección vigente de Delt@: no comprobados.
+- *El alcance para Andalucía de la Sentencia del Tribunal Constitucional 211/2012*, de 14 de
+  noviembre, que estimó en parte un conflicto de competencia de la Generalitat de Cataluña y declaró
+  que los artículos 1, 2 y 3 y la disposición adicional primera de la Orden TAS/2926/2002 vulneran
+  competencias de esa comunidad en los términos de su fallo; y la dirección vigente de Delt@: no
+  comprobados.
 - *La vigencia del convenio del Ministerio del Interior con la FAPE y la ANIGP-TV* tras su plazo
   inicial, y si se contrató el seguro de zonas de riesgo del artículo 39 del convenio: no comprobados.
 - *Materias de otros temas*: la Ley 31/1995 entera, en el tema 9 del común; los derechos y
@@ -2282,11 +2344,12 @@ preceptos citados tiene una redacción con vigencia entre esas dos fechas).
 
 | Fuente | Identificador o edición | Redacción leída |
 | --- | --- | --- |
-| Ley 31/1995 | BOE-A-1995-24292, a través del tema 9 del común | Vigente a 24-09-2026 |
+| Ley 31/1995 | BOE-A-1995-24292, a través del tema 9 del común; artículo 21.3 releído en el BOE el 25-09-2026 | Vigente a 24-09-2026 (artículo 21: única, desde 10-02-1996) |
 | RD 171/2004 | BOE-A-2004-1848 | Única, vigente desde 30-04-2004 |
-| RD 393/2007 (NBA) | BOE-A-2007-6237 | Artículos, 1 redacción (2007); Norma y anexos, redacción del RD 1468/2008; nota de derogación del texto consolidado |
+| RD 39/1997, artículo 22 bis | BOE-A-1997-1853 (leído el 25-09-2026) | Única, redacción de BOE-A-2006-9379, vigente desde 29-06-2006 |
+| RD 393/2007 (NBA) | BOE-A-2007-6237 | Artículos 2 y 4 y anexos: redacción original (2007); Norma: redacción del RD 1468/2008 (BOE-A-2008-15919), desde 04-10-2008; nota de derogación del texto consolidado |
 | RD 524/2023 (Norma Básica de Protección Civil) | BOE-A-2023-14679 | Única, vigente desde 11-07-2023 |
-| RD 486/1997 | BOE-A-1997-8669 | Artículos 1 y 10, anexos IV y VI: 1997; anexo I: redacción de BOE-A-2004-19311, desde 03-12-2004; disposición adicional única y anexo III: 2023 |
+| RD 486/1997 | BOE-A-1997-8669 | Artículos 1 y 10, anexos II, IV y VI: 1997; anexo I: redacción de BOE-A-2004-19311, desde 03-12-2004; disposición adicional única y anexo III: 2023 |
 | RD 487/1997 | BOE-A-1997-8670, a través de los temas cerrados | Única (1997) |
 | RD 1215/1997 | BOE-A-1997-17824, a través de los temas cerrados | Anexos en la redacción del RD 2177/2004 |
 | RD 614/2001 | BOE-A-2001-11881 | Única, desde 21-08-2001 |

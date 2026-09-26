@@ -6,8 +6,8 @@
 | --- | --- |
 | **Bloque** | Temario específico de Productor/a · punto 4 |
 | **Sirve para** | Puesto 2.32, Productor/a (grupo B03): test de teoría específica, test de aplicación práctica y prueba práctica del puesto |
-| **Fuente** | Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`), artículos 21 a 23 y 37; Decreto Legislativo 1/2010, de 2 de marzo, texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía (`BOE-A-2010-5303`), artículos 5, 58 y 60; Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2026 (`BOE-A-2026-945`), artículo 4; Real Decreto 1514/2007, Plan General de Contabilidad (`BOE-A-2007-19884`), Marco Conceptual, principio del devengo; X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), artículo 53 y anexo III; Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023), artículos 24, 29 y 30; Contrato-Programa 2024-2026 (BOJA núm. 245, de 26/12/2023), apartado Manifiestan 10 y cláusulas cuarta y octava; Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004), apartados 4.4.3 y 4.4.4. Lo demás, oficio y doctrina de contabilidad de costes y control de gestión |
-| **Redacción que se estudia** | La vigente el 24/09/2026. Ley 18/2007, artículos 21 a 23 en su redacción original (15/01/2008); texto refundido de 2010: artículo 5, desde el 20/01/2026; artículo 58, desde el 01/01/2023; artículo 60, desde el 01/01/2021; Ley 8/2025, desde el 01/01/2026; Plan General de Contabilidad, Marco Conceptual en su única redacción |
+| **Fuente** | Ley 18/2007, de 17 de diciembre, de la RTVA (`BOE-A-2008-1185`), artículos 17, 19, 21 a 23, 35 y 37; Decreto Legislativo 1/2010, de 2 de marzo, texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía (`BOE-A-2010-5303`), artículos 5, 58, 60, 97 y 98; Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2026 (`BOE-A-2026-945`), artículo 4; Real Decreto 1514/2007, Plan General de Contabilidad (`BOE-A-2007-19884`), Marco Conceptual, principio del devengo; X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), artículo 53 y anexo III; Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28/12/2023), artículos 24, 29 y 30; Contrato-Programa 2024-2026 (BOJA núm. 245, de 26/12/2023), apartado Manifiestan 10 y cláusulas cuarta y octava; Cámara de Cuentas de Andalucía, fiscalización de la RTVA y CSRTV, ejercicio 2018 (BOJA núm. 36, de 23/02/2021); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004), apartados 4.4.3 y 4.4.4. Lo demás, oficio y doctrina de contabilidad de costes y control de gestión |
+| **Redacción que se estudia** | La vigente el 24/09/2026. Ley 18/2007, artículos 17, 19, 21 a 23, 35 y 37 en su redacción original (15/01/2008); texto refundido de 2010: artículo 5, desde el 20/01/2026; artículo 58, desde el 01/01/2023; artículo 60, desde el 01/01/2021; artículos 97 y 98, desde el 01/01/2018; Ley 8/2025, desde el 01/01/2026; Plan General de Contabilidad, Marco Conceptual en su única redacción |
 | **Extensión** | 8.000 palabras aproximadamente |
 
 <!-- /portada -->
@@ -31,7 +31,9 @@ Hacienda Pública de la Junta de Andalucía.
 
 **Qué se puede preguntar.** En teoría: qué tarea presupuestaria da la ficha al Productor/a
 («elaborar, gestionar y cerrar el presupuesto y posterior memoria») y cuál al Ayudante de
-producción; el principio de equilibrio presupuestario del artículo 21.2 de la Ley 18/2007; qué
+producción; el principio de equilibrio presupuestario del artículo 21.2 de la Ley 18/2007; quién elabora y quién aprueba los
+anteproyectos de presupuestos de la RTVA y sus filiales, y ante quién rinde cuentas de la gestión
+presupuestaria la Dirección General; qué
 presupuestos elabora cada año la RTVA (explotación, capital y programa de actuación, inversión y
 financiación); que CSRTV percibe transferencias de financiación (artículo 4 de la Ley 8/2025) y
 antes de qué fecha se remiten los presupuestos de explotación y capital a Hacienda (1 de agosto);
@@ -185,6 +187,21 @@ Financiación (artículo 23):
   sus otros ingresos distintos de las compensaciones**», y en esos costes se incluyen los de la
   RTVA derivados de la prestación del servicio por sus filiales (23.3).
 
+Quién elabora y quién aprueba los anteproyectos de presupuestos del grupo (artículos 17 y 19):
+
+- Los elabora la persona titular de la Dirección General de la RTVA, a quien corresponde
+  «**Elaborar y someter a la aprobación del Consejo de Administración**» el plan de actividades,
+  el plan de actuación de las filiales, la memoria anual «**y los anteproyectos de presupuestos de
+  la RTVA y de sus sociedades filiales**» (19.2.b).
+- Los aprueba el Consejo de Administración: le corresponde «**Aprobar los anteproyectos de
+  presupuestos de la RTVA y de sus sociedades filiales**» (17.1.f), por mayoría absoluta de sus
+  miembros (17.2). Si no se alcanza, «**los anteproyectos de presupuestos se remitirán, en la forma
+  prevista en la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, haciendo
+  constar el sentido del voto de cada uno de los miembros del Consejo de Administración**» (17.2).
+  Es una competencia que el Consejo no puede delegar en la Dirección General (19.3).
+- Durante el ejercicio, el Consejo ha de «**Ser informado periódicamente de la gestión
+  presupuestaria**» (17.1.k).
+
 El Contrato-Programa (apartado Manifiestan, punto 10) resume los principios con que se gestiona
 ese dinero: la gestión económico-financiera «**se ejecuta bajo los principios de eficiencia,
 transparencia, estabilidad presupuestaria y sostenibilidad financiera, correspondiendo a cada
@@ -316,7 +333,8 @@ La ficha pide presupuestar «**tanto si se realiza con medios propios como ajeno
 práctica:
 
 - Con medios propios (producción propia interna, «**realizada con recursos económicos, técnicos y
-  humanos de los medios de Canal Sur**», Carta 24.2.a), la mayor parte del coste ya existe —
+  humanos de los medios de Canal Sur y sobre la que se poseen derechos de explotación**», Carta
+  24.2.a), la mayor parte del coste ya existe —
   plantilla, estudios, unidades móviles— y lo que hace el presupuesto es valorar cuánto de esos
   recursos consume el programa y añadir lo que hay que comprar fuera. La valoración de lo propio
   es imputación de costes (véase más abajo).
@@ -401,7 +419,9 @@ los Servicios Informativos):
 - El coste, siempre a la vista (4.4.4, punto 5): «**El coste ha de contemplarse siempre. Es
   aceptable que un editor reclame lo mejor sin pensar en ello, pero el productor está obligado a
   gestionar los recursos adecuadamente, con un coste equilibrado, sin que se resienta la calidad
-  de la información.**»
+  de la información. Junto con el editor y el realizador debe acordar los términos en los que
+  converjan la información correcta, según parámetros técnicos y periodísticos, bien colocada en
+  escaleta y a un precio asumible.**»
 
 Son reglas escritas para informativos en 2004; no consta una norma interna posterior publicada que
 las sustituya ni que las extienda a los programas.
@@ -468,11 +488,17 @@ presupuesto porque la previsión era mala, o aceptarla por venir de una causa ex
 Cuando la desviación altera las cifras de la empresa, la revisión deja de ser una decisión del
 programa. A CSRTV se le aplica el artículo 60.2 del texto refundido: si varían las transferencias
 o los importes globales de sus presupuestos de explotación y de capital, hay que modificarlos con
-aprobación de sus órganos directores y comunicación a Hacienda. Y en el Contrato-Programa, la
-Comisión Mixta de Seguimiento y Control puede proponer ajustes de los compromisos económicos, que
-se entienden no significativos cuando no superan «**un dos por ciento del volumen total de la
-cuantificación económica que implica los compromisos que asumen la RTVA y Canal Sur en la cláusula
-Tercera**» (cláusula octava, punto 3).
+aprobación de sus órganos directores y comunicación a Hacienda. Y en el Contrato-Programa (cláusula octava, punto 3), la
+Comisión Mixta de Seguimiento y Control puede proponer la modificación del propio Contrato-Programa,
+entre otros supuestos, para adaptar o actualizar «**los valores objetivos tomados como referencia
+en la determinación de los compromisos de la RTVA y de Canal Sur fijados en las cláusulas Tercera,
+Cuarta y Quinta**» con ajustes que no supongan cambios significativos; no lo son cuando no superan, en incremento o
+decremento, «**un dos por ciento del volumen total de la cuantificación económica que implica los compromisos
+que asumen la RTVA y Canal Sur en la cláusula Tercera**». También puede proponerla cuando
+circunstancias económico-financieras sobrevenidas o necesidades de equilibrio puedan implicar
+«**una variación inferior a un cinco por ciento en las cantidades a transferir**»; si la variación
+es un decremento no motivado por necesidades de equilibrio por una cuantía «**igual o superior a un cinco por
+ciento se procederá a la resolución del presente Contrato-Programa**», y se suscribe uno nuevo.
 
 ### Lo que la Cámara dijo del control de desviaciones
 
@@ -633,9 +659,9 @@ de la estructura de Canal Sur directamente como resultados.**»
 Leído con la doctrina anterior:
 
 - El objeto de coste es el producto, sobre todo el programa.
-- Se imputan fijos y variables: es un coste completo, no un *direct costing*.
-- Parte de la estructura no se imputa: va «**directamente como resultados**», como los centros de
-  estructura de la doctrina.
+- Se imputan fijos y variables: no es un *direct costing*, sino un sistema de coste completo.
+- Pero no es un coste completo puro: parte de la estructura no se imputa y va «**directamente
+  como resultados**», como los centros de estructura de la doctrina.
 
 Qué entra en los costes (punto 3): «**todos aquellos gastos en que pueda incurrir la RTVA y Canal
 Sur, y siendo los costes tales como los destinados a la contratación de recursos humanos, a la
@@ -857,8 +883,18 @@ Lo que el cierre del programa alimenta:
 - La rendición de cuentas: «**Conforme a lo dispuesto en el artículo 87 de la Ley General de la
   Hacienda Pública de la Comunidad Autónoma de Andalucía, la RTVA y sus sociedades filiales
   rendirán cuentas de sus operaciones al Parlamento de Andalucía, al Tribunal de Cuentas y a la
-  Cámara de Cuentas de Andalucía.**» (artículo 37). La remisión al artículo 87 está desfasada: la
-  obligación figura hoy en el artículo 98.1 del texto refundido, según el temario común.
+  Cámara de Cuentas de Andalucía.**» (artículo 37). La remisión al artículo 87 está desfasada (se hizo a la Ley 5/1983, y las remisiones a
+  ella se entienden hechas a los preceptos correspondientes del texto refundido, según su disposición
+  adicional única; el artículo 87 del texto refundido trata hoy del deber de colaboración): el
+  texto refundido somete hoy a «**las sociedades mercantiles del sector público andaluz**» al
+  régimen de contabilidad pública (artículo 97.1), y esa sujeción «**comporta la obligación de
+  rendir cuentas de las respectivas operaciones, cualquiera que sea su naturaleza, al Parlamento de
+  Andalucía, al Tribunal de Cuentas y a la Cámara de Cuentas de Andalucía, por conducto de la
+  Intervención General de la Junta de Andalucía**» (artículo 98.1).
+- Las cuentas anuales las aprueba la persona titular de la Dirección General, que informa de
+  ellas al Consejo de Administración (artículo 19.2.m de la Ley 18/2007), y ella misma «**rendirá
+  cuentas de la gestión presupuestaria ante la referida Comisión parlamentaria**» (artículo 35.2),
+  la Comisión del Parlamento de Andalucía que ejerce el control de la RTVA y sus filiales (35.1).
 - El informe de estabilidad: «**anualmente antes de cada día 1 de abril se presenta ante la
   Dirección General de Comunicación Social de la Consejería competente en materia audiovisual de
   la Junta de Andalucía el informe sobre la gestión del ejercicio inmediato anterior de la RTVA y
@@ -878,8 +914,8 @@ situación de las operaciones de inversión.**»
 
 | Norma | Identificador | Preceptos y redacción |
 | --- | --- | --- |
-| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | `BOE-A-2008-1185` | Arts. 19.2.c, 21, 22, 23 y 37, vigentes el 24/09/2026 (21 a 23, redacción original) |
-| Decreto Legislativo 1/2010, de 2 de marzo, texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía | `BOE-A-2010-5303` | Art. 5.1 (redacción desde 20/01/2026); art. 98.1 (desde 01/01/2018); art. 58 (redacción desde 01/01/2023); art. 60 (desde 01/01/2021) |
+| Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA | `BOE-A-2008-1185` | Arts. 17.1.f y k y 17.2; 19.2.b, c y m y 19.3; 21, 22, 23; 35 y 37, vigentes el 24/09/2026 (todos en su redacción original) |
+| Decreto Legislativo 1/2010, de 2 de marzo, texto refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía | `BOE-A-2010-5303` | Art. 5.1 (redacción desde 20/01/2026); arts. 97.1 y 98.1 (desde 01/01/2018); art. 58 (redacción desde 01/01/2023); art. 60 (desde 01/01/2021) |
 | Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 2026 | `BOE-A-2026-945` | Art. 4 |
 | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad | `BOE-A-2007-19884` | Marco Conceptual, apartado 3.º, principio del devengo (una sola redacción) |
 | X Convenio Colectivo de la RTVA | BOJA núm. 240, de 10/12/2014 | Art. 53; anexo III, fichas de Productor/a y Ayudante de producción |
@@ -906,8 +942,8 @@ situación de las operaciones de inversión.**»
 
 | Fuente | Qué sostiene | Leída |
 | --- | --- | --- |
-| Ley 18/2007 (`BOE-A-2008-1185`), volcado del BOE; arts. 21 a 23 tomados literales del tema 5 del común; arts. 19.2.c y 37 leídos en el volcado | Régimen presupuestario, equilibrio, presupuestos de explotación y capital, auditoría, coste neto, rendición de cuentas | 24/09/2026 (volcado); 25/09/2026 (relectura de arts. 21 a 23) |
-| Texto refundido LGHP Andalucía (`BOE-A-2010-5303`), volcado del BOE | Arts. 5.1, 58 y 60 | 25/09/2026 |
+| Ley 18/2007 (`BOE-A-2008-1185`), volcado del BOE; arts. 21 a 23 tomados literales del tema 5 del común; arts. 17, 19, 35 y 37 leídos en el volcado | Quién elabora y aprueba el anteproyecto de presupuestos; régimen presupuestario, equilibrio, presupuestos de explotación y capital, auditoría, coste neto, rendición de cuentas | 24/09/2026 (volcado); 25/09/2026 (relectura de arts. 17, 19, 21 a 23, 35 y 37) |
+| Texto refundido LGHP Andalucía (`BOE-A-2010-5303`), volcado del BOE | Arts. 5.1, 58, 60, 97.1 y 98.1 | 25/09/2026 |
 | Ley 8/2025 (`BOE-A-2026-945`), volcado del BOE | Art. 4: CSRTV percibe transferencias de financiación | 25/09/2026 |
 | PGC (`BOE-A-2007-19884`), leído con la API del BOE, redacción vigente | Principio del devengo | 25/09/2026 |
 | X Convenio de la RTVA, BOJA núm. 240, de 10/12/2014 | Fichas de Productor/a (p. 194) y Ayudante de producción (p. 110); art. 53 | 25/09/2026 |

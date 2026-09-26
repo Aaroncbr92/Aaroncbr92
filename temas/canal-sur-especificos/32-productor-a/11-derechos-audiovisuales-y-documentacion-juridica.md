@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Productor/a · punto 11 |
 | Sirve para | Puesto 2.32, Productor/a (grupo B03): test de teoría específica, test de aplicación práctica y prueba práctica del puesto |
-| Fuente | Texto refundido de la Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996, de 12 de abril); Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto (artículos 74 y 75); Ley Orgánica 1/1982; Ley Orgánica 1/1996, artículo 4; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 6; Real Decreto 1435/1985, de 1 de agosto, artículos 1 y 2; Reglamento (UE) 2016/679, artículo 4; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía, artículos 20, 31.1 y 66.3; Ley 18/2007, de la RTVA, artículo 4.1; Carta del Servicio Público de la RTVA 2024-2029, artículos 8.1, 17.1, 24 y 27; Contrato-programa 2024-2026, puntos 111 y 120 a 122; X Convenio Colectivo de la RTVA, anexo III; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004); Resolución de 8 de septiembre de 2020 (autorización de SEDA) |
-| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026. Del texto refundido, los artículos 47, 48 bis y 110 en la redacción del RDL 24/2021, vigente desde el 04-11-2021; el 90, desde el 28-07-2006; los demás citados de nuevo en este tema (42 a 46, 48 a 50, 57, 88, 89, 91 y 94), en su redacción original de 1996. Del Real Decreto 1435/1985, el artículo 1 en la redacción vigente desde el 31-03-2022 y el 2 en la original. Carta, Contrato-programa y convenio en su texto publicado; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 18.700 palabras aproximadamente |
+| Fuente | Texto refundido de la Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996, de 12 de abril); Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto (artículos 74 y 75); Ley Orgánica 1/1982; Ley Orgánica 1/1996, artículo 4; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 6; Real Decreto 1435/1985, de 1 de agosto, artículos 1 a 3; Reglamento (UE) 2016/679, artículo 4; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía, artículos 20, 31.1 y 66.3; Ley 18/2007, de la RTVA, artículo 4.1; Carta del Servicio Público de la RTVA 2024-2029, artículos 8.1, 17.1, 24 y 27; Contrato-programa 2024-2026, puntos 111 y 120 a 122; X Convenio Colectivo de la RTVA, anexo III; Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004); Resolución de 8 de septiembre de 2020 (autorización de SEDA) |
+| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026. Del texto refundido, los artículos 47, 48 bis y 110 en la redacción del RDL 24/2021, vigente desde el 04-11-2021; el 90, el 107 y el 108, desde el 28-07-2006; los demás citados de nuevo en este tema (42 a 46, 48 a 50, 57, 88, 89, 91, 94 y 106), en su redacción original de 1996. Del Real Decreto 1435/1985, los artículos 1 y 3 en la redacción vigente desde el 31-03-2022 y el 2 en la original. Carta, Contrato-programa y convenio en su texto publicado; Libro de estilo, 1.ª ed., 2004 |
+| Extensión | 19.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -343,6 +343,23 @@ reproducción, según la definición establecida en el artículo 18, de las fija
 licenciarse (107.3 y 115, segundo párrafo). La remuneración equitativa y única (más abajo, «Remuneraciones que
 genera la emisión») paga la comunicación pública del disco comercial; no sustituye la autorización para reproducirlo.
 
+Cuando lo que se graba no es un disco sino la actuación misma (un grupo que toca en el plató), entran
+otros dos derechos del artista. Artículo 106: «**1. Corresponde al artista intérprete o ejecutante el
+derecho exclusivo de autorizar la fijación de sus actuaciones. 2. Dicha autorización deberá otorgarse
+por escrito.**» Artículo 108.1: «**Corresponde al artista intérprete o ejecutante el derecho exclusivo
+de autorizar la comunicación pública: a) De sus actuaciones, salvo cuando dicha actuación constituya en
+sí una actuación transmitida por radiodifusión o se realice a partir de una fijación previamente
+autorizada. b) En cualquier caso, de las fijaciones de sus actuaciones, mediante la puesta a
+disposición del público, en la forma establecida en el artículo 20.2.i). En ambos casos, la
+autorización deberá otorgarse por escrito.**» Subir la actuación grabada a la plataforma a petición es
+esa puesta a disposición. Si el artista contrata con el productor de la grabación, el artículo 108.2
+presume la transferencia: «**Cuando el artista intérprete o ejecutante celebre individual o
+colectivamente con un productor de fonogramas o de grabaciones audiovisuales contratos relativos a la
+producción de éstos, se presumirá que, salvo pacto en contrario en el contrato y a salvo del derecho
+irrenunciable a la remuneración equitativa a que se refiere el apartado siguiente, ha transferido su
+derecho de puesta a disposición del público a que se refiere el apartado 1.b).**» Esa remuneración
+irrenunciable es la del 108.3 («Remuneraciones que genera la emisión»).
+
 ### Música creada para la obra y música preexistente
 
 El artículo 87.3 sólo hace autores de la obra audiovisual a «**Los autores de las composiciones
@@ -449,13 +466,14 @@ cláusula de penalización**» para el usuario que no remita esa información en
 
 ### La música en el expediente de producción
 
-Aplicado a quien produce, lo anterior se traduce en cuatro situaciones, cada una con su papel:
+Aplicado a quien produce, lo anterior se traduce en cinco situaciones, cada una con su papel:
 
 | Situación | Qué pide la ley | Artículos |
 |---|---|---|
 | Música de repertorio (discos comerciales, catálogos gestionados por una entidad) | Autorización no exclusiva de la entidad, salvo el uso singular que requiera autorización individualizada del titular; salvo acuerdo contrario, informar del uso en los noventa días siguientes | 163.1, 166 y 167.1 |
 | Música compuesta por encargo para el programa | Su compositor es coautor de la obra audiovisual; la cesión al productor se presume (88.1), pero la remuneración se fija para cada modalidad de explotación (90.1) y la de la transmisión al público es irrenunciable y se cobra por la entidad de gestión (90.4, 90.6 y 90.7); salvo pacto, el compositor puede explotar su música aislada (88.2) | 87.3, 88, 90 |
 | Músicos o cantantes contratados para actuar | Salvo estipulación en contrario, el empresario adquiere los derechos exclusivos de autorizar la reproducción y la comunicación pública que se deduzcan de la naturaleza y objeto del contrato; no los de remuneración del 108.3, 4 y 5 | 110.1 y 110.2 |
+| Artistas que actúan en el programa (en directo o grabados) | Autorización escrita de cada artista para fijar la actuación (106), reproducir la fijación (107) y comunicarla al público, en directo (salvo que la actuación sea ya una actuación transmitida por radiodifusión o se haga a partir de una fijación previamente autorizada) o poniéndola a disposición en la plataforma (108.1); si contrata con el productor de la grabación, se presume transferida, salvo pacto, la puesta a disposición, a salvo de la remuneración equitativa (108.2 y 108.3); si está contratado por la casa, rige además la fila anterior | 106, 107 y 108.1 a 108.3 |
 | Grabación comercial concreta usada en la pieza | Autorización de reproducción del productor del fonograma y de los artistas (la de éstos, por escrito); la remuneración equitativa y única paga la comunicación pública, no la reproducción | 107, 115, 108.4 y 116.2 |
 
 El registro de la música usada por programa (el término «hoja de músicas» o similar es del oficio,
@@ -1262,7 +1280,7 @@ tema no desarrolla.
 |---|---|---|
 | Consentimiento para el uso de su imagen | El propio menor si su madurez lo permite; si no, su representante legal, con comunicación previa al Ministerio Fiscal | Escrito, cuando lo da el representante (LO 1/1982, art. 3) |
 | Autorización para trabajar siendo menor de dieciséis años | La autoridad laboral, a solicitud de los representantes legales | Escrito y para actos determinados (ET 6.4; RD 1435/1985, 2.Uno) |
-| Cesión de sus derechos de autor | Por sí mismo, sólo el menor de 16 a 18 años que vive de forma independiente con consentimiento de sus padres o tutores; en los demás casos, según la legislación civil | Escrito, como toda cesión (TRLPI, arts. 44 y 45) |
+| Cesión de sus derechos de autor | Por sí mismo, el menor de 16 a 18 años que vive de forma independiente con consentimiento de sus padres o tutores; en los demás casos, según la legislación civil | Escrito, como toda cesión (TRLPI, arts. 44 y 45) |
 
 Y, por encima de los tres, lo que ningún papel salva: la prohibición de identificarlo en los supuestos
 del artículo 95.2 de la LGCA y la intromisión del artículo 4.3 de la LO 1/1996.
@@ -1437,7 +1455,7 @@ documentos (contrato de cesión, autorización o «release», licencia, hoja de 
 |---|---|---|---|
 | Contrato con los autores de la obra audiovisual (dirección-realización, guion, música original) | Cada autor | Escrito; la cesión al productor de reproducción, distribución, comunicación pública, doblaje y subtitulado se presume por el contrato de producción; remuneración fijada por modalidad; en obra cinematográfica, autorización expresa para radiodifundirla | TRLPI 45, 87, 88, 90.1 |
 | Cesión o licencia de una obra preexistente | Su autor o el titular de los derechos | Escrito; derechos, modalidades, tiempo y territorio expresos (si no, cinco años y el país de la cesión); en el contrato de transformación, presunción de cesión en los términos del 88 | TRLPI 43, 45, 57, 89 |
-| Contrato de artistas (actores, músicos, presentadores externos) | El artista | Salvo pacto, el empresario adquiere los derechos de reproducción y comunicación pública que se deduzcan del contrato; la autorización de reproducción, por escrito | TRLPI 107.2, 110 |
+| Contrato de artistas (actores, músicos, presentadores externos) | El artista | Por escrito la autorización de fijación, la de reproducción y la de comunicación pública; salvo pacto, el empresario adquiere los derechos de reproducción y comunicación pública que se deduzcan del contrato, y el productor de la grabación, la puesta a disposición; si es contrato de trabajo de la relación especial de artistas, por escrito, cualquiera que sea su modalidad y duración | TRLPI 106.2, 107.2, 108.1 y 108.2, 110; RD 1435/1985, 3.Uno |
 | Autorización de imagen | La persona que aparece | Consentimiento expreso, revocable con indemnización | LO 1/1982, 2.2 y 2.3 |
 | Autorización de imagen de un menor | El menor maduro o, por escrito, su representante legal | Si consiente el representante, comunicación previa al Ministerio Fiscal; ni una ni otra salvan lo que perjudique su honra o intereses | LO 1/1982, 3; LO 1/1996, 4.3 |
 | Autorización para que actúe un menor de dieciséis años | La autoridad laboral | Excepcional, por escrito y para actos determinados | ET 6.4; RD 1435/1985, 2.Uno |
@@ -1481,13 +1499,13 @@ tema 12.
 
 | Norma | Qué se usa |
 |---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41 a 51, 57, 86 a 94, 105, 107, 108, 110, 112, 114 a 116, 119 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
+| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41 a 51, 57, 86 a 94, 105 a 108, 110, 112, 114 a 116, 119 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
 | Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto | Artículos 70, 74 y 75; rúbricas del título II y de los artículos 67 a 69 |
 | Constitución Española | Artículos 20.4 y 53.2 (y el 71, en la noticia de la STC 9/1990) |
 | Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | Artículos 1.3, 2, 3, 4, 5.1, 7, 8 y 9 |
 | Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor | Artículo 4.2 y 4.3 |
 | Texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre | Artículo 6 |
-| Real Decreto 1435/1985, de 1 de agosto | Artículos 1 y 2 |
+| Real Decreto 1435/1985, de 1 de agosto | Artículos 1 a 3 |
 | Reglamento (UE) 2016/679 | Artículos 4.1, 4.2, 8, 17.3 y 85 |
 | Ley Orgánica 3/2018, de 5 de diciembre | Artículo 7 (sólo remisión) |
 | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | Artículos 4.3, 83, 95, 96, 155.4, 155.5, 157.9 y 157.10 |
@@ -1533,10 +1551,12 @@ tema 12.
 
 | Fuente | Identificador | Leída |
 |---|---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, artículos 42 a 50, 57, 88 a 91, 94 y 110 | BOE-A-1996-8930 (47 y 110, redacción vigente desde 04-11-2021, BOE-A-2021-17910; 48 bis, introducido con esa vigencia; 90, vigente desde 28-07-2006, BOE-A-2006-12308; los demás, redacción original, vigente desde 23-04-1996) | 25-09-2026 |
+| Texto refundido de la Ley de Propiedad Intelectual, artículos 9.1, 21.2, 36.3, 41 a 50, 57, 87 a 91, 94, 106 a 108, 110, 115, 116, 163, 166 y 167 | BOE-A-1996-8930 (47 y 110, redacción vigente desde 04-11-2021, BOE-A-2021-17910; 48 bis, introducido con esa vigencia; 90, 107, 108, 115 y 116, vigentes desde 28-07-2006, BOE-A-2006-12308; 21, desde 01-04-1998, BOE-A-1998-5568; 163, 166 y 167, desde 03-03-2019, BOE-A-2019-2974; los demás, redacción original, vigente desde 23-04-1996) | 25-09-2026 |
 | RDL 24/2021, artículos 74 y 75 | BOE-A-2021-17910 (una redacción cada uno, vigente desde 04-11-2021) | 25-09-2026 |
 | Texto refundido de la Ley del Estatuto de los Trabajadores, artículo 6 | BOE-A-2015-11430 (una redacción, vigente desde 13-11-2015) | 25-09-2026 |
-| Real Decreto 1435/1985, artículos 1 y 2 | BOE-A-1985-17303 (art. 1, redacción vigente desde 31-03-2022, BOE-A-2022-4583; art. 2, original, vigente desde 01-01-1986) | 25-09-2026 |
+| Real Decreto 1435/1985, artículos 1 a 3 | BOE-A-1985-17303 (arts. 1 y 3, redacción vigente desde 31-03-2022, BOE-A-2022-4583; art. 2, original, vigente desde 01-01-1986) | 25-09-2026 |
+| Ley Orgánica 1/1982, artículos 2, 3, 7.6 y 8 | BOE-A-1982-11196 (art. 2, redacción vigente desde 15-02-1990, BOE-A-1990-3964; art. 7, desde 23-12-2010, BOE-A-2010-9953; arts. 3 y 8, redacción original, vigente desde 03-06-1982) | 25-09-2026 |
+| Carta del Servicio Público de la RTVA 2024-2029, artículo 27.2 | BOJA núm. 247, de 28-12-2023 | 25-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029, artículo 24 | BOJA núm. 247, de 28-12-2023 | 25-09-2026 |
 | Contrato-programa 2024-2026, punto 111 | BOJA núm. 245, de 26-12-2023 | 25-09-2026 |
 | X Convenio Colectivo de la RTVA, anexo III, puesto 5331000 | BOJA núm. 240, de 10-12-2014, p. 194 | 25-09-2026 |
