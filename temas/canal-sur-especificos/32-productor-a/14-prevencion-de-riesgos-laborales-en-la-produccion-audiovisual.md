@@ -681,7 +681,7 @@ necesarios** en esas actividades o procesos **y cuenten con la formación preven
 correspondiente, como mínimo, a las funciones del nivel básico.** Esos trabajadores **deberán
 mantener la necesaria colaboración con los recursos preventivos del empresario**.
 
-*La lista reglamentaria.* La letra b) remite al artículo 22 bis.1.b) del RD 39/1997 (redacción única,
+*La lista reglamentaria.* La letra b) del 32 bis.1 remite al artículo 22 bis.1.b) del RD 39/1997 (redacción única,
 vigente desde el 29 de junio de 2006), que enumera las **«actividades o procesos peligrosos o
 con riesgos especiales»**:
 
@@ -1005,12 +1005,13 @@ revisión) está en «Emergencias».
 *Los espectáculos públicos en Andalucía.* La Ley 13/1999, de 15 de diciembre, de Espectáculos
 Públicos y Actividades Recreativas de Andalucía, define en su artículo 1.2: **«se entiende por
 espectáculo público toda función o distracción que se ofrezca públicamente para la diversión o
-contemplación intelectual y que se dirija a atraer la atención de los espectadores.»** Excluye (1.4)
+contemplación intelectual y que se dirija a atraer la atención de los espectadores.»** Excluye (1.4),
+sin perjuicio de las normas de orden público y de seguridad ciudadana,
 **«las celebraciones de carácter estrictamente privado o familiar, así como las que supongan el
 ejercicio de derechos fundamentales en el ámbito laboral, político, religioso, sindical o docente»**,
 aunque **«los recintos, locales, establecimientos o instalaciones donde se realicen estas actividades
 deberán reunir las condiciones de seguridad exigidas en esta ley y en las normas que la desarrollen»**:
-una manifestación o una concentración sindical que se cubre queda, pues, fuera de esta ley. La ley no nombra la televisión
+una manifestación o una concentración sindical que se cubre queda, pues, fuera del ámbito de esta ley, salvo esas condiciones del recinto. La ley no nombra la televisión
 ni las grabaciones con público, y ninguna fuente leída dice que la grabación de un programa con
 público sea «espectáculo público»: si el acto lo es (un concierto o una gala abiertos al público, por
 ejemplo), rigen, entre otras, estas reglas:
