@@ -1,0 +1,382 @@
+
+ European AI Office releases Code of Practice on Transparency of AI-Generated Content - IPTC
+Skip to main content
+Menu
+Our work
+Media Provenance
+Artificial Intelligence and Machine Learning for the media
+Metadata for Accessibility and Diversity
+Trust and Credibility in the Media
+Knowledge Graphs and the Semantic Web for Media
+Future Technologies for Media
+Standards
+Photo Metadata
+About IPTC Photo Metadata
+What is Photo Metadata?
+What is the IPTC Photo Metadata Standard?
+Google Images and IPTC: Frequently Asked Questions
+Social Media Sites Photo Metadata Test Results 2019
+Specifications & Guides
+IPTC Photo Metadata User Guide
+Photo Metadata Standard specification
+Quick guide to IPTC Photo Metadata on Google Images
+Photo Metadata Mapping Guidelines
+Developers guide to IPTC Photo Metadata
+Photo Metadata Tools
+Software that supports IPTC Photo Metadata
+IPTC Photo Metadata Viewer
+Browser extensions
+Photo Metadata Reference Images
+IPTC Photo Metadata Interoperability Tests
+Video Metadata
+About Video Metadata
+What is IPTC Video Metadata Hub?
+Specifications & Guides
+Video Metadata Hub User Guide
+The Video Metadata Hub Recommendation
+VIdeo Metadata Hub properties
+Video Metadata Hub mappings
+Video Metadata Tools
+VMHub Generator
+Vocabularies
+About IPTC NewsCodes
+What are IPTC NewsCodes?
+Groups of NewsCodes
+Media Topics – IPTC’s subject vocabulary
+Who uses NewsCodes?
+Specifications & Guides
+IPTC NewsCodes Guidelines
+CV Server Guidelines
+NewsCodes Tools
+MediaTopic tree view
+NewsCodes CV Server
+News formats
+NewsML-G2
+About NewsML-G2
+What is NewsML-G2?
+Who’s using NewsML-G2?
+Using NewsML-G2
+Specifications & Guides
+NewsML-G2 Specification
+NewsML-G2 Guidelines
+Expressing Trust and Credibility Information in IPTC Standards
+NewsML-G2 Tools
+NewsML-G2 Generator
+Software Libraries
+ninjs – News in JSON
+About ninjs (News in JSON)
+What is ninjs?
+Specifications & Guides
+ninjs User Guide
+ninjs Specifications
+ninjs GitHub repository
+ninjs Tools
+ninjs Generator
+GraphQL demonstrator
+XSLT converters
+News Architecture
+About IPTC News Architecture
+What is the IPTC News Architecture?
+Who’s Using It?
+NITF
+About NITF
+What is NITF?
+Who’s Using NITF?
+Using NITF
+Specifications & Guides
+NITF Specification
+NITF Guidelines
+rNews
+About rNews
+What is rNews?
+Who’s Using rNews?
+Older IPTC standards
+IIM
+What is IIM?
+Who’s using it?
+IIM Specifications
+IPTC7901
+What is IPTC 7901?
+Who’s Using It?
+IPTC7901 Specification
+NewsML 1
+What is NewsML 1?
+NewsML 1 Specification
+Documentation
+Support
+Sports
+IPTC Sport Schema
+Introduction to IPTC Sport Schema
+Working with IPTC Sport Schema
+Sport Schema Ontology Reference
+Use Cases
+Schema overview
+SportsML
+What is SportsML?
+Using SportsML
+Who’s using SportsML?
+SportsML-G2 Guidelines
+Rights
+RightsML
+What is RightsML?
+RightsML Specification
+RightsML Implementation Guide
+RightsML Tools
+RightsML Generator
+Latest
+Recent news:
+IBC paper on provenance in media workflows released28 September 2026
+Media Provenance accelerates in Bergen at the Media Provenance Summit23 September 2026
+Media Provenance Summit Bergen: agenda announced16 September 2026
+Trust, Story Objects and Agentic Production: IPTC at IBC 202614 September 2026
+Watching AI platforms, news publishers and real-world C2PA – IPTC Photo Metadata Conference 2026 videos are now available8 September 2026
+All News
+Events
+Member Meetings
+Autumn Meeting 2026
+Media Provenance Summit Tokyo 2026
+Media Provenance Summit Bergen 2026
+Media Provenance Summit Toronto 2026
+Spring Meeting 2026
+IPTC Photo Metadata Conference
+Photo Metadata Conference 2026
+Photo Metadata Conference 2025
+Photo Metadata Conference 2024
+Photo Metadata Conference 2022
+All Photo Metadata Conferences
+Webinars
+Public Webinars
+About IPTC
+About IPTC
+About IPTC
+Working Groups
+Frequently Asked Questions
+Liaison Partners
+IPTC Membership
+Current Members
+Member Benefits
+Become a Member
+Get in touch
+Contact Us
+IPTC Newsletters
+For Members
+Member Login
+Members Only
+ Search
+ Search
+Categories
+Announcements
+Blog
+Industry News
+Meetings
+Standards Updates
+Uncategorized
+Webinars
+Archives
+September 2026
+August 2026
+July 2026
+June 2026
+May 2026
+April 2026
+March 2026
+February 2026
+January 2026
+December 2025
+November 2025
+October 2025
+September 2025
+August 2025
+July 2025
+June 2025
+May 2025
+April 2025
+March 2025
+February 2025
+All news posts
+ Jun 10 
+ 2026
+ European AI Office releases Code of Practice on Transparency of AI-Generated Content 
+Capture of AI icons as presented in the European AI Office’s Code of Practice on 10 June 2026.Today (10 June 2026), the European AI Office released the “Code of Practice on Transparency of AI-Generated Content”. It includes guidance for how AI providers should add metadata to declare AI-generated content.
+Measure 1.1: Machine-readable marking techniques
+The guidance suggests that AI providers use two mechanisms for adding metadata: Digitally-signed metadata (sub-measure 1.1.1) and Imperceptible watermarking (sub-measure 1.1.2). An optional mechanism (sub-measure 1.1.3) is fingerprinting or logging, which requires a registry database.
+Digitally-signed metadata is described as follows:
+Signatories will record information in the metadata on whether the content is AI-generated or manipulated. All recorded information will be digitally signed and time-stamped (on systems where time information is available) in a secure and tamper-evident manner.
+While it is not named specifically, the only technology that meets these criteria is C2PA.
+The guidance also adds:
+Signatories are encouraged to implement richer metadata in accordance with Measure 1.3., without including privacy-sensitive or business-sensitive information. In cases where such information is strictly necessary or inserted upon request of an end-user, it will be compliant with applicable EU data protection law and is encouraged to be placed in a metadata placeholder separate from the AI transparency metadata.
+We interpret this to mean that the EU AI Office encourages the use of CAWG cawg.metadata assertions in C2PA manifests for conveying rich metadata about content, in the case where publishers choose to add it.
+Measure 1.2: Non-removal of markings
+The Code of Practice states:
+Signatories will, to the extent technically feasible and recognisable as per open standards, retain, and abstain from intentionally altering or removing, existing metadata markings, where such content is used as input and subsequently transformed by their AI system into an output
+In addition, the Code requires Signatories to add terms and conditions to prohibit users of AI systems from intentionally stripping metadata from AI-generated content.
+Measure 1.3: Transparency of the provenance information (optional)
+This measure encourages Signatories to incorporate richer information in signed metadata “to provide additional context and thereby contribute to increased integrity and trust in the information ecosystem”. In particular, “Signatories are encouraged to consider relevant standards to provide further information about the origin of AI-generated or manipulated content across workflows, where technically feasible.” Again, we interpret this to refers to C2PA and CAWG metadata.
+Commitment 2: Detecting and conveying AI-generated markings at publish time
+Commitment 2 described in section 1 of the The Code of Practice covers how signatories will make available a detection system so members of the public can check whether content is generated by their AI system based on the above marking techniques. This can take the form of either a public standard or specification that can be implemented by third parties, or software, or a cloud-based service accessible via an API, free of charge to users.
+This will mean that third-party validators can build automated tools to check to see whether media is AI-generated even if C2PA or IPTC metadata has been stripped from the image. Today, fact checkers and researchers must manually upload images to each AI providers system to check whether it was created by that system.
+Measure 2.3 covers “clear and accessible disclosure of detection results,” including the guidance “Where additional information is available in the watermark or in the metadata, Signatories will incorporate such information into the detection results.” This could be interpreted to mean that metadata supplied by publishers should be made available to users in AI-detection information.
+Work towards “effective, reliable, robust and interoperable” mechanisms
+The EU AI Act specifies that solutions should be “effective, reliable, robust and interoperable.” However, the reality is that no technical solution currently meets all four of those criteria. So Measure 3 describes how Signatories to the Code of Practice can work towards this goal.
+In particular, the mechanisms to detect watermarks mentioned above will currently require validators to check each system in turn. The Code requires providers to “implement an interoperability solution for their detection mechanisms by 2 February 2027” using a “publicly available interoperable industry standard” to route detection queries, or a “publicly readable signpost or other interoperable mechainsm in the AI-generated or manipulated content that will signal to the public which detection solution to use without having to run all the detection solutions of providers of AI systems.”
+Section 2: Labelling deep fakes and AI-generated and manipulated published text
+Section 2 of the Code of Practice is for “deployers” of AI systems (which is not defined in the Code of Practice, but the AI Act defines “deployer” as “a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity,” i.e. any business or organisation using a generative AI system.
+Code of Practice signatories commit to visually disclose the existence of AI-generated markings using a set of generalised icons provided by the EU AI Office, along with information on whether the content was created or manipulated using AI. The icons are shown above.
+Categories
+Announcements
+Blog
+Industry News
+Meetings
+Standards Updates
+Uncategorized
+Webinars
+Archives
+September 2026
+August 2026
+July 2026
+June 2026
+May 2026
+April 2026
+March 2026
+February 2026
+January 2026
+December 2025
+November 2025
+October 2025
+September 2025
+August 2025
+July 2025
+June 2025
+May 2025
+April 2025
+March 2025
+February 2025
+January 2025
+December 2024
+November 2024
+October 2024
+September 2024
+August 2024
+July 2024
+June 2024
+May 2024
+April 2024
+March 2024
+February 2024
+December 2023
+November 2023
+October 2023
+September 2023
+August 2023
+July 2023
+June 2023
+May 2023
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+January 2022
+December 2021
+November 2021
+October 2021
+September 2021
+August 2021
+July 2021
+June 2021
+May 2021
+April 2021
+February 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+December 2019
+November 2019
+October 2019
+September 2019
+July 2019
+June 2019
+May 2019
+April 2019
+February 2019
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+January 2018
+November 2017
+October 2017
+September 2017
+August 2017
+June 2017
+May 2017
+April 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+June 2015
+April 2015
+March 2015
+February 2015
+November 2014
+Twitter
+Standards
+News
+Participate
+Membership
+About
+Privacy Notice
+Contact
+© 2026 International Press Telecommunications Council. All rights reserved.
+ Search
+ Search
+Standards
+News
+Participate
+Participate Overview
+Membership
+Current Members
+Become a Member
+Frequently Asked Questions
+Members Only
+About IPTC
+IPTC Overview
+Work Structure
+Contact Us
+IPTC Newsletters
+Membership Enquiry
+Login/Join 

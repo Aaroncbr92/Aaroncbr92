@@ -1,0 +1,119 @@
+
+ Code of Practice on Transparency of AI-Generated Content | Shaping Europe’s digital future
+ Skip to main content
+en
+Select your languageClose
+bgбългарски
+esespañol
+csčeština
+dadansk
+deDeutsch
+eteesti
+elελληνικά
+enEnglish
+frfrançais
+gaGaeilge
+hrhrvatski
+ititaliano
+lvlatviešu
+ltlietuvių
+humagyar
+mtMalti
+nlNederlands
+plpolski
+ptportuguês
+roromână
+skslovenčina
+slslovenščina
+fisuomi
+svsvenska
+SearchSearch
+Shaping Europe’s digital future
+MenuClose
+MenuBackPrevious itemsNext items
+Home
+Policies
+Activities
+News
+Library
+Funding
+Calendar
+Consultations
+AI Office
+Home
+FAQs
+Code of Practice on Transparency of AI-Generated Content
+Code of Practice on Transparency of AI-Generated Content
+The Code of Practice on transparency of AI-generated content helps providers and deployers of generative AI systems comply with the AI Act’s obligations for labelling and marking of AI-generated content.
+What is the Code of Practice on Transparency of AI-Generated Content? 
+Adherence to the code of practice is voluntary. The code was prepared by independent experts in a multi-stakeholder process facilitated by the AI Office. It was designed to help providers and deployers of generative AI systems comply with the AI Act’s obligations for the marking and labelling of AI-generated content.
+The code has 2 sections:
+Section 1 addresses the obligations of providers of generative AI systems under Article 50(2) of the AI Act. It sets out commitments on the marking and detection of AI-generated or manipulated audio, image, video and text content, including through machine-readable solutions that are effective, interoperable, robust and reliable, as far as technically feasible. It aims to support providers in implementing transparency measures that take into account the type of content concerned, the state of the art, relevant technical standards and the need for proportionate compliance.
+Section 2 addresses the obligations of deployers of generative AI systems under Article 50(4) of the AI Act. It sets out commitments on the labelling of deepfakes and AI-generated or manipulated text published for the purpose of informing the public on matters of public interest. It also provides practical guidance on the design, placement and presentation of labels, disclaimers or icons, while considering specific regimes for artistic, creative, satirical, fictional or analogous works, as well as cases involving human review and editorial responsibility. Annex I provides an optional EU icon in three variants that deployers can rely on to easily implement the labelling obligation in the AI Act in a consistent and effective manner.
+The code is intended to promote a consistent, practical and proportionate implementation of the AI Act’s transparency obligations. It does not replace the AI Act or the Commission’s guidelines on Article 50 of the AI Act, but provides an EU-wide recognised practical framework for signatories to demonstrate compliance with those obligations.
+What was the process of drafting the code and who was involved? 
+The code was developed through an extensive multi-stakeholder process launched in September 2025, involving over 187 participants from industry, academia, civil society, rightsholders, and EU Member States represented in the AI Board and external observers.
+Six independent experts, appointed by the AI Office, led the drafting process. They developed the code through 3 rounds of stakeholder consultations, taking into account the feedback received throughout the process. 
+How can providers and deployers adhere to the code, and what are the benefits? 
+All providers and deployers of generative AI systems with existing or planned operations in the EU market can adhere to the code. Providers and deployers of generative AI systems may sign the relevant chapter of the code by completing the Signatory Form and sending it to CNECT-AIOFFICE-CODE-OF-PRACTICE-TRANSPARENCY@ec.europa.eu. 
+The form should be signed by a person with sufficient authority to bind the provider or deployer, such as a senior executive.
+By signing the code, providers and deployers signal their intention to adhere to its commitments. Signatories may benefit from a streamlined way to ensure and demonstrate compliance with Article 50(2) and Article 50(4) of the AI Act. Future enforcement will focus on monitoring adherence to the code, offering greater predictability, legal certainty across the EU and reduced administrative burdens.
+Does the code impose additional obligations beyond the AI Act? 
+The code does not impose obligations beyond the AI Act. It is a voluntary tool to help providers and deployers meet obligations under the AI Act, without imposing new requirements, extending current ones, or adding administrative burdens. The code also clearly differentiates between measures that are mandatory and required for compliance with the legal obligations in Article 50(2) and (4) of the AI Act and measures that are purely voluntary.
+What are the next steps? What is the interplay with the Guidelines on Article 50 AI Act? 
+From 2 August 2026, providers and deployers of AI systems falling within the scope of Article 50(2) and (4) of the AI Act must comply with the relevant transparency obligations for AI-generated or manipulated content. There is an exception for AI systems placed on the market before that date. These AI systems benefit from a transitional period for compliance until 2 December 2026.
+After publication of the code on 10 June 2026, the Commission and the AI Board will assess its adequacy.
+The Commission will complement the code with guidelines on the implementation of the transparency obligations for certain AI systems under Article 50 of the AI Act. These guidelines will be published ahead of 2 August 2026.
+The guidelines will:
+Address the legal interpretation of Article 50 of the AI Act and aspects not covered by the measures envisaged in the code
+Clarify the scope and application of the transparency obligations under Article 50 of the AI Act, including:
+Which providers and deployers are covered?
+What types of AI-generated or manipulated content fall within the scope of the rules?
+How the obligations should be applied in practice?
+The AI Office will engage with interested providers and deployers before the relevant rules begin to apply, including through information sessions and guidance on the signature process.
+How will the code be updated? 
+The chairs and vice-chairs have written the code to be as future-proof as possible. However, AI technology and the state of the art in marking, detection and labelling of AI-generated/manipulated content are evolving rapidly. Even with its future-proof design, the code will still require periodic updates.
+The AI Office may facilitate formal updates to the code in response to technological developments or experience with the application of the AI Act transparency rules. The AI Office will review the code at least every 2 years, and it may propose a streamlined process for reviews and updates as needed.
+What role will the Commission guidelines on the transparency obligations under Article 50 AI Act play? 
+The Commission guidelines will provide clarity on the scope and application of the transparency obligations under Article 50 of the AI Act.
+A public consultation on the draft guidelines collected stakeholder input on key concepts. Taking this feedback into account, the Commission is finalising the guidelines, which will be adopted and published ahead of the date on which the obligations laid down in Article 50 of the AI Act begin to apply.
+The guidelines will clarify 4 key points :
+Which providers, deployers and AI systems fall within the scope of Article 50 of the AI Act?
+What relevant concepts and exemptions apply?
+How the transparency obligations should be applied in practice, including for AI interaction, machine-readable marking, deepfakes and AI-generated text published on matters of public interest?
+How compliance with Article 50 of the AI Act may be demonstrated, including through adherence to a code of practice deemed adequate by the Commission and the AI Board? Can compliance be demonstrated through other appropriate means?
+Related content
+Policy
+Code of Practice on Transparency of AI-generated Content
+This code of practice supports compliance with the AI Act transparency obligations related to marking and labelling of AI-generated content.
+Last update
+10 June 2026
+ Print as PDF 
+Shaping Europe’s digital future
+This site is managed by:
+Directorate-General for Communications Networks, Content and Technology
+Digital EU on Mastadon
+Digital EU on LinkedIn
+Digital EU on Facebook
+Digital EU on Youtube
+Digital EU on Instagram
+Digital EU on X
+ About us 
+Privacy statement
+Copyright notice
+About Directorate-General CONNECT
+Language Policy
+Follow the European Commission
+Mastodon
+LinkedIn
+Bluesky
+Facebook
+Youtube
+Other
+Contact us
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility

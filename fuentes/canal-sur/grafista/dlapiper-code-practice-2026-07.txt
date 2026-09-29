@@ -1,0 +1,151 @@
+
+What the EU's new Code of Practice means for AI-generated content transparency | DLA Piper
+Skip to main content
+|
+Trending Searches
+LocationsPeopleCareersAbout Us
+Locations
+News
+Events
+Blogs
+Alumni
+Pro bono
+GLOBAL SITEEnglish
+Search
+GLOBAL SITEEnglish
+United States
+Home
+Insights
+AI Alert: What the EU's new Code of Practice means for AI-generated content transparency
+16 July 2026 • 22 minute read
+share
+LinkedIn
+Facebook
+Twitter
+Email
+Whatsapp
+Line
+WeChat
+Xing
+What the EU's new Code of Practice means for AI-generated content transparency
+Written by:Gareth StokesDanny TobeyLinzi PenmanAlessandro FerrariJonathan RoféJohn MageeDr Nico BrunotteJonas RiesenkampffCoran DarlingLiam BlackfordCéline Dramais, Daisy Wong
+Hallmarks and hallmark moments
+A piece of “family silver” often reveals its most important details on the underside. Tucked away on the back, there is often a row of small stamped symbols: a walking lion, a leopard's head, or an anchor, a single letter in a particular typeface, and perhaps a maker's initials – all of which appear to be decorative. To those who know the code, it is a complete provenance record – the metal is sterling, it was assayed in a particular location, it was tested in a particular year, and this is the person who made it.
+Hallmarking is one of the oldest consumer-protection schemes. The English system has been running, in one form or another, for the better part of seven centuries. As a piece of the design, it is subtle. The mark is standardized, so that the same symbol means the same thing regardless of who struck it. It is difficult to forge, because striking it is controlled by an independent assay office. It survives ordinary handling and wear and tear. Notably, it is readable: not by everyone, but by anyone who cares to learn the code, and by every dealer, valuer, and assay office. A mark that survives but cannot be read is useless; as is a mark that can be read but rubs off the first time someone gives it a clean.
+Although hallmarking is medieval, the problem it solves is modern: it closely parallels the challenges the European Union is seeking to address for artificial intelligence (AI).
+The EU’s Code of Practice on Transparency of AI-Generated Content (Code) reflects a hallmarking scheme for synthetic content. The Code seeks to make the output of generative AI capable of being identified and understood – to give machines and people a reliable way to tell what was minted by a model and what was not, and to do so in a way that fosters trust in an increasingly complex information ecosystem.
+The silver analogy applies: there is the assay office that strikes the mark (the provider of the AI system), the silversmith who sells the finished piece to the public (the deployer), and the shopper looking at the underside of the spoon (the end user trying to understand what they are looking at).
+The Code is a substantial document, but its architecture reflects the hallmarking parallel. In this alert, we use that parallel to unpack the Code and its implications for businesses.
+What is the Code?
+The Code of Practice is not a new law. It is a guiding document that sits beneath Article 50 of the EU AI Act (the transparency provisions)[1] and offers a voluntary route for signatories to demonstrate compliance with those obligations. Adherence to the Code is expressly not conclusive evidence of compliance; rather, it is intended to help providers and deployers meet their Article 50 duties and to allow market surveillance authorities to assess compliance in a consistent, predictable, and uniform manner across the EU. In other words, the Code functions as a well-lit path through the forest, not a fence around it. Organizations may choose another route, but adherence to the Code gives authorities a clearer framework for assessing compliance.
+The Code is built in two halves (Sections), and addresses two different audiences:
+Section 1 addresses providers of generative AI systems – the people who build the models and systems that produce synthetic audio, image, video, or text. In the hallmarking analogy, these are the assay offices: their job is marking and detection.
+Section 2 addresses deployers – the organizations that take AI output and put it in front of the public, particularly those that publish deepfakes or AI-generated text on matters of public interest. In the hallmarking analogy, these are the silversmiths at the shopfront: their job is disclosure and labeling.
+Businesses may find that they fall into both categories, and the two sets of obligations interlock. One of the most significant implementation challenges is not the marking itself but determining who bears responsibility for it. Modern AI supply chains frequently involve multiple actors, including foundation model providers, model hosts, platform providers, system integrators, and downstream deployers. The allocation of transparency obligations depends on the role each actor performs under the EU AI Act.
+Timing and publication of the Code
+The final Code was published on June 10, 2026, and the European Commission and the European AI Board must assess its adequacy before adherence carries its full evidentiary weight. The Commission is also finalizing separate guidelines on the scope of applicability of Article 50, which are expected before the obligation applies. The Code shows how to walk the path; the guidelines say where its edges lie.
+Article 50 is effective August 2, 2026. Generative AI systems already placed on the market before that date have until December 2, 2026 for compliance – a transitional period agreed in the Digital Omnibus – but the deployers’ disclosure duties under Article 50(4) apply from August 2, 2026 without deferral, and the watermark-detection interoperability commitment follows on February 2, 2027.
+The Code uses three terms, defined below:
+A deepfake is an AI-generated or manipulated image, audio, or video that resembles existing persons, objects, places, entities, or events and would falsely appear to a person to be authentic or truthful. The key word is “existing”, as the definition is directed at content that could create risks of impersonation, deception, misinformation, manipulation, and fraud. As the simulated person, object, or place is meant to resemble something that could exist, or could once have existed, the subject does not need to be a real, identifiable individual to bring the content within scope. However, content that defies the laws of nature or physics or depicts lifeforms that biology does not recognize is treated as unrealistic and sits outside the transparency obligation altogether. The test, in other words, is not whether the thing is real, but whether a reasonable viewer might take it for something that could be.
+Marking is the technical business of embedding a signal into content – such as a digitally signed piece of metadata, or an imperceptible watermark – whose purpose is to make the content's artificial origin detectable.
+Disclosure, or labeling, is the visible notice that tells an individual that what they are looking at was created by AI.
+Striking the mark: Key considerations for providers
+The core obligation of providers is deceptively short. Outputs of generative AI systems – including general-purpose AI systems – must be marked in a machine-readable format and detectable as artificially generated or manipulated, using technical solutions that are effective, interoperable, robust, and reliable, so far as this is technically feasible, taking into account the specificities of the content, the cost of implementation, and the state of the art.
+The Code indicates that the current state of the art may not be sufficient to do the job with a single tool. At the time of publication, no single marking technique can, by itself, satisfy all four requirements for content that might be disseminated online. The response is a multi-layered approach. For most content, providers are expected to apply at least two layers of machine-readable marking, on the sensible theory that where one mark fails, another may survive. It is the difference between engraving the hallmark and etching it into the metal, because you cannot know in advance which will be rubbed away.
+The two mandated layers also map onto the hallmarking analogy:
+The first is digitally signed, timestamped metadata: where the content format can carry metadata, the provider records whether the content is AI-generated or manipulated, and signs that record in a secure, tamper-evident way. This is the readable punch mark under the object.
+The second is an imperceptible watermark, woven into the content itself so that it is difficult to separate from it, and intended to serve as a robust complement to the metadata when the metadata is stripped away. This is the mark struck into the metal rather than printed on a removable label – the one that survives over time.
+The Code acknowledges the requirement for flexibility in its application. Free-form text – or the raw words on a website or in a chat window – cannot carry metadata, so a single layer of marking is treated as sufficient for that specific case. Text watermarking is also inherently less reliable, particularly for shorter passages, and so access to the corresponding detection tool may be restricted to verified expert users rather than open to all. A single layer may also be used where an AI system is embedded in a closed physical product that keeps its output within a controlled environment.
+Providers may add optional extras – such as fingerprinting or logging, and richer provenance metadata, such as the system name and a timestamp – though the Code states that these cannot stand on their own as a substitute for the core requirements.
+The Code’s focus on synthetic content (which is not defined) also leaves a gap at the edges of what counts as generation or manipulation. The EU AI Act contemplates an exception for assistive functions that perform only standard editing operations or those that do not substantially alter the input data provided by the deployer.
+A key boundary question is not whether content has been generated or edited using AI, but whether a particular AI-enabled modification remains an assistive function for standard editing or instead becomes a sufficiently transformative manipulation of the underlying content. Many modern creative tools combine authentic user content with AI-enabled modifications. The practical challenge is determining when those modifications substantially alter the input data or its semantics such that transparency obligations are triggered. Consider a tool that removes a blemish from a photograph, or one that adjusts the color balance, or one that upscales resolution using learned priors. At some point along that spectrum, the output becomes synthetic – the Code does not attempt to draw that boundary with precision. While forthcoming guidelines may provide further clarity, the question is likely to remain highly fact-sensitive and requires careful assessment of the nature and effect of the modification in each case.
+Detection, durability, and interoperability
+Detection
+Marking is only half of the provider's job; the other half is detection. Providers must make available a detection solution – as a public specification that any third party can implement, as a piece of downloadable software, or as a cloud-based service reachable through an application programming interface (API) – and they must ensure that detection results are presented in a way that is clear, distinguishable, and accessible. There is a strong default that detection be free of charge, softened by a narrow exception allowing smaller providers to charge a reasonable fee where a single user's volume of requests becomes genuinely burdensome. Even then, access must always remain free and unrestricted for regulators, law enforcement, media, fact-checkers, researchers, and civil society organizations.
+Durability
+Durability is the “don’t melt down the hallmark” set of obligations. Providers must make efforts to preserve metadata markings, retaining them rather than stripping them when content passes through their systems. They must prohibit, in their terms and acceptable-use policies, the intentional removal of or tampering with markings by deployers or third parties; and they must not place on the market, promote, or advertise tools whose purpose is to circumvent transparency markings. In the hallmarking analogy, the silver polish that is designed specifically to erase the assay mark may not be sold.
+Interoperability
+Beyond digitally signed metadata, the relevant standards for interoperability do not yet exist. The Code adopts a staged approach: in the initial phase, providers adopt established metadata standards and publish information on how their other markings can be detected. They must also commit to implementing an interoperability solution for watermark detection by February 2, 2027.
+Similarly, in the hallmarking analogy, a hallmark only works because every assay office strikes marks that every dealer can read. A world in which each AI provider stamps its own proprietary mark would make transparency harder to achieve.
+The shopfront: What deployers must disclose
+Under Section 2, deployers who use AI to generate or manipulate a deepfake, or to produce text published to inform the public on matters of public interest, must disclose that the content is artificially generated or manipulated. That disclosure must be clear and distinguishable, provided at the latest at the time of the first interaction or exposure, and it must conform to applicable accessibility requirements.
+This disclosure is not a warranty of quality. The Code states that its purpose is to inform individuals about the artificial origin of the content, not to vouch for its trustworthiness. In the hallmarking analogy, the label provides information that the spoon is electroplated rather than sterling – but it does not state whether the soup is any good.
+To make disclosure consistent, the Code offers a ready-made hallmark: the EU icon. The icon is the capitalized acronym for “AI,” and that core mark is the one the Code insists upon – it is the main visual element the scheme asks deployers to strike, and on its own, it is enough to discharge the labeling duty. The finer distinction – the variants indicating whether content is “generated” or “modified” – is a refinement, rather than a requirement.
+The Code encourages deployers to add the descriptive word but stops short of mandating it.[2] Empirical user-testing across several Member States made the labels clearer and less ambiguous for viewers. The icon is publicly available and free to use, and deployers may adopt it or an equivalent label that meets the Code's specifications. The rules for design are as follows:
+The label belongs somewhere it will be noticed without hunting for it – such as the top corner of an image or video, near the headline, or in the colophon of a text
+Audio-only content gets a spoken disclaimer at the outset
+Long-form or live video should repeat the label at intervals so that someone who joins late, or sees only a clipped fragment, is made aware
+There is no disclosure obligation where the use is authorized by law to detect, prevent, investigate, or prosecute criminal offenses. There is a lighter-touch framework for content that forms part of an evidently artistic, satirical, fictional, or analogous work, where disclosure must not spoil the enjoyment of the piece. In this case, the deepfake is flagged at the end credits or the exhibition notes.
+Additionally, the obligation does not apply to AI-generated text that has undergone genuine human review or editorial control, where a natural or legal individual holds editorial responsibility for the publication.
+Section 2 focuses on accessibility. Disclosure must be designed so that it is perceivable and understandable by all, including individuals with disabilities, children, and the elderly, with audio descriptions, high-contrast icons, and screen-reader compatibility, among others. The Code references the European Accessibility Act and established web accessibility standards as the relevant benchmarks. A hallmark that only the sharp-eyed can read is, once again, only half a hallmark.
+From mark to chain of custody
+What happens to the mark after it leaves the system that first struck it?
+Synthetic content rarely travels in a straight line. It may be generated in one tool, edited in another, compressed by a content management system, pushed through a digital asset management platform, adapted by an agency, and finally published on a website or social media. At each hand-off, the metadata may be preserved, overwritten, or made impossible to interpret. The watermark may survive ordinary handling, or it may be damaged by cropping, resizing, format conversion, or other transformations. That is where the medieval analogy becomes relevant: the mark has to be struck and carried.
+For procurement teams, this turns transparency into a due diligence issue at the buying stage. A vendor that offers a generative tool should be able to explain which types of output are marked, which technique is used, whether detection can be accessed by API or specification, what happens on termination, and whether markings survive the ordinary transformations expected in the customer’s environment. The answer should be testable, with enough detail to be carried into the technical schedule. In practice, customers procuring AI-enabled solutions often seek specific contractual commitments regarding marking, preservation of metadata, access to detection tools, audit rights, and cooperation in the event of regulatory investigations.
+Beyond transparency obligations, provenance information and detection records may also become relevant from an evidentiary perspective in disputes relating to content authenticity or attribution.
+More broadly, providers and buyers negotiating those arrangements are encouraged to monitor the evolving EU liability landscape, including Directive (EU) 2024/2853, which extends product liability rules to software and AI and which Member States must transpose by December 9, 2026.
+A publisher, bank, insurer, or consumer brand relying on review or editorial control often wants to know who reviewed the text, against which policy, and with what record of responsibility. The lighter-touch outcome in the Code is therefore likely to be most useful to organizations that can show a real editorial process, with documentation that demonstrates human review and editorial responsibility.
+Foreseeability, and the handmaiden of liability
+The obligations in the two Sections do not sit in separate boxes; they run along a value chain, and the Code is explicit that a downstream provider or deployer who builds on someone else's model, or relies on a third party's marking and detection solution, retains its own responsibility for compliance.
+Obligation cannot be outsourced by outsourcing the technology. In practice, the hallmark's survival becomes a matter of contract: provenance warranties from the model provider, watermark-preservation obligations down the distribution chain, guaranteed access to detection tools, and clear allocation of who does what. These are the mechanisms by which the mark makes it all the way from the assay office to the shop window without being polished into oblivion.
+However, complications may arise. Three suppliers in a chain, each perfectly competent, each quietly confident that one of the others is handling the obligation, when nobody is. The label never gets applied, the metadata is stripped in transformation, and the first anyone hears of it is a complaint from a market surveillance authority. The more one understands how these systems pass content along, the more complications become likely. The Code helps make the failure modes legible in advance, which is when they are cheapest to prevent.
+Courts may approach these issues differently. The Code is expressly not conclusive evidence of compliance, and adherence will be assessed by market surveillance authorities across the EU.
+Disputes could arise from public enforcement and private claims by those who say they were deceived or damaged by unmarked or unlabeled content. Non-compliance with the Article 50 transparency obligations could attract administrative fines up to EUR15 million, or 3 percent of the total worldwide annual turnover, whichever is higher (Article 99(4) EU AI Act). Here, the common law and civil law traditions start from different places.
+Flexible, incremental tools of negligence and misrepresentation, asking whether a duty was owed, whether the harm was foreseeable, and whether the defendant fell short of the standard of the reasonable provider or deployer are common pathways for legal professionals. However, a judge can extend an existing principle to a novel fact pattern without waiting for the legislature, and the Code's detailed expectations may become a yardstick against which “reasonable” conduct is measured. The destination is often surprisingly similar; the route and the pace are not.
+The Code will not operate in isolation, as certain Member States have already legislated. France, for instance, sanctions in Article 226-8 of its Code pénal (as amended by France’s SREN law of May 21, 2024) the dissemination of AI-generated or manipulated content representing the image or words of an identifiable person without consent, unless the artificial origin is evident or expressly disclosed, with a specific offense for sexual deepfakes in Article 226-8-1. Compliance with the Code should be considered alongside applicable national requirements.
+Considerations include:
+The Code's soft-law status cuts in more than one direction: it is a shield for the compliant, but the same detailed measures can be turned into a sword by a claimant arguing that a defendant knew, or ought to have known, exactly what good practice required.
+Because Article 50 sits alongside data protection, consumer protection, intellectual property, media, and EU Digital Services Act obligations rather than displacing them, a single instance of unmarked content can spawn parallel proceedings on several fronts and, in the civil law systems, before more than one forum at once.
+Finally, forum and governing-law clauses in the value-chain contracts matter: the location in which a marking failure is litigated may shape not only the procedure but the conceptual language in which liability is argued.
+The Code is intended to be neither pointless box-ticking nor a magic solution to synthetic media. The document itself insists that compliance is “not a check-box exercise,” but an attempt to build an ecosystem of transparency, and it is candid that disclosure informs individuals about origin rather than trustworthiness. The Code builds in proportionality for subject-matter experts and small- and mid-cap companies, so that the smallest players are not crushed by the compliance weight designed for the largest.
+Whether the transparency ecosystem succeeds could depend on the extent to which downstream platforms preserve markings and whether users develop sufficient awareness of the labels. Compliance does not necessarily guarantee behavioral impact. A mark on the metal was never the whole of consumer protection; it was one honest signal among many.
+Next steps
+Providers are encouraged to scope a multi-layered marking solution and a free, accessible detection mechanism, with the February 2027 interoperability milestone approaching.
+Deployers may wish to determine how the EU icon and, in particular, the editorial-control exception map onto publishing workflows before questions arise.
+Organizations that encompass both providers and deployers may consider the following:
+Determine organizational obligations: Provider, deployer, or both – because obligations follow directly from that classification.
+Audit the value chain and the contracts that run along it: Allocating responsibility for marking, preservation, and detection explicitly rather than by hopeful assumption.
+Pilot the EU icon: Find its placement in content formats, testing that disclosure is clear, distinguishable, and accessible at first exposure.
+Review internal processes: Compliance processes, staff awareness, training, and channels for flagging and correcting missing or incorrect labels.
+A hallmark, in the end, was never an expression of distrust in the silversmith. It was a small act of respect for the buyer: a way of letting them turn the object over and see for themselves what they held. The EU's wager is that synthetic content deserves the same courtesy. Organizations may wish to start stamping their work carefully now, rather than waiting for someone to insist upon it.
+For more information
+DLA Piper’s AI and Data Analytics team helps organizations navigate the complex workings of their AI systems and comply with current and developing regulatory requirements. The firm continuously monitors updates and developments arising in the AI space and their impact on industry across the world.
+For more information on AI and the emerging legal and regulatory standards, please visit DLA Piper’s focus page on AI and Algorithm to Advantage portal.
+Gain insights and perspectives that will help shape your AI strategy through DLA Piper’s AI ChatRoom series.
+If you have questions on the EU AI Act, the Code, or any other AI-related matters, please contact the authors or your regular DLA Piper attorneys.
+[1] Under the EU AI Act, transparency obligations primarily reside in Article 50. These requirements apply to both providers and deployers of AI, and carry specific obligations based on the type of system: (a) providers of systems interacting directly with humans (e.g., chatbots) must clearly inform users they are interacting with AI; (b) providers of generative AI systems must ensure synthetic outputs (audio, image, video, text) are digitally marked in a machine-readable format and detectable; (c) deployers must visibly label deepfakes and AI-generated or manipulated text published to inform the public on matters of public interest; and (d) deployers must notify individuals when they are exposed to emotion recognition or biometric categorization systems. The final Code operationalizes only the marking duty on providers and the labeling duty on deployers. 
+[2] Signatories are encouraged to supplement the acronym in the icon with information regarding whether the deepfake or published text is manipulated or generated with AI in an (interactive) second layer where this is technically implementable, in the icon or next to the icon (e.g., text indicating “modified” or “generated,” as illustrated in Annex 1). Signatories are also encouraged to disclose in the (interactive) second layer what has been modified by the AI system (e.g., text or pictogram describing that a face has been altered).
+Related insights
+Publication
+European Union publishes its General-Purpose AI Code of Practice
+16 July 2025 .9 minute read
+Publication
+EU AI Office publishes a first draft of the General-Purpose AI Code of Practice
+18 November 2024 .7 minute read
+Publication
+New York State Legislature passes first-in-the-nation data center moratorium: Top points
+1 July 2026 .6 minute read
+Print 
+Related capabilities
+TechnologyArtificial Intelligence and Data AnalyticsRegulatory and Government AffairsIntellectual Property
+People
+Capabilities
+About us
+Insights
+Careers
+Locations
+News
+Events
+Blogs
+Alumni
+Pro bono
+Contact us
+Find an office
+Subscribe
+Privacy policyYour privacy choicesLegal noticesCookie policyFraud AlertMake a paymentSitemap
+DLA Piper is a global law firm operating through various separate and distinct legal entities. For further information about these entities and DLA Piper's structure, please refer to the Legal Notices page of this website. All rights reserved. Attorney advertising.
+© 2026 DLA Piper US
+Email Disclaimer
+Unsolicited e-mails and information sent to DLA Piper or the independent DLA Piper Relationship firms will not be considered confidential, may be disclosed to others, may not receive a response, and do not create a lawyer-client relationship with DLA Piper or any of the DLA Piper Relationship firms. Please do not include any confidential information in this message. Also, please note that our lawyers do not seek to practice law in any jurisdiction in which they are not properly permitted to do so.
+AcceptCancel
+email-disclaimer-block

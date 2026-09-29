@@ -1,0 +1,213 @@
+
+ Human readable concept data
+NewsCodes Scheme (Controlled Vocabulary)
+Results from requesting a Scheme URI
+Copyright 2024 IPTC - www.iptc.org. The Creative Commons Attribution (CC BY) 4.0 license applies to all NewsCodes
+Find a list of all available IPTC NewsCodes vocabularies at http://cv.iptc.org/newscodes/
+ View this scheme in other formats:
+ NewsML G2 Knowledge Item |
+ RDF/XML |
+ RDF/Turtle |
+ JSON-LD
+ For more information, see the IPTC NewsCodes Guidelines. Find help on using this CV server at the cv.iptc.org Guidelines.
+The shown language(s) is/are: x-all
+Metadata about the scheme/controlled vocabulary 
+Scheme URI = http://cv.iptc.org/newscodes/digitalsourcetype/
+Name(en-GB): Digital Source Type
+Definition(en-GB): Indicates from which source a digital image was created.
+*
+ Concept ID (QCode) = digsrctype:digitalCapture, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture
+Type: cpnat:abstract
+created: 2008-01-01T01:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Digital capture sampled from real life
+Definition(en-GB): The media was captured from a real-life source using a digital camera or digital recording
+ device
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:computationalCapture, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/computationalCapture
+Type: cpnat:abstract
+created: 2024-09-17T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Multi-frame computational capture sampled from real life
+Definition(en-GB): The media is the result of capturing multiple frames from a real-life source using
+ a digital camera or digital recording device, then automatically merging them into
+ a single frame using digital signal processing techniques and/or non-generative AI.
+ Includes High Dynamic Range (HDR) processing common in smartphone camera apps.
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:negativeFilm, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/negativeFilm
+Type: cpnat:abstract
+created: 2008-01-01T01:00:00+00:00
+modified: 2024-09-26T12:00:00+00:00
+retired: 
+Name(en-GB): Digitised from a transparent negative
+Definition(en-GB): The media was digitised from a negative on film or other transparent medium
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:positiveFilm, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/positiveFilm
+Type: cpnat:abstract
+created: 2008-01-01T01:00:00+00:00
+modified: 2024-09-26T12:00:00+00:00
+retired: 
+Name(en-GB): Digitised from a transparent positive
+Definition(en-GB): The media was digitised from a positive on a transparency or other transparent medium
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:print, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/print
+Type: cpnat:abstract
+created: 2008-01-01T01:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Digitised from a non-transparent medium
+Definition(en-GB): The media was digitised from a non-transparent medium such as a photographic print
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+RETIRED 
+ Concept ID (QCode) = digsrctype:minorHumanEdits, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/minorHumanEdits
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 2024-09-17T12:00:00+00:00
+Name(en-GB): Original media with minor human edits
+Definition(en-GB): Minor augmentation or correction by a human, such as a digitally-retouched photo used
+ in a magazine
+Note(en-GB): Retired. Use "humanEdits" instead.
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:humanEdits, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/humanEdits
+Type: cpnat:abstract
+created: 2024-09-17T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Human-edited media
+Definition(en-GB): Augmentation, correction or enhancement by one or more humans using non-generative
+ tools
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:compositeWithTrainedAlgorithmicMedia, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/compositeWithTrainedAlgorithmicMedia
+Type: cpnat:abstract
+created: 2023-07-26T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Edited using Generative AI
+Definition(en-GB): Augmentation, correction or enhancement using a Generative AI model, such as with
+ inpainting or outpainting operations
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:algorithmicallyEnhanced, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/algorithmicallyEnhanced
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2024-10-23T12:00:00+00:00
+retired: 
+Name(en-GB): Algorithmically-altered media
+Definition(en-GB): Modification or correction by algorithm without changing the main content of the media,
+ initiated or configured by a human, such as sharpening or applying noise reduction
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+RETIRED 
+ Concept ID (QCode) = digsrctype:softwareImage, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/softwareImage
+Type: cpnat:abstract
+created: 2008-01-01T01:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 2022-06-14T12:00:00+00:00
+Name(en-GB): Created by software
+Definition(en-GB): The digital image was created by computer software
+Note(en-GB): Retired in June 2022. Use more specific terms instead.
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+RETIRED 
+ Concept ID (QCode) = digsrctype:digitalArt, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/digitalArt
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 2024-09-17T12:00:00+00:00
+Name(en-GB): Digital art
+Definition(en-GB): Media created by a human using digital tools
+Note(en-GB): Retired. Use "digitalCreation" instead.
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:digitalCreation, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/digitalCreation
+Type: cpnat:abstract
+created: 2024-09-17T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Digital creation
+Definition(en-GB): Media created by a human using non-generative tools
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:dataDrivenMedia, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/dataDrivenMedia
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 
+Name(en-GB): Data-driven media
+Definition(en-GB): Digital media representation of data via human programming or creativity
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:trainedAlgorithmicMedia, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2024-10-23T12:00:00+00:00
+retired: 
+Name(en-GB): Created using Generative AI
+Definition(en-GB): Digital media created algorithmically using an Artificial Intelligence model trained
+ on captured content
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:algorithmicMedia, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/algorithmicMedia
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 
+Name(en-GB): Pure algorithmic media
+Definition(en-GB): Media created purely by an algorithm not based on any sampled training data, e.g.
+ an image created by software using a mathematical formula
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:screenCapture, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/screenCapture
+Type: cpnat:abstract
+created: 2024-09-17T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Screen capture
+Definition(en-GB): A capture of the contents of the screen of a computer or mobile device
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:virtualRecording, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/virtualRecording
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Virtual event recording
+Definition(en-GB): Live recording of virtual event based on Generative AI and/or captured elements
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:composite, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/composite
+Type: cpnat:abstract
+created: 2024-09-17T12:00:00+00:00
+modified: 2024-09-17T12:00:00+00:00
+retired: 
+Name(en-GB): Composite of elements
+Definition(en-GB): Mix or composite of several elements, any of which may or may not be generative AI
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:compositeCapture, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/compositeCapture
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 
+Name(en-GB): Composite of captured elements
+Definition(en-GB): Mix or composite of several elements that are all captures of real life
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
+*
+ Concept ID (QCode) = digsrctype:compositeSynthetic, ID (URI) = http://cv.iptc.org/newscodes/digitalsourcetype/compositeSynthetic
+Type: cpnat:abstract
+created: 2022-06-14T12:00:00+00:00
+modified: 2022-06-14T12:00:00+00:00
+retired: 
+Name(en-GB): Composite including generative AI elements
+Definition(en-GB): Mix or composite of several elements, at least one of which is Generative AI
+Member of scheme: http://cv.iptc.org/newscodes/digitalsourcetype/
