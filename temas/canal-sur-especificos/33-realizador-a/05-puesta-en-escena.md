@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule la puesta en escena. Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0903, 0904 y 0905): norma de enseñanza, no norma del oficio; cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, fichas de puesto; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004); Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), punto 97; Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía, disposición transitoria primera. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan (leído el 24-09-2026). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), leído el 24-09-2026. Convenio de 2014 (vigencia, en el tema común del convenio), Libro de Estilo de 2004 y Contrato-programa 2024-2026, leídos el 24-09-2026. Ley 10/2018 en la redacción vigente el 24-09-2026 |
-| Extensión | 11.100 palabras aproximadamente |
+| Extensión | 11.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -35,8 +35,9 @@ la puesta en serie; a quién atribuye el convenio la puesta en escena, el diseñ
 el estilo de luz, la imagen de los presentadores y los escenarios virtuales; qué documentos gráficos
 tiene un decorado, qué muestra cada uno y cuáles se miden; cómo se lee una planta y una sección; qué
 es una carra, una riostra, una ferma, un forillo, una tronera, un practicable y un ciclorama; los
-tipos de decorado y los estilos escenográficos; atrezo de ambientación y de acción; qué prendas
-desaconseja el Libro de Estilo y por qué; qué hace el realizador con las cámaras en la escena y qué
+tipos de decorado y los estilos escenográficos; cómo se dispone el set según el tipo de programa;
+atrezo de ambientación y de acción; qué prendas desaconseja el Libro de Estilo, a presentadores y a
+redactores en plató, y por qué; qué hace el realizador con las cámaras en la escena y qué
 comprueba en cada encuadre; cómo se planifican y se comprueban los movimientos de personas y de
 cámaras; qué son las marcas, quién las pone y con qué; qué se vigila para la continuidad; quién rige
 el plató en la RTVA, qué hace antes y durante el programa y con qué señas; la escala de ensayos; la
@@ -60,6 +61,7 @@ plató, decidir posiciones de cámaras, personas y marcas, o resolver un fallo d
   - [El ciclorama](#el-ciclorama)
   - [Los tipos de decorado](#los-tipos-de-decorado)
   - [Los estilos escenográficos](#los-estilos-escenográficos)
+  - [El espacio escénico según el programa](#el-espacio-escénico-según-el-programa)
   - [Ambientación y atrezo](#ambientación-y-atrezo)
   - [Vestuario, maquillaje y caracterización ante la cámara](#vestuario-maquillaje-y-caracterización-ante-la-cámara)
   - [Lo que el realizador comprueba en la escenografía](#lo-que-el-realizador-comprueba-en-la-escenografía)
@@ -146,6 +148,27 @@ virtual.»**; **«La puesta en escena en proyectos de ficciones y programas de t
 **«Planificación del movimiento de la acción en la realización multicámara: tiros de cámara y
 movimientos.»** (contenidos).
 
+La cualificación IMS077_3 dedica a la materia una capacidad entera de su primer módulo formativo:
+**«Elaborar la puesta en escena de un programa de televisión.»** (MF0216_3, C7). Sus cinco criterios
+de evaluación son un buen resumen de lo que la puesta en escena abarca:
+
+- **«Identificar y comparar los espacios escénicos empleados en programas de televisión según sus
+  características.»** (CE7.1).
+- **«Identificar los elementos utilizados en la ambientación de los decorados.»** (CE7.2).
+- **«Describir los tipos de vestuario utilizados de acuerdo con el tipo de programa y las
+  características técnicas propias del medio moiré, alta definición o definición estándar,
+  luminosidad, saturación, color, entre otros, y en relación a los elementos escenográficos.»**
+  (CE7.3).
+- **«Elaborar la puesta en escena más adecuada (características del decorado, elementos
+  escenográficos, vestuario y maquillaje) según el guion o escaleta de diferentes programas de
+  televisión.»** (CE7.4).
+- **«Explicar la ubicación y las funciones de los componentes del equipo humano (técnico, artistas,
+  presentadores, etc) que intervienen en la realización de un programa.»** (CE7.5).
+
+Los espacios escénicos por tipo de programa se ven en «El espacio escénico según el programa»; la
+ambientación, en «Ambientación y atrezo»; el vestuario, en «Vestuario, maquillaje y caracterización
+ante la cámara»; y el equipo humano, en «Coordinación de plató».
+
 Las seis rúbricas del enunciado son las seis decisiones de la puesta en escena de un plató: dónde
 (escenografía), desde dónde se mira (dirección de cámaras), qué se desplaza (movimientos), dónde se
 para (marcas), qué no puede cambiar entre plano y plano (continuidad) y quién lo hace cumplir
@@ -218,8 +241,11 @@ La planta y el alzado son planos técnicos: están a escala y se miden. La persp
 El RD los pide como materia de televisión (**«Plantas de decorado y representaciones en alzado y tres
 dimensiones.»**, módulo 0904, contenidos), y la cualificación IMS077_3 pide para una ficción o un
 programa de variedades cuatro plantas: **«Elaborar la planta de decorados, planta de cámaras, planta
-de iluminación y planta de sonido.»** (MF0216_3, CE5.2 y CE5.3). La planta de cámaras y la escala
-se estudian en el tema 2.
+de iluminación y planta de sonido.»** (MF0216_3, CE5.2 y CE5.3). Sobre la planta del estudio se
+coloca, además, lo que los planos escenográficos describen: **«Se han ubicado, en la planta del
+estudio o de las localizaciones, los sets descritos en los planos escenográficos, fijando el
+emplazamiento de elementos de decorado y atrezo.»** (módulo 0904, RA 4.a). La planta de cámaras y la
+escala se estudian en el tema 2.
 
 ### La planta, el alzado y la sección
 
@@ -317,8 +343,10 @@ decir, lo contrario de tapar.
 ### El ciclorama
 
 Un ciclorama es una tela lisa colgada que hace de fondo continuo, sin esquinas ni juntas, de modo
-que el espacio parece no tener límite. Se estira normalmente colgando pesas y se le aplica un listón
-de madera o tubo en el marco interior, para eliminar las arrugas.
+que el espacio parece no tener límite. Cómo se tensa es oficio: se estira normalmente colgando pesas
+y se le aplica un listón de madera o tubo en el marco interior, para eliminar las arrugas. También
+de oficio: hay cicloramas construidos, rígidos, que son el fondo curvo y continuo del plató
+(«Cómo tiene que ser el plató»); lo que los une con el de tela es la continuidad sin esquinas.
 
 Un ciclorama arrugado se ve en cámara, porque cada arruga hace una sombra y las sombras rompen la
 continuidad que el ciclorama existe para dar. De ahí las pesas abajo y el listón: tensar.
@@ -377,6 +405,24 @@ Otros tres estilos escenográficos que conviene distinguir del camafeo:
 | Réplica de un lugar real | Escenografía realista o naturalista |
 
 Estas denominaciones son de oficio y no están normalizadas.
+
+### El espacio escénico según el programa
+
+La cualificación IMS077_3 pide comparar los espacios escénicos de los programas de televisión (CE7.1,
+en «Qué es»), pero no da las disposiciones. Las que siguen son oficio, no norma, y aplican las reglas
+de cámara de «La cámara en la planta»: el eje manda y ninguna cámara en el tiro de otra.
+
+| Programa | Disposición habitual del set | Lo que la decide |
+|---|---|---|
+| Informativo | Mesa de presentación frente a la cámara central, con fondo de decorado o de pantallas | El presentador habla a cámara; la pantalla de fondo da el recurso |
+| Entrevista | Dos personas a mesa o en sillones, enfrentadas en ángulo | El plano y contraplano de las laterales cruzadas («El reparto de tiros») |
+| Debate o tertulia | Mesa en U o semicircular, abierta a la cámara central, con el moderador en el centro | Que todos se vean entre sí y las laterales den contraplanos sin salir del semicírculo del eje |
+| Magacín | Varios sets en un mismo plató: mesa, sofá, zona de actuación o de cocina | Pasar de un set a otro con tiempos de desplazamiento de cámaras y personas |
+| Concurso | Posiciones fijas de concursantes y presentador enfrentadas, con público | Que cada posición tenga su cámara y su marca |
+| Variedades o musical | Escenario con espacio de actuación despejado y público | Los movimientos amplios de cámara, de grúa y de las personas |
+
+La tabla es orientativa: el decorado de cada programa lo diseña el Decorador y lo coloca el
+realizador sobre la planta.
 
 ### Ambientación y atrezo
 
@@ -443,7 +489,15 @@ de los tejidos en la 2 y los ruidos de los adornos en la 6) y de contenido (la 7
 dirige al presentador sino a los departamentos. La única que el libro formula como prohibición es la
 7 (**«está prohibido»**); la 6 dice **«no se utilizarán»**; la 9 impone un deber a los departamentos
 (**«deberán tener muy en cuenta»**); las demás desaconsejan. Para el redactor que sale en plató, el mismo libro dice que **«Es
-obligatorio el paso por el departamento de maquillaje.»** (8.5, p. 121).
+obligatorio el paso por el departamento de maquillaje.»** (8.5, p. 121), y le da sus propias pautas de
+indumentaria: **«La indumentaria se ceñirá a los patrones habituales. Debe tenerse en cuenta, cuando
+el vestuario sea particular, que los tonos claros engordan y los oscuros estilizan, el blanco causa
+problemas de saturación, rayas y cuadros distorsionan lo mismo que los tejidos brillantes, satenes y
+sedas. En el caso de los hombres, el azul es el mejor color pero hay muchas más posibilidades y las
+corbatas chocantes o mal anudadas distraen. En caso de las mujeres, cuidado con adornos y
+abalorios.»** (8.5, p. 121). Repiten, en corto, las pautas 1, 2, 3, 5 y 6 de los presentadores, y
+añaden tres cosas que el 8.6.1 no dice: que los oscuros estilizan, que el azul es el mejor color en
+los hombres y lo de las corbatas.
 
 Lo que el oficio añade a esas pautas:
 
@@ -454,8 +508,9 @@ Lo que el oficio añade a esas pautas:
 
 Y dos distinciones que conviene no mezclar. El moiré (el «efecto muaré» del punto 5) no lo producen
 los colores fuertes, lo producen las tramas finas. Y el problema del color fuerte (punto 4) tiene dos
-mitades: la saturación es de la señal; el rebote sobre la piel es de la luz: la ropa es una superficie
-iluminada, y devuelve luz de su color hacia lo que tiene encima, que es la cara.
+mitades, y la explicación es de oficio, porque el libro no da el mecanismo: la saturación es de la
+señal; el rebote sobre la piel es de la luz: la ropa es una superficie iluminada, y devuelve luz de
+su color hacia lo que tiene encima, que es la cara.
 
 Hay que separar tres oficios que en la conversación se llaman igual:
 
@@ -1022,10 +1077,10 @@ Tres casos de prueba práctica:
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): anexo I, módulo 0902 (RA 2 y 2.b a 2.e), módulo 0903 (RA 3.c a 3.f, 4.b, 4.c, 4.e), módulo 0904 (RA 4.b, 4.c y contenidos), módulo 0905 (RA 3.a a 3.f, 4 y 4.a a 4.f, contenidos) | Elementos de la puesta en escena, documentos del decorado, dirección de cámaras, movimientos, señalamiento de posiciones, continuidad de la escena, coordinación del plató, ensayos | 24-09-2026 |
+| Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): anexo I, módulo 0902 (RA 2 y 2.b a 2.e), módulo 0903 (RA 3.c a 3.f, 4.b, 4.c, 4.e), módulo 0904 (RA 4.a a 4.c y contenidos), módulo 0905 (RA 3.a a 3.f, 4 y 4.a a 4.f, contenidos) | Elementos de la puesta en escena, documentos del decorado, dirección de cámaras, movimientos, señalamiento de posiciones, continuidad de la escena, coordinación del plató, ensayos | 24-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685, art. séptimo y anexo XLI | Que los módulos citados no se modifican | 24-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): ámbito; UC0216_3 (CR1.1, CR4.1 a CR4.3, CR4.6 a CR4.8, CR5.1 a CR5.6); MF0216_3 (CE5.1 a CE5.3, C8, CE8.2, contenidos) | Marcas en el suelo, movimientos y posiciones, figuración, set virtual, continuidad, comprobaciones de la escena, comunicación con el plató, ensayos | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): ámbito; UC0216_3 (CR1.1, CR4.1 a CR4.3, CR4.6 a CR4.8, CR5.1 a CR5.6); MF0216_3 (CE5.1 a CE5.3, C7 y CE7.1 a CE7.5, C8, CE8.2, contenidos) | Puesta en escena por programa, marcas en el suelo, movimientos y posiciones, figuración, set virtual, continuidad, comprobaciones de la escena, comunicación con el plató, ensayos | 24-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III: fichas 5351000 Realizador (p. 196), 5353000 Ayudante de Realización (p. 111), 5333000 Decorador (p. 123), 5341111 Iluminador Superior (p. 133), 9540003 Estilista (p. 128), 5345100 Grafista (p. 129), 5341310 Cámara Operador (p. 116) | Quién hace qué en la escena; quién rige el plató | 24-09-2026 |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 8.5 y 8.6 (p. 121), 8.6.1 (p. 122) | Vestuario y maquillaje ante la cámara; decorado virtual | 24-09-2026 |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 8.5 y 8.6 (p. 121), 8.6.1 (p. 122) | Vestuario, indumentaria del redactor en plató y maquillaje ante la cámara; decorado virtual | 24-09-2026 |
 | Contrato-programa RTVA 2024-2026, BOJA núm. 245, de 26/12/2023, punto 97; Ley 10/2018, disposición transitoria primera, apartado 5 | Accesibilidad de los platós | 24-09-2026 (en el texto ya cerrado del tema 7 de Productor/a) |
-| Oficio | Definición de puesta en escena y su distinción de la puesta en cuadro y en serie; requisitos del plató; documentos gráficos, planta, alzado, sección, sistemas de representación y perspectiva; piezas y tipos de decorado; ciclorama; estilos escenográficos; ambientación y atrezo; vestuario fuera del Libro de Estilo; maquillaje; reglas de la dirección de cámaras y reparto de tiros; figuración; marcas de cámara; tabla de continuidad; regiduría, señas y oficios del plató; escala de ensayos; aplicación práctica | — |
+| Oficio | Definición de puesta en escena y su distinción de la puesta en cuadro y en serie; requisitos del plató; documentos gráficos, planta, alzado, sección, sistemas de representación y perspectiva; piezas y tipos de decorado; ciclorama; estilos escenográficos; disposiciones del set por tipo de programa; tensado y tipos de ciclorama; mecanismo del color fuerte; ambientación y atrezo; vestuario fuera del Libro de Estilo; maquillaje; reglas de la dirección de cámaras y reparto de tiros; figuración; marcas de cámara; tabla de continuidad; regiduría, señas y oficios del plató; escala de ensayos; aplicación práctica | — |

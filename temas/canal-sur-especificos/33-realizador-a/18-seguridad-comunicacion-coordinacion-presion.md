@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Ley 31/1995, de Prevención de Riesgos Laborales (artículos 4, 20, 21, 24 y 29); Real Decreto 486/1997, de lugares de trabajo (anexo I); Real Decreto 393/2007, Norma Básica de Autoprotección (apartado 3.3 de la Norma; derogado por el Real Decreto 524/2023 y aún aplicable); Real Decreto 171/2004, de coordinación de actividades empresariales (artículo 14.1.b). Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto) y artículos 25, 26, 27 y 31, y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 4, 5 y 9; módulos 0905 y 0909). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Guías técnicas del INSST: NTP 318, 438, 443 y 685. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente el 24-09-2026. Convenio en su texto publicado de 2014 y Libro de Estilo de 2004. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los artículos ni los módulos que se citan. IMS077_3, documento publicado del INCUAL. NTP en la edición que se indica en «Trazabilidad» |
-| Extensión | 11.500 palabras aproximadamente |
+| Extensión | 12.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -38,7 +38,9 @@ la norma de enseñanza en materia de entornos seguros, comunicación, liderazgo 
 criterio fija el Libro de Estilo cuando la información y la seguridad chocan; qué dice la LPRL de las
 medidas de emergencia, del riesgo grave e inminente, del derecho a interrumpir la actividad y de la
 paralización; a quién informa un trabajador de un riesgo; qué personas designa el plan de
-autoprotección; qué es comunicar según la NTP 685 y en qué se distingue de informar; qué requisitos
+autoprotección; qué es comunicar según la NTP 685 y en qué se distingue de informar; cómo clasifica la NTP 685 la
+comunicación (directa o indirecta, formal o informal, individual o genérica, imperativa, exhortativa o informativa, oral,
+escrita o gráfica, vertical u horizontal); qué requisitos
 tiene una comunicación eficaz, qué niveles hay y cuál es el más eficaz; cuáles son las barreras de la
 comunicación; qué diferencia la comunicación vertical de la horizontal y para qué sirve cada una; qué
 variables de un sistema de información revisa la NTP 438; qué dice el Libro de Estilo sobre las
@@ -68,6 +70,7 @@ incidencia de seguridad en plató durante la emisión o coordinar un cambio de e
   - [La seguridad de la emisión](#la-seguridad-de-la-emisión)
 - [2. Comunicación](#2-comunicación)
   - [Comunicar no es informar](#comunicar-no-es-informar)
+  - [Los tipos de comunicación](#los-tipos-de-comunicación)
   - [Qué hace eficaz una comunicación](#qué-hace-eficaz-una-comunicación)
   - [Los niveles de la comunicación: por qué el intercom no basta](#los-niveles-de-la-comunicación-por-qué-el-intercom-no-basta)
   - [Las barreras de la comunicación](#las-barreras-de-la-comunicación)
@@ -491,6 +494,31 @@ por qué las órdenes se fijan antes: **«comprendidas inicialmente de la misma 
 usuarios»**. Y la del *feed-back* explica por qué, en el directo, una orden no está dada hasta que
 se ve cumplida en el monitor o alguien confirma que la ha oído.
 
+### Los tipos de comunicación
+
+La NTP 685 advierte que **«Existen varias clasificaciones de la comunicación»**. La primera, general:
+**«La comunicación se clasifica en directa o indirecta, interpersonal o colectiva.»** Es directa
+**«cuando se efectúa sin intermediario de un emisor a un receptor, un dialogo, un conferencista en el
+auditorio, etc.»**, e indirecta **«cuando se dan contactos inmediatos entre emisor y receptor y se
+interpone un intermediario; un documento, un escrito, un casete, etc.»** (así, «inmediatos», en la
+NTP). Después clasifica los tipos de comunicación por cinco razones:
+
+| Razón | Tipos (literal de la NTP 685) |
+| --- | --- |
+| **«Por razón de los canales que sigue la comunicación y su contenido»** | **«Formal: Se origina en la estructura formal de la organización y fluye a través de los canales organizacionales. Lleva un contenido querido y ordenado por la empresa. (correspondencia, instructivos, manuales, etc.).»** **«Informal: Surge de los grupos informales de la organización y no sigue los canales formales»** (**«comentarios, chismes, rumores, opiniones, etc.»**) |
+| **«Por razón del receptor»** | **«Individual: Cuando va dirigida a una persona en concreto.»** **«Genérica: Cuando va dirigida a un grupo sin precisar nombres de personas.»** |
+| **«Por razón de la obligatoriedad que se espera en la respuesta»** | **«Imperativa: Exige una respuesta precisa.»** **«Exhortativa: Espera una acción sin imponerla obligatoriamente.»** **«Informativa: Simplemente comunica algo, sin señalar nada que se espere, al menos en un plazo inmediato.»** |
+| **«Por razón de su forma de ser»** | **«Oral»**, **«Escrita»**, **«Gráfica»** |
+| **«Por su sentido»** | **«Vertical: Cuando fluye de un nivel administrativo superior a uno inferior: "ordenes o instrucciones" o viceversa "quejas, reportes, sugerencias".»** **«Horizontal: Se da en niveles jerárquicos semejantes: "memoranda, circulares, juntas, etc."»** |
+
+En el control (lectura de este tema, no de la NTP): la orden del realizador por el intercom es
+comunicación formal, oral, vertical descendente e imperativa —exige una respuesta precisa: que el
+puesto la cumpla o avise de que no puede—; si va a un puesto con nombre es individual («cámara
+dos...»), y si va a todos, genérica («atención, control: entramos en diez»). El aviso de un cámara al
+realizador es vertical ascendente; lo que se acuerdan el mezclador y el grafista, horizontal. La
+escaleta y la tablilla son comunicación escrita; los carteles de regiduría y las marcas en el suelo,
+gráfica. Cómo ve la NTP 438 la vertical y la horizontal se estudia más abajo.
+
 ### Qué hace eficaz una comunicación
 
 La misma NTP 685 da los requisitos de la comunicación efectiva. Los que más pesan en el control:
@@ -713,11 +741,16 @@ La norma de enseñanza pone la coordinación del plató en el ensayo (0905, RA 4
   comunicar a los equipos de cámara, sonido, iluminación y efectos especiales durante la realización
   del programa.»**
 
-Y el módulo de regiduría de espectáculos (0909) añade tres piezas que sirven a cualquier
+Y el módulo de regiduría de espectáculos (0909) añade cuatro piezas que sirven a cualquier
 retransmisión:
 
 - **«Se ha especificado un procedimiento de preparación de los elementos y materiales precisos para
   el ensayo y un sistema de comunicación de incidencias.»** (RA 1.c).
+- **«Se ha diseñado un sistema de comunicación que garantice la efectiva transmisión de la
+  información relevante en todas las direcciones, sirviéndose de los medios más adecuados como el
+  panel informativo actualizado, la tablilla diaria y las citaciones y convocatorias.»** (RA 1.f).
+  «En todas las direcciones» (lectura de este tema): hacia abajo, hacia arriba y entre iguales, que
+  es lo que la NTP 685 llama comunicación vertical, en sus dos sentidos, y horizontal.
 - **«Se ha planificado un sistema para verificar el funcionamiento de todos los sistemas de
   comunicación y señalización entre los departamentos implicados en la representación.»** (RA 4.e).
 - **«Se ha especificado un sistema para dar la orden de comienzo del espectáculo a partir de la
@@ -756,6 +789,16 @@ técnico-artístico:
 - d) **«Se ha adoptado un sistema de toma de decisiones que tenga en consideración las consecuencias
   y los riesgos asociados a las mismas y que consiga, al tiempo, el mayor grado de aceptación entre
   los intervinientes en la gestión del proyecto.»**
+
+Y el mismo RA 2 cierra con la comprobación del plan de trabajo y los imprevistos:
+
+- f) **«Se ha dispuesto un sistema de comprobación del cumplimiento del plan de trabajo en los
+  ensayos, así como de resolución de imprevistos mediante la aportación de ideas y la negociación con
+  los responsables implicados en el problema: dirección artística, producción y dirección técnica.»**
+
+El imprevisto, por tanto, no lo resuelve el realizador solo: se negocia con las tres responsabilidades
+que la norma nombra, que en un programa de televisión son la dirección del programa, la producción y
+la dirección técnica (lectura de este tema).
 
 La norma no dice qué estilo de mando es el bueno. La NTP 438 sí da pistas desde la prevención del
 estrés. Reconoce que una organización necesita **«del ejercicio del poder para unificar las posibles
@@ -939,7 +982,7 @@ norma que respalda cada paso):
 | 1. Recibir el aviso | El realizador lo confirma en voz alta por el intercom para que todos sepan que se ha oído | NTP 685 (la comunicación necesita *feed-back*); LPRL, artículo 29.2.4.º (el deber de avisar) |
 | 2. Proteger a las personas | La regiduría y el personal designado atienden a la persona; se avisa a quien tiene la emergencia a su cargo; se aparta la grúa y se deja libre el paso | LPRL, artículo 20; RD 486/1997, anexo I, 10.8.º; LE 5.6 |
 | 3. Proteger la emisión sin exponer a nadie | Ninguna cámara enfoca a la persona atendida; el realizador sigue con los planos del set, o se va a una pieza o a publicidad de acuerdo con la dirección del programa | LE 6.5.2 (decisiones de forma, con la salvedad de producción); LE 5.6 (alternativa inmediata) |
-| 4. Informar al presentador | Por el IFB, una sola frase: qué pasa y qué se va a hacer | NTP 438 (sencillez y claridad); NTP 685 (nivel de comunicación sin respuesta) |
+| 4. Informar al presentador | Por el IFB, una sola frase: qué pasa y qué se va a hacer | NTP 438 (sencillez y claridad); NTP 685 (nivel tres, aplicado por este tema al IFB) |
 | 5. Ordenar al equipo | Una orden cada vez, a un destinatario, por el canal de cada uno; silencio en el intercom de quien no interviene | NTP 685 (barreras: ruidos, interrumpir); IMS077_3, CR5.3 y CR5.4 |
 | 6. Volver o suspender | Si la situación se resuelve, se vuelve al plató; si hay que desalojar, se siguen las instrucciones del director del plan y se suspende | NBA, 3.3.6 y 3.3.8; RD 1680/2011, 0909, RA 5.d |
 | 7. Después | Anotar la incidencia en el guion y en el parte; informar por el cauce preventivo; revisar qué se puede prever la próxima vez | IMS077_3, CE1.9 y CE2.3; LPRL, artículo 29.2.4.º; LE 4.4.4, punto 4 |
@@ -956,7 +999,7 @@ el bloque para mover la grúa, ni dar varias órdenes a la vez a gritos.
 | Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (derogada por el Real Decreto 524/2023; se sigue aplicando hasta que se apruebe el instrumento que la sustituya) | Norma, apartados 3.3.2, 3.3.3.c), 3.3.5, 3.3.6 y 3.3.8 |
 | Real Decreto 171/2004, de 30 de enero, coordinación de actividades empresariales | Artículo 14.1.b) |
 | Estatuto de los Trabajadores | Artículo 58.1, por remisión del artículo 29.3 de la LPRL |
-| Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos | Artículos 4, 5 (letras d, e, g, k, l, m y n) y 9 (letras p, q y r); módulo 0905, RA 1.f, 3.a, 3.e, 3.f, 4.a, 4.c a 4.f; módulo 0909, RA 1.c, 1.e, 2.a a 2.e, 4.b, 4.e a 4.g, 5.c a 5.e |
+| Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos | Artículos 4, 5 (letras d, e, g, k, l, m y n) y 9 (letras p, q y r); módulo 0905, RA 1.f, 3.a, 3.e, 3.f, 4.a, 4.c a 4.f; módulo 0909, RA 1.c, 1.e, 1.f, 2.a a 2.f, 4.b, 4.e a 4.g, 5.c a 5.e |
 | Real Decreto 500/2024, de 21 de mayo | Sólo para comprobar que no modifica lo citado del RD 1680/2011 |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-12-2014) | Anexo III, fichas 5351000 (Realizador) y 5353000 (Ayudante de Realización); artículos 25, 26, 27 y 31 |
 
@@ -1001,6 +1044,6 @@ ninguno de los textos citados ha cambiado entre esas fechas.
 | Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía | RTVA, 1.ª ed., marzo de 2004 | Introducción del capítulo 4; 4.4.4 (puntos 1, 3, 4 y 6); 5.6; 6.1; 6.5, 6.5.1 y 6.5.2; 8.1 (puntos 6, 7 y 9) |
 | INSST, NTP 318 (1991) y NTP 443 (1995) | A través del tema 14 de Productor/a | Definición de estrés, estresores, síndrome general de adaptación, factores psicosociales |
 | INSST, NTP 438 *Prevención del estrés: intervención sobre la organización* | Año 1995 según la propia nota; F. Martín Daza y C. Nogareda Cuixart | Comunicación como estresor; variables del sistema de información; comunicación vertical y horizontal; ejercicio del poder; prioridad de las medidas organizativas |
-| INSST, NTP 685 *La comunicación en las organizaciones* | Año 2003; J. Llacuna Morera y L. Pujol Franco | Definición y elementos; información y comunicación; requisitos; niveles; barreras |
+| INSST, NTP 685 *La comunicación en las organizaciones* | Año 2003; J. Llacuna Morera y L. Pujol Franco | Definición y elementos; información y comunicación; clasificaciones de la comunicación; requisitos; niveles; barreras |
 | Clear-Com, *Interruptible Fold Back* (título en inglés del documento) | Fabricante de intercom, 16-03-2021 | Desarrollo de la sigla IFB |
 | Oficio | Práctica profesional, no norma | Las dos seguridades; riesgos del plató por movimientos ordenados desde el control; aplicación de las NTP al control; canales; orden de prioridades; supuesto práctico |

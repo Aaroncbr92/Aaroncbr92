@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley 18/2007, de la RTVA; Ley 27/2007, de lenguas de signos; Ley 11/2011 de Andalucía, de lengua de signos española; Ley Orgánica 1/1996, de Protección Jurídica del Menor; Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 4/2017 de Andalucía; Ley Orgánica 1/2004; Ley 4/2015; Ley de Enjuiciamiento Criminal (art. 681); Constitución Española, art. 49; Carta del Servicio Público de la RTVA 2024-2029 y Contrato-programa 2024-2026; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (2004). Normas técnicas UNE 153010:2012 y 153020:2005, sólo por su ficha de catálogo y por la síntesis de la Universidad de Burgos; ETSI EN 300 743. Como guía de buenas prácticas, no norma: *Guía de buenas prácticas para la incorporación de la lengua de signos española en televisión* (Real Patronato sobre Discapacidad y CNLSE, 2017) y Guía del Consejo Audiovisual de Andalucía sobre discapacidad (2025). Recomendación UIT-R BT.1702-3 (2023), sobre epilepsia fotosensible. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (las leyes 27/2007 y 11/2011 y la UIT-R BT.1702-3, leídas el 29-09-2026); Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., 2004. Los pasajes tomados de los temas cerrados de Canal Sur (Operador/a Montador/a de Vídeo, Redactor/a y Cámara Operador), en la redacción vigente el 24-09-2026 |
-| Extensión | 26.700 palabras aproximadamente |
+| Extensión | 27.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -772,10 +772,13 @@ Lo demás que toca a un medio:
   la legislación electoral y sindical»**, sean plenamente accesibles **«mediante su emisión o
   distribución a través de medios de apoyo a la comunicación oral»** (22.1).
 - Quién signa: el **«Intérprete de lengua de signos»** es el **«Profesional que interpreta y traduce la
-  información de la lengua de signos a la lengua oral y escrita y viceversa»** (4.i); los medios de
+  información de la lengua de signos a la lengua oral y escrita y viceversa con el fin de asegurar la
+  comunicación entre las personas sordas, con discapacidad auditiva y sordociegas, que sean usuarias de
+  esta lengua, y su entorno social.»** (4.i); los medios de
   apoyo a la comunicación oral son **«aquellos códigos y medios de comunicación, así como los recursos
   tecnológicos y ayudas técnicas usados por las personas sordas, con discapacidad auditiva y
-  sordociegas que facilitan el acceso a la expresión verbal y escrita de la lengua oral»** (4.c).
+  sordociegas que facilitan el acceso a la expresión verbal y escrita de la lengua oral, favoreciendo
+  una comunicación con el entorno más plena.»** (4.c).
 
 ### La Ley 11/2011 de Andalucía
 
@@ -878,10 +881,19 @@ la silueta del intérprete frente a la ventana»**.
   usuarios.»**
 - Personas sordociegas: **«pueden requerir un tamaño mayor de la persona que signa y una ventana cuyo
   fondo sea liso y de color oscuro»**.
+- Relevancia del signado: **«En la composición deben prevalecer las implementaciones que den
+  relevancia a la lengua de signos respecto a la señal del programa, pudiendo esta situarse en una
+  ventana detrás del intérprete (parcialmente ocluida).»**
+- Género: **«distintos géneros pueden requerir distintas composiciones de la lengua de signos. Así,
+  algunas obras audiovisuales requerirán minimizar el área de la pantalla ocupada por la lengua de
+  signos, mientras que otros programas no tendrán requisitos estrictos en este sentido.»**
 - **«Se recomienda hacer desaparecer la figura del signante mientras no haya contenido verbal que
   traducir»**.
 - **«Observar escrupulosamente que ningún detalle ni del grafismo, mosca, simbología, señalética,
   invada el espacio reservado a la lengua de signos.»**
+- Interacción: **«Se recomienda, a su vez, que la persona que signa interaccione con lo que aparezca en
+  pantalla (por ejemplo, señalando a personajes o identificando elementos gráficos presentes), de modo
+  que se logre una mayor integración entre el servicio de lengua de signos y la obra audiovisual.»**
 - **«Tener en cuenta que ambas ventanas (signado y contenido) se ubiquen a la misma altura»**.
 
 **Apariencia del intérprete (6.3.2)**: ropa con **«un alto contraste con su color de piel»** y de
@@ -935,11 +947,11 @@ Lo que la guía del CNLSE deja a la realización, ordenado como se prepara un pr
 
 | Fase | Qué se decide | Criterio |
 | --- | --- | --- |
-| Composición | Silueta o ventana; lado; tamaño; sitio del subtítulo | Silueta preferida por los usuarios; izquierda si no es configurable; al menos 1/6 de la pantalla según CENELEC y Ofcom; espacios diferenciados para subtítulo y signado; ningún grafismo ni mosca en el espacio del intérprete; ventanas a la misma altura; márgenes de seguridad |
+| Composición | Silueta o ventana; lado; tamaño; sitio del subtítulo; peso del signado frente a la señal del programa | Que prevalezca la relevancia de la lengua de signos (la señal del programa puede ir en una ventana detrás del intérprete, parcialmente ocluida); la composición según el género (en unos, minimizar el área del signado; en otros, sin requisitos estrictos); silueta preferida por los usuarios; izquierda si no es configurable; al menos 1/6 de la pantalla según CENELEC y Ofcom; espacios diferenciados para subtítulo y signado; ningún grafismo ni mosca en el espacio del intérprete; ventanas a la misma altura; márgenes de seguridad |
 | Plató del intérprete | Fondo, luz, ropa | Fondo liso, homogéneo, no brillante (croma en silueta); al menos cinco puntos de luz en croma; sin sombras en rostro ni fondo; ropa lisa y contrastada, sin joyas |
 | Cámara | Plano, altura, obturación, formato | Plano medio largo con un palmo de aire; frontal, a la altura de los ojos; 1/250 s recomendado; progresivo mejor que entrelazado |
 | Directo | Retorno y comunicación | Visión del conjunto, monitores, audio de calidad, comunicación con el personal técnico antes y durante; contar con la demora de la interpretación |
-| Emisión | Cuándo aparece | Hacer desaparecer al intérprete cuando no hay texto que traducir; señalizar el programa en pantalla y en la EPG |
+| Emisión | Cuándo aparece y cómo se integra | Hacer desaparecer al intérprete cuando no hay texto que traducir; que el intérprete interactúe con lo que hay en pantalla (señalar personajes, identificar gráficos); señalizar el programa en pantalla y en la EPG |
 
 Dos consecuencias de oficio, no de la guía: el retorno del intérprete es un retorno más del control
 (el tema 11 estudia los retornos), y el plano que no puede tapar el intérprete (un gráfico, un
@@ -948,7 +960,12 @@ marcador, un rótulo) se compone contando con la ventana desde el ensayo, no en 
 La guía del CNLSE (2017) describe la emisión simultánea del mismo programa por dos canales, uno de ellos
 con lengua de signos, y añade: **«Esta es el modo escogido por la televisión autonómica andaluza
 Canal Sur para ofrecer el servicio de lengua de signos en toda su programación a través de su
-segundo canal»** [sic] (5.3). Si sigue siendo así, y cómo incorpora Canal Sur hoy la lengua de
+segundo canal»** [sic] (5.3). En su repaso histórico, la misma guía recuerda que el espacio
+«Telesigno», creado en 1993 por la productora Signovisión y emitido primero en Euskal Telebista, pasó
+en 1994 a Canal Sur, **«donde continuó en su parrilla de programación hasta 2012»**, y que **«En octubre
+de 2012, Canal Sur decide convertir Canal Sur 2 en una cadena dedicada a dotar de accesibilidad los
+contenidos ofrecidos en su canal principal. De esta forma, Canal Sur incorporó la interpretación en
+lengua de signos española para toda su programación.»** Son datos de la guía, de 2017. Si sigue siendo así, y cómo incorpora Canal Sur hoy la lengua de
 signos (silueta o ventana, lado, tamaño, plató del intérprete), no consta en un documento publicado
 de la RTVA.
 
@@ -1231,9 +1248,13 @@ Lo que de todo lo anterior pasa por el control (la norma, citada; su aplicación
   El público infantil de un plató entra en esa regla (oficio).
 - *El directo.* Si en una conexión aparece un menor en uno de los tres supuestos del 95.2 (hechos
   delictivos, una disputa de tutela o filiación, una víctima de violencia), la realización no lo saca en plano
-  identificable: cambia de fuente o abre el plano (oficio). En diferido, la pieza se interviene:
-  **«es obligatoria la intervención sobre imagen y sonido para evitar su identificación»** (Libro de
-  estilo 9.4.2.1), con los rostros **«cubiertos o tramados»** (9.9). Los recursos de máscara del
+  identificable: cambia de fuente o abre el plano (oficio). En diferido, la pieza se interviene para que el menor no
+  sea identificable (aplicación del 95.2 y oficio). El Libro de estilo lo exige expresamente en un
+  supuesto: si, pese a la regla de no hacerlo, se entrevista a menores **«sobre temas relacionados con
+  actividades delictivas o que violen su privacidad»**, **«es obligatoria la intervención sobre imagen
+  y sonido para evitar su identificación»** (9.4.2.1). Y para los menores, las víctimas de un delito, los testigos
+  protegidos o los miembros de las fuerzas de seguridad y su familia, sus imágenes **«no se emitirán si existe un factor de riesgo.
+  Sus rostros serán cubiertos o tramados»** (9.9). Los recursos de máscara del
   mezclador y del grafismo están en los temas 9 y 12.
 - *Destellos.* Los niños y los jóvenes menores de 20 años son la población más propensa a la fotosensibilidad
   (recomendación UIT-R BT.1702, epígrafe 9): la programación infantil y sus promociones son donde más
@@ -1845,7 +1866,7 @@ supervisa el montaje de lo postproducido (la aplicación es oficio; cada pauta, 
 | Recursos que ilustran una pieza sobre una minoría | Imágenes de esa noticia, no de otra historia | Libro de estilo 9.3.5.1 |
 | Debates sobre un colectivo | Representantes reales del grupo en plató, también como expertos en otros asuntos | Libro de estilo 9.3.5.3 |
 | Salud mental | Ninguna imagen de hechos violentos ni de otras patologías para ilustrarla | Libro de estilo 9.7.2.2 y 9.7.2.3 |
-| Público y encuestas | Que la diversidad de la sociedad se vea también cuando la noticia no trata de ella | Libro de estilo 9.7.3.1 («elemento visible»); Guía del CAA, recomendación 6 |
+| Público y encuestas | Que las personas con discapacidad se vean en los informativos también cuando la noticia no trata de ellas; extenderlo a toda la diversidad de la sociedad es oficio | Libro de estilo 9.7.3.1 («elemento visible», dicho de las personas con discapacidad); Guía del CAA, recomendación 6 |
 
 ## 8. Lenguaje inclusivo
 
@@ -2166,7 +2187,7 @@ mencionan a continuación»**: el área de intermitencias simultáneas **«ocupa
 pantalla»**, **«y»** **«hay más de tres intermitencias (es decir, seis cambios de luminancia como se
 describe a continuación) en el lapso de un segundo»**. La cuenta práctica: se aceptan las
 intermitencias cuyos flancos estén **«separados por 360 ms o más»** en un entorno de 50 Hz (334 ms en
-60 Hz). *Nota declarada: el texto español introduce la lista con «algunos de los fenómenos» y la cierra
+60 Hz), **«independientemente del brillo o de la zona de pantalla»**. *Nota declarada: el texto español introduce la lista con «algunos de los fenómenos» y la cierra
 con «y»; este tema da las dos condiciones como las escribe la recomendación y no resuelve si basta una.*
 
 Dos reglas que tocan el montaje y el mezclador:
@@ -2348,7 +2369,7 @@ guías, y lo que es oficio:
 | Tema 12 del específico de Cámara Operador de Canal Sur (cerrado): LGCA arts. 83, 95, 96, 155, 157; LAA arts. 31.1, 66.3.c); LO 1/1996 art. 4; LO 1/2004 arts. 14 y 63.1; LO 1/1982 arts. 4 y 7.8; Ley 4/2015 arts. 22 y 34; LECrim art. 681; Libro de estilo 9.2.12, 9.4, 9.5, 9.9; Carta art. 17.1 | Epígrafes 5 y 9 (copiado literal) | Según ese tema (24-09-2026) |
 | Ley 27/2007 (BOE-A-2007-18476, consolidado): arts. 1, 4, 14 (dos redacciones; vigente la de BOE-A-2011-13241, desde 03-08-2011), 22 y 23 | Epígrafe 4 | 29-09-2026 |
 | Ley 11/2011 de Andalucía (BOE-A-2011-20375, consolidado, una redacción, desde 15-01-2012): arts. 5 y 16 | Epígrafe 4 | 29-09-2026 |
-| Real Patronato sobre Discapacidad y CNLSE, *Guía de buenas prácticas para la incorporación de la lengua de signos española en televisión*, 2017, NIPO 689-17-006-0: créditos, capítulo 5 (5.1, 5.2, 5.3, 5.3.1), 6.1, 6.2, 6.3.1, 6.3.2, 6.3.3 y 6.4 | Epígrafes 4 y aplicación práctica | 29-09-2026 |
+| Real Patronato sobre Discapacidad y CNLSE, *Guía de buenas prácticas para la incorporación de la lengua de signos española en televisión*, 2017, NIPO 689-17-006-0: créditos, pp. 11-12 (historia: «Telesigno» y Canal Sur 2), capítulo 5 (5.1, 5.2, 5.3, 5.3.1), 6.1, 6.2, 6.3.1, 6.3.2, 6.3.3 y 6.4 | Epígrafes 4 y aplicación práctica | 29-09-2026 |
 | Recomendación UIT-R BT.1702-3 (11/2023), versión española, y su página en itu.int (estado «En vigor») | Epígrafe 9 | 29-09-2026 |
 | Ley 26/2011 (BOE-A-2011-13241): artículo 2, que modifica los artículos 14.1 y 14.3 de la Ley 27/2007; título, según el sumario del BOE | Epígrafe 4 | 29-09-2026 |
 | LGCA (BOE-A-2022-11311, volcado consolidado del 24-09-2026): arts. 6.1, 95.1-2, 98.1, 99.1, 99.2.c), 101.3 y 102.2 | Epígrafes 3, 5, 6 y aplicación práctica | 29-09-2026 |

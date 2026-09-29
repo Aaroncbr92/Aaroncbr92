@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-26 (Canal Sur · específicos: 5 puestos cerrados)
+**Última actualización:** 2026-09-26 (Canal Sur · específicos: 6 puestos cerrados)
 
 ## Qué es esto
 
@@ -1852,10 +1852,11 @@ con los datos de cada puesto en `informes/canal-sur-especificos/PP-args.json` (s
 | 28 Operador/a de Sonido | 21 | 16 | cerrado | `libro-canal-sur-28-sonido.*` (402 pp.) |
 | 30 Operador/a Montador/a de Vídeo | 17 | 16 | cerrado | `libro-canal-sur-30-montador.*` (397 pp.) |
 | 32 Productor/a | 14 | 15 | cerrado | `libro-canal-sur-32-productor.*` (483 pp.) |
+| 33 Realizador/a | 8 | 19 | cerrado | `libro-canal-sur-33-realizador.*` (643 pp.) |
 
-Cinco puestos cerrados: 134 de las 228 plazas (59 %) tienen ya temario completo, común y específico.
+Seis puestos cerrados: 142 de las 228 plazas (62 %) tienen ya temario completo, común y específico.
 
-Siguiente puesto por plazas: 33 Realizador/a (8 plazas, 19 temas).
+Siguiente puesto por plazas: 15 Grafista (7 plazas, 18 temas).
 
 Decisión pendiente del titular: extensión objetivo de los temas técnicos (ahora ~11.000 palabras
 por tema; propuesta 6.000-8.000 para rebajar el gasto por puesto, hoy 13-15 M de tokens).

@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule cómo se realiza un directo. Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto), y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0903, 0904 y 0905). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Guías técnicas del INSST: NTP 438 y NTP 685. Documentación de fabricante: Autocue (prompter). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004, leídos el 24-09-2026. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca ni el artículo 5 ni los módulos que se citan (leído el 24-09-2026). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), leído el 24-09-2026. NTP 438 (1995) y NTP 685 (2003) y documentación de Autocue en su versión web, leídas el 29-09-2026 |
-| Extensión | 10.400 palabras aproximadamente |
+| Extensión | 10.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -153,14 +153,18 @@ Tres maneras de trabajar en multicámara que conviene distinguir (oficio, salvo 
 |---|---|---|
 | Directo | Lo que se realiza sale al aire en el momento | Todo error se ve; no hay repetición |
 | Grabado «como en directo» | Se graba seguido y se corta en el control | Se puede parar y repetir; el montaje posterior es mínimo |
-| Falso directo | Se graba sin interrupciones y se emite después como si fuera directo | El Libro de Estilo pide erradicarlo o declararlo |
+| Falso directo | Se graba sin interrupciones y se emite después como si fuera directo | En la presencia en directo del periodista, el Libro de Estilo pide erradicarlo y, si no, declararlo (8.3.3); en la entrevista grabada lo admite |
 
 El Libro de Estilo define el falso directo al hablar de la entrevista en plató: **«la entrevista
 emitida en directo desde estudio o a la que ha sido grabada, sin interrupciones, para su posterior
 emisión con la técnica conocida profesionalmente como ‘falso directo’.»** (3.17.2). Y al hablar de la
 presencia en directo del periodista fija la regla: **«El uso de la modalidad de falso directo debe
 erradicarse»**; si no se puede resolver por dificultad técnica o por ausencia de franja horaria, se
-revisa el formato, y **«Si el directo es falso, lo haremos constar»** (8.3.3).
+revisa el formato, y **«Si el directo es falso, lo haremos constar»** (8.3.3). La regla vale para
+esa presencia en directo, no para toda grabación: para la entrevista fuera de plató grabada en una
+unidad móvil, el mismo Libro de Estilo dice que **«tenderemos a la fórmula de falso directo (sin
+interrupciones)»** (3.17.1), y para la entrevista en plató describe el falso directo como técnica
+(3.17.2), sin proscribirla.
 
 ### Quién hace qué en el directo
 
@@ -349,7 +353,10 @@ anticipación de vídeos en la asistencia a la realización en control.»** La c
 pone el aviso en la segunda realización profesional del ayudante en el control: **«RP2: Controlar la emisión de
 fuentes de video y/o audio, conexiones en directo, pausas previstas, actuaciones artísticas y
 lanzamiento de rótulos, previniendo a todo el equipo de realización y técnico, siguiendo las
-indicaciones de la escaleta y atendiendo cualquier eventualidad.»** (UC0217_3, p. 7).
+indicaciones de la escaleta y atendiendo cualquier eventualidad.»** (UC0217_3, p. 7). Y en el supuesto
+práctico de realización multicámara del módulo formativo la llamada aparece como tarea propia:
+**«Prevenir a los miembros del equipo con la suficiente antelación y utilizando los códigos y equipos
+precisos, de los tiempos totales y parciales y de las fases del programa.»** (MF0217_3, CE1.9, p. 19).
 
 ### Lo que canta la asistencia en el control
 
@@ -391,8 +398,15 @@ total de la pieza, los tiempos parciales, las incidencias sobre el coleo de sali
 cuenta atrás se comunican al equipo del control de realización con precisión y siguiendo su protocolo
 de actuación.»** (UC0217_3, p. 8).
 
-La secuencia de una llamada de vídeo, ordenada con esos dos textos (el orden y las fórmulas son
-oficio):
+Los pies de la pieza se dejan escritos antes de emitir: **«CR1.5 Los pies de texto de salida a video y el pie de
+vuelta de video se anotan en el guion y/o escaleta de forma breve y clara para que pueda ser
+fácilmente reconocible por el resto del equipo.»** (UC0217_3, p. 7). Y el lanzamiento tiene su propio
+criterio: **«CR2.3 El lanzamiento del vídeo (pieza, total o colas) se ejecuta según las indicaciones
+del realizador, ajustándolo al primer fotograma con una imagen visible del montaje.»** (UC0217_3,
+p. 8).
+
+La secuencia de una llamada de vídeo, ordenada con los dos criterios del RD y el CR2.2 (el orden y
+las fórmulas son oficio):
 
 | Momento | Qué se canta | Para quién |
 |---|---|---|
@@ -401,7 +415,7 @@ oficio):
 | Mientras corre | El tiempo que queda, a intervalos; los cambios de plano y el congelado final si lo hay | Realizador, plató (por la regiduría) |
 | Al final | Cuenta atrás de los últimos segundos y el pie de salida | Realizador, mezclador, sonido, plató |
 
-Tres datos de esa lista evitan los errores más frecuentes (oficio): el coleo de entrada, porque si el
+Tres datos de esas listas del RD y del CR2.2 evitan los errores más frecuentes (oficio): el coleo de entrada, porque si el
 vídeo arranca en negro o en un plano malo hay que saberlo antes; la naturaleza de la pieza, porque
 unas colas se leen con el micrófono del presentador abierto y un total se escucha con el suyo cerrado;
 y el pie de salida, porque es la señal de que el plató vuelve.
@@ -520,9 +534,10 @@ pide a la asistencia al hablar de **«anticipando las órdenes al equipo técnic
 cámara.»** (UC0217_3, CR2.1).
 
 Por qué dos tiempos (oficio): el operador de cámara necesita encuadrar antes de que su cámara salga;
-el operador de vídeo necesita tener la pieza cargada y en su primer fotograma; el de sonido, el
-micrófono listo. Una orden de ejecución sin aviso previo llega tarde; un aviso sin ejecución deja al
-equipo esperando. El aviso fija, además, qué va a pasar; la ejecución, cuándo.
+el operador de vídeo necesita tener la pieza cargada y en su primer fotograma (la cualificación
+pide ajustar el lanzamiento **«al primer fotograma con una imagen visible del montaje»**, UC0217_3,
+CR2.3); el de sonido, el micrófono listo. Una orden de ejecución sin aviso previo llega tarde; un
+aviso sin ejecución deja al equipo esperando. El aviso fija, además, qué va a pasar; la ejecución, cuándo.
 
 ### Las fórmulas
 
@@ -544,6 +559,10 @@ Tres reglas de oficio que valen para cualquier fórmula: la orden nombra siempre
 de la cámara, el nombre del puesto) antes de lo que se pide; se usan siempre las mismas palabras para
 lo mismo, las que el equipo ha ensayado; y la ejecución es una palabra, no una frase, porque tiene que
 coincidir con un instante.
+
+El rótulo no se lanza a ojo: **«CR2.5 El lanzamiento de los rótulos se ejecuta en los códigos de
+tiempo de entrada y salida reflejados en el parte de emisión y en el orden establecido por
+realización y redacción.»** (UC0217_3, p. 8).
 
 ### Cómo se da una orden
 
@@ -710,7 +729,10 @@ El Libro de Estilo fija tres reglas:
 - **«Cualquier cambio del contenido de la escaleta debe comunicarse, desde el origen de la decisión,
   inmediata y simultáneamente, a todas las personas y departamentos afectados.»** (6.1).
 - **«Son inadmisibles los cambios en la identiﬁcación de un vídeo por la confusión y los errores que
-  causan. El nombre de una noticia en escaleta debe respetarse por obligación.»** (6.1.1).
+  causan. El nombre de una noticia en escaleta debe respetarse por obligación.»** (6.1.1). Con una
+  salvedad, en el mismo punto: **«La única excepción es si un vídeo ha sido terminado antes de la
+  elaboración de la escaleta, en cuyo caso es el equipo de edición quien está obligado a trasladar a
+  la misma el nombre asignado por el autor del trabajo o, en su caso, adaptarlo.»**
 - Las propuestas e intercambios de información entre periodistas, técnicos y productores **«nunca se
   formularán de viva voz, sino por un medio del que quede constancia, sobre todo en asuntos de
   envergadura. El acuerdo ﬁnal es obligatorio para todos.»** (4.4.4, punto 6). La regla es de
@@ -883,6 +905,27 @@ Tres incidencias sobre ese bloque, resueltas con las fuentes:
   CR2.7); ellos deciden qué se acorta —la entrevista de la mesa, que era el tramo elástico—; la
   regiduría lo traslada al presentador por señas o por su IFB.
 
+El supuesto práctico de realización multicámara que la cualificación pone al módulo formativo
+(MF0217_3, CE1.9, pp. 18-19), **«mediante guion o escaleta»**, tiene diez tareas, que sirven de guion
+para contestar uno de la prueba:
+
+1. **«Elaborar el desglose de los bloques de grabación.»**
+2. **«Seleccionar el material y equipo técnico necesario.»**
+3. **«Seleccionar el material audiovisual e infográfico necesario.»**
+4. **«Planificar la grabación.»**
+5. **«Colocar en la planta de decorado o set la ubicación y movimiento de los elementos técnicos y
+   participantes.»**
+6. **«Identificar y comunicar a los técnicos y participantes la información, las acciones y la
+   correcta ejecución del programa en sus parámetros técnicos.»**
+7. **«Realizar el programa.»**
+8. **«Prevenir a los miembros del equipo con la suficiente antelación y utilizando los códigos y
+   equipos precisos, de los tiempos totales y parciales y de las fases del programa.»**
+9. **«Anotar en el guion las incidencias de la realización.»**
+10. **«Analizar el resultado y elaborar un informe justificando las acciones y decisiones tomadas.»**
+
+La hora de entrada en antena no figura en esa lista: su comunicación al control de continuidad es
+criterio de la unidad de competencia (UC0217_3, CR2.6).
+
 Un orden de razonamiento útil para la prueba práctica: primero, qué se ensaya y qué se prueba antes
 de entrar; después, qué se avisa, a quién y con cuánta antelación; después, qué se ordena y en qué
 instante; y, ante cada fallo, quién lo detecta, quién decide y cuál era la salida preparada.
@@ -922,9 +965,9 @@ instante; y, ante cada fallo, quién lo detecta, quién decide y cuál era la sa
 |---|---|---|
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): artículo 5, letras g) y k); módulo 0903 (RA 3.f); módulo 0904 (contenidos); módulo 0905 (RA 1.a, 1.d, 1.f; RA 2 y 2.a a 2.e; RA 3 y 3.a a 3.h; RA 4, 4.a y 4.f; RA 6.f; contenidos) | Realización multicámara, montaje en vivo, señales grabadas, ensayos, anticipación, órdenes, prevención de errores de encuadre, contingencias | 24-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685 | Que no modifica el artículo 5 ni los módulos citados | 24-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR4.4, CR4.7, CR5.1 a CR5.6); UC0217_3 (RP1, CR1.2, CR1.4, CR1.6 a CR1.8, RP2, CR2.1, CR2.2, CR2.4, CR2.6 a CR2.8); MF0216_3 (C8, CE8.1, CE8.2); MF0217_3 (C1, CE1.4 a CE1.9; C2, CE2.1 a CE2.3; contenidos) | Ensayos, comprobaciones, llamadas, órdenes, incidencias, anotación | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR4.4, CR4.7, CR5.1 a CR5.6); UC0217_3 (RP1, CR1.2, CR1.4 a CR1.8, RP2, CR2.1 a CR2.8); MF0216_3 (C8, CE8.1, CE8.2); MF0217_3 (C1, CE1.4 a CE1.9; C2, CE2.1 a CE2.3; contenidos) | Ensayos, comprobaciones, llamadas, órdenes, lanzamiento de vídeos y rótulos, pies, incidencias, anotación, tareas del supuesto práctico | 24-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III: fichas 5351000 Realizador (p. 196) y 5353000 Ayudante de Realización (p. 111) | Quién coordina y quién rige el plató en ensayos y directo | 24-09-2026 |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.2.1, 3.9.1, 3.10, 3.17.2, 4.4.4 (puntos 4 y 6), 6.1, 6.1.1, 6.5, 6.5.1, 6.5.2, 8.1 (puntos 6, 7 y 9), 8.3, 8.3.3 | Falso directo, pacto del directo, improvisación, errores repetidos, escaleta y cambios, criterio ante defectos técnicos, autoridad del realizador | 24-09-2026 |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.2.1, 3.9.1, 3.10, 3.17.1, 3.17.2, 4.4.4 (puntos 4 y 6), 6.1, 6.1.1, 6.5, 6.5.1, 6.5.2, 8.1 (puntos 6, 7 y 9), 8.3, 8.3.3 | Falso directo (y su admisión en la entrevista grabada), pacto del directo, improvisación, errores repetidos, escaleta y cambios, criterio ante defectos técnicos, autoridad del realizador | 24-09-2026 |
 | INSST, NTP 438 *Prevención del estrés: intervención sobre la organización* (1995) y NTP 685 *La comunicación en las organizaciones* (2003) | Claridad de las órdenes, órdenes contradictorias, barreras de la comunicación, comunicación formal por escrito | 29-09-2026 |
 | Autocue, glosario *Prompting A-Z* (web del fabricante) | Funciones del prompter para cambios de escaleta: *Drop*, *Cloak*, *Blank screen* | 29-09-2026 |
 | Oficio | Distinción entre directo, grabado «como en directo» y falso directo; tabla de quién hace qué; uso de las señales grabadas; escala de ensayos y ensayo general; pruebas de conexión; definición de llamada; secuencia de la llamada de vídeo; tareas de la asistencia; cronometraje; señas; destinatarios de las órdenes; aviso y ejecución; fórmulas; aplicación de las NTP al control; tareas de la regiduría; IFB y N-1; enfilamiento; recursos de reserva y plano de seguridad; regla de quien avisa, decide y resuelve; quién decide qué se recorta; tabla de incidencias; aplicación práctica | — |

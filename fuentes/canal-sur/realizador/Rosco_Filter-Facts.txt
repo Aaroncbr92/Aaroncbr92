@@ -1,0 +1,3147 @@
+
+Page
+Rosco Filters for Filmmaking and Television
+3
+Statement of Standards and Manufacturing Methods
+Light and Imaging
+4
+Finding the Filter You Need
+5
+Color Temperature
+6
+Light Sources and Their Properties
+7
+Color Temperature Calculator
+8
+Quick Reference Guide to Cinegel Correction Filters
+9
+Filters for Natural Daylight
+10
+Filters for Artificial Daylight
+11
+Filters for Tungsten-Halogen and Incandescent Lamps
+12
+Filters for Standard Fluorescents (Cool White)
+13
+Filters for Other Fluorescents and Industrial Discharge Lamps
+14-16
+Using a Color Monitor To Determine Appropriate Light Source
+17
+Cinegel Correction Filters In Use
+18
+Diffusion Materials
+19
+Diffusion In Use
+20
+Diffusion Materials
+21
+CalColor
+22-23
+Cinelux, Storaro Selection
+24
+Reflection Materials
+25
+E-Colour
+26-28
+Special Purpose Filters
+29
+Other Rosco Products
+30-31
+TABLE OF CONTENTS
+2
+Photography credit for photos shown on pg. 18 and pg. 20:
+Photography by: Joanne A. Calitri, International, Faculty, Brooks Institute of Photography, Santa Barbara, CA
+First Assistant and Digital Technician: Dawn M. Gaietto, Master Student, Brooks Institute of Photography
+First Assistants: Sarah “Wolfie” Pfrommer, Undergraduate Student, Brooks Institute of Photography
+Joe Briscoe, Undergraduate Student, Brooks Institute of Photography
+Second Assistant, Model: Lisa Bailey, Undergraduate Student, Brooks Institute of Photography
+Model, Third Assistant, Stylist: Rebecca Sevy, Undergraduate Student, Brooks Institute of Photography
+Third Assistants: Eric Hayne, Undergraduate Student, Brooks Institute of Photography
+v.0909
+
+Rosco’s Aca d e my Awa rd® winning system of Cinegel light- co nt rol materials co n s i sts of nea rly 100 materials for color co r rection, light reduction, diffusion or reflection. Cinegel was fi rst int rod u ced over 40 yea rs ago when most production was done on sound sta g es or in stu d i os and the
+need for fi l te rs was limited. Back then, if productions moved out on location the light so u rces we re
+usually a mix of natu ral day l i g ht, carbon arc and tu n g sten, so a small range of blue and amber fi lte rs was generally suffi c i e nt for raising and lowering the Kelvin te m p e ra tu re.
+Fo l l owing the energy crisis of the 1970 ’s effi c i e n cy became the main co n s i d e ration in the
+d esign of light so u rces. HMI, CID and Xenon lamps we re adva n ced for the film indust r y, while mercu r y,
+sodium and metal-halide joined fl u o resce nt lamps in co m m e rcial and household usa g e. But since these
+n ew so u rces we re neither tu n g sten nor day l i g ht, they yielded an unfl a ttering green rendition when photo g raphed. For this rea son Rosco developed Minusg reen and Plusg reen fi l te rs in the early 198 0 ’s. Also from that period, Rosco
+original designs include Opal Frost, Grid Cloth, Acrylic Pa n e l s, and Silve r- Black Roscosc r i m .
+S i n ce then Rosco has co ntinually adva n ced the deve l o p m e nt of new fi l te rs and diffusion materials to meet the changing needs
+of the lighting professional. In the 1990’s, CT St raws we re fi rst int ro d u ced by Rosco as an alte r n a t i ve to the redder CTO fi l te rs.
+Cinelux was int ro d u ced as the wide-width color effe c ts lighting fi l te r, while The Sto ra ro Selection was developed to suit the
+s p e c t ral pa l ette of the pre - e m i n e nt cinemato g rapher for which it is named. In 1999,
+Ca l Color earned Rosco a se cond Aca d e my Awa rd  for a ca l i b ra ted and pre d i c table se r i es
+of cc color effe c ts fi l te rs designed specifi cally to the spectral se n s i t i v i ty of film emulsions.
+The latest adva n ce m e nt is Cinedichro, a range of high-te m p e ra tu re glass color co r re c t i o n
+fi l te rs designed for the hottest high-wa ttage lamps.
+E- Colour joined the Rosco family of lighting fi l te rs in the early 1990’s as an eco n o m i ca l
+coa ted product with Eu ro p ean nomenclatu re.
+This booklet outlines all of these fi l te rs and prov i d es te c h n i cal information and guidel i n es for their use. Th ese wo rds from a famous cinemato g rapher sum it all up, “Co nt rol the
+l i g ht, its co l o r, its quality, its tex tu re —and you co nt rol the look of the fi l m” .
+The information co ntained in this booklet can also be found on the Rosco we bs i te (w w w. rosco.co m) where it is updated regularly and new pro d u c ts are added as they become ava i l a b l e.
+ROSCO FILTERS FOR FILMMAKING, STILL PHOTOGRAPHY
+AND TELEVISION PRODUCTION
+Sta n d a rds and Manufa c turing Met h o d s
+Cinegel (pg 6-21), Ca l Color (pg 22-23), Cinelux (pg 24), and The Sto ra ro Selection (pg 24) color fi l te rs are all met i cu l o u s l y
+m a n u fa c tu red with a hea t- res i sta nt PET polyester ba se, utilizing a pa te nted deep-dye te c h n o l o g y. Refl e c tor Materials (pg
+25) are multi-laye red, meta l l i zed and laminated PET polyester with a vinyl backing. Diffusion Materials (pg 19-21) are either
+“ To u g h” PET polyester or “Sof t” PVC vinyl. E- Colour (pg 26 -28) is ca refully manufa c tu red on a hea t- res i sta nt PET polyeste r
+ba se, utilizing an adva n ced dye - coating pro cess. 
+All Rosco fi l te rs are designed to the st r i c test industry sta n d a rd s. In manufa c turing, they are inspected against rigid qualityco nt rol re q u i re m e nts for color and density using co m p u te r i zed on-line co l o r i m ete rs and densito m ete rs. This guara nte es a
+co n s i ste nt and reliable pro d u c t.
+E xce pt as noted, all pro d u c ts are available in rolls 48 in. x 25 ft. (122cm x 7. 6 m). Cinegel, Cinelux, Ca l Color and The Sto ra ro
+Selection are available in sheets 20 in. x 24 in. (50cm x 60cm), while E- Colour sheets are 21 in. x 24 in. (53cm x 60cm) .
+Polarizing Filter is 19 in. x 20 in. (48cm x 50cm) .
+Sun 85, N.1 5, N.3, N.6, N.9, Sun 85 N 3, and Sun 85N6 rolls are ex t ra -wide 60 in. x 20 ft. (152cm x 6.0 9 m) for sea m l ess insta llation on windows. Silent Grid Cloth, Silent Light Grid Cloth, Silent 1⁄2 Grid Cloth are ex t ra -wide 60 in. x 20 ft. (152cm x
+6 .0 9 m). Hilite rolls are 54 in. x 22 ft. (137cm x 4. 8 m). Wide Soft Frost rolls are 72 in. x 25 ft. (182cm x 4. 8 m) .
+3
+
+LIGHT AND THE HUMAN EYE
+Visible light as perceived by the human eye is comprised by a narrow band of electromagnetic energy in the
+400-700 nanometer wavelength range, being bounded below 400nm by ultraviolet and above 700nm by infrared.
+This visible light region is composed of a spectrum of colors roughly delineated as follows:
+Vi o l et 400-430 n m
+G reen 49 0 - 5 6 0 n m
+O range 59 0 - 6 30 n m
+Blue 430 - 49 0 n m
+Ye l l ow 560-59 0 n m
+Red 630 -70 0 n m
+Because of adaptive properties of the human brain, all light containing some primary components of blue, green
+and red energy will generally be perceived as "white light". 
+LIGHT, FILM EMULSIONS AND ELECTRONIC IMAGING SYSTEMS
+Unlike the human eye, color film emulsions are designed to record a specific type of light as white
+light. Accordingly, emulsions are usually designated as either "tungsten balanced" or "daylight balanced". When exposing a film emulsion to a light source for which it is not designed, lens filters or
+printing filters are usually employed to adjust the color balance of the emulsion to match the color
+properties of the particular source.
+In video and digital photography, the white balance feature often replaces a lens filter by permitting
+some electronic adjustment of the camera’s color sensitivity to the color properties of a particular
+light source.
+LIGHT AND IMAGING
+4
+The Spectral Energy Distribution Curve (SED) is a graphic representation of a color. The area under the curve
+is transmitted. The color shown combines blue-violet components with orange-red.
+
+1 .
+E stablish the Refe re n ce
+The pre d o m i n a nt so u rce in the scene is usually trea ted as the refe re n ce so u rce for color co r re c t i o n .
+Usually that so u rce is either 3200K Tu n g sten or 5500K Day l i g ht. Howeve r, with Rosco fi l te rs, one
+could co r rect to fl u o resce nts, disc h a rge lamps, or any other refe re n ce.
+2 .
+D etermine the kelvin and CC va l u es
+D etermine the kelvin te m p e ra tu re of the refe re n ce so u rce as well as all supplemental so u rces. If wo r king with fl u o resce nts or disc h a rge lamps, also determine their green output with a color te m p e ra tu re
+m ete r. In video, a ve c to rscope or color monitor can also be useful for this purpose.
+3.
+Select the Filte rs
+Using the information provided in this booklet or in the Cinegel and E- Colour swa tc h b o o ks, dete r m i n e
+the appro p r i a te fi l te r (s) for co r recting the supplemental so u rce to the refe re n ce. For “pure” tu n g ste n
+or day l i g ht, a blue or amber fi l ter to adjust kelvin will suffi ce. For fl u o resce nts and disc h a rge lamps, a
+g reen or magenta cc co r rection will be re q u i red as we l l .
+4.
+O ve rall Co r re c t i o n
+O n ce all so u rces are ba l a n ced to the refe re n ce to achieve an ove rall co n s i ste n cy, it may still be necessary to ba l a n ce the ove rall scene to an emulsion refe re n ce or video white ba l a n ce. This final co r re ction can be accomplished with a lens fi l te r, in the lab, or through electronic white ba l a n ce.
+Lens Filte rs ve rsus Lighting Filte rs
+Lens fi l te rs, printing fi l te rs, white ba l a n ce and post production are all intended to provide ove ra l l color co rrection or color effect to a sce n e. Lighting fi l te rs, being applied to individual light so u rces, provide co l o r
+co r rection, color effect and diffusion to se l e c t i vee l e m e nts within that sce n e.
+Color Co r rection Filte rs for Film Emulsions ve rsus Electronic Imaging Syste m s
+As a general rule, electronic imaging systems such as video usually re q u i re half the color co r rection of fi l m
+e m u l s i o n s. For Neutral Density fi l te rs, howeve r, the same principles apply for both film and video.
+FINDING THE FILTERS YOU NEED TO ACHIEVE AN OVERALL CORRECTION
+SOME NOTES ON FILTERS
+5
+
+KELVIN COLOR TEMPERATURE (K)
+This is the scientific temperature scale used to designate the spectral output of a radiant element such as a lamp
+filament sufficiently heated so that it emits visible light. Such heated elements will then produce a continuous visible spectrum, with some output at all wavelengths. Examples include incandescent and tungsten sources, as well as
+natural daylight.
+Simply put, a lower kelvin temperature indicates a relatively higher amber output, while a higher kelvin temperature corresponds to a relatively higher blue output.
+CORRELATED COLOR TEMPERATURE (CCT)
+This is a term often applied to arc sources that do not employ a heated filament and thus do not produce a continuous visible spectrum. Examples include fluorescent lamps and industrial discharge lamps.
+For color correction purposes in film and electronic imaging, the manufacturer’s suggested Correlated Color
+Temperature of these sources should not be employed, unless the accompanying Color Rendering Index (CRI)
+exceeds a value of 90 (e.g. HMI or Electronic Strobe).
+COLOR TEMPERATURE AND MIRED SHIFT VALUE
+The kelvin color temperature scale is not the best method for predicting the effect of color correction filters. This
+is because the resulting kelvin temperature will vary, depending upon the kelvin temperature of the original source.
+For example, Half Blue will increase kelvin 900 degrees for a 3200K source, yet only 600 degrees for a 2600K
+source, and 1500 degrees for a 4000K source.
+Mired Shift Value is a constant value. It provides an accurate method for predicting the effect of a color correction
+filter regardless of the kelvin temperature of the original source. It also allows for predictable results when combining filters, since the mired shift values are additive or subtractive.
+Note: This process of calculating mired shift value is vastly simplified through the use of the Rosco Filter
+Nomograph (pg. 8). In addition, Rosco offers an easy to use, electronic calculator that determines either the
+required filter or the resulting kelvin from selected filters. Both the Filter Nomograph and the Electronic Calculator
+are available for free download at www.rosco.com.
+COLOR TEMPERATURE
+6
+
+P H OTO G RAPHIC LIGHT SO U R C ES
+N a tu ral Day l i g ht
+N a tu ral Day l i g ht is generally defined as a combination of sunlight and sky l i g ht on a clear day. At noon during the summer it
+is usually in the 5400°K– 6500°K ra n g e, with 5500°K being sta n d a rd i zed as “photo g raphic day l i g ht”. But natu ral day l i g ht
+can vary co n s i d e rably depending upon geographic latitu d e, time of yea r, time of day, as well as local atmospheric co n d i t i o n s. 
+As a general rule, early morning and late afternoon day l i g ht will have a grea ter amber co nte nt and a lower color te m p e ratu re, in the 4000°K- 4500°K ra n g e. Ove rca st skies will yield grea ter blue co nte nt and a higher color te m p e ra tu re, in the
+70 0 0 ° K-9000°K ra n g e. Su n r i se or sunset will be very amber, in the 20 0 0 ° K-2500°K ra n g e.
+A rt i ficial Day l i g ht (HMI, St ro b e, Xenon, Wh i te-Flame Carbon Arcs)
+Th roughout the yea rs a number of art i ficial light so u rces have been developed to re p l i ca te the color pro p e rt i es of natu ra l
+p h oto g raphic day l i g ht. In still photo g ra p hy, photo g raphic st ro b es have become co m m o n p l a ce for this purpose. Similarly, in
+m otion pictu re applica t i o n s, Wh i te Flame Carbon Arcs we re originally used, but have now been gradually re p l a ced by HMI
+and Xenon lamps.
+P h oto g raphic st ro b es generally pro d u ce good photo g raphic color rendering and this remains stable throughout the life of the
+u n i t. Some variation can be found among manufa c tu re rs and models, but color te m p e ra tu re usually falls within the 55 0 0 ° K6500°K ra n g e.
+Xenon lamps have exce l l e nt and very stable photo g raphic color rendering throughout their life. Color te m p e ra tu re is usually
+in the 6000°K- 6 300°K ra n g e.
+HMI lamps have good photo g raphic color rendering in the 5000°K- 6500°K ra n g e. However there can be not i ceable va r i a t i o n
+in the green output. Ad d i t i o n a l l y, throughout their life individual lamps will shift to amber by losing 1 degree Kelvin per hour. 
+As a gro u p, these Art i ficial Day l i g ht So u rces ca n n ot be dimmed to any rea sonable degree to adjust for inte n s i ty and they are
+l i kely to pro d u ce higher levels of nea r- u l t rav i o l et energ y. 
+Tu n g sten-Halogen and Household Inca n d esce nt Lamps
+Tu n g sten-halogen so u rces, of ten called “q u a rtz lights” or “hot l i g hts”, have ex t remely stable color te m p e ra tu re and good
+p h oto g raphic color rendering throughout their life. Th ey are generally ra ted at 3200°K when opera ted at full vo l ta g e. Wh e n
+dimmed or opera ted at lesser vo l ta g e, their color te m p e ra tu re will be lowe r, usually in the 24 0 0 ° K-3100°K ra n g e, resulting in
+a color shift towa rds amber. 
+H o u sehold inca n d esce nt bulbs will have color te m p e ra tu res in the 24 0 0 ° K-3000°K ra n g e, depending upon wa tta g e.
+G e n e ra l l y, lesser wa ttage equals lower color te m p e ra tu re and a co r responding color shift towa rds amber. Like tu n g ste n - h a l ogen, their color te m p e ra tu re also decrea ses when dimmed or when opera ted at lower vo l ta g e.
+I N D U STRIAL DISCHARGE LIGHT SO U R C ES (Fluoresce nt, Mercu ry, Sodium, Meta l - H a l i d e)
+Th ese lamps pro d u ce visible light by means of an electrical arc within a gas enclos u re. Most pro d u ce an inco n s i ste nt co l o r
+spectrum although their color pro p e rt i es are of ten improved with the addition of phosphor coatings or metal additives. As a
+b road class these lamps exhibit a wide va r i ety of photo g raphic color rendering, ranging from acce ptable to very poor. As a
+res u l t, the use of manufa c tu re r’s color te m p e ra tu re data is usually inappro p r i a te for photo g raphic purposes and the use of a
+color te m p e ra tu re meter is st rongly suggeste d .
+F l u o resce nt Lamps
+F l u o resce nt lamps remain the pre d o m i n a nt type of interior lighting for co m m e rcial and industrial sett i n g s. Th ey are also
+common for some household applica t i o n s. As a class fl u o resce nt lamps pro d u ce a wide va r i ety of photo g raphic color re n d e ring depending upon manufa c tu rer and ty p e. Photo g ra p h i ca l l y, they can range from warm (a m b e r) to cool (blue), although
+g reen output is usually high for all ty p es.
+S p e c i a l i zed full-spectrum fl u o resce nt lamps are ava i l a b l e, but ca re must be ta ken to insure that they are photo g raphic fullspectrum. Even when so, they usually re q u i re some minor color co r re c t i o n .
+M e rcu ry Va p o r
+This class of lamp is best ident i fied by its pale blue visual appea ra n ce. It is commonly found outd o o rs as st re et lighting and
+is widely used in fa c to r i es and wa re h o u ses. All ty p es have excess i ve green and blue output. The clear ve rsion of this lamp
+has very poor photo g raphic color rendering with no red output. Co l o r- i m p roved or phos p h o r- coa ted ve rsions are usa b l e, but
+re q u i re signifi ca nt fi l t ration for photo g raphic purposes. 
+Sodium Va p o r
+Th e re are two general classes of Sodium Vapor Lamps – low press u re sodium and high press u re so d i u m .
+Low Press u re Sodium is best ident i fied by a distinct orange appea ra n ce. It is so m et i m es used as se cu r i ty lighting or in pa r king area s. Outside the USA, it is of ten found as highway lighting. It is a monochromatic orange so u rce with no other co l o r
+rendering. It therefo re ca n n ot be color co r re c ted for photo g raphic purposes.
+High Press u re Sodium is best ident i fied by a pale st raw visual appea ra n ce. It is generally found outd o o rs as st re et light i n g ,
+and is widely used in fa c to r i es and wa re h o u ses. Its output has co n s i d e rable ye l l ow and green with some red and very litt l e
+b l u e. It pro d u ces usable color rendering but re q u i res signifi ca nt fi l t ration for photo g raphic purposes.
+M eta l - H a l i d e
+Th ese are mercury vapor lamps that co ntain metal additives for improved color rendering. Th ey are widely used for co m m e rcial applications where color rendering is importa nt, including sports sta d i u m s, sto res, malls and atriums. Th ey generally prod u ce good color rendering, close to natu ral day l i g ht, but usually with some excess green. HMI, detailed above, is a speciali zed ve rsion of this lamp.
+LIGHT SOURCES AND THEIR PROPERTIES
+7
+
+COLOR TEMPERATURE CALCULATOR
+FOR CINEGEL AND E-COLOUR FILTERS
+U se this ca l cu l a tor to find the appro p r i a te fi l ter for color te m p e ra tu re co nve rsion. With a st ra i g ht- e d g e, draw a line from the
+kelvin te m p e ra tu re of the original so u rce to the kelvin te m p e ra tu re for the co nve rted so u rce. This line will inte rsect the ce nter line to indica te the res p e c t i ve Mired Shift Va l u e. Use this value to find the suitable Cinegel or E- Colour fi l ter from the
+c h a rts.
+N ote: This ca l cu l a tor is only suitable for light so u rces having a co ntinuous spectrum. It should not be used for a Fluoresce nt or Disc h a rg e
+so u rce unless the CRI (Color Rendering Index) of that so u rce exceeds a value of 90.
+8
+
+Rosco’s range of color correction filters, diffusion, and reflection was honored by the Academy of Motion Picture Arts and
+Sciences with an Academy Award® for "the development of a complete system of light-control materials for motion-picture photography".
+A QUICK REFERENCE GUIDE TO CINEGEL CO R R ECTION FILT E R S
+P RO D U CT
+D ESC R I PT I O N
+M I R E D
+T RA N S.
+S H I F T
+To Increa se Ke l v i n
+3202
+Full Blue CT B
+Co nve rts 3200°K tu n g sten to 5500°K day l i g ht.
+-1 31
+36% (-1 . 5 s)
+3203
+Th re e - Q u a rter Blue CT B Co nve rts 3200°K tu n g sten to 4700°K day l i g ht.
+-1 0 0
+41% (-1 .3 s)
+320 4
+Half Blue CT B
+Co nve rts 3200°K tu n g sten to 41 0 0 ° K .
+- 6 8
+52% (-.9 s)
+320 6
+Th i rd Blue CT B
+Co nve rts 3200°K tu n g sten to 38 0 0 ° K .
+- 49
+6 4% (-.6s)
+320 8
+Q u a rter Blue CT B
+Co nve rts 3200°K tu n g sten to 35 0 0 ° K .
+-30
+74% (-.4 s)
+32 1 6
+E i g hth Blue CT B
+Co nve rts 3200°K tu n g sten to 330 0 ° K .
+-1 2
+81% (-.3 s)
+3220
+Double Blue CT B
+Co nve rts 2800°K tu n g sten to 10,000°K day l i g ht.
+-26 0
+10% (-3.3 s)
+To Decrea se Ke l v i n
+3 4 07
+Full CTO
+Co nve rts 6500°K day l i g ht to 3200°K tu n g sten (or 5500°K to 29 0 0 ° K ) .+1 67
+47% (-1 .1 s)
+3 41 1
+Th re e - Q u a rter CTO
+Co nve rts 5500°K day l i g ht to 3200°K tu n g ste n .
++1 31
+58% (-.8s)
+3 4 0 8
+Half CTO
+Co nve rts 5500°K day l i g ht to 38 0 0 ° K .
++ 81
+73% (-.5s)
+3 4 0 9
+Q u a rter CTO
+Co nve rts 5500°K day l i g ht to 45 0 0 ° K .
++ 42
+81% (-.3 s)
+3 41 0
+E i g hth CTO
+Co nve rts 5500°K day l i g ht to 49 0 0 ° K .
++20
+92% (-.1 s)
+3 420
+Double CTO
+Co nve rts 10,000°K day l i g ht to 24 0 0 ° K .
++320
+23% (-2 .1 s)
+3 4 41
+Full St raw CTS
+Co nve rts 5500°K day l i g ht to 3200°K tu n g ste n .
++1 6 0
+50% (-1 .0 s)
+3 4 42 Half St raw CTS
+Co nve rts 5500°K day l i g ht to 38 0 0 ° K .
++ 81
+73% (-.5s)
+3443 Q u a rter St raw CTS
+Co nve rts 5500°K day l i g ht to 45 0 0 ° K .
++ 42
+81% (-.3 s)
+3444 E i g hth St raw CTS
+Co nve rts 5500°K day l i g ht to 49 0 0 ° K .
++20
+92% (-.1 s)
+To Add Gre e n
+3304 Tough Plusg re e n
+CC 30 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+76% (-.4 s)
+3315 
+Tough 1⁄2 P l u sg re e n
+CC15 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+90% (-.2s)
+3316 
+Tough 1⁄4 P l u sg re e n
+CC 075 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+92% (-.1 s)
+3317 
+Tough 1⁄8 P l u sg re e n
+CC 035 Green when balancing to fl u o resce nt/d i sc h a rge lamps. 
+N /A
+93% (-.1 s)
+To Re m ove Gre e n
+3308 Tough Minusg re e n
+CC 30 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+55% (-.9 s)
+330 9
+Tough 3⁄4 M i n u sg re e n
+CC 22.5 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+65% (.6s)
+3313 
+Tough 1⁄2 M i n u sg re e n
+CC15 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+71% (-.5s)
+3314 
+Tough 1⁄4 M i n u sg re e n
+CC 075 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+81% (-.3 s)
+3318 
+Tough 1⁄8 M i n u sg re e n
+CC 035 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+89% (-.2s)
+3310 
+F l u o rofi l te r
+Ba l a n ces Cool Wh i te Fluoresce nt to Tu n g ste n .
+N /A
+36% (-1 . 5 s)
+Wi n d ow Co r rection and Neutral Density
+3401 
+Sun 85
+Sta n d a rd window co r rection. 5500°K day l i g ht to 3200°K tu n g ste n .
++1 31
+58% (-.8s)
+3 415 
+ND .1 5
+Re d u ces light inte n s i ty 1⁄2 sto p.
+N /A
+70% (-.5s)
+3 4 02 ND .3
+Re d u ces light inte n s i ty 1 sto p.
+N /A
+50% (-1 .0 s)
+3 4 03 ND .6
+Re d u ces light inte n s i ty 2 sto ps.
+N /A
+25% (-2 .0 s)
+3404 ND .9
+Re d u ces light inte n s i ty 3 sto ps.
+N /A
+12% (-3.0 s)
+3405 Sun 85 + ND .3
+5500°K day l i g ht to 3200°K tu n g sten plus 1 stop Neutral Density.
++1 31
+33% (-1 . 6 s)
+3406 Sun 85 + ND .6
+5500°K day l i g ht to 3200°K tu n g sten plus 2 sto ps Neutral Density.
++1 31
+1 7% (-2 . 6 s)
+3809 Rosco Sc r i m
+Pe r fo ra ted Silve r/ Black, useful as a 2 stop window sc r i m .
+N /A
+25% (-2 .0 s)
+3 421 
+Black Sc r i m
+Pe r fo ra ted Bl a c k / Black, useful as a 2 stop window sc r i m .
+N /A
+25% (-2 .0 s)
+3 423
+C i n esc re e n
+A woven material, black on both sides. Re d u ces light 2 sto ps.
+N /A
+25% (-2 .0 s)
+A rc Co r re c t i o n
+3114 
+Tough UV Filte r
+A bso r bs excess ultrav i o l et from st ro b es, arcs and HMI.
++ 8
+93% (-.1 s)
+31 07 
+Tough Y1
+Re d u ces color te m p e ra tu re of arcs and HMI.
++ 45
+93% (-.1 s)
+3106 
+Tough MTY
+Re d u ces color te m p e ra tu re of arcs and HMI.
++1 31
+57% (-.8s)
+31 02 
+Tough MT2
+Re d u ces color te m p e ra tu re of arcs and HMI.
++1 1 0
+6 6% (-.6s)
+3134 
+Tough MT54
+Re d u ces color te m p e ra tu re of arcs and HMI.
++35
+83% (-.3 s)
+31 5 0
+I n d u strial Va p o r
+Co nve rts sta n d a rd tu n g sten to sodium va p o r.
++1 31
+38% (-1 .4 s)
+31 52
+U r ban Va p o r
+Co nve rts tu n g sten to an art i stic looking sodium vapor w/o gre e n .
+N /A
+29% (-1 . 8 s)
+CINEGEL
+9
+
+The amber and neutral density filters described here are primarily used in an interior location that has windows or openings allowing daylight to enter. These filters are usually applied to the windows to permit color correction and/or neutral
+density light reduction. Except as noted, these rolls measure extra wide 60 in. x 20 ft. (152cm x 6.09m) for seamless
+installation on windows.
+Natural Daylight Filtered to Tungsten Interiors
+When tungsten is the primary interior source and natural daylight comes through windows, it is usually most practical to
+filter the daylight. Sun 85 is the standard daylight-to-tungsten correction, although any of the CTO or CTS filters shown on
+the next page are suitable for special conditions or aesthetic considerations. Neutral Density filters may then be added as
+needed to reduce the level of exterior natural daylight to balance with the interior.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3401 
+Sun 85
+Sta n d a rd window co r rection. 5500°K day l i g ht to 3200°K tu n g ste n .
++1 31
+58% (-0. 8 s)
+Tungsten Filtered to Daylight (see page 12)
+Natural Daylight Filtered to Standard Fluorescent Interiors (Cool White, Daylight, SP-41)
+Standard USA Cool White (elsewhere Daylight) and SP-41 fluorescents can be treated as daylight sources, except that they
+emit a light which has a distinct green cast. Film emulsions and video systems will usually register this fluorescent light as
+unflattering "green daylight". When these fluorescents are the primary interior source and natural daylight comes through
+windows, Tough Plusgreen is added to the windows (1/2 Plusgreen for video). Neutral Density filters may then be added as
+needed to reduce the level of exterior natural daylight to balance with the interior. This filtration will achieve an overall
+green cast which can then be removed with a lens filter, in the lab or through electronic white balance.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3304 
+Tough Plusg re e n
+Adds green to windows when balancing to sta n d a rd fl u o resce nt.
+N /A
+76% (-0.4 s)
+3315 
+Tough 1⁄2 P l u sg re e n
+Adds green to windows when balancing to sta n d a rd fl u o resce nt.
+N /A
+90% (-0. 2 s
+Standard Fluorescent (Cool White, Daylight, SP-41) Filtered to Daylight (see page 13)
+Natural Daylight Filtered to Other Fluorescents and Discharge Lamps (see pages 14-16)
+Neutral Density Filters for Natural Daylight
+When artificial daylight (HMI, Strobe, Xenon) are the primary interior source and natural daylight comes through windows,
+Neutral Density filters are usually applied to the windows to reduce the amount of exterior natural daylight to balance with
+the interior levels.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3 415 
+ND .1 5
+N e u t ral Density. Re d u ces light inte n s i ty 1⁄2 sto p.
+N /A
+70% (-0. 5 s)
+3 4 02 
+ND .3
+N e u t ral Density. Re d u ces light inte n s i ty 1 sto p.
+N /A
+50% (-1 .0 s)
+3 4 03 
+ND .6
+N e u t ral Density. Re d u ces light inte n s i ty 2 sto ps.
+N /A
+25% (-2 .0 s)
+3404 
+ND .9
+N e u t ral Density. Re d u ces light inte n s i ty 3 sto ps.
+N /A
+12% (-3.0 s)
+3809 
+Rosco Sc r i m
+Pe r fo ra ted Silve r/ Black, useful as a 2 stop window sc r i m .
+N /A
+25% (-2 .0 s)
+3 421 
+Black Sc r i m
+Pe r fo ra ted Bl a c k / Black, useful as a 2 stop window sc r i m .
+N /A
+25% (-2 .0 s)
+Neutral Density Combined with Sun 85 Correction
+Two filters are designed to combine the effect of Sun 85 daylight-to-tungsten correction with additional Neutral Density
+light reduction of 1 or 2 stops.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3405 
+Sun 85 + ND .3
+5500°K day l i g ht to 3200°K tu n g sten plus 1 stop Neutral Density.
++1 31
+33% (-1 . 6 s)
+3406 
+Sun 85 + ND .6
+5500°K day l i g ht to 3200°K tu n g sten plus 2 sto ps Neutral Density.
++1 31
+1 7% (-2 . 6 s)
+Rigid Acrylic Panels
+Amber and Neutral Density daylight control filters are also available in optically clear, rigid acrylic sheets measuring 4 ft. x
+8 ft (1.2m x 2.4m) or 5 ft. x 8 ft. (1.52m x 2.4m). They offer quick set-up, easy handling and multiple re-use.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3761 
+Rosco l ex 85
+Sta n d a rd window co r rection. 5500°K day l i g ht to 3200°K tu n g ste n .
++1 31
+58% (-0. 8 s)
+3751 
+Rosco l ex 1⁄2 CTO
+Pa rtial window co r rection. 5500°K day l i g ht to 3800°K tu n g ste n .
++ 81
+73% (-0. 5 s)
+3762 
+Rosco l ex N.3
+N e u t ral Density. Re d u ces light inte n s i ty 1 sto p.
+N /A
+50% (-1 .0 s)
+3763 
+Rosco l ex N.6
+N e u t ral Density. Re d u ces light inte n s i ty 2 sto ps.
+N /A
+25% (-2 .0 s)
+3764 
+Rosco l ex N.9
+N e u t ral Density. Re d u ces light inte n s i ty 3 sto ps.
+N /A
+12% (-3.0 s)
+FILTERS FOR NATURAL DAYLIGHT
+1 0
+
+Artificial daylight sources such as HMI, Strobe and Xenon can vary in color temperature among themselves or when
+used with Natural Daylight. The CTO amber and CTS straw filters described here, along with the CTB blue filters on
+the following page, permit the cameraman or technician to adjust the source color temperature up or down to deal
+with these variations. The wide range of these correction filters also allows for individual creative choice in how
+warm or cool a daylight source will appear when photographed.
+Artificial Daylight Filtered to Tungsten
+When tungsten is the standard illumination in a scene and a few daylight sources are included, the daylight sources
+are usually filtered with the amber or straw filters shown below. In most cases, Full CTO or Full Straw is the standard
+artificial daylight-to-tungsten correction.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3 4 07 
+Full CTO
+Co nve rts 6500°K day l i g ht to 3200°K tu n g sten (or 5500°K to 29 0 0 ° K ) .
++1 67
+47% (-1 .1 s)
+3 411 
+Th re e - Q u a rter CTO Co nve rts 5500°K day l i g ht to 3200°K tu n g ste n .
++1 31
+58% (-0. 8 s)
+3408 
+Half CTO
+Co nve rts 5500°K day l i g ht to 38 0 0 ° K .
++ 81
+73% (-0. 5 s)
+3409 
+Q u a rter CTO
+Co nve rts 5500°K day l i g ht to 45 0 0 ° K .
++ 42
+81% (-0.3 s)
+3 410 
+E i g hth CTO
+Co nve rts 5500°K day l i g ht to 49 0 0 ° K .
++20
+92% (-0.1 s)
+3 420 
+Double CTO
+Co nve rts 10,000°K day l i g ht to 24 0 0 ° K .
++320
+23% (-2 .1 s)
+3 4 41 
+Full St raw CTS
+Co nve rts 5500°K day l i g ht to 3200°K tu n g ste n .
++1 6 0
+50% (1.1 s)
+3 4 42 
+Half St raw CTS
+Co nve rts 5500°K day l i g ht to 38 0 0 ° K .
++ 81
+73% (-0. 5 s)
+3443 
+Q u a rter St raw CTS Co nve rts 5500°K day l i g ht to 45 0 0 ° K .
++ 42
+81% (-0.3 s)
+3444 
+E i g hth St raw CTS
+Co nve rts 5500°K day l i g ht to 49 0 0 ° K .
++20
+92% )-0.1 s
+Tungsten Filtered to Daylight (see page 12)
+Amber Filters versus Straw Filters
+Until recently CTO amber filters were the traditional standard for reducing the color temperature of daylight
+sources. In 1992 in response to cameramen’s requests, Rosco expanded this offering by introducing the CTS series
+of color correction straws. With a slightly yellower coloration than the CTO ambers, the CTS straws
+represent a useful alternative when varying conditions (film emulsions and video systems, light sources and set,
+wardrobe and makeup) call for a correction that is less red.
+Artificial Daylight Filtered to Standard Fluorescent (Cool White, Daylight, SP-41)
+Standard USA Cool White (elsewhere Daylight) and SP-41 fluorescents can be treated as daylight sources except
+that they emit a light which has a distinct green cast. Film emulsions and video systems will usually register this fluorescent light as unflattering "green daylight". When these fluorescents are the primary interior source and artificial daylight sources are added, Tough Plusgreen is added to the daylight sources (1/2 Plusgreen for video).  This
+overall green can then be removed with a lens filter, in the lab or through electronic white balance.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+330 4
+Tough Plusg re e n
+Adds green to day l i g ht when balancing to sta n d a rd fl u o resce nt.
+N /A
+76% (-0.4 s)
+331 5
+Tough 1⁄2 P l u sg re e n Adds green to day l i g ht when balancing to sta n d a rd fl u o resce nt.
+N /A
+90% (-0. 2 s)
+Standard Fluorescent (Cool White, Daylight, SP-41) Filtered to Daylight (see page 13)
+Artificial Daylight Filtered to Other Fluorescents and Discharge Lamps (see page 14-16)
+FILTERS FOR ARTIFICIAL DAYLIGHT
+1 1
+A typical lighting situation film and
+video professionals meet every day.
+Daylight from the windows, fluorescent
+light from the ceiling and tungsten lighting supplied by the filmmaker.  Rosco filters are available in every category to
+insure balanced lighting no matter how
+many diverse sources are used.
+
+The CTB filters described here along with the CTO and CTS filters described on the previous page, permit the cameraman
+or technician to adjust the source color temperature up or down in discrete steps. This range of correction also allows for
+individual creative choice of how cool or warm a tungsten or incandescent source will appear when photographed.
+Tungsten Filtered to Daylight
+When daylight is the predominant source in the scene and tungsten sources are added, the tungsten sources are filtered
+with the appropriate CTB blue filter from the chart below. Full Blue CTB is used as the standard tungsten-to daylight correction, but Half Blue CTB is better suited to match natural daylight conditions in early morning or late afternoon. Half
+Blue CTB is often a popular choice for fill light on talent, since it provides lesser correction and a warmer look with flesh
+tones.
+For video or digital applications, Half Blue CTB is recommended as the standard tungsten-to-daylight correction.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3202 
+Full Blue CT B
+Co nve rts 3200°K tu n g sten to 5500°K day l i g ht.
+-1 31
+36% (-1 . 5 s)
+3203 
+Th re e - Q u a rter Blue CT B
+Co nve rts 3200°K tu n g sten to 4700°K day l i g ht.
+-1 0 0
+41% (-1 .3 s)
+3204 
+Half Blue CT B
+Co nve rts 3200°K tu n g sten to 41 0 0 ° K .
+- 6 8
+52% (-0.9 s)
+3206 
+Th i rd Blue CT B
+Co nve rts 3200°K tu n g sten to 38 0 0 ° K .
+- 49
+6 4% (-0. 6 s)
+3208 
+Q u a rter Blue CT B
+Co nve rts 3200°K tu n g sten to 35 0 0 ° K .
+-30
+74% (-0.4 s)
+32 1 6
+E i g hth Blue CT B
+Co nve rts 3200°K tu n g sten to 330 0 ° K .
+-1 2
+81% (-0.3 s)
+3220 
+Double Blue CT B
+Co nve rts 2800°K tu n g sten to 10,000°K day l i g ht.
+-26 0
+10% (-3.3 )
+Natural Daylight Filtered to Tungsten (see page 10)
+Artificial Daylight Filtered to Tungsten (see page 11)
+Tungsten Filtered to Standard Fluorescent (Cool White, Daylight, SP-41)
+Standard USA Cool White (elsewhere Daylight) and SP-41 fluorescents can be treated as daylight sources, except that they
+emit a light which has a distinct green cast. Film emulsions and video systems will usually register this fluorescent light as
+unflattering "green daylight". When these fluorescents are the primary interior source and tungsten sources are added, Full
+Blue CTB is first applied to the tungsten sources, to raise their color temperature to daylight. Tough Plusgreen is then
+added so that the resulting scene is then lit as "green daylight". This overall green can then be removed with a lens filter,
+in the lab or through electronic white balance. For video or digital applications, Half Blue with Tough 1/2 Plusgreen is recommended.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3202 
+Full Blue CTB +
+For Film, co nve rts 3200°K tu n g sten and adds gre e n
+N /A
+27% (-1 .9 s)
+3304 
+Tough Plusg re e n
+when balancing to sta n d a rd fl u o resce nt.
+4 36 0
+Ca l Color 60 Cya n
+Adds suffi c i e nt levels of blue and green to tu n g sten fi x tu res fo r
+N /A
+6 3% (-.7 s)
+balancing to sta n d a rd fl u o resce nt.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3204 
+Half Blue CTB +
+For Vi d e o/ D i g i tal, co nve rts 3200°K tu n g sten and adds 
+N /A
+47% (-1 .1 s)
+3315 
+Tough 1⁄2 P l u sg re e n g reen when balancing to sta n d a rd fl u o resce nt.
+4 330
+Ca l Color 30 Cya n
+Adds suffi c i e nt levels of blue and gre e nt to tu n g sten fi x tu res fo r
+N /A
+50% (-1 .0 s)
+w h i te balancing to sta n d a rd fl u o resce nt.
+Standard Fluorescent (Cool White, Daylight, SP-41) Filtered to Tungsten (see page 13)
+Tungsten Filtered to Other Fluorescents and Discharge Lamps (see pages 14-16)
+Incandescent Filtered to Tungsten
+As mentioned earlier, household incandescent bulbs will have color temperatures in the 2400K-3000K range, depending
+upon wattage. These bulbs are often filtered with blue correction filters to match 3200K tungsten. The chart below shows
+guidelines for this correction.
+4 0 -75 wa tt: #3204 Half Blue CT B
+1 0 0 -300 wa tt: #3208 Quarter Blue CTB 
+5 0 0 -1000 wa tt: #3216 Eighth Blue CT B
+Tungsten Filtered to Incandescent
+3200K Tungsten is sometimes filtered with amber correction filters to match household incandescent bulbs. The chart
+below shows filter guidelines to match this condition.
+4 0 -75 wa tt: #3408 Half CTO
+1 0 0 -300 wa tt: #3409 Quarter CTO
+5 0 0 -1000 wa tt: #3410 Eighth CTO
+Compensating for Dimmers
+When Tungsten or Incandescent lamps are operated on dimmers, their color temperature will be lowered. The chart below
+shows filter guidelines to compensate for this color temperature shift.
+80% Level: #3216 Eighth Blue CT B
+40% Level: #3208 Quarter Blue CT B
+20% Level: #3206 Th i rd Blue CT B
+FILTERS FOR TUNGSTEN-HALOGEN AND INCANDESCENT LAMPS
+1 2
+
+Standard USA Cool White (elsewhere Daylight) and SP-41 fluorescents can be treated as daylight sources except that
+they emit a light which has a distinct green cast. Film emulsions and video systems will usually register this fluorescent light as unflattering "green daylight". 
+Natural Daylight Filtered to Standard Fluorescents (see page 10)
+Artificial Daylight Filtered Standard Fluorescents (see page 11)
+Standard Fluorescents Filtered to Natural or Artificial Daylight
+When natural or artificial daylight is the reference source, Tough Minusgreen is added to the fluorescents. This
+removes the excess green and thereby renders the fluorescent as 5500K photographic daylight. For video or digital
+photo applications, Tough 1/2 Minusgreen is recommended.
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3308 
+Tough Minusg re e n
+Re m oves green to ba l a n ce sta n d a rd fl u o resce nt to day l i g ht.
+N /A
+55% (-0.9 s)
+3313 
+Tough 1⁄2 M i n u sg re e n
+Re m oves green to ba l a n ce sta n d a rd fl u o resce nt to day l i g ht.
+N /A
+71% (-0. 5 s)
+Tungsten Filtered to Standard Fluorescents (see page 12)
+Standard Fluorescents Filtered to Tungsten and Incandescent Lamps
+When tungsten is the reference source, Fluorofilter is added to the fluorescents. This removes the excess green and
+reduces the color temperature to render the fluorescent as 3200K photographic daylight. For video or digital photo
+applications, Tough 1/2 Minusgreen combined with Half CTO is recommended. 
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3310 
+F l u o rofi l te r
+For Film, re m oves green to ba l a n ce sta n d a rd 
+N /A
+36% (-1 . 5 s)
+fl u o resce nt to tu n g ste n .
+N A M E
+D ESC R I PT I O N
+M . S.V.
+T RA N S.
+3 4 0 8
+Half CTO +
+For Vi d e o/ D i g i tal, re m oves green to ba l a n ce 
+N /A
+52% (-0.9 s)
+3313 
+Tough 1⁄2 M i n u sg re e n
+sta n d a rd fl u o resce nt to tu n g ste n .
+FILTERS FOR STANDARD FLUORESCENTS (COOL WHITE)
+1 3
+If you’ve tried to shoot a film or video in a fluorescent-lit environment, such as this train station waiting room, you already know how inadequate and unflattering the light can be.  That’s
+why filmmakers and video professionals always supplement the available light with film lighting … and why Rosco filters are so essential to balance these disparate light sources.
+
+The term “Industrial Discharge Lamp” includes such diverse sources as fluorescent, HMI, Metal Halide, Mercury Vapor and
+Sodium Vapor lamps. For film, video or digital applications, the spectral output of these lamps differs widely, but most can
+be color corrected with Cinegel filters. The exceptions are Low Pressure Sodium and Clear Mercury, both of which are
+extremely limited in their spectral output.
+For color correction purposes in film, video and digital imaging, the “Correlated Color Temperature” of these industrial discharge lamps should never be referenced unless the accompanying Color Rendering Index (CRI) exceeds a value of 90 (e.g.
+HMI or Electronic Strobe). For this reason the photographic color balance of these industrial discharge lamps is best measured with a three-color temperature meter such as available from Minolta or Gossen.
+Using such a meter, the amber/blue spectrum of the lamp is first measured and then adjusted with the amber, straw or blue
+filters shown on page 9. The green spectrum is next measured and adjusted with the green or magenta filters, also detailed
+on page 9. “Finding the Correction Filter You Need” on page 5 describes this technique in detail.
+Lacking such a color temperature meter the filter recommendations shown below can serve as broad guidelines for color
+correcting the most common fluorescent and discharge lamps that you will encounter on location. However, due to the
+many variables inherent in the lighting and photographic process, along with the batch differences within bulb and emulsion
+types, we strongly suggest that you test these recommendations beforehand photographically. Also note that for the fluorescent lamps the filter recommendations apply only to the T-12 versions of the lamp, since the T-5 and T-8 versions of
+these lamps usually exhibit significant color differences.
+Lastly, remember that these filter recommendations are generally for film emulsions. For video or digital imaging, half the
+suggested filter recommendation is a general rule of thumb.
+FLUORESCENT LAMPS
+Find the manufacturer’s fluorescent lamp designation in the chart below. The manufacturer’s lamp designation is usually
+found on the bulb packaging or on the lamp itself. From this, determine the Lamp Group to which your lamp belongs. Next,
+determine whether you wish to correct the fluorescent, the tungsten or the daylight source. Based on this and the lamp
+group, use the filter recommendations on the following charts (pg 15, A, B, and C).
+FILTERS FOR OTHER FLUORESCENTS AND INDUSTRIAL DISCHARGE LAMPS
+1 4
+LAMP
+General Electric
+Sylvania
+Philips
+GROUP
+(North America T-12)
+(North America T-12)
+(North America T-12)
+F1
+SPX-27
+Incandescent or 27K
+Ultralume 27, 27U or 827
+F2
+Warm White (WW)
+Warm White (WW)
+Warm White (WW)
+F3
+Warm Deluxe (WWX)
+Warm Deluxe (WWX)
+Warm Deluxe (WWX)
+F4
+SP-30
+Designer 30 or D30
+Spec 30 or 730
+F5
+SPX-30
+Designer 830 or D830
+Ultralume 30, 30U or 830
+F6
+SP-35
+Designer 35 or D35
+Spec 35 or 735
+F7
+SPX-35
+Designer 835 or D835
+Ultralume 35, 35U or 835
+F8
+Cool White (CW) Cool White (CW)
+Cool White (CW)
+F9
+SP-41
+Designer 41 or D41
+Spec 41 or 741
+F10
+SPX-41
+Designer 841 or D841
+Ultralume 41, 41U or 841
+F11
+Cool Deluxe (CWX)
+Cool Deluxe (CWX)
+Cool Deluxe (CWX)
+F12
+Chroma 50
+Design 50
+Colortone 50
+F13
+SP-65
+Designer 65 or D65
+Daylight 65
+LAMP
+General Electric
+Sylvania
+Philips
+Osram
+GROUP
+(Europe T-12)
+(Europe T-12)
+(Europe T-12)
+(Europe T-12)
+F1
+Polylux 827
+827
+Super 827
+Lumilux 41 or 827
+F2
+29 Warm White
+129 Warm White
+29 Warm White
+30 Warm White
+F5
+Polylux 830
+830
+Super 830
+Lumilux 31 or 830
+F6
+35 White
+135 White
+35 White
+23 White
+F7
+Polylux 835
+835
+Super 835
+Lumilux 26 or 835
+F8
+33 Cool White
+133 Cool White
+33 Cool White
+20 Cool White
+F9
+25 Natural/Universal
+125 Natural/Universal
+25 Universal White
+25 Natural White
+F10
+Polylux 840
+840
+Super 840
+Lumilux 21 or 840
+F13
+54 Daylight
+154 Daylight
+Daylight 54
+10 Daylight
+
+A: FLUORESCENT FILTERED TO TUNGSTEN OR DAYLIGHT
+LAMP GROUP
+FLUORESCENT TO TUNGSTEN
+FLUORESCENT TO DAYLIGHT
+F1
+1/4 CTB
+CTB + 1/4 CTB
+F2
+1/4 CTO + Minusgreen
+1/2 CTB + Minusgreen
+F3
+1/4 CTO + 1/4 Minusgreen
+CTB + 1/4 Minusgreen
+F4
+1/4 CTO + Minusgreen
+1/2 CTB + Minusgreen
+F5
+1/4 CTO + 1/2 Minusgreen
+1/2 CTB + 1/2 Minusgreen
+F6
+1/2 CTO + Minusgreen
+1/3 CTB + Minusgreen
+F7
+1/2 CTO + 1/2 Minusgreen
+1/3 CTB + 1/2 Minusgreen
+F8
+3/4 CTO + Minusgreen
+Minusgreen
+F9
+3/4 CTO + Minusgreen
+Minusgreen
+F10
+3/4 CTO + 1/2 Minusgreen
+1/2 Minusgreen
+F11
+1/2 CTO + 1/4 Minusgreen
+1/3 CTB + 1/4 Minusgreen
+F12
+3/4 CTO + 1/4 Minusgreen
+1/4 CTB + 1/4 Minusgreen
+F13
+CTO + Minusgreen
+1/4 CTO + Minusgreen
+B: TUNGSTEN FILTERED TO FLUORESCENT
+LAMP GROUP
+TUNGSTEN TO FLUORESCENT
+LENS FILTRATION (REVERSAL FILM)
+F1
+1/4 CTO
+15C + 7M
+F2
+1/4 CTB + Plusgreen
+17M
+F3
+1/4 CTB + 1/4 Plusgreen
+7Y + 7M
+F4
+1/2 CTB + Plusgreen
+15Y + 25M
+F5
+1/2 CTB + 1/2 Plusgreen
+20Y + 20M
+F6
+1/2 CTB + Plusgreen
+10Y + 22M
+F7
+3/4 CTB + 1/2 Plusgreen
+32Y + 25M
+F8
+CTB + Plusgreen
+37Y + 35M
+F9
+CTB + Plusgreen
+37Y + 35M
+F10
+3/4 CTB + 1/2 Plusgreen
+32Y + 25M
+F11
+3/4 CTB + 1/4 Plusgreen
+32Y + 20M
+F12
+CTB + 1/4 Plusgreen
+47Y + 27M
+F13
+CTB + 1/4 CTB + Plusgreen
+50Y + 40M
+C: DAYLIGHT FILTERED TO FLUORESCENT
+LAMP GROUP
+DAYLIGHT TO FLUORESCENT
+LENS FILTRATION (REVERSAL FILM)
+F1
+CTO
+55C + 25M
+F2
+1/2 CTO + Plusgreen
+42C + 40M
+F3
+1/2 CTO + 1/4 Plusgreen
+35C + 22M
+F4
+1/4 CTO + Plusgreen
+25C + 32M
+F5
+1/4 CTO + 1/2 Plusgreen
+20C + 20M
+F6
+1/8 CTO + Plusgreen
+20C + 30M
+F7
+1/4 CTO + 1/2 Plusgreen
+20C + 20M
+F8
+Plusgreen
+10C + 25M
+F9
+Plusgreen
+10C + 25M
+F10
+1/2 Plusgreen
+5C + 12M
+F11
+1/4 CTO + 1/4 Plusgreen
+17C + 15M
+F12
+1/4 CTO + 1/4 Plusgreen
+17C + 15M
+F13
+1/4 CTB + Plusgreen
+20M
+FILTERS FOR OTHER FLUORESCENTS AND INDUSTRIAL DISCHARGE LAMPS
+1 5
+Most factory floors in North America are lit with industrial discharge lamps, such as sodium vapor or mercury vapor.
+
+DISCHARGE LAMPS
+Find the manufacturer’s discharge lamp designation in the chart below. The manufacturer’s lamp designation is usually
+found on the bulb packaging or on the lamp itself. From this, determine the Lamp Group to which your discharge lamp
+belongs. Next, determine whether you wish to correct the discharge, the tungsten or the daylight source. Based on this
+and the lamp group, use the filter recommendations on charts D, E, F.
+General Electric
+Sylvania
+Philips
+LAMP GROUP
+(North America)
+(North America)
+(North America)
+D1 -  Low Pressure Sodium
+SOX
+SOX
+SOX
+D2 - High Pressure Sodium
+LUCALUX or LU
+LUMALUX or LU
+SDW
+D3 - Clear Mercury
+HR
+H
+H
+D4 - Deluxe Mercury
+HR/DX
+H/DX
+H/DX
+D5 - Metal Halide 3K
+MVR/SP30 (730), MXR (732)
+M3K,MH/3K
+MH3K
+D6 - Metal Halide 4K
+MVR (740)
+M
+MH
+General Electric
+Sylvania
+Philips
+Osram
+LAMP GROUP
+(Europe)
+(Europe)
+(Europe)
+(Europe)
+D1 -  Low Pressure Sodium
+SOX
+SLP
+SOX
+SOX
+D2 - High Pressure Sodium
+LU
+SHP, SHX
+SON
+NAV
+D3 - Clear Mercury
+H
+HSL/BW
+HPL
+HQL
+D4 - Deluxe Mercury
+H/NDX
+HSL/SC
+HPL COMFORT
+HQL DELUXE
+D5 - Metal Halide 3K
+WDL, ARC/730, MVR/SP30
+HSI/3K (WDL)
+MHW
+HQI/WDL
+D6 - Metal Halide 4K
+NDL/740, MVR/740
+HSI/4K (NDL)
+MHN
+HQI/NDL
+D: DISCHARGE LAMP FILTERED TO TUNGSTEN OR DAYLIGHT
+LAMP GROUP
+DISCHARGE LAMP TO TUNGSTEN
+DISCHARGE LAMP TO DAYLIGHT
+D1
+Not Recommended
+Not Recommended
+D2
+3/4 CTB, 2X Minusgreen
+2X CTB, 2X Minusgreen
+D3
+Not Recommended
+CTO, 1/4 CTO, Minusgreen, 1/4 Minusgreen
+D4
+CTO, 1/4 CTO, Minusgreen
+1/4 CTO, Minusgreen, 1/2 Minusgreen
+D5
+1/4 CTO, 1/2 Plusgreen
+CTB, 1/4 Plusgreen
+D6
+CTO, 1/4 CTO, Minusgreen
+1/8 CTO, Minusgreen
+E: TUNGSTEN FILTERED TO DISCHARGE LAMP
+LAMP GROUP
+TUNGSTEN TO DISCHARGE LAMP
+LENS FILTRATION (REVERSAL FILM
+D1
+Not Recommended
+Not Recommended
+D2
+2X Plusgreen
+22C + 50M
+D3
+Not Recommended
+Not Recommended
+D4
+CTB, 3/4 CTB, Plusgreen
+80Y + 55M
+D5
+1/3 CTB, 1/4 Minusgreen
+15Y
+D6
+CTB, 1/2 CTB, Plusgreen
+65Y + 50M
+F: DAYLIGHT FILTERED TO DISCHARGE LAMP
+LAMP GROUP
+DAYLIGHT TO DISCHARGE LAMP
+LENS FILTRATION
+D1
+Not Recommended
+Not Recommended
+D2
+CTO, 1/2 CTO, Plusgreen, 1/2 Plusgreen
+100C + 75M
+D3
+2X CTB, 2X Plusgreen
+80Y + 75M
+D4
+3/4 CTB, Plusgreen, 1/2 Plusgreen
+20Y + 40M
+D5
+3/4 CTO, 1/4 Minusgreen
+50C + 15M
+D6
+1/2 CTB, Plusgreen
+15Y + 25M
+FILTERS FOR OTHER FLUORESCENTS AND INDUSTRIAL DISCHARGE LAMPS
+1 6
+
+The following technique is suggested for determining color correction on location when shooting video. This technique is particularly useful when facing the vast variety of fluorescent and discharge lamps now found in industrial and commercial settings. It requires a color monitor and a bit of trial and error, but the results are quick and
+reliable. In addition to a color monitor, a vectorscope is useful but not required.
+Note that this technique is not suitable when shooting film emulsion with video preview.
+1) Determine the base reference light source in the scene. This is usually the predominant source and
+the one that will be left uncorrected.
+2) Using a grey card fully framed, white balance on this reference source.
+3) With this white balance now registered, illuminate the grey card solely with the supplemental source.
+4) Using a color monitor, carefully judge the color shift that has occurred on the grey card. Is it blue or
+yellow? green or magenta?
+5) Using color correction filter samples held in front of the camera lens, attempt to bring the coloration
+of the grey card back to neutral grey on the monitor.
+In this step it is generally best to first alter the “warmness” or “coolness” of the grey card with a 
+selection of CTB or CTO filters. Once satisfied, affix this filtration temporarily to the lens. Then repeat
+step 5 with a selection of Minusgreen or Plusgreen filters as needed to neutralize any remaining 
+green or magenta coloration.
+Your final filtration pack should not contain both CTO and CTB filters, since these opposing filters
+create neutral density and unnecessary light loss. The same applies to having both Minusgreen and 
+Plusgreen filters together in the final filtration pack.
+6) This final filtration pack should then be applied in larger sheets to all supplemental sources of this
+type.
+7) Repeat steps 3-6 as needed for supplemental sources of different types.
+USING A COLOR MONITOR TO DETERMINE THE APPROPRIATE LIGHT
+SOURCE COLOR CORRECTION IN VIDEO APPLICATIONS
+1 7
+
+Uncorrected
+Tungsten + Sodium
+Corrected Daylight
+With Cinegel 3407
+Full CTO
+CINEGEL CORRECTION FILTERS IN USE
+CORRECTING CONTRAST WITH NEUTRAL DENSITY
+CORRECTING TUNGSTEN
+CORRECTING DAYLIGHT
+CORRECTING COOL WHITE
+CORRECTING MERCURY
+CORRECTING SODIUM
+High Contrast
+Daylight + Daylight
+Corrected Contrast With
+Cinegel 3403 ND .6
+Uncorrected
+Tungsten + Daylight
+Uncorrected
+Tungsten + Daylight
+Uncorrected
+Daylight + Cool White
+Uncorrected
+Daylight + Mercury
+Tungsten Corrected
+With Cinegel 3202
+Full Blue
+Corrected Cool White
+With Cinegel 3308
+Full Minusgreen
+Corrected Mercury
+With Cinegel 3409 1/4 CTO
++ Cinegel 3308 
+Full Minusgreen
+Corrected Sodium
+With Cinegel 3208
+Quarter Blue
++ Cinegel 3308 Full
+Minusgreen
+1 8
+
+Lighting fixtures for film and video production usually function by means of a reflector that gathers light from a highwattage, point-source lamp. Often it focuses this light through a lens. The result is a more or less coherent beam that has a
+high level of intensity. The quality of the light from these fixtures may present problems. The beam field is often uneven,
+the beam edge may be too sharp, or the hard shadows created by the beam may be unflattering to the subject or objectionable in the scene.
+Effective source size is a key element of control. Placed in the beam path, diffusion materials modify the harsh quality of
+the beam by spreading or dispersing the light effectively enlarging the source size. This softens the beam and, much like
+clouds or haze in the natural environment, alters the shadow-casting properties of the beam. Additionally, diffusion material serves to reduce the contrast ratio between highlight and shadow areas in the scene.
+"TOUGH" DIFFUSION TYPES
+The following diffusion groups are designated as "Tough". This term indicates that the base material is a heat-resistant
+polyester which can be used on most high-wattage lighting fixtures.
+Tough Spun Group – Feathers the beam edge and smoothes the beam field. Beam shape is maintained with minimal beam
+spread. Slight contrast reduction. Not generally recommended on HMI’s since the texture of the filter may be reproduced in
+the beam.
+#3006 Tough Spun
+#3022 Quarter Tough Spun
+#3007 Light Tough Spun
+Tough Frost Group – A widely-used, general purpose group that offers slight-to-medium diffusion properties. Moderate
+beam spread while maintaining a discernible beam center. Moderate contrast reduction.
+#3008 Tough Frost
+#3040 Powder Frost
+#3009 Light Tough Frost
+#3020 Light Opal Tough Frost
+#3010 Opal Tough Frost
+Tough White Diffusion Group – A popular series that offer moderate-to-dense diffusion properties. Medium-to-wide beam
+spread creating an even field of soft, flattering light. Noticeable contrast reduction.
+#3026 Tough White Diffusion
+#3028 Tough 1/4 White Diffusion
+#3027 Tough 1/2 White Diffusion
+Tough Rolux Group – A dense diffuser with wide beam spread creating an even field of soft, shadowless light. Noticeable
+contrast reduction.
+#3000 Tough Rolux
+#3001 Light Tough Rolux
+Grid Cloth Group – A group of reinforced, woven polyester materials that offer dense diffusion properties. Wide beam
+spread creating an extremely soft, shadowless light. Considerable contrast reduction.
+Note: Like fabric these materials can be sewn and grommetted yet are extremely durable. Ideal for tenting or large area
+coverage. The "Silent" versions are generally preferred outdoors, since their softened finish eliminates "wind noise". 
+#3030, 3032 and 3034 are produced 48 in. x 25 ft. (122cm x 7.6m).
+#3060, 3062 and 3064 are produced 60 in. x 20 ft. (152cm x 6.09m).
+#3030 Grid Cloth
+#3060 Silent Grid Cloth ™
+#3032 Light Grid Cloth
+#3062 Silent Light Grid Cloth ™
+#3034 Quarter Grid Cloth
+#3064 Silent Quarter Grid Cloth ™
+Tough Silk Linear Diffusion – This is a unique diffuser with directional properties. It spreads the beam horizontally, vertically or diagonally to create a "slash" of light. Useful for smoothing out unwanted "beam scallop" caused by tight spaces
+and extreme lighting angles.
+#3011 Tough Silk 
+#3015 Light Tough Silk
+"SOFT" DIFFUSION TYPES
+"Soft" diffusion materials are silent when used outdoors in windy conditions. Vinyl based, these materials are only moderately heat resistant so should never be used directly on high wattage lighting fixtures.
+#3002 Soft Frost
+#3014 Hilite (similar to #3010 Opal Frost)
+#3004 Half Soft Frost
+#3029 Silent Frost (similar to #3026 White Diffusion)
+DIFFUSION MATERIALS
+1 9
+
+DIFFUSION MATERIALS
+20
+30 07 Light Tough Spun - At So u rce
+3009 Light Tough Frost - At So u rce
+3028 1/4 Tough Wh i te - At So u rce
+3026 Tough Wh i te Diffusion - At So u rce
+3032 Light Grid Cloth - On Frame at 3 fe et
+3010 Opal Tough Frost - At So u rce
+3010 Opal Tough Frost - 
+On Frame at 3 fe et
+3014 Hilite - At So u rce
+3014 Hilite - 
+On Frame at 3 fe et
+3027 1/2 Tough Wh i te - At So u rce
+3027 1/2 Tough Wh i te - 
+On Frame at 3 fe et
+No Diff u s i o n
+This page shows the subtle but sign i fi ca nt res u l ts you can achieve
+with Rosco diffusion materials.  We
+used the same model, set and film
+for each photo, changing only the
+Rosco diffusion mate r i a l s.  Note
+how results change when the same
+diffusion material is affixed at the
+source or in a frame placed at a distance from the source.
+
+BUTTERFLIES AND OVERHEADS
+A number of Cinegel diffusion materials are available to fit the standard butterfly and overhead grip frames –
+6x6, 8x8, 12x12, 20x20. All materials are supplied edge-finished with binding and grommets on 24" centers.
+Custom sizes and configurations are also available.
+Grid Cloths – #3030, 3032, 3034, 3060, 3062 – have sewn seams.
+Hilite #3014 and Silent Frost #3029 have ultrasonic welded seams.
+TRANSMISSION LOSS FOR DIFFUSION MATERIALS
+Transmission data for diffusion material is often confusing and misleading since transmission loss is dependent
+upon where the material is placed and how the measurement is taken. In fact, the term "loss" is a misnomer
+because the light is simply dispersed over a wider area, not lost.
+For transmission, some filter manufacturers provide a densitometer measurement from a lab setting, but this
+yields artificially high transmission values. Instead, the following measurements are based on real conditions of
+usage. The chart shows transmission loss when the light source is placed 10 feet (305 cm) from the subject with
+the diffusion material placed either at the source or on a frame 3 feet (91 cm) out in front. All measurements are
+taken at the beam center.
+Placing the diffusion material further out in front of the source generally yields both higher transmission and
+increased dispersion. This results in softer shadows as well as a lower contrast between the highlight and shadow areas (see photos on the previous page). This placement variable, combined with the number of diffusion
+choices, results in a vast range of alternatives for the user.
+G RO U P
+P RO D U CT
+D I F F U S I O N
+D I F F U S I O N
+AT SO U RC E
+AT 3 FEET
+S P U N :
+3006 Tough Spun
+1 7% (-2 . 6 s)
+22% (-2 . 2 s)
+30 07 Light Tough Spun
+3 4% (-1 . 6 s)
+39% (-1 .4 s)
+3022 Quarter Tough Spun
+39% (-1 .4 s)
+48% (-1 .1 s)
+F ROST:
+3008 Tough Frost
+1 8% (-2 . 5 s)
+26% (-2 .0 s)
+3009 Light Tough Frost
+36% (-1 . 5 s)
+48% (-1 .1 s)
+3010 Opal Tough Frost
+42% (-1 .3 s)
+51% (-1 .0 s)
+3040 Powder Frost
+59% (-.8s)
+6 8% (-.6s)
+3020 Light Opa l
+6 8% (-.6s)
+8 4% (-.3 s)
+WHITE DIFFUSION:
+3026 Tough Wh i te Diff u s i o n
+9% (-3. 5 s)
+1 8% (-2 . 5 s)
+3027 Tough 1⁄2 Wh i te Diff u s i o n
+1 7% (-2 . 6 s)
+3 4% (-1 . 6 s)
+3028 Tough 1⁄4 Wh i te Diff u s i o n
+26% (-2 .0 s)
+45% (-1 . 2 s)
+RO LUX:
+3000 Tough Ro l u x
+1 3% (-3.0 s)
+24% (-2 .1 s)
+3001 Light Tough Ro l u x
+21% (-2 .3 s)
+3 4% (-1 . 6 s)
+GRID CLOT H :
+3030 Grid Clot h
+3% (-5. 5 s)
+6% (-4. 2 s)
+3032 Light Grid Clot h
+10% (-3.0 s)
+1 8% (-2 . 5 s)
+3034 Quarter Grid Clot h
+1 4% (-3.0 s)
+24% (-2 .1 s)
+3060 Silent Grid Clot h
+2% (-5. 5 s)
+5% (-4.3 s)
+30 62 Silent Light Grid Clot h
+3% (-5.0 s)
+7% (-3. 8 s)
+3064 Quarter Silent Grid Clot h
+22% (-2 . 2 s)
+3 4% (-1 . 6 s)
+S I L K :
+3011 Tough Silk
+36% (-1 . 5 s
+51% (-1 .0 s)
+3015 Light Tough Silk
+42% (-1 .3 s)
+59% (-1 . 8 s)
+SO F T:
+30 02/3023 Soft Frost
+1 3% (-3.0 s)
+21% (-2 .3 s)
+3004 Half Soft Frost
+26% (-2 .0 s)
+51% (-1 .0 s)
+3014 Hilite
+39% (-1 .4 s)
+59% (-.8s)
+DIFFUSION MATERIALS
+21
+
+In color film three emulsion layers separately record the individual blue, green and red components of the visible spectrum. CalColor calibrated filters are unique in that they are specifically designed to the spectral sensitivity of these emulsion layers and allow for the adjustment of these color components at the light source. As a result, the cameraman or
+technician can exercise complete control over the coloration of selective elements within the scene with totally predictable
+results. This development represented such a significant innovation that it was granted a U.S. patent.
+The CalColor system includes the primary colors Blue, Green and Red, the secondary colors Yellow, Magenta and Cyan, and
+two intermediary colors Pink and Lavender. Each color is produced in four densities: 15cc, 30cc, 60cc and 90cc, corresponding to the familiar 1/2, 1, 2, and 3 stop calibrations.
+For example, a CalColor 90 Green filter selectively enhances green transmission by effectively reducing the blue and red
+transmission by a density of .90 or three stops. Similarly, a CalColor 90 Magenta filter selectively enhances blue and red
+transmission (creating magenta) by effectively reducing green transmission by a density of .90 or 3 stops.
+Ca l Color and The Color Wh e e l
+In addition to enhancing co l o rs, Ca l Co l o rs can be used for neutralizing, subduing or darkening the o p p os i n g co l o rs in a sce n e. 
+Blue Filter 
+B r i g htens blue. St rengthens cyan and magenta .
+D a r kens ye l l ow. Su b d u es red and gre e n .
+G reen Filter 
+B r i g htens green. St rengthens cyan and ye l l ow.
+D a r kens magenta. Su b d u es red and blue.
+Red Filter 
+B r i g htens red. St rengthens ye l l ow and magenta .
+D a r kens cyan. Su b d u es blue and gre e n .
+Ye l l ow Filter 
+B r i g htens Ye l l ow. St rengthens red and gre e n .
+D a r kens blue. Su b d u es cyan and magenta .
+M a g e nta Filte r
+B r i g htens magenta. St rengthens red and blue. 
+D a r kens green. Su b d u es cyan and ye l l ow.
+Cyan Filte r
+B r i g htens cyan. St rengthens blue and gre e n .
+D a r kens red. Su b d u es ye l l ow and magenta .
+N ote: Th ese principles also prove useful in black and white photo g ra p hy, since
+b r i g hter to n es are re n d e red as lighter grey and darker to n es are re n d e red as
+d a r ker grey.
+Combining Calcolors
+With their high degree of purity, CalColors can be combined with each other to produce a vast working palette of clean colors. The resulting combinations are also predictable for their photographic results – simply add together the component
+density values of the two filters. For example:
+30 Cyan (30C) + 15 Blue (15C, 15M) = 45 Cyan with 15 Magenta (45C + 15M) = a Light Steel Blue Filter.
+Other Uses
+In addition to their use as color effects lighting filters, CalColor can serve a number of technical uses.
+For bluescreen, greenscreen or redscreen digital compositing, the Blue, Green and Red primaries in the 60 or 90 density
+offer color enhancement for lighting the colored background. The complimentary Yellow, Magenta and Cyan tints in the 15
+density then become useful for backlighting the subject. This backlighting will neutralize any spill from the background
+that would otherwise cause contamination or fringing in the matte.
+CALCOLOR™
+22
+
+CA LCO LOR FILTERS: DENSITO M E T RY
+CO LO R
+Effe c t i ve Loss
+Effe c t i ve Loss
+Effe c t i ve Loss
+Nominal C,Y, M
+Blue Expos u re
+G reen Expos u re
+Red Expos u re
+Co m p o n e nts
+# 4215 15 Bl u e
+0.0 0
+- 0.1 4
+- 0.1 6
+15M + 15C
+# 4230 30 Bl u e
+0.0 0
+- 0. 28
+- 0.32
+30M + 30 C
+# 4260 60 Bl u e
+0.0 0
+- 0. 57
+- 0. 6 4
+60M + 60C
+# 4290 90 Bl u e
+0.0 0
+- 0. 8 8
+- 0.95
+90M + 90C
+# 4 415 15 Gre e n
+- 0.1 6
+0.0 0
+- 0.1 3
+15Y + 15C
+# 4 4 30 30 Gre e n
+- 0.31
+0.0 0
+- 0. 28
+30Y + 30 C
+#4460 60 Gre e n
+- 0. 6 0
+0.0 0
+- 0. 59
+60Y + 60C
+# 4 490 90 Gre e n
+- 0. 89
+0.0 0
+- 0.91
+90Y + 90C
+# 4 615 15 Re d
+- 0.1 5
+- 0.1 5
+0.0 0
+15Y + 15M
+# 4 6 30 30 Re d
+- 0.30
+- 0.30
+0.0 0
+30Y + 30 M
+#4660 60 Re d
+- 0. 6 0
+- 0. 58
+0.0 0
+60Y + 60M
+# 4 690 90 Re d
+- 0. 89
+- 0.9 0
+0.0 0
+90Y + 90M
+# 4 307 07 Cya n
+0.0 0
+0.0 0
+- 0.07
+7 C
+# 4 315 15 Cya n
+0.0 0
+0.0 0
+- 0.1 5
+1 5 C
+# 4 330 30 Cya n
+0.0 0
+0.0 0
+- 0.30
+30 C
+# 4 360 60 Cya n
+0.0 0
+0.0 0
+- 0. 59
+6 0 C
+# 4 390 90 Cya n
+0.0 0
+0.0 0
+- 0.92
+9 0 C
+# 4515 15 Ye l l ow
+- 0.1 5
+0.0 0
+0.0 0
+1 5 Y
+# 4530 30 Ye l l ow
+- 0.30
+0.0 0
+0.0 0
+30 Y
+# 4560 60 Ye l l ow
+- 0. 61
+0.0 0
+0.0 0
+6 0 Y
+# 4590 90 Ye l l ow
+- 0.91
+0.0 0
+0.0 0
+9 0 Y
+# 4715 15 Magenta
+0.0 0
+- 0.1 5
+0.0 0
+1 5 M
+# 4730 30 Magenta
+0.0 0
+- 0.32
+0.0 0
+30 M
+# 4760 60 Magenta
+0.0 0
+- 0. 6 4
+0.0 0
+6 0 M
+# 4790 90 Magenta
+0.0 0
+- 0.91
+0.0 0
+9 0 M
+# 4815 15 Pink
+- 0.07
+- 0.1 5
+0.0 0
+07Y + 15M
+# 4830 30 Pink
+- 0.1 5
+- 0.31
+0.0 0
+15Y + 30 M
+# 4860 60 Pink
+- 0.30
+- 0. 6 0
+0.0 0
+30Y + 60M
+# 4890 90 Pink
+- 0.4 6
+- 0.9 0
+0.0 0
+45Y + 90M
+# 4915 15 Lave n d e r
+0.0 0
+- 0.1 5
+- 0.07
+15M + 7C
+# 4930 30 Lave n d e r
+0.0 0
+- 0.30
+- 0.1 5
+30M + 15C
+# 4960 60 Lave n d e r
+0.0 0
+- 0. 61
+- 0.30
+60M + 30 C
+# 4990 90 Lave n d e r
+0.0 0
+- 0.9 0
+- 0.4 6
+90M + 45 C
+CALCOLOR™
+Ca l Color Kit
+The Ca l Color Kit (#4010) co n s i sts of 10” x 12” (25cm x 30 c m) sheets of each of the co l o rs in the ra n g e, pa c kaged in a
+h a n d y, re u sable sto rage pouch.
+23
+The Academy of Motion Picture Arts and Sciences, recognizing
+CalColor as a “significant development”, presented Rosco with
+an Academy Award® in 1999 for Technical Achievement.
+
+Cinelux is a selection of color effects filters from the Roscolux range which are produced in rolls 48" x 25’ (122cm x
+7.62m). They are ideally suited for use in film and television production where larger lighting fixtures are used and where
+color is often mounted on large grip frames. Like other Cinegel filters, Cinelux is manufactured with a patented deep-dye
+technology that locks the color into the high-temperature polyester base.
+CINELUX™
+N A M E
+T %
+x
+y
+# 02 
+Ba sta rd Amber
+78% (-0.4 s)
+0.491
+0.4 07
+#06 
+No Color St raw
+92% (-0.1 s)
+0.4 6 4
+0.41 8
+#08 
+Pale Gold
+8 6% (-0. 2 s)
+0.481
+0.41 7
+# 310 
+D a ffo d i l
+82% (-0.3 s)
+0.498
+0.45 0
+#12 
+St raw
+8 8% (-0. 2 s)
+0. 51 5
+0.4 6 0
+#16 
+L i g ht Amber
+6 8% (-0. 6 s)
+0. 532
+0.41 4
+# 316 
+Gallo Gold
+58% (-0. 8 s)
+0. 531
+0.4 0 9
+#17 
+L i g ht Flame
+5 6% (-0. 8 s)
+0. 5 4 6
+0.398
+#18 
+F l a m e
+5 6% (-0. 8 s)
+0. 5 47
+0.4 0 4
+# 318 
+M ayan Su n
+52% (-0.9 s)
+0. 57 1
+0.379
+#21 
+Golden Amber
+4 3% (-1 . 2 s)
+0. 6 0 0
+0.394
+# 321 
+Soft Golden Amber
+39% (-1 .4 s)
+0. 5 65
+0.39 9
+# 23 
+O ra n g e
+32% (-1 . 6 s)
+0. 620
+0.37 1
+# 26 
+L i g ht Re d
+12% (-3.1 s)
+0. 677
+0.31 6
+# 33 
+No Color Pink
+65% (-0. 6 s)
+0.478
+0.382
+# 333 Blush Pink
+71% (-0. 5 s)
+0.4 67
+0.38 6
+#34 
+F l esh Pink
+45% (-1 . 2 s)
+0. 522
+0.36 6
+# 37
+Pale Rose Pink
+5 6% (-0. 8 s)
+0.476
+0.372
+# 39 
+S ke l ton Exotic Sa n g r i a 10% (-3.3 s)
+0. 58 8
+0. 267
+# 41 
+Sa l m o n
+24% (-2 .1 s)
+0. 6 33
+0.3 4 3
+# 42 
+Deep Sa l m o n
+8% (-3.7 s)
+0. 65 0
+0.31 4
+#44 
+Middle Rose
+26% (-2 .0 s)
+0. 529
+0.31 3
+# 47 
+L i g ht Rose Purple
+26% (-2 .0 s)
+0.4 37
+0.302
+# 51 
+Su r p r i se Pink
+5 4% (-0.9 s)
+0.4 42
+0.379
+N A M E
+T %
+x
+y
+# 59 
+Indigo 
+2% (-5.7 s)
+0. 232
+0.1 27
+#60 
+No Color Bl u e
+62% (-0.7 s)
+0.4 0 1
+0.391
+# 360 C l ea r wa te r
+52% (-0.9 s)
+0.4 0 8
+0.391
+# 62 
+Bo oster Bl u e
+5 4% (-0.9 s)
+0.376
+0.389
+# 362 Ti pton Bl u e
+32% (-1 . 6 s)
+0.36 8
+0.374
+# 364 Blue Be l l
+32% (-1 . 6 s)
+0.337
+0.35 4
+# 65 
+D ay l i g ht Bl u e
+35% (-1 . 5 s)
+0. 274
+0.358
+# 365 Th a ron Delft Bl u e
+36% (-1 . 5 s)
+0.362
+0.36 4
+# 376 Bermuda Bl u e
+6% (-4.1 s)
+0. 26 0
+0.377
+# 77 
+G reen Bl u e
+9% (-3. 5 s)
+0.1 65
+0. 274
+# 378 A l i ce Bl u e
+1 5% (-2 .7 s)
+0.30 1
+0. 282
+#80 
+Primary Bl u e
+9% (-3. 5 s)
+0.1 6 0
+0. 2 1 0
+# 83 
+Medium Bl u e
+4% (-4.7 s)
+0.1 51
+0.1 45
+# 87 
+Pale Ye l l ow Gre e n
+85% (-0. 2 s)
+0.453
+0.4 30
+#88 
+L i g ht Gre e n
+82% (-0.3 s)
+0.453
+0.45 0
+# 89 
+M oss Gre e n
+45% (-1 . 2 s)
+0.36 0
+0. 538
+# 91 
+Primary Gre e n
+7% (-3. 8 s)
+0. 283
+0. 5 6 0
+# 92 
+Tu rq u o i se
+59% (-0. 8 s)
+0.3 4 4
+0.4 61
+# 93 
+Blue Gre e n
+35% (-1 . 5 s)
+0.31 4
+0.453
+# 97 
+L i g ht Grey
+50% (-1 .0 s)
+0.45 4
+0.4 0 9
+# 397 Pale Grey
+70% (-0. 5 s)
+0.455
+0.4 0 8
+# 98 
+Medium Grey
+25% (-2 .0 s)
+0.457
+0.4 0 8
+#99 
+C h o co l a te
+35% (-1 . 5 s)
+0. 5 07
+0.4 02
+Th ree-time Aca d e my Awa rd® winning cinemato g rapher Vi ttorio Sto ra ro is unive rsally acknowledged for his masterful use of
+color in film lighting. Sto ra ro chose Rosco to re p ro d u ce his personal pa l ette of 10 richly sa tu ra ted co l o rs, re p rese nting key
+c h romatic elements of the visible spectrum in a lighting fi l ter ra n g e.
+L i ke other Cinegel fi l te rs, The Sto ra ro Selection is manufa c tu red with a pa te nted deep-dye technology that locks the co l o r
+i nto the high-te m p e ra tu re polyester ba se.
+N A M E
+T %
+x
+y
+# 2001 
+VS Re d
+12% (-3.1 s)
+0. 677
+0.31 6
+# 20 02 VS Ora n g e
+23% (-2 .1 s)
+0. 591
+0.385
+# 20 03 VS Ye l l ow
+6 4% (-0.7 s)
+0. 55 0
+0.4 37
+# 2004 VS Gre e n
+1 5% (-2 .7 s)
+0. 277
+0. 629
+# 2005 VS Cya n
+1 8% (-2 . 5 s)
+0. 239
+0.4 41
+# 2006 VS Azu re
+9% (-3. 5 s)
+0.1 6 0
+0. 2 1 0
+N A M E
+T %
+x
+y
+# 20 07 VS Bl u e
+10% (-3.3 s)
+0. 259
+0. 267
+# 2008 VS Indigo
+4% (-4. 5 s)
+0. 233
+0.1 6 4
+# 2009 VS Vi o l et
+3% (-5.0 s)
+0.41 7
+0. 231
+# 2010 
+VS Magenta
+28% (-1 . 8 s)
+0. 5 0 8
+0. 291
+N ote: x, y chro m a t i c i ty co o rd i n a tes are mea s u red to So u rce A (tu n g ste n) .
+N ote: x, y chro m a t i c i ty co o rd i n a tes are mea s u red to So u rce A (tu n g ste n) .
+THE STORARO SELECTION
+24
+
+Bounce light or reflected light has become an increasingly useful tool when time, budget or space are limited.
+These metallic or white surfaces can be softened by an embossing to create a pleasing quality of illumination.
+Rosco’s reflector materials offer a variety of choices that are lightweight, durable and convenient. The letter designation indicates the degree of surface texturing and quality of reflection.
+These metallized materials are constructed with a reflecting surface laminated to a durable white backing, which
+is also useful as a softer reflector. They are designed for permanent mounting to reflector boards or other rigid
+surfaces such as foam-core or showcard.
+# 3801 Roscofl ex ‘M’ (Mirro r)
+M i r ror surfa ce for long throws.
+# 38 02 Roscofl ex ‘H’ (Hard )
+M a tc h es traditional “hard” refl e c tor boa rd s.
+# 38 03 Roscofl ex ‘S’ (Sof t)
+M a tc h es traditional “sof t” refl e c tor boa rd s.
+# 38 0 4 Roscofl ex ‘SS’ (Su p e rsof t)
+Wider cove rage at shorter dista n ces than Roscofl ex ‘S’ .
+# 38 0 5 Roscofl ex ‘G’ (G o l d )
+Roscofl ex ‘S’ combined with a warm gold tint.
+These ultra-thin metallized materials are lightweight, but durable. They will conform to any shape and may be
+crumpled for softer effect.
+# 3808 
+Fea t h e r fl ex S/ W
+L i g htly tex tu red. Reve rsible Silver or Wh i te.
+# 3812 
+Fea t h e r fl ex S/G
+L i g htly tex tu red. Reve rsible Silver or Gold.
+# 3813 
+Thin Mirror S
+S i l ver mirror surfa ce.
+# 3814 
+Thin Mirror G
+Gold mirror surfa ce.
+These metallized materials are specialized laminates that offer soft reflector quality as well as other features.
+# 3809 Roscosc r i m
+A tex tu red and perfo ra ted meta l l i zed refl e c tor that offe rs a soft directional quality,
+pa rt i cularly when mounted to white foa m co re or showca rd. Also useful as a neutra l
+d e n s i ty window scrim (see page 10). Placed above crew and equipment, it offe rs
+shading from the heat of direct sunlight while permitting airfl ow.
+# 3830 Spun Silve r
+A sof t, silver foil bonded to a spun polyester ba se. The silver side is suitable fo r
+d i re c ted light, longer throws, or refl e c ted sky l i g ht. The white side is useful for sof te r,
+wider cove ra g e. It can be sewn and gro m m etted into large area refl e c to rs.
+REFLECTION MATERIAL
+25
+Grips, Gaffers and other technicians concerned about the quality of the light often use more than one Rosco
+reflection material to get the exact result they want.  In this situation, for example, the filmmaker covered
+one board with Roscoflex S for a soft reflection. But because a very slightly warmer tint was needed,
+Roscoflex G was affixed to a companion board. 
+
+Eu ro p ea n - style Color Co r rection, Diffusion, Reflection and Color Effe c ts Filte rs
+Rosco has been the re co g n i zed worldwide leader in fi l ter technology for almost 100 yea rs. Rosco E- Colour co nt i nu es that tradition with a co m p re h e n s i ve collection of fi l te rs for those who are accu stomed to the Eu ro p ea n - sty l e
+color names and numbering syste m .
+Each E- Colour fi l ter is manufa c tu red through a pre c i sely co nt rolled coating pro cess utilizing the latest in dye and
+polymer te c h n o l o g y. As a res u l t, they equal or exceed the perfo r m a n ce of co m p eting Eu ro p ean bra n d s.
+E- Colour fi l te rs are available in rolls 48 in. x 25 ft. (122cm x 7. 62 m), or sheets 21 in. x 24 in. (53cm x 61 c m) .
+A QUICK REFERENCE GUIDE TO E- CO LOUR CO R R ECTION FILT E R S
+N A M E
+D ESC R I PT I O N
+M I R E D
+T RA N S.
+S H I F T
+To Increa se Ke l v i n
+200 
+Double CT B
+Tu n g sten to Day l i g ht co r rection. 2800°K to 10,0 0 0 ° K .
+-270
+1 6% (-2 .7 s)
+201 
+Full CT B
+Tu n g sten to Day l i g ht co r rection. 3200°K to 570 0 ° K .
+-1 37
+3 4% (-1 . 6 s)
+281 
+Th re e - Q u a rter CT B
+Tu n g sten to Day l i g ht co r rection. 3200°K to 5000°K.
+-1 1 2
+4 6% (-1 .1 s
+202
+Half CT B
+Tu n g sten to Day l i g ht co r rection. 3200°K to 430 0 ° K .
+-78
+55% (-.9 s)
+203 
+Q u a rter CT B
+Tu n g sten to Day l i g ht co r rection. 3200°K to 36 0 0 ° K .
+-35
+69% (-.5s)
+218 
+E i g hth CT B
+Tu n g sten to Day l i g ht co r rection. 3200°K to 3400°K.
+-1 8
+81% (-.3 s)
+To Decrea se Ke l v i n
+204 
+Full CTO
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 320 0 ° K .
++1 59
+55% (-.9 s)
+285 
+Th re e - Q u a rter CTO
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 35 0 0 ° K .
++1 32
+61% (-.7 s)
+205 
+Half CTO
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 38 0 0 ° K .
++1 0 9
+71% (-.5s)
+206 
+Q u a rter CTO
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 4600°K.
++ 6 4
+79% (-.3 s)
+223 
+E i g hth CTO
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 5600°K.
++26
+85% (-.2s)
+4 41 
+Full CTS
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 320 0 ° K .
++1 6 0
+57% (-.8s)
+4 42 
+Half CTS
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 38 0 0 ° K .
++1 0 9
+71% (-.5s)
+443 
+Q u a rter CTS
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 4600°K.
++ 6 4
+80% (-.3 s)
+444 
+E i g hth CTS
+D ay l i g ht to Tu n g sten co r rection. 6500°K to 530 0 ° K .
++26
+83% (-.2s)
+To Add Gre e n
+24 4
+Plus Gre e n
+CC 30 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+74% (-.4 s)
+245 
+Half Plus Gre e n
+CC15 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+82% (-.3 s)
+246 
+Q u a rter Plus Gre e n
+CC 075 Green when balancing to fl u o resce nt/d i sc h a rge lamps.
+N /A
+85% (-.2s)
+278 
+E i g hth Plus Gre e n
+CC 035 Green when balancing to fl u o resce nt/d i sc h a rge lamps. 
+N /A
+8 8% (-.2s)
+To Re m ove Gre e n
+247 
+Minus Gre e n
+CC 30 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+59% (-.8s)
+248 
+Half Minus Gre e n
+CC15 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+72% (-.5s)
+249 
+Q u a rter Minus Gre e n
+CC 075 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+82% (-.3 s)
+279 
+E i g hth Minus Gre e n
+CC 035 Magenta for balancing fl u o resce nt/d i sc h a rge lamps.
+N /A
+87% (-.2s)
+N e u t ral Density
+298
+.15 ND
+Re d u ces light inte n s i ty 1⁄2 sto p.
+N /A
+69% (-.5s)
+209 
+.3 ND
+Re d u ces light inte n s i ty 1 sto p.
+N /A
+51% (-1 .0 s)
+210 
+.6 ND
+Re d u ces light inte n s i ty 2 sto ps.
+N /A
+24% (-2 .1 s)
+211 
+.9 ND
+Re d u ces light inte n s i ty 3 sto ps.
+N /A
+1 3% (-3.0 s)
+299 
+1.2 ND
+Re d u ces light inte n s i ty 4 sto ps.
+N /A
+6% (-4.0 s)
+207 
+CTO + .3 ND
+D ay l i g ht to Tu n g sten co r rection plus 1 stop ND.
++1 59
+33% (-1 . 6 s)
+208 
+CTO + .6 ND
+D ay l i g ht to Tu n g sten co r rection plus 2 sto ps ND.
++1 59
+1 6% (-2 .7 s)
+A rc Co r re c t i o n
+212 
+LCT Ye l l ow
+Re d u ces color te m p e ra tu re of ye l l ow flame arcs.
++ 4 6
+89% (-.2s)
+213 
+WF Gre e n
+Re d u ces color te m p e ra tu re of white flame arcs.
+N /A
+89% (-.2s)
+226 
+UV Filte r
+A bso r bs excess Ultra Vi o l et from st ro b es, arcs and HMI.
++1 0
+92% (-.1 s)
+236 
+HMI to Tu n g ste n
+Co nve rts 6000°K HMI to Tu n g ste n .
++1 5 0
+58% (-.8s)
+F l u o resce nt Co r re c t i o n
+219 
+F l u o resce nt Gre e n
+Co nve rts Tu n g sten to Fluoresce nt.
+N /A
+32% (-1 . 6 s)
+241 
+F l u o resce nt 570 0 ° k
+Co nve rts Tu n g sten to Cool Wh i te Fluoresce nt.
+N /A
+27% (-1 .9 s)
+242 
+F l u o resce nt 430 0 ° k
+Co nve rts Tu n g sten to Wh i te Fluoresce nt.
+N /A
+37% (-1 .4 s)
+243 
+F l u o resce nt 36 0 0 ° k
+Co nve rts Tu n g sten to Warm Wh i te Fluoresce nt.
+N /A
+4 6% (-1 .1 s)
+E-COLOUR
+26
+
+N A M E
+T %
+x
+y
+0 02 
+Rose Pink
+52% (-0.9 s)
+0. 51 0
+0.31 8
+0 03 
+L avender Ti nt
+74% (-0.4 s)
+0.4 45
+0.398
+004 
+Med. Ba sta rd Amber 61% (-0.7 s)
+0. 5 03
+0.395
+0 07 
+Pale Ye l l ow
+89% (-0. 2 s)
+0.4 67
+0.426
+008 
+Dark Sa l m o n
+37% (-1 .4 s)
+0. 58 6
+0.379
+009 
+Pale Amber Gold
+70% (-0. 5 s)
+0.498
+0.41 8
+010 
+Medium Ye l l ow
+8 4% (-0.3 s)
+0. 51 4
+0.4 6 8
+013 
+St raw Ti nt
+71% (-0. 5 s)
+0. 5 0 5
+0.426
+015 
+Deep St raw
+61% (-0.7 s)
+0. 559
+0.4 36
+017 
+Su r p r i se Pea c h
+19% (-2 .4 s)
+0. 555
+0.397
+019 
+F i re
+1 7% (-2 . 6 s)
+0. 655
+0.3 41
+020 
+Medium Amber
+53% (-0.9 s)
+0. 5 67
+0.41 6
+021 
+Gold Amber
+37% (-1 .4 s)
+0. 6 0 9
+0.387
+022 
+Dark Amber
+24% (-2 .1 s)
+0. 6 4 0
+0.358
+024 
+Sca r l et
+20% (-2 .3 s)
+0. 6 33
+0.336
+025 
+Su n set Re d
+27% (-1 .9 s)
+0. 61 7
+0.365
+026 
+B r i g ht Re d
+7% (-3. 8 s)
+0. 6 85
+0.31 2
+027 
+Medium Re d
+3% (-5.1 s)
+0. 6 8 8
+0.30 4
+029 
+P l a sa Re d
+6% (-4.1 s)
+0. 6 87
+0.31 2
+035 
+L i g ht Pink
+6 3% (-0.7 s)
+0.48 0
+0.38 6
+036 
+Medium Pink
+4 6% (-1 .1 s)
+0. 51 1
+0.36 3
+039 
+Pink Ca r n a t i o n
+60% (-0.7 )
+0.474
+0.372
+046 
+Dark Magenta
+6% (-4.1 s)
+0. 6 4 0
+0.30 8
+0 52 
+L i g ht Lave n d e r
+38% (-1 .4 s)
+0.41 2
+0.337
+0 58 
+L ave n d e r
+9% (-3. 5 s)
+0.330
+0. 237
+0 61 
+M i st Bl u e
+6 3% (-0.7 s)
+0.4 0 6
+0.395
+063 
+Pale Bl u e
+5 4% (-0.9 s)
+0.387
+0.395
+068 
+S ky Bl u e
+1 3% (-3.0 s)
+0.1 77
+0. 249
+071 
+To kyo Bl u e
+1% (-6.7 s)
+0.1 5 0
+0.0 62
+075 
+Evening Bl u e
+12% (-3.1 s)
+0.1 95
+0. 237
+079 
+J u st Bl u e
+8% (-3.7 s)
+0.1 53
+0. 202
+0 85 
+Deeper Bl u e
+3% (-5.1 s)
+0.1 45
+0.1 42
+088 
+Lime Gre e n
+69% (-0. 5 s)
+0.458
+0.495
+0 89 
+M oss Gre e n
+31% (-1 .7 s)
+0.357
+0. 5 61
+090 
+Dark Ye l l ow Gre e n
+11% (-3. 2 s)
+0. 248
+0. 67 1
+100 
+Spring Ye l l ow
+71% (-0. 5 s)
+0. 5 0 4
+0.4 69
+101 
+Ye l l ow
+80% (-0.3 s)
+0. 527
+0.4 61
+1 02 
+L i g ht Amber
+75% (-0.4 s)
+0. 520
+0.4 4 4
+1 03 
+St raw
+82% (-0.3 s)
+0.48 0
+0.41 9
+104 
+Deep Amber
+6 4% (-0. 6 s)
+0. 5 4 0
+0.4 45
+105 
+O ra n g e
+41% (-1 .3 s)
+0. 597
+0.4 0 0
+106 
+Primary Re d
+9% (-3. 5 s)
+0. 679
+0.31 8
+1 07
+L i g ht Rose
+48% (-1 .1 s)
+0. 523
+0.37 1
+108 
+English Rose
+6 8% (-0. 6 s)
+0. 536
+0.39 9
+1 0 9
+L i g ht Sa l m o n
+55% (-0.9 s)
+0. 52 1
+0.375
+110 
+Middle Rose
+47% (-1 .1 s)
+0.496
+0.367
+111 
+Dark Pink
+32% (-1 . 6 s)
+0. 53 4
+0.3 41
+113 
+M a g e nta
+11% (-3. 2 s)
+0. 657
+0.30 8
+115 
+Pea cock Bl u e
+35% (-1 . 5 s)
+0. 226
+0.4 4 4
+116 
+Medium Blue Gre e n
+1 7% (-2 . 6 s)
+0.1 67
+0.4 48
+117 
+Steel Bl u e
+55% (-0.9 s)
+0.35 4
+0.4 0 8
+118 
+L i g ht Bl u e
+22% (-2 . 2 s)
+0.1 96
+0.361
+119 
+Dark Bl u e
+3% (-5.1 s)
+0.1 35
+0.1 52
+1 20 
+Deep Bl u e
+1% (-6.7 s)
+0.1 37
+0.1 0 1
+121 
+Leaf Gre e n
+6 4% (-0. 6 s)
+0.42 1
+0. 527
+1 22 
+Fern Gre e n
+51% (-1 .0 s)
+0.422
+0.458
+1 24 
+Dark Gre e n
+30% (-1 .7 s)
+0. 28 4
+0. 587
+1 26 
+M a u ve
+4% ( - 4.7 s)
+0.482
+0. 220
+1 27 
+S m o key Pink
+12% (-3.1 s)
+0. 5 4 4
+0.3 49
+1 28 
+B r i g ht Pink
+1 4% (-2 . 8 s)
+0. 575
+0. 287
+1 30 
+C l ea r
+N /A
+N A
+N /A
+1 31 
+Marine Bl u e
+27% (-1 .9 s)
+0. 29 0
+0.451
+1 32 
+Medium Bl u e
+8% (-3.7 s)
+0.1 48
+0. 232
+134 
+Golden Amber
+38% (-1 .4 s)
+0. 570
+0.396
+1 35 
+Deep Golden Amber 19% (-2 .4 s)
+0. 6 4 4
+0.355
+1 36 
+Pale Lave n d e r
+4 3% (-1 . 2 s)
+0.4 31
+0.365
+1 37 
+Special Lave n d e r
+26% (-2 .0 s)
+0.373
+0.337
+1 38 
+Pale Gre e n
+80% (-0.3 s)
+0.4 4 4
+0.4 6 3
+N A M E
+T %
+x
+y
+1 39 
+Primary Gre e n
+1 5% (-2 .7 s)
+0. 27 1
+0. 679
+140 
+Summer Bl u e
+35% (-1 . 5 s)
+0.30 4
+0.393
+1 41 
+B r i g ht Bl u e
+19% (-2 .4 s)
+0.1 61
+0.326
+1 42 
+Pale Vi o l et
+20% (-2 .3 s)
+0.31 6
+0.30 0
+143 
+Pale Navy Bl u e
+1 6% (-2 .7 s)
+0. 261
+0.359
+144 
+No Color Bl u e
+32% (-1 . 6 s)
+0. 261
+0.38 6
+1 47 
+A p r i cot
+53% (-0.9 s)
+0. 5 47
+0.4 02
+1 48 
+B r i g ht Rose
+1 4% (-2 . 8 s)
+0. 6 0 8
+0.31 9
+1 51 
+Gold Ti nt
+69% (-0. 5 s)
+0. 5 0 1
+0.395
+1 52 
+Pale Gold
+71% (-0. 5 s)
+0.494
+0.4 0 6
+1 53 
+Pale Sa l m o n
+65% (-0. 6 s)
+0.494
+0.385
+154 
+Pale Rose
+73% (-0. 5 s)
+0.487
+0.397
+156 
+C h o co l a te
+26% (-2 .0 s)
+0. 51 1
+0.41 1
+1 57 
+P i n k
+36% (-1 . 5 s)
+0. 576
+0.3 48
+1 58 
+Deep Ora n g e
+30% (-1 .7 s)
+0. 61 3
+0.38 6
+1 59 
+No Color St raw
+89% (-0. 2 s)
+0.458
+0.41 6
+1 61 
+S l a te Bl u e
+25% (-2 .0 s)
+0. 258
+0.333
+1 62 
+Ba sta rd Amber
+78% (-0.4 s)
+0.48 8
+0.4 0 8
+164 
+Flame Re d
+1 8% (-2 . 5 s)
+0. 655
+0.338
+1 65 
+D ay l i g ht Bl u e
+20% (-2 .3 s)
+0. 225
+0.31 0
+166 
+Pale Re d
+25% (-2 .0 s)
+0. 6 0 4
+0.3 41
+1 69 
+Lilac Ti nt
+65% (-0. 6 s)
+0.4 36
+0.385
+1 70 
+Deep Lave n d e r
+26% (-2 .0 s)
+0.41 8
+0.330
+1 72 
+Lagoon Bl u e
+1 7% (-2 . 6 s)
+0.1 73
+0.381
+1 74 
+Dark Steel Bl u e
+30% (-1 .7 s)
+0.31 9
+0.355
+1 76 
+Loving Amber
+50% (-1 .0 s)
+0. 537
+0.377
+1 79 
+C h rome Ora n g e
+5 4% (-0.9 s)
+0. 576
+0.41 9
+180 
+Dark Lave n d e r
+7% (-3. 8 s)
+0. 279
+0. 20 4
+1 81 
+Congo Bl u e
+1% (-6.7 s)
+0.1 8 0
+0.0 98
+1 82 
+L i g ht Re d
+11% (-3. 2 s)
+0. 675
+0.322
+1 83 
+M o o n l i g ht Bl u e
+19% (-2 .4 s)
+0.1 6 4
+0.3 4 4
+184 
+Cos m etic Pea c h
+57% (-0. 8 s)
+0.4 6 8
+0.41 2
+1 85 
+Cos m etic Bu rg u n d y
+52% (-0.9 s)
+0.470
+0.4 0 8
+186 
+Cos m etic Silver Rose 51% (-1 .0 s)
+0.470
+0.4 02
+1 87 
+Cos m etic Ro u g e
+5 4% (-0.9 s)
+0.482
+0.4 02
+188 
+Cos m etic Highlight
+5 6% (-0. 8 s)
+0.47 1
+0.41 0
+1 89 
+Cos m etic Silver Moss 61% (-0.7 s)
+0.470
+0.422
+190 
+Cos m etic Emera l d
+60% (-0.7 s)
+0.452
+0.41 7
+1 91 
+Cos m etic Aqua Bl u e 53% (-0.9 s)
+0.4 47
+0.41 5
+1 92 
+F l esh Pink
+35% (-1 . 5 s)
+0. 539
+0.339
+1 93 
+Rosy Amber
+36% (-1 . 5 s)
+0. 570
+0.35 6
+1 94 
+Su r p r i se Pink
+22% (-2 . 2 s)
+0.36 8
+0.323
+1 95 
+Zenith Bl u e
+3% (-5.1 s)
+0.1 4 4
+0.1 41
+1 96 
+True Bl u e
+27% (-1 .9 s)
+0. 26 6
+0.3 47
+1 97 
+A l i ce Bl u e
+10% (-3.3 s)
+0. 228
+0. 262
+1 98 
+Pa l a ce Bl u e
+2% (-5.7 s)
+0.1 92
+0.1 65
+322 
+Soft Gre e n
+37% (-1 .4 s)
+0. 292
+0.494
+323 
+J a d e
+31% (-1 .7 s)
+0. 233
+0. 51 7
+325 
+M a l l a rd Gre e n
+7% (-3. 8 s)
+0.1 58
+0. 557
+327 
+Fo rest Gre e n
+4% (-4.7 s)
+0. 226
+0. 597
+328 
+Fo l l i es Pink
+20% (-2 .3 s)
+0. 5 4 3
+0. 29 0
+332 
+Special Rose Pink
+11% (-3. 2 s)
+0. 61 9
+0. 28 8
+3 41 
+P l u m
+19% (-2 .4 s)
+0.479
+0.359
+343 
+Special Med. Lave n d e r 6% (-4.1 s)
+0. 278
+0.1 8 4
+344 
+Vi o l et
+20% (-2 .3 s)
+0.323
+0. 295
+3 45 
+Fu schia Pink
+1 4% (-2 . 8 s)
+0.42 1
+0. 289
+352 
+Glacier Bl u e
+23% (-2 .1 s)
+0. 230
+0.3 47
+353 
+L i g hter Bl u e
+41% (-1 .3 s)
+0. 275
+0.396
+35 4
+Special Steel Bl u e
+39% (-1 .4 s)
+0. 238
+0.427
+363 
+Special Medium Bl u e 4% (-4.7 s)
+0.1 42
+0.1 30
+366 
+Co r nfl owe r
+1 8% (- 2.5s)
+0. 29 9
+0.335
+N ote: x, y chro m a t i c i ty co o rd i n a tes are mea s u red to So u rce A
+(tu n g ste n) .
+E-COLOUR COLOR EFFECTS FILTERS
+27
+
+Spun Se r i es – Fea t h e rs the beam edge and smooths the beam field. Beam shape is maintained with minimal beam sprea d .
+S l i g ht co nt ra st reduction. Not generally re commended on HMI’s since the tex tu re of the fi l ter may be re p ro d u ced in the
+b ea m .
+# 214  Full Tough Spun
+# 229  Quarter Tough Spun
+# 215  Half Tough Spun
+Wh i te Frost and Hanover Frost Se r i es– Slight diffusion pro p e rt i es while still maintaining a discernible beam ce nte r. Minor
+co nt ra st re d u c t i o n .
+# 253  Hanover Frost
+# 220  Wh i te Frost
+# 256  Half Hanover Frost
+# 221   Blue Frost (co ntains Eight CTB #21 8 )
+# 257  Quarter Hanover Frost
+At l a ntic Frost Se r i es – A general purpose group that offe rs modera te - to-medium diffusion pro p e rt i es. Modera te bea m
+s p read. Modera te co nt ra st re d u c t i o n .
+# 480  Full At l a ntic Frost
+# 482  Quarter At l a ntic Frost
+# 481  Half At l a ntic Frost
+216 Wh i te Diffusion Se r i es – A popular se r i es that offe rs modera te - to - d e n se diffusion pro p e rt i es. Medium-to -wide bea m
+s p read with not i ceable co nt ra st re d u c t i o n .
+# 216  Wh i te Diff u s i o n
+# 251  Quarter Wh i te Diff u s i o n
+# 416  Th re e - Q u a rter Wh i te Diff u s i o n # 252  Eighth Wh i te Diff u s i o n
+# 250  Half Wh i te Diff u s i o n
+# 452  Sixte e nth Wh i te Diff u s i o n
+# 450  Th re e - E i g hths Wh i te Diff u s i o n
+H eavy Frost – A dense diff u ser with wide beam spread creating an even field of sof t, shadow l ess light. Not i ceable co nt ra st
+re d u c t i o n .
+#1 29  Heavy Frost
+Special Diffusion Materials - 
+# 228  Brushed Silk – Directional diff u se r. Spreads the beam horizo nta l l y, ve rt i cally or diagonally.
+# 224  Day l i g ht Blue Frost – 216 Wh i te Diffusion combined with CTB #20 1 .
+# 225  Neutral Density Frost – 216 Wh i te Diffusion combined with .6 Neutral Density #21 0.
+E-COLOUR DIFFUSION MATERIALS
+E-COLOUR REFLECTION MATERIALS
+# 270 Scrim – Pe r fo ra ted soft silver refl e c to r. Also useful as a neutral density window sc r i m .
+# 271  Mirror Silver – Hard Silver refl e c to r.
+# 272  Soft Gold Refl e c tor – Gold refl e c tor with a soft pebble surfa ce.
+# 273  Soft Silver Refl e c tor – Silver refl e c tor with a soft pebble surfa ce.
+28
+
+Polarizing Filte r
+Rosco Polarizing Filter is a neutra l - g ray linear polarizing fi l ter designed for use on lights. It is commonly used in
+still photo g ra p hy to re d u ce glare from smooth refl e c t i ve surfa ces such as glass, wa te r, glossy pa p e r, artwork, and
+ce rtain metallic objects. This lighting fi l ter does not re p l a ce a ca m e ra lens polarize r, but is used in conjunction with
+it to pro d u ce a “c ross polariza t i o n” effe c t. This technique re q u i res the ca m e ra opera tor to affix the Rosco
+Polarizing Filter in fro nt of the lights so that their axes are in the same direction. The ca m e ra lens polarizer is
+then rota ted until the glare diminishes or disa p p ea rs.
+Rosco Polarizing Filte rs are available in sheets 19 in. x 20 in. (48cm x 50cm), or rolls 19 in. x 5 ft. (48cm x 150cm) .
+Be ca u se of their aceta te ba se, ca re should be ta ken when used on hot lights.
+UV Filte r
+Rosco UV Filter is a slightly warm fi l ter that abso r bs 90% of the nea r- u l t rav i o l et spectrum. It is widely used by
+p h oto g ra p h e rs to absorb the excess ultrav i o l et output of st ro b es, HMI and other arc - d i sc h a rge so u rces which ca n
+ca u se unwa nted color shift or fl u o rescing of dyes and textile white n e rs. 
+Rosco UV Filter is available in sheets 20 in. x 24 in. (50cm x 61 c m), rolls 24 in. x 50 ft. (61cm x 15. 2 m), rolls 48 in.
+x 25 ft. (122cm x 7. 62 m), or in 48 in. (122 c m) sleeves designed to fit T-8 or T-12 fl u o resce nt lamps.
+Th e r m a s h i e l d
+Rosco Thermashield is an opt i cal grade polyester film finished on one side with a pro p r i etary multi-layer coa t i n g .
+This coating refl e c ts most of the damaging inf ra red heat energy emitted by film and te l evision fi x tu res while allowing tra n s m i ssion of the visible light.
+Rosco Thermashield is available in sheets 12 in. x 12 in. (30cm x 30 c m), sheets 20 in. x 24 in. (50cm x 61 c m), or
+rolls 48 in. x 4 ft. (122cm x 122 c m) .
+H eat Shield
+Rosco Heat Shield is a co l o r l ess engineered polymer with very high heat res i sta n ce. When placed between the fi xtu re and a color fi l te r, Heat Shield prov i d es a phys i cal barrier to co nve c ted heat there by ex tending the life of the
+fi l te r. For best effi c i e n cy a minimum 1 inch (25 m m) air spa ce should be maintained between the Heat Shield and
+the color fi l te r.
+Rosco Heat Shield is available in sheets 20 in. x 24 in. (50cm x 61 c m), rolls 24 in. x 50 ft. (61cm x 15. 2 m), or ro l l s
+48 in. x 25 ft. (122cm x 7. 62 m) .
+C i n e d i c h ro
+D i c h roic Glass Color Co r re c t i o n
+Rosco Cinedichro fi l te rs are ex t remely dura b l e, heat res i sta nt dichroic glass fi l te rs. Each Cinedichro fi l ter has been
+p re c i sely engineered to provide accu ra te color co r rection for either day l i g ht or tu n g sten so u rces. Be ca u se of their
+ex t reme heat res i sta n ce, Cinedichro fi l te rs can be used on most high wa ttage fi x tu res, even 6K HMI Pa rs. Ava i l a b l e
+in sizes up to a maximum diameter of 13.5 in. (343mm) .
+CT B
+CTO
+# 4 3202  Cinedichro Full Blue CT B
+# 4 3 4 07  Cinedichro Full CTO
+# 4 3204  Cinedichro Half Blue CT B
+#43408  Cinedichro Half CTO
+# 4 3208  Cinedichro Quarter Blue CT B
+#43409  Cinedichro Quarter CTO
+# 4 3026  Cinedichro Wh i te Diff u s i o n
+# 38000  Cinedichro IR/UV Filte r
+SPECIAL PURPOSE FILTERS
+29
+
+C i n efo i l
+M a tte Black Aluminum Fo i l
+Rosco Matte Black Cinefoil is a specially coa ted matte black aluminum foil that is totally opaque and stable under high hea t
+co n d i t i o n s.  It is ideal for masking light lea ks or eliminating unwa nted refl e c t i o n s. It can be quickly formed to crea te ba r nd o o rs, flags or unusual co nfi g u ra t i o n s. Lightwe i g ht yet dura b l e, Cinefoil can be positioned in place with ta p e, sta p l es or
+a d h es i ves.
+Rosco Cinefoil is available in a handy dispenser box in two sizes, 12 in. x 50 ft. (30cm x 15. 2 m), or 24 in. x 25 ft. (61cm x
+7. 62 m). It is also pa c kaged as a wide-width roll, in a re u sable sleeve, 48 in. x 25 ft. (122cm x 7. 62 m) .
+P h oto Fo i l
+C i n efoil is now available in co nve n i e nt shorter lengths for still photo g ra p h e rs, videogra p h e rs and stu d e nts. Pa c kaged in prote c t i ve polytu b e. Photo Foil offe rs the same light co nt rol pro p e rt i es at an eco n o m i cal price. Two sizes, 12 in. x 10 ft. (30 cm x
+3 m) and 24 in. x 10 ft. (61 cm x 3 m) .
+Lens Clea n e r
+The profess i o n a l ’s choice for over 50 yea rs. Especially designed for cleaning lenses, mirro rs, refl e c to rs, glass
+and dichroic fi l te rs and other delica te opt i cs. Ea sy to use and fa st drying, Rosco Lens Cleaner quickly re m oves dirt, res i d u e,
+s m u d g es, and fi n g e r p r i nts. Free of ammonia, dete rg e nts and glyce r i n e.
+Available in a 2 ounce drip bottle for smaller applications and a new 8 ounce spray bottle which is es p e c i a l l y
+s u i ted for lighting crews and re ntal shops. Useful for cleaning lenses and refl e c to rs in moving lights as well as
+sta n d a rd lighting fi x tu res.
+Lens Ti ss u e
+P remium, lightwe i g ht, disposable micro - fiber tissue for cleaning lenses, fi l te rs and other delica te opt i cs. Lint l ess and sta t i c -
+f re e, Rosco Lens Ti ssue co ntains no abra s i ves or silico n e. Best when used to g ether with Rosco Lens Clea n e r.
+Handy pocket- s i zed 4” x 6” booklet, co ntaining 100 sheets.
+P h oto Kits
+Rosco offe rs a number of kits to allow use rs to either fa m i l i a r i ze themse l ves with se l e c ted pro d u c ts, or to provide a handy
+co m p l i m e nt of fi l te rs for location lighting kits. The 10 in. x 12 in. (25cm x 30 c m) kits are pa c kaged in a handy re u sa b l e
+pouch, while the 20 in. x 24 in. (50cm x 60cm) kits are supplied in a stu rdy re u sable sto rage tu b e.
+Color Effe c ts Kit
+The fi f teen color effe c ts fi l te rs in this kit are the most popular of the 300-plus co l o rs that Rosco 
+p ro d u ces for thea t re, film and te l evision. The selection includes ambers, blues, lave n d e r, st raw, pale gold, pale 
+pink, red, magenta and green. Th ese fi l te rs are useful for 
+p roduct photo g ra p hy, ba c kg rounds or enhancing 
+skin to n es.
+Color Co r rection Kit
+This kit permits the color co r rection of virtually all mixe d - l i g ht 
+so u rces found on location. It includes a range of blue and 
+amber color co r rection fi l te rs along with a selection of green 
+and magenta color co m p e n sating fi l te rs.
+D i ffusion Kit
+D i ffusion materials help modify the harsh chara c ter of a light 
+so u rce by sof tening the beam and the resulting shadows. The 
+fi f teen materials included in this kit offer a range of diffusion 
+effe c ts from slight to dense.
+Cinegel Sampler Kit
+This is an all-purpose selection of the most popular Cinegel 
+p ro d u c ts. Th e re are fi f teen light co nt rol materials including 
+d i ffusion, reflection, color effe c ts fi l te rs and color co r rection 
+fi l te rs.
+OTHER ROSCO PRODUCTS FOR FILM, VIDEO AND PHOTOGRAPHY
+30
+
+Rosco V I EW
+Variable Inte n s i ty and Expos u re on Wi n d ows
+Rosco V I EW is a two - pa rt system co n s i sting of wide width polarizer wind ow film and a matching opt i cal glass polarizer ca m e ra fi l te r. When util i zed to g et h e r, you are able to insta ntly co nt rol 100% of ex terior brightn ess as seen through windows without affecting the lighting and ex p os u re within the studio or set. By rotating the Rosco V I EW ca m e ra fi l te r,
+you are able to change the degree of cross polarization occurring on the
+w i n d ow where Rosco V I EW window film is applied. It is no longer necessary to co n sta ntly change out various ND fi l te rs or keep many diffe re nt
+ty p es of hard gels on stand by.
+• Reduce studio downtime, no more change out of filters, increase
+shooting time
+• Great for areas where it is difficult to reapply filters regularly
+• More economical for larger window surfaces
+No. 101 07400 5609
+Window Film, 56" x 9'
+No. 101 07400 5601
+Window Film, 56" x linear 
+footage
+No. 101 07410 0404
+Camera Filter, 4" x 4"
+No. 101 07410 0405
+Camera Filter, 4" x 5.65"
+No. 101 07410 0138
+Camera Filter, 138mm
+No. 101 07410 6666
+Camera Filter, 6.6" x 6.6"
+Tr u Color IR
+In some digital and HD video cameras the use of ND camera filters can excessively desaturate the color balance of
+the shot. Rosco’s TruColor IR camera filter restores the proper color saturation by balancing the visible and infrared
+light, allowing the camera sensors to properly render color in the finished composition. Available in 4 standard
+sizes. Custom sizes available upon request.
+No. 120 48010 0404
+TruColor IR Filter - 4" x 4"
+No. 120 48010 4565
+TruColor IR Filter - 4" x 5.65"
+No. 120 48010 5656
+TruColor IR Filter - 5.65" x 5.65"
+No. 120 48010 6666
+TruColor IR Filter - 6.6" x 6.6"
+OTHER ROSCO PRODUCTS FOR FILM, VIDEO AND PHOTOGRAPHY
+31
+ND 1.2
+No Filter
+Corrected
+with adding
+TruColor IR
+No Filter
+

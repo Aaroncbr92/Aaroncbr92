@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0904 y 0905): norma de enseñanza, no norma del oficio; cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), disposición adicional segunda; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan (leído el 24-09-2026). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), leído el 24-09-2026. Convenio de 2014 (vigencia, en el tema común del convenio) y Libro de Estilo de 2004, leídos el 24-09-2026 |
-| Extensión | 9.500 palabras aproximadamente |
+| Extensión | 11.100 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -38,8 +38,10 @@ escaleta de realización y la escaleta técnica; qué es el desglose, qué se de
 distingue del guion técnico; las dos acepciones del minutado y los datos del minutado de una pieza;
 qué es el *storyboard*; qué contiene la planificación de cámaras y la planta de cámaras, y cómo se
 lee una escala; con qué criterios se decide el orden de grabación y qué separa plan de trabajo y
-orden de trabajo; el paradigma en tres actos, el conflicto, la trama y la focalización; cómo se
-determinan las necesidades técnicas y qué señales se graban. En la prueba práctica: desglosar un
+orden de trabajo; el paradigma en tres actos, el conflicto, la trama y la focalización; qué piezas y qué orden
+tiene un informativo y un magazine; cómo se calculan los tiempos de la escaleta hacia delante y hacia
+atrás y con qué se ajusta un exceso o un defecto; cómo se determinan las necesidades técnicas, también
+fuera del plató, y qué señales se graban. En la prueba práctica: desglosar un
 guion, construir una escaleta con sus tiempos, minutar una pieza, dibujar una planta de cámaras u
 ordenar la grabación de un programa.
 
@@ -138,7 +140,9 @@ La escala completa, de lo más abstracto a lo más operativo:
 La regla que ordena la tabla: cada documento contesta una pregunta distinta. La biblia contesta
 *qué mundo es éste*; la escaleta, *en qué orden*; el literario, *qué se dice y qué pasa*; el
 técnico, *cómo se ve y cómo se oye*; el *story board*, *qué aspecto tiene*; y el minutado, *cuánto
-dura*.
+dura*. En esta escala, la escaleta está en su sentido de escritura (relación ordenada de secuencias o
+bloques, de guionista o redacción); en la tabla anterior, en su sentido de televisión (el documento del programa, de
+producción y realización). Los dos sentidos se explican en el epígrafe 3.
 
 ### Las tres premisas del guion
 
@@ -372,8 +376,9 @@ El RD nombra tres escaletas, todas en el módulo 0904,
   escaleta de continuidad.»** (contenidos del mismo módulo), con la que se documentan **«la totalidad
   de los componentes audiovisuales de la emisión diaria»** (RA 5.a).
 
-La *escaleta técnica* es la escaleta de realización con todas las acotaciones del control. La
-cualificación IMS077_3 la describe al fijar lo que hace el ayudante: **«La relación de músicas,
+En el oficio, la *escaleta técnica* es la escaleta de realización con todas las acotaciones del
+control; ninguna de las fuentes leídas la define. La cualificación IMS077_3 dice qué se incluye en
+ella al fijar lo que hace el ayudante: **«La relación de músicas,
 efectos de sonido y luz, transiciones, gráficos, rótulos, envíos de señal a plató, necesidades de
 escenografía y atrezzo y demás aspectos formales previsibles, se elabora según las instrucciones que
 marca el realizador, incluyendo cada uno de los elementos en la escaleta técnica en el orden y
@@ -516,6 +521,42 @@ En un telediario, cada línea del minutado es una pieza, y su vocabulario es pro
 - Off: la locución del redactor sobre imágenes.
 - Careta, ráfaga, cortinilla: los elementos de continuidad interna.
 
+*Cómo se calculan y se ajustan los tiempos.* La cualificación IMS077_3 da la regla de control: **«El
+tiempo de cada bloque de contenido se controla comprobando que el tiempo acumulado se ajusta a las
+indicaciones del control de continuidad y a las pautas publicitarias pactadas y transmitiendo las
+diferencias en los tiempos al realizador y al director del programa.»** (UC0217_3, CR2.7). Y antes:
+**«La hora de entrada y los tiempos de publicidad se comunican al control de continuidad, informando a
+todo el equipo de las duraciones de dichas pausas y de la cuenta atrás y tiempos parciales para la
+entrada en antena, al inicio de programa y en cada bloque publicitario.»** (UC0217_3, CR2.6). El
+cálculo que sigue es de oficio.
+
+Un informativo tiene 28:00 asignados, de 14:30:00 a 14:58:00. Hacia delante, la hora estimada de
+cada bloque es la hora de entrada más el acumulado de lo anterior; hacia atrás, la hora a la que un
+bloque tiene que empezar es la hora de fin menos lo que queda desde él hasta el final:
+
+| Bloque | Duración prevista | Acumulado al terminar | Entrada (hacia delante) | Entrada (hacia atrás, desde 14:58:00) |
+|---|---|---|---|---|
+| Cabecera y titulares | 1:30 | 1:30 | 14:30:00 | 14:30:00 |
+| Bloque 1 | 9:00 | 10:30 | 14:31:30 | 14:31:30 |
+| Bloque 2 | 8:30 | 19:00 | 14:40:30 | 14:40:30 |
+| Deportes | 7:00 | 26:00 | 14:49:00 | 14:49:00 (14:58:00 − 2:00 − 7:00) |
+| Cierre y despedida | 2:00 | 28:00 | 14:56:00 | 14:56:00 (14:58:00 − 2:00) |
+
+Mientras todo va según lo previsto las dos columnas coinciden. El cálculo hacia atrás sirve cuando el
+programa se desvía: si el bloque 2 termina a las 14:50:15, deportes entra con 1:15 de retraso sobre
+su hora (14:49:00), y el programa, con los dos bloques que faltan, sumaría 29:15; lo que queda tiene
+que perder 1:15 para que el cierre entre a las 14:56:00 y el programa acabe a su hora.
+
+Con qué se ajusta, en el oficio: con los elementos flexibles de la escaleta. Ante un exceso, cae una
+pieza o unas colas, se acortan colas (por eso se montan con duración holgada, Libro de Estilo, 3.9.1),
+se recorta un total o se abrevia la despedida; ante un defecto, se alargan colas, entra una pieza de
+reserva o se estira el cierre. Qué cae es decisión editorial, no de realización (oficio, coherente con el Libro de Estilo, que manda
+adaptar cada vídeo a la duración fijada por **«los editores, responsables de todo el proceso»**, cap. 6, p. 87). Al
+realizador le llega la diferencia de tiempos (CR2.7) y le toca ejecutar el ajuste; el cambio se
+comunica a todos los afectados (Libro de Estilo, 6.1, en el epígrafe 3) y con la antelación que pide
+la cualificación para los cambios de tiempos y contenidos (UC0216_3, CR5.4, en «Orden de
+realización»).
+
 Segunda acepción: el minutado del material grabado. Minutar es describir con precisión los
 planos ya rodados, uno a uno, con su código de tiempo, su contenido, su duración y su calidad, para
 que el montador sepa qué hay sin volver a verlo todo. Se hace después del rodaje y antes del montaje.
@@ -545,8 +586,8 @@ En la casa, el Libro de Estilo exige minutar antes de montar. El periodista lleg
 edición **«con los textos ajustados y revisados, con la imagen estudiada y minutada, con un mínimo
 esquema narrativo y, en su caso, con el material de archivo que pueda necesitar»** (cap. 6, p. 88), y
 **«La edición debe acometerse siempre con una escaleta de planos, acompañada de un minutaje preciso,
-tanto como permitan las circunstancias.»** (6.3, p. 91). Para el directo, da una regla de minutado
-que toca a realización: en el formato de colas + total, **«‘colas’ y ‘total’ se montan en cintas
+tanto como permitan las circunstancias.»** (6.3, p. 91). Para el directo, da una regla de montaje de
+las piezas que toca a realización: en el formato de colas + total, **«‘colas’ y ‘total’ se montan en cintas
 separadas y con una duración de las primeras suficientemente holgada como para que una demora al
 leer, una improvisación del presentador o la inclusión de un elemento de última hora no supongan un
 inconveniente.»** (3.9.1, p. 53). La palabra «cintas» es de 2004; la regla —colas con margen—
@@ -772,6 +813,47 @@ Libro de Estilo ordena las noticias y fija el formato de cada una (6.1), y el Li
 entre otros, el reportaje, las declaraciones o totales, las colas y las colas + total (cap. 3). Que el
 formato sea una decisión narrativa antes que técnica es criterio de oficio.
 
+*La estructura de un informativo.* El Libro de Estilo no da un esquema cerrado, pero nombra sus piezas
+y dónde van:
+
+- La cabecera de entrada, a la que puede ir unida la *intro*, nombre que el Libro da **«al vídeo
+  puro que se emite, generalmente como titular, unido a la cabecera de entrada, o ligado a una ráfaga de separación como
+  primera referencia de un bloque, con imagen y sonido ambiente, sin alteración significativa de
+  edición y sin voz en off»** (3.13).
+- Los titulares: **«montados en batería sobre una base de posproducción, son la referencia de lo más
+  importante, relevante y sugestivo de un informativo»**; su objetivo **«es captar la atención del
+  espectador y retenerlo para el resto del informativo»**, y **«es recomendable que cada titular no se
+  prolongue, en toda su extensión, por encima de los diez segundos»**. **«No son un catálogo
+  desordenado de noticias»** (3.6).
+- Los bloques, separados por ráfagas o efectos: las colas se usan, entre otras razones, **«por apoyar estéticamente la
+  apertura de un bloque temático»**, y varias colas seguidas van **«generalmente agrupadas de manera
+  temática pero separadas por un efecto visual generado desde el control de realización»** (3.9).
+- El cierre: **«El vídeo editado como epílogo de un informativo es similar a las colas pero, en este
+  caso, suele primar el concepto formal o estético.»** Suele ir precedido del paso de locutor,
+  **«especialmente si sustituyen a la cabecera de salida»**, y **«El coleo debe ser suficiente para
+  incluir sin premura la despedida y los créditos.»** (3.10).
+
+Una regla de orden: **«el resultado de una encuesta no debe ser nunca materia informativa destacada o
+para la apertura de un informativo —la única excepción es el uso de sondeos propios o ajenos al cierre
+de las urnas en una jornada electoral—»** (7.1.3). Y para las desconexiones provinciales, que **«están
+obligadas a aplicar un criterio de coherencia estética y conceptual con la edición general en la que
+se integran»** (7.4).
+
+Ordenado, el esquema habitual (oficio, compatible con lo anterior): cabecera de entrada, titulares,
+bloques de noticias de mayor a menor relevancia o agrupados por temas, con sus ráfagas y pausas
+publicitarias si las hay, y cierre con despedida y cabecera de salida. La lógica de ritmo también es
+de oficio: una apertura fuerte (la noticia o la imagen de más impacto), alternancia de formatos
+(pieza, colas, total, directo) para que no se sucedan tres iguales, y un cierre más ligero o formal.
+
+*La estructura de un magazine o de un programa de entretenimiento.* La cualificación IMS077_3 los
+nombra como tipos de programa distintos del informativo al pedir que se confeccione **«la escaleta de grabación a partir del guion y
+del visionado de un programa: Informativo, Documental, Magazine, Dramático.»** (MF0216_3, CE4.6). Lo
+que sigue es oficio: cabecera y presentación, con el sumario de lo que viene; secciones fijas que se
+repiten en cada entrega (la escaleta matriz, en el epígrafe 3) y que alternan formatos —entrevista en
+plató, reportaje, actuación, conexión, concurso—; ganchos antes de cada pausa para retener al
+espectador; y un cierre con despedida y avance de la próxima entrega. El ritmo se construye
+alternando lo largo y lo corto, lo hablado y lo visual, el plató y el exterior.
+
 ### Necesidades técnicas
 
 Las necesidades técnicas son lo que el desglose y la planificación dicen que hace falta para
@@ -808,6 +890,27 @@ El oficio mide las necesidades técnicas de una localización con tres criterios
 sitio que el guion necesita?), técnico (¿se puede grabar aquí?: luz disponible, ruido, corriente
 eléctrica, altura libre, dónde caben las cámaras) y logístico (¿se puede llegar y estar?: accesos,
 aparcamiento, permisos, horarios). Sin cualquiera de los tres, el sitio no sirve.
+
+Fuera del plató, en una retransmisión o en una conexión en directo, se suman tres necesidades. La
+primera, el medio de producción exterior: la cualificación IMS077_3 incluye la **«unidad móvil»** entre
+los medios de producción del ayudante de realización (contexto profesional de la UC0216_3) y pide
+**«Describir las características y prestaciones de las unidades móviles.»** (MF0216_3, CE2.7); el RD
+pide justificar **«el diagrama de equipos y conexiones del control de realización y el plató de
+televisión, de unidades móviles y del control de continuidad»** (módulo 0910 «Medios técnicos
+audiovisuales y escénicos», RA 4.a). La segunda, que la señal de fuera llegue al control: el
+mezclador se configura con **«cámaras, líneas de vídeo, señales exteriores, gráficos y otras»**
+(módulo 0905, RA 5.c) y la mesa de audio con **«líneas exteriores»** (módulo 0904, RA 4.d, arriba).
+Cómo viaja esa señal (enlace, satélite, red) es materia técnica que las fuentes leídas no
+desarrollan. La tercera, las comunicaciones: el RD pide diseñar **«el esquema de intercomunicación
+entre los puestos de realización, cámaras, regiduría, mesa de audio, reproducción y grabación de
+vídeo, control de cámaras, control de iluminación, grafismo y conexiones exteriores»** (módulo 0910,
+RA 4.d). El Libro de Estilo pide que el equipo coordinado **«de producción, realización, enlaces e
+informativos»** prevea **«todo lo que pueda planificarse, sin olvidar cualquier eventualidad: desde
+un aguacero hasta la interrupción del sonido de retorno»** (8.3), y que los términos de cada aparición
+en directo se pacten entre **«productor, cámara, técnicos de enlace, presentador en plató, equipo de
+edición, realizador...»**: **«Siempre se intentará plasmar todos los extremos en la escaleta.»** (8.1,
+p. 114). La alimentación eléctrica entra en el criterio técnico de la localización. Las retransmisiones
+se desarrollan en el tema 3 y las comunicaciones del control, en el 4.
 
 En la escaleta técnica, las necesidades técnicas se concretan bloque a bloque: músicas, efectos de
 sonido y luz, transiciones, gráficos, rótulos, envíos de señal a plató y necesidades de escenografía
@@ -854,13 +957,14 @@ Tres casos que se preguntan en una prueba práctica:
 - Real Decreto 1680/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en
   Realización de proyectos audiovisuales y espectáculos y se fijan sus enseñanzas mínimas (BOE núm.
   302, de 16/12/2011): artículo 4 y anexo I, módulos 0902 «Planificación de la realización en cine y
-  vídeo», 0904 «Planificación de la realización en televisión» y 0905 «Procesos de realización en
-  televisión». Modificado por el Real Decreto 500/2024, de 21 de mayo, que cambia el anexo I sólo en
+  vídeo», 0904 «Planificación de la realización en televisión», 0905 «Procesos de realización en
+  televisión» y 0910 «Medios técnicos audiovisuales y escénicos». Modificado por el Real Decreto 500/2024, de 21 de mayo, que cambia el anexo I sólo en
   los módulos transversales (suprime Formación y orientación laboral, Empresa e iniciativa emprendedora
   y Formación en centros de trabajo; incluye Inglés Profesional, Itinerario personal para la empleabilidad I
   y II, Digitalización aplicada a los sectores productivos y Sostenibilidad aplicada al sistema
-  productivo; renombra «Proyecto» como «Proyecto intermodular») y sustituye el anexo III: los módulos
-  citados siguen en su texto de 2011. Es norma de enseñanza: dice qué aprende quien se forma para el
+  productivo; renombra «Proyecto» como «Proyecto intermodular»), sustituye el anexo III por el que
+  figura como su anexo XLI (artículo octavo, apartado «Cuarenta») y modifica los artículos 2, 10, 12 y
+  15, que no son los que el tema cita: los módulos citados siguen en su texto de 2011. Es norma de enseñanza: dice qué aprende quien se forma para el
   oficio, no cómo debe trabajar un realizador.
 - X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014):
   disposición adicional segunda (desconexiones provinciales). Su vigencia y prórroga, en el tema común
@@ -873,7 +977,10 @@ Tres casos que se preguntan en una prueba práctica:
   directo; si el tribunal la usa con otro sentido, no consta en documento publicado.
 - *Los formatos de guion, escaleta y parte de emisión que usa hoy CSRTV*, y el sistema informático
   de redacción en que viven: no constan en un documento publicado. Lo que el tema toma del Libro de
-  Estilo es de su edición de 2004.
+  Estilo es de su edición de 2004. Tampoco consta un esquema de bloques de los informativos o
+  magazines de la casa: el orden que da el tema es de oficio.
+- *Cómo viaja la señal desde el exterior* (enlaces, satélite, redes) y *qué unidades móviles tiene
+  CSRTV*: las fuentes leídas no lo desarrollan.
 - *Si la disposición adicional segunda del convenio se sigue aplicando hoy, y en qué centros*: no
   consta en un documento publicado leído.
 - Las extensiones orientativas de *logline*, sinopsis y argumento, la terna de premisas del guion
@@ -887,9 +994,9 @@ Tres casos que se preguntan en una prueba práctica:
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): art. 4; anexo I, módulo 0902 (RA 3.b, 3.c, 3.d, 3.e, 3.f, 3.g, 3.h, 4.b, 4.c, 4.f, 4.g, 5.d, 5.f, 7.a a 7.f y contenidos), módulo 0904 (RA 1.b a 1.f, 2 y 2.a a 2.g, 3.d a 3.g, 4.a a 4.g, 5.a y contenidos), módulo 0905 (RA 1 y 1.b a 1.g) | Fases del guion, documentos de planificación, escaleta matriz y de realización, desglose, minutados, planificación de cámaras, orden de grabación, plan de trabajo, necesidades técnicas, señales grabadas | 24-09-2026 |
-| Real Decreto 500/2024, BOE-A-2024-10685, arts. primero.Dos.a) y séptimo, anexo XLI | Que los módulos citados no se modifican | 24-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): ámbito profesional; UC0216_3 (CR1.2, CR1.3, CR1.5, CR3.5, CR4.4, CR5.1, CR5.4); UC0217_3 (CR1.2, CR1.5); UC0218_3 (CR1.1); MF0216_3 (CE5.1, CE5.2, CE5.3) | Escaleta técnica, planificación de cámaras, plantas, desglose de informativo, minutado de material y de *playbacks*, pies de texto | 24-09-2026 |
+| Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): art. 4; anexo I, módulo 0902 (RA 3.b, 3.c, 3.d, 3.e, 3.f, 3.g, 3.h, 4.b, 4.c, 4.f, 4.g, 5.d, 5.f, 7.a a 7.f y contenidos), módulo 0904 (RA 1.b a 1.f, 2 y 2.a a 2.g, 3.d a 3.g, 4.a a 4.g, 5.a y contenidos), módulo 0905 (RA 1 y 1.b a 1.g, 5.c), módulo 0910 (RA 4.a y 4.d) | Fases del guion, documentos de planificación, escaleta matriz y de realización, desglose, minutados, planificación de cámaras, orden de grabación, plan de trabajo, necesidades técnicas, señales grabadas, unidad móvil, señales exteriores e intercomunicación | 24-09-2026 |
+| Real Decreto 500/2024, BOE-A-2024-10685, arts. primero.Dos.a), séptimo y octavo (apartado «Cuarenta»), anexo XLI; nota de disposiciones afectadas (arts. 2, 10, 12 y 15, anexos I y III del RD 1680/2011) | Que los módulos citados no se modifican | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): ámbito profesional; UC0216_3 (CR1.2, CR1.3, CR1.5, CR3.5, CR4.4, CR5.1, CR5.4 y contexto profesional); UC0217_3 (CR1.2, CR1.5, CR2.6, CR2.7); UC0218_3 (CR1.1); MF0216_3 (CE2.7, CE4.6, CE5.1, CE5.2, CE5.3) | Escaleta técnica, planificación de cámaras, plantas, desglose de informativo, minutado de material y de *playbacks*, pies de texto, control de tiempos, unidad móvil, tipos de programa | 24-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, disposición adicional segunda (p. 86) | «Escaleta técnica» en las desconexiones provinciales | 24-09-2026 |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: cap. 3 (3.7, 3.9 y 3.9.1, p. 53); cap. 6 (p. 88); 6.1, 6.1.1, 6.1.2 (pp. 88-89); 6.3 (p. 91) | Escaleta, parte de emisión, reglas obligatorias, minutado de la imagen, escaleta de planos, colas + total | 24-09-2026 (6.1 a 6.1.2, en el texto ya cerrado del tema 9 de Operador/a Montador/a de Vídeo) |
-| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, tabla de documentos de escritura, unidades del guion literario, biblia, forma del guion técnico, vocabulario del minutado, *storyboard* y *animatic*, planta de cámaras y escala, construcción del plan de trabajo, teoría del guion (paradigma, conflicto, trama, *beat*, focalización), criterios de localización, aplicación práctica | — |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: cap. 3 (3.6, pp. 50-51; 3.7; 3.9 y 3.9.1, pp. 52-53; 3.10, p. 53; 3.13, p. 55); cap. 6 (pp. 87 y 88); 6.1, 6.1.1, 6.1.2 (pp. 88-89); 6.3 (p. 91); 7.1.3 (pp. 97-98); 7.4 (p. 104); 8.1 (p. 114); 8.3 (p. 116) | Escaleta, parte de emisión, reglas obligatorias, minutado de la imagen, escaleta de planos, colas + total, piezas de la estructura de un informativo, duración decidida por los editores, previsión de los directos | 24-09-2026 (6.1 a 6.1.2, en el texto ya cerrado del tema 9 de Operador/a Montador/a de Vídeo) |
+| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, tabla de documentos de escritura, unidades del guion literario, biblia, forma del guion técnico, vocabulario del minutado, *storyboard* y *animatic*, planta de cámaras y escala, construcción del plan de trabajo, teoría del guion (paradigma, conflicto, trama, *beat*, focalización), esquema y ritmo de un informativo y de un magazine, cálculo y ajuste de tiempos con su ejemplo, criterios de localización, aplicación práctica | — |

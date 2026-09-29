@@ -1,0 +1,223 @@
+ 
+ 
+R 95 
+SAFE AREAS FOR 16:9 
+TELEVISION PRODUCTION 
+ 
+ 
+VERSION 1.1 
+ 
+ 
+ 
+SOURCE: VIDEO SYSTEMS 
+ 
+ 
+ 
+ 
+ 
+Geneva 
+June 2017 
+
+ 
+                                            
+Page intentionally left blank. This document is paginated for two sided printing 
+
+EBU R 95 
+Safe areas for 16:9 TV production 
+3 
+ 
+Safe areas for 16:9 television production 
+EBU Committee 
+First Issued 
+Revised 
+Re-issued 
+BHD, QC, TC 
+1999 
+2000, ’08, ’15, ’161, ’172 
+ 
+ 
+Keywords: 16:9, widescreen Television, 14:9 protected, Frame Raster Edge, Graphics Safe Area, 
+Action Safe Area, Image Centre. 
+Introduction 
+Two safe areas are needed in television production; all essential action should be protected inside 
+an Action Safe Area, and all graphics inside a Graphics Safe Area. 
+Previous versions of this document had guidelines to safe areas that protected 16:9 originated 
+programmes for 4:3 & 14:9 presentation and 4:3 originated programme for 14:9 presentation. 
+The present recommendation concerns safe areas that protect 16:9 originated programmes (16:9 
+full format) for 16:9 full screen presentations and in addition, pixel and line values are provided for 
+SDTV and HDTV formats. Given that HD productions will inevitably also provide content to standard 
+definition television services that are still feeding 4:3 consumer displays. This recommendation is 
+aimed at those involved in any stage of the programme-making process and at manufacturers of 
+production equipment. 
+Recommendation 
+The EBU recommends that all makers of 16:9 television programmes should frame pictures to 
+ensure that: 
+ 
+where appropriate, all essential action takes place inside the Action Safe Area, and 
+ 
+all graphics are framed in the Graphics Safe Area, and 
+ 
+the centre of the image retains its position throughout all production processes unless there 
+are creative reasons to deliberately do otherwise, 
+ 
+as defined in Figures 1 - 6 in terms of pixel and line counts for 576-line (SDTV), 720 & 1080-line 
+(HDTV) and 2160 & 4320 (UHDTV) formats and in each case as a percentage of relative picture 
+height and width. 
+                                            
+1 March 2016; errors in Figures 3 & 4 corrected (3.5% of 16:9 was misquoted as 76, instead of the correct, 67 pixels). 
+ July 2016, another error in Figures 3 & 4 corrected (4:3 total width is 1296, not 1248 pixels). 
+2 June 2017, Ver. 1.1: new note to this recommendation (number 5) added as clarification. 
+
+Safe areas for 16:9 TV production 
+EBU R 95 
+4 
+Notes to this Recommendation 
+1. 
+The definitions of the safe areas are given in numbers of lines for the vertical direction 
+and number of pixels for the horizontal direction, which are now more definitive than 
+the percentages used previously. However, percentages are also included because they 
+are the basis on which comparisons may be made. 
+2. 
+The line numbering of interlaced scanning rasters has been calculated on the basis that 
+field 1 is paired with the field 2 line below it, and the line from field 1 which is just 
+inside the percentage box is defined as the edge of the safe area concerned. 
+3. 
+The pixel numbering has been calculated by using the same notation as in 
+SMPTE 274M/296M and ITU-R BT.1120-7, in which the first sample of the active part of a 
+digital line is counted as value “0”. For HD services this is also the first sample of the 
+active image. 
+4. 
+The safe areas are defined by the first and last safe line in vertical direction and by the 
+first and last safe pixel in the horizontal direction. In addition the total number of lines 
+(vertical) and pixel (horizontal) which are within the safe areas are given. 
+5. 
+The action safe area is 3.5% and the graphics safe area is 5%, at the top, bottom and 
+lateral parts of the image. 
+6. 
+The coordinates of the centre of an image are defined as 
+- 
+vertically, there will be an equal number of lines within the clean aperture above and 
+below the centre point, and 
+- 
+horizontally, there will be an equal number of pixels within the clean aperture to the 
+left and the right of the centre point. 
+ 
+Note: 
+See EBU R92 “Active picture area and picture centring in analogue and digital 
+625/50 television systems” concerning peculiarities of the 576i/25 (625/50) 
+scanning raster. 
+List of Figures 
+Figure 1: 
+Scanning raster 576i 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+ 
+Figure 2: 
+Scanning raster 720 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+ 
+Figure 3: 
+Scanning raster 1080i and 1080psf 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+ 
+Figure 4: 
+Scanning raster 1080p 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+ 
+Figure 5: 
+Scanning raster 2160p 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+ 
+Figure 6: 
+Scanning raster 4320p 16:9 safe areas for 16:9 presentation. 
+Image format: 16:9 Full Format 
+ 
+
+EBU R 95 
+Safe Areas for 16:9 television production 
+5 
+ 
+Scanning raster 576i 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+ 
+* 
+The total number of lines is 625 (active lines from 23 to 310 and 336 to 623 inclusive = 576 lines). 
+** 
+The complete digital line comprises 864 samples. Of these, the “digital active line” comprises 720 samples or pixels (numbered from 0 - 719 
+inclusive) of which the image active line comprises pixels 9 to 710 inclusive (see EBU R92 concerning peculiarities of the 576i/25 (625/50) 
+scanning raster). 
+Figure 1 
+
+Safe Areas for 16:9 television production 
+EBU R 95 
+6 
+ 
+Scanning raster 720p 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+ 
+* 
+The total number of lines is 750 (active lines from 26 to 745 inclusive = 720 lines). 
+** 
+The complete digital line consists of 1650 pixels (active pixel from 0 - 1279 inclusive = 1280 pixel). 
+Figure 2 
+
+EBU R 95 
+Safe Areas for 16:9 television production 
+7 
+ 
+Scanning raster 1080i and 1080psf 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+* 
+The total number of lines is 1125 (active lines from 21 to 560 and 584 to 1123 inclusive = 1080 lines). 
+** 
+The complete digital line comprises 2200 pixels. Of these, the “digital active line” comprises 1920 pixels (numbered from 0 - 1919 inclusive). 
+All active pixels are included in the image active line. 
+Figure 3 
+
+Safe Areas for 16:9 television production 
+EBU R 95 
+8 
+ 
+Scanning raster 1080p 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+* 
+The total number of lines is 1125 (active lines from 42 to 1121 inclusive = 1080 lines). 
+** 
+The complete digital line consists of 2200 pixels (active pixel from 0 to 1919 inclusive = 1920 pixel). 
+ 
+Of these all active pixels are included in the image active line. 
+Figure 4 
+
+EBU R 95 
+Safe Areas for 16:9 television production 
+9 
+ 
+Scanning raster 2160p 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+ 
+* 
+For the 2160p UHD raster only the term “pixels” is used for horizontal and vertical measurements. All measurements are made from the (0,0) 
+origin point 
+Figure 5 
+
+Safe Areas for 16:9 television production 
+EBU R 95 
+10 
+ 
+Scanning raster 4320p 16:9 safe areas for 16:9 presentation 
+Image format: 16:9 Full Format 
+ 
+ 
+* 
+For the 4320p UHD raster only the term “pixels” is used for horizontal and vertical measurements.  All measurements are made from the (0,0) 
+origin point 
+Figure 6 

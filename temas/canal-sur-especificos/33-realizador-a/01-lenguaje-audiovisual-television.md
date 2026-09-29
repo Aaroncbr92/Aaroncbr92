@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 1 |
 | Sirve para | Realizador/a de Canal Sur (puesto 2.33, grupo B02), y la prueba práctica del puesto |
-| Fuente | Sin norma que regule el oficio. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), para el criterio de la casa; X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), ficha del puesto de Realizador; Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos, y cualificación profesional IMS077_3 del INCUAL, como fuentes oficiales de enseñanza; Recomendaciones UIT-R BT.709-6 y EBU R 95 v1.1; Mateu Torres (2024), manual universitario de la UMH, para la teoría del montaje; material didáctico del Instituto de Tecnologías Educativas. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Libro de estilo, 1.ª ed., marzo de 2004; Real Decreto 1680/2011 en la redacción de sus módulos 0902, 0904 y 0905, que el Real Decreto 500/2024 no ha tocado; leídos entre el 24 y el 25-09-2026 |
-| Extensión | 17.400 palabras aproximadamente |
+| Fuente | Sin norma que regule el oficio. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), para el criterio de la casa; X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), ficha del puesto de Realizador; Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos, y cualificación profesional IMS077_3 del INCUAL, como fuentes oficiales de enseñanza; Recomendaciones UIT-R BT.709-6 y EBU R 95 v1.1; Mateu Torres (2024), manual universitario de la UMH, para la teoría del montaje; material didáctico del Instituto de Tecnologías Educativas y del INTEF. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Libro de estilo, 1.ª ed., marzo de 2004; Real Decreto 1680/2011 en la redacción de sus módulos 0902, 0904 y 0905, que el Real Decreto 500/2024 no ha tocado; leídos entre el 24 y el 29-09-2026 |
+| Extensión | 18.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -17,7 +17,7 @@ Televisión, S.A. (CSRTV); Unión Europea de Radiodifusión (EBU, *European Broa
 firma así sus recomendaciones); Unión Internacional de Telecomunicaciones, sector de
 Radiocomunicaciones (UIT-R); televisión de alta definición (TVAD, como la llama la versión española
 de la UIT-R); Instituto Nacional de las Cualificaciones (INCUAL); Universidad Miguel Hernández de
-Elche (UMH); resultado de aprendizaje (RA), la unidad en que el Real Decreto 1680/2011 ordena cada
+Elche (UMH); Instituto Nacional de Tecnologías Educativas y Formación del Profesorado (INTEF); resultado de aprendizaje (RA), la unidad en que el Real Decreto 1680/2011 ordena cada
 módulo; unidad de competencia (UC), criterio de realización (CR) y módulo formativo (MF), las piezas
 en que el INCUAL ordena una cualificación. El Libro de estilo de Canal Sur usa «CSTV» por Canal Sur Televisión y habla de «Canal 2
 Andalucía», nombre de la segunda cadena en 2004. Los tamaños de plano se abrevian como en un guion
@@ -49,7 +49,9 @@ de estilo para una entrevista en interior y en exterior, dónde se coloca al ent
 puede mirar a cámara; la relación de aspecto y las zonas seguras de acción y de grafismo; qué es el
 eje de acción, la regla de los 180 grados y el salto de eje, cuántos ejes de miradas hay entre *n*
 personas, cómo se cruza el eje sin desorientar y dónde se colocan las cámaras en un decorado circular;
-la regla de los tercios, el aire de cabeza y de mirada y los factores del peso visual; qué es el
+la regla de los tercios, el aire de cabeza y de mirada, los factores del peso visual y qué
+transmiten la composición simétrica y la asimétrica; qué son el plano de reacción y el plano de
+seguridad en multicámara; qué es el
 *raccord*, los cuatro aspectos del Libro de estilo y los cuatro tipos académicos, el falso *raccord*
 y el *jump cut*; cuándo se corta para que el corte no se vea; ritmo interno y externo y la duración
 mínima de un plano en Canal Sur; qué elementos componen la puesta en escena y qué es el montaje
@@ -88,6 +90,7 @@ de una entrevista respetando el eje, y justificar la elección de planos y movim
 - [Composición](#composición)
   - [Las reglas de composición](#las-reglas-de-composición)
   - [El peso visual](#el-peso-visual)
+  - [El equilibrio: simetría y asimetría](#el-equilibrio-simetría-y-asimetría)
   - [La composición en el informativo](#la-composición-en-el-informativo)
   - [La profundidad de campo como recurso de lenguaje](#la-profundidad-de-campo-como-recurso-de-lenguaje)
   - [El cambio de foco](#el-cambio-de-foco)
@@ -434,6 +437,22 @@ recorrido de tamaños desde su posición (véase «La focal, la distancia y el t
 realizador reparte los tamaños entre cámaras para que siempre haya un plano distinto del que está
 en el aire al que cortar.
 
+En ese reparto hay dos planos que tienen que estar siempre disponibles (oficio):
+
+- El plano de reacción o de escucha: el de quien escucha mientras otro habla —el entrevistador, el
+  contertulio que no tiene la palabra, el público—. En una entrevista o una tertulia multicámara lo da
+  una cámara fuera del aire que el realizador tiene preparada sobre el que escucha, para cortar a ella
+  cuando el gesto cuenta algo o para dar variedad sin salir de la conversación. Con una sola cámara no
+  se puede tener a la vez que la respuesta, y el Libro de estilo manda grabarlo aparte en la
+  entrevista grabada fuera de los estudios para su emisión íntegra: **«habrá que hacer un segundo recorrido para grabar las preguntas
+  del entrevistador con un plano idéntico, planos de escucha de uno y otro, además de los
+  imprescindibles recursos para la edición posterior.»** (3.17.1.5, p. 61). En multicámara se obtiene
+  en directo, al mismo tiempo que la intervención.
+- El plano de seguridad: normalmente el general del plató, al que se puede cortar en cualquier
+  momento sin desorientar cuando la cámara prevista no tiene el plano o falla. Su papel en la
+  prevención de errores del directo se estudia en el tema 6; en las retransmisiones deportivas ese
+  papel lo cumple la cámara máster, que sostiene la acción cuando no hay nada mejor (tema 3).
+
 ## Eje
 
 
@@ -610,6 +629,30 @@ posición lejana del centro y color cálido suma los tres factores a favor.
 A la tabla se suman el foco y la luz: lo nítido pesa más que lo desenfocado, y lo iluminado más que
 lo que queda en sombra (oficio). Por eso la profundidad de campo es también una herramienta de
 composición (véase «La profundidad de campo como recurso de lenguaje»).
+
+### El equilibrio: simetría y asimetría
+
+El INTEF, en un recurso didáctico sobre el equilibrio visual en el dibujo técnico y artístico, define el equilibrio así: **«El equilibrio es
+el estado de estabilidad perceptiva que alcanza una composición cuando sus elementos se distribuyen
+de forma que ninguna zona domina desmesuradamente.»** El peso se compensa en torno a un eje de
+equilibrio, **«la línea imaginaria donde se concentraría todo el peso visual»**, y hay dos maneras
+de alcanzarlo: **«En composiciones estáticas, este eje coincide con el centro geométrico. En
+dinámicas, se desplaza creando equilibrio asimétrico.»**
+
+| | Simetría | Asimetría |
+|---|---|---|
+| Qué es | El peso repartido por igual a ambos lados del centro (oficio) | **«La asimetría es la ausencia de correspondencia simétrica, pero no es caos. Es equilibrio mediante contraste.»** |
+| Qué transmite | **«la simetría genera orden, estabilidad y autoridad formal»** | **«la asimetría permite dinamismo narrativo»** |
+| Su riesgo | **«la simetría perfecta puede resultar estática, incluso aburrida.»** | Sin contrapeso, el cuadro se descompensa (oficio) |
+
+La asimetría no rompe el equilibrio: lo consigue con elementos distintos, porque **«elementos
+diferentes pueden alcanzar peso visual igual mediante la manipulación de variables formales.»** En el
+encuadre, esas variables son los factores de la tabla del peso visual (oficio).
+
+Aplicado a televisión (oficio): el plano frontal y centrado —el presentador que se dirige a cámara,
+el general del plató tomado desde el eje de la escena— busca estabilidad y formalidad; el sujeto
+desplazado a un tercio y compensado por el aire de mirada, el fondo o un rótulo busca dinamismo. La
+regla de los tercios es, en la práctica, una receta de equilibrio asimétrico.
 
 ### La composición en el informativo
 
@@ -1475,7 +1518,6 @@ Son dos formas de narrar que comparten vocabulario (oficio):
 | Iluminación | Se puede retocar para cada tiro | Una sola luz que sirva a todas las cámaras |
 | Géneros | Reportaje, documental, ficción, publicidad | Informativos en plató, magacines, concursos, retransmisiones, debates |
 
-En multicámara el operador no decide el corte, pero sí el plano que ofrece: tiene que tenerlo
 A la tabla se añade el sonido: con una cámara se puede rehacer; en multicámara va en directo, con el
 problema de los micrófonos a la vista (oficio).
 
@@ -1555,7 +1597,7 @@ Ninguna norma jurídica regula el lenguaje audiovisual. Los documentos que el te
 ## Trazabilidad
 
 Fuentes leídas el 24-09-2026 (Libro de estilo, convenio, Recomendaciones UIT-R y EBU, Instituto de
-Tecnologías Educativas), el 25-09-2026 (Mateu Torres) y el 24-09-2026 (Real Decreto
+Tecnologías Educativas), el 25-09-2026 (Mateu Torres), el 29-09-2026 (INTEF) y el 24-09-2026 (Real Decreto
 1680/2011 y documento publicado de la cualificación IMS077_3).
 
 | Fuente | Qué sostiene |
@@ -1565,16 +1607,18 @@ Tecnologías Educativas), el 25-09-2026 (Mateu Torres) y el 24-09-2026 (Real Dec
 | Íd., módulo 0904, RA 1.d), RA 2.e), RA 4.b)-c) y contenidos | Recursos del lenguaje en un programa; estructura y ritmo multicámara; posiciones y movimientos de la puesta en escena; planificación de cámaras; escenografía, escenografía virtual y movimiento de la acción |
 | Íd., módulo 0905, RA 3.b)-e), RA 4.b) y f), contenidos y orientaciones pedagógicas | Enfilamientos, irrupción de cámaras y elementos indeseados; solicitud de planos y movimientos; continuidad visual del atrezo; ubicación y movimientos de cámaras; tipos de programa |
 | INCUAL, IMS077_3, UC0216_3 (CR4.3 y CR4.4) y MF0216_3 (contenidos, p. 17 de 25) | Continuidad en retomes; minutado de playbacks por ritmo; movimiento de los personajes, eje de acción y de desplazamiento |
-| Libro de estilo de Canal Sur, 3.10 (p. 53), 3.17.1 a 3.17.1.3 (pp. 59-60), 5.2 a 5.3.2 (pp. 79-81), 6.2 a 6.5 (pp. 89-92), 8.3.2 (p. 117), 8.6 (p. 121), 9.2.12.3 y 9.2.12.4 (p. 130) | Variantes estéticas del realizador en cierres; entrevista; encuadre, planos, composición y movimientos en informativos; selección de planos, montaje, duración mínima, *raccord*; margen del realizador; directo; vestuario y Realización; reconstrucciones y cámara en mano |
+| Libro de estilo de Canal Sur, 3.10 (p. 53), 3.17.1 a 3.17.1.3 (pp. 59-60), 3.17.1.5 (p. 61), 5.2 a 5.3.2 (pp. 79-81), 6.2 a 6.5 (pp. 89-92), 8.3.2 (p. 117), 8.6 (p. 121), 9.2.12.3 y 9.2.12.4 (p. 130) | Variantes estéticas del realizador en cierres; entrevista y planos de escucha en la grabada con una cámara; encuadre, planos, composición y movimientos en informativos; selección de planos, montaje, duración mínima, *raccord*; margen del realizador; directo; vestuario y Realización; reconstrucciones y cámara en mano |
 | Recomendación UIT-R BT.709-6 (06/2015), apartado 2 | Relación de aspecto 16:9, 1 920 × 1 080, píxel cuadrado |
 | EBU R 95 v1.1 (junio de 2017) | Zonas seguras de acción (3,5 %) y de grafismo (5 %) por borde; centro de la imagen |
 | Mateu Torres (2024), caps. 3 a 6 y 10 | Ritmo externo e interno; funciones del montaje; elementos del corte; *jump cut*; montaje interno y externo; tipos de *raccord*; fundido y encadenado; unidades del relato; montaje narrativo, expresivo, lineal, invertido, alternado y paralelo; efecto Kuleshov; estructuras narrativas |
 | Instituto de Tecnologías Educativas, «El movimiento de la cámara en el espacio» | Panorámica descriptiva, de acompañamiento y de relación; barrido |
+| INTEF (Ministerio de Educación, Formación Profesional y Deportes), recurso «Equilibrio visual», página «Fundamentos del equilibrio visual», sesiones 1 y 2 (licencia CC BY-SA 4.0), leído el 29-09-2026 | Definición de equilibrio; eje de equilibrio en composiciones estáticas y dinámicas; simetría y asimetría y lo que transmiten; equivalencia asimétrica |
 
 Oficio sin norma detrás, y así se declara: la definición de encuadre, fuera de campo y puesta en
 escena; los tamaños de plano con sus cortes; la angulación y su carga de sentido; los planos
 objetivo, subjetivo y escorzo; la relación entre focal, distancia y tamaño de plano; el reparto de
-tamaños entre cámaras; las reglas de composición y la tabla del peso visual; el enfilamiento; el eje,
+tamaños entre cámaras; las reglas de composición y la tabla del peso visual; el enfilamiento; la aplicación de la simetría y la asimetría al plano de televisión; el plano de
+reacción y el plano de seguridad en multicámara; el eje,
 sus clases, la regla de los 180 grados, los recursos para cruzarlo y su aplicación en multicámara; las
 clases de *raccord*, el falso *raccord* y el *jump cut*; dónde se corta; la continuidad en directo;
 el ritmo en multicámara; los rasgos de la puesta en escena de plató; las familias de movimiento, el

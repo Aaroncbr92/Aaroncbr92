@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule el mezclador ni su uso. Documentación de fabricante: manual en español de los mezcladores Blackmagic Design ATEM (edición de diciembre de 2024). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Manual universitario: F. J. Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (Editorial UMH, 2024). Documentación de Adobe (Premiere) y Blackmagic Design (DaVinci Resolve 21) sobre transiciones. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Manual ATEM en su edición de diciembre de 2024 (descargado el 03-09-2026 y releído el 24-09-2026). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan (leído el 24-09-2026). Libro de Estilo de 2004, leído el 24-09-2026 |
-| Extensión | 12.500 palabras aproximadamente |
+| Extensión | 13.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -47,9 +47,9 @@ el tema usa el vocabulario del oficio y avisa cuando cita el manual.
 Qué se puede preguntar: qué hace un mezclador y qué es un banco M/E; qué atributos tiene una fuente;
 qué transiciones hay, en qué se distinguen el encadenado, la cortinilla, el fundido a color, la NAM y
 la FAM, qué hacen los botones CUT, AUTO y la palanca, qué es la transición siguiente, el fundido a
-negro y la transición animada; qué es una composición o efecto del mezclador; cuáles son las tres
+negro y la transición animada, y qué parámetros tiene una cortinilla; qué es una composición o efecto del mezclador; cuáles son las tres
 señales de una incrustación y la fórmula del compuesto; qué diferencia hay entre llave lineal y
-aditiva, qué son el clip y la ganancia, una señal premultiplicada, un *self key* y el *show key*; con
+aditiva, qué son el clip y la ganancia, la máscara de la llave, una señal premultiplicada, un *self key* y el *show key*; con
 qué color se puede hacer un croma y por qué se usan el verde y el azul, qué controles tiene, qué es el
 rebase de color y qué pide el croma a la iluminación y al vestuario; qué parámetros tiene un DVE, qué
 es el *corner pinning*, cómo se amplía una imagen sin deformarla y qué es una gafa; qué muestra el
@@ -73,6 +73,7 @@ y salidas), elegir la transición de cada paso de escaleta y resolver un croma d
   - [Los bancos de mezcla y efectos (M/E)](#los-bancos-de-mezcla-y-efectos-me)
 - [1. Transiciones](#1-transiciones)
   - [Los modos de transición](#los-modos-de-transición)
+  - [Los parámetros de la cortinilla](#los-parámetros-de-la-cortinilla)
   - [NAM y FAM](#nam-y-fam)
   - [Cómo se ejecuta una transición](#cómo-se-ejecuta-una-transición)
   - [El fundido a negro](#el-fundido-a-negro)
@@ -84,6 +85,7 @@ y salidas), elegir la transición de cada paso de escaleta y resolver un croma d
   - [Las tres señales de una incrustación](#las-tres-señales-de-una-incrustación)
   - [Aditivo frente a lineal](#aditivo-frente-a-lineal)
   - [Clip y ganancia](#clip-y-ganancia)
+  - [La máscara de la llave](#la-máscara-de-la-llave)
   - [Las señales premultiplicadas](#las-señales-premultiplicadas)
 - [4. Chroma](#4-chroma)
   - [Qué es](#qué-es)
@@ -244,6 +246,30 @@ cortinillas, transiciones con efectos visuales digitales y transiciones animadas
 MIX, DIP, WIPE, DVE y STING; y el propio manual avisa de que **«Las transiciones disponibles dependen
 del modelo de mezclador.»**
 
+### Los parámetros de la cortinilla
+
+En un panel ATEM, la cortinilla se prepara en el previo, se elige con el botón WIPE y se ajusta
+antes de lanzarla. Dos de los pasos del manual: **«Gire el mando para seleccionar la forma de la
+cortinilla.»** y **«Seleccione la fuente para el borde.»** El borde no está limitado a un color:
+**«Es posible emplear cualquier fuente del mezclador para el borde de una cortinilla. Por ejemplo, se
+puede utilizar una imagen del reproductor multimedia en un borde ancho para destacar una marca o un
+patrocinador.»**
+
+Además de la duración (tiempo, en segundos y fotogramas), el manual da estos parámetros:
+
+| Parámetro (manual ATEM) | Qué hace |
+|---|---|
+| Simetría | **«Se utiliza para controlar la relación de aspecto de la forma geométrica. Por ejemplo, ajustando este valor, es posible transformar un círculo en una elipse.»** |
+| Posición | Mueve el centro de la forma en la pantalla, si la forma lo permite, con la palanca de mando del panel o desde el programa informático de control |
+| Invertir dirección | **«Al invertirla, la transición comienza desde los bordes de la pantalla hacia el centro.»** |
+| Alternar | Con la función activada, **«la dirección de la transición alterna entre normal e inversa cada vez que se ejecuta.»** |
+| Ancho | **«Permite ajustar el ancho del borde.»** |
+| Atenuación | **«Permite ajustar la definición de los bordes.»** |
+
+Una variante es la cortinilla con gráficos: un gráfico fijo hace de borde y cruza la pantalla en
+horizontal. Según el manual, ese gráfico debería ser **«una especie de pancarta vertical cuyo ancho no supere el 16 % del
+ancho total de la pantalla.»**
+
 ### NAM y FAM
 
 Las dos son maneras de mezclar dos imágenes sin encadenarlas linealmente, y se diferencian en lo que
@@ -339,7 +365,8 @@ manual ATEM entre paréntesis):
 
 Los generadores de color son la fuente más simple: el manual ATEM dice que **«permiten seleccionar un
 color y ajustar el tono, la saturación y la luminancia»**. Sirven de fondo para rótulos, de color
-intermedio para un fundido o de relleno de un borde.
+intermedio para un fundido o de relleno del borde de una cortinilla, aunque ese borde admite
+cualquier fuente del mezclador (epígrafe 1).
 
 La llave de figura recorta con una forma que genera el propio mezclador. En la descripción del manual
 ATEM, **«permite superponer sobre el fondo una imagen recortada según una cierta figura geométrica. En
@@ -436,6 +463,20 @@ El manual de los ATEM describe esos dos controles con otro nombre y la misma fun
 > parámetro si el fondo se ve completamente negro. Ganancia Permite modificar electrónicamente el
 > valor de visibilidad de la imagen superpuesta atenuando su borde.
 
+### La máscara de la llave
+
+Las llaves del mezclador llevan una máscara rectangular. El manual ATEM la describe así: **«Las
+diferentes funciones para combinar imágenes cuentan con una máscara rectangular ajustable que puede
+utilizarse para eliminar bordes ásperos y otros artefactos de la señal. Al modificar el largo o el
+ancho de dicho rectángulo, es posible cubrir diversas partes de la imagen. Asimismo, se puede emplear
+como una herramienta creativa para ocultar diversos elementos.»** En las llaves lineal y de luminancia,
+la opción de máscara **«Permite crear una máscara rectangular que puede ajustarse modificando los
+campos Superior, Inferior, Izquierda y Derecha.»**
+
+En el croma es un recurso de oficio: cuando el ciclorama no cubre todo el encuadre y asoman focos,
+bordes del fondo o parte del plató, la máscara tapa esas zonas sin tocar el plano ni los ajustes del
+color.
+
 ### Las señales premultiplicadas
 
 Un grafista entrega un logotipo con su señal de llave y avisa de que está precortado o
@@ -506,7 +547,8 @@ superpuesta.»**), el límite de luminancia y la opción de espectro limitado, q
 color del primer plano se parece al del fondo: **«Si algunos de los colores de la imagen en primer
 plano son demasiado parecidos al color de fondo seleccionado para la composición, es posible que
 resulte difícil excluirlos. Al activar esta opción, se reduce el espectro en torno a dicho color.»**
-Esos parámetros se pueden ajustar mirando el vectorscopio con barras de color como imagen.
+Esos parámetros se pueden ajustar poniendo las barras de color como imagen de fondo y mirando el
+resultado en un vectorscopio.
 
 En los modelos con croma avanzado, el color no se busca con un mando: se toma una muestra del fondo.
 **«Seleccione un área representativa del fondo verde que abarque el mayor rango de luminancia
@@ -1135,7 +1177,7 @@ Es norma de enseñanza: dice lo que aprende quien se forma para realizar, no có
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024), epígrafes de transiciones, composición de imágenes (luminancia, lineal, crominancia y crominancia avanzada, geométrica, efectos visuales digitales), transiciones animadas, SuperSource, visualización simultánea, ajustes de fuentes, macros, reproductores multimedia y fundido a negro | Tipos de transición y sus mandos; fundido a negro; transición animada; composiciones previas y posteriores; luminancia y lineal; croma y sus controles; rebase; DVE; figura; SuperSource; multipantalla; nombres de fuente; macros; *clip store*; salida del alfa | Descargado el 03-09-2026; releído el 24-09-2026 |
+| Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024), epígrafes de transiciones, composición de imágenes (luminancia, lineal, crominancia y crominancia avanzada, geométrica, efectos visuales digitales), transiciones animadas, SuperSource, visualización simultánea, ajustes de fuentes, macros, reproductores multimedia, máscaras y fundido a negro | Tipos de transición y sus mandos; parámetros de la cortinilla y cortinilla con gráficos; máscara de la llave; fundido a negro; transición animada; composiciones previas y posteriores; luminancia y lineal; croma y sus controles; rebase; DVE; figura; SuperSource; multipantalla; nombres de fuente; macros; *clip store*; salida del alfa | Descargado el 03-09-2026; releído el 24-09-2026 |
 | Real Decreto 1680/2011 (BOE-A-2011-19599), texto del diario oficial; vigencia comprobada en su ficha (modificación por el Real Decreto 500/2024) | Lo que la norma de enseñanza pide hacer con el mezclador, el multipantalla, el titulador y la grabación; usos narrativos de las transiciones | 24-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.6.1, 3.10, 3.16 a 3.16.2, 6.5.1, 6.5.2, 8.6.1 y 9.9.2 | Rótulo, cierres, gráficos, criterio de realización informativa, vestuario ante el croma, imágenes duras | 24-09-2026 |
 | Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, 3.2 | Fundido y encadenado | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
@@ -1144,7 +1186,7 @@ Es norma de enseñanza: dice lo que aprende quien se forma para realizar, no có
 Oficio y física de la señal, declarados así en el texto: las tres funciones del mezclador; el M/E como
 mezclador dentro del mezclador; la tabla de modos de transición y la distinción entre NAM y FAM; las
 tres señales, la fórmula del compuesto y la diferencia entre llave lineal y aditiva; clip y ganancia;
-la premultiplicación; *self key* y *show key*; la tabla de tipos de llave y el *coring*; el croma con
+la premultiplicación; el uso de la máscara en el croma; *self key* y *show key*; la tabla de tipos de llave y el *coring*; el croma con
 cualquier color y el porqué del verde y el azul; croma en directo y decorado virtual; los
 parámetros del DVE, el *corner pinning*, el eje Z y el PinP; la gafa; la tabla de memorias y el
 comportamiento de un efecto programado en marcha; el *clip store*; los atributos de la fuente; *black

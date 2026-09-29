@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 13 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule la postproducción. Lo propio de la casa: X Convenio colectivo de la RTVA (fichas de puesto) y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011 (módulos 0905, 0906 y 0907). Recomendaciones técnicas: UIT-R BT.1702-3 (destellos), EBU R 128 y R 128 s1 (sonoridad), EBU Tech 3343; documentos de control de calidad de la UER. Documentación de fabricante: Avid (*Media Composer User's Guide*, 1999; *Avid DNxHD Technology*, 2012), Blackmagic Design (*DaVinci Resolve 21 Reference Manual*), Adobe (ayuda de Premiere), EVS (manual de IPDirector). Teoría del montaje: tesis de J. M. Todd (Georgia Tech, 1989) sobre Eisenstein. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | La vigente el 24-09-2026: Recomendación UIT-R BT.1702-3 (11/2023), en vigor; EBU R 128-2023 (versión 5), R 128 s1 V3 (agosto de 2020) y Tech 3343-2023 (versión 4). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Documentación de fabricante en la versión leída (fechas en «Trazabilidad») |
-| Extensión | 15.900 palabras aproximadamente |
+| Fuente | Sin norma que regule la postproducción. Lo propio de la casa: X Convenio colectivo de la RTVA (fichas de puesto) y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011 (módulos 0905, 0906 y 0907). Recomendaciones técnicas: UIT-R BT.1702-3 (destellos), EBU R 128 y R 128 s1 (sonoridad), EBU Tech 3343, EBU R 123 (pista internacional); documentos de control de calidad de la UER. Documentación de fabricante: Avid (*Media Composer User's Guide*, 1999; *Avid DNxHD Technology*, 2012), Blackmagic Design (*DaVinci Resolve 21 Reference Manual*), Adobe (ayuda de Premiere), EVS (manual de IPDirector). Teoría del montaje: tesis de J. M. Todd (Georgia Tech, 1989) sobre Eisenstein. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | La vigente el 24-09-2026: Recomendación UIT-R BT.1702-3 (11/2023), en vigor; EBU R 128-2023 (versión 5), R 128 s1 V3 (agosto de 2020), Tech 3343-2023 (versión 4) y R 123 (julio de 2009, la versión leída). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Documentación de fabricante en la versión leída (fechas en «Trazabilidad») |
+| Extensión | 17.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -24,7 +24,9 @@ Production Partnership (DPP), que se estudia en el tema 14; la descripción del 
 *Active Format Description*) y el código de tiempo (TC, *timecode*), que aparecen en las definiciones
 de la UER; los tres primarios rojo, verde y azul (RGB); la luminancia (Y) y las diferencias de color
 (Cb y Cr, que Blackmagic escribe CB y CR); YRGB, la luminancia más los tres primarios, como la
-escribe Blackmagic; la tabla de consulta (LUT, *look-up table*); el formato de LUT común (CLF,
+escribe Blackmagic; la lista de decisiones de edición (EDL, *edit decision list*), el formato avanzado
+de autoría (AAF, *advanced authoring format*) y el lenguaje de marcado extensible (XML); música y
+efectos (M&E, *music and effects*), sigla que la UER usa para dos de las variantes de la pista internacional; la tabla de consulta (LUT, *look-up table*); el formato de LUT común (CLF,
 *Common LUT Format*) y el lenguaje de transformación de color de Resolve (DCTL, *DaVinci Color
 Transform Language*); matiz, saturación y luminosidad (HSL, *hue, saturation, luminance*); alto rango
 dinámico (HDR, *high dynamic range*), con su curva híbrida logarítmica-gamma (HLG, *hybrid log-gamma*),
@@ -57,8 +59,8 @@ desplazar el plano), *match frame* (buscar el fotograma original), *render* (cá
 Qué se puede preguntar: qué es la postproducción y qué fases tiene; quién dirige el montaje, la
 postproducción y las mezclas en la RTVA y quién controla la calidad; qué pide el módulo 0907 del RD
 1680/2011; cuáles son los cinco métodos de montaje de Eisenstein y qué ordena cada uno; qué es un
-montaje preliminar y qué separa el *offline* del *online*; qué distingue la edición lineal de la no
-lineal; qué es trimar y qué diferencia el *slip* del *slide*; qué hace el *match frame*; qué es el
+montaje preliminar, qué separa el *offline* del *online* y qué es una EDL; qué distingue la edición lineal de la no
+lineal; qué es una edición a tres puntos y qué distingue insertar de sobrescribir; qué es trimar y qué diferencia el *slip* del *slide*; qué es un corte partido, en L o en J; cómo se monta un programa grabado con varias cámaras; qué hace el *match frame*; qué es el
 coleo; qué es renderizar; qué códec conviene para montar; cómo se resta un código de tiempo y qué es
 el *drop frame*; qué hace un servidor de repetición y qué son los canales
 enganchados; qué es un efecto, qué familias de incrustación hay y por qué el fondo es verde; qué es
@@ -69,7 +71,7 @@ qué muestran el desfile y el vectorscopio, qué es una LUT 1D y una 3D y qué d
 primaria de la secundaria; quién hace el grafismo y
 qué pide el Libro de Estilo a los gráficos; en qué orden se mezcla, qué es el ADR y qué sonoridad y
 qué pico verdadero ha de cumplir el programa; qué es una plantilla de control de calidad de la UER y
-qué comprueba; qué destellos y patrones da por dañinos la BT.1702-3; qué especifica un máster y qué
+qué comprueba; qué destellos y patrones da por dañinos la BT.1702-3; qué especifica un máster, qué lleva la pista internacional y qué
 señales se graban en un programa de plató. En la prueba práctica: dirigir el acabado de un reportaje,
 montar un resumen deportivo desde el servidor de repetición o resolver una pieza que la revisión de
 calidad devuelve.
@@ -90,7 +92,10 @@ calidad devuelve.
 - [2. Edición](#2-edición)
   - [Lineal y no lineal](#lineal-y-no-lineal)
   - [Los programas](#los-programas)
+  - [Llevar un plano a la secuencia: tres puntos, insertar y sobrescribir](#llevar-un-plano-a-la-secuencia-tres-puntos-insertar-y-sobrescribir)
   - [Ajustar un corte: el *trim*](#ajustar-un-corte-el-trim)
+  - [El corte desfasado: imagen y sonido por separado](#el-corte-desfasado-imagen-y-sonido-por-separado)
+  - [Montar un programa grabado con varias cámaras](#montar-un-programa-grabado-con-varias-cámaras)
   - [Del montaje al original: el *match frame*](#del-montaje-al-original-el-match-frame)
   - [El coleo](#el-coleo)
   - [El *render*](#el-render)
@@ -292,6 +297,18 @@ Por qué existió la separación: cuando el disco era caro y lento, montar con m
 separación se mantiene en producciones grandes, no por el disco, sino porque el montaje se hace en
 una sala y el acabado en otra.
 
+Con qué se reconforma: el *offline* no entrega imagen, sino la lista de sus decisiones. La guía de
+Media Composer define la clásica, la EDL:
+**«An EDL (edit decision list) is a detailed list of the edits contained in a sequence, including all
+the timecode and supported effects information required to re-create the sequence in an online
+videotape suite.»** (una lista detallada de los cortes de la secuencia, con los códigos de tiempo y
+los efectos admitidos que hacen falta para rehacerla en la sala de acabado; p. 710). Y la ordena en
+**«a series of chronological instructions called events»** (una serie de instrucciones cronológicas
+llamadas eventos; p. 710). Como cada evento se localiza por su código de tiempo, la lista sólo
+funciona si el código y el nombre de la cinta o del fichero identifican el material sin ambigüedad
+(oficio). Los otros formatos de intercambio de
+un proyecto —el AAF y los XML de cada fabricante—, qué lleva cada uno y sus límites, son el tema 14 («Los formatos de proyecto»).
+
 Aplicación: el realizador revisa el primer montaje contra el guion y el minutado (tema 7, «De la
 grabación al montaje: los documentos»), pide los cambios de estructura cuando todavía son baratos,
 y sólo cuando la estructura está cerrada entra el acabado (color, efectos, grafismo, mezcla).
@@ -337,6 +354,32 @@ Media Composer y el servidor de repetición de EVS son los dos productos que se 
 ejemplo de montaje y de repetición; lo que se dice de ellos sale de su documentación, citada con su
 versión, y sirve para entender las operaciones, no para suponer qué equipos tiene CSRTV.
 
+### Llevar un plano a la secuencia: tres puntos, insertar y sobrescribir
+
+Un plano pasa del monitor de fuente a la secuencia marcando dónde empieza y dónde acaba en cada lado.
+Hay cuatro marcas posibles (entrada y salida en la fuente, entrada y salida en la secuencia), pero
+basta con tres: **«In most cases, you perform three-point edits in which you set three marks — two in
+the source material and one in the sequence, or the reverse. The fourth mark is determined
+automatically.»** (en la mayoría de los casos se hacen ediciones a tres puntos: dos marcas en la
+fuente y una en la secuencia, o al revés, y la cuarta la calcula el sistema; Avid, *Media Composer
+User's Guide*, 1999, p. 447). La guía da tres órdenes para añadir material: **«the splice-in,
+overwrite, and replace commands»** (p. 447).
+
+| Orden | Qué hace con lo que ya está en la secuencia | Duración de la secuencia |
+|---|---|---|
+| Insertar (*splice-in*) | **«inserts the material marked in the Source monitor into the sequence without replacing material already in the sequence»**; lo que sigue se desplaza (p. 447) | **«lengthening the overall duration of the sequence»**: crece (p. 447) |
+| Sobrescribir (*overwrite*) | **«replaces a section of the sequence with the material you select in the Source monitor»** (p. 448) | **«does not lengthen the overall duration of the sequence»**: no cambia (p. 448) |
+| Reemplazar (*replace*) | Sustituye un plano de la secuencia por material nuevo **«while maintaining the original IN and OUT points of the previous edit»**, sincronizando por un cuadro elegido en cada lado (p. 449) | No cambia: rellena el hueco del plano sustituido |
+
+Un ejemplo de tres puntos (cálculo propio): se marca en la secuencia la entrada y la salida del hueco
+que deja un plano de tres segundos, y en la fuente sólo la entrada del recurso; el sistema toma de la
+fuente tres segundos desde esa entrada. Si se marcan en la fuente entrada y salida y en la secuencia
+sólo la entrada, la duración la manda la fuente.
+
+La regla de la sala (oficio): se inserta cuando lo nuevo tiene que empujar lo que sigue (añadir una
+respuesta a una entrevista) y se sobrescribe cuando la duración ya está cerrada y sólo cambia la
+imagen (poner recursos sobre la voz de un total, sin mover el audio de debajo).
+
 ### Ajustar un corte: el *trim*
 
 Trimar es mover el punto de entrada o de salida de un plano que ya está en el montaje, alargándolo o
@@ -369,6 +412,51 @@ La guía de Avid da nombre a cada modalidad:
 La regla que las separa (oficio): trimar no cambia lo que se ve dentro del plano, sino dónde empieza y
 dónde acaba; cambiar un plano por otro es sustituir, y cambiar su velocidad para que encaje es un
 efecto de tiempo (epígrafe 3).
+
+### El corte desfasado: imagen y sonido por separado
+
+No todos los cortes cortan a la vez la imagen y el sonido. La guía de Avid llama corte partido
+(*split edit*) a aquel **«in which the audio extends beyond the video, or the reverse»** (en el que el
+audio va más allá del vídeo, o al revés; p. 502), y lo construye como una edición solapada
+(*overlap edit*), que sirve **«to smooth a transition by giving the viewer the illusion that the audio
+or video is shared between two separate but adjacent shots»** (para suavizar el paso dando la
+impresión de que dos planos contiguos comparten el sonido o la imagen; p. 537). Su índice la da
+también por el nombre de la sala: **«L-cut edit (Overlap edit)»**.
+
+Cómo se hace, según la misma guía: primero un corte seco de imagen y sonido; después, un *trim* de
+dos rodillos **«on either the video track or the audio tracks, but not both»** (en la pista de vídeo o
+en las de audio, pero no en las dos). Si la imagen corta donde debe y se quiere que el sonido de un
+plano **«linger into the other (or the reverse)»** (se prolongue en el siguiente, o al revés), se
+trima el audio; si es el sonido el que está bien, se trima el vídeo para que la imagen cambie antes o
+después (p. 538). La edición extendida (*extend edit*) permite **«to quickly create a split edit
+without entering Trim mode»** (p. 538).
+
+| Nombre de la sala | Qué va por delante | Ejemplo |
+|---|---|---|
+| Corte en L | La imagen: cambia el plano y sigue oyéndose el sonido del anterior | El entrevistado termina la frase sobre el plano del periodista que escucha |
+| Corte en J | El sonido: se oye el plano siguiente antes de verlo | La voz de la siguiente respuesta entra sobre el final del plano anterior y la imagen cambia después |
+
+Los nombres L y J vienen de la forma que dibujan las pistas en la línea de tiempo (oficio; la guía de
+1999 sólo recoge el de L). Para qué sirven (oficio): una entrevista o un diálogo montados con todos
+los cortes a la vez suenan a cortados; desfasar el sonido hace que el corte de imagen pase
+inadvertido y que el espectador mire a quien va a hablar o a quien escucha. Una advertencia de la
+guía: si se reordenan planos en la vista de cabezas, un corte partido pierde el desfase y **«the system
+cuts all tracks to the same edit point»** (corta todas las pistas en el mismo punto; p. 502).
+
+Al *trim* de un corte partido le sigue el *crossfade* de audio en el punto de corte del sonido
+(epígrafe 5, «El fundido cruzado de audio»).
+
+### Montar un programa grabado con varias cámaras
+
+Un programa de plató grabado con las cámaras aisladas se monta sincronizando todas sus tomas y
+cortando entre ellas, como en el mezclador pero después. Media Composer lo hace agrupando los clips:
+un clip de grupo es **«A clip containing two or more grouped clips, strung together sequentially
+according to common timecodes»** (un clip que reúne dos o más clips agrupados según su código de tiempo
+común; glosario, p. 268), y la función de agrupar **«allows you to sync clips based on common source
+timecode, auxiliary timecode, or marks placed in the footage»** (sincroniza por el código de tiempo de
+origen, por un código auxiliar o por marcas puestas en el material; p. 662). Por eso importa que las
+cámaras graben el mismo código de tiempo, que es lo que pide el Libro de Estilo en la entrevista con
+varias cámaras (epígrafe «La aritmética del código de tiempo»).
 
 ### Del montaje al original: el *match frame*
 
@@ -1059,6 +1147,9 @@ produce un chasquido, porque la onda salta de un valor a otro sin transición. U
 dos o tres fotogramas basta para que ese salto desaparezca, y por eso los montadores lo ponen por
 sistema en todos los cortes de audio, aunque no se busque ningún efecto.
 
+Cuando el sonido no corta donde la imagen (corte en L o en J, epígrafe 2, «El corte desfasado»), el
+*crossfade* va en el punto de corte del sonido, no en el de la imagen (oficio).
+
 ### El doblaje: ADR
 
 El ADR es la creación y sustitución de diálogo en sincronía labial, en postproducción de sonido.
@@ -1250,7 +1341,15 @@ and dark pairs of clearly discernible stripes in any orientation.»** La orienta
 recomendación recoge como usada por algunas administraciones concreta: más de cinco pares de rayas
 y **«the stripes are stationary and the pattern occupies more than 40% of the displayed screen
 area»**, o **«the stripes change direction, oscillate, flash, or reverse in contrast and the pattern
-occupies more than 25% of the displayed screen area»**.
+occupies more than 25% of the displayed screen area»**. Con dos condiciones más: para que el patrón
+cuente como dañino, **«the difference between the luminance of the darker and lighter bars of the
+pattern will be the same as the difference between the darker and brighter images of a potentially
+harmful flash described in Guideline 1 above»** (la diferencia de luminancia entre las rayas oscuras
+y las claras ha de ser la de un destello dañino de la directriz 1); y queda fuera el patrón que fluye
+en un solo sentido: **«If the patterns obviously flow smoothly across, into, or out of the
+screen in one direction they are exempt from restriction.»** En la sala (oficio): un fondo de rayas que
+se desplaza suavemente en una sola dirección no está restringido; el mismo fondo, si oscila, cambia
+de sentido o parpadea, se mide con el umbral del 25 %.
 
 Tres notas de la recomendación que importan en la sala: para medir, la imagen SDR se supone con el
 blanco a **«200 cd/m2»** y la HLG a **«1 000 cd/m2»** (nota 3); **«The use of automatic video
@@ -1283,6 +1382,27 @@ Y la regla que ordena todo (oficio): el máster se hace para su destino. Una mis
 emisión, uno de plataforma y uno de venta internacional, y los tres se diferencian sobre todo en las
 pistas de audio y en los subtítulos.
 
+La pista internacional, que el módulo 0907 del RD pone entre los contenidos del control de calidad
+(**«La banda internacional.»**, epígrafe «Qué es y quién la hace»), es la que permite ponerle a un programa otra locución, por ejemplo en otro idioma, sin rehacer su sonido (oficio).
+La UER recoge la definición de la SMPTE: **«A mix consisting of all the elements required to form a
+standalone audio programme, except for the dialogue element. The main idea is that a local commentary
+could easily be added to an ‘anchor’ programme in this way.»** (una mezcla con todo lo necesario para
+formar un programa de audio completo, salvo el diálogo, para poder añadir fácilmente un comentario
+local; EBU R 123, *EBU Audio Track Allocation for File Exchange*, julio de 2009, anexo, 2.2). Y advierte
+que el término se ha vuelto impreciso: **«must be accompanied by a qualifying explanation, often
+genre-dependent»** (anexo, 2.3). Distingue cuatro versiones (2.3.1 a 2.3.4); dos llevan la sigla de
+música y efectos (M&E), y las otras dos, *Clean FX* y *World Feed*, son las de las
+retransmisiones en exteriores (2.3.3 y 2.3.4):
+
+| Variante (EBU R 123, anexo) | Qué lleva |
+|---|---|
+| Documental, **«Documentary M&E»** (2.3.1) | **«All the audio elements except commentary (narration) or voice-over.»** Lleva las voces de quien habla en imagen, **«sync (anyone talking in-vision)»**, y se entrega **«un-dipped»**, sin bajar el fondo bajo la narración, **«so if the new narration is a different length the mix can be redone properly»** |
+| Ficción, **«Fiction or Drama M&E (aka "footsteps")»** (2.3.2) | **«Audio containing no dialogue whatsoever.»** |
+
+Lo que pide a la mezcla (oficio): que la locución vaya en su propia pista, sin ambiente ni música
+pegados; si se mezcla encima del fondo, la pista internacional ya no se puede sacar. La ocupación
+de pistas propia de CSRTV no consta en un documento publicado.
+
 Dos datos de la casa y de la norma de enseñanza sobre el máster:
 
 - Qué se graba en un programa de plató: el RD 1680/2011 pide que **«Se han determinado las señales de
@@ -1290,7 +1410,8 @@ Dos datos de la casa y de la norma de enseñanza sobre el máster:
   dobladas o masterizadas.»** (módulo 0905, RA 1.f). La señal sin incrustaciones (sin rótulos ni
   grafismo) es la que permite reutilizar el programa o rehacer sus rótulos sin volver a montar
   (oficio).
-- Lo que no se toca: en la entrevista grabada en exteriores, el Libro de Estilo dice que **«sólo se
+- Lo que no se toca: en la entrevista en exteriores grabada con unidad móvil, para la que el Libro de
+  Estilo pide tender **«a la fórmula de falso directo (sin interrupciones)»**, dice también que **«sólo se
   manipulará el ‘master’ para corregir defectos técnicos de fácil resolución y que no modifiquen
   sustancialmente el mensaje ni el concepto estético de la propia entrevista.»** (3.17.1.5,
   pp. 61-62).
@@ -1355,6 +1476,7 @@ Tres supuestos del tipo que puede plantear la prueba práctica, resueltos con lo
 | Recomendación UIT-R BT.1702-3 (11/2023) | Recomendación de la UIT-R, en vigor; sustituye a la BT.1702-2 (10/2019) | Directrices 1 y 2, notas 1, 3 y 5, orientación sobre patrones |
 | EBU R 128-2023 (versión 5, noviembre de 2023) y EBU R 128 s1 V3 (agosto de 2020) | Recomendaciones de la UER | Nivel objetivo, tolerancias, pico verdadero, medida del programa entero; máxima a corto plazo de las piezas cortas |
 | EBU Tech 3343-2023 (versión 4) | Guía de producción de la UER para aplicar la R 128 | Tolerancia de ±0,2 LU en postproducción, corrección por ganancia estática, mezcla con la escucha fija |
+| EBU R 123 (julio de 2009), *EBU Audio Track Allocation for File Exchange* | Recomendación de la UER (versión leída) | Anexo: definición de la pista internacional y sus variantes M&E |
 | UER, hoja informativa *Quality Control* (01-09-2015) y catálogo de comprobaciones qc.ebu.io | Documentos técnicos de la UER, no recomendaciones | Plantillas de control de calidad por destino; definiciones de las comprobaciones |
 
 ## Lo que este tema no da, y dónde está
@@ -1364,7 +1486,10 @@ Tres supuestos del tipo que puede plantear la prueba práctica, resueltos con lo
   publicado. Avid, Blackmagic, Adobe y EVS se citan como ejemplo, por su documentación.
 - La guía de Media Composer leída es la de 1999 (versión 8); los nombres de las operaciones
   (*Trim*, *slip*, *slide*, *Match Frame*) son los de esa guía. La documentación vigente de Avid no se
-  ha leído, ni la función de transcripción automática de Media Composer.
+  ha leído, ni la función de transcripción automática de Media Composer. El nombre de corte en J no
+  está en esa guía (sólo el de L): se da como vocabulario de oficio.
+- La EBU R 123 se ha leído en su versión de julio de 2009; si la UER la ha revisado o sustituido, no se
+  ha podido comprobar en su web. La asignación de pistas de audio de los másteres de CSRTV no consta.
 - La obra de Eisenstein (*Film Form*) no se ha leído: los cinco métodos se dan por la tesis de
   Georgia Tech que la cita. Las atribuciones de Griffith, Pudovkin o Bazin que traen otros manuales
   no se dan.
@@ -1391,10 +1516,11 @@ Tres supuestos del tipo que puede plantear la prueba práctica, resueltos con lo
 | X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-12-2014), anexo III: pp. 111, 125, 127, 190 y 196 | Quién dirige el montaje y quién controla la calidad | 29-09-2026 |
 | RTVA, *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, 1.ª ed., 2004: 3.17.1.5 (pp. 61-62); y 3.2.2, 3.6.1, 3.16, 9.2.12.4, 9.9, 9.9.1 y 9.9.2 | Código de tiempo y planos compatibles con varias cámaras; manipulación del máster; límites de los efectos, del color y del grafismo | 29-09-2026 (3.17.1.5); el resto, 25-09-2026, en el texto ya cerrado del tema 7 de Operador/a Montador/a de Vídeo |
 | J. M. Todd, *Eisenstein's Film Theory of Montage and Architecture*, tesis de máster, Georgia Institute of Technology, noviembre de 1989, pp. 8-20 (repository.gatech.edu) | Los cinco métodos de Eisenstein | 29-09-2026 |
-| Avid Technology, *Avid Media Composer User's Guide*, Release 8.0, 1999: pp. 431 (*Match Frame*), 522-523, 526 y 531 (modo *Trim*), 540 y 543 (*slip* y *slide*) | Epígrafe 2 | 29-09-2026 |
+| Avid Technology, *Avid Media Composer User's Guide*, Release 8.0, 1999: pp. 268 (glosario, clip de grupo), 431 (*Match Frame*), 447-449 (tres puntos, insertar, sobrescribir, reemplazar), 502 (corte partido), 522-523, 526 y 531 (modo *Trim*), 537-538 (edición solapada y extendida) e índice (*L-cut*), 540 y 543 (*slip* y *slide*), 662 (agrupar clips) y 710 (EDL) | Epígrafes 1 («Offline y online») y 2 | 29-09-2026 |
 | EVS, *IPDirector Version 6.2, Control Panel User Manual*, junio de 2013, p. 30 (manualsdir.com) | Canales enganchados | 29-09-2026 |
 | UER, *Quality Control*, hoja informativa, 01-09-2015 (tech.ebu.ch) | Plantillas de control de calidad, informe | 29-09-2026 |
 | UER, catálogo de comprobaciones de calidad, qc.ebu.io, API v1 | Definiciones de las comprobaciones | 29-09-2026 |
 | Recomendación UIT-R BT.1702-3 (11/2023), itu.int | Destellos y patrones | 29-09-2026 |
+| EBU R 123, *EBU Audio Track Allocation for File Exchange*, julio de 2009, anexo, 2.2, 2.3, 2.3.1 y 2.3.2 | La pista internacional, en «El máster» | 29-09-2026 |
 | Textos ya cerrados de Canal Sur: tema 7 (postproducción), tema 3 (edición no lineal), tema 6 (servidor de repetición) y tema 13 (gestión de material) de Operador/a Montador/a de Vídeo; tema 9 (postproducción de sonido) de Operador/a de Sonido | Lo copiado de ellos, con sus fuentes: Blackmagic Design, *DaVinci Resolve 21 Reference Manual*; Adobe, ayuda de Premiere; Avid, *Avid DNxHD Technology* (2012) y página de producto de MediaCentral; EBU R 128, R 128 s1 y Tech 3343 | 24 y 25-09-2026 (lectura de los temas de origen) |
-| Oficio | Qué es la postproducción; en directo no hay postproducción; montaje preliminar; tabla de los métodos de Eisenstein; modalidades del *trim*; coleo; volcado; fundido cruzado de audio; qué es revisar la calidad final; cuenta de los destellos a 25 imágenes por segundo; revisión paso a paso; supuestos prácticos | — |
+| Oficio | Qué es la postproducción; en directo no hay postproducción; montaje preliminar; tabla de los métodos de Eisenstein; modalidades del *trim*; cuándo insertar y cuándo sobrescribir; nombres L y J y para qué sirve el corte desfasado; *crossfade* en el corte de sonido; lectura en la sala de la exención de patrones; locución en pista propia; coleo; volcado; fundido cruzado de audio; qué es revisar la calidad final; cuenta de los destellos a 25 imágenes por segundo; revisión paso a paso; supuestos prácticos | — |

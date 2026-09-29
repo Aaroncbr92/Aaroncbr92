@@ -1,0 +1,62 @@
+ 
+ Fundamentos del equilibrio visual | Equilibrio visual 
+ Saltar la navegación 
+ Equilibrio visual 
+ Equilibrio visual 
+ Secuencia competencial 
+ Fundamentos del equilibrio visual 
+ Actividad interactiva sesión 1: Dianas visuales 
+ Actividad interactiva sesión 2: Completa con sentido simétrico 
+ Centro de gravedad y estrategias de equilibrio compositivo 
+ Actividad interactiva sesión 3: El gran emparejamiento 
+ Actividad interactiva sesión 4: Gira y responde 
+ Estrategias de compensación y psicología de la percepción 
+ Actividad interactiva sesión 5: Pista fina: marca la buena 
+ Actividad interactiva sesión 6: Mira, piensa, responde 
+ Equilibrio dinámico y análisis crítico 
+ Actividad interactiva sesión 7: Cada pista es una llave 
+ Actividad interactiva sesión 8: Puentes entre ideas 
+ Síntesis y aplicación profesional 
+ Actividad interactiva sesión 9: Circuito del saber 
+ Actividad interactiva sesión 10: Gramática en acción 
+ Evaluación de los aprendizajes 
+ Guía didáctica 
+ Concreción curricular 
+ Metodología 
+ Evaluación de la situación de aprendizaje 
+ Infografía 
+ Archivo fuente 
+ Créditos 
+ « Anterior | Siguiente » 
+ Fundamentos del equilibrio visual 
+ Introducción 
+ Este bloque de sesiones nos introduce en el núcleo del equilibrio visual. Analizaremos cómo nuestro cerebro procesa la información gráfica , buscando estabilidad o dinamismo en cada composición. 
+ A través de los conceptos de tensión y equilibrio, descubriréis que todo elemento visual "pesa" en el plano. Exploraremos la simetría como instrumento de orden y la asimetría como generadora de vitalidad. Vuestro ojo entrenado aprenderá a detectar el centro de gravedad invisible que rige cada obra. 
+ Estas dos primeras sesiones sientan las bases para dominar el lenguaje compositivo esencial en dibujo técnico y artístico . 
+ Sesión 1: Conceptos de equilibrio y tensión visual 
+ ¿Os habéis parado a pensar por qué ciertas imágenes transmiten calma mientras otras generan inquietud? La respuesta reside en el equilibrio visual y la tensión compositiva . El equilibrio es el estado de estabilidad perceptiva que alcanza una composición cuando sus elementos se distribuyen de forma que ninguna zona domina desmesuradamente. No buscamos simetría matemática, sino peso visual equilibrado . 
+ Cada elemento gráfico posee un peso visual determinado por su tamaño, color, textura y posición. Un pequeño punto negro en un lienzo blanco puede equilibrar un gran rectángulo gris tenue. Es como una balanza donde un contrapeso pequeño pero denso equilibra un plato grande con material ligero. 
+ La tensión visual surge de la interacción entre elementos que se atraen o repelen. Imaginad dos imanes con igual polaridad acercándose: la energía acumulada entre ellos es tensión visual. En vuestro dibujo, una línea diagonal que cruza el plano genera tensión con los bordes. Un círculo tocando tangencialmente un borde crea tensión de contacto . 
+ El eje de equilibrio es la línea imaginaria donde se concentraría todo el peso visual. En composiciones estáticas, este eje coincide con el centro geométrico. En dinámicas, se desplaza creando equilibrio asimétrico . Debéis entender que el ojo humano percibe inconscientemente este equilibrio, buscando siempre la resolución compositiva . 
+ La ley de la tensión-resolución funciona así: presentamos un elemento desequilibrado (tensión) que resolvemos con contrapesos estratégicos (resolución). Es similar a la música: una disonancia que busca su consonancia. En vuestro dibujo técnico, esto se traduce en elementos compensatorios que equilibran masas irregulares. 
+ Ejercicio propuesto : Dibujad una hoja cuadrada de 20 × 20 cm. 
+ Colocad un círculo de 5 cm de diámetro en el cuadrante superior izquierdo, descentrado. 
+ Usando solo líneas rectas de 1 mm de grosor, debéis equilibrar la composición sin simetría. 
+ Documentad mediante fotografías cada intento, anotando el peso visual que asignáis a cada línea añadida. 
+ Trabajad en digital escaneando vuestras versiones para analizar el vector de equilibrio con software de análisis compositivo. Apoyo visual 
+ PENTEC . Jerarquía de equilibrio ( CC BY-SA ) 
+ Cerrar 
+ Sesión 2: Simetría y asimetría como herramientas expresivas 
+ La simetría axial es una isometría que transforma el plano mediante reflexión respecto a un eje. Cada punto P se convierte en P' de forma que el eje es mediatriz del segmento PP'. En dibujo técnico, la simetría genera orden, estabilidad y autoridad formal . Sin embargo, no es solo repetición especular: es repetición con variación nula . 
+ Distinguid entre simetría bilateral (un eje), radial (centro de rotación) y traslacional (patrones periódicos). En diseño, la simetría perfecta puede resultar estática, incluso aburrida. Por eso introducimos simetría aproximada : elementos casi idénticos con mínimas diferencias que activan la percepción. Es como un rostro humano: simétrico en estructura, asimétrico en detalles. 
+ La asimetría es la ausencia de correspondencia simétrica , pero no es caos. Es equilibrio mediante contraste . Un triángulo pequeño intenso equilibra un rectángulo grande tenue. El principio de equivalencia asimétrica establece que elementos diferentes pueden alcanzar peso visual igual mediante la manipulación de variables formales. 
+ En vuestro trabajo técnico, la asimetría permite dinamismo narrativo . Una composición asimétrica guía la mirada del espectador mediante vectores visuales (líneas implícitas). Es como un río que fluye: el agua sigue el cauce de menor resistencia; la mirada sigue las líneas de mayor tensión-resolución. 
+ La simetría dinámica combina ambas: mantenemos la estructura simétrica base pero introducimos elementos asimétricos focalizados. Por ejemplo, una lámina con distribución simétrica de espacios pero con un punto de color asimétrico que actúa como acento visual . 
+ Freepik . Composición simétrica ( Designed by Freepik ) 
+ Debéis dominar la construcción geométrica de simetrías mediante regla y compás, pero también mediante software vectorial. El eje de simetría es el elemento inverso que define la correspondencia. Aprended a identificar simetrías ocultas en obras aparentemente caóticas; muchas veces, el caos está estructurado sobre retículas simétricas deformadas. 
+ Ejercicio propuesto : Diseñad un logotipo para un festival de música clásica contemporánea. Usad simetría radial para el contenedor circular (80 mm de diámetro). Dentro, romped la simetría con elementos tipográficos asimétricos que generen tensión dinámica. Trabajad en Illustrator creando una cuadrícula de 30° para la simetría radial. Exportad en PDF y anotad mediante capas los elementos simétricos y asimétricos. Justificad cada decisión compositiva en 150 palabras técnicas.  Apoyo visual 
+ PENTEC . Simetría y asimetría ( CC BY-SA ) 
+ Cerrar 
+ Obra publicada con Licencia Creative Commons Reconocimiento Compartir igual 4.0 
+ « Anterior | Siguiente » 
+ Creado con eXeLearning (Ventana nueva) Ministerio para la Transformación Digital y de la Función Pública Red.es Ministerio de Educación, Formación Profesional y Deportes INTEF (Instituto Nacional de Tecnologías Educativas y Formación del Profesorado) 

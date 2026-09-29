@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 12 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule el grafismo ni su uso. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Normas técnicas: Recomendación EBU R 95 v1.1 (zonas seguras) e Informe UIT-R BT.2408-9 (grafismo en alto rango dinámico). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0904, 0905 y 0910), y cualificación profesional IMS077_3 del INCUAL. Documentación de fabricante: Mo-Sys (seguimiento de cámara), Vizrt (*Viz Pilot Edge User Guide* 3.5) y manual en español de los mezcladores Blackmagic Design ATEM. Lo demás, oficio declarado como tal |
+| Fuente | Sin norma que regule el grafismo ni su uso. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Normas técnicas: Recomendación EBU R 95 v1.1 (zonas seguras) e Informe UIT-R BT.2408-9 (grafismo en alto rango dinámico). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0904, 0905 y 0910), y cualificación profesional IMS077_3 del INCUAL. Documentación de fabricante: Mo-Sys (seguimiento de cámara), Vizrt (*Viz Pilot Edge User Guide* 3.5), manual en español de los mezcladores Blackmagic Design ATEM y documentación de Unreal Engine (Epic Games) sobre paredes de LED. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Libro de Estilo de 2004 y documentación de fabricante en la versión leída (fechas en «Trazabilidad»). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan |
-| Extensión | 10.900 palabras aproximadamente |
+| Extensión | 11.400 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -119,8 +119,9 @@ varias cámaras.
 ## Advertencia sobre las fuentes
 
 Ninguna norma regula cómo es un sistema de grafismo, un plató virtual o una pantalla de plató. La
-documentación de fabricante leída es la de tres casas (Vizrt, Mo-Sys y Blackmagic Design); lo que se
-cita de ella es de ese fabricante, aunque el concepto sea común a los equipos profesionales. Qué
+documentación de fabricante leída es la de cuatro casas (Vizrt, Mo-Sys, Blackmagic Design y Epic
+Games); lo que se cita de ella es de ese fabricante, aunque el concepto sea común a los equipos
+profesionales. Qué
 sistema de grafismo, de plató virtual o de pantallas tiene CSRTV no consta en documento publicado
 leído, y el tema no lo afirma. Tampoco se ha localizado publicado un manual de identidad gráfica de
 Canal Sur. Lo que la casa dice del grafismo está en su Libro de Estilo, y se cita con su epígrafe y su
@@ -355,6 +356,19 @@ lo seguro para la acción es el 93 % central del ancho y del alto, y para el gra
 (resta, no cifra de la norma). La zona de grafismo es, por tanto, la más estrecha. La norma da
 además los valores exactos en líneas y píxeles para 576i, 720p, 1080i/1080psf, 1080p, 2160p y
 4320p (figuras 1 a 6).
+
+Los valores de la EBU R 95 para 1080p (figura 4) y 2160p (figura 5) son estos; en 1080p las líneas se
+numeran dentro del cuadro digital completo de 1125, donde las activas van de la 42 a la 1121:
+
+| Formato | Zona segura de acción | Zona segura de grafismo |
+|---|---|---|
+| 1080p (1920 × 1080) | 67 píxeles por lado y 38 arriba y abajo: 1786 píxeles de ancho, líneas 80 a 1083 | 96 píxeles por lado y 54 arriba y abajo: 1728 píxeles de ancho, líneas 96 a 1067 |
+| 2160p (3840 × 2160) | 134 píxeles por lado y 76 arriba y abajo: 3572 × 2008 píxeles | 192 píxeles por lado y 108 arriba y abajo: 3456 × 1944 píxeles |
+
+El 90 % de 1920 (1728) coincide, pues, con el ancho normalizado de la zona de grafismo en 1080p. La
+figura de 1080i/1080psf (figura 3) tiene los mismos anchos. En las tres figuras la norma marca además,
+en el centro, la zona segura de rótulos para una presentación en 4:3: 1296 píxeles de ancho en 1080 y
+2592 en 2160p.
 
 Para el realizador (oficio): el rótulo, la mosca y el marcador van dentro de la zona de grafismo; el
 plano que llevará rótulo se pide a cámara con el hueco hecho, y el rótulo no tapa la cara ni la boca
@@ -691,7 +705,20 @@ Y hay tres restricciones que hacen de esto un problema técnico y no una decisi�
 
 1. El moiré: la trama de la pantalla y la del sensor interfieren, y se resuelve desenfocando la
    pantalla o cambiando el tamaño con que la cámara la ve. El filtro que evita el moiré dentro de la
-   cámara es el tema 8.
+   cámara es el tema 8. En una pared de LED, la medida que manda es el paso de píxel (*pixel pitch*),
+   la distancia entre los diodos, que suele darse en milímetros: la documentación de Unreal Engine (Epic
+   Games) lo define como **«the distance between each LED light. The closer the LEDs are together—the
+   lower the pitch—the higher the pixel density»** (cuanto más juntos los diodos, menor el paso y
+   mayor la densidad de píxeles), y advierte que **«The combination of the distance from the screen,
+   pixel pitch, and camera sensor size will help you determine how far away you should shoot your
+   subject from the LED wall without seeing any visible artifacts.»** (la distancia a la pantalla, el
+   paso de píxel y el tamaño del sensor ayudan a determinar a qué distancia se puede rodar sin que se vean
+   defectos). Cuanto menor es el paso, más cerca puede ponerse la cámara (oficio, deducido de lo
+   anterior). La misma fuente da dos remedios: **«It is recommended to have the camera's focus placed
+   either in front or behind the LED surface so that the image is slightly out of focus.»** (el foco,
+   delante o detrás de la superficie de LED) y, como el moiré aparece más con la cámara muy oblicua a la pared,
+   **«Try to maintain a perpendicular angle of the camera to the LED's surface where possible.»**
+   (cámara perpendicular a la pared cuando se pueda).
 2. El retardo: el programa que gestiona las pantallas tarda en pintar (más abajo).
 3. La realimentación: si a una pantalla que sale en imagen se le manda el programa, y el programa la
    está enseñando, se produce un túnel infinito. Por eso a las pantallas nunca se les manda el
@@ -892,8 +919,8 @@ de la casa citadas arriba):
 5. Las pantallas del plató: qué lleva cada una en cada bloque, cuáles salen en plano, y los directos a
    las pantallas por matriz, con las entradas al mezclador y el sonido retrasados lo que retrase el
    programa de pantallas.
-6. La desconexión provincial, con el mismo paquete gráfico que la edición de cadena (Libro de Estilo,
-   7.4).
+6. La desconexión provincial, con coherencia estética con la edición de cadena (Libro de Estilo, 7.4):
+   en la práctica, el mismo paquete gráfico (oficio).
 7. En emisión: rótulos a la orden, en su código de tiempo, con la persona ya en plano; los de
    «Reconstrucción» o «Archivo» mientras dure la imagen; y al final, fundido a negro con todo el
    grafismo dentro.
@@ -905,8 +932,8 @@ de la casa citadas arriba):
 - Retardos: todas las entradas directas retrasadas hasta la más lenta; a 25 fps, cada fotograma son
   40 ms, y el sonido se retrasa lo mismo.
 - Luz: el fondo de croma uniforme y el presentador iluminado como si estuviera en el decorado; el
-  presentador separado del fondo; vestuario sin el color del croma ni colores fuertes (Libro de
-  Estilo, 8.6.1).
+  presentador separado del fondo; vestuario sin el color del croma (oficio) y, mejor, sin colores
+  fuertes, que el Libro de Estilo desaconseja (8.6.1).
 - *Foreground*: si un objeto virtual pasa por delante del presentador, un incrustador con máscaras.
 
 ## Normativa que el tema invoca
@@ -927,7 +954,9 @@ Nacional de Cualificaciones Profesionales (INCUAL); se cita por sus unidades de 
   se ha localizado publicado.
 - La especificación del protocolo FreeD: no se ha consultado; lo que se dice de él sale de la ficha de
   un fabricante que lo usa como formato de salida.
-- La documentación de otros fabricantes de grafismo, plató virtual o pantallas: no se ha leído. Las
+- La documentación de otros fabricantes de grafismo, plató virtual o pantallas (salvo la página de
+  Unreal Engine sobre paredes de LED): no se ha leído. Tampoco una tabla publicada de distancias
+  mínimas de cámara por paso de píxel. Las
   tablas de familias de seguimiento, de rótulos y de elementos de continuidad son oficio.
 - Una duración escrita para el rótulo de identificación: el Libro de Estilo no la da.
 - Quién diseña, rellena y lanza los rótulos en la RTVA, la ficha del Grafista, el titulador, la
@@ -945,12 +974,14 @@ Nacional de Cualificaciones Profesionales (INCUAL); se cita por sus unidades de 
 |---|---|---|
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.6.1, 3.10, 3.16 a 3.16.2, 6.4, 6.5, 6.5.2, 7.4, 8.6.1, 9.2.12.3, 9.9.1, 10, 11.2.6, 11.3.1.1.1, 13.1.1.3, 13.3.1, 13.8.1 y «Siglas y acrónimos» | Gráficos, rótulo, reglas de escritura en rótulos, rótulos obligatorios, vidiwall y pantallas, marco uniforme, coherencia de las desconexiones, *raccord*, vestuario ante el croma | 29-09-2026 (páginas tomadas de los marcadores del volcado; la de 6.5.2, del PDF) |
 | Recomendación EBU R 95 v1.1 (junio de 2017) | Zonas seguras de acción (3,5 %) y de grafismo (5 %) | Texto tomado del tema cerrado del puesto de Cámara Operador |
+| Recomendación EBU R 95 v1.1 (junio de 2017), figuras 3, 4 y 5 (tech.ebu.ch) | Valores en píxeles y líneas de las zonas seguras en 1080 y 2160 | 29-09-2026 |
 | Informe UIT-R BT.2408-9, § 2.1, tabla 1 y § 9 | Blanco del grafismo en HDR | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
 | Libro de Estilo, 3.2.2, 3.13, 3.17.1.1, 4.3, 3.7.1 y 8.2.1 (tabla «Cuándo obliga la casa a rotular») | Casos en que se rotula | Texto tomado del tema cerrado del puesto de Redactor/a |
 | Real Decreto 1680/2011 (BOE-A-2011-19599), texto del diario oficial; vigencia según su ficha (Real Decreto 500/2024) | Lo que la norma de enseñanza pide sobre grafismo, rótulos, escenografía virtual, pantallas, continuidad de emisión y continuidad visual | 29-09-2026 |
 | INCUAL, cualificación IMS077_3, Asistencia a la realización en televisión: UC0216_3 (CR3.5, CR3.6, CR4.2, CR4.3, CE8.2) y UC0217_3 (CR2.5, CR2.6) | Encargo del grafismo, integración real y virtual, continuidad en retomes, lanzamiento de rótulos, relación con continuidad | 29-09-2026 |
 | Vizrt, *Viz Pilot Edge User Guide* 3.5, «Introduction» (docs.vizrt.com) | Plantillas y reparto entre diseño, redacción y control | 29-09-2026 |
 | Mo-Sys, ficha del StarTracker Max y catálogo «Camera Tracking» (mo-sys.com), volcados locales | Marcas retrorreflectantes, FreeD, seis ejes con zum y foco, seguimiento *inside-out*, salida a motores como Unreal Engine, croma y pared de LED | Volcados el 02-09-2026; releídos el 29-09-2026 |
+| Epic Games, *In-Camera VFX Overview in Unreal Engine* (documentación de Unreal Engine 5.8, dev.epicgames.com) | Paso de píxel, distancia de la cámara a la pared de LED y remedios del moiré | 29-09-2026 |
 | Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024): composiciones posteriores, panel multimedia, fundido a negro, transiciones con logotipos | DSK para logotipos y textos, grafismo con alfa en el mezclador, FTB, transición con logotipo | Descargado el 03-09-2026; releído el 29-09-2026 |
 
 La fecha de trabajo del encargo es el 24-09-2026; las fuentes se leyeron el 29-09-2026, fecha del

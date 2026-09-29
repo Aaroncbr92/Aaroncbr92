@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Realizador/a · punto 3 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014): artículo 45.1, anexo III (fichas de puesto) y disposición adicional segunda; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004); Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 4, 5 y 7 y módulo 0905): norma de enseñanza, no norma del oficio; cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL). Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004, leídos el 24-09-2026. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los artículos ni el módulo que se citan (leído el 24-09-2026). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019; referencia normativa: RD 295/2004), leído el 24-09-2026 |
-| Extensión | 12.000 palabras aproximadamente |
+| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004, leídos el 24-09-2026. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los artículos ni el módulo que se citan (leído el 24-09-2026). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019; referencia normativa: RD 295/2004), leído el 24-09-2026 y releído el 29-09-2026 (UC0216_3, RP2 a RP5) |
+| Extensión | 13.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -40,10 +40,10 @@ Realización en la RTVA, con qué código y en qué nivel; cuál es la función 
 cuáles sus tareas; qué verbo separa lo que el realizador hace con el montaje de lo que hace el
 ayudante; a quién atribuye el convenio «regir la actividad del plató» y si define la figura del
 regidor; qué decide el realizador y qué no; qué hace el ayudante antes, durante y después de un
-programa, en el control, en el plató y en exteriores; quién controla los tiempos y a quién comunica las
+programa (localizaciones, material de archivo, rótulos y grafismo), en el control, en el plató y en exteriores; quién controla los tiempos y a quién comunica las
 diferencias; qué es el realizador en un informativo según el Libro de Estilo, en quién delega, a quién
 se supedita y qué prevalece entre información y técnica; qué hacen los cuatro operadores montadores
-de las desconexiones provinciales; qué pide el Libro de Estilo a una retransmisión y a la información
+de las desconexiones provinciales y qué perciben los operadores de sonido de radio que colaboran en ellas; qué pide el Libro de Estilo a una retransmisión y a la información
 deportiva; qué es la cámara máster, la repetición, el *spotter*; qué separa una señal *pool*, una
 internacional y una personalizada. En la prueba práctica: repartir tareas entre realizador, ayudante y
 equipo en un programa, un informativo, un partido o una procesión, y decidir a quién se avisa.
@@ -219,7 +219,7 @@ procesos técnicos y artísticos de representaciones de espectáculos en vivo y 
 medios técnicos y humanos y controlando el contenido, la forma, el proyecto artístico y la calidad
 establecida.»** (art. 4). Entre sus ocupaciones (art. 7.2) están **«b) Ayudante de realización de
 vídeo. c) Ayudante de realización de televisión.»** y **«g) Jefe de regiduría.»** Entre esas
-ocupaciones no figura la de realizador: el título forma ayudantes, y el realizador es el puesto al que
+ocupaciones están las de ayudante de realización y no figura la de realizador, que es el puesto al que
 asisten (lectura del art. 7.2). Una de sus competencias lo dice así: **«Coordinar
 y dirigir el trabajo del personal técnico y artístico durante los ensayos, registro, emisión,
 postproducción o representación escénica, asegurando la aplicación del plan de trabajo y reforzando
@@ -329,6 +329,68 @@ La cualificación IMS077_3 concreta el trabajo previo del ayudante (UC0216_3, pp
   ellos, modificando e informando al realizador de los desajustes.»**
 - **«CR1.5 La planificación previa de posición y movimiento de cámaras, se elabora siguiendo
   instrucciones recibidas sobre la planta de cámaras.»**
+
+La ficha encarga al realizador **«efectuar las localizaciones de escenarios naturales si los hubiese»**; la
+cualificación da al ayudante su preparación (p. 3):
+
+- **«RP2: Proponer y evaluar las localizaciones adecuadas al guion ajustándose a la intencionalidad
+  del programa/producto televisivo.»**
+- **«CR2.1 Las localizaciones se identifican estudiando el guion, definiendo su número,
+  características técnicas imprescindibles y sus necesidades para la realización del programa.»**
+- **«CR2.2 Los informes de los otros miembros del equipo técnico en lo referente a la adecuación de
+  las localizaciones se valoran, asegurado su idoneidad y disponibilidad para satisfacer las
+  necesidades de realización en cuanto a espacio escénico, iluminación, sonido, ubicación de cámaras,
+  alimentación eléctrica, medios especiales y los efectos de video recogidos en la escaleta.»**
+- **«CR2.3 La información generada acerca de las posibles localizaciones se recopila de modo que
+  permita una valoración objetiva por parte del realizador, director y productor.»**
+- **«CR2.4 La documentación generada sobre las localizaciones seleccionadas se traspasa a los
+  departamentos implicados en la producción permitiendo el comienzo de las tareas pertinentes bajo la
+  supervisión de los jefes de grupo.»**
+
+El ayudante propone, recopila y traslada; la valoración es del realizador, el director y el
+productor (lectura de CR2.3).
+
+También reúne el material que la escaleta técnica pide (p. 4):
+
+- **«RP3: Recopilar y organizar el material audiovisual reflejado en la escaleta técnica a fin de
+  preparar el producto/programa televisivo.»**
+- **«CR3.1 Las imágenes necesarias y las alternativas posibles se localizan en el archivo de video a
+  través del documentalista o de la base de datos elaborando una relación que recoja los códigos de
+  cinta, acceso o clip, el código de tiempo preciso de los fragmentos de vídeos, una sucinta
+  descripción del tipo de plano, de su contenido y una valoración de la calidad técnica.»**
+- **«CR3.2 Los efectos de sonido y músicas necesarias y sus posibles alternativas se localizan en el
+  archivo sonoro a través del documentalista o de la base de datos elaborando una relación que recoja
+  los códigos de cinta, acceso o clip, el código de tiempo preciso de los fragmentos de audio o
+  momentos musicales necesarios y una somera descripción del estilo y ritmo musical, de la calidad
+  técnica y la duración de los efectos.»**
+- **«CR3.3 La gestión de los derechos de autor o de la propiedad intelectual de los recursos
+  audiovisuales y gráficos se supervisa consiguiendo la titularidad de los mismos según la cobertura
+  y el tipo de emisión del programa.»**
+- **«CR3.4 El material de imagen y audio se recopila, extrayéndolo a los soportes de trabajo
+  pertinentes organizándolo por temas y orden de escaleta, etiquetando claramente el soporte y
+  desglosando su contenido de manera que sea fácilmente comprensible por cualquier otro miembro del
+  equipo.»**
+- **«CR3.5 La relación de rótulos, las consideraciones formales marcadas por el realizador y el orden
+  que presenta en la escaleta técnica se traslada al departamento de infografía supervisando el
+  acabado y controlando que se ajuste a las necesidades y criterios marcados.»**
+- **«CR3.6 El material gráfico se captura y/o digitaliza, elaborando el grafismo 2D y/o 3D,
+  minutándolo, organizándolo y trasladándoselo al grafista y supervisando el acabado.»**
+- **«CR3.7 El estado de las tareas se traslada al realizador y a producción evaluando con precisión si
+  el proceso se encuentra dentro de los tiempos y medios estimados.»**
+
+Y comprueba sobre el terreno lo que se ha planificado (p. 4): **«RP4: Coordinar y verificar el
+desarrollo espacial y temporal de los recursos y medios artísticos que intervienen en la ejecución de
+un programa/producto televisivo, siguiendo las indicaciones recibidas.»** Dos de sus criterios:
+
+- **«CR4.1 La viabilidad de los movimientos del personal artístico en el tiempo y forma previstos se
+  comprueba en escena y sobre las indicaciones de escaleta anotando todas aquellas observaciones
+  referentes a la puesta en escena que puedan influir en la realización del programa, y registrando
+  y comunicando las incidencias no apreciadas en la planificación.»**
+- **«CR4.2 La composición e integración de la imagen real y virtual se revisa comprobándose que es la
+  adecuada a los movimientos de cámara y del personal artístico en los sets virtuales y manteniendo
+  los parámetros de calidad exigibles por el programa.»**
+
+Los derechos sobre el material de archivo se estudian en el tema 17; el grafismo, en el tema 12.
 
 Y en el control, antes de entrar en antena, comprueba que todo está: **«RP1: Verificar que las
 duraciones, calidades, efectos, grafismos, titulaciones, músicas, efectos de sonido e iluminación del
@@ -447,6 +509,12 @@ cualificación IMS077_3 describe ese trabajo en su realización profesional 5 (U
 las directrices recibidas, consiguiendo la intencionalidad narrativa y la calidad técnica y formal
 requeridas.»** Sus criterios:
 
+- **«CR5.1 Las cámaras y el equipo de captación de sonido e iluminación, si fuera necesario, se
+  ubican sobre la planta escenográfica, en la posición óptima y según las indicaciones recibidas,
+  comprobando los encuadres y los movimientos de cámara y verificando que no existen elementos
+  indeseados: desaforos, brillos, enfilamientos, sombras, elementos escénicos mal dispuestos,
+  micrófonos o focos que entran en encuadre, entre otros, e informando de su existencia y realizando
+  las correcciones oportunas.»**
 - **«CR5.2 La comunicación a través de los equipos de intercomunicación entre control de realización y
   estudio se mantiene, de forma permanente y con la inmediatez necesaria, ajustándose a las
   indicaciones de realización.»**
@@ -633,7 +701,7 @@ Dos frases de 6.5.2 (p. 93) fijan el equilibrio entre prisa, forma y contenido:
   referentes al modo, la forma y el diseño del informativo, con la salvedad de que deberá ceñirse a
   criterios de producción y a la supremacía del sentido informativo.»**
 
-Por encima de todo, el marco común: **«Los informativos de CSTV y Canal 2 Andalucía tendrán siempre un
+Y el marco común: **«Los informativos de CSTV y Canal 2 Andalucía tendrán siempre un
 marco periodístico, técnico y formal uniforme»** (6.5, p. 92).
 
 ### Los recursos y la «espectacularización»
@@ -748,6 +816,14 @@ Lo que el convenio añade en esa misma disposición (BOJA núm. 240, p. 86):
 - Ninguno de los dos consolida: las partes declaran **«el carácter no consolidable de los complementos
   señalados»**, que se abonan **«en tanto se den las circunstancias, tanto organizativas como técnicas,
   actuales»**.
+- En la radio, bajo el rótulo **«Operador/a de Sonido de Radio»**, la misma disposición fija que
+  **«Los/as actuales Operadores/as de Sonido de los Centros Territoriales de Almería, Cádiz, Córdoba,
+  Huelva y Jaén que en la actualidad vienen colaborando en las desconexiones provinciales, continuarán
+  percibiendo mensualmente el complemento de calidad en el trabajo que perciben en la cuantía del 25%
+  del salario base, a dos Operadores/as de Sonido, de manera rotatoria, que en la actualidad participan
+  en la realización del control de sonido, de manera voluntaria.»** También este complemento es no
+  consolidable: se abona **«en la medida en que se den las circunstancias, tanto organizativas como
+  técnicas, actuales»**.
 
 Si esta disposición se sigue aplicando hoy, y en qué centros, no consta en un documento publicado
 leído; el texto de 2014 habla de lo que **«actualmente»** se hacía. La vigencia y la prórroga del
@@ -1038,7 +1114,7 @@ Casos resueltos con las fuentes del tema (entre paréntesis, la que decide cada 
 |---|---|---|
 | En un informativo, el editor cambia el orden de dos noticias a última hora | El editor decide; el realizador y el ayudante ajustan la escaleta técnica y avisan al equipo | El realizador **«debe supeditarse a la ordenación de las noticias que establezca el editor»** (LE 6.5); los cambios se comunican con antelación (IMS077_3, CR5.4) |
 | Una pieza llega con un defecto técnico leve y es la noticia de apertura | Se emite: prevalece la información | Con imperfecciones técnicas moderadas, **«la información —competencia del editor— tendrá preeminencia sobre la técnica»** (LE 6.5.1) |
-| Una pieza llega con un defecto que anula la calidad | El realizador puede frenarla o pedir otra solución | La urgencia no puede **«anular un aceptable nivel de calidad»** (LE 6.5.2) |
+| Una pieza llega con un defecto que anula la calidad | El Libro no dice quién la frena: fija dos límites que el realizador ha de conciliar (lectura) | La urgencia no puede **«anular un aceptable nivel de calidad»** (LE 6.5.2), pero el realizador **«deberá ceñirse a criterios de producción y a la supremacía del sentido informativo»** (LE 6.5.2); la preeminencia de la información se fija para **«imperfecciones técnicas moderadas»** (LE 6.5.1), no para un defecto que anula la calidad |
 | El bloque va largo | El ayudante avisa al realizador y al director del programa; ellos deciden qué se recorta | Las diferencias de tiempo se transmiten **«al realizador y al director del programa»** (IMS077_3, CR2.7); la asistencia avisa, no decide (oficio) |
 | Hay que dar la hora de entrada en antena y los tiempos de publicidad | El ayudante, a continuidad y a todo el equipo | IMS077_3, CR2.6 |
 | En plató, un invitado debe entrar en el bloque siguiente | El realizador da la orden; el ayudante (o quien rija el plató) previene y da la entrada | La ficha del ayudante: **«regir la actividad del plató»**; IMS077_3, CR5.5 |
@@ -1099,10 +1175,10 @@ de Estilo: primero, qué es contenido (editor o director), qué es forma (realiz
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014: art. 45.1 (pp. 72-74); anexo III, fichas 5351000 (p. 196), 5353000 (p. 111), 5352000 (p. 115), 5341310 (p. 116), 5333000 (p. 123), 5345100 (p. 129), 5341111 (p. 133), 9540003 (p. 128), 5331000 (p. 194), 5212206 (p. 190); DA 2.ª (pp. 86-87) | Niveles, funciones y tareas del realizador, del ayudante y de los puestos vecinos; cláusula abierta; ausencia de ficha de regidor; desconexiones provinciales | 24-09-2026 |
+| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014: art. 45.1 (pp. 72-74); anexo III, fichas 5351000 (p. 196), 5353000 (p. 111), 5352000 (p. 115), 5341310 (p. 116), 5333000 (p. 123), 5345100 (p. 129), 5341111 (p. 133), 9540003 (p. 128), 5331000 (p. 194), 5212206 (p. 190); DA 2.ª (pp. 86-87; releída la p. 86 el 29-09-2026) | Niveles, funciones y tareas del realizador, del ayudante y de los puestos vecinos; cláusula abierta; ausencia de ficha de regidor; desconexiones provinciales (también el sonido de radio) | 24-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: cap. 4 (p. 65); 4.4.3; 4.4.4, puntos 5 y 10 (pp. 77-78); 5.1 (p. 79); 3.17.1.5 (p. 61); 6.3 (p. 90); 6.5, 6.5.1, 6.5.2 (pp. 92-93); 7.4 (p. 104); 7.5, 7.5.1, 7.5.4; 8.1, puntos 3 y 6 (pp. 113-114); 8.2; 8.3 (p. 116); 8.4, 8.4.1, 8.4.2 (pp. 119-120) | El realizador en informativos; editor, productor y realizador; directos; deporte; retransmisiones | 24-09-2026 |
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): arts. 4, 5.e) y 7.2; anexo I, módulo 0905 (RA 2.a, 2.b, 2.e; RA 3.a, 3.e, 3.f, 3.g, 3.h; RA 6.g; contenidos) | Competencia del título; ocupaciones; funciones del realizador y de la asistencia en el control; repeticiones | 24-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685: art. primero.Dos.a) (el RD 1680/2011 está en ese grupo), art. séptimo.Uno (anexo I: sólo se suprimen e incluyen módulos transversales) y apartado Cuarenta (anexo III, profesorado); nota de afectados (arts. 2, 10, 12 y 15, anexos I y III) | Que los artículos y el módulo citados no se modifican | 24-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): competencia general y entorno (p. 1); UC0216_3 (RP1, CR1.3, CR1.5, CR4.3, RP5, CR5.1, CR5.2, CR5.4 a CR5.6); UC0217_3 (RP1, RP2, CR2.1, CR2.3, CR2.4, CR2.6, CR2.7, RP3); UC0218_3 (RP1, CR1.1, RP2, RP3, CR3.1); MF0216_3 (CE4.2 y contenidos) | Trabajo del ayudante antes, durante y después; cronometraje; plató; repeticiones; postproducción | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): competencia general y entorno (p. 1); UC0216_3 (RP1, CR1.3, CR1.5, RP2, CR2.1 a CR2.4, RP3, CR3.1 a CR3.7, RP4, CR4.1 a CR4.3, RP5, CR5.1, CR5.2, CR5.4 a CR5.6; releídos RP2 a RP5 el 29-09-2026); UC0217_3 (RP1, RP2, CR2.1, CR2.3, CR2.4, CR2.6, CR2.7, RP3); UC0218_3 (RP1, CR1.1, RP2, RP3, CR3.1); MF0216_3 (CE4.2 y contenidos) | Trabajo del ayudante antes (localizaciones, material, rótulos y grafismo, viabilidad), durante y después; cronometraje; plató; repeticiones; postproducción | 24-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029, art. 16 | Retransmisiones deportivas condicionadas a derechos y presupuesto | 24-09-2026 (en el texto ya cerrado del tema 8 de Productor/a) |
 | Oficio | Regla de lo que decide el realizador; relación de mando y de acuerdo previo; cometidos, tareas, cronometraje, parte y comparación estudio-exteriores de la asistencia; tareas de plató; puestos de un informativo; cámara máster, colocación de cámaras, repeticiones y vocabulario deportivo; definición de retransmisión y unidad móvil; plató frente a retransmisión; reparto en una retransmisión; señales *pool*, internacional y personalizada; contribución, distribución y control central; aplicación práctica | — |

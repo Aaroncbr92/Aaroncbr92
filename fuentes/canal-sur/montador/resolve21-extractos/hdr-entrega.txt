@@ -1,0 +1,414 @@
+[[p280]]
+Delivering Dolby Vision
+Once you’re finished grading the HDR and trimming the SDR tone mapping, you need to output your 
+program correctly in the Deliver page.
+Rendering a Dolby Vision Master
+To deliver a Dolby Vision master after you’ve finished grading, you want make sure that the Output 
+Color Space of the Color Management panel of the Project Settings is set to the appropriate HDR 
+ST.2084 setting based on the peak output you want to deliver (any values above will be clipped). 
+Then, you want to set your render up to use one of the following Format/Codec combinations:
+	 TIFF, RGB 16-bit
+	 EXR, RBG-half (no compression)
+When you render for tapeless delivery, all Dolby Vision metadata is recorded into a Dolby Vision 
+XML and delivered along side either the Tiffs or EXR renders. To export a Dolby Vision XML file, 
+select your timeline in the media pool and choose File > Export >Timeline. Navigate to where you 
+want to save the file and select Dolby Vision v2.9 (or v4.0) MXF files from the file type selector 
+and click save. These two sets of files are then delivered to a facility that’s capable of creating the 
+Dolby Vision deliverable file. 
+Rendering a Dolby Vision IMF
+You can deliver directly to an IMF that includes an MXF with embedded Dolby Vision metadata in the 
+package. To export a Dolby Vision IMF use the following Video settings in the Deliver page:
+	 Format: IMF
+	 Codec: Kakadu JPEG 2000
+	 Type: Dolby Vision (HD, 2K, UHD, or 4K) depending on your deliverable resolution.
+Configure the rest of the IMF settings as necessary for your project.
+The Video settings to use for creating a 
+Dolby Vision IMF in the Deliver page
+Rendering a Dolby Vision H.265 file
+You can deliver directly to a Dolby Vision compatible H.265 file, which allows you to playback video 
+that triggers playback in the Dolby Vision mode on your television or computer screen. To export a 
+Dolby Vision H.265 file, use the following Video settings in the Deliver page:
+	 Format: MP4 or QuickTime
+	 Codec: H.265
+	 Dolby Vision Profile: Set the Dolby Vision profile you wish to use, or None to select the 
+Tone Mapping manually.
+280
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p281]]
+	 Tone Mapping: Choose None for no tone mapping, or Dolby Vision to expose a list of common 
+deliverables to tone map to.
+Configure the rest of the H.265 settings as necessary for your project.
+The Dolby Vision Profile and Tone Mapping settings in 
+the H.265 Video section of the Deliver page
+Rendering an Ordinary SDR Media File or Other Specific HDR Trim Pass
+If you want to export the SDR trim pass, then you can choose Dolby Vision from the Tone Mapping 
+dropdown menu in the Advanced Settings of the Render Settings list on the Deliver page, and choose 
+the 100-nit, BT.709, BT.1886, Full setting below. With this enabled, you can output the SDR version of 
+your program to any format you like.
+You can also export the trims for other HDR nit levels for specific displays, at 600, 1000 or 2000 nits 
+and in the either the BT.2020 or P3 gamuts.
+The Tone Mapping setting in the Advanced Settings of the Render Settings list
+SMPTE ST.2084 and HDR10
+Many display manufacturers who have no interest in licensing Dolby Vision for inclusion in their 
+displays are instead going with the simpler method of engineering their displays to be compatible with 
+SMPTE ST.2084. It requires only a single stream for distribution, there are no licensing fees, no special 
+hardware is required to master for it (other than an HDR mastering display), and there’s no special 
+metadata to write or deal with.
+Interestingly, SMPTE ST.2084 ratifies the “PQ” EOTF that was originally developed by Dolby, and 
+which is used by Dolby Vision, into a general standard that accommodates encoding HDR at peak 
+luminance values up to 10,000 cd/m2. This standard requires at minimum a 10-bit signal for distribution, 
+and the EOTF is mathematically described such that the video signal utilizes the available code 
+values of a 10‑bit signal as efficiently as possible, while allowing for such a wide range of luminance in 
+the image.
+SMPTE ST.2084 is also part of the “Ultra HD Premium” industry specification, which stipulates that 
+televisions bearing the Ultra HD Premium logo have the following capabilities:
+	 A minimum UHD resolution of 3840 x 2160
+	 A minimum gamut of 90% of P3
+	 A minimum dynamic range of either 0.05 nits black to 1000 nits peak luminance (to accommodate 
+LCD displays), or 0.0005 nits black to 540 nits peak luminance (to accommodate OLED displays)
+	 Compatibility with SMPTE ST.2084
+281
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p282]]
+Finally, ST.2084 has been included in the HDR 10 standard adopted by the Blu-ray Disc Association 
+(BDA) that covers Ultra HD Blu-ray. HDR 10 stipulates that Ultra HD Blu-ray discs have the following 
+characteristics:
+	 UHD resolution of 3840 x 2160
+	 Up to the Rec. 2020 gamut
+	 SMPTE ST.2084
+	 Mastered with a peak luminance of 1000 nits
+The downside is that, by itself, an HDR10 mastered program is not backward compatible with BT.709 
+displays using BT.1886 (although the emerging HDR10+ standard described later addresses this). 
+Furthermore, no provision is made to scale the above-100 nit portion of the image to accommodate 
+different displays with differing peak luminance levels. For example, if you grade and master an image 
+to have peak luminance of 4000 nits, and you play that signal on an HDR10-compatible television 
+(using ST.2084) that’s only capable of 800 nits, then everything above 800 nits will be clipped, while 
+everything below 800 nits will look exactly as it should relative to your grade. 
+This is because ST.2084 is referenced to absolute luminance. If you grade an HDR image 
+referencing a 1000 nit peak luminance display, as is recommended by HDR10, then any display using 
+ST.2084 will respect and reproduce all levels from the HDR signal that it’s capable of reproducing 
+as you graded them, up to the maximum peak luminance level it can reproduce. For example, on an 
+HDR10-compatible television capable of outputting 500 nits, all mastered levels from 501–1000 will be 
+clipped, as seen in the screenshot below.
+Comparing the original 1000 nit waveform representing the grading monitor 
+to a 500 nit clipped waveform representing the consumer television
+282
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p283]]
+How much of a problem this is really depends on how you choose to grade your HDR-
+strength highlights. If you’re only raising the most extreme peak highlights to maximum HDR-
+strength levels, then it’s entirely possible that the audience might not notice that the display 
+is only outputting 800 nits worth of signal and clipping any image details from 801–1000 
+nits because there weren’t that many details above 800 anyway. Or, if you’re grading large 
+explosive fireballs up above 800 nits in their entirety because it looks cool, then maybe the 
+audience will notice. The bottom line is, when you’re grading for displays that are only capable 
+of ST.2084, you need to think about these sorts of things.
+Monitoring and Grading to ST.2084 in DaVinci Resolve
+Monitoring an ST.2084 image is as simple as obtaining a ST.2084-compatible HDR display and 
+connecting it to the output of your DeckLink 8K, DeckLink 4K Extreme 12G, or UltraStudio 4K Extreme.
+Setting up Resolve Color Management to grade for ST.2084 is identical to setting up to grade for 
+Dolby Vision. You’ll also monitor the video scopes identically, and output a master identically, given 
+that both standards rely upon the same PQ curve.
+TIP: If you’re monitoring with the built-in video scopes in DaVInci Resolve, you can turn on 
+“HDR (ST.2084/HLG)” in the Waveform Scale Style settings in the Scopes option menu, which 
+will replace the 10-bit scale of the video scopes with a scale based on nit values (cd/m2) instead.
+Connecting to HDR-Capable Displays using HDMI 2.0a
+If you have a DeckLink 4K Extreme 12G or an UltraStudio 4K Extreme video interface, then DaVinci 
+Resolve 12.5 and above can output the metadata necessary to correctly display HDR video signals to 
+display devices using HDMI 2.0a when you turn on the “Enable HDR metadata over HDMI” checkbox 
+in the Master Settings panel of the Project Settings. 
+The Enable HDR metadata over HDMI option in 
+the Master Settings panel of the Project Settings 
+lets you output HDR via HDMI 2.0a
+When you do so, a setting in the Color Management panel of the Project Settings, “HDR mastering 
+is for X” lets you specify the output, in nits, to be inserted as metadata into the HDMI stream being 
+output, so that the display you’re connecting to correctly interprets it. The output you specify should 
+match what your display is expecting.
+The “HDR mastering is for” setting lets you insert 
+ metadata for HDR output via HDMI 2.0a
+283
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p284]]
+HDR10+™
+DaVinci Resolve supports the HDR10+ HDR format by Samsung. When enabled, an HDR10+ palette 
+shows the results of the trimming analysis that make an automated downconversion of HDR to SDR, 
+creating metadata to control how HDR-strength highlights look on a variety of supported televisions 
+and displays. 
+Project Settings for HDR10+
+An HDR10+ grade is set up in the Color Management panel of the Project Settings.
+	 Color Science: DaVinci YRGB Color Managed
+	 Color Processing Mode: HDR
+	 Output Color Space: HDR PQ
+	 HDR mastering is for XXXX nits: Type in the nit level of your mastering monitor.
+	 Enable HDR10+ checkbox: Check this box to enable HDR10+ and its palette in the Color page.
+HDR 10+ settings in the Color Management panel of the Project Settings.
+Monitoring and Grading to ST.2084 for HDR10+
+When you’re grading a program for HDR10+ output, you’ll need to monitor an ST.2084 image, which 
+is as simple as obtaining a ST.2084-compatible HDR display and connecting it to the output of your 
+DeckLink 8K, DeckLink 4K Extreme 12G, or UltraStudio 4K Extreme.
+Setting up Resolve Color Management to grade for ST.2084 is identical to setting up to grade for 
+Dolby Vision or regular HDR10. You’ll also monitor the video scopes identically, and output a master 
+identically, given that each of these standards rely upon the same PQ curve.
+TIP: If you’re monitoring with the built-in video scopes in DaVinci Resolve, you can turn 
+on “HDR (ST.2084/HLG)” in the Waveform Scale Style settings in the Scopes option menu, 
+which will replace the 10-bit scale of the video scopes with a scale based on nit values 
+(cd/m2) instead.
+Simultaneous Master and Target Display Output for HDR10+
+When mastering HDR and trimming versions for more limited displays, you may want to evaluate your 
+HDR grade and tone-mapped trim pass simultaneously. Starting in DaVinci Resolve 15, it’s possible 
+to output both the Master Display output and the Target Display output simultaneously when you’re 
+grading with either Dolby Vision or HDR10+ enabled. 
+284
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p285]]
+Necessary Hardware
+You must first have the following equipment:
+	 A DaVinci Resolve grading workstation, which must output via a DeckLink 8K, DeckLink 4K 
+Extreme 12G, UltraStudio 4K Extreme video interface, or better.
+	 A Mastering Display, which must be capable of HDR nit levels suitable for the deliverable you’re 
+required to produce.
+	 An HDR target display that can be set to the appropriate tone-mapped output.
+Enabling Simultaneous Monitoring
+When you set up your display hardware, the HDR Master Display must be connected to output A, 
+and the Target Display must be connected to output B of whichever Blackmagic Design video output 
+device you’re using. 
+Next, enable the “Use dual outputs on SDI” checkbox in Project Settings > Master Settings. If all your 
+connections are compatible, you should see an HDR image output to your HDR display, and a trimmed 
+image output to your SDR display.
+HDR10+ Grading Workflow
+The concept behind the HDR10+ workflow is that you’ll grade the HDR version of each clip in your 
+program first, and then use the automatic analysis to create a down-converted, tone-mapped version 
+of each shot that’s controlled by metadata. Once the HDR10+ trim pass is complete, you’ll deliver the 
+rendered HDR output along with a set of HDR10+ JSON metadata files to a facility for final mastering.
+Exporting the HDR10+ .json sidecar file
+You can export a separate .json file of your trim data that allows it to be reviewed, archived, and saved 
+independently from the video file.
+1	
+Right-click on your timeline in the media pool. 
+2	
+Select Timelines > Export > HDR10+ JSON from the context menu.
+3	
+A file browser will appear for you to name and locate where you want to save the file.
+4	
+Select HDR10+ Profile B Files (*.json) as the file type.
+5	
+Click Save.
+HDR10+ Auto Analysis Commands
+After you’ve graded an HDR version of each clip in your program, a set of HDR10+ specific commands 
+let you auto-analyze each clip to create custom HDR to SDR downconversion metadata that give 
+you a starting point for the SDR trim pass you need to do. These commands are available in the 
+Color > HDR10+ submenu:
+	 Analyze All Shots: Automatically analyzes each clip in the Timeline and 
+stores the results individually. 
+	 Analyze Selected Shot(s): Only analyzes selected shots in the Timeline. 
+	 Analyze Selected and Blend: Analyzed multiple selected shots and averages the result, which is 
+saved to each clip. Useful to save time when analyzing multiple clips that have identical content. 
+	 Analyze Current Frame: A fast way to analyze clips where a single frame is 
+representative of the entire shot.
+285
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p286]]
+Delivering HDR10+
+Once you’re finished grading the HDR and trimming the SDR downconversion, you need to output 
+your program correctly in the Deliver page.
+Rendering an HDR10+ Master
+To deliver an HDR10+ master after you’ve finished grading, you want make sure that the Output Color 
+Space of the Color Management panel of the Project Settings is set to the appropriate HDR ST.2084 
+setting based on the peak output you want to deliver (any values above will be clipped). Then, you 
+want to set your render up to use the highest quality Format/Codec combination that can be delivered 
+to whomever is doing the final mastering.
+The HDR10+ analysis and manual trim metadata you generated while trimming is saved per clip, 
+in a series of JSON sidecar files, which should then be exported by right-clicking that timeline in the 
+Media Pool, and choosing Timelines > Export > HDR10+JSON.
+These two sets of files are then delivered to a facility that’s capable of creating an HDR10+ Mezzanine 
+File (this cannot be done in DaVinci Resolve).
+Rendering an HDR10+ HEVC File
+To render an HDR10+ video file that’s instantly viewable on an HDR10+ capable television without 
+creating the Mezzanine File, simply encode it to an HEVC file using these video settings in the 
+Deliver page:
+	 Format: MP4
+	 Codec: H.265
+	 Embed HDR10+ Metadata: Enable this box.
+	 Encoding Profile: Main10
+When rendered with these settings, you can add the file on a USB drive and connect it to an 
+HDR10+ television for playback on the television’s menu system. To confirm the output works, 
+press the center button on the TV remote to view the file information overlay with the HDR10+ 
+logo. Alternatively, you can use third party video analysis software like MediaInfo. The correct 
+parameter to look for in the video settings is: SMPTE ST 2094 App4, Version 1, HDR10+ Profile 
+B.
+HDR Vivid
+HDR Vivid is the HDR video technology standard released by the UHD World Association (UWA). 
+Mastering in this format assures wide compatibility with HDR televisions, phones, computers, and other 
+devices adhering to this standard.
+HDR Vivid settings in the Color Management panel of the Project Settings
+286
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p287]]
+Monitoring and Grading to ST.2084 for HDR Vivid
+When you’re grading a program for HD Vivid output, you’ll need to monitor an ST.2084 image, which 
+is as simple as obtaining a ST.2084-compatible HDR display and connecting it to the output of your 
+DeckLink 8K, DeckLink 4K Extreme 12G, or UltraStudio 4K Extreme.
+Setting up Resolve Color Management to grade for ST.2084 is identical to setting up to grade for 
+Dolby Vision or regular HDR10. You’ll also monitor the video scopes identically, and output a master 
+identically, given that each of these standards rely upon the same PQ curve.
+TIP: If you’re monitoring with the built-in video scopes in DaVinci Resolve, you can turn 
+on “HDR (ST.2084/HLG)” in the Waveform Scale Style settings in the Scopes option menu, 
+which will replace the 10-bit scale of the video scopes with a scale based on nit values 
+(cd/m2) instead.
+HDR Vivid Grading Workflow
+The idea behind the HDR Vivid workflow is that you’ll grade the HDR version of each clip in your 
+program first, and then use the automatic analysis to create a downconverted tone mapped version of 
+each shot that’s controlled by metadata. Once the HDR Vivid trim pass is complete, you’ll deliver the 
+rendered HDR output with embedded HDR Vivid metadata.
+Simultaneous Master and Target Display Output for HDR Vivid
+When mastering HDR and trimming versions for more limited displays, it’s extremely useful to be able 
+to evaluate your HDR grade and tone mapped trim pass side by side. Starting in DaVinci Resolve 15, 
+it’s possible to output both the Master Display output and the Target Display output simultaneously 
+when you’re grading with HDR Vivid enabled. 
+Necessary Hardware
+To work in this manner, you must have the following equipment:
+	 Your DaVinci Resolve grading workstation must output via a DeckLink 8K, DeckLink 4K Extreme 
+12G, UltraStudio 4K Extreme video interface, or better.
+	 Your Mastering Display must be capable of HDR nit levels suitable for the deliverable you’re 
+required to produce.
+	 An HDR target display that can be set to the appropriate tone mapped output.
+Enabling Simultaneous Monitoring
+When you set up your display hardware, the HDR Master Display must be connected to output A, 
+and the Target Display must be connected to output B of whichever BMD video output device you’re 
+using. Then, you need to turn on the “Use dual outputs on SDI” checkbox in the Master Settings of 
+the Project Settings. At this point, assuming all of your connections are compatible with one another, 
+you should see an HDR image output to your HDR display and a trimmed image output to your 
+SDR display.
+287
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p288]]
+HDR Vivid Trim Controls in DaVinci Resolve
+The latest version of the HDR Vivid palette exposes three sets of controls. The first are the 
+main controls:
+	 Target Display Output: This drop-down specifies what parameters are used to display the tone 
+mapped image. This menu lets you choose specific display properties to obtain a preview of what 
+the trimmed image will look like on different displays with different gamuts and peak luminance 
+capabilities.
+	 Trim Mode: Determines the toolset used to create the trims, either Curve or Statistical modes.
+	 Tone Mapping Mode: Lets you choose between Low Light (for protecting shadow details in the 
+trim) or Highlight (for ensuring the highlights don’t blow out in the trim).
+	 Analyze controls: The commands governing HDR Vivid auto-analysis are available as buttons, 
+which perform the same functions as their similarly named counterparts in the Color > HDR Vivid 
+submenu. Please note that most trim controls are disabled until you perform an analysis, which is 
+a necessary first step. An HDR indicator appears on the thumbnail of each analyzed clip. To filter 
+timeline clips based on their status (Analyzed and/or Trimmed), click on the disclosure triangle in 
+the Clips tab and select HDR Vivid.
+All: Automatically analyzes each clip in the current Timeline and stores the results individually.
+Selected: Only analyzes selected shots in the Timeline.
+Frame: Useful when part of a clip has an extreme level of color or lightness that’s inconsistent 
+with the rest of the clip, resulting in a poor analysis result. Placing the playhead on a frame that’s 
+representative of how the clip is supposed to look, and using the Frame option, bases the analysis 
+on only that frame. This is also a fast way to analyze clips where a single frame is representative of 
+the entire shot.
+	 Enable Tone Mapping Preview: Lets you see the target display output in the Color page Viewer 
+and video output, so you can evaluate how the tone mapped version looks on your HDR display.
+The next set of controls activate based on which Trim Mode you have selected.
+	 Curve: The Curve trim mode exposes a variety of controls that lets the colorist adjust the trim 
+metadata manually at the clip or frame level. Offset, Brightness, and Detail settings are available 
+for the Dark and Bright parts of the curve. Midtones have a brightness control. Highlight Crop 
+lets you bring any highlights back into range that may have exceeded the display’s maximum 
+brightness, thus blowing out. Separate Global and Highlight saturation settings are also possible.
+	 Statistical: The Statistical trim mode exposes controls that let you fine tune the automatic tone 
+mapping algorithm used in the Analyze step. 
+HDR Vivid controls in the Color page.
+288
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p289]]
+Delivering HDR Vivid
+Once you’re finished grading the HDR and trimming the SDR downconversion, you need to output 
+your program correctly in the Deliver page.
+Rendering an HDR Vivid Master
+To deliver an HDR Vivid master after you’ve finished grading, you want make sure that the Output 
+Color Space of the Color Management panel of the Project Settings is set to the appropriate HDR 
+ST.2084 setting based on the peak output you want to deliver (any values above will be clipped). 
+Then, you want to set your render up to export an H.265, Quicktime, or MP4 codec in the Video 
+Settings, check the Embed HDR Vivid Metadata box, and select the appropriate HDR mode that you 
+used to grade the master in the dropdown box below.
+HDR Vivid settings in the Video section of the Deliver page
+Hybrid Log-Gamma (HLG)
+The BBC and NHK jointly developed another method of encoding HDR video, referred to as Hybrid 
+Log-Gamma (HLG). The goal of HLG was to develop a method of mastering HDR video that would 
+support a range of displays of different peak luminance capabilities without additional metadata, that 
+could be broadcast via a single stream of data, that would fit into a 10-bit signal, and that in the words 
+of the ITU-R Draft Recommendation BT.HDR, “offers a degree of compatibility with legacy displays by 
+more closely matching the previous established television transfer curves.”
+The basic idea is that the HLG EOTF functions very similarly to BT.1886 from 0 to 0.6 of the signal 
+(with a typical 0–1 range), while 0.6 to 1.0 smoothly segues into logarithmic encoding for the highlights. 
+This means that, if you just send an HDR Hybrid Log-Gamma signal to an SDR display, you’d be able 
+to see much of the image identically to the way it would appear on an HDR display, and the highlights 
+would be compressed to present an acceptable amount of detail for SDR broadcast.
+On a Hybrid Log-Gamma compatible HDR display, however, the log-like highlights of the image (not 
+the BT.1886-like bottom portion of the signal, just the highlights) would be stretched back out, relative 
+to whatever peak luminance level a given HDR television is capable of outputting, to return the image 
+to its true HDR glory. This is different from the HDR10 method of distribution described previously, in 
+which the graded signal is referenced to absolute luminance levels dictated by ST.2084, and levels 
+that cannot be represented by a given display will be clipped.
+And while this facility to support multiple HDR displays with differing peak luminance levels is 
+somewhat analogous to Dolby Vision’s ability to tailor HDR output to the unique peak luminance levels 
+of any given Dolby Vision-compatible television, HLG requires no additional metadata to guide how 
+the highlights are scaled, which depending on your point of view is either a benefit (less work), or a 
+deficiency (no artistic guidance to make sure the highlights are being scaled in the best possible way).
+289
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p290]]
+As is true for most things, you don’t get something for nothing. The BBC White Paper WHP 
+309 states that, for a 2000 cd/m2 HDR display with a black level of 0.01 cd/m2, up to 17.6 stops 
+of dynamic range without visible quantization artifacts (“banding”) is possible. BBC White 
+Paper WHP 286 states that the proposed HLG EOTF should support displays up to about 
+5000 nits. So, partially, the backward compatibility that HLG makes possible is due in part to 
+discarding long-term support for 10,000 nit displays. However, it’s an open question whether 
+or not over 5000 nits is even necessary for consumer enjoyment.
+Sony, LG, Panasonic, JVC, Phillips, Hisense, Hitachi, and Toshiba have all either announced 
+or are shipping consumer HDR televisions capable of displaying HLG encoded video, and of 
+course DaVinci Resolve supports this standard through Resolve Color Management.
+Grading Hybrid Log­‑Gamma in DaVinci Resolve
+Monitoring an ST.2084 image is as simple as getting a Hybrid Log-Gamma-compatible HDR display, 
+and connecting the output of your video interface to the input of the display.
+Setting up Resolve Color Management to grade for HLG is identical to setting up to grade for Dolby 
+Vision, except that there are four HLG settings to choose from for the Output Color Space:
+	 Rec.709 HLG ARIB STD-B67
+	 Rec.2020 HLG ARIB STD-B67
+	 Rec.2100 HLG
+	 Rec.2100 HLG (Scene)
+Optionally, if you choose to enable “Use Separate Color Space and Gamma,” you can choose either 
+Rec. 2020 or Rec. 709 as your gamut, and Rec. 2100 HLG as your EOTF.
+The levels you’ll be monitoring in your scopes will be different from the table of data to nit values listed 
+previously for grading to the PQ EOTF.
+Ouputting Hybrid Log-Gamma
+Once you’ve created an HLG grade for your program, you can output it to any high-quality 10-bit 
+capable media format.
+Reset HDR Trim Analysis 
+from the Option Menu
+For any of the HDR standards, you can reset the HDR trim analysis from the three-dot option menu in 
+their respective tabs from the Color page.
+290
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA
+[[p291]]
+Generate HDR Light Level Report 
+(Studio Version Only)
+You can now generate HDR Light Level reports from the Media Pool. To do so, select a clip in the 
+Media Pool, right-click it and choose Generate HDR Report from the context menu. The tool will 
+prompt you to select a location to save the HDR Light Level report in .pdf format.
+This tool analyzes all frames in rendered HDR clips and presents light level statistics, including MaxCLL 
+and MaxFALL. It also includes a snapshot of the frame containing the maximum luminance level with a 
+box highlighting the point where the maximum values were found.
+An HDR Light Level report exported from DaVinci Resolve
+291
+Setup and Workflows | Chapter 10 HDR Setup and Grading
+MEDIA

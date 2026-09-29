@@ -6,15 +6,15 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 11 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma jurídica que regule el sonido de la realización. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Recomendaciones técnicas: EBU R 37-2007 (sincronía entre sonido e imagen), EBU Tech 3343-2023 (guía de producción conforme a la R 128, para un dato), EBU Tech 3347 (intercomunicación por IP) y, para un dato, EBU Tech 3326; norma SMPTE ST 2110-10 (sincronía en IP). Documentación de fabricante: Clear-Com (IFB, línea compartida, intercom de cámaras), Shure (captación e inalámbricos), DPA Microphones, Yamaha, Soundcraft y Blackmagic Design (mezcladores ATEM). Lo demás, oficio declarado como tal |
-| Redacción que se estudia | EBU R 37 en su edición de febrero de 2007, la publicada en la web de la UER (leída el 29-09-2026). EBU Tech 3347 Rev. 1 (octubre de 2012). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Libro de Estilo en su única edición publicada. Los pasajes tomados de los temas cerrados de Operador/a de Sonido de Canal Sur, en la redacción vigente el 24-09-2026 |
-| Extensión | 11.800 palabras aproximadamente |
+| Fuente | Sin norma jurídica que regule el sonido de la realización. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910); cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL). Recomendaciones técnicas: EBU R 37-2007 (sincronía entre sonido e imagen), EBU R 123 (sonido internacional), EBU Tech 3343-2023 (guía de producción conforme a la R 128, para un dato), EBU Tech 3347 (intercomunicación por IP) y, para un dato, EBU Tech 3326; norma SMPTE ST 2110-10 (sincronía en IP). Documentación de fabricante: Clear-Com (IFB, línea compartida, intercom de cámaras), Shure (captación e inalámbricos), DPA Microphones, Yamaha, Soundcraft y Blackmagic Design (mezcladores ATEM). Lo demás, oficio declarado como tal |
+| Redacción que se estudia | EBU R 37 en su edición de febrero de 2007, la publicada en la web de la UER (leída el 29-09-2026). EBU Tech 3347 Rev. 1 (octubre de 2012). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), y EBU R 123 en su edición de julio de 2009, leídos el 29-09-2026. Libro de Estilo en su única edición publicada. Los pasajes tomados de los temas cerrados de Operador/a de Sonido de Canal Sur, en la redacción vigente el 24-09-2026 |
+| Extensión | 12.600 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
-Televisión, S.A. (CSRTV); real decreto (RD). En las citas del RD 1680/2011, cada resultado de
-aprendizaje (RA) del módulo va con la letra de su criterio de evaluación. El *Libro de Estilo de Canal
+Televisión, S.A. (CSRTV); real decreto (RD); Instituto Nacional de las Cualificaciones (INCUAL). En
+las citas del RD 1680/2011, cada resultado de aprendizaje (RA) del módulo va con la letra de su criterio de evaluación. El *Libro de Estilo de Canal
 Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo o LE.
 
 Los organismos y términos técnicos del tema, presentados de entrada: la Unión Europea de
@@ -49,11 +49,11 @@ qué planos hay, a qué plano de imagen acompaña cada uno y qué se cambia para
 qué es sonido diegético y extradiegético; qué capas tiene la banda sonora y qué es un efecto de sala;
 qué exige el Libro de Estilo a la continuidad sonora; qué micrófonos necesitan alimentación y qué
 patrón conviene a cada uso; qué micrófono lleva cada uno en la información según el Libro de Estilo;
-por qué se ponen dos corbatas a un presentador y cuántos se abren; qué prendas y adornos hacen ruido;
+por qué se ponen dos corbatas a un presentador y cuántos se abren; qué prendas y adornos hacen ruido; qué se comprueba en el ensayo con la pértiga para que no entre en cuadro ni haga sombra;
 por qué no pueden compartir frecuencia dos inalámbricos, qué son banda, grupo y canal y qué
 separación piden; qué es un retorno, un IFB y sus tres elementos, un N-1 y cuándo se manda uno u
 otro; qué pasa con el retorno cuando la conexión llega por dos líneas; qué hace el modo N-1 del
-retorno SDI de un mezclador; qué tipos de señal distingue la UER en la intercomunicación; qué es una
+retorno SDI de un mezclador; qué tipos de señal distingue la UER en la intercomunicación; qué lleva el sonido internacional de una retransmisión y qué variantes distingue la UER; qué es una
 línea compartida de dos hilos, un circuito de cuatro hilos y un híbrido; qué códecs exige la UER al
 intercom por IP y qué latencia esperan sus usuarios; cómo se conectan las CCU a la matriz; qué es la
 sincronía labial, qué márgenes da la EBU R 37 por etapa y de extremo a extremo, por qué se tolera
@@ -80,6 +80,7 @@ pérdida del retorno o un eco del reportero, corregir un desfase entre labios y 
   - [La continuidad del sonido](#la-continuidad-del-sonido)
 - [2. Coordinación de microfonía](#2-coordinación-de-microfonía)
   - [Qué es coordinar la microfonía](#qué-es-coordinar-la-microfonía)
+  - [La pértiga, el encuadre y la luz](#la-pértiga-el-encuadre-y-la-luz)
   - [Qué micrófono para qué](#qué-micrófono-para-qué)
   - [Lo que dice el Libro de estilo de Canal Sur](#lo-que-dice-el-libro-de-estilo-de-canal-sur)
   - [El vestuario también suena](#el-vestuario-también-suena)
@@ -101,6 +102,7 @@ pérdida del retorno o un eco del reportero, corregir un desfase entre labios y 
 - [4. Intercom](#4-intercom)
   - [Qué es, y lo que ya se estudió en el tema 4](#qué-es-y-lo-que-ya-se-estudió-en-el-tema-4)
   - [La EBU distingue tres tipos de señal](#la-ebu-distingue-tres-tipos-de-señal)
+  - [El comentario y el sonido internacional](#el-comentario-y-el-sonido-internacional)
   - [La línea compartida: el intercom de dos hilos](#la-línea-compartida-el-intercom-de-dos-hilos)
   - [Cuatro hilos y el híbrido](#cuatro-hilos-y-el-híbrido)
   - [Intercom por IP](#intercom-por-ip)
@@ -326,6 +328,25 @@ El operador de sonido la monta; el realizador la pide con antelación (RD 1680/2
 también roza y también tiene que estar cerca de la boca. La hoja de microfonía de un programa (oficio)
 recoge, por cada persona o fuente: el micrófono y su reserva, el canal de la mesa, la frecuencia y el
 grupo del inalámbrico, el momento de la escaleta en que entra y el retorno que necesita.
+
+### La pértiga, el encuadre y la luz
+
+Que un micrófono se ve lo dice también la cualificación profesional IMS077_3 del INCUAL,
+«Asistencia a la realización en televisión». En la unidad de competencia
+UC0216_3, al ubicar sobre la planta **«Las cámaras y el equipo de captación de sonido e iluminación»**,
+se comprueban los encuadres y los movimientos de cámara **«verificando que no existen elementos
+indeseados: desaforos, brillos, enfilamientos, sombras, elementos escénicos mal dispuestos, micrófonos o focos que entran en
+encuadre, entre otros, e informando de su existencia y realizando las correcciones oportunas.»**
+(criterio de realización CR5.1). Y su módulo formativo MF0216_3 pide, entre lo que se comprueba en
+los ensayos del plató (criterio de evaluación CE8.2): **«Identificar con el equipo de sonido la posición
+adecuada de la jirafa y/o el micrófono para que no entren en el encuadre y que no provoquen sombras en la escenografía o en los fondos, para
+modificar sus posiciones y/o la iluminación si fuese necesario.»** La jirafa es la pértiga.
+
+En la práctica (oficio): la pértiga se acerca a la boca todo lo que permite el plano más abierto de
+la secuencia, y ése es el plano con el que se prueba; su sombra sobre el rostro o el decorado es a la
+vez de luz y de sonido, y se resuelve en el ensayo entre los dos equipos y la realización, moviendo la
+pértiga, cambiando el ángulo del proyector o, si no hay manera, pasando a un corbata. En directo ya
+no se arregla: se esquiva con otro encuadre. La luz y sus sombras son del tema 10.
 
 ### Qué micrófono para qué
 
@@ -673,6 +694,29 @@ Dúplex (*full duplex*) es la comunicación en los dos sentidos a la vez; semid�
 en un solo sentido cada vez. La clasificación sirve para no confundir: el N-1 es un retorno, no una
 conversación, y el comentario es programa, no intercomunicación.
 
+### El comentario y el sonido internacional
+
+En una retransmisión con señal internacional (tema 3), el comentario y el sonido del acontecimiento
+viajan separados, para que cada cadena ponga su propia voz encima. La UER recoge la definición de
+sonido internacional (*international sound*, IT) de la SMPTE: **«A mix consisting of all the elements
+required to form a standalone audio programme, except for the dialogue element. The main idea is that
+a local commentary could easily be added to an ‘anchor’ programme in this way.»** (EBU R 123, *Audio
+Track Allocation for International File Exchange*, julio de 2009, anexo, 2.2). La misma
+recomendación advierte que el término **«has become very difficult to define»** y que en las
+retransmisiones deportivas se usa a menudo como equivalente de *Clean FX* (efectos limpios; FX, *effects*), aunque los dos términos **«(used to) mean quite different things»** (anexo, 2). Distingue, entre
+otras, estas variantes:
+
+| Variante (EBU R 123, anexo) | Qué lleva |
+|---|---|
+| Definición convencional (2.1) | **«All the audio elements of a programme that appear in-vision.»** Si la imagen es lo que captan las cámaras, todo menos el comentario, **«since that’s ‘out-of-vision’»** |
+| *Clean FX* (2.3.3) | **«Full event effects coverage, including continuous crowd atmosphere»**: todo el sonido del acontecimiento, con el ambiente del público continuo; se usa normalmente cuando el anfitrión corta del recinto a su estudio de presentación o a publicidad |
+| *World Feed* (2.3.4) | El sonido que acompaña a la imagen de la señal mundial: la imagen la monta un segundo mezclador de vídeo y un mezclador de sonido aparte pone el sonido que casa con ella; puede llevar vídeos y entrevistas del anfitrión, y por eso todos sus elementos se ponen a disposición de los mezcladores por separado (*stems*) |
+
+Para el realizador que recibe esa señal (oficio): antes del directo se pregunta en qué canales llega
+el sonido internacional y si viene limpio de comentario; el comentario propio entra por su línea, la
+señal de comentario de la Tech 3347, y el equipo de sonido lo mezcla encima; un comentario ajeno ya mezclado con
+el ambiente no se puede quitar. El reparto de pistas en los ficheros es del tema 14.
+
 ### La línea compartida: el intercom de dos hilos
 
 Clear-Com, fabricante de intercom, la define así en su guía de sistemas de línea compartida
@@ -1000,9 +1044,9 @@ con las fuentes que se citan):
 
 | Momento | Qué hace el realizador |
 |---|---|
-| Preparación | Pide con antelación las fuentes de audio y el retorno de cada una (RD 1680/2011, 0905, RA 3 e); fija en la escaleta quién habla, desde dónde y quién da paso; revisa con estilismo el vestuario y los adornos que suenan (LE 8.6.1) |
+| Preparación | Pide con antelación las fuentes de audio (RD 1680/2011, 0905, RA 3 e) y el retorno de cada una (oficio); fija en la escaleta quién habla, desde dónde y quién da paso; revisa con estilismo el vestuario y los adornos que suenan (LE 8.6.1) |
 | Prueba | Escucha la conexión con su imagen: nivel, retorno sin eco por las dos líneas, retardo del enlace y sincronía de labios; decide qué hacer si el retardo es grande (dejar una pausa tras la pregunta del presentador) |
-| Intercom | Deja en su panel una tecla con sonido y otra con el control central, el IFB del presentador y el del reportero; confidente en el ayudante o el productor (tema 4) |
+| Intercom | Deja en su panel una tecla con sonido y otra con el control central, el IFB del presentador y el del reportero; confidente en la ayudante (tema 4) o en quien lleve la producción (oficio) |
 | En antena | Avisa lo que viene y da la orden cuando toca; el sonido abre con la orden; el plano sonoro de la calle entra con la imagen de la calle |
 | Incidencia | Si el reportero se oye a sí mismo, pide a sonido revisar el N-1 de las dos líneas; si cae el retorno, se le avisa por la vía que quede y se decide si se sigue; si labios y voz no cuadran, pide corregir el retardo (retrasar el audio si la voz va por delante; retrasar la imagen si va por detrás) y, si no se corrige, sale a un plano sin labios o da paso a otra pieza |
 | Final | En la despedida sólo habla el presentador (LE 8.3.2): el micrófono del reportero se cierra, su retorno se mantiene hasta dar la conexión por terminada |
@@ -1039,7 +1083,8 @@ jurídicas.
   operador de sonido y no las pide este enunciado; el tema da sólo lo que el realizador necesita
   para entender la coordinación.
 - La sonoridad (EBU R 128), los medidores, la mezcla para emisión y el nivel de la publicidad: los
-  pide el enunciado de sonido, no éste; aquí sólo se nombran.
+  pide el enunciado de sonido, no éste; aquí sólo se nombran, con sus cifras de referencia en el
+  supuesto práctico.
 - Las señas, la fraseología de órdenes y los protocolos de ensayo entre la realización y el sonido:
   no hay norma ni documento publicado; lo que se da es costumbre de oficio. Las órdenes y llamadas
   del realizador: tema 6.
@@ -1056,6 +1101,8 @@ jurídicas.
 | EBU R 37-2007, *The relative timing of the sound and vision components of a television signal* (Ginebra, febrero de 2007) | Qué es el desfase y de qué depende; pruebas subjetivas al 50 % de observadores, en las condiciones de la R 28; «whenever possible»; corrección automática; 5 ms / 15 ms por etapa; 40 ms / 60 ms de extremo a extremo; destello y pitido; conservar las marcas en ficheros; no adelantar ni retrasar en la cadena | 29-09-2026 |
 | Real Decreto 1680/2011 (BOE-A-2011-19599), texto del diario oficial; vigencia comprobada en su ficha (modificación por el Real Decreto 500/2024) | Lo que la norma de enseñanza pide al realizador sobre sonido e intercomunicación | 29-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 8.6.1, punto 6 | Adornos que hacen ruido | 29-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3, CR5.1; MF0216_3, CE8.2 | Micrófonos, focos y sombras en el encuadre; posición de la jirafa y sus sombras, con sonido e iluminación, en el ensayo | 29-09-2026 |
+| EBU R 123, *Audio Track Allocation for International File Exchange* (Ginebra, julio de 2009), anexo, 2, 2.1, 2.2, 2.3.3 y 2.3.4 | Definición SMPTE de sonido internacional; dificultad del término y equivalencia con *Clean FX* en deportes; definición convencional, *Clean FX* y *World Feed* | 29-09-2026 |
 | EBU Tech 3343-2023, *Guidelines for Production of Programmes in accordance with EBU R 128*, § 3.5.2 | El público como señal en un espectáculo | 29-09-2026 |
 | Temas cerrados de Operador/a de Sonido de Canal Sur (captación de sonido; sonido en televisión; microfonía; radiofrecuencia; audio sobre IP), redacción vigente el 24-09-2026 | Pasajes copiados literalmente, con sus fuentes: Libro de Estilo (3.17.1, 3.17.1.3, 6.4, 6.5, 8.1 punto 6, 8.3, 8.3.2 y 8.6.1 punto 2); EBU Tech 3347 Rev. 1 (§ 1.1, 1.2, 1.3, 1.5, 2.2 y 3); EBU Tech 3326 Rev. 4 (muestreo del G.722); Clear-Com, *Interruptible Fold Back, AKA IFB* (16-03-2021) y *A Comprehensive Guide to Clear-Com Analog and Digital Partyline Systems* (febrero de 2018); Yamaha, *CL5/CL3/CL1 V5 Reference Manual*; Soundcraft, *The Soundcraft Guide to Mixing*; Blackmagic Design, manual en español de los mezcladores ATEM (diciembre de 2024); Shure, *Audio Systems Guide for Video and Film Production* (C. Lyons) y *Selection and Operation of Wireless Microphone Systems* (T. Vear); DPA Microphones, *Mic University*; SMPTE ST 2110-10:2022 | Leídas por ese puesto el 24 y el 25-09-2026 |
 | Temas del específico de Realización de RTVE (el sonido, en Realización Televisión y en Realización Asistencia) | Tabla de patrones polares; alimentación fantasma; tabla de usos del retardo y sentido de la corrección; tabla de diegético y extradiegético | Oficio, sin norma detrás |
@@ -1066,6 +1113,7 @@ campo; qué es coordinar la microfonía y la hoja de microfonía; la revisión d
 abrir y cerrar micrófonos según la escaleta; los márgenes por etapa como suma, la explicación física
 de la asimetría de la R 37 y los cálculos de 20,4 m y de 40 ms por fotograma; dónde se pierde la
 sincronía en un control; lo que el realizador lleva al pacto del directo y lo que hace en el
-supuesto práctico. Los pasajes copiados de los temas cerrados conservan sus propias declaraciones de
+supuesto práctico; cómo se prueba y se corrige la pértiga en el ensayo; lo que el realizador pregunta
+y hace con el sonido internacional. Los pasajes copiados de los temas cerrados conservan sus propias declaraciones de
 oficio.
 

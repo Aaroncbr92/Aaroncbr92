@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule el control de realización. Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto), y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Norma técnica: ANSI E1.11-2024 (USITT DMX512-A). Documentación de fabricante: Blackmagic Design (mezcladores ATEM), Clear-Com (intercom), Autocue (prompter), Vizrt (grafismo). Recomendación técnica: EBU Tech 3347. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004, leídos el 24-09-2026. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los resultados de aprendizaje ni los contenidos de los módulos que se citan, y el Real Decreto 1085/2020 derogó su anexo de convalidaciones (leídos el 24-09-2026 y el 29-09-2026). IMS077_3, documento publicado del INCUAL (actualización por Orden PCI/797/2019), leído el 24-09-2026. ANSI E1.11-2024, aprobada el 25-04-2024; documentación de Autocue y Vizrt en su versión web; las tres, leídas el 29-09-2026 |
-| Extensión | 13.200 palabras aproximadamente |
+| Extensión | 13.475 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -49,7 +49,7 @@ llama prompter o teleprompter; la norma de enseñanza lo escribe «autocúe» y 
 Qué se puede preguntar: qué es un control de realización y en qué se distingue del plató, del estudio,
 del control central y de la continuidad; qué controles tiene un estudio y quién manda en cada uno;
 qué equipos enumera la norma de enseñanza en un control; qué ficha del convenio mezcla, cuál «realiza
-el control de cámaras», cuál maneja los pupitres de iluminación, cuál diseña el grafismo, cuál hace
+el control de cámaras», cuáles manejan los pupitres de iluminación, cuál diseña el grafismo, cuál hace
 el sonido y cuál coordina con el realizador la emisión en directo; qué hace un mezclador, qué salidas
 tiene y para qué sirve un bus auxiliar o la salida limpia; qué es la caja de plató, qué hace la CCU y
 qué instrumentos usa el control de imagen; qué es un retorno y qué es el piloto; qué es un titulador y
@@ -272,6 +272,8 @@ control de realización de la RTVA:
 | Técnico Electrónico (5342100, p. 209) y Oficial Técnico Electrónico (5342101, p. 186) | **«Realizar el control de cámaras.»**; **«Mantener la calidad de la señal dentro de los parámetros establecidos.»** |
 | Operador de Sonido de Televisión (5212207, p. 188) | **«Realizar la captación, registro, edición, tratamiento y reproducción del sonido.»** |
 | Iluminador (5341112, p. 132) | **«Manejar los pupitres de iluminación durante la realización del programa.»** |
+| Capataz de Iluminación (5341210, p. 117) | **«Manejar los pupitres de iluminación.»** |
+| Eléctrico de Iluminación (5341211, p. 126) | **«Mantener el estado de iluminación durante los programas.»**; **«Manejar el pupitre de iluminación.»** |
 | Iluminador Superior (5341111, p. 133) | **«Crear y definir el estilo de luz de los programas.»** |
 | Grafista (5345100, p. 129) | **«Crear y realizar, con criterios artísticos, el diseño gráfico que requieren los canales y programas.»** |
 | Operador Montador de Vídeo (5212206, p. 190) | **«Grabar, emitir y reproducir videos para programas en todo tipo de eventos y producciones con selección alternativa a la realización.»** |
@@ -524,6 +526,12 @@ permite controlar unidades URSA Mini y Blackmagic Studio Camera mediante la señ
 (URSA Mini y Studio Camera son modelos de cámara del mismo fabricante.) Los retornos de sonido, el
 N-1 y el IFB son el epígrafe 8 y el tema 11.
 
+El envío de vídeo al plató lo pone la cualificación del ayudante entre los equipos auxiliares que
+opera (IMS077_3, UC0217_3, RP3: **«Operar con equipos auxiliares en el control de realización,
+atendiendo a las instrucciones del realizador.»**): **«CR3.2 El conmutador de señal de envío de video a plató, se acciona en función de las
+indicaciones de escaleta e indicaciones del realizador.»** El envío sigue la escaleta y las órdenes
+del realizador; no lo decide quien lo acciona.
+
 ## 3. Grafismo
 
 ### El titulador y el sistema de grafismo
@@ -666,6 +674,12 @@ del Iluminador Superior (5341111, p. 133): **«Crear y definir el estilo de luz 
 **«Realizar el diseño de la iluminación y determinar las necesidades de personal, así como del
 material necesario para la ejecución del programa.»** y **«Realizar pruebas y ensayos de
 programas.»**
+
+El pupitre no es sólo del Iluminador. La ficha del Capataz de Iluminación (5341210, p. 117) termina
+con **«Manejar los pupitres de iluminación.»**, y la del Eléctrico de Iluminación (5341211, p. 126)
+incluye **«Mantener el estado de iluminación durante los programas.»** y **«Manejar el pupitre de
+iluminación.»** Sólo la del Iluminador lo sitúa **«durante la realización del programa»**; quién se
+sienta a la mesa en cada programa de CSRTV no consta en documento publicado.
 
 La norma de enseñanza pide al realizador que sepa elegir la mesa (módulo 0910, RA 1): **«d) Se ha
 determinado la idoneidad de diversas configuraciones de mesas de luces y dimmers a proyectos
@@ -839,7 +853,9 @@ incrustaciones y cámaras masterizadas.»**
 
 La cualificación del ayudante pone el lanzamiento y la grabación en la asistencia (IMS077_3,
 UC0217_3): **«CR2.3 El lanzamiento del vídeo (pieza, total o colas) se ejecuta según las indicaciones
-del realizador, ajustándolo al primer fotograma con una imagen visible del montaje.»**; **«CR3.3 El
+del realizador, ajustándolo al primer fotograma con una imagen visible del montaje.»**; **«CR2.4 La
+reproducción de repeticiones o el relanzamiento de vídeos en los monitores de plató se efectúa según
+las indicaciones de realización, controlando su duración y ajustando su velocidad.»**; **«CR3.3 El
 envío de señales de video auxiliares a los equipos grabadores auxiliares se maneja de forma autónoma,
 siguiendo la realización y asegurando la grabación de planos alternativos a la mezcla para su
 posterior utilización como recursos en la edición final del programa de televisión.»**; **«CR3.4 El
@@ -847,7 +863,9 @@ envío de la señal de programa a equipos grabadores de vídeo y audio se maneja
 técnica, en programas de televisión grabados.»** En la RTVA, la ficha del Operador Montador de Vídeo
 (5212206, p. 190) incluye **«Grabar, emitir y reproducir videos para programas en todo tipo de eventos
 y producciones con selección alternativa a la realización.»** Cómo se reparten hoy esas tareas en los
-controles de CSRTV entre ese puesto y la asistencia no consta en documento publicado.
+controles de CSRTV entre ese puesto y la asistencia no consta en documento publicado. Lo que la
+asistencia comunica al equipo del control sobre cada vídeo (línea que lo reproduce, coleos, duración,
+tiempos parciales, pie de salida, cuenta atrás; CR2.2) está en el tema 6.
 
 Cómo llega un vídeo al servidor del control (oficio): el montador lo termina en su sala y lo entrega
 al servidor con el nombre que tiene en la escaleta; el control lo encuentra por ese nombre. Por eso
@@ -1083,7 +1101,8 @@ de la mesa sale cada cosa; por último, por qué punto del intercom se le avisa.
 - X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014): anexo III,
   fichas 5351000 (Realizador), 5353000 (Ayudante de Realización), 5352000 (Ayudante Técnico
   Mezclador), 5342100 (Técnico Electrónico), 5342101 (Oficial Técnico Electrónico), 5212207 (Operador
-  de Sonido de Televisión), 5341112 (Iluminador), 5341111 (Iluminador Superior), 5345100 (Grafista),
+  de Sonido de Televisión), 5341112 (Iluminador), 5341210 (Capataz de Iluminación), 5341211 (Eléctrico de Iluminación),
+  5341111 (Iluminador Superior), 5345100 (Grafista),
   5212206 (Operador Montador de Vídeo) y 5302010 (Editor de Continuidad). Su vigencia y prórroga, en el tema común del convenio.
 - Real Decreto 1680/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en
   Realización de proyectos audiovisuales y espectáculos y se fijan sus enseñanzas mínimas (BOE núm.
@@ -1129,11 +1148,12 @@ de la mesa sale cada cosa; por último, por qué punto del intercom se le avisa.
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III: fichas 5351000 (p. 196), 5353000 (p. 111), 5352000 (p. 115), 5342100 (p. 209), 5342101 (p. 186), 5212207 (p. 188), 5341112 (p. 132), 5341111 (p. 133), 5345100 (p. 129), 5212206 (p. 190), 5302010 (p. 125) | Quién mezcla, quién controla las cámaras, quién hace el sonido, quién ilumina, quién diseña el grafismo, quién graba y reproduce vídeos, quién coordina con continuidad; responsabilidad del realizador; cláusula abierta | 24-09-2026 |
+| X Convenio, anexo III: fichas 5341210 Capataz de Iluminación (p. 117) y 5341211 Eléctrico de Iluminación (p. 126) | Otras fichas que manejan el pupitre de iluminación | 29-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 6.1 y 6.1.1 (p. 88), 6.1.2 (p. 89), 6.5 (p. 92), 8.3 | Escaleta, nombre de los vídeos, rótulos en escaleta, comunicación de cambios; el realizador responsable máximo de la imagen; previsión del directo | 24-09-2026 (6.1, 6.1.1, 6.1.2, 6.5 y 8.3, en los textos ya cerrados del tema 13 de Operador/a Montador/a de Vídeo y del tema 8 de Operador/a de Sonido) |
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): anexo I, módulo 0905 (RA 5.b a 5.e; RA 6.a a 6.g; contenidos) y módulo 0910 (RA 1.d; RA 4.a, 4.c a 4.g; contenidos) | Equipos del control; configuración del mezclador; CCU; multipantalla; enrutamientos; titulador; servidores y grabación; mesa de audio; audio sigue vídeo; mesas de luces; escenografía virtual; esquema de intercomunicación | 24-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685, art. séptimo y anexo XLI | Que los módulos citados no se modifican | 24-09-2026 |
 | Real Decreto 1085/2020, BOE-A-2020-17274, disposición derogatoria única, apartado 2 | Que el anexo derogado del RD 1680/2011 es el de convalidaciones | 29-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR5.2; contexto profesional); UC0217_3 (CR2.3, CR2.5, CR2.6, RP3, CR3.1 a CR3.5; contexto profesional); MF0217_3 (CE1.5, CE1.7; contenidos, apartado 4) | Salas y medios del control; operación de la tituladora, lanzamientos y grabaciones por la asistencia; comprobaciones previas; comunicación control-estudio; continuidad | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR5.2; contexto profesional); UC0217_3 (CR2.2 a CR2.6, RP3, CR3.1 a CR3.5; contexto profesional); MF0217_3 (CE1.5, CE1.7; contenidos, apartado 4) | Salas y medios del control; operación de la tituladora, lanzamientos, repeticiones, envío de vídeo a plató y grabaciones por la asistencia; comprobaciones previas; comunicación control-estudio; continuidad | 24-09-2026 (CR2.2, CR2.4, RP3 y CR3.2, releídos el 29-09-2026) |
 | ANSI E1.11-2024, USITT DMX512-A (ESTA), portada, 1.1, 1.2, 1.3, 3.36, 3.37, 3.45, 8.6 | El DMX512: objeto, medio, conector, paquetes, universo, varias líneas | 29-09-2026 |
 | Autocue, *Prompting A-Z: An Introduction To Prompting* y *How a prompter works* (web del fabricante) | Cristal divisor, 70:30, imagen invertida, marca de lectura, mandos, piloto, monitor de retorno, pantalla en blanco, título, NRCS, contrapeso | 29-09-2026 |
 | Portada del fabricante Autocue (captura del 02-09-2026) | Autocue es marca; prompter y teleprompter | 24-09-2026 (en el texto ya cerrado del tema 9 de Redactor/a) |

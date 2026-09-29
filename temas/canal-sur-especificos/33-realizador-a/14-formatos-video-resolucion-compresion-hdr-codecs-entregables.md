@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 14 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma jurídica que regule los formatos. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Realizador; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), puntos 85 y 101; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905, 0906, 0907 y 0910). Recomendaciones e informes de la UIT-R: BT.601-7, BT.709-6, BT.2020-2, BT.2100-3 e Informe BT.2408-9. EBU: R 103 v3.0, R 123, R 128-2023, Tech 3285, Tech 3343-2023 y hoja informativa *Quality Control* (2015) con su catálogo de ítems. Fichas de catálogo SMPTE (ST 377-1, ST 2084, ST 2086, ST 2067-2); AMWA (AS-11); Library of Congress (MXF y ProRes). Documentación de fabricante: Sony, Avid, Panasonic; ayuda de YouTube sobre la emisión en directo. Lo demás, oficio y cálculo |
+| Fuente | Sin norma jurídica que regule los formatos. Lo propio de la casa: X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Realizador; Contrato-programa 2024-2026 (BOJA núm. 245, de 26/12/2023), puntos 85 y 101; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905, 0906, 0907 y 0910). Recomendaciones e informes de la UIT-R: BT.601-7, BT.709-6, BT.2020-2, BT.2100-3 e Informe BT.2408-9. EBU: R 103 v3.0, R 123, R 128-2023, Tech 3285, Tech 3343-2023 y hoja informativa *Quality Control* (2015) con su catálogo de ítems. Fichas de catálogo SMPTE (ST 377-1, ST 2084, ST 2086, ST 2094-40, ST 2067-2); AMWA (AS-11); Library of Congress (MXF y ProRes). Documentación de fabricante: Sony, Avid, Panasonic, Blackmagic Design (manual de DaVinci Resolve 21); ayuda de YouTube sobre la emisión en directo. Lo demás, oficio y cálculo |
 | Redacción que se estudia | Las ediciones vigentes el 24-09-2026 de cada documento citado; fechas de lectura en «Trazabilidad». Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan |
-| Extensión | 19.600 palabras aproximadamente |
+| Extensión | 20.600 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -21,7 +21,8 @@ LE. Sector de Radiocomunicaciones de la Unión Internacional de Telecomunicacion
 escribe la ultra alta definición como UHDTV; Unión Europea de Radiodifusión (EBU, *European
 Broadcasting Union*); Sociedad de Ingenieros de Cine y Televisión (SMPTE, *Society of Motion Picture
 and Television Engineers*), cuyas normas llevan el prefijo ST (*standard*); Advanced Media Workflow
-Association (AMWA); Digital Production Partnership (DPP) y North American Broadcasters Association
+Association (AMWA); Blu-ray Disc Association (BDA); BBC y NHK, que su fuente nombra sólo
+por las siglas; Digital Production Partnership (DPP) y North American Broadcasters Association
 (NABA), que se nombran como los cita la fuente; Biblioteca del Congreso de Estados Unidos (LOC,
 *Library of Congress*).
 
@@ -84,7 +85,7 @@ entropía; qué significan 4:2:2, 4:2:0 y 4:4:4:4 y cuántos niveles da una mues
 son los rangos nominal y preferente de la EBU R 103; qué es CBR y VBR; cuántos minutos caben en una
 tarjeta a una tasa dada y cuánto comprime un códec; qué recomendaciones son la BT.601, la BT.709, la
 BT.2020 y la BT.2100; en qué cinco ejes mejora el UHD; en qué sistema emite Canal Sur por TDT; qué
-son PQ y HLG, qué norma SMPTE publica la PQ y cuál sus metadatos; a qué nivel va el blanco de un
+son PQ y HLG, qué norma SMPTE publica la PQ y cuál sus metadatos; qué perfiles de HDR (HDR10, HDR10+, Dolby Vision, HLG) llevan metadatos plano a plano; a qué nivel va el blanco de un
 rótulo en HLG y en PQ; qué es una conversión SDR-HDR de luz de escena y de luz de pantalla, y cuál
 se usa para mezclar cámaras en directo; qué es una curva logarítmica; qué es intracuadro y GOP largo
 y cuál conviene para montar y cuál para distribuir; qué son XAVC, ProRes, DNxHD (VC-3) y AVC-Intra;
@@ -133,6 +134,7 @@ cadencias, y preparar la lista de entregables con su control de calidad.
   - [Qué es y qué recomendación lo fija](#qué-es-y-qué-recomendación-lo-fija)
   - [La gamma y la curva logarítmica](#la-gamma-y-la-curva-logarítmica)
   - [Los metadatos de masterizado](#los-metadatos-de-masterizado)
+  - [Los perfiles de HDR y sus metadatos](#los-perfiles-de-hdr-y-sus-metadatos)
   - [Cómo se señala el HDR](#cómo-se-señala-el-hdr)
   - [Los niveles del HDR](#los-niveles-del-hdr)
   - [Mezclar SDR y HDR: las conversiones](#mezclar-sdr-y-hdr-las-conversiones)
@@ -189,7 +191,7 @@ elementos técnicos-artísticos necesarios para la elaboración de programas y c
 duración de los mismos.»** y **«Dirigir las tareas de montaje, postproducción y mezclas hasta su
 completo acabado.»** El realizador no configura el grabador ni exporta el fichero; decide con qué
 formato se capta, se monta y se entrega su programa, y responde de que llegue con la calidad y la
-duración pedidas (lectura de la ficha).
+duración pedidas (oficio, a partir de la ficha).
 
 La norma de enseñanza del título de Técnico Superior en Realización (RD 1680/2011) concreta esas
 decisiones. En el módulo 0910, «Medios técnicos audiovisuales y escénicos», RA 4, e): **«Se ha
@@ -819,8 +821,46 @@ Un máster en PQ se suele acompañar de datos que describen el monitor en que se
 normaliza en la ST 2086, **«Mastering Display Color Volume Metadata Supporting High Luminance and
 Wide Color Gamut Images»** (publicaciones de 2014-10-13 y 2018-04-09; **«stabilized»**). El título lo
 dice: son metadatos del volumen de color del monitor de masterizado; su contenido campo a campo no se
-ha leído. Los nombres comerciales de perfiles HDR que se ven en plataformas y televisores (HDR10,
-HDR10+, Dolby Vision) no se desarrollan aquí: no hay fuente normativa leída que los defina.
+ha leído.
+
+### Los perfiles de HDR y sus metadatos
+
+Fuera de las recomendaciones de la UIT, el HDR se entrega en perfiles de industria. Ninguna norma
+leída los define; sí los describe la documentación del fabricante de un programa de etalonaje, el
+manual de referencia de DaVinci Resolve 21 (Blackmagic Design, julio de 2026), que enumera cinco:
+**«Dolby Vision®»**, **«HDR10»**, **«HDR10+»**, **«HDR Vivid»** y **«Hybrid Log-Gamma (HLG)»**. Los
+cuatro primeros usan la curva PQ (de Dolby Vision, **«uses the PQ (perceptual quantizer)
+electrical-optical transfer function […] which is defined by SMPTE ST.2084»**; de los demás, que se
+etalonan y se masterizan igual, **«given that each of these standards rely upon the same PQ
+curve»**). Lo que los separa es qué metadatos acompañan a la imagen y, por tanto, qué hace una
+pantalla que no llega al pico de luminancia con que se masterizó. El HDR Vivid, de la UHD World
+Association (UWA) según el manual, sigue el mismo esquema que el HDR10+ (análisis y ajuste plano a
+plano) y no se desarrolla.
+
+| Perfil | Qué metadatos lleva (manual de DaVinci Resolve 21) | En una pantalla que no llega al pico del máster |
+|---|---|---|
+| HDR10 | Del PQ a secas dice el manual que **«there’s no special metadata to write or deal with»**; el estándar HDR10, que la Blu-ray Disc Association (BDA) adoptó para el Ultra HD Blu-ray, fija para esos discos resolución UHD de 3.840 × 2.160, **«Up to the Rec. 2020 gamut»**, la ST 2084 y **«Mastered with a peak luminance of 1000 nits»**. Pide, eso sí, dos niveles de luz del contenido, MaxCLL y MaxFALL (el manual los nombra al hablar del nivel 6 de Dolby Vision, **«required by the HDR10 mastering standard»**, sin desarrollar las siglas) | Se recorta: **«no provision is made to scale the above-100 nit portion of the image to accommodate different displays with differing peak luminance levels»**; en un televisor de 500 cd/m², **«all mastered levels from 501–1000 will be clipped»** |
+| HDR10+ | Formato **«by Samsung»**: tras etalonar el HDR, un análisis automático crea metadatos que gobiernan la bajada a SDR y **«control how HDR-strength highlights look on a variety of supported televisions and displays»**; se guardan **«per clip»**. En el fichero HEVC el metadato se identifica como **«SMPTE ST 2094 App4, Version 1, HDR10+ Profile B»** | La pantalla adapta las altas luces guiada por los metadatos de cada plano; el manual lo presenta como lo que resuelve la falta de compatibilidad del HDR10 con las pantallas BT.709 |
+| Dolby Vision | PQ más **«a hierarchy of metadata that’s embedded alongside the video stream»**, por niveles: el 0, global, describe el monitor de masterizado y las pantallas de destino; el 1 es el análisis que se genera al analizar los clips; el 2 y el 8, los ajustes (*trims*) del colorista para una pantalla distinta de la de masterizado (el ejemplo: una de 100 *nits* BT.709 frente a una de 1.000 *nits* BT.2020); el 5, la relación de aspecto, **«also applicable at the per clip level»**; el 6, el MaxCLL y el MaxFALL del HDR10 | La adaptación la guía el colorista: el fin de los ajustes es **«to maintain a program’s artistic intent»** en pantallas de distinto pico. En DaVinci Resolve, los ajustes manuales exigen una licencia de Dolby |
+| HLG | **«without additional metadata»**: la BBC y la NHK lo diseñaron para servir a pantallas de distinto pico con un solo flujo de 10 bits | Las altas luces se estiran **«relative to whatever peak luminance level a given HDR television is capable of outputting»**, sin guía artística: el manual lo llama ventaja (menos trabajo) o carencia |
+
+El manual no usa los rótulos «estático» y «dinámico». El catálogo de la SMPTE sí: la norma que el
+manual nombra para el HDR10+, la ST 2094-40, se titula **«Dynamic Metadata for Color Volume Transform
+— Application #4»** (publicaciones de 2016-08-24 y 2020-04-09; **«stabilized»**). De ahí la
+clasificación que se usa en el oficio: la ST 2086 describe el monitor de masterizado y vale para todo
+el programa (metadatos estáticos); los de la ST 2094 cambian plano a plano (dinámicos). Llevan
+metadatos plano a plano el HDR10+ y el Dolby Vision; el HDR10 se queda en los del máster, y el HLG no
+lleva ninguno (oficio, sobre las citas de la tabla).
+
+Para el realizador, dos consecuencias (oficio, sobre el manual). La primera: el etalonaje en PQ es el
+mismo para HDR10, HDR10+ y Dolby Vision, y lo que cambia es el trabajo de ajuste y los ficheros que
+se entregan. En Dolby Vision, los metadatos van en un XML junto al máster o dentro de un paquete IMF
+(**«an MXF with embedded Dolby Vision metadata»**), o se renderiza un H.265 compatible; en HDR10+, van
+en ficheros aparte (*sidecar*, con extensión .json) que se entregan a una instalación que crea el
+fichero intermedio (*Mezzanine File*) de HDR10+ (**«this cannot be done in DaVinci Resolve»**), o se incrustan en un
+HEVC con el perfil **«Main10»**. La segunda: DaVinci Resolve mide los dos niveles de luz del HDR10 con un
+informe que analiza **«all frames in rendered HDR clips»**; es un dato del fichero terminado, no del
+monitor.
 
 ### Cómo se señala el HDR
 
@@ -1645,7 +1685,8 @@ Contrato-programa dice de él.
 | EBU R 103 v3.0 (mayo de 2020) | Rangos nominal, preferente y total; error de gama; recortadores; legalizadores; sub-negros |
 | SMPTE ST 292-1:2018 | Velocidad del HD-SDI |
 | SMPTE ST 2110-20:2022 | Señalización de la colorimetría y de la curva (SDR, PQ, HLG) |
-| Catálogo SMPTE: ST 2084, ST 2086, ST 377-1, ST 2067-2; páginas de IMF | Títulos, fechas y estado; IMF, CPL, OPL, RDD 59-1 |
+| Catálogo SMPTE: ST 2084, ST 2086, ST 2094-40, ST 377-1, ST 2067-2; páginas de IMF | Títulos, fechas y estado; IMF, CPL, OPL, RDD 59-1 |
+| Blackmagic Design, *DaVinci Resolve 21 Reference Manual* (julio de 2026), cap. 10, pp. 262 y 267-291 | Perfiles HDR10, HDR10+, Dolby Vision, HDR Vivid y HLG; sus metadatos y su entrega |
 | AMWA, página AS-11 | Qué son las AS-11 y sus ampliaciones |
 | EBU R 123 (julio de 2009) y Tech 3343-2023 | Asignación de pistas de audio; 5.1, LFE, *downmix* Lo/Ro |
 | EBU R 128-2023 | −23,0 LUFS, ±1,0 LU, −1 dBTP |
@@ -1662,8 +1703,11 @@ Contrato-programa dice de él.
   de archivo y si produce en UHD o en HDR: no constan en un documento publicado localizado. Lo
   publicado es que su TDT es HD (Contrato-programa, punto 85).
 - El texto del Real Decreto 16/2023 y del Plan Técnico Nacional de la TDT: no se han leído.
-- HDR10, HDR10+ y Dolby Vision: no hay fuente normativa leída; el contenido campo a campo de la ST
-  2086 y el texto de la ST 2084 no se han leído (sólo sus fichas de catálogo).
+- HDR10, HDR10+, Dolby Vision y HDR Vivid: no se han leído sus especificaciones (BDA, Samsung, Dolby,
+  UWA) ni el texto de la ST 2094-40; el tema da lo que dice el manual de DaVinci Resolve 21 y el título
+  de la norma en el catálogo de la SMPTE. El desarrollo de las siglas MaxCLL y MaxFALL no consta en lo
+  leído. El contenido campo a campo de la ST 2086 y el texto de la ST 2084 no se han leído (sólo sus
+  fichas de catálogo).
 - La especificación DCI del 4K de cine; las normas H.264 y H.265 y las tasas de cada variante de
   ProRes; el DNxHR; la norma de compresión de los XAVC en MXF; la norma SMPTE del LTC: no se han leído
   en su fuente.
@@ -1699,6 +1743,8 @@ La fecha de trabajo del encargo es el 24-09-2026; lo leído directamente para es
 | EBU, *Quality Control*, hoja informativa publicada el 01-09-2015 (tech.ebu.ch) | Control de calidad por destino (§ 8) | 29-09-2026 |
 | EBU, catálogo de ítems QC, API de qc.ebu.io (ítems 0001F, 0010B, 0021B, 0026F, 0044B, 0051B, 0078B, 0082W, 0119B, 0248B) | Definiciones (§§ 2 y 8) | 29-09-2026 |
 | YouTube Help, respuesta 2853702 | Parámetros de ingesta (§ 8) | 29-09-2026 |
+| Blackmagic Design, *DaVinci Resolve 21 Reference Manual*, julio de 2026, cap. 10 «HDR Setup and Grading», pp. 262 y 267-291 | Perfiles de HDR y sus metadatos (§ 5) | 29-09-2026 |
+| SMPTE Document Library, ficha de la ST 2094-40 | Título, publicaciones y estado (§ 5) | 29-09-2026 |
 | Tema cerrado 4 de Operador/a Montador/a de Vídeo (UIT-R, SMPTE, EBU, AMWA, LOC, Sony, Avid, Panasonic; leídos el 24 y el 25-09-2026 por ese tema) | Pasajes copiados de §§ 1 a 8 | Por ese tema |
 | Tema cerrado 2 de Operador/a Montador/a de Vídeo (BT.709-6, BT.2100-3, EBU R 103 v3.0) | Gamma y curva logarítmica; límites de la señal; monitor HDR (§§ 3 y 5) | Por ese tema |
 | Tema cerrado 7 de Cámara Operador/a (Sony PXW-Z200; Libro de Estilo 5.3.3) | Formatos de proyecto, *proxy*, código de tiempo, aritmética, soportes, RAID, LTO (§ 7) | Por ese tema |
@@ -1708,7 +1754,7 @@ La fecha de trabajo del encargo es el 24-09-2026; lo leído directamente para es
 Oficio, declarado así en el texto: qué decide el realizador sobre el formato y el uso del *proxy*;
 el reencuadre de un material UHD; qué hacer con un material 4:3 o vertical; la exigencia de
 muestreo del croma; el reparto de los márgenes de la R 103 entre directo y pieza; la tabla del HDR
-en la realización; la definición de entregable y para qué sirve cada señal grabada; la lista de
+en la realización; la clasificación estática/dinámica de los metadatos del HDR y las consecuencias de los perfiles para el realizador; la definición de entregable y para qué sirve cada señal grabada; la lista de
 entregables; el supuesto práctico. Lo copiado de temas cerrados lleva sus propias declaraciones de
 oficio. Es cálculo, y se puede rehacer: el espacio de seis señales, la relación de compresión, la
 duración por código de tiempo, la cámara lenta, los píxeles y los niveles.

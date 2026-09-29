@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 17 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Texto refundido de la Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996, de 12 de abril), incluida su disposición transitoria cuarta; Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto (artículos 66.6, 70 y 73; rúbricas del título II y de los artículos 67 a 69); Resolución de 5 de abril de 1999, de la Secretaría de Estado de Cultura (autorización de DAMA); Resolución de 8 de septiembre de 2020 (autorización de SEDA); Ley Orgánica 1/1982; Ley Orgánica 1/1996, artículo 4; Ley de Enjuiciamiento Criminal, artículo 681; Reglamento (UE) 2016/679; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía, artículo 20; Ley 18/2007, de la RTVA, artículo 4.1; Carta del Servicio Público de la RTVA 2024-2029, artículos 8.1, 24 y 27; Contrato-programa 2024-2026, puntos 120 a 122; X Convenio Colectivo de la RTVA, anexo III (fichas de Realizador y de Ayudante de Realización); Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004); licencia Creative Commons Atribución 4.0, texto legal en español |
-| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (en el texto refundido, la última modificación de cualquier artículo es la del 177, vigente desde el 31-03-2022; los artículos 89, 91 y 94 y la disposición transitoria cuarta conservan la redacción original; el 90, la de la Ley 23/2006, vigente desde el 28-07-2006); Carta, Contrato-programa y convenio en su texto publicado; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 17.800 palabras aproximadamente |
+| Fuente | Texto refundido de la Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996, de 12 de abril), incluida su disposición transitoria cuarta; Ley de 10 de enero de 1879 sobre Propiedad Intelectual, artículo 6 (por la remisión de esa disposición); Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto (artículos 66.6, 70 y 73; rúbricas del título II y de los artículos 67 a 69); Resolución de 5 de abril de 1999, de la Secretaría de Estado de Cultura (autorización de DAMA); Resolución de 8 de septiembre de 2020 (autorización de SEDA); Ley Orgánica 1/1982; Ley Orgánica 1/1996, artículo 4; Ley de Enjuiciamiento Criminal, artículo 681; Reglamento (UE) 2016/679; Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía, artículo 20; Ley 18/2007, de la RTVA, artículo 4.1; Carta del Servicio Público de la RTVA 2024-2029, artículos 8.1, 24 y 27; Contrato-programa 2024-2026, puntos 120 a 122; X Convenio Colectivo de la RTVA, anexo III (fichas de Realizador y de Ayudante de Realización); Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004); licencia Creative Commons Atribución 4.0, texto legal en español |
+| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (en el texto refundido, la última modificación de cualquier artículo es la del 177, vigente desde el 31-03-2022; los artículos 8, 89, 91 y 94 y la disposición transitoria cuarta conservan la redacción original; el 28, la de la Ley 21/2014, vigente desde el 01-01-2015, que no cambió su apartado 2; el 90, la de la Ley 23/2006, vigente desde el 28-07-2006); de la Ley de 1879, el texto publicado en la Gaceta de Madrid; Carta, Contrato-programa y convenio en su texto publicado; Libro de estilo, 1.ª ed., 2004 |
+| Extensión | 18.300 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -37,13 +37,16 @@ hasta su acabado: un programa, un reportaje, un microespacio, una promoción o u
 Qué se puede preguntar: cuándo nace el derecho de autor y si hace falta registrar la obra; qué
 facultades morales tiene el autor y cuáles sobreviven al dominio público; cuáles son las cuatro
 modalidades de explotación y qué es la «puesta a disposición»; quiénes son autores de la obra
-audiovisual (el director-realizador, el primero) y quiénes no; qué derechos se presumen cedidos al
+audiovisual (el director-realizador, el primero) y quiénes no; qué distingue la obra en colaboración
+de la obra colectiva y a quién corresponden los derechos de cada una; qué derechos se presumen cedidos al
 productor; quién fija la versión definitiva y qué cambios admite la emisión; qué pasa si un autor no
 termina su aportación; qué remuneraciones tiene el director-realizador, cuáles son irrenunciables, por
 qué no alcanzan a la obra publicitaria y quién las hace efectivas; qué entidad se autorizó para
-gestionar los derechos de directores-realizadores y guionistas; qué presume la ley sobre la obra del
+gestionar los derechos del director-realizador y de los autores del argumento, la adaptación, el
+guion o los diálogos; qué presume la ley sobre la obra del
 trabajador asalariado; cuánto duran los derechos de la obra audiovisual, de la grabación, de la
-emisión y de la mera fotografía, y desde cuándo se cuentan; qué tres excepciones tiene el derecho a la
+emisión, de la obra colectiva y de la mera fotografía, y desde cuándo se cuentan; qué plazo rige
+para los autores fallecidos antes del 7 de diciembre de 1987; qué tres excepciones tiene el derecho a la
 propia imagen, qué exige el consentimiento, si es revocable y qué no salva el consentimiento de los
 padres de un menor; qué víctimas no pueden identificarse en ningún caso; qué es la remuneración
 equitativa y única por el uso de fonogramas y quién autoriza reproducir una grabación musical en una
@@ -197,6 +200,18 @@ Artículo 7, obra en colaboración: los derechos sobre una obra que sea resultad
 colaboración de varios autores corresponden a todos ellos, y para divulgarla y modificarla se requiere
 el consentimiento de todos los coautores; en defecto de acuerdo, resuelve el juez. La obra audiovisual
 es, por remisión del artículo 87, una obra en colaboración.
+
+Artículo 8, obra colectiva: «**Se considera obra colectiva la creada por la iniciativa y bajo la
+coordinación de una persona natural o jurídica que la edita y divulga bajo su nombre y está constituida
+por la reunión de aportaciones de diferentes autores cuya contribución personal se funde en una
+creación única y autónoma, para la cual haya sido concebida sin que sea posible atribuir separadamente
+a cualquiera de ellos un derecho sobre el conjunto de la obra realizada.**» Y su segundo párrafo:
+«**Salvo pacto en contrario, los derechos sobre la obra colectiva corresponderán a la persona que la
+edite y divulgue bajo su nombre.**» La diferencia con la obra en colaboración está en quién tiene los
+derechos: en la del artículo 7, todos los coautores; en la colectiva, salvo pacto, quien la edita y
+divulga bajo su nombre. La obra audiovisual la califica la ley como obra en colaboración (artículo 87);
+si un producto concreto de una cadena reúne los requisitos del artículo 8 es cuestión de cada caso, que
+la ley no resuelve en abstracto. Su duración se da en «Cuánto duran» (artículo 28.2).
 
 Artículo 9.1: obra compuesta es la obra nueva que incorpore una obra preexistente sin la colaboración
 del autor de esta última, «**sin perjuicio de los derechos que a éste correspondan y de su necesaria
@@ -366,7 +381,8 @@ Cultura (BOE núm. 85, de 9 de abril de 1999), concedió a «**Derechos de Autor
 Entidad de Gestión (DAMA)**» la autorización del artículo 147 «**para ejercer la gestión de los derechos
 de propiedad intelectual que corresponden a los autores de la obra audiovisual enumerados en los puntos
 1 y 2 del artículo 87 del referido texto legal, así como a sus derechohabientes, en los términos
-previstos en sus Estatutos.**» Es decir, directores-realizadores y guionistas. La resolución no dice que
+previstos en sus Estatutos.**» Es decir, el director-realizador y los autores del argumento, la
+adaptación, el guion o los diálogos. La resolución no dice que
 sea la única; qué otras entidades gestionan hoy derechos de directores no se ha podido comprobar (véase
 «Lo que este tema no da»).
 
@@ -434,6 +450,7 @@ Los artistas intérpretes y los productores de fonogramas, que son los de la mú
 |---|---|---|
 | Explotación de la obra, regla general | «**toda la vida del autor y setenta años después de su muerte o declaración de fallecimiento**» | 26 |
 | Obras en colaboración, «comprendidas las obras cinematográficas y audiovisuales» | Vida de los coautores y setenta años desde la muerte del último coautor superviviente | 28.1 |
+| Obras colectivas | «**setenta años desde la divulgación lícita de la obra protegida**»; si las personas naturales que la han creado aparecen identificadas como autores en las versiones accesibles al público, se aplica el 26 o el 28.1, según proceda; y todo ello sin perjuicio de los derechos de los autores identificados sobre sus aportaciones identificables contenidas en la obra, a las que se aplican el 26 o el 28.1 | 28.2 |
 | Productor de la primera fijación de una grabación audiovisual | Cincuenta años desde su realización o, si se divulga lícitamente dentro de ese período, cincuenta años desde la divulgación | 125 |
 | Entidades de radiodifusión | Cincuenta años desde la realización por vez primera de una emisión o transmisión | 127 |
 | Mera fotografía | Veinticinco años desde su realización | 128 |
@@ -461,9 +478,15 @@ Tres precisiones sobre la tabla:
   autores**».
 - *Autores fallecidos antes del 7 de diciembre de 1987.* Disposición transitoria cuarta: «**Los derechos
   de explotación de las obras creadas por autores fallecidos antes del 7 de diciembre de 1987 tendrán la
-  duración prevista en la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.**» El plazo de esa ley
-  no se ha leído para este tema; la regla que hay que retener es que para esos autores no rige el
-  artículo 26.
+  duración prevista en la Ley de 10 de enero de 1879 sobre Propiedad Intelectual.**» Esa ley (Gaceta de
+  Madrid núm. 12, de 12 de enero de 1879), artículo 6: la propiedad intelectual «**corresponde á los
+  autores durante su vida, y se trasmite á sus herederos testamentarios ó legatarios por el término de
+  ochenta años.**» Si el autor la transmitió por actos entre vivos, corresponde a los adquirentes
+  «**durante la vida del autor y ochenta años despues del fallecimiento de este si no deja herederos
+  forzosos. Mas si los hubiere, el derecho de los adquirentes terminará veinticinco años despues de la
+  muerte del autor, y pasará la propiedad á los referidos herederos forzosos por tiempo de cincuenta y
+  cinco años.**» Para esos autores, por tanto, no rigen los setenta años del artículo 26, sino, como
+  regla, vida y ochenta años. (Ortografía de la Gaceta de 1879.)
 
 ### La obra hecha en la casa
 
@@ -1377,7 +1400,8 @@ de cualquier pieza montada; las últimas, las propias del realizador como autor.
 
 | Norma | Qué se usa |
 |---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 27, 28.1, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 94, 105, 107, 108, 110, 112, 113.1, 113.2, 114 a 116, 119, 120 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167; disposición transitoria cuarta |
+| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 8, 9.1, 10, 14, 15.1, 17 a 21, 26, 27, 28, 30, 31.1, 32.1, 33, 35, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 94, 105, 107, 108, 110, 112, 113.1, 113.2, 114 a 116, 119, 120 a 122, 124 a 128, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167; disposición transitoria cuarta |
+| Ley de 10 de enero de 1879 sobre Propiedad Intelectual (derogada; aplicable por la disposición transitoria cuarta del texto refundido) | Artículo 6 |
 | Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto | Artículos 66.6, 70 y 73; rúbricas del título II y de los artículos 67 a 69 |
 | Resolución de 5 de abril de 1999, de la Secretaría de Estado de Cultura (autorización de DAMA) | Objeto de la autorización |
 | Resolución de 8 de septiembre de 2020, de la Dirección General de Industrias Culturales, Propiedad Intelectual y Cooperación (autorización de SEDA) | Fecha de la autorización y objeto estatutario |
@@ -1409,8 +1433,6 @@ de cualquier pieza montada; las últimas, las propias del realizador como autor.
   rellena: no constan publicados.
 - Si una promoción de la propia cadena es obra audiovisual «de carácter publicitario» a efectos del
   artículo 90.6: la ley no lo define y no se ha localizado fuente que lo resuelva.
-- El plazo de la Ley de 10 de enero de 1879 al que remite la disposición transitoria cuarta: no se ha
-  leído para este tema.
 - El Plan de Gestión de Archivos Audiovisuales y los protocolos de acceso y cesión que prevén la Ley
   10/2018, la Carta y el Contrato-programa: no constan publicados.
 - El Estatuto profesional vigente de la RTVA: no está publicado; el de 2006 se cita sólo como texto no
@@ -1434,6 +1456,8 @@ de cualquier pieza montada; las últimas, las propias del realizador como autor.
 | Fuente | Identificador | Leída |
 |---|---|---|
 | Texto refundido de la Ley de Propiedad Intelectual, artículos 26, 27, 89, 90, 91 y 94 y disposición transitoria cuarta | BOE-A-1996-8930 (art. 90: dos redacciones, la vigente desde 28-07-2006, BOE-A-2006-12308; los demás, redacción original, vigente desde 23-04-1996) | 29-09-2026 |
+| Texto refundido de la Ley de Propiedad Intelectual, artículos 8, 28.2 y 87 (remate) | BOE-A-1996-8930 (art. 8, redacción original; art. 28, redacción de la Ley 21/2014, BOE-A-2014-11404, vigente desde 01-01-2015, con el apartado 2 igual al original) | 29-09-2026 |
+| Ley de 10 de enero de 1879 sobre Propiedad Intelectual, artículo 6 | Gaceta de Madrid núm. 12, de 12-01-1879, pp. 107-108 (boe.es, colección histórica) | 29-09-2026 |
 | Resolución de 5-04-1999 (autorización de DAMA) | BOE-A-1999-8150, BOE núm. 85, de 09-04-1999 | 29-09-2026 |
 | X Convenio Colectivo de la RTVA, anexo III, puestos 5351000 y 5353000 | BOJA núm. 240, de 10-12-2014, pp. 196 y 111 | 29-09-2026 |
 | Estatuto profesional de la RTVA, texto de 2006 (no vigente), apartados 2.1 y 7 | Documento publicado por el sindicato CGT | 29-09-2026 |

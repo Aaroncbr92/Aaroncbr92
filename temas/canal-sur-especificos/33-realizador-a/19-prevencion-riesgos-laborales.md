@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 19 |
 | Sirve para | Realizador/a de Canal Sur (puesto 2.33, grupo B02): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 286/2006, ruido; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, ficha del puesto 5351000); Carta del Servicio Público de la RTVA 2024-2029; documentación técnica del INSST; Recomendación UIT-R BT.2100-3 |
+| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 286/2006, ruido; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículos 156 y 157; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, ficha del puesto 5351000); Carta del Servicio Público de la RTVA 2024-2029; documentación técnica del INSST; Recomendación UIT-R BT.2100-3 |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 |
-| Extensión | 16.934 palabras |
+| Extensión | 17.171 palabras |
 
 <!-- /portada -->
 
@@ -636,8 +636,10 @@ trabajadores nocturnos y quienes trabajen a turnos deberán gozar en todo moment
 protección en materia de salud y seguridad adaptado a la naturaleza de su trabajo, y equivalente al
 de los restantes trabajadores de la empresa**, y que **el empresario deberá garantizar que los
 trabajadores nocturnos que ocupe dispongan de una evaluación gratuita de su estado de salud, antes
-de su afectación a un trabajo nocturno y, posteriormente, a intervalos regulares**. Qué es trabajo nocturno (artículo 36.1 del mismo
-Estatuto) y el plus de nocturnidad del convenio no se dan aquí (véase «Lo que este tema no da»). Por lo demás, los
+de su afectación a un trabajo nocturno y, posteriormente, a intervalos regulares**. Qué es trabajo
+nocturno lo dice el artículo 36.1 del mismo Estatuto: **a los efectos de lo dispuesto en esta ley,
+se considera trabajo nocturno el realizado entre las diez de la noche y las seis de la mañana**. El
+plus de nocturnidad del convenio no se da aquí (véase «Lo que este tema no da»). Por lo demás, los
 dos se estudian con el deber general del artículo 14.2 de la Ley 31/1995 y con las Notas Técnicas
 de Prevención del INSST, que advierten
 que **las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén
@@ -1084,6 +1086,14 @@ ocasión o por consecuencia del trabajo que ejecute por cuenta ajena.**
 | **f)** | **Las enfermedades o defectos, padecidos con anterioridad por el trabajador, que se agraven como consecuencia de la lesión constitutiva del accidente.** |
 | **g)** | **Las consecuencias del accidente que resulten modificadas en su naturaleza, duración, gravedad o terminación, por enfermedades intercurrentes, que constituyan complicaciones derivadas del proceso patológico determinado por el accidente mismo o tengan su origen en afecciones adquiridas en el nuevo medio en que se haya situado el paciente para su curación.** |
 
+El «artículo siguiente» al que remite la letra e) es el 157 de la LGSS, que define la enfermedad
+profesional: **se entenderá por enfermedad profesional la contraída a consecuencia del trabajo
+ejecutado por cuenta ajena en las actividades que se especifiquen en el cuadro que se apruebe por
+las disposiciones de aplicación y desarrollo de esta ley, y que esté provocada por la acción de los
+elementos o sustancias que en dicho cuadro se indiquen para cada enfermedad profesional**. La
+enfermedad contraída por el trabajo que no es enfermedad profesional puede ser accidente de trabajo
+por la letra e), con su condición: que se pruebe que el trabajo fue su causa exclusiva.
+
 La letra a) es la base legal del accidente in itinere, y no dice más: **al ir o al volver del
 lugar de trabajo**. Sus requisitos los ha precisado la jurisprudencia.
 
@@ -1292,6 +1302,10 @@ previamente al uso de los equipos, de los riesgos contra los que les protegen, a
 actividades u ocasiones en las que deben utilizarse**, y **proporcionarles instrucciones,
 preferentemente por escrito, sobre la forma correcta de utilizarlos y mantenerlos**.
 
+**Consulta y participación (artículo 9).** **La consulta y participación de los trabajadores o sus
+representantes sobre las cuestiones a que se refiere este Real Decreto se realizarán de conformidad
+con lo dispuesto en el apartado 2 del artículo 18 de la Ley de Prevención de Riesgos Laborales.**
+
 **Obligaciones del trabajador (artículo 10)**, **con arreglo a su formación y siguiendo las
 instrucciones del empresario**:
 
@@ -1365,9 +1379,9 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Real Decreto 488/1997, de 14 de abril, pantallas de visualización | Arts. 1 a 6 y anexo |
 | Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Arts. 7 y 8; anexo III (3.a y 3.b) y anexo IV (niveles mínimos de iluminación); disposición adicional única (trabajo al aire libre) |
 | Real Decreto 286/2006, de 10 de marzo, ruido | Arts. 3.1 y 5 (con las remisiones de su cuadro a los arts. 4, 6, 7, 8, 9 y 11); disposición adicional segunda |
-| Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 8 y 10; anexos I y III |
-| Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Art. 156 |
-| Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.4 (trabajo nocturno y a turnos) |
+| Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 10; anexos I y III |
+| Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Arts. 156 y 157 |
+| Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.1, primer inciso (qué es trabajo nocturno), y 36.4 (protección del trabajo nocturno y a turnos) |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-XII-2014) | Arts. 25 a 31; anexo III, ficha del puesto de realizador (5351000) |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) | Art. 32.2 |
 
@@ -1393,8 +1407,8 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 - **La relación de EPI y prendas que el Comité de Salud Laboral asigna al puesto** (artículo 30
   del X Convenio): no publicada.
 - **Estrés y trabajo a turnos**: se dan en el epígrafe 2 con las NTP del INSST, que no son norma.
-  No se da la NTP 926 (que actualiza la NTP 443), ni qué es trabajo nocturno (artículo 36.1 del
-  Estatuto de los Trabajadores) y el plus de nocturnidad, ni la ordenación de la jornada y los
+  No se da la NTP 926 (que actualiza la NTP 443), ni el resto del artículo 36.1 del Estatuto de los
+  Trabajadores (aviso a la autoridad laboral, jornada y concepto de trabajador nocturno), ni el plus de nocturnidad, ni la ordenación de la jornada y los
   turnos en la RTVA, que es materia del convenio (temario común).
 - **El acoso laboral y el síndrome de estar quemado por el trabajo**: no se han leído fuentes sobre
   ellos para este tema; no se dan.
@@ -1412,7 +1426,9 @@ INSST) y las del control y la sala de edición (Guía Técnica en la parte de la
 Recomendación UIT-R BT.2100-3), el **25-09-2026**. La ficha del puesto 5351000 del anexo III del X
 Convenio, releída para este tema el **29-09-2026**; en la verificación se releyeron también el
 artículo 24 de la Ley 31/1995, el artículo 10 del RD 773/1997, la disposición adicional única del RD
-486/1997 y la disposición adicional segunda del RD 286/2006 (**29-09-2026**).
+486/1997 y la disposición adicional segunda del RD 286/2006 (**29-09-2026**). En el remate se
+leyeron el artículo 9 del RD 773/1997, el artículo 36.1 del Estatuto de los Trabajadores y el
+artículo 157 de la LGSS (**29-09-2026**).
 
 | Fuente | Identificador o edición | Redacción |
 | --- | --- | --- |
@@ -1422,7 +1438,7 @@ artículo 24 de la Ley 31/1995, el artículo 10 del RD 773/1997, la disposición
 | RD 486/1997, lugares de trabajo, arts. 7 y 8, anexos III y IV y disposición adicional única | BOE-A-1997-8669 | Anexo III y disposición adicional única: redacción de BOE-A-2023-11187, vigente desde 13-05-2023; arts. 7 y 8 y anexo IV, 1997 |
 | RD 286/2006, ruido | BOE-A-2006-4414 | 1 redacción en todos sus bloques, vigente desde 31-03-2006 |
 | RD 773/1997, equipos de protección individual | BOE-A-1997-12735 | Arts. 2 y 6, DF 2.ª y anexos: redacción de BOE-A-2021-20261, vigente desde 09-12-2021; resto, 1997 |
-| RDLeg 8/2015, texto refundido de la LGSS, art. 156 | BOE-A-2015-11724 | 1 redacción, vigente desde 02-01-2016 |
+| RDLeg 8/2015, texto refundido de la LGSS, arts. 156 y 157 | BOE-A-2015-11724 | 1 redacción, vigente desde 02-01-2016 |
 | RDLeg 2/2015, texto refundido de la Ley del Estatuto de los Trabajadores, art. 36 | BOE-A-2015-11430 | 1 redacción, vigente desde 13-11-2015 |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales, arts. 25 a 31 y anexo III (ficha 5351000, pág. 196) | BOJA núm. 240, de 10-12-2014 | Texto publicado |
 | Carta del Servicio Público de la RTVA 2024-2029 | BOJA núm. 247, de 28-12-2023 | Texto publicado |

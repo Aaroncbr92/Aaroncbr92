@@ -8,7 +8,7 @@
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule la cámara ni su uso. Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0903, 0904, 0905 y 0910): norma de enseñanza, no norma del oficio; X Convenio Colectivo de la RTVA (anexo III, fichas de puesto); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004); recomendaciones técnicas EBU R 118 v2, EBU Tech 3335, EBU Tech 3355 y EBU R 95 v1.1, y Recomendación UIT-R BT.709-6; documentación de fabricante (Sony, Canon, Fujifilm). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Convenio de 2014 (vigencia, en el tema común del convenio) y Libro de Estilo de 2004. Las recomendaciones EBU y UIT, en la edición vigente el 24-09-2026, en el texto ya cerrado del temario de Cámara Operador. Fechas de lectura, en «Trazabilidad» |
-| Extensión | 17.700 palabras aproximadamente |
+| Extensión | 18.500 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -22,7 +22,7 @@ remoto (RCP, *remote control panel*); dispositivo de acoplamiento de carga (CCD)
 complementario de óxido metálico (CMOS), los dos tipos de sensor; filtro óptico de paso bajo
 (OLPF, *optical low-pass filter*); densidad neutra (ND, *neutral density*); diodo emisor de luz
 (LED); cámara robotizada de panorámica, inclinación y zoom (PTZ, *pan-tilt-zoom*); protocolo
-de internet (IP); interfaz digital serie (SDI); pantalla de cristal líquido (LCD); balance de blancos
+de internet (IP); plano de punto de vista (POV, *point of view*); interfaz digital serie (SDI); pantalla de cristal líquido (LCD); balance de blancos
 automático continuo (ATW, *auto tracing white*); decibelio (dB); kelvin (K), unidad de la temperatura de color; alta
 definición (HD) y ultra alta definición (UHD); rango dinámico estándar (SDR, *Standard
 Dynamic Range*) y alto rango dinámico (HDR, *High Dynamic Range*); índice de consistencia de la
@@ -48,7 +48,7 @@ zum, el objetivo de focal variable.
 Qué se puede preguntar: qué decide el realizador sobre la cámara y qué el cámara y el control de
 imagen, según el convenio y el Libro de Estilo; qué pide el título de Técnico Superior en Realización
 sobre emplazamiento, altura, objetivo y soporte; qué familias de cámara hay y qué nivel de la EBU
-conviene a cada programa; en qué se diferencian un CCD y un CMOS y qué defecto da cada uno; cuáles son
+conviene a cada programa; qué exige una cámara de alta velocidad y qué son las cámaras especiales; en qué se diferencian un CCD y un CMOS y qué defecto da cada uno; cuáles son
 los cuatro mandos de la exposición y en qué orden se usan; a cuántos pasos equivalen 6 dB; qué pasa si
 se balancea sobre una superficie azul; cómo se clasifican los objetivos por focal y por ángulo; cómo
 se lee «22x4.8»; qué objetivo va en la cámara máster de un partido y cuál en las cámaras cerradas; qué
@@ -73,6 +73,7 @@ una entrevista, un plató o una retransmisión, y justificar la elección.
   - [Quién ajusta qué](#quién-ajusta-qué)
   - [La cámara de estudio: cabeza, CCU y RCP](#la-cámara-de-estudio-cabeza-ccu-y-rcp)
   - [La clasificación de la EBU por niveles de calidad](#la-clasificación-de-la-ebu-por-niveles-de-calidad)
+  - [Las cámaras de alta velocidad y las especiales](#las-cámaras-de-alta-velocidad-y-las-especiales)
   - [CCD y CMOS](#ccd-y-cmos)
   - [El obturador de persiana](#el-obturador-de-persiana)
   - [Un sensor con máscara de Bayer o tres sensores con prisma](#un-sensor-con-máscara-de-bayer-o-tres-sensores-con-prisma)
@@ -297,6 +298,53 @@ Los criterios de clasificación son el códec y cinco áreas de imagen: «**Nois
 Exposure Range · Spatial Resolution · Spatial Alias artefacts**»; «**Apart from spatial aliasing,
 each factor can be measured using the procedures of EBU Tech 3335.**» El códec «**does not apply to
 system cameras unless on-board recording in used**» (así en el original).
+
+### Las cámaras de alta velocidad y las especiales
+
+En una retransmisión, además de las cámaras que cuentan el acontecimiento, el realizador planifica
+otras que están para la repetición o para un punto de vista que una cámara con operador no alcanza
+(oficio). La EBU las agrupa en el nivel especial: «**Tier SP cameras are specialist or special
+effects cameras including very high frame rate camera, minicams, macro cameras etc. that do not meet
+some of the minimum requirements for a given Tier.**» De su uso dice: «**Tier SP cameras will have
+restrictions on the amount used in a programmes but this content does not usually count against any
+percentage of lower resolution material in the programme.**» («a programmes», así en el original;
+EBU R 118 v2, § 2.6). Es decir: las cámaras de muy alta velocidad, las minicámaras y las de macro se
+admiten con aprobación de la emisora y en cantidad limitada, pero lo que graban no suele computar en
+el porcentaje de material de menor resolución del programa (un cupo como el límite del nivel 3 del
+epígrafe anterior). Las minicámaras son las que dan el
+plano de punto de vista (POV) desde sitios donde no cabe una cámara con operador (oficio).
+
+La cámara lenta de verdad sale de grabar más cuadros por segundo de los que se emiten: «**If you are
+looking to create an interesting effect, for example slow motion, then you can set the sensor frame
+rate to a higher setting. The higher the sensor frame rate compared to the project frame rate, the
+slower the playback speed.**» (Blackmagic, URSA Broadcast G2). Con emisión a 25 cuadros, captar a 100
+da un cuarto de la velocidad real (cálculo; la cuenta de cadencias, en el tema 14). Como ejemplo de lo
+que ofrece una cámara, la Sony PXW-FS5 da en su supercámara lenta, con el sistema de 50i, «**100 fps,
+200 fps, 400 fps, 800 fps**». La diferencia con ralentizar en montaje es que la alta cadencia tiene
+los cuadros grabados, y la ralentización los repite o los inventa (oficio).
+
+Lo que la alta cadencia exige al planificarla:
+
+- Luz. Cada vez que se dobla la cadencia llega la mitad de luz por cuadro (Blackmagic, citado en «La
+  obturación: velocidad, ángulo y parpadeo»): con el mismo ángulo de obturación, de 25 a 100 cuadros
+  cuesta dos pasos y de 25 a 200, tres (cálculo). La cámara lenta pide más luz en el recinto o más
+  diafragma, que resta profundidad de campo.
+- Parpadeo. A alta cadencia hay que vigilar el de la luz artificial, que puede no verse en el visor;
+  la URSA Broadcast G2 calcula obturaciones sin parpadeo, con una salvedad: «**the characteristics of
+  individual light sources may still cause flicker even when using flicker free values**». Por eso,
+  prueba previa con las luces del lugar, como pide Blackmagic en el pasaje citado en «La obturación:
+  velocidad, ángulo y parpadeo».
+- Sonido. En la FS5 la cámara lenta llega muda: «**Movies recorded with Slow & Quick Motion or Super
+  Slow Motion do not have sound.**» (Sony, PXW-FS5). Cuando es así, el sonido de la repetición lo pone
+  el control, no la cámara (oficio).
+
+El Libro de Estilo da a la ralentización un uso en las retransmisiones deportivas: sostener el
+juicio del narrador con ecuanimidad. Del narrador se espera **«el máximo acercamiento a la
+objetividad»**, y **«En caso de que se vea obligado a emitir un juicio de valor, hay que formularlo
+con las ventajas técnicas del medio (repeticiones, tomas diferentes, ralentizaciones...) para extraer
+de ellas la ecuanimidad en los análisis.»** (8.4.1, p. 120). Y como
+pauta general de las retransmisiones: **«manda la imagen y la palabra debe adecuarse a ella.»** (8.4,
+p. 119).
 
 ### CCD y CMOS
 
@@ -1329,9 +1377,9 @@ difracción») y conseguir poca profundidad de campo con exposición correcta. E
 Un filtro ND no cambia por sí mismo la profundidad de campo: lo que hace es permitir un diafragma
 más abierto, y es el diafragma el que la cambia.
 
+Las cámaras de estudio y de reportaje llevan los neutros dentro, en una rueda de filtros con
 posiciones escalonadas, precisamente porque su uso es constante: el filtro neutro es la manera de
 controlar la exposición sin renunciar al diafragma que se quiere.
-
 
 ### Los filtros de conversión y la corrección electrónica
 
@@ -1426,11 +1474,8 @@ declara en su ficha un «**Optical-shift image stabilizer + digital compensation
 IS, Powered IS)**»: un estabilizador óptico de desplazamiento de lentes con compensación digital, en
 tres modos. Qué hace exactamente cada modo lo explica el manual de cada cámara; lo general es que la
 compensación digital trabaja recortando la imagen, y por eso puede cambiar el encuadre efectivo
-(oficio).
-
-Un criterio de oficio: el estabilizador interno se apaga con la cámara en trípode, porque puede
-intentar corregir movimientos que no existen o que son intencionados, como el arranque de una
-panorámica.
+(oficio). En trípode, además de la distorsión que advierte Sony, el estabilizador puede intentar
+corregir movimientos intencionados, como el arranque de una panorámica (oficio).
 
 ### La estabilización y el criterio de la casa
 
@@ -1614,6 +1659,7 @@ Tres casos resueltos con lo que el tema da. Las decisiones son de oficio salvo d
 | Cámaras cercanas | Angulares de poco recorrido en portería y raíl |
 | Eje | Todas las cámaras principales del mismo lado de la línea de juego (tema 1, «El eje en multicámara») |
 | Calidad | Cámaras del mismo nivel; el material de nivel 3 suele limitarse a «**around 33%**» de un programa HD, y las cámaras especiales (Tier SP) necesitan aprobación de la emisora (EBU R 118 v2) |
+| Repetición | Cámara de alta velocidad para la cámara lenta: más luz o más diafragma, prueba de parpadeo con la luz del estadio y sonido desde el control si la cámara la graba muda, como la FS5; la repetición sirve al juicio ecuánime del narrador (LE 8.4.1). Minicámaras para el punto de vista: Tier SP, con aprobación de la emisora (EBU R 118 v2, § 2.6) |
 | Continuidad | Igualación desde las CCU; en directo no hay etalonaje que corrija después (EBU Tech 3355) |
 
 ## Normativa que el tema invoca
@@ -1646,7 +1692,7 @@ Tres casos resueltos con lo que el tema da. Las decisiones son de oficio salvo d
   la alta definición.
 - *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004:
   apartados 3.17.1, 3.17.1.1, 3.17.1.2 y 3.17.1.5 (entrevista), 5.1, 5.2, 5.3.1 y 5.3.2 (captación),
-  6.3.4 y 6.4 (armonía y *raccord*), 8.6 y 8.6.1 (presentadores y vestuario) y 9.2.12.4 (sucesos). Es
+  6.3.4 y 6.4 (armonía y *raccord*), 8.4 y 8.4.1 (retransmisiones), 8.6 y 8.6.1 (presentadores y vestuario) y 9.2.12.4 (sucesos). Es
   el criterio publicado de la casa; no es una norma jurídica.
 - Documentación de fabricante, como ejemplo de lo que dan las cámaras y los objetivos del mercado, no
   del parque de CSRTV: Sony, *PXW-Z200/HXR-NX800 Help Guide*, *PXW-FS5/FS5K Operating Guide* y
@@ -1691,6 +1737,10 @@ Fecha de trabajo: 24-09-2026. Las fuentes que el tema cita fuera de lo copiado s
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III: fichas 5351000 Realizador (p. 196) y 5341310 Cámara Operador (p. 116) | Quién decide la imagen y quién la capta; control de calidad del programa | 29-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.17.1 (p. 59), 3.17.1.1 (p. 59), 3.17.1.2 (p. 59), 3.17.1.5 (p. 61), 5.1 (p. 79), 5.2 (p. 80), 5.3.1 (p. 80), 5.3.2 (p. 81), 8.6 (p. 121), 8.6.1 (p. 122), 9.2.12.4 (p. 130) | Plano que determina el realizador; criterio del cámara sin realizador; tamaños de plano; realidad frente a ficción; innovaciones con intención previa; moderación de movimientos y zum; vestuario ante la cámara; cámara en mano en sucesos | 29-09-2026 |
 | Temas cerrados del temario de Cámara Operador (1, 2, 4, 9 y 15) y de Productor/a (9), copiados literal | Todo lo que en ellos se cita: recomendaciones EBU y UIT, documentación de Sony, Canon, Blackmagic, Fujifilm, Tiffen, y Libro de Estilo 3.17.1, 3.17.1.2, 3.17.1.5, 5.2, 5.3.2, 6.3.4, 6.4 y 9.2.12.4 | 24-09-2026, en esos temas |
+| EBU R 118 v2, § 2.6 (Tier SP) | Cámaras de muy alta velocidad, minicámaras y de macro; uso limitado; normalmente fuera del porcentaje de material de menor resolución | 29-09-2026 |
+| Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*, noviembre de 2021, «Shooting at High Frame Rates» y cadencia de sensor | Cámara lenta por cadencia de sensor; parpadeo pese a las obturaciones sin parpadeo | 29-09-2026 |
+| Sony, *PXW-FS5/FS5K Operating Guide*, 4-581-849-11(1): supercámara lenta | Cadencias con el sistema de 50i; la cámara lenta sin sonido | 29-09-2026 |
+| *Libro de Estilo*, 8.4 (p. 119) y 8.4.1 (p. 120) | Manda la imagen en las retransmisiones; repeticiones y ralentizaciones al servicio de la ecuanimidad | 29-09-2026 |
 | Notas de producto de Fujifilm sobre los FUJINON UA22x4.8BERD y UA94x8.7BESM | Extremos focales del zum portátil (4,8-106 mm) y del de caja (8,7-818 mm), destino de cada uno y escalonado de la gama por recinto | 03-09-2026, según el texto de origen |
 
 Oficio sin norma detrás, y así se declara: las familias de cámara y el reparto de ajustes con el
@@ -1701,5 +1751,5 @@ campo, círculo de confusión e hiperfocal; los tramos de ángulo de visión, qu
 lectura de la referencia de un objetivo; el signo Φ; el ajuste de tiraje; la tabla de soportes, las
 cabezas, el pedestal, la grúa, el *slider*, la cabeza caliente y la PTZ; la tabla de objetivos por
 posición y las reglas de lectura de la planta; el muaré de las pantallas LED; el uso de los filtros;
-las cinco familias de estabilización; la continuidad técnica con una y con varias cámaras; y los tres
+las cinco familias de estabilización; las minicámaras como plano de punto de vista, la diferencia entre alta cadencia y ralentización en montaje y el sonido de la repetición; la continuidad técnica con una y con varias cámaras; y los tres
 casos de la aplicación práctica.

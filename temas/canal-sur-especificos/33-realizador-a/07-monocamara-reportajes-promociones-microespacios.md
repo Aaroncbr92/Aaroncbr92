@@ -12,7 +12,8 @@
 
 <!-- /portada -->
 
-Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Ley 13/2022, de 7 de julio,
+Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Boletín Oficial del
+Estado (BOE); Boletín Oficial de la Junta de Andalucía (BOJA); Ley 13/2022, de 7 de julio,
 General de Comunicación Audiovisual (LGCA); Instituto Nacional de las Cualificaciones (INCUAL); real
 decreto (RD); Universidad Miguel Hernández de Elche (UMH); captación electrónica de noticias (ENG, del
 inglés *electronic news gathering*), el equipo ligero de una cámara con que se graban noticias y
@@ -39,7 +40,9 @@ Qué se puede preguntar: en qué se diferencia realizar con una cámara de reali
 se decide el plano, quién corta, cómo se ilumina, dónde está la continuidad); qué es un plano máster
 y un plano de cobertura; qué hace el realizador en una grabación monocámara según el título de
 Técnico Superior en Realización; cómo graba Canal Sur una entrevista con una sola cámara, qué plano,
-qué fondo, dónde se pone el periodista y qué recursos hay que captar; qué pide el Libro de Estilo si
+qué fondo, dónde se pone el periodista, si el entrevistado puede sujetar el micrófono, repetir una
+respuesta o revisar la grabación, y qué recursos hay que captar; qué pide la cualificación para grabar
+con equipo ENG; qué pide el Libro de Estilo si
 hay dos cámaras ENG; qué es un reportaje, cuánto dura en un informativo diario, cómo se estructura y
 cuánto margen tiene el autor; qué es un falso directo y qué dice de él el Libro de Estilo; quién
 realiza las promociones y los microespacios en la RTVA; qué es una autopromoción según la LGCA, qué
@@ -136,6 +139,14 @@ piezas postproducidas. La definición es de oficio; la norma de enseñanza la no
 - Y el equipo con que se graba: MF0216_3, contenidos (p. 16), **«La producción ENG»**: **«Equipo
   humano de producciones ENG.»** y **«Equipamiento necesario para la cámara ENG: trípodes,
   iluminación, sonido y sus accesorios.»**
+- Y lo que se pide saber hacer con ese equipo: MF0216_3, C6 (p. 14), **«Realizar la captación y
+  registro de imágenes y sonido con equipo ENG.»**, con tres criterios: **«CE6.1 Describir las
+  características de la grabación con equipos ligeros o ENG.»**; **«CE6.2 En una simulación práctica
+  de una producción informativa ENG (entrevista, noticia, reportaje, documental) planificar la toma de
+  imagen y sonido según los objetivos de la cobertura informativa identificando las localizaciones que
+  mejor se adapten al programa, la planificación de las tomas, el equipamiento técnico necesario y sus
+  accesorios.»**; y **«CE6.3 Efectuar la grabación de una producción informativa ENG (entrevista,
+  noticia, reportaje, documental) ajustándose a los parámetros técnicos de calidad establecidos.»**
 
 ### Una cámara y multicámara
 
@@ -233,7 +244,10 @@ El fondo (3.17.1.2, pp. 59-60): **«Por sentido estético eludiremos los fondos 
 (escribanías, banderas, fotos oficiales, mesas, pantallas de ordenador...) y descartaremos aquellos
 que tengan carácter publicitario o comercial, o que contravengan las normas deontológicas. El fondo
 tenderá a la neutralidad cuando sea superfluo y, si es necesario en estos casos, se dejará fuera de
-foco.»** Y: **«Como norma general, el personaje aparecerá levemente a la izquierda del encuadre.»**
+foco.»** Y, sobre varios testimonios de una misma persona y la posición del personaje: **«Si en un reportaje se prevén
+varios testimonios de la misma persona, dentro de un criterio uniforme, alguno debe de ser diferente
+al resto si lo permite el contenido. Como norma general, el personaje aparecerá levemente a la
+izquierda del encuadre.»**
 
 La mirada (3.17.1.3, p. 60): **«El entrevistado nunca puede mirar directamente a la cámara, salvo en
 circunstancias excepcionales que deben ser autorizadas por la Dirección de los Servicios
@@ -241,7 +255,10 @@ Informativos, o en los casos establecidos: el Rey o el presidente de la Junta de
 discursos institucionales.»** Para acercar al personaje, **«El periodista se ubicará frente a él, al
 lado de la cámara —con los ojos a la altura del objetivo, o sólo unos centímetros por debajo, y a la
 derecha de la misma— para que el personaje lo mire directamente, casi como si lo hiciera a los ojos
-del espectador.»**
+del espectador.»** Y lo que la norma evita: **«El seguimiento escrupuloso de esta norma impedirá la
+aparición de declaraciones con perspectiva lateral o en escorzo. Para evitarlo, el periodista no se
+colocará al lado del personaje, a quien no permitiremos que sujete el micrófono de mano y a quien, bajo
+ningún concepto, se lo cederemos para que aparezca asiéndolo en pantalla como única referencia.»**
 
 Los recursos (3.17.1.4, p. 60): **«La entrevista, como sucede con la rueda de prensa, apenas aporta
 elementos para elaborar un vídeo aceptable. Esta carencia debe ser prevista y suplida mediante
@@ -249,7 +266,10 @@ grabaciones específicas anteriores o posteriores, recopilación de archivo y, e
 la captación de recursos en el momento de la grabación: cambios de plano, movimientos de cámara,
 imagen de manos u objetos personales del entrevistado, primerísimos planos, imagen de escucha del
 entrevistador, etc.»** Y la duración de la respuesta útil: **«sólo cuando sea preciso, repetiremos la pregunta hasta lograr una
-frase cerrada, breve y completa, de entre diez y quince segundos.»**
+frase cerrada, breve y completa, de entre diez y quince segundos.»** Y la
+revisión por el entrevistado: **«Permitiremos, dentro de la normalidad, que el entrevistado repita una
+respuesta para hacerla más precisa pero no accederemos, en circunstancias cotidianas, a que revise la
+grabación.»**
 
 La entrevista pensada para emitirse entera (3.17.1.5, pp. 61-62) es donde el Libro habla del
 realizador y de la cámara única:
@@ -907,7 +927,7 @@ Cuatro supuestos del tipo que puede plantear la prueba práctica, resueltos con 
 1. Entrevista para un reportaje, con una cámara, en el laboratorio de una investigadora. Se graba en
    su laboratorio (**«al investigador en su laboratorio»**, 3.17.1.1), con trípode y micrófono de
    corbata; plano medio o primer plano por ser interior; ella levemente a la izquierda del encuadre;
-   el periodista junto a la cámara, a la derecha de ella y con los ojos a la altura del objetivo; fondo sin
+   el periodista junto a la cámara, a la derecha de la cámara y con los ojos a la altura del objetivo; fondo sin
    pantallas de ordenador ni marcas comerciales, desenfocado si no aporta. Si se van a montar varias
    respuestas, se varía el plano al menos una vez. Terminada la entrevista, segundo recorrido:
    preguntas con plano idéntico, escuchas de los dos y recursos (manos, objetos, instrumental,
@@ -963,9 +983,9 @@ Cuatro supuestos del tipo que puede plantear la prueba práctica, resueltos con 
 |---|---|---|
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original (no hay texto consolidado): anexo I, módulo 0903 (RA 1.b, 1.d, 4.b a 4.g, 5.a a 5.c, 5.e; contenidos), módulo 0904 (RA 5, 5.c, 5.e; contenidos) | Monocámara con una o varias cámaras, técnicas de grabación, dirección de la grabación, informe del día, valoración de tomas, minutado, guion de montaje; autopromoción en la continuidad | 24-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685, art. séptimo.Uno y anexo XLI | Que los módulos citados no se modifican (sólo se suprimen e incluyen módulos transversales y se añade el anexo III de profesorado) | 24-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0218_3 (RP1, CR1.1, CR1.6; RP2, CR2.1 a CR2.4; RP3, CR3.1 a CR3.4); MF0216_3 (contenidos, pp. 15-17); MF0217_3 (C1, CE1.1, p. 18); MF0218_3 (C2, CE2.5, CE2.7; C6, CE6.3). Páginas, «Página N de 25» del PDF | Monocámara, ENG, tipología de programas, autopromociones, minutado, parte de postproducción, trabajo en sala, máster, parte de emisión, visionado y entrega | 24-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0218_3 (RP1, CR1.1, CR1.6; RP2, CR2.1 a CR2.4; RP3, CR3.1 a CR3.4); MF0216_3 (C6, CE6.1 a CE6.3, p. 14; contenidos, pp. 15-17); MF0217_3 (C1, CE1.1, p. 18); MF0218_3 (C2, CE2.5, CE2.7; C6, CE6.3). Páginas, «Página N de 25» del PDF | Monocámara, ENG (grabación y planificación de la toma), tipología de programas, autopromociones, minutado, parte de postproducción, trabajo en sala, máster, parte de emisión, visionado y entrega | 24-09-2026; MF0216_3, C6, releída el 29-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10-12-2014, anexo III: fichas 5351000 Realizador (p. 196), 5353000 Ayudante de Realización (p. 111), 5345100 Grafista (p. 129), 5333301 Guionista (p. 131), y el anexo III entero para saber qué fichas nombran microespacios y promoción; y, en el texto copiado, 5212204, 5212206 y 5354000 | Quién realiza reportajes, microespacios y promociones; quién dirige y coordina el montaje | 24-09-2026 (las fichas 5351000, 5353000, 5345100 y 5333301); el resto, en el texto ya cerrado del tema 6 de Operador/a Montador/a de Vídeo (25-09-2026) |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.4 (pp. 47-48), 3.5 y 3.5.1 (pp. 49-50), 3.17.1 a 3.17.1.5 (pp. 59-62), 3.17.2 (p. 62), 8.3.3 (p. 118); y, en el texto copiado, 3.2.2, 3.10, 9.2.12.4, 9.10 y 9.10.1 | Entrevista con una cámara y con varias, reportaje, falso directo; música, cierres, material promocional | 24-09-2026 (lo propio); 25-09-2026 (lo copiado, en el tema de origen) |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.4 (pp. 47-48), 3.5 y 3.5.1 (pp. 49-50), 3.17.1 a 3.17.1.5 (pp. 59-62, releídos enteros 3.17.1.2 a 3.17.1.4 el 29-09-2026), 3.17.2 (p. 62), 8.3.3 (p. 118); y, en el texto copiado, 3.2.2, 3.10, 9.2.12.4, 9.10 y 9.10.1 | Entrevista con una cámara y con varias (también micrófono de mano, repetición de respuestas y revisión de la grabación), reportaje, falso directo; música, cierres, material promocional | 24-09-2026 (lo propio); 25-09-2026 (lo copiado, en el tema de origen) |
 | Contrato-programa RTVA 2024-2026, BOJA núm. 245, de 26-12-2023, cláusula tercera, 3.1, punto 15 (p. 40208/18) | Microespacios divulgativos | 24-09-2026 |
 | Ley 13/2022, General de Comunicación Audiovisual, BOE-A-2022-11311, texto consolidado | Arts. 127, 128, 136, 137 y 138 | 25-09-2026 (en el texto ya cerrado del tema 6 de Operador/a Montador/a de Vídeo); vigencia de su redacción comprobada el 24-09-2026 |
 | Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024 | *Spot*, tráiler, *teaser*, *sneak peek*, falso tráiler, documental y falso documental, estructura en actos. Las citas de Martínez Sáez, Chion, Guarinos y Lozano Delmar, León y Tubau se toman de Mateu | 25-09-2026 (en el texto ya cerrado del tema 6 de Operador/a Montador/a de Vídeo) |

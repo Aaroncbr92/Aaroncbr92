@@ -6,19 +6,18 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 15 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2 y artículo 156.2). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (exposición de motivos y artículos 6.7, 6.8 y 7) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Realizador. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902 y 0910). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS). Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Texto académico: H. Jenkins, «Transmedia Storytelling 101» (2007). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
+| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2, artículo 101.1.g) y artículo 156.2); Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (exposición de motivos y artículos 6.7, 6.8, 7 y 26) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Realizador. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902 y 0910). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS). Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; ficha web de la mochila LiveU LU800; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Texto académico: H. Jenkins, «Transmedia Storytelling 101» (2007). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Real Decreto 1680/2011 en su texto de 2011 (el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan); normas técnicas en las ediciones citadas; páginas de ayuda de YouTube tal como estaban el día en que se leyeron (25-09-2026 y 29-09-2026: son páginas vivas y cambian) |
-| Extensión | 17.500 palabras aproximadamente |
+| Extensión | 18.300 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Corporación
 de Radio y Televisión Española (RTVE), cuyo Manual de Estilo se cita como pauta de oficio; Ley
-13/2022, de 7 de julio, General de Comunicación Audiovisual (LGCA); Unión Europea (UE); Comisión
-Nacional de los Mercados y la Competencia (CNMC); real decreto (RD), y en las citas del RD
+13/2022, de 7 de julio, General de Comunicación Audiovisual (LGCA); Unión Europea (UE); real decreto (RD), y en las citas del RD
 1680/2011, cada resultado de aprendizaje (RA) del módulo con la letra de su criterio de evaluación;
-servicio de vídeo por internet (OTT, *over the top*); vídeo a petición (VoD, *video on demand*);
+servicio de vídeo por internet (OTT, *over the top*);
 televisión digital terrestre (TDT); televisión por protocolo de internet (IPTV) y servicio de mensajes cortos (SMS), que nombra el RD 1680/2011; alta definición
 (HD) y ultra alta definición (UHD), con el 4K como nombre de uso; rango dinámico estándar (SDR) y
 alto rango dinámico (HDR); sistema de gestión de contenidos (CMS, *content management system*);
@@ -51,7 +50,7 @@ Video Services Forum (VSF), que se nombra como lo cita la fuente; modulación po
 dispositivos en red (NDI, *Network Device Interface*); descubrimiento por DNS de multidifusión
 (mDNS); interfaz digital serie (SDI, *serial digital interface*); tarjeta de abonado de telefonía
 móvil (SIM) y redes móviles de cuarta y quinta generación (4G, 5G); retorno de programa sin la propia
-fuente (N-1). Los nombres de producto (YouTube, Shorts, TikTok, Instagram, Facebook, Vimeo, DaVinci
+fuente (N-1). Los nombres de producto (YouTube, Shorts, TikTok, Instagram, Facebook, LiveU, DaVinci
 Resolve, Content ID) se escriben como los escribe su fuente.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.33, punto 15): «Producción transmedia
@@ -68,7 +67,8 @@ LGCA; cuánto hay que conservar lo publicado; qué relación de aspecto, qué co
 recomienda YouTube; qué vídeo es un Short; cómo se reencuadra de 16:9 a 9:16 y qué se pierde; cómo
 se cuenta en redes; qué es el *streaming* y en qué se diferencia de la descarga progresiva; qué es
 contribuir y qué distribuir; qué datos necesita el codificador para emitir a una plataforma; qué
-son RTMP, HLS y SRT y cuál es su estatus; qué parámetros de ingesta, qué intervalo de fotograma clave
+son RTMP, HLS y SRT y cuál es su estatus; qué es una mochila de agregación celular, por dónde se
+conecta, qué no promete y qué es la producción remota; qué parámetros de ingesta, qué intervalo de fotograma clave
 y qué opciones de latencia da YouTube para el directo; cómo funciona el directo doble horizontal y
 vertical; qué sonoridad recomienda la EBU para el *streaming*; qué es la familia SMPTE ST 2110, qué
 hace PTP, qué es ST 2022-7, NMOS y NDI; qué prevé el realizador en un directo por red.
@@ -125,6 +125,7 @@ hace PTP, qué es ST 2022-7, NMOS y NDI; qué prevé el realizador en un directo
   - [La latencia del directo en plataforma](#la-latencia-del-directo-en-plataforma)
   - [El directo en horizontal y vertical a la vez](#el-directo-en-horizontal-y-vertical-a-la-vez)
   - [SRT, un protocolo de contribución por Internet](#srt-un-protocolo-de-contribución-por-internet)
+  - [La mochila de agregación celular y la producción remota](#la-mochila-de-agregación-celular-y-la-producción-remota)
   - [Una fuente por videoconferencia](#una-fuente-por-videoconferencia)
   - [Señales IP en la instalación](#señales-ip-en-la-instalación)
   - [La familia SMPTE ST 2110](#la-familia-smpte-st-2110)
@@ -726,9 +727,10 @@ tenerlos) y, por tanto, con piezas o planos que hay que sustituir en la versión
 La versión para redes suele llevar el subtítulo abierto, incrustado, y la de la OTT y la web, cerrado
 en fichero aparte (oficio); la LGCA obliga a que las páginas web y las aplicaciones sean gradualmente
 accesibles (artículo 101.1.g), y la Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i), a
-mantener las características de accesibilidad de lo emitido cuando se ofrece en medios no sujetos a
+mantener **«la clasificación por edades y las características de accesibilidad»** de lo emitido cuando se ofrece en medios no sujetos a
 restricciones horarias. El subtitulado, la audiodescripción y la lengua de signos (con la ventana de
-signos en el vídeo para internet) son el tema 16.
+signos en el vídeo para internet) son el tema 16, como la protección de menores: la clasificación por edades
+viaja también a la versión de internet.
 
 ### Lo que decide el realizador para cada salida
 
@@ -739,10 +741,10 @@ montaje hasta su acabado) y como oficio:
 | --- | --- | --- | --- | --- |
 | Relación de aspecto | 16:9 | 16:9 | 16:9, sin barras negras | 9:16 (o 1:1, 4:5), a cuadro lleno |
 | Exploración | La de emisión (tema 14) | Progresiva, si la plataforma lo pide | Progresiva: el entrelazado se desentrelaza | Progresiva |
-| Sonoridad | −23 LUFS | −23 LUFS con metadatos; sin ellos, puede subir, provisionalmente, a entre −20 y −16 LUFS | No publicada por YouTube | No leída |
+| Sonoridad | −23 LUFS | Recomendación EBU R 128 s2: −23 LUFS con metadatos; sin ellos, puede subir, provisionalmente, a entre −20 y −16 LUFS (lo que aplica Canal Sur no consta) | No publicada por YouTube | No leída |
 | Subtítulos | Cerrados | Cerrados, en fichero aparte | Según la plataforma | Abiertos, incrustados |
 | Grafismo | El de emisión | El de emisión | El de emisión, si respeta las zonas seguras | Rehecho para el vertical (epígrafe 3) |
-| Duración | La del hueco | La del programa o de la pieza | La de la pieza | Hasta tres minutos para ser Short |
+| Duración | La del hueco | La del programa o de la pieza | La de la pieza | En YouTube, hasta tres minutos para ser Short; en las demás redes, no leído |
 
 Las cifras de las plataformas son de sus páginas de ayuda en la fecha de lectura y pueden cambiar;
 antes de realizar se comprueban (oficio).
@@ -1237,6 +1239,57 @@ de la IETF. El borrador draft-sharabayko-srt-01 declara como estado previsto **�
 (informativo) y fija su propia caducidad (**«Expires: 11 March 2022»**); en el registro de
 documentos de la IETF figura como expirado y presentado por la vía independiente. No es un RFC.
 
+### La mochila de agregación celular y la producción remota
+
+Una mochila de transmisión es un equipo portátil que envía vídeo y audio por las redes de telefonía
+móvil, sumando el caudal de varias tarjetas a la vez para conseguir el ancho de banda que una sola
+no daría (oficio). Es la vía de contribución del directo desde donde hay cobertura móvil, frente al
+radioenlace de microondas (punto a punto, con antena parabólica apuntada), el satélite o la fibra
+contratada. En zonas de cobertura permite llegar al lugar de la noticia, conectar la cámara a la
+mochila, encender el equipo y emitir en directo, sin configuraciones complejas de transmisión.
+
+Por dónde se conecta (oficio):
+
+| Vía | Cuándo se usa |
+|---|---|
+| Tarjetas de telefonía (SIM) | La habitual: varias a la vez, de operadores distintos, sumando caudal |
+| Red inalámbrica local (wifi) | Cuando hay una red disponible en el sitio: un hotel, un pabellón, una sede |
+| Cable de red | Cuando hay línea fija: es la más estable de las tres |
+
+La lógica de la máquina: la mochila no es un transmisor de radio, es un agregador de enlaces de
+datos. Reparte el flujo entre todos los caminos disponibles y lo reconstruye al otro lado; por eso
+admite las tres vías y puede usarlas a la vez. El radioenlace de microondas no es una vía de conexión
+de una mochila: es otra tecnología, con su antena y su licencia (oficio).
+
+Lo que una mochila no promete (oficio):
+
+| Lo que no puede prometer | Por qué no |
+|---|---|
+| Estabilidad total | Ninguna transmisión celular lo es. El caudal disponible depende de cuánta gente use la misma célula, y en un acontecimiento con público la red se satura precisamente donde está la noticia |
+| Ausencia de retardo | La agregación celular introduce siempre un retardo: la mochila almacena, reparte entre las tarjetas, reordena y entrega. Es su forma de funcionar, no un defecto |
+| Funcionar con poca cobertura | Es lo contrario de su condición de uso. Sin cobertura no hay caudal |
+
+Qué modelo de mochila usa CSRTV no consta en un documento publicado. Como ejemplo de lo que declara
+un fabricante, la ficha web de la LiveU LU800: **«The LU800 bonds up to 14 connections with up to
+eight 5G/4G internal dual SIM modems; supporting up to 60Mbps, based on LiveU’s award-winning,
+patented HEVC technology.»** Es decir, suma hasta catorce conexiones, con hasta ocho módems internos
+5G/4G de doble tarjeta, y comprime en HEVC. La ficha no da una cifra de retardo: sólo dice **«the
+lowest latency»**, que es reclamo comercial. Las cifras son del fabricante y no son una norma.
+
+La misma ficha ofrece la alternativa a la unidad móvil: **«Reduce costs by producing multi-camera
+live events from a centralized studio control room instead of on-site production and satellite
+trucks.»** Es la producción remota: las cámaras envían su señal al centro y la realización se hace
+desde un control fijo, sin unidad móvil en el lugar (oficio). Para quien realiza, cambia dónde está
+su control: en la producción clásica, en la unidad móvil, que produce en el sitio y envía el programa
+acabado; en la remota, en el centro, con las cámaras de fuera como fuentes que llegan por la red.
+
+Lo que el realizador prevé con una mochila (oficio): el retardo se mide en la prueba previa y se
+avisa al presentador, que espera después de dar paso; el retorno al reportero va sin su propia voz
+(N-1, tema 11); en la cámara se graba siempre, porque es la única copia si el enlace se cae; y el
+retardo de la mochila no se compensa en el mezclador, sino con la conversación. Si el programa sale
+además por una plataforma, el público de internet ve la conexión con ese retardo más la latencia de
+la propia plataforma (más arriba, «La latencia del directo en plataforma»).
+
 ### Una fuente por videoconferencia
 
 La conexión con un invitado por videollamada es hoy una fuente de contribución más, y su calidad es
@@ -1385,7 +1438,7 @@ Reunido lo anterior, como oficio salvo lo que lleva fuente:
 | Qué salidas hay (antena, Canal Sur Más, plataforma, vertical) y quién tiene las claves de emisión: lo digital lo organiza Canal Sur Media (punto 46); quién gestiona cada cuenta no consta | Vigilar el estado de la emisión en la plataforma y en el retorno (**«monitor the stream health»**) | Revisar la grabación local y lo publicado |
 | Codificador, línea con subida sobrada y, si hay, línea de reserva; prueba previa con la plataforma, con audio y movimiento (YouTube: **«Make sure to test»**) | Tener en cuenta la latencia de cada salida al coordinar la participación | Retirar o sustituir lo que no tenga derechos para internet (tema 17) |
 | Decidir la latencia y el vertical antes de empezar: el vertical no se añade con la emisión en marcha | Seguir las órdenes de realización de siempre: la señal IP no cambia el oficio de mando (tema 6) | Conservar lo emitido el plazo legal (artículo 156.2 LGCA, epígrafe 3) |
-| Fuentes de fuera por SRT o videollamada: probadas, con su retardo medido y con retorno | Grabar localmente lo que se emite | — |
+| Fuentes de fuera (mochila, SRT, videollamada): probadas, con su retardo medido y avisado al presentador, y con retorno en N-1 | Grabar localmente lo que se emite | — |
 
 Qué protocolo, qué plataformas y qué equipamiento IP usa Canal Sur no consta en un documento
 publicado.
@@ -1417,8 +1470,8 @@ verticales para redes. El recorrido (los pasos son de oficio; los datos, de los 
 5. Fuentes de fuera: la mochila por SRT, con su latencia fija medida; el invitado por videollamada,
    probado antes en su equipo y en su sitio, con auriculares y retorno sin su propia voz (epígrafe 4;
    tema 11).
-6. Sonoridad: la antena, a −23 LUFS; Canal Sur Más, a −23 LUFS con metadatos o, sin ellos, provisionalmente de −20 a
-   −16 LUFS (EBU R 128 s2); lo de YouTube, lo que se decida con Canal Sur Media, porque YouTube no
+6. Sonoridad: la antena, a −23 LUFS; Canal Sur Más, lo que recomienda la EBU R 128 s2 (−23 LUFS con metadatos o, sin ellos,
+   provisionalmente de −20 a −16 LUFS), porque lo que aplica Canal Sur no consta publicado; lo de YouTube, lo que se decida con Canal Sur Media, porque YouTube no
    publica una cifra en las páginas leídas (epígrafe 2).
 7. Durante: vigilar el estado de la emisión en la plataforma y el retorno; grabar localmente lo que
    se emite; lo que escribe el público no entra en pantalla sin moderación (epígrafes 3 y 4).
@@ -1481,6 +1534,7 @@ capítulos. Lo que corresponde a la realización (oficio, sobre los puntos de Je
 - YouTube, páginas de ayuda: 6375112, 15424877, 72431 y 1722171 (leídas el 25-09-2026, según los
   temas de los que se copia) y 2474026, 2853702 y 7444635 (leídas el 29-09-2026).
 - Blackmagic Design, *DaVinci Resolve 21 Reference Manual*.
+- LiveU, ficha web de la mochila LU800 (datos del fabricante).
 
 ## Lo que este tema no da, y dónde está
 
@@ -1512,7 +1566,7 @@ capítulos. Lo que corresponde a la realización (oficio, sobre los puntos de Je
 | Tema 14 del específico de Redactor/a de Canal Sur (cerrado): Contrato-programa, Carta arts. 6.8, 7 y 26, LGCA art. 2 | Epígrafe 1 (servicio público digital, Carta art. 7, vocabulario); epígrafe 2 (LGCA); epígrafe 3 (Carta 6.8, participación) | 24-09-2026 (según ese tema) |
 | Tema 12 del específico de Operador/a Montador/a de Vídeo (cerrado): *Digital News Report 2026*, YouTube, DaVinci Resolve 21, LGCA art. 156.2 | Epígrafes 2 y 3 | 25-09-2026 (según ese tema) |
 | Tema 9 del específico de Productor/a (cerrado): flujo web, máster por destino, redes, narrativas digitales, Mateu Torres (2024), EBU R 128 s2 | Epígrafes 1, 2 y 3 | Según ese tema |
-| Tema 13 del específico de Cámara Operador (cerrado): *streaming*, RTMP, HLS, SRT, Canal Sur Más, SMPTE ST 2110, PTP, NMOS, NDI | Epígrafes 2 y 4 | 24-09-2026 (según ese tema) |
+| Tema 13 del específico de Cámara Operador (cerrado): *streaming*, RTMP, HLS, SRT, Canal Sur Más, SMPTE ST 2110, PTP, NMOS, NDI; mochilas (qué es, vías, lo que no promete, retardo) y producción remota | Epígrafes 2 y 4 | 24-09-2026 (según ese tema) |
 | RTVE, tema 21 del específico de Realización Televisión (§§ 5 y 6) y tema 16 del específico de Realización (§§ 7 y 9) | *Storyworld*, *agency*, vídeo de 360 grados, videoconferencia (oficio) | 29-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III, ficha 5351000 (p. 196) | «De dónde sale este tema» | 29-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029, BOJA núm. 247, de 28/12/2023: exposición de motivos y artículo 6.7 | Epígrafe 1, «transmedia» en los documentos de la casa | 29-09-2026 |
@@ -1524,4 +1578,5 @@ capítulos. Lo que corresponde a la realización (oficio, sobre los puntos de Je
 | YouTube Help, «Understand live streaming latency» (answer 7444635) | Epígrafe 4, latencia | 29-09-2026 (página viva) |
 | Blackmagic Design, *DaVinci Resolve 21 Reference Manual*, cap. 182, p. 4140 (según el tema 12 del específico de Operador/a Montador/a de Vídeo) | Epígrafe 2, −14 LUFS | 25-09-2026 (según ese tema) |
 | AES TD1008 (según el tema 7 del específico de Operador/a de Sonido) | Epígrafe 2 | Según ese tema |
+| LiveU, ficha web de la LU800 (descargada el 03/09/2026) | Epígrafe 4, agregación de la mochila, latencia sin cifra, producción remota | 29-09-2026 |
 | Oficio | Vocabulario de *cross media*; realización en vertical; decisiones por salida; pautas de clips, miniatura y participación; videoconferencia; supuestos prácticos | — |

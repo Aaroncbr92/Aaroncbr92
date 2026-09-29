@@ -6,7 +6,7 @@
 | --- | --- |
 | Bloque | Temario específico de Realizador/a · punto 10 |
 | Sirve para | Realizador/a de Canal Sur (grupo B02): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma jurídica que regule la iluminación de la realización. Lo propio de la casa: X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), anexo III, fichas de puesto; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0903, 0904, 0905 y 0910). Recomendaciones técnicas: UIT-R BT.709-6 y BT.2020-2 (blanco de referencia D65; frecuencia de trama e iluminación); EBU Tech 3355 (marzo de 2017), índice TLCI. Documentación de fabricante (Sony, Blackmagic Design, Canon, Sekonic, Astera) y Adobe, en los pasajes tomados del tema cerrado de Cámara Operador. Lo demás, oficio y cálculo, declarado como tal |
+| Fuente | Sin norma jurídica que regule la iluminación de la realización. Lo propio de la casa: X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), anexo III, fichas de puesto; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0903, 0904, 0905 y 0910). Recomendaciones técnicas: UIT-R BT.709-6 y BT.2020-2 (blanco de referencia D65; frecuencia de trama e iluminación); EBU Tech 3355 (marzo de 2017), índice TLCI; UIT-R BT.2100-3 (luminancias en cd/m²). Documentación de fabricante (Sony, Blackmagic Design, Canon, Sekonic, Astera) y Adobe, en los pasajes tomados del tema cerrado de Cámara Operador; Rosco, guía de filtros de corrección Cinegel (*Filter Facts*), y Blackmagic Design, *DaVinci Resolve 21 Reference Manual*. Lo demás, oficio y cálculo, declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Convenio y Libro de Estilo en su única edición publicada. Las recomendaciones, en las ediciones vigentes el 24-09-2026. Los pasajes tomados de los temas cerrados de Cámara Operador de Canal Sur, en la redacción vigente el 24-09-2026 |
 | Extensión | 15.000 palabras aproximadamente |
 
@@ -34,7 +34,7 @@ estándar (SDR, *standard dynamic range*); la pantalla de cristal líquido (LCD,
 display*) y la interfaz digital serie (SDI, *serial digital interface*), que aparecen en una cita de
 fabricante; el kelvin (K), unidad de la temperatura de color; el mired (grado micro-recíproco,
 *micro reciprocal degree*), unidad de la desviación de color de un filtro; el lux (lx), el lumen
-(lm) y la candela (cd); el número f (f) del diafragma; el hercio (Hz). Los rótulos de menú se escriben
+(lm), la candela (cd) y el nit, nombre que se da en las pantallas a la candela por metro cuadrado; el número f (f) del diafragma; el hercio (Hz). Los rótulos de menú se escriben
 tal como los imprime el fabricante (***Tint***, ***Flicker Reduce***…): son rótulos de la máquina,
 no siglas. Los fabricantes y sus modelos se citan por su nombre comercial (Sony PXW-Z200, Blackmagic
 URSA Broadcast G2, Canon XF605, Sekonic SpectroMaster C-800, Astera Titan Tube).
@@ -103,6 +103,7 @@ cámara no casa.
   - [El balance de blancos frente a la luz](#el-balance-de-blancos-frente-a-la-luz)
   - [El mired](#el-mired)
   - [Los filtros de conversión: CTO y CTB](#los-filtros-de-conversión-cto-y-ctb)
+  - [Las fracciones de los geles: mired y pérdida de luz](#las-fracciones-de-los-geles-mired-y-pérdida-de-luz)
   - [Medir el color de una fuente](#medir-el-color-de-una-fuente)
   - [La dominante verde y la mezcla de fuentes](#la-dominante-verde-y-la-mezcla-de-fuentes)
   - [La fidelidad de color: IRC y TLCI](#la-fidelidad-de-color-irc-y-tlci)
@@ -177,13 +178,23 @@ citan en «2. Continuidad lumínica» y en «4. Coordinación con imagen».
 | Flujo luminoso | Toda la luz que emite una fuente | Lumen (lm) |
 | Intensidad luminosa | La luz que emite en una dirección | Candela (cd) |
 | Iluminancia | La luz que llega a una superficie | Lux (lx) |
-| Luminancia | La luz que sale de una superficie hacia el ojo o la cámara | Candela por metro cuadrado |
+| Luminancia | La luz que sale de una superficie hacia el ojo o la cámara | Candela por metro cuadrado (cd/m²), llamada nit en monitores y pantallas |
 
 La distinción entre iluminancia y luminancia es la que más se confunde: la primera es la luz que
 cae sobre el sujeto, y se mide con el fotómetro en el sitio del sujeto apuntando a la cámara (luz
 incidente); la segunda es la luz que el sujeto devuelve, y se mide apuntando al sujeto (luz
 reflejada). La cámara ve luminancias: una camisa blanca y una chaqueta negra bajo la misma
 iluminancia dan luminancias muy distintas.
+
+La luminancia es también la magnitud de las pantallas: el brillo de un monitor, de una pantalla del
+decorado o de una imagen HDR se da en candelas por metro cuadrado, que en el lenguaje de los equipos
+se llaman nits. La Recomendación UIT-R BT.2100-3 (02/2025) expresa en cd/m² los valores de su
+entorno de visualización de referencia para programas HDR, por ejemplo una luminancia de cresta en la
+pantalla de «**≥ 1 000 cd/m2**» y un nivel de negro de «**≤ 0.005 cd/m2**»; el manual de DaVinci Resolve
+(Blackmagic Design) usa las dos palabras como una: una pantalla SDR calibrada debe tener «**a peak
+luminance level of 100 nits (cd/m2)**». Un nit es, pues, una candela por metro cuadrado; no es un
+lux, que mide la luz que llega, no la que sale. Los niveles de referencia del HDR se estudian en el
+tema 14.
 
 Las fichas de los aparatos dan el flujo: el Astera Titan Tube, por ejemplo, declara «**1340 lm**»,
 «**2900 lm**» y «**5800 lm**» según su longitud, como «**Typical values**».
@@ -917,6 +928,48 @@ El gel es el dispositivo que se pone delante del foco precisamente para ajustar 
 color. El regulador de intensidad no lo es, aunque en tungsteno la desplace (epígrafe «El regulador
 y el color»); el difusor y el reflector no tocan el color.
 
+### Las fracciones de los geles: mired y pérdida de luz
+
+Los geles de conversión se venden en un gel completo y en fracciones de él. Como ejemplo de un
+fabricante, la guía rápida de filtros de corrección Cinegel de Rosco (folleto *Filter Facts*) da,
+para cada referencia, lo que convierte, su desplazamiento en mired (**MIRED SHIFT**) y su
+transmisión (**TRANS.**), es decir, la parte de la luz que deja pasar:
+
+| Referencia | Gel | Qué convierte, según el fabricante | Mired | Transmisión |
+|---|---|---|---|---|
+| 3202 | **Full Blue CTB** | **Converts 3200°K tungsten to 5500°K daylight.** | **-131** | **36% (-1.5s)** |
+| 3204 | **Half Blue CTB** | **Converts 3200°K tungsten to 4100°K.** | **-68** | **52% (-.9s)** |
+| 3208 | **Quarter Blue CTB** | **Converts 3200°K tungsten to 3500°K.** | **-30** | **74% (-.4s)** |
+| 3216 | **Eighth Blue CTB** | **Converts 3200°K tungsten to 3300°K.** | **-12** | **81% (-.3s)** |
+| 3407 | **Full CTO** | **Converts 6500°K daylight to 3200°K tungsten (or 5500°K to 2900°K).** | **+167** | **47% (-1.1s)** |
+| 3408 | **Half CTO** | **Converts 5500°K daylight to 3800°K.** | **+81** | **73% (-.5s)** |
+| 3409 | **Quarter CTO** | **Converts 5500°K daylight to 4500°K.** | **+42** | **81% (-.3s)** |
+| 3410 | **Eighth CTO** | **Converts 5500°K daylight to 4900°K.** | **+20** | **92% (-.1s)** |
+
+Cómo se lee (cálculo sobre la tabla):
+
+- Cada fracción da, más o menos, esa fracción del desplazamiento del gel completo: el medio CTO,
+  +81 mired frente a +167; el cuarto, +42; el octavo, +20. No es una división exacta: por eso se
+  mira el valor de la ficha y no se deduce del nombre.
+- Los valores se suman al apilar geles. El fabricante lo dice así: **«Mired Shift Value is a
+  constant value.»**, y permite predecir el resultado al combinar filtros **«since the mired shift
+  values are additive or subtractive.»** Dos cuartos de CTO (+42 y +42, +84) equivalen casi a un
+  medio CTO (+81).
+- La cifra entre paréntesis es la pérdida en pasos de diafragma: un 36 % de transmisión es
+  aproximadamente 1,5 pasos, porque la mitad de luz es un paso. El CTB completo quita más luz que el
+  CTO completo (36 % frente a 47 %): pasar un foco de tungsteno a luz de día con gel cuesta un paso
+  y medio de ese foco, que hay que recuperar con potencia o distancia.
+- Los −131 mired del CTB completo casan con el cálculo del epígrafe «El mired» (unos −134 para ir de
+  3.200 K a 5.600 K; el fabricante lo refiere a 5.500 K).
+- Para qué sirven las fracciones: igualar fuentes que difieren poco (una fuente algo más cálida que
+  las demás, un tungsteno regulado) o dar sólo un tono, sin conversión completa (oficio).
+
+Dos avisos del mismo fabricante: la temperatura de color correlacionada que anuncia el fabricante de
+una fuente de descarga o fluorescente no debe usarse para corregir **«unless the accompanying Color
+Rendering Index (CRI) exceeds a value of 90 (e.g. HMI or Electronic Strobe)»**; y su calculadora de
+filtros **«is only suitable for light sources having a continuous spectrum.»** Otras marcas (Lee,
+por ejemplo) tienen sus propias referencias y valores, que no se han leído para este tema.
+
 ### Medir el color de una fuente
 
 Antes de elegir un gel hay que saber qué temperatura de color da de verdad cada fuente, porque las
@@ -1148,8 +1201,9 @@ El realizador no opera la luz ni el ajuste de cámaras: los pide y los aprueba. 
 
 Tres reglas de coordinación que dan las propias fichas: el Iluminador comprueba su trabajo
 **«a través de las cámaras»**, es decir, en la misma imagen que ve el realizador; el Iluminador
-Superior tiene entre sus tareas **«Realizar pruebas y ensayos de programas.»**, y por eso la luz se aprueba en ensayo y no
-al aire; y el realizador coordina al equipo **«en los ensayos y grabación o emisión en directo.»** El
+Superior tiene entre sus tareas **«Realizar pruebas y ensayos de programas.»**, de donde, como
+costumbre de oficio y no como texto de la ficha, la luz se aprueba en ensayo y no al aire; y el
+realizador coordina al equipo **«en los ensayos y grabación o emisión en directo.»** El
 esquema de intercomunicación y la mesa de luces son del tema 4; las órdenes y los ensayos, del
 tema 6.
 
@@ -1238,8 +1292,10 @@ de la casa.
 - Quién iguala las cámaras en cada control de Canal Sur: el convenio da el «control de cámaras» a los
   técnicos electrónicos, pero no consta cómo se organiza hoy.
 - Un criterio escrito de Canal Sur sobre el estilo de luz de sus programas o sobre la continuidad
-  lumínica: no consta; el Libro de Estilo da sólo el *raccord* técnico (6.4), la luz natural y la
-  antorcha en informativos (p. 82), el maquillaje con luz artificial (p. 119) y el vestuario (8.6.1).
+  lumínica: no consta; el Libro de Estilo da sólo el *raccord* técnico (6.4), la armonía del material
+  de archivo (6.3.4), la responsabilidad del realizador sobre la corrección de la imagen (6.5), la luz
+  natural y la antorcha en informativos (p. 82), el maquillaje con luz artificial (p. 119) y el
+  vestuario (8.6.1).
 - Una norma técnica que defina la continuidad lumínica: no se ha encontrado; se estudia como oficio y
   con los criterios del RD 1680/2011.
 - Pautas de iluminación específicas para producir en HDR: no se ha encontrado recomendación de la
@@ -1248,8 +1304,9 @@ de la casa.
 - La luz negra, el ultravioleta y los efectos de iluminación espectacular: no los pide este
   enunciado.
 - Las cifras de contraste por género y el ángulo de la luz principal: son costumbre de oficio, sin
-  norma que las fije. Los umbrales por tramos del TLCI y la pérdida de luz de cada gel comercial: no
-  se han leído fuentes que los den. La temperatura de color medida de una vela, una bombilla
+  norma que las fije. Los umbrales por tramos del TLCI: no se han leído fuentes que los den. El
+  desplazamiento en mired y la pérdida de luz de los geles se dan sólo con la guía de un fabricante
+  (Rosco); los de otras marcas, no. La temperatura de color medida de una vela, una bombilla
   doméstica, el amanecer, el cielo cubierto o la sombra a cielo abierto: no se ha localizado norma que la fije; el
   tema da sólo los preajustes publicados por fabricantes y el orden.
 - El balance de blancos, el filtro ND y la obturación de la cámara: tema 8. Los límites de la señal:
@@ -1267,6 +1324,9 @@ de la casa.
 | X Convenio colectivo de la RTVA, BOJA núm. 240, de 10-XII-2014, anexo III: fichas 5351000 Realizador (p. 196), 5341111 Iluminador Superior (p. 133), 5341112 Iluminador (p. 132), 5341210 Capataz de Iluminación (p. 117), 5342100 Técnico Electrónico (p. 209), 5342101 Oficial Técnico Electrónico (p. 186), 5341310 Cámara Operador (p. 116) | Quién hace la luz y el ajuste de cámaras en la RTVA | 29-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 5.3 (p. 82), 6.3.4 (p. 91), 8.3 (p. 119), 8.6 y 8.6.1 (pp. 121-122) | Luz natural, antorcha y ganancia en informativos; archivo agrupado; maquillaje con luz artificial; vestuario y ajuste de cámaras e iluminación | 29-09-2026 |
 | Temas cerrados de Cámara Operador de Canal Sur (iluminación básica; calidad técnica de imagen), redacción vigente el 24-09-2026 | Pasajes copiados literalmente, con sus fuentes: Recomendaciones UIT-R BT.709-6 y BT.2020-2; EBU Tech 3355 (marzo de 2017); Libro de Estilo (5.1, 6.3.4, 6.4 y 6.5); Sony, *PXW-Z200/HXR-NX800 Help Guide* y *PXW-Z100 Operating Guide*; Blackmagic Design, *URSA Broadcast G2 Installation and Operation Manual*; Canon, *XF605 Instruction Manual*; ficha del Sekonic SpectroMaster C-800; Adobe, *High key lighting vs low key lighting in videography*; ficha del Astera Titan Tube | Leídas por ese puesto el 24-09-2026 |
+| Rosco, *Filter Facts* (folleto de filtros para cine y televisión, PDF de 2009), p. 6 («Color Temperature and Mired Shift Value») y p. 9 («A Quick Reference Guide to Cinegel Correction Filters»); p. 8, aviso de la calculadora | Mired y transmisión de los geles CTB y CTO y sus fracciones; suma de valores en mired; aviso sobre la temperatura de color correlacionada y el IRC | 29-09-2026 |
+| Recomendación UIT-R BT.2100-3 (02/2025), cuadro 3 | Luminancia de cresta y nivel de negro de la pantalla de referencia HDR, en cd/m² | 29-09-2026 |
+| Blackmagic Design, *DaVinci Resolve 21 Reference Manual*, cap. 10 «HDR Setup and Grading», p. 261 | Nit como sinónimo de cd/m² | 29-09-2026 |
 | Temas del específico de Realización de RTVE (la iluminación, en Realización Televisión y en Realización Asistencia) | Cañón de seguimiento; cinefoil; matización de las sombras; clave alta y baja por géneros; confusión tonal | Oficio, sin norma detrás |
 
 Oficio y cálculo, declarados así en el texto: las funciones narrativas de la luz, la luz motivada y
