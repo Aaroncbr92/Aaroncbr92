@@ -1,0 +1,389 @@
+TSL UMD Protocols 
+1 
+19/09/09 
+TSL UMD Protocol 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+The TSL protocols are widely implemented throughout the industry, especially for Multiviewer 
+use. 
+ 
+There is no charge for the use of these protocols. 
+ 
+• 
+UMD V3.1 is the TSL basic industry standard serial protocol. 
+• 
+UMD V4.0 extends the basic V3.1 protocol to add full control of text and tally lamp 
+colours.  
+ 
+These two protocols can also be implemented over UDP/IP where each UDP packet contains 
+one serial data packet.  
+ 
+• 
+UMD V5.0 is a new protocol, specifically aimed at multiviewer display devices, over 
+Ethernet. 
+ 
+The following document describes these protocols. 
+ 
+Note these protocols are published without technical support; however In case of difficulty 
+please email tim.whittaker@tsl.co.uk. 
+ 
+ 
+
+TSL UMD Protocols 
+2 
+19/09/09 
+Protocol V3.1 
+ 
+ 
+1.0    Scope 
+ 
+This protocol sets out to define the method of communication between a TSL  controller and 
+peripheral devices on a multi-drop device bus.  
+The protocol described is for one way communication only.  It details physical layer, link layer 
+and message structure. 
+ 
+2.0    Electrical 
+ 
+     RS 422/ RS 485 
+     8 bit data 
+     1 stop 
+     even parity 
+     38k4 baud 
+ 
+3.0    Dynamic UMD Protocol 
+ 
+ 
+        ---------------------------------------------------------------- 
+        | HEADER | CONTROL BYTE | DISPLAY DATA | 
+        ---------------------------------------------------------------- 
+ 
+     Header                  = Display address (0-126) + 80 hex 
+     (1 byte)                     ( control byte and display data 
+                                       will be sent ) 
+                                   
+  
+     Control       bit 0      =   tally 1 ( 1=on, 0=off )  
+     (1 byte)      bit 1      =   tally 2 ( 1=on, 0=off )  
+                       bit 2       =  tally 3 ( 1=on, 0=off )  
+                       bit 3       =  tally 4 ( 1=on, 0=off )  
+                       bits 4-5  =  brightness data  
+ 
+                       bit 4 = 0, bit 5 = 0  (0 brightness)                 
+                       bit 4 = 0, bit 5 = 1  (1/7 brightness)  
+                       bit 4 = 1, bit 5 = 0  (1/2 brightness)  
+                       bit 4 = 1, bit 5 = 1  (full brightness) 
+ 
+                       bit 6       = reserved  (clear to 0) 
+                       bit 7       = cleared to 0  
+ 
+ Display Data                = 16 displayable ASCII characters 
+     (16 bytes)                    in the range 20 hex to 7E hex. 
+ 
+ 
+ 
+   All 16 characters must be sent. 
+ 
+ 
+
+TSL UMD Protocols 
+3 
+19/09/09 
+4.0 
+Single Dynamic Displays 
+ 
+ 
+For 8 character displays only the first 8 characters of the 
+ 
+display data are used, the remaining 8 are needed just for  
+ 
+padding. 
+ 
+Only tallies 1&2 are use for single displays. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+5.0 
+Dual Dynamic Displays 
+ 
+ 
+Dual 8 character displays are treated as a single display of  
+ 
+16 characters, the first 8 characters for the left-hand side  
+ 
+and the second 8 characters for the right-hand side. 
+ 
+Tallies 1&2 are for the left display and tallies 3&4 for the  
+ 
+right display. 
+ 
+ 
+ 
+6.0 
+Triple/Quad Dynamic Displays 
+ 
+ 
+These units take two addresses.  
+ 
+ 
+Address 1, for display 1, tally 1 & 2 
+ 
+Address 1 for display 2, tally 3 & 4 
+ 
+Address 2 for display 3, tally 5 & 6 
+ 
+Address 2 for display 4, tally 7 & 8 
+ 
+ 
+ 
+
+TSL UMD Protocols 
+4 
+19/09/09 
+Protocol V4.0 
+ 
+ 
+Summary of Enhancements 
+ 
+To support multiple tally channels, more tally control bits are added. Full compatibility with 
+V3.1 (1994) is maintained. Future revisions provided for with version/byte count information. 
+ 
+V3.1 Header 
+ 
+The current format is retained up to and including the final character of the data field; 
+ 
+<0x80+addr><CTRL><DATA> 
+ 
+where CTRL is : 
+bit 7: 
+0 
+bit 6: 
+0 for display data, 1 for command data 
+bit 5: 
+brightness MSB 
+bit 4: 
+brightness LSB 
+bit 3: 
+tally 3 
+bit 2: 
+tally 2 
+bit 1: 
+tally 1 
+bit 0: 
+tally 0 
+ 
+and DATA is: 
+ 
+16 ASCI characters for messages with CTRL.6 = 0 (i.e. display data messages) 
+For CTRL.6=1, DATA is defined by the control code formed by CTRL5:0.  
+ 
+NB Version 4.0 enhancements only apply to display data messages; command messages are 
+defined in a separate document. 
+ 
+V4.0 Enhancements 
+ 
+V4.0 and above messages are recognised as having further data following the last byte of 
+<DATA>, as follows: 
+ 
+<0x80+addr><CTRL><DATA><CHKSUM><VBC><XDATA> 
+ 
+CHKSUM = (2’s complement of (sum of all V3.1 bytes)) modulo 128  
+ 
+ 
+ 
+ 
+     (i.e. hdr+CTRL+DATA) 
+ 
+VBC is: 
+Bit 7:   
+0 
+Bit 6-4: minor Version  (V4.0 = 0) 
+Bit 3-0  
+Byte count of XDATA 
+ 
+<XDATA> is defined by minor Version number. 
+ 
+
+TSL UMD Protocols 
+5 
+19/09/09 
+Currently the following is defined:- 
+ 
+Minor Version = 0 (i.e. V4.0) 
+ 
+XDATA consists of 2 bytes:  
+Xbyte 1 has 6 tally bits for Display L, Xbyte 2 has 6 tally bits for display R. 
+ 
+The 6 bits consist of 2 bits each for the LH tally, text, and RH tally as follows: 
+ 
+Bit 7 
+0 
+Bit 6 
+Reserved (ignore (RX) or set to 0 (TX)) 
+Bit 5: 
+LH MSB 
+Bit 4: 
+LH LSB 
+Bit 3: 
+Txt MSB 
+Bit 2: 
+Txt LSB 
+Bit 1: 
+RH MSB 
+Bit 0: 
+RH LSB 
+ 
+2 Bit values are: 
+ 
+0 = OFF; 
+1 = RED, 
+2 = GREEN, 
+3 = AMBER. 
+ 
+The four original V3.1 tally bits (in the CTRL packet) are now separately mapped to the four 
+parallel tally outputs from the display. 
+
+TSL UMD Protocols 
+6 
+19/09/09 
+Protocol V5.0 
+ 
+ 
+Overview 
+ 
+This protocol is a new 16 bit UMD protocol, with no reverse compatibility to previous TSL 
+UMD protocols. 
+The primary points for this protocol to provide over previous versions are as follows: 
+ 
+1. Display addressing up to 65,535 per screen 
+2. ASCII or Unicode character sets 
+3. Variable length mnemonics 
+4. IP based packet communication, with optional wrapper for stream based comms 
+5. Multiple display updates per packet 
+ 
+Physical Layer  
+ 
+Packets are sent via UDP. Maximum packet length is 2048 bytes. 
+ 
+Optionally, the protocol can operate over TCP/IP, or any other byte stream interface, with the 
+following wrapper scheme: 
+ 
+DLE is defined as 0xFE 
+STX is defined as 0x02 
+ 
+Packet start is delimited by the sequence DLE/STX. 
+Any occurrence of the DLE character in the packet is byte stuffed to DLE/DLE. 
+ 
+Any byte count fields in the packet are not affected by the byte stuffing. 
+ 
+Message Format 
+ 
+16 bit values are sent as little-endian, i.e. LSB/MSB. 
+ 
+The packet is defined as follows: 
+ 
+ 
+ 
+PBC / VER / FLAGS / SCREEN /  (<DMSG> ( / <DMSG>)…) or (SCONTROL) 
+ 
+PBC (16 bit): 
+Total byte count of following packet 
+ 
+VER (8 bit): 
+Minor version number (e.g. V5.00, VER = 0). Note this byte can be used as versioning control 
+for the following definitions. Whilst any future changes to this protocol will aim to be backward 
+compatible, this is not guaranteed. 
+ 
+FLAGS (8 bit): 
+Defined as follows: 
+ 
+ 
+Bit 0: 
+Clear for ASCII based strings in packet, set for Unicode UTF-16LE 
+ 
+Bit 1: 
+If set, data after SCREEN is screen control data (SCONTROL) – otherwise  
+it’s display message data (DMSG) 
+Bit 2-7: Reserved (clear to 0) 
+
+TSL UMD Protocols 
+7 
+19/09/09 
+SCREEN (16 bit): 
+ 
+Primary index for use where each screen entity would have display indices (defined below) 
+starting from 0. 
+Index 0xFFFF is reserved as a “Broadcast” to all screens. 
+If not used, set to 0. 
+ 
+Display Message (<DMSG>) Definition 
+ 
+This message definition is sent per display, and there can be several in a packet (up to max 
+packet length). Constructed as follows: 
+ 
+INDEX / CONTROL / (LENGTH / TEXT) or (CONTROL DATA) 
+ 
+INDEX (16 bit): 
+The 0 based address of the display, up to 65534 (0xFFFE). Address 0xFFFF is reserved as a 
+“Broadcast” address to all displays. 
+ 
+CONTROL (16 bit): 
+Display control and tally data as follows: 
+ 
+Bit 0-1:  
+RH Tally Lamp state 
+Bit 2-3:  
+Text Tally state 
+Bit 4-5:  
+LH Tally Lamp state 
+ 
+Bit 6-7:  
+Brightness value (range 0-3) 
+ 
+Bit 8-14: 
+Reserved (clear to 0) 
+ 
+Bit 15:  
+Control Data: following data to be interpreted as Control data rather  
+than Display data when set to 1. 
+ 
+2 Bit Tally values are: 
+0 = OFF, 
+1 = RED, 
+2 = GREEN, 
+3 = AMBER. 
+ 
+Display Data: (CONTROL bit 15 is cleared to 0) 
+ 
+LENGTH (16 bit): 
+Byte count of following text. 
+ 
+TEXT: 
+UMD text, format defined by FLAGS byte. 
+ 
+Control Data: (CONTROL bit 15 is set to 1) 
+ 
+Not defined in this version of protocol. 
+ 
+ 
+Screen control (SCONTROL) Definition (FLAGS bit 1 is set to 1) 
+ 
+Not defined in this version of protocol. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
