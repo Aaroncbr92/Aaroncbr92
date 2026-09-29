@@ -1,0 +1,296 @@
+Choose live encoder settings, bitrates, and resolutions - YouTube Help       Skip to main content 
+
+YouTube Help
+
+Sign in
+
+Google Help
+
+Help Center
+Fix a problem
+Watch videos
+Manage your account & settings
+Supervised experiences on YouTube
+YouTube Premium
+Create & grow your channel
+Monetize your content
+Policy, safety, & copyright
+Community
+YouTube
+
+Privacy Policy
+YouTube Terms of Service
+Submit feedback
+
+   Send feedback on...
+
+This help content & information
+
+General Help Center experience
+
+CloseNext
+
+Help Center
+Community
+Creator Tips
+
+YouTube
+
+Fix a problemTroubleshoot problems playing videosTroubleshoot account issuesFix upload problemsGet help with the YouTube Partner ProgramLearn about recent updates on YouTubeGet help with YouTube
+
+Watch videosFind videos to watchChange video settingsWatch videos on different devicesComment, subscribe, & connect with creatorsSave or share videos & playlistsTroubleshoot problems playing videosPurchase & manage movies, TV shows & products on YouTube
+
+Manage your account & settingsSign up and manage your accountManage account settingsManage privacy settingsManage ad settingsManage accessibility settingsTroubleshoot account issuesYouTube updates
+
+Supervised experiences on YouTubeSupervised accounts for kidsSupervised accounts for teens
+
+YouTube PremiumJoin YouTube PremiumYouTube Premium benefitsManage your Premium membershipManage Premium billing & paymentsFix YouTube Premium issues
+
+Create & grow your channelUpload videosEdit videos & video settingsCreate ShortsEdit videos with YouTube CreateCustomize & manage your channelAnalyze performance with analyticsTranslate videos, subtitles, & captionsManage your posts & commentsLive stream on YouTubeYouTube Creator CommunityBecome a podcast creator on YouTubeCreator and Studio App updates
+
+Monetize your contentYouTube Partner ProgramMake money on YouTubeGet paidUnderstand ads and related policiesGet help with the YouTube Partner ProgramYouTube for Content Managers
+
+Policy, safety, & copyrightYouTube policiesReporting and enforcementPrivacy and safety centerCopyright and rights management
+
+Live stream on YouTube
+Choose live encoder settings, bitrates, and resolutions
+
+                                   Choose live encoder settings, bitrates, and resolutions
+It's important to make sure your live stream is high quality. Make sure you choose a quality that will result in a reliable stream based on your internet connection. We recommend running a speed test to test your upload bitrate.
+
+If you're streaming in the Live Control Room, you only have to specify your resolution, frame rate, and bitrate in your encoder. YouTube will automatically detect which encoder settings you chose.
+
+YouTube will automatically transcode your live stream to create many different output formats so that all of your viewers across many devices and networks can watch.
+
+Make sure to test before you start your live stream. Tests should include audio and movement in the video similar to what you'll be doing in the stream. During the event, monitor the stream health and review messages.
+
+  Note: For 4K / 2160, the option to improve for low latency is not available. All streams will be optimized for quality and set to normal latency.
+
+Encoder Live Streaming: Basics on How to Set Up & Use an Encoder
+
+Subscribe to the YouTube Creators channel for the latest news, updates, and tips.
+
+Stream resolution detection with custom stream keys in Live Control Room
+
+By default (recommended), YouTube will automatically detect your resolution and frame rate. If you want to manually select a resolution, create a custom key and choose “Turn on manual settings" under “Stream Resolution."
+
+Recommended bitrate setting ranges are based on video ingestion codec, video ingestion resolution and frame rate. 
+
+        Ingestion Resolution / Frame Rate
+
+        Minimum Bitrate setting (Mbps) AV1 and H.265
+
+        Maximum Bitrate setting (Mbps) AV1 and H.265
+
+        Recommended Bitrate setting (Mbps) H.264
+
+        4K / 2160p @60fps
+
+        10 Mbps
+
+        40 Mbps
+
+        35 Mbps
+
+        4K / 2160p @30fps
+
+        8 Mbps
+
+        35 Mbps
+
+        30 Mbps
+
+        1440p @60fps
+
+        6 Mbps
+
+        30 Mbps
+
+        24 Mbps
+
+        1440p @30fps
+
+        5 Mbps
+
+        25 Mbps
+
+        15 Mbps
+
+        1080p @60fps
+
+        4 Mbps
+
+        10 Mbps
+
+        12 Mbps
+
+        1080p @30fps
+
+        3 Mbps
+
+        8 Mbps
+
+        10 Mbps
+
+        720p @60fps
+
+        3 Mbps
+
+        8 Mbps
+
+        6 Mbps
+
+        240p - 720p @30fps
+
+        3 Mbps
+
+        8 Mbps
+
+        4 Mbps
+
+Encoder settings
+
+      Protocol:
+      RTMP/RTMPS Streaming
+
+      Video codec:
+      H.264
+
+      H.265 (HEVC)
+
+      AV1
+
+      Frame rate:
+      up to 60 fps
+
+      Keyframe frequency:
+
+      Recommended 2 seconds
+
+      Do not exceed 4 seconds
+
+      Audio codec:
+
+      AAC or MP3
+
+      (5.1 surround sound audio is only supported for AAC in RTMP/RTMPS)
+
+      Bitrate encoding:
+      CBR
+
+Recommended advanced settings
+
+      Pixel aspect ratio:
+      Square
+
+      Frame types:
+      Progressive Scan, 2 B-Frames, 1 Reference Frame
+
+      Entropy coding:
+      CABAC
+
+      Audio sample rate:
+      44.1 KHz for stereo audio, 48 KHz for 5.1 surround sound
+
+      Audio bitrate:
+      128-Kbps for stereo or 384 Kbps for 5.1 surround sound
+
+      Color space:
+      Rec. 709 for SDR
+
+      HDR video codec:
+      H.265 (HEVC)
+
+      AV1 is not supported for HDR
+
+      Bit Depth:
+      8-bit for SDR
+
+      10-bit for HDR
+
+      Tiling
+      Minimum of 2 tile columns for AV1-encoded streams at resolutions of 3840x2160 and above
+
+  Notes:
+
+    We recommend streaming to YouTube Live with RTMPS, a secure extension to the popular RTMP streaming video protocol. Your data will be encrypted all the way into and through Google's servers, so nobody can intercept your communication with the service. Learn more.
+
+    If you want to stream in HDR, we recommend using H.265 over RTMP(S). If your encoder does not yet support these capabilities with RTMP, you may consider using HLS (HTTP Live Streaming). Learn more.
+
+    Live streams are automatically available on game consoles and mobile devices via the YouTube app and m.youtube.com.
+
+    Looking for the 360 live streaming spec? Check here.
+
+              Was this helpful?
+How can we improve it?
+YesNo
+
+Submit
+
+              Need more help?
+ Try these next steps:
+
+    Post to the help community    Get answers from community members  
+
+ true
+     Live stream on YouTube
+1 of 11
+Choose live encoder settings, bitrates, and resolutions
+2 of 11
+Understand live streaming latency
+3 of 11
+Encoder settings for 360-degree live streams
+4 of 11
+Gaming and Live Streaming Tools & Services
+5 of 11
+Create a YouTube live stream with an encoder
+6 of 11
+Manage live stream settings
+7 of 11
+Stream HDR video on YouTube
+8 of 11
+Set up an HLS stream
+9 of 11
+Encrypt your stream using RTMPS
+10 of 11
+Stream 5.1 surround sound audio on YouTube
+11 of 11
+Stream across platforms
+
+             ©2026 Google     Privacy Policy  
+   YouTube Terms of Service  
+
+      Language   Afrikaans‎azərbaycan‎bosanski‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎euskara‎Filipino‎français‎français (Canada)‎Gaeilge‎galego‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎o‘zbek‎polski‎português‎português (Brasil)‎română‎shqip‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎беларуская‎български‎кыргызча‎македонски‎монгол‎русский‎српски‎українська‎қазақ тілі‎հայերեն‎‏עברית‏اردو‏العربية‏فارسیनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎မြန်မာ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎            Enable Dark Mode
+
+        Send feedback on...
+ This help content & information General Help Center experience 
+
+  Search
+Clear search
+Close search
+Google apps
+Main menu
+
+                8013111088642019784
+                                                            true
+
+                        Search Help Center
+   false
+    true
+
+    true
+
+    true
+
+                                                                                      true
+   true
+   59
+                                                                                            false
+
+    false
+
+                                                                                                                                                                      false
+   false
+
+  false
+  

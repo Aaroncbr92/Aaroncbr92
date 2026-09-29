@@ -1,0 +1,2535 @@
+Guía de buenas prácticas 
+para la incorporación 
+de la lengua de signos 
+española en televisión
+
+Equipo del CNLSE: 
+María Luz Esteban Saiz (Dirección)
+Eva Aroca Fernández
+Mónica Rodríguez Varela 
+David Sánchez Moreno
+Documento elaborado por: 
+Carlos Alberto Martín Edo
+Centro de Normalización Lingüística de la Lengua de Signos Española
+Islas Aleutianas, 28
+28035 MADRID
+Tel.: 91 376 85 60
+Fax: 91 376 85 64
+cnlse@cnlse.es
+http://www.cnlse.es
+Edita: 
+Real Patronato sobre Discapacidad
+http://www.rpd.es
+Ministerio de Sanidad, Servicios Sociales e Igualdad
+http://www.msssi.es
+Cuidado de la edición:
+Centro Español de Documentación sobre Discapacidad (CEDD)
+http://www.cedd.net
+Serrano, 140 28006 MADRID
+Tel. 91 745 24 46-49 
+cedd@cedd.net
+Maquetación: 
+AFANIAS
+© Real Patronato sobre Discapacidad, 2017
+Vídeo resumen en lengua de signos española: https://youtu.be/mC6LyLQMms4
+NIPO: 689-17-006-0
+Reservados todos los derechos. El contenido de este documento es propiedad del Real 
+Patronato sobre Discapacidad. Se autoriza la visualización, impresión y descarga 
+del documento solo y exclusivamente si no se realizan con fines comerciales o para su 
+distribución, comunicación pública o transformación; si ninguno de los contenidos se modifica 
+y siempre citando la fuente.
+
+3
+Índice
+Relación del grupo de trabajo	
+5
+Prólogo	
+6
+1.	Introducción y objetivos	
+8
+2.	Antecedentes en la prestación del servicio	
+11
+3.	Revisión de la legislación de aplicación	
+17
+3.1.	 Legislación española	
+17
+3.1.1	 Constitución Española	
+17
+3.1.2	 Real Decreto por el que se aprueba 
+el Plan técnico nacional de la televisión 
+digital terrestre (2005)	
+17
+3.1.3	 Ley por la que se reconocen las lenguas 
+de signos españolas y se regulan los medios de apoyo 
+a la comunicación oral de las personas sordas, 
+con discapacidad auditiva y sordociegas	
+18
+3.1.4	 Real Decreto por el que se aprueba el Reglamento 
+sobre las condiciones básicas para el acceso 
+de las personas con discapacidad a las tecnologías, 
+productos y servicios relacionados con la sociedad 
+de la información y medios de comunicación social	
+22
+3.1.5	 Ley de financiación de la Corporación de Radio 
+y Televisión Española	
+23
+3.1.6	 Ley General de la Comunicación Audiovisual	
+23
+3.1.7	 Real Decreto Legislativo por el que se aprueba 
+el Texto Refundido de la Ley General de derechos 
+de las personas con discapacidad y de su inclusión social	
+25
+3.2.	 Referencias internacionales	
+27
+3.2.1	 Declaración universal de derechos lingüísticos	
+27
+3.2.2	 Convención sobre los derechos de las personas 
+con discapacidad	
+29
+3.2.3	 Directiva de servicios de comunicación audiovisual	
+30
+3.2.4	 Propuesta de directiva de accesibilidad	
+31
+4.	Iniciativas y proyectos previos	
+33
+5.	Caracterización de la prestación del servicio	
+39
+5.1.	 Copresentación en lengua de signos española	
+39
+
+4
+Índice
+5.2.	 Lengua de signos como imagen principal	
+40
+5.3.	 Lengua de signos española insertada en la imagen principal	
+42
+5.3.1	 Silueta de la persona que signa	
+44
+5.3.2	 Lengua de signos en una ventana	
+47
+5.3.3	 Composición de la imagen del programa 
+y de la lengua de signos	
+50
+6.	Recomendaciones	
+56
+6.1.	 Visión general	
+56
+6.2.	 Recomendaciones técnicas	
+59
+6.3.	 Recomendaciones relativas a la producción 
+y realización del servicio	
+61
+6.3.1.	 Recomendaciones relacionadas con la composición	
+61
+6.3.2.	 Recomendaciones relativas a la apariencia 
+de la persona que signa	
+63
+6.3.3.	 Recomendaciones relativas a la puesta en escena 
+y la adquisición del vídeo	
+64
+6.4.	 Recomendaciones relativas a la señalización del servicio	
+65
+7.	Aspectos de calidad lingüística	
+67
+8.	Recursos y referencias	
+72
+
+5
+Relación del grupo de trabajo 
+Real Patronato sobre Discapacidad – Centro de Normalización Lingüística de la Lengua de 
+Signos Española (Coordinación) 
+María Luz Esteban Saiz
+Eva Aroca Fernández
+David Sánchez Moreno
+Confederación Estatal de Personas Sordas
+Mª Jesús Serna Serna
+Federación de Asociaciones de Personas Sordociegas de España
+Francisco J. Trigueros Molina
+Federación Española de Intérpretes de Lengua de Signos y Guías-Intérpretes
+Susana Gracia Bernal
+Federación de Organismos de Radio y Televisión Autonómicos
+Alberto J. Marcos Calvo
+Radio Televisión Española 
+Francisco Armero Real
+Unidad Técnica de Sordoceguera – ONCE 
+Pilar Gómez Viñas
+Unión de Televisiones Comerciales en Abierto
+Andrés Armas Portela
+Universidad Autónoma de Barcelona
+Marta Bosch Baliarda
+Pilar Orero Clavero
+Universidad Carlos III de Madrid
+Esther Gil Sabroso
+Universidad Complutense de Madrid
+Juan Pedro Rica Peromingo
+Universidad Europea de Madrid
+Fernando Martín de Pablos
+Universidad Politécnica de Madrid
+Carlos Alberto Martín Edo
+
+6
+Prólogo
+En nuestro país, la primera aparición de la lengua de signos española en televisión 
+tuvo lugar en 1977 en el programa ‘Hablamos’, un resumen informativo emitido se­
+manalmente por la Primera Cadena de Televisión Española. Desde entonces, la incor­
+poración de la lengua de signos en este medio ha tenido una implantación irregular, 
+pasando por épocas en las que no se ha emitido ningún contenido signado a otras 
+en las que se ha generado una mayor conciencia sobre la accesibilidad en los con­
+tenidos audiovisuales para personas con discapacidad. Esto ha supuesto importantes 
+avances en los últimos años, que han comprendido desde la creación de grupos de 
+trabajo específicos hasta la incorporación de la lengua de signos en programas y en 
+retransmisiones en directo como aquellas realizadas en los plenos del Congreso de los 
+Diputados.
+La Ley General de la Comunicación Audiovisual, promulgada en el año 2010, 
+supuso un nuevo empuje para la incorporación de la lengua de signos española en 
+televisión, ya que en ella se establecían por primera vez cuotas de prestación de servi­
+cios de accesibilidad, entre ellos la lengua de signos, para los operadores televisivos. 
+Muchas cadenas de televisión que nunca habían ofrecido ese servicio empezaron 
+entonces a incorporarlo. 
+En la actualidad nos enfrentamos a una realidad televisiva en la que han au­
+mentado paulatinamente el número de horas dedicadas a la emisión de programas 
+y contenidos en lengua de signos, así como la variedad de estos, y es previsible que 
+sigan aumentando en los próximos años.
+Este contexto, así como la necesidad de prestar un servicio acorde con las ex­
+pectativas de las personas sordas y sordociegas usuarias de la lengua de signos, y la 
+voluntad de impulsar una televisión cada vez más plural y accesible, llevaron al Real 
+Patronato sobre Discapacidad a editar en 2015 el informe sobre la ‘Presencia de la 
+Lengua de Signos Española en la Televisión’. Elaborado por el Centro de Normaliza­
+ción Lingüística de la Lengua de Signos Española (CNLSE), este documento proponía 
+un análisis en torno a la incidencia de la sordera y del uso de la lengua de signos 
+española, las fórmulas para su incorporación en televisión y la disponibilidad del ser­
+vicio en función de las expectativas de los usuarios.
+En esta ocasión, queremos dar un paso más con la publicación de esta ‘Guía 
+de buenas prácticas para la incorporación de la lengua de signos española en te­
+levisión’. Esta guía pretende, con el inestimable apoyo de las personas usuarias, 
+garantizar la calidad del servicio de lengua de signos a través de unos criterios de 
+
+7
+accesibilidad y lingüísticos que satisfagan las necesidades de las personas sordas y 
+sordociegas en el acceso a los contenidos emitidos en televisión.
+Las recomendaciones y buenas prácticas recogidas en esta guía no sólo pro­
+mueven la normalización de un derecho lingüístico reconocido como es el uso de la 
+lengua de signos. Este trabajo contribuye, además, a democratizar el acceso al medio 
+de comunicación más consumido en nuestro país –con todo lo que ello implica a nivel 
+de información y entretenimiento– en unas condiciones técnicas y lingüísticas óptimas 
+para que las personas usuarias de la lengua de signos española puedan disfrutar de 
+los contenidos con las mismas garantías que el resto de la población. Esperamos en 
+última instancia que la lectura y aplicación de las propuestas y directrices recogidas 
+en la guía nos ayuden a consolidar un modelo de televisión cada vez más sólido e 
+inclusivo. 
+Borja Fanjul Fernández-Pita
+Director General de Políticas de Apoyo a la Discapacidad
+Director del Real Patronato sobre Discapacidad
+
+8
+1.	
+Introducción y objetivos
+El Centro de Normalización Lingüística de la Lengua de Signos Española, en adelante 
+CNLSE, integrado en el Real Patronato sobre Discapacidad (Real Decreto 921/2010)1, 
+ha sido creado por la Ley 27/2007, de 23 de octubre, por la que se reconocen las 
+lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral 
+de las personas sordas, con discapacidad auditiva y sordociegas2.
+La presente guía ha sido elaborada en el marco de las competencias del CNLSE en 
+materia de lengua de signos española, cuya misión es trabajar por la normalización de 
+la lengua de signos española actuando como un espacio de referencia que vele por su 
+buen uso y contribuya a garantizar los derechos lingüísticos de las personas usuarias 
+de esta lengua. Asimismo, el CNLSE tiene como finalidad investigar, fomentar y difundir 
+la lengua de signos española, así como velar por su buen uso, observada la transver­
+salidad en las políticas y líneas de acción en cualquiera de los ámbitos de actuación 
+pública.
+Hoy por hoy coinciden distintos aspectos como la concepción cada vez más exten­
+dida de la lengua de signos española desde su valor lingüístico y cultural más allá de 
+constituir una medida de accesibilidad, un avance considerable en el reconocimiento 
+de los derechos de las personas con discapacidad, una voluntad firme por construir 
+una televisión cada vez más solidaria y accesible, y una sensibilidad especial de los 
+legisladores por incorporar la accesibilidad universal y el diseño para todos de forma 
+transversal en cualquiera de los ámbitos y generalmente en todos los servicios. Todo 
+ello hace prever que la incorporación de la lengua de signos española en la televisión 
+aumentará en número de horas y en diversidad de contenidos.
+Por todo lo anterior, y teniendo en cuenta los factores que pueden comprometer la 
+emisión de contenidos en lengua de signos española, se precisan estándares de calidad 
+en cuanto al tratamiento técnico y lingüístico apropiado que garanticen la accesibilidad 
+de las personas sordas y sordociegas. Para ello, se crea un Grupo de Trabajo, coordi­
+nado por el Real Patronato sobre Discapacidad a través del CNLSE, a fin de realizar 
+la presente guía cuyo objetivo es proporcionar unas directrices para la prestación del 
+servicio de lengua de signos española en televisión, a modo de código de buenas prác­
+ticas que garantice la calidad del servicio, tanto desde el punto de vista del disfrute del 
+contenido por parte de la comunidad usuaria como de la calidad lingüística.
+1	
+Disponible en <http://www.boe.es/boe/dias/2010/07/17/pdfs/BOE-A-2010-11428.pdf>.
+2	
+Disponible en <http://www.boe.es/boe/dias/2007/10/24/pdfs/A43251-43259.pdf>.
+
+9
+Como quiera que cualquier política, medida o programa que se desarrolle, tiene 
+que contar con el respaldo de las personas que finalmente serán las destinatarias de las 
+mismas, cabe apuntar cuáles son las principales necesidades y, por tanto, las expec­
+tativas de las personas sordas y sordociegas en esta materia. En este sentido, el Real 
+Patronato sobre Discapacidad a través del CNLSE publicó en el año 2015 el informe 
+Presencia de la lengua de signos española en la televisión (CNLSE, 2015)3, que recoge 
+un análisis de las principales demandas y preferencias sobre esta cuestión. Entre ellas 
+se destacan la importancia de contar con más profesionales sordos como los principales 
+agentes para garantizar la calidad lingüística, la posibilidad de activar y desactivar la 
+imagen con lengua de signos española, la incorporación de esta lengua en la pantalla 
+como imagen principal, en cualquier caso la preferencia por la silueta del intérprete 
+frente a la ventana y, en relación con los contenidos, se decantan prioritariamente por 
+los informativos y los programas infantiles.
+Es prioritario que la incorporación de la lengua de signos española en televisión 
+se haga con criterios de accesibilidad y lingüísticos para responder a las necesidades 
+y a las expectativas de la comunidad usuaria. Se da también la circunstancia de que 
+la comunidad usuaria es heterogénea, por lo que esta guía pretende servir tanto a las 
+personas sordas como sordociegas.
+La presente guía se elabora, además, en un momento de evolución tecnológica 
+que permite nuevas implementaciones del servicio de lengua de signos, de modo que 
+se facilitan opciones de configuración que satisfagan los requisitos de los usuarios, 
+dada la heterogeneidad del colectivo. Esta guía pretende tener en cuenta este nuevo 
+escenario, caracterizado por la convergencia entre los mundos de la radiodifusión, de 
+televisión e Internet.
+Tras este capítulo, esta guía aborda en el capítulo 2 los «Antecedentes en la 
+prestación del servicio» que muestra la larga trayectoria que ya tiene la incorporación 
+de la lengua de signos a la televisión en España, así como su evolución a lo largo del 
+tiempo y algunos hitos destacables a lo largo de estos años. El capítulo 3 se dedica a 
+los referentes legislativos de aplicación para la incorporación de la lengua de signos a 
+la televisión, teniendo en cuenta tanto el marco nacional como internacional. El capítulo 
+4 resume proyectos e iniciativas de los últimos años que dan cuenta de la mencionada 
+evolución tecnológica, que abre nuevas oportunidades para la prestación del servicio.
+3	
+Disponible en <http://www.siis.net/documentos/documentacion/Informe.%20Presencia%20
+de%20la%20Lengua%20de%20Signos.pdf>.
+
+10
+El capítulo 5 trata de caracterizar la variedad de implementaciones actuales de 
+incorporación de la lengua de signos en televisión, prestando atención tanto a operado­
+res españoles como de otros países. El examen de las características de estas implemen­
+taciones junto con la información publicada en referencias bibliográficas permite enun­
+ciar las recomendaciones para la prestación del servicio del capítulo 6. Dada además 
+su importancia en esta guía, las recomendaciones sobre la calidad lingüística tienen 
+dedicado un capítulo propio (el 7). Por último, el capítulo 8 está dedicado a referencias 
+y bibliografía, a modo de guía de recursos donde ampliar información. 
+Finalmente, el contenido de esta propuesta se ha nutrido de aportaciones del 
+Consejo Rector del CNLSE a través del Ministerio de Educación, Cultura y Deporte, del 
+Ministerio de Sanidad, Servicios Sociales e Igualdad, del Real Patronato sobre Disca­
+pacidad, de la Confederación Estatal de Personas Sordas (CNSE), de la Confederación 
+Española de Familias de Personas Sordas (FIAPAS) y de la Fundación ONCE para la 
+Atención de Personas con Sordoceguera (FOAPS) así como de otros expertos como 
+Inmaculada Medina, Nieves Pérex, Miguel A. Calvo y Charo Bravo.
+
+11
+2.	 Antecedentes en la prestación del servicio
+En la historia de la televisión en España, el primer programa en incorporar la lengua 
+de signos española fue «Hablamos» (CNLSE, 2015: 6), emitido por la Primera Cadena 
+de Televisión Española a partir del domingo 27 de febrero de 1977. Se trataba de un 
+programa semanal que se emitía los domingos hacia las 9:30 de la mañana. El espacio 
+servía de resumen semanal informativo y contenía varias secciones de carácter educati­
+vo, cultural y sobre las asociaciones de personas sordas. Desde su cese en 1982, no se 
+incluyó lengua de signos española en ningún contenido hasta la década de los noventa, 
+cuando comenzó a emitirse diariamente en horario vespertino «Avance informativo», 
+un resumen de las noticias más destacadas con apenas cinco minutos de duración 
+que permaneció en la programación hasta el verano de 1994 (CNLSE, 2015: 6). Este 
+avance se caracterizaba por la presencia de dos presentadoras en el mismo espacio 
+físico, una de las cuales contaba el resumen de noticias en lengua oral mientras la otra 
+lo interpretaba en lengua de signos4.
+En 1997 comenzó la emisión del programa «En otras palabras» los sábados por 
+la mañana en La 2 de TVE. Este programa se ha mantenido sin solución de continuidad, 
+si bien en la actualidad lleva el título de «En lengua de signos». Se trata de un programa 
+de 30 minutos de duración presentado en lengua de signos española (esto es, no se 
+trata de interpretar la lengua oral), que incluye también voz en off y subtítulos. El conte­
+nido consiste en un resumen de noticias de interés general y en reportajes relacionados 
+con las personas sordas y sordociegas. En este programa, la lengua de signos ocupa 
+la imagen principal y se puede destacar que cuenta con presentadores sordos. En el 
+capítulo 5 se examinará la incorporación de la lengua de signos en este programa. 
+En cuanto a las cadenas autonómicas, las primeras experiencias de incorporación 
+de la lengua de signos española a la programación datan de 1991, cuando la televi­
+sión gallega TVG puso en antena un avance («Adianto Informativo») con interpretación 
+en lengua de signos (Maneiro, 2010). Dos años más tarde, en 1993, la productora 
+audiovisual Signovisión creó el espacio «Telesigno». Este programa comenzó a emitirse 
+en la cadena vasca Euskal Telebista (ETB) y en 1994 migró a Canal Sur (Andalucía) 
+donde continuó en su parrilla de programación hasta 2012 (CNLSE, 2015: 6). Por su 
+parte, Telemadrid en 1998 produce y emite «Signo a saber», de 25 minutos de dura­
+ción y carácter semanal. En octubre de 2012, Canal Sur decide convertir Canal Sur 2 
+en una cadena dedicada a dotar de accesibilidad los contenidos ofrecidos en su canal 
+4	
+Esta forma de presentar contenidos signados en televisión se denomina copresentación.
+
+12
+principal. De esta forma, Canal Sur incorporó la interpretación en lengua de signos 
+española para toda su programación. Por último, cabe llamar la atención por cuanto 
+algunas televisiones locales han impulsado la incorporación de la lengua de signos en 
+sus programaciones.
+A mediados de la primera década del siglo xxi y en el marco de las medidas de 
+impulso para el despliegue de la Televisión Digital Terrestre (TDT) se constituyó el Foro 
+Técnico de la Televisión Digital (FTTD), al que se adscribió el grupo de trabajo sobre 
+accesibilidad creado a finales de 2004 por iniciativa del Ministerio de Trabajo y Asun­
+tos Sociales y del Ministerio de Industria, Turismo y Comercio. Este grupo, que reunió a 
+todos los actores relevantes como asociaciones de usuarios, operadores de televisión, 
+centros de investigación, administraciones públicas, etc., creó una mayor conciencia so­
+bre la accesibilidad en la televisión y realizó aportaciones como identificar los servicios 
+de accesibilidad (incluida la incorporación de la lengua de signos) y diferenciar entre 
+los servicios, las herramientas técnicas disponibles y las implementaciones prácticas. El 
+trabajo de este grupo se plasmó en un documento (FTTD, 2005). 
+En los últimos lustros también se puede mencionar la incorporación de la lengua 
+de signos en retransmisiones de carácter político, como el debate sobre el estado de 
+la nación y las ruedas de prensa posteriores al consejo de ministros. En la figura 1 se 
+muestra una de estas retransmisiones en el Canal 24 Horas en anteriores legislaturas.
+Figura 1. 
+Ejemplo del servicio de lengua 
+de signos española en la rueda 
+de prensa posterior al consejo de 
+ministros. Estas ruedas de prensa 
+y los debates sobre el estado de la 
+nación han sido algunas de las re­
+transmisiones de contenido político 
+que ofrecían este servicio antes de 
+la promulgación de la Ley General 
+de la Comunicación Audiovisual.
+
+13
+Otro hito en la incorporación de la lengua de signos española en televisión fue 
+la Ley General de la Comunicación Audiovisual5, promulgada en el año 2010, al esta­
+blecer cuotas de prestación de servicios de accesibilidad para los operadores de televi­
+sión, incluyendo lengua de signos. Este hecho extendió la lengua de signos a cadenas 
+de televisión que no habían ofrecido previamente este servicio.
+En la web del CNLSE6 se ofrece una lista de los canales y de los programas que 
+incorporan en la actualidad lengua de signos española. Predominan los contenidos 
+informativos, tanto en televisiones de ámbito nacional como autonómico y tanto de 
+titularidad pública como privada. De entre las iniciativas más recientes recogidas por 
+el CNLSE para la incorporación de la lengua de signos española a la televisión se 
+pueden destacar dos. Por una parte, desde diciembre de 2015 el Canal 24 Horas de 
+TVE ofrece el servicio de interpretación en lengua de signos española todos los días de 
+lunes a viernes para el Telediario primera edición, simultáneamente a la emisión en La 
+1. Por otra parte, la plataforma de televisión de pago Movistar+ ha puesto en marcha 
+el servicio Movistar+ 5S, que mediante un dispositivo adicional como un teléfono móvil 
+o una tableta permite que las personas sordas y ciegas disfruten de una selección de 
+estrenos de cine y series accesibles a través de la interpretación en lengua de signos, el 
+subtitulado y la audiodescripción, de forma sincronizada con la emisión del programa7.
+Por su parte, Gil y Utray (2016) analizan y caracterizan las distintas implementa­
+ciones del servicio de lengua de signos en una variedad de canales a lo largo de una 
+semana elegida aleatoriamente (en concreto, la semana del lunes 10 al domingo 16 de 
+marzo de 2014), en un interesante artículo recientemente publicado en Área Abierta.
+En cuanto a otros medios audiovisuales que no son propiamente televisión, tam­
+bién se pueden mencionar otras iniciativas recientes, como Whatscine8, que es un pro­
+ducto destinado a las salas de cine y que permite que las personas sordas y ciegas 
+disfruten de la película sin que se vea afectado el audio o el vídeo que perciben el resto 
+de espectadores. Para ello y en el caso que concierne a esta guía, la lengua de signos 
+se presenta bien en el propio teléfono móvil o tableta del usuario (mediante una aplica­
+ción), bien en unas gafas especiales.
+5	
+Disponible en <http://www.boe.es/boe/dias/2010/04/01/pdfs/BOE-A-2010-5292.pdf>.
+6	
+Puede consultarse en <http://www.cnlse.es/es/resources/4/39>.
+7	
+Más información en: <http://www.plus.es/5s>.
+8	
+Más información en: <http://www.whatscine.es/>.
+
+14
+Entre estas iniciativas también se pueden mencionar los canales web de conteni­
+dos audiovisuales, como WebvisualTV9 y Zeinu TV10, especializados en noticias. Estos 
+canales cuentan con la característica adicional de que los presentadores son personas 
+sordas.
+Los informes creados por CENELEC11 (2003) y por la EBU12 (2004) en los prime­
+ros años del siglo xxi sobre la prestación de servicios de accesibilidad en la televisión 
+y las expectativas de implementación de los servicios en la televisión digital reflejan ya 
+las mismas preocupaciones y las mismas tendencias que en la actualidad.
+El servicio de interpretación en lengua de signos se ha proporcionado tradi­
+cionalmente en modo abierto, esto es, a la vista de todos los televidentes, necesiten 
+o no el servicio. La producción del servicio, descrita en EBU (2004), culmina con la 
+integración de la imagen de la persona que signa en el vídeo del programa (bien en 
+la modalidad de silueta, bien como una ventana, bien con distintas opciones de com­
+posición, según se explica más adelante en esta guía), de modo que se obtiene una 
+única señal de vídeo.
+Esta forma de prestar el servicio puede resultar molesta para personas que no 
+requieran la lengua de signos así como para aquellos televidentes que no entiendan 
+dicha lengua o que no se encuentren familiarizados con ella. Algunas fuentes (EBU, 
+2004) afirman que la lengua de signos puede distraer a tales usuarios. Además, todas 
+las implementaciones del servicio de lengua de signos ocasionan bien que una parte 
+de la imagen de programa quede oculta por la inserción de la ventana o silueta, bien 
+que la imagen del programa reduzca sus dimensiones para hacer sitio a la inserción 
+de la lengua de signos en la pantalla. Este hecho supone un inconveniente adicional 
+para aquellas personas que no son usuarias del servicio.
+Como consecuencia de lo anterior, los programas que incorporan el servicio de 
+lengua de signos no suelen programarse en el horario de máxima audiencia, en el que 
+podrían llegar también a más televidentes sordos y sordociegos usuarios del servicio, 
+sino en horarios de menor consumo televisivo, que con frecuencia son en la madru­
+gada. Los informes internacionales como CENELEC (2003) y EBU (2004) hablan de 
+9	
+Más información en: <http://www.webvisual.tv/>.
+10	 Más información en: <http://www.zeinu.tv/>.
+11	 European Committee for Electrotechnical Standardization, es el comité europeo de normalización 
+electrotécnica responsable de la normalización en el campo de la ingeniería electrotécnica.
+12	 La Unión Europea de Radiodifusión (UER), en inglés European Broadcasting Union (EBU), es una 
+organización internacional de radiodifusoras de servicio público.
+
+15
+«horarios antisociales» y el artículo de Gil y Utray (2016) señala que los programas 
+con lengua de signos se emiten en un horario marginal. Téngase también en cuenta la 
+importancia social de la televisión, esto es, cómo la televisión influye en la construcción 
+de la realidad social, cómo determina lo que es noticiable o lo que es conocido por la 
+mayoría de las personas y cómo lo que aparece en televisión dota de contenido a las 
+interacciones sociales.
+Además, como afirma la EBU (2004), la inserción del servicio de lengua de signos 
+en el vídeo del programa en modo abierto podría causar problemas relacionados con 
+los derechos de propiedad intelectual de las obras audiovisuales, al introducir cambios 
+en la apariencia y la composición visual respecto a la intención del creador de la obra.
+Por esta variedad de motivos, una implementación del servicio en modo cerrado 
+(esto es, de acuerdo con la demanda del usuario, como sí ocurre con los subtítulos o 
+con la audiodescripción) y configurable supondría grandes ventajas y sería un alicien­
+te para que los operadores aumentasen el tiempo dedicado al servicio de lengua de 
+signos en sus programaciones, o que el servicio se prestase en el horario de máxima 
+audiencia. No obstante, más importante que la prestación del servicio en modo cerrado 
+es la integración de opciones de configuración, de modo que se pueda personalizar la 
+presentación del servicio para satisfacer las expectativas de los usuarios.
+El informe de la EBU (2004) explica algunas de las líneas de investigación de los 
+operadores de televisión en la época: la prestación del servicio en modo cerrado y la 
+utilización de figuras humanas animadas o avatares para la provisión automática del 
+servicio de lengua de signos. Una implementación en modo cerrado podría realizarse 
+mediante un flujo adicional de vídeo de una tasa binaria reducida, de entre 200 y 400 
+kbps según EBU (2004: 37). Esta opción del flujo adicional de vídeo presenta el pro­
+blema de la necesidad de contar con un segundo circuito de descodificación de vídeo 
+en la pantalla de televisión, lo que encarece el producto en un mercado tan competitivo 
+como es la electrónica de consumo, por lo que nunca se ha llegado a desplegar. Alon­
+so et al., (2010) explican una implementación realizada bajo estas premisas sobre un 
+receptor de TV digital de mayores prestaciones realizada en el marco de la Cátedra 
+Indra - Fundación Adecco de la Universidad Politécnica de Madrid para las tecnologías 
+accesibles.
+Es muy relevante también la importancia que el informe de la EBU (2004: 39) 
+confiere a la programación infantil en lengua de signos, al tratarse de una parte crucial 
+del desarrollo lingüístico de los niños sordos cuyas familias hayan optado por esta len­
+
+16
+gua, dado que es probable que las personas de su entorno no tengan una competencia 
+lingüística plena en lengua de signos. Además, hay que tener en cuenta la escasa com­
+petencia lectora en las edades más tempranas.
+En los últimos años, la generalización del consumo de contenidos audiovisuales a 
+través de Internet ha dado lugar a un nuevo paradigma denominado «TV conectada» 
+que supone nuevas oportunidades de implementación del servicio de lengua de signos, 
+como se verá en un capítulo posterior.
+En cuanto a la utilización de intérpretes virtuales o avatares a la que se refiere el 
+informe de la EBU (2004), se contemplaba como una forma también de prestar el servi­
+cio en modo cerrado, de tal manera que fuese el receptor de televisión el que animase 
+el avatar a partir de una descripción de los movimientos que se enviaría junto con el 
+contenido audiovisual. De esta forma, se conseguía ahorrar tasa binaria de transmisión, 
+dado que tal descripción solo requeriría unos 50 kbps (EBU, 2004: 37). También el 
+documento del FTTD (2005: 81) diferenciaba entre la generación de los avatares en 
+el receptor de TV de la propia persona usuaria (nodo local) o en las instalaciones del 
+operador de televisión (nodo remoto).
+Ninguna de estas iniciativas relatadas en EBU (2004) como proyectos de investi­
+gación se encuentra desplegada en la actualidad pero sí revelan que las preocupacio­
+nes hace una década en cuanto al despliegue de la lengua de signos en televisión no 
+eran muy diferentes de las actuales.
+
+17
+3.	
+Revisión de la legislación de aplicación
+Este capítulo revisa en primer lugar las bases legales de la prestación del servicio de 
+lengua de signos en televisión en España, junto con otros servicios de accesibilidad. 
+La segunda parte del capítulo está dedicada a referencias internacionales. En ambos 
+casos se ha seguido un orden cronológico.
+3.1.	 Legislación española
+3.1.1	
+Constitución Española
+La integración de las personas con discapacidad y el reconocimien­
+to de sus derechos ya se mencionan en la Constitución Española de 
+197813, si bien empleando términos completamente superados en 
+la actualidad. Así, se reproduce a continuación el artículo 49 de la 
+Carta Magna:
+Los poderes públicos realizarán una política de previsión, tra­
+tamiento, rehabilitación e integración de los disminuidos físi­
+cos, sensoriales y psíquicos, a los que prestarán la atención 
+especializada que requieran y los ampararán especialmente 
+para el disfrute de los derechos que este Título otorga a todos 
+los ciudadanos. 
+3.1.2	
+Real Decreto por el que se aprueba el Plan técnico nacional de la 
+televisión digital terrestre (2005)
+Si bien no se contempla el caso de la lengua de signos, es interesan­
+te observar por su relación con la televisión cómo el Real Decreto 
+944/2005, de 29 de julio, por el que se aprueba el Plan técnico 
+nacional de la televisión digital terrestre14, establecía que los conce­
+sionarios de licencias de emisión de televisión que quisiesen optar a 
+canales adicionales debían comprometerse a ofrecer determinados 
+servicios de accesibilidad (disposición transitoria cuarta). Este real 
+decreto se enmarcó en un paquete más amplio de medidas de impul­
+so para el despliegue de la televisión digital en España.
+Este real decreto se encuentra derogado en la actualidad y ha sido 
+sustituido por el Real Decreto 805/2014, de 19 de septiembre, por 
+el que se aprueba el Plan Técnico Nacional de la Televisión Digital 
+13	 Disponible en <https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf>.
+14	 Disponible en <https://www.boe.es/boe/dias/2005/07/30/pdfs/A27006-27014.pdf>.
+
+18
+Terrestre y se regulan determinados aspectos para la liberación del 
+dividendo digital, que sin embargo no contiene ninguna alusión a la 
+accesibilidad.
+3.1.3	
+Ley por la que se reconocen las lenguas de signos españolas y se 
+regulan los medios de apoyo a la comunicación oral de las personas 
+sordas, con discapacidad auditiva y sordociegas
+La Ley 27/2007, de 23 de octubre, por la que se reconocen las 
+lenguas de signos españolas y se regulan los medios de apoyo a la 
+comunicación oral de las personas sordas, con discapacidad audi­
+tiva y sordociegas15, viene a responder a la previsión de regulación 
+que en su momento estableció la Ley 51/2003, de 2 de diciembre, 
+de igualdad de oportunidades, no discriminación y accesibilidad 
+universal de las personas con discapacidad (LIONDAU) (actualmen­
+te derogada) en cuanto al reconocimiento de las lenguas de signos 
+y de los medios de apoyo a la comunicación oral.
+El objeto de esta ley, según el primer párrafo del artículo 1 es:
+La presente Ley tiene por objeto reconocer y regular la lengua 
+de signos española como lengua de las personas sordas, con 
+discapacidad auditiva y sordociegas en España que libremen­
+te decidan utilizarla, sin perjuicio del reconocimiento de la len­
+gua de signos catalana en su ámbito de uso lingüístico, así 
+como la regulación de los medios de apoyo a la comunicación 
+oral.
+El artículo 4 contiene definiciones de aplicación en la ley. Por su 
+interés para esta guía de buenas prácticas, se reproducen a conti­
+nuación varias de estas definiciones:
+a)	Lengua de signos: Son las lenguas o sistemas lingüísticos 
+de carácter visual, espacial, gestual y manual en cuya con­
+formación intervienen factores históricos, culturales, lingüís­
+ticos y sociales, utilizadas tradicionalmente como lenguas 
+por las personas sordas, con discapacidad auditiva y sor­
+dociegas signantes en España.
+15	 Disponible en: <http://www.boe.es/boe/dias/2007/10/24/pdfs/A43251-43259.pdf>.
+
+19
+b)	Lengua oral: Son las lenguas o sistemas lingüísticos corres­
+pondientes a las lenguas reconocidas oficialmente en la 
+Constitución Española y, para sus respectivos ámbitos terri­
+toriales, en los Estatutos de Autonomía, utilizada como len­
+gua por las personas sordas, con discapacidad auditiva y 
+sordociegas oralistas en España.
+c)	 Medios de apoyo a la comunicación oral: son aquellos có­
+digos y medios de comunicación, así como los recursos tec­
+nológicos y ayudas técnicas usados por las personas sor­
+das, con discapacidad auditiva y sordociegas que facilitan 
+el acceso a la expresión verbal y escrita de la lengua oral, 
+favoreciendo una comunicación con el entorno más plena.
+d)	Personas sordas o con discapacidad auditiva: Son aquellas 
+personas a quienes se les haya reconocido por tal motivo, 
+un grado de minusvalía igual o superior al 33 por ciento, 
+que encuentran en su vida cotidiana barreras de comunica­
+ción o que, en el caso de haberlas superado, requieren me­
+dios y apoyos para su realización.
+e)	 Personas con sordoceguera: Son aquellas personas con un 
+deterioro combinado de la vista y el oído que dificulta su 
+acceso a la información, a la comunicación y a la movili­
+dad. Esta discapacidad afecta gravemente las habilidades 
+diarias necesarias para una vida mínimamente autónoma, 
+requiere servicios especializados, personal específicamente 
+formado para su atención y métodos especiales de comuni­
+cación.
+f)	 Usuario o usuaria de una lengua: Es aquella persona que 
+utiliza una determinada lengua para comunicarse con el en­
+torno. Aquellas personas que son usuarias de dos lenguas 
+son consideradas como bilingües.
+g)	Usuario o usuaria de la lengua de signos: Es aquella perso­
+na que utiliza la lengua de signos para comunicarse.
+h) Usuario o usuaria de medios de apoyo a la comunicación 
+oral: aquella persona sorda, con discapacidad auditiva y 
+
+20
+sordociega que precisa de medios de apoyo a la comunica­
+ción oral para acceder a la información y a la comunicación 
+en el entorno social.
+i)	 Intérprete de lengua de signos: Profesional que interpreta y 
+traduce la información de la lengua de signos a la lengua 
+oral y escrita y viceversa con el fin de asegurar la comunica­
+ción entre las personas sordas, con discapacidad auditiva y 
+sordociegas, que sean usuarias de esta lengua, y su entorno 
+social.
+También resulta de especial relevancia el artículo 5 de la ley, al 
+contener los principios generales que inspiran esta ley, según se re­
+produce a continuación:
+Artículo 5. Principios generales.
+Esta Ley se inspira en los siguientes principios:
+a)	ransversalidad de las políticas en materia de lengua de sig­
+nos y medios de apoyo a la comunicación oral: Las actua­
+ciones que desarrollen las Administraciones Públicas no se 
+limitarán únicamente a planes, programas y acciones es­
+pecíficos, pensados exclusivamente para las personas sor­
+das, con discapacidad auditiva y sordociegas usuarias de 
+dichas modalidades lingüísticas o medios de apoyo, sino 
+que han de comprender las políticas y líneas de acción de 
+carácter general en cualquiera de los ámbitos de actuación 
+pública, teniendo en cuenta las diversas necesidades y de­
+mandas de las personas usuarias de las mismas.
+b)	Accesibilidad universal: Los entornos, procesos, bienes, pro­
+ductos y servicios, así como los objetos e instrumentos, he­
+rramientas y dispositivos deben cumplir las condiciones ne­
+cesarias para ser comprensibles, utilizables y practicables 
+por todas las personas en condiciones de seguridad y co­
+modidad y de la forma más autónoma y natural posible.
+c)	 Libertad de elección: Las personas sordas, con discapaci­
+dad auditiva y sordociegas y, en su caso, sus padres o re­
+presentantes legales, en el supuesto de que sean menores 
+
+21
+de edad o estén incapacitadas podrán optar por la lengua 
+oral y/o la lengua de signos española y/o las lenguas de 
+signos propias de las Comunidades Autónomas.
+d)	No discriminación: Ninguna persona podrá ser discrimina­
+da ni tratada desigualmente, directa o indirectamente, por 
+ejercer su derecho de opción al uso de la lengua de signos 
+española y/o de las lenguas de signos propias de las Co­
+munidades Autónomas y/o de medios de apoyo a la comu­
+nicación oral en cualquier ámbito, sea público o privado.
+e)	 Normalización: Principio en virtud del cual las personas sor­
+das, con discapacidad auditiva y sordociegas deben poder 
+llevar una vida normal, accediendo a los mismos lugares, 
+ámbitos, bienes y servicios que están a disposición de cual­
+quier persona.
+El artículo 14 de esta ley se refiere a los medios de comunicación 
+social, telecomunicaciones y sociedad de la información y establece 
+varias medidas en este ámbito para promover la accesibilidad me­
+diante el uso de la lengua de signos española. Por su relación con 
+esta guía, se reproducen a continuación los dos primeros párrafos 
+del citado artículo.
+1.	Los poderes públicos promoverán las medidas necesarias 
+para que los medios de comunicación social, de conformi­
+dad con lo previsto en su regulación específica, sean acce­
+sibles a las personas sordas, con discapacidad auditiva y 
+sordociegas mediante la incorporación de las lenguas de 
+signos españolas.
+2.	Asimismo, los poderes públicos adoptarán las medidas ne­
+cesarias para que las campañas de publicidad instituciona­
+les y los distintos soportes audiovisuales en los que éstas se 
+pongan a disposición del público sean accesibles a estas 
+personas.
+
+22
+3.1.4	
+Real Decreto por el que se aprueba el Reglamento sobre las condi­
+ciones básicas para el acceso de las personas con discapacidad a las 
+tecnologías, productos y servicios relacionados con la sociedad de la 
+información y medios de comunicación social
+El Real Decreto 1494/2007, de 12 de noviembre, por el que se 
+aprueba el Reglamento sobre las condiciones básicas para el acce­
+so de las personas con discapacidad a las tecnologías, productos y 
+servicios relacionados con la sociedad de la información y medios 
+de comunicación social16, es también una referencia de interés por 
+abordar específicamente la prestación del servicio de lengua de sig­
+nos en televisión. A continuación se reproduce por su interés el artí­
+culo 10 de este real decreto:
+Artículo 10. Condiciones básicas de accesibilidad a los conte­
+nidos de la televisión.
+1.	Las personas con discapacidad tendrán acceso a los conte­
+nidos de los medios de comunicación audiovisual, con arre­
+glo a las disponibilidades que permite el progreso técnico, 
+los diseños universales y los ajustes razonables que, para 
+atender las singularidades que presentan estas personas, 
+sea preciso llevar a cabo.
+2.	Los contenidos audiovisuales de la televisión serán accesibles 
+a las personas con discapacidad mediante la incorporación 
+de la subtitulación, la audiodescripción y la interpretación 
+en lengua de signos, en los términos establecidos específi­
+camente en la legislación general audiovisual, que regulará, 
+con carácter de norma básica, las condiciones de acceso y 
+no discriminación en los contenidos de la televisión.
+El artículo 11 de este real decreto se refiere a las condiciones de 
+accesibilidad de la televisión digital, pero no menciona la lengua 
+de signos, sino que se refiere a la accesibilidad en sí del servicio de 
+televisión y de los dispositivos receptores, mientras que el artículo 10 
+(que se acaba de transcribir) se centra en la accesibilidad del con­
+tenido, identificando tres servicios: subtitulación, audiodescripción 
+16	 Disponible en <https://www.boe.es/buscar/pdf/2007/BOE-A-2007-19968-consolidado.pdf>
+
+23
+y lengua de signos. Los dos primeros cuentan con guías de buenas 
+prácticas publicadas como normas UNE de AENOR con los códigos 
+UNE 15301017 y UNE 15302018, respectivamente.
+3.1.5	
+Ley de financiación de la Corporación de Radio y Televisión Española
+Si bien la Ley General de la Comunicación Audiovisual que se intro­
+ducirá enseguida marca un punto de inflexión en las disposiciones 
+legislativas relativas a la inclusión de la lengua de signos en televi­
+sión, un año antes se había promulgado la Ley 8/2009, de 28 de 
+agosto, de financiación de la Corporación de Radio y Televisión 
+Española19, que ya introducía la obligación de Televisión Española 
+de prestar el servicio de lengua de signos con el horizonte temporal 
+de 2013. El artículo 9 de esta ley, el cual recoge obligaciones adi­
+cionales de servicio público para la corporación RTVE, establece en 
+su párrafo 1.e):
+e)	 Antes de primero de enero de 2013 subtitular el 90 % de los 
+programas y alcanzar progresivamente el 100 %, siempre 
+que las posibilidades técnicas lo permitan, y emitir, al me­
+nos, a la semana diez horas de interpretación con lengua 
+de signos y otras diez horas audiodescritas. En las emisio­
+nes territorializadas se tendrá en cuenta la realidad lingüís­
+tica de cada Comunidad Autónoma.
+3.1.6	
+Ley General de la Comunicación Audiovisual
+La Ley 7/2010, de 31 de marzo, General de la Comunicación Au­
+diovisual20 es un referente legislativo fundamental para la accesibili­
+dad en España ya que establece la obligación de prestar el servicio 
+de lengua de signos (así como los de subtitulado y audiodescripción) 
+para los operadores de TV, con independencia de su ámbito (autonó­
+mico o estatal) o de que sean o no de servicio público. El artículo 8 
+de esta ley, que se reproduce a continuación, no solo establece esta 
+17	 UNE 153010:2012 «Subtitulado para personas sordas y personas con discapacidad auditiva».
+18	 UNE 153020:2005 «Audiodescripción para personas con discapacidad visual. Requisitos para la 
+audiodescripción y elaboración de audioguías».
+19	 Disponible en <https://www.boe.es/boe/dias/2009/08/31/pdfs/BOE-A-2009-13988.pdf>
+20	 Disponible en <http://www.boe.es/boe/dias/2010/04/01/pdfs/BOE-A-2010-5292.pdf>
+
+24
+obligación para los operadores, sino que comienza reconociendo el 
+derecho a la comunicación audiovisual accesible y termina con un 
+párrafo invitando a que los prestadores de los servicios contribuyan 
+a una representación social normalizada e inclusiva de las personas 
+con discapacidad.
+Artículo 8. Los derechos de las personas con discapacidad
+1.	Las personas con discapacidad visual o auditiva tienen el 
+derecho a una accesibilidad universal a la comunicación 
+audiovisual, de acuerdo con las posibilidades tecnológicas.
+2.	Las personas con discapacidad auditiva tienen el derecho 
+a que la comunicación audiovisual televisiva, en abierto y 
+cobertura estatal o autonómica, subtitule el 75% de los pro­
+gramas y cuente al menos con dos horas a la semana de 
+interpretación con lengua de signos.
+3.	Las personas con discapacidad visual tienen el derecho a 
+que la comunicación audiovisual televisiva, en abierto y co­
+bertura estatal o autonómica, cuente al menos con dos ho­
+ras audiodescritas a la semana.
+4.	Los poderes públicos y los prestadores fomentarán el disfru­
+te pleno de la comunicación audiovisual para las personas 
+con discapacidad y el uso de buenas prácticas que evite 
+cualquier discriminación o repercusión negativa hacia di­
+chas personas.
+Con objeto de garantizar la calidad del servicio y la satisfac­
+ción de las personas destinatarias, los prestadores del servicio 
+de comunicación audiovisual deberán atenerse, en la aplica­
+ción de las medidas de accesibilidad, a las normas técnicas 
+vigentes en cada momento en relación con la subtitulación, la 
+emisión en lengua de signos y la audio-descripción. Los pres­
+tadores de servicios de comunicación audiovisual podrán em­
+plear, excepto la Corporación RTVE, el patrocinio para sufra­
+gar las medidas de accesibilidad.
+5.	Los prestadores del servicio de comunicación audiovisual 
+procurarán ofrecer en sus emisiones una imagen ajustada, 
+
+25
+normalizada, respetuosa e inclusiva de las personas con 
+discapacidad, en tanto que manifestación enriquecedora 
+de la diversidad humana, evitando difundir percepciones 
+estereotipadas, sesgadas o producto de los prejuicios socia­
+les que pudieran subsistir. De igual modo, procurarán que 
+su aparición en la programación sea proporcional al peso 
+y a la participación de estas personas en el conjunto de la 
+sociedad.
+Esta ley, en su disposición transitoria quinta, establecía distintas cuo­
+tas para los servicios de accesibilidad año a año hasta el 31 de 
+diciembre de 2013. Estas cuotas eran mayores para los operadores 
+de servicio público.
+La Comisión Nacional de los Mercados y de la Competencia (CNMC) 
+es el órgano encargado de verificar que los distintos operadores sa­
+tisfacen las cuotas de servicios de accesibilidad previstos en la ley21. 
+La referencia (CNMC, 2016) consiste en el análisis de la prestación 
+de los servicios para el periodo 2014/2015.
+Órganos reguladores como el Consejo Audiovisual de Andalucía 
+y el Consejo Audiovisual de Cataluña han publicado instrucciones 
+sobre los contenidos que han de incorporar lengua de signos (Gil, 
+2016).
+3.1.7	
+Real Decreto Legislativo por el que se aprueba el Texto Refundido de 
+la Ley General de derechos de las personas con discapacidad y de su 
+inclusión social
+El Real Decreto Legislativo 1/2013, de 29 de noviembre, por el 
+que se aprueba el Texto Refundido de la Ley General de derechos 
+de las personas con discapacidad y de su inclusión social22 es otra 
+referencia básica al suponer el reconocimiento de los derechos de 
+las personas con discapacidad. Es la última referencia legislativa a 
+la que se refiere esta guía por tratarse de la de promulgación más 
+reciente. Este Real Decreto Legislativo viene a realizar una tarea de 
+21	 La CNMC realiza esta labor mediante las herramientas de monitorización del CESyA, según se 
+explica aquí: http://www.cesya.es/servicios.
+22	 Disponible en <https://www.boe.es/boe/dias/2013/12/03/pdfs/BOE-A-2013-12632.pdf>
+
+26
+refundición de varias leyes existentes previamente, aclarando y ar­
+monizando el marco legislativo. 
+Por su interés se reproduce a continuación el artículo 1 de esta ley, 
+que establece el objeto de la misma:
+Artículo 1. Objeto de esta ley.
+Esta ley tiene por objeto:
+a)	Garantizar el derecho a la igualdad de oportunidades y 
+de trato, así como el ejercicio real y efectivo de derechos 
+por parte de las personas con discapacidad en igualdad 
+de condiciones respecto del resto de ciudadanos y ciuda­
+danas, a través de la promoción de la autonomía personal, 
+de la accesibilidad universal, del acceso al empleo, de la 
+inclusión en la comunidad y la vida independiente y de la 
+erradicación de toda forma de discriminación, conforme a 
+los artículos 9.2, 10, 14 y 49 de la Constitución Española 
+y a la Convención Internacional sobre los Derechos de las 
+Personas con Discapacidad y los tratados y acuerdos inter­
+nacionales ratificados por España.
+b)	Establecer el régimen de infracciones y sanciones que ga­
+rantizan las condiciones básicas en materia de igualdad de 
+oportunidades, no discriminación y accesibilidad universal 
+de las personas con discapacidad.
+El artículo 23 de esta ley reconoce la lengua de signos como un ser­
+vicio auxiliar para la comunicación, destinado a asegurar las condi­
+ciones básicas de accesibilidad y no discriminación, como muestran 
+los siguientes párrafos extraídos de dicho artículo:
+2.	Las condiciones básicas de accesibilidad y no discrimina­
+ción establecerán, para cada ámbito o área, medidas con­
+cretas para prevenir o suprimir discriminaciones, y para 
+compensar desventajas o dificultades. Se incluirán disposi­
+ciones sobre, al menos, los siguientes aspectos:
+[...]
+c)	 Apoyos complementarios, tales como ayudas económicas, 
+productos y tecnologías de apoyo, servicios o tratamientos 
+
+27
+especializados, otros servicios personales, así como otras 
+formas de apoyo personal o animal. En particular, ayudas 
+y servicios auxiliares para la comunicación, como sistemas 
+aumentativos y alternativos, braille, dispositivos multimedia 
+de fácil acceso, sistemas de apoyos a la comunicación oral 
+y lengua de signos, sistemas de comunicación táctil y otros 
+dispositivos que permitan la comunicación.
+El artículo 24 establece las «Condiciones básicas de accesibilidad y 
+no discriminación en el ámbito de los productos y servicios relacio­
+nados con la sociedad de la información y medios de comunicación 
+social» y emplaza a un desarrollo reglamentario posterior para esta­
+blecer los términos y los plazos de dichas condiciones básicas.
+3.2.	 Referencias internacionales
+Además de la legislación de aplicación en España que se acaba de detallar, 
+también hay referencias internacionales de interés sobre la accesibilidad y el 
+uso de la lengua de signos que se explican a continuación.
+3.2.1	
+Declaración universal de derechos lingüísticos
+La declaración universal de derechos lingüísticos23 fue firmada en 
+Barcelona en junio de 1996 con el apoyo de la UNESCO. Si bien 
+no menciona el caso de las lenguas de signos ni trata de accesi­
+bilidad, su relevancia radica en que menciona «el derecho a una 
+presencia equitativa de la lengua y la cultura del grupo en los me­
+dios de comunicación». Así, su sección cuarta se titula «Medios de 
+comunicación y nuevas tecnologías» y consta de los artículos que se 
+transcriben a continuación. 
+Artículo 35
+Toda comunidad lingüística tiene derecho a decidir cuál debe 
+ser el grado de presencia de su lengua en los medios de co­
+municación de su territorio, tanto en los locales y tradicionales 
+como en los de mayor ámbito de difusión y de tecnología más 
+avanzada, independientemente del sistema de difusión o trans­
+misión utilizado.
+23	 Disponible en <http://culturalrights.net/descargas/drets_culturals388.pdf>
+
+28
+Artículo 36
+Toda comunidad lingüística tiene derecho a disponer de todos 
+los medios humanos y materiales necesarios para asegurar el 
+grado deseado de presencia de su lengua y de autoexpresión 
+cultural en los medios de comunicación de su territorio: perso­
+nal debidamente formado, financiación, locales y equipos, me­
+dios tecnológicos tradicionales e innovadores.
+Artículo 37
+Toda comunidad lingüística tiene derecho a recibir, a través de 
+los medios de comunicación, un conocimiento profundo de su 
+patrimonio cultural (historia y geografía, literatura y otras ma­
+nifestaciones de la propia cultura), así como el máximo grado 
+de información posible de cualquier otra cultura que deseen 
+conocer sus miembros.
+Artículo 38
+Todas las lenguas y las culturas de las comunidades lingüísti­
+cas deben recibir un trato equitativo y no discriminatorio en los 
+contenidos de los medios de comunicación de todo el mundo.
+Artículo 39
+Las comunidades descritas en el Artículo 1, párrafos 3 y 4 de 
+esta Declaración, así como los grupos mencionados en el pá­
+rrafo 5 del mismo artículo, tienen derecho a una representa­
+ción equitativa de su lengua en los medios de comunicación 
+del territorio donde se han establecido o se desplazan. El ejer­
+cicio de este derecho debe estar en armonía con el ejercicio 
+de los derechos propios de los otros grupos o comunidades 
+del territorio.
+Artículo 40
+Toda comunidad lingüística tiene derecho a disponer, en el 
+campo informático, de equipos adaptados a su sistema lingüís­
+tico y herramientas y productos en su lengua, para aprovechar 
+plenamente el potencial que ofrecen estas tecnologías para la 
+autoexpresión, la educación, la comunicación, la edición, la 
+
+29
+traducción y, en general, el tratamiento de la información y la 
+difusión cultural.
+3.2.2	
+Convención sobre los derechos de las personas con discapacidad
+La Convención sobre los derechos de las personas con discapacidad 
+y su Protocolo Facultativo24 fueron aprobados el 13 de diciembre de 
+2006 en la Sede de las Naciones Unidas en Nueva York. La Con­
+vención se concibió como un instrumento de derechos humanos con 
+una dimensión explícita de desarrollo social.
+Esta Convención reconoce explícitamente las lenguas de signos, ya 
+que en las definiciones iniciales considera que lenguaje es tanto «el 
+lenguaje oral como la lengua de señas y otras formas de comunica­
+ción no verbal». Nótese que emplea la denominación «lengua de 
+señas», de uso en algunos países americanos, en lugar de «lengua 
+de signos», que es la expresión habitual y reconocida legalmente en 
+España.
+El artículo 9 de la Convención, que se dedica a la Accesibilidad, se 
+extracta a continuación:
+1.	A fin de que las personas con discapacidad puedan vivir 
+en forma independiente y participar plenamente en todos 
+los aspectos de la vida, los Estados Partes adoptarán me­
+didas pertinentes para asegurar el acceso de las personas 
+con discapacidad, en igualdad de condiciones con las de­
+más, al entorno físico, el transporte, la información y las 
+comunicaciones, incluidos los sistemas y las tecnologías de 
+la información y las comunicaciones, y a otros servicios e 
+instalaciones abiertos al público o de uso público, tanto en 
+zonas urbanas como rurales. Estas medidas, que incluirán 
+la identificación y eliminación de obstáculos y barreras de 
+acceso, se aplicarán, entre otras cosas, a: 
+a)	Los edificios, las vías públicas, el transporte y otras insta­
+laciones exteriores e interiores como escuelas, viviendas, 
+instalaciones médicas y lugares de trabajo;
+24	 Disponible en <http://www.un.org/disabilities/documents/convention/convoptprot-s.pdf>
+
+30
+b)	Los servicios de información, comunicaciones y de otro 
+tipo, incluidos los servicios electrónicos y de emergencia. 
+Además, el artículo 30 de la Convención contempla el acceso por 
+parte de las personas con discapacidad a programas de televisión, 
+películas, teatro y otras actividades culturales: 
+1.	Los Estados Partes reconocen el derecho de las personas 
+con discapacidad a participar, en igualdad de condiciones 
+con las demás, en la vida cultural y adoptarán todas las me­
+didas pertinentes para asegurar que las personas con disca­
+pacidad: 
+a)	Tengan acceso a material cultural en formatos accesi­
+bles; 
+b)	Tengan acceso a programas de televisión, películas, tea­
+tro y otras actividades culturales en formatos accesibles; 
+c)	 Tengan acceso a lugares en donde se ofrezcan repre­
+sentaciones o servicios culturales tales como teatros, mu­
+seos, cines, bibliotecas y servicios turísticos y, en la medi­
+da de lo posible, tengan acceso a monumentos y lugares 
+de importancia cultural nacional. 
+3.	Los Estados Partes tomarán todas las medidas pertinentes, 
+de conformidad con el derecho internacional, a fin de ase­
+gurar que las leyes de protección de los derechos de propie­
+dad intelectual no constituyan una barrera excesiva o discri­
+minatoria para el acceso de las personas con discapacidad 
+a materiales culturales.
+4.	Las personas con discapacidad tendrán derecho, en igual­
+dad de condiciones con las demás, al reconocimiento y el 
+apoyo de su identidad cultural y lingüística específica, in­
+cluidas la lengua de señas y la cultura de los sordos. 
+3.2.3	
+Directiva de servicios de comunicación audiovisual
+La directiva 2010/13/UE de servicios de comunicación audiovisual 
+del Parlamento Europeo y del Consejo25 es también conocida por sus 
+25	 Disponible en <http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32010L0013&­
+from=EN>
+
+31
+siglas en inglés: AVMSD (Audiovisual Media Services Directive). Esta 
+directiva contiene un artículo sobre la accesibilidad de los medios de 
+comunicación, según se transcribe a continuación.
+Artículo 7
+Los Estados miembros alentarán a los servicios de comunica­
+ción audiovisual bajo su jurisdicción a garantizar que sus ser­
+vicios sean gradualmente accesibles a las personas con una 
+discapacidad visual o auditiva.
+Sin embargo, esta directiva se encuentra actualmente en proceso de 
+revisión. A finales de mayo de 2016 la Comisión Europea publicó 
+una nueva propuesta26, que elimina el artículo 7 por entender que la 
+directiva de accesibilidad propuesta en diciembre de 2015 es más 
+estricta.
+3.2.4	
+Propuesta de directiva de accesibilidad
+Esta propuesta27 se publicó en diciembre de 2015 y trata de las 
+disposiciones legales, reglamentarias y administrativas de los Esta­
+dos miembros por lo que se refiere a los requisitos de accesibilidad 
+de los productos y los servicios. No menciona la lengua de signos. 
+Para los requisitos de accesibilidad a los medios de comunicación 
+audiovisual remite a la sección IV del anexo I, que se reproduce par­
+cialmente a continuación.
+SECCIÓN IV. Servicios de comunicación audiovisual y equi­
+pos de consumo asociados con capacidad de computación 
+avanzada
+A.	Servicios:
+1.	Con el fin de optimizar su uso previsible por las personas 
+con limitaciones funcionales, incluidas las personas con dis­
+capacidad, la prestación de los servicios se efectuará:
+26	 Disponible en <http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:52016PC0287&­
+from=EN>
+27	 Disponible en <https://ec.europa.eu/transparency/regdoc/rep/1/2015/ES/1-2015-615-ES-F1-1.
+PDF>
+
+32
+a)	garantizando la accesibilidad de los productos usados 
+para la prestación del servicio de conformidad con las 
+disposiciones de la parte B, («Equipos de consumo aso­
+ciados con capacidad de computación avanzada»);
+b)	facilitando información sobre el funcionamiento del ser­
+vicio y sobre sus características de accesibilidad e insta­
+laciones conforme a lo siguiente:
+i)	 el contenido de la información estará disponible en 
+formatos de texto que puedan utilizarse para generar 
+formatos asistenciales alternativos para su presenta­
+ción de diferentes modos por los usuarios y a través 
+de más de un canal sensorial,
+ii)	 se ofrecerán alternativas al contenido no textual,
+iii)	la información electrónica, incluidas las aplicaciones en 
+línea asociadas necesarias para la prestación del servi­
+cio, se proporcionará de conformidad con la letra c);
+c)	 haciendo accesibles los sitios web de manera adecuada 
+y coherente para su percepción, utilización y comprensión 
+por los usuarios, incluida la adaptabilidad de la presenta­
+ción y la interacción de sus contenidos, en caso necesario, 
+proporcionando una alternativa electrónica accesible; y de 
+manera que se facilite la interoperabilidad con una varie­
+dad de agentes de usuario y tecnologías asistenciales en la 
+Unión Europea y a nivel internacional;
+d)	proporcionando información accesible para facilitar la com­
+plementariedad con los servicios asistenciales;
+e)	 incluyendo funciones, prácticas, políticas y procedimientos 
+y cambios en el funcionamiento del servicio con la finalidad 
+de abordar las necesidades de las personas con limitacio­
+nes funcionales.
+
+33
+4.	 Iniciativas y proyectos previos
+Este capítulo trata de revisar los últimos proyectos y avances tecnológicos que pueden 
+aplicarse a la incorporación de la lengua de signos en televisión. Existiendo ya la tecnolo­
+gía, ha de prevalecer el derecho de las personas sordas y sordociegas a la accesibilidad 
+a los contenidos.
+En el momento de la elaboración de esta guía han surgido nuevas oportunidades de 
+implementación del servicio de lengua de signos a través de Internet. A partir de una si­
+tuación en la que se diferenciaba claramente, por una parte, la transmisión de contenidos 
+audiovisuales a través de redes de difusión de televisión y, por otra parte, la transmisión 
+de datos a través de Internet destinados a los ordenadores, el entorno tecnológico ha 
+evolucionado hacia la situación actual de convergencia de servicios, redes y terminales.
+Así, es cada vez más habitual el consumo de contenidos audiovisuales recibidos a 
+través de Internet. En el capítulo 2 se ha visto, por ejemplo, cómo esta vía está sirviendo 
+para la puesta en marcha en nuevos canales de información en lengua de signos hechos 
+por y para las personas sordas.
+Desde la perspectiva de la televisión este proceso de convergencia tecnológica da 
+lugar al nuevo paradigma de la TV Conectada o de la TV híbrida, caracterizada por la 
+existencia de receptores híbridos de televisión que disponen de conexión a Internet, de 
+modo que los contenidos que reproducen no solo proceden de una red de difusión de 
+televisión (por ejemplo, la TDT), sino también de Internet (asumiendo una conexión de 
+banda ancha).
+El acceso a Internet supone una gran oportunidad para el despliegue de nuevos 
+contenidos y servicios debido a varias características inherentes de la conexión a Internet 
+de banda ancha, como la posibilidad de estar permanentemente conectado, la interactivi­
+dad real (que permite al espectador acceder a contenidos vía Internet, que complementan 
+los que recibe por la red de difusión) y la personalización de los contenidos que reprodu­
+ce la pantalla de televisión.
+Los fabricantes de pantallas han puesto en marcha sus servicios de TV Conectada 
+utilizando en ocasiones la denominación «Smart TV». En este tipo de implementaciones, 
+es el fabricante el que controla el portal de contenidos al que acceden sus propias pan­
+tallas. Así pues, estos sistemas pueden basarse en especificaciones propietarias, puesto 
+que una pantalla solo ha de entenderse con el portal de contenidos del mismo fabricante.
+También ha surgido una iniciativa internacional de interoperabilidad y de estanda­
+rización de la TV Conectada denominada HbbTV (Hybrid Broadcast Broadband TV), de 
+
+34
+modo que los operadores de televisión también puedan explotar sus propios portales de 
+contenidos, sin depender de los fabricantes de las pantallas. En España, los operadores 
+que más han apostado por esta tecnología son Televisió de Catalunya y Radio Televisión 
+Española. Esta última promociona su portal de HbbTV como «Botón rojo». Una tecnología 
+estándar como HbbTV permite que haya interoperabilidad a lo largo de la cadena de 
+valor, de modo que un usuario pueda adquirir cualquier modelo de pantalla de cualquier 
+fabricante con la certeza de que podrá acceder a los contenidos ofrecidos por cualquier 
+operador.
+De la misma forma que la TV Conectada (bien basada en la especificación estándar 
+HbbTV, bien basada en las especificaciones propietarias de los fabricantes) implica un 
+gran potencial de despliegue de contenidos y servicios gracias a la disponibilidad de la 
+conexión a Internet, este potencial también puede aprovecharse para facilitar el desplie­
+gue de los servicios de accesibilidad y, particularmente, de la lengua de signos. En estas 
+premisas se ha basado el proyecto HBB4ALL28 (Hybrid Broadcast Broadband For All, esto 
+es, televisión híbrida para todas las personas), cofinanciado por la Comisión Europea en 
+el marco del programa CIP (Competitiveness and Innovation Framework Programme). Este 
+proyecto, cuya duración se extiende de finales de 2013 a finales de 2016, ha desplega­
+do una serie de pilotos de servicios de accesibilidad basados en el estándar HbbTV. Uno 
+de estos pilotos ha sido de lengua de signos y lo ha llevado a cabo la televisión pública 
+de las regiones de Berlín y Brandemburgo (RBB) en Alemania.
+Una de las posibles implementaciones de la lengua de signos sobre el estándar Hbb­
+TV sería la transmisión como streaming real (en contraposición a la descarga progresiva 
+de un fichero sobre HTTP) de un flujo de vídeo a través de Internet con el servicio de tra­
+ducción o interpretación en lengua de signos. De esta forma, una persona que estuviese 
+viendo un programa a través de la red de difusión (por ejemplo, la TDT), podría activar 
+la lengua de signos (proveniente de Internet) en cualquier momento. Además, al tratarse 
+de flujos de vídeo diferentes e independientes podría configurar la composición del pro­
+grama principal y la lengua de signos. Sin embargo, esta implementación no es posible 
+porque requiere dos descodificadores de vídeo (uno para cada señal), lo que encarece 
+las pantallas como ya se ha explicado.
+La alternativa es que una vez que el usuario seleccione la presentación del servicio 
+de lengua de signos, se entregue a través de Internet un flujo de vídeo que ya integre 
+ambas señales, esto es, el programa y la lengua de signos. RTVE, de forma indepen­
+28	 Puede consultarse en <http://www.hbb4all.eu>
+
+35
+diente, ha planteado también esta modalidad de incorporación de la lengua de signos 
+española para programas informativos, como se tuvo ocasión de ver en el Congreso 
+CNLSE 201529. También, RTVE en colaboración con la Fundación CNSE, CNLSE y ED­
+SOL Producciones realizó con éxito, en marzo de 2016, una prueba piloto de streaming 
+en directo del programa «Los desayunos de TVE» utilizando el sistema de retransmisión 
+MPEG-DASH, compatible con los televisores HbbTV. El reparto de elementos en pantalla 
+(cuadro con la imagen principal, cuadro de lengua de signos y cajetín de subtítulos) y sus 
+respectivos tamaños fueron configurados según las recomendaciones del CNLSE30.
+En este caso, también son posibles las opciones de personalización, pero requiere 
+que el operador de televisión cree flujos de vídeos alternativos con todas las opciones de 
+configuración que estarán a disposición de los usuarios (por ejemplo, si los usuarios van 
+a poder elegir entre dos tamaños distintos de la persona que signa es preciso generar 
+dos flujos diferentes, que integren la señal de programa y la persona que signa en ambos 
+tamaños). Una implementación de este tipo para programas emitidos por el canal de di­
+fusión requiere también streaming real.
+La implementación realizada por la RBB en el marco del proyecto HBB4ALL (de la 
+que se mostrará una captura más adelante) es algo diferente, ya que no ha conferido la 
+accesibilidad a contenidos lineales, sino que los contenidos signados estaban disponibles 
+a través de la aplicación HbbTV de TV a la carta para un programa ya emitido.
+En el proyecto HBB4ALL también se han realizado pruebas adicionales con usuarios 
+reales en condiciones de laboratorio. De acuerdo con la ponencia de la Universidad Au­
+tónoma de Barcelona en el Congreso CNLSE en 2015, los experimentos de eye-tracking 
+(esto es, seguimiento de la posición precisa del ojo al visualizar una interfaz gráfica) 
+han permitido comprobar que los usuarios concentran su atención fundamentalmente en 
+la cara de la persona que signa, mientras que los signos ejecutados con brazos, manos 
+y dedos se perciben más bien con la visión periférica. Esta constatación justifica la im­
+portancia de la expresión facial (y la visibilidad de la cara) para la inteligibilidad de la 
+lengua de signos en televisión.
+Los resultados de las pruebas con medidas de movimientos oculares (eye-tracking) 
+realizados en el proyecto HBB4ALL muestran que no hay diferencias significativas en el 
+comportamiento de exploración visual de la pantalla en función de la posición de la sub­
+pantalla del intérprete (derecha o izquierda) y los dos tamaños de la misma (1/4 o 1/5 
+29	 Vídeos disponibles en <http://bit.ly/1KVtOoD>
+30	 Un ejemplo de esta configuración puede consultarse en: https://youtu.be/QiO1AZNUXzY
+
+36
+del ancho total de pantalla). En cambio, sí hay efectos según el contenido del clip: estas 
+diferencias afectan tanto al número como al tiempo de duración de visitas y fijaciones 
+en las distintas áreas de la pantalla y son atribuibles a la acción que se desarrolla en 
+cada clip. Por otro lado, en los resultados de los tests de memoria visual del contenido se 
+observa un efecto de aprendizaje, puesto que las puntuaciones obtenidas mejoran signi­
+ficativamente entre el primer y el último clip visionado (HBB4ALL, 2016b).
+En el proyecto HBB4ALL también se ha desarrollado un curso para audiencias ma­
+sivas en Internet (tipo MOOC - massive online open course) sobre accesibilidad en TV31. 
+Incluye subtítulos en varios idiomas. Además, el capítulo de lengua de signos está inter­
+pretado en lengua de signos catalana.
+Además, la Universidad Autónoma de Barcelona caracterizó en el marco de este 
+proyecto la prestación del servicio de lengua de signos a partir de las capturas recogidas 
+en la página web http://www.signlangtv.org. Las conclusiones de su estudio se encuen­
+tran en el entregable D6.1 del proyecto (HBB4ALL, 2014, pp. 18-20).
+Otra de las áreas de investigación en materia de despliegue de lengua de signos 
+han sido los intérpretes virtuales o avatares. En el Informe sobre la presencia de la lengua 
+de signos española en la televisión (CNLSE, 2015) se da cuenta de varios de ellos, como 
+el del proyecto ULISES (Utilización Lógica e Integrada del Sistema Europeo de Signos) y 
+el de los proyectos GANAS (Generador de Animaciones para el Lenguaje de Signos) y 
+CONSIGNOS (Conversor y Reproductor Automático de Lengua de Signos). 
+Puede mencionarse también el trabajo llevado a cabo por el centro de investigación 
+neerlandés TNO, que ha desarrollado avatares para programas infantiles de televisión en 
+colaboración con la televisión pública neerlandesa NPO. A este servicio corresponde la 
+captura de la figura 2. Recuérdese también la importancia que la EBU (2004: 39) confie­
+re a la programación infantil con lengua de signos. 
+31	 Disponible en <www.accessguide.tv/course>
+
+37
+Una información detallada sobre este desarrollo tecnológico puede hallarse en 
+TNO (2014).
+El desarrollo de avatares también ha sido abordado en el proyecto europeo HB­
+B4ALL, aunque no se haya desplegado un piloto. La entidad que ha desarrollado el ava­
+tar de HBB4ALL ha sido Vicomtech-IK4. En la figura 3 se muestra una captura del avatar, 
+el cual ha requerido distintas tareas, como el modelado de los signos, la creación de 
+un diccionario de signos, la conversión automática de texto a la lengua de signos, la 
+animación y la generación gráfica del avatar para mostrarlo sincronizado con el vídeo. 
+Dada la dificultad de un desarrollo de este tipo, se encuentra limitado a un dominio 
+semántico, que en este caso es la información meteorológica.
+Figura 2. 
+Servicio de lengua de signos 
+mediante avatares desarrollado 
+por TNO en los Países Bajos.
+Figura 3. 
+Avatar de lengua de signos 
+desarrollado por Vicomtech-IK4 en 
+el proyecto europeo HBB4ALL.
+De todos modos, conviene tener en cuenta que el avatar todavía no ha logrado la 
+plasticidad lingüística y expresiva de la lengua de signos suficiente para garantizar la 
+inteligibilidad.
+Existen también otras experiencias muy destacables de desarrollos para lengua 
+de signos orientados a Internet. Es el caso del reproductor Player4All32, de la empresa 
+EDSOL Producciones. En la figura 4 se ofrece una captura de este reproductor web, 
+32	 El funcionamiento del reproductor se puede probar en estos enlaces: http://www.edsolrecords.
+com/player4all/encuestaplayer.php y http://www.edsolproducciones.com/Player4All-Live.html.
+
+38
+que está diseñado para integrar directamente los servicios de accesibilidad. Además, 
+este reproductor está preparado para la transmisión de eventos accesibles en directo. 
+La captura corresponde al congreso del CNLSE en 2013. La interfaz es completamente 
+configurable, de modo que se puede cambiar la ubicación y el tamaño de los distintos 
+elementos que se muestran en la pantalla. De esta forma, se pueden cumplir los requisi­
+tos de personalización destinados a que todos los usuarios puedan disfrutar del servicio 
+a su gusto. Como se observa en la parte derecha de la figura 4, este reproductor permi­
+te introducir distintos retardos en los subtítulos y en la ventana de lengua de signos, de 
+modo que se pueda ajustar una sincronización óptima. En la misma imagen de la cap­
+tura se muestra que el volumen del audio principal y de la audiodescripción también se 
+puede ajustar independientemente. Esta implementación resuelve la cuestión de la sin­
+cronización (en contenidos a la carta o grabados) de tal forma que es el usuario quien 
+decide si sincroniza audio con subtítulos o éstos con el signado y con qué desfase.
+Figura 4. 
+Captura del reproductor web 
+Player4All.
+La tesis doctoral de Martín de Pablos (2015) contiene más información sobre este 
+reproductor y, en general, sobre integración de contenido audiovisual accesible en la 
+Web33.
+33	 Disponible en <http://edsolproducciones.com/descargas/tesis/Fernando_Martin_de_Pablos-Te­
+sis_Doctoral.pdf>.
+
+39
+5.	
+Caracterización de la prestación del servicio
+En este capítulo se van a revisar algunas implementaciones previas del servicio de len­
+gua de signos en televisión y en general el modo en el que la lengua de signos aparece 
+en la televisión, de modo que sea posible identificar los parámetros y las características 
+de estas implementaciones.
+En cuanto a los modos de incorporar en la imagen de televisión la lengua de 
+signos española, el Informe sobre la presencia de la lengua de signos española en la 
+televisión (CNLSE, 2015) identifica tres posibilidades: (a) Copresentación en lengua de 
+signos española, b) Lengua de signos española insertada en la imagen con audio y c) 
+Lengua de signos como imagen principal). Esta clasificación sirve como punto de parti­
+da para la descripción que se realiza en este capítulo.
+5.1.	 Copresentación en lengua de signos española
+De acuerdo con el Informe sobre la presencia de la lengua de signos espa­
+ñola en la televisión (CNLSE, 2015), esta modalidad de incorporación de 
+la lengua de signos española en televisión no se emplea en la actualidad 
+en España, sino que únicamente se utilizó para el «Avance informativo» en 
+horario vespertino que tuvo La Primera de TVE en antena en los años 90 del 
+pasado siglo. Esta modalidad de caracterizaba por la presencia de dos pre­
+sentadoras, con la misma relevancia y compartiendo el mismo espacio físico. 
+Mientras que una de ellas se expresaba en lengua oral, la otra copresentaba 
+interpretando en lengua de signos española. Esta forma de copresentación 
+resultaba adecuada dado el carácter de resumen informativo del programa. 
+Una ventaja clara de esta modalidad es que ofrece una visión normalizada 
+de la utilización de la lengua de signos española.
+En cualquier caso puede resolver las necesidades de accesibilidad en 
+espacios que puntualmente lo precisen, por ejemplo si hay invitadas perso­
+nas sordas o sordociegas usuarias de la lengua de signos al programa en 
+entrevistas, coloquios o concursos, por ejemplo.
+La figura 5 muestra un ejemplo de cómo poder conjugar esta fórmula 
+de presentación.
+
+40
+Figura 5. 
+Muestra de copresentación en la 
+televisión suiza RSI.
+Figura 6. 
+Lengua de signos española como 
+imagen principal en el programa 
+«En lengua de signos» de TVE.
+5.2.	 Lengua de signos como imagen principal
+En esta modalidad, la lengua de signos española constituye el contenido 
+principal del programa y no consiste en la interpretación en lengua de signos 
+de un mensaje en lengua oral. Se puede mencionar, por ejemplo, el progra­
+ma «En lengua de signos» de La 2 de TVE, al que pertenece la figura 6. En 
+la imagen se puede observar cómo en efecto la lengua de signos española 
+se corresponde con la imagen principal y que adicionalmente se emiten 
+imágenes sobre la noticia o reportaje en una ventana situada a la derecha. 
+Además, una voz en off locuta el reportaje. Esta voz es subtitulada en modo 
+abierto (esto es, con los subtítulos incrustados en la señal de vídeo), como 
+muestra la figura.
+En otro formato podemos encontrar casos muy interesantes de esta mo­
+dalidad. Se trata de series españolas protagonizadas por actores sordos 
+que se distribuyen a través de Internet. Así, se pueden mencionar las series 
+«Peixos»34 (en lengua de signos catalana) y «Mírame cuando te hablo»35 
+(en lengua de signos española). A esta última serie pertenece la captura de 
+34	 Web de la serie: http://www.elspeixos.com/es_index.html
+35	 Web de la serie: https://idendeaf.com/el-objetivo/
+
+41
+la figura 7, adquirida mediante un navegador de Internet. «Peixos», por su 
+parte, cuenta con subtítulos seleccionables en catalán, castellano e inglés.
+Figura 7. 
+Captura de la serie de Internet 
+«Mírame cuando te hablo», en la 
+que los personajes se expresan en 
+lengua de signos española.
+Figura 8. 
+Capturas del programa «Life and 
+deaf», de la BBC, en el que los 
+personajes se relacionan 
+únicamente en lengua de signos.
+De nuevo en el entorno de la televisión, se puede mencionar el uso de 
+esta modalidad en el programa «Life and deaf», emitido recientemente por la 
+televisión pública británica BBC en lengua de signos. En este programa, los 
+personajes se expresan en lengua de signos y no hay interpretación en len­
+gua oral. Sí se incluyen subtítulos en modo abierto, que traducen lo expresa­
+do en lengua de signos, como se muestra en las dos capturas de la figura 8.
+
+42
+La importancia de esta serie radica en que concibe la lengua de signos 
+como principal lengua de comunicación. En el caso de España, en el capítu­
+lo 3 se ha visto como la Ley General de la Comunicación Audiovisual abo­
+gaba por transmitir una imagen realista de las personas con discapacidad 
+y con una presencia proporcional a su peso social. Iniciativas como la de la 
+BBC vienen a satisfacer este mismo objetivo.
+5.3.	 Lengua de signos española insertada en la imagen principal
+Esta es la forma mayoritaria de integrar la lengua de signos en la televisión 
+en España y también en los otros países. Nótese que esta modalidad se 
+destina a proporcionar el servicio de traducción o interpretación en lengua 
+de signos, esto es, el programa consta de un audio asociado a la «imagen 
+principal» y el objetivo del servicio es expresar en lengua de signos el men­
+saje transmitido en la lengua oral.
+Existe un gran número posible de implementaciones de esta modalidad 
+de incorporación de la lengua de signos. En la página web signlangtv.org36 
+se recogen cientos de capturas de programas en lengua de signos de cana­
+les de televisión de todo el mundo, lo que da una idea de la gran variedad 
+de posibles parámetros que se pueden configurar para la prestación de este 
+servicio. 
+En este apartado se introducen estos parámetros, que pueden variar en 
+las distintas implementaciones del servicio:
+•	
+La persona que signa aparece en una ventana o bien recortada so­
+bre la obra audiovisual (es decir, aparece la silueta de la persona 
+que signa).
+•	
+Posición y tamaño en la pantalla de la persona que signa, con 
+independencia de que se emplee ventana o silueta.
+•	
+Forma de la ventana.
+•	
+Composición, esto es, la forma en que se articulan y se distribuyen 
+en el espacio la imagen principal, la ventana en lengua de signos 
+y el subtitulado.
+En seguida se detallarán algunas de estas posibilidades, junto con imá­
+genes para ilustrar la prestación del servicio.
+36	 Dirección web completa: http://signlangtv.org/www/home.php.
+
+43
+En estas implementaciones del servicio predomina el modo abierto, es 
+decir, la lengua de signos está disponible para todos los usuarios, con inde­
+pendencia de que requieran el servicio o no. Una antigua aspiración tanto 
+de los usuarios como de los operadores de televisión es que la lengua de 
+signos se pueda prestar en modo cerrado, de modo que solo se muestre para 
+aquellos usuarios que la soliciten, en principio, mediante una interacción en 
+el mando a distancia, tal y como se hace con los subtítulos. No obstante, más 
+importante que el modo cerrado es la posibilidad de configuración, de modo 
+que cada persona usuaria pueda variar los parámetros de acuerdo con sus 
+necesidades o preferencias, dada la heterogeneidad de la comunidad usua­
+ria. En la actualidad, solo hay cuatro implementaciones que se asemejan a 
+un modo cerrado o configurable:
+•	
+La emisión del mismo programa por dos canales simultáneamente, 
+de modo que el usuario pueda seleccionar el canal que incluye la 
+lengua de signos. Esta es el modo escogido por la televisión auto­
+nómica andaluza Canal Sur para ofrecer el servicio de lengua de 
+signos en toda su programación a través de su segundo canal.
+•	
+El piloto del proyecto europeo HBB4ALL llevado a cabo por la te­
+levisión alemana RBB, basado en la tecnología HbbTV. Este piloto 
+ha estado desplegado para un programa ya emitido, por lo que no 
+se ha abordado la interpretación simultánea de un programa que 
+se estuviese emitiendo de forma lineal. Este piloto se ha basado en 
+la transmisión vía Internet de un flujo de vídeo que integraba tanto 
+la imagen del programa como la traducción. Las distintas opciones 
+de personalización se han logrado generando distintos vídeos en 
+el lado del operador.
+•	
+La propuesta de RTVE para la emisión signada del Telediario ba­
+sada en HbbTV, que se describió en el Congreso CNLSE en 2015. 
+Esta propuesta comparte muchas características con el piloto del 
+proyecto HBB4ALL, con la ventaja adicional de que está pensada 
+para contenido en directo mediante streaming real. En la figura 
+9 se muestra una captura de las pruebas de emisión de signos 
+en HbbTV realizadas conjuntamente por TVE, CNLSE, Fundación 
+CNSE y EDSOL Producciones.
+
+44
+•	
+El reproductor Player4All, concebido para la transmisión de even­
+tos accesibles a través de Internet y que permite una configuración 
+muy sencilla y flexible de los tamaños y las posiciones de las ven­
+tanas, entre otras características.
+En los ejemplos que se verán a continuación predominan los programas 
+informativos. La investigación con usuarios del Informe sobre la presencia de 
+la lengua de signos española en la televisión (CNLSE, 2015) deja patente, 
+sin embargo, que la comunidad usuaria está demandando la incorporación 
+de la lengua de signos para todos los géneros televisivos. Ya se ha mencio­
+nado en esta guía la importancia de la lengua de signos en la programación 
+infantil para el desarrollo lingüístico de los niños sordos cuyas familias hayan 
+optado por dicha lengua. En España, el Consejo Audiovisual de Andalucía 
+y el Consejo Audiovisual de Cataluña han publicado instrucciones en las 
+que se especifican los géneros televisivos que han de contar con lengua de 
+signos, según se resume en Gil y Utray (2016).
+5.3.1	
+Silueta de la persona que signa
+En esta modalidad, la persona que signa se recorta contra el fondo 
+de la imagen. Tiene la ventaja de que oculta únicamente la parte 
+de la imagen del programa que se corresponde con la persona que 
+signa, a diferencia de la introducción de una ventana, que ocupa 
+una superficie mayor en pantalla. El inconveniente es que si el co­
+lor de la piel de la persona que signa es similar al del fondo en un 
+determinado momento, la ausencia de contraste puede disminuir la 
+legibilidad.
+Esta modalidad requiere la utilización de la técnica de croma o 
+chroma-key, conocida por los programas de pronóstico del tiempo 
+Figura 9. 
+Prueba de emisión de lengua de 
+signos sobre HbbTV llevada a 
+cabo por RTVE, CNLSE, Fundación 
+CNSE y EDSOL Producciones.
+
+45
+y por los efectos especiales en series y películas. En esta técnica, se 
+graba a la persona con un fondo homogéneo (típicamente, verde) y 
+después se realiza la composición con la obra audiovisual.
+Esta es la modalidad elegida por algunas campañas institucionales 
+en lengua de signos, como se muestra en la figura 10, correspon­
+diente a la campaña del Ministerio del Interior para las elecciones 
+generales de diciembre de 2015. Recuérdese cómo la Ley 27/2007 
+preveía que las campañas publicitarias institucionales fuesen acce­
+sibles.
+Figura 10. 
+Campaña institucional de la 
+administración. La lengua de 
+signos se muestra en la modalidad 
+de silueta.
+El servicio de lengua de signos española de la figura se caracteriza 
+por su pequeño tamaño (que dificulta gravemente la comprensión), 
+por situarse en la esquina inferior izquierda de la pantalla (posición 
+que coincide con las preferencias de los usuarios) y porque la silueta 
+de la persona que signa llega hasta el borde de la pantalla. Desta­
+ca, no obstante, por los colores homogéneos del fondo y porque sig­
+na una persona sorda. Se trata de un caso de traducción en lengua 
+de signos y no de interpretación. En otras implementaciones, como 
+la del canal polaco de noticias TVP Info de la figura 11, la persona 
+que signa se sitúa en otra parte de la pantalla y parece flotar en 
+la imagen. En este caso, además, la persona que signa aparece 
+sentada. Se puede destacar también que la mosca del canal oculta 
+parcialmente a la persona que signa. En la figura 12, en cambio, el 
+intérprete aparece con un tamaño más apropiado.
+
+46
+Figura 11. 
+Muestra del servicio de lengua de 
+signos de la televisión polaca TVP 
+Info. El intérprete se muestra en la 
+modalidad de silueta.
+Figura 12. 
+Muestra del servicio de lengua 
+de signos de la televisión de la 
+Republica Checa. El intérprete 
+se muestra en la modalidad de 
+silueta pero con un tamaño más 
+apropiado.
+Figura 13. 
+Muestra del servicio de lengua de 
+signos en la modalidad de silueta 
+en La Sexta.
+La silueta es también la modalidad escogida por «La Sexta» para 
+la incorporación de la lengua de signos en sus emisiones, como se 
+muestra en la figura 13. Como en el caso de la televisión polaca, 
+llama la atención que la mosca del canal se sitúe sobre la persona 
+que signa, de modo que puede ocluir algún signo.
+Nótese que en las figuras anteriores no se incorpora el subtitulado, 
+de hacerlo (muy recomendable) habría que reconsiderar el diseño 
+para que ambos servicios no interfieran. 
+La figura 14 muestra la utilización de la modalidad de silueta en el 
+canal Disney Channel. En este tipo de contenidos infantiles es espe­
+
+47
+cialmente importante un signado expresivo. Nótese que los iconos 
+de presencia de subtítulos, audio original y la clasificación por edad 
+se sitúan sobre la persona que signa. Además, la posición de la 
+persona que signa no respeta el margen de seguridad de la pan­
+talla, de modo que con frecuencia durante el episodio desaparece 
+parcialmente por la derecha.
+Figura 14. 
+Muestra del servicio de lengua de 
+signos en la modalidad de silueta 
+en Disney Channel.
+Figura 15. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+del canal Antena 3 HD. Se utiliza 
+una ventana alargada para la 
+persona que signa.
+5.3.2	
+Lengua de signos en una ventana
+La interpretación en lengua de signos española mediante una venta­
+na es una forma habitual de proporcionar este servicio en España, 
+como se muestra en la figura 15, capturada del programa Antena 3 
+Noticias emitido en la versión en alta definición del canal Antena 3.
+En este caso se observa cómo la ventana oculta una parte de la ima­
+gen del programa. Si bien no es el caso de esta figura, lo habitual 
+es que el fondo de la ventana sea homogéneo. La ventana puede 
+situarse en distintas posiciones de la pantalla y tener distintas formas 
+y tamaños. Además, la persona que signa puede presentar también 
+distintos tamaños dentro de la ventana en función del encuadre y del 
+
+48
+plano. En este caso, la forma de la ventana impediría percibir los 
+signos en los que las manos se alejen del tronco. 
+Figura 16. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+de la televisión italiana. Se utiliza 
+una ventana de mayor tamaño.
+Figura 17. 
+Muestra del servicio de lengua de 
+signos española en la modalidad 
+de ventana en una señal 
+institucional producida por el 
+Ministerio del Interior.
+Con la figura 16 se pretende mostrar que el tamaño de la ventana no 
+tiene que ser un impedimento a la hora de incorporar la lengua de 
+signos, si bien es cierto que en esta ocasión el contenido a interpre­
+tar se muestra en otra ventana cuyas dimensiones se han reducido.
+En la figura 17 se muestra una captura de la señal producida por el 
+Ministerio del Interior de una rueda de prensa durante las elecciones 
+generales de junio de 2016. En este caso, la persona que signa 
+aparece en una ventana a la izquierda y en una posición inferior. 
+Además, la ventana tiene forma de rectángulo, como en el caso 
+anterior de la figura 15, pero en esta ocasión es mayor la base que 
+la altura. El tipo de plano elegido hace que la persona que signa 
+aparezca de pequeño tamaño, aunque la ventana no lo sea. En 
+estas circunstancias resultará difícil percibir las expresiones faciales.
+
+49
+En la figura 18 se muestra un ejemplo tomado de la televisión por­
+tuguesa RTP, que es uno de los canales europeos no dedicados a la 
+accesibilidad que un mayor número de horas dedica a la interpre­
+tación y traducción en lengua de signos (50 horas semanales en di­
+recto en RTP1, el canal principal; 12 horas semanales de contenidos 
+grabados en RTP2 y 55 horas semanales en RTP Internacional, entre 
+otros canales). La ventana es de pequeño tamaño y el plano es tan 
+cerrado que la persona que signa dispone de muy poco espacio 
+para expresar los signos.
+Figura 18. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+en la televisión portuguesa RTP en 
+la modalidad de ventana.
+Para terminar esta revisión de posibles configuraciones de la ven­
+tana se puede mencionar el caso del canal KBS, de Corea del Sur, 
+en el que la ventana de la interpretación tiene forma oval, como se 
+muestra en la figura 19. Esta forma, que no es habitual en España, 
+puede ser una solución de compromiso entre minimizar el área de 
+la pantalla ocupada por la ventana y mantener aire suficiente alre­
+dedor de la persona que signa para que los signos no salgan del 
+encuadre. No obstante, en este caso el tamaño de la persona que 
+signa es demasiado pequeño.
+
+50
+Figura 19. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+en la televisión surcoreana KBS. 
+Se emplea una ventana oval.
+Figura 20. 
+Muestra del servicio de i
+nterpretación en lengua de signos 
+que RTVE emitió a través de 
+Internet con motivo de la 
+celebración de la 29 edición de 
+los Premios Goya en 2015.
+5.3.3	
+Composición de la imagen del programa y de la lengua de signos
+Esta sección se refiere a la composición como la forma de distribuir 
+espacialmente en la pantalla la imagen del programa, la lengua de 
+signos y el subtitulado. Así, ambas señales de vídeo pueden adoptar 
+distintas posiciones en la pantalla y distintos efectos. Un uso habitual 
+de estas posibilidades es que la lengua de signos no oculte ninguna 
+parte de la señal de programa, lo que se consigue escalando esta 
+última, de modo que disminuye su tamaño, como se ilustra en la 
+figura 20.
+
+51
+La siguiente figura ilustra este aspecto de la composición, con otro 
+tipo de distribución.
+Figura 21. 
+Muestra de mensaje navideño de 
+SM del 2015 emitido por RTVE.
+Figura 22. 
+Muestra de la interpretación en 
+lengua de signos española del 
+debate de las elecciones de junio 
+de 2016. La posición de la 
+ventana de la persona que signa 
+no se superpone a la señal de 
+programa.
+Así, en la figura 22 se muestra el debate electoral del 12 de junio de 
+2016 en el Canal 24 Horas, que emitía en modo abierto subtítulos 
+y lengua de signos española.
+Esta composición ha reducido el tamaño de la imagen del debate (a 
+la derecha), para permitir que una ventana rectangular de tamaño 
+apreciable se sitúe a la izquierda de la imagen, con la misma altura 
+que el vídeo del programa. Además, los subtítulos no se superponen 
+a ninguna de las dos señales de vídeo. Esta implementación del ser­
+vicio resulta accesible, si bien hay demasiado aire sobre la persona 
+que signa, en un espacio donde no se representan signos, de modo 
+que un encuadre ligeramente distinto podría haber redundado en un 
+mayor tamaño de la persona que signa y una mayor inteligibilidad. 
+En la figura 23 se muestra el mismo instante del debate, pero en 
+el canal La 1 HD. Nótese cómo la relación de aspecto (esto es, la 
+proporción entre las dos dimensiones de la imagen) es uno de los 
+elementos que se han de tener en cuenta al diseñar la composición.
+
+52
+Figura 23. 
+Instantánea tomada en el mismo 
+momento que la figura 22 pero 
+en un canal diferente del mismo 
+operador, que no ofrecía el 
+servicio de interpretación 
+en lengua de signos.
+Figura 24. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+española del Telediario, emitido 
+diariamente en el Canal 24 Horas 
+de TVE.
+Así pues, este debate electoral fue emitido simultáneamente por dos 
+canales del mismo operador (en este caso, TVE). Mientras La 1 y 
+La 1 HD emitieron únicamente la señal del programa, el Canal 24 
+Horas añadía los servicios de accesibilidad. Esta forma de proceder, 
+es decir, ofrecer en el Canal 24 Horas la interpretación en lengua 
+de signos española del programa emitido simultáneamente en La 1 
+ha sido elegida por TVE para signar el Telediario primera edición 
+todos los días de lunes a viernes a las 15:00 horas desde diciembre 
+de 2015. En la figura 24 se muestra una captura de este servicio. 
+Esta implementación cumple en principio con todas las condiciones 
+mínimas de inteligibilidad: fondo homogéneo y sin brillo, tamaño y 
+encuadre, aunque la comunidad usuaria demanda un mayor tama­
+ño, máxime teniendo en cuenta que ya se emite (por otro canal) el 
+mismo contenido sin accesibilidad.
+Esta forma de proceder es similar a la implementación de la len­
+gua de signos en modo cerrado, de manera que sólo se muestra 
+la interpretación si así lo configuran los usuarios. Similar es el caso 
+del canal británico BBC. En la figura 25 se muestra un instante del 
+
+53
+programa matinal Breakfast en el canal de noticias BBC NEWS. Es 
+la misma señal que en el canal BBC ONE pero incorporando lengua 
+de signos. En este caso, la composición es diferente a las anteriores, 
+ya que es la señal de programa la que aparece en una ventana, 
+mientras que la persona que signa no se restringe a una ventana y 
+adopta unas mayores dimensiones para mejorar la inteligibilidad.
+Figura 25. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+británica del canal BBC News. El 
+intérprete cobra mayor relevancia 
+en la pantalla.
+Figura 26. 
+Muestra del servicio de lengua de 
+signos en Canal Sur 2.
+Este recurso de añadir la accesibilidad mediante otros canales del 
+mismo operador es habitual. Es el caso del informativo de la tarde de 
+la televisión belga RTBF. En España, es también la fórmula empleada 
+desde octubre de 2012 por el canal autonómico andaluz Canal 
+Sur para ofrecer con interpretación en lengua de signos española 
+la mayor parte de su programación, a través de Canal Sur 2, esto 
+es, el canal adicional que le correspondía al operador en la TDT. 
+En la figura 26 se muestra una captura de este servicio. La lengua 
+de signos cobra importancia, mientras que la imagen del programa 
+aparece en una ventana.
+
+54
+Con las siguientes figuras se pretende llamar la atención por cuanto 
+la persona que signa aparece en un plano adelantado al del progra­
+ma. Con esta fórmula se consigue maximizar el espacio reservado 
+para la persona que signa y la ventana del programa. Así, aun­
+que en momentos puntuales se requiere «invadir» con el signado la 
+ventana del programa, es tan puntual que no compensa reducir la 
+ventana principal para ceder más espacio a la persona que signa.
+Figura 27. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+de la televisión belga. La persona 
+que signa está en primer plano.
+Figura 28. 
+Muestra del servicio de 
+interpretación en lengua de signos 
+de la televisión suiza. La persona 
+que signa está en primer plano a 
+la izquierda.
+La figura 29 pertenece al piloto de aplicación configurable de len­
+gua de signos que la televisión alemana RBB ha desplegado en el 
+marco del proyecto europeo HBB4ALL, basándose en la tecnología 
+estándar HbbTV. En esta implementación, es posible elegir tanto el 
+tamaño del intérprete, como la posición, como la composición. Nó­
+tese, por ejemplo, que la persona que signa se sitúa flotando a la 
+izquierda y que la ventana del programa no es rectangular, sino 
+que se han alterado sus dimensiones para que dé una sensación de 
+perspectiva y profundidad.
+
+55
+Figura 29. 
+Captura del servicio de lengua 
+de signos basado en el estándar 
+HbbTV que el operador RBB ha 
+desplegado en el marco del pro­
+yecto HBB4ALL.
+
+56
+6.	 Recomendaciones
+6.1.	 Visión general
+En el anterior capítulo se han revisado distintas implementaciones de la len­
+gua de signos que están en explotación en la actualidad o que han estado 
+desplegadas en tiempos recientes en pilotos, especialmente en el entorno de 
+la televisión.
+Estas implementaciones muestran la gran variabilidad en los paráme­
+tros de la interfaz gráfica del servicio de lengua de signos, en términos de 
+utilización de ventana o silueta; de tamaño de la lengua de signos o, en su 
+caso, de la ventana de la señal de programa; de distribución en la pantalla de 
+ambas señales de vídeo; del plano empleado para la persona que signa, etc. 
+Para esta variedad de implementaciones se han ido discutiendo las ventajas e 
+inconvenientes, teniendo en cuenta las preferencias de los usuarios y la inteli­
+gibilidad de la lengua de signos. Esta variedad de implementaciones permite 
+también inferir una serie de recomendaciones para la prestación del servicio. 
+En esta sección se van a introducir unas recomendaciones generales, mientras 
+que el resto de secciones de este capítulo están dedicadas a recomendaciones 
+de índole técnico, a recomendaciones sobre la producción y realización del 
+servicio y a recomendaciones sobre la señalización. Las recomendaciones 
+sobre la calidad lingüística del servicio, que son vitales para la incorporación 
+de la lengua de signos en la televisión, se relacionan en el capítulo siguiente.
+Además del análisis de las implementaciones actuales y de la experien­
+cia en la prestación del servicio, para formular estas recomendaciones se 
+han tenido en cuenta resultados de proyectos de investigación, informes pre­
+vios (Ofcom, 2006; CENELEC, 2003; EBU, 2004; FTTD, 2005) y la norma 
+AENOR (2007) de incorporación de la lengua de signos a interfaces web.
+A continuación, se introducen las recomendaciones generales.
+•	
+La incorporación de la lengua de signos en televisión debe realizar­
+se con criterios lingüísticos y de accesibilidad, teniendo en cuenta 
+las necesidades y expectativas de los usuarios, con independencia 
+del tipo de formato, contenido, modo, etc. 
+•	
+El servicio de interpretación en lengua de signos debe ser confi­
+gurable, esto es, cada persona usuaria debe poder elegir la apa­
+
+57
+riencia gráfica del servicio, así como activarlo y desactivarlo, en la 
+medida en que las posibilidades tecnológicas lo permitan.
+•	
+Si un programa se ha ofrecido con lengua de signos en su emisión 
+lineal en televisión, el servicio de lengua de signos debe preser­
+varse en futuras formas de explotación del contenido, como son 
+las aplicaciones web de contenidos bajo demanda del tipo «TV a 
+la carta» o aplicaciones de TV Conectada (como las aplicaciones 
+HbbTV).
+•	
+La prestación del servicio de lengua de signos que requiera la 
+utilización de dispositivos adicionales de recepción o presentación 
+perjudica a las personas que necesitan el servicio para acceder a 
+los contenidos, por lo que se recomienda evitarla.
+•	
+En el servicio de lengua de signos, la señal de vídeo de este ser­
+vicio y la señal de audio que se está interpretando o traduciendo 
+deben estar aproximadamente sincronizadas, si bien la sintaxis 
+y el orden gramatical de ambas lenguas son diferentes. Además, 
+la interpretación simultánea se caracteriza por un desfase, por la 
+necesidad de trasladar desde la lengua oral a la lengua de sig­
+nos. Esta recomendación ha de tenerse en cuenta especialmente 
+en aquellas implementaciones del servicio que utilicen redes dife­
+rentes para la transmisión del vídeo del programa y del vídeo de la 
+lengua de signos (por ejemplo, un servicio basado en HbbTV que 
+fusione en el receptor la señal difundida del programa y la señal 
+de la interpretación en lengua de signos española, procedente de 
+Internet). Cabe apuntar que en contenidos a la carta o grabados, 
+esta cuestión no reviste mayor dificultad.
+•	
+De incluirse también el servicio de subtitulado en el programa, el 
+subtitulado y la lengua de signos deben distribuirse en la pantalla 
+de forma que no se interfieran entre ellos.
+•	
+La presencia de la lengua de signos no debería limitarse al servi­
+cio de traducción o interpretación en lengua de signos de algunos 
+programas, sino que, como recoge la Ley General de la Comunica­
+ción Audiovisual, los medios de comunicación deberían proporcio­
+nar una imagen normalizada de las personas con discapacidad, 
+
+58
+asegurando una aparición proporcional al peso de este colectivo 
+en la sociedad. En este sentido, una mayor presencia de la lengua 
+de signos en televisión ha de redundar en una mayor familiaridad 
+de la sociedad en su conjunto con esta lengua y en una mayor 
+participación social de las personas sordas y sordociegas.
+•	
+El derecho de todos los usuarios a contar con una televisión acce­
+sible es un principio transversal recogido en el marco jurídico y, 
+especialmente en lo que atañe a esta guía, cabe llamar la atención 
+en tanto en cuanto el subtitulado y el signado no son incompatibles 
+entre sí, lo más recomendable es que compartan espacio en la 
+pantalla, en ningún caso uno puede sustituir al otro.
+Con las siguientes figuras se muestra una de las posibles fórmulas de 
+composición que reúne gran parte de las recomendaciones que se recogen 
+en esta guía, fundamentadas no sólo en los distintos estudios aquí referencia­
+dos sino también en la experiencia acumulada por los servicios de traduc­
+ción e interpretación de contenidos audiovisuales de la Fundación CNSE, así 
+como por el equipo técnico del Centro de Normalización Lingüística de la 
+Lengua de Signos Española.
+Figura 30. 
+Ejemplo de composición en el 
+que se conjugan espacios para el 
+signado, el programa y el 
+subtitulado. Nótese el equilibrio 
+entre los objetos y la fórmula ele­
+gida para la realización (plano, 
+encuadre y tamaño) del signado.
+Figura 31. 
+Ejemplo de composición que, 
+a diferencia de la anterior, se 
+aproxima más a las necesidades 
+planteadas por las personas 
+sordociegas, con espacios total­
+mente diferenciados.
+
+59
+Por otra parte, la prestación del servicio debería incrementarse en nú­
+mero de horas semanales, más allá de los mínimos estipulados en la Ley 
+General de la Comunicación Audiovisual. En esta materia, se recomienda:
+•	
+Diversificar los contenidos y los géneros televisivos que cuentan 
+con lengua de signos.
+•	
+Ir incrementando anualmente el número de horas de servicio en 
+lengua de signos española, teniendo en cuenta las oportunidades 
+tecnológicas y las necesidades de los usuarios. El subtitulado es un 
+buen referente en este caso, ya que varios canales subtitulan en 
+la actualidad la práctica totalidad de sus programas, después de 
+aumentos progresivos año tras año.
+•	
+Programar la prestación del servicio en una variedad de horarios 
+que incluyan los de máxima audiencia, evitando la concentración 
+de espacios signados en las horas de menor consumo, como ha 
+sucedido con frecuencia.
+Con el objetivo de cumplir estas recomendaciones se puede recurrir a 
+tecnologías abiertas ya existentes y desplegadas, como HbbTV, el estándar 
+europeo de TV Conectada, sin perjuicio de otras tecnologías que puedan 
+surgir en el futuro.
+Además, hay que tener en cuenta que el consumo televisivo mayoritario 
+en España, con gran diferencia, se concentra en canales en abierto transmi­
+tidos a través de redes de difusión terrestres (esto es, TDT).
+6.2.	 Recomendaciones técnicas
+•	
+La transmisión de la lengua de signos debe basarse en tecnologías y 
+protocolos estándares, abiertos e interoperables (por ejemplo, MPEGDASH para streaming adaptativo en implementaciones del servicio que 
+hagan uso de Internet).
+•	
+La adquisición y el procesamiento de la señal de vídeo deben preservar 
+el contraste entre el color de piel de la persona que signa y su ropa, así 
+como con el fondo. Esta recomendación va a depender de la ilumina­
+ción, del rango dinámico con el que se trabaje a lo largo de la cadena, 
+de los espacios de color y de procesamientos de corrección del color 
+(etalonaje).
+
+60
+•	
+La tasa binaria de transmisión debe ser suficiente para asegurar una 
+buena inteligibilidad de la lengua de signos, tanto si se transmite la len­
+gua de signos incrustada en el vídeo de programa como si se transmite 
+como una señal de vídeo independiente. Una tasa binaria insuficiente 
+ocasionaría la aparición de efectos en el vídeo que dificultarían la co­
+rrecta interpretación de las expresiones faciales y de los detalles de 
+los signos. La tasa binaria concreta para atender esta recomendación 
+depende también del estándar de codificación de vídeo elegido (en la 
+actualidad se están empleando los estándares MPEG-2 y H.264/AVC 
+en la codificación de vídeo en aplicaciones de difusión de televisión, si 
+bien a medio plazo puede desplegarse el estándar H.265/HEVC; en 
+Internet se emplean adicionalmente otros formatos, como VP8 y VP9). 
+Una tasa binaria insuficiente (por ejemplo, debido a una baja velocidad 
+de conexión de los usuarios) puede resultar en un servicio ininteligible, 
+así como alterar el ritmo de reproducción de los vídeos, dado que las 
+pausas interrumpen la fluidez del signado y dificultan la comprensión 
+del mensaje por parte de las personas sordociegas.
+•	
+La lengua de signos es un lenguaje visual con una velocidad de mo­
+vimiento alta que puede asemejarse a la captación de imágenes de 
+eventos deportivos. En estos casos la producción audiovisual requiere 
+ajustes adicionales para asegurar una calidad de imagen adecuada. 
+Estos ajustes son incluso más necesarios si se utiliza la técnica de chro­
+ma-key para incluir la imagen de la persona que signa en la modalidad 
+de silueta. Además de una correcta iluminación del set de grabación 
+con al menos cinco puntos de luz (dos para el fondo chroma y tres para 
+la persona que signa) es necesario ajustar la velocidad de obturación 
+de la cámara de vídeo con unos valores que eliminen el efecto de des­
+enfoque (blur) en los movimientos rápidos de las manos y los brazos que 
+se producen durante el signado. Este efecto de desenfoque en el uso del 
+chroma tiene asociado otro artefacto visual: la aparición del color verde 
+del fondo chroma. Para reducir este efecto, unos valores de velocidad 
+de obturación inferiores a 1/125 s suelen resultar adecuados, si bien es 
+recomendable un valor de 1/250 s. Para compensar la pérdida de luz 
+
+61
+debida a una obturación con menor tiempo de apertura se puede modi­
+ficar la apertura del iris de la cámara. 
+•	
+Con el mismo objetivo de mejorar la definición de la imagen de manos 
+y brazos en movimiento, es recomendable utilizar formatos progresivos 
+en lugar de formatos entrelazados. A su vez, una alta resolución de la 
+imagen de la persona signante proporciona más detalle y facilita la co­
+municación de la lengua de signos.
+•	
+La composición del vídeo del programa y de la lengua de signos debe 
+tener en cuenta las precauciones habituales relacionadas con los már­
+genes de seguridad en los alrededores de la pantalla para evitar que 
+parte de la lengua de signos aparezca recortada en los receptores de 
+los usuarios.
+6.3.	 Recomendaciones relativas a la producción y realización del servicio
+6.3.1.	 Recomendaciones relacionadas con la composición 
+Este apartado se refiere a la forma en la que se compone la pan­
+talla de televisión para albergar tanto el vídeo del programa como 
+la ventana o silueta de lengua de signos y los subtítulos. Se ha visto 
+en el capítulo anterior la gran variedad de opciones de composi­
+ción existente en la actualidad en operadores de todo el mundo. En 
+cualquier caso, como en el resto de parámetros y opciones, no es 
+sencillo establecer un tamaño mínimo por defecto para la persona 
+que signa que sea válido en cualquier circunstancia, si bien algunos 
+documentos como el informe de CENELEC y las directrices de provi­
+sión de servicios de accesibilidad de Ofcom establecen un tamaño 
+mínimo de 1/6 de la pantalla.
+Investigaciones con usuarios realizadas en la Universidad Politécni­
+ca de Madrid (Conti, 2009) coinciden con estas dimensiones para 
+definición estándar, expresadas como número de columnas que ha 
+de tener la ventana de lengua de signos, que habría de ser de al me­
+nos 1/3 del total. Estas dimensiones pueden ser algo menores en el 
+caso de la TV de alta definición (formatos 720p y 1080i) y situarse 
+en 1/4 parte de las columnas. En el caso de la televisión de Ultra 
+Alta Definición con resolución 4K (2160 x 3840 píxeles) que puede 
+desplegarse en los próximos años, el tamaño proporcional de la 
+
+62
+ventana también podría ser menor, si bien este formato está pensado 
+para grandes dimensiones de pantalla.
+En general, la inteligibilidad de la lengua de signos no va a estar en 
+función sólo de la fracción de pantalla ocupada por la persona que 
+signa, sino también de la resolución de la señal (definición estándar, 
+alta definición o ultra alta definición) y de las dimensiones de la 
+pantalla del usuario. 
+De acuerdo con el informe de CENELEC (2003), la persona que sig­
+na debería tener el suficiente tamaño y la suficiente resolución para 
+mostrar todos los movimientos del tronco, los brazos, las manos, 
+los dedos, los hombros y el cuello, así como todos los movimientos 
+y expresiones faciales. El tamaño y la resolución también han de 
+ser suficientes para permitir la lectura labial (CENELEC, 2003). De 
+acuerdo con el mismo informe, los signos deben ser reconocidos de 
+forma fácil y precisa.
+•	
+Se recomienda que el servicio de lengua de signos se incorpore 
+en la parte izquierda de la pantalla, de no ser posible la per­
+sonalización, de acuerdo con las preferencias mostradas de los 
+usuarios.
+•	
+Las personas sordociegas pueden requerir un tamaño mayor de 
+la persona que signa y una ventana cuyo fondo sea liso y de 
+color oscuro que garantice el contraste entre fondo y figura.
+•	
+En la composición deben prevalecer las implementaciones que 
+den relevancia a la lengua de signos respecto a la señal del 
+programa, pudiendo esta situarse en una ventana detrás del 
+intérprete (parcialmente ocluida).
+•	
+Nótese también que distintos géneros pueden requerir distintas 
+composiciones de la lengua de signos. Así, algunas obras audio­
+visuales requerirán minimizar el área de la pantalla ocupada por 
+la lengua de signos, mientras que otros programas no tendrán 
+requisitos estrictos en este sentido.
+•	
+Se recomienda hacer desaparecer la figura del signante mien­
+tras no haya contenido verbal que traducir para evitar la exposi­
+ción del profesional en tiempos prolongados sin signar.
+
+63
+•	
+Observar escrupulosamente que ningún detalle ni del grafismo, 
+mosca, simbología, señalética, invada el espacio reservado a 
+la lengua de signos. En este sentido, tanto el subtitulado como el 
+signado ocuparán espacios diferenciados.
+•	
+Se recomienda, a su vez, que la persona que signa interaccione 
+con lo que aparezca en pantalla (por ejemplo, señalando a per­
+sonajes o identificando elementos gráficos presentes), de modo 
+que se logre una mayor integración entre el servicio de lengua 
+de signos y la obra audiovisual.
+•	
+Tener en cuenta que ambas ventanas (signado y contenido) se 
+ubiquen a la misma altura para favorecer el visionado de forma 
+conjunta. 
+6.3.2.	 Recomendaciones relativas a la apariencia de la persona que signa
+•	
+La ropa de la persona que signa debe tener un alto contraste 
+con su color de piel, con el objetivo de permitir ver con claridad 
+el movimiento de las manos y la expresión final. Existen fórmulas 
+y herramientas informáticas para el cálculo del contraste y de la 
+luminosidad. 
+•	
+La ropa de la persona que signa debe tener un color y una tex­
+tura uniformes.
+•	
+La ropa de la persona que signa no debe distorsionar la silueta 
+(sería por ejemplo el caso de unas mangas muy anchas).
+•	
+La ropa de la persona que signa no debe tener elementos que 
+destaquen o que puedan provocar efectos indeseados en la se­
+ñal de vídeo (por ejemplo, líneas finas muy juntas).
+•	
+La persona que signa no debe llevar joyas ni otros objetos de ador­
+no que puedan distraer la atención o provocar reflejos y brillos. 
+•	
+Las personas que signan podrán escoger su ropa en función del 
+género televisivo del programa (por ejemplo, un debate político 
+o un programa infantil poseen diferentes estéticas).
+•	
+El rostro de la persona que signa debe estar libre de elementos 
+innecesarios o superfluos que disminuyan la percepción de la 
+expresión facial.
+
+64
+•	
+En el caso de la interpretación destinada a personas sordocie­
+gas, la persona que signa deberá llevar ropa de color oscuro 
+y sin escotes pronunciados que puedan dejar parte del torso al 
+descubierto e interferir con el contraste entre la piel y la ropa. Se 
+recomienda una longitud de mangas de media manga o manga 
+francesa.
+6.3.3.	 Recomendaciones relativas a la puesta en escena y la adquisición del 
+vídeo
+•	
+Si las posibilidades técnicas lo permiten, el fondo debe ser con­
+figurable. Si no es posible, el fondo debe ser tal que se maxi­
+mice la comprensión de la lengua de signos, es decir, ser liso 
+y homogéneo, ofrecer un buen contraste con el color de la piel 
+de la persona que signa y no resultar brillante. 
+•	
+En emisiones destinadas a personas sordociegas, es necesario 
+que el fondo sea de color oscuro (preferentemente de un tono 
+azul oscuro) de forma que garantice un contraste que permita 
+discernir la figura del intérprete del fondo sin interferir con el 
+contraste de las manos.
+•	
+En cuanto a las condiciones en las que ha de llevar a cabo su 
+labor la persona que signa, esta debería contar con una visión 
+completa del conjunto (en función del programa o de la obra au­
+diovisual), monitores de apoyo, una señal de audio de calidad y 
+algún sistema de comunicación visual o sonoro para sincronizar 
+la lengua de signos. Además, debe poder estar en contacto 
+con el personal técnico antes y durante el signado. Bros-Brann 
+(2002) proporciona algunas directrices sobre la interpretación 
+en televisión. Además, en programas con interpretación de len­
+gua de signos en directo la realización debe tener en cuenta la 
+demora que se produce en la interpretación.
+•	
+El encuadre debe coincidir con el espacio sígnico, el espacio en 
+el que se articula la lengua de signos: en la parte superior nece­
+sita un palmo de aire por encima de la cabeza, en los laterales, 
+espacio suficiente como para que quepan los brazos flexiona­
+
+65
+dos por el codo, y en la parte inferior el límite podría ser la 
+altura en la que se colocan los bolsillos (un plano medio largo). 
+•	
+Se recomienda un plano frontal, con la cámara a la altura de 
+los ojos de la persona que signa. En ocasiones se ha utilizado 
+un plano de semiperfil para ocupar menos espacio en pantalla 
+pero en este tipo de plano la perspectiva hace que se superpon­
+gan las manos, disminuyendo la inteligibilidad para las perso­
+nas sordociegas.
+•	
+Se debe garantizar una buena iluminación del rostro y del cuer­
+po de la persona que signa sin exceso de luz.
+•	
+La iluminación debe evitar producir sombras en el rostro de la 
+persona que signa cuando sus manos cruzan por delante de él, 
+dada la importancia de la expresión facial.
+•	
+La iluminación debe evitar producir sombras en el fondo con el 
+fin de no causar distracciones y de mantener la homogeneidad 
+del mismo.
+6.4.	 Recomendaciones relativas a la señalización del servicio
+Los programas que cuenten con lengua de signos, bien en la propia trama 
+del programa, bien como servicio de interpretación o traducción, deben 
+estar convenientemente identificados con el objetivo de que su audiencia 
+potencial pueda reconocerlos. Sin ánimo de exhaustividad, esta recomenda­
+ción ha de alcanzar la información mostrada en pantalla, la información de 
+programación publicada en el teletexto de los distintos operadores, las mini­
+guías, las guías electrónicas de programación y la información de programa­
+ción que los operadores facilitan con la antelación legal. Esta identificación 
+puede hacerse en forma de iconografía, esto es, de una imagen que permita 
+reconocer claramente la prestación del servicio. Esta guía recomienda la uti­
+lización del icono de la figura 32, por tratarse de una imagen ya conocida y 
+que se ha venido utilizando para denotar la existencia de lengua de signos 
+en distintos soportes tecnológicos.
+Las guías electrónicas de programación son interfaces gráficas que 
+muestran en pantalla las parrillas de los distintos canales de televisión. Se 
+abrevian también como EPG (del inglés electronic programme guide). Con 
+frecuencia, se llaman desde un botón del mando a distancia etiquetado como 
+
+66
+Figura 32. 
+Icono propuesto para identificar 
+las emisiones en lengua de signos 
+española en televisión.
+«guide». La miniguía es una interfaz gráfica simplificada con información del 
+canal o del programa concreto que aparece en pantalla cuando se cambia 
+de canal o cuando se pulsa la tecla «info» del mando a distancia.
+
+67
+7.	
+Aspectos de calidad lingüística
+La incorporación de la lengua de signos española en un medio como la televisión con­
+tribuye de forma decisiva al ejercicio de los derechos lingüísticos de personas sordas y 
+sordociegas usuarias de la lengua de signos. Es indiscutible el valor social de la televi­
+sión: facilita tomar postura política, evaluar o sopesar la trascendencia de la actualidad 
+informativa, compartir los espacios televisivos más populares y, en definitiva, participar 
+de la vida social y cultural.
+La consideración con la que se aborde la calidad de la lengua de signos espa­
+ñola incide directamente en la consideración que se tiene de su comunidad usuaria. 
+Son muchas las personas sordas y sordociegas que a lo largo de la historia atesoran 
+la lengua de signos española como un objeto de incalculable valor, llegando incluso a 
+entender su lengua como valor identitario. Por todo ello se requiere responsabilidad y 
+compromiso, no sólo de los profesionales sino también de las entidades que participan 
+en la gestión del servicio. Mención especial cabe para los contenidos que se desarro­
+llan directamente en lengua de signos española (que no son fruto de una traducción o 
+interpretación). Convendría aumentar este tipo de espacios televisivos que se diseñan 
+y se producen por personas sordas y sordociegas para personas sordas y sordociegas 
+en lengua de signos española.
+La presencia de la lengua de signos en la televisión sin duda tiene un valor inne­
+gable para la normalización de la lengua, ahora bien, para que no revierta de forma 
+contraproducente hay que observar con especial cuidado que la lengua de signos reúna 
+cierta congruencia con la norma lingüística aceptada por las personas sordas usuarias. La 
+emisión de contenidos en la lengua de signos española en televisión responde a criterios 
+de accesibilidad que sin duda garantizan no sólo la participación social del colectivo de 
+personas sordas y sordociegas usuarias de la lengua de signos española, sino que tam­
+bién ofrece con criterios de igualdad el acceso a contenidos de ocio y entretenimiento, 
+además de los meramente informativos, logrando así que las personas sordas accedan 
+y disfruten de la televisión en condiciones de igualdad. Para lograr este objetivo además 
+de conseguir una emisión de vídeo adecuada en términos de realización y producción 
+audiovisual es necesario que la lengua de signos empleada reúna criterios de rigor y pre­
+cisión lingüística. Para ello es muy importante contar con profesionales de la traducción 
+e interpretación, específica y especialmente formados y con experiencia en este ámbito.
+En la incorporación de esta lengua a la televisión es habitual recurrir a la inter­
+pretación o a la traducción de los contenidos. No son una misma actividad: cada una 
+
+68
+implica una formación y el aprendizaje de técnicas, estrategias y recursos diferentes. La 
+diferencia principal entre la traducción y la interpretación está en el tiempo en el que 
+se desarrollan. 
+En interpretación, el profesional sólo puede llevar a cabo un proceso de docu­
+mentación y un estudio general del tema antes de que se lleve a cabo la situación de 
+interpretación. Por lo general, sabe el tema que se va a tratar pero no cómo ni hasta 
+qué punto de profundidad. No tiene posibilidad de retroceder en la ejecución de su 
+interpretación. A diferencia del traductor, no puede «borrar» sus palabras o signos para 
+sustituirlos por otros. Evidentemente la calidad lingüística (y literaria según el caso) de la 
+traducción es siempre mayor en tanto en cuanto el profesional cuenta con instrumentos 
+para la reflexión y toma en consideración de las fórmulas más adecuadas para expre­
+sar según qué contenidos, así podrá ser más congruente con la intención comunicativa 
+y con los intereses de la población destinataria del programa. En el caso de la inter­
+pretación en televisión, la situación se complica un poco más ya que el profesional no 
+puede contar con los interlocutores in situ, no obtiene ninguna retroalimentación por 
+parte de los usuarios y no cuenta por tanto con la posibilidad de pedir aclaraciones o 
+repeticiones de la información objeto de interpretación.
+La interpretación es un proceso en el que se toman, una a una, decisiones lingüís­
+ticas de forma sucesiva. Mientras que en una traducción el profesional puede cotejar, 
+contrastar o reflexionar para optar por una u otra solución lingüística, el intérprete no 
+cuenta con tiempo para hacerlo, sólo tiene a su alcance su bagaje profesional, su expe­
+riencia, su conocimiento previo y su nivel de competencia en ambos idiomas. Por tanto, 
+dada la dificultad de la interpretación en un medio como la televisión se requieren pro­
+fesionales muy diestros en la profesión y con cierto entrenamiento previo en situaciones 
+de similar complejidad. De lo contrario, se compromete el servicio causando un gran 
+perjuicio a la imagen de la lengua de signos española y, por consiguiente, a la de las 
+personas sordas y sordociegas usuarias de la misma. 
+Cada ejercicio profesional se ajusta a las exigencias y necesidades planteadas 
+por los interlocutores, el género y el formato audiovisual. Si el contenido está graba­
+do lo recomendable es recurrir a traducciones hechas por profesionales con un nivel 
+óptimo de lengua de signos española, quienes mejor pueden adecuar la traducción al 
+contexto y a la población destinataria. En este sentido, contar con profesionales sordos 
+contribuye a construir una imagen positiva y real de las personas sordas y su potencial 
+como productores, realizadores y traductores de contenidos audiovisuales en lengua de 
+
+69
+signos, mejorando la actual infrarrepresentación de este colectivo en la televisión. En 
+cambio, si la emisión del programa es en directo se precisa una interpretación simultá­
+nea, por lo que las técnicas y estrategias que se van a implementar son distintas. 
+Sea como sea ambos profesionales requieren una adecuación no solo de técnicas 
+y estrategias, sino también de recursos lingüísticos como el tipo de vocabulario que se 
+emplea, el rango del registro más adecuado a cada situación, la temática, el sentido de 
+la comunicación y un largo etcétera de aspectos lingüísticos y extralingüísticos propios 
+en función del contexto. 
+El detalle de las características y requisitos profesionales antes mencionados acon­
+sejan establecer medidas orientadas a minimizar la tensión y la dificultad de la tarea. 
+Se requiere, por tanto, establecer turnos de descanso, tiempos para la preparación, 
+cauces para la coordinación, supervisión, espacios y herramientas que simplifiquen la 
+interpretación, etc. 
+En lo que se refiere a los profesionales, se precisa además de la cualificación 
+profesional adecuada, una amplia experiencia tanto en la profesión como en televisión. 
+Se trata de un ámbito profesional extremadamente complejo que emplea un lenguaje 
+muy específico y cuyas sesiones suelen tener una duración prolongada que exigen un 
+alto nivel de concentración para que la calidad del trabajo no se vea afectada. Cabe 
+destacar que el factor que mejor palia la situación de estrés que sobrelleva cualquier 
+profesional de la interpretación mejora sustancialmente cuanto mayor es el nivel de 
+dominio en las lenguas de trabajo; a mayor competencia lingüística menos factor de 
+estrés, incluyendo rasgos socioculturales, discursivos y funcionales. Además, los profe­
+sionales deberían contar con experiencia en guía-interpretación ya que la transmisión 
+de información entre usuarios sordos y sordociegos tiene ciertas diferencias que un 
+guía-intérprete experimentado podría aplicar en caso de trabajar en televisión.
+Para la selección de los profesionales de la traducción e interpretación en lengua 
+de signos española en televisión se recomienda contar con el asesoramiento de las en­
+tidades representativas de la comunidad lingüística usuaria con reconocido prestigio en 
+la promoción y difusión de la lengua de signos española.
+Se incluyen a continuación algunas recomendaciones para facilitar la emisión de 
+contenidos televisivos en lengua de signos española:
+•	
+Distinguir entre espacios susceptibles de ser traducidos y no interpretados, y 
+en cualquier caso apostar por profesionales sordos y sordociegos.
+
+70
+•	
+Establecer calendarios de trabajo, plazos y relevos profesionales que no com­
+prometan la calidad del trabajo profesional.
+•	
+Prevenir espacios y tiempos para la coordinación entre operadores y presta­
+dores del servicio.
+•	
+Mantener cauces de colaboración y seguimiento con las entidades representa­
+tivas de la comunidad lingüística usuaria con reconocido prestigio en la pro­
+moción y difusión de la lengua de signos española para incorporar medidas 
+de mejora continua.
+•	
+Testear la calidad del signado con los usuarios finales. 
+•	
+Introducir la figura del experto en lengua de signos española que vele por la 
+calidad del trabajo de los profesionales de la interpretación.
+•	
+Ponderar la experiencia profesional en televisión de los profesionales.
+•	
+Asegurar un número suficiente de intérpretes o profesionales sordos para 
+cada turno que permitan relevos de no más de treinta minutos y los descansos 
+necesarios. En los programas de más de dos horas, se recomienda formar 
+equipos de tres profesionales en cada turno, para que en cada relevo haya 
+un profesional ante la cámara, uno apoyando la interpretación y un tercero 
+descansando.
+Especialmente para la labor de traducción e interpretación:
+•	
+Reconocer la terminología específica de cada espacio televisivo.
+•	
+Identificar a priori dinámicas y agentes propios de cada espacio televisivo.
+•	
+Detectar y subsanar a tiempo sin comprometer la comunicación, los errores 
+cometidos (omisión, sustitución, adición, intrusión).
+•	
+Utilizar con agilidad los recursos propios de la lengua de signos española, 
+para resolver autónoma y creativamente situaciones de traducción e interpre­
+tación que planteen distintos problemas terminológicos, ausencia de corres­
+pondencia exacta e inexistente de signos, etc.
+•	
+Utilizar con agilidad los recursos propios de la traducción e interpretación 
+(glosarios, ficheros terminológicos, etc.) para resolver con autonomía y creati­
+vidad las situaciones de interpretación que planteen distintos problemas termi­
+nológicos (imposibilidad de traducción literal, ausencia de correspondencia 
+exacta, inexistencia de signos, etc.).
+
+71
+•	
+Implementar todo tipo de recursos lingüísticos, expresivos e interpretativos.
+•	
+Aplicar las técnicas e instrumentos propios de la traducción e interpretación 
+simultánea según el caso para transmitir con corrección y fidelidad cualquier 
+mensaje teniendo presente en todo momento las normas profesionales. 
+•	
+Incorporar cauces para la coordinación entre profesionales (producción, rea­
+lización, interpretación, etc.).
+
+72
+8.	 Recursos y referencias
+AENOR (2012): UNE 153010:2012: Subtitulado para personas sordas y personas 
+con discapacidad auditiva. Madrid: Asociación Española de Normalización y 
+Certificación (AENOR).
+AENOR (2007): UNE 139804:2007: Requisitos para el uso de la lengua de signos 
+española en redes informáticas. Madrid: Asociación Española de Normalización 
+y Certificación (AENOR).
+AENOR (2005): UNE 153020:2005: Audiodescripción para personas con discapa­
+cidad visual. Requisitos para la audiodescripción y elaboración de audioguías. 
+Madrid: Asociación Española de Normalización y Certificación (AENOR).
+Allsop, L. y Kyle, J. (2008): “Translating the news: a deaf translator’s experience”, en 
+Kellett, C. y Ochse, E. (coords.): English in international deaf communication, pp. 
+383-40. Berna: Peter Lang.
+Alonso, A., Martín, C. A., Menéndez, J. M. y Cisneros, G. (2010): “Implementación de 
+un receptor de televisión digital accesible”. XX Jornadas Telecom I+D. Valladolid. 
+ISBN: 978.84.89900.38.7 Registro N.º: 10/72296.
+Bosch Baliarda, M., Soler, O., Orero, P. y Redon Sala, N. (2014): “HBB4ALL: La televi­
+sió accesible”. V Seminari de la LSC. Barcelona.
+Bros-Brann E. (2002): “Simultaneous interpretation and the media: interpreting live for 
+television”. aiic.net. Disponible en: http://aiic.net/p/630 [Última consulta: 25 de 
+octubre, 2016].
+CENELEC (2003): Standardisation Requirements for Access to Digital TV and Interactive 
+Services by Disabled People. CENELEC. Disponible en: http://www.acessibilida­
+de.net/tdt/FinalreportTVforAll.pdf [Última consulta: 25 de octubre, 2016].
+CNLSE (2015): Informe: presencia de la lengua de signos española en la televisión. Ma­
+drid: Real Patronato sobre Discapacidad. Disponible en: http://www.siis.net/do­
+cumentos/documentacion/Informe.%20Presencia%20de%20la%20Lengua%20
+de%20Signos.pdf [Última consulta: 25 de octubre, 2016].
+CNLSE (2015): Congreso CNLSE 2015 de la Lengua de Signos Española 2015. Ví­
+deos disponibles en: https://www.youtube.com/playlist?list=PLHfLt3UTyN9N9i­
+J1Lk8q-KfLKFvcNqbpn [Última consulta: 25 de octubre, 2016] (Pendiente la publi­
+cación de las actas).
+
+73
+CNMC (2016): Informe sobre el grado de cumplimiento de las obligaciones impuestas 
+en materia de accesibilidad y presencia de las personas con discapacidad en 
+los medios audiovisuales. Disponible en: https://www.cnmc.es/sites/default/fi­
+les/1313004_0.pdf [Última consulta: 2 de noviembre, 2016].
+Comisión Europea (2010): Directiva 2010/13/UE del Parlamento Europeo y del Con­
+sejo, de 10 de marzo de 2010, sobre la coordinación de determinadas disposi­
+ciones legales, reglamentarias y administrativas de los Estados miembros relativas 
+a la prestación de servicios de comunicación audiovisual (Directiva de servicios 
+de comunicación audiovisual). Diario Oficial de la Unión Europea. Disponible en: 
+http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32010L0013&­
+from=EN [Última consulta: 25 de octubre, 2016].
+Comisión Europea (2015): Propuesta de directiva del Parlamento Europeo y del Con­
+sejo relativa a la aproximación de las disposiciones legales, reglamentarias y 
+administrativas de los Estados miembros por lo que se refiere a los requisitos de 
+accesibilidad de los productos y los servicios. Bruselas: Comisión Europea. Dispo­
+nible en: https://ec.europa.eu/transparency/regdoc/rep/1/2015/ES/1-2015615-ES-F1-1.PDF [Última consulta: 25 de octubre, 2016].
+Comisión Europea (2016): Propuesta de Directiva del Parlamento Europeo y del Con­
+sejo, por la que se modifica la Directiva 2010/13/UE, sobre la coordinación 
+de determinadas disposiciones legales, reglamentarias y administrativas de los 
+Estados miembros relativas a la prestación de servicios de comunicación audiovi­
+sual, a la vista de la evolución de las realidades del mercado. Bruselas: Comisión 
+Europea. Disponible en: http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?u­
+ri=CELEX:52016PC0287&from=EN [Última consulta: 25 de octubre, 2016].
+Conti, G. (2009): Emisión de vídeo con lenguaje de signos para personas con disca­
+pacidad auditiva. Trabajo fin de Máster, E.T.S.I. de Telecomunicación. Madrid: 
+Universidad Politécnica de Madrid.
+Duncan, B. (1997): “Deaf people interpreting on television”, Deaf Worlds, International 
+Journal of Deaf Studies, 13, 3, pp. 35–39.
+EBU (2004): EBU Report on access services: includes recommendations. European 
+Broadcasting Union. Disponible en: https://tech.ebu.ch/docs/i/i044.pdf [Última 
+consulta: 25 de octubre, 2016].
+
+74
+España (2013): Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se 
+aprueba el Texto Refundido de la Ley General de derechos de las personas con 
+discapacidad y de su inclusión social. Boletín Oficial del Estado, núm. 289, de 3 
+de diciembre de 2013, pp. 95635-95673. Disponible en: https://www.boe.es/
+buscar/pdf/2013/BOE-A-2013-12632-consolidado.pdf [Última consulta: 25 de 
+octubre, 2016].
+España (2010): Ley 7/2010, de 31 de marzo, General de la Comunicación Audio­
+visual. Boletín Oficial del Estado, núm. 79, de 1 de abril de 2010, pp. 3015730209. 
+Disponible 
+en: 
+http://www.boe.es/boe/dias/2010/04/01/pdfs/
+BOE-A-2010-5292.pdf [Última consulta: 25 de octubre, 2016].
+España (2010): Real Decreto 921/2010, de 16 de julio, por el que se modifica el Estatuto 
+del Real Patronato sobre Discapacidad aprobado por el Real Decreto 946/2001, 
+de 3 de agosto, para regular el Centro de Normalización Lingüística de la Lengua 
+de Signos Española. Boletín Oficial del Estado, núm. 173, de 17 de julio de 2010, 
+pp. 63103-63105. Disponible en: http://www.boe.es/boe/dias/2010/07/17/
+pdfs/BOE-A-2010-11428.pdf [Última consulta: 25 de octubre, 2016].
+España (2009): Ley 8/2009, de 28 de agosto, de financiación de la Corporación 
+de Radio y Televisión Española. Boletín Oficial del Estado, núm. 210, de 28 de 
+agosto de 2009, pp. 74003-74015. Disponible en: https://www.boe.es/boe/
+dias/2009/08/31/pdfs/BOE-A-2009-13988.pdf [Última consulta: 25 de octu­
+bre, 2016].
+España (2007): Ley 27/2007, de 23 de octubre, por la que se reconocen las lenguas de 
+signos españolas y se regulan los medios de apoyo a la comunicación oral de las 
+personas sordas, con discapacidad auditiva y sordociegas. Boletín Oficial del Estado, 
+núm. 255, de 24 de octubre de 2007, pp. 43251-43259. Disponible en: http://
+www.boe.es/boe/dias/2007/10/24/pdfs/A43251-43259.pdf [Última consulta: 
+25 de octubre, 2016].
+España (2007): Real Decreto 1494/2007, de 12 de noviembre, por el que se aprueba 
+el Reglamento sobre las condiciones básicas para el acceso de las personas con 
+discapacidad a las tecnologías, productos y servicios relacionados con la socie­
+dad de la información y medios de comunicación social. Boletín Oficial del Esta­
+do, de 12 de noviembre de 2007. Disponible en: https://www.boe.es/buscar/
+pdf/2007/BOE-A-2007-19968-consolidado.pdf [Última consulta: 25 de octubre, 
+2016].
+
+75
+España (2005): Real Decreto 944/2005, de 29 de julio, por el que se aprueba el Plan 
+técnico nacional de la televisión digital terrestre. Boletín Oficial del Estado, 181, 
+de 30 de julio de 2005, pp. 27006-27014. Disponible en: https://www.boe.es/
+boe/dias/2005/07/30/pdfs/A27006-27014.pdf [Última consulta: 25 de octu­
+bre, 2016].
+España (1978): Constitución Española de 1978. Boletín Oficial del Estado, núm. 311, de 
+29 de diciembre de 1978. Disponible en: https://www.boe.es/buscar/pdf/1978/
+BOE-A-1978-31229-consolidado.pdf [Última consulta: 25 de octubre, 2016].
+FTTD, Foro Técnico de la Televisión Digital (2005): Accesibilidad en Televisión Digital 
+para personas con discapacidad. Madrid: Ministerio de Industria, Turismo y Co­
+mercio. Disponible en: http://www.rpd.es/documentos/GT5_Accesibilidad_tv_di­
+gital.pdf [Última consulta: 25 de octubre, 2016].
+Gil, E. y Utray, F. (2016): “La lengua de signos en televisión en España: estudio de re­
+cepción”. Área abierta, Vol. 16, n.º 1, pp. 17-37 Disponible en: http://revistas.
+ucm.es/index.php/ARAB/article/view/47508/48048 [Última consulta: 25 de 
+octubre, 2016].
+Gutermuth, S. (2011): Bickverhalten Gehörloser bei der Nachrichtenrezeption mit Ge­
+bÄrdensprachdolmetscher - eine Pilotstudie am Beispiel PHOENIX TV. Unpublished 
+M. A. Thesis. Mainz: Johannes Gutenberg-Universität.
+HBB4ALL (2016a): Hybrid Broadcast Broadband for All: Online Course on Media Ac­
+cessibility: Partes 4.2 y 4.3. [Requiere inscripción al curso]. Disponible en: http://
+accessguide.tv/course/course4.html.
+HBB4ALL (2016b): Hybrid Broadcast Broadband for All: Entregable D6.4 Evaluations 
+and recommendations [En proceso de elaboración] Próxima publicación en: http://
+hbb4all.eu/.
+HBB4ALL (2015): Hybrid Broadcast Broadband for All: Entregable D6.2 – Pilot-D So­
+lution Integration and Trials. Disponible en: http://www.hbb4all.eu/wp-content/
+uploads/2015/03/D6.2-Pilot-D-Solution-Integration-and-Trials-2015.pdf.
+HBB4ALL (2014): Hybrid Broadcast Broadband for All: Entregable: D6.1 – Pilot-D Progress 
+report. Disponible en: http://www.hbb4all.eu/wp-content/uploads/2015/03/
+D6.1-Pilot-D-Progress-Report.pdf.
+Kyle, J. (2007): “Sign on television: analysis of data: Based on projects carried out by the 
+Deaf Studies Trust 1993-2005”, Deaf Studies Trust. Bristol.
+
+76
+Maneiro, A. (2010): 25 años de Televisión de Galicia: de 1985 a 2010. Santiago de 
+Compostela: Compostela. ISBN: 978-84-8064-227-9.
+Martín de Pablos, F. (2015): Integración de las técnicas de producción de contenido 
+accesible en la retransmisión de contenido audiovisual a través de internet. Te­
+sis Doctoral dirigida por el Dr. Manuel Sánchez Cid. Madrid: Universidad Rey 
+Juan Carlos. Disponible en: http://www.edsolproducciones.com/descargas/tesis/
+Fernando_Martin_de_Pablos-Tesis_Doctoral.pdf [Última consulta: 25 de octubre, 
+2016].
+McDonald, A. (2012): “The in-vision sign language interpreter in british television dra­
+ma”, en Remael, A., Orero, P. y Carroll, M. (eds.): Audiovisual translation and 
+media accessibility at the crossroads: media for all, pp. 189- 205. Amsterdam: 
+Rodopi.
+Naciones Unidas (2006): Convención sobre los derechos de las personas con discapa­
+cidad y su Protocolo Facultativo. Disponible en: http://www.un.org/disabilities/
+documents/convention/convoptprot-s.pdf [Última consulta: 25 de octubre, 2016].
+NDA, National Disability Authority y CEUD, Centre for Excellence in Universal Design 
+(s. f.): Guidelines for Digital TV equipment and services. Disponible en: http://
+universaldesign.ie/Technology-ICT/Irish-National-IT-Accessibility-Guidelines/Digi­
+tal-TV-equipment-and-services/guidelines-for-digital-tv-equipment-and-services/ [Últi­
+ma consulta: 25 de octubre, 2016].
+Ofcom (2006): Guidelines on the provision of television access services. Disponible en: 
+https://www.ofcom.org.uk/__data/assets/pdf_file/0023/19391/guidelines.pdf.
+Redón Sala, N. (2014): Qualitat en la interpretació de llengua de signes a la televisió: 
+accessibilitat a la cultura. Trabajo Final de Grado en Logopedia. Barcelona: Univer­
+sidad Autónoma de Barcelona.
+Russo, M. (1995): “Media Interpreting: Variables and Strategies”, Council of Europe, 
+International Forum (Strasbourg): Audiovisual Communication and Language Trans­
+fer. Translation: FIT Newsletter, Nouvelle série XIV, n.º 3-4, pp. 343-349.
+Ryan, H. y Skinner, R. (2015): “Video Interpreting Best practices: Association of Sign 
+Language Interpreters”. ASLI online version: https://www.asli.org.uk/app/
+uploads/2017/05/ASLI_Video_Interpreting_Best_Practice_VIBP-1.pdf [Última con­
+sulta: 25 de octubre, 2016].
+
+77
+Signing Books (1999): Signing Books for the Deaf project. Disponible en: http://www.
+sign-lang.uni-hamburg.de/signingbooks/sbrc/grid/d71/guidein.htm
+Soler, O. y Bosch Baliarda, M. (2015): “Hbb4All: Diseño de experimentos con usuarios 
+para evaluar la recepción de LSE en TV”. Presentado en el Congreso CNLSE de 
+la Lengua de Signos Española 2015. Disponible en: https://www.youtube.com/
+watch?v=WMVEAauAAPk [Última consulta: 25 de octubre, 2016]
+Stone, C. (2007): “Deaf access for deaf people: the translation of the television news 
+from English into British Sign Language”, en Díaz Cintas, J., Orero, P. y Remael, A. 
+(eds.): Media for all: subtitling for the deaf, audio description and sign language, 
+pp.71-88. Amsterdam: Rodopi.
+TNO (2014): “Automated Sign Language”, TNO Report: TNO 2014 R10825. Disponi­
+ble en: https://www.tno.nl/media/3385/automated_sign_language_tno_2014_
+r10825.pdf [Última consulta: 25 de octubre, 2016]
+UNESCO (1996): Declaración universal de derechos lingüísticos. Barcelona: UNESCO. 
+Disponible en: http://culturalrights.net/descargas/drets_culturals388.pdf [Última 
+consulta: 25 de octubre, 2016]
+W3C (2014): G54: Including a sign language interpreter in the video stream. Web Con­
+tent Accessibility Guidelines (WCAG) 2.0. Disponible en: http://www.w3.org/
+TR/2014/NOTE-WCAG20-TECHS-20140916/G54 [Última consulta: 25 de oc­
+tubre, 2016]
+Wehrmeyer, J. (2014): “Eye-tracking Deaf and hearing viewing of sign language interpre­
+ter news broadcasts”, Journal of Eye Movement Research, Vol. 7 n.º 1, pp. 1 – 16.
+

@@ -1,0 +1,276 @@
+Get started with live streaming - YouTube Help       Skip to main content 
+
+YouTube Help
+
+Sign in
+
+Google Help
+
+Help Center
+Fix a problem
+Watch videos
+Manage your account & settings
+Supervised experiences on YouTube
+YouTube Premium
+Create & grow your channel
+Monetize your content
+Policy, safety, & copyright
+Community
+YouTube
+
+Privacy Policy
+YouTube Terms of Service
+Submit feedback
+
+   Send feedback on...
+
+This help content & information
+
+General Help Center experience
+
+CloseNext
+
+Help Center
+Community
+Creator Tips
+
+YouTube
+
+Fix a problemTroubleshoot problems playing videosTroubleshoot account issuesFix upload problemsGet help with the YouTube Partner ProgramLearn about recent updates on YouTubeGet help with YouTube
+
+Watch videosFind videos to watchChange video settingsWatch videos on different devicesComment, subscribe, & connect with creatorsSave or share videos & playlistsTroubleshoot problems playing videosPurchase & manage movies, TV shows & products on YouTube
+
+Manage your account & settingsSign up and manage your accountManage account settingsManage privacy settingsManage ad settingsManage accessibility settingsTroubleshoot account issuesYouTube updates
+
+Supervised experiences on YouTubeSupervised accounts for kidsSupervised accounts for teens
+
+YouTube PremiumJoin YouTube PremiumYouTube Premium benefitsManage your Premium membershipManage Premium billing & paymentsFix YouTube Premium issues
+
+Create & grow your channelUpload videosEdit videos & video settingsCreate ShortsEdit videos with YouTube CreateCustomize & manage your channelAnalyze performance with analyticsTranslate videos, subtitles, & captionsManage your posts & commentsLive stream on YouTubeYouTube Creator CommunityBecome a podcast creator on YouTubeCreator and Studio App updates
+
+Monetize your contentYouTube Partner ProgramMake money on YouTubeGet paidUnderstand ads and related policiesGet help with the YouTube Partner ProgramYouTube for Content Managers
+
+Policy, safety, & copyrightYouTube policiesReporting and enforcementPrivacy and safety centerCopyright and rights management
+
+Live stream on YouTube
+Get started with live streaming
+
+                                   Get started with live streaming
+Live streaming lets you interact with your audience in real time with a video feed, chat, and more.
+
+Intro To Live Streaming on YouTube
+
+Subscribe to the YouTube Creators channel for the latest news, updates, and tips.
+
+Enable live streaming
+
+To live stream, you need to have no live streaming restrictions in the past 90 days and you need to verify your channel.
+
+  Note: You must be at least 16 years old to live stream. Live streams that do not follow the minimum age requirement will be taken down and the account may temporarily lose its ability to live stream. Additionally, live streams featuring 13-15 year olds who are not visibly accompanied by an adult may have their live chat disabled and the account may temporarily lose access to live chat or other features.
+
+Choose a way to stream
+
+There are multiple methods of streaming: mobile, webcam, encoder, and console. Choose the one that's best for what you're streaming.
+
+Mobile 
+
+Good for vlogging and quick updates from your phone or tablet. To create a mobile live stream, you need to meet the requirements.
+
+Learn how to mobile stream.
+
+Webcam 
+
+Quickly live stream from your computer using a webcam. You’ll need a computer with a webcam.
+
+Learn how to stream with a webcam.
+
+Encoder 
+
+Encoders let you stream gameplay, overlays, and use hardware like preamps, mics, and cameras. This type of stream is commonly used for gaming, sporting events, concerts, and conferences.
+
+Learn how to stream using an encoder.
+
+Game Consoles
+
+Modern game consoles from PlayStation, Xbox, and Nintendo allow you to directly stream from the device. Please review each console maker’s instruction manual for directions to stream.
+
+Vertical live streams
+
+When your live stream is vertical (more tall than wide), viewers on mobile will now enter a full screen viewing experience when watching it. This experience includes a scrollable live stream feed where viewers have access to fan funding features like Super Chat, Super Stickers, channel memberships, and gifts, depending on eligibility. Viewers (not limited to existing channel subscribers) can also find these live streams when browsing YouTube Shorts.
+
+Stream in both horizontal and vertical formats
+
+By default, your live streams will go live in both horizontal (16:9 aspect ratio) and vertical (9:16 aspect ratio) formats at the same time when you stream from the Live Control Room. The vertical stream is a center crop of the horizontal stream, with other vertical layout options available below. This setting gives your audience more ways to view your content, whether they’re watching on a computer, TV, or in the Shorts feed on the YouTube mobile app.
+
+To edit the vertical layout options:
+
+  On a computer, go to YouTube Studio.
+
+  From the top right, click Create   Go live .
+
+  From the Live Control Room, click the “Manage” tab .
+
+  Select the thumbnail of the scheduled stream where you want to edit the layout.
+
+  From the vertical preview, select Edit layout to open the editing canvas and choose from the following options. You can also adjust the zoom and position of the vertical layout.
+
+      Center crop
+
+      Fit to phone width
+
+      Stacked
+
+  Note: If you edited your vertical layout through the editing canvas, you can continue to adjust the vertical layout to your preference while live.
+
+To edit both horizontal and vertical layouts through a third-party encoder:
+
+  From the Live Control Room, click the “Stream” tab .
+
+  From the vertical preview, select the Auto dropdown  Encoder. Choose the RTMP(S) streaming protocol for third-party dual streaming.
+
+      Select the Stream key dropdown to choose your second stream key to use for your vertical stream. Check that the vertical and horizontal content match, and the correct formats are sent to the corresponding stream key.
+
+  Go live from YouTube Studio.
+
+To turn this setting off:
+
+  From the Live Control Room, click the “Stream” tab .
+
+  Under the Stream settings tab, turn off Dual stream. A vertical stream will no longer be created from your horizontal live stream.
+
+  Note: You can’t add the vertical format once the stream has started.
+
+Subscribers will receive one “go live” notification with a shared stream URL. Viewers watching your stream in the Shorts feed on mobile will see the vertical version. All other viewers will see the horizontal stream. The same live chat is shown to viewers of both your horizontal and vertical streams.
+
+You can view your live stream metrics combined for both streams in the Live Control Room in YouTube Studio during and after the live stream. Metrics for just your vertical stream become available 24 hours after the stream. Learn how to view your stream metrics.
+
+Members-only live streams
+
+Members-only live streams are a great way to offer special content to your most loyal viewers. It's a simple way to create a more intimate community, and it can also encourage non-members to join your channel. To learn more about how it works, see Live stream to members-only.
+
+      Feature
+      Horizontal live streams
+
+      Vertical live feed
+
+      Discoverable in the Shorts feed
+      No
+      Yes
+
+      Scrollable for more live streams
+      No
+      Yes
+
+      Clickable links in chat and channel description
+      Yes
+      No
+
+      Live ad midrolls and pre-rolls
+      Yes
+      No
+
+      4K bitrate streaming (broadcast)
+      Yes
+      No (on YouTube app)
+
+      Premieres
+      Yes
+      No
+
+      Live redirect
+      Yes
+      No
+
+      Memberships
+      Yes
+      Yes
+
+      Gifted memberships
+      Yes
+      Yes
+
+  Learn about why you should live stream.
+
+What you can stream
+
+All content in live streams must adhere to our Community Guidelines and Terms of Service. If you suggest that you’ll live stream content that violates our Community Guidelines, we may age-restrict or remove your live stream. YouTube also reserves the right to restrict a creator's ability to live stream at its discretion.
+
+If you receive a warning on your live stream for violating our Community Guidelines, you can take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. We may prevent repeat offenders from taking policy training in the future.
+
+If your live stream is restricted, you may get a strike on your account. A strike will prevent you from live streaming for 14 days. If your account has been restricted from live streaming, you’re prohibited from using another channel to live stream on YouTube. This policy applies for as long as the restriction remains active on your account. Violation of this restriction is considered circumvention under our Terms of Service and may result in termination of your account.
+
+  How many active streams can you broadcast on YouTube?
+
+    There is a limit of 10 active streams allowed per channel and 3 active streams per stream key. These limits are applied at the same time.
+
+        Note: Once either limit is reached, you will not be able to start additional streams.
+
+              Was this helpful?
+How can we improve it?
+YesNo
+
+Submit
+
+              Need more help?
+ Try these next steps:
+
+    Post to the help community    Get answers from community members  
+
+ true
+     Live stream on YouTube
+1 of 9
+Get started with live streaming
+2 of 9
+Create a live stream via webcam
+3 of 9
+Create a live stream on mobile
+4 of 9
+Use Live Chat during your live stream or Premiere
+5 of 9
+Promote your live stream
+6 of 9
+Streaming tips
+7 of 9
+Moderate live chat
+8 of 9
+Create a YouTube live stream with an encoder
+9 of 9
+Invite a guest to your live stream with Go Live Together
+
+             ©2026 Google     Privacy Policy  
+   YouTube Terms of Service  
+
+      Language   Afrikaans‎azərbaycan‎bosanski‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎euskara‎Filipino‎français‎français (Canada)‎Gaeilge‎galego‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎o‘zbek‎polski‎português‎português (Brasil)‎română‎shqip‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎беларуская‎български‎кыргызча‎македонски‎монгол‎русский‎српски‎українська‎қазақ тілі‎հայերեն‎‏עברית‏اردو‏العربية‏فارسیनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎မြန်မာ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎            Enable Dark Mode
+
+        Send feedback on...
+ This help content & information General Help Center experience 
+
+  Search
+Clear search
+Close search
+Google apps
+Main menu
+
+                4400655030280830683
+                                                            true
+
+                        Search Help Center
+   false
+    true
+
+    true
+
+    true
+
+                                                                                      true
+   true
+   59
+                                                                                            false
+
+    false
+
+                                                                                                                                                                               false
+   false
+
+  false
+  

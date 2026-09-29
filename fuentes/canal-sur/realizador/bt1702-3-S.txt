@@ -1,0 +1,734 @@
+  
+Unión Internacional de Telecomunicaciones 
+Recomendaciones 
+Sector de Radiocomunicaciones 
+ 
+ 
+ 
+ 
+ 
+Recomendación UIT-R BT.1702-3 
+(11/2023) 
+Serie BT: Servicio de radiodifusión (televisión) 
+Directrices para reducir el riesgo de 
+ataques de epilepsia fotosensible 
+causados por la televisión 
+ 
+ 
+
+ii 
+Rec.  UIT-R  BT.1702-3 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en la Resolución UIT-R 1. Los formularios que deben utilizarse en la 
+declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección web 
+http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en https://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la Resolución 
+UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2024 
+ 
+© UIT 2024 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.1702-3 
+1 
+ 
+RECOMENDACIÓN  UIT-R  BT.1702-31 
+Directrices para reducir el riesgo de ataques de epilepsia fotosensible 
+causados por la televisión 
+(2005-2018-2019-2023) 
+Cometido 
+La presente Recomendación surge como consecuencia de un gran número de estudios que se han realizado en 
+todo el mundo sobre la epilepsia fotosensible. Las directrices propuestas en esta Recomendación tienen por 
+objeto proteger el segmento vulnerable de telespectadores que sufre de epilepsia fotosensible y que, por 
+consiguiente, es propenso a padecer ataques causados por luces parpadeantes o intermitentes, entre las que se 
+pueden mencionar cierto tipo de imágenes de televisión o imágenes que cambian rápidamente o ciertos tipos 
+de imágenes estáticas de carácter repetitivo2. Se solicita a las organizaciones de radiodifusión que sensibilicen 
+a los productores de programas sobre los riesgos que supone crear contenido de imágenes de televisión que 
+puedan ocasionar ataques de epilepsia fotosensible en televidentes susceptibles a este tipo de imágenes. En los 
+Anexos 1 a 5 aparece información de orientación adicional sobre este tema. 
+Palabras clave 
+Epilepsia, imágenes parpadeantes, fotosensibilidad, ataques, imágenes estáticas de carácter repetitivo 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que en diversas partes del mundo se han registrado varios casos de ataques epilépticos 
+fotosensibles individuales o colectivos en personas vulnerables, particularmente en niños, causados 
+por imágenes y estáticas de carácter repetitivo de televisión parpadeantes o intermitentes; 
+b) 
+que si bien las imágenes de televisión proyectadas en los receptores de televisión no son la 
+causa directa de epilepsia fotosensible, éstas pueden provocar ataques en personas que sufren de esta 
+patología; 
+c) 
+que es conveniente identificar medidas a fin de evitar la creación involuntaria de material 
+para la radiodifusión de televisión que pueda provocar ataques de epilepsia fotosensible; 
+d) 
+que las medidas deben ser proporcionales a los riesgos y que no deben constituir una barrera 
+para las organizaciones de radiodifusión o los productores de programas; 
+e) 
+que el impacto de las medidas en los radiodifusores o productores de programas puede variar 
+según el tipo de programas que difundan; 
+f) 
+que, a fin de que su aplicación sea eficaz, tales medidas deben ser sencillas y de fácil 
+comprensión para los productores de programas no técnicos: 
+– 
+que en el caso de alguna programación en directo, tales como los telediarios, a menudo la 
+producción del programa escapa al control del radiodifusor; 
+– 
+que los resultados de la medición para evaluar la conformidad con las directrices dependen 
+de una serie de parámetros de medición; 
+ 
+1 Esta Recomendación se ha de poner en conocimiento de la Organización Mundial de la Salud. 
+2 En ocasiones denominado como patrón espacial. 
+
+2 
+Rec.  UIT-R  BT.1702-3 
+– 
+que el entorno de observación y el dispositivo de presentación, que puede afectar la 
+posibilidad de que surjan problemas en televidentes susceptibles, pueden ser diferentes 
+dependiendo del estilo de vida a nivel mundial; 
+g) 
+que no se puede erradicar completamente el riesgo de que los televidentes más sensibles 
+sufran ataques: 
+– 
+que algunos televidentes muy susceptibles pueden protegerse colocando un filtro en el 
+receptor; 
+– 
+que debido a la complejidad de la cadena de radiodifusión de extremo a extremo en la que 
+participan muchas organizaciones y tecnologías, que va desde la captura de la imagen hasta 
+la presentación de la misma, pasando por la producción, la edición, la radiodifusión y la 
+recepción, y teniendo en cuenta el entorno de observación, no existe ninguna organización 
+que pueda controlar totalmente de extremo a extremo este efecto, 
+recomienda 
+1 
+que se aliente a las organizaciones de radiodifusión a ofrecer directrices a los productores de 
+programas sobre los riesgos que supone crear contenido de imágenes de televisión que puedan causar 
+ataques de epilepsia fotosensible en telespectadores susceptibles; 
+2 
+que los productores de material de programas para la radiodifusión de televisión, los 
+fabricantes de equipos de usuario, y los telespectadores, consulten la información sobre directrices 
+técnicas que figura en los Anexos, 
+recomienda además 
+1 
+que se realicen más estudios en los que se reconozca la existencia de diferentes tipos de 
+programas en los entornos de radiodifusión; 
+2 
+que debido a la complejidad de los aspectos que hay que tener en cuenta, se consulte a las 
+organizaciones médicas internacionales adecuadas (por ejemplo, la Organización Mundial de la 
+Salud), y se informe continuamente sobre esta cuestión. 
+ 
+ 
+Anexo 1 
+ 
+Directrices sobre las imágenes parpadeantes o de carácter repetitivo en 
+televisión destinada a las organizaciones de producción de programas 
+Las imágenes parpadeantes, intermitentes o que cambian rápidamente y cierto tipo de imágenes 
+estáticas de carácter repetitivo pueden causar problemas a algunos de los telespectadores propensos 
+a la epilepsia fotosensible. El análisis de la información procedente de fuentes médicas de gran 
+renombre en esta área [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] y la experiencia de las organizaciones de 
+radiodifusión han dado lugar a la elaboración de directrices encaminadas a reducir el riesgo de 
+exposición a los estímulos dañinos potenciales. 
+Por su propia naturaleza, la televisión es un medio que difunde imágenes intermitentes. Las imágenes 
+transmitidas normalmente se renuevan 50 ó 60 veces por segundo, en cuyo caso el barrido entrelazado 
+genera intermitencia 25 ó 30 veces cada segundo. Es, por tanto, imposible eliminar el riesgo de las 
+imágenes intermitentes en televisión que causan convulsiones en telespectadores que sufren de 
+epilepsia fotosensible. Con el fin de reducir el riesgo, deben aplicarse las siguientes directrices sobre 
+contenido visual cuando se observan claramente imágenes intermitentes o imágenes estáticas de 
+carácter repetitivo en condiciones normales de observación doméstica. 
+
+ 
+Rec.  UIT-R  BT.1702-3 
+3 
+ 
+Directriz 1 Imágenes parpadeantes potencialmente dañinas 
+Una intermitencia es potencialmente peligrosa cuando se producen un par de cambios opuestos en la 
+luminancia (es decir, un aumento en la luminancia seguido de una disminución, o una disminución 
+seguida de un aumento) como se detalla a continuación. 
+– 
+Cuando la luminancia en pantalla de la imagen más oscura es inferior a 160 cd/m2, se produce 
+una secuencia de intermitencias potencialmente peligrosas cuando hay una diferencia igual 
+o superior a 20 cd/m2 entre la luminancia en pantalla de la imagen más oscura y más brillante 
+(véanse las Notas 2 y 3). Esto se aplica a los programas con baja gama dinámica (SDR) y 
+elevada gama dinámica (HDR). 
+– 
+Cuando la luminancia en pantalla de la imagen más oscura no es inferior a 160 cd/m2, se 
+produce una secuencia de intermitencias potencialmente peligrosas cuando hay una 
+diferencia superior a 1/17 del contraste Michelson (véase la Nota 6). A los efectos de esta 
+medición, el contraste Michelson se define como (LHIGH – LLOW)/(LHIGH + LLOW) [11], siendo 
+LLOW la luminancia de la imagen más oscura y LHIGH la luminancia de la imagen más brillante 
+de una intermitencia. Esto se aplica sólo a los programas HDR. 
+Independientemente de la luminancia, la transición al rojo saturado o desde ese color también es 
+potencialmente peligrosa. 
+Se permiten intermitencias aisladas sencillas, dobles o triples, pero no se permiten secuencias de 
+intermitencias cuando se producen algunos de los fenómenos que se mencionan a continuación: 
+– 
+el área de intermitencias combinadas que se producen simultáneamente ocupa más de un 25% 
+de la pantalla (véase la Nota 4); y 
+– 
+hay más de tres intermitencias (es decir, seis cambios de luminancia como se describe a 
+continuación) en el lapso de un segundo. Lo anterior significa que las intermitencias 
+consecutivas para las cuales los flancos anteriores están separados por 360 ms o más se 
+aceptan en un entorno de 50 Hz, y los separados por 334 ms o más se aceptan en un entorno 
+de 60 Hz, independientemente del brillo o de la zona de pantalla. 
+Las secuencias de imágenes que cambian rápidamente (por ejemplo, los cortes rápidos) pueden causar 
+ataques si se producen en zonas de pantalla intermitentes, en cuyo caso se aplican las mismas 
+restricciones que a las intermitencias. 
+Cabe señalar que aún se desconoce hasta qué punto pueden causar algún daño las secuencias sucesivas 
+de intermitencias «potencialmente peligrosas» durante un largo periodo de tiempo. Si, tal como lo 
+sugieren algunos médicos, el riesgo de sufrir un ataque aumenta con la duración de la intermitencia, 
+se ha calculado que una secuencia de imágenes intermitentes que dura más de cinco segundos podría 
+constituir un riesgo aun cuando sea conforme con las directrices que se mencionan más adelante. 
+Directriz 2 Imágenes estáticas potencialmente dañinas 
+Se producen imágenes estáticas potencialmente dañinas cuando una imagen contiene pares claros y 
+oscuros de rayas claramente discernibles en cualquier orientación. Las rayas pueden ser paralelas o 
+radiales, curvas o rectas, y pueden estar formadas por filas de elementos repetitivos como lunares. Si 
+las rayas cambian de dirección, oscilan, parpadean o invierten su contraste, es más probable que sean 
+nocivas que si son fijas. 
+El Adjunto 1 del presente Anexo ofrece orientaciones informativas para la medición con el fin de 
+identificar patrones potencialmente perjudiciales. 
+NOTA 1 – Puede haber variaciones regionales, de emisoras o de distribuidores de contenidos con respecto a 
+las directrices anteriores. Es aconsejable que los proveedores de programas consulten los requisitos de entrega 
+pertinente. 
+
+4 
+Rec.  UIT-R  BT.1702-3 
+NOTA 2 – La luminancia de las formas de onda de vídeo no constituye una medida directa para controlar el 
+brillo de las pantallas de televisión. Para determinar las mediciones eléctricas a fin de comprobar la 
+conformidad con estas directrices puede suponerse que la relación entre el nivel de las señales de vídeo y la 
+luminancia de la pantalla es la descrita en el Anexo 2. 
+NOTA 3 – En las mediciones para comprobar la conformidad con estas directrices suponiendo una relación 
+entre el nivel de la señal de vídeo y la luminancia de la pantalla, se supone que las imágenes SDR se visualizan 
+con el blanco más intenso correspondiente a una luminancia de pantalla de 200 cd/m2 y que las imágenes HDR 
+en formato híbrido log-gama (HLG) se visualizan con el blanco más intenso correspondiente a una luminancia 
+de pantalla de 1 000 cd/m2. 
+NOTA 4 – Puede suponerse que el sobrebarrido de los receptores de televisión modernos domésticos oscila 
+normalmente entre 3,5% ± 1% de la anchura o altura de toda la imagen (como se indica en la Recomendación 
+UIT-R BT.1848-1). 
+NOTA 5 – La utilización de analizadores automáticos de señales de vídeo puede ser útil para alertar al personal 
+de producción sobre las posibles violaciones de las directrices relativas al material de vídeo. 
+NOTA 6 – En la Fig. 1 se comparan el contraste Michelson y la luminancia de la imagen más oscura de una 
+intermitencia. Las intermitencias cuyo contraste de luminancia se encuentran por encima de la curva son 
+potencialmente peligrosas. Esta curva crea dos regiones, por encima y por debajo de 160 cd/m2 para la imagen 
+más oscura de una intermitencia. En la región inferior a 160 cd/m2, la curva se define por la diferencia absoluta 
+de 20 cd/m2. En la región superior a 160 cd/m2, la curva se define por el contraste relativo. No hay 
+discontinuidades a 160 cd/m2, pues el contraste relativo de la intermitencia con 160 cd/m2 de la imagen más 
+oscura y 20 cd/m2 de diferencia entre las imágenes más oscura y más brillante es: 
+1/17 = ((160 + 20) – (160))/((160 + 20) + 160). 
+La Fig. 2 es otra representación de la Fig. 1 donde se muestra el contraste de luminancia entre las 
+imágenes más oscura y más brillante de la intermitencia en la diferencia de luminancia. 
+FIGURA 1 
+Contraste Michelson relativo en comparación con la luminancia de la imagen más oscura  
+del área de una intermitencia 
+ 
+
+ 
+Rec.  UIT-R  BT.1702-3 
+5 
+ 
+FIGURA 2 
+Diferencia de luminancia en comparación con la luminancia de la imagen más oscura  
+del área de la intermitencia 
+ 
+Referencias 
+[1] 
+ABRAMOV, V. A., KRAPIVINA E. N. y MISHENKOV, S. L. [julio de 2000] Ecological problems 
+of teleradio broadcasting. Seminar of Moscow A.S. Popov’s Scientific Technical Society on 
+Broadcasting and Telecommunication, Velikie Luky. 
+[2] 
+BINNIE, C. D., EMMETT J., GARDINER, P., HARDING G. F. A., HARRISON D. y WILKINS, A. J. 
+[2001] Characterizing the flashing television images that precipitate seizures Proc. IBC2001. 
+[3] 
+BINNIE, C. D., EMMETT, J., GARDINER, P., HARDING, G. F. A., HARRISON, D. y WILKINS, A. J. 
+[julio/agosto de 2002] Characterizing the flashing television images that precipitate seizures, SMPTE J. 
+[4] 
+CLIPPINGDALE, C. e ISONO H. [octubre de 1999] Photosensitivity, Broadcast Guidelines and 
+Video Monitoring. Proc. IEEE International Conference on Systems, Man & Cybernetics SMC’99, 
+Tokyo, Japón. 
+[5] 
+HARDING, G. F. A. [marzo de 1998] TV can be bad for your health. Nature Medicine, Vol. 4, 3. 
+[6] 
+HARDING, G. F. A. y JEAVONS, P. M. [1994] Photosensitive Epilepsy. ISBN: 0 898683 02 6. 
+[7] 
+NEMTSOVA, S. R. [2001] The research on main characteristics of audiovisual systems with position 
+of ecological protection of information consumer. Dissertation for the doctorate on technical sciences, 
+Moscú, Rusia. 
+[8] 
+WILKINS, A. J. [1995] Visual Stress ISBN 0 19 852174 X. 
+[9] 
+HANAN M EL SHAKANKIRY and ANN A ABDEL KADE – Pattern sensitivity: a missed part of 
+the diagnosis https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3404594/#b2-ndt-8-313. 
+[10] 
+A. WILKINS – Pattern-Sensitive Epilepsy https://www1.essex.ac.uk/psychology/overlays/1999-141.pdf. 
+[11] 
+PELLI, D. G. y BEX, P. [2013] Measuring Contrast Sensitivity. Vision Research, Vol. 90, 
+Páginas 10-14. 
+ 
+ 
+
+6 
+Rec.  UIT-R  BT.1702-3 
+Adjunto 1  
+al Anexo 1  
+(informativo) 
+ 
+Directrices sobre los criterios de medición para identificar  
+las imágenes estáticas potencialmente dañinas 
+Algunas administraciones utilizan la siguiente orientación adicional sobre la identificación de 
+imágenes estáticas de carácter repetitivo potencialmente perjudiciales. 
+Puede existir una imagen estática de carácter repetitivo potencialmente prejudicial si una imagen 
+contiene más de cinco pares claros y oscuros de franjas claramente discernible en cualquier 
+orientación cuando se da una de las dos condiciones siguientes: 
+– 
+las franjas están fijas y el motive ocupa más de 40% de la superficie de la pantalla; o 
+– 
+las franjas cambian de dirección, oscilan, parpadean o invierten el contraste y el patrón ocupa 
+más del 25% del área de la pantalla mostrada. 
+Para que una imagen estática de carácter repetitivo se considere potencialmente nocivo, la diferencia 
+entre la luminancia de las barras más oscuras y claras del patrón será la misma que la diferencia entre 
+las imágenes más oscuras y más claras de un parpadeo potencialmente nocivo descrito en la 
+Directriz 1 anterior. 
+Si es evidente que las imágenes fluyen suavemente a través, dentro o fuera de la pantalla en una 
+dirección, están exentas de restricciones. 
+ 
+ 
+Anexo 2  
+ 
+Directrices relativas a la luminancia 
+La luminancia de la pantalla puede medirse utilizando un fotómetro portátil con una característica de 
+la «Commission internationale de l'éclairage» diseñada para tomar muestras de la pantalla de 
+televisión. Las condiciones de visualización son similares a las del «entorno de observación 
+doméstico» descritas en la Recomendación UIT-R BT.500. Con el fin de obtener resultados precisos, 
+debe configurarse ante todo el brillo y el contraste de la pantalla utilizando PLUGE (véase la 
+Recomendación UIT-R BT.814). En ese caso, el blanco más intenso debe corresponder a una 
+luminancia de pantalla de 200 cd/m2 para SDR, de 1 000 cd/m2 para híbrido log-gamma (HLG) y 
+de 10 000 cd/m2 para la cuantización perceptual (PQ). 
+Pueden consultarse el Cuadro 1 y la Fig. 3 si las mediciones eléctricas resultan más convenientes. Se 
+muestra la relación típica entre el nivel de señal de luminancia (monocroma) y la luz emitida por una 
+pantalla de televisión. 
+Los dos métodos presentan incertidumbres en las mediciones. Sin embargo, puede preverse que las 
+imágenes parpadeantes o las imágenes estáticas de carácter repetitivo descritas como potencialmente 
+peligrosas se perciban sin dificultad. Las imágenes potencialmente peligrosas de este tipo sólo 
+aparecen raras veces en el transcurso de la emisión con escenas que parecen ser naturales o que 
+representan la vida real; como ejemplos pueden citarse los destellos de los flashes de los fotógrafos 
+o las luces estroboscópicas en una discoteca. Uno de los objetivos de esta directriz es ayudar a los 
+productores de programas a evitar la creación involuntaria de efectos de vídeo que contengan 
+imágenes parpadeantes o imágenes estáticas de carácter repetitivo que puedan resultar peligrosas. 
+
+ 
+Rec.  UIT-R  BT.1702-3 
+7 
+ 
+CUADRO 1 
+Tres tipos de nivel de luminancia 
+Valor 
+de 
+código 
+de  
+10 bits 
+Vídeo 
+normalizado 
+Luminancia de pantalla 
+(cd/m2) 
+Valor 
+de 
+código 
+de  
+10 bits 
+Vídeo 
+normalizado 
+Luminancia de pantalla 
+(cd/m2) 
+SDR 
+PQ 
+HLG 
+SDR 
+PQ 
+HLG 
+64 
+0,00 
+0,00 
+0,00 
+0,00 
+520 
+0,52 
+41,74 
+113,17 
+56,04 
+80 
+0,02 
+0,01 
+0,01 
+0,02 
+540 
+0,54 
+46,27 
+141,60 
+62,87 
+100 
+0,04 
+0,09 
+0,04 
+0,13 
+560 
+0,57 
+51,07 
+176,66 
+70,77 
+120 
+0,06 
+0,27 
+0,11 
+0,36 
+580 
+0,59 
+56,15 
+219,85 
+79,94 
+140 
+0,09 
+0,57 
+0,22 
+0,76 
+600 
+0,61 
+61,52 
+273,03 
+90,57 
+160 
+0,11 
+0,99 
+0,41 
+1,33 
+620 
+0,63 
+67,17 
+338,45 
+102,91 
+180 
+0,13 
+1,56 
+0,70 
+2,09 
+640 
+0,66 
+73,12 
+418,90 
+117,23 
+200 
+0,16 
+2,29 
+1,11 
+3,06 
+660 
+0,68 
+79,36 
+517,82 
+133,86 
+220 
+0,18 
+3,18 
+1,68 
+4,26 
+680 
+0,70 
+85,90 
+639,46 
+153,18 
+240 
+0,20 
+4,25 
+2,47 
+5,68 
+700 
+0,73 
+92,75 
+789,06 
+175,64 
+260 
+0,22 
+5,50 
+3,52 
+7,36 
+720 
+0,75 
+99,91 
+973,13 
+201,74 
+280 
+0,25 
+6,95 
+4,91 
+9,29 
+740 
+0,77 
+107,37 
+1 199,76 
+232,10 
+300 
+0,27 
+8,59 
+6,73 
+11,49 
+760 
+0,79 
+115,15 
+1 479,00 
+267,41 
+320 
+0,29 
+10,44 
+9,09 
+13,97 
+780 
+0,82 
+123,26 
+1 823,40 
+308,49 
+340 
+0,32 
+12,51 
+12,12 
+16,74 
+800 
+0,84 
+131,68 
+2 248,67 
+356,30 
+360 
+0,34 
+14,80 
+15,98 
+19,79 
+820 
+0,86 
+140,43 
+2 774,49 
+411,94 
+380 
+0,36 
+17,31 
+20,88 
+23,16 
+840 
+0,89 
+149,52 
+3 425,63 
+476,71 
+400 
+0,38 
+20,06 
+27,05 
+26,83 
+860 
+0,91 
+158,93 
+4 233,32 
+552,13 
+420 
+0,41 
+23,04 
+34,80 
+30,83 
+880 
+0,93 
+168,69 
+5 237,10 
+639,93 
+440 
+0,43 
+26,27 
+44,48 
+35,15 
+900 
+0,95 
+178,78 
+6 487,17 
+742,19 
+460 
+0,45 
+29,75 
+56,55 
+39,80 
+920 
+0,98 
+189,22 
+8 047,52 
+861,28 
+480 
+0,47 
+33,48 
+71,56 
+44,80 
+940 
+1,00 
+200,00 10 000,00 1 000,00 
+500 
+0,50 
+37,48 
+90,16 
+50,14 
+ 
+ 
+ 
+ 
+ 
+Nota al Cuadro 1: Nivel de la señal de vídeo normalizado, negro en V = 0, a blanco en V = 1 (Recomendación 
+UIT-R BT.1886). Para el contenido indicado en la Recomendación UIT-R BT.709, los valores de código 
+digital de 10 bits «D» se hacen corresponder con V mediante la siguiente ecuación: V = (D–64)/876. 
+ 
+
+8 
+Rec.  UIT-R  BT.1702-3 
+FIGURA 3 
+Luminancia de pantalla en relación con el nivel de señal de vídeo 
+ 
+NOTA 1 – Un nivel de señal de luminancia con valor de código de 10 bits de 400 produce una luminancia de 
+pantalla de 20,1 cd/m2 para SDR; de 377 produce 20,1 cd/m2 para PQ, y 362 produce 20,1 cd/m2 para HLG. 
+Si la imagen más clara de una intermitencia o la imagen estática de carácter repetitivo se encuentra por encima 
+de ese nivel, puede resultar perjudicial cuando la luminosidad producida entre las imágenes más claras y las 
+más oscuras difiere en 20 cd/m2 o más. 
+NOTA 2 – Un nivel de señal de luminancia con valor de código de 10 bits de 863 produce una luminancia de 
+pantalla de 160,4 cd/m2 para SDR; de 552 produce 161,7 cd/m2 para PQ, y de 687 produce 160,7 cd/m2 
+para HLG. Si la imagen más oscura o la imagen estática de carácter repetitivo de una intermitencia se encuentra 
+por debajo de ese nivel, puede resultar perjudicial cuando la luminosidad producida entre las imágenes más 
+oscuras y las más claras difiere en 20 cd/m2 o más. Si la imagen más oscura o la imagen estática de carácter 
+repetitivo de una intermitencia está por encima de ese nivel, será potencialmente peligrosa si la luminancia de 
+pantalla tiene un contraste de luminancia Michelson igual o superior a 1/17. 
+ 
+ 
+Anexo 3 
+ 
+Ejemplo marco para una especificación de medición unificada 
+Los resultados de las mediciones realizadas para comprobar la conformidad con las directrices 
+dependen de una serie de parámetros de medición. Dado que sería conveniente que para el 
+intercambio internacional de programas se empleen especificaciones de medición coherentes a nivel 
+mundial, será necesario estudiar con más detenimiento esta cuestión a fin de elaborar una 
+especificación unificada que sea conforme con la directriz. El organigrama de flujo de la Fig. 4 
+constituye un ejemplo marco para elaborar una especificación de medición de esta índole. Será 
+necesario definir esquemáticamente y en detalle cada bloque. Es probable que también se necesiten 
+definiciones y criterios de detección más explícitos a la hora de elaborar las directrices sobre la 
+utilización del color rojo saturado. 
+
+ 
+Rec.  UIT-R  BT.1702-3 
+9 
+ 
+FIGURA 4 
+Ejemplo marco para una especificación de medición unificada 
+ 
+ 
+ 
+Anexo 4  
+ 
+Directrices sobre técnicas de filtrado para reducir 
+las imágenes parpadeantes en la televisión 
+Puede suponerse que gracias a las mediciones realizadas para reducir el riesgo de la transmisión de 
+estímulos potencialmente peligrosos, tal como se describen en el Anexo 1, se proporciona un alto 
+grado de protección para la inmensa mayoría de personas que sufren de fotosensibilidad. 
+Sin embargo, en algunas personas muy susceptibles, las mediciones para reducir los estímulos 
+temporales antes de la transmisión podrían restringir de modo inaceptable la calidad de las imágenes 
+difundidas, en detrimento de la mayoría de los espectadores. Con el fin de lograr que estas personas 
+extremadamente susceptibles puedan mirar la televisión sin que corran el riesgo de sufrir un ataque, 
+pueden aplicarse técnicas de filtrado en el receptor. 
+
+10 
+Rec.  UIT-R  BT.1702-3 
+La inclusión opcional de mediciones en los receptores tiene la ventaja de proporcionar protección 
+contra las imágenes parpadeantes que, de vez en cuando, puedan aparecer involuntariamente 
+procedentes de muy diversas fuentes de vídeo. 
+Se han identificado dos tipos de medición. 
+Filtrado temporal adaptable 
+El filtrado temporal adaptable debe reducir los estímulos cuadro a cuadro o trama a trama en la región 
+de 10-30 Hz. Los fabricantes son los encargados de determinar los parámetros exactos para la 
+creación de tales filtros, pero normalmente podría esperarse una reducción de 20 dB o más en las 
+frecuencias temporales de 10 Hz o superiores. Debe llegarse a una solución de compromiso entre la 
+eficacia de la protección y el grado de borrosidad de las imágenes. 
+Filtros ópticos compuestos 
+Para algunos espectadores extremadamente fotosensibles, puede utilizarse un filtro óptico compuesto 
+que reduzca considerablemente la respuesta fotoparoxística. Un filtro de esta naturaleza logra que los 
+espectadores muy susceptibles puedan mirar las pantallas de televisión o de los ordenadores, algo que 
+anteriormente era imposible hacer. 
+Normalmente un filtro eficaz debe estar compuesto de varios elementos de filtrado óptico, un filtro 
+que refleje selectivamente la luz roja de longitud de onda larga, y un filtro que absorba de manera 
+uniforme la luz en el espectro visible (densidad neutra). 
+ 
+ 
+Anexo 5 
+ 
+Información relativa a directrices técnicas sobre los entornos de observación 
+Aunque la aplicación de directrices técnicas para limitar la aparición de imágenes parpadeantes en 
+televisión resulte eficaz para reducir el número de casos de epilepsia fotosensible causada por la 
+televisión, existen otros factores, además del contenido de los programas, que pueden causar 
+problemas: 
+– 
+Entorno de observación: es probable que una determinada parte del material del programa 
+pueda causar más problemas a los telespectadores fotosensibles si se ve la televisión en un 
+cuarto completamente oscuro o en una pantalla más brillante o más ancha; o si el 
+telespectador se encuentra muy cerca de la pantalla. 
+– 
+Perfil de edad del espectador: se ha observado que los niños y los jóvenes menores de 20 años 
+constituyen la población más propensa a la fotosensibilidad, riesgo que disminuye a medida 
+que aumenta la edad. 
+Una combinación de estos factores puede aumentar aún más la posibilidad de que surjan problemas, 
+por esa razón, el brindar asesoramiento a los telespectadores (y a los padres de los espectadores más 
+jóvenes) acerca de los entornos de observación adecuados puede ser una medida preventiva 
+importante. 
+Por consiguiente, es aconsejable mirar la televisión en un cuarto bien iluminado y a una distancia de 
+al menos dos metros, en particular cuando se ven programas destinados a los telespectadores más 
+jóvenes, tales como los programas de dibujos animados. 
+ 
+ 
