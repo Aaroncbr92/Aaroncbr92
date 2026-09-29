@@ -1,0 +1,83 @@
+Fuente: https://www.hbbtv.org/overview/
+Descargada: 29-09-2026
+
+HbbTV Overview
+How it Works - Specifications
+How it Works - Test Suite
+How It Works - For Consumers
+HbbTV Application Showcase
+HbbTV FAQ
+HbbTV Overview
+Hybrid broadcast broadband TV (or “HbbTV”) is a global initiative aimed at harmonizing the broadcast and broadband delivery of entertainment services to consumers through connected TVs, set‐top boxes and multiscreen devices. The HbbTV specification is developed by industry leaders to improve the video user experience for consumers by enabling innovative, interactive services over broadcast and broadband networks. The specification uses elements of existing specifications from other standards including OIPF, CEA, DVB, MPEG-DASH and W3C.
+In June 2014, the activities of the Open IPTV Forum (OIPF) were transferred to the HbbTV Association. This broadened the HbbTV Association’s mandate to include defining specifications for service providers and technology suppliers that streamline and accelerate deployment of IPTV services.
+How it Works - Specifications
+The HbbTV specification was developed by industry leaders to effectively manage the rapidly increasing amount of available content targeted at today’s end consumer. It is based on elements of existing standards and web technologies including OIPF (Open IPTV Forum), CEA-2014 (CE-HTML), W3C (HTML etc.) and DVB Application Signalling Specification (ETSI TS 102 809) and DASH. The diagram shows the relationship between HbbTV and other existing standards.
+The HbbTV can work with either a broadcast or an IP link although it is most powerful when in a connected environment with a combination of broadcast and broadband networking.
+How it Works - Test Suite
+HbbTV provides a rich and permanently evolving test suite as an aid for implementation of the HbbTV specification and selected other specifications that it references in receivers, e.g., TV sets.
+This test suite has been designed with three main scenarios in mind:
+Self-certification by a manufacturer who either runs the test suite in-house or has a test centre run the test suite on their behalf.
+Part of certification with a (national) trademark where the manufacturer delivers the results of running the test suite to the trademark administrator.
+Manufacturers submitting their product for testing to a test centre appointed by a trademark administrator.
+While the HbbTV test suite is designed to be as clear, complete and comprehensive as possible and constitutes a major goal of HbbTV, it is not possible to guarantee that the test suite has a complete coverage of the specification. The test suite alone does not provide a definitive measure of receiver compliance and makes no provision for testing application compliance.
+More information about the test suite can be found here .
+How It Works - For Consumers
+HbbTV brings a range of new possibilities to consumers. There are a number of ways that HbbTV technology can be used, but a typical use case is as follows.
+When a viewer’s TV supports HbbTV and the broadcaster makes available a “broadcast-related application”, the viewer will see a “call-to-action” in a corner of the screen. This might, for instance, be a logo showing a red button, informing the viewer that an app is available for launch at the press of that button. When pressed, the app – that was already resident in the TV – will be displayed.
+The app may provide extra information on a program (e.g., sports statistics), show a program guide with the option to switch channels, or provide a menu with access to additional video programming. Other options include real interaction, for example multi-user quizzes where the user plays against other HbbTV viewers. The user interacts with the screen using a variety of buttons on the remote – the coloured buttons, the cursor buttons, and the numbered buttons. The newer, version 2 release of the specification also supports interaction through a mobile device such as a smart phone or a tablet.
+HbbTV FAQ
+What is HbbTV?
+HbbTV is a technology that enables professional video/audio content providers to deliver content to consumers for consumption on TV displays over broadcast and broadband networks. It uses elements of existing solutions including ones from W3C, MPEG, DVB, CTA and OIPF. The HbbTV specification and test suite are developed under the umbrella of the HbbTV Association.
+What is the HbbTV Association?
+The HbbTV Association is a cooperation broadcasters, operators, manufacturers and technology providers worldwide. Any organisation can become a member. Today the HbbTV Association counts around 80 members from all over the world. It is a non-profit association registered in Switzerland.
+What HbbTV is for?
+HbbTV enables broadcasters and other professional video/audio content providers to offer a wide range of services to consumers targeting TV displays. As well as services related to professional video/audio, HbbTV can also be used for information services that are appropriate to consume on a TV display.
+For example, services like the following:
+VOD
+Catch-up, replay TV, start-over
+Program Guide
+News, Sport, Weather information
+Enhanced TV – quizzes, extra info
+Interactive Advertising and E-Commerce
+Early Warning System
+E-government, Education, Health
+Games
+Push VOD
+Targeted advertising
+What does the HbbTV specification define?
+The main elements defined in the HbbTV specification are the following:
+a set of minimum web technologies that are to be available to the HTML pages in an HbbTV app
+extensions for features specific to TVs
+how linear TV channels can link to HbbTV apps using those technologies
+a minimum baseline set of video, audio and subtitle/caption technologies to be supported in TVs
+how all the various technologies are integrated into an overall system
+how security and privacy are handled in the overall system
+Many of these are defined by reference to specifications from other organisations and not by HbbTV itself.
+How can I become an HbbTV Association member?
+Contact us at membership@hbbtv.org to receive a membership pack with additional HbbTV information and the membership agreement. The membership fee is €8,000 per year
+Which are the HbbTV membership benefits?
+There are many benefits associated with being a member of the HbbTV Association.
+Members are able to help shape the future of HbbTV by participating in the development and implementation of the HbbTV specification. . By sharing knowledge and market experience HbbTV Members work together to ensure specifications continue to meet market requirements while supporting innovation for the delivery of future TV services.
+HbbTV has a number of different Working Groups that contribute to the development of the HbbTV association. Members are encouraged to join, follow and contribute to these.
+With widespread recognition across the industry and ever increasing support from the leading players, HbbTV membership delivers prestige by association and results in networking opportunities for those involved.
+What is the HbbTV Test Suite?
+The HbbTV Test Suite is a set of unit tests for TVs, set-top boxes and software to be included in them. It tests against the requirements defined in the HbbTV specifications and other associated specifications (such as OIPF). It is suitable for suppliers of complete receivers and also suppliers of hardware and software components. More information here .
+Sometime Cable Operators choose not to broadcast the HbbTV AIT (Application Information Table) so the service is never launched on the consumers' devices. What do I do if this is my situation?
+You need to work with other content providers & broadcasters in the same market and organise yourselves to establish a platform that can work with manufacturers to implement the ADB (Application Discovery over Broadband) specification. More information here .
+Operators moving to fiber-based IPTV use proprietary streaming rather than DVB, so HbbTV is not supported.
+If the operators are deploying set-top boxes then please see A7 above. Deploying the ADB specification will allow HbbTV apps to run on TV sets connected to those STBs via HDMI. In hybrid deployments with both conventional broadcast and IPTV, on more recent TVs/STBs, HbbTV apps signalled in the broadcast can access most proprietary streamed content using a JavaScript media player library (if there is one) that builds on web standards such as XMLHttpRequest/Fetch, Media Source Extensions (MSE) and Encrypted Media Extensions (EME).
+Feature X is in the spec but not working on devices.
+The first thing to check is whether there are tests for Feature X in the test suite – there should be, a list is available on the website [ link ] – and if so, do devices pass those tests? If not, you need to liaise with manufacturers to ensure they pass the full test suite in future. Providing a complete test app to manufacturers using the feature in the way you expect is another good way of helping. Unfortunately, there’s probably little that can be done about devices already in consumers’ homes.
+There are no obvious tests for the use of Feature X in the test suite.
+Please raise this to the HbbTV Association via the Testing Group. If you are not an HbbTV member, developer support is available at the developer portal [link] and contact details are available there.
+A TV manufacturer has not enabled HbbTV or a specific version or feature of HbbTV in a particular region or market. Why is this?
+There are a number of reasons why this could occur:
+The first is related to testing of in-market services, which forms part of a TV manufacturers QA activity before products are launched. If there are no services that use HbbTV, or services don’t use a complex feature of HbbTV then it could be disabled in a device. If this was not the case, then the manufacturer could end up with many market problems when a service does launch, where the service hasn’t been properly verified with the device. Whilst a TV device may pass the HbbTV test suite, alone, this may not be enough of a guarantee that future deployed services or future evolutions of existing services will correctly function. Discussions between service providers and TV manufacturers, and access to market applications prior to their service launch could help to mitigate this issue
+The second is related to software licensing. Some TV manufacturers license HbbTV technology components from third parties and some HbbTV features may be separately licensable. If there is no expectation that HbbTV will be used in a market, then there may be no need to deploy and pay an unnecessary license cost. If there is no expectation that a specific, separately licensable feature would be used in a market, then similarly, the feature could be disabled. Early visibility of service provider plans / intention to use features in a market could help to inform TV manufacturers decisions in this area
+Third, even if the information is known about the possible service intention, the TV manufacturer may decide to judge if the service is of sufficient value to the consumers in that market to justify investing in deploying HbbTV, or some HbbTV feature, in that market
+Finally, there may be other reasons than described above for a TV manufacturer to not deploy HbbTV or certain features of HbbTV at all or in a particular territory
+A result could be that a country doesn’t have services or a platform or trademark regime yet, and without these the TV manufacturer may not provide the needed platform or platform features. Without provision of a forum and a mechanism to break this stalemate, the situation would perpetuate. HbbTV recommends that in this situation service providers or groups of service providers in that territory provide a forum for manufacturers to communicate with the service providers. Activities in this forum could be sharing prototype applications with manufacturers to aid in their verification activities, and also to understand the opportunities and the service launch objectives of the service providers.
+What about DRM in HbbTV?
+HbbTV services work in combination with a number of DRM systems in wide use, and the HbbTV Association provides the DRM Reference Application as an open-source example of how to design applications and content to work on as many devices as possible in the market today. HbbTV Specifications do not presently mandate any specific DRM technology, but they provide information and informative guidelines for integration of such systems. As with other optional features, support of specific DRMs and new or advanced features of such systems may not be universal and should be verified with device manufacturers. Ideally, DRM testing would form part of a platform or trademark regime but if not, the Reference Application has been tested with, and is designed to work on, as many devices in the market as possible.
+Are existing TV sets updated after sale to support new versions of HbbTV?
+In general no. TV sets are generally updated after sale only to fix critical bugs. Updates to add new features, such as a new version of HbbTV, are unusual. Updates to address issues arising from applications that were not live at the time the TV set was placed on the market would also be unusual.

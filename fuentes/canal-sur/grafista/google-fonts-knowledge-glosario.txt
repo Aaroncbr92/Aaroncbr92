@@ -1,0 +1,22 @@
+Fuente: Google Fonts, «Fonts Knowledge», glosario (fonts.google.com/knowledge/glossary/<entrada>)
+Descargada: 29-09-2026. El cuerpo de cada entrada se genera con JavaScript; se guarda el título y la definición que la página sirve en su metadato «description».
+
+https://fonts.google.com/knowledge/glossary/x_height
+X-height – Fonts Knowledge - Google Fonts
+The height of the lowercase characters that have no ascenders nor descenders, which indicates how tall or short the type appears.
+
+https://fonts.google.com/knowledge/glossary/ascenders_descenders
+Ascenders & descenders – Fonts Knowledge - Google Fonts
+The upward or downward parts of letterforms that extend above the x-height—and usually above the cap height (ascenders)—and drop below the baseline (descenders).
+
+https://fonts.google.com/knowledge/glossary/baseline
+Baseline – Fonts Knowledge - Google Fonts
+The invisible line upon which a line of type rests. It’s used as a point from which other elements are measured, such as leading (line height) and x-height.
+
+https://fonts.google.com/knowledge/glossary/legibility
+Legibility – Fonts Knowledge - Google Fonts
+Describes how a typeface’s glyphs can be correctly identified as characters and words, including how individual characters can be distinguished from one another.
+
+https://fonts.google.com/knowledge/glossary/readability
+Readability – Fonts Knowledge - Google Fonts
+Describes how comfortable it is for a person to engage with text created with legible type.

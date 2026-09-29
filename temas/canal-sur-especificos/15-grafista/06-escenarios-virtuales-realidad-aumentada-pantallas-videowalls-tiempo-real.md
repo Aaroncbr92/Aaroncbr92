@@ -6,25 +6,24 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 6 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ninguna norma regula cómo es un plató virtual, un sistema de realidad aumentada, una pantalla de plató o un sistema de grafismo en tiempo real. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Documentación de fabricante: Epic Games (documentación de Unreal Engine 5.8: *In-Camera VFX Overview*, *Recommended Hardware for In-Camera VFX*, *nDisplay Overview*, *Motion Design*, *Professional Video IO*), Vizrt (*Viz Multiplay User Guide* 3.3, *Viz Engine Administrator Guide* 5.2 y 5.4, *Introduction to Viz Artist* 5.3), Chyron (página de *PRIME CG* y nota de prensa de PRIME 5.3) y Mo-Sys (ficha del StarTracker Max y catálogo de seguimiento de cámara). Lo demás, oficio declarado como tal |
+| Fuente | Ninguna norma regula cómo es un plató virtual, un sistema de realidad aumentada, una pantalla de plató o un sistema de grafismo en tiempo real. Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Documentación de fabricante: Epic Games (documentación de Unreal Engine 5.8: *In-Camera VFX Overview*, *Recommended Hardware for In-Camera VFX*, *In-Camera VFX Best Practices*, *nDisplay Overview*, *Motion Design*, *Professional Video IO*), Vizrt (*Viz Multiplay User Guide* 3.3, *Viz Engine Administrator Guide* 5.2 y 5.4, *Introduction to Viz Artist* 5.3), Chyron (páginas de *PRIME CG* y *About Chyron*, y nota de prensa de PRIME 5.3) y Mo-Sys (ficha del StarTracker Max y catálogo de seguimiento de cámara). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Libro de Estilo, 1.ª ed., marzo de 2004; documentación de fabricante en la versión publicada el día en que se leyó (fechas en «Trazabilidad») |
 | Extensión | 12.000 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
-Televisión, S.A. (CSRTV); Canal Sur Televisión (CSTV, como lo escribe el Libro de Estilo); *Libro de
+Televisión, S.A. (CSRTV); *Libro de
 Estilo de Canal Sur Televisión y Canal 2 Andalucía* (Libro de Estilo o LE).
 
 Los términos técnicos del tema, presentados de entrada: la realidad aumentada (RA; AR en la
-documentación en inglés), la realidad virtual (RV, VR en inglés) y la realidad mixta (RM); las imágenes
-generadas por ordenador (CGI, del inglés *computer-generated imagery*); los efectos visuales (VFX, del
+documentación en inglés), la realidad virtual (RV, VR en inglés) y la realidad mixta (RM); los efectos visuales (VFX, del
 inglés *visual effects*); el diodo emisor de luz (LED, del inglés *light-emitting diode*) y la pantalla de
 cristal líquido (LCD, del inglés *liquid crystal display*); la unidad de proceso gráfico (GPU, del
 inglés *graphics processing unit*), es decir, la tarjeta gráfica; el campo de visión (FOV, del inglés
-*field of view*); el banco de mezcla y efectos del mezclador (M/E, del inglés *mix/effects*); el
-programa (PGM) y el previo (PVW); el fotograma (fr, del inglés *frame*), los fotogramas por segundo
-(fps) y el milisegundo (ms); el protocolo de internet (IP); la interfaz digital en serie (SDI, del
+*field of view*); el banco de mezcla y efectos del mezclador (M/E, del inglés *mix/effects*); los
+fotogramas por segundo (fps; FPS en la documentación de Epic Games) y el milisegundo (ms); los niveles
+de detalle de un modelo 3D (LOD, del inglés *level of detail*); el protocolo de internet (IP); la interfaz digital en serie (SDI, del
 inglés *serial digital interface*), la salida de gráfica DisplayPort y la interfaz visual digital (DVI,
 del inglés *digital visual interface*); la resolución de ultra alta definición (UHD); el espacio de
 color de los monitores de informática (sRGB) y el sistema de gestión de color OpenColorIO (OCIO); el alto rango dinámico (HDR, del inglés *high
@@ -41,7 +40,7 @@ Viz Multiplay son productos de Vizrt; Unreal Engine, con sus módulos nDisplay, 
 Design, es el motor de representación en tiempo real de Epic Games; PRIME y CAMIO son productos de
 Chyron (FBX es un formato de Autodesk que Chyron dice importar); StarTracker, de Mo-Sys; After Effects es un programa de composición de Adobe; Unity es otro
 motor de tiempo real, y Blender y Cinema 4D, programas de 3D que renderizan en diferido; Datapath,
-NVIDIA, AMD, AJA y Blackmagic Design, fabricantes de equipos que la documentación leída nombra. Se citan como ejemplos: qué sistemas usa CSRTV no consta en
+NVIDIA y AMD, fabricantes de equipos que la documentación leída nombra. Se citan como ejemplos: qué sistemas usa CSRTV no consta en
 documento publicado.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.15, punto 6): «Escenarios virtuales,
@@ -78,6 +77,7 @@ retardo.
   - [La pared de LED: frustum interior y exterior](#la-pared-de-led-frustum-interior-y-exterior)
   - [La iluminación de un plató de croma](#la-iluminación-de-un-plató-de-croma)
   - [Lo que hace el grafista en un escenario virtual](#lo-que-hace-el-grafista-en-un-escenario-virtual)
+  - [Preparar la escena para que el motor la dibuje a tiempo](#preparar-la-escena-para-que-el-motor-la-dibuje-a-tiempo)
 - [2. Realidad aumentada](#2-realidad-aumentada)
   - [Realidad virtual, aumentada y mixta](#realidad-virtual-aumentada-y-mixta)
   - [La realidad aumentada en el motor: vídeo que entra y sale](#la-realidad-aumentada-en-el-motor-vídeo-que-entra-y-sale)
@@ -274,13 +274,16 @@ virtual en una pared de paneles detrás de los intérpretes, y la cámara lo gra
 En la producción virtual en pared de LED, lo que la pared enseña no es una imagen única. Epic Games, en
 la documentación de Unreal Engine sobre efectos visuales rodados en cámara (*In-Camera VFX Overview*),
 distingue dos zonas. La que ve la cámara es el frustum interior (*frustum* es la pirámide truncada que
-forma el campo de visión de una cámara): **«This inner frustum represents the field of view (FOV) from
+forma el campo de visión de una cámara; oficio): **«This inner frustum represents the field of view (FOV) from
 the camera's perspective based on the current lens focal length.»** (representa el campo de visión
 desde la perspectiva de la cámara, según la focal de la óptica en ese momento). Lo demás es el
 exterior: **«Content displayed on the LED volume outside of the camera's FOV is called the outer
 frustum. This outer frustum turns the LED panels into a dynamic light and reflection source for the
 physical set»** (lo que la pared muestra fuera del campo de visión de la cámara convierte los paneles en
-una fuente dinámica de luz y de reflejos para el decorado físico).
+una fuente dinámica de luz y de reflejos para el decorado físico). Y a diferencia del interior, no
+acompaña a la cámara: **«The outer frustum remains static when the camera moves. This mimics how lights
+and reflections do not move with the camera in the real world.»** (el frustum exterior se queda quieto
+cuando la cámara se mueve, igual que en el mundo real las luces y los reflejos no se mueven con ella).
 
 Leído en términos de oficio: el frustum interior se dibuja con la perspectiva exacta de la cámara, y por
 eso se mueve con ella gracias al seguimiento; el exterior no sale en plano, pero ilumina a la figura y
@@ -296,7 +299,12 @@ descarte, corrección de color y distorsión de la óptica). Para componer en di
 casa pide una tarjeta de vídeo profesional: **«If you plan to use live green-screen compositing, you
 will need a SDI video card to handle camera input, compositing output, and timecode synchronization.»**
 (*Recommended Hardware for In-Camera VFX*; hace falta una tarjeta SDI para la entrada de cámara, la
-salida compuesta y la sincronía de código de tiempo).
+salida compuesta y la sincronía de código de tiempo). La razón de poner el croma sólo en el frustum
+interior la da la página de Epic sobre efectos visuales rodados en cámara (*In-Camera VFX Overview*): **«Using a green screen only in the camera's FOV minimizes the
+amount of green screen required for a given shot. Less green screen means less green spilling onto the
+actors and set.»** (con croma sólo en el campo de visión de la cámara hace falta menos verde, y menos
+verde es menos rebote de verde sobre los actores y el decorado); el exterior sigue dando la luz y los
+reflejos del entorno virtual.
 
 ### La iluminación de un plató de croma
 
@@ -342,6 +350,40 @@ del estudio; la luz virtual, con la que se ha puesto al presentador; y las zonas
 pantallas virtuales y objetos aumentados, con las marcas que se le dan al presentador. Lo que cambia
 cada día —los datos de un gráfico, el contenido de una pantalla virtual— se deja como plantilla que se
 rellena, no como escena que se rehace (tema 9).
+
+### Preparar la escena para que el motor la dibuje a tiempo
+
+Cómo se consigue que la escena «quepa» lo explica Epic Games para la pared de LED (*In-Camera VFX Best
+Practices in Unreal Engine*), que plantea las dos preocupaciones de quien construye el entorno:
+**«Building assets that appear realistic on an LED wall. Optimizing the environment for performance so
+it runs in real time.»** (construir elementos que parezcan reales en la pared de LED y optimizar el
+entorno para que corra en tiempo real). Lo que recomienda:
+
+- Un objetivo de rendimiento con margen. En su prueba de producción fijaron **«a frame rate between
+  48-72 frames-per-second (FPS) on Artist workstations when viewed in 4K full screen»** (entre 48 y 72
+  fps en los puestos de los artistas, a pantalla completa en 4K), como referencia que después hubo que
+  comprobar en el equipo de destino, fuera del plató, y con una salvedad: **«While a 2-3x
+  target frame rate approach can provide a rough guideline for Artists, do not assume it will be
+  sufficient in all cases»** (apuntar a dos o tres veces la cadencia de destino orienta, pero no basta
+  en todos los casos); por eso piden pruebas de rendimiento periódicas.
+- Niveles de detalle. **«Level of Detail: Use different levels of polygon counts for when a Mesh is
+  rendered larger or smaller on the screen.»** (un modelo con distinto número de polígonos según lo
+  grande que se vea en pantalla). Los automáticos pueden quedar blandos: **«We recommend you budget
+  resources for some hand-crafted LODs.»** (reservar recursos para hacer a mano algunos LOD).
+- Pocos materiales por objeto. **«Each material ID adds draw calls»** (cada material añade llamadas
+  de dibujo, que cuestan rendimiento); la recomendación es un material por elemento.
+- Texturas en potencias de dos. **«textures need to be a power of 2 in both dimensions, however,
+  they don't have to be perfect squares»** (su ejemplo: 128 × 256 y 256 × 256 sirven; 8080 × 8080, no).
+- Luz precalculada antes que trazado de rayos. **«Because ray tracing is expensive in terms of
+  performance, you can achieve better-looking and more stable image quality using baked lighting with
+  volumetric light maps and reflection probes.»** (como el trazado de rayos es caro, la luz precalculada,
+  con mapas de luz volumétricos y sondas de reflejo, da una imagen mejor y más estable).
+
+Y la optimización no es sólo técnica: Epic aconseja que, cuando se pueda, la versión optimizada la
+apruebe quien firma el aspecto,
+**«approved by the Art Director, the Production Designer, or whoever else is signing off on the look»**,
+porque, si no, optimizar puede introducir diferencias visibles. La guía es de producción virtual en pared de LED; que sus
+criterios sirvan igual para un decorado virtual de croma es lectura de oficio.
 
 ## 2. Realidad aumentada
 
@@ -575,7 +617,7 @@ editing.»** (construir listas de reproducción y editar el contenido).
 Tres rasgos de su arquitectura enlazan las pantallas con el resto del grafismo:
 
 - el motor que pinta es el mismo que el de los rótulos: **«Uses Viz Engine for playout»** (emite con
-  Viz Engine, el motor de grafismo en tiempo real de la casa; epígrafe 5);
+  Viz Engine, el motor de grafismo en tiempo real de Vizrt; epígrafe 5);
 - se enlaza con la redacción: **«Can open and control newsroom playlists in a MOS workflow.»** (abre y
   controla las listas de la redacción mediante MOS);
 - usa las plantillas de siempre: **«You are able to access and use templates and elements from Pilot
@@ -583,8 +625,8 @@ Tres rasgos de su arquitectura enlazan las pantallas con el resto del grafismo:
 
 Leído en términos de oficio: lo que va en una pantalla de plató se diseña y se prepara como cualquier
 otro gráfico —en plantilla, con los mismos datos y la misma identidad— y entra en la escaleta del
-programa. Lo que cambia es la salida: no va al mezclador con relleno y llave, sino a los paneles
-(epígrafe 4).
+programa. Lo que cambia es la salida: no va al mezclador con relleno y llave, sino a los paneles, por la salida
+de la gráfica o, según la misma guía, también por SDI (epígrafe 4).
 
 ### Lo que el grafista prepara para cada pantalla
 
@@ -652,22 +694,22 @@ dissipation, must also be considered.»** (más densidad es más resolución y c
 armario; un paso menor no asegura que sea el producto adecuado, porque cuentan también el ángulo de
 visión, el desplazamiento del color, la uniformidad del color y la disipación del calor).
 
-Resumido: un paso menor permite acercar la cámara a la pared sin que se vean los diodos ni aparezca
-moiré, y cuesta más (epígrafe 3, con la fuente); el ángulo de visión y el desplazamiento de color
-importan porque la cámara no siempre mira la pared de frente (oficio).
+Resumido: un paso menor da más densidad y cuesta más (según la fuente); que permita acercar la cámara a la
+pared sin que aparezca moiré es deducción de oficio (epígrafe 3); el ángulo de visión y el
+desplazamiento de color importan porque la cámara no siempre mira la pared de frente (oficio).
 
 ### Muchas pantallas, un solo lienzo
 
-Cuando el contenido de la pared lo genera un motor en tiempo real, una sola máquina no basta para
-todos los píxeles, y el trabajo se reparte entre varias. Unreal Engine lo hace con nDisplay (*nDisplay
+Cuando el contenido de la pared lo genera un motor en tiempo real, el trabajo puede repartirse entre
+varias máquinas. Unreal Engine lo hace con nDisplay (*nDisplay
 Overview*): **«Every nDisplay setup has a single primary computer, and any number of additional
 computers, called secondary nodes.»** (un ordenador principal y los secundarios que hagan falta,
 llamados nodos) y **«Each Unreal Engine instance handles rendering to one or more display devices,
 such as screens, LED displays, or projectors.»** (cada instancia del motor dibuja para uno o varios
 dispositivos: pantallas, paredes de LED o proyectores).
 
-El sistema tiene dos obligaciones: que todos dibujen a la vez y que cada uno dibuje su trozo con la
-perspectiva correcta. El plugin **«ensures all instances render the same frame at the same time,
+Entre lo que el sistema garantiza hay dos cosas: que todos dibujen a la vez y que cada uno dibuje su
+trozo con la perspectiva correcta. El plugin **«ensures all instances render the same frame at the same time,
 ensures each display device renders the correct frustum of the game world»** (garantiza que todas las
 instancias dibujan el mismo fotograma al mismo tiempo y que cada dispositivo dibuja el frustum que le
 corresponde). La perspectiva se consigue colocando cada pantalla virtual donde está la real: **«By
@@ -682,7 +724,9 @@ recomienda que la tarjeta gráfica trate varias salidas como una: **«We recomme
 multi-display technologies from graphics card vendors such as NVIDIA Mosaic or AMD Eyefinity to treat
 multiple connected displays as one display.»**
 
-Y si una máquina cae, el resto sigue: **«when a render node becomes unresponsive, whether because of a
+Y si una máquina cae, el resto puede seguir. La tolerancia a fallos (*failover*) de nDisplay sólo cubre
+los fallos de los nodos que se detectan por la red y hay que activarla en la configuración del clúster
+(política **«Drop S-node on fail»**); activada, **«when a render node becomes unresponsive, whether because of a
 crash or because it loses its network connection, it is dropped from the cluster after a configurable
 timeout value.»** (un nodo que deja de responder, porque se cuelga o pierde la red, sale del clúster
 tras un tiempo de espera configurable). En directo, eso significa que el trozo de pared que pintaba
@@ -713,13 +757,13 @@ content from the engine does not have a tone curve and is in linear sRGB color s
 LED panels.»** (desactivar el mapeo tonal para que el contenido llegue a los paneles sin curva y en
 espacio sRGB lineal). Para gestionar el color entre el motor, la pared y la cámara recurre a OCIO:
 **«OpenColorIO, or OCIO, is a color management system used primarily in film and virtual
-production.»** Qué espacio de color concreto pide cada pared lo fija su fabricante; la colorimetría de
-la señal de emisión es el tema 8.
+production.»** Qué espacio de color concreto pide cada pared lo fija su fabricante (oficio); la colorimetría
+de la señal de emisión es el tema 8.
 
 ### Lo que no funciona en un clúster
 
 Algunos efectos del motor calculan su resultado a partir de lo que hay en la pantalla que se está
-dibujando, y en una pared repartida entre varios nodos cada nodo sólo ve su trozo. Epic los excluye:
+dibujando, y en una pared repartida entre varios nodos cada nodo sólo ve su trozo (oficio). Epic pide evitarlos:
 **«Screen spaced effects such as SSGI, SSAO, SSR, vignetting, eye-adaptation, and bloom should be
 avoided. Since the nature of these effects are screen spaced, there can be issues with borders between
 two clustered nodes in the nDisplay system.»** (deben evitarse los efectos en espacio de pantalla —tres que
@@ -739,7 +783,7 @@ pantallas Datapath Fx4, las salidas aumentan para alimentar muchas pantallas y p
 orientaciones distintas) y **«Also supports Standard SDI-based playout.»** (también admite la salida
 SDI normal).
 
-La salida a la pared no es la de los rótulos. El manual de Viz Engine (*Administrator Guide* 5.4,
+En un videowall, la salida no es la de los rótulos. El manual de Viz Engine (*Administrator Guide* 5.4,
 «Video Output») lo dice en su opción de videowall: **«Video Wall/Multi-Display: Sets the main output to
 the Digital Visual Interface (DVI). Important: For video wall setups, this setting must be active and
 the output format must be set to FULLSCREEN.»** (la salida principal pasa a la interfaz visual digital,
@@ -836,11 +880,18 @@ plantillas y su automatización, el tema 9.
 
 La reproducción «con su alfa» se hace, en un sistema de grafismo de directo, por dos salidas: el
 relleno, que es la imagen, y la llave, que dice dónde es transparente (oficio; el alfa en la entrega
-es el tema 8). Vizrt lo describe en su modo de doble canal (*Viz Engine Administrator Guide* 5.2, «Dual Channel
-Mode»): **«Dual Channel is a video version with, typically, two program outputs (fill and key on two
-channels). To support two program outputs, this option requires two graphics cards.»** (dos salidas de
-programa, con relleno y llave en dos canales, que exigen dos tarjetas gráficas), y el motor se gobierna
-desde fuera: **«use an external application (for example, Viz Trio or Viz Pilot) to control the Viz
+es el tema 8). En Vizrt, que una salida entregue la llave es una propiedad de esa salida de vídeo
+(*Viz Engine Administrator Guide* 5.4, «Video Output», propiedades de la llave): **«Contains Alpha:
+Defines if this output channel provides key information on the associated key output connector.»**
+(define si ese canal de salida entrega la información de llave por su conector de llave asociado). No
+hace falta, por tanto, un modo especial para tener relleno y llave (se deduce de que sea una propiedad
+de cada salida; oficio). Otra cosa es el modo de doble canal
+(*Viz Engine Administrator Guide* 5.2, «Dual Channel Mode»), que sirve para tener dos salidas de
+programa: **«Dual Channel is a video version with, typically, two program outputs (fill and key on two
+channels). To support two program outputs, this option requires two graphics cards.»** (normalmente dos
+salidas de programa, con relleno y llave en dos canales; para dos salidas de programa exige dos
+tarjetas gráficas). En ese modo, el motor
+puede gobernarse desde sus consolas o desde fuera: **«use an external application (for example, Viz Trio or Viz Pilot) to control the Viz
 Engine.»** (una aplicación externa, como Viz Trio o Viz Pilot, controla el Viz Engine). Es la
 separación entre el motor que dibuja y el control que decide qué sale y cuándo, las dos últimas filas de
 la tabla.
@@ -851,19 +902,20 @@ El temario no nombra producto alguno. Los tres que siguen se describen porque ti
 publicada que se ha leído, y con lo que dice el fabricante; eso vale para saber qué hace cada uno, no
 para valorarlo, y no significa que Canal Sur los use.
 
-Vizrt (Viz Artist y Viz Engine). Es un conjunto de programas con dos modos principales, el de diseño
-y el de emisión: **«Throughout this guide, the term Viz refers to the complete software suite installed,
+Vizrt (Viz Artist y Viz Engine). Es un conjunto de programas con varios modos, entre ellos el de
+diseño y el de emisión: **«Throughout this guide, the term Viz refers to the complete software suite installed,
 and as a general reference for the following modes: Viz Artist / Viz Engine […] / Viz Configuration»**
 (*Introduction to Viz Artist* 5.3; «Viz» designa el conjunto instalado y sus modos: Viz Artist, Viz
 Engine y la configuración). En Viz Artist se diseñan las escenas; Viz Engine las emite (oficio, por la
-división de modos). Lo que cada instalación puede hacer depende de su licencia: **«The available
+división de modos y porque Viz Multiplay **«Uses Viz Engine for playout»**). Lo que cada instalación puede hacer depende de su licencia: **«The available
 features and modes of the software depend on the license on the connected license hardware
 dongle.»** (las funciones y los modos disponibles dependen de la licencia de la llave física
 conectada). La misma casa controla pantallas con Viz Multiplay (epígrafes 3 y 4) y rellena plantillas
 con Viz Pilot (tema 9).
 
 Unreal Engine (Epic Games), Motion Design. El motor de los escenarios virtuales tiene también un
-conjunto de herramientas para grafismo de emisión: **«Motion Design is a feature set for motion
+conjunto de herramientas para grafismo de emisión, que la documentación de Unreal Engine 5.8 lleva con
+la etiqueta **«experimental»**: **«Motion Design is a feature set for motion
 graphics artists who need a streamlined and creative suite of tools that provide for rapid iteration
 and scalability. Motion Design includes a reworked world outliner, user interface, rigging tools,
 cloners, customizable 2D/3D shapes, and a new way to create materials using a streamlined, layer-based
@@ -892,7 +944,7 @@ Autodesk™️ FBX®️»**. Sus plantillas se llaman *Base Scenes*: **«Base Sc
 creation feature, streamlines design workflows.»**, y las escenas se alimentan de datos: **«Logic-based
 scenes function as editable templates that designers can configure to refresh up-to-the-second based
 on data feeds and trigger controls.»** (plantillas editables que se actualizan al segundo con fuentes
-de datos). Con la redacción se enlaza por su pasarela: **«For pre-planned productions, PRIME CG
+de datos). Con la redacción se enlaza a través de Chyron CAMIO: **«For pre-planned productions, PRIME CG
 integrates with all leading newsroom computer systems via Chyron CAMIO.»** Y la plataforma no se
 limita a los rótulos: **«The PRIME Platform™ may be deployed with a range of functionalities, from
 graphics, to vision mixing, branding, video walls, venue control, touchscreen and more.»** (grafismo,
@@ -954,8 +1006,6 @@ Un plató virtual se ensaya como cualquier otro, y además (oficio):
 | El retardo de cada entrada y el del sonido | Una cámara aumentada o virtual llega más tarde que la directa |
 | La luz del personaje frente a la del decorado | Dirección, dureza y temperatura de color tienen que casar |
 
-La integración de lo real y lo virtual se revisa con los movimientos de cámara y del personal
-
 A esa lista el grafista añade lo suyo (oficio): que el decorado se dibuja entero en cada fotograma sin
 tirones con todas las cámaras en marcha; que los rótulos y los objetos aumentados caen dentro de la zona
 segura en todas las cámaras; y que lo que se va a rellenar con datos entra y sale bien con los textos
@@ -994,7 +1044,7 @@ las conexiones y un gráfico de datos (oficio, con las fuentes citadas arriba):
 
 - Qué sistema de grafismo, de plató virtual, de seguimiento de cámara, de pantallas o de videowall tiene
   CSRTV: no consta en documento publicado leído. Los productos citados (Vizrt, Unreal Engine, Chyron,
-  Mo-Sys, Datapath, NVIDIA, AMD, AJA, Blackmagic Design) son ejemplos.
+  Mo-Sys, Datapath, NVIDIA, AMD) son ejemplos.
 - La documentación de fabricantes de procesadores y paneles de LED (Brompton y otros): no se ha podido
   leer; lo que el tema dice del procesador de LED sale sólo de la documentación de Epic Games. Tampoco
   una tabla publicada de distancias mínimas de cámara por paso de píxel.
@@ -1021,12 +1071,13 @@ las conexiones y un gráfico de datos (oficio, con las fuentes citadas arriba):
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.10, 6.5.2 y 8.6.1 | Vidiwall y pantallas de plató, vestuario ante el croma | Texto tomado del tema cerrado del puesto de Realizador/a (leído allí el 29-09-2026) |
 | Mo-Sys, ficha del StarTracker Max y catálogo «Camera Tracking» (mo-sys.com) | Marcas retrorreflectantes, FreeD, seis ejes con zum y foco, seguimiento *inside-out*, salida a motores como Unreal Engine, croma y pared de LED | Texto tomado del tema cerrado del puesto de Realizador/a (volcados el 02-09-2026; releídos el 29-09-2026) |
 | Epic Games, *In-Camera VFX Overview in Unreal Engine* (documentación de Unreal Engine 5.8, dev.epicgames.com) | Paso de píxel, distancia y moiré (texto del tema de Realizador/a); armarios, procesador de LED, paso de píxel y coste, frustum interior y exterior, genlock, color hacia la pared, OCIO, efectos en espacio de pantalla, Composure | 29-09-2026 |
+| Epic Games, *In-Camera VFX Best Practices in Unreal Engine* (UE 5.8) | Preparar la escena para el tiempo real: las dos preocupaciones, objetivo de 48-72 fps y su salvedad, niveles de detalle, materiales y llamadas de dibujo, texturas en potencias de dos, luz precalculada frente a trazado de rayos, aprobación de lo optimizado | 29-09-2026 |
 | Epic Games, *Recommended Hardware for In-Camera VFX in Unreal Engine* (UE 5.8) | Sincronía de los procesadores de LED, tarjeta de sincronía por nodo, tarjeta SDI para croma en directo | 29-09-2026 |
-| Epic Games, *nDisplay Overview for Unreal Engine* (UE 5.8) | Nodo principal y secundarios, reparto de pantallas, sincronía de fotograma, lienzo 2D, tecnologías multipantalla, salida de un nodo del clúster | 29-09-2026 |
-| Epic Games, *Motion Design in Unreal Engine* y *Motion Design Quickstart Guide in Unreal Engine* (UE 5.8) | Qué es Motion Design, Rundown y Transition Logic, usos en emisión, visor de alfa y zona segura | 29-09-2026 |
+| Epic Games, *nDisplay Overview for Unreal Engine* (UE 5.8) | Nodo principal y secundarios, reparto de pantallas, sincronía de fotograma, lienzo 2D, tecnologías multipantalla, tolerancia a fallos (*failover*) y salida de un nodo del clúster | 29-09-2026 |
+| Epic Games, *Motion Design in Unreal Engine* y *Motion Design Quickstart Guide in Unreal Engine* (UE 5.8) | Qué es Motion Design y su etiqueta «experimental», Rundown y Transition Logic, usos en emisión, visor de alfa y zona segura | 29-09-2026 |
 | Epic Games, *Professional Video IO in Unreal Engine* (UE 5.8) | Realidad aumentada en el motor: entrada, tratamiento, sincronía y salida de vídeo | 29-09-2026 |
 | Vizrt, *Viz Multiplay User Guide* 3.3, «Introduction» (docs.vizrt.com) | Control de las pantallas del plató, Viz Engine, MOS, Pilot Data Server, videowall con DisplayPort y Datapath Fx4, SDI | 29-09-2026 |
-| Vizrt, *Viz Engine Administrator Guide* 5.4, «Video Output», y 5.2, «Dual Channel Mode» | Salida de videowall a pantalla completa; doble canal con relleno y llave; control externo | 29-09-2026 |
+| Vizrt, *Viz Engine Administrator Guide* 5.4, «Video Output», y 5.2 (publicada el 20-III-2024), «Dual Channel Mode» | Salida de videowall a pantalla completa; la llave como propiedad de la salida («Contains Alpha», 5.4); doble canal con relleno y llave; control externo | 29-09-2026 |
 | Vizrt, *Introduction to Viz Artist* 5.3 | Modos del programa y licencia | 29-09-2026 |
 | Chyron, *PRIME CG™ - 3D Real-Time Graphics* y *About Chyron* (chyron.com); nota de prensa *Chyron Merges Live Web Content and CG Graphics with PRIME 5.3* (12-II-2026) | Qué hace PRIME CG, herramientas, Base Scenes, datos, CAMIO, funciones de la plataforma, HTML Input | 29-09-2026 |
 
@@ -1037,7 +1088,7 @@ Oficio, declarado así en el texto: la lectura de los cinco términos del enunci
 maquinaria; la tabla de técnicas (decorado virtual, realidad aumentada, producción virtual en pared de
 LED), la escala de realidades y la regla de la oclusión; las tres piezas del plató virtual y los datos
 del seguimiento; las familias de seguimiento; la comparación entre croma y pared de paneles; la lectura
-del frustum; lo que hace el grafista en un escenario virtual; la cuenta de motores, el *foreground* y la
+del frustum; lo que hace el grafista en un escenario virtual y que los criterios de optimización de la pared de LED valgan para el croma; la cuenta de motores, el *foreground* y la
 compensación de retardos, que se deducen de la definición de fotograma por segundo y de la regla de que
 sólo se puede retrasar; la iluminación del plató de croma; los contenidos y problemas de las pantallas
 (moiré, retardo, realimentación, parpadeo) y el montaje con banco enlazado y mapeado distinto; lo que

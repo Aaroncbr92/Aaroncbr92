@@ -6,19 +6,20 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 1 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule el diseño gráfico. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) y Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma técnica: Informe UIT-R BT.2408-9 (grafismo en alto rango dinámico). Web: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, y MDN Web Docs (Mozilla), «Diseño receptivo». Radio visual: Sánchez Cid y otros, *VISUAL REVIEW*, vol. 17, núm. 1, 2025. Redes: páginas de ayuda de YouTube. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Carta y Contrato-programa tal como se publicaron en el BOJA en diciembre de 2023; WCAG 2.2, Recomendación del W3C de 12-XII-2024; páginas web (MDN, YouTube) tal como estaban el día en que se leyeron (fechas en «Trazabilidad»), porque son páginas vivas y cambian |
-| Extensión | 8.000 palabras aproximadamente |
+| Fuente | Sin norma que regule el diseño gráfico. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) y Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma técnica: Informe UIT-R BT.2408-9 (grafismo en alto rango dinámico). Web: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, y MDN Web Docs (Mozilla), «Diseño receptivo». Radio visual: Sánchez Cid y otros, *VISUAL REVIEW*, vol. 17, núm. 1, 2025. Redes: páginas de ayuda de YouTube. Televisión conectada: HbbTV Association (página «HbbTV Overview») y guías de diseño para TV de Android Developers (Google). Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Carta y Contrato-programa tal como se publicaron en el BOJA en diciembre de 2023; WCAG 2.2, Recomendación del W3C de 12-XII-2024; páginas web (MDN, YouTube, HbbTV Association, Android Developers) tal como estaban el día en que se leyeron (fechas en «Trazabilidad»), porque son páginas vivas y cambian |
+| Extensión | 9.400 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Ley 13/2022, de 7
 de julio, General de Comunicación Audiovisual (LGCA); Unión Europea (UE); Unión Internacional de
-Telecomunicaciones (UIT); Consorcio de la World Wide Web (W3C, por su nombre inglés), que publica las
+Telecomunicaciones (UIT); Unión Europea de Radiodifusión (EBU, del inglés *European Broadcasting
+Union*); Consorcio de la World Wide Web (W3C, por su nombre inglés), que publica las
 Pautas de Accesibilidad para el Contenido Web (WCAG, del inglés *Web Content Accessibility
 Guidelines*); diseño web adaptable o responsivo (RWD, del inglés *responsive web design*); localizador
-de una dirección web (URL); interfaz de usuario (IU) y experiencia de usuario (UX); sistema de gestión
+de una dirección web (URL); interfaz de usuario (UI, del inglés *user interface*, sólo en una cita); sistema de gestión
 de contenidos (CMS, del inglés *content management system*); servicio de vídeo por internet (OTT, del
 inglés *over the top*); televisión digital terrestre (TDT); televisión híbrida de difusión y banda ancha
 (HbbTV, estándar europeo); definición estándar (SD), alta definición (HD) y ultraalta definición (UHD);
@@ -28,7 +29,7 @@ dynamic range*) y rango dinámico estándar (SDR); sus dos curvas normalizadas, 
 quantizer*); la candela por metro cuadrado (cd/m²), unidad de luminancia; la televisión (TV). El
 *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo o LE; dentro
 de su cita aparecen el índice de precios de consumo (IPC). Full HD, «720p», «1080» y 8K (UHD-2) son
-nombres de uso de resoluciones, no siglas que se desarrollen. PNG, JPEG y SVG son formatos de imagen;
+nombres de uso de resoluciones, no siglas que se desarrollen.
 `<picture>`, `srcset`, `sizes` y `max-width` son elementos y propiedades del código de una página web.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.15, punto 1): «Diseño gráfico aplicado a
@@ -46,7 +47,8 @@ digital híbrida, de Canal Sur Media y de Canal Sur Más; qué es el diseño web
 término y cuáles son sus tres técnicas; qué distingue la interfaz de la experiencia de usuario y qué
 principios de usabilidad hay; qué contraste mínimo exigen las WCAG 2.2 al texto, al texto grande y a
 los objetos gráficos, y qué texto está exento; qué es multiplataforma y qué transmedia; qué relación
-de aspecto usa YouTube y qué vídeo es un Short; y cómo se reencuadra una pieza de 16:9 a 9:16. En la
+de aspecto usa YouTube y qué vídeo es un Short; qué es HbbTV y qué ve de ella el espectador; qué cambia al
+diseñar la interfaz para el televisor conectado; y cómo se reencuadra una pieza de 16:9 a 9:16. En la
 prueba práctica: adaptar una misma pieza gráfica a antena, radio visual, web y redes.
 
 <!-- indice -->
@@ -83,6 +85,7 @@ prueba práctica: adaptar una misma pieza gráfica a antena, radio visual, web y
   - [Multiplataforma, transmedia y gestor de contenidos: vocabulario de oficio](#multiplataforma-transmedia-y-gestor-de-contenidos-vocabulario-de-oficio)
   - [Relación de aspecto en redes: lo que dice la plataforma](#relación-de-aspecto-en-redes-lo-que-dice-la-plataforma)
   - [Reencuadrar: oficio](#reencuadrar-oficio)
+  - [Plataformas OTT y televisión conectada](#plataformas-ott-y-televisión-conectada)
   - [Una identidad, muchas salidas (oficio)](#una-identidad-muchas-salidas-oficio)
 - [Aplicación práctica](#aplicación-práctica)
   - [Una misma información en antena, radio visual, web y redes](#una-misma-información-en-antena-radio-visual-web-y-redes)
@@ -100,9 +103,9 @@ redes. Lo que hay de norma o de documento público está en tres sitios: lo que 
 Público y el Contrato-programa dicen de las salidas digitales de Canal Sur (por qué y para quién se
 diseña); lo que el Libro de Estilo exige a los gráficos; y lo que publican organismos técnicos (la UIT
 sobre el blanco del grafismo en HDR, el W3C sobre accesibilidad web) y las propias plataformas en sus
-páginas de ayuda. La radio visual no tiene norma ni documento de la casa: se estudia con un artículo
-académico. Canal Sur no ha publicado una guía de estilo gráfico para antena, web ni redes, ni un
-manual de identidad (tema 2). Lo demás es oficio, y así se dice.
+páginas de ayuda. Para la radio visual no consta norma ni documento de la casa: se estudia con un
+artículo académico. No consta que Canal Sur haya publicado una guía de estilo gráfico para antena, web
+ni redes, ni un manual de identidad (tema 2). Lo demás es oficio, y así se dice.
 
 ## 1. Diseño gráfico aplicado a televisión
 
@@ -180,7 +183,7 @@ Y el aviso de oficio que se deriva, porque es trabajo diario del grafista: cuand
 1.85 con emisión en 16:9 quedan bandas muy finas, y con 2.35 quedan bandas gruesas arriba y abajo. Un
 rótulo colocado sin mirar eso se cuela dentro de la banda negra.
 
-Las relaciones de aspecto de las redes (9:16, 1:1, 4:5) no las fija ninguna norma técnica, sino cada
+Las relaciones de aspecto de las redes (9:16, 1:1) no las fija ninguna norma técnica, sino cada
 plataforma: epígrafe 4.
 
 ### El rango dinámico
@@ -350,7 +353,7 @@ son el tema 9; el grafismo en tiempo real, el tema 6.
 ### Qué es la radio visual
 
 La radio visual es la radio que, además de sonar, se ve: se emite con cámaras en el estudio, o con una
-señal de vídeo que acompaña al sonido. No tiene norma ni definición legal. La fuente leída es un
+señal de vídeo que acompaña al sonido. No consta norma ni definición legal que la regule. La fuente leída es un
 artículo académico: Sánchez Cid, M.; Cuevas-Molano, E.; López Carral, A.; Marroquín-Ciendúa, F.,
 «Radiovision: consumption and evaluations of a sample of university communication students», *VISUAL
 REVIEW. International Visual Culture Review / Revista Internacional de Cultura Visual*, vol. 17, núm. 1,
@@ -372,9 +375,11 @@ profesionales, suena la música y se ven los vídeos de los artistas; y es algo 
 que enseña el estudio.
 
 Su naturaleza se discute: **«It is unclear whether radio with video can still be defined as radio,
-whether it constitutes a form of television, or whether it is a hybrid»** (el artículo lo atribuye a
-Cavia Fraile, 2016): no está claro si sigue siendo radio, si es una forma de televisión o si es un
-híbrido.
+whether it constitutes a form of television, or whether it is a hybrid that extends beyond the boundaries of
+traditional radio but does not fully align with the conventions of television.»** (el artículo lo plantea
+justo después de citar a Cavia Fraile, 2016): no está claro si sigue siendo radio, si es una forma de
+televisión o si es un híbrido que va más allá de los límites de la radio tradicional sin ajustarse del
+todo a las convenciones de la televisión.
 
 ### Qué puede mostrar la señal de vídeo de una radio
 
@@ -529,9 +534,9 @@ inglés; la traducción va en redonda. Qué norma española obliga a cumplirlas 
 | 1.1.1 Contenido no textual (A) | **«All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for the situations listed below.»** | Todo gráfico o imagen necesita una alternativa textual equivalente, salvo las excepciones que el criterio enumera |
 | 1.4.1 Uso del color (A) | **«Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.»** | El color no puede ser el único medio de transmitir información |
 | 1.4.3 Contraste mínimo (AA) | **«The visual presentation of text and images of text has a contrast ratio of at least 4.5:1»**; **«Large-scale text and images of large-scale text have a contrast ratio of at least 3:1»** | Texto: 4,5:1; texto grande: 3:1 |
-| 1.4.11 Contraste no textual (AA) | **«The visual presentation of the following have a contrast ratio of at least 3:1 against adjacent color(s)»**: los componentes de interfaz y los **«Graphical Objects: Parts of graphics required to understand the content, except when a particular presentation of graphics is essential to the information being conveyed.»** | Iconos, partes de un gráfico necesarias para entenderlo y controles: 3:1 frente a los colores vecinos |
+| 1.4.11 Contraste no textual (AA) | **«The visual presentation of the following have a contrast ratio of at least 3:1 against adjacent color(s)»**: los componentes de interfaz y los objetos gráficos (**«Graphical Objects»**): **«Parts of graphics required to understand the content, except when a particular presentation of graphics is essential to the information being conveyed.»** | Iconos, partes de un gráfico necesarias para entenderlo y controles: 3:1 frente a los colores vecinos; en los controles, salvo los inactivos y aquellos cuyo aspecto lo decide el navegador sin que el autor lo modifique (**«except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author»**) |
 
-Tres definiciones de las propias pautas que se preguntan:
+Tres precisiones de las propias pautas que se preguntan (dos definiciones y una exención):
 
 - La relación de contraste se calcula como **«(L1 + 0.05) / (L2 + 0.05)»**, con L1 la luminancia
   relativa del color más claro y L2 la del más oscuro, y **«Contrast ratios can range from 1 to 21
@@ -539,7 +544,9 @@ Tres definiciones de las propias pautas que se preguntan:
 - Texto grande es el de **«at least 18 point or 14 point bold»**: 18 puntos, o 14 en negrita (puntos,
   no píxeles).
 - El logotipo está exento: **«Text that is part of a logo or brand name has no contrast
-  requirement.»**
+  requirement.»** El mismo criterio 1.4.3 exime también el texto incidental: el de un componente
+  inactivo, el puramente decorativo, el que nadie ve o el que forma parte de una imagen con otro
+  contenido visual significativo.
 
 Un aviso: las WCAG son pautas para contenido web. No fijan un umbral de contraste para los rótulos de
 emisión de televisión; aplicar el 4,5:1 a un faldón es analogía de oficio, no norma. El contraste, la
@@ -631,8 +638,8 @@ de Canal Sur incorporará «**registros ‘cross media’ y ‘transmedia’**»
 ### Relación de aspecto en redes: lo que dice la plataforma
 
 La emisión de Canal Sur es horizontal, 16:9. En redes, el móvil se sostiene en vertical y la pieza se ve
-en 9:16, o en formatos intermedios como el cuadrado (1:1) o el 4:5. Ninguna norma técnica fija esos
-formatos para redes: los fija cada plataforma, en páginas de ayuda que cambian sin aviso.
+en 9:16, o en cuadrado (1:1). Ninguna norma técnica fija esos formatos para redes: los fija cada
+plataforma, en páginas de ayuda que cambian sin aviso.
 
 YouTube lo explica en su página de ayuda «Resoluciones de vídeo y relaciones de aspecto» (leída el
 25-09-2026):
@@ -649,7 +656,8 @@ cuadrada o vertical y hasta tres minutos de duración se categorizarán como Sho
 
 La página de resoluciones no da medidas para el vertical. Las que se usan salen de girar el cuadro: una
 pieza vertical en HD es 1080 × 1920, el cuadro de 1920 × 1080 puesto en vertical (oficio). Las
-especificaciones oficiales de TikTok, Instagram y Facebook no se han leído y no se dan. Las miniaturas,
+especificaciones oficiales de TikTok, Instagram y Facebook no se han leído, y con ellas cualquier otro
+formato intermedio que admitan; no se dan. Las miniaturas,
 las piezas cortas y la coherencia de marca en redes son el tema 13.
 
 ### Reencuadrar: oficio
@@ -671,16 +679,72 @@ Lo que sigue es costumbre de oficio, sin norma:
   extremos), se sustituye o se monta en pantalla partida; nunca con franjas negras.
 
 
+### Plataformas OTT y televisión conectada
+
+El Contrato-programa encarga a Canal Sur Media, en la misma lista, las plataformas OTT y los
+**«servicios bajo estándar europeo HbbTV»** (punto 46); la plataforma OTT propia, Canal Sur Más, llega
+con aplicaciones a los televisores conectados (punto 45; los dos, arriba). Son
+dos maneras de llegar a la pantalla del salón, y las dos piden un diseño distinto del de la emisión y
+del del móvil.
+
+Qué es HbbTV. La asociación que desarrolla la especificación, la HbbTV Association, la presenta así:
+**«Hybrid broadcast broadband TV (or “HbbTV”) is a global initiative aimed at harmonizing the broadcast
+and broadband delivery of entertainment services to consumers through connected TVs, set‐top boxes and
+multiscreen devices.»** Es decir, junta en el mismo televisor lo que llega por la emisión y lo que llega
+por internet. Puede funcionar sólo con una de las dos vías, **«although it is most powerful when in a
+connected environment with a combination of broadcast and broadband networking»**: rinde más cuando el
+televisor recibe las dos.
+
+Qué ve el espectador, según el uso típico que describe la asociación:
+
+- Sobre la emisión aparece un aviso: **«the viewer will see a “call-to-action” in a corner of the
+  screen. This might, for instance, be a logo showing a red button, informing the viewer that an app is
+  available for launch at the press of that button.»** Un aviso en una esquina, a menudo un logotipo con
+  el botón rojo, que invita a abrir la aplicación con ese botón.
+- La aplicación **«may provide extra information on a program (e.g., sports statistics), show a program
+  guide with the option to switch channels, or provide a menu with access to additional video
+  programming»**: información añadida al programa, guía de programación o menú de vídeo adicional.
+- Se maneja con el mando: **«the coloured buttons, the cursor buttons, and the numbered buttons»** (los
+  botones de colores, los de cursor y los numéricos).
+- Entre los usos que enumera están **«Catch-up, replay TV, start-over»**, **«Program Guide»**, **«News,
+  Sport, Weather information»** y **«Enhanced TV – quizzes, extra info»**.
+- Los televisores no se ponen al día: a la pregunta de si se actualizan tras la venta para admitir
+  versiones nuevas, la asociación responde **«In general no.»**
+
+Lo que toca al grafista (oficio): el aviso del botón rojo, que convive en pantalla con la mosca y los
+rótulos de la emisión y no debe taparlos; y las pantallas de la aplicación, que se leen a distancia y
+se recorren con las flechas. Como el parque de televisores no se actualiza, la aplicación tiene que
+funcionar también en aparatos antiguos. Si Canal Sur emite hoy aplicaciones HbbTV, y con qué diseño, no
+consta en documento publicado.
+
+Diseñar la interfaz para el televisor. No hay norma; la referencia leída es la guía de diseño para TV de
+Android Developers (Google), documentación de plataforma que se cita como tal:
+
+| | Lo que dice la guía | Qué supone para el diseño |
+|---|---|---|
+| Distancia | **«the average distance between a TV and its viewers is 3 meters (10 feet)»**; hay que asegurarse de que **«text and other elements are large enough to be seen from a distance or limit the amount of text and reading on TV screens»** | Texto y elementos más grandes que en el móvil, y menos texto |
+| Manejo | **«most TVs rely on d-pad (up, down, left, right, select buttons on the remote) to navigate the UI. TV UI must provide instant and distinct feedback when buttons are pressed.»** | Se navega con la cruceta del mando, no con el dedo: el elemento seleccionado (el que tiene el foco) tiene que distinguirse al instante; en una retícula hay que prever **«the size increase of focused states»**, el aumento de tamaño del elemento enfocado |
+| Lienzo | **«Unlike web or mobile, TVs have a fixed screen aspect ratio of 16:9.»** | Un solo formato horizontal, a diferencia de la web y del móvil |
+| Márgenes | Un margen de en torno al 5 % en los bordes para los elementos importantes, aunque **«Most modern TVs no longer have overscan issues.»** | La misma lógica de las zonas seguras de la emisión |
+| Tipografía | **«Maximize legibility by avoiding decorative fonts.»**; **«Choose distinct, legible fonts which best reflect your brand style.»** | La tipografía corporativa cabe, si se lee a distancia |
+| Uso | **«TV is typically a shared device in the household.»** | Un aparato de toda la casa, no personal |
+
+La consecuencia para Canal Sur Más (oficio): la misma plataforma pide dos interfaces, la del móvil
+(táctil, cerca, a menudo en vertical) y la del televisor (a distancia, con el mando, siempre en 16:9),
+con la misma identidad. Las carátulas y miniaturas del catálogo son el tema 13.
+
 ### Una identidad, muchas salidas (oficio)
 
 Pautas de oficio, sin fuente escrita:
 
 - Cada salida tiene su lienzo: antena en 16:9 y resolución de emisión; web sin lienzo fijo, con
-  retícula adaptable; redes en 9:16, 1:1 o 4:5; radio visual, casi siempre un plano medio de estudio
+  retícula adaptable; redes en 9:16 o 1:1; radio visual, casi siempre un plano medio de estudio
   visto en una plataforma. Lo que no cambia es la identidad: logotipo, color, tipografía y tono son los
   mismos en todas (tema 2).
-- Se diseña pensando en la salida más estrecha: si el motivo y el texto se leen en un móvil en vertical,
-  se leerán en el televisor; al revés, no siempre.
+- Para una pieza de vídeo o de imagen, se diseña pensando en la salida más estrecha: si el motivo y el
+  texto se leen en un móvil en vertical, se leerán en el televisor; al revés, no siempre. La interfaz de
+  una aplicación para el televisor conectado es otro caso: se diseña para verla a distancia y manejarla
+  con el mando (epígrafe anterior).
 - En televisión el grafismo se ve una vez y pasa; en la web y en redes se detiene, se amplía, se
   comparte y se ve sin sonido. Por eso la información tiene que estar escrita en pantalla y no sólo en
   la locución, y los textos tienen que leerse en pantalla pequeña.
@@ -702,7 +766,7 @@ grafista en cada salida (oficio, salvo donde se cita):
 | Antena | 1920 × 1080, 16:9 | El gráfico en la plantilla del informativo; texto dentro de la zona segura de títulos | Que el gráfico prime por su **«claridad y precisión»** (LE 3.16.2); niveles legales; en HDR, el blanco al nivel de *Graphics White* |
 | Radio visual | La señal del estudio, vista sobre todo en plataformas | Una versión del gráfico a pantalla completa para el tramo sin cámara, o un rótulo sobre el plano medio | Que se lea en el móvil; que lleve el nombre del programa y de la emisora |
 | Web | Sin lienzo fijo | Una imagen o un gráfico adaptable, con varios recortes de «director artístico» si hace falta; alternativa textual | Contraste 4,5:1 en el texto (3:1 si es texto grande) y 3:1 en las barras frente al fondo (WCAG 2.2, 1.4.3 y 1.4.11); el color no es el único medio de distinguir las series (1.4.1) |
-| Redes | 1080 × 1920 en vertical; 1:1 o 4:5 según la red | El gráfico rehecho para el cuadro vertical, no la versión horizontal con franjas negras | Que el texto no quede bajo los botones de la aplicación; que la pieza se entienda sin sonido |
+| Redes | 1080 × 1920 en vertical; 1:1 si la red lo pide | El gráfico rehecho para el cuadro vertical, no la versión horizontal con franjas negras | Que el texto no quede bajo los botones de la aplicación; que la pieza se entienda sin sonido |
 
 Errores que se señalan en la prueba (oficio): meter la pieza horizontal en un cuadro 9:16 con barras
 negras (YouTube pide **«no añadas márgenes ni barras negras»**); distinguir las series del gráfico sólo
@@ -736,8 +800,8 @@ una emisión HDR; un texto de emisión fuera de la zona segura que desaparece al
 
 - Formatos técnicos de entrega (códecs, canal alfa, colorimetría, valores de las zonas seguras de la EBU
   R 95, entrega para emisión): tema 8.
-- Identidad visual, manual de marca, color y tipografía: tema 2. Canal Sur no ha publicado un manual de
-  identidad ni una guía de estilo gráfico para antena, web o redes.
+- Identidad visual, manual de marca, color y tipografía: tema 2. No consta que Canal Sur haya publicado
+  un manual de identidad ni una guía de estilo gráfico para antena, web o redes.
 - Grafismo por géneros (informativos, deportes, promociones, continuidad, eventos): tema 3.
 - Infografía y visualización de datos: tema 4.
 - Grafismo en tiempo real, escenarios virtuales y pantallas: tema 6.
@@ -746,8 +810,9 @@ una emisión HDR; un texto de emisión fuera de la zona segura que desaparece al
   obliga a cumplir las WCAG: tema 10.
 - Diseño para redes (formatos verticales, miniaturas, piezas cortas y coherencia de marca): tema 13.
 - Radio visual en Canal Sur: no consta en documento publicado que Canal Sur Radio emita con imagen ni
-  con qué grafismo. No hay tampoco norma ni documento público español que defina la radio visual.
-- Especificaciones de TikTok, Instagram y Facebook: no leídas; no se dan.
+  con qué grafismo. Tampoco se ha encontrado norma ni documento público español que defina la radio visual.
+- Especificaciones de TikTok, Instagram y Facebook (y los formatos intermedios que admitan): no leídas;
+  no se dan.
 - Umbral de contraste para rótulos de emisión de televisión: no hay norma leída que lo fije.
 
 ## Trazabilidad
@@ -760,10 +825,12 @@ una emisión HDR; un texto de emisión fuera de la zona segura que desaparece al
 | Contrato-programa 2024-2026, BOJA núm. 245, de 26-XII-2023: cláusula tercera, puntos 46, 47 y 48 | Canal Sur Media y sus servicios; producción convergente; la web de Canal Sur | 29-09-2026 |
 | Contrato-programa: parte expositiva, apartados 4 y 5; puntos 29, 45, 46 y 48 | Servicio público digital, Canal Sur Más, redes | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
 | Informe UIT-R BT.2408-9, § 2.1, tabla 1 y § 9 | Blanco del grafismo en HDR | Texto tomado del tema cerrado del puesto de Realizador/a (que a su vez lo tomó del de Operador/a Montador/a de Vídeo) |
-| W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, Recomendación de 12-XII-2024 (w3.org/TR/WCAG22): criterios 1.1.1, 1.4.1, 1.4.3, 1.4.11; definiciones de *contrast ratio* y *large scale* | Contraste, color, alternativa textual, exención del logotipo | 29-09-2026 (fase de investigación) |
-| MDN Web Docs (Mozilla), «Diseño receptivo», versión española, modificada el 12-09-2026 | Diseño web adaptable, Marcotte 2010, tres técnicas, imágenes de director artístico | 29-09-2026 (fase de investigación) |
-| Sánchez Cid, M. y otros, «Radiovision: consumption and evaluations of a sample of university communication students», *VISUAL REVIEW*, vol. 17, núm. 1, 2025, pp. 179-192, DOI 10.62161/revvisual.v17.5410 | Nombres, definición y naturaleza de la radio visual; cuatro usos de la señal de vídeo; YouTube como plataforma preferida de la muestra | 29-09-2026 (fase de investigación) |
+| W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, Recomendación de 12-XII-2024 (w3.org/TR/WCAG22): criterios 1.1.1, 1.4.1, 1.4.3, 1.4.11; definiciones de *contrast ratio* y *large scale* | Contraste, color, alternativa textual, exención del logotipo | 29-09-2026 (investigación y verificación) |
+| MDN Web Docs (Mozilla), «Diseño receptivo», versión española, modificada el 12-09-2026 | Diseño web adaptable, Marcotte 2010, tres técnicas, imágenes de director artístico | 29-09-2026 (investigación y verificación) |
+| Sánchez Cid, M. y otros, «Radiovision: consumption and evaluations of a sample of university communication students», *VISUAL REVIEW*, vol. 17, núm. 1, 2025, pp. 179-192, DOI 10.62161/revvisual.v17.5410 | Nombres, definición y naturaleza de la radio visual; cuatro usos de la señal de vídeo; YouTube como plataforma preferida de la muestra | 29-09-2026 (investigación y verificación) |
 | YouTube, páginas de ayuda «Resoluciones de vídeo y relaciones de aspecto» e «Información sobre los Shorts de YouTube de tres minutos» | 16:9 estándar, sin barras negras, qué es un Short | 25-09-2026 (texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo) |
+| HbbTV Association, «HbbTV Overview» (hbbtv.org/overview): definición, «How It Works - For Consumers» y «HbbTV FAQ» | Qué es HbbTV, el aviso del botón rojo, qué ofrece la aplicación, el manejo con el mando, que los televisores no se actualizan | 29-09-2026 |
+| Android Developers (Google), guías de diseño para TV: «Design for TV» (actualizada el 08-05-2023), «Layouts» (09-05-2025) y «Typography» (06-07-2026) | Distancia de visión, navegación con la cruceta y foco, 16:9 fijo, márgenes, tipografía, aparato compartido | 29-09-2026 |
 
 La fecha de trabajo del encargo es el 24-09-2026; las fuentes se leyeron en las fechas de la tabla.
 
@@ -774,5 +841,6 @@ seguras; la escala de planos, los elementos de composición, la regla del eje, e
 visuales (teoría clásica del lenguaje audiovisual y del análisis visual, sin fuente consultada); la
 tabla de informativos frente a programas; la diferencia entre grafismo de directo y de postproducción;
 lo que diseña el grafista para una radio con imagen; la tabla de interfaz y experiencia y los
-principios de usabilidad; la medida del vertical HD; el reencuadre; las reglas de «una identidad,
+principios de usabilidad; la medida del vertical HD; el reencuadre; lo que toca al grafista en HbbTV y
+la consecuencia para Canal Sur Más; las reglas de «una identidad,
 muchas salidas»; y la aplicación práctica.

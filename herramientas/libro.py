@@ -2142,6 +2142,11 @@ BLOQUES["canal-sur-33-realizador"] = _puesto_canal_sur("33-realizador-a", "Reali
     "grafismo y protocolos de realización propios) no constan en documento publicado: los temas "
     "dan la técnica y la norma, y lo dicen donde falta lo propio de la casa.</p>"))
 
+BLOQUES["canal-sur-15-grafista"] = _puesto_canal_sur("15-grafista", "Grafista", (
+    "<p><b>El manual de identidad visual de Canal Sur y sus herramientas y plantillas "
+    "internas</b> no constan en documento publicado: los temas dan la técnica y la norma, y "
+    "lo dicen donde falta lo propio de la casa.</p>"))
+
 
 def ruta_tema(carpeta, base):
     """Dónde vive un tema. Casi siempre, en la carpeta de su bloque; el de

@@ -6,19 +6,18 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 4 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule la infografía. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023), Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023) y *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma técnica: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*. Guías publicadas: Government Analysis Function (Reino Unido), *Data visualisation: charts* y *Data visualisation: colours*. Ley 37/2007, de reutilización de la información del sector público (artículo 8), para las condiciones de uso de los datos públicos. La estadística descriptiva y lo demás, oficio declarado como tal |
+| Fuente | Sin norma que regule la infografía. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023), Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023) y *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Norma técnica: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*. Guías publicadas: Government Analysis Function (Reino Unido), *Data visualisation: charts* y *Data visualisation: colours*. Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público (artículos 4, 8 y 11), para las condiciones de uso de los datos públicos. La estadística descriptiva y lo demás, oficio declarado como tal |
 | Redacción que se estudia | Carta y Contrato-programa tal como se publicaron en el BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., marzo de 2004; WCAG 2.2, Recomendación del W3C de 12-XII-2024; guías británicas en la versión publicada el día en que se leyeron; Ley 37/2007 en su redacción vigente a 24-09-2026 |
-| Extensión | 9.200 palabras aproximadamente |
+| Extensión | 9.900 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
-Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; *Libro de estilo
+Televisión, S.A. (CSRTV), a la que el Contrato-programa llama «Canal Sur» y la Carta, «los medios de Canal Sur»; *Libro de estilo
 de Canal Sur Televisión y Canal 2 Andalucía* (Libro de estilo o LE); Consorcio de la World Wide Web
 (W3C, por su nombre inglés), que publica las Pautas de Accesibilidad para el Contenido Web (WCAG, del
 inglés *Web Content Accessibility Guidelines*); Government Analysis Function, el servicio de análisis
-del Gobierno del Reino Unido (Analysis Function); Ley 37/2007, de 16 de noviembre, sobre reutilización
-de la información del sector público (LRISP); índice de precios de consumo (IPC); Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+del Gobierno del Reino Unido (Analysis Function); índice de precios de consumo (IPC); Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
 Personales y garantía de los derechos digitales (LOPDGDD); Instituto Nacional de
 Estadística (INE). SVG (gráficos vectoriales escalables, del inglés *scalable vector graphics*) es un
 formato de imagen vectorial; PNG y JPEG (por el *Joint Photographic Experts Group*), formatos de mapa de
@@ -72,6 +71,7 @@ fuente y su alternativa textual, y calcular una tasa o un contraste.
 - [6. Representación accesible](#6-representación-accesible)
   - [La norma técnica: WCAG 2.2](#la-norma-técnica-wcag-22)
   - [La alternativa textual: tabla, descripción o las dos](#la-alternativa-textual-tabla-descripción-o-las-dos)
+  - [Los colores que codifican datos](#los-colores-que-codifican-datos)
   - [Color, contraste y formato](#color-contraste-y-formato)
   - [Y en emisión](#y-en-emisión)
 - [Aplicación práctica](#aplicación-práctica)
@@ -201,8 +201,8 @@ más fina, que parte de la relación estadística que se quiere enseñar. Litera
 | **Part-to-whole** (parte de un todo) | **Bar chart, pie chart, donut chart, tree map, bubble chart** (barras, sectores, anillo, mapa de árbol, burbujas) |
 | **Flow** (flujo) | **Sankey graph** (diagrama de Sankey) |
 
-La guía remite, para elegir, a **«the Visual Vocabulary tool from the Financial Times»** (la herramienta
-de vocabulario visual del diario *Financial Times*). Y una precisión de la misma guía sobre las series temporales: las barras
+La guía remite, para elegir, a una herramienta externa: **«The Visual Vocabulary tool from the Financial Times can help you choose the best chart»** (la herramienta
+de vocabulario visual del diario *Financial Times* puede ayudar a elegir el mejor gráfico). Y una precisión de la misma guía sobre las series temporales: las barras
 valen si los datos están a intervalos iguales, pero **«when you have more than one time series on a
 chart, do not use a bar chart, use a line chart instead.»** (con más de una serie, líneas y no barras). Las dos tablas coinciden en lo esencial: las barras
 sirven para casi todo lo que es comparar, y los sectores sólo para la parte de un todo.
@@ -234,8 +234,8 @@ distorsiona el gráfico.
 La claridad empieza antes de dibujar. La guía británica de gráficos lo pone como prueba: **«If you
 cannot write down the message your chart is giving in a few sentences, you should think again about
 the chart you have chosen.»** (si no se puede escribir en unas pocas frases el mensaje que da el
-gráfico, hay que replantearse el gráfico elegido). Y la misma guía pide dos títulos: **«a headline
-title and a formal statistical subtitle»** (un titular y un subtítulo estadístico formal); el subtítulo
+gráfico, hay que replantearse el gráfico elegido). Y la misma guía, que exige al menos un título, tiene por buena práctica
+dar dos: **«a headline title and a formal statistical subtitle»** (un titular y un subtítulo estadístico formal); el subtítulo
 dice **«what the data is, the geography the data relates to and the time period shown»** (qué es el
 dato, a qué territorio se refiere y qué periodo muestra).
 
@@ -321,8 +321,8 @@ con la traducción en redonda:
   within each stack.»** (cuatro categorías por barra como mucho).
 - Barras: **«The gap between bars should be narrower than the width of a single bar.»** (el hueco entre
   barras, más estrecho que una barra).
-- Etiquetas: **«Do not use a key, label the categories themselves.»** (sin leyenda: se rotula cada
-  categoría en el propio gráfico).
+- Etiquetas de los sectores: **«Do not use a key, label the categories themselves.»** (sin leyenda: se
+  rotula cada categoría en el propio gráfico).
 - Qué evitar, bajo el rótulo **«Keep it simple»** (hazlo sencillo), en siete puntos: **«shaded
   backgrounds»**, **«unnecessary borders»**, **«boxes around legends and other content»**, **«patterns,
   textures and shadows»**, **«3D shapes»**, **«unnecessary data markers on line charts»** y **«thick or
@@ -375,9 +375,10 @@ La guía británica de gráficos dice lo mismo con sus razones:
   these relative proportions.»** (cortar el eje en barras es problemático: las barras se leen
   proporcionales entre sí y el corte deforma esas proporciones). Si empezar en cero impide contar la
   historia, **«consider an alternative chart, such as a Cleveland dot plot.»** (otro gráfico, como el de
-  puntos de Cleveland, que no depende de la longitud de una barra). El ejemplo que la guía reproduce: el regulador estadístico
-  británico (Office for Statistics Regulation) escribió al Tesoro (HM Treasury, el Tesoro de Su
-  Majestad) el 27 de febrero de 2023 por un gráfico de barras de la inflación **«where the y-axis starts at 8%»**: la bajada del 11,1 % de
+  puntos de Cleveland, que no depende de la longitud de una barra). El ejemplo que la guía reproduce: un mensaje del regulador
+  estadístico británico (Office for Statistics Regulation), de 27 de febrero de 2023, en el que anuncia
+  que ha escrito al Tesoro (HM Treasury, el Tesoro de Su Majestad) por un gráfico de barras de la
+  inflación **«where the y-axis starts at 8%»**: la bajada del 11,1 % de
   octubre de 2022 al 10,1 % de enero de 2023 parecía mucho mayor de lo que era.
 - Líneas: **«it is acceptable to break a numerical y-axis on a line chart, when necessary. Line charts
   are not read in the same way as bar charts so breaking the numerical axis does not mislead in the
@@ -424,7 +425,8 @@ Y la guía británica añade cuatro más, todas de gráficos de líneas o de ser
   que no se sabe).
 - La proporción del gráfico: **«In line charts, the aspect ratio you choose alters the slope of the
   lines. This can be misleading.»** (en líneas, la relación entre ancho y alto cambia la pendiente y
-  puede engañar). La guía no da una proporción fija; pide una que haga la línea razonablemente neutra.
+  puede engañar). La guía no da una proporción fija; remite a un artículo que propone una que haga la línea
+  razonablemente neutra.
 
 Esta última toca de lleno al grafista de televisión: un gráfico de líneas que se diseña para una
 cartela 16:9 y luego se rehace para un formato vertical de redes cambia de pendiente si se estira en
@@ -471,10 +473,14 @@ corrientes o constantes, y de qué año.
 Canal Sur no ha publicado un código ético propio de la infografía. Lo que obliga está en otros textos
 y alcanza al gráfico de forma expresa o por su materia:
 
-- La Carta del Servicio Público (artículo 10.1) pide que el desempeño **«infográfica»** esté **«siempre
-  conforme con la deontología profesional y códigos de autorregulación profesional que rigen la
-  actividad de los medios de Canal Sur.»** Es la única mención expresa de la ética de lo infográfico
-  en un documento de la casa.
+- La Carta del Servicio Público (artículo 10.1) cuenta la vertiente **«infográfica»** del desempeño
+  profesional entre las que han de estar **«siempre conformes con la deontología profesional y códigos
+  de autorregulación profesional que rigen la actividad de los medios de Canal Sur.»** El Contrato-programa
+  (cláusula tercera, punto 28) repite la cláusula: tras **«argumentales, textuales, infográficos, o
+  narrativos de tratamiento de redacción periodística»**, sigue **«estando siempre conformes con la
+  deontología profesional y códigos de autorregulación profesional que rigen la actividad de los medios
+  de Canal Sur.»** Son las dos menciones expresas de la ética de lo infográfico en los documentos de la
+  casa.
 - El Libro de estilo (3.16.2) exige que los gráficos primen **«por su claridad y precisión»** y que no
   se ciñan a aspectos técnicos o artísticos **«que dificulten el sentido de la información»** (epígrafe
   2), y subordina la forma al mensaje (6.5.1, epígrafe 1).
@@ -492,11 +498,17 @@ reconstrucciones:
 - Norma general (3.2.2, «Imágenes ‘falsas’»): **«quedan prohibidas, como norma general, las
   reconstrucciones y las simulaciones. Si son imprescindibles para la comprensión de una noticia
   importante, deberá hacerse constar mediante el rótulo 'reconstrucción' durante todo el tiempo en el
-  que las imágenes ‘falsas’ estén en pantalla.»** Y en los sucesos con muerte, heridas graves, suicidios
-  o abusos, **«estamos obligados a ser muy escrupulosos con este método.»**
-- En los sucesos (9.2.12.3, «Reconstrucciones»): el sistema es **«poco recomendable»**, y **«cuando el
-  recurso de un montaje de ficción sea inevitable, es obligatorio que, durante todo el tiempo de
-  aparición de las imágenes en pantalla, figure el rótulo ‘Reconstrucción’.»**
+  que las imágenes ‘falsas’ estén en pantalla.»** Y en los sucesos o noticias con resultado de muerte,
+  heridas graves, suicidios o situaciones de abuso, **«estamos obligados a ser muy escrupulosos con este método.»**
+- En la información sobre malos tratos (9.2.12.3, «Reconstrucciones», dentro del apartado 9.2, «Malos
+  tratos», aunque formulada en términos generales): el sistema es **«poco recomendable, especialmente en
+  un informativo diario»**; **«También es arriesgado el recurso de usar escenas cinematográficas como
+  ilustración»**, porque acentúan la sensación de irrealidad. El apartado da una alternativa: **«En caso necesario,
+  podemos usar una imagen subjetiva de cámara para reconstruir los hechos a través de sus escenarios,
+  sin la referencia principal de ningún personaje o actor.»** Es la que más se parece (lectura del tema) a una infografía
+  de proceso que recorre el lugar sin figuras. Y **«cuando el recurso de un montaje de ficción sea
+  inevitable, es obligatorio que, durante todo el tiempo de aparición de las imágenes en pantalla, figure
+  el rótulo ‘Reconstrucción’.»**
 
 Si una infografía animada que recrea un suceso es una «reconstrucción» en el sentido del Libro de
 estilo es interpretación: el texto habla de imágenes y de montaje de ficción, no de infografía. La
@@ -594,7 +606,7 @@ La guía de gráficos del Gobierno británico concreta lo que el Libro de estilo
   accessible data download.»** (ofrecer los datos de cada gráfico en una descarga accesible), porque
   mejora la transparencia y permite a otros rehacer el gráfico.
 - Notas: **«footnotes do play an important role in making sure data is not misused.»** (las notas al pie
-  evitan que el dato se use mal: el cambio de metodología, la serie rota, el dato provisional).
+  evitan que el dato se use mal).
 - En web, la fuente va en el texto de la página y no dentro de la imagen del gráfico: **«As with
   titles, this text should be in the body text of the page and not part of the chart image.»**
 
@@ -605,8 +617,8 @@ enlace y de los datos (oficio).
 ### Las condiciones de uso de los datos públicos
 
 Cuando el dato de un gráfico procede de una Administración, publicarlo es reutilizarlo, y la Ley
-37/2007 permite a quien lo publica poner condiciones. Son las que un gráfico cumple si cita bien:
-
+37/2007 permite a quien lo publica poner condiciones. Varias de ellas las cumple un gráfico que cita
+bien la fuente y no altera el dato.
 
 El artículo 8 enumera condiciones generales a las que la reutilización «**podrá estar sometida,
 entre otras**». No se imponen por sí solas: obligan a quien publica datos públicos cuando la
@@ -679,6 +691,37 @@ las ocho provincias andaluzas en un mes. Descripción mala: «Gráfico de barras
 distinta altura». Descripción buena: la que dice la conclusión —qué dos provincias concentran más paro,
 qué parte del total suman y cuáles tienen menos—, con la tabla de las ocho cifras en descarga para
 quien quiera leer los datos.
+
+### Los colores que codifican datos
+
+Antes del contraste está la elección de los colores. La guía británica de colores da estas reglas (se
+citan en inglés; la traducción va en redonda):
+
+- Pocos colores: **«Limit the number of colours you use»** (limitar el número de colores). Sólo se usan
+  colores distintos cuando muestran diferencias útiles en los datos; si sugieren significados que no
+  existen, quien lee pierde tiempo buscándolos. Con datos categóricos que no se agrupan, un solo color:
+  **«When you have categorical data that cannot be grouped, use a single colour.»** (las barras que se
+  parecen se comparan mejor que las que se distinguen).
+- Coherencia: **«Use colour consistently»** (usar el color de forma coherente): en una serie de
+  gráficos, la misma variable lleva el mismo color en todos.
+- Asociaciones: **«Consider colour associations»** (tener en cuenta las asociaciones de los colores):
+  el azul se asocia con el agua y el verde con la hierba, y hay asociaciones culturales que cambian de un
+  país o grupo a otro. Tonos de un mismo color hacen suponer que las series están relacionadas; si las
+  categorías son distintas, colores distintos.
+- Paleta categórica (datos que se dividen en grupos por nombres o etiquetas): **«We recommend a limit of
+  four categories as best practice for basic data visualisations.»** (cuatro categorías como máximo, por
+  buena práctica); más de cuatro series recargan el gráfico. El rótulo del apartado lo resume: **«Ideally,
+  use just the first four»** (lo ideal, sólo los cuatro primeros colores de la paleta).
+- Paleta secuencial (datos cuyo orden significa algo, como los grupos de edad): **«it is best to use a
+  single hue, or small set of closely related hues. You should change the lightness from pale to dark,
+  rather than alternating between hues»** (un solo tono o unos pocos muy próximos, de claro a oscuro, sin
+  alternar tonos), con el menor número de categorías posible, porque cuantas más hay, menos contraste
+  queda entre vecinos. Y sólo **«when absolutely necessary»** (cuando sea absolutamente necesaria), porque
+  los contrastes entre sus colores **«do not meet accessibility standards on their own»** (no cumplen
+  por sí solos las normas de accesibilidad) y deben acompañarse de otros recursos.
+- El ejemplo de la guía es un mapa con las áreas repartidas en cinco quintiles: el azul más claro para
+  las tasas más bajas y el más oscuro para las más altas. Es la paleta del mapa de coropletas del epígrafe 3
+  (coloreado con tasas).
 
 ### Color, contraste y formato
 
@@ -801,7 +844,7 @@ son una norma técnica, no una ley; las guías británicas son guías de un orga
 | Ley 37/2007, arts. 4.6, 4.7, 8 y 11 (BOE-A-2007-19814, texto consolidado) | Condiciones de la reutilización e infracciones | Texto tomado del tema cerrado del puesto de Redactor/a |
 | W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, Recomendación de 12-XII-2024 (w3.org/TR/WCAG22): criterios 1.1.1, 1.3.3, 1.4.1, 1.4.3 y 1.4.11; definiciones de *contrast ratio* y *large scale* | Accesibilidad de un gráfico en web | 29-09-2026 |
 | Government Analysis Function (Reino Unido), *Data visualisation: charts*, publicada el 19-05-2022 (analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-charts/) | Elección de gráfico, forma, eje, doble eje, huecos, proporción, fuentes, alternativa textual, SVG | 29-09-2026 |
-| Government Analysis Function, *Data visualisation: colours*, publicada el 23-11-2021 y actualizada el 12-02-2026 (analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/) | Contraste entre colores vecinos, leyendas, daltonismo, escala de grises | 29-09-2026 |
+| Government Analysis Function, *Data visualisation: colours*, publicada el 23-11-2021 y actualizada el 12-02-2026 (analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/) | Elección de colores (número, coherencia, asociaciones, paletas categórica y secuencial), contraste entre colores vecinos, leyendas, daltonismo, escala de grises | 29-09-2026 |
 
 La fecha de trabajo del encargo es el 24-09-2026; las fuentes se leyeron en las fechas de la tabla.
 

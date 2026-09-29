@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 2 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule la identidad visual. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023), Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023), *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004) y el blog de Documentación y Archivo de Canal Sur. Canal Sur no ha publicado un manual de identidad. Norma técnica: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*; Recomendación EBU R 95 (zonas seguras). Documentación técnica: MDN Web Docs (Mozilla). Guías: Government Analysis Function (Reino Unido), *Data visualisation: colours*; University of Central Florida Libraries, guía «Frutiger». Lo demás, oficio declarado como tal |
+| Fuente | Sin norma que regule la identidad visual. Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023), Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023), *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004) y el blog de Documentación y Archivo de Canal Sur. No se ha localizado publicado un manual de identidad de Canal Sur. Norma técnica: W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*; Recomendación EBU R 95 (zonas seguras). Documentación técnica: MDN Web Docs (Mozilla); Google, guía de diseño de Android TV y glosario *Fonts Knowledge* de Google Fonts. Guías: Government Analysis Function (Reino Unido), *Data visualisation: colours* y *charts*; University of Central Florida Libraries, guía «Frutiger»; Sessions College, guía del círculo cromático. Estudio: Torres-Martín, Castro-Martínez y Díaz-Morilla (*Fonseca*, 2022). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Carta y Contrato-programa tal como se publicaron en el BOJA en diciembre de 2023; Libro de Estilo, 1.ª ed., marzo de 2004; WCAG 2.2, Recomendación del W3C de 12-XII-2024; EBU R 95 v1.1, junio de 2017; páginas web tal como estaban el día en que se leyeron (fechas en «Trazabilidad») |
-| Extensión | 8.500 palabras aproximadamente |
+| Extensión | 10.000 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -18,10 +18,10 @@ Televisión (CSTV, como lo escriben el Libro de Estilo y el blog de la casa); Un
 Radiodifusión (EBU, del inglés *European Broadcasting Union*); Consorcio de la World Wide Web (W3C,
 por su nombre inglés), que publica las Pautas de Accesibilidad para el Contenido Web (WCAG, del inglés
 *Web Content Accessibility Guidelines*); diseño web adaptable o responsivo (RWD, del inglés
-*responsive web design*); hojas de estilo en cascada (CSS, del inglés *cascading style sheets*), el
-lenguaje con que se da forma a una página web; televisión digital terrestre (TDT); frecuencia
-modulada (FM); alta definición (HD) y ultraalta definición (UHD); alto rango dinámico (HDR, del
-inglés *high dynamic range*). Los modelos de color: rojo, verde y azul (RGB); cian, magenta, amarillo
+*responsive web design*); servicio de vídeo distribuido por internet al margen del operador de red
+(OTT, del inglés *over the top*); televisión digital terrestre (TDT); frecuencia modulada (FM); alto rango
+dinámico (HDR, del inglés *high dynamic range*); identificador de objeto digital (DOI, del inglés
+*digital object identifier*), el que identifica un artículo científico. Los modelos de color: rojo, verde y azul (RGB); cian, magenta, amarillo
 y negro (CMYK); tono, saturación y brillo (HSB); y el espacio de color normalizado de la web (sRGB).
 El grado kelvin (K) mide la temperatura de color; el punto tipográfico (pt), el cuerpo de la letra. El
 *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo o LE. PNG y
@@ -35,7 +35,7 @@ código de una página web.
 
 Qué se puede preguntar: qué distingue identidad corporativa, identidad visual, imagen y reputación;
 qué son logotipo, isotipo, imagotipo e isologo; qué modelos de arquitectura de marca hay y qué marcas
-nombra el Contrato-programa; qué dicen de la marca Canal Sur la Carta (sello de calidad,
+nombra el Contrato-programa (de canal y web temáticas); qué dicen de la marca Canal Sur la Carta (sello de calidad,
 responsabilidad social) y el Libro de Estilo (uso del nombre y del logotipo); cómo fue la imagen de
 CSTV de 1995; qué es un manual de identidad y qué capítulos tiene (construcción, área de respeto,
 tamaño mínimo, colores, tipografías, versiones, usos incorrectos); qué exige el Libro de Estilo a la
@@ -43,9 +43,12 @@ coherencia visual de los informativos y de las desconexiones; qué leyes de la p
 reglas de composición sostienen un sistema gráfico; qué contraste piden las WCAG 2.2 al texto, al
 texto grande y a los objetos gráficos, qué es texto grande y por qué el logotipo está exento; cuáles
 son las zonas seguras de la EBU R 95; qué son la mezcla aditiva y la sustractiva, los primarios, los
-secundarios y los complementarios; qué es la notación hexadecimal de un color; cuántos valores da una
+secundarios y los complementarios; qué colores tiene el círculo cromático tradicional, qué es
+complementario en él y qué armonías hay (complementaria, análoga, triádica, monocromática, complementaria
+dividida, tetrádica); qué es la notación hexadecimal de un color; cuántos valores da una
 profundidad de N bits; qué es un color frío en temperatura de color; qué familias tipográficas hay y
-qué es el kerning, el tracking y el interlineado; para qué se diseñó la Frutiger; y qué versiones de la
+qué es el kerning, el tracking y el interlineado; qué son la línea base, la altura de x, los
+ascendentes y los descendentes; qué distingue legibilidad y lecturabilidad; para qué se diseñó la Frutiger; y qué versiones de la
 marca hacen falta para antena, web y redes. En la prueba práctica: revisar una pieza contra el manual,
 adaptar una marca a varios formatos y calcular un contraste o una zona segura.
 
@@ -74,6 +77,7 @@ adaptar una marca a varios formatos y calcular un contraste o una zona segura.
   - [Dónde va el texto en emisión: la zona segura de grafismo](#dónde-va-el-texto-en-emisión-la-zona-segura-de-grafismo)
 - [5. Color](#5-color)
   - [Las dos mezclas](#las-dos-mezclas)
+  - [El círculo cromático y las armonías](#el-círculo-cromático-y-las-armonías)
   - [Por qué una marca tiene varios valores de color](#por-qué-una-marca-tiene-varios-valores-de-color)
   - [La profundidad de bits](#la-profundidad-de-bits)
   - [La temperatura de color, y lo que hacen los colores cálidos y fríos](#la-temperatura-de-color-y-lo-que-hacen-los-colores-cálidos-y-fríos)
@@ -104,8 +108,8 @@ piezas —el manual que la fija, la coherencia que la hace reconocible, la legib
 tipografía y la adaptación a cada formato— y el tema las sigue en ese orden, después de un epígrafe
 sobre qué es la identidad.
 
-Ninguna norma regula la identidad visual de una empresa. Canal Sur no ha publicado un manual de
-identidad, ni sus colores, ni sus tipografías corporativas: una búsqueda de ese documento no dio nada
+Ninguna norma regula la identidad visual de una empresa. No se ha localizado publicado un manual de
+identidad de Canal Sur, ni sus colores, ni sus tipografías corporativas: una búsqueda de ese documento no dio nada
 de la casa, y lo que circula (trabajos de agencias o de estudiantes, prensa de diseño) no es documento
 de la RTVA y el tema no lo usa. Lo que sí consta publicado sobre la marca Canal Sur está en la Carta,
 en el Contrato-programa, en el Libro de Estilo y en el archivo de la casa, y se cita con su artículo o
@@ -171,14 +175,24 @@ tercera, punto 105) prevé difundir por TDT **«las marcas televisivas Canal Sur
 2»**, distribuir por internet la oferta generalista **«ofrecida a su vez a nivel internacional por
 sistema de distribución por satélite bajo la marca Canal Sur Andalucía»**, y difundir por FM **«las
 diversas marcas de servicios sonoros de radio de Canal Sur»**. El punto 112 vuelve sobre **«La señal
-internacional de la marca Canal Sur Andalucía»**. El mismo documento llama «Canal Sur Más» a la
-plataforma de vídeo a petición y «Canal Sur Media» a la dirección de los servicios digitales (tema 1).
-Todas comparten el nombre «Canal Sur» y le añaden un descriptor; que eso responda a un modelo
-monolítico decidido en un manual no consta en documento publicado: es una lectura de los nombres.
+internacional de la marca Canal Sur Andalucía»**. El mismo documento llama «Canal Sur Más» a su
+plataforma digital de *streaming* y «Canal Sur Media» a la dirección de los servicios digitales (tema 1).
+Las marcas de canal de televisión y de radio comparten el nombre «Canal Sur» y le añaden un
+descriptor. No todas las que nombra el documento lo llevan: el punto 52 prevé que Canal Sur crezca
+como operador «multicanal» **«coordinando en torno a las prestaciones de su plataforma OTT los
+servicios de sus canales web temáticos de marcas canalcocina, canalturismo, canalflamenco, y
+canal.labanda, y las potenciales nuevas marcas que podrían estar dedicadas a producciones sobre
+temáticas de interés público y social»**, y el punto 110 los vuelve a nombrar como **«canales web
+temáticos tales como canalflamenco, canalturismo, canalcocina, canal labanda»**, cuya oferta se
+distribuye **«conforme a la coordinación de la plataforma Canal Sur Más»**. Son marcas con nombre
+propio que se agrupan bajo la plataforma de la casa: la lectura de un modelo monolítico vale para los
+canales de antena, no para todo. Qué modelo de arquitectura ha decidido la casa, y si lo fija un
+manual, no consta en documento publicado: es una lectura de los nombres.
 
 ### La marca Canal Sur en los documentos de la casa
 
-Lo que la casa ha publicado sobre su marca son cuatro cosas, y ninguna es gráfica:
+Lo que la casa ha publicado sobre su marca son cuatro cosas, y sólo la última describe algo gráfico
+(la imagen de 1995):
 
 - La marca como sello de calidad. La Carta del Servicio Público 2024-2029, artículo 10 («Sello
   distintivo de calidad audiovisual»), exige calidad **«tanto técnica en los componentes, utilización y
@@ -194,8 +208,9 @@ Lo que la casa ha publicado sobre su marca son cuatro cosas, y ninguna es gráfi
   marca Canal Sur»**.
 - El uso del nombre y del logotipo. El Libro de Estilo (2.3.2.4, «Credenciales») dice: **«No se podrá
   usar el nombre de la empresa en objetos privados (tarjetas de visita, membretes, logotipos...) o
-  para actividades particulares.»** El precepto está en el capítulo de conducta y se dirige a **«Los
-  periodistas de CSTV»**; es el único del Libro de Estilo sobre el uso del logotipo.
+  para actividades particulares.»** El precepto está en el capítulo 2 («Valores periodísticos», apartado 2.3, «El periodista ante la
+  información») y se dirige a **«Los periodistas de CSTV»**; es el único pasaje del Libro de Estilo que
+  nombra los logotipos.
 - La historia de la imagen. El blog de Documentación y Archivo de Canal Sur («Memoranda») recoge, a
   partir del informativo *Diario 2* del 9 de marzo de 1995, que ese día **«Joaquín Marín, director
   general de la RTVA, presenta la nueva programación de CSTV y la nueva imagen corporativa de la cadena
@@ -356,8 +371,19 @@ no cumple esa regla, por bonita que sea.
 
 ### Qué hace legible una letra en pantalla
 
+Dos cualidades que se confunden. El glosario tipográfico de Google Fonts (*Fonts Knowledge*) llama
+legibilidad (*legibility*) a la de la letra: **«Describes how a typeface’s glyphs can be correctly
+identified as characters and words, including how individual characters can be distinguished from one
+another.»** (que cada carácter se identifique y no se confunda con otro). Y llama *readability* a la
+del texto: **«Describes how comfortable it is for a person to engage with text created with legible
+type.»** (lo cómodo que resulta leer un texto hecho con una letra legible). En español a la segunda se
+la suele llamar lecturabilidad (término de oficio, no de la fuente). La diferencia en una línea: la
+legibilidad es del carácter; la lecturabilidad, del texto seguido, y depende además del tamaño, del
+interlineado, de la longitud de línea y del contraste (oficio). Una letra legible puede componerse mal y dar un
+texto poco lecturable.
+
 La legibilidad depende de la letra, del tamaño, del contraste con el fondo y del tiempo que el texto
-está a la vista. Dos fuentes publicadas lo concretan.
+está a la vista. Tres fuentes publicadas lo concretan.
 
 La Frutiger es el caso de escuela de una letra diseñada para leerse en malas condiciones. La guía de
 tipografía de la biblioteca de la University of Central Florida la presenta como **«an outstandingly
@@ -376,6 +402,14 @@ composición siempre abajo, sobre pastilla de color diferente a las letras, letr
 o negro, tamaño sobre los 20 puntos y efectos de entrada y/o salida sencillos»**, para **«facilitar la
 lectura de los rótulos, porque en la segunda década del siglo XXI la televisión también se lee»**. Es la
 descripción de una práctica observada, no una norma.
+
+Para la pantalla de televisión, la guía de diseño de Android TV (documentación de Google para
+desarrolladores) aconseja, para la legibilidad, **«For better readability from a distance, use
+typefaces with large counters and apt optical sizing. Ensure letters are distinguishable from one
+other.»** (letras con contraformas —los huecos interiores, como el de la «o»— amplias, y distinguibles
+entre sí), y avisa de que **«Any text on TV needs to have a legible font width, as thinner lines are
+not instantly recognisable.»** (los trazos finos no se reconocen al instante). Es guía de un
+fabricante para interfaces, no norma de emisión.
 
 Pautas de oficio, sin fuente escrita, para el texto de una identidad en pantalla:
 
@@ -401,20 +435,27 @@ traducción va en redonda. Qué norma española obliga a cumplirlas y en qué ni
 | 1.4.3 Contraste mínimo (AA) | **«The visual presentation of text and images of text has a contrast ratio of at least 4.5:1»**; **«Large-scale text and images of large-scale text have a contrast ratio of at least 3:1»** | Texto: 4,5:1; texto grande: 3:1 |
 | 1.4.11 Contraste no textual (AA) | **«The visual presentation of the following have a contrast ratio of at least 3:1 against adjacent color(s)»**: los componentes de interfaz y los **«Graphical Objects: Parts of graphics required to understand the content, except when a particular presentation of graphics is essential to the information being conveyed.»** | Iconos y partes de un gráfico necesarias para entenderlo: 3:1 frente a los colores vecinos |
 
-Tres definiciones de las propias pautas:
+Tres definiciones de las propias pautas (relación de contraste, luminancia relativa y texto grande) y
+las salvedades del criterio 1.4.3:
 
 - La relación de contraste se calcula como **«(L1 + 0.05) / (L2 + 0.05)»**, con L1 la luminancia
-  relativa del color más claro y L2 la del más oscuro, y **«Contrast ratios can range from 1 to 21
+  relativa del color más claro y L2 la del más oscuro; la luminancia relativa va de 0 a 1:
+  **«normalized to 0 for darkest black and 1 for lightest white»**. Y **«Contrast ratios can range from 1 to 21
   (commonly written 1:1 to 21:1).»**
 - Texto grande es el de **«at least 18 point or 14 point bold»**: 18 puntos, o 14 en negrita.
 - El logotipo está exento: **«Text that is part of a logo or brand name has no contrast
   requirement.»** La exención alcanza al texto que forma parte de la marca; no a los textos que la
-  acompañan (el eslogan en otra caja, el menú, el pie), que siguen sujetos al 4,5:1.
+  acompañan (el eslogan en otra caja, el menú, el pie), que siguen sujetos al 4,5:1, o al 3:1 si son
+  texto grande. El criterio 1.4.3 tiene una tercera salvedad, la del texto incidental: **«Text or images
+  of text that are part of an inactive user interface component, that are pure decoration, that are not
+  visible to anyone, or that are part of a picture that contains significant other visual content, have
+  no contrast requirement.»** (el de un componente inactivo, el puramente decorativo, el invisible y el
+  que forma parte de una imagen con otro contenido visual importante).
 
 Lo que eso significa para la identidad (oficio): la paleta corporativa se comprueba por parejas antes
 de aprobarla —cada color de texto con cada color de fondo—, y el manual dice qué combinaciones están
-permitidas. Un color de marca que no llega a 4,5:1 con el blanco puede ser fondo de un titular grande
-(3:1) pero no de un texto normal.
+permitidas. Un color de marca que no llega a 4,5:1 con el blanco, pero sí a 3:1, puede ser fondo de un titular
+grande pero no de un texto normal.
 
 Un aviso: las WCAG son pautas para contenido web. No fijan un umbral de contraste para los rótulos de
 emisión de televisión; aplicar el 4,5:1 a un faldón es analogía de oficio, no norma.
@@ -474,6 +515,50 @@ dan blanco. Si rojo más verde da amarillo, y rojo más verde más azul da blanc
 azul da blanco: el amarillo es el complementario del azul. Al sumar luz nunca se oscurece: el
 secundario es más luminoso que cada uno de los primarios que lo forman.
 
+### El círculo cromático y las armonías
+
+Además de las dos mezclas físicas, el diseño usa el círculo cromático tradicional, el de los pintores.
+La guía del círculo cromático de Sessions College, escuela de arte y diseño en línea, lo define
+como **«a chart that represents the relationships between colors»**, que los artistas y diseñadores
+usan **«to choose sets of colors that work well together»**, y da sus colores:
+
+| En el círculo tradicional | Colores |
+|---|---|
+| Primarios | **«Red, yellow, blue»** (rojo, amarillo, azul) |
+| Secundarios | **«Orange, green, violet»** (naranja, verde, violeta) |
+| Terciarios | **«Yellow green, blue green, blue violet, red violet, red orange, yellow orange»** (amarillo verdoso, verde azulado, azul violáceo, rojo violáceo, rojo anaranjado, amarillo anaranjado) |
+
+Los secundarios salen de mezclar primarios: **«mixing red and yellow creates orange. Mixing yellow
+and blue creates green.»**
+
+Las armonías de color son combinaciones basadas en la posición en el círculo; la misma guía dice que
+**«are based on geometric relationships on the color wheel»** y describe seis:
+
+| Armonía | Qué combina | Ejemplo de la guía |
+|---|---|---|
+| Complementaria | **«two opposite colors on the color wheel»**, para contraste fuerte | Azul y naranja |
+| Monocromática | **«three different values of the same color»** | Azul claro, medio y oscuro |
+| Análoga | **«three adjacent colors on the color wheel»** | Rojo, naranja y amarillo |
+| Complementaria dividida | **«a color and the two adjacent tertiary colors of its complement»** | Verde, rojo anaranjado y rojo violáceo |
+| Triádica | **«three evenly spaced colors on the color wheel»** | Rojo, amarillo y azul |
+| Tetrádica | **«two complementary pairs»** | Con el rojo y el verde como una de las parejas |
+
+Qué efecto da cada una, según la guía: los análogos, parecidos en tono, crean **«a smooth transition
+from one color to the next»**; los complementarios, opuestos, **«create strong contrast»**; y la
+monocromática **«can be subtle and sophisticated»**.
+
+La trampa que hay que llevar clara: «complementario» no significa lo mismo en los dos círculos. En el
+tradicional de pintor, el complementario del rojo es el verde y el del azul, el naranja (los ejemplos
+de la guía); en la mezcla de luces, el del rojo es el cian y el del azul, el amarillo (tabla de «Las dos mezclas»).
+Una pregunta que diga «círculo cromático tradicional» o «de pintor» pide el primero; una que hable de
+luz, de RGB o de síntesis aditiva, el segundo.
+
+Para qué le sirven al grafista (oficio): una paleta corporativa suele partir de un color de marca y
+buscar el acento en su complementario, para que destaque, o en sus análogos, para que acompañe; la
+monocromática da variantes del mismo color para fondos y pastillas. La armonía no garantiza el
+contraste: dos complementarios de luminancia parecida pueden no llegar al 4,5:1 de las WCAG, y se
+comprueban igual (epígrafe 4).
+
 ### Por qué una marca tiene varios valores de color
 
 Una marca que sale en pantalla y en papel no puede tener un solo número de color, porque la pantalla
@@ -508,7 +593,7 @@ Una imagen de N bits por píxel puede tener 2 elevado a N valores. Es un cálcul
 |---|---|---|
 | 1 | 2 | Blanco y negro puro |
 | 8 | 256 | Un canal de color, o una imagen indexada |
-| 16 | 65.536 | Alta precisión por canal |
+| 16 | 65.536 | Dieciséis bits en total (no por canal: véase debajo) |
 | 24 | 16,7 millones (16.777.216) | Ocho bits por cada uno de los tres canales |
 
 La distinción que hay que llevar clara: «16 bits» a secas significa dieciséis bits en total (65.536
@@ -609,6 +694,24 @@ El cuerpo en puntos es la medida que usan las WCAG para decir qué es texto gran
 negrita; epígrafe 4); en pantalla, el programa de diseño lo convierte a píxeles, y el tamaño que se
 comprueba es el que se ve en la salida final.
 
+Las medidas verticales de la letra, con las definiciones del glosario de Google Fonts:
+
+| Término | Qué es |
+|---|---|
+| Línea base (*baseline*) | **«The invisible line upon which a line of type rests.»** Es la referencia desde la que se miden el interlineado y la altura de x |
+| Altura de x (*x-height*) | **«The height of the lowercase characters that have no ascenders nor descenders, which indicates how tall or short the type appears.»** Se llama así porque es la altura de la «x» (oficio) |
+| Ascendentes (*ascenders*) | Las partes de la letra que suben por encima de la altura de x, y normalmente por encima de la altura de las mayúsculas: los de la «b», la «d», la «h» o la «l» |
+| Descendentes (*descenders*) | Los que bajan por debajo de la línea base: los de la «g», la «p» o la «q» |
+
+La definición de ascendentes y descendentes del glosario es una sola: **«The upward or downward parts of
+letterforms that extend above the x-height—and usually above the cap height (ascenders)—and drop below
+the baseline (descenders).»** Los ejemplos de letras son de oficio.
+
+Por qué importa en pantalla (oficio): la altura de x dice lo grande que parece la letra, no el cuerpo.
+A igual cuerpo en puntos, una letra de altura de x generosa parece mayor y abre más los huecos
+interiores, y por eso se lee mejor en tamaño pequeño y de lejos. Dos letras del mismo cuerpo pueden,
+así, no leerse igual en un faldón.
+
 ### La tipografía corporativa
 
 Qué fija el manual de la tipografía (oficio): qué familias son las corporativas, qué pesos se usan para
@@ -650,7 +753,7 @@ solo sólo existe si la marca es separable: con un imagotipo se puede; con un is
 | Radio con imagen | La marca de la emisora y del programa sobre el plano de estudio o en una imagen fija | Tema 1 |
 | Impresión y señalética | CMYK o tinta plana; tamaños en milímetros | Oficio |
 
-La web tiene nombre para esta adaptación. La MDN define el diseño web adaptable como **«un conjunto de
+La web tiene nombre para esta adaptación. La MDN define el diseño web responsivo (RWD) como **«un conjunto de
 prácticas que permite a las páginas web alterar su diseño y apariencia para adaptarse a diferentes
 anchos de pantalla, resoluciones, etc.»**, y recuerda que **«El término diseño responsivo fue acuñado por
 Ethan Marcotte en 2010»**. Para las imágenes, el elemento `<picture>` y los atributos `srcset` y `sizes`
@@ -695,7 +798,7 @@ salvo donde se cita):
 | Marca | Versión correcta para el fondo y el espacio; área de respeto; tamaño por encima del mínimo | Logotipo estirado para llenar un faldón; símbolo separado de una marca que no lo permite |
 | Color | Valores del manual en el modelo de la salida (RGB para pantalla); niveles legales en emisión | Color de marca copiado del CMYK de un cartel; blanco máximo en HDR |
 | Tipografía | Familias y pesos corporativos; escala de tamaños; kerning en titulares | Una tercera familia «para dar vida»; tracking abierto a mano en un rótulo |
-| Legibilidad | Texto dentro de la zona segura de grafismo (EBU R 95); contraste suficiente; en web y redes, 4,5:1 y 3:1 en texto grande (WCAG 2.2, 1.4.3) | Texto blanco sobre amarillo claro; subtítulo en la franja que tapan los botones de la red |
+| Legibilidad | Texto dentro de la zona segura de grafismo (EBU R 95); contraste suficiente; en web, 4,5:1 y 3:1 en texto grande (WCAG 2.2, 1.4.3), y en redes por analogía | Texto blanco sobre amarillo claro; subtítulo en la franja que tapan los botones de la red |
 | Coherencia | Mismo paquete que el resto del programa y del canal (LE 6.5 y 7.4) | Una desconexión con su propio faldón |
 | Formatos | Versión 16:9 para antena y versiones vertical y cuadrada para redes, rehechas y no recortadas a ciegas | La pieza horizontal metida en un cuadro vertical con franjas negras |
 
@@ -718,7 +821,7 @@ salvo donde se cita):
 - Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023): arts. 10.1, 10.2 y
   34.1.
 - Contrato-programa RTVA 2024-2026 (Acuerdo del Consejo de Gobierno de 19-XII-2023, BOJA núm. 245, de
-  26-XII-2023): cláusula tercera, puntos 105 y 112.
+  26-XII-2023): cláusula tercera, puntos 45, 46, 52, 105, 110 y 112.
 
 El Libro de Estilo es norma interna de la casa, no disposición publicada en diario oficial; las WCAG 2.2
 y la EBU R 95 son normas técnicas, no leyes.
@@ -730,7 +833,9 @@ y la EBU R 95 son normas técnicas, no leyes.
   quién lo diseñó ni cuándo. Lo que circula en portafolios de agencias, trabajos de estudiantes o
   prensa de diseño no es documento de la casa y el tema no lo usa.
 - Qué modelo de arquitectura de marca ha decidido la casa: no consta; el tema sólo lee los nombres que
-  da el Contrato-programa.
+  da el Contrato-programa (marcas de canal con «Canal Sur» y marcas web temáticas con nombre propio).
+- Una norma del círculo cromático o de las armonías: no la hay; el tema las da con una guía de
+  enseñanza de diseño. Tampoco se da quién ideó el círculo cromático.
 - Umbral de contraste para rótulos de emisión de televisión: no hay norma leída que lo fije.
 - Autoría y fecha de las tipografías de la tabla de familias (salvo la Frutiger): no se han leído en
   fuente y no se dan.
@@ -749,18 +854,22 @@ y la EBU R 95 son normas técnicas, no leyes.
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
 | Carta del Servicio Público de la RTVA 2024-2029, BOJA núm. 247, 2023: arts. 10.1, 10.2 y 34.1 | Sello de calidad con vertiente infográfica; solidez de la marca Canal Sur | 29-09-2026 |
-| Contrato-programa 2024-2026, BOJA núm. 245, de 26-XII-2023: cláusula tercera, puntos 105 y 112 | Marcas Canal Sur Televisión, Canal Sur 2, Canal Sur Andalucía y marcas de radio | 29-09-2026 |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 2.3.2.4 | Uso del nombre de la empresa y de logotipos; destinatarios del precepto | 29-09-2026 |
+| Contrato-programa 2024-2026, BOJA núm. 245, de 26-XII-2023: cláusula tercera, puntos 105 y 112 | Marcas Canal Sur Televisión, Canal Sur 2, Canal Sur Andalucía y marcas de radio; Canal Sur Más y Canal Sur Media (puntos 45 y 46) | 29-09-2026 |
+| Contrato-programa 2024-2026: cláusula tercera, puntos 52 y 110 | Marcas web temáticas canalcocina, canalturismo, canalflamenco y canal.labanda, coordinadas por la plataforma OTT (Canal Sur Más) | 29-09-2026 (remate) |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 2.3.2.4 | Uso del nombre de la empresa y de logotipos; destinatarios y capítulo del precepto; edición | 29-09-2026 |
 | Libro de Estilo, 3.16.2, 6.5 y 7.4 | Claridad y precisión de los gráficos; marco uniforme de los informativos; coherencia de las desconexiones | Texto tomado del tema cerrado del puesto de Realizador/a |
 | Blog «Memoranda», Documentación y Archivo de Canal Sur, entrada «Canal Sur TV: nueva programación e imagen corporativa (1995)», blogs.canalsur.es/documentacionyarchivo/cstv-nueva-programacion-con-triangulo-del-sur/ | Imagen corporativa de CSTV de 1995 | 29-09-2026 |
 | Recomendación EBU R 95 v1.1 (junio de 2017) | Zonas seguras de acción y de grafismo; valores en 1080 y 2160 | Texto tomado del tema cerrado del puesto de Realizador/a |
-| W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, Recomendación de 12-XII-2024 (w3.org/TR/WCAG22): criterios 1.4.1, 1.4.3 y 1.4.11; definiciones de *contrast ratio* y *large scale* | Contraste, uso del color, texto grande, exención del logotipo | 29-09-2026 (fase de investigación) |
-| MDN Web Docs (Mozilla), «Diseño receptivo», versión española, modificada el 12-09-2026 | Definición del diseño web adaptable, Marcotte 2010, imágenes de director artístico | 29-09-2026 (fase de investigación) |
+| W3C, *Web Content Accessibility Guidelines (WCAG) 2.2*, Recomendación de 12-XII-2024 (w3.org/TR/WCAG22): criterios 1.4.1, 1.4.3 y 1.4.11; definiciones de *contrast ratio*, *relative luminance* y *large scale* | Contraste, uso del color, texto grande, exenciones del logotipo y del texto incidental, luminancia de 0 a 1 | 29-09-2026 |
+| MDN Web Docs (Mozilla), «Diseño receptivo», versión española, modificada el 12-09-2026 | Definición del diseño web responsivo, Marcotte 2010, imágenes de director artístico | 29-09-2026 |
 | MDN Web Docs (Mozilla), «`<hex-color>`», versión inglesa, modificada el 20-04-2026 (developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/hex-color) | Notación hexadecimal del color sRGB | 29-09-2026 |
-| Government Analysis Function (Reino Unido), *Data visualisation: colours* (23-11-2021, actualizada 12-02-2026) | Coherencia, número y asociaciones del color; daltonismo; escala de grises | 29-09-2026 (fase de investigación) |
-| Government Analysis Function (Reino Unido), *Data visualisation: charts* (19-05-2022) | Un PNG o JPEG convertido a SVG no es escalable | 29-09-2026 (fase de investigación) |
+| Government Analysis Function (Reino Unido), *Data visualisation: colours* (23-11-2021, actualizada 12-02-2026) | Coherencia, número y asociaciones del color; daltonismo; escala de grises | 29-09-2026 |
+| Government Analysis Function (Reino Unido), *Data visualisation: charts* (19-05-2022) | Un PNG o JPEG convertido a SVG no es escalable | 29-09-2026 |
 | University of Central Florida Libraries, guía «Frutiger» de sus *Research Guides* de tipografía (guides.ucf.edu/c.php?g=1504914&p=11450972) | Origen, nombre Roissy, 1976 y razón de legibilidad de la Frutiger; palo seco humanista | 29-09-2026 |
-| Torres-Martín, J. L.; Castro-Martínez, A.; Díaz-Morilla, P., *Fonseca, Journal of Communication*, núm. 25, 2022, pp. 95-113, DOI 10.14201/fjc.29755, que cita a Andueza y Pérez (2016, p. 127) | Línea gráfica propia de cada cadena; rasgos comunes de los rótulos de sumario | 29-09-2026 (fase de investigación) |
+| Sessions College, «Color Wheel - Color Calculator» (sessions.edu/color-calculator/), modificada el 01-05-2025 | Círculo cromático tradicional: primarios, secundarios y terciarios; las seis armonías, su definición, ejemplos y efecto | 29-09-2026 (remate) |
+| Google Fonts, glosario *Fonts Knowledge*: *baseline*, *x-height*, *ascenders & descenders*, *legibility*, *readability* (fonts.google.com/knowledge/glossary/) | Línea base, altura de x, ascendentes y descendentes; legibilidad y *readability* | 29-09-2026 (remate; se leyó la definición que sirve cada entrada) |
+| Google, Android Developers, guía de diseño de Android TV, «Typography» (developer.android.com/design/ui/tv/guides/styles/typography) | Contraformas amplias, letras distinguibles y trazos no finos para leer en el televisor | 29-09-2026 (remate) |
+| Torres-Martín, J. L.; Castro-Martínez, A.; Díaz-Morilla, P., *Fonseca, Journal of Communication*, núm. 25, 2022, pp. 95-113, DOI 10.14201/fjc.29755, que cita a Andueza y Pérez (2016, p. 127) | Línea gráfica propia de cada cadena; rasgos comunes de los rótulos de sumario | 29-09-2026 (PDF del artículo; la cita está en su p. 99) |
 
 La fecha de trabajo del encargo es el 24-09-2026; las fuentes se leyeron en las fechas de la tabla.
 
@@ -770,8 +879,8 @@ de los nombres de Canal Sur; la estructura del manual y sus capítulos audiovisu
 de respeto y del tamaño mínimo; el sistema gráfico, su vocabulario y las reglas de composición; las
 leyes de la Gestalt y su uso en una marca; las pautas de legibilidad; la comprobación de la paleta por
 parejas; las dos mezclas de color, los complementarios, la temperatura de color y el efecto de los
-colores cálidos y fríos; los modelos de color de un manual y la conversión entre ellos; los monitores de
-informática y de vídeo; la clasificación tipográfica, las medidas de la letra y la tipografía
-corporativa; las versiones de la marca y su uso en cada salida; y la aplicación práctica. Las cifras
+colores cálidos y fríos; el uso del círculo cromático y de las armonías en una paleta; los modelos de color de un manual y la conversión entre ellos; los monitores de
+informática y de vídeo; la clasificación tipográfica, las medidas de la letra, los ejemplos de ascendentes y descendentes,
+el efecto de la altura de x en pantalla, el término «lecturabilidad» y la tipografía corporativa; las versiones de la marca y su uso en cada salida; y la aplicación práctica. Las cifras
 de la proporción áurea, de la profundidad de bits y del contraste máximo son cálculos, no datos
 tomados de una fuente.

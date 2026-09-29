@@ -13,20 +13,16 @@
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
-Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Canal Sur
-Televisión (CSTV, como lo escribe el Libro de Estilo); Corporación de Radio y Televisión Española
-(RTVE) y Televisión Española (TVE; TVE-1, su primera cadena, en el estudio de 2005); Ley 13/2022, de
+Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Televisión
+Española (TVE; TVE-1, su primera cadena, en el estudio de 2005); Ley 13/2022, de
 7 de julio, General de Comunicación Audiovisual (LGCA); Ley 18/2007, de 17 de diciembre, de la RTVA
-(Ley 18/2007); Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía (Ley 10/2018); Carta del
-Servicio Público de la RTVA 2024-2029 (la Carta o CSP); Contrato-programa 2024-2026 (el
-Contrato-programa o CP); Universidad Miguel Hernández de Elche (UMH); televisión digital terrestre
-(TDT). El *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo o
-LE, y habla de «Canal 2 Andalucía», nombre de la segunda cadena en 2004. Términos extranjeros: *spot*
+(Ley 18/2007); Carta del Servicio Público de la RTVA 2024-2029 (la Carta); Contrato-programa
+2024-2026 (el Contrato-programa); Universidad Miguel Hernández de Elche (UMH). El *Libro de
+Estilo de Canal Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo, y habla de «Canal 2 Andalucía», nombre de la segunda cadena en 2004. Términos extranjeros: *spot*
 (anuncio), *teaser* y *sneak peek* (avances), *copy strategy* (eje de comunicación), *target* (público
 objetivo), *stripping* y *stunting* (técnicas de programación, explicadas en el epígrafe 1),
 *bumper* (pieza muy corta de entrada y salida de publicidad), *pathfinder* (menú entre programas),
-*claim* (frase de cierre de una campaña) y OTT (del inglés *over the top*, plataforma de vídeo por
-internet, como la llama el Contrato-programa).
+y *claim* (frase de cierre de una campaña).
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.15, punto 16): «Promoción y
 > creatividad visual al servicio de la programación pública.»
@@ -121,7 +117,8 @@ Otros dos puestos intervienen en la promoción:
 
 Aplicación: en el convenio, la idea de la campaña es tarea de Guionista, la realización de la
 promoción de un programa es de Ayudante de Realización, y la imagen gráfica con fines promocionales
-es de Grafista. Las fichas son de 2014; si la organización actual del trabajo de promociones en
+es de Grafista. Las fichas terminan igual: **«La presente definición no constituye una lista cerrada
+de funciones»**, así que el reparto no es exclusivo. Las fichas son de 2014; si la organización actual del trabajo de promociones en
 CSRTV es otra, no consta en documento publicado.
 
 ### Qué es una autopromoción
@@ -141,13 +138,15 @@ los programas y servicios de otras entidades del mismo grupo empresarial audiovi
 ### Las dos funciones de la autopromoción: continuidad y comunicación publicitaria
 
 Javier Pérez Sánchez (Universidad Europea de Madrid) estudia la autopromoción desde dos puntos de
-vista, y concluye que la pieza cumple los dos a la vez. Su definición de partida: **«Las
+vista, y concluye que la pieza cumple los dos a la vez. Su frase de partida: **«Las
 autopromociones son en la actualidad piezas de suma importancia en todos los canales de televisión
-existentes en España.»** El estudio es de 2012 y se apoya en entrevistas al director del
-departamento de promociones de Antena 3 y en bibliografía.
+existentes en España.»** El estudio es de 2012 y se apoya en bibliografía y en entrevistas a
+expertos; la que cita en nota es al director del Departamento de Promociones de Antena 3 (10 de mayo
+de 2012).
 
 La primera función es de continuidad. Pérez Sánchez distingue la continuidad de la **«imagen de
-cadena (packing o embalaje, en inglés, habillage o indumentaria, en francés)»**, que **«tiene la
+cadena (packing o embalaje, en inglés, habillage o indumentaria, en francés)»**, que **«normalmente se
+incluye en ella»** y que, entendida así, **«tiene la
 misión específica de dar identidad al canal»**: **«No se trata solo de dotarlo de una apariencia o
 una indumentaria atractiva, sino de un alma, un estilo que refleje su personalidad.»** Enumera sus
 elementos: **«La carta de ajuste, la presencia y animación de logos, las reglas gráficas para la
@@ -220,7 +219,7 @@ Esa pieza se diseña como plantilla que continuidad rellena con el título y la 
 plantillas son el tema 9).
 
 Todas esas técnicas proceden de la competencia entre cadenas. El estudio de 2005 sobre TVE-1
-(epígrafe 3) concluye que la televisión pública puede **«hibridar la exigencia del ente público de
+(epígrafe 3) concluye, sobre esa cadena, que tiene la capacidad de **«hibridar la exigencia del ente público de
 mantenerse «fuera» de la competitividad existente entre las televisiones privadas, pero a la vez,
 ser capaz de competir con éstas en calidad de autopromociones»**.
 
@@ -345,8 +344,8 @@ misma sección de la LGCA:
 
 Aplicación: la pieza que anuncia una película en cuya financiación anticipada ha participado la
 cadena lleva, por ley, las palabras «cultura europea» en pantalla y una separación gráfica y
-acústica de los bloques publicitarios; es el único caso de este tema en que la ley dicta un texto que
-el grafista tiene que poner. Una campaña propia de la cadena sobre un bien público (la igualdad, la
+acústica de los bloques publicitarios; con la indicación «publicidad» del art. 136.1, es uno de los
+dos casos de este tema en que la ley dicta el texto que el grafista tiene que poner. Una campaña propia de la cadena sobre un bien público (la igualdad, la
 alfabetización mediática) difundida gratis encaja en la definición del art. 134 (lectura del tema:
 la ley no nombra las campañas de la Carta).
 
@@ -429,8 +428,8 @@ emergentes creativos artísticos andaluces.»**
 Y el Libro de Estilo, en su introducción (p. 9), se presenta como compatible con la creatividad: sus
 normas **«no son un dogal que dificulte el trabajo de los informadores ni una amenaza para la
 creatividad, el talento o la personalidad de los profesionales, pero en modo alguno pueden
-incumplirse o tomarse a la ligera.»** Su propósito, **«lograr que nuestras noticias tengan sello
-propio»**.
+incumplirse o tomarse a la ligera.»** Su propósito, dice, **«es eliminar errores y unificar criterios para lograr que nuestras
+noticias tengan sello propio»**.
 
 Aplicación: «la atracción en sus presentaciones» es, en buena parte, trabajo gráfico —cabeceras,
 paquete del programa, promociones—; y el sello de calidad del art. 10 incluye expresamente la
@@ -488,8 +487,10 @@ tema 2.
 
 ### Del problema a la resolución creativa
 
-El estudio de *Comunicar* analiza cada campaña con un esquema de concepción publicitaria de cuatro
-pasos, que sirve para ordenar el trabajo creativo de una promoción:
+El estudio de *Comunicar* analiza cada campaña con un **«esquema profesional propio de concepción y
+desarrollo publicitario»** (lo toma de Soler, 1993) en cuatro pasos, que sirve para ordenar el trabajo
+creativo de una promoción. El modelo, advierten en nota, **«también comprende la acotación del público
+objetivo»**, que no desarrollan porque TVE-1 se dirige a toda la ciudadanía:
 
 | Paso | Qué es, según el estudio |
 |---|---|
@@ -499,7 +500,7 @@ pasos, que sirve para ordenar el trabajo creativo de una promoción:
 | Resolución creativa | **«Detalles estéticos y de impacto visual que enriquecen el desarrollo del eje de comunicación y que cierran y finalizan el mensaje.»** |
 
 La resolución creativa es el terreno del grafista; el eje, de quien idea la campaña (en el convenio,
-Guionista, epígrafe 1). Un ejemplo del estudio muestra que la eficacia no depende del presupuesto: la
+Guionista, epígrafe 1). Un ejemplo del estudio pone la eficacia en el casting, no en el coste: la
 campaña de «Programación infantil» de TVE-1 era **«probablemente, la de menor coste de producción (el
 decorado: una habitación, una silla y personas que sucesivamente salen hablando, montaje básico,
 sencillez de planos, ausencia de efectos)»**, y lo costoso fue **«la selección minuciosa del
@@ -540,8 +541,9 @@ comunicación»**. Los públicos de las campañas específicas:
 
 - Art. 12.2: **«Se dedicarán campañas específicas dirigidas a las personas menores de edad y para la
   población juvenil con carácter pedagógico»**, para un consumo responsable, para **«fomentar el
-  pensamiento crítico que distinga los contenidos e informaciones veraces»** y para eliminar la
-  **«brecha participativa»**.
+  pensamiento crítico que distinga los contenidos e informaciones veraces»**,
+  para **«disolver desigualdades de acceso de las personas de núcleos rurales»** y para acercar a la
+  juventud la oferta de los medios tradicionales eliminando la **«brecha participativa»**.
 - Art. 12.3: **«Igualmente, se realizarán campañas específicas para personas mayores y de zonas
   rurales de Andalucía, y para personas de ámbitos socioculturales potenciales perjudicados en riesgo
   de exclusión social, y para evitar la brecha digital»**.
@@ -590,8 +592,9 @@ paquete gráfico de evento (los eventos especiales son el tema 3).
 
 Carta, art. 14.1: la promoción y el acceso a la cultura son **«otro elemento central y constitutivo de
 la función de servicio público audiovisual»**, y **«todos los medios de Canal Sur actuarán como
-palanca de desarrollo cultural de Andalucía»**. El Contrato-programa (punto 42, letra g) incluye, para
-la marca «Cine andaluz», **«campañas de promoción de festivales de cine y eventos del sector
+palanca de desarrollo cultural de Andalucía»**. El Contrato-programa (punto 42, letra g) pone
+entre los ejes de la unidad que gestiona las relaciones con el sector audiovisual la promoción de la
+marca «Cine andaluz», generando para ello, entre otras cosas, **«campañas de promoción de festivales de cine y eventos del sector
 audiovisual celebrados en Andalucía»**.
 
 El Libro de Estilo pone el contrapeso, 7.3.4 «Consumo» (pp. 103-104): **«a veces somos rehenes
@@ -624,8 +627,8 @@ uso tiene límites de derechos, tema 11).
 ### Campaña de alfabetización mediática
 
 1. Encuadre: es campaña propia (Carta, art. 12; Contrato-programa, punto 31), difundida gratis con
-   objetivo de interés general: encaja en el anuncio de servicio público (LGCA, art. 134) y no
-   computa en el límite de minutos (art. 137.2.f).
+   objetivo de interés general: puede encajar, por lectura del tema (la ley no nombra las campañas de la Carta), en el anuncio de servicio
+   público (LGCA, art. 134) y, si encaja, no computa en el límite de minutos (art. 137.2.f).
 2. Público: una versión para jóvenes y otra para mayores de zonas rurales (art. 12.2 y 12.3), con
    soporte, ritmo y tamaño de texto distintos (oficio).
 3. Límites: sin estereotipos (Carta, art. 9.1), sin imágenes de personas sin derecho y accesible

@@ -6,8 +6,8 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 5 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ninguna norma regula cómo se anima o se compone una imagen. Norma de enseñanza que describe el oficio: Real Decreto 1583/2011, de 4 de noviembre, título de Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos (módulos 1085, 1087, 1088 y 0907), y Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulo 0907). Documentación de fabricante: Blender Foundation (*Blender 5.2 LTS Manual*), Blackmagic Design (*DaVinci Resolve 21 Reference Manual*) y Apple (*Apple ProRes*, white paper). Lo propio de la casa: *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Lo demás, oficio declarado como tal |
-| Redacción que se estudia | RD 1583/2011 en su redacción vigente a 24-09-2026 (modificado por el RD 500/2024, de 21 de mayo, que no toca los módulos que se citan; corrección de errores de 12-III-2012, que no los toca tampoco); manual de Blender 5.2 LTS y manual de Resolve 21 (julio de 2026) en la versión publicada el día en que se leyeron; white paper de ProRes de abril de 2022; Libro de estilo, 1.ª ed., marzo de 2004 |
+| Fuente | Ninguna norma regula cómo se anima o se compone una imagen. Norma de enseñanza que describe el oficio: Real Decreto 1583/2011, de 4 de noviembre, título de Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos (módulos 1085, 1086, 1087, 1088 y 0907), y Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulo 0907). Documentación de fabricante: Blender Foundation (*Blender 5.2 LTS Manual*), Blackmagic Design (*DaVinci Resolve 21 Reference Manual*) Apple (*Apple ProRes*, white paper) y Adobe (ayuda de Photoshop en español, para los nombres de los modos de fusión). Especificación técnica: W3C, *Portable Network Graphics (PNG) Specification (Third Edition)*. Lo propio de la casa: *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004). Lo demás, oficio declarado como tal |
+| Redacción que se estudia | RD 1583/2011 en su redacción vigente a 24-09-2026 (modificado por el RD 500/2024, de 21 de mayo, que no toca los módulos que se citan; corrección de errores de 12-III-2012, que no los toca tampoco); manual de Blender 5.2 LTS y manual de Resolve 21 (julio de 2026) en la versión publicada el día en que se leyeron; white paper de ProRes de abril de 2022; especificación del PNG, 3.ª ed., recomendación del W3C de 24-VI-2025; Libro de estilo, 1.ª ed., marzo de 2004 |
 | Extensión | 10.000 palabras aproximadamente |
 
 <!-- /portada -->
@@ -15,13 +15,12 @@
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV); *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (Libro de estilo
 o LE); real decreto (RD); resultado de aprendizaje de un módulo de formación profesional (RA), que se
-mide por criterios de evaluación identificados con letras; créditos del sistema europeo de
-transferencia de créditos (ECTS, *European Credit Transfer System*); dos y tres dimensiones (2D y 3D;
+mide por criterios de evaluación identificados con letras; dos y tres dimensiones (2D y 3D;
 «2 ½D», como la escribe Blackmagic, es el seguimiento plano con perspectiva); cinemática directa (FK,
 *forward kinematics*) e inversa (IK, *inverse kinematics*); los ejes con que se nombra un mapa de
 texturas (UV); los tres primarios rojo, verde y azul (RGB) y los tres más el alfa (RGBA); efectos
 visuales (VFX, *visual effects*); imágenes generadas por ordenador (CGI, *computer-generated
-imagery*, como la escribe Blackmagic); fotogramas por segundo (fps); inteligencia artificial (IA). Los
+imagery*, como la escribe Blackmagic); inteligencia artificial (IA); World Wide Web Consortium (W3C), que publica la especificación del PNG. Los
 formatos de fichero se nombran por su extensión: PNG (*portable network graphics*), TGA (*Truevision
 Advanced Raster Graphics Adapter*), TIF o TIFF (*tagged image file format*), BMP (*bitmap*), JPG o JPEG
 (*Joint Photographic Experts Group*), EXR (el formato OpenEXR) y MOV (el contenedor QuickTime de Apple);
@@ -36,12 +35,14 @@ Qué se puede preguntar: qué es animar y qué es un fotograma clave; qué es la
 hay (constante, lineal, Bézier, suavizados); qué son la curva de animación y el suavizado de entrada y
 de salida; qué distingue *stop motion*, pixilación, rotoscopia y animatrónica; las fases de la
 animación 2D (animática, layout, animación clave, intercalación, pintura y composición) y de la 3D
-(diseño y modelado, *setup*, texturización, iluminación, animación y renderizado); qué son una malla, un
+(diseño y modelado, *setup*, texturización, iluminación, animación y renderizado); qué métodos de
+modelado hay (nurbs, polígonos, superficies de subdivisión); qué son una malla, un
 mapa UV, un *rig*, la cinemática directa y la inversa; qué es renderizar y qué es el trazado de rayos;
 qué son las partículas, los sólidos rígidos y los blandos; qué es el motion graphics y en qué formato se
 entrega una pieza con transparencia; qué es una capa, qué es precomponer; qué familias de incrustación
-hay y cuántas señales intervienen en una; qué es el canal alfa y qué valores toma; qué distingue el
-alfa directo del premultiplicado y qué ocurre si se confunden; qué es una máscara; qué es la rotoscopia
+hay y cuántas señales intervienen en una; qué es el canal alfa y qué valores toma; cuántos bits ocupa un píxel con alfa; qué distingue el
+alfa directo del premultiplicado y qué ocurre si se confunden; qué es una máscara; qué hacen los modos de fusión (multiplicar, trama, sobreexposición lineal, superponer,
+diferencia); qué es la rotoscopia
 y cómo se hace hoy; qué es el tracking y qué tipos hay (de punto, planar, de cámara); qué pasos tiene el
 seguimiento de cámara; qué es un efecto visual; qué dice el Libro de estilo de los efectos en la
 información. En la prueba práctica: animar la entrada de un rótulo, pegar un elemento a un objeto que se
@@ -78,6 +79,7 @@ mueve, recortar una figura, exportar una pieza con alfa y hacer las cuentas de f
   - [Los ficheros gráficos que llevan alfa](#los-ficheros-gráficos-que-llevan-alfa)
   - [Alfa directo y alfa premultiplicado](#alfa-directo-y-alfa-premultiplicado)
   - [La máscara](#la-máscara)
+  - [Los modos de fusión](#los-modos-de-fusión)
 - [4. Rotoscopia](#4-rotoscopia)
   - [Las dos rotoscopias](#las-dos-rotoscopias)
   - [Cómo se rotoscopia en composición](#cómo-se-rotoscopia-en-composición)
@@ -208,13 +210,14 @@ Quadratic etc, and a free form Bézier mode.»** Los tres que hay que saber dist
 
 | Tipo | Qué hace, según Blender | Para qué |
 |---|---|---|
-| Constante | **«The curve holds the value until the next keyframe, producing a stair step effect with very abrupt changes.»** | Saltos: un valor que cambia de golpe. Blender añade que se usa **«Normally only used during the initial “blocking” stage in pose-to-pose animation workflows.»** (el primer encaje de poses) |
+| Constante | **«The curve holds the value until the next keyframe, producing a stair step effect with very abrupt changes.»** | Saltos: un valor que cambia de golpe. Blender añade: **«Normally only used during the initial “blocking” stage in pose-to-pose animation workflows.»** (se usa en el primer encaje de poses) |
 | Lineal | **«The curve goes from one keyframe to the next in a straight line, which prevents abrupt changes in value but not in speed.»** | Movimiento a velocidad constante, con arranque y parada secos |
 | Bézier | **«The default interpolation, which is smooth in both values and speed.»** | Movimiento suave en valor y en velocidad; se ajusta con las asas de la curva |
 
 Lo que pasa antes de la primera clave y después de la última es la extrapolación: **«Extrapolation
 specifies how the curve extends before the first, and after the last keyframe.»**, con dos opciones
-principales, constante (el valor se queda quieto) y lineal (sigue en la misma dirección).
+principales, constante (el valor se queda quieto) y lineal (sigue en la misma dirección); Blender añade
+que la curva también se puede configurar para que se repita en bucle.
 
 ### El suavizado: entrada y salida
 
@@ -228,7 +231,7 @@ formas:
 - **«Ease In Out: The value moves slowly in the beginning, speeds up towards the middle, and slows down
   again towards the end.»** (arranca despacio, acelera y frena al llegar).
 
-Y efectos dinámicos, como el rebote: **«Bounce Makes the value bounce a few times with exponential
+Y efectos dinámicos, como el rebote (*Bounce*): **«Makes the value bounce a few times with exponential
 decay, like a tennis ball that was dropped on the floor.»** (el valor rebota unas cuantas veces cada
 vez menos, como una pelota de tenis que cae al suelo).
 
@@ -278,7 +281,7 @@ conforman.»**
 
 | Fase | Qué es |
 |---|---|
-| Diseño y modelado | Construir la forma del objeto. En Blender, el objeto corriente es la malla: **«Type of object consisting of Vertices, Edges and Faces.»** (vértices, aristas y caras) |
+| Diseño y modelado | Construir la forma del objeto. En Blender, el objeto corriente es la malla: **«Type of object consisting of Vertices, Edges and Faces.»** (vértices, aristas y caras). El método de modelado se elige según el modelo (módulo 1086, RA 5.c, abajo) |
 | *Setup* (*rigging*) | Dotar al modelo de controles para animarlo: esqueleto, articulaciones, deformadores (epígrafe siguiente) |
 | Texturización | Dar al modelo su superficie: color, material, relieve. Se apoya en el mapa UV, que Blender define como **«Defines a relation between the surface of a mesh and a 2D texture.»** (la relación entre la superficie de la malla y una textura plana) |
 | Iluminación | Colocar las luces virtuales de la escena |
@@ -290,6 +293,18 @@ primer resultado es **«Genera los mapas UV de los modelos»**, que se hacen **�
 cilíndricos, esféricos, automáticos o basados en cámara, que se adecuen mejor a su morfología.»**
 (1.b); y los materiales se ajustan en su **«especularidad, refracción y reflexión»** (2.c). Distingue
 las texturas pintadas (*bitmaps*) de las calculadas: **«texturas procedurales 2D y 3D»** (RA 3).
+
+El modelado lo trata el módulo 1086 «Diseño, dibujo y modelado para animación», cuyo RA 5 es
+**«Modela en 3D personajes, escenarios, atrezo y ropa, analizando las características del empleo de
+diferentes tipos de software.»** Sus criterios nombran los tres métodos: **«Se ha elegido el método de
+modelado (nurbs, polígonos, subdivision surfaces) atendiendo a las características del modelo que hay
+que realizar.»** (5.c). El glosario de Blender define los dos que no son la malla de polígonos: NURBS
+(*non-uniform rational basis spline*, como lo desarrolla Blender), **«A computer graphics technique for
+generating and representing curves and surfaces.»** (curvas y superficies definidas matemáticamente), y
+la superficie de subdivisión, **«A method of creating smooth higher poly surfaces which can take a low
+polygon mesh as input.»** (parte de una malla de pocos polígonos y la convierte en una superficie suave
+de más polígonos). Antes de modelar se fijan **«los tamaños finales, los métodos de modelado, la escala
+final y las características de movimiento de cada objeto»** (5.a).
 
 ### El *rig*: esqueleto y cinemática
 
@@ -334,7 +349,7 @@ intersects an object in the world. More accurate than Scanline, but much slower.
 de cada rayo de luz y calcula reflexión, refracción o absorción cada vez que toca un objeto; más
 exacto que el método por líneas de barrido, pero mucho más lento).
 
-El render de una pieza 3D no se hace de una vez, sino por capas. El módulo 1085 «Proyectos de
+En la norma de enseñanza, el render de una pieza 3D se organiza por capas. El módulo 1085 «Proyectos de
 animación audiovisual 2D y 3D» tiene dos resultados sobre ello: **«Realiza la separación de capas y
 organiza los efectos de render»** (RA 3) y **«Realiza el render final por capas»** (RA 4). Pide
 valorar **«la disponibilidad, capacidad y velocidad de las estaciones de trabajo y granja de render»**
@@ -357,7 +372,7 @@ En animación también hay cámara, y se anima como un objeto más. El RA 6 del 
 **«Se han marcado las trayectorias de los movimientos de cámara temporizando los mismos (arranques,
 frenadas, aceleraciones y deceleraciones) mediante la colocación de fotogramas clave (key frames)»**
 (6.d). Los arranques y frenadas son, otra vez, el suavizado de las curvas; las focales y la
-profundidad de campo virtuales se eligen como en una cámara real (6.a y 6.f).
+profundidad de campo virtuales se eligen en cada plano (6.a, 6.b y 6.f).
 
 ## 2. Motion graphics
 
@@ -367,7 +382,7 @@ Ni la norma de enseñanza ni los manuales leídos definen *motion graphics*. El 
 documentación técnica como nombre de una tarea: Blackmagic presenta su programa diciendo que
 **«DaVinci Resolve integrates editing, compositing and motion graphics, color correction, audio
 recording and mixing, and finishing within a single, easy to learn application.»** (reúne montaje,
-composición, motion graphics, color, sonido y acabado), y Apple llama a su códec con alfa **«a
+composición, motion graphics, color, sonido y acabado), y Apple dice de ProRes 4444 que es **«a
 high-quality solution for storing and exchanging motion graphics and composites»** (para guardar e
 intercambiar motion graphics y composiciones).
 
@@ -388,8 +403,8 @@ animación y composición. Tres cosas le son propias:
   poder tocar una cosa sin tocar las demás.
 - La jerarquía. Se enlazan capas a otra que hace de padre para moverlas juntas (la «animación
   heredada» del epígrafe 1), y se agrupan en una composición anidada (precomposición, epígrafe 3).
-- La automatización. Los parámetros se pueden relacionar entre sí con expresiones, que Blackmagic
-  define como **«a special type of script that can be placed alongside the parameter it is
+- La automatización. Los parámetros se pueden relacionar entre sí con expresiones. De las más
+  sencillas, las *Simple Expressions*, Blackmagic dice que son **«a special type of script that can be placed alongside the parameter it is
   controlling. These are useful for setting simple calculations, building unidirectional parameter
   connections, or a combination of both.»** (un pequeño guion junto al parámetro, para cálculos
   sencillos o para que un parámetro siga a otro). Y las piezas repetidas se convierten en plantillas:
@@ -505,8 +520,8 @@ La distinción entre las dos incrustaciones por clave:
 | Qué la estropea | Que el sujeto vista de ese color, o que el fondo esté mal iluminado | Que el sujeto tenga el mismo brillo que el fondo |
 
 Y una regla para las preguntas de intruso: el cambio de velocidad de una capa (*time remapping*) no es
-una técnica de transparencia. Tres de los cuatro nombres —croma, luma, alfa— se refieren a QUÉ se ve y
-uno a CUÁNDO se ve.
+una técnica de transparencia. De estos cuatro nombres —croma, luma, alfa y *time remapping*—, los tres
+primeros se refieren a QUÉ se ve y el cuarto a CUÁNDO se ve.
 
 ### Las tres señales de una incrustación
 
@@ -565,14 +580,24 @@ Un archivo gráfico TGA con canal alfa tiene 32 bits:
 Los 24 bits son el mismo fichero sin alfa —tres canales de ocho—: la diferencia entre 24 y 32 es
 precisamente el canal alfa.
 
-En vídeo, el alfa lo llevan ProRes 4444 y 4444 XQ en contenedor MOV (epígrafe 2). El aviso de oficio:
+Los 32 bits del PNG de la tabla son el caso de 8 bits por canal, no el único. La especificación del
+PNG (W3C, 3.ª edición, 2025) cuenta la profundidad por muestra: **«Bit depth is a single-byte integer
+giving the number of bits per sample or per palette index (not per pixel).»** Y para el PNG con alfa en
+color (*truecolor with alpha*, tipo de color 6) admite dos profundidades, **«8, 16»**, con esta
+estructura: **«Each pixel is an R,G,B triple followed by an alpha sample.»** (cada píxel, los tres de
+color seguidos del alfa). Así, un PNG con alfa ocupa 32 bits por píxel a 8 bits por canal o 64 bits por
+píxel a 16 bits por canal:
+
+16 bits × 4 canales (rojo, verde, azul y alfa) = 64 bits
+
+En vídeo, el alfa lo llevan ProRes 4444 y 4444 XQ, normalmente en contenedor MOV (epígrafe 2). El aviso de oficio:
 un grafismo entregado en un formato sin alfa llega al control con un fondo negro pegado.
 
 ### Alfa directo y alfa premultiplicado
 
-Un fichero con alfa puede guardar el color de dos maneras, y confundirlas es el error de composición
-más corriente con los grafismos que vienen de un programa 3D. Blackmagic las define así (cap. 77,
-p. 1726):
+Un fichero con alfa puede guardar el color de dos maneras, y confundirlas estropea los bordes de la
+composición. Blackmagic tiene la premultiplicación por **«arguably one of the most confusing areas of visual effects
+compositing»** y las define así (cap. 77, p. 1726):
 
 | | Directo (*straight*, *unpremultiplied*) | Premultiplicado (*premultiplied*) |
 |---|---|---|
@@ -618,6 +643,27 @@ create a single channel image rather than a full RGBA image.»** (Blackmagic).
 El aviso de oficio: la máscara de capa es la razón por la que un fichero de grafismo se puede retocar
 meses después. Quien recorte borrando píxeles entrega un trabajo que no se puede corregir, y en una
 casa de televisión los rótulos se corrigen siempre.
+
+### Los modos de fusión
+
+El modo de fusión decide con qué cuenta se mezcla una capa con lo que tiene debajo. En el nodo Merge de
+Fusion es el *Apply Mode*: **«The Apply Mode setting determines the math used when blending or combining
+the foreground and background pixels.»** (la operación con que se mezclan los píxeles del primer plano
+y del fondo). Los que más se usan, con la definición del manual de Resolve (cap. 94, pp. 2266-2267); el
+nombre en castellano es el de la ayuda de Photoshop en español (Adobe):
+
+| Modo | Qué hace |
+|---|---|
+| *Normal* (normal) | **«The default Normal merge mode uses the foreground’s Alpha channel as a mask to determine which pixels are transparent and which are not.»** (el alfa del primer plano decide qué tapa) |
+| *Multiply* (multiplicar) | **«Multiplies the values of a color channel. This will give the appearance of darkening the image as the values are scaled from 0 to 1. White has a value of 1, so the result would be the same.»** (oscurece; el blanco no cambia nada) |
+| *Screen* (trama) | **«The resulting color is always lighter. Screening with black leaves the color unchanged, whereas screening with white will always produce white.»** (aclara; el negro no cambia nada) |
+| *Linear Dodge (Add)* (sobreexposición lineal o añadir) | **«This blending mode looks at the color information in each channel and brightens the base color to reflect the blend color by increasing the brightness. Blending with black produces no change.»** (aclara más que la trama) |
+| *Overlay* (superponer) | **«Overlay multiplies or screens the color values of the foreground image, depending on the color values of the background image.»** (multiplica o trama según el fondo; conserva sus luces y sombras) |
+| *Difference* (diferencia) | **«Merging with white inverts the color. Merging with black produces no change.»** (resta un color del otro) |
+| *Darken* / *Lighten* (oscurecer / aclarar) | Se queda, canal a canal, con el valor más oscuro o más claro de los dos |
+
+Uso de oficio: multiplicar para sombras y texturas oscuras sobre el fondo; trama y sobreexposición lineal para brillos,
+destellos y fuego grabados sobre negro, que así se integran sin recortarlos.
 
 ## 4. Rotoscopia
 
@@ -804,8 +850,9 @@ universo virtual»**:
 - Sólidos rígidos: **«Se han creado objetos dinámicos (rigid bodies) de comportamiento activo o
   pasivo, simulando movimientos y colisiones»** (4.c): objetos que caen, chocan y rebotan sin
   deformarse.
-- Cuerpos blandos: **«Se han creado las geometrías controladas por partículas (soft bodies)»** (4.d):
-  objetos que se deforman, como una tela o una gelatina.
+- Cuerpos blandos: **«Se han creado las geometrías controladas por partículas (soft bodies) necesarias
+  para cada plano, pintando las influencias y generando los tensores que definirán el movimiento.»**
+  (4.d).
 - Multitudes: **«Se han creado multitudes realizando la sustitución de las partículas por modelos
   animados.»** (4.e): cada partícula se convierte en un personaje.
 
@@ -894,11 +941,11 @@ Las cuentas son aritmética propia, con la cadencia de 25 imágenes por segundo.
 - Real Decreto 1583/2011, de 4 de noviembre, por el que se establece el Título de Técnico Superior en
   Animaciones 3D, Juegos y Entornos Interactivos y se fijan sus enseñanzas mínimas (BOE núm. 301, de
   15-XII-2011): artículo 5, letras c) y d); anexo I, módulos 1085 «Proyectos de animación audiovisual
-  2D y 3D» (RA 3, 4 y 5), 1087 «Animación de elementos 2D y 3D» (RA 1, 2, 3, 4, 6 y 7, orientaciones
+  2D y 3D» (RA 3, 4 y 5), 1086 «Diseño, dibujo y modelado para animación» (RA 5), 1087 «Animación de elementos 2D y 3D» (RA 1, 2, 3, 4, 6 y 7, orientaciones
   pedagógicas y contenidos), 1088 «Color, iluminación y acabados 2D y 3D» (RA 1, 2 y 3) y 0907
   «Realización del montaje y postproducción de audiovisuales» (RA 3 y contenidos). Modificado por el
-  Real Decreto 500/2024, de 21 de mayo, en módulos no técnicos; su anexo de convalidaciones lo derogó
-  el Real Decreto 1085/2020, de 9 de diciembre; corrección de errores en el BOE núm. 61, de
+  Real Decreto 500/2024, de 21 de mayo, en módulos no técnicos; el anexo de convalidaciones del RD
+  1583/2011 lo derogó el Real Decreto 1085/2020, de 9 de diciembre; corrección de errores en el BOE núm. 61, de
   12-III-2012, que afecta a códigos de módulo y al anexo de convalidaciones.
 - Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos
   audiovisuales y espectáculos: el mismo módulo 0907.
@@ -911,8 +958,9 @@ de Blender, Resolve y ProRes son documentación de fabricante.
 
 - Una definición normativa de motion graphics, de efectos visuales o de efectos especiales: no se ha
   encontrado en norma ni en manual leído; el tema los define como oficio.
-- Los principios clásicos de la animación (los llamados doce principios de la animación de Disney): no
-  se han leído en su fuente y no se dan.
+- Los principios clásicos de la animación (los llamados doce principios de la animación de Disney): ni
+  la norma de enseñanza ni los manuales leídos los recogen, no se han leído en una fuente citable y no se
+  dan.
 - Los rótulos exactos de las órdenes de Adobe After Effects (tipos de capa, asistente de fotogramas
   clave, recorte de trazado, complementos como Mocha): la documentación de Adobe no se ha podido leer, y
   el tema no los da. Tampoco Cinema 4D, Maya, Houdini ni Nuke.
@@ -934,13 +982,18 @@ de Blender, Resolve y ProRes son documentación de fabricante.
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
 | RD 1583/2011 (BOE-A-2011-19532), texto del diario y ficha de análisis del BOE | Fases 2D y 3D, carta de animación, intercalación, rigging FK/IK, efectos 3D, cámara virtual, rotoscopia y captura de movimiento, render por capas, mapas UV y materiales, composición multicapa, keys, seguimiento, integración | 29-09-2026 |
+| RD 1583/2011, módulo 1086, RA 5 (5.a y 5.c) | Métodos de modelado | 29-09-2026 |
 | RD 500/2024 (BOE-A-2024-10685), art. 7 | Que la modificación del anexo I no toca los módulos técnicos citados | 29-09-2026 (lectura de la fase de investigación) |
 | RD 1085/2020 (BOE-A-2020-17274), disposición derogatoria única, apartado 2 | Que lo derogado del RD 1583/2011 es el anexo de convalidaciones | 29-09-2026 |
 | Corrección de errores del RD 1583/2011 (BOE-A-2012-3441) | Que sólo corrige el código del módulo de formación en centros de trabajo y el anexo IV | 29-09-2026 |
 | RD 1680/2011, módulo 0907, RA 3.b y 3.c | Composición multicapa y tipos de key (mismo texto que el módulo 0907 del RD 1583/2011) | Texto tomado del tema cerrado del puesto de Realizador/a; cotejado con el RD 1583/2011 el 29-09-2026 |
 | Blender Foundation, *Blender 5.2 LTS Manual* (docs.blender.org/manual/en/latest/): Glossary; Animation › Introduction; Keyframes › Introduction; Graph Editor › F-Curves › Properties; Movie Clip › Tracking › Introduction; Masking › Introduction | Animación, fotograma clave, interpolación, curvas, suavizado, rigging, FK/IK, malla, UV, render, trazado de rayos, desenfoque de movimiento, máscara, alfa directo y premultiplicado, tracking, estabilización, rotoscopia con máscaras | 29-09-2026 |
-| Blackmagic Design, *DaVinci Resolve 21 Reference Manual* (julio de 2026): caps. 73 (expresiones), 56 (plantillas Fusion), 77 (pp. 1726-1728, canales y premultiplicación), 79 (máscaras), 81 (Tracker), 85 (seguimiento de cámara), 139 (Magic Mask); introducción | Motion graphics como tarea, expresiones y plantillas, alfa y sus reglas, máscaras y rotoscopia, tipos de tracker, seguimiento de cámara, rotoscopia asistida por IA | 29-09-2026 |
+| Blackmagic Design, *DaVinci Resolve 21 Reference Manual* (julio de 2026): caps. 73 (expresiones simples), 56 (plantillas Fusion), 77 (pp. 1726-1728, canales y premultiplicación), 79 (máscaras), 81 (Tracker), 85 (seguimiento de cámara), 139 (Magic Mask); introducción | Motion graphics como tarea, expresiones y plantillas, alfa y sus reglas, máscaras y rotoscopia, tipos de tracker, seguimiento de cámara, rotoscopia asistida por IA | 29-09-2026 |
 | Blackmagic Design, *DaVinci Resolve 21 Reference Manual*, cap. 55, p. 1199 | Suavizado de transiciones (*Ease*) | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
+| Blackmagic Design, *DaVinci Resolve 21 Reference Manual*, cap. 94 (Composite Nodes, nodo Merge, *Apply Mode*), pp. 2266-2267 | Modos de fusión | 29-09-2026 |
+| Blender Foundation, *Blender 5.2 LTS Manual*, Glossary: «NURBS» y «Subdivision Surface» | Definición de los métodos de modelado | 29-09-2026 |
+| Adobe, «Descripciones de modos de fusionar en Photoshop» (ayuda en español, actualizada el 2-XII-2025) | Nombres en castellano de los modos de fusión | 29-09-2026 |
+| W3C, *Portable Network Graphics (PNG) Specification (Third Edition)*, recomendación de 24-VI-2025, 11.2.1 IHDR, tabla 12 | Profundidad por muestra; PNG con alfa a 8 o 16 bits por canal | 29-09-2026 |
 | Apple, *Apple ProRes* (white paper, abril de 2022) | ProRes 4444 y 4444 XQ, únicos ProRes con alfa; alfa sin pérdidas hasta 16 bits | 29-09-2026 |
 | *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.3 | Abuso de postproducciones y alardes técnicos | 29-09-2026 |
 | Libro de estilo: 3.2.2, 9.9, 9.9.1 y 9.9.2 | Ocultar rostros, no acentuar, rótulos «reconstrucción» y «Archivo» | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
@@ -954,9 +1007,9 @@ motion graphics y su uso en televisión; el ritmo y el sonido de una pieza; las 
 una composición (capas y nodos); la definición de capa y de precomposición; las familias de
 incrustación, el porqué del fondo verde, las consecuencias del croma y el cuadro de color frente a
 luminancia; las tres señales de una incrustación; el funcionamiento del canal alfa, el cuadro de
-formatos con alfa y la cuenta del TGA; el oscurecimiento de bordes del error inverso de premultiplicado;
+formatos con alfa y las cuentas del TGA y del PNG; el oscurecimiento de bordes del error inverso de premultiplicado;
 el funcionamiento y el aviso de la máscara; las reglas de rotoscopia; el cuadro de los cuatro grados de
 seguimiento y el aviso sobre su fallo; la preparación de la grabación; la estabilización con recorte; la
-distinción entre efectos especiales y visuales; los usos de las partículas; las cinco condiciones de la
+distinción entre efectos especiales y visuales; los usos de las partículas; el uso de los modos de fusión; las cinco condiciones de la
 integración; el trabajo del tramado con seguimiento; y la aplicación práctica. Las cuentas son
 aritmética propia.

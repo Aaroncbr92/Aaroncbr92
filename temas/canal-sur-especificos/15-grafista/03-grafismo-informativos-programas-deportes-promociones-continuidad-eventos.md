@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Grafista · punto 3 |
 | Sirve para | Grafista de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 127, 128, 136, 137, 139 y 144); Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (art. 69). Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) y Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023). Norma técnica: Recomendación EBU R 95 v1.1 (zonas seguras). Estudio universitario: Torres-Martín, Castro-Martínez y Díaz-Morilla, *Fonseca, Journal of Communication*, núm. 25, 2022 (grafismo deportivo). Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (Editorial UMH, 2024). Documentación de fabricante: Vizrt (*Viz Pilot Edge User Guide* 3.5) y manual en español de los mezcladores Blackmagic Design ATEM. Norma de enseñanza: Real Decreto 1680/2011 y cualificación IMS077_3 del INCUAL. Lo demás, oficio declarado como tal |
+| Fuente | Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 97, 98, 99, 127, 128, 136, 137, 139 y 144); Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (art. 69). Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004), Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-XII-2023) y Contrato-programa 2024-2026 (BOJA núm. 245, de 26-XII-2023). Norma técnica: Recomendación EBU R 95 v1.1 (zonas seguras). Estudio universitario: Torres-Martín, Castro-Martínez y Díaz-Morilla, *Fonseca, Journal of Communication*, núm. 25, 2022 (grafismo deportivo). Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (Editorial UMH, 2024). Documentación de fabricante: Vizrt (*Viz Pilot Edge User Guide* 3.5) y manual en español de los mezcladores Blackmagic Design ATEM. Norma de enseñanza: Real Decreto 1680/2011 y cualificación IMS077_3 del INCUAL. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Ley 13/2022 en su redacción original (los artículos citados no se han modificado); LOREG, art. 69 en la redacción vigente desde el 2 de febrero de 2024; Libro de Estilo, 1.ª ed., marzo de 2004; Carta y Contrato-programa tal como se publicaron en el BOJA en diciembre de 2023; EBU R 95 v1.1, junio de 2017; documentación de fabricante en la versión leída (fechas en «Trazabilidad») |
-| Extensión | 8.800 palabras aproximadamente |
+| Extensión | 10.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -16,23 +16,22 @@ Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RT
 Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Canal Sur
 Televisión (CSTV, como lo escribe el Libro de Estilo); Ley 13/2022, de 7 de julio, General de
 Comunicación Audiovisual (LGCA); Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General
-(LOREG); Junta Electoral Central (JEC); real decreto (RD); Unión Europea de Radiodifusión (EBU, del
+(LOREG); real decreto (RD); Unión Europea de Radiodifusión (EBU, del
 inglés *European Broadcasting Union*); Instituto Nacional de las Cualificaciones (INCUAL);
-Universidad Miguel Hernández de Elche (UMH). En las citas del RD 1680/2011, cada resultado de
-aprendizaje (RA) del módulo va con la letra de su criterio de evaluación; en las de la cualificación
-IMS077_3, la unidad de competencia (UC), la realización profesional (RP) y el criterio de realización
+Universidad Miguel Hernández de Elche (UMH). En las citas de la cualificación
+IMS077_3 van la unidad de competencia (UC), la realización profesional (RP) y el criterio de realización
 (CR). El *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* se cita como Libro de Estilo o
 LE; dentro de sus citas aparecen el índice de precios de consumo (IPC) y la organización no
 gubernamental (ONG).
 
-Términos técnicos, presentados de entrada: la composición posterior del mezclador (DSK, del inglés
-*downstream keyer*); la realidad aumentada y la realidad virtual; el diodo emisor de luz (LED, del
-inglés *light-emitting diode*); el videowall (pantalla de plató formada por muchos paneles, que el
+Términos técnicos, presentados de entrada: la composición posterior del mezclador (la capa que se
+superpone a todo lo demás); la realidad aumentada y la realidad virtual; el videowall (pantalla de plató formada por muchos paneles, que el
 Libro de Estilo escribe «‘vidi wall’»); la mosca (logotipo del canal fijo en una esquina); el
 *bumper* (pieza muy corta de entrada y salida de publicidad) y el *pathfinder* (menú entre
 programas); el *spot* (anuncio), el tráiler y sus derivas, el *teaser* y el *sneak peek* (avances).
 Viz Artist, Viz Pilot y Template Builder son productos de Vizrt; Epsio, un sistema de grafismo
-deportivo; Mediacoach, la herramienta de datos de la liga profesional de fútbol española (LaLiga).
+deportivo; Mediacoach, el sistema y el departamento de análisis de datos de juego de la liga
+profesional de fútbol española (LaLiga).
 Se citan como ejemplos: qué sistemas usa CSRTV no consta en documento publicado.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.15, punto 3): «Grafismo para
@@ -49,7 +48,8 @@ grafismo deportivo, qué datos maneja y quién decide qué dato se grafía; qué
 no computan como publicidad y qué logotipo debe verse siempre en un resumen de un acontecimiento en
 exclusiva; qué es una autopromoción y qué la convierte en anuncio; qué es la continuidad de un canal,
 qué vigila y qué piezas tiene (cabecera, ráfaga, cortinilla, mosca, faldón, *bumper*, *pathfinder*,
-promoción, cartón); qué eventos especiales encarga la Carta y el Contrato-programa; y qué exige la ley
+promoción, cartón); qué exige la ley al indicativo de calificación por edades y a qué horas puede
+emitirse un programa no recomendado para menores de dieciocho años; qué eventos especiales encarga la Carta y el Contrato-programa; y qué exige la ley
 electoral a un gráfico de sondeo. En la prueba práctica: preparar el grafismo de un informativo, de una
 noche electoral o de una retransmisión deportiva, y revisar una promoción.
 
@@ -89,6 +89,7 @@ noche electoral o de una retransmisión deportiva, y revisar una promoción.
   - [Qué es la continuidad](#qué-es-la-continuidad)
   - [Qué vigila la continuidad](#qué-vigila-la-continuidad)
   - [Las piezas de continuidad](#las-piezas-de-continuidad)
+  - [Lo que la ley exige a la continuidad: la calificación por edades](#lo-que-la-ley-exige-a-la-continuidad-la-calificación-por-edades)
   - [Coherencia visual: lo que exige la casa](#coherencia-visual-lo-que-exige-la-casa)
 - [6. Grafismo para eventos especiales](#6-grafismo-para-eventos-especiales)
   - [Qué eventos especiales encarga la casa](#qué-eventos-especiales-encarga-la-casa)
@@ -455,11 +456,11 @@ debe adecuarse a ella»** (8.4, p. 119), y **«Cualquier cosa antes que contarle
 por sí mismo.»** (8.4.1, p. 119). Llevada al grafismo (oficio): el gráfico deportivo da lo que la
 imagen no da —el tiempo, el resultado, la clasificación, el dato— y no repite lo que se ve.
 
-El estudio añade, de otros autores, dos funciones más. Una pedagógica (Marín, 2011): los grafismos
+El estudio añade, de otros autores, una función más, la pedagógica (Marín, 2011): los grafismos
 tienen **«una vertiente pedagógica, «especialmente cuando se aplican técnicas de Realidad Virtual»»**, y
 la infografía se ha convertido en muchos deportes en **«un elemento decisivo para aclarar acciones
-controvertidas no captadas por la imagen real»**. Y otra de espectáculo (Blanco, 2001, sobre el
-baloncesto): **«La aparición del resultado, del tiempo de partido, del de posesión, el nombre o
+controvertidas no captadas por la imagen real»**. Y desarrolla la del espectáculo a partir de
+Blanco (2001, sobre el baloncesto): **«La aparición del resultado, del tiempo de partido, del de posesión, el nombre o
 estadística individual y la estadística global favorecen esta espectacularización»**. Un ejemplo de
 herramienta: Epsio, que **«permite trazar una línea durante la retransmisión para marcar el fuera de
 juego»** (Roger, 2015, citado en el estudio).
@@ -486,7 +487,8 @@ base de datos introducida con anterioridad al inicio de la realización, para qu
 puedan recrear gráficamente en pantalla gracias a equipos informáticos.»**
 
 En el caso estudiado, la liga profesional de fútbol, el reparto tiene cuatro pasos (gráfico 1 del
-estudio, elaboración de los autores): la herramienta de datos (Mediacoach) **«Lidera la estrategia:
+estudio, elaboración de los autores), entre cuatro departamentos: el de Mediacoach (el sistema de
+análisis de datos de juego de la liga, con director y equipo propios) **«Lidera la estrategia:
 selecciona datos y necesidades narrativas»**; el área audiovisual **«Coordina, supervisa y analiza las
 retransmisiones»**; grafismo **«Valora la viabilidad de la representación de datos y su ejecución»**; y
 realización **«Confecciona discurso gráfico-narrativo durante la retransmisión»**. Lo que valora
@@ -495,7 +497,8 @@ mostrar un dato estadístico grafiado son muy cortos al hacerlo sobre la misma s
 (entrevista recogida en el estudio). Cita como técnicas **«Live 3D Graphics, las repeticiones
 volumétricas en 360º y el modelo avanzado de probabilidad de gol»**.
 
-Es un caso: en él, quien organiza la competición produce la señal y su grafismo. Qué grafismo propio
+Es un caso: en él, la entidad que organiza la competición tiene una productora oficial de la señal y
+un reglamento para la retransmisión televisiva que busca una imagen unificada de todos los partidos. Qué grafismo propio
 añade Canal Sur a los partidos que emite, y cuál llega ya en la señal del productor, no consta en
 documento publicado.
 
@@ -533,12 +536,15 @@ Para el grafista (oficio): el marcador, el reloj o la estadística que forman pa
 no son publicidad; si una sobreimpresión lleva una marca por la que se cobra, deja de estar en esa
 excepción; y la publicidad en pantalla compartida no puede tapar el juego.
 
-Cuando otro operador tiene la exclusiva, Canal Sur puede emitir un resumen informativo con su señal
-(art. 144), y la ley pone una condición gráfica (144.4): **«Durante la emisión del resumen informativo
+Cuando otro operador tiene la exclusiva de un acontecimiento de interés general para la sociedad, debe
+permitir a los demás prestadores la emisión de un breve resumen informativo (art. 144.1), que sólo
+puede ir en noticiarios y programas de contenido informativo de actualidad (144.2); y la ley pone una
+condición gráfica (144.4): **«Durante la emisión del resumen informativo
 previsto en el apartado primero deberá garantizarse la aparición permanente del logotipo o marca
-comercial de la entidad organizadora y del patrocinador principal de la competición.»** El resumen
-gratuito es el que se emite **«en noticiarios y programas de contenido informativo de actualidad, en
-diferido y con una duración inferior a noventa segundos»** (144.3). Aplicación: el rótulo del
+comercial de la entidad organizadora y del patrocinador principal de la competición.»** No se paga
+contraprestación cuando el resumen se emite **«en noticiarios y programas de contenido informativo de
+actualidad, en diferido y con una duración inferior a noventa segundos»**, aunque la excepción no
+incluye los gastos técnicos para elaborarlo (144.3). Aplicación: el rótulo del
 informativo no se coloca encima del logotipo del organizador ni del patrocinador principal; tiene que
 verse todo el resumen (oficio).
 
@@ -651,7 +657,7 @@ Lo que sale de continuidad:
 - Las autopromociones.
 - La publicidad, en sus bloques.
 - El enlace entre programas: la entrada y la salida de cada uno.
-- Los avisos: la señalización de contenido, los rótulos de servicio.
+- Los avisos: la señalización de contenido (la calificación por edades, abajo), los rótulos de servicio.
 
 El área destinada a incrustar o emitir las imágenes que constituyen la identidad corporativa de la
 cadena es el área de continuidad.
@@ -723,6 +729,40 @@ balón de fútbol que da paso a una nueva imagen.»** Y explica por qué la mosc
 **«Una composición posterior siempre se superpone a los restantes elementos, incluida la transición.
 Por tal motivo, resulta ideal para insertar logotipos y textos móviles.»**
 
+### Lo que la ley exige a la continuidad: la calificación por edades
+
+Entre los avisos de continuidad, la ley regula la calificación por edades. LGCA, art. 98.1: **«Los
+prestadores del servicio de comunicación audiovisual televisivo, lineal o a petición, están obligados a
+que los programas emitidos dispongan de una calificación por edades, visible en pantalla mediante
+indicativo visual y fácilmente comprensible para todas las personas.»** Es una obligación («están
+obligados»), no una opción, y tiene dos condiciones que tocan al diseño: que el indicativo sea
+visible en pantalla y que lo entienda cualquiera.
+
+La ley no dibuja el indicativo. Remite a un acuerdo de corregulación que firmará la Comisión Nacional de
+los Mercados y la Competencia con los prestadores, entre otros, **«con el fin de coadyuvar al
+cumplimiento de las obligaciones establecidas en este artículo»** (98.2); y las autoridades
+audiovisuales autonómicas **«podrán formalizar acuerdos de corregulación con los prestadores del
+servicio de comunicación audiovisual autonómico»** con el mismo fin (98.7). Los descriptores del
+contenido siguen el mismo camino: **«los prestadores utilizarán un sistema de descriptores adoptado
+mediante acuerdo de corregulación»** (art. 97), y se cumplimentan **«de forma que las Guías
+Electrónicas de Programas, previstas en la normativa de telecomunicaciones, y/o los equipos receptores
+muestren la información relativa al contenido de los programas»** (98.4).
+
+El art. 99.1 añade el aviso de contenido perjudicial: todos los prestadores televisivos, lineales y a
+petición, **«facilitarán a los usuarios información suficiente e inequívoca acerca de la naturaleza
+potencialmente perjudicial para el desarrollo físico, mental o moral de los menores de los programas
+y contenidos audiovisuales mediante la utilización de un sistema de descripción del contenido,
+advertencia acústica, símbolo visual o cualquier otro medio técnico que describa la naturaleza del
+contenido, de acuerdo con el acuerdo de corregulación previsto en el artículo 98.2.»** Y en la
+televisión lineal en abierto, **«Los programas cuya calificación por edad «No recomendada para menores
+de dieciocho años» solo podrán emitirse entre las 22:00 y las 6:00 horas.»** (99.2.c).
+
+Para el grafista (oficio): el indicativo de edad es una pieza del paquete de continuidad, una
+sobreimpresión o un cartón que se diseña una vez y se incrusta en cada programa según su calificación,
+dentro de la zona segura de grafismo y con tamaño y contraste suficientes para que se vea y se entienda.
+Qué símbolos, colores y tiempos de permanencia usa no lo dice la ley, que remite al acuerdo de
+corregulación (98.2); el tema no lo ha leído y no los da.
+
 ### Coherencia visual: lo que exige la casa
 
 No se ha localizado publicado un manual de identidad gráfica de Canal Sur (mosca, tipografías,
@@ -760,8 +800,9 @@ redes. Se prepara con tiempo, porque la fecha se conoce, y se emite en directo d
 
 ### La noche electoral
 
-Es el evento especial con más reglas. En campaña, el Libro de Estilo recuerda que el tiempo de cada
-partido en los informativos se reparte **«en los espacios acotados gráﬁcamente como información
+Es el evento especial con más reglas. En campaña, según el Libro de Estilo, el Consejo de
+Administración de la RTVA fija las fórmulas de cobertura: cada partido tiene derecho a un tiempo
+proporcional al apoyo obtenido en las elecciones homólogas anteriores, **«en los espacios acotados gráﬁcamente como información
 electoral, a través del llamado coloquialmente ‘minutaje’»** (7.1.2, p. 97). Acotar gráficamente un
 espacio es trabajo del grafista: una cortinilla, una cabecera o un faldón que marca dónde empieza y
 dónde acaba la información electoral (oficio).
@@ -854,7 +895,7 @@ Un informativo de cadena con plató, piezas, directos, desconexiones provinciale
 
 | Norma | Preceptos | Redacción |
 |---|---|---|
-| Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (BOE núm. 163, de 8-7-2022) | Arts. 127 (autopromoción), 128 (patrocinio), 136 (identificación), 137 (límite de minutos), 139 (acontecimientos deportivos) y 144 (resumen informativo) | Redacción original, en vigor desde el 9-7-2022; ninguno de estos artículos ha sido modificado |
+| Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (BOE núm. 163, de 8-7-2022) | Arts. 97 (descriptores), 98 (calificación por edades), 99 (contenidos perjudiciales para menores), 127 (autopromoción), 128 (patrocinio), 136 (identificación), 137 (límite de minutos), 139 (acontecimientos deportivos) y 144 (resumen informativo) | Redacción original, en vigor desde el 9-7-2022; ninguno de estos artículos ha sido modificado |
 | Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (BOE-A-1985-11672) | Art. 69.1 y 69.7 (sondeos) | Art. 69 en la redacción vigente desde el 2 de febrero de 2024 |
 | Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (BOE núm. 302, de 16-XII-2011) | Módulo 0904, contenidos | Texto de 2011. Lo modifica el Real Decreto 500/2024, de 21 de mayo, que no toca el módulo citado |
 
@@ -871,8 +912,9 @@ Nacional de Cualificaciones Profesionales (INCUAL); se cita por sus unidades de 
   productor: no consta.
 - Duraciones de las promociones de Canal Sur: no constan en fuente publicada.
 - La etimología de «mosca» y de las demás piezas de continuidad: sin fuente; no se da.
-- La señalización de contenidos por edades (el aviso de continuidad): no se ha leído su norma para
-  este tema.
+- Los símbolos, colores y tiempos en pantalla del indicativo de calificación por edades y de los
+  descriptores: la LGCA no los fija y remite al acuerdo de corregulación (art. 98.2 y 98.7), que no se ha leído
+  para este tema; tampoco consta cuál aplica CSRTV.
 - Valores de las zonas seguras en todos los formatos, canal alfa, ficheros y grafismo en alto rango dinámico (HDR, del inglés *high dynamic range*): tema 8.
 - Infografía y visualización de datos (ejes, escalas, ética, fuentes): tema 4.
 - Identidad visual y manual de marca: tema 2. Diseño para televisión, web y redes: tema 1.
@@ -889,14 +931,15 @@ Nacional de Cualificaciones Profesionales (INCUAL); se cita por sus unidades de 
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.6.1, 3.16, 3.16.2, 6.4, 6.5, 7.4, 9.2.12.3, 9.9.1, 10, 11.2.6, 11.3.1.1.1, 13.1.1.3, 13.3.1, 13.8.1 y «Siglas y acrónimos» | Gráficos, rótulo, reglas de escritura en rótulos, rótulos obligatorios, marco uniforme, concepto formal del programa, coherencia de las desconexiones, *raccord* | Texto tomado del tema cerrado del puesto de Realizador/a |
 | Libro de Estilo, 3.2.2, 3.13, 3.17.1.1, 4.3, 3.7.1 y 8.2.1 | Casos en que se rotula | Texto tomado del tema cerrado del puesto de Realizador/a (que lo tomó del de Redactor/a) |
 | Libro de Estilo, 6.5.2 (p. 93) | Eficacia y espectáculo; recursos | Texto tomado del tema cerrado 3 del puesto de Realizador/a |
-| Libro de Estilo, 7.5, 7.5.1, 8.4, 8.4.2 y 9.10, 9.10.1 | Información deportiva, retransmisiones, promoción e información | Texto tomado del tema cerrado 6 del puesto de Operador/a Montador/a de Vídeo; 8.4, 8.4.1, 8.4.2 y 7.5 releídos el 29-09-2026 |
+| Libro de Estilo, 7.5, 7.5.1, 8.4, 8.4.1, 8.4.2 y 9.10, 9.10.1 | Información deportiva, retransmisiones, promoción e información | Texto tomado del tema cerrado 6 del puesto de Operador/a Montador/a de Vídeo; 8.4, 8.4.1, 8.4.2 y 7.5 releídos el 29-09-2026 |
 | Libro de Estilo, 7.1.2 y 7.1.3 (pp. 97-98) | Espacios acotados gráficamente; sondeos y ficha técnica | 29-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029, BOJA núm. 247, 2023: arts. 13.6, 13.7, 19.1 y 19.2 | Grandes acontecimientos, coberturas especiales, entretenimiento creativo | 29-09-2026 |
 | Contrato-programa 2024-2026, BOJA núm. 245, de 26-XII-2023: cláusula tercera, A, 3.1, punto 6; punto 48 | Espacios electorales y eventos especiales; páginas web para eventos extraordinarios | 29-09-2026 |
 | Ley 13/2022, General de Comunicación Audiovisual, BOE-A-2022-11311 | Arts. 127, 128, 136, 137, 139 y 144 | Texto tomado del tema cerrado 6 del puesto de Operador/a Montador/a de Vídeo (leído allí el 25-09-2026) |
+| Ley 13/2022, BOE-A-2022-11311, arts. 97, 98.1, 98.2, 98.4, 98.7, 99.1 y 99.2.c (redacción original, única, aplicable desde el 9-7-2022) | Calificación por edades, descriptores, aviso de contenido perjudicial, franja de los no recomendados para menores de dieciocho años | 29-09-2026 |
 | LOREG, BOE-A-1985-11672, art. 69 | Ficha técnica y prohibición de los cinco días | Texto tomado del tema cerrado 12 del puesto de Redactor/a |
 | Recomendación EBU R 95 v1.1 (junio de 2017) | Zonas seguras y valores de 1080p | Texto tomado del tema cerrado del puesto de Realizador/a |
-| Torres-Martín, J. L.; Castro-Martínez, A.; Díaz-Morilla, P., «La representación de datos como elemento informativo y de construcción de marca en las competiciones deportivas: las innovaciones tecnológicas en los grafismos de LaLiga Santander», *Fonseca, Journal of Communication*, núm. 25, 2022, pp. 95-113, DOI 10.14201/fjc.29755 | Funciones del grafismo deportivo, niveles de significado, datos, flujo de trabajo, técnicas; citas de Andueza y Pérez, Valero, Marín, Blanco, Roger y Perin tomadas del artículo | 29-09-2026 (fase de investigación) |
+| Torres-Martín, J. L.; Castro-Martínez, A.; Díaz-Morilla, P., «La representación de datos como elemento informativo y de construcción de marca en las competiciones deportivas: las innovaciones tecnológicas en los grafismos de LaLiga Santander», *Fonseca, Journal of Communication*, núm. 25, 2022, pp. 95-113, DOI 10.14201/fjc.29755 | Funciones del grafismo deportivo, niveles de significado, datos, flujo de trabajo, técnicas; citas de Andueza y Pérez, Valero, Marín, Blanco, Roger y Perin tomadas del artículo | 29-09-2026 (investigación; cotejado con el PDF de la revista en la verificación, 29-09-2026) |
 | Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Editorial UMH, 2024 | *Spot*, tráiler, *teaser* y *sneak peek* | Texto tomado del tema cerrado 6 del puesto de Operador/a Montador/a de Vídeo |
 | Vizrt, *Viz Pilot Edge User Guide* 3.5, «Introduction» | Plantillas: diseño, relleno y emisión | Texto tomado del tema cerrado del puesto de Realizador/a |
 | Blackmagic Design, manual en español de los mezcladores ATEM (diciembre de 2024) | Composición posterior y transición con logotipo | Texto tomado del tema cerrado del puesto de Realizador/a |
@@ -910,5 +953,5 @@ sistema de informativos y la tabla de rótulos; la aplicación de las reglas de 
 la tabla del paquete de un programa; la continuidad visual aplicada al grafismo; la tabla de elementos
 del grafismo deportivo y su aplicación; lo que pone el grafista en una promoción; los dos sentidos de
 la continuidad, lo que vigila, la tabla de piezas y su clasificación, la función de la mosca y el
-*pathfinder*; el paquete de un evento especial y las reglas del gráfico de sondeo; y la aplicación
+*pathfinder*; el indicativo de edad como pieza de continuidad; el paquete de un evento especial y las reglas del gráfico de sondeo; y la aplicación
 práctica.

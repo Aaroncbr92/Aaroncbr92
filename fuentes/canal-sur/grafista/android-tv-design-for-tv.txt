@@ -1,0 +1,195 @@
+Fuente: https://developer.android.com/design/ui/tv/guides/foundations/design-for-tv
+Descargada: 29-09-2026
+
+Design for TV
+Color on TV
+Navigation on TV
+System
+TV app icon guidelines
+Styles
+Color
+Typography
+Focus system
+Layouts
+Components
+Overview
+Buttons
+Cards
+Immersive list
+Navigation drawer
+Featured carousel
+Lists
+Tabs
+Build AI experiences
+Get started
+Get started
+Hello, world!
+Developer Verification
+Adaptive apps
+Compose for UI
+AI-powered IDE
+Training
+Monetization with Play ↗️
+Optimize by form factor
+Phones, tablets, foldables
+Android for Cars
+Android TV
+Android XR
+Googlebook
+ChromeOS
+Wear OS
+Build by category
+Games
+Camera & media
+Social & messaging
+Health & fitness
+Productivity
+Enterprise apps
+Get the latest
+Latest updates
+Experimental updates
+Android Studio preview
+Jetpack & Compose libraries
+Wear OS releases
+Privacy Sandbox ↗️
+Excellent Experiences
+Learn more
+UI Design
+Design for Android
+Mobile
+Desktop experiences
+XR Headsets & XR Glasses
+AI Glasses
+Widgets
+Wear OS
+Android TV
+Android for Cars
+Architecture
+Introduction
+Libraries
+Navigation
+Modularization
+Testing
+Kotlin Multiplatform
+Quality
+Overview
+Core value
+User experience
+Accessibility
+Technical quality
+Excellent Experiences
+Security
+Overview
+Privacy
+Permissions
+Identity
+Fraud prevention
+Gemini in Android Studio
+Learn more
+Get Android Studio
+Core areas
+Samples
+Multidevice support
+User interfaces
+Background work
+Data and files
+Connectivity
+All core areas ⤵️
+Tools and workflow
+Write and debug code
+Build projects
+Test your app
+Performance
+Command-line tools
+Gradle plugin API
+Android Bench
+Device tech
+Phones, tablets, foldables
+ChromeOS
+Android for Cars
+Android TV
+Android XR
+Wear OS
+Android Health
+Better Together
+All devices ⤵️
+Libraries
+Android platform
+Jetpack libraries
+Compose libraries
+Google Play services ↗️
+Google Play SDK index ↗️
+Play Console
+Go to Play Console
+Learn more ↗️
+Fundamentals
+Play Monetization
+Play Integrity
+Android vitals
+Play Policies
+Play Programs ↗️
+Games Dev Center
+Overview
+Play Asset Delivery
+Play Games Services
+Play Games on PC
+Level Up guidelines
+All Play guides ⤵️
+Libraries
+Play Feature Delivery
+Play In-app Updates
+Play In-app Reviews
+Play Install Referrer
+Google Play services ↗️
+Google Play SDK index ↗️
+All Play libraries ⤵️
+Tools & resources
+Android App Bundles
+Brand & marketing
+Play Console APIs ↗️
+the Android Developer's Blog
+Read the latest
+Explore the authors →
+Explore categories
+Product News
+Community
+How-tos
+Case Studies
+Events & Programs
+Documentation
+Android Developers
+Design & Plan
+UI Design
+TV
+Guides
+Design for TV
+Stay organized with collections
+Save and categorize content based on your preferences.
+TV is all about content. It's about finding and enjoying the things
+you love to watch, whether it's movies, shows, games, music, or fitness
+videos. And it's about doing it with the least amount of friction possible.
+Great TV design is all about putting content front and center. It's about
+creating an interface that's easeir to use and navigate, even from a distance.
+It's about making it easeir to find the content you love, and to enjoy it
+in the best possible quality.
+Considerations
+10ft UI
+Typically, viewers lean back and relax while watching TV and the
+average distance between a TV and its viewers is 3 meters (10 feet).
+Complex screens layouts and controls are not ideal for such leanback
+experiences. As such, it is important to make sure that text and other
+elements are large enough to be seen from a distance or limit the
+amount of text and reading on TV screens.
+D-pad navigation
+Unlike touch devices most TVs rely on d-pad (up, down, left, right, select
+buttons on the remote) to navigate the UI. TV UI must provide instant
+and distinct feedback when buttons are pressed.
+TV is a communal device
+TV is typically a shared device in the household. This means that it is
+important to consider privacy when designing apps for TV. For example,
+apps that show personal information should have privacy settings that
+allow relevant customizations.
+Next
+Color on TV
+arrow_forward
+Last updated 2023-05-08 UTC.
