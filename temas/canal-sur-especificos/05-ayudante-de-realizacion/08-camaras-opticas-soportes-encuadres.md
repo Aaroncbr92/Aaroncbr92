@@ -1,11 +1,11 @@
-# Tema 8 del específico de Ayudante de Realizacion · Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales
+# Tema 8 del específico de Ayudante de Realización · Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales
 
 <!-- portada -->
 
 |  |  |
 | --- | --- |
-| Bloque | Temario específico de Ayudante de Realizacion · punto 8 |
-| Sirve para | Ayudante de Realizacion de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
+| Bloque | Temario específico de Ayudante de Realización · punto 8 |
+| Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule la cámara ni su uso. Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0903, 0904, 0905 y 0910): norma de enseñanza, no norma del oficio; X Convenio Colectivo de la RTVA (anexo III, fichas de puesto); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004); recomendaciones técnicas EBU R 118 v2, EBU Tech 3335, EBU Tech 3355 y EBU R 95 v1.1, y Recomendación UIT-R BT.709-6; documentación de fabricante (Sony, Canon, Fujifilm). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Convenio de 2014 (vigencia, en el tema común del convenio) y Libro de Estilo de 2004. Las recomendaciones EBU y UIT, en la edición vigente el 24-09-2026, en el texto ya cerrado del temario de Cámara Operador. Fechas de lectura, en «Trazabilidad» |
 | Extensión | 18.500 palabras aproximadamente |

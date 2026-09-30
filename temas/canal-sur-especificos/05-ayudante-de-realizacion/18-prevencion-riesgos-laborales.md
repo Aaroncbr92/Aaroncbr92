@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Ayudante de Realización · punto 18 |
 | Sirve para | Ayudante de Realización de Canal Sur (puesto 2.5, grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo (anexos I, II, III y IV y disposición adicional única); Real Decreto 286/2006, ruido; Real Decreto 773/1997, equipos de protección individual; Real Decreto 171/2004, coordinación de actividades empresariales; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículos 156 y 157; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, ficha del puesto 5353000); Carta del Servicio Público de la RTVA 2024-2029. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0909). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Documentación técnica del INSST; Recomendación UIT-R BT.2100-3 |
+| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo (anexos I, II, III y IV y disposición adicional única); Real Decreto 286/2006, ruido; Real Decreto 773/1997, equipos de protección individual; Real Decreto 487/1997, manipulación manual de cargas; Real Decreto 171/2004, coordinación de actividades empresariales; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículos 156 y 157; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, ficha del puesto 5353000); Carta del Servicio Público de la RTVA 2024-2029. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0909). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Documentación técnica del INSST; Recomendación UIT-R BT.2100-3 |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026. Convenio en su texto publicado de 2014. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan |
-| Extensión | 20.103 palabras |
+| Extensión | 20.973 palabras |
 
 <!-- /portada -->
 
@@ -537,15 +537,17 @@ Y cierra como todas las fichas: **«La presente definición no constituye una li
 funciones, debiendo realizar el trabajador asimismo, todas aquellas tareas que, de acuerdo a su
 cualificación profesional, le sean encomendadas por su inmediato superior.»**
 
-La ficha sitúa al ayudante en cuatro lugares de trabajo: el control de realización, el estudio o
-plató, la sala de montaje y, por los reportajes y microespacios, el exterior. No nombra la
+La ficha nombra **«los estudios y salas de control»** y **«el control de realización»**; de sus
+tareas se deducen cuatro lugares de trabajo (lectura de este tema): el control de realización, el
+estudio o plató, la sala de montaje (por el montaje y la postproducción) y, por los reportajes y
+microespacios, el exterior. No nombra la
 prevención de riesgos ni enumera riesgos. La prevención le llega por dos vías: como **trabajador**,
-tiene los derechos y las obligaciones del epígrafe 1 como cualquier otro; y como quien **rige la
-actividad del plató**, transmite a personas que se mueven (cámaras, presentadores, invitados,
+tiene los derechos y las obligaciones del epígrafe 1 como cualquier otro; y como a quien corresponde
+**regir la actividad del plató**, transmite a personas que se mueven (cámaras, presentadores, invitados,
 público) las órdenes del realizador, de modo que la obligación del artículo 29.1 de velar por la
 seguridad **de aquellas otras personas a las que pueda afectar su actividad profesional** tiene en
 él un alcance amplio. Ninguna de las dos cosas lo convierte en servicio de prevención ni en quien
-dirige una emergencia: la evaluación de riesgos del puesto la hacen las comisiones técnicas del
+dirige una emergencia (lectura de este tema): la evaluación de riesgos del puesto la hacen las comisiones técnicas del
 artículo 28 del convenio, y el servicio de prevención de nivel superior es de la empresa. La
 cualificación IMS077_3 lo sitúa con carácter general **«siempre bajo las órdenes y supervisión del
 realizador o realizadora»** (IMS077_3, entorno profesional).
@@ -573,9 +575,9 @@ presentadores, los invitados y el público. Está además donde el realizador no
 ordena el movimiento desde el control y lo ve por el monitor; el ayudante lo ve entero en el plató.
 Por eso la obligación 4.ª del artículo 29.2 le toca de lleno: ante cualquier situación que, a su
 juicio, entrañe por motivos razonables un riesgo para la seguridad y la salud de los trabajadores,
-informar **de inmediato** a su superior jerárquico directo (el realizador, en el programa) y a los
-trabajadores designados o, en su caso, al servicio de prevención. El intercom lleva el aviso al
-control en el momento; el cauce preventivo, después, para que no se repita (aplicación de este
+informar **de inmediato** a su superior jerárquico directo y a los trabajadores designados o, en su
+caso, al servicio de prevención. En el programa trabaja bajo la dirección del realizador, y el
+intercom lleva el aviso al control en el momento; el cauce preventivo, después, para que no se repita (aplicación de este
 tema).
 
 ### El plató, un lugar de trabajo
@@ -609,7 +611,8 @@ entero: ve el monitor.
 
 El mismo RD 486/1997 tiene tres reglas más que el ayudante aplica cada vez que prepara o rige el
 plató. Las dos primeras están en el anexo I, parte A, en la redacción vigente desde el 3 de
-diciembre de 2004; la parte B, para los lugares de trabajo anteriores a 1997, no las exceptúa:
+diciembre de 2004; la parte B, para los lugares de trabajo ya utilizados antes de la entrada en vigor
+del real decreto (1997), no las exceptúa:
 
 - Suelos (apartado 3.1.º): **«Los suelos de los locales de trabajo deberán ser fijos, estables y no
   resbaladizos, sin irregularidades ni pendientes peligrosas.»**
@@ -625,7 +628,7 @@ obstáculos de forma que sea posible utilizarlas sin dificultades en todo moment
 que el apartado 10.8.º del anexo I para las vías de evacuación, y lo extiende a todas las zonas de
 paso.
 
-La NTP 481 del INSST, «Orden y limpieza de lugares de trabajo», explica por qué: **«Son numerosos
+La NTP 481 del INSST (1998), «Orden y limpieza de lugares de trabajo», explica por qué: **«Son numerosos
 los accidentes que se producen por golpes y caídas como consecuencia de un ambiente desordenado o
 sucio, suelos resbaladizos, materiales colocados fuera de su lugar y acumulación de material
 sobrante o de desperdicio.»** (Las NTP son guías de buenas prácticas y no son obligatorias salvo que
@@ -641,6 +644,38 @@ espaldas o mirando al set, con un auricular de intercom en el oído, lo que suma
 tropezar y el de no oír el entorno. Las marcas en el suelo que indican las posiciones (**«CR4.6 La
 colocación del personal de figuración o público se indica mediante marcas o gestos.»**, IMS077_3,
 UC0216_3) no deben convertirse ellas mismas en un obstáculo.
+
+Retirar atrezo, mover un elemento de decorado o recolocar una silla de invitado es manipular cargas.
+Lo regula el Real Decreto 487/1997, de 14 de abril, que **«establece las disposiciones mínimas de
+seguridad y de salud relativas a la manipulación manual de cargas que entrañe riesgos, en particular
+dorsolumbares, para los trabajadores»** (artículo 1.1). Entiende por manipulación manual de cargas
+**«cualquier operación de transporte o sujeción de una carga por parte de uno o varios trabajadores,
+como el levantamiento, la colocación, el empuje, la tracción o el desplazamiento, que por sus
+características o condiciones ergonómicas inadecuadas entrañe riesgos, en particular dorsolumbares,
+para los trabajadores»** (artículo 2). El empresario **«deberá adoptar las medidas técnicas u
+organizativas necesarias para evitar la manipulación manual de las cargas, en especial mediante la
+utilización de equipos para el manejo mecánico de las mismas, sea de forma automática o controlada
+por el trabajador»** (artículo 3.1); cuando no pueda
+evitarla, tomará medidas de organización o proporcionará medios para reducir el riesgo y **«deberá
+evaluar los riesgos tomando en consideración los factores indicados en el anexo del presente Real
+Decreto y sus posibles efectos combinados»** (artículo 3.2).
+El real decreto **«no establece ningún valor concreto de referencia»** de peso; lo da la Guía Técnica
+del INSST (septiembre de 2024), siguiendo la norma ISO 11228-1, en su tabla 1, «Evaluación del
+riesgo por MMC» (manipulación manual de cargas):
+
+| Peso | Evaluación de la manipulación manual de cargas (Guía Técnica, tabla 1) |
+| --- | --- |
+| < 3 kg | **«Se debe valorar la posible existencia de otros factores de riesgo.»** |
+| 3 - 25 kg | **«Se debe evaluar el riesgo de MMC.»** |
+| > 25 kg | **«Probablemente constituya un riesgo no tolerable en sí mismo.»** |
+
+La misma guía añade que **«en condiciones ideales, el peso máximo que no se debe sobrepasar es 25 kg
+en el caso de hombres de 20 a 45 años y de 20 kg en el caso de mujeres de la misma franja de edad»**,
+y que las cargas de menos de 3 kg también pueden ser factor de riesgo en tareas con movimientos
+repetitivos y posturas forzadas. La ficha del puesto no encarga al ayudante transportar equipos; en
+la regiduría le puede tocar el objeto suelto del plató, y lo prudente es no improvisar con el
+programa en el aire el traslado de algo que pide dos personas o un medio mecánico (lectura de este
+tema).
 
 ### Lo que la realización puede prevenir
 
@@ -688,16 +723,15 @@ encarga coordinar **«la organización, puesta a punto y conducción de programa
 en los ensayos: es quien comprueba sobre el terreno que la cámara cabe por donde el realizador la ha
 pedido (**«CR5.1 Las cámaras y el equipo de captación de sonido e iluminación, si fuera necesario,
 se ubican sobre la planta escenográfica, en la posición óptima y según las indicaciones
-recibidas»**, IMS077_3, UC0216_3), quien sitúa al público y a los invitados y les dice por dónde
+recibidas […]»**, IMS077_3, UC0216_3), quien sitúa al público y a los invitados y les dice por dónde
 entrar y salir, y quien avisa al control de lo que el monitor no enseña (aplicación de este tema).
 
 ### Con personal de otras empresas: el artículo 24
 
 En el plató y, sobre todo, en exteriores, el ayudante trabaja a menudo junto a personal que no es de
 la RTVA: una unidad móvil contratada, una empresa de grúas o de decorados, el personal del recinto.
-La Ley 31/1995 lo regula en su artículo 24, «Coordinación de actividades empresariales»:
-
-Situaciones distintas que conviene no mezclar:
+La Ley 31/1995 lo regula en su artículo 24, «Coordinación de actividades empresariales», que
+distingue situaciones que conviene no mezclar:
 
 **24.1. Concurrencia.** Cuando **en un mismo centro de trabajo desarrollen actividades
 trabajadores de dos o más empresas, éstas deberán cooperar** en la aplicación de la
@@ -729,11 +763,30 @@ desarrollen actividades en dichos centros de trabajo.**
 **24.6.** **Las obligaciones previstas en este artículo serán desarrolladas
 reglamentariamente** (lo hace el Real Decreto 171/2004).
 
+El Real Decreto 171/2004, de 30 de enero, da en su artículo 11 una **«Relación no exhaustiva de
+medios de coordinación»**. Además de los que establezcan las propias empresas concurrentes, la
+negociación colectiva o la normativa de determinados sectores, **se consideran medios de coordinación
+cualesquiera de los siguientes**:
+
+- **a) El intercambio de información y de comunicaciones entre las empresas concurrentes.**
+- **b) La celebración de reuniones periódicas entre las empresas concurrentes.**
+- **c) Las reuniones conjuntas de los comités de seguridad y salud de las empresas concurrentes o, en
+  su defecto, de los empresarios que carezcan de dichos comités con los delegados de prevención.**
+- **d) La impartición de instrucciones.**
+- **e) El establecimiento conjunto de medidas específicas de prevención de los riesgos existentes en
+  el centro de trabajo que puedan afectar a los trabajadores de las empresas concurrentes o de
+  procedimientos o protocolos de actuación.**
+- **f) La presencia en el centro de trabajo de los recursos preventivos de las empresas
+  concurrentes.**
+- **g) La designación de una o más personas encargadas de la coordinación de las actividades
+  preventivas.**
+
 Aplicado al ayudante (lectura de este tema): antes de un directo en un recinto ajeno, lo que el
-titular del recinto informa sobre sus riesgos, sus medidas y su plan de emergencia (24.2) debe llegar
-al equipo; y cuando en el plató de la RTVA trabaja una empresa contratada, las indicaciones del
-plató, sus zonas de paso y sus salidas valen también para su personal (24.1). Qué medios de
-coordinación concretos usa la RTVA con sus contratistas no consta en documento publicado.
+titular del recinto informa sobre sus riesgos, sus medidas de protección y prevención y sus medidas
+de emergencia (24.2) debe llegar al equipo; y cuando en el plató de la RTVA trabaja una empresa
+contratada, la RTVA, como titular, le da esa información y esas instrucciones (24.2) y las dos
+empresas cooperan (24.1): las indicaciones del plató, sus zonas de paso y sus salidas valen también
+para su personal. Qué medios de coordinación concretos usa la RTVA con sus contratistas no consta en documento publicado.
 
 ### Ruido, auriculares e intercom
 
@@ -1546,7 +1599,9 @@ protección individual**):
 | Frío | Manos, pies, cuerpo | **Guantes de protección contra el frío.**; **Calzado protector contra el frío.**; **Ropa de protección contra el frío.** | Exteriores de larga duración en invierno; el anexo cita **Trabajo al aire libre a bajas temperaturas.**, entre otras |
 
 Las obligaciones del ayudante de realización con sus EPI son las del artículo 10 del RD 773/1997 (usarlos y
-cuidarlos, guardarlos en su sitio, avisar de cualquier defecto a su superior jerárquico directo).
+cuidarlos, guardarlos en su sitio, e informar de inmediato a su superior jerárquico directo de
+cualquier defecto, anomalía o daño que, a su juicio, pueda entrañar una pérdida de su eficacia
+protectora).
 Dos precisiones de este tema: el auricular del intercom no es un EPI, sino un equipo de trabajo
 (epígrafe 2, «Ruido, auriculares e intercom»); y si la evaluación de riesgos exige un EPI para
 entrar en una obra, una fábrica o un recinto con riesgos propios, el ayudante que entra a grabar lo
@@ -1592,7 +1647,8 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Arts. 7 y 8; anexo I, parte A (2.4.º, 3.1.º, 10.8.º y 12) y parte B; anexo II, apartado 1; anexo III (3.a y 3.b) y anexo IV (niveles mínimos de iluminación); disposición adicional única (trabajo al aire libre) |
 | Real Decreto 286/2006, de 10 de marzo, ruido | Arts. 3.1 y 5 (con las remisiones de su cuadro a los arts. 4, 6, 7, 8, 9 y 11); disposición adicional segunda |
 | Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 10; anexos I y III |
-| Real Decreto 171/2004, de 30 de enero, coordinación de actividades empresariales | Sólo como desarrollo del art. 24 de la Ley 31/1995 |
+| Real Decreto 487/1997, de 14 de abril, manipulación manual de cargas | Arts. 1.1, 2 y 3 |
+| Real Decreto 171/2004, de 30 de enero, coordinación de actividades empresariales | Art. 11 (medios de coordinación), como desarrollo del art. 24 de la Ley 31/1995 |
 | Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Arts. 156 y 157 |
 | Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.1, primer inciso (qué es trabajo nocturno), y 36.4 (protección del trabajo nocturno y a turnos) |
 | Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (norma de enseñanza) | Módulo 0905, RA 4.a, 4.c y 4.f; módulo 0909, RA 1.e, 2.e, 4.f, 5.d y 5.e |
@@ -1614,8 +1670,11 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 - **La comunicación entre control y plató, el código de señas y el oficio de la regiduría**: tema 16
   de este temario. **La prevención de errores, el control de tiempos y la comunicación de
   incidencias en el directo**: tema 6.
-- **La manipulación manual de cargas (RD 487/1997) y el riesgo eléctrico (RD 614/2001)**: no se dan;
-  la ficha del puesto no encarga al ayudante transportar equipos ni conectarlos.
+- **La manipulación manual de cargas**: se dan el objeto, la definición y el artículo 3 del RD
+  487/1997 y la tabla 1 de la Guía Técnica del INSST; no se dan el anexo de factores de riesgo, los
+  artículos 4 a 6 ni el método de evaluación de la guía, porque la ficha del puesto no encarga al
+  ayudante transportar equipos. **El riesgo eléctrico (RD 614/2001)**: no se da; la ficha no le
+  encarga conectar equipos.
 - **Cuántos decibelios llegan al oído por el intercom de un control o de un plató de la RTVA y cómo
   se miden**: no constan en documento publicado; el tema da sólo los umbrales del RD 286/2006 y las
   recomendaciones del INSST.
@@ -1645,7 +1704,9 @@ el 18 del mismo temario y el tema 9 del común) conservan las fechas de lectura 
 el **24-09-2026** y el **29-09-2026**. Leídos para este tema el **30-09-2026**: la ficha del puesto
 5353000 del anexo III del X Convenio (página 111 del BOJA núm. 240); el anexo I (apartados 2.4.º,
 3.1.º, 10.8.º y parte B, en sus dos redacciones) y el anexo II del RD 486/1997; la NTP 481; y la
-cualificación IMS077_3 (entorno profesional; UC0216_3, CR4.6; MF0217_3, CE2.5 y otras capacidades).
+cualificación IMS077_3 (entorno profesional; UC0216_3, CR4.6 y CR5.1; MF0217_3, CE2.5 y otras
+capacidades). Releídos en verificación el **30-09-2026**: los mismos, más los artículos 21, 24 y 29
+de la Ley 31/1995 y el artículo 10 y el anexo III del RD 773/1997.
 
 | Fuente | Identificador o edición | Redacción |
 | --- | --- | --- |
@@ -1653,6 +1714,8 @@ cualificación IMS077_3 (entorno profesional; UC0216_3, CR4.6; MF0217_3, CE2.5 y
 | RD 39/1997, Reglamento de los Servicios de Prevención, art. 34 | BOE-A-1997-1853 | 1 redacción (1997) |
 | RD 488/1997, pantallas de visualización | BOE-A-1997-8671 | 1 redacción en todos sus bloques (1997) |
 | RD 486/1997, lugares de trabajo, arts. 7 y 8, anexos I a IV y disposición adicional única | BOE-A-1997-8669 | Anexo I: redacción de BOE-A-2004-19311, vigente desde 03-12-2004 (los apartados 2.4.º y 3.1.º no cambiaron); anexo III y disposición adicional única: redacción de BOE-A-2023-11187, vigente desde 13-05-2023; arts. 7 y 8 y anexos II y IV, 1997 |
+| RD 487/1997, manipulación manual de cargas, arts. 1, 2 y 3 | BOE-A-1997-8670 | 1 redacción (1997), leída el 30-09-2026 |
+| RD 171/2004, coordinación de actividades empresariales, art. 11 | BOE-A-2004-1848 | 1 redacción, vigente desde 30-04-2004, leída el 30-09-2026 |
 | RD 286/2006, ruido | BOE-A-2006-4414 | 1 redacción en todos sus bloques, vigente desde 31-03-2006 |
 | RD 773/1997, equipos de protección individual | BOE-A-1997-12735 | Arts. 2 y 6, DF 2.ª y anexos: redacción de BOE-A-2021-20261, vigente desde 09-12-2021; resto, 1997 |
 | RDLeg 8/2015, texto refundido de la LGSS, arts. 156 y 157 | BOE-A-2015-11724 | 1 redacción, vigente desde 02-01-2016 |
@@ -1661,11 +1724,12 @@ cualificación IMS077_3 (entorno profesional; UC0216_3, CR4.6; MF0217_3, CE2.5 y
 | X Convenio Colectivo de la RTVA y sus sociedades filiales, arts. 25 a 31 y anexo III (ficha 5353000, pág. 111) | BOJA núm. 240, de 10-12-2014 | Texto publicado |
 | Carta del Servicio Público de la RTVA 2024-2029 | BOJA núm. 247, de 28-12-2023 | Texto publicado |
 | INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión» | Ficha publicada por el INCUAL | Documento publicado del INCUAL |
-| INSST (Centro Nacional de Condiciones de Trabajo), NTP 481, «Orden y limpieza de lugares de trabajo» | Sin fecha en el texto leído | Documentación técnica, no vinculante |
+| INSST (Centro Nacional de Condiciones de Trabajo), NTP 481, «Orden y limpieza de lugares de trabajo» | 1998 | Documentación técnica, no vinculante |
 | INSST, Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización | Edición de junio de 2021 | Documentación técnica |
 | INSST, tema 69, «Trastornos musculoesqueléticos de la extremidad superior» (temario de la Escala de Titulados Superiores) | Versión de abril de 2025 | Documentación técnica; definición de TME de la Agencia Europea para la Seguridad y la Salud en el Trabajo (2007) |
 | INSHT, *Ruido en los sectores de la música y el ocio. Código de conducta con orientaciones prácticas para el cumplimiento del Real Decreto 286/2006* | 2011, NIPO 792-11-019-4 | Documentación técnica, no vinculante |
 | Recomendación UIT-R BT.2100-3, *Image parameter values for high dynamic range television for use in production and international programme exchange* | 02/2025, cuadro 3 | Recomendación técnica vigente, no norma de prevención |
+| INSST, Guía Técnica para la evaluación y prevención de los riesgos derivados de la manipulación manual de cargas | Edición de septiembre de 2024 (NIPO 118-24-023-2), apdo. del art. 2 y tabla 1; anexo, «Características de la carga» (peso máximo en condiciones ideales); leída el 30-09-2026 | Documentación técnica, no vinculante |
 | INSST, NTP 1090 y NTP 1091, riesgos laborales viarios | 2017 | Documentación técnica; la NTP 1090 cita el art. 115 de la LGSS de 1994, hoy art. 156 de la de 2015 |
 | INSST, NTP 318, «El estrés: proceso de generación en el ámbito laboral» | 1991 | Documentación técnica |
 | INSST, NTP 443, «Factores psicosociales: metodología de evaluación» | 1995; actualizada por la NTP 926 (no leída) | Documentación técnica |

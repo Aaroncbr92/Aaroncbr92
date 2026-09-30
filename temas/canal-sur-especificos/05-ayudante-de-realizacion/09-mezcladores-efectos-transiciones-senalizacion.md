@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Ayudante de Realización · punto 9 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Sin norma que regule el mezclador, su uso ni su señalización. Documentación de fabricante: manual en español de los mezcladores Blackmagic Design ATEM (edición de diciembre de 2024), con su anexo en inglés «Blackmagic Embedded Tally Control Protocol»; TSL Products, «TSL UMD Protocol» (documento fechado el 19-09-2009). Especificación de la AMWA: NMOS IS-07. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Manual universitario: F. J. Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (Editorial UMH, 2024). Documentación de Adobe (Premiere) y Blackmagic Design (DaVinci Resolve 21) sobre transiciones. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Manual ATEM en su edición de diciembre de 2024 (descargado el 03-09-2026; releído el 24-09-2026 en el texto tomado del tema 9 de Realizador/a y el 29-09-2026 en lo añadido sobre señalización). Protocolo TSL UMD en su documento de 2009, el único de TSL que se ha leído (descargado el 29-09-2026; no se ha confirmado si hay versión posterior). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), leído el 29-09-2026. Libro de Estilo de 2004, leído el 24-09-2026 |
-| Extensión | 16.400 palabras aproximadamente |
+| Fuente | Sin norma que regule el mezclador, su uso ni su señalización. Documentación de fabricante: manual en español de los mezcladores Blackmagic Design ATEM (edición de diciembre de 2024), con su anexo en inglés «Blackmagic Embedded Tally Control Protocol»; TSL Products, «TSL UMD Protocol» (documento fechado el 19-09-2009). Especificación de la AMWA: NMOS IS-07. Recomendación UIT-R BT.2111-3 (05/2025), carta de barras de color para HDR. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Lo propio de la casa: *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Manual universitario: F. J. Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (Editorial UMH, 2024). Documentación de Adobe (Premiere) y Blackmagic Design (DaVinci Resolve 21) sobre transiciones. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Manual ATEM en su edición de diciembre de 2024 (descargado el 03-09-2026; releído el 24-09-2026 en el texto tomado del tema 9 de Realizador/a y el 29-09-2026 en lo añadido sobre señalización). Protocolo TSL UMD en su documento de 2009, el único de TSL que se ha leído (descargado el 29-09-2026; no se ha confirmado si hay versión posterior). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019), leído el 29-09-2026. Libro de Estilo de 2004, leído el 24-09-2026. Recomendación UIT-R BT.2111-3 en su edición de 05/2025, la vigente en la web de la UIT, leída el 30-09-2026 |
+| Extensión | 16.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -68,9 +68,9 @@ aditiva, qué son el clip y la ganancia, la máscara, una señal premultiplicada
 color se hace un croma, qué controles tiene, qué es el rebase y qué pide al plató; qué parámetros
 tiene un DVE, qué es el *corner pinning*, cómo se amplía sin deformar y qué es una gafa; qué es el
 piloto, dónde se enciende y en qué color, a qué cámaras se enciende en unas ventanas, por qué vías
-llega (contacto, retorno SDI, señal, red), qué hace el botón CALL, qué indican los bordes del
+llega (contacto, señal de vuelta a la cámara, red), qué hace el botón CALL, qué indican los bordes del
 multipantalla, qué es una etiqueta UMD y el protocolo TSL, qué son el *black burst*, el *tri-level*
-y el *genlock*, qué generadores de señales hay en un control y para qué sirven las barras de color.
+y el *genlock*, qué generadores de señales hay en un control, para qué sirven las barras de color y qué recomendación fija la carta de barras de la televisión de elevada gama dinámica (HDR).
 En la prueba práctica: comprobar con el mezclador y la escaleta las entradas, los nombres, los
 pilotos, las transiciones y las llaves antes de un informativo, cantar las transiciones en el directo
 y resolver a quién se avisa cuando un piloto no se enciende, un croma deja bordes o un rótulo sale
@@ -157,9 +157,9 @@ controles de Canal Sur no consta en documento publicado leído, y el tema no lo 
 
 La norma de enseñanza del título de Técnico Superior en Realización (RD 1680/2011) pone con rango de
 norma qué debe saber hacer en el mezclador quien se forma para realizar, y pone expresamente en su
-temario los usos narrativos de las transiciones; se cita por eso, no porque regule el oficio. El
-Libro de Estilo de Canal Sur da el criterio de la casa sobre el uso de los recursos en los
-informativos. Las fórmulas del compuesto, los tipos de llave, las memorias y los criterios de uso por
+temario los usos narrativos de las transiciones; se cita por eso, no porque regule el oficio. Del
+Libro de Estilo de Canal Sur se toma aquí lo que pide al vestuario ante el croma; su criterio sobre
+el uso de los recursos en los informativos lo desarrolla el temario del Realizador/a. Las fórmulas del compuesto, los tipos de llave, las memorias y los criterios de uso por
 género son oficio y física de la señal, y así se declaran.
 
 ## 1. Mezcladores de vídeo
@@ -1111,13 +1111,12 @@ superior de la ventana se enciende en rojo e indica Al aire.»**
 ### Cómo llega el piloto a la cámara y a los monitores
 
 El piloto sale del mezclador, que es quien sabe qué está al aire, y llega a cada cámara y a cada
-monitor por una de cuatro vías:
+monitor por una de tres vías:
 
 | Vía | Cómo funciona | Fuente |
 |---|---|---|
 | Contacto | Un relé por fuente: se cierra cuando la fuente está al aire | Manual ATEM, GPI and Tally Interface |
-| Retorno SDI | El mezclador manda el estado a las cámaras por la señal de retorno | Manual ATEM |
-| Datos en la señal | El estado viaja como paquete de datos dentro del vídeo de programa | Protocolo de piloto de Blackmagic |
+| Datos en la señal | El estado viaja como paquete de datos dentro del programa que el mezclador manda a las cámaras | Protocolo de piloto de Blackmagic |
 | Red | El estado viaja como mensaje por la red IP | TSL UMD sobre UDP; NMOS IS-07 |
 
 Por contacto. Es la vía clásica y la de la GPI en sentido contrario (tema 4). En los ATEM la hace un
@@ -1126,21 +1125,23 @@ en sistemas de señalización. La señal se envía desde el puerto Ethernet del 
 dispositivo, y ambos deben compartir la misma red.»** A él **«se pueden conectar equipos compatibles
 con sistemas de señalización por cierre de contacto»**; **«Es posible conectar hasta ocho unidades GPI
 and Tally Interface. Solo es necesario contar con una unidad en el caso de mezcladores que disponen de
-un solo banco de mezcla y efectos»**, y con varias se reparten los pilotos: **«se pueden asignar las
-luces piloto 1-8 a la primera unidad, y las luces 9-16 a la segunda, y las luces 17-24 a la
+un solo banco de mezcla y efectos»**, y en los ATEM de dos y cuatro bancos se reparten los pilotos: **«Si se conecta un dispositivo GPI
+and Tally Interface a un mezclador ATEM 2 M/E o 4 M/E, es posible asignar distintas luces piloto a
+cada unidad a través del programa ATEM Setup. Por ejemplo, se pueden asignar las luces piloto 1-8 a la primera unidad, y las luces 9-16 a la segunda, y las luces 17-24 a la
 tercera.»** Las cifras eléctricas son de ese aparato: **«Las entradas consisten en interruptores
 ópticos que se activan por una conexión a tierra con un voltaje máximo de 5 V a 14 mA.»** y **«Las
 salidas consisten en relés mecánicos conectados a tierra con un voltaje máximo de 30 V a 1 A.»**
 
-Por el retorno SDI. Con cámaras del mismo fabricante, el piloto va por el cable que devuelve a la
-cámara el programa. El manual lo cuenta en la puesta en marcha: **«presione uno de lo botones
+Como datos dentro de la señal que vuelve a la cámara. Con cámaras del mismo fabricante, el manual
+cuenta en la puesta en marcha cómo se enciende su piloto: **«presione uno de lo botones
 correspondientes a una entrada a fin de seleccionarla como anticipo. Esto hará que la luz piloto en las
 cámaras compatibles de Blackmagic Design se encienda de color verde. Al presionar el botón CUT o AUTO,
 se producirá un corte o una transición para transmitir la fuente a través de la salida principal y por
 ende la luz piloto se encenderá de rojo, indicando así que la cámara está al aire.»** (así, «lo
-botones», en el manual).
-
-Como datos dentro de la señal. El anexo para desarrolladores del manual, en inglés, describe el
+botones», en el manual). Ese pasaje no dice por qué cable llega el piloto; el manual sí dice que por
+la señal SDI de retorno van la llamada (abajo, «La llamada») y el control de las cámaras: **«El
+mezclador permite controlar unidades URSA Mini y Blackmagic Studio Camera mediante la señal SDI de
+retorno.»** El anexo para desarrolladores del manual, en inglés, describe el
 protocolo propio de Blackmagic (*Blackmagic Embedded Tally Control Protocol*, versión 1.0, de
 30-04-2014): **«It describes the protocol for sending tally information embedded in the non-active
 picture region of a digital video stream.»** El reparto: **«A master device such as a broadcast
@@ -1149,7 +1150,9 @@ devices such as cameras or camera controllers.»** El formato: **«Packets are e
 packet with DID/SDID x51/x52 in the active region of VANC line 15.»**, y cada estado ocupa cuatro
 bits, de los que dos dicen lo que importa: **«bit 0: program tally status (0=off, 1=on)»** y **«bit 1:
 preview tally status (0=off, 1=on)»**. Es un protocolo de un fabricante, no una norma: lo que la
-SMPTE fija es el formato del paquete, no el piloto.
+SMPTE fija es el formato del paquete, no el piloto. Que el piloto de las cámaras del fabricante
+viaje con este protocolo en la señal de retorno es lo que el anexo describe en general, pero el
+manual no lo dice expresamente de sus cámaras.
 
 Por la red. Los protocolos de etiquetas de TSL, que llevan también el piloto, **«can also be
 implemented over UDP/IP»** (apartado siguiente). Y en una instalación IP normalizada, la familia NMOS
@@ -1289,8 +1292,28 @@ brinda la posibilidad de comprobar o modificar la intensidad del volumen de cada
 una cámara concreta dicen, en el multipantalla, qué ventana es cuál: es una comprobación de
 señalización antes del ensayo (oficio).
 
-La norma que define las barras de color de alta definición no se ha podido leer para este tema, y no
-se cita.
+Para la televisión de elevada gama dinámica (HDR) la carta de barras la fija la UIT: la
+Recomendación UIT-R BT.2111-3 (05/2025), **«Especificación de la carta de ajuste de la barra de color
+para sistemas de televisión de elevada gama dinámica»**, cuyo cometido es: **«En esta Recomendación
+se especifican las cartas de juste de referencia para los sistemas de televisión de elevada gama
+dinámica especificados en la Recomendación UIT-R BT.2100.»** (así, «juste», en el texto español).
+Da tres cartas para dos sistemas —el **«híbrido log-gamma (HLG)»** y el **«de cuantización
+perceptiva (PQ)»**—: **«HLG gama reducida»**, **«PQ gama reducida»** y **«PQ gama
+completa»**, con valores de 10 y 12 bits, e incluye barras al **«100%»** y al **«75%»**. Sus
+objetivos, según su Anexo 1, son: **«controlar la calidad de la crominancia y la
+luminancia en la cadena de producción»**, **«verificar y ajustar la alineación de crominancia y
+luminancia del equipo de radiodifusión, en concreto de los monitores de vídeo»**, **«realizar una
+prueba general del equipo de producción, emisión y presentación de vídeo»** y **«determinar que un
+circuito de vídeo está activo y que se dispone del audio asociado.»** Con una salvedad: **«Esta
+carta de ajuste no está prevista para ajustar el nivel de negro, para lo que es más conveniente
+utilizar una señal PLUGE.»** (sigla que la recomendación no desarrolla). La recomendación pide además **«que los fabricantes indiquen qué
+edición de carta de ajuste de la Recomendación UIT-R BT.2111 se ha implementado en el generador de
+carta de ajuste correspondiente.»** Entre sus referencias está la que da nombre a las barras:
+**«Recomendación UIT-R BT.471 – Nomenclatura y descripción de las señales de barra de color»**, que
+no se ha leído.
+
+La BT.2111 no es la norma de las barras de alta definición sin HDR: esa no se ha podido leer para
+este tema, y no se cita.
 
 ### Lo que comprueba el ayudante
 
@@ -1381,8 +1404,9 @@ Es norma de enseñanza: dice lo que aprende quien se forma para realizar, no có
 - La versión vigente del protocolo TSL UMD: el documento leído es de 2009 y no se ha leído otro
   publicado por TSL. El texto de la especificación NMOS IS-07 no se ha leído para este tema: se da su
   título y su objeto.
-- La norma de las barras de color de alta definición y la de las cartas de ajuste: no se han podido
-  leer.
+- La norma de las barras de color de alta definición sin HDR, la Recomendación UIT-R BT.471 y la de
+  las cartas de ajuste que no son de HDR: no se han podido leer. De la carta HDR (UIT-R BT.2111-3) se
+  dan su objeto, sus sistemas y sus usos; no sus valores de código ni las medidas de cada barra.
 - El criterio de la casa sobre el uso de los recursos en los informativos (Libro de Estilo, 6.5) y su
   uso por géneros: los desarrolla el temario del Realizador/a; al ayudante le toca comprobar que se
   cumple lo que el realizador decide.
@@ -1400,11 +1424,12 @@ Es norma de enseñanza: dice lo que aprende quien se forma para realizar, no có
 |---|---|---|
 | Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024), epígrafes de transiciones, composición de imágenes (luminancia, lineal, crominancia y crominancia avanzada, geométrica, efectos visuales digitales), transiciones animadas, SuperSource, visualización simultánea, ajustes de fuentes, macros, reproductores multimedia, máscaras y fundido a negro | Tipos de transición y sus mandos; parámetros de la cortinilla y cortinilla con gráficos; máscara de la llave; fundido a negro; transición animada; composiciones previas y posteriores; luminancia y lineal; croma y sus controles; rebase; DVE; figura; SuperSource; multipantalla; nombres de fuente; macros; *clip store*; salida del alfa | Descargado el 03-09-2026; releído el 24-09-2026 |
 | Real Decreto 1680/2011 (BOE-A-2011-19599), texto del diario oficial; vigencia comprobada en su ficha (modificación por el Real Decreto 500/2024) | Lo que la norma de enseñanza pide hacer con el mezclador, el multipantalla, el titulador y la grabación; usos narrativos de las transiciones | 24-09-2026 |
-| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.6.1, 3.10, 3.16 a 3.16.2, 6.5.1, 6.5.2, 8.6.1 y 9.9.2 | Rótulo, cierres, gráficos, criterio de realización informativa, vestuario ante el croma, imágenes duras | 24-09-2026 |
+| *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 8.6.1 (p. 122); 6.5, sólo como remisión | Vestuario ante el croma; el criterio sobre los recursos en informativos, que se remite | 24-09-2026 |
 | Francisco José Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual*, Elche, Editorial UMH, 2024, 3.2 | Fundido y encadenado | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
 | Adobe, ayuda de Premiere, «Transitions overview» (actualizada el 07-01-2026); Blackmagic Design, *DaVinci Resolve 21*, cap. 55 | Corte y transición | Texto tomado del tema cerrado del puesto de Operador/a Montador/a de Vídeo |
-| Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024): «Sistemas de señalización» y GPI and Tally Interface; puesta en marcha (comprobación de pilotos y llamada); botones de los buses de programa y de anticipo; botón de llamada; ventana de control de cámara; barras de color del mezclador y de las cámaras; anexos en inglés *Blackmagic SDI Camera Control Protocol* (parámetros de brillo del piloto) y *Blackmagic Embedded Tally Control Protocol* (versión 1.0, 30-04-2014) | Qué es la señalización; piloto delante y detrás; piloto en el panel; vías del piloto (contacto, retorno SDI, datos en la señal); llamada; barras de color; comprobación de pilotos y su avería típica | 29-09-2026 |
+| Blackmagic Design, manual en español de los mezcladores ATEM (edición de diciembre de 2024): «Sistemas de señalización» y GPI and Tally Interface; puesta en marcha (comprobación de pilotos y llamada); botones de los buses de programa y de anticipo; botón de llamada; ventana de control de cámara; barras de color del mezclador y de las cámaras; anexos en inglés *Blackmagic SDI Camera Control Protocol* (parámetros de brillo del piloto) y *Blackmagic Embedded Tally Control Protocol* (versión 1.0, 30-04-2014) | Qué es la señalización; piloto delante y detrás; piloto en el panel; vías del piloto (contacto, datos en la señal de vuelta a la cámara); control de cámara por la señal SDI de retorno; llamada; barras de color; comprobación de pilotos y su avería típica | 29-09-2026 |
 | TSL Products, «TSL UMD Protocol», documento fechado el 19-09-2009 (web del fabricante) | Protocolos de etiquetas de monitor V3.1, V4.0 y V5.0: uso, gratuidad, línea, caracteres, colores, UDP y TCP/IP, sentido único | 29-09-2026 |
+| Recomendación UIT-R BT.2111-3 (05/2025), «Especificación de la carta de ajuste de la barra de color para sistemas de televisión de elevada gama dinámica», versión en español de la UIT: cometido, «recomienda», «recomienda además», Anexo 1, apartados 1 y 2, y rótulos de las figuras 1 a 3 | Carta de barras HDR: objeto, sistemas, usos, salvedad del PLUGE, 10 y 12 bits | 30-09-2026 |
 | AMWA, especificación NMOS IS-07 «Event & Tally» | Piloto por la red | Texto tomado del tema cerrado 15 de Realizador/a |
 | Tema cerrado 4 de Realizador/a, epígrafe «El piloto» | Qué es el piloto, dónde se enciende, llamada, piloto en un compuesto | Texto tomado literal; sus fuentes, en ese tema |
 | INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0217_3 (RP1, CR1.2, CR1.3, CR2.1; p. 7) y MF0217_3 (CE1.5 y CE1.6, p. 18; contenidos 5 y 6, p. 20) | Lo que se pide al ayudante respecto del mezclador, las transiciones y el parte de emisión; generadores de señales | 29-09-2026 |

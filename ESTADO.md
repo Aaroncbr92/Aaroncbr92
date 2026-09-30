@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-26 (Canal Sur · específicos: 7 puestos cerrados)
+**Última actualización:** 2026-09-26 (Canal Sur · específicos: 8 puestos cerrados)
 
 ## Qué es esto
 
@@ -1854,10 +1854,11 @@ con los datos de cada puesto en `informes/canal-sur-especificos/PP-args.json` (s
 | 32 Productor/a | 14 | 15 | cerrado | `libro-canal-sur-32-productor.*` (483 pp.) |
 | 33 Realizador/a | 8 | 19 | cerrado | `libro-canal-sur-33-realizador.*` (643 pp.) |
 | 15 Grafista | 7 | 18 | cerrado | `libro-canal-sur-15-grafista.*` (494 pp.) |
+| 05 Ayudante de Realización | 6 | 18 | cerrado (8 temas copiados de Realizador/a) | `libro-canal-sur-05-ayudante-realizacion.*` (638 pp.) |
 
-Siete puestos cerrados: 149 de las 228 plazas (65 %) tienen ya temario completo, común y específico.
+Ocho puestos cerrados: 155 de las 228 plazas (68 %) tienen ya temario completo, común y específico.
 
-Siguiente puesto por plazas: 05 Ayudante de Realización (6 plazas, 18 temas; 9 idénticos y 3 parecidos a temas ya escritos).
+Siguiente puesto por plazas: 27 Oficial Técnico Electricista (5 plazas, 19 temas).
 
 Decisión pendiente del titular: extensión objetivo de los temas técnicos (ahora ~11.000 palabras
 por tema; propuesta 6.000-8.000 para rebajar el gasto por puesto, hoy 13-15 M de tokens).

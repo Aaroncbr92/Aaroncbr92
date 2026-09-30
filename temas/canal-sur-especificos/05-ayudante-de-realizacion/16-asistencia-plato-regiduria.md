@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Ayudante de Realización · punto 16 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule el trabajo en un plató. Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto), y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0903, 0904, 0905 y 0910). Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Fuentes leídas el 24-09-2026 y el 29-09-2026 (texto tomado de los temas 3, 5 y 6 de Realizador/a) y el 29-09-2026 (lo añadido en este tema) |
-| Extensión | 9.300 palabras aproximadamente |
+| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Fuentes leídas el 24-09-2026 y el 29-09-2026 (texto tomado de los temas 3, 5 y 6 de Realizador/a) y el 29-09-2026 (lo añadido en este tema); el manual de señas, el 30-09-2026 |
+| Extensión | 9.600 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -134,13 +134,12 @@ trabajo.»** La regiduría depende, por tanto, de la realización, no de la prod
 
 ### La realización profesional 5: el ayudante en el plató
 
-
 La ficha pone en manos del Ayudante de Realización **«regir la actividad del plató durante los
 ensayos, la grabación o emisión en directo»**, siempre **«Bajo la dirección del realizador»**. La
 cualificación IMS077_3 describe ese trabajo en su realización profesional 5 (UC0216_3, p. 5):
 **«RP5: Transmitir órdenes, detectar y corregir problemas en la planta escenográfica en función de
 las directrices recibidas, consiguiendo la intencionalidad narrativa y la calidad técnica y formal
-requeridas.»** Sus criterios (el CR5.3, en «Cómo se habla a cada uno»):
+requeridas.»** Sus criterios, salvo el CR5.3 (que se cita en «Cómo se habla a cada uno»):
 
 - **«CR5.1 Las cámaras y el equipo de captación de sonido e iluminación, si fuera necesario, se
   ubican sobre la planta escenográfica, en la posición óptima y según las indicaciones recibidas,
@@ -173,7 +172,6 @@ Y por qué se hace con señas y no por auricular: el presentador y los invitados
 muchos formatos, y cuando lo llevan, el retorno está ocupado por otras cosas (oficio). La señal que
 devuelve el programa al presentador y el intercomunicador se estudian en los temas 4 y 11; la
 puesta en escena y las marcas, en el tema 5.
-
 
 ### Lo que hace la regiduría antes del programa
 
@@ -219,7 +217,6 @@ la regiduría.
 El criterio para distinguirlos es siempre el mismo: primero, dónde está la persona; segundo, si
 decide o ejecuta. En la RTVA, la asistencia de realización y la regiduría son la misma ficha, la
 del Ayudante de realización; la dirección artística del decorado es del Decorador.
-
 
 De la regiduría se separa también la continuidad, que es otro cometido de la asistencia: la
 continuidad es una función real y vecina, pero se ejerce sobre el material grabado y su raccord,
@@ -337,12 +334,27 @@ manos y el cuerpo, que todo el mundo delante de la cámara entiende:
 | Mano cortando el cuello | Corta, termina ya |
 | Dedo apuntando a la cámara | Mira a esa cámara |
 | Palma abierta, quieta | Espera, no te muevas |
+| Brazo y mano levantados | Atención, preparados (*stand by*): se va a entrar |
 | Manos juntándose | Acércate al otro, junta el plano |
 
 El código no es universal: cada casa y cada programa tiene su variante, y por eso se repasa en el
 ensayo. Lo que sí es universal es que existe, y que la persona que está delante de la cámara
 tiene que conocerlo antes de que empiece el programa. No hay una tabla oficial de señas de plató:
 la de arriba es la de uso más extendido (oficio).
+
+El aviso previo y la entrada sí están descritos en un manual de formación publicado, el de la Armada
+de los Estados Unidos para periodistas (*Journalist 3 & 2*, capítulo 14, p. 14-10), que recomienda
+el sistema de señas que llama **«universally accepted»** (universalmente aceptado):
+
+- Preparados: **«For the hand signal to "stand by," the floor manager raises his hand and arm at the
+  beginning of the show or following a spot break»**. Es decir, el regidor levanta la mano y el brazo
+  al empezar el programa o al volver de una pausa publicitaria.
+- Entrada: **«For the hand signal to "start talking" or "begin action," the floor manager raises his
+  hand and points to the talent»**. Levanta la mano y apunta a quien tiene que hablar: es la seña de
+  «entras tú, ahora» de la tabla.
+
+Ese manual no trae una seña distinta para «estás en el aire»: quien está en el aire lo sabe por la
+seña de entrada y por el piloto de la cámara (oficio).
 
 ### Quién decide, quién ordena y quién ejecuta
 
@@ -373,7 +385,6 @@ Lo que no hace, y por qué: el regidor está en el plató y el programa está en
 arriesgarse a salir en imagen o a que se le oiga. Sugerir contenido no es su cometido: eso es de
 dirección y de realización. Lo que sí puede hacer, y hace, es pasar por el pinganillo lo que el
 control le mande decir. Un regidor no decide cuándo entra la publicidad.
-
 
 ## 2. Coordinación de presentadores, invitados y público
 
@@ -491,9 +502,9 @@ Quien coordina desde el plató no manda sobre ninguno de esos equipos: cada uno 
 recibe sus órdenes del control. Lo que hace el ayudante en el plató es comprobar que lo que cada
 equipo ha montado funciona junto con lo de los demás, detectar lo que no encaja y comunicarlo
 (UC0216_3, CR5.1 y CR5.6, citados en «La realización profesional 5: el ayudante en el plató»).
-Buena parte de las comprobaciones que siguen salen del criterio CE8.2 del módulo MF0216_3, que la cualificación
-plantea como **«un supuesto práctico debidamente caracterizado de realización monocámara y
-multicámara (con diversos tipos de programa)»**.
+Buena parte de las comprobaciones que siguen salen del criterio CE8.2 del módulo MF0216_3, que
+la cualificación plantea como **«un supuesto práctico debidamente caracterizado de realización
+monocámara y multicámara (con diversos tipos de programa)»**.
 
 ### Cámaras
 
@@ -828,7 +839,9 @@ Cuatro casos que se preguntan en una prueba práctica:
   organiza el plató en cada programa*: no consta en documento publicado. El convenio no define un
   puesto de regidor y atribuye la función a la ficha del Ayudante de Realización.
 - *Un código de señas oficial*: no existe. La tabla del tema es la de uso más extendido (oficio), y
-  cada casa y cada programa tienen variantes.
+  cada casa y cada programa tienen variantes. Las señas de preparados y de entrada se citan de un manual
+  publicado; una seña propia de «estás en el aire», distinta de la de entrada, no se ha
+  localizado en las fuentes consultadas.
 - *Las tablas de tareas de la regiduría, el reparto de competencias sobre las personas que entran al
   plató, la secuencia de una entrada y el trato con el público*: son ordenación de oficio, no texto de
   ninguna fuente.
@@ -852,4 +865,5 @@ Cuatro casos que se preguntan en una prueba práctica:
 | INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR1.1, CR4.1 a CR4.8, RP5, CR5.1 a CR5.6); UC0217_3 (CR2.4, CR2.6, CR2.7, CR3.2; contexto profesional); MF0216_3 (C8, CE7.5, CE8.2); MF0217_3 (CE1.3, CE1.4, CE1.5) | Trabajo del ayudante en el plató: instrucciones, cambios, entradas, deficiencias, público, figuración, comprobaciones con cámaras, sonido, iluminación y escenografía, tiempos | 24-09-2026 y 29-09-2026 |
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original: módulo 0903 (RA 3.a, 3.c, 3.e, 3.f, 4.b; contenidos), 0904 (RA 4.e), 0905 (orientaciones; RA 1.d, 2.c a 2.e, 3.a a 3.c, 4.a a 4.f; contenidos), 0910 (RA 4.d) | Regiduría en plató; coordinación del plató; intercomunicación; citaciones; ensayos | 24-09-2026 y 29-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685 | Que los módulos citados no se modifican | 24-09-2026 (comprobado en los temas de Realizador/a) |
+| *Journalist 3 & 2*, manual de formación de la Armada de los Estados Unidos, capítulo 14 («Television»), apartado «Floor Manager», p. 14-10 | Señas de preparados (*stand by*) y de entrada; que el sistema se presenta como universalmente aceptado | 30-09-2026 |
 | Oficio | Tareas de la regiduría antes y durante; código de señas; cadena de mando; reparto de competencias sobre las personas; canales de comunicación con cada persona; trato con el público; secuencia de una entrada; tiempos en el plató; aplicación práctica | — |

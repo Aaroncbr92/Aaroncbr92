@@ -1,4 +1,4 @@
-# Tema 8 del específico de Ayudante de Realizacion · Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales
+# Tema 8 del específico de Ayudante de Realización · Cámaras, ópticas, soportes, encuadres, profundidad de campo, filtros, estabilización y criterios visuales
 
 **Siglas**: RTVA · CSRTV · RD · EBU · UIT-R · ENG · EFP · CCU · RCP · CCD · CMOS · OLPF · ND · PTZ · POV · ATW · TLCI · RA · Conv. (X Convenio RTVA) · LE (*Libro de Estilo de Canal Sur*, RTVA 2004)
 

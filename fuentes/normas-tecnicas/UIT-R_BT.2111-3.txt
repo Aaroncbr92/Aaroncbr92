@@ -1,0 +1,1583 @@
+  
+Unión Internacional de Telecomunicaciones 
+Recomendaciones 
+Sector de Radiocomunicaciones 
+ 
+ 
+ 
+ 
+ 
+Recomendación UIT-R BT.2111-3 
+(05/2025) 
+Serie BT: Servicio de radiodifusión (televisión) 
+Especificación de la carta de ajuste de 
+la barra de color para sistemas de 
+televisión de elevada gama dinámica 
+ 
+
+ii 
+Rec.  UIT-R  BT.2111-3 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en la Resolución UIT-R 1. Los formularios que deben utilizarse en la 
+declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección web 
+https://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en https://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la Resolución 
+UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2025 
+ 
+© UIT 2025 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+1 
+ 
+RECOMENDACIÓN  UIT-R  BT.2111-3 
+Especificación de la carta de ajuste de la barra de color 
+para sistemas de televisión de elevada gama dinámica 
+(2017-2019-2020-2025) 
+Cometido 
+En esta Recomendación se especifican las cartas de juste de referencia para los sistemas de televisión de 
+elevada gama dinámica especificados en la Recomendación UIT-R BT.2100. 
+Palabras clave 
+Barras de colores, HDR, HDR-TV, HLG, PQ, carta de ajuste, señal de prueba 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que las cartas de ajuste constituyen un medio adecuado de evaluar la calidad de la 
+crominancia y la luminancia de los sistemas de televisión; 
+b) 
+que dicha carta de ajuste común puede utilizarse en la radiodifusión en distintos formatos o 
+en la conversión entre formatos; 
+c) 
+que la utilización de una carta de ajuste puede simplificar los procedimientos de prueba y 
+reducir la posibilidad de interpretar erróneamente los parámetros de la señal y de ajustar 
+incorrectamente los sistemas, 
+observando 
+que en la Recomendación UIT-R BT.2100 se especifican los valores de los parámetros de imagen 
+para sistemas de televisión de elevada gama dinámica para su utilización en la producción y el 
+intercambio internacional de programas, 
+recomienda 
+que las cartas de ajuste definidas en el Anexo 1 se apliquen y utilicen para la producción y la 
+distribución en los sistemas de televisión de elevada gama dinámica (TV-HDR), 
+recomienda además 
+que los fabricantes indiquen qué edición de carta de ajuste de la Recomendación UIT-R BT.2111 se 
+ha implementado en el generador de carta de ajuste correspondiente. 
+ 
+ 
+
+2 
+Rec.  UIT-R  BT.2111-3 
+Anexo 1  
+(normativo) 
+ 
+Especificaciones de la carta de ajuste 
+ÍNDICE 
+ 
+Página 
+Política sobre Derechos de Propiedad Intelectual (IPR) .......................................................... 
+ii 
+Anexo 1 (normativo) – Especificaciones de la carta de ajuste ................................................ 
+2 
+1 
+Referencias normativas ................................................................................................... 
+2 
+2 
+Objetivo .......................................................................................................................... 
+2 
+3 
+Tipos de sistemas ............................................................................................................ 
+3 
+4 
+Secciones de la carta de ajuste ........................................................................................ 
+3 
+5 
+Precisión del valor del código de la carta de ajuste ........................................................ 
+3 
+Adjunto 1 al Anexo 1 (informativo) – Secciones que forman la carta de ajuste HLG ............ 
+14 
+Adjunto 2 al Anexo 1 (informativo) – Forma de onda HLG en un monitor de forma  
+de onda ............................................................................................................................ 
+15 
+Adjunto 3 al Anexo 1 (informativo) – Información sobre la conversión de barras de color 
+HLG/BT.2020 a SDR/BT.709 ........................................................................................ 
+16 
+ 
+1 
+Referencias normativas 
+Recomendación UIT-R BT.471 – Nomenclatura y descripción de las señales de barra de color 
+Recomendación UIT-R BT.709 – Valores de los parámetros de la norma TVAD para la producción y el 
+intercambio internacional de programas 
+Recomendación UIT-R BT.2100 – Valores de los parámetros de imagen de los sistemas de televisión de 
+elevada gama dinámica para la producción y el intercambio internacional de programas 
+2 
+Objetivo 
+La carta de ajuste de referencia tiene diversos objetivos: 
+– 
+controlar la calidad de la crominancia y la luminancia en la cadena de producción; 
+– 
+verificar y ajustar la alineación de crominancia y luminancia del equipo de radiodifusión, en 
+concreto de los monitores de vídeo; 
+– 
+realizar una prueba general del equipo de producción, emisión y presentación de vídeo; 
+– 
+determinar que un circuito de vídeo está activo y que se dispone del audio asociado. 
+Esta carta de ajuste no está prevista para ajustar el nivel de negro, para lo que es más conveniente 
+utilizar una señal PLUGE. 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+3 
+ 
+3 
+Tipos de sistemas 
+La carta de ajuste descrita en esta Recomendación está prevista para su utilización con la 
+Recomendación UIT-R BT.2100. Estos sistemas se distinguen por la proporción de la codificación 
+de color (o «colorimetría») y por la resolución. 
+4 
+Secciones de la carta de ajuste1 
+En la Fig. 1 se muestran las distintas secciones de la carta de ajuste para el sistema híbrido log-gamma 
+(HLG) con codificación de gama reducida. En la Fig. 2 se muestra la carta de ajuste para el sistema 
+de cuantización perceptiva (PQ) con codificación de gama reducida y en la Fig. 3 se puede ver la 
+carta de ajuste para el sistema PQ con codificación de gama completa. En la Fig. 4 se muestra un 
+diagrama de color. Véanse también los Adjuntos 1 y 2 al Anexo 1. 
+5 
+Precisión del valor del código de la carta de ajuste 
+Se proporcionan valores de código de 10 y 12 bits para todos los niveles de señal que componen la 
+carta de ajuste. 
+Es bien sabido que, en general, la producción y distribución de productos de radiodifusión se basa en 
+flujos de señales con una precisión de 10 bits, si bien existen situaciones y procesos en los que las 
+señales de 10 bits se convierten a 12 bits. 
+A fin de garantizar la interoperabilidad del uso de cartas de ajuste entre trayectos de señales de gama 
+reducida de 10 y 12 bits, los valores de código de 10 bits se definen como los valores de código 
+primarios a partir de los cuales todos los valores de código de 12 bits derivados mantienen una 
+precisión de 10 bits. 
+ 
+1 Conviene que los implementadores incluyan en esta señal de prueba alguna identificación visual del formato 
+de señal (HLG gama reducida, PQ gama reducida o PQ gama completa). La carta de ajuste incluye barras 
+grises (superior izquierda y superior derecha) que pueden opcionalmente utilizarse para este y/o para otros 
+fines. 
+
+4 
+Rec.  UIT-R  BT.2111-3 
+FIGURA 1 
+Carta de ajuste para HLG gama reducida 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+5 
+ 
+FIGURA 2 
+Carta de ajuste para PQ gama reducida 
+ 
+
+6 
+Rec.  UIT-R  BT.2111-3 
+FIGURA 3 
+Carta de ajuste para PQ gama completa 
+ 
+NOTA – La posición de la sección «rampa» de la carta de ajuste para PQ gama completa ajusta el nivel del 
+0 % al borde izquierdo de la barra de color verde (véase el Cuadro 6). Esta posición difiere ligeramente de las 
+presentadas en ediciones anteriores de la presente Recomendación. 
+CUADRO 1 
+Tamaño de la barra en formato 2K, 4K y 8K 
+Tamaño de 
+la barra  
+(píxel) 
+2K 
+4K 
+8K 
+a 
+1 920 
+3 840 
+7 680 
+b 
+1 080 
+2 160 
+4 320 
+c 
+240 
+480 
+960 
+d 
+206 
+412 
+824 
+e 
+204 
+408 
+816 
+f 
+136 
+272 
+544 
+g 
+70 
+140 
+280 
+h 
+68 
+136 
+272 
+i 
+238 
+476 
+952 
+j 
+438 
+876 
+1 752 
+k 
+282 
+564 
+1 128 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+7 
+ 
+FIGURA 4 
+Diagrama de color de la carta de ajuste 
+ 
+CUADRO 2 
+Nivel de la señal para HLG gama reducida 
+ 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+100% Blanco 
+940 
+940 
+940 
+3 760 
+3 760 
+3 760 
+100% Amarillo 
+940 
+940 
+64 
+3 760 
+3 760 
+256 
+100% Cian 
+64 
+940 
+940 
+256 
+3 760 
+3 760 
+100% Verde 
+64 
+940 
+64 
+256 
+3 760 
+256 
+100% Magenta 
+940 
+64 
+940 
+3 760 
+256 
+3 760 
+100% Rojo 
+940 
+64 
+64 
+3 760 
+256 
+256 
+100% Azul 
+64 
+64 
+940 
+256 
+256 
+3 760 
+75% Blanco 
+721 
+721 
+721 
+2 884 
+2 884 
+2 884 
+75% Amarillo 
+721 
+721 
+64 
+2 884 
+2 884 
+256 
+75% Cian 
+64 
+721 
+721 
+256 
+2 884 
+2 884 
+75% Verde 
+64 
+721 
+64 
+256 
+2 884 
+256 
+75% Magenta 
+721 
+64 
+721 
+2 884 
+256 
+2 884 
+75% Rojo 
+721 
+64 
+64 
+2 884 
+256 
+256 
+75% Azul 
+64 
+64 
+721 
+256 
+256 
+2 884 
+40% Gris 
+414 
+414 
+414 
+1 656 
+1 656 
+1 656 
+−7% Escalón (1) 
+4 
+4 
+4 
+16 
+16 
+16 
+0% Escalón 
+64 
+64 
+64 
+256 
+256 
+256 
+10% Escalón 
+152 
+152 
+152 
+608 
+608 
+608 
+20% Escalón 
+239 
+239 
+239 
+956 
+956 
+956 
+ 
+
+8 
+Rec.  UIT-R  BT.2111-3 
+CUADRO 2 (fin) 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+30% Escalón 
+327 
+327 
+327 
+1 308 
+1 308 
+1 308 
+40% Escalón 
+414 
+414 
+414 
+1 656 
+1 656 
+1 656 
+50% Escalón 
+502 
+502 
+502 
+2 008 
+2 008 
+2 008 
+60% Escalón 
+590 
+590 
+590 
+2 360 
+2 360 
+2 360 
+70% Escalón 
+677 
+677 
+677 
+2 708 
+2 708 
+2 708 
+80% Escalón 
+765 
+765 
+765 
+3 060 
+3 060 
+3 060 
+90% Escalón 
+852 
+852 
+852 
+3 408 
+3 408 
+3 408 
+100% Escalón 
+940 
+940 
+940 
+3 760 
+3 760 
+3 760 
+109% Escalón (2) 
+1 019 
+1 019 
+1 019 
+4 076 
+4 076 
+4 076 
+Véanse la Fig. 5 y el Cuadro 5 
+75% BT.709 Amarillo 
+713 
+719 
+316 
+2 852 
+2 876 
+1 264 
+75% BT.709 Cian 
+538 
+709 
+718 
+2 152 
+2 836 
+2 872 
+75% BT.709 Verde 
+512 
+706 
+296 
+2 048 
+2 824 
+1 184 
+75% BT.709 Magenta 
+651 
+286 
+705 
+2 604 
+1 144 
+2 820 
+75% BT.709 Rojo 
+639 
+269 
+164 
+2 556 
+1 076 
+656 
+75% BT.709 Azul 
+227 
+147 
+702 
+908 
+588 
+2 808 
+0% Negro 
+64 
+64 
+64 
+256 
+256 
+256 
+−2% Negro (3) 
+48 
+48 
+48 
+192 
+192 
+192 
++2% Negro (4) 
+80 
+80 
+80 
+320 
+320 
+320 
++4% Negro 
+99 
+99 
+99 
+396 
+396 
+396 
+(1) El valor de código del escalón de −7% aproximadamente es el valor mínimo permitido de la gama de 
+datos de vídeo especificada en la Rec. UIT-R BT.2100 para señales de gama reducida. 
+(2) El valor de código de la zona de imagen de +109% aproximadamente es el valor máximo permitido de la 
+gama de datos de vídeo especificada en la Rec. UIT-R BT.2100 para señales de gama reducida. 
+(3) El valor de código de la señal de gama reducida correspondiente al nivel de negro de −2% 
+aproximadamente equivale al del «nivel ligeramente más oscuro» de la Rec. UIT-R BT.814. 
+(4) El valor de código de la señal de gama reducida correspondiente al nivel de negro de +2% 
+aproximadamente equivale al del «nivel ligeramente más claro» de la Rec. UIT-R BT.814. 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+9 
+ 
+CUADRO 3 
+Nivel de la señal para PQ gama reducida 
+ 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+100% Blanco 
+940 
+940 
+940 
+3 760 
+3 760 
+3 760 
+100% Amarillo 
+940 
+940 
+64 
+3 760 
+3 760 
+256 
+100% Cian 
+64 
+940 
+940 
+256 
+3 760 
+3 760 
+100% Verde 
+64 
+940 
+64 
+256 
+3 760 
+256 
+100% Magenta 
+940 
+64 
+940 
+3 760 
+256 
+3 760 
+100% Rojo 
+940 
+64 
+64 
+3 760 
+256 
+256 
+100% Azul 
+64 
+64 
+940 
+256 
+256 
+3 760 
+58% Blanco (1) 
+573 
+573 
+573 
+2 292 
+2 292 
+2 292 
+58% Amarillo (1) 
+573 
+573 
+64 
+2 292 
+2 292 
+256 
+58% Cian (1) 
+64 
+573 
+573 
+256 
+2 292 
+2 292 
+58% Verde (1) 
+64 
+573 
+64 
+256 
+2 292 
+256 
+58% Magenta (1) 
+573 
+64 
+573 
+2 292 
+256 
+2 292 
+58% Rojo (1) 
+573 
+64 
+64 
+2 292 
+256 
+256 
+58% Azul (1) 
+64 
+64 
+573 
+256 
+256 
+2 292 
+40% Gris 
+414 
+414 
+414 
+1 656 
+1 656 
+1 656 
+−7% Escalón (2) 
+4 
+4 
+4 
+16 
+16 
+16 
+0% Escalón 
+64 
+64 
+64 
+256 
+256 
+256 
+10% Escalón 
+152 
+152 
+152 
+608 
+608 
+608 
+20% Escalón 
+239 
+239 
+239 
+956 
+956 
+956 
+30% Escalón 
+327 
+327 
+327 
+1 308 
+1 308 
+1 308 
+40% Escalón 
+414 
+414 
+414 
+1 656 
+1 656 
+1 656 
+50% Escalón 
+502 
+502 
+502 
+2 008 
+2 008 
+2 008 
+60% Escalón 
+590 
+590 
+590 
+2 360 
+2 360 
+2 360 
+70% Escalón 
+677 
+677 
+677 
+2 708 
+2 708 
+2 708 
+80% Escalón 
+765 
+765 
+765 
+3 060 
+3 060 
+3 060 
+90% Escalón 
+852 
+852 
+852 
+3 408 
+3 408 
+3 408 
+100% Escalón 
+940 
+940 
+940 
+3 760 
+3 760 
+3 760 
+109% Escalón 
+1 019 
+1 019 
+1 019 
+4 076 
+4 076 
+4 076 
+Rampa 
+Véanse la Fig. 5 y el Cuadro 5 
+58% BT.709 Amarillo (1) 
+569 
+572 
+381 
+2 276 
+2 288 
+1 524 
+58% BT.709 Cian (1) 
+485 
+566 
+571 
+1 940 
+2 264 
+2 284 
+58% BT.709 Verde (1) 
+474 
+565 
+368 
+1 896 
+2 260 
+1 472 
+58% BT.709 Magenta (1) 
+537 
+362 
+564 
+2 148 
+1 448 
+2 256 
+58% BT.709 Rojo (1) 
+531 
+351 
+257 
+2 124 
+1 404 
+1 028 
+58% BT.709 Azul (1) 
+318 
+236 
+563 
+1 272 
+944 
+2 252 
+
+10 
+Rec.  UIT-R  BT.2111-3 
+CUADRO 3 (fin) 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+0% Negro 
+64 
+64 
+64 
+256 
+256 
+256 
+−2% Negro (3) 
+48 
+48 
+48 
+192 
+192 
+192 
++2% Negro (4) 
+80 
+80 
+80 
+320 
+320 
+320 
++4% Negro 
+99 
+99 
+99 
+396 
+396 
+396 
+(1) Los valores de código de los niveles del 58% aproximadamente corresponden al 75%HLG del nivel de 
+referencia de 1 000 cd/m2 (203,15 cd/m2). Los valores de código difieren ligeramente de los especificados 
+en ediciones anteriores de la presente Recomendación. 
+(2) El valor de código del escalón de −7% aproximadamente es el valor mínimo permitido de la gama de 
+datos de vídeo especificada en la Rec. UIT-R BT.2100 para señales de gama reducida. 
+(3) El valor de código de la señal de gama reducida correspondiente al nivel de negro de −2% 
+aproximadamente equivale al del «nivel ligeramente más oscuro» de la Rec. UIT-R BT.814. 
+(4) El valor de código de la señal de gama reducida correspondiente al nivel de negro de +2% 
+aproximadamente equivale al del «nivel ligeramente más claro» de la Rec. UIT-R BT.814. 
+ 
+CUADRO 4 
+Nivel de la señal para PQ gama completa 
+ 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+100% Blanco 
+1 023 
+1 023 
+1 023 
+4 095 
+4 095 
+4 095 
+100% Amarillo 
+1 023 
+1 023 
+0 
+4 095 
+4 095 
+0 
+100% Cian 
+0 
+1 023 
+1 023 
+0 
+4 095 
+4 095 
+100% Verde 
+0 
+1 023 
+0 
+0 
+4 095 
+0 
+100% Magenta 
+1 023 
+0 
+1 023 
+4 095 
+0 
+4 095 
+100% Rojo 
+1 023 
+0 
+0 
+4 095 
+0 
+0 
+100% Azul 
+0 
+0 
+1 023 
+0 
+0 
+4 095 
+58% Blanco (1) 
+594 
+594 
+594 
+2 378 
+2 378 
+2 378 
+58% Amarillo (1) 
+594 
+594 
+0 
+2 378 
+2 378 
+0 
+58% Cian (1) 
+0 
+594 
+594 
+0 
+2 378 
+2 378 
+58% Verde (1) 
+0 
+594 
+0 
+0 
+2 378 
+0 
+58% Magenta (1) 
+594 
+0 
+594 
+2 378 
+0 
+2 378 
+58% Rojo (1) 
+594 
+0 
+0 
+2 378 
+0 
+0 
+58% Azul (1) 
+0 
+0 
+594 
+0 
+0 
+2 378 
+40% Gris 
+409 
+409 
+409 
+1 638 
+1 638 
+1 638 
+0% Escalón 
+0 
+0 
+0 
+0 
+0 
+0 
+10% Escalón 
+102 
+102 
+102 
+410 
+410 
+410 
+20% Escalón 
+205 
+205 
+205 
+819 
+819 
+819 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+11 
+ 
+CUADRO 4 (fin) 
+10 bits 
+12 bits 
+Zona de imagen 
+R´ 
+G´ 
+B´ 
+R´ 
+G´ 
+B´ 
+30% Escalón 
+307 
+307 
+307 
+1 229 
+1 229 
+1 229 
+40% Escalón 
+409 
+409 
+409 
+1 638 
+1 638 
+1 638 
+50% Escalón 
+512 
+512 
+512 
+2 048 
+2 048 
+2 048 
+60% Escalón 
+614 
+614 
+614 
+2 457 
+2 457 
+2 457 
+70% Escalón 
+716 
+716 
+716 
+2 867 
+2 867 
+2 867 
+80% Escalón 
+818 
+818 
+818 
+3 276 
+3 276 
+3 276 
+90% Escalón 
+921 
+921 
+921 
+3 686 
+3 686 
+3 686 
+100% Escalón 
+1 023 
+1 023 
+1 023 
+4 095 
+4 095 
+4 095 
+Rampa 
+Véanse la Fig. 6 y el Cuadro 6 
+58% BT.709 Amarillo (1) 
+589 
+593 
+370 
+2 359 
+2 373 
+1 483 
+58% BT.709 Cian (1) 
+491 
+586 
+592 
+1 967 
+2 348 
+2 371 
+58% BT.709 Verde (1) 
+479 
+585 
+355 
+1 918 
+2 342 
+1 423 
+58% BT.709 Magenta (1) 
+552 
+348 
+584 
+2 209 
+1 391 
+2 339 
+58% BT.709 Rojo (1) 
+545 
+335 
+225 
+2 181 
+1 339 
+901 
+58% BT.709 Azul (1) 
+296 
+201 
+582 
+1 186 
+806 
+2 331 
+0% Negro 
+0 
+0 
+0 
+0 
+0 
+0 
++2% Negro (2) 
+19 
+19 
+19 
+75 
+75 
+75 
++4% Negro 
+41 
+41 
+41 
+164 
+164 
+164 
+(1) Los valores de código de los niveles del 58% aproximadamente corresponden al 75%HLG del nivel de 
+referencia de 1 000 cd/m2 (203,15 cd/m2). Los valores de código difieren ligeramente de los especificados 
+en ediciones anteriores de la presente Recomendación. 
+(2) El valor de código del nivel de negro de +2% aproximadamente equivale al del «nivel ligeramente más 
+claro» de la Rec. UIT-R BT.814. Los valores de código difieren ligeramente de los especificados en 
+ediciones anteriores de la presente Recomendación. 
+ 
+
+12 
+Rec.  UIT-R  BT.2111-3 
+FIGURA 5 
+Niveles de la señal de la rampa para HLG/PQ gama reducida 
+ 
+CUADRO 5 
+Ancho de la rampa para HLG/PQ gama reducida en formato 2K, 4K y 8K 
+Ancho 
+(píxel) 
+2K 
+4K 
+8K 
+10 bits 
+12 bits 
+10 bits 
+12 bits 
+10 bits 
+12 bits 
+A 
+1 680 
+1 680 
+3 360 
+3 360 
+6 720 
+6 720 
+B 
+559 
+559 
+1 118 
+1 117 
+2 236 
+2 233 
+C (1) 
+1 014 
+1 015 
+2 028 
+2 031 
+4 056 
+4 062 
+D 
+107 
+106 
+214 
+212 
+428 
+425 
+E (2) 
+59 
+59 
+118 
+119 
+236 
+239 
+F (3) 
+935 
+935 
+1 870 
+1 871 
+3 740 
+3 743 
+(1) C corresponde a la gama de nivel de señal de 5 a 1 018 en 10 bits y de 17 a 4 078 en 8K 12 bits, 18 a 
+4 078 en 4K 12 bits, y 20 a 4 076 en 2K 12 bits. 
+(2) E corresponde a la gama de nivel de señal de 5 a 63 en 10 bits y de 17 a 255 en 8K 12 bits, 18 a 254 en 
+4K 12 bits, y 20 a 252 en 2K 12 bits. 
+(3) F corresponde a la gama de nivel de señal de 5 a 939 en 10 bits y de 17 a 3 759 en 8K 12 bits, 18 a 3 758 
+en 4K 12 bits, y 20 a 3 756 en 2K 12 bits. 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+13 
+ 
+FIGURA 6 
+Nivel de la señal de la rampa para PQ gama completa 
+ 
+CUADRO 6 
+Ancho de la rampa para PQ gama completa en formato 2K, 4K y 8K 
+Ancho 
+(píxel) 
+2K 
+4K 
+8K 
+10 bits 
+12 bits 
+10 bits 
+12 bits 
+10 bits 
+12 bits 
+A 
+1 680 
+1 680 
+3 360 
+3 360 
+6 720 
+6 720 
+B (2) 
+618 
+618 
+1 236 
+1 236 
+2 472 
+2 472 
+C (1) 
+1 022 
+1 023 
+2 044 
+2 047 
+4 088 
+4 094 
+D (2) 
+40 
+39 
+80 
+77 
+160 
+154 
+(1) C corresponde a la gama de nivel de señal de 1 a 1 022 en 10 bits y de 1 a 4 094 en 8K 12 bits, 2 a 4 094 
+en 4K 12 bits, y 4 a 4 092 en 2K 12 bits. 
+(2) Los valores indicados en la columna «Ancho (píxel)» B y D difieren ligeramente de los especificados en 
+ediciones anteriores de la presente Recomendación. 
+ 
+
+14 
+Rec.  UIT-R  BT.2111-3 
+Adjunto 1 
+al Anexo 1 
+(informativo) 
+ 
+Secciones que forman la carta de ajuste HLG 
+FIGURA 7 
+ 
+Barras de color: las principales barras de color son 75%HLG con barras de color 100%HLG en la 
+parte superior. 
+Barras de color BT.709: se generan utilizando HLG OETF y una matriz de precisión limitada idéntica 
+a la descrita en la Recomendación UIT-R BT.2087. Cabe señalar que, si estas barras se generaran 
+utilizando matrices de conversión de color de mayor precisión, en algunos casos podrían obtenerse 
+niveles ligeramente distintos. Las barras de color BT.709 se sitúan en las partes inferior izquierda e 
+inferior derecho para evitar solapamientos con las barras de color principales en el monitor de forma 
+de onda. 
+Rampa: los niveles van de −7%HLG a 109%HLG. El nivel de vídeo 0% se sitúa en el borde izquierdo 
+de la barra verde. 
+Escala: los niveles van de −7%HLG a 109%HLG. El borde izquierdo del escalón 0% se sitúa en el 
+borde izquierdo de la barra amarilla. Intervalos del 10% entre 0%HLG y 100%HLG. El ancho de 
+cada escalón es la mitad de la barra de color. La señal escalón y la señal rampa se sitúan de manera 
+que no se solapen en el monitor de forma de onda. 
+Señal negra: formada por niveles de vídeo de 0%, −2%, 0%, +2%, 0%, +4% y 0% se sitúa en la parte 
+inferior izquierda, lejos de las zonas brillantes para lograr una mejor visibilidad. 
+Barras grises (derecha e izquierda): estas zonas pueden utilizarse para incluir otros ajustes para 
+necesidades especiales. 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+15 
+ 
+NOTA – Los niveles de −7%HLG y 109%HLG aproximadamente se corresponden, respectivamente, con los 
+valores mínimo y máximo permitidos de la gama de datos de vídeo especificada en la 
+Recomendación UIT-R BT.2100 para señales de gama reducida. Los valores de código de los niveles de vídeo 
+de −2% y +2% aproximadamente se corresponden, respectivamente, con los del «nivel ligeramente más 
+oscuro» y el «nivel ligeramente más claro» de la Recomendación UIT-R BT.814. 
+ 
+ 
+Adjunto 2 
+al Anexo 1 
+(informativo) 
+ 
+Forma de onda HLG en un monitor de forma de onda 
+En la Fig. 8 se muestra la forma de onda HLG de la carta de ajuste en un monitor de forma de onda. 
+FIGURA 8 
+Forma de onda en un monitor de forma de onda 
+(rojo, verde y azul, respectivamente) 
+ 
+ 
+ 
+
+16 
+Rec.  UIT-R  BT.2111-3 
+Adjunto 3 
+al Anexo 1 
+(informativo) 
+ 
+Información sobre la conversión de barras de color HLG/BT.2020 
+a SDR/BT.709 
+La Fig. 9 muestra las barras de color HLG/BT.2020, incluidas las barras de color equivalentes 
+BT.709, y sus instantáneas de forma de onda y vectorscopio ajustadas a la colorimetría descrita en la 
+Recomendación UIT-R BT.2020. 
+La Fig. 11 muestra una serie de barras de color convertidas de HLG/BT.2020 a SDR/BT.709 
+utilizando el método de conversión con respecto a la escena ilustrado en la Fig. 10, que es el inverso 
+al establecimiento de correspondencias de SDR a HDR (con respecto a la escena). Cabe tener en 
+cuenta que este método no incluye el ajuste de tonos. Las señales HDR sufren un amplio recorte en 
+el proceso de conversión a SDR. Las barras de color equivalentes BT.709 alcanzan los objetivos del 
+vectorscopio una vez llevada a cabo la conversión con respecto a la escena. 
+La Fig. 13 muestra las barras de color convertidas de HLG/BT.2020 a SDR/BT.709 utilizando el 
+método de conversión con respecto a la pantalla ilustrado en la Fig. 12, que es el inverso al 
+establecimiento de correspondencias de SDR a HLG sin ajuste de gamma (con respecto a la pantalla). 
+Este método no incluye el ajuste de tonos. Las señales HDR sufren un amplio recorte en el proceso 
+de conversión a SDR. Las barras de color equivalentes BT.709 alcanzan posiciones ligeramente 
+distintas de las posiciones objetivo del vectorscopio. 
+En el Cuadro 7 se resumen los niveles de señal tanto para el 75% de barras de color HLG y 
+equivalentes BT.709 de entrada, como para las barras de color SDR/BT.709 convertidas de salida. 
+Las barras de color equivalentes BT.709 se convierten a los mismos niveles de señal que las barras 
+de color SDR/BT.709 originales utilizando el método de conversión con respecto a la escena. Algunos 
+de los niveles de señal de las barras de color SDR obtenidas a raíz del proceso de conversión con 
+respecto a la escena no coinciden del todo con los de las barras SDR/BT.709 originales, por ejemplo, 
+los niveles de señal de la barra verde son (71, 939, 66), en lugar de (64, 940, 64), debido a errores de 
+redondeo. 
+FIGURA 9 
+Barras de color HLG/BT.2020 y sus instantáneas de forma de onda y vectorscopio ajustadas a la colorimetría de BT.2020 
+ 
+FIGURA 10 
+Método de conversión con respecto a la escena de HLG/BT.2020 a SDR/BT.709 
+ 
+
+ 
+Rec.  UIT-R  BT.2111-3 
+17 
+ 
+NOTA – La ganancia se ajusta de tal manera que el 75% de HLG corresponda al 100% de SDR. La matriz de 
+conversión de color es la descrita en el § 2 del Informe UIT-R BT.2407 – «Simple conversion from BT.2020 
+to BT.709 based on linear matrix transformation» (conversión simple de BT.2020 a BT.709 basada en la 
+transformación de matriz lineal). Cabe señalar que la aplicación de otros métodos puede dar lugar a niveles de 
+señal diferentes para las señales de entrada fuera de la amplitud de color de BT.709. 
+FIGURA 11 
+Barras de color convertidas a SDR/BT.709 utilizando la conversión con respecto a la escena  
+y sus instantáneas de forma de onda y vectorscopio ajustadas a la colorimetría de BT.709 
+ 
+FIGURA 12 
+Método de conversión con respecto a la escena de HLG/BT.2020 a SDR/BT.709 
+ 
+NOTA – La ganancia se ajusta de tal manera que el 75% de HLG corresponda al 100% de SDR. La matriz de 
+conversión de color es la descrita en la Fig. 10. 
+FIGURA 13 
+Barras de color convertidas a SDR/BT.709 utilizando la conversión con respecto a la pantalla  
+y sus instantáneas de forma de onda y vectorscopio ajustadas a la colorimetría de BT.709 
+ 
+
+18 
+Rec.  UIT-R  BT.2111-3 
+CUADRO 7 
+Niveles de señal en 10 bits para el 75% de barras de color HLG y equivalentes BT.709  
+de entrada y las barras de color SDR/BT.709 de salida convertidas  
+utilizando los métodos de las Figs. 10 y 12 
+Zona de imagen 
+Nivel de señal  
+de entrada 
+(HLG/BT.2020, 
+10 bits) 
+Nivel de señal de salida (SDR/BT.709, 10 bits) 
+(ajuste de tonos no aplicado;  
+simple conversión de color) 
+Conversión con 
+respecto a la escena 
+Conversión con 
+respecto a la pantalla 
+R 
+G 
+B 
+R 
+G 
+B 
+R 
+G 
+B 
+75% Blanco 
+721 
+721 
+721 
+940 
+940 
+940 
+940 
+940 
+940 
+75% Amarillo 
+721 
+721 
+64 
+940 
+940 
+64 
+940 
+939 
+64 
+75% Cian 
+64 
+721 
+721 
+64 
+940 
+940 
+64 
+940 
+924 
+75% Verde 
+64 
+721 
+64 
+64 
+940 
+64 
+64 
+940 
+64 
+75% Magenta 
+721 
+64 
+721 
+940 
+64 
+940 
+940 
+64 
+894 
+75% Rojo 
+721 
+64 
+64 
+940 
+64 
+64 
+940 
+64 
+64 
+75% Azul 
+64 
+64 
+721 
+64 
+64 
+940 
+64 
+64 
+789 
+75% Amarillo BT.709 
+713 
+719 
+316 
+939 
+940 
+64 
+933 
+934 
+64 
+75% Cian BT.709  
+538 
+709 
+718 
+64 
+940 
+939 
+64 
+924 
+922 
+75% Verde BT.709 
+512 
+706 
+296 
+71 
+939 
+66 
+124 
+915 
+99 
+75% Magenta BT.709 
+651 
+286 
+705 
+940 
+65 
+940 
+854 
+89 
+853 
+75% Rojo BT.709 
+639 
+269 
+164 
+940 
+64 
+64 
+835 
+64 
+64 
+75% Azul BT.709 
+227 
+147 
+702 
+66 
+64 
+940 
+93 
+64 
+768 
+ 
+ 

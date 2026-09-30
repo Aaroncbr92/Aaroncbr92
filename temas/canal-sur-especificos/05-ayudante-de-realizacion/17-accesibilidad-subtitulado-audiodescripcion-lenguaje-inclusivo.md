@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Ayudante de Realización · punto 17 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley 18/2007, de la RTVA; Ley 27/2007, de lenguas de signos; Ley 11/2011 de Andalucía, de lengua de signos española; Ley 11/2023 (título I); Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 8/2017 de Andalucía (personas LGTBI); Carta del Servicio Público de la RTVA 2024-2029 y Contrato-programa 2024-2026; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (2004). Normas técnicas UNE 153010:2012 y 153020:2005, sólo por su ficha de catálogo y por la síntesis de la Universidad de Burgos; ETSI EN 300 743. Como guía de buenas prácticas, no norma: *Guía de buenas prácticas para la incorporación de la lengua de signos española en televisión* (Real Patronato sobre Discapacidad y CNLSE, 2017) y Guía del Consejo Audiovisual de Andalucía sobre discapacidad (2025). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL). Lo demás, oficio declarado como tal |
+| Fuente | Ley 13/2022, General de Comunicación Audiovisual; Ley 10/2018, audiovisual de Andalucía; Ley 18/2007, de la RTVA; Ley 27/2007, de lenguas de signos; Ley 11/2011 de Andalucía, de lengua de signos española; Ley 11/2023 (título I); Ley Orgánica 3/2007; Ley 12/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 8/2017 de Andalucía (personas LGTBI); Constitución Española, art. 49; Real Decreto 1112/2018; X Convenio Colectivo de la RTVA (ficha 5353000); Carta del Servicio Público de la RTVA 2024-2029 y Contrato-programa 2024-2026; *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (2004). Real Decreto 707/2026 (Reglamento de las condiciones básicas de accesibilidad cognitiva, en vigor el 2-I-2027). Normas técnicas UNE 153010:2012 y 153020:2005, sólo por su ficha de catálogo y por la síntesis de la Universidad de Burgos; UNE 153101:2018 EX, por su ficha y por fuente secundaria; ETSI EN 300 743. Como guía de buenas prácticas, no norma: *Guía de buenas prácticas para la incorporación de la lengua de signos española en televisión* (Real Patronato sobre Discapacidad y CNLSE, 2017) y Guía del Consejo Audiovisual de Andalucía sobre discapacidad (2025). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL; Real Decreto 295/2004, actualizada por la Orden PCI/797/2019). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026. Los pasajes tomados de los temas cerrados de Canal Sur (Realizador/a y Operador/a Montador/a de Vídeo), en la redacción vigente el 24-09-2026 y el 29-09-2026; la Ley 8/2017 (una sola redacción, vigente desde el 04-02-2018) y la IMS077_3 (Orden PCI/797/2019), leídas el 29 y el 30-09-2026. Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 18.800 palabras aproximadamente |
+| Extensión | 19.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -31,7 +31,7 @@ la recoge (ISO/IEC 13818-1); tabla de consulta de colores (CLUT, *colour look-up
 vídeo por internet (OTT, *over the top*); televisión híbrida, que une la emisión y la conexión a
 internet (HbbTV, *Hybrid Broadcast Broadband TV*); guía electrónica de programas (EPG); UNE, sigla con
 la que se identifican las normas técnicas españolas (así la usa la LGCA, sin desarrollarla); AENOR, en
-cuyo catálogo en línea constan las fichas de esas normas; Unión Europea (UE); Instituto Nacional de las
+cuyo catálogo en línea constan las fichas de esas normas; EX, sufijo con el que se identifica una norma UNE experimental; Unión Europea (UE); Instituto Nacional de las
 Cualificaciones (INCUAL); en las citas de la cualificación IMS077_3, la unidad de competencia (UC), la
 realización profesional (RP), el criterio de realización (CR) y el módulo formativo (MF); kilobit por
 segundo (kbps); alta definición (HD); definición estándar (SD); formato de barrido progresivo (p) y
@@ -52,7 +52,8 @@ la guía del CNLSE, en qué lado y con qué tamaño se recomienda la ventana, qu
 intérprete; qué distingue un subtítulo abierto de uno cerrado; cuántos caracteres por línea, cuántas
 líneas, qué velocidad y qué permanencia da la síntesis de la UNE 153010, y qué colores son los más
 legibles; qué técnica es la más usada para subtitular en directo; cómo llega el subtítulo cerrado al
-televisor en la TDT; qué son los «bocadillos informativos» y los «huecos de mensaje»; qué pautas sigue
+televisor en la TDT; qué ley reconoce el subtitulado en lectura fácil, cómo la define el Real Decreto
+707/2026 y qué norma UNE la desarrolla; qué son los «bocadillos informativos» y los «huecos de mensaje»; qué pautas sigue
 un guion y una locución de audiodescripción; qué pide la Ley 11/2023 a las guías electrónicas de
 programas y a los servicios de acceso; qué norma estatal fomenta el lenguaje no sexista y cuál manda a
 los medios públicos andaluces promover su uso; qué dice la Ley 8/2017 de la información sobre personas
@@ -81,6 +82,7 @@ persona trans, conservar la accesibilidad en la versión a la carta.
   - [Los criterios de la UNE 153010, según la síntesis de Burgos](#los-criterios-de-la-une-153010-según-la-síntesis-de-burgos)
   - [En diferido y en directo](#en-diferido-y-en-directo)
   - [Cómo llega el subtítulo cerrado al televisor en la TDT](#cómo-llega-el-subtítulo-cerrado-al-televisor-en-la-tdt)
+  - [Subtítulos en lectura fácil](#subtítulos-en-lectura-fácil)
   - [El subtitulado y la realización](#el-subtitulado-y-la-realización)
 - [3. Audiodescripción](#3-audiodescripción)
   - [Qué es](#qué-es)
@@ -830,6 +832,52 @@ todos los canales el receptor debe ser **«compatible con ambos tipos de subtít
 hoy Canal Sur no consta: el folleto, de hacia 2010, decía que **«la mayoría de canales autonómicos»** aún no
 emitía subtítulos DVB, y ese dato no se ha actualizado.
 
+### Subtítulos en lectura fácil
+
+*El derecho.* De las dos leyes audiovisuales, sólo la andaluza usa la expresión: el artículo 9.4 de
+la LAA (epígrafe 1) reconoce a las personas con discapacidad intelectual el derecho a que la televisión
+de cobertura autonómica cuente con **«programas subtitulados según métodos de lectura fácil»**. La LGCA
+no la usa en ningún artículo, ni fija cuota para esa modalidad.
+
+*Qué es.* La define el Reglamento de las condiciones básicas de accesibilidad cognitiva, aprobado por el
+Real Decreto 707/2026, de 2 de septiembre (BOE de 3 de septiembre de 2026), que no está en vigor a
+24-09-2026: **«El presente real decreto entrará en vigor el 2 de enero de 2027.»** (disposición final
+octava). Su artículo 3.i), en la única redacción publicada: **«Lectura fácil: método que recoge un
+conjunto de pautas y recomendaciones relativas a la redacción de textos, al diseño, maquetación y
+formato de publicación de documentos y a la validación de la comprensibilidad de los mismos, destinado
+a hacer accesible la información a las personas con dificultades de comprensión lectora.»** Y remite a
+la norma técnica: **«se recomienda seguir las pautas y recomendaciones señalados por la norma UNE 153101
+en su versión más actualizada o la análoga en vigor.»**
+
+*La norma técnica.* Consta en vigor en el catálogo de AENOR la **UNE 153101:2018 EX**, **«Lectura
+Fácil. Pautas y recomendaciones para la elaboración de documentos»**, con fecha de edición
+**2018-05-03**. Su texto no se ha leído. Según el artículo que publicó la propia Asociación Española de
+Normalización en su revista (*Revista de la Normalización Española*, n.º 4, junio de 2018), es
+experimental (la «EX» de su código) porque **«es la primera norma que plantea esta temática desde un
+Organismo de Normalización»**, y **«Aborda la descripción de dos procesos de trabajo en la elaboración
+de documentos en Lectura Fácil: la adaptación y la creación. Ambos incluyen la Fase de Validación, en la
+que la figura de la persona con dificultades de comprensión lectora tiene el papel protagonista»**.
+
+*Qué cambia en el subtítulo: no consta.* La UNE 153101 es una norma para documentos escritos. Ninguna
+fuente leída la aplica al subtitulado, y no se ha encontrado norma técnica del «subtitulado según
+métodos de lectura fácil» que reconoce la LAA. El artículo de Oncins (arriba) sólo apunta la tendencia:
+**«la Lectura Fácil se está convirtiendo en una modalidad de accesibilidad en los medios»**. Tampoco
+consta en la Carta ni en el Contrato-programa un compromiso de Canal Sur con esa modalidad. Y el
+reglamento de 2026 no la impone a la programación de televisión, porque la remite a la LGCA (artículo
+6.1, párrafo segundo): **«En el caso de los prestadores del servicio de comunicación audiovisual
+televisivo, las medidas de accesibilidad se regirán por lo establecido en el capítulo II del título VI
+de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, así como en la Ley 11/2023, de 8
+de mayo»**.
+
+*Lo que llega a la puesta en antena.* Lo más cercano es una recomendación, no una obligación: el
+Consejo Audiovisual de Andalucía, en sus *Recomendaciones para el tratamiento informativo de la
+discapacidad* (2025; es la Guía del CAA del epígrafe 4), recomendación 3, pide que **«En los textos informativos que van dirigidos de forma
+específica o prioritaria a este colectivo debe utilizarse un lenguaje claro, sencillo, que favorezca su
+derecho a la información.»** El lenguaje sencillo del reglamento (artículo 3.k: **«la utilización de
+frases cortas, el recurso a palabras de uso común o la sustitución de acrónimos, pudiendo apoyarse en
+imágenes»**) es un buen criterio para el texto de un rótulo o un faldón de servicio, pero aplicarlo a la
+antena es oficio, no obligación.
+
 ### El subtitulado y la realización
 
 Nada de lo que sigue lo fija una norma leída para la realización; son consecuencias de los criterios
@@ -1247,7 +1295,10 @@ Aplicado a lo que sale por el control (oficio, sobre las reglas anteriores):
 - *El subtítulo, literal.* La síntesis de la UNE 153010 pide que los subtítulos sean, **«en la
   medida de lo posible»**, literales (epígrafe 2): el subtitulado reproduce lo que se dice, también
   cuando quien habla no usa el lenguaje que la casa usaría en un rótulo. El lenguaje de la casa está
-  en lo que la casa escribe: rótulos, faldones, cabeceras, escaleta (lectura propia).
+  en lo que la casa escribe: rótulos, faldones, cabeceras, escaleta (lectura propia). La salvedad es la
+  palabra peyorativa de «Lo que se dice en plató», arriba: el Libro de estilo la prohíbe **«en nuestros
+  contenidos»**, también en boca de quien hace declaraciones, y ninguna fuente leída dice si eso
+  alcanza al subtítulo; la decisión es de redacción y realización (oficio).
 - *Todo lo que se escribe para la pantalla.* Las reglas anteriores valen para cada elemento que el
   ayudante prepara o comprueba antes del aire: los rótulos de identificación, los faldones, los
   créditos y los textos de la escaleta que acaban en pantalla (oficio).
@@ -1259,7 +1310,7 @@ documento publicado.
 
 La puesta en antena es el último tramo: lo que sale del control y llega a cada salida. Ninguna norma
 leída dice qué le toca en ella al ayudante de realización en materia de accesibilidad; lo que hay es su
-ficha en el convenio, la cualificación profesional del puesto y las reglas de los epígrafes anteriores,
+ficha en el convenio, la cualificación profesional del oficio y las reglas de los epígrafes anteriores,
 que aquí se ordenan por salidas y por momentos.
 
 ### El ayudante y la accesibilidad
@@ -1272,7 +1323,8 @@ realización, en todas aquellas tareas de realización necesarias para la grabac
 programas.»** La ficha no nombra la accesibilidad.
 
 Sí la nombra la cualificación profesional IMS077_3, «Asistencia a la realización en televisión», del
-Catálogo Nacional de Cualificaciones Profesionales (publicada por la Orden PCI/797/2019). Es la
+Catálogo Nacional de Cualificaciones Profesionales (establecida por el Real Decreto 295/2004 y
+actualizada por la Orden PCI/797/2019). Es la
 descripción oficial del oficio, no una norma de la RTVA:
 
 - Competencia general (p. 1): **«Coordinar, organizar y desarrollar las necesidades técnicas,
@@ -1516,9 +1568,12 @@ Lo que dan la norma, la cualificación y las guías, y lo que es oficio:
    ayudante avisa a realización y redacción de que el presentador diga en voz los datos esenciales del
    gráfico (epígrafes 2 y 3; oficio). Y el gráfico no debe caer en el espacio del intérprete.
 6. **El directo.** Si un rótulo tapa el subtítulo o al intérprete, o el intérprete deja de verse, se
-   informa al realizador (IMS077_3, UC0217_3, RP1). Si un invitado usa una palabra peyorativa, el
-   subtítulo la recoge (el subtítulo es literal, epígrafe 2); la realización no le da más plano ni la
-   repite en la edición (Libro de estilo 9.7.3; oficio).
+   informa al realizador (IMS077_3, UC0217_3, RP1). Si un invitado usa una palabra peyorativa, la
+   realización no le da más plano ni la repite en la edición (Libro de estilo 9.7.3; oficio). Qué hace
+   el subtítulo con esa palabra no lo resuelve ninguna fuente leída: la síntesis de la UNE 153010 pide
+   literalidad sólo **«en la medida de lo posible»** (epígrafe 2) y el Libro de estilo prohíbe esas
+   palabras **«en nuestros contenidos»** aunque las diga quien hace declaraciones (epígrafe 4); es una
+   decisión de redacción y realización que se deja fijada antes del directo (oficio).
 7. **Después.** La versión a la carta conserva los subtítulos y la lengua de signos (artículo 31.1.i
    LAA; guía del CNLSE, 6.1), y el programa se señaliza en la EPG como programa con lengua de signos
    (artículo 101.1.h LGCA; guía del CNLSE, 6.4). El clip para redes lleva subtítulo abierto: ninguna
@@ -1554,13 +1609,17 @@ Lo que dan la norma, la cualificación y las guías, y lo que es oficio:
 - Ley 10/2018, de 9 de octubre, audiovisual de Andalucía: artículos 2.1, 6, 9, 31.1, 45.3, 45.4 y
   66.3.c), y disposición transitoria primera.
 - Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la
-  RTVA: artículo 29 y disposiciones adicional segunda y transitoria tercera.
+  RTVA: artículos 4.1.f) (invocado por la Carta) y 29, y disposiciones adicional segunda y transitoria
+  tercera.
 - Ley 27/2007, de 23 de octubre (lenguas de signos españolas y medios de apoyo a la comunicación
   oral): artículos 1, 4.c) e i), 14 (redacción de la Ley 26/2011), 22.1 y 23.
 - Ley 11/2011, de 5 de diciembre, de uso de la lengua de signos española en Andalucía: artículos 5.h),
   n) y ñ) y 16.
 - Ley 11/2023, de 8 de mayo: título I (artículo 2), anexo I (sección IV, letra b), anexo VII
   (definición 40) y disposición final decimoctava.
+- Real Decreto 707/2026, de 2 de septiembre, que aprueba el Reglamento de las condiciones básicas de
+  accesibilidad cognitiva (en vigor el 2 de enero de 2027): artículos 3.i) y k) y 6.1 del reglamento
+  y disposición final octava.
 - Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones
   para dispositivos móviles del sector público: artículo 3.3 y 3.4.e).
 - Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: artículos
@@ -1573,9 +1632,12 @@ Lo que dan la norma, la cualificación y las guías, y lo que es oficio:
   garantía de los derechos de las personas LGTBI: artículo 27 y preámbulo.
 - Ley 8/2017, de 28 de diciembre, para garantizar los derechos, la igualdad de trato y no
   discriminación de las personas LGTBI y sus familiares en Andalucía: artículos 41 y 42.1.
+- Orden PCI/797/2019, de 18 de julio, que actualiza cualificaciones de la familia profesional Imagen y
+  Sonido establecidas por el Real Decreto 295/2004, entre ellas la IMS077_3 (catálogo de
+  cualificaciones, no norma de trabajo).
 - Derogada, sólo como historia: Ley 7/2010 (artículo 8 y disposición transitoria quinta).
 - Normas técnicas, sólo por su ficha de catálogo o por fuente secundaria: UNE 153010:2012, UNE
-  153020:2005 y UNE 139804. Norma técnica europea leída en su texto: ETSI EN 300 743 V1.6.1 (2018-10),
+  153020:2005, UNE 139804 y UNE 153101:2018 EX. Norma técnica europea leída en su texto: ETSI EN 300 743 V1.6.1 (2018-10),
   cláusula 1.
 
 ## Lo que este tema no da, y dónde está
@@ -1603,8 +1665,9 @@ Lo que dan la norma, la cualificación y las guías, y lo que es oficio:
   no localizados.
 - Si la RTVA entra en la expresión «medios de comunicación de titularidad autonómica» de la Ley 8/2017:
   la ley no la nombra.
-- Lectura fácil (artículo 9.4 LAA; UNE 153101:2018 EX): tema 11 del específico de Operador/a Montador/a
-  de Vídeo. Protección de menores, imagen de la igualdad y de la diversidad, tratamiento responsable de
+- El texto de la UNE 153101:2018 EX y una norma técnica del subtitulado en lectura fácil: no se ha
+  leído la primera ni se ha encontrado la segunda.
+- Protección de menores, imagen de la igualdad y de la diversidad, tratamiento responsable de
   imágenes y destellos: tema 16 del específico de Realizador/a. Mezclador, llaves y DVE: tema 9.
   Retornos e intercom: tema 11. Grafismo y zonas seguras: tema 12. Versiones para plataformas y redes:
   tema 15. La LGCA y la LAA enteras: tema 4 del común; las leyes de igualdad, tema 8 del común.
@@ -1617,6 +1680,10 @@ Lo que dan la norma, la cualificación y las guías, y lo que es oficio:
 | Tema 11 del específico de Operador/a Montador/a de Vídeo de Canal Sur (cerrado): audiosubtítulos (Oncins, 2019; Ley 11/2023); LGCA arts. 101.1.g) y h), 104.1.b), 105; LAA art. 31.1.i); Contrato-programa puntos 43, 92, 94 y 95; Real Decreto 1112/2018 art. 3; Ley 11/2023; CAA, *Recomendaciones para el tratamiento informativo de la discapacidad* (2025); tabla del máster | Epígrafes 3 y 5 (copiado literal) | Según ese tema (24 y 25-09-2026) |
 | RTVE, tema 11 del específico de Producción, epígrafe 7 (oficio) | Tabla del grafismo y llave posterior (epígrafe 5) | 30-09-2026 |
 | Ley 8/2017 de Andalucía (BOE-A-2018-1549, una redacción, vigente desde 04-02-2018): capítulo IX, arts. 41 y 42 | Epígrafe 4 | 30-09-2026 |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión» (Orden PCI/797/2019): competencia general y entorno profesional (p. 1), UC0217_3 RP1 (p. 7) y CR2.5 (p. 8), MF0218_3 contenidos (p. 24) | Epígrafe 5 y aplicación práctica | 30-09-2026 |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión» (Real Decreto 295/2004; Orden PCI/797/2019, BOE-A-2019-10917, título leído en el BOE): competencia general y entorno profesional (p. 1), UC0217_3 RP1 (p. 7) y CR2.5 (p. 8), MF0218_3 contenidos (p. 24) | Epígrafe 5 y aplicación práctica | 30-09-2026 |
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III, ficha 5353000 (p. 111) | Epígrafe 5 | Según el tema 3 del específico de Realizador/a (24-09-2026) |
+| Tema 11 del específico de Operador/a Montador/a de Vídeo y tema 10 del específico de Grafista de Canal Sur (cerrados): ficha de AENOR de la UNE 153101:2018 EX; *Revista de la Normalización Española*, n.º 4, junio de 2018 | Epígrafe 2, «Subtítulos en lectura fácil» (copiado literal) | Según esos temas (25 y 29-09-2026) |
+| Real Decreto 707/2026 (BOE-A-2026-18509), redacción aplicable desde el 02-01-2027 (única publicada): reglamento, arts. 3.i) y k) y 6.1; DF 8.ª | Epígrafe 2, «Subtítulos en lectura fácil» | 30-09-2026 |
+| Oncins (2019), p. 97 (2.4, «Lectura Fácil»); CAA, *Recomendaciones…* (2025), recomendación 3; búsqueda de «lectura fácil» en la Carta 2024-2029 y en el Contrato-programa 2024-2026 (sin resultados) | Epígrafe 2, «Subtítulos en lectura fácil» | 30-09-2026 |
+| Libro de estilo, 9.7.3 | Salvedad del subtítulo literal (epígrafe 4 y aplicación práctica, paso 6) | 30-09-2026 |
 | Oficio | Composición del grafismo con subtítulo e intérprete; comprobaciones antes del aire; rótulos de personas trans; subtítulo literal frente al rótulo; supuesto práctico | — |

@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Ayudante de Realización · punto 3 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule la preparación de un programa. X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III, fichas de puesto; cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (documento publicado del INCUAL); Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0903, 0904, 0905 y 0910): norma de enseñanza, no norma del oficio; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., 2004); especificación del protocolo MOS. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Libro de Estilo de 2004. Fuentes leídas el 24-09-2026 (texto tomado de los temas 2 y 3 de Realizador/a) y el 29-09-2026 (lo añadido en este tema) |
-| Extensión | 12.200 palabras aproximadamente |
+| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio). IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019). Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Libro de Estilo de 2004. Fuentes leídas el 24-09-2026 (texto tomado de los temas 2 y 3 de Realizador/a), el 29-09-2026 (lo añadido en este tema) y el 30-09-2026 (el minutado del RD, módulo 0905). Estas dos últimas fechas son las del reloj del sistema, posteriores al día del encargo (24-09-2026), y se declaran tal cual |
+| Extensión | 12.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -72,6 +72,7 @@ de material antes de entrar en antena.
   - [El plan de trabajo y la orden de trabajo](#el-plan-de-trabajo-y-la-orden-de-trabajo)
   - [Las fichas vecinas: con quién trabaja](#las-fichas-vecinas-con-quién-trabaja)
   - [A qué departamento se pide qué](#a-qué-departamento-se-pide-qué)
+  - [La reunión de coordinación](#la-reunión-de-coordinación)
   - [El estado de las tareas, las citaciones y los ensayos](#el-estado-de-las-tareas-las-citaciones-y-los-ensayos)
 - [4. Flujos de trabajo con las áreas](#4-flujos-de-trabajo-con-las-áreas)
   - [Producción](#producción)
@@ -325,6 +326,13 @@ esta lista):
 | Cámaras, posiciones y personas de cada bloque | Invitado sin posición, cámara sin plano asignado |
 | Textos del presentador en el autocue | Texto que no corresponde a la escaleta vigente |
 | Pausas publicitarias y hora de entrada y de salida | Desajuste con continuidad |
+
+Coleo y pie, que el tema usa a menudo, son datos del minutado de cada pieza, que se estudia en el
+tema 2. El coleo es el margen de imagen que la pieza lleva antes y después de lo que se emite; el pie
+de salida, la última frase (pie de texto) o la última acción (pie de acción) de la pieza, que avisa al
+control de que termina (oficio). El RD 1680/2011 los pone entre los seis datos del minutado de una
+pieza: **«duración, coleo de entrada, coleo de salida, pie de texto de salida, pie de acción de salida
+y descripción del último cuadro de vídeo»** (módulo 0905, RA 1.b).
 
 Cada cambio que la revisión encuentra se traslada a todos los documentos que cuelgan de la escaleta:
 rótulos, autocue, piezas, planificación de cámaras y guion de trabajo del control (oficio, con la
@@ -596,11 +604,11 @@ toma.»** (módulo 0903, RA 2.b), y la disponibilidad previa: **«Se ha verifica
 equipamiento técnico para el día de rodaje/grabación, según los desgloses de las secuencias que se
 van a registrar y los listados de recursos.»** (RA 2.a).
 
-La cualificación ordena así las primeras tareas de una grabación multicámara (MF0217_3, CE1.9,
-p. 18): **«Elaborar el desglose de los bloques de grabación.»**; **«Seleccionar el material y equipo
-técnico necesario.»**; **«Seleccionar el material audiovisual e infográfico necesario.»**;
-**«Planificar la grabación.»** Primero el desglose, después los medios y el material, y al final el
-plan.
+El CE1.9 citado en «La selección de medios técnicos» es un supuesto práctico de realización
+multicámara, no un orden prescrito, pero su lista pone las dos selecciones entre **«Elaborar el
+desglose de los bloques de grabación.»** y **«Planificar la grabación.»** (MF0217_3, CE1.9, p. 18).
+Leído en ese orden, primero el desglose, después los medios y el material, y al final el plan
+(lectura del CE1.9).
 
 ## 3. Coordinación previa
 
@@ -693,10 +701,34 @@ los departamentos varían de una casa a otra, y el vocabulario de taller no est�
 La regla que ordena el reparto: carpintería hace lo que sostiene, ambientación pone lo que se
 ve encima. Una pared es carpintería; el cuadro colgado en esa pared es ambientación.
 
+Los dos cuadros se leen juntos: un grupo electrógeno para una localización exterior lo pide
+producción, que tramita **«las peticiones del material audiovisual, vehículos, alojamientos, equipos
+para postproducción y demás necesidades materiales para la realización de grabaciones»** (ficha del
+Ayudante de Producción, citada arriba), y lo aporta el departamento que en cada casa tenga los medios
+técnicos auxiliares (oficio). El ayudante de realización lo anota como necesidad y comprueba que
+llega.
+
 Qué es una carra: un panel de decorado, el módulo de pared con que se levanta un plató. Se
 construye con bastidor de madera y superficie de tablero o de tela, y es literalmente carpintería:
 un elemento de madera fabricado en el taller. Si hay que solicitar una carra, el departamento al que
 se le pide es carpintería.
+
+### La reunión de coordinación
+
+Antes de un programa o de una grabación, las áreas que intervienen se reúnen para ponerlo en común.
+Es la reunión de coordinación, que según el programa y la casa se llama de producción o de escaleta.
+Todo este epígrafe es oficio: ninguna fuente leída (convenio, cualificación IMS077_3, RD 1680/2011,
+Libro de Estilo) regula esa reunión ni dice quién la convoca. Asisten, según lo que el programa
+necesite, la dirección o la edición del programa, el realizador y su ayudante, producción, redacción
+y las áreas técnicas y artísticas (iluminación, sonido, grafismo, decoración). Se repasan la escaleta,
+las necesidades de cada bloque, los horarios y las citaciones, y los cambios sobre lo previsto.
+
+El ayudante no dirige la reunión ni decide en ella: toma nota de lo acordado, lo vuelca en la
+escaleta técnica y en lo que cuelga de ella, y lo traslada a cada área. Es lo que pide la
+cualificación cuando le encarga valorar la escaleta técnica **«supervisando y transmitiendo el
+desarrollo de cualquier variación apuntada sobre el plan original»** (UC0216_3, CR1.4, citado en
+«Qué revisa el ayudante»). Después da cuenta al realizador y a producción de cómo van las tareas
+acordadas (CR3.7, en el epígrafe siguiente).
 
 ### El estado de las tareas, las citaciones y los ensayos
 
@@ -1036,9 +1068,9 @@ para un supuesto práctico posible (no hay exámenes anteriores que digan cuál)
 | Preparación | Estado de las tareas (CR3.7) | Realizador, producción |
 | Víspera | Orden de trabajo del día, sacada del plan de trabajo: citaciones, horarios, ensayos | Producción |
 | Día de grabación o de emisión | Revisar la escaleta vigente: duraciones, piezas, pies, coleos, rótulos, conexiones, autocue | Redacción, dirección del programa |
+| Ensayo | La puesta en escena se ensaya contra la escaleta técnica y las indicaciones del realizador (UC0216_3, CR4.7) | Realizador, plató |
 | Antes de entrar | Comprobar parte de emisión, códigos, coleos, duraciones, plantilla de rótulos, disponibilidad de medios; equipos del control listos (UC0217_3, CR1.1 a CR1.8 y CR3.1; MF0217_3, CE1.5) | Técnica, grafismo, sonido |
 | Antes de entrar | Hora de entrada y tiempos de publicidad a continuidad (CR2.6) | Continuidad |
-| Ensayo | La puesta en escena se ensaya contra la escaleta técnica y las indicaciones del realizador (UC0216_3, CR4.7) | Realizador, plató |
 
 Cuatro casos de oficio para practicar la prueba práctica:
 
@@ -1085,7 +1117,7 @@ Cuatro casos de oficio para practicar la prueba práctica:
 - *La lista de lo que se revisa en una escaleta* y *el cuadro de flujos por área*: son ordenación de
   oficio o lectura de las fuentes, no texto de ninguna.
 - *Qué es la escaleta, la escaleta matriz, la de realización y la técnica; los campos que les da el
-  Libro de Estilo; el minutado; la planta y la planificación de cámaras; partes y listados*: tema 2.
+  Libro de Estilo; el minutado (con sus coleos y pies); la planta y la planificación de cámaras; partes y listados*: tema 2.
 - *La organización del control y sus equipos*: tema 4. *Puesta en escena y ensayos*: tema 5. *Las
   órdenes, el cronometraje y las incidencias en el directo*: tema 6. *Iluminación, sonido y grafismo
   para realización*: temas 10, 11 y 12. *Postproducción*: tema 13. *La regiduría y la coordinación
@@ -1099,9 +1131,12 @@ Cuatro casos de oficio para practicar la prueba práctica:
 | X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014, anexo III: fichas 5353000 Ayudante de Realización (p. 111), 5351000 Realizador (p. 196), 5331000 Productor/a (p. 194), 5352000 Ayudante Técnico Mezclador (p. 115), 5341310 Cámara Operador (p. 116), 5333000 Decorador (p. 123), 5341111 Iluminador Superior (p. 133), 5345100 Grafista (p. 129), 9540003 Estilista (p. 128), 5302010 Editor de Continuidad (p. 125) | Funciones del ayudante y de los puestos vecinos; plan de trabajo del productor; continuidad | 24-09-2026 (texto de los temas 3 y 4 de Realizador/a) |
 | El mismo convenio, anexo III: fichas 5212705 Ayudante de Producción (p. 110), 5212101 Redactor (p. 198), 5213209 Documentalista (p. 124), 5213213 Ayudante de Archivo y Documentación (p. 108), 5333100 Ayudante de Decoración (p. 109), 5213200 J. Dpto. Archivo y Documentación (p. 135, sólo su existencia); ficha 5333000 Decorador (p. 123), tareas de localización y construcción | Flujos con producción, redacción, documentación y decoración; a quién se pide qué | 29-09-2026 |
 | INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): ámbito profesional (p. 1); UC0216_3 (RP1 a RP4, CR1.1 a CR1.5, CR2.1 a CR2.4, CR3.1 a CR3.7, CR4.1, CR4.2, CR4.7, CR5.4; contexto profesional y medios, p. 5); UC0217_3 (RP1, CR1.1 a CR1.8, CR2.5 a CR2.7, CR2.9, CR3.1 a CR3.5); UC0218_3 (CR3.2, CR3.4; medios, p. 11); MF0216_3 (CE2.7, CE5.1, CE8.2); MF0217_3 (CE1.5, CE1.9, CE2.1, CE3.3) | Todo el trabajo previo del ayudante: escaleta técnica, localizaciones, material, rótulos, comprobaciones en el control, avisos, flujos por área | 24-09-2026 y 29-09-2026 |
-| Real Decreto 1680/2011, BOE-A-2011-19599, texto original: módulo 0902 (RA 4.b, 4.c, 4.f, 7.a, 7.e, 7.f), 0903 (RA 2.a, 2.b, 3.a y contenidos), 0904 (RA 2, 2.a a 2.d, 2.g, 3.a, 3.c a 3.g, 4.d a 4.g, 5.a, 5.b y contenidos), 0905 (RA 1.f, 5.c), 0910 (RA 4.a, 4.d) | Desglose, necesidades técnicas, plan de trabajo, comprobaciones de grabación, citaciones, documentación, continuidad | 24-09-2026 y 29-09-2026 |
+| Real Decreto 1680/2011, BOE-A-2011-19599, texto original: módulo 0902 (RA 4.b, 4.c, 4.f, 7.a, 7.e, 7.f), 0903 (RA 2.a, 2.b, 3.a y contenidos), 0904 (RA 2, 2.a a 2.d, 2.g, 3.a, 3.c a 3.g, 4.d a 4.g, 5.a, 5.b y contenidos), 0905 (RA 1.b, 1.f, 5.c), 0910 (RA 4.a, 4.d) | Desglose, necesidades técnicas, plan de trabajo, comprobaciones de grabación, citaciones, documentación, continuidad; coleos y pies del minutado | 24-09-2026 y 29-09-2026 (0905 RA 1.b: 30-09-2026) |
 | Real Decreto 500/2024, BOE-A-2024-10685 | Que los módulos citados no se modifican | 24-09-2026 (comprobado en los temas de Realizador/a) |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: cap. 4 (p. 65); 4.4.4 (pp. 77-78); 6.1, 6.1.1, 6.1.2; 7.4 (p. 104); 8.1 (p. 114); 8.3 | Reglas de la escaleta; editor, productor y realizador; previsión de los directos | 24-09-2026 (texto de los temas 2 y 3 de Realizador/a) |
 | MOS Protocol v4.0 (Document Revision 560, 7-VI-2019) y v2.8.5 (7-IX-2017); página «Current Versions» del proyecto MOS; página de definición del protocolo | *Running order* y *rundown*, perfil 2, jerarquía de la escaleta, versiones vigentes (4.0, 2.8.5 y 3.8.4) | 29-09-2026 (definición del protocolo: 24-09-2026, tema 4 de Realizador/a) |
 | Avid, página de producto «MediaCentral \| Newsroom Management» | Sistema de redacción con *rundown* integrado con el control | 29-09-2026 |
-| Oficio | Cuatro cometidos de la asistencia, cadena de la preparación, cronograma, criterios y ficha de localización, cuatro preguntas de la selección de medios, reparto de departamentos de plató y la carra, lista de revisión de escaletas, construcción del plan de trabajo, cuadro de flujos, aplicación práctica | — |
+| Oficio | Cuatro cometidos de la asistencia, reunión de coordinación, definición de coleo y pie, cadena de la preparación, cronograma, criterios y ficha de localización, cuatro preguntas de la selección de medios, reparto de departamentos de plató y la carra, lista de revisión de escaletas, construcción del plan de trabajo, cuadro de flujos, aplicación práctica | — |
+
+Las lecturas fechadas el 29-09-2026 y el 30-09-2026 llevan la fecha del reloj del sistema, posterior
+al día del encargo (24-09-2026).

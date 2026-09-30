@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Ayudante de Realización · punto 15 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2, artículo 101.1.g) y artículo 156.2); Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (artículos 6.8, 7 y 26) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Ayudante de Realización. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 6 y 7; módulos 0902 y 0910), y cualificación profesional IMS077_3, «Asistencia a la realización en televisión» (Real Decreto 295/2004; UC0216_3 y UC0217_3). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS). Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; ficha web de la mochila LiveU LU800; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (2024). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
+| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2, artículo 101.1.g) y artículo 156.2); Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (artículos 6.8, 7 y 26) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Ayudante de Realización. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 6 y 7; módulos 0902 y 0910), y cualificación profesional IMS077_3, «Asistencia a la realización en televisión» (Real Decreto 295/2004, en el texto que publica el INCUAL tras su actualización por la Orden PCI/797/2019; UC0216_3 y UC0217_3). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS), RFC 6707 (CDN) y RFC 3376 (IGMPv3); ISO/IEC 23009-1 (MPEG-DASH), por la página del MPEG y la del DASH-IF. Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; ficha web de la mochila LiveU LU800; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (2024). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Real Decreto 1680/2011 en su texto de 2011 (el Real Decreto 500/2024 lo modifica, pero no toca los artículos ni los módulos que se citan); normas técnicas en las ediciones citadas; páginas de ayuda de YouTube tal como estaban el día en que se leyeron (25-09-2026 y 29-09-2026: son páginas vivas y cambian) |
-| Extensión | 18.800 palabras aproximadamente |
+| Extensión | 19.600 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -52,7 +52,12 @@ Video Services Forum (VSF), que se nombra como lo cita la fuente; modulación po
 dispositivos en red (NDI, *Network Device Interface*); descubrimiento por DNS de multidifusión
 (mDNS); interfaz digital serie (SDI, *serial digital interface*); tarjeta de abonado de telefonía
 móvil (SIM) y redes móviles de cuarta y quinta generación (4G, 5G); retorno de programa sin la propia
-fuente (N-1). Los nombres de producto (YouTube, Shorts, TikTok, Instagram, Facebook, LiveU, DaVinci
+fuente (N-1); red de distribución de contenidos (CDN) y protocolo de gestión de grupos de internet
+(IGMP), que se presentan donde se usan; MPEG-DASH, la norma de *streaming* adaptativo del grupo MPEG,
+y el foro que la promueve (DASH-IF), nombrados como los escriben sus fuentes; ISO/IEC, prefijo de las
+normas conjuntas de la International Organization for Standardization (ISO) y de la IEC; televisión
+híbrida de difusión y banda ancha (HbbTV, *Hybrid broadcast broadband TV*); Centro de Normalización
+Lingüística de la Lengua de Signos Española (CNLSE). Los nombres de producto (YouTube, Shorts, TikTok, Instagram, Facebook, LiveU, DaVinci
 Resolve, Content ID) se escriben como los escribe su fuente.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.5, punto 15): «Realización para
@@ -70,12 +75,12 @@ o a petición para la LGCA; cuánto hay que conservar lo publicado; qué relaci�
 codificación y qué tasas recomienda YouTube; qué sonoridad recomienda la EBU para el *streaming*;
 qué vídeo es un Short; cómo se reencuadra de 16:9 a 9:16 y qué se pierde; cómo se cuenta en redes;
 qué es el *streaming* y en qué se diferencia de la descarga progresiva; qué es contribuir y qué
-distribuir; qué datos necesita el codificador para emitir a una plataforma; qué son RTMP, HLS y SRT
-y cuál es su estatus; qué es una mochila de agregación celular, por dónde se conecta, qué no promete
+distribuir; qué datos necesita el codificador para emitir a una plataforma; qué son RTMP, HLS, MPEG-DASH y SRT
+y cuál es su estatus; qué es una CDN; qué es una mochila de agregación celular, por dónde se conecta, qué no promete
 y qué es la producción remota; cuál es el mayor problema de una videoconferencia; qué parámetros de
 ingesta, qué intervalo de fotograma clave y qué opciones de latencia da YouTube para el directo;
 cómo funciona el directo doble horizontal y vertical; qué es la familia SMPTE ST 2110, qué hace
-PTP, qué es ST 2022-7, NMOS y NDI; qué hace el ayudante en todo ello.
+PTP, cómo se reparte un flujo por multidifusión, qué es ST 2022-7, NMOS y NDI; qué hace el ayudante en todo ello.
 
 <!-- indice -->
 
@@ -131,6 +136,7 @@ PTP, qué es ST 2022-7, NMOS y NDI; qué hace el ayudante en todo ello.
   - [La familia SMPTE ST 2110](#la-familia-smpte-st-2110)
   - [El reloj común: PTP](#el-reloj-común-ptp)
   - [Redundancia y límites de paquete](#redundancia-y-límites-de-paquete)
+  - [Multidifusión: un flujo, muchos receptores](#multidifusión-un-flujo-muchos-receptores)
   - [NMOS: descubrir, conectar y dar piloto en la red](#nmos-descubrir-conectar-y-dar-piloto-en-la-red)
   - [NDI](#ndi)
   - [Comparación](#comparación)
@@ -709,21 +715,22 @@ realizar las piezas cortas que se le encarguen (microespacios, promociones) bajo
 realizador. La cualificación IMS077_3 le da, además, una tarea que alcanza de lleno a las versiones
 para internet: **«La gestión de los derechos de autor o de la propiedad intelectual de los recursos
 audiovisuales y gráficos se supervisa consiguiendo la titularidad de los mismos según la cobertura y
-el tipo de emisión del programa.»** (UC0216_3, CR3.3). Cada salida (antena, Canal Sur Más con
-difusión mundial, redes) es una cobertura distinta, y los derechos se comprueban para cada una. En la
+el tipo de emisión del programa.»** (UC0216_3, CR3.3). La cualificación no habla de salidas ni de
+internet; aplicado a las de Canal Sur (oficio), cada salida (antena, Canal Sur Más con difusión
+mundial, redes) es una cobertura distinta, y los derechos se comprueban para cada una. En la
 práctica (oficio, con los datos de los epígrafes anteriores):
 
 | Qué hace el ayudante | Con qué dato | Dónde se estudia |
 | --- | --- | --- |
 | Pedir antes de grabar qué salidas lleva la pieza y con qué especificaciones, y anotarlo en la orden de trabajo | Las especificaciones de entrega de Canal Sur no constan publicadas: se piden (continuidad y emisión para la antena, Canal Sur Media para lo digital) | «Un máster por destino» |
-| Minutar cada versión, no sólo la de antena | Un vertical o cuadrado de YouTube es Short si no pasa de tres minutos | Epígrafe 2, «Qué vídeo es un Short» |
-| Preparar una exportación por destino, con su nombre de fichero, su identificador y sus metadatos | Un fichero por destino; el identificador no se repite nunca; los metadatos de derechos deciden hasta cuándo puede estar una pieza en línea | «El flujo de trabajo de un canal online», «Publicar» |
+| Minutar cada versión, no sólo la de antena | Un vertical o cuadrado de YouTube es Short si no pasa de tres minutos (canales estándar, vídeos subidos desde el 15-10-2024) | Epígrafe 2, «Qué vídeo es un Short» |
+| Preparar una exportación por destino, con su nombre de fichero, su identificador y sus metadatos | Un fichero por destino; el identificador no se repite nunca; los metadatos de derechos deciden hasta cuándo puede estar una pieza en línea | «Multiplataforma, transmedia y gestor de contenidos», «El flujo de trabajo de un canal online», «Publicar» |
 | Revisar cada versión antes de entregarla | Relación de aspecto sin barras negras; exploración progresiva; sonoridad de su destino; subtítulo abierto o cerrado según la salida; grafismo rehecho para el vertical | «Exportar para YouTube», «La sonoridad del *streaming*», «La accesibilidad de cada versión» y epígrafe 2 |
 | Avisar de lo que no puede salir en internet | Música, archivo o imagen de terceros sin derechos para la web o para la difusión mundial de Canal Sur Más | «El *streaming* en Canal Sur: Canal Sur Más» y epígrafe 2, «Música y derechos» |
 | Prever en la grabación lo que las versiones necesitan | Planos más abiertos o en UHD para reencuadrar, un fotograma o una foto fija para la miniatura, el plano más fuerte para abrir el clip | Epígrafe 2 |
 
-El orden en que el ayudante revisa una versión antes de entregarla es el de la tabla de «Lo que se
-decide para cada salida»: relación de aspecto, exploración, sonoridad, subtítulos, grafismo y
+El orden en que el ayudante revisa una versión antes de entregarla es el de la tabla de «Lo que decide
+el realizador para cada salida»: relación de aspecto, exploración, sonoridad, subtítulos, grafismo y
 duración (oficio).
 
 ## 2. Redes sociales
@@ -1047,6 +1054,19 @@ La palabra se usa para dos cosas que conviene separar (oficio):
 | Qué importa | Latencia baja y constante, y que no se pierdan paquetes | Llegar a muchos a la vez y adaptarse a la red de cada uno |
 | Ejemplo | Una mochila o un codificador enviando por Internet con un protocolo de contribución como SRT | La plataforma OTT de la cadena |
 
+Lo de «llegar a muchos a la vez» tiene un medio propio: la red de distribución de contenidos (CDN,
+*Content Delivery Network* o *Content Distribution Network*). La IETF la define como una
+**«Network infrastructure in which the network elements cooperate at Layers 4 through 7 for more
+effective delivery of Content to User Agents.»** (RFC 6707, septiembre de 2012, informativa, 1.1).
+Su pieza es el sustituto o caché (*surrogate*), que guarda el contenido pedido para poder **«directly
+deliver the same content in response to requests from multiple User Agents (and their End Users),
+avoiding the need for the content to transit multiple times through the network core (i.e., from the
+content origin to the Surrogate).»** (RFC 6707, 1.1); y replicarlo en
+muchos de ellos **«enables content to be served to large numbers of User Agents concurrently»**
+(RFC 6707, 2). Es decir: el espectador no pide la señal al servidor de origen de la cadena, sino a
+la caché que tiene cerca, y el origen no se satura. Qué CDN usa Canal Sur Más no consta en un
+documento publicado.
+
 
 Para el realizador, el primero es una fuente más que entra en su control; el segundo, una salida de
 su programa.
@@ -1084,6 +1104,21 @@ Lo que el realizador tiene que saber de cada uno:
   envía segmentos de vídeo, en vez de una emisión continua como sucede con el protocolo RTMP.»** Y
   cuándo se elige HLS para ingesta: **«si quieres emitir vídeos de alto rango dinámico (HDR) o si
   utilizas códecs que no sean compatibles con el protocolo de mensajería en tiempo real (RTMP)»**.
+
+HLS no es el único *streaming* adaptativo por HTTP. Otro, y éste sí norma internacional, es
+MPEG-DASH, parte 1 de la norma ISO/IEC 23009 (ISO/IEC 23009-1, **«Media presentation description and
+segment formats»**). El MPEG lo presenta así: **«DASH enables the deployment of streaming services
+using the existing low cost and wide-spread Internet infrastructure without any special provisions.
+It supports both on-demand and live streaming»**, y no está atado a un formato: **«has specific
+provisions for the MPEG-4 file format and MPEG-2 Transport Streams, but can be used with any media
+format»**. Según el foro de la industria que lo promueve (DASH-IF), la ISO lo ratificó en
+abril de 2012, **«not owned by any single company»**, y **«DASH will work on any HTTP server»**. La
+página del MPEG (leída el 30-09-2026) da la quinta edición como «released» y la sexta como «ongoing»
+(en elaboración). Diferencia de estatus con HLS: HLS es una RFC informativa, fuera de la vía de normas de Internet;
+DASH, una norma ISO/IEC. En España se ha usado, por ejemplo, en una prueba piloto de RTVE de marzo de
+2016 con lengua de signos: **«streaming en directo del programa «Los desayunos de TVE» utilizando el
+sistema de retransmisión MPEG-DASH, compatible con los televisores HbbTV»** (CNLSE, *Guía de buenas prácticas para la incorporación de la lengua de signos española en
+televisión*, 2017, p. 35).
 
 La página de YouTube sobre los ajustes del codificador (leída el 29-09-2026) matiza lo del HDR:
 **«If you want to stream in HDR, we recommend using H.265 over RTMP(S). If your encoder does not yet
@@ -1383,6 +1418,22 @@ el generador de sincronismos hace en una instalación SDI: que todo vaya al mism
   límite estándar (**«All Receivers shall be capable of receiving UDP packets up to the Standard UDP
   Size Limit.»**, cláusula 6.3).
 
+### Multidifusión: un flujo, muchos receptores
+
+ST 2110-10 obliga a emisores y receptores a admitir la multidifusión (*multicast*) (cláusula 6.5): **«Senders and
+Receivers shall support IPv4 multicast transmission and reception (respectively) of streams including
+IGMP signaling as specified in IETF RFC 3376.»**, con una salvedad: los emisores no usan para medios las
+direcciones de los bloques de control que reserva la RFC 5771 (**«Senders shall not transmit media signals on IPv4
+multicast addresses within the “Local Network Control Block” nor the “Internetwork Control Block”»**). Y también la unidifusión (*unicast*): **«Senders and
+Receivers shall support IPv4 unicast addressing of streams as specified in IETF RFC 791.»** En IPv6,
+ambas son «should» (recomendación, no obligación). IGMP (*Internet Group Management Protocol*,
+versión 3, RFC 3376, octubre de 2002) es, según su propia RFC, **«the protocol used by IPv4 systems to
+report their IP multicast group memberships to neighboring multicast routers.»** Es decir: el emisor
+envía cada flujo una sola vez a una dirección de grupo, y cada receptor que lo quiere se apunta a ese
+grupo; la red lo reparte a todos los apuntados. Así una misma cámara llega a la vez al mezclador, al
+multipantalla y a la grabación sin copiarla en origen (oficio). La propia norma, en su ejemplo de SDP, pone el
+flujo secundario **«on multicast group 239.101.9.10, UDP port 50020»**.
+
 ### NMOS: descubrir, conectar y dar piloto en la red
 
 ST 2110 dice cómo viajan las señales, no cómo se encuentran y se conectan los equipos. De eso se
@@ -1505,7 +1556,7 @@ En ese supuesto, lo que corresponde al ayudante (oficio, con su ficha y la IMS07
   quién tiene las claves; en el 2, marca en la planta y en la escaleta qué debe quedar dentro de la
   franja central.
 - En el ensayo (pasos 4 y 5), mide con el técnico el retardo de la mochila y el de la videollamada, lo
-  comunica al realizador y al presentador, y comprueba pilotos y nombres del multipantalla.
+  comunica al realizador y, por regiduría, al presentador, y comprueba pilotos y nombres del multipantalla.
 - En el directo (paso 7), controla los tiempos de cada bloque teniendo en cuenta que las respuestas
   de las encuestas llegan con la latencia elegida, vigila el retorno de YouTube y comunica cualquier
   incidencia al realizador y al técnico.
@@ -1559,14 +1610,15 @@ Recorrido (oficio, con los datos de los epígrafes citados):
   audiovisuales y espectáculos: artículos 6.b), 7.1 y 7.2.c); módulo 0910, RA 7 (criterios a, c y
   f) y contenidos; módulo 0902, contenidos. Norma de enseñanza.
 - Cualificación profesional IMS077_3 «Asistencia a la realización en televisión» (Real Decreto
-  295/2004): UC0216_3, CR3.3; UC0217_3, RP2 y CR1.8. Catálogo de cualificaciones, no norma de trabajo.
+  295/2004, actualizada por la Orden PCI/797/2019): UC0216_3, CR3.3; UC0217_3, RP2 y CR1.8. Catálogo de cualificaciones, no norma de trabajo.
 
 ## Normas y documentos técnicos que el tema cita
 
 - SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025 (leídas); resto de la familia, por su
   título; SMPTE ST 2022-7 y ST 2059-2, sólo nombradas; IEEE 1588-2008 (PTP), nombrada.
 - EBU R 128 s2, *Loudness in Streaming* (noviembre de 2023); AES TD1008 (2021), por remisión.
-- RFC 8216 (HLS, agosto de 2017, informativa); especificación RTMP de Adobe (21-XII-2012); borrador
+- RFC 8216 (HLS, agosto de 2017, informativa); ISO/IEC 23009-1 (MPEG-DASH), por la página del MPEG y
+  del DASH-IF; RFC 6707 (CDN, septiembre de 2012, informativa); RFC 3376 (IGMPv3, octubre de 2002); RFC 5771, sólo por remisión de ST 2110-10; guía del CNLSE sobre lengua de signos en televisión (2017), p. 35; especificación RTMP de Adobe (21-XII-2012); borrador
   draft-sharabayko-srt-01 (expirado); AMWA NMOS IS-04, IS-05, IS-07 e IS-08; documentación de NDI.
 - YouTube, páginas de ayuda: 6375112, 15424877, 72431 y 1722171 (leídas el 25-09-2026, según los
   temas de los que se copia) y 2474026, 2853702 y 7444635 (leídas el 29-09-2026).
@@ -1609,9 +1661,12 @@ Recorrido (oficio, con los datos de los epígrafes citados):
 | Tema 12 del específico de Operador/a Montador/a de Vídeo (cerrado): *Digital News Report 2026*, YouTube, DaVinci Resolve 21, LGCA art. 156.2 | Epígrafes 1 y 2 | 25-09-2026 (según ese tema) |
 | Tema 9 del específico de Productor/a (cerrado): flujo web, máster por destino, redes, narrativas digitales, Mateu Torres (2024), EBU R 128 s2 | Epígrafes 1 y 2 | Según ese tema |
 | Tema 13 del específico de Cámara Operador (cerrado): *streaming*, RTMP, HLS, SRT, Canal Sur Más, SMPTE ST 2110, PTP, NMOS, NDI; mochilas y producción remota | Epígrafes 1 y 3 | 24-09-2026 (según ese tema) |
-| Tema 3 del específico de Realizador/a de Canal Sur (cerrado): ficha 5353000 del X Convenio (p. 111) | «De dónde sale este tema» | 24-09-2026 (según ese tema) |
+| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10/12/2014: anexo III, ficha 5353000 (p. 111) | «De dónde sale este tema»; supuesto de la promoción | 30-09-2026 |
 | RTVE, tema 18 del específico de Realización (Asistencia) (§§ 2, 5, 6 y 8) y tema 16 (§§ 7, 8 y 9) | Funciones del CMS, protocolos, lista y escaleta, límites del vídeo interactivo, 360 grados, videoconferencia (oficio) | 29-09-2026 |
-| RD 1680/2011, BOE-A-2011-19599 (texto del diario oficial): arts. 6.b), 7.1 y 7.2.c); módulo 0910, RA 7 a, c, f y contenidos; módulo 0902, contenidos | Epígrafe 1 | 29-09-2026 |
-| IMS077_3, INCUAL: UC0216_3 CR3.3 (p. 4); UC0217_3 RP2 y CR1.8 (p. 7) | Epígrafes 1 y 3, lo que hace el ayudante | 29-09-2026 |
+| RD 1680/2011, BOE-A-2011-19599 (texto del diario oficial): arts. 6.b), 7.1 y 7.2.c); módulo 0910, RA 7 a, c, f y contenidos; módulo 0902, contenidos | Epígrafe 1 | 29-09-2026; arts. 6.b) y 7.2.c), releídos el 30-09-2026 |
+| IMS077_3, INCUAL, documento publicado (Orden PCI/797/2019): UC0216_3 CR3.3 (p. 4); UC0217_3 RP2 y CR1.8 (p. 7) | Epígrafes 1 y 3, lo que hace el ayudante | 30-09-2026 |
 | YouTube Help, answers 2474026, 2853702 y 7444635 (según el tema 15 del específico de Realizador/a) | Epígrafe 3 | 29-09-2026 (páginas vivas) |
+| SMPTE ST 2110-10:2022, cláusula 6.5 y ejemplo de SDP; IETF RFC 3376, resumen | Epígrafe 3, «Multidifusión» | 30-09-2026 |
+| MPEG, página de MPEG-DASH parte 1 (ISO/IEC 23009-1); DASH-IF, «About»; CNLSE, guía de 2017, p. 35 | Epígrafe 3, MPEG-DASH | 30-09-2026 |
+| IETF RFC 6707, 1.1 y 2 | Epígrafe 3, CDN | 30-09-2026 |
 | Oficio | Vocabulario de multiplataforma y *cross media*; realización en vertical; decisiones por salida; pautas de clips, miniatura y participación; videoconferencia; lo que hace el ayudante; supuestos prácticos | — |

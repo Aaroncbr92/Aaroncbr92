@@ -8,7 +8,7 @@
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule cómo se realiza un directo. Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto), y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0903, 0904 y 0905). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Guías técnicas del INSST: NTP 438 y NTP 685. Documentación de fabricante: Autocue (prompter). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca ni el artículo 5 ni los módulos que se citan. IMS077_3, documento publicado del INCUAL (publicación: Orden PCI/797/2019). NTP 438 (1995), NTP 685 (2003) y documentación de Autocue en su versión web. Fuentes leídas el 24-09-2026 y el 29-09-2026 (texto tomado de los temas 1, 3, 4, 5 y 6 de Realizador/a) y el 29-09-2026 (lo añadido en este tema) |
-| Extensión | 15.400 palabras aproximadamente |
+| Extensión | 15.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -99,6 +99,7 @@ resolver una incidencia.
   - [La calidad de la imagen y la seguridad](#la-calidad-de-la-imagen-y-la-seguridad)
 - [5. Control de tiempos](#5-control-de-tiempos)
   - [Las llamadas de tiempo](#las-llamadas-de-tiempo)
+  - [El cálculo hacia atrás desde la hora de salida](#el-cálculo-hacia-atrás-desde-la-hora-de-salida)
   - [La entrada en antena](#la-entrada-en-antena)
   - [El código de tiempo](#el-código-de-tiempo)
 - [6. Continuidad visual](#6-continuidad-visual)
@@ -145,7 +146,7 @@ fuentes que están disponibles a la vez. El RD 1680/2011 lo describe en el módu
 realización en televisión», con un resultado de aprendizaje entero: **«Realiza programas de televisión
 en multicámara, valorando la implicación de todos los recursos humanos y técnicos que intervienen en
 el proceso y dirigiendo sus actuaciones según los requerimientos del proyecto.»** (RA 3). Sus ocho
-criterios son el índice de este tema:
+criterios se reparten así por este tema:
 
 | Criterio | Qué pide | Dónde se estudia |
 |---|---|---|
@@ -153,8 +154,8 @@ criterios son el índice de este tema:
 | b) | **«Se han previsto y evitado los enfilamientos no deseados en los segundos términos de la composición de todos los encuadres que componen el programa.»** | «4. Prevención de errores» |
 | c) | **«Se ha previsto y evitado la irrupción de cámaras y elementos impropios en todos los encuadres.»** | «4. Prevención de errores» |
 | d) | **«Se han identificado y evitado todos los elementos de escenografía, iluminación, vestuario, peluquería y maquillaje susceptibles de generar efectos indeseados en los encuadres.»** | «4. Prevención de errores» |
-| e) | **«Se han solicitado planos, encuadres y movimientos al equipo de cámaras, piezas de vídeo al equipo de vídeo, fuentes de audio al equipo de sonido y acciones a la asistencia a la realización en estudio, previniendo las solicitudes con suficiente antelación.»** | «3. Órdenes» |
-| f) | **«Se ha dirigido el equipo humano técnico y artístico, dando instrucciones para la consecución de los objetivos del programa, validando las tomas y ordenando las repeticiones en el caso de grabados.»** | «3. Órdenes» |
+| e) | **«Se han solicitado planos, encuadres y movimientos al equipo de cámaras, piezas de vídeo al equipo de vídeo, fuentes de audio al equipo de sonido y acciones a la asistencia a la realización en estudio, previniendo las solicitudes con suficiente antelación.»** | «2. Coordinación de órdenes» |
+| f) | **«Se ha dirigido el equipo humano técnico y artístico, dando instrucciones para la consecución de los objetivos del programa, validando las tomas y ordenando las repeticiones en el caso de grabados.»** | «2. Coordinación de órdenes» |
 | g) | **«Se han dado instrucciones para la grabación del programa o se ha informado de la entrada en emisión.»** | «La entrada en antena» |
 | h) | **«Se ha realizado el programa de televisión, seleccionando secuencialmente las diversas fuentes de imagen y de sonido que salen al aire para ser grabadas o emitidas.»** | Este epígrafe |
 
@@ -706,9 +707,9 @@ RA 4.c). Durante los ensayos y la emisión, lo que se comprueba desde los monito
 criterios ya citados en el epígrafe 1: que los movimientos de cámara **«son sincrónicos a la acción y
 motivados por ella o por los diálogos»** (MF0217_3, CE1.4) y que los planos generales, cortos y de
 detalle **«se ajustan a la estructura del bloque o de la secuencia»** con una duración suficiente
-(CE1.8). En el plató, el RD pide **«un sistema para la comprobación de las ubicaciones de las
-cámaras y sus movimientos, así como los tiempos de desplazamiento entre sets y su viabilidad.»**
-(módulo 0905, RA 4.f), y sus contenidos hablan de **«Procedimientos de supervisión de posiciones de
+(CE1.8). En el plató, el RD pide un sistema para comprobar las ubicaciones de las cámaras, sus
+movimientos y los tiempos de desplazamiento entre sets (módulo 0905, RA 4.f, citado en el epígrafe
+1), y sus contenidos hablan de **«Procedimientos de supervisión de posiciones de
 cámara y previsión de maniobrabilidad.»** La base teórica la da la cualificación: **«CE1.1 Explicar
 las técnicas básicas de realización de programas de televisión: saltos proporcionales, ley del eje, el
 plano contraplano, el plano máster, el plano inserto, realización multicámara, realización
@@ -763,9 +764,9 @@ CE5.1).
 
 En multicámara los movimientos se planifican con las cámaras. El Real Decreto 1680/2011 los incluye
 en la planificación de cámaras (**«ubicación, cobertura, movimientos»**, módulo 0904, RA 4.c; tema 1,
-«El plano en la realización de televisión») y en la coordinación del plató: **«Se ha establecido un
-sistema para la comprobación de las ubicaciones de las cámaras y sus movimientos, así como los
-tiempos de desplazamiento entre sets y su viabilidad.»** (módulo 0905, RA 4.f).
+«El plano en la realización de televisión») y en la coordinación del plató, con la comprobación de las ubicaciones de las cámaras, sus
+movimientos y los tiempos de desplazamiento entre sets (módulo 0905, RA 4.f, citado en el epígrafe
+1).
 
 Dos consecuencias de oficio para el realizador:
 
@@ -977,6 +978,42 @@ El cronometraje, en la práctica:
   pueda corregir.
 - Tiempo de salida: la hora exacta en que el programa tiene que terminar.
 
+### El cálculo hacia atrás desde la hora de salida
+
+Todo lo que sigue es oficio: ninguna fuente publicada leída da el método ni un modelo de hoja de
+tiempos. La cualificación IMS077_3 sólo pide el resultado: que **«el tiempo acumulado se ajusta a las indicaciones
+del control de continuidad»** (CR2.7) y que se den **«la cuenta atrás y tiempos parciales»**
+(CR2.6); los dos criterios, de la UC0217_3, están citados enteros en «Las llamadas de tiempo».
+
+La hora de salida es fija; lo que se mueve es el programa. Por eso los tiempos se cuentan hacia
+atrás (en inglés de oficio, *backtiming*): la hora a la que tiene que arrancar cada bloque es la
+hora de salida menos la suma de las duraciones de ese bloque y de todos los que vienen detrás.
+
+- Hora prevista de arranque de un bloque = hora de salida − (duración de ese bloque + duración de
+  los bloques siguientes).
+- Desfase de un bloque = hora real de arranque − hora prevista de arranque. Si sale positivo, el
+  programa va largo (tarde); si sale negativo, va corto (adelantado).
+- Tiempo acumulado = suma de lo que han durado de verdad los bloques ya emitidos, que se compara con
+  la suma de lo previsto para esos mismos bloques: si el primer bloque arrancó a su hora, la
+  diferencia es el mismo desfase.
+
+Ejemplo: un programa tiene que salir de antena a las 21:30:00. La hora prevista de arranque se
+calcula desde el último bloque hacia el primero; la real y el desfase se van anotando en el directo:
+
+| Bloque | Duración prevista | Arranque previsto (hacia atrás) | Arranque real | Desfase |
+|---|---|---|---|---|
+| 1 · Apertura y sumario | 3'00'' | 21:09:00 − 3'00'' = 21:06:00 | 21:06:00 | 0 |
+| 2 · Entrevista | 8'00'' | 21:17:00 − 8'00'' = 21:09:00 | 21:09:15 | 15'' largo |
+| 3 · Reportaje | 4'30'' | 21:21:30 − 4'30'' = 21:17:00 | 21:17:40 | 40'' largo |
+| 4 · Conexión | 4'00'' | 21:25:30 − 4'00'' = 21:21:30 | 21:22:10 | 40'' largo |
+| 5 · Despedida | 4'30'' | 21:30:00 − 4'30'' = 21:25:30 | — | — |
+
+Si la conexión dura lo previsto, la despedida, que tenía que arrancar a las 21:25:30, arranca a las
+21:26:10: el programa va 40 segundos largo, y eso es lo que se canta, con el tiempo que queda, al realizador y al
+director del programa (CR2.7), que deciden qué se recorta. Cuanto antes se canta el desfase, más
+margen hay: los 40 segundos que ya se ven al arrancar el reportaje (bloque 3) pueden salir de la
+conexión; si nadie los canta hasta la despedida, sólo pueden salir de ella.
+
 Corregir un desfase se hace estirando o recortando lo que sea elástico, y eso está decidido de
 antemano: qué bloque se puede alargar, qué pieza se puede caer, qué entrevista se puede cortar. La
 asistencia no decide qué se recorta; avisa a tiempo de que hay que recortar.
@@ -984,10 +1021,9 @@ asistencia no decide qué se recorta; avisa a tiempo de que hay que recortar.
 ### La entrada en antena
 
 Un directo entra en antena a una hora que no pone el control de realización: la pone la continuidad
-de la cadena. La cualificación IMS077_3 da al ayudante la comunicación con ella: **«CR2.6 La hora de
-entrada y los tiempos de publicidad se comunican al control de continuidad, informando a todo el
-equipo de las duraciones de dichas pausas y de la cuenta atrás y tiempos parciales para la entrada
-en antena, al inicio de programa y en cada bloque publicitario.»** (UC0217_3, p. 8). El RD pone la
+de la cadena. La cualificación IMS077_3 da al ayudante la comunicación con ella: la hora de
+entrada y los tiempos de publicidad se comunican al control de continuidad (UC0217_3, CR2.6, citado
+entero en «Las llamadas de tiempo»). El RD pone la
 misma materia en el módulo 0904, «Planificación de la realización en televisión», entre sus
 contenidos: **«Comunicaciones y órdenes para la continuidad en emisiones de televisión.»** Y el
 criterio g) del módulo 0905 cierra el círculo: el realizador informa **«de la entrada en emisión.»**
@@ -1348,4 +1384,4 @@ En el mismo bloque, lo que el ayudante añade por las otras rúbricas del enunci
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 3.2.1, 3.9.1, 3.10, 3.17.1, 3.17.2, 4.4.4 (puntos 4 y 6), 6.1, 6.1.1, 6.5, 6.5.1, 6.5.2, 8.1 (puntos 6, 7 y 9), 8.3, 8.3.3 | Falso directo, pacto del directo, improvisación, errores repetidos, escaleta y cambios, criterio ante defectos técnicos, autoridad del realizador | 24-09-2026 |
 | INSST, NTP 438 *Prevención del estrés: intervención sobre la organización* (1995) y NTP 685 *La comunicación en las organizaciones* (2003) | Claridad de las órdenes, órdenes contradictorias, barreras de la comunicación, comunicación formal por escrito | 29-09-2026 |
 | Autocue, glosario *Prompting A-Z* (web del fabricante) | Funciones del prompter para cambios de escaleta: *Drop*, *Cloak*, *Blank screen* | 29-09-2026 |
-| Oficio | Distinción entre directo, grabado «como en directo» y falso directo; tabla de quién hace qué; uso de las señales grabadas; escala de ensayos y ensayo general; tareas del ayudante en los ensayos; pruebas de conexión; definición de llamada; secuencia de la llamada de vídeo; tareas de la asistencia; cronometraje y los tres relojes; código de tiempo y sus modos; señas; destinatarios de las órdenes; aviso y ejecución; fórmulas; aplicación de las NTP al control; tareas de la regiduría; IFB y N-1; el confidente del intercom; seguimiento de cámaras y lo que se mira en cada una; multipantalla; reparto y movimientos de cámaras; eje en multicámara; cámara máster y plano de seguridad; enfilamiento; recursos de reserva; lista de prevención; continuidades que se rompen en directo; regla de quien avisa, decide y resuelve; tabla de incidencias y de su comunicación; aplicación práctica | — |
+| Oficio | Distinción entre directo, grabado «como en directo» y falso directo; tabla de quién hace qué; uso de las señales grabadas; escala de ensayos y ensayo general; tareas del ayudante en los ensayos; pruebas de conexión; definición de llamada; secuencia de la llamada de vídeo; tareas de la asistencia; cronometraje y los tres relojes; cálculo de tiempos hacia atrás desde la hora de salida y su ejemplo; código de tiempo y sus modos; señas; destinatarios de las órdenes; aviso y ejecución; fórmulas; aplicación de las NTP al control; tareas de la regiduría; IFB y N-1; el confidente del intercom; seguimiento de cámaras y lo que se mira en cada una; multipantalla; reparto y movimientos de cámaras; eje en multicámara; cámara máster y plano de seguridad; enfilamiento; recursos de reserva; lista de prevención; continuidades que se rompen en directo; regla de quien avisa, decide y resuelve; tabla de incidencias y de su comunicación; aplicación práctica | — |

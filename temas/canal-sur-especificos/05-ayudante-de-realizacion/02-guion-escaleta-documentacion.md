@@ -315,6 +315,11 @@ La cualificación IMS077_3 pone ese trabajo en manos del ayudante: **«Los pies 
 video y el pie de vuelta de video se anotan en el guion y/o escaleta de forma breve y clara para que
 pueda ser fácilmente reconocible por el resto del equipo.»** (UC0217_3, CR1.5).
 
+La cualificación no define esos dos pies; en el oficio, el pie de salida a vídeo es la frase del
+plató tras la cual se lanza la pieza, y el pie de vuelta de vídeo es la última frase o la última
+acción de la pieza, la que avisa de que hay que volver a plató o pasar a lo siguiente. Visto desde la
+pieza, este segundo es el mismo pie de salida que recoge su minutado (epígrafe 4).
+
 ## 3. Escaleta
 
 ### Dos sentidos de la palabra
@@ -949,6 +954,16 @@ El código de tiempo es una etiqueta que identifica cada fotograma con el format
 horas : minutos : segundos : fotogramas. Es lo que hace posible que un parte escrito sirva para
 encontrar una toma en un archivo de horas.
 
+Cada campo cuenta hasta llegar a su unidad y vuelve a cero. La norma ST 2059-1:2021 de la Society
+of Motion Picture and Television Engineers (SMPTE), que calcula el código de la SMPTE ST 12-1 a
+partir de la hora del protocolo de tiempo de precisión (*Precision Time Protocol*, PTP), lo fija
+así para 24, 25 y 30 imágenes por segundo: el código es sin salto de fotogramas (*non-drop frame*),
+las horas se toman módulo 24 y los fotogramas son lo que sobra tras contar segundos enteros de la
+cadencia (9.3.3.2). A 25 imágenes por segundo, por tanto, el campo de fotogramas va de 00 a 24, y el
+código, de 00:00:00:00 a 23:59:59:24. Un valor como 00:05:10:25 no puede darse: el
+fotograma que seguiría a :24 es ya el :00 del segundo siguiente. Y un minutado se suma o se resta
+fotograma a fotograma con esa base: 00:00:10:20 más 00:00:00:10 son 00:00:11:05.
+
 Sus dos maneras de correr:
 
 | Modo | Cómo | Cuándo |
@@ -1043,7 +1058,7 @@ lo suyo (oficio). Las fuentes nombran éstos:
 | Listado de músicas | Escaleta | Sonido y gestión de derechos | RD, módulo 0904, RA 3.g (epígrafe 3) |
 | Relación de músicas, efectos, transiciones, gráficos, rótulos, envíos a plató, escenografía y atrezo | Instrucciones del realizador | Todo el control: va dentro de la escaleta técnica | UC0216_3, CR1.3 (epígrafe 3) |
 | Listados de recursos | Desglose | Producción y equipos técnicos | RD, módulo 0903 |
-| Hojas de desglose y listados generales | Desglose | Producción | RD, módulo 0904, RA 2.a a 2.c (epígrafe 10) |
+| Hojas de desglose y listados generales | Desglose | Producción | RD, módulo 0904, RA 2.a a 2.c, las hojas de desglose; los listados generales, oficio (epígrafe 10) |
 | Relación de imágenes y de sonidos de archivo | Escaleta técnica | Documentación, montaje | UC0216_3, CR3.1 y CR3.2 (abajo) |
 | Listado de incidencias | Visionado del material | Montaje | RD, módulo 0906, RA 3.h |
 
@@ -1481,6 +1496,8 @@ Tres casos que se preguntan en una prueba práctica:
   consta en un documento publicado leído.
 - Las extensiones orientativas de *logline*, sinopsis y argumento, la terna de premisas del guion,
   las escalas habituales y los modos del código de tiempo: son de oficio; ninguna norma leída las fija.
+  El código de tiempo con salto de fotogramas (*drop frame*) de las cadencias de 30/1,001 y la
+  relación entre cadencias y formatos: tema 14.
 - *Análisis de contenidos, estructura narrativa, necesidades técnicas del programa y biblia del
   formato*: no los pide este enunciado; son materia del realizador.
 - *Funciones del ayudante* (ficha del convenio) y *flujos con producción, redacción, documentación y
@@ -1501,4 +1518,5 @@ Tres casos que se preguntan en una prueba práctica:
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: cap. 3 (3.9.1, p. 53; 3.17.1.5, p. 61); cap. 6 (pp. 87 y 88); 6.1, 6.1.1, 6.1.2 (pp. 88-89); 6.3 (p. 91) | Escaleta, parte de emisión, reglas obligatorias, minutado de la imagen, escaleta de planos, colas + total, código de tiempo idéntico en varias cámaras | 24-09-2026 (en los textos ya cerrados de los temas 2 y 3 de Realizador/a) |
 | MOS Protocol, versión 4.0 (Document Revision 560, 7-VI-2019): apartado 2.3 «Profile 2», ejemplo de inserción; versión 2.8.5 (7-IX-2017): apartado «Running Orders»; página «Current Versions»; portada del proyecto MOS (mosprotocol.com) | *Rundown* y *running order* como sinónimos, jerarquía de la escaleta, listas de reproducción por servidor, fechas de las versiones; definición y finalidad del protocolo | 29-09-2026; la portada, 25-09-2026 (en el texto ya cerrado del tema 4 de Realizador/a) |
 | Avid, página de producto «MediaCentral \| Newsroom Management» | Ejemplo de sistema de redacción que construye y cronometra escaletas y las integra con prompter, grafismo y servidores | 29-09-2026 |
-| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, unidades del guion literario, forma del guion técnico, vocabulario del minutado, cálculo y ajuste de tiempos con su ejemplo, lectura del *rundown*, *storyboard* y *animatic*, destinatarios y fórmulas de las órdenes, aviso y ejecución, definición de parte y de listado, campos del parte de cámara y del parte de emisión de una pieza, código de tiempo y claqueta, pasos después de la grabación, usos de la documentación de apoyo, ficha de localización, documentos gráficos del decorado, construcción del plan de trabajo, orden de trabajo diaria, cronograma, planta de cámaras, escalas, aplicación práctica | — |
+| SMPTE ST 2059-1:2021, apartado 9.3.3.2 «24, 25 and 30 frames-per-second» (cálculo del *Time Address* de SMPTE ST 12-1) | Código sin salto de fotogramas a 24, 25 y 30 imágenes por segundo; horas módulo 24; campo de fotogramas como resto de los segundos enteros (de 00 a 24 a 25 imágenes por segundo) | 30-09-2026 |
+| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, unidades del guion literario, forma del guion técnico, vocabulario del minutado, cálculo y ajuste de tiempos con su ejemplo, lectura del *rundown*, *storyboard* y *animatic*, destinatarios y fórmulas de las órdenes, aviso y ejecución, pies de salida a vídeo y de vuelta de vídeo, definición de parte y de listado, campos del parte de cámara y del parte de emisión de una pieza, código de tiempo y claqueta, suma de códigos de tiempo, pasos después de la grabación, usos de la documentación de apoyo, ficha de localización, documentos gráficos del decorado, construcción del plan de trabajo, orden de trabajo diaria, cronograma, planta de cámaras, escalas, aplicación práctica | — |

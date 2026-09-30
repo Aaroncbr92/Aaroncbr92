@@ -1,4 +1,4 @@
-# Tema 10 del específico de Ayudante de Realizacion · Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen
+# Tema 10 del específico de Ayudante de Realización · Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen
 
 **Siglas**: RTVA (Agencia Pública Empresarial de la Radio y Televisión de Andalucía) · CSRTV (Canal Sur Radio y Televisión, S.A.) · RD (real decreto) · RA (resultado de aprendizaje) · LE (Libro de Estilo) · UIT-R · UER/EBU · CCU (control de cámara) · RCP (panel remoto) · CTO/CTB (naranja/azul) · ND (densidad neutra) · IRC (Ra) · TLCI · HMI · LED · DMX · HDR/SDR.
 

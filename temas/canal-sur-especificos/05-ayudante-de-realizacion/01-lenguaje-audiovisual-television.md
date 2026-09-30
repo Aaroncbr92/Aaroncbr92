@@ -566,7 +566,7 @@ Hay varios ejes según qué los genere (oficio):
 | Eje | Qué lo crea |
 |---|---|
 | Eje de acción | Las miradas entre los personajes, o la línea que los une |
-| Eje de movimiento | La trayectoria de algo que se desplaza |
+| Eje de movimiento | La trayectoria de algo que se desplaza. Es el que la IMS077_3 llama **«eje de desplazamiento»**, que no define (oficio) |
 | Eje óptico | El eje de la lente: es de la cámara, no de la escena |
 | Eje escénico | La línea del público al escenario, en la puesta en escena frontal de un teatro o un plató |
 
@@ -1718,8 +1718,8 @@ Ninguna norma jurídica regula el lenguaje audiovisual. Los documentos que el te
   norma de enseñanza, no del oficio.
 - Cualificación profesional IMS077_3, «Asistencia a la realización en televisión», del INCUAL
   (Real Decreto 295/2004, actualizada por la Orden PCI/797/2019), documento publicado: UC0216_3
-  (CR4.3 a CR4.5), MF0216_3 (contenidos), MF0217_3 (C1, CE1.1 a CE1.8) y MF0218_3 (CE1.3, CE3.6 y
-  contenidos).
+  (CR4.3 a CR4.5), MF0216_3 (contenidos), MF0217_3 (CE1.1, CE1.2, CE1.4 y CE1.6 a CE1.8) y
+  MF0218_3 (CE1.3, CE3.6 y contenidos).
 - Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, 1.ª ed., marzo de 2004: apartados
   3.17.1, 5.2 a 5.3.2, 6.2 a 6.5, 8.3.2, 8.6 y 9.2.12.3-9.2.12.4. Es el criterio publicado de la
   casa; no es una norma jurídica.
@@ -1763,7 +1763,7 @@ Tecnologías Educativas, Real Decreto 1680/2011), el 25-09-2026 (Mateu Torres) y
 | Real Decreto 1680/2011, módulo 0902, RA 1.b)-e) | Elementos del lenguaje que se evalúan |
 | Íd., módulo 0904, RA 1.d), RA 2.e), RA 4.c) y contenidos | Recursos del lenguaje en un programa; estructura y ritmo multicámara; planificación de cámaras |
 | Íd., módulo 0905, RA 3.b)-e), RA 4.b) y f), contenidos y orientaciones pedagógicas | Enfilamientos, irrupción de cámaras y elementos indeseados; solicitud de planos y movimientos; continuidad visual del atrezo; ubicación y movimientos de cámaras; tipos de programa |
-| INCUAL, IMS077_3: ámbito profesional (p. 1); UC0216_3, CR4.3 a CR4.5 (p. 4); MF0216_3, contenidos (pp. 16-17); MF0217_3, C1, CE1.1 a CE1.8 (p. 18); MF0218_3, CE1.3 (p. 22), CE3.6 (p. 23) y contenidos (p. 24) | Subordinación al realizador; continuidad en retomes; minutado de *playbacks* y coreografías; contenidos del lenguaje narrativo; técnicas básicas de realización; continuidad narrativa; movimientos sincrónicos; transiciones y ritmo; continuidad de actuación, iluminación, ambiente y acción; planos ajustados al bloque y duración suficiente; ritmo y *raccord* en la edición |
+| INCUAL, IMS077_3: ámbito profesional (p. 1); UC0216_3, CR4.3 a CR4.5 (p. 4); MF0216_3, contenidos (pp. 16-17); MF0217_3, CE1.1, CE1.2, CE1.4 y CE1.6 a CE1.8 (p. 18); MF0218_3, CE1.3 (p. 22), CE3.6 (p. 23) y contenidos (p. 24) | Subordinación al realizador; continuidad en retomes; minutado de *playbacks* y coreografías; contenidos del lenguaje narrativo; técnicas básicas de realización; continuidad narrativa; movimientos sincrónicos; transiciones y ritmo; continuidad de actuación, iluminación, ambiente y acción; planos ajustados al bloque y duración suficiente; ritmo y *raccord* en la edición |
 | Libro de estilo de Canal Sur, 3.17.1 a 3.17.1.3 (pp. 59-60), 3.17.1.5 (p. 61), 5.2 a 5.3.2 (pp. 79-81), 6.2 a 6.5 (pp. 89-92), 8.3.2 (p. 117), 8.6 (p. 121), 9.2.12.3 y 9.2.12.4 (p. 130) | Entrevista y planos de escucha en la grabada con una cámara; encuadre, planos, composición y movimientos en informativos; selección de planos, montaje, duración mínima, *raccord*; margen del realizador; directo; vestuario y Realización; reconstrucciones y cámara en mano |
 | Recomendación UIT-R BT.709-6 (06/2015), apartado 2 | Relación de aspecto 16:9, 1 920 × 1 080, píxel cuadrado |
 | EBU R 95 v1.1 (junio de 2017) | Zonas seguras de acción (3,5 %) y de grafismo (5 %) por borde; centro de la imagen |

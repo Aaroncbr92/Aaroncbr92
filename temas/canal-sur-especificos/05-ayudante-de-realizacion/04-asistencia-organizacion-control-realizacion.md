@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Ayudante de Realización · punto 4 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule el control de realización. Lo propio de la casa: X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10/12/2014), anexo III (fichas de puesto), y *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0905 y 0910). Catálogo de cualificaciones: IMS077_3 «Asistencia a la realización en televisión» (INCUAL). Norma técnica: ANSI E1.11-2024 (USITT DMX512-A). Documentación de fabricante: Blackmagic Design (mezcladores ATEM y Fairlight Live), Clear-Com (intercom), Autocue (prompter), Vizrt (grafismo). Recomendación técnica: EBU Tech 3347. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los resultados de aprendizaje ni los contenidos de los módulos que se citan, y el Real Decreto 1085/2020 derogó su anexo de convalidaciones. IMS077_3, documento publicado del INCUAL (actualización por Orden PCI/797/2019). ANSI E1.11-2024, aprobada el 25-04-2024. Fuentes leídas el 24-09-2026 y el 29-09-2026 (texto tomado del tema 4 de Realizador/a) y el 29-09-2026 (lo añadido en este tema) |
-| Extensión | 17.400 palabras aproximadamente |
+| Redacción que se estudia | Convenio en su texto publicado de 2014 (vigencia y prórroga, en el tema común del convenio) y Libro de Estilo de 2004. Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los resultados de aprendizaje ni los contenidos de los módulos que se citan, y el Real Decreto 1085/2020 derogó su anexo de convalidaciones. IMS077_3, documento publicado del INCUAL (actualización por Orden PCI/797/2019). ANSI E1.11-2024, aprobada el 25-04-2024. Fuentes leídas el 24-09-2026 y el 29-09-2026 (texto tomado del tema 4 de Realizador/a) y el 29-09-2026 (lo añadido en este tema); las correcciones del remate, el 30-09-2026. Las fechas posteriores al 24-09-2026 son las del reloj del sistema, posteriores al día del encargo, y se declaran tal cual |
+| Extensión | 18.400 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -29,7 +29,8 @@ Institute for Theatre Technology*).
 
 Los términos técnicos del tema, presentados de entrada: la unidad de control de cámara (CCU, *camera
 control unit*); el programa (PGM, también PP) y el previo (PVW, *preview*); la composición posterior del mezclador (DSK, *downstream keyer*); el
-generador de efectos digitales (DVE, *digital video effects*); la interfaz de propósito general (GPI,
+generador de efectos digitales (DVE, *digital video effects*); el corrector de base de
+tiempos (TBC, *time base corrector*); la interfaz de propósito general (GPI,
 *general purpose interface*); la interfaz digital serie (SDI, *serial digital interface*); la luz de
 aviso de cámara en antena (piloto o *tally*); la intercomunicación de producción (*intercom*); la
 línea compartida de intercom (*partyline*, PL); el retorno de audio interrumpible (IFB, *interruptible
@@ -85,6 +86,7 @@ avisa ante un fallo.
   - [La cadena de la señal de cámara](#la-cadena-de-la-señal-de-cámara)
   - [El reparto de las cajas de plató](#el-reparto-de-las-cajas-de-plató)
   - [El multipantalla: lo que el realizador ve](#el-multipantalla-lo-que-el-realizador-ve)
+  - [La mesa de realización: quién se sienta dónde](#la-mesa-de-realización-quién-se-sienta-dónde)
   - [Quién ocupa cada puesto en la RTVA](#quién-ocupa-cada-puesto-en-la-rtva)
 - [La asistencia en el control](#la-asistencia-en-el-control)
   - [Lo que la ficha del ayudante dice del control](#lo-que-la-ficha-del-ayudante-dice-del-control)
@@ -241,6 +243,27 @@ Ordenados por lo que hace cada uno, los equipos del enunciado, más el prompter,
 Detrás de todos ellos hay tres piezas de infraestructura que el realizador no opera pero de las que
 depende: el generador de sincronismos, la matriz de conmutación y el multipantalla.
 
+La cualificación pone esa infraestructura entre lo que hay que saber del control (MF0217_3,
+contenidos): **«6 Los paneles de interconexión, los preselectores, la matriz de conmutación»**, con
+**«El corrector base de tiempos TBC.»**; y el RD la nombra en la lista de arriba (**«matrices o
+patch–pannel, preselectores de vídeo»**). Ninguna de las dos dice qué es cada pieza:
+
+| Pieza | Qué hace | Apoyo |
+|---|---|---|
+| Matriz de conmutación | Une cualquiera de sus entradas con cualquiera de sus salidas: cada destino (grabador, pantalla, otro control, retorno) toma su fuente sin tocar a los demás | Oficio; el manual ATEM compara con ella las salidas auxiliares del mezclador («Los buses auxiliares», en el epígrafe 1) |
+| Panel de interconexión (*patch panel*) | Un panel de conectores pasantes en el que terminan los cables fijos de la instalación: una conexión se cambia con un latiguillo por delante, sin recablear | Oficio; Clear-Com, para los del intercom, recomienda paneles de adaptadores pasantes y dice que **«These adapters also enable easier rewiring of the back or the front of the panel.»** (facilitan recablear el panel por detrás o por delante) |
+| Preselector | Un conmutador de pocas entradas que elige qué fuente llega a un destino concreto, un monitor o un grabador | Oficio |
+| Corrector de base de tiempos (TBC) | Guarda la señal en memoria y la vuelve a sacar a intervalos exactos, para que una señal de tiempo inestable, como la de un magnetoscopio analógico, se pueda mezclar con las demás | Guía de la Universidad de Columbia Británica (programa Indigitization): **«TBCs capture video information into a buffer, hold it briefly, and then release it at absolutely even intervals.»** |
+
+La misma guía explica por qué hace falta: la variación de velocidad de la cinta **«does not affect
+viewing on televisions, but does affect professional video equipment when editing video, or
+switching between video sources.»** (no se nota al ver la televisión, pero sí en los equipos
+profesionales al montar o al conmutar entre fuentes). Y lo enlaza con lo que hoy se usa: **«Most
+TBCs are also called frame stores, or frame synchronizers, as they process entire frames of video
+information.»** Es el sincronizador de cuadro que se estudia en «La sincronización» (epígrafe 1). Los
+generadores de señales del mismo módulo (sincronismos, logotipo, señales de prueba y cartas de
+ajuste) se estudian en el tema 9.
+
 ### La cadena de la señal de cámara
 
 cámara → caja de plató → CCU → control central → mezclador del control de realización → programa
@@ -296,6 +319,31 @@ fuentes se ven, de qué tamaño y en qué orden (oficio): el programa y el previ
 en el orden en que se van a usar; los vídeos, los gráficos y las conexiones exteriores, al lado de las
 cámaras con las que alternan. Un control con el multipantalla mal ordenado obliga al realizador a
 buscar la fuente con la vista en el momento de pedirla.
+
+### La mesa de realización: quién se sienta dónde
+
+Cómo se colocan las personas en el control no lo regula ninguna fuente leída: el RD pide justificar
+el diagrama de equipos y conexiones (0910, RA 4.a, citado arriba), no la disposición de los puestos,
+y la cualificación sólo nombra, en su apartado de técnicas, las **«Funciones del personal en el
+control de realización.»** Lo que sigue es oficio, y cambia con la instalación y con el programa.
+
+El control mira a una pared de monitores: el multipantalla, con el programa y el previo en grande.
+Delante, una mesa corrida, la mesa de realización, donde se sientan en fila los que tienen que ver lo
+mismo a la vez:
+
+- El realizador, en el centro, frente al programa y al previo: es quien ordena.
+- El operador de mezclas, a su lado, con el panel del mezclador delante: ejecuta las órdenes al
+  instante y tiene que oírlas sin intermediarios.
+- El ayudante de realización, al otro lado del realizador, con la escaleta, el cronómetro y su panel
+  de intercom a mano: canta tiempos y previene al equipo, y el realizador lo oye sin pulsar (véase
+  «La matriz, el panel y el confidente», en el epígrafe 7).
+- El grafismo o el titulador, y según el programa producción o el editor, en los extremos de la mesa
+  o en una segunda fila.
+
+El control de imagen, el de sonido y la mesa de luces, según la instalación, en su zona o en su sala
+(véase «Los controles de un estudio»). El criterio que ordena la mesa: todos miran la misma pared;
+quien ejecuta, al alcance de la voz de quien ordena; el ayudante, junto al realizador. Cómo están
+dispuestos los controles de Canal Sur no consta en documento publicado.
 
 ### Quién ocupa cada puesto en la RTVA
 
@@ -380,7 +428,10 @@ código de tiempos, mezcladoras de video y audio.»** Y la información con la q
 de programa, relación de necesidades de postproducción.»**
 
 El módulo formativo asociado, MF0217_3 (180 horas), ordena lo que hay que saber del control en sus
-contenidos (p. 20), que valen como índice de este tema: **«2 Características de la iluminación para
+contenidos (pp. 19-20). El apartado 1, **«Técnicas de realización»**, trae lo que toca a la
+organización del control: **«Órdenes dentro del control de realización.»** (las órdenes, en el tema
+6), **«Funciones del personal en el control de realización.»** y **«Operatividad dentro del control
+de realización.»** Los apartados 2 a 6 (p. 20) valen como índice de este tema: **«2 Características de la iluminación para
 una grabación multicámara»** (**«Iluminación base de la escena.»**, **«Iluminación según los formatos
 y géneros televisivos.»**); **«3 El sonido en una grabación multicámara»** (**«Captación del
 sonido.»**, **«Procesos del sonido en un programa de televisión.»**); **«4 El control de
@@ -1092,8 +1143,8 @@ de oficio:
   **«Si desea incorporar archivos de audio en un clip, como en el caso de una transición animada,
   arrástrelos desde el explorador hacia el espacio designado junto al clip correspondiente.»** La
   cortinilla animada sale con su sonido del mismo mezclador, que en alguno de sus modelos lo entrega
-  a la mesa como un canal propio: en el ATEM Constellation 8K, la salida MADI 1 lleva un canal de **«Audio del reproductor
-  multimedia»**.
+  a la mesa como un canal propio: en el ATEM Constellation 8K, la salida MADI 1 lleva en su canal 11 el **«Audio del reproductor
+  multimedia»**, pero sólo trabajando en 8K: el manual lo da bajo **«En modo 8K»**.
 - El servidor de vídeo, cuando la música o el efecto están montados en una pieza con imagen (oficio).
 
 Lo que le importa al ayudante no es el aparato sino tres comprobaciones que la cualificación le pide
@@ -1364,7 +1415,7 @@ Casos resueltos:
 | El presentador de plató necesita ver la conexión, no el programa | Se le configura el retorno de plató desde un auxiliar; el ayudante acciona el envío según escaleta y realizador | Los retornos son configurables; UC0217_3, CR3.2 |
 | La cámara 3 casa mal con las demás en el ensayo | El realizador lo pide al control de cámaras; no lo corrige el operador ni el ayudante | Control de imagen; ficha 5342100 |
 | Una pieza llega con dos segundos de coleo de entrada, y el parte pedía más | El ayudante avisa al mezclador y al operador de sonido | UC0217_3, CR1.2 |
-| La duración real de una pieza no coincide con la del parte | Se anota en el parte y se informa al realizador | CR1.1 y CR1.3 |
+| La duración real de una pieza no coincide con la del parte | Se anota en el parte y se informa al realizador | UC0217_3, RP1; CR1.3 |
 | El rótulo de un invitado no está hecho con la plantilla del programa | El ayudante lo detecta en la verificación y lo comunica para que se rehaga | CR1.6; CR1.8 |
 | La sintonía de salida no está cargada donde se lanza | Se comunica al responsable técnico con la solución adoptada (otra fuente, otra música prevista como alternativa) | CR1.8; UC0216_3, CR3.2 |
 | El realizador quiere hablar sólo con la cámara 2 sin molestar al resto | Si su panel tiene una tecla aislada para esa cámara, la usa; el sistema que lo permite es el aislamiento de cámara, que según Clear-Com suele manejar el control de imagen o el director técnico | Intercom de cámaras |
@@ -1427,10 +1478,12 @@ comprobar contra el parte de emisión; por último, por qué punto del intercom 
 - *Qué sistema de redacción usa CSRTV hoy* y si enlaza con servidores, titulador y prompter: no
   consta en documento publicado.
 - *El manual de identidad gráfica de Canal Sur* (mosca, tipografías, cortinillas): no publicado.
+- *Cómo están dispuestos los puestos en los controles de CSRTV* (mesa de realización, pared de
+  monitores): no consta en documento publicado; el tema da el criterio de oficio.
 - *Ficha completa del ayudante, revisión de escaletas, comprobación de necesidades y coordinación
   previa con las áreas*: tema 3. *Órdenes, llamadas, ensayos, control de tiempos e incidencias en
   directo; cambios de escaleta en el prompter*: tema 6. *Transiciones, llaves, croma, DVE, memorias,
-  sincronismos y señalización técnica (piloto, etiquetas del multipantalla)*: tema 9. *Cámara y
+  sincronismos, generadores de señales (logotipo, señales de prueba, cartas de ajuste) y señalización técnica (piloto, etiquetas del multipantalla)*: tema 9. *Cámara y
   óptica*: tema 8. *Iluminación narrativa y temperatura de color*: tema 10. *Planos sonoros,
   microfonía, IFB, N-1, intercom de dos y cuatro hilos, intercom por IP y sincronía*: tema 11.
   *Rotulación, zonas seguras, realidad aumentada, decorados virtuales y pantallas del plató*: tema 12.
@@ -1447,13 +1500,17 @@ comprobar contra el parte de emisión; por último, por qué punto del intercom 
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: 6.1 y 6.1.1 (p. 88), 6.1.2 (p. 89), 6.5 (p. 92), 8.3 | Escaleta, nombre de los vídeos, rótulos en escaleta, comunicación de cambios; el realizador responsable máximo de la imagen; previsión del directo | 24-09-2026 (ídem, tema 4 de Realizador/a) |
 | Real Decreto 1680/2011, BOE-A-2011-19599, texto original: anexo I, módulo 0905 (RA 5.b a 5.e; RA 6.a a 6.g; contenidos) y módulo 0910 (RA 1.d; RA 4.a, 4.c a 4.g; contenidos) | Equipos del control; configuración del mezclador; CCU; multipantalla; enrutamientos; titulador; servidores y grabación; mesa de audio; audio sigue vídeo; mesas de luces; escenografía virtual; esquema de intercomunicación | 24-09-2026 (ídem) |
 | Real Decreto 500/2024, BOE-A-2024-10685, art. séptimo y anexo XLI; Real Decreto 1085/2020, BOE-A-2020-17274, disposición derogatoria única, apartado 2 | Que los módulos citados no se modifican; que el anexo derogado es el de convalidaciones | 24-09-2026 y 29-09-2026 (ídem) |
-| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR3.2 y CR3.5, p. 4; CR5.2 y CR5.6, contexto profesional, p. 5); UC0217_3 (título; RP1 y CR1.1 a CR1.8, p. 7; RP2, CR2.1, p. 7; CR2.2 a CR2.7, RP3, CR3.1 a CR3.5, p. 8; contexto profesional, pp. 8-9); UC0218_3 (CR3.2 y contexto profesional, p. 11); MF0217_3 (180 horas; C1, CE1.5 a CE1.7, p. 18; contenidos, apartados 2 a 6, p. 20) | Las tres realizaciones del ayudante en el control; verificación contra el parte de emisión y qué lleva el parte; a quién se avisa; comprobaciones previas; operación de la tituladora, lanzamientos, envíos a plató y a grabadores; sonido e iluminación en la asistencia; medios (servidores de vídeo y audio, intercomunicadores, *walkies*, luces de aviso); comunicación control-estudio; continuidad | 24-09-2026 (lo tomado del tema 4 de Realizador/a); 29-09-2026 (lo añadido) |
+| INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR3.2 y CR3.5, p. 4; CR5.2 y CR5.6, contexto profesional, p. 5); UC0217_3 (título; RP1 y CR1.1 a CR1.8, p. 7; RP2, CR2.1, p. 7; CR2.2 a CR2.7, RP3, CR3.1 a CR3.5, p. 8; contexto profesional, pp. 8-9); UC0218_3 (CR3.2 y contexto profesional, p. 11); MF0217_3 (180 horas; C1, CE1.5 a CE1.7, p. 18; contenidos, apartado 1, pp. 19-20, y apartados 2 a 6, p. 20) | Las tres realizaciones del ayudante en el control; verificación contra el parte de emisión y qué lleva el parte; a quién se avisa; comprobaciones previas; operación de la tituladora, lanzamientos, envíos a plató y a grabadores; sonido e iluminación en la asistencia; medios (servidores de vídeo y audio, intercomunicadores, *walkies*, luces de aviso); comunicación control-estudio; continuidad; órdenes, funciones del personal y operatividad del control; paneles de interconexión, preselectores, matriz y TBC en el módulo | 24-09-2026 (lo tomado del tema 4 de Realizador/a); 29-09-2026 (lo añadido); apartado 1 de los contenidos, 30-09-2026 |
 | ANSI E1.11-2024, USITT DMX512-A (ESTA), portada, 1.1, 1.2, 1.3, 3.36, 3.37, 3.45, 8.6 | El DMX512 | 29-09-2026 (ídem, tema 4 de Realizador/a) |
 | Autocue, *Prompting A-Z: An Introduction To Prompting* y *How a prompter works* (web del fabricante) | Prompter: NRCS, piloto, pantalla en blanco | 29-09-2026 (ídem) |
 | Vizrt, *Viz Pilot Edge User Guide* 3.5, «Introduction» | Plantillas de grafismo y su flujo de la redacción al control | 29-09-2026 (ídem) |
-| Blackmagic Design, manual en español de los mezcladores ATEM (diciembre de 2024) | Salidas auxiliares; resincronizador; control de cámara por el retorno SDI; piloto y llamada; piloto por cierre de contacto; audio en los clips del reproductor multimedia; canal MADI del reproductor multimedia | 03-09-2026, 24-09-2026 y 29-09-2026 (ídem); audio de clips y MADI, 29-09-2026 |
+| Blackmagic Design, manual en español de los mezcladores ATEM (diciembre de 2024) | Salidas auxiliares; resincronizador; control de cámara por el retorno SDI; piloto y llamada; piloto por cierre de contacto; audio en los clips del reproductor multimedia; canal MADI del reproductor multimedia, en modo 8K | 03-09-2026, 24-09-2026 y 29-09-2026 (ídem); audio de clips y MADI, 29-09-2026; «En modo 8K», 30-09-2026 |
 | Blackmagic Design, página de producto «ATEM Television Studio – Fairlight Live» (blackmagicdesign.com/products/atemtelevisionstudio/fairlightlive) | Reproductor de *cues* de audio y MIDI y su disparo | 29-09-2026 |
-| Clear-Com LLC, *A Comprehensive Guide to Clear-Com Analog and Digital Partyline Systems* (febrero de 2018) e *Interruptible Fold Back, AKA IFB* (16-03-2021) | Línea compartida; intercom de cámaras y aislamiento de cámara; definición del IFB | 25-09-2026 (ídem) |
+| Clear-Com LLC, *A Comprehensive Guide to Clear-Com Analog and Digital Partyline Systems* (febrero de 2018) e *Interruptible Fold Back, AKA IFB* (16-03-2021) | Línea compartida; intercom de cámaras y aislamiento de cámara; definición del IFB; paneles de interconexión de adaptadores pasantes (guía de 2018, p. 60) | 25-09-2026 (ídem); paneles de interconexión, 30-09-2026 |
+| University of British Columbia, programa Indigitization, *Time Base Corrector Buying Guide* (PDF en library-indigitization-2020.sites.olt.ubc.ca, creado el 12-06-2025 según sus metadatos), «Background» | Qué es y para qué sirve el corrector de base de tiempos; su relación con el sincronizador de cuadro | 30-09-2026 |
 | EBU Tech 3347 Rev. 1 (octubre de 2012) | Usos del intercom entre lugares; la matriz nombrada | 25-09-2026 (ídem) |
 | Protocolo MOS, mosprotocol.com (portada) | Definición y finalidad del protocolo MOS; servidores de audio entre los MOS | 25-09-2026 (ídem) |
-| Oficio | Qué es el control; tabla de controles; cadena de la señal, caja de plató y reparto de las cajas; orden del multipantalla; reparto de equipos; qué hace un mezclador, su panel, salidas, auxiliares, sincronización (retrasar lo adelantado; 40 ms por fotograma a 25 fps), GPI; funciones de la CCU; instrumentos; retornos y realimentación de las pantallas; titulador y grafismo en tiempo real; paginación; qué comprueba el ayudante de cada rótulo; tres familias del sonido; cantar un minutado musical; mesa de luces y DMX en el plató; el realizador y la luz; qué se reproduce como sonido grabado; servidor de vídeo y sus clases; continuidad; arquitecturas de intercom; matriz, panel, confidente; paneles del realizador y del ayudante; N-1; piloto; «solución desde los controles»; aplicación práctica | — |
+| Oficio | Qué es el control; tabla de controles; cadena de la señal, caja de plató y reparto de las cajas; orden del multipantalla; reparto de equipos; qué hace un mezclador, su panel, salidas, auxiliares, sincronización (retrasar lo adelantado; 40 ms por fotograma a 25 fps), GPI; funciones de la CCU; instrumentos; retornos y realimentación de las pantallas; titulador y grafismo en tiempo real; paginación; qué comprueba el ayudante de cada rótulo; tres familias del sonido; cantar un minutado musical; mesa de luces y DMX en el plató; el realizador y la luz; qué se reproduce como sonido grabado; servidor de vídeo y sus clases; continuidad; arquitecturas de intercom; matriz, panel, confidente; paneles del realizador y del ayudante; N-1; piloto; «solución desde los controles»; mesa de realización y quién se sienta dónde; qué hacen la matriz de conmutación, el panel de interconexión y el preselector; aplicación práctica | — |
+
+Las lecturas fechadas el 25, el 29 y el 30-09-2026 llevan la fecha del reloj del sistema, posterior
+al día del encargo (24-09-2026).

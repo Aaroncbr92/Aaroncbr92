@@ -1,11 +1,11 @@
-# Tema 10 del específico de Ayudante de Realizacion · Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen
+# Tema 10 del específico de Ayudante de Realización · Iluminación para realización: criterios narrativos, continuidad lumínica, temperatura de color y coordinación con imagen
 
 <!-- portada -->
 
 |  |  |
 | --- | --- |
-| Bloque | Temario específico de Ayudante de Realizacion · punto 10 |
-| Sirve para | Ayudante de Realizacion de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
+| Bloque | Temario específico de Ayudante de Realización · punto 10 |
+| Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma jurídica que regule la iluminación de la realización. Lo propio de la casa: X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), anexo III, fichas de puesto; *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 1.ª ed., marzo de 2004). Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (módulos 0902, 0903, 0904, 0905 y 0910). Recomendaciones técnicas: UIT-R BT.709-6 y BT.2020-2 (blanco de referencia D65; frecuencia de trama e iluminación); EBU Tech 3355 (marzo de 2017), índice TLCI; UIT-R BT.2100-3 (luminancias en cd/m²). Documentación de fabricante (Sony, Blackmagic Design, Canon, Sekonic, Astera) y Adobe, en los pasajes tomados del tema cerrado de Cámara Operador; Rosco, guía de filtros de corrección Cinegel (*Filter Facts*), y Blackmagic Design, *DaVinci Resolve 21 Reference Manual*. Lo demás, oficio y cálculo, declarado como tal |
 | Redacción que se estudia | Real Decreto 1680/2011 en su texto de 2011: el Real Decreto 500/2024 lo modifica, pero no toca los módulos que se citan. Convenio y Libro de Estilo en su única edición publicada. Las recomendaciones, en las ediciones vigentes el 24-09-2026. Los pasajes tomados de los temas cerrados de Cámara Operador de Canal Sur, en la redacción vigente el 24-09-2026 |
 | Extensión | 15.000 palabras aproximadamente |
