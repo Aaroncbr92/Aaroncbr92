@@ -238,7 +238,8 @@ control de medios técnicos y humanos»**, con su módulo formativo, **«Técnic
 control»** (MF0217_3, 180 horas). Y el trabajo en el plató durante el directo está en la otra unidad,
 **«UC0216_3: Coordinar el desarrollo de las necesidades de realización de una producción televisiva,
 del espacio escénico y de la puesta en escena en las distintas localizaciones»**. Las realizaciones
-profesionales que tocan al directo son cuatro:
+profesionales que más tocan a las rúbricas de este tema son estas cuatro (la RP3 de UC0217_3, el
+manejo de los equipos auxiliares del control, se estudia en el tema 4):
 
 | Realización profesional | Texto | Rúbrica del enunciado |
 |---|---|---|
@@ -938,7 +939,7 @@ con las fuentes de este epígrafe):
 
 | Cuándo | Qué comprueba | Fuente |
 |---|---|---|
-| Antes de entrar | Códigos, coleos, rótulos y material, contra el parte de emisión | UC0217_3, RP1, CR1.2, CR1.6, CR1.7 |
+| Antes de entrar | Códigos, coleos, rótulos y material, contra el parte de emisión | UC0217_3, RP1, CR1.1, CR1.2, CR1.6, CR1.7 |
 | Antes de entrar | Que todo el equipo está listo, prompter incluido | MF0217_3, CE1.5 |
 | En los ensayos | Encuadres, enfilamientos, elementos indeseados | UC0216_3, CR5.1; RD 0905, RA 3.b a 3.d |
 | Durante | La continuidad de actuación, iluminación, ambiente y acción | MF0217_3, CE1.7 |

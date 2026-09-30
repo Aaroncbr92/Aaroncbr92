@@ -40,15 +40,11 @@ de los ATEM, en su traducción española, llama «composición» a lo que el ofi
 al previo, «señal principal» al programa y «visualización simultánea» al multipantalla (*multiview*):
 el tema usa el vocabulario del oficio y avisa cuando cita el manual.
 
-> Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.33, punto 9): «Mezclador de vídeo y
-> recursos de realización: transiciones, efectos, incrustaciones, chroma, DVE, multipantalla, macros,
-> señales, keyers, grafismo en directo y criterios de uso narrativo.»
-
 Los que añade la señalización técnica: la alta definición (HD, del inglés *high definition*), que aparece en nombres de monitores; el botón de llamada a los cámaras (CALL, en el panel ATEM);
 la interfaz entre mezclador y pilotos de ese fabricante (*GPI and Tally Interface*); la etiqueta
 electrónica bajo el monitor y el protocolo de TSL Products que la gobierna (UMD, sigla que el
 documento de TSL no desarrolla); el protocolo de internet (IP) y, sobre él, los protocolos de red de datagramas (UDP, *user datagram protocol*)
-y de control de transmisión (TCP/IP, *transmission control protocol / internet protocol*); las interfaces eléctricas serie RS-422 y RS-485, que así nombra el documento de TSL; la
+y de control de transmisión (TCP/IP, *transmission control protocol / internet protocol*); las interfaces eléctricas serie RS-422 y RS-485, que el documento de TSL escribe «RS 422/ RS 485»; la
 Society of Motion Picture and Television Engineers (SMPTE), cuyo formato de paquete 291M cita el
 protocolo de piloto de Blackmagic, con sus identificadores de datos (DID y SDID, del inglés *data identifier* y *secondary data identifier*); la zona de datos auxiliares del borrado vertical de la señal (VANC, del inglés
 *vertical ancillary*); la Advanced Media Workflow Association (AMWA) y su familia de especificaciones
@@ -1163,7 +1159,7 @@ de la AMWA tiene una especificación para ello:
 |---|---|---|
 | IS-07 | **«Event & Tally»** | Eventos y piloto por la red |
 
-Para el realizador, IS-07 es la que toca de cerca: en una instalación IP, el piloto de las cámaras
+Para el ayudante, IS-07 es la que toca de cerca: en una instalación IP, el piloto de las cámaras
 (el *tally* que dice cuál está en el aire) también viaja por la red. Los directos IP son el tema 15.
 
 Qué vía usan los controles de Canal Sur no consta en documento publicado leído.

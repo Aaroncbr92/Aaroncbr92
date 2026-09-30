@@ -7,7 +7,7 @@
 | Bloque | Temario específico de Ayudante de Realización · punto 1 |
 | Sirve para | Ayudante de Realización de Canal Sur (puesto 2.5, grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
 | Fuente | Sin norma que regule el oficio. Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), para el criterio de la casa; X Convenio colectivo de la RTVA (BOJA núm. 240, de 10-XII-2014), fichas de los puestos de Ayudante de Realización y de Realizador; Real Decreto 1680/2011, de 18 de noviembre, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos, y cualificación profesional IMS077_3 «Asistencia a la realización en televisión» del INCUAL, como fuentes oficiales de enseñanza; Recomendaciones UIT-R BT.709-6 y EBU R 95 v1.1; Mateu Torres (2024), manual universitario de la UMH, para la teoría del montaje; material didáctico del Instituto de Tecnologías Educativas y del INTEF. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Libro de estilo, 1.ª ed., marzo de 2004; Real Decreto 1680/2011 en la redacción de sus módulos 0902, 0904 y 0905, que el Real Decreto 500/2024 no ha tocado; IMS077_3 en su documento publicado (actualización de la Orden PCI/797/2019); leídos entre el 24 y el 29-09-2026 |
+| Redacción que se estudia | Libro de estilo, 1.ª ed., marzo de 2004; Real Decreto 1680/2011 en la redacción de sus módulos 0902, 0904 y 0905, que el Real Decreto 500/2024 no ha tocado; IMS077_3 en su documento publicado (actualizada por la Orden PCI/797/2019); leídos entre el 24 y el 29-09-2026 |
 | Extensión | 20.300 palabras aproximadamente |
 
 <!-- /portada -->
@@ -1446,8 +1446,7 @@ Las transiciones como herramienta de postproducción (cortinillas, efectos) son 
 
 ### El corte por coincidencia (*match cut*)
 
-Una transición de continuidad por semejanza que los manuales de montaje recogen, y que es oficio sin
-norma detrás:
+Una transición por semejanza que ninguna norma fija; es oficio:
 
 El *match cut* es la unión por corte de dos planos de gran similitud visual o temática, pero
 situados en espacios y tiempos diferentes.
@@ -1693,8 +1692,8 @@ pausa entre ellos. Lo que decide el realizador y lo que hace el ayudante:
 5. El ritmo. En la entrevista se corta sobre las intervenciones y las reacciones, no sobre la música;
    ningún plano queda en el aire menos de lo que se tarda en leerlo (véase «Lo que el ayudante hace
    con el ritmo»).
-6. La continuidad y el *raccord*. En directo continuo la simultaneidad da el *raccord* de acción y de
-   posición; lo que se vigila es el eje, la dirección de las miradas y la igualación de las cámaras.
+6. La continuidad y el *raccord*. Mientras se graba cada bloque, la simultaneidad de las cámaras da el
+   *raccord* de acción y de posición; lo que se vigila es el eje, la dirección de las miradas y la igualación de las cámaras.
    En la pausa, el ayudante anota lo que se tiene que encontrar igual al volver: vestuario, papeles y
    vasos sobre la mesa, postura, micrófonos, la última pregunta y el código de tiempo del final del
    bloque (UC0216_3, CR4.3). Al retomar, pide al plató que lo recoloque.

@@ -21,7 +21,7 @@ realización profesional (RP), el criterio de realización (CR) y el criterio de
 módulo formativo (MF). Del protocolo de comunicación entre la redacción y los servidores: el
 protocolo MOS (*Media Object Server*, servidor de objetos de medios), el sistema informático de
 redacción (NCS, *Newsroom Computer System*, o NRCS, *Newsroom Computer System* en la forma que usa el
-fabricante) la escaleta del sistema (RO, *Running Order*) y el generador de caracteres (CG, *Character
+fabricante), la escaleta del sistema (RO, *Running Order*) y el generador de caracteres (CG, *Character
 Generator*), que es el titulador. El periodismo electrónico con cámara (ENG, del inglés *electronic news gathering*).
 
 Los términos ingleses y franceses del tema, presentados de entrada: la frase que resume un guion
@@ -437,7 +437,7 @@ movimientos y posiciones, realizando desgloses y elaborando la escaleta técnica
 ### La escaleta de grabación
 
 Cuando el programa no se emite en directo sino que se graba, la cualificación habla de *escaleta de
-grabación*, y la pide para cualquier tipo de programa: **«CE4.6 Confeccionar la escaleta de
+grabación*, y la pide para cuatro tipos de programa: **«CE4.6 Confeccionar la escaleta de
 grabación a partir del guion y del visionado de un programa: Informativo, Documental, Magazine,
 Dramático.»** (MF0216_3). En la ficción y en las variedades va junto a los otros documentos de rodaje:
 **«Elaborar el plan de trabajo, el parte de cámara, la escaleta de grabación, los minutados.»**
@@ -495,7 +495,7 @@ En un telediario, cada línea del minutado es una pieza, y su vocabulario es pro
 
 ### Cómo se calculan y se ajustan los tiempos
 
-*Cómo se calculan y se ajustan los tiempos.* La cualificación IMS077_3 da la regla de control: **«El
+La cualificación IMS077_3 da la regla de control: **«El
 tiempo de cada bloque de contenido se controla comprobando que el tiempo acumulado se ajusta a las
 indicaciones del control de continuidad y a las pautas publicitarias pactadas y transmitiendo las
 diferencias en los tiempos al realizador y al director del programa.»** (UC0217_3, CR2.7). Y antes:
@@ -906,7 +906,7 @@ la tabla son de oficio):
 
 El RD usa *parte de grabación* para las piezas que se preparan antes del programa: se identifican
 **«reflejándolo en partes de grabación relacionados en la escaleta»** (módulo 0904, RA 3.d, citado en
-el epígrafe 3). Y lo usa también para lo que se graba en el control: **«Se han operado
+el epígrafe 3). Y habla de partes también para lo que se graba en el control: **«Se han operado
 magnetoscopios, sistemas de disco duro y otros equipos grabadores para registrar la señal del
 programa y otras señales complementarias en la realización de un programa de televisión,
 identificando mediante etiquetas, partes y datos informáticos los soportes o archivos grabados.»**
@@ -1475,8 +1475,8 @@ Tres casos que se preguntan en una prueba práctica:
   CSRTV*: no constan en un documento publicado. Lo que el tema toma del Libro de Estilo es de su
   edición de 2004.
 - *El contenido del parte de programa, el parte de minutado, el parte de cinta y el parte de máster*:
-  la cualificación sólo los nombra. Los campos del parte de grabación y del parte de emisión de una
-  pieza que da el tema son de oficio, reunidos con lo que las fuentes enumeran.
+  la cualificación sólo los nombra. Los campos por toma del parte de cámara y los del parte de emisión
+  de una pieza que da el tema son de oficio, reunidos con lo que las fuentes enumeran.
 - *Si la disposición adicional segunda del convenio se sigue aplicando hoy, y en qué centros*: no
   consta en un documento publicado leído.
 - Las extensiones orientativas de *logline*, sinopsis y argumento, la terna de premisas del guion,
@@ -1501,4 +1501,4 @@ Tres casos que se preguntan en una prueba práctica:
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004: cap. 3 (3.9.1, p. 53; 3.17.1.5, p. 61); cap. 6 (pp. 87 y 88); 6.1, 6.1.1, 6.1.2 (pp. 88-89); 6.3 (p. 91) | Escaleta, parte de emisión, reglas obligatorias, minutado de la imagen, escaleta de planos, colas + total, código de tiempo idéntico en varias cámaras | 24-09-2026 (en los textos ya cerrados de los temas 2 y 3 de Realizador/a) |
 | MOS Protocol, versión 4.0 (Document Revision 560, 7-VI-2019): apartado 2.3 «Profile 2», ejemplo de inserción; versión 2.8.5 (7-IX-2017): apartado «Running Orders»; página «Current Versions»; portada del proyecto MOS (mosprotocol.com) | *Rundown* y *running order* como sinónimos, jerarquía de la escaleta, listas de reproducción por servidor, fechas de las versiones; definición y finalidad del protocolo | 29-09-2026; la portada, 25-09-2026 (en el texto ya cerrado del tema 4 de Realizador/a) |
 | Avid, página de producto «MediaCentral \| Newsroom Management» | Ejemplo de sistema de redacción que construye y cronometra escaletas y las integra con prompter, grafismo y servidores | 29-09-2026 |
-| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, unidades del guion literario, forma del guion técnico, vocabulario del minutado, cálculo y ajuste de tiempos con su ejemplo, lectura del *rundown*, *storyboard* y *animatic*, destinatarios y fórmulas de las órdenes, aviso y ejecución, definición de parte y de listado, campos del parte de grabación y del parte de emisión de una pieza, código de tiempo y claqueta, pasos después de la grabación, usos de la documentación de apoyo, ficha de localización, documentos gráficos del decorado, construcción del plan de trabajo, orden de trabajo diaria, cronograma, planta de cámaras, escalas, aplicación práctica | — |
+| Oficio | Cadena y escala de documentos, premisas, secuencia de documentos intermedios, unidades del guion literario, forma del guion técnico, vocabulario del minutado, cálculo y ajuste de tiempos con su ejemplo, lectura del *rundown*, *storyboard* y *animatic*, destinatarios y fórmulas de las órdenes, aviso y ejecución, definición de parte y de listado, campos del parte de cámara y del parte de emisión de una pieza, código de tiempo y claqueta, pasos después de la grabación, usos de la documentación de apoyo, ficha de localización, documentos gráficos del decorado, construcción del plan de trabajo, orden de trabajo diaria, cronograma, planta de cámaras, escalas, aplicación práctica | — |

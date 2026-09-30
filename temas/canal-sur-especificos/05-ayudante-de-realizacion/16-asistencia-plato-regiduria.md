@@ -140,7 +140,7 @@ ensayos, la grabación o emisión en directo»**, siempre **«Bajo la dirección
 cualificación IMS077_3 describe ese trabajo en su realización profesional 5 (UC0216_3, p. 5):
 **«RP5: Transmitir órdenes, detectar y corregir problemas en la planta escenográfica en función de
 las directrices recibidas, consiguiendo la intencionalidad narrativa y la calidad técnica y formal
-requeridas.»** Sus criterios:
+requeridas.»** Sus criterios (el CR5.3, en «Cómo se habla a cada uno»):
 
 - **«CR5.1 Las cámaras y el equipo de captación de sonido e iluminación, si fuera necesario, se
   ubican sobre la planta escenográfica, en la posición óptima y según las indicaciones recibidas,
@@ -313,7 +313,8 @@ apoyo de la cualificación):
 | El piloto de la cámara | Que presentador y operador sepan qué cámara está al aire | Oficio (tema 4) |
 | El texto del *prompter* | Que el presentador lea mirando a cámara | La cualificación pide asegurarse de que el teleprompter **«funciona a la velocidad adecuada de lectura para el presentador»** (MF0217_3, CE1.5) |
 
-Entre los medios con que trabaja el ayudante en el control, la cualificación enumera, entre otros,
+Entre los medios de producción de la unidad del control de realización, la cualificación enumera,
+entre otros,
 **«[…] intercomunicadores, walki‐talkies, software de escaletas digitales, luces de aviso, pantallas
 de ordenador, monitores de televisión, plasmas, pantallas de código de tiempos, mezcladoras de video
 y audio.»** (UC0217_3, contexto profesional).
@@ -438,7 +439,7 @@ e informando de las incidencias a fin de valorar la viabilidad de las tomas.»**
 ### El público en el plató
 
 El público no es figuración: no interpreta un papel, asiste al programa y reacciona. Pero la
-cualificación lo trata igual en tres cosas. Se coloca: **«CR4.6 La colocación del personal de
+cualificación se ocupa de él en tres cosas. Se coloca: **«CR4.6 La colocación del personal de
 figuración o público se indica mediante marcas o gestos.»** (UC0216_3). Se le instruye: el público
 participante está entre los destinatarios de las instrucciones (CR5.3) y de los cambios (**«CR5.4 Los
 cambios durante la realización o en el orden de grabación, de tiempos y contenidos, se comunican con
@@ -490,7 +491,7 @@ Quien coordina desde el plató no manda sobre ninguno de esos equipos: cada uno 
 recibe sus órdenes del control. Lo que hace el ayudante en el plató es comprobar que lo que cada
 equipo ha montado funciona junto con lo de los demás, detectar lo que no encaja y comunicarlo
 (UC0216_3, CR5.1 y CR5.6, citados en «La realización profesional 5: el ayudante en el plató»).
-Las comprobaciones que siguen salen del criterio CE8.2 del módulo MF0216_3, que la cualificación
+Buena parte de las comprobaciones que siguen salen del criterio CE8.2 del módulo MF0216_3, que la cualificación
 plantea como **«un supuesto práctico debidamente caracterizado de realización monocámara y
 multicámara (con diversos tipos de programa)»**.
 
@@ -544,7 +545,8 @@ Los planos sonoros, la microfonía y los retornos se estudian en el tema 11.
 ### Iluminación
 
 La luz del plató la diseña y la opera el equipo de iluminación; lo que se comprueba desde la
-asistencia es su efecto en cuadro. La cualificación da tres comprobaciones (MF0216_3, CE8.2):
+asistencia es su efecto en cuadro. Tres de las comprobaciones del CE8.2 del MF0216_3 miran a la
+luz:
 
 - **«Determinar que el color de las superficies u objetos sea el adecuado, y en caso contrario pedir
   aclarar u oscurecer el área afectada.»**
@@ -570,8 +572,8 @@ que funciona para la realización. La cualificación pide **«Determinar con el 
 decorados están en la posición adecuada y su solidez en el funcionamiento cuando se han de accionar
 (ventanas, puertas).»** y, en los platós virtuales, **«Comprobar en los sets virtuales que la
 iluminación y la integración de elementos escenográficos o de atrezzo no dificultan la integración de
-la imagen real y virtual.»** (MF0216_3, CE8.2); durante el programa, que la composición de la imagen
-real y virtual sea **«la adecuada a los movimientos de cámara y del personal artístico en los sets
+la imagen real y virtual.»** (MF0216_3, CE8.2); y la unidad de competencia pide revisar que la composición de la imagen real y
+virtual sea **«la adecuada a los movimientos de cámara y del personal artístico en los sets
 virtuales»** (UC0216_3, CR4.2).
 
 El atrezo y los elementos móviles se fijan para que no rompan la continuidad: **«Se han comprobado y
@@ -736,8 +738,9 @@ Al plató el tiempo llega de dos maneras (oficio):
   las señas del tiempo en el código.
 
 Lo que la regiduría canta en el plató no lo decide: lo recibe del control. El desfase lo calcula y
-lo canta la asistencia en el control, y quien decide qué se estira o se recorta es el realizador con
-la dirección del programa (UC0217_3, CR2.7). Si la regiduría ve en el plató algo que va a costar
+lo canta la asistencia en el control al realizador y al director del programa (UC0217_3, CR2.7), y
+son ellos quienes deciden qué se estira o se recorta (oficio; «Quién decide, quién ordena y quién
+ejecuta»). Si la regiduría ve en el plató algo que va a costar
 tiempo —un invitado que se alarga, un cambio de decorado que no termina—, lo avisa al control
 (UC0216_3, CR5.6).
 
@@ -794,7 +797,7 @@ una actuación musical en *playback* al final y público en grada.
 Cuatro casos que se preguntan en una prueba práctica:
 
 - *Un invitado se alarga y el bloque va a pasarse de tiempo.* El desfase lo canta la asistencia en el
-  control y lo decide el realizador con la dirección del programa (UC0217_3, CR2.7). La regiduría
+  control al realizador y al director del programa (UC0217_3, CR2.7), que deciden (oficio). La regiduría
   ejecuta lo que se decida: la seña de «termina» a la presentadora, o lo que el control le pase por el
   pinganillo. No corta al invitado por su cuenta.
 - *En el ensayo, el micrófono de jirafa hace sombra sobre el decorado.* Se identifica con el equipo de
@@ -847,6 +850,6 @@ Cuatro casos que se preguntan en una prueba práctica:
 | El mismo convenio, ficha 5212705 Ayudante de Producción (p. 110) | Citaciones a cargo de producción | 29-09-2026 |
 | *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: 6.5 y 6.5.2 | Quién decide en el directo | 24-09-2026 (texto del tema 6 de Realizador/a) |
 | INCUAL, cualificación IMS077_3 «Asistencia a la realización en televisión», documento publicado (Orden PCI/797/2019): UC0216_3 (CR1.1, CR4.1 a CR4.8, RP5, CR5.1 a CR5.6); UC0217_3 (CR2.4, CR2.6, CR2.7, CR3.2; contexto profesional); MF0216_3 (C8, CE7.5, CE8.2); MF0217_3 (CE1.3, CE1.4, CE1.5) | Trabajo del ayudante en el plató: instrucciones, cambios, entradas, deficiencias, público, figuración, comprobaciones con cámaras, sonido, iluminación y escenografía, tiempos | 24-09-2026 y 29-09-2026 |
-| Real Decreto 1680/2011, BOE-A-2011-19599, texto original: módulo 0903 (RA 3.a, 3.c, 3.e, 3.f, 4.b; contenidos), 0904 (RA 4.e), 0905 (orientaciones; RA 2.c a 2.e, 3.a a 3.c, 4.a a 4.f; contenidos), 0910 (RA 4.d) | Regiduría en plató; coordinación del plató; intercomunicación; citaciones; ensayos | 24-09-2026 y 29-09-2026 |
+| Real Decreto 1680/2011, BOE-A-2011-19599, texto original: módulo 0903 (RA 3.a, 3.c, 3.e, 3.f, 4.b; contenidos), 0904 (RA 4.e), 0905 (orientaciones; RA 1.d, 2.c a 2.e, 3.a a 3.c, 4.a a 4.f; contenidos), 0910 (RA 4.d) | Regiduría en plató; coordinación del plató; intercomunicación; citaciones; ensayos | 24-09-2026 y 29-09-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685 | Que los módulos citados no se modifican | 24-09-2026 (comprobado en los temas de Realizador/a) |
 | Oficio | Tareas de la regiduría antes y durante; código de señas; cadena de mando; reparto de competencias sobre las personas; canales de comunicación con cada persona; trato con el público; secuencia de una entrada; tiempos en el plató; aplicación práctica | — |

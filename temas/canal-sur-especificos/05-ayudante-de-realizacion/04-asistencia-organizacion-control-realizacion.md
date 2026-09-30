@@ -28,8 +28,7 @@ instituto estadounidense de tecnología teatral que dio nombre a la norma (USITT
 Institute for Theatre Technology*).
 
 Los términos técnicos del tema, presentados de entrada: la unidad de control de cámara (CCU, *camera
-control unit*); el programa (PGM, también PP) y el previo (PVW, *preview*); el banco de mezcla y
-efectos (M/E, *mix/effects*); la composición posterior del mezclador (DSK, *downstream keyer*); el
+control unit*); el programa (PGM, también PP) y el previo (PVW, *preview*); la composición posterior del mezclador (DSK, *downstream keyer*); el
 generador de efectos digitales (DVE, *digital video effects*); la interfaz de propósito general (GPI,
 *general purpose interface*); la interfaz digital serie (SDI, *serial digital interface*); la luz de
 aviso de cámara en antena (piloto o *tally*); la intercomunicación de producción (*intercom*); la
@@ -339,11 +338,11 @@ en los dos epígrafes que siguen.
 
 ### Lo que la ficha del ayudante dice del control
 
-La ficha del Ayudante de Realización (5353000, p. 111) nombra el control en dos de sus cinco tareas
-(completas en el tema 3). En la primera, como organizador: **«Bajo la dirección del realizador,
+La ficha del Ayudante de Realización (5353000, p. 111) nombra el control en la segunda y la tercera de sus
+cinco tareas (completas en el tema 3). En la segunda, como organizador: **«Bajo la dirección del realizador,
 coordinar, en los estudios y salas de control, la organización, puesta a punto y conducción de
 programas, así como regir la actividad del plató durante los ensayos, la grabación o emisión en
-directo.»** En la segunda, como asistente: **«Asistir, en el control de realización, en todas
+directo.»** En la tercera, como asistente: **«Asistir, en el control de realización, en todas
 aquellas tareas de realización necesarias para la grabación o emisión de los programas.»** Su función
 básica lo resume: **«Asistir al Realizador en las tareas de realización de programas
 audiovisuales.»**
@@ -825,7 +824,7 @@ Antes del programa, el ayudante comprueba el grafismo en tres cosas, cada una co
   escaleta técnica se traslada al departamento de infografía supervisando el acabado y controlando
   que se ajuste a las necesidades y criterios marcados.»** (UC0216_3, p. 4).
 
-En el control, lo que opera: la tituladora preparada con los técnicos (CR3.1), paginada (CR3.5 de la
+En el control, lo que opera: la tituladora preparada con los técnicos (UC0217_3, CR3.1), paginada (CR3.5 de la
 UC0217_3) y los rótulos lanzados en sus códigos (CR2.5). Qué comprueba en pantalla el ayudante de cada
 rótulo, antes de que salga (oficio): que el nombre y el cargo corresponden a quien está en imagen,
 que la ortografía es correcta y que el rótulo sigue el orden de la escaleta. Un rótulo equivocado al
@@ -884,7 +883,7 @@ y emisión»**. Los planos sonoros, la microfonía, los retornos, el N-1 y la si
 
 ### El sonido en la asistencia
 
-La cualificación pone el sonido en la asistencia por cuatro caminos (UC0217_3; MF0217_3):
+La cualificación pone el sonido en la asistencia en cuatro momentos (UC0217_3; MF0217_3):
 
 | Momento | Qué hace el ayudante | Criterio |
 |---|---|---|
@@ -984,7 +983,8 @@ criterios narrativos de la luz, la continuidad lumínica y la temperatura de col
 
 ### La iluminación en la asistencia
 
-La iluminación entra en la asistencia sólo por verificación y vigilancia, nunca por operación:
+La iluminación entra en la asistencia por verificación y vigilancia, no por operación: ningún criterio
+de la cualificación le da el manejo de la mesa de luces (lectura de la cualificación):
 
 - La RP1 pide verificar que la **«iluminación del programa de televisión»** es la prevista en el parte
   de emisión, **«informando de cualquier incidencia al realizador.»** (UC0217_3, p. 7).
@@ -997,7 +997,8 @@ En la práctica (oficio): el ayudante lleva en la escaleta los cambios de luz qu
 (un apagado, un ambiente, la entrada del público) y los avisa a la mesa de luces con la misma
 anticipación que a cámaras y a sonido; y si en los monitores ve un brillo, una sombra o una cámara
 que no casa con las demás, lo dice al realizador, que decide si pide la corrección a la mesa o al
-control de imagen. Aviso de una laguna: la cualificación enumera la iluminación entre lo que se
+control de imagen. La CE1.7 añade que esa observación sirve también para **«dar instrucciones a los
+equipos»**. Aviso de una laguna: la cualificación enumera la iluminación entre lo que se
 verifica, pero no dice qué parte del parte de emisión la recoge; en el parte que describe su UC0218_3
 (arriba) no figura.
 
@@ -1075,8 +1076,9 @@ los servidores con los que habla la redacción.
 
 Lo que se reproduce en un control como sonido grabado, sin imagen propia (oficio): la sintonía del
 programa, las ráfagas y cortinillas sonoras, las músicas de fondo o de entrada de un invitado, los
-efectos de sonido y los aplausos. Qué lo reproduce depende de la instalación. Tres posibilidades
-documentadas, como ejemplos de fabricante y no como descripción de Canal Sur:
+efectos de sonido y los aplausos. Qué lo reproduce depende de la instalación. Tres posibilidades,
+las dos primeras documentadas por un fabricante (ejemplos, no descripción de Canal Sur) y la tercera
+de oficio:
 
 - Un reproductor de efectos integrado en la mesa de sonido. Blackmagic Design lo describe en su
   mezclador de audio para directo: **«Fairlight Live features a built-in cue player that provides two
@@ -1090,7 +1092,7 @@ documentadas, como ejemplos de fabricante y no como descripción de Canal Sur:
   **«Si desea incorporar archivos de audio en un clip, como en el caso de una transición animada,
   arrástrelos desde el explorador hacia el espacio designado junto al clip correspondiente.»** La
   cortinilla animada sale con su sonido del mismo mezclador, que en alguno de sus modelos lo entrega
-  a la mesa como un canal propio: su salida MADI lleva un canal de **«Audio del reproductor
+  a la mesa como un canal propio: en el ATEM Constellation 8K, la salida MADI 1 lleva un canal de **«Audio del reproductor
   multimedia»**.
 - El servidor de vídeo, cuando la música o el efecto están montados en una pieza con imagen (oficio).
 
@@ -1103,7 +1105,7 @@ para todo el sonido grabado (UC0216_3 y UC0217_3):
    código de tiempo preciso de los fragmentos de audio o momentos musicales necesarios y una somera
    descripción del estilo y ritmo musical, de la calidad técnica y la duración de los efectos.»**
    (UC0216_3, p. 4; el detalle, en el tema 3).
-2. Que es el previsto en el parte de emisión y dura lo que dice (RP1; CR1.3).
+2. Que es el previsto en el parte de emisión y dura lo que dice (UC0217_3, RP1 y CR1.3).
 3. Que se lanza en su momento: la RP2 empieza por **«Controlar la emisión de fuentes de video y/o
    audio»**, y el ayudante canta los minutados musicales (CR2.1).
 
@@ -1347,9 +1349,9 @@ paréntesis es oficio):
 | 4 | Prefijar transiciones, llaves y memorias | Comprueba que son las previstas y que el mezclador está preparado | RA 5.e; ficha 5352000; CE1.5 y CE1.6 |
 | 5 | Pactar con el control de cámaras el ajuste y con el iluminador superior el estilo de luz | Comprueba que las cámaras están ajustadas y que la iluminación es la prevista | Fichas 5342100 y 5341111; CE1.5; RP1 |
 | 6 | Cargar y nombrar los vídeos en el servidor según la escaleta | Verifica códigos, coleos y duraciones contra el parte | LE 6.1.1; CR1.1 a CR1.3 |
-| 7 | Tener localizados y cargados las músicas y los efectos | Verifica que son los previstos y su duración | UC0216_3, CR3.2; CR1.3 |
-| 8 | Preparar el grafismo | Comprueba la plantilla y pagina la tituladora | CR1.6; CR3.5 |
-| 9 | Comprobar sonido, prompter y retornos de los presentadores | Comprueba que el técnico de sonido ha ajustado su equipo y el prompter su velocidad; acciona el envío de vídeo a plató | CE1.5; CR3.2 |
+| 7 | Tener localizados y cargados las músicas y los efectos | Verifica que son los previstos y su duración | UC0216_3, CR3.2; UC0217_3, CR1.3 |
+| 8 | Preparar el grafismo | Comprueba la plantilla y pagina la tituladora | UC0217_3, CR1.6 y CR3.5 |
+| 9 | Comprobar sonido, prompter y retornos de los presentadores | Comprueba que el técnico de sonido ha ajustado su equipo y, si el programa lleva prompter, su velocidad; acciona el envío de vídeo a plató | MF0217_3, CE1.5; UC0217_3, CR3.2 |
 | 10 | Montar el panel de intercom y probar cada punto, cada IFB y el piloto | Prueba su propio panel y el enlace con el plató | RD 1680/2011, 0910, RA 4.d; UC0216_3, CR5.2 |
 | 11 | Acordar con continuidad la hora de entrada y los tiempos de publicidad | Lo comunica a continuidad y a todo el equipo | Ficha 5302010; CR2.6 |
 
@@ -1359,7 +1361,7 @@ Casos resueltos:
 |---|---|---|
 | Un informativo tiene una conexión exterior que llega por el control central | La señal entra por el control central, sincronizada; en el mezclador ocupa una entrada fija; el reportero recibe un IFB con N-1 | Cadena de la señal; sincronizadores; N-1 |
 | Otra cadena pide la señal del programa sin la mosca | Se le da la salida limpia | Salidas del mezclador |
-| El presentador de plató necesita ver la conexión, no el programa | Se le configura el retorno de plató desde un auxiliar; el ayudante acciona el envío según escaleta y realizador | Los retornos son configurables; CR3.2 |
+| El presentador de plató necesita ver la conexión, no el programa | Se le configura el retorno de plató desde un auxiliar; el ayudante acciona el envío según escaleta y realizador | Los retornos son configurables; UC0217_3, CR3.2 |
 | La cámara 3 casa mal con las demás en el ensayo | El realizador lo pide al control de cámaras; no lo corrige el operador ni el ayudante | Control de imagen; ficha 5342100 |
 | Una pieza llega con dos segundos de coleo de entrada, y el parte pedía más | El ayudante avisa al mezclador y al operador de sonido | UC0217_3, CR1.2 |
 | La duración real de una pieza no coincide con la del parte | Se anota en el parte y se informa al realizador | CR1.1 y CR1.3 |
@@ -1369,7 +1371,7 @@ Casos resueltos:
 | El realizador quiere oír siempre al ayudante sin pulsar | Deja el confidente en su punto | El confidente |
 | El editor cambia el orden de dos noticias a última hora | Se comunica inmediata y simultáneamente a todos los afectados: el prompter, el titulador y el servidor siguen la nueva escaleta | LE 6.1; MOS |
 | Un vídeo no aparece en el servidor | Se busca por su nombre de escaleta; si no está, se avisa y se cambia el orden | LE 6.1.1 |
-| Un rótulo hay que añadirlo en directo | Lo pide dirección o realización; la asistencia lo pagina | IMS077_3, CR3.5 |
+| Un rótulo hay que añadirlo en directo | Lo pide dirección o realización; la asistencia lo pagina | IMS077_3, UC0217_3, CR3.5 |
 | Se hacen unas ventanas con tres cámaras | Los tres operadores ven su piloto encendido y no mueven la cámara | El piloto |
 | Hace falta un cambio de luz en un bloque | El realizador lo pide a la mesa de luces por intercom; lo ejecuta el iluminador; el ayudante lo tenía anotado y lo anticipa | Ficha 5341112; esquema de intercomunicación; CR2.1 |
 | El bloque va un minuto largo sobre lo pactado con continuidad | El ayudante transmite la diferencia al realizador y al director del programa | CR2.7 |

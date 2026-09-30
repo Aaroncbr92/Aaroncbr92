@@ -6,16 +6,16 @@
 | --- | --- |
 | Bloque | Temario específico de Ayudante de Realización · punto 15 |
 | Sirve para | Ayudante de Realización de Canal Sur (grupo B03): test de teoría específica y de aplicación práctica, y prueba práctica del puesto |
-| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2, artículo 101.1.g) y artículo 156.2); Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (artículos 6.8, 7 y 26) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Ayudante de Realización. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 6 y 7; módulos 0902 y 0910). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS). Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; ficha web de la mochila LiveU LU800; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (2024). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
+| Fuente | Ley 13/2022, General de Comunicación Audiovisual (definiciones del artículo 2, artículo 101.1.g) y artículo 156.2); Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i). Lo propio de la casa: Carta del Servicio Público de la RTVA 2024-2029 (artículos 6.8, 7 y 26) y Contrato-programa RTVA 2024-2026 (parte expositiva y cláusula tercera); X Convenio Colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III, ficha del Ayudante de Realización. Norma de enseñanza, no del oficio: Real Decreto 1680/2011, título de Técnico Superior en Realización de proyectos audiovisuales y espectáculos (artículos 6 y 7; módulos 0902 y 0910), y cualificación profesional IMS077_3, «Asistencia a la realización en televisión» (Real Decreto 295/2004; UC0216_3 y UC0217_3). Normas técnicas: SMPTE ST 2110-10:2022, ST 2110-20:2022 y ST 2110-30:2025; EBU R 128 s2 (2023); RFC 8216 (HLS). Especificaciones y documentación: Adobe (RTMP), borrador IETF de SRT, AMWA (NMOS), NDI; ficha web de la mochila LiveU LU800; páginas de ayuda de YouTube (relaciones de aspecto, Shorts, miniaturas, codificación de subidas, emisión en directo, ajustes del codificador y latencia); manual de DaVinci Resolve 21. Manual universitario: Mateu Torres, *Fundamentos teóricos de la edición y el montaje audiovisual* (2024). Datos de consumo: Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Real Decreto 1680/2011 en su texto de 2011 (el Real Decreto 500/2024 lo modifica, pero no toca los artículos ni los módulos que se citan); normas técnicas en las ediciones citadas; páginas de ayuda de YouTube tal como estaban el día en que se leyeron (25-09-2026 y 29-09-2026: son páginas vivas y cambian) |
-| Extensión | 15.500 palabras aproximadamente |
+| Extensión | 18.800 palabras aproximadamente |
 
 <!-- /portada -->
 
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV), a la que la Carta y el Contrato-programa llaman «Canal Sur»; Corporación
 de Radio y Televisión Española (RTVE), cuyo Manual de Estilo se cita como pauta de oficio; Ley
-13/2022, de 7 de julio, General de Comunicación Audiovisual (LGCA); Unión Europea (UE); real decreto (RD), y en las citas del RD
+13/2022, de 7 de julio, General de Comunicación Audiovisual (LGCA); Unión Europea (UE); Instituto Nacional de las Cualificaciones (INCUAL), que publica la cualificación del ayudante; real decreto (RD), y en las citas del RD
 1680/2011, cada resultado de aprendizaje (RA) del módulo con la letra de su criterio de evaluación;
 servicio de vídeo por internet (OTT, *over the top*);
 televisión digital terrestre (TDT); televisión por protocolo de internet (IPTV) y servicio de mensajes cortos (SMS), que nombra el RD 1680/2011; alta definición
@@ -78,6 +78,73 @@ cómo funciona el directo doble horizontal y vertical; qué es la familia SMPTE 
 PTP, qué es ST 2022-7, NMOS y NDI; qué hace el ayudante en todo ello.
 
 <!-- indice -->
+
+## Índice
+
+- [De dónde sale este tema](#de-dónde-sale-este-tema)
+- [1. Realización para plataformas digitales](#1-realización-para-plataformas-digitales)
+  - [El servicio público digital de Canal Sur](#el-servicio-público-digital-de-canal-sur)
+  - [La expansión digital en la Carta del Servicio Público (artículo 7)](#la-expansión-digital-en-la-carta-del-servicio-público-artículo-7)
+  - [Multiplataforma, transmedia y gestor de contenidos: vocabulario de oficio](#multiplataforma-transmedia-y-gestor-de-contenidos-vocabulario-de-oficio)
+  - [Dónde se ve hoy el vídeo informativo](#dónde-se-ve-hoy-el-vídeo-informativo)
+  - [Qué es cada formato para la Ley 13/2022](#qué-es-cada-formato-para-la-ley-132022)
+  - [Qué cambia de la televisión a la web](#qué-cambia-de-la-televisión-a-la-web)
+  - [El flujo de trabajo de un canal online](#el-flujo-de-trabajo-de-un-canal-online)
+  - [Publicar: gestor de contenidos, listas de reproducción y transferencia](#publicar-gestor-de-contenidos-listas-de-reproducción-y-transferencia)
+  - [Narrativas digitales](#narrativas-digitales)
+  - [El vídeo interactivo y lo que cuesta producirlo](#el-vídeo-interactivo-y-lo-que-cuesta-producirlo)
+  - [El vídeo de 360 grados](#el-vídeo-de-360-grados)
+  - [Un máster por destino](#un-máster-por-destino)
+  - [Exportar para YouTube: la codificación recomendada](#exportar-para-youtube-la-codificación-recomendada)
+  - [La sonoridad del *streaming*](#la-sonoridad-del-streaming)
+  - [El *streaming* en Canal Sur: Canal Sur Más](#el-streaming-en-canal-sur-canal-sur-más)
+  - [La accesibilidad de cada versión](#la-accesibilidad-de-cada-versión)
+  - [Lo que decide el realizador para cada salida](#lo-que-decide-el-realizador-para-cada-salida)
+  - [Lo que la norma de enseñanza pide al realizador](#lo-que-la-norma-de-enseñanza-pide-al-realizador)
+  - [El ayudante en las plataformas digitales](#el-ayudante-en-las-plataformas-digitales)
+- [2. Redes sociales](#2-redes-sociales)
+  - [Por qué Canal Sur está en redes](#por-qué-canal-sur-está-en-redes)
+  - [Canal Sur como usuario de las plataformas](#canal-sur-como-usuario-de-las-plataformas)
+  - [Relación de aspecto: lo que dice la plataforma](#relación-de-aspecto-lo-que-dice-la-plataforma)
+  - [Qué vídeo es un Short](#qué-vídeo-es-un-short)
+  - [Montar en vertical: la línea de tiempo, las guías y las zonas seguras](#montar-en-vertical-la-línea-de-tiempo-las-guías-y-las-zonas-seguras)
+  - [Reencuadrar: oficio](#reencuadrar-oficio)
+  - [Realizar pensando en el vertical](#realizar-pensando-en-el-vertical)
+  - [Qué es un clip](#qué-es-un-clip)
+  - [La pieza que se entiende sola](#la-pieza-que-se-entiende-sola)
+  - [La miniatura](#la-miniatura)
+  - [Cómo se cuenta en redes: pautas de oficio](#cómo-se-cuenta-en-redes-pautas-de-oficio)
+  - [Música y derechos en las plataformas](#música-y-derechos-en-las-plataformas)
+  - [La participación de la audiencia](#la-participación-de-la-audiencia)
+  - [Conservar lo publicado y retirar lo que no debe seguir en línea](#conservar-lo-publicado-y-retirar-lo-que-no-debe-seguir-en-línea)
+- [3. Directos IP](#3-directos-ip)
+  - [Qué es el *streaming*](#qué-es-el-streaming)
+  - [Dos usos del *streaming*: contribuir y distribuir](#dos-usos-del-streaming-contribuir-y-distribuir)
+  - [Emitir hacia una plataforma: URL, clave, RTMP y HLS](#emitir-hacia-una-plataforma-url-clave-rtmp-y-hls)
+  - [Los parámetros de ingesta](#los-parámetros-de-ingesta)
+  - [La latencia del directo en plataforma](#la-latencia-del-directo-en-plataforma)
+  - [El directo en horizontal y vertical a la vez](#el-directo-en-horizontal-y-vertical-a-la-vez)
+  - [SRT, un protocolo de contribución por Internet](#srt-un-protocolo-de-contribución-por-internet)
+  - [La mochila de agregación celular y la producción remota](#la-mochila-de-agregación-celular-y-la-producción-remota)
+  - [Una fuente por videoconferencia](#una-fuente-por-videoconferencia)
+  - [Señales IP en la instalación](#señales-ip-en-la-instalación)
+  - [La familia SMPTE ST 2110](#la-familia-smpte-st-2110)
+  - [El reloj común: PTP](#el-reloj-común-ptp)
+  - [Redundancia y límites de paquete](#redundancia-y-límites-de-paquete)
+  - [NMOS: descubrir, conectar y dar piloto en la red](#nmos-descubrir-conectar-y-dar-piloto-en-la-red)
+  - [NDI](#ndi)
+  - [Comparación](#comparación)
+  - [Lo que el realizador prevé en un directo IP](#lo-que-el-realizador-prevé-en-un-directo-ip)
+  - [Lo que hace el ayudante en un directo IP](#lo-que-hace-el-ayudante-en-un-directo-ip)
+- [Aplicación práctica](#aplicación-práctica)
+  - [Un magacín en directo con salida en antena, Canal Sur Más, YouTube y redes](#un-magacín-en-directo-con-salida-en-antena-canal-sur-más-youtube-y-redes)
+  - [Una promoción para redes encargada al ayudante](#una-promoción-para-redes-encargada-al-ayudante)
+  - [Cuentas que se piden](#cuentas-que-se-piden)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Normas y documentos técnicos que el tema cita](#normas-y-documentos-técnicos-que-el-tema-cita)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## De dónde sale este tema
@@ -258,12 +325,12 @@ Aplicado a los formatos digitales:
   puestos a disposición del público, el cual elige el programa y el momento de visionado o
   audición**».
 - Cuando el vídeo corto se publica en una red social de vídeo, Canal Sur actúa como usuario de una
-  plataforma de intercambio de vídeos (epígrafe 3).
+  plataforma de intercambio de vídeos (epígrafe 2).
 
 Para el realizador, la casilla importa porque de ella dependen obligaciones legales: un
 directo de la señal de televisión por internet sigue siendo televisión lineal, y un clip de
 segundos sigue siendo un programa, con sus obligaciones de accesibilidad, de protección de menores y
-de tratamiento responsable de imágenes (tema 16).
+de tratamiento responsable de imágenes (la accesibilidad, en el tema 17; la protección de menores y el tratamiento responsable de imágenes, en el tema 16 del específico de Realizador/a).
 
 ### Qué cambia de la televisión a la web
 
@@ -508,7 +575,7 @@ adecuada.
 Lo que se sigue para la realización (oficio): si el máster de emisión es entrelazado, o va en un
 códec y un contenedor de producción (tema 14), no se sube tal cual; se exporta una versión
 progresiva, H.264, 4:2:0, en MP4, con la cadencia con que se grabó. Las páginas de YouTube, además,
-recomiendan cosas distintas para la subida de un fichero y para el directo (epígrafe 4): para el
+recomiendan cosas distintas para la subida de un fichero y para el directo (epígrafe 3): para el
 fichero, tasa variable sin límite y GOP cerrado de media cadencia; para el directo, tasa constante y
 fotograma clave cada dos segundos.
 
@@ -568,7 +635,7 @@ La difusión mundial queda, pues, sujeta a tener los derechos.
 
 Lo que eso significa para el realizador: lo que realiza para la antena se distribuye también por
 *streaming* en la plataforma propia, a veces con otros derechos (la difusión mundial depende de
-tenerlos) y, por tanto, con piezas o planos que hay que sustituir en la versión de internet (tema 17).
+tenerlos) y, por tanto, con piezas o planos que hay que sustituir en la versión de internet (tema 17 del específico de Realizador/a).
 
 ### La accesibilidad de cada versión
 
@@ -577,7 +644,7 @@ en fichero aparte (oficio); la LGCA obliga a que las páginas web y las aplicaci
 accesibles (artículo 101.1.g), y la Ley 10/2018, audiovisual de Andalucía (artículo 31.1.i), a
 mantener **«la clasificación por edades y las características de accesibilidad»** de lo emitido cuando se ofrece en medios no sujetos a
 restricciones horarias. El subtitulado, la audiodescripción y la lengua de signos (con la ventana de
-signos en el vídeo para internet) son el tema 16, como la protección de menores: la clasificación por edades
+signos en el vídeo para internet) son el tema 17; la protección de menores, el tema 16 del específico de Realizador/a: la clasificación por edades
 viaja también a la versión de internet.
 
 ### Lo que decide el realizador para cada salida
@@ -591,7 +658,7 @@ montaje hasta su acabado) y como oficio:
 | Exploración | La de emisión (tema 14) | Progresiva, si la plataforma lo pide | Progresiva: el entrelazado se desentrelaza | Progresiva |
 | Sonoridad | −23 LUFS | Recomendación EBU R 128 s2: −23 LUFS con metadatos; sin ellos, puede subir, provisionalmente, a entre −20 y −16 LUFS (lo que aplica Canal Sur no consta) | No publicada por YouTube | No leída |
 | Subtítulos | Cerrados | Cerrados, en fichero aparte | Según la plataforma | Abiertos, incrustados |
-| Grafismo | El de emisión | El de emisión | El de emisión, si respeta las zonas seguras | Rehecho para el vertical (epígrafe 3) |
+| Grafismo | El de emisión | El de emisión | El de emisión, si respeta las zonas seguras | Rehecho para el vertical (epígrafe 2) |
 | Duración | La del hueco | La del programa o de la pieza | La de la pieza | En YouTube, hasta tres minutos para ser Short; en las demás redes, no leído |
 
 Las cifras de las plataformas son de sus páginas de ayuda en la fecha de lectura y pueden cambiar;
@@ -639,7 +706,12 @@ ficha y del oficio.
 La realización de cada versión la decide el realizador; al ayudante le toca, por su ficha, asistir
 en esas decisiones, coordinar el montaje y la postproducción de cada versión hasta su acabado y
 realizar las piezas cortas que se le encarguen (microespacios, promociones) bajo las directrices del
-realizador. En la práctica (oficio, con los datos de los epígrafes anteriores):
+realizador. La cualificación IMS077_3 le da, además, una tarea que alcanza de lleno a las versiones
+para internet: **«La gestión de los derechos de autor o de la propiedad intelectual de los recursos
+audiovisuales y gráficos se supervisa consiguiendo la titularidad de los mismos según la cobertura y
+el tipo de emisión del programa.»** (UC0216_3, CR3.3). Cada salida (antena, Canal Sur Más con
+difusión mundial, redes) es una cobertura distinta, y los derechos se comprueban para cada una. En la
+práctica (oficio, con los datos de los epígrafes anteriores):
 
 | Qué hace el ayudante | Con qué dato | Dónde se estudia |
 | --- | --- | --- |
@@ -654,7 +726,7 @@ El orden en que el ayudante revisa una versión antes de entregarla es el de la 
 decide para cada salida»: relación de aspecto, exploración, sonoridad, subtítulos, grafismo y
 duración (oficio).
 
-## 3. Redes sociales
+## 2. Redes sociales
 
 ### Por qué Canal Sur está en redes
 
@@ -785,7 +857,7 @@ directo, la decisión es anterior y es del realizador (oficio):
   pantalla de fondo) se colocan pensando en el recorte central: lo que sólo cabe en los extremos del
   16:9 desaparece en el 9:16.
 - En directo, la vía más simple es el recorte central automático de la plataforma; la más cuidada,
-  una segunda realización vertical con sus propias fuentes y su propio grafismo (epígrafe 4, «El
+  una segunda realización vertical con sus propias fuentes y su propio grafismo (epígrafe 3, «El
   directo en horizontal y vertical a la vez»).
 - El grafismo vertical se diseña aparte (tema 12) y se lanza en su propia salida; no se aprovecha el
   rótulo de emisión recortado.
@@ -800,7 +872,7 @@ partido, un fragmento de una noticia. Este segundo sentido no tiene definición 
 fuente técnica leída; es vocabulario de oficio.
 
 Para la ley, un clip no es menos que una pieza larga: el vídeo corto es un programa (artículo 2.18
-LGCA; epígrafe 2).
+LGCA; epígrafe 1).
 
 ### La pieza que se entiende sola
 
@@ -824,9 +896,9 @@ Aplicado a la realización de clips (oficio):
   pasado. Si el contexto no cabe en la imagen, va en un rótulo o en el subtítulo incrustado.
 - Se corta por unidades de sentido: una respuesta completa, una jugada entera. No se deja una frase a
   medias ni se junta con otra respuesta como si fueran una sola (el respeto al sentido de lo dicho es
-  el mismo que en la pieza de emisión; tema 16).
+  el mismo que en la pieza de emisión; tema 16 del específico de Realizador/a).
 - La duración la manda la salida: un vertical de YouTube es Short si no pasa de tres minutos (arriba),
-  y en TikTok predomina el vídeo de menos de dos (epígrafe 2).
+  y en TikTok predomina el vídeo de menos de dos (epígrafe 1).
 - Cada clip es un fichero y una publicación distintos, con su propio título, su miniatura y sus
   metadatos; si sale de una pieza de archivo o de material de terceros, arrastra sus derechos (tema
   17).
@@ -844,7 +916,7 @@ tamaño posible, ya que se utilizará como imagen de vista previa en el reproduc
 
 Para la realización (oficio): si se quiere una buena miniatura, se prevé un fotograma o una foto fija
 en la grabación, a la resolución del máster; se respeta el derecho de imagen de quien aparece en ella
-como en el vídeo (tema 17), y no promete lo que el vídeo no tiene.
+como en el vídeo (tema 17 del específico de Realizador/a), y no promete lo que el vídeo no tiene.
 
 ### Cómo se cuenta en redes: pautas de oficio
 
@@ -889,7 +961,7 @@ la versión para redes. En YouTube (página de los Shorts de tres minutos, leíd
 Lo que la plataforma deje subir no dice nada de si Canal Sur tiene derecho a usarlo: la licencia de la
 música de un programa puede cubrir la emisión y no las redes, y la imagen de un tercero cedida para un
 informativo puede no poder publicarse suelta. Derechos de autor, música, archivo y materiales de
-terceros son el tema 17.
+terceros son el tema 17 del específico de Realizador/a.
 
 ### La participación de la audiencia
 
@@ -919,7 +991,7 @@ quienes accedan a sus soportes digitales y se registren o interactúen con sus p
 
 Para la realización (oficio): un directo en redes con comentarios o encuestas es un directo con
 participación, y la participación se prevé como cualquier fuente: quién modera, qué entra en
-pantalla, con qué retardo llega (epígrafe 4, la latencia) y qué se hace si entra algo que no se puede
+pantalla, con qué retardo llega (epígrafe 3, la latencia) y qué se hace si entra algo que no se puede
 emitir. Lo que el público escribe no se rotula sin filtro.
 
 ### Conservar lo publicado y retirar lo que no debe seguir en línea
@@ -939,7 +1011,7 @@ supresión de una persona (protección de datos) o por decisión editorial; pero
 disposición del público se conserva el plazo legal. Y retirar bien incluye retirar lo que apuntaba a
 la pieza: enlaces desde otras noticias y listas de reproducción.
 
-## 4. Directos IP
+## 3. Directos IP
 
 «Directo IP» se usa para dos cosas: el directo que sale por internet hacia el público (una
 plataforma, una red, la OTT propia) y el directo cuyas señales viajan por redes IP en lugar de por
@@ -1113,7 +1185,7 @@ Lo que hay que saber antes de empezar:
 
 Para la realización (oficio): con el recorte central, todo lo importante (la acción, las caras, el
 rótulo) tiene que vivir en la franja central del 16:9, que es menos de un tercio de su ancho
-(epígrafe 3, «Reencuadrar»); si el programa no se puede componer así, hace falta una segunda salida
+(epígrafe 2, «Reencuadrar»); si el programa no se puede componer así, hace falta una segunda salida
 realizada en vertical, con su propio grafismo, y un segundo codificador o una segunda clave.
 
 ### SRT, un protocolo de contribución por Internet
@@ -1356,8 +1428,8 @@ Reunido lo anterior, como oficio salvo lo que lleva fuente:
 | Antes | Durante | Después |
 | --- | --- | --- |
 | Qué salidas hay (antena, Canal Sur Más, plataforma, vertical) y quién tiene las claves de emisión: lo digital lo organiza Canal Sur Media (punto 46); quién gestiona cada cuenta no consta | Vigilar el estado de la emisión en la plataforma y en el retorno (**«monitor the stream health»**) | Revisar la grabación local y lo publicado |
-| Codificador, línea con subida sobrada y, si hay, línea de reserva; prueba previa con la plataforma, con audio y movimiento (YouTube: **«Make sure to test»**) | Tener en cuenta la latencia de cada salida al coordinar la participación | Retirar o sustituir lo que no tenga derechos para internet (tema 17) |
-| Decidir la latencia y el vertical antes de empezar: el vertical no se añade con la emisión en marcha | Seguir las órdenes de realización de siempre: la señal IP no cambia el oficio de mando (tema 6) | Conservar lo emitido el plazo legal (artículo 156.2 LGCA, epígrafe 3) |
+| Codificador, línea con subida sobrada y, si hay, línea de reserva; prueba previa con la plataforma, con audio y movimiento (YouTube: **«Make sure to test»**) | Tener en cuenta la latencia de cada salida al coordinar la participación | Retirar o sustituir lo que no tenga derechos para internet (tema 17 del específico de Realizador/a) |
+| Decidir la latencia y el vertical antes de empezar: el vertical no se añade con la emisión en marcha | Seguir las órdenes de realización de siempre: la señal IP no cambia el oficio de mando (tema 6) | Conservar lo emitido el plazo legal (artículo 156.2 LGCA, epígrafe 2) |
 | Fuentes de fuera (mochila, SRT, videollamada): probadas, con su retardo medido y avisado al presentador, y con retorno en N-1 | Grabar localmente lo que se emite | — |
 
 Qué protocolo, qué plataformas y qué equipamiento IP usa Canal Sur no consta en un documento
@@ -1397,35 +1469,35 @@ Canal Sur Más, y además en directo en YouTube en horizontal y vertical; despu�
 verticales para redes. El recorrido (los pasos son de oficio; los datos, de los epígrafes citados):
 
 1. Antes: pedir a Canal Sur Media qué salidas hay, con qué especificaciones y quién tiene la cuenta y
-   las claves de la plataforma, porque Canal Sur no las publica (epígrafes 2 y 4). Comprobar que la
+   las claves de la plataforma, porque Canal Sur no las publica (epígrafes 1 y 3). Comprobar que la
    música y el material de terceros tienen derechos para internet y para la difusión mundial de
-   Canal Sur Más (epígrafes 2 y 3; tema 17).
+   Canal Sur Más (epígrafes 1 y 2; tema 17 del específico de Realizador/a).
 2. Vertical: decidir antes del directo si basta el recorte central de YouTube o hace falta una
-   segunda realización; el vertical no se puede añadir con la emisión empezada (epígrafe 4). Con
+   segunda realización; el vertical no se puede añadir con la emisión empezada (epígrafe 3). Con
    recorte central, presentador, invitados y rótulo principal se colocan en la franja central, que
-   en un 1920 × 1080 es de 608 × 1080 (epígrafe 3).
+   en un 1920 × 1080 es de 608 × 1080 (epígrafe 2).
 3. Codificador: RTMPS, H.264 a 1080p; si la emisión es de 50 cuadros, la tabla de YouTube sólo da 30
    y 60, y se toma la de 60 como referencia (12 Mbps recomendados en H.264); fotograma clave
-   cada 2 segundos y nunca más de 4; CBR; AAC (epígrafe 4). Con dos claves (horizontal y vertical),
+   cada 2 segundos y nunca más de 4; CBR; AAC (epígrafe 3). Con dos claves (horizontal y vertical),
    la subida tiene que aguantar el doble.
 4. Latencia: con encuestas y preguntas del público, latencia baja (menos de 10 segundos para la
    mayoría) o ultrabaja (menos de 5), sin 4K; se avisa al presentador del retraso con el que llegan
-   las respuestas (epígrafe 4).
+   las respuestas (epígrafe 3).
 5. Fuentes de fuera: la mochila por SRT, con su latencia fija medida; el invitado por videollamada,
-   probado antes en su equipo y en su sitio, con auriculares y retorno sin su propia voz (epígrafe 4;
+   probado antes en su equipo y en su sitio, con auriculares y retorno sin su propia voz (epígrafe 3;
    tema 11).
 6. Sonoridad: la antena, a −23 LUFS; Canal Sur Más, lo que recomienda la EBU R 128 s2 (−23 LUFS con metadatos o, sin ellos,
    provisionalmente de −20 a −16 LUFS), porque lo que aplica Canal Sur no consta publicado; lo de YouTube, lo que se decida con Canal Sur Media, porque YouTube no
-   publica una cifra en las páginas leídas (epígrafe 2).
+   publica una cifra en las páginas leídas (epígrafe 1).
 7. Durante: vigilar el estado de la emisión en la plataforma y el retorno; grabar localmente lo que
-   se emite; lo que escribe el público no entra en pantalla sin moderación (epígrafes 3 y 4).
+   se emite; lo que escribe el público no entra en pantalla sin moderación (epígrafes 2 y 3).
 8. Después: tres clips verticales, cada uno una unidad de sentido (una respuesta entera), con rótulo
    de quién habla y subtítulo incrustado, arrancando por lo más fuerte; si son verticales y no pasan
-   de tres minutos, serán Shorts; miniatura propia a la resolución del máster (epígrafe 3).
+   de tres minutos, serán Shorts; miniatura propia a la resolución del máster (epígrafe 2).
 9. Exportación de los clips para YouTube: MP4, H.264, 4:2:0, AAC-LC a 48 kHz, BT.709, progresivo;
-   si el máster es entrelazado a 50 campos, se desentrelaza a 25 fotogramas progresivos (epígrafe 2).
+   si el máster es entrelazado a 50 campos, se desentrelaza a 25 fotogramas progresivos (epígrafe 1).
 10. Conservación: lo puesto a disposición del público se conserva seis meses desde su primera puesta
-    a disposición (artículo 156.2 LGCA), aunque se retire de la web o de la red (epígrafe 3).
+    a disposición (artículo 156.2 LGCA), aunque se retire de la web o de la red (epígrafe 2).
 
 En ese supuesto, lo que corresponde al ayudante (oficio, con su ficha y la IMS077_3):
 
@@ -1532,7 +1604,7 @@ Recorrido (oficio, con los datos de los epígrafes citados):
 
 | Fuente | Qué sostiene | Leída |
 | --- | --- | --- |
-| Tema 15 del específico de Realizador/a de Canal Sur (cerrado), del que se copian los epígrafes 2, 3 y 4, parte del 1 y la aplicación práctica, con sus fuentes | Epígrafes 1, 2 y 3 y aplicación práctica | 24-09-2026 a 29-09-2026 (según ese tema) |
+| Tema 15 del específico de Realizador/a de Canal Sur (cerrado), del que se copian sus epígrafes 2 (plataformas), 3 (redes) y 4 (directos IP), parte del 1 y la aplicación práctica, con sus fuentes | Epígrafes 1, 2 y 3 y aplicación práctica | 24-09-2026 a 29-09-2026 (según ese tema) |
 | Tema 14 del específico de Redactor/a de Canal Sur (cerrado): Contrato-programa, Carta arts. 6.8, 7 y 26, LGCA art. 2 | Epígrafe 1 (servicio público digital, Carta art. 7, vocabulario, LGCA); epígrafe 2 (Carta 6.8, participación) | 24-09-2026 (según ese tema) |
 | Tema 12 del específico de Operador/a Montador/a de Vídeo (cerrado): *Digital News Report 2026*, YouTube, DaVinci Resolve 21, LGCA art. 156.2 | Epígrafes 1 y 2 | 25-09-2026 (según ese tema) |
 | Tema 9 del específico de Productor/a (cerrado): flujo web, máster por destino, redes, narrativas digitales, Mateu Torres (2024), EBU R 128 s2 | Epígrafes 1 y 2 | Según ese tema |
