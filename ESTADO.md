@@ -1860,10 +1860,13 @@ Ocho puestos cerrados: 155 de las 228 plazas (68 %) tienen ya temario completo, 
 
 ### 31 Presentador Productor de Radio: adelantado y parado (a petición del titular, 03-10-2026)
 
-Lanzado fuera de orden y parado a los pocos minutos. Datos en `informes/canal-sur-especificos/31-args.json`
-(tema 7 idéntico a Sonido 7; 17 y 18 parecidos). Para continuar: mirar qué hay en disco
-(investigaciones `31-investigacion-*.md`, temas, informes) y lanzar el workflow con `desde` por tema;
-si alguna investigación está a medias, lanzarlo sin `desde` (la investigación completa lo que falte).
+Lanzado fuera de orden y parado en marcha. Dónde se quedó:
+- Investigación de los tres bloques, completa. Los 18 temas redactados; el 7 copiado de Sonido, con esquema.
+- Verificados: todos menos el 7 (que no lo necesita).
+- Refutados: 01, 09, 10, 11, 17 y 18. **Faltan por refutar: 02-06, 08, 12-16.**
+- **Faltan el remate y el esquema de todos menos el 7.**
+- Para continuar: workflow con `31-args.json` y `desde` = `rematar` en 01, 09, 10, 11, 17 y 18 y `refutar`
+  en el resto (sin el 7). Después, volumen con `_puesto_canal_sur` en `libro.py`.
 
 Siguiente puesto por plazas, después: 27 Oficial Técnico Electricista (5 plazas, 19 temas).
 
