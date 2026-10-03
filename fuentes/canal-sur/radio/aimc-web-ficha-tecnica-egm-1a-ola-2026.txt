@@ -1,0 +1,310 @@
+Fuente: AIMC, web aimc.es (ficha-tecnica-egm-1a-ola-2026). Descargada el 03-10-2026.
+
+Ficha Técnica EGM. 1ª ola 2026
+EGM MULTIMEDIA
+• Universo:
+Individuos de 14 ó más años, residentes en hogares, ubicados en municipios dentro de la España Peninsular, Islas Baleares e Islas Canarias.
+• Método de recogida de información:
+Entrevista personal “face to face” asistida por ordenador (CAPI), en el hogar del entrevistado.
+Entrevista online a través de internet (CAWI).
+• Diseño muestral:
+Polietápico estratificado.
+Afijación proporcional por Comunidades Autónomas y provincias pero con un mínimo muestral provincial de 70 entrevistas por ola, 210 al año.
+Desproporción interna en cada provincia para aumentar la razón de muestreo en municipios de más de 50.000 habitantes (incluidas las capitales de provincia que no lleguen a esa cifra).
+Tal desproporción arroja un balance muestral final aproximado como sigue:
+Población
+Muestra
+H1 >= 50.000
+53.0%
+55.9%
+H2 < 50.000
+47.0%
+44.1%
+En cada comunidad y hábitat (H1 y H2) la distribución por provincias es proporcional.
+Tamaño muestral anual: 29.769 entrevistas (23.158 personales “face to face” + 6.611 online) .
+•  Trabajo de campo :
+Entrevistas “face to face” realizadas por Random y Kantar.
+Entrevistas online realizadas por Random, Kantar, Netquest y Dynata.
+• Selección de las unidades muestrales:
+Face to face
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 7 entrevistas en cada sección censal, 6 probabilísticas y una más por cuotas cruzadas de sexo, grupo de edad y actividad (trabaja-no trabaja).
+Selección del hogar, mediante procedimiento de rutas aleatorias circunscritas a secciones censales.
+Selección de la persona en el hogar, mediante un procedimiento aleatorio.
+Sustituciones por personas del mismo sexo, grupo de actividad e intervalo de edad.
+Online
+Envío por correo electrónico o whatsapp de un enlace que permite realizar una única entrevista con todo el contenido del cuestionario multimedia a:
+personas contactadas aleatoriamente por teléfono, que aceptan responder a una entrevista Online.
+miembros del panel de acceso de Kantar, Netquest y Dynata.
+• Plazo de realización:
+1ª ola 2026. Del 8 de enero al 11 de marzo 2026: 7.739 entrevistas “face to face” + 2.202 entrevistas online
+3ª ola 2025. Del 1 de septiembre al 2 de noviembre 2025: 7.739 entrevistas “face to face” + 2.197 entrevistas online
+2ª ola 2025. Del 19 de marzo al 27 de mayo 2025: 7.680 entrevistas “face to face” + 2.212 entrevistas online
+• Supervisión:
+Más del 25% de las entrevistas son supervisadas, de alguna forma, en los procesos internos de control que realizan los institutos.
+Un 10% de entrevistas se supervisa directamente por AIMC.
+• Proceso de datos:
+Validaciones/controles de congruencia (AIMC/ODEC).
+Equilibraje y fusión (ODEC).
+Producción de resultados: editing electrónico y ficheros (ODEC).
+EGM RADIO
+Para el medio Radio, además de las entrevistas personales “face to face” y online del EGM multimedia, existe una ampliación monomedia telefónica en la que se aborda únicamente este medio. Teniendo en cuenta esta ampliación, las características del EGM para el medio Radio son las siguientes:
+• Universo:
+Individuos de 14 ó más años, residentes en hogares, ubicados en municipios dentro de la España Peninsular, Islas Baleares e Islas Canarias.
+• Método de recogida de información:
+Entrevista personal “face to face” asistida por ordenador (CAPI), en el hogar del entrevistado.
+Entrevista online a través de internet (CAWI).
+Entrevista telefónica asistida por ordenador (CATI).
+• Diseño muestral:
+Polietápico estratificado.
+Afijación proporcional por Comunidades Autónomas y provincias pero con un mínimo muestral provincial de 156 entrevistas por ola, 470 al año.
+En la parte multimedia, desproporción interna en cada provincia  para aumentar la razón de muestreo en los municipios de más de 50.000 habitantes (incluidas las capitales de provincia que no lleguen a esa cifra). En la parte monomedia telefonica, completamente proporcional.
+Tal desproporción arroja un balance muestral final aproximado como sigue:
+Población
+Muestra
+H1 >= 50.000
+53.0%
+54.0%
+H2 < 50.000
+47.0%
+46.0%
+En cada comunidad y hábitat (H1 y H2) la distribución por provincias es proporcional.
+Incremento muestral en las comunidades de Andalucía, Aragón, Asturias, Baleares, Canarias, Castilla-La Mancha, Cataluña, Galicia, Murcia, País Vasco y Comunidad Valenciana.
+Ampliación muestral en Cataluña.
+Tamaño muestral anual: 78.236 entrevistas (23.158 personales “face to face” + 6.611 online + 48.467 telefónicas).
+• Trabajo de campo:
+Entrevistas “face to face” realizadas por Random y Kantar.
+Entrevistas online realizadas por  Random, Kantar, Netquest y Dynata.
+Entrevistas telefónicas realizadas por Imop Insights.
+• Selección de las unidades muestrales:
+Entrevistas personales “Face to Face”
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 7 entrevistas en cada sección censal, 6 probabilísticas y una más por cuotas cruzadas de sexo, grupo de edad y actividad (trabaja-no trabaja).
+Selección del hogar, mediante procedimiento de rutas aleatorias circunscritas a secciones censales.
+Selección de la persona en el hogar, mediante un procedimiento aleatorio.
+Sustituciones por personas del mismo sexo, grupo de actividad e intervalo de edad.
+Online
+Envío por correo electrónico o whatsapp de un enlace que permite realizar una única entrevista con todo el contenido del cuestionario multimedia a:
+personas contactadas aleatoriamente por teléfono, que aceptan responder a una entrevista Online.
+miembros del panel de acceso de Kantar, Netquest y Dynata.
+Entrevistas telefónicas
+En el monomedia telefónico se incluye una parte de la muestra realizada a individuos que viven en hogares donde solo hay teléfono móvil, es decir que disponen de teléfono móvil y no de teléfono fijo en el hogar.  Además una parte de la muestra se realiza a “todo tipo de móviles” es decir que no se ha tenido en cuenta en la selección si disponen o no de teléfono fijo en el hogar. La distribución de la muestra telefónica por tipo de entrevista en esta ola es:
+Un 49% entrevistas con llamada a un teléfono fijo.
+Un 32% entrevistas con llamada a un teléfono móvil con fijo.
+Un 19% entrevistas con llamadas a un teléfono exclusivamente móvil.
+Selección aleatoria de teléfonos por parte de Imop.
+Selección aleatoria de teléfonos móviles en base a un sistema de generación aleatoria de números de teléfono, partiendo de los paquetes asignados por la CNMC a los distintos operadores.
+Selección de la persona a entrevistar:
+En las llamadas a fijo selección aleatoria de una persona de entre las que viven en el hogar con 14 años o más.
+En las llamadas a móviles se entrevista al usuario del teléfono.
+Sustituciones de no contacto y negativas por otro hogar del mismo municipio.
+• Plazo de realización:
+1ª ola 2026.
+Del 8 de enero al 11 de marzo 2026: 7.739 entrevistas “face to face” + 2.202 entrevistas online
+Del 8 de enero al 18 de marzo 2026: 16.173 entrevistas telefónicas.
+3ª ola 2025.
+Del 1 de septiembre al 2 de noviembre 2025: 7.739 entrevistas “face to face” + 2.197 entrevistas online
+Del 1 de septiembre al 9 de noviembre 2025: 16.097 entrevistas telefónicas.
+2ª ola 2025.
+Del 19 de marzo al 27 de mayo 2025: 7.680 entrevistas “face to face” + 2.212 entrevistas online
+Del 19 de marzo al 3 de junio 2025: 16.197 entrevistas telefónicas.
+• Supervisión:
+Más del 25% de las entrevistas son supervisadas, de alguna forma, en los procesos internos de control que realizan los institutos.
+Un 10% de entrevistas se supervisa directamente por AIMC.
+• Proceso de datos:
+Validaciones/controles de congruencia (AIMC/ODEC).
+Equilibraje y fusión (ODEC).
+Producción de resultados: editing electrónico y ficheros (ODEC).
+EGM PRENSA
+Para el medio Diarios, además de las entrevistas personales “face to face” y online del EGM multimedia, existe una ampliación monomedia telefónica en la que se aborda únicamente este medio. Teniendo en cuenta esta ampliación, las características del EGM para el medio Diarios son las siguientes:
+• Universo:
+Individuos de 14 ó más años, residentes en hogares, ubicados en municipios dentro de la España Peninsular, Islas Baleares e Islas Canarias.
+• Método de recogida de información:
+Entrevista personal “face to face” asistida por ordenador (CAPI), en el hogar del entrevistado.
+Entrevista online a través de internet (CAWI).
+Entrevista telefónica asistida por ordenador (CATI).
+• Diseño muestral:
+Polietápico estratificado.
+Afijación proporcional por Comunidades Autónomas y provincias pero con un mínimo muestral provincial de 250 entrevistas por ola, 750 al año.
+Desproporción interna en cada provincia para aumentar la razón de muestreo en los municipios de más de 50.000 habitantes (incluidas las capitales de provincia que no lleguen a esa cifra).
+Tal desproporción arroja un balance muestral final aproximado como sigue:
+Población
+Muestra
+H1 >= 50.000
+53.0%
+55.0%
+H2 < 50.000
+47.0%
+45.0%
+En cada comunidad y hábitat (H1 y H2) la distribución por provincias es proporcional.
+Tamaño muestral anual: 74.917 entrevistas (23.158 personales “face to face” + 6.611 online + 45.148 telefónicas).
+• Trabajo de campo:
+Entrevistas “face to face” realizadas por Random y Kantar.
+Entrevistas online realizadas por  Random, Kantar, Netquest y Dynata.
+Entrevistas telefónicas realizadas por Imop Insights.
+• Selección de las unidades muestrales:
+Entrevistas personales “Face to Face”
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 7 entrevistas en cada sección censal, 6 probabilísticas y una más por cuotas cruzadas de sexo, grupo de edad y actividad (trabaja-no trabaja).
+Selección del hogar, mediante procedimiento de rutas aleatorias circunscritas a secciones censales.
+Selección de la persona en el hogar, mediante un procedimiento aleatorio.
+Sustituciones por personas del mismo sexo, grupo de actividad e intervalo de edad.
+Online
+Envío por correo electrónico o whatsapp de un enlace que permite realizar una única entrevista con todo el contenido del cuestionario multimedia a:
+personas contactadas aleatoriamente por teléfono, que aceptan responder a una entrevista Online.
+miembros del panel de acceso de Kantar, Netquest y Dynata.
+Entrevistas telefónicas
+En el monomedia telefónico se incluye una parte de la muestra realizada a individuos que viven en hogares donde solo hay teléfono móvil, es decir que disponen de teléfono móvil y no de teléfono fijo en el hogar. Además una parte de la muestra se realiza a “todo tipo de móviles” es decir que no se ha tenido en cuenta en la selección si disponen o no de teléfono fijo en el hogar. La distribución de la muestra telefónica por tipo de entrevista en esta ola es:
+Un 35% entrevistas con llamada a un teléfono fijo.
+Un 46% entrevistas con llamada a un teléfono móvil con fijo.
+Un 19% entrevistas con llamadas a un teléfono exclusivamente móvil.
+Selección aleatoria de teléfonos por parte de Imop.
+Selección aleatoria de teléfonos móviles en base a un sistema de generación aleatoria de números de teléfono, partiendo de los paquetes asignados por la CNMC a los distintos operadores.
+Selección de la persona a entrevistar:
+En las llamadas a fijo selección aleatoria de una persona de entre las que viven en el hogar con 14 años o más.
+En las llamadas a móviles se entrevista al usuario del teléfono.
+Sustituciones de no contacto y negativas por otro hogar del mismo municipio.
+• Plazo de realización:
+1ª ola 2026.
+Del 8 de enero al 11 de marzo 2026: 7.739 entrevistas “face to face” + 2.202 entrevistas online.
+Del 8 de enero al 18 de marzo 2026: 15.081 entrevistas telefónicas.
+3ª ola 2025.
+Del 1 de septiembre al 2 de noviembre 2025: 7.739 entrevistas “face to face” + 2.197 entrevistas online.
+Del 1 de septiembre al 9 de noviembre 2025: 15.049 entrevistas telefónicas.
+2ª ola 2025.
+Del 19 de marzo al 27 de mayo 2025: 7.680 entrevistas “face to face” + 2.212 entrevistas online.
+Del 19 de marzo al 3 de junio 2025: 15.018 entrevistas telefónicas.
+• Supervisión:
+Más del 25% de las entrevistas son supervisadas, de alguna forma, en los procesos internos de control que realizan los institutos.
+Un 10% de entrevistas se supervisa directamente por AIMC.
+• Proceso de datos:
+Validaciones/controles de congruencia (AIMC/ODEC).
+Equilibraje y fusión (ODEC).
+Producción de resultados: editing electrónico y ficheros (ODEC).
+EGM REVISTAS
+Para el medio Revistas, además de las entrevistas personales “face to face” y online del EGM multimedia, existe una ampliación monomedia (personal y online) en la que se aborda únicamente este medio. Teniendo en cuenta esta ampliación, las características del EGM para el medio Revistas son las siguientes:
+• Universo:
+Individuos de 14 ó más años, residentes en hogares, ubicados en municipios dentro de la España Peninsular, Islas Baleares e Islas Canarias.
+• Método de recogida de información:
+Entrevista personal “face to face” asistida por ordenador (CAPI), en el hogar del entrevistado.
+Entrevista online a través de internet (CAWI).
+• Diseño muestral:
+Polietápico estratificado.
+Afijación proporcional por Comunidades Autónomas y provincias pero con un mínimo muestral provincial en la parte procedente del estudio multimedia de 70 entrevistas por ola, 210 al año.
+Afijación proporcional por Comunidades Autónomas y provincias en la parte procedente del estudio monomedia de Revistas.
+Desproporción interna en cada provincia para aumentar la razón de muestreo en los municipios de más de 50.000 habitantes (incluidas las capitales de provincia que no lleguen a esa cifra). Factor 1,15 en la parte multimedia y 1,20 en la parte monomedia.
+Tal desproporción arroja un balance muestral final aproximado como sigue:
+Población
+Muestra
+H1 >= 50.000
+53.0%
+56.7%
+H2 < 50.000
+47.0%
+43.3%
+En cada comunidad y hábitat (H1 y H2) la distribución por provincias es proporcional.
+Tamaño muestral anual: 58.622 entrevistas (23.158 personales multimedia + 6.611 online multimedia + 9.719 personales monomedia + 19.134 online monomedia).
+• Trabajo de campo:
+Entrevistas “face to face” multimedia realizadas por Random y Kantar.
+Entrevistas “face to face” monomedia realizadas por Kantar.
+Entrevistas online multimedia realizadas por Random, Kantar, Netquest y Dynata.
+Entrevistas online monomedia realizadas por  Netquest y Dynata.
+• Selección de las unidades muestrales:
+Entrevistas personales “Face to Face” multimedia
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 7 entrevistas en cada sección censal, 6 probabilísticas y una más por cuotas cruzadas de sexo, grupo de edad y actividad (trabaja-no trabaja).
+Selección del hogar, mediante procedimiento de rutas aleatorias circunscritas a secciones censales.
+Selección de la persona en el hogar, mediante un procedimiento aleatorio.
+Sustituciones por personas del mismo sexo, grupo de actividad e intervalo de edad.
+Online multimedia
+Envío por correo electrónico o whatsapp de un enlace que permite realizar una única entrevista con todo el contenido del cuestionario multimedia a:
+personas contactadas aleatoriamente por teléfono, que aceptan responder a una entrevista Online.
+miembros del panel de acceso de Kantar, Netquest y Dynata.
+Entrevistas personales “Face to Face” monomedia Revistas
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 8 entrevistas en cada sección censal.
+Selección de la persona de la sección censal, mediante un procedimiento de cuotas cruzadas de las variables sexo, grupo de edad y trabaja-no trabaja.
+Online monomedia Revistas
+Envío de un correo electrónico con un enlace que permite realizar una única entrevista con el contenido del cuestionario monomedia, a personas pertenecientes a un panel online externo.
+• Plazo de realización:
+1 ª ola 2026.
+Del 8 de enero al 11 de marzo 2026: 7.739 entrevistas “face to face” multimedia + 2.202 online multimedia + 3.265 “face to face” monomedia + 6.292 online monomedia.
+3 ª ola 2025.
+Del 1 de septiembre al 2 de noviembre 2025: 7.739 entrevistas “face to face” multimedia + 2.197 online multimedia + 3.252 “face to face” monomedia + 6.120 online monomedia.
+2 ª ola 2025.
+Del 19 de marzo al 27 de mayo 2025: 7.680 entrevistas “face to face” multimedia + 2.212 online multimedia + 3.202 “face to face” monomedia + 6.722 online monomedia.
+• Supervisión:
+Más del 25% de las entrevistas son supervisadas, de alguna forma, en los procesos internos de control que realizan los institutos.
+Un 10% de entrevistas se supervisa directamente por AIMC.
+• Proceso de datos:
+Validaciones/controles de congruencia (AIMC/ODEC).
+Equilibraje y fusión (ODEC).
+Producción de resultados: editing electrónico y ficheros (ODEC).
+EGM TELEVISIÓN
+Para el medio Televisión, además de las entrevistas personales “face to face” y online del EGM multimedia, existe una ampliación monomedia telefónica en la que se aborda únicamente este medio. Teniendo en cuenta esta ampliación, las características del EGM para el medio Televisión son las siguientes:
+• Universo:
+Individuos de 14 ó más años, residentes en hogares, ubicados en municipios dentro de la España Peninsular, Islas Baleares e Islas Canarias.
+• Método de recogida de información:
+Entrevista personal “face to face” asistida por ordenador (CAPI), en el hogar del entrevistado.
+Entrevista online a través de internet (CAWI).
+Entrevista telefónica asistida por ordenador (CATI).
+• Diseño muestral:
+Polietápico estratificado.
+Afijación proporcional por Comunidades Autónomas y provincias.
+Desproporción interna en cada provincia para aumentar la razón de muestreo en los municipios de más de 50.000 habitantes (incluidas las capitales de provincia que no lleguen a esa cifra).
+Tal desproporción arroja un balance muestral final aproximado como sigue:
+Población
+Muestra
+H1 >= 50.000
+53.0%
+55.0%
+H2 < 50.000
+47.0%
+45.0%
+En cada comunidad y hábitat (H1 y H2) la distribución por provincias es proporcional.
+Tamaño muestral anual: 42.951 entrevistas (23.158 personales “face to face” + 6.611 online + 13.182 telefónicas).
+· Trabajo de campo:
+Entrevistas “face to face” realizadas por Random y Kantar.
+Entrevistas online realizadas por Random, Kantar, Netquest y Dynata.
+Entrevistas telefónicas realizadas por Imop Insights.
+· Selección de las unidades muestrales:
+Entrevistas personales “Face to Face”
+Selección aleatoria de secciones censales de acuerdo a la distribución muestral.
+Realización de hasta 7 entrevistas en cada sección censal, 6 probabilísticas y una más por cuotas cruzadas de sexo, grupo de edad y actividad (trabaja-no trabaja).
+Selección del hogar, mediante procedimiento de rutas aleatorias circunscritas a secciones censales.
+Selección de la persona en el hogar, mediante un procedimiento aleatorio.
+Sustituciones por personas del mismo sexo, grupo de actividad e intervalo de edad.
+Online
+Envío por correo electrónico o whatsapp de un enlace que permite realizar una única entrevista con todo el contenido del cuestionario multimedia a:
+personas contactadas aleatoriamente por teléfono, que aceptan responder a una entrevista Online.
+miembros del panel de acceso de Kantar, Netquest y Dynata.
+Entrevistas telefónicas
+Las preguntas del monomedia de televisión están incluidas al final de una parte (13.000 entrevistas anuales, 4.333 entrevistas por ola) de las entrevistas del monomedia de radio.
+El monomedia de televisión sólo incorpora las preguntas necesarias para proveer de información de referenciales a la operación de audimetría de televisión. El resto de datos está referido únicamente a la parte multimedia del estudio.
+En el monomedia telefónico se incluye una parte de la muestra realizada a individuos que viven en hogares donde solo hay teléfono móvil, es decir que disponen de teléfono móvil y no de teléfono fijo en el hogar. Además una parte de la muestra se realiza a “todo tipo de móviles” es decir que no se ha tenido en cuenta en la selección si disponen o no de teléfono fijo en el hogar. La distribución de la muestra telefónica por tipo de entrevista en esta ola es:
+Un 35% entrevistas con llamada a un teléfono fijo.
+Un 46% entrevistas con llamada a un teléfono móvil con fijo.
+Un 19% entrevistas con llamadas a un teléfono exclusivamente móvil.
+Selección aleatoria de teléfonos por parte de Imop.
+Selección aleatoria de teléfonos móviles en base a un sistema de generación aleatoria de números de teléfono, partiendo de los paquetes asignados por la CNMC a los distintos operadores.
+Selección de la persona a entrevistar:
+En las llamadas a fijo selección aleatoria de una persona de entre las que viven en el hogar con 14 años o más.
+En las llamadas a móviles se entrevista al usuario del teléfono.
+Sustituciones de no contacto y negativas por otro hogar del mismo municipio.
+· Plazo de realización:
+1ª ola 2026.
+Del 8 de enero al 11 de marzo 2026: 7.739 entrevistas “face to face” + 2.202 entrevistas online.
+Del 8 de enero al 18 de marzo 2026: 4.399 entrevistas telefónicas.
+3ª ola 2025.
+Del 1 de septiembre al 2 de noviembre 2025: 7.739 entrevistas “face to face” + 2.197 entrevistas online.
+Del 1 de septiembre al 9 de noviembre 2025: 4.351 entrevistas telefónicas.
+2ª ola 2025.
+Del 19 de marzo al 27 de mayo 2025: 7.680 entrevistas “face to face” + 2.212 entrevistas online.
+Del 19 de marzo al 3 de junio 2025: 4.432 entrevistas telefónicas.
+· Supervisión:
+Más del 25% de las entrevistas son supervisadas, de alguna forma, en los procesos internos de control que realizan los institutos.
+Un 10% de entrevistas se supervisa directamente por AIMC.
+· Proceso de datos:
+Validaciones/controles de congruencia (AIMC/ODEC).
+Equilibraje y fusión (ODEC).
+Producción de resultados: editing electrónico y ficheros (ODEC).

@@ -1,0 +1,17 @@
+Fuente: AIMC, web aimc.es (trabajo-campo-supervision). Descargada el 03-10-2026.
+
+Trabajo de Campo / Supervisión
+Recogida de información
+La información de la parte multimedia del EGM se recoge por medio de entrevista personal, “face to face”, en el hogar del entrevistado utilizando la técnica CAPI (Computer Assisted Personal Interviewing), es decir, mediante la implementación de la entrevista en un ordenador, en este caso, tipo tablet. Desde 2018 la información de una parte de la muestra se recoge por metodología online autoadministrada.
+El trabajo de campo está encomendado a dos institutos: Random y Kantar.
+Para la parte de entrevistas telefónicas (CATI) de las ampliaciones monomedia de radio, diarios y televisión, el trabajo de campo lo realiza el instituto IMOP Insights.
+Y de la ampliación monomedia para revistas se encargan los institutos Kantar (entrevistas personales – CAPI) y Netquest (entrevistas online – CAWI).
+Las entrevistas son realizadas por un equipo de entrevistadores especialmente entrenados para la realización del EGM, mediante cuestionario estructurado y cerrado casi en su totalidad, con codificación posterior en gabinete.
+En las entrevistas personales y online, para medios impresos y para sitios de internet, se muestra en pantalla al entrevistado la reproducción a escala del logotipo como ayuda al recuerdo. También se utiliza la presentación de imágenes en otros apartados del cuestionario como televisión, medio exterior…
+Todas las ampliaciones muestrales telefónicas tienen una parte de sus entrevistas realizadas a “hogares exclusivamente móviles”, es decir que disponen de algún teléfono móvil, pero no disponen de teléfono fijo. El resto de las entrevistas se realiza por medio de llamadas bien a los teléfonos fijos de hogares, o bien a teléfonos móviles de personas que disponen de teléfono fijo en su vivienda.
+Inspección
+Las entrevistas son supervisadas por el Instituto encargado de la realización del trabajo de campo, pero además, un 10% es supervisado directamente por AIMC, con un equipo de inspección propio con objeto de comprobar la correcta aplicación de los mecanismos de aleatoriedad en el seguimiento de rutas y en la selección de las unidades últimas de muestreo, así como la verificación de la información recogida.
+La supervisión de la parte “face to face” incluye el desplazamiento de los supervisores hasta el domicilio del entrevistado para comprobar la veracidad de los datos del entrevistado y sus respuestas.
+Las entrevistas telefónicas son supervisadas directamente durante la realización de las mismas por medio de la escucha en directo de la conversación de entrevistado y entrevistador.
+Las entrevistas por internet se inspeccionan por contacto telefónico y validación de alguno de los aspectos del cuestionario
+Por último, a requerimiento de uno o varios asociados, los cuestionarios son ocasionalmente sometidos a una nueva comprobación, posterior a la tabulación de resultados, por parte del (los) asociado (s) que así lo requieran. Este proceso supone un permanente control de calidad sobre cualquiera de las fases de elaboración del EGM.

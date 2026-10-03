@@ -1,0 +1,17 @@
+Fuente: AIMC, web aimc.es (margenes-de-error). Descargada el 03-10-2026.
+
+Márgenes de error en el EGM
+Puede conocer los márgenes de error promedio para un determinado dato del EGM. Para ello introduzca:
+Universo (en miles):
+Tamaño de muestra:
+Estimación o dato:
+(para los decimales, usar el punto)
+miles
+porcentaje
+Introduzca datos correctos en el formulario de la izquierda.
+Notas:
+Márgenes de error calculados para un nivel de confianza del 95,5% equivalente a dos Sigma.
+El cálculo de los márgenes de confianza está realizado bajo la hipótesis del muestreo aleatorio simple, corregido para tener en cuenta la desproporcionalidad muestral resultante de:
+el diseño muestral (distribución aproporcional por tamaño de hábitat, mínimo de muestra por provincia, etc.)
+el efecto del equilibraje sobre los factores de elevación al universo
+Estos márgenes de error sólo son válidos para variables dicotómicas (audiencia, posesión, etc.), pero no son válidos para otro tipo de variables (share, minutos de consumo, etc.)

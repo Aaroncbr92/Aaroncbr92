@@ -1,0 +1,9 @@
+Fuente: AIMC, web aimc.es (equilibraje). Descargada el 03-10-2026.
+
+Equilibraje
+La muestra del EGM se reparte con criterios fundamentalmente proporcionales. No obstante, además de los desajustes propios que la realización del trabajo de campo impone, existen factores de desproporcionalidad en el diseño de la muestra, como, por ejemplo:
+ampliaciones de muestra en ciertas comunidades
+existencia de un mínimo muestral provincial
+ligera desproporción en favor de municipios de más de 50.000 habitantes y capitales de provincia
+Toda esta aproporcionalidad es corregida por medio de un proceso de equilibraje, que, antes de iniciar el  proceso de fusión , se aplica separadamente tanto a las entrevistas de la parte multimedia del EGM como a las procedentes de las ampliaciones monomedia para Radio, Diarios, Revistas y Televisión, en cinco procesos independientes.
+Puede consultar las  variables que intervienen en el equilibraje en este documento  (solo asociados).

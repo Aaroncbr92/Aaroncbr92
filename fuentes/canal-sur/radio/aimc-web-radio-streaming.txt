@@ -1,0 +1,19 @@
+Fuente: AIMC, web aimc.es (radio-streaming). Descargada el 03-10-2026.
+
+Radio streaming
+Después de años de intenso trabajo conjunto entre las principales cadenas de radio,  ODEC  (empresa desarrolladora del proyecto) y la dirección técnica de AIMC, desde la 3ª ola de 2024,  el EGM incluye la   audiencia a través de Internet vía streaming/directo de las principales cadenas de radio,   obtenida directamente a partir de sus datos censales de consumo .
+En esta operación,  pionera a nivel mundial , se integran los oyentes de radio en directo vía internet, obtenidos por procedimientos censales, con el resto de oyentes de radio que utilizan otras fuentes de señal (OM/FM, plataformas digitales en el televisor, o la escucha de podcast/diferido), obtenidos mediante encuestas.
+De esta forma, se pone a disposición del mercado a través de la  fuente oficial de audiencia de radio, un dato aún más robusto y con la mayor granularidad posible .
+Por otra parte, esta medición censal  refuerza además la metodología actual del EGM , ya que se observa un elevado grado de cercanía entre la medición del streaming por el método anterior basado en encuestas vs el nuevo basado en datos censales.
+El proyecto cuenta con la participación de 37 cadenas de radio pertenecientes a los siguientes grupos de comunicación:
+PRISA (SER) · Ábside Media (COPE) · Atresmedia (Onda Cero) · 3Cat (Catalunya Ràdio) · Grupo GODÓ (RAC1) · RTVA (Canal Sur) · KISS (Kiss FM) · Radio MARCA · RTVE (RNE) · Grup FLAIX · Esradio · Aragón Radio
+PROCESO
+El procedimiento parte de las siguientes premisas:
+Recogida de la información de los servicios de señal en streaming directamente desde los servidores de audio de cada cadena seleccionada
+Depuración del tráfico no humano
+Homogeneización y creación de una única base, conteniendo las sesiones de escucha desde España.
+El proceso de la recogida de los datos mediante logs permite obtener la información de la escucha en directo vía Internet de las cadenas de radio incluso en la mayoría de plataformas externas, lo que aporta mucha más precisión. El reto es convertir unas sesiones de escucha en individuos —considerando que una misma persona puede conectarse desde varios dispositivos (teléfono, tablet, ordenador, etc.)— y asignarle sus características sociodemográficas, para lo cual se utilizan los datos del EGM.
+Finalmente, esta información se traslada al EGM para cada cadena con sus respectivos promedios de día de la semana por medias horas, de manera que se garantiza al mercado la posibilidad de seguir trabajando como siempre, con la mejora/evolución de que la parte de la escucha en directo a través de Internet está fundamentada en datos censales y no muestrales.
+Nº de Adjuntos: 1
+-->
+Nota de prensa asociada al lanzamiento (12/11/2024) (PDF | 159 KB)

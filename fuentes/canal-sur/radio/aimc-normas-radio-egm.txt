@@ -1,0 +1,492 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NORMAS DE RADIO EN EGM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDICE: 
+ 
+ Definición de audiencia del medio Radio. 
+ Indicadores y Conceptos. 
+ Publicación de los datos. 
+ Criterios de corte para la publicación de datos de soportes. 
+ Definición de programa de radio. 
+ Norma general para asignación de menciones de Cadena/Emisora 
+ Programas de radio compartidos por dos o más cadenas 
+ Locutores de radio compartidos por dos o más cadenas 
+ Normas para cambios de locutores/presentadores de cierta significación 
+ Criterios que se deben cumplir para incluir en EGM una cadena de Radio 
+ Aclaración asignación horaria de la audiencia 
+ 
+
+DEFINICIÓN DE AUDIENCIA DEL MEDIO RADIO. 
+ 
+ El dato que se investiga es la audiencia de un día promedio con un nivel de desglose de 
+medias horas, empezando a las 6 de la mañana del día de ayer y terminando a las 6 de la 
+mañana de hoy. La pregunta que se formula es: 
+ 
+Por favor, trate de recordar todos los momentos en los que ayer escuchó u oyó la radio a lo largo del 
+día, en cualquier lugar y a través de cualquier tipo de aparato, aunque solo fuera unos minutos. 
+ 
+ 
+A los entrevistados se les permite declarar escucha de cualquier número de emisoras en cada 
+intervalo de 30 minutos. Para el cálculo de la audiencia acumulada se considera audiencia en 
+ese intervalo para todas las cadenas mencionadas. Para el cálculo de la audiencia media, en 
+casos de este tipo, se reparten los 30 minutos a partes iguales entre las diversas cadenas 
+mencionadas en la media hora.  
+En Canarias se pregunta por el día de 5 de la mañana del día de ayer y terminando a las 5 
+de la mañana de hoy, para poder sumarlo a las audiencias del resto de España. 
+ 
+
+INDICADORES Y CONCEPTOS PARA EL MEDIO RADIO 
+ 
+- 
+Tipo de emisión. Esta variable clasifica las emisiones en: 
+ 
+ 
+Generalista. 
+ 
+Temática. 
+ 
+Musical. 
+ 
+Informativa. 
+ 
+Otras. 
+ 
+- 
+Audiencia acumulada. Número de individuos (expresado en absolutos o en porcentaje 
+sobre el universo) que declaran escucha de un determinado soporte en al menos un intervalo 
+de media hora.  
+ 
+- 
+Minutos de escucha. Relativo a un soporte y un periodo concreto, expresa el consumo 
+promedio por individuo. Este consumo puede ser “per cápita” (referido al total población) o 
+“por oyente” (restringido a la parte de población que ha declarado alguna escucha). 
+ 
+- 
+Audiencia media. Promedio de individuos (expresado en absolutos o en porcentaje sobre 
+el universo) que han escuchado un determinado soporte a lo largo del periodo especificado. 
+Se calcula ponderando cada oyente por su tiempo de escucha respectivo. También se puede 
+obtener como media aritmética de los oyentes que tiene cada una de las medias horas que 
+conforman el periodo en cuestión. Este indicador expresado en porcentaje (rating) es 
+equivalente al porcentaje que el consumo “per cápita” supone sobre la duración total del 
+intervalo temporal considerado.   
+ 
+- 
+Indice de fidelidad. Cociente porcentual entre la audiencia media y la audiencia acumulada. 
+Su valor máximo es 100 (lo que refleja una total estabilidad de la audiencia). En un intervalo 
+elemental de reporte (media hora) la audiencia media y la acumulada coinciden y por tanto 
+el índice de fidelidad es siempre 100. 
+ 
+- 
+Participación o Share. Expresa la distribución de la escucha por soportes durante un 
+periodo de tiempo. Para cada uno de los soportes, se calcula como cociente porcentual entre 
+su audiencia media y la audiencia media del total medio o, de forma equivalente, entre el 
+consumo “per cápita” del soporte y el consumo “per cápita” del medio. Las bases 100% para 
+el cálculo de participaciones que se utilizan en los informes son las siguientes: 
+ 
+ 
+Para soportes incluidos en “Generalista”: Total Generalista. 
+ 
+Para soportes incluidos en “Temática”: Total Temática. 
+ 
+Para Total Generalista y Total Temática: Total Oyentes. 
+ 
+- 
+Aportación. En una distribución de audiencias por bloques horarios, porcentaje que supone 
+la audiencia media del soporte o del total medio de dicho bloque sobre la del total día. 
+Lógicamente la suma de todos los bloques del día para un mismo soporte debe ser 100.  
+ 
+- 
+Perfil: Distribución porcentual de la audiencia acumulada a través de diferentes categorías 
+de una o varias variables. La suma de los datos para todas las categorías de una variable 
+debe ser 100%, salvo diferencias atribuibles al redondeo, a que las categorías de la variable 
+no sean disjuntas (como la variable rol familiar donde se permite a un mismo individuo ser 
+ama de casa y sustentador principal), o que no estén consignadas en el informe todas las 
+categorías. 
+ 
+- 
+Penetración: Número de oyentes expresado en porcentaje sobre el universo. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+- 
+Agrupación de emisoras para construcción de cadenas. Los criterios de agrupación de 
+emisoras en cadena, a los efectos de la tabulación del EGM son los siguientes: 
+ 
+ 
+Audiencia de Emisoras de Cadena con Programación Común. Es la audiencia del 
+conjunto de emisoras que se agrupan bajo el indicativo común de una cadena y en 
+Radio Generalista conectan con la cadena o en Radio Temática emiten una 
+programación homogénea para la cadena al menos un 50% del periodo comprendido 
+entre las 6,00 horas y las 2,00 horas de la madrugada del día siguiente, es decir un 
+mínimo de 10 horas dentro del período citado. En estos casos, la audiencia que se 
+incorpora a la cadena es la total de la emisora, no solo la de los periodos de conexión 
+real. 
+ 
+ 
+Audiencia de Emisiones en Cadena Simultánea. Es la audiencia del conjunto de 
+emisoras que emiten simultáneamente un mismo programa en conexión real con una 
+cadena, con independencia de su pertenencia o no a la cadena en función del criterio 
+anterior. En este caso se considera exclusivamente la audiencia del periodo de 
+conexión real. A estos efectos no se considerarán programas de duración inferior a 
+media hora. 
+ 
+ 
+ 
+Audiencia de Emisiones en Cadena Temática. Es la audiencia del conjunto de 
+emisoras que emiten en el período horario el mismo tipo de programación Temática 
+que la cadena que ese conjunto de emisoras define. 
+ 
+ 
+ 
+Cuando un programa se emita (total o parcialmente) simultáneamente por dos o 
+más cadenas se considerará  que el programa es de una de las cadenas, a la que 
+se suman las emisoras de la otra; la audiencia del programa se ubicará en la cadena 
+que lo emite, a cuya audiencia se sumará la de las emisoras que conecten, durante 
+el tiempo de emisión real del programa. En este caso, la audiencia total de la cadena 
+(entendida en el concepto “Audiencia de Emisoras de Cadena”) no se verá afectada 
+por dicha conexión para un programa; cada cadena mantendrá su propia audiencia. 
+ 
+ 
+ 
+
+PUBLICACION DE LOS DATOS 
+ 
+ 
+- 
+Los datos de audiencia de emisoras aparecen (y están disponibles para tabulaciones 
+especiales) exclusivamente en año móvil y no en oleada. 
+ 
+No se presentan los datos de aquellas cadenas/emisoras que no están adscritas a algún 
+asociado a AIMC. Estas cadenas/emisoras se siguen midiendo y sus datos se tienen en 
+cuenta a los efectos del cálculo de Total Radio, Tipo de emisión y Tipo de onda. 
+ 
+Cuando una emisora cambia de cadena, solo se asigna a la nueva cadena la audiencia que 
+consiga la emisora desde el momento del cambio, de forma que la audiencia que esta obtuvo 
+bajo la adscripción a la otra cadena permanecerá en ella. 
+ 
+
+CRITERIOS DE CORTE PARA LA PUBLICACION DE DATOS DE SOPORTES 
+ 
+A continuación reflejamos los criterios utilizados para limitar la inclusión de soportes en el 
+editing, a fin de garantizar una mínima solidez estadística en las estimaciones publicadas. Se 
+hacen constar los límites mínimos de audiencia, expresados en porcentajes sobre la 
+población total referida: 
+ 
+INDIVIDUOS 
+ 
+Ranking/Dato 
+único 
+Perfil/Desglose por 
+variables 
+OLA 
+ 
+ 
+ 
+ 
+Radio L-D 
+    0,25% 
+  0,25% 
+ 
+Radio L-V 
+    0,35% 
+  0,35% 
+ 
+Radio Hábitos 30 últ. días 
+    0,25% 
+      - 
+ 
+ 
+ 
+ 
+AÑO MOVIL 
+ 
+ 
+ 
+ 
+Radio L-D 
+    0,15% 
+   0,25% 
+ 
+Radio L-V 
+     0,15% 
+   0,35% 
+ 
+Radio Hábitos 30 últ. días 
+     0,15% 
+       - 
+ 
+ 
+ 
+ 
+ 
+ 
+AMAS DE CASA 
+ 
+Ranking/Dato 
+único 
+Perfil/Desglose 
+por variables 
+OLA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Radio L-D 
+0,65% 
+0,65% 
+ 
+Radio L-V 
+0,85% 
+0,85% 
+ 
+Radio Hábitos 30 últ. días 
+0,65% 
+- 
+AÑO MOVIL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Radio L-D 
+0,45% 
+0,65% 
+ 
+Radio L-V 
+0,65% 
+0,85% 
+ 
+Radio Hábitos 30 últ. días 
+0,45% 
+- 
+ 
+ 
+Será necesario además para que un soporte aparezca en el AÑO MOVIL que se haya 
+estudiado en las tres olas que lo componen. 
+   
+Para la aparición en el ranking de diarios y emisoras de radio por Comunidades y Provincias 
+que se hace en el Anual Móvil, es preciso que la estimación de audiencia del soporte tenga 
+un error de muestreo relativo inferior al 50%. 
+ 
+
+DEFINICIÓN DE PROGRAMA DE RADIO GRUPO DE RADIO (2/03/2010) 
+ 
+El grupo de radio ha llegado a una definición de lo que se considerará un programa de radio 
+en EGM: “una unidad de espacio radiofónico con un  mismo nombre y franja horaria definida 
+que puede tener uno o varios conductores siempre que uno de ellos esté al menos en 2/3 del 
+programa y tenga presencia en el otro tercio”.   
+
+Norma general para asignación de menciones de Cadena/Emisora en radio 
+(JAG 1999) 
+ 
+Para poder obtener la audiencia de cada una de las emisoras de radio y la de las distintas 
+cadenas de radio, es preciso asignar una emisora a cada una de las declaraciones de escucha 
+del entrevistado. Para realizar esta asignación el codificador dispone de los datos que el 
+entrevistado ha declarado. Estos datos son los siguientes: 
+ 
+Locutor 
+Programa 
+Emisora 
+Cadena 
+Onda 
+Dial 
+Contenido del programa 
+ 
+Según la capacidad de recuerdo de cada entrevistado el codificador dispondrá de un 
+subconjunto, mayor o menor, de los datos anteriores. 
+ 
+El codificador deberá asignar la emisora que objetivamente mejor se ajuste a los datos que 
+tenga. 
+ 
+Como no siempre los datos resultan completamente coherentes, (se puede mencionar un 
+locutor como conductor de un programa distinto del que realmente presenta, indicar un 
+programa perteneciente a una cadena distinta de la real, etc.), es necesario dar un orden de 
+prioridad a los distintos datos para que el codificador tenga un criterio único de asignación.  
+ 
+El orden de prioridad que se viene utilizando es el siguiente: 
+ 
+1) 
+Nombre del locutor 
+2) 
+Programa 
+3) 
+Cadena 
+4) 
+Emisora 
+ 
+Teniendo en cuenta además el tipo de onda de la emisión y tomando como referencias 
+auxiliares el dial y el tipo de contenido que indique el entrevistado. 
+ 
+ 
+
+PROGRAMAS DE RADIO COMPARTIDOS POR DOS O MÁS CADENAS 
+ 
+En diversas ocasiones nos hemos encontrado en el EGM con la necesidad de estudiar la 
+audiencia de radio de un programa que se emitía simultáneamente por dos o más cadenas de 
+radio. 
+ 
+La norma seguida en estos casos es la siguiente: 
+ 
+Un programa solo puede ser de una cadena, de forma que se debe definir cual es la cadena 
+“propietaria” del programa. Una vez determinada esta, solo esta cadena tendrá audiencia en ese 
+periodo en los informes de programas, y las restantes cadenas no tendrán ninguna audiencia en 
+el periodo de ese programa. 
+ 
+De cara a la asignación de audiencia, cuando se mencione este programa si da alguna indicación 
+que permita determinar la cadena por la que ha escuchado el programa se hará esta asignación. 
+En caso de no poder diferenciase se asignará a la cadena “propietaria”. 
+ 
+En la audiencia de cadena se asignará a cada cadena lo conseguido por cada una. 
+
+LOCUTORES DE RADIO COMPARTIDOS POR DOS O MÁS CADENAS 
+ 
+Cuando un locutor sea compartido por dos o más cadenas se debe proceder de la siguiente 
+forma: 
+Sí el intervalo mencionado corresponde al de emisión del programa de este locutor en una de 
+estas cadenas, se asignará la audiencia a esta cadena.  
+Si la mención abarca la emisión de los programas de este locutor en dos cadenas, se desdoblará 
+la mención en dos nuevas menciones, disjuntas separando los tiempos de emisión de cada 
+cadena, y asignado cada una de las partes a la cadena correspondiente. 
+ 
+Si la mención no corresponde con ningún momento de emisión del trabajo de este locutor en 
+ninguna de las posibles cadenas, cuando indica algún otro dato que permita identificar la cadena, 
+se asignará la audiencia a esa cadena. Cuando no se pueda hacer esto, bien por no indicar 
+ningún otro dato, o por indicar datos que no lleven a resolver la asignación, se asignará a la 
+cadena en la que el locutor trabaje más horas, siempre que la diferencia de tiempo sea 
+significativa (al menos una hora de diferencia).  
+ 
+JAG (10/10/2012)
+
+Normas para cambios de locutores/presentadores de cierta significación 
+ 
+Hay dos casos posibles: 
+ 
+1) El locutor cambia de cadena. 
+ 
+a. La norma a los entrevistadores es que, en la primera ola después del cambio, 
+cada vez que se mencione el locutor que ha cambiado y la cadena antigua, el 
+entrevistador debe indicar al entrevistado “(nombre del locutor) ya no está en 
+esta cadena“. El entrevistador debe hacer constar la declaración final, y en caso 
+de mantener su declaración inicial debe anotar que el entrevistado se ratifica en 
+su declaración. 
+ 
+b. En codificación se aplica la norma general. En caso de haber mantenido el 
+locutor con la cadena incompatible, la aplicación de la norma general establece 
+la preponderancia del locutor sobre cualquier otro dato y por tanto se asignará 
+la mención a la nueva cadena donde está el locutor, aunque haya mencionado 
+la cadena antigua. 
+ 
+2) El locutor deja el medio radio. 
+ 
+a. La norma a los entrevistadores es que, en la primera ola después del cambio, 
+siempre que se mencione el locutor que ha dejado la radio se debe indicar al 
+entrevistado “(nombre del locutor) ya no está en la radio”. El entrevistador debe 
+hacer constar la declaración final, y en caso de mantener su declaración inicial 
+debe anotar que el entrevistado se ratifica en su declaración. 
+ 
+b. En codificación se procede según el tiempo que haga que dejó la cadena: 
+ 
+ 
+i. 1ª ola tras dejar la cadena: 
+ 
+1. Si sólo menciona el locutor y no da más datos, se asigna la mención 
+a la cadena donde estaba hasta la ola anterior. 
+2. Si proporciona más información se actúa como si no hubiese 
+mencionado el nombre de locutor. 
+ 
+ii. Siguientes olas tras la 1ª después del cambio: 
+ 
+1. Si solo menciona el locutor y no da más datos, no se tendrá en cuenta 
+esa mención y por tanto no se asigna a ninguna cadena/emisora 
+concreta. 
+2. Si proporciona más información se actúa como si no hubiese 
+mencionado el nombre de locutor. 
+ 
+ 
+JAG / 19.09.2005 
+
+CRITERIOS QUE SE DEBEN CUMPLIR PARA INCLUIR EN EGM UNA CADENA DE RADIO 
+ 
+Una emisora/cadena de radio podrá ser incluida en el apartado de Radio de EGM siempre que 
+cumpla con los siguientes requisitos: 
+ 
+o 
+Ser asociado de AIMC o que lo solicite algún asociado a AIMC, y esté dispuesto a 
+sufragar su parte correspondiente de los costes del estudio. 
+ 
+o 
+Entenderemos como una emisión radiofónica sujeta a medición en EGM a 
+cualquier servicio de audio que consista principalmente en la difusión simultánea 
+de programas* y contenidos sobre la base de una estructura de programación 
+definida, organizada en parrilla con horarios y con presencia en la programación 
+de presentadores/locutores. 
+ 
+o 
+Las emisoras/cadenas de radio deberán disponer de al menos una frecuencia con 
+concesión administrativa. 
+ 
+(*) Programa de radio: "una unidad de espacio  radiofónico con un  mismo nombre y franja horaria 
+definida, que puede tener uno o varios conductores siempre que uno de ellos esté al menos en 
+2/3 del programa y tenga presencia en el otro tercio".  (CT AIMC 3 marzo 2010) 
+ 
+ 
+ 
+Grupo Radio AIMC 01/04/2016 
+ 
+ 
+ 
+ 
+
+ACLARACIÓN DE LA ASIGNACIÓN HORARIA DE AUDIENCIA 
+ 
+La asignación de audiencia se produce a una cadena en el periodo horario que ha declarado el 
+entrevistado, independientemente de que el programa o locutor que se puede haber mencionado 
+se emita o no en esa franja horaria. 
+ 
+El ejemplo más claro se produce con la audiencia de podcast. Por definición un podcast es 
+programa o fragmento de programa que se ha emitido anteriormente y que se puede descargar 
+y/o escuchar en cualquier momento, pero siempre después de su emisión/grabación, nunca en 
+directo. Si algún entrevistado nos indica escuchar la radio con fuente un podcast, la audiencia se 
+asignará a la cadena correspondiente en el momento que haya declarado escucharlo el individuo, 
+independientemente del programa a que corresponda y de la franja en la que fuese emitido 
+originalmente. Aportará, por tanto, audiencia al programa de la cadena que se esté emitiendo en 
+el día y cadena en el que se está escuchando el podcast.    
+ 
+ 
+AIMC 24/07/2019 
+ 
+ 
