@@ -8,7 +8,7 @@
 | Sirve para | Presentador Productor de Radio de Canal Sur (puesto 2.31, grupo B03) |
 | Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 286/2006, ruido; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 773/1997, equipos de protección individual; Real Decreto 171/2004, coordinación de actividades empresariales; Real Decreto 1299/2006, cuadro de enfermedades profesionales; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y ficha del puesto 9540002); Carta del Servicio Público de la RTVA 2024-2029; Libro de estilo de Canal Sur Televisión (2004); documentación técnica del INSST (pantallas, TME, voz, estrés, turnos, seguridad vial, ruido y Código de conducta de la música y el ocio) |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Libro de estilo, 1.ª ed., 2004 |
-| Extensión | 18.221 palabras |
+| Extensión | 18.225 palabras |
 
 <!-- /portada -->
 
@@ -1012,8 +1012,8 @@ que los trabajadores hayan sido informados y previa consulta con sus representan
 sistemas deberán **proporcionar a los trabajadores indicaciones sobre su desarrollo**; **d)**
 **mostrar la información en un formato y a un ritmo adaptados a los operadores**; y **e) los
 principios de ergonomía deberán aplicarse en particular al tratamiento de la información por
-parte de la persona**. Aplicado a la redacción: el sistema de edición y de escaletas es un
-«programa» a estos efectos.
+parte de la persona**. Aplicado al puesto: el sistema de emisión y de escaletas que se maneja en
+autocontrol es un «programa» a estos efectos.
 
 ### La colocación de la pantalla (Guía Técnica)
 

@@ -1,0 +1,2684 @@
+A I R E N C E - U S B   M a n u a l   P a g e  1
+MANUAL
+ 
+(smd)
+ 
+version 1.11
+ 
+ 
+
+A I R E N C E - U S B   M a n u a l   P a g e  2
+Dear Client,
+Thank you for choosing the D&R AIRENCE-USB mixer.
+The AIRENCE-USB was designed by Radio Broadcast professionals along with the D&R design team and is intended to be  
+used 24 hours per day as an “On-Air” mixer and/or a production console in the most demanding production room.
+We are confident that you will be using the AIRENCE-USB mixer for many years to come, and wish you much success.
+We value suggestions from our clients and would be grateful if you could email us with your comments  
+at sales@d-r.nl when you are familiar with the AIRENCE-USB mixer.
+We learn from the ideas and suggestions of customers like you and appreciate your time taken to eventually do this.
+With kind regards,
+Duco de Rijk
+MD
+
+A I R E N C E - U S B   M a n u a l   P a g e  3
+QUICK START INSTRUCTIONS
+To fully benefit from your mixer you need a clean audio set up of the main unit and eventually the extender unit. 
+ 
+MAIN UNIT CONNECTIONS 
+Make sure you start to connect the main unit only to your Control Room Monitors and no other equipment.
+It means that the CRM cinch connectors audio pin connects to pin 2 of an active monitor and the ground connects to pin 1 and 3 
+of the XLR of your active Monitor speaker set. Or use a ready made Cinch to XLR cable.
+The AIRENCE is not grounded so your monitor speakers may be grounded but not yet switched on.
+NOTE: In 2022 we have designed new 12 volt 5Amp 
+power supplies for both the main and extender unit.
+Do NOT combine a new unit with an earlier design, 
+it will damage the electronics.
+ 
+Now connect the power supply to the mixer and connect the the mixer to a power source.
+Turn the CRM potentiometer fully left and switch the active monitors (or your power amp) on.
+Turn up the input volume of the speakers half way and listen if the speakers are quiet.
+If not remove the input cable from the speakers and listen again. if this quiet again, then connect the speakers again and pull the 
+Cinch connectors out of the AIRENCE mixer and listen again. if the noise dissappears, then check your cables  carefully.
+Now turn up the volume of the CRM potentiometer slowly and listen if the noise is not increasing too much. (a little noise is acceptable). Now connect an audio source such as CD player to one of the inputs and adjust the gain with the CUE activated so the 
+ledbar will indicate sufficient level. Now activate the ON switch and slowly move the fader up until a sounf is heard. If it is getting 
+to loud reduce the CRM level until the fader is fully up. Now reduce the CRM speakers input gain controls in a way the mixer’s 
+CRM can be increased up to 75% and the signal is pretty loud.
+The next step is to connect your PC to your system with a USB cable that came with the mixer.
+If the noise in the CRM increases try to unground your PC or your monitor speakers.
+In some cases (dependent upon PC brand) a high frequency USB noise can de detected.
+We then advice to use an USB isolator in between the AIRENCE mixer and the PC.
+Installation of the play-out software is instructed in the manuals of the play-out software.
+EXTENDER UNIT CONNECTIONS
+Installation of the Extender unit goes as written below.
+Disconnect both the Main unit and the Extender unit fror the power supply.
+Now use the 15 pole Sub-D cable that comes with the Extender unit and connect it to the main unit. Make sure the screws are 
+tightened secure. Connect the power supply of the Extender unit to the mains and also of the main unit. Switch the CRMonitor 
+off and connect the main unit and Extender to the mains power and switch on the CRM. Now listen of there is an increase in 
+noise (a little is acceptable). If there is asubstantial increase in noise the following grounding can help.
+as an option use and extra spare Cinch cable and disconnect the signal conductor, so only the ground wire is still connected. Now 
+push the cinch connector on an unused Cinch connector on the main unit and on the Extender unit. This should reduce eventually present noise. You can also use 2 XLR cables with only pin 1 connected by a thick ground cable.
+If this helps we can add a ground terminal to your mixer if needed.
+
+A I R E N C E - U S B   M a n u a l   P a g e  4
+INTRODUCTION MAIN MIXER UNIT 
+The AIRENCE-USB MAIN mixer is designed as a 6 channel ON-AIR/Production mixer that can be expanded with one or more 6 
+channel extender units until you have sufficient inputs. There is no limit to the number of extender units because every unit has 
+its own power supply and its own low noise summing amps.
+USB Module 1-4
+•	
+4x Professional extremely low noise balanced Mic pre-amps with 48 volt phantom powering.
+•	
+Two pairs of line inputs Line and USB.
+•	
+Gain control with pre MIC trimmer.
+•	
+Three band stereo very musical equalizer.
+•	
+Sub and Program routing.
+•	
+Stereo Aux send.
+•	
+Stereo CUE switch for pre fade listening + CONTROL.
+•	
+ON (incl. start switch, when fader is up) + CONTROL.
+•	
+100 mm professional K-Alps fader with fader start.
+	
+TELCO-1 and 2 Module or/and VoIP
+•	
+2 switchable Telephone-Line inputs.
+•	
+R and C balance for side tone rejection.(not with a 
+VoIp Gain control for incoming signal.
+•	
+Large CONNECTION and TALKBACK switches.
+•	
+Sub and Program routing.
+•	
+Stereo Aux send.
+•	
+Stereo CUE switch for pre-fade listening. 
+•	
+Telephone signaling (default) or ON (start switch).
+•	
+100 mm professional K-Alps fader with fader start.
+ 
+MASTER SECTION
+•	
+2 Long throw K-ALPS master faders.
+•	
+Master controls for AUX/SUB/STUDIO/PHONES/ANNOUNCER.
+•	
+CRM section with Mute-Act dimming and Follow Phones.
+•	
+PROGRAM mono switch.
+•	
+AUX RETURN to CUE/SUB/PROG.
+•	
+PHONES with PROGRAM/CUE Balance control or split with CUE on the left and PROGRAM on the right.
+•	
+RECORD OUT fed from PROGRAM/SUB/AUX.
+•	
+ANNOUNCER OUTPUT fed from Follow Phones or Prog.
+•	
+BUILT IN TALKBACK MIC routable to SUB/AUX/STUDIO/ANNOUNCER.
+•	
+NON-STOP switch routes one of the 4 USB stereo inputs directly to the main program XLR connectors.
+AIRENCE EXTENDER UNIT
+All triple Input Modules have the following features 
+•	
+Professional low noise balanced Mic pre-amp with 48 volt phantom powering.
+•	
+Two pairs of line inputs with optional R.I.A.A. pre-amp on line-B for turntables.
+•	
+Gain control with pre MIC trimmer.
+•	
+Three band stereo equalizer.
+•	
+Sub and Program routing.
+•	
+Stereo Aux send.
+•	
+Stereo CUE switch for pre fade listening.
+•	
+ON (including start switch, when fader is up.
+•	
+100mm professional K-Alps fader with fader start.
+•	
+Possibility to connect a Studio Remote unit with “Cough Mute” and CUE “Communication plus Headphone connection.
+•	
+Two MIC ON busses to separately control the Control Room and/or Studio mute.  
+The extender unit has an external (digitally) switched high efficiency power supply and 1x Sub-D chassis connector for audio/control linking to the main unit and a second Sub-D chassis connector for audio/control linking to a third Extender unit. 
+Every AIRENCE EXTender unit will be supplied with 1 meter audio extender cable and a power supply that can accept an  
+AC voltage between 90-230 volts at 50/60 Hz.
+
+A I R E N C E - U S B   M a n u a l   P a g e  5
+AIRENCE MAIN UNIT BACKPANEL
+The Main’s section back panel shows all the in and output connectors to interface with your other equipment.  
+The first 1 to 4 MIC/LINE/USB modules on the right have balanced XLR mic inputs with a mic insert for voice processing. 
+A start connector to activate red light signalling individually or this reed relay can be used to close (or pulse) a start contact to 
+activate equipment connected to the line input. Two cinch connectors accept these line left/right input signals.
+Telco 1/2 have 2 RJ-11 standardized telephone connectors, a stereo line input, in case you do not need the internal Hybrid modules and a START jack that can switch (default) an external Telephone signaling device. Or you can re-jumper the function of the 
+start jack connector to control external equipment when the line input is selected.
+The master section houses all the in and outputs of the controls on the front panel that we go into detail in other chapters.  
+Most of the functions are self explanatory, such as master right and left XLR’s and all the other in and outputs.
+Worth mentioning is the redundant extra power supply connector where an optional redundant power supply can be connected 
+and the SUB-D slave connection to the extender unit.
+And of course the USB connector that carries all the 4 stereo audio signals to and from the PC (for both Windows & Macintosh 
+computers) as well as the Play-out systems control info from the programmable Control section plus the Clock and meter information. This USB feature will allow to connect to the Internet via your computer for “Live” streaming of audio to the Internet.
+AIRENCE-EXTENDER BACKPANEL
+The back panel of the Extender unit provides you with 6 balanced XLR’s for Mic input signals, an insert for processors, start 
+switch and two pairs of Cinch connectors for the stereo left right line inputs.
+On the left you see the 5 pin XLR connector for the external switched (high efficiency) power supply and the Sub-D connectors 
+for linking to the main unit and to possible extra Extenders units. A 1 meter cable is part of the delivery of the Extender unit.
+There is no limit in connecting more than one Extender unit to the main unit. The extra inputs in a second (or third) Extender 
+unit are connected to the Sub-D connector labelled “to third(next) Unit”. Every Extender unit needs his own power supply which 
+of course is part of the delivery.
+
+A I R E N C E - U S B   M a n u a l   P a g e  6
+AIRENCE MAIN UNIT TRIPLE INPUT MODULES 1-4
+The input modules switches & controls of the main AIRENCE mixer have the following functions:  
+Each of Modules 1 thru 4 has three selectable inputs. The three types of inputs consist of a Microphone 
+input a stereo line input and an USB input. In the Mic switch position, the module is a normal mono module. When the Mic is switched out(up position), you have the choice out of a stereo Line level inputs or 
+USB stereo inputs to feed the stereo AUX send ,PROGRAM and or SUB stereo mix busses. 
+GAIN
+With the gain control (the first control knob below the modules number), the source input level can be adjusted to the required internal mixer level. This control adjusts both the Mic input and the stereo Line/USB 
+inputs with the same control depending on the switch positions. Mic gain can be more precisely controlled 
+with the small trimmer positioned just above the High EQ control. A small flat screwdriver is needed.
+Try it in this way, if you cannot achieve enough Mic gain when the gain control is fully turned clockwise, 
+only then you slowly turn to the right to increase the gain to the desired level. Also a mic only low cut 
+filter is built in, but this can only be reached/set when the bottom of the console is removed. There are 
+more jumper settings in the console, so we advice to make a (jumper)plan for your situation and then 
+do all the internal jumper settings in one go. Or tell us through your dealer how you want the jumpers 
+selected and we deliver the console as requested.
+ 
+STEREO LINE/USB
+The stereo line input is a high impedance input ( >10 kOhm) for connecting the stereo line level outputs of 
+devices such as CD players/MP3 players etc. The USB stereo signal comes directly from one of the 4 stereo 
+USB channels from your PC play-out software. These are already assigned in the Mixer by D&R.  
+PC play-out Channel nr 1 can be listen to in module 1 and this is also the case for channel 2, 3 and 4.
+To match the incoming levels to a convenient control range, internal trimmers are available labelled VR2 
+(right) and VR3 (left). This also can only be done with the frame dismantled and should be done at the 
+same time that you do the jumper selections. Also the source selector for the NON-STOP switching is 
+on the module as a jumper. The main output XLR’s on the mixer can directly receive a stereo signal from 
+Program pre/Program Post/Sub or Aux. A Picture will be shown in the manual how to achieve all these 
+settings the way you want it. If a USB signal is present the led on the right side of the Line/USB switch will 
+be lit.
+MIC
+The Mic input has a balanced XLR input connector with 48 volt phantom powering for condenser mikes. 
+The Mic-pre circuitry uses the latest technology studio-class components as used in high end recording 
+consoles, we use the That 1510 Mic-pre which is highly acclaimed for its low noise/distortion and transparent audio. The low-noise design and excellent phase spec that D&R is known for is integrated throughout the AIRENCE-USB which results in a phase coherent signal path. Using balanced microphones & cables 
+allows for the quietest and high quality audio signals throughout your AIRENCE-USB mixer. You can use 
+standard balanced Mic cables available at any pro audio dealer or music store. The AIRENCE-USB uses 
+chassis-mount female XLR type Mic input connectors. Any standard pro audio Mic cable will fit into this 
+female XLR connector. 
+EQUALIZER
+Each module has a stereo three band equalizer to control the high, mid, and low frequencies individually. 
+The D&R designers used carefully chosen frequencies in the equalizer circuitry to enhance the Mic input 
+as well as the stereo A & B line inputs.
+SUB
+This switch routes the post Fader signal directly to the SUB buss, this SUB buss can be used to make a sub 
+mix for recording or any other creative process.
+PROG(RAM)
+This switch routes the post Fader signal directly to the PROGRAM buss. 
+AUX SEND
+The next control is a stereo Aux send that sends stereo source signals to the stereo Aux send buss Master 
+(or SUB buss) and then to the output connectors on the Master back panel. The stereo Aux send is for 
+external effects such as reverb, echo or headphone amplifiers. Each Aux send can be set pre or post fader 
+by changing jumper settings on the circuit board of each module. The factory default is post fader.
+
+A I R E N C E - U S B   M a n u a l   P a g e  7
+CUE/COMMUNICATION BUSS 
+Below the AUX SEND is the stereo CUE switch (Pre Fade Listening), this switch allows you to check the 
+signal before you raise your channel fader up and mix it with other signals in the mixer.   
+Another smart function is that this CUE bus can be used for communication.  If you push a DJ’s Cue (let’s 
+say channel one) and if you then push the Telco Cue, the DJ as well as the caller can hear each other outside the broadcast and even you, sitting behind the desk on the monitor speakers. 
+Note: Levels need to be carefully set to avoid feedback and overdrive of circuits.
+The Cue switch also sends out HID signal over USB that can be programmed to do specific functions in 
+your play-out system. In the Control section of the manual we will explain how.
+ 
+ON
+The ON switch is used to pass on the audio and at the same time generates a start signal for turntables, 
+CD players, and jingle or cart machines. This switch sends out a momentary pulse or shortens continuously two pins of the Start connector on the back panel of the console. A jumper setting on the PCB let’s 
+you choose between pulse and continuously.  
+The ON switch also sends out HID signal over USB that can be programmed to do specific functions in your 
+play-out system. In the Control section of the manual we will explain how.
+ 
+FADER
+Final audio level control is the high quality, 100 mm long throw K-Alps stereo channel fader with integrated fader start switch. At the beginning of the fader movement you will feel an integrated start switch that 
+closes when you bring up the fader. This switch activates the start circuitry that is connected to the Start 
+Connector on the module back panel as described earlier. If the Mute-Act(ive) switch in the master section 
+is activated, positioned close to the CRM volume knob (and there is also one close to the Studio volume 
+knob), the control room level (or Studio level) will be dimmed by 20dB when in the input module Mic is 
+selected. At the same time a USB HID (Human Interface Device) signal is sent to the USB bus for controlling a function in your play-out software. 
+On the pcb there is a jumper setting where you can select if you want and extra 10dB of fader gain. Then  
+the unity gain position will be at the -10dB position. If you are a person that sweeps the fader fully up and 
+down, then do not select the extra fader gain of 10dB and choose for a unity gain position in the fully up 
+position of the fader. A jumper setting page will be shown further in this manual to customize the AIRENCE 
+to your needs.
+
+A I R E N C E - U S B   M a n u a l   P a g e  8
+AIRENCE MAIN UNIT TRIPLE INPUT USB MODULES 1-4
+INPUT CONNECTORS
+On the back of modules 1 thru 4, you find five connectors for each module.
+The stereo line input uses Cinch female type connectors.  
+Being un-balanced, the shield and (-) or out of phase signal wire need to 
+be connected together and seen as ground during installation.
+In order to use the START switch, it requires two pins in the ¼” stereo connector located on the back panel to be wired. 
+The tip and ring are shorted when the ON switch plus fader switch is activated. Once you have done this, a quick start turntable can be started via 
+a shorted contact action in the ¼” stereo connector with the ON switch or 
+with the Fader, whatever your preference is, but only if the START connector is wired on the back panel.  
+If your turntable only needs a pulse to start, ask your dealer. Or if you 
+know how to temporarily remove the cover frame of the AIRENCE you can change a jumper setting to a momentary action, so it 
+can be used as a pulse start switch.
+Connections on the START connector can only be used for a maximum of 24 Volts at 50 mA.  Please contact your dealer if you are 
+uncertain.
+*NEVER CONNECT AC POWER VOLTAGE TO THIS REMOTE-JACK*
+Or you can activate a function in your play-out software by USB HID instructions that will be explained later in the USB CONTROL 
+section of the manual.
+INSERT
+This ring/tip/sleeve stereo jack socket let’s you insert signal processors such as compressors/gates or special voice processing 
+units to improve your voice to sound like the ultimate announcer/D.J.  
+The Ring of the stereo jack sends the PRE-FADER channel signal and the Tip accepts the return signal.
+On the right you see the type of cable you need when your processor has jack in and outputs. Connect the tip from the stereo 
+cable to the tip of one of the mono jacks and the ring of the stereo cable to the tip of the other mono jack.
+Now insert the stereo jack into the AIRENCE’s insert and connect 
+the mono jack that produces a hum when the tip is touched by 
+your finger (and the related channel fader is open) into the processors output. The other mono jack should be inserted into the 
+processors input.  
+In case your processor has XLR inputs connect the tip of the stereo 
+jack to pin 2 of the Female XLR and short pin 1  and 3 with each 
+other and connect to ground (sleeve), this also goes for the other  
+Male XLR, connect the ring of the stereo jack (which sends signals) 
+to a male XLR pin2. Short here pin 1 and 3 and solder to ground (sleeve). This has to be done because the insert is not balanced.
+See below the cable type you need. 
+MICROPHONE INPUT
+The Mic input is a balanced female XLR type connector., see the left connector 
+below that should go into your mixer and your mic cable should end in a male 
+XLR as seen on the right section of the picture.
+1=Ground/shield
+2=Hot (in phase)
+3=Cold (out of Phase).
+
+A I R E N C E - U S B   M a n u a l   P a g e  9
+SPECIAL OPTIONS FOR USB MODULES 1 - 4 (PCB AIRENCE-2)
+Located on the input channel circuit boards are several jumpers that can be changed to enable different configurations of the 
+USB Triple input channel settings.  If changes are required, we advise you to contact your local dealer to have these changes performed. But if you know something about electronics and are not afraid to open up your mixer you can do it yourself.
+But... before you do anything power must be removed from the console of course. The metal cover frame must be removed to 
+be able to reach the modules jumpers. This is something you need to do only once before installation. 
+HOW TO REMOVE THE BOTTOM OF YOUR MIXER
+First remove the 3 bolts below the faders that hold the cover, then put the mixer upside down on a soft surface.
+You see on the back panel side of the cover again 3 bolts that needs to be removed.
+Also on the left and right side of the frame there are 2 bolts that needs to be removed.
+Once you have done this you can lift the cover from the front and the back panel of the mixer.
+Use a tweezer to lift and replace the jumpers. When the flat cables are in the way, remove them by carefully lift the cables out of 
+the headers.
+It is also advisable to make up you mind how you want the AIRENCE to do his job for you. Let me show you first a list of jumper 
+settings and what you can achieve with changing the jumper settings.
+I will also inform you about the factory default setting and what is does. 
+The jumper settings on the next page and trimmers can be changed to adjust the AIRENCE to your needs.
+
+A I R E N C E - U S B   M a n u a l   P a g e  10
+SPECIAL OPTIONS FOR USB MODULES 1 - 4 (PCB AIRENCE-2)
+   PCB Location
+JUMPERS
+DEFAULT
+DESCRIPTION
+J15
+Phantom ON
+48 volt phantom power on/off via Jumper 
+J15.
+J3 
+Low cut ON
+Low cut filter on Mic input done by shorting all 4 pins on Jumper J3. 
+Removal of both jumpers gives no low cut 
+function
+ 
+J11/J12
+Fader gain 
+0dB
+Fader gain can be set to change the post 
+fader gain from 0db to +10dB
+(you need to do this for both left and 
+right signals!)
+J6/J16
+AUX POST
+Stereo Aux send pre or post selectable 
+via Jumper J6/J16 
+J17
+Start pulse
+Continuously
+Pulse/Continuously Jumper J17 to change 
+the start pulse from latching (continuously) to pulse.
+J10
+NON STOP 
+SELECTION
+prog post
+NON STOP Source selection. These jumpers, when placed make a connection from 
+the output of the module’s USB chip to 
+the NON STOP switch in the master section.
+J5
+USB OUTPUT
+Prog-Pre
+Output USB source selector.  
+Here you determine which signal will be 
+send to the PC
+VR2/3
+USB INPUT 
+LEVEL 
+0dBu
+USB chip input trimmer left/right
+      
+J18
+MIC ON
+ON
+This jumper allows you to send a  
+MIC-ON control signal to the MIC-ON bus 
+1, which is CRM-MUTE or to MIC-ON bus 
+2, which is Studio Mute.
+
+A I R E N C E - U S B   M a n u a l   P a g e  11
+JUMPERS
+DEFAULT
+PLEASE DO NOT CHANGE BELOW 
+JUMPERS IN ANY WAY
+J7
+Module-1
+Logic Port selector: 1-2 START / 3-4 
+ON / 5-6 CUE
+ 
+Module-2
+Logic Port selector: 7-8 START / 9-10 
+ON / 11-12 CUE
+ 
+Module-3
+Logic Port selector: 13-14 START / 1516 ON / 17-18 CUE
+ 
+Module-4
+Logic Port selector: 19-20 START / 2122 ON / 23-24 CUE
+J9
+Module-1
+USB Port Selector 1-2 and 3-4 
+Module-2
+USB Port Selector 5-6 and 7-8
+Module-1
+USB Port Selector 9-10 and 11-12
+Module-1
+USB Port Selector 13-14 and 15-16
+
+A I R E N C E - U S B   M a n u a l   P a g e  12
+SETTING UP THE USB  MODULES
+Above pictured you see a section of the USB pcb where you can decide which output signal is sent to the USB connector.
+The default setting is PROG POST, it means a post master stereo fader signal is sent to the USB connector and to your PC.
+You can change this by moving both yellow jumpers two steps to the left, now you have a PROG PRE master fader signal to the USB connector. 
+There are also options to get a signal from the  Sub output or the AUX output. Be aware that you always have to jumper for both the left and 
+the right signal! The level is set by the master faders of the mixer when PROG POST post (default) is selected. 
+USB LEVEL TRIMMERS
+On the top left of the picture above you also have two trimmers (VR2 and VR3) that adjust the level that is sent to the USB chip in the AIRENCE 
+and thus adjust the outgoing level to your PC for left and right signal for the selected jumper setting discussed earlier.  
+This is especially important for Windows 7 that recognizes the AIRENCE-USB chips we use as mic level signals. A lower output level coming from 
+the AIRENCE-USB will greatly improve performance. We have no experience with WINDOWS-8 at the moment, but we will update the manual 
+as soon as we have done some tests. Also imbalances between left and right could be corrected by these trimmers.
+An audio application needs to run on your PC to be able to see the levels. Or else trial and error is the only way.
+A free downloadable tool is to be found here http://minorshill.co.uk/pc2/testgen.html
+ 
+To be able to adjust this level you need to remove the bottom plate of the AIRENCE to access the trimmers, see the description on page 8.
+ 
+The return signal coming from the PC USB is fixed but can be adjusted with the AIRENCE modules Gain control.
+
+A I R E N C E - U S B   M a n u a l   P a g e  13
+SETTING UP THE USB  MODULES
+In order to set up a connection between your computer and the AIRENCE-USB mixer, use 
+a standard USB cable available from any local computer shop. (See picture). When connecting the AIRENCE-USB to your computer, the computer (PC or Mac) will recognize the 
+AIRENCE as new hardware and will establish a connection to any audio programs needing 
+audio hardware. After establishing a connection, there is no need to download drivers or 
+performing complicated setup routines, just plug in the USB cable to your Windows or Mac 
+computer and start tracking! (or playing a maximum of 4 stereo channels at the same time)
+If you want to know more about USB try this link
+http://en.wikipedia.org/wiki/Audio_Stream_Input/Output
+If you are already familiar with digital audio recording, the latest versions of Kristal Audio Engine and Audacity are available free 
+of charge via the Internet. Use this link http://www.asio4all.com/ for third party downloads.
+UNDERSTANDING  INTERNET  RADIO
+One of the key features of the AIRENCE is you can set up your own Internet radio station from your home or office and have your 
+friends listen to your broadcasts, be it music, talkshows, political, or religious programming. 
+For more information on the Internet, follow the web links below.  
+NOTE: D&R does not accept responsibility for the content of the following links or sites.  
+How it works	
+	
+: http://www.shoutcast.com/support/docs/ 
+Winamp 	
+	
+: http://classic.winamp.com/ 
+Shoutcast server 		
+: http://www.shoutcast.com/download/serve.phtml// 
+Shoutcast dsp plugin 	
+: http://www.shoutcast.com/download/
+ 
+The following paragraphs concerning the Internet might give you a better understanding about Internet radio. 
+If you wish to set up a broadcast and you are a do-it-yourself kind of person - you might do well creating your own online radio 
+station by using your own personal computer to create a dedicated server for doing the job. Some of the software options for 
+getting this done include: 
+ 
+SHOUTcast: 
+SHOUTcast is one of the original free Internet radio software solutions for streaming audio. You can start your own station fairly 
+easily and the software is free to download. 
+http://radio.about.com/gi/o.htm?zi=1/XJ&zTi=1&sdn=radio&cdn=gadgets&tm=23&gps=562_409_1302_762&f=00&su
+=p504.1.336.ip_&tt=2&bt=1&bts=1&zu=http%3A//www.shoutcast.com/download
+ 
+Helix Server Basic 
+Free streaming media server software which can distribute live and on-demand video and other media. Realnetworks.com 
+describes it as: “Simple 5-stream server. This free media server is a great solution if you are getting started with streaming media 
+and want to experiment before rolling it out to a large audience.” The Helix Server Basic is free to download. 
+http://www.realnetworks.com/products-services/free-helix-products.aspx 
+ 
+Quicktime Streaming Server 
+Apple.com says: “Whether you are looking to add streaming media to your web site, deliver distance learning or provide rich 
+content for your mobile subscribers, Mac OS X Server has all of the tools you need. QuickTime Streaming Server lets you deliver 
+live or prerecorded content in real time over the Internet.” You can find out more at apple.com. 
+http://www.apple.com/quicktime/streamingserver/ 
+ 
+Quicktime Broadcaster 
+Apple.com writes: “Combining the power of QuickTime with Apple’s ease of use, QuickTime Broadcaster allows just about anyone to produce a live broadcast event.” Download this software from apple.com 
+http://www.apple.com/quicktime/broadcaster/ 
+ 
+Peercast 
+Peercast.org is a non-profit website that provides free peer-to-peer broadcasting software. “PeerCast is a simple, free way to 
+listen to radio and watch video on the Internet. It uses P2P technology to let anyone become a broadcaster without the costs of 
+traditional streaming,” according to the peercast.org website. http://www.peercast.org/ 
+ 
+Icecast 
+Icecast is “free server software for streaming multimedia.” Download a copy from icecast.org. 
+http://www.icecast.org/ 
+Andromeda 
+Andromeda is delivery-on-demand software. “Andromeda scans your MP3s and presents them as a fully-featured streaming Web 
+site. That means you simply add, move, rename, and delete files and folders to update the contents of your Andromeda-powered 
+site. It’s as easy as drag, drop, stream,” according to turnstyle.com where you can download an evaluation copy. 
+http://www.turnstyle.com/andromeda/
+
+A I R E N C E - U S B   M a n u a l   P a g e  14
+TELCO-LINE MODULE 1-2 CONNECTORS, CONTROLS, & FUNCTIONS
+Input modules Telco 1&2 have integrated Hybrid circuitry with built in high quality Telephone Hybrids as well as stereo line inputs 
+in case only one Hybrid is needed.
+Highlights are:
+	
+* High quality Telephone Hybrid circuit to directly connect to phone lines.
+	
+* Stereo line input.
+	
+* Gain control.
+	
+* Telco send Control.
+	
+* Direct access CONNect and TB (Talk Back) switches.
+	
+* Stereo Aux send.
+	
+* Stereo CUE switch for pre fade listening.
+	
+* Start (ON) switch for telephone signaling and 100mm smooth professional faders.
+	
+WHAT IS A TELEPHONE HYBRID?
+Telephone hybrids are hardware interfaces between professional audio equipment and public telephone 
+networks. They provide protection for your equipment and the public telephone lines, allowing for various 
+line signals and line conditions. Automatically canceling out the unwanted signal, they facilitate two-way 
+communication when using a single 2 wire telephone line.  Each AIRENCE-USB hybrid module has a Telephone 
+line (WALL) connection and a handset connection. Thousands of D&R Telephone Hybrids (also built into this 
+AIRENCE-USB) are used in radio and television broadcasting facilities around the World allowing external callers to be connected to the studio mixer for live broadcast. Many of the D&R Telephone Hybrids are supplied 
+to radio stations allowing extremely effective conversion between 4-wire audio circuits and standard 2 wire 
+telephone lines. 
+Specs: 
+Output	 	
+: Internally connected in the AIRENCE. 
+Input	
+	
+: Line level 0 dBu balanced, internally connected in the AIRENCE. 
+R/C balance	
+: fully adjustable.
+Separation	
+: more than 30dB. 
+TELCO SEND
+With this control you adjust the level of the outgoing signal to the telephone line.
+PHONE / LINE INPUT SWITCH
+When switched to the stereo line input, you have a high impedance line level input for connecting cart 
+machines, iPods, tape machines, or CD players. The up position of this switch changes this module into a full 
+blown telephone Hybrid module. It is a Hybrid that can be connected to any standard telephone line.
+R-BALANCE
+Internal potentiometer (screwdriver control) to adjust for maximum side tone attenuation via top panel hole.
+C-BALANCE
+16 position rotary switch to select the optimum side tone (your own send signal coming back from the telephone line) attenuation.
+GAIN
+With the GAIN control, the source level is adjusted to the internal mixer level.  
+This is for both the Telephone Line input and the Stereo Line inputs (when selected)
+CONNect
+This switch (when pushed) picks up the phone line when a call comes in. Note: the incoming call will not be 
+heard until the CUE is pressed or the ON switch and the fader are activated which brings the signal to the 
+mixer. You can of course have a handset with dial possibility to dial and pick up calls from the caller first before you connect the caller to the mixer by pushing the CONNect button. To hear the caller you have to push 
+the CUE button and to bring the caller on-air push the ON switch and pull up de fader.
+TALKBACK
+By pushing the TB switch on the Hybrid module, the internal talkback microphone is activated and allows you to talk to the caller 
+without being ON-Air.
+
+A I R E N C E - U S B   M a n u a l   P a g e  15
+AUX SEND
+Below the TB switch is the stereo Aux send that can be set to send stereo source signals pre or post fader (pre or post jumper 
+settings on the circuit board). The factory default is post fader. 
+ROUTING
+Each input module has SUB and PROG(ram) routing switches to route the stereo signal to either the SUB bus, 
+Program bus or both at the same time, or... not at all.
+CUE
+Next you will see the stereo CUE switch (Pre Fader Listening). This switch allows you to check the signal before 
+you mix it with your other channel signals in the mixer. A second very important function is that this Cue buss 
+is also designed to be a N-1 communication buss.  It means that a caller hears any signal connected to this 
+Cue buss  except his own signal. So communication between a DJ channel and the caller is possible without 
+having to mix in the DJ channel and the caller in the broadcast.
+RING (LED)
+This LED lights to alert you when a call comes in,. You can also connect a warning light to the START jack to be 
+visually informed that a call comes in (when you wear headphones).
+ON
+The ON switch is used to activate the module and generate a signal to start turntables, CD players, cart or 
+jingle machines. This switch sends out a momentary pulse (default) or switches permanently (continuously) 
+between tip and ring of the Start connector on the back of the console. You can also use this START connector 
+to control an external  Ring indicator that a call is coming in. This is the default setting of the related jumper. 
+You will notice that the internal LED of the ON switch will not light when pushed as long as the fader is not up 
+alerting you that there is no signal sent to the busses (Program or Sub). 
+FADER
+Final control of the channel is the 100mm long throw K-Alps stereo channel fader with integrated fader start 
+switch. The channel fader sends the amount of signal from the associated channel to the master mix buss.  
+At the right side of the fader you see a dB labelling starting at the top with no attenuation (0) and sliding 
+down it attenuates in steps of 5dB until it reaches a full cut off below -90dB. When  you are used to fully 
+throw the fader in its top position when opening a channel it is advisable to set the fader gain jumper to 0dB 
+(factory default). If you need a little bit of “playground” for your audio, set the jumper to +10dB fader gain 
+and see the -10dB (10) position as your unity gain position. At the beginning of the fader movement you will 
+feel an internally built in start switch that is activated when you bring up the fader. This switch activates the 
+start circuitry and controls externally connected devices such as CD players etc (via the Start connector on the 
+back).
+INPUT CONNECTORS
+On the back of each of the AIRENCE-TELCO modules 1 and 2 you find five connectors. Two unbalanced stereo 
+line RCA Cinch connectors for connecting CD players, iPods, or any playback devices as long as they are line level equipment. The level can be 
+set using the gain control to match most source levels. The left RCA/
+Cinch connector is the right input and the right RCA/Cinch connector is 
+the left input. The shield needs to be connected to the ground or case 
+of the RCA/Cinch connector. The START switch has two active connections to be wired. The tip and ring are shorted when the ON switch or 
+fader switch is activated. Default the tip and ring are shorted when a 
+call is coming in to alert someone is calling the studio. In case Fader 
+start is jumpered, you can start a turntable with the ON (if connected 
+to the START connector) switch on the back panel. These switches quick 
+start turntables through the remote jack by a continuous contact action 
+between tip and ring at the back of the mixer.  If your turntable only 
+needs a pulse to start ask your dealer to modify the internal circuitry to change it into a 
+momentary action, so you can use it as a pulse start switch. 
+*NEVER CONNECT ELECTRICAL POWER TO THIS REMOTE-JACK*
+Connections on the START connector should only be made with a maximum of 24 Volts by 
+50 mA.  Please contact your dealer in case of doubt. The two RJ11 connectors connect the 
+Module to the telephone utility companies phone line connection (Wall) and to your telephone appliance (Phone) so you can 
+dial-out to people you want to interview or your radio program listeners.
+
+A I R E N C E - U S B   M a n u a l   P a g e  16
+SPECIAL AVAILABLE OPTIONS IN YOUR AIRENCE-TELCO MODULE 
+On the PCB of your TELCO AIRENCE module there are several jumpers and 2 trimmers that can be changed/trimmed to enable different configurations of the channel settings. This should be done by a D&R dealer, service center or yourselves if you are not afraid of electronics and 
+screwdrivers. But... be sure to remove the mains cable(s) first!! 
+PICTURES
+JUMPERS
+DEFAULT
+DESCRIPTION
+J11/19
+POST
+Stereo Aux send pre or post selectable via Jumper J11/9 (post is 
+default).
+J4/J5
+0dB
+Fader gain can be set to change the post fader gain from 0db to 
++10dB
+(you need to do this for both left and right signals!)
+J17
+Continuesly
+Pulse/continuous Jumper J17 to change the start pulse from latching 
+(continuously) to pulse.
+J11/9
+Ring
+Ring Detection is default set on the left 2 positions.
+Moving the jumpers to the right positions changes the START into a 
+start jack.
+VR2/VR3
+Factory 
+adjusted
+Prog pre left and right level trim to cancel out return signals (these 
+are adjusted at the factory, please do not touch them without measuring equipment.
+
+A I R E N C E - U S B   M a n u a l   P a g e  17
+VoIP-LINE MODULE 5 or/and  6 CONNECTORS, CONTROLS, & FUNCTIONS
+Input module 5 or and 6 are dedicated Voice over IP Telephone module and also has a stereo line input in 
+case a classisc Hybrid is needed.
+Highlights are:
+* High quality Telephone Hybrid circuit to directly connect to the Internet.
+* Stereo line input.
+* Gain control.
+* VoIP/Telco send Control.
+* Direct access CONNect and TB (Talk Back) switches in the master section.
+* Stereo Aux send.
+* Stereo CUE switch for pre fade listening.
+* Start (ON) switch and 100mm smooth professional fader.
+VoIP-CHANNEL
+In the AIRENCE USB we have built in an interface that let you connect to the Internet community by way of 
+(for instance) Skype. Skype is freely available communication software that can be used to call and receive 
+calls of your listeners to your broadcast station. We have designed a separate USB connector on the backpanel of your console to interface with SKYPE software. This could be on the same PC (on a second USB 
+connector) as the Play-out system is installed or on a separate PC for dedicated use of the VoIP chan-nel 
+with SKYPE software. For downloading the SKYPE software go to http://www.skype.com and then to your 
+own language for more support. There are some SKYPE software settings you need to go through before 
+this is working with your console. For some usefull instructions go to:
+https://support.skype.com/nl/faq/FA34541/een-perfect-skype-gesprek-voeren
+(Dutch instruction video, but I am sure there is one in your own language or in English of course). 
+GAIN
+With the GAIN control, the source level is adjusted to the internal mixer level.
+This is for both the VoIP and the Stereo Line input (when selected) 
+VoIP(TELCO)-LINE SWITCH
+When switched to the VoIP (Phone) position only the VoIP signal is received. When this switch is up, you 
+have a high impedance stereo line level input for connecting an external Hybrid or... cart machines, iPods, 
+tape machines, CD players etc. 
+VoIP (TELCO) SEND
+With this level control the outgoing signal from the mixer is sent to the caller via Skype or and via an external connected Hybrid. This is for both the VoIP and the Stereo Line input (when selected). This Hybrid get’s 
+it send sighnal from the cleanfeed output on the back of the console. . 
+CONNect
+This switch (when pushed) picks up the VoIP/Hybrid signal when a call comes in. Note: the incoming call 
+will not be heard until the CUE is pressed or the ON switch and the fader are activated which brings the 
+signal to the mixer. You can of course have a handset with dial possibility to dial and pick up calls from the 
+caller first before you connect the caller to the mixer by pushing the CONNect button. To hear the caller 
+you have to push the CUE button and to bring the caller on-air push the ON switch and pull up the fader.
+TALKBACK
+By pushing the TB switch on the VoIP module, the internal talkback microphone is activated and allows you 
+to talk to the caller without being ON-Air.
+ROUTING
+Each input module has SUB and PROG(ram) routing switches to route the stereo signal to either the SUB 
+bus, Program bus or both at the same time, or... not at all.
+AUX SEND
+Below the TB switch is the stereo Aux send that can be set to send stereo source signals pre or post fader 
+(pre or post jumper settings on the circuit board). The factory default is post fader.
+
+A I R E N C E - U S B   M a n u a l   P a g e  18
+CUE
+Next you will see the stereo CUE switch (Pre Fader Listening). This switch allows you to check the signal 
+before you mix it with your other channel signals in the mixer. A second very important function is that this 
+Cue buss is also designed to be a N-1 communication buss.  It means that a caller hears any signal connected 
+to this Cue buss  except his own signal. So communication between a DJ channel and the caller is possible 
+without having to mix in the DJ channel and the caller in the broadcast.
+RING (LED)
+This LED lights to alert you when a call comes in. You can also connect a warning light to the START jack to be 
+visually informed that a call comes in (when you wear headphones).
+ON
+The ON switch is used to activate the module. This switch sends out a momentary pulse (default) or switches 
+permanently (continuously) between tip and ring of the Start connector on the back of the console. You can 
+also use this START connector to control an external  Ring indicator that a call is coming in. This is the default 
+setting of the related jumper. You will notice that the internal LED of the ON switch will not light when pushed 
+as long as the fader is not up alerting you that there is no signal sent to the busses (Program or Sub). 
+FADER
+Final control of the channel is the 100mm long throw K-Alps stereo channel fader with integrated fader start 
+switch. The channel fader sends the amount of signal from the associated channel to the master mix buss.  
+At the right side of the fader you see a dB labelling starting at the top with no attenuation (0) and sliding 
+down it attenuates in steps of 5dB until it reaches a full cut off below -90dB. When  you are used to fully 
+throw the fader in its top position when opening a channel it is advisable to set the fader gain jumper to 0dB 
+(factory default). If you need a little bit of “playground” for your audio, set the jumper to +10dB fader gain 
+and see the -10dB (10) position as your unity gain position. At the beginning of the fader movement you will 
+feel an internally built in start switch that is activated when you bring up the fader. This switch activates the 
+start circuitry and controls externally connected devices such as CD players etc (via the Start connector on the 
+back).
+INPUT CONNECTORS VoIP (Telco2 Telco1)
+On the back of each of the AIRENCE-VoIP(TELCO) modules 1 and 2 you find five connectors. Two unbalanced 
+stereo line RCA Cinch connectors for connecting CD players, iPods, or any play-back devices as long as they 
+are line level equipment. The level can be set using the gain control to match most source levels. The left 
+RCA/Cinch connector is the right input and the right RCA/Cinch connector is the left input. The shield needs 
+to be connected to the ground or case of the RCA/Cinch connector. 
+The START switch has two active connections to be wired. The tip and ring are shorted when the ON switch 
+or fader switch is activated. Default the tip and ring are shorted when a call is coming in to alert someone is 
+calling the studio. In case Fader start is jumpered, you can start a turntable with the ON (if connected to the 
+START connector) switch on the back panel. These switches quick start turntables through the remote jack 
+by a continuous contact action between tip and ring at the back of the mixer.  If your turntable only needs a 
+pulse to start ask your dealer to modify the internal circuitry to change it into a momentary action, so you can 
+use it as a pulse start switch. 
+*NEVER CONNECT ELECTRICAL POWER TO THIS REMOTE-JACK*
+Connections on the START connector should only be made with a maximum of 24 Volts by 50 mA.   
+Please contact your dealer in case of doubt. 
+USB CONNECTOR 
+The bottom RJ11 connector (Phone) is replaced by a USB connector to 
+directly communicate with your PC (internet) via a USB cable connected 
+to a spare USB connector on your PC.
+CLEANFEED OUTPUT
+The top RJ11 connector (WALL) now provides you with a cleanfeed signal 
+on pin 1 and 4 to connect to an external Hybrid. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  19
+AIRENCE MASTER SECTION
+The AIRENCE master section houses all the controls for the mix buss Program faders and master controls for Aux return, EXT 
+(2-Track) play-back, and master outputs.  Individual functions are described below in sections as shown on the front panel below.
+Later version do NOT have the master faders anymore.
+ 
+LEDBAR METERS
+The master section has two high-res 11 segment LEDbar meters with VU meter Ballistics. 
+Depending on which switch is pressed (CUE on channels, AUX SEND master, SUB, AUX 
+RET, EXT, etc.), the master meters will allow the reading of all input and outgoing signals. 
+The attack and release time constants conform to International VU meter standards, being 300mSec for attack and decay. The green area of the LEDbar is the safe area and occasionally a red led on is no problem. The output of your AIRENCE-USB is +6dBu (1.55v) 
+(“0” VU) when the 0 green LED is on. Both led bars have trimmers for fine adjust and 
+other requested display levels.
+PROGRAM MONO SWITCH
+This switch turns the stereo signal into mono for both main outputs. Using this switch is 
+a convenient way to check and balance the left & right signals before going to stereo as 
+well as checking the overall Phase response. Also when one side of the stereo signal is 
+not available, the mono switch directs the mono signal to both outputs.
+EXTERN INPUT
+The External(2 TRACK/OFF-AIR) switch allows for playback of the outputs from stereo 
+devices such as CD players, tape machines, computer sound cards, iPods, or the OFF-AIR 
+signal to be routed to the CRM (monitor buss). Its sensitivity is -10dBv (300mV). Note: 
+The Cue system (from anywhere in the mixer) will interrupt the EXT signal when activated.
+RECORD OUTPUT (Rec Out)
+The AIRENCE has a Record output on Cinch connectors. These outputs can be fed from 
+SUB or from AUX or when both are in its up positions the main program Signal is being 
+send to these outputs. 
+ 
+AUX SEND
+The stereo AUX SEND master controls the sum of the entire individual stereo Aux send 
+signals coming from the input channels.
+A Cue button let’s you hear what is on the Aux send buss in stereo. 
+AUX CUE
+The AUX SEND CUE switch allows for the master LED bar meters to display the Aux 
+output signal of the Aux master as well as listening to the signal from the AUX buss. It 
+is necessary to turn the AUX SEND master control up to be able to create and show an 
+outgoing AUX signal.
+AUX RETURN
+This stereo input is intended to be used for returning the stereo outputs of reverbs or other effects gear and can be routed to the 
+Program and SUB bus.  It can also be used to connect the output of other mixers so you don’t use input channels. 
+ 
+CUE AUX RETURN
+This switch enables you to listen to an incoming Aux return signal before the AUX RET (Return) control pot.
+ 
+SUB SEND
+The stereo SUB SEND master controls the sum of the entire individual selected Sub routing push buttons send signals coming 
+from the input channels. A Cue button let’s you hear what is on the Sub send buss
+
+A I R E N C E - U S B   M a n u a l   P a g e  20
+STUDIO
+The AIRENCE has a separate Studio output that normally follows the Program pre-fader left and right signals, but in case a guest 
+wants to hear a caller switching to Follow Phones enables him or her to listen tot the CUE system and to communicate with the 
+caller outside a broadcast. You can connect the inputs of reverbs from these outputs (with Aux send jumpered to post fader) or 
+use them as a monitor output, after you jumper the Aux send in the channels to pre fader. 
+FOLLOW PHONES
+This switch is an input selector for the STUDIO output.  Instead of listening to the main 
+outputs, it allows the user to listen to the phones output.  This feature is used by announcers and DJ’s that do not want to use headphones all the time.
+Mute by Mic
+This latching switch (when pushed down) allows control signals (mic on) coming from 
+the DJ mic to mute the CRM speakers.  
+This is to avoid signal feedback in the studio area and keeps the DJ’s sound clear. At the 
+same time a relay is activated which is connected to the Red Light output connector on 
+the back of the master section.
+ANNOUNCER
+The AIRENCE has a separate Announcer output that normally follows the Program prefader left and right signals, but in case a guest wants to hear a caller switching to Follow 
+Phones enables him or her to listen tot the CUE system. 
+FOLLOW PHONES
+This switch is an input selector for the announcer output.  Instead of listening to the 
+main outputs, it allows the user to listen to the phones output.  This feature is used by 
+announcers and DJ’s that do not want to use headphones all the time. Also the CUE 
+communication bus can be accessed to communicate with anyone connected to it.
+ 
+CRM SECTION (Control Room Monitor)
+The CRM control is fed by the master outputs pre (before) the masterfaders. 
+This can be used as an extra stereo output for recording or a sound system in which 
+you do not want the master faders to change the out-going signal.
+Mute by Mic
+This latching switch (when pushed down) allows control signals (mic on) coming from 
+the DJ mic to mute the CRM monitor speakers. This is to avoid signal feedback in the 
+control room and keeps the DJ’s sound clear. At the same time a relay is activated which 
+is connected to the Red Light output connector. A jumper in the mic channel needs to 
+be set to allow this control signal to Mute the Control Room Monitors.
+FOLLOW PHONES
+This switch is an input selector for the CRM output.  Instead of listening to the main outputs, it allows the user to listen to the 
+phones output.  This feature is used by announcers and DJ’s that do not want to use headphones.
+BALANCE
+The balance knob controls the balance between the main stereo Program output and the stereo Cue signal when selected. 
+With the balance control anywhere between Cue and L/R you always have control over the main output signal even when a Cue 
+switch is activated.
+Note: The split switch de-activates the balance control.
+SPLIT
+When the split function is activated the following listening situation is created. The left side of the phones output gives the 
+summed Cue signal and the right output gives the summed left/right signal (pre fader). With the SPLIT switch activated, the balance control has no influence on the configuration any longer.
+ 
+
+A I R E N C E - U S B   M a n u a l   P a g e  21
+TALK BACK
+The Talk back circuit has a built in electret microphone with routing to most of the outputs. By selecting one or more of the routing switches, you can communicate to the outputs SUB/AUX/STUDIO and Announcer. 
+The Talk back level is independent of settings of the master controls and Announcer 
+outputs. An exception is the AUX output, here the Talk back level is also dependant 
+upon the master level setting of the AUX master.The Talk back switch has a momentary action to avoid being in the talk back mode when not wanted. 
+As can be seen in the Telco module there is a Talkback switch routing the built in Electret mic directly to the caller. If an announcer who wants to talk to the caller and is 
+not sitting in front of the mixing consoles, he can use his Presenters Mic, the engineer 
+activates both the Announcers mic channel’s CUE and the caller’s CUE and now both 
+can talk with each other. 
+MASTER FADERS
+The AIRENCE master faders are 100mm K-Alps faders controlling both left and right 
+signals individually to compensate for imbalances in the left & right audio signals. 
+They are conveniently placed close to each other to control both levels with one finger and still be able to balance uneven signals by hand.
+PHONES
+The phones output (located on the front panel) automatically switches between 
+Main Program outputs and CUE from any input module or 
+from the Master 
+section. Normally the left/right output is heard until a Cue 
+switch is activated 
+from anywhere in the console. By pressing a CUE switch, 
+you will hear the 
+associated signal rather than the left/right signal in the PHONES. The led bar switches 
+accordingly with this action.  
+We advise you to use headphones with an input impedance NO LOWER THAN 400 
+Ohms to avoid mismatch or distortion.  An 8-32 Ohm set of headphones will produce 
+distortion when cranking up the level of the AIRENCE to high due to the fact that the 
+impedance load is too low.  If you must use 8-32 ohm phones, a small power amp 
+should be used to power the phones. It is a load equivalent to the load that loudspeakers normally present to power amps. The AIRENCE has no power-amp built in, 
+sorry.
+NONSTOP
+The Non Stop switch is a very convenient function when you want to use your mixer 
+while NON STOP on-air.
+By activating this switch a by you pre selected USB channel (1,2,3 or 4) sends its signal 
+directly to the main XLR outputs, making your mixer completely free for production.
+A CUE switch let’s you listen to what you’re broadcasting directly out of your Play-out 
+system.
+Two Trimmers are available to even out any level differences between NON stop 
+mode and On-Air mode,
+METERING
+Part of the total AIRENCE package is a software meter application and clock as seen below. All data are 
+transported over the single USB 2.0 connection. An 
+accurate NTP clock time is taken from  the Internet.
+Be sure to have access to the Internet.
+The big left meter always shows the Program 
+output, the other big meter shows the SUB output 
+level and the smaller meter on the right hand side 
+follows every signal selected by the CRM section.
+
+A I R E N C E - U S B   M a n u a l   P a g e  22
+MASTER BACKPANEL CONNECTORS
+The master connector panel houses 18 RCA/Cinch connectors, 2 jack sockets, and 2 male XLR connectors.  
+There are two power supply connectors, USB connector and the SUB-D type connector to connect a slave unit to the main unit.
+From right to left we will describe the functions and features of the master connector panel.
+AUX SEND
+The aux outputs are on two RCA Cinch connectors with the signal coming from the aux send 
+controls in the channels. 
+The level is +6 dBu (1.55 volt). 
+You can connect the inputs of reverbs from 
+these outputs (with Aux send jumpered to post 
+fader) or use them as a monitor output, after 
+you jumper the Aux send in the channels to pre 
+fader.
+CRM SEND
+The CRM (Control Room Monitor) outputs 
+are on two RCA Cinch connectors carrying the 
+signal coming from the CRM volume potentiometer on the front panel and its associated source selection. The level is +6 dBu (1.55 volt). 
+You can connect the inputs of Active monitors to Cinch connectors.
+PROGRAM SEND
+The PROG (Program) outputs are on two RCA Cinch connectors carrying the same signal as is on the Master left right XLR’s and 
+stays there also when the NON STOP ON-AIR switch is activated. Then the main XLR outputs carry the USB signal from one of the 
+USB inputs. 
+This non switched output can be used for recording when the console is in its NON STOP mode. The Prog output connectors are 
+left and right outputs for connecting the inputs of a stereo  audio  recorder or any other analog or digital device. Output level is 
+-10dBv (-7.8dBu / 300mV), the signal is post master fader.
+AUX RETURN
+The Aux return connectors are controlled by the Aux return control on the master section.  The signal is connected directly to the 
+master main mix busses. You can connect reverb returns or other stereo signals without using any input modules. The input level 
+should be at least -10dBV.
+EXT(ERNAL) INPUTS
+These inputs are for instance intended to return stereo ON-AIR signal in the monitor section for checking live On-AIR signals.
+The input level should be at least -10dBV.
+CUE SEND
+The CUE outputs are on two RCA Cinch connectors with the signal coming from the CUE mix busses to be send to a separate CUE 
+loudspeaker. 
+The level is +0 dBu (0.775 volt). 
+STUDIO LEFT RIGHT
+The studio outputs are on two RCA Cinch connectors carrying the signal coming from the studio volume potentiometer on the 
+front panel and its associated source selection. The level is +6 dBu (1.55 volt). 
+You can connect the inputs of Active monitors to these Cinch connectors.
+RECORD OUT
+The Record Out cinch connectors normally send out the Program-Pre master fader signals, unless its source selection is switched 
+to from SUB or from AUX. Output level is -10dBV (-7.8dBu / 300mV)
+SUB OUTPUTS
+The SUB outputs are on two RCA Cinch connectors carrying the signal coming from the SUB summing amps. 
+This non switched output can be used for recording when the console is in its NON STOP mode, or for sending out channel selected signals.
+The level is dependant upon the SUB master volume control and can be listen to post SUB master by way of the CUE push button.
+
+A I R E N C E - U S B   M a n u a l   P a g e  23
+ANNOUNCER OUTPUT
+The Announcer output is on a Stereo jack connector and carries the signal coming from the Program Announcer amps. 
+This output can be used for sending signal to the announcer in the Studio. Normally this output carries the main program signal 
+unless the follow phones push button is activated, then the announcer can be linked to Cue signals for communication with DJ’s 
+and or Callers.
+The level is dependant upon the Announcer master volume control and is able to drive 400 Ohm headphones as a minimum 
+impredance.
+If more headphones need to be connect a separate headphone amp is a solution.
+MIC ON
+Directly beneath the SUB cinch connectors is a stereo jack socket (Mic On) that can control a red light indicator. This stereo jack is 
+connected to a change over relay. This relay is capable of controlling external Red light circuits as long as it doesn’t take a higher 
+voltage than 24 volt and the current doesn’t exceed 50 mA! Individual channels can be OFF jumpered from this buss.
+NEVER CONNECT 115/230 AC VOLTAGE TO THIS JACK!!
+The C.C. (Center Contact) of the internal relay is connected to the Tip of the stereo jack. 
+The N.O. (Normally Open) contact is connected to the ring of the jack.
+The N.C. (Normally Closed) contact is connected to the “sleeve or ground” of the jack.
+AIRENCE-USB RED LIGHT / START EXAMPLES
+Start / Mic-On  Jack
+Function OPTO COUPLER
+Comment
+Tip
+ 
+Switch Contact
+Max. 24V, 50mA.
+By jumper selection Pulse or Continuously
+Ring
+Switch Contact
+Sleeve
+ 
+Not Connected
+Our D&R ON-AIR warning light (pictured at the left) can be connected directly to the 
+ON-AIR jack socket (or Start jack in the TElco modules) between tip and ring by way of 
+a simple 2 wire connection.
+The ON-AIR led light has its own external power adapter.
+
+A I R E N C E - U S B   M a n u a l   P a g e  24
+MASTER OUTPUTS
+The master outputs are 3 pin male XLR connectors and are electronically balanced and can be connected to an input of a power 
+amp, professional recorder or On-Air processor. The output level is +6 dBu (1.55 volt).
+POWER CONNECTOR
+These two 5 pin XLR connectors accept external 36 volt 5A switched low energy power supplies that are part of the delivery.
+DO NOT USE ANY OTHER POWER SUPPLY THEN THIS ONE!!!
+Your AIRENCE can accept voltages between 90 AND 230 volts at 50/60Hz.
+The main unit of the AIRENCE works perfectly on one external power supply unit, but incase redundancy is requested, a second 
+unit can be connected to the second power XLR connector. If one fails the other takes over.
+SUB-D CONNECTOR TO SLAVE UNITS
+The AIRENCE has a Sub-D connector where you can connect an input slave unit with 6 triple inputs to extend the number of 
+inputs of your system. All (ON-AIR) and CUE control signals are  sent also through this low impedance module link.
+And... there is no limit to the number of extender units that can be connected, see it this way. The first extender unit plugs into 
+the main unit and the second Extender unit plugs into the first Extender unit and so on if more input channels are needed.
+OPTIONAL AES/EBU OUTPUT
+It is possible to order an optional digital AES output.
+In some versions of the AIRENCE-USB we use the second redundant Power supply connector for that purpose.
+In other versions there is a third 3 pole XLR left of the Redundant 5 pole connector.
+Default the AES is set to the following values.
+HEADROOM: -20dBFS (with jumper) No jumper means -9dBFS
+Sample Rate: 48kHz (with jumper) No jumper means 96kHz
+
+A I R E N C E - U S B   M a n u a l   P a g e  25
+SET-UP ROUTINES MODULE 1-4
+•	
+Connect a power-amp, recorder, or transmitter to the Master left/right main outputs.
+•	
+Connect a high impedance (NOT BELOW 400 Ohm) headphone to the “phones” jack socket on the master section. 
+•	
+Connect a microphone or line level equipment. 
+•	
+Now, connect turntables, CD players, and jingle machines.
+•	
+Connect a red light indicator to the master section when there is a need for it.
+•	
+The Studio and Announcer outputs can feed high impedance (400 ohms and above) stereo headphones directly.
+•	
+•	
+Now with everything connected, follow the adjustment procedure.
+•	
+Note; for mikes, only activate the grey Mic switch, for line level, leave this switch up and select line in the up position of the 
+upper switch in the module.
+•	
+Put on your headphones and turn the headphone volume control to the “12 o’clock” position.
+•	
+Set all the gain-controls and the master faders to its minimum. 
+•	
+Set all equalizer-controls to the “12 o’clock” position.
+•	
+All push button-switches should be in the up position, except for the Prog routing switches in the modules.
+•	
+Connect your external power supply and connect this supply to the mains voltage, the first LED in the LEDbars should be on.
+SETTING UP AN INPUT CHANNEL
+Push the CUE switch in a channel that is connected to a source.  
+Now slowly turn the GAIN control clockwise until you hear and see the input signal on the LED bars in the master section. 
+You can change the input sound by adjusting the equalizer-section.  
+If you adjust the equalization, once again check the level on the led bar, because  
+increasing specific parts of the frequency spectrum can easily add more gain to the signal.
+If you can’t get enough gain (when you have a  low sensitivity dynamic microphone) the trimmer on the 2 o’clock position above 
+the GAIN control knob could be trimmed for more or less gain.
+The LEDbar indication should be between -6 dB and  +6 dB to get a proper level on amplifiers or recording devices.
+The LEDbar is a VU meter indicating the absolute level that enters the console. 
+It is calibrated to indicate 0 dB on the scale corresponding with a +6 dBu output level.
+Release the CUE switch so the led bar can now read the output signal again.
+Now push the ON button to connect the input signal to the fader. 
+Now move the fader to the “10” position screened alongside the channel faders and turn up the master fader to the “0” position. 
+Further volume adjustments can be made on the equipment your signal is send to, such as power-amps or transmitters.
+The other inputs are similarly adjusted, using the “CUE” switches to (pre fade) listen to the connected sources. 
+Use the input gain for regular gain adjustment and the trimmer for fine adjustments to create a convenient gain range to work 
+with.
+Be carefully not to place the AIRENCE near heavy power transformers such as power amps. 
+Although the AIRENCE is constructed using a thick metal frame, this could cause hum.
+SETTING UP THE USB  MODULES
+Input modules 1 to 4 are also capable of accepting stereo USB 
+signals from a PC where you have play-out software running.
+To be able to set up a connection with your PC, use a standard USB 
+cable from a local computer shop. (See picture).
+When connecting the AIRENCE to your computer, the computer 
+(PC or Mac) will recognize the 
+AIRENCE as new hardware and will establish a connection to any 
+audio programs needing audio hardware.
+Also all 4 stereo channels will be automatically put in a natural 
+sequence of 1 to 4.
+After establishing a connection, there is no need to download 
+drivers or performing complicated setup routines, just plug in the 
+USB cable to your Windows or Mac computer and start tracking/
+playing!
+If you first want to know more about USB try this link 
+http://en.wikipedia.org/wiki/Audio_Stream_Input/Output 
+If you are already familiar with digital audio recording, the latest 
+versions of Kristal Audio Engine and Audacity are available free of 
+charge via the Internet. Use this link http://www.asio4all.com/ for 
+third party downloads.
+
+A I R E N C E - U S B   M a n u a l   P a g e  26
+ SETTING UP THE TELCO MODULES
+Connect the two wires of the telephone line’s wall connector to the RJ-11 
+connector labelled wall (LINE) and connect the telephone unit (the one 
+that has a dialer and handset) to the RJ-11 connector labelled PHONE. Note that to originate calls, a 
+local phone must be connected to the AIRENCE, so 
+you are able to dial a number.
+Once the dialed person has taken the call you can 
+talk to him via the handset and inform him that he 
+will be in the broadcast soon. You do this by pushing the connect button in the TELCO module. if you now want to hear him or her 
+again in the mixer push the CUE button in the same channel you have pushed the 
+Connect button and listen to the Cue signal through the CRM (follow phones active) 
+or via your headphone output. If you want some else to talk to him or her also prior 
+to the broadcast push any CUE button and communication is established.
+Now the internal hybrid is interfaced (fully balanced) between your telephone appliance and its connection to the outside world. The hybrid can now split the send 
+and return signals. 
+Position both Telco send and gain potentiometers in the 12 o’clock positions. 
+If a local phone is connected, originate a call to a remote site (someone’s phone). 
+If no local phone is present, someone at a remote site must call you. 
+When a call comes in, the red RING LED (positioned between the CUE and ON switches) lights up each time 
+the phone rings. The line is picked up by pushing the CONN button. 
+If you want to hear the caller, press in the same channel the CUE button to listen to the incoming call. 
+Adjust the Gain control to get a good input level from the telephone line.
+To be able to talk to the caller press the TB (Talkback) button and… talk to him or use another MIC input of 
+the mixer and push the CUE there too. Adjust the Telco send potentiometer to increase or decrease the outgoing level to the caller.
+Note: This is all happening outside the broadcast.
+If all is OK and both parties know what to do, you can press the ON switch and fade up the caller ON-AIR, or, 
+put the fader in its “0 or 10” position and activate the ON switch to put the caller on-air.
+Before going “live” with your caller, you will need to adjust the optimum RC balance to create the best 
+separation of in and outgoing signals to the telephone line, otherwise your listeners will be presented with 
+bad quality audio and your own voice will be influenced by crosstalk of your own signal feeding en returning 
+from the Hybrid. These adjustments are only required once when installing the AIRENCE.
+To achieve the optimum attenuation, you must adjust the C and R balance first.
+This is how it is performed:
+1.	
+Check if the Telephone connection is established and all connections to the mixing console are correctly 
+wired.
+2.	
+Send an audio signal to the telephone line by activating another module, for example, a CD player.
+3.	
+Now activate the CUE button of the TELCO module where the telephone line is connected. 
+4.	
+You will faintly hear the send signal coming out of the mixing console.
+5.	
+Adjust the R-Balance for minimum feed through of the mixers send signal.
+6.	
+Listen now which switch position of the C-balance gives a further reduction of the return signal.
+7.	
+Maybe it is good to re-adjust the R-balance after having selected another switch position.
+8.	
+Repeat steps 5 and 6 until no further improvement is achieved for this telephone line.
+9.	
+Note: If you use the mixer in different locations this procedure must be done again.
+
+A I R E N C E - U S B   M a n u a l   P a g e  27
+Below is an explanation for Germany Phone systems where different telephone connectors are used.
+Eingang und Ausgang Telefonhybrid Module (RJ11): 	
+Pin I	
+: nicht belegt 
+Pin 2	
+: Amt Leitung A 
+Pin 3	
+: Amt Leitung B
+Pin 4	
+: nicht belegt
+Anschluss Telefon (RJ11): 
+Pin I	
+: nicht belegt 
+Pin 2	
+: nicht belegt 
+Pin 3	
+: Amt Leitung A 
+Pin 4	
+: Amt Leitung B 
+Pin 5	
+: nicht belegt 
+Pin 6	
+: nicht belegt, 
+oder bei Nichtfunktion: 
+Pin I	
+: nicht belegt 
+Pin 2	
+: Amt Leitung B 
+Pin 3	
+: nicht belegt 
+Pin 4	
+: nicht belegt 
+Pin 5	
+: Amt Leitung A 
+Pin 6	
+: nicht belegt
+Ein Verbindungskabel ist durch ein Fachmann entsprechend anzupassen!
+CONNECTION WIRING OF BOTH (Wall) LINE and PHONE RJ-11 CONNECTORS
+PHONE/WALL RJ-11
+FUNCTION
+CONNECTION
+Pin 1
+n.c.
+Pin 2
+A (telephone line)
+In/out
+Pin 3
+B (telephone line)
+In/out
+Pin 4
+n.c.
+
+A I R E N C E - U S B   M a n u a l   P a g e  28
+EXTENDER TRIPLE INPUT MODULES 1-6
+The input modules switches & controls of the main AIRENCE-EXTENDER mixer have the following functions:
+Each of Modules 1 thru 6 has three selectable inputs. The three types of inputs consist of a Mic input a stereo 
+line input and a second Stereo LIne input. In the Mic switch position, the module is a normal mono module. 
+When the Mic is switched out, you have the choice of Line A or Line B stereo inputs which allows for the 
+module to become a stereo module with both left & right signals to feed the PROGRAM and or SUB stereo mix 
+busses. 
+GAIN
+With the gain control (the first control knob below the modules number), the source input level can be adjusted to the required internal mixer level. This control adjusts both the Mic input and the stereo Line/Line inputs 
+with the same control depending on the switch positions. Mic gain can be more precisely controlled with the 
+small trimmer positioned just above the High EQ control. A small flat screwdriver is needed.
+Try it in this way, if you cannot achieve enough Mic gain when the gain control is fully turned clockwise, only 
+then you slowly turn to the right to increase the gain to the desired level. Also a mic only low cut filter is 
+built in but this can only be reached/set when the bottom of the console is removed. There are more jumper 
+settings in the console, so we advice to make a (jumper)plan for your situation and then do all the internal 
+jumper settings in one go.
+ 
+STEREO LINE/LINE
+The stereo line input is a high impedance input ( >10 kOhm) for connecting the stereo line level outputs of 
+devices such as CD players/MP3 players etc. The  second Line B input can accept a D&R stereo Phono Pre-amp 
+with a RIAA equalizer curve to accept turntable pick ups. This RIAA correction amp can be purchased in  our 
+D&R webshop.
+MIC
+The Mic input has a balanced XLR input connector with 48 volt phantom powering for condenser mikes. The 
+Mic-pre circuitry uses the latest technology studio-class components as used in high end recording consoles, 
+we use the That 1510 Mic-pre which is highly acclaimed for its low noise/distortion and transparent audio. 
+The low-noise design and excellent phase spec that D&R is known for is integrated throughout the AIRENCEUSB which results in phase coherent signal path. Using balanced microphones & cables allows for the quietest 
+and high quality audio signals throughout your AIRENCE-USB mixer. You can use standard balanced Mic cables 
+available at any pro audio dealer or music store. The AIRENCE-USB uses chassis-mount female XLR type Mic 
+input connectors. Any standard pro audio Mic cable will have the mating male XLR connector. 
+ 
+EQUALIZER
+Each module has a stereo three band equalizer to control the high, mid, and low frequencies individually. The 
+D&R designers used carefully chosen frequencies in the equalizer circuitry to enhance the Mic input as well as 
+the stereo A & B line inputs.
+SUB
+This switch routes the post Fader signal directly to the SUB buss, this SUB buss can be used to make a sub mix 
+for recording or any other creative proces.
+PROG(RAM)
+This switch routes the post Fader signal directly to the PROGRAM buss. This PROGRAM signal is directly routed 
+to the main outputs of ther mixer via the master faders.
+AUX SEND
+The next control is a stereo Aux send that sends stereo source signals to the stereo Aux send buss Master (or 
+SUB buss) and then to the output connectors on the Master back panel. The stereo Aux send is for external 
+effects such as reverb, echo or headphone amplifiers. 
+CUE
+Below the AUX SEND is the stereo CUE switch (Pre Fade Listening), this switch allows you to check the signal before you raise 
+your channel fader up and mix it with other signals in the mixer. Another smart function is that this CUE bus can be used for communication.  
+If you push a DJ’s Cue (let’s say channel one) and if you then push the Telco Cue, the DJ as well as the caller can hear each other 
+outside the broadcast and you sitting behind the desk as well. Levels need to be carefully set to avoid feedback and overdrive of 
+circuits.
+
+A I R E N C E - U S B   M a n u a l   P a g e  29
+ON
+The ON switch is used to activate the module and generate a start signal for turntables, CD players, and 
+jingle or cart machines. This switch sends out a momentary pulse or shortens continuously two pins of the 
+Start connector on the back panel of the console. A jumper setting on ther PCB let’s you choose between 
+pulse and continuously.   
+FADER
+Final control is the high quality, 100 mm long throw K-Alps stereo channel fader with integrated fader start 
+switch. At the beginning of the fader movement you will feel an integrated start switch that is activated 
+when you bring up the fader. This switch activates the start circuitry that is connected to the Start Connector 
+on the module back panel as described earlier. If the Mute-Act(ive) switch in the master section is activated, 
+positioned close to the CRM volume knob and there is also one close to the Studio volume knob, the control 
+room level (or Studio level) will be dimmed by 20dB in case in the input module Mic is selected. At the same 
+time a USB HID (Human Interface Device) signal is sent to the USB bus for controlling a function in your playout software. 
+On the pcb there is a jumper setting where you can select if you want and extra 10dB of fader gain. Then  
+the unity gain position will be at the -10dB position. If you are a person that sweeps the fader fully up and 
+down, then do not select the extra fader gain of 10dB and choose for a unity gain position in the fully open 
+position of the fader. A jumper setting page will be shown further in this manual to customize your AIRENCE 
+to your needs.
+INPUT CONNECTORS 1-6 
+On the back of your AIRENCE-EXTENDER modules 1 to 6 you will find the following seven connectors.
+Two unbalanced line A input RCA Cinch connectors (stereo input) for connecting CD players or any play-back 
+devices such as cart machines, cassette players, or iPods. Any line level equipment can be connected here. 
+The level can be set using the gain control to match most source levels.
+The left RCA Cinch connector is the left input and the right RCA Cinch connector is the right input.  
+The shield is to be connected to the ground or case of the RCA Cinch connector.
+The Two unbalanced line B input RCA Cinch connectors (stereo inputs) are a second stereo input in this 
+module to connect even more line level equipment to.
+The START switch has two active connections to be wired. The tip and ring are shorted when the ON switch 
+or fader switch is activated. Once you have done this, you can start a turntable or other devise with the ON 
+switch via the START connector on the back panel.  
+The START switches quick start turntables through the remote jack by a continuous contact action at the 
+back of the mixer.  If your turntable only needs a pulse to start, ask your dealer to modify the internal circuitry to change it to a momentary action, so it can be used as a pulse start switch. 
+*NEVER CONNECT THE MAINS TO THIS REMOTE-JACK*
+Connections on the START connector can only be made with a maximum of 24 Volts by 50 mA.  
+Please contact your dealer in case of doubt.
+
+A I R E N C E - U S B   M a n u a l   P a g e  30
+INSERT
+This ring/tip/sleeve stereo jack socket let’s you insert signal processors such as compressors/gates or special voice processing 
+units to improve your voice to sound like the ultimate announcer/D.J.  
+The Ring of the stereo jack sends the channel signal and the Tip accepts the return signal.
+On the right you see the type of cable you need when your processor has jack in and outputs. Connect the tip from the stereo 
+cable to the tip of one of the mono jacks and the ring of the stereo cable to the tip of the other mono jack.
+Now insert the stereo jack into the AIRENCE’s insert and connect the mono jack that produces a hum when the tip is touched by 
+your finger (and the related channel fader is open) into the processors output. The other mono jack should be inserted into the 
+processors input.  
+In case your processor has XLR inputs connect the tip of the stereo jack to pin 2 of the Female XLR and short pin 1  and 3 with 
+each other and connect to ground (sleeve), this also goes for the other  Male XLR, connect the ring of the stereo jack (which 
+sends signals) to a male XLR pin2. Short here pin 1 and 3 and solder to ground (sleeve). This has to be done because the insert is 
+not balanced. 
+See below the cable type you need.
+MIC
+The Mic input is a professional balanced input circuit with 48 volt phantom powering for condenser mikes which deliver studioclass microphone quality to your announcer/DJ channel.  
+JUMPER SETTINGS FOR EXTENDER CHANNELS
+
+A I R E N C E - U S B   M a n u a l   P a g e  31
+SPECIAL OPTIONS FOR EXTENDER MODULES 1 - 6 (PCB AIRENCE-1)
+   PCB Location
+JUMPERS
+DEFAULT
+DESCRIPTION
+J9
+Phantom ON
+48 volt phantom power on/off via Jumper J9.
+J3 
+Low cut ON
+Low cut filter on Mic input done by shorting all 
+4 pins on Jumper J3. 
+Removal of both jumpers gives no low cut function
+J5/J7
+0dB
+Fader gain can be set to change the post fader 
+gain from 0db to +10dB
+(you need to do this for both left and right signals!)
+J6/J16
+POST
+Stereo Aux send pre or post selectable via 
+Jumper J6/J16 
+J5
+Continuously
+Pulse/Continuously Jumper J17 to change the 
+start pulse from latching (continuously) to 
+pulse.
+J10
+MIC ON
+ON select
+This J10 jumper allows you to mute the CRM 
+speakers or the Studio speakers.
+1=CRM mute (as pictured) and 2 is Studio mute 
+(only when a Mic is activated)
+Default factory setting is (2) Studio Speaker 
+mute active.  
+
+A I R E N C E - U S B   M a n u a l   P a g e  32
+SPECIAL OPTIONS FOR EXTENDER MODULES 1 - 6 (PCB AIRENCE-1)
+   PCB Location
+JUMPERS
+DEFAULT
+DESCRIPTION
+J15
+J11
+J18
+Faderstart 
+or 
+Mic Remote
+These 3 jumpers change the standard remote 
+jack on the back of the extender unit from 
+Fader Start control jack into Studio (Mic) Remote jack. The default setting is Fader start.
+When all three jumpers are jumpered to the 
+right then the remote jack can be connected 
+to an optional Studio Remote unit.
+The above pictured (optional) Studio Remote can be connected to the AIRENCE Extender only to provide communication from the Presenter to the Studio room with the following possibilities.
+1.  Switch 1 (Comm) 
+When pressed the Mic input of the associate channel will be switched from Prog, Sub or Aux 
+to the Cue buss to be able to communicate with the technician. 
+1. Switch 2 (Cough)	
+When pressed the Mic input of the associate channel will be muted, when the presenter need to Cough 
+or sneeze.
+3) Rotary knob
+Adjusts the Headphone volume
+4) Jack
+Stereo Headphone output
+5) Audio In
+The audio input for the Headphone amplifier. Connect with the Announcer output of the Airence mixer.
+6) Audio Out	
+Direct feed trough of the Audio input. To be connected to the next studio remote
+7) Remote S1/S2
+Switching contacts 1 and 2 connected to the remote jack of the mixer.
+4 
+3 
+1 
+2 
+ 
+ 6
+ 5
+7
+
+A I R E N C E - U S B   M a n u a l   P a g e  33
+Control Module & USB channel controls
+User Manual Control Section V 1.00
+ 
+D&R Electronica BV, Rijnkade 15B, 1382GS Weesp, The Netherlands
+Phone: +31 (0)294-418014, Fax: +31 (0)294-416987, Website: http://www.d-r.nl, E-mail: mail@d-r.nl
+
+A I R E N C E - U S B   M a n u a l   P a g e  34
+Contents
+•	
+Introduction		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+page 31
+•	
+Why a control module?	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+USB channel controls	 	
+	
+	
+	
+	
+	
+	
+	
+	
+page 32
+•	
+How does it work?	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Communication Interface Update rate	 	
+	
+	
+	
+	
+	
+	
+•	
+Controlling your software application	
+	
+	
+	
+	
+	
+	
+	
+page 33
+•	
+Airence virtual keyboard mapper	
+	
+	
+	
+	
+	
+	
+	
+page 34
+•	
+Control signals Setting up your configuration	
+	
+	
+	
+	
+	
+	
+•	
+Play out plug-ins Quick function Learn	 	
+	
+	
+	
+	
+	
+	
+page 36
+•	
+Configuration viewer	 	
+	
+	
+	
+	
+	
+	
+	
+	
+page 38
+•	
+Let’s get connected	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Presets Store preset	
+•	
+Recall preset		
+	
+	
+	
+	
+	
+	
+•	
+Settings	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Airence USB HID Control Protocol	
+	
+	
+	
+	
+	
+	
+	
+page 39
+•	
+Introduction		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Message format	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+page 40
+•	
+Command byte	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Messages	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Write	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Request	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+•	
+Response	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+page 41	
+•	
+Events	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+page 31
+
+A I R E N C E - U S B   M a n u a l   P a g e  35
+Introduction
+Besides the audio channels the Airence mixer is equipped with a control section. This control section is located at the right of 
+the mixer and consists of 24 illuminated switches and a rotary encoder with push switch. The switches are able to illuminate red, 
+green, and yellow to indicate various conditions. Each switch contains a label which can be customized to customer needs.
+Why a control module?
+A frequently desire in the broadcast world is to control specific play-out software by an external hardware device since the user 
+prefer to have direct and accurate control over the controlled application. In order to be able to control such a software application from unlike mouse or keyboard, one normally needs an external hardware device which is user friendly to operate and is 
+able to communicate with the relevant application.
+ 
+The Airence mixer benefits from an integrated control module whereby investments in external equipment are unnecessary.  
+The control section provides a sufficient number of switches to control any play out software, for example starting and stopping 
+jingle players. With the rotary encoder at the top one is able to scroll through and select parameters. 
+Figure 1. Airence Control Module
+
+A I R E N C E - U S B   M a n u a l   P a g e  36
+USB channel controls
+Furthermore, the fader start, on and cue signals of the four available USB channels in the Airence mixer could also be used to 
+trigger or control any software application. In combination with the control module the Airence mixer provides a flexible all-inone solution to manage and control specific play out systems.
+Figure 2. USB Channel Controls
+                                     
+How does it work? 
+Communication Interface
+The present USB bus on the Airence mixer is used as the interface to transfer all the control signals to the PC. In order to keep 
+things simple the HID (Human Interface Device) protocol is used for communication between the Airence mixer and PC.  
+On top of the HID protocol there is specific control protocol developed at D&R which is discussed in depth in the chapter 
+“Airence USB HID Control Protocol” for those who wants to go “deeper”.
+Update rate
+When a state change of a control signal (switch, fader, encoder) occurs, the current state of all the controls are transmitted to 
+the PC. Such a state change of a control signal is called an event. The state of a switch can be pressed or released. In case of an 
+encoder the additional states besides the pressed and released ones when pushing the encoder (switch function), are increments  
+or decrements when turning. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  37
+Controlling your software application
+In order to be able to control a software application (i.e. play out software) with the Airence control signals (control module / 
+USB channel controls), one can choose one of the two available methodologies as can be seen in the figure below. 
+The first method is most applicable for software developers of the controlled application, who are able to integrate the Airence 
+USB HID Control Protocol in their application. For more information about the protocol refer to the Airence USB HID Control Protocol chapter at the end of this document.
+The second method uses a ‘mapper-application’ in between the HID messages and the controlled application and is created for 
+the end user. The Virtual Keyboard Mapper maps the control signals coming from the Airence mixer to standard keyboard keystrokes. In such a way pressing a switch on the control module will lead to a customized keystroke which controls a specific function inside the controlled application (play out software) for example. 
+• 
+Method 1 (developer):	
+- Direct access to control messages   
+	- Full duplex: read control signals / control LED’s inside the switches 	
+	- Programming is necessary to integrate the protocol in the application
+• 
+Method 2 (end user):	
+- Easy to use (No programming for integration in application needed)
+	- Half duplex: read control signals
+	- Quick started using the Virtual Keyboard Mapper features
+Figure 3. Airence control signal flow
+
+A I R E N C E - U S B   M a n u a l   P a g e  38
+Airence virtual keyboard mapper
+The Airence virtual keyboard mapper is a software application which maps incoming control signals from the Airence mixer to 
+keystrokes by creating a virtual keyboard on a windows machine. Since the mapper application behaves like a real keyboard it is 
+able to control any software application which is controllable by a keyboard. Most software applications have attached keystrokes 
+to file menu items or application specific functions. All the incoming control signals from the Airence mixer can be individually 
+mapped to such predefined keystrokes. 
+Figure 4. Airence virtual keyboard mapper, Windows-based application 
+Control signals
+In total there are 39 control signals coming from the Airence mixer which can be mapped to keystrokes using the Airence virtual 
+keyboard mapper application. These 39 control signals are divided into the Control Module signals and USB Channel controls. 
+Control Module:
+ Switches 1..24 
+ Encoder switch 
+ Encoder increment 
+ Encoder decrement
+USB Channel Controls:
+ Cue (4x)
+ On (4x)
+ Faderstart (4x)
+Each control signal may generate a press or release event (except the encoder) which can in turn trigger two separate keystrokes. Especially for the USB Channel Controls (latching switches) it can be useful to control two functions when pressing(P) or 
+releasing(R) the switch. For example:
+USB1 ON (P) Ctrl+Alt+F1 (function X in controlled application) 
+USB1 ON (R) Ctrl+Alt+F2 (function Y in controlled application)
+
+A I R E N C E - U S B   M a n u a l   P a g e  39
+Setting up your configuration
+The Airence virtual keyboard mapper application can be split up in an configuration editor and configuration viewer section as 
+can be seen in the figure above. In the configuration editor section one is able to attach keystrokes to the control signals. To do 
+so, clicking on one of the switches, encoder or faders opens up a keystroke configuration editor window where the configuration 
+of the relevant control signal can be done. Configuring another control signal can be achieved by selecting one from the Source 
+Select selection box, or by clicking on the relevant control signal on the main window. 
+Figure 5. Editor window for mapping control signals to keystrokes
+Source Select
+At the top of this window one can see a selection box where the control signals are listed under Source Select. When clicking on 
+one of the control signals at the main window the Keystroke configuration editor automatically selects this control signal (source) 
+in the selection box.  All settings in this window are related to the selected source. 
+Source Action
+In the two action field groups the press and release events of a control signal can be configured. If there is a play out plug-in 
+selected at the main window you can choose from predefined functions of that specific play out software. When selecting one 
+of those functions the remaining fields will be filled in automatically. In such a way that you don’t have to worry about the keystroke and can focus on mapping a control signal to a play out function. However, manual changes in the settings after selecting a 
+predefined play out function is always possible. 
+When no play out plug-in is selected you are not able to select a play out function from the list and therefore it is necessary to fill 
+in the fields manually. A maximum of three keys can be configured to construct a keystroke.  
+Start with configuring Key 1 upwards if more than one key is included in the keystroke. The keystroke action can be inverted if 
+required. Finally there is a field to give the action a meaningful name . The reset button resets the entire configuration for the 
+selected source. The settings will be stored after pressing the apply button. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  40
+Play out plug-ins
+An play out plug-in is a set of function descriptions of a specific software application (play out software) which are mapped to 
+keystrokes. A plug-in is represented as a standard XML-file which can be seen in the figure below. There is a plug-in folder  
+PLUGINS created in the installation directory during setup where the plug-ins are located or has to be placed when creating one. 
+Present plug-ins in this folder are loaded when Virtual Keyboard Mapper is starting up. 
+The advantage of using plug-ins will be the ease of mapping a control signal to a function. You don’t need to worry about the 
+underlying keystroke of a relevant function since selecting a function from the Keystroke Configuration Editor will automatically 
+fill in the corresponding keystroke. These keystrokes are fetched from the plug-in file.    
+Figure 6. Example of playout plugin file
+Create a plug-in
+A plug-in is specific for each play out software. If the used play out software is not available as a plug in you need to create the 
+plug-in yourself. Since the plug-ins are represented in the XML format (which is readable for machine as well as human beings)  
+it is not that hard to create one. It is advisable to use another plug-in as template and modify that file.  
+In the above figure a basic example plug-in file is shown with two functions. If more functions are needed simple copy and paste 
+a function block (line 9 – 16). 
+The plug-in starts always with a block of plug-in information (name, vendor, version, nfunctions). The nfunctions element contains the number of functions which are included in the plug-in. After the plug-in information the functions are listed beneath 
+each other. In the description field the name of the function needs to be filled in. This name will be used later on in the Keystroke 
+Configuration Editor to choose a function from the list.  
+Finally, there is a keystroke element which contains three other elements key1, key2, and key3 respectively. These last three elements contain together the keystroke to perform when the function needs to be executed. A keystroke can consist of a maximum 
+of three keys. Each key element can be filled with a ID key value between 0 and 91. 
+The ID value represent a key on the keyboard which can be found in the table in the figure on the next page.
+
+A I R E N C E - U S B   M a n u a l   P a g e  41
+Figure 7. Keyboard keys vs. ID
+Quick function Learn
+The Quick Function Learn is a feature to map control signals to play-out functions rapidly. First you have to select a play out  
+plug-in before the quick function learn can be used. If the play out plug-in is loaded correctly, the loaded functions are listed in 
+the Quick Function Learn box. 
+Figure 8. Play out plug-in required for using the Quick Function Learn
+Select one of the available functions from the Quick Function Learn box and press the Learn button. The window as seen in the 
+figure below will show up and waits for a control signal event coming from the Airence mixer. If a control signal is received the 
+selected function is immediately mapped to this control signal.  
+Figure 9. Quick function learner waiting for response
+
+A I R E N C E - U S B   M a n u a l   P a g e  42
+Configuration viewer
+In the configuration viewer section an overview of the entire configuration can be seen. All the pressed and released events of 
+the control signals are shown in the Virtual Keyboard Mapping area. In order to get a clear overview the view section is divided 
+into four pages:
+ Control Module (Pressed)
+ Control Module (Released)
+ USB Channels (Pressed)
+ USB Channels (Released)
+ 
+Selecting one of the four pages is done by the radio buttons in the Source Group Selection and Source Action boxes which are 
+located above the configuration viewer section.
+Figure 10. Page selection view
+Let’s get connected
+When done with setting up the configuration the Virtual Keyboard Mapper application is ready to receive changes of the control 
+signals from the Airence mixer. To do so, you have to press the START button in the Service box. If the application is able to connect to the Airence mixer the label on the button would change into STOP and the firmware revision of the mixer is shown.  
+The indicator near the button indicates incoming messages. Pressing the STOP button will stop the service and disconnect the 
+Airence mixer. 
+When a control signal is received and is mapped to a keystroke, this keystroke will be executed in real time. To let the executed 
+keystroke trigger a function in a software application you have to take care of giving this application Priority. An application is 
+only able to receive input when it currently has the highest priority in your screen activities.  
+          
+Figure 7a. Disconnected                                          Figure 7b. Connected  
+Presets
+A preset is a backup of the entire configuration of the control signals with their mapped keystrokes. Presets can be useful when 
+you want to recall or store a complete configuration for specific play out software. Presets are represented as .akp files (Airence 
+Keyboard Preset). 
+Store preset
+Storing the current configuration as a preset can be done by clicking on File->Save, or File->Save as. 
+ 
+Recall preset 
+Recalling a stored preset can be done by clicking on File->Open and selecting the desired preset.
+ 
+Settings
+Under Settings->Presets you can find the preset settings. A configuration window is shown whereby the default preset directory 
+and the startup preset can be configured.
+
+A I R E N C E - U S B   M a n u a l   P a g e  43
+HID Control Protocol for software engineers
+ 
+Introduction
+This chapter describes the protocol which is used to communicate with the control section and the USB channel controls of the 
+Airence mixer. For the communication between the PC (host) and Airence (device) the USB generic HID (Human Interface Device) 
+class protocol is used. HID devices are identified by their PID and VID. For the Airence the PID=0x2402, and the VID=0x03EB.   
+On top of the HID protocol, a custom message based protocol provides the commands to send and receive data which will be 
+described in more detail in this chapter.
+Message format
+Transmitting data through the USB bus using the HID class protocol is done by reports. A report always contains an ID and the 
+data inside the report. In order to successfully communicate with the Airence control section  only reportID 0 may be used.  
+More  information about report descriptors can be found on www.usb.org. For now, remember that the Airence only will listen to 
+reports with reportID = 0.  
+A control message has a fixed size of 8 bytes containing a SIZE byte, COMMAND byte, and a PAYLOAD section of maximal 6 bytes. 
+The SIZE byte contains the number of bytes used (max. 8) in the message, including this SIZE byte.
+byte
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+n
+cmd
+p0
+p1
+p2
+p3
+p4
+p5
+Command byte
+The command byte consists of a 2-bit TYPE and a 6-bit ID field. 
+bit
+7
+6
+5
+4
+3
+2
+1
+0
+TYPE
+ID
+t1
+t0
+id5
+id4
+id3
+id2
+id1
+id0
+Bit
+Symbol
+Value
+Value
+5:0
+ID
+-
+Command Identifier (ID)
+7:6
+TYPE
+00
+Write command, from host to device
+01
+Request command, from host to device
+10
+Response command, reply from device to host on a request
+11
+Event, from device to host (i.e. button pressed)
+Command ID
+A commandID can have a value between 0x01 and 0x3F. The following commandIDs are currently available in the Airence: 
+VALUE
+DESCRIPTION
+0x01
+AIRENCE_FIRMWARE_VERSION
+0x02
+AIRENCE_LED
+0x03
+AIRENCE_LED_BLINK
+0x04
+-
+0x05
+AIRENCE_SWITCH_CHANGE
+0x06
+AIRENCE_ENCODER_INCREMENT
+0x07
+AIRENCE_ENCODER_DECREMENT
+
+A I R E N C E - U S B   M a n u a l   P a g e  44
+MESSAGES 
+Write
+A message of the type WRITE is transmitted from the PC to Airence. The message is intended to perform an action on the Airence 
+control section (i.e. illuminate a LED). If the action is correctly executed, the Airence will reply with a corresponding event. 
+AIRENCE_LED_WRITE
+byte
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x04
+0x02
+lednum
+color
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x04
+Message size
+1
+COMMAND
+0x02
+AIRENCE_LED_WRITE
+2
+lednum
+ 
+LED number, 1(0x01) to 24(0x18), 0xFF = ALL LEDs
+3
+color
+0x00
+NONE (LED off)
+0x01
+RED
+0x02
+GREEN
+0x03
+YELLOW
+AIRENCE_LED_BLINK_WRITE 
+byte: 0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+0x06
+0x03
+lednum
+color_on
+color_off
+speed
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x06
+Message size
+1
+COMMAND
+0x03
+AIRENCE_LED_BLINK_WRITE
+2
+lednum
+LED number, 1(0x01) to 24(0x18), 0xFF = ALL LEDs
+3
+color_on
+0x00
+NONE (LED off)
+ 
+0x01
+RED
+ 
+0x02
+GREEN
+ 
+0x03
+YELLOW
+4
+color_off
+0x00
+NONE (LED off)
+0x01
+RED
+0x02
+GREEN
+0x03
+YELLOW
+5
+speed
+0x00
+SLOW
+0x01
+NORMAL
+0x02
+FAST
+Request
+A message of the type REQUEST is transmitted form the PC to Airence. The message is intended to read data from the Airence. 
+After the Airence received the request it will respond with a corresponding RESPONSE message. Therefore, a REQUEST message 
+always forms a pair with a RESPONSE message. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  45
+AIRENCE_FIRMWARE_VERSION_REQUEST
+byte:
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x02
+0x41
+byte
+Symbol
+Value
+Description
+0
+SIZE
+0x02
+Message size
+1
+COMMAND
+0x41
+AIRENCE_FIRMWARE_VERSION_REQUEST
+Response
+A message of the type RESPONSE is transmitted from the Airence to the PC when prior a firmware version request message was 
+received. 
+AIRENCE_FIRMWARE_VERSION_RESPONSE
+byte:
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x04
+0x81
+major
+minor
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x04
+Message size
+1
+COMMAND
+0x81
+AIRENCE_FIRMWARE_VERSION_RESPONSE
+2
+major
+Firmware major revision
+3
+minor
+Firmware minor revision
+
+A I R E N C E - U S B   M a n u a l   P a g e  46
+Events
+A message of the type EVENT is transmitted from the Airence to the PC. An event will be generated when the state of a switch , 
+encoder, or LED has changed. These events can be used to synchronize states of LEDs and switches between the Airence and the 
+controlled application on the PC. 
+AIRENCE_LED_EVENT
+byte :
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x04
+0xC2
+lednum
+color
+-
+-
+-
+-
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x04
+Message size
+1
+COMMAND
+0xC2
+AIRENCE_LED_EVENT
+2
+lednum
+LED number, 1(0x01) to 24(0x18), 0xFF = ALL LEDs
+3
+color
+0x00
+NONE (LED off)
+0x01
+RED
+0x02
+GREEN
+0x03
+YELLOW
+AIRENCE_LED_BLINK_EVENT
+byte : 0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x06
+0xC3
+lednum
+color_on
+color_off
+speed
+-
+-
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x06
+Message size
+1
+COMMAND
+0xC3
+AIRENCE_LED_BLINK_EVENT
+2
+lednum
+LED number, 1(0x01) to 24(0x18), 0xFF = ALL LEDs
+3
+color_on
+0x00
+NONE (LED off)
+0x01
+RED
+0x02
+GREEN
+0x03
+YELLOW
+4
+color_off
+0x00
+NONE (LED off)
+0x01
+RED
+0x02
+GREEN
+0x03
+YELLOW
+5
+speed
+0x00
+SLOW
+0x01
+NORMAL
+0x02
+FAST
+
+A I R E N C E - U S B   M a n u a l   P a g e  47
+AIRENCE_SWITCH_CHANGE_EVENT 
+byte :
+0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x06
+0xC5
+sw_8_1
+sw_16_9
+sw_enc_non
+usb_2_1
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x06
+Message size
+1
+COMMAND
+0xC5
+AIRENCE_SWITCH_CHANGE_EVENT
+4:2
+sw_m_n
+-
+bit 0:  switch n    (1=pressed, 0=released)
+|
+bit 7:  switch m
+5
+sw_enc_non
+-
+bit 0:  encoder switch (1=pressed, 0=released)
+bit 1:  non-stop switch  (1=pressed, 0=released)
+6
+usb_2_1
+-
+bit 0:  USB1 faderstart  (1=ON, 0=OFF)
+bit 1:  USB1 ON   (1=pressed, 0=released)
+bit 2:  USB1 CUE  (1=pressed, 0=released)
+bit 3:  USB2 faderstart  (1=ON, 0=OFF)
+bit 4:  USB2 ON   (1=pressed, 0=released)
+bit 5:  USB2 CUE  (1=pressed, 0=released)
+7
+usb_4_3
+-
+bit 0:  USB3 faderstart  (1=ON, 0=OFF)
+bit 1:  USB3 ON   (1=pressed, 0=released)
+bit 2:  USB3 CUE  (1=pressed, 0=released)
+bit 3:  USB4 faderstart  (1=ON, 0=OFF)
+bit 4:  USB4 ON   (1=pressed, 0=released)
+bit 5:  USB4 CUE  (1=pressed, 0=released)
+ 
+AIRENCE_ENCODER_INCREMENT_EVENT
+byte: 0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x03
+0xC6
+abs_value
+-
+-
+-
+-
+-
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x03
+Message size
+1
+COMMAND
+0xC6
+AIRENCE_ENCODER_INCREMENT_EVENT
+2
+abs_value
+Absolute encoder value [ 0 - 255 ] (wrap around)
+ 
+AIRENCE_ENCODER_DECREMENT_EVENT
+byte : 0
+1
+2
+3
+4
+5
+6
+7
+SIZE
+COMMAND
+PAYLOAD
+0x03
+0xC7
+abs_value
+-
+-
+-
+-
+-
+Byte
+Symbol
+Value
+Description
+0
+SIZE
+0x03
+Message size
+1
+COMMAND
+0xC7
+AIRENCE_ENCODER_DECREMENT_EVENT
+2
+abs_value
+Absolute encoder value [ 0 - 255 ] (wrap around)
+We hope to have given you some inside information about this control section of the AIRENCE and sure hope you will be  happy 
+with its performance to  make your performance even better.
+
+A I R E N C E - U S B   M a n u a l   P a g e  48
+ 
+TROUBLESHOOTING
+‘USB Controller bandwidth exceeded’ 
+in 
+Windows 7
+Version 1.0 - 2013-05-23
+
+A I R E N C E - U S B   M a n u a l   P a g e  49
+1	 Table of contents
+1	
+TABLE OF CONTENTS	
+ 	
+	
+45
+2	
+BACKGROUND	
+	
+	
+46
+2.1	
+USB System Architecture	
+	
+	
+ 
+2.1.1	 USB Host	
+	
+	
+ 
+2.1.2	 USB Devices	
+	
+	
+  
+2.2	
+Airence USB System Architecture	
+	
+	
+3	
+ANALYSIS	
+	
+	
+47
+4	
+SOLUTION	
+	
+	
+49
+5	
+USED TOOLS	
+	
+	
+50
+
+A I R E N C E - U S B   M a n u a l   P a g e  50
+2	
+Background
+2.1	
+USB System Architecture
+The USB System Architecture consists of the following main components:
+• 
+Host (PC) Computer
+• 
+One or more USB Devices
+• 
+A physical bus represented by the USB Cable that links the devices with the host (PC) computer. 
+2.1.1	
+USB Host (your PC)
+The main responsibility of the host computer is to control the communication between the host system and USB devices.  
+The host computer has two layers: a USB host controller hardware layer, and a software layer, which includes USB device drivers 
+for a wide range of USB devices.  
+The drivers convert data between the format that is used by the host computer and the format used by the USB devices. 
+USB hardware layer is responsible for:
+• 
+Detecting the attachment and removal of USB devices
+• 
+Monitoring device status and collecting activity statistics
+• 
+Providing power to attached USB devices
+• 
+Managing control and data flow between the USB host and USB devices
+• 
+Checking the basic validity of bus transactions
+USB software layer is responsible for: 
+• 
+Handling USB devices and their connectivity
+• 
+USB devices enumeration and configuration
+• 
+Loading appropriate device drivers
+• 
+Managing the power on the bus and bus bandwidth
+• 
+Managing the data transfer between the software and hardware
+USB Host (PC) Controller
+A USB Host Controller is the hardware either on the computer motherboard or PCI card. It provides an interface for transferring 
+streams of data between the host computer and the USB devices. The host computer may have one or multiple USB host controllers with different types of interface.
+2.1.2	
+SB Devices
+The USB Devices are peripherals that use the USB protocol for two way communication with the host computer.  
+The main responsibility of the USB Device is to provide the end user with various specific functions, such as a keyboard, a data/
+fax modem device, a digital microphone, or a video camera.  
+For this reason the official USB Specification uses the term “function” to refer to USB peripheral devices.  
+To provide the user with additional attachment points to connect more peripherals there is a special type of USB device called 
+USB Hub.
+
+A I R E N C E - U S B   M a n u a l   P a g e  51
+USB Hub
+USB Hub is just a device with multiple USB ports for plugging in the USB devices and other hubs. The Internal root hub in the host 
+(PC) controller and the external hubs are functionally the same.
+2.2	
+Airence USB System Architecture
+The Airence USB System Architecture consists of the following components: 
+• 
+USB Hub (for interconnect all the internal peripherals)
+• 
+4x Stereo Audio codec
+• 
+USB to serial converter (used to transfer metering data)
+• 
+Control Section  (switches, encoder, faderstart, ON, CUE signals)
+Figure 1. Airence USB System Architecture
+3	
+Analysis
+When all four audio codecs of the Airence mixer are used simultaneously to send and receive audio to/from the PC,  the USB 
+controller may exceed the allowed bandwidth of the bus. This problem is noticed in Windows 7 x64 operating system during test 
+phase, but could occur on other Windows versions as well.
+If windows detects such a bandwidth overload it will show a warning message (see figure on the next page).  
+The attached composite device has requested more than 15% of the available resources of the USB host controller. 
+Due to the fact the Airence is a composite USB device consisting of four audio codecs, Control section, USB to Serial converter 
+and USB Hub there is a lot of USB traffic between the Airence and your PC, if all individual components are used at the same 
+time.
+Each USB device which is connected to a port on the PC will be attached to a root hub which is connected to one of the available 
+Host Controllers. The root hub may consist of multiple ports, which could be the case in your system. If more devices than the 
+Airence are connected to the same root hub the devices need to share the resources and therefore a data traffic problem may 
+occur.  
+
+A I R E N C E - U S B   M a n u a l   P a g e  52
+Figure 2. Windows 7 generates warning message
+Figure 3. USB View: Visualize the USB System Architecture
+
+A I R E N C E - U S B   M a n u a l   P a g e  53
+4	
+Solution
+Figure 4. Connect the Airence exclusively to the Root Hub
+In order to prevent the bandwidth overload, simply make sure the Airence is exclusively connected to a Root Hub (see figure 
+above). To do so, a software program called ‘USB View’ is used here to visualize the USB tree structure in your system.  
+With this tool you are able to check if the Airence is exclusively connected to a root hub. If not, you will see other devices connected to the same Root Hub. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  54
+In the example below you can see the Airence is connected to the first port (LOC21) of a 2-port roothub.  
+There is no device connected to the second port (Loc22).  
+Therefore, the Airence does not need to share the USB bandwidth with other devices.   
+To recognize the Airence device you can try to identify the internal USB Hub with the aid of the vendor- and product id’s,  
+0x0451 and 0x2077 respectively.  
+Try to connect to another usb port on your PC if the Airence shares a Root Hub with other devices. 
+Figure 5. Visualisation of Airence USB Architecture
+5	
+Used tools
+USB View
+http://www.ftdichip.com/Support/Utilities/usbview.zip
+
+A I R E N C E - U S B   M a n u a l   P a g e  55
+
+A I R E N C E - U S B   M a n u a l   P a g e  56
+Firmware Update Procedure
+ 
+VERSION 1.0 
+D&R Electronica Weesp BV, Rijnkade 15B, 1382GS Weesp, The Netherlands
+Phone: +31 (0)294-418014, Fax: +31 (0)294-416987, Website: https://www.d-r.nl, E-mail: mail@d-r.nl
+
+A I R E N C E - U S B   M a n u a l   P a g e  57
+Contents
+INTRODUCTION............................................................................................................................................. 3
+Bootloader mode............................................................................................................................................... 3
+INSTALLATION............................................................................................................................................... 3
+Airence Firmware Updatetool........................................................................................................................... 3
+USB bootloader drivers..................................................................................................................................... 7
+FIRMWARE UPDATE PROCEDURE................................................................................................................. 9
+Preparation......................................................................................................................................................... 9
+Flash firmware into device................................................................................................................................ 9
+TROUBLESHOOTING.................................................................................................................................... 10
+Firmware update failed.................................................................................................................................... 10
+Java virtual machine (JVM).............................................................................................................................. 10
+
+A I R E N C E - U S B   M a n u a l   P a g e  58
+Introduction
+Every now and then new firmware versions will be released to provide the Airence mixer with new features or solved bug fixes. 
+In order to be able to update the current firmware residing in the Airence mixer a special operating mode called ‘bootloader 
+mode’ must be entered to receive new firmware. When powering up the mixer in an ordinary way it will enter the normal operation mode and is ready for use.   
+Bootloader mode
+To enter the bootloader mode a special startup sequence should be followed:
+1)	 Disconnect power
+2)	 Push and hold down the encoder switch (located on the control section)
+3)	 Connect power
+4)	 Release the encoder switch
+Installation
+Airence Firmware Updatetool
+An Airence Firmware Updatetool is available which is required to perform the firmware update. You can download the installer 
+from the D&R website (www.d-r.nl)
+Airence Firmware Updatetool v1.00 - Setup.zip
+Unzip the file to a local folder and double click on the setup file. The welcome screen of the installer should appear. 
+-	
+Press Next to continue.
+
+A I R E N C E - U S B   M a n u a l   P a g e  59
+-	
+Select a destination location for the update tool to be installed into and click Next.
+-	
+Select a start menu folder and click Next.
+
+A I R E N C E - U S B   M a n u a l   P a g e  60
+-	
+Enable the ‘Create a desktop icon’ for a shortcut on the desktop and click Next.
+-	
+If you agree with the configuration click Install to begin installation.
+
+A I R E N C E - U S B   M a n u a l   P a g e  61
+-	
+Setup copies files to the destination install folder.
+-	
+Click Finish to complete the installation.
+
+A I R E N C E - U S B   M a n u a l   P a g e  62
+ 
+USB bootloader drivers
+When the Airence mixer enters the bootloader mode it will probably sign up as an ‘unknown device’ in the device manager from 
+Windows. To determine if this unknown device is the Airence in bootloader mode, right-click on the device and select properties. 
+On the Details tab select Hardware-id’s from the properties selection box and verify the VID and PID of the device.       
+	
+	
+	
+	
+	
+	
+VID (Vendor ID):	 03EB 
+	
+                                                                       	
+PID (Product ID): 	2FE4
+ 
+To install the drivers right-click on the device and select update drivers. The drivers can be found in a subdirectory  ‘usb’ of the 
+Airence Firmware Updatetool installation folder. For example:
+ 	
+C:\Program Files (x86)\Airence Firmware Updatetool\usb
+ 
+
+A I R E N C E - U S B   M a n u a l   P a g e  63
+If the installation of the drivers was successful you should be able to see a screen similar to the one below:
+In the device manager the unknown device is correctly installed and now shown as : ATxmega32A4U
+The ATxmega32A4U device indicates the Airence is in bootloader mode. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  64
+Firmware Update Procedure
+Preparation
+Before you can start with the update procedure the following precautions must be taken:
+-	
+Connect a USB cable between the Airence mixer and the PC 
+-	
+Startup the Airence mixer in bootloader mode
+-	
+Download the latest firmware from www.d-r.nl (e.g. airence_firmware_v1_4.zip)
+Flash firmware into device
+-	
+Startup the Airence Firmware Updatetool application.
+-	
+Select the firmware (*.hex) from the extracted zip-archive downloaded from the website. 
+-	
+Press the UPDATE button.
+The progress bar gives an indication of the status of the update procedure. When the update is successfully performed the 
+Airence mixer automatically leaves the bootloader mode and reboots with the new firmware in normal operation mode. The following message should appear:
+ 
+To verify the current firmware version inside the Airence mixer, press the ‘Get version info’ button. You only can obtain the version info if the device is NOT in bootloader mode. 
+
+A I R E N C E - U S B   M a n u a l   P a g e  65
+Troubleshooting
+Firmware update failed
+If you get the following error after pressing the UPDATE button you should check if the Airence mixer is properly connected with 
+a USB cable and if the device is in bootloader mode. To determine if the device is in bootloader mode open up the device manager and look for the device: 
+Atmel USB Devices -> ATxmega32A4U
+Note: Depending of your system it takes a certain amount of time to sign up and enumerate the device in the device manager 
+after starting up the mixer in bootloader mode. 
+Java virtual machine (JVM)
+If you were prompted with the Java Virtual Machine (JVM) error, it means JVM is not installed on your system. Java is required 
+for the Airence Firmware Updatetool.  You can download it for free from: http://java.com/
+
+A I R E N C E - U S B   M a n u a l   P a g e  66
+DIMENSIONS	
+: Main unit
+ 
+Width	
+	
+	
+: 482 mm
+Front panel thickness	
+: 2 mm
+Radius	 	
+	
+: 20 mm
+Height	 	
+	
+: 355 mm (8HE). 
+Depth	
+	
+	
+: 101,50 mm. 
+Weight	 	
+	
+: 9kg. 
+Furniture cut out
+Drop through hole	
+: 450mm x 344mm
+Furniture top panel thickness not more than 22mm
+DIMENSIONS	
+: Extension unit
+ 
+Width	
+	
+	
+: 302 mm
+Front panel thickness	
+: 2 mm
+Radius	 	
+	
+: 20 mm
+Height	 	
+	
+: 355 mm (8HE). 
+Depth	
+	
+	
+: 101,50 mm. 
+Weight	 	
+	
+: 7kg. 
+Furniture cut out
+Drop through hole	
+: 270mm x 344mm
+Furniture top panel thickness not more than 22mm
+We wish you many creative years of productivity using this quality product from:
+Company	
+: D&R Electronica b.v.
+Address		
+: Rijnkade 15-b
+Zip Code	
+: 1382 GS 
+City	
+	
+: WEESP
+Country		
+: The Netherlands
+Phone	 	
+: 0031 (0)294-418 014
+Fax	
+	
+: 0031 (0)294-416 987
+Website		
+: https://www.d-r.nl  
+E-mail	
+	
+: mail@d-r.nl
+SUMMERY 
+We hope this manual has given you sufficient information to use this new AIRENCE mixer in your studio. 
+If you require more info please contact your local dealer or send us an email at info@d-r.nl and we will answer your email within 
+24 hours during weekdays.
+In case you have bought this mixer from a previous owner, check out the dealer in your area on our website www.d-r.nl in case 
+you need assistance.

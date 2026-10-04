@@ -247,9 +247,9 @@ oficio en las otras dos):
 En autocontrol la cadena se acorta. La locución se hace **«con operador de sonido, o en
 autocontrol»** (ficha del puesto), y en el segundo caso el presentador asume también la parte de la
 escaleta y de los tiempos que en otro caso lleva el control (inferencia de la ficha, no texto de
-ella). La costumbre de oficio lo ve así. Y la particularidad que más define
+ella). La costumbre de oficio lo ve así: «Y la particularidad que más define
 el oficio hoy: el autocontrol. En muchas emisoras el locutor maneja su propia mesa, y eso cambia el
-trabajo del técnico: pasa de operar a preparar, mantener y resolver.
+trabajo del técnico: pasa de operar a preparar, mantener y resolver.»
 
 ## 2. Tiempos
 
@@ -352,8 +352,12 @@ Lo que una escaleta preparada para el imprevisto tiene, además de lo ordinario 
 ### Una sola escaleta, comunicada a todos
 
 Muchos errores del directo son de información: alguien trabaja con una versión vieja de la escaleta.
-El Libro de Estilo fija tres reglas:
+El Libro de Estilo fija cuatro reglas:
 
+- Entre los pasos del Departamento de Producción, el primero: **«Identiﬁcar claramente qué se quiere
+  hacer, cuál es la fórmula técnica y periodística que se pretende y el objetivo que se persigue. Los
+  cambios posteriores a la primera decisión se comunicarán, de manera rápida, fehaciente y
+  simultánea, a todos los responsables del programa.»** (4.4.4, punto 1).
 - **«Cualquier cambio del contenido de la escaleta debe comunicarse, desde el origen de la decisión,
   inmediata y simultáneamente, a todas las personas y departamentos afectados.»** (6.1).
 - **«Son inadmisibles los cambios en la identiﬁcación de un vídeo por la confusión y los errores que
@@ -543,8 +547,9 @@ La incidencia no termina cuando se resuelve. Lo anotado sirve para la regla del 
 **«Si hemos de cometer errores, al menos que no sean idénticos.»** (4.4.4, punto 4), y para el
 último proceso que el módulo de radio del RD 1681/2011 pone en la producción, la **«valoración de la
 calidad del producto final»** (0917, RA 5, criterio e). En la RTVA, el informe de
-incidencias aparece en la ficha de un responsable técnico de las redes, el Jefe de Radioenlaces y
-Unidades Móviles (9180000): **«Elaborar informes de actividad e incidencias en el área.»**
+incidencias aparece en las fichas de los responsables técnicos de las redes, el J. Radiofrecuencia
+(9170000) y el Jefe de Radioenlaces y Unidades Móviles (9180000), con la misma tarea en las dos:
+**«Elaborar informes de actividad e incidencias en el área.»**
 
 Lo que se anota de cada incidencia, en el oficio: la hora, qué falló, cómo se resolvió, cuánto tiempo
 duró y si afectó a lo emitido; y se comunica al responsable técnico que tenga que corregir la causa.
@@ -584,7 +589,7 @@ Entre el locutorio y el control (tema 4, «Comunicación con el operador»):
 - La escaleta compartida en pantalla, cuando el estudio la tiene: el monitor de escaleta del
   locutorio (oficio).
 
-Con quien interviene desde fuera, el retorno es el canal. A quien interviene desde fuera —un reportero, un invitado en otro plató— su retorno le llega con un
+A quien interviene desde fuera —un reportero, un invitado en otro plató— su retorno le llega con un
 N-1: si hay N fuentes de audio, la mezcla que se le manda a una de ellas contiene N menos uno: todas
 menos la suya.
 
@@ -611,6 +616,13 @@ documento: la comunicación interna se explica con las señas, el circuito de ó
 
 La regla de oficio que ordena toda la comunicación del directo: quien ejecuta no decide por su cuenta y quien decide no ejecuta
 por otro; cuando alguien del equipo ve un problema, avisa a quien decide.
+
+La norma de enseñanza pone la comunicación entre las competencias del título de Técnico Superior en
+Producción de audiovisuales y espectáculos: **«r) Comunicarse
+con sus iguales, superiores, clientes y personas bajo su responsabilidad, utilizando vías eficaces
+de comunicación, transmitiendo la información o conocimientos adecuados y respetando la autonomía y
+competencia de las personas que intervienen en el ámbito de su trabajo.»** (RD 1681/2011,
+artículo 5).
 
 En un programa de radio de Canal Sur (lectura de las fichas del convenio, epígrafe 1): el presentador
 productor decide el contenido y el orden y lo dice en antena; el operador de sonido de radio ejecuta
@@ -699,7 +711,7 @@ oyente y qué se le dice; y al final, qué se anota y a quién se informa.
 
 - Real Decreto 1681/2011, de 18 de noviembre, por el que se establece el título de Técnico Superior en
   Producción de audiovisuales y espectáculos y se fijan sus enseñanzas mínimas (BOE núm. 302, de
-  16-XII-2011): artículo 5, letras g) y p); anexo I, módulos 0915 «Planificación de proyectos
+  16-XII-2011): artículo 5, letras g), p) y r); anexo I, módulos 0915 «Planificación de proyectos
   audiovisuales» (RA 4, criterio e) y 0917 «Gestión de proyectos de televisión y radio» (RA 5,
   criterios d y e). Modificado por el Real Decreto 500/2024, de 21 de mayo, que no cambia el texto de
   esos criterios ni del artículo 5; sí dispone que las referencias a las **«competencias
@@ -710,7 +722,7 @@ oyente y qué se le dice; y al final, qué se anota y a quién se informa.
   (plantilla estructural) y anexo III, fichas de puesto de Presentador Productor de Radio (9540002),
   Operador de Sonido de Radio (6211100), Editor de Continuidad (5302010), Locutor de Continuidad
   (5323001), Secretario de Emisiones (5301010), Coordinador de Publicidad (9540001), Ayudante de
-  Producción (5212705) y Jefe de Radioenlaces y Unidades Móviles (9180000). Su vigencia y prórroga, en
+  Producción (5212705), J. Radiofrecuencia (9170000) y Jefe de Radioenlaces y Unidades Móviles (9180000). Su vigencia y prórroga, en
   el tema común del convenio.
 
 ## Lo que este tema no da, y dónde está
@@ -736,10 +748,10 @@ oyente y qué se le dice; y al final, qué se anota y a quién se informa.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10-XII-2014: anexo II (plantilla estructural, pp. 92-99) y anexo III, fichas 9540002 (p. 191), 6211100 (p. 187), 5302010 (p. 125), 5323001 (p. 182), 5301010 (p. 201), 9540001 (p. 121), 5212705 (p. 110) y 9180000 (p. 167) | Quién decide, ejecuta y comunica en la emisión; ausencia de puestos de continuidad y de realizador en CSR | 03-10-2026 |
-| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: cap. 4, p. 65; 4.4.4 (puntos 4 y 6); 6.1; 6.1.1; 6.5.1; 6.5.2; 8.1.3; 8.1.6; 8.1.9; 8.3 | Previsión, improvisación, pacto, escaleta y sus cambios, criterio ante defectos técnicos, decírselo a la audiencia, el teléfono del periodista de radio | 24-09-2026 (pasajes de temas cerrados); cap. 4, p. 65, el 03-10-2026 |
+| X Convenio Colectivo de la RTVA, BOJA núm. 240, de 10-XII-2014: anexo II (plantilla estructural, pp. 92-99) y anexo III, fichas 9540002 (p. 191), 6211100 (p. 187), 5302010 (p. 125), 5323001 (p. 182), 5301010 (p. 201), 9540001 (p. 121), 5212705 (p. 110), 9170000 (p. 145) y 9180000 (p. 167) | Quién decide, ejecuta y comunica en la emisión; ausencia de puestos de continuidad y de realizador en CSR | 03-10-2026 |
+| *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: cap. 4, p. 65; 4.4.4 (puntos 1, 4 y 6); 6.1; 6.1.1; 6.5.1; 6.5.2; 8.1.3; 8.1.6; 8.1.9; 8.3 | Previsión, improvisación, pacto, escaleta y sus cambios, criterio ante defectos técnicos, decírselo a la audiencia, el teléfono del periodista de radio | 24-09-2026 (pasajes de temas cerrados); cap. 4, p. 65, el 03-10-2026 |
 | Manual de estilo de RTVE (web, copia del 02-09-2026): cap. 2 TVE, 2.4.2 y 2.4.3 (pasajes de un tema cerrado, leídos el 24-09-2026); cap. 3 RNE, 3.2.1, 3.4.1 y 3.5; glosario 7.5 | Incertidumbre, boletín y conexiones territoriales, igualdad de sonido en el debate, espacios muertos, escaleta | 03-10-2026 |
-| Real Decreto 1681/2011, BOE-A-2011-19600: artículo 5, letras g) y p); módulo 0915, RA 4, criterio e); módulo 0917, RA 5, criterios d) y e) | Contingencias, comprobación de equipos y conexiones, ensayos, valoración final | 03-10-2026 |
+| Real Decreto 1681/2011, BOE-A-2011-19600: artículo 5, letras g), p) y r); módulo 0915, RA 4, criterio e); módulo 0917, RA 5, criterios d) y e) | Contingencias, comunicación en el equipo, comprobación de equipos y conexiones, ensayos, valoración final | 03-10-2026 |
 | Real Decreto 500/2024, BOE-A-2024-10685 | Que no cambia los criterios citados | 03-10-2026 |
 | Memoria RTVA 2022: 5.3 (Córdoba), 9.4 (intercom) y 9.5 (sistemas IP) | Códecs IP y por red móvil de la radio; intercom digital sólo para televisión | 03-10-2026 |
 | Cámara de Cuentas de Andalucía, fiscalización de RTVA y CSRTV, ejercicio 2018 (BOJA núm. 36, de 23-II-2021), anexo 9.1, p. 208 | Desconexiones de radio y programas de los centros para RAI (datos de 2018) | 03-10-2026 |

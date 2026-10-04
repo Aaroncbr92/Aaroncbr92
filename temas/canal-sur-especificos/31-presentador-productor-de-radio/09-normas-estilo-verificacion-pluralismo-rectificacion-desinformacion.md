@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Presentador Productor de Radio · punto 9 |
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Normas: Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación (arts. 1 a 8); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2.2, 5, 9.1, 76 y 78.4); Ley 18/2007, de 17 de diciembre, de la RTVA (arts. 4.1.b, 4.1.g, 4.3.b, 32, 33 y 34.1); Constitución Española (art. 20.1.d y 20.3) y Estatuto de Autonomía para Andalucía (arts. 211.2 y 214.4), por remisión; Ley Orgánica 5/1985, del Régimen Electoral General (art. 66.1); Orden PCM/1030/2020, de 30 de octubre (`BOE-A-2020-13663`). Doctrina: Sentencia del Tribunal Constitucional 6/1988, de 21 de enero, FJ 5. Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 8.1, 13.3, 13.10, 13.11 y 13.13); Contrato-programa RTVA 2024-2026 (cláusula tercera, 3.1, puntos 14 y 15); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004. Otros: Carta ética mundial para periodistas de la FIP (Túnez, 12-VI-2019), arts. 3, 5, 6 y 14; Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021), aps. 34 y 35; *Manual de estilo de RTVE*, como criterio de otro medio público; Barot, T., «Verifying Images», *Verification Handbook*, European Journalism Centre. Lo demás, oficio |
+| **Fuente** | Normas: Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación (arts. 1 a 8); Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2.2, 5, 9.1, 76 y 78.4); Ley 18/2007, de 17 de diciembre, de la RTVA (arts. 4.1.b, 4.1.g, 4.3.b, 17.1.i, 32, 33 y 34.1); Ley 10/2018, de 9 de octubre, audiovisual de Andalucía (art. 11), por remisión de la Carta; Constitución Española (art. 20.1.d y 20.3) y Estatuto de Autonomía para Andalucía (arts. 211.2 y 214.4), por remisión; Ley Orgánica 5/1985, del Régimen Electoral General (art. 66.1), e Instrucción 4/2011 de la Junta Electoral Central (apartado tercero); Reglamento (UE) 2024/1083, de 11 de abril de 2024, Reglamento Europeo sobre la Libertad de los Medios de Comunicación (art. 5.1, con su corrección de errores de 17-X-2024, y art. 29); Orden PCM/1030/2020, de 30 de octubre (`BOE-A-2020-13663`). Doctrina: Sentencia del Tribunal Constitucional 6/1988, de 21 de enero, FJ 5. Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 8.1, 13.3, 13.10, 13.11 y 13.13); Contrato-programa RTVA 2024-2026 (cláusula tercera, 3.1, puntos 14 y 15); *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004. Otros: Carta ética mundial para periodistas de la FIP (Túnez, 12-VI-2019), arts. 2, 3, 5, 6 y 14; Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021), aps. 34 y 35; *Manual de estilo de RTVE*, como criterio de otro medio público; Barot, T., «Verifying Images», *Verification Handbook*, European Journalism Centre. Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el 24/09/2026. La Ley Orgánica 2/1984 y los artículos citados de la Ley 13/2022 tienen una sola redacción. No hay libro de estilo de Canal Sur Radio publicado: el de 2004 es de televisión y se usa con sus cautelas |
-| **Extensión** | 10.900 palabras aproximadamente |
+| **Extensión** | 11.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -19,7 +19,7 @@ Nacional de España (**RNE**); Federación Internacional de Periodistas (**FIP**
 Constitucional (**TC**); Sentencia del Tribunal Constitucional (**STC**); fundamento jurídico
 (**FJ**); Ley Orgánica (**LO**); Ley 13/2022, General de Comunicación Audiovisual (**LGCA**); Ley
 Orgánica del Régimen Electoral General (**LOREG**); Junta Electoral Central (**JEC**); Estatuto de
-Autonomía para Andalucía (**EAA**); Diario Oficial de la Unión Europea (**DO**); formato de
+Autonomía para Andalucía (**EAA**); Unión Europea (**UE**); Diario Oficial de la Unión Europea (**DO**); formato de
 metadatos de imagen *Exchangeable Image File Format* (**EXIF**); organizaciones no
 gubernamentales (**ONG**). En «Orden PCM/1030/2020», PCM es el prefijo de su número oficial; la
 firma la Ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática. «El Libro de
@@ -86,6 +86,7 @@ desinformación.
   - [El principio en la LGCA (artículo 5)](#el-principio-en-la-lgca-artículo-5)
   - [En la Ley 18/2007](#en-la-ley-182007)
   - [En la Carta del Servicio Público 2024-2029](#en-la-carta-del-servicio-público-2024-2029)
+  - [En el Reglamento Europeo sobre la Libertad de los Medios de Comunicación](#en-el-reglamento-europeo-sobre-la-libertad-de-los-medios-de-comunicación)
   - [Lo que no se aplica a Canal Sur Radio: el pluralismo del mercado radiofónico](#lo-que-no-se-aplica-a-canal-sur-radio-el-pluralismo-del-mercado-radiofónico)
   - [En antena: el deber de imparcialidad del Libro de Estilo](#en-antena-el-deber-de-imparcialidad-del-libro-de-estilo)
   - [En período electoral: el artículo 66 LOREG](#en-período-electoral-el-artículo-66-loreg)
@@ -115,7 +116,7 @@ Ninguna norma recoge entero este enunciado. Las normas de estilo de la casa son 
 Estilo de Canal Sur Televisión de 2004, el único publicado que se ha localizado: no hay uno de Canal
 Sur Radio. La verificación y el contraste salen de ese Libro, de la carta de la FIP y del deber de
 diligencia que fijan la LGCA (art. 9.1) y el Tribunal Constitucional (STC 6/1988). El pluralismo,
-de la LGCA, la Ley 18/2007, la Carta del Servicio Público y la LOREG. La rectificación, de la LO
+de la LGCA, la Ley 18/2007, la Carta del Servicio Público, la LOREG y el Reglamento (UE) 2024/1083. La rectificación, de la LO
 2/1984, que tiene una regla propia para la radio. La desinformación, de la definición oficial de la
 Orden PCM/1030/2020, de la Carta y del Contrato-programa de la RTVA. Como criterio de otro medio
 público, el tema cita el capítulo de radio del Manual de RTVE, que no obliga en Canal Sur. Cada
@@ -325,7 +326,22 @@ que el espectador pueda seguirlo.
 
 ### El sonido y los testimonios
 
-Ni el Libro de Estilo de 2004 ni el manual de verificación tratan la verificación del audio. El
+Ni el Libro de Estilo de 2004 ni el manual de verificación tratan la verificación del audio que
+llega de fuera. El Libro sí tiene una regla sobre la autenticidad del sonido en la pieza propia,
+escrita para el vídeo de la noticia pero que vale igual para una pieza de radio (3.2.2, «Imágenes
+‘falsas’»). Las reconstrucciones y simulaciones «**quedan prohibidas, como norma general**», y si son
+imprescindibles para comprender una noticia importante se rotulan como «reconstrucción». Y sobre el
+sonido: «**La música o el falseamiento del sonido ambiente también es un procedimiento reprobable
+porque aleja de la realidad y ofrece al espectador una sensación de ficción indeseable. En caso de
+que el sonido original tenga defectos que impidan su emisión, o no exista por cualquier razón, el
+‘falseamiento’ se efectuará sólo con sonidos idénticos a los de la realidad, o lo más parecidos que
+sea posible.**» La música sólo se admite en el montaje final «**si es la propia música la referencia
+noticiosa principal, y siempre que no perturbe la narración, ni anule por completo el sonido
+natural.**» En radio, donde el sonido ambiente es lo que sitúa al oyente en el lugar, la regla
+impide, por ejemplo, poner un ambiente de archivo como si fuera el grabado en el lugar de la
+noticia; si hay que suplir el original, con sonidos idénticos o lo más parecidos posible.
+
+El
 Manual de RTVE, sin obligar en Canal Sur, sí lo nombra entre lo que resta credibilidad (capítulo
 1, «Credibilidad»): «**La difusión de imágenes y/o testimonios sonoros de origen no verificado o
 dudoso o cuya correspondencia con la información emitida no pueda probarse**». Y trae dos
@@ -648,6 +664,25 @@ político, social y cultural**» y fomenten «**la libre formación de opinión 
   social y cultural de Andalucía se aplicará en los casos que procediere**», según el
   procedimiento del artículo 33 de la Ley 18/2007 y el artículo 11 de la Ley 10/2018.
 
+### En el Reglamento Europeo sobre la Libertad de los Medios de Comunicación
+
+El Reglamento (UE) 2024/1083 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, es
+directamente aplicable en España, sin ley de transposición, y lo es en general desde el 8 de agosto
+de 2025 (art. 29). Su artículo 5 lleva por rúbrica «**Salvaguardias del funcionamiento independiente
+de los prestadores del servicio público de medios de comunicación**», y su apartado 1 dice: «**Los
+Estados miembros garantizarán que los prestadores del servicio público de medios de comunicación
+sean independientes desde el punto de vista editorial y funcional, y ofrezcan de un modo imparcial
+una pluralidad de información y opiniones a sus audiencias, de conformidad con su mandato de
+servicio público tal como se define a nivel nacional de conformidad con el Protocolo nº 29**». El texto publicado en el DO el 17 de abril
+de 2024 omitía, por errata, las palabras «prestadores del servicio público de medios de
+comunicación»; las restituyó la corrección de errores publicada el 17 de octubre de 2024, y así se
+cita aquí.
+
+El obligado es el Estado miembro, que debe garantizarlo; pero lo que garantiza es lo que hace el
+medio público al emitir: pluralidad de información y opiniones, ofrecida de modo imparcial. Es la
+misma exigencia que la Ley 18/2007 y la Carta ponen a Canal Sur, ahora también en una norma de la
+UE.
+
 ### Lo que no se aplica a Canal Sur Radio: el pluralismo del mercado radiofónico
 
 La LGCA protege también el pluralismo externo de la radio con límites a cuántas licencias de
@@ -961,14 +996,17 @@ la audiencia «**criterios**» para detectar las campañas de desinformación (a
 | Constitución Española | Art. 20.1.d y 20.3 | Vigente |
 | Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación | Arts. 1 a 8 | Única, desde 1984 |
 | Ley Orgánica 5/1985, del Régimen Electoral General | Art. 66.1 | La de la LO 2/2011 |
+| Instrucción 4/2011 de la Junta Electoral Central | Apartado tercero | — |
+| Reglamento (UE) 2024/1083, Reglamento Europeo sobre la Libertad de los Medios de Comunicación | Arts. 5.1 y 29 | Texto del DO de 17-IV-2024 con la corrección de errores de 17-X-2024; art. 5.1 aplicable desde 8-VIII-2025 |
+| Ley 10/2018, de 9 de octubre, audiovisual de Andalucía | Art. 11, por remisión de la Carta | Vigente |
 | Ley 13/2022, General de Comunicación Audiovisual | Arts. 2.2, 5, 9.1, 76.1, 76.2 y 78.4 | Única, desde 9-VII-2022 |
-| Ley 18/2007, de la RTVA | Arts. 4.1.b, 4.1.g, 4.3.b, 32, 33 y 34.1 | Vigente el 24-09-2026 |
+| Ley 18/2007, de la RTVA | Arts. 4.1.b, 4.1.g, 4.3.b, 17.1.i, 32, 33 y 34.1 | Vigente el 24-09-2026 |
 | Estatuto de Autonomía para Andalucía | Arts. 211.2 y 214.4 | Vigente |
 | STC 6/1988, de 21 de enero | FJ 5 | — |
 | Orden PCM/1030/2020, de 30 de octubre (Procedimiento de actuación contra la desinformación) | Definición, niveles y anexo I | Vigente |
 | Carta del Servicio Público de la RTVA 2024-2029 | Arts. 8.1.l, 13.3, 13.10, 13.11 y 13.13 | No modificada |
 | Contrato-programa RTVA 2024-2026 | Cláusula tercera, 3.1, puntos 14 y 15 | La del BOJA |
-| Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), no normativo | Introducción; cap. 4 (p. 65); 1.5, 1.6; 2.3.2.1, 2.3.2.2, 2.3.2.3; 2.5.1, 2.5.9; 4.3 a 4.3.7; 7.5.4 (regla 8); 8.4.1; 9.1.12; 9.9.1 | 1.ª ed., 2004 |
+| Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía (2004), no normativo | Introducción; cap. 4 (p. 65); 1.5, 1.6; 3.2.2; 2.3.2.1, 2.3.2.2, 2.3.2.3; 2.5.1, 2.5.9; 4.3 a 4.3.7; 7.5.4 (regla 8); 8.4.1; 9.1.12; 9.9.1 | 1.ª ed., 2004 |
 | Carta ética mundial para periodistas de la FIP (2019), no normativa | Arts. 2, 3, 5, 6 y 14 | 2019 |
 | Resolución del Parlamento Europeo de 25-XI-2020, no normativa | Apartados 34 y 35 | — |
 | Manual de estilo de RTVE, no obliga en Canal Sur | Cap. 1 (información y opinión; credibilidad; rectificación; réplica; material de internet); cap. 3 (3.4.1, 3.4.2, 3.4.3, 3.4.4 y 3.6) | La publicada el 3-X-2026 |
@@ -1007,9 +1045,13 @@ de temas ya cerrados de Canal Sur, que llevan la fecha de lectura de esos temas 
   Instrucción 4/2011 de la JEC, STC 6/1988, Orden PCM/1030/2020 (`BOE-A-2020-13663`), carta de la
   FIP y Resolución del Parlamento Europeo de 25-XI-2020 (DO C 425 de 20.10.2021): pasajes tomados de
   temas cerrados de Canal Sur, que los leyeron en su fuente el 24-IX-2026.
+- Reglamento (UE) 2024/1083, `DOUE-L-2024-80523` (DO L 2024/1083, de 17-IV-2024, texto no consolidado): arts.
+  5.1 y 29, leídos el 4-X-2026 junto con su corrección de errores `DOUE-L-2024-81538` (17-X-2024),
+  que rehace el art. 5.1; la otra publicación que el BOE enlaza (`DOUE-Z-2026-70010`, 11-II-2026)
+  trata del art. 18 y no toca los arts. 5 ni 29.
 - *Libro de Estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., marzo de 2004:
   cap. 4 «Planificación y producción» (p. 65), 7.5.4 regla 8 (pp. 110-111) y 8.4.1, releídos el
-  3-X-2026; los demás apartados, de temas cerrados. Las ligaduras tipográficas del PDF («fi», «fl»)
+  3-X-2026; 3.2.2 «Imágenes ‘falsas’» (p. 46), leído el 4-X-2026; los demás apartados, de temas cerrados. Las ligaduras tipográficas del PDF («fi», «fl»)
   se transcriben como letras sueltas.
 - RTVA, Memoranda, «El Libro de Estilo de Canal Sur (1991)», publicado el 12-IX-2024 en canalsur.es
   (fuente original citada: informativo «Diario 1», 12-IX-1991, Canal Sur Televisión), leído el

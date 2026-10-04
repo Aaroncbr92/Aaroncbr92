@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Presentador Productor de Radio · punto 12 |
 | Sirve para | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Normas: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2.7, 2.8, 4, 6, 7, 76, 83, 84, 85, 95, 96, 98, 99, 101, 122 a 124); Ley Orgánica 1/1996, de Protección Jurídica del Menor (art. 4); Ley Orgánica 1/2004 (arts. 1, 13, 14 y 63); Ley Orgánica 3/2007; Ley 12/2007 y Ley 13/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 10/2018, audiovisual de Andalucía (arts. 8, 9, 31, 45.3 y disposición transitoria primera); Ley 18/2007, de la RTVA; Constitución Española (art. 49.1). Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 8.1, 9 y 17); Contrato-programa 2024-2026 (puntos 56, 57, 59 a 66, 90, 91 y 97); X Convenio Colectivo (ficha del puesto); Libro de estilo de Canal Sur Televisión (2004). De otro medio público, como pauta de oficio: Guía de Igualdad de RTVE (2020), Código de autorregulación para la defensa de los derechos del menor de la Corporación RTVE (2010) y Manual de estilo de RTVE |
+| Fuente | Normas: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2.7, 2.8, 4, 6, 7, 76, 83, 84, 85, 95, 96, 98, 99, 101, 122 a 124 y 158.9); Ley Orgánica 1/1996, de Protección Jurídica del Menor (art. 4); Ley Orgánica 1/2004 (arts. 1, 13, 14 y 63); Ley Orgánica 3/2007; Ley 12/2007 y Ley 13/2007 de Andalucía; Ley 15/2022; Ley 4/2023; Ley 10/2018, audiovisual de Andalucía (arts. 8, 9, 31, 45.3 y disposición transitoria primera); Ley 18/2007, de la RTVA; Constitución Española (art. 49.1). Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 8.1, 9, 17 y 18); Contrato-programa 2024-2026 (puntos 56, 57, 59 a 66, 90, 91 y 97); X Convenio Colectivo (ficha del puesto); Libro de estilo de Canal Sur Televisión (2004). De otro medio público, como pauta de oficio: Guía de Igualdad de RTVE (2020), Código de autorregulación para la defensa de los derechos del menor de la Corporación RTVE (2010) y Manual de estilo de RTVE |
 | Redacción que se estudia | Normas en su redacción vigente a 24-09-2026; Carta y Contrato-programa publicados en BOJA en diciembre de 2023; Libro de estilo, 1.ª ed., 2004; documentos de RTVE en su versión publicada. No hay libro de estilo ni guía de lenguaje inclusivo de Canal Sur Radio publicados |
-| Extensión | 15.300 palabras aproximadamente |
+| Extensión | 15.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -42,7 +42,8 @@ mayores y minorías, menores, violencia de género); qué derecho da el art. 9.3
 con discapacidad auditiva respecto de la radio autonómica; qué dice el Libro de estilo del masculino genérico y del
 desdoblamiento; por qué no sirve la «@» en antena; qué palabras descarta el Libro sobre inmigración,
 salud mental o discapacidad; y qué hace el presentador con un oyente que insulta o con un menor que
-entra en antena por teléfono.
+entra en antena por teléfono; y qué compromete la Carta (art. 18) con las personas mayores y los
+colectivos vulnerables.
 
 <!-- indice -->
 
@@ -185,9 +186,15 @@ Tres matices que se preguntan:
   95.3 nombra los datos recogidos por prestadores **«televisivo»**); el 83.2
   remite al 96 sólo para que la autoridad **promueva** códigos de conducta: es fomento, no deber del
   prestador.
-- El 83.3 y el 83.4 son las mismas franjas (1:00 a 5:00) que la ley fija para la televisión lineal
-  en abierto y de acceso condicional en su artículo 99, apartados 5 y 6. Lo que la radio emite en esa franja no es «protección
-  de menores» en el sentido de calificación, sino limitación horaria de contenidos.
+- El 83.3 y el 83.4 fijan la misma franja (1:00 a 5:00) que la ley da a la televisión lineal en
+  abierto y de acceso condicional en su artículo 99, apartados 5 y 6. Pero el verbo no es el mismo:
+  el 83.4 (juego en radio) y el 99.5 (esoterismo en televisión) dicen **«solo podrán emitir»**; el
+  83.3 (esoterismo en radio) dice **«podrán emitir»**, sin «solo». La lectura restrictiva del 83.3
+  tiene apoyo en el artículo 158 de la LGCA, que tipifica como infracción grave **«El incumplimiento
+  de la prohibición de emitir programas relacionados con el esoterismo y las paraciencias, en los
+  términos previstos en los artículos 83.3 y 99.5.»** (158.9). En el test, si se pregunta por la
+  letra del 83.3, la respuesta es «podrán emitir». Lo que la radio emite en esa franja no es
+  «protección de menores» en el sentido de calificación, sino limitación horaria de contenidos.
 - El sonoro a petición entra en el 83.1 y el 83.2, pero no en el 83.3 ni en el 83.4, que sólo nombran
   al servicio **«radiofónico»**.
 
@@ -327,7 +334,12 @@ programación:
 - Punto 61, para los contenidos dirigidos al público infantil y juvenil: **«Se evitará la difusión
   de contenidos y de mensajes publicitarios contrarios a los derechos de los menores, evitando
   igualmente todo potencial elemento discriminatorio, lenguaje sexista, pornográfico o de violencia
-  física o moral.»** Y: **«Los mensajes, contenidos y lenguaje empleado en los programas se adaptarán
+  física o moral.»** También: **«Se evitará que los menores aparezcan en espacios o mensajes
+  publicitarios en los que se vulneren sus derechos, impidiendo que su participación en programas que
+  puedan perjudicarles moral o físicamente, o que puedan menoscabar su desarrollo psicosocial
+  saludable.»** (así en el BOJA: la frase queda sin cerrar tras «impidiendo que»). Para el productor
+  que lleva menores a antena, es un mandato de la casa que se suma al 95 LGCA. Y: **«Los mensajes,
+  contenidos y lenguaje empleado en los programas se adaptarán
   a los niveles de desarrollo cognitivo de los colectivos de menores a los que se dirijan.»**
 - Punto 62: la protección de los menores **«contará con extraordinarios controles de calidad ex-ante
   y ex-post»**, conforme a **«las determinaciones de los artículos 95, 99 y 128 de la Ley 13/2022»**
@@ -415,9 +427,11 @@ Aplicación de las normas anteriores al trabajo del puesto (deducción, no norma
 - **Llamadas en directo.** La voz del menor que entra en antena por teléfono ya se ha emitido. La
   prevención va antes: el filtro de llamadas pregunta la edad y, si es menor, quién le acompaña. Es
   costumbre de oficio, no norma publicada de Canal Sur.
-- **Franja de 1:00 a 5:00.** Un programa nocturno de tarot o de apuestas con llamadas de oyentes sólo
-  cabe en esa franja (83.3 y 83.4), y el prestador responde subsidiariamente de los delitos y daños
-  causados a través de los de esoterismo.
+- **Franja de 1:00 a 5:00.** Un programa nocturno de apuestas sólo puede emitirse en esa franja
+  (83.4, «solo podrán»); uno de tarot con llamadas de oyentes, la ley lo prevé entre la 1:00 y las
+  5:00 (83.3, «podrán», sin «solo»), y el 158.9 tipifica como infracción grave el incumplimiento de
+  **«la prohibición»** de emitirlo **«en los términos previstos en los artículos 83.3 y 99.5»**. El prestador responde subsidiariamente de los delitos y daños causados a través
+  de los de esoterismo.
 - **Hijos de víctimas de violencia de género.** Se presentan **«como víctimas directas de dicha
   violencia»** (LAA, art. 31.2.c; Ley 12/2007, art. 58.1, en el epígrafe 2), y su identificación
   está prohibida por el 95.2.
@@ -909,6 +923,10 @@ de la radio:
   servicios de comunicación audiovisual radiofónicos, a través de una reproducción y distribución
   accesible de los distintos programas radiofónicos en las webs de las personas prestadoras de
   dichos servicios.»**
+- LAA, artículo 31.1.c), obligación de toda persona prestadora ante la ciudadanía: **«Garantizar la
+  accesibilidad a los estudios de producción audiovisual ubicados en Andalucía, así como al interior
+  de sus dependencias, conforme a lo establecido en la normativa sobre accesibilidad en la
+  edificación.»**
 - LAA, disposición transitoria primera, apartados 5 y 6:
   - **5.** Los estudios de radio y televisión de Andalucía «**tienen que ser accesibles con la mayor
     brevedad posible**», para el personal con diversidad funcional y para la ciudadanía invitada.
@@ -1222,8 +1240,9 @@ Ninguna norma leída define «colectivo vulnerable». La expresión y sus vecina
 - LAA, artículo 31.1.g): imagen ajustada y respetuosa de **«las personas mayores, personas con
   discapacidad, así como de las minorías étnicas, sociales, culturales, religiosas y sexuales»**
   (epígrafe 3).
-- Contrato-programa, apartado 3.9, **«Atención a las personas mayores y a las personas de colectivos
-  vulnerables»**, puntos 64 a 66 (abajo).
+- Carta, artículo 18, **«Atención a las personas mayores y a las de colectivos vulnerables»**
+  (abajo), y Contrato-programa, apartado 3.9, **«Atención a las personas mayores y a las personas de
+  colectivos vulnerables»**, puntos 64 a 66 (abajo), que lo desarrolla.
 
 La LGCA (art. 4.2) prohíbe incitar al odio o a la discriminación por cualquiera de los motivos que
 enumera (epígrafe 3). El Libro de estilo se compromete a una labor **«respetuosa y atenta con los
@@ -1232,7 +1251,24 @@ las leyes de igualdad de trato y LGTBI a los medios están en el epígrafe 3.
 
 ### Personas mayores y en situación de dependencia
 
-Contrato-programa 2024-2026:
+La Carta, artículo 18, **«Atención a las personas mayores y a las de colectivos vulnerables»**, tres
+apartados:
+
+- 18.1: atendiendo a la evolución demográfica de Andalucía, **«las personas mayores serán un
+  colectivo de población atendido por los medios de Canal Sur, especialmente con programas,
+  contenidos y servicios nuevos conforme a sus necesidades de comunicación social y preferencias
+  expresas»**, conforme a su derecho a una atención audiovisual de entretenimiento y al acceso a la
+  cultura, la salud, la educación y la información.
+- 18.2: para las personas mayores y las poblaciones vulnerables, **«se promoverá la participación
+  activa en los programas dedicados a estos colectivos en los medios de Canal Sur»**, que incluirán
+  contenidos sobre salud, relaciones con la sociedad y otras temáticas de utilidad para ellas.
+- 18.3: **«Las personas en riesgo de exclusión social y los colectivos especialmente vulnerables y
+  expuestos a situaciones de desigualdad serán un colectivo de población atendido con programas,
+  contenidos y servicios que los medios de Canal Sur producirán y difundirán»**, conforme a su
+  derecho a acceder a la información y al conocimiento sobre salud, participación social, cultura,
+  educación y actualidad, general y específica de esos colectivos.
+
+Contrato-programa 2024-2026, que lo baja a programación:
 
 - Punto 64: **«las personas mayores seguirán siendo un colectivo de población especialmente atendido
   por todos los medios de Canal Sur con programas, espacios, contenidos y servicios nuevos conforme a
@@ -1337,16 +1373,16 @@ Las tareas de la ficha del puesto (epígrafe «De dónde sale este tema»), una 
 | Proponer y elaborar los temas | Contexto en lugar de estereotipo; nada de citar el origen étnico si es superfluo ni de vincular una enfermedad mental con la causa de un hecho (Libro de estilo 9.3.5.1 y 9.7.2.1) |
 | Localizar protagonistas y expertos | Representación equilibrada de mujeres y hombres en tertulias y debates (Ley 12/2007, art. 58.2; Contrato-programa, punto 57); voz propia de los colectivos de los que se habla |
 | Guionizar | Lenguaje no sexista e inclusivo que se pueda locutar (LAA, art. 31.1.d; epígrafe 4); términos correctos para discapacidad, salud mental y migración |
-| Previsión de medios | Accesibilidad física del estudio para invitados con discapacidad (Contrato-programa, punto 97); en Canal Sur Radio, subtitulado en la TDT e internet como derecho de las personas con discapacidad auditiva (LAA, art. 9.3) |
+| Previsión de medios | Accesibilidad física del estudio para invitados con discapacidad (LAA, art. 31.1.c; Contrato-programa, punto 97); en Canal Sur Radio, subtitulado en la TDT e internet como derecho de las personas con discapacidad auditiva (LAA, art. 9.3) |
 | Locución y directo | Menores: ni voz ni datos que los identifiquen en los contextos del art. 95.2 LGCA, y consentimiento para su voz en los demás (95.1); oyentes: cortar el insulto y el discurso de odio (LGCA, arts. 4.2 y 76.2) |
-| Programación nocturna | Esoterismo y juegos de azar sólo de 1:00 a 5:00, salvo los sorteos de lotería reservados y los concursos conexos que excluye el 83.4 (LGCA, art. 83.3 y 83.4) |
+| Programación nocturna | Esoterismo y juegos de azar, en la franja de 1:00 a 5:00 que la ley prevé para ellos (el 83.4 dice «solo podrán»; el 83.3, «podrán»), salvo los sorteos de lotería reservados y los concursos conexos que excluye el 83.4 (LGCA, arts. 83.3, 83.4 y 158.9) |
 | Menciones publicitarias | Límites de los arts. 122 y 124 LGCA (art. 85.1) |
 
 ## Normativa que el tema invoca
 
 - Constitución Española: arts. 24.2 (citado por la LAA) y 49.1 (redacción de 2024).
 - Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual: arts. 2.7, 2.8, 4, 6, 7, 76,
-  83, 84, 85, 95, 96, 98, 99, 101, 122, 123 (por remisión del 85.1) y 124.
+  83, 84, 85, 95, 96, 98, 99, 101, 122, 123 (por remisión del 85.1), 124 y 158.9.
 - Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor: art. 4.
 - Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de
   Género: arts. 1 (apartado 4 añadido por la LO 8/2021), 13, 14 y 63.
@@ -1388,17 +1424,21 @@ Las tareas de la ficha del puesto (epígrafe «De dónde sale este tema»), una 
   tema 8 del común. LGCA y LAA enteras: tema 4 del común. Ley 18/2007: tema 5 del común.
 - Rectificación y tratamiento de la desinformación: tema 9. Derechos de imagen y voz (LO 1/1982):
   tema 10. Defensor/a de la Audiencia: tema 17.
-- Régimen sancionador (infracciones y multas por incumplir estas obligaciones): no se desarrolla.
+- Régimen sancionador (infracciones y multas por incumplir estas obligaciones): no se desarrolla,
+  salvo el art. 158.9 LGCA, citado en los epígrafes 1 y 6 por el modo del verbo del 83.3.
 
 ## Trazabilidad
 
 | Fuente | Qué sostiene | Leída |
 | --- | --- | --- |
 | LGCA (BOE-A-2022-11311, consolidado; todos los preceptos citados con una sola redacción, aplicable desde 9-VII-2022 salvo el art. 101, aplicable desde 9-VII-2023): arts. 2.7, 2.8, 76, 83, 84, 85, 96, 98.1, 99.1-2, 101.1, 121-125 y rúbrica del título VI | Epígrafes 1, 3 y 5 | 3-X-2026 |
+| LGCA: art. 83.3-4 (cotejo del verbo) y art. 158.9 | Epígrafes 1 y 6 | 4-X-2026 |
 | LAA (BOE-A-2018-15240; arts. 8, 9 y 31 en la redacción del Decreto-ley 3/2024, BOE-A-2024-90030, vigente desde 17-II-2024; en el art. 31 sólo cambió la letra f) | Epígrafes 1, 2, 3 y 4 | 3-X-2026 |
+| LAA: art. 31.1.c) | Epígrafes 3 y 6 | 4-X-2026 |
 | X Convenio Colectivo RTVA y filiales (BOJA núm. 240, de 10-XII-2014): ficha del puesto 9540002 | De dónde sale; epígrafe 6 | 3-X-2026 |
 | Carta del Servicio Público RTVA 2024-2029 (BOJA 247, 28-XII-2023): art. 17 | Epígrafe 1 | 3-X-2026 |
-| Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 60 a 66 y 97 | Epígrafes 1, 3 y 5 | 3-X-2026 |
+| Carta del Servicio Público RTVA 2024-2029: art. 18 | Epígrafe 5 | 4-X-2026 |
+| Contrato-programa 2024-2026 (BOJA 245, 26-XII-2023): puntos 60 a 66 y 97 | Epígrafes 1, 3 y 5 | 3-X-2026 (punto 61, frase sobre menores en publicidad y programas, releída el 4-X-2026) |
 | *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía*, RTVA, 1.ª ed., 2004: introducción y 9.4 (permiso de padres, intervención sobre imagen y sonido) | De dónde sale; epígrafe 1 | 3-X-2026 |
 | Código de autorregulación para la defensa de los derechos del menor en los contenidos audiovisuales, conexos, interactivos y de información en línea de la Corporación RTVE, de 23-VII-2010 (PDF de rtve.es): capítulo de grabaciones, contenidos radiofónicos, contenidos informativos | Epígrafe 1, como pauta de otro medio | 3-X-2026 |
 | *Manual de estilo de RTVE*, capítulo 3 (RNE), 3.6 | Epígrafe 5, como pauta de otro medio | 3-X-2026 |

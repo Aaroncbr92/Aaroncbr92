@@ -1,0 +1,154 @@
+Fuente: https://support.google.com/youtube/answer/9314415?hl=es (Ayuda de YouTube, «Medir los momentos clave para comprobar la retención de la audiencia»). Leída el 4-X-2026.
+
+Medir los momentos clave para comprobar la retención de la audiencia - Ordenador - Ayuda de YouTube       Saltar al contenido principal
+Ayuda de YouTube
+Iniciar sesión
+Ayuda de Google
+Centro de asistencia
+Solucionar un problema
+Ver vídeos
+Gestionar tu cuenta y configuración
+Experiencias supervisadas en YouTube
+YouTube Premium
+Crear un canal y conseguir que crezca
+Monetización de tu contenido
+Políticas, seguridad y derechos de autor
+Comunidad
+YouTube
+Política de privacidad
+Condiciones de Servicio de YouTube
+Enviar comentarios
+Enviar comentarios sobre...
+Esta información y este contenido de ayuda
+Experiencia general del Centro de Ayuda
+CerrarSiguiente
+Centro de asistencia
+Comunidad
+Consejos para creadores
+YouTube
+Solucionar un problemaSolucionar problemas relacionados con la reproducción de vídeosSolucionar problemas con la cuentaSolucionar problemas relacionados con las subidasObtener ayuda con el Programa para Partners de YouTubeDescubre las últimas novedades de YouTubeObtener ayuda con YouTube
+Ver vídeosBuscar vídeos que verCambiar la configuración de vídeoVer vídeos en distintos dispositivosComentar, suscribirse y conectar con creadoresGuardar o compartir vídeos y listas de reproducciónSolucionar problemas relacionados con la reproducción de vídeosComprar y gestionar películas, series y productos en YouTube
+Gestionar tu cuenta y configuraciónRegistrarte y gestionar tu cuentaGestionar los ajustes de la cuentaGestionar la configuración de privacidadAdministrar la configuración de anunciosGestionar los ajustes de accesibilidadSolucionar problemas con la cuentaNovedades de YouTube
+Experiencias supervisadas en YouTubeCuentas supervisadas para niñosCuentas supervisadas para adolescentes
+YouTube PremiumÚnete a YouTube PremiumBeneficios de YouTube PremiumGestionar tu suscripción a PremiumManage Premium billing & paymentsSolucionar problemas de YouTube Premium
+Crear un canal y conseguir que crezcaSubir vídeosEditar vídeos y configuraciones de vídeoCrear ShortsEditar vídeos con YouTube CreatePersonalizar y gestionar tu canalEvaluar el rendimiento mediante las estadísticasTraducción de vídeos y subtítulosGestionar tu comunidad y los comentariosEmitir en directo en YouTubeComunidad de Creadores de YouTubeConviértete en creador de pódcasts en YouTubeNovedades para creadores y sobre la aplicación Studio
+Monetización de tu contenidoPrograma para Partners de YouTubeGanar dinero en YouTubeRecibir pagosAcerca de los anuncios y políticas relacionadasObtener ayuda con el Programa para Partners de YouTubeYouTube para gestores de contenido
+Políticas, seguridad y derechos de autorPolíticas de YouTubeDenuncias y medidas por incumplimiento de políticasPrivacidad y el Centro de SeguridadDerechos de autor y gestión de derechos
+Evaluar el rendimiento mediante las estadísticas
+Medir los momentos clave para comprobar la retención de la audiencia
+Medir los momentos clave para comprobar la retención de la audiencia
+El informe "Momentos clave de retención de la audiencia" indica hasta qué punto han conseguido diferentes partes de un vídeo mantener el interés de los usuarios. Este informe te ofrece información valiosa sobre los aspectos de tus vídeos que funcionan y los que puedes mejorar. Ten en cuenta que los datos de retención de la audiencia tardan entre 1 y 2 días en procesarse.
+Nota: El informe "Retención de la audiencia" solo está disponible en Estadísticas de YouTube a nivel de vídeo.
+Consultar los momentos clave de la retención de la audiencia
+Inicia sesión en YouTube Studio.
+En el menú de la izquierda, selecciona Contenido .
+En el vídeo que quieras ver, selecciona Estadísticas .
+Selecciona las pestañas Vista general o Interacción y busca el informe "Retención de la audiencia". Puedes hacer clic en VER MÁS para comparar tu vídeo con todos los vídeos de YouTube de duración similar.
+En "Segmentos", selecciona uno de los diferentes grupos de usuarios del desplegable para ver ese tipo de segmento.
+Interpretar los momentos clave de la retención de la audiencia
+Hay 4 tipos de momentos que pueden aparecer destacados en el informe "Momentos clave de retención de la audiencia": También puedes fijarte en la retención habitual para comparar tus 10 últimos vídeos con una duración similar.
+Si el gráfico no varía, significa que los usuarios ven esa parte de los vídeos de principio a fin.
+Un descenso gradual significa que los usuarios pierden interés con el tiempo. Por norma general, los vídeos de YouTube experimentan algún descenso durante la reproducción.
+Los picos tienen lugar cuando hay más usuarios viendo, volviendo a ver o compartiendo partes concretas de tus vídeos.
+Las caídas significan que los usuarios están dejando de ver los vídeos o saltando a partes específicas de ellos.
+Introducciones
+En la introducción se indica el porcentaje de la audiencia que sigue viendo tus vídeos tras los primeros 30 segundos.
+Un porcentaje alto de introducción puede significar lo siguiente:
+El contenido de los primeros 30 segundos concuerda con las expectativas que las miniaturas y los títulos de los vídeos generan en los usuarios.
+El contenido mantuvo a la audiencia interesada.
+Recomendaciones para mejorar el porcentaje de retención de las introducciones:
+Cambia la miniatura y el título de tus vídeos para que reflejen mejor su contenido.
+Modifica los primeros 30 segundos de los vídeos y prueba diferentes estilos hasta encontrar uno que capte la atención de tu audiencia.
+Momentos destacados
+Son los momentos de tus vídeos que casi ningún usuario dejó de ver.
+Recomendaciones para mejorar los momentos destacados:
+Si los momentos destacados tienen lugar en un fragmento avanzado del vídeo, puedes incluir el contenido atractivo en una parte anterior del vídeo. Normalmente, el tamaño de la audiencia se va reduciendo conforme avanza el vídeo.
+También puedes crear contenido en el que desarrolles lo que ocurre en los momentos destacados.
+Picos
+Son los momentos de tus vídeos que los usuarios han vuelto a ver o han compartido.
+Los picos pueden indicar lo siguiente:
+Tu audiencia ha visto más un segmento que los anteriores.
+El contenido no es claro y la audiencia ha tenido que volver a ver la sección.
+Te sugerimos que revises los picos para conocer mejor los motivos por los que ha aumentado la retención.
+Caídas
+Son los momentos de tus vídeos que los usuarios se saltaron o en los que dejaron de ver los vídeos por completo.
+Las caídas pueden indicar que la audiencia ha visto menos un segmento que los anteriores. Te sugerimos que revises las caídas para saber mejor por qué ha perdido el interés la audiencia en un segmento concreto.
+Nota: Puede que tus vídeos no tengan todos estos momentos; solo se destacarán si se identifican en ellos. El vídeo también debe tener una duración mínima de 60 segundos y acumular al menos 100 visualizaciones.
+La forma del gráfico de retención de la audiencia puede ayudarte a ver qué partes de tu vídeo interesan más y menos a los espectadores.
+Ver la retención de la audiencia por tipo de segmento
+Nota: Es posible que tengas que habilitar el modo avanzado para acceder a determinados datos. Consulta cómo acceder a las funciones avanzadas.
+En el informe de segmentos de retención de la audiencia, puedes ver en qué medida interactúan diferentes partes de tu audiencia con tus vídeos. Puedes comparar los usuarios nuevos con los recurrentes, así como los suscriptores y los no suscriptores. Además, si publicas anuncios, podrás desglosar los usuarios del tráfico orgánico y del tráfico de pago que interactúan con tu contenido. Asimismo, puedes consultar el tráfico de los anuncios de vídeo saltables y de display. Puedes hacer clic en VER MÁS para consultar estos informes.
+Tráfico orgánico y tráfico de pago
+Tráfico orgánico
+Estas visualizaciones son el resultado directo de la intención del usuario. Por ejemplo, se considera que el tráfico es orgánico si el espectador realiza una acción, como buscar un vídeo, hacer clic en un vídeo sugerido o navegar por un canal de YouTube.
+Tráfico de pago
+Estas son las visualizaciones derivadas del emplazamiento de pago:
+Anuncio de vídeo saltable: las visualizaciones de los anuncios que se reproducen automáticamente antes de que empiece el vídeo y que los usuarios pueden saltarse cuando han transcurrido 5 segundos.
+Anuncios de display: las visualizaciones que se generan cuando los usuarios hacen clic en un anuncio de display, tanto los anuncios que aparecen en los resultados de búsqueda como los que lo hacen en las páginas de visualización de otros vídeos.
+Más información sobre los formatos de anuncio de vídeo de Google Ads para vídeo
+Usuarios nuevos y recurrentes
+Usuarios nuevos
+Son aquellos que han visto contenido en tu canal por primera vez durante el periodo seleccionado.
+Usuarios recurrentes
+Son aquellos que ya habían visto vídeos en tu canal con anterioridad y que han vuelto para ver más contenido.
+Más información sobre los datos de usuarios nuevos y recurrentes
+Suscriptores y no suscriptores
+Suscriptores
+Usuarios que están suscritos a tu canal. Puedes consultar el número de suscriptores en tiempo real y comprobar cómo ha ido creciendo a lo largo del tiempo.
+No suscriptores
+Usuarios que están viendo tus vídeos, pero no están suscritos a tu canal.
+Más información sobre los aspectos básicos de Estadísticas de YouTube
+Ver actividad detallada de la retención de la audiencia
+El informe de actividad detallado de la retención de la audiencia muestra el número absoluto de visualizaciones de diferentes segmentos de tu vídeo. En este informe también puedes ver cuántos usuarios iniciaron o detuvieron la reproducción de tu vídeo en diferentes momentos.
+Te recomendamos que utilices estos datos para mejorar tu contenido y mantener el interés de los usuarios.
+Nota: En ocasiones, se espera que el número total de visualizaciones de un segmento de un vídeo supere el número total de visualizaciones de tu vídeo. Esto se debe a que, en una misma vista, el mismo usuario puede ver partes de tu contenido varias veces.
+Métricas que debes conocer
+Duración media de las visualizaciones
+Promedio de minutos de visualización de los usuarios que se quedaron viendo el contenido.
+Se calcula a partir de las visualizaciones interesadas y su tiempo de visualización correspondiente.
+Tiempo de visualización (horas)
+Tiempo que han visto los usuarios tu vídeo.
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+¿Te ha resultado útil esta información?
+¿Cómo podemos mejorar esta página?
+SíNo
+Enviar
+Ordenador AndroidiPhone y iPad   Más
+¿Necesitas más ayuda?
+Prueba estos pasos:
+Publicar en la comunidad de ayuda    Obtener respuestas de los miembros de la comunidad
+true
+Evaluar el rendimiento mediante las estadísticas
+1 de 4
+Entender mejor tu interacción en YouTube
+2 de 4
+Medir los momentos clave para comprobar la retención de la audiencia
+3 de 4
+Cómo se contabilizan las métricas de interacción
+4 de 4
+Consultar los datos de las emisiones en directo
+©2026 Google     Política de privacidad
+Condiciones de Servicio de YouTube
+Idioma   Afrikaans‎azərbaycan‎bosanski‎català‎dansk‎Deutsch‎eesti‎English‎English (United Kingdom)‎español (Latinoamérica)‎euskara‎Filipino‎français‎français (Canada)‎Gaeilge‎galego‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Malti‎Melayu‎Nederlands‎norsk‎o‘zbek‎polski‎português‎português (Brasil)‎română‎shqip‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎беларуская‎български‎кыргызча‎македонски‎монгол‎русский‎српски‎українська‎қазақ тілі‎հայերեն‎‏עברית‏اردو‏العربية‏فارسیनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎မြန်မာ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ español‎            Habilitar modo oscuro
+Enviar comentarios sobre...
+Esta información y este contenido de ayuda Experiencia general del Centro de Ayuda
+Búsqueda
+Borrar búsqueda
+Cerrar búsqueda
+Aplicaciones de Google
+Menú principal
+6352219567870326230
+true
+Buscar en el Centro de ayuda
+false
+true
+true
+true
+true
+true
+59
+false
+false
+false
+false
+false

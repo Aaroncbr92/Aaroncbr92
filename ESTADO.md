@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-26 (Canal Sur · específicos: 8 puestos cerrados)
+**Última actualización:** 2026-09-26 (Canal Sur · específicos: 9 puestos cerrados)
 
 ## Qué es esto
 
@@ -1855,20 +1855,11 @@ con los datos de cada puesto en `informes/canal-sur-especificos/PP-args.json` (s
 | 33 Realizador/a | 8 | 19 | cerrado | `libro-canal-sur-33-realizador.*` (643 pp.) |
 | 15 Grafista | 7 | 18 | cerrado | `libro-canal-sur-15-grafista.*` (494 pp.) |
 | 05 Ayudante de Realización | 6 | 18 | cerrado (8 temas copiados de Realizador/a) | `libro-canal-sur-05-ayudante-realizacion.*` (638 pp.) |
+| 31 Presentador Productor de Radio | 1 | 18 | cerrado (adelantado a petición del titular) | `libro-canal-sur-31-presentador-radio.*` (479 pp.) |
 
-Ocho puestos cerrados: 155 de las 228 plazas (68 %) tienen ya temario completo, común y específico.
+Nueve puestos cerrados: 156 de las 228 plazas (68 %) tienen ya temario completo, común y específico.
 
-### 31 Presentador Productor de Radio: adelantado y parado (a petición del titular, 03-10-2026)
-
-Lanzado fuera de orden y parado en marcha. Dónde se quedó:
-- Investigación de los tres bloques, completa. Los 18 temas redactados; el 7 copiado de Sonido, con esquema.
-- Verificados: todos menos el 7 (que no lo necesita).
-- Refutados: 01, 09, 10, 11, 17 y 18. **Faltan por refutar: 02-06, 08, 12-16.**
-- **Faltan el remate y el esquema de todos menos el 7.**
-- Para continuar: workflow con `31-args.json` y `desde` = `rematar` en 01, 09, 10, 11, 17 y 18 y `refutar`
-  en el resto (sin el 7). Después, volumen con `_puesto_canal_sur` en `libro.py`.
-
-Siguiente puesto por plazas, después: 27 Oficial Técnico Electricista (5 plazas, 19 temas).
+Siguiente puesto por plazas: 27 Oficial Técnico Electricista (5 plazas, 19 temas).
 
 Decisión pendiente del titular: extensión objetivo de los temas técnicos (ahora ~11.000 palabras
 por tema; propuesta 6.000-8.000 para rebajar el gasto por puesto, hoy 13-15 M de tokens).

@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Presentador Productor de Radio · punto 8 |
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Sin norma legal: no la hay. Recomendaciones técnicas: EBU R 128 (sonoridad y pico verdadero), EBU R 128 s1 (piezas cortas: cuñas y promociones), EBU Tech 3341 (medidor en «modo EBU»), EBU Tech 3343 (producción conforme a la R 128) y EBU R 68 (nivel de alineación). Documentación de fabricante: Yamaha (consola CL, como ejemplo), Soundcraft y Rane. *Manual de estilo de RTVE* (glosario radiofónico 7.5 y capítulo de RNE), como referencia de oficio de otro medio público; José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito, 2005), como manual de oficio. Lo demás, costumbre de oficio y cálculo, y así se dice |
+| **Fuente** | Sin norma legal: no la hay. Recomendaciones técnicas: EBU R 128 (sonoridad y pico verdadero), EBU R 128 s1 (piezas cortas: cuñas y promociones), EBU Tech 3341 (medidor en «modo EBU»), EBU Tech 3343 (producción conforme a la R 128) y EBU R 68 (nivel de alineación). Documentación de fabricante: Yamaha (consola CL, como ejemplo), Soundcraft, Rane, y Audioarts y D&R (mesas de radio). *Manual de estilo de RTVE* (glosario radiofónico 7.5 y capítulo de RNE), como referencia de oficio de otro medio público; José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito, 2005), como manual de oficio. Lo demás, costumbre de oficio y cálculo, y así se dice |
 | **Redacción que se estudia** | La vigente el 24/09/2026: EBU R 128-2023 (versión 5), EBU R 128 s1 V3 (agosto de 2020), EBU Tech 3341-2023, EBU Tech 3343-2023 y EBU R 68-2000; *Manual de estilo de RTVE* en su versión web (glosario 7.5 cotejado el 03-10-2026) |
-| **Extensión** | 13.600 palabras aproximadamente |
+| **Extensión** | 14.400 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -37,7 +37,7 @@ salidas de propósito general (**GPIO**, *general purpose input/output*), por la
 recibe o da órdenes; la mezcla que se devuelve a quien está
 fuera del estudio sin su propia voz (**N-1**, «ene menos uno», o mezcla menos). El fader es el mando
 deslizante de nivel de cada canal de la mesa. Los fabricantes se citan por su nombre comercial:
-Yamaha, Soundcraft y Rane. «El Manual de RTVE» es el *Manual de estilo de RTVE*; «el manual de López
+Yamaha, Soundcraft, Rane, Audioarts y D&R. «El Manual de RTVE» es el *Manual de estilo de RTVE*; «el manual de López
 Vigil», el *Manual urgente para radialistas apasionados y apasionadas*.
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
@@ -61,7 +61,8 @@ de sonoridad tiene que cumplir según la R 128 s1; por qué no se mide el LRA de
 piezas musicales tiene un programa; cómo va la música bajo la voz y qué es un *ducker*; qué es una
 ráfaga o cortinilla y cuánto duran las de punto y seguido y punto y aparte; en qué se diferencian
 cortina, ráfaga, puente y música de telón; qué tres sentidos tiene «continuidad» en radio; qué hace
-el procesador de sonoridad de la salida ante material conforme. En la prueba práctica: ajustar la
+el procesador de sonoridad de la salida ante material conforme; qué hace una mesa de autocontrol al
+abrir el micrófono y qué es el arranque por fader; qué distingue el indicativo del punto. En la prueba práctica: ajustar la
 ganancia de un micrófono con el PFL, devolver a un invitado por teléfono su mezcla menos, corregir
 una cuña que no pasa la sonoridad a corto plazo, llevar un directo a −23 LUFS dentro de la
 tolerancia y encadenar sintonía, voz, música bajo la voz, ráfaga y cuña sin saltos de nivel.
@@ -76,6 +77,7 @@ tolerancia y encadenar sintonía, voz, música bajo la voz, ráfaga y cuña sin 
   - [Lo que pide la radio a quien opera](#lo-que-pide-la-radio-a-quien-opera)
   - [Qué hace una mesa](#qué-hace-una-mesa)
   - [Lo que maneja el locutor en autocontrol](#lo-que-maneja-el-locutor-en-autocontrol)
+  - [Lo que hace sola una mesa de autocontrol](#lo-que-hace-sola-una-mesa-de-autocontrol)
 - [Niveles](#niveles)
   - [Lo que llega a la entrada](#lo-que-llega-a-la-entrada)
   - [La escucha previa: PFL, AFL y solo en posición](#la-escucha-previa-pfl-afl-y-solo-en-posición)
@@ -162,7 +164,7 @@ oficio, y así se dice.
 En radio se llama autocontrol al estudio en que el locutor opera él mismo la mesa de sonido. Es costumbre
 de oficio, sin documento leído que la defina.
 
-Y la particularidad que más define el oficio hoy: el autocontrol. En muchas emisoras el
+En muchas emisoras el
 locutor maneja su propia mesa, y eso cambia el trabajo del técnico: pasa de operar a preparar,
 mantener y resolver.
 
@@ -227,6 +229,45 @@ sin documento de CSRTV leído que describa sus estudios):
 
 Las fuentes que llegan a una mesa de radio (servidor de audio, reproductores, híbrido telefónico,
 códec) y la mezcla N-1 de las líneas exteriores se estudian en el tema 7.
+
+### Lo que hace sola una mesa de autocontrol
+
+Las mesas de radio pensadas para que el locutor se opere a sí mismo traen automatismos que una mesa
+de directo de propósito general no trae. Se toman como ejemplo los manuales de tres mesas de radio
+(Audioarts AIR 1 y AIR 4, de Wheatstone, y D&R AIRENCE-USB); no consta que sean las de
+CSRTV, y otras mesas los resuelven de otra forma.
+
+Al abrir el micrófono se silencian los altavoces. El manual de la AIR 1: los canales de micrófono
+pueden programarse **«to mute the monitor speakers when the channel is ON»**, y explica por qué:
+**«This is done to prevent feedback from the monitor speaker to the announcer’s mic.»** La AIR 4
+permite programarlo en cualquier canal (**«An input channel can be programmed to mute the control
+room speakers when the channel is ON»**). En la AIRENCE-USB lo activa el conmutador «Mute by Mic» (con un puente puesto en el canal de micrófono),
+que deja que la señal de micrófono abierto **«mute the CRM speakers»** (CRM, *control room monitor*: los altavoces del control),
+**«to avoid signal feedback»**. El mismo manual dice, en otra página, que con el conmutador
+«Mute-Act» la escucha del control **«will be dimmed by 20dB»**: según la mesa y cómo se programe, los
+altavoces se cortan del todo o se atenúan. Por eso el locutor en autocontrol se oye por auriculares
+mientras habla (oficio).
+
+Y se enciende el piloto de «en antena». En la AIR 1, el aviso de micrófono abierto va unido al
+corte de los altavoces: **«This tally is automatically activated whenever the monitor mute is
+activated»**, y a la vez se enciende el indicador ON AIR del puente de medidores. La mesa no
+enciende la lámpara por sí misma: ofrece un contacto (**«a closure is provided at the TALLY output»**) que
+gobierna el circuito externo que pone el usuario. En la AIRENCE-USB, el «Mute by Mic» activa a la vez un relé
+conectado a la salida de luz roja (**«Red Light output connector»**).
+
+Una pieza arranca al abrir su canal. La AIR 4 lleva contactos de arranque por canal hacia los
+equipos de reproducción: su tecla de encendido **«turns the channel on and off by means of
+electronic switching and can simultaneously start external source machines»**, y en el canal del
+teléfono sirve para dar la orden de arranque al híbrido. La AIRENCE-USB lo hace con el propio fader,
+el arranque por fader (*fader start*): **«At the beginning of the fader movement you will feel an
+integrated start switch that closes when you bring up the fader.»** Esa orden sale por el conector de arranque
+del módulo hacia el equipo conectado, y sólo si ese conector está cableado. Con el arranque por fader,
+subir el fader de una cuña o de una ráfaga basta para lanzarla.
+
+En autocontrol, la consecuencia práctica (oficio, sobre lo que dicen esos manuales): antes de abrir
+el micrófono, los auriculares puestos, porque los altavoces van a callar; el piloto encendido avisa a
+quien esté fuera de que hay un micrófono abierto; y con arranque por fader, el fader de una pieza
+grabada no se sube «para probar», porque la pieza sale.
 
 ## Niveles
 
@@ -886,8 +927,9 @@ varios minutos. Actualmente, el promedio es de 30 segundos. O de menos: 20, 15, 
 Y sus cuatro cualidades, que ordena con la C de «cuña» (**«Como la palabra CUÑA comienza por C y
 tiene cuatro letras, se pueden ordenar en otras cuatro sus características fundamentales»**): una cuña debe ser **«Corta»**,
 **«Concreta»**, **«Completa»** y **«Creativa»**. Llama viñetas a otra cosa: **«Se suele llamar
-viñetas a los textos comerciales leídos en directo por un locutor.»** La cuña viene grabada; la
-viñeta la lee el locutor en antena.
+viñetas a los textos comerciales leídos en directo por un locutor.»** La viñeta se define por
+leerse en directo, sin más recursos que la voz; pero el autor critica, en el mismo párrafo, que
+**«La mayoría de las cuñas se han convertido en simples viñetas pregrabadas con fondo musical.»**
 
 ### Las piezas cortas y cómo las llama la UER
 
@@ -906,6 +948,12 @@ La UER no usa esas palabras: agrupa estas piezas como **«advertisements (commer
 (as well as interstitials etc.)»** y las piezas de muy pocos segundos como **«interstitials,
 stingers, bumpers and similar very short items»** (EBU R 128 s1). A efectos técnicos, una cuña, una
 ráfaga o una promoción son contenido corto, y cada una cuenta como un programa.
+
+El glosario radiofónico del Manual de RTVE (7.5) define dos de esas piezas de identificación. El
+indicativo es el **«Montaje sonoro muy breve que identifica a una emisora ante el oyente. Incluye
+música, palabra y cualquier recurso radiofónico.»** El punto es el **«Recurso radiofónico que tiene
+la misma función que el indicativo, pero aplicado no a la emisora, sino a un espacio concreto de su
+programación.»** Es decir: el indicativo dice qué emisora se oye; el punto, qué programa.
 
 ### Por qué hay una norma para las piezas cortas
 
@@ -1097,8 +1145,8 @@ personaje, etc.»**
 
 ### La ráfaga como pieza corta
 
-Para la UER, una ráfaga es contenido corto: las **«stingers, bumpers and similar very short items»**
-de la R 128 s1 (epígrafe «Cuñas»). Le valen, por tanto, las mismas cifras que a una cuña: −23 LUFS
+La UER no nombra la ráfaga, pero una ráfaga encaja en lo que la R 128 s1 llama **«stingers,
+bumpers and similar very short items»** (véase «Las piezas cortas y cómo las llama la UER»); por tanto, le valen las mismas cifras que a una cuña: −23 LUFS
 integrada, −18 LUFS como máximo a corto plazo y −1 dBTP; y tampoco tiene sentido medirle el rango de
 sonoridad (cálculo sobre la R 128 s1).
 
@@ -1138,7 +1186,10 @@ Las continuidades del boletín las describe el capítulo de RNE del Manual de RT
 locutor principal lee **«lo que se denominan entradillas, transiciones o continuidades»**, que son
 **«nombres que reciben las frases/párrafos que actúan como lazos o puentes entre una información
 concluida y la que sigue»**. El mismo apartado avisa del riesgo de **«incurrir en muletillas y
-tópicos o relaciones forzadas ajenas al rigor y a la lógica»**. Y el boletín horario, según el mismo manual,
+tópicos o relaciones forzadas ajenas al rigor y a la lógica»**, y pone la condición: **«Este tipo
+de transición o continuidad, en el que se vincula una noticia con la siguiente, sólo es posible
+cuando existen uno o más nexos entre ambas noticias. De lo contrario, estaríamos ante una
+continuidad forzada.»** Y el boletín horario, según el mismo manual,
 es **«el eje de la continuidad informativa»** (3.2.1).
 
 ### La continuidad: que todo suene igual
@@ -1203,12 +1254,13 @@ el resto del tema es documentación de fabricante, manuales de oficio, costumbre
   del Manual de RTVE y del manual de López Vigil, que no obligan a Canal Sur. Ninguna fuente leída
   fija una duración normativa de la cuña, la ráfaga o la cortinilla.
 - Las cifras de una consola concreta son las de la Yamaha CL tomada como ejemplo; otras mesas, y en
-  particular las mesas de autocontrol de radio, tienen otras. Ningún manual de una mesa de
-  autocontrol se ha leído.
+  particular las mesas de autocontrol de radio, tienen otras. De mesas de radio se han leído sólo
+  los manuales de tres mesas (Audioarts AIR 1 y AIR 4, D&R AIRENCE-USB), para sus automatismos.
 - La equivalencia entre −18 dBFS y un nivel analógico en dBu: no está en la EBU R 68 ni en la Tech
   3343.
-- Los automatismos de emisión (arranque de piezas por orden de la mesa, encadenado automático): sin
-  fuente leída; se mencionan como oficio.
+- El encadenado automático de piezas en el sistema de emisión y su gobierno desde la mesa: sin
+  fuente leída; se menciona como oficio. El arranque por la tecla o por el fader, el corte de
+  altavoces y el piloto de «en antena» se dan con los manuales de tres mesas, no con los de CSRTV.
 - El dominio de uno mismo ante el micrófono y la comunicación con el operador: tema 4. Las funciones
   de la música, el silencio y las piezas de continuidad como lenguaje: tema 1. Escaleta, pauta y
   guion: tema 2. Micrófonos, fuentes de un control de radio, N-1, híbridos, códecs y sonoridad del
@@ -1228,9 +1280,12 @@ el resto del tema es documentación de fabricante, manuales de oficio, costumbre
 | Yamaha Corporation, *CL5/CL3/CL1 V5 Reference Manual* | Ganancia digital y previos; punto de escucha PFL/AFL/POST PAN; oscilador; canal de entrada y sus diez bloques; canales de salida; órdenes y atenuador de órdenes; ocho grupos de silencio; Mix Minus | 25-09-2026 |
 | Yamaha Corporation of America, D. Gould, *Get on the Bus* | Envíos previos y posteriores y sus usos | 25-09-2026 |
 | Soundcraft, *The Soundcraft Guide to Mixing* (2001) | AFL, SIP; ganancia de entrada, *headroom* y ajuste con el PFL; la ecualización afecta a la ganancia; faders en torno a 0; bus; auxiliares; envíos previos y posteriores; grupos de silencio | 25-09-2026 |
+| Audioarts Engineering (Wheatstone), *AIR 1 Radio Mixing Console Technical Manual* (diciembre de 2007) | Silencio de los altavoces al abrir el micrófono; piloto ON AIR y contacto de *tally* | 04-10-2026 |
+| Audioarts Engineering (Wheatstone), *AIR 4 Radio Console Technical Manual* (junio de 2012) | Silencio de los altavoces del control por canal; tecla ON que arranca equipos externos; arranque del híbrido | 04-10-2026 |
+| D&R, *AIRENCE-USB Manual*, versión 1.11 | Arranque por fader; «Mute by Mic» y relé de luz roja; atenuación de 20 dB con «Mute-Act» | 04-10-2026 |
 | Rane, RaneNote 155, «Dynamics Processors — Technology & Applications» (2005) | Estructura de los procesadores de dinámica y clave externa; puntos de partida para la voz; usos del limitador de picos; *ducker* | 25-09-2026 |
-| Manual de estilo de RTVE (web): 7.5, «Glosario de términos utilizados en el lenguaje radiofónico» | Cuña, sintonía, careta, cortinilla, golpe, guion de continuidad | Volcado de 02-09-2026, cotejado con la web el 03-10-2026; leído el 03-10-2026 |
-| Manual de estilo de RTVE (web): 3.2.1 y 3.2.1.1 (RNE) | El boletín, eje de la continuidad informativa; entradillas, transiciones o continuidades | Volcado de 02-09-2026; leído el 03-10-2026 |
+| Manual de estilo de RTVE (web): 7.5, «Glosario de términos utilizados en el lenguaje radiofónico» | Cuña, sintonía, careta, cortinilla, golpe, guion de continuidad, indicativo, punto | Volcado de 02-09-2026, cotejado con la web el 03-10-2026; leído el 03-10-2026 |
+| Manual de estilo de RTVE (web): 3.2.1 y 3.2.1.1 (RNE) | El boletín, eje de la continuidad informativa; entradillas, transiciones o continuidades; el nexo y la continuidad forzada | Volcado de 02-09-2026; leído el 03-10-2026 |
 | José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF (Quito), ISBN 9978-55-045-3, introducción fechada en abril de 2005; licencia que autoriza copia citando la fuente: capítulos 3 (bache), 4 (locutor y operador; manejar la consola), 6 (cortina, ráfaga, puente, telón; fondos), 7 (ráfaga antes del *flash*) y 10 («Cuñas») | Autocontrol como oficio; bache; piezas musicales; fondos; definición, nombre, clases, duración, cualidades de la cuña; viñeta | 03-10-2026 |
 | Costumbre de oficio, sin norma | Las cuatro características del sonido de radio; las cinco funciones y los bloques de una mesa; lo que maneja el locutor en autocontrol; el uso del PFL; el ajuste con la fuente real; el porqué de la escala del fader; el *headroom* y los procesadores; la compresión de la voz salvo los puntos de partida de Rane; pico frente a sonoridad; LUFS y LU; uso de cada lectura; tabla de medidores; sonoridad y compresión; tecla de encendido y grupos de silencio en autocontrol; entradas del locutorio; DIM y mandos de escucha; destino de las órdenes; errores de envío previo y posterior; mezcla menos a mano; auriculares; piezas musicales y de continuidad; música bajo la voz y su edición; cuña, ráfaga y paso de continuidad en autocontrol; comprobación de las piezas | — |
 

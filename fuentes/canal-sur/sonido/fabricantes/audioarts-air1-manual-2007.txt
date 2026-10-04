@@ -1,0 +1,6949 @@
+TECHNICAL MANUAL
+December 2007
+  A I R 1
+RADIO MIXING CONSOLE
+
+R-16 / Dec 1997
+AIR 1 Radio Mixing Console Technical Manual - 1st Edition
+AIR 1 Radio Mixing Console Technical Manual - 1st Edition
+AIR 1 Radio Mixing Console Technical Manual - 1st Edition
+AIR 1 Radio Mixing Console Technical Manual - 1st Edition
+AIR 1 Radio Mixing Console Technical Manual - 1st Edition
+©2007 Audioarts
+® Engineering*
+AUDIOARTS ENGINEERING
+600 Industrial Drive
+New Bern, North Carolina  28562
+252-638-7000
+*a division of Wheatstone Corporation
+AIR 1 / Dec 2007
+
+page  Contents – 1
+AIR 1 / Dec 2007
+C O N T E N T S
+AIR 1 Technical Manual
+Table of Contents
+Chapter 1 – Installation and Power
+Unpacking and Installing the Console ........................................1-2
+Power Supply ................................................................................1-3
+Energizing ......................................................................................1-3
+Audio and Control Wiring.............................................................1-4
+Unbalanced Connections (analog audio) ................................................................. 1-5
+Hook-Ups .......................................................................................1-5
+MIC 1 and MIC 2 Inputs ............................................................................................ 1-5
+LINE 3 IN through LINE 8 IN .................................................................................... 1-5
+EXT IN ...................................................................................................................... 1-6
+PGM 1 OUT and PGM 2 OUT .................................................................................. 1-6
+MONITOR OUT ........................................................................................................ 1-6
+CUE .......................................................................................................................... 1-6
+HDPN ........................................................................................................................ 1-6
+TALLY ....................................................................................................................... 1-7
+SPARE ...................................................................................................................... 1-7
+Chapter 2 - Console Features
+Overview ........................................................................................2-2
+Inputs .............................................................................................2-4
+Analog Mono Mic Level Inputs ................................................................................. 2-4
+Analog Stereo Line Level Inputs .............................................................................. 2-4
+Outputs ..........................................................................................2-5
+Program Outputs ...................................................................................................... 2-5
+Monitor Output .......................................................................................................... 2-5
+     Cue to Monitor ..................................................................................................... 2-5
+     Split Cue, Monitor ................................................................................................ 2-6
+     Split Cue, Headphone ......................................................................................... 2-6
+     Monitor Mute ........................................................................................................ 2-6
+     On Air Tally .......................................................................................................... 2-7
+
+page  Contents – 2
+AIR 1 / Dec 2007
+C O N T E N T S
+Chapter 3 - Controls and Functions
+Input Section .............................................................................. 3-2
+Source..................................................................................................................... 3-3
+Program Assign ...................................................................................................... 3-3
+Cue Button .............................................................................................................. 3-3
+Fader ....................................................................................................................... 3-3
+ON Button ............................................................................................................... 3-3
+Master Section............................................................................ 3-4
+Monitor .................................................................................................................... 3-5
+     Program Select .................................................................................................. 3-5
+     EXT Switch ........................................................................................................ 3-5
+     Monitor Fader .................................................................................................... 3-5
+     Cue Level Control .............................................................................................. 3-6
+     Headphone Fader .............................................................................................. 3-6
+Meters ..................................................................................................................... 3-6
+     VU Meter Pair .................................................................................................... 3-6
+     Meter Select Buttons ......................................................................................... 3-7
+On Air LED .............................................................................................................. 3-7
+Chapter 4 - Schematic and Load Sheet Drawings
+Console Flow Diagram .............................................................. 4-2
+MBA1-1 Mother Board
+Schematic ............................................................................................................... 4-3
+Load Sheet............................................................................................................ 4-11
+VUA1-2 Meters PCB
+Schematic ............................................................................................................. 4-12
+Load Sheet............................................................................................................ 4-13
+Appendices
+Appendix 1
+AIR 1 Console Performance Specifications ............................A-3
+Appendix 2
+Replacement Parts List .............................................................A-5
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 1
+AIR 1 / Dec 2007
+Installation and Power
+Chapter Contents
+Unpacking and Installing the Console ..................................... 1-2
+Power Supply ............................................................................. 1-3
+Energizing ................................................................................... 1-3
+Audio and Control Wiring.......................................................... 1-4
+Unbalanced Connections (analog audio) ............................................................... 1-5
+Hook-Ups .................................................................................... 1-5
+MIC 1 and MIC 2 Inputs .......................................................................................... 1-5
+LINE 3 IN through LINE 8 IN .................................................................................. 1-5
+EXT IN .................................................................................................................... 1-6
+PGM 1 OUT and PGM 2 OUT ................................................................................ 1-6
+MONITOR OUT ...................................................................................................... 1-6
+CUE ........................................................................................................................ 1-6
+HDPN ...................................................................................................................... 1-6
+TALLY ..................................................................................................................... 1-7
+SPARE .................................................................................................................... 1-7
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 2
+AIR 1 / Dec 2007
+Installation and Power
+Unpacking and Installing the Console
+The AIR 1 console with its power supply, connecting cable, and
+technical manual is shipped in one packing box. The console can be
+unpacked by one person by grasping the console at the both sides, and
+lifting it upward out of the box. Remove packing materials and store them
+in the box for future use. Carefully place the console on your countertop
+(the AIR 1 audio console is designed for countertop placement). Avoid
+proximity to any electromagnetic fields, such as large power transformers, motors, and fluorescent lighting fixtures.
+NOTE: This console
+contains static-sensitive devices. Normal
+precautions against
+static discharge should
+be observed.
+15.19
+11.51
+2.44
+1.28
+11.51
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 3
+AIR 1 / Dec 2007
+Power Supply
+The AIR 1 console is powered by a factory
+supplied power adapter with 100-240V/50-60Hz input, 25W maximum output power, and a 4 foot long
+output cable.
+           DC Power Output Pinout
+The power supply adapter is supplied with a 3-wire grounded AC cord
+that should be plugged into a "clean" AC power source, that is, an AC
+source that feeds only the control room audio gear. This source should be
+a separate feed from those powering lighting, air-conditioning, or any
+other non-audio machinery.
+Energizing
+Assuming the AIR 1 console mainframe is properly placed, and its
+power supply correctly connected to the console, you may now energize
+the power supply adapter by plugging it into the AC mains. The console's
+switches will assume factory default settings.
+Note: To de-energize the console, unplug the power supply adapter’s
+AC cord from the AC mains. Never de-energize the console by disconnecting the cable that connects the console and power supply adapter
+together.
+Once you have verified proper power-up, unplug the power supply adapter
+Once you have verified proper power-up, unplug the power supply adapter
+Once you have verified proper power-up, unplug the power supply adapter
+Once you have verified proper power-up, unplug the power supply adapter
+Once you have verified proper power-up, unplug the power supply adapter
+to de-energize the console. You may now proceed to wire up audio and
+to de-energize the console. You may now proceed to wire up audio and
+to de-energize the console. You may now proceed to wire up audio and
+to de-energize the console. You may now proceed to wire up audio and
+to de-energize the console. You may now proceed to wire up audio and
+control connections.
+control connections.
+control connections.
+control connections.
+control connections.
+The power feed recommended in the text is often installed and referred
+to in studios as an “isolated AC ground” outlet. It
+is usually orange in color.
+PIN #
+OUTPUT
+1
+COM
+2
+COM
+3
++5VDC
+4
+-15V
+5
++15V
+3
+5 2 4
+1
+AIR 1 / Dec 2007
+AIR 1 / Mar 2010
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 4
+AIR 1 / Dec 2007
+Audio and Control Wiring
+All audio I/O connections to the AIR 1 console are made via TRS and XLR
+connectors located on the rear panel of the console.
+Two XLR female connectors are provided to bring balanced mono microphone
+level signals into the console for control by the first two (microphone) faders. These
+XLR connectors are wired “pin 2 hot.”
+Six pairs of TRS (Tip-Ring-Sleeve) jacks are provided to bring balanced stereo
+line level signals into the console for control by (line) faders three through eight.
+The high side of the balanced line is wired to the tip (T), the low side of the balanced
+line is on the ring (R), and the sleeve (S) is connected to the console ground. The
+tip and ring are automatically switched to ground when there is no matching plug
+inserted in the jack.
+One pair of TRS jacks is provided to bring an additional stereo line level signal
+into the console for use by the monitor circuits. These are also wired with the tip
+high, the ring low, and the sleeve ground, and with automatic grounding when no
+plug is inserted.
+Two pairs of TRS jacks are provided to bring the two stereo program outputs
+(PGM 1 and PGM 2) out of the console as balanced line level +4dBu signals. The
+tip is high, the ring is low, and the sleeve is ground.
+One pair of TRS jacks is provided to bring the stereo monitor output out of the
+console as separate (left and right) unbalanced line level signals at a nominal level
+of -2dBu (equivalent to one side of a balanced +4dBu output). The tip is high and
+both the ring and the sleeve are connected to ground.
+One TRS jack is provided to bring the mono cue out of the console as an
+unbalanced line level signal (nominal -2dBu). The tip is high and both the ring and
+the sleeve are connected to ground.
+One TRS is provided for the operator to plug in a set of headphones. This is
+wired as a standard headphone jack, with the left signal on the tip, the right signal
+on the ring, and the sleeve conne cted to ground.
+One TRS jack is provided to hook up an interface to an Air Tally light. This
+output comes from a set of relay contacts and is designed to switch a low DC voltage
+(30 VDC maximum) at a moderately low current (2 ADC maximum) to activate
+a DC light, or to activate an external DC relay which can then be used to activate
+an AC operated light. Never bring AC power into the console on this or any other
+connector. The relay normally open (N.O.) contact appears on the tip and the
+common contact appears on the ring. The sleeve is connected to ground.
+One remaining TRS jack on the rear panel is not used.
+A 5-pin DIN connector is provided to accept console power from the external
+power supply.
+AIR 1 / Jan 2008
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 5
+AIR 1 / Dec 2007
+Unbalanced Connections (analog audio)
+ANALOG INPUTS — Wire to the console with typical shielded two conductor
+cable (like Belden 9451), just as if you were connecting a balanced source. At the
+unbalanced source machine’s output, connect the black wire (LO) to the shield.
+ANALOG OUTPUTS — The AIR 1 console’s PGM 1 and PGM 2 line level
+analog outputs are electronically balanced, low impedance, outputs, expecting a
+minimum load of 600 ohms. The outputs are balanced but are not floating.
+Therefore, care must be exercised when connecting them to an unbalanced
+system. While temporarily shorting the low side of the output signal to ground will
+not cause any problems, continued operation under these conditions will result in
+increased distortion, decreased reliability, and possible oscillation problems. If you
+must connect one of these outputs to an unbalanced system, be sure to leave the
+low side unterminated, and connect the unbalanced system to the high side
+output and shield connections only.
+Hook-Ups
+The rear of the console has multiple TRS connectors to plug in 6 stereo line inputs
+and the external input, as well as providing program 1 and 2, monitor, cue,
+headphone, and tally output connections. There are also two female XLR connectors
+provided for microphone MIC 1 and MIC 2 inputs.
+MIC 1 and MIC 2 Inputs
+All signals are analog mono. The mic input level is normally -50dBu balanced.
+PIN 1 XLR 1 SH – MIC 1 IN SH
+PIN 2 XLR 1 HI – MIC 1 IN HI
+PIN 3 XLR 1 LO – MIC 1 IN LO
+PIN 1 XLR 2 SH – MIC 2 IN SH
+PIN 2 XLR 2 HI – MIC 2 IN HI
+PIN 3 XLR 2 LO – MIC 2 IN LO
+LINE 3 IN through LINE 8 IN
+The top TRS jack (TRS 1) is LEFT and the bottom TRS jack (TRS 2) is RIGHT
+for each channel. All signals are analog stereo, +4dBu balanced.
+TRS 1 TIP – LINE X LEFT HI
+TRS 1 RING – LINE X LEFT LO
+TRS 1 SLEEVE – LINE X LEFT SH
+TRS 2 TIP – LINE X RIGHT HI
+TRS 2 RING – LINE X RIGHT LO
+TRS 2 SLEEVE – LINE X RIGHT SH
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 6
+AIR 1 / Dec 2007
+EXT IN
+The top TRS jack (TRS 1) is LEFT and the bottom TRS jack (TRS 2) is RIGHT
+for each channel. All signals are analog stereo, +4dBu balanced.
+TRS 1 TIP – EXT LEFT HI
+TRS 1 RING – EXT LEFT LO
+TRS 1 SLEEVE – EXT LEFT SH
+TRS 2 TIP – EXT RIGHT HI
+TRS 2 RING – EXT RIGHT LO
+TRS 2 SLEEVE – EXT RIGHT SH
+PGM 1 OUT and PGM 2 OUT
+The top TRS jack (TRS 1) is LEFT and the bottom TRS jack (TRS 2) is RIGHT
+for each channel. All signals are analog stereo, +4dBu balanced.
+TRS 1 TIP – PGM X LEFT HI
+TRS 1 RING – PGM X LEFT LO
+TRS 1 SLEEVE – PGM X LEFT SH
+TRS 2 TIP – PGM X RIGHT HI
+TRS 2 RING – PGM X RIGHT LO
+TRS 2 SLEEVE – PGM X RIGHT SH
+MONITOR OUT
+The top TRS jack (TRS 1) is LEFT and the bottom TRS jack (TRS 2) is RIGHT
+for each channel. All signals are analog stereo, -2dBu nominal, unbalanced.
+TRS 1 TIP – MONITOR LEFT HI
+TRS 1 RING – GROUND
+TRS 1 SLEEVE – MONITOR LEFT SH
+TRS 2 TIP – MONITOR RIGHT HI
+TRS 2 RING – GROUND
+TRS 2 SLEEVE – MONITOR RIGHT SH
+CUE
+Analog mono, -2dBu nominal, unbalanced.
+TRS TIP – CUE HI
+TRS RING – GROUND
+TRS SLEEVE – CUE SH
+HDPN
+Analog stereo, headphone level, unbalanced.
+TRS TIP – HDPN LEFT
+TRS RING – HDPN RIGHT
+TRS SLEEVE – HDPN SH
+
+I N S T A L L A T I O N a n d P O W E R
+page  1 – 7
+AIR 1 / Dec 2007
+TALLY
+Relay closure, 30VDC, 2A maximum.
+TRS TIP – TALLY N.O.
+TRS RING – TALLY COM
+TRS SLEEVE – GROUND
+SPARE
+Not used.
+TRS TIP – NO CONNECTION
+TRS RING – NO CONNECTION
+TRS SLEEVE – GROUND
+
+page  2 – 1
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+Console Features
+Chapter Contents
+Overview ..................................................................................... 2-2
+Inputs .......................................................................................... 2-4
+Analog Mono Mic Level Inputs ............................................................................... 2-4
+Analog Stereo Line Level Inputs ............................................................................ 2-4
+Outputs ....................................................................................... 2-5
+Program Outputs .................................................................................................... 2-5
+Monitor Output ........................................................................................................ 2-5
+     Cue to Monitor ................................................................................................... 2-5
+     Split Cue, Monitor .............................................................................................. 2-6
+     Split Cue, Headphone ....................................................................................... 2-6
+     Monitor Mute ...................................................................................................... 2-6
+     On Air Tally ........................................................................................................ 2-7
+
+page  2 – 2
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+Console Features
+Overview
+The AIR 1 console consists of an input section with eight faders and associated
+switches, monitor and headphone section with two faders and associated switches.
+The basic purpose of the console is to take some of the many audio signals that
+are wired to the console inputs, and generate several outputs that combine these
+inputs in various groups and at various degrees of loudness, or signal strength. The
+typical application is in a radio station where it is desired to develop the signals that
+the station will broadcast (the on air signal), as well as several additional signals
+for recording and monitoring.
+All programming is made via PCB mounted slide switches accessible through
+openings in the console’s bottom panel.
+
+page  2 – 3
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+AIR 1 Bottom Panel
+
+page  2 – 4
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+Inputs
+The AIR 1 console is designed to handle 6 analog stereo (+4dBu balanced) 
+inputs, two mono microphone (-50dBu balanced) inputs, and one external stereo 
+line level (+4dBu balanced) input that goes directly to control room or meter.
+Analog Mono Mic Level Inputs
+These inputs are used to connect to microphones, which typically put out 
+signals at relatively low signal strength, and therefore require more amplification 
+(increase in signal strength) to be properly audible in the output. Mic level sources 
+are wired to female XLR connectors located on the rear of the console. These mic 
+inputs feed the console’s first two faders. The mic preamps are set for a gain of 
+54dBu, but each mic pre has its own recessed GAIN control, located beneath the 
+XLR input connector, to allow field adjustment to compensate for differences in 
+microphone characteristics.
+Example: with a microphone input of –60dBm @150 ohm at the port, gain 
+trim can set levels from -22dBu to +16dBu (note maximum preamp gain is 
++76dB) at the PGM 1 or PGM 2 output.  
+Analog Stereo Line Level Inputs
+These inputs are typically used to connect to machines, such as tape decks, cart 
+machines, CD players, etc., that provide analog outputs. All six input line level signals 
+and external signal are switchable between -4dBu and +4dBu via slide switches, 
+LINE 3 - LINE 8 (SW 8 - SW 3 on MBA1-1 PCB) and EXTERNAL (SW 2 on 
+MBA1-1 PCB), accessible through openings in the console’s bottom panel. 
+When UP the input level signal is -4dBu; 
+When DOWN the input level signal is +4dBu.
+AIR 1 / Feb 2014
+
+page  2 – 5
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+Outputs
+The console outputs include two program stereo busses (PGM 1 and PGM 2),
+a stereo monitor output, a mono cue output, and a stereo headphone jack.
+The console’s mono cue signal is provided to drive an external powered
+speaker, or amplifier and speaker combination, and also provides the cue signal
+used to interrupt monitor and headphones, if such interrupt has been enabled by
+the installer.
+Program Outputs
+The console’s main analog outputs are the two Program stereo buses
+(PGM 1 and PGM 2). The Program stereo outputs can be programmed to
+mono outputs via slide switches, PGM 1 MONO SUM and PGM 2 MONO
+SUM (SW 11 and SW 12 on MBA1-1 PCB).
+When SW 12 is UP the PGM 1 is in mono mode, which sums the left
+and right PGM 1 channels and sends this mono signal to both left and
+right channels of the  PGM 1 output.
+When SW 12 is DOWN the PGM 1 is in stereo mode.
+When SW 11 is UP the PGM 2 is in mono mode, which sums the left
+and right PGM 2 channels and sends this mono signal to both left and
+right channels of the PGM 2 output.
+When SW 11 is DOWN the PGM 2 is in stereo mode.
+Monitor Output
+The AIR 1 has a MONITOR output designed to drive a stereo pair of powered
+speakers, or a stereo amplifier driving separate speakers, to allow the operator to
+listen to either PGM 1 or PGM 2, or an external signal. The console
+may be programmed to mute the monitor or to provide monitor and
+headphone split cue.
+Cue to Monitor
+The CUE TO MONITOR (SW 1 on MBA1-1 PCB) slide switch,
+when activated (UP), sends cue to the monitor.
+
+page  2 – 6
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+Split Cue, Monitor
+The MONITOR SPLIT CUE (SW 3 on MBA1-1 PCB) slide
+switch, when activated (UP), allows a summed (L+R) version of
+the regular program to be sent to the right side of the monitor
+stereo output, while CUE is sent to the left side.
+Split Cue, Headphone
+For headphones, consoles are normally programmed at the
+factory for CUE to appear on the left channel, while the L+R
+sum of the monitor output appears on the right. This can be
+changed with the HEADPHONE SPLIT CUE (SW 4 on MBA1-1 PCB) slide switch.
+To defeat this split cue option, turn the switch off (DOWN). With this setting cue will
+interrupt both sides of the headphones.
+Monitor Mute
+The console has the ability to mute the monitor output.
+The console also has an ON AIR tally output that is used to
+drive user-provided external circuitry that will in turn
+operate the ON AIR indicator. This tally is automatically
+activated whenever the monitor mute is activated.
+The two microphone channels can be programmed via
+MIC 1 and MIC 2 (SW 9 and SW 10 on MBA1-1 PCB) slide
+switches to mute the monitor speakers when the channel is
+ON.
+When MIC 1, SW 10, is UP the console’s monitor speakers are automatically
+muted when the MIC 1 channel is turned ON.
+When MIC 2, SW 9, is UP the console’s monitor speakers are automatically
+muted when the MIC 2 channel is turned ON.
+This is done to prevent feedback from the monitor speaker to the announcer’s mic.
+At the same time that muting is enabled (by turning on either of the two MIC
+channels when set to activate the monitor mute), the ON AIR LED in the center of the
+meterbridge is also turned on, and a closure is provided at the TALLY output to
+activate the external circuitry for the ON AIR indicator.
+
+page  2 – 7
+AIR 1 / Dec 2007
+C O N S O L E F E A T U R E S
+On Air Tally
+For controlling an external “on-air” indicator, a relay is provided. The tally
+is activated when a mic channel set for monitor mute is turned on.
+The relay connections are available at the “TALLY” TRS connector
+mounted on the rear of the console. Connect the on-air light to the external userprovided relay. Do not bring on-air light AC connections to any pin of any
+connector on the console.
+"TALLY" TRS
+CONNECTOR PIN
+YOUR 
+POWER 
+SUPPLY
+–
+TYPICAL MONITOR ON-AIR TALLY CIRCUIT
+USER-SUPPLIED RELAY TRIGGERED BY CONSOLE MONITOR MUTE CIRCUIT
++
+INTERNAL AIR
+TALLY RELAY
+COM
++
+–
+1N4002
+ECG
+B40240
+or equiv.
+relay
+RELAY CIRCUIT POWERED BY USER
+SUPPLIED EXTERNAL SUPPLY
+N.O.
+N.C.
+2A
+max
+30VDC
+PIN
+R
+PIN
+T
+
+page  3 – 1
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+Controls and Functions
+Chapter Contents
+Input Section .............................................................................. 3-2
+Source..................................................................................................................... 3-3
+Program Assign ...................................................................................................... 3-3
+Cue Button .............................................................................................................. 3-3
+Fader ....................................................................................................................... 3-3
+ON Button ............................................................................................................... 3-3
+Master Section............................................................................ 3-4
+Monitor .................................................................................................................... 3-5
+     Program Select .................................................................................................. 3-5
+     EXT Switch ........................................................................................................ 3-5
+     Monitor Fader .................................................................................................... 3-5
+     Cue Level Control .............................................................................................. 3-6
+     Headphone Fader .............................................................................................. 3-6
+Meters ..................................................................................................................... 3-6
+     VU Meter Pair .................................................................................................... 3-6
+     Meter Select Buttons ......................................................................................... 3-7
+On Air LED .............................................................................................................. 3-7
+
+page  3 – 2
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+Controls and Functions
+Input Section
+The AIR 1 Input section consist of two mono microphone input channels and
+six stereo analog input channels.
+The MIC and LINE input channels have the same controls, except that the MIC
+channels don’t have a CUE switch.
+
+page  3 – 3
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+Source
+The AIR 1 console accepts two mono mic input signals via female XLR
+and six stereo line level input signals via TRS connectors.
+MIC 1 and MIC 2 GAIN trimpots at the rear of the console below the
+MIC input XLR connectors are used to adjust the gain of each microphone
+input independently. These are normally “set and forget” adjustments, and
+are set at the factory for a gain of 54dB, thus bringing a -50dBu microphone
+input level up to +4dBu at the output.
+If you have more than two microphones in use, you will need to provide
+external mic preamps for all but two of them. These additional mics will not
+be able to activate the muting and on air tally functions.
+Program Assign
+Output switches assign the selected source signal to any combination of
+the console’s two stereo Program outputs—PGM 1 and PGM 2. The button
+will be lit when the source is assign to its respective bus. To remove a source
+from the bus, press the button again; the light will go off to indicate that the
+source is no longer assigned to that bus. NOTE that when the console is
+powered up all input channels will be off and assigned to PGM 1.
+Cue Button
+The CUE switch (not found on the MIC channels) places the channel’s
+signal on the console’s cue bus, where it may be heard in the external cue
+speaker, as an interrupt to the console operator’s headphones, and as an
+interrupt to the monitor speakers, if so programmed.
+Press the CUE button. The channel’s input signal will be included in the
+console’s CUE output at a level that is independent of the FADER setting,
+and the button will light. The fader does not need to be turned ON. To
+remove a fader from cue, press the CUE BUTTON again; the light will go
+off to indicate the channel is no longer assigned to cue.
+Fader
+Level is set by a long-throw fader. The fader is the sliding mechanism
+that determines how strong is the presence of the input in some of the
+various console outputs.
+If the fader is all the way down (that is, pulled toward the console
+operator), the signal will not be present in either of the two program main
+buses to which it is assigned. As the fader is moved up (that is, pushed away
+from the console operator) the signal will appear more strongly in each of
+the main buses to which it is assigned.
+ON Button
+The ON button turns the channel on and off by means of electronic
+switching. The channel is on when the ON button is lit. The mic channels
+can also be programmed (as mentioned in the previous chapter) to activate
+monitor mute and on air tally.
+
+page  3 – 4
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+Master Section
+The Master section includes the monitor, headphone, and meters controls.
+
+page  3 – 5
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+Monitor
+This is the console operator’s monitor that
+allows the operator to listen to the console’s two
+stereo Program outputs and an external stereo
+line level input. This section of the console
+includes the faders for the monitor and headphone, and a cue level control for cue circuits.
+In a typical radio application the console is
+located in the Control Room. Speakers in the
+Control Room allow the console operator to
+listen to the console bus outputs to be assured
+that the console is performing as desired. These
+speakers are fed by a stereo signal from the console’s monitor output. In
+addition to the monitor output, the operator may also desire to listen to specific
+isolated faders via the cue system and an external cue speaker, or may want to
+listen via headphones. Thus, the control room monitor consists of the above
+controls, along with two program assign (PGM 1 and PGM 2) buttons, and an
+external input (EXT) button.
+In some instances the console operator may also be performing talent whose
+voice will be heard over the radio. The operator’s microphone may thus provide
+a part of the signal that is going out over the air. If that signal is the one being
+monitored with the Control Room speakers, there is the potential for feedback.
+The amplified signal from the Control Room speakers is picked up by the
+microphone and preamplified to a new, higher, level, which then is once again
+picked up by the microphone. The signal quickly rises to an ear-splitting
+screech. To prevent this, the operator’s microphone is normally set to MUTE
+the monitor output to prevent the occurrence of feedback.
+The master CUE circuit can be programmed to interrupt monitor feed, or
+provide a split feed (program mono sum to right, cue to left) to the monitor
+speakers. It also automatically interrupts the headphone feed, either in split
+mode (by default) or both sides.
+Program Select
+Pressing either of the two program (PGM 1 or PGM 2) switches allows the
+operator to listen to the selected output bus. The button will be lit when the
+monitor is assigned to its respective bus.
+EXT Switch
+Pressing the EXT switch allows the operator to pick up the external input
+(useful for such items as tape recorders or air returns) to listen.
+Monitor Fader
+The MON fader determines the overall loudness of the signal being
+monitored as it appears in the Monitor speakers. As the fader slides up, the
+loudness increases up to a maximum at the top position. To decrease the
+loudness, slide the fader down.
+NOTE: If the Monitor is muted and you slide the fader all the way up, then
+remove the condition that has the Monitor muted, the sound in the Monitor
+speakers will suddenly be VERY LOUD!
+
+page  3 – 6
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+CUE Level Control
+The CUE level control determines the overall loudness of the cue signal.
+Headphone Fader
+The HDPN fader determines the overall loudness of the headphone output
+signal, which monitors the same source (PGM 1, PGM 2, or EXT) as the
+Monitor speakers.
+The headphone output signal appears at the HEADPHONE JACK, located
+on the back of the console as indicated in Chapter 1. The jack is provided as
+a place to plug in user-supplied stereo headphones. High impedance headphones work best; as the headphone impedance is reduced below about
+200 ohms the available level decreases.
+Meters
+The METERS section consists of one 10-segment VU meter pair on the
+console’s meterbridge and a METERS select buttons (PGM 1, PGM 2, and
+EXT), located on the Master section.
+VU Meter Pair
+The VU meter pair is a stereo LED bargraph type meter.
+The level of the signal being metered is indicated by the number of display
+elements that are lighted. The more elements lighted, the stronger is the signal
+being displayed. The right two LEDs in each bargraph are red to indicate when
+the signal level is approaching a clipping (distorted) level. The next two LEDs
+
+page  3 – 7
+AIR 1 / Dec 2007
+C O N T R O L S A N D F U N C T I O N S
+are yellow, indicating a normal level range, and the remaining LEDs are
+green. The left member of the pair indicates the level of the selected signal’s
+left channel, while the right member of the pair indicates the level of the
+selected signal’s right channel.
+METER Select Buttons
+The METER buttons (PGM 1, PGM 2, or EXT) select the source for the
+meter pair, as indicated above.
+On Air LED
+The ON AIR LED, located in the middle of the meterbridge, lights up
+when either of the two MIC channels is programmed by slide switch to have
+the MONITOR MUTE activated, and is also ON.
+
+page  4 – 1
+AIR 1 / Dec 2007
+S C H E M A T I C D R A W I N G S
+Schematic and Load Sheet
+Drawings
+Chapter Contents
+Console Flow Diagram .................................................................4-2
+MBA1-1 Mother Board
+Schematic ................................................................................................................. 4-3
+Load Sheet............................................................................................................... 4-11
+VUA1-2 Meters PCB
+Schematic ................................................................................................................ 4-12
+Load Sheet............................................................................................................... 4-13
+
+AIR 1 / Dec 2007
+page 4 - 2
+ON MBA1-1 PCB
+AIR 1
+System Flow Diagram
+F
+A
+D
+E
+R
+MIC CHANNEL
+MIC MUTE
+SLIDE SW
+PGM 2
+MIC 1
+MUTE/TALLY BUS
+XLR
+PGM
+FET
+SW
+PGM 1 ACN
+PGM 2 ACN
+PGM 1
+LOGIC
+ON/OFF
+R
+L
+CR MONITOR
+FET
+SW
+PGM 1 LT MON
+CR
+PGM 1 RT MON
+PGM 2 LT MON
+PGM 2 RT MON
+CUE TO MON
+CUE TO MON SPLT
+ON AIR TALLY
+PGM 2
+PGM 1
+EXT
+ON MBA1-1 PCB
+CUE TO MON
+ENABLE
+SLIDE SW
+ON MBA1-1 PCB
+MON SPLIT
+MODE
+SLIDE SW
+CUE SENSE
+LOGIC
+CUE MON
+SW
+FET
+FET
+R
+L
+CUE MON
+HDPN OUT
+R
+L
+HDPN
+JACK
+SW
+CUE SENSE
+LOGIC
+HEADPHONE
+R
+L
+EXT LT MON
+MUTE / TALLY BUS
+F
+A
+D
+E
+R
+INPUT CHANNEL
+PGM 2
+L
+R
+L
+R
+LINE INPUT
+PGM
+FET
+SW
+PGM 1 ACN
+PGM 2 ACN
+CUE ACN
+LT
+CUE
+FET
+SW
+PGM 1
+LOGIC
+ON/OFF
+CUE
+LOGIC
+CUE SENSE
+H
+L
+RT
+H
+L
+LINE LT GAIN
+SW
+1/4" RTS
+LINE RT GAIN
+SW
+H
+L
+TRIM
+PROGRAM
+L
+R
+PGM 1 ACN
+R
+L
+R
+L
+R
+PGM 2 ACN
+R
+PGM  2 LT MONITOR
+L
+L
+PGM 2 RT MONITOR
+SLIDE SW
+SLIDE SW
+PGM 2 LT OUT
+L
+H
+PGM 2 RT OUT
+L
+1/4" RTS
+EXT LT MONITOR
+EXT LT MONITOR
+EXTERNAL IN
+L
+R
+EXT IN
+LT
+H
+L
+RT
+H
+L
+EXT LT GAIN
+SW
+1/4" RTS
+EXT RT GAIN
+SW
+R
+PGM 1 LT MONITOR
+L
+PGM 1 RT MONITOR
+PGM 1 LT OUT
+L
+H
+H
+PGM 1 RT OUT
+L
+1/4" RTS
+H
+SWITCHED 
+METERS
+TO BRIDGE
+FET
+SW
+VU
+PGM 2 LT MON
+PGM 2 RT MON
+R
+L
+EXT LT MON
+EXT RT MON
+EXT
+LOGIC
+PGM 1
+N.O.
+DRY
+RELAY
+TO TALLY LED
+ TO BRIDGE
+MUTE/TALLY BUSS
+LOGIC
+DRIVER
+VU METERS
+PGM 1 LT MON
+PGM 1 RT MON
+PGM 2
+TALLY
+1/4" RTS
+ON MBA1-1 PCB
+HDPN SPLIT
+MODE
+SLIDE SW
+F
+A
+D
+E
+R
+F
+A
+D
+E
+R
+CR LT OUT
+L
+H
+H
+CR RT OUT
+L
+1/4" RTS
+1/4" RTS
+CUE OUT
+L
+E
+V
+E
+L
+CUE ACN
+CUE MON
+CUE
+EXT RT MON
+
+1 OF 8
+MBA1-1
+W# 700928
+22S1001-1
+10-20-07
+MBA1-1 PCB
+AIR 1/ Dec 2007
+page 4 - 3
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+CT3
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT3
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT4
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT4
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT5
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT5
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT6
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT6
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT7
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT7
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT8
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT8
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT9
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT9
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT10
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT10
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT11
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT11
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT12
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT12
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT13
+1B
+2B
+3B
+4B
+5B
+6B
+SS
+RS
+TS
+R
+T
+S
+CT13
+1A
+2A
+3A
+4A
+5A
+6A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+CT14
+6B
+5B
+4B
+3B
+2B
+1B
+SS
+RS
+TS
+R
+T
+S
+CT14
+6A
+5A
+4A
+3A
+2A
+1A
+SS
+RS
+TS
+R
+T
+S
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+CT1
+1
+2
+3
+AGND
+CT2
+3
+2
+1
+LINE3_LT_HI
+LINE3_LT_LO
+LINE3_RT_HI
+LINE3_RT_LO
+LINE4_LT_HI
+LINE4_LT_LO
+LINE4_RT_HI
+LINE4_RT_LO
+LINE5_LT_HI
+LINE5_LT_LO
+LINE5_RT_HI
+LINE5_RT_LO
+LINE6_LT_HI
+LINE6_LT_LO
+LINE6_RT_HI
+LINE6_RT_LO
+LINE7_LT_HI
+LINE7_LT_LO
+LINE7_RT_HI
+LINE7_RT_LO
+LINE8_LT_HI
+LINE8_LT_LO
+LINE8_RT_HI
+LINE8_RT_LO
+EXT_LT_HI
+EXT_LT_LO
+EXT_RT_HI
+EXT_RT_LO
+PGM1_LT_HI
+PGM1_LT_LO
+PGM1_RT_HI
+PGM1_RT_LO
+PGM2_LT_HI
+PGM2_LT_LO
+PGM2_RT_HI
+PGM2_RT_LO
+MON_LT_OUT
+MON_RT_OUT
+CUE_OUT
+HDPN_LT
+HDPN_RT
+TALLY_NO
+TALLY_C
+MIC1_IN_HI
+MIC1_IN_LO
+MIC2_IN_HI
+MIC2_IN_LO
+CUE OUT
+HDPN OUT
+EXT IN
+PGM 1 OUT
+PGM 2 OUT
+TALLY OUT
+NOT USED
+MONITOR OUT
+LINE "6" IN
+LINE "7" IN
+LINE "8" IN
+LINE "5" IN
+LINE "4" IN
+LINE "3" IN
+MIC "1" IN
+-50dBu BAL
+LO
+HI
+HI
+LO
+-50dBu BAL
+MIC "2" IN
+
+MBA1-1 PCB
+10-20-07
+22S1001-2
+W# 700928
+MBA1-1
+2 OF 8
+AIR 1/ Dec 2007
+page 4 - 4
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+SW43
+4
+3
+2
+1
+SW44
+4
+3
+2
+1
+SW45
+4
+3
+2
+1
+SW46
+4
+3
+2
+1
+SW48
+4
+3
+2
+1
+SW47
+4
+3
+2
+1
+SW38
+1
+2
+3
+4
+SW37
+1
+2
+3
+4
+SW36
+1
+2
+3
+4
+SW35
+1
+2
+3
+4
+SW20
+1
+2
+3
+4
+SW30
+1
+2
+3
+4
+SW19
+1
+2
+3
+4
+SW29
+1
+2
+3
+4
+SW18
+4
+3
+2
+1
+SW28
+4
+3
+2
+1
+SW25
+4
+3
+2
+1
+SW15
+4
+3
+2
+1
+SW26
+4
+3
+2
+1
+SW16
+4
+3
+2
+1
+SW27
+1
+2
+3
+4
+SW17
+1
+2
+3
+4
+R427 220
+220
+R118
+220
+R124
+R74 220
+R81 220
+R34 220
+R41 220
+R428 220
+220
+R131
+220
+R125
+R89 220
+R82 220
+R49 220
+R42 220
+R429 220
+220
+R119
+220
+R126
+R75 220
+R83 220
+R35 220
+R43 220
+R430 220
+220
+R133
+220
+R127
+R90 220
+R84 220
+R50 220
+R44 220
+R431 220
+R76 220
+R85 220
+R36 220
+R45 220
+R432 220
+R91 220
+R86 220
+R51 220
+R46 220
+C34
+0.22uF
+0.22uF
+C50
+0.22uF
+C75
+C321
+0.22uF
+R403
+1.00K
+1.00K
+R136
+R94
+1.00K
+R58
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+C26
+0.22uF
+0.22uF
+C60
+0.22uF
+C70
+C322
+0.22uF
+R404
+1.00K
+1.00K
+R137
+R95
+1.00K
+R59
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+C35
+0.22uF
+0.22uF
+C53
+C85
+0.22uF
+C324
+0.22uF
+R405
+1.00K
+1.00K
+R132
+R96
+1.00K
+R62
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+C27
+0.22uF
+0.22uF
+C58
+0.22uF
+C72
+C325
+0.22uF
+R406
+1.00K
+1.00K
+R138
+R99
+1.00K
+R63
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+C36
+0.22uF
+0.22uF
+C55
+C326
+0.22uF
+R407
+1.00K
+R97
+1.00K
+R64
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+C28
+0.22uF
+0.22uF
+C61
+C327
+0.22uF
+R408
+1.00K
+R98
+1.00K
+R65
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+R419 100
+R418 100
+R416 100
+R415 100
+R413 100
+R414 100
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+CT15
+1
+2
+3
+4
+5
+SW49
+1
+2
+3
+4
+SW39
+4
+3
+2
+1
+SW21
+4
+3
+2
+1
+SW31
+4
+3
+2
+1
+R426 220
+220
+R130
+220
+R123
+R88 220
+R80 220
+R48 220
+R40 220
+C25
+0.22uF
+0.22uF
+C59
+0.22uF
+C68
+C320
+0.22uF
+R402
+1.00K
+1.00K
+R135
+R93
+1.00K
+R55
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+R412 100
+VCC
+VCC
+VCC
+VCC
+SW50
+4
+3
+2
+1
+SW40
+1
+2
+3
+4
+SW22
+1
+2
+3
+4
+SW32
+1
+2
+3
+4
+R425 220
+220
+R117
+220
+R122
+R73 220
+R79 220
+R33 220
+R39 220
+C33
+0.22uF
+0.22uF
+C47
+0.22uF
+C74
+C319
+0.22uF
+R401
+1.00K
+1.00K
+R134
+R92
+1.00K
+R54
+1.00K
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+R411 100
+VCC
+VCC
+VCC
+VCC
+SW41
+1
+2
+3
+4
+SW23
+1
+2
+3
+4
+SW33
+1
+2
+3
+4
+220
+R129
+R87 220
+R47 220
+10.0K
+R121
+R78
+10.0K
+R38
+10.0K
+VCC
+VCC
+VCC
+SW42
+4
+3
+2
+1
+SW24
+4
+3
+2
+1
+SW34
+4
+3
+2
+1
+220
+R128
+R72 220
+R32 220
+10.0K
+R120
+R77
+10.0K
+R37
+10.0K
+VCC
+VCC
+VCC
+GND
+C3
+0.1uF
+V-in
+AGND
+C2
+0.1uF
+V+in
+AGND
+D+in
+GP2
+GP1
+C1
+0.1uF
+POLYSW
+F1
+1.0A
+POLYSW
+F2
+1.0A
+POLYSW
+F3
+1.0A
+CT17
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+CT16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+VCC
+GND
+VCC
+VCC
+VCC
+VCC
+VCC
+VCC
+GND
+GND
+GND
+GND
+GND
+GND
+VCC
+GND
+PGM1SW_1
+PGM2SW_1
+ONSW_1
+PGM1SW_2
+PGM2SW_2
+ONSW_2
+PGM1SW_3
+PGM2SW_3
+CUESW_3
+ONSW_3
+PGM1SW_4
+PGM2SW_4
+CUESW_4
+ONSW_4
+PGM1SW_5
+PGM2SW_5
+CUESW_5
+ONSW_5
+PGM1SW_6
+PGM2SW_6
+CUESW_6
+ONSW_6
+GND
+AGND
+D+in
+V-in
+V+in
+PGM1SW_7
+PGM2SW_7
+CUESW_7
+ONSW_7
+PGM1SW_8
+PGM2SW_8
+CUESW_8
+ONSW_8
+GND
+AGND
+VCC
+D+in
+V+
+V+in
+VV-in
+TALLY_LED
+ON/OFF
+CUE
+PGM-2
+PGM-1
+PGM-1
+PGM-2
+CUE
+ON/OFF
+ON/OFF
+CUE
+PGM-2
+PGM-1
+ON/OFF
+CUE
+PGM-2
+PGM-1
+ON/OFF
+PGM-2
+PGM-1
+PGM-1
+PGM-2
+ON/OFF
+INPUT 1
+INPUT 2
+INPUT 4
+INPUT 3
+INPUT 5
+INPUT 6
+INPUT 7
+ON/OFF
+CUE
+PGM-2
+PGM-1
+PGM-1
+PGM-2
+CUE
+ON/OFF
+INPUT 8
+MON/HDPN
+EXT
+PGM-2
+PGM-1
+PGM-1
+PGM-2
+EXT
+METERS
+PWR
+
+MBA1-1
+W# 700928
+22S1001-3
+10-20-07
+MBA1-1 PCB
+3 OF 8
+AIR 1/ Dec 2007
+page 4 - 5
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+VCC
+74LS74
+U8
+9
+8
+13
+12
+11
+10
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U8
+6
+5
+4
+3
+2
+1
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U21
+6
+5
+4
+3
+2
+1
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+10
+11
+12
+13
+8
+9
+U79
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+R417
+10.0K
+VCC
+GND
+VCC
+C323
+100uF
+VCC
+74LS74
+U7
+10
+11
+12
+13
+8
+9
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U7
+1
+2
+3
+4
+5
+6
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+6
+5
+4
+3
+2
+1
+U78
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+VCC
+74LS74
+U6
+9
+8
+13
+12
+11
+10
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U6
+6
+5
+4
+3
+2
+1
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U19
+10
+11
+12
+13
+8
+9
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+10
+11
+12
+13
+8
+9
+U28
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+1
+2
+3
+4
+5
+6
+U28
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U21
+10
+11
+12
+13
+8
+9
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+4
+2
+1
+3
+6
+5
+U79
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U20
+5
+6
+3
+1
+2
+4
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U20
+9
+8
+11
+13
+12
+10
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+5
+6
+3
+1
+2
+4
+U29
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+9
+8
+11
+13
+12
+10
+U29
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+10
+12
+13
+11
+8
+9
+U78
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+9
+8
+11
+13
+12
+10
+U77
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+5
+6
+3
+1
+2
+4
+U77
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U19
+6
+5
+4
+3
+2
+1
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+0.1uF
+C335
+VCC
+GND
+0.1uF
+C54
+VCC
+GND
+0.1uF
+C334
+VCC
+GND
+C38
+0.1uF
+VCC
+GND
+0.1uF
+C333
+VCC
+GND
+C37
+0.1uF
+VCC
+GND
+0.1uF
+C332
+VCC
+GND
+C39
+0.1uF
+VCC
+GND
+0.1uF
+C56
+VCC
+GND
+0.1uF
+C48
+VCC
+GND
+0.1uF
+C51
+VCC
+GND
+BAT54
+D20
+C40
+0.1uF
+VCC
+GND
+0.1uF
+C90
+VCC
+GND
+0.1uF
+C73
+VCC
+GND
+0.1uF
+C89
+VCC
+GND
+0.1uF
+C71
+VCC
+GND
+0.1uF
+C88
+VCC
+GND
+0.1uF
+C69
+VCC
+GND
+0.1uF
+C67
+VCC
+GND
+VCC
+74LS74
+U5
+10
+11
+12
+13
+8
+9
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U5
+1
+2
+3
+4
+5
+6
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U18
+9
+8
+13
+12
+11
+10
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+9
+8
+13
+12
+11
+10
+U27
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+6
+5
+4
+3
+2
+1
+U27
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+10
+12
+13
+11
+8
+9
+U76
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+4
+2
+1
+3
+6
+5
+U76
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U18
+1
+2
+3
+4
+5
+6
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS00
+U15
+3
+2
+1
+74LS00
+U15
+6
+5
+4
+74LS00
+U15
+8
+10
+9
+74LS00
+U15
+11
+13
+12
+74LS00
+U14
+1
+2
+3
+74LS00
+U14
+4
+5
+6
+74LS00
+U14
+9
+10
+8
+74LS00
+U14
+12
+13
+11
+74LS00
+U12
+3
+2
+1
+74LS00
+U12
+6
+5
+4
+74LS00
+U12
+8
+10
+9
+74LS00
+U12
+11
+13
+12
+74LS00
+U10
+1
+2
+3
+74LS00
+U10
+4
+5
+6
+74LS00
+U10
+9
+10
+8
+74LS00
+U10
+12
+13
+11
+SW10
+6
+5
+4
+3
+2
+1
+SW9
+1
+2
+3
+4
+5
+6
+FDN340P
+Q1
+VCC
+R1
+2.43K
+GND
+R3
+4.99K
+VCC
+R4 100
+R2 2.00K
+GND
+K1
+2
+3
+4
+7
+6
+5
+1
+8
+1N4002
+D1
+BAT54 D17
+BAT54 D16
+BAT54 D15
+BAT54 D14
+BAT54 D13
+BAT54 D12
+BAT54 D19
+BAT54 D18
+C31
+0.1uF
+VCC
+GND
+0.1uF
+C57
+VCC
+GND
+0.1uF
+C66
+VCC
+GND
+C80
+0.1uF
+VCC
+GND
+0.1uF
+C41
+VCC
+GND
+74ACT08
+U17
+1
+2
+3
+74ACT08
+U17
+4
+5
+6
+GND
+GND
+GND
+74ACT08
+U9
+8
+10
+9
+GND
+GND
+GND
+74LS74
+U16
+1
+2
+3
+4
+5
+6
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U4
+6
+5
+4
+3
+2
+1
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+1
+2
+3
+4
+5
+6
+U26
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U4
+9
+8
+11
+13
+12
+10
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+10
+12
+13
+11
+8
+9
+U26
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+74LS74
+U16
+10
+12
+13
+11
+8
+9
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+C8
+0.1uF
+VCC
+GND
+74ACT08
+U9
+3
+2
+1
+74ACT08
+U17
+8
+10
+9
+74ACT08
+U9
+6
+5
+4
+74ACT08
+U9
+11
+13
+12
+74ACT08
+U17
+11
+13
+12
+SW1
+6
+5
+4
+3
+2
+1
+10.0K
+R143
+VCC
+R142
+10.0K
+VCC
+PGM1_1
+PGM1_2
+PGM2_1
+PGM2_2
+ON_1
+ON_2
+PGM1SW_1
+PGM1SW_2
+PGM2SW_1
+PGM2SW_2
+ONSW_1
+ONSW_2
+PGM1SW_3
+PGM1SW_4
+PGM2SW_3
+PGM2SW_4
+CUESW_3
+CUESW_4
+ONSW_3
+ONSW_4
+PGM1_3
+PGM1_4
+PGM2_3
+PGM2_4
+ON_3
+ON_4
+PGM1SW_5
+PGM1SW_6
+PGM2SW_5
+PGM2SW_6
+CUESW_5
+CUESW_6
+ONSW_5
+ONSW_6
+PGM1_5
+PGM1_6
+PGM2_5
+PGM2_6
+ON_5
+ON_6
+PGM1SW_7
+PGM1SW_8
+PGM2SW_7
+PGM2SW_8
+CUESW_7
+CUESW_8
+ONSW_7
+ONSW_8
+PGM1_7
+PGM1_8
+PGM2_7
+PGM2_8
+ON_7
+ON_8
+PGM1_2
+ON_2
+ON_1
+PGM1_1
+PGM1_4
+ON_4
+ON_3
+PGM1_3
+PGM1_6
+ON_6
+ON_5
+PGM1_5
+PGM1_8
+ON_8
+ON_7
+PGM1_7
+ONAIR_TALLY
+TALLY_LED
+TALLY_NO
+TALLY_C
+ONAIR_TALLY
+PGM2_2
+PGM2_4
+PGM2_1
+PGM2_3
+PGM2_5
+PGM2_6
+PGM2_7
+PGM2_8
+CUE TO
+MONITOR
+ON AIR
+TALLY
+RELAY
+MIC2
+MUTE
+MIC1
+MUTE
+
+4 OF 8
+MBA1-1
+W# 700928
+22S1001-4
+10-20-07
+MBA1-1 PCB
+AIR 1/ Dec 2007
+page 4 - 6
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+330pF
+C13
+AGND
+L1
+L2
+SSM2017
+1
+2
+3
+4
+5
+6
+7
+8
+U1
+-2dBu
+VV+
+C5V1
+Z7
+5.1V
+C5V1
+Z1
+5.1V
+C5V1
+Z3
+5.1V
+C5V1
+Z5
+5.1V
+10
+R5
+AGND
+AGND
+AGND
+AGND
+10.0K
+R6
+10.0K
+R7
+AGND
+0.001uF
+C4
+AGND
+0.001uF
+C5
+1K
+3 2
+1
+CR1
+AGND
+330pF
+C14
+AGND
+L3
+L4
+SSM2017
+8
+7
+6
+5
+4
+3
+2
+1
+U2
+-2dBu
+VV+
+C5V1
+Z8
+5.1V
+C5V1
+Z2
+5.1V
+C5V1
+Z4
+5.1V
+C5V1
+Z6
+5.1V
+10
+R8
+AGND
+AGND
+AGND
+AGND
+10.0K
+R9
+10.0K
+R10
+AGND
+0.001uF
+C6
+AGND
+0.001uF
+C7
+1
+2
+3
+1K
+CR2
+10uF
+C9
+10uF
+C10
+10uF
+C11
+10uF
+C12
+C86
+22uF
+C87
+22uF
+AGND
+3
+1
+2
+CR4
+10K
+AGND
+2
+1
+3
+CR5
+10K
+22uF
+C308
+22uF
+C309
+22.1K
+R370
+22.1K
+R347
+88.7K
+R371
+AGND
+10pF
+C291
+AGND
+10pF
+C255
+88.7K
+R346
+100uF C273
+100uF C274
+V+
+V-
+-2dBu
+-2dBu
+5532
+2
+1
+3
+U63
+5532
+4
+8
+7
+6
+5
+U63
+-14dBu
+-14dBu
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R293
+20.0K
+R295
+10.0K
+R294
+10.0K
+R333
+10.0K
+R331
+10.0K
+R332
+4053
+6
+9
+3
+4
+5
+U48
+S
+INH
+X-Y
+Y
+X
+4053
+6
+10
+1
+15
+2
+U48
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+11
+14
+6
+12
+13
+U48
+S
+INH
+X-Y
+Y
+X
+4053
+6
+4
+9
+3
+5
+U60
+S
+INH
+X-Y
+Y
+X
+4053
+14
+6
+11
+13
+12
+U60
+S
+INH
+X-Y
+Y
+X
+4053
+6
+15
+10
+1
+2
+U60
+S
+INH
+X-Y
+Y
+X
+5532
+2
+1
+3
+U40
+22.1K
+R364
+88.7K
+R365
+88.7K
+R388
+10pF
+C271
+10pF
+C307
+22.1K
+R389
+20.0K
+R216
+20.0K
+R164
+20.0K
+R219
+20.0K
+R187
+5532
+4
+8
+7
+6
+5
+U40
+VV+
+0.001uF
+C187
+0.001uF
+C170
+AGND
+6.19K
+R236
+6.19K
+R185
+33pF
+C161
+3.92K
+R217
+3.92K
+R264
+3.32K
+R250
+33pF
+C125
+AGND
+-2dBu
+22uF C111
+AGND
+AGND
+AGND
+1
+2
+3
+SW8
+4
+5
+6
+SW8
+0.001uF
+C188
+0.001uF
+C163
+AGND
+6.19K
+R237
+6.19K
+R186
+33pF
+C162
+3.92K
+R218
+3.92K
+R265
+3.32K
+R251
+33pF
+C140
+AGND
+-2dBu
+22uF C112
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+5
+6
+7
+8
+4
+U72
+5532
+3
+1
+2
+U72
+-2dBu
+-2dBu
+VV+
+100uF C253
+100uF C254
+AGND
+AGND
+22uF
+C288
+22uF
+C289
+B1
+B3 B2
+CR6
+10K
+A3
+A1 A2
+CR6
+10K
+AGND
+AGND
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R290
+20.0K
+R292
+10.0K
+R291
+10.0K
+R330
+10.0K
+R328
+10.0K
+R329
+4053
+6
+9
+3
+4
+5
+U47
+S
+INH
+X-Y
+Y
+X
+4053
+6
+10
+1
+15
+2
+U47
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+11
+14
+6
+12
+13
+U47
+S
+INH
+X-Y
+Y
+X
+4053
+6
+4
+9
+3
+5
+U59
+S
+INH
+X-Y
+Y
+X
+4053
+14
+6
+11
+13
+12
+U59
+S
+INH
+X-Y
+Y
+X
+4053
+6
+15
+10
+1
+2
+U59
+S
+INH
+X-Y
+Y
+X
+5532
+2
+1
+3
+U39
+22.1K
+R362
+88.7K
+R363
+88.7K
+R386
+10pF
+C269
+10pF
+C305
+22.1K
+R387
+20.0K
+R212
+20.0K
+R163
+20.0K
+R215
+20.0K
+R184
+5532
+4
+8
+7
+6
+5
+U39
+VV+
+0.001uF
+C185
+0.001uF
+C169
+AGND
+6.19K
+R234
+6.19K
+R182
+33pF
+C158
+3.92K
+R213
+3.92K
+R262
+3.32K
+R248
+33pF
+C123
+AGND
+-2dBu
+22uF C109
+AGND
+AGND
+AGND
+1
+2
+3
+SW7
+4
+5
+6
+SW7
+0.001uF
+C186
+0.001uF
+C160
+AGND
+6.19K
+R235
+6.19K
+R183
+33pF
+C159
+3.92K
+R214
+3.92K
+R263
+3.32K
+R249
+33pF
+C138
+AGND
+-2dBu
+22uF C110
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+5
+6
+7
+8
+4
+U71
+5532
+3
+1
+2
+U71
+-2dBu
+-2dBu
+VV+
+100uF C251
+100uF C252
+AGND
+AGND
+22uF
+C286
+22uF
+C287
+B1
+B3 B2
+CR7
+10K
+A3
+A1 A2
+CR7
+10K
+AGND
+AGND
+10.0K
+R296
+10.0K
+R336
+10.0K
+R334
+10.0K
+R335
+4053
+5
+4
+3
+9
+6
+U49
+S
+INH
+X-Y
+Y
+X
+4053
+2
+15
+1
+10
+6
+U49
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+13
+12
+6
+14
+11
+U49
+S
+INH
+X-Y
+Y
+X
+4053
+5
+3
+9
+4
+6
+U61
+S
+INH
+X-Y
+Y
+X
+4053
+12
+13
+11
+6
+14
+U61
+S
+INH
+X-Y
+Y
+X
+4053
+2
+1
+10
+15
+6
+U61
+S
+INH
+X-Y
+Y
+X
+AGND
+10.0K
+R297
+10.0K
+R339
+10.0K
+R337
+10.0K
+R338
+4053
+6
+9
+3
+4
+5
+U50
+S
+INH
+X-Y
+Y
+X
+4053
+6
+10
+1
+15
+2
+U50
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+11
+14
+6
+12
+13
+U50
+S
+INH
+X-Y
+Y
+X
+4053
+6
+4
+9
+3
+5
+U62
+S
+INH
+X-Y
+Y
+X
+4053
+14
+6
+11
+13
+12
+U62
+S
+INH
+X-Y
+Y
+X
+4053
+6
+15
+10
+1
+2
+U62
+S
+INH
+X-Y
+Y
+X
+AGND
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+AGND
+SH
+MIC1_IN_HI
+MIC1_IN_LO
+MIC2_IN_HI
+MIC2_IN_LO
+LINE3_LT_HI
+LINE3_LT_LO
+LINE3_RT_HI
+LINE3_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINE4_LT_HI
+LINE4_LT_LO
+LINE4_RT_HI
+LINE4_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+PGM2RTACN
+PGM2LTACN
+PGM1RTACN
+PGM1LTACN
+-50dBu BAL
+-50dBu BAL
++4dBu BAL
+MIC 1
+MIC 2
+LINE 3 IN
+LINE 4 IN
+LINE
+4 RT
+GAIN
++4dBu BAL
+CH 4
++4dBu BAL
+LINE
+4 LT
+GAIN
+LINE
+3 RT
+GAIN
++4dBu BAL
+CH 3
+LINE
+3 LT
+GAIN
+MIC 1
+GAIN
+TRIM
+MIC 2
+GAIN
+TRIM
+OUT OF PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+CH 1
+CH 2
+
+5 OF 8
+MBA1-1 PCB
+10-20-07
+22S1001-5
+W# 700928
+MBA1-1
+AIR 1/ Dec 2007
+page 4 - 7
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R287
+20.0K
+R289
+10.0K
+R288
+10.0K
+R327
+10.0K
+R325
+10.0K
+R326
+4053
+5
+4
+3
+9
+6
+U46
+S
+INH
+X-Y
+Y
+X
+4053
+2
+15
+1
+10
+6
+U46
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+13
+12
+6
+14
+11
+U46
+S
+INH
+X-Y
+Y
+X
+4053
+5
+3
+9
+4
+6
+U58
+S
+INH
+X-Y
+Y
+X
+4053
+12
+13
+11
+6
+14
+U58
+S
+INH
+X-Y
+Y
+X
+4053
+2
+1
+10
+15
+6
+U58
+S
+INH
+X-Y
+Y
+X
+5532
+3
+1
+2
+U38
+22.1K
+R360
+88.7K
+R361
+88.7K
+R384
+10pF
+C267
+10pF
+C303
+22.1K
+R385
+20.0K
+R208
+20.0K
+R162
+20.0K
+R211
+20.0K
+R181
+5532
+5
+6
+7
+8
+4
+U38
+VV+
+0.001uF
+C183
+0.001uF
+C168
+AGND
+6.19K
+R232
+6.19K
+R179
+33pF
+C155
+3.92K
+R209
+3.92K
+R260
+3.32K
+R246
+33pF
+C121
+AGND
+-2dBu
+22uF C107
+AGND
+AGND
+AGND
+3
+2
+1
+SW6
+6
+5
+4
+SW6
+0.001uF
+C184
+0.001uF
+C157
+AGND
+6.19K
+R233
+6.19K
+R180
+33pF
+C156
+3.92K
+R210
+3.92K
+R261
+3.32K
+R247
+33pF
+C136
+AGND
+-2dBu
+22uF C108
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+4
+8
+7
+6
+5
+U70
+5532
+2
+1
+3
+U70
+-2dBu
+-2dBu
+VV+
+100uF C249
+100uF C250
+AGND
+AGND
+22uF
+C284
+22uF
+C285
+B2
+B3
+B1
+CR8
+10K
+A2
+A1
+A3
+CR8
+10K
+AGND
+AGND
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R284
+20.0K
+R286
+10.0K
+R285
+10.0K
+R324
+10.0K
+R322
+10.0K
+R323
+4053
+5
+4
+3
+9
+6
+U45
+S
+INH
+X-Y
+Y
+X
+4053
+2
+15
+1
+10
+6
+U45
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+13
+12
+6
+14
+11
+U45
+S
+INH
+X-Y
+Y
+X
+4053
+5
+3
+9
+4
+6
+U57
+S
+INH
+X-Y
+Y
+X
+4053
+12
+13
+11
+6
+14
+U57
+S
+INH
+X-Y
+Y
+X
+4053
+2
+1
+10
+15
+6
+U57
+S
+INH
+X-Y
+Y
+X
+5532
+3
+1
+2
+U37
+22.1K
+R358
+88.7K
+R359
+88.7K
+R382
+10pF
+C265
+10pF
+C301
+22.1K
+R383
+20.0K
+R204
+20.0K
+R161
+20.0K
+R207
+20.0K
+R178
+5532
+5
+6
+7
+8
+4
+U37
+VV+
+0.001uF
+C181
+0.001uF
+C167
+AGND
+6.19K
+R230
+6.19K
+R176
+33pF
+C152
+3.92K
+R205
+3.92K
+R258
+3.32K
+R244
+33pF
+C119
+AGND
+-2dBu
+22uF C105
+AGND
+AGND
+AGND
+3
+2
+1
+SW5
+6
+5
+4
+SW5
+0.001uF
+C182
+0.001uF
+C154
+AGND
+6.19K
+R231
+6.19K
+R177
+33pF
+C153
+3.92K
+R206
+3.92K
+R259
+3.32K
+R245
+33pF
+C134
+AGND
+-2dBu
+22uF C106
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+4
+8
+7
+6
+5
+U69
+5532
+2
+1
+3
+U69
+-2dBu
+-2dBu
+VV+
+100uF C247
+100uF C248
+AGND
+AGND
+22uF
+C282
+22uF
+C283
+B2
+B3
+B1
+CR9
+10K
+A2
+A1
+A3
+CR9
+10K
+AGND
+AGND
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R281
+20.0K
+R283
+10.0K
+R282
+10.0K
+R321
+10.0K
+R319
+10.0K
+R320
+4053
+5
+4
+3
+9
+6
+U44
+S
+INH
+X-Y
+Y
+X
+4053
+2
+15
+1
+10
+6
+U44
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+13
+12
+6
+14
+11
+U44
+S
+INH
+X-Y
+Y
+X
+4053
+5
+3
+9
+4
+6
+U56
+S
+INH
+X-Y
+Y
+X
+4053
+12
+13
+11
+6
+14
+U56
+S
+INH
+X-Y
+Y
+X
+4053
+2
+1
+10
+15
+6
+U56
+S
+INH
+X-Y
+Y
+X
+5532
+3
+1
+2
+U36
+22.1K
+R356
+88.7K
+R357
+88.7K
+R380
+10pF
+C263
+10pF
+C299
+22.1K
+R381
+20.0K
+R200
+20.0K
+R160
+20.0K
+R203
+20.0K
+R175
+5532
+5
+6
+7
+8
+4
+U36
+VV+
+0.001uF
+C179
+0.001uF
+C166
+AGND
+6.19K
+R228
+6.19K
+R173
+33pF
+C149
+3.92K
+R201
+3.92K
+R256
+3.32K
+R242
+33pF
+C117
+AGND
+-2dBu
+22uF C103
+AGND
+AGND
+AGND
+3
+2
+1
+SW4
+6
+5
+4
+SW4
+0.001uF
+C180
+0.001uF
+C151
+AGND
+6.19K
+R229
+6.19K
+R174
+33pF
+C150
+3.92K
+R202
+3.92K
+R257
+3.32K
+R243
+33pF
+C132
+AGND
+-2dBu
+22uF C104
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+4
+8
+7
+6
+5
+U68
+5532
+2
+1
+3
+U68
+-2dBu
+-2dBu
+VV+
+100uF C245
+100uF C246
+AGND
+AGND
+22uF
+C280
+22uF
+C281
+B2
+B3
+B1
+CR10
+10K
+A2
+A1
+A3
+CR10
+10K
+AGND
+AGND
+SH
+SH
+LO
+LO
+HI
+LO
+LO
+HI
+20.0K
+R278
+20.0K
+R280
+10.0K
+R279
+10.0K
+R318
+10.0K
+R316
+10.0K
+R317
+4053
+6
+9
+3
+4
+5
+U43
+S
+INH
+X-Y
+Y
+X
+4053
+6
+10
+1
+15
+2
+U43
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+11
+14
+6
+12
+13
+U43
+S
+INH
+X-Y
+Y
+X
+4053
+6
+4
+9
+3
+5
+U55
+S
+INH
+X-Y
+Y
+X
+4053
+14
+6
+11
+13
+12
+U55
+S
+INH
+X-Y
+Y
+X
+4053
+6
+15
+10
+1
+2
+U55
+S
+INH
+X-Y
+Y
+X
+5532
+2
+1
+3
+U35
+22.1K
+R354
+88.7K
+R355
+88.7K
+R378
+10pF
+C261
+10pF
+C297
+22.1K
+R379
+20.0K
+R196
+20.0K
+R159
+20.0K
+R199
+20.0K
+R172
+5532
+4
+8
+7
+6
+5
+U35
+VV+
+0.001uF
+C177
+0.001uF
+C165
+AGND
+6.19K
+R226
+6.19K
+R170
+33pF
+C146
+3.92K
+R197
+3.92K
+R254
+3.32K
+R240
+33pF
+C115
+AGND
+-2dBu
+22uF C101
+AGND
+AGND
+AGND
+1
+2
+3
+SW3
+4
+5
+6
+SW3
+0.001uF
+C178
+0.001uF
+C148
+AGND
+6.19K
+R227
+6.19K
+R171
+33pF
+C147
+3.92K
+R198
+3.92K
+R255
+3.32K
+R241
+33pF
+C130
+AGND
+-2dBu
+22uF C102
+AGND
+AGND
+AGND
+-14dBu
+-14dBu
+5532
+5
+6
+7
+8
+4
+U67
+5532
+3
+1
+2
+U67
+-2dBu
+-2dBu
+VV+
+100uF C243
+100uF C244
+AGND
+AGND
+22uF
+C278
+22uF
+C279
+B1
+B3 B2
+CR11
+10K
+A3
+A1 A2
+CR11
+10K
+AGND
+AGND
+LINE5_LT_HI
+LINE5_LT_LO
+LINE5_RT_HI
+LINE5_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINE6_LT_HI
+LINE6_LT_LO
+LINE6_RT_HI
+LINE6_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINE7_LT_HI
+LINE7_LT_LO
+LINE7_RT_HI
+LINE7_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINE8_LT_HI
+LINE8_LT_LO
+LINE8_RT_HI
+LINE8_RT_LO
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINE 8 IN
+LINE 6 IN
+LINE 5 IN
+LINE 7 IN
+LINE
+7 LT
+GAIN
++4dBu BAL
+CH 7
++4dBu BAL
+LINE
+7 RT
+GAIN
+LINE
+6 LT
+GAIN
++4dBu BAL
+CH 6
++4dBu BAL
+LINE
+6 RT
+GAIN
+LINE
+5 LT
+GAIN
++4dBu BAL
+CH 5
++4dBu BAL
+LINE
+5 RT
+GAIN
+OUT OF PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+LINE
+8 RT
+GAIN
++4dBu BAL
+CH 8
++4dBu BAL
+LINE
+8 LT
+GAIN
+
+6 OF 8
+MBA1-1 PCB
+10-20-07
+22S1001-6
+W# 700928
+MBA1-1
+AIR 1/ Dec 2007
+page 4 - 8
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+AGND
+R114
+100K
+AGND
+4148 D11
+4148
+D6
+4148
+D7
+4148 D8
+4148 D9
+AGND
+AGND
+V+
+VTL072
+3
+2
+1
+8
+4
+U23
+TL072
+5
+6
+7
+U23
+R115 20.0K
+1uF
+C44
+1.00K
+R104
+3.32K
+R61
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+GND
+LM3915
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+U13
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+1.69K
+R60
+562
+R69
+1500uF
+C32
+GND
+VCC
+10.0K
+R106
+R116 10.0K
+10.0K
+R107
+20.0K
+R105
+332
+R27
+332
+R28
+619
+R23
+619
+R24
+619
+R22
+619
+R25
+332
+R29
+332
+R30
+332
+R31
+332
+R26
+C52
+1uF
+562
+R71
+AGND
+R111
+100K
+AGND
+4148 D10
+4148
+D2
+4148
+D3
+4148 D4
+4148 D5
+AGND
+AGND
+V+
+VTL072
+4
+8
+1
+2
+3
+U22
+TL072
+7
+6
+5
+U22
+R112 20.0K
+1uF
+C43
+1.00K
+R100
+3.32K
+R57
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+GND
+LM3915
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+U11
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+1.69K
+R56
+562
+R68
+10.0K
+R102
+R113 10.0K
+10.0K
+R103
+20.0K
+R101
+332
+R16
+332
+R17
+619
+R12
+619
+R13
+619
+R11
+619
+R14
+332
+R18
+332
+R19
+332
+R20
+332
+R15
+C49
+1uF
+562
+R70
+AGND
+0.1uF
+C83
+0.1uF
+C82
+0.1uF
+C81
+0.1uF
+C84
+C5V1
+Z9
+5.1V
+C5V1
+Z10
+5.1V
+VEE
+VDD
+R157
+1.30K
+R156
+1.30K
+AGND
+C97
+0.22uF
+C98
+0.22uF
+VV+
+C91
+22uF
+C92
+22uF
+0.1uF
+C21
+0.1uF
+C20
+0.1uF
+C19
+0.1uF
+C18
+0.1uF
+C290
+0.1uF
+C256
+330uF
+C15
+330uF
+C16
+0.22uF
+C200
+0.22uF
+C211
+0.22uF
+C230
+0.22uF
+C241
+0.22uF
+C199
+0.22uF
+C210
+0.22uF
+C229
+0.22uF
+C240
+0.22uF
+C198
+0.22uF
+C209
+0.22uF
+C228
+0.22uF
+C239
+VV+
+0.1uF
+C306
+0.1uF
+C272
+C139
+0.1uF
+C126
+0.1uF
+0.1uF
+C304
+0.1uF
+C270
+C137
+0.1uF
+C124
+0.1uF
+0.1uF
+C302
+0.1uF
+C268
+C135
+0.1uF
+C122
+0.1uF
+0.1uF
+C300
+0.1uF
+C266
+C133
+0.1uF
+C120
+0.1uF
+0.22uF
+C197
+0.22uF
+C208
+0.22uF
+C227
+0.22uF
+C238
+0.1uF
+C298
+0.1uF
+C264
+C131
+0.1uF
+C118
+0.1uF
+0.22uF
+C196
+0.22uF
+C207
+0.22uF
+C226
+0.22uF
+C237
+0.1uF
+C296
+0.1uF
+C262
+C129
+0.1uF
+C116
+0.1uF
+0.22uF
+C195
+0.22uF
+C206
+0.22uF
+C225
+0.22uF
+C236
+0.22uF
+C231
+0.22uF
+C242
+0.22uF
+C201
+0.22uF
+C212
+C127
+0.1uF
+C114
+0.1uF
+0.1uF
+C294
+0.1uF
+C260
+0.1uF
+C292
+0.1uF
+C258
+0.1uF
+C217
+0.1uF
+C203
+0.1uF
+C215
+0.1uF
+C205
+0.1uF
+C189
+0.1uF
+C172
+0.1uF
+C191
+0.1uF
+C174
+0.1uF
+C232
+0.1uF
+C220
+0.1uF
+C234
+0.1uF
+C222
+0.1uF
+C328
+0.1uF
+C313
+0.1uF
+C29
+0.1uF
+C23
+AGND
+V+
+VC62 33pF
+AGND
+33pF
+C77
+R149 10.0K
+R146 10.0K
+GND
+AGND
+R147 10.0K
+R148 10.0K
+4053
+U31
+13
+12
+6
+14
+11 S
+INH
+X-Y
+Y
+X
+4053
+U31
+2
+15
+1
+10
+6
+S
+INH
+X-Y
+Y
+X
+4053
+U30
+5
+4
+3
+9
+6
+S
+INH
+X-Y
+Y
+X
+4053
+U31
+5
+4
+3
+9
+6
+S
+INH
+X-Y
+Y
+X
+5532
+U24
+3
+1
+2
+5532
+U24
+5
+6
+7
+8
+4
+R108 10.0K
+R139 10.0K
+4053
+U30
+11
+14
+6
+12
+13
+S
+INH
+X-Y
+Y
+X
+4053
+U30
+6
+10
+1
+15
+2
+S
+INH
+X-Y
+Y
+X
+R145 10.0K
+R144 10.0K
+0.1uF
+C78
+C65
+0.1uF
+0.22uF
+C310
+0.22uF
+C311
+R109 100
+R140 100
+C94
+0.22uF
+C93
+0.22uF
+0.1uF
+C330
+0.1uF
+C315
+C96
+0.22uF
+C95
+0.22uF
+0.1uF
+C76
+C63
+0.1uF
+SWTLTVU
+SWTRTVU
+SWTRTVU
+PGM1LTMON
+PGM1RTMON
+PGM2LTMON
+EXTLTMON
+EXTRTMON
+PGM2RTMON
+SWTLTVU
+-21dB
+-18dB
+-15dB
+-12dB
+-9dB
+-6dB
+-3dB
+0dB
++3dB
++6dB
+LEFT
+RIGHT
++6dB
++3dB
+0dB
+-3dB
+-6dB
+-9dB
+-12dB
+-15dB
+-18dB
+-21dB
+IN PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+OUT OF PHASE
+
+MBA1-1
+W# 700928
+22S1001-7
+10-20-07
+MBA1-1 PCB
+7 OF 8
+AIR-1/Oct 2007
+page 4 - 9
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+SW12
+4
+5
+6
+1
+2
+3
+SW11
+4
+5
+6
+1
+2
+3
+AGND
+CR3
+3
+1
+2
+10K
+AGND
+V+
+V-
+-2dBu
+5532
+U54
+3
+2
+1
+8
+4
+5532
+U54
+7
+6
+5
+C235 33pF
+R311 10.0K
+R314 10
+R301 47
+AGND
+-2dBu
+C221 33pF
+R305 10
+R300 4.99K
+R304 4.99K
+R277 47
+AGND
+V+
+V-
+-2dBu
+5532
+U53
+3
+2
+1
+8
+4
+5532
+U53
+7
+6
+5
+C233 33pF
+R309 10.0K
+R312 10
+R299 47
+AGND
+-2dBu
+C219 33pF
+R303 10
+R298 4.99K
+R302 4.99K
+R276 47
+AGND
+V+
+V-
+-2dBu
+5532
+U42
+4
+8
+1
+2
+3
+5532
+U42
+5
+6
+7
+C192 33pF
+R269 10.0K
+R272 10
+R191 47
+AGND
+-2dBu
+C173 33pF
+R223 10
+R190 4.99K
+R222 4.99K
+47
+R166
+AGND
+V+
+V-
+-2dBu
+5532
+U41
+3
+2
+1
+8
+4
+5532
+U41
+7
+6
+5
+C190 33pF
+R267 10.0K
+R270 10
+R189 47
+AGND
+-2dBu
+C171 33pF
+R221 10
+R188 4.99K
+R220 4.99K
+47
+R165
+R310 4.99K
+R308 4.99K
+R268 4.99K
+R266 4.99K
+R315 10.0K
+R313 10.0K
+R273 10.0K
+R271 10.0K
+AGND
+C218 33pF
+AGND
+C204 33pF
+R275 10.0K
+R307 10.0K
+AGND
+C216 33pF
+AGND
+C202 33pF
+R274 10.0K
+R306 10.0K
+C194
+22uF
+C224
+22uF
+C193
+22uF
+C223
+22uF
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+C214
+22uF
+C213
+22uF
+22uF C142
+22uF C141
+5532
+U52
+4
+8
+1
+3
+2
+5532
+U51
+4
+8
+1
+3
+2
+V+
+VV+
+V5532
+U52
+7
+5
+6
+5532
+U51
+7
+5
+6
+AGND
+C22 33pF
+R21 10.0K
+C17
+22uF
+-2dBu
+5532
+U3
+6
+5
+7
+AGND
+V+
+V-
+-2dBu
+5532
+U3
+4
+8
+1
+2
+3
+R67 10
+C24
+22uF
+R53 88.7K
+R52 22.1K
+-14dBu
+C42 22uF
+C30 10pF
+R66 47
+5532
+3
+1
+2
+U34
+R192 20.0K
+20.0K
+R158
+R195 20.0K
+20.0K
+R169
+5532
+5
+6
+7
+8
+4
+U34
+VV+
+C175
+0.001uF
+0.001uF
+C164
+R224 6.19K
+6.19K
+R167
+33pF
+C143
+R193
+3.92K
+R252
+3.92K
+R238
+3.32K
+33pF
+C113
+AGND
+-2dBu
+22uF C99
+AGND
+AGND
+AGND
+SW2
+3
+2
+1
+SW2
+6
+5
+4
+C176
+0.001uF
+0.001uF
+C145
+R225 6.19K
+6.19K
+R168
+33pF
+C144
+R194
+3.92K
+R253
+3.92K
+R239
+3.32K
+33pF
+C128
+AGND
+-2dBu
+22uF C100
+AGND
+AGND
+AGND
+SH
+SH
+AGND
+AGND
+LO
+HI
+LO
+HI
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+PGM1_LT_LO
+PGM1_LT_HI
+PGM1_RT_LO
+PGM1_RT_HI
+PGM2_LT_LO
+PGM2_LT_HI
+PGM2_RT_LO
+PGM2_RT_HI
+PGM2RTACN
+PGM2LTACN
+PGM1LTACN
+PGM1RTACN
+PGM1LTMON
+PGM1RTMON
+PGM2LTMON
+PGM2RTMON
+CUEACN
+CUE_MON
+CUE_OUT
+EXT_LT_LO
+EXT_LT_HI
+EXT_RT_LO
+EXT_RT_HI
+EXTLTMON
+EXTRTMON
+OUT OF PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+CUE
+EXT
+LT
+GAIN
++4dBu BAL
++4dBu BAL
+EXT
+RT
+GAIN
+PGM2
+MONO
+PGM1
+MONO
+EXT IN
+PGM 1
+PGM 2
+CUE
+PGM 2 RT
+PGM 2 LT
+PGM 1 RT
+PGM 1 LT
+
+8 OF 8
+MBA1-1 PCB
+10-20-07
+22S1001-8
+W# 700928
+MBA1-1
+AIR 1/ Dec 2007
+page 4 - 10
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+_
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+600 Industrial Drive
+New Bern, NC 28562
+6
+5
+4
+3
+2
+1 SW13
+40.2K
+R350
+40.2K
+R374
+10pF
+C259
+10pF
+C295
+C45
+22uF
+C46
+22uF
+-14dBu
+-14dBu
+5532
+5
+6
+7
+8
+4
+U65
+5532
+3
+1
+2
+U65
+-2dBu
+-2dBu
+VV+
+AGND
+AGND
+22uF
+C276
+22uF
+C277
+B1
+B3 B2
+CR12
+10K
+A3
+A1 A2
+CR12
+10K
+AGND
+AGND
+22.1K
+R420
+88.7K
+R421
+88.7K
+R372
+10pF
+C329
+10pF
+C293
+22.1K
+R373
+22uF C317
+22uF C318
+-14dBu
+-14dBu
+AGND
+AGND
+22uF
+C316
+22uF
+C275
+B2
+B3
+B1
+CR13
+10K
+A2
+A1
+A3
+CR13
+10K
+AGND
+AGND
+332
+R398
+R342 332
+22.1K
+R392
+88.7K
+R393
+10pF
+C312
+5532
+5
+6
+7
+8
+4
+U73
+VV+
+AGND
+332
+R394
+88.7K
+R348
+10pF
+C257
+5532
+5
+7
+6
+U64
+AGND
+22.1K
+R349
+R343 332
+R340 47
+R341 47
+5532
+3
+2
+1
+8
+4
+U64
+VV+
+5532
+3
+1
+2
+U73
+AGND
+V+
+VC79 33pF
+AGND
+C64 33pF
+R155 10.0K
+R152 10.0K
+GND
+AGND
+R153 10.0K
+R154 10.0K
+4053
+U33
+13
+12
+6
+14
+11 S
+INH
+X-Y
+Y
+X
+4053
+U33
+2
+15
+1
+10
+6
+S
+INH
+X-Y
+Y
+X
+4053
+U32
+5
+4
+3
+9
+6
+S
+INH
+X-Y
+Y
+X
+4053
+U33
+5
+4
+3
+9
+6
+S
+INH
+X-Y
+Y
+X
+5532
+U25
+5
+7
+6
+5532
+U25
+3
+2
+1
+8
+4
+R141 10.0K
+R110 10.0K
+4053
+U32
+11
+14
+6
+12
+13
+S
+INH
+X-Y
+Y
+X
+4053
+U32
+6
+10
+1
+15
+2
+S
+INH
+X-Y
+Y
+X
+R151 10.0K
+R150 10.0K
+4053
+6
+9
+3
+4
+5
+U66
+S
+INH
+X-Y
+Y
+X
+4053
+13
+12
+6
+14
+11
+U66
+S
+INH
+X-Y
+Y
+X
+4053
+2
+15
+1
+10
+6
+U66
+S
+INH
+X-Y
+Y
+X
+10.0K
+R344
+10.0K
+R369
+40.2K
+R366
+40.2K
+R353
+3.32K R352
+3.32K R367
+3.32K R376
+3.32K R368
+AGND
+AGND
+20.0K
+R345
+20.0K
+R377
+1
+2
+3
+4
+5
+6
+SW14
+5532
+4
+8
+7
+6
+5
+U74
+5532
+2
+1
+3
+U74
+VV+
+AGND
+AGND
+4053
+5
+4
+3
+9
+6
+U75
+S
+INH
+X-Y
+Y
+X
+4053
+11
+14
+6
+12
+13
+U75
+S
+INH
+X-Y
+Y
+X
+4053
+6
+10
+1
+15
+2
+U75
+S
+INH
+X-Y
+Y
+X
+10.0K
+R390
+10.0K
+R410
+10.0K
+R399
+10.0K
+R397
+3.32K R396
+3.32K R400
+3.32K R423
+3.32K R409
+AGND
+AGND
+20.0K
+R391
+20.0K
+R424
+GND
+33pF
+C331
+10.0K
+R422
+33pF
+C314
+10.0K
+R395
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+10
+R351
+10
+R375
+MON_LT_OUT
+MON_RT_OUT
+HDPN_LT
+HDPN_RT
+PGM1LTMON
+PGM1RTMON
+PGM2LTMON
+EXTLTMON
+EXTRTMON
+PGM2RTMON
+CUE_MON
+ONAIR_TALLY
+MONITOR
+HDPN
+CUE
+MONITOR
+SPLIT
+CUE
+HDPN
+SPLIT
+MONITOR
+HDPN
+IN PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+OUT OF PHASE
+
+page  4 – 11
+Mother Board Load Sheet
+AIR 1 / Dec 2007
+
+DS17
+DS16
+DS15
+DS14
+DS13
+DS12
+DS21
+DS20
+DS19
+DS18
+DS6
+DS5
+DS4
+DS3
+DS2
+DS1
+DS10
+DS9
+DS8
+DS7
+DS11
+VUA1-2
+9-19-07
+22S1002
+VUA1-2 PCB
+W# 700929
+page 4 - 12
+AIR 1 / Dec 2007
+A
+B
+D
+C
+D
+C
+A
+B
+APPROVALS
+SA
+SA
+SA
+- SA UR US - Sergey Averin -
+1 OF 1
+DATE
+SIZE
+REV
+SCALE
+SHEET
+CONTRACT NO.
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+_
+C
+4
+1
+2
+3
+4
+1
+2
+3
+600 Industrial Drive
+New Bern, NC 28562
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+CT2
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+CT1
+VCC
+GND
+GND
+VCC
+VCC
+VCC
+TALLY_LED
+GND
+TALLY_LED
+V U      L E V E L      L T
++3dB
+0dB
+-3dB
+-9dB
+-6dB
+-12dB
+-15dB
+-18dB
+-21dB
+-21dB
+-18dB
+-15dB
+-12dB
+-6dB
+-9dB
+-3dB
+0dB
++3dB
++6dB
+V U      L E V E L      R T
+ON AIR
++6dB
+
+page  4 – 2
+AIR 1 / Dec 2007
+S C H E M A T I C D R A W I N G S
+Meters PCB Load Sheet
+page  4 – 13
+
+page  Appendix – 1
+AIR 1 / Dec 2007
+A P P E N D I C E S
+Appendix 1
+AIR 1 Console Performance Specifications .............................. A-3
+Appendix 2
+Replacement Parts List ............................................................... A-5
+Appendices
+
+page  Appendix – 2
+AIR 1 / Dec 2007
+A P P E N D I C E S
+Appendix 1
+Contents
+AIR 1 Performance Specifications.............................................. A-3
+
+page  Appendix – 3
+AIR 1 / Dec 2007
+A P P E N D I C E S
+FREQUENCY RESPONSE
+Line, 20Hz
+-0.05dB
+Line, 20kHz
+-0.05dB
+Mic, 20Hz
+-0.10dB
+Mic, 20kHz
+-0.10dB
+DYNAMIC RANGE
+Line, unity gain
+116dB
+Mic, 54dB gain
+99dB
+S/N RATIO (ref +8dBu)
+Line
+93dB
+Mic
+82dB
+NOISE
+Mic EIN
+-128
+THD+N (20Hz-20kHz)
+Line, +12dBu
+<0.003%
+Mic (1kHZ), +24dBu    <0.02%
+IMD (SMPTE)
+Line, +4dBu
+<0.006%
+Mic, +24dBu
+<0.006%
+DIM
+Line, +24dBu
+<0.002%
+Mic
+<0.006%
+MAXIMUM INPUT
+Line
++28dBu
+Mic, minimum trim       -4dBu
+MAXIMUM OUTPUT
+Line
++28dBu
+HEADROOM
++4dBu
+24dB
+SLEW RATE
+12V/µs
+BUS CROSSTALK
+1kHz
+-100dB
+20kHz
+-96dB
+STEREO SEPARATION
+1kHz
+-95dB
+OFF ISOLATION
+1kHz
+-116dB
+20kHz
+-100dB
+MAXIMUM GAIN
+Line
++20dB
+Mic
++77dB
+PHASE RESPONSE
+Line, 20Hz-20kHz
+±12°
+DIMENSIONS
+Width
+15.195”
+Depth
+11.511”
+Height (rear)
+2.442”
+Height (front)
+1.283”
+                AIR 1 Performance Specifications
+Specifications and features subject to change without notice.
+
+page  Appendix – 4
+AIR 1 / Dec 2007
+A P P E N D I C E S
+Appendix 2
+Contents
+Replacement Parts List ............................................................... A-5
+For the most part there are no user-replaceable parts in the
+AIR 1 console. Exceptions are those controls and components that in the
+course of normal use may need maintenance (i.e., faders, pots, ON
+switches, etc.). A complete list of available components is shown on the
+next page. Contact Audioarts Engineering technical support for further
+information.
+Audioarts Engineering (600 Industrial Drive, New Bern, North Carolina,
+USA 28562) may be reached by phone at 252-638-7000, fax 252-637-1285,
+electronic mail “techsupport@wheatstone.com”.
+
+page  Appendix – 5
+AIR 1 / Dec 2007
+A P P E N D I C E S
+REPLACEMENT PARTS — AIR 1 CONSOLE
+COMPONENT
+DESCRIPTION
+WS P/N
+MB-A1 LOADED CARD ASSY
+MOTHERBOARD LOADED CARD ASSEMBLY
+"009714"
+VU-A1 LOADED CARD ASSY
+VU METERS LOADED CARD ASSEMBLY
+"009715"
+FADER
+100MM LOW PROFILE MASTER TYPE N FADER ROHS COMPLIANT
+"540061"
+FADER KNOB
+BLACK FADER KNOB, 11mm FOR 3000 SERIES FADER FOR LINE INPUT
+"520001"
+FADER KNOB
+GREY FADER KNOB, 11mm FOR 3000 SERIES FADER FOR MONITOR AND 
+HEADPHONE OUTPUT
+"520004"
+FADER KNOB
+RED FADER KNOB, 11mm FOR 3000 SERIES FADER FOR MICROPHONE INPUT
+"520006"
+POT
+"CUE" 10K SINGLE LINEAR VERTICAL POT
+"500126"
+POT KNOB
+15mm BLACK PUSH-ON KNOB FOR 6mm SHAFT FOR "CUE" POT
+"520125"
+POT CAP
+11MM BLACK CAP W/WHITE LINE FOR "CUE" POT 
+"530037"
+NKK SWITCH
+JB15 SWITCH W/BRIGHTER RED LED AND SILICON GASKET
+"510290"
+SWITCH
+SINGLE POLE MOMENTARY SWITCH W/YELLOW LED
+"510296"
+SWITCH CAP
+WHITE SWITCH CAP
+"530004"
+SWITCH CAP
+CUSTOM MILKY WHITE STYRENE WITH UV INHIBITOR LIGHT PIPE BUTTON
+"530274"
+RCA CONNECTORS
+STACKED DUAL THREADED JACK WITH METAL RING FOR ANALOG I/O 
+CONNECTIONS
+"260081"
+XLR CONNECTORS
+XLR JACK FOR MICROPHONE CONNECTIONS
+"260082"
+HEADER
+HEADER R/A_20 PIN SNAP
+"250081A"
+POWER SUPPLY
+25W TRIPLE OUTPUT DESKTOP POWER SUPPLY
+"980038"
+POWER CONNECTOR
+RIGHT ANGLE DIN RECEPTACLE ROHS COMPLIANT
+"260083"
+MANUAL
+TECHNICAL MANUAL FOR AIR 1 CONSOLE
+"009797"

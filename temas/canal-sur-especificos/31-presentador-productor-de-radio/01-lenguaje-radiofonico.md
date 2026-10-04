@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Sin norma: no la hay. *Manual de estilo de RTVE*, capítulo 3 (RNE: 3.1, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3.2, 3.3.3, 3.5), capítulo 6 (6.3.1) y capítulo 7 (7.5, glosario del lenguaje radiofónico), como referencia de oficio de otro medio público, porque Canal Sur no tiene publicado libro de estilo de radio; José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito; introducción fechada en Lima, abril de 2005), capítulos 3 y 6, como manual de oficio; Armand Balsebre, *El lenguaje radiofónico*, en la cita de la cátedra de Narrativas Radiales de la Universidad Nacional de La Plata. Lo demás, costumbre de oficio, y así se dice |
 | **Redacción que se estudia** | No procede: ninguna norma sostiene este tema. Manual de estilo de RTVE en su versión web, cotejada el 24-09-2026 (capítulo 3) y el 03-10-2026 (glosario 7.5) |
-| **Extensión** | 5.400 palabras aproximadamente |
+| **Extensión** | 5.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -34,7 +34,7 @@ cortinilla de punto y seguido y una de punto y aparte; la diferencia entre bache
 silencio es o no un elemento autónomo; los efectos descriptivos y narrativos, cuántos usar y qué va
 antes, el efecto o la palabra; qué rompe el ritmo de un boletín; qué es una continuidad forzada y
 quién presenta el último hecho; qué es un guion de continuidad; con qué se construye el relato
-sonoro.
+sonoro y cómo se pasa de una escena a otra (narrador, cortina, efectos, desvanecimiento, *cross-fade*).
 
 <!-- indice -->
 
@@ -75,6 +75,7 @@ sonoro.
 - [8. Narrativa sonora](#8-narrativa-sonora)
   - [Contar con sonidos](#contar-con-sonidos)
   - [Los recursos del relato](#los-recursos-del-relato)
+  - [Las transiciones entre escenas y el montaje sonoro](#las-transiciones-entre-escenas-y-el-montaje-sonoro)
   - [En los géneros informativos](#en-los-géneros-informativos)
 - [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
 - [Trazabilidad](#trazabilidad)
@@ -202,9 +203,12 @@ La técnica de locución (dicción, lectura, improvisación) es materia del tema
 
 La palabra se coloca en el espacio sonoro por planos. **«En radio, llamamos plano a la distancia que
 existe entre el locutor y el micrófono.»** El primer plano, **«que es lo más habitual»**, se logra a
-**«unos 10 centímetros —una cuarta— respecto al micrófono»**; el segundo, **«a poco menos de un
-metro, o sin retirarnos tanto, pero volteando la cara hacia un lado, fuera del campo del
-micrófono»** (manual de López Vigil). Cada plano sugiere una distancia humana:
+**«unos 10 centímetros —una cuarta— respecto al micrófono»**. **«Para primerísimos planos nos
+ubicamos más cerca aún.»** El segundo, **«a poco menos de un metro, o sin retirarnos tanto, pero
+volteando la cara hacia un lado, fuera del campo del micrófono»**, según la sensibilidad del
+micrófono. **«Terceros y cuartos planos los obtendremos con mayores alejamientos, situándonos al fondo
+del estudio o, si éste es pequeño, hablando de espaldas, contra la pared.»** (manual de López Vigil).
+Cada plano sugiere una distancia humana:
 
 | Plano | Sigla | Distancia que sugiere (literal de López Vigil, que lo toma de Hall) |
 |---|---|---|
@@ -321,7 +325,12 @@ efectos ubicados en terceros planos»**; otras, más breves, **«se pueden hacer
 | El silencio no es una «cuarta voz», sino ritmo y puntuación de las otras tres | López Vigil | **«más que un código autónomo, los distintos tipos de silencios vienen siendo como el sistema de puntuación en el lenguaje escrito.»** **«El silencio, en radio, no dice nada por sí mismo, refuerza otros decires.»** |
 
 López Vigil recoge en nota la opinión de Mariano Cebrián Herreros (*Información radiofónica*,
-Síntesis, Madrid, 1995, pág. 364), que valora el silencio como información con una condición: **«La
+Síntesis, Madrid, 1995, pág. 364), que empieza negando al silencio un significado propio: **«El
+silencio es la ausencia del resto de componentes. Se incorpora como elemento de significación cuando
+aparece fragmentado entre diversos sonidos. No tiene significación por sí mismo, sino en cuanto que
+es ausencia de sonido.»** La postura de Cebrián queda así más cerca de la de López Vigil que de la del Manual de
+RTVE y Balsebre: el silencio significa, pero sólo **«entre diversos sonidos»**. Dentro de ese marco,
+Cebrián valora el silencio como información con una condición: **«La
 radio valora extraordinariamente el silencio informativo. La supresión de los sonidos en un momento
 dado informa más que si estuvieran presentes.»**, **«siempre que no haya la más mínima sospecha de
 que se trata de un silencio debido a fallos técnicos.»** (cita de segunda mano, tomada de la nota de
@@ -500,7 +509,34 @@ Reuniendo lo visto en los epígrafes anteriores, el relato sonoro se construye c
 - la pausa, que suspende y subraya, frente al bache, que corta (epígrafe 4);
 - los efectos, que describen el lugar o hacen avanzar la acción, y que van antes de la palabra que
   los nombra (epígrafe 5);
-- el montaje, que fija el ritmo y el orden (epígrafes 6 y 7).
+- el montaje, que fija el ritmo y el orden (epígrafes 6 y 7) y resuelve el paso de una escena a otra
+  (subepígrafe siguiente).
+
+### Las transiciones entre escenas y el montaje sonoro
+
+En radio no vale el corte directo del cine o la televisión: si se hiciera, según López Vigil, **«el
+oyente se despistaría. Pensaría que todos los personajes están juntos, hablando en un mismo
+lugar.»** Por eso **«se han establecido algunas normas técnicas para cambiar de tiempo o lugar, para
+pasar de una escena a otra»**. Las más usadas, en su manual:
+
+| Recurso | Cómo funciona (manual de López Vigil) |
+|---|---|
+| Narrador o narradora | **«Fue el primer recurso empleado para efectuar las transiciones en los dramas.»** |
+| Música | **«Las cortinas musicales resuelven la mayoría de los cambios de escena.»** |
+| Efectos | **«Los ambientes pueden llevarse a primer plano y disolverse con efectos de la siguiente escena»**: unos grillos nocturnos que se mezclan con gallos y pajaritos de amanecer |
+| Desvanecimiento de voces | **«Las voces finales de la escena se desvanecen (fade out), se hace un breve silencio, y entra el diálogo de la siguiente escena, ordinariamente desde abajo (fade in).»** Su problema **«no es que no se entienda, sino que resulta fría, deja las escenas como desnudas.»** |
+
+Entre dos escenas muy distintas (el ejemplo del autor: una madre que despide al hijo y, después, un
+cuartel), **«lo más frecuente será mezclar dos músicas (cross-fade) para pasar de una situación a
+otra»**. El autor avisa de que esas combinaciones **«pueden chocar al oído»** y propone alternativas:
+**«hacer la mezcla por debajo, una vez comenzada la segunda escena, o simplemente fundir con un efecto
+de sonido apropiado»**.
+
+Ese encadenamiento es montaje, y la cátedra de la UNLP distingue dos momentos: el proceso de montaje
+sonoro y de edición **«puede darse de forma asincrónica en la edición de un producto y de forma
+sincrónica en la puesta al aire de un programa a través de la consola de sonido.»** Lo primero es una
+pieza grabada y editada; lo segundo, el directo. La operación de fundidos y entradas en la mesa es
+materia del tema 8.
 
 ### En los géneros informativos
 
@@ -552,7 +588,7 @@ en el tema 6.
 | Manual de estilo de RTVE (web), capítulo 3 (RNE): 3.1, 3.2.1, 3.2.1.1, 3.2.1.2, 3.2.2, 3.3.2, 3.3.3, 3.5 | Fugacidad; elementos sonoros; tono comunicativo; relato radiofónico; tres exigencias; continuidad informativa; entradillas, transiciones y continuidad forzada; ritmo del boletín y del informativo; crónica; reportaje; retransmisión | Volcado 02-09-2026; cotejado con la web el 24-09-2026; releído el 03-10-2026 |
 | Manual de estilo de RTVE (web), capítulo 6 (El lenguaje), 6.3.1 | Texto para ser leído en voz alta | Volcado 02-09-2026; cotejado con la web el 24-09-2026 |
 | Manual de estilo de RTVE (web), capítulo 7, 7.5 «Glosario de términos utilizados en el lenguaje radiofónico» | Ambiente sonoro, careta, cortinilla, cuña, entradilla, golpe, guion de continuidad, indicativo, punto, sintonía | Volcado 02-09-2026; cotejado con la web el 03-10-2026 |
-| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en Lima, abril de 2005), capítulo 3 («La triple voz de la radio», «¿Y el silencio?») y capítulo 6 («Efectos y defectos», «Música y flores, llaman amores», «Una palabra sobre los planos», dirección de la grabación) | Tres voces y su función; palabra; bache y pausa; silencio como puntuación; nota de Cebrián Herreros; monotonía; efectos descriptivos y narrativos; música: utilidades, piezas, fondos, criterios; planos; ritmo del diálogo | 03-10-2026 |
-| Universidad Nacional de La Plata, Facultad de Periodismo y Comunicación Social, cátedra Narrativas Radiales, «Trabajo Práctico Nº4 El Lenguaje Radiofónico» (10-03-2021) | Definición de Balsebre y su referencia bibliográfica; cuatro elementos; segundo nivel de significación; forma de narrar; atmósfera acústica | 03-10-2026 |
+| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en Lima, abril de 2005), capítulo 3 («La triple voz de la radio», «¿Y el silencio?») y capítulo 6 («Efectos y defectos», «Música y flores, llaman amores», «Una palabra sobre los planos», dirección de la grabación, «¿Cómo separar las escenas?») | Tres voces y su función; palabra; bache y pausa; silencio como puntuación; nota de Cebrián Herreros; monotonía; efectos descriptivos y narrativos; música: utilidades, piezas, fondos, criterios; planos y cómo se obtienen; ritmo del diálogo; transiciones entre escenas y *cross-fade* | 03-10-2026; pasajes del remate releídos el 04-10-2026 |
+| Universidad Nacional de La Plata, Facultad de Periodismo y Comunicación Social, cátedra Narrativas Radiales, «Trabajo Práctico Nº4 El Lenguaje Radiofónico» (10-03-2021) | Definición de Balsebre y su referencia bibliográfica; cuatro elementos; segundo nivel de significación; forma de narrar; atmósfera acústica; montaje sonoro sincrónico y asincrónico | 03-10-2026; montaje sonoro releído el 04-10-2026 |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, Introducción y 3.14 | Carácter televisivo del libro; texto leído en voz alta | 24-09-2026 |
 | Costumbre de oficio, sin norma | Sonido sin imagen; cadena pensada para la voz; escucha en malas condiciones; directo como norma; música bajo la voz; piezas de continuidad entre programas; el salto de nivel en continuidad | — |

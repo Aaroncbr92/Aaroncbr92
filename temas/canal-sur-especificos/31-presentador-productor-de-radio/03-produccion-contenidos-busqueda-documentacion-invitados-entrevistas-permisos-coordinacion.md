@@ -587,7 +587,22 @@ De las ocho intromisiones ilegítimas del artículo 7, cuatro tocan de lleno al 
   en una promoción o una cuña no es lo mismo que emitirla en la entrevista. Lo demás sobre la voz
   (locutor, voz de archivo, voz sintética) es el tema 10.
 - *La vida privada.* **«La divulgación de hechos relativos a la vida privada de una persona o
-  familia que afecten a su reputación y buen nombre»** (7.3).
+  familia que afecten a su reputación y buen nombre, así como la revelación o publicación del
+  contenido de cartas, memorias u otros escritos personales de carácter íntimo.»** (7.3).
+
+Las otras cuatro completan la lista del artículo 7:
+
+- **«La revelación de datos privados de una persona o familia conocidos a través de la actividad
+  profesional u oficial de quien los revela.»** (7.4).
+- **«La captación, reproducción o publicación por fotografía, filme, o cualquier otro
+  procedimiento, de la imagen de una persona en lugares o momentos de su vida privada o fuera de
+  ellos, salvo los casos previstos en el artículo octavo, dos.»** (7.5).
+- **«La imputación de hechos o la manifestación de juicios de valor a través de acciones o
+  expresiones que de cualquier modo lesionen la dignidad de otra persona, menoscabando su fama o
+  atentando contra su propia estimación.»** (7.7).
+- **«La utilización del delito por el condenado en sentencia penal firme para conseguir
+  notoriedad pública u obtener provecho económico, o la divulgación de datos falsos sobre los
+  hechos delictivos, cuando ello suponga el menoscabo de la dignidad de las víctimas.»** (7.8).
 
 Y lo que no es intromisión, en el artículo 8: **«las actuaciones autorizadas o acordadas por la
 Autoridad competente de acuerdo con la ley, ni cuando predomine un interés histórico, científico o
@@ -748,7 +763,7 @@ excepcional, y si afecta a menores el pacto sólo cabe con sus representantes le
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Ley Orgánica 1/1982, de 5 de mayo, texto consolidado del BOE (BOE-A-1982-11196), artículos 2, 3, 7 y 8 | Consentimiento expreso y revocable, menores, intromisiones (escucha, voz con fines comerciales, vida privada) y excepciones | Volcado de la API del BOE del 24-09-2026; leído el 03-10-2026 |
+| Ley Orgánica 1/1982, de 5 de mayo, texto consolidado del BOE (BOE-A-1982-11196), artículos 2, 3, 7 y 8 | Consentimiento expreso y revocable, menores, las ocho intromisiones del artículo 7 y excepciones | Volcado del BOE del 24-09-2026; leído el 03-10-2026; artículos 7 y 8 releídos el 04-10-2026 |
 | Sentencia del Tribunal Constitucional 27/2020, de 24 de febrero (BOE-A-2020-4112) | Lo publicado en una red social no es consentimiento; consentimiento inequívoco, no formal | 03-10-2026 |
 | Contrato-programa Junta de Andalucía-RTVA 2024-2026 (BOJA núm. 245, de 2023), cláusula tercera, puntos 57 (3.7) y 97 (3.17) | Mujeres expertas en tertulias y debates; accesibilidad de los estudios para los invitados | 03-10-2026 |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, capítulos 3.17 y 4 (en el texto cerrado de los temas 3, 4 y 5 del específico de Redactor/a) | Agenda, niveles de información, contraste, entrevista en plató | 24-09-2026 (lectura de esos temas); 4.1, 4.3.2 y 3.17.2.1 cotejados en el texto del libro el 03-10-2026 |

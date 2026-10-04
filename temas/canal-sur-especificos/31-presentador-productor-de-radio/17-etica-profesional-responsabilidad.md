@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Presentador Productor de Radio · punto 17 |
 | Sirve para | Presentador Productor de Radio de Canal Sur (grupo B03) |
-| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Constitución Española (art. 20.1.d) · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia (arts. 1 a 3) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 5.4, 10, 15.3, 17.1.m, 17.2, 33.2 y 34.1) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 10.1, 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73 y ficha del puesto 9540002 del anexo III) · Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 85.2 y 128.2) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
+| Fuente | Carta ética mundial para periodistas de la FIP (Túnez, 12 de junio de 2019) · Constitución Española (art. 20.1.d) · Ley Orgánica 2/1997, de 19 de junio, reguladora de la cláusula de conciencia (arts. 1 a 3) · Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la RTVA (arts. 5.4, 10, 15.3, 17.1.m, 17.2, 33.2 y 34.1) · Carta del Servicio Público de la RTVA 2024-2029 (arts. 10.1, 13.10 y 26) · Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de Andalucía (web de Canal Sur) · Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía (RTVA, 2004) · X Convenio Colectivo de la RTVA y sus sociedades filiales (art. 73 y ficha del puesto 9540002 del anexo III) · Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 85.1, 85.2, 121.1, 121.3, 122.3 y 128.2) · Estatuto profesional de 2006 (no vigente), sólo como antecedente |
 | Redacción que se estudia | La vigente el 24-09-2026. El Estatuto profesional vigente no está publicado; el Libro de estilo es de 2004 y cita normas hoy derogadas; la fecha de la norma del Defensor no consta con certeza |
-| Extensión | 8.964 palabras |
+| Extensión | 9.505 palabras |
 
 <!-- /portada -->
 
@@ -38,7 +38,10 @@ información pagada, y quién puede autorizar la excepción; quién designa al D
 por cuánto tiempo; en qué plazo debe el personal de la RTVA contestar a sus requerimientos (quince
 días) y en cuál responde él a la audiencia; si se le puede presentar una queja grabada en sonido; qué
 dice el Libro de estilo de los presentadores (lenguaje neutral, símbolos prohibidos) y de la
-separación de la publicidad; y qué programación radiofónica no se puede patrocinar (art. 85.2 LGCA).
+separación de la publicidad; qué norma legal vigente obliga a diferenciar la publicidad del contenido
+editorial y con qué mecanismos (art. 121.3 LGCA), qué es la comunicación comercial encubierta y por
+qué está prohibida también en radio (arts. 122.3 y 85.1); y qué programación radiofónica no se puede
+patrocinar (art. 85.2 LGCA).
 
 <!-- indice -->
 
@@ -438,7 +441,7 @@ a todas las culturas, el cuidado en la selección rigurosa de imágenes, el uso 
 con la imprescindible erradicación de expresiones ofensivas, hasta la cobertura de asuntos
 controvertidos o delictivos.**» Tres adjetivos para el contenido (decente, digno y relevante) y dos
 facetas de la responsabilidad (profesional y social). No se limita al periodista: alcanza a «todos
-los empleados».
+los empleados de la televisión pública de Andalucía».
 
 *Por qué alcanza al presentador-productor.* Su ficha de puesto en el X Convenio (anexo III,
 código 9540002) le da por función básica «**Diseñar, recabar y posibilitar los contenidos de
@@ -446,9 +449,11 @@ programas radiofónicos y realizar la presentación de los mismos.**», y entre 
 documentar, guionizar y elaborar los temas a tratar en los programas. Localizar a los protagonistas o
 expertos acerca de temas a tratar.**» y «**Realizar la locución con operador de sonido, o en
 autocontrol, en aquellos casos que las características del programa lo permitan.**» Decide, pues,
-qué se cuenta, a quién se invita y cómo se dice, y a menudo lo emite él mismo en autocontrol. Que
-por eso le alcancen los deberes de este tema es deducción de este tema, no lo dice la ficha; el
-Libro de estilo, en todo caso, no se limita a los periodistas («todos los empleados», 1.8).
+qué se cuenta, a quién se invita y cómo se dice, y, cuando el programa lo permite, lo emite él mismo
+en autocontrol. Que por eso le alcancen los deberes de este tema es deducción de este tema, no lo
+dice la ficha. El Libro de estilo no se limita a los periodistas, pero habla de «todos los empleados
+de la televisión pública de Andalucía» (1.8): es un libro de televisión, y que sus pautas alcancen
+al personal de radio es también deducción.
 
 ### El secreto profesional (2.3.2.13)
 
@@ -601,6 +606,9 @@ El convenio al que remite el Libro de estilo es hoy el X Convenio. Su artículo 
   compromisos.**»
 - Carta de la FIP, art. 13: abstenerse de «**recibir cualquier provecho por la difusión o no
   difusión de información**».
+- La ley prohíbe la comunicación comercial audiovisual encubierta también en la radio (arts. 122.3
+  y 85.1 LGCA; texto en el epígrafe 9). Que promocionar en antena, sin decirlo, el producto de quien
+  ha dado un regalo o un viaje encaje además en ese precepto es deducción, que depende de los hechos.
 
 ## 8. Rectificación
 
@@ -675,6 +683,30 @@ perjudiquen el bien general.**» Lo demás que dicen las fuentes sobre ello:
   LGCA). En radio, pues, el noticiario no se patrocina nunca. El
   texto de 2006 del Estatuto (no vigente) pedía distinguirla «**mediante ráfagas, cortinillas o
   cualquier otro elemento diferenciador**» (3.2.5; epígrafe 2).
+- La regla legal vigente de separación. Art. 121.3 LGCA: «**Las comunicaciones comerciales
+  audiovisuales deben estar claramente diferenciadas del contenido editorial mediante mecanismos
+  ópticos y/o acústicos y/o espaciales.**» Rige en la radio porque el art. 85.1 reconoce a los
+  prestadores del servicio radiofónico y del sonoro a petición el derecho a emitir comunicaciones
+  comerciales «**de acuerdo con los límites previstos en la sección 1.ª y 2.ª del capítulo IV del
+  título VI**», con la sola salvedad de la limitación horaria del art. 123.5, que no toca
+  los arts. 121 y 122; y el art. 121 está en esa sección 1.ª. Es la norma vigente; el 9.10 del Libro (2004)
+  y el 3.2.5 del texto de 2006 (no vigente) son anteriores. Los tres mecanismos van unidos por
+  «y/o»: la ley no los exige todos a la vez. Qué es comunicación comercial lo dice el 121.1: «**las
+  imágenes o sonidos destinados a promocionar, de manera directa o indirecta, los bienes, servicios
+  o imagen de una persona física o jurídica dedicada a una actividad económica, que acompañan o se
+  incluyen en un programa o en un vídeo generado por el usuario a cambio de una remuneración o
+  contraprestación similar a favor del prestador del servicio de comunicación audiovisual, o bien
+  con fines de autopromoción.**» El patrocinio y el emplazamiento de producto son, según el mismo
+  apartado, formas de comunicación comercial, «**entre otras**».
+- Nada de publicidad encubierta. Art. 122.3 LGCA, dentro de las «prohibiciones absolutas» (rúbrica
+  del art. 122): «**Se prohíbe la comunicación comercial audiovisual encubierta que, mediante la
+  presentación verbal o visual, directa o indirecta, de bienes, servicios, nombres, marcas o
+  actividades, tenga de manera intencionada un propósito publicitario y pueda inducir al público a
+  error en cuanto a la naturaleza de dicha presentación.**» Está en la misma sección 1.ª, así que
+  alcanza a la radio por el art. 85.1. Tres elementos: una presentación de bienes, servicios,
+  nombres, marcas o actividades (basta la verbal, que es la de la radio); un propósito publicitario
+  intencionado; y que pueda inducir a error al público sobre la naturaleza de lo que oye. El precepto
+  no distingue entre programas: no se limita a los informativos.
 - No engañar con la forma: «**Las inocentadas y las bromas, ofrecidas con la fórmula de una
   información rigurosa, quedan prohibidas en nuestros informativos.**» (Libro de estilo, 2.3.2.14).
 - Separar información y opinión (Carta de la FIP, art. 2) y no suprimir lo esencial (art. 3).
@@ -780,7 +812,7 @@ confidencialidad en cuanto le sea legalmente de aplicación**».
 | Ley 18/2007, de 17 de diciembre, de la RTVA | arts. 5.4, 10, 17.1.m, 17.2, 33.2 y 34.1 (original); 15.3 (Ley 2/2019) | Vigente el 24-09-2026 |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA 247/2023) | arts. 10.1, 13.10 y 26 | No modificada |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA 240/2014) | art. 73; anexo III, ficha del puesto 9540002 | La del BOJA |
-| Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | arts. 85.2 y 128.2 | Una sola redacción, vigente el 24-09-2026 |
+| Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | arts. 85.1, 85.2, 121.1, 121.3, 122.3 y 128.2 | Una sola redacción, vigente el 24-09-2026 |
 | Norma reguladora del Defensor o la Defensora de la Audiencia de la RTVA | arts. 1, 3 a 11 (4.2 y 7.4 en el epígrafe 9) | La publicada en la web de Canal Sur |
 
 ## Lo que este tema no da, y dónde está
@@ -797,10 +829,11 @@ confidencialidad en cuanto le sea legalmente de aplicación**».
   6 del común. *Una ley de desarrollo del secreto profesional*: este tema no la da.
 - *Si el Estatuto vigente sigue incluyendo a los presentadores-productores en su ámbito y en el
   Consejo Profesional*: no se ha podido comprobar (el texto vigente no está publicado).
-- *El patrocinio, el emplazamiento y las comunicaciones comerciales en radio*: este tema sólo da el
-  art. 85.2 LGCA (y el 128.2 con el que se compara) como ejemplo de separación; el emplazamiento de
-  producto en radio (art. 85.3), en el tema 11; el régimen completo de las comunicaciones
-  comerciales no lo desarrolla este temario.
+- *El patrocinio, el emplazamiento y las comunicaciones comerciales en radio*: este tema da sólo la
+  separación (art. 121.3 LGCA), la prohibición de la comunicación encubierta (122.3), su aplicación a
+  la radio (85.1) y el patrocinio de los noticiarios (85.2, comparado con el 128.2); el emplazamiento
+  de producto en radio (art. 85.3), en el tema 11; parte del régimen de las comunicaciones
+  comerciales (art. 85.1 y su aplicación a la radio, arts. 123, 124 y 129), en el tema 4 del común.
 - *La Carta del Servicio Público y la Ley 18/2007 completas*: temas 5 y 6 del común; *el X Convenio*,
   tema 7 del común.
 - *El código deontológico de la FAPE* (Sevilla, 27-XI-1993) y otros códigos de asociaciones: el
@@ -821,7 +854,9 @@ Todas las fuentes, leídas el 24-09-2026 salvo que se diga otra fecha.
 - *X Convenio Colectivo de la RTVA y sus sociedades filiales*, BOJA núm. 240, de 2014; la ficha del
   puesto 9540002 (anexo III, «Definición de funciones», p. 191 del BOJA) se leyó el 3-X-2026.
 - *Ley 13/2022*, BOE consolidado (BOE-A-2022-11311), arts. 85.2 y 128.2, una sola redacción desde
-  el 9-VII-2022; leídos el 3-X-2026.
+  el 9-VII-2022; leídos el 3-X-2026. Los arts. 85.1, 121.1, 121.3 y 122.3 (una sola redacción desde
+  el 9-VII-2022, y su ubicación en la sección 1.ª del capítulo IV del título VI) se leyeron el
+  4-X-2026.
 - *Norma reguladora del Defensor o la Defensora de la Audiencia de la Radio y Televisión de
   Andalucía*, web de Canal Sur (canalsur.es, sección de la Defensora), descargada el 24-09-2026; la página lleva fecha de 6 de abril de 2018 y el
   PDF que enlaza da error 404 (comprobado el 24-09-2026). El art. 6.1 («soporte sonoro») se releyó

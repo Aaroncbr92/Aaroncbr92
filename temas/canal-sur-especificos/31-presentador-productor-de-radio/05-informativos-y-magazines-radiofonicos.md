@@ -283,7 +283,9 @@ servicio público digital audiovisual»**. Lo que toca a los informativos de rad
   relevante oferta de contenidos de audio digital de temática informativa para los servicios
   sonoros ‘a petición’ de las prestaciones de Canal Sur en su propia plataforma de Podcast.»**
 
-Dos apartados más del mismo bloque, que se desarrollan en otros temas: la unidad **«‘Canal Sur
+Tres apartados más del mismo bloque, que se desarrollan en otros temas: los programas y espacios
+informativos para el debate democrático y el libre contraste de opiniones, con el principio de
+pluralismo (apartado 11; tema 6); la unidad **«‘Canal Sur
 Comprueba’»** contra la desinformación (apartado 14; tema 9) y los **«microespacios divulgativos»**
 de alfabetización informacional a lo largo de las programaciones de radio y televisión (apartado 15;
 tema 2).
@@ -575,8 +577,8 @@ Cómo se traduce en un informativo o un magazine es costumbre de oficio, no norm
   la red de emisoras o delegaciones como voces de apoyo.
 - En el magazine, la sección o la conexión con una provincia, el invitado del pueblo que tiene la
   noticia, la salida con la unidad móvil y el programa de exteriores; el Contrato-programa prevé
-  expresamente programas cara al público y con participación de la audiencia sobre eventos **«de notorio interés general o sectorial de la Comunidad o de
-  cada una de sus ocho provincias»** (apartado 99; epígrafe 7).
+  expresamente programas cara al público y con participación de la audiencia sobre eventos especiales **«que estén orientados a audiencias significativas o a eventos de notorio
+  interés general o sectorial de la Comunidad o de cada una de sus ocho provincias»** (apartado 99; epígrafe 7).
 - En el orden del noticiero, el ámbito (local, provincial, autonómico, nacional, internacional) es
   uno de los criterios de agrupación, pero no el único: López Vigil desaconseja los bloques
   territoriales fijos (epígrafe 1).

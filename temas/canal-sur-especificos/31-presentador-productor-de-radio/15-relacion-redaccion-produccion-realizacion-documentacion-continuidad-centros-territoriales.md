@@ -822,8 +822,9 @@ coordina la publicidad la adecúe.
 
 Reglas de oficio, apoyadas en las fichas citadas:
 
-- Entrar y salir a su hora. La continuidad vela por **«la estricta puntualidad de la programación»**
-  (ficha del Editor de Continuidad); la hora de salida del programa es la de entrada de lo siguiente.
+- Entrar y salir a su hora. En televisión, la continuidad vela por **«la estricta puntualidad de la programación»**
+  (ficha del Editor de Continuidad, puesto de CSTV; en la radio, criterio trasladado, pues esa
+  función la cubre por su ficha el Operador de Sonido de Radio); la hora de salida del programa es la de entrada de lo siguiente.
 - Avisar a tiempo de lo que cambia la hora: si el programa va a salir antes o después, si una
   conexión en cadena no llega, si se abre una programación especial. Decidir esto último no es del
   programa (tema 14).
@@ -994,7 +995,7 @@ fichas.
 | Una conexión llega con un defecto técnico moderado pero con una declaración que es noticia | Quien dirige el contenido, oído el operador | La información prima sobre la técnica sin **«anular un aceptable nivel de calidad»** (LE 6.5.1 y 6.5.2, trasladado a la radio) |
 | Se necesita una declaración de archivo de hace años | Documentalista | **«Realizar la recuperación de la información y facilitar la localización de los soportes de la documentación.»** |
 | Se necesita un disco para una sección musical | Auxiliar de Discoteca | **«Atender a todo el personal de Radio y Televisión que necesite material discográfico…»** |
-| El programa va a terminar dos minutos tarde y le sigue un bloque de publicidad | No lo decide el programa: se avisa a la continuidad | La continuidad vela por **«la estricta puntualidad de la programación»**; la publicidad la adecúa quien la coordina (**«Comunicar los cambios de programación de última hora y adecuar la publicidad a dichos cambios.»**) |
+| El programa va a terminar dos minutos tarde y le sigue un bloque de publicidad | No lo decide el programa: se avisa a la continuidad | En televisión, la continuidad vela por **«la estricta puntualidad de la programación»** (ficha del Editor de Continuidad, puesto de CSTV; en la radio, criterio trasladado); la publicidad la adecúa quien la coordina (**«Comunicar los cambios de programación de última hora y adecuar la publicidad a dichos cambios.»**) |
 | El centro territorial envía para la cadena una pieza ya emitida en su desconexión con otro nombre | El centro la identifica con el nombre de la escaleta de cadena | Criterio de LE 6.1.2, de televisión, aplicado por analogía |
 | Una noticia local abre la emisión en cadena y el informativo provincial la va a repetir igual | El editor del informativo provincial | Tratamiento **«diferenciado, una perspectiva distinta, más cercana y detallada»** (LE 7.4.1, por analogía) |
 

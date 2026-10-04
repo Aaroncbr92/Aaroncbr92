@@ -200,8 +200,10 @@ su salida y sus conductores propios, **«Esta fórmula rompe la fluidez del bloq
 estructura de bloques tampoco lo absorbe todo: **«La información atravesará toda la programación con
 boletines y flashes.»**
 
-La continua tiene sus riesgos: que los tramos se disuelvan en un todo uniforme y que el exceso de
-espontaneidad lleve a la improvisación; López Vigil aconseja no descartarla **«pero tampoco adoptarla
+La continua tiene sus riesgos: que los tramos se disuelvan en un todo uniforme, lo que sólo pesa
+según el modelo: **«En una programación especializada esto no sería problema. En una programación
+total, que apuesta por contenidos y públicos variados, sí.»**; y que el exceso de espontaneidad
+lleve a la improvisación; López Vigil aconseja no descartarla **«pero tampoco adoptarla
 sin precauciones»**.
 
 ### Lo que el Contrato-programa pide a la radio de Canal Sur
@@ -232,8 +234,11 @@ de Canal Sur Radio tendrán planteamientos interactivos en la utilización de ap
 herramientas tecnológicas para poner en acción todas las posibilidades de las redes sociales para un
 contacto ágil, dinámico y permanente de la audiencia con los programas, en los que se tenderá a su
 participación notable.»** Es un «tendrán»: la participación no es un adorno del diseño, es un
-requisito del encargo de servicio público. La participación se desarrolla en el tema 5 y la
-producción multiplataforma en el tema 11.
+requisito del encargo de servicio público. El mismo apartado añade un tipo de programa que el
+diseño debe prever: **«Se producirán programas cara al público y con participación de la
+audiencia, sobre eventos especiales que estén orientados a audiencias significativas o a eventos de
+notorio interés general o sectorial de la Comunidad o de cada una de sus ocho provincias.»** La
+participación se desarrolla en el tema 5 y la producción multiplataforma en el tema 11.
 
 ### Los documentos del diseño, en orden
 
@@ -673,7 +678,7 @@ sello de los conductores.
 
 ### El tono comunicativo
 
-El Manual de RTVE lo pide a quien hace radio: **«Debe saber escribir y narrar pero además debe
+El Manual de RTVE lo pide al periodista radiofónico: **«Debe saber escribir y narrar pero además debe
 adaptar su escritura y narración al ritmo, cadencia y entonación requeridos en cada momento»**, con
 un **«tono comunicativo, necesario tanto en informativos como en programas»**. Y explica de dónde
 sale: **«A través del micrófono, lo que se pierde desde el punto de vista plástico se gana en los
@@ -733,7 +738,9 @@ temporal»**:
 4. **Franjas horarias.**
 5. **Parrilla de programación.**
 
-Y los completa con la validación, el seguimiento y la evaluación de lo emitido, y con el
+Y los completa con la **«Validación, monitoreo y evaluaciones periódicas»**, porque hay que
+**«chequear la programación antes, durante y después de su difusión»** (la validación es la prueba
+de materiales con oyentes del público objetivo, antes de emitir), y con el
 «bautismo» de los programas: elegir su nombre, que **«es anzuelo y no mensaje»**, porque **«La
 función de un título no es motivar a la acción, sino llamar la atención.»** Por eso el manual
 aconseja armarlo **«más que con verbos»**, con sustantivos y adjetivos, y evitar los títulos muy
@@ -840,6 +847,10 @@ tiempos sumen y que el programa acabe a su hora.
 - Una definición de «tono» como elemento de diseño de un programa: no la hay en las fuentes leídas.
   El epígrafe 7 lo reconstruye con el tono comunicativo del Manual de RTVE, el estilo y los
   conductores de López Vigil y el apartado 5 del Contrato-programa.
+- El nombre de los tipos de guion según cuánto texto llevan escrito (el que va palabra por palabra
+  frente al que sólo escribe apertura, entradillas, presentaciones y cierre): ninguna fuente leída
+  del rango exigido (norma, manual universitario, organismo oficial) da esa terminología; el
+  epígrafe 5 describe la práctica sin nombrarla.
 - Los campos de una escaleta de radio: ninguna fuente leída los fija más allá de lo que dice el
   glosario del Manual de RTVE; la tabla del epígrafe 4 es de oficio.
 - Qué sistema de redacción, de escaletas y de emisión de audio usa Canal Sur Radio, y qué plantillas
@@ -858,11 +869,11 @@ tiempos sumen y que el programa acabe a su hora.
 
 | Fuente | Qué sostiene | Leída |
 |---|---|---|
-| Contrato-programa entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA 2024-2026, aprobado por Acuerdo de 19-12-2023 (BOJA núm. 245, de 26-12-2023), apartados 5, 15, 98 y 99 | Franjas y tono de los informativos; microespacios divulgativos; porcentajes orientativos de la radio por ondas; planteamientos interactivos de Canal Sur Radio | 03-10-2026 |
+| Contrato-programa entre el Consejo de Gobierno de la Junta de Andalucía y la RTVA 2024-2026, aprobado por Acuerdo de 19-12-2023 (BOJA núm. 245, de 26-12-2023), apartados 5, 15, 98 y 99 | Franjas y tono de los informativos; microespacios divulgativos; porcentajes orientativos de la radio por ondas; planteamientos interactivos y programas cara al público de Canal Sur Radio | 03-10-2026 (ap. 99 releído el 04-10-2026) |
 | Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), artículo 6 (6.2, 6.3, 6.5, 6.6) | Adecuación a la sociedad andaluza; estudio permanente; franjas idóneas, rentabilidad social, diferenciación y proximidad | En el tema común de la Carta (ciclo cerrado) |
 | Manual de estilo de RTVE (web), capítulo 3 (RNE), 3.1 y 3.5 | Tono comunicativo; retransmisión como formato sin guion | Volcado 02-09-2026; releído el 03-10-2026 |
 | Manual de estilo de RTVE (web), capítulo 7, 7.5 «Glosario de términos utilizados en el lenguaje radiofónico» | Pauta, guion de continuidad, escaleta, sección, microespacio, entradilla, radio convencional, radio temática, radio-fórmula | Volcado 02-09-2026; cotejado con la web el 03-10-2026; releído el 03-10-2026 |
-| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en Lima, abril de 2005), capítulos 5 (géneros y formatos), 6 («El libreto y sus formalidades»), 9 («Radiorevistas») y 11 (modelos de programación; «Pasos para armar una programación») | Género y formato; criterios de clasificación; formatos; formato y recurso; el magazine como contenedor y sus tamaños; mejor formato; libreto y guion horizontal; piezas, secciones fijas y móviles, orden, diseño transversal, revista compacta, parrilla de planificación; cuatro modelos y tres estructuras de programación; estilo y conductores; público objetivo, pasos, franjas, periodicidad, títulos | 03-10-2026 |
+| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en Lima, abril de 2005), capítulos 5 (géneros y formatos), 6 («El libreto y sus formalidades»), 9 («Radiorevistas») y 11 (modelos de programación; «Pasos para armar una programación») | Género y formato; criterios de clasificación; formatos; formato y recurso; el magazine como contenedor y sus tamaños; mejor formato; libreto y guion horizontal; piezas, secciones fijas y móviles, orden, diseño transversal, revista compacta, parrilla de planificación; cuatro modelos y tres estructuras de programación; estilo y conductores; riesgos de la estructura continua; público objetivo, pasos, validación y monitoreo, franjas, periodicidad, títulos | 03-10-2026 (cap. 11 releído el 04-10-2026) |
 | AIMC, *Normas de radio en EGM* (fechas internas 2005-2019) | Tipo de emisión; definición de programa (Grupo de Radio, 2-III-2010); definición de emisión radiofónica (Grupo Radio, 1-IV-2016) | 03-10-2026 |
 | AIMC, *Marco General de los Medios en España 2026* (febrero de 2026, datos de 2025), págs. 29-30 | Consumo promedio diario de radio por franjas y días; curva horaria | 03-10-2026 (tabla leída sobre la imagen de la página) |
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004, Introducción y 6.1 | Carácter televisivo del libro; comunicación de los cambios de escaleta | En temas cerrados de Canal Sur (Redactor/a 8; Ayudante de Realización 2) |

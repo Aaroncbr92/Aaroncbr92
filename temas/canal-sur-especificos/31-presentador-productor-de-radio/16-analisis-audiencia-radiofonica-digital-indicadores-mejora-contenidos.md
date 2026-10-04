@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Presentador Productor de Radio · punto 16 |
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Sin norma: ninguna ley define los indicadores de audiencia; los define la industria que los usa. Para la radio, la Asociación para la Investigación de Medios de Comunicación, *Normas de radio en EGM* y páginas técnicas del Estudio General de Medios (ficha técnica de la 1.ª ola de 2026, calendario 2026, márgenes de error, radio *streaming*); *Marco General de los Medios en España 2026*. Para lo digital, comunicados de AIMC de 8-X-2025, 10-VII-2026 y 1-IX-2026, e IAB Tech Lab, *Podcast Measurement Technical Guidelines* v2.2, como directriz de la industria. Para Canal Sur, Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), artículos 6.5 a 6.7 y 26, y Contrato-programa Junta de Andalucía-RTVA 2024-2026 (BOJA núm. 245, de 26-12-2023), apartados 29, 30, 126 y 129. José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito, 2005), capítulo 11, como manual de oficio. Lo demás, costumbre de oficio, y así se dice |
-| **Redacción que se estudia** | Documentos de AIMC en la versión publicada en aimc.es, leída el 03-10-2026; Carta y Contrato-programa en su texto publicado en el BOJA; directriz de IAB Tech Lab en su versión 2.2, la vigente el 24-09-2026 |
-| **Extensión** | 9.700 palabras aproximadamente |
+| **Fuente** | Sin norma: ninguna ley define los indicadores de audiencia; los define la industria que los usa. Para la radio, la Asociación para la Investigación de Medios de Comunicación, *Normas de radio en EGM* y páginas técnicas del Estudio General de Medios (ficha técnica de la 1.ª ola de 2026, calendario 2026, márgenes de error, radio *streaming*); *Marco General de los Medios en España 2026*. Para lo digital, comunicado de la Comisión de Seguimiento de la medición digital (aea, AIMC e IAB Spain) de 8-X-2025, comunicados de AIMC de 10-VII-2026 y 1-IX-2026, e IAB Tech Lab, *Podcast Measurement Technical Guidelines* v2.2, como directriz de la industria; para las métricas de las redes, la documentación técnica de Meta (Instagram) y de Google (YouTube) y la Ayuda de YouTube. Para Canal Sur, Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), artículos 6.5 a 6.7 y 26, y Contrato-programa Junta de Andalucía-RTVA 2024-2026 (BOJA núm. 245, de 26-12-2023), apartados 29, 30, 126 y 129. José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito, 2005), capítulo 11, como manual de oficio. Lo demás, costumbre de oficio, y así se dice |
+| **Redacción que se estudia** | Documentos de AIMC en la versión publicada en aimc.es, leída el 03-10-2026; Carta y Contrato-programa en su texto publicado en el BOJA; directriz de IAB Tech Lab en su versión 2.2, la vigente el 24-09-2026; documentación de Meta y de Google en su versión publicada, leída el 04-10-2026 |
+| **Extensión** | 10.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -69,6 +69,7 @@ cuantitativos y cualitativos.
   - [El medidor digital recomendado: situación a la fecha del temario](#el-medidor-digital-recomendado-situación-a-la-fecha-del-temario)
   - [La medición del pódcast: la guía de IAB Tech Lab](#la-medición-del-pódcast-la-guía-de-iab-tech-lab)
   - [Web y redes sociales](#web-y-redes-sociales)
+  - [Impresiones, alcance, interacción y retención en las plataformas](#impresiones-alcance-interacción-y-retención-en-las-plataformas)
 - [3. Indicadores](#3-indicadores)
   - [Los indicadores de radio del EGM](#los-indicadores-de-radio-del-egm)
   - [Audiencia acumulada y audiencia media](#audiencia-acumulada-y-audiencia-media)
@@ -344,7 +345,7 @@ pódcast, los de las redes sociales y los de plataformas de terceros.
 ### El medidor digital recomendado: situación a la fecha del temario
 
 Para la audiencia de internet, la industria publicitaria española designa un **medidor recomendado**.
-La cronología, en los comunicados de AIMC:
+La cronología, en los comunicados de AIMC y de la Comisión de Seguimiento:
 
 - **8 de octubre de 2025.** La Comisión de Seguimiento de la medición digital (aea, AIMC e IAB Spain)
   anuncia que el plazo de **GfK DAM** **«como medidor recomendado para la medición digital del mercado
@@ -449,6 +450,47 @@ Las encuestas en la web miden el interés de los usuarios, pero «**Sólo reflej
 internautas que han decidido participar en la misma y no puede ser considerada un sondeo
 científico.**» Las preguntas no pueden dirigir la opinión hacia una respuesta.
 
+### Impresiones, alcance, interacción y retención en las plataformas
+
+No hay una norma común para las métricas de las redes: cada plataforma las define en su
+documentación. Dos de las que usa un programa de radio con clips y vídeo radio, Instagram (de
+Meta) y YouTube (de Google), las publican así; las de Instagram van en inglés, con su sentido al
+lado.
+
+| Métrica | Definición de la plataforma | Qué significa |
+|---|---|---|
+| Impresiones (Instagram, *impressions*) | **«Total number of times your app user’s Instagram Media object has been seen.»** | Veces que se mostró la publicación, aunque sea a la misma cuenta. Meta la ha retirado: **«For media created after July 2, 2024, this metric is deprecated.»** |
+| Alcance (Instagram, *reach*) | **«Number of unique Instagram users that have seen the reel at least once. Reach is different from impressions, which can include multiple views of a reel by the same account.»** | Cuentas distintas que lo vieron al menos una vez. Es una cifra estimada: **«Metric is estimated.»** |
+| Visualizaciones (Instagram, *views*) | **«Total number of times IG Media has been played on Instagram.»** | Veces que se reprodujo en Instagram |
+| Interacciones totales (Instagram, *total_interactions*) | **«Number of likes, saves, comments, and shares on the reel, minus the number of unlikes, unsaves, and deleted comments.»** | Saldo neto de me gusta, guardados, comentarios y veces compartido |
+| Tiempo medio de reproducción (Instagram, *ig_reels_avg_watch_time*) | **«The average amount of time spent playing the reel.»** | Cuánto dura, de media, cada reproducción del *reel* |
+| Tasa de saltos (Instagram, *reels_skip_rate*) | **«The percentage of views from people who skipped during the first 3 seconds of the reel.»** | Porcentaje de las reproducciones que se saltan el *reel* en sus tres primeros segundos; Meta la da como estimada: **«Metric is estimated and in development.»** |
+| Vistas (YouTube) | **«Esta métrica representa diferentes números en distintos tipos de informes.»** | La cifra de vistas no es la misma en todos los informes: hay que decir de cuál sale |
+| *engagedViews* (YouTube) | **«Es la cantidad de veces que se miraron los videos del canal después del primer fotograma o que el usuario hizo clic o presionó para reproducirlos.»** | Reproducciones que pasaron del primer fotograma o que se iniciaron a propósito |
+| Tiempo de visualización (YouTube, *estimatedMinutesWatched*) | **«Cantidad de minutos que los usuarios miraron videos del canal, propietario del contenido, video o playlist especificados.»** | El equivalente digital de los minutos de escucha |
+| Duración media de las vistas (YouTube, *averageViewDuration*) | **«Es la duración promedio, en segundos, de las reproducciones de video.»** | Tiempo medio que dura cada vista |
+| Porcentaje medio visto (YouTube, *averageViewPercentage*) | **«Es el porcentaje promedio de un video que se miró durante la reproducción.»** | Qué parte del vídeo se ve, de media |
+| Retención (YouTube, *audienceWatchRatio*) | **«Es la proporción absoluta de usuarios que miran el video en el punto determinado.»** | La curva de cuántos siguen viendo en cada momento del vídeo. Puede pasar de 1 en un tramo que se vuelve a ver: **«si los usuarios rebobinan y miran la misma parte de un video varias veces, la proporción absoluta de esa parte del video podría ser mayor que 1.»** |
+
+La distinción que el examen puede buscar es la de impresiones y alcance: las impresiones cuentan
+veces que se mostró el contenido; el alcance, cuentas distintas que lo vieron. Es la misma
+diferencia que hay en antena entre sumar contactos y contar personas (audiencia acumulada).
+
+La retención se lee como la curva de un programa por medias horas (epígrafe 4), pero segundo a
+segundo. La Ayuda de YouTube explica el gráfico: **«Un descenso gradual significa que los usuarios
+pierden interés con el tiempo.»**; **«Los picos tienen lugar cuando hay más usuarios viendo,
+volviendo a ver o compartiendo partes concretas de tus vídeos.»**; **«Las caídas significan que los
+usuarios están dejando de ver los vídeos o saltando a partes específicas de ellos.»** Y mide aparte
+el arranque: **«En la introducción se indica el porcentaje de la audiencia que sigue viendo tus
+vídeos tras los primeros 30 segundos.»** Una de sus recomendaciones para mejorarlo (la otra es ajustar miniatura y título al contenido) es la del oficio de la
+radio con la entrada de un programa: **«Modifica los primeros 30 segundos de los vídeos y prueba
+diferentes estilos hasta encontrar uno que capte la atención de tu audiencia.»**
+
+La tasa de interacción (*engagement rate*) no la define ninguna de las dos documentaciones
+leídas: dan los recuentos (interacciones, alcance, visualizaciones), no el cociente. Quien la
+calcule debe decir sobre qué la divide, alcance, impresiones o visualizaciones, porque cada base da
+una cifra distinta (costumbre de oficio).
+
 ## 3. Indicadores
 
 ### Los indicadores de radio del EGM
@@ -551,10 +593,10 @@ Los del epígrafe 2, ordenados por lo que miden:
 
 | Lo que se quiere saber | Indicador digital | Su equivalente aproximado en antena |
 |---|---|---|
-| Cuántas veces se consumió | Descargas válidas (pódcast); reproducciones o escuchas (web, plataformas, redes) | — |
-| A cuántas personas se llegó | Oyentes únicos del pódcast (IP + agente de usuario, en un periodo declarado); usuarios únicos | Audiencia acumulada |
-| Cuánto se consumió | Tiempo de escucha o de visionado | Minutos de escucha |
-| Qué se hizo con el contenido | Interacción: comentarios, mensajes, veces compartido | — |
+| Cuántas veces se consumió | Descargas válidas (pódcast); reproducciones o escuchas (web, plataformas, redes); impresiones (veces que se mostró) | — |
+| A cuántas personas se llegó | Oyentes únicos del pódcast (IP + agente de usuario, en un periodo declarado); usuarios únicos; alcance en redes (cuentas distintas) | Audiencia acumulada |
+| Cuánto se consumió | Tiempo de escucha o de visionado; duración media de las vistas; retención | Minutos de escucha; fidelidad |
+| Qué se hizo con el contenido | Interacción: me gusta, comentarios, guardados, mensajes, veces compartido | — |
 
 La columna de la derecha es una equivalencia de oficio, no una conversión: los indicadores
 digitales cuentan dispositivos o combinaciones técnicas y los del EGM cuentan personas, y no se
@@ -661,7 +703,8 @@ soporte de difusión y de distribución sobre plataformas y redes de consumo dig
 los medios de Canal Sur, con la finalidad de obtener datos precisos de escrutinio y siempre
 actualizados para mejor conocimiento de las personas usuarias y de la idiosincrasia de la sociedad
 digital y de las preferencias de usuario para alcanzar la óptima adaptación de los contenidos y
-servicios a la demanda real de la sociedad»**.
+servicios a la demanda real de la sociedad y a la dinámica del mercado audiovisual digital
+caracterizado por la evolución permanente.»**
 
 Tres ideas para el examen:
 
@@ -669,7 +712,8 @@ Tres ideas para el examen:
   **cualitativos** sobre los programas y su **aceptación social**.
 - Lo digital se mide con analítica de datos que compare todos los soportes (*crossmedia* y
   transmedia).
-- La finalidad es adaptar los contenidos y servicios a la demanda real de la sociedad. Ésa es la
+- La finalidad es adaptar los contenidos y servicios a la demanda real de la sociedad (y a un
+  mercado digital en evolución permanente). Ésa es la
   «mejora de contenidos» del enunciado, dicha por la Carta.
 
 ### Lo que concreta el Contrato-programa
@@ -704,7 +748,8 @@ El éxito de un programa de Canal Sur no se mide sólo en audiencia. El Contrato
 
 - Apartado 126: **«La RTVA y Canal Sur contarán con un propio sistema de indicadores de referencias
   sobre la rentabilidad social de los servicios audiovisuales e impacto económico que genera la
-  actividad del grupo empresarial para la sociedad andaluza»**, en cumplimiento de la **«obligación
+  actividad del grupo empresarial para la sociedad andaluza en general y para el sector productivo de
+  las industrias audiovisuales, artísticas y culturales»**, en cumplimiento de la **«obligación
   comunitaria de obtener una permanente medición objetiva de lo que supone dicha ‘rentabilidad social’, conforme a las prescripciones del
   artículo 4.3 Ley 18/2007 y del art. 3.1 c) Ley 10/2018»**.
 - Apartado 129: un **«Sistema Integral de Indicadores de gestión»**, con su **«cuadro de mando»**,
@@ -832,6 +877,9 @@ discusión con oyentes del público objetivo), como pide la Carta (6.7).
   julio al 19 de agosto de 2026 y ha publicado después la versión final, que según la prensa del
   sector salió el 29-IX-2026, después de la fecha del temario, y cambia el término *listener* por
   *podcast consumer*. No se ha leído; el tema estudia la 2.2, la vigente el 24-IX-2026.
+- Las definiciones de las métricas de X y de TikTok, y una definición oficial de la tasa de
+  interacción: no se han confirmado en documentación publicada por esas plataformas; el tema da las
+  de Instagram y YouTube.
 - Indicadores de planificación publicitaria (cobertura, frecuencia, GRP, coste por mil): no los pide
   el enunciado.
 - Los minutos diarios de radio por franja y el público objetivo: tema 2. Participación del oyente en
@@ -846,11 +894,13 @@ discusión con oyentes del público objetivo), como pide la Carta (6.7).
 | AIMC, *Normas de radio en EGM* (documento con fechas internas de 2005 a 2019; última nota «AIMC 24/07/2019») | Pregunta y periodo del «ayer»; reparto de la media hora; definiciones de audiencia acumulada, minutos, audiencia media, *rating*, fidelidad, *share* y sus bases, aportación, perfil y penetración; publicación sólo en año móvil; emisoras no adscritas; cortes de publicación; orden de prioridad de asignación; programas compartidos; cambio de cadena; pódcast | 03-10-2026 |
 | AIMC, aimc.es: «Características técnicas», «Universo y muestra», «Trabajo de campo y supervisión», «Proceso de fusión», «Entrega de resultados», «Márgenes de error», «Usos y utilidades», «Calendario» 2026, ficha técnica de la 1.ª ola de 2026 (EGM Radio), «Radio *streaming*», y noticia de 18-04-2018 sobre la 1.ª ola de 2018 | Estudio poblacional y anual; universo, métodos, diseño, muestra y trabajo de campo; fusión desde 2008; año móvil; márgenes; usos para el medio; calendario; escucha desglosada desde 2018; *streaming* censal desde la 3.ª ola de 2024 | 03-10-2026 |
 | AIMC, *Marco General de los Medios en España 2026* (febrero de 2026, datos de 2025) | Audiencia acumulada diaria y *share* de Canal Sur Radio y Canal Fiesta Radio; totales generalista y temático | 03-10-2026 (tablas leídas sobre la imagen de las páginas del PDF) |
-| AIMC, comunicados de 08-10-2025 (Comisión de Seguimiento de la medición digital), 10-07-2026 y 01-09-2026; nota final «Sobre AIMC» | Medidor digital recomendado; concurso y elección de Comscore; renuncia de Comscore; qué es AIMC | 03-10-2026; sin entradas posteriores a esa fecha |
+| Comisión de Seguimiento de la medición digital (aea, AIMC e IAB Spain), comunicado de 08-10-2025; AIMC, comunicados de 10-07-2026 y 01-09-2026; nota final «Sobre AIMC» | Medidor digital recomendado; concurso y elección de Comscore; renuncia de Comscore; qué es AIMC | 03-10-2026; sin entradas posteriores a esa fecha |
 | IAB Tech Lab, *Podcast Measurement Technical Guidelines*, versión 2.2 (© 2024) | Categorías de métricas; descarga, oyente, anuncio entregado y anuncio reproducido confirmado; umbral de un minuto; ventana de 24 horas; IP + agente de usuario; *IP-hopping* | 03-10-2026 |
 | IAB Tech Lab, nota de prensa de 21-07-2026 y página «Clarifying Today’s Podcast Measurement…» (iabtechlab.com); prensa del sector (ppc.land) | Versión 2.3: comentario público hasta el 19-08-2026, versión final posterior, fecha y cambio de término | 03-10-2026 |
-| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), artículos 6.5, 6.7 y 26.2 | Estudio permanente; analítica *big data*; adaptación de contenidos; atención y participación | Viñetas de 6.5, 6.7 y 26.2: pasajes del temario común, cerrado con la redacción vigente a 24-09-2026. Texto completo del 6.7: 03-10-2026 |
-| Contrato-programa Junta de Andalucía-RTVA 2024-2026 (BOJA núm. 245, de 26-12-2023), apartados 29, 30, 126 y 129 | Datos que se analizan; analítica *Big Data*; tendencias en redes, quejas y defensa de la audiencia; rentabilidad social; Sistema Integral de Indicadores | 03-10-2026 |
+| Meta for Developers, «Instagram Media Insights» (página actualizada el 11-09-2026) | Impresiones (retirada para lo publicado desde el 2-VII-2024), alcance, visualizaciones, interacciones totales, tiempo medio de reproducción y tasa de saltos | 04-10-2026 |
+| Google for Developers, documentación de YouTube Analytics, «Métricas» (actualizada el 10-09-2026); Ayuda de YouTube, «Medir los momentos clave para comprobar la retención de la audiencia» | Vistas, *engagedViews*, tiempo de visualización, duración media, porcentaje medio visto, retención; lectura de la curva e introducción de 30 segundos | 04-10-2026 |
+| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), artículos 6.5, 6.7 y 26.2 | Estudio permanente; analítica *big data*; adaptación de contenidos; atención y participación | Viñetas de 6.5, 6.7 y 26.2: pasajes del temario común, cerrado con la redacción vigente a 24-09-2026. Texto completo del 6.7: 03-10-2026; final del apartado, releído el 04-10-2026 |
+| Contrato-programa Junta de Andalucía-RTVA 2024-2026 (BOJA núm. 245, de 26-12-2023), apartados 29, 30, 126 y 129 | Datos que se analizan; analítica *Big Data*; tendencias en redes, quejas y defensa de la audiencia; rentabilidad social; Sistema Integral de Indicadores | 03-10-2026; final de la cita del 126, releído el 04-10-2026 |
 | José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF (Quito), ISBN 9978-55-045-3, introducción fechada en Lima, abril de 2005; copia de Internet Archive; licencia que autoriza la copia citando la fuente; capítulo 11 | «El fetiche del rating»; validación, monitoreo y evaluaciones periódicas; investigación cuantitativa y cualitativa; llamadas y grupos de discusión; para qué y cuándo investigar | 03-10-2026 |
 | *Manual de estilo de RTVE*, 4.7 | Los comentarios no miden el éxito; las encuestas web no son sondeo | Pasaje del tema 14 de Redactor/a, cerrado el 24-09-2026 |
 | Temarios de RTVE (gestión, tema 27; producción, tema 4) | Definición y finalidades de la audiencia; denominador de *rating* y *share*; ejemplo de la madrugada; métricas web frente a televisión; «minuto de oro» | Oficio, sin norma; copiado sin cambios |

@@ -83,6 +83,7 @@ reportaje de diez minutos o dar paso a una rueda de emisoras provinciales.
   - [Radio y televisión](#radio-y-televisión)
   - [El lenguaje deportivo en el Libro de estilo de Canal Sur](#el-lenguaje-deportivo-en-el-libro-de-estilo-de-canal-sur)
   - [Otros soportes](#otros-soportes)
+  - [La narración en el manual de López Vigil](#la-narración-en-el-manual-de-lópez-vigil)
   - [Lo que no tiene fuente](#lo-que-no-tiene-fuente)
 - [Aplicación práctica: cinco situaciones](#aplicación-práctica-cinco-situaciones)
 - [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
@@ -428,6 +429,17 @@ se rotulan (Libro de estilo, 3.2.2). En radio no hay rótulo: por analogía (lec
 norma), la escena reconstruida tiene que anunciarse de palabra para que el oyente no la tome por un
 registro real.
 
+El mismo apartado 3.2.2 pone límite al sonido, que es lo que más toca a la radio: **«La música o el
+falseamiento del sonido ambiente también es un procedimiento reprobable porque aleja de la realidad y
+ofrece al espectador una sensación de ficción indeseable. En caso de que el sonido original tenga
+defectos que impidan su emisión, o no exista por cualquier razón, el ‘falseamiento’ se efectuará sólo
+con sonidos idénticos a los de la realidad, o lo más parecidos que sea posible.»** Y: **«La música se
+admite como elemento del montaje final sólo si es la propia música la referencia noticiosa principal,
+y siempre que no perturbe la narración, ni anule por completo el sonido natural.»** Está escrito para
+la televisión; por analogía (lectura del tema), en el reportaje informativo de radio los sonidos de
+estudio y los recursos musicales del *feature* quedan sujetos a ese límite: si el ambiente grabado no
+sirve, se sustituye por sonidos idénticos o lo más parecidos posible, no por música.
+
 ### Cómo se hace
 
 El manual de López Vigil da un orden de trabajo:
@@ -630,7 +642,8 @@ El Contrato-programa dedica un apartado a la **«Atención audiovisual sobre el 
   destacadas (apartado 83).
 - **«Toda transmisión en directo o en diferido de eventos y competiciones deportivas, incluyendo las
   consideradas minoritarias, se realizará en función de los derechos de difusión pública adquiridos
-  dependiendo de la disponibilidad presupuestaria para ese fin»** (apartado 84).
+  dependiendo de la disponibilidad presupuestaria para ese fin, y con equilibrio entre los principios
+  de eficiencia en la gestión y el de interés público.»** (apartado 84).
 
 Apoyar al deporte andaluz no es narrar como aficionado: el Libro de estilo reprueba el forofismo
 (abajo) y recuerda que no toda la audiencia es seguidora del equipo andaluz.
@@ -683,8 +696,10 @@ Lo que el mismo capítulo dice de las retransmisiones y de la radio:
   el prestigio de la información deportiva— debe atajarse con toda determinación.»** (7.5.4, punto 8).
   Lo que se ataja es el uso del rumor como noticia, que el libro asocia a la radio deportiva de antes
   (lectura del tema; la redacción del original es ambigua).
-- El forofismo: **«El forofismo es siempre reprobable y un periodista no debe permitírselo.»** La
-  parcialidad a favor de un equipo, **«andaluz o no»**, **«quiebra el principio de imparcialidad»**.
+- El forofismo: **«El forofismo es siempre reprobable y un periodista no debe permitírselo. La
+  parcialidad manifiesta a favor de un equipo, andaluz o no, cuando polemice con otro es inapropiado,
+  especialmente si no hay datos objetivos que respalden esa actitud. Es un vicio que quiebra el
+  principio de imparcialidad»**.
   **«Tampoco es recomendable hacerlo en las desconexiones territoriales, aunque la posibilidad de
   polémica es menor.»** La salvedad: **«Defender a un representante andaluz con datos, hasta con
   vehemencia, puede ser incluso una forma de compromiso cívico»** (7.5.4, punto 1).
@@ -698,13 +713,44 @@ Lo que el mismo capítulo dice de las retransmisiones y de la radio:
   acontecimiento de relevancia. [...] Se utiliza de forma habitual en las retransmisiones deportivas»**;
   lo más reciente va arriba y **«Debe citarse la fuente de cada uno de los datos»** (RTVE, 4).
 
+### La narración en el manual de López Vigil
+
+El manual trata el deporte como una **«política deportiva»** de la emisora, con estos criterios:
+
+- Espacios propios: en los noticieros, **«se suele abrir una sección para la información
+  deportiva»**; avances y *flashes* a lo largo del día para los resultados; y revistas deportivas,
+  **«un espacio amplio, de media hora o más»**, con invitados y debates.
+- La transmisión: **«Las radiorevistas con comentarios son muy escuchadas. Pero nada sustituye a la
+  emoción del partido, transmitido en vivo y en directo.»**
+- La especialidad: **«El periodismo deportivo es una especialidad.»** Quien lo practica tiene que
+  **«dominar las reglas del juego, la agenda del campeonato, las trayectorias de los jugadores, la
+  historia del deporte en cuestión»**.
+- El narrador y el comentarista: **«El buen comentarista —me decía Marcus Aurelio de Carvalho— es quien
+  te hace ver el estadio sin estar allí.»** **«Narradores y comentaristas nos prestan sus ojos, nos
+  contagian su arrebato. Describen y narran, llenan los espacios vacíos con sus apreciaciones, califican
+  jugadas y jugadores»**. **«El dominio de la disciplina deportiva es tan fundamental como la capacidad
+  de electrizar a la masa de oyentes.»**
+- Micrófonos fuera de la cabina: en las canchas, para entrevistar al público entre jugada y jugada; en
+  los vestuarios (**«vestidores»**); y entre el público, para **«encuestar sobre lo que está pasando en
+  el estadio»**. En las revistas, líneas telefónicas para que los oyentes protesten por los resultados y pronostiquen.
+- La variedad: **«Cubrir y comentar todos los deportes, no sólo el fútbol o el béisbol.»** Encaja con
+  el Contrato-programa, que pide difundir deportes minoritarios, de base y adaptado (apartado 82).
+
+Un contraste: el manual elogia **«la emoción con que se narra el partido, haciendo uso de la jerga
+rebuscada y el consabido tono apocalíptico que emplean los narradores veteranos»**; el Libro de estilo
+de Canal Sur (7.5.3.1, arriba) reprueba esos recursos en los **«antiguos cronistas radiofónicos»** y
+sólo los admite con moderación en las retransmisiones. Para Canal Sur manda el Libro de estilo. El
+manual es latinoamericano: describe la radio comunitaria, no la retransmisión de la radio española.
+
 ### Lo que no tiene fuente
 
-Ningún documento leído describe la técnica de la narración deportiva radiofónica española (reparto
-entre narrador, comentarista y reportero de campo, ritmo del relato, cómo se canta un gol). En el
-oficio, la retransmisión de un partido en radio se reparte entre un narrador que cuenta la jugada,
-un comentarista que la explica y reporteros a pie de campo o en los vestuarios, con conexiones a
-otros campos cuando hay jornada simultánea; se dice como costumbre de oficio, sin norma detrás.
+Ningún documento leído describe la técnica de la narración deportiva en la radio española: el ritmo
+del relato, cómo se canta un gol, o cómo se reparten la retransmisión el narrador, el comentarista y
+los reporteros a pie de campo (López Vigil habla de narradores y comentaristas, sin reparto de
+funciones). En el oficio, la retransmisión de un partido en radio se reparte entre un narrador que
+cuenta la jugada, un comentarista que la explica y reporteros a pie de campo o en los vestuarios, con
+conexiones a otros campos cuando hay jornada simultánea; se dice como costumbre de oficio, sin norma
+detrás.
 
 ## Aplicación práctica: cinco situaciones
 
@@ -723,12 +769,13 @@ otros campos cuando hay jornada simultánea; se dice como costumbre de oficio, s
   aplicado por analogía. Si ha sido sustituido por otro posterior, no consta en lo leído.
 - Una definición de «reportaje sonoro» como término: no la hay en las fuentes leídas; se estudia el
   reportaje radiofónico.
-- La técnica de la narración deportiva radiofónica española (reparto de voces, ritmo, el «gol»
-  cantado): sin fuente leída; lo que se dice es costumbre de oficio.
+- La técnica de la narración deportiva en la radio española (ritmo, el «gol» cantado, reparto de
+  funciones entre las voces): sin fuente leída; lo que se dice es costumbre de oficio. El manual de
+  López Vigil da criterios generales (epígrafe 8), no esa técnica.
 - La mecánica de dar y devolver una conexión, y las señas entre control y locutorio: sin fuente leída.
 - Duraciones de referencia en radio para la crónica, la entrevista o la conexión: ninguna fuente leída
-  las da. Las del Libro de estilo (dos minutos la crónica, tres la entrevista en informativo diario)
-  son de televisión.
+  las da. Las del Libro de estilo (dos minutos la crónica, tres la entrevista en informativo diario,
+  y que el reportaje, en un espacio diario, **«no supere los tres minutos»**, 3.4) son de televisión.
 - Cómo se organizan hoy las ruedas y desconexiones provinciales de Canal Sur Radio: no consta en ningún
   documento leído.
 - La preparación de la entrevista, los invitados y los permisos: tema 3. La conducción del magazine:
@@ -742,8 +789,8 @@ otros campos cuando hay jornada simultánea; se dice como costumbre de oficio, s
 | Manual de estilo de RTVE (web), capítulo 3 (RNE): 3.2.1, 3.2.1.1, 3.3.2, 3.3.3, 3.3.4, 3.3.5, 3.4, 3.4.1, 3.4.2, 3.5 | Clasificación de géneros, conexiones en el boletín, jerarquía de voces, crónica, reportaje, informe, entrevista radiofónica, debate, tertulia, retransmisión | Volcado de 02-09-2026, cotejado con la web el 24-09-2026; releído en el volcado el 03-10-2026 |
 | Manual de estilo de RTVE (web), capítulo 2 (TVE), 2.3.1.2 y 2.4.2; capítulo 4 (Medios interactivos) | Reglas de la entrevista; límite del directo; minuto a minuto | 24-09-2026 (copia de 02-09-2026 cotejada con la web) |
 | Manual de estilo de RTVE (web), capítulo 7, 7.5, glosario radiofónico | Entrevista, guion de continuidad, indicativo, ruedas | Volcado de 02-09-2026, cotejado con la web el 03-10-2026 |
-| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9: 3.2.2, 3.4, 3.5, 3.17, 7.5.1, 7.5.2, 7.5.3.1, 7.5.4, 8.1, 8.3, 8.3.2, 8.3.3, 8.4, 9.1.11, 9.3.5.3 | Reconstrucciones, reportaje, crónica, falso directo, directo, narración y lenguaje deportivos, debates | 24-09-2026; 7.5.3.1 y 7.5.4 (puntos 1, 6 y 8), 03-10-2026 |
+| Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, coord. José María Allas Llorente y Luis Carlos Díaz Salgado, 1.ª ed., marzo 2004, ISBN 84-609-0453-9: 3.2.2, 3.4, 3.5, 3.17, 7.5.1, 7.5.2, 7.5.3.1, 7.5.4, 8.1, 8.3, 8.3.2, 8.3.3, 8.4, 9.1.11, 9.3.5.3 | Reconstrucciones, reportaje, crónica, falso directo, directo, narración y lenguaje deportivos, debates | 24-09-2026; 7.5.3.1 y 7.5.4 (puntos 1, 6 y 8), 03-10-2026; 3.2.2, 3.4 y 7.5.4 (punto 1), 04-10-2026 |
 | Estatuto Profesional de RTVA/CSRTV, 3.2.3 | Separación entre información y opinión | 24-09-2026 |
-| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), art. 13.5; Contrato-programa 2024-2026 (BOJA núm. 245, de 26-12-2023), 3.1 (apartados 4 y 11) y 3.15 (apartados 82 a 84) | Espacios de debate y pluralismo; centros de producción provinciales; atención al deporte andaluz y derechos de las retransmisiones | 24-09-2026; apartados 4 y 82 a 84, 03-10-2026 |
-| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en abril de 2005), caps. 5, 7 y 9 | Género y formato; definición y decálogo de la entrevista; crónica; reportaje, documental y *feature*; debate; deporte como género | 03-10-2026 |
+| Carta del Servicio Público de la RTVA 2024-2029 (BOJA núm. 247, de 28-12-2023), art. 13.5; Contrato-programa 2024-2026 (BOJA núm. 245, de 26-12-2023), 3.1 (apartados 4 y 11) y 3.15 (apartados 82 a 84) | Espacios de debate y pluralismo; centros de producción provinciales; atención al deporte andaluz y derechos de las retransmisiones | 24-09-2026; apartados 4 y 82 a 84, 03-10-2026; apartado 84, 04-10-2026 |
+| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF, Quito, ISBN 9978-55-045-3 (introducción fechada en abril de 2005), caps. 5, 7 y 9 | Género y formato; definición y decálogo de la entrevista; crónica; reportaje, documental y *feature*; debate; deporte como género; política deportiva y narración (cap. 9) | 03-10-2026; cap. 9, 04-10-2026 |
 | Costumbre de oficio, sin norma | Tabla de géneros y valoración; mecánica de la conexión; reparto de voces en la retransmisión deportiva; tertulia con varios temas y participantes estables | — |

@@ -207,7 +207,8 @@ radio.**»
 Vigencia. El RD 500/2024, de 21 de mayo, modificó el RD 1681/2011 para adaptarlo a la nueva
 ordenación de la formación profesional: suprimió los módulos de formación y orientación laboral,
 empresa e iniciativa emprendedora y formación en centros de trabajo, renombró el proyecto como
-«**Proyecto intermodular**» y añadió cinco módulos comunes y uno optativo, pero no tocó el texto de los módulos
+«**Proyecto intermodular**» y añadió cinco módulos (inglés profesional, dos de itinerario personal para la empleabilidad, digitalización
+aplicada y sostenibilidad aplicada) y un módulo profesional optativo, pero no tocó el texto de los módulos
 0915, 0917 y 0921. Y dio a los contenidos básicos un valor nuevo: los que figuran en los anexos I
 «**tendrán la consideración de carácter orientativo**» (artículo 10.4 del RD 1681/2011, añadido por
 el artículo cuarto.Uno.f del RD 500/2024). El artículo 10.4 habla sólo de los contenidos
@@ -774,6 +775,15 @@ salida (oficio):
 En radio, el vehículo técnico es la unidad móvil de radio, y en Canal Sur tiene un puesto propio que
 la conduce (rúbrica 4).
 
+Las peticiones y la contratación tienen dueño en las fichas del convenio. Al Ayudante de producción
+(p. 110) le corresponde «**Realizar las peticiones del material audiovisual, vehículos, alojamientos,
+equipos para postproducción y demás necesidades materiales para la realización de grabaciones.**» y
+«**Colaborar con el productor en la contratación de medios externos necesarios para el desarrollo del
+programa.**». Al Productor/a (p. 194), «**Ser responsable de la relación con proveedores, empresas
+externas, otras televisiones y todo tipo de organismos públicos y privados en las grabaciones.**»,
+además de negociar la contratación de los medios (rúbrica 2). Las fichas
+no distinguen entre radio y televisión; de ahí que hablen de «grabaciones» y de «otras televisiones».
+
 ### Seguridad: la regla del Libro de estilo
 
 El epígrafe 5.6, «Diﬁcultades» (p. 85), fija el límite: **«ninguna información vale una vida, ni
@@ -784,7 +794,7 @@ acceso o situaciones meteorológicas adversas—»**. Y cierra el paso a la excu
 material estropeado, extraviado o sustraído no puede ser una excusa ante los espectadores para no
 dar una información o hacerlo deﬁcientemente.»**
 
-La regla de oficio que atraviesa todas las situaciones: ningún plano justifica un riesgo
+La regla de oficio que atraviesa todas las situaciones: ninguna conexión justifica un riesgo
 desproporcionado, y la valoración de si se puede estar la hace el equipo en el sitio. Para
 producción, eso significa planificar antes de salir: vías de salida del emplazamiento, punto de
 encuentro del equipo, teléfono de contacto con el centro y material de protección cuando la
@@ -792,7 +802,7 @@ cobertura lo pide (oficio).
 
 ### Grandes eventos: el plan de autoprotección
 
-Cuando la televisión trabaja dentro de un recinto o de un evento con mucho público, no es ella la
+Cuando la radio trabaja dentro de un recinto o de un evento con mucho público, no es ella la
 que organiza la seguridad del acto: se integra en la del titular. El RD 393/2007 aprobó la Norma
 Básica de Autoprotección. El Real Decreto 524/2023, que aprueba la Norma Básica de Protección Civil,
 la derogó con efectos de 11 de julio de 2023 (disposición derogatoria única, 2.d), pero, según
@@ -834,7 +844,7 @@ pide a los proveedores contratados.
 En un acto institucional la casa no pone las reglas: las pone quien invita. El Libro de estilo lo
 recuerda a propósito del vestuario (8.3.4): las normas de etiqueta se han relajado, **«pero es
 inexcusable cumplirlas cuando el sentido común o el protocolo fijado por el anfitrión lo
-impongan.»** Para producción, el protocolo del anfitrión decide también dónde se ponen las cámaras,
+impongan.»** Para producción, el protocolo del anfitrión decide también dónde se ponen los equipos,
 cuándo se puede montar, quién entra y con qué acreditación (oficio).
 
 Las acreditaciones son de producción (Libro de estilo, 4.4 y 4.4.4, punto 9). Se piden al
@@ -885,10 +895,10 @@ publicado):
 |---|---|
 | Presentador Productor de Radio (p. 191) | «**Realizar la previsión de medios para que la emisión sea posible.**» |
 | Productor/a (p. 194) | «**Diseñar y elaborar el plan de trabajo en la realización de programas y supervisar su cumplimiento.**», además del presupuesto (rúbrica 2) |
-| Ayudante de producción (p. 110) | «**Efectuar las citaciones, acreditaciones al equipo técnico y permisos necesarios para la realización de las grabaciones y/o directos.**» y «**Coordinar la recepción de señales siguiendo instrucciones del plan de transmisiones diseñado por el productor.**» |
+| Ayudante de producción (p. 110) | «**Efectuar las citaciones, acreditaciones al equipo técnico y permisos necesarios para la realización de las grabaciones y/o directos.**», «**Realizar las peticiones del material audiovisual, vehículos, alojamientos, equipos para postproducción y demás necesidades materiales para la realización de grabaciones.**» y «**Coordinar la recepción de señales siguiendo instrucciones del plan de transmisiones diseñado por el productor.**» |
 | Operador de Sonido de Radio (p. 187) | «**Definir y diseñar la ubicación y montaje de los equipos necesarios para la realización de programas en exteriores en directo o grabados y transportar el material y los equipos.**»; «**Controlar el tráfico de señales internas y externas entre delegaciones y entre equipos exteriores con los estudios de grabación y emisión.**»; «**Efectuar la realización técnica de programas.**» |
 | Conductor Unidad Móvil (p. 119) | Objeto: «**Conducir y poner en condiciones de operación las Unidades Móviles de Radio y sus equipos en las ubicaciones necesarias a la producción radiofónica.**» Tareas: «**Conducir las U.M. de radio. Realizar el mantenimiento preventivo de las U.M. de radio y de sus equipos. Realizar las operaciones básicas de los equipos de la Unidad Móvil de radio. Montar y desmontar los equipos de la U.M. de radio para la emisión radiofónica.**» |
-| Jefe de Baja Frecuencia (p. 166) | «**Colaborar en la planificación, coordinación y montaje técnico de programas o eventos especiales en exteriores y proyectos de ingeniería.**» |
+| Jefe de Baja Frecuencia (p. 166) | «**Colaborar en la planificación, coordinación y montaje técnico de programas o eventos especiales en exteriores y proyectos de ingeniería.**»; «**Definir las especificaciones técnicas, participar en los montajes y reformas de baja frecuencia en estudios de radio y unidades móviles.**» |
 | Jefe de Radioenlaces y Unidades Móviles (p. 167) | Objeto: «**Gestionar, mantener y supervisar las redes de telecomunicaciones y transporte de señales de RTVA y SSFF.**»; tarea: «**Coordinar y controlar los medios técnicos y humanos propios o ajenos para la gestión técnica de las redes de telecomunicaciones.**» |
 
 (**SSFF**: sociedades filiales; en otros lugares el convenio escribe «SS.FF.».)
@@ -961,7 +971,7 @@ telefonía móvil y satélite— son enlaces de red y los tres permiten ida y vu
 | Fibra FTTH a internet pública | Sí | El más barato y el menos garantizado |
 | 3G/4G/5G | Sí | Movilidad |
 | Satélite BGAN, Thuraya, banda Ka | Sí | Cobertura donde no hay nada, con retardo alto |
-| Microondas por DAB | NO | Es difusión: un emisor, muchos receptores |
+| DAB | NO | Es difusión: un emisor, muchos receptores |
 
 La tabla es de oficio. Lo que aquí importa para la radio es que cualquier enlace de ida y vuelta
 sirve para un códec IP, y que cada uno pide su perfil: la fibra admite más velocidad y un búfer

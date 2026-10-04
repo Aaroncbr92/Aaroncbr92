@@ -1,0 +1,904 @@
+Fuente: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media (es). Leída el 4-X-2026.
+
+Contenido multimedia de usuario de Instagram | Meta for Developers
+Crea con nosotros
+Documentación
+Blog
+Recursos
+Developer Centers
+Login
+Plataforma de Instagram
+Plataforma de Instagram
+Plataforma de Instagram
+Información general
+Crear una aplicación
+API de Instagram con el inicio de sesión con Instagram
+API de Instagram con el inicio de sesión con Instagram
+Guía de migración
+Inicio de sesión empresarial para Instagram
+Empezar
+Mensajes
+Mensajes
+API de perfiles de usuario
+Respuestas rápidas
+Plantilla genérica
+Plantilla de botones
+Acciones de remitente
+Menú persistente
+Iniciadores de conversación
+ig.me
+Anuncios con mensaje de bienvenida
+API de conversaciones
+Menciones
+API de Instagram con el inicio de sesión con Facebook
+API de Instagram con el inicio de sesión con Facebook
+Empezar
+Inicio de sesión con Facebook para empresas
+Descubrimiento de empresas
+API de descubrimiento de Creator Marketplace
+API de mensajes de Creator Marketplace
+Detección de derechos de autor
+Búsqueda de hashtags
+Menciones
+Etiquetado de productos
+Próximos eventos
+Colaboración
+Webhooks
+Información general
+Configurar webhooks
+Campos de webhook
+Ejemplos
+Publicar contenido
+Publicar contenido
+Subidas reanudables
+API de audio
+Complementos de subtítulos
+Moderación de comentarios
+Respuestas privadas
+Insights
+Compartir en el feed
+Compartir en Stories
+oEmbed
+Botón de inserción
+Mensajes propios
+Referencia de la API
+Referencia de la API
+Códigos de error
+Identificador de acceso
+Comentario de Instagram
+Comentario de Instagram
+Respuestas
+Contenedor de Instagram
+Búsqueda de hashtags de Instagram
+Hashtag de Instagram
+Hashtag de Instagram
+Contenido multimedia reciente
+Contenido multimedia destacado
+Contenido multimedia de Instagram
+Contenido multimedia de Instagram
+Objetos dependientes
+Colaboradores
+Comentarios
+Insights
+Encuesta adjunta
+Etiquetas de productos
+Respuesta a un mensaje
+Usuario de Instagram
+Usuario de Instagram
+Catálogos disponibles
+Descubrimiento de empresas
+Búsqueda de productos en un catálogo
+Usuario de Threads conectado
+Límite de publicación de contenido
+Insights
+Usuario de Threads respaldado por Instagram
+Contenido multimedia en directo
+Contenido multimedia
+Publicar contenido multimedia
+Menciones
+Comentario con mención
+Contenido multimedia con mención
+Apelación de productos
+Hashtags buscados recientemente
+Historias
+Etiquetas
+/me
+Autorización de OAuth
+Página
+Actualización del identificador de acceso
+Revisión de la aplicación
+Asistencia
+Registro de cambios
+Recursos
+Registro de cambios
+Documentos
+Información general
+Contenido multimedia de usuario de Instagram
+Contenido multimedia de usuario de Instagram
+Updated
+:
+28 sept. 2026
+Copiar para LLM
+Ver como Markdown
+Representa una colección de los objetos de
+contenido multimedia de Instagram
+de un
+usuario de Instagram
+.
+El 9 de julio de 2025, añadimos compatibilidad con el campo
+user_tags
+existente para las historias de vídeo e imagen en el extremo
+/<IG_ID>/media
+. Puedes mencionar a usuarios en una historia y, de forma opcional, especificar las coordenadas x e y para etiquetarlos en una coordenada concreta del contenido multimedia.
+El 24 de marzo de 2025, introdujimos el nuevo campo
+alt_text
+para las publicaciones de imagen en el extremo
+/<INSTAGRAM_PROFESSIONAL_ACCOUNT_ID>/media
+. No se admiten los reels ni las historias.
+Creación
+POST /<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+Crea un
+contenedor de Instagram
+de un reel, una historia, una secuencia o una imagen para usar en el proceso de publicación. En la guía
+Publicación de contenido
+, puedes consultar todos los pasos necesarios para realizar la publicación.
+Los pasos para publicar un objeto de contenido multimedia son los siguientes:
+Crear un contenedor
+Subir el contenido multimedia al contenedor
+Publicar el contenedor
+Limitaciones
+Limitaciones generales
+Los contenedores caducan al cabo de 24 horas.
+Las cuentas de Instagram solo pueden crear 400 contenedores en un periodo continuo de 24 horas.
+Si la
+página
+conectada a la cuenta profesional de Instagram de destino requiere
+autorización de publicación en páginas
+⁠
+(PPA), se deberá completar dicha autorización, ya que, de lo contrario, se producirá un error en la solicitud.
+Si la página conectada a la cuenta profesional de Instagram de destino requiere autenticación en dos pasos, el usuario de Facebook también debe haber completado dicho proceso; de lo contrario, se producirá un error en la solicitud.
+Te recomendamos encarecidamente usar el conjunto de caracteres para URL estándar del IETF para HTTP, es decir, URL que únicamente contengan caracteres US-ASCII; de lo contrario, se producirá un error en la solicitud.
+Limitaciones de reels
+Los reels no pueden aparecer en las secuencias.
+La configuración de privacidad de la cuenta se respeta tras la publicación. Por ejemplo, si la opción
+Permitir remix
+está activada, los reels publicados tendrán activado el remix tras su publicación. No obstante, el remix se puede desactivar manualmente en los reels publicados a través de la aplicación de Instagram.
+El etiquetado de música solo está disponible para audio original.
+Limitaciones de las historias
+Las historias caducan al cabo de 24 horas.
+Admiten la URL del vídeo o de Reels, pero no ambas.
+No se admite la publicación de stickers (es decir, enlaces, votaciones, ubicaciones); sin embargo, sí se admite mencionar a usuarios sin utilizar stickers.
+Requisitos
+Tipo
+Descripción
+Identificadores de acceso
+User
+Roles de la empresa
+⁠
+Si se van a crear contenedores para el
+etiquetado de productos
+, el usuario de la aplicación debe tener un rol de administrador en la cuenta de
+Business Manager
+⁠
+a la que pertenece la
+Tienda de Instagram
+⁠
+del usuario de Instagram.
+Permisos
+instagram_basic
+instagram_content_publish
+pages_read_engagement
+Si se ha concedido un rol en la página al usuario de la aplicación mediante Business Manager, también necesitarás uno de los permisos siguientes:
+ads_management
+ads_read
+Si se van a crear contenedores para el
+etiquetado de productos
+, también necesitarás los permisos siguientes:
+catalog_management
+instagram_shopping_tag_products
+Tareas
+El usuario de la aplicación debe poder realizar las tareas
+MANAGE
+o
+CREATE_CONTENT
+en la página conectada a la cuenta profesional de Instagram.
+Especificaciones de imagen
+Formato: JPEG.
+Tamaño del archivo: 8 MB como máximo.
+Relación de aspecto: debe estar en el intervalo de 4:5 a 1,91:1.
+Ancho mínimo: 320 (se aumentará hasta el valor mínimo en caso necesario).
+Ancho máximo: 1440 (se reducirá hasta el valor máximo en caso necesario).
+Alto: varía en función del ancho y la relación de aspecto.
+Espacio de color: sRGB. Si se usan otros espacios de color en las imágenes, se convertirán al tipo sRGB.
+Especificaciones de reels
+Las siguientes especificaciones se aplican a los reels:
+Contenedor: MOV o MP4 (MPEG-4 Parte 14), sin listas de edición, encabezado moov atom en la parte frontal del archivo.
+Códec de audio: AAC, frecuencia de muestreo máxima de 48 kHz, 1 o 2 canales (mono o estéreo).
+Códec de vídeo: HEVC o H264, escaneo progresivo, GOP cerrado, submuestreo de crominancia 4:2:0.
+Velocidad de fotogramas: 23-60 FPS.
+Tamaño de la foto:
+Número máximo de columnas (píxeles horizontales): 1920
+La relación de aspecto debe ser de entre 0,01:1 y 10:1, pero se recomienda que sea de 9:16 para evitar recortes y espacios en blanco.
+Velocidad de bits del vídeo: VBR, 25 Mbps como máximo.
+Velocidad de bits del audio: 128 kbps.
+Duración: 15 minutos como máximo y 3 segundos como mínimo.
+Tamaño del archivo: 300 MB como máximo.
+Las siguientes especificaciones se aplican a la foto de portada de los reels:
+Formato: JPEG.
+Tamaño del archivo: 8 MB como máximo.
+Espacio de color: sRGB. Si se usan otros espacios de color en las imágenes, estos se convertirán al tipo sRGB.
+Relación de aspecto: recomendamos 9:16 para evitar recortes o espacios en blanco. Si la relación de aspecto de la imagen original no es 9:16, recortamos la imagen y usamos el rectángulo de 9:16 del centro como foto de portada del reel. Si compartes un reel en tu sección de noticias, recortamos la imagen y usamos el cuadrado de 1:1 del centro como foto de portada de tu publicación en la sección de noticias.
+Especificaciones de las imágenes de las historias
+Formato: JPEG.
+Tamaño del archivo: 8 MB como máximo.
+Relación de aspecto: recomendamos 9:16 para evitar recortes o espacios en blanco.
+Espacio de color: sRGB. Si se usan otros espacios de color en las imágenes, estos se convertirán al tipo sRGB.
+Especificaciones de los vídeos de las historias
+Contenedor: MOV o MP4 (MPEG-4 Parte 14), sin listas de edición, encabezado moov atom en la parte frontal del archivo.
+Códec de audio: AAC, frecuencia de muestreo máxima de 48 kHz, 1 o 2 canales (mono o estéreo).
+Códec de vídeo: HEVC o H264, escaneo progresivo, GOP cerrado, submuestreo de crominancia 4:2:0.
+Velocidad de fotogramas: 23-60 FPS.
+Tamaño de la foto:
+Número máximo de columnas (píxeles horizontales): 1920
+La relación de aspecto debe ser de entre 0,01:1 y 10:1, pero se recomienda que sea de 9:16 para evitar recortes y espacios en blanco.
+Velocidad de bits del vídeo: VBR, 25 Mbps como máximo.
+Velocidad de bits del audio: 128 kbps.
+Duración: 60 segundos como máximo y 3 segundos como mínimo.
+Tamaño del archivo: 100 MB como máximo.
+Sintaxis de la solicitud
+Contenedores de imagen
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_IG_USER_ID>
+/media
+?image_url=
+<IMAGE_URL>
+&is_carousel_item=<TRUE_OR_FALSE>
+&alt_text=<IMAGE_ALTERNATIVE_TEXT>
+&caption=<IMAGE_CAPTION>
+&location_id=<LOCATION_PAGE_ID>
+&user_tags=<ARRAY_OF_USERS_FOR_TAGGING>>
+&product_tags=<ARRAY_OF_PRODUCTS_FOR_TAGGING>
+&access_token=<USER_ACCESS_TOKEN>
+Contenedores de reel
+Subida estándar
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+?media_type=REELS
+&video_url=<REEL_URL>
+&caption=<IMAGE_CAPTION>
+&share_to_feed=<TRUE_OR_FALSE>
+&collaborators=<COLLABORATOR_USERNAMES>
+&cover_url=<COVER_URL>
+&audio_name=<AUDIO_NAME>
+&user_tags=<ARRAY_OF_USERS_FOR_TAGGING>>
+&location_id=<LOCATION_PAGE_ID>
+&thumb_offset=<THUMB_OFFSET>
+&share_to_feed=<TRUE_OR_FALSE>
+&trial_params=<TRIAL_PARAM>
+&access_token=<USER_ACCESS_TOKEN>
+Sesión de subida reanudable
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+?media_type=REELS
+&upload_type=resumable
+&caption=<IMAGE_CAPTION>
+&collaborators=<COLLABORATOR_USERNAMES>
+&cover_url=<COVER_URL>
+&audio_name=<AUDIO_NAME>
+&user_tags=<ARRAY_OF_USERS_FOR_TAGGING>>
+&location_id=<LOCATION_PAGE_ID>
+&thumb_offset=<THUMB_OFFSET>
+&access_token=<USER_ACCESS_TOKEN>
+Si se realiza correctamente, se devuelve un
+ig-container-id
+y un
+uri
+en la respuesta, que se utilizarán en pasos posteriores, como:
+{
+"id": "
+<IG_CONTAINER_ID>
+",
+"uri": "https://rupload.facebook.com/ig-api-upload/
+v26.0
+/
+<IG_CONTAINER_ID>
+"
+}
+Contenedores de secuencia
+Solo contenedores de secuencia. Para crear contenedores de elementos de secuencia, crea contenedores de imagen o vídeo en su lugar (los reels no se admiten). Consulta la sección
+Publicaciones de secuencias
+para ver todos los pasos de publicación.
+Subida estándar
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+?media_type=CAROUSEL
+&caption=<IMAGE_CAPTION>
+&share_to_feed=<TRUE_OR_FALSE>
+&collaborators=<COLLABORATOR_USERNAMES>
+&location_id=<LOCATION_PAGE_ID>
+&product_tags=<ARRAY_OF_PRODUCTS_FOR_TAGGING>
+&children=<ARRAY_OF_CAROUSEL_CONTAINTER_IDS>
+&access_token=<USER_ACCESS_TOKEN>
+Sesión de subida reanudable
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+?media_type=VIDEO
+&is_carousel_item=true
+&upload_type=resumable
+&access_token=<USER_ACCESS_TOKEN>
+Si se realiza correctamente, se devuelve un
+ig-container-id
+y un
+uri
+en la respuesta, que se utilizarán en pasos posteriores.
+Contenedores de historias de imágenes
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>
+/media
+?image_url=
+<IMAGE_URL>
+&media_type=STORIES
+&user_tags=<ARRAY_OF_USERS_FOR_TAGGING>
+&access_token=<USER_ACCESS_TOKEN>
+Contenedores de historias de vídeos
+Subida estándar
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>
+/media
+?video_url=
+<VIDEO_URL>
+&media_type=STORIES
+&user_tags=<ARRAY_OF_USERS_FOR_TAGGING>
+&access_token=<USER_ACCESS_TOKEN>
+Sesión de subida reanudable
+POST https://graph.facebook.com/
+v26.0
+/
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+?media_type=STORIES
+&upload_type=resumable
+&access_token=<USER_ACCESS_TOKEN>
+Si se realiza correctamente, se devuelve un identificador de contenedor de Instagram y un URI en la respuesta, que se utilizarán en pasos posteriores.
+Subida de vídeos mediante el protocolo de subida reanudable
+Una vez que se ha devuelto un identificador de contenedor de Instagram en la llamada de la sesión de subida reanudable, envía una solicitud
+POST
+a
+https://rupload.facebook.com/ig-api-upload/
+.
+v26.0
+extremo
+/<IG_CONTAINER_ID>
+.
+El proceso de subida del vídeo es el mismo sea cual sea el valor de “media_type”.
+ig-container-id
+es el identificador de las sesiones de subida reanudable para contenedores de reel, secuencia y vídeo que se han mostrado como ejemplo anteriormente.
+El valor de
+access-token
+es el mismo que se ha usado en los demás pasos.
+offset
+se establece en el primer byte de la subida; normalmente,
+0
+.
+file_size
+se establece en el tamaño del archivo en bytes.
+Your_file_local_path
+se establece en la ruta de archivo del archivo local. Por ejemplo, si se sube un archivo desde la carpeta de
+descargas
+en macOS, la ruta es
+@Downloads/example.mov
+.
+curl -X POST "https://rupload.facebook.com/ig-api-upload/
+v26.0
+/
+<IG_CONTAINER_ID>
+" \
+-H "Authorization: OAuth
+<USER_ACCESS_TOKEN>
+" \
+-H "offset: 0" \
+-H "file_size: Your_file_size_in_bytes" \
+--data-binary "@Your_local_file_path.extension"
+Si se realiza correctamente, la respuesta tendrá un aspecto similar al del ejemplo siguiente:
+{
+"success":true,
+"message":"Upload successful. ..."
+}
+Subida de vídeos desde una URL hospedada
+Este servicio también admite la subida de vídeos desde URL hospedadas.
+curl -X POST "https://rupload.facebook.com/ig-api-upload/
+v26.0
+/
+<IG_CONTAINER_ID>
+" \
+-H "Authorization: OAuth
+<USER_ACCESS_TOKEN>
+" \
+-H "file_url:
+<VIDEO_URL>
+"
+Parámetros de ruta
+Marcador de posición
+Valor
+<LATEST_API_VERSION>
+Versión más reciente de la API:
+v26.0
+Versión
+de la API.
+<YOUR_APP_USERS_INSTAGRAM_USER_ID>
+Obligatorio
+Identificador de usuario específico de la aplicación del usuario de la aplicación.
+Parámetros de la cadena de consulta
+Clave
+Marcador de posición
+Descripción
+access_token
+<USER_ACCESS_TOKEN>
+Obligatorio. Identificador de acceso del
+usuario
+de la aplicación.
+alt_text
+<IMAGE_ALTERNATIVE_TEXT>
+Solo para las publicaciones con imagen.
+Texto alternativo de una imagen; 1000 caracteres como máximo. Solo se admite en una sola imagen o en las imágenes de una secuencia.
+No se admiten los reels ni las historias.
+audio_name
+<AUDIO_NAME>
+Solo para los reels.
+Nombre del audio del contenido multimedia del reel. Solo se puede cambiar el nombre una vez, ya sea mientras se crea el reel o después, desde la página de audio.
+caption
+<IMAGE_CAPTION>
+Subtítulo de la imagen, el vídeo o la secuencia. Puede incluir hashtags (p. ej.,
+#crazywildebeest
+) y nombres de usuario de Instagram (p. ej.,
+@natgeo
+). Los usuarios de Instagram con @menciones reciben una notificación cuando se publica el contenedor. Admite como máximo 2200 caracteres, 30 hashtags y 20 etiquetas con @.
+No se admite en imágenes ni vídeos de secuencias
+.
+collaborators
+<LIST_OF_COLLABORATORS>
+Solo para las imágenes del feed, los reels y las secuencias. Una lista de un máximo de tres nombres de usuario de Instagram como colaboradores en un archivo multimedia de Instagram.
+No se admite en las historias.
+children
+<ARRAY_OF_CAROUSEL_CONTAINTER_IDS
+Obligatorio para las secuencias. Solo se aplica a las secuencias
+. Matriz de hasta 10 identificadores de contenedor de cada imagen y vídeo que debe aparecer en la secuencia publicada. En total, las secuencias pueden tener hasta diez imágenes, vídeos o una combinación de ambos.
+cover_url
+<COVER_URL>
+Solo para Reels. La ruta a una imagen para usar como imagen de portada de la pestaña Reels. Aplicaremos cURL a la imagen mediante la URL que especifiques, por lo que se debe encontrar en un servidor público. Si especificas
+cover_url
+y
+thumb_offset
+, usamos
+cover_url
+e ignoramos
+thumb_offset
+. La imagen debe cumplir las
+especificaciones de una foto de portada de reels
+.
+image_url
+<IMAGE_URL>
+Solo para imágenes y obligatorio para imágenes. Ruta a la imagen. Aplicaremos cURL a la imagen mediante la URL que especifiques, por lo que se debe encontrar en un servidor público.
+is_carousel_item
+<TRUE_OR_FALSE>
+Solo se aplica a las imágenes y los vídeos
+. Definida como
+true
+. Indica que la imagen o el vídeo aparece en una secuencia.
+location_id
+<LOCATION_PAGE_ID>
+Identificador de una
+página
+asociado con una ubicación con la que quieres etiquetar la imagen o el vídeo.
+Utiliza la
+API de búsqueda de páginas
+para buscar
+páginas
+cuyos nombres coincidan con una cadena de búsqueda. Luego, analiza los resultados para identificar las páginas que se han creado para una ubicación física. Incluye el campo
+location
+en la consulta y verifica que la página que quieres utilizar tenga datos de ubicación. Si se intenta crear un contenedor con una página que no tenga datos de ubicación, se producirá un error con el código de excepción
+INSTAGRAM_PLATFORM_API__INVALID_LOCATION_ID
+.
+No se admite en imágenes ni vídeos de secuencias
+.
+media_type
+<MEDIA_TYPE>
+Obligatorio para las secuencias, las historias y los reels.
+Indica que el contenedor es para una secuencia, una historia o un reel. El valor puede ser uno de los siguientes:
+CAROUSEL
+REELS
+STORIES
+product_tags
+<ARRAY_OF_PRODUCTS_FOR_TAGGING>
+Obligatorio para el etiquetado de productos. Solo se aplica a las imágenes y los vídeos
+. Matriz de objetos que especifica las etiquetas de productos con las que etiquetar la imagen o el vídeo (máximo cinco; las etiquetas y los identificadores de productos deben ser únicos). Cada objeto debe tener la información siguiente:
+product_id
+:
+obligatorio.
+Identificador del producto.
+x
+:
+solo imágenes.
+Valor flotante opcional que indica la distancia en porcentaje desde el borde izquierdo de la imagen del contenido multimedia publicado. El valor debe estar comprendido en el intervalo entre
+0.0
+y
+1.0
+.
+y
+:
+solo imágenes.
+Valor flotante opcional que indica la distancia en porcentaje desde el borde superior de la imagen del contenido multimedia publicado. El valor debe estar comprendido en el intervalo entre
+0.0
+y
+1.0
+.
+Por ejemplo:
+[{product_id:'3231775643511089',x: 0.5,y: 0.8}]
+share_to_feed
+<TRUE_OR_FALSE>
+Solo para Reels. Si se define como
+true
+, indica que el reel puede aparecer en las pestañas
+Noticias
+y
+Reels
+. Si se define como
+false
+, indica que el reel solo puede aparecer en la pestaña
+Reels
+.
+Ninguno de los valores determina si el reel aparece realmente en la pestaña
+Reels
+, porque es posible que no cumpla con los requisitos de idoneidad o que nuestro algoritmo no lo seleccione. Consulta las
+especificaciones de los reels
+para ver los criterios de idoneidad.
+thumb_offset
+<THUMB_OFFSET>
+Para los vídeos y los reels. Ubicación, en milisegundos, del fotograma del vídeo o el reel que se usará como imagen en miniatura de la portada. El valor predeterminado es
+0
+, que es el primer fotograma del vídeo o el reel. Para los reels, si especificas
+cover_url
+y
+thumb_offset
+, usamos
+cover_url
+e ignoramos
+thumb_offset
+.
+upload_type
+<UPLOAD_TYPE>
+Parámetro opcional para los usuarios que quieren subir un vídeo mediante el protocolo de subida reanudable; los valores se pueden establecer en un valor de cadena en minúscula:
+resumable
+.
+user_tags
+<ARRAY_OF_USERS_FOR_TAGGING>>
+Obligatorio para etiquetar a usuarios en imágenes, vídeos e historias.
+Matriz de nombres de usuario públicos y coordenadas
+x
+/
+y
+para cualquier usuario de Instagram público que quieras etiquetar en la imagen. Cada objeto de la matriz debe tener la información siguiente:
+username
+:
+obligatorio.
+Nombre de usuario.
+x
+:
+obligatorio para las imágenes; opcional para las historias. Solo se aplica a las imágenes y las historias
+. Valor flotante que indica la distancia en porcentaje desde el borde izquierdo de la imagen del contenido multimedia publicado. El valor debe estar comprendido en el intervalo entre
+0.0
+y
+1.0
+.
+y
+:
+obligatorio para las imágenes; opcional para las historias. Solo se aplica a las imágenes y las historias
+. Valor flotante que indica la distancia en porcentaje desde el borde superior de la imagen del contenido multimedia publicado. El valor debe estar comprendido en el intervalo entre
+0.0
+y
+1.0
+.
+video_url
+<VIDEO_URL>
+Obligatorio para los vídeos y los reels. Solo se aplica a los vídeos y los reels
+. Ruta al vídeo. Realizamos una solicitud cURL para recuperar el vídeo con la URL proporcionada, por lo que se debe encontrar en un servidor público.
+trial_params
+<TRIAL_PARAM>
+Parámetro opcional para publicar reels de prueba. El
+media_type
+debe ser
+REELS
+si este parámetro se incluye en la solicitud. Cada objeto debe incluir la información siguiente:
+graduation_strategy
+-
+Obligatorio
+. La estrategia de graduación especifica las condiciones para graduar un reel (convertir el reel de prueba en un reel y compartirlo con los seguidores). El valor debería ser
+MANUAL
+o
+SS_PERFORMANCE
+. Cuando es
+MANUAL
+, el reel de prueba se puede graduar manualmente en la aplicación nativa. Cuando es
+SS_PERFORMANCE
+, si el reel de prueba tiene un buen rendimiento, se graduará automáticamente.
+branded_content_sponsor_ids
+<BRANDED_CONTENT_SPONSOR_IDS>
+Matriz de identificadores de usuario de Instagram de las marcas que se van a etiquetar como socios en una
+etiqueta de anuncios entre socios
+. Dos identificadores como máximo. Utiliza la
+API de descubrimiento de empresas
+para buscar el identificador de una marca por su nombre de usuario. Requiere el permiso
+instagram_branded_content_creator
+o
+instagram_basic
+.
+No se admite en contenido multimedia con el que se hayan creado remixes ni publicaciones solo para mejores amigos
+.
+is_paid_partnership
+<TRUE_OR_FALSE>
+Activa la etiqueta “Colaboración pagada” en la publicación. Se establece automáticamente en
+true
+cuando se proporciona
+branded_content_sponsor_ids
+. Utilízala sin
+branded_content_sponsor_ids
+para una publicación que solo incluya una etiqueta. Consulta
+Etiqueta de anuncios entre socios
+para obtener más información. Solo está disponible para la API de Instagram con el inicio de sesión con Facebook.
+is_ai_generated
+<TRUE_OR_FALSE>
+Parámetro opcional para proporcionar una divulgación de uso de la IA en la publicación. No disponible para los elementos dependientes de secuencia.
+poll_attachment
+<POLL_ATTACHMENT>
+Se adjunta una votación de complemento
+caption
+a la publicación. Objeto JSON con
+option_a
+y
+option_b
+obligatorios, y
+option_c
+y
+option_d
+opcionales, donde
+option_d
+requiere
+option_c
+. Cada opción tiene entre 1 y 25 caracteres. El valor serializado debe tener 200 caracteres o menos. Requiere un valor de
+caption
+que no esté vacío, el cual se convertirá en la pregunta de la votación. Solo está disponible para la API de Instagram con el inicio de sesión con Facebook.
+No se puede combinar con
+is_comment_prompt_used
+. No se admite en los elementos dependientes de las historias ni de las secuencias; establece el valor en el contenedor de la secuencia en su lugar.
+is_poll_duration_extended
+<TRUE_OR_FALSE>
+Las votaciones de complementos de
+caption
+permanecen activas durante tres días de forma predeterminada. Se establece en
+true
+para dejar la votación abierta de forma indefinida. Solo se puede utilizar junto con
+poll_attachment
+.
+is_comment_prompt_used
+<TRUE_OR_FALSE>
+Adjunta una solicitud de comentario de complemento de
+caption
+a la publicación. Requiere un valor de
+caption
+que no esté vacío, que se convierte en la instrucción que los usuarios finales responden en los comentarios. Solo está disponible para la API de Instagram con el inicio de sesión con Facebook.
+No se puede combinar con
+poll_attachment
+. No se admite en los elementos dependientes de las historias ni de las secuencias; establece el valor en el contenedor de la secuencia en su lugar.
+Respuesta
+Un objeto con formato JSON que contiene el identificador de un
+contenedor de Instagram
+que puedes utilizar para
+publicar
+el contenedor.
+Las subidas de vídeos se realizan de forma asincrónica, por lo que la recepción del identificador de un contenedor no garantiza que la subida se haya completado correctamente. Para verificar que un vídeo se haya subido, solicita el campo
+status_code
+en el contenedor de Instagram. Si su valor es
+FINISHED
+, significa que el vídeo se ha subido correctamente.
+{
+"id":"
+<IG_CONTAINER_ID>
+"
+}
+Ejemplo de solicitud
+POST graph.facebook.com/17841400008460056/media
+?image_url=curls//www.example.com/images/bronzed-fonzes.jpg
+&caption=#BronzedFonzes!
+&collaborators= ['username1','username2']
+&user_tags=[
+{
+username:'kevinhart4real',
+x: 0.5,
+y: 0.8
+},
+{
+username:'therock',
+x: 0.3,
+y: 0.2
+}
+]
+Respuesta de ejemplo
+{
+"id": "17889455560051444"
+}
+Lectura
+GET /<YOUR_APP_USERS_INSTAGRAM_USER_ID>/media
+Obtén todo el contenido multimedia
+de Instagram
+de un
+user de Instagram
+.
+El campo
+media_url
+se omite para los vídeos que incluyan audio con licencia o protegido por derechos de autor, incluido el audio que se haya añadido desde la biblioteca de audio de Instagram, o que se haya marcado porque infringe los derechos de autor. Se aplica a todo el contenido multimedia de vídeo, incluido el que pertenece al usuario de la aplicación. También se omite en el caso de los reels cuyo propietario haya desactivado las descargas de reels y en las solicitudes que leen contenido multimedia de otro usuario: descubrimiento de empresas, etiquetas, menciones, búsqueda de hashtags y contenido multimedia colaborativo. Esta condición se evalúa teniendo en cuenta el propietario del reel, por lo que puede aplicarse a un reel con el que el usuario de la aplicación haya colaborado. Todos los demás campos se devuelven con normalidad. Consulta
+Contenido multimedia de Instagram
+para obtener más información.
+Limitaciones
+Devuelve un máximo de 10 000 elementos del contenido multimedia más reciente.
+No se admite el contenido multimedia de las historias de Instagram; en su lugar, puedes usar el extremo
+GET /<YOUR_APP_USERS_INSTAGRAM_USER_ID>/stories
+.
+Requisitos
+Tipo
+Descripción
+Identificadores de acceso
+User
+Permisos
+instagram_basic
+pages_read_engagement
+o
+pages_show_list
+Si se ha concedido un rol de la página al usuario de la aplicación mediante Business Manager, también necesitarás uno de los elementos siguientes:
+ads_management
+business_management
+Paginación basada en el tiempo
+Este extremo admite la
+paginación basada en el tiempo
+. Incluye los parámetros de la cadena de consulta
+since
+y
+until
+con la marca de tiempo Unix o los valores de datos
+strtotime
+para definir un intervalo de tiempo.
+Ejemplo de solicitud
+GET graph.facebook.com/
+v26.0
+/17841405822304914/media
+Respuesta de ejemplo
+{
+"data": [
+{
+"id": "17895695668004550"
+},
+{
+"id": "17899305451014820"
+},
+{
+"id": "17896450804038745"
+},
+{
+"id": "17881042411086627"
+},
+{
+"id": "17869102915168123"
+}
+]
+}
+Actualización
+Esta operación no es compatible.
+Eliminación
+Esta operación no es compatible.
+Más información
+Códigos de error
+Crea con Meta
+IA
+Meta Horizon
+Tecnologías sociales
+Noticias
+Meta for Developers
+Blog
+Historias de éxito
+Asistencia
+Asistencia para desarrolladores
+Herramienta de errores
+Estado de la plataforma
+Foro de la comunidad de desarrolladores
+Informar de un incidente
+Condiciones y políticas
+Iniciativas para una plataforma responsable
+Condiciones de la plataforma
+Políticas para desarrolladores
+Política de privacidad
+Cookies
+Información sobre nosotros
+Información
+Empleo
+Crea con Meta
+IA
+Meta Horizon
+Tecnologías sociales
+Noticias
+Meta for Developers
+Blog
+Historias de éxito
+Asistencia
+Asistencia para desarrolladores
+Herramienta de errores
+Estado de la plataforma
+Foro de la comunidad de desarrolladores
+Informar de un incidente
+Información sobre nosotros
+Información
+Empleo
+Condiciones y políticas
+Iniciativas para una plataforma responsable
+Condiciones de la plataforma
+Políticas para desarrolladores
+Política de privacidad
+Cookies
+Crea con Meta
+IA
+Meta Horizon
+Tecnologías sociales
+Noticias
+Meta for Developers
+Blog
+Historias de éxito
+Asistencia
+Asistencia para desarrolladores
+Herramienta de errores
+Estado de la plataforma
+Foro de la comunidad de desarrolladores
+Informar de un incidente
+Información sobre nosotros
+Información
+Empleo
+Condiciones y políticas
+Iniciativas para una plataforma responsable
+Condiciones de la plataforma
+Políticas para desarrolladores
+Política de privacidad
+Cookies
+Crea con Meta
+IA
+Meta Horizon
+Tecnologías sociales
+Noticias
+Meta for Developers
+Blog
+Historias de éxito
+Asistencia
+Asistencia para desarrolladores
+Herramienta de errores
+Estado de la plataforma
+Foro de la comunidad de desarrolladores
+Informar de un incidente
+Información sobre nosotros
+Información
+Empleo
+Condiciones y políticas
+Iniciativas para una plataforma responsable
+Condiciones de la plataforma
+Políticas para desarrolladores
+Política de privacidad
+Cookies
+Español (España)

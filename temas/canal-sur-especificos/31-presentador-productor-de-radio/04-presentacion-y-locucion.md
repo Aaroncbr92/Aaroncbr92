@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Sin norma: no la hay. *Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía* (RTVA, 2004), capítulos 3, 6, 8, 11 y 12, el único libro de estilo publicado de Canal Sur, que es de televisión; *Manual de estilo de RTVE* (3.5, 6.3.1 y glosario 7.5), como referencia de oficio de otro medio público; José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas* (Quito, 2005), capítulos 3, 4, 7 y 9, como manual de oficio; documentación del fabricante Yamaha (órdenes). Lo demás, costumbre de oficio, y así se dice |
 | **Redacción que se estudia** | No procede: ninguna norma sostiene este tema. Libro de estilo de Canal Sur, 1.ª ed., marzo 2004; Manual de estilo de RTVE en su versión web, leído el 24-09-2026 (3.5 y 6.3.1) y cotejado el 03-10-2026 (glosario 7.5) |
-| **Extensión** | 7.700 palabras aproximadamente |
+| **Extensión** | 7.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -62,6 +62,7 @@ control; quién pacta los términos de un directo y dónde se plasman.
 - [3. Ritmo](#3-ritmo)
   - [Modular: jugar con la voz](#modular-jugar-con-la-voz)
   - [Las pausas](#las-pausas)
+  - [La velocidad de la locución informativa](#la-velocidad-de-la-locución-informativa)
   - [El ritmo en el Libro de estilo y en el Manual de RTVE](#el-ritmo-en-el-libro-de-estilo-y-en-el-manual-de-rtve)
   - [El ritmo del programa y de la pareja](#el-ritmo-del-programa-y-de-la-pareja)
 - [4. Improvisación](#4-improvisación)
@@ -338,6 +339,20 @@ crucial»** antes del eslogan de cierre. Y la monotonía tiene dos causas: **«N
 más palabras en menos tiempo. Porque la monotonía se puede provocar tanto por lentitud como por
 sobreexcitación.»** La pausa como silencio con sentido, frente al bache, está en el tema 1.
 
+### La velocidad de la locución informativa
+
+El manual de López Vigil (capítulo 7, «Entre ceremoniosos y gritones») hace depender la velocidad
+**«de los diferentes ritmos culturales»** y, aun así, fija una horquilla: **«podemos establecer un
+promedio de 150 a 200 palabras por minuto.»** Fuera de ella: **«Más palabras, comienza el atropello.
+Menos, comienzan los bostezos.»** En nota (34) recoge, de segunda mano, las cifras de Cebrián Herreros:
+los estudios de la BBC sobre el inglés de sus servicios informativos sitúan la comprensibilidad
+**«entre las 160 y 170 vocablos por minuto»**; para el
+castellano, **«entre las 160 y las 180 palabras por minuto. Pero faltan pruebas empíricas definitivas
+con la audiencia para confirmar tal hipótesis.»**; en los Diarios Hablados de Radio Nacional de España,
+**«la velocidad oscila entre 160 y 190 palabras por minuto.»** Y la velocidad no basta: **«Cualquier
+ritmo uniforme cansa a la oreja, como una carretera sin curvas que provoca accidentes, sin importar a
+qué velocidad se recorra.»**
+
 ### El ritmo en el Libro de estilo y en el Manual de RTVE
 
 El Libro de estilo liga el ritmo de la locución a la imagen (6.2.2, «El ritmo de la narración»): **«La
@@ -392,7 +407,8 @@ forma.»**
 - El exceso contrario: el manual critica los guiones de una revista juvenil en que todo estaba
   escrito, **«Hasta el saludo»**, por el tiempo que se gasta y, sobre todo, por **«los resultados acartonados que se obtienen con ello.»**
 - El exceso de confianza: **«Hay quienes confían demasiado en su locuacidad, en su capacidad
-  comunicativa, y todo lo improvisan.»** El resultado, **«una conducción fría, desinteresada, con muchas
+  comunicativa, y todo lo improvisan. Peor aún, entran a cabina dispersos, pensando en pajaritos, y no
+  logran imaginar al oyente, sentirlo.»** El resultado, **«una conducción fría, desinteresada, con muchas
   palabras tal vez, pero con poca energía.»**
 - Lo que no se improvisa: **«Nadie será tan imprudente como para improvisar un editorial sobre un tema
   político grave, donde cada palabra tiene su peso y su medida.»**
@@ -540,10 +556,17 @@ romper.»** Con límites: **«No hay que hacer algo similar en cada línea. Ni s
 cambiar el sentido a lo que está escrito en aras de la originalidad. Por ello, el locutor debe conocer
 bien el texto de antemano.»** La regla final: **«la mejor lectura será la que no suena a leída.»**
 
+La salvedad de los informativos: el mismo manual excluye la lectura libre de las noticias (capítulo 7,
+«Entre ceremoniosos y gritones»): **«Tampoco se aceptaría una lectura libre, parafraseada, que en otros
+formatos puede ser recomendable, pero no en la lectura informativa. Los locutores se someterán al texto
+y respetarán la precisión de las frases con igual energía que coloquialidad.»** Leer noticias que no
+suenen a leídas, sí; parafrasearlas, no.
+
 La lectura libre de López Vigil choca en parte con el Manual de RTVE, que critica a quienes **«puntúen
 o adapten los textos a su estilo de lectura, estableciendo pausas innecesarias»** (epígrafe 3). Las dos
 cosas se concilian en el límite que pone el propio López Vigil: flexibilizar la forma sin cambiar el
-sentido. La conciliación es de oficio: ninguna de las dos fuentes la escribe.
+sentido. La conciliación es de oficio: ninguna de las dos fuentes la escribe. En la lectura
+informativa no hay conflicto: López Vigil tampoco admite allí la paráfrasis.
 
 ## 6. Autocontrol
 
@@ -737,8 +760,8 @@ resolver. La operación de la mesa (niveles, entradas, salidas, continuidad) es 
   radiofónico se apoya en el Manual de RTVE y en el manual de López Vigil, que no obligan a Canal Sur.
 - Un código de señas entre locutorio y control publicado: no existe en ninguna fuente leída. La tabla
   del epígrafe 7 es uso de oficio.
-- Técnica vocal con cifras (velocidad de lectura en palabras por minuto, frecuencias de la voz): sin
-  manual leído; no se dan.
+- Técnica vocal con cifras (frecuencias de la voz): sin manual leído; no se dan. La velocidad de
+  lectura, en el epígrafe 3, sólo con las cifras del manual de López Vigil y de Cebrián en él citado.
 - Las normas de pronunciación letra por letra (seseo, ceceo y demás, capítulo 12 del Libro de estilo):
   no se desarrollan aquí.
 - El ritmo del boletín, los planos sonoros, la pausa y el bache, y las transiciones: tema 1. Escaleta,
@@ -754,7 +777,7 @@ resolver. La operación de la mesa (niveles, entradas, salidas, continuidad) es 
 | Libro de estilo de Canal Sur Televisión y Canal 2 Andalucía, RTVA, 1.ª ed., marzo 2004: Introducción, 3.14, 6.2.2, 8.1 (puntos 3 y 5 a 9), 8.3, 8.3.1, 8.3.2, 8.6, capítulo 11 «Normas básicas», capítulo 12 «Normas básicas» | Valor del libro; naturalidad; normas de pronunciación; defectos de ritmo; improvisación; lectura; dominio de uno mismo; pacto del directo | 24-09-2026 |
 | Manual de estilo de RTVE (web): 3.5 (RNE), 6.3.1 (El lenguaje) | Improvisación en la retransmisión; lectura, puntuación y pausas | 24-09-2026 (web vigente) |
 | Manual de estilo de RTVE, 7.5, «Glosario de términos utilizados en el lenguaje radiofónico» | Guion de continuidad, escaleta, pauta | Volcado de 02-09-2026, cotejado con la web el 03-10-2026 |
-| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF (Quito), ISBN 9978-55-045-3, introducción fechada en abril de 2005; licencia que autoriza copia citando la fuente: capítulo 3 (pausas; el operador en una radio natural), capítulo 4 «Locutoras y locutores» entero, capítulo 7 (cortes; entrevista), capítulo 9 «Radiorevistas» (conductor, pareja, directo, la radio entre la gente) | El oficio de hablar; voz; a quién se habla; naturalidad; articulación y dicción; respiración; cuidado de la voz; modulación; pausas; improvisación; directo; lectura y sus cuatro niveles; nervios y muletillas; radialista integral; trato con el operador | 03-10-2026 |
-| Mariano Cebrián Herreros, *Información radiofónica*, citado en nota por López Vigil (cap. 4, notas 1 y 23) | Voz impostada frente a voz viva; el comunicador radiofónico | Cita de segunda mano, 03-10-2026 |
+| José Ignacio López Vigil, *Manual urgente para radialistas apasionados y apasionadas*, ed. PDF (Quito), ISBN 9978-55-045-3, introducción fechada en abril de 2005; licencia que autoriza copia citando la fuente: capítulo 3 (pausas; el operador en una radio natural), capítulo 4 «Locutoras y locutores» entero, capítulo 7 (cortes; entrevista; «Entre ceremoniosos y gritones»), capítulo 9 «Radiorevistas» (conductor, pareja, directo, la radio entre la gente) | El oficio de hablar; voz; a quién se habla; naturalidad; articulación y dicción; respiración; cuidado de la voz; modulación; pausas; improvisación; directo; lectura y sus cuatro niveles; velocidad de la locución informativa y salvedad de la lectura libre en informativos; nervios y muletillas; radialista integral; trato con el operador | 03-10-2026 |
+| Mariano Cebrián Herreros, *Información radiofónica*, citado en nota por López Vigil (cap. 4, notas 1 y 23; cap. 7, nota 34) | Voz impostada frente a voz viva; el comunicador radiofónico; velocidad en palabras por minuto (BBC, castellano, RNE) | Cita de segunda mano, 03-10-2026 (nota 34, 04-10-2026) |
 | Documentación del fabricante Yamaha (órdenes, *talkback*), en la cita del tema 7 | Qué son las órdenes y el atenuador de escucha | Tema 7, cerrado |
 | Costumbre de oficio, sin norma | Reparto del estudio; autocontrol; señas entre locutorio y control; los pies en la escaleta; respuesta por señas a las órdenes | — |

@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Presentador Productor de Radio · punto 11 |
 | **Sirve para** | Puesto 2.31, Presentador Productor de Radio (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Normas: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2, 4, 6, 7.1, 10, 12, 14, 15, 76, 82, 83, 84, 85, 86, 88, 89, 91, 93.1, 101.1.g y 156.2); Reglamento (UE) 2022/2065, de Servicios Digitales (arts. 6, 8, 16, 17, 20 y 33.1); Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación (arts. 2, 6, 8, 18 y 29). Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 6.8, 7 y 26); Contrato-programa RTVA 2024-2026 (cláusula segunda; cláusula tercera, puntos 29, 30, 45 a 48, 98, 99, 103 a 107, 109 y 111); Memoria RTVA 2022. Otros: *Manual de Estilo de RTVE*, capítulo 4, como pauta de oficio; páginas oficiales de ayuda de YouTube; Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
-| **Redacción que se estudia** | La vigente el 24/09/2026. Los artículos citados de la Ley 13/2022 tienen una sola redacción; los reglamentos europeos, en su texto publicado en el Diario Oficial de la Unión Europea; el Contrato-programa rige del 1-I-2024 al 31-XII-2026; las páginas de ayuda de YouTube son páginas vivas y se dan tal como estaban el 25-09-2026 |
-| **Extensión** | 13.700 palabras aproximadamente |
+| **Fuente** | Normas: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual (arts. 2, 4, 6, 7.1, 10, 12, 14, 15, 76, 82, 83, 84, 85, 86, 88, 89, 91, 93.1, 101.1.g y 156.2); Reglamento (UE) 2022/2065, de Servicios Digitales (arts. 6, 8, 16, 17, 20 y 33.1); Reglamento (UE) 2024/1083, sobre la Libertad de los Medios de Comunicación (arts. 2, 6, 8, 18 y 29). Documentos de la casa: Carta del Servicio Público de la RTVA 2024-2029 (arts. 6.8, 7 y 26); Contrato-programa RTVA 2024-2026 (cláusula segunda; cláusula tercera, puntos 29, 30, 45 a 48, 98, 99, 103 a 107, 109 y 111); Memoria RTVA 2022. Otros: *Manual de Estilo de RTVE*, capítulo 4, como pauta de oficio; páginas oficiales de ayuda de YouTube; documentación para desarrolladores de Instagram (Meta) y de TikTok; Asociación para la Investigación de Medios de Comunicación (AIMC), *Normas de radio en EGM*; Reuters Institute, *Digital News Report 2026*. Lo demás, oficio declarado como tal |
+| **Redacción que se estudia** | La vigente el 24/09/2026. Los artículos citados de la Ley 13/2022 tienen una sola redacción; los reglamentos europeos, en su texto publicado en el Diario Oficial de la Unión Europea; el Contrato-programa rige del 1-I-2024 al 31-XII-2026; las páginas de ayuda de YouTube son páginas vivas y se dan tal como estaban el 25-09-2026, y las de Instagram y TikTok, el 4-10-2026 |
+| **Extensión** | 14.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -24,7 +24,7 @@ por internet (**OTT**, *over the top*); vídeo a la carta (**VoD**, *video on de
 gestión de contenidos (**CMS**, *content management system*); alta definición (**HD**) y ultra alta
 definición (**UHD**); Unión Europea de Radiodifusión (**EBU**, por su nombre inglés), cuya
 recomendación R 128 fija la sonoridad de emisión; unidades de sonoridad relativas a la escala
-completa (**LUFS**, *loudness units relative to full scale*). JPG y PNG son nombres de uso de dos formatos de imagen
+completa (**LUFS**, *loudness units relative to full scale*). Asociación para la Investigación de Medios de Comunicación (**AIMC**), que hace el Estudio General de Medios (**EGM**). JPG (o JPEG) y PNG son nombres de uso de dos formatos de imagen
 fija, no siglas que se desarrollen. Unidades: megabytes (**MB**). «La Carta» es la Carta del
 Servicio Público de la RTVA 2024-2029; «el Contrato-programa», el Contrato-programa RTVA 2024-2026;
 «el Manual de RTVE», el *Manual de Estilo de RTVE*.
@@ -82,6 +82,7 @@ juegos de azar; cuánto hay que conservar lo puesto a disposición del público.
   - [Qué es un clip](#qué-es-un-clip)
   - [La pieza que se entiende sola](#la-pieza-que-se-entiende-sola)
   - [Formatos verticales y Shorts](#formatos-verticales-y-shorts)
+  - [Reels de Instagram y vídeos de TikTok](#reels-de-instagram-y-vídeos-de-tiktok)
   - [Miniaturas](#miniaturas)
   - [Miniaturas: lo que recomienda YouTube](#miniaturas-lo-que-recomienda-youtube)
   - [Música y reclamaciones de derechos en las plataformas](#música-y-reclamaciones-de-derechos-en-las-plataformas)
@@ -333,9 +334,15 @@ oyente elige el momento, lo pide él, y lo que el prestador elige es el catálog
 Contrato-programa lo dice con la palabra: los «**servicios sonoros ‘a petición’ abarcando también
 las modalidades de podcast**» forman parte del servicio público (epígrafe 1).
 
-Fuera de la ley, como vocabulario de oficio, el pódcast es un programa de audio publicado como
-fichero, por episodios, que el oyente escucha a la carta en una plataforma o en una aplicación, y al
-que puede suscribirse para recibir los nuevos episodios.
+El medidor de audiencias sí da una definición, no normativa sino a efectos de la medición del EGM: **«Por definición un podcast es programa o fragmento de programa que se ha emitido
+anteriormente y que se puede descargar y/o escuchar en cualquier momento, pero siempre después de su
+emisión/grabación, nunca en directo.»** (AIMC, normas de radio, «Aclaración de la asignación horaria
+de audiencia»). Es la definición del pódcast que viene de la antena; el pódcast nativo, que no se
+emite, queda fuera de ella.
+
+Fuera de la ley y de la medición, como vocabulario de oficio, el pódcast es un programa de audio
+publicado como fichero, por episodios, que el oyente escucha a la carta en una plataforma o en una
+aplicación, y al que puede suscribirse para recibir los nuevos episodios.
 
 En Canal Sur, el Contrato-programa lo sitúa en su «**propia plataforma digital de servicios
 Podcast**» (punto 45), lo encarga a Canal Sur Media (punto 46), y fija que la plataforma funcione 24
@@ -402,9 +409,13 @@ Lo que sigue no es norma sino costumbre del oficio, y así se estudia:
   pódcast»** subidas desde el móvil (epígrafe 5, «Miniaturas»).
 - Periodicidad. Un pódcast que se anuncia semanal se publica cada semana; la regularidad es parte de la
   relación con el oyente suscrito.
-- Medición. El Estudio General de Medios recoge la escucha en diferido o pódcast, pero la suma a la
-  cadena y no al programa del que procede; la audiencia propia de cada pódcast se mide por otra vía.
-  Es el tema 16.
+- Medición. En el EGM, según las normas de radio de AIMC, quien declara escuchar un pódcast da audiencia a la
+  cadena y no al programa del que procede: la audiencia **«se asignará a la cadena correspondiente en
+  el momento que haya declarado escucharlo el individuo, independientemente del programa a que
+  corresponda y de la franja en la que fuese emitido originalmente»**, y **«Aportará, por tanto,
+  audiencia al programa de la cadena que se esté emitiendo en el día y cadena en el que se está
+  escuchando el podcast»**. Un pódcast del magacín de la mañana oído a las diez de la noche suma, pues,
+  al programa que la cadena emite a las diez de la noche. El resto de la medición, en el tema 16.
 
 ## 3. Redes
 
@@ -745,6 +756,39 @@ cuadro lleno; no se entrega la horizontal metida en un cuadro 9:16 con franjas n
 vídeo para redes, con sus formatos y codificaciones, es el tema 12 del específico de Operador/a
 Montador/a de Vídeo).
 
+### Reels de Instagram y vídeos de TikTok
+
+Las páginas de ayuda de Instagram y de TikTok para el usuario no se han podido leer. Lo que sigue sale
+de la documentación oficial para desarrolladores de cada plataforma, que fija qué se puede publicar
+por su interfaz de programación (la vía por la que un gestor de contenidos publica sin pasar por la
+aplicación); los límites de la aplicación pueden ser otros. Son páginas vivas, leídas el 4-10-2026.
+
+Instagram (Meta for Developers, «Contenido multimedia de usuario de Instagram», especificaciones de
+reels):
+
+- Duración: **«15 minutos como máximo y 3 segundos como mínimo»**.
+- Relación de aspecto: **«debe ser de entre 0,01:1 y 10:1, pero se recomienda que sea de 9:16 para
+  evitar recortes y espacios en blanco»**.
+- Portada: se recomienda 9:16; si la imagen no lo es, **«recortamos la imagen y usamos el rectángulo
+  de 9:16 del centro como foto de portada del reel»**, y si el reel se comparte en la sección de
+  noticias, se usa **«el cuadrado de 1:1 del centro»**. Formato JPEG, hasta 8 MB.
+- Las historias de vídeo, en cambio: **«60 segundos como máximo y 3 segundos como mínimo»**.
+
+TikTok (TikTok for Developers, «Media Transfer Guide», última actualización 4-8-2026):
+
+- Duración: **«All TikTok creators can post 3-minute videos, while some have access to post
+  5-minute or 10-minute videos.»** (todos los creadores pueden publicar vídeos de tres minutos;
+  algunos, de cinco o diez). Por esa vía, el máximo es de diez minutos, y **«TikTok users may trim
+  developer-sent videos inside the TikTok app»** (es el usuario quien puede recortar en la aplicación
+  el vídeo enviado) para ajustarlo a la duración máxima de su cuenta.
+- Tamaño de imagen: **«Minimum of 360 pixels for both height and width»** y **«Maximum of 4096 pixels
+  for both height and width»**. La página no da relación de aspecto recomendada.
+
+De ahí, para el clip de una entrevista (oficio sobre esos datos): vertical 9:16 a cuadro lleno, que
+es lo que Instagram recomienda y lo que YouTube trata como Short; si se quiere la misma pieza en las
+tres salidas, la que no pasa de tres minutos cabe en todas, porque es el máximo que TikTok garantiza
+a cualquier cuenta y el límite del Short.
+
 ### Miniaturas
 
 La miniatura es la imagen fija que representa al vídeo antes de que se reproduzca: en la lista de
@@ -885,7 +929,7 @@ de notorio interés general o sectorial de la Comunidad o de cada una de sus och
 Lo que conviene retener:
 
 - A quién alcanza: a «todos» los programas divulgativos, culturales y de entretenimiento. Los
-  informativos no están en la lista; no se les prohíbe la participación, pero la cláusula no se la
+  informativos no están en la lista; no se les prohíbe la participación, pero el punto no se la
   exige.
 - Con qué verbo: «tendrán» planteamientos interactivos y «se producirán» programas cara al público.
   Es un compromiso, no una posibilidad («podrán»). Lo que es tendencia es el grado: «se tenderá» a una
@@ -1006,7 +1050,7 @@ régimen del prestador de radio, cuya responsabilidad editorial no prejuzga la l
 de terceros difundidas en su servicio (artículo 76.2 LGCA). Por eso lo que se lee en antena se escoge y se
 revisa antes.
 
-El resto del oyente en antena está en otros temas: la técnica de la llamada (híbrido, N-1, «Un caso
+El resto del oyente en antena está en otros temas: la técnica de la llamada (el híbrido y el retorno al oyente, «Un caso
 práctico: el oyente en antena»), en el tema 7; los audios que mandan los oyentes y lo que se puede
 hacer con ellos, y su imagen y su voz, en el tema 10; los menores que participan, en el tema 12; la
 rectificación y el tratamiento de lo que un oyente afirma sin prueba, en el tema 9; y la Defensoría de
@@ -1100,13 +1144,14 @@ actuación. El recorrido (los pasos son de oficio; los datos, de los epígrafes 
   lo que dice el epígrafe 4 es oficio.
 - El nombre comercial vigente de la plataforma de pódcast de Canal Sur: no consta en un documento
   publicado; la Memoria de 2022 habla de «Canal Sur Podcast».
-- Una definición normativa o académica de «pódcast»: no localizada; la única con fuente es la legal
-  del servicio sonoro a petición.
+- Una definición normativa o académica de «pódcast»: no localizada; con fuente sólo están la legal
+  del servicio sonoro a petición y la operativa de AIMC para la medición (epígrafe 2).
 - Un libro de estilo de Canal Sur Radio o una guía de la RTVA para redes, pódcast o participación de
   la audiencia: no localizados publicados. Las pautas de escritura y de moderación son las del Manual
   de RTVE, como referencia de oficio.
-- Las especificaciones oficiales de TikTok, Instagram y Facebook: no leídas; sólo se dan las de
-  YouTube.
+- Las páginas de ayuda de TikTok, Instagram y Facebook para el usuario: no leídas. De Instagram y
+  TikTok se dan las especificaciones de su documentación para desarrolladores (epígrafe 5); de
+  Facebook, ninguna, y de TikTok, ninguna relación de aspecto recomendada.
 - Una fuente académica sobre *storyworld* y *agency*: no leída; se dan como vocabulario de oficio.
 - El régimen de la publicidad en los medios públicos de la RTVA: no se desarrolla.
 - La técnica del pódcast y del *streaming* (sonoridad, formatos de entrega, protocolos, Canal Sur
@@ -1137,5 +1182,7 @@ temas ya cerrados de Canal Sur, que llevan la fecha de lectura de esos temas.
 | Tema 7 de este temario | Remisión: *streaming*, pódcast, Canal Sur Más (punto 103) | Según ese tema |
 | Tema 10 de este temario | Remisión: antena y pódcast, dos regímenes | Según ese tema |
 | EBU R 128 (2023), punto h): nivel objetivo de −23,0 LUFS | Epígrafe 2 (sonoridad de emisión) | 3-X-2026 |
-| AIMC, *Normas de radio en EGM* (pódcast asignado a la cadena) | Epígrafe 2 (medición), por remisión al tema 16 | 3-X-2026 |
+| AIMC, *Normas de radio en EGM*, «Aclaración de la asignación horaria de audiencia» (AIMC, 24/07/2019): definición de pódcast y asignación a la cadena y a la franja de escucha | Epígrafe 2 (definición y medición) | 3-X-2026; releída el 4-X-2026 |
+| Meta for Developers, «Contenido multimedia de usuario de Instagram» (especificaciones de reels, portada de reels y vídeos de historias), página viva | Epígrafe 5 (Reels) | 4-X-2026 |
+| TikTok for Developers, «Media Transfer Guide» (Video restrictions; actualizada el 4-8-2026), página viva | Epígrafe 5 (TikTok) | 4-X-2026 |
 | Oficio, sin norma | Tipos de pódcast y su edición; pautas de vídeo radio; sentido de «clip» y «corte»; pautas de clips de audio; directo en redes; moderación en antena; supuesto práctico | — |

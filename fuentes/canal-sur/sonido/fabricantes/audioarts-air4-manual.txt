@@ -1,0 +1,14276 @@
+Technical Manual
+June 2012
+  A I R 4
+Radio Console
+
+AIR 4 Radio Console Technical Manual
+©2012 Audioarts® Engineering* 
+AUDIOARTS ENGINEERING
+600 Industrial Drive
+New Bern, North Carolina  28562
+252-638-7000
+*a division of Wheatstone Corporation
+AIR 4 / June 2012
+
+Read Me!
+AIR 4 / Dec 2013
+Attention!
+Federal Communications Commission (FCC) Compliance 
+Notice:
+Radio Frequency Notice
+NOTE:  This equipment has been tested and found to comply with the 
+limits for a Class A digital device, pursuant to Part 15 of the FCC rules. These 
+limits are designed to provide reasonable protection against harmful interference when the equipment is operated in a commercial environment. This 
+equipment generates, uses, and can radiate radio frequency energy and, if 
+not installed and used in accordance with the instruction manual, may cause 
+harmful interference to radio communications. Operation of this equipment 
+in a residential area is likely to cause harmful interference in which case the 
+user will be required to correct the interference at his own expense. 
+This is a Class A product. In a domestic environment, 
+this product may cause radio interference, in which case, 
+the user may be required to take appropriate measures.
+This equipment must be installed and wired properly in order to assure 
+compliance with FCC regulations.
+Caution!  Any modifications not expressly approved in writing by 
+Wheatstone could void the user's authority to operate this equipment. 
+
+Read Me!
+AIR 4 / June 2012
+Attention!
+  IMPORTANT SAFETY INSTRUCTIONS
+         THIS PRODUCT IS INTENDED FOR INDOOR USE ONLY
+When using an electrical appliance, basic safety precautions should always be followed.
+DANGER - To reduce risk of electric shock read all instructions before using this power supply. 
+A power supply should never be left unattended when plugged in. 
+Always unplug this power supply from the main socket immediately after using.
+WARNING - To reduce risk of burns, fire, electric shock or injury to persons or animals:
+1. Use this power supply only for its intended use as described below.
+2. Do not use outdoors.
+3. Do not allow to be used as a toy. Pay close attention when this power supply is used by, or near to, 
+children.
+4. Use only attachments recommended by the manufacturer.
+5. Never operate this power supply if it has a damaged cord or plug, if it has been dropped or damaged or if it has fallen into water. In such cases return the power supply to an authorized dealer or 
+service centre for examination or repair.
+6. Never drop or insert an object into any openings.
+7. Do not operate where aerosol (spray) products are being used or where oxygen is being administered.
+8. This power supply should be used near to a convenient and easily accessible mains socket.
+ 
+
+page  Contents – 1
+AIR 4 / June 2012
+C O N T E N T S
+AIR 4 Technical Manual
+Table of Contents
+Unpacking and Installing the Console.........................................1-2
+Power Supply.................................................................................1-3
+Energizing.......................................................................................1-3
+Audio and Control Wiring..............................................................1-3
+Unbalanced Connections (analog audio)....................................................................1-3
+Hook-Ups........................................................................................1-4
+Audio Connections......................................................................................................1-4
+     Analog Stereo Inputs.............................................................................................1-4
+     MIC 1 – MIC 4 Inputs.............................................................................................1-4
+     MIC 1 – MIC 4 Outputs..........................................................................................1-5
+     Caller Connection..................................................................................................1-5
+     PGM Outputs.........................................................................................................1-5
+     External Inputs.......................................................................................................1-5
+     Monitor Outputs.....................................................................................................1-5
+     USB Output............................................................................................................1-6
+Cue Output and Control Connections - DB-25...........................................................1-6
+     DB-25 Connections...............................................................................................1-6
+     CUE Output ...........................................................................................................1-7
+     Remote Start..........................................................................................................1-7
+     MIC 2 Talkback to Cue/CR....................................................................................1-7
+     On Air Tally.............................................................................................................1-7
+AIR 4 Console Rear Drawing.........................................................1-8
+Audio Connection Pinout Drawings.............................................1-9
+Cue Out and Control Connection Drawing.................................1-11
+Overview.........................................................................................2-2
+Inputs..............................................................................................2-3
+Analog Mono Mic Level Inputs...................................................................................2-3
+Analog Stereo Line Level Inputs.................................................................................2-3
+Outputs...........................................................................................2-3
+USB Port.........................................................................................2-4
+Using the USB Port.....................................................................................................2-4
+... With a MAC.............................................................................................................2-4
+... With a Windows® PC.............................................................................................2-4
+Other Computers........................................................................................................2-5
+General Considerations..............................................................................................2-5
+Mute and Tally................................................................................2-5
+ Chapter 1 - Installation and Power
+ Chapter 2 - Console Features
+
+page  Contents – 2
+AIR 4 / June 2012
+C O N T E N T S
+Console Programming Options....................................................2-6
+PGM/CUE Dipswitch...................................................................................................2-6
+     Cue Interrupt..........................................................................................................2-6
+     Split Cue, Control Room........................................................................................2-6
+     Split Cue, Headphone............................................................................................2-6
+     Studio Dim.............................................................................................................2-6
+     Program Mono.......................................................................................................2-7
+USB Source Dipswitches (internal).............................................................................2-7
+CR MUTE/AIR TALLY Dipswitches..............................................................................2-7
+     CR Mutes...............................................................................................................2-7
+     On Air Tally.............................................................................................................2-8
+Input Panel (IP-AIR4)......................................................................3-2
+     Source Select.........................................................................................................3-3
+     Program Assign......................................................................................................3-3
+     Cue Button.............................................................................................................3-3
+     Fader......................................................................................................................3-3
+     ON Button..............................................................................................................3-3
+Master Panel (MST-AIR4)...............................................................3-4
+Caller Input..................................................................................................................3-5
+     Program Assign......................................................................................................3-5
+     Cue Button.............................................................................................................3-5
+     TB Button...............................................................................................................3-5
+     Fader......................................................................................................................3-5
+     ON Button..............................................................................................................3-5
+     Caller Set-Ups........................................................................................................3-6
+Control Room Monitor................................................................................................3-7
+     Program Select......................................................................................................3-7
+     EXT Switch.............................................................................................................3-8
+     Control Room Level Control..................................................................................3-8
+     Cue Level Control..................................................................................................3-8
+     Headphone Level Control......................................................................................3-8
+Studio Monitor............................................................................................................3-9
+     Program Select......................................................................................................3-9
+     EXT Switch.............................................................................................................3-9
+     Studio Level Control..............................................................................................3-9
+     TB (Talkback) Button..............................................................................................3-9
+Meters (VU-AIR4).......................................................................................................3-10
+     VU Meter Pairs......................................................................................................3-10
+     Meters Select Button............................................................................................3-10
+On Air LED.................................................................................................................3-10
+Console Flow Diagram..................................................................4-2
+IP-AIR4 6 Inputs Panel 
+Schematic...................................................................................................................4-3
+Load Sheet..................................................................................................................4-9
+ Chapter 3 - Controls and Functions
+ Chapter 4 - Schematic and Load Sheet Drawings
+
+page  Contents – 3
+AIR 4 / June 2012
+C O N T E N T S
+MST-AIR4 Master Panel
+Schematic..................................................................................................................4-10
+Load Sheet.................................................................................................................4-15
+MTR-AIR4 Meters Card
+Schematic..................................................................................................................4-16
+Load Sheet.................................................................................................................4-19
+CONA3-3 Three Connector Blocks Card
+Schematic..................................................................................................................4-20
+Load Sheet.................................................................................................................4-22
+CONA4-4 Four Connector Blocks Card
+Schematic..................................................................................................................4-23
+Load Sheet.................................................................................................................4-28
+AIR 4 Console Performance Specifications................................A-3
+Replacement Parts List.................................................................A-5
+Appendices
+Appendix 2
+Appendix 1
+
+page  1 – 1
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Installation and Power
+Unpacking and Installing the Console.........................................1-2
+Power Supply.................................................................................1-3
+Energizing.......................................................................................1-3
+Audio and Control Wiring..............................................................1-3
+Unbalanced Connections (analog audio)................................................................1-3
+Hook-Ups........................................................................................1-4
+Audio Connections.................................................................................................1-4
+     Analog Stereo Inputs.........................................................................................1-4
+     MIC 1 – MIC 4 Inputs.........................................................................................1-4
+     MIC 1 – MIC 4 Outputs......................................................................................1-5
+     Caller Connection..............................................................................................1-5
+     PGM Outputs.....................................................................................................1-5
+     External Inputs...................................................................................................1-5
+     Monitor Outputs.................................................................................................1-5
+     USB Output........................................................................................................1-6
+Cue Output and Control Connections - DB-25......................................................1-6
+     DB-25 Connections...........................................................................................1-6
+     CUE Output .......................................................................................................1-7
+     Remote Start......................................................................................................1-7
+     MIC 2 Talkback to Cue/CR................................................................................1-7
+     On Air Tally.........................................................................................................1-7
+AIR 4 Console Rear Drawing.........................................................1-8
+Audio Connection Pinout Drawings.............................................1-9
+Cue Out and Control Connection Drawing.................................1-11
+ Chapter Contents
+
+page  1 – 2
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Installation and Power
+Unpacking and Installing the Console
+The AIR 4 console with its power supply, connecting cable, and “Installation and Connections Quick Reference” is shipped in one packing box. 
+The console can be unpacked by one person by grasping the console at 
+both sides, and lifting it upward out of the box. Remove packing materials and store them in the box for future use. Carefully place the console 
+on your countertop (the AIR 4 audio console is designed for countertop 
+placement). Avoid proximity to any electromagnetic fields, such as large 
+power transformers, motors, and fluorescent lighting fixtures.
+NOTE: This console 
+contains static-sensitive devices. Normal 
+precautions against 
+static discharge should 
+be observed.
+28.33˝
+15.37˝
+4.46˝
+15.37˝
+1.56˝
+
+page  1 – 3
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Power Supply
+The AIR 4 console is powered by a factory 
+supplied power adapter with 100-240V/50-60Hz 
+input, 50W maximum output power, and a 4 foot 
+long output cable.
+           DC Power Output Pinout
+The power supply adapter is supplied with a 3-wire grounded AC cord that 
+should be plugged into a “clean” AC power source, that is, an AC source that feeds 
+only the control room audio gear. This source should be a separate feed from those 
+powering lighting, air-conditioning, or any other non-audio machinery.
+Energizing
+Assuming the AIR 4 console mainframe is properly placed, and its power 
+supply correctly connected to the console, you may now energize the power supply adapter by plugging it into the AC mains. The console’s individual module 
+switches will assume factory default settings.
+Note: To de-energize the console, unplug the power supply adapter’s AC cord 
+from the AC mains. Never de-energize the console by disconnecting the cable 
+that connects the console and power supply adapter together.
+The power feed recommended in the text 
+is often installed and 
+referred to in studios as 
+an “isolated AC ground” 
+outlet. It is usually orange in color.
+PIN #
+OUTPUT
+1
+COM
+2
+COM
+3
++5VDC
+4
+-15V
+5
++15V
+3
+5 2 4
+1
+Once you have verified proper power-up, unplug the power supply adapter to de-energize 
+the console. You may now proceed to wire up audio and control connections.
+Audio and Control Wiring
+All audio I/O connections to the AIR 4 console are made via RJ-45 connectors and 3‑pin 
+plug terminals located on the rear panel of the console. For control connections there is also 
+a multipin DB-25 connector. See the console’s rear drawing on page 1‑8.
+Unbalanced Connections (analog audio)
+ANALOG INPUTS – Wire to the console with typical shielded two conductor cable 
+(like Belden 9451), just as if you were connecting a balanced source. At the unbalanced 
+source machine’s output, connect the black wire (LO) to the shield.
+ANALOG OUTPUTS – AIR 4  consoles use a balanced output circuit which behaves 
+exactly like the secondary of a high-quality transformer, with no center tap – this output 
+is both balanced and floating. Either the HI or LO side of the output should be strapped to 
+ground, with the output taken from the other side. (Normally you’d strap LO to ground, 
+and take HIGH to feed your unbalanced equipment.)
+
+page  1 – 4
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Hook-Ups
+The rear of the console has multiple RJ-45 connectors to plug in 24 stereo line inputs, 
+the external input, caller connections to and from hybrid, as well as providing studio, 
+control room, microphone, PGM, and USB analog output connections. There is also a 
+12-pin boxed header (CT7, on the CONA4-4 PCB) with the four 3-pin plug terminals 
+plugged into this header provided for microphone inputs. 
+A DB-25 is provided for control connections and for the Cue output.
+There is also a USB port with type B connector available for interfacing with a 
+computer (see page 2-4 for details).
+Pinouts drawings on pages 1-9 through 1-11 show all wiring connection at glance.
+Audio Connections
+Analog Stereo Inputs – RJ-45 (1 through 12)
+The signals are analog stereo; level is +4dBu balanced.
+A Pin 1 – HI
+A Pin 2 – LO	
+A Pin 3 – HI
+A Pin 6 – LO
+B Pin 1 – HI
+B Pin 2 – LO	
+B Pin 3 – HI
+B Pin 6 – LO
+MIC 1 - MIC 4 Inputs – 12-pin Header
+All signals are analog mono. The mic input level is normally -50dBu balanced.
+Pin 1 – SH
+Pin 2 – LO         MIC 1 IN 
+Pin 3 – HI
+Pin 4 – SH
+Pin 5 – LO         MIC 2 IN 
+Pin 6 – HI
+Pin 7 – SH
+Pin 8 – LO         MIC 3 IN 
+Pin 9 – HI
+Pin 10 – SH
+Pin 11 – LO       MIC 4 IN 
+Pin 12 – HI
+INPUT A LT
+INPUT A RT
+INPUT B LT
+INPUT B RT
+These connections are to the inputs 
+of four internal mic preamplifiers. The 
+outputs of the mic preamplifiers must 
+be connected to the desired line inputs 
+before you will be able to hear the microphones. See page 2-3 for details.
+
+page  1 – 5
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+MIC 1 - MIC 4 Outputs – RJ-45
+All signals are analog mono, unbalanced.
+Pins 1 & 3 – HI
+Pins 2 & 6 – SH
+Pins 1 & 3 – HI
+Pins 2 & 6 – SH
+Pins 1 & 3 – HI
+Pins 2 & 6 – SH
+Pins 1 & 3 – HI
+Pins 2 & 6 – SH
+Caller Connections – RJ-45
+The signals are analog mono; level is +4dBu balanced. 
+Pin 1 – HI
+Pin 2 – LO
+Pin 1 – HI
+Pin 2 – LO
+PGM Outputs – RJ-45
+The signals are analog stereo; level is +4dBu balanced.
+Pin 1 – HI
+Pin 2 – LO
+Pin 3 – HI
+Pin 6 – LO
+Pin 1 – HI
+Pin 2 – LO
+Pin 3 – HI
+Pin 6 – LO
+External Inputs – RJ-45
+The signals are analog stereo; level is +4dBu balanced.
+Pin 1 – HI
+Pin 2 – LO
+Pin 3 – HI
+Pin 6 – LO
+Monitor Outputs – RJ-45
+The signals are analog stereo; unbalanced.
+Pin 1 – HI
+Pin 2 – SH
+Pin 3 – HI
+Pin 6 – SH
+PGM 1 LT OUT
+PGM 1 RT OUT
+PGM 2 LT OUT
+PGM 2  RT OUT
+EXT LT IN
+EXT RT IN
+CALLER IN
+CALLER OUT
+MIC 1 OUT
+CR LT OUT
+CR RT OUT
+MIC 2 OUT
+MIC 3 OUT
+MIC 4 OUT
+
+page  1 – 6
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Pin 1 – HI
+Pin 2 – SH
+Pin 3 – HI
+Pin 6 – SH
+USB Output – RJ-45
+The signals are analog stereo; unbalanced.
+Pin 1 – HI
+Pin 2 – LO	
+Pin 3 – HI
+Pin 6 – LO
+Cue Output and Control Connections – DB-25
+All control ports (except On Air Tally and Mic 2 TB to Cue/CR) use opto-isolators. 
+Functions include Mic 2 TB to Cue/CR, On Air Tally, and Start for remote source machines. Several pins can be used for the common side connections to remote starts, as 
+indicated on the pinout below.
+DB-25 Connections  
+Pin 1 – Start Channel 1
+Pin 2 – Start Channel 2
+Pin 3 – Start Channel 3
+Pin 4 – Start Channel 4
+Pin 5 – Start Channel 5
+Pin 6 – Start Channel 6
+Pin 7 – Cue Out
+Pin 8 – Cue Out Audio Common
+Pin 9 – On Air Tally N.O.
+Pin 10 – On Air Tally Common
+Pin 11 – Mic 2 TB to Cue/CR
+Pin 12 – Mic 2 TB to Cue/CR Common
+Pin 13 – Start Common
+Pin 14 – Start Common
+Pin 15 – Start Common
+Pin 16 – Start Common
+Pin 17 – Start Common
+Pin 18 – Start Common
+Pin 19 – Start Channel 7
+Pin 20 – Start Channel 8
+Pin 21 – Start Channel 9
+Pin 22 – Start Channel 10
+Pin 23 – Start Channel 11
+Pin 24 – Start Channel 12
+Pin 25 – Start Phone Channel
+Typical DB-25 
+connector
+STU LT OUT
+STU RT OUT
+USB LT OUT
+USB RT OUT
+
+page  1 – 7
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Cue Output
+The Cue output signal (for feeding an external cue amplifier) is mono unbalanced.
+To START Remote Source Machines Using Channel START Switches
+EXTERNAL START – Hook up the remote machine’s “start” control pins to the 
+DB-25 connector control pins; for example, for channel 1 wire to Start Channel 1, 
+Pin 1, and Start Common, either one of the Pins 13 - 18.
+MIC 2 Talkback to Cue/Control Room
+The talkback to cue logic input is used to connect an external user-supplied button 
+that enables the person activating it to talk to the operator in the control room, via the 
+console’s cue speaker. Provide a closure between Mic 2 TB to Cue/CR, Pin 11 and 
+Mic 2 TB to Cue/CR Common, Pin 12. This will cause the channel’s pre fader signal 
+to be sent to the console’s Cue bus, where it may be heard by the console operator. 
+This non-latching condition continues until the closure is released. (Requires a usersupplied momentary action TALKBACK switch at the studio microphone location.)
+On Air Tally
+Lets any programmed channel’s START switch control an on-air light or other 
+“microphone on” indicator at a remote location. This control function provides a contact closure between Pin 9 (On Air Tally N.O.) and Pin 10 (On Air Tally Common) 
+whenever the module is ON.
+This signal can be used to control an externally powered tally light that requires 
+a continuous closure to function. Current should not exceed 2 amps at 30 volts DC.
+
+page  1 – 8
+AIR 4 Console Rear
+AIR 4 / June 2012
+
+page  1 – 9
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+1
+2
+3
+4
+5
+6
+7
+8
+ MICS INPUTS 
+MICS OUTPUTS
+MIC 1 OUT HI
+MIC 1 OUT SH
+MIC 1 OUT HI
+MIC 1 OUT SH
+1
+2
+3
+4
+5
+6
+7
+8
+MIC 3 OUT HI
+MIC 3 OUT SH
+MIC 3 OUT HI
+MIC 3 OUT SH
+1
+2
+3
+4
+5
+6
+7
+8
+MIC 2 OUT HI
+MIC 2 OUT SH
+MIC 2 OUT HI
+MIC 2 OUT SH
+1
+2
+3
+4
+5
+6
+7
+8
+MIC 4 OUT HI
+MIC 4 OUT SH
+MIC 4 OUT HI
+MIC 4 OUT SH
+MIC 1 IN SH
+MIC 1 IN LO
+MIC 1 IN HI
+1
+MIC 2 IN SH
+MIC 2 IN LO
+MIC 2 IN HI
+MIC 3 IN SH
+MIC 3 IN LO
+MIC 3 IN HI
+MIC 4 IN SH
+MIC 4 IN LO
+MIC 4 IN HI
+ "MIC 1 OUT" RJ-45
+ "MIC 3 OUT" RJ-45
+ "MIC 2 OUT" RJ-45
+ "MIC 4 OUT" RJ-45
+1
+2
+3
+4
+5
+6
+7
+8
+ "A" RJ-45
+LINE A LT IN HI 
+LINE A LT IN LO
+LINE A RT IN HI
+LINE A RT IN LO
+1
+2
+3
+4
+5
+6
+7
+8
+ "B" RJ-45
+LINE B LT IN HI 
+LINE B LT IN LO
+LINE B RT IN HI
+LINE B RT IN LO
+LINE INPUTS 
+#1 through # 12
+1
+2
+3
+4
+5
+6
+7
+8
+ "IN" RJ-45
+CALLER IN HI 
+CALLER IN LO
+1
+2
+3
+4
+5
+6
+7
+8
+ "OUT" RJ-45
+CALLER OUT HI 
+CALLER OUT LO
+CALLER
+Audio Connections
+9
+8
+7
+6
+5
+4
+3
+2
+10
+11
+12
+ "MIC 1 IN" - "MIC 4"
+p
+12-pin BOXED HEADER
+
+page  1 – 10
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+"USB ANALOG OUT" RJ-45
+1
+2
+3
+4
+5
+6
+7
+8
+"1" RJ-45
+1
+2
+3
+4
+5
+6
+7
+8
+"2"  RJ-45
+PGM OUTPUTS
+1
+2
+3
+4
+5
+6
+7
+8
+ "CR OUT" RJ-45
+CR LT OUT HI 
+CR LT OUT SH
+CR RT OUT HI
+CR RT OUT SH
+1
+2
+3
+4
+5
+6
+7
+8
+ "STU OUT" RJ-45
+MONITORS OUTPUTS
+1
+2
+3
+4
+5
+6
+7
+8
+ "EXT IN" RJ-45
+EXT LT IN HI
+EXT LT IN LO
+EXT RT IN HI
+EXT RT IN LO
+EXTERNAL INPUT
+1
+2
+3
+4
+5
+6
+7
+8
+USB LT OUT HI 
+USB LT OUT LO
+USB OUTPUT
+USB RT OUT HI
+USB RT OUT LO
+PGM 1 LT OUT HI 
+PGM 1 LT OUT LO
+PGM 1 RT OUT HI
+PGM 1 RT OUT LO
+PGM 2 LT OUT HI 
+PGM 2 LT OUT LO
+PGM 2 RT OUT HI
+PGM 2 RT OUT LO
+STU LT OUT HI 
+STU LT OUT SH
+STU RT OUT HI
+STU RT OUT SH
+Audio Connections
+
+page  1 – 11
+AIR 4 / June 2012
+I N S T A L L A T I O N A N D P O W E R
+Cue Out and Control Connections
+LOGIC - DB-25 Connector
+START CHANNEL 12
+START CHANNEL 11
+START CHANNEL 9
+START CHANNEL 8
+START CHANNEL 7
+START COMMON 
+START COMMON
+START COMMON
+START COMMON
+START COMMON
+START COMMON
+MIC 2 TB TO CUE/CR COMMON
+MIC 2 TB TO CUE/CR
+ON AIR TALLY COMMON
+ON AIR TALLY N.O.
+CUE OUT AUDIO COMMON
+CUE OUT
+START CHANNEL 6
+START CHANNEL 5
+START CHANNEL 4
+START CHANNEL 3
+START CHANNEL 2
+START CHANNEL 1
+5
+4
+3
+2
+1
+17
+16
+15
+14
+8
+7
+6
+20
+19
+18
+10
+9
+23
+22
+21
+13
+12
+11
+25
+24
+START PHONE CHANNEL
+START CHANNEL 10
+
+page  2 – 1
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+Console Features 
+Overview.........................................................................................2-2
+Inputs..............................................................................................2-3
+Analog Mono Mic Level Inputs...................................................................................2-3
+Analog Stereo Line Level Inputs.................................................................................2-3
+Outputs...........................................................................................2-3
+USB Port.........................................................................................2-4
+Using the USB Port.....................................................................................................2-4
+... With a MAC.............................................................................................................2-4
+... With a Windows® PC..............................................................................................2-4
+Other Computers........................................................................................................2-5
+General Considerations..............................................................................................2-5
+Mute and Tally................................................................................2-5
+Console Programming Options....................................................2-6
+PGM/CUE Dipswitch...................................................................................................2-6
+     Cue Interrupt..........................................................................................................2-6
+     Split Cue, Control Room........................................................................................2-6
+     Split Cue, Headphone............................................................................................2-6
+     Studio Dim.............................................................................................................2-6
+     Program Mono.......................................................................................................2-7
+USB Source Dipswitches (internal).............................................................................2-7
+CR MUTE/AIR TALLY Dipswitches..............................................................................2-7
+     CR Mutes...............................................................................................................2-7
+     On Air Tally.............................................................................................................2-8
+ Chapter Contents
+
+page  2 – 2
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+Console Features
+Overview
+Each AIR 4 console has two Input panels and one Master panel. The Input panel 
+consists of six faders with associated switches. The Master panel has a PHONE section, 
+a CONTROL section, a HEADPHONE section, and a STUDIO section. Each section is 
+described below.
+The basic purpose of the console is to take some of the many audio signals that are wired 
+to the console inputs, and generate several outputs that combine these inputs in various 
+groups and at various degrees of loudness, or signal strength. The typical application is in 
+a radio station where it is desired to develop the signals that the station will broadcast (the 
+on air signal), as well as several additional signals for recording and monitoring.
+
+page  2 – 3
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+Inputs
+The AIR 4 console is designed to handle up to 24 analog stereo pro level (+4dBu 
+balanced) inputs, four mono microphone (-50dBu nominal) inputs, and one external 
+stereo line level (+4dBu balanced) input that goes directly to control room or studio.
+The AIR 4 also has one analog (+4dBu balanced) input dedicated to use as a telephone caller input.
+Analog Mono Mic Level Inputs
+These inputs are used to connect to microphones, which typically put out signals 
+at relatively low signal strength, and therefore require more amplification (increase in 
+signal strength) to be properly audible in the output. Mic level sources are plug into 
+the four 3‑position plug terminals located on the rear of the console. On the rear of the 
+console also are four RJ-45 connectors used for MIC outputs, and the MIC 1 - MIC 4 
+GAIN trimpots for adjusting the level of each microphone input independently.
+Example: With a microphone input of –60dBm @150ohm at the port, gain trim can set levels from 
+                     -22dBu to +16dBu (note maximum preamp gain is +76dB) at the PGM 1 or PGM 2 output.  
+These microphone connections are to the inputs of four internal microphone preamplifiers. In order to actually hear the microphone audio, the microphone preamplifier outputs must be wired to the desired line inputs that feed the faders you will use to 
+control the microphone levels.
+Looking at the rear of the console, there are four RJ-45 connectors towards the left 
+end of the console labeled MIC 1 OUT - MIC 4 OUT. These are the outputs, respectively, 
+of the MIC 1 preamp - MIC 4 preamp.
+In a typical installation you will want to feed the mic signal to both left and right 
+sides of the stereo line input. For this reason, we have duplicated the MIC OUT signal 
+as both left and right, so that a simple RJ-45 patch cord will carry the mic signal to both 
+left and right sides of the stereo input of whichever line input you want the mic to feed.
+Analog Stereo Line Level Inputs
+These inputs are typically used to connect to machines, such as tape decks, cart 
+machines, CD players, etc., that provide analog outputs. As mentioned above, you can 
+also feed these inputs from the outputs of the internal mic preamps.
+Outputs 
+The console main analog outputs include two Program stereo buses (PGM 1 and 
+PGM 2). The Program stereo outputs can be programmed to mono outputs via dipswitch 
+SW 1 (described in the “Console Internal Programming” section). 
+Monitor outputs include a stereo Control Room output, a stereo Studio output, a 
+mono cue output, and a stereo headphone jack.
+
+page  2 – 4
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+The console’s mono cue signal feeds the internal speaker in the meterbridge, and 
+also provides the cue signal used to interrupt Control Room and headphones, if such 
+interrupt has been enabled by the installer.
+USB Port
+The console contains a USB 2.0 interface, available 
+via the USB Type B connector on the rear panel, to enable 
+audio to pass between the console and a USB port on a 
+computer. Internally, dipswitches select either PGM 1 or 
+PGM 2 as the audio from the console to the computer (see 
+“Console Internal Programming”). Audio coming back from 
+the computer via USB shows up as a stereo analog signal 
+on the USB OUT RJ-45 connector. From there, the audio 
+can be patched to any line input, or to the external input.
+Using the USB Port . . .
+Any computer having a USB port and installed drivers capable of passing and utilizing digital audio data should work with the Air 4 USB port. Use a cable having a USB 
+Type B connector on the Air 4 end and a connector on the other end that will mate with 
+the computer’s USB port; this will typically be a USB Type A connector.
+. . . With a MAC
+In general, this will be a plug-and-play process. The main concern is to choose the 
+USB Audio Codec under System Preferences>Sound as desired for audio input and/or 
+output. Then simply start the application.
+. . . With a Windows® PC
+When you first connect the Air 4 USB port to a PC running Windows you will see 
+the famous “found new hardware” sequence of messages.  At some point this sequence 
+should end with a message that the new hardware is installed and ready to use.
+Setting up any given application to use the Air 4 USB port will depend on the application itself. Generally, you will need to select the appropriate device from a list of 
+devices in a Preferences dialog.
+As an example, let’s look at WinAmp, a free software application used by millions 
+to play back audio streams from a network (or the Internet), or to play audio streams 
+into a network.
+To play audio from the Air 4 on the computer:
+• Install the free LineIn plugin for WinAmp.
+• Under Preferences - Input select the LineIn plugin from the Input list and click 
+Configure, then find the USB Audio Codec in the list of available devices and note 
+its corresponding device number, which you will need below.
+• In WinAmp, choose Play URL...
+• Enter “line://dev=n” where ‘n’ is the device value that you discovered above.
+• Now when you click Play, WinAmp will play the Air 4 audio on the output device 
+
+page  2 – 5
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+selected in WinAmp. This could be speakers, a sound card, or even an output stream.
+To play audio from the computer on the Air 4:
+• Under WinAmp Preferences - Output select an output plugin and click Configure, 
+then select the USB Audio Codec as the device.
+• Play the desired computer audio with WinAmp and the audio will appear at the 
+USB OUT connector on the back of the Air 4. You must patch this output to the 
+desired fader (using the appropriate connector from the INPUTS bank), or to the 
+EXT IN if desired, to route the audio.
+Other Computers
+If your computer does not use one of the above operating systems, or otherwise 
+behaves differently than described above, consult the documentation for that computer, 
+operating system, and/or application.
+General Considerations
+If any problems are encountered, please consider the following points:
+• The audio that is output from the Air 4 on the USB port depends on the setting of 
+the internal dipswitches that select between PGM 1 and PGM 2 as the source (see 
+“Console Internal Programming”).
+• The audio coming back into the Air 4 on the USB port is available at the USB OUT, 
+which must be patched to a line input if you want it to come up on a fader, or to the 
+EXT IN if you want it available only in the monitors, or to some external device if 
+that’s where you want it to show up.
+• If you are not able to get the audio into or out of the USB port, check the USB cable, 
+its connections at both ends, and the port selection settings in the application you 
+are using.
+• If you have the audio flowing where you want and it suddenly becomes intermittent 
+or disappears, check the USB cable and the connections at both ends.
+• Once you have the USB audio under control it is a good idea to make a record of 
+the application being used, including its version number, the audio direction (into 
+or out of the computer), and all the settings that were required to make it work. This 
+information will be invaluable if you later have to troubleshoot the USB audio, or 
+set it up on another computer.
+Mute and Tally
+The console has the ability to mute the control room output. The console also has an 
+ON AIR tally output that is used to drive user-provided external circuitry that will in turn 
+operate the control room on air indicator. This tally is automatically activated whenever 
+the control room mute is activated. Thus, turning on any module that activates the control 
+room mute also turns on the ON AIR tally. Whenever this tally is activated the ON AIR 
+indicator in the meterbridge will also illuminate.
+See the “Console Programming Options” section for details.
+
+page  2 – 6
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+Console Programming Options 
+All programming (except for the headphone split cue option and selection of audio 
+to feed to an external computer via the USB port) is made via three PCB mounted 
+dipswitches located on the console’s rear panel. One dipswitch (PGM/CUE switch) 
+is on the top left side of the rear, and programs the control room cue, the studio dim 
+function, and the mono program outputs. The two other dipswitches (CR MUTE/AIR 
+TALLY) are in between the two groups of INPUTS RJ-45 connectors, and activate CR 
+mute and AIR TALLY. 
+PGM/CUE Dipswitch
+When a PGM/CUE dipswitch position is up it is ON. 
+Cue Interrupt
+The dipswitch pos. 1, when activated, sends cue to the control room.
+Split Cue, Control Room
+The dipswitch pos. 2, when activated, allows a summed (L+R) version of the regular 
+program to be sent to the right side of the CR monitor stereo output, while CUE is sent 
+to the left side. 
+Split Cue, Headphone
+Consoles are normally programmed at the factory for CUE to appear on the left 
+channel, while L+R sum of the control room output appears on the right. This can be 
+changed with jumper J1 on the back side of the Master Panel. The jumper normally 
+spans pins 2 and 3 of the jumper header. To defeat this split cue option, move the jumper 
+to span pins 1 and 2 instead. Then cue will interrupt both sides of the headphones.
+Studio Dim
+The dipswitch pos. 3, when activated, allows normal studio audio to DIM (drop 
+‑20dB in level) when talkback to studio is engaged. If this dipswitch is not activated, 
+the normal studio audio is completely interrupted by the MIC 1 audio when talkback 
+to studio is engaged.
+If the studio is programmed to DIM talkback audio could presumably make it from 
+the studio monitor speakers to the open studio mic.
+
+page  2 – 7
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+Program Mono
+The dipswitch pos. 4 - 7, when activated, sums the left and right 
+PROGRAM channels and sends L+R to the appropriate channel:
+Pos. 4 - sends L+R of the PGM 1 to the PGM 1 LT channel;
+Pos. 5 - sends L+R of the PGM 1 to the PGM 1 RT channel;
+Pos. 6 - sends L+R of the PGM 2 to the PGM 2 LT channel;
+Pos. 7 - sends L+R of the PGM 2 to the PGM 2 RT channel.
+USB Source Dipswitches (internal)
+Dipswitch SW2 on the CONA4-4 board is used to determine 
+whether PGM 1 or PGM 2 will feed the USB link. Positions 1 and 3 
+should be on to feed USB with PGM 1, while positions 2 and 4 
+should be on to feed USB with PGM 2. If PGM 1 is to be used, 
+the PGM 2 positions should be off, and if PGM 2 is to be used, the 
+PGM 1 positions should be off. DO NOT activate both PGM 1 and 
+PGM 2 simultaneously!
+CR MUTE/AIR TALLY Dipswitches
+When a CR MUTE/AIR TALLY dipswitch position is down it is ON. 
+CR Mutes
+An input channel can be programmed to mute the control room speakers when the 
+channel is ON. Positions 1 through 12 and caller (13) of the dipswitches, when activated, 
+automatically mute the console’s control room speakers when the corresponding channels 
+1 through 13 are turned ON. This is done to prevent feedback from the CR announcer’s 
+mic. At the same time the ON AIR LED in the center of the meterbridge will light up.  
+
+page  2 – 8
+AIR 4 / June 2012
+C O N S O L E F E A T U R E S
+On Air Tally
+For controlling the “on-air” tally function, a relay is provided. The tally is activated 
+when any channel set for CR mute is turned on or put into cue.
+The relay connections are available at the “LOGIC” DB-25 connector mounted on 
+the rear of the console. Connect the on-air light to the external user-provided relay. 
+Do not bring on-air light AC connections to any pin of any connector on the console.
+PIN
+10
+CONNECTOR PIN
+ON "LOGIC" 
+DB-25
+YOUR
+POWER
+SUPPLY
+–
+TYPICAL CONTROL ROOM ON-AIR TALLY CIRCUIT
+USER-SUPPLIED RELAY TRIGGERED BY CONSOLE CR MUTE CIRCUI
+PIN
+9
++
+INTERNAL AIR
+TALLY RELAY
+COM
++
+–
+1N4002
+ECG
+B40240
+or equiv.
+relay
+RELAY CIRCUIT POWERED BY USER
+SUPPLIED EXTERNAL SUPPLY
+N.O.
+N.C.
+2A
+max
+30VDC
+T
+
+page  3 – 1
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+ Chapter Contents
+Controls and Functions
+Input Panel (IP-AIR4)......................................................................3-2
+     Source Select.........................................................................................................3-3
+     Program Assign......................................................................................................3-3
+     Cue Button.............................................................................................................3-3
+     Fader......................................................................................................................3-3
+     ON Button..............................................................................................................3-3
+Master Panel (MST-AIR4)...............................................................3-4
+Caller Input..................................................................................................................3-5
+     Program Assign......................................................................................................3-5
+     Cue Button.............................................................................................................3-5
+     TB Button...............................................................................................................3-5
+     Fader......................................................................................................................3-5
+     ON Button..............................................................................................................3-5
+     Caller Set-Ups........................................................................................................3-6
+Control Room Monitor................................................................................................3-7
+     Program Select......................................................................................................3-7
+     EXT Switch.............................................................................................................3-8
+     Control Room Level Control..................................................................................3-8
+     Cue Level Control..................................................................................................3-8
+     Headphone Level Control......................................................................................3-8
+Studio Monitor............................................................................................................3-9
+     Program Select......................................................................................................3-9
+     EXT Switch.............................................................................................................3-9
+     Studio Level Control..............................................................................................3-9
+     TB (Talkback) Button..............................................................................................3-9
+Meters (VU-AIR4).......................................................................................................3-10
+     VU Meter Pairs......................................................................................................3-10
+     Meters Select Button............................................................................................3-10
+On Air LED.................................................................................................................3-10
+......................................................................................................................................
+
+page  3 – 2
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Controls and Functions
+Input Panel (IP-AIR4)
+The Input panel of the AIR 4 console has six identical strips representing six input 
+channels.
+
+page  3 – 3
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Source Select
+Each input channel accepts two analog stereo sources: A and B, 
+switched at the top of the panel. The A/B button will be lit when source B 
+is selected. 
+Program Assign
+Output switches assign the selected source signal to any combination 
+of the console’s two stereo Program outputs – PGM 1 and PGM 2. The 
+button will be lit when the source is assigned to its respective bus. To 
+remove a source from the bus, press the button again; the light will go 
+off to indicate that the source is no longer assigned to that bus. NOTE 
+that when the console is powered up all input channels will be off, with 
+source A selected, and assigned to PGM 1.
+Recessed rear panel trimpots adjust the left and right levels of PGM 1 
+and PGM 2 outputs. 
+Cue Button
+A CUE switch places the channel’s signal on the console’s cue bus, 
+where it may be heard on the meterbridge mounted cue speaker, as an 
+interrupt to the console operator’s headphones, and as an interrupt to the 
+control room monitor speakers, if so programmed.
+Press the CUE button. The channel’s input signal will be included in 
+the console’s CUE output at a level that is independent of the FADER 
+setting, and the button will light. The fader does not need to be turned 
+ON. To remove a fader from cue, press the CUE BUTTON again; the 
+light will go off to indicate the channel is no longer assigned to cue. 
+Fader 
+Level is set by a long-throw fader. The fader is the sliding mechanism 
+that determines how strong is the presence of the input in some of the 
+various console outputs.
+If the fader is all the way down (that is, pulled toward the console 
+operator), the signal will not be present in either of the two program main 
+buses to which it is assigned. As the fader is moved up (that is, pushed 
+away from the console operator) the signal will appear more strongly in 
+each of the main buses to which it is assigned.
+ON Button
+The ON button turns the channel on and off by means of electronic 
+switching and can simultaneously start external source machines. The 
+channel is ON when the ON button is lit. These can also be programmed 
+(as mentioned in the previous chapter) to activate control room mute and 
+on air tally.
+
+page  3 – 4
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Master Panel (MST-AIR4)
+The Master panel includes the Caller Input, Control Room monitor, Studio monitor, 
+and Meters sections.
+
+page  3 – 5
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Caller Input
+The caller section is used for the telephone call-in talk segments, and 
+controls the audio for the caller. The caller signal enters the console from 
+your station hybrid. 
+The caller feed can be either or both of the two Program buses. The 
+caller feed will never contain the caller’s own voice.
+A recessed rear panel trimpot adjusts the caller output level. 
+Program Assign
+Output switches assign the caller to any combination of the console’s 
+two Program outputs (PGM 1 and PGM 2), and permit live talk-ins.
+Pressing either of the two program switches causes the caller’s audio 
+to be included in the output mix for that bus, at a level dependent on the 
+FADER setting, as long as the caller section is ON. The button will be 
+lit when the caller is assigned to its respective bus. To remove the caller 
+from a bus to which it is currently assigned, press the button again; the 
+light will go off to indicate that the caller is no longer assigned to that bus.
+CUE Button
+The CUE button allows interviewing the caller prior to airing by including the caller’s voice in the console’s cue bus, where it may be heard 
+on the meterbridge mounted cue speaker.
+TB Button
+When the TB switch is pressed (it is momentary action), the microphone (MIC 1) will interrupt the regular caller signal, thus allowing the 
+DJ to talk to the caller prior to airing.
+Fader
+The long-throw fader sets the caller’s signal level.
+If a fader is all the way down the caller’s voice will not be present in 
+either of the two Program buses (PGM 1 and PGM 2) to which the phone 
+is assigned. As the fader is moved up the signal will appear more strongly 
+in each of the main buses to which the phone is assigned.
+The fader position will also affect the strength of the caller in the cue 
+output.
+ON Button
+The ON button determines if the phone channel is ON or OFF. The channel is ON when the ON button is lit. The button can also be used to provide 
+external start logic for the hybrid.
+ If the phone channel is OFF, caller signal will not be present in any main 
+bus output, regardless of the status of the PROGRAM ASSIGN buttons or 
+the position of the fader. If the phone channel is OFF its signal will still be 
+present in the cue output if it has been assigned to cue. 
+
+page  3 – 6
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Caller Set-Ups
+Pre-air segment communication between the console operator (DJ) 
+and callers is aided by the CUE button, which places the caller’s voice on 
+the console’s cue speaker and headphones, and (if so programmed) CR 
+speakers. Additionally, pressing the caller TB switch sends the MIC 1 
+signal to the caller output. 
+A typical call-in segment might proceed as follows:
+Caller phones in, DJ picks up off-air during a track play to set up the 
+call. He places the caller in CUE, and talks to the caller by pressing the 
+TB button. Neither the DJ mic nor the phone channel need to be ON for 
+two-way communication. 
+When he is ready to take the call on-air, the DJ makes sure his mic 
+and phone are assigned to PGM 1 or PGM 2 and turns them ON. He then 
+deactivates caller CUE to hear the normal feed. 
+
+page  3 – 7
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Control Room Monitor
+This is the console operator’s monitor 
+that allows the operator to listen to the console’s two stereo Program outputs and an 
+external stereo line level input. This section 
+of the console includes the monitor level 
+controls for the control room, headphone, 
+and cue circuits.
+In a typical radio application the 
+console is located in the Control Room. 
+Speakers in the Control Room allow the 
+console operator to listen to the console 
+bus outputs to be assured that the console 
+is performing as desired. These speakers 
+are fed by a stereo signal from the console’s 
+Control Room output. In addition to the 
+Control Room output, the operator may 
+also desire to listen to specific isolated 
+faders via the cue system and the console’s 
+internal cue speaker, or may want to listen 
+via headphones. Thus, the control room 
+monitor consists of the above mentioned 
+level controls, along with two program 
+assign (PGM 1 and PGM 2) buttons, and 
+an external input (EXT) button.
+In some instances the console operator may also be performing talent whose 
+voice will be heard over the radio. The operator’s microphone may thus provide 
+a part of the signal that is going out over the air. If that signal is the one being 
+monitored with the Control Room speakers, there is the potential for feedback. The 
+amplified signal from the Control Room speakers is picked up by the microphone 
+and amplified to a new, higher, level, which then is once again picked up by the 
+microphone. The signal quickly rises to an ear-splitting screech. To prevent this, 
+the operator’s microphone is normally set to MUTE the Control Room output to 
+prevent the occurrence of feedback.
+The master CUE circuit drives a meterbridge-mounted speaker through a builtin power amp, and can be programmed to interrupt control room feed, or provide a 
+split feed (program mono sum to right, cue to left) to the control monitor speakers. 
+It also automatically interrupts the headphone feed. 
+Program Select
+Pressing either of the two program (PGM 1 or PGM 2) switches allows the 
+operator to listen to the selected output bus. The button will be lit when the monitor is assigned to its respective bus. 
+
+page  3 – 8
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+EXT Switch
+Pressing the EXT switch allows the 
+operator to pick up the external input (useful for such items as tape recorders or air 
+returns) to listen.
+CONTROL ROOM Level Control
+The CONTROL ROOM level control 
+determines the overall loudness of the 
+signal being monitored as it appears in the 
+Control Room speakers. As the control is 
+turned clockwise, the loudness increases up 
+to a maximum at the limit of mechanical 
+rotation. To decrease the loudness, turn the 
+control in a counterclockwise direction.
+NOTE: If the Control Room is muted 
+and you turn the level control all the 
+way up, then remove the condition 
+that has the Control Room muted, the 
+sound in the Control Room speakers 
+will suddenly be VERY LOUD!
+CUE Level Control
+The CUE level control determines 
+the overall loudness of the cue signal as it appears in the console’s cue speaker (located behind the grill in the 
+METERBRIDGE).
+Like the Control Room speakers, the cue speaker also has the potential for 
+feedback. To avoid this situation, operator mics that mute the Control Room will 
+also mute the cue speaker.
+NOTE: If cue is muted and you turn the level control all the way up, then remove the condition that has the cue muted, the sound in the cue speaker will 
+suddenly be VERY LOUD!
+HEADPHONE Level Control
+The HEADPHONE level control determines the overall loudness of the headphone output signal, which monitors the same source (PGM 1, PGM 2, or EXT) 
+as the Control Room speakers.
+The headphone output signal appears at the HEADPHONE JACK, located beneath the armrest near the right side of the console. The jack is provided as a place 
+to plug in user-supplied stereo headphones having an impedance of 60 Ohms or 
+higher.
+
+page  3 – 9
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Studio Monitor
+In addition to the Control Room, there 
+may be a Studio in which one or more 
+performers will be assembled, usually 
+with microphones so that their voices can 
+become part of the mix. Speakers may be 
+provided in the Studio to allow the talent 
+to listen to the console bus outputs at times 
+that they are not actually on air. These 
+speakers are fed from the console’s stereo 
+Studio output. 
+The studio monitor consists of a STUDIO level control, a TB (talkback) button, 
+two program assign (PGM 1 and PGM 2) 
+buttons, and an external input (EXT) button.
+A connection is provided on the 
+console’s DB-25 connector to wire up a 
+MIC 2 TB to CUE/CR switch provided by 
+the user. This switch enables a guest using 
+MIC 2 to talk back to the Control Room 
+over the console’s cue system. 
+Program Select
+Pressing either of the two program 
+PGM 1 or PGM 2 switches allows the selected output bus to be heard in the 
+studio. The button will be lit when the monitor is assigned to its respective bus.
+EXT Switch
+Pressing the EXT switch allows the external balanced input (such as tape 
+recorders or air returns) to be heard in the studio.
+STUDIO Level Control
+The STUDIO level control determines the overall loudness of the signal being 
+monitored as it appears in the Studio speakers.
+TB (Talkback) Button
+The TB button lets the operator’s microphone signal interrupt the normal feed 
+to the studio speakers, allowing the operator to talk to the performers in the Studio. 
+If the Studio Dim dipswitch (described in Chapter 2) is set to the ON position, 
+the normal studio feed is not completely removed, but is dimmed by 20dB.
+
+page  3 – 10
+AIR 4 / June 2012
+C O N T R O L S A N D F U N C T I O N S
+Meters (VU-AIR4)
+The METERS section consists of two VU meter pairs on the console’s 
+meterbridge and a METERS select button, located on the Master panel.
+VU Meter Pairs
+VU meter pairs (PROGRAM 1 VU and SWITCHED VU) are 
+stereo LED bargraph type meters.
+The level of the signal being metered is indicated by the number 
+of display elements that are lighted. The more elements lighted, the 
+stronger is the signal being displayed. The right four LEDs in each 
+bargraph are red to indicate when the signal level is approaching a 
+clipping (distorted) level. The next four LEDs are yellow, indicating 
+a normal level range, and the remaining LEDs are green. The top 
+member of the pair indicates the level of the signal’s left channel, 
+while the bottom member of the pair indicates the level of the signal’s right 
+channel. Peak (CLIP) indication is also provided.
+The left VU meter pair shows the level of the PGM 1 output, while the 
+right VU meter pair (the SWITCHED VU) shows the level of the signal that 
+is selected for it (PGM 2 or EXT).
+METERS Select Button
+The METERS buttons select the source for the switched meter pair, as 
+indicated above.
+On Air LED
+The ON AIR LED, located in the middle of the meterbridge, lights up when any input channel is programmed 
+by dipswitch to have the CR MUTE/AIR TALLY dipswitch 
+activated, and is also ON.  
+
+page  4 – 1
+AIR 4 / June 2012
+Schematic and Load Sheet 
+Drawings
+Console Flow Diagram..................................................................4-2
+IP-AIR4 6 Inputs Panel 
+Schematic...................................................................................................................4-3
+Load Sheet..................................................................................................................4-9
+MST-AIR4 Master Panel
+Schematic..................................................................................................................4-10
+Load Sheet.................................................................................................................4-15
+MTR-AIR4 Meters Card
+Schematic..................................................................................................................4-16
+Load Sheet.................................................................................................................4-19
+CONA3-3 Three Connector Blocks Card
+Schematic..................................................................................................................4-20
+Load Sheet.................................................................................................................4-22
+CONA4-4 Four Connector Blocks Card
+Schematic..................................................................................................................4-23
+Load Sheet.................................................................................................................4-28
+ Chapter Contents
+S C H E M A T I C D R A W I N G S
+
+page  4 – 2
+AIR 4 / June 2012
+HDPN OUT
+L
+E
+E
+L
+V
+F
+E
+T
+L
+R
+L
+R
+HDPN JACK
+HEADPHONE
+CONTROL ROOM
+L
+R
+PGM 2 RT MON
+PGM 2 LT MON
+CR OUT
+PGM 1 RT MON
+PGM 1 LT MON
+L
+E
+E
+L
+V
+F
+E
+T
+L
+R
+RJ-45
+L
+R
+LOGIC
+CUE SENSE
+SPLIT CUE MODE
+JUMPER
+CUE MON
+C
+R
+F
+E
+T
+EXT RT MON
+EXT LT MON
+PGM 2
+PGM 1
+EXT IN
+LOGIC
+ENABLE
+CUE TO CR
+DIP SW
+CUE SENSE
+ON AIR TALLY
+CR MUTE
+MUTE/TALLY INPUT 1
+MUTE/TALLY INPUT 12
+MUTE/TALLY PHONE
+MODE
+SPLIT CUE
+DIP SW
+TRIM
+MIC 1
+H
+L
+PREAMP
+CR MIC 1
+RJ-45
+CR MIC 1
+STUDIO
+L
+R
+EXT RT MON
+EXT LT MON
+PGM 2 RT MON
+PGM 2 LT MON
+PGM 1 RT MON
+PGM 1 LT MON
+F
+E
+T
+L
+R
+L
+R
+PGM 2
+PGM 1
+EXT IN
+CR TO STUDIO TB
+LOGIC
+INTERRUPT
+DIM OR
+DIP SW
+TB
+S
+T
+F
+E
+T
+ST OUT
+RJ-45
+MIC 1 TB
+TB TO PHONE
+STUDIO/GUEST MIC 2
+DB-25
+GUEST TB TO
+PINS 11, 12
+CUE ACN
+CUE/CR
+L
+E
+E
+L
+V
+FET
+CR MUTE
+DB-25
+PINS 7, 8
+TO EXT CUE AMP
+CUE MON
+CUE
+MB SPKR
+TRIM
+MIC 2
+L
+PREAMP
+MIC 2
+RJ-45
+TB TO STUDIO
+L
+E
+E
+L
+V
+ON AIR TALLY
+DB-25
+PIN 10
+LOGIC
+DRIVER
+PIN 9
+N.O. DRY
+RELAY
+TO TALLY LED
+TO BRIDGE
+TRIM
+L
+R
+EXT RT MON
+EXT LT MON
+PGM 2 RT MON
+PGM 2 LT MON
+PGM 2/SWITCHED 
+LOGIC
+VU METERS
+EXT
+PGM 2
+TRIM
+L
+R
+PGM 1 
+PGM 1 MON
+H
+L
+INPUT
+RJ-45
+BALANCED
+L
+R
+L
+R
+A/B
+CUE
+PGM 1 ACN
+PGM 2 ACN
+LOGIC
+CUE
+CUE SENSE
+PGM 2
+PGM 1
+START
+MUTE/TALLY
+DB-25
+START OPTO
+LOGIC
+INPUT CHANNEL
+A
+B
+H
+L
+H
+L
+H
+L
+LT
+LT
+RT
+RT
+CUE ACN
+AIR TALLY
+CR MUTE/
+DIP SW
+METERS TO BRIDGE
+ METERS TO BRIDGE
+FET
+F
+A
+D
+E
+R
+A
+/
+B
+F
+E
+T
+V
+U
+F
+E
+T
+G
+M
+F
+E
+T
+P
+PGM 1 ACN
+L
+R
+L
+R
+PGM 2 ACN
+USB
+CODEC
+FROM
+TO
+COMPUTER
+USB
+CONN
+RJ-45
+PATCH OUT
+DIP
+SW
+RJ-45
+TRIM
+TRIM
+L
+R
+TRIM
+TRIM
+L
+R
+P
+G
+M
+F
+E
+T
+H
+L
+H
+L
+R
+RJ-45
+BALANCED
+PGM 1 OUT
+PGM 1 LT MON
+PGM 1 RT MON
+H
+L
+H
+L
+L
+R
+PGM 2 OUT
+PGM 2 LT MON
+PGM 2 RT MON
+MIC 1 TB
+PGM 2 RT
+PGM 2 LT
+PGM 1 RT
+PGM 1 LT
+L
+R SUM
+TRIM
+P
+GM
+B
+F
+E
+/T
+T
+H
+L
+RJ-45
+BALANCED
+CALLER TO
+HYBRID
+LOGIC
+PGM 2
+TB
+PGM 1
+START
+DB-25
+PIN 25
+START OPTO
+PGM 1 LT MONO
+PGM 1 RT MONO
+PGM 2 LT MONO
+PGM 2 RT MONO
+DIP SW
+MUTE/TALLY
+L
+CUE ACN
+H
+L
+FET
+BALANCED
+PHONE
+CUE
+A
+D
+E
+R
+LOGIC
+CUE SENSE
+CUE
+CALLER FROM
+HYBRID
+F
+EXTERNAL IN
+EXT LT MON
+EXT RT MON
+H
+L
+EXT IN
+L
+H
+L
+R
+L
+R
+RJ-45
+BALANCED
+H
+CUE
+FET
+System Flow Diagram
+AIR 4
+MIC 3/MIC 4
+TRIM
+MIC 3
+L
+PREAMP
+MIC 3
+ RJ-45
+H
+TRIM
+MIC 4
+L
+PREAMP
+MIC 4
+ RJ-45
+H
+
+A
+IPA2-6A PCB
+4-19-10
+1 of 6
+22S0008-1
+W# 700889
+DB/WWP
+DB
+WWP
+IPA4-6
+AIR 4 / June 2012
+page 4 - 3
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+VCC
+GND
+0.1uF
+C51
+VCC
+GND
+0.1uF
+C53
+VCC
+GND
+0.1uF
+C38
+VCC
+GND
+0.1uF
+C43
+VCC
+GND
+C30
+0.1uF
+VCC
+GND
+0.1uF
+C45
+VCC
+GND
+0.1uF
+C49
+VCC
+GND
+0.1uF
+C46
+VCC
+GND
+0.1uF
+C44
+VCC
+GND
+VCC
+GND
+VCC
+GND
+100uF
+C47
+C61
+100uF
+100uF
+C48
+4
+3
+2
+1
+SW25
+4
+3
+2
+1
+SW26
+4
+3
+2
+1
+SW27
+4
+3
+2
+1
+SW28
+4
+3
+2
+1
+SW30
+4
+3
+2
+1
+SW29
+1
+2
+3
+4
+SW24
+1
+2
+3
+4
+SW23
+1
+2
+3
+4
+SW22
+1
+2
+3
+4
+SW21
+1
+2
+3
+4
+SW20
+1
+2
+3
+4
+SW19
+1
+2
+3
+4
+SW17
+1
+2
+3
+4
+SW18
+1
+2
+3
+4
+SW15
+1
+2
+3
+4
+SW16
+4
+3
+2
+1
+SW13
+4
+3
+2
+1
+SW14
+SW8
+4
+3
+2
+1
+4
+3
+2
+1
+SW7
+4
+3
+2
+1
+SW10
+4
+3
+2
+1
+SW9
+1
+2
+3
+4
+SW12
+1
+2
+3
+4
+SW11
+4
+3
+2
+1
+SW5
+4
+3
+2
+1
+SW6
+4
+3
+2
+1
+SW4
+4
+3
+2
+1
+SW3
+4
+3
+2
+1
+SW2
+SW1
+4
+3
+2
+1
+220
+R211
+220
+R99
+220
+R100
+R47 220
+220
+R59
+220
+R48
+220
+R60
+220
+R1
+220
+R2
+220
+R212
+220
+R109
+220
+R110
+220
+R49
+220
+R62
+220
+R50
+220
+R63
+220
+R5
+220
+R6
+220
+R214
+220
+R119
+220
+R120
+220
+R46
+220
+R51
+220
+R52
+220
+R65
+220
+R7
+220
+R8
+220
+R215
+220
+R129
+220
+R130
+220
+R53
+220
+R67
+220
+R54
+220
+R68
+220
+R11
+220
+R12
+220
+R217
+220
+R139
+220
+R140
+220
+R55
+220
+R69
+220
+R56
+220
+R70
+220
+R13
+220
+R14
+220
+R218
+220
+R149
+220
+R150
+220
+R57
+220
+R72
+220
+R58
+220
+R73
+0.1uF
+C42
+GND
+VCC
+C13
+0.1uF
+GND
+VCC
+0.1uF
+C37
+GND
+VCC
+0.1uF
+C39
+GND
+VCC
+0.1uF
+C40
+GND
+VCC
+C22
+0.1uF
+GND
+VCC
+0.1uF
+C41
+GND
+VCC
+0.1uF
+C59
+GND
+VCC
+0.1uF
+C36
+GND
+VCC
+0.1uF
+C35
+GND
+VCC
+0.1uF
+C55
+GND
+VCC
+0.1uF
+C57
+GND
+VCC
+0.22uF
+C1
+C10
+0.22uF
+C9
+0.22uF
+C16
+0.22uF
+C11
+0.22uF
+1.00K
+R21
+1.00K
+R25
+1.00K
+R19
+1.00K
+R20
+1.00K
+R3
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+0.22uF
+C2
+C15
+0.22uF
+C14
+0.22uF
+C17
+0.22uF
+C12
+0.22uF
+1.00K
+R22
+1.00K
+R26
+1.00K
+R23
+1.00K
+R24
+1.00K
+R4
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+0.22uF
+C3
+C19
+0.22uF
+C18
+0.22uF
+C7
+0.22uF
+C20
+0.22uF
+1.00K
+R29
+R41
+1.00K
+1.00K
+R27
+1.00K
+R28
+1.00K
+R9
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+0.22uF
+C4
+C24
+0.22uF
+C23
+0.22uF
+C25
+0.22uF
+C21
+0.22uF
+1.00K
+R30
+R33
+1.00K
+1.00K
+R31
+1.00K
+R32
+1.00K
+R10
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+0.22uF
+C5
+C27
+0.22uF
+C26
+0.22uF
+0.22uF
+C32
+C28
+0.22uF
+R36
+1.00K
+R39
+1.00K
+R34
+1.00K
+R35
+1.00K
+1.00K
+R15
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+0.22uF
+C6
+0.22uF
+C31
+C8
+0.22uF
+0.22uF
+C33
+C29
+0.22uF
+R37
+1.00K
+R40
+1.00K
+R42
+1.00K
+R38
+1.00K
+1.00K
+R16
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+GND
+220
+R18
+GND
+CT2
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+AGND
+AGND
+CT1
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+220
+R17
+100
+R210
+100
+R209
+100
+R208
+100
+R207
+100
+R205
+100
+R206
+AGND
+AGND
+GND
+GND
+F1
+1.0A
+POLYSW
+ABSW_1
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_1
+PGM2SW_1
+CUESW_1
+STARTSW_1
+ABSW_2
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_2
+PGM2SW_2
+CUESW_2
+STARTSW_2
+ABSW_3
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_3
+PGM2SW_3
+CUESW_3
+STARTSW_3
+ABSW_4
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_4
+PGM2SW_4
+CUESW_4
+STARTSW_4
+ABSW_5
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_5
+PGM2SW_5
+CUESW_5
+STARTSW_5
+ABSW_6
+VCC
+VCC
+VCC
+VCC
+VCC
+PGM1SW_6
+PGM2SW_6
+CUESW_6
+STARTSW_6
+LINEAINLT_1
+LINEAINRT_1
+LINEBINLT_1
+LINEBINRT_1
+LINEAINLT_2
+LINEAINRT_2
+LINEBINLT_2
+LINEBINRT_2
+LINEAINLT_4
+LINEAINRT_4
+LINEBINLT_4
+LINEBINRT_4
+LINEBINLT_3
+LINEBINRT_3
+LINEAINLT_3
+LINEAINRT_3
+LINEAINLT_5
+LINEAINRT_5
+LINEBINLT_5
+LINEBINRT_5
+LINEAINLT_6
+LINEAINRT_6
+LINEBINLT_6
+LINEBINRT_6
+CUEACN
+PGM2RTACN
+PGM1RTACN
+PGM2LTACN
+PGM1LTACN
+D+in
+V-in
+V+in
+D+in
+VCC
+D+in
+START
+CUE
+PGM-2
+PGM-1
+A/B SELECT
+A/B SELECT
+PGM-1
+PGM-2
+CUE
+START
+START
+CUE
+PGM-2
+PGM-1
+A/B SELECT
+START
+CUE
+PGM-2
+PGM-1
+A/B SELECT
+START
+CUE
+PGM-2
+PGM-1
+A/B SELECT
+A/B SELECT
+PGM-1
+PGM-2
+CUE
+START
+INPUT 1
+INPUT 2
+INPUT 4
+INPUT 3
+INPUT 5
+INPUT 6
+
+page 4 - 4
+AIR 4 / June 2012
+IPA4-6
+WWP
+DB
+DB/WWP
+W# 700889
+22S0008-2
+2 of 6
+4-19-10
+IPA2-6A PCB
+A
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+4.99K
+R45
+VCC
+74LS74
+10
+11
+12
+13
+8
+9
+U3
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+11
+12
+13
+8
+9
+U14
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U14
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U12
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U3
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+9
+8
+13
+12
+11
+10
+U13
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+4.99K
+R64
+VCC
+GND
+VCC
+4148
+D3
+100uF
+C34
+4.99K
+R44
+VCC
+74LS74
+9
+8
+13
+12
+11
+10
+U10
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+6
+5
+4
+3
+2
+1
+U10
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U9
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+4.99K
+R43
+VCC
+74LS74
+10
+11
+12
+13
+8
+9
+U6
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U6
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+9
+8
+13
+12
+11
+10
+U4
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+9
+8
+13
+12
+11
+10
+U7
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+6
+5
+4
+3
+2
+1
+U7
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+9
+8
+13
+12
+11
+10
+U12
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+4
+2
+1
+3
+6
+5
+U15
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+12
+13
+11
+8
+9
+U15
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+5
+6
+3
+1
+2
+4
+U13
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+4
+2
+1
+3
+6
+5
+U8
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+12
+13
+11
+8
+9
+U8
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+4
+2
+1
+3
+6
+5
+U11
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+12
+13
+11
+8
+9
+U11
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+9
+8
+11
+13
+12
+10
+U9
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+12
+13
+11
+8
+9
+U5
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+4
+2
+1
+3
+6
+5
+U5
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U4
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+12
+13
+11
+8
+9
+U1
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+4
+2
+1
+3
+6
+5
+U1
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+10
+11
+12
+13
+8
+9
+U2
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+74LS74
+1
+2
+3
+4
+5
+6
+U2
+D
+CLR
+PR
+CK
+Q
+___
+____ __
+Q
+BAT54 D1
+BAT54 D2
+BAT54 D12
+BAT54 D7
+BAT54 D10
+BAT54 D5
+BAT54 D13
+BAT54 D8
+BAT54 D6
+BAT54 D11
+BAT54 D9
+BAT54 D4
+ABSW_1
+PGM1_1
+PGM2_1
+PGM1_2
+PGM2_2
+START_1
+START_2
+ABSW_2
+PGM1SW_1
+PGM2SW_1
+PGM1SW_2
+PGM2SW_2
+CUESW_1
+CUESW_2
+STARTSW_1
+STARTSW_2
+ABSW_3
+ABSW_4
+PGM1SW_3
+PGM2SW_3
+PGM1SW_4
+PGM2SW_4
+CUESW_3
+CUESW_4
+STARTSW_3
+STARTSW_4
+PGM1_3
+PGM2_3
+PGM1_4
+PGM2_4
+START_3
+START_4
+ABSW_5
+ABSW_6
+PGM1SW_5
+PGM2SW_5
+PGM1SW_6
+PGM2SW_6
+CUESW_5
+CUESW_6
+STARTSW_5
+STARTSW_6
+PGM1_5
+PGM2_5
+PGM1_6
+PGM2_6
+START_5
+START_6
+
+page 4 - 5
+AIR 4 / June 2012
+A
+IPA2-6A PCB
+4-19-10
+3 of 6
+22S0008-3
+W# 700889
+DB/WWP
+DB
+WWP
+IPA4-6
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+74LS00
+3
+2
+1
+U24
+74LS00
+6
+5
+4
+U24
+74LS00
+8
+10
+9
+U24
+74LS00
+11
+13
+12
+U24
+GND
+VCC
+1.00K
+R81
+220
+R82
+0.22uF
+C60
+GND
+GND
+74LS00
+1
+2
+3
+U22
+74LS00
+4
+5
+6
+U22
+74LS00
+9
+10
+8
+U22
+74LS00
+12
+13
+11
+U22
+AQW210S 5
+6
+4
+3
+U23
+GND
+VCC
+1.00K
+R71
+220
+R80
+0.22uF
+C58
+GND
+GND
+74LS00
+3
+2
+1
+U21
+74LS00
+6
+5
+4
+U21
+74LS00
+8
+10
+9
+U21
+74LS00
+11
+13
+12
+U21
+GND
+VCC
+1.00K
+R78
+220
+R79
+0.22uF
+C56
+GND
+GND
+74LS00
+1
+2
+3
+U19
+74LS00
+4
+5
+6
+U19
+74LS00
+9
+10
+8
+U19
+74LS00
+12
+13
+11
+U19
+AQW210S 5
+6
+4
+3
+U20
+GND
+VCC
+1.00K
+R66
+220
+R77
+0.22uF
+C54
+GND
+GND
+74LS00
+3
+2
+1
+U18
+74LS00
+6
+5
+4
+U18
+74LS00
+8
+10
+9
+U18
+74LS00
+11
+13
+12
+U18
+GND
+VCC
+1.00K
+R75
+220
+R76
+0.22uF
+C52
+GND
+GND
+74LS00
+1
+2
+3
+U16
+74LS00
+4
+5
+6
+U16
+74LS00
+9
+10
+8
+U16
+74LS00
+12
+13
+11
+U16
+GND
+VCC
+1.00K
+R61
+220
+R74
+0.22uF
+C50
+GND
+GND
+AQW210S
+2
+1
+8
+7
+U23
+AQW210S 7
+8
+1
+2
+U20
+AQW210S 7
+8
+1
+2
+U17
+AQW210S
+3
+4
+6
+5
+U17
+STARTSW_1
+START_1
+PGM1_1
+PGM2_1
+STARTSW_2
+START_2
+PGM1_2
+PGM2_2
+STARTSW_3
+START_3
+PGM1_3
+PGM2_3
+STARTSW_4
+START_4
+PGM1_4
+PGM2_4
+STARTSW_5
+START_5
+PGM1_5
+PGM2_5
+STARTSW_6
+START_6
+PGM1_6
+PGM2_6
+
+page 4 - 6
+AIR 4 / June 2012
+IPA4-6
+WWP
+DB
+DB/WWP
+W# 700889
+22S0008-4
+4 of 6
+4-19-10
+IPA2-6A PCB
+A
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+3.32K
+R144
+3.32K
+R146
+3.32K
+R142
+3.32K
+R148
+AGND
+AGND
+AGND
+AGND
+4053
+6
+4
+9
+3
+5
+U36
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+3
+1 2
+CT8
+10K
+AGND
+AGND
+22uF
+C170
+AGND
+AGND
+4053
+2
+1
+10
+15
+6
+U47
+X
+Y
+X-Y
+INH
+S
+4053
+12
+13
+11
+6
+14
+U47
+X
+Y
+X-Y
+INH
+S
+4053
+5
+3
+9
+4
+6
+U47
+X
+Y
+X-Y
+INH
+S
+4053
+13
+12
+6
+14
+11
+U48
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+22uF
+C173
+4053
+6
+14
+11
+13
+12
+U36
+X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+6
+15
+10
+1
+2
+U36
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+9
+4
+6
+5
+3
+U48
+X
+Y
+X-Y
+INH
+S
+4053
+10
+15
+6
+2
+1
+U48
+X
+Y
+X-Y
+INH
+S
+5532
+8
+4
+7
+6
+5
+U31
+5532
+1
+2
+3
+U31
+5532
+8
+4
+7
+5
+6
+U54
+5532
+1
+3
+2
+U54
+-2dBu
+-2dBu
+22uF C146
+22uF C149
+22uF C150
+C120
+22uF
+3
+5 4
+CT8
+10K
+10.0K
+R147
+10.0K
+R145
+10.0K
+R143
+10.0K
+R141
+10.0K
+R191
+10.0K
+R192
+10.0K
+R190
+10.0K
+R193
+22.1K
+R227
+22.1K
+R204
+88.7K
+R203
+88.7K
+R228
+10pF
+C147
+10pF
+C172
+10pF
+C78
+10pF
+C102
+3.32K
+R134
+3.32K
+R136
+3.32K
+R132
+3.32K
+R138
+AGND
+AGND
+AGND
+AGND
+4053
+5
+3
+9
+4
+6
+U35
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+2
+1
+3
+CT7
+10K
+AGND
+AGND
+22uF
+C167
+AGND
+AGND
+4053
+6
+15
+10
+1
+2
+U45
+X
+Y
+X-Y
+INH
+S
+4053
+14
+6
+11
+13
+12
+U45
+X
+Y
+X-Y
+INH
+S
+4053
+6
+4
+9
+3
+5
+U45
+X
+Y
+X-Y
+INH
+S
+4053
+U46
+11
+14
+6
+12
+13
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+22uF
+C169
+4053
+12
+13
+11
+14
+6
+U35
+X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+2
+1
+10
+15
+6
+U35
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+U46
+3
+5
+6
+4
+9
+X
+Y
+X-Y
+INH
+S
+4053
+U46
+1
+2
+6
+15
+10
+X
+Y
+X-Y
+INH
+S
+5532
+5
+6
+7
+4
+8
+U30
+5532
+3
+2
+1
+U30
+5532
+6
+5
+7
+4
+8
+U53
+5532
+2
+3
+1
+U53
+-2dBu
+-2dBu
+22uF C142
+22uF C145
+22uF C118
+22uF C119
+4
+5
+3
+CT7
+10K
+10.0K
+R137
+10.0K
+R135
+10.0K
+R133
+10.0K
+R131
+10.0K
+R186
+R187 10.0K
+10.0K
+R185
+10.0K
+R188
+22.1K
+R216
+22.1K
+R202
+88.7K
+R201
+88.7K
+R226
+10pF
+C143
+10pF
+C168
+10pF
+C76
+10pF
+C100
+20.0K
+R194
+20.0K
+R161
+20.0K
+R189
+20.0K
+R159
+C5V1
+Z2
+5.1V
+C5V1
+Z1
+5.1V
+VEE
+VDD
+VV+
+100uF
+C63
+100uF
+C66
+VV+
+POLYSW
+F3
+0.3A
+POLYSW
+F2
+0.3A
+AGND
+1.30K R91
+V+
+VVEE
+VDD
+4.7uF
+C64
+4.7uF
+C65
+0.1uF
+C101
+0.1uF
+C171
+0.1uF
+C79
+0.1uF
+C148
+0.1uF
+C99
+0.1uF
+C152
+0.1uF
+C136
+0.1uF
+C140
+AGND
+AGND
+0.22uF
+C67
+0.22uF
+C126
+0.22uF
+C83
+0.22uF
+C84
+0.22uF
+C108
+0.22uF
+C88
+1.30K R92
+0.22uF
+C81
+0.22uF
+C62
+R97 10K
+R98 10K
+R160 10K
+R162 10K
+V+in
+V-in
+LINEAINLT_1
+LINEAINRT_1
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_1
+LINEBINRT_1
+LINEAINLT_2
+LINEAINRT_2
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_2
+LINEBINRT_2
+A
+B
+IN 2
+IN 1
+B
+A
+FADER 1
+LT
+RT
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+OUT OF PHASE
+RT
+LT
+FADER 2
+
+page 4 - 7
+AIR 4 / June 2012
+IPA2-6A PCB
+4-19-10
+5 of 6
+22S0008-5
+W# 700889
+DB/WWP
+DB
+WWP
+IPA4-6
+A
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+R124
+3.32K
+R126
+3.32K
+R122
+3.32K
+R128
+3.32K
+AGND
+AGND
+AGND
+AGND
+4053
+U34
+5
+3
+9
+4
+6
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+AGND
+AGND
+C163 22uF
+AGND
+AGND
+4053
+U43
+6
+15
+10
+1
+2
+X
+Y
+X-Y
+INH
+S
+4053
+U43
+14
+6
+11
+13
+12
+X
+Y
+X-Y
+INH
+S
+4053
+U43
+6
+4
+9
+3
+5
+X
+Y
+X-Y
+INH
+S
+4053
+U44
+11
+14
+6
+12
+13
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+C166 22uF
+4053
+U34
+12
+13
+11
+14
+6
+X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+U34
+2
+1
+10
+15
+6
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+U44
+3
+5
+6
+4
+9
+X
+Y
+X-Y
+INH
+S
+4053
+U44
+1
+2
+6
+15
+10
+X
+Y
+X-Y
+INH
+S
+5532
+U29
+5
+6
+7
+4
+8
+5532
+U29
+3
+2
+1
+5532
+U52
+6
+5
+7
+4
+8
+5532
+U52
+2
+3
+1
+-2dBu
+-2dBu
+C138
+22uF
+C141
+22uF
+C116
+22uF
+C117
+22uF
+R127 10.0K
+R125 10.0K
+R123 10.0K
+R121 10.0K
+R181 10.0K
+R182 10.0K
+R180 10.0K
+R183 10.0K
+R224 22.1K
+R200 22.1K
+R199 88.7K
+R225 88.7K
+C139 10pF
+C165 10pF
+C74 10pF
+C98 10pF
+R114
+3.32K
+R116
+3.32K
+R112
+3.32K
+R118
+3.32K
+AGND
+AGND
+AGND
+AGND
+4053
+U33
+6
+4
+9
+3
+5
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+CT5
+3
+1 2
+10K
+AGND
+AGND
+C160 22uF
+AGND
+AGND
+4053
+U41
+2
+1
+10
+15
+6
+X
+Y
+X-Y
+INH
+S
+4053
+U41
+12
+13
+11
+6
+14
+X
+Y
+X-Y
+INH
+S
+4053
+U41
+5
+3
+9
+4
+6
+X
+Y
+X-Y
+INH
+S
+4053
+U42
+13
+12
+6
+14
+11
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+C162 22uF
+4053
+U33
+6
+14
+11
+13
+12 X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+U33
+6
+15
+10
+1
+2
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+U42
+9
+4
+6
+5
+3
+X
+Y
+X-Y
+INH
+S
+4053
+U42
+10
+15
+6
+2
+1
+X
+Y
+X-Y
+INH
+S
+5532
+U28
+8
+4
+7
+6
+5
+5532
+U28
+1
+2
+3
+5532
+U51
+8
+4
+7
+5
+6
+5532
+U51
+1
+3
+2
+-2dBu
+-2dBu
+C134
+22uF
+C137
+22uF
+C114
+22uF
+C115
+22uF
+CT5
+3
+5 4
+10K
+R117 10.0K
+R115 10.0K
+R113 10.0K
+R111 10.0K
+R176 10.0K
+R177 10.0K
+R175 10.0K
+R178 10.0K
+R213 22.1K
+R198 22.1K
+R197 88.7K
+R223 88.7K
+C135 10pF
+C161 10pF
+C72 10pF
+C96 10pF
+R184 20.0K
+R157 20.0K
+R179 20.0K
+R155 20.0K
+V+
+VC95
+0.1uF
+C91
+0.1uF
+C132
+0.1uF
+C128
+0.1uF
+C153
+0.1uF
+C93
+0.1uF
+C73
+0.1uF
+C75
+0.1uF
+AGND
+VEE
+VDD
+AGND
+C124
+0.22uF
+C121
+0.22uF
+C123
+0.22uF
+C107
+0.22uF
+C103
+0.22uF
+C80
+0.22uF
+C85
+0.22uF
+CT6
+3
+1 2
+10K
+CT6
+3
+5 4
+10K
+C82
+0.22uF
+R95 10K
+R96 10K
+R156 10K
+R158 10K
+LINEAINLT_3
+LINEAINRT_3
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_3
+LINEBINRT_3
+LINEAINLT_4
+LINEAINRT_4
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_4
+LINEBINRT_4
+A
+B
+IN 3
+IN 4
+B
+A
+OUT OF PHASE
+IN PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+FADER 4
+LT
+RT
+RT
+LT
+FADER 3
+
+page 4 - 8
+AIR 4 / June 2012
+IPA2-6A PCB
+4-19-10
+6 of 6
+22S0008-6
+W# 700889
+DB/WWP
+DB
+WWP
+IPA4-6
+A
+1
+8
+2
+7
+3
+6
+4
+5
+1
+8
+2
+7
+3
+6
+4
+5
+- SA UR US - Sergey Averin -
+DATE
+SIZE
+REV
+CONTRACT NO.
+SCALE
+SHEET
+DRAWN
+CHECKED
+ISSUED
+FSCM NO.
+DWG. NO.
+D
+APPROVALS
+D
+A
+C
+B
+D
+A
+C
+B
+New Bern, NC 28562
+600 Industrial Drive
+3.32K
+R104
+3.32K
+R106
+3.32K
+R102
+3.32K
+R108
+AGND
+AGND
+AGND
+AGND
+4053
+5
+3
+9
+4
+6
+U32
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+AGND
+AGND
+22uF
+C156
+AGND
+AGND
+4053
+6
+15
+10
+1
+2
+U39
+X
+Y
+X-Y
+INH
+S
+4053
+14
+6
+11
+13
+12
+U39
+X
+Y
+X-Y
+INH
+S
+4053
+6
+4
+9
+3
+5
+U39
+X
+Y
+X-Y
+INH
+S
+4053
+11
+14
+6
+12
+13
+U40
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+22uF
+C159
+4053
+12
+13
+11
+14
+6
+U32
+X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+2
+1
+10
+15
+6
+U32
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+3
+5
+6
+4
+9
+U40
+X
+Y
+X-Y
+INH
+S
+4053
+1
+2
+6
+15
+10
+U40
+X
+Y
+X-Y
+INH
+S
+5532
+5
+6
+7
+4
+8
+U27
+5532
+3
+2
+1
+U27
+5532
+6
+5
+7
+4
+8
+U50
+5532
+2
+3
+1
+U50
+-2dBu
+-2dBu
+22uF C130
+22uF C133
+22uF C112
+22uF C113
+10.0K
+R107
+10.0K
+R105
+10.0K
+R103
+10.0K
+R101
+10.0K
+R171
+10.0K
+R172
+10.0K
+R170
+10.0K
+R173
+22.1K
+R221
+22.1K
+R196
+88.7K
+R195
+88.7K
+R222
+10pF
+C131
+10pF
+C158
+10pF
+C70
+10pF
+C94
+3.32K
+R86
+3.32K
+R88
+3.32K
+R83
+3.32K
+R90
+AGND
+AGND
+AGND
+AGND
+4053
+6
+4
+9
+3
+5
+U25
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+AGND
+AGND
+AGND
+AGND
+AGND
+22uF
+C109
+AGND
+AGND
+4053
+2
+1
+10
+15
+6
+U37
+X
+Y
+X-Y
+INH
+S
+4053
+12
+13
+11
+6
+14
+U37
+X
+Y
+X-Y
+INH
+S
+4053
+5
+3
+9
+4
+6
+U37
+X
+Y
+X-Y
+INH
+S
+4053
+13
+12
+6
+14
+11
+U38
+X
+Y
+X-Y
+INH
+S
+AGND
+GND
+22uF
+C155
+4053
+6
+14
+11
+13
+12
+U25
+X
+Y
+X-Y
+INH
+S
+V+
+VV+
+V4053
+6
+15
+10
+1
+2
+U25
+X
+Y
+X-Y
+INH
+S
+-2dBu
+-2dBu
+-14dBu
+-14dBu
+-2dBu
+-2dBu
+4053
+9
+4
+6
+5
+3
+U38
+X
+Y
+X-Y
+INH
+S
+4053
+10
+15
+6
+2
+1
+U38
+X
+Y
+X-Y
+INH
+S
+5532
+8
+4
+7
+6
+5
+U26
+5532
+1
+2
+3
+U26
+5532
+8
+4
+7
+5
+6
+U49
+5532
+1
+3
+2
+U49
+-2dBu
+-2dBu
+22uF C90
+22uF C129
+22uF C110
+22uF C111
+10.0K
+R89
+10.0K
+R87
+10.0K
+R85
+10.0K
+R84
+10.0K
+R166
+10.0K
+R167
+10.0K
+R165
+10.0K
+R168
+22.1K
+R219
+22.1K
+R164
+88.7K
+R163
+88.7K
+R220
+10pF
+C127
+10pF
+C154
+10pF
+C68
+10pF
+C92
+20.0K
+R174
+20.0K
+R153
+20.0K
+R169
+20.0K
+R151
+V+
+V0.1uF
+C164
+0.1uF
+C97
+0.1uF
+C77
+0.1uF
+C69
+0.1uF
+C151
+0.1uF
+C157
+0.1uF
+C71
+0.1uF
+C144
+AGND
+VEE
+VDD
+AGND
+0.22uF
+C125
+0.22uF
+C122
+0.22uF
+C87
+0.22uF
+C106
+0.22uF
+C104
+0.22uF
+C105
+0.22uF
+C89
+0.22uF
+C86
+3
+5 4
+CT4
+10K
+3
+1 2
+CT4
+10K
+2
+1
+3
+CT3
+10K
+4
+5
+3
+CT3
+10K
+R93 10K
+R94 10K
+R152 10K
+R154 10K
+LINEAINLT_5
+LINEAINRT_5
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_5
+LINEBINRT_5
+LINEAINLT_6
+LINEAINRT_6
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+CUEACN
+LINEBINLT_6
+LINEBINRT_6
+A
+B
+IN 5
+IN 6
+B
+A
+RT
+LT
+FADER 5
+FADER 6
+LT
+RT
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+OUT OF PHASE
+
+page  4 – 9
+IP-AIR4 6 Inputs Panel Load Sheet
+AIR 4 / June 2012
+Top
+Bottom
+
+220
+R62
+220
+R64
+220
+R66
+R38 220
+R40 220
+R41 220
+C25
+0.22uF
+C24
+0.22uF
+C47
+0.22uF
+1.00K
+R65
+R39
+1.00K
+R42
+1.00K
+GND
+GND
+GND
+GND
+GND
+R43 220
+GND
+SW4
+1
+2
+3
+4
+SW3
+4
+3
+2
+1
+SW2
+4
+3
+2
+1
+SW5
+4
+3
+2
+1
+R192 220
+R194 220
+R172 220
+SW13
+4
+3
+2
+1
+SW12
+4
+3
+2
+1
+SW8
+1
+2
+3
+4
+R168 220
+R170 220
+R169
+10.0K
+R171
+10.0K
+SW9
+4
+3
+2
+1
+R188 220
+R190 220
+R165 220
+SW15
+1
+2
+3
+4
+SW14
+1
+2
+3
+4
+SW11
+4
+3
+2
+1
+SW10
+4
+3
+2
+1
+page 4 - 10
+AIR 4 / June 2012
+WWP
+C
+MSTRA4-4
+WWP
+AC
+W# 700890
+22S0002-1
+11-14-11
+MSTRA2-4C PCB
+1 OF 5
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+600 Industrial Drive
+New Bern, NC 28562
+CT1
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+CT2
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+R125 220
+SW7
+1
+2
+3
+4
+SW6
+4
+3
+2
+1
+220
+R96
+100
+R98
+C79
+0.22uF
+1.00K
+R97
+GND
+GND
+1
+2
+3
+4
+5
+6
+7
+SW1
+CT3
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+GND
+AGND
+AGND
+AGND
+AGND
+GND
+GND
+AGND
+GND
+GND
+AGND
+AGND
+AGND
+AGND
+GND
+GND
+AGND
+VCC
+VCC
+R126
+10.0K
+VCC
+10.0K
+R63
+VCC
+R173
+10.0K
+VCC
+R195
+10.0K
+VCC
+R193
+10.0K
+VCC
+R167
+10.0K
+VCC
+R191
+10.0K
+VCC
+R189
+10.0K
+VCC
+10.0K
+R4
+VCC
+10.0K
+R3
+VCC
+10.0K
+R2
+VCC
+20.0K
+R7
+VCC
+20.0K
+R6
+VCC
+10.0K
+R1
+VCC
+10.0K
+R5
+VCC
+F7
+1.0A
+POLYSW
+F4
+1.0A
+POLYSW
+0.3A
+F5
+POLYSW
+0.3A
+F6
+POLYSW
+PGM1SW_13
+VCC
+VCC
+VCC
+PGM2SW_13
+CUESW_13
+VCC
+VCC
+VCC
+STARTSW_13
+PGM2OUTRTLO
+PGM2OUTRTHI
+PGM2OUTLTLO
+PGM2OUTLTHI
+CALLINLO
+CALLINHI
+CALLOUTLO
+CALLOUTHI
+PGM1OUTRTLO
+PGM1OUTRTHI
+PGM1OUTLTLO
+PGM1OUTLTHI
+MIC1OUT
+MIC2OUT
+CROUTLT
+CROUTRT
+STOUTLT
+STOUTRT
+MIC1INLO
+MIC1INHI
+MIC2INLO
+MIC2INHI
+EXTINLT
+EXTINRT
+CUEACN
+PGM2RTACN
+PGM1RTACN
+PGM2LTACN
+PGM1LTACN
+D+in
+V-in
+V+in
+D+in
+CUEOUT
+ONAIR_TALLY
+PGM1RTVU
+PGM1LTVU
+SWTRTVU
+SWTLTVU
+D+2VU
+D+2VU
+V+2VU
+V-2VU
+CUE_SPKR
+TALLY_LED
+GND
+GND
+VCC
+GND
+VCC
+GND
+VCC
+VCC
+GND
+GND
+VCC
+GND
+VCC
+GND
+VCC
+GND
+VCC
+GND
+D+2VU
+D+in
+VCC
+D+in
+V-2VU
+V-in
+V+2VU
+V+in
+STUDIO
+SWITCHED METERS
+PHONE
+CR
+TB
+PGM-2
+CUE
+PGM-1
+TB
+PGM-2
+PGM-1
+EXT
+EXT
+EXT
+PGM-1
+PGM-2
+PGM-2
+START
+
+page 4 - 11
+AIR 4 / June 2012
+WWP
+C
+MSTRA2-4C PCB
+11-14-11
+22S0002-2
+W# 700890
+AC
+WWP
+MSTRA4-4
+2 OF 5
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+600 Industrial Drive
+New Bern, NC 28562
+4.99K
+R51
+VCC
+U9
+5
+6
+3
+1
+2
+4
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+9
+8
+11
+13
+12
+10
+U17
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+5
+6
+3
+1
+2
+4
+U17
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+U9
+9
+8
+11
+13
+12
+10
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+R166
+10.0K
+VCC
+GND
+C135
+100uF
+10
+11
+12
+13
+8
+9
+U43
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+10
+11
+12
+13
+8
+9
+U44
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+1
+2
+3
+4
+5
+6
+U44
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+1
+2
+3
+4
+5
+6
+U43
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+9
+10
+8
+U16
+74LS00
+1
+2
+3
+U16
+74LS00
+6
+5
+4
+U16
+74LS00
+12
+13
+11
+U16
+74LS00
+GND
+VCC
+1.00K
+R74
+220
+R75
+C54
+0.22uF
+GND
+GND
+5
+6
+3
+4
+U13
+AQW210S
+Q1
+FDN340P
+VCC
+2.43K
+R69
+GND
+10.0K
+R59
+VCC
+10
+R57
+GND
+D4
+BAT54
+D4
+BAT54
+VCC
+GND
+3
+1
+2
+U50
+74ACT08
+10
+9
+8
+U50
+74ACT08
+4
+6
+5
+U50
+74ACT08
+12
+11
+13
+U50
+74ACT08
+2
+1
+3
+U45
+74ACT08
+8
+9
+10
+U45
+74ACT08
+5
+6
+4
+U45
+74ACT08
+13
+11
+12
+U45
+74ACT08
+GND
+GND
+GND
+GND
+GND
+GND
+R187
+4.99K
+VCC
+D2
+BAT54
+D3
+BAT54
+10
+R67
+R182
+20.0K
+VCC
+C36
+0.1uF
+VCC
+GND
+C148
+0.1uF
+VCC
+GND
+C140
+0.1uF
+VCC
+GND
+0.1uF
+C68
+VCC
+GND
+0.1uF
+C67
+VCC
+GND
+C46
+0.1uF
+VCC
+GND
+VCC
+GND
+C136
+100uF
+C134
+0.1uF
+VCC
+GND
+C138
+0.1uF
+VCC
+GND
+C139
+0.1uF
+VCC
+GND
+C137
+0.1uF
+VCC
+GND
+4
+2
+1
+3
+6
+5
+U42
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+4
+2
+1
+3
+6
+5
+U47
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+10
+12
+13
+11
+8
+9
+U47
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+10
+12
+13
+11
+8
+9
+U42
+74LS74
+Q
+__
+____
+___
+Q
+CK
+PR
+CLR
+D
+D1
+BAT54
+PGM1SW_13
+PGM2SW_13
+CUESW_13
+STARTSW_13
+PGM1_13
+PGM2_13
+START_13
+STARTSW_13
+START_13
+PGM1_13
+PGM2_13
+ONAIR_TALLY
+TALLY_LED
+CR
+PHONE
+SWITCHED METERS
+STUDIO
+
+page 4 - 12
+AIR 4 / June 2012
+WWP
+3 OF 5
+MSTRA2-4C PCB
+11-14-11
+22S0002-3
+W# 700890
+AC
+WWP
+MSTRA4-4
+C
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+600 Industrial Drive
+New Bern, NC 28562
+CR1
+1
+2
+3
+50K
+CR2
+3
+2 1
+50K
+CR3
+3
+2 1
+50K
+CR4
+3
+2 1
+50K
+CR8
+1
+2
+3
+10K
+CR9
+1
+2
+3
+10K
+HI
+LO
+AGND
+SH
+CR10
+1
+2
+3
+1K
+0.001uF
+C13
+AGND
+0.001uF
+C14
+AGND
+10.0K
+R15
+10.0K
+R26
+AGND
+AGND
+AGND
+AGND
+10
+R16
+100uF C11
+Z3
+C5V1
+5.1V
+Z4
+C5V1
+5.1V
+Z2
+C5V1
+5.1V
+Z1
+C5V1
+5.1V
+V+
+V-
+-2dBu
+8
+7
+6
+5
+4
+3
+2
+1
+U4
+SSM2017
+L1
+L2
+AGND
+330pF
+C16
+HI
+LO
+AGND
+SH
+1K
+3 2
+1
+CR11
+0.001uF
+C26
+AGND
+0.001uF
+C27
+AGND
+10.0K
+R32
+10.0K
+R44
+AGND
+AGND
+AGND
+AGND
+10
+R33
+100uF C23
+Z7
+C5V1
+5.1V
+Z8
+C5V1
+5.1V
+Z6
+C5V1
+5.1V
+Z5
+C5V1
+5.1V
+V+
+V-
+-2dBu
+1
+2
+3
+4
+5
+6
+7
+8
+U8
+SSM2017
+L3
+L4
+AGND
+330pF
+C29
+39
+R17
+39
+R34
+Z9
+C5V1
+5.1V
+Z10
+C5V1
+5.1V
+VEE
+VDD
+VV+
+330uF
+C22
+330uF
+C12
+VV+
+1.0A
+F2
+POLYSW
+1.0A
+F3
+POLYSW
+AGND
+R56
+1.30K
+4.7uF
+C91
+4.7uF
+C106
+R47
+1.30K
+0.1uF
+C111
+0.1uF
+C121
+0.22uF
+C35
+0.22uF
+C34
+0.1uF
+C49
+C42
+0.1uF
+C65
+0.1uF
+0.1uF
+C56
+AGND
+V+
+VC66 33pF
+10.0K
+R85
+AGND
+33pF
+C55
+-2dBu
+U14
+5
+6
+7
+5532
+R72 10.0K
+U14
+3
+2
+1
+8
+4
+5532
+-2dBu
+AGND
+V+
+V33pF
+C50
+R73 10.0K
+AGND
+C41 33pF
+-2dBu
+U11
+7
+6
+5
+5532
+R58 10.0K
+U11
+4
+8
+1
+2
+3
+5532
+-2dBu
+100uF C86
+100uF C80
+C69
+100uF
+100uF C57
+100uF C48
+100uF C39
+C63
+0.1uF
+0.1uF
+C76
+0.1uF
+C3
+0.1uF
+C10
+20.0K
+R106
+20.0K
+R103
+20.0K
+R102
+20.0K
+R105
+CR6
+1
+2
+3
+10K
+CR7
+3
+2 1
+10K
+100uF C103
+100uF C95
+AGND
+V+
+V10pF
+C102
+4.99K
+R124
+AGND
+10pF
+C96
+-2dBu
+7
+6
+5
+U30
+5532
+4.99K
+R121
+4
+8
+1
+2
+3
+U30
+5532
+-2dBu
+4.99K
+R123
+4.99K
+R122
+68pF
+C93
+AGND
+68pF
+C89
+AGND
+68pF
+C85
+AGND
+68pF
+C77
+AGND
+AGND
+V+
+VAGND
+V+
+V8
+7
+6
+5
+4
+3
+2
+1
+U23
+SSM2142
+gnd
+1
+2
+3
+4
+5
+6
+7
+8
+U21
+SSM2142
+gnd
+LO
+HI
+LO
+HI
+AGND
+V+
+V10pF
+C88
+4.99K
+R100
+AGND
+10pF
+C81
+-2dBu
+5
+6
+7
+U22
+5532
+4.99K
+R94
+3
+2
+1
+8
+4
+U22
+5532
+-2dBu
+4.99K
+R99
+4.99K
+R95
+C70
+68pF
+AGND
+68pF
+C58
+AGND
+68pF
+C52
+AGND
+68pF
+C44
+AGND
+AGND
+V+
+VAGND
+V+
+VU15
+1
+2
+3
+4
+5
+6
+7
+8
+SSM2142
+gnd
+U12
+8
+7
+6
+5
+4
+3
+2
+1
+SSM2142
+gnd
+LO
+HI
+LO
+HI
+13
+12
+6
+14
+11
+U24
+4053
+S
+INH
+X-Y
+Y
+X
+9
+4
+6
+5
+3
+U24
+4053
+S
+INH
+X-Y
+Y
+X
+10
+15
+6
+2
+1
+U24
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+10.0K
+R101
+11
+14
+6
+12
+13
+U25
+4053
+S
+INH
+X-Y
+Y
+X
+3
+5
+6
+4
+9
+U25
+4053
+S
+INH
+X-Y
+Y
+X
+1
+2
+6
+15
+10
+U25
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+10.0K
+R104
+20.0K
+R127
+20.0K
+R119
+20.0K
+R112
+20.0K
+R109
+20.0K
+R108
+20.0K
+R111
+11
+14
+6
+12
+13
+U26
+4053
+S
+INH
+X-Y
+Y
+X
+3
+5
+6
+4
+9
+U26
+4053
+S
+INH
+X-Y
+Y
+X
+1
+2
+6
+15
+10
+U26
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+10.0K
+R107
+13
+12
+6
+14
+11
+U27
+4053
+S
+INH
+X-Y
+Y
+X
+9
+4
+6
+5
+3
+U27
+4053
+S
+INH
+X-Y
+Y
+X
+10
+15
+6
+2
+1
+U27
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+10.0K
+R110
+20.0K
+R120
+20.0K
+R93
+AGND
+0.22uF
+C147
+0.22uF
+C146
+0.22uF
+C18
+0.22uF
+C19
+0.1uF
+C21
+0.1uF
+C30
+0.1uF
+C94
+0.1uF
+C90
+0.1uF
+C105
+0.1uF
+C82
+0.1uF
+C87
+0.1uF
+C53
+0.1uF
+C45
+0.1uF
+C99
+AGND
+V+
+V33pF
+C9
+3.92K
+R12
+3
+2
+1
+8
+4
+U2
+TL072
+6.19K
+R11
+5
+6
+7
+U2
+TL072
+AGND
+33pF
+C4
+3.92K
+R13
+6.19K
+R24
+10.0K
+R23
+10.0K
+R14
+100
+R22
+100
+R25
+AGND
+V+
+V33pF
+C7
+3.92K
+R8
+4
+8
+1
+2
+3
+U1
+TL072
+6.19K
+R9
+7
+6
+5
+U1
+TL072
+AGND
+33pF
+C2
+3.92K
+R10
+6.19K
+R20
+10.0K
+R37
+10.0K
+R36
+100
+R19
+100
+R21
+0.1uF
+C107
+0.1uF
+C117
+C61
+0.1uF
+0.1uF
+C74
+GND
+AGND
+0.22uF
+C100
+0.22uF
+C92
+10.0K
+R28
+10.0K
+R30
+13
+12
+6
+14
+11
+U5
+4053
+S
+INH
+X-Y
+Y
+X
+2
+15
+1
+10
+6
+U5
+4053
+S
+INH
+X-Y
+Y
+X
+5
+4
+3
+9
+6
+U5
+4053
+S
+INH
+X-Y
+Y
+X
+5
+4
+3
+9
+6
+U6
+4053
+S
+INH
+X-Y
+Y
+X
+0.22uF
+C40
+0.22uF
+C51
+0.1uF
+C101
+0.1uF
+C97
+0.1uF
+C114
+0.1uF
+C125
+330uF
+C155
+330uF
+C154
+0.1uF
+C6
+0.1uF
+C17
+C59
+0.1uF
+0.1uF
+C8
+0.1uF
+C109
+0.1uF
+C119
+0.1uF
+C1
+0.1uF
+C72
+C15 22uF
+22uF
+C5
+C28 22uF
+C20 22uF
+AGND
+C257 10pF
+R349 88.7K
+AGND
+C256 10pF
+R350 88.7K
+R347 22.1K
+R348 22.1K
+V+
+V5532
+4
+8
+7
+6
+5
+U52
+U52
+2
+1
+3
+5532
+0.1uF
+C258
+0.1uF
+C259
+MIC1INHI
+MIC1INLO
+MIC2INHI
+MIC2INLO
+V+in
+V-in
+PGM1LTACN
+PGM1RTACN
+PGM2LTACN
+PGM2RTACN
+PGM1LTMON
+PGM1RTMON
+PGM2LTMON
+PGM2RTMON
+PGM1LT2PHN
+PGM1RT2PHN
+PGM1OUTLTLO
+PGM1OUTRTHI
+PGM1OUTLTHI
+PGM1OUTRTLO
+PGM2OUTLTLO
+PGM2OUTRTHI
+PGM2OUTLTHI
+PGM2OUTRTLO
+PGM2LT2PHN
+PGM2RT2PHN
+CALLPSTMON
+PGM1RTVU
+PGM1LTMON
+PGM1RTMON
+PGM1LTVU
+SWTRTVU
+PGM2LTMON
+EXTRTMON
+SWTLTVU
+EXTLTMON
+PGM2RTMON
+MIC1MON
+MIC2MON
+MIC1OUT
+MIC2OUT
+-50dBu BAL
+OUT OF PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
+MIC 1
+MIC 1
+GAIN
+TRIM
+-50dBu BAL
+MIC 2
+GAIN
+TRIM
+MIC 2
+LT
+RT
+RT
+LT
+PGM2
+PGM1
++4dBu BAL
++4dBu BAL
++4dBu BAL
++4dBu BAL
+
+page 4 - 13
+AIR 4 / June 2012
+WWP
+C
+4 OF 5
+MSTRA2-4C PCB
+11-14-11
+22S0002-4
+W# 700890
+AC
+WWP
+MSTRA4-4
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+600 Industrial Drive
+New Bern, NC 28562
+AGND
+CT4
+2
+1
+3
+10K
+AGND
+C130
+22uF
+CR12
+3
+1
+2
+10K
+AGND
+V+
+VC120 33pF
+R159 10.0K
+U34
+4
+8
+1
+2
+3
+5532
+-2dBu
+C131 22uF
+-14dBu
+10.0K
+R68
+AGND
+GND
+U10
+9
+4
+6
+5
+3
+4053
+S
+INH
+X-Y
+Y
+X
+10.0K
+R61
+VCC
+10.0K
+R71
+GND
+100
+R60
+U10
+13
+12
+6
+14
+11
+4053
+S
+INH
+X-Y
+Y
+X
+AGND
+AGND
+1.00K
+R54
+C37
+330pF
+AGND
+C33 33pF
+40.2K
+R52
+1.00K
+R55
+AGND
+R46
+3.3
+3.3
+R53
+AGND
+V+
+VU3
+2
+1
+4
+5
+3
+LM675
+F1
+0.16A
+POLYSW
+C38
+0.22uF
+C31 1uF
+C32 1uF
+100uF C43
+AGND
+AGND
+V+
+V8
+4
+7
+6
+5
+U20
+5532
+1
+2
+3
+U20
+5532
+-2dBu
+-2dBu
+C84
+22uF
+C83
+22uF
+26.7K
+R92
+26.7K
+R91
+10pF
+C64
+C75 10pF
+R84 10.0K
+R83 10.0K
+LO
+HI
+AGND
+V+
+VU35
+3
+2
+1
+8
+4
+5532
+C124 33pF
+R162 4.99K
+R132
+4.99K
+C113
+33pF
+AGND
+R161 10.0K
+C122
+0.001uF
+AGND
+C123
+0.001uF
+AGND
+L6
+L5
+-2dBu
+U35
+5
+6
+7
+5532
+R131 10.0K
+C132
+22uF
+AGND
+C78 22uF
+-14dBu
+-2dBu
+R133 22.1K
+R163 88.7K
+C115 10pF
+C133
+100uF
+U10
+1
+2
+6
+15
+10
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+10.0K
+R70
+AGND
+C104
+68pF
+AGND
+C98
+68pF
+AGND
+AGND
+V+
+V8
+7
+6
+5
+4
+3
+2
+1
+U31
+SSM2142
+gnd
+LO
+HI
+10K
+CR5
+1
+2
+3
+AGND
+C112 10pF
+-2dBu
+U34
+7
+6
+5
+5532
+R130 4.99K
+R160
+4.99K
+12
+14
+13
+11
+U7
+6
+4053
+S
+INH
+X-Y
+Y
+X
+2
+15
+1
+10
+U7
+6
+4053
+S
+INH
+X-Y
+Y
+X
+U7
+3
+5
+6
+4
+9
+4053
+S
+INH
+X-Y
+Y
+X
+U6
+13
+12
+6
+14
+11
+4053
+S
+INH
+X-Y
+Y
+X
+U6
+6
+10
+1
+15
+2
+4053
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+R29 20.0K
+R31 20.0K
+20.0K
+R50
+20.0K
+R48
+10.0K
+R49
+5
+4
+6
+CT6
+10K
+1
+2
+3
+CT6
+10K
+AGND
+AGND
+-14dBu
+C160 22uF
+-14dBu
+C161 22uF
+AGND
+R199
+1.00K
+C150
+330pF
+AGND
+AGND
+R197
+3.3
+R196
+3.3
+AGND
+U46
+2
+1
+4
+5
+3
+LM675
+AGND
+R186
+1.00K
+C142
+330pF
+AGND
+AGND
+R184
+3.3
+R183
+3.3
+AGND
+V+
+VV+
+V2
+1
+4
+5
+3
+U51
+LM675
+AGND
+CT7
+1
+2
+3
+R
+T
+S
+F9
+0.16A
+POLYSW
+F8
+0.16A
+POLYSW
+C143
+0.22uF
+C151
+0.22uF
+C152 1uF
+C149 1uF
+C144 1uF
+C141 1uF
+C153 33pF
+C145 33pF
+R198 40.2K
+R185 40.2K
+R177 10.0K
+R175 10.0K
+GND
+AGND
+R178 20.0K
+R180
+20.0K
+VCC
+R181
+20.0K
+VCC
+U49
+13
+12
+6
+14
+11
+4053
+S
+INH
+X-Y
+Y
+X
+U49
+9
+4
+6
+5
+3
+4053
+S
+INH
+X-Y
+Y
+X
+U49
+10
+15
+6
+2
+1
+4053
+S
+INH
+X-Y
+Y
+X
+U48
+13
+12
+6
+14
+11
+4053
+S
+INH
+X-Y
+Y
+X
+U48
+9
+4
+6
+5
+3
+4053
+S
+INH
+X-Y
+Y
+X
+U48
+10
+15
+6
+2
+1
+4053
+S
+INH
+X-Y
+Y
+X
+J1
+R164
+4.99K
+AGND
+10.0K
+R179
+20.0K
+R174
+R176 10.0K
+CUEACN
+MIC2MON
+CUE_SPKR
+CUEOUT
+CUEMON
+EXTINLT
+EXTINRT
+EXTLTMON
+EXTRTMON
+CALLINHI
+CALLINLO
+CALLPSTMON
+CUEACN
+CALLOUTLO
+CALLOUTHI
+PGM1LT2PHN
+PGM1RT2PHN
+PGM2LT2PHN
+PGM2RT2PHN
+MIC1MON
+SRSLT
+SRSRT
+CUEMON
+SPLIT
+TO
+HDPN
+JACK
+HDPN
+HDPN
+OUT
+RT
+LT
++4dBu BAL
+HYBRID
+TO CUE
+SPKR
+CUE
+OUT OF PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+IN PHASE
++4dBu BAL
+CALLER
+CALLER
+
+page 4 - 14
+AIR 4 / June 2012
+MSTRA4-4
+WWP
+AC
+W# 700890
+22S0002-5
+11-14-11
+MSTRA2-4C PCB
+5 OF 5
+C
+WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+600 Industrial Drive
+New Bern, NC 28562
+2
+3
+1
+CT5
+10K
+5
+4
+6
+CT5
+10K
+AGND
+AGND
+1
+3 2
+CT8
+10K
+AGND
+AGND
+6 5
+4
+CT8
+10K
+GND
+AGND
+10.0K
+R134
+10.0K
+R135
+10.0K
+R136
+R116 10.0K
+R117 10.0K
+R118 10.0K
+4053
+13
+12
+6
+14
+11
+U36
+S
+INH
+X-Y
+Y
+X
+4053
+9
+4
+6
+5
+3
+U36
+S
+INH
+X-Y
+Y
+X
+4053
+10
+15
+6
+2
+1
+U36
+S
+INH
+X-Y
+Y
+X
+4053
+U29
+13
+12
+6
+14
+11 S
+INH
+X-Y
+Y
+X
+4053
+U29
+9
+4
+6
+5
+3
+S
+INH
+X-Y
+Y
+X
+4053
+U29
+10
+15
+6
+2
+1
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+10.0K
+R154
+10.0K
+R155
+10.0K
+R156
+R113 10.0K
+R114 10.0K
+4053
+11
+14
+6
+12
+13
+U41
+S
+INH
+X-Y
+Y
+X
+4053
+3
+5
+6
+4
+9
+U41
+S
+INH
+X-Y
+Y
+X
+4053
+1
+2
+6
+15
+10
+U41
+S
+INH
+X-Y
+Y
+X
+4053
+U28
+11
+14
+6
+12
+13
+S
+INH
+X-Y
+Y
+X
+4053
+U28
+3
+5
+6
+4
+9
+S
+INH
+X-Y
+Y
+X
+4053
+U28
+1
+2
+6
+15
+10 S
+INH
+X-Y
+Y
+X
+R115 10.0K
+AGND
+AGND
+-2dBu
+-2dBu
+10pF
+C110
+10pF
+C118
+10.0K
+R129
+R158 10.0K
+AGND
+AGND
+V+
+V-
+-2dBu
+-2dBu
+10pF
+C108
+10pF
+C116
+10.0K
+R128
+R157 10.0K
+5532
+7
+6
+5
+U32
+5532
+4
+8
+1
+2
+3
+U32
+100uF C128
+100uF C129
+100uF C126
+100uF C127
+-14dBu
+22uF
+C159
+-14dBu
+22uF
+C158
+-14dBu
+22uF
+C157
+-14dBu
+22uF
+C156
+SRSLT
+SRSRT
+10.0K
+R147
+10.0K
+R144
+10.0K
+R140
+10.0K
+R137
+AGND
+AGND
+V+
+VR78 16.5K
+R86 16.5K
+33pF
+C71
+33pF
+C60
+5532
+7
+6
+5
+U18
+5532
+4
+8
+1
+2
+3
+U18
+R77 10
+R87 10
+R76 47
+R79 47
+AGND
+AGND
+V+
+VR81 16.5K
+R89 16.5K
+33pF
+C73
+33pF
+C62
+R88 10
+R90 10
+R80 47
+R82 47
+5532
+5
+6
+7
+U19
+5532
+3
+2
+1
+8
+4
+U19
+AGND
+4053
+13
+12
+6
+14
+11
+U40
+S
+INH
+X-Y
+Y
+X
+4053
+9
+4
+6
+5
+3
+U40
+S
+INH
+X-Y
+Y
+X
+4053
+10
+15
+6
+2
+1
+U40
+S
+INH
+X-Y
+Y
+X
+4053
+13
+12
+6
+14
+11
+U39
+S
+INH
+X-Y
+Y
+X
+4053
+9
+4
+6
+5
+3
+U39
+S
+INH
+X-Y
+Y
+X
+4053
+10
+15
+6
+2
+1
+U39
+S
+INH
+X-Y
+Y
+X
+GND
+AGND
+4053
+13
+12
+6
+14
+11
+U38
+S
+INH
+X-Y
+Y
+X
+4053
+9
+4
+6
+5
+3
+U38
+S
+INH
+X-Y
+Y
+X
+4053
+10
+15
+6
+2
+1
+U38
+S
+INH
+X-Y
+Y
+X
+4053
+13
+12
+6
+14
+11
+U37
+S
+INH
+X-Y
+Y
+X
+4053
+9
+4
+6
+5
+3
+U37
+S
+INH
+X-Y
+Y
+X
+4053
+10
+15
+6
+2
+1
+U37
+S
+INH
+X-Y
+Y
+X
+40.2K
+R142
+40.2K
+R139
+100K
+R141
+100K
+R138
+20.0K
+R152
+20.0K
+R151
+3.32K
+R146
+3.32K
+R143
+3.32K
+R153
+3.32K
+R148
+3.32K
+R149
+AGND
+-2dBu
+-2dBu
+-2dBu
+-2dBu
+5532
+5
+6
+7
+4
+8
+U33
+V+
+V5532
+3
+2
+1
+U33
+R150 10.0K
+R145 10.0K
+EXTLTMON
+PGM1LTMON
+PGM2LTMON
+EXTRTMON
+PGM1RTMON
+PGM2RTMON
+EXTLTMON
+PGM1LTMON
+PGM2LTMON
+EXTRTMON
+PGM1RTMON
+PGM2RTMON
+CROUTLT
+CROUTRT
+STOUTLT
+STOUTRT
+ONAIR_TALLY
+CUEMON
+MIC1MON
+STUDIO
+CR
+IN PHASE
+NOTE: PHASE SYMBOLS DENOTE SIGNAL POLARITY
+OUT OF PHASE
+
+page 4 – 15
+MST-AIR4 Master Panel Load Sheet
+AIR 4 / June 2012
+Top
+Bottom
+
+New Bern, NC 28562
+600 Industrial Drive
+page 4 - 16
+AIR 4 / June 2012
+3-31-11
+B
+MTRA2-4B PCB
+22S0005-1
+MTRA4-4
+W# 700893
+1 OF 3
+WWP
+WWP
+WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+DS41
+DS40
+DS39
+DS27
+DS26
+DS25
+DS24
+DS23
+DS22
+DS42
+DS33
+DS32
+DS31
+DS30
+DS29
+DS28
+DS38
+DS37
+DS36
+DS35
+DS34
+DS89
+DS88
+DS87
+DS75
+DS74
+DS73
+DS72
+DS71
+DS70
+DS90
+DS81
+DS80
+DS79
+DS78
+DS77
+DS76
+DS86
+DS85
+DS84
+DS83
+DS82
+DS20
+DS19
+DS18
+DS6
+DS5
+DS4
+DS3
+DS2
+DS1
+DS21
+DS12
+DS11
+DS10
+DS9
+DS8
+DS7
+DS17
+DS16
+DS15
+DS14
+DS13
+DS68
+DS67
+DS66
+DS54
+DS53
+DS52
+DS51
+DS50
+DS49
+DS69
+DS60
+DS59
+DS58
+DS57
+DS56
+DS55
+DS65
+DS64
+DS63
+DS62
+DS61
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+CT2
+AGND
+GND
+GND
+AGND
+3
+2
+1
+CT1
+C18
+100uF
+VV+
+AGND
+C19
+100uF
+R82 150
+R81 150
+R80 150
+R78 150
+DS44
+DS45
+DS46
+DS47
+GND
+AGND
+R83 150
+R79 150
+DS43
+DS48
+VCC
+VCC
+VCC
+VCC
+PGM1RTVU
+PGM1LTVU
+SWTRTVU
+SWTLTVU
+VCC
+VCC
+V+
+VCUE_SPKR
+TALLY_LED
+CUE_SPKR
+TALLY_LED
+-21dB
+-18dB
+-15dB
+-12dB
+-6dB
+-9dB
+-3dB
+0dB
+3dB
+6dB
+VU
+CLIP
+CLIP
+LT
+VU
+RT
+LT
+RT
+V U      L E V E L
+6dB
+3dB
+0dB
+-3dB
+-9dB
+-6dB
+-12dB
+-15dB
+-18dB
+-21dB
+
+New Bern, NC 28562
+600 Industrial Drive
+page 4 - 17
+AIR 4 / June 2012
+B
+MTRA2-4B PCB
+W# 700893
+MTRA4-4
+22S0005-2
+2 OF 3
+3-31-11
+WWP
+WWP
+WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+AGND
+100K
+R136
+AGND
+4148 D26
+4148
+D27
+4148
+D25
+4148 D23
+4148 D24
+AGND
+AGND
+V+
+VTL072
+U10
+3
+2
+1
+8
+4
+TL072
+U10
+5
+6
+7
+20.0K
+R162
+C23
+1uF
+1.00K
+R137
+3.32K
+R91
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+1K
+1
+2
+3
+CR4
+GND
+LM3915
+U8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+1.69K
+R90
+562
+R88
+562
+R89
+C22
+1500uF
+GND
+VCC
+AGND
+R34
+100K
+AGND
+4148 D10
+4148
+D11
+4148
+D9
+4148 D7
+4148 D8
+AGND
+AGND
+V+
+VTL072
+4
+8
+1
+2
+3
+U2
+TL072
+7
+6
+5
+U2
+R59 20.0K
+C5
+1uF
+R35 1.00K
+3.32K
+R87
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+3
+2 1
+1K
+CR3
+GND
+1.69K
+R86
+562
+R84
+562
+R85
+R31 10.0K
+R58 10.0K
+10.0K
+R3
+10.0K
+R133
+10.0K
+R161
+10.0K
+R105
+20.0K
+R106
+20.0K
+R4
+C15
+4.7uF
+C17
+4.7uF
+LM3915
+U7
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+332
+R148
+332
+R149
+332
+R150
+332
+R151
+332
+R152
+332
+R153
+619
+R141
+619
+R142
+619
+R143
+619
+R139
+619
+R138
+619
+R144
+619
+R146
+619
+R145
+R46 332
+R47 332
+R48 332
+R49 332
+R50 332
+R38 619
+R39 619
+R40 619
+R37 619
+R36 619
+R41 619
+R43 619
+R42 619
+221K
+R99
+R66
+221K
+40.2K
+R98
+R65
+40.2K
+AGND
+221K
+R100
+AGND
+GND
+3.32K
+R135
+10.0K
+R140
+GND
+150
+R134
+R69
+221K
+R67
+221K
+R68
+40.2K
+AGND
+221K
+R102
+AGND
+C20
+0.01uF
+AGND
+C14
+0.01uF
+AGND
+40.2K
+R101
+4148
+D28
+4148
+D15
+MMBTA05
+Q4
+4148
+D16
+4148
+D14
+V+
+VV+
+V+
+TL072
+U6
+3
+2
+1
+8
+4
+GND
+R33
+3.32K
+R60
+10.0K
+GND
+R32
+150
+MMBTA05
+Q2
+C26 0.22uF
+C13 0.22uF
+TL072
+U6
+7
+6
+5
+R51 332
+R52 332
+R53 332
+R54 332
+R55 332
+R44 332
+R45 332
+332
+R154
+332
+R155
+332
+R156
+332
+R157
+332
+R158
+332
+R147
+VV+
+AGND
+0.1uF
+C2
+C25
+0.1uF
+C10
+0.1uF
+C31
+0.1uF
+C12
+0.1uF
+C27
+0.1uF
+PGM1LTVU
+PGM1RTVU
+PGM1RTVU
+PGM1LTVU
+OdBu
+SET
+TRIM
+NOT
+INSTALLED
+OdBu
+SET
+TRIM
+NOT
+INSTALLED
+LEFT
+RIGHT
++6dB
++3dB
+0dB
+-3dB
+-6dB
+-9dB
+-12dB
+-15dB
+-18dB
+-21dB
+-21dB
+-18dB
+-15dB
+-12dB
+-9dB
+-6dB
+-3dB
+0dB
++3dB
++6dB
+
+New Bern, NC 28562
+600 Industrial Drive
+page 4 - 18
+AIR 4 / June 2012
+3-31-11
+3 OF 3
+22S0005-3
+MTRA4-4
+W# 700893
+MTRA2-4B PCB
+B
+WWP
+WWP
+WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+AGND
+R29
+100K
+AGND
+4148 D5
+4148
+D6
+4148
+D4
+4148 D2
+4148 D3
+AGND
+AGND
+V+
+VTL072
+4
+8
+1
+2
+3
+U1
+TL072
+7
+6
+5
+U1
+R57 20.0K
+C4
+1uF
+R30 1.00K
+R77
+3.32K
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+3
+2 1
+1K
+CR2
+GND
+LM3915
+U5
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+R76 1.69K
+R74 562
+R75 562
+C16
+1500uF
+GND
+VCC
+AGND
+100K
+R132
+AGND
+4148 D21
+4148
+D22
+4148
+D20
+4148 D18
+4148 D19
+AGND
+AGND
+V+
+VTL072
+U9
+3
+2
+1
+8
+4
+TL072
+U9
+5
+6
+7
+20.0K
+R160
+C3
+1uF
+1.00K
+R131
+R73
+3.32K
+VCC
+GND
+VCC
+AGND
+AGND
+AGND
+1K
+1
+2
+3
+CR1
+GND
+R72 1.69K
+R70 562
+R71 562
+10.0K
+R130
+10.0K
+R159
+10.0K
+R103
+R28 10.0K
+R56 10.0K
+10.0K
+R1
+20.0K
+R2
+20.0K
+R104
+C24
+4.7uF
+C21
+4.7uF
+LM3915
+U4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+LED8
+LED9
+LED10
+REFOUT
+REFADJ
+MODE
+RHI
+SIG
+RLO
+V+
+VLED1
+LED7
+LED6
+LED5
+LED4
+LED3
+LED2
+332
+R119
+332
+R120
+332
+R121
+332
+R122
+332
+R123
+332
+R124
+619
+R112
+619
+R113
+619
+R114
+619
+R111
+619
+R110
+619
+R115
+619
+R117
+619
+R116
+R17 332
+R18 332
+R19 332
+R20 332
+R21 332
+R22 332
+R10 619
+R11 619
+R12 619
+R9 619
+R8 619
+R13 619
+R15 619
+R14 619
+221K
+R94
+R61
+221K
+40.2K
+R93
+40.2K
+R92
+AGND
+221K
+R95
+AGND
+GND
+3.32K
+R108
+10.0K
+R109
+GND
+150
+R107
+R64
+221K
+R62
+221K
+R63
+40.2K
+AGND
+221K
+R97
+AGND
+C30
+0.01uF
+AGND
+C8
+0.01uF
+AGND
+40.2K
+R96
+4148
+D17
+4148
+D1
+MMBTA05
+Q3
+4148
+D13
+4148
+D12
+V+
+VV+
+V+
+TL072
+U3
+4
+8
+1
+2
+3
+GND
+3.32K
+R6
+R7
+10.0K
+GND
+150
+R5
+MMBTA05
+Q1
+C9 0.22uF
+C11 0.22uF
+TL072
+U3
+5
+6
+7
+332
+R125
+332
+R126
+332
+R127
+332
+R128
+332
+R129
+332
+R118
+R23 332
+R24 332
+R25 332
+R26 332
+R27 332
+R16 332
+VV+
+AGND
+C28
+0.1uF
+C7
+0.1uF
+0.1uF
+C1
+C6
+0.1uF
+C29
+0.1uF
+C32
+0.1uF
+SWTLTVU
+SWTRTVU
+SWTLTVU
+SWTRTVU
+OdBu
+SET
+TRIM
+NOT
+INSTALLED
+OdBu
+SET
+TRIM
+NOT
+INSTALLED
++6dB
++3dB
+0dB
+-3dB
+-6dB
+-9dB
+-12dB
+-15dB
+-18dB
+-21dB
+-21dB
+-18dB
+-15dB
+-12dB
+-9dB
+-6dB
+-3dB
+0dB
++3dB
++6dB
+LEFT
+RIGHT
+
+page  4 – 19
+MTR-AIR4 Meters Card Load Sheet
+AIR 4 / June 2012
+Top
+Bottom
+
+600 Industrial Drive
+New Bern, NC 28562
+CT6
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+CT4
+1
+10
+11
+12
+13
+14
+2
+3
+4
+5
+6
+7
+8
+9
+CT7
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+CT5
+1
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+2
+20
+21
+22
+23
+24
+25
+26
+3
+4
+5
+6
+7
+8
+9
+SW1
+7
+6
+5
+4
+3
+2
+1
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+GND
+GND
+AGND
+page 4 - 20
+AIR 4 / June 2012
+WWP
+AC
+1 OF 2
+W# 700948
+CONA3-3
+22S0006
+CONA3-3A PCB
+A
+7-20-10
+AC/WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+GND
+GND
+GND
+GND
+AGND
+GND
+GND
+12
+11
+10
+13
+1
+15
+16
+17
+18
+14
+19
+24
+3
+23
+4
+22
+9
+5
+21
+8
+6
+25
+20
+2
+7
+12
+11
+13
+10
+14
+15
+9
+4
+5
+3
+6
+2
+7
+1
+8
+U1
+TL072
+7
+6
+5
+C14 33pF
+R13 4.99K
+R15
+4.99K
+33pF
+C1
+AGND
+R1 10.0K
+R14 10.0K
+C50 33pF
+R86 4.99K
+R62
+4.99K
+C51
+33pF
+R87 10.0K
+R49 10.0K
+U1
+3
+2
+1
+8
+4
+TL072
+U2
+5
+6
+7
+TL072
+C16 33pF
+R16 4.99K
+R18
+4.99K
+33pF
+C2
+R2 10.0K
+R17 10.0K
+C52 33pF
+R89 4.99K
+R64
+4.99K
+C53
+33pF
+R90 10.0K
+R50 10.0K
+U2
+TL072
+4
+8
+1
+2
+3
+U3
+5
+6
+7
+TL072
+C18 33pF
+R19 4.99K
+R21
+4.99K
+33pF
+C3
+R3 10.0K
+R20 10.0K
+C54 33pF
+R92 4.99K
+R66
+4.99K
+C55
+33pF
+R93 10.0K
+R51 10.0K
+U3
+TL072
+4
+8
+1
+2
+3
+U4
+TL072
+7
+6
+5
+C20 33pF
+R22 4.99K
+R24
+4.99K
+33pF
+C4
+R4 10.0K
+R23 10.0K
+C56 33pF
+R95 4.99K
+R68
+4.99K
+C57
+33pF
+R96 10.0K
+R52 10.0K
+U4
+3
+2
+1
+8
+4
+TL072
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+C135
+22uF
+C123
+22uF
+C136
+22uF
+C124
+22uF
+C125
+22uF
+C138
+22uF
+C126
+22uF
+R61 10.0K
+R85 10.0K
+R122 10.0K
+R121 10.0K
+C74 33pF
+C122 33pF
+R63 10.0K
+R88 10.0K
+R123 10.0K
+R124 10.0K
+C76 33pF
+C101 33pF
+R65 10.0K
+R91 10.0K
+R125 10.0K
+R126 10.0K
+C78 33pF
+C103 33pF
+R67 10.0K
+R94 10.0K
+R127 10.0K
+R128 10.0K
+C80 33pF
+C105 33pF
+C137
+22uF
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+U14
+3
+2
+1
+8
+4
+TL072
+V+in
+V-in
+U15
+3
+2
+1
+8
+4
+TL072
+V+in
+V-in
+U16
+3
+2
+1
+8
+4
+TL072
+V+in
+V-in
+U16
+5
+6
+7
+TL072
+U15
+5
+6
+7
+TL072
+U14
+5
+6
+7
+TL072
+AGND
+AGND
+TL072
+4
+8
+1
+2
+3
+U13
+V+in
+V-in
+TL072
+7
+6
+5
+U13
+CT1
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+CT1
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT1
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+A8
+A7
+A6
+A5
+A4
+A3
+A2
+A1
+CT1
+J2
+3.83K
+R146
+J13
+3.83K
+R157
+J1
+3.83K
+R145
+J14
+3.83K
+R158
+J3
+3.83K
+R147
+J15
+3.83K
+R159
+J4
+3.83K
+R148
+J16
+3.83K
+R160
+LINEAINLT_1
+LINEAINRT_1
+LINEBINLT_1
+LINEBINRT_1
+LINEAINLT_2
+LINEAINRT_2
+LINEBINLT_2
+LINEBINRT_2
+LINEAINLT_4
+LINEAINRT_4
+LINEBINLT_4
+LINEBINRT_4
+LINEBINLT_3
+LINEBINRT_3
+LINEAINLT_3
+LINEAINRT_3
+LINEAINLT_5
+LINEAINRT_5
+LINEBINLT_5
+LINEBINRT_5
+LINEAINLT_6
+LINEAINRT_6
+LINEBINLT_6
+LINEBINRT_6
+V-in
+V-in
+V+in
+V+in
+D+in
+D+in
+CUEACN
+PGM2RTACN
+PGM1RTACN
+PGM2LTACN
+PGM1LTACN
+CUEACN
+PGM2RTACN
+PGM2LTACN
+PGM1RTACN
+PGM1LTACN
+D+in
+D+in
+D+in
+V-in
+V+in
+D+in
+LINEAINLT_1
+LINEAINRT_1
+LINEBINLT_1
+LINEBINRT_1
+LINEAINLT_2
+LINEAINRT_2
+LINEBINLT_2
+LINEBINRT_2
+BTM
+TOP
+TOP
+BTM
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+Small Size Console
+DB-25 Connector Pinouts
+Full Size Console
+DB-15 Connector Pinouts
+START CH 7
+START COMMON
+START COMMON
+ONAIR TALLY C
+MIC2 TO CUE
+MIC2 TO CUE COMMON
+CUE OUT
+CUE OUT COMMON
+ONAIR TALLY NO
+START CH 6
+START CH 5
+START CH 3
+START CH 2
+START CH 1
+START CH 4
+START COMMON
+START COMMON
+START COMMON
+START COMMON
+START CH 9
+START CH 8
+START CH 7
+START CH 12
+START CH 11
+START CH 10
+START CH 13
+START COMMON
+START COMMON
+ONAIR TALLY C
+MIC2 TO CUE
+MIC2 TO CUE COMMON
+START CH 6
+START CH 5
+START CH 4
+CUE OUT
+CUE OUT COMMON
+ONAIR TALLY NO
+START CH 1
+START CH 2
+START CH 3
+IN 1
+RT
+LT
+LT
+RT
+A
+B
+IN 2
+B
+A
+RT
+LT
+LT
+RT
+
+600 Industrial Drive
+New Bern, NC 28562
+page 4 - 21
+AIR 4 / June 2012
+wwp
+AC
+2 OF 2
+W# 700948
+CONA3-3
+22S0006
+CONA3-3A PCB
+A
+7-20-10
+AC/WWP
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+5
+6
+7
+TL072
+U5
+C22 33pF
+R25 4.99K
+R27
+4.99K
+33pF
+C5
+R5 10.0K
+R26 10.0K
+33pF
+C58
+R98 4.99K
+R70
+4.99K
+33pF
+C59
+R99 10.0K
+R53 10.0K
+TL072
+7
+6
+5
+U6
+C24 33pF
+R28 4.99K
+R30
+4.99K
+33pF
+C6
+R6 10.0K
+R29 10.0K
+33pF
+C60
+R101 4.99K
+R72
+4.99K
+33pF
+C61
+R102 10.0K
+R54 10.0K
+3
+2
+1
+8
+4
+TL072
+U6
+5
+6
+7
+TL072
+U7
+C26 33pF
+R31 4.99K
+R33
+4.99K
+33pF
+C7
+R7 10.0K
+R32 10.0K
+33pF
+C62
+R104 4.99K
+R74
+4.99K
+33pF
+C63
+R105 10.0K
+R55 10.0K
+TL072
+4
+8
+1
+2
+3
+U7
+TL072
+7
+6
+5
+U8
+C28 33pF
+R34 4.99K
+R36
+4.99K
+33pF
+C8
+R8 10.0K
+R35 10.0K
+33pF
+C64
+R107 4.99K
+R76
+4.99K
+33pF
+C65
+R108 10.0K
+R56 10.0K
+3
+2
+1
+8
+4
+TL072
+U8
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+R69 10.0K
+R97 10.0K
+R129 10.0K
+R130 10.0K
+33pF
+C82
+33pF
+C107
+R71 10.0K
+R100 10.0K
+R131 10.0K
+R132 10.0K
+33pF
+C84
+33pF
+C109
+R73 10.0K
+R103 10.0K
+R133 10.0K
+R134 10.0K
+33pF
+C86
+33pF
+C111
+R75 10.0K
+R106 10.0K
+R135 10.0K
+R136 10.0K
+33pF
+C88
+33pF
+C113
+22uF C139
+22uF C127
+22uF C140
+22uF C128
+22uF C141
+22uF C129
+22uF C142
+22uF C130
+U9
+5
+6
+7
+TL072
+C30 33pF
+R37 4.99K
+R39
+4.99K
+33pF
+C9
+R9 10.0K
+R38 10.0K
+33pF
+C66
+R110 4.99K
+R78
+4.99K
+33pF
+C67
+R111 10.0K
+R57 10.0K
+U9
+TL072
+4
+8
+1
+2
+3
+U10
+TL072
+7
+6
+5
+C32 33pF
+R40 4.99K
+R42
+4.99K
+33pF
+C10
+R10 10.0K
+R41 10.0K
+33pF
+C68
+R113 4.99K
+R80
+4.99K
+33pF
+C69
+R114 10.0K
+R58 10.0K
+U10
+3
+2
+1
+8
+4
+TL072
+U11
+TL072
+7
+6
+5
+C34 33pF
+R43 4.99K
+R45
+4.99K
+33pF
+C11
+R11 10.0K
+R44 10.0K
+33pF
+C70
+R116 4.99K
+R82
+4.99K
+33pF
+C71
+R117 10.0K
+R59 10.0K
+U11
+3
+2
+1
+8
+4
+TL072
+U12
+5
+6
+7
+TL072
+C13 33pF
+R48 4.99K
+R47
+4.99K
+33pF
+C12
+R12 10.0K
+R46 10.0K
+33pF
+C72
+R119 4.99K
+R84
+4.99K
+33pF
+C73
+R120 10.0K
+R60 10.0K
+U12
+TL072
+4
+8
+1
+2
+3
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+22uF C143
+22uF C131
+22uF C144
+22uF C132
+22uF C145
+22uF C133
+22uF C146
+22uF C134
+R77 10.0K
+R109 10.0K
+R137 10.0K
+R138 10.0K
+33pF
+C90
+33pF
+C115
+R79 10.0K
+R112 10.0K
+R139 10.0K
+R140 10.0K
+33pF
+C92
+33pF
+C117
+R81 10.0K
+R115 10.0K
+R141 10.0K
+R142 10.0K
+33pF
+C94
+33pF
+C119
+R83 10.0K
+R118 10.0K
+R143 10.0K
+R144 10.0K
+33pF
+C96
+33pF
+C121
+AGND
+0.1uF
+C47
+0.1uF
+C43
+0.1uF
+C48
+0.1uF
+C41
+C21
+0.1uF
+C17
+0.1uF
+C31
+0.1uF
+C15
+0.1uF
+C29
+0.1uF
+AGND
+0.1uF
+C45
+0.1uF
+C46
+0.1uF
+C44
+C19
+0.1uF
+C23
+0.1uF
+C33
+0.1uF
+C35
+0.1uF
+0.1uF
+C49
+C25
+0.1uF
+C27
+0.1uF
+0.1uF
+C42
+0.1uF
+C40
+AGND
+0.1uF
+C120
+0.1uF
+C102
+0.1uF
+C99
+0.1uF
+C114
+0.1uF
+C112
+0.1uF
+C75
+0.1uF
+C97
+0.1uF
+C91
+0.1uF
+C79
+0.1uF
+C77
+0.1uF
+C118
+0.1uF
+C87
+AGND
+0.1uF
+C100
+0.1uF
+C116
+0.1uF
+C110
+0.1uF
+C106
+0.1uF
+C104
+0.1uF
+C95
+0.1uF
+C83
+0.1uF
+C81
+0.1uF
+C93
+0.1uF
+C85
+0.1uF
+C108
+0.1uF
+C89
+0.1uF
+C38
+C36
+0.1uF
+0.1uF
+C39
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+TL072
+4
+8
+1
+2
+3
+U18
+V+in
+V-in
+TL072
+4
+8
+1
+2
+3
+U19
+V+in
+V-in
+TL072
+4
+8
+1
+2
+3
+U20
+V+in
+V-in
+TL072
+7
+6
+5
+U20
+TL072
+7
+6
+5
+U19
+TL072
+7
+6
+5
+U18
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+U21
+TL072
+4
+8
+1
+2
+3
+V+in
+V-in
+U21
+5
+6
+7
+TL072
+TL072
+7
+6
+5
+U22
+TL072
+7
+6
+5
+U23
+TL072
+7
+6
+5
+U24
+3
+2
+1
+8
+4
+TL072
+U22
+V+in
+V-in
+3
+2
+1
+8
+4
+TL072
+U23
+V+in
+V-in
+3
+2
+1
+8
+4
+TL072
+U24
+V+in
+V-in
+AGND
+AGND
+U17
+3
+2
+1
+8
+4
+TL072
+V+in
+V-in
+U17
+5
+6
+7
+TL072
+AGND
+TL072
+4
+8
+1
+2
+3
+U5
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+AGND
+V-in
+AGND
+V+in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+330uF
+C37
+C98
+330uF
+CT2
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+CT2
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT2
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+A8
+A7
+A6
+A5
+A4
+A3
+A2
+A1
+CT2
+CT3
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+CT3
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT3
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+A8
+A7
+A6
+A5
+A4
+A3
+A2
+A1
+CT3
+J5
+3.83K
+R149
+J17
+3.83K
+R161
+J6
+3.83K
+R150
+J18
+3.83K
+R162
+J7
+3.83K
+R151
+J19
+3.83K
+R163
+J8
+3.83K
+R152
+J20
+3.83K
+R164
+J24
+3.83K
+R168
+J12
+3.83K
+R156
+J23
+3.83K
+R167
+J11
+3.83K
+R155
+J22
+3.83K
+R166
+J10
+3.83K
+R154
+J21
+3.83K
+R165
+J9
+3.83K
+R153
+LINEAINLT_3
+LINEAINRT_3
+LINEBINLT_3
+LINEBINRT_3
+LINEAINLT_4
+LINEAINRT_4
+LINEBINLT_4
+LINEBINRT_4
+LINEAINLT_5
+LINEAINRT_5
+LINEBINLT_5
+LINEBINRT_5
+LINEAINLT_6
+LINEAINRT_6
+LINEBINLT_6
+LINEBINRT_6
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RT
+LT
+LT
+RT
+A
+B
+B
+A
+RT
+LT
+LT
+RT
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+IN 3
+IN 4
+RT
+LT
+LT
+RT
+A
+B
+B
+A
+RT
+LT
+LT
+RT
+BTM
+TOP
+TOP
+BTM
+IN 5
+IN 6
+
+page  4 – 22
+CONA3-3 Three Connector Blocks Card Load Sheet
+AIR 4 / June 2012
+
+600 Industrial Drive
+New Bern, NC 28562
+CT13
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+CT11
+1
+10
+11
+12
+13
+14
+2
+3
+4
+5
+6
+7
+8
+9
+CT14
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+CT12
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+SW1
+7
+6
+5
+4
+3
+2
+1
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+GND
+GND
+AGND
+1 OF 5
+WWP
+AC
+W#700981
+CONA4-4
+22S0010
+CONA4-4A PCB
+11-8-12
+AC/WWP
+A
+AIR-4 / Oct 2012
+page 4 - 23
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+GND
+GND
+GND
+AGND
+GND
+GND
+CT15
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+CT16
+9
+8
+7
+6
+5
+4
+3
+26
+25
+24
+23
+22
+21
+20
+2
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1
+AGND
+AGND
+CT9
+5
+4
+3
+2
+1
+TP6
+TP7
+TP10
+TP8
+TP9
+JP2
+JP1
+GND
+V-in
+AGND
+V-in
+AGND
+V+in
+AGND
+V+in
+AGND
+D+in
+D+in
+GND
+K1
+8
+1
+5
+6
+7
+4
+3
+2
+AGND
+AGND
+GND
+GND
+AGND
+GND
+AGND
+GND
+GND
+AGND
+AGND
+AGND
+GND
+U2
+5
+6
+7
+TL072
+C28 33pF
+R26 4.99K
+R28
+4.99K
+C12
+33pF
+AGND
+R10 10.0K
+R27 10.0K
+C84 33pF
+R143 4.99K
+R103
+4.99K
+C85
+33pF
+R144 10.0K
+R86 10.0K
+U3
+TL072
+7
+6
+5
+C30 33pF
+R29 4.99K
+R31
+4.99K
+C13
+33pF
+R11 10.0K
+R30 10.0K
+C86 33pF
+R146 4.99K
+R106
+4.99K
+C87
+33pF
+R147 10.0K
+R87 10.0K
+U3
+3
+2
+1
+8
+4
+TL072
+U4
+TL072
+7
+6
+5
+C32 33pF
+R32 4.99K
+R34
+4.99K
+C14
+33pF
+R12 10.0K
+R33 10.0K
+C88 33pF
+R149 4.99K
+R109
+4.99K
+C89
+33pF
+R150 10.0K
+R88 10.0K
+U4
+3
+2
+1
+8
+4
+TL072
+U5
+5
+6
+7
+TL072
+C34 33pF
+R35 4.99K
+R37
+4.99K
+C15
+33pF
+R13 10.0K
+R36 10.0K
+C90 33pF
+R152 4.99K
+R112
+4.99K
+C91
+33pF
+R153 10.0K
+R89 10.0K
+U5
+TL072
+4
+8
+1
+2
+3
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+C211
+22uF
+C186
+22uF
+C212
+22uF
+C187
+22uF
+C188
+22uF
+C214
+22uF
+C189
+22uF
+AGND
+R101 10.0K
+R142 10.0K
+R203 10.0K
+R186 10.0K
+C115 33pF
+C183 33pF
+AGND
+AGND
+R104 10.0K
+R145 10.0K
+R204 10.0K
+R205 10.0K
+C117 33pF
+C157 33pF
+AGND
+AGND
+R107 10.0K
+R148 10.0K
+R206 10.0K
+R207 10.0K
+C119 33pF
+C159 33pF
+AGND
+AGND
+R110 10.0K
+R151 10.0K
+R208 10.0K
+R209 10.0K
+C121 33pF
+C161 33pF
+AGND
+C213
+22uF
+U21
+3
+2
+1
+8
+4
+TL072
+U21
+TL072
+7
+6
+5
+U22
+TL072
+4
+8
+1
+2
+3
+U22
+5
+6
+7
+TL072
+U23
+TL072
+4
+8
+1
+2
+3
+U23
+5
+6
+7
+TL072
+U24
+TL072
+4
+8
+1
+2
+3
+U24
+5
+6
+7
+TL072
+AGND
+V-in
+AGND
+V+in
+U2
+TL072
+4
+8
+1
+2
+3
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+CT1
+A8
+A7
+A6
+A5
+A4
+A3
+A2
+A1
+CT1
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+CT1
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+CT1
+D8
+D7
+D6
+D5
+D4
+D3
+D2
+D1
+J5
+R102 3.83K
+J23 R187 3.83K
+J6
+R105 3.83K
+J24 R188 3.83K
+J7
+R108 3.83K
+J25 R189 3.83K
+J8
+R111 3.83K
+J26 R190 3.83K
+330uF
+C229
+330uF
+C233
+330uF
+C232
+C61
+330uF
+C153
+330uF
+D2
+1N4002
+C210
+0.1uF
+0.1uF
+C230
+C231
+0.1uF
+LINEAINLT_7
+LINEAINRT_7
+LINEBINLT_7
+LINEBINRT_7
+LINEAINLT_8
+LINEAINRT_8
+LINEBINLT_8
+LINEBINRT_8
+LINEAINLT_10
+LINEAINRT_10
+LINEBINLT_10
+LINEBINRT_10
+LINEBINLT_9
+LINEBINRT_9
+LINEAINLT_9
+LINEAINRT_9
+LINEAINLT_11
+LINEAINRT_11
+LINEBINLT_11
+LINEBINRT_11
+LINEAINLT_12
+LINEAINRT_12
+LINEBINLT_12
+LINEBINRT_12
+V-in
+V-in
+V+in
+V+in
+D+in
+D+in
+CUEACN
+PGM2RTACN
+PGM1RTACN
+PGM2LTACN
+PGM1LTACN
+CUEACN
+PGM2RTACN
+PGM2LTACN
+PGM1RTACN
+PGM1LTACN
+D+in
+D+in
+D+in
+V-in
+V+in
+D+in
+GND
+AGND
+D+in
+V-in_S
+V+in
+GND
+D+in
+AGND
+V+in
+V-in
+GND
+AGND
+ONAIR_TALLY_NO
+ONAIR_TALLY_C
+ONAIR_TALLY
+CUEACN
+PGM2RTACN
+PGM1RTACN
+PGM2LTACN
+PGM1LTACN
+D+in
+V-in
+V+in
+D+in
+PGM2OUTRTLO
+PGM2OUTRTHI
+PGM2OUTLTLO
+PGM2OUTLTHI
+CALLINLO
+CALLINHI
+CALLOUTLO
+CALLOUTHI
+PGM1OUTRTLO
+PGM1OUTRTHI
+PGM1OUTLTLO
+PGM1OUTLTHI
+CUEOUT
+ONAIR_TALLY_NO
+ONAIR_TALLY_C
+CUEOUT
+ONAIR_TALLY
+MIC1OUT
+MIC2OUT
+CROUTLT
+CROUTRT
+STOUTLT
+STOUTRT
+MIC1INLO
+MIC1INHI
+MIC2INLO
+MIC2INHI
+EXTINLT
+EXTINRT
+LINEAINLT_7
+LINEAINRT_7
+LINEBINLT_7
+LINEBINRT_7
+LINEAINLT_8
+LINEAINRT_8
+LINEBINLT_8
+LINEBINRT_8
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RT
+LT
+LT
+RT
+A
+B
+B
+A
+RT
+LT
+LT
+RT
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+IN 7
+IN 8
+ON AIR
+TALLY
+RELAY
+
+New Bern, NC 28562
+600 Industrial Drive
+- SA UR US - Sergey Averin -
+A
+2 OF 5
+WWP
+AC
+W#700981
+CONA4-4
+22S0010
+CONA4-4A PCB
+11-8-12
+AC/WWP
+AIR-4 / Oct 2012
+page 4 - 24
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+AGND
+C75
+0.1uF
+C71
+0.1uF
+C78
+0.1uF
+C76
+0.1uF
+C69
+0.1uF
+C35
+0.1uF
+C31
+0.1uF
+C45
+0.1uF
+C29
+0.1uF
+C43
+0.1uF
+AGND
+C73
+0.1uF
+C74
+0.1uF
+C72
+0.1uF
+C67
+0.1uF
+C33
+0.1uF
+C37
+0.1uF
+C47
+0.1uF
+C53
+0.1uF
+C66
+0.1uF
+C49
+0.1uF
+C77
+0.1uF
+C39
+0.1uF
+U6
+TL072
+7
+6
+5
+C36 33pF
+R38 4.99K
+R40
+4.99K
+C16
+33pF
+R14 10.0K
+R39 10.0K
+C92 33pF
+R155 4.99K
+R115
+4.99K
+C93
+33pF
+R156 10.0K
+R90 10.0K
+U6
+3
+2
+1
+8
+4
+TL072
+U7
+5
+6
+7
+TL072
+C38 33pF
+R41 4.99K
+R43
+4.99K
+C17
+33pF
+R15 10.0K
+R42 10.0K
+C94 33pF
+R158 4.99K
+R118
+4.99K
+C95
+33pF
+R159 10.0K
+R91 10.0K
+U7
+TL072
+4
+8
+1
+2
+3
+U8
+TL072
+7
+6
+5
+C40 33pF
+R44 4.99K
+R46
+4.99K
+C18
+33pF
+R16 10.0K
+R45 10.0K
+C96 33pF
+R161 4.99K
+R121
+4.99K
+C97
+33pF
+R162 10.0K
+R92 10.0K
+U8
+3
+2
+1
+8
+4
+TL072
+U9
+5
+6
+7
+TL072
+C42 33pF
+R47 4.99K
+R49
+4.99K
+C19
+33pF
+R17 10.0K
+R48 10.0K
+C98 33pF
+R164 4.99K
+R124
+4.99K
+C99
+33pF
+R165 10.0K
+R93 10.0K
+U9
+TL072
+4
+8
+1
+2
+3
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+C41
+0.1uF
+C70
+0.1uF
+C68
+0.1uF
+C51
+0.1uF
+AGND
+R113 10.0K
+R154 10.0K
+R210 10.0K
+R211 10.0K
+C123 33pF
+C163 33pF
+AGND
+AGND
+R116 10.0K
+R157 10.0K
+R212 10.0K
+R213 10.0K
+C125 33pF
+C165 33pF
+AGND
+AGND
+R119 10.0K
+R160 10.0K
+R214 10.0K
+R215 10.0K
+C127 33pF
+C167 33pF
+AGND
+AGND
+R122 10.0K
+R163 10.0K
+R216 10.0K
+R217 10.0K
+C129 33pF
+C169 33pF
+AGND
+C215
+22uF
+C190
+22uF
+C216
+22uF
+C191
+22uF
+C217
+22uF
+C192
+22uF
+C218
+22uF
+C193
+22uF
+U10
+TL072
+7
+6
+5
+C44 33pF
+R50 4.99K
+R52
+4.99K
+C20
+33pF
+R18 10.0K
+R51 10.0K
+C100 33pF
+R167 4.99K
+R127
+4.99K
+C101
+33pF
+R168 10.0K
+R94 10.0K
+U10
+3
+2
+1
+8
+4
+TL072
+U11
+5
+6
+7
+TL072
+C46 33pF
+R53 4.99K
+R55
+4.99K
+C21
+33pF
+R19 10.0K
+R54 10.0K
+C102 33pF
+R170 4.99K
+R130
+4.99K
+C103
+33pF
+R171 10.0K
+R95 10.0K
+U11
+TL072
+4
+8
+1
+2
+3
+U12
+5
+6
+7
+TL072
+C48 33pF
+R56 4.99K
+R58
+4.99K
+C22
+33pF
+R20 10.0K
+R57 10.0K
+C104 33pF
+R173 4.99K
+R133
+4.99K
+C105
+33pF
+R174 10.0K
+R96 10.0K
+U12
+TL072
+4
+8
+1
+2
+3
+U13
+TL072
+7
+6
+5
+C50 33pF
+R59 4.99K
+R61
+4.99K
+C23
+33pF
+R21 10.0K
+R60 10.0K
+C106 33pF
+R176 4.99K
+R136
+4.99K
+C107
+33pF
+R177 10.0K
+R97 10.0K
+U13
+3
+2
+1
+8
+4
+TL072
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+AGND
+C219
+22uF
+C194
+22uF
+C220
+22uF
+C195
+22uF
+C221
+22uF
+C196
+22uF
+C222
+22uF
+C197
+22uF
+AGND
+R125 10.0K
+R166 10.0K
+R218 10.0K
+R219 10.0K
+C131 33pF
+C171 33pF
+AGND
+AGND
+R128 10.0K
+R169 10.0K
+R220 10.0K
+R221 10.0K
+C133 33pF
+C173 33pF
+AGND
+AGND
+R131 10.0K
+R172 10.0K
+R222 10.0K
+R223 10.0K
+C135 33pF
+C175 33pF
+AGND
+AGND
+R134 10.0K
+R175 10.0K
+R224 10.0K
+R225 10.0K
+C137 33pF
+C177 33pF
+AGND
+AGND
+C176
+0.1uF
+C158
+0.1uF
+C155
+0.1uF
+C170
+0.1uF
+C168
+0.1uF
+C116
+0.1uF
+C138
+0.1uF
+C132
+0.1uF
+C120
+0.1uF
+C118
+0.1uF
+C174
+0.1uF
+C128
+0.1uF
+AGND
+C156
+0.1uF
+C172
+0.1uF
+C166
+0.1uF
+C162
+0.1uF
+C160
+0.1uF
+C136
+0.1uF
+C124
+0.1uF
+C122
+0.1uF
+C134
+0.1uF
+C126
+0.1uF
+C164
+0.1uF
+C130
+0.1uF
+U25
+3
+2
+1
+8
+4
+TL072
+U25
+TL072
+7
+6
+5
+U26
+3
+2
+1
+8
+4
+TL072
+U26
+TL072
+7
+6
+5
+U27
+3
+2
+1
+8
+4
+TL072
+U27
+TL072
+7
+6
+5
+U28
+3
+2
+1
+8
+4
+TL072
+U28
+TL072
+7
+6
+5
+U29
+5
+6
+7
+TL072
+U30
+TL072
+4
+8
+1
+2
+3
+U30
+5
+6
+7
+TL072
+U31
+TL072
+4
+8
+1
+2
+3
+U31
+5
+6
+7
+TL072
+U32
+TL072
+4
+8
+1
+2
+3
+U32
+5
+6
+7
+TL072
+U29
+TL072
+4
+8
+1
+2
+3
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+C178
+0.1uF
+C140
+0.1uF
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+V-in
+CT2
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+CT2
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+CT2
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT2
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+CT3
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+CT3
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+CT3
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT3
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+J9
+R114 3.83K
+J27 R191 3.83K
+J10 R117 3.83K
+J28 R192 3.83K
+J11 R120 3.83K
+J29 R193 3.83K
+J12 R123 3.83K
+J30 R194 3.83K
+J13 R126 3.83K
+J31 R195 3.83K
+J14 R129 3.83K
+J32 R196 3.83K
+J15 R132 3.83K
+J33 R197 3.83K
+J16 R135 3.83K
+J34 R198 3.83K
+LINEAINLT_9
+LINEAINRT_9
+LINEBINLT_9
+LINEBINRT_9
+LINEAINLT_10
+LINEAINRT_10
+LINEBINLT_10
+LINEBINRT_10
+LINEAINLT_11
+LINEAINRT_11
+LINEBINLT_11
+LINEBINRT_11
+LINEAINLT_12
+LINEAINRT_12
+LINEBINLT_12
+LINEBINRT_12
+IN 10
+IN 9
+BTM
+TOP
+TOP
+BTM
+RT
+LT
+LT
+RT
+A
+B
+B
+A
+RT
+LT
+LT
+RT
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RT
+LT
+LT
+RT
+A
+B
+B
+A
+RT
+LT
+LT
+RT
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+IN 11
+IN 12
+
+600 Industrial Drive
+New Bern, NC 28562
+A
+3 OF 5
+WWP
+AC
+W#700981
+CONA4-4
+22S0010
+CONA4-4A PCB
+11-8-12
+AC/WWP
+AIR-4 / Oct 2012
+page 4 - 25
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+5
+6
+7
+TL072
+U14
+C52 33pF
+R62 4.99K
+R64
+4.99K
+C24
+33pF
+R22 10.0K
+R63 10.0K
+C108 33pF
+R179 4.99K
+R139
+4.99K
+C109
+33pF
+R180 10.0K
+R98 10.0K
+TL072
+4
+8
+1
+2
+3
+U14
+AGND
+AGND
+AGND
+AGND
+CT8
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+CT8
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+CT8
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT8
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+AGND
+AGND
+V+in
+V-in
+AGND
+R137 10.0K
+R178 10.0K
+R226 10.0K
+R227 10.0K
+C139 33pF
+C179 33pF
+AGND
+U33
+TL072
+7
+6
+5
+U33
+3
+2
+1
+8
+4
+TL072
+V+in
+V-in
+C223
+22uF
+C198
+22uF
+CT4
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+CT4
+B8
+B7
+B6
+B5
+B4
+B3
+B2
+B1
+CT4
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+CT4
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+AGND
+R66
+10
+J17 R138 3.83K
+J35 R199 3.83K
+CT5
+A8
+A7
+A6
+A5
+A4
+A3
+A2
+A1
+CT5
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+CT5
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+CT5
+D8
+D7
+D6
+D5
+D4
+D3
+D2
+D1
+CT7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+AGND
+AGND
+AGND
+AGND
+AGND
+R67
+10
+AGND
+R68
+10
+AGND
+R65
+10
+CROUTLT
+STOUTLT
+CROUTRT
+STOUTRT
+PGM2OUTLTLO
+PGM2OUTLTHI
+PGM2OUTRTLO
+PGM2OUTRTHI
+PGM1OUTRTHI
+PGM1OUTRTLO
+PGM1OUTLTHI
+PGM1OUTLTLO
+CALLOUTLO
+CALLOUTHI
+CALLINLO
+CALLINHI
+EXTINLT
+EXTINRT
+MIC2OUT
+MIC1INLO
+MIC1INHI
+MIC2INLO
+MIC2INHI
+MIC3INLO
+MIC3INHI
+MIC4INLO
+MIC4INHI
+MIC3OUT
+MIC4OUT
+USB_OUT_RT_HI
+USB_OUT_RT_LO
+USB_OUT_LT_HI
+USB_OUT_LT_LO
+MIC1OUT
+LO
+MIC 2
+SH
+HI
+HI
+SH
+MIC 1 LO
+RJ-45  CONNECTOR
+BTM
+TOP
+RJ-45  CONNECTOR
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RT
+LT
+LT
+RT
+EXT IN
+CR OUT
+MIC1 OUT
+ST OUT
+RT
+LT
+BTM
+TOP
+TOP
+BTM
+BTM
+TOP
+TOP
+BTM
+CALLER IN
+CALLER OUT
+PGM2 OUT
+PGM1 OUT
+RT
+LT
+LT
+RT
+RJ-45  CONNECTOR
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+RJ-45  CONNECTOR
+RT
+LT
+USB OUT
+RJ-45  CONNECTOR
+MIC2 OUT
+BTM
+TOP
+RJ-45  CONNECTOR
+TOP
+BTM
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+RJ-45  CONNECTOR
+LO
+MIC 3
+SH
+HI
+HI
+SH
+MIC 4 LO
+MIC3 OUT
+MIC4 OUT
+
+600 Industrial Drive
+New Bern, NC 28562
+4 OF 5
+WWP
+AC
+W#700981
+CONA4-4
+22S0010
+CONA4-4A PCB
+11-8-12
+AC/WWP
+A
+AIR-4 / Oct 2012
+page 4 - 26
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+C185
+0.001uF
+R236 100
+R248
+40.2K
+R247
+3.32K
+C224 10uF
+C225 10uF
+R235 100
+R233 3.92K
+AGND
+R228 3.92K
+C180
+0.001uF
+AGND
+R238 11.0K
+R241 11.0K
+C202
+0.001uF
+AGND
+C199
+0.001uF
+AGND
+R240 3.92K
+R239 3.92K
+R230 11.0K
+R231 11.0K
+C146 10uF
+R200 100
+R185 100
+C141 10uF
+C114 10uF
+C145 10uF
+AGND
+C144
+10uF
++3.3V
++3.3V
+C143
+0.1uF
+AGND
+R79 1.0M
+C25
+10pF
+C65 0.1uF
+C54 0.1uF
+AGND
+C79
+10pF
+AGND
+C10 10uF
+AGND
+C64
+10uF
+C142
+10uF
+AGND
+C227
+10uF
+AGND
++3.3V
+C154
+10uF
+AGND
++3.3V
+R3 22
+R4 22
+J4
+R8
+1.69K
+R23
+1.69K
+R69
+1.69K
+J2
+J1
+C148
+150uF
++3.3V
+U18
+3
+1
+2
+LT1117
+OUT IN
+GND
+C81
+0.1uF
+C147
+10uF
++3.3V
+TP3
+TP4
+TP1
+TP2
+AGND
+AGND
+AGND
+U34
+OPA2353
+6
+5
+7
+U34
+OPA2353
+2
+3
+1
+U34
+V+
+8
+OPA2353
+U34
+V4
+OPA2353
++3.3V
+AGND
+U35
+7
+5
+6
+OPA2353
+U35
+OPA2353
+8
+V+
+U35
+OPA2353
+4
+V-
++3.3V
+AGND
+U35
+1
+3
+2
+OPA2353
+R1
+13.3K
+R2
+1.69K
+C3
+0.1uF
+AGND
+AGND
+R5
+1.0M
+AGND
+AGND
+U15
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+PCM2900B
+HID1
+HID2
+VBUS
+DD+
+DGNDU
+VCCCI
+SEL1
+SEL0
+HID0
+______
+AGNDC
+VIN_L
+VIN_R
+VCOM
+SSPND
+VCCP2I
+VDDI
+AGNDP
+VOUT_R
+TEST0
+AGNDX
+VOUT_L
+XTO
+VCCXI
+XTI
+VCCP1I
+DGND
+TEST1
+R7 3.3
+R6 3.3
+R9
+3.3
+AGND
+C228 10uF
+C226 10uF
+AGND
+R249
+40.2K
+U1
+4
+2
+1
+5
+374LVC1G08
+AGND
++3.3V
+C206
+0.1uF
+AGND
++3.3V
+C184
+0.1uF
+C80
+10pF
+C26
+10pF
+C11 10uF
+J22
+J18
+J19
+AGND
+AGND
+J20
+R229 10K
+R246
+3.32K
+R245 10K
+AGND
+TP5
+CT6
+4
+3
+2
+1
+Y1
+12.000MHz
+_
+OUT
+E/D
+Y2
+TBD
+Y1
+OSCILATOR_12.000MHz
+2
+GND
+AGND
+C200 68pF
+C201 68pF
+C203 68pF
+C204 68pF
+R201 22.1K
+R202 22.1K
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+CT10
+R234 33.2K
+R232 33.2K
+C239 10pF
+5
+6
+7
+5532
+U37
+1
+3
+2
+4
+8
+5532
+U37
+R251 3.3
+R253 3.3
+C238 10pF
+R252 3.3
+R250 3.3
+AGND
+AGND
+AGND
+C236
+0.1uF
+C237
+0.1uF
+C234 10uF
+C235 10uF
+R255 100K
+R254 100K
+R256
+1.00K
+R257
+1.00K
+V-in
+V+in
+V-in
+V+in
+R258 40.2K
+AGND
+R259 40.2K
+AGND
+USB_OUT_RT_HI
+USB_OUT_RT_LO
+USB_OUT_LT_HI
+USB_OUT_LT_LO
+USB_IN_RT_LO
+USB_IN_LT_LO
+USB_IN_RT_HI
+USB_IN_LT_HI
+D+in
+VBUS
+DM
+DP
+AGND
+7 - 8
+5 - 6
+3 - 4
+CT10
+JUMPERS NORMALLY INSTALLED:
+J5 AND J6
+R
+R
+L
+L
+USB
+JUMPERS
+MUTE & VOLUME
+Y1 NOT INSTALLED
+
+600 Industrial Drive
+New Bern, NC 28562
+5 OF 5
+WWP
+AC
+W#700981
+CONA4-4
+22S0010
+CONA4-4A PCB
+11-8-12
+AC/WWP
+A
+AIR-4 / Oct 2012
+page 4 - 27
+B
+C
+A
+D
+B
+C
+A
+D
+APPROVALS
+D
+DWG. NO.
+FSCM NO.
+ISSUED
+CHECKED
+DRAWN
+SHEET
+SCALE
+CONTRACT NO.
+REV
+SIZE
+DATE
+- SA UR US - Sergey Averin -
+5
+4
+6
+3
+7
+2
+8
+1
+5
+4
+6
+3
+7
+2
+8
+1
+TL072
+7
+6
+5
+U16
+68pF
+C55
+4.99K
+R76
+10.0K
+R70
+10.0K
+R71
+4.99K
+R181
+10.0K
+R140
+10.0K
+R182
+3
+2
+1
+8
+4
+TL072
+U16
+V+in
+V-in
+4.99K
+R72
+68pF
+C57
+68pF
+C110
+4.99K
+R99
+68pF
+C111
+5
+6
+7
+TL072
+U17
+68pF
+C58
+4.99K
+R77
+10.0K
+R73
+10.0K
+R74
+4.99K
+R183
+10.0K
+R141
+10.0K
+R184
+TL072
+4
+8
+1
+2
+3
+U17
+V+in
+V-in
+4.99K
+R75
+68pF
+C60
+68pF
+C112
+4.99K
+R100
+68pF
+C113
+AGND
+0.1uF
+C83
+0.1uF
+C82
+0.1uF
+C56
+0.1uF
+C59
+V+in
+V-in
+IRF460
+Q1
+S
+2.43K
+R78
+1uF
+C27
+1N4002
+D1
+AGND
+V-in_S
+V-in
+AGND
+J3
+AGND
+J21
+4
+3
+2
+1
+SW2
+V-in
+V+in
+AGND
+0.1uF
+C149
+AGND
+0.1uF
+C152
+V-in
+V+in
+AGND
+C151
+0.1uF
+AGND
+C208
+0.1uF
+V-in
+V+in
+AGND
+C207
+0.1uF
+AGND
+C150
+0.1uF
+V-in
+V+in
+V-in
+V+in
+V-in
+V+in
+U36
+2
+1
+3
+5532
+U36
+5532
+4
+8
+7
+6
+5
+R243 22.1K
+R242 22.1K
+R244 88.7K
+C209 10pF
+AGND
+R237 88.7K
+C205 10pF
+AGND
+C7 22uF
+C6 22uF
+C9 22uF
+C8 22uF
+R83
+39
+R85
+39
+C62
+330pF
+AGND
+L3
+L1
+U19
+1
+2
+3
+4
+5
+6
+7
+8
+SSM2017
+-2dBu
+Z2
+C5V1
+5.1V
+Z6
+C5V1
+5.1V
+Z5
+C5V1
+5.1V
+Z1
+C5V1
+5.1V
+C181
+100uF
+R80
+10
+AGND
+AGND
+AGND
+AGND
+R82
+10.0K
+R24
+10.0K
+AGND
+C4
+0.001uF
+AGND
+C1
+0.001uF
+CR1
+1K
+3 2
+1
+SH
+AGND
+LO
+HI
+C63
+330pF
+AGND
+L4
+L2
+U20
+8
+7
+6
+5
+4
+3
+2
+1
+SSM2017
+-2dBu
+Z4
+C5V1
+5.1V
+Z8
+C5V1
+5.1V
+Z7
+C5V1
+5.1V
+Z3
+C5V1
+5.1V
+C182
+100uF
+R81
+10
+AGND
+AGND
+AGND
+AGND
+R84
+10.0K
+R25
+10.0K
+AGND
+C5
+0.001uF
+AGND
+C2
+0.001uF
+CR2
+1
+2
+3
+1K
+SH
+AGND
+LO
+HI
+USB_IN_LT_LO
+PGM1OUTLTHI
+PGM1OUTLTLO
+PGM1OUTRTHI
+PGM1OUTRTLO
+PGM2OUTLTHI
+PGM2OUTLTLO
+PGM2OUTRTHI
+PGM2OUTRTLO
+USB_IN_LT_HI
+USB_IN_RT_HI
+USB_IN_RT_LO
+MIC3INHI
+MIC3INLO
+MIC4INHI
+MIC4INLO
+MIC3OUT
+MIC4OUT
+-50dBu BAL
+MIC 3
+MIC 3
+GAIN
+TRIM
+-50dBu BAL
+MIC 4
+GAIN
+TRIM
+MIC 4
+SW2 PINS 1 & 3  PGM1
+SW2 PINS 2 & 4  PGM2
+
+page  4 – 28
+CONA4-4 Four Connector Blocks Card Load Sheet
+AIR 4 / Nov 2012
+
+page  Appendix – 1
+AIR 4 / June 2012
+A P P E N D I C E S
+AIR 4 Console Performance Specifications................................A-3
+Replacement Parts List.................................................................A-5
+Appendices
+Appendix 1
+Appendix 2
+
+page  Appendix – 2
+AIR 4 / June 2012
+A P P E N D I C E S
+Appendix 1
+AIR 4 Performance Specifications................................................A-3
+ Contents
+
+page  Appendix – 3
+AIR 4 / June 2012
+A P P E N D I C E S
+FREQUENCY RESPONSE
+Line (20Hz-20kHz)  +/-0.1dB
+Mic (20Hz-20kHz)   +/-0.1dB
+DYNAMIC RANGE
+Line, unity gain         113dB
+Mic, 54dB gain         100dB	
+NOISE
+Line                           -89dBu
+THD+N (20Hz-20kHz)
+Line, -4dBu              <0.003%
+Mic, -50dBu             <0.02%
+MAXIMUM INPUT
+Mic                           -6dBu
+HEADROOM
+above  -4dB               24dB
+BUS CROSSTALK
+20Hz                        -100dB
+20kHz                      -60dB	
+STEREO SEPARATION
+1kHz                        -60dB
+OFF ISOLATION
+1kHz                        -115dB
+20kHz                      -95dB
+DIMENSIONS
+Width                       28.33”
+Depth                       15.37”
+Height (rear)             4.46”           
+Height (front)           1.56”             
+                AIR 4 Performance Specifications
+Specifications and features subject to change without notice.
+
+page  Appendix – 4
+AIR 4 / June 2012
+A P P E N D I C E S
+Appendix 2
+Replacement Parts List.................................................................A-5
+For the most part there are no user-replaceable parts in the 
+AIR 4 console. Exceptions are those controls and components that in 
+the course of normal use may need maintenance (i.e., faders, pots, ON 
+switches, etc.). A complete list of available components is shown on the 
+next page. Contact Audioarts Engineering technical support for further 
+information.
+Audioarts Engineering (600 Industrial Drive, New Bern, North Carolina, 
+USA 28562) may be reached by phone at 252-638-7000, fax 252-637-1285, 
+electronic mail “techsupport@wheatstone.com”.
+ Contents
+
+page  Appendix – 5
+AIR 4 / June 2012
+A P P E N D I C E S
+REPLACEMENT PARTS –   AIR 4 CONSOLE
+COMPONENT
+DESCRIPTION
+WS P/N
+E
+L
+U
+D
+O
+M
+ 
+T
+U
+P
+N
+I 
+E
+T
+E
+L
+P
+M
+O
+C
+E
+L
+U
+D
+O
+M
+ 
+4
+R
+I
+A
+-
+P
+I
+"009003"
+MST-AIR4 MODULE
+COMPLETE MASTER MODULE
+"009004"
+IP-AIR4 LOADED CARD ASSY
+INPUT PANEL LOADED CARD ASSEMBLY
+"002821"
+MST-AIR4 LOADED CARD ASSY
+MASTER PANEL LOADED CARD ASSEMBLY
+"002823"
+VU-AIR2 LOADED CARD ASSY
+VU METERS LOADED CARD ASSEMBLY
+"009728"
+CONA3-3 LOADED CARD ASSY
+THREE CONNECTOR BLOCKS CARD ASSEMBLY
+"009723"
+CONA4-4 LOADED CARD ASSY
+FOUR CONNECTOR BLOCKS CARD ASSEMBLY
+"002847"
+T
+N
+A
+I
+L
+P
+M
+O
+C
+ 
+S
+H
+O
+R
+ 
+R
+E
+D
+A
+F
+ 
+N
+ 
+E
+P
+Y
+T
+ 
+R
+E
+T
+S
+A
+M
+ 
+E
+L
+I
+F
+O
+R
+P
+ 
+W
+O
+L
+ 
+M
+M
+0
+0
+1
+R
+E
+D
+A
+F
+"540061"
+R
+E
+D
+A
+F
+ 
+S
+E
+I
+R
+E
+S
+ 
+0
+0
+0
+3
+ 
+R
+O
+F
+ 
+M
+M
+1
+1
+ ,
+B
+O
+N
+K
+ 
+R
+E
+D
+A
+F
+ 
+K
+C
+A
+L
+B
+B
+O
+N
+K
+ 
+R
+E
+D
+A
+F
+"520001"
+T
+O
+P
+ 
+T
+F
+A
+H
+S
+ "
+4
+/
+1
+ 
+O
+I
+D
+U
+A
+ 
+L
+A
+U
+D
+ 
+K
+0
+1
+ "
+O
+I
+D
+U
+T
+S
+"/"
+N
+P
+D
+H
+"/"
+R
+C
+"
+T
+O
+P
+"500029"
+T
+O
+P
+ "
+O
+I
+D
+U
+T
+S
+"/"
+N
+P
+D
+H
+"/"
+R
+C
+" 
+R
+O
+F
+ 
+B
+O
+N
+K
+ 
+K
+C
+A
+L
+B
+ 
+M
+M
+1
+2
+ 
+B
+O
+N
+K
+ 
+T
+O
+P
+"520124"
+T
+O
+P
+ "
+E
+U
+C
+" 
+R
+O
+F
+ 
+B
+O
+N
+K
+ 
+N
+O
+-
+H
+S
+U
+P
+ 
+K
+C
+A
+L
+B
+ 
+M
+M
+5
+1
+B
+O
+N
+K
+ 
+T
+O
+P
+"520125"
+ 
+T
+O
+P
+ "
+E
+U
+C
+" 
+R
+O
+F
+ 
+E
+N
+I
+L
+ 
+E
+T
+I
+H
+W
+/
+W
+ 
+P
+A
+C
+ 
+K
+C
+A
+L
+B
+ 
+M
+M
+1
+1
+P
+A
+C
+ 
+T
+O
+P
+"530037"
+T
+O
+P
+ "
+O
+I
+D
+U
+T
+S
+"/"
+N
+P
+D
+H
+"/"
+R
+C
+" 
+R
+O
+F
+ 
+E
+N
+I
+L
+ 
+E
+T
+I
+H
+W
+/
+W
+ 
+P
+A
+C
+ 
+K
+C
+A
+L
+B
+ 
+M
+M
+1
+2
+P
+A
+C
+ 
+T
+O
+P
+"530319"
+T
+E
+K
+S
+A
+G
+ 
+N
+O
+C
+I
+L
+I
+S
+ 
+D
+N
+A
+ 
+D
+E
+L
+ 
+D
+E
+R
+ 
+R
+E
+T
+H
+G
+I
+R
+B
+/
+W
+ 
+H
+C
+T
+I
+W
+S
+ 
+5
+1
+B
+J
+H
+C
+T
+I
+W
+S
+ 
+K
+K
+N
+"510290"
+T
+E
+K
+S
+A
+G
+ 
+N
+O
+C
+I
+L
+I
+S
+ 
+D
+N
+A
+ 
+D
+E
+L
+ 
+W
+O
+L
+L
+E
+Y
+ 
+R
+E
+T
+H
+G
+I
+R
+B
+/
+W
+ 
+H
+C
+T
+I
+W
+S
+ 
+5
+1
+B
+J
+H
+C
+T
+I
+W
+S
+ 
+K
+K
+N
+"510291"
+P
+A
+C
+ 
+H
+C
+T
+I
+W
+S
+ 
+E
+T
+I
+H
+W
+P
+A
+C
+ 
+H
+C
+T
+I
+W
+S
+"530004"
+RJ-45 CONNECTOR
+RJ-45 CONNECTOR 4 PORT GANGED, R/A, SHIELDED, EMI FINGERS
+"220145"
+USB CONNECTOR
+CONNECTOR USB-B RT ANGLE SHIELDED
+"260090"
+DB-25 CONNECTOR
+LOGIC I/O CONNECTOR
+"200018"
+K
+C
+A
+J 
+E
+N
+O
+H
+P
+D
+A
+E
+H
+K
+C
+A
+J 
+S
+T
+R
+"260005"
+POWER CONNECTOR
+RIGHT ANGLE DIN RECEPTACLE ROHS COMPLIANT
+"260071"
+RJ-45 CONNECTOR
+2x2 PORT STACKED MODULAR JACK RJ-45 
+"260089"
+
+page  Appendix – 6
+AIR 4 / June 2012
+A P P E N D I C E S
+REPLACEMENT PARTS – AIR 4 CONSOLE
+COMPONENT
+DESCRIPTION
+WS P/N
+R
+E
+D
+A
+E
+H
+ 
+N
+I
+P
+ 
+3
+R
+E
+D
+A
+E
+H
+"250062"
+R
+E
+D
+A
+E
+H
+ 
+E
+L
+G
+N
+A
+ 
+T
+H
+G
+I
+R
+ 
+N
+I
+P
+ 
+4
+1
+R
+E
+D
+A
+E
+H
+"250044"
+"
+5
+6
+1
+.x
+1
+. 
+T
+R
+T
+S
+ ,
+S
+P
+I
+R
+T
+S
+ 
+R
+E
+D
+A
+E
+H
+ 
+Y
+A
+W
+A
+K
+A
+E
+R
+B
+ 
+N
+I
+P
+ 
+0
+4
+R
+E
+D
+A
+E
+H
+"250071"
+R
+E
+D
+A
+E
+H
+ 
+T
+H
+G
+I
+A
+R
+T
+S
+ 
+D
+E
+X
+O
+B
+ 
+N
+I
+P
+ 
+4
+1
+R
+E
+D
+A
+E
+H
+"250073"
+HEADER
+"260057"
+PLUG TERMINAL
+3 POSITION TERMINAL BLOCK EURO 5MM MARKED ROHS COMPLIANT FOR 
+ANALOG I/O CONNECTIONS
+ 
+"260078"
+G
+W
+A
+ 
+6
+2
+#
+ 
+R
+O
+F
+ 
+G
+U
+L
+P
+ 
+N
+I
+P
+ 
+3
+G
+U
+L
+P
+"230028"
+G
+U
+L
+P
+ 
+N
+O
+B
+B
+I
+R
+ 
+P
+I
+D
+ 
+N
+I
+P
+ 
+4
+1
+G
+U
+L
+P
+"250034"
+G
+U
+L
+P
+ 
+N
+O
+B
+B
+I
+R
+ 
+N
+I
+P
+ 
+6
+2
+G
+U
+L
+P
+"250043"
+Y
+L
+P
+P
+U
+S
+ 
+R
+E
+W
+O
+P
+ 
+L
+A
+N
+R
+E
+T
+X
+E
+ 
+T
+U
+P
+T
+U
+O
+ 
+E
+L
+P
+I
+R
+T
+Y
+L
+P
+P
+U
+S
+ 
+R
+E
+W
+O
+P
+"980043"
+POWER SUPPLY CORD 
+1/2' BLACK POWER CORD ROHS COMPLIANT
+"150017"
+R
+E
+K
+A
+E
+P
+S
+ 
+E
+G
+D
+I
+R
+B
+R
+E
+T
+E
+M
+ 
+E
+L
+O
+S
+N
+O
+C
+R
+E
+K
+A
+E
+P
+S
+"960016
+E
+L
+O
+S
+N
+O
+C
+ 
+4
+ 
+R
+I
+A
+ 
+R
+O
+F
+ 
+L
+A
+U
+N
+A
+M
+ 
+L
+A
+C
+I
+N
+H
+C
+E
+T
+L
+A
+U
+N
+A
+M
+"009093"
+7
+12 POSITION R/A BOXED HEADER EURO 5MM CLOSED ENDS ROHS COMPLIANT

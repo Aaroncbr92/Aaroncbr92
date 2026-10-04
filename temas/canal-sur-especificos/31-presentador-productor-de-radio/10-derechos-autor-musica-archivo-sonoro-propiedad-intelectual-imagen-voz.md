@@ -889,8 +889,12 @@ jurisprudencia). La voz del locutor está protegida, en cualquier caso, como atr
 (epígrafe 5).
 
 Lo mismo vale para el invitado: el actor o el músico que actúa en directo en un programa ejerce sus
-derechos de artista; grabar su actuación exige su autorización por escrito (artículo 106), y
-colgarla en pódcast, la de puesta a disposición (artículo 108.1.b).
+derechos de artista. Emitir su actuación en directo es comunicación pública, y el artículo 108.1
+reserva al artista el derecho exclusivo de autorizarla: «**a) De sus actuaciones, salvo cuando dicha
+actuación constituya en sí una actuación transmitida por radiodifusión o se realice a partir de una
+fijación previamente autorizada.**» Grabar su actuación exige su autorización por escrito (artículo
+106), y colgarla en pódcast, la de puesta a disposición (artículo 108.1.b). Para las dos letras del
+108.1, la ley cierra: «**En ambos casos, la autorización deberá otorgarse por escrito.**»
 
 ### Créditos: el nombre del autor es un derecho, no una cortesía
 
@@ -1083,9 +1087,19 @@ productor: si es sólo sonido, es un fonograma («otros sonidos», artículo 114
 el derecho exclusivo de autorizar su reproducción (artículo 115); si lleva imagen, es una grabación
 audiovisual (artículos 120 a 122). Si tiene originalidad, quien lo hizo es además autor. Que circule en
 una red social no lo convierte en material libre: subirlo fue un acto de puesta a disposición
-(artículo 20.2.i), y volver a emitirlo es otro acto de comunicación pública que necesita autorización,
-salvo que lo ampare un límite (artículo 35.1, si es la forma en que se oye el acontecimiento del que
-se informa, y en la medida que lo justifique). Qué autoriza el oyente que manda un mensaje de voz al
+(artículo 20.2.i), y lo que el programa haga con él pide, según el acto y la capa, una autorización
+distinta. Copiarlo al sistema de emisión es reproducción, y en el fonograma la autoriza su productor
+(artículo 115). Colgarlo en el pódcast o en la radio a la carta es puesta a disposición, también
+derecho exclusivo del productor del fonograma (artículo 116.1). Emitirlo en antena no lo es para esa
+capa: el derecho exclusivo de comunicación pública del productor de fonogramas se limita a la forma
+del artículo 20.2.i) (artículo 116.1), y por los demás actos sólo hay una remuneración equitativa y
+única, y únicamente si el fonograma se publicó con fines comerciales (artículo 116.2), lo que no es
+el caso del mensaje de un oyente. La emisión sí necesita autorización cuando el audio es obra (la del
+autor, artículos 17 y 20) o cuando lleva imagen, porque el productor de la grabación audiovisual tiene el
+derecho de autorizar su comunicación pública (artículo 122.1). En todos los casos cabe que lo ampare
+un límite (artículo 35.1, si se oye o se ve con ocasión de una información sobre un acontecimiento de
+actualidad, y sólo en la medida que lo justifique la finalidad informativa; para el fonograma y la
+grabación audiovisual, por la remisión del artículo 132). Qué autoriza el oyente que manda un mensaje de voz al
 programa, y si eso alcanza al pódcast o a las redes, la ley no lo dice. Lo que sí dice es que la
 cesión se limita a las modalidades expresamente previstas y ha de formalizarse por escrito (artículos
 43 y 45), reglas que el artículo 132 aplica «en lo pertinente» a los otros derechos de propiedad
@@ -1425,7 +1439,7 @@ intromisión sin consentimiento expreso (artículo 7.6).
 | Fragmento de otra emisora | Derecho de la emisora a autorizar la fijación de sus emisiones en soporte sonoro o visual y su reproducción (art. 126.1.a y b); el art. 33.1 permite a medios de la misma clase reproducir trabajos de actualidad sin reserva de derechos, con fuente y autor y sin perjuicio de la remuneración del autor; cómo se combinan no lo resuelve la ley |
 | Audio enviado por un oyente o sacado de una red | Su productor tiene el derecho exclusivo de reproducción (arts. 114.1 y 115); estar en una red no lo libera; quien habla tiene su derecho a la voz (LO 1/1982) |
 | Lectura en antena de un poema o un relato | Quien lee es artista intérprete (art. 105); la fijación se autoriza por escrito (art. 106); si actúa por contrato de trabajo, se presume la cesión al empresario de lo que se deduzca del contrato (art. 110.1); el autor del texto conserva sus derechos |
-| Actuación musical en directo en el estudio | Grabarla exige autorización escrita del artista (art. 106); colgarla en pódcast, la de puesta a disposición (art. 108.1.b) |
+| Actuación musical en directo en el estudio | Emitirla en directo, autorización escrita del artista para la comunicación pública de su actuación (art. 108.1.a), salvo que sea ya una actuación transmitida por radiodifusión o se haga a partir de una fijación previamente autorizada; grabarla, autorización escrita del artista (art. 106); colgarla en pódcast, la de puesta a disposición (art. 108.1.b), también por escrito (art. 108.1, «En ambos casos») |
 | Voz de una persona en una cuña o una autopromoción | Intromisión sin consentimiento expreso (arts. 2.2 y 7.6 LO 1/1982) |
 | Conversación privada grabada sin que el interlocutor lo sepa | Intromisión (art. 7.2 LO 1/1982), salvo consentimiento expreso, autorización legal (art. 2.2) o interés histórico, científico o cultural relevante (art. 8.1) |
 | Voz sintética que imita a una persona real | Ultrafalsificación: hacer público que es artificial (art. 50.4 RIA); y, además, consentimiento expreso si el uso es publicitario, comercial o análogo (art. 7.6 LO 1/1982) |
@@ -1444,7 +1458,7 @@ intromisión sin consentimiento expreso (artículo 7.6).
 
 | Norma | Qué se usa |
 |---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35.1, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 88, 90.4, 90.6, 90.7, 92 a 94, 105 a 110, 112, 113, 114 a 116, 119, 120 a 122, 126 a 128, 132, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
+| Texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril | Artículos 1, 2, 3, 5, 6, 7, 9.1, 10, 14, 15.1, 17 a 21, 26, 28.1, 30, 31.1, 32.1, 33, 35.1, 36.3, 37 bis, 39, 40 bis, 41, 43, 45, 50, 51, 86 a 88, 90.4, 90.6, 90.7, 92 a 94, 105 a 110, 112, 113, 114 a 116, 119, 120 a 122, 125 a 128, 132, 138, 140, 145.3, 146, 147, 153, 163, 164.1, 166 y 167 |
 | Real Decreto-ley 24/2021, de 2 de noviembre, libro cuarto | Artículos 66.6, 70 y 73; rúbricas del título II y de los artículos 67 a 69 |
 | Constitución Española | Artículos 20.4 y 53.2 |
 | Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen | Artículos 1.3, 2, 3, 4, 5.1, 7, 8 y 9 |
@@ -1499,7 +1513,7 @@ intromisión sin consentimiento expreso (artículo 7.6).
 
 | Fuente | Identificador | Leída |
 |---|---|---|
-| Texto refundido de la Ley de Propiedad Intelectual, texto consolidado: artículos 10, 15, 18 a 21, 26, 28, 33, 36, 37 bis, 86, 88, 90, 92 a 94, 105 a 110, 112 a 116, 119 a 122, 126 a 128, 132, 146, 163, 166 y 167, y rúbrica del título VI del libro I | BOE-A-1996-8930 (arts. 20 y 110 en la redacción vigente desde 04-11-2021, BOE-A-2021-17910; arts. 18, 90, 107, 108, 109, 113, 115, 116, 121, 122 y 126, desde 28-07-2006; art. 132, desde 24-06-2007; arts. 19, 28, 37 bis, 112 y 119, desde 01-01-2015; arts. 163, 166 y 167, desde 03-03-2019; art. 21 y 146, desde 01-04-1998; los demás, redacción original; la última modificación de cualquier artículo, la del 177, vigente desde 31-03-2022) | 03-10-2026 |
+| Texto refundido de la Ley de Propiedad Intelectual, texto consolidado: artículos 10, 15, 17 a 21, 26, 28, 33, 35, 36, 37 bis, 86, 88, 90, 92 a 94, 105 a 110, 112 a 116, 119 a 122, 125 a 128, 132, 146, 163, 166 y 167, y rúbrica del título VI del libro I | BOE-A-1996-8930 (arts. 20 y 110 en la redacción vigente desde 04-11-2021, BOE-A-2021-17910; arts. 18, 90, 107, 108, 109, 113, 115, 116, 121, 122 y 126, desde 28-07-2006; art. 132, desde 24-06-2007; arts. 19, 28, 37 bis, 112 y 119, desde 01-01-2015; arts. 163, 166 y 167, desde 03-03-2019; arts. 21, 35 y 146, desde 01-04-1998; los demás, redacción original; la última modificación de cualquier artículo, la del 177, vigente desde 31-03-2022) | 03-10-2026; arts. 17, 20, 35, 106, 108, 115, 116, 122, 125 y 132, releídos el 04-10-2026 |
 | Ley Orgánica 1/1982, artículos 2, 7 y 8 | BOE-A-1982-11196 (art. 7, redacción vigente desde 23-12-2010, BOE-A-2010-9953; art. 2, desde 15-02-1990, tras la STC 9/1990, BOE-A-1990-3964; art. 8, original) | 03-10-2026 |
 | Ministerio de Cultura, «Direcciones y tarifas de las entidades de gestión de derechos de propiedad intelectual» | cultura.gob.es/cultura/propiedadintelectual/gestion-colectiva/direcciones-y-tarifas.html | 03-10-2026 |
 | CNMC, Dirección de Competencia, resumen del caso S/0500/13 AGEDI/AIE-RADIO (posterior a la Resolución de 26-11-2015) | cnmc.es, nota10_AGEDI_AIE_RADIO_S-0500-13.pdf | 03-10-2026 |
