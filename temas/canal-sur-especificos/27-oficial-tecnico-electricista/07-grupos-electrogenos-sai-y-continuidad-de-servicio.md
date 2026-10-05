@@ -6,7 +6,7 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 7 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): artículo 10 del Reglamento, ITC-BT-28 (apartado 2 y 3.1) e ITC-BT-40. Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): anexo II, tabla I. Clasificación de los SAI de la norma IEC 62040-3, sólo a través de una fuente secundaria (W. Sölter). Lo demás, oficio |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): artículo 10 del Reglamento, ITC-BT-28 (apartados 2, 3 y 4) e ITC-BT-40. Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): anexo II, tabla I. Clasificación de los SAI de la norma IEC 62040-3, sólo a través de una fuente secundaria (W. Sölter). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026): ITC-BT-40 en la redacción dada por el Real Decreto 244/2019, de 5 de abril (vigente desde el 07/04/2019); artículo 10 e ITC-BT-28 en su única redacción (vigente desde el 18/09/2003); anexo II del Real Decreto 513/2017 en la redacción vigente desde el 10/05/2025 |
 | **Extensión** | 11.600 palabras aproximadamente |
 
@@ -20,12 +20,11 @@ baja tensión (**ITC-BT-40**); Reglamento de instalaciones de protección contra
 (**RIPCI**); sistema de alimentación ininterrumpida (**SAI**), que en inglés se llama
 *uninterruptible power supply* (**UPS**); normas técnicas españolas (**UNE**); Comisión Electrotécnica Internacional (**IEC**,
 *International Electrotechnical Commission*); las tres clases de SAI de la norma IEC 62040-3
-(**VFD**, **VI** y **VFI**, explicadas en su epígrafe); plomo-ácido regulado por válvula
-(**VRLA**, *valve regulated lead acid*); ion litio (**Li-ion**); centro de proceso de datos
+(**VFD**, **VI** y **VFI**, explicadas en su epígrafe); centro de proceso de datos
 (**CPD**); unidad móvil (**UM**); esquema de conexión a tierra
-**TT** (neutro de la fuente a tierra y masas a una tierra distinta, tema 5); corriente continua (**CC**) y alterna (**CA**); voltio (**V**),
-amperio hora (**Ah**), vatio hora (**Wh**), kilovatio (**kW**), kilovoltamperio (**kVA**), hercio
-(**Hz**), revoluciones por minuto (**r.p.m.**) y milisegundo (**ms**).
+**TT** (neutro de la fuente a tierra y masas a una tierra distinta, tema 5); voltio (**V**),
+amperio hora (**Ah**), vatio hora (**Wh**), kilovatio hora (**kWh**), kilovatio (**kW**),
+kilovoltamperio (**kVA**) y hercio (**Hz**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.27, punto 7):
@@ -266,7 +265,7 @@ Lo que la ITC-BT-40 exige al propio generador, literal:
   armónicos es la relación, en %, entre el valor eficaz del armónico de ordenn** (así en el BOE,
   por «orden n») **y el valor eficaz del fundamental.**
 
-Las dos cifras que más se preguntan son las del cable: 125 % de la intensidad máxima y 1,5 % de
+Las dos cifras que hay que retener son las del cable: 125 % de la intensidad máxima y 1,5 % de
 caída de tensión a intensidad nominal. Y la lectura de los relés desde el mantenimiento (oficio): con esos
 ajustes, un generador cuya frecuencia sale de 49-51 Hz durante más de cinco períodos, o cuya
 tensión baja al 85 % o sube al 110 %, se desconecta; por eso un regulador de velocidad desajustado
@@ -289,8 +288,8 @@ explicar y lo que se programa en el cuadro de control:
 | 8 · Retransferencia | Con corte o sin corte, según el sistema |
 | 9 · Refrigeración y parada | El motor sigue girando en vacío unos minutos antes de pararse |
 
-El umbral de la fase 1 no es libre cuando el grupo es fuente propia de los servicios de seguridad:
-la ITC-BT-28 fija que la fuente arranca al faltar la tensión de la distribuidora o cuando ésta
+El umbral de la fase 1 no es libre cuando el grupo es fuente propia de los servicios de seguridad
+de un local de pública concurrencia: la ITC-BT-28 fija que la fuente arranca al faltar la tensión de la distribuidora o cuando ésta
 desciende por debajo del 70 % de su valor nominal (texto literal en 3.2).
 
 Las dos fases que la gente no espera y que hay que saber justificar:
@@ -303,9 +302,10 @@ Las dos fases que la gente no espera y que hay que saber justificar:
 
 ## 2. Sistemas de alimentación ininterrumpida
 
-El grupo electrógeno da autonomía y el sistema de alimentación ininterrumpida da continuidad. Es el
-único que cumple la categoría «sin corte» de la ITC-BT-28 (3.1), porque su energía ya está
-almacenada y no hay nada que arrancar.
+El grupo electrógeno da autonomía y el sistema de alimentación ininterrumpida da continuidad. El
+SAI de doble conversión es la única de las fuentes de este tema que cumple la categoría «sin
+corte» de la ITC-BT-28 (epígrafes 3.1 y 2.2), porque su energía ya está almacenada y no hay nada que
+arrancar.
 
 ### 2.1 El diagrama de bloques
 
@@ -371,8 +371,8 @@ Para recordar las siglas: V es tensión (*voltage*), F es frecuencia, D es depen
 independiente; VFD, tensión y frecuencia dependientes; VFI, independientes; VI, sólo la tensión
 independiente. El tercer paso son tres cifras sobre el comportamiento dinámico de la salida, y la
 clase 1 es la más exigente: según el mismo autor, **«The triple "Classification 1" rating is only
-possible with this type of UPS»**, el VFI. La edición vigente de la norma es posterior a la que
-describe la fuente, y su año y su transposición UNE no se han confirmado.
+possible with this type of UPS»**, el VFI. La fuente describe la primera edición de la norma; si hay otra posterior, cuál es la
+vigente y su transposición UNE no se han confirmado.
 
 ### 2.4 Las prestaciones que hay que mirar al elegir uno
 
@@ -434,7 +434,7 @@ Dónde cae cada fuente (oficio; la ITC no asigna categorías a las fuentes):
 | Grupo electrógeno con arranque automático | Típicamente corte mediano | Tiene que detectar, arrancar y estabilizarse (1.5); nunca «sin corte» ni «corte muy breve» |
 | Grupo con arranque manual | No es alimentación automática | Depende de un operador |
 
-Y la consecuencia que más se pregunta: la ITC-BT-28 dice que **la alimentación del alumbrado de
+Y la consecuencia que hay que saber: la ITC-BT-28 dice que **la alimentación del alumbrado de
 emergencia será automática con corte breve** (apartado 3). Un grupo solo, que tarda segundos, no
 la cumple; por eso el alumbrado de emergencia lleva batería propia, en aparatos autónomos o en una
 fuente central de baterías (el alumbrado de emergencia es materia del tema 6).
@@ -502,7 +502,7 @@ complementarios o de seguridad son los que, a efectos de seguridad y continuidad
 complementan a un suministro normal. Estos suministros podrán realizarse por dos empresas
 diferentes o por la misma empresa, cuando se disponga, en el lugar de utilización de la energía, de
 medios de transporte y distribución independientes, o por el usuario mediante medios de producción
-propios.** (El grupo electrógeno es ese «medio de producción propio».) **Se considera suministro
+propios.** (El grupo electrógeno es uno de esos «medios de producción propios».) **Se considera suministro
 complementario aquel que, aun partiendo del mismo transformador, dispone de línea de distribución
 independiente del suministro normal desde su mismo origen en baja tensión.**
 
@@ -512,7 +512,7 @@ independiente del suministro normal desde su mismo origen en baja tensión.**
 | De reserva | **es el dedicado a mantener un servicio restringido de los elementos de funcionamiento indispensables de la instalación receptora, con una potencia mínima del 25 por 100 de la potencia total contratada para el suministro normal.** |
 | Duplicado | **es el que es capaz de mantener un servicio mayor del 50 por 100 de la potencia total contratada para el suministro normal.** |
 
-Las tres cifras se preguntan juntas: 15 %, 25 % y más del 50 %. Y quién debe tenerlos, según la
+Las tres cifras van juntas: 15 %, 25 % y más del 50 %. Y quién debe tenerlos, según la
 ITC-BT-28, apartado 2.3: **Deberán disponer de suministro de socorro los locales de espectáculos y
 actividades recreativas cualquiera que sea su ocupación y los locales de reunión, trabajo y usos
 sanitarios con una ocupación prevista de más de 300 personas.** El suministro de reserva se exige a
@@ -637,7 +637,7 @@ interconexión. Lo que se busca con la transferencia sin corte (oficio) es que l
 de grupo a red, que es una maniobra programada, no produzca un segundo corte: el grupo se
 sincroniza con la red, se cierran los dos durante un instante y se abre el grupo.
 
-Para la puesta en marcha de una asistida, **además de los trámites y gestiones que corresponda
+Para la puesta en marcha de una asistida (y de una interconectada), **además de los trámites y gestiones que corresponda
 realizar, de acuerdo con la legislación vigente ante los Organismos Competentes se deberá presentar
 el oportuno proyecto a la empresa distribuidora de energía eléctrica de aquellas partes que afecten
 a las condiciones de acoplamiento y seguridad del suministro eléctrico** (ITC-BT-40, apartado 9);
@@ -827,11 +827,10 @@ calcula una vez para siempre. Las tablas de autonomía por carga son dato del fa
 
 La autonomía del grupo es la de su combustible. Se decide por el escenario, no por una cifra
 redonda: cuántas horas hay que aguantar depende de si el corte previsible es de minutos o de horas,
-y de en cuánto tiempo se puede traer combustible. Y el depósito, a partir de cierto tamaño, deja de
-ser un accesorio del grupo y pasa a ser una instalación petrolífera con su propio reglamento: la
-ITC-BT-40 lo dice al exigir que los **depósitos de combustibles** cumplan **además, las
-disposiciones que establecen los Reglamentos y Directivas específicos que les sean aplicables**
-(1.3). Los umbrales de ese reglamento no se dan en este tema.
+y de en cuánto tiempo se puede traer combustible. Y el depósito no se rige sólo por el REBT: la ITC-BT-40 exige que los **depósitos de
+combustibles** cumplan **además, las disposiciones que establecen los Reglamentos y Directivas
+específicos que les sean aplicables** (1.3). Qué reglamento es ése y a partir de qué capacidad
+alcanza al depósito no se da en este tema.
 
 Lo que el oficial tiene que saber de la autonomía del grupo en la práctica: el nivel del depósito
 diario y del nodriza es un dato de cada ronda; un grupo que se prueba a menudo y no se repone se
@@ -839,7 +838,10 @@ queda sin autonomía sin que nadie lo note; y el gasóleo almacenado mucho tiemp
 
 ### 6.3 La autonomía que fija la norma
 
-El REBT sólo fija una autonomía, y es la de los servicios de seguridad. La capacidad mínima de una
+De las instrucciones del REBT leídas para este tema, sólo la ITC-BT-28 fija una autonomía, y es la
+de los servicios de seguridad (la ITC-BT-38 fija otra, de dos horas, para el suministro especial
+complementario que alimenta la lámpara de quirófano y los equipos de asistencia vital, que no es
+caso de este puesto). La capacidad mínima de una
 fuente propia es la del alumbrado de seguridad (3.2), y ese alumbrado, en sus dos modalidades
 generales, **deberá poder funcionar, cuando se produzca el fallo de la alimentación normal, como
 mínimo durante una hora, proporcionando la iluminancia prevista** (ITC-BT-28, apartado 3.1.1, para
@@ -919,7 +921,8 @@ Donde sí hay periodicidad es en las fuentes de alimentación de la protección 
 anexo II del RIPCI establece que **Los equipos y sistemas de protección activa contra incendios, se
 someterán al programa de mantenimiento establecido por el fabricante. Como mínimo, se realizarán las
 operaciones que se establecen en las tablas I y II.** En la tabla I (programa trimestral y
-semestral, que puede hacer **el personal del usuario o titular de la instalación**), para los
+semestral, que puede hacer el personal especializado del fabricante o de una empresa mantenedora
+o, también, **el personal del usuario o titular de la instalación**), para los
 sistemas de detección y alarma, figuran cada tres meses:
 
 - en «Fuentes de alimentación»: **Revisión de sistemas de baterías: Prueba de conmutación del
@@ -942,8 +945,7 @@ fallo de red, funcionamiento con batería, detección de la avería y vuelta a n
 
 Este epígrafe es oficio: ninguna norma leída para el tema fija cómo se actúa ante una avería de un
 grupo o de un SAI, y los procedimientos concretos son los del fabricante de cada equipo y los que
-tenga escritos el titular. Lo que sigue es el razonamiento que un tribunal espera, ordenado por
-incidencias.
+tenga escritos el titular. Lo que sigue es el razonamiento de oficio, ordenado por incidencias.
 
 ### 8.1 El orden de prioridades
 
@@ -980,7 +982,7 @@ Ante cualquier incidencia de alimentación, el orden es siempre el mismo:
 | Sobrecarga | Se ha conectado más carga de la prevista | Retirar lo que no debe estar en el SAI; revisar qué cuelga de él (3.4) |
 | Sobrecalentamiento del equipo | Filtros sucios, ventiladores o climatización de la sala | Limpieza; climatización; la sala técnica sin frío es una incidencia en sí misma |
 
-La lección de la cuarta fila es la que más se pregunta en la práctica: si un cortocircuito en un
+La lección de la cuarta fila es la más útil en la práctica: si un cortocircuito en un
 solo circuito apaga todo lo que cuelga de un SAI, el fallo no está en el SAI sino en cómo se eligió
 la protección de ese circuito para la corriente que el inversor puede dar.
 
@@ -1002,7 +1004,7 @@ batería, y el bypass puede traer la red por otro camino.
 - Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para
   baja tensión: artículo 10 del Reglamento (tipos de suministro); ITC-BT-28, apartados 2, 2.1, 2.2,
   2.3, 3, 3.1.1 a 3.1.3 y 4.g (servicios de seguridad, fuentes propias, categorías de conmutación,
-  autonomía del alumbrado de seguridad); ITC-BT-40, apartados 1, 2, 3, 4.1, 4.2, 5, 6, 7, 8.2.1,
+  autonomía del alumbrado de seguridad); ITC-BT-38, apartado 2.2 (sólo para decir que fija otra autonomía); ITC-BT-40, apartados 1, 2, 3, 4.1, 4.2, 5, 6, 7, 8.2.1,
   8.2.2 y 9 (instalaciones generadoras), en la redacción dada por el Real Decreto 244/2019, de 5 de
   abril.
 - Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de
@@ -1046,6 +1048,7 @@ batería, y el bypass puede traer la red por otro camino.
 |---|---|---|
 | Real Decreto 842/2002 (BOE-A-2002-18099), Reglamento, artículo 10, redacción única (vigente desde el 18/09/2003) | Suministros normales y complementarios; socorro, reserva y duplicado; 10.3 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-28, redacción única (vigente desde el 18/09/2003) | Apartado 2 (servicios de seguridad, alimentación automática, cinco categorías de conmutación); 2.1 (fuentes y sus condiciones); 2.2 (fuente propia, 70 %, capacidad mínima); 2.3 (socorro y reserva); 3 (corte breve del alumbrado de emergencia); 3.1.1 a 3.1.3 (autonomía); 4.g (tensión de retorno) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-38, redacción única (vigente desde el 18/09/2003) | Apartado 2.2: el suministro especial complementario de la lámpara de quirófano y los equipos de asistencia vital, con autonomía no inferior a 2 horas | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-40, redacción vigente desde el 07/04/2019 (Real Decreto 244/2019, BOE-A-2019-5089) | Apartados 1, 2, 3, 4.1, 4.2, 5, 6, 7, 8.2.1, 8.2.2 y 9 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 513/2017 (BOE-A-2017-6606), anexo II, redacción vigente desde el 10/05/2025 (BOE-A-2025-7190) | Apartado 1; tabla I, filas de detección y alarma (requisitos generales y fuentes de alimentación) y de abastecimiento de agua | En el BOE consolidado, 05/10/2026 |
 | W. Sölter (AEG SVS Power Supply Systems), «A new International UPS Classification by IEC 62040-3», sobre la 1.ª edición de la norma (1999) | Los tres pasos del código; definiciones de VFD, VI y VFI; la triple clase 1 sólo en VFI | 05/10/2026 |

@@ -6,7 +6,7 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 2 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): artículos 1, 2, 4, 18 a 29 del Reglamento; ITC-BT-04 e ITC-BT-05 enteras; ITC-BT-02 (encabezamiento y notas del listado), ITC-BT-03 (apartados 2 a 5, 7 y apéndice I), ITC-BT-18 (apartados 9 y 12), ITC-BT-19 (apartado 2.9), ITC-BT-24 (apartado 4.1, esquema TT) e ITC-BT-28 (apartados 1 y 2.1). Decreto 59/2005, de 1 de marzo, de la Junta de Andalucía (artículo 5). Lo demás, oficio |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): artículos 1, 2, 4, 6 y 18 a 29 del Reglamento; ITC-BT-04 e ITC-BT-05 enteras; ITC-BT-02 (encabezamiento y notas del listado), ITC-BT-03 (apartados 2 a 5, 7 y apéndice I), ITC-BT-18 (apartados 9 y 12), ITC-BT-19 (apartado 2.9), ITC-BT-24 (apartado 4.1.2, esquema TT), ITC-BT-28 (apartados 1 y 2.1) e ITC-BT-38 (apartado 2.4.2). Decreto 59/2005, de 1 de marzo, de la Junta de Andalucía (artículo 5). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026; última actualización del texto consolidado del Reglamento en el BOE: 18/12/2025). Artículo 2 en la redacción del Real Decreto 298/2021 (vigente desde el 01/07/2021); artículos 18, 20 y 22 e ITC-BT-18 en la del Real Decreto 560/2010 (desde el 23/05/2010); artículo 25 en la del Real Decreto 145/2023 (desde el 01/07/2023); ITC-BT-02 en la de la Resolución de 20 de marzo de 2025 (desde el 04/04/2025); ITC-BT-03 en la del Real Decreto 770/2025 (desde el 04/09/2025); ITC-BT-04 en la del Real Decreto 542/2020 (desde el 01/07/2020); ITC-BT-05 en la del Real Decreto 1053/2014 (desde el 30/06/2015); el resto, en su única redacción (desde el 18/09/2003) |
 | **Extensión** | 15.000 palabras aproximadamente |
 
@@ -116,7 +116,7 @@ BOE asocia al REBT desde 2002 son estas, en orden:
 
 | Norma | Qué toca |
 |---|---|
-| Real Decreto 560/2010 | Artículos 18, 20 y 22; ITC-BT-03; disposiciones adicionales 1.ª a 4.ª (régimen de declaración responsable de las empresas instaladoras) |
+| Real Decreto 560/2010 | Artículos 18, 20 y 22; ITC-BT-03, ITC-BT-04 e ITC-BT-18; disposiciones adicionales 1.ª a 4.ª (régimen de declaración responsable de las empresas instaladoras) |
 | Real Decreto 1053/2014 | ITC-BT-02, 04, 05, 10, 16 y 25, y añade la ITC-BT-52 (recarga del vehículo eléctrico), con efectos de 30 de junio de 2015 |
 | Real Decreto 244/2019 | ITC-BT-40 (instalaciones generadoras, autoconsumo) |
 | Resolución de 9 de enero de 2020 | Listado de normas de la ITC-BT-02 |
@@ -136,10 +136,10 @@ Europeo» sino **Reconocimiento mutuo**; el listado de normas de la ITC-BT-02 es
 2020; y la ITC-BT-03 ya no exige que el instalador esté en plantilla a jornada completa (epígrafe
 1.6).
 
-Aviso sobre un «nuevo REBT»: a la fecha de lectura se ha anunciado en foros profesionales una
-revisión del Reglamento, pero no consta publicada en el BOE. El texto consolidado tiene su última
-actualización el 18 de diciembre de 2025 y no recoge ninguna reforma posterior al Real Decreto
-770/2025. Lo que se estudia es lo publicado.
+Aviso sobre un «nuevo REBT»: a la fecha de lectura no consta en el BOE ninguna reforma del
+Reglamento posterior al Real Decreto 770/2025. El texto consolidado tiene su última actualización
+el 18 de diciembre de 2025. Lo que se estudia es lo publicado; una revisión que se publique después
+no está en este tema.
 
 ### 1.2 El objeto: tres finalidades, y en este orden
 
@@ -194,13 +194,13 @@ según cuándo se hicieron:
 > reducción de potencia.**
 
 Lo que cambió en 2021: antes, el Reglamento sólo alcanzaba a las instalaciones antiguas cuando la
-modificación o reparación era «de importancia»; ahora alcanza a cualquier modificación, reparación o
+modificación o reparación era «de importancia» (o en sus ampliaciones); ahora alcanza a cualquier modificación, reparación o
 ampliación, sea o no de importancia, pero sólo en la parte tocada. La cifra del 50 por 100 sigue, y
 ahora el texto dice para qué sirve: para decidir qué documentación se exige y si hay inspección
 inicial (epígrafes 2.4 y 5.2).
 
 Aplicación: en un edificio de producción con instalación de los años noventa, rehacer un cuadro de
-planta obliga a que ese cuadro y lo que cuelga de él cumplan el REBT de 2002, y a tomar las medidas
+planta obliga a que la parte rehecha cumpla el REBT de 2002, y a tomar las medidas
 para que el conjunto siga siendo seguro; el resto de la instalación se inspecciona con los criterios
 técnicos del reglamento con el que se aprobó.
 
@@ -307,8 +307,10 @@ Sus dos notas generales fijan las fechas: las nuevas normas o ediciones son apli
 día siguiente de la publicación de la Resolución de 20 de marzo de 2025**, y la **Fecha final de
 coexistencia con las normas o ediciones anteriores: 1 de octubre de 2025, salvo cuando haya un
 periodo más prolongado indicado explícitamente para cada norma**. Para las instalaciones en
-ejecución cuando entra una norma nueva, el proyecto o la memoria firmados antes conservan su base
-durante un **plazo máximo de dos años**.
+ejecución cuando entra una norma nueva de instalación, si el proyecto (firmado o visado) o la
+memoria se firmaron, o la licencia de obras se solicitó, antes de la fecha de aplicabilidad, quedan
+exentas y disponen de un **plazo máximo de dos años** para ponerse en servicio con las normas de
+entonces.
 
 Una cautela de lectura: el texto de las ITC cita a menudo normas por su número de 2002 (por
 ejemplo, la ITC-BT-05 manda verificar con la «UNE 20.460-6-61»). El listado de 2025 trae notas que
@@ -399,8 +401,9 @@ septiembre de 2025):
 > para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales
 > permitidas en derecho.**
 
-La redacción anterior exigía un instalador contratado en plantilla a jornada completa; hoy basta
-cualquier modalidad contractual. Afirmar lo de la plantilla a jornada completa es citar redacción
+La redacción anterior exigía, como regla, un instalador contratado en plantilla a jornada completa
+(con salvedades: tiempo parcial si el horario de apertura de la empresa era menor, un socio
+habilitado o el propio autónomo habilitado); hoy basta cualquier modalidad contractual. Afirmar lo de la plantilla a jornada completa es citar redacción
 derogada.
 
 Las obligaciones de la empresa instaladora (apartado 7), que son la otra cara del mantenimiento:
@@ -572,7 +575,7 @@ El artículo 18.1.a) del Reglamento exige que, antes de ejecutar, se elabore **u
 técnica que defina las características de la instalación y que, en función de sus
 características, según determine la correspondiente ITC, revestirá la forma de proyecto o memoria
 técnica.** Esa ITC es la ITC-BT-04, en la redacción del Real Decreto 542/2020, cuyo objeto es
-**determinando la documentación técnica que deben tener las instalaciones para ser legalmente
+desarrollar el artículo 18, **determinando la documentación técnica que deben tener las instalaciones para ser legalmente
 puestas en servicio, así como su tramitación ante el Órgano competente de la Administración.** Su
 regla de partida:
 
@@ -721,8 +724,8 @@ mantenimiento usa a diario:
 > **Cualquier modificación o ampliación requerirá la elaboración de un complemento a lo anterior,
 > en la medida que sea necesario.**
 
-Es el «as built» exigido por el articulado: el unifilar y el croquis de lo realmente ejecutado, que
-se completa con cada cambio.
+Es lo más parecido a un «as built» que exige el articulado: el unifilar y el croquis que se entregan
+con el certificado de instalación, y que se completan con cada cambio.
 
 Lo que sigue es oficio de mantenimiento de instalaciones, no texto de norma. El unifilar es el
 documento central porque es el único que muestra a la vez la topología y la protección: un plano de
@@ -780,7 +783,7 @@ procedimiento de cinco pasos:
 > energía. Las Administraciones competentes deberán facilitar que éstas documentaciones puedan ser
 > presentadas y registradas por procedimientos informáticos o telemáticos.**
 
-En una línea: documentar, ejecutar, verificar, inspeccionar si toca, certificar y registrar. Y tres
+En una línea: documentar antes de ejecutar, verificar, inspeccionar si toca, certificar y registrar. Y tres
 apartados más:
 
 - **2. Las instalaciones eléctricas deberán ser realizadas únicamente por empresas instaladoras.**
@@ -937,8 +940,13 @@ artículo 5.1 del Decreto, en la redacción del Decreto 9/2011
 
 Que la Administración registre no significa que haya revisado la técnica: la responsabilidad sigue
 en quien firma. El artículo 5.3 remite el detalle (documentación y forma de presentación) a una
-orden de la consejería competente en industria y energía; su articulado no se ha leído y este tema
-no lo desarrolla.
+orden de la consejería competente en industria y energía; esa orden no se ha leído y este tema no la
+desarrolla. Salvedad del texto consolidado de la Junta: en las notas a los artículos que reformó el Decreto
+9/2011 (entre ellos, el 3 y el 5) advierte que **la
+aplicación de la presente modificación queda supeditada a la futura aprobación de la Orden relativa
+al procedimiento de instalación, ampliación, traslado y puesta en funcionamiento de los
+establecimientos e instalaciones industriales del Grupo II del presente Decreto**, según la
+disposición final única del Decreto 9/2011.
 
 ## 4. Verificaciones
 
@@ -1031,7 +1039,7 @@ Las condiciones de la medida, todas literales de la ITC:
   conductores tomados dos a dos, comprendiendo el conductor neutro o compensador.**
 
 La regla de los equipos electrónicos es la que más importa en una sala técnica, un control de
-realización o un centro de proceso de datos: uniendo fases y neutro, la tensión de ensayo no se
+realización o un centro de proceso de datos. Lectura de oficio: uniendo fases y neutro, la tensión de ensayo no se
 aplica entre los polos de las fuentes de alimentación electrónicas y sólo se mide el aislamiento
 respecto a tierra.
 
@@ -1043,7 +1051,10 @@ La rigidez dieléctrica (mismo apartado):
 > expresada en voltios y con un mínimo de 1.500 voltios.**
 
 Con U = 400 V, la prueba es de 1.800 V durante un minuto (aritmética; el mínimo de 1.500 V manda
-cuando 2U + 1000 queda por debajo). **Este ensayo no se realizará en instalaciones correspondientes
+cuando 2U + 1000 queda por debajo). Se hace **para cada uno de los conductores incluido el neutro o
+compensador, con relación a tierra y entre conductores, salvo para aquellos materiales en los que se
+justifique que haya sido realizado dicho ensayo previamente por el fabricante**, con los dispositivos
+de interrupción cerrados y los cortacircuitos como en servicio normal. **Este ensayo no se realizará en instalaciones correspondientes
 a locales que presenten riesgo de incendio o explosión.**
 
 Y las fugas:
@@ -1053,10 +1064,11 @@ Y las fugas:
 > presenten los interruptores diferenciales instalados como protección contra los contactos
 > indirectos.**
 
-Éstos son los dos valores que la ITC-BT-04 manda comprobar a la suministradora antes de conectar
-(epígrafe 3.6). Y los dos defectos que les corresponden en la ITC-BT-05 son graves: la **Falta de
-aislamiento de la instalación** y, para la tierra, los **Valores elevados de resistencia de tierra
-en relación con las medidas de seguridad adoptadas.** (epígrafe 5.5).
+Aislamiento y fugas son los dos valores por los que la ITC-BT-04 impide a la suministradora conectar
+cuando, en la verificación que **podrá realizar**, no se cumplen (epígrafe 3.6). Y en la ITC-BT-05
+son defectos graves la **Falta de aislamiento de la instalación** y, en lo que toca a la tierra
+(epígrafe 4.4), los **Valores elevados de resistencia de tierra en relación con las medidas de
+seguridad adoptadas.** (epígrafe 5.5).
 
 ### 4.4 La toma de tierra: qué valor se exige y cómo se mide
 
@@ -1076,8 +1088,8 @@ pues, del diferencial: con U = 50 V, un diferencial de 30 mA admite hasta 50/0,0
 de 300 mA, hasta 50/0,3 ≈ 167 Ω (aritmética de la fórmula, no cifras de la norma). Los esquemas de
 conexión a tierra y las protecciones se estudian en los temas 3 y 5.
 
-El método de medida es oficio (no lo describe el REBT), y es la medida característica del
-electricista:
+El método de medida no lo describe el REBT; es oficio, apoyado en la documentación de fabricante
+(AEMC, método de caída de potencial), y es la medida característica del electricista:
 
 | Paso | Qué se hace |
 |---|---|
@@ -1345,7 +1357,8 @@ facilite su verificación periódica, ensayos y mantenimiento.** (ITC-BT-28, apa
 
 ### 6.2 La revisión de las tomas de tierra
 
-Es la única periodicidad de mantenimiento que el REBT fija con carácter general, y está en la
+Es la periodicidad de mantenimiento de alcance general que fija el REBT (las de quirófanos y salas
+de intervención, en la ITC-BT-38, apartado 2.4.2, son propias de esos locales), y está en la
 ITC-BT-18, apartado 12 (redacción del Real Decreto 560/2010):
 
 > **12. REVISIÓN DE LAS TOMAS DE TIERRA**
@@ -1412,7 +1425,8 @@ una medida en tensión (tema 15).
 Lectura de conjunto (oficio, a partir de los preceptos ya citados):
 
 1. El titular mantiene (artículo 20) y, en las instalaciones que lo requieren, se somete a la
-   inspección periódica de un organismo de control cada cinco años (ITC-BT-05, 4.2).
+   inspección periódica de un organismo de control cada cinco años, o cada diez en las comunes de
+   edificios de viviendas de más de 100 kW (ITC-BT-05, 4.2).
 2. El organismo de control califica con los defectos del apartado 6 de la ITC-BT-05; un defecto
    leve anotado y no corregido antes de la siguiente inspección convierte la calificación en
    condicionada, con un máximo de seis meses para corregir (epígrafe 5.4).
@@ -1435,11 +1449,12 @@ hasta obtener la calificación favorable.
 ## Normativa que el tema invoca
 
 - Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para
-  baja tensión (BOE núm. 224, de 18 de septiembre de 2002): artículo único; artículos 1, 2, 4,
+  baja tensión (BOE núm. 224, de 18 de septiembre de 2002): artículo único; artículos 1, 2, 4, 6,
   18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 y 29 del Reglamento; ITC-BT-02 (encabezamiento y
   notas generales del listado), ITC-BT-03 (apartados 2, 3, 4, 5, 7 y apéndice I), ITC-BT-04
   entera, ITC-BT-05 entera, ITC-BT-18 (apartados 9 y 12), ITC-BT-19 (apartado 2.9), ITC-BT-24
-  (apartado 4.1, esquema TT) e ITC-BT-28 (apartados 1 y 2.1); títulos de las cincuenta y dos ITC.
+  (apartado 4.1.2, esquema TT), ITC-BT-28 (apartados 1 y 2.1) e ITC-BT-38 (apartado 2.4.2); títulos
+  de las cincuenta y dos ITC.
 - Reformas del REBT citadas por su efecto: Reales Decretos 560/2010, 1053/2014, 244/2019,
   542/2020, 298/2021, 450/2022, 145/2023 y 770/2025; Resoluciones de 9 de enero de 2020 y de 20 de
   marzo de 2025 (listado de la ITC-BT-02); Sentencia del Tribunal Supremo de 17 de febrero de 2004.
@@ -1462,8 +1477,8 @@ hasta obtener la calificación favorable.
 - El contenido de la Ley 21/1992, de Industria, y del Real Decreto 2200/1995: sólo se nombran por las
   remisiones del Reglamento.
 - La guía técnica de aplicación del REBT del artículo 29: no se ha consultado.
-- Una revisión del REBT anunciada en foros profesionales: no publicada en el BOE a la fecha de
-  lectura; no se estudia.
+- Cualquier revisión del REBT posterior a la fecha de lectura: a esa fecha no consta publicada en
+  el BOE; no se estudia.
 - Las periodicidades de mantenimiento distintas de las reglamentarias (cinco y diez años de la
   ITC-BT-05; anual y quinquenal de la ITC-BT-18): son del plan de mantenimiento y del fabricante.
 - Cómo organizan la RTVA y CSRTV el mantenimiento de sus instalaciones, qué locales suyos son de
@@ -1482,16 +1497,18 @@ hasta obtener la calificación favorable.
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
 | Real Decreto 842/2002 (BOE-A-2002-18099), artículo único (redacción del Real Decreto 1053/2014) y cadena de redacciones del texto consolidado | Estructura de la norma; reformas y fechas de vigencia; última actualización 18/12/2025 | En el BOE consolidado, 05/10/2026 |
-| Reglamento, artículos 1, 4, 19, 21, 23, 24 y 26 a 29, redacción única (vigente desde el 18/09/2003) | Objeto; clasificación de tensiones; información a los usuarios; inspecciones; mínimos, equivalencias, excepción; normas de referencia; accidentes; infracciones; guía técnica | En el BOE consolidado, 05/10/2026 |
+| Reglamento, artículos 1, 4, 6, 19, 21, 23, 24 y 26 a 29, redacción única (vigente desde el 18/09/2003) | Objeto; clasificación de tensiones; equipos y materiales; información a los usuarios; inspecciones; mínimos, equivalencias, excepción; normas de referencia; accidentes; infracciones; guía técnica | En el BOE consolidado, 05/10/2026 |
 | Reglamento, artículo 2, redacción del Real Decreto 298/2021 (vigente desde el 01/07/2021) | Campo de aplicación, modificaciones de importancia, exclusiones, general y específico, MBT | En el BOE consolidado, 05/10/2026 |
 | Reglamento, artículos 18, 20 y 22, redacción del Real Decreto 560/2010 (vigente desde el 23/05/2010) | Procedimiento de puesta en servicio; mantenimiento; empresas instaladoras | En el BOE consolidado, 05/10/2026 |
 | Reglamento, artículo 25, redacción del Real Decreto 145/2023 (vigente desde el 01/07/2023) | Reconocimiento mutuo | En el BOE consolidado, 05/10/2026 |
 | ITC-BT-02, redacción de la Resolución de 20/03/2025 (vigente desde el 04/04/2025) | Encabezamiento; las dos notas generales de fechas; entrada UNE-HD 60364-6; notas de correspondencia | En el BOE consolidado, 05/10/2026 |
-| ITC-BT-03, redacción del Real Decreto 770/2025 (vigente desde el 04/09/2025) | Apartados 2, 3, 4, 5.1 a 5.9, 7; apéndice I, 1 y 2 | En el BOE consolidado, 05/10/2026 |
+| ITC-BT-03, redacción del Real Decreto 770/2025 (vigente desde el 04/09/2025); y su redacción a 01/09/2025, para el apéndice I.1 anterior | Apartados 2, 3, 4, 5.1 a 5.9, 7; apéndice I, 1 y 2 | En el BOE consolidado, 05/10/2026 |
 | ITC-BT-04, redacción del Real Decreto 542/2020 (vigente desde el 01/07/2020) | Entera | En el BOE consolidado, 05/10/2026 |
 | ITC-BT-05, redacción del Real Decreto 1053/2014 (vigente desde el 30/06/2015); y su redacción a 01/01/2015, para la letra h) | Entera | En el BOE consolidado, 05/10/2026 |
 | ITC-BT-18, redacción del Real Decreto 560/2010 (vigente desde el 23/05/2010) | Apartados 9 y 12 | En el BOE consolidado, 05/10/2026 |
-| ITC-BT-19, ITC-BT-24 e ITC-BT-28, redacción única (vigente desde el 18/09/2003) | 19: apartado 2.9; 24: apartado 4.1 (esquema TT); 28: apartados 1 y 2.1 | En el BOE consolidado, 05/10/2026 |
+| ITC-BT-19, ITC-BT-24, ITC-BT-28 e ITC-BT-38, redacción única (vigente desde el 18/09/2003) | 19: apartado 2.9; 24: apartado 4.1.2 (esquema TT); 28: apartados 1 y 2.1; 38: apartado 2.4.2 | En el BOE consolidado, 05/10/2026 |
+| BOE, datos abiertos: metadatos y análisis del Real Decreto 842/2002 | Última actualización (18/12/2025); lista de reformas posteriores | 05/10/2026 |
+| AEMC Instruments, *Entendiendo las pruebas de resistencia de tierra* (2003), manual de fabricante | Método de caída de potencial: pica de potencial fuera de las áreas de resistencia efectiva, comprobación desplazándola; medida de pinza sin desconectar, que necesita caminos de tierra en paralelo | 05/10/2026 |
 | Encabezamientos de las ITC-BT-01 a 52 | Títulos del mapa | En el BOE consolidado, 05/10/2026 |
 | Decreto 59/2005 (Junta de Andalucía), texto consolidado de la Junta (versión de 17/02/2024) | Artículos 3 y 5, en la redacción del Decreto 9/2011 (vigente desde el 03/02/2011) | 05/10/2026 |
 
@@ -1506,7 +1523,7 @@ agrupación de las ITC en familias y sus tres observaciones; la aplicación de l
 del campo de la ITC-BT-28 a un centro de producción; los documentos gráficos y las reglas de
 documentación del epígrafe 2.5; la lectura de los montajes repetidos aplicada a exteriores; el
 sentido de la regla de los equipos electrónicos en la medida de aislamiento; el método de medida de
-la resistencia de tierra y la pinza de tierra; la lectura de la lista de equipos como índice de lo
+la resistencia de tierra y la pinza de tierra (contrastados con el manual de AEMC); la lectura de la lista de equipos como índice de lo
 que se verifica; las tres lecturas de la lista de defectos; los tipos de mantenimiento, el plan por
 tareas y el estado de la instalación en cada medida; el encaje del epígrafe 6.4 y su ejemplo. Nada
 de eso se ha leído en una norma con esas palabras, y el tema no lo presenta como si lo estuviera.

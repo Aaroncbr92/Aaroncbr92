@@ -7,8 +7,8 @@
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 6 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-09, ITC-BT-28 e ITC-BT-44 (y, de paso, su artículo 20 y la ITC-BT-05). Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior, con sus ITC-EA-02, 04, 05 y 06. Real Decreto 486/1997, de 14 de abril, de lugares de trabajo (artículo 8 y anexo IV). Código Técnico de la Edificación (Real Decreto 314/2006): Documento Básico SUA, sección SUA 4, y Documento Básico HE, sección HE 3. Real Decreto 513/2017, Reglamento de instalaciones de protección contra incendios (anexo I, 15, y anexo II, 8). Lo demás, oficio |
-| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 24/09/2026 (ninguno de los preceptos citados ha cambiado desde 2015, salvo el anexo II del RIPCI, en vigor desde el 10/05/2025, cuyo apartado 8 no cambió). Los Documentos Básicos SUA y HE, en el texto consolidado de 14 de junio de 2022 publicado por el Ministerio, que avisa de que no tiene valor jurídico |
-| **Extensión** | Unas 11.800 palabras |
+| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 24/09/2026 (ninguno de los preceptos citados ha cambiado desde 2015, salvo la ITC-EA-02, que en 2022 sólo recibió una nota sobre una medida temporal ya agotada, y los del RIPCI, en la redacción en vigor desde el 10/05/2025: su anexo I, apartado 15, y su anexo II, apartado 8, no cambiaron; su artículo 22.2 sí). Los Documentos Básicos SUA y HE, en el texto consolidado de 14 de junio de 2022 publicado por el Ministerio, que avisa de que no tiene valor jurídico |
+| **Extensión** | Unas 12.000 palabras |
 
 <!-- /portada -->
 
@@ -27,10 +27,11 @@ depreciación de las superficies del recinto (**FDSR**); índice de deslumbramie
 rendimiento de color (**Ra**); Comisión Internacional de Alumbrado (**CIE**); grado de protección
 de una envolvente frente a sólidos y agua (**IP**) y frente a impactos mecánicos (**IK**); diodo
 emisor de luz (**LED**); Asociación Española de Normalización (**UNE**) y norma europea (**EN**);
-sistema de alimentación ininterrumpida (**SAI**). Unidades: lux (**lx**), candela por metro
+sistema de alimentación ininterrumpida (**SAI**). Unidades: lux, candela por metro
 cuadrado (**cd/m²**), lumen por vatio (**lm/W**, que el reglamento de alumbrado exterior escribe
-«lum/W»), vatio (**W**), kilovatio (**kW**), voltiamperio (**VA**), newton por milímetro cuadrado
-(**N/mm²**), miliamperio (**mA**).
+«lum/W»), vatio (**W**), kilovatio (**kW**), voltiamperio (**VA**), voltio (**V**), kilovoltio (**kV**),
+amperio (**A**), miliamperio (**mA**), hercio (**Hz**), newton por milímetro cuadrado (**N/mm²**),
+candela por kilolumen (**cd/klm**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.27, punto 6):
@@ -142,7 +143,7 @@ artificial cuando no baste, y en ese caso **«preferentemente la iluminación ar
 complementada a su vez con una localizada cuando en zonas concretas se requieran niveles de
 iluminación elevados»**.
 
-La tabla del apartado 3, la única de cifras de la norma:
+La tabla del apartado 3, la única tabla de cifras del anexo IV:
 
 | Zona o parte del lugar de trabajo | Nivel mínimo (lux) |
 | --- | ---: |
@@ -224,7 +225,10 @@ Los apartados 5 y 6 son los que más tocan al electricista:
 > — Real Decreto 486/1997, anexo IV, apartados 5 y 6
 
 El apartado 5 es la razón por la que un edificio técnico que no sea de pública concurrencia también
-necesita alumbrado de emergencia: no por la ITC-BT-28, sino por la norma de lugares de trabajo. La
+necesita alumbrado de emergencia allí donde un fallo del alumbrado normal suponga un riesgo para los
+trabajadores: por la norma de lugares de trabajo, no por la ITC-BT-28 (que, fuera de los locales a los
+que se aplica, sólo exige alumbrado de evacuación en las escaleras de incendios y en las zonas de
+riesgo especial; epígrafe 4.4). La
 «normativa específica» del apartado 6 es, en lo eléctrico, el REBT.
 
 ### 1.4 Las zonas de circulación del edificio
@@ -239,7 +243,7 @@ apartado 1, fija el alumbrado normal de las zonas de circulación:
 >
 > — CTE, DB SUA, sección SUA 4, apartado 1.1 (texto consolidado de 14 de junio de 2022)
 
-Y en los establecimientos de pública concurrencia **«en las que la actividad se desarrolle con un
+Y en las zonas de los establecimientos de uso pública concurrencia **«en las que la actividad se desarrolle con un
 nivel bajo de iluminación, como es el caso de los cines, teatros, auditorios, discotecas, etc.»**,
 **«una iluminación de balizamiento en las rampas y en cada uno de los peldaños de las escaleras»**
 (apartado 1.2). Un plató o un auditorio con público y la sala a oscuras durante la grabación es el
@@ -277,8 +281,8 @@ Tres reglas más del cuadro y de la protección: si el encendido es por interrup
 fotoeléctrico, **«se dispondrá además de un interruptor manual que permita el accionamiento del
 sistema, con independencia de los dispositivos citados»** (apartado 4); **«Las luminarias serán de
 Clase I o de Clase II»** y las de clase I se unen al punto de tierra del soporte con cable
-verde-amarillo de **«sección mínima 2,5 mm2 en cobre»** (apartado 9); y la ITC pide proyectar con
-distintos niveles **«de forma que ésta decrezca durante las horas de menor necesidad de
+verde-amarillo de **«sección mínima 2,5 mm2 en cobre»** (apartado 9); y la ITC pide que, **«siempre que sea posible»**, las instalaciones de alumbrado público se
+proyecten con distintos niveles **«de forma que ésta decrezca durante las horas de menor necesidad de
 iluminación»** (apartado 3), que es la misma idea que el reglamento de alumbrado exterior convierte
 en obligación (epígrafe 3.4).
 
@@ -368,7 +372,7 @@ equipos **«deberán ser garantizados por el fabricante, mediante una declaraci�
 certificación de un laboratorio acreditado»** (ITC-EA-04, 1). Y para los proyectores que iluminan
 superficies horizontales: **«preferentemente proyectores del tipo asimétrico»**, inclinación de la
 intensidad máxima **«inferior a 70º respecto a la vertical»** e intensidad por encima de 85º limitada
-a **«50 cd/klm como máximo»** (ITC-EA-04, 3.1.2). Para fachadas, iluminación **«preferentemente en
+a **«50 cd/klm como máximo»** (ITC-EA-04, 3.1.2). Para fachadas, **«siempre que resulte factible»**, iluminación **«preferentemente en
 sentido descendente»** (3.1.3).
 
 ### 2.3 Las luminarias de emergencia
@@ -526,8 +530,8 @@ potencia instalada»** de las ITC-BT siguientes:
 
 Los seis tipos de alumbrado del apartado 2: **«a) Vial (Funcional y ambiental); b) Específico.
 c) Ornamental; d) Vigilancia y seguridad nocturna e) Señales y anuncios luminosos f) Festivo y
-navideño»**. El perímetro iluminado de un centro de producción es, por su función, de vigilancia y
-seguridad nocturna.
+navideño»**. El perímetro iluminado de un centro de producción encaja, por su función, en el de vigilancia y
+seguridad nocturna (lectura del caso, no lo dice el reglamento).
 
 A qué instalaciones se aplica, del apartado 3:
 
@@ -537,7 +541,7 @@ A qué instalaciones se aplica, del apartado 3:
 | Existentes antes de su entrada en vigor, **«cuando, mediante un estudio de eficiencia energética, la Administración Pública competente lo considere necesario»** | Sí |
 | Existentes con «modificaciones de importancia», que son las que afectan **«a más del 50% de la potencia o luminarias instaladas»**, y sus ampliaciones | Sí |
 
-Ese «o luminarias» es propio de este reglamento: se puede hacer una modificación de importancia
+Ese «o luminarias» importa: se puede hacer una modificación de importancia
 cambiando muchas luminarias aunque la potencia baje, que es lo que ocurre al sustituir luminarias de
 descarga por otras más eficientes.
 
@@ -637,7 +641,8 @@ en tres:
 | **Ambiente o anti-pánico** (3.1.2) | **«evitar todo riesgo de pánico y proporcionar una iluminación ambiente adecuada que permita a los ocupantes identificar y acceder a las rutas de evacuación e identificar obstáculos»** |
 | De **zonas de alto riesgo** (3.1.3) | **«garantizar la seguridad de las personas ocupadas en actividades potencialmente peligrosas o que trabajan en un entorno peligroso»**; **«Permite la interrupción de los trabajos con seguridad para el operador y para los otros ocupantes del local.»** |
 
-La ITC-BT-28 sólo obliga al reemplazamiento en hospitales (apartado 3.3.2). Que un control de
+La ITC-BT-28 sólo obliga al reemplazamiento en recintos sanitarios: salas de intervención, de
+tratamiento intensivo y de curas, paritorios y urgencias (apartado 3.3.2). Que un control de
 continuidad o una sala de emisión tenga alumbrado de reemplazamiento es decisión de proyecto,
 porque allí la actividad no puede pararse; no lo exige la ITC.
 
@@ -724,8 +729,9 @@ ocupación de más de 100 personas»**. Entre los de reunión y trabajo que entr
 prevista es de más de 50 personas»** figuran las **«oficinas con presencia de público»**; y,
 cualquiera que sea su ocupación, las **«Salas de conferencias y congresos»** y los
 **«estacionamientos cerrados y cubiertos para más de 5 vehículos»**. Un auditorio es local de
-espectáculos **«Cualquiera que sea su capacidad de ocupación»**. (El DB SUA calcula la ocupación con
-las densidades del DB SI, que no son las de la ITC; el tema no las da.)
+espectáculos **«Cualquiera que sea su capacidad de ocupación»**. (El DB SUA 4 no dice cómo se cuenta la ocupación; la regla de 0,8 m² es sólo de la ITC. Las
+densidades de ocupación del CTE están en el DB SI, sección SI 3, a la que el propio DB SUA remite en
+su sección SUA 5; el tema no las da.)
 
 Ejemplo. Un plató con gradas tiene 160 m² de superficie útil, sin contar su vestíbulo. Ocupación
 por la ITC-BT-28: 160 / 0,8 = 200 personas. Pasa de 100: alumbrado de seguridad en el recinto
@@ -764,7 +770,7 @@ Salvo los equipos autónomos, las fuentes cumplen cuatro condiciones (2.1): empl
 **«accesible solamente a las personas cualificadas o expertas»**; **«convenientemente ventilado»**; no
 se admiten derivaciones separadas de una red pública **«salvo si se asegura que las dos derivaciones
 no puedan fallar simultáneamente»**; y **«cuando exista una sola fuente para los servicios de
-seguridad, ésta no debe ser utilizada para otros usos»**. Con varias fuentes se pueden compartir si,
+seguridad, ésta no debe ser utilizada para otros usos»**. Si hay varias, pueden servir también como fuentes de reemplazamiento cuando,
 al fallar una, la potencia que queda basta para todos los servicios de seguridad, **«siendo necesario
 generalmente, el corte automático de los equipos no concernientes a la seguridad»**. Además, **«Se
 elegirán preferentemente medidas de protección contra los contactos indirectos sin corte automático
@@ -811,8 +817,9 @@ Complementaria ITC-BT-28»**.
 
 ### 5.1 Por qué se degrada una instalación, y el factor de mantenimiento
 
-La ITC-EA-06 (apartado 1) enumera las causas por las que una instalación de alumbrado pierde luz con
-el tiempo, y valen también para el interior:
+La ITC-EA-06 (apartado 1) enumera, para el alumbrado exterior, las causas más importantes por las que
+una instalación pierde luz con el tiempo (salvo la última, son también las de un alumbrado interior,
+lectura de oficio):
 
 > «**– La baja progresiva del flujo emitido por las lámparas.**
 > **– El ensuciamiento de las lámparas y del sistema óptico de la luminaria.**
@@ -853,8 +860,8 @@ realizado el mantenimiento.»** Una instalación se proyecta para dar más luz d
 estrenarse, para que siga dándola cuando toque limpiar o reponer.
 
 Ejemplo, con valores supuestos. Un vial interior debe mantener 20 lux en servicio. Con FDFL =
-0,90, FSL = 0,95 y FDLU = 0,85, fm = 0,90 × 0,95 × 0,85 ≈ 0,73. Iluminancia inicial: Ei = 20 / 0,73 ≈
-27,4 lux. Si se limpia con menos frecuencia, FDLU baja, fm baja y hay que instalar más luz para
+0,90, FSL = 0,95 y FDLU = 0,85, fm = 0,90 × 0,95 × 0,85 ≈ 0,73. Iluminancia inicial: Ei = 20 / 0,727 ≈
+27,5 lux. Si se limpia con menos frecuencia, FDLU baja, fm baja y hay que instalar más luz para
 cumplir: el mantenimiento entra en el cálculo, no es un añadido.
 
 ### 5.2 El plan de mantenimiento y el registro
@@ -971,9 +978,9 @@ Reglas que el oficio aplica al reponer, con la norma que hay detrás cuando la h
 
 1. Se repone con un modelo que mantenga lo proyectado: potencia, flujo, Ra y tipo de equipo. Una
    luminaria más potente puede romper el VEEI o la potencia máxima del DB HE 3 (epígrafe 3.1); una de
-   peor Ra en una ruta de evacuación puede bajar del 40 del DB SUA. Y si la sustitución alcanza a más
-   del 50 % de las luminarias de un alumbrado exterior, es **«modificación de importancia»** y se le
-   aplica entero el Real Decreto 1890/2008 (epígrafe 3.3).
+   peor Ra en una ruta de evacuación puede bajar del 40 del DB SUA. Y si en un alumbrado exterior de más de 1 kW, anterior al
+   reglamento, la sustitución alcanza a más del 50 % de las luminarias, es **«modificación de
+   importancia»** y se le aplica el Real Decreto 1890/2008 (epígrafe 3.3).
 2. Se trabaja sin tensión, con el procedimiento del tema 15. Antes de tocar un equipo de lámpara de
    descarga, se tiene en cuenta que su condensador puede guardar tensión: la ITC-BT-44 exige que baje
    de **«50 V transcurridos 60 s desde la desconexión del receptor»**, no que desaparezca al instante.
@@ -998,7 +1005,7 @@ la producción (tema 17).
 | Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior y sus ITC-EA-01 a EA-07 (BOE núm. 279, de 19/11/2008) | Artículos 1, 2, 4, 5 y 12; ITC-EA-02, apartados 1, 3.9, 3.10, 5 y 9; ITC-EA-04, apartados 1, 2, 3.1, 5 y 6; ITC-EA-05, apartado 2; ITC-EA-06, apartados 1 a 3 | Vigente el 24/09/2026: redacción única (en vigor desde el 01/04/2009), salvo la ITC-EA-02, con una nota añadida en vigor desde el 10/08/2022 sobre una medida temporal ya agotada |
 | Real Decreto 486/1997, de 14 de abril, disposiciones mínimas de seguridad y salud en los lugares de trabajo (BOE núm. 97, de 23/04/1997) | Artículo 8 y anexo IV | Vigente el 24/09/2026: redacción única (en vigor desde el 23/07/1997) |
 | Real Decreto 314/2006, de 17 de marzo, Código Técnico de la Edificación | Artículo 2 (ámbito); disposición derogatoria única, 1.g (NBE-CPI-96); DB SUA, sección SUA 4; DB HE, sección HE 3 y anejo A (definiciones) | Artículo 2, en la redacción vigente desde el 28/06/2013. Los DB, en el texto consolidado de 14 de junio de 2022 (incorpora el Real Decreto 450/2022), que el Ministerio publica advirtiendo que no tiene valor jurídico |
-| Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios | Anexo I, sección 1.ª, apartado 15; anexo II, apartado 8; artículo 22.2 | Vigente el 24/09/2026: redacción en vigor desde el 10/05/2025 (el apartado 15 y el apartado 8 no cambiaron) |
+| Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios | Anexo I, sección 1.ª, apartado 15; anexo II, apartado 8; artículo 22.2 | Vigente el 24/09/2026: redacción en vigor desde el 10/05/2025 (el apartado 15 y el apartado 8 no cambiaron; el artículo 22.2 sí, y la exención del alumbrado de emergencia es de esa redacción) |
 
 Las normas UNE y EN que el tema nombra (serie UNE-EN 60598, UNE-EN 60598-2-22, UNE 20.392, UNE 20.062,
 UNE-EN 50.200, serie UNE-EN 13201, EN 12464-2:2007) se citan porque las nombran las normas de arriba;
@@ -1006,15 +1013,15 @@ su texto no se ha leído.
 
 ## Lo que este tema no da, y dónde está
 
-- Los niveles de iluminancia, UGR y Ra recomendados por tarea en interiores: están en la norma
-  UNE-EN 12464-1, de pago, no leída. El suelo legal es el anexo IV del Real Decreto 486/1997.
+- Los niveles de iluminancia, UGR y Ra recomendados por tarea en interiores: no están en las normas
+  leídas, sino en normas técnicas UNE-EN de pago, no consultadas. El suelo legal es el anexo IV del Real Decreto 486/1997.
 - Las tablas de valores de referencia del alumbrado vial y específico (ITC-EA-02, tablas 1 a 10), la
   tabla de luminarias de la ITC-EA-04 y los factores de depreciación y supervivencia de la ITC-EA-06
   (tablas 1 a 4): no se reproducen; están en el Real Decreto 1890/2008. La eficiencia mínima del
   alumbrado vial y la etiqueta (ITC-EA-01) y la contaminación luminosa (ITC-EA-03), tampoco.
 - La periodicidad de las pruebas del alumbrado de emergencia y de la sustitución de sus baterías: no
-  la fija ninguna de las normas leídas; está en normas técnicas (la serie UNE-EN 50172 es la que suele
-  citarse) y en la documentación del fabricante, no consultadas.
+  la fija ninguna de las normas leídas; está en normas técnicas y en la documentación del fabricante,
+  no consultadas.
 - Las densidades de ocupación del DB SI con las que el CTE cuenta la ocupación, y la clasificación de
   los locales de riesgo especial (DB SI 1): tema 11.
 - Los requisitos del ecodiseño y del etiquetado energético de las fuentes de luz, el LED como medida
@@ -1041,7 +1048,9 @@ su texto no se ha leído.
 | Real Decreto 513/2017 (BOE-A-2017-6606), BOE consolidado: anexo I, sección 1.ª, apartado 15; anexo II, apartado 8; artículo 22 (redacción vigente desde el 10/05/2025) | Epígrafes 4.5, 5.2 y 5.3 | 05/10/2026 |
 
 El resto va como oficio y así se declara: el mapa de normas del epígrafe 1.1 como ordenación, la
-aplicación del anexo IV al cuadro de una sala técnica, la tabla de zonas de un edificio técnico, la
+aplicación del anexo IV al cuadro de una sala técnica, el comentario del efecto estroboscópico, que
+las causas de degradación de la ITC-EA-06 valgan para el interior, el encaje del perímetro como
+alumbrado de vigilancia, la tabla de zonas de un edificio técnico, la
 lectura de que un plató con público es caso de pública concurrencia o de balizamiento, la exclusión de
 la iluminación escénica del VEEI por analogía, el comportamiento eléctrico del equipo de un LED, la
 explicación de «permanente» y «no permanente», la lectura de que un grupo electrógeno no da por sí

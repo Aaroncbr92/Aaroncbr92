@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 3 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 15.3 y 16 del Reglamento; ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, ITC-BT-28, ITC-BT-34, ITC-BT-47 e ITC-BT-52. Real Decreto 614/2001, anexo IV. Guía técnica del INSST sobre riesgo eléctrico (2020). Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 15.3 y 16 del Reglamento; ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-09, ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, ITC-BT-28, ITC-BT-34, ITC-BT-47 e ITC-BT-52. Real Decreto 614/2001, anexo IV. Guía técnica del INSST sobre riesgo eléctrico (2020). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados del REBT tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo la ITC-BT-02 (listado vigente desde el 04/04/2025) y la ITC-BT-52 (redacción vigente desde el 16/06/2022). El anexo IV del Real Decreto 614/2001 tiene una sola redacción |
-| **Extensión** | Unas 13.800 palabras |
+| **Extensión** | Unas 14.200 palabras |
 
 <!-- /portada -->
 
@@ -133,8 +133,8 @@ con los dispositivos de protección contra sobretensiones de la ITC-BT-23 (epíg
 Confundir las dos primeras es el error conceptual del tema: un magnetotérmico no protege a nadie de
 una electrocución —una corriente de defecto de pocos miliamperios a través de una persona no lo
 hace saltar— y un diferencial no protege el cable de una sobrecarga. Los dos hacen falta y ninguno
-sustituye al otro (oficio; la ITC-BT-17 los exige por separado en todo cuadro general, epígrafe
-1.3).
+sustituye al otro (oficio; la ITC-BT-17 los exige por separado entre los dispositivos generales de
+mando y protección, con la salvedad que recoge para el diferencial general, epígrafe 1.3).
 
 ### 1.2 La aparamenta en la terminología del REBT
 
@@ -257,7 +257,7 @@ incendio y con emisión de humos y opacidad reducida** (apartado 4, letras a y f
 
 ### 1.4 Envolventes, grado de protección y montaje
 
-Las envolventes de los cuadros generales, según la ITC-BT-17, apartado 1.2: **se ajustarán a las
+Las envolventes de los cuadros, según la ITC-BT-17, apartado 1.2: **se ajustarán a las
 normas UNE 20.451 y UNE-EN 60.439-3, con un grado de protección mínimo IP 30 según UNE 20.324 e
 IK07 según UNE-EN 50.102.** El listado vigente de la ITC-BT-02 (Resolución de 20 de marzo de 2025)
 da como referencia actual de la UNE 20.324 la **UNE-EN 60529**, «**Grados de protección
@@ -300,7 +300,8 @@ Lo que el REBT exige a toda envolvente que proteja partes activas (ITC-BT-24, ap
 
 La cara superior de un cuadro pide más grado que sus laterales porque sobre una superficie
 horizontal cae lo que se deja encima; y una tapa que se abre con la mano y deja partes activas a la
-vista incumple (oficio, lectura de la cita).
+vista, sin corte de tensión enclavado con su apertura ni segunda barrera IP2X o IP XXB, incumple
+(oficio, lectura de la cita).
 
 **Identificación de conductores** (ITC-BT-19, apartado 2.2.4): **Cuando exista conductor neutro en
 la instalación o se prevea para un conductor de fase su pase posterior a conductor neutro, se
@@ -343,7 +344,9 @@ permitan conectar y desconectar en carga en una sola maniobra**, entre otros, en
 interior o receptora en su origen, circuitos principales y cuadros secundarios**, en **cualquier
 receptor**, en **todo circuito auxiliar para mando o control, excepto los destinados a la
 tarificación de la energía**, en **las instalaciones de acumuladores** y en **los circuitos de
-salida de generadores** (letras a, b, c, i y j; la lista completa tiene diez letras). Los
+salida de generadores** (letras a, b, c, i y j; la lista completa tiene diez letras, y la letra a) admite exceptuar los
+circuitos de relojes, los de rectificadores para instalaciones telefónicas de no más de 500 VA y los
+de mando o control cuya desconexión impida una función importante para la seguridad). Los
 dispositivos admitidos son **los interruptores manuales**, **los cortacircuitos fusibles de
 accionamiento manual, o cualquier otro sistema aislado que permita estas maniobras siempre que
 tengan poder de corte y de cierre adecuado e independiente del operador**, y **las clavijas de las
@@ -540,7 +543,8 @@ correspondiente**). Lo que más se pregunta de sus notas:
 - El neutro puede quedar sin detección propia **si el conductor de neutro esta protegido contra los
   cortocircuitos por el dispositivo de protección de los conductores de fase y la intensidad
   máxima que recorre el conductor neutro en servicio normal es netamente inferior al valor de
-  intensidad admisible en este conductor** (notas 1 y 5). Con armónicos de orden tres esa
+  intensidad admisible en este conductor** (nota 1; la nota 5 lo dice en forma de salvedad, «salvo
+que…»). Con armónicos de orden tres esa
   condición puede no cumplirse (tema 1, epígrafe 8.3).
 - En TN-C el neutro es también conductor de protección y no se corta (ITC-BT-19, 2.7, ya citada).
 
@@ -609,7 +613,7 @@ Las sensibilidades que se encuentran en un cuadro:
 | Sensibilidad | Valor | Uso | Base |
 |---|---|---|---|
 | Alta | 30 mA o menos | Protección complementaria contra contactos directos; circuitos terminales | ITC-BT-24, 3.5 |
-| Media | Del orden de cientos de miliamperios (300 mA es valor comercial corriente) | Cabeceras de grupos de circuitos, selectividad con los de 30 mA | Oficio; el REBT no fija este valor |
+| Media | Del orden de cientos de miliamperios (300 mA es valor comercial corriente) | Cabeceras de grupos de circuitos, selectividad con los de 30 mA | Oficio en cabeceras; el REBT fija 300 mA como máximo en el alumbrado exterior (ITC-BT-09, 4) |
 | Hasta 500 mA | No más de 500 mA | Cables que alimentan instalaciones temporales en ferias y stands, selectivos con los terminales | ITC-BT-34, 3.2 (recomendación) |
 | Baja | Amperios | Selectividad en cabecera de grandes instalaciones | Oficio |
 
@@ -618,10 +622,19 @@ instalaciones temporales se realice mediante dispositivo diferencial cuya corrie
 residual asignada no supere 500 mA. Estos dispositivos serán selectivos con los dispositivos
 diferenciales de los circuitos terminales.** Y en esas instalaciones, para los equipos accesibles
 al público, **dispositivos diferenciales de corriente diferencial-residual asignada máxima de 30
-mA** (apartado 3.1). Es el caso de una instalación eléctrica temporal en una feria o una muestra
-donde se monte un stand o un plató abierto al público.
+mA** (apartado 3.1). La instrucción se aplica a las instalaciones eléctricas temporales de ferias, exposiciones,
+muestras, stands y manifestaciones análogas (apartado 1).
 
-Dos valores más que el REBT impone con su número: en la recarga de vehículos eléctricos, **cada
+El 300 mA sí tiene número en el REBT en un caso, el alumbrado exterior (ITC-BT-09, apartado 4,
+«Cuadros de protección, medida y control»): **La intensidad de defecto, umbral de desconexión de
+los interruptores diferenciales, que podrán ser de reenganche automático, será como máximo de 300
+mA y la resistencia de puesta a tierra, medida en la puesta en servicio de la instalación, será
+como máximo de 30 Ω. No obstante se admitirán interruptores diferenciales de intensidad máxima de
+500 mA o 1 A, siempre que la resistencia de puesta a tierra medida en la puesta en servicio de la
+instalación sea inferior o igual a 5 Ω y a 1 Ω, respectivamente.** Es la misma lógica del epígrafe
+3.4: cuanto menos sensible el diferencial, más baja la tierra que se exige.
+
+Otros dos lugares donde el REBT fija la sensibilidad: en la recarga de vehículos eléctricos, **cada
 punto de conexión deberá protegerse individualmente mediante un dispositivo de protección
 diferencial de corriente diferencial-residual asignada máxima de 30 mA** (ITC-BT-52, 6.1); y la
 sensibilidad de los diferenciales de un cuadro general **responderá a lo señalado en la
@@ -657,8 +670,7 @@ La lectura de oficio que hay que dar: una instalación llena de electrónica —
 conmutadas, alumbrado electrónico— produce corrientes de defecto que un diferencial de clase AC
 puede no ver. Es la razón de que las clases A se hayan generalizado, y un centro de producción
 audiovisual, con salas de control y racks de equipos con fuente conmutada, es exactamente ese
-caso. El REBT vigente no prohíbe la clase AC (sobre el proyecto de reforma que lo prevé, véase
-«Lo que este tema no da»).
+caso. El REBT vigente no prohíbe la clase AC.
 
 ### 3.4 El diferencial en el corte automático de la alimentación
 
@@ -699,7 +711,8 @@ diferencial de cabecera, más baja tiene que ser la resistencia de tierra. Una t
 ejemplo, no es compatible con un diferencial de 1 A como única protección en condiciones normales.
 
 **Esquema TN** (apartado 4.1.1). Se cumplirá **Zs x Ia ≤ U0**, con el corte en un tiempo máximo que
-la tabla 1 fija en **0,4** s para U0 = 230 V, **0,2** s para 400 V y **0,1** s por encima de 400 V.
+la tabla 1 fija en **0,4** s para U0 = 230 V, **0,2** s para 400 V y **0,1** s por encima de 400 V, salvo las condiciones especiales de la norma UNE 20.460-4-41
+que, según el mismo apartado, permiten tiempos de interrupción mayores.
 En TN un defecto franco fase-masa es, en la práctica, un cortocircuito por el conductor de
 protección, y pueden actuar los automáticos y fusibles si el bucle es suficientemente bajo; si no,
 diferenciales. Dos reglas que se preguntan:
@@ -725,7 +738,11 @@ bucle.
 
 **Esquema IT** (apartado 4.1.3): un primer defecto **es de poca intensidad y no es imperativo el
 corte**; si hay **controlador permanente de primer defecto** debe **activar una señal acústica o
-visual** (epígrafe 6.2), y el segundo defecto se corta con las condiciones del TT o del TN.
+visual** (epígrafe 6.2). Para el segundo defecto, si las masas están puestas a tierra por grupos o
+individualmente, **las condiciones de protección son las del esquema TT, salvo que el neutro no
+debe ponerse a tierra**; si están interconectadas por un conductor de protección, las del TN, con
+las condiciones **2 x Zs x Ia ≤ U** (neutro no distribuido) o **2 x Zs’ x Ia ≤ U0** (neutro
+distribuido) y los tiempos de la tabla 2 de ese apartado 4.1.3.
 
 ### 3.5 Fugas, disparos intempestivos y prueba
 
@@ -743,9 +760,10 @@ transmite a la tierra o a elementos conductores del circuito.** La aplicación d
 técnica: los filtros de red de las fuentes conmutadas derivan a tierra una pequeña corriente
 permanente; muchos equipos en un mismo circuito suman fugas, y un diferencial de 30 mA que cubre
 demasiados equipos dispara sin defecto alguno, sobre todo al conectar. La solución que el
-apartado citado sugiere es subdividir: menos equipos por diferencial, cada uno con su protección.
-Los diferenciales con rearme automático existen y el REBT los nombra para la recarga en vía
-pública (ITC-BT-52, 6.1); no son una solución para las fugas, sino para recuperar el servicio tras
+se desprende del apartado citado es subdividir: menos equipos por diferencial, cada uno con su protección.
+Los diferenciales con rearme automático existen y el REBT los nombra en el alumbrado exterior
+(**podrán ser de reenganche automático**, ITC-BT-09, 4) y en la recarga en vía pública,
+aparcamientos públicos y estaciones de movilidad eléctrica (ITC-BT-52, 6.1); no son una solución para las fugas, sino para recuperar el servicio tras
 un disparo.
 
 El aviso de mantenimiento: un diferencial tiene un botón de prueba y hay que accionarlo
@@ -781,9 +799,9 @@ Lo que lo distingue del automático, de oficio:
 | Poder de corte | Muy alto en poco volumen | Depende del aparato |
 | Corte de las fases | Uno por fase: si funde uno, las demás fases siguen | Corte omnipolar de todas a la vez |
 
-La última fila tiene una consecuencia que el REBT recoge en motores: un fusible fundido en una
-línea trifásica deja al motor funcionando en dos fases. Por eso la protección contra sobrecargas
-del motor ha de ser de tal naturaleza que **cubra, en los motores trifásicos, el riesgo de la
+La última fila tiene una consecuencia en motores (oficio): un fusible fundido en una línea
+trifásica deja al motor funcionando en dos fases. Es uno de los riesgos que cubre la ITC-BT-47 al
+exigir que la protección contra sobrecargas del motor sea de tal naturaleza que **cubra, en los motores trifásicos, el riesgo de la
 falta de tensión en una de sus fases** (ITC-BT-47, 4; epígrafe 6.1).
 
 Datos que se piden al comprar un fusible: calibre, tamaño, clase de servicio y poder de corte. La
@@ -874,7 +892,7 @@ Los dos esquemas elementales que hay que saber dibujar y leer:
 El marcha-paro con realimentación tiene una propiedad de seguridad que conviene saber explicar: si
 falla la tensión, la bobina cae, el contacto de realimentación se abre y, al volver la tensión, el
 motor no arranca solo; hace falta pulsar marcha otra vez. Es la protección contra la falta de
-tensión que la ITC-BT-47 pide cuando el rearranque espontáneo puede causar accidentes (epígrafe
+tensión que la ITC-BT-47 pide cuando el rearranque espontáneo puede causar accidentes o perjudicar el motor (epígrafe
 6.1). Un mando por interruptor de dos posiciones, en cambio, rearranca al volver la tensión
 (oficio).
 
@@ -937,8 +955,8 @@ Con qué se cumple, de oficio:
 
 El relé térmico se regula a la intensidad de la placa del motor y no corta él la potencia: su
 contacto NC, en serie con la bobina, hace caer el contactor. Por eso, si el contactor tiene los
-contactos soldados, el térmico dispara y el motor sigue (oficio). La línea que alimenta un motor
-se dimensiona, además, para el 125 % de su intensidad a plena carga (ITC-BT-47, 3.1; tema 1).
+contactos soldados, el térmico dispara y el motor sigue (oficio). La línea que alimenta un solo
+motor se dimensiona, además, para el 125 % de su intensidad a plena carga (ITC-BT-47, 3.1; tema 1).
 
 ### 6.2 Relés diferenciales y controladores de aislamiento
 
@@ -950,8 +968,8 @@ donde se quiere regular la sensibilidad y el retardo para conseguir selectividad
 
 El **controlador permanente de aislamiento** es el relé del esquema IT: vigila el aislamiento de la
 red respecto a tierra y avisa del primer defecto sin cortar. La ITC-BT-24 lo incluye entre los
-dispositivos del esquema IT, y la ITC-BT-28 lo exige para los servicios de seguridad de los locales
-de pública concurrencia:
+dispositivos del esquema IT, y la ITC-BT-28 lo exige, si el esquema es IT, en los servicios de seguridad de los
+locales de pública concurrencia:
 
 > «**Se elegirán preferentemente medidas de protección contra los contactos indirectos sin corte
 > automático al primer defecto. En el esquema IT debe preverse un controlador permanente de
@@ -1019,8 +1037,8 @@ Y el mismo anexo exige que **las maniobras locales y las mediciones, ensayos y v
 podrán ser realizadas por trabajadores autorizados** (anexo IV, A.1). Las medidas que la guía del
 INSST propone frente al error de maniobra: **dispositivos automáticos de enclavamiento que impidan
 la apertura del seccionador con carga**, resguardos entre el aparato y su mando, accionamiento a
-distancia de los interruptores automáticos y, en los seccionadores de puesta a tierra,
-enclavamientos que impidan accionarlos antes de haber desconectado la fuente.
+distancia de los interruptores automáticos y, en los seccionadores de puesta a tierra y en
+cortocircuito, enclavamientos que impidan accionarlos antes de haber desconectado la fuente.
 
 El seccionador es también la pieza de la consignación: abrir con corte efectivo, bloquear y
 señalizar es la primera de las reglas de oro del tema 15.
@@ -1128,7 +1146,7 @@ continuidad del servicio es función de:
 Y su límite: la instrucción se refiere a **las líneas de alimentación principal 230/400 V en
 corriente alterna, no contemplándose en la misma otros casos como, por ejemplo, la protección de
 señales de medida, control y telecomunicación.** Las líneas de vídeo, audio, datos y antena de un
-centro de producción necesitan su propia protección, que el REBT no regula (tema 8).
+centro de producción necesitan su propia protección, que la ITC-BT-23 no contempla (tema 8).
 
 Distingue dos tipos de sobretensión (apartado 3):
 
@@ -1137,8 +1155,8 @@ Distingue dos tipos de sobretensión (apartado 3):
 > – Las debidas a la influencia de la descarga lejana del rayo, conmutaciones de la red, defectos de
 > red, efectos inductivos, capacitivos, etc.**»
 
-La protección contra el impacto directo del rayo en el edificio (pararrayos) no es materia del
-REBT ni de este tema.
+La protección contra el impacto directo del rayo en el edificio (pararrayos) no la trata la
+ITC-BT-23 ni este tema.
 
 ### 9.2 Categorías y tensión soportada a impulsos
 
@@ -1204,7 +1222,8 @@ de la instalación) o en la instalación eléctrica del edificio** (apartado 3.2
 
 La ITC-BT-23 vigente no exige la protección contra sobretensiones fuera de la situación
 controlada; otras instrucciones la piden en casos particulares, como la recarga de vehículos
-eléctricos (epígrafe 9.5) (sobre el proyecto de reforma que lo prevé, véase «Lo que este tema no da»).
+eléctricos (epígrafes 9.4 y 9.5) o el alumbrado exterior, que protege sus líneas contra
+sobretensiones **cuando los equipos instalados lo precisen** (ITC-BT-09, 4).
 
 ### 9.4 Elección y conexión de los dispositivos
 
@@ -1281,7 +1300,8 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
 - Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para
   baja tensión. Del Reglamento: artículo 15.3 (corrientes de cortocircuito que facilitan las
   compañías) y artículo 16, apartados 2 y 3 (subdivisión; sistemas de protección). De las
-  instrucciones: ITC-BT-01 (terminología); ITC-BT-02 (listado de normas, sólo títulos); ITC-BT-17,
+  instrucciones: ITC-BT-01 (terminología); ITC-BT-09, apartado 4 (diferenciales del alumbrado
+  exterior); ITC-BT-02 (listado de normas, sólo títulos); ITC-BT-17,
   apartados 1.1 a 1.3 (dispositivos generales e individuales de mando y protección); ITC-BT-19,
   apartados 2.2.4, 2.4, 2.6, 2.7 y 2.9 (identificación de conductores, subdivisión, separación,
   corte en carga, fugas); ITC-BT-22, apartados 1.1 y 1.2 (sobreintensidades); ITC-BT-23 entera
@@ -1307,9 +1327,10 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
   en el REBT, que remite a la UNE 20.460-4-43, no leída. El tema las nombra como regla de oficio,
   sin cifras de norma.
 - Las tablas de selectividad y de filiación entre aparatos: son de cada fabricante.
-- Los valores de 300 mA y de amperios para diferenciales de cabecera: son costumbre de oficio; el
-  REBT sólo fija los 30 mA (ITC-BT-24, 3.5; ITC-BT-34; ITC-BT-52) y los 500 mA recomendados de la
-  ITC-BT-34.
+- El uso de 300 mA y de amperios en diferenciales de cabecera de edificios: es costumbre de oficio.
+  El REBT fija 30 mA en varias instrucciones (las citadas aquí son la ITC-BT-24, 3.5, la ITC-BT-34
+  y la ITC-BT-52), recomienda 500 mA en la ITC-BT-34 y sólo da 300 mA, 500 mA y 1 A, ligados a la
+  resistencia de tierra, para el alumbrado exterior (ITC-BT-09, 4).
 - Los diferenciales «superinmunizados» u otras denominaciones comerciales: no constan en el REBT.
 - Los esquemas de conexión a tierra, la puesta a tierra, su medida y las demás medidas contra
   contactos indirectos: tema 5. Las secciones de conductores y el cálculo de la intensidad
@@ -1320,9 +1341,8 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
   los cuadros: tema 12.
 - Los cuadros, la aparamenta, el esquema de conexión a tierra y la acometida de los edificios de
   la RTVA y de CSRTV: no constan en ningún documento publicado.
-- Un proyecto de reforma del REBT anunciado para 2026 por colegios profesionales (diferenciales de
-  clase AC, protección contra sobretensiones obligatoria) no consta publicado en el BOE a la fecha
-  de redacción; no se estudia como vigente.
+- Cualquier reforma del REBT posterior al 18/12/2025: no consta ninguna publicada en el BOE a la
+  fecha de redacción; se estudia sólo la redacción vigente.
 
 ## Trazabilidad
 
@@ -1332,7 +1352,7 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
 | Real Decreto 842/2002, ITC-BT-01, redacción única | Aparamenta, poder de corte, poder de cierre, sobreintensidad, corriente de sobrecarga, cortocircuito franco, corte omnipolar, envolvente, interruptor automático, interruptor diferencial, corriente diferencial residual y de funcionamiento, corriente de fuga, cortacircuito fusible, contactores, nivel de protección | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-02, listado vigente desde el 04/04/2025 (Resolución de 20 de marzo de 2025, BOE-A-2025-6773) | Títulos de las normas UNE-EN 60529 (nota 7), 61439-3, 60898-1, 60947-2, IEC 60947-3, 61008-1, 61009-1, 62423, 60269-1, 61643-11, IEC 63052 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, redacción única | ITC-BT-17, 1.1 a 1.3; ITC-BT-19, 2.2.4, 2.4, 2.6, 2.7 y 2.9; ITC-BT-22, 1.1 y 1.2 (notas de la tabla); ITC-BT-23 entera; ITC-BT-24, 3.2, 3.5, 4.1, 4.1.1, 4.1.2 y 4.1.3 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-28, ITC-BT-34, ITC-BT-47, redacción única | ITC-BT-28, 2.1 y 4 (letras a, b, c, d y f); ITC-BT-34, 3.1 y 3.2; ITC-BT-47, 3.1, 4 y 5 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-09, ITC-BT-28, ITC-BT-34, ITC-BT-47, redacción única | ITC-BT-09, 4; ITC-BT-28, 2.1 y 4 (letras a, b, c, d y f); ITC-BT-34, 3.1 y 3.2; ITC-BT-47, 3.1, 4 y 5 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-52, redacción vigente desde el 16/06/2022 (BOE-A-2022-9848) | Apartados 6.1, 6.3 y 6.4 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 614/2001 (BOE-A-2001-11881), anexo IV, redacción única | Apartados A.1 y B.1 | En el BOE consolidado, 05/10/2026 |
 | INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, 4.ª ed., septiembre de 2020 | Definición de seccionadores e interruptores y medidas frente al error de maniobra (comentario al anexo IV) | 05/10/2026 |

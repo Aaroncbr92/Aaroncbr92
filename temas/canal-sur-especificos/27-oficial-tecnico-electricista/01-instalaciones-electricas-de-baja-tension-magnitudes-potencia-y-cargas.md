@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 2.1, 4 y 16 del Reglamento; ITC-BT-09, ITC-BT-14, ITC-BT-15, ITC-BT-19, ITC-BT-43, ITC-BT-44, ITC-BT-47 e ITC-BT-52. Lo demás es física elemental y oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo el artículo 2 (redacción vigente desde el 01/07/2021) y la ITC-BT-52 (redacción vigente desde el 16/06/2022) |
-| **Extensión** | Unas 9.900 palabras |
+| **Extensión** | Unas 10.000 palabras |
 
 <!-- /portada -->
 
@@ -24,7 +24,7 @@ reactiva (**Q**) y aparente (**S**), energía (**E**), ángulo de desfase (**φ*
 (**cos φ**), frecuencia (**f**), periodo (**T**), caída de tensión (**e** o **ΔU**). Unidades:
 voltio (**V**), amperio (**A**), ohmio (**Ω**), siemens (**S**), henrio (**H**), faradio (**F**),
 hercio (**Hz**), vatio (**W**), kilovatio (**kW**), voltamperio (**VA**, que el REBT escribe también
-«voltiamperio»), voltamperio reactivo (**var**), julio (**J**), kilovatio hora (**kWh**), milímetro
+«voltiamperio»), voltamperio reactivo (**var**), kilovoltamperio (**kVA**) y kilovoltamperio reactivo (**kvar**), julio (**J**), kilovatio hora (**kWh**), milímetro
 cuadrado (**mm²**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
@@ -457,7 +457,7 @@ La energía es la potencia por el tiempo:
 
 E = P · t
 
-En el sistema internacional se mide en julios (vatio por segundo), pero en electricidad se usa el
+En el sistema internacional se mide en julios (un julio es un vatio durante un segundo, W·s), pero en electricidad se usa el
 kilovatio hora: la energía que consume una potencia de 1 kW durante una hora. Un kilovatio hora
 son 1.000 W · 3.600 s = 3.600.000 J, es decir, 3,6 megajulios.
 
@@ -467,7 +467,7 @@ un examen las separa:
 | | Potencia | Energía |
 |---|---|---|
 | Qué expresa | El ritmo al que se consume | Lo consumido en un tiempo |
-| Unidad práctica | KW | KWh |
+| Unidad práctica | kW | kWh |
 | Qué la limita o la registra | El interruptor y la protección del suministro | El contador |
 
 Del mismo modo que hay tres potencias, hay energía activa, en kWh, y energía reactiva, en
@@ -494,7 +494,7 @@ de la sala.
 
 ### 6.1 Qué es y qué consecuencias tiene
 
-El factor DE potencia es el cociente entre la potencia activa y la aparente. Con tensiones y
+El factor de potencia es el cociente entre la potencia activa y la aparente. Con tensiones y
 corrientes senoidales coincide con el coseno del ángulo de desfase, cos φ, y va de 0 a 1: vale 1 en
 una carga resistiva y baja cuanto más reactiva es la carga. Se dice inductivo (o en retraso) cuando
 la corriente va retrasada y capacitivo (o en adelanto) cuando va adelantada.
@@ -573,7 +573,7 @@ Lo que hay que leer en esa cita:
 3. Las dos formas admitidas son la individual o por grupo, con un solo interruptor para receptor y
    condensador, y la global, automática y con la variación limitada a ± 10 % del valor medio.
 4. Los condensadores que puedan quedar separados de su carga llevan resistencias o reactancias de
-   descarga, porque un condensador desconectado conserva su carga y su tensión.
+   descarga a tierra, porque un condensador desconectado conserva su carga y su tensión.
 
 Donde la compensación SÍ es obligatoria es en el alumbrado. La ITC-BT-44, apartado 3.1, para las
 lámparas de descarga:
@@ -623,7 +623,7 @@ con una parte de la tensión. Hay que decir por qué importa, porque no es evide
 
 Una sección se comprueba por dos criterios y se elige la mayor de las dos que resulten: el de
 calentamiento, que depende de la corriente y de cómo está instalado el cable y es materia del tema
-4, y el de caída de tensión, que depende de la corriente Y DE LA longitud. La longitud no influye
+4, y el de caída de tensión, que depende de la corriente y de la longitud. La longitud no influye
 en el calentamiento y sí en la caída: en líneas cortas suele mandar el calentamiento y en líneas
 largas, la caída.
 
@@ -657,7 +657,11 @@ Lo que hay que leer en esa cita, y es lo que un examen busca:
    tanto por ciento de la tensión nominal: el 3 % de 230 V son 6,9 V; el 5 % de 400 V, 20 V.
 3. Se calculan con todo lo que pueda funcionar a la vez («**considerando alimentados todos los
    aparatos de utilización susceptibles de funcionar simultáneamente**»). Ésa es la palabra que
-   decide cuántos amperios se meten en la fórmula.
+   decide cuántos amperios se meten en la fórmula. Y el tercer párrafo del mismo apartado dice
+   cómo se cuentan: «**El número de aparatos susceptibles de funcionar simultáneamente, se
+   determinará en cada caso particular, de acuerdo con las indicaciones incluidas en las
+   instrucciones del presente reglamento y en su defecto con las indicaciones facilitadas por el
+   usuario considerando una utilización racional de los aparatos.**»
 4. La caída puede compensarse con la de la derivación individual: si la derivación cae poco, la
    instalación interior puede caer algo más, con tal de que la suma no supere la suma de los dos
    límites.
@@ -699,7 +703,7 @@ Las dos fórmulas del oficio, que salen de la ley de Ohm y de la geometría del 
 | S | La sección, en milímetros cuadrados |
 
 Y el detalle que hay que saber explicar, porque es la única diferencia entre las dos fórmulas:
-el 2 del monofásico es el camino DE ida Y vuelta —la corriente va por la fase y vuelve por el
+el 2 del monofásico es el camino de ida y vuelta —la corriente va por la fase y vuelve por el
 neutro, y las dos caen—; la raíz de tres del trifásico sale de la composición vectorial de las tres
 fases, y da la caída en la tensión entre fases. Quien entienda eso no confunde las dos.
 
@@ -764,7 +768,8 @@ L = 48 · 2,5 · 6,9 / (2 · 10 · 1) ≈ 41 m. Más allá hay que subir de secc
 ### 7.5 Motores y lámparas de descarga
 
 Dos instrucciones de receptores obligan a calcular la línea por encima de la potencia nominal, y
-eso cambia la corriente que entra en las fórmulas.
+eso cambia la corriente con que se dimensiona. La de motores lo hace por calentamiento: fija las
+secciones mínimas de los conductores de conexión «**con objeto de que no se produzca en ellos un calentamiento excesivo**».
 
 Motores, ITC-BT-47, apartado 3.1, un solo motor:
 
@@ -820,15 +825,17 @@ La ITC-BT-19 lo concreta en su apartado 2.5, «**Equilibrado de cargas**»:
 >
 > — Real Decreto 842/2002, ITC-BT-19, apartado 2.5, redacción única.
 
-Fuera de la instalación interior, la ITC-BT-43, apartado 2.6, limita los receptores que
-desequilibran la red:
+Mirando a la red de distribución, la ITC-BT-43, apartado 2.6, «**Utilización de receptores que
+desequilibren las fases o produzcan fuertes oscilaciones de la potencia absorbida**», dice:
 
 > «**No se podrán instalar sin consentimiento expreso de la Empresa que suministra la energí a,
 > aparatos receptores que produzcan desequilibrios importantes en las distribuciones polifásicas.**»
 >
 > — Real Decreto 842/2002, ITC-BT-43, apartado 2.6, redacción única («energí a», así en el BOE).
 
-Y la instrucción de recarga de vehículos eléctricos lo aplica a un caso concreto. La ITC-BT-52, apartado 3.1: «**Cuando en un circuito trifásico se conecten estaciones
+Y la instrucción de recarga de vehículos eléctricos aplica el reparto entre fases a un caso concreto, el circuito de
+recarga de las viviendas unifamiliares. La ITC-BT-52, apartado 3.1, «**Instalación en aparcamientos de
+viviendas unifamiliares**»: «**Cuando en un circuito trifásico se conecten estaciones
 monofásicas, éstas se repartirán de la forma más equilibrada posible entre las tres fases.**»
 
 Lo que hay que leer en esas citas: el artículo 16.2 manda un resultado («**se alcanzará el máximo
@@ -870,8 +877,8 @@ eso el neutro se trata con el mismo cuidado que una fase.
 ### 8.3 Armónicos, desequilibrio y sección del neutro
 
 En un sistema trifásico equilibrado con cargas lineales, las tres corrientes se anulan en el neutro
-y por él no circula casi nada. Con cargas NO lineales —fuentes conmutadas, alumbrado electrónico,
-variadores— aparecen armónicos de orden tres y múltiplos, y esos NO se anulan: se suman en el
+y por él no circula casi nada. Con cargas no lineales —fuentes conmutadas, alumbrado electrónico,
+variadores— aparecen armónicos de orden tres y múltiplos, y esos no se anulan: se suman en el
 neutro. De ahí que un neutro pueda ir más cargado que las fases, aunque las tres estén
 perfectamente equilibradas.
 
@@ -944,10 +951,10 @@ trifásico es un desequilibrio en sí mismo, que conviene compensar con el resto
   tensiones, tensiones nominales y frecuencia) y artículo 16, apartados 1 y 2 (instalaciones
   interiores o receptoras; equilibrio de cargas). De las instrucciones: ITC-BT-09, apartados 3 y 8
   (alumbrado exterior); ITC-BT-14 (línea general de alimentación: caída de tensión y neutro);
-  ITC-BT-15 (derivaciones individuales: caída de tensión); ITC-BT-19, apartados 2.2.1, 2.2.2, 2.2.4
-  y 2.5 (instalaciones interiores); ITC-BT-43, apartados 2.6 y 2.7 (receptores en general:
+  ITC-BT-15 (derivaciones individuales: caída de tensión); ITC-BT-19, apartados 2.2.1, 2.2.2, 2.2.3,
+  2.2.4 y 2.5 (instalaciones interiores); ITC-BT-43, apartados 2.6 y 2.7 (receptores en general:
   desequilibrios y compensación del factor de potencia); ITC-BT-44, apartados 3.1 y 3.2
-  (receptores para alumbrado); ITC-BT-47, apartados 3.1 y 3.2 (motores); ITC-BT-52, apartado 3.1
+  (receptores para alumbrado); ITC-BT-47, apartado 3 y sus subapartados 3.1 y 3.2 (motores); ITC-BT-52, apartado 3.1
   (recarga de vehículos eléctricos).
 - Normas UNE que esas instrucciones nombran y este tema no ha leído: UNE-EN 60831-1 y UNE-EN 60831-2
   (condensadores de compensación, ITC-BT-43).
@@ -977,8 +984,9 @@ trifásico es un desequilibrio en sí mismo, que conviene compensar con el resto
   monitorización de consumos: tema 16. La consignación para cambiar circuitos de fase: tema 15.
 - Los cuadros, las acometidas, el tipo de suministro y el reparto de cargas de los edificios de la
   RTVA y de CSRTV: no constan en ningún documento publicado.
-- Un proyecto de reforma del REBT anunciado para 2026 por colegios profesionales no consta publicado
-  en el BOE a la fecha de redacción; no se estudia como vigente.
+- Cualquier reforma del REBT posterior a la última actualización del texto consolidado del BOE
+  (18/12/2025): a la fecha de redacción no consta ninguna publicada, y un reglamento anunciado y no
+  publicado no se estudia como vigente.
 
 ## Trazabilidad
 
@@ -986,10 +994,10 @@ trifásico es un desequilibrio en sí mismo, que conviene compensar con el resto
 |---|---|---|
 | Real Decreto 842/2002 (BOE-A-2002-18099), Reglamento, artículo 2, redacción vigente desde el 01/07/2021 (Real Decreto 298/2021, BOE-A-2021-6879) | Apartado 1, límites de tensión | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, Reglamento, artículos 4 y 16, redacción única (vigente desde el 18/09/2003) | Artículo 4, apartados 1, 2, 4 y 5; artículo 16, apartados 1 y 2 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-19, redacción única | Apartados 2.2.1, 2.2.2 (sus cuatro párrafos: límites, compensación, transformador propio, neutro), 2.2.4 y 2.5 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-19, redacción única | Apartados 2.2.1, 2.2.2 (sus cuatro párrafos: límites y compensación; transformador propio; número de aparatos simultáneos; neutro), 2.2.3 (remisión a la UNE 20.460-5-523), 2.2.4 y 2.5 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-09, ITC-BT-14 e ITC-BT-15, redacción única | ITC-BT-09, apartados 3 y 8 (factor de potencia y caída de tensión); ITC-BT-14, caída de tensión y sección del neutro; ITC-BT-15, caída de tensión | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-43, ITC-BT-44 e ITC-BT-47, redacción única | ITC-BT-43, apartados 2.6 y 2.7; ITC-BT-44, apartados 3.1 y 3.2; ITC-BT-47, apartados 3.1 y 3.2 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-52, redacción vigente desde el 16/06/2022 (BOE-A-2022-9848) | Apartado 3.1, reparto de estaciones monofásicas entre fases | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-43, ITC-BT-44 e ITC-BT-47, redacción única | ITC-BT-43, apartados 2.6 y 2.7; ITC-BT-44, apartados 3.1 y 3.2; ITC-BT-47, apartado 3 (frase de entrada), 3.1 y 3.2 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-52, redacción vigente desde el 16/06/2022 (BOE-A-2022-9848) | Apartado 3.1 (aparcamientos de viviendas unifamiliares), reparto de estaciones monofásicas entre fases | En el BOE consolidado, 05/10/2026 |
 
 El BOE consolidado del REBT da como última actualización el 18/12/2025; ninguno de los preceptos
 citados ha cambiado desde las fechas indicadas.

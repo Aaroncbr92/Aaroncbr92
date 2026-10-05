@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-03 (apéndice I), ITC-BT-05, ITC-BT-18, ITC-BT-19 (apartado 2.9) e ITC-BT-24. Real Decreto 614/2001, de 8 de junio, anexos I, II, IV y V. Guía técnica del INSST sobre riesgo eléctrico (2020). Documentación técnica de fabricantes de instrumentos (Fluke, Chauvin Arnoux-AEMC, Circutor, FLIR). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Del REBT: ITC-BT-03 en la redacción del Real Decreto 770/2025 (vigente desde el 04/09/2025; el apéndice I.2, que es el que se cita, no cambió); ITC-BT-05 en la del Real Decreto 1053/2014 (desde el 30/06/2015); ITC-BT-18 en la del Real Decreto 560/2010 (desde el 23/05/2010); ITC-BT-19 e ITC-BT-24, redacción única de 2002 (desde el 18/09/2003). El Real Decreto 614/2001 tiene una sola redacción |
-| **Extensión** | Unas 9.000 palabras |
+| **Extensión** | Unas 13.000 palabras |
 
 <!-- /portada -->
 
@@ -21,10 +21,12 @@ instrumento (**CAT I** a **CAT IV**); verdadero valor eficaz (**TRMS**, *true ro
 interruptor diferencial (**ID**; en la documentación de los fabricantes, **RCD**, *residual current
 device*); muy baja tensión de seguridad y de protección (**MBTS** y **MBTP**); conductor de
 protección (**PE**); esquemas de conexión a tierra (**TT**, **TN**, **IT**); sistema de alimentación
-ininterrumpida (**SAI**); centro de proceso de datos (**CPD**). Magnitudes: corriente
+ininterrumpida (**SAI**); centro de proceso de datos (**CPD**); diodo emisor de luz (**LED**).
+Fluke, Chauvin Arnoux-AEMC, Circutor y FLIR son nombres de fabricantes de instrumentos, y CDB, el
+de un modelo de comprobador. Magnitudes: corriente
 diferencial-residual asignada (**IΔn**), corriente que asegura el funcionamiento del dispositivo
 (**Ia**), resistencia de tierra de las masas (**RA**), tensión de contacto límite convencional
-(**U** o **UL**), impedancia del bucle de defecto (**Zs**), tensión entre fase y tierra (**U0**),
+(**U**), impedancia del bucle de defecto (**Zs**), tensión entre fase y tierra (**U0**),
 resistividad del terreno (**ρ**), factor de potencia y coseno de fi (**cos φ**), emisividad
 (**ε**). Unidades: voltio (**V**), amperio (**A**), miliamperio (**mA**), ohmio (**Ω**),
 megaohmio (**MΩ**), ohmio por metro (**Ω·m**), milisegundo (**ms**), grado Celsius (**°C**),
@@ -59,6 +61,53 @@ TT o comprobar un diferencial con el comprobador de instalaciones.
 
 <!-- indice -->
 
+## Índice
+
+- [1. Medidas eléctricas e instrumentación](#1-medidas-eléctricas-e-instrumentación)
+  - [1.1 Qué es medir y quién puede hacerlo](#11-qué-es-medir-y-quién-puede-hacerlo)
+  - [1.2 Los instrumentos que el REBT exige](#12-los-instrumentos-que-el-rebt-exige)
+  - [1.3 Medir en tensión o sin tensión](#13-medir-en-tensión-o-sin-tensión)
+  - [1.4 La seguridad del propio instrumento: categorías de medida](#14-la-seguridad-del-propio-instrumento-categorías-de-medida)
+  - [1.5 El comprobador de instalaciones: continuidad, bucle y diferenciales](#15-el-comprobador-de-instalaciones-continuidad-bucle-y-diferenciales)
+- [2. Multímetro](#2-multímetro)
+  - [2.1 Qué mide y qué exige el REBT](#21-qué-mide-y-qué-exige-el-rebt)
+  - [2.2 Voltímetro y amperímetro: cómo se conectan](#22-voltímetro-y-amperímetro-cómo-se-conectan)
+  - [2.3 Verdadero valor eficaz](#23-verdadero-valor-eficaz)
+  - [2.4 Resistencia, continuidad y ausencia de tensión](#24-resistencia-continuidad-y-ausencia-de-tensión)
+- [3. Pinza amperimétrica](#3-pinza-amperimétrica)
+  - [3.1 Principio y ventajas](#31-principio-y-ventajas)
+  - [3.2 Tecnologías: alterna y continua](#32-tecnologías-alterna-y-continua)
+  - [3.3 La búsqueda de fugas](#33-la-búsqueda-de-fugas)
+  - [3.4 Equilibrado de fases y corriente de neutro](#34-equilibrado-de-fases-y-corriente-de-neutro)
+  - [3.5 Los transformadores de intensidad](#35-los-transformadores-de-intensidad)
+- [4. Telurómetro](#4-telurómetro)
+  - [4.1 Qué se mide y qué valor se exige](#41-qué-se-mide-y-qué-valor-se-exige)
+  - [4.2 El borne de medida](#42-el-borne-de-medida)
+  - [4.3 El método de caída de potencial](#43-el-método-de-caída-de-potencial)
+  - [4.4 Los dos avisos de método](#44-los-dos-avisos-de-método)
+  - [4.5 La pinza de tierra](#45-la-pinza-de-tierra)
+  - [4.6 La resistividad del terreno](#46-la-resistividad-del-terreno)
+- [5. Medidor de aislamiento](#5-medidor-de-aislamiento)
+  - [5.1 Qué mide y qué valores exige el REBT](#51-qué-mide-y-qué-valores-exige-el-rebt)
+  - [5.2 Cómo se mide](#52-cómo-se-mide)
+  - [5.3 Los circuitos con electrónica](#53-los-circuitos-con-electrónica)
+  - [5.4 Si la lectura sale baja](#54-si-la-lectura-sale-baja)
+  - [5.5 La rigidez dieléctrica](#55-la-rigidez-dieléctrica)
+  - [5.6 La seguridad del ensayo y el histórico](#56-la-seguridad-del-ensayo-y-el-histórico)
+- [6. Analizador de redes](#6-analizador-de-redes)
+  - [6.1 Qué exige el REBT](#61-qué-exige-el-rebt)
+  - [6.2 Qué mide y para qué sirve](#62-qué-mide-y-para-qué-sirve)
+  - [6.3 Conexión y registro](#63-conexión-y-registro)
+- [7. Termografía básica](#7-termografía-básica)
+  - [7.1 Qué es y qué detecta](#71-qué-es-y-qué-detecta)
+  - [7.2 En carga](#72-en-carga)
+  - [7.3 Lo que falsea una lectura](#73-lo-que-falsea-una-lectura)
+  - [7.4 La cámara](#74-la-cámara)
+  - [7.5 Cómo se organiza una inspección termográfica](#75-cómo-se-organiza-una-inspección-termográfica)
+- [Normativa que el tema invoca](#normativa-que-el-tema-invoca)
+- [Lo que este tema no da, y dónde está](#lo-que-este-tema-no-da-y-dónde-está)
+- [Trazabilidad](#trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Medidas eléctricas e instrumentación
@@ -77,11 +126,11 @@ de diferenciales) y el estado térmico (termografía).
 
 Dos consecuencias jurídicas que un tribunal puede preguntar:
 
-1. **Una medición no es un trabajo en tensión.** La definición de trabajo en tensión del mismo
+1. Una medición no es un trabajo en tensión. La definición de trabajo en tensión del mismo
    anexo (apartado 8) termina así: **No se consideran como trabajos en tensión las maniobras y las
    mediciones, ensayos y verificaciones definidas a continuación.** Tienen su propio régimen, el
    del anexo IV.
-2. **Sólo las hace un trabajador autorizado.** Anexo IV, A.1: **Las maniobras locales y las
+2. Sólo las hace un trabajador autorizado. Anexo IV, A.1: **Las maniobras locales y las
    mediciones, ensayos y verificaciones sólo podrán ser realizadas por trabajadores autorizados. En
    el caso de las mediciones, ensayos y verificaciones en instalaciones de alta tensión, deberán ser
    trabajadores cualificados, pudiendo ser auxiliados por trabajadores autorizados, bajo su
@@ -164,6 +213,11 @@ armónicos y de perturbaciones de red;** **– electrodos para la medida del ais
 suelos;** **– aparato comprobador del dispositivo de vigilancia del nivel de aislamiento de los
 quirófanos;**
 
+Para qué los usa la empresa instaladora lo dice la ITC-BT-05: **Las verificaciones previas a la
+puesta en servicio de las instalaciones deberán ser realizadas por las empresas instaladoras que las
+ejecuten** (apartado 2.1), y la instalación se verifica **siguiendo la metodología de la norma UNE
+20.460 -6-61** (apartado 3). Esas verificaciones son del tema 2.
+
 (La referencia «ITC MIE-BT 19» usa la numeración del reglamento anterior a 2002; la medida de
 aislamiento vigente está en la ITC-BT-19, apartado 2.9, y se cita así en todo el tema.)
 
@@ -177,9 +231,9 @@ Cómo se reparte esa lista en este tema:
 | Medidor de aislamiento | 5 |
 | Analizador registrador de potencia y energía; analizador de redes, de armónicos y de perturbaciones | 6 |
 | Verificador de diferenciales, de continuidad y medidor de impedancia de bucle | 1.5 |
-| Luxómetro | Tema 6 (alumbrado de emergencia) |
+| Luxómetro | Tema 6 (los niveles de iluminación que comprueba) |
 
-Dos observaciones de lectura. La primera: la cámara termográfica **no** está en la lista; la
+Dos observaciones de lectura. La primera: la cámara termográfica no está en la lista; la
 termografía es una técnica de mantenimiento, no una exigencia del REBT (epígrafe 7). La segunda:
 la lista fija mínimos para una empresa instaladora; no dice qué instrumentos tiene un servicio de
 mantenimiento propio como el de la RTVA, y ningún documento publicado de la RTVA o de CSRTV lo
@@ -269,41 +323,41 @@ instrumento de un electricista de mantenimiento se elige por el sitio más exige
 medir.
 
 La documentación de Fluke recuerda además por qué la entrada de corriente de un multímetro lleva
-fusible: la impedancia de entrada de un borne de 10 A es del orden de **0,01 ohmios**, frente a
-**10 MΩ** en los bornes de tensión; si las puntas se dejan en el borne de corriente y se aplican a
+fusible: la impedancia de entrada del borne de 10 A de un multímetro Fluke es de **0,01 ohmios**,
+frente a **10 MΩ** en los bornes de tensión; si las puntas se dejan en el borne de corriente y se aplican a
 una tensión, **la baja impedancia de entrada se convierte en un cortocircuito**. De ahí su
 consejo: **Nunca reemplace un fusible quemado con un fusible incorrecto. Utilice sólo los fusibles
 para alta energía especificados por el fabricante.**
 
 ### 1.5 El comprobador de instalaciones: continuidad, bucle y diferenciales
 
-La ITC-BT-03 exige tres equipos que en el mercado suelen ir reunidos en un solo aparato, el
+La ITC-BT-03 exige tres equipos que en el mercado suelen ir reunidos (oficio) en un solo aparato, el
 comprobador multifunción o de instalaciones: el **Equipo verificador de la continuidad de
 conductores**, el **Medidor de impedancia de bucle** y el **Equipo verificador de la sensibilidad
 de disparo de los interruptores diferenciales, capaz de verificar la característica
 intensidad-tiempo**. Cada uno comprueba una condición del REBT.
 
-**Continuidad de los conductores de protección.** Se mide sin tensión, con baja resistencia, entre
+*Continuidad de los conductores de protección.* Se mide sin tensión, con baja resistencia, entre
 el borne de tierra del cuadro y la masa de cada receptor o el contacto de tierra de cada toma.
 Comprueba que la masa está realmente unida al PE: la protección contra contactos indirectos
 depende de ello (tema 5). El valor admisible depende de la longitud y la sección; el REBT no da una
 cifra de continuidad, y el tema tampoco.
 
-**Impedancia de bucle.** En un esquema TN, la condición de corte automático de la ITC-BT-24,
+*Impedancia de bucle.* En un esquema TN, la condición de corte automático de la ITC-BT-24,
 4.1.1, es **Zs x Ia ≤ U0**: la impedancia del bucle de defecto tiene que ser lo bastante baja para
 que la corriente de defecto haga actuar la protección en el tiempo de la tabla 1 (0,4 s para U0 =
 230 V). El medidor de impedancia de bucle mide Zs; la ITC-BT-03 le pide resolución de 0,1 Ω y
 compensación de la resistencia de los cables de prueba, porque en un bucle de pocas décimas de
 ohmio el cable del instrumento falsearía la lectura.
 
-**Diferenciales.** El botón de prueba del diferencial comprueba el mecanismo, no la instalación ni
+*Diferenciales.* El botón de prueba del diferencial comprueba el mecanismo, no la instalación ni
 la tierra (tema 3). El comprobador hace algo distinto: provoca desde la red una fuga real hacia el
 PE y mide. El manual del comprobador de diferenciales CDB de Circutor describe las cuatro medidas
 típicas:
 
 | Medida | Qué hace el comprobador (Circutor, manual CDB) |
 |---|---|
-| Tensión de contacto | Hace circular una fracción de la corriente asignada (**0,45x I∆N**) **a través de la toma de tierra sin sincronización de RCD, y comprobar que no se desconecte el RCD**, y de ahí calcula la tensión de contacto que aparecería con IΔn y la impedancia del bucle de protección |
+| Tensión de contacto | Hace circular una fracción de la corriente asignada (**0,45x I∆N**) **a través de la toma de tierra sin sincronización de RCD, y comprobar que no se desconecte el RCD**; muestra la tensión de contacto y el valor calculado de la impedancia del bucle de protección |
 | Tiempo de disparo a IΔn | Mide el tiempo de disparo con la corriente asignada; el rango del aparato es de **600 ms para el RCD de uso general y en un rango de 1000 ms para el RCD selectivo** |
 | Tiempo de disparo a 5·IΔn | Sólo para diferenciales de 6, 10 y 30 mA; el impulso **dura como máximo 60 ms** |
 | Corriente de disparo (rampa) | **la corriente de prueba I∆ empieza en 0.30 I∆N y va aumentando hasta 1.40 I∆N**: da la sensibilidad real |
@@ -532,7 +586,9 @@ La ITC-BT-18, apartado 9, no fija un número de ohmios: fija lo que la resistenc
 conseguir. **El electrodo se dimensionará de forma que su resistencia de tierra, en cualquier
 circunstancia previsible, no sea superior al valor especificado para ella, en cada caso.** Y ese
 valor **será tal que cualquier masa no pueda dar lugar a tensiones de contacto superiores a:**
-**– 24 V en local o emplazamiento conductor** **– 50 V en los demás casos.**
+**– 24 V en local o emplazamiento conductor** **– 50 V en los demás casos.** Con una salvedad en
+el mismo apartado: si la instalación puede dar tensiones de contacto superiores, **se asegurará la
+rápida eliminación de la falta mediante dispositivos de corte adecuados a la corriente de servicio.**
 
 En un esquema TT (los esquemas, tema 5), la condición se escribe en la ITC-BT-24, apartado
 4.1.2: **RA x Ia ≤ U**, donde **RA es la suma de las resistencias de la toma de tierra y de los
@@ -581,9 +637,9 @@ borne se cierra y se comprueba al terminar (oficio).
 | 5 | Dividir tensión entre corriente: eso es la resistencia |
 
 El telurómetro hace los pasos 3 a 5 por sí solo: genera su corriente y muestra directamente la
-resistencia. Sus bornes suelen rotularse con las letras que usa la documentación de Chauvin
-Arnoux-AEMC: X para el electrodo bajo prueba, Y para la pica de potencial (tensión) y Z para la de
-corriente.
+resistencia. La documentación de Chauvin Arnoux-AEMC llama X al electrodo bajo prueba, Y a la
+pica de potencial (tensión) y Z a la de corriente, y avisa de que otros probadores rotulan esos
+bornes X, P y C (de tres puntos) o C1, P2 y C2 (de cuatro puntos).
 
 Y la regla que hace válida la medida, que es lo que un examen premia: la pica de tensión tiene que
 estar en la zona de potencial nulo, es decir, fuera de la influencia del electrodo y fuera de la de
@@ -640,7 +696,8 @@ años** donde el terreno los conserve mal. En Andalucía, la época más seca es
 hecha en invierno lluvioso da un valor optimista (lectura de oficio).
 
 La guía de AEMC explica por qué: la resistividad del terreno **cambia con las estaciones** y
-depende sobre todo de su contenido de agua y sales disueltas; también de la temperatura.
+depende en gran parte de su contenido de electrolitos (humedad, minerales y sales disueltas);
+también de la temperatura.
 
 ### 4.5 La pinza de tierra
 
@@ -659,7 +716,7 @@ tierra, y **Si la corriente de tierra excede 5A, las medidas de resistencia de t
 posibles**; esa corriente ya es en sí un hallazgo que hay que anotar.
 
 Lo que la lectura incluye: según la misma guía, no sólo la pica, sino también las conexiones y
-uniones del camino hasta el punto de retorno. Una lectura alta puede ser una pica mala, un
+uniones entre la pica y el neutro del sistema. Una lectura alta puede ser una pica mala, un
 conductor de tierra abierto o una unión de alta resistencia.
 
 Cuándo usar cada método (oficio):
@@ -688,9 +745,10 @@ Ejemplo (aritmética): una pica vertical de 2 m da con el telurómetro 50 Ω. Co
 2 = 100 Ω·m. Ese valor sirve para prever cuántas picas o qué longitud harían falta para bajar la
 tierra: con la misma fórmula, una pica de 4 m en ese terreno daría unos 25 Ω.
 
-Las tablas 3 y 4 de la ITC-BT-18 dan resistividades de terrenos **a título de orientación** (por
-ejemplo, terrenos cultivables y fértiles, terraplenes compactos y húmedos, valor medio **50**
-Ω·m; suelos pedregosos desnudos, arenas secas permeables, **3.000** Ω·m).
+La tabla 3 de la ITC-BT-18 da resistividades de terrenos **a título de orientación**, y la tabla 4,
+valores medios para una primera aproximación (por ejemplo, terrenos cultivables y fértiles,
+terraplenes compactos y húmedos, valor medio **50** Ω·m; suelos pedregosos desnudos, arenas secas
+permeables, **3.000** Ω·m).
 
 La resistividad también se mide directamente, con un telurómetro de cuatro bornes, por el método de
 Wenner que describe la guía de AEMC: cuatro electrodos en línea a la misma distancia A; se inyecta
@@ -698,7 +756,7 @@ corriente por los exteriores y se mide la tensión entre los interiores. Si la s
 mayor que la profundidad de clavado (la guía pone la condición **A > 20 B**), la resistividad es
 **ρ = 2π AR**, y representa el terreno hasta una profundidad aproximadamente igual a A. (La guía
 trabaja en centímetros y Ω·cm; con A en metros, ρ sale en Ω·m.) Es la medida previa al proyecto de
-una tierra nueva, por ejemplo la de un centro emisor en terreno rocoso (tema 8, 6.2).
+una tierra nueva, por ejemplo la de un centro emisor (sus tierras, en el tema 8, 6.2).
 
 ## 5. Medidor de aislamiento
 
@@ -728,7 +786,7 @@ siguiente:**
 Una instalación de 230/400 V está en la fila central: se ensaya a 500 V en continua y tiene que
 dar al menos 0,5 MΩ.
 
-**La regla de la longitud.** Los valores de la tabla valen para un tramo limitado: **Este
+*La regla de la longitud.* Los valores de la tabla valen para un tramo limitado: **Este
 aislamiento se entiende para una instalación en la cual la longitud del conjunto de canalizaciones
 y cualquiera que sea el número de conductores que las componen no exceda de 100 metros.** Si es
 mayor y puede fraccionarse **en partes de aproximadamente 100 metros de longitud, bien por
@@ -740,7 +798,7 @@ corresponda, inversamente proporcional a la longitud total, en hectómetros, de 
 Ejemplo (aritmética): una instalación de 230/400 V con 300 m de canalización que no se puede
 fraccionar debe dar al menos 0,5 / 3 ≈ 0,17 MΩ.
 
-**El generador.** **El aislamiento se medirá con relación a tierra y entre conductores, mediante un
+*El generador.* **El aislamiento se medirá con relación a tierra y entre conductores, mediante un
 generador de corriente continua capaz de suministrar las tensiones de ensayo especificadas en la
 tabla anterior con una corriente de 1 mA para una carga igual a la mínima resistencia de
 aislamiento especificada para cada tensión.** Es la exigencia de producto que hace válido un
@@ -856,11 +914,12 @@ el interruptor abierto tiene a un lado la red y al otro el medidor.
 Y una precaución que la guía del INSST añade al terminar: **Cuando se realizan pruebas de
 aislamiento en una instalación, es necesario tener en cuenta que puede quedar cargada a la tensión
 suministrada por el equipo utilizado en las pruebas, debido a las capacidades existentes entre los
-conductores y entre estos y tierra.** Por eso hay que **proceder a su descarga una vez concluidas
-las operaciones**, mediante puesta a tierra y en cortocircuito. Un cable largo ensayado a 500 o
+conductores y entre estos y tierra.** Aunque **en la mayoría de los casos esta carga es muy
+pequeña**, la guía recomienda (**debería tomarse la precaución**) **proceder a su descarga una vez
+concluidas las operaciones**, mediante puesta a tierra y en cortocircuito. Un cable largo ensayado a 500 o
 1000 V se descarga antes de tocarlo.
 
-Como en la termografía y el análisis de red, en mantenimiento la medida de aislamiento vale sobre
+Como en la termografía y el análisis de red (oficio), en mantenimiento la medida de aislamiento vale sobre
 todo por su evolución. Se compara consigo misma a lo largo del tiempo, y por eso lo que la hace útil
 no es la medida: es el histórico. La evolución del aislamiento de cada devanado a masa, medida
 siempre en las mismas condiciones, es una de las medidas que anticipan la avería de un motor; y una
@@ -1007,7 +1066,8 @@ Cómo se corrige, según la misma guía:
   se ajusta la emisividad hasta que la lectura de la superficie coincide con la de la cinta.
 - La reflexión: introduciendo en la cámara la temperatura reflejada, y eligiendo **cuidadosamente
   el ángulo desde el que la cámara termográfica apunta al objeto**. El indicio de un falso punto
-  caliente: **desaparece cuando se cambia ligeramente la ubicación de la cámara**; los verdaderos
+  caliente es que **desaparezca cuando se cambia ligeramente la ubicación de la cámara
+  termográfica**; los verdaderos
   **suelen mostrar un patrón homogéneo, a diferencia de las reflexiones**.
 
 En la práctica (oficio), la medida más fiable en un cuadro no es la temperatura absoluta de una
@@ -1022,8 +1082,9 @@ fusible frío entre dos calientes en una base trifásica es una fase sin corrien
 
 ### 7.4 La cámara
 
-Las tres características que la guía de FLIR manda evaluar, con sus cifras de referencia (de 2011,
-según la propia guía, y de un fabricante; son orientativas, no normativas):
+La guía de FLIR enumera seis requisitos para elegir cámara (resolución, sensibilidad térmica,
+precisión, funciones, software y formación). Los tres que se miden en cifras, con sus valores de
+referencia (de 2011, según la propia guía, y de un fabricante; son orientativos, no normativos):
 
 | Característica | Qué es | Referencia de la guía |
 |---|---|---|
@@ -1057,3 +1118,84 @@ ha desaparecido.
 Ningún documento leído para este tema da criterios numéricos de gravedad (cuántos grados de
 diferencia entre fases obligan a actuar y con qué urgencia); existen en normas y guías de
 asociaciones que el tema no ha leído, y no se dan aquí.
+
+## Normativa que el tema invoca
+
+| Norma | Qué se usa |
+|---|---|
+| Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión | ITC-BT-01 (corriente de fuga); ITC-BT-03, apéndice I, 2.1.2 y 2.2 (equipos de la empresa instaladora); ITC-BT-05, 2.1 y 3 (verificaciones previas por la empresa instaladora y su metodología); ITC-BT-18, 3.3, 9, 12 y tablas 3, 4 y 5 (borne de medida, resistencia de tierra, revisión, resistividades y fórmulas); ITC-BT-19, 2.9 (resistencia de aislamiento, rigidez dieléctrica, fugas); ITC-BT-24, 4.1, 4.1.1 y 4.1.2 (tensión límite convencional, Zs × Ia ≤ U0, RA × Ia ≤ U, selectivo de 1 s) |
+| Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente al riesgo eléctrico | Anexo I, apartados 8, 10, 13 y 14 (definiciones); anexo II, B.3 (condensadores) y B.4.1 (transformadores de intensidad, en alta tensión); anexo IV, A.1 a A.6 y B.2, 2.ª (mediciones, ensayos y verificaciones; fuente de tensión exterior); anexo V, B.1.2 (apertura de envolventes) |
+
+Normas que el tema nombra y no ha leído (sólo se dice de ellas lo que dicen las fuentes leídas):
+UNE 20.460-6-61, metodología de las verificaciones previas según la ITC-BT-05, apartado 3; IEC 61010
+(UNE-EN 61010), seguridad de los instrumentos de medida y sus categorías; UNE-EN 61243-3, detectores
+de tensión bipolares de baja tensión; UNE-EN 61008-1 y UNE-EN 61009-1, interruptores diferenciales.
+
+## Lo que este tema no da, y dónde está
+
+- Los tiempos máximos de disparo de cada clase de diferencial a IΔn, 2·IΔn y 5·IΔn: son de las
+  normas de producto UNE-EN 61008-1 y 61009-1, no leídas. El tema da sólo lo que dice el REBT (1 s
+  como máximo para el selectivo en TT) y lo que hace el comprobador según su manual.
+- Valores de continuidad de los conductores de protección y de impedancia de bucle admisibles en
+  cifras: dependen de cada instalación; el REBT da la condición (Zs × Ia ≤ U0), no un número.
+- Un valor «recomendado» de resistencia de tierra para un edificio: ningún precepto leído lo fija;
+  el tema da la condición de la ITC-BT-24 y su aritmética.
+- Las tablas de distancias de las picas en el método del 62 %: están en la guía de AEMC, en pies y
+  para un electrodo de una pulgada; no se reproducen.
+- Los valores de ensayo de transitorios de cada categoría de medida y las ediciones vigentes de la
+  IEC 61010: norma no leída; el tema da la clasificación según la documentación de Fluke (2003).
+- Los criterios numéricos de gravedad en termografía (diferencias de temperatura entre fases o
+  respecto al ambiente que obligan a actuar): no constan en ningún documento leído.
+- Los límites de calidad de la tensión de suministro (variaciones, huecos, armónicos admisibles):
+  no se han leído; el tema dice qué mide el analizador, no qué valores admite el suministro.
+- Los esquemas de conexión a tierra, el cálculo y la ejecución de la puesta a tierra y la
+  equipotencialidad: tema 5. La protección diferencial, la selectividad y las sobretensiones: tema
+  3. Factor de potencia, equilibrado, armónicos y neutro como fenómenos: tema 1. El luxómetro y la
+  medida del alumbrado de emergencia: tema 6, que da los niveles de iluminación que el luxómetro
+  comprueba (el instrumento no lo describe ningún tema). Las baterías de SAI y grupo: tema 7. La gestión
+  técnica que recoge las medidas fijas: tema 12. La organización del mantenimiento predictivo,
+  gamas y órdenes de trabajo: tema 13. Las cinco reglas de oro y la consignación: tema 15. Los
+  consumos y la eficiencia: tema 16. Las ventanas de intervención: tema 17. La verificación previa a
+  la puesta en servicio, las inspecciones y la documentación: tema 2.
+- Los instrumentos de que dispone el servicio de mantenimiento de la RTVA y de CSRTV, sus
+  procedimientos de medida y su plan de termografía: no constan en ningún documento publicado.
+
+## Trazabilidad
+
+| Fuente | Qué se ha tomado | Leída |
+|---|---|---|
+| Real Decreto 842/2002 (BOE-A-2002-18099), ITC-BT-01, redacción única | Definición de corriente de fuga en una instalación | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-03, redacción del Real Decreto 770/2025 (BOE-A-2025-17507), vigente desde el 04/09/2025; el apéndice I.2 no cambió | Apéndice I, 2.1.2 y 2.2 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-05, redacción del Real Decreto 1053/2014, vigente desde el 30/06/2015 | Apartados 2.1 y 3 (epígrafe 1.2) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-18, redacción del Real Decreto 560/2010, vigente desde el 23/05/2010 | Apartados 3.3, 9 (con tablas 3, 4 y 5) y 12 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-19, redacción única (vigente desde el 18/09/2003) | Apartado 2.9 entero | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-24, redacción única | Apartados 4.1, 4.1.1 (tabla 1) y 4.1.2 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 614/2001 (BOE-A-2001-11881), redacción única | Anexo I, 8, 10, 13 y 14; anexo II, B.3 y B.4.1; anexo IV, A.1 a A.6 y B.2; anexo V, B.1.2 | En el BOE consolidado, 05/10/2026 |
+| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, Madrid, septiembre de 2020 | Comentarios al anexo IV (procedimiento de las pruebas, descarga tras el ensayo de aislamiento) y a la verificación de ausencia de tensión (detectores, UNE-EN 61243-3) | 05/10/2026 |
+| Fluke Corporation, *El ABC de la seguridad en las mediciones eléctricas*, 2003 (Pub-ID 10046-spa) | Categorías de medida, reglas de elección, fusibles, comprobación en tres pasos | 05/10/2026 |
+| Circutor, *Comprobador de diferenciales CDB (M80450). Manual de instrucciones* (M98126001-01) | Medidas del comprobador: tensión de contacto, tiempo de disparo, rampa; criterio de disparo | 05/10/2026 |
+| Chauvin Arnoux-AEMC Instruments, *Entendiendo pruebas de resistencia de tierra*, 2003 | Método de caída de potencial y del 62 %, pinza de tierra, método de Wenner, variación estacional | 05/10/2026 |
+| FLIR Systems, *Guía informativa del uso de cámaras termográficas en aplicaciones industriales*, 2011 (T820264) | Fallos detectables, inspección en carga, factores de medida, características de la cámara, pasos de la inspección | 05/10/2026 |
+
+El BOE consolidado del REBT da como última actualización el 18/12/2025; ninguno de los preceptos
+citados ha cambiado desde las fechas indicadas, y ninguno cambió entre el 24/09/2026 y la fecha de
+lectura.
+
+Las fuentes de fabricante son documentación técnica, no norma: se citan como tal, con su fecha, y
+sus cifras de producto (rangos del comprobador, resolución y precisión de cámaras, frecuencia de la
+pinza de tierra) describen esos aparatos, no un requisito.
+
+Son física elemental u oficio, y así se declaran, sin atribuirlos a la norma: la decisión previa
+entre medir en tensión o sin tensión y el cuadro de estados de cada medida; la lectura de las
+categorías de medida aplicada a los cuadros de un centro de producción; las funciones del
+multímetro y sus reglas de manejo; la conexión de voltímetro y amperímetro y el error del
+amperímetro en paralelo; la trampa del valor medio rectificado y la necesidad del verdadero valor
+eficaz; el uso del detector frente al multímetro para la ausencia de tensión; los rasgos y las
+tecnologías de la pinza; el procedimiento de búsqueda de fugas; la lectura de las corrientes de
+fase y neutro; la razón física de cortocircuitar el secundario de un transformador de intensidad en
+baja tensión; la aritmética de RA máxima, de la resistividad y de la regla de los 100 m; la zona de
+potencial nulo y su comprobación; los dos avisos de método de la medida de tierras; la elección
+entre picas y pinza; la lectura de las dos medidas de aislamiento y de los circuitos electrónicos;
+el método de búsqueda de un aislamiento bajo; el valor del histórico; la conexión y el registro del
+analizador; la comparación entre elementos iguales en termografía; y la aplicación a los cuadros de
+la casa. Nada de eso lo dice la norma con esas palabras, y el tema no lo presenta como si lo dijera.

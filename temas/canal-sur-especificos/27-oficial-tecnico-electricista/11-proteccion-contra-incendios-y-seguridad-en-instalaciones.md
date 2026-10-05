@@ -6,7 +6,7 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 11 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): artículos 1, 2, 9, 19 a 22, anexo I (secciones 1.ª y 2.ª y apéndice) y anexo II. Real Decreto 164/2025, de 4 de marzo (BOE-A-2025-7190): disposición derogatoria única, disposición transitoria sexta y artículos 1 y 2 del Reglamento que aprueba. Real Decreto 314/2006, Código Técnico de la Edificación (BOE-A-2006-5515): artículo 11, y su Documento Básico SI (texto consolidado de 4 de marzo de 2025). Ley 31/1995 (BOE-A-1995-24292): artículos 18.1.c), 20 y 33.1.c). Real Decreto 486/1997 (BOE-A-1997-8669): anexo I, apartados 10, 11 y 12. Real Decreto 485/1997 (BOE-A-1997-8668): anexos II y III. Real Decreto 393/2007, Norma Básica de Autoprotección (BOE-A-2007-6237), y Real Decreto 524/2023 (BOE-A-2023-14679): disposición derogatoria única. Real Decreto 842/2002, REBT (BOE-A-2002-18099): ITC-BT-28, apartado 4. Nota técnica de prevención NTP 536 del INSST. Lo demás, oficio |
+| **Fuente** | Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): artículos 1, 2, 9, 19 a 22, anexo I (secciones 1.ª y 2.ª y apéndice) y anexo II. Real Decreto 164/2025, de 4 de marzo (BOE-A-2025-7190): disposición derogatoria única, disposiciones transitorias primera y sexta, disposición final duodécima y artículos 1 y 2 del Reglamento que aprueba. Real Decreto 314/2006, Código Técnico de la Edificación (BOE-A-2006-5515): artículo 11, y su Documento Básico SI (texto consolidado de 4 de marzo de 2025). Ley 31/1995 (BOE-A-1995-24292): artículos 18.1.c), 20 y 33.1.c). Real Decreto 486/1997 (BOE-A-1997-8669): anexo I, apartados 10, 11 y 12. Real Decreto 485/1997 (BOE-A-1997-8668): anexos II y III. Real Decreto 393/2007, Norma Básica de Autoprotección (BOE-A-2007-6237), y Real Decreto 524/2023 (BOE-A-2023-14679): disposición derogatoria única. Real Decreto 842/2002, REBT (BOE-A-2002-18099): ITC-BT-28, apartado 4. Nota técnica de prevención NTP 536 del INSST. Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026). Del Reglamento de instalaciones de protección contra incendios, los artículos 9, 20 y 22, el anexo I y el anexo II en la redacción dada por el Real Decreto 164/2025 (vigente desde el 10/05/2025); los artículos 1, 2, 19 y 21, en su única redacción (vigente desde el 12/12/2017). Del Documento Básico SI, el texto consolidado de 4 de marzo de 2025, que incluye el Real Decreto 164/2025 |
 | **Extensión** | 12.900 palabras aproximadamente |
 
@@ -17,6 +17,7 @@ Andalucía (**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Reglamen
 de protección contra incendios (**RIPCI**); Reglamento de seguridad contra incendios en los
 establecimientos industriales (**RSCIEI**); Código Técnico de la Edificación (**CTE**) y su
 Documento Básico de seguridad en caso de incendio (**DB SI**), con sus secciones SI 1 a SI 6;
+Boletín Oficial del Estado (**BOE**) y Boletín Oficial de la Junta de Andalucía (**BOJA**);
 Reglamento electrotécnico para baja tensión (**REBT**) y sus instrucciones técnicas
 complementarias (**ITC-BT**); Reglamento de instalaciones térmicas en los edificios (**RITE**);
 boca de incendio equipada (**BIE**); equipo de control e indicación, la central de incendios
@@ -24,13 +25,11 @@ boca de incendio equipada (**BIE**); equipo de control e indicación, la central
 españolas de la Asociación Española de Normalización (**UNE**), las europeas que adoptan (**EN**,
 **UNE-EN**) y las internacionales (**ISO**); marcado de conformidad europea (**CE**); Instituto
 Nacional de Seguridad y Salud en el Trabajo (**INSST**) y su colección de notas técnicas de
-prevención (**NTP**); sistema de gestión técnica del edificio (**BMS**, del inglés *building
-management system*, tema 12); centro de proceso de datos (**CPD**); sistema de alimentación
-ininterrumpida (**SAI**, tema 7); climatización, calefacción y ventilación (**HVAC**, del inglés
-*heating, ventilation and air conditioning*); dióxido de carbono o anhídrido carbónico (**CO₂**);
+prevención (**NTP**); centro de proceso de datos (**CPD**); sistema de alimentación
+ininterrumpida (**SAI**, tema 7); dióxido de carbono o anhídrido carbónico (**CO₂**);
 metro (**m**), metro cuadrado (**m²**), metro cúbico (**m³**), milímetro (**mm**), centímetro
-(**cm**), kilogramo (**kg**), litro por minuto (**l/min**), bar y kilopascal (**kPa**),
-kilovoltamperio (**kVA**), kilovatio (**kW**), megajulio (**MJ**), decibelio ponderado A
+(**cm**), kilogramo (**kg**), bar y kilopascal (**kPa**),
+kilovoltamperio (**kVA**), decibelio ponderado A
 (**dB(A)**) y grado Celsius (**ºC**). La resistencia al fuego se expresa con las letras del DB SI:
 **R** (capacidad portante), **E** (integridad) e **I** (aislamiento), seguidas de los minutos, y **EI** es integridad y aislamiento a la vez;
 **EI2 t-C5** es la clasificación de las puertas que el DB SI pide entre sectores.
@@ -152,7 +151,9 @@ mes de su publicación**», que fue el 10 de abril). Su ámbito son «**los esta
 industriales, entendiendo como tales a aquellos cuyo uso principal es industrial**» (artículo 2.1
 del nuevo Reglamento). Los establecimientos industriales que ya existían siguen con la
 reglamentación anterior, salvo en funcionamiento y mantenimiento, inspecciones, actuación en caso
-de incendio y régimen sancionador (disposición transitoria primera). La lectura para este puesto:
+de incendio y régimen sancionador, que se les aplican a los seis meses de la entrada en vigor, y
+salvo que se amplíen, se reformen aumentando superficie o riesgo o cambien de actividad, en cuyo
+caso el nuevo Reglamento se aplica a la parte afectada (disposición transitoria primera). La lectura para este puesto:
 los edificios de la RTVA (oficinas, platós, estudios, salas técnicas) no son de uso industrial, así
 que su norma de diseño es el DB SI, y el RIPCI rige sus equipos. Este tema no desarrolla el nuevo
 Reglamento industrial.
@@ -182,9 +183,10 @@ número:
 | SI 6 · Resistencia estructural al incendio | «**la estructura portante mantendrá su resistencia al fuego durante el tiempo necesario para que puedan cumplirse las anteriores exigencias básicas**» |
 
 El objetivo del requisito, artículo 11.1, es reducir a límites aceptables el riesgo de daños
-«**derivados de un incendio de origen accidental**». Las seis rúbricas del enunciado caen en dos de
-esas exigencias: detección, alarmas, extinción y señalización, en la SI 4; la sectorización, en
-la SI 1.
+«**derivados de un incendio de origen accidental**». Cinco de las seis rúbricas del enunciado caen
+en dos de esas exigencias: detección, alarmas, extinción y señalización, en la SI 4; la
+sectorización, en la SI 1. La sexta, la coordinación con planes de emergencia, no es del CTE
+(epígrafe 7).
 
 ### 1.3 Quién instala, quién mantiene y a quién obliga
 
@@ -201,12 +203,13 @@ aquí: los extintores, que colocan empresas instaladoras de sistemas de protecci
 o mantenedoras de extintores, y que «**Cuando la superficie del establecimiento no sea mayor de 100
 m2 o se trate de una vivienda unifamiliar, también podrán ser colocados por la persona usuaria**»;
 y los planos de evacuación, que también puede colocar la persona usuaria. Las mantas ignífugas
-siguen la misma regla que los extintores; la cuarta excepción son los sistemas que forman parte de
+tienen una regla análoga a la de los extintores (empresas instaladoras o mantenedoras, y la
+persona usuaria en los mismos dos casos); la cuarta excepción son los sistemas que forman parte de
 máquinas como los aerogeneradores.
 
 La consecuencia práctica para el electricista de mantenimiento de la RTVA: no instala sistemas de
 protección contra incendios por su cuenta. Sí puede hacer las operaciones de mantenimiento que el
-anexo II reserva al usuario o titular (1.5).
+anexo II permite hacer al personal del usuario o titular (1.5).
 
 ### 1.4 Puesta en servicio
 
@@ -243,15 +246,16 @@ Las reglas del anexo II que deciden quién hace qué:
 | Regla | Qué dice el anexo II |
 |---|---|
 | Programa | «**Los equipos y sistemas de protección activa contra incendios, se someterán al programa de mantenimiento establecido por el fabricante. Como mínimo, se realizarán las operaciones que se establecen en las tablas I y II.**» (apartado 1). La señalización luminiscente, a la tabla III (apartado 2) |
-| Tablas I y III (trimestrales, semestrales y la de señalización) | Las puede hacer «**personal del fabricante o de la empresa mantenedora**» o bien «**el personal del usuario o titular de la instalación**» (apartado 3) |
-| Tabla II (anuales y quinquenales) | Sólo «**personal del fabricante o de la empresa mantenedora**» (apartado 4) |
+| Tablas I y III (trimestrales, semestrales y la de señalización) | Las puede hacer «**personal del fabricante o de la empresa mantenedora, si cumplen con los requisitos establecidos en el artículo 16 del presente Reglamento**» o bien «**el personal del usuario o titular de la instalación**» (apartado 3) |
+| Tabla II (anuales y quinquenales) | Sólo «**personal del fabricante o de la empresa mantenedora, si cumplen con los requisitos establecidos en el artículo 16 del presente Reglamento**» (apartado 4) |
 | Constancia documental | Empresa y titular la conservan «**al menos durante cinco años**» (apartado 6) |
 | Alumbrado de emergencia | «**la instalación deberá ser mantenida, según lo establecido en el Reglamento Electrotécnico para Baja Tensión**» (apartado 8; tema 6) |
 | Conexión remota | «**En los sistemas de detección, alarma y extinción, se acepta la conexión remota a un centro de gestión de servicios de mantenimiento.**» Ese centro «**deberá pertenecer a una empresa mantenedora de protección contra incendios debidamente habilitada**» (apartado 10) |
 
 Cuando las operaciones de las tablas I y III las hace el propio usuario o titular, el acta no tiene
-que seguir la serie de normas UNE 23580: basta con el contenido mínimo del apartado 5, y la firman
-quien hizo las operaciones y el representante de la propiedad. Ésa es la puerta por la que el
+que seguir la serie de normas UNE 23580: basta con el contenido mínimo del apartado 5 (con los
+datos del último mantenimiento y de quien hizo las operaciones en lugar de los de la empresa
+mantenedora), y la firman quien hizo las operaciones y el representante de la propiedad. Ésa es la puerta por la que el
 personal técnico de la casa hace la revisión trimestral; la anual y la quinquenal son siempre de
 mantenedora habilitada o del fabricante.
 
@@ -309,12 +313,14 @@ transitoria sexta fija los plazos:
   referencias a normas UNE. Durante ese periodo «**se podrán fabricar, comercializar e instalar
   tanto equipos o sistemas que cumplan con los nuevos requisitos como los vigentes con
   anterioridad**». Con entrada en vigor el 10 de mayo de 2025, el plazo llega al 10 de mayo de 2027.
-- Lo ya instalado: «**únicamente les serán de aplicación aquellas nuevas disposiciones relativas a
+  Para los sistemas fijos de extinción en cocinas comerciales el plazo es de cinco años.
+- Lo ya instalado (o con licencia de obra solicitada) antes de la entrada en vigor, o instalado
+  dentro de ese plazo transitorio: «**únicamente les serán de aplicación aquellas nuevas disposiciones relativas a
   su mantenimiento e inspección**», y el mantenimiento modificado debía empezar a hacerse «**en un
   plazo máximo de un año**» desde la entrada en vigor.
 - El resto de modificaciones, obligatorias «**a partir de seis meses desde la entrada en vigor**».
 
-La consecuencia práctica: en los edificios de la RTVA conviven hoy BIE diseñadas con los requisitos
+La consecuencia práctica: en un mismo edificio pueden convivir BIE diseñadas con los requisitos
 anteriores a 2025 y BIE con los nuevos (4.5), pero todas se mantienen ya con el anexo II vigente.
 
 ## 2. Detección
@@ -438,7 +444,9 @@ una vida útil, esta se considerará de 10 años desde su puesta en servicio.**�
 sustituyen, «**salvo que se verifique que su estado de funcionamiento (fiabilidad, sensibilidad,
 tiempo de respuesta y estado de los componentes internos) sigue siendo apto para el servicio**»;
 esa verificación se repite «**cada 5 años sucesivamente, tomando una muestra de unidades
-representativa**».
+representativa**». Para los detectores instalados antes de la publicación del Real Decreto
+513/2017 sin vida útil fijada por el fabricante, la verificación empieza cuando llevan diez o más
+años en funcionamiento.
 
 Lo que toca al electricista, en la práctica:
 
@@ -544,7 +552,7 @@ derogado. Vale como doctrina técnica del INSST, no como norma vigente:
 
 | Agente extintor | A (sólidos) | B (líquidos) | C (gases) | D (metales) |
 | --- | --- | --- | --- | --- |
-| Agua pulverizada | Muy adecuado | Aceptable (2) | — | — |
+| Agua pulverizada | Muy adecuado (2) | Aceptable | — | — |
 | Agua a chorro | Adecuado (2) | — | — | — |
 | Polvo BC (convencional) | — | Muy adecuado | Adecuado | — |
 | Polvo ABC (polivalente) | Adecuado | Adecuado | Adecuado | — |
@@ -600,8 +608,7 @@ extintor portátil (apartado 4.6).
 La etiqueta, con el ejemplo de la NTP 536: un extintor «6 kg Polvo ABC — 21A 113B C» es de «**6 kg.
 de masa total (suma de las masas de los agentes extintor e impulsor y la del recipiente)**»; su
 agente es «**polvo polivalente antibrasa ABC a base de fosfatos que extingue fuegos de las clases A
-(sólidos), B (líquidos) y C (gases)**», con las eficacias 21A, 113B y C «**según la norma
-UNE23110**», que especifica «**el tamaño y clase de fuego que es capaz de extinguir**». La parte
+(sólidos), B (líquidos) y C (gases)**», con las eficacias 21A, 113B y C «**según la norma UNE-23110**», que especifica «**el tamaño y clase de fuego que es capaz de extinguir**». La parte
 numérica del código indica el tamaño del fuego; la letra, la clase.
 
 Modo de empleo, como lo recogen las etiquetas de la NTP: quitar el pasador de seguridad tirando de
@@ -617,7 +624,7 @@ cm y 120 cm sobre el suelo.**» Y la distancia: «**Su distribución será tal q
 horizontal, desde cualquier punto del sector de incendio, que deba ser considerado origen de
 evacuación, hasta el extintor, no supere 15 m.**»
 
-El DB SI dice lo mismo y añade la eficacia (SI 4, tabla 1.1, «En general»): extintores portátiles,
+El DB SI repite los 15 m y añade la eficacia (SI 4, tabla 1.1, «En general»): extintores portátiles,
 «**Uno de eficacia 21A -113B**», «**A 15 m de recorrido en cada planta, como máximo, desde todo
 origen de evacuación.**» y en las zonas de riesgo especial. Para éstas, la nota (1): «**Un extintor
 en el exterior del local o de la zona y próximo a la puerta de acceso, el cual podrá servir
@@ -847,9 +854,10 @@ a través de un vestíbulo de independencia y de dos puertas.**» Por ejemplo, e
 puerta es EI2 30-C5.
 
 La sectorización se pierde con una puerta cortafuegos calzada o con un retenedor que no la suelta.
-Los retenedores electromagnéticos de esas puertas y las compuertas cortafuego de los conductos de
-climatización los gobierna la central de incendios: son las maniobras «**compuertas cortafuego**»
-que la tabla II del anexo II del RIPCI manda comprobar cada año (2.5). Si al reponer un circuito
+Las compuertas cortafuego de los conductos de climatización y, donde los hay, los retenedores
+electromagnéticos de esas puertas los gobierna la central de incendios (oficio): las compuertas son
+una de las maniobras que la tabla II del anexo II del RIPCI manda comprobar cada año, y los
+retenedores entran en «**otras partes del sistema de protección contra incendios**» (2.5). Si al reponer un circuito
 o un SAI las puertas no se liberan o las compuertas no cierran, la avería es de sectorización, no
 sólo eléctrica (oficio).
 
@@ -989,9 +997,11 @@ figura como derogada: el Real Decreto 524/2023, por el que se aprueba la Norma B
 Civil, en su disposición derogatoria única, apartado 2.d), deroga «**La Norma Básica de
 Autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan
 dar origen a situaciones de emergencia, aprobada por el Real Decreto 393/2007, de 23 de marzo.**»
-El apartado 3 de esa disposición mantiene en aplicación los instrumentos derogados «**hasta tanto
-sean aprobados**, [...] **los nuevos instrumentos de planificación que los sustituyan**», y el texto
-consolidado del BOE lo aplica a esta norma: «**No obstante, la Norma Básica continuará aplicándose
+La derogación tiene efectos de 11 de julio de 2023. El apartado 3 de esa disposición sólo nombra a
+«**Las Directrices Básicas de Planificación y los Planes Estatales de protección civil**», que
+seguirán aplicándose «**hasta tanto sean aprobados**, [...] **los nuevos instrumentos de
+planificación que los sustituyan**»; es la nota del texto consolidado del BOE la que lo aplica a
+esta norma: «**No obstante, la Norma Básica continuará aplicándose
 hasta tanto sea aprobado el nuevo instrumento de planificación que la sustituya**». Una búsqueda
 por título en el BOE el 5 de octubre de 2026 no da una nueva norma básica de autoprotección
 publicada. Lo que sigue es, por tanto, la norma que se aplica, con esa salvedad.
@@ -1097,19 +1107,19 @@ protección (oficio; enlaza con los permisos de trabajo del plan y con el tema 1
   tema 15. La planificación de intervenciones: tema 17. Los riesgos laborales del puesto: tema 19.
 - El plan de autoprotección de cada centro de la RTVA, su organización de emergencias y las
   funciones que asigna al personal de mantenimiento: no constan en documento publicado.
-- Una norma andaluza de autoprotección: sólo se ha localizado un proyecto de decreto de la Junta de
-  Andalucía sometido a audiencia en 2020; no se ha confirmado su aprobación, y el tema no la da.
+- Una norma andaluza de autoprotección: no se ha confirmado que haya una aprobada, y el tema no la
+  da.
 
 ## Trazabilidad
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 513/2017, RIPCI (BOE-A-2017-6606), redacción vigente | Artículos 1, 2, 9, 19, 20, 21 y 22; anexo I, sección 1.ª (apartados 1, 4, 5, 11 y 15) y sección 2.ª, y apéndice; anexo II (apartados 1 a 10 y tablas I, II y III, con las columnas de periodicidad leídas en la página HTML del BOE) | 05/10/2026 |
+| Real Decreto 513/2017, RIPCI (BOE-A-2017-6606), redacción vigente | Artículos 1, 2, 9, 19, 20, 21 y 22; anexo I, sección 1.ª (apartados 1, 4, 5, 11 y 15) y sección 2.ª, y apéndice; anexo II (apartados 1 a 10 y tablas I, II y III, con las columnas de periodicidad leídas en la página web del BOE) | 05/10/2026 |
 | Real Decreto 513/2017, redacción vigente hasta el 09/05/2025 | Anexo I, sección 1.ª, apartado 5.4 (presión de las BIE derogada) | 05/10/2026 |
 | Real Decreto 164/2025 (BOE-A-2025-7190) | Disposición derogatoria única, disposiciones transitorias primera y sexta, disposición final duodécima, artículos 1 y 2 del Reglamento | 05/10/2026 |
 | Real Decreto 314/2006, CTE (BOE-A-2006-5515) | Artículo 11 (redacción única) | 05/10/2026 |
-| Documento Básico SI, texto consolidado de 4 de marzo de 2025 (codigotecnico.org; «**Este texto consolidado no tiene valor jurídico.**») | SI 1, apartados 1, 2, 3 y 4.2 y tablas 1.1, 1.2, 2.1 y 2.2 (columnas de la tabla 2.1 asignadas por la posición de cada celda en el PDF); SI 4, apartados 1 y 2 y tabla 1.1 con sus notas | 05/10/2026 |
-| Ley 31/1995 (BOE-A-1995-24292) | Artículos 18.1.c), 20 y 33.1.c) | El artículo 20, del tema 9 del común de Canal Sur (redacción vigente el 24/09/2026); el 33.1.c), 05/10/2026 |
+| Documento Básico SI, texto consolidado de 4 de marzo de 2025 (codigotecnico.org; «**Este texto consolidado no tiene valor jurídico.**») | SI 1, apartados 1, 2, 3 y 4.2 y tablas 1.1, 1.2, 2.1 y 2.2 (columnas de la tabla 2.1 asignadas por la posición de cada celda en el documento publicado); SI 4, apartados 1 y 2 y tabla 1.1 con sus notas | 05/10/2026 |
+| Ley 31/1995 (BOE-A-1995-24292) | Artículos 18.1.c), 20 y 33.1.c) | El artículo 20, del tema 9 del común de Canal Sur (redacción vigente el 24/09/2026); el 18.1.c) y el 33.1.c), 05/10/2026 |
 | Real Decreto 486/1997 (BOE-A-1997-8669) | Anexo I, apartados 10, 11 y 12 | 05/10/2026 |
 | Real Decreto 485/1997 (BOE-A-1997-8668) | Anexo II (colores) y anexo III, apartado 3 | 05/10/2026 |
 | Real Decreto 393/2007 (BOE-A-2007-6237) | Artículo 2, apartados 3.3, 3.6 y 3.7, anexo I, anexo II (capítulo 5) y anexo III, y la nota de vigencia del texto consolidado | Volcado del 25/09/2026, consultado el 05/10/2026 |

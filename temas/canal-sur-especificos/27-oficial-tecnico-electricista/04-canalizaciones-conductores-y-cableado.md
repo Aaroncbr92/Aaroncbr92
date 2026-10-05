@@ -6,16 +6,16 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 4 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-07 (temperaturas de los aislamientos), ITC-BT-14, ITC-BT-15, ITC-BT-17, ITC-BT-19, ITC-BT-20, ITC-BT-21, ITC-BT-22, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30 e ITC-BT-44. Lo demás es física elemental y oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículo 15.3, ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-07 (temperaturas de los aislamientos; galerías, 2.1.3.1), ITC-BT-14, ITC-BT-15, ITC-BT-17, ITC-BT-19, ITC-BT-20, ITC-BT-21, ITC-BT-22, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30 e ITC-BT-44. Lo demás es física elemental y oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo la ITC-BT-02 (listado vigente desde el 04/04/2025) |
-| **Extensión** | Unas 13.600 palabras |
+| **Extensión** | Unas 13.900 palabras |
 
 <!-- /portada -->
 
 Siglas y símbolos que usa el tema: Agencia Pública Empresarial de la Radio y Televisión de Andalucía
 (**RTVA**); Canal Sur Radio y Televisión, S.A. (**CSRTV**); Reglamento electrotécnico para baja
 tensión (**REBT**) y sus instrucciones técnicas complementarias (**ITC-BT**); Asociación Española de
-Normalización (**UNE**), norma europea (**EN**), documento de armonización (**HD**) y Comisión
+Normalización (**UNE**), norma europea (**EN**) y Comisión
 Electrotécnica Internacional (**IEC**); policloruro de vinilo (**PVC**), polietileno reticulado
 (**XLPE**) y etileno-propileno (**EPR**), aislamientos de cable; muy baja tensión de seguridad
 (**MBTS**) y de protección (**MBTP**); conductor de protección (**CP** o **PE**); línea general de
@@ -196,6 +196,8 @@ de sus tablas de redes subterráneas, y son propiedad del aislamiento:
 | Polietileno reticulado (XLPE) | «**XLPE - Polietileno reticulado. Temperatura máxima en el conductor 90 ºC (servicio permanente).**» | Más corriente admisible a igual sección |
 | Etileno-propileno (EPR) | «**EPR - Etileno propileno. Temperatura máxima en el conductor 90 ºC (servicio permanente).**» | Muy flexible; usos especiales |
 
+(La columna «Rasgo» es oficio, no texto del REBT, que sólo da las temperaturas.)
+
 La consecuencia que hay que saber decir: a igual sección, un cable de XLPE admite más corriente que
 uno de PVC, porque aguanta más temperatura en el conductor. Y la que impone el REBT a los cables
 empotrados directamente en estructuras: **La temperatura mínima y máxima de instalación y servicio
@@ -210,8 +212,10 @@ La propiedad que decide en un edificio con gente dentro:
 |---|---|
 | No propagador de la llama | No mantiene la combustión por sí solo |
 | No propagador del incendio | Ni siquiera agrupado en haz: es la exigencia dura |
-| Libre de halógenos, con emisión de humos y opacidad reducida | No desprende gases halogenados: ni humo denso, ni corrosivo, ni tóxico |
+| Con emisión de humos y opacidad reducida | Al arder desprende poco humo y poco opaco, de modo que no impide ver la salida |
 | Resistente al fuego | Sigue dando servicio durante un tiempo dentro del incendio |
+
+(La columna «Qué significa» es oficio: el REBT exige esas propiedades pero no las define; las define la norma de cada cable, que no se ha leído. «Libre de halógenos» es una expresión que el REBT no usa.)
 
 El REBT exige la segunda y la tercera en las líneas comunes del edificio y en los locales de
 pública concurrencia, con la misma fórmula:
@@ -278,7 +282,8 @@ saber leerla por partes:
 
 El REBT usa una designación de este tipo una sola vez en los preceptos leídos: en las bañeras de
 hidromasaje, la conexión se hará «**con cable con cubierta de características no menores que el de
-designación H05VV-F**» (ITC-BT-27). El código letra a letra de las designaciones es contenido de
+designación H05VV-F**» o **mediante cable bajo tubo aislante con conductores aislados de tensión asignada
+450/750V** (ITC-BT-27, apartado 3). El código letra a letra de las designaciones es contenido de
 una norma de producto que no se ha leído, y este tema no lo da.
 
 ### 1.6 Los sistemas de instalación: cómo se elige
@@ -353,7 +358,7 @@ llama. Las tablas de características mínimas de la ITC-BT-21, en lo que distin
 |---|---|---|---|---|---|
 | Superficie (tabla 1): **los tubos deberán ser preferentemente rígidos y en casos especiales podrán usarse tubos curvables** | Fuerte | Media | -5 ºC a +60 ºC | Objetos D ≥ 1 mm; gotas con el tubo inclinado 15º | No propagador |
 | Empotrado en obra de fábrica, huecos y canales de obra (tabla 3) | Ligera | Ligera | -5 ºC a +60 ºC | Objetos D ≥ 1 mm; gotas con el tubo inclinado 15º | No propagador |
-| Embebido en hormigón y canalizaciones precableadas (tabla 4) | Media | Media | -5 ºC a +90 ºC | Protegido contra el polvo; contra el agua en forma de lluvia | No propagador |
+| Embebido en hormigón y canalizaciones precableadas (tabla 4) | Media | Media | -5 ºC a +90 ºC; para precableadas empotradas en obra de fábrica se acepta +60 ºC (nota 1) | Protegido contra el polvo; contra el agua en forma de lluvia | No propagador |
 | Al aire, para máquinas de movilidad restringida (tabla 6): tubos flexibles | Fuerte | Media | -5 ºC a +60 ºC | Objetos D ≥ 1 mm; gotas con el tubo inclinado 15º | No propagador |
 | Enterrado (tabla 8) | 250 N, 450 N o 750 N | Ligero, normal o normal | No aplicable | Objetos D ≥ 1 mm; agua en forma de lluvia | No declarada |
 
@@ -447,7 +452,7 @@ Reglas de instalación de la ITC-BT-21, apartado 4.1: trazado preferente vertica
 eléctrica quedará convenientemente asegurada.**; **No se podrán utilizar las canales como
 conductores de protección o de neutro, salvo lo dispuesto en la Instrucción ITC-BT-18 para
 canalizaciones prefabricadas.**; y **La tapa de las canales quedará siempre accesible.** El número
-de conductores no lo fija una tabla: **El número máximo de conductores que pueden ser alojados en el
+de conductores no lo fija una tabla (apartado 3.2): **El número máximo de conductores que pueden ser alojados en el
 interior de una canal será el compatible con un tendido fácilmente realizable y considerando la
 incorporación de accesorios en la misma canal.**
 
@@ -488,8 +493,11 @@ temperatura de instalación y servicio (epígrafe 1.3).
 una tensión asignada 0,6/1kV**, con las condiciones de la ITC-BT-07 y la ITC-BT-21.
 
 *Canalizaciones prefabricadas* (2.2.10): **Deberán tener un grado de protección adecuado a las
-características del local por el que discurren.** El listado de la ITC-BT-02 recoge para ellas la
-serie UNE-EN 61534, «**Sistemas de canalización eléctrica prefabricada.**»
+características del local por el que discurren.** Las de iluminación, conformes a la serie UNE EN
+60570; las de uso general, a la UNE EN 60439-2, que en el listado vigente de la ITC-BT-02 tiene como
+referencia la UNE-EN 61439-6, «**Conjuntos de aparamenta de baja tensión. Parte 6: Canalizaciones
+prefabricadas.**» (nota 12). El listado recoge además la serie UNE-EN 61534, «**Sistemas de
+canalización eléctrica prefabricada.**»
 
 ### 1.11 Paso a través de muros, tabiques y techos
 
@@ -600,7 +608,8 @@ para la aparamenta).
 un cable protegido contra sobrecarga puede no estarlo contra un cortocircuito si el aparato tarda
 demasiado, y eso se comprueba comparando la energía que deja pasar la protección con la que el
 cable soporta. El dato de partida es la corriente de cortocircuito en el punto, que para la red
-facilita la empresa distribuidora (artículo 15.3 del Reglamento, tema 3). La fórmula y los
+facilitan las compañías suministradoras: **valores máximos previsibles de las potencias o corrientes
+de cortocircuito de sus redes de distribución** (artículo 15.3 del Reglamento; tema 3). La fórmula y los
 coeficientes de esa comprobación son de la norma UNE y no se dan.
 
 ### 2.4 El criterio de caída de tensión
@@ -855,8 +864,10 @@ los pasos entre sectores (1.11). Lo demás es oficio:
    vídeo y datos van en bandejas distintas o con separador; las distancias de separación por
    compatibilidad electromagnética no las fija el REBT (tema 8).
 4. Continuidad y tierra de la bandeja metálica. El REBT manda conectar a tierra las canales con
-   conductividad eléctrica y los tubos metálicos accesibles (ITC-BT-21); para la bandeja no se ha
-   leído un precepto equivalente, y su conexión equipotencial es criterio de proyecto y de la norma
+   conductividad eléctrica y los tubos metálicos accesibles (ITC-BT-21); para la bandeja de una instalación
+   interior no hay precepto equivalente en las ITC leídas (la ITC-BT-07, 2.1.3.1, sí manda unir al
+   conductor de tierra las bandejas de las galerías visitables de las redes subterráneas, que no son
+   salas técnicas), y su conexión equipotencial es criterio de proyecto y de la norma
    de producto. Nunca hace de conductor de protección.
 5. Radios de curvatura y fijación. El cable no se dobla por debajo de su radio mínimo (10
    diámetros salvo otra cosa en su norma, para los fijados a pared: epígrafe 1.10) ni cuelga sin
@@ -1033,7 +1044,9 @@ Lo que sigue a esos dos puntos:
 | Equipo | **El equipo eléctrico utilizado estará protegido contra los efectos de vapores y gases desprendidos por el electrolito.** |
 | Ventilación | **Los locales deberán estar provistos de una ventilación natural o forzada que garantice una renovación perfecta y rápida del aire. Los vapores evacuados no deben penetrar en locales contiguos.** |
 | Luminarias | **Las luminarias serán de material apropiado para soportar el ambiente corrosivo y evitar la penetración de gases en su interior.** |
-| Pasillos | **Los pasillos de servicio tendrán una anchura mínima de 0,75 metros.** |
+| Iluminación | **La iluminación artificial se realizará únicamente mediante lámparas eléctricas de incandescencia o de descarga.** |
+| Aislamiento de los acumuladores | Los que no aseguren por sí mismos un aislamiento suficiente entre partes en tensión y tierra **deberán ser instalados con un aislamiento suplementario. Este aislamiento no podrá ser afectado por la humedad.** |
+| Pasillos | **Los acumuladores estarán dispuestos de manera que pueda realizarse fácilmente la sustitución y el mantenimiento de cada elemento. Los pasillos de servicio tendrán una anchura mínima de 0,75 metros.** |
 | Suelo | Si la tensión continua supera 75 V respecto a tierra y hay partes desnudas en tensión que se puedan tocar, **el suelo de los pasillos de servicio será eléctricamente aislante.** |
 | Partes desnudas | Con más de 75 V en continua entre ellas, **deberán instalarse de manera que sea imposible tocarlas simultánea e inadvertidamente.** |
 
@@ -1124,12 +1137,13 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
     envolvente, tubo normal y tubo blindado.
   - ITC-BT-02 (listado vigente desde el 04/04/2025, Resolución de 20 de marzo de 2025): títulos de
     UNE 21027-9, UNE 21123-4 y -5, UNE 211002, UNE-EN 50200, UNE-EN 50575, UNE-EN 50626-1,
-    UNE-EN IEC 61386-21, -22 y -23, UNE-EN 60529, UNE-EN 61534, UNE-EN 61537 y UNE-EN 62262, y las
+    UNE-EN IEC 61386-21, -22 y -23, UNE-EN 60529, UNE-EN 61439-6, UNE-EN 61534, UNE-EN 61537 y
+    UNE-EN 62262, y las
     notas de equivalencia con las referencias originales.
-  - ITC-BT-07: leyenda de temperaturas de los aislamientos.
+  - ITC-BT-07: leyenda de temperaturas de los aislamientos; apartado 2.1.3.1 (galerías visitables).
   - ITC-BT-14 y ITC-BT-15: reacción al fuego, sección mínima, caída de tensión, neutro, aluminio,
     tensión asignada y colores.
-  - ITC-BT-17, apartado 1.3; ITC-BT-22, apartado 1.1.
+  - Artículo 15.3 del Reglamento; ITC-BT-17, apartado 1.3; ITC-BT-22, apartado 1.1.
   - ITC-BT-19, apartados 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3, 2.6, 2.10 y 2.11.
   - ITC-BT-20, apartados 1, 2, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.2 (tablas 1 y 2), 2.2.1 a 2.2.10 y 3.
   - ITC-BT-21, apartados 1.1, 1.2 (tablas 1 a 9), 2.1 a 2.4, 3 y 4.1.
@@ -1155,7 +1169,8 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
 - La tabla de cada cifra del código IP y del IK: normas de producto; tema 3 para lo que se usa.
 - Las distancias de separación entre cables de energía y de señal por compatibilidad
   electromagnética: el REBT no las fija; tema 8.
-- Un precepto del REBT sobre la puesta a tierra de las bandejas metálicas: no se ha leído ninguno.
+- Un precepto del REBT sobre la puesta a tierra de las bandejas metálicas de una instalación
+  interior: no hay ninguno en las ITC leídas (sólo el de las galerías de la ITC-BT-07).
 - Las tablas de diámetros 7 y 9 de la ITC-BT-21 (al aire y enterrados), y las del neutro de la LGA
   (tabla 1 de la ITC-BT-14): no se reproducen, sólo se dice que existen.
 - La caída de tensión con ejemplos y el equilibrado de cargas: tema 1. La documentación, la
@@ -1174,17 +1189,18 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
 | Real Decreto 842/2002 (BOE-A-2002-18099), ITC-BT-01, redacción única (vigente desde el 18/09/2003) | Las definiciones de la tabla del epígrafe 1.1 y la del borne o barra principal de tierra | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-02, redacción vigente desde el 04/04/2025 (Resolución de 20 de marzo de 2025, BOE-A-2025-6773) | Títulos de las normas citadas y notas (4), (7), (10), (20), (21) y (22) de equivalencia | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-07, redacción única | Leyenda «Tipo de aislamiento» (70 ºC y 90 ºC) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-02, redacción vigente desde el 04/04/2025 (Resolución de 20 de marzo de 2025, BOE-A-2025-6773) | Títulos de las normas citadas y notas (4), (7), (10), (12), (20), (21) y (22) de equivalencia | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-07, redacción única | Leyenda «Tipo de aislamiento» (70 ºC y 90 ºC); apartado 2.1.3.1 (bandejas de galerías) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-14 e ITC-BT-15, redacción única | Reacción al fuego, aluminio, sección mínima, criterio de cálculo, caídas, neutro de la LGA; tensión asignada, colores, sección mínima y caídas de la DI | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-17 e ITC-BT-22, redacción única | ITC-BT-17, 1.3; ITC-BT-22, 1.1 (protección contra sobrecargas y remisión a la UNE 20.460-4-43) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, artículo 15, ITC-BT-17 e ITC-BT-22, redacción única | Artículo 15.3; ITC-BT-17, 1.3; ITC-BT-22, 1.1 (protección contra sobrecargas y remisión a la UNE 20.460-4-43) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-19, redacción única | Apartados 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3, 2.6, 2.10 y 2.11 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-20, redacción única | Apartados 1, 2, 2.1 a 2.1.3, 2.2 (tablas 1 y 2), 2.2.1 a 2.2.10 y 3 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-21, redacción única | Apartados 1.1, 1.2.1 a 1.2.4 (tablas 1 a 6 y 8; filas de las tablas 2 y 5), 2.1 a 2.4, 3.1, 3.2 y 4.1 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30 e ITC-BT-44, redacción única | ITC-BT-24, 3.2; ITC-BT-27, 3; ITC-BT-28, 4.e, 4.f y 5.b; ITC-BT-30, 1 a 5, 7, 8 y 9; ITC-BT-44, 3.1 | En el BOE consolidado, 05/10/2026 |
 
 El resto va como oficio y así se declara: la comparación entre cobre y aluminio y la fluencia del
-aluminio; la lectura de la designación de un cable por partes; la consecuencia de que el XLPE
+aluminio; los rasgos de cada aislamiento y el significado de cada propiedad de reacción al fuego;
+la lectura de la designación de un cable por partes; la consecuencia de que el XLPE
 admita más corriente que el PVC; las dos lecturas sobre el humo y sobre no propagador frente a
 resistente; la lectura de la tabla 1 de la ITC-BT-20; la lectura de que la holgura del tubo crece
 con la dificultad de sustituir el cable; la regla de calcular por dos criterios y quedarse con la
