@@ -1,0 +1,1042 @@
+El ABC de la
+seguridad en las
+mediciones eléctricas
+Picos de tensión, un
+riesgo inevitable
+A medida que los sistemas de
+distribución y las cargas se hacen
+más complejos, aumentan las
+posibilidades de sobretensiones
+transitorias. Los motores,
+condensadores y equipos de
+conversión de energía tales como los
+variadores de velocidad pueden ser
+generadores importantes de picos
+de tensión. La caída de rayos sobre
+líneas de transmisión a la intemperie
+puede también ser causa de
+transitorios de gran energía
+extremadamente peligrosos. Si se
+están efectuando mediciones en
+sistemas eléctricos, estos transitorios
+constituyen peligros “invisibles” y
+en general inevitables. Los mismos
+tienen lugar generalmente en
+circuitos de alimentación de energía
+de baja tensión, y pueden alcanzar
+valores de pico del orden de los
+varios miles de voltios. En estos
+casos, la protección depende del
+margen de seguridad ya previsto en
+su comprobador. La tensión nominal
+por sí sola no le indicará en qué
+medida ese comprobador fue
+diseñado para resistir grandes
+pulsos transitorios.
+Las primeras claves sobre el
+riesgo para la seguridad impuesto
+por los picos transitorios provino de
+las aplicaciones relacionadas con las
+mediciones en el bus de suministro
+de energía eléctrica de los
+ferrocarriles urbanos. La tensión
+nominal del bus era de sólo 600 V,
+pero los multímetros de 1000 V
+nominales duraban sólo unos pocos
+minutos cuando se efectuaban
+mediciones mientras el tren estaba
+operando. Un examen detenido
+reveló que cada vez que el tren se
+detenía o arrancaba se generaban
+picos de 10.000 voltios. Estos
+transitorios no se apiadaban de
+los circuitos de entrada de los
+multímetros de aquella época. Las
+lecciones aprendidas a través de
+esa investigación condujeron a
+significativas mejoras en los circuitos
+de protección de las entradas de
+los multímetros.
+Nuevas normas de seguridad
+Para proteger al operador contra
+los transitorios, se debe incorporar
+seguridad en los equipos de prueba.
+¿Qué especificación de desempeño
+se debería buscar, especialmente si
+uno sabe que podría estar trabajando
+con circuitos de gran energía? La
+tarea de definir nuevas normas
+de seguridad para los equipos de
+comprobación fue recientemente
+abordada por la IEC (International
+Electro-technical Commission
+o Comisión Electrotécnica
+Internacional). Esta organización
+desarrolla normas internacionales
+de seguridad para equipos de
+comprobación eléctrica.
+Durante varios años la industria
+utilizó para el diseño de sus equipos
+la norma IEC 348. Esa norma fue
+reemplazada por la IEC 1010, que a
+su vez fue recientemente actualizada
+a la IEC 61010. Aunque los
+comprobadores bien diseñados de
+acuerdo con la norma IEC 348 han
+sido utilizados durante años por
+técnicos y electricistas, el hecho es
+que los multímetros diseñados según
+la nueva norma IEC 61010 ofrecen un
+nivel de seguridad significativamente
+mayor.  Veamos cómo se logra esto.
+A
+mA
+COM
+V
+TEMPERATURE
+A
+TRUE RMS MULTIMETER
+189
+400mA
+FUSED
+10A MAX
+FUSED
+CAT
+    1000V
+Nota de aplicación
+No descuide la seguridad; su
+vida puede depender de ello
+Cuando la seguridad constituye una
+preocupación, elegir un comprobador
+eléctrico es como seleccionar un casco
+de motocicleta: si usted tiene una
+cabeza “barata”, elija un casco
+“barato”. Si en cambio valora su
+cabeza, procúrese un casco seguro.
+Los riesgos de andar en motocicleta
+son obvios, ¿pero cómo son las cosas
+con los comprobadores eléctricos?
+Si se asegura de seleccionar un
+comprobador con una tensión
+nominal suficientemente alta, ¿no
+es suficiente? Después de todo la
+tensión es sólo la tensión, ¿no es así?
+No exactamente. Los ingenieros
+que analizan la seguridad de los
+comprobadores a menudo descubren
+que los equipos que fallaron fueron
+sometidos a una tensión mucho
+mayor que la que el usuario pensó
+que estaba midiendo. Existen
+accidentes ocasionales cuando el
+comprobador, especificado para
+baja tensión (1000 V o menos), es
+utilizado para medir media tensión, tal
+como 4160 V. Igual de común, la
+“patada” eléctrica que voltea a un
+operario no tiene nada que ver
+con el uso indebido: fue un pico
+o transitorio de alto voltaje
+momentáneo que impactó sobre
+la entrada del comprobador sin
+advertencia previa.
+1000V
+CAT III
+Diseñado y
+ construido de 
+acuerdo con la norma  
+IEC 61010-1
+
+2   Fluke Corporation         El ABC de la seguridad en las mediciones eléctricas
+Protección de transitorios
+La verdadera cuestión para un
+circuito de protección de un
+multímetro no es sólo el máximo
+rango de tensiones en estado
+estacionario sino una combinación
+de capacidades para soportar tanto
+la tensión de estado estacionario
+como las sobretensiones debidas a
+transitorios. La protección contra
+transitorios es vital. Cuando
+aparecen transitorios en circuitos
+de gran energía, los mismos
+tienden a ser más peligrosos
+porque estos circuitos pueden
+entregar grandes corrientes. Si
+un transitorio genera un arco, la
+alta corriente puede mantenerlo,
+produciendo una ruptura de plasma
+o explosión, la que tiene lugar
+cuando el aire circundante se
+ioniza y se hace conductivo. El
+resultado es una detonación de
+arco, un suceso catastrófico que
+causa más daños de tipo eléctrico
+cada año que el mejor riesgo
+conocido de descarga eléctrica.
+(Ver “Transitorios: el peligro oculto”
+en la página 4).
+Categorías de mediciones
+El concepto individual más
+importante a comprender sobre las
+nuevas normas es la categoría de
+medición. La nueva norma define
+las Categorías I a IV, a menudo
+abreviada CAT I, CAT II, etc. (Ver la
+Figura 1.) La división de un sistema
+de distribución de energía en
+categorías está basada en el hecho
+de que un transitorio peligroso
+de gran energía tal como la
+caída de un rayo será atenuado o
+amortiguado a medida que recorre
+la impedancia (resistencia de CA)
+del sistema. Un número más alto
+de CAT se refiere a un entorno
+eléctrico de mayor energía
+disponible y transitorios de más
+energía. Por lo tanto un multímetro
+diseñado para una norma CAT III
+resiste transitorios de mucha más
+energía que uno diseñado para
+una norma CAT II.
+Dentro de una categoría, una
+mayor tensión nominal indica una
+mayor calificación para soportar
+transitorios; por ejemplo, un
+multímetro CAT III de 1000 V tiene
+una protección superior comparado
+con un multímetro clasificado
+CAT III de 600 V. El verdadero
+malentendido tiene lugar si alguien
+selecciona un multímetro CAT II de
+1000 V nominales pensando que
+es superior a un multímetro CAT III
+de 600 V. (Consulte “¿Cuándo es
+600 V más que 1000 V?” en la
+página 7).
+Figura 1. Ubicación, ubicación, ubicación.
+Tabla 1. Categorías de mediciones. La norma IEC 61010 rige para equipos de comprobación de baja tensión (< 1000 V).
+CAT IV
+Tres fases en la
+conexión del
+servicio de
+energía
+eléctrica,
+cualquier
+conductor
+externo
+• Se refiere a “origen de la instalación”; es decir, en dónde se efectúa
+la conexión de baja tensión a la alimentación del servicio de
+energía eléctrica.
+• Medidores de consumo de electricidad, equipos de protección
+contra sobrecorrientes.
+• Exterior y entrada del servicio, acometida del servicio desde el poste al
+edificio, recorrido entre el medidor y el panel.
+• Línea en altura a edificio separado, línea subterránea a bomba de pozo.
+CAT III
+Distribución
+trifásica,
+incluyendo
+iluminación
+comercial
+monofásica
+• Equipos en instalaciones fijas, tales como equipos de conmutación
+y distribución y motores polifásicos.
+• Bus y alimentador en plantas industriales.
+• Alimentadores y circuitos de derivación corta, dispositivos de
+paneles de distribución.
+• Sistemas de iluminación en edificios grandes.
+• Salidas para aparatos con conexiones cortas a la entrada
+del servicio.
+CAT II
+Cargas
+conectadas a
+tomacorrientes
+monofásicos
+• Artefactos, herramientas portátiles y otras cargas domiciliarias
+y similares.
+• Tomacorrientes y circuitos de derivación larga.
+• Salidas a más de 10 metros (30 pies) de fuente CAT III.
+• Salidas a más de 20 metros (60 pies) de fuente CAT IV.
+CAT I
+Electrónica
+• Equipos electrónicos protegidos.
+• Equipos conectados a circuitos (fuente) en los cuales se toman
+mediciones para limitar las sobretensiones transitorias a un nivel
+adecuadamente bajo.
+• Cualquier fuente de voltaje alto y baja energía derivada de un
+transformador de gran resistencia de bobinado, tal como la sección
+de voltaje alto de una fotocopiadora.
+Categoría de
+medición
+Descripción
+breve
+Ejemplos
+Comprensión de las categorías: Ubicación, ubicación, ubicación...
+
+El ABC de la seguridad en las mediciones eléctricas     Fluke Corporation   3
+ubicación…
+No se trata sólo del nivel
+de tensión
+En la Figura 1, un técnico que trabaje
+con equipos de oficina en una
+ubicación CAT I podría de hecho
+encontrar tensiones CD mucho más
+altas que las tensiones de la línea
+alimentación de CA medidas por
+el electricista de motores en la
+ubicación CAT III. Sin embargo
+los transitorios en los circuitos
+electrónicos CAT I, sin importar el
+voltaje, son claramente una amenaza
+menor, porque la energía disponible
+para un arco es relativamente
+limitada. Esto no significa que no
+haya riesgos eléctricos presentes
+en los equipos CAT I o CAT II. El
+principal peligro es el de descarga
+eléctrica, no el de los transitorios y
+el arco. Las descargas eléctricas,
+que serán analizadas más adelante,
+pueden ser igual de letales que
+un arco.
+Para citar otro ejemplo, una línea
+en altura que corra desde una casa
+a un cobertizo separado puede ser
+de sólo 120 V o 240 V, pero sin
+embargo sigue siendo técnicamente
+CAT IV. ¿Por qué? Cualquier
+conductor situado a la intemperie
+está sujeto a transitorios de muy
+alta energía debidos a rayos. Aún
+conductores enterrados bajo tierra
+son CAT IV, porque aunque
+los mismos no van a recibir
+directamente un rayo, el impacto
+de un rayo en las cercanías puede
+inducir un transitorio debido a la
+presencia de grandes campos
+electromagnéticos.
+Cuando se trata de las categorías
+para mediciones, rigen las reglas
+de los bienes raíces: ubicación,
+ubicación, ubicación...
+(Para un análisis adicional sobre las
+categorías de instalación, consulte la
+página 6, “Aplicación de categorías
+a su trabajo”).
+La clave del cumplimiento
+con las normas de seguridad
+es la comprobación
+independiente
+Busque un símbolo y un número de
+lista de un laboratorio independiente
+de comprobación tal como UL, CSA,
+TÜV u otra organización reconocida
+de comprobación. No se fíe de frases
+tales como “Diseñado para satisfacer
+la especificación...” Los planes de los
+diseñadores no son nunca un
+substituto para una verdadera
+comprobación independiente.
+¿Cómo se puede saber si se está
+obteniendo un genuino comprobador
+CAT III o CAT II? Lamentablemente
+eso no siempre resulta tan sencillo.
+Es posible que un fabricante certifique
+por sí mismo que su comprobador
+es CAT II o CAT III sin ninguna
+verificación independiente. La IEC
+(International Electrotechnical
+Commission) desarrolla y propone
+normas, pero no es responsable
+por su cumplimiento.
+Busque el símbolo y número
+de registro de un laboratorio
+independiente de comprobación tal
+como UL, CSA, TÜV u otra entidad
+reconocida de aprobación. Ese
+símbolo puede solamente ser
+utilizado si el producto completó
+satisfactoriamente su comprobación
+según la norma de la entidad de
+control, la que está basada en
+normas nacionales/internacionales.
+La UL 3111, por ejemplo, está basada
+en la IEC 61010. En un mundo
+imperfecto, eso es lo más que se
+puede hacer para asegurar que
+el multímetro seleccionado fue
+verdaderamente comprobado en
+cuanto a su seguridad.
+Comprobación independiente
+¿Qué indica el símbolo CE?
+Un producto se marca CE (Conformité
+Européenne) para indicar su
+conformidad con ciertos requisitos
+esenciales relativos a salud,
+seguridad, ambiente y protección
+al consumidor establecidos por la
+Comisión Europea e impuestos por
+medio del empleo de “directivas”.
+Existen directivas que afectan
+muchos tipos de producto, y los
+productos de fuera de la Unión
+Europea no pueden ser importados
+y vendidos allí si los mismos no
+satisfacen las directivas pertinentes.
+El cumplimiento con una directiva
+puede ser satisfecho probando estar
+en conformidad con una norma
+técnica de aplicación, tal como la
+IEC 61010 correspondiente a
+productos para baja tensión. Los
+fabricantes cuentan con autorización
+para autocertificar que sus productos
+satisfacen las normas, emitir sus
+propia Declaraciones de Conformidad
+y marcar sus productos como “CE”.
+La marca CE no constituye,
+por lo tanto, una garantía de
+comprobación independiente.
+
+4   Fluke Corporation         El ABC de la seguridad en las mediciones eléctricas
+○
+○
+○
+○
+Protección contra dos riesgos eléctricos principales
+Echemos una mirada a una situación
+con las peores condiciones posibles
+en la cual un técnico está llevando a
+cabo mediciones sobre un circuito
+con tensión de un control de motor
+trifásico, empleando un multímetro
+sin las necesarias precauciones
+de seguridad.
+He aquí lo que podría suceder:
+1. La caída de un rayo genera un
+transitorio en la línea de
+alimentación, el que a su vez
+ocasiona un arco entre los
+terminales de entrada dentro
+del multímetro. Los circuitos
+y componentes necesarios
+para prevenir este suceso
+sencillamente fallaron o faltaban.
+Tal vez no se trataba de un
+multímetro clasificado como
+CAT III. El resultado es un
+cortocircuito directo entre las dos
+terminales de medición a través
+del multímetro y las puntas
+de prueba.
+2. Por el cortocircuito recién creado
+fluye una alta corriente de falla,
+posiblemente de varios miles
+de amperios. Esto sucede en
+milésimas de segundo. Cuando
+se forma el arco dentro del
+multímetro, una onda de choque
+de muy alta presión puede
+generar un fuerte ¡pum!, muy
+parecido al del disparo de un
+arma de fuego o la explosión
+en el tubo de escape de un
+automóvil. En el mismo momento,
+el técnico ve destellos de arco de
+color azul brillante en las puntas
+de prueba; las corrientes de falla
+sobrecalientan las puntas de
+la sonda, que comienzan a
+quemarse, produciendo un arco
+desde el punto de contacto hasta
+la sonda.
+3. La reacción natural es retroceder,
+para alejarse del circuito. Pero a
+medida que las manos del técnico
+retroceden, aparece un arco
+desde la terminal del motor a
+cada punta de prueba. Si estos
+dos arcos se unen para formar
+un arco único, hay ahora otro
+cortocircuito directo fase con fase,
+esta vez directamente entre las
+terminales del motor.
+4. Este arco puede tener una
+temperatura que se aproxima a
+los 6.000 °C (10.000 °F), que es
+mayor que la temperatura de un
+soplete de oxiacetileno. A medida
+que el arco crece, alimentado
+por la corriente disponible
+del cortocircuito, el mismo
+sobrecalienta el aire circundante.
+Se crean tanto una explosión
+como una bola de fuego de
+plasma. Si el técnico tiene suerte,
+la explosión lo arroja hacia atrás y
+lo retira de la vecindad del arco;
+aunque golpeado, salva su vida.
+En el peor caso, la víctima
+experimenta quemaduras fatales
+resultantes del fuerte calor del
+arco o de la ráfaga de plasma.
+Además de utilizar un multímetro
+clasificado para la categoría
+adecuada de medición, cualquiera
+que trabaje con circuitos de
+alimentación que contengan
+tensión deberá estar protegido con
+indumentaria retardante al fuego,
+deberá utilizar anteojos de seguridad
+o, mejor aún, una máscara facial de
+seguridad, y deberá emplear guantes
+de material aislante.
+La caída de un rayo genera un
+transitorio en la línea de alimentación,
+lo que crea un arco entre los terminales
+de entrada del multímetro que produce
+un fuerte ruido.
+Luego fluye una alta corriente por el
+circuito cerrado que se forma. En las
+puntas de la sonda aparece un arco.
+Si dichos arcos se unen, el arco de
+alta energía resultante puede crear
+una situación que represente una
+amenaza contra la vida del usuario.
+Cuando se alejan las puntas de
+prueba, como reacción ante el fuerte
+ruido, se producen arcos hacia las
+terminales del motor que se está
+comprobando.
+Transitorios: el peligro oculto
+○
+○
+○
+○
+○
+○
+○
+4
+○
+○
+○
+○
+○
+○
+1
+1
+○
+○
+○
+○
+○
+2
+3
+Figura 2. Secuencia del peor caso, con la potencial aparición de un arco.
+
+El ABC de la seguridad en las mediciones eléctricas     Fluke Corporation   5
+Los transitorios no son la única fuente
+de riesgo de posibles cortocircuitos
+y formación de arcos. Uno de los
+empleos indebidos más comunes
+de los multímetros portátiles puede
+generar una cadena similar
+de sucesos.
+Digamos que un usuario
+está efectuando mediciones de
+corriente en circuitos de señales.
+El procedimiento es seleccionar la
+función de amperímetro, insertar las
+puntas de prueba en los terminales
+de entrada mA o A, abrir el circuito y
+realizar una serie de mediciones. En
+un circuito serie, la corriente es
+siempre la misma. La impedancia de
+entrada del circuito de corriente debe
+ser lo suficientemente baja como para
+que la misma no afecte la corriente
+del circuito serie. La impedancia de
+entrada en el terminal de 10 A de un
+multímetro Fluke es de 0,01 ohmios.
+Compárese esto con la impedancia de
+entrada en los terminales de tensión
+de 10 MΩ (10.000.000 Ω).
+Si las puntas de prueba son
+dejadas en los terminales de
+corriente y luego accidentalmente
+conectadas a una fuente de tensión,
+la baja impedancia de entrada se
+convierte en un cortocircuito. No
+importa si la perilla selectora es
+girada hacia tensión; las puntas de
+prueba están de todas maneras
+físicamente conectadas a un circuito
+de baja impedancia.* Esa es la razón
+por la cual las terminales de corriente
+deben estar protegidos por fusibles.
+Esos fusibles son el único elemento
+que constituye la diferencia entre
+un mero inconveniente - fusibles
+quemados - y un potencial desastre.
+Utilice sólo un multímetro con
+entradas de corriente protegidas por
+fusibles para alta energía. Nunca
+reemplace un fusible quemado con
+un fusible incorrecto. Utilice sólo
+los fusibles para alta energía
+especificados por el fabricante.
+Estos fusibles están clasificados
+para una tensión y una capacidad
+de interrupción de cortocircuitos
+diseñada para su seguridad.
+Protección contra
+sobrecargas
+Los fusibles protegen contra
+sobrecorrientes. La alta impedancia
+de entrada de los terminales de
+tensión/resistencia asegura que sea
+poco probable una condición de
+sobrecorriente, de modo que no se
+necesitan fusibles. En cambio, la
+protección contra sobretensiones es
+requerida. La misma es provista por
+un circuito de protección que limita
+las altas tensiones a un nivel
+aceptable. Además, un circuito
+de protección térmica detecta las
+condiciones de sobretensión,
+protege al multímetro hasta que
+dicha condición desaparezca y
+luego automáticamente retorna a
+la operación normal. El beneficio
+más común es proteger al multímetro
+contra sobrecargas cuando se
+encuentra en el modo de resistencia.
+De esta manera, se provee protección
+contra sobrecargas con recuperación
+automática para todas las funciones
+de medición siempre y cuando las
+puntas de prueba se encuentren en
+los terminales de entrada de tensión.
+A
+mA
+COM
+V
+TEMPERA
+A
+A
+mA
+COM
+V
+TEMPERATURE
+A
+V
+TRUE RMS MULTIMETER
+189
+400mA
+FUSED
+10A MAX
+FUSED
+CAT
+    1000V
+A
+COM
+Figura 3. Uso indebido del DMM en modo amperímetro.
+Aunque la mayoría de la gente
+tiene conciencia del peligro de las
+descargas eléctricas, pocos se dan
+cuenta de la pequeña cantidad de
+corriente y de lo bajo de la tensión
+necesarias para producir una
+descarga eléctrica fatal. Flujos
+de corriente tan bajos como
+30 mA pueden ser fatales
+(1 mA=1/1000 A). Examinemos
+los efectos del flujo de corriente a
+través de un “típico” individuo de
+sexo masculino de 68 kilogramos
+(150 libras) de peso:
+• A alrededor de 10 mA tiene
+lugar la parálisis muscular de
+los brazos, de modo que no se
+puede soltar el instrumento.
+• A alrededor de 30 mA tiene
+lugar la parálisis respiratoria.
+La respiración se detiene y los
+resultados son a menudo fatales.
+• A alrededor de 75 a 250 mA,
+para una exposición que supere
+los cinco segundos, tiene lugar
+una fibrilación ventricular, que
+ocasiona descoordinación de los
+músculos del corazón; el corazón
+ya no puede funcionar. Las
+corrientes más intensas
+ocasionan fibrilación en
+menos de cinco segundos.
+Los resultados son
+generalmente fatales.
+Ahora calculemos el umbral
+para una tensión “peligrosa”. La
+resistencia aproximada del cuerpo
+bajo la piel de una mano a la otra a
+través del cuerpo es de 1000 Ω.
+Una tensión de sólo 30 V a través
+de 1000 Ω generará un flujo de
+corriente de 30 mA. Por suerte, la
+resistencia de la piel es mucho más
+alta. Es la resistencia de la piel,
+especialmente la capa exterior de
+las células muertas, denominada
+la “capa córnea”, la que protege
+al cuerpo. En condiciones de
+humedecimiento, o si existe un
+corte, la resistencia de la piel
+decrece radicalmente. A alrededor
+de 600 V, la resistencia de la piel
+deja de existir. Resulta perforada
+por la alta tensión.
+Tanto para los fabricantes de
+multímetros como para los usuarios,
+el objetivo es evitar a toda costa
+contactos accidentales con
+circuitos que contengan tensión.
+Trate de procurarse:
+• Multímetros y puntas de prueba
+con doble aislamiento.
+• Multímetros con conectores de
+entrada embutidos y puntas
+de prueba con conectores
+de entrada cubiertos.
+• Puntas de prueba con
+protectores de dedos y superficie
+no deslizante.
+• Multímetro y puntas de prueba
+construidos con materiales de
+buena calidad, durables y
+no conductivos.
+Utilice los fusibles de alta energía adecuados
+Descarga eléctrica
+*Algunos multímetros cuentan con una Alerta de
+entrada que provee un sonido de advertencia si el
+multímetro se encuentra en esta configuración.
+Formación de un arco y descarga eléctrica
+
+6   Fluke Corporation         El ABC de la seguridad en las mediciones eléctricas
+Múltiples categorías
+Hay una situación que algunas veces
+confunde a la gente que trata de
+aplicar categorías a las aplicaciones
+del mundo real. En un único equipo,
+existe a menudo más de una
+categoría. Por ejemplo, en equipos
+de oficina, desde la fuente de
+alimentación de 120 V/240 V
+hasta el tomacorriente es CAT II. Los
+circuitos electrónicos, en cambio, son
+CAT I. En los sistemas de control de
+edificios, tales como los paneles de
+control de iluminación, o en equipos
+de control industrial tales como
+controladores programables, es
+común encontrar circuitos
+electrónicos (CAT I) y circuitos de
+alimentación (CAT III) coexistiendo
+próximos entre sí.
+¿Qué se hace en esas situaciones?
+Como en todas las situaciones del
+mundo real, utilice el sentido común.
+En este caso, eso significa utilizar el
+multímetro que tenga la clasificación
+de categoría más alta. De hecho, no
+es realista esperar que la gente vaya
+a estudiar todo el tiempo el proceso
+de definición de categorías. Lo
+que sí es realista, y altamente
+recomendado, es seleccionar un
+multímetro clasificado para la
+categoría más alta en la cual el
+mismo podría ser posiblemente
+utilizado. En otras palabras, es
+preferible mantener un margen
+de seguridad.
+Atajos para entender
+las categorías
+Estas son algunas maneras rápidas
+de aplicar el concepto de categorías a
+su trabajo cotidiano:
+• La regla general es que cuanto
+más cerca se encuentre usted de
+la fuente de energía, más alto debe
+ser el número de la categoría y
+mayor será el riesgo potencial
+de transitorios.
+• También es que cuanto mayor
+sea la corriente de cortocircuito
+existente en un punto en
+particular, mayor debe ser
+el número de la CAT.
+• Otra manera de decir la misma
+cosa es que cuanto mayor sea la
+impedancia de la fuente, menor
+deberá ser el número de la CAT.
+La impedancia de la fuente es
+simplemente la impedancia total,
+incluyendo la impedancia del
+cableado, desde el punto donde se
+está efectuando la medición y la
+acometida de alimentación. Dicha
+impedancia es la que amortigua
+los transitorios.
+• Finalmente, si usted tiene alguna
+experiencia con la aplicación de
+dispositivos TVSS (Transient
+Voltage Surge Suppression o
+Supresión de picos transitorios
+de tensión), comprenderá que un
+dispositivo TVSS instalado en un
+panel debe tener mayor capacidad
+de administración de energía que
+uno instalado directamente en la
+computadora. En la terminología
+CAT, el TVSS montado sobre un
+panel es una aplicación CAT III,
+mientras que la computadora
+es una carga conectada a un
+tomacorriente y es, por lo
+tanto, una instalación CAT II.
+Tal como se puede ver, el concepto
+de categorías no es nuevo ni
+extravagante. Es simplemente una
+extensión de los mismos conceptos
+de sentido común que la gente que
+trabaja profesionalmente con
+electricidad aplica cada día.
+Operación segura
+La seguridad es responsabilidad de todos pero
+en última instancia la misma está en sus manos.
+Ninguna herramienta por sí misma puede
+garantizar su seguridad. Es la combinación de las
+herramientas correctas y las prácticas laborales
+seguras la que le brinda la máxima protección.
+He aquí algunos consejos que le pueden ayudar
+en su trabajo.
+•
+Trabaje en circuitos desenergizados cada vez
+que le sea posible. Utilice procedimientos de
+interruptor quitado candado colocado. Si
+dichos procedimientos no se encuentran en
+vigencia o no están impuestos, asuma que el
+circuito está energizado.
+•
+En circuitos energizados, utilice elementos
+de protección:
+– Utilice herramientas aisladas.
+– Lleve puestos anteojos de seguridad o una
+máscara facial.
+– Utilice guantes aislados; quítese relojes u
+otras joyas.
+– Párese sobre un tapete de material aislante.
+– Utilice indumentaria retardante al fuego,
+no indumentaria común de trabajo.
+•
+Cuando efectúe mediciones en
+circuitos energizados:
+– Primero haga contacto con la conexión
+de tierra, y luego con el conductor con
+tensión. Retire primero la punta con
+tensión, y luego la de tierra.
+– De ser posible cuelgue o apoye el
+multímetro. Trate de evitar sostenerlo en
+sus manos, para minimizar la exposición
+personal a los efectos de los transitorios.
+– Utilice el método de comprobación de tres
+puntos, especialmente cuando verifique
+para determinar si un circuito no contiene
+tensión está energizado. Primero,
+compruebe un circuito con tensión
+conocido. Segundo, compruebe el circuito
+deseado. Tercero, compruebe nuevamente
+el circuito con tensión. Esto verifica que su
+multímetro funcionó correctamente antes y
+después de la medición.
+– Utilice el viejo truco de los electricistas de
+mantener una mano en su bolsillo. Esto
+disminuye la posibilidad de que se forme
+un circuito cerrado a través de su pecho
+pasando por su corazón.
+Aplicación de categorías a su trabajo
+Utilice equipos de protección
+tales como anteojos de seguridad
+y guantes de material aislante.
+
+El ABC de la seguridad en las mediciones eléctricas     Fluke Corporation   7
+Cómo interpretar la
+clasificación de resistencia
+a la tensión
+Los procedimientos de
+comprobación de la norma
+IEC 61010 toman en cuenta tres
+criterios principales: tensión de
+estado estacionario, tensión de pico
+de pulsos transitorios e impedancia
+de fuente. Estos tres criterios en
+conjunto le informarán sobre el
+valor de la verdadera resistencia
+a la tensión de un multímetro.
+¿Cuándo es 600 V más
+que 1000 V?
+La Tabla 2 puede ayudarnos
+a entender la clasificación
+de verdadera resistencia a la
+tensión de un instrumento:
+1. Dentro de una categoría, una
+mayor “tensión de operación”
+(tensión de estado estacionario)
+se asocia con un transitorio más
+alto, tal como sería de esperar.
+Por ejemplo, un multímetro
+CAT III de 600 V es comprobado
+con transitorios de 6000 V,
+mientras que un multímetro CAT
+III de 1000 V es comprobado con
+transitorios de 8000 V. Hasta
+aquí, todo bien.
+2. Lo que no es tan obvio es la
+diferencia entre el transitorio de
+6000 V para el instrumento CAT III
+de 600 V y el transitorio de
+6000 V para el instrumento CAT II
+de 1000 V. Estos no son iguales.
+Aquí es cuando entra en juego la
+impedancia de la fuente. La ley
+de Ohm (Corriente = Tensión/
+Resistencia) nos dice que la fuente
+de comprobación de 2 Ω para
+CAT III tiene seis veces la corriente
+de la fuente de comprobación de
+12 Ω para CAT II.
+El multímetro CAT III de 600 V
+claramente ofrece mejor protección
+contra transitorios en comparación
+con el multímetro CAT II de 1000 V,
+aún cuando su así llamada “tensión
+nominal” podría ser percibida como
+menor. Es la combinación de la
+tensión de estado estacionario
+(denominada tensión de operación)
+y la categoría la que determina la
+clasificación de resistencia total
+a la tensión del instrumento de
+comprobación, incluyendo la
+sumamente importante clasificación
+de resistencia a las tensiones
+transitorias.
+Una nota sobre CAT IV: los
+valores de ensayo y las normas de
+diseño para la comprobación de
+tensión de la Categoría IV se
+comentan en la segunda edición
+de la norma IEC 61010.
+Tensión de
+operación
+Pico del pulso
+Fuente de
+Categoría
+(CD o CA-rms
+transitorio
+comprobación
+de medición
+ a tierra)
+(20 repeticiones)
+(Ω = V/A)
+CAT I
+600 V
+2500 V
+Fuente de 30 Ohm
+CAT I
+1000 V
+4000 V
+Fuente de 30 Ohm
+CAT II
+600 V
+4000 V
+Fuente de 12 Ohm
+CAT II
+1000 V
+6000 V
+Fuente de 12 Ohm
+CAT III
+600 V
+6000 V
+Fuente de 2 Ohm
+CAT III
+1000 V
+8000 V
+Fuente de 2 Ohm
+CAT IV
+600 V
+8000 V
+Fuente de 2 Ohm
+Tabla 2: Valores de transitorios de comprobación para las categorías demedición.
+(valores de 50 V / 150 V / 300 V no incluidos).
+Cómo evaluar la clasificación de seguridad de
+un comprobador
+Separación y espacio libre
+Además de establecer que sean
+comprobados con un valor de
+sobretensión transitoria, la
+norma IEC 61010 requiere que
+los multímetros tengan mínimas
+distancias de “separación” y “espacio
+libre” entre sus componentes
+internos y nodos de circuito. La
+separación mide la distancia a través
+de una superficie. El espacio libre
+mide distancias a través del aire.
+Cuanto más alta sea la categoría y
+el nivel de la tensión de operación,
+mayores son los requisitos de
+espaciamiento interno. Una de
+las principales diferencias entre
+la antigua norma IEC 348 y la
+IEC 61010 la constituye el aumento
+del espaciamiento requerido en
+la segunda.
+Conclusiones finales
+Si usted se ve enfrentado con la
+tarea de reemplazar su multímetro,
+realice una simple tarea antes de
+comenzar su búsqueda: analice el
+peor caso que pueda presentarse
+en su trabajo y determine en
+qué categoría quedaría su uso
+o aplicación.
+Primero seleccione un multímetro
+clasificado para la categoría más alta
+en la que podría tener que trabajar.
+Luego, busque un multímetro con
+una tensión nominal para la
+categoría que corresponda a sus
+necesidades. Mientras lo hace, no se
+olvide de las puntas de prueba. La
+norma IEC 61010 rige también para
+las puntas de prueba: las mismas
+deberán estar certificadas en una
+categoría y tensión tan alta o mayor
+que la del multímetro. Cuando se
+trata de su protección personal, no
+permita que las puntas de prueba
+sean el eslabón mas débil.
+Verifique la categoría y la tensión nominal de las puntas de prueba y
+los multímetros.
+Fluke Corporation
+PO Box 9090, Everett, WA USA 98206
+©2003 Fluke Corporation. FlukeView es una marca registrada
+de Fluke Corporation. Todos los derechos reservados.
+Impreso en los EE.UU. 6/2003  Pub-ID 10046-spa Rev. 01
+Acceso vía Internet: http://www.fluke.com

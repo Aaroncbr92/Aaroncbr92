@@ -1,0 +1,1200 @@
+Guía informativa del uso de cámaras termográficas 
+en aplicaciones industriales
+Guía de termografía para 
+mantenimiento predictivo
+
+
+Contenido
+página 
+1. 	 Introducción	
+4
+2.	
+La cámara termográfica y su funcionamiento 	
+6
+3. 	 Ventajas de la termografía	
+8
+4. 	 Uso de termografía para mantenimiento predictivo 	
+12
+5. 	 Elección del proveedor de cámaras termográficas adecuado 	
+24
+6. 	 Física térmica para el mantenimiento predictivo 	
+26
+7.	
+ Encontrar la mejor solución	
+30
+8.	
+ Realización de inspecciones térmicas	
+42
+Esta guía se ha creado en estrecha colaboración con el Centro de Formación de Infrarrojos (ITC).
+Todas las imágenes son únicamente ilustrativas.
+LAS ESPECIFICACIONES PUEDEN CAMBIAR SIN PREVIO AVISO
+© Copyright 2011, FLIR Systems AB. Todas las demás marcas y nombres de productos son marcas registradas de 
+sus respectivos propietarios.
+3
+
+Introducción
+Desde que en 1965 lo que más tarde se convertiría en FLIR Systems 
+vendiera la primera cámara termográfica comercial para inspecciones 
+de cables de alimentación de alta tensión, el uso de cámaras termográficas para el mantenimiento predictivo en aplicaciones industriales 
+ha sido un importante segmento del mercado para FLIR.
+Desde entonces, la tecnología termográfica ha evolucionado. Las cámaras termográficas se han convertido en sistemas compactos con el 
+aspecto de una cámara de vídeo o de fotos digital. Son fáciles de usar 
+y producen imágenes nítidas de alta resolución en tiempo real. 
+La tecnología termográfica se ha convertido en una de las herramientas de diagnóstico más valiosas para el mantenimiento predictivo. 
+Al detectar anomalías que suelen ser invisibles a simple vista, la 
+termografía permite realizar correcciones antes de que se produzcan 
+costosos fallos en el sistema.
+Las cámaras termográficas son una herramienta única que sirve para 
+determinar cuándo y dónde se necesita mantenimiento, puesto que 
+las instalaciones eléctricas y mecánicas suelen calentarse antes de 
+fallar. Al descubrir estos puntos calientes con una cámara termográfica, se puede llevar a cabo una medida preventiva. De este modo, es 
+posible evitar costosas averías o, aún peor, incendios.
+Una cámara termográfica es un fiable instrumento a distancia capaz 
+de analizar y visualizar la distribución de temperatura de superficies 
+completas de equipamiento eléctrico y maquinaria con rapidez y 
+precisión. Los programas de termografía han permitido a nuestros 
+clientes de todo el mundo lograr sustanciales ahorros en los costes.
+4
+Las cámaras termográficas han sufrido una gran evolución durante los últimos 50 años. FLIR Systems siempre ha sido un pionero en 
+termografía que comercializa las cámaras termográficas más avanzadas.
+
+Numerosas industrias de todo el mundo han descubierto las ventajas 
+de incorporar cámaras infrarrojas en sus programas de mantenimiento 
+predictivo.
+Este documento es una guía exhaustiva para estas inspecciones de 
+mantenimiento predictivo. Al realizar este tipo de inspección, hay 
+muchos detalles que se deben considerar. Además de conocer cómo 
+funciona la cámara termográfica y cómo tomar imágenes, es importante conocer la física de la instalación eléctrica o mecánica que se 
+inspecciona y cómo se construye. Todo ello se debe tener en cuenta 
+para comprender, interpretar y evaluar las termografías correctamente.
+Sin embargo, resulta imposible tratar todos los principios, conceptos 
+y usos de los sistemas para el análisis de aplicaciones de mantenimiento predictivo sólo en esta guía. Por ello, cooperamos con el 
+Centro de Formación de Infrarrojos (ITC) para organizar cursos de 
+formación frecuentes diseñados específicamente para aplicaciones de 
+mantenimiento predictivo. 
+Esta guía incluye:
+• 
+Aplicaciones termográficas en el sector del mantenimiento 
+predictivo
+• 
+Funcionamiento de la cámara termográfica y consideraciones al 
+comprar una cámara
+• 
+Consideraciones al tomar imágenes
+5
+Las cámaras termográficas modernas son pequeñas, ligeras y fáciles de usar.
+
+La cámara termográfica
+y su funcionamiento
+Una cámara termográfica registra la intensidad de la radiación en la zona 
+infrarroja del espectro electromagnético y la convierte en una imagen visible. 
+¿Qué son los infrarrojos?
+Nuestros ojos son detectores diseñados para detectar la radiación electromagnética en el espectro de luz visible. Cualquier otro tipo de radiación 
+electromagnética, como la infrarroja, es invisible para el ojo humano. 
+El astrónomo Sir Frederick William Herschel descubrió la existencia de la 
+radiación infrarroja en 1800. Su curiosidad por la diferencia térmica entre los 
+distintos colores de la luz le llevó a dirigir la luz solar a través de un prisma de 
+cristal para crear un espectro y, a continuación, midió la temperatura de cada 
+color. Descubrió que dichas temperaturas crecían en progresión desde la 
+parte del violeta hacia la del rojo.
+Tras revelar este patrón, Herschel midió la temperatura del punto inmediatamente más allá de la porción roja del espectro, en una región sin luz 
+solar visible. Y, para su sorpresa, halló que esa región era la que mostraba la 
+temperatura más alta.
+1
+Sir William Herschel descubrió la radiación infrarroja en 1800.
+6
+
+Los infrarrojos están a medio camino entre el espectro visible y las microondas del espectro electromagnético. La fuente principal de radiación de 
+infrarrojos es el calor o la radiación térmica. Cualquier objeto con una temperatura superior al cero absoluto (-273,15 ºC o 0 Kelvin) emite radiación en la 
+región infrarroja. Hasta los objetos más fríos que podamos imaginar, como 
+los cubitos de hielo, emiten rayos infrarrojos. 
+Todos los días estamos expuestos a rayos infrarrojos. El calor de la luz solar, 
+del fuego o de un radiador son formas de infrarrojos. Aunque nuestros ojos 
+no los vean, los nervios de nuestra piel los perciben como calor. Cuanto más 
+caliente es un objeto, más radiación de infrarrojos emite.
+La cámara termográfica
+La energía de infrarrojos (A) que irradia un objeto se enfoca con el sistema 
+óptico (B) sobre un detector de infrarrojos (C). El detector envía los datos al 
+sensor electrónico (D) para procesar la imagen. Y el sensor traduce los datos 
+en una imagen (E), compatible con el visor y visualizable en un monitor de 
+vídeo estándar o una pantalla LCD.
+La termografía de infrarrojos es el arte de transformar una imagen de infrarrojos en una imagen radiométrica que permita leer los valores de temperatura. Por tanto, cada píxel de la imagen radiométrica es, de hecho, una 
+medición de temperatura. Para ello, se incorporan complejos algoritmos a la 
+cámara de infrarrojos. Esto hace de la cámara termográfica una herramienta 
+perfecta para el mantenimiento predictivo.
+A
+B
+C
+D
+E
+E
+7
+Rayos
+gamma
+Rayos X
+Ultravioleta
+Visible
+Infrarrojos
+Microondas
+Radio
+UHF
+VHF
+Visible
+Infrarrojos
+2
+5
+8
+12 micrómetros
+SW
+LW
+
+2
+Ventajas de la termografía
+Mayor rapidez y máxima eficacia al menor coste. Para alcanzar estos 
+objetivos, las plantas industriales necesitan operar sin interrupciones: 24 horas al día, 365 días al año. 
+Sin costosas averías ni pérdidas de tiempo.
+Así, si es usted el responsable del mantenimiento predictivo de su 
+planta, es mucha la responsabilidad que tiene.  
+Con solo poder prever qué componentes están a punto de averiarse, podría precisar en qué momento adoptar las debidas medidas 
+correctivas. Por desgracia, los peores problemas permanecen ocultos hasta que es demasiado tarde. 
+Las cámaras termográficas son la herramienta perfecta para predecir fallos ya que consiguen hacer visible lo invisible. En una termografía, los problemas saltan a la vista de inmediato.
+Con el fin de mantener sus plantas operativas en todo momento, 
+muchas empresas han combinado sus programas de mantenimiento predictivo con las herramientas de diagnóstico más valiosas para 
+el mantenimiento predictivo del mercado: las cámaras termográficas.
+8
+Inspección de cables de 
+alimentación de alta tensión
+Conexión mal 
+asegurada
+Daños internos en los fusibles
+Mala conexión y daños 
+internos
+Motor recalentado
+Rodillo sospechoso
+Purgador de vapor
+Aislamiento dañado
+
+Tanto si tiene que supervisar equipos de alta tensión, cuadros eléctricos de baja tensión, motores, bombas, equipos de alta temperatura, como buscar pérdidas de aislamiento… una cámara termográfica 
+es justo la herramienta que necesita para VERLO todo.
+Pero ¿qué pasa si no realiza inspecciones térmicas regulares? ¿De 
+verdad es tan malo que se estropee una conexión de baja tensión?
+Al margen de las pérdidas en la producción, hay un peligro mayor.
+Incendios 
+Un pequeño problema eléctrico puede tener gravísimas repercusiones. El rendimiento del sistema eléctrico baja y se gasta más 
+energía en generar calor. Si no se comprueba, este calor puede 
+acumularse hasta el punto de empezar a fundir las conexiones. No 
+solo eso, las chispas que saltan pueden provocar un incendio. 
+Los efectos de un fuego suelen infravalorarse. Además de la 
+destrucción de bienes y equipos, puede generar inmensos costes 
+en concepto de tiempos de producción, daños por agua e incluso 
+pérdidas humanas, imposibles de evaluar.
+Alrededor del 35% de los fuegos industriales tiene su origen en problemas eléctricos que causan pérdidas por valor de 
+300.000.000.000 de euros al año.
+Muchos de estos problemas podrían evitarse con el uso de una 
+cámara termográfica. Puede ayudar a detectar anomalías que normalmente serían invisibles a simple vista y a solucionar problemas 
+antes de que se detenga la producción o se produzca un incendio. 
+Esta es solo una de las razones por las que las cámaras termográficas FLIR permiten rentabilizar la inversión en muy poco tiempo.
+9
+Un pequeño problema eléctrico puede tener graves repercusiones.
+
+Ventajas de las cámaras termográficas
+¿Por qué elegir una cámara termográfica FLIR? Hay otras tecnologías disponibles que permiten medir temperaturas a distancia, como 
+por ejemplo, los termómetros de infrarrojos.
+Termómetros de infrarrojos y cámaras termográficas
+Los termómetros de infrarrojos (IR) son fiables y muy útiles para 
+lecturas de la temperatura de un solo punto, sin embargo, al analizar 
+componentes o zonas de mayor tamaño, es fácil no percibir componentes esenciales que puedan fallar próximamente y necesiten ser 
+reparados. 
+Una cámara termográfica FLIR puede analizar motores, componentes o paneles completos de una vez, por lo que detecta todos los 
+riesgos de recalentamiento, por pequeños que sean.
+Encuentre los problemas con mayor facilidad y rapidez y con 
+extrema precisión.
+Con un termómetro de IR puntual es fácil no detectar problemas 
+críticos. Las cámaras termográficas escanean todos los los componentes para ofrecerle información de diagnóstico instantánea 
+del problema en su totalidad.
+Termómetro de IR, medición de 
+temperatura en un punto
+FLIR i3, temperatura en 3.600 
+puntos
+10
+
+Lo que detecta un termómetro 
+de IR.
+Lo que detecta un termómetro 
+de IR.
+Lo que detecta un termómetro 
+de IR.
+Lo que detecta una cámara 
+termográfica.
+Lo que detecta una cámara 
+termográfica.
+Lo que detecta una cámara 
+termográfica.
+Utilice miles de termómetros de infrarrojos a la vez
+Con un termómetro de infrarrojos, es posible medir la temperatura 
+de un solo punto. Las cámaras termográficas FLIR pueden medir 
+temperaturas en toda la imagen. La FLIR i3 tiene una resolución de 
+imagen de 60 x 60 píxeles. Esto equivale a usar 3.600 termómetros 
+de IR al mismo tiempo. La FLIR P660, nuestro modelo superior, tiene una resolución de imagen de 640 x 480 píxeles, lo que equivale 
+a 307.200 píxeles o a usar 307.200 termómetros de infrarrojos al 
+mismo tiempo.
+11
+
+Uso de termografía 
+para mantenimiento predictivo
+Las cámaras termográficas para inspecciones de mantenimiento 
+predictivo son potentes herramientas no invasivas para la supervisión y 
+el diagnóstico del estado de componentes e instalaciones eléctricas y 
+mecánicas. Con una cámara termográfica, puede identificar problemas 
+en una fase temprana, de forma que se pueden documentar y corregir 
+antes de que se agraven y resulten más costosos de reparar. 
+Las cámaras termográficas FLIR:
+•  
+Son tan fáciles de usar como una videocámara o cámara digital
+•  
+Proporcionan una imagen completa de la situación
+•  
+Permiten llevar a cabo inspecciones mientras los sistemas están 
+cargados
+•  
+Identifican y encuentran el problema
+•  
+Miden temperaturas
+•  
+Guardan información
+•  
+Indican exactamente qué se necesita corregir
+•  
+Ayudan a encontrar fallos antes de que se produzcan problemas
+	
+reales
+•  
+Permiten ahorrar valioso tiempo y dinero
+FLIR Systems ofrece una amplia gama de cámaras termográficas. Tanto 
+si usa la termografía para una inspección de grandes instalaciones 
+industriales como para una inspección de una caja de fusibles en una 
+residencia doméstica, FLIR le puede proporcionar la cámara termográfica adecuada para sus necesidades.
+Una termografía con datos de temperatura precisos proporciona al responsable de mantenimiento información importante acerca del estado 
+del equipamiento inspeccionado. Estas inspecciones se pueden realizar 
+mientras el proceso de producción se encuentra en pleno funcionamiento y, en muchos casos, el uso de una cámara termográfica puede 
+incluso ayudar a optimizar el propio proceso de producción.
+Las cámaras termográficas son una herramienta tan valiosa y versátil 
+que resulta imposible enumerar todas sus posibles aplicaciones. Cada 
+día se desarrollan nuevas e innovadoras formas de emplear la tecnología. Algunas de las formas en las que se pueden usar las cámaras 
+termográficas en el contexto del mantenimiento predictivo se explican 
+en esta sección de la guía.
+3
+12
+
+Sistemas eléctricos
+Las cámaras termográficas se suelen utilizar para inspecciones de componentes y sistemas eléctricos de todos los tamaños y formas. 
+La gran variedad de posibles aplicaciones para las cámaras termográficas 
+en el rango de los sistemas eléctricos se puede dividir en dos categorías: 
+instalaciones de alta y de baja tensión.
+Instalaciones de alta tensión
+El calor es un factor importante en las instalaciones de alta tensión. Cuando la corriente eléctrica pasa a través de un elemento resistivo, genera 
+calor. Una mayor resistencia produce un aumento del calor. 
+Con el tiempo, la resistencia de las conexiones eléctricas aumenta, debido, por ejemplo, a la holgura y la corrosión. El correspondiente incremento 
+de la temperatura puede hacer que los componentes fallen, lo que puede 
+provocar cortes de tensión inesperados e incluso lesiones. Además, la 
+energía empleada en generar calor provoca pérdidas de energía innecesarias. Si no se comprueba, el calor podría acumularse hasta el punto de 
+fundir conexiones y provocar averías e incluso incendios.
+Ejemplos de fallos en instalaciones de alta tensión que se pueden detectar 
+con termografía:
+• 
+Oxidación de interruptores de alta tensión
+• 
+Conexiones recalentadas
+• 
+Conexiones mal aseguradas
+• 
+Defectos de aislamiento
+Estos y otros problemas se pueden detectar en una fase temprana 
+mediante una cámara termográfica. Una cámara termográfica le ayudará 
+a localizar el problema con precisión, determinar la gravedad del mismo y 
+calcular el tiempo en el que se debe reparar el equipo.
+Una visión amplia de una subestación puede mostrar rápidamente las zonas 
+en las que existen conexiones de alta resistencia no deseadas. Ninguna otra 
+tecnología de mantenimiento predictivo es tan eficaz para las inspecciones 
+eléctricas como la termografía.
+13
+
+Una de las múltiples ventajas de la termografía es la capacidad para llevar 
+a cabo inspecciones mientras los sistemas eléctricos están cargados. Al 
+tratarse de un método de diagnóstico sin contacto, el termógrafo puede 
+inspeccionar rápidamente un componente concreto de un equipo a una 
+distancia de seguridad, abandonar la zona de riesgo, regresar a su oficina y 
+analizar los datos sin exponerse a ningún peligro.
+Gracias a que las cámaras termográficas FLIR para mantenimiento predictivo son todas manuales y funcionan con batería, también se pueden utilizar 
+para inspecciones en el exterior: mediante una cámara termográfica de 
+FLIR Systems es posible inspeccionar de manera rápida y eficaz subestaciones de alta tensión, conmutadores, transformadores y disyuntores 
+externos.
+￼
+La continuidad de las utilidades es muy importante, ya que mucha gente 
+confía en sus servicios. Por este motivo, las inspecciones termográficas 
+se han convertido en parte esencial de los programas de mantenimiento 
+preventivo de utilidades en todo el mundo. 
+FLIR puede proporcionar las soluciones termográficas más avanzadas para 
+programas de supervisión constantes que mantienen en funcionamiento la 
+red eléctrica esencial.
+La inspección de una subestación revela componentes recalentados.
+ 
+Las cámaras termográficas permiten inspeccionar instalaciones de alta tensión desde una distancia segura, lo que mejora la seguridad de los operarios.
+Imagen de fusión térmica
+Imagen visual
+Termografía
+14
+
+Instalaciones de baja tensión
+Las cámaras termográficas se utilizan para inspecciones de componentes y 
+sistemas eléctricos de todos los tamaños y formas y su empleo no se limita 
+únicamente a aplicaciones de alta tensión. 
+Con ellas podrá examinar regularmente cuadros eléctricos y centros de control 
+de motores. Si no lo hace, el calor podría acumularse hasta el punto de fundir 
+conexiones y provocar averías e incluso incendios.
+ 
+Además de conexiones sueltas, los sistemas eléctricos sufren desequilibrios de 
+carga, corrosión y aumentos de impedancia de corriente. Las inspecciones térmicas permiten localizar rápidamente puntos calientes, determinar la gravedad 
+del problema y calcular el tiempo en el que se debe reparar el equipo.
+Ejemplos de fallos en equipamiento de baja tensión que se pueden detectar 
+con termografía:
+• 
+Conexiones de alta resistencia
+• 
+Conexiones corroídas
+• 
+Daños internos en los fusibles
+• 
+Fallos internos en los disyuntores
+• 
+Malas conexiones y daños internos
+Estos y otros problemas se pueden detectar en una fase temprana mediante 
+una cámara termográfica. De este modo, se evitarán costosos daños y situaciones peligrosas. 
+Conexión recalentada
+Conexión recalentada
+Esta termografía muestra que la carga no está uniformemente distribuida entre las 
+cajas de fusibles.
+15
+
+La imagen de fusión térmica muestra un 
+conector recalentado.
+Los fusibles que aparecen en la termografía 
+están sobrecargados y se deben reemplazar.
+El punto caliente indica un cortocircuito que podría provocar un incendio.
+El punto caliente indica un cortocircuito que podría provocar un incendio.
+Si desea utilizar cámaras termográficas para inspecciones de baja 
+tensión en plantas de producción, oficinas, hospitales, hoteles o 
+residencias domésticas, FLIR Systems dispone exactamente de la 
+cámara termográfica adecuada para sus necesidades.
+16
+
+Instalaciones mecánicas
+En muchos sectores, los sistemas mecánicos son la espina dorsal 
+de todas las operaciones.
+Los datos térmicos recopilados con una cámara termográfica pueden ser una fuente muy valiosa de información complementaria para 
+los estudios de vibración y la supervisión de los equipos mecánicos. 
+Los sistemas mecánicos se recalientan si hay errores de alineamiento en ciertos puntos del sistema. 
+Las cintas transportadoras son un buen ejemplo. Si un rodillo está 
+gastado, aparecerá claramente en la termografía, indicando que 
+debe cambiarse. 
+Cuando los componentes mecánicos se desgastan y pierden 
+eficiencia suelen disipar más calor. Como resultado, los equipos o 
+sistemas defectuosos aumentan rápidamente su temperatura antes 
+de averiarse. 
+Al comparar periódicamente lecturas de una cámara termográfica 
+con el perfil de temperatura de una máquina en condiciones de 
+funcionamiento normales, es posible detectar una gran cantidad de 
+fallos distintos.
+17
+Esta termografía muestra un motor eléctrico en modo normal de funcionamiento.
+Rodillo sospechoso
+Rodamiento recalentado
+
+También se pueden inspeccionar motores mediante una cámara 
+termográfica. Los fallos en el motor, como los signos de desgaste 
+en el contacto de las escobillas y los cortocircuitos en los armazones, suelen producir un calor excesivo antes del fallo pero son 
+imposibles de detectar mediante un análisis de vibraciones puesto 
+que con frecuencia generan poca o ninguna vibración. La termografía ofrece una visión completa y permite comparar las temperaturas 
+de distintos motores.
+Otros sistemas mecánicos que se supervisan con cámaras termográficas son conexiones, transmisiones, cojinetes, bombas, compresores, correas, turbinas y cintas transportadoras.
+Ejemplos de averías mecánicas que se pueden detectar con la 
+termografía:
+• 
+Problemas de lubricación
+• 
+Errores de alineación
+• 
+Motores recalentados
+• 
+Rodillos sospechosos
+• 
+Bombas sobrecargadas
+• 
+Ejes de motor recalentados
+• 
+Rodamientos calientes
+Estos y otros problemas se pueden detectar en una fase temprana mediante una cámara termográfica. Esto ayudará a evitar que 
+se produzcan daños costosos y a garantizar la continuidad de la 
+producción. 
+Motor: problema en el rodamiento.
+Motor: problema de bobinado interno.
+18
+
+Tuberías
+La termografía también ofrece información muy valiosa sobre el 
+estado del aislamiento de conductos, tuberías y válvulas.
+La inspección del estado del material de aislamiento que rodea las 
+tuberías puede ser vital. Las pérdidas de calor por un aislamiento 
+defectuoso se detectan con mucha claridad en la termografía, lo 
+que permite reparar rápidamente el aislamiento y evitar importantes 
+pérdidas de energía u otros daños.
+Las válvulas de proceso son otro buen ejemplo de equipamiento de 
+tuberías que se suele inspeccionar con cámaras termográficas. Además de para la detección de fugas, una cámara termográfica también 
+se puede utilizar para determinar si la válvula se encuentra abierta o 
+cerrada, incluso a distancia.
+Ejemplos de averías en tuberías que se pueden detectar con la 
+termografía:
+• 
+Fugas en bombas, tuberías y válvulas
+• 
+Averías del aislamiento
+• 
+Obstrucciones en tuberías
+Todos los tipos de fugas, obstrucciones y defectos en el aislamiento 
+se percibirán claramente en la termografía. Además, dado que una 
+termografía puede proporcionar rápidamente una visión general de 
+una instalación completa, no será necesario comprobar cada tubería 
+individualmente.
+19
+Inspección de aislamiento
+Fuga de calor en una instalación de vapor 
+por un aislamiento insuficiente.
+Daño en el aislamiento
+
+Instalaciones refractarias y petroquímicas
+Una gran variedad de industrias emplean hornos y calderas en sus 
+procesos, sin embargo, las tuberías refractarias de los hornos, calderas, 
+estufas, incineradoras, equipos de craqueo y reactores tienden a la 
+degeneración y a la pérdida de rendimiento. Mediante una cámara termográfica, el material refractario dañado y la correspondiente pérdida 
+de calor se pueden localizar con facilidad, puesto que la transmisión de 
+calor se observará claramente en la termografía.
+Las cámaras termográficas de FLIR proporcionarán un diagnóstico 
+rápido y preciso para el mantenimiento de todo tipo de instalaciones 
+que incluyan material refractario.
+Las cámaras termográficas también se utilizan ampliamente en el sector petroquímico. Ofrecen un método de diagnóstico rápido y preciso 
+para el mantenimiento de hornos, la gestión de la pérdida refractaria y 
+la inspección de aletas de condensador. Los intercambiadores de calor 
+se pueden inspeccionar para detectar conductos obstruidos.
+Las cámaras termográficas de FLIR Systems también se utilizan de 
+forma generalizada para la inspección de instalaciones de craqueo. 
+Muchos de los tubos y conductos de un equipo de craqueo tienen 
+aislamiento de piedra refractaria resistente al calor. Las termografías 
+permiten ver fácilmente si el aislamiento sigue intacto.
+Inspección de material refractario en la 
+chimenea de un horno. 
+Averías de los componentes refractarios 
+de un horno rotatorio de cemento
+Inspección del aislamiento refractario en 
+un reactor petroquímico
+Defecto de aislamiento 
+refractario
+20
+
+No obstante, el equipamiento de hornos y calderas también suele 
+presentar fallos en otros mecanismos. Algunos ejemplos de esto son 
+el coque que penetra en las tuberías y obstruye el flujo del producto, la 
+acumulación de escoria en el exterior de los tubos, el recalentamiento 
+y el calentamiento inferior al deseado, el impacto de la llama en las tuberías por una alineación incorrecta del quemador y fugas de producto 
+que se inflaman y provocan daños graves en el equipo.
+Ver a través de las llamas
+Para garantizar la calidad refractaria de instalaciones de calderas y 
+hornos no basta con realizar inspecciones desde el exterior. El material 
+refractario del interior de calderas u hornos también debe inspeccionarse. Con los métodos convencionales, es necesario cerrar la 
+instalación para poder inspeccionar su interior. Esto resulta extremadamente costoso por la pérdida de producción durante el tiempo en el 
+que permanece cerrada la instalación que conlleva. Estas pérdidas son 
+innecesarias. No obstante, FLIR Systems también cuenta con cámaras 
+termográficas especiales que se pueden utilizar para inspeccionar el 
+interior de la instalación mientras está en funcionamiento. 
+Esto es posible gracias al filtro de llamas que FLIR ha incluido en el 
+diseño de estas cámaras termográficas. Las llamas emiten radiación 
+infrarroja a distintas intensidades con diferentes longitudes de onda 
+y, en ciertas longitudes de onda del espectro de infrarrojos, las llamas 
+casi no emiten radiación térmica. Un filtro de llamas utiliza este hecho 
+para permitir a la cámara termográfica "ver" a través de las llamas.
+La capacidad de estas cámaras termográficas FLIR de "ver" a través de 
+las llamas permite al operador inspeccionar la instalación de la caldera 
+u horno mientras se encuentra a pleno rendimiento. Esto no solo 
+elimina el tiempo de inactividad durante las inspecciones, sino que la 
+información recopilada con la cámara termográfica también puede ser 
+un mecanismo de control de gran importancia para aumentar de forma 
+segura el nivel de producción, lo que puede mejorar en gran medida el 
+rendimiento de la instalación.
+Algunas cámaras termográficas de FLIR pueden medir la temperatura tras las llamas.
+21
+
+Otras aplicaciones
+Además de las aplicaciones ya mencionadas, hay muchas más aplicaciones en las que se emplea la tecnología termográfica. 
+Detección de llamas
+Ciertos procesos de producción generan gases que arden en forma 
+de llamas. Estas llamas a veces son invisibles al ojo humano. Es 
+importante comprobar que la llama esté ardiendo, ya que, de lo contrario, podrían liberarse gases dañinos a la atmósfera. Las termografías permiten ver fácilmente si la llama está ardiendo o no.
+ 
+￼
+Una cámara termográfica puede supervisar las llamas que son invisibles a simple 
+vista. Observe que la llama es invisible en la imagen izquierda.
+Detección de nivel de depósitos
+Las termografías también se utilizan para detectar niveles en depósitos. Gracias a los efectos de emisividad o a las diferencias de temperatura, son capaces de indicar de forma clara el nivel de líquido. 
+Estas termografías muestran claramente el nivel de líquido en los depósitos de 
+almacenamiento.
+22
+
+Otras aplicaciones:
+• 
+Localización de puntos calientes en robots de soldadura
+• 
+Inspección de material aeronáutico
+• 
+Inspección de moldes
+• 
+Comprobación de la distribución térmica en pavimentos asfálticos
+• 
+Inspecciones en fábricas de papel
+ ￼
+Punto caliente en robot de soldadura	
+Termografía de una fábrica de papel
+￼
+Termografía de un molde 	
+Pavimentos asfálticos
+Si está interesado en inspeccionar instalaciones eléctricas, equipamiento mecánico, niveles de depósito, instalaciones con material 
+refractario, tuberías, quemadores de llamas y muchos otros tipos de 
+instalaciones, la termografía es la herramienta perfecta para todas 
+las inspecciones de mantenimiento predictivo.
+FLIR Systems le ofrece la solución perfecta para las aplicaciones 
+de mantenimiento predictivo más exigentes. Desde el modelo de 
+cámara termográfica más económico hasta el más avanzado, FLIR 
+Systems le ofrece una gama de productos completa para que pueda 
+elegir la cámara termográfica que mejor se ajuste a sus necesidades.
+23
+
+Elección del proveedor de cámaras termográficas adecuado
+La compra de una cámara termográfica es una inversión a largo plazo. 
+Desde el momento en que empieza a utilizarla, la seguridad de instalaciones completas y del personal puede depender de ella. Por lo tanto, no 
+solo debe seleccionar la cámara termográfica que mejor se ajuste a sus 
+necesidades, sino también un proveedor de confianza que le ofrezca sus 
+servicios durante un periodo de tiempo prolongado
+Una marca bien establecida le debe ofrecer:
+• 
+Equipamiento 
+Cada usuario tiene necesidades distintas. Por eso, es muy importante 
+que el fabricante pueda ofrecer una gama completa de cámaras termográficas, desde modelos básicos económicos a modelos avanzados de gama alta, para que pueda elegir el que se ajusta mejor a sus 
+necesidades.
+• 
+Software 
+Independientemente del uso que dé a las cámaras termográficas, 
+necesitará software para analizar las termografías y crear informes 
+de sus conclusiones para los clientes o la dirección. Elija una cámara 
+termográfica que se pueda combinar con el software adecuado para 
+su aplicación.
+• 
+Accesorios 
+Cuando empiece a usar una cámara termográfica y descubra todas 
+las ventajas que tiene que ofrecer, es posible que cambien sus 
+necesidades. Asegúrese de que su sistema puede adaptarse a sus 
+necesidades. El fabricante debe poder ofrecer distintos tipos de 
+lentes, pantallas, etc.
+• 
+Mantenimiento 
+Aunque la mayor parte de las cámaras termográficas que se usan 
+para inspecciones de mantenimiento predictivo no necesitan mantenimiento, es recomendable que se asegure de disponer de un centro 
+de mantenimiento cercano en caso de que algo le ocurra a la cámara. Las cámaras termográficas también se deben volver a calibrar 
+cada cierto tiempo. En ambos casos, en lugar de tener que enviar la 
+cámara al otro extremo del mundo, es preferible contar con un centro 
+de reparación en su zona para volver a disponer de la cámara en el 
+menor tiempo posible.
+• 
+Formación 
+El mundo de la termografía no se limita únicamente a saber cómo se 
+maneja la cámara. Seleccione un proveedor que le pueda ofrecer una 
+buena formación y asistencia para aplicaciones cuando se necesite.
+4
+24
+
+25
+
+Física térmica para el mantenimiento 
+predictivo
+Para interpretar las termografías correctamente, el operador necesita 
+conocer los distintos materiales y circunstancias que influyen en las 
+lecturas de temperatura de la cámara termográfica. Algunos de los 
+factores más importantes que influyen en las lecturas de temperatura 
+son los siguientes:
+1. Conductividad térmica
+Los distintos materiales tienen propiedades térmicas diferentes. Por 
+ejemplo, el aislamiento se suele calentar lentamente, mientras que los 
+metales se suelen calentar rápidamente. Esto se denomina conductividad térmica. La diferencia en la conductividad térmica de dos materiales puede provocar importantes diferencias de temperatura en ciertas 
+situaciones.
+2. Emisividad 
+Para leer bien las temperaturas, hay que tener en cuenta un importante 
+factor: la «emisividad». La emisividad se define como la capacidad que 
+tiene un cuerpo para emitir infrarrojos. Depende en gran medida de las 
+propiedades de los materiales del cuerpo.
+ 
+5
+Si observa la termografía, es posible que piense que la pintura dorada es más fría 
+que la superficie de la taza. En realidad, tienen exactamente la misma temperatura, la 
+diferencia en la intensidad de la radiación infrarroja está provocada por una diferencia 
+en la emisividad.
+26
+
+Es muy importante establecer la emisividad correcta en la cámara o, de lo 
+contrario, las mediciones de temperatura no serán correctas. Las cámaras 
+termográficas de FLIR Systems tienen ajustes predefinidos de emisividad 
+para muchos materiales. Si no encuentra alguno, búsquelo en una tabla de 
+emisividad.
+La termografía de la izquierda tiene la configuración de emisividad correcta para 
+la piel humana (0,97) y la lectura de temperatura muestra la temperatura correcta (36,7 °C). En la termografía de la derecha se ha especificado una emisividad 
+incorrecta (0,15), lo que genera una lectura de temperatura falsa (98,3 °C).
+3. Reflexión
+Algunos materiales reflejan la radiación térmica del mismo modo que un 
+espejo refleja la luz visible. Entre estos están los metales no oxidados, 
+especialmente si se han pulido. Las reflexiones pueden provocar una 
+interpretación incorrecta de la termografía. Así, por ejemplo, la reflexión 
+de la radiación térmica del propio operador podría indicar falsos puntos 
+calientes. Por lo tanto, el operador debe elegir cuidadosamente el ángulo 
+desde el que la cámara termográfica apunta al objeto, con el fin de evitar 
+dichas reflexiones.
+La ventana refleja radiación térmica, de forma que, para la cámara termográfica, la ventana actúa como un espejo.
+Si el material de la superficie del objeto tiene una baja emisividad, como el 
+metal no oxidado mencionado anteriormente, y existe una gran diferencia 
+de temperatura entre el objeto y la temperatura ambiente, la reflexión de la 
+temperatura ambiente influirá en las lecturas de temperatura de la cámara 
+termográfica. Para solucionar este problema, FLIR ha incluido la opción en 
+sus cámaras termográficas de definir la temperatura ambiente y compensar la temperatura aparente reflejada.
+27
+
+Un buen método de configurar correctamente la emisividad y la 
+reflexión consiste en usar un trozo de cinta con una emisividad 
+conocida (por lo general, cercana a 1), también llamada "cinta de 
+calibración". Este trozo de cinta se coloca en el material de la superficie del objeto y se deja ahí durante unos minutos, los suficientes 
+para que adquiera la temperatura de la superficie del objeto. Al usar 
+la emisividad conocida, se determina la temperatura exacta de la 
+cinta. Dado que esta temperatura es la misma que la del material de 
+la superficie, el operador puede entonces cambiar la configuración 
+de la emisividad (y la de la reflexión, si es necesario) de forma que 
+la lectura de temperatura sea igual a la lectura de temperatura de la 
+cinta de calibración en el momento anterior.
+4. Condiciones meteorológicas
+La temperatura ambiente puede tener una gran influencia en las 
+lecturas de temperatura. Una elevada temperatura ambiente puede 
+ocultar puntos calientes al calentar todo el objeto, mientras que una 
+temperatura ambiente baja podría enfriar los puntos calientes hasta 
+una temperatura inferior a un umbral determinado previamente.
+Estos dos "puntos calientes" pueden parecer zonas cálidas pero, en realidad, esto está 
+causado por la reflexión de las superficies metálicas no oxidadas. Un indicador es el 
+hecho de que los verdaderos puntos calientes suelen mostrar un patrón homogéneo, a 
+diferencia de las reflexiones.
+El hecho de que el "punto caliente" de la imagen intermedia desaparezca cuando se 
+cambia ligeramente la ubicación de la cámara termográfica demuestra que este aparente "punto caliente" está causado por la reflexión. Este es otro indicador.
+28
+
+Esta termografía presenta un aspecto extraño si no se conocen las circunstancias en las 
+que se ha tomado. Los cables no están cargados. Se encuentran en una sala cálida y 
+las superficies metálicas no oxidadas reflejan la temperatura ambiente cálida.
+Como es obvio, la luz solar directa también puede tener una gran 
+influencia, no obstante, tanto la luz solar directa como las sombras 
+pueden influir en el patrón térmico incluso varias horas después 
+de que haya terminado la exposición a la luz solar. Estos patrones 
+provocados por la luz solar no se deben confundir con los patrones 
+generados por transferencia de calor. Otro factor meteorológico que 
+se debe tener en cuenta es el viento. Los flujos de aire refrigeran el 
+material de la superficie, reduciendo las diferencias de temperatura 
+entre las áreas calientes y las frías. 
+Otro factor evidente que puede inutilizar la inspección por termografía es la lluvia, que enfría el material de la superficie. Incluso cuando 
+acaba de llover, la evaporación del agua enfría el material de la 
+superficie. Como es lógico, esto puede provocar patrones térmicos 
+incorrectos.
+5. Sistemas de calefacción y ventilación
+Las influencias externas en la temperatura de la superficie también 
+se pueden encontrar en el interior. La temperatura ambiente puede 
+influir sobre la temperatura de la superficie del objeto, pero también 
+hay otro factor: el control del clima. Los sistemas de calefacción 
+crean diferencias de temperatura que pueden generar patrones térmicos incorrectos. Los flujos de aire frío de ventiladores o sistemas 
+de aire acondicionado pueden tener el efecto contrario, refrigerar 
+el material de la superficie mientras los componentes situados por 
+debajo de la superficie permanecen calientes, lo que puede provocar 
+que no se detecten posibles defectos.
+29
+
+Encontrar la mejor solución
+Existen básicamente seis requisitos esenciales que se deben evaluar al investigar una combinación apropiada de la cámara termográfica, el software y la formación:
+1.	
+Resolución de la cámara / calidad de la imagen
+2.	
+Sensibilidad térmica
+3.	
+Precisión
+4.	
+Funciones de la cámara
+5.	
+Software
+6.	
+Demandas de formación
+1. Resolución de la cámara
+La calidad de la imagen o resolución de la cámara es un factor 
+importante. Los modelos básicos más económicos tienen una resolución de 60 x 60 píxeles, mientras que los modelos avanzados de 
+alta gama tienen una resolución de 640 x 480 píxeles. 
+Las cámaras termográficas con una resolución de 320 x 240 o 640 
+x 480 píxeles ofrecen una calidad de imagen superior. Para inspecciones más avanzadas, la resolución de 640 x 480 píxeles se está 
+convirtiendo en la referencia para los termógrafos profesionales.
+Una cámara con 640 x 480 píxeles tiene 307.200 puntos de medición en una imagen, cuatro veces más que una cámara con 320 x 
+240 píxeles y 76.800 puntos de medición. No solo mejora la precisión de la medición, sino que también existe una gran diferencia en 
+la calidad de la imagen. 
+Una alta resolución ayuda a ver, medir e interpretar con mayor 
+precisión.
+6
+Termografía: 640 x 480 píxeles
+Termografía: 320 x 240 píxeles
+30
+
+Mediante una cámara con una resolución mayor, se puede cubrir un 
+objeto de mayor tamaño en una sola imagen. Con una resolución 
+inferior, se necesitan más imágenes para cubrir la misma zona con 
+el mismo nivel de detalle. Mediante una cámara de 640 x 480 píxeles equipada con una lente de 45 grados, es posible inspeccionar un 
+área de alrededor de 4 m x 3 m a 5 metros de distancia con solo una 
+imagen. Para inspeccionar la misma instalación con una cámara de 
+320 x 240 píxeles con una lente también de 45 grados, se necesitarían cuatro imágenes a la mitad de distancia. Esto no solo aumenta 
+la eficiencia sobre el terreno, sino que la menor cantidad de imágenes que se toman ahorra tiempo en la fase de documentación.
+Una mejor resolución de la imagen también conlleva una mayor precisión de la medición. La termografía de 640 x 480 píxeles de la izquierda muestra una temperatura de 
+63,9 °C, mientras que la termografía de 320 x 240 píxeles de la derecha indica 42,7 °C
+320 x 240 píxeles
+31
+160 x 120 píxeles
+640 x 480 píxeles
+
+2. Sensibilidad térmica
+La sensibilidad térmica define la magnitud de 
+una diferencia de temperatura que la cámara 
+puede detectar. Mientras mejor sea la sensibilidad térmica, menor será la diferencia de 
+temperatura mínima que la cámara termográfica puede captar y mostrar. Por lo general, la 
+sensibilidad térmica se describe en ºC o mK. 
+Las cámaras termográficas más avanzadas 
+para mantenimiento predictivo tendrán una sensibilidad térmica de 
+0,03 °C (30 mK). 
+La capacidad de detectar estas diferencias de temperatura en minutos es importante en la mayoría de las aplicaciones termográficas. 
+Una sensibilidad alta de la cámara es particularmente importante 
+en aplicaciones de mantenimiento predictivo en las que las diferencias de temperatura son pequeñas. Estas pequeñas diferencias de 
+temperatura pueden aportar información esencial para diagnosticar 
+el problema y planificar nuevas acciones.
+3. Precisión
+Todas las mediciones pueden presentar errores y, desafortunadamente, las mediciones de temperatura con termografía no son una 
+excepción. Aquí es donde la precisión termográfica entra en acción.
+En los documentos técnicos de termografía, la precisión se expresa 
+en porcentajes y en grados centígrados. Este es el margen de error 
+en el que operará la cámara. La temperatura medida puede variar 
+desde la temperatura real al porcentaje mencionado o la temperatura absoluta, la que sea mayor.
+El estándar del sector actual para la precisión es de ±2% / ±2 °C. 
+Las cámaras termográficas más avanzadas de FLIR Systems obtienen una puntuación aún mejor: ±1% / ±1 °C.
+Sensitivity
+0.03°C
+32
+
+4. Funciones de la cámara
+Emisividad y reflexión
+Como se ha tratado en el capítulo anterior, la emisividad del objeto es un 
+parámetro muy importante que se debe tener en cuenta. Todas las cámaras termográficas de FLIR para aplicaciones de mantenimiento predictivo 
+permiten al operador definir la emisividad y la reflexión. La capacidad de 
+definir la reflexión y la emisividad marca una gran diferencia. Al adquirir 
+una cámara termográfica es recomendable que se asegure de que estas 
+funciones se incluyen en el diseño.
+Intervalo y corrección de niveles manual
+Otra importante función de la cámara es la opción de definir manualmente 
+el intervalo y el nivel de las termografías mostradas. Sin esta función, la 
+cámara detectará automáticamente las temperaturas máxima y mínima 
+de toda la escena y mostrará todas las temperaturas en ese intervalo. Sin 
+embargo, en ocasiones, el operador solo está interesado en una pequeña 
+parte de esa escala de temperaturas. Por ejemplo: un operador que inspecciona las líneas de transmisión de un poste en un día frío. 
+Cuando la cámara se encuentra en el modo automático, mostrará todas 
+las temperaturas, desde el aire frío (digamos 8 ºC por ejemplo) hasta la 
+temperatura más caliente de la línea de transmisión (digamos 51 ºC). En 
+esta imagen, el poste completo aparecerá en la termografía como un 
+área cálida monocromática. Sin embargo, si se definiera una temperatura 
+mínima de 24 ºC en lugar de 8 ºC, de inmediato todas las diferencias de 
+temperatura entre los distintos componentes podrían verse en la termografía, lo que permitiría al operador detectar mejor el conector recalentado.
+￼
+Dos versiones de la misma imagen: ajustada automáticamente (izquierda) y ajustada 
+térmicamente en el componente (derecha). El intervalo de la imagen ajustada automáticamente es demasiado amplio.
+33
+
+Termografía
+Imagen visual
+Cámara digital
+En ocasiones, resulta muy complicado ver qué componentes 
+aparecen en la termografía, especialmente en situaciones 
+complejas con una gran cantidad de componentes en una 
+sola imagen o cuando se toman imágenes desde cerca. 
+En tales casos, puede resultar muy útil tomar también una 
+imagen con luz visible del objetivo que le permita localizar los 
+componentes en la termografía. Para ello, la mayoría de las 
+cámaras termográficas de FLIR para mantenimiento predictivo 
+cuentan con una cámara digital integrada.  La mayor parte de los 
+profesionales de mantenimiento predictivo que usan cámaras 
+termográficas afirman que siempre toman una imagen con luz 
+visible, para asegurarse de conocer lo que se muestra en la 
+termografía.
+Iluminación LED
+Aunque una cámara termográfica no necesita luz de ningún tipo 
+para producir termografías nítidas, es recomendable elegir una 
+cámara con una luz integrada.
+Disponer de una luz en la cámara garantiza que la cámara 
+digital integrada de luz visible pueda producir imágenes claras, 
+necesarias para aprovechar al máximo las funciones Imagen 
+en imagen y Fusión térmica, independientemente de las 
+condiciones de iluminación.
+Estas dos imágenes se han tomado con la cámara visual integrada de una cámara 
+termográfica FLIR. La foto de la derecha se ha realizado con las luces integradas 
+encendidas.
+34
+
+La función Imagen en imagen permite obtener una clara visión general de estas 
+instalaciones de alta tensión.
+Termografía
+Imagen visual
+Imagen de fusión térmica
+Termografía
+Imagen visual
+Imagen de fusión térmica
+Imagen en imagen
+Mediante la función Imagen en imagen, el operador puede 
+combinar imágenes de la cámara digital y la cámara termográfica. 
+La imagen combinada muestra un recuadro sobre la foto digital 
+con una sección de la termografía que se puede desplazar y 
+cambiar de tamaño. Esto permite al operador localizar mejor los 
+problemas. 
+Fusión térmica
+Esta función permite al operador combinar sin problemas dos 
+imágenes definiendo parámetros de temperatura dentro de los 
+que se muestran datos térmicos y fuera de los cuales se muestra 
+la foto digital.  Esto permite aislar problemas, identificar mejor los 
+componentes que se deben reemplazar y crear informes sobre los 
+mismos y realizar reparaciones más eficientes.
+35
+
+Puntero láser
+Algunas cámaras termográficas cuentan con un 
+puntero láser integrado. Hay varias razones por las 
+que esta característica es importante.
+El puntero láser permite ver con precisión hacia 
+donde enfoca la lente de la cámara de infrarrojos. 
+Con solo pulsar un botón, la posición del láser le 
+permitirá ver exactamente hacia donde enfoca la 
+cámara termográfica, lo que le permite identificar 
+fácilmente el objetivo de medición. 
+Otra razón es la seguridad. El puntero láser elimina 
+la tendencia de apuntar con el dedo a los objetos, 
+lo que puede resultar peligroso en el contexto 
+industrial.
+Lentes intercambiables
+Cuando empiece a usar una cámara termográfica y descubra 
+todas sus posibilidades, es posible que cambien sus 
+necesidades. Con las lentes intercambiables, puede adaptar su 
+cámara termográfica a cualquier situación. Para la mayoría de las 
+aplicaciones, las lentes estándares pueden ser la mejor solución, 
+sin embargo, en ocasiones necesita un campo de visión distinto.
+ 
+En algunos casos, no hay suficiente espacio para retroceder y 
+abarcar toda la imagen. Una lente de ángulo amplio puede ser 
+la solución perfecta. Resulta idónea para objetivos amplios o 
+altos, como paneles eléctricos o maquinaria para la producción 
+de papel. Cuando el objetivo se encuentra algo alejado, puede 
+ser útil emplear un teleobjetivo. Son perfectos para objetivos 
+pequeños o lejanos, como cables de alimentación aéreos.
+Los teleobjetivos ofrecen una visión detallada del objeto y una medición precisa
+36
+
+Diseño ergonómico y facilidad de uso
+Por lo general, todas las herramientas que se utilizan deben ser 
+ligeras, compactas y fáciles de usar. Dado que la mayor parte de los 
+operadores de mantenimiento predictivo usarán cámaras termográficas con frecuencia durante prolongados períodos de tiempo, el diseño ergonómico es muy importante. Asimismo, los botones físicos 
+y el diseño del menú también deben ser muy intuitivos y sencillos, 
+para que faciliten un uso eficiente.
+FLIR Systems intenta encontrar un equilibrio perfecto entre el peso, 
+la funcionalidad y la facilidad de uso en todas las cámaras termográficas que fabrica. Gracias a esta política, varios de sus diseños han 
+sido galardonados.
+Formato de la imagen
+Un factor que afecta a la rapidez con la que se crean informes es el 
+formato de la imagen en el que la cámara termográfica almacena la 
+termografía. Algunas cámaras termográficas almacenan las imágenes y datos térmicos en un formato propio, por lo que se necesita 
+software adicional para convertir las termografías a una imagen 
+JPEG estándar.
+Una cámara FLIR proporciona una imagen JPEG completamente 
+radiométrica. Esto quiere decir que toda la información de temperatura se incluye en la imagen y que las imágenes se pueden integrar 
+fácilmente en software estándar.
+Todas las cámaras termográficas FLIR almacenan imágenes en formato JPEG.
+37
+
+Galería de imágenes en miniatura
+Al registrar termografías in situ, 
+puede resultar importante buscar y 
+comparar termografías tomadas anteriormente en la memoria de la cámara. Por tanto, todas las cámaras 
+termográficas de FLIR cuentan con 
+una galería de imágenes en miniatura de fácil acceso que le permitirá 
+revisar rápidamente las termografías 
+guardadas para encontrar la que desea; una función muy cómoda y que 
+le permitirá ahorrar mucho tiempo.
+Comentarios de voz y texto
+Para agilizar las inspecciones y la fase de documentación, 
+algunas cámaras termográficas permiten escribir comentarios de texto con un teclado en pantalla táctil integrado, 
+lo que permite redactar un informe de manera mucho más 
+rápida y sencilla. Algunas cámaras termográficas incluso 
+permiten grabar comentarios de voz mientras trabaja, lo 
+que puede reducir a cero el tiempo empleado en escribir 
+notas durante las inspecciones térmicas.
+Localización por GPS
+¿Se ha olvidado alguna vez de dónde 
+se realizó una termografía? ¿No pudo 
+encontrar las notas que escribió para 
+recordar la ubicación? Algunos de los 
+modelos más avanzados cuentan con 
+una función de GPS para etiquetar la 
+termografía con su ubicación geográfica. Esta tecnología GPS le permitirá 
+registrar la información de la ubicación en la que se ha realizado cada 
+termografía.
+ABC
+38
+
+Compatibilidad con sensores externos
+En ocasiones, la temperatura sola le proporciona demasiado 
+poca información sobre el equipo. Para obtener una imagen 
+completa, muchos inspectores de mantenimiento predictivo 
+utilizan sensores externos, como pinzas amperimétricas. Los 
+valores de la pinza amperimétrica se anotan y, posteriormente, 
+el inspector copiará los valores anotados en su informe. Este 
+método no es eficiente y es susceptible de presentar errores 
+humanos. 
+Para facilitar inspecciones fiables y eficientes, FLIR Systems 
+ofrece cámaras termográficas que pueden guardar automáticamente los valores de una pinza amperimétrica en la termografía 
+mediante la conectividad Bluetooth MeterLink. La toma de notas se dejará atrás cuando las lecturas de la pinza amperimétrica 
+se transfieran de forma automática e inalámbrica a la cámara y 
+se almacenen en la termografía correspondiente.
+39
+
+Conectividad inalámbrica
+Mediante la tecnología WiFi, puede comunicarse de forma 
+inalámbrica con la cámara para, por ejemplo, enviar imágenes 
+directamente desde la cámara a un smartphone o tablet PC. 
+WIFI
+40
+
+5. Software
+Tras realizar la inspección, es probable que 
+tenga que presentar los resultados de la misma a sus responsables o clientes. El análisis 
+de termografías y la creación de informes de 
+inspección completos son tareas importantes. Es recomendable que se asegure de que 
+su cámara termográfica incluye un paquete 
+de software básico que le permita hacer esto.
+ 
+La mayoría del software incluido en cámaras 
+termográficas le permitirá hacer informes y análisis básicos. Se incluirán herramientas para realizar mediciones de la temperatura en un solo punto u otro tipo 
+de mediciones básicas.
+ 
+Si necesita más opciones de análisis e informes, el fabricante de la cámara 
+termográfica debe ofrecer un paquete de software más avanzado. Entre las 
+funciones que se incluyen en este paquete deben estar las siguientes:
+-	
+Diseño de página de informes flexible para informes personalizados
+-	
+Herramientas potentes  de análisis de temperatura: medición de varios 
+puntos, áreas y diferencias de temperatura
+-	
+Fusión triple de Imagen en imagen (se puede mover, cambiar de tamaño 
+y escalar)
+-	
+Funcionalidad de tendencias
+-	
+Creación de fórmulas mediante valores de medición termográficos
+-	
+Reproducción de secuencias radiométricas directamente en el informe
+-	
+Funcionalidad de búsqueda para encontrar rápidamente imágenes para 
+el informe
+-	
+Herramienta panorámica para combinar varias imágenes en una más 
+grande
+ 
+Gracias a una buena información de análisis y un buen informe térmico, podrá 
+mostrar con claridad a sus responsables o clientes dónde se encuentran los 
+posibles problemas y convencerlos de las medidas preventivas que se deben 
+tomar.
+6. Demandas de formación
+FLIR coopera con el Centro de Formación de Infrarrojos (ITC), un centro de formación internacional 
+independiente que cuenta con la certificación ISO. El 
+ITC ofrece desde breves cursos de introducción hasta 
+cursos de certificación. Para obtener más información, visite www.infraredtraining.com.
+41
+
+Realización de 
+inspecciones térmicas
+Tras recibir la cámara termográfica, la inspección puede comenzar. 
+Pero, ¿por dónde empezar? En esta sección de la guía encontrará 
+varios métodos termográficos que le servirán para empezar.
+1. Definir la tarea
+Enumere todo el equipamiento que desee supervisar. En muchos 
+contextos corporativos, esa lista ya está disponible; lo único que debe 
+hacer es eliminar aquellas entradas de la lista que no son adecuadas 
+para inspecciones termográficas.
+El siguiente paso consiste en asignar prioridades en la lista. Casi todas 
+las empresas conservan registros de mantenimiento y producción. Estos registros mostrarán qué equipamiento muestra una mayor tendencia a fallar y, por tanto, debe ser inspeccionado más cuidadosamente. 
+Además, se deben tener en cuenta las consecuencias directas del 
+fallo. El equipamiento esencial se debe supervisar con más frecuencia 
+y atención que el equipamiento que puede permanecer temporalmente fuera de servicio sin afectar la funcionalidad del proceso completo.
+Basándose en esta información, puede comenzar a programar las 
+inspecciones térmicas. Pero aún no está listo para empezar. Hay otro 
+paso de vital importancia que debe completar.
+2. Realizar una inspección inicial
+Antes de poder comenzar a diagnosticar los problemas de su equipamiento, necesita contar con material de referencia. Por lo tanto, 
+es recomendable que realice termografías de todo el equipamiento 
+que desea inspeccionar. Esto se debe realizar durante el funcionamiento normal. Tenga en cuenta que, en ciertos casos, es posible que 
+deba realizar varias termografías de una sola pieza del equipamiento, 
+especialmente si tiene componentes esenciales o subsistemas con 
+tendencia a fallar. 
+7
+42
+
+Estas imágenes le servirán como material de referencia inicial. Por lo 
+tanto, resulta muy importante documentar bien su inspección inicial. 
+Asegúrese de tener en cuenta todos los factores mencionados en 
+la sección 3 de esta guía para realizar mediciones de temperatura 
+precisas. El informe de la inspección inicial debe incluir los métodos 
+utilizados, como la configuración de emisividad y reflexión de cada pieza del equipamiento, así como una descripción de la ubicación exacta 
+de cada termografía.
+Cuando disponga de una base de datos de imágenes de referencia, 
+puede determinar qué temperaturas son aceptables para cada pieza 
+del equipamiento y definir un umbral de alarma de temperatura. Esto 
+permite a la cámara activar una alarma si alguna parte de la termografía se calienta demasiado, lo que ayuda a agilizar las inspecciones 
+futuras. Registre esta alarma de temperatura para usarla más adelante.
+Toda esta información le ayudará a determinar si el equipamiento ha 
+presentado algún problema durante las últimas inspecciones.
+3. Iniciar la inspección
+Si se han realizado y documentado correctamente todas las mediciones de temperatura de referencia, puede comenzar a inspeccionar 
+el equipo. Debe disponer de una completa lista con las piezas del 
+equipamiento que se deben comprobar y una programación de las inspecciones que tenga en cuenta la tendencia del equipamiento a fallar y 
+el impacto del posible fallo en el proceso completo.
+Si una pieza del equipamiento está lista para la inspección térmica, 
+solo tiene que establecer la alarma de temperatura correcta y comenzar la inspección. Si la alarma se activa, esta pieza del equipamiento 
+deberá ser analizada en mayor profundidad.
+43
+
+Tenga en cuenta que la alarma de temperatura no implica que no sea 
+necesario analizar con atención las termografías. El operador de la cámara 
+termográfica necesita comprender en profundidad la física de la tecnología 
+termográfica y el funcionamiento del equipamiento inspeccionado. Para 
+ilustrar esto, debe observar los fusibles fundidos y los sistemas de refrigeración con un flujo de refrigerante limitado. Solo existen dos problemas 
+que provoquen puntos fríos, en lugar de puntos calientes. Por lo tanto, le 
+recomendamos que se familiarice con todos los indicios de calor relacionados con fallos del equipamiento.
+4. Análisis y creación de informes
+Cuando se haya inspeccionado todo el equipo, deberá volver a la oficina para 
+realizar el análisis de las imágenes y resumir las conclusiones en un informe. 
+Pero esto no termina aquí. FLIR Reporter le permite realizar un seguimiento preciso del rendimiento térmico de su equipamiento en el tiempo con 
+gráficos sencillos. Esta información le ayudará a predecir mejor cuándo 
+necesitará mantenimiento el equipamiento, lo que le permitirá planificar con 
+antelación.
+44
+
+GARANTIA 
+DEL PRODUCTO*
+GARANTIA 
+DEL DETECTOR*
+* Al registrar su producto FLIR en: www.flir.com
+A
+Ñ
+O
+S
+A
+Ñ
+O
+S
+FLIR i3 / i5 / i7
+FLIR E-Series
+FLIR T-Series
+FLIR T640 / T620
+FLIR P-Series
+45
+
+NOTAS
+46
+
+NOTAS
+47
+
+FLIR Commercial Systems B.V.
+Luxemburgstraat 2
+2321 Meer
+Belgium
+Tel. : +32 (0) 3665 5100
+Fax : +32 (0) 3303 5624
+e-mail: flir@flir.com
+ 
+FLIR Systems Sweden
+Rinkebyvägen 19
+PO Box 3
+SE-182 11 Danderyd
+Sweden
+Tel.: +46 (0)8 753 25 00
+Fax: +46 (0)8 753 23 64
+e-mail: flir@flir.com
+FLIR Systems UK
+2 Kings Hill Avenue - Kings Hill
+West Malling
+Kent
+ME19 4AQ
+United Kingdom
+Tel.: +44 (0)1732 220 011
+Fax: +44 (0)1732 843 707 
+e-mail: flir@flir.com
+FLIR Systems Germany
+Berner Strasse 81
+D-60437 Frankfurt am Main
+Germany
+Tel.: +49 (0)69 95 00 900
+Fax: +49 (0)69 95 00 9040
+e-mail: flir@flir.com
+ 
+FLIR Systems France
+19, bld Bidault
+77183 Croissy-Beaubourg
+France
+Tel.:  +33 (0)1 60 37 01 00
+Fax: +33 (0)1 64 11 37 55
+e-mail : flir@flir.com
+FLIR Systems Italy
+Via Luciano Manara, 2
+I-20812 Limbiate (MB)
+Italy
+Tel.: +39 (0)2 99 45 10 01
+Fax: +39 (0)2 99 69 24 08
+e-mail: flir@flir.com
+FLIR Systems Spain
+Avenida de Bruselas, 15- 3º
+28108 Alcobendas (Madrid)
+Spain
+Tel. : +34 91 573 48 27
+Fax.: +34 91 662 97 48
+e-mail: flir@flir.com
+FLIR Systems,  Middle East FZE
+Dubai Airport Free Zone
+P.O. Box 54262
+Office B-22, Street WB-21
+Dubai -  United Arab Emirates
+Tel.: +971 4 299 6898
+Fax: +971 4 299 6895
+e-mail: flir@flir.com
+FLIR Systems Russia
+6 bld.1, 1st Kozjevnichesky lane 
+115114  Moscow
+Russia
+Tel.: + 7 495 669 70 72
+Fax: + 7 495 669 70 72
+e-mail: flir@flir.com
+Para hablar con un experto en cámaras infrarrojas, póngase en contacto con:
+www.flir.com
+T820264 {ES-es}_A

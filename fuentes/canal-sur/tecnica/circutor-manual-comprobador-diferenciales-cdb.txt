@@ -1,0 +1,1848 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPROBADOR DE DIFERENCIALES 
+ 
+CDB 
+ 
+(M80450) 
+ 
+ 
+ 
+ 
+MANUAL DE INSTRUCCIONES 
+ 
+ 
+( M98126001-01-04A ) 
+ 
+ 
+ 
+(c)  CIRCUTOR S.A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   2 
+ 
+ 
+ 
+ÍNDICE 
+Pág. 
+ 
+ 
+1.-DESCRIPCIÓN 
+3 
+1.1.- INSTRUCCIONES BÁSICAS DE FUNCIONAMIENTO 
+3 
+1.2.- DESCRIPCIÓN DEL EQUIPO 
+4 
+1.3.- ENCENDIDO 
+6 
+1.4.- DESBORDAMIENTO DEL RANGO DE MEDICIÓN 
+6 
+1.5.- VERIFICACIÓN DE LA INSTALACIÓN Y DEL SENSOR DE CONTACTO 
+6 
+1.6.- BOTONES MEM Y BANK – FUNCIONAMIENTO DE LA MEMORIA 
+7 
+2.- MEDICIÓN DE LA IMPEDANCIA DEL BLUCLE DE PROTECCIÓN RS Y LA 
+RESISTENCIA INTERNA RI 
+11 
+2.1.- PROCESO DE MEDICIÓN DE LA IMPEDANCIA DEL BUCLE RS 
+11 
+2.2.- MEDICIÓN DE LA RESISTENCIA INTERNA - RI 
+13 
+2.3.- MEDICIÓN DE RESISTENCIAS PEQUEÑAS - R 
+13 
+3.- MEDICIÓN DE TENSIÓN Y FRECUENCIA 
+16 
+4.- MEDICIÓN RCD 
+18 
+4.1.- MEDICIÓN DE LA TENSIÓN DE CONTACTO U I∆N  SIN DESCONEXIÓN DEL 
+RCD 
+19 
+4.2.- MEDICIÓN DE TIEMPO DE DISPARO tA DE RCD 
+20 
+4.3.- MEDICIÓN DE TIEMPO DE DISPARO tA DE RCD SEGÚN LA INTENSIDAD 
+NOMINAL I∆N 5x 
+22 
+4.4.- MEDICIÓN DE CORRIENTE DE DISPARO DE RCD I∆ 
+23 
+5.- CARACTERÍSTICAS TÉCNICAS 
+25 
+6.-  RESOLUCIÓN DE PROBLEMAS 
+27 
+7.-  MANTENIMIENTO 
+27 
+8.-  SERVICIO TÉCNICO 
+28 
+9.-  GUÍA RÁPIDA 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   3 
+ 
+ 
+1.- DESCRIPCIÓN 
+ 
+El equipo CDB está diseñado para la realización de mediciones en instalaciones 
+monofásicas o trifásicas de gran amperaje con tensiones por fase de 190 a 260 V y 
+para la inspección de todo tipo de dispositivos de corriente residual (RCDs) – sin 
+retardo (-), con retardo (G) y selectivo (S). El instrumento está alimentado mediante 
+pilas o acumuladores. El equipo permite realizar las siguientes mediciones: 
+ 
+-    Medida de la tensión entre la fase y la toma de tierra UL-PE 
+- 
+Medida de la tensión entre la fase y el neutro UL-N 
+- 
+Medida de la tensión entre el neutro y la toma de tierra UN-PE 
+- 
+Medida de la frecuencia 
+- 
+Medida de la impendancia del bucle de protección RS  
+- 
+Medida de la impedancia del bucle de protección RS sin desconexión del RCD 
+- 
+Medida del tiempo de disparo tA del RCD por intensidad diferencial I∆N, 5x I∆N  y 
+corriente pulsante  
+- 
+Verificación del RCD con intensidad incremental gradualmente, medir la intensidad 
+de accionamiento del RCD I∆ y medir la tensión de contacto UI∆ en el momento de 
+la desconexión del RCD  
+- 
+Medida de la tensión de contacto UI∆N al pasar la intensidad nominal de 
+accionamiento de 0,45x I∆N  a través de la toma de tierra sin sincronización de RCD, 
+y comprobar que no se desconecte el RCD  
+- 
+Inspección del cableado (los resultados aparecen representados en forma de 
+símbolos) 
+Los valores medidos, unidades y demás datos son visualizados en pantalla LCD con 
+retroiluminación opcional. Los valores leídos quedan almacenados automáticamente 
+con posibilidad de posterior visualización en display.  
+El cableado proporciona la protección adecuada contra todo tipo de tensión por 
+contacto que se produzca durante la medición. La medición se interrumpirá durante la 
+comprobación del RCD cuando la tensión de contacto sobrepase el máximo nivel 
+seleccionado (25 V o 50 V – el límite especificado aparece en pantalla). 
+ 
+ 
+1.1.- INSTRUCCIONES BÁSICAS DE FUNCIONAMIENTO 
+- 
+El instrumento puede utilizarse a una temperatura ambiente entre  - 5° C y 40° C. 
+En el caso de que se vaya a guardar el instrumento durante un periodo prolongado 
+de tiempo a una temperatura inferior a 0º es necesario aclimatarlo durante 2 horas.  
+- 
+La humedad relativa máxima del aire permitida es del 80 % a 23° C. 
+- 
+El instrumento no debe quedar expuesto a gases y vapores agresivos que puedan 
+provocar oxidación, líquidos y polvo. 
+- 
+El instrumento solamente mide bajo condiciones de referencia sin ningún tipo de 
+error adicional. 
+- 
+La resistencia máxima de la carcasa al calor es de 80° C como máximo. 
+- 
+Si aparece el símbolo °C de recalentamiento el instrumento no podrá realizar 
+mediciones. 
+- 
+El instrumento también puede conectarse entre fases durante un intervalo máximo 
+de 5 minutos. 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   4 
+ 
+ 
+- 
+Todos los equipos que se encuentran detrás del RCD (capacitancias, máquinas 
+rotativas etc.) así como las corrientes residuales de los circuitos pueden influir en la 
+medición.  
+- 
+La caída de tensión de las pilas bajo los límites permitidos está indicada por el 
+símbolo 
+ que aparece en la esquina inferior izquierda del display. 
+- 
+Mantenga la polaridad correcta de las pilas al cambiarlas (de acuerdo a los 
+símbolos del compartimento de las pilas debajo de la tapa). Con el desgaste de la 
+pila empeora la visión del display aunque esto no repercute en el funcionamiento 
+del instrumento.  
+No se pueden cambiar las pilas si el instrumento está conectado a la red. No se deberá 
+conectar el instrumento a la red si la tapa de las pilas está dañada. Se deberá proceder 
+a cambiar inmediatamente la tapa.  
+El adaptador bifilar solamente se puede acoplar al instrumento CDB para la medición, 
+no puede conectarse a la alimentación.  
+El enchufe del CDB debe conectarse a la salida del adaptador (en el caso de que se 
+vaya a utilizar el adaptador bifilar) antes de ser conectado a la red o a la carga que se 
+está midiendo.  
+ 
+ 
+1.2.- DESCRIPCIÓN DEL EQUIPO 
+El cable con conector para toma convencional de red (ver figura) y fijo al instrumento 
+está destinado para la conexión a la red. El equipo incorpora también un adaptador 
+bifilar, que se conecta a la red, y está destinado a la conexión de bloques de 
+terminales, paneles, etc y para la medición de resistencias pequeñas. La lectura de los 
+valores medidos aparece en el display en la parte superior de la carcasa. 
+ 
+   
+START
+s
+START
+Sensor
+Display
+Botón inicio
+                           
+ 
+ 
+La intermitencia del símbolo °C en el display a intervalos indica el recalentamiento del 
+instrumento y el disparo del fusible térmico que bloqueará las mediciones posteriores 
+(excepto las de tensión y de frecuencia). 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   5 
+ 
+ 
+El instrumento se maneja mediante un teclado con 9 teclas en la tapa superior del 
+instrumento y con un botón de inicio START situado en el lateral. Las funciones de 
+dichas teclas son las siguientes: 
+ 
+ 
+ 
+- 
+El instrumento se enciende y se apaga con el botón ON/OFF. El instrumento se 
+apagará automáticamente si transcurren 2 minutos sin que se haya pulsado un 
+botón. 
+ 
+ 
+ 
+- 
+La retroiluminación del display se enciende y se apaga mediante el botón  
+ 
+("LIGHT"). Pulsando una vez el botón se activará la iluminación durante un intervalo 
+limitado de 2 segundos, y si se pulsa dos veces permanecerá permanentemente 
+encendida. La iluminación se apagará si se pulsa de nuevo el botón o si se apaga 
+el instrumento. 
+ 
+ 
+ 
+- 
+Los botones MEM y BANK se utilizan para acceder a la memoria. 
+ 
+     
+ 
+ 
+- 
+Los botones ∆,∇ son botones multifuncionales utilizados para el ajuste de los 
+distintos parámetros o valores para las mediciones. 
+ 
+ 
+ 
+- 
+El botón  I∆N está destinado a la selección de la medición RCD o para conmutar 
+entre los modelos (-, G y S). 
+ 
+ 
+ 
+- 
+Los parámetros RCD I∆, tA y U∆N se conmutan mediante el botón FI. Los modos de 
+medición se establecen con botones ∆,∇ (límites de la tensión de contacto etc.). 
+ 
+ 
+ 
+- 
+La medición de la impedancia del bucle de protección RS (rango de 20Ω o detrás 
+del RCD de 30 mA – 1999 Ω, 300 mA – 199 Ω), medición de la tensión (UL-N ,UL-PE 
+,UN-PE), medición de frecuencia y medición de las resistencias pequeñas R son 
+seleccionadas por el botón R, U. La conmutación entre los modos de medición se 
+realiza mediante los botones  ∆,∇. 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   6 
+ 
+ 
+ 
+ 
+- 
+El conmutador START inicia las mediciones y se utiliza también para el manejo de 
+la memoria. 
+ 
+ 
+1.3.- ENCENDIDO 
+El instrumento se enciende y se apaga con el botón ON/OFF. El instrumento se 
+apagará automáticamente si transcurren 2 minutos sin que se haya pulsado un botón. 
+Se iluminan todos los símbolos. Automáticamente aparece el valor de tensión UL-N. La 
+caída de tensión de las pilas bajo los límites permitidos está indicado por el símbolo 
+ que aparece en la esquina inferior izquierda del display. 
+ 
+ 
+1.4.- DESBORDAMIENTO DEL RANGO DE MEDICIÓN 
+Durante la mayoría de las mediciones realizadas con el CDB el rango de medición 
+puede sufrir un desbordamiento. En ese caso aparecerá el número uno en la posición 
+de dígito más significativo y aparecerán tres guiones en el lugar de unidades y 
+símbolos. 
+ 
+       Símbolos en la pantalla después del encendido 
+ 
+       Desbordamiento de rango 
+ 
+    
+ 
+ 
+ 
+  
+ 
+ 
+ 
+1.5.- VERIFICACIÓN DE LA INSTALACIÓN Y DEL SENSOR DE CONTACTO 
+El CDB permite comprobar la posición de la fase en el conector, para ello lo indica 
+gráficamente en el display. La posición de la fase se analiza durante la medición del 
+voltaje y al inicio de cada medición al pulsar el botón START. Se indica en el display 
+mediante el símbolo L junto al símbolo del conector en el lado izquierdo o el derecho.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El equipo permite también comprobar si existe una tensión de contacto peligrosa en la 
+toma de tierra de la instalación. Para ello el instrumento cuenta con un terminal o 
+sensor de contacto (ver Sensor en el esquema del equipo). Si después de haber 
+tocado la superficie del sensor de contacto con el dedo aparece el símbolo PE! en la 
+pantalla, entonces significa que la fase está conectada de forma incorrecta a la toma. 
+La tensión de contacto puede oscilar entre 20 V y 150 V entre el conductor PE y tierra. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   7 
+ 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+Para el correcto funcionamiento del sensor, el operador no deberá estar aislado de la 
+tensión de tierra. Por ejemplo, cuanto mayor sea la resistencia de los zapatos, o si hay 
+algún tipo de aislante en el suelo como plástico PVC, entonces aumentará el valor de 
+la tensión indicada. En un caso extremo (con zapatos de suelas de goma y con 
+material aislante en el suelo etc) el sensor no funcionará. Si no está seguro, 
+compruebe el valor de la tensión real entre el conductor PE y tierra midiendo la tensión 
+con el adaptador bifilar. 
+El sensor no funciona después de pulsar el botón START, durante cualquier medición. 
+El símbolo PE puede aparecer en el display durante la medición de tensiones de 
+alterna con el adaptador, por encima de 260 V (ej. tensión de línea). Esto no significará 
+un error en la instalación. 
+ 
+ 
+1.6.- BOTONES MEM Y BANK – FUNCIONAMIENTO DE LA MEMORIA 
+Los botones MEM y BANK permiten trabajar con la memoria de los valores medidos – 
+para ver cada valor medido que se haya guardado en la memoria, para borrar la 
+memoria completamente o solamente una parte de la misma, etc.  
+Después de pulsar el botón START los valores medidos quedan almacenados 
+automáticamente en la memoria (si no se ha interrumpido la medición). Se  pueden 
+guardar hasta 1000 valores en memoria (las medidas se enumerarán desde 001 hasta 
+1000).  
+Cada vez que se guarde un valor en memoria, se hará en la posición siguiente a la 
+última medición que se había guardado. En el momento que se llena la memoria (se 
+han guardado 1000 valores), el siguiente valor se guardará de nuevo comenzado por la 
+primera posición de la memoria, esto es la dirección 001. 
+La memoria del CDB se compone a su vez de secciones de memoria denominadas 
+carpetas.  Pueden haber hasta 250 carpetas y se numerarán desde 001 hasta 250. La 
+longitud de cada carpeta es flexible – los resultados se van almacenando en una 
+carpeta hasta que no se seleccione otra nueva con el botón BANK. El número total de 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   8 
+ 
+valores medidos almacenados en la memoria sumando las diferentes carpetas es de 
+1000. Asimismo, dentro de cada carpeta se numerarán las medidas almacenadas 
+desde 001, y siempre en la posición más baja que se encuentre libre en la carpeta. Si 
+no se pulsa el botón BANK (no se seleccionará otra carpeta que no sea la 001), los 
+valores medidos irán guardándose secuencialmente, tal y como se ha explicado, en la 
+carpeta 001. (Para más información ver el botón BANK). 
+En el caso de que se llene la memoria (se han almacenado 1000 mediciones), se 
+encenderá el símbolo MEM de forma intermitente. 
+Cuando aparezca el símbolo MEM no se guardará el siguiente valor medido. Para 
+poder guardar en memoria más medidas se deberá borrar el contenido completo de la 
+memoria o el contenido de alguna de las carpetas (ver Borrado completo de memoria, 
+Borrado de contenidos de una carpeta). 
+Si la memoria está dividida en carpetas entonces se podrá borrar solamente una 
+carpeta (ver Borrado de los contenidos de una carpeta). En el caso que esta carpeta 
+tenga 10 direcciones, las 10 mediciones siguientes se guardarán en dicha carpeta y la 
+carpeta se desbordará una vez más.  
+Por esta razón se recomienda el borrado de todos los valores medidos después de 
+cada llenado de memoria o el borrado de carpetas con resultados que no sean 
+necesarios. 
+ 
+A) BOTÓN DE MEMORIA    
+ 
+El propósito del botón de memoria es la introducción de valores en memoria y la 
+visualización de las medidas almacenadas en cada posición. Pulsando repetidamente 
+el botón MEM se conmuta la visualización de los valores medidos y la posición de 
+memoria en la que se encuentran dichos valores. El modo MEM finaliza pulsando 
+cualquier otro botón (excepto el botón de la retroiluminación del display). 
+ 
+ Visualización del valor medido almacenado en memoria 
+1. Pulse el botón MEM. En el display aparecerá el símbolo MEM y el valor medido 
+durante la última medición. En el caso de que no haya ningún valor almacenado en 
+memoria aparecerán tres guiones y el símbolo MEM. Pulsando repetidamente el 
+botón MEM cambiamos entre el valor de la medición y la posición que ocupa.  
+ 
+     Valor almacenado en                     Dirección de valor                              Memoria vacía 
+            memoria                                         medido 
+ 
+2. Cuando pulsamos el botón START cambiamos el parámetro que visualizamos, por 
+ejemplo pasamos de visualizar la impedancia de bucle a visualizar corriente de 
+cortocircuito al pulsar START, y si pulsamos otra vez START pasamos a ver la 
+tensión de contacto, ... . Si pulsamos cualquier otro botón que no sea MEM o 
+START, salimos de la visualización de memoria. 
+3. Los valores medidos que están guardados en las demás posiciones se pueden 
+buscar con los botones ∆,∇.  
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   9 
+ 
+B) BOTÓN BANK    
+  
+Está destinado al manejo de las carpetas de valores medidos. El modo BANK permite: 
+- 
+selección del número del carpeta cuyo contenido se desea ver 
+- 
+asignación del número de carpeta donde guardaremos la siguiente medición 
+- 
+borrado de los valores almacenados en una carpeta 
+- 
+borrado completo de la memoria – valores guardados en todas las carpetas 
+ 
+ Selección de una carpeta 
+1. Pulse el botón BANK. Aparecerá el número de la carpeta que se acaba de utilizar 
+(número sin unidades ni símbolos). Los valores medidos que se pueden leer con el 
+botón MEM (ver apartado anterior) están guardados en esta carpeta. 
+ 
+ 
+Número de carpeta 
+ 
+ 
+ 
+ 
+2. Seleccione el número de carpeta que desea utilizar para la próxima medición, para 
+ver su contenido o para borrarlo con los botones  ∆,∇ . Al seleccionar una carpeta, 
+se mantienen las medidas realizadas anteriormente, y las nuevas medidas se 
+guardarán a continuación de la última que se guardó. 
+3. Finalice  la selección de la carpeta pulsando otra tecla que no sea BANK. 
+ 
+ Borrado de la memoria completa 
+1. Pulse el botón BANK. Aparecerá el número de la carpeta que acaba de utilizar (sin 
+unidades ni símbolos). 
+2. Seleccione la opción ALL en el display mediante los botones ∆,∇ (se encuentra 
+entre la carpeta 250 y 001 – introduzca el número 250 y pulse ∆ o introduzca 001 y 
+pulse ∇). Este símbolo sirve para la identificación de toda la memoria (todas las 
+carpetas). 
+ 
+ Símbolo ALL – identificación de memoria completa 
+ 
+          
+ 
+ 
+ 
+3. Pulse el botón START. Aparecerá el símbolo Clr  (ha seleccionado el borrado de 
+toda la memoria). 
+ 
+       Borrado de memoria 
+ 
+      
+ 
+ 
+4. Para borrar la memoria, pulse de nuevo el botón START. Aparecerá el número de 
+carpeta 001, esto es, la memoria ya está vacía (notará que pulsando MEM no tiene 
+opción de visualizar medidas). 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   10 
+ 
+5. Para salir de la operación de borrado de memoria pulse cualquier otro botón que no 
+sea el botón START. 
+ 
+ Borrado de los contenidos de memoria 
+1. Pulse el botón BANK. Aparecerá el número de la carpeta que acaba de utilizar (sin 
+unidades ni símbolos).  
+2. Introduzca el número de la carpeta cuyo contenido desea eliminar mediante los 
+botones ∆,∇. 
+3. Pulse el botón START.  Aparecerá el símbolo Clr (borrado de los contenidos de una 
+carpeta determinada). 
+4. Si desea finalizar el borrado de los contenidos de la carpeta, pulse de nuevo el 
+botón START. En el display aparecerá el número de la carpeta que ha borrado. 
+5. Para salir de la operación de borrado de memoria pulse otro botón que no sea 
+START. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   11 
+ 
+ 
+2.- MEDICIÓN DE LA IMPEDANCIA DEL BLUCLE DE PROTECCIÓN RS   
+Y LA RESISTENCIA INTERNA RI 
+ 
+El CDB permite la medición de la impedancia del bucle de protección en la red sin 
+RCD o medir detrás del RCD de 30 mA o 300 mA sin su desconexión. Para ello, 
+conecte el terminal del equipo a la toma de red en que se desea hacer la medición 
+(opcionalmente se puede aplicar también el adaptador bifilar que incluye el equipo, ver 
+el esquema Aplicación del adaptador bifilar). La medición de la impedancia del bucle 
+de protección se selecciona mediante el botón R, U. El equipo permite medir también 
+la resistencia interna utilizando el adaptador bifilar. 
+ 
+ 
+2.1.- PROCESO DE MEDICIÓN DE LA IMPEDANCIA DEL BUCLE RS 
+1. Pulse una vez el botón R, U. En el display aparecerán los guiones y el símbolo  RS. 
+La corriente máxima de medición actual es 2.5 A, y el rango de medición oscila 
+entre 0.00 y 19.99 Ω. Por defecto se realizará la medida con una señal senoide. 
+2. Para configurar el tipo de medida de RCD sin desconexión, ajuste el rango de 
+medición con los botones  ∆,∇:  
+- 
+para medir detrás del RCD de 300 mA con una intensidad de 150 mA en un 
+rango de 00.0 a 199.9 Ω 
+- 
+para medir detrás del RCD de 30 mA con una intensidad de 15 mA en un rango 
+de 000 a 1999 Ω 
+- 
+para medir solamente la media onda negativa (por ej utilizando algunos 
+inhibidores transitorios de RCDs), introducir este modo de medición con los 
+botones ∆,∇. Se mide en las medias ondas de tensión negativa en el rango 
+desde 0.00 a 19.99 Ω. 
+ 
+a) Medición de RS mediante ambas medias ondas – en la pantalla aparecen los 
+símbolos de ambas medias ondas 
+ 
+Rango de  0,00 a 19,99 Ω 
+ 
+Rango de  00,0 a 199,9 Ω 
+ 
+Rango de 000 a 1999 Ω  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+b) Medición de RS  con la media onda negativa 
+ 
+Símbolo de media onda negativa 
+ 
+ 
+ 
+ 
+3. Una vez configurada la medición, pulse el botón START para iniciar la prueba. 
+Comienza la medición, en aproximadamente 2 segundos aparecerá el resultado en 
+el display (durante este tiempo el display se enciende de forma intermitente, con la 
+opción de detener la medición pulsando de nuevo el botón START). 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   12 
+ 
+  
+Después de la medición aparece el valor  RS que se ha medido (en el caso de que 
+no se haya detenido o se haya desconectado el RCD). Con los botones ∆,∇ 
+podemos ir conmutando entre el valor RS y el valor calculado de intensidad de 
+cortocircuito IK (IK = 230 V/RS). El valor medido queda almacenado en memoria. 
+ 
+Valor medido de   
+          Valor calculado de  
+ Disparo súbito de RCD  
+Bucle protección  
+impedancia bucle  RS           intensidad de corte IK  
+  durante medición 
+            interrumpido 
+ 
+ 
+ 
+       
+ 
+       
+ 
+        
+ 
+ 
+ 
+En el caso de desbordamiento de rango aparece I - - -  (con las unidades y símbolos 
+correspondientes). 
+En el caso de interrupción del bucle de protección aparecerá - - - y el símbolo PE! de 
+forma intermitente en el display. 
+Si el RCD está desconectado aparecerá el símbolo “OFF“ antes de finalizar la 
+medición y no se guardará el valor medido. También se puede indicar la desconexión 
+del RCD en el caso en el que el bucle de protección tenga una impedancia superior al 
+rango de medición y que no se haya interrumpido el bucle.  
+ 
+ Aplicación del adaptador bifilar 
+El adaptador bifilar puede aplicarse para la medición de la impedancia del bucle 
+protector en la red trifásica. 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   13 
+ 
+ 
+2.2.- MEDICIÓN DE LA RESISTENCIA INTERNA - RI  
+El adaptador bifilar también puede utilizarse para la medición de la resistencia interna 
+RI. En este caso el cable amarillo-verde del adaptador se conectará al cable de neutro. 
+Así se medirá la impedancia de igual forma que se mide la impedancia bucle RS y el 
+valor RI quedará guardado en memoria como RS. Durante la medición realizada con el 
+adaptador el error añadido es ± 0.02 Ω. La resistencia interna no puede medirse entre 
+dos fases. 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+2.3.- MEDICIÓN DE RESISTENCIAS PEQUEÑAS - R  
+La medición de las resistencias pequeñas (por ej. la continuidad) se realiza en 
+corriente continua en el rango de 200 mA, y se selecciona con el botón R, U.  Estos 
+valores de resistencia siempre se miden con el adaptador bifilar. El rango de medición 
+es de 0.00 a 19.99Ω.  
+La unidad está provista de una señal acústica que indica que la intensidad de medición 
+es superior a 200 mA. El valor medido podrá guardarse en memoria, así como también 
+el valor de intensidad que se ha utilizado en la medida. 
+La polaridad de la intensidad de medición cambiará al intercambiar los cables del 
+adaptador bifilar. 
+Para realizar esta medición, conectaremos los terminales de la resistencia entre los 
+dos terminales del adaptador bifilar. 
+Para eliminar la influencia de la resistencia del cable en la precisión de la medición se 
+realizará la calibración del instrumento antes de realizar la medición. 
+PRECAUCIÓN:  La calibración se deberá volver a repetir cada vez que se realice una 
+medida. 
+   
+El proceso de medición de la resistencia R es el siguiente : 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   14 
+  
+1. Conecte el instrumento CDB al adaptador bifilar. 
+2. Seleccione el símbolo CAL pulsando repetidamente el botón R, U en el display, en 
+ese momento el instrumento ya está preparado para realizar la calibración. 
+ 
+Calibración  durante la medición de resistencias 
+ 
+ 
+ 
+ 
+3. Conecte las puntas de medición del adaptador y pulse el botón START para iniciar 
+la calibración de cero. Si la calibración se realiza correctamente aparecerán los 
+valores de 0.00 a 0.02 Ω y el símbolo R. Si el display muestra aproximadamente 
+2.0 Ω, entonces no se habrá calibrado correctamente y lo que aparece será la 
+resistencia de los cables. Por tanto, este valor deberá ser deducido de los valores 
+medidos. Si las puntas del adaptador están desconectadas durante la calibración, 
+en el display aparecerá el símbolo de desbordamiento de rango (I- - -) . 
+ 
+ 
+ 
+ 
+ 
+ 
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+R
+ 
+ 
+4. Conecte los cables del adaptador a la resistencia que se va a medir. En la pantalla 
+aparecerá el valor de la resistencia y los símbolos R, Ω. Si la intensidad de la 
+medición actual resulta ser superior a 200 mA emitirá una señal acústica.  
+ 
+   Resistencia medida 
+ 
+ 
+        Intensidad medida IM (guardada) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+5. Desconecte el instrumento de la resistencia que se mide. En la pantalla seguirá 
+apareciendo el valor de la resistencia más pequeña que se ha medido. Pulse el 
+botón START para guardarla. El valor actual real de IM se podrá ver en el modo 
+MEM: pulse el botón MEM, y a continuación el botón START, y el valor actual 
+aparecerá en la última medición. 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   15 
+ 
+6. Cambio de polaridad de la intensidad de medición: intercambie los cables del 
+adaptador y siga las instrucciones indicadas desde el punto 1 al 5. 
+7. Continúe midiendo conectando los cables a la siguiente resistencia. 
+ 
+PRECAUCIÓN: El instrumento no resultará dañado si las puntas de medición están 
+conectadas a  una tensión no superior a 450V, aunque los resultados 
+obtenidos en la medida pueden verse afectados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   16 
+ 
+ 
+3.- MEDICIÓN DE TENSIÓN Y FRECUENCIA 
+ 
+La medición del voltaje y la frecuencia se seleccionan con el botón R, U. Para realizar 
+esta medición no es necesario pulsar el botón START, simplemente conectar el 
+conector del equipo en la toma de red donde se quiere medir. Los botones ∆,∇ permiten 
+conmutar para ver los distintos valores de voltajes y frecuencia. La tensión UL-N puede 
+medirse entre la fase y el neutro, la tensión UL-PE entre la fase y la tierra y la tensión 
+UN-PE entre la toma de tierra PE y el neutro N.  
+El instrumento mide la tensión en verdadero valor eficaz. La tensión y la frecuencia 
+también se pueden medir con los dos cables del adaptador bifilar. En este caso, tanto 
+la tensión de alterna como de continua se medirán entre las puntas del adaptador 
+(independientemente de que se haya seleccionado la medición de UL-N, UL-PE or UN-PE ). 
+Durante las mediciones de las tensiones de alterna por encima de los 260 V (por ej. 
+tensión de línea) aparecerá el valor de forma intermitente en el display. De esta forma 
+se indica que la tensión es superior a la tensión de fase de red permitida. Si apareciera 
+también el símbolo PE en este caso no estaría indicando un fallo de la instalación. 
+ 
+El proceso de medición de voltaje y frecuencia es el siguiente: 
+1. Conecte el CDB a la toma de tensión que se vaya a medir. 
+2. Pulse el botón R,U una o dos veces hasta que aparezcan en el display el voltaje, 
+símbolos UL-N, AC y la unidad V. El símbolo del conector y el símbolo L también 
+aparecen a la izquierda (fase de la izquierda del conector con el que se mide) o a la 
+derecha del símbolo de conector (fase a la derecha del conector con el que se 
+mide). En el caso que no esté conectado a la red, solamente aparecerán en el 
+display el valor de voltaje 000 y la unidad V. 
+3. Seleccione el voltaje o frecuencia que se va a medir mediante los botones ∆,∇. 
+Durante la medición de UL-PE aparecerá el símbolo UL-PE, durante la medición de la 
+tensión UN-PE solamente aparecerá el valor de voltaje, el símbolo de las unidades 
+V y el símbolo de alterna AC. 
+ 
+ 
+      a) Medición de voltaje UL-N 
+                b) Medición de voltaje UL-PE  
+         c) Medición de voltaje UN-PE 
+ 
+        
+ 
+                
+ 
+                     
+ 
+ 
+ 
+   d) Medición de frecuencia              e) Medición de tensión alterna            f) Medición de tensión continua 
+                                                                  con el adaptador bifilar                         con el adaptador bifilar  
+ 
+        
+ 
+                
+ 
+                    
+ 
+ 
+ 
+ 
+ 
+ Aplicación del adaptador bifilar 
+Cuando se realiza la medición del voltaje y la frecuencia con el adaptador, en el display 
+siempre aparecerá el símbolo del conector sin la indicación de la fase (L). No se puede 
+conmutar entre las mediciones de UL-N, UL-PE y UN-PE, ya que depende únicamente de 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   17 
+ 
+cómo lo hayamos conectado (ver esquemas), y no de qué seleccionamos con los 
+botones ∆,∇.  
+ 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+En las mediciones de tensión continua con el adaptador no aparecerá el símbolo AC. 
+El cable de color verde estará conectado al polo positivo del voltaje que se está 
+midiendo. Al cambiar la polaridad de la tensión medida aparecerá el signo – (menos). 
+El adaptador permite medir tensiones alternas de 0 a 20 V. Si aparece el símbolo UL-N 
+después de conectar el adaptador al voltaje de medición, pero sin que aparezca el 
+símbolo del conector en el display, entonces se puede medir el voltaje. Seleccione la 
+medición de la tensión UL-PE pulsando el botón ∆. Aparecerán el voltaje y el símbolo ULPE . La precisión de la medición no está garantizada de acuerdo a la Tabla 1. 
+ 
+ALMACENAMIENTO: Los valores UL-N, UL-PE y la frecuencia de voltaje UL-N se guardan 
+con el botón START. 
+PRECAUCIÓN: Si las tensiones UL-N y UL-PE difieren significativamente entre sí significa 
+que alguno de los cables de la salida puede estar cortado (excepto en 
+el caso de caída de tensión en el cable, etc.). Suele ser útil verificar el 
+valor de la impedancia de bucle RS y la resistencia interna RI. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   18 
+ 
+ 
+4.- MEDICIÓN RCD  
+ 
+El CDB mide los parámetros de los RCDs actuales de alterna (para intensidad 
+diferencial AC) o de tipo A (intensidad diferencial pulsante). Antes de realizar cada 
+medición de intensidad y el tiempo de disparo de RCD, se deberá proceder a verificar 
+la conexión del bucle de protección y la medición de la tensión de contacto con la 
+intensidad de 0.45x I∆N (tA) o 0.3x I∆N (I∆). Los botones I∆N y FI están destinados a la 
+selección de parámetros de la medición RCD. El esquema de conexión para las 
+medidas de RCD con adaptador bifilar es el siguiente: 
+ 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El botón I∆N está destinado a la selección del tipo de RCD y la intensidad nominal del 
+RCD. El equipo está configurado por defecto para su uso general y se seleccionará la 
+medición del RCD correspondiente S al pulsar por segunda vez I∆N. En el display 
+aparecerá  la corriente nominal seleccionada. El símbolo S se visualiza en el caso de 
+RCD tipo S.  
+La magnitud de la intensidad nominal I∆N (6, 10, 30, 100, 300, 500 mA)  se establece 
+mediante los botones ∆,∇, y el valor de la corriente seleccionada aparecerá en 
+pantalla. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   19 
+ 
+Intensidad nominal de RCD seleccionada por el botón I∆N 
+ 
+ 
+ 
+ 
+ 
+ 
+El botón FI conmuta entre la medición de la tensión de contacto UI∆N, la corriente actual 
+I∆ del RCD y la medición del tiempo de acceso tA al pasar la intensidad nominal I∆N o la 
+intensidad I∆N x5 (solamente para los RCD con la intensidad nominal de 6, 10 y 30 
+mA). Cuando seleccionemos el valor de la medición con I∆N x5 aparece el símbolo 5x 
+en pantalla. 
+ 
+  
+ 
+Con los botones ∆,∇  elegiremos la modalidad de medición para cada parámetro: 
+I∆ - la medición se realiza mediante una señal senoidal o una corriente pulsante (la 
+corriente pulsante está representada por el símbolo de media onda positiva en la 
+esquina inferior izquierda de la pantalla), y se puede elegir el límite de la tensión de 
+contacto UI∆N entre 25 V o 50 V (se diferencian por el símbolo 25 V o 50 V que aparece 
+en la pantalla). 
+tA – la medición se realiza mediante una señal senoidal o una corriente pulsante, el 
+límite de la tensión de contacto UI∆N puede ser de 25 V o 50 V durante la medición (se 
+diferencian por el símbolo 25 V o 50 V que aparece en la pantalla). 
+ 
+Los valores medidos siguientes se conmutan, después de realizar la medición, con los 
+botones ∆,∇: 
+I∆ - corriente I∆ y tensión de contacto UI∆ en el momento de la desconexión 
+tA – tiempo de disparo tA y tensión de contacto UI∆N 
+UI∆N – tensión de contacto UI∆N e impedancia del bucle de protección RS 
+Estos valores se guardan automáticamente con el rango seleccionado (corriente 
+nominal de actuación I∆N).  
+ 
+Precaución: Después de tocar el sensor puede aparecer tensión estática en el 
+conductor PE (significa que los cables L y PE han sido intercambiados en el 
+conexionado).  
+ 
+ 
+4.1.- MEDICIÓN DE LA TENSIÓN DE CONTACTO UI∆N SIN DESCONEXIÓN DEL 
+RCD 
+ 
+El proceso de medición de la tensión de contacto es el siguiente: 
+1) Seleccione la medición de RCDs tipo general o tipo S con el botón  I∆N . 
+2) Introduzca la intensidad nominal de RCD con los botones ∆,∇ en el display. 
+3) Ajuste la medición de la tensión de contacto UI∆N con el botón FI (en el momento en 
+que aparezca UI∆N en el display estamos a punto para realizar la medición) 
+4) Pulse el botón START. La pantalla conmuta de forma intermitente mientras se está 
+realizando la medición (se puede cancelar la medición pulsando de nuevo el botón 
+START). 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   20 
+ 
+ 
+Después de la medición aparece la tensión de contacto en pantalla. Para conmutar 
+entre la visualización de la tensión de contacto UI∆N y la de los valores calculados de la 
+impedancia de bucle RS se utilizarán los botones ∆,∇. Estos valores se guardan 
+automáticamente en memoria.  
+ 
+Nota: El valor normal de la impedancia del bucle de protección no sobrepasa de 1 a 2 
+Ω.  Por esta razón, el valor de voltaje próximo a cero se obtiene normalmente durante 
+la medición de la tensión de contacto. 
+ 
+Medición tensión de contacto UI∆N  
+Valor medido UI∆N  
+ 
+ Impedancia de bucle RS 
+  
+ 
+       
+ 
+           
+ 
+ 
+ 
+Desbordamiento de rango: visualiza I - - -  (con la unidad V y el símbolo UI∆N). Queda 
+almacenado. 
+Si el RCD se desconecta antes de que finalice la medición, entonces aparecerá el 
+símbolo OFF y no se guardará el valor medido. (Esto también es aplicable para las 
+desconexiones súbitas durante la medición de la impedancia de bucle RS). 
+La desconexión del RCD también se puede indicar en el caso de que no se interrumpa 
+el bucle de protección pero que su resistencia sea tan grande que la tensión de 
+contacto esté próxima al valor de la tensión de la red. También aparecerá el símbolo 
+del conector  que indica la tensión en la red. 
+ 
+  Desbordamiento de rango de medición  
+    Desconexión de RCD no deseada 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+4.2.- MEDICIÓN DE TIEMPO DE DISPARO tA DE RCD  
+La medición del tiempo de disparo tA a la corriente nominal se realiza en un rango de 
+600 ms para el RCD de uso general y en un rango de 1000 ms para el RCD selectivo. 
+Puede medirse mediante corriente alterna o corriente pulsante (que se indica mediante 
+el símbolo de media onda positiva). En ambos casos se puede establecer un límite de 
+25 V o 50 V para la tensión de contacto durante la medición (se diferencian por el 
+símbolo 25 V o 50 V que aparece en el display). Podemos seleccionar entre un total de 
+cuatro modos de medición. 
+ 
+El proceso de medición del tiempo de disparo es el siguiente: 
+1) Seleccione la medición de RCDs tipo general o tipo S mediante el botón I∆N 
+(aparecerá el símbolo S en pantalla). 
+2) Introduzca la corriente nominal de RCD con los botones ∆,∇  en el display. 
+3) Seleccione medición del tiempo de disparo tA con el botón FI. El valor 
+predeterminado para el valor de la tensión de corriente alterna UI∆ está fijado en 25 
+V para las mediciones más frecuentes de RCDs de alterna. 
+4) Introduzca el límite de la tensión de contacto y corriente de medición (alterna o 
+pulsante) con los botones ∆,∇. 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   21 
+ 
+  Medición tA en alterna   
+     Medición tA en alterna 
+      Medición tA  en corriente pulsante 
+ tensión máx. contacto 25V  
+     RCD selectivo de 25V 
+     
+    tensión máx. contacto 50V 
+ 
+  
+ 
+ 
+   
+ 
+    
+              
+ 
+ 
+ 
+5) Pulse el botón START. El display conmuta de forma intermitente mientras está 
+realizando la medida, pudiendo cancelarse el proceso  si se pulsa de nuevo el 
+botón START. 
+ 
+Si se produce la desconexión del RCD, aparecerán en pantalla el valor del tiempo de 
+disparo tA, la unidad ms y el símbolo tA. Para conmutar entre el tiempo tA y la tensión 
+de contacto UI∆N utilizar los botones ∆,∇. 
+ 
+Valor medido tA   
+ 
+ 
+Valor medido de tensión de contacto UI∆N 
+ 
+       
+  
+ 
+          
+ 
+ 
+ 
+Si no se desconecta el RCD,  aparecerán los símbolos I- - - , ms y tA. El valor medido y 
+el desbordamiento de rango quedarán guardados junto con el rango seleccionado 
+(corriente nominal de actuación I∆N).  
+Si se interrumpe el bucle de protección, aparecerán los símbolos RS y PE a intervalos 
+en la pantalla. 
+Si la tensión de contacto UI∆N sobrepasa el valor predeterminado de 25 V, o de 50 
+V durante la medición, entonces finalizará la medición, y aparecerán el valor de la 
+tensión de contacto UI∆N y los símbolos V y UI∆N en pantalla.  
+Si el RCD se desconecta súbitamente durante la verificación inicial de la continuidad 
+del bucle de protección y la medición de la tensión de contacto (que se realiza siempre 
+antes de la medición del propio tiempo a la intensidad nominal) aparecerá el símbolo 
+OFF y no se guardará el valor medido. La desconexión del RCD también se puede 
+indicar en el caso de que no se interrumpa el bucle de protección pero que su 
+resistencia sea tan grande que la tensión de contacto esté próxima al valor de la 
+tensión de la red. También aparecerá el símbolo de la salida  que indica la tensión en 
+la red. La medición de la tensión de contacto se selecciona con el botón R, U, y las 
+demás funciones con el botón correspondiente. 
+Se aconseja utilizar el adaptador bifilar para comprobar RCD’s de tipo A con onda 
+pulsante. Para ello realizaremos dos medidas, en la segunda medida intercambiando 
+los terminales del adaptador entre ellos para verificar el tiempo de disparo con la media 
+onda inversa. 
+ 
+ Sin desconexión RCD    
+ 
+Desconex. súbita de RCD  
+ 
+Desbord. límite UI∆ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Bucle de protección interrumpido 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   22 
+ 
+4.3.- MEDICIÓN DE TIEMPO DE DISPARO tA DE RCD SEGÚN LA INTENSIDAD 
+NOMINAL I∆N 5x  
+El impulso de corriente de valor cinco veces el valor de la corriente diferencial nominal 
+I∆N dura como máximo 60 ms. El símbolo 25 V o 50 V no aparece en pantalla. Durante 
+esta medición el valor del límite de la tensión de contacto es de 50 V correspondiente a 
+la tensión UI∆N = 12.5 V al paso de la intensidad nominal. 
+ 
+El proceso de medición del tiempo de disparo según corriente I∆N x5 es el siguiente: 
+1) Seleccione la medición de RCDs tipo general o tipo S con el botón I∆N . 
+2) Seleccione el valor de la corriente nominal de RCD (6 mA, 10 mA o 30 mA) con los 
+botones ∆,∇ (no se puede seleccionar una corriente nominal más alta en este tipo 
+de medición). 
+3) Seleccione la medición del tiempo de disparo por la corriente I∆N x 5 con el botón FI:  
+aparecerán en pantalla los guiones y los símbolos ms, tA y 5x. 
+4) Puede elegir realizar la prueba con una señal pulsante con los botones V, W  
+(aparecerá el símbolo de la media onda positiva en pantalla) 
+5) Pulse el botón START. El display conmuta de forma intermitente mientras está 
+realizando la medición, pudiéndose cancelar pulsando de nuevo el botón START. 
+ 
+Si se desconecta el RCD , aparecerán el valor del tiempo de disparo tA, la unidad ms y 
+los símbolos 5x tA. Para conmutar entre los valores del tiempo de disparo tA y la 
+tensión de contacto UI∆N al paso de la corriente nominal se utilizarán los botones ∆,∇. 
+ 
+Medición tA por corriente 5xI∆ N    Valor tA medido con corriente 5x I∆N         Tensión de contacto UI∆ 
+ 
+  
+               
+                     
+ 
+ 
+Si no se desconecta el RCD,  aparecerán los símbolos I- - - , mA y I∆. El valor medido y 
+el desbordamiento de rango quedarán guardados junto con el rango seleccionado 
+(corriente nominal de actuación I∆N). 
+Si se interrumpe el bucle de protección, aparecerán los símbolos RS y PE a intervalos 
+en la pantalla.  
+Si la tensión de contacto UI∆N sobrepasa el valor predeterminado de 50 V durante la 
+medición, entonces la medición habrá finalizado, y aparecerán el valor de la tensión de 
+contacto UI∆N (al paso de la corriente nominal I∆N) y los símbolos V y UI∆N en pantalla.  
+Si el RCD se desconecta súbitamente durante la verificación inicial de la continuidad 
+del bucle de protección y la medición de la tensión de contacto, aparecerá el símbolo 
+OFF y no se guardará el valor medido.  
+La desconexión del RCD también se puede indicar en el caso de que no se interrumpa 
+el bucle de protección pero que su resistencia sea tan grande que la tensión de 
+contacto esté próxima al valor de la tensión de la red. También aparecerá el símbolo 
+del conector que indica la tensión en la red. 
+ 
+No desconex. de RCD   
+Desconex. súbita de RCD 
+Desbord. de límite UI∆ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+Bucle protección interrumpido 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   23 
+ 
+ 
+ 
+ 
+4.4.- MEDICIÓN DE CORRIENTE DE DISPARO DE RCD I∆ 
+Durante la medida de la corriente de disparo la corriente de prueba I∆ empieza en 0.30 
+I∆N y va aumentando hasta 1.40 I∆N . La duración de esta rampa de corriente es 
+aproximadamente 1.2 segundos para RCD’s de tipo general, y 2.4 segundos para 
+RCD’s selectivos (S). Se puede seleccionar entre el ensayo con una onda completa 
+(no aparece el símbolo de media onda en el display) o bien onda pulsante (aparece el 
+símbolo de media onda en el display). En ambos casos el límite de la tensión de 
+contacto UI∆ se puede elegir entre 25V o 50V (esto se refleja también en el display). 
+Durante la prueba con señal alterna todos los RCD’s deben actuar a una corriente igual 
+o inferior a I∆ N. En la prueba con corriente pulsante, los RCD de tipo A deben disparar 
+con corrientes de hasta 1.4 I∆N   
+ 
+El proceso de medición de corriente de disparo es el siguiente: 
+1) Seleccione la medición de RCD tipo general o tipo S selectivo con el botón I∆N 
+(aparece el símbolo S). 
+2) Seleccione la corriente nominal de RCD en el display con los botones ∆,∇. 
+3) Seleccione la medición de la corriente diferencial I∆ con el botón FI. El valor 
+predeterminado para la tensión de corriente alterna UI∆ está fijado en 25 V para las 
+mediciones más frecuentes de RCDs de alterna. 
+4) Introduzca el límite de la tensión de contacto y corriente de medición (alterna o 
+pulsante) con los botones ∆,∇. 
+ 
+Medición corriente alterna I∆ ,         Medición corriente alterna I∆ ,           Medición corriente pulsante I∆ ,  
+tensión max. contacto 25V 
+       RCD selectivo, máx. 25V 
+               tensión máx. contacto 50V 
+ 
+ 
+  
+       
+ 
+ 
+ 
+    
+ 
+ 
+ 
+5) Pulse el botón START. El display conmuta de forma intermitente al efectuar la 
+medición, pudiendo cancelarse el proceso  si se pulsa de nuevo el botón START. 
+Si se produce la desconexión del RCD, aparecerán el valor de la corriente 
+diferencial I∆ , la unidad mA y el símbolo I∆ en pantalla. Para conmutar entre la 
+corriente de actuación I∆ y la tensión de contacto UI∆ utilizar los botones ∆,∇ en el 
+momento de la desconexión. 
+ 
+        Valor medido I∆   
+ 
+ 
+  Valor medido de tensión de contacto UI∆ 
+ 
+   
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+Si no se desconecta el RCD,  aparecerán los símbolos I- - - , mA y I∆. El valor medido y 
+el desbordamiento de rango quedarán guardados junto con el rango seleccionado  
+(corriente nominal de actuación I∆N). 
+Si se interrumpe el bucle de protección, aparecerán los símbolos RS y PE a intervalos 
+en la pantalla.  
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   24 
+ 
+Si la tensión de contacto UI∆ sobrepasa el valor seleccionado durante la medición (25V 
+o 50V), entonces la medición habrá finalizado, y aparecerán el valor de la tensión de 
+contacto UI∆,  y los símbolos V y UI∆N en pantalla. 
+Si el RCD se desconecta súbitamente durante la verificación inicial de la continuidad 
+del bucle de protección y la medición de la tensión de contacto, aparecerá el símbolo 
+OFF y no se guardará el valor medido.  
+La desconexión del RCD también se puede indicar en el caso de que no se interrumpa 
+el bucle de protección pero que su resistencia sea tan grande que la tensión de 
+contacto esté próxima al valor de la tensión de la red. También aparecerá el símbolo 
+de la salida  que indica la tensión en la red. 
+ 
+No desconex. de RCD   
+           Desconex. súbita RCD  
+ 
+Desbord. de límite UI∆ 
+ 
+ 
+  
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bucle protección interrumpido 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   25 
+ 
+ 
+5.- CARACTERÍSTICAS TÉCNICAS 
+ 
+Condiciones de referencia 
+- 
+Voltaje UL-N:  230V ±4V / 50 Hz ± 0.5 Hz, distorsión máxima de armónicos. 1 % 
+- 
+Temperatura: 23 °C ± 2 °C 
+- 
+Rango de medida:  - ver Tabla Nº 1 – Rangos y precisión de medición 
+- 
+Precisión: ver Tabla Nº1 - Rangos y precisión de medición 
+- 
+Temperatura de funcionamiento: -5°C a 40°C  
+- 
+Resistencia a la temperatura: - 25°C a 55°C 
+- 
+Tiempo para puesta en marcha de modo de trabajo máx. 10 segundos. Después de 
+este intervalo de tiempo la desviación de los datos del valor real será inferior al 
+margen de error permitido 
+- 
+Capacidad de almacenamiento: 1000 valores medidos 
+- 
+Tiempo máx. para conexión a red 1 hora, a tensión de línea 5 minutos 
+ 
+Provisto de fusible térmico de corte T 750mA/250 V en el circuito de alimentación. El 
+circuito dispone asimismo de un sensor de temperatura para refrigeración. Si 
+sobrepasa la temperatura se interrumpe la medición y se indica mediante el símbolo de 
+interrupción ° C. 
+ 
+El instrumento cumple con las especificaciones de acuerdo a la norma EN 61010-1: 
+Dispositivos de protección de clase II para tensiones de 300 V con toma de tierra CAT 
+III, nivel de polución 2. 
+ 
+El instrumento cumple con las especificaciones de acuerdo a la norma EN 61326-l para 
+dispositivos de clase B, y uso medio 
+- 
+Alimentación: 4x acumuladores NiCd de tamaño AA o 4x pilas de tamaño AA, para 
+una tensión de alimentación total de 4,1 V a 6.2 V. Las pilas se insertan en la parte 
+trasera del equipo, sacando antes la tapa posterior. 
+- 
+Consumo: Sin secuencia de medición y retroiluminación de display máx. 15 mA a 5 
+voltios. 
+- 
+Dimensiones: 
+297mm x 92mm x 57mm 
+- 
+Peso: 
+ 
+aprox. 780g incluyendo pilas. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   26 
+ 
+ 
+ RANGOS Y PRECISIÓN DE MEDICIÓN  – Tabla 1 
+ 
+Medición de tensión y frecuencia 
+Nota 
+Valor de medición 
+Rango 
+ 
+Error 
+Tensión  U L - N 
+100 V  a 260 V 
+ 
+± ( 2 % MV + 2 D) 
+Tensión  U L - PE 
+0,5 UL-N  a 260 V  
+± ( 2 % MV + 2 D) 
+Tensión  U N - PE 
+20V   a 0,5 UL-N 
+ 
+± ( 2 % MV + 3 D) 
+Valor TRMS  
+(todas las mediciones de tensión) 
+Frecuencia 
+15 Hz  a  65 Hz 
+ 
+± ( 1 % MV + 1 D) 
+En el rango U L - N 
+Medición de 
+tensión con 
+adaptador 
+20 V  a 450 V 
+ 
+± ( 2 % MV + 3 D) 
+Tensión AC, CC 
+Medición de RCDs 
+Valor de medición 
+Rango 
+ 
+Error 
+Rango tensión UL-PE 190÷260 V   49,5÷50,5 
+Hz 
+Tensión de 
+contacto  
+UI∆N     1) 
+0,0 V a 70,0 V 
+ 
++ 10% MV + 1 V 
+Corriente medición 
+45% I∆N ± 5% I∆N / 240ms 
+600 ms  (G) 
+ 
+±(1%MV + 3 ms) 
+1000 ms  (S) 
+ 
+±(1%MV + 3 ms) 
+Corriente medición 
+I∆ = 100% a 110%I∆N (AC) 
+I∆ = 140% a 150%I∆N (A) 
+I∆ = 195% a 205%I∆N (A)  6mA, 10mA 
+I∆N …corriente nominal de actuación de 
+RCD 
+Tiempo disparo 
+de RCD  tA 
+40 ms   ( 5x I∆N )  
+±(1%MV + 3 ms) 
+Corriente medición 
+I∆ = 5,0 a 5,5 I∆N (6,10,30 mA) 
+Corriente de 
+disparo de RCD 
+I∆ 
+30 a 140 % I∆N 
+30 a 200 % I∆N 
+(A)  6mA, 10mA 
+ ± 10 % I∆N en rango de 
+50÷100% I∆N 
+Tiempo medición máx. 
+1,1 s  (G)  2,2 s  (S) 
+2) 3)                            Impedancia de bucle de protección RS 
+Corriente máx. medición  2,6  A 
+Valor de medición 
+Rango 
+ 
+Error 
+Impedancia de 
+bucle de 
+protección RS 
+0,00 Ω a 0,39 Ω  
+0,40 Ω a 19,99 Ω 
+ 
+* 
+±(5%MV + 10 D) 
+Rango voltaje  U L - PE 
+190÷260 V   49,5÷50,5 Hz 
+  *   error operativo mayor que 30% MV 
+Medición RS 
+detrás RCD a 
+300mA 
+0,0 Ω a 3,3 Ω 
+3,4 Ω a 199,9 Ω 
+ 
+* 
+±(10%MV + 15 D) 
+I∆ < 150 mA 
+Medición RS 
+detrás RCD a 
+30mA 
+000 Ω a 33 Ω  
+34 Ω a 1999 Ω 
+ 
+* 
+±(10%MV + 15 D) 
+I∆ < 15 mA 
+Medición de resistencias bajas R 
+Resistencia R 
+0,00 Ω a 19,99 Ω  
+±(5%MV + 10 D) 
+Corriente 
+medición 
+ 
+ 
+±(5%MV + 10 D) 
+Medición corriente continua de 220 mA ± 
+15 mA 
+(resistencia máx  
+8 Ω a 12 Ω según estado de la pila) 
+ 
+1)  Impedancia de bucle de protección durante la medición de la tensión de contacto - calculado 
+2)  Intensidad de cortocircuito – valor calculado  
+3)  Tolerancia de error durante la medición con el adaptador es ± 0.02 Ω. 
+MV.….. valor de medición 
+D.……dígito– resolución en orden menos significativo 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   27 
+ 
+ 
+ 
+ 
+6.-  RESOLUCIÓN DE PROBLEMAS 
+ 
+1. Después de encender con el botón ON/OFF no aparecen datos. 
+– no se han colocado las pilas en el instrumento  
+– las pilas se han colocado sin tener en cuenta la polaridad  
+– pilas descargadas; si se conectan los acumuladores no se cargan las pilas.  
+2. Después de comenzar la medición de RCDs o del bucle aparecen el símbolo PE!, el 
+valor I- - -.  kΩ y RS : 
+– el cable de la toma de tierra está cortado PE (la resistencia de bucle de 
+protección es superior a 20 kΩ) 
+– defecto de los circuitos de alimentación – fusible estropeado dentro del 
+instrumento; debe ser reparado por el fabricante  
+3. Después de realizar mediciones repetidas de la intensidad o el tiempo de acceso de 
+RCDs en el rango de 300 mA o 500 mA aparece el símbolo °C conmutando a 
+intervalos de 0,5 segundos. Si el estado persiste no se pueden realizar mediciones 
+con el instrumento. 
+Indicación de recalentamiento 
+ 
+                           
+ 
+ 
+ 
+Causa -   corte del fusible térmico debido al recalentamiento de los circuitos de 
+alimentación; si ha saltado el fusible durante la medición, entonces el valor indicado no 
+es correcto. El símbolo °C desaparecerá después de 5 - 15 minutos y el instrumento ya 
+estará preparado para la medición. 
+ 
+ 
+7.-  MANTENIMIENTO 
+ 
+El  CDB  no precisa un mantenimiento especial. Es preciso evitar en la medida de lo 
+posible todo ajuste, mantenimiento o reparación con el equipo abierto, y si es ineludible 
+deberá efectuarlo personal cualificado bien informado de la operación a seguir.  
+Cuando se sospeche de un fallo de funcionamiento del equipo ó en la protección del 
+mismo debe dejarse el equipo fuera de servicio, asegurándose contra cualquier 
+conexión accidental. El diseño del equipo permite una substitución rápida del mismo en 
+caso de avería. 
+ 
+ 
+TRANSPORTE 
+Los instrumentos pueden transportarse en vehículos utilizando sus embalajes 
+originales. Los instrumentos deberán ser manejados con sumo cuidado durante el 
+transporte sin golpes innecesarios. La temperatura de transporte permitida es de -25° 
+C a + 55° C. El instrumento está homologado con las especificaciones de acuerdo a la 
+norma EN 60721-3-2, de clase 2K2. 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   28 
+ 
+ 
+ALMACENAMIENTO 
+Los instrumentos no deben quedar expuestos a la luz solar directa durante el 
+almacenamiento. La temperatura de almacenamiento debe ser entre -5° C y +45° C, 
+con una humedad relativa de 95 % a 30° C. No se deberá almacenar en lugares que 
+contengan gases o vapores nocivos que puedan provocar la corrosión del aparato. Las 
+salas de almacenamiento deberán estar libres de polvo y moho. 
+El instrumento cumple las especificaciones de acuerdo a las normas EN 60721-3-1, 
+clase: 1K2,1Z1/1B1/1C1/1S1/1M. 
+ 
+COMPROBACIONES A LA RECEPCIÓN 
+ 
+ 
+ 
+ 
+a) Equipo verificador CDB 
+ 
+b) Manual de instrucciones para su uso 
+ 
+c) Bolsa para la unidad CDB 
+ 
+d) Embalaje de cartón 
+ 
+ 
+e) Adaptador bifilar 
+ 
+ 
+f) Pinza de cocodrilo con vaina – 2 piezas 
+ 
+ 
+ 
+8.- SERVICIO TÉCNICO 
+ 
+En caso de cualquier duda de funcionamiento o avería del equipo avisar al servicio 
+técnico de CIRCUTOR S.A. 
+ 
+CIRCUTOR S.A. - Servicio Posventa  
+Vial Sant Jordi, s/n 
+08232 – Viladecavalls   
+tel - 93 745 29 00  
+fax - 93 745 29 14 
+E-mail : central @ circutor.es 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   29 
+ 
+9.- GUÍA RÁPIDA 
+ 
+9.1.- Medida de la resistencia de bucle 
+Cuando sea posible realizar la medida en una toma convencional, utilizar el conector 
+para toma convencional que lleva el equipo. En caso contrario, utilizar el adaptador 
+bifilar tal y como muestra el esquema. 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+ 
+Secuencia de medida: 
+ 
+ Selección de Rs (resistencia de bucle) 
+ 
+ Ajuste del rango de medición 
+ 
+Inicio de la medida 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   30 
+ 
+ 
+9.2.- Medida de la resistencia interna 
+Se debe realizar el siguiente conexionado. 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+ 
+Secuencia de medida: 
+ 
+ Selección de Rs (únicamente cambia el conexionado respecto al caso anterior)  
+ 
+ Ajuste del rango de medida 
+ 
+ Inicio de la medida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   31 
+ 
+9.3.- Medida de resistencias pequeñas 
+Se debe realizar el siguiente conexionado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secuencia de medida: 
+ 
+ Selección del modo de calibración 
+ 
+  
+ 
+  Una vez interconectados los extremos del adaptador entre si, START para 
+ 
+ 
+empezar la calibración. Una vez calibrado el equipo con los terminales del 
+ 
+ 
+adaptador, conectar la resistencia que se quiere medir entre los extremos 
+ 
+ 
+del adaptador 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   32 
+ 
+9.4.- Medida de tensiones y frecuencia 
+Cuando sea posible realizar la medida en una toma de red convencional, utilizar el 
+conector que lleva el equipo. En caso contrario, utilizar el adaptador bifilar tal y como 
+muestra el esquema (dependiendo de la tensión que se quiera medir). 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+ 
+Secuencia de medida: 
+ 
+ Selección de medida de tensión o frecuencia 
+ 
+  Selección de tensión (UL-N, UL-PE, UN-PE) o frecuencia (Hz) 
+El resultado de la medida aparece en pantalla 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   33 
+ 
+ 
+9.5.- Medidas de RCD 
+Cuando sea posible realizar la medida en una toma de red convencional, utilizar el 
+conector que lleva el equipo. En caso contrario, utilizar el adaptador bifilar tal y como 
+muestra el esquema. 
+ 
+ 
+ 
+ 
+L1
+L2
+L3
+N
+PE
+Verde
+Negro
+Adaptador
+bifilar
+CDB
+RCD
+ 
+ 
+- Medida de la tensón de contacto 
+ Selección del tipo de RCD (general o selectivo S) 
+ Selección de la intensidad nominal del RCD 
+ Selección de la tensión de contacto UI∆N 
+ Inicio de la medida 
+ 
+ 
+- Medida del tiempo de disparo del RCD 
+ Selección del tipo de RCD (general o selectivo S) 
+ Selección de la intensidad nominal del RCD 
+ Selección del tiempo de disparo tA 
+ Inicio de la medida 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   34 
+ 
+ 
+- Medida del tiempo de disparo del RCD con 5x I∆N 
+ Selección del tipo de RCD (general o selectivo S) 
+ Selección de la intensidad nominal del RCD 
+ Selección del tiempo de disparo tA con una corriente 5x I∆N 
+ Inicio de la medida 
+ 
+ 
+- Medida de la corriente de disparo del RCD 
+ Selección del tipo de RCD (general o selectivo S) 
+ Selección de la intensidad nominal del RCD 
+ Selección de la corriente diferencial I∆ 
+ Selección de la tensión de contacto UI∆N y el tipo de corriente (senoide o 
+pulsante) 
+ Inicio de la medida 
+ 
+ 
+ 
+ 
+
+------   COMPROBADOR DE DIFERENCIALES    CDB   -------         Pág    nº   35 
+ 
+ 
+Instrucciones para insertar las baterías en el equipo:  
+ 
+ 
+ 
+ 
+1. Usar un destornillador 
+estrecho o algún elemento 
+puntiagudo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Insertar la punta en el orificio  
+que se encuentra en la tapa 
+posterior 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Tal y como indica la figura,  
+estirar la tapa en la dirección  
+de la flecha 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

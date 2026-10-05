@@ -1,0 +1,1648 @@
+ENTENDIENDO
+PRUEBAS DE RESISTENCIA DE TIERRA
+E
+I
+Rx
+R1
+R2
+Rn-1
+Rn
+Z
+Y
+X
+Voltímetro (E)
+Electrodo de
+potencial
+auxiliar
+Electrodo de
+tierra bajo
+prueba
+Electrodo de
+corriente
+auxiliar
+Amperímetro (I)
+Fuente de 
+corriente
+R
+TIERRA
+Barra de toma
+de tierra y
+abrazadera
+Resistencia de
+contacto
+entre la barra
+y el suelo
+Ondas
+concentricas
+de la tierra
+100% de la distancia
+entre X y Z
+Resistancia
+Variación de Lectura
+Areas de
+resistencia
+Efectiva
+(sin 
+sobreposición)
+X
+Y' Y Y''
+Z
+52%
+62%
+72%
+(de la distancia total de X a Z) 
+• Resisitividad de la tierra
+• Resistividad del suelo
+• Medidas de tres puntos
+• Medidas de cuatro puntos
+• Medidas de Pinza
+Technical Hotline: (800) 343-1391 • www.aemc.com
+
+Entendiendo las Pruebas
+de Resistencia de Tierra
+Seminario de un día
+En estos tiempos en el que los cambios de los avances
+tecnológicos se suceden rápidamente, una buena toma de
+tierra es mas importante que nunca para prevenir daños
+costosos y el tiempo de inactividad debido a interrupciones
+de servicio y la mala protección causada por una toma de
+tierra pobre. Los sistemas de toma de tierra le ofrecen
+protección de los fenómenos naturales como el relámpago
+descargando el sistema de corriente, protegiendo al
+personal de ser heridos y a los componentes de los
+sistemas de ser dañados. En sistemas de potencia
+eléctrica con toma de tierra con retorno, la toma de tierra 
+le ayuda a asegurar una rápida operación de la protección
+de los reles proporcionando caminos de fallos de baja
+resistencia en casos de cambios potenciales no habituales
+debidos a fallos. La toma de tierra de baja resistencia es
+requerida para cumplir con la NEC®, OSHA y otras normas
+eléctricas de seguridad.
+
+Lista de Contenidos
+Resistividad de la Tierra .............................................................................................................................2
+Medidas de Resistividad de la Tierra (Medidas de 4-Puntos)....................................................................4
+Electrodos de Tierra ...................................................................................................................................5
+Principio de Pruebas de Resistencia de Tierra (Caida de Potencial – Medida de 3-Puntos)....................8
+Sistema de Electrodos Múltiples ..............................................................................................................13
+Consejos Técnicos ...................................................................................................................................14
+Medida de Resistencia de Tierra de Pinza (Modelos 3711 y 3731).........................................................17
+Telecomunicaciones .................................................................................................................................20
+Nomograma de Toma de Tierra................................................................................................................23
+Gráﬁco de Caída de Potencial .................................................................................................................24
+Los Modelos 3711/3731 han reemplazado los Modelos 3710/3730
+www.aemc.com
+1
+©2003 Chauvin Arnoux®, Inc. d.b.a. AEMC ® Instruments
+Libro de Trabajo Rev. 03
+                                       950.WKBK-GROUND-SP 12/06
+
+Resistividad de la Tierra
+Efectos de la Resistividad de la Tierra en la Resitencia de
+Electrodos de Tierra
+La resistividad de la tierra el el factor clave que determina cuál será la resistencia de un
+electrodo de toma de tierra, y a que profundidad debe ser enterrada para obtener una
+resistencia de tierra baja. La resistividad de la tierra varía ámpliamente a través del
+mundo y cambia con las estaciones. La resistividad de la tierra es determinada en gran
+parte por su contenido de electrolitos, que consisten de humedad, minerales y sales
+disueltas Una tierra seca posee una alta resistividad si contiene sales no solubles
+(Figura 1).
+Resistividad (aprox.), Ω-cm
+Tierra
+Min.
+Promedio
+Máx.
+Cenisas, cinders, salmuera, desperdicio
+590
+2,370
+7,000
+Arcilla, barro, lodo ﬁrme
+340
+4,060
+16,300
+Mismo anterior, solo con mayor
+proporcion de arena y grava
+1,020
+15,800
+135,000
+Grava, arena, piedras con un poco
+de arcilla o suelo ﬁrme
+59,000
+94,000
+458,000
+Factores que Afectan la Resistividad de la Tierra
+Dos muestras de tierra, cuando secadas completamente, pueden de hech
+o combertirse en muy buenos aislantes teniendo una resistividad en exceso de 109
+ohmio-centímetro. La resistividad de la muestra de tierra cambia muy rápidamente
+hasta que se llega a un aproximadamente a un 20% o más de contenido de humedad
+(Figura 2).
+Contenido de Humedad
+Resistividad Ω - cm
+% por peso
+Suelo-sup.
+Suelo ﬁrme arenosa
+0
+>109
+>109
+2.5
+250,000
+150,000
+5
+165,000
+43,000
+10
+53,000
+18,500
+15
+19,000
+10,500
+20
+12,000
+6,300
+30
+6,400
+4,200
+La resistividad de la tierra es también inﬂuenciada por la temperatura.
+La Figura 3 muestra la variación de la resistividad de marga arenosa, conteniendo
+15.2% de humedad, con cambios de temperatura desde 20° a -15°C. En esta escala de
+temperatura la resistividad varía desde 7200 a 330,000 ohios-centímetros.
+Temperatura
+Resistividad
+C
+F
+Ohmio-cm
+20
+68
+7,200
+10
+50
+9,900
+0
+32 (agua)
+13,800
+0
+32 (hielo)
+30,000
+-5
+23
+79,000
+-15
+14
+330,000
+LAS NOTAS
+2
+www.aemc.com
+FIGURA 1
+FIGURA 2
+FIGURA 3
+
+Dado que la resistividad de la tierra está direcamente relacionada con el contenido de
+humedad y la temperatura, es razonable asumir que la resistencia de cualquier sistema
+de toma de tierra variará a través de las diferentes estaciones del año. Tales variaciones
+son mostradas en la Figura 4. Ya que tanto la temperatura como el contenido de
+humedad esdevienen más estables a mayores distancias por debajo de la corteza de la
+tierra, es coherente que un sistema de toma de tierra, para ser más efectivo siempre,
+debería ser construido con la bara de tierra enterrada a una distancia considerable por
+debajo de la corteza de la tierra. Los mejores resultados son obtenidos si la bara de 
+tierra alcanza la tabla de agua.
+Variación de temporada de la resistencia de  tierra con un electrodo de tubo
+3/4" pulgada en tierra de arcilla con piedras. La profundidad del electrodo
+en la tierra es 3 pies para Curva 1, y 10 pies para Curva 2
+En algunas localidades, la resistividad de la tierra es tan alta que una toma de tierra de
+baja resitencia puede ser obtenida sólo a alto coste y con un sistema de toma de tierra
+elaborado. En tales situaciones, puede ser económico usar un sistema de bara de tierra de
+tamaño limitado y para reducir la resistividad de tierra incrementando perdiódicamente el
+contenido quémico soluble de la tierra. La Figura 5 muestra la reducción substancial en
+resistividad de marga arenosa conseguida por un incremento del contenido de sal química.
+Tierra tratada químicamente está también sujeta
+a una variación de
+resistividad considerable
+con cambios de temperatura, como se ve en la
+Figura 6. Si se emplea
+tratamiento con sal, es
+necesario usar baras
+detierra que resistirán
+corrosión química.
+LAS NOTAS
+www.aemc.com
+3
+0
+20
+40
+60
+80
+Enero
+Marzo
+Mayo
+Julio
+Septiembre
+Noviembre
+Enero
+Marzo
+Mayo
+Julio
+Curva 1
+Curva 2
+FIGURA 4
+EL EFECTO DE TEMPERATURA SOBRE LA
+RESISTIVIDAD DE LA TIERRA QUE CONTIENE SAL*
+(Marga arenosa, 20% humedad, Sal 5% del peso de la humedad)
+Temperatura
+Resistividad
+(Grados C)
+(Ohmio-centimetro)
+20
+110
+10
+142
+0
+190
+-5
+312
+-13
+1,440
+FIGURA 6
+EL EFECTO DE CONTENIDO DE SAL* SOBRE LA
+RESISTIVIDAD DE LA TIERRA
+(Marga arenosa, contenido de humedad,
+15% por peso, Temperatura, 17°C)
+Sal Añadida
+Resistividad
+(% por peso de humedad)
+(Ohmio – centimetro)
+0
+10,700
+0.1
+1,800
+1.0
+460
+5
+190
+10
+130
+20
+100
+FIGURA 5
+*Tal como sulfato de cobre, carbonato de sodio, y otros.
+Las Sales deben aprobadas por EPA o por la ordinancia
+local antes de ser usadas 
+
+Medidas de Resistividad de la Tierra
+(Medidas de 4-puntos)
+Las medidas de resistividad son de dos tipos; el método de 2-puntos y el de 4-puntos.
+El método de 2-puntos es simplemente la resistencia medida entre dos puntos. Para 
+la mayoría de aplicaciones el método más preciso el de 4-puntos que es usado en el
+Modelos de Probador de Tierra 4610, 4620, 4630 o 6470. El método de 4-puntos
+(Figuras 7 y 8), como el nombre implica, requiere la inserción de cuatro electrodos a 
+la misma distancia y en línea en el área de pruebas. Una corriente concocida desde 
+un generador de corriente constante es pasada por los electrodos de fuera. La caída 
+de potencial (una función de la resistencia) es entonces medida a través de los dos
+electrodos interiores. Los Modelos 4610, 4620, 4630 y 6470 son calibrados para leer
+directamente en ohmios.
+Si A > 20 B, la fórmula se transforma en:
+ρ = 2π AR (con A en cm)
+ρ = 191.5 AR (con A enpies)
+ρ = Resistividad de latierra (ohmio – cm)
+Donde: A = distancia entre los electrodos en centímetros
+B = profundidad del electrodo en centimetros
+El valor para ser utilizado por ρ es el pro medio de la resistividad de tierra a una
+profundida equivalente a la distancia “A” entre dos electrodos.
+Dado un pedazo de terreno considerable en el que determinar la resistividad óptima de 
+la tierra un poco de intuición es necesaria. Asumiendo que el objetivo es baja 
+resistividad, se debería dar preferencia a un área conteniendo marga húmeda en contra 
+de un área seca y arenosa. Se debe también considerar la profundidad a la que la
+resistividad es requerida.
+Ejemplo
+Después de inspecionarla, el área investigada ha sido reducida a un trozo de tierra de
+aproximadamente 75 pies cuadrados (7m2). Asumiendo que usted necesita determinar la
+resistividad a una profundidad de 15 pies (450cm). Entonces la distancia “A” entre los
+electrodos debe ser equivalente a la profundidad a la que la resistividad promedio debe ser
+deteminada (15 pies, o 450cm). Usando la fórmula Wenner más simpliﬁcada (ρ = 2π AR),
+la profundidad del electrodo de entonces ser una vigésima (1/20) parte del espacio entre
+eleltrodos o 8-7/8" (22.5cm).
+LAS NOTAS
+4
+www.aemc.com
+R
+B
+X
+Xv
+Y
+Z
+A
+A
+A
+A
+A
+A
+A
+A
+A
+FIGURA 7
+NOTA:
+Utilizar pies en lugar de cm:
+2π x (conversion from cm a pies) =
+(2) (3.14) (12) (2.54) = 191.5
+FIGURA 8
+
+Distribuya los electrodos en un diseño de cuadrícula y conectelos con el instrumento como
+es mostrado en la Figura 8. Proceda de la forma siguiente:
+• Quite el enlace puntal entre X y Xv (C1, P1)
+• Conecte las cuatro baras auxiliares (Figura 7)
+Por ejemplo, si la lectura es R = 15
+ρ (resistividad) = 2π x A x R
+A (distancia entre electrod0s) = 450cm
+ρ = 6.28 x 15 x 450 = 42,390 Ω-cm
+Electrodos de Tierra
+El término “tierra” es deﬁnido como una conexión conductora por la que un circuito 
+o equipo es conectado con la tierra. La conexión es usada para establecer y mantener
+lo más preciso posible el potencial de la tierra en el circuito o equipo conectado a él.
+Una “tierra” consiste de un conductor de toma de tierra, un conector de enlace, su(s)
+electrodo(s) de toma de tierra, y el suelo en contacto con el electrodo.
+“Toma de tierra” tiene varias aplicaciones de protección. Para fenómenos naturales tales
+como relámpagos, toma de tierras son usadas para descargar el sistema de corriente
+antes que el personal pueda resultar herido o componentes del sistema puedan ser
+dañados. Para potenciales ajenos debidos a fallos en sistemas de potencia eléctrica con
+vueltas de tierra, tomas de tierra ayudan a asegurar un rápido funcionamiento de los
+relevos protectivos al proporcionar caminos de baja resistencia para la corriente de fallida.
+Esto permite la eliminación del potencial ajeno tan rápidamente como sea posible. La
+toma de tierra debería drenar el potencial ajeno antes que haya heridos entre el personal 
+y que la potencia o el sistema de comunicaciones sea dañado.
+Lo idóneo, para mantener un potencial de refrencia para seguridad del instrumento,
+para protección en contra de electricidad estática y para limitar el sistema a un voltage
+de marco para seguridad del operario, la resistencia de tierra debería ser zero ohmios.
+En realidad, como describiremos más adelante en el texto, este valor no puede ser
+obtenido.
+Ultimo, pero no menos importante, una resistencia de tierra baja es esencial para
+cumplir los estándards de seguridad NEC®, OSHA y otros.
+La Figura 9 muestra una bara de toma de tierra. La resistencia del electrodo posee los
+componentes siguientes:
+(A)
+La resistencia del metal y de la conexión a este
+(B)
+La resistencia de contacto de la tierra de alrededor al electrodo
+(C)
+La resistencia en la tierra de alrededor a ﬂujo de corriente o resistividad de tierra
+que es amenudo el factor más signiﬁcante.
+Más especiﬁcamente:
+(A) Electrodos de toma de tierra están
+normalemente hechos de un metal muy
+conductivo (cobre o chapado de cobre) con
+secciones transversales adecuadas de manera
+que la resistencia total es insigniﬁcante.
+(B) El Instituto nacional de Estándards y
+Tecnología ha demostrado que la resistencia 
+entre el electrodo y la tierra del alrededor es
+insigniﬁcante si el electrodo no tiene pintura,
+grasa, o otras capas, y si la tierra esta 
+ﬁrmemente compactada.
+(C) El único componente que queda es la
+resistencia de la tierra del alrededor. El
+electrodo puede ser visto como envuelto 
+LAS NOTAS
+www.aemc.com
+5
+Barra de toma
+de tierra y
+abrazadera
+Resistencia de
+contacto
+entre la barra
+y el suelo
+Ondas
+concentricas
+de la tierra
+FIGURA 9
+
+por capas concéntricas de tierra, todas del mismo grosor. Como más cercana la capa al
+electrodo, más pequeña es su superﬁcie; así pues, más grande es su resistencia.
+Como más lejanas las capas estén del electrodo, mayor es la superﬁcie de la capa; así
+pues menor es su resistencia. Eventualmente, añadir capas a una distancia del
+electrodo de la toma de tierra ya no afectará de forma notable la resistencia total de 
+la tierra de alrededor del electrodo. La distancia a la que este efecto ocurre es llamada el
+área de resistencia efectiva y es directamente dependiente de la profundidad del electrodo de
+toma de tierra.
+Efecto del Tamaño del Electrodo de Toma de Tierra y de la
+Profundidad Sobre la Distancia
+Tamaño: Incrementando el diámetro de la bara no reduce materialmente
+su resistencia. Doblar el diámetro reduce la resistencia por menos de 10% (Figura 10).
+Profundidad: Cuando una bara de toma de tierra es enterrada más profundamente bajo
+tierra, su resistencia es reducida subtancialmente. En general, doblando la longitud de
+la bara reduce la resistencia por un 40% adicional (Figura 11). El NEC 2005, 250.52 (A)(5)
+requiere un mínimo de 8 ft (2.4m) a estar en contacto con la tierra. La más común es
+una bara cilíndrica de 10ft (3m) que cumple con el código de NEC. Un diámetro mínimo
+de 5/8 pulgadas (1.59cm) es requerido para baras de acero y 1/2 pulgada (1.27cm)
+para baras de cobre o de acero chapado de cobre (NEC 2005, 250.52). Los diámetros
+prácticos mínimos por limitaciones de enterrado para baras de 10 ft (3m) son:
+• 1/2 pulgada (1.27cm) en tierra promedio
+• 5/8 pulgadas (1.59cm) en tierra húmeda
+• 3/4 pulgadas (1.91cm) en tierra dura o para profundidades de enterrado 
+de más de 10 pies
+LAS NOTAS
+6
+www.aemc.com
+0
+25
+50
+75
+100
+1/2
+5/8
+3/4
+1
+1 1/4
+1 1/2
+1 3/4
+Diámetro de Barra (pulgadas)
+Resistancia en %
+FIGURA 10
+5
+15
+25
+35
+40
+50
+60
+70
+1
+2
+3
+4
+5
+6
+8
+10
+20
+30
+40
+60
+80
+100
+200
+Profundidad de entierro en pies 
+Resistencia de Tierra contra profundidad 
+de barra de toma de tierra
+Resistancia en ohmios
+1/2" dia.
+1" dia.
+FIGURA 11
+
+LAS NOTAS
+www.aemc.com
+7
+Nomograma de Toma de Tierra
+1. Seleccione la resistencia requerida en la escala R.
+2. Seleccione la resistividad aparente en la escala P.
+3. Coloque escuadrón en las escalas R y P, y permita que interseccione con la escala K.
+4. Marque el punto en la escala K.
+5. Coloque el escuadrón sobre el punto de la escala K y sobre la escala DIA, y permita
+que interseccione con la escala D.
+6. El punto en la escala D será la profundidad de la bara requerida para la resistencia
+en la escala R.
+100
+100
+90
+80
+70
+60
+50
+40
+30
+20
+15
+10
+5
+4
+3
+2
+1
+90
+80
+70
+60
+50
+40
+30
+20
+15
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+R
+P
+D
+K
+DIA
+100000
+50000
+40000
+30000
+20000
+15000
+10000
+5000
+4000
+3000
+2000
+1000
+500
+8
+7
+6
+5
+4
+3
+1
+1.5
+1
+3/4
+5/8
+1/2
+1/4
+Diámetro de Barra
+Pulgadas
+Profundidad de Barra
+Pies
+Barra de Toma de Tierra
+Resistencia – Ohmios
+Resistividad de la Tierra
+(Ohmios-centimetros)
+FIGURA 12
+
+LAS NOTAS
+8
+www.aemc.com
+Principio de Prueba de Resistencia de Tierra 
+(Caída de Potencial — Medida de 3-puntos)
+La diferencia de potencial entre las baras X y Y es medida por un multímetro, y el ﬂujo
+de  corriente entre las baras X y Z es medido por un ammetro. (Nota: X, Y y Z pueden
+ser llamados X, P y C en un probador de 3-puntos o C1, P2 y C2 en un probador de 
+4-puntos.) (Vea la Figura 13.)
+Por la Ley de Ohm E = RI o R = E/I, podemos obtener la resistencia R del electrodo 
+de tierra. Si E = 20V y I = 1A, entonces
+R
+=
+E
+=
+20
+=
+20
+–––
+–––
+I
+1
+No es necesario realizar todas las medidas cuando se usa un probador de tierra. El
+probador de tierra medirá directamente al generar su propia corriente y mostrando la
+resistencia del electrodo de tierra.
+Posición de los Electrodos Auxiliares en Medidas
+El objetivo en medir de forma precisa la resistencia a tierra es colocar el electrodo de
+corriente auxiliar Z suﬁcientemente lejos del electrodo de tierra bajo prueba de manera
+que el electrodo de potencial auxiliar Y esté fuera de las áreas de resistencia efectiva
+del electrodo de tierra y del electrodo de corriente auxiliar. La mejor manera de
+descubrir si la bara de potencial auxiliar Y está fuera de las áreas de resistencia
+efectiva es moverla entre X y Z y tomar una lectura en cada sitio. (Vea la Figura 16.) 
+Si la bara de potencial auxiliar Y está en un área de resistencia efectiva (o en las dos s
+se sobreponen, como en la Figura 14), al desplazarla las lecturas tomadas variarán
+notablemente de valor. Bajo estas condiciones, no se puede determinar un valor 
+exacto para la resistencia de tierra.
+Por otra parte, si la bara de potencial auxiliar Y está situada fuera de las áreas de
+resistencia efectiva (Figura 15), cuando Y es movida arriba y abajo la variación de la
+lectura es mínima. Las lecturas tomadas deberían estar relativamente cerca las unas
+de las otras, y son los mejores valores para la resistencia a tierra de la tierra X. Las
+lecturas deberían ser dibujadas para asegurar que caen en una región “plateau” como
+se muestra en la Figura 15. La región es a menudo llamada el “área 62%”.
+Z
+Y
+X
+Voltímetro (E)
+Electrodo de
+potencial
+auxiliar
+Electrodo de
+tierra bajo
+prueba
+Electrodo de
+corriente
+auxiliar
+Amperímetro (I)
+Fuente de 
+corriente
+R
+TIERRA
+FIGURA 13
+
+www.aemc.com
+9
+Resistencia
+Variación de Lectura
+Areas de resistencia
+Efectiva
+(sobreposición)
+X
+Y' Y Y''
+Z
+52% 62% 72%
+(de la distancia total de X a Z)
+100% de la distancia
+entre X y Z
+100% de la distancia
+entre X y Z
+Resistancia
+Variación de Lectura
+Areas de
+resistencia
+Efectiva
+(sin 
+sobreposición)
+X
+Y' Y Y''
+Z
+52%
+62%
+72%
+(de la distancia total de X a Z) 
+FIGURA 14
+FIGURA 15
+LAS NOTAS
+
+LAS NOTAS
+10
+www.aemc.com
+Midiendo la Resistencia de los
+Electrodos de Tierra (Método 62%)
+El Método 62% ha sido adoptado después de consideración gráﬁca y después de
+haberlo probado. Es el método más preciso pero está limitado por el hecho que 
+la tierra probada es una sola unidad.
+Este método es aplicable sólo cuando los tres electrodos están en línea recta y la tierra 
+es un sólo electrodo, tubo, o placa, etc., como en la Figura 16.
+Considere la Figura 17, que muestra las áreas de resistencia efectiva (capas concéntricas)
+del electrodo de tierra X y del electrodo de corriente auxiliar Z. Las áreas de resistencia
+se sobreponen. Si se tomaran lecturas moviendo el electrodo de potencia auxiliar 
+Y hacia X o Z, las diferencias entre lecturas serían enormes y uno no podría obtener
+una lectura dentro de una banda de tolerancia razonable. Las áreas sensitivas se
+sobreponen y actúan constantemente para incrementar la resistencia a medida que 
+Y es alejada de X.
+Pinzas
+Barra de Tierra
+Electrodo Y
+Electrodo Z
+Tira de 
+Tierra
+Ω
+Press To
+Measure
+X-Z
+Xv-Y
+Xv-Y
+Z
+Y
+X
+Xv
+C1
+P1
+P2
+C2
+Fault
+Hi Resistance
+Hi Noise
+DIGITAL GROUND RESISTANCE TESTER
+MODEL 4610
+AUTORANGING
+REFER TO USER MANUAL
+FOR FAULT WARNING LIGHT
+EXPLANATIONS
+!
+AEMC
+I N S T R U M E N T S
+Y
+Z
+X
+52%
+62%
+72%
+0%
+100% de distancia
+entre X y Z
+(de la distancia total desede X a Z)
+Barra de Tierra
+Electrodo Y
+Electrodo Z
+-10%  3rd
+medida
++10%  2nd
+medida
+FIGURA 16
+Distancia desde Y al electrodo de tierra
+Resistancia
+Areas de
+resistencia efectiva
+sobrepuestas
+X
+Y
+Z
+Electrodo
+de
+Tierra Bajo
+Prueba
+Electrodo
+de
+Potencial
+Auxiliar
+Electrodo
+de
+Corriente
+Auxiliar
+FIGURA 17
+
+LAS NOTAS
+www.aemc.com
+11
+Ahora considere la Figura 18, donde los electrodos X y Z están suﬁcientemente
+distanciados de manera que las áreas de resistencia efectiva no se sobreponen. Si
+dibujamos la resistencia medida descubrimos que las medidas se contrarestan cuando 
+Y es colocado a un 62% de la distancia desde X a Y, y que las lecturas en cualquier 
+lado del sitio inicial de Y son muy probables de estar dentro de la banda de tolerancia
+establecida. Esta banda de tolerancia es deﬁnida por el usuario y es expresada 
+como un porcentaje de la lectura inicial: ±2%, ±5%, ±10%, etc.
+Distancia entre Electrodos Auxiliares
+No se puede dar una distancia especíﬁca entre X y Z, ya que esta distancia es relativa 
+al diámetro del electrodo probado, su longitud, la homogeneidad de la tierra probada, y
+especialmente, las áreas de resistencia efectiva. Sin embargo, una distancia aproximada
+puede ser determinada desde la tabla siguiente que es dada para una tierra
+homogénea y para un electrodo de 1" de diámetro. (Para un diámetro de 1/2", 
+reduzca la distancia un 10%; para un diámetro de 2" aumente la distancia un 10%;
+para un diámetro de 1/2",reduzca la distancia un 10%.)
+Distancia aproximada a los electrodos auxiliares
+usando el método 62%
+Profundidad enterrado
+Distancia a Y
+Distancia a Z
+16 ft
+45 ft
+172 ft
+18 ft
+50 ft
+180 ft
+10 ft
+55 ft
+188 ft
+12 ft
+60 ft
+196 ft
+18 ft
+71 ft
+115 ft
+20 ft
+74 ft
+120 ft
+30 ft
+86 ft
+140 ft
+Resistancia
+Distancia de Y al electrodo de tierra
+Areas de
+resistancia
+efectiva
+no se
+sobreponen
+X
+Y
+Z
+Electrodo de
+Tierra bajo
+prueba
+Electrodo de
+potencial
+auxiliar
+Electrodo de
+corriente
+auxiliar
+D
+62% de D
+38% de D
+Resistancia del
+electrodo de
+corriente auxiliar
+Resistancia del electrodo de tierra
+FIGURA 18
+
+LAS NOTAS
+12
+www.aemc.com
+Distancia entre Múltiples Baras
+Varios electrodos en paralelo proporcionan una resistencia menor al suelo
+que un sólo electrodo. Instalaciones de alta capacidad requieren una
+resistencia de toma de tierra baja. Varias baras son usadas para
+proporcionar esta resistencia.
+Una Segunda bara no propociona una resistencia total de la mitad de la
+de una sóla bara a menos que las dos estén varias baras de distancia
+aparte. Para conseguir la resistencia de toma de tierra coloque varias
+baras separadas por una bara de distancia en línea, en un círculo,
+triángulo hueco, o cuadrado. La resistencia equivalente puede ser
+calculada dividiendo por el número de baras y multiplicando por el
+factor X (mostrado abajo). Consideraciones adicionales sobre potenciales
+de paso y de toque deberían ser corregidos por la geometría.
+Multiplicando Factores para Varias Baras
+Número de Baras
+X
+12
+1.16
+13
+1.29
+14
+1.36
+18
+1.68
+12
+1.80
+16
+1.92
+20
+2.00
+24
+2.16
+Colocar baras adicionales dentro del perífero de una forma no reducirá
+la resistencia de tierra por debajo de la de las baras periféricas solas.
+
+LAS NOTAS
+www.aemc.com
+13
+Sistema de Electrodos Multiples
+Un electrodo de tierra enterrado es un medio económico y simple de hacer un buen
+sistema de toma de tierra, pero algunas veces una sóla bara no proporciona una
+resistencia suﬁcientemente baja, y varios electrodos de tierra serán enterrados y
+conectados en paralelo con un cable. 
+Muy amenudo, cuando dos, tres o cuatro
+electrodos de tierra son usados, son
+enterrados en línea recta; cuando cuatro 
+o más son usados, una conﬁguración de
+cuadrado hueco es usada y los electrodos
+de tierra son aún conectados en paralelo
+y estan igualemente distanciados 
+(Figura 19).
+En sistemas de electrodos múltiples, el
+método 62% de distancia entre electrodos
+ya no puede ser aplicado directamente.
+La distancia entre los electrodos auxiliares
+está ahora basada en la distancia de
+cuadrícula mámima (es decir, en un
+cuadrado, la diagonal; en una línea, la
+longitud total. Por ejemplo, un cuadrado
+con un lado de 20 pies tendrá una
+diagonal de aproximadamente 28 pies).
+Sistema de Electrodos Múltiples
+Distancia de Cuad. Máx
+Distancia a Y
+Distancia a Z
+116 pies
+178 pies
+125 pies
+118 pies
+187 pies
+140 pies
+110 pies
+100 pies
+160 pies
+112 pies
+105 pies
+170 pies
+114 pies
+118 pies
+190 pies
+116 pies
+124 pies
+200 pies
+118 pies
+130 pies
+210 pies
+120 pies
+136 pies
+220 pies
+130 pies
+161 pies
+260 pies
+140 pies
+186 pies
+300 pies
+150 pies
+211 pies
+340 pies
+160 pies
+230 pies
+370 pies
+180 pies
+273 pies
+440 pies
+100 pies
+310 pies
+500 pies
+120 pies
+341 pies
+550 pies
+140 pies
+372 pies
+600 pies
+160 pies
+390 pies
+630 pies
+180 pies
+434 pies
+700 pies
+200 pies
+453 pies
+730 pies
+DIAGONAL
+DIAGONAL
+a
+a
+a
+a
+FIGURA 19
+
+LAS NOTAS
+14
+www.aemc.com
+Consejos Tecnicos
+Ruido Excesivo
+Ruido excesivo puede interferir con las pruebas debido a los largos cables usados para
+realizar una prueba de caída de potencial. Un voltímetro puede ser utilizado para
+identiﬁcar este problema. Conecte los cables “X”, “Y” y “Z” a los electrodos auxiliares
+como para una prueba de resistencia de tierra estándard. Use el voltímetro para probar
+el voltage a través de las terminales “X” y “Z” (Figura 20).
+La lectura del voltage debería estar dentro de las tolerancias de voltage superﬂuos
+aceptables para su probador de tierra. Si el voltage excede este valor, pruebe las
+técnicas siguientes:
+A) Trence los cables auxiliares juntos. Esto a menudo tiene el efecto 
+de cancelar los voltages de modo común entre estos dos conductores
+(Figura 21).
+Bara de tierra
+Electrodo Y
+Electrodo Z
+Tira de
+tierra
+Z
+Y
+X
+X
+v
+TEST
+RANGE
+TEST CURRENT
+2
+10 50
+2 20 200 2 20
+FIGURA 20
+Bara de tierra
+Electrodo Y
+Electrodo Z
+Tira de
+tierra
+Z
+Y
+X
+X
+v
+TEST
+RANGE
+TEST CURRENT
+2
+10 50
+2 20 200 2 20
+FIGURA 21
+
+LAS NOTAS
+www.aemc.com
+15
+www.aemc.com
+15
+B) Si el método previo fracasa, intente cambiar la alineación de los cables auxiliares de
+manera que no estén en paralelo con las líneas de potencia por encima o por debajo
+tierra (Figura 22).
+C) Si todavía no se ha obtenido un valor de voltage bajo satisfactorio, puede ser que se
+necesite usar cables protegidos. El blindaje actúa para proteger el conductor interno
+capturando el voltage y drenándolo a la tierra (Figura 23).
+1. Separe los blindajes a los electrodos auxiliares.
+2. Conecte los tres blindaje juntos en (pero no al) el intrumento.
+3. Conecte con tierra de forma sólida el blindaje restante a la toma
+de tierra bajo prueba.
+Z
+Y
+X
+X
+v
+TEST
+RANGE
+TEST CURRENT
+2
+10 50
+2 20 200 2 20
+Bara de tierra
+Electrodo Y
+Electrodo Z
+Tira de tierra
+Escudo de tierra
+Flote escudo
+Flote escudo
+Conecte los tres escudos juntos
+Z
+Y
+X
+X
+v
+TEST
+RANGE
+TEST CURRENT
+2
+10 50
+2 20 200 2 20
+Desconecte la tierra
+bajo prueba
+FIGURA 22
+FIGURA 23
+
+LAS NOTAS
+16
+www.aemc.com
+Resistencia de Bara Auxiliar Excessiva
+La función inherente de un probador de tierra de caída de potencial es entrar una
+corriente constante dentro de la tierra y medir la caída de voltage a través de electrodos
+auxiliares. Una resistencia excesiva de uno o de los dos electrodos auxiliares puede
+inhibir esta función. Esto es causado por una alta resistividad de la tierra o por un mal
+contacto entre el electrodo auxiliar y la tierra de alrededor (Figura 24).
+Para asegurar un buen contacto con la tierra, comprima la tierra que está directamente
+alrededor del electrodo auxiliar para eliminar bolsas de aire formadas al insertar la bara.
+Si la resistividad de la tierra es el problema, vierta agua alrededor de los electrodos
+auxiliares. Esto reduce la resistencia de contacto del electrodo auxiliar sin afectar las
+medidas.
+Capa de Alquitrán o de Cemento
+A veces una prueba debe ser realizada sobre una bara de toma de tierra que está rodeada
+por una capa de alquitrán o de cemento, donde electrodos auxiliares no pueden ser
+enterrados fácilmente. En estos casos, rejillas metálicas y agua pueden ser usadas paa
+reemplazar los electrodos auxiliares, como es mostrado en la Figura 25.
+Coloque las rejillas sobre el suelo a la misma distancia de la bara de tierra bajo prueba
+como pondría los electrodos auxiliares en una prueba de caída de potencial estándard.
+Vierta agua sobre las rejillas y permita que se empapen. Estas rejillas ahora realizarán
+la misma función que realizarían los electrodos auxiliares enterrados.
+TIERRE
+BOLSAS DE AIRE
+AGUA
+Agua
+Rejillas
+Bara de 
+tierra
+LO BAT
+Ω
+Press To
+Measure
+X-Z
+Xv-Y
+Xv-Y
+Z
+Y
+X
+C1
+P2
+C2
+Fault
+Hi Resistance
+Hi Noise
+GROUND RESISTANCE TESTER
+MODEL 3640
+AUTORANGING
+REFER TO USER MANUAL
+FOR FAULT WARNING LIGHT
+EXPLANATIONS
+!
+®
+I N S T R U M E N T S
+FIGURA 24
+FIGURA 25
+
+LAS NOTAS
+www.aemc.com
+17
+Medida de Resistencia de Tierra de Pinza
+(Modelos 3711 y 3731)
+Este método de medida es innovador y único. Ofrece la habilidad de medir la resistencia sin
+desconectar la toma de tierra. Este tipo de medida también ofrece la ventaja de incluir
+las resistencias de enlace con la tierra y de conexión de toma de tierra total.
+Principio de Funcionamiento
+Normalmente, un sistema de toma de tierra de línea de distribución común puede ser
+simulado como un circuito básico simple como se muestra en la Figura 27 o un circuito
+equivalente, mostrado en la Figura 30. Si un voltage E es aplicado a cualquier punto de
+toma de tierra medido Rx a través de un transformador especial, la corriente I circula a
+través del circuito, estableciendo así la siguiente ecuación.
+1
+E/I
+= Rx 
++ 
+––––––––––  
+donde, normalmente
+n 
+1
+––––
+∑
+Rk
+k=1
+Así pues, se establece que E/I = Rx. 
+Si I es detectada con E constante, la
+resistencia del punto de toma de tierra
+medida puede ser obtenida. Reﬁérase
+otra vez a las Figuras 26 y 27. La
+corriente es alimentada al transformador especial a través de un
+ampliﬁcador de potencia desde un
+oscilador de voltage constante de
+2.4kHz. Esta corriente es detectada por
+un CT de detección. Sólo la señal de
+frecuencia 2.4 kHz es ampliﬁcada por
+un ampliﬁcador de ﬁltro. Esto ocurre
+antes de la converión A/D y después
+de rectiﬁcación síncrona. Es entonces
+mostrada en el LCD.
+El ampliﬁcador de ﬁltro es usado para
+cortar tanto la corriente de tierra a
+frecuencia comercial como el ruido de
+alta frecuencia. El voltage es detectado
+por cables bobinados alrededor el CT
+de inyección que es entonces
+ampliado, rectiﬁcado y comparado por
+un comparador de nivel. Si la pinza 
+no está cerrada adecuadamente, 
+un anunciador de “pinza abierta”
+aparece en el LCD.
+E
+I
+Rx
+R1
+R2
+Rn-1
+Rn
+1
+Rx 
+>> 
+–––––––––––
+n 
+1
+––––
+∑
+Rk
+k=1
+E
+I
+Rx
+R1
+R2
+Rn-1
+Rn
+FIGURA 26
+FIGURA 27
+
+LAS NOTAS
+18
+www.aemc.com
+Ejemplos: Medidas en el Campo Típicas
+Transformador Montado en un Poste
+Quite cualquier montura que cubra el conductor de tierra, y proporcione espacio
+suﬁciente lara las pinzas del Modelo 3711/3731, que deben de ser capaces de cerrar
+con facilidad alrededor del conductor. Las pinzas pueden ser colocadas alrededor de la
+bara de tierra en sí. Nota: La pinza debe ser colocada de forma que las pinzas estén
+en un camino eléctrico desde el neutral del sistema o cable de tierra a la(s) bara(s) de
+toma de tierra dependiendo del circuito.
+Seleccione la escala de corriente “A”. Pince el conductor de tierra y mida la corriente de
+tierra. La escala de corriente máxima es 30A. Si la corriente de tierra excede 5A, las
+medidas de resistencia de tierra no son posibles. No siga adelante con las medidas. En 
+su lugar, quite el probador del circuito, anotando el lugar para mantenimiento, y continúe al
+proximo sitio de prueba.
+Después de anotar la corriente de tierra, seleccione la escala de resistencia de tierra “Ω” y
+mida la resistencia deirectamente. La lectura que usted mida con el 3711/3731 indica la
+resistencia no sólo de la bara, pero también de la conección al neutral del sistema y
+todas las conecciones de enlace entre el neutral y la bara.
+Nota que en la Figura 28 hay una placa inferior y una bara de tierra. En este tipo de
+circuitos, el instrumento debe ser colocado por encima del enlace de manera que las dos
+tomas de tierra son inculidas en la prueba. Para futuras referencias note la fecha, la
+lectura en ohmios, la lectura de corriente y el número de punto. Reemplace cualquier
+montura que haya sacado del conductor. Nota: Una lectura alta indica uno o más de 
+lo siguiente:
+FIGURA 28
+A)
+una bara de tierra pobre
+B)
+un conductor con toma de
+tierra abierta
+C)
+enlaces de alta resistencia en la bara o
+empalmes en el conductor; busque
+enterrados tapas inferiores divididas,
+pinzas y conexiónes martilladas.
+Conductor
+de toma de
+tierra
+Nivel de tierra
+Bara de
+tierra
+
+LAS NOTAS
+www.aemc.com
+19
+Entrada o Medidor de Servicio
+Siga básicamente el mismo procedimiento del primer ejemplo. Nota que la Figura 29
+muestra la posibilidad de varias baras de tierra, y en la Figura 30 las baras de tierra han
+sido reemplazadas con una tubería de agua como toma de tierra. Usted puede también
+tener los dos tipos actuando como toma de tierra. En estos casos, es necesario hacer
+las medidas entre el neutral de servicio y los dos puntos de toma de tierra.
+Caja de
+Servicio
+Medidor de
+Servicio
+Transformador
+montado en un
+poste
+Pared del
+Edificio
+Baras de
+tierra
+Nivel de Tierra
+Tubería de Agua
+Caja de
+Servicio
+Medidor de
+Servicio
+Transformador
+montado en un
+poste
+Pared del
+Edificio
+FIGURA 29
+FIGURA 30
+
+LAS NOTAS
+20
+www.aemc.com
+Transformador Montado en Plataforma
+Nota: Nunca abra el recinto del transformador. Son propiedad de la compañía eléctrica.
+Esta prueba es sólo para expertos en alto voltage.
+Siga todos los requerimientos de seguridad, ya que está presente un voltage
+peligrosamente alto. Localice y numere todas las baras (normalmente sólo una bara
+está presente). Si las baras de tierra están dentro del recinto, reﬁérase a la Figura 31 
+y si están fuera del recinto, reﬁérase a la Figura 31. Si una sóla bara es hallada dentro
+del recinto, la medida debería ser tomada en el conductor justo antes de la unión 
+con la bara de tierra. A menudo, más de un conductor de tierra está atado a esta 
+pinza, haciendo un blucle hacia el recinto o el neutral.
+En muchos casos, la mejor lectura puede ser obtenida al pinzar el 3711/3731 sobre la
+bara de tierra en si, por debajo del punto donde los conductores de tierra están unidos
+a la bara, de manera que usted estará midiendo el circuito de tierra. Se debe tener
+cuidado al buscar un conductor on sólo un camino de retorno al neutral.
+Telecomunicaciones
+El probador de tierra de pinza desarrollado por AEMC y discutido en el capítulo previo
+ha rebolucionado la habilidad de las compañías eléctricas de medir sus valores de
+resistencia de tierra. Este mismo instrumento probado y esta tecnología puede ser
+aplicada a industrias telefónicas para ayudar en la detección de problemas de toma de
+tierra y de enlaces. Ya que el equipamento trabaja en voltages menores, la habilidad
+del sistema de eliminar cualquier sobrepotencial creado por el hombre o natural se
+convierte en mucho más crítica. El probador de caída de potencial tradicional demostró
+requerir mucho trabajo y dejaba mucha interpretación a manos de la persona realizando
+la prueba. Aún más importante, el método de prueba de tierra de pinza permite al
+usuario realizar esta lectura necesaria sin el riesgo de poner fuera de servicio la toma
+de tierra bajo prueba.
+En muchas aplicaciones, la toma de tierra consiste en una unión de los dos Servicios
+juntos para evitar cualquier diferencia de potencial que podría ser peligrosa tanto para el
+equipamento como para el personal. El “Ohmetro” de pinza puede ser usado para probar
+estas uniones importantes.
+Aquí hay algunas de las soluciones y de los procedimientos de pinza que tienen
+aplicaciones para la industria telefónica.
+Baras de tierra
+Recinto
+Servicio bajo tierra
+Neutral
+concéntrico
+Servicio
+Bus
+Puerta
+Abierta
+Puerta
+Abierta
+FIGURA 31
+
+LAS NOTAS
+www.aemc.com
+21
+Recintos y Armarios Telefónicos
+Tener una toma de tierra juega un papel muy importante en el mantenimiento de
+equipos sensitivos en armarios y recintos telefónicos. Para proteger este equipamento,
+un camino de baja resistencia debe ser mantenido para que cualquier potencial de
+sobrevoltage sean conducidos de forma segura a la tierra. Esta prueba de resistencia es
+realizado pinzando un probador de tierra Modelo 3711/3731 alrededor de la bara de
+toma de tierra enterrada, debajo cualquier conección de unión común entre la compañía
+telefónica y la eléctrica.
+Para evitar cualquier potencial de
+voltage alto entre las compañías
+de teléfono y eléctrica, se crea un
+enlace de baja resistencia. La
+integridad del enlace es realizada
+pinzando el cable de cobre Núm. 6
+entre la bara de tierra principal
+(MGB) y el neutral con toma de
+tierra múltiple de la compañía
+eléctrica (MGN). El valor de
+resistencia mostrado en el
+probador también incluirá termiales
+sueltas o mal enterradas que
+pueden haberse degradado
+durante el tiempo.
+Además, el probador de tierra de
+pinza puede ser usado como un
+amperímetro de RMS verdadero.
+Baras de
+tierra
+Recinto
+Servicio bajo tierra
+FIGURA 32
+Placa de panel AC
+Medidor de potencia
+120/240V
+servicio de
+alimentación
+Bara de tierra
+Resistencia de tierra
+Integridad del enlace  
+Cable de tierra
+Conducto o cable del teléfono
+FIGURA 33
+Medidor
+Vatio-hora
+Interruptor de
+transferencia
+Desactivador
+de rayos
+Tierra de la
+compañia
+eléctrica
+Bara de
+tierra
+(longitud 8 pies)
+Amario de
+terminal a
+distancia
+NOTA: Si se usan diferentes baras
+de tierra para las tomas de tierra del
+teléfono y eléctrico, las baras deben
+ser enlazadas usando cable de tierra
+del núm 6
+Tierra de la
+compañia
+telefónica
+FIGURA 34
+
+LAS NOTAS
+22
+www.aemc.com
+Tomas de Tierra de Pedestal
+Todas las cubiertas de cable son unidas a una barra de toma de tierra dentro de cada
+pedestal. Esta barra de toma de tierra está conectada con la tierra a través de una bara
+de tierra enterrada. La resistencia de la bara de tierra puede ser encontrada usando el
+instrumento pinzado sobre la bara de tierra o el cable Núm. 6 conectando estos dos
+puntos. Vea la Figura 35.
+La protección del cable se une con MGN
+La protección del cable en un recinto telefónico enterrado o sobre tierra puede tener
+una toma de tierra a través del neutral de varias tomas de tierra de la compañía
+eléctrica. El probador de tierra de pinza puede ser utilizado para asegurar que esta
+conección ha sido terminada satisfactoriamente. El camino de retorno de baja
+resistencia para que el instrumento haga esta medida será desde este cable de enlace
+bajo prueba al MGN y vuelta a través de otros enlaces corriente hacia arriba o hacia
+abajo (teoría de resistencia paralela).
+El probador de tierra de pinza también es un amímetro de RMS Verdadero.
+Bara de tierra
+Conección de cubierta
+Bara de tierra
+Conección de
+cubierta
+Nivel de tierra
+Nivel de
+tierra
+Bara de tierra
+Bara de tierra
+Pedestal
+Telefónico
+Pedestal
+Telefónico
+1. Elimine la conección
+ 
+de la bara de tierra al
+ 
+pedestal
+2. Extienda el cable de la
+ 
+bara pedestal a la bara
+ 
+de tierra usando un
+ 
+puente temporal
+Nota: el puente temporal sólo
+es requerido si el pedestal no
+permite que quepa el probador.  
+FIGURA 35
+
+www.aemc.com
+23
+www.aemc.com
+23
+Nomograma de Toma de Tierra
+1.
+Seleccione la resistencia requerida en la escala R.
+2.
+Seleccione la resistividad aparente en la escala P.
+3.
+Coloque la regla sobre las escalas R y P, y permita que cruce con la escala K.
+4.
+Marque el punto en la escala K.
+5.
+Coloque la regla sobre el punto de la escala K, y permita que cruce con la escala D.
+6.
+El punto en la escala D sera la profundidad de la bara requerida para la resistencia en la escala R.
+100
+100
+90
+80
+70
+60
+50
+40
+30
+20
+15
+10
+5
+4
+3
+2
+1
+90
+80
+70
+60
+50
+40
+30
+20
+15
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+R
+P
+D
+K
+DIA
+100000
+50000
+40000
+30000
+20000
+15000
+10000
+5000
+4000
+3000
+2000
+1000
+500
+8
+7
+6
+5
+4
+3
+1
+1.5
+1
+3/4
+5/8
+1/2
+1/4
+Diámetro de Barra
+Pulgadas
+Profundidad de Barra
+Pies
+Barra de Toma de Tierra
+Resistencia – Ohmios
+Resistividad de la Tierra
+(Ohmios-centimetros)
+
+24
+www.aemc.com
+Graﬁco de Caida de Potencial
+50
+100
+45
+90
+40
+80
+35
+70
+30
+60
+25
+50
+20
+40
+15
+30
+10
+20
+5
+10
+0
+0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Distancia en pies desde Fundación bajo Prueba hasta el Electrodo de Voltaje
+Escala Mutiple de Distancía:
+x1
+x10
+Condiciones de Prueba
+Temp: ___________
+Tierra:  Húmeda ■Seca ■
+Tipo de Tierra
+Marga
+■
+Arena y Gravilla
+■
+Pizarra
+■
+Arcilla
+■
+Piedra Caliza
+■
+Arenisca
+■
+Granito
+■
+Pizarra Caliza
+■
+Other ________________________
+Mfr. Instrumento _______________
+Nombre de Operario___________________________________________________________________
+Modelo _______________
+Localidad___________________________________ Fecha_______________________________________
+Núm de Serie# _______________
+Tipo de Sistema de Tierra: Una Barra ■
+Profundidad de la Barra __________________ pies
+Varias Barras (Grid) ■
+Dimensión de la rejila en diagonal más larga_____ pies
+Distancia del Electrode Z _______________________________________________________________ pies
+Distancia del
+Electrodo (Y)
+de Voltaje
+desde la
+Tierra bajo
+Prueba (X)
+Medición de
+Resistencia
+Pies
+OHMIOS
+Escala de :
+50
+Resistancia
+100
+Multiplier:
+x1
+x10
+Resistencia (Ω)
+%
+100
+90
+80
+72
+70
+62
+60
+52
+50
+40
+30
+20
+10
+0
