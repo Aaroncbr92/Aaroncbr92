@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 6 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-09, ITC-BT-28 e ITC-BT-44 (y, de paso, su artículo 20 y la ITC-BT-05). Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior, con sus ITC-EA-02, 04, 05 y 06. Real Decreto 486/1997, de 14 de abril, de lugares de trabajo (artículo 8 y anexo IV). Código Técnico de la Edificación (Real Decreto 314/2006): Documento Básico SUA, sección SUA 4, y Documento Básico HE, sección HE 3. Real Decreto 513/2017, Reglamento de instalaciones de protección contra incendios (anexo I, 15, y anexo II, 8). Lo demás, oficio |
-| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 24/09/2026 (ninguno de los preceptos citados ha cambiado desde 2015, salvo la ITC-EA-02, que en 2022 sólo recibió una nota sobre una medida temporal ya agotada, y los del RIPCI, en la redacción en vigor desde el 10/05/2025: su anexo I, apartado 15, y su anexo II, apartado 8, no cambiaron; su artículo 22.2 sí). Los Documentos Básicos SUA y HE, en el texto consolidado de 14 de junio de 2022 publicado por el Ministerio, que avisa de que no tiene valor jurídico |
-| **Extensión** | Unas 12.000 palabras |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-09, ITC-BT-28 e ITC-BT-44 (y, de paso, su artículo 20 y las ITC-BT-01, 05 y 30). Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior, con sus ITC-EA-02, 04, 05 y 06. Real Decreto 486/1997, de 14 de abril, de lugares de trabajo (artículo 8 y anexo IV). Código Técnico de la Edificación (Real Decreto 314/2006): Documento Básico SUA, sección SUA 4, y Documento Básico HE, sección HE 3. Real Decreto 513/2017, Reglamento de instalaciones de protección contra incendios (anexo I, 15, y anexo II, 8). Reglamento (UE) 2019/2020, de diseño ecológico de las fuentes luminosas (definiciones). Guía técnica de eficiencia energética en iluminación de oficinas del IDAE (2019) y documentación de un fabricante de alumbrado de emergencia, como fuentes técnicas. Lo demás, oficio |
+| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 24/09/2026 (ninguno de los preceptos citados ha cambiado desde 2015, salvo la ITC-EA-02, que en 2022 sólo recibió una nota sobre una medida temporal ya agotada, y los del RIPCI, en la redacción en vigor desde el 10/05/2025: su anexo I, apartado 15, y su anexo II, apartado 8, no cambiaron; su artículo 22.2 sí). El Reglamento (UE) 2019/2020, con la corrección de errores de 2020 y la modificación del Reglamento (UE) 2021/341, que no toca las definiciones que se citan. Los Documentos Básicos SUA y HE, en el texto consolidado de 14 de junio de 2022 publicado por el Ministerio, que avisa de que no tiene valor jurídico |
+| **Extensión** | Unas 15.000 palabras |
 
 <!-- /portada -->
 
@@ -26,12 +26,13 @@ exterior), y los factores que lo componen en exterior: depreciación del flujo l
 depreciación de las superficies del recinto (**FDSR**); índice de deslumbramiento unificado (**UGR**, *unified glare rating*); índice de
 rendimiento de color (**Ra**); Comisión Internacional de Alumbrado (**CIE**); grado de protección
 de una envolvente frente a sólidos y agua (**IP**) y frente a impactos mecánicos (**IK**); diodo
-emisor de luz (**LED**); Asociación Española de Normalización (**UNE**) y norma europea (**EN**);
+emisor de luz (**LED**) y diodo emisor de luz orgánico (**OLED**); descarga de alta intensidad (**HID**); temperatura de
+color correlacionada (**CCT**, o **Tc** en la guía del IDAE); Instituto para la Diversificación y Ahorro de la Energía (**IDAE**); Asociación Española de Normalización (**UNE**) y norma europea (**EN**);
 sistema de alimentación ininterrumpida (**SAI**). Unidades: lux, candela por metro
 cuadrado (**cd/m²**), lumen por vatio (**lm/W**, que el reglamento de alumbrado exterior escribe
 «lum/W»), vatio (**W**), kilovatio (**kW**), voltiamperio (**VA**), voltio (**V**), kilovoltio (**kV**),
 amperio (**A**), miliamperio (**mA**), hercio (**Hz**), newton por milímetro cuadrado (**N/mm²**),
-candela por kilolumen (**cd/klm**).
+candela por kilolumen (**cd/klm**), lumen (**lm**), candela (**cd**), kelvin (**K**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.27, punto 6):
@@ -53,7 +54,10 @@ alumbrado de emergencia, sus iluminancias, uniformidades y autonomías, el umbra
 tiempos de 5 y 60 segundos, la categoría de conmutación, dónde es obligatorio y cómo se alimenta
 (autónomo o fuente central, 10 A y 12 puntos por línea); el factor de mantenimiento y su fórmula, el
 plan de mantenimiento, el registro y cuánto se guarda, quién hace las mediciones, y las
-verificaciones e inspecciones cada cinco años. En la prueba práctica: calcular un VEEI o la carga
+verificaciones e inspecciones cada cinco años. Y, de las luminarias en sí: las magnitudes y sus unidades (lumen,
+candela, lux, cd/m², lm/W), la temperatura de color y el rendimiento de color, qué lámparas son de
+descarga, para qué sirven el balasto, el cebador y el *driver*, y qué distingue las clases 0, I, II y
+III. En la prueba práctica: calcular un VEEI o la carga
 de un circuito de alumbrado, decidir el alumbrado de seguridad de una sala por su ocupación, repartir
 puntos de emergencia en líneas, o fijar la iluminancia inicial de un proyecto a partir del factor de
 mantenimiento.
@@ -74,6 +78,7 @@ mantenimiento.
   - [2.2 Las luminarias del alumbrado exterior](#22-las-luminarias-del-alumbrado-exterior)
   - [2.3 Las luminarias de emergencia](#23-las-luminarias-de-emergencia)
   - [2.4 Las luminarias de diodos (LED)](#24-las-luminarias-de-diodos-led)
+  - [2.5 Magnitudes, fuentes de luz y clases de protección](#25-magnitudes-fuentes-de-luz-y-clases-de-protección)
 - [3. Eficiencia energética](#3-eficiencia-energética)
   - [3.1 El alumbrado interior: la sección HE 3 del Código Técnico](#31-el-alumbrado-interior-la-sección-he-3-del-código-técnico)
   - [3.2 Un VEEI resuelto](#32-un-veei-resuelto)
@@ -187,25 +192,25 @@ comprobar que se alcanza.
 
 El mismo anexo IV fija cómo tiene que estar repartida la luz, no sólo cuánta hay:
 
-> «4. La iluminación de los lugares de trabajo deberá cumplir, además, en cuanto a su distribución y
-> otras características, las siguientes condiciones:
+> «**4. La iluminación de los lugares de trabajo deberá cumplir, además, en cuanto a su distribución y
+> otras características, las siguientes condiciones:**
 >
-> a) La distribución de los niveles de iluminación será lo más uniforme posible.
+> **a) La distribución de los niveles de iluminación será lo más uniforme posible.**
 >
-> b) Se procurará mantener unos niveles y contrastes de luminancia adecuados a las exigencias
+> **b) Se procurará mantener unos niveles y contrastes de luminancia adecuados a las exigencias
 > visuales de la tarea, evitando variaciones bruscas de luminancia dentro de la zona de operación y
-> entre ésta y sus alrededores.
+> entre ésta y sus alrededores.**
 >
-> c) Se evitarán los deslumbramientos directos producidos por la luz solar o por fuentes de luz
+> **c) Se evitarán los deslumbramientos directos producidos por la luz solar o por fuentes de luz
 > artificial de alta luminancia. En ningún caso éstas se colocarán sin protección en el campo visual
-> del trabajador.
+> del trabajador.**
 >
-> d) Se evitarán, asimismo, los deslumbramientos indirectos producidos por superficies reflectantes
-> situadas en la zona de operación o sus proximidades.
+> **d) Se evitarán, asimismo, los deslumbramientos indirectos producidos por superficies reflectantes
+> situadas en la zona de operación o sus proximidades.**
 >
-> e) No se utilizarán sistemas o fuentes de luz que perjudiquen la percepción de los contrastes, de
+> **e) No se utilizarán sistemas o fuentes de luz que perjudiquen la percepción de los contrastes, de
 > la profundidad o de la distancia entre objetos en la zona de trabajo, que produzcan una impresión
-> visual de intermitencia o que puedan dar lugar a efectos estroboscópicos.»
+> visual de intermitencia o que puedan dar lugar a efectos estroboscópicos.**»
 >
 > — Real Decreto 486/1997, anexo IV, apartado 4
 
@@ -295,7 +300,7 @@ muy distintas, y conviene saber qué norma alcanza a cada una:
 |---|---|
 | Oficinas, redacciones, salas de control | Anexo IV del Real Decreto 486/1997 (y, para pantallas, su propia norma, que es materia de prevención); VEEI de uso administrativo |
 | Salas técnicas, salas de equipos, almacenes | Anexo IV; VEEI de «salas técnicas» |
-| Pasillos, escaleras, vestíbulos | DB SUA 4 (100 lux en el suelo); VEEI de zonas comunes; control por presencia o temporizado admitido |
+| Pasillos, escaleras, vestíbulos | DB SUA 4 (100 lux en el suelo); VEEI de una de las dos filas de zonas comunes de la tabla del DB HE 3 (epígrafe 3.1); control por presencia o temporizado admitido |
 | Platós y auditorios con público | ITC-BT-28 en lo que les alcance; balizamiento del DB SUA 4; la iluminación escénica no tiene fila en el DB HE 3 (epígrafe 3.1) |
 | Aparcamiento cubierto | DB SUA 4 (50 lux); VEEI y potencia máxima propias; alumbrado de emergencia si pasa de 100 m² (DB SUA) o de 5 vehículos (ITC-BT-28) |
 | Perímetro, viales y aparcamiento al aire libre | ITC-BT-09 y Real Decreto 1890/2008 |
@@ -305,6 +310,9 @@ escénico y no forma parte del alumbrado del edificio; su alimentación, su ries
 cableado son materia de los temas de instalaciones audiovisuales y de prevención.
 
 ## 2. Luminarias
+
+Los cuatro primeros epígrafes dicen qué exigen las normas a cada luminaria; el 2.5 explica las
+magnitudes, las fuentes de luz y las clases de protección con las que esas normas trabajan.
 
 ### 2.1 Las luminarias del alumbrado interior: la ITC-BT-44
 
@@ -399,9 +407,11 @@ seguridad de las señales»** (2.3.3.e).
 
 ### 2.4 Las luminarias de diodos (LED)
 
-Ninguna de las normas leídas para este tema regula la luminaria de diodos por su nombre: la ITC-BT-44
-y la ITC-BT-28 son de 2002, y el reglamento de alumbrado exterior, de 2008, habla de lámparas,
-balastos y equipos auxiliares. Lo que sí se aplica a un LED sin forzar el texto: la conformidad con
+Ninguna de las normas de instalación leídas para este tema regula la luminaria de diodos por su
+nombre: la ITC-BT-44 y la ITC-BT-28 son de 2002, y el reglamento de alumbrado exterior, de 2008, habla
+de lámparas, balastos y equipos auxiliares. El Reglamento (UE) 2019/2020 sí define el LED como
+tecnología de fuente luminosa (epígrafe 2.5), pero es norma de producto: obliga a quien pone la fuente
+en el mercado, no a quien la instala. Lo que sí se aplica a un LED sin forzar el texto: la conformidad con
 la serie UNE-EN 60598 (es una luminaria), la puesta a tierra según su clase, el dimensionado del
 circuito con **«sus corrientes armónicas y de arranque»** y la prohibición de las fuentes que
 produzcan **«una impresión visual de intermitencia»** o **«efectos estroboscópicos»** (anexo IV del
@@ -415,6 +425,124 @@ de luminarias por circuito que da el fabricante) y, si el rizado de su salida no
 produce parpadeo. En un edificio de televisión ese parpadeo se ve además en cámara; por eso la
 reposición se hace con el modelo que indique el fabricante o el proyecto, no con «uno equivalente».
 
+### 2.5 Magnitudes, fuentes de luz y clases de protección
+
+Las normas de los epígrafes anteriores hablan de lúmenes, lux, candelas, Ra, lámparas de descarga y
+luminarias de clase I o II sin explicarlos. Aquí se explican, con su fuente: las definiciones del
+artículo 3 del Real Decreto 1890/2008 y del anejo A del DB HE; las del Reglamento (UE) 2019/2020 de
+la Comisión, de 1 de octubre de 2019, de diseño ecológico de las fuentes luminosas (norma de producto,
+que obliga a quien las pone en el mercado); las de la ITC-BT-01 del REBT, y, para lo que ninguna norma
+dice (tonos de luz, eficacias y equipos de cada lámpara), la *Guía técnica de eficiencia energética en
+iluminación. Oficinas* del Instituto para la Diversificación y Ahorro de la Energía (**IDAE**), de junio
+de 2019, que es una guía, no una norma, y cuyas cifras son orientativas y de esa fecha.
+
+*Las magnitudes.* Las definiciones del Real Decreto 1890/2008 (artículo 3) son **«A los efectos de
+este reglamento»**, el de alumbrado exterior, pero las magnitudes son las mismas en el interior: el DB
+HE define la iluminancia del mismo modo, con el lux como unidad.
+
+| Magnitud | Qué es | Unidad | Fuente |
+|---|---|---|---|
+| Flujo luminoso (Φ) | **«Potencia emitida por una fuente luminosa en forma de radiación visible y evaluada según su capacidad de producir sensación luminosa, teniendo en cuenta la variación de la sensibilidad del ojo con la longitud de onda»** | **«el lumen (lm)»** | RD 1890/2008, art. 3.3 |
+| Intensidad luminosa (I) | **«Es el flujo luminoso por unidad de ángulo sólido. Esta magnitud tiene característica direccional»** | **«la candela»**: lumen por estereorradián | RD 1890/2008, art. 3.10 |
+| Iluminancia (E) (el RD 1890/2008 define la **«Iluminancia horizontal en un punto de una superficie»**) | **«Cociente entre el flujo luminoso incidente sobre un elemento de la superficie que contiene el punto y el área de ese elemento»** | **«el lux (lm/m2)»** | RD 1890/2008, art. 3.5; DB HE, anejo A |
+| Luminancia (L) | **«Es la intensidad luminosa por unidad de superficie reflejada por la misma superficie en la dirección del ojo del observador»** | **«la candela entre metro cuadrado (cd/m2)»** | RD 1890/2008, art. 3.13 |
+| Eficacia luminosa de una lámpara | **«es la relación entre el flujo luminoso emitido por la lámpara y la potencia consumida por esta»** | **«lm/W (lúmenes/vatio)»** | RD 1890/2008, art. 3.2; el DB HE, anejo A, la define como **«cociente entre el flujo luminoso emitido y la potencia eléctrica de la fuente»** |
+| Rendimiento de una luminaria (η) | **«Es la relación entre el flujo luminoso total procedente de la luminaria y el flujo luminoso emitido por la lámpara o lámparas instaladas en la luminaria»** | **«carece de unidades»** | RD 1890/2008, art. 3.17 |
+| Temperatura de color correlacionada (CCT) | **«temperatura de un radiador planckiano (cuerpo negro) cuyo color percibido es el que más se aproxima al de un estímulo determinado con el mismo brillo y en condiciones de observación específicas»** | kelvin (K) | Reglamento (UE) 2019/2020, anexo I |
+| Índice de rendimiento de color (Ra) | **«efecto de un iluminante sobre el aspecto cromático de los objetos que ilumina por comparación con su aspecto bajo un iluminante de referencia»**; el reglamento europeo precisa que es **«el Ra medio del rendimiento de color correspondiente a los primeros ocho colores de ensayo (R1-R8)»** | sin unidad | DB HE, anejo A; Reglamento (UE) 2019/2020, art. 2.11 |
+
+Cómo se encadenan, en una lectura que es de oficio: la lámpara emite lúmenes (flujo); la luminaria
+los reparte, y pierde parte (rendimiento); en cada dirección hay una intensidad (candelas); lo que
+llega a una superficie es iluminancia (lux, lúmenes por metro cuadrado), que es lo que se mide con el
+luxómetro y lo que fijan el anexo IV del Real Decreto 486/1997 y el DB SUA; y lo que el ojo ve de esa
+superficie, o de la propia luminaria, es luminancia (cd/m²), la magnitud del deslumbramiento y de las
+señales del DB SUA 4. Ejemplo, con datos supuestos: 1.000 lm repartidos por igual sobre 10 m² dan
+1.000 / 10 = 100 lux. No hay que confundir tres cocientes: la eficacia (lm/W) es de la lámpara; el
+rendimiento (sin unidad) es de la luminaria; el VEEI (W/m² por cada 100 lux, epígrafe 3.1) es de la
+instalación.
+
+*El color de la luz.* La guía del IDAE lo explica así: **«Cuanto más baja sea la temperatura de
+color, más «cálida» será la luz, y cuanto más alta sea, más azulada o «fría» será la luz que nos
+proporciona esa fuente.»** Y la agrupa en tres tonos (tabla 4 de la guía): **«Tonos cálidos < 3.300
+K»**, **«Tonos neutros 3.300 – 5.300 K»** y **«Tonos fríos > 5.300 K»**. La misma guía, en su capítulo
+6, pone el límite entre blanco neutro y blanco frío en 5.000 K (**«Blanco neutro (3300K<Tc<5.000
+K)»**): el corte de arriba no es fijo, pero el de la luz cálida, por debajo de 3.300 K, se repite. Una
+fuente de 2.700 K da luz cálida; una de 6.000 K, fría. Temperatura de color y rendimiento de color
+son cosas distintas: la primera dice de qué color se ve la luz; el Ra, lo fielmente que deja ver los
+colores de lo iluminado. La guía valora el Ra así: **«Ra < 60, pobre»**, **«60 < Ra < 80, bueno»**,
+**«80 < Ra < 90, muy bueno»** y **«90 < Ra <100, excelente»**; el mínimo legal de las luminarias de
+emergencia es 40 (epígrafe 2.3). En fluorescentes y lámparas de descarga, las dos cifras van en un
+código de tres dígitos tras la potencia: **«840 significa un Ra superior a 80 y una Tc de 4.000 K y
+930 significa un Ra superior a 90 y una Tc de 3.000 K»**.
+
+*Las fuentes de luz.* El Reglamento (UE) 2019/2020 (artículo 2.1) enumera las tecnologías: **«la
+incandescencia, la fluorescencia, la descarga de alta intensidad, los diodos emisores de luz
+inorgánicos (LED) o los diodos emisores de luz orgánicos (OLED)»**. Sus definiciones, con los datos
+orientativos de la guía del IDAE:
+
+| Familia | Qué es (Reglamento (UE) 2019/2020) | Datos orientativos (guía del IDAE, 2019) |
+|---|---|---|
+| Incandescente | **«fenómeno en virtud del cual se genera luz a partir del calor, producido por lo general en las fuentes luminosas mediante un conductor filiforme («filamento») que se calienta por el paso de una corriente eléctrica»** (art. 2.12) | Estándar: Tc de **«2.700 y los 2.800 K»**, **«Ra = 100»**, eficacia de **«14 lm/W aproximadamente»**; ha dejado de fabricarse por las normas de diseño ecológico |
+| Halógena | **«fuente luminosa incandescente con un conductor filiforme de volframio rodeado de un gas que contiene halógenos o compuestos halogenados»** (art. 2.13) | Filamento a **«unos 3.000 K»**, algo más eficaz y duradera que la estándar; las hay a 230 V y con transformador de 12/24 V |
+| Fluorescente | **«fenómeno o fuente luminosa que utiliza una descarga de gas eléctrica, del tipo de mercurio a baja presión, en la que la mayor parte de la luz es emitida por una o varias capas de fósforos activadas por la radiación ultravioleta de la descarga»** (art. 2.14) | Tubos T8 (26 mm) y T5 (16 mm), no intercambiables; las compactas integradas llevan el equipo en el casquillo (E14 o E27) |
+| Descarga de alta intensidad (HID) | **«Las fuentes luminosas de descarga de alta intensidad se limitan a las de halogenuros metálicos, sodio a alta presión y vapor de mercurio»** (art. 2.15) | Sodio a alta presión: **«entre los 68 y los 150 lm/W»**, Tc de **«unos 2.000 K»**, **«Ra=25»**, de 5 a 10 minutos hasta el régimen nominal. Vapor de mercurio: **«entre los 36 y los 59 lm/W»**. Halogenuros metálicos: mejor reproducción del color |
+| LED | **«tecnología con la cual se produce luz a partir de un dispositivo en estado sólido que incorpora una unión p-n de material inorgánico»** (art. 2.17) | **«100 o 120 lm/W cuando varios LED trabajan en forma conjunta en una luminaria»** (a 2019); **«No puede conectarse directamente a tensión de red»**: necesita **«una fuente de alimentación, denominada comúnmente «driver»»** |
+
+Las de sodio a alta presión son **«fuente luminosa de descarga de alta intensidad en la que la luz se
+produce principalmente por la radiación del vapor de sodio»** (artículo 2.19), y las de halogenuros
+metálicos aquellas en que la luz **«se produce por la radiación de una mezcla de vapor metálico,
+halogenuros metálicos y productos de la disociación de halogenuros metálicos»** (anexo I). La guía del
+IDAE describe además la de sodio a baja presión, de luz **«amarilla anaranjada»** y eficacia de
+**«entre los 100 y los 198 lm/W»**, útil sólo donde no importa reconocer los colores.
+
+Lo que esto da al electricista, en lectura propia: las **«lámparas de descarga»** de la ITC-BT-44 y
+las **«lámparas o tubos de descarga»** de la ITC-BT-09 (coeficiente de 1,8, compensación a 0,9, efecto
+estroboscópico; epígrafes 1.5 y 2.1) son
+las fluorescentes y las de alta intensidad (sodio, mercurio, halogenuros), porque todas producen la
+luz por una descarga en gas; no lo son las incandescentes ni los LED. Y la lámpara de vapor de
+mercurio, con eficacias por debajo de los 65 lm/W que la ITC-EA-04 exige al alumbrado vial,
+específico y ornamental (epígrafe 2.2), no cabe en esos alumbrados exteriores.
+
+*El equipo auxiliar.* El DB HE (anejo A) lo define: **«equipos eléctricos o electrónicos asociados a
+la lámpara, diferentes para cada tipo de lámpara, cuya función es el encendido y control de las
+condiciones de funcionamiento. Estos equipos auxiliares, salvo cuando son electrónicos, están formados
+por combinación de arrancador/cebador, balasto y condensador.»** Para qué sirve cada pieza, según la
+guía del IDAE: las lámparas de descarga ofrecen **«una impedancia al paso de la corriente eléctrica,
+que disminuye a medida que esta aumenta, motivo por el que no pueden ser conectadas directamente a la
+red de alimentación sin un dispositivo, denominado balasto o reactancia»**; el arrancador
+**«proporciona en el momento del encendido, bien por sí mismo o en combinación con el balasto, la
+tensión requerida para el cebado de la lámpara»**, y **«En el caso de las lámparas fluorescentes este
+dispositivo (arrancador) se denomina cebador»**; el balasto electromagnético trabaja con un **«factor de
+potencia en torno a 0,5»**, que corrige el condensador. Ese condensador es el que la ITC-BT-44 obliga a
+descargar por una resistencia (epígrafe 2.1); y ese factor de potencia bajo explica, en lectura propia
+(la ITC-BT-44 no da la razón), la compensación obligatoria a 0,9. El equipo electrónico integra **«en un solo conjunto los sistemas de
+encendido, estabilización y compensación»**.
+
+*Las clases de protección.* La ITC-BT-01 del REBT (terminología) define cuatro clases de material
+según cómo protege contra el choque eléctrico:
+
+| Clase | Definición (ITC-BT-01) |
+|---|---|
+| 0 | **«Material en el cual la protección contra el choque eléctrico, se basa en el aislamiento principal; lo que implica que no existe ninguna disposición prevista para la conexión de las partes activas accesibles, si las hay, a un conductor de protección que forme parte del cableado fijo de la instalación. La protección en caso de defecto en el aislamiento principal depende del entorno.»** |
+| I | **«Material en el cual la protección contra el choque eléctrico no se basa únicamente en el aislamiento principal, sino que comporta una medida de seguridad complementaria en forma de medios de conexión de las partes conductoras accesibles a un conductor de protección puesto a tierra, que forma parte del cableado fijo de la instalación, de forma tal que las partes conductoras accesibles no puedan presentar tensiones peligrosas.»** |
+| II | **«Material en el cual la protección contra el choque eléctrico no se basa únicamente en el aislamiento principal, sino que comporta medidas de seguridad complementarias, tales como el doble aislamiento o aislamiento reforzado. Estas medidas no suponen la utilización de puesta a tierra para la protección y no dependen de las condiciones de la instalación.»** **«Este material debe estar alimentado por cables con doble aislamiento o con aislamiento reforzado.»** |
+| III | **«Material en el cual la protección contra el choque eléctrico no se basa en la alimentación a muy baja tensión y en el cual no se producen tensiones superiores a 50 V en c.a. ó a 75V en c.c.»** |
+
+Dos precisiones. El doble aislamiento es, según la misma ITC, el **«Aislamiento que comprende, a la
+vez, un aislamiento principal y un aislamiento suplementario»**. Y la definición de la clase III dice
+«no se basa» tal como está publicada en el BOE (redacción única, vigente): la negación no casa con la
+segunda mitad de la frase ni con la idea de la clase, que es trabajar a muy baja tensión; lo que se
+puede afirmar con el texto es el límite de tensión, 50 V en alterna y 75 V en continua.
+
+Lo que el REBT hace con las clases en el alumbrado: las luminarias que no sean de clase II o III
+llevan un elemento de conexión a tierra y se unen al conductor de protección (ITC-BT-44; epígrafe
+2.1); las de alumbrado exterior **«serán de Clase I o de Clase II»** (ITC-BT-09; epígrafe 1.5); en
+los locales húmedos, los receptores de alumbrado **«no serán de clase 0»** y **«Los aparatos de
+alumbrado portátiles serán de la Clase II»** (ITC-BT-30, 1.3). Por eso las partes metálicas
+accesibles de un aparato de clase II no son «masas» que haya que poner a tierra: la ITC-BT-01 dice
+que son masas **«las partes metálicas accesibles de los materiales eléctricos, excepto los de Clase
+II»**.
+
 ## 3. Eficiencia energética
 
 ### 3.1 El alumbrado interior: la sección HE 3 del Código Técnico
@@ -425,9 +553,12 @@ parte de la instalación»**, **«cambio de uso característico del edificio»**
 en una zona del edificio»**. Exclusiones (1.2), entre otras: **«las instalaciones de alumbrado de
 emergencia»** y **«edificios industriales, de la defensa y agrícolas, o parte de los mismos, en la
 parte destinada a talleres y procesos industriales, de la defensa y agrícolas no residenciales»**. En
-intervenciones (1.3), se aplica a todo el edificio cuando, con superficie útil final **«superior a
-1000 m2»**, **«se renueve más del 25% de la superficie iluminada»**; si sólo se renueva una parte, se
-adecúa esa parte.
+intervenciones (1.3), se aplica a todo el edificio en dos casos: cuando, con superficie útil final
+**«superior a 1000 m2»**, **«se renueve más del 25% de la superficie iluminada»**, y en los **«cambios
+de uso característico»** (letra a). Si sólo se renueva o amplía una parte, se adecúa esa parte (letra
+b); si la renovación afecta a zonas en las que son obligatorios los sistemas de control o regulación,
+**«se dispondrá de estos sistemas»** (letra c); y un cambio de actividad en una zona que lleve a un VEEI
+límite más bajo que el de la actividad inicial obliga a adecuar la instalación de esa zona (letra d).
 
 La exigencia (apartado 2): **«Los edificios dispondrán de instalaciones de iluminación adecuadas a
 las necesidades de sus usuarios y a la vez eficaces energéticamente disponiendo de un sistema de
@@ -455,6 +586,13 @@ televisión:
 | **Zonas comunes en edificios no residenciales** | **6,0** |
 | **Salones de actos, auditorios y salas de usos múltiples y convenciones, salas de ocio o espectáculo, salas de reuniones y salas de conferencias** | **8,0** |
 | **Locales con nivel de iluminación superior a 600lux** | **2,5** |
+
+La tabla trae dos filas de zonas comunes: **«Zonas comunes»**, con 4,0, cuya nota (4) las describe
+como **«Espacios utilizados por cualquier persona o usuario, como recibidor, vestíbulos, pasillos,
+escaleras, espacios de tránsito de personas, aseos públicos, etc.»**, y **«Zonas comunes en edificios
+no residenciales»**, con 6,0, sin nota. El DB no escribe cuál prevalece para un pasillo de un edificio
+de oficinas o de producción, que es a la vez zona común y zona común de un edificio no residencial. El
+tema no resuelve lo que la tabla deja abierto.
 
 Dos notas de la tabla interesan a una casa que emite. La (9): **«En el caso de cines, teatros, salas
 de conciertos, etc. se excluye la iluminación con fines de espectáculo, incluyendo la representación
@@ -931,8 +1069,14 @@ Reglamento Electrotécnico para Baja Tensión, aprobado por Real Decreto 842/200
 exige que los equipos se dispongan **«de forma que se facilite su verificación periódica, ensayos y
 mantenimiento»** (ITC-BT-28, 2.1), el mantenimiento general del artículo 20 y las inspecciones del
 epígrafe siguiente. Las rutinas habituales (prueba funcional de paso a emergencia, prueba de
-autonomía completa, comprobación del indicador de carga) son práctica de oficio y de fabricante; su
-periodicidad la fija una norma técnica que no se ha leído para este tema.
+autonomía completa, comprobación del indicador de carga) son práctica de oficio y de fabricante. Un
+fabricante de luminarias de emergencia, en documentación técnica publicada en 2021, atribuye a las
+normas UNE-EN 50172 (todos los sistemas) y UNE-EN 62034 (sistemas de ensayo automático) esta
+periodicidad: **«Test funcional: Al menos, una vez al mes»** y **«Test de autonomía: Al menos, una vez
+al año»**, con un libro de registro en el que conste, entre otras cosas, la **«Fecha de cada una de las
+inspecciones periódicas y ensayos»** y la **«Fecha y breve descripción de los defectos y acciones
+correctoras realizadas»**. Esas dos normas UNE no se han leído: la periodicidad es la que el fabricante
+dice que fijan, no un precepto del REBT ni de ninguna otra norma del BOE.
 
 ### 5.3 Verificaciones e inspecciones
 
@@ -1001,14 +1145,16 @@ la producción (tema 17).
 
 | Norma | Qué se toma | Redacción |
 |---|---|---|
-| Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (BOE núm. 224, de 18/09/2002) | Artículo 20; ITC-BT-05, apartados 4.1 y 4.2; ITC-BT-09, apartados 1, 3 a 10; ITC-BT-28, apartados 1 a 5; ITC-BT-44, apartados 1 a 4 | Vigente el 24/09/2026: ITC-BT-09, 28 y 44 en su redacción única (en vigor desde el 18/09/2003); artículo 20, desde el 23/05/2010; ITC-BT-05, desde el 30/06/2015 |
-| Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior y sus ITC-EA-01 a EA-07 (BOE núm. 279, de 19/11/2008) | Artículos 1, 2, 4, 5 y 12; ITC-EA-02, apartados 1, 3.9, 3.10, 5 y 9; ITC-EA-04, apartados 1, 2, 3.1, 5 y 6; ITC-EA-05, apartado 2; ITC-EA-06, apartados 1 a 3 | Vigente el 24/09/2026: redacción única (en vigor desde el 01/04/2009), salvo la ITC-EA-02, con una nota añadida en vigor desde el 10/08/2022 sobre una medida temporal ya agotada |
+| Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (BOE núm. 224, de 18/09/2002) | Artículo 20; ITC-BT-01 (clases de material, doble aislamiento, masas); ITC-BT-05, apartados 4.1 y 4.2; ITC-BT-09, apartados 1, 3 a 10; ITC-BT-28, apartados 1 a 5; ITC-BT-30, apartado 1.3; ITC-BT-44, apartados 1 a 4 | Vigente el 24/09/2026: ITC-BT-01, 09, 28, 30 y 44 en su redacción única (en vigor desde el 18/09/2003); artículo 20, desde el 23/05/2010; ITC-BT-05, desde el 30/06/2015 |
+| Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior y sus ITC-EA-01 a EA-07 (BOE núm. 279, de 19/11/2008) | Artículos 1 a 5 y 12; ITC-EA-02, apartados 1, 3.9, 3.10, 5 y 9; ITC-EA-04, apartados 1, 2, 3.1, 5 y 6; ITC-EA-05, apartado 2; ITC-EA-06, apartados 1 a 3 | Vigente el 24/09/2026: redacción única (en vigor desde el 01/04/2009), salvo la ITC-EA-02, con una nota añadida en vigor desde el 10/08/2022 sobre una medida temporal ya agotada |
 | Real Decreto 486/1997, de 14 de abril, disposiciones mínimas de seguridad y salud en los lugares de trabajo (BOE núm. 97, de 23/04/1997) | Artículo 8 y anexo IV | Vigente el 24/09/2026: redacción única (en vigor desde el 23/07/1997) |
 | Real Decreto 314/2006, de 17 de marzo, Código Técnico de la Edificación | Artículo 2 (ámbito); disposición derogatoria única, 1.g (NBE-CPI-96); DB SUA, sección SUA 4; DB HE, sección HE 3 y anejo A (definiciones) | Artículo 2, en la redacción vigente desde el 28/06/2013. Los DB, en el texto consolidado de 14 de junio de 2022 (incorpora el Real Decreto 450/2022), que el Ministerio publica advirtiendo que no tiene valor jurídico |
 | Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios | Anexo I, sección 1.ª, apartado 15; anexo II, apartado 8; artículo 22.2 | Vigente el 24/09/2026: redacción en vigor desde el 10/05/2025 (el apartado 15 y el apartado 8 no cambiaron; el artículo 22.2 sí, y la exención del alumbrado de emergencia es de esa redacción) |
+| Reglamento (UE) 2019/2020 de la Comisión, de 1 de octubre de 2019, requisitos de diseño ecológico para las fuentes luminosas y los mecanismos de control independientes (DOUE L 315, de 05/12/2019) | Artículo 1 (objeto); artículo 2, apartados 1, 11 a 15, 17 y 19 (definiciones), y anexo I (temperatura de color correlacionada, halogenuros metálicos) | Aplicable desde el 01/09/2021. Corrección de errores en DOUE L 50, de 24/02/2020 (sólo el artículo 2.1.a y un cuadro del anexo II); modificado por el Reglamento (UE) 2021/341, que en el artículo 2 sólo sustituye el punto 4 y en el anexo I sólo el punto 52: las definiciones citadas siguen en su texto original |
 
 Las normas UNE y EN que el tema nombra (serie UNE-EN 60598, UNE-EN 60598-2-22, UNE 20.392, UNE 20.062,
-UNE-EN 50.200, serie UNE-EN 13201, EN 12464-2:2007) se citan porque las nombran las normas de arriba;
+UNE-EN 50.200, serie UNE-EN 13201, EN 12464-2:2007) se citan porque las nombran las normas de arriba,
+y las UNE-EN 50172 y UNE-EN 62034 porque las nombra el fabricante citado en el epígrafe 5.2;
 su texto no se ha leído.
 
 ## Lo que este tema no da, y dónde está
@@ -1019,9 +1165,12 @@ su texto no se ha leído.
   tabla de luminarias de la ITC-EA-04 y los factores de depreciación y supervivencia de la ITC-EA-06
   (tablas 1 a 4): no se reproducen; están en el Real Decreto 1890/2008. La eficiencia mínima del
   alumbrado vial y la etiqueta (ITC-EA-01) y la contaminación luminosa (ITC-EA-03), tampoco.
-- La periodicidad de las pruebas del alumbrado de emergencia y de la sustitución de sus baterías: no
-  la fija ninguna de las normas leídas; está en normas técnicas y en la documentación del fabricante,
-  no consultadas.
+- La periodicidad de las pruebas del alumbrado de emergencia: no la fija ninguna de las normas leídas;
+  el tema da (epígrafe 5.2) la que un fabricante atribuye a las normas UNE-EN 50172 y UNE-EN 62034,
+  que no se han leído. La de la sustitución de sus baterías no se ha encontrado en fuente publicada.
+- Los tiempos de vida, eficacias y temperaturas de color de las lámparas (epígrafe 2.5) son los
+  orientativos de la guía del IDAE de 2019; los de cada producto los da su fabricante. La norma de
+  producto de las luminarias (serie UNE-EN 60598), no se ha leído.
 - Las densidades de ocupación del DB SI con las que el CTE cuenta la ocupación, y la clasificación de
   los locales de riesgo especial (DB SI 1): tema 11.
 - Los requisitos del ecodiseño y del etiquetado energético de las fuentes de luz, el LED como medida
@@ -1039,13 +1188,16 @@ su texto no se ha leído.
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 842/2002 (BOE-A-2002-18099), BOE consolidado: ITC-BT-09, ITC-BT-28 e ITC-BT-44 (redacción única), artículo 20 (redacción de 2010) e ITC-BT-05 (redacción de 2014, vigente desde el 30/06/2015) | Epígrafes 1.5, 2.1-2.3, 4.1-4.5, 5.2-5.4 | 05/10/2026 |
-| Real Decreto 1890/2008 (BOE-A-2008-18634), BOE consolidado: artículos 1, 2, 4, 5 y 12; ITC-EA-02 (dos redacciones; la vigente desde el 10/08/2022), ITC-EA-04, 05 y 06 | Epígrafes 2.2, 3.3, 3.4, 5.1-5.4 | 05/10/2026 |
+| Real Decreto 842/2002 (BOE-A-2002-18099), BOE consolidado: ITC-BT-01, ITC-BT-09, ITC-BT-28, ITC-BT-30 e ITC-BT-44 (redacción única), artículo 20 (redacción de 2010) e ITC-BT-05 (redacción de 2014, vigente desde el 30/06/2015) | Epígrafes 1.5, 2.1-2.3, 2.5, 4.1-4.5, 5.2-5.4 | 05/10/2026 |
+| Real Decreto 1890/2008 (BOE-A-2008-18634), BOE consolidado: artículos 1 a 5 y 12; ITC-EA-02 (dos redacciones; la vigente desde el 10/08/2022), ITC-EA-04, 05 y 06 | Epígrafes 2.2, 2.5, 3.3, 3.4, 5.1-5.4 | 05/10/2026 |
 | Real Decreto 486/1997 (BOE-A-1997-8669), BOE consolidado: artículo 8 y anexo IV | Epígrafes 1.2 y 1.3 | 05/10/2026 |
 | Real Decreto 314/2006 (BOE-A-2006-5515), BOE consolidado: artículo 2 y disposición derogatoria única (redacción única) | Epígrafes 1.4 y 4.4 | 05/10/2026 |
 | Código Técnico de la Edificación, DB SUA, texto consolidado «14 junio 2022» (codigotecnico.org, DBSUA.pdf) | Sección SUA 4, apartados 1 y 2 (epígrafes 1.4, 2.3, 4.3, 4.4) | 05/10/2026 |
-| Código Técnico de la Edificación, DB HE, texto consolidado «14 Junio 2022» (codigotecnico.org, DBHE.pdf); la página del DB lista además una versión «con comentarios del Ministerio» de 22/12/2023, que no es un texto nuevo del DB | Sección HE 3 y anejo A (epígrafes 3.1, 3.2, 5.1, 5.2) | 05/10/2026 |
+| Código Técnico de la Edificación, DB HE, texto consolidado «14 Junio 2022» (codigotecnico.org, DBHE.pdf); la página del DB lista además una versión «con comentarios del Ministerio» de 22/12/2023, que no es un texto nuevo del DB | Sección HE 3 y anejo A (epígrafes 2.5, 3.1, 3.2, 5.1, 5.2) | 05/10/2026 |
 | Real Decreto 513/2017 (BOE-A-2017-6606), BOE consolidado: anexo I, sección 1.ª, apartado 15; anexo II, apartado 8; artículo 22 (redacción vigente desde el 10/05/2025) | Epígrafes 4.5, 5.2 y 5.3 | 05/10/2026 |
+| Reglamento (UE) 2019/2020 (DOUE-L-2019-81880), texto publicado en la sección del DOUE del BOE, sin consolidar, leído junto a su corrección de errores (DOUE-L-2020-80257) y al Reglamento (UE) 2021/341 (DOUE-L-2021-80227), que lo modifica | Artículos 1 y 2 y anexo I (epígrafes 2.4 y 2.5) | 05/10/2026 |
+| IDAE, *Guía técnica de eficiencia energética en iluminación. Oficinas* (Guía IDAE 010, junio de 2019, idae.es): apartado 5.4 (tabla 4) y capítulo 6 (generación de luz, características y familias de fuentes de luz, equipos auxiliares) | Epígrafe 2.5: tonos de luz, valoración del Ra, código de tres dígitos, datos orientativos de lámparas, balasto, arrancador y cebador. No se toma lo que la guía dice del etiquetado energético, porque cita un reglamento ya derogado | 05/10/2026 |
+| Zemper (fabricante de alumbrado de emergencia), «Comunicación automática del estado de las luminarias de emergencia para un óptimo mantenimiento (I)», zemper.com, publicado el 04/11/2021 | Epígrafe 5.2: periodicidad de los ensayos y contenido del libro de registro que atribuye a las UNE-EN 50172 y 62034 | 05/10/2026 |
 
 El resto va como oficio y así se declara: el mapa de normas del epígrafe 1.1 como ordenación, la
 aplicación del anexo IV al cuadro de una sala técnica, el comentario del efecto estroboscópico, que
@@ -1055,4 +1207,7 @@ lectura de que un plató con público es caso de pública concurrencia o de bali
 la iluminación escénica del VEEI por analogía, el comportamiento eléctrico del equipo de un LED, la
 explicación de «permanente» y «no permanente», la lectura de que un grupo electrógeno no da por sí
 solo el corte breve, la decisión de dar reemplazamiento a un control de continuidad, las dos formas de
-reponer y las reglas de reposición, y los ejemplos resueltos, cuyos datos de partida son supuestos.
+reponer y las reglas de reposición, la cadena de magnitudes del epígrafe 2.5, que las «lámparas de
+descarga» de las ITC-BT sean las fluorescentes y las de alta intensidad, que el vapor de mercurio no
+quepa en el alumbrado vial, específico u ornamental, la lectura de la definición de la clase III, y los
+ejemplos resueltos, cuyos datos de partida son supuestos.

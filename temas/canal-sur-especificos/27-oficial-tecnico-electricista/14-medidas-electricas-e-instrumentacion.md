@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 14 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-03 (apéndice I), ITC-BT-05, ITC-BT-18, ITC-BT-19 (apartado 2.9) e ITC-BT-24. Real Decreto 614/2001, de 8 de junio, anexos I, II, IV y V. Guía técnica del INSST sobre riesgo eléctrico (2020). Documentación técnica de fabricantes de instrumentos (Fluke, Chauvin Arnoux-AEMC, Circutor, FLIR). Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-03 (apéndice I), ITC-BT-05, ITC-BT-18, ITC-BT-19 (apartado 2.9) e ITC-BT-24. Real Decreto 614/2001, de 8 de junio, anexos I, II, IV y V. Guía técnica del INSST sobre riesgo eléctrico (2020). Documentación técnica de fabricantes de instrumentos (Fluke, Chauvin Arnoux-AEMC, Circutor, FLIR, Megger). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Del REBT: ITC-BT-03 en la redacción del Real Decreto 770/2025 (vigente desde el 04/09/2025; el apéndice I.2, que es el que se cita, no cambió); ITC-BT-05 en la del Real Decreto 1053/2014 (desde el 30/06/2015); ITC-BT-18 en la del Real Decreto 560/2010 (desde el 23/05/2010); ITC-BT-19 e ITC-BT-24, redacción única de 2002 (desde el 18/09/2003). El Real Decreto 614/2001 tiene una sola redacción |
-| **Extensión** | Unas 13.000 palabras |
+| **Extensión** | Unas 14.500 palabras |
 
 <!-- /portada -->
 
@@ -22,13 +22,15 @@ interruptor diferencial (**ID**; en la documentación de los fabricantes, **RCD*
 device*); muy baja tensión de seguridad y de protección (**MBTS** y **MBTP**); conductor de
 protección (**PE**); esquemas de conexión a tierra (**TT**, **TN**, **IT**); sistema de alimentación
 ininterrumpida (**SAI**); centro de proceso de datos (**CPD**); diodo emisor de luz (**LED**).
-Fluke, Chauvin Arnoux-AEMC, Circutor y FLIR son nombres de fabricantes de instrumentos, y CDB, el
-de un modelo de comprobador. Magnitudes: corriente
+Fluke, Chauvin Arnoux-AEMC, Circutor, FLIR y Megger son nombres de fabricantes de instrumentos; CDB
+es un modelo de comprobador y CVM-NRG96, uno de analizador de redes. Magnitudes: corriente
 diferencial-residual asignada (**IΔn**), corriente que asegura el funcionamiento del dispositivo
 (**Ia**), resistencia de tierra de las masas (**RA**), tensión de contacto límite convencional
 (**U**), impedancia del bucle de defecto (**Zs**), tensión entre fase y tierra (**U0**),
 resistividad del terreno (**ρ**), factor de potencia y coseno de fi (**cos φ**), emisividad
-(**ε**). Unidades: voltio (**V**), amperio (**A**), miliamperio (**mA**), ohmio (**Ω**),
+(**ε**), distorsión armónica total (**THD**, *total harmonic distortion*), factor de cresta
+(**CF**, *crest factor*), índice de polarización (**IP**), relación de absorción dieléctrica
+(**DAR**, *dielectric absorption ratio*) y factor de desclasificación (**HDF**). Unidades: voltio (**V**), amperio (**A**), miliamperio (**mA**), ohmio (**Ω**),
 megaohmio (**MΩ**), ohmio por metro (**Ω·m**), milisegundo (**ms**), grado Celsius (**°C**),
 milikelvin (**mK**), hercio y kilohercio (**Hz**, **kHz**).
 
@@ -52,7 +54,8 @@ sin separar el electrodo; qué hace y qué no la pinza de tierra; los valores de
 ITC-BT-19 (250 V/0,25 MΩ, 500 V/0,5 MΩ, 1000 V/1 MΩ), la regla de los 100 metros, la polaridad del
 generador y qué se hace con los circuitos electrónicos; el ensayo de rigidez (2U + 1000 V, mínimo
 1.500 V, 1 minuto); qué exige el anexo IV del Real Decreto 614/2001 cuando se usa una fuente de
-tensión exterior; qué mide un analizador de redes y para qué se deja registrando; y en termografía,
+tensión exterior; qué mide un analizador de redes, qué son la distorsión armónica total y el factor de cresta y para
+qué se deja registrando; qué son la relación de absorción dieléctrica y el índice de polarización; y en termografía,
 por qué se hace en carga, qué es la emisividad, qué falsea una lectura y cómo se organiza un
 programa de inspección. En la prueba práctica: elegir el instrumento para una tarea, describir una
 medida de tierra o de aislamiento paso a paso, interpretar una lectura (una resistencia de
@@ -94,6 +97,7 @@ TT o comprobar un diferencial con el comprobador de instalaciones.
   - [5.4 Si la lectura sale baja](#54-si-la-lectura-sale-baja)
   - [5.5 La rigidez dieléctrica](#55-la-rigidez-dieléctrica)
   - [5.6 La seguridad del ensayo y el histórico](#56-la-seguridad-del-ensayo-y-el-histórico)
+  - [5.7 Los ensayos dependientes del tiempo: absorción dieléctrica e índice de polarización](#57-los-ensayos-dependientes-del-tiempo-absorción-dieléctrica-e-índice-de-polarización)
 - [6. Analizador de redes](#6-analizador-de-redes)
   - [6.1 Qué exige el REBT](#61-qué-exige-el-rebt)
   - [6.2 Qué mide y para qué sirve](#62-qué-mide-y-para-qué-sirve)
@@ -269,9 +273,14 @@ El cuadro completo de los instrumentos del tema (oficio, salvo donde se cita la 
 
 La ausencia de tensión se comprueba con un detector concebido para ello. La guía del INSST cita
 como norma posible para baja tensión **la norma UNE-EN 61243-3, para detectores de tensión para
-baja tensión bipolares**, y recuerda que, antes de usarlo, **es importante comprobar su tensión o
+baja tensión bipolares**. Lo que la guía pide antes de usar un detector, **comprobar su tensión o
 gama de tensiones nominales de funcionamiento, así como el estado de las puntas de prueba y de las
-pilas o baterías**. Y que la verificación se haga **en todos los conductores de la instalación,
+pilas o baterías**, lo escribe en el apartado de los detectores de alta tensión; para la comprobación
+del propio verificador sí distingue los dos niveles: en alta tensión **es obligatorio comprobar el
+correcto funcionamiento del equipo verificador de ausencia de tensión inmediatamente antes y después
+de realizar la citada verificación**, y **también es recomendable realizar esta comprobación en los
+equipos empleados para verificar la ausencia de tensión en las instalaciones de baja tensión**. La
+guía pide además que la verificación se haga **en todos los conductores de la instalación,
 especialmente en cada una de las fases y en el conductor neutro, en caso de existir**; también
 recomienda verificarla **en todas las masas accesibles susceptibles de quedar eventualmente en
 tensión**.
@@ -558,7 +567,7 @@ analizador registra la evolución.
 
 ### 3.5 Los transformadores de intensidad
 
-La pinza es, por dentro, un transformador de intensidad; los cuadros grandes llevan
+La pinza de alterna es, por dentro, un transformador de intensidad; los cuadros grandes llevan
 transformadores de intensidad fijos para los contadores y los analizadores fijos. El Real Decreto
 614/2001 tiene una regla para ellos, en su anexo II, apartado B.4.1, dentro de las disposiciones
 sobre **Trabajos en transformadores y en máquinas en alta tensión**: **Se prohíbe la apertura de
@@ -926,6 +935,61 @@ siempre en las mismas condiciones, es una de las medidas que anticipan la averí
 caída progresiva en un circuito avisa antes de que la fuga alcance la sensibilidad del diferencial
 (tema 13).
 
+### 5.7 Los ensayos dependientes del tiempo: absorción dieléctrica e índice de polarización
+
+La lectura de 5.2 es un instante. Muchos medidores de aislamiento de mantenimiento traen además
+ensayos que miden cómo cambia la resistencia mientras dura la tensión de ensayo; la guía de pruebas
+de aislamiento de Megger, fabricante de medidores, dice de una serie de sus medidores (MIT400/2) que **cuenta con pruebas de
+índice de polarización (IP) y relación de absorción dieléctrica (DAR)**. La guía distingue tres métodos de
+prueba comunes: la lectura a corto plazo o al azar, la prueba de tiempo-resistencia y la prueba
+escalonada o multitensión. En la primera, el instrumento se hace
+funcionar **durante un breve período específico (60 segundos es lo que se suele recomendar)**, y
+**la temperatura y la humedad, así como la condición de su aislamiento, afectarán la lectura**.
+
+El fundamento del método de tiempo-resistencia, según la misma guía: **un buen aislamiento muestra
+un continuo aumento de la resistencia** durante un período **(del orden de 5 a 10 minutos)**, por la
+corriente de absorción; en cambio, **si el aislamiento contiene mucha humedad o contaminantes, el
+efecto de absorción se ocultará tras una alta corriente de fuga que se mantiene en un valor
+relativamente constante, lo que mantendrá una baja lectura de resistencia**. Dos ventajas que la
+guía le atribuye: el método **es bastante independiente de la temperatura y, a menudo, le puede
+proporcionar información concluyente, sin registros de pruebas anteriores**, y **es independiente
+del tamaño del equipo**, de modo que permite comparar motores distintos.
+
+Las dos relaciones:
+
+- **La relación de dos lecturas de tiempo-resistencia (como una lectura de 60 segundos dividida por
+  una lectura de 30 segundos) se denomina relación de absorción dieléctrica.**
+- **Si la relación se compone de una lectura de 10 minutos dividida por una lectura de 1 minuto, el
+  valor se denominará índice de polarización.**
+
+La guía da una tabla de orientación (tabla I, que la edición española deja en inglés; aquí se
+traduce, en redonda):
+
+| Estado del aislamiento | Relación 60 s / 30 s | Índice de polarización (10 min / 1 min) |
+|---|---|---|
+| Peligroso | — | Menor que 1 |
+| Dudoso | 1,0 a 1,25 | 1,0 a 2 |
+| Bueno | 1,4 a 1,6 | 2 a 4 |
+| Excelente | Mayor que 1,6 | Mayor que 4 |
+
+Con tres notas de la propia tabla, también traducidas: los valores deben considerarse provisionales
+y relativos, sujetos a la experiencia con el método a lo largo del tiempo; en algunos motores, valores
+alrededor de un 20 % más altos que los de la fila «excelente» (mayor que 1,6 y mayor que 4) indican un
+devanado seco y quebradizo, que fallará con golpes o en los arranques, y para el mantenimiento
+preventivo el devanado debe limpiarse, tratarse y secarse para recuperar su flexibilidad; y un índice
+de 1,0 a 2, que la tabla da como dudoso, sería satisfactorio en equipos de capacidad muy baja, como
+tramos cortos de cableado doméstico.
+
+Un ejemplo de la guía, la prueba de doble lectura (30 y 60 segundos): una lectura al azar de 10 MΩ
+en un motor síncrono parece buena; si se mantiene estable en 10 MΩ hasta los 60 segundos, **puede haber
+suciedad o humedad en los devanados que merecen atención**; si sube entre los 30 y los 60 segundos,
+los devanados están razonablemente bien.
+
+Aplicación al puesto (oficio): el índice de polarización y la relación de absorción tienen sentido en
+devanados de motores, transformadores y cables largos, con capacidad apreciable; en un circuito corto
+de alumbrado la lectura se estabiliza enseguida y el índice no dice mucho, como avisa la tercera nota.
+Ningún precepto del REBT leído exige estos ensayos: son mantenimiento, no verificación reglamentaria.
+
 ## 6. Analizador de redes
 
 ### 6.1 Qué exige el REBT
@@ -964,6 +1028,30 @@ Una lectura que sólo da el analizador: con carga electrónica, el factor de pot
 cos φ dejan de coincidir, porque la corriente deformada aumenta la potencia aparente sin aportar
 activa, y los condensadores corrigen el desfase, no la deformación (tema 1, 6.1). Un analizador que
 da los dos valores dice cuál de los dos problemas hay; un registrador sencillo que sólo da uno, no.
+
+Dos magnitudes resumen la deformación de la onda, y el analizador las da directamente:
+
+- Distorsión armónica total (THD). El manual de un analizador de redes de Circutor (CVM-NRG96)
+  deja elegir entre dos formas de calcularla, para tensión y para corriente: **% valor de distorsión
+  armónica respecto a fundamental (tensión y corriente)** y **% valor de distorsión armónica
+  respecto el valor eficaz RMS (tensión y corriente)**. Es un porcentaje: 0 % en una onda senoidal
+  pura, y crece con el contenido armónico. Al comparar dos lecturas hay que saber cuál de los dos
+  cálculos usa el aparato (aplicación de oficio).
+- Factor de cresta (CF). Una nota de aplicación de Fluke lo define así: **Factor de cresta (CF) es la
+  relación de pico a rms. Para una onda sinusoidal, dicho valor es 1,4** (es √2 ≈ 1,41, aritmética).
+  La misma nota da **CF = 2** como **un valor más probable para circuitos con máquinas de oficinas**, y
+  para medirlo pide **un multímetro digital o pinza amperimétrica de verdadero valor eficaz** que,
+  **además**, pueda **medir el valor de pico de la forma de onda de corriente**, medida que dan
+  **también los analizadores de armónicos**. Con el factor de cresta, la nota propone reducir la carga
+  admisible con un factor de desclasificación (**HDF**) = 1,4 / CF de la corriente: con CF = 2, **HDF = 1,4/2 = 0,70**,
+  y **un elemento conductor con valor nominal de 20 A sólo debe cargarse hasta un 70% de su capacidad
+  ó 14 A máx.** La nota la presenta, como regla general, como una **sencilla fórmula** para
+  transformadores con cargas monofásicas y conductores; no es un precepto.
+
+La misma nota de Fluke da una comprobación rápida que enlaza la pinza con el analizador: si en el
+neutro hay armónicos de orden 3 y sus múltiplos, la corriente de neutro **oscilará entre un 80 y un
+130% de la corriente nominal de fase** aunque **el equilibrio del sistema sea perfecto**, y la
+frecuencia medida en el neutro, 150 Hz, **denota el foco del problema: corriente armónica de orden 3**.
 
 ### 6.3 Conexión y registro
 
@@ -1171,10 +1259,13 @@ de tensión bipolares de baja tensión; UNE-EN 61008-1 y UNE-EN 61009-1, interru
 | Real Decreto 842/2002, ITC-BT-19, redacción única (vigente desde el 18/09/2003) | Apartado 2.9 entero | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-24, redacción única | Apartados 4.1, 4.1.1 (tabla 1) y 4.1.2 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 614/2001 (BOE-A-2001-11881), redacción única | Anexo I, 8, 10, 13 y 14; anexo II, B.3 y B.4.1; anexo IV, A.1 a A.6 y B.2; anexo V, B.1.2 | En el BOE consolidado, 05/10/2026 |
-| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, Madrid, septiembre de 2020 | Comentarios al anexo IV (procedimiento de las pruebas, descarga tras el ensayo de aislamiento) y a la verificación de ausencia de tensión (detectores, UNE-EN 61243-3) | 05/10/2026 |
+| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, Madrid, septiembre de 2020 | Comentarios al anexo IV (procedimiento de las pruebas, descarga tras el ensayo de aislamiento) y a la verificación de ausencia de tensión (comprobación del verificador antes y después, detectores de alta tensión, UNE-EN 61243-3) | 05/10/2026 |
 | Fluke Corporation, *El ABC de la seguridad en las mediciones eléctricas*, 2003 (Pub-ID 10046-spa) | Categorías de medida, reglas de elección, fusibles, comprobación en tres pasos | 05/10/2026 |
 | Circutor, *Comprobador de diferenciales CDB (M80450). Manual de instrucciones* (M98126001-01) | Medidas del comprobador: tensión de contacto, tiempo de disparo, rampa; criterio de disparo | 05/10/2026 |
 | Chauvin Arnoux-AEMC Instruments, *Entendiendo pruebas de resistencia de tierra*, 2003 | Método de caída de potencial y del 62 %, pinza de tierra, método de Wenner, variación estacional | 05/10/2026 |
+| Megger, *Una puntada a tiempo. Guía completa para pruebas de aislamiento eléctrico* (edición española, copyright 2006; pie Stitch_2017, copyright 2017) | Tipos de prueba, método de tiempo-resistencia, relación de absorción dieléctrica e índice de polarización, tabla I y sus notas, prueba de doble lectura (epígrafe 5.7) | 05/10/2026 |
+| Circutor, *Analizador de redes CVM-NRG96-ITF-LON-C* (M98245001-01-13A) | Apartado 1.11, los dos cálculos de la distorsión armónica (epígrafe 6.2) | 05/10/2026 |
+| Fluke Corporation, *Solución de problemas de calidad de la energía en el panel de servicio*, nota de aplicación, 2002 (Pub-ID 10562-es) | Factor de cresta, factor de desclasificación, corriente de neutro con armónicos de orden 3 (epígrafe 6.2) | 05/10/2026 |
 | FLIR Systems, *Guía informativa del uso de cámaras termográficas en aplicaciones industriales*, 2011 (T820264) | Fallos detectables, inspección en carga, factores de medida, características de la cámara, pasos de la inspección | 05/10/2026 |
 
 El BOE consolidado del REBT da como última actualización el 18/12/2025; ninguno de los preceptos
@@ -1196,6 +1287,7 @@ fase y neutro; la razón física de cortocircuitar el secundario de un transform
 baja tensión; la aritmética de RA máxima, de la resistividad y de la regla de los 100 m; la zona de
 potencial nulo y su comprobación; los dos avisos de método de la medida de tierras; la elección
 entre picas y pinza; la lectura de las dos medidas de aislamiento y de los circuitos electrónicos;
-el método de búsqueda de un aislamiento bajo; el valor del histórico; la conexión y el registro del
+el método de búsqueda de un aislamiento bajo; el valor del histórico; en qué equipos tienen sentido el índice de polarización y la relación de
+absorción; la lectura de la distorsión armónica según el cálculo del aparato; la conexión y el registro del
 analizador; la comparación entre elementos iguales en termografía; y la aplicación a los cuadros de
 la casa. Nada de eso lo dice la norma con esas palabras, y el tema no lo presenta como si lo dijera.

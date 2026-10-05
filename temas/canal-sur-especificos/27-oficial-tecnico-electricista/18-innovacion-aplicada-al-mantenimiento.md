@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 18 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 244/2019, de 5 de abril, de autoconsumo de energía eléctrica (artículos 2, 3, 4, 5 y 14). Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (ITC-BT-40, apartados 2 y 4). Reglamento (UE) 2023/1542, de pilas y baterías (artículos 3, 12, 13, 14, 61 y 96 y anexos V, VI y VII). Real Decreto 1027/2007, de 20 de julio, Reglamento de instalaciones térmicas en los edificios (IT 1.2.4.3.5, IT 1.2.4.4, IT 2.3.4 e IT 4.3.4). Real Decreto 56/2016, de 12 de febrero, de auditorías energéticas (artículo 3). Fichas de catálogo de las normas ISO/IEC 30173:2023, ISO/IEC 30141:2024, ISO 17359:2018 y UNE-EN ISO 52120-1:2022. Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 244/2019, de 5 de abril, de autoconsumo de energía eléctrica (artículos 2, 3, 4, 5 y 14). Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (ITC-BT-40, apartados 2 y 4). Reglamento (UE) 2023/1542, de pilas y baterías (artículos 3, 12, 13, 14, 61, 95 y 96 y anexos V, VI y VII). Real Decreto 1027/2007, de 20 de julio, Reglamento de instalaciones térmicas en los edificios (apéndice 1, IT 1.2.4.3.5, IT 1.2.4.4, IT 2.3.4, nota a la tabla de la IT 3.3 e IT 4.3.4). Real Decreto 56/2016, de 12 de febrero, de auditorías energéticas (artículo 3). Fichas de catálogo de las normas ISO/IEC 30173:2023, ISO/IEC 30141:2024, ISO 17359:2018, UNE-EN ISO 52120-1:2022 y UNE-EN ISO 19650-1:2019; vistas previas oficiales de la ISO/IEC 30173, la ISO/IEC 30141, la ISO 19650-1 y la ISO 29821:2018. Fuente técnica: especificación LoRaWAN (LoRa Alliance), noticias técnicas del 3GPP sobre NB-IoT, norma MQTT 5.0 de OASIS y dos revisiones científicas sobre embalamiento térmico de baterías de litio. Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Real Decreto 244/2019: artículos 3 y 4 en la redacción del Real Decreto-ley 7/2026, de 20 de marzo (desde el 22/03/2026); artículos 2, 5 y 14 en su redacción única (desde el 07/04/2019). ITC-BT-40 en la redacción del Real Decreto 244/2019 (desde el 07/04/2019). RITE: IT 1, IT 3, IT 4 y apéndice 1 en la del Real Decreto 178/2021 (desde el 01/07/2021); IT 2 en su redacción original (desde el 29/02/2008). Real Decreto 56/2016, redacción única. Reglamento (UE) 2023/1542 en su texto publicado en el Diario Oficial de la Unión Europea; sus cuatro correcciones de errores y sus modificaciones (artículo 77, artículo 48 y anexo I) no tocan los preceptos citados |
-| **Extensión** | Unas 12.900 palabras |
+| **Extensión** | Unas 15.000 palabras |
 
 <!-- /portada -->
 
@@ -24,8 +24,13 @@ ordenador (**GMAO**); Organización Internacional de Normalización (**ISO**) y 
 Electrotécnica Internacional (**IEC**); Asociación Española de Normalización (**UNE**) y norma
 europea (**EN**); precio voluntario para el pequeño consumidor (**PVPC**); código de respuesta
 rápida (**QR**); gemelo digital (**DTw**, *digital twin*, la abreviatura que usa la norma ISO/IEC
-30173). Unidades: voltio (**V**), voltamperio (**VA**) y kilovoltamperio (**kVA**), kilovatio
-(**kW**), megavatio (**MW**), kilovatio hora (**kWh**), miliamperio (**mA**), hercio (**Hz**),
+30173); modelado de información de la construcción (**BIM**, *building information modelling*); red de
+área amplia y baja potencia (**LPWA**, *low power, wide area*); IoT de banda estrecha (**NB-IoT**,
+*narrowband IoT*); proyecto de asociación de tercera generación (**3GPP**, *3rd Generation Partnership
+Project*); litio-ferrofosfato (**LFP**, *lithium iron
+phosphate*) y níquel-cobalto-manganeso (**NMC**, que las fuentes escriben también **NCM**), dos químicas
+del cátodo de las baterías de ion litio. Unidades: voltio (**V**), voltamperio (**VA**) y kilovoltamperio (**kVA**), kilovatio
+(**kW**), megavatio (**MW**), kilovatio hora (**kWh**), miliamperio (**mA**), hercio (**Hz**) y kilohercio (**kHz**),
 kilogramo (**kg**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
@@ -35,15 +40,18 @@ kilogramo (**kg**).
 > de instalaciones, telegestión energética, baterías, autoconsumo y automatización de edificios.
 
 **Qué se puede preguntar.** No hay exámenes anteriores de este puesto. Por el enunciado, un
-tribunal puede preguntar: qué es un gemelo digital según la norma ISO/IEC 30173 y qué norma da la
-arquitectura de referencia del IoT; qué variables de una instalación eléctrica se sensorizan para
-el predictivo y por qué lo que vale es el histórico; dónde encaja el predictivo en la terminología
+tribunal puede preguntar: qué es un gemelo digital según la norma ISO/IEC 30173, si un modelo BIM lo es, y qué norma da la
+arquitectura de referencia del IoT; con qué redes y protocolos se comunican los sensores (LoRaWAN,
+NB-IoT, MQTT); qué variables de una instalación eléctrica se sensorizan para
+el predictivo y por qué lo que vale es el histórico; para qué sirve la inspección por ultrasonidos en
+un cuadro; dónde encaja el predictivo en la terminología
 normalizada; cuáles son los niveles de un sistema de control según el RITE (campo, proceso,
 comunicaciones, gestión y telegestión) y quién mantiene sus programas; qué consumos obliga el RITE a
 medir y registrar (70 kW, 20 kW) y qué dice de la energía de autoconsumo; qué exige el Real Decreto
 56/2016 a los datos de consumo; qué es una batería industrial, un sistema estacionario de
 almacenamiento de energía con baterías, un sistema de gestión de baterías y el estado de salud
-según el Reglamento (UE) 2023/1542; qué parámetros del estado de salud y de la vida útil prevista
+según el Reglamento (UE) 2023/1542; qué química de litio es más estable frente al embalamiento
+térmico; qué parámetros del estado de salud y de la vida útil prevista
 debe guardar ese sistema y desde cuándo; qué riesgos prueba el anexo V; desde cuándo llevan las
 baterías el símbolo de recogida separada y el código QR, y qué baterías tienen pasaporte; quién
 recoge gratis una batería industrial usada; qué es autoconsumo, cuáles son sus modalidades y qué
@@ -72,11 +80,13 @@ para decidir una actuación.
   - [2.3 Qué se sensoriza en una instalación eléctrica](#23-qué-se-sensoriza-en-una-instalación-eléctrica)
   - [2.4 Del sensor a la decisión: los niveles](#24-del-sensor-a-la-decisión-los-niveles)
   - [2.5 Las tres precauciones de un sistema sensorizado](#25-las-tres-precauciones-de-un-sistema-sensorizado)
+  - [2.6 Cómo se comunican los sensores](#26-cómo-se-comunican-los-sensores)
 - [3. Mantenimiento predictivo](#3-mantenimiento-predictivo)
   - [3.1 Qué es y dónde encaja](#31-qué-es-y-dónde-encaja)
   - [3.2 Lo que lo hace posible: medir siempre igual y guardar el histórico](#32-lo-que-lo-hace-posible-medir-siempre-igual-y-guardar-el-histórico)
   - [3.3 Las variables de un motor y de una batería](#33-las-variables-de-un-motor-y-de-una-batería)
   - [3.4 Lo que la norma exige que se parezca a un predictivo](#34-lo-que-la-norma-exige-que-se-parezca-a-un-predictivo)
+  - [3.5 Una técnica más: los ultrasonidos](#35-una-técnica-más-los-ultrasonidos)
 - [4. Gemelo digital de instalaciones](#4-gemelo-digital-de-instalaciones)
   - [4.1 La definición de la norma](#41-la-definición-de-la-norma)
   - [4.2 Lo que es y lo que no es](#42-lo-que-es-y-lo-que-no-es)
@@ -189,8 +199,10 @@ La norma de arquitectura es la ISO/IEC 30141:2024, **«Internet of Things (IoT) 
 architecture»**, con fecha de edición de 27 de agosto de 2024 y en vigor según la ficha de catálogo de AENOR, que la
 resume así: **«This document provides a standardized IoT Reference Architecture using a common
 vocabulary, reusable designs and industry best practices.»** La ficha añade: **«This second edition
-cancels and replaces the first edition published in 2018.»** Es norma de la ISO y la IEC (comité
-conjunto JTC 1/SC 41), en inglés, sin versión UNE localizada y sin carácter obligatorio.
+cancels and replaces the first edition published in 2018.»** Es norma conjunta de la ISO y la IEC: según
+su prólogo, la preparó el **«subcommittee 41: Internet of Things and Digital Twin, of ISO/IEC joint
+technical committee 1: Information technology»**, el mismo subcomité que la norma del gemelo digital
+(epígrafe 4.1). Está en inglés, sin versión UNE localizada y sin carácter obligatorio.
 
 ### 2.2 Qué cambia respecto al sistema de gestión clásico
 
@@ -268,6 +280,45 @@ La IT 2.3.4, apartado 4, fija además quién toca los programas: **Cuando la ins
 un sistema de control, mando y gestión o telegestión basado en la tecnología de la información, su
 mantenimiento y la actualización de las versiones de los programas deberá ser realizado por
 personal cualificado o por el mismo suministrador de los programas.**
+
+### 2.6 Cómo se comunican los sensores
+
+El sensor inalámbrico con pila del epígrafe 2.2 necesita dos cosas: una red radio que llegue lejos
+gastando poca energía, y un protocolo para entregar sus lecturas a la plataforma. Ninguna norma
+obligatoria elige una tecnología; lo que sigue es lo que dicen de sí mismas las especificaciones más
+extendidas (fuente técnica, no reglamento).
+
+| Tecnología | Qué es | Lo que dice su propia especificación |
+|---|---|---|
+| LoRaWAN | Red radio de área amplia y baja potencia (LPWA), especificación que **«is developed and maintained by the LoRa Alliance»** | **«a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated 'things' to the internet in regional, national or global networks»**. Topología en **«star-of-stars»**: unas pasarelas (*gateways*) **«relay messages between end-devices and a central network server»** |
+| NB-IoT | Tecnología radio celular para IoT, normalizada por el 3GPP | El 3GPP la presentó como **«the new narrowband radio technology developed for the Internet-of-Things (IoT)»**, incorporada a la versión 13 de sus especificaciones (**«Release 13 (LTE Advanced Pro)»**) y congelada en junio de 2016. Funciona en espectro con licencia: **«The operation in licensed spectrum also allows for a level of control and quality assurance, not possible to achieve by proprietary technologies operating in the unlicensed frequency domain.»** |
+| MQTT | Protocolo de mensajería entre el sensor o la pasarela y la plataforma, norma de OASIS (versión 5.0, de 7 de marzo de 2019) | **«MQTT is a Client Server publish/subscribe messaging transport protocol. It is light weight, open, simple, and designed to be easy to implement.»** Pensado, entre otros, para **«Machine to Machine (M2M) and Internet of Things (IoT) contexts where a small code footprint is required and/or network bandwidth is at a premium»** |
+
+Las dos primeras son la red; la tercera, el idioma en que el dato viaja por ella o por la red
+de datos del edificio. No compiten entre sí: un sensor puede transmitir por LoRaWAN a una pasarela, y
+la pasarela publicar las lecturas por MQTT en la plataforma (lectura de oficio).
+
+Dos rasgos de esas especificaciones que importan a quien mantiene:
+
+- *Clases de dispositivo LoRaWAN.* La especificación distingue tres. La clase A, **«Lowest power,
+  bi-directional end-devices»**, es la que todo dispositivo debe soportar: la comunicación la empieza
+  siempre el sensor, y tras cada envío abre dos ventanas cortas de recepción. La clase C mantiene el
+  receptor abierto siempre que no transmite, con un consumo de hasta unos 50 mW, y por eso
+  **«is suitable for applications where continuous power is available»**. Consecuencia práctica: un
+  sensor de pila en clase A no puede recibir órdenes en cualquier momento; lo que haya que mandarle
+  espera en el servidor de red hasta su siguiente envío. La clase B, también válida con pila según la
+  especificación, añade ventanas de recepción a horas programadas, a costa de algo más de consumo.
+- *Calidades de servicio de MQTT.* La norma da tres niveles de entrega: **«At most once»** (se puede
+  perder un mensaje: la propia norma pone el ejemplo de **«ambient sensor data where it does not
+  matter if an individual reading is lost as the next one will be published soon after»**), **«At least
+  once»** (llega seguro, pero puede duplicarse) y **«Exactly once»**. Una alarma no se envía con el
+  primer nivel (lectura de oficio): una lectura de temperatura perdida se repone con la siguiente; un
+  aviso de disparo perdido, no.
+
+Por qué todo esto es también mantenimiento: la red radio y la pasarela son equipos con su propia
+avería (cobertura, interferencias, pasarela sin alimentación), y su fallo deja mudos a todos los
+sensores que cuelgan de ella. La pasarela se trata como el equipo de comunicaciones del epígrafe 2.5:
+alimentada desde el SAI y vigilada como un punto más (oficio).
 
 ## 3. Mantenimiento predictivo
 
@@ -357,6 +408,46 @@ capacidades que son, en la práctica, predictivo:
   estacionarios de almacenamiento de energía con baterías recoja **los datos actualizados de los
   parámetros para determinar el estado de salud y la vida útil prevista** (epígrafe 6.3).
 
+### 3.5 Una técnica más: los ultrasonidos
+
+A las medidas del epígrafe 3.2 se suma una que el resto del temario sólo nombra para localizar fugas de
+refrigerante (tema 9) y que sirve también en cuadros, celdas y transformadores: la inspección por
+ultrasonidos. Su norma de referencia es la ISO 29821. Se ha leído la vista previa oficial de su edición de 2018 (**«Condition monitoring and
+diagnostics of machines — Ultrasound — General guidelines, procedures and validation»**, preparada por
+el subcomité 5 del comité técnico 108 de la ISO); según el catálogo de la distribuidora de normas del grupo del Instituto Alemán de Normalización
+(**DIN**, *Deutsches Institut für Normung*), DIN Media, esa edición está
+anulada y sustituida por la ISO 29821:2026, de abril de 2026, cuyo texto no se ha leído. Lo que sigue
+es de la edición de 2018.
+
+Qué es. La norma la define como un **«non-destructive test method used to inspect for airborne and
+structure-borne ultrasound above 20 kHz created from or through a medium»**: se escucha el sonido de
+alta frecuencia, por encima de 20 kHz, que viaja por el aire (*airborne*, con micrófono ultrasónico)
+o por la estructura (*structure-borne*, con sensor de contacto). Las anomalías se detectan como
+**«high frequency acoustic events caused by turbulent flow, ionization events, impacts and friction»**,
+que proceden, entre otras causas, de **«electrical discharges»**.
+
+Para qué la usa un electricista:
+
+| Uso | Lo que dice la norma |
+|---|---|
+| Descargas eléctricas en equipos con la envolvente cerrada | Entre las aplicaciones eléctricas de su tabla 1 figuran **«Switchgear»**, **«Transformers»**, **«Insulators»**, **«Junction boxes»** y **«Circuit breaker»** |
+| Seguridad antes de abrir un cuadro para la termografía | **«Airborne and structure-borne ultrasound are used to determine if an arc flash hazard is present before opening the cabinet for an infrared thermographic inspection.»** |
+| Distinguir una descarga de una vibración | El análisis de la señal **«can also help distinguish the difference between “loose” or 50 Hz to 60 Hz vibrating components such as a transformer winding and the actual electrical discharges»** |
+| Descargas parciales en un transformador | Con sensor de contacto, y con cuidado: **«a slight movement of a contact sensor can sound very similar to a partial discharge inside the transformer, which would cause a false indication of an anomaly»**; por eso la norma pone ese caso como ejemplo en el que conviene el sensor de acoplamiento magnético, que elimina la variación de la mano |
+| Línea aérea o subestación | El sensor parabólico sirve para **«determining which phase in a high-voltage electrical tower has an electrical discharge»** |
+| Rodamientos lentos y lubricación | A veces es el primer aviso, **«such as in the detection of faulty slow-speed bearings and/or insufficient lubrication in rolling element bearings»** |
+
+Y cómo encaja en el predictivo: la norma dice que los equipos son **«typically hand-held, portable
+and battery operated»**, pero que también se usan sistemas fijos en línea donde la anomalía
+**«shall be addressed at the inception rather than when a route-based inspection is scheduled»**.
+Es la misma evolución del epígrafe 3.2: de la ronda con instrumento portátil a la vigilancia en
+continuo.
+
+La lectura de oficio para un cuadro: la termografía ve el calor de una conexión floja; el
+ultrasonido oye la descarga o el arco, que pueden no calentar todavía, y lo oye sin abrir la
+puerta. Son complementarias, y el orden razonable es escuchar antes de abrir. La medida eléctrica
+de las descargas parciales no se desarrolla en este tema.
+
 ## 4. Gemelo digital de instalaciones
 
 ### 4.1 La definición de la norma
@@ -398,8 +489,29 @@ sincronizados. La lectura de oficio que se deriva:
 |---|---|---|
 | Los planos y el esquema unifilar en papel o en PDF | No | No hay conexión de datos: es documentación |
 | Un modelo tridimensional del edificio sin datos en vivo | No, por sí solo | Es la representación, pero le falta la conexión |
+| El modelo BIM del edificio, con sus cuadros y líneas, entregado al acabar la obra | No, por sí solo | Es la mejor representación digital de partida, pero sin conexión de datos con la instalación en servicio no cumple la definición |
 | El sinóptico del BMS con estados en tiempo real | En parte | Hay conexión y estado, pero no suele haber modelo de la instalación ni simulación |
 | Un modelo de la instalación eléctrica (cuadros, líneas, protecciones, cargas) alimentado por las medidas reales y capaz de simular | Sí | Tiene los tres elementos |
+
+El BIM merece párrafo propio, porque se confunde a menudo con el gemelo digital (oficio). La norma
+que lo define es la ISO 19650-1:2018, adoptada en España como UNE-EN ISO 19650-1:2019 (en vigor según la ficha de AENOR,
+idéntica a la EN ISO 19650-1:2018 y a la ISO 19650-1:2018). Su definición 3.3.14:
+
+> **«building information modelling BIM use of a shared digital representation of a built asset (3.2.8) to
+> facilitate design, construction and operation processes to form a reliable basis for decisions»**
+
+Traducción de este temario, no oficial: modelado de información de la construcción es el uso de una
+representación digital compartida de un activo construido para facilitar los procesos de diseño,
+construcción y explotación y formar una base fiable para las decisiones. La misma norma llama
+**«asset information model»** (AIM) al modelo de información **«relating to the operational
+phase»**: el de la fase de explotación, que es la del mantenimiento.
+
+Puestas una junto a otra, las dos definiciones responden a la pregunta: el BIM es una
+**«digital representation»**, igual que la primera mitad de la definición de gemelo digital; lo que
+le falta para ser gemelo son las **«data connections»** con la instalación real y la sincronización
+entre ambos estados. Por eso, en la práctica, el BIM de la obra suele ser el punto de partida del
+gemelo: se le conectan las medidas del BMS o de los sensores y se mantiene al día (lectura de oficio;
+ninguna de las dos normas lo dice así).
 
 La «tasa de sincronización adecuada» de la definición es la clave práctica: un gemelo de
 mantenimiento no necesita datos de cada segundo; uno que se use para operar sí. Lo adecuado lo fija
@@ -480,8 +592,10 @@ siempre que estén garantizadas las condiciones de seguridad y eficiencia energ�
 
 ### 5.4 Los datos de consumo como prueba: el Real Decreto 56/2016
 
-El Real Decreto 56/2016 obliga a las grandes empresas a una auditoría energética cada cuatro años,
-o a aplicar un sistema de gestión energética o ambiental certificado que la incluya (artículo 3.1 y 3.2;
+El Real Decreto 56/2016 obliga a **las grandes empresas o grupos de sociedades incluidos en el ámbito
+de aplicación del artículo 2** a una auditoría energética cada cuatro años que cubra **al menos, el 85
+por ciento del consumo total de energía final** de sus instalaciones en el territorio nacional, o a aplicar un sistema de
+gestión energética o ambiental certificado que la incluya (artículo 3.1 y 3.2;
 quién está obligado y si lo está la RTVA, en el tema 16). Lo que interesa aquí es lo que exige a
 los datos, porque es lo que la telegestión tiene que producir. Artículo 3.3.a): las auditorías
 **Deberán basarse en datos operativos actualizados, medidos y verificables, de consumo de energía
@@ -529,6 +643,30 @@ estado.
 | Plomo-ácido regulada por válvula | Sin mantenimiento de nivel; la de los SAI clásicos |
 | Níquel-cadmio | Muy robusta a temperatura extrema y a descarga profunda; cara |
 | Ion litio | Mucha más energía por kilo y por litro, más ciclos; exige sistema de gestión y tiene su propio régimen de seguridad |
+
+«Ion litio» no es una sola química: hay varios materiales de cátodo, y el comportamiento ante el
+embalamiento térmico cambia mucho de uno a otro. Lo que sigue sale de dos revisiones científicas de
+2026 (fuente técnica: no son norma). Una de ellas nombra como cátodos **«frequently used and
+studied»** el óxido de cobalto y litio (**LCO**), el NCM, el óxido de manganeso y litio (**LMO**) y el
+LFP. Las dos familias que aquí interesan son el litio-ferrofosfato (LFP) y los óxidos laminares de
+níquel, cobalto y manganeso (NMC):
+
+| Rasgo | LFP | NMC |
+|---|---|---|
+| Estructura del cátodo | Olivino de fosfato, que retiene el oxígeno: **«LFP cathodes exhibit weaker oxygen-release contribution because the olivine phosphate framework stabilizes oxygen»** | Óxido laminar; los ricos en níquel **«exhibit the highest thermal reactivity among layered cathodes and are key drivers of thermal runaway propagation»** |
+| Peligrosidad comparada | **«LFP is widely regarded as the safest commercial cathode»** | Una revisión de análisis calorimétricos de varios estudios con celdas comerciales 18650, citada por la segunda revisión, da, con el óxido de níquel, cobalto y aluminio (**NCA**) a la cabeza, **«a general hazard trend of NCA > LCO > NMC > LMO >> LFP»** |
+| Propagación del embalamiento en un módulo | Más lenta y menos violenta | **«NCM modules exhibit significantly shorter propagation intervals, higher propagation speeds, and more severe thermal and combustion behavior than LFP modules»** |
+| Cómo se manifiesta | **«LFP modules are more likely to release high-speed white smoke without any burning behavior»** | **«NCM-based modules often exhibit intense flaming and jetting»** |
+
+Dos lecturas para quien mantiene una sala de baterías (oficio):
+
+- La química es el primer dato que hay que saber de un sistema de almacenamiento, porque condiciona
+  su riesgo. La etiqueta del anexo VI, parte A, del Reglamento (UE) 2023/1542 incluirá la
+  **composición química** (epígrafe 6.5, con la fecha de esa etiqueta pendiente); mientras, se pide al
+  fabricante.
+- Que la LFP sea más estable no la hace inocua: el humo blanco de la tabla es gas que sale de la
+  celda, y el anexo V del reglamento prueba precisamente la **emisión de gases** (epígrafe 6.4). La
+  ventilación y la detección de la sala no se relajan por la química.
 
 ### 6.2 El Reglamento (UE) 2023/1542: qué es y desde cuándo se aplica
 
@@ -641,8 +779,10 @@ su contenido.
 
 ### 6.6 Cuando la batería se retira
 
-El capítulo VIII (residuos), aplicable desde el 18 de agosto de 2025, obliga a los productores (o
-a sus organizaciones de responsabilidad del productor), en el artículo 61.1, a aceptar la devolución de los residuos de baterías industriales **de manera
+El capítulo VIII (residuos) es aplicable desde el 18 de agosto de 2025. Su artículo 61.1 obliga a
+los productores de baterías industriales o, **de haber sido designadas con arreglo al artículo 57,
+apartado 1, las organizaciones competentes en materia de responsabilidad del productor**, a aceptar
+la devolución de los residuos de baterías industriales **de manera
 gratuita y sin obligación para el usuario final de comprar una batería nueva ni de haberles comprado
 a ellos la batería**, y a garantizar su recogida separada. Para el mantenedor, eso significa que la
 batería de SAI retirada no va al contenedor general ni se acumula en un almacén: se entrega por el
@@ -689,12 +829,16 @@ encuentren conectados a las redes de transporte o distribución**, y el apartado
 |---|---|
 | Instalación conectada a la red de transporte o distribución | Sí |
 | **instalaciones aisladas** | No |
-| **grupos de generación utilizados exclusivamente en caso de una interrupción de alimentación de energía eléctrica de la red eléctrica** | No |
+| **grupos de generación utilizados exclusivamente en caso de una interrupción de alimentación de energía eléctrica de la red eléctrica de acuerdo con las definiciones del artículo 100 del Real Decreto 1955/2000** | No |
 
 La segunda exclusión es la que interesa a un edificio técnico: el grupo electrógeno de emergencia
-no es autoconsumo, siempre que se use exclusivamente ante una interrupción. Si se arrancara para
+no es autoconsumo, siempre que se use exclusivamente ante una interrupción. El artículo 2.2 remite,
+para saber qué es ese grupo, a las definiciones del artículo 100 del Real Decreto 1955/2000, de 1 de
+diciembre, **por el que se regulan las actividades de transporte, distribución, comercialización,
+suministro y procedimientos de autorización de instalaciones de energía eléctrica**, que este tema
+no reproduce. Si se arrancara para
 recortar puntas de consumo o para otra cosa, dejaría de estar en la exclusión (lectura de oficio:
-el uso decide el régimen, no el aparato).
+el uso decide el régimen, no el aparato; los matices los darían esas definiciones, no leídas).
 
 Y qué es «aislada», artículo 3.d): **Aquella en la que no existe en ningún momento capacidad física
 de conexión eléctrica con la red de transporte o distribución ni directa ni indirectamente a través
@@ -938,7 +1082,7 @@ Las decisiones que un electricista ve tomar con este epígrafe delante (oficio):
 |---|---|
 | Fotovoltaica en la cubierta de un centro de trabajo que consume más de lo que produce | Suele bastar sin excedentes, con antivertido (ITC-BT-40, anexo I); un solo sujeto |
 | La misma, si se quiere verter y compensar | Con excedentes acogida a compensación: renovable, inversores que sumen 100 kW o menos, contrato del artículo 14 |
-| Más de 100 kW de inversores | Fuera de la compensación: con excedentes no acogida |
+| Más de 100 kW de inversores | Fuera de la compensación: si se quiere verter, con excedentes no acogida; si no, sin excedentes, con antivertido |
 | Grupo electrógeno de emergencia | No es autoconsumo (artículo 2.2), si se usa sólo ante una interrupción |
 | Baterías para aprovechar el excedente | Artículo 5.7 (dentro del perímetro de medida) y Reglamento (UE) 2023/1542 |
 
@@ -1068,7 +1212,7 @@ zonas comunes; en las salas técnicas, la consigna la manda la continuidad del s
 | Real Decreto 842/2002, Reglamento electrotécnico para baja tensión (BOE-A-2002-18099) | ITC-BT-40, apartados 2, 4.3 y 4.3.1 | La del Real Decreto 244/2019 (desde 07/04/2019) |
 | Reglamento (UE) 2023/1542, de pilas y baterías (DOUE L 191, de 28/07/2023) | Artículos 3.1 (puntos 13, 15, 25, 27 y 28), 12, 13, 14, 61.1, 95 y 96; anexos V, VI (parte A) y VII | Texto publicado; correcciones de errores de 2024, 2025 y 2026 y modificaciones (artículo 77 por el Reglamento (UE) 2024/1781, artículo 48 por el Reglamento (UE) 2025/1561, anexo I por el Reglamento (UE) 2026/1738) cotejadas: ninguna afecta a estos preceptos |
 | Real Decreto 1027/2007, Reglamento de instalaciones térmicas en los edificios (BOE-A-2007-15820) | Apéndice 1 (definiciones de instalación técnica del edificio, instalación térmica y los cuatro niveles); IT 1.2.4.3.5; IT 1.2.4.4, apartados 2 y 4 a 8; IT 2.3.4; IT 3.3 (nota a la tabla de periodicidades); IT 4.3.4 | IT 1, IT 3, IT 4 y apéndice 1: la del Real Decreto 178/2021 (desde 01/07/2021). IT 2: original (desde 29/02/2008) |
-| Real Decreto 56/2016, de auditorías energéticas (BOE-A-2016-1460) | Artículo 3, apartados 3.a) y 5 | Original (desde 14/02/2016) |
+| Real Decreto 56/2016, de auditorías energéticas (BOE-A-2016-1460) | Artículo 3, apartados 1, 3.a) y 5 | Original (desde 14/02/2016) |
 
 ## Lo que este tema no da, y dónde está
 
@@ -1076,12 +1220,23 @@ zonas comunes; en las salas técnicas, la consigna la manda la continuidad del s
   digital da la definición de la ISO/IEC 30173 en inglés, con traducción propia; no hay versión UNE
   localizada.
 - El texto de las normas ISO/IEC 30141, ISO 17359, UNE-EN 15232-1, UNE-EN ISO 52120-1 y UNE-EN ISO
-  16484-3: sólo se han leído sus fichas de catálogo o lo que el RITE dice de ellas.
+  16484-3: sólo se han leído sus fichas de catálogo, las primeras páginas de su vista previa o lo que
+  el RITE dice de ellas. De la UNE-EN ISO 19650-1 y de la ISO 29821:2018, sólo las primeras páginas
+  de la vista previa; la ISO 29821:2026, que sustituye a la de 2018, no se ha leído.
+- Las especificaciones completas de LoRaWAN, NB-IoT y MQTT: sólo se ha leído lo citado (la página
+  de la especificación de la LoRa Alliance, dos noticias técnicas del 3GPP y la introducción de la
+  norma MQTT 5.0). Ni bandas de frecuencia, ni alcances, ni duraciones de pila: ninguna de esas cifras
+  se ha confirmado en la fuente, y el tema no las da. Tampoco otras tecnologías radio ni la
+  seguridad de esas redes más allá del epígrafe 2.5.
+- La medida eléctrica de descargas parciales y su norma; las cifras de temperatura de inicio del
+  embalamiento térmico de cada química de litio, que varían de un estudio a otro.
 - La fecha efectiva de la etiqueta del artículo 13.1 del Reglamento (UE) 2023/1542 (depende de un
   acto de ejecución no localizado); el contenido del pasaporte de baterías; la norma española de
   adaptación a ese reglamento y la vigencia del Real Decreto 106/2008.
 - El contenido del anexo I de la ITC-BT-40 (requisitos y ensayos del antivertido) y del resto de la
   ITC-BT-40 (protecciones, puesta a tierra, medida): sólo se citan los apartados indicados.
+- El artículo 100 del Real Decreto 1955/2000, al que remite el artículo 2.2 del Real Decreto 244/2019
+  para definir los grupos de emergencia excluidos: no se ha leído.
 - El Real Decreto 1699/2011, de conexión a red de instalaciones de pequeña potencia, y los trámites
   administrativos del autoconsumo (registro, acceso y conexión, contrato de acceso): no se
   desarrollan. El anexo I del Real Decreto 244/2019 (criterios de reparto) se nombra y no se
@@ -1110,6 +1265,14 @@ zonas comunes; en las salas técnicas, la consigna la manda la continuidad del s
 | Ficha de catálogo de AENOR de la UNE-EN ISO 52120-1:2022 | Título, fecha de edición, «En Vigor», «Anula a UNE-EN 15232-1:2018» | 05/10/2026 |
 | Fichas de catálogo de AENOR de ISO/IEC 30173:2023, ISO/IEC 30141:2024 e ISO 17359:2018 | Fecha, estado, resumen y edición | 05/10/2026 |
 | Vista previa oficial de la ISO/IEC 30173, edición 1.0, 2023-11 (primeras páginas: prólogo y apartado 3.1) | Definición 3.1.1 y sus dos notas; el nombre del subcomité 41 | 05/10/2026 |
+| Vista previa oficial de la ISO/IEC 30141, edición 2.0, 2024-08 (prólogo) | El subcomité y el comité técnico conjunto que la prepararon | 05/10/2026 |
+| Vista previa oficial de la ISO 19650-1:2018 (prólogo, apartado 3) y ficha de catálogo de AENOR de la UNE-EN ISO 19650-1:2019 | Definiciones 3.3.9 (AIM) y 3.3.14 (BIM); fecha de edición, «En Vigor», equivalencia idéntica | 05/10/2026 |
+| Vista previa oficial de la ISO 29821:2018 (prólogo, introducción, apartados 3 a 5 y tabla 1) y ficha de DIN Media de esa edición | Definición 3.1, aplicaciones eléctricas, sensores, equipos portátiles y fijos; edición de 2018 anulada y sustituida por la ISO 29821:2026-04 | 05/10/2026 |
+| LoRa Alliance, página «What is LoRaWAN® Specification» (lora-alliance.org) | Definición, topología, clases A, B y C | 05/10/2026 |
+| 3GPP, noticias «Standardization of NB-IOT completed» (21/06/2016) y «The Cellular Internet of Things» (09/10/2017) | Qué es NB-IoT, versión 13, espectro con licencia | 05/10/2026 |
+| OASIS, *MQTT Version 5.0*, OASIS Standard, 07/03/2019, apartado 1 | Definición, contextos de uso y las tres calidades de servicio | 05/10/2026 |
+| Yang y otros, «A Review of Failure Modes and Safety Strategies of Lithium-Ion Batteries from Materials to Systems», *Advanced Science*, 13, 2026 (doi 10.1002/advs.76228); Su y otros, «Engineering Strategies to Suppress Thermal Runaway Propagation in Lithium-Ion Battery: Mechanisms, Metrics, Materials, and Evaluation Methods», *Advanced Science*, 13, 2026, e76502 (doi 10.1002/advs.76502); texto completo en Europe PMC | Comparación de LFP y NMC frente al embalamiento térmico | 05/10/2026 |
+| Real Decreto 244/2019, artículo 2.2, y Real Decreto 56/2016, artículo 3.1; Reglamento (UE) 2023/1542, artículo 61.1 | Remisión al artículo 100 del Real Decreto 1955/2000; sujeto y alcance de la auditoría; condición de designación de las organizaciones de responsabilidad del productor | 05/10/2026 |
 
 La redacción que se estudia es la vigente el 24/09/2026: ninguna de las fuentes cambió entre esa
 fecha y la de lectura.
@@ -1126,6 +1289,9 @@ qué baterías son industriales y sobre estado de carga y de salud, las reglas d
 de litio y la tabla de tareas nuevas de mantenimiento; la lectura del uso del grupo de emergencia,
 el ejemplo de potencia de inversores, la lectura de la condición de ubicación del almacenamiento,
 el riesgo del funcionamiento en isla para la consignación, la tabla de mantenimiento fotovoltaico,
-la tabla de decisiones y la observación de escala; la tabla de estrategias de automatización, el
+la tabla de decisiones y la observación de escala; la relación entre red radio y protocolo de
+mensajería, la consecuencia práctica de la clase A, el nivel de servicio de las alarmas y el
+tratamiento de la pasarela; la complementariedad entre termografía y ultrasonidos; el BIM como punto
+de partida del gemelo; las dos lecturas sobre la química de la sala de baterías; la tabla de estrategias de automatización, el
 principio de autonomía y la regla de las salas técnicas. Ninguna fuente leída lo dice con esas
 palabras.

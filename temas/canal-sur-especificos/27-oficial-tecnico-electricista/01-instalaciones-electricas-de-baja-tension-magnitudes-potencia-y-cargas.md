@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 1 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 2.1, 4 y 16 del Reglamento; ITC-BT-09, ITC-BT-14, ITC-BT-15, ITC-BT-19, ITC-BT-43, ITC-BT-44, ITC-BT-47 e ITC-BT-52. Lo demás es física elemental y oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 2.1, 4 y 16 del Reglamento; ITC-BT-09, ITC-BT-14, ITC-BT-15, ITC-BT-19, ITC-BT-43, ITC-BT-44, ITC-BT-47, ITC-BT-48 e ITC-BT-52. Lo demás es física elemental y oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo el artículo 2 (redacción vigente desde el 01/07/2021) y la ITC-BT-52 (redacción vigente desde el 16/06/2022) |
-| **Extensión** | Unas 10.000 palabras |
+| **Extensión** | Unas 11.000 palabras |
 
 <!-- /portada -->
 
@@ -35,12 +35,12 @@ cuadrado (**mm²**).
 
 **Qué se puede preguntar.** No hay exámenes anteriores de este puesto. Por el enunciado, un
 tribunal puede preguntar: qué tensiones abarca la baja tensión y cómo se clasifican; las tensiones
-nominales y la frecuencia de la red española; la ley de Ohm y la resistencia de un conductor; el
+nominales y la frecuencia de la red española; la ley de Ohm, las leyes de Kirchhoff y la resistencia de un conductor; el
 valor eficaz, el de pico y el periodo de la red de 50 Hz; la reactancia de bobinas y condensadores;
 estrella y triángulo, y la relación entre 230 y 400 V; las tres potencias y sus unidades en
-monofásica y en trifásica; la energía y el kilovatio hora; el factor de potencia, sus consecuencias
+monofásica y en trifásica, y cómo se suman las de varios receptores; la energía y el kilovatio hora; el factor de potencia, sus consecuencias
 y lo que el REBT dice de su compensación (cuándo puede y cuándo debe compensarse, el ± 10 %, el 0,9
-de las lámparas de descarga, la descarga de los condensadores); los límites de caída de tensión de
+de las lámparas de descarga, la descarga de los condensadores y la aparamenta que los maniobra); los límites de caída de tensión de
 la ITC-BT-19 y los de las líneas generales, derivaciones individuales y alumbrado exterior; las
 fórmulas de caída de tensión; el 125 % de los motores y el 1,8 de las lámparas de descarga; el
 deber de equilibrar las cargas, la sección del neutro y la corriente que circula por él. En la
@@ -209,6 +209,18 @@ Las resistencias se asocian de dos maneras, y las dos aparecen en un cuadro real
 
 Los receptores de una instalación se conectan en paralelo, todos a la misma tensión; el conductor
 de la línea queda en serie con ellos, y por eso parte de la tensión se queda en él (epígrafe 7).
+
+Las dos reglas de esa tabla se deducen de las leyes de Kirchhoff, junto con la de Ohm; las de
+Kirchhoff resuelven cualquier circuito:
+
+| Ley | Qué dice | Ejemplo |
+|---|---|---|
+| Primera, de los nudos o de las corrientes | En un nudo, la suma de las corrientes que entran es igual a la suma de las que salen | Entran 10 A y 4 A; si por una rama salen 6 A, por la otra salen 10 + 4 − 6 = 8 A |
+| Segunda, de las mallas o de las tensiones | En un circuito cerrado, la suma de las fuerzas electromotrices es igual a la suma de las caídas de tensión | Una fuente de 230 V con una línea que cae 6 V deja 224 V al receptor |
+
+La primera es la que se aplica en un cuadro: la corriente de la cabecera es la suma de las de las
+salidas que funcionan a la vez. En alterna las dos leyes valen con los valores instantáneos o
+sumando vectorialmente, no sumando valores eficaces (epígrafe 8.2).
 
 ### 2.3 La resistencia de un conductor
 
@@ -451,6 +463,16 @@ Comparación. La misma potencia activa en monofásica a 230 V pediría 20.000 / 
 102 A por un solo conductor de fase, tres veces la corriente de línea del trifásico. Es la razón
 económica de alimentar en trifásica las cargas grandes.
 
+Varios receptores en un mismo cuadro. Las potencias activas se suman entre sí, y las reactivas
+también, con su signo (positivo la inductiva, negativo la capacitiva); la aparente no se suma: se
+calcula al final con el triángulo de potencias. Es el teorema de Boucherot. Ejemplo, dos cargas de
+10 kW con cos φ = 0,8 y de 5 kW con cos φ = 1:
+
+- P = 10 + 5 = 15 kW.
+- Q = 10 · tg φ = 10 · 0,75 = 7,5 kvar en la primera, y 0 en la segunda: 7,5 kvar.
+- S = √(15² + 7,5²) ≈ 16,8 kVA, no 12,5 + 5 = 17,5 kVA.
+- Factor de potencia del conjunto: 15 / 16,8 ≈ 0,89, no la media de 0,8 y 1.
+
 ## 5. Energía
 
 La energía es la potencia por el tiempo:
@@ -533,6 +555,19 @@ Ejemplo. La carga trifásica del epígrafe 4.2 (20 kW, cos φ = 0,85) se quiere 
 - La corriente baja de unos 34 A a 20.000 / (√3 · 400 · 0,95) ≈ 30,4 A, con la misma potencia
   útil.
 
+La batería se da en kvar; su capacidad sale de la potencia reactiva de un condensador sometido a
+una tensión U, Q = U² · ω · C, con ω = 2 · π · f (epígrafe 3.2). Una batería trifásica son tres
+condensadores, y cada uno lleva un tercio de la reactiva; su tensión depende de cómo se conecten:
+
+| Conexión | Tensión en cada condensador | Capacidad por fase |
+|---|---|---|
+| Triángulo | La de entre fases, 400 V | C = Qc / (3 · 400² · ω) |
+| Estrella | La de fase, 400 / √3 ≈ 230 V | C = Qc / (3 · 230² · ω), el triple que en triángulo |
+
+Con la batería de 5,8 kvar del ejemplo, en triángulo, C = 5.800 / (3 · 160.000 · 314) ≈ 38 µF por
+fase; en estrella, unos 115 µF. Por eso las baterías trifásicas se conectan en triángulo: la misma
+reactiva con un tercio de la capacidad.
+
 La compensación puede hacerse junto a cada receptor (individual), por grupos o para toda la
 instalación en la cabecera (global, con una batería automática por escalones). Cuanto más cerca de
 la carga, más tramo de línea se descarga de reactiva; cuanto más centralizada, menos condensadores
@@ -575,8 +610,8 @@ Lo que hay que leer en esa cita:
 4. Los condensadores que puedan quedar separados de su carga llevan resistencias o reactancias de
    descarga a tierra, porque un condensador desconectado conserva su carga y su tensión.
 
-Donde la compensación SÍ es obligatoria es en el alumbrado. La ITC-BT-44, apartado 3.1, para las
-lámparas de descarga:
+Donde sí es obligatoria es en el alumbrado con lámparas de descarga y en el alumbrado exterior. La
+ITC-BT-44, apartado 3.1, para los receptores con lámparas de descarga:
 
 > «**En el caso de receptores con lámparas de descarga será obligatoria la compensación del factor
 > de potencia hasta un valor mínimo de 0,9, y no se admitirá compensación en conjunto de un grupo de
@@ -599,12 +634,38 @@ de potencia de cada punto de luz, deberá corregirse hasta un valor mayor o igua
 apartado 8, de los equipos eléctricos de los puntos de luz: «**Cada punto de luz deberá tener
 compensado individualmente el factor de potencia para que sea igual o superior a 0,90**».
 
+La instalación de los propios condensadores, sea cual sea su uso, la regula la ITC-BT-48, apartado
+2.3, «**Condensadores**»:
+
+> «**Los condensadores que no lleven alguna indicación de temperatura máxima admisible no se podrán
+> utilizar en lugares donde la temperatura ambiente sea 50 ºC o mayor.
+> Si la carga residual de los condensadores pudiera poner en peligro a las personas, llevarán un
+> dispositivo automático de descarga o se colocará una inscripción que advierta este peligro. Los
+> condensadores con dieléctrico líquido combustible cumplirán los mismos requisitos que los
+> reostatos y reactancias.
+> Para la utilización de condensadores por encima de los 2.000 m. de altitud sobre el nivel del
+> mar, deberán tomarse precauciones de acuerdo con el fabricante, según especifica la Norma UNE-EN
+> 60.831-1.
+> Los condensadores deberán estar adecuadamente protegidos, cuando se vayan a utilizar con
+> sobreintensidades superiores a 1,3 veces la intensidad correspondiente a la tensión asignada a
+> frecuencia de red, excluidos los transitorios.
+> Los aparatos de mando y protección de los condensadores deberán soportar en régimen permanente,
+> de 1,5 a 1,8 veces la intensidad nominal asignada del condensador, a fin de tener en cuenta los
+> armónicos y las tolerancias sobre las capacidades.**»
+>
+> — Real Decreto 842/2002, ITC-BT-48, apartado 2.3, redacción única.
+
+Ese 1,5 a 1,8 es la razón de que el interruptor o los fusibles de una batería se elijan muy por
+encima de su corriente nominal: con armónicos en la red (epígrafe 8.3), el condensador absorbe más
+corriente de la que da su placa.
+
 | Caso | Compensación | Valor | Fuente |
 |---|---|---|---|
 | Instalaciones en general | Potestativa, nunca capacitiva | Global automática: variación ≤ ± 10 % del valor medio | ITC-BT-43, 2.7 |
 | Receptores con lámparas de descarga | Obligatoria | Mínimo 0,9 | ITC-BT-44, 3.1 |
 | Alumbrado exterior | Obligatoria, en cada punto de luz | ≥ 0,90 | ITC-BT-09, 3 y 8 |
 | Condensadores de balastos de descarga | Resistencia de descarga | ≤ 50 V a los 60 s | ITC-BT-44, 3.2 |
+| Condensadores en general | Aparamenta de mando y protección | De 1,5 a 1,8 veces su intensidad nominal | ITC-BT-48, 2.3 |
 
 ## 7. Caída de tensión
 
@@ -666,8 +727,7 @@ Lo que hay que leer en esa cita, y es lo que un examen busca:
    instalación interior puede caer algo más, con tal de que la suma no supere la suma de los dos
    límites.
 5. Con transformador propio los porcentajes suben a 4,5 y 6,5, porque el origen se mueve a la
-   salida del transformador y el cómputo incluye un tramo que en el caso general estaba fuera. No es
-   una tolerancia mayor: es la misma tolerancia contada desde más atrás. Qué edificios de la RTVA se
+   salida del transformador y el cómputo incluye un tramo que en el caso general estaba fuera. Qué edificios de la RTVA se
    alimentan en alta tensión con transformador propio no consta en ningún documento publicado.
 
 Los límites de los tramos anteriores a la instalación interior están en sus instrucciones:
@@ -802,6 +862,16 @@ se conoce la carga que supone cada uno de los elementos asociados a las lámpara
 arranque**». Ejemplo: un circuito monofásico con 20 lámparas de descarga de 36 W suma 720 W, que
 se calculan como 1,8 · 720 = 1.296 VA, es decir, 1.296 / 230 ≈ 5,6 A.
 
+El mismo 1,8 lo fija para el alumbrado exterior la ITC-BT-09, apartado 3, «Dimensionamiento de
+las instalaciones»: «**Las líneas de alimentación a puntos de luz con lámparas o tubos de
+descarga, estarán previstas para transportar la carga debida a los propios receptores, a sus
+elementos asociados, a sus corrientes armónicas, de arranque y desequilibrio de fases. Como
+consecuencia, la potencia aparente mínima en VA, se considerará 1,8 veces la potencia en vatios de
+las lámparas o tubos de descarga.**» Y, como la ITC-BT-44, admite otro coeficiente: «**Cuando se
+conozca la carga que supone cada uno de los elementos asociados a las lámparas o tubos de
+descarga, las corrientes armónicas, de arranque y desequilibrio de fases, que tanto éstas como
+aquellos puedan producir, se aplicará el coeficiente corrector calculado con estos valores.**»
+
 ## 8. Equilibrado de cargas
 
 ### 8.1 Lo que exige el REBT
@@ -850,7 +920,7 @@ neutro se suman como vectores, no como números:
 
 - Si las tres fases llevan la misma corriente con el mismo cos φ, la suma es cero: el neutro no
   lleva corriente.
-- Si están desequilibradas, el neutro lleva la diferencia.
+- Si están desequilibradas, el neutro lleva la suma vectorial, que ya no es cero.
 - Si sólo una fase está cargada, el neutro lleva toda su corriente.
 
 Con cargas resistivas, la corriente del neutro es
@@ -954,10 +1024,11 @@ trifásico es un desequilibrio en sí mismo, que conviene compensar con el resto
   ITC-BT-15 (derivaciones individuales: caída de tensión); ITC-BT-19, apartados 2.2.1, 2.2.2, 2.2.3,
   2.2.4 y 2.5 (instalaciones interiores); ITC-BT-43, apartados 2.6 y 2.7 (receptores en general:
   desequilibrios y compensación del factor de potencia); ITC-BT-44, apartados 3.1 y 3.2
-  (receptores para alumbrado); ITC-BT-47, apartado 3 y sus subapartados 3.1 y 3.2 (motores); ITC-BT-52, apartado 3.1
+  (receptores para alumbrado); ITC-BT-47, apartado 3 y sus subapartados 3.1 y 3.2 (motores); ITC-BT-48, apartado 2.3
+  (condensadores); ITC-BT-52, apartado 3.1
   (recarga de vehículos eléctricos).
 - Normas UNE que esas instrucciones nombran y este tema no ha leído: UNE-EN 60831-1 y UNE-EN 60831-2
-  (condensadores de compensación, ITC-BT-43).
+  (condensadores de compensación, ITC-BT-43 e ITC-BT-48).
 
 ## Lo que este tema no da, y dónde está
 
@@ -995,20 +1066,21 @@ trifásico es un desequilibrio en sí mismo, que conviene compensar con el resto
 | Real Decreto 842/2002 (BOE-A-2002-18099), Reglamento, artículo 2, redacción vigente desde el 01/07/2021 (Real Decreto 298/2021, BOE-A-2021-6879) | Apartado 1, límites de tensión | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, Reglamento, artículos 4 y 16, redacción única (vigente desde el 18/09/2003) | Artículo 4, apartados 1, 2, 4 y 5; artículo 16, apartados 1 y 2 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-19, redacción única | Apartados 2.2.1, 2.2.2 (sus cuatro párrafos: límites y compensación; transformador propio; número de aparatos simultáneos; neutro), 2.2.3 (remisión a la UNE 20.460-5-523), 2.2.4 y 2.5 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-09, ITC-BT-14 e ITC-BT-15, redacción única | ITC-BT-09, apartados 3 y 8 (factor de potencia y caída de tensión); ITC-BT-14, caída de tensión y sección del neutro; ITC-BT-15, caída de tensión | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-09, ITC-BT-14 e ITC-BT-15, redacción única | ITC-BT-09, apartados 3 (coeficiente 1,8, factor de potencia y caída de tensión) y 8; ITC-BT-14, caída de tensión y sección del neutro; ITC-BT-15, caída de tensión | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-43, ITC-BT-44 e ITC-BT-47, redacción única | ITC-BT-43, apartados 2.6 y 2.7; ITC-BT-44, apartados 3.1 y 3.2; ITC-BT-47, apartado 3 (frase de entrada), 3.1 y 3.2 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-48, redacción única | Apartado 2.3, condensadores | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-52, redacción vigente desde el 16/06/2022 (BOE-A-2022-9848) | Apartado 3.1 (aparcamientos de viviendas unifamiliares), reparto de estaciones monofásicas entre fases | En el BOE consolidado, 05/10/2026 |
 
 El BOE consolidado del REBT da como última actualización el 18/12/2025; ninguno de los preceptos
 citados ha cambiado desde las fechas indicadas.
 
-Son física elemental, y así se declaran, sin atribuirlas a la norma: la ley de Ohm y la asociación
-de resistencias; la resistencia de un conductor y su variación con la temperatura; el efecto Joule;
+Son física elemental, y así se declaran, sin atribuirlas a la norma: la ley de Ohm, las leyes de
+Kirchhoff y la asociación de resistencias; la resistencia de un conductor y su variación con la temperatura; el efecto Joule;
 las magnitudes de la señal alterna, la relación entre valor eficaz y de pico y los números de la red
 de 50 Hz; las reactancias, la impedancia y el desfase; las conexiones en estrella y triángulo y la
-raíz de tres entre 230 y 400 V; las tres potencias, el triángulo de potencias y las fórmulas de
-intensidad; la energía, el kilovatio hora y el rendimiento; el cálculo de la batería de
-condensadores; las fórmulas de caída de tensión y de sección; la corriente del neutro y la suma de
+raíz de tres entre 230 y 400 V; las tres potencias, el triángulo de potencias, la suma de potencias de
+varios receptores (Boucherot) y las fórmulas de intensidad; la energía, el kilovatio hora y el rendimiento; el cálculo de la batería de
+condensadores y de su capacidad en estrella y en triángulo; las fórmulas de caída de tensión y de sección; la corriente del neutro y la suma de
 los armónicos de orden tres. Ninguna está en el REBT.
 
 El resto va como oficio y así se declara: que un cálculo de instalación acaba en la ley de Ohm; que
@@ -1017,5 +1089,7 @@ kilovoltamperios; las consecuencias de un factor de potencia bajo y de una caíd
 ventajas de cada forma de compensación; la regla de los dos criterios de sección y de que la
 longitud sólo cuenta en la caída; los avisos sobre la reactancia de la línea y la conductividad a
 temperatura de servicio; los efectos del desequilibrio y del neutro cortado; el procedimiento para
-equilibrar un cuadro y las dos advertencias finales. Nada de eso lo dice la norma con esas palabras,
+equilibrar un cuadro y las dos advertencias finales; que las baterías trifásicas se conectan en
+triángulo; que la aparamenta de una batería se elige muy por encima de su corriente nominal por
+los armónicos. Nada de eso lo dice la norma con esas palabras,
 y el tema no lo presenta como si lo dijera.

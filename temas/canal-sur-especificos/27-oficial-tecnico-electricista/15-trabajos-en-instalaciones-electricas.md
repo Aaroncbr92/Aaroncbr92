@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 15 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente al riesgo eléctrico (artículos 1 a 6 y anexos I a VI). Ley 31/1995, de Prevención de Riesgos Laborales (artículos 24 y 32 bis). Real Decreto 171/2004, de 30 de enero, de coordinación de actividades empresariales. Real Decreto 39/1997, Reglamento de los Servicios de Prevención (artículo 22 bis). Guía técnica del INSST para la evaluación y prevención del riesgo eléctrico (4.ª edición, 2020), que no es vinculante. Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud y seguridad de los trabajadores frente al riesgo eléctrico (artículos 1 a 6 y anexos I a VI). Ley 31/1995, de Prevención de Riesgos Laborales (artículos 24 y 32 bis). Real Decreto 171/2004, de 30 de enero, de coordinación de actividades empresariales. Real Decreto 39/1997, Reglamento de los Servicios de Prevención (artículo 22 bis). Guía técnica del INSST para la evaluación y prevención del riesgo eléctrico (edición de septiembre de 2020), que no es vinculante. Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. El Real Decreto 614/2001 tiene una sola redacción, la original, en vigor desde el 21/08/2001; el Real Decreto 171/2004, una sola, en vigor desde el 30/04/2004 |
-| **Extensión** | Unas 15.900 palabras |
+| **Extensión** | Unas 16.600 palabras |
 
 <!-- /portada -->
 
@@ -46,6 +46,7 @@ a tierra; la reposición de la tensión y sus cuatro pasos; las disposiciones pa
 condensadores, transformadores y máquinas; las zonas de peligro y de proximidad y la fila de BT de la
 tabla 1 (50, 50, 70 y 300 cm), con la interpolación; los requisitos de los trabajos en tensión, los
 adicionales en AT (autorización por escrito, renovación tras un año) y la reposición de fusibles;
+los tres métodos de trabajo en tensión de la guía del INSST y las clases de los guantes aislantes;
 los trabajos en proximidad, quién decide su viabilidad y cuándo no es exigible la vigilancia; el
 acceso a recintos de servicio eléctrico, entre ellos las salas de control; lo que hay por escrito en
 la norma y en la guía del INSST sobre el permiso para trabajar; el artículo 24 de la LPRL, las
@@ -273,7 +274,7 @@ Quién puede hacer qué, según los anexos (cuadro de elaboración propia sobre 
 | Maniobras locales | Autorizado | Autorizado | Anexo IV.A.1 |
 | Mediciones, ensayos y verificaciones | Autorizado | Cualificado, que puede ser auxiliado por autorizados bajo su supervisión | Anexo IV.A.1 |
 | Determinar la viabilidad de un trabajo en proximidad | Autorizado | Cualificado | Anexo V.A.1.1 |
-| Trabajo en proximidad cuando las medidas no bastan | Autorizado, o bajo la vigilancia de uno | Autorizado, o bajo la vigilancia de uno | Anexo V.A.2.1 |
+| Trabajo en proximidad cuando las medidas no bastan | Autorizado, o bajo la vigilancia de uno; en BT la vigilancia no es exigible | Autorizado, o bajo la vigilancia de uno (no exigible fuera de la zona de proximidad) | Anexo V.A.2.1 y 2 |
 | Acceso a recintos de servicio eléctrico | Autorizado, o personal informado bajo su vigilancia continuada | Igual | Anexo V.B.1.1 |
 | Apertura de envolventes de material eléctrico | Autorizado | Autorizado | Anexo V.B.1.2 |
 | Trabajos en emplazamientos con riesgo de incendio o explosión | Autorizado; cualificado si se trabaja en atmósfera explosiva | Igual | Anexo VI.A.3 |
@@ -621,7 +622,7 @@ de la zona de trabajo, y en cada uno de los conductores que entran en esta zona�
 equipo visible desde la zona de trabajo, y sus excepciones. Es trabajo de distribución, poco
 probable en el puesto.
 
-*Condensadores (B.3)*, cuando **«cuya capacidad y tensión permitan una acumulación peligrosa
+*Condensadores (B.3)*: para dejar sin tensión una instalación con condensadores **«cuya capacidad y tensión permitan una acumulación peligrosa
 de energía eléctrica»**:
 
 > «**a) Se efectuará y asegurará la separación de las posibles fuentes de tensión mediante su
@@ -643,7 +644,8 @@ da su documentación.
 *Transformadores y máquinas en AT (B.4)*: en un transformador de potencia o de tensión, **«se
 dejarán sin tensión todos los circuitos del primario y todos los circuitos del secundario»**, si se
 puede separando primero los de menor tensión, y **«Para la reposición de la tensión se procederá
-inversamente.»** En un transformador de intensidad, **«Se prohíbe la apertura de los circuitos
+inversamente.»** En un transformador de intensidad: **«Para trabajar sin tensión en un transformador
+de intensidad, o sobre los circuitos que alimenta, se dejará previamente sin tensión el primario. Se prohíbe la apertura de los circuitos
 conectados al secundario estando el primario en tensión, salvo que sea necesario por alguna causa, en
 cuyo caso deberán cortocircuitarse los bornes del secundario.»** Y antes de manipular el interior de
 un motor eléctrico o generador debe comprobarse:
@@ -790,6 +792,60 @@ fusible y el material de aquél ofrezca una protección completa contra los cont
 efectos de un posible arco eléctrico.»** En AT no se exige la parte B si se maniobra a distancia con
 pértigas y con protección frente a cortocircuito o contacto.
 
+*Métodos de trabajo en tensión.* No los nombra la norma, sino la guía del INSST en sus comentarios al
+anexo III.A.2: **«Existen tres métodos de trabajo en tensión para garantizar la seguridad de los
+trabajadores que los realizan:»**
+
+- **«a) Método de trabajo a potencial, empleado principalmente en instalaciones y líneas de transporte
+  de alta tensión.»**
+- **«b) Método de trabajo a distancia, utilizado principalmente en instalaciones de alta tensión en la
+  gama media de tensiones.»**
+- **«c) Método de trabajo en contacto empleando equipos de protección individual adecuados, utilizado
+  principalmente en baja tensión, aunque también se emplea en la gama baja de alta tensión.»**
+
+Añade la guía que **«Dentro de cada uno de dichos métodos es preciso desarrollar procedimientos
+específicos para cada tipo de trabajo a realizar»** y que **«En alta tensión, estos procedimientos
+deberán plasmarse por escrito»**. El método que corresponde a los cuadros de BT del puesto es el de
+contacto: **«Este método, que requiere la utilización de guantes aislantes en las manos, se emplea
+principalmente en baja tensión.»** Exige además que las herramientas manuales (alicates,
+destornilladores, llaves) tengan el recubrimiento aislante conforme a sus normas técnicas. Las
+precauciones que la guía enumera para BT: **«Mantener las manos protegidas mediante guantes
+aislantes adecuados.»**; trabajar sobre alfombra o banqueta aislantes que den apoyo seguro y estable;
+**«Vestir ropa de trabajo sin cremalleras u otros elementos conductores, y diseñada para el riesgo de
+arco eléctrico.»**; **«No portar pulseras, cadenas u otros elementos conductores.»**; usar
+herramientas aisladas, **«específicamente diseñadas para estos trabajos»**; y aislar, en la medida de
+lo posible, las partes activas y elementos metálicos de la zona de trabajo con protectores (fundas,
+capuchones, películas plásticas aislantes). Los EPI que la guía manda considerar en el método en
+contacto: **«Guantes aislantes y, si es preciso, manguitos aislantes.»**, **«Guantes de protección
+contra riesgos mecánicos.»**, **«Gafas o pantalla facial adecuadas al arco eléctrico.»** y **«Casco
+aislante con barboquejo.»**; y, de forma complementaria, ropa diseñada para el riesgo de arco y
+calzado de seguridad.
+
+*Clases de los EPI y normas de los equipos.* La guía (tabla 2, equipos de protección individual
+frente al choque eléctrico) da para los guantes aislantes (**«UNE-EN 60903. Trabajos en tensión.
+Guantes de material aislante»**) y los manguitos aislantes (UNE-EN 60984) estas clases:
+
+| Clase | Tensión alterna (kV) | Tensión continua (kV) |
+| --- | --- | --- |
+| 00 | < 0,5 | < 0,75 |
+| 0 | < 1 | < 1,5 |
+| 1 | < 7,5 | < 11,25 |
+| 2 | < 17 | < 25,5 |
+| 3 | < 26,5 | < 39,75 |
+| 4 | < 36 | < 54 |
+
+En la misma tabla, el casco aislante (**«UNE-EN 50365 Cascos eléctricamente aislantes para su
+utilización en instalaciones de baja tensión»**) es de clase 0, para menos de 1000 V en alterna y
+1500 V en continua, y la ropa aislante (UNE-EN 50286) de clase 00, para menos de 500 V en alterna y
+750 V en continua. Entre las normas de los útiles aislantes y aislados (cuadro 7) figura
+**«UNE-EN 60900 Trabajos en tensión. Herramientas manuales para trabajos en tensión hasta 1000 V en
+corriente alterna y 1500 V en corriente continua.»** La guía advierte que de las normas que cita
+**«debe considerarse la última edición, salvo en los casos en que se especifique la fecha de
+publicación»**, y que es la evaluación de riesgos la que determina qué
+EPI son necesarios y qué nivel de protección deben ofrecer. La elección por clase sigue la regla del
+anexo III.A.3 (**«en particular, la tensión de servicio»**): un cuadro de 400 V en alterna queda por
+debajo del límite de la clase 00 (0,5 kV), lectura propia sobre la tabla.
+
 La autorización por escrito y la renovación tras más de un año son de AT. En BT la norma exige
 trabajador cualificado y procedimiento previamente estudiado, sin decir que la autorización conste
 por escrito; que conste así es lo prudente (epígrafe 5).
@@ -821,8 +877,10 @@ No son trabajo en tensión (definición 8), pero tienen régimen propio:
 Medir una tensión o una intensidad en un cuadro en servicio es, pues, una medición del anexo IV, que
 puede hacer un autorizado; pero si las puntas de prueba entran en la zona de peligro de otros
 elementos, el artículo 4.6 aplica el régimen del trabajo en tensión o en proximidad. La guía lo
-explica: aunque se invada la zona de peligro **«solamente por un instante»**, la operación se
-transformaría en **«trabajo en tensión»** o en **«trabajo en proximidad»**.
+explica con un criterio doble: aunque fuera **«solamente por un instante»**, la operación se transformaría en
+**«trabajo en tensión»** si tuviera que ocuparse la zona de peligro, y en **«trabajo en proximidad»** si esa
+zona pudiera invadirse accidentalmente; queda entonces regulada por los apartados 5 o 7 del artículo 4
+(anexos III y V).
 
 ### 4.4 Trabajos en proximidad: anexo V
 
@@ -1337,8 +1395,8 @@ procedimiento publicado de coordinación de actividades empresariales, no se ha 
 - Los efectos de la corriente en el cuerpo humano, los contactos directos e indirectos y el riesgo
   eléctrico como riesgo del puesto: temas 5 y 19. Ninguna cifra de intensidad, tiempo o resistencia
   del cuerpo se da aquí.
-- Las clases de guantes aislantes, la normativa de EPI y de herramienta aislada: no leídas; tema 19
-  para los EPI en general.
+- Las normas UNE-EN de EPI y de herramienta aislada, en su texto: no leídas; el tema da sólo lo que
+  de ellas recoge la guía del INSST (clases y campo de aplicación). Tema 19 para los EPI en general.
 - Los detectores de tensión, las categorías de medida y el manejo de instrumentos: tema 14.
 - La redundancia de alimentaciones, los SAI y los grupos: temas 7 y 8. La planificación de
   intervenciones, las ventanas de mantenimiento y el retorno al servicio: tema 17. Las órdenes de
@@ -1357,7 +1415,7 @@ procedimiento publicado de coordinación de actividades empresariales, no se ha 
 | Fuente | Qué se ha tomado | Leída |
 | --- | --- | --- |
 | Real Decreto 614/2001 (BOE-A-2001-11881), redacción única, vigente desde el 21/08/2001 | Artículos 1 a 6; disposición final primera; anexo I (definiciones 1, 3 a 15 y tabla 1 con sus notas); anexos II a VI | En el BOE consolidado (volcado de 25/09/2026), 05/10/2026 |
-| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, edición de septiembre de 2020 (cuarta, según su histórico de revisiones: 2003, 2004, 2014) | Comentarios al artículo 4 (4.4 b y 4.6), al anexo I (definiciones 14 y 15), al anexo II (cinco etapas, permiso en AT, desconexión, bloqueo, verificación, puesta a tierra en BT, quinta etapa, reposición), al anexo III.A.6 y al anexo V (A.2 y B.1); títulos de la figura 1 y del ejemplo de boletín | 05/10/2026 |
+| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, edición de septiembre de 2020 (su histórico de revisiones recoge noviembre de 2003, abril de 2004 y mayo de 2014) | Comentarios al artículo 4 (4.4 b y 4.6), al anexo I (definiciones 14 y 15), al anexo II (cinco etapas, permiso en AT, desconexión, bloqueo, verificación, puesta a tierra en BT, quinta etapa, reposición), al anexo III.A.2 (los tres métodos; el método en contacto, sus precauciones y EPI), al anexo III.A.3 (tabla 2 de EPI frente al choque eléctrico y cuadro 7 de normas), al anexo III.A.6 y al anexo V (A.2 y B.1); apartado de normas técnicas (última edición); títulos de la figura 1 y del ejemplo de boletín | 05/10/2026 |
 | Real Decreto 39/1997 (BOE-A-1997-1853), artículo 22 bis en redacción única, vigente desde el 29/06/2006 | Apartados 1, 2, 3, 8 y 9 (releídos para los pasajes adaptados del epígrafe 6.5) | 05/10/2026 |
 | Real Decreto 171/2004 (BOE-A-2004-1848), redacción única, vigente desde el 30/04/2004 | Artículos 4.2, 7.3 y 8.4 (cuadro del epígrafe 6.6) y disposición final segunda (entrada en vigor) | 05/10/2026 |
 | Real Decreto 842/2002 (BOE-A-2002-18099) | ITC-BT-29: título y apartado 4 (clasificación de emplazamientos) | 05/10/2026 |
@@ -1372,7 +1430,7 @@ Son oficio o lectura propia, y así se declaran, sin atribuirlos a la norma: el 
 lista de fuentes de un edificio audiovisual (red, grupo, SAI, doble fuente); el candado personal por
 trabajador; la razón de comprobar el detector después; la explicación de por qué la puesta a tierra
 protege de lo que puede volver y por qué importa el orden; la extensión de la lista del anexo II.B.4
-a grupos de BT; los ejemplos de aplicación de las zonas; la lectura sobre las salas de control de
+a grupos de BT; que la clase 00 de guantes cubre un cuadro de 400 V; los ejemplos de aplicación de las zonas; la lectura sobre las salas de control de
 producción y sobre las salas de cuadros, SAI y grupo como recintos de servicio eléctrico; los ejemplos de emplazamientos del anexo VI; los cuadros de quién hace qué y de decisión
 del régimen (elaborados sobre el texto); el contenido y las reglas del permiso de trabajo; y el
 cuadro de coordinación aplicada al mantenimiento.

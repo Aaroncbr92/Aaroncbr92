@@ -1,0 +1,55 @@
+{{Add-ch-menu|G}}__TOC__
+The following methods are based on rules laid down in the IEC standards, and are representative of the practices in many countries. 
+
+== General rules  ==
+
+A protective device (circuit-breaker or fuse) functions correctly if: 
+
+*Its nominal current or its setting current In is greater than the maximum load current IB but less than the maximum permissible current Iz for the circuit, i.e. IB ≤ In ≤ Iz corresponding to zone “a” in {{FigureRef|G6}}
+*Its tripping current I2 “conventional” setting is less than 1.45 Iz which corresponds to zone “b” in {{FigureRef|G6}}
+: The “conventional” setting tripping time may be 1 hour or 2 hours according to local standards and the actual value selected for I2. For fuses, I2 is the current (denoted If) which will operate the fuse in the conventional time.
+*Its 3-phase short-circuit fault-current breaking rating is greater than the 3-phase short-circuit current existing at its point of installation. This corresponds to zone “c” in {{FigureRef|G6}}.
+
+{{FigImage|DB422285_EN|svg|G6|Current levels for determining circuir breaker or fuse characteristics}}
+
+== Applications ==
+
+=== Protection by circuit-breaker ===
+
+{{Highlightbox|
+Criteria for circuit-breakers: IB ≤ In ≤ Iz and ISCB ≥ ISC.}}
+
+By virtue of its high level of precision the current I2 is always less than 1.45 In (or 1.45 Ir) so that the condition I2 ≤ 1.45 Iz (as noted in the “general rules” above) will always be respected.
+* Particular case
+:If the circuit-breaker itself does not protect against overloads, it is necessary to ensure that, at a time of lowest value of short-circuit current, the overcurrent device protecting the circuit will operate correctly. This particular case is examined in [[Calculation of minimum levels of short-circuit current]]. 
+
+=== Protection by fuses ===
+
+{{Highlightbox|
+Criteria for fuses: IB ≤ In ≤ Iz/k3 and ISCF ≥ ISC.}}
+
+The condition I2 ≤ 1.45 Iz must be taken into account, where I2 is the fusing (melting level) current, equal to k2 x In (k2 ranges from 1.6 to 1.9) depending on the particular fuse concerned.
+
+A further factor k3 has been introduced <math>\left ( k3=\frac{k2}{1.45} \right )</math> 
+
+such that I2 ≤ 1.45 Iz will be valid if In ≤ Iz/k3.
+
+For fuses type gG:
+
+In < 16 A → k3 = 1.31
+
+In ≥ 16 A → k3 = 1.10
+
+Moreover, the short-circuit current breaking capacity of the fuse ISCF must exceed the level of 3-phase short-circuit current at the point of installation of the fuse(s). 
+
+=== Association of different protective devices ===
+
+The use of protective devices which have fault-current ratings lower than the fault level existing at their point of installation are permitted by IEC and many national standards in the following conditions:
+*There exists upstream, another protective device which has the necessary short-circuit rating, and
+*The amount of energy allowed to pass through the upstream device is less than that which can be withstood without damage by the downstream device and all associated cabling and appliances.
+
+In pratice this arrangement is generally exploited in:
+*The association of circuit-breakers/fuses
+*The technique known as “cascading” or “series rating” in which the strong current-limiting performance of certain circuit-breakers effectively reduces the severity of downstream short-circuits
+
+Possible combinations which have been tested in laboratories are indicated in certain manufacturers catalogues.

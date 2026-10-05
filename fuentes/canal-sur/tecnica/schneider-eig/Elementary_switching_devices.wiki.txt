@@ -1,0 +1,286 @@
+{{Add-ch-menu|H}}__TOC__
+== Disconnector (or isolator)  ==
+
+(see {{FigRef|H3}})
+
+This switch is a manually-operated, lockable, two-position device (open/closed) which provides safe isolation of a circuit when locked in the open position. Its characteristics are defined in IEC 60947-3. A disconnector is not designed to make or to break current{{fn|1}} and no rated values for these functions are given in standards. It must, however, be capable of withstanding the passage of short-circuit currents and is assigned a rated short-time withstand capability, generally for 1 second, unless otherwise agreed between user and manufacturer. This capability is normally more than adequate for longer periods of (lower-valued) operational overcurrents, such as those of motor-starting. Standardized mechanical-endurance, overvoltage, and leakage-current tests, must also be satisfied. 
+
+{{FigImage|DB422390|svg|H3|Symbol for a disconnector (or isolator)}}
+
+== Load-breaking switch  ==
+
+(see {{FigRef|H4}})
+
+This control switch is generally operated manually (but is sometimes provided with electrical tripping for operator convenience) and is a non-automatic two-position device (open/closed).
+
+It is used to close and open loaded circuits under normal unfaulted circuit conditions.
+
+It does not consequently, provide any protection for the circuit it controls. 
+
+IEC standard 60947-3 defines: 
+*The frequency of switch operation (600 close/open cycles per hour maximum) 
+*Mechanical and electrical endurance (generally less than that of a contactor) 
+*Current making and breaking ratings for normal and infrequent situations
+
+When closing a switch to energize a circuit there is always the possibility that an unsuspected short-circuit exists on the circuit. For this reason, load-break switches are assigned a fault-current making rating, i.e. successful closure against the electrodynamic forces of short-circuit current is assured. Such switches are commonly referred to as “fault-make load-break” switches. Upstream protective devices are relied upon to clear the short-circuit fault 
+
+{{FigImage|DB422391|svg|H4|Symbol for a load-break switch}}
+
+Category AC-23 includes occasional switching of individual motors. The switching of capacitors or of tungsten filament lamps shall be subject to agreement between manufacturer and user.
+
+The utilization categories referred to in {{FigureRef|H5}} do not apply to an equipment normally used to start, accelerate and/or stop individual motors. 
+
+=== Example ===
+
+A 100 A load-break switch of category AC-23 (inductive load) must be able: 
+*To make a current of 10 In (= 1,000 A) at a power factor of 0.35 lagging 
+*To break a current of 8 In (= 800 A) at a power factor of 0.45 lagging 
+*To withstand short duration short-circuit currents when closed
+
+{{tb-start|id=Tab1262|num=H5|title=Utilization categories of LV AC switches according to IEC 60947-3|cols=5}}
+{| class="wikitable"
+|-
+! colspan="2" | Utilization category 
+! rowspan="2" | Typical applications 
+! rowspan="2" | Cos ϕ
+! rowspan="2" | Making current x In 
+! rowspan="2" | Breaking current x In
+|-
+! Frequent operations 
+! Infrequent operations
+|-
+| AC-20A 
+| AC-20B 
+| Connecting and disconnecting under no-load conditions 
+| - 
+| - 
+| -
+|-
+| AC-21A 
+| AC-21B 
+| Switching of resistive loads including moderate overloads 
+| 0.95 
+| 1.5 
+| 1.5
+|-
+| AC-22A 
+| AC-22B 
+| Switching of mixed resistive <br>and inductive loads, including moderate overloads 
+| 0.65 
+| 3 
+| 3
+|-
+| AC-23A 
+| AC-23B 
+| Switching of motor loads or other highly inductive loads 
+| 0.45 for I ≤ 100 A <br>0.35 for I > 100 A 
+| 10 
+| 8
+|}
+
+== Impulse relay ==
+
+(see {{FigRef|H6}})  
+
+This device is extensively used in the control of lighting circuits where the depression of a pushbutton (at a remote control position) will open an already-closed switch or close an opened switch in a bistable sequence.
+
+Typical applications are: 
+* Two way or more switching points in stairways, corridors in housing or commercial building
+* Large space (open space) in office building
+* Industrial facilities.
+
+Auxiliary devices are available to provide: 
+*Remote indication of its state at any instant 
+*Time-delay functions 
+*Maintained-contact features
+
+{{FigImage|DB422392_EN|svg|H6|Symbol for a bistable remote control switch (impulse relay)}}
+
+== Contactor  ==
+
+(see {{FigRef|H7}}) 
+
+The contactor is a solenoid-operated switching device which is generally held closed by (a reduced) current through the closing solenoid (although various mechanically-latched types exist for specific duties). Contactors are designed to carry out numerous close/open cycles and are commonly controlled remotely by on-off pushbuttons. The large number of repetitive operating cycles is standardized in table VIII of IEC 60947-4-1 by: 
+*The operating duration: 8 hours; uninterrupted; intermittent; temporary of 3, 10, 30, 60 and 90 minutes 
+*Utilization category: for example, a contactor of category AC3 can be used for the starting and stopping of a cage motor 
+*The start-stop cycles (1 to 1,200 cyles per hour) 
+*Mechanical endurance (number of off-load manœuvres) 
+*Electrical endurance (number of on-load manœuvres) 
+*A rated current making and breaking performance according to the category of utilization concerned
+
+{{FigImage|DB422393_EN|svg|H7|Symbol for a monostable remote control switch (contactor, relay)}}
+
+=== Example: ===
+A 150 A contactor of category AC3 must have a minimum current-breaking capability of 8 In (= 1,200 A) and a minimum current-making rating of 10 In (= 1,500 A) at a power factor (lagging) of 0.35.
+
+== Discontactor{{fn|2}}  ==
+
+A contactor equipped with a thermal-type relay for protection against overloading defines a “discontactor”. Discontactors are used and considered as an essential element in a motor controller, as noted in [[combined switchgear elements]]. The discontactor is not the equivalent of a circuit-breaker, since its shortcircuit current breaking capability is limited to 8 or 10 In. For short-circuit protection therefore, it is necessary to include either fuses or a circuit-breaker in series with,and upstream of, the discontactor contacts.
+
+== Integrated control circuit breaker == 
+
+“Integrated control circuit breaker” is a single device which combines the following main and additional functions :
+* Circuit breaker for cables protection
+* Remote control by latched or/and impulse type orders
+* Remote indication of status
+* Interface compatible with building management system
+
+That type of device allows simplifying design and implementation in switchboard.
+
+== Fuses  ==
+
+(see {{FigRef|H8}}) 
+
+{{FigImage|DB422394|svg|H8|Symbol for fuses}}
+
+{{Highlightbox|
+Two classes of LV cartridge fuse are very widely used: 
+*For domestic and similar installations type gG 
+*For industrial installations type gG, gM or aM}}
+
+The first letter indicates the breaking range: 
+*“g” fuse-links (full-range breaking-capacity fuse-link) 
+*“a” fuse-links (partial-range breaking-capacity fuse-link)
+
+The second letter indicates the utilization category; this letter defines with accuracy the time-current characteristics, conventional times and currents, gates.
+
+For example
+*“gG” indicates fuse-links with a full-range breaking capacity for general application 
+*“gM” indicates fuse-links with a full-range breaking capacity for the protection of motor circuits 
+*“aM” indicates fuse-links with a partial range breaking capacity for the protection of motor circuits
+
+Fuses exist with and without “fuse-blown” mechanical indicators. Fuses break a circuit by controlled melting of the fuse element when a current exceeds a given value for a corresponding period of time; the current/time relationship being presented in the form of a performance curve for each type of fuse. Standards define two classes of fuse: 
+*Those intended for domestic installations, manufactured in the form of a cartridge for rated currents up to 100 A and designated type gG in IEC 60269-1 and 3 
+*Those for industrial use, with cartridge types designated gG (general use); and gM and aM (for motor-circuits) in IEC 60269-1 and 2
+
+The main differences between domestic and industrial fuses are the nominal voltage and current levels (which require much larger physical dimensions) and their fault-current breaking capabilities. Type gG fuse-links are often used for the protection of motor circuits, which is possible when their characteristics are capable of withstanding the motor-starting current without deterioration.
+
+A more recent development has been the adoption by the IEC of a fuse-type gM for motor protection, designed to cover starting, and short-circuit conditions. This type of fuse is more popular in some countries than in others, but at the present time the aM fuse in combination with a thermal overload relay is more-widely used. 
+
+A gM fuse-link, which has a dual rating is characterized by two current values. The first value In denotes both the rated current of the fuse-link and the rated current of the fuseholder; the second value Ich denotes the time-current characteristic of the fuse-link as defined by the gates in Tables II, III and VI of IEC 60269-1.
+
+These two ratings are separated by a letter which defines the applications.
+
+For example: In M Ich denotes a fuse intended to be used for protection of motor circuits and having the characteristic G. The first value In corresponds to the maximum continuous current for the whole fuse and the second value Ich corresponds to the G characteristic of the fuse link. 
+
+An aM fuse-link is characterized by one current value In and time-current characteristic as shown in {{FigureRef|H11}}.
+
+'''Important:''' Some national standards use a gI (industrial) type fuse, similar in all main essentails to type gG fuses.
+
+Type gI fuses should never be used, however, in domestic and similar installations.
+
+== Fusing zones - conventional currents  ==
+
+{{Highlightbox|
+gM fuses require a separate overload relay, as described in the note at the end of [[LV switchgear: functions and selection#Elementary switching devices|Elementary switching devices]].}}
+
+The conditions of fusing (melting) of a fuse are defined by standards, according to their class.
+
+=== Class gG fuses ===
+These fuses provide protection against overloads and short-circuits.Conventional non-fusing and fusing currents are standardized, as shown in {{FigureRef|H9|H10}}. 
+
+{{FigImage|DB422395_EN|svg|H9|Zones of fusing and non-fusing for gG and gM fuses}}
+
+*The conventional non-fusing current Inf is the value of current that the fusible element can carry for a specified time without melting.
+:Example: A 32 A fuse carrying a current of 1.25 In (i.e. 40 A) must not melt in less than one hour ({{FigRef|H10}}) 
+*The conventional fusing current If (= I2 in {{FigRef|H9}}) is the value of current which will cause melting of the fusible element before the expiration of the specified time.
+: Example: A 32 A fuse carrying a current of 1.6 In (i.e. 52.1 A) must melt in one hour or less IEC 60269-1 standardized tests require that a fuse-operating characteristic lies between the two limiting curves (shown in {{FigureRef|H9}}) for the particular fuse under test. This means that two fuses which satisfy the test can have significantly different operating times at low levels of overloading. 
+
+{{tb-start|id=Tab1263|num=H10|title=Zones of fusing and non-fusing for LV types gG and gM class fuses (IEC 60269-1 and 60269-2-1)|cols=4}}
+{| class="wikitable"
+|-
+! Rated current{{tn|A}}
+In (A) 
+! Conventional non-fusing current Inf 
+! Conventional fusing current I2
+! Conventional time (h)
+|-
+| In ≤ 4 A 
+| 1.5 In 
+| 2.1 In 
+| 1
+|-
+| 4 < In < 16 A 
+| 1.5 In 
+| 1.9 In 
+| 1
+|-
+| 16 < In ≤ 63 A 
+| 1.25 In 
+| 1.6 In 
+| 1
+|-
+| 63 < In ≤ 160 A 
+| 1.25 In 
+| 1.6 In 
+| 2
+|-
+| 160 < In ≤ 400 A 
+| 1.25 In 
+| 1.6 In 
+| 3
+|-
+| 400 < In 
+| 1.25 In 
+| 1.6 In 
+| 4
+|}
+{{tb-notes
+|A= Ich for gM fuses}}
+
+*The two examples given above for a 32 A fuse, together with the foregoing notes on standard test requirements, explain why these fuses have a poor performance in the low overload range 
+*It is therefore necessary to install a cable larger in ampacity than that normally required for a circuit, in order to avoid the consequences of possible long term overloading (60% overload for up to one hour in the worst case)
+
+By way of comparison, a circuit-breaker of similar current rating: 
+
+*Which passes 1.05 In must not trip in less than one hour; and 
+*When passing 1.25 In it must trip in one hour, or less (25% overload for up to one hour in the worst case)
+
+=== Class aM (motor) fuses === 
+
+{{Highlightbox|
+Class aM fuses protect against short-circuit currents only, and must always be associated with another device which protects against overload }}
+
+These fuses afford protection against short-circuit currents only and must necessarily be associated with other switchgear (such as discontactors or circuit-breakers) in order to ensure overload protection &lt; 4 In. They are not therefore autonomous. Since aM fuses are not intended to protect against low values of overload current, no levels of conventional non-fusing and fusing currents are fixed. The characteristic curves for testing these fuses are given for values of fault current exceeding approximately 4 In (see {{FigRef|H11}}), and fuses tested to IEC 60269 must give operating curves which fall within the shaded area. 
+
+{{FigImage|DB422396_EN|svg|H11|Standardized zones of fusing for type aM fuses (all current ratings)}}
+
+'''Note:''' the small “arrowheads” in the diagram indicate the current/time “gate” values for the different fuses to be tested (IEC 60269).
+
+== Rated short-circuit breaking currents  ==
+
+A characteristic of modern cartridge fuses is that, owing to the rapidity of fusion in the case of high short-circuit current levels{{fn|3}}, a current cut-off begins before the occurrence of the first major peak, so that the fault current never reaches its prospective peak value (see {{FigRef|H12}}). 
+
+{{FigImage|DB422397_EN|svg|H12|Current limitation by a fuse}}
+
+This limitation of current reduces significantly the thermal and dynamic stresses which would otherwise occur, thereby minimizing danger and damage at the fault position. The rated short-circuit breaking current of the fuse is therefore based on the rms value of the AC component of the prospective fault current.
+
+No short-circuit current-making rating is assigned to fuses.
+
+=== Reminder ===
+Short-circuit currents initially contain DC components, the magnitude and duration of which depend on the XL/R ratio of the fault current loop.
+
+Close to the source (MV/LV transformer) the relationship Ipeak / Irms (of AC component) immediately following the instant of fault, can be as high as 2.5 (standardized by IEC, and shown in {{FigureRef|H13}}). 
+
+{{FigImage|DB422398_EN|svg|H13|Limited peak current versus prospective rms values of the AC component of fault current for LV fuses}}
+
+At lower levels of distribution in an installation, as previously noted, XL is small compared with R and so for final circuits Ipeak / Irms ~ 1.41, a condition which corresponds with {{FigureRef|H12}}.
+
+The peak-current-limitation effect occurs only when the prospective rms AC component of fault current attains a certain level. For example, in the {{FigureRef|H13}} graph, the 100 A fuse will begin to cut off the peak at a prospective fault current (rms) of 2kA (a). The same fuse for a condition of 20 kA rms prospective current will limit the peak current to 10 kA (b). Without a current-limiting fuse the peak current could attain 50 kA (c) in this particular case. As already mentioned, at lower distribution levels in an installation, R greatly predominates XL, and fault levels are generally low. This means that the level of fault current may not attain values high enough to cause peak current limitation. On the other hand, the DC transients (in this case) have an insignificant effect on the magnitude of the current peak, as previously mentioned.
+
+'''Note:''' On gM fuse ratings
+
+A gM type fuse is essentially a gG fuse, the fusible element of which corresponds to the current value Ich (ch = characteristic) which may be, for example, 63 A. This is the IEC testing value, so that its time/ current characteristic is identical to that of a 63A gG fuse.
+
+This value (63 A) is selected to withstand the high starting currents of a motor, the steady state operating current (In) of which may be in the 10-20 A range.
+
+This means that a physically smaller fuse barrel and metallic parts can be used, since the heat dissipation required in normal service is related to the lower figures (10-20 A). A standard gM fuse, suitable for this situation would be designated 32M63 (i.e. In M Ich).
+
+The first current rating In concerns the steady-load thermal performance of the fuselink, while the second current rating (Ich) relates to its (short-time) starting-current performance. It is evident that, although suitable for short-circuit protection, overload protection for the motor is not provided by the fuse, and so a separate thermal-type relay is always necessary when using gM fuses. The only advantage offered by gM fuses, therefore, when compared with aM fuses, are reduced physical dimensions and slightly lower cost. 
+
+{{footnotes}}
+<references>
+{{fn-detail|1|i.e. a LV disconnector is essentially a dead system switching device to be operated with no voltage on either side of it, particularly when closing, because of the possibility of an unsuspected short-circuit on the downstream side. Interlocking with an upstream switch or circuit-breaker is frequently used.}}
+{{fn-detail|2|This term is not defined in IEC publications but is commonly used in some countries.}}
+{{fn-detail|3|For currents exceeding a certain level, depending on the fuse nominal current rating, as shown  in {{FigureRef|H16}}.}}
+</references>

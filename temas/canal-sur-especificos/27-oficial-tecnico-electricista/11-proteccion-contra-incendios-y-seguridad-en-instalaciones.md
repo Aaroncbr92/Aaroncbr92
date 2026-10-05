@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): artículos 1, 2, 9, 19 a 22, anexo I (secciones 1.ª y 2.ª y apéndice) y anexo II. Real Decreto 164/2025, de 4 de marzo (BOE-A-2025-7190): disposición derogatoria única, disposiciones transitorias primera y sexta, disposición final duodécima y artículos 1 y 2 del Reglamento que aprueba. Real Decreto 314/2006, Código Técnico de la Edificación (BOE-A-2006-5515): artículo 11, y su Documento Básico SI (texto consolidado de 4 de marzo de 2025). Ley 31/1995 (BOE-A-1995-24292): artículos 18.1.c), 20 y 33.1.c). Real Decreto 486/1997 (BOE-A-1997-8669): anexo I, apartados 10, 11 y 12. Real Decreto 485/1997 (BOE-A-1997-8668): anexos II y III. Real Decreto 393/2007, Norma Básica de Autoprotección (BOE-A-2007-6237), y Real Decreto 524/2023 (BOE-A-2023-14679): disposición derogatoria única. Real Decreto 842/2002, REBT (BOE-A-2002-18099): ITC-BT-28, apartado 4. Nota técnica de prevención NTP 536 del INSST. Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026). Del Reglamento de instalaciones de protección contra incendios, los artículos 9, 20 y 22, el anexo I y el anexo II en la redacción dada por el Real Decreto 164/2025 (vigente desde el 10/05/2025); los artículos 1, 2, 19 y 21, en su única redacción (vigente desde el 12/12/2017). Del Documento Básico SI, el texto consolidado de 4 de marzo de 2025, que incluye el Real Decreto 164/2025 |
-| **Extensión** | 12.900 palabras aproximadamente |
+| **Extensión** | 13.600 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -52,7 +52,9 @@ tiene la alarma de incendio en un sistema integrado; qué clases de fuego hay, q
 para cada una y cuál no se usa con tensión, cómo se lee la etiqueta de un extintor, a qué altura y
 distancia van los extintores, qué datos definen una BIE (diámetros, presiones, caudales, radio
 de acción, separación), cuándo se exige BIE, qué lleva un sistema de extinción por gas y por qué
-retarda la descarga, y qué mantenimiento trimestral, anual y quinquenal toca a cada equipo; cómo
+retarda la descarga, qué son el sistema de abastecimiento de agua contra incendios y los de control
+de humos y de calor, y qué mantenimiento trimestral, semestral, anual y quinquenal toca a cada
+equipo; cómo
 se señaliza un equipo de lucha contra incendios, qué categoría de señal fotoluminiscente se pide
 y cuándo se sustituye; qué superficie máxima tiene un sector de incendio, qué locales eléctricos
 son de riesgo especial y con qué condiciones, cómo se mantiene la sectorización donde la
@@ -716,7 +718,8 @@ y no se selle compromete la extinción (y el mantenimiento anual lo comprueba, 4
 entrar a trabajar en ella se bloquea el disparo automático según el procedimiento del centro y se
 rehabilita al salir.
 
-El RIPCI regula además, cada uno con su norma, los sistemas fijos de rociadores automáticos y agua
+El RIPCI regula además, cada uno con su norma, el sistema de abastecimiento de agua contra
+incendios, los sistemas fijos de rociadores automáticos y agua
 pulverizada, agua nebulizada, espuma física, polvo y aerosoles condensados, la columna seca, los
 hidrantes, las mantas ignífugas, los sistemas de cocinas comerciales y los de control de humos y de
 calor. En un edificio administrativo el DB SI pide columna seca «**Si la altura de evacuación
@@ -726,13 +729,44 @@ transformación con aparatos de aislamiento dieléctrico de punto de inflamació
 los aparatos**» (630 y 2 520 kVA si el centro está en un edificio de pública concurrencia con
 acceso desde el interior).
 
+Dos de los sistemas que regula el RIPCI tienen una parte eléctrica que cae en el mantenimiento del
+electricista:
+
+- **Sistema de abastecimiento de agua contra incendios** (anexo I, sección 1.ª, apartado 2): «**estará
+  formado por un conjunto de fuentes de agua, equipos de impulsión y una red general de incendios
+  destinada a asegurar, para uno o varios sistemas específicos de protección, el caudal y presión
+  de agua necesarios durante el tiempo de autonomía requerido.**» Cuando se exija, «**sus
+  características y especificaciones serán conformes a lo establecido en la norma UNE 23500.**»
+  Es el que da agua a las BIE y a los rociadores. Sus equipos de impulsión son el grupo de bombeo
+  de incendios, con bombas eléctricas o motobombas, sus acumuladores y su cuadro de control
+  (oficio, a la vista de las operaciones de mantenimiento de 4.7).
+- **Sistemas para el control de humos y de calor** (apartado 13): «**limitan los efectos del calor
+  y de los humos en caso de incendio. Estos sistemas pueden extraer los gases calientes generados
+  al inicio de un incendio y crear áreas libres de humo por debajo de capas de humo flotante,
+  favoreciendo así las condiciones de evacuación y facilitando las labores de extinción.**» Siguen
+  cuatro estrategias: «**flotabilidad de los gases calientes (edificios de techo alto),
+  presurización diferencial (vías de evacuación), ventilación horizontal (edificios de reducida
+  esbeltez, como túneles o aparcamientos) y extracción de humos (en aparcamientos o tras la
+  actuación de un sistema de supresión del incendio)**». Las barreras de humo, los aireadores de
+  extracción natural y los extractores mecánicos llevan marcado CE conforme a la UNE-EN 12101-1,
+  12101-2 y 12101-3, respectivamente. Su puesta en marcha es una de las maniobras que gobierna la
+  central de detección (2.5).
+
 ### 4.7 Mantenimiento de los medios de extinción
 
 | Equipo | Cada tres meses (tabla I; puede hacerlo el titular) | Cada año (tabla II; mantenedora) | Cada cinco años (tabla II; mantenedora) |
 |---|---|---|---|
 | Extintores | Ocho verificaciones: en su lugar y sin daños, adecuados al riesgo, accesibles y señalizados con instrucciones delante, instrucciones legibles, «**Que el indicador de presión se encuentra en la zona de operación.**», partes metálicas en buen estado, precintos intactos y «**Que no han sido descargados total o parcialmente.**» (o el «Programa de Mantenimiento Trimestral» de la UNE 23120); y su señalización | «**Programa de Mantenimiento Anual**» de la UNE 23120; en los móviles, el sistema de traslado | «**Realizar una prueba de nivel C (timbrado), de acuerdo a lo establecido en el anexo III del Reglamento de Equipos a Presión, aprobado por Real Decreto 809/2021**»; retimbrado «**por tres veces**» |
 | BIE | Señalización, accesibilidad, «**Comprobación, por lectura del manómetro, de la presión.**» y estado de lanza, válvula y manguera | Operaciones anuales de la UNE-EN 671-3. «**Las mangueras contra incendios deberán sustituirse al menos cada 20 años, a contar desde su puesta en servicio, salvo que su fabricante certifique para ellas una durabilidad mayor.**» | Operaciones quinquenales sobre la manguera, UNE-EN 671-3 |
+| Sistema de abastecimiento de agua | Inspección de todos los elementos (depósitos, válvulas, mandos, alarmas, motobombas, accesorios, señales); «**Comprobación del funcionamiento automático y manual de la instalación, de acuerdo con las instrucciones del fabricante o instalador.**»; «**Mantenimiento de acumuladores, limpieza de bornas (reposición de agua destilada, etc.). Verificación de niveles (combustible, agua, aceite, etc.).**»; accesibilidad, limpieza general y ventilación de las salas de bombas. Cada seis meses, además, accionamiento y engrase de las válvulas, ajuste de los prensaestopas, «**Verificación de la velocidad de los motores con diferentes cargas.**» y «**Comprobación de la alimentación eléctrica, líneas y protecciones.**» | «**Comprobación de la reserva de agua.**»; limpieza de filtros; «**Comprobación del estado de carga de baterías y electrolito.**»; «**Prueba, en las condiciones de recepción, con realización de curvas de abastecimiento con cada fuente de agua y de energía.**» | La tabla II no fija operación quinquenal |
 | Sistemas fijos (gas incluido) | Difusores en buen estado y libres, estado general, manómetros, circuitos de señalización y pilotos, señalización de los mandos de paro y disparo, limpieza. Cada seis meses, además, «**Verificar el suministro eléctrico a los grupos de bombeo eléctricos u otros equipos eléctricos críticos.**» | Respuesta a las señales de activación manual y automática; en gas, «**verificar la estanquidad de la sala protegida**», que puede ser visual si no ha habido obras ni cambios | En gas, «**prueba de estanqueidad de la sala protegida en condiciones de descarga**» |
+| Control de humos y de calor | Que no se han colocado obstrucciones ni hecho cambios en la geometría del edificio (tabiques, falsos techos, aperturas al exterior, mobiliario) que modifiquen las condiciones de utilización del sistema o impidan «**el descenso completo de las barreras activas de control de humos**»; inspección visual general. Cada seis meses, además, «**Comprobación del funcionamiento de los componentes del sistema mediante la activación manual de los mismos.**» y limpieza | «**Comprobación del funcionamiento del sistema en sus posiciones de activación y descanso, incluyendo su respuesta a las señales de activación manuales y automáticas y comprobando que el tiempo de respuesta está dentro de los parámetros de diseño.**»; espaciados de las barreras de humo (UNE-EN 12101-1); «**Comprobación de la correcta disponibilidad de la fuente de alimentación principal y auxiliar.**»; engrase; «**Verificación de señales de alarma y avería e interacción con el sistema de detección de incendios.**» | La tabla II no fija operación quinquenal |
+
+Lo que toca de lleno al electricista en esas dos filas: en el grupo de bombeo, la alimentación
+eléctrica, sus líneas y protecciones (cada seis meses) y los acumuladores y baterías (cada tres
+meses y cada año); en el control de humos, la fuente de alimentación principal y la auxiliar (cada
+año). Como en las demás filas, lo trimestral y semestral puede hacerlo el personal del titular, y
+lo anual, sólo fabricante o mantenedora (1.5).
 
 ## 5. Señalización
 
@@ -1019,13 +1053,16 @@ Las definiciones (anexo III de la Norma Básica):
   para dar respuesta a las posibles emergencias.**»
 
 Quién lo necesita: las actividades del anexo I (artículo 2.1). Entre las que no tienen
-reglamentación sectorial específica, la que encaja con una sede de televisión: «**Todos aquellos
-edificios que alberguen actividades comerciales, administrativas, de prestación de servicios, o de
-cualquier otro tipo, siempre que la altura de evacuación del edificio sea igual o superior a 28 m,
-o bien dispongan de una ocupación igual o superior a 2.000 personas.**» Y los recintos cerrados de
-espectáculos públicos, «**Con capacidad o aforo igual o superior a 2000 personas, o con una altura
-de evacuación igual o superior a 28 m.**» El mismo anexo incluye las «**Instalaciones de generación
-y transformación de energía eléctrica en alta tensión.**» Además, las administraciones pueden
+reglamentación sectorial específica (apartado 2 del anexo), la que encaja con una sede de
+televisión: «**Todos aquellos edificios que alberguen actividades comerciales, administrativas, de
+prestación de servicios, o de cualquier otro tipo, siempre que la altura de evacuación del edificio
+sea igual o superior a 28 m, o bien dispongan de una ocupación igual o superior a 2.000
+personas.**» (letra g); y, en ese mismo grupo, las «**Instalaciones de generación y transformación
+de energía eléctrica en alta tensión.**» (letra c). Los edificios cerrados de espectáculos
+públicos, en cambio, están entre las actividades con reglamentación sectorial específica (apartado
+1, letra d), con capacidad o aforo «**igual o superior a 2000 personas, o con una altura de
+evacuación igual o superior a 28 m.**»; a todas las actividades de ese apartado 1 las disposiciones del Real Decreto 393/2007 se
+aplican «**con carácter supletorio**» (artículo 2.1). Además, las administraciones pueden
 exigirlo a actividades no incluidas, «**cuando presenten un especial riesgo o vulnerabilidad**»
 (artículo 2.2). Qué centros de la RTVA están en cada caso no consta en documento publicado.
 
@@ -1098,8 +1135,8 @@ protección (oficio; enlaza con los permisos de trabajo del plan y con el tema 1
   recorridos, señales de evacuación), SI 5 (intervención de bomberos) y SI 6 (resistencia al fuego
   de la estructura); y de la SI 4, las filas de usos distintos del administrativo y la pública
   concurrencia.
-- Los contenidos de las normas UNE citadas (UNE 23007-14, UNE 23120, UNE-EN 671-3, UNE 23033-1 y
-  demás): el tema dice lo que el RIPCI dice de ellas, no lo que dicen ellas; tampoco las
+- Los contenidos de las normas UNE citadas (UNE 23007-14, UNE 23120, UNE-EN 671-3, UNE 23033-1,
+  UNE 23500, serie UNE-EN 12101 y demás): el tema dice lo que el RIPCI dice de ellas, no lo que dicen ellas; tampoco las
   distancias entre detectores ni sus superficies de cobertura, que están en la UNE 23007-14.
 - El alumbrado de emergencia y la ITC-BT-28 en lo que toca a alumbrado: tema 6. La alimentación de
   los servicios de seguridad, grupos y SAI: tema 7. La integración de alarmas en la gestión técnica
@@ -1114,7 +1151,7 @@ protección (oficio; enlaza con los permisos de trabajo del plan y con el tema 1
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 513/2017, RIPCI (BOE-A-2017-6606), redacción vigente | Artículos 1, 2, 9, 19, 20, 21 y 22; anexo I, sección 1.ª (apartados 1, 4, 5, 11 y 15) y sección 2.ª, y apéndice; anexo II (apartados 1 a 10 y tablas I, II y III, con las columnas de periodicidad leídas en la página web del BOE) | 05/10/2026 |
+| Real Decreto 513/2017, RIPCI (BOE-A-2017-6606), redacción vigente | Artículos 1, 2, 9, 19, 20, 21 y 22; anexo I, sección 1.ª (apartados 1, 2, 4, 5, 11, 13 y 15) y sección 2.ª, y apéndice; anexo II (apartados 1 a 10 y tablas I, II y III, con las columnas de periodicidad leídas en la página web del BOE) | 05/10/2026 |
 | Real Decreto 513/2017, redacción vigente hasta el 09/05/2025 | Anexo I, sección 1.ª, apartado 5.4 (presión de las BIE derogada) | 05/10/2026 |
 | Real Decreto 164/2025 (BOE-A-2025-7190) | Disposición derogatoria única, disposiciones transitorias primera y sexta, disposición final duodécima, artículos 1 y 2 del Reglamento | 05/10/2026 |
 | Real Decreto 314/2006, CTE (BOE-A-2006-5515) | Artículo 11 (redacción única) | 05/10/2026 |
@@ -1133,7 +1170,8 @@ aisladores y de los módulos de entrada y salida, el uso típico de cada tipo de
 de la detección en platós con humo, la lectura de alerta y alarma en el puesto de control, la
 coincidencia de cifras entre pulsadores y extintores, la elección entre CO₂ y polvo y el corte
 previo de tensión, la elección del extintor de CO₂ en una sala eléctrica, los cuidados con las
-salas de extinción por gas, la definición de sector, los ejemplos de aplicación de la
+salas de extinción por gas, la composición habitual de un grupo de bombeo de incendios y la
+lectura eléctrica de su mantenimiento y del de control de humos, la definición de sector, los ejemplos de aplicación de la
 sectorización, el gobierno de retenedores y compuertas por la central, los materiales de sellado
 de pasos de cables, la importancia del cable resistente al fuego para los servicios de seguridad,
 las funciones habituales del personal de mantenimiento en un plan de actuación y el aviso previo a

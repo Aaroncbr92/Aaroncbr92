@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): ITC-BT-18, ITC-BT-19, ITC-BT-20, ITC-BT-23, ITC-BT-28 e ITC-BT-44. Real Decreto 186/2016, de 6 de mayo, por el que se regula la compatibilidad electromagnética de los equipos eléctricos y electrónicos (BOE-A-2016-4442): artículos 1 a 4, 6, 7.2, 18 y 19 y anexo I. Ley 21/1992, de 16 de julio, de Industria (BOE-A-1992-17363): artículo 8.3. Código Técnico de la Edificación, parte I, artículo 12.8 (BOE-A-2006-5515), sólo para nombrar el DB SUA 8. Serie UNE-EN 50600 (centros de datos), sólo a través de la ficha de AENOR y de una fuente secundaria (TÜV NORD). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026): ITC-BT-18 en la redacción vigente desde el 23/05/2010 (BOE-A-2010-8190); ITC-BT-19, 20, 23, 28 y 44 en su única redacción (vigente desde el 18/09/2003); Real Decreto 186/2016: artículo 2 en la redacción vigente desde el 25/06/2024 (BOE-A-2024-11377), artículo 3 en la vigente desde el 30/05/2026 (BOE-A-2026-8023), el resto en su única redacción (vigente desde el 11/05/2016); Ley 21/1992, artículo 8, en la redacción vigente desde el 24/12/2014 (BOE-A-2014-13359); Código Técnico de la Edificación, parte I, artículo 12, en la redacción vigente desde el 12/03/2010 (BOE-A-2010-4056) |
-| **Extensión** | 10.500 palabras aproximadamente |
+| **Extensión** | 11.100 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -40,7 +40,7 @@ centímetro (**cm**).
 **Qué se puede preguntar.** No hay exámenes anteriores de este puesto. Por el enunciado, un
 tribunal puede preguntar: qué exige una instalación audiovisual que no exige una oficina; qué
 instrucción particular alcanza a un plató, a un auditorio o a un taller de decorados y cómo se
-calcula la ocupación; qué pide la ITC-BT-28 al cuadro general, a los cuadros secundarios y a las
+calcula la ocupación; qué locales entran cuando su ocupación prevista pasa de 50 personas; qué pide la ITC-BT-28 al cuadro general, a los cuadros secundarios y a las
 líneas de alumbrado de un local con público; dónde se colocan los cuadros y qué cables se usan;
 qué categoría de sobretensión corresponde a un ordenador o a un equipo electrónico sensible y qué
 tensión soportada a impulsos tiene cada categoría; qué es un CPD a efectos de la serie UNE-EN 50600
@@ -158,9 +158,17 @@ una instrucción particular son éstos:
 |---|---|---|
 | Auditorio | ITC-BT-28, locales de pública concurrencia | Los «auditorios» están en su lista de locales de espectáculos, **Cualquiera que sea su capacidad de ocupación** |
 | Plató con público y salas de conferencias | ITC-BT-28 | Las **Salas de conferencias y congresos** están en la lista **Cualquiera que sea su ocupación**; un plató con público, por la cláusula general de más de 100 personas (abajo) |
+| Sala de exposiciones, oficina con presencia de público, gimnasio | ITC-BT-28 | Están en la lista de locales de reunión, trabajo y usos sanitarios **Si la ocupación prevista es de más de 50 personas** (abajo) |
 | Aparcamiento cubierto | ITC-BT-28 | **estacionamientos cerrados y cubiertos para más de 5 vehículos** |
 | Taller de decorados con pinturas y disolventes | ITC-BT-29, locales con riesgo de incendio o explosión | Puede alcanzarle según la clasificación de zonas, que este tema no desarrolla |
 | Feria, exposición o muestra en la que se monta un plató o un stand | ITC-BT-34, ferias y stands | Su campo son **las instalaciones eléctricas temporales de ferias, exposiciones, muestras, stands, alumbrados festivos de calles, verbenas y manifestaciones análogas** |
+
+Entre los locales de reunión, trabajo y usos sanitarios, la ITC-BT-28 (apartado 1) fija un umbral
+propio, más bajo que el de la cláusula general: **Si la ocupación prevista es de más de 50 personas:
+bibliotecas, centros de enseñanza, consultorios médicos, establecimientos comerciales, oficinas con
+presencia de público, residencias de estudiantes, gimnasios, salas de exposiciones, centros
+culturales, clubes sociales y deportivos**. Una sala de exposiciones del centro con 80 personas de
+ocupación prevista queda, por tanto, dentro de la instrucción, aunque no llegue a 100.
 
 La cláusula general de la ITC-BT-28 (apartado 1): la instrucción se aplica también **a aquellos
 locales clasificados en condiciones BD2, BD3 y BD4, según la norma UNE 20.460-3** (clasificación que
@@ -203,7 +211,7 @@ repartida entre sus fases o conductores polares** (el cálculo del desequilibrio
 
 Cuando un estudio, plató o auditorio es local de pública concurrencia, la ITC-BT-28 le impone,
 además de la alimentación de los servicios de seguridad (tema 7) y el alumbrado de emergencia
-(tema 6), estas prescripciones de carácter general (apartado 4):
+(tema 6), entre las prescripciones de carácter general de su apartado 4, éstas:
 
 | Letra | Lo que exige (literal) |
 |---|---|
@@ -213,6 +221,9 @@ además de la alimentación de los servicios de seguridad (tema 7) y el alumbrad
 | d) Alumbrado del público | **el corte de corriente en una cualquiera de ellas no afecte a más de la tercera parte del total de lámparas instaladas en los locales o dependencias que se iluminan alimentadas por dichas líneas.** |
 | f) Cables | **serán no propagadores del incendio y con emisión de humos y opacidad reducida**; y los de servicios de seguridad no autónomos o con fuentes autónomas centralizadas **deben mantener el servicio durante y después del incendio** |
 | g) Retorno | **Las fuentes propias de energía de corriente alterna a 50 Hz, no podrán dar tensión de retorno a la acometida o acometidas de la red de Baja Tensión pública que alimenten al local de pública concurrencia.** |
+
+La letra e), las canalizaciones (conductores de **tensión asignada no inferior a 450/750 V** bajo
+tubos o canales protectores, o con cubierta en huecos de la construcción, o rígidos armados de 0,6/1 kV), se estudia en el tema 4.
 
 La letra d) es la regla de la «tercera parte»: con tres líneas de
 alumbrado bien repartidas, la avería de una deja dos tercios del público con luz.
@@ -406,10 +417,12 @@ La consecuencia práctica: nunca se quita la conexión de protección de un rack
 «limpiar» un zumbido. El zumbido se resuelve con el trazado de la tierra (1.1, regla 2; 10.3), no
 quitándola.
 
-Y una regla del apartado 7 de esa instrucción que se aplica en todo cuadro que alimenta salas
-técnicas: **Si a partir de un punto cualquiera de la instalación, el conductor neutro y el
-conductor de protección están separados, no estará permitido conectarlos entre sí en la
-continuación del circuito por detrás de este punto.** Un neutro unido a tierra aguas abajo
+Y una regla del apartado 7 de esa instrucción (el de los conductores CPN, en el esquema TN) que importa en los
+cuadros que alimentan salas técnicas: **Si a partir de un punto cualquiera de la
+instalación, el conductor neutro y el conductor de protección están separados, no estará permitido
+conectarlos entre sí en la continuación del circuito por detrás de este punto. En el punto de
+separación, deben preverse bornes o barras separadas para el conductor de protección y para el
+conductor neutro.** Un neutro unido a tierra aguas abajo
 convierte el conductor de protección en camino de retorno y lleva corriente de red a las masas de
 todos los equipos: es una fuente clásica de zumbido además de un defecto de seguridad (oficio).
 
@@ -478,9 +491,10 @@ puestas a tierra en una instalación de utilización, así como los conductores 
 asociados a estas masas o a los relés de protección de masa, no están unidas a la toma de tierra de
 las masas de un centro de transformación, para evitar que durante la evacuación de un defecto a
 tierra en el centro de transformación, las masas de la instalación de utilización puedan quedar
-sometidas a tensiones de contacto peligrosas.** El mismo apartado admite, con todo, unir la puesta
-a tierra de la instalación de utilización y la de protección del CT si la resistencia de la tierra
-única es tan baja que la tensión de defecto (**Vd = Id * Rt**) queda por debajo de la tensión de
+sometidas a tensiones de contacto peligrosas.** El mismo apartado admite la unión, pero en forma restrictiva:
+**Sólo se podrán unir la puesta a tierra de la instalación de utilización (edificio) y la puesta a
+tierra de protección (masas) del centro de transformación**, si la resistencia de la tierra única es
+tan baja que la tensión de defecto (**Vd = Id * Rt**) queda por debajo de la tensión de
 contacto máxima aplicada. (Las condiciones que permiten dar la independencia por cumplida sin medir,
 y la medida de la resistencia de tierra, son del tema 5.)
 
@@ -779,9 +793,9 @@ Las medidas de instalación, todas de oficio salvo lo que se cita:
 
 Un aviso sobre la distancia que sí está en el REBT: la ITC-BT-20, apartado 2.1.1, dice que **En caso
 de proximidad de canalizaciones eléctricas con otras no eléctricas, se dispondrán de forma que entre
-las superficies exteriores de ambas se mantenga una distancia mínima de 3 cm.** Esos 3 cm son una
-separación de seguridad frente a canalizaciones no eléctricas, no una
-distancia de compatibilidad electromagnética entre cables de energía y de señal; para los conductos
+las superficies exteriores de ambas se mantenga una distancia mínima de 3 cm.** La instrucción no dice
+para qué sirven esos 3 cm; por lectura de aplicación, son una separación frente a canalizaciones
+no eléctricas, no una distancia de compatibilidad electromagnética entre cables de energía y de señal; para los conductos
 de calefacción, aire caliente, vapor o humo, el mismo apartado pide además que se mantengan
 **separadas por una distancia conveniente o por medio de pantallas calorífugas**. Y la separación
 de circuitos que pide el apartado 2.1 de esa instrucción es de aislamiento, no de ruido: **No deben
@@ -881,7 +895,8 @@ El artículo 19 desarrolla tres obligaciones:
 
 Fíjese el modo de cada verbo: las buenas prácticas **deberán** estar documentadas; las autoridades
 **podrán** pedir pruebas, pero, demostrada la no conformidad, **impondrán** medidas. Y la
-responsabilidad es del propietario o titular, no del instalador ni del fabricante. Para el
+responsabilidad es **del propietario y, en su caso, del titular de la instalación**; el artículo no
+nombra al instalador ni al fabricante, de modo que no les atribuye esa responsabilidad (lectura). Para el
 electricista eso significa que las medidas de compatibilidad de 1.1, 5.2 y 10.4 forman parte de la
 documentación de la instalación y se mantienen como cualquier otra (tema 13).
 
@@ -971,11 +986,11 @@ atribuye a la instalación. Actuación (oficio, sobre el artículo 19):
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 842/2002 (BOE-A-2002-18099), ITC-BT-18, redacción vigente desde el 23/05/2010 (BOE-A-2010-8190) | Apartados 5 y 6 (tierra funcional y combinada), 7 (no reunir neutro y protección aguas abajo de su separación), 10 (independencia, 50 V) y 11 (separación de la tierra del CT) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002 (BOE-A-2002-18099), ITC-BT-18, redacción vigente desde el 23/05/2010 (BOE-A-2010-8190) | Apartados 5 y 6 (tierra funcional y combinada), 7 (conductores CPN: no reunir neutro y protección aguas abajo de su separación; bornes o barras separados), 10 (independencia, 50 V) y 11 (separación de la tierra del CT; «Sólo se podrán unir») | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-19, redacción única (vigente desde el 18/09/2003) | Apartado 2.2.2 (neutro con cargas no lineales; caídas del 4,5 % y 6,5 % con transformador propio); 2.4 (subdivisión); 2.5 (equilibrado) | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-20, redacción única | Apartado 2.1 (separación de circuitos de potencia y MBTS/MBTP) y 2.1.1 (3 cm con canalizaciones no eléctricas) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-20, redacción única | Apartado 2.1 (separación de circuitos de potencia y MBTS/MBTP) y 2.1.1 (3 cm con canalizaciones no eléctricas; la instrucción no dice su finalidad) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-23, redacción única | Apartado 1 (salvedad de las señales), 2.1 (protección en cascada), 2.2 (categoría I), 3 (descarga directa), 3.1 (equivalencia de la línea aérea apantallada), 3.2 (situación controlada y conexión de descargadores) y tabla 1 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-28, redacción única | Apartado 1 (campo de aplicación, más de 100 personas, 0,8 m²); 2 (categorías de conmutación); 4.a, b, c, d, f y g; 5.a, b, c, d y f | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-28, redacción única | Apartado 1 (campo de aplicación, lista de más de 50 personas, más de 100 personas, 0,8 m²); 2 (categorías de conmutación); 4.a, b, c, d, e (sólo 450/750 V), f y g; 5.a, b, c, d y f | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-34 e ITC-BT-44, redacción única | ITC-BT-34, apartado 1 (campo de aplicación); ITC-BT-44, apartado 3.1 (armónicos, 1,8 veces) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 186/2016 (BOE-A-2016-4442) | Artículo 1; artículo 2.1, 2.2.a y 2.3 (redacción vigente desde el 25/06/2024, BOE-A-2024-11377); artículo 3.1 a), c), d), e), f) y h) y 3.2 (redacción vigente desde el 30/05/2026, BOE-A-2026-8023, que añade las letras aa) y ab), ajenas al tema); artículos 4, 6, 7.2, 18 y 19 y anexo I (redacción única, vigente desde el 11/05/2016) | En el BOE consolidado, 05/10/2026 |
 | Ley 21/1992, de Industria (BOE-A-1992-17363), artículo 8, redacción vigente desde el 24/12/2014 | Apartado 3 (la norma, de observancia no obligatoria) | En el BOE consolidado, 05/10/2026 |

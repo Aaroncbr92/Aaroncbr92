@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: ITC-BT-01, ITC-BT-03 (apéndice I), ITC-BT-05, ITC-BT-08, ITC-BT-18, ITC-BT-19, ITC-BT-24, ITC-BT-26, ITC-BT-27 e ITC-BT-28. Guía técnica del INSST sobre riesgo eléctrico (2020). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. ITC-BT-18 en la redacción vigente desde el 23/05/2010 (BOE-A-2010-8190); ITC-BT-05 en la vigente desde el 30/06/2015 (BOE-A-2014-13681); ITC-BT-03 en la vigente desde el 04/09/2025 (BOE-A-2025-17507); las demás instrucciones citadas tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003) |
-| **Extensión** | Unas 12.900 palabras |
+| **Extensión** | Unas 13.400 palabras |
 
 <!-- /portada -->
 
@@ -368,6 +368,20 @@ de la instalación**, las masas de los receptores que lo exijan y **las partes m
 depósitos de gasóleo, de las instalaciones de calefacción general, de las instalaciones de agua, de
 las instalaciones de gas canalizado y de las antenas de radio y televisión.**
 
+**Puntos de puesta a tierra** (apartado 3.3). **Los puntos de puesta a tierra se situarán:**
+
+- **a) En los patios de luces destinados a cocinas y cuartos de aseo, etc., en rehabilitación o
+  reforma de edificios existentes.**
+- **b) En el local o lugar de la centralización de contadores, si la hubiere.**
+- **c) En la base de las estructuras metálicas de los ascensores y montacargas, si los hubiere.**
+- **d) En el punto de ubicación de la caja general de protección.**
+- **e) En cualquier local donde se prevea la instalación de elementos destinados a servicios generales
+  o especiales, y que por su clase de aislamiento o condiciones de instalación, deban ponerse a
+  tierra.**
+
+El apartado 3.4 añade que **Al punto o puntos de puesta a tierra indicados como a) en el apartado 3.3,
+se conectarán las líneas principales de tierra.**
+
 **Líneas principales de tierra** (apartado 3.4): de cobre, con la sección de los conductores de
 protección de la ITC-BT-19 **con un mínimo de 16 milímetros cuadrados**. Y no pueden usarse como
 conductores de tierra **las tuberías de agua, gas, calefacción, desagües, conductos de evacuación de
@@ -408,7 +422,7 @@ Dos tipos, por tanto:
 
 | | Principal | Suplementaria |
 |---|---|---|
-| Qué une | Los elementos conductores que entran en el edificio (tuberías, estructura) con el borne principal de tierra (oficio, a partir de la lista del 3.3) | Una masa con un elemento conductor cercano, en un local concreto |
+| Qué une | Los elementos conductores que entran en el edificio (tuberías, estructura) con el borne principal de tierra (oficio, a partir de la lista de la ITC-BT-18, 3.3) | Una masa con un elemento conductor cercano, en un local concreto |
 | Sección | ≥ mitad del conductor de protección mayor; mínimo 6 mm² | ≥ mitad del conductor de protección de esa masa |
 
 El caso típico de equipotencialidad suplementaria está en la ITC-BT-27 (baños y duchas, que hay en
@@ -418,7 +432,9 @@ clase I en los volúmenes 1, 2 y 3, incluidas las tomas de corriente** y las par
 externas de los volúmenes 0, 1, 2 y 3 que la instrucción enumera (canalizaciones metálicas de
 suministro y desagües, de calefacción centralizada y de aire acondicionado, partes metálicas accesibles
 de la estructura y **Otras partes conductoras externas, por ejemplo partes que son susceptibles de
-transferir tensiones**) (apartado 2.2).
+transferir tensiones**) (apartado 2.2). El mismo apartado trae una salvedad: **Estos requisitos no se
+aplican al volumen 3, en recintos en los que haya una cabina de ducha prefabricada con sus propios
+sistemas de drenaje, distintos de un cuarto de baño, por ejemplo un dormitorio.**
 
 Y un caso distinto que no debe confundirse: las **conexiones equipotenciales locales no conectadas a tierra**
 de la ITC-BT-24, 4.4, que son una medida de protección en sí mismas (epígrafe 6.3).
@@ -684,7 +700,9 @@ y otros tres: la **Falta de conexiones equipotenciales, cuando éstas fueran req
 **Inexistencia de medidas adecuadas de seguridad contra contactos indirectos** y la **Falta de
 identificación de los conductores "neutro" y "de protección"**. Defecto grave es **el que no supone
 un peligro inmediato para la seguridad de las personas o de los bienes, pero puede serlo al
-originarse un fallo en la instalación** (ITC-BT-05, 6.2): un conductor de protección cortado no se
+originarse un fallo en la instalación. También se incluye dentro de esta clasificación, el defecto que
+pueda reducir de modo sustancial la capacidad de utilización de la instalación eléctrica.** (ITC-BT-05,
+6.2). La primera frase explica por qué un conductor de protección cortado es defecto grave: no se
 nota hasta que hay un defecto de aislamiento.
 
 ### 4.2 Cómo se comprueba
@@ -821,9 +839,10 @@ Independencia (ITC-BT-18, apartado 10):
 > tierra, no alcance, respecto a un punto de potencial cero, una tensión superior a 50 V cuando por la
 > otra circula la máxima corriente de defecto a tierra prevista.**»
 
-Separación respecto a la tierra de un CT (apartado 11). Las masas de la instalación de
-utilización y sus conductores de protección **no están unidas a la toma de tierra de las masas de un
-centro de transformación, para evitar que durante la evacuación de un defecto a tierra en el centro
+Separación respecto a la tierra de un CT (apartado 11): **Se verificará que las masas puestas a tierra
+en una instalación de utilización, así como los conductores de protección asociados a estas masas o a
+los relés de protección de masa, no están unidas a la toma de tierra de las masas de un centro de
+transformación, para evitar que durante la evacuación de un defecto a tierra en el centro
 de transformación, las masas de la instalación de utilización puedan quedar sometidas a tensiones de
 contacto peligrosas.** Si no se hace el control del apartado 10, las tomas se consideran
 independientes cuando se cumplen todas estas condiciones:
@@ -1010,6 +1029,21 @@ La ITC-BT-24 enumera otras cuatro, cada una con su relación con la tierra:
 | 4.4 Conexiones equipotenciales locales no conectadas a tierra | Unir todas las masas y elementos conductores simultáneamente accesibles | **La conexión equipotencial local así realizada no debe estar conectada a tierra, ni directamente ni a través de masas o de elementos conductores.** |
 | 4.5 Separación eléctrica | Alimentar desde **un transformador de aislamiento** o fuente equivalente | Si alimenta **un solo aparato, las masas del circuito no deben ser conectadas a un conductor de protección**; si alimenta varios, se unen entre sí con equipotenciales **aislados, no conectados a tierra** |
 
+En los locales no conductores (ITC-BT-24, 4.3), que nadie toque a la vez dos masas, o una masa y un
+elemento conductor, se cumple así: **Las prescripciones del apartado anterior se consideran
+satisfechas si el emplazamiento posee paredes aislantes y si se cumplen una o varias de las condiciones siguientes:**
+
+- **a) Alejamiento respectivo de las masas y de los elementos conductores, así como de las masas entre
+  sí. Este alejamiento se considera suficiente si la distancia entre dos elementos es de 2 m como
+  mínimo, pudiendo ser reducida esta distancia a 1,25 m por fuera del volumen de accesibilidad.**
+- **b) Interposición de obstáculos eficaces entre las masas o entre las masas y los elementos
+  conductores.** Son suficientemente eficaces si dejan la distancia a franquear en los valores del
+  punto a), y **No deben conectarse ni a tierra ni a las masas y, en la medida de lo posible, deben ser
+  de material aislante.**
+- **c) Aislamiento o disposición aislada de los elementos conductores.** El aislamiento debe **tener una rigidez mecánica suficiente y poder
+  soportar una tensión de ensayo de un mínimo de 2.000 V. La corriente de fuga no debe ser superior a
+  1 mA en las condiciones normales de empleo.**
+
 Las tres últimas son excepciones a la idea general de «poner todo a tierra», y por eso se preguntan:
 en ellas, poner a tierra lo que no debe estarlo anula la medida (oficio).
 
@@ -1103,7 +1137,7 @@ fuga, neutro unido a tierra aguas abajo, una conexión de protección floja), y 
 
 ### 7.3 Reglas de oficio en una sala técnica
 
-Ninguna de estas reglas es del REBT; son práctica de oficio compatible con él:
+Estas reglas son práctica de oficio compatible con el REBT; del reglamento sólo es el límite de fugas que se cita en la 4:
 
 1. Una sola referencia de tierra por área técnica: los equipos unidos por señal, alimentados desde
    el mismo cuadro, con sus conductores de protección llevados en estrella a la barra de tierra de ese
@@ -1117,7 +1151,11 @@ Ninguna de estas reglas es del REBT; son práctica de oficio compatible con él:
    IT con sus condiciones del epígrafe 6.2).
 4. Repartir las cargas con fuente conmutada entre varios circuitos: sus filtros derivan corriente al
    conductor de protección aun sin defecto, y la suma puede hacer disparar el diferencial o elevar el
-   potencial del conductor de protección (medida con pinza de fugas; tema 8).
+   potencial del conductor de protección (medida con pinza de fugas; tema 8). El límite sí es del
+   REBT (ITC-BT-19, 2.9): **Las corrientes de fuga no serán superiores para el conjunto de la
+   instalación o para cada uno de los circuitos en que ésta pueda dividirse a efectos de su
+   protección, a la sensibilidad que presenten los interruptores diferenciales instalados como
+   protección contra los contactos indirectos.**
 
 Ante un zumbido que aparece al conectar un equipo nuevo (oficio): se comprueba que el equipo está en
 un circuito del mismo cuadro que los equipos con los que se une por señal; se mide la tensión entre
@@ -1187,7 +1225,7 @@ instalación eléctrica.
 | Real Decreto 842/2002, ITC-BT-05, redacción vigente desde el 30/06/2015 (BOE-A-2014-13681) | Apartados 2.1, 3, 4.1 b), 4.2 y 6.2 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-08, redacción única | Apartados 1, 1.1 a 1.4 y 2 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-18, redacción vigente desde el 23/05/2010 (BOE-A-2010-8190) | Apartados 1 a 12 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-19, ITC-BT-24, ITC-BT-26, ITC-BT-27, ITC-BT-28 e ITC-BT-38, redacción única | ITC-BT-19, 2.2.4, 2.3 y 2.9; ITC-BT-24, 1, 2, 3.2, 3.5, 4.1, 4.1.1 a 4.1.3 y 4.2 a 4.5; ITC-BT-26, 1, 3.1, 3.2 y 3.4; ITC-BT-27, 2.2; ITC-BT-28, 2.1; ITC-BT-38, 2.1.3 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-19, ITC-BT-24, ITC-BT-26, ITC-BT-27, ITC-BT-28 e ITC-BT-38, redacción única | ITC-BT-19, 2.2.4, 2.3 y 2.9; ITC-BT-24, 1, 2, 3.2, 3.5, 4.1, 4.1.1 a 4.1.3 y 4.2 a 4.5; ITC-BT-26, 1, 3.1, 3.2, 3.3 y 3.4; ITC-BT-27, 2.2; ITC-BT-28, 2.1; ITC-BT-38, 2.1.3 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 337/2014 (BOE-A-2014-6084), disposición derogatoria única, redacción única (vigente desde el 09/12/2014) | Derogación del Real Decreto 3275/1982 y su salvedad (5.3) | En el BOE consolidado, 05/10/2026 |
 | INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, Madrid, septiembre de 2020 | Definición de tensión de paso (transcrita por la guía de la ITC-RAT 01) y relación con la resistencia de tierra (págs. 37-38); fila del césped de su cuadro 5 | 05/10/2026 |
 

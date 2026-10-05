@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 10 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820): artículos 1, 2, 4, 6, 8, 10 a 33, 35 a 37, 41 a 43; instrucciones técnicas IT 1.1.4.1.2, IT 1.2.4.3, IT 1.2.4.4, IT 1.2.4.5, IT 1.2.4.7, IT 1.3 (salvo chimeneas), IT 2, IT 3 e IT 4. Real Decreto-ley 14/2022, de 1 de agosto (BOE-A-2022-12925): artículo 29, apartados uno y tres, y disposición final decimoséptima, sólo como aviso de vigencia. Lo demás, oficio |
-| **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026). El reglamento no ha cambiado desde el 01/07/2021 (Real Decreto 178/2021, de 23 de marzo, BOE-A-2021-4572). Ningún precepto citado tiene redacción posterior; algunos conservan la de una reforma anterior: los artículos 19, 21, 22, 26, 35, 36 y 41, la vigente desde el 19/03/2010 (BOE-A-2010-4514), y los artículos 25 y 28, la vigente desde el 14/04/2013 (BOE-A-2013-3905) |
-| **Extensión** | 16.400 palabras aproximadamente |
+| **Fuente** | Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820): artículos 1, 2, 4, 6, 8, 10 a 33, 35 a 37, 41 a 43; instrucciones técnicas IT 1.1.4.1.2, IT 1.2.4.3, IT 1.2.4.4, IT 1.2.4.5, IT 1.2.4.7, IT 1.2.4.8, IT 1.3 (salvo chimeneas), IT 2, IT 3 e IT 4. Real Decreto-ley 14/2022, de 1 de agosto (BOE-A-2022-12925): artículo 29, apartados uno y tres, y disposición final decimoséptima, sólo como aviso de vigencia. Lo demás, oficio |
+| **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026). El reglamento no ha cambiado desde el 01/07/2021 (Real Decreto 178/2021, de 23 de marzo, BOE-A-2021-4572). Ningún precepto citado tiene redacción posterior; algunos conservan la de una reforma anterior: los artículos 19, 21, 22, 26, 35, 36 y 41, la vigente desde el 19/03/2010 (BOE-A-2010-4514), y los artículos 25 y 28, la vigente desde el 14/04/2013 (BOE-A-2013-3905); y los artículos 1, 8, 13, 14, 27 y 43 conservan la redacción original, aplicable desde el 29/02/2008 |
+| **Extensión** | 17.100 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -438,6 +438,29 @@ potencia eléctrica del motor de la bomba o del ventilador, no potencia térmica
   térmicas de los edificios de nueva construcción y en las instalaciones térmicas que se reformen en
   los edificios existentes.** (IT 1.2.4.7.4).
 
+Todas estas medidas se miden juntas. La IT 1.2.4.8 dice que **La aplicación de las anteriores
+medidas de eficiencia energética, aprovechamiento de energías residuales y utilización de energías
+renovables deben evaluarse de forma global mediante la eficiencia energética general.**, y lo
+convierte en obligación en cada intervención:
+
+> «**Cuando se instale una instalación térmica de un edificio, se deberá evaluar la eficiencia
+> energética general de toda la instalación. Cuando se sustituya o se mejore una instalación térmica
+> de un edificio, se deberá evaluar la eficiencia energética general de la parte sustituida o
+> modificada, y, en su caso, de toda la instalación sustituida o modificada. Dicha evaluación deberá
+> quedar documentada e incluida en el proyecto o memoria técnica presentado ante el órgano
+> competente de la comunidad autónoma. Asimismo, podrá ser objeto de inspección y, en caso de
+> incumplimiento, de posible sanción.**» (IT 1.2.4.8)
+
+**Los resultados de dicha evaluación se documentarán y se facilitarán al propietario del
+edificio.** La eficiencia energética general es **la relación entre la demanda energética, (para el
+mantenimiento de rangos de temperatura adecuados y de suministro adecuado de ACS, de acuerdo con las
+dimensiones y uso del edificio), y el consumo de energía necesario para cubrir los servicios de
+climatización, agua caliente sanitaria, ventilación, o una combinación de los mismos, considerando
+también los sistemas de automatización y control.** Para hacerla **se podrán tener en cuenta los
+aspectos desarrollados mediante documento reconocido del RITE.** (IT 1.2.4.8). Para el puesto: la
+sustitución de una enfriadora o de una caldera no se cierra con el equipo montado; su evaluación va
+en el proyecto o la memoria técnica (lectura de oficio).
+
 ### 2.5 Condiciones de diseño y temperaturas de uso
 
 El RITE fija dos juegos de temperaturas que conviene no mezclar.
@@ -602,10 +625,32 @@ y obstáculos sobre la caldera de 0,5 m.**
 
 Ventilación (IT 1.3.4.1.2.7): **Toda sala de máquinas cerrada debe disponer de medios suficientes
 de ventilación**, natural directa por orificios, natural por conducto o forzada; el reglamento
-recomienda la directa por orificios. La natural directa al exterior necesita aberturas de **5
-cm2/kW** de potencia térmica nominal. En la forzada, el ventilador de impulsión asegura un caudal
-mínimo de **1,8 · PN + 10 · A** m³/h (PN, potencia térmica nominal en kW; A, superficie de la sala
-en m²). Y el enclavamiento eléctrico entre ventilador y caldera está escrito en la norma:
+recomienda la directa por orificios. Las cifras de cada tipo:
+
+- Natural directa por orificios, para salas contiguas al aire libre: aberturas de **área libre
+  mínima de 5 cm2/kW de potencia térmica nominal** (apartado 2.1). Con combustibles gaseosos, **el
+  orificio para entrada de aire se situará obligatoriamente con su parte superior a menos de 50 cm
+  del suelo; la ventilación se complementará con un orificio, con su lado inferior a menos de 30 cm
+  del techo, este último de superficie 10 · A (cm2), siendo A la superficie de la sala de máquinas
+  en m2.** (apartado 2.3).
+- Natural directa por conducto, cuando la sala no es contigua al aire libre pero puede comunicarse
+  con él **por medio de conductos de menos de 10 m de recorrido horizontal**: sección libre mínima,
+  referida a la potencia térmica nominal, de **conductos verticales: 7,5 cm2/kW.** y **conductos
+  horizontales: 10 cm2/kW.** (apartado 3.1). **Las secciones indicadas se dividirán en dos aberturas, por lo
+  menos, una situada cerca del techo y otra cerca del suelo y, a ser posible, sobre paredes
+  opuestas.** (apartado 3.2). Con combustibles gaseosos, **el conducto de ventilación inferior
+  desembocará a menos de 50 cm del suelo; en el caso de gases mas pesados que el aire el conducto
+  será obligatoriamente ascendente; el conducto de ventilación superior será siempre ascendente.**
+  (apartado 3.3).
+- Forzada: el ventilador de impulsión, **soplando en la parte inferior de la sala**, asegura un
+  caudal mínimo de **1,8 · PN + 10 · A** m³/h (PN, potencia térmica nominal en kW; A, superficie de
+  la sala en m²) (apartado 4.1). Para no presurizar la sala, un conducto de evacuación del aire de
+  exceso **situado a menos de 30 cm del techo y en lado opuesto de la ventilación inferior**, de
+  material incombustible y **dimensionado de manera que la sobre-presión no sea mayor que 20 Pa;
+  las dimensiones mínimas de dicho conducto serán 10 · A (cm2), siendo A la superficie en m2 de la
+  sala de máquinas, con un mínimo de 250 cm2.** (apartado 4.2).
+
+Y el enclavamiento eléctrico entre ventilador y caldera está escrito en la norma:
 
 > «**Encendido:
 > a) Arrancar el ventilador.
@@ -1010,9 +1055,14 @@ Los límites:
 > c) Las condiciones de temperatura anteriores estarán referidas al mantenimiento de una humedad
 > relativa comprendida entre el 30% y el 70%.**» (IT 3.8.2.1)
 
-Se aplican **exclusivamente durante el uso, explotación y mantenimiento de la instalación térmica,
-por razones de ahorro de energía, con independencia de las condiciones interiores de diseño** (IT
-3.8.2.1), y **sin perjuicio de lo establecido en el anexo III del Real Decreto 486/1997** sobre
+Y cuando no hace falta energía: **Cuando no sea preciso aportar energía para el calentamiento o
+enfriamiento del aire los valores se regirán exclusivamente por criterios de confort según los
+requisitos de la IT 1.1.4.1.2.** (IT 3.8.2.2), es decir, por las condiciones de diseño del
+epígrafe 2.5.
+
+Los límites de 21 y 26 ºC se aplican **exclusivamente durante el uso, explotación y mantenimiento
+de la instalación térmica, por razones de ahorro de energía, con independencia de las condiciones
+interiores de diseño** (IT 3.8.2.1), y **sin perjuicio de lo establecido en el anexo III del Real Decreto 486/1997** sobre
 lugares de trabajo (IT 3.8.2.3). La salvedad que interesa a un centro técnico:
 
 > «**No tendrán que cumplir dichas limitaciones de temperatura aquellos recintos que justifiquen la
@@ -1036,9 +1086,11 @@ llegó a modificar.
 Información y control:
 
 - En recintos de esos usos de más de 1.000 m², un visualizador con la temperatura y la humedad
-  reales y las debidas, **con unas dimensiones mínimas de 297 x 420 mm (DIN A3) y una exactitud de
-  medida de ± 0,5 ºC**, **como mínimo, de uno cada 1.000 m2**; los demás, carteles informativos (IT
-  3.8.3).
+  reales y las debidas, **situado en un sitio visible y frecuentado por las personas que utilizan el
+  recinto, prioritariamente en los vestíbulos de acceso y con unas dimensiones mínimas de 297 x 420
+  mm (DIN A3) y una exactitud de medida de ± 0,5 ºC**, **como mínimo, de uno cada 1.000 m2**, con
+  una salvedad: **En el caso de los edificios y locales de uso cultural del apartado c) se colocará
+  un único dispositivo en el vestíbulo de acceso.** Los demás, carteles informativos (IT 3.8.3).
 - En los locales con acceso desde la calle, **un sistema de cierre de puertas adecuado, el cual podrá
   consistir en un sencillo brazo de cierre automático de las puertas** (IT 3.8.4), cuando se
   requiera energía convencional. El artículo 29.tres del Real Decreto-ley 14/2022 impuso lo mismo
@@ -1107,7 +1159,11 @@ Las hacen **de manera independiente** las entidades o agentes cualificados o acr
 libremente por el titular de la instalación de entre los habilitados para realizar estas funciones**
 (art. 31.2). Y alcanzan también a las instalaciones antiguas: **Las instalaciones existentes a la
 entrada en vigor de este RITE estarán sometidas al régimen y periodicidad de las inspecciones
-periódicas de eficiencia energética establecidas en la IT 4** (art. 31.6).
+periódicas de eficiencia energética establecidas en la IT 4 y a las condiciones técnicas de la
+normativa bajo cuya vigencia fueron autorizadas.** El mismo apartado añade: **Si, con motivo de esta
+inspección, se comprobase que una instalación existente no cumple con la exigencia de eficiencia
+energética, los órganos competentes de las Comunidades Autónomas podrán acordar que se adecue a la
+normativa vigente.** (art. 31.6).
 
 La IT 4 define tres inspecciones:
 
@@ -1431,7 +1487,7 @@ reglamento exige visibles en la sala.
 - Del RITE, lo que es materia de proyecto y no de mantenimiento: rendimientos mínimos de
   generadores, caudales de aire exterior y categorías de calidad del aire interior (IT 1.1.4.2),
   filtración del aire, aislamiento de tuberías y conductos, chimeneas (IT 1.3.4.1.3), espacios
-  mínimos alrededor de calderas, ventilación natural por conducto y documentación justificativa de
+  mínimos alrededor de calderas y documentación justificativa de
   la IT 1.2.3. Los caudales de aire exterior, los filtros y la humedad de las salas técnicas, en el
   tema 9.
 - La parte frigorífica de las instalaciones (refrigerantes, niveles, fugas, salas de máquinas de
@@ -1455,7 +1511,7 @@ reglamento exige visibles en la sala.
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 1027/2007, RITE (BOE-A-2007-15820), redacción vigente | Artículos 1, 2, 4, 6, 8, 10 a 33, 35 a 37, 41 a 43; IT 1.1.4.1.2; IT 1.2.4.3.1, 1.2.4.3.5, 1.2.4.4, 1.2.4.5.1, 1.2.4.5.2, 1.2.4.7.1 a 1.2.4.7.4; IT 1.3.2, 1.3.3, 1.3.4.1.1, 1.3.4.1.2 (salvo 1.3.4.1.2.5 y 1.3.4.1.2.8), 1.3.4.2.1, 1.3.4.2.2, 1.3.4.2.8, 1.3.4.2.10.2, 1.3.4.2.12, 1.3.4.3, 1.3.4.4; IT 2; IT 3; IT 4. Comprobado en la tabla de redacciones que ningún bloque tiene vigencia posterior al 01/07/2021; la redacción de la IT 3 publicada el 02/08/2022 sólo añade una nota de remisión al Real Decreto-ley 14/2022, sin cambiar el texto | 05/10/2026 |
+| Real Decreto 1027/2007, RITE (BOE-A-2007-15820), redacción vigente | Artículos 1, 2, 4, 6, 8, 10 a 33, 35 a 37, 41 a 43; IT 1.1.4.1.2; IT 1.2.4.3.1, 1.2.4.3.5, 1.2.4.4, 1.2.4.5.1, 1.2.4.5.2, 1.2.4.7.1 a 1.2.4.7.4, 1.2.4.8; IT 1.3.2, 1.3.3, 1.3.4.1.1, 1.3.4.1.2 (salvo 1.3.4.1.2.5 y 1.3.4.1.2.8), 1.3.4.2.1, 1.3.4.2.2, 1.3.4.2.8, 1.3.4.2.10.2, 1.3.4.2.12, 1.3.4.3, 1.3.4.4; IT 2; IT 3; IT 4. Comprobado en la tabla de redacciones que ningún bloque tiene vigencia posterior al 01/07/2021; la redacción de la IT 3 publicada el 02/08/2022 sólo añade una nota de remisión al Real Decreto-ley 14/2022, sin cambiar el texto | 05/10/2026 |
 | Real Decreto-ley 14/2022 (BOE-A-2022-12925) | Artículo 29, apartados uno y tres; disposición final decimoséptima, apartados 2.a) y 2.c) (redacción única) | 05/10/2026 |
 
 Lo que va como oficio y así se declara: la aplicación de la exclusión parcial del artículo 2.6 a la
@@ -1470,5 +1526,6 @@ equivalencia de las instrucciones de seguridad de la IT 3.5 con la consignación
 potencia absorbida con analizador o pinza y el cálculo del EER; la limitación de puntas de arranque con temporizadores; la
 aplicación de la letra e) de la IT 3.7 y de la salvedad de la IT 3.8.2.3 a salas técnicas; la
 observación de que un BMS que sólo arranca y para no exime de inspección; el ejemplo de cálculo del
-25 % del artículo 24.11; y el papel del electricista en el ciclo documental. Ninguna norma leída lo
+25 % del artículo 24.11; el aviso de que la sustitución de un generador lleva su evaluación de
+eficiencia energética general; y el papel del electricista en el ciclo documental. Ninguna norma leída lo
 dice con esas palabras.

@@ -1,0 +1,85 @@
+{{Add-ch-menu|N}}__TOC__
+Motor controllers come in different types and configurations determined by many variables within an application. It is increasingly common for a process, machine or equipment such as HVAC to integrate the controller and the motor. 
+
+This enables the machine manufacture to add more value and control more of the solution, therefore minimizing risk associated with external coordination. 
+
+Some examples are shown on {{FigureRef|N81}}.
+
+{{Gallery|N81|The various functions and their combinations forming a motor starter||
+|DB422692_EN.svg||
+|DB422693_EN.svg||
+|DB422694_EN.svg||
+}}
+
+== Direct on line (DOL) starting ==
+A direct on line (DOL) or across the line starter, the simplest type of motor starter, applies the full line voltage to the motor terminals.
+
+DOL starting is sometimes used to start small water pumps, compressors, fans and conveyor belts. In the case of an asynchronous motor, such as the 3-phase squirrel-cage motor, the motor will draw a high starting current until it has run up to full speed. This starting current is typically 6-7 times greater than the full load current.
+
+To reduce the inrush current, larger motors will have reduced-voltage starters or variable speed drives in order to minimize voltage dips to the power supply.
+
+== Soft starters ==
+A motor soft starter is a device used with AC electrical motors to temporarily reduce the load and torque in the power train and electric current surge of the motor during start-up. This reduces the mechanical stress on the motor and shaft, as well as the electrodynamic stresses on the attached power cables and electrical distribution network, extending the lifespan of the system.
+
+The motor is adjusted to the machine’s load by controlling the three-phase motor’s voltage supply during the start-up phase. Equipment is accelerated smoothly, this lengthens service life, improves operating behavior, and smooths work flows. Electrical soft starters can use solid state devices to control the current flow and therefore the voltage applied to the motor.
+
+Soft starters are more expensive than DOL starters, but they are widely used due to their convenience and simplicity.
+
+== Variable frequency drives ==
+A variable-frequency drive (VFD; variable speed drive, AC drive) is a type of adjustable-speed drive used in electro-mechanical drive systems to control AC motor speed and torque by varying motor input frequency and voltage. VFDs are used in applications ranging from small appliances to large compressors. 
+
+The VFD controller is a solid-state power electronics conversion system consisting of three distinct sub-systems: a rectifier bridge converter, a direct current (DC) link, and an inverter. Most drives are AC-AC drives in that they convert AC line input to AC inverter output. 
+
+A VFD is extremely versatile and often used in process applications where a constant pressure or flow needs to be maintained. In addition, because the motor can be run at a slower speed and hence use less energy, use of a VFD can facilitate significant power savings. 
+
+Variable speed drives are generally the most expensive method of motor starting, but their versatility means they are very widely used.
+
+== Applicable standards ==
+
+The different applicable standards are listed on {{FigureRef|N82}}. 
+
+{{tb-start|id=Tab1390|num=N82|title=Applicable standards|cols=4}}
+{| class="wikitable"
+|-
+! style="width:100px;" | Standard 
+! Title
+|-
+| IEC 60947-1 
+| Low-voltage switchgear and controlgear – General rules
+|-
+| IEC 60947-4-1 
+| Contactors and motor-starters –Electromechanical contactors and motor-starters
+|-
+| IEC 60947-4-2 
+| Contactors and motor-starters – AC semiconductor motor controllers and starters
+|-
+| IEC 60947-6-2 
+| Multiple function equipment – Control and protective switching devices (or equipment) (CPS)
+|-
+| IEC 61800 
+| Adjustable speed electrical power drive systems
+|}
+
+Different utilization categories have been defined for contactors in IEC 60947-4-1. The selection relative to asynchronous motor control is given in {{FigureRef|N83}}. 
+
+{{tb-start|id=Tab1391|num=N83|title=Different categories of AC contactors used for asynchronous motor control|cols=4}}
+{| class="wikitable"
+|-
+! Category 
+! Typical applications
+|-
+| AC-1 
+| Non-inductive or slightly inductive loads, resistance furnaces
+|-
+| AC-2 
+| Slip-ring motors: starting, switching off
+|-
+| AC-3 
+| Squirrel-cage motors: starting, switching off motors during running
+|-
+| AC-4 
+| Squirrel-cage motors: starting, plugging{{tn|A}}, inching{{tn|B}} 
+|}
+{{tb-notes
+|A= By plugging is understood stopping or reversing the motor rapidly by reversing motor primary connections while the motor is running.
+|B= By inching (jogging) is understood energizing a motor once or repeatedly for short periods to obtain small movements of the driven mechanism }}

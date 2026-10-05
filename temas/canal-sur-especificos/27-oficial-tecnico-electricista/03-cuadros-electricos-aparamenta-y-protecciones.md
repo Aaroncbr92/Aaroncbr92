@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 3 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 15.3 y 16 del Reglamento; ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-09, ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, ITC-BT-28, ITC-BT-34, ITC-BT-47 e ITC-BT-52. Real Decreto 614/2001, anexo IV. Guía técnica del INSST sobre riesgo eléctrico (2020). Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículos 15.3 y 16 del Reglamento; ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-09, ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, ITC-BT-28, ITC-BT-34, ITC-BT-47 e ITC-BT-52. Real Decreto 614/2001, anexo IV. Guía técnica del INSST sobre riesgo eléctrico (2020). Para los datos de norma de producto, la guía técnica de instalación de Schneider Electric (*Electrical Installation Guide*). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados del REBT tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo la ITC-BT-02 (listado vigente desde el 04/04/2025) y la ITC-BT-52 (redacción vigente desde el 16/06/2022). El anexo IV del Real Decreto 614/2001 tiene una sola redacción |
-| **Extensión** | Unas 14.200 palabras |
+| **Extensión** | Unas 17.000 palabras |
 
 <!-- /portada -->
 
@@ -18,21 +18,27 @@ tensión (**REBT**) y sus instrucciones técnicas complementarias (**ITC-BT**); 
 Seguridad y Salud en el Trabajo (**INSST**); Asociación Española de Normalización (**UNE**), norma
 europea (**EN**) y Comisión Electrotécnica Internacional (**IEC**); interruptor general automático
 (**IGA**); pequeño interruptor automático o magnetotérmico (**PIA**); interruptor diferencial
-(**ID**); dispositivo de protección contra sobretensiones (**DPS**); sistema de alimentación
+(**ID**); dispositivo de protección contra sobretensiones (**DPS**), con sus tipos 1, 2 y 3; sistema de alimentación
 ininterrumpida (**SAI**); sistema de alimentación específico del vehículo eléctrico (**SAVE**);
 muy baja tensión de seguridad (**MBTS**); conductor de protección (**PE**) y conductor combinado de
 neutro y protección (**CPN** o **PEN**); esquemas de conexión a tierra (**TT**, **TN**, **TN-C**,
 **TN-S**, **TN-C-S**, **IT**); grado de protección de una envolvente contra sólidos, acceso y agua
 (**IP**), con los códigos que cita el REBT (**IP 30**, **IP2X**, **IP4X**, **IP XXB**, **IP XXD**),
 y contra impactos (**IK**, con el código **IK07**); media tensión y baja tensión (**MT** y **BT**); clases de diferencial (**AC**, **A**, **F**, **B**) y
-diferencial temporizado o selectivo (**S**); normalmente abierto (**NA**) y normalmente cerrado
+diferencial temporizado o selectivo (**S**); clases de fusible (**gG**, **gM**, **aM**); categorías de empleo de
+los contactores (**AC-1** a **AC-4**); normalmente abierto (**NA**) y normalmente cerrado
 (**NC**). Magnitudes: intensidad de empleo o de diseño del circuito (**Ib**), intensidad asignada de
 la protección (**In**), intensidad admisible del conductor (**Iz**), corriente diferencial-residual
 asignada (**IΔn**), corriente que asegura el funcionamiento del dispositivo (**Ia**), impedancia del
 bucle de defecto (**Zs**), resistencia de tierra de las masas (**RA**), tensión entre fase y tierra
 (**U0**), tensión de contacto límite convencional (**U** o **UL**), corriente de cortocircuito
-(**Icc**). Unidades: voltio (**V**), kilovoltio (**kV**), amperio (**A**), miliamperio (**mA**),
-kiloamperio (**kA**), ohmio (**Ω**), segundo (**s**), milímetro (**mm**).
+(**Icc**), umbral de disparo magnético (**Im**), intensidad de regulación (**Ir**), corriente
+convencional de funcionamiento o de fusión (**I2**) y factores de fusible (**k2**, **k3**); del DPS,
+corriente de impulso (**Iimp**), corriente máxima de descarga (**Imax**), corriente nominal de
+descarga (**In**, distinta de la del automático), tensión máxima de servicio continuo (**Uc**) y nivel
+de protección (**Up**). Unidades: voltio (**V**), kilovoltio (**kV**), amperio (**A**), miliamperio (**mA**),
+kiloamperio (**kA**), ohmio (**Ω**), segundo (**s**), milímetro (**mm**), hercio
+(**Hz**), microsegundo (**µs**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.27, punto 3):
@@ -45,11 +51,11 @@ tribunal puede preguntar: qué es aparamenta, poder de corte, poder de cierre y 
 según la terminología del REBT; dónde se sitúa un cuadro general, qué contiene como mínimo y qué
 grados IP e IK pide; el poder de corte mínimo del interruptor general automático; las tres causas
 de sobreintensidad y qué dispositivos admite la ITC-BT-22; los dos disparos del magnetotérmico,
-sus curvas y su poder de corte; la sensibilidad de 30 mA y su carácter complementario; las clases
-de diferencial; las condiciones de corte automático en TT y TN (RA × Ia ≤ U, Zs × Ia ≤ U0, 0,4 s a
+sus curvas con sus márgenes de disparo y su poder de corte; las condiciones Ib ≤ In ≤ Iz e I2 ≤ 1,45 Iz; la sensibilidad de 30 mA y su carácter complementario; las clases
+de diferencial (AC, A, F, B) y qué detecta cada una; las condiciones de corte automático en TT y TN (RA × Ia ≤ U, Zs × Ia ≤ U0, 0,4 s a
 230 V) y la prohibición del diferencial en TN-C; la relación entre fugas y sensibilidad; qué es un
-fusible y cómo se sustituye; contactor, sus partes y su categoría de empleo; relés térmicos, de
-falta de tensión, diferenciales y controladores de aislamiento; seccionador frente a interruptor y
+fusible, sus clases gG y aM y cómo se sustituye; contactor, sus partes y sus categorías de empleo (AC-1 a AC-4); relés térmicos, de
+falta de tensión (con las excepciones de la ITC-BT-47), diferenciales y controladores de aislamiento; seccionador frente a interruptor y
 el error de abrir un seccionador en carga; los dispositivos admitidos para separar y para cortar en
 carga; la selectividad que exigen la ITC-BT-17, la ITC-BT-19 y la ITC-BT-24 (tipo S, 1 s en TT); y
 la ITC-BT-23 entera: categorías I a IV, tensiones soportadas, situación natural y controlada,
@@ -264,19 +270,57 @@ da como referencia actual de la UNE 20.324 la **UNE-EN 60529**, «**Grados de pr
 proporcionados por las envolventes (Código IP)**»; y recoge la serie **UNE-EN 61439** de
 «**Conjuntos de aparamenta de baja tensión**».
 
-El código IP, en lo que hay que saber leer (la tabla completa de cada cifra es contenido de la
-norma de producto y no se da):
+El código IP, en lo que hay que saber leer. La norma UNE-EN 60529 no se ha leído; lo que sigue es
+la explicación del código que da la guía técnica de instalación de un fabricante (Schneider
+Electric, *Electrical Installation Guide*, capítulo E, «Protection provided for enclosed
+equipment: codes IP and IK»), que lo refiere a la IEC 60529, traducido. El código se escribe con
+las letras IP seguidas de dos cifras características y, si hace falta, una letra adicional y una
+letra suplementaria, ambas opcionales (por ejemplo, IP 23CH):
 
-| Posición | Qué indica |
-|---|---|
-| Primera cifra | Protección contra la penetración de cuerpos sólidos y contra el acceso a partes peligrosas |
-| Segunda cifra | Protección contra la penetración de agua |
-| Letra adicional | Protección de las personas contra el acceso a partes peligrosas, cuando es mayor que la que da la primera cifra |
-| Letra suplementaria | Información complementaria del fabricante |
+| Posición | Valores | Qué indica |
+|---|---|---|
+| Primera cifra | 0 a 6, o X | Protección del equipo contra la penetración de cuerpos sólidos extraños y, a la vez, de las personas contra el acceso a partes peligrosas |
+| Segunda cifra | 0 a 9, o X | Protección del equipo contra la penetración de agua con efectos perjudiciales |
+| Letra adicional (opcional) | A, B, C, D | Protección de las personas contra el acceso a partes peligrosas |
+| Letra suplementaria (opcional) | H, M, S, W | Información complementaria: aparato de alta tensión (H), en movimiento durante el ensayo de agua (M), parado durante el ensayo de agua (S), condiciones meteorológicas (W) |
 
-La letra X significa «no especificado»: IP XXB no dice nada del polvo ni del agua, dice que un dedo
-no llega a la parte activa. El grado IK mide la resistencia a los impactos mecánicos; un cuadro con
-IP alto e IK bajo se rompe de un golpe y deja de tener IP (oficio).
+Significado de cada valor, según la misma guía:
+
+| Valor | Primera cifra: cuerpos sólidos | Primera cifra: acceso de las personas con | Segunda cifra: agua |
+|---|---|---|---|
+| 0 | Sin protección | Sin protección | Sin protección |
+| 1 | Diámetro ≥ 50 mm | El dorso de la mano | Goteo vertical |
+| 2 | Diámetro ≥ 12,5 mm | Un dedo | Goteo con el equipo inclinado 15° |
+| 3 | Diámetro ≥ 2,5 mm | Una herramienta | Pulverización |
+| 4 | Diámetro ≥ 1,0 mm | Un alambre | Salpicaduras |
+| 5 | Protegido contra el polvo | Un alambre | Chorro |
+| 6 | Estanco al polvo | Un alambre | Chorro potente |
+| 7 | — | — | Inmersión temporal |
+| 8 | — | — | Inmersión continua |
+| 9 | — | — | Chorro de agua a alta presión y temperatura |
+
+Y la letra adicional: A, el dorso de la mano; B, un dedo; C, una herramienta; D, un alambre. Cuando
+una cifra no hace falta especificarla, se sustituye por la letra X (XX si se omiten las dos); las
+letras adicional y suplementaria pueden omitirse sin sustituirlas.
+
+Leídos con esa tabla, los códigos que cita el REBT:
+
+| Código | Dónde lo pide el REBT | Qué significa |
+|---|---|---|
+| IP 30 | Envolventes de los cuadros (ITC-BT-17, 1.2) | Cuerpos sólidos de 2,5 mm o más y acceso con una herramienta; sin protección contra el agua (segunda cifra 0) |
+| IP2X | Segunda barrera (ITC-BT-24, 3.2) | Cuerpos sólidos de 12,5 mm o más y acceso con un dedo; agua no especificada |
+| IP4X | Superficies superiores horizontales accesibles (ITC-BT-24, 3.2) | Cuerpos sólidos de 1,0 mm o más y acceso con un alambre; agua no especificada |
+| IP XXB | Envolventes y barreras de partes activas (ITC-BT-24, 3.2) | Sólo el acceso: un dedo no llega a la parte peligrosa; nada de sólidos ni de agua |
+| IP XXD | Alternativa al IP4X en superficies superiores (ITC-BT-24, 3.2) | Sólo el acceso: un alambre no llega a la parte peligrosa |
+
+IP XXB no dice nada del polvo ni del agua: dice que un dedo no llega a la parte activa.
+
+El grado IK mide la resistencia de la envolvente a los impactos mecánicos. La misma guía da su
+tabla según la IEC 62262 (el REBT cita la UNE-EN 50.102): el código va de IK00 (0 julios) a IK10
+(20 julios), y el **IK07** que pide la ITC-BT-17 corresponde a una energía de impacto de 2 julios.
+Para los cuadros de interior, ese fabricante recomienda, salvo que la reglamentación del país diga
+otra cosa, IP 30 e IK07 en salas técnicas sin riesgo de caída vertical de agua ni de impactos
+importantes. Un cuadro con IP alto e IK bajo se rompe de un golpe y deja de tener IP (oficio).
 
 Lo que el REBT exige a toda envolvente que proteja partes activas (ITC-BT-24, apartado 3.2):
 
@@ -441,12 +485,32 @@ circuito. Es la base de la coordinación entre aparatos que se trata en el epíg
 ITC-BT-22 no la escribe: remite a **la norma UNE 20.460-4-43**, que **recoge en su articulado todos
 los aspectos requeridos para los dispositivos de protección**, entre ellos **433 Protección contra
 las corrientes de sobrecarga** y **435 Coordinación entre la protección contra las sobrecargas y la
-protección contra los cortocircuitos**. La regla de oficio que se usa para elegir el calibre es que
-la intensidad asignada del automático quede entre la corriente de empleo del circuito y la
-admisible del cable (Ib ≤ In ≤ Iz); esa condición y sus cifras son de la norma UNE, que este tema
-no ha leído, y no están en el REBT. Lo que sí dice el REBT es que las características de
-interrupción de las protecciones **estarán de acuerdo con las corrientes admisibles de los
-conductores del circuito que protegen** (ITC-BT-17, 1.3).
+protección contra los cortocircuitos**. Esa norma UNE no se ha leído, y la condición numérica no
+está en el REBT. Lo que sí dice el REBT es que las características de interrupción de las
+protecciones **estarán de acuerdo con las corrientes admisibles de los conductores del circuito
+que protegen** (ITC-BT-17, 1.3).
+
+Las reglas que se usan en la práctica las da la guía técnica de instalación de Schneider Electric
+(*Electrical Installation Guide*, capítulo G, «Practical values for a protective scheme»), que las
+presenta como basadas en las normas IEC. Un dispositivo de protección, automático o fusible,
+funciona correctamente si cumple tres condiciones:
+
+| Condición | Qué significa |
+|---|---|
+| Ib ≤ In ≤ Iz | Su intensidad asignada o de regulación es mayor que la corriente máxima de empleo del circuito y menor que la admisible del cable |
+| I2 ≤ 1,45 Iz | Su corriente convencional de funcionamiento (I2, la que asegura el disparo dentro del tiempo convencional, de una o dos horas según la norma y el valor) no supera 1,45 veces la admisible del cable |
+| Poder de corte ≥ Icc | Su poder de corte es mayor que la corriente de cortocircuito trifásica del punto donde se instala |
+
+Para los automáticos, según la misma guía, la segunda condición se cumple sola: su I2 es siempre
+menor que 1,45 In, y si In ≤ Iz, también es menor que 1,45 Iz; basta con Ib ≤ In ≤ Iz y el poder
+de corte. Para los fusibles no, porque su corriente convencional de fusión, I2 = k2 × In, es
+mayor (la guía da k2 entre 1,6 y 1,9, según el fusible); la guía introduce el factor k3 = k2 / 1,45 y la
+condición In ≤ Iz / k3, con k3 = 1,31 para fusibles gG de menos de 16 A y k3 = 1,10 desde 16 A.
+
+Ejemplo de aplicación. Un circuito con Ib = 20 A y un cable que admite Iz = 27 A: un automático de
+25 A cumple 20 ≤ 25 ≤ 27; uno de 16 A dispararía con la carga normal y uno de 32 A dejaría el cable
+sin proteger. Con fusible gG, el calibre tiene que cumplir además In ≤ 27 / 1,10 ≈ 24,5 A: el de 25 A
+ya no vale, y habría que bajar el calibre o subir la sección.
 
 El dato de partida del cortocircuito lo da la empresa distribuidora, según el artículo 15.3 del
 Reglamento: **Las compañías suministradoras facilitarán los valores máximos previsibles de las
@@ -503,9 +567,30 @@ Las curvas, por su orden:
 | C | Intermedia | El uso general: alumbrado y fuerza corriente |
 | D | La menos sensible | Cargas con punta de arranque fuerte: motores, transformadores |
 
-El tema no da los múltiplos exactos de cada curva: son dato de la norma de producto, que no se ha
-leído. Lo que sí hay que saber es el orden: B es la que antes dispara y D la que más tolera. El REBT
-nombra la curva C en un caso: los circuitos de recarga de vehículos eléctricos **deberán
+B es la que antes dispara y D la que más tolera. Los múltiplos los fija la norma de producto de
+los automáticos domésticos (IEC 60898; en España, UNE-EN 60898-1), que no se ha leído; la guía
+técnica de instalación de Schneider Electric (*Electrical Installation Guide*, capítulo H,
+«Fundamental characteristics of a circuit-breaker», tabla de márgenes de disparo) los da así,
+con Im como umbral del disparo magnético:
+
+| Curva | Disparo magnético (automáticos domésticos, IEC 60898) |
+|---|---|
+| B | 3 In ≤ Im ≤ 5 In |
+| C | 5 In ≤ Im ≤ 10 In |
+| D | 10 In ≤ Im ≤ 20 In |
+
+Dos matices de la misma tabla. Para la curva D, una nota advierte que la IEC 60898 llega a 50 In,
+valor que la mayoría de los fabricantes europeos consideran irrealmente alto (Schneider Electric da
+de 10 a 14 In). Y para los automáticos industriales (IEC 60947-2) las normas no fijan valores: el
+umbral lo indica el fabricante, a menudo regulable, y la tabla sólo recoge los de uso corriente.
+En los domésticos la regulación térmica no es ajustable: Ir = In.
+
+Lectura para el examen: un PIA de curva C y 16 A dispara por la parte magnética entre 80 y 160 A;
+con una corriente de defecto de 100 A, uno de curva B (48 a 80 A) dispara seguro en instantáneo y
+uno de curva D (160 a 320 A) no, y queda a merced del disparo térmico, lento. Es la razón de que la
+curva B se use en líneas largas, donde la corriente de defecto es baja (oficio).
+
+El REBT nombra la curva C en un caso: los circuitos de recarga de vehículos eléctricos **deberán
 protegerse contra sobrecargas y cortocircuitos con dispositivos de corte omnipolar, curva C,
 dimensionados de acuerdo con los requisitos de la (ITC) BT-22** (ITC-BT-52, apartado 6.3).
 
@@ -622,8 +707,9 @@ instalaciones temporales se realice mediante dispositivo diferencial cuya corrie
 residual asignada no supere 500 mA. Estos dispositivos serán selectivos con los dispositivos
 diferenciales de los circuitos terminales.** Y en esas instalaciones, para los equipos accesibles
 al público, **dispositivos diferenciales de corriente diferencial-residual asignada máxima de 30
-mA** (apartado 3.1). La instrucción se aplica a las instalaciones eléctricas temporales de ferias, exposiciones,
-muestras, stands y manifestaciones análogas (apartado 1).
+mA** (apartado 3.1). La instrucción se aplica a **las instalaciones eléctricas temporales de ferias,
+exposiciones, muestras, stands, alumbrados festivos de calles, verbenas y manifestaciones
+análogas** (apartado 1).
 
 El 300 mA sí tiene número en el REBT en un caso, el alumbrado exterior (ITC-BT-09, apartado 4,
 «Cuadros de protección, medida y control»): **La intensidad de defecto, umbral de desconexión de
@@ -646,10 +732,27 @@ La clase dice qué forma de corriente de defecto es capaz de detectar:
 
 | Clase | Qué detecta | Base |
 |---|---|---|
-| AC | Corrientes de defecto alternas senoidales | Oficio, por contraste con la clase A |
+| AC | Corrientes de defecto alternas senoidales | Guía de Schneider Electric (IEC 60755) |
 | A | **corrientes alternas senoidales así como para corrientes continuas pulsantes** | ITC-BT-24, 3.5 |
-| F y B | Tipos con norma propia en la ITC-BT-02: **UNE-EN 62423**, «**Interruptores automáticos tipo F y tipo B para actuar por corriente diferencial residual**» | Lo que detecta cada uno es contenido de esa norma, no leída |
+| F | Lo que detecta el A y, además, corrientes compuestas de varias frecuencias, propias de los circuitos con variadores de velocidad monofásicos; dispara aunque haya superpuesta una corriente continua lisa de 10 mA, y aguanta mejor las perturbaciones (no dispara con corrientes de choque) | Guía de Schneider Electric (IEC 62423 e IEC 60755) |
+| B | Alternas senoidales, continuas pulsantes, compuestas de varias frecuencias y continuas lisas; con condiciones de disparo definidas para frecuencias de 50 Hz a 1.000 Hz | Guía de Schneider Electric (IEC 60755) |
 | S | Temporizado o selectivo: retarda su disparo para dar selectividad con los de aguas abajo | ITC-BT-24, 4.1.1 y 4.1.2 (epígrafe 8.3) |
+
+Las clases F y B tienen norma propia en el listado de la ITC-BT-02: **UNE-EN 62423**,
+«**Interruptores automáticos tipo F y tipo B para actuar por corriente diferencial residual**». Esa
+norma no se ha leído; lo que la tabla dice de AC, F y B lo da la guía técnica de instalación de
+Schneider Electric (*Electrical Installation Guide*, capítulo F, «Types of RCDs»), que remite a la
+IEC 60755 y a la IEC 62423. Según esa guía:
+
+- Las clases encajan unas en otras como muñecas rusas: un diferencial de clase B cumple también los
+  requisitos de las clases F, A y AC.
+- Usos típicos: la A, cargas electrónicas monofásicas de clase I (rectificadores de diodos o
+  tiristores); la F, variadores de velocidad monofásicos (lavadoras, aire acondicionado); la B,
+  cargas con rectificador trifásico, como variadores de velocidad, instalaciones fotovoltaicas,
+  estaciones de recarga de vehículos eléctricos y equipos médicos.
+- Una corriente continua lisa de defecto procede sobre todo de rectificadores trifásicos, y también
+  de algunos monofásicos (la tabla de la guía cita el rectificador monofásico con filtrado); de las
+  cuatro clases, la guía sólo atribuye a la B su detección.
 
 La S no es una clase de forma de onda sino de tiempo: un diferencial puede ser, a la vez, de clase A
 y selectivo (oficio).
@@ -759,8 +862,8 @@ La ITC-BT-01 define la corriente de fuga como la **Corriente que, en ausencia de
 transmite a la tierra o a elementos conductores del circuito.** La aplicación de oficio en una sala
 técnica: los filtros de red de las fuentes conmutadas derivan a tierra una pequeña corriente
 permanente; muchos equipos en un mismo circuito suman fugas, y un diferencial de 30 mA que cubre
-demasiados equipos dispara sin defecto alguno, sobre todo al conectar. La solución que el
-se desprende del apartado citado es subdividir: menos equipos por diferencial, cada uno con su protección.
+demasiados equipos dispara sin defecto alguno, sobre todo al conectar. La solución que se
+desprende del apartado citado es subdividir: menos equipos por diferencial, cada uno con su protección.
 Los diferenciales con rearme automático existen y el REBT los nombra en el alumbrado exterior
 (**podrán ser de reenganche automático**, ITC-BT-09, 4) y en la recarga en vía pública,
 aparcamientos públicos y estaciones de movilidad eléctrica (ITC-BT-52, 6.1); no son una solución para las fugas, sino para recuperar el servicio tras
@@ -806,8 +909,34 @@ falta de tensión en una de sus fases** (ITC-BT-47, 4; epígrafe 6.1).
 
 Datos que se piden al comprar un fusible: calibre, tamaño, clase de servicio y poder de corte. La
 clase dice qué protege: hay fusibles de uso general y fusibles para proteger semiconductores, que
-son mucho más rápidos, y no se sustituye uno por otro (oficio; las designaciones de cada clase son
-de la norma de producto, no leída).
+son mucho más rápidos, y no se sustituye uno por otro (oficio).
+
+Las clases de fusible de baja tensión las define la serie IEC 60269 (en España, UNE-EN 60269),
+que no se ha leído. La guía técnica de instalación de Schneider Electric (*Electrical Installation
+Guide*, capítulo H, «Elementary switching devices») explica su designación con dos letras:
+
+| Letra | Qué indica | Valores |
+|---|---|---|
+| Primera | El margen de corte | g: fusible con poder de corte en toda la gama; a: fusible con poder de corte en una gama parcial |
+| Segunda | La categoría de utilización, que fija con precisión la característica tiempo-corriente | G: uso general; M: protección de circuitos de motores |
+
+De ahí las clases que más se encuentran:
+
+| Clase | Qué es | Uso |
+|---|---|---|
+| gG | Corte en toda la gama, uso general: protege contra sobrecargas y cortocircuitos | Instalaciones domésticas (cartuchos de hasta 100 A) e industriales; también motores, si aguanta la punta de arranque sin deteriorarse |
+| aM | Corte en gama parcial, para circuitos de motores | Industrial; la guía lo da como el más usado en motores, combinado con un relé térmico que cubre la sobrecarga |
+| gM | Corte en toda la gama, para circuitos de motores, con dos valores de intensidad: la asignada y la que fija su característica tiempo-corriente | Industrial; necesita un relé de sobrecarga aparte |
+
+La guía añade que algunas normas nacionales usan un tipo gI (industrial), en lo esencial igual al
+gG, que no debe usarse en instalaciones domésticas. Para el gG da las corrientes convencionales
+de la IEC 60269-1: un fusible de más de 16 A y hasta 63 A no debe fundir en una hora con 1,25 In (corriente
+convencional de no fusión) y debe fundir en una hora o menos con 1,6 In (corriente convencional
+de fusión, I2). Es el dato del epígrafe 2.1: con fusibles, la condición I2 ≤ 1,45 Iz obliga a
+elegir un calibre algo menor que con automático.
+
+Las designaciones de los fusibles para la protección de semiconductores no figuran en el pasaje
+leído de esa guía, y no se dan aquí.
 
 La regla de sustitución que se incumple a diario: un fusible se sustituye por otro idéntico en
 calibre, tamaño, clase y poder de corte. Poner uno de más calibre porque «saltaba mucho» es
@@ -866,9 +995,27 @@ de su uso como protección contra la falta de tensión (epígrafe 6.1).
 Datos que se piden al comprarlo: corriente asignada, categoría de empleo, tensión de la bobina y
 contactos auxiliares. La categoría de empleo dice para qué carga está pensado —una resistiva o un
 motor, que corta con arco muy distinto—, y el mismo contactor tiene corrientes asignadas distintas
-según la categoría (oficio; las categorías y sus valores son de la norma de producto, no leída).
-Un contactor elegido por la corriente de una carga resistiva y puesto a maniobrar un motor se
-desgasta y puede soldar sus contactos.
+según la categoría (oficio). Un contactor elegido por la corriente de una carga resistiva y puesto
+a maniobrar un motor se desgasta y puede soldar sus contactos.
+
+Las categorías de empleo de los contactores las define la IEC 60947-4-1, que no se ha leído. La
+guía técnica de instalación de Schneider Electric (*Electrical Installation Guide*, capítulo N,
+«Motor starter configurations», y capítulo H, «Elementary switching devices») da las de corriente
+alterna que se usan en el mando de motores asíncronos:
+
+| Categoría | Aplicaciones típicas |
+|---|---|
+| AC-1 | Cargas no inductivas o ligeramente inductivas; hornos de resistencias |
+| AC-2 | Motores de anillos: arranque y desconexión |
+| AC-3 | Motores de jaula de ardilla: arranque y desconexión del motor en marcha |
+| AC-4 | Motores de jaula de ardilla: arranque, frenado por contracorriente (parar o invertir el motor deprisa invirtiendo sus conexiones de alimentación mientras gira) y marcha a impulsos (alimentarlo una o varias veces durante periodos cortos para lograr pequeños movimientos) |
+
+Ejemplo de la guía: un contactor de 150 A en AC-3 debe poder cortar como mínimo 8 In (1.200 A) y
+establecer 10 In (1.500 A) con un factor de potencia de 0,35 inductivo. La misma guía recuerda que
+un contactor con relé térmico (lo que llama «discontactor») no equivale a un interruptor
+automático, porque su poder de corte de cortocircuito se limita a 8 o 10 In: hacen falta fusibles o
+un automático en serie, aguas arriba. Los interruptores tienen sus propias
+categorías de empleo, de la IEC 60947-3, distintas de las del contactor.
 
 ### 5.2 Circuito de potencia y circuito de mando
 
@@ -941,9 +1088,26 @@ La ITC-BT-47 fija lo que tiene que proteger el conjunto de relés y aparatos de 
 > restablecimiento de la tensión, pueda provocar accidentes, o perjudicar el motor, de acuerdo con
 > la norma UNE 20.460-4-45.
 > Dicho dispositivo puede formar parte del de protección contra las sobrecargas o del de
-> arranque**» (…)
+> arranque, y puede proteger a más de un motor si se da una de las circunstancias siguientes:
+> – los motores a proteger estén instalados en un mismo local y la suma de potencias absorbidas no
+> es superior a 10 kilovatios.
+> – los motores a proteger estén instalados en un mismo local y cada uno de ellos queda
+> automáticamente en el estado inicial de arranque después de una falta de tensión.
+> Cuando el motor arranque automáticamente en condiciones preestablecidas, no se exigirá el
+> dispositivo de protección contra la falta de tensión, pero debe quedar excluida la posibilidad de
+> un accidente en caso de arranque espontáneo. Si el motor tuviera que llevar dispositivos
+> limitadores de la potencia absorbida en el arranque, es obligatorio, para quedar incluidos en la
+> anterior excepción, que los dispositivos de arranque vuelvan automáticamente a la posición
+> inicial al originarse una falta de tensión y parada del motor.**»
 >
 > — Real Decreto 842/2002, ITC-BT-47, apartado 5.
+
+Tres datos de ese apartado que un examen busca: un solo dispositivo puede proteger a varios
+motores de un mismo local si **la suma de potencias absorbidas no es superior a 10 kilovatios**, o
+si cada uno vuelve solo al estado inicial de arranque; y el motor que arranca automáticamente en
+condiciones preestablecidas (una bomba de achique mandada por boya, un ventilador por termostato)
+no necesita esa protección, aunque debe excluirse el accidente por arranque espontáneo (los
+ejemplos son de oficio).
 
 Con qué se cumple, de oficio:
 
@@ -997,7 +1161,7 @@ La conexión de estos relés con la gestión técnica del edificio es del tema 1
 ## 7. Seccionadores
 
 La ITC-BT-01 no define el seccionador. La guía técnica del INSST para la evaluación y prevención del
-riesgo eléctrico (4.ª edición, 2020) distingue los dos aparatos de maniobra así:
+riesgo eléctrico (edición de septiembre de 2020) distingue los dos aparatos de maniobra así:
 
 > «**Seccionadores: pueden abrir y cerrar un circuito cuando es despreciable la corriente a
 > interrumpir o establecer, es decir, cuando no hay cargas conectadas.
@@ -1270,6 +1434,26 @@ parámetros (corriente de descarga, tensión residual) son de la norma de produc
 61643-11**, «**Dispositivos de protección contra sobretensiones transitorias de baja tensión. Parte
 11: Dispositivos de protección contra sobretensiones transitorias conectados a sistemas eléctricos
 de baja tensión. Requisitos y métodos de ensayo.**», que figura en la ITC-BT-02 y no se ha leído.
+
+Lo que de esa norma explica la guía técnica de instalación de Schneider Electric (*Electrical
+Installation Guide*, capítulo J, «The Surge Protection Device (SPD)»), que la cita como EN/IEC
+61643-11: hay tres tipos de DPS, que se distinguen por la onda de ensayo.
+
+| Tipo | Onda de ensayo | Para qué, según la guía |
+|---|---|---|
+| Tipo 1 (ensayo de clase I) | Corriente 10/350 µs; su parámetro propio es la corriente de impulso, Iimp | Recomendado en edificios terciarios e industriales protegidos por un sistema de protección contra el rayo o una jaula mallada; descarga la corriente del rayo que vuelve desde la tierra hacia los conductores de la red |
+| Tipo 2 (clase II) | Corriente 8/20 µs; su parámetro propio es la corriente máxima de descarga, Imax | La protección principal de toda instalación de baja tensión: se instala en cada cuadro, impide que las sobretensiones se propaguen y protege las cargas |
+| Tipo 3 (clase III) | Combinación de onda de tensión 1,2/50 µs y de corriente 8/20 µs | Baja capacidad de descarga: se instala siempre como complemento de un tipo 2 y junto a las cargas sensibles |
+
+Existen además DPS de tipo 1 + 2, que combinan las dos funciones. Parámetros comunes, según la
+misma guía: la tensión máxima de servicio continuo (Uc), por encima de la cual el DPS se activa;
+el nivel de protección (Up), la tensión máxima en sus bornes cuando está activo, que debe quedar
+por debajo de la tensión soportada de las cargas (es la regla de la ITC-BT-23, 3.2, ya citada); y
+la corriente nominal de descarga (In), onda 8/20 µs, que el DPS debe aguantar al menos 19 veces.
+El reparto en cascada del epígrafe 9.2 se corresponde, de oficio, con estos tipos: la protección
+basta en cabecera con tipo 1 o tipo 2, la media en los cuadros con tipo 2 y la fina junto a los
+equipos con tipo 3.
+
 La última condición de la ITC-BT-23 para que todo funcione es la tercera de su apartado 1: **La
 existencia de una adecuada red de tierras** (tema 5).
 
@@ -1307,7 +1491,7 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
   corte en carga, fugas); ITC-BT-22, apartados 1.1 y 1.2 (sobreintensidades); ITC-BT-23 entera
   (sobretensiones); ITC-BT-24, apartados 3.2, 3.5 y 4.1 (envolventes, diferencial complementario,
   corte automático en TN, TT e IT); ITC-BT-28, apartados 2.1 y 4 (pública concurrencia); ITC-BT-34,
-  apartados 3.1 y 3.2 (ferias y stands); ITC-BT-47, apartados 4 y 5 (motores); ITC-BT-52,
+  apartados 1, 3.1 y 3.2 (ferias y stands); ITC-BT-47, apartados 4 y 5 (motores); ITC-BT-52,
   apartados 6.1, 6.3 y 6.4 (recarga de vehículos eléctricos).
 - Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud
   y seguridad de los trabajadores frente al riesgo eléctrico: anexo IV, A.1 y B.1 (maniobras).
@@ -1317,15 +1501,18 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
   UNE-EN 60898-1 y UNE-EN 60947-2 (automáticos), UNE-EN 61008-1, UNE-EN 61009-1 y UNE-EN 62423
   (diferenciales), UNE-EN 60269-1 (fusibles), UNE-EN IEC 60947-3 (interruptores y seccionadores),
   UNE-EN 61643-11 (DPS) y UNE-EN IEC 63052 (protección contra sobretensiones temporales).
+- Normas IEC que no nombra el REBT y cita la guía de fabricante usada en el tema, tampoco leídas:
+  IEC 60755 (clases de diferencial), IEC 60947-4-1 (contactores) e IEC 62262 (código IK).
 
 ## Lo que este tema no da, y dónde está
 
-- Los múltiplos de disparo magnético de las curvas B, C y D, las categorías de empleo de los
-  contactores, las clases de fusible y sus designaciones, los tipos de DPS y lo que detectan los
-  diferenciales de tipo F y B: son contenido de normas de producto que no se han leído.
-- La condición Ib ≤ In ≤ Iz y la del factor 1,45 para la corriente convencional de disparo: no están
-  en el REBT, que remite a la UNE 20.460-4-43, no leída. El tema las nombra como regla de oficio,
-  sin cifras de norma.
+- El texto de las normas de producto (UNE-EN 60898-1, 60947-2, 60269, 62423, 60529 y 61643-11;
+  IEC 60755, 60947-4-1 y 62262) y de la UNE 20.460-4-43: no se han leído. Los múltiplos de las curvas B, C y D, las
+  condiciones Ib ≤ In ≤ Iz e I2 ≤ 1,45 Iz, las clases de diferencial F y B, las clases de fusible,
+  las categorías de empleo de los contactores, el significado de las cifras IP e IK y los tipos de
+  DPS se dan con la guía técnica de un fabricante, que explica esas normas, y así se cita cada vez.
+  Si una pregunta exige la redacción exacta de la norma, manda la norma.
+- Las designaciones de los fusibles para semiconductores: no figuran en el pasaje leído de la guía.
 - Las tablas de selectividad y de filiación entre aparatos: son de cada fabricante.
 - El uso de 300 mA y de amperios en diferenciales de cabecera de edificios: es costumbre de oficio.
   El REBT fija 30 mA en varias instrucciones (las citadas aquí son la ITC-BT-24, 3.5, la ITC-BT-34
@@ -1352,10 +1539,11 @@ domésticos y análogos (POP).**» Fuera de la recarga de vehículos, el REBT vi
 | Real Decreto 842/2002, ITC-BT-01, redacción única | Aparamenta, poder de corte, poder de cierre, sobreintensidad, corriente de sobrecarga, cortocircuito franco, corte omnipolar, envolvente, interruptor automático, interruptor diferencial, corriente diferencial residual y de funcionamiento, corriente de fuga, cortacircuito fusible, contactores, nivel de protección | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-02, listado vigente desde el 04/04/2025 (Resolución de 20 de marzo de 2025, BOE-A-2025-6773) | Títulos de las normas UNE-EN 60529 (nota 7), 61439-3, 60898-1, 60947-2, IEC 60947-3, 61008-1, 61009-1, 62423, 60269-1, 61643-11, IEC 63052 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-17, ITC-BT-19, ITC-BT-22, ITC-BT-23, ITC-BT-24, redacción única | ITC-BT-17, 1.1 a 1.3; ITC-BT-19, 2.2.4, 2.4, 2.6, 2.7 y 2.9; ITC-BT-22, 1.1 y 1.2 (notas de la tabla); ITC-BT-23 entera; ITC-BT-24, 3.2, 3.5, 4.1, 4.1.1, 4.1.2 y 4.1.3 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-09, ITC-BT-28, ITC-BT-34, ITC-BT-47, redacción única | ITC-BT-09, 4; ITC-BT-28, 2.1 y 4 (letras a, b, c, d y f); ITC-BT-34, 3.1 y 3.2; ITC-BT-47, 3.1, 4 y 5 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-09, ITC-BT-28, ITC-BT-34, ITC-BT-47, redacción única | ITC-BT-09, 4; ITC-BT-28, 2.1 y 4 (letras a, b, c, d y f); ITC-BT-34, 1, 3.1 y 3.2; ITC-BT-47, 3.1, 4 y 5 (entero) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-52, redacción vigente desde el 16/06/2022 (BOE-A-2022-9848) | Apartados 6.1, 6.3 y 6.4 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 614/2001 (BOE-A-2001-11881), anexo IV, redacción única | Apartados A.1 y B.1 | En el BOE consolidado, 05/10/2026 |
-| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, 4.ª ed., septiembre de 2020 | Definición de seccionadores e interruptores y medidas frente al error de maniobra (comentario al anexo IV) | 05/10/2026 |
+| Schneider Electric, *Electrical Installation Guide* (guía técnica de fabricante, edición en línea), capítulos E («Protection provided for enclosed equipment: codes IP and IK», con sus figuras E66 y E67), F («Types of RCDs»), G («Practical values for a protective scheme»), H («Fundamental characteristics of a circuit-breaker», figura H28; «Elementary switching devices», figuras H5 y H10), J («The Surge Protection Device (SPD)») y N («Motor starter configurations», figura N83) | Código IP e IK; clases AC, F y B; Ib ≤ In ≤ Iz, I2 ≤ 1,45 Iz y factor k3; márgenes de disparo de las curvas B, C y D; clases de fusible gG, gM y aM y corrientes convencionales del gG; categorías AC-1 a AC-4 y ejemplo AC-3; tipos 1, 2 y 3 de DPS y sus parámetros. Traducido; no es literal y va en redonda | 05/10/2026 |
+| INSST, *Guía técnica para la evaluación y prevención del riesgo eléctrico*, edición de septiembre de 2020 | Definición de seccionadores e interruptores y medidas frente al error de maniobra (comentario al anexo IV) | 05/10/2026 |
 
 El BOE consolidado del REBT da como última actualización el 18/12/2025; ninguno de los preceptos
 citados ha cambiado desde las fechas indicadas, y ninguno cambió entre el 24/09/2026 y la fecha de
@@ -1366,9 +1554,10 @@ del magnetotérmico y el orden de las curvas; la relación del poder de corte co
 transformador; el funcionamiento del diferencial por suma de corrientes y lo que no detecta; la
 razón de que el diferencial no funcione en TN-C; las sensibilidades de cabecera; las fugas de las
 fuentes conmutadas; el botón de prueba; la comparación entre fusible y automático y la regla de
-sustitución; las partes del contactor, la categoría de empleo, los esquemas de marcha-paro e
+sustitución; las partes del contactor, la idea de categoría de empleo, los esquemas de marcha-paro e
 inversión y los dos enclavamientos; las familias de relés y su uso; la secuencia de maniobra
 interruptor-seccionador; los tipos de selectividad, sus reglas y el ejemplo de 30 y 300 mA; el
 reparto de la protección en cascada por cuadros; las propiedades del DPS como aparato; y las
 sobretensiones temporales por rotura del neutro. Nada de eso lo dice la norma con esas palabras, y
-el tema no lo presenta como si lo dijera.
+el tema no lo presenta como si lo dijera. Lo tomado de la guía de Schneider Electric se atribuye a
+esa guía en cada epígrafe y no se presenta como texto de la norma que explica.

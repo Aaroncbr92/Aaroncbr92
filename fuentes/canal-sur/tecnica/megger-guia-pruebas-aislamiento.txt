@@ -1,0 +1,1961 @@
+Guía para pruebas 
+de aislamiento 
+eléctrico
+
+	 2	
+UNA PUNTADA A TIEMPO
+
+	
+UNA PUNTADA A TIEMPO	
+1
+"Una puntada a 
+tiempo"
+Guía completa para pruebas de 
+aislamiento eléctrico
+Copyright 2006
+WWW.MEGGER.COM
+
+	 2	
+UNA PUNTADA A TIEMPO
+CONTENIDO	
+PÁGINA
+¿QUÉ ES UN AISLAMIENTO "ÓPTIMO"?............................................................. 3
+¿QUÉ HACE QUE EL AISLAMIENTO FRACASE?................................................... 4
+CÓMO SE MIDE LA RESISTENCIA DEL AISLAMIENTO......................................... 5
+CÓMO INTERPRETAR LAS LECTURAS DE RESISTENCIA...................................... 6
+FACTORES QUE AFECTAN LAS LECTURAS DE RESISTENCIA DEL AISLAMIENTO......8
+TIPOS DE PRUEBAS DE RESISTENCIA DEL AISLAMIENTO................................. 10
+TENSIÓN DE PRUEBA FRENTE A CALIFICACIÓN DEL EQUIPO.......................... 16
+PRUEBA DE CA FRENTE A CC............................................................................. 17
+USO DEL CONJUNTO DE PRUEBA DIELÉCTRICA DE CC.................................... 18
+PRUEBAS DURANTE EL SECADO DEL EQUIPO.................................................. 18
+EFECTO DE LA TEMPERATURA SOBRE LA RESISTENCIA DEL AISLAMIENTO.......21
+EFECTOS DE LA HUMEDAD............................................................................... 23
+PREPARACIÓN DE APARATOS QUE SE PROBARÁN......................................... 24
+PRECAUCIONES DE SEGURIDAD........................................................................ 26
+CONEXIONES PARA PROBAR LA RESISTENCIA DEL AISLAMIENTO DE LOS 
+EQUIPOS ELÉCTRICOS........................................................................................ 27
+NOTAS ADICIONALES SOBRE EL USO DE UN PROBADOR DE 
+AISLAMIENTO DE MEGGER............................................................................... 33
+VALORES MÍNIMOS DE INTERPRETACIÓN........................................................ 36
+VALORES MÍNIMOS DE RESISTENCIA DEL AISLAMIENTO................................ 38
+PRUEBAS CON PROBADORES DE AISLAMIENTO DE DIVERSAS 
+TENSIONES DE MEGGER.................................................................................... 42
+MÉTODO DE TENSIÓN ESCALONADA............................................................... 48
+USO DE UN TERMINAL DE PROTECCIÓN.......................................................... 50
+BUSHINGS, TERMINACIONES DE CABLE Y AISLADORES.................................. 54
+INTERRUPTORES EXTERIORES EN ACEITE......................................................... 57
+CONFIGURACIÓN DE UN PROGRAMA DE MANTENIMIENTO......................... 60
+¿CON QUÉ FRECUENCIA DEBE PROBAR?.......................................................... 60
+PROBADORES DE AISLAMIENTO DE 5, 10 Y 15 KV DE MEGGER..................... 62
+PROBADORES DE AISLAMIENTO DE 1 KV DE MEGGER................................... 63
+
+	
+UNA PUNTADA A TIEMPO	
+3
+¿QUÉ ES UN AISLAMIENTO "ÓPTIMO"?
+Cada cable eléctrico en su planta, ya sea de un motor, un generador, un cable, 
+un interruptor, un transformador, etc., se recubre cuidadosamente con algún 
+tipo de aislamiento eléctrico. El cable en sí suele ser de cobre o aluminio, los 
+cuales se conocen por ser buenos conductores de la corriente eléctrica que 
+alimenta el equipo. El aislamiento debe ser lo opuesto de un conductor: debe 
+resistir la corriente y mantenerla en su trayectoria a lo largo del conductor. 
+Para comprender las pruebas de aislamiento, realmente no necesita estudiar 
+las matemáticas de la electricidad. Sin embargo, una simple ecuación, la ley 
+de Ohm, puede resultar muy útil para apreciar muchos aspectos. Incluso si ya 
+conoce esta ley desde antes, puede ser una buena idea revisarla a la luz de la 
+prueba de aislamiento.
+El propósito del aislamiento alrededor de un conductor es muy similar al de 
+una tubería por donde pasa agua, y la ley de Ohm de electricidad se puede 
+comprender con mayor facilidad mediante una comparación con el flujo de 
+agua. En la Fig. 1, mostramos esta comparación. La presión sobre el agua 
+de una bomba produce el flujo a través de la tubería (Fig. 1a). Si la tubería 
+tuviera una fuga, perdería agua y, por consiguiente, algo de presión. 
+Con la electricidad, la tensión es similar a la presión de la bomba, lo que 
+produce que la electricidad fluya a través del cable de cobre (Fig. 1b). Como 
+en una tubería de agua, existe cierta resistencia al flujo, pero es mucho 
+menor a través del cable que a través del aislamiento.
+Figura 1: Comparación del flujo de agua (a) con la corriente eléctrica (b).
+
+	 4	
+UNA PUNTADA A TIEMPO
+El sentido común nos dice que mientras más tensión tengamos, mayor será 
+la cantidad de corriente. Además, cuanto menor sea la resistencia del cable, 
+mayor será la corriente para la misma tensión. 
+En realidad, esta es la ley de Ohm, que se expresa de esta manera en forma 
+de ecuación:
+	
+E = I x R
+donde,	
+E = tensión en voltios
+	
+I = corriente en amperios
+	
+R = resistencia en ohmios
+Sin embargo, tenga en cuenta que ningún aislamiento es perfecto (es decir, 
+que tiene una resistencia infinita), por lo que parte de la electricidad fluye a 
+lo largo del aislamiento o a través de este hasta la tierra. Tal corriente puede 
+ser solamente una millonésima parte de un amperio (un microamperio), pero 
+es la base de equipos de prueba de aislamiento. Tenga en cuenta también que 
+una tensión más alta tiende a generar más corriente a través del aislamiento. 
+Resulta evidente que esta pequeña cantidad de corriente no dañaría un buen 
+aislamiento, pero sería un problema si el aislamiento se deteriorara.
+Ahora, para resumir nuestra respuesta a la pregunta “¿Qué es un 
+aislamiento ‘óptimo’?”, vimos que, esencialmente, “óptimo” significa una 
+resistencia relativamente alta a la corriente. Con respecto a la descripción 
+de un material aislante, “óptimo” también significaría “la capacidad de 
+mantener una alta resistencia”. Por lo tanto, una forma adecuada de 
+medición de resistencia puede decirnos cuán “óptimo” es el aislamiento. 
+Además, si toma medidas en períodos regulares, puede comprobar las 
+tendencias hacia el deterioro (encontrará más información más adelante).
+¿QUÉ HACE QUE EL AISLAMIENTO FRACASE?
+Cuando el sistema eléctrico y el equipo de la planta son nuevos, el aislamiento 
+eléctrico debe estar en perfectas condiciones. Además, los fabricantes de 
+alambre, cable, motores, etc., mejoran de manera continua los aislamientos 
+para los servicios en la industria. Sin embargo, todavía hoy, el aislamiento está 
+sujeto a muchos de los efectos que pueden hacer que falle: daños mecánicos, 
+vibración, calor o frío excesivos, suciedad, aceite, vapores corrosivos, humedad 
+proveniente de los procesos o simplemente la humedad de un día húmedo.
+En diversos grados, estos enemigos del aislamiento intervienen a medida 
+que pasa el tiempo, combinados con el estrés eléctrico que existe. A medida 
+que se generan orificios o grietas, tanto la humedad como las materias 
+extrañas penetran en las superficies del aislamiento, lo que proporciona una 
+trayectoria de baja resistencia para la corriente de fuga. 
+
+	
+UNA PUNTADA A TIEMPO	
+5
+Una vez que comienzan, los diversos enemigos tienden a ayudarse mutuamente, 
+lo que permite la circulación de corriente excesiva a través del aislamiento.
+A veces, la caída en la resistencia del aislamiento es repentina, como cuando 
+el equipo se inunda. Sin embargo, por lo general, desciende gradualmente, lo 
+que proporciona diversas advertencias si se revisa de manera periódica. Tales 
+revisiones permiten llevar a cabo un reacondicionamiento planificado antes 
+de que se produzcan fallas en el servicio. Si no se realizan revisiones, un motor 
+con aislamiento deficiente, por ejemplo, no solo puede ser peligroso al tacto 
+cuando se aplica tensión, sino que también se puede incendiar. Lo que era un 
+aislamiento óptimo se convirtió en un conductor parcial. 
+CÓMO SE MIDE LA RESISTENCIA DEL AISLAMIENTO
+Ya vio que un aislamiento óptimo cuenta con una alta resistencia, mientras 
+que un aislamiento deficiente, con una resistencia relativamente baja. Los 
+valores reales de la resistencia pueden ser mayores o menores en función 
+de diversos factores, como la temperatura o el contenido de humedad en el 
+aislamiento (la resistencia disminuye con la temperatura o la humedad). No 
+obstante, con algo de mantenimiento de registros y sentido común, puede 
+obtener una buena perspectiva de la condición del aislamiento a partir de los 
+valores que solo son relativos.
+El probador de aislamiento de Megger es un pequeño instrumento portátil 
+que le proporciona una lectura directa de la resistencia del aislamiento en 
+ohmios o megohmios. Para disponer de un buen aislamiento, normalmente 
+la resistencia se lee en megohmios.
+El probador de aislamiento de Megger es, esencialmente, un medidor 
+de resistencia de alta gama (ohmímetro) con un generador de corriente 
+continua integrado. Este medidor está fabricado de manera especial con 
+bobinas de corriente y de tensión, lo que permite leer los ohmios reales 
+de manera directa, independientemente de la tensión real aplicada. Este 
+método no es destructivo; es decir, no causa deterioro del aislamiento.
+Figura 2: Conexión común de un instrumento de prueba de Megger para medir la resistencia del aislamiento.
+
+	 6	
+UNA PUNTADA A TIEMPO
+El generador se puede accionar de manera manual o conectado a la red para 
+desarrollar una alta tensión de CC que produzca una pequeña corriente a 
+través de las superficies del aislamiento de prueba y sobre estas (Fig. 2). Esta 
+corriente (normalmente a una tensión aplicada de 500 voltios o más) se mide 
+con el ohmímetro, que posee una escala indicadora. En la Fig. 3, se muestra 
+una escala común, que lee los valores de resistencia en aumento desde la 
+izquierda hasta el infinito o una resistencia demasiado alta como para medirla.
+Figura 3: Escala común en el probador de aislamiento de Megger.
+CÓMO INTERPRETAR LAS LECTURAS DE RESISTENCIA
+Como se mencionó anteriormente, se debe considerar que las lecturas de 
+resistencia del aislamiento son relativas. Estas pueden ser muy diferentes 
+en el caso de un motor o de una máquina sometidos a prueba durante tres 
+días seguidos. No obstante, no son señal de un mal aislamiento. Lo que 
+realmente importa es la tendencia en las lecturas realizadas durante un 
+período, lo que muestra la disminución de la resistencia y la advertencia de 
+problemas futuros. Por lo tanto, las pruebas periódicas son el mejor método 
+para efectuar el mantenimiento preventivo de los equipos eléctricos con el 
+uso de las tarjetas de registro, como se muestra en la Fig. 4. 
+Figura 4: Registro común de resistencia del aislamiento del motor de un molino. La curva A muestra 
+los valores de prueba medidos, mientras que la curva B muestra los mismos valores corregidos a 20 °C 
+(consulte la página 22), lo que una proporciona una clara tendencia descendente hacia una condición 
+insegura. El reverso de la tarjeta (a la derecha) se utiliza para registrar los datos de la prueba.
+
+	
+UNA PUNTADA A TIEMPO	
+7
+Si realiza la prueba todos los meses, dos veces al año o una vez al año, 
+depende del tipo, la ubicación y la importancia del equipo. Por ejemplo, 
+un pequeño motor de bomba o un cable de control corto pueden ser 
+fundamentales para un proceso en la planta. La experiencia es el mejor 
+maestro en la puesta en marcha de los períodos programados para su equipo. 
+Cada vez que realice estas pruebas periódicas, debe hacerlo de la misma 
+manera. Es decir, con las mismas conexiones de prueba y con la misma 
+tensión de prueba aplicada durante el mismo período. También debe 
+realizar las pruebas a aproximadamente la misma temperatura o corregirlas 
+a la misma temperatura. Un registro de la humedad relativa cerca del equipo 
+en el momento de la prueba también resulta útil para la evaluación de la 
+lectura y la tendencia. En las secciones posteriores, se abarcan la corrección 
+de la temperatura y los efectos de la humedad.
+En resumen, aquí se proporcionan algunas observaciones generales sobre 
+cómo puede interpretar las pruebas de resistencia del aislamiento periódicas 
+y qué debe hacer con el resultado:
+Condición
+Qué hacer
+(a)	 Valores aceptables a altos 
+y de buena estabilidad.
+No hay causas que requieran 
+preocupación.
+(b)	 Valores aceptables a altos, 
+pero con una tendencia 
+constante hacia valores 
+inferiores.
+Localice y corrija la causa, y revise la 
+tendencia descendente.
+(c)	 Bajos, pero se mantienen 
+estables.
+Es probable que la condición sea 
+perfecta, pero se debe revisar la causa 
+de los valores bajos.
+(d)	 Demasiado bajos como 
+para ser inseguros.
+Limpie, seque o, de lo contrario, eleve 
+los valores antes de poner el equipo 
+en servicio (pruebe el equipo húmedo 
+durante el secado).
+(e)	 Valores aceptables o 
+altos que se mantuvieron 
+estables, pero que 
+muestran un descenso 
+repentino.
+Lleve a cabo las pruebas en intervalos 
+frecuentes hasta localizar y solucionar 
+la causa de los valores bajos, hasta 
+que los valores se estabilicen en un 
+nivel inferior pero, seguro para el 
+funcionamiento o hasta que los valores 
+disminuyan tanto que sea inseguro 
+mantener el equipo en funcionamiento.
+ 
+
+	 8	
+UNA PUNTADA A TIEMPO
+FACTORES QUE AFECTAN LAS LECTURAS DE RESISTENCIA DEL AISLAMIENTO
+Recuerde que la resistencia medida (del aislamiento) se determina 
+en función de la tensión aplicada y la corriente resultante (R = E/I). 
+Existe un sinnúmero de factores que afectan a la corriente, incluidos 
+la temperatura del aislamiento y la humedad, como se mencionó en la 
+sección anterior. Ahora, consideremos la naturaleza de la corriente a 
+través del aislamiento y el efecto del tiempo en que se aplica la tensión. 
+La corriente a través y a lo largo del aislamiento se compone en parte 
+de una corriente relativamente estable en las trayectorias de fugas 
+sobre la superficie de aislamiento. Asimismo, la electricidad fluye a 
+través del volumen del aislamiento. En realidad, como se muestra en la 
+Fig. 5, nuestra corriente total consta de tres componentes:
+1.	Corriente de carga de capacitancia
+Es la corriente que comienza alta y desciende después de que el 
+aislamiento se cargó a la máxima tensión (como el flujo de agua en 
+una manguera de jardín cuando abre la llave por primera vez).
+2.	Corriente de absorción
+También es una corriente alta al inicio que luego disminuye (debido a 
+razones que se analizan en la sección “Método de tiempo-resistencia”).
+3.	Corriente de fuga o conducción
+Se trata de una pequeña cantidad de corriente esencialmente estable 
+que pasa a través del aislamiento y por sobre este. 
+Como se muestra en la Fig. 5, la corriente total corresponde a la 
+suma de los tres componentes y es la corriente que se puede medir 
+directamente con un microamperímetro o, en términos de megohmios a 
+una determinada tensión, con un instrumento de Megger (ohmímetro). 
+Debido a que la corriente total depende del tiempo en el que se 
+aplica la tensión, ahora puede ver por qué la ley de Ohm R = E/I solo 
+se sostiene, teóricamente, en un tiempo infinito (es decir, tendría que 
+esperar por siempre antes de tomar una lectura).
+ 
+En la práctica, como verá en los métodos de ensayo descritos a continuación, 
+puede leer un valor que corresponde a la resistencia aparente: un valor útil 
+para diagnosticar problemas, que es lo que se desea hacer.
+
+	
+UNA PUNTADA A TIEMPO	
+9
+Figura 5: Curvas que exhiben los componentes de la corriente medida durante la prueba de 
+aislamiento de CC.
+Tenga en cuenta también que en la Fig. 5 la corriente de carga desaparece 
+de manera relativamente rápida a medida que el equipo sometido a 
+prueba se carga. Las unidades más grandes con más capacitancia tardarán 
+más tiempo en cargarse. Esta corriente también corresponde a la energía 
+almacenada que se descargó en un principio después de su prueba mediante 
+un cortocircuito y la puesta a tierra del aislamiento. SIEMPRE TOME ESTA 
+MEDIDA DE SEGURIDAD.
+Además, en la Fig. 5, puede ver que la corriente de absorción disminuye 
+a un ritmo relativamente lento en función de la naturaleza exacta del 
+aislamiento. Cuando se finalice la prueba, también se debe liberar esta 
+energía almacenada, ya que requiere más tiempo que la corriente de carga de 
+capacitancia: aproximadamente cuatro veces más que la de la tensión aplicada.
+Con un aislamiento óptimo, la corriente de fuga o conducción se debe 
+acumular hasta constituir un valor estable que sea constante con respecto a 
+la tensión aplicada, como se muestra en la Fig. 5. Cualquier aumento de la 
+corriente de fuga con el tiempo supone una advertencia de problema, como 
+se analiza en las pruebas que se describen en la siguiente sección. 
+
+	10	
+UNA PUNTADA A TIEMPO
+Ahora, con un contexto de cómo el tiempo afecta el significado de las 
+lecturas de los instrumentos, consideremos los tres métodos de prueba 
+comunes: (1) prueba de lectura a corto plazo o al azar; (2) prueba de tiemporesistencia; y (3) prueba escalonada o multitensión.
+TIPOS DE PRUEBAS DE RESISTENCIA DEL AISLAMIENTO
+Prueba de lectura a corto plazo o al azar
+En este método, solo conecte el instrumento de Megger al aislamiento 
+que se debe probar y hágalo funcionar durante un breve período 
+específico (60 segundos es lo que se suele recomendar). Como se muestra 
+esquemáticamente en la Fig. 6, simplemente eligió un punto en una curva 
+de valores de resistencia en aumento; muy a menudo, el valor sería inferior 
+a 30 segundos y superior a 60 segundos. Asimismo, tenga en cuenta que 
+la temperatura y la humedad, así como la condición de su aislamiento, 
+afectarán la lectura.
+Figura 6: Curva común de resistencia del aislamiento (en megohmios) con tiempo para realizar el 
+método de prueba de lectura a “corto plazo” o “al azar”.
+
+	
+UNA PUNTADA A TIEMPO	
+11
+Si el aparato que somete a prueba presenta una capacitancia muy escasa, 
+como un recorrido corto de cableado doméstico, lo que se necesita es 
+la prueba de lectura al azar. Sin embargo, la mayoría de los equipos es 
+capacitiva, por lo que la primera lectura al azar de los equipos en su planta 
+que se realiza, sin pruebas previas, solo puede ser una guía aproximada 
+de qué tan bueno o malo es el aislamiento. Durante muchos años, los 
+profesionales de mantenimiento han utilizado la regla de un megaohmio 
+para establecer el límite inferior permisible para la resistencia del 
+aislamiento. La regla puede indicar:
+La resistencia del aislamiento debe ser aproximadamente de un megaohmio 
+por cada 1000 voltios de tensión de funcionamiento, con un valor mínimo 
+de un megaohmio.
+Por ejemplo, un motor con valor nominal de 2400 voltios debe tener una 
+resistencia del aislamiento mínima de 2,4 megohmios. En la práctica, las 
+lecturas de megohmios suelen estar considerablemente por encima de este 
+valor mínimo en equipos nuevos o cuando el aislamiento está en buen estado. 
+Cuando recopila las lecturas de manera periódica y las registra, tendrá una 
+mejor base para juzgar la condición de aislamiento real. Cualquier tendencia 
+descendente que persista suele ser una advertencia razonable de problemas 
+futuros, aunque las lecturas pueden ser superiores a los valores de seguridad 
+mínimos sugeridos. Igualmente cierto, a medida que las lecturas periódicas 
+sean consistentes, pueden ser aceptables, aunque inferiores a los valores 
+mínimos recomendados. Las curvas que se presentan en la Fig. 7 muestran 
+el comportamiento típico de la resistencia del aislamiento en diferentes 
+condiciones de funcionamiento de la planta. Se graficaron las curvas a partir 
+de las lecturas al azar tomadas con un instrumento de Megger durante un 
+período que abarcó algunos meses.
+
+	12	
+UNA PUNTADA A TIEMPO
+Figura 7: Comportamiento típico de resistencia del aislamiento durante un período de algunos meses en 
+diferentes condiciones de funcionamiento (curvas graficadas a partir de las lecturas al azar realizadas 
+con un instrumento de Megger).
+
+	
+UNA PUNTADA A TIEMPO	
+13
+Método de tiempo-resistencia
+Este método es bastante independiente de la temperatura y, a menudo, le puede 
+proporcionar información concluyente, sin registros de pruebas anteriores. Se 
+basa en el efecto de absorción de un buen aislamiento frente al de un aislamiento 
+húmedo o contaminado. Solo tome lecturas sucesivas en tiempos específicos y 
+observe las diferencias en las lecturas (consulte las curvas en la Fig. 8). A veces, las 
+pruebas obtenidas a través de este método se denominan pruebas de absorción.
+Tenga en cuenta que un buen aislamiento muestra un continuo aumento 
+de la resistencia (menos corriente: consulte la curva A) durante un período 
+(del orden de 5 a 10 minutos). Esto se debe a la corriente de absorción de la 
+que hablamos anteriormente; un aislamiento óptimo muestra este efecto de 
+carga durante un período mucho más prolongado que el tiempo necesario 
+para cargar la capacitancia del aislamiento.
+Si el aislamiento contiene mucha humedad o contaminantes, el efecto de 
+absorción se ocultará tras una alta corriente de fuga que se mantiene en 
+un valor relativamente constante, lo que mantendrá una baja lectura de 
+resistencia (recuerde: R = E/I).
+Figura 8: Curvas típicas que exhiben un efecto de absorción dieléctrico en una prueba de “tiemporesistencia”, que se llevó a cabo en un equipo capacitivo, como un gran devanado de motor.
+La prueba de tiempo-resistencia también es valiosa porque es independiente 
+del tamaño del equipo. El aumento de la resistencia del aislamiento limpio 
+y seco se produce de la misma manera en un motor grande o pequeño. Por 
+lo tanto, puede comparar diversos motores y establecer normas para los 
+nuevos, independientemente de las calificaciones de sus caballos de fuerza.
+
+	14	
+UNA PUNTADA A TIEMPO
+En la Fig. 9, se muestra cómo aparecería una prueba de 60 segundos de un 
+aislamiento óptimo y, tal vez, deficiente. Cuando el aislamiento está en buenas 
+condiciones, la lectura de 60 segundos es superior a la lectura de 30 segundos.
+Figura 9: Gráfico de tarjeta típico de una prueba de doble lectura o de tiempo-resistencia.
+Una ventaja adicional de esta prueba de doble lectura, como se denomina 
+a veces, es que proporciona un panorama más claro, incluso cuando una 
+lectura al azar indica que el aislamiento parece estar en buenas condiciones.
+Por ejemplo, supongamos que la lectura al azar realizada en un motor 
+síncrono fue de 10 megohmios. Ahora, asumamos que la revisión de doble 
+lectura indica que la resistencia del aislamiento se mantiene estable en 
+10 megohmios mientras mantiene la tensión hasta 60 segundos. Esto 
+significa que puede haber suciedad o humedad en los devanados que 
+merecen atención. Por otro lado, si la aguja muestra un aumento gradual 
+entre las revisiones de 30 segundos y de 60 segundos, puede una seguridad 
+razonable de que los devanados se encuentran en buenas condiciones.
+Las pruebas de tiempo-resistencia efectuadas en grandes máquinas eléctricas 
+rotativas, especialmente con un alto nivel de tensión de funcionamiento, 
+requieren altos rangos de resistencia del aislamiento y una tensión de 
+prueba altamente constante. Un conjunto de pruebas de Megger para 
+servicio pesado y conectado a la red satisface esta necesidad. Asimismo, 
+dicho instrumento se adapta mejor a cables, bushings, transformadores y 
+conmutadores de gran tamaño.
+
+	
+UNA PUNTADA A TIEMPO	
+15
+Relación de absorción dieléctrica
+La relación de dos lecturas de tiempo-resistencia (como una lectura de 
+60 segundos dividida por una lectura de 30 segundos) se denomina relación 
+de absorción dieléctrica. Es útil para registrar información acerca del 
+aislamiento. Si la relación se compone de una lectura de 10 minutos dividida 
+por una lectura de 1 minuto, el valor se denominará índice de polarización.
+Con los instrumentos manuales de Megger, es mucho más fácil ejecutar 
+la prueba por solo 60 segundos, ya que obtendrá su primera lectura a los 
+30 segundos. Si cuenta con un instrumento conectado a la red de Megger, 
+obtendrá mejores resultados mediante la ejecución de la prueba de 
+10 minutos, en la cual toma lecturas de 1 y 10 minutos para obtener el índice 
+de polarización. En la tabla I, se indican los valores de las relaciones y las 
+condiciones relativas correspondientes del aislamiento al cual hacen referencia.
+INSULATION
+CONDITION
+60/30-SECOND
+RATIO
+10/1-MINUTE RATIO
+(POLARIZATION INDEX)
+Dangerous
+Questionable
+Good
+Excellent
+—
+1.0 to 1.25
+1.4 to 1.6
+Above 1.6**
+Less than 1 
+1.0 to 2***
+2 to 4 
+Above 4**
+*These values must be considered tentative and relative—
+subject to experience with the time-resistance method 
+over a period of time.
+**In some cases, with motors, values approximately 20% 
+higher than shown here indicate a dry brittle winding which 
+will fail under shock conditions or during starts.  For preventive maintenance, the motor winding should be cleaned, 
+treated, and dried to restore winding flexibility.
+***These results would be satisfactory for equipment with very 
+low capacitance such as short runs of house wiring.
+TABLE I  — Condition of Insulation Indicated by
+Dielectric Absorption Ratios*
+
+	16	
+UNA PUNTADA A TIEMPO
+TENSIÓN DE PRUEBA FRENTE A CALIFICACIÓN DEL EQUIPO
+Las tensiones de prueba de CC comúnmente utilizadas para el 
+mantenimiento de rutina son las siguientes:
+Calificación de CA del equipo
+Tensión de prueba de CC
+hasta 100 voltios
+entre 100 y 250 voltios
+de 440 a 550 voltios
+entre 500 y 1000 voltios
+2400 voltios
+de 1000 a 2500 voltios o superior
+4160 voltios y superior
+de 1000 a 5000 voltios o superior
+Las tensiones de prueba utilizadas para la prueba de validación del 
+equipo son considerablemente superiores a las que se utilizan para el 
+mantenimiento de rutina. Aunque no existen normas de la industria 
+publicadas para las tensiones de prueba de validación máximas de CC que 
+se deban utilizar con equipos giratorios, el programa que se proporciona a 
+continuación se utiliza de manera habitual. Para obtener recomendaciones 
+específicas sobre su equipo, debe consultar con el fabricante del equipo. 
+Tensiones de prueba de validación para equipos giratorios:
+Prueba de CA de fábrica = 2 x clasificación de la placa +1000 voltios
+Prueba de validación de CC en la instalación = 0,8 x prueba de CA de 
+fábrica x 1,6
+Prueba de validación de CC después del servicio = 0,6 x prueba de CA de 
+fábrica x 1,6
+Ejemplo:
+Motor con clasificación de placa de 2400 VCA:
+Prueba de CA de fábrica = 2(2400) + 1000 = 5800 VCA
+Prueba de CC máxima en la instalación = 0,8(5800) x 1,6 = 7424 VCC
+Prueba de CC máxima después del servicio = 0,6(5800) x 1,6 = 5568 VCC
+
+	
+UNA PUNTADA A TIEMPO	
+17
+PRUEBA DE CA FRENTE A CC
+Hasta ahora, solo hemos hablado acerca de las pruebas con tensión de CC, 
+pero pronto abordaremos las pruebas de CA, y debe conocer la diferencia. 
+¿Recuerda que hablamos sobre los tipos de corriente que se producen en el 
+aislamiento mediante CC? (La sobretensión inicial de la corriente de carga, 
+la disminución con el tiempo a la corriente de absorción y, luego, después de 
+más tiempo, la corriente de conducción estable). Vimos que, en las pruebas 
+de aislamiento, la corriente de fuga o conducción es la que nos proporciona 
+la información que necesitamos.
+Por el contrario, las pruebas con CA proporcionan una corriente de carga 
+que es extremadamente considerable en comparación con la de otros tipos; 
+la corriente de fuga es relativamente menor. La CA se utiliza frecuentemente 
+para llevar a cabo pruebas de alto potencial; la tensión se aumenta hasta 
+cierto punto especificado para ver si el aislamiento puede soportar esa 
+tensión en particular. Es una prueba de tipo “satisfactorio/no satisfactorio” 
+y puede causar deterioro del aislamiento, en contraste con la prueba de CC 
+que básicamente no es destructiva.
+Si se utilizó una tensión de prueba de CA y desea utilizar pruebas de CC 
+como alternativa, deberá aumentar un poco la máxima tensión de prueba de 
+CC para obtener resultados equivalentes.
+En algunos casos, las pruebas de CA pueden ser más aptas para las pruebas 
+de validación de los equipos (es decir, en las que se ve si el equipo cumple las 
+normas prescritas). Ejecute la tensión hasta el valor seleccionado y el equipo 
+pasará o no pasará la prueba. Con la prueba de CC, obtendrá una imagen 
+más cualitativa; puede medir la corriente de fuga a medida que aumenta la 
+tensión y obtener valores específicos de resistencia del aislamiento.
+A medida que el tamaño del equipo aumenta, también existen ventajas 
+económicas marcadas en las pruebas de CC por sobre las de CA. A medida 
+que la tensión de prueba aumenta, el costo y el peso del equipo de CA sube 
+mucho más rápido que con el equipo de prueba de CC comparable. Esto 
+se debe a que el conjunto de pruebas de CA debe suministrar la corriente 
+de carga que se torna y permanece muy elevada en las máquinas más 
+grandes. Como se explicó anteriormente, en las pruebas de CC, esta corriente 
+disminuye rápidamente después del período de carga inicial.
+
+	18	
+UNA PUNTADA A TIEMPO
+En resumen, los conjuntos de pruebas de CC se emplean casi exclusivamente 
+para el mantenimiento de alta tensión y las pruebas en terreno debido a las 
+siguientes razones:
+1.	 Menor costo
+2.	 Peso más ligero
+3.	 Menor tamaño
+4.	 No son destructivos
+5.	 Proporcionan mejor información con respecto a calidad y cantidad
+USO DEL CONJUNTO DE PRUEBA DIELÉCTRICA DE CC
+El instrumento de Megger, que l e e directamente en ohmios y megohmios 
+de resistencia del aislamiento, es la mejor opción para el mantenimiento de 
+rutina en la planta. Sin embargo, algunas plantas, especialmente con mayores 
+calificaciones de tensión en los equipos, utilizan otro producto de Megger: 
+el conjunto de prueba dieléctrica. Por lo tanto, debe ser consciente de este 
+instrumento y su utilización en las mediciones de resistencia del aislamiento.
+El conjunto de prueba dieléctrica se puede utilizar para determinar la 
+resistencia del aislamiento mediante los mismos métodos de prueba, como 
+se describe para el instrumento de Megger; es decir, las pruebas a corto 
+plazo, de tiempo-resistencia y de tensión escalonada. También está diseñado 
+para otros usos, pero si se emplea para realizar pruebas de aislamiento, 
+proporciona: (1) una tensión de salida ajustable y (2) un monitoreo de la 
+corriente resultante en microamperios. Los conjuntos de prueba dieléctrica 
+de CC de Megger están disponibles con salidas de tensión que varían entre 
+los 5 kV y los 160 kV.
+Las curvas de la Fig. 5 se representan como la corriente frente al tiempo, al 
+igual que las curvas para las mediciones de aislamiento en equipos típicos 
+que aparecen cerca del final de este manual. Megger suministra papel 
+milimetrado que facilita la graficación en megohmios de la resistencia del 
+aislamiento proveniente de sus lecturas de tensión y corriente.
+PRUEBAS DURANTE EL SECADO DEL EQUIPO
+Los equipos eléctricos húmedos son un peligro común que enfrentan todos 
+los ingenieros de mantenimiento. Si el equipo se humedeció con agua dulce, 
+proceda a secarlo de inmediato. Sin embargo, si tiene agua salada, primero 
+debe lavar la sal con agua dulce. De lo contrario, dejará depósitos de sal muy 
+corrosivos sobre las superficies metálicas y aislantes, así como en las grietas 
+presentes en el aislamiento. Con humedad, dichos depósitos forman un muy 
+buen conductor de la electricidad. También, debe eliminar el aceite o la 
+grasa del aislamiento con un disolvente adecuado.
+
+	
+UNA PUNTADA A TIEMPO	
+19
+Hay varias maneras de secar los equipos eléctricos en función de su tamaño y 
+portabilidad. Puede utilizar un chorro de aire caliente, un horno, circulación 
+de corriente a través de conductores o una combinación de las técnicas. Las 
+condiciones de la planta y las instalaciones locales, junto con la información 
+de los fabricantes de los equipos, pueden servir de guía para decidir cuál es 
+el mejor método para su equipo en particular.
+En algunos casos o con ciertos equipos, es posible que el secado no sea 
+necesario. Puede revisar esto mediante las pruebas de resistencia del 
+aislamiento si tiene registros de las pruebas anteriores que realizó en el 
+aparato. Cuando el secado es necesario, tales registros también son útiles 
+para determinar cuándo el aislamiento está libre de humedad.
+NOTA:	Un equipo húmedo es susceptible a la ruptura de tensión. Por ende, 
+debe utilizar un probador de Megger de baja tensión (de 100 o 
+250 VCC), al menos, en las primeras etapas del secado. Si no hay un 
+instrumento de baja tensión disponible a la brevedad, es posible 
+sustituir el arranque lento de un probador de 500 voltios.
+	
+Muchos probadores tienen un rango de prueba adicional que mide 
+en kilohmios (kW). Normalmente, esta medición se realiza con 
+solo unos cuantos voltios y es la medida inicial ideal para realizar 
+en equipos inundados. Este rango mide por debajo del rango de 
+megohmios y, por lo tanto, puede proporcionar una medición real 
+para utilizar como referencia durante el monitoreo del proceso de 
+secado. Si se obtiene una medición en kilohmios, significa que el 
+aislamiento se saturó por completo, pero que aún puede ser útil. De 
+manera alternativa, pruebe y seque observando cómo aumentan las 
+lecturas hasta que alcancen el rango de Megaohmio, momento en el 
+que se pueden realizar pruebas de mayor tensión de forma segura.
+Como ejemplo de cuán importantes son las lecturas anteriores, echemos 
+un vistazo a un motor de 100 hp inundado. Después de una limpieza, 
+una lectura al azar con el probador de Megger muestra un resultado de 
+1,5 megohmios. De antemano, probablemente diría que esto está bien. Lo 
+que es más, debería estar seguro si los registros anteriores mostraron que la 
+resistencia del aislamiento se ejecutó entre 1 y 2 megohmios.
+Por otro lado, si los registros anteriores mostraron que los valores de 
+resistencia normales se ejecutaron a 10 o 20 megohmios, sabría que aún hay 
+agua en los devanados del motor.
+
+	20	
+UNA PUNTADA A TIEMPO
+Figura 10: Curva de secado típica en la que se toman lecturas de resistencia del aislamiento de un 
+minuto cada cuatro horas.
+La curva de secado típica de una armadura de motor de CC (fig. 10) muestra 
+cómo cambia la resistencia del aislamiento. Durante la primera parte 
+de la ejecución, la resistencia en realidad disminuye debido a la mayor 
+temperatura. A continuación, se eleva a una temperatura constante a 
+medida que procede el secado. Por último, se eleva a un valor alto a medida 
+que se alcanza la temperatura ambiente (20 °C).
+Tenga en cuenta que si lleva a cabo pruebas de resistencia del aislamiento 
+durante el secado y tiene lecturas de las pruebas anteriores del equipo seco, 
+sabrá cuándo ha alcanzado el valor seguro de la unidad. Es posible que 
+prefiera utilizar una prueba de tiempo-resistencia, que se toma de forma 
+periódica (por ejemplo, una vez por turno), con el uso de la relación de 
+absorción dieléctrica o el índice de polarización para seguir el progreso del 
+secado (no es necesario corregir la temperatura).
+
+	
+UNA PUNTADA A TIEMPO	
+21
+EFECTO DE LA TEMPERATURA SOBRE LA RESISTENCIA DEL AISLAMIENTO
+La resistencia de los materiales aislantes disminuye de manera notable con 
+un aumento de la temperatura. No obstante, como hemos visto, las pruebas 
+realizadas con los métodos de tiempo-resistencia y de tensión escalonada 
+son relativamente independientes de los efectos de la temperatura, lo que 
+proporciona valores relativos.
+Si desea realizar comparaciones fiables entre lecturas, debe corregir las 
+lecturas a una temperatura de base, como 20 °C, o tomar todas sus lecturas 
+a aproximadamente la misma temperatura (generalmente no es difícil de 
+hacer). Trataremos algunas guías generales para realizar la corrección de 
+temperatura.
+Una regla general es: 	
+Por cada 10 °C de aumento de la temperatura, 
+reduzca la resistencia a la mitad; 
+o por cada 10 °C de disminución, 
+duplique la resistencia. 
+Por ejemplo, una resistencia de dos megohmios a 20 °C se reduce 
+a 1/2 megohmios a 40 °C.
+Cada tipo de material aislante tendrá un grado diferente de cambio de 
+resistencia con la temperatura. No obstante, se desarrollaron factores 
+para simplificar la corrección de los valores de resistencia. En la tabla II, se 
+proporcionan estos factores para equipos giratorios, transformadores y 
+cables. Multiplique las lecturas que obtenga por el factor correspondiente a 
+la temperatura (que debe medir).
+Por ejemplo, supongamos que tiene un motor con aislamiento de clase A 
+y obtiene una lectura de 2,0 megohmios a una temperatura (en los 
+devanados) de 40 °C (104 °F). Desde la tabla II, lee a 40 °C (104 °F) hasta la 
+siguiente columna (para clase A) y obtiene el factor 4,80. El valor corregido 
+de resistencia es el siguiente:
+2,0 megohmios
+x
+4,80 =
+9,6 megohmios
+(lectura a 40 °C 
+[104 °F])
+(lectura
+(factor 
+corregido 
+para 
+aislamiento 
+de clase 
+A a 40 °C 
+[104 °F])
+de corrección a 
+20 °C [68 °F])
+
+	22	
+UNA PUNTADA A TIEMPO
+Tenga en cuenta que la resistencia es casi cinco veces superior a 20 °C (68 °F) 
+en comparación con la lectura tomada a 40 °C (104 °F). La temperatura de 
+referencia para el cable se proporciona como 15,6 °C (60 °F), pero el punto 
+importante es que sea consistente y correcta con respecto a la misma base.
+TABLA II: Factores de corrección de temperatura*
+
+	
+UNA PUNTADA A TIEMPO	
+23
+Nomograma de valores de corrección de temperatura para lecturas de Megger 
+(corregido a 25 °C). Para maquinaria rotativa con aislamiento de clase B.
+EFECTOS DE LA HUMEDAD
+Hemos hablado en varios puntos de este manual sobre la presencia de 
+humedad en el aislamiento y su efecto muy notorio en los valores de 
+resistencia. Por lo tanto, cabe esperar que el aumento de la humedad 
+(contenido de humedad) en el aire circundante (ambiente) pudiera afectar la 
+resistencia del aislamiento. Y puede hacerlo en diversos grados.
+Si su equipo funciona con regularidad por sobre la temperatura de punto 
+de rocío (la temperatura a la cual el vapor de humedad presente en el 
+aire se condensa como líquido), la lectura de prueba normalmente no se 
+verá afectada en gran medida por la humedad. Incluso si el equipo que 
+se someterá a prueba está inactivo, lo mismo es válido, siempre que su 
+temperatura se mantenga por sobre el punto de rocío.
+
+	24	
+UNA PUNTADA A TIEMPO
+La declaración mencionada anteriormente asume que las superficies 
+de aislamiento están exentas de contaminantes, tales como ciertas 
+tinturas y ácidos o sales, que tienen la propiedad de absorber la 
+humedad (los químicos los denominan materiales “higroscópicos” o 
+“delicuescentes”). Su presencia podría afectar sus lecturas de manera 
+impredecible; se deben retirar antes de que se lleven a cabo las pruebas.
+En equipos eléctricos, nos preocupamos principalmente de las condiciones 
+de las superficies expuestas donde la humedad se condensa y afecta a la 
+resistencia total del aislamiento. Sin embargo, diversos estudios demuestran 
+que el rocío se formará en las grietas y hendiduras del aislamiento antes de 
+que sean visiblemente evidentes sobre la superficie. Las mediciones de punto 
+de rocío le darán una pista de si tales condiciones invisibles podrían existir y 
+alterar los resultados de la prueba.
+Por ende, como parte de sus registros de mantenimiento, es buena idea tomar 
+nota al menos si el aire circundante estaba seco o húmedo cuando se efectuó la 
+prueba, así como si la temperatura estaba por sobre o debajo de la temperatura 
+ambiente. Cuando realice pruebas en equipos fundamentales, registre las 
+temperaturas ambiente de bulbo húmedo y seco, de las cuales es posible 
+obtener el punto de rocío y el porcentaje de humedad relativa o absoluta.
+PREPARACIÓN DE APARATOS QUE SE PROBARÁN
+1. Déjelo fuera de servicio
+Apague el aparato. Abra los interruptores. Desenergice. Desconéctelo de 
+los demás equipos y circuitos, incluidas las conexiones a tierra neutras y 
+de protección (temporales para trabajadores). Consulte Precauciones de 
+seguridad en la página 26.
+2. Asegúrese de que sea solo lo que se incluye en la prueba
+Inspeccione la instalación con mucho cuidado para determinar qué equipo 
+está conectado y se incluirá en la prueba, especialmente si es difícil o costoso 
+desconectar los aparatos y los circuitos asociados. Preste especial atención a 
+los conductores que conducen lejos de la instalación. Esto es muy importante 
+porque mientras más equipo se incluye en una prueba, menor será la lectura, 
+y la resistencia del aislamiento real del aparato en cuestión se puede ocultar 
+tras aquella del equipo asociado.
+Evidentemente, siempre es posible que la resistencia del aislamiento de la 
+instalación completa (sin desconectar todo) sea satisfactoriamente elevada, 
+en especial en el caso de una revisión al azar. Además, puede ser mayor 
+que el rango del instrumento de Megger en uso, en cuyo caso nada se 
+ganaría mediante la separación de los componentes, ya que la resistencia del 
+aislamiento de cada parte sería aún mayor.
+
+	
+UNA PUNTADA A TIEMPO	
+25
+Para realizar una prueba inicial, puede ser necesario separar las distintas 
+partes, aun cuando se vean involucrados mano de obra y gastos, y 
+probar cada una por separado. Realice también una prueba de todos los 
+componentes conectados en conjunto. Con esta información en el registro, 
+puede que no sea necesario separar los componentes en futuras pruebas, 
+salvo que se observen lecturas inaceptablemente bajas.
+3. Descarga de capacitancia
+Es muy importante que se descargue la capacitancia antes y después de una 
+prueba de resistencia del aislamiento. Se debe descargar durante un período 
+aproximadamente de cuatro veces, siempre que se haya aplicado tensión de 
+prueba en una prueba anterior.
+Los instrumentos de Megger suelen estar equipados con circuitos de 
+descarga para este propósito. Si no se proporciona la función de descarga, se 
+debe utilizar una varilla de descarga. Deje los aparatos de capacitancia alta 
+(es decir, condensadores, devanados de gran tamaño, etc.) en cortocircuito 
+hasta que estén listos para volver a energizarse.
+4. Fuga de corriente en interruptores
+Cuando el aparato se apague para la prueba de resistencia del aislamiento, 
+asegúrese de que las lecturas no se vean afectadas por la fuga por encima 
+o a través de los interruptores o bloques de fusibles, etc. Dicha fuga puede 
+ocultar la resistencia del aislamiento real de los aparatos sometidos a prueba. 
+Consulte Uso de un terminal de protección en la página 50.
+Más grave aún, la corriente de una línea energizada puede filtrarse en el 
+aparato y causar lecturas inconsistentes, especialmente si la línea activa es 
+de CC. Sin embargo, es posible detectar dicha fuga, en general, cuando se 
+observa la aguja del instrumento de Megger en el momento en el que los 
+cables de prueba se conectan al aparato y antes de que el instrumento se 
+ponga en funcionamiento. Antes de hacer estas observaciones, asegúrese de 
+que toda la capacitancia se descargue mediante cortocircuitos o puestas a 
+tierra del aparato.
+PRECAUCIÓN: Nunca conecte un probador de aislamiento de Megger 
+a líneas energizadas o a un equipo. Nunca utilice el probador o 
+cualquiera de sus cables o accesorios para cualquier propósito que 
+no se describa en este libro.
+
+	26	
+UNA PUNTADA A TIEMPO
+PRECAUCIONES DE SEGURIDAD
+Observe todas las normas de seguridad cuando ponga el equipo fuera de 
+servicio. Bloquee los interruptores de desconexión. Realice pruebas para 
+tensiones inducidas o extrañas. Aplique conexiones a tierra para trabajadores.
+Recuerde que cuando se trabaja en torno a equipos de alta tensión, siempre 
+existe una posibilidad de que se produzcan tensiones inducidas en el aparato 
+sometido a prueba o líneas a las que está conectado, debido a su proximidad 
+a equipo energizado de alta tensión. Por lo tanto, en lugar de eliminar la 
+conexión a tierra para trabajadores con el fin de realizar una prueba, es más 
+aconsejable desconectar el aparato, como un transformador o un disyuntor, 
+desde el bus o la línea expuestos y dejar la última conexión a tierra. Utilice 
+guantes de caucho cuando conecte los cables de prueba al aparato y 
+mientras mantenga el instrumento de Megger en funcionamiento.
+	
+¡Los aparatos sometidos a prueba no deben estar encendidos!
+Consulte Preparación de aparatos que se probarán en la página 24.
+Si se deben desconectar las conexiones a tierra neutrales o de otro 
+tipo, asegúrese de que no lleven corriente en el momento y, cuando se 
+desconecten, que ningún otro equipo carezca de la protección necesaria.
+Preste especial atención a los conductores que conducen lejos del circuito 
+que se somete a prueba y asegúrese de que se hayan desconectados 
+adecuadamente de cualquier fuente de tensión.
+Peligro de descarga eléctrica desde la tensión de prueba
+Observe la calificación de tensión del instrumento de Megger y considérelo 
+con la debida precaución. Los equipos y los cables eléctricos de gran 
+tamaño generalmente tienen la capacitancia suficiente para almacenar una 
+cantidad peligrosa de energía de la corriente de prueba. Asegúrese de que 
+esta capacitancia se descargue después de la prueba y antes de manipular 
+los cables de prueba. Consulte también Descarga de capacitancia en la 
+página 25.
+Peligro de incendio y explosión
+Hasta el momento, no existe riesgo de incendio en el uso normal de un 
+probador de aislamiento de Megger. Sin embargo, existe un riesgo cuando 
+se prueban equipos ubicados en atmósferas explosivas o inflamables.
+
+	
+UNA PUNTADA A TIEMPO	
+27
+Se pueden encontrar chispas ligeras: 
+(1)	Cuando conecta los cables de prueba a los equipos en los que la 
+capacitancia no se haya descargado por completo
+(2)	Durante una prueba, a través de un arco o mediante un aislamiento 
+defectuoso 
+(3)	Después de una prueba cuando se descarga la capacitancia
+	
+PRECAUCIÓN: 
+No utilice el instrumento en 
+una atmósfera explosiva.
+Sugerencias:
+Para (1) y (3): Organice las instalaciones de conexión a tierra instaladas de 
+forma permanente y los cables de prueba a un punto donde se puedan 
+realizar las conexiones de los instrumentos en un ambiente seguro.
+Para (2): Utilice instrumentos de prueba de baja tensión o una resistencia 
+en serie.
+Para (3): No desconecte los cables de prueba durante al menos 30 a 
+60 segundos después de la prueba a fin de tener tiempo para que se 
+descargue la capacitancia.
+CONEXIONES PARA PROBAR LA RESISTENCIA DEL AISLAMIENTO DE LOS 
+EQUIPOS ELÉCTRICOS
+Los siguientes diagramas muestran cómo conectar un probador de 
+aislamiento de Megger a diversos tipos de equipos eléctricos. Los diagramas 
+también muestran en principio cómo se debe desconectar el equipo de otros 
+circuitos antes de que el instrumento se conecte.
+Estas ilustraciones son comunes y servirán como guía para las pruebas de resistencia 
+del aislamiento de prácticamente todos los tipos de conductores y aparatos. 
+Antes de continuar con las pruebas, lea el artículo Preparación de aparatos 
+que se probarán en la página 24.
+¡RECUERDE! El probador de resistencia del aislamiento de Megger mide 
+cualquier resistencia que esté conectada entre sus terminales. Esto puede 
+incluir trayectorias de fuga en serie o paralelas a través del aislamiento o 
+sobre su superficie.
+
+	28	
+UNA PUNTADA A TIEMPO
+1. Motores y equipo de arranque de CA
+Figura 11
+Conexiones para probar la resistencia del aislamiento de un motor, un 
+equipo de arranque y líneas de conexión en paralelo. Observe que el 
+interruptor de arranque está en la posición de encendido para realizar la 
+prueba. Siempre es preferible desconectar las distintas partes y probarlas por 
+separado a fin de determinar dónde existen deficiencias.
+2. Generadores y motores de CC
+Figura 12
+Con las escobillas levantadas como se indica, el montaje de las escobillas y las 
+bobinas de campo se pueden probar por separado de la armadura. Además, 
+se puede probar la armadura por sí misma. Con las escobillas bajadas, la 
+prueba se llevará a cabo en el montaje de las escobillas, las bobinas de 
+campo y la armadura de forma combinada.
+
+	
+UNA PUNTADA A TIEMPO	
+29
+3. Instalación del cableado
+Figura 13
+Conexiones para probar la puesta a tierra de cada circuito por separado, 
+cuyo trabajo se realiza desde el panel de distribución.
+
+Figura 14
+
+	30	
+UNA PUNTADA A TIEMPO
+Conexiones en el tablero de alimentación principal, desde donde se puede 
+probar todo el sistema puesto a tierra al mismo tiempo, siempre que todos 
+los interruptores en el panel de distribución estén cerrados.
+4. Electrodomésticos, medidores, instrumentos y aparatos eléctricos varios
+Figura 15
+Conexiones para probar un electrodoméstico. La prueba se realiza entre el 
+conductor (la unidad de calefacción, el motor, etc.) y las piezas metálicas 
+expuestas. Se debe desconectar el aparato de cualquier fuente de 
+alimentación y colocarlo en algún material aislante.
+5. Control, señalización y cables de comunicación
+Figura 16
+Conexiones para probar la resistencia del aislamiento de un cable en un cable 
+multiconductor frente a todos los otros cables y la funda conectados juntos.
+
+	
+UNA PUNTADA A TIEMPO	
+31
+I6. Cables de alimentación
+Conexiones para probar la resistencia del aislamiento de un cable de 
+alimentación. Cuando se prueba un cable, suele ser mejor desconectar ambos 
+extremos con el fin de probar el cable por sí mismo y para evitar errores 
+debido a una fuga en los tableros de conmutación o los tableros o a través de 
+estos. Consulte también Uso de un terminal de protección en la página 50.
+Figura 17
+Figura 18
+
+	32	
+UNA PUNTADA A TIEMPO
+7. Transformadores de corriente
+Figura 19
+Conexiones para probar la resistencia del aislamiento de un transformador, 
+devanados de alta tensión y bushings, y el interruptor de desconexión de 
+alta tensión, en paralelo, con respecto al devanado y la conexión a tierra 
+de baja tensión. Observe que el devanado de baja tensión está conectado a 
+tierra para los efectos de esta prueba.
+8. Generadores de CA
+Figura 20
+Con esta conexión, la resistencia del aislamiento será la del devanado del 
+estator del generador y del cable de conexión de forma combinada. Para 
+probar el devanado del estator o el cable en sí, el cable se debe desconectar 
+de la máquina.
+
+	
+UNA PUNTADA A TIEMPO	
+33
+NOTAS ADICIONALES SOBRE EL USO DE UN PROBADOR DE AISLAMIENTO 
+DE MEGGER
+Cables de prueba
+Los cables de prueba inferiores o defectuosos generarán resultados erróneos 
+y poco fiables de las pruebas de resistencia del aislamiento. Tenga cuidado 
+con este aspecto.
+Cables sin aislamiento
+Para evitar errores debido al aislamiento de los cables, coloque el instrumento 
+de Megger cerca del terminal sin conexión a tierra o del conductor del 
+aparato sometido a prueba y conecte un pedazo corto de cable ligero y sin 
+recubrimiento directamente desde la terminal de línea del instrumento hacia 
+el aparato. Si se utiliza el terminal de protección, es posible emplear el mismo 
+tratamiento. Un cable sólido de calibre n.° 18 o 20 será suficiente. Apoye el 
+cable solamente mediante sus conexiones con el instrumento y el aparato.
+Con este método de conexión desde el terminal de línea, la calidad del 
+aislamiento, si la hay, del cable a tierra no es importante.
+Cables aislados
+Cuando la dependencia se coloque sobre el aislamiento de los cables, 
+estos deben ser duraderos y de material aislante de la mejor calidad. 
+Se recomienda utilizar cables trenzados n.° 14, resistentes a los aceites, 
+sintéticos, aislados con caucho y de un solo conductor. El revestimiento 
+exterior debe ser suave, sin trenza exterior. Se deben colocar orejetas 
+para la conexión a los terminales del instrumento, y se recomienda utilizar 
+abrazaderas de resorte fuertes para conectar al aparato o el circuito 
+sometidos a prueba. Es posible utilizar cualquier longitud de cable que sea 
+conveniente. Se deben evitar las juntas.
+Después de conectar los cables al instrumento y justo antes de conectarlos al 
+aparato, asegúrese de que no haya fugas de cable a cable. Para ello, ponga 
+el instrumento en funcionamiento, el cual debería mostrar el infinito. No 
+corrija una fuga del cable ligera intentando restablecer el ajustador de infinito 
+en un instrumento de gama alta. A continuación, haga que los extremos de 
+prueba de los cables entren en contacto para asegurarse de que no se hayan 
+desconectado o roto. 
+Las pruebas de corriente con probadores de aislamiento de gama alta de 
+Megger (50 000 megohmios) requieren que el cable de prueba de línea se 
+mantenga en un valor alto para que no se introduzca en la medición. El cable 
+de prueba blindado, con el blindaje conectado a la protección, evita que se 
+midan las fugas en las terminaciones o a través del material aislante del cable.
+
+	34	
+UNA PUNTADA A TIEMPO
+Instrucciones de uso
+Se debe conectar el extremo sin etiquetar del cable blindado a los terminales 
+de línea y protección del instrumento de Megger: el terminal del extremo 
+a la línea y el terminal lateral (blindado) a la protección. La abrazadera 
+en el cable de línea se conecta al aparato sometido a prueba de forma 
+regular. Se puede conectar el terminal de protección exterior a esa parte del 
+aparato sometido a prueba que el usuario desea proteger. Se debe aislar el 
+conductor empleado en esta conexión para la calificación de la tensión del 
+instrumento de Megger utilizado.
+Efecto de capacitancia
+Se debe cargar la capacitancia en el aparato sometido a prueba hasta 
+que alcance la tensión de CC nominal del probador de aislamiento de 
+Megger y se debe mantener durante 30 a 60 segundos antes de tomar una 
+lectura final. Asegúrese de que la capacitancia se descargue por medio de 
+cortocircuitos y conexiones a tierra del aparato antes de conectar los cables 
+de prueba. Consulte Descarga de capacitancia en la página 25.
+NOTA: La capacitancia hace que la aguja se mueva hacia el cero mientras el 
+instrumento se acelera y se desvía de la escala más allá del infinito cuando 
+el generador se desacelera. Esto es simplemente la carga que fluye dentro y 
+fuera de la capacitancia y a través de la bobina de deflexión del ohmímetro.
+Los efectos de la capacitancia son más evidentes en generadores de gran 
+tamaño, en cables de alimentación y comunicación con una longitud de 
+unos cientos de metros y en condensadores. En general, estos efectos son 
+menores con una capacitancia inferior a 0,01 F y se hacen más perceptibles 
+a medida que la capacitancia o la sensibilidad del instrumento aumentan. Es 
+posible utilizar probadores de aislamiento de Megger para servicio pesado 
+en condensadores de gran tamaño con buenos resultados, especialmente 
+cuando se operan desde la red eléctrica en lugar de la palanca manual.
+Tiempo de funcionamiento
+Una consideración muy importante en la realización de las pruebas 
+de resistencia del aislamiento es el tiempo necesario que requiere la 
+lectura de la resistencia del aislamiento para llegar a un valor máximo. El 
+tiempo necesario para cargar la capacitancia geométrica es muy breve, 
+generalmente no más de unos pocos segundos, y esto, que incurre en 
+demoras adicionales para alcanzar la carga completa, corresponde a un 
+efecto de absorción dieléctrica. Puede ser cuestión de minutos o incluso 
+horas para que este tiempo de electrificación se complete y para que la 
+aguja alcance un máximo absoluto.
+
+	
+UNA PUNTADA A TIEMPO	
+35
+Lecturas a corto plazo
+Para realizar lecturas a corto plazo de resistencia del aislamiento, opere 
+el instrumento durante una determinada cantidad de tiempo, ya sean 
+30 segundos o 1 minuto, y efectúe la lectura al final de ese período. 
+Continúe operándolo de manera constante a la velocidad de deslizamiento 
+hasta que se tome la lectura. Realice futuras pruebas con la misma duración 
+del tiempo de funcionamiento.
+Método de tiempo-resistencia
+Cuando utilice un instrumento de accionamiento manual, hágalo funcionar 
+continuamente durante 1 minuto. Tome una lectura al final de los primeros 
+30 segundos y otra lectura al final del minuto.
+Cuando utilice un instrumento impulsado por motor u operado por 
+rectificadores, los intervalos de tiempo suelen ser de entre 1 minuto y 
+10 minutos desde el momento en el que se aplica la tensión de prueba. O 
+es posible tomar curvas de tiempo-resistencia durante un período de 10 a 
+30 minutos o más.
+Escalas de tensión
+Algunos probadores de aislamiento pueden estar equipados con una escala 
+de tensión para verificar la ausencia de tensión antes de realizar la prueba 
+de aislamiento. Sin embargo, como se explica en la sección Precauciones de 
+seguridad, nunca se deben conectar probadores de aislamiento a líneas o 
+equipos energizados cuando se opere en cualquiera de los modos de prueba 
+de aislamiento o prueba de resistencia.
+
+	36	
+UNA PUNTADA A TIEMPO
+VALORES MÍNIMOS DE INTERPRETACIÓN
+La resistencia del aislamiento de los equipos eléctricos se ve afectada por muchas 
+variables, como el diseño del equipo; el tipo de material aislante utilizado, 
+incluidos aglutinantes y compuestos de impregnación; el grosor del aislamiento 
+y su área; la limpieza, la humedad y la temperatura. Para que las lecturas de 
+resistencia del aislamiento sean una medición concluyente de la condición del 
+equipo que se somete a prueba, se deben tener en cuenta estas variables.
+Después de que el equipo se pone en servicio, factores, como el diseño del 
+equipo, el tipo de material aislante utilizado, su espesor y el área, dejarán de 
+ser variables, lo que permitirá establecer valores de resistencia del aislamiento 
+mínimos dentro de tolerancias razonables. Las variables que se deben 
+considerar después de que el equipo se pone en servicio y en el momento en 
+el que se realizan las mediciones de resistencia del aislamiento son la limpieza, 
+la humedad, la temperatura y los daños mecánicos (como las fracturas). 
+Buen mantenimiento
+Los requisitos más importantes para el funcionamiento confiable de 
+los equipos eléctricos son la limpieza y la eliminación de la penetración 
+de humedad en el aislamiento. Esto se puede considerar como buen 
+mantenimiento y es un factor esencial para la mantención de todo tipo de 
+aparatos eléctricos. El hecho mismo de que la resistencia del aislamiento 
+se vea afectada por la humedad y la suciedad, con las debidas concesiones 
+de temperatura, hace que el probador de aislamiento de Megger sea 
+una herramienta valiosa para el mantenimiento eléctrico. A su vez, es un 
+indicador de limpieza y buen mantenimiento, así como un detector de 
+deterioro y problemas inminentes.
+Qué lecturas se deben esperar: pruebas periódicas
+Se han desarrollado diversos criterios para los valores de resistencia del 
+aislamiento mínimos y se resumen aquí. Deben servir como guía para el 
+equipo en servicio. No obstante, las pruebas periódicas de los equipos en 
+servicio revelarán, en general, lecturas considerablemente superiores a los 
+valores de seguridad mínimos sugeridos.
+
+	
+UNA PUNTADA A TIEMPO	
+37
+Por lo tanto, se recomienda encarecidamente que se mantengan los registros 
+de las pruebas periódicas, puesto que las tendencias descendentes constantes 
+de la resistencia del aislamiento suelen proporcionar una advertencia 
+razonable de problemas inminentes, aunque los valores reales pueden ser 
+superiores a los valores de seguridad mínimos sugeridos.
+Por el contrario, se deben considerar para los equipos en servicio que 
+muestren valores de pruebas periódicas inferiores a los valores de seguridad 
+mínimos sugeridos, siempre y cuando los valores se mantengan estables 
+o consistentes. En tales casos, después de que se haya prestado la debida 
+atención a las condiciones de temperatura y humedad en el momento de la 
+prueba, es posible que no exista necesidad de preocuparse. Esta condición se 
+puede deber a fugas distribuidas de manera uniforme, de carácter inofensivo, 
+y no es posible que sea consecuencia de una peligrosa debilidad localizada. 
+Una vez más, los registros de las pruebas de resistencia del aislamiento 
+efectuados durante un período revelan cambios que pueden justificar la 
+investigación. La tendencia de la curva puede ser más importante que los 
+propios valores numéricos. 
+La regla de un megaohmio
+Durante muchos años, se ha utilizado un megaohmio de manera extendida 
+como límite inferior permitido aceptable para la resistencia del aislamiento de 
+los equipos eléctricos industriales comunes con capacidad nominal de hasta 
+1000 voltios y aún se recomienda para aquellos que pueden no estar muy 
+familiarizados con las prácticas de pruebas de resistencia del aislamiento o que 
+tal vez no deseen enfrentar el problema desde un punto de vista más técnico.
+Para un equipo con capacidad nominal superior a 1000 voltios, se suele 
+indicar la regla de un megaohmio como el mínimo de un megaohmio por 
+mil voltios. Aunque esta regla es, en cierta manera, arbitraria y puede recibir 
+críticas por carecer de fundamentos de ingeniería, ha pasado la prueba de 
+muchos años de experiencia práctica. Proporciona una cierta garantía de que 
+el equipo no está demasiado mojado ni sucio y ha salvado a muchos de sufrir 
+averías innecesarias.
+Sin embargo, estudios más recientes sobre el problema han dado lugar a 
+fórmulas para valores mínimos de resistencia del aislamiento que se basan en 
+el tipo de material aislante utilizado y las dimensiones físicas y eléctricas de 
+los tipos de equipo que están en consideración.
+
+	38	
+UNA PUNTADA A TIEMPO
+VALORES MÍNIMOS DE RESISTENCIA DEL AISLAMIENTO
+Maquinaria rotativa
+La guía IEEE, “Prácticas recomendadas para probar la resistencia del aislamiento 
+de maquinaria rotativa”, aborda el problema de realizar e interpretar las 
+mediciones de resistencia del aislamiento de maquinaria rotativa. En esta, se 
+examinan los factores que afectan o cambian las características de la resistencia 
+del aislamiento, se describen y recomiendan métodos uniformes para realizar 
+pruebas y se presentan las fórmulas para realizar el cálculo de los valores 
+de resistencia del aislamiento mínimos aproximados para diversos tipos de 
+maquinaria rotativa de CA y CC. La guía indica:
+“La resistencia del aislamiento mínima recomendada Rm para los devanados 
+de armadura de máquinas de corriente alterna y corriente continua y de 
+los devanados de campo de las máquinas de corriente alterna y corriente 
+continua se puede determinar mediante:
+Rm = kV + 1
+donde:
+Rm		
+=	
+resistencia del aislamiento mínima recomendada en 
+megohmios a una temperatura de 40 °C de todo el 
+devanado de la máquina
+kV	
+=	
+terminal de máquina nominal a potencial de terminal, 
+en kilovoltios
+En aplicaciones donde la máquina es fundamental, se ha considerado 
+una buena práctica iniciar el reacondicionamiento si la resistencia del 
+aislamiento, al estar muy por encima del valor mínimo dado por la Ec. 2, cae 
+considerablemente cerca de ese nivel”.
+Se recomienda que quienes operen y realicen el mantenimiento de las 
+máquinas rotativas obtengan copias de la publicación de la guía IEEE, 
+“Prácticas recomendadas para probar la resistencia del aislamiento de 
+maquinaria rotativa”, que se puede conseguir si se escribe a IEEE en 
+345 East 47th St., New York, NY, 10017. 
+Bushings
+En el caso de los bushings de disyuntores exteriores en aceite, la experiencia 
+ha demostrado que cualquier bushing, con sus miembros aislantes asociados 
+ensamblados, a fin de obtener un funcionamiento fiable, deberá contar con 
+un valor de resistencia del aislamiento superior a 10 000 megohmios a una 
+temperatura de 20 °C. Esto supone que el aceite dentro del depósito está en 
+buen estado, que el disyuntor se separa de sus conexiones externas a otros 
+equipos y que el blindaje contra la intemperie de porcelana está protegido. 
+
+	
+UNA PUNTADA A TIEMPO	
+39
+Esto significa que cada componente, como el propio bushing descubierto, el 
+travesaño, la varilla de elevación, el blindaje de arco inferior, etc., debe tener 
+una resistencia del aislamiento muy superior a ese valor.
+Cualquier componente que cuente con una superficie limpia y seca y 
+que tenga valores inferiores a 10 000 megohmios se suele deteriorar 
+internamente, debido a la presencia de humedad o vías carbonizadas, 
+hasta tal punto que no es confiable que ofrezca un buen servicio, a menos 
+que se reacondicione. Esto suele ser así, en especial, cuando los equipos 
+funcionan en condiciones de sobrecarga, como durante alteraciones de 
+relámpagos. En el caso del propio bushing descubierto, el vástago inferior y 
+el blindaje contra la intemperie superior deben estar perfectamente limpios 
+o protegidos antes de juzgarlos como no confiables debido a un valor de 
+resistencia del aislamiento inferior a 10 000 megohmios.
+Lo que se ha dicho con respecto a los bushings descubiertos de disyuntores 
+en aceite también es válido para los bushings de otros equipos, como 
+transformadores. Dado que los bushings y otros miembros asociados 
+presentan generalmente valores de resistencia del aislamiento muy elevados, 
+se requiere un probador de aislamiento de Megger con un rango de al 
+menos 10 000 megohmios para probar dicho equipo. Los instrumentos de 
+Megger con rangos de hasta 50 000 megohmios posibilitarán la observación 
+de las tendencias de deterioro en los bushings antes de que alcancen el valor 
+cuestionable de 10 000 megohmios.
+Cables y conductores
+Las instalaciones de cables y conductores presentan una amplia variedad de 
+condiciones, desde el punto de vista de la resistencia del aislamiento. Estas 
+condiciones son el resultado de los muchos tipos de materiales aislantes 
+utilizados, la tensión nominal o el espesor del aislamiento, así como la 
+longitud del circuito involucrado en la medición. Además, estos circuitos 
+se suelen extender a grandes distancias y pueden estar sujetos a amplias 
+variaciones de temperatura, lo que tendrá un efecto sobre los valores 
+obtenidos de la resistencia del aislamiento. Los terminales de cables y 
+conductores también tendrán un efecto sobre los valores de prueba, a menos 
+que estén limpios y secos o protegidos.
+La Asociación de Ingenieros de Cables Aislados (ICEA, <1>Insulated Cable 
+Engineers Association</1>) proporciona valores mínimos de resistencia 
+del aislamiento en sus especificaciones para diversos tipos de cables y 
+conductores. Estos valores mínimos son para cables nuevos de un solo 
+conductor después de haber sido sometidos a una prueba de alta tensión 
+de CA y se basan en un potencial de prueba de CC de 500 voltios aplicados 
+durante un minuto a una temperatura de 16 °C (60 °F). 
+
+	40	
+UNA PUNTADA A TIEMPO
+Estos valores mínimos estándar (para cables de un solo conductor) se basan 
+en la siguiente fórmula:
+R = K log10 D/d
+	
+donde:
+	
+R	
+=	
+megohmios por 1000 pies de cable
+	
+K	 =	
+constante de material aislante
+	
+D	 =	
+diámetro exterior del aislamiento del conductor
+	
+d	
+=	
+diámetro del conductor
+Valores mínimos de K a 16 °C (60 °F).
+Tipo de aislamiento
+Papel impregnado...................................................................... 2640
+Batista barnizado........................................................................ 2460
+Polietileno termoplástico.............................................. sobre 50 000
+Polietileno compuesto............................................................. 30 000
+Polivinilo termoplástico:
+Cloruro de polivinilo a 60 °C................................................ 500
+Cloruro de polivinilo a 75 °C.............................................. 2000
+Grado de	
+Caucho natural	
+Caucho sintético
+Código............................................................................................950
+Rendimiento........................................ 10 560.............................2000
+Resistente al calor............................... 10 560.............................2000
+Resistente al ozono................10 000 (butilo).............................2000
+Kerite............................................................................................4000
+Consulte las páginas 44 y 45 para ver las tablas de log10 D/d
+
+	
+UNA PUNTADA A TIEMPO	
+41
+La resistencia del aislamiento de un conductor de un cable multiconductor 
+para todos los demás y el recubrimiento es:
+R = K log10 D/d
+	
+donde:
+	
+D	
+= diámetro sobre aislamiento del cable de un solo conductor equivalente
+= d + 2c + 2b
+	
+d	
+=	
+diámetro del conductor (para los cables del sector d igual 
+al diámetro del conductor redondo de la misma sección 
+transversal)
+	
+c	
+=	
+espesor del aislamiento del conductor
+	
+b	
+=	
+espesor del aislamiento del revestimiento
+(todas las dimensiones se deben expresar en las mismas unidades)
+Transformadores
+Los valores de resistencia del aislamiento aceptables para los 
+transformadores secos y rellenos de compuesto deben ser comparables a 
+los de las máquinas rotativas de clase A, aunque no se disponga de valores 
+mínimos estándar.
+Los reguladores de tensión o los transformadores rellenos de aceite 
+presentan un problema especial en el que la condición del aceite tiene una 
+marcada influencia sobre la resistencia del aislamiento de los devanados. 
+En ausencia de datos más confiables, se sugiere la siguiente fórmula:
+	
+R =	 CE
+	
+	
+√kVA
+R	
+=	
+resistencia del aislamiento de CC mínima de 1 minuto a 500 voltios en 
+megohmios de devanado a tierra, con otro devanado o devanados 
+protegidos, o de devanado a devanado con núcleo protegido
+C	
+=	
+una constante de mediciones a 20 °C
+E	
+=	
+tensión nominal del devanado sometido a prueba
+kVA	 =	
+capacidad nominal del devanado sometido a prueba
+Para las pruebas de devanado a tierra con el otro devanado o devanados a 
+tierra, los valores serán muy inferiores a los que se obtuvieron con la fórmula. 
+R en esta fórmula se basa en el aceite seco exento de lodo y ácido, y en 
+bushings y tableros de terminales que están en buenas condiciones.
+
+	42	
+UNA PUNTADA A TIEMPO
+Valores de C a 20 °C
+	
+	
+60 hercios	
+25 hercios
+Tipo de relleno de aceite en el tanque	
+	
+1,5	
+1,0
+Tipo de relleno de aceite fuera del tanque	
+30,0	
+20,0
+Tipo de relleno de compuesto o seco	
+	
+30,0	
+20,0
+Esta fórmula está pensada para transformadores monofásicos. Si el 
+transformador sometido a prueba es de tipo trifásico y los tres devanados 
+individuales están siendo probados como uno, entonces:
+E 	
+=	
+tensión nominal de uno de los devanados monofásicos (fase a fase 
+para las unidades conectadas en delta y de fase a neutro para las 
+unidades conectadas en estrella)
+kVA 	 =	
+capacidad nominal del devanado trifásico completo sometido a prueba
+PRUEBAS CON PROBADORES DE AISLAMIENTO DE DIVERSAS TENSIONES DE 
+MEGGER
+Las tendencias de las prácticas de mantenimiento indican el valor de 
+aislamiento de prueba con tensiones de CC a niveles algo superiores al valor 
+máximo de la tensión nominal de CA del equipo sometido a prueba. En 
+algunos casos, se ha demostrado que tales pruebas de CC revelan deficiencias 
+incipientes no destructivas en el aislamiento que de otra manera no se 
+podrían encontrar, excepto posiblemente mediante la detección de descarga 
+parcial a niveles de tensión de prueba de CA no destructivos.
+La técnica consiste en la aplicación de dos o más tensiones de CC y en la 
+observación crítica de cualquier reducción de resistencia del aislamiento a la 
+mayor tensión. Cualquier reducción marcada o inusual en la resistencia del 
+aislamiento de un aumento prescrito en la tensión aplicada es una indicación 
+de debilidad incipiente.
+Es importante mencionar que los méritos de esta técnica surgen de 
+investigaciones más recientes que indican que se puede utilizar una tensión 
+de CC bastante alta para detectar debilidades sin dañar el aislamiento. El 
+valor máximo de tensión que se debe utilizar dependerá en gran medida de 
+la limpieza y la sequedad del aislamiento sometido a prueba.
+En la realización de pruebas de aislamiento con tales tensiones de CC, 
+el método del ohmímetro tiene al menos dos ventajas. Primero, los 
+voltajes fijos prescritos se ponen en marcha y se realiza una medición del 
+instrumento con el ohmímetro de lectura directa. Este es un método simple 
+y reproducible frente a uno en el que se dispone de diversas elecciones de 
+tensión. Otra ventaja importante 
+
+	
+UNA PUNTADA A TIEMPO	
+43
+del ohmímetro se puede explicar en la Fig. 21. En esta figura, los cambios 
+que pueden ocurrir en la corriente de fuga después de que la corriente 
+de absorción haya desaparecido se muestran trazados en términos de 
+resistencia del aislamiento frente a tres tensiones diferentes. Observe que 
+no hay ningún cambio en la resistencia mostrada en la figura entre 500 
+y 1000 voltios, lo que indica que no hay cambio en el aislamiento como 
+resultado de la aplicación de estas dos tensiones. Esta es una suposición, pero 
+es una condición que es común en la práctica. Si el aislamiento aún es estable 
+a 2500 voltios, no habrá ningún cambio en el valor obtenido de resistencia 
+del aislamiento, lo que se muestra mediante la extensión de puntos de la 
+línea horizontal en la figura. Cuando aparecen condiciones no lineales a 
+una mayor tensión, la curva de resistencia de tensión revela esto de manera 
+muy clara mediante un valor de resistencia inferior, indicado por la curva 
+decreciente en la figura. Por ende, n la figura se revela la simplicidad para 
+determinar la variación de la estabilidad del aislamiento con el uso de tres 
+tensiones fijas que son fácilmente reproducibles cuando se realizan pruebas 
+de tres tensiones de manera rutinaria. 
+Figura 21 
+Queremos destacar que la curva de la Fig. 21 indica que el cambio de 
+resistencia se debe solamente a la corriente de fuga y no a la corriente 
+de absorción, que puede aparecer durante un período en cada cambio 
+de tensión. Puede que sea necesario esperar una cantidad considerable 
+de tiempo después de cada cambio de tensión para que la corriente de 
+absorción desaparezca antes de tomar una lectura. 
+
+	44	
+UNA PUNTADA A TIEMPO
+VALORES DE LOG10
+D
+d
+Continuación de los valores en la siguiente 
+página.
+.
+G
+.
+W
+.
+A
+.
+M
+.
+C
+r
+o
+S
+E
+H
+C
+N
+I
+–
+S
+S
+E
+N
+K
+C
+I
+H
+T
+N
+O
+I
+T
+A
+L
+U
+S
+N
+I
+7
+4
+0
+.
+3
+6
+0
+.
+8
+7
+0
+.
+4
+9
+0
+.
+9
+0
+1
+.
+5
+2
+1
+.
+1
+4
+1
+.
+6
+5
+1
+.
+2
+7
+1
+.
+8
+8
+1
+.
+3
+0
+2
+.
+9
+1
+2
+.
+4
+3
+2
+.
+
+	
+UNA PUNTADA A TIEMPO	
+45
+VALORES DE LOG10
+D
+d
+
+	46	
+UNA PUNTADA A TIEMPO
+Para entender mejor la técnica de hacer pruebas de resistencia del 
+aislamiento en dos o más tensiones, se proponen los siguientes pasos, 
+con el uso de un motor de tracción o industrial clasificado ente los 300 y 
+1000 voltios como ejemplo:
+1.	Realice una prueba de un minuto con instrumentos de Megger a 
+500 voltios como base de comparación para los pasos posteriores.
+2.	Tras una cuidadosa operación de limpieza, realice una segunda prueba de 
+500 voltios para determinar la eficacia de la limpieza.
+3. 	Si el valor de resistencia del aislamiento de un minuto es anormal o si la 
+relación de resistencia del aislamiento de 60/30 segundos no es superior a 
+uno en este punto, entonces una operación de secado puede ser necesaria 
+antes de utilizar una tensión de prueba más alta. Sin embargo, si realiza 
+otra prueba a 1000 voltios y compara estas lecturas con las de la prueba 
+de 500 voltios, ayudará a determinar la necesidad de secado. Si el valor de 
+prueba de 1000 voltios es considerablemente inferior a la de 500 voltios, 
+se debe realizar una operación de secado. Por otro lado, si los valores 
+de prueba de 1000 y 500 voltios son aproximadamente los mismos, es 
+razonable asumir que la decisión de realizar una operación de secado se 
+puede aplazar hasta después del próximo paso.
+4.	Lleve a cabo una prueba de instrumentos de Megger a 2500 voltios. 
+Si no hay una diferencia apreciable en los valores de prueba de 500 y 
+2500 voltios, existe buena evidencia de que el motor en cuestión está en 
+condiciones confiables en lo que se refiere a su aislamiento. Por otro lado, 
+si hay una diferencia apreciable en ambas, hay buena evidencia de que se 
+requiere un reacondicionamiento más exhaustivo. Si el aislamiento falla la 
+prueba de 2500 voltios, después de seguir los pasos 1, 2 y 3, creemos que 
+existe la posibilidad de que el motor en cuestión falle mientras está en 
+servicio, aunque se hizo un intento de reacondicionamiento en función de 
+las pruebas de baja tensión solamente.
+El método de diversas tensiones también puede ser útil para determinar la 
+presencia de exceso de humedad en el aislamiento de los equipos clasificados 
+en tensiones equivalentes o superiores a la tensión más alta disponible en 
+el instrumento de diversas tensiones de Megger que se utiliza. En otras 
+palabras, a pesar de que la tensión más alta del instrumento de Megger 
+disponible no hace que el aislamiento supere su clasificación, una prueba 
+de dos tensiones puede revelar a menudo la presencia de humedad. Si la 
+resistencia del aislamiento se prueba primero en la lectura a corto plazo 
+
+	
+UNA PUNTADA A TIEMPO	
+47
+(primero a un nivel de tensión y luego a un potencial más alto), un valor más 
+bajo de resistencia del aislamiento a la tensión de prueba de CC más alta 
+suele indicar la presencia de humedad. Las tensiones aplicadas deben estar 
+preferentemente en la relación de 1 a 5. La experiencia indica que un cambio 
+del 25 % en el valor de resistencia del aislamiento, con una relación de 1 a 
+5 en las tensiones de prueba, se debe normalmente a la presencia de una 
+cantidad excesiva de humedad.
+Este método no se basa en fenómenos de absorción dieléctrica, pero 
+tampoco se relaciona con el efecto Evershed. Al igual que con las mediciones 
+de tiempo-resistencia, el método de diversas tensiones de prueba de 
+resistencia del aislamiento tiene mayor valor cuando se realizan de forma 
+periódica o programada.
+Figura 22: Formularios de prueba de tiempo-resistencia
+
+	48	
+UNA PUNTADA A TIEMPO
+MÉTODO DE TENSIÓN ESCALONADA
+En este método, necesita un instrumento de diversas tensiones de Megger 
+para aplicar dos o más tensiones de forma gradual, como 500 voltios y luego 
+1000 voltios. Se busca cualquier reducción de la resistencia del aislamiento 
+en la tensión más alta. Si la resistencia es inferior, es un signo de debilidad 
+de aislamiento que se muestra solamente a la mayor tensión. En la Fig. 23 
+se muestra un ejemplo en el que, en lugar de aumentar progresivamente 
+la tensión, primero se prueba a baja tensión (como 500 voltios) y, a 
+continuación, después de descargar la muestra, se prueba de nuevo a una 
+tensión mayor (como 2500 voltios). Cualquier diferencia en las dos pruebas 
+en términos de megohmios mostrará signos de debilidad a la mayor tensión: 
+una advertencia para investigar más a fondo. Como las condiciones dentro 
+de la muestra se deterioran, el gráfico de mayor tensión, como se muestra 
+en la Fig. 23, se reducirá en megohmios en comparación con el de menor 
+tensión y su pendiente ascendente será menor.
+Figura 23: Curvas típicas con la prueba de “tensión escalonada”.
+La teoría detrás de la técnica de tensión escalonada es un poco compleja, 
+pero intentaremos simplificar la explicación. Por lo general, las pruebas 
+realizadas a tensiones muy inferiores a las que se esperan en servicio revelan 
+la presencia de humedad y suciedad en el aislamiento. Sin embargo, es 
+posible que los efectos de envejecimiento o daño mecánico presentes en el 
+aislamiento medianamente limpio y seco no se revelen en tales condiciones 
+de estrés inferiores.
+
+	
+UNA PUNTADA A TIEMPO	
+49
+Ahora, cuando se aumenta la tensión de forma gradual para producir estrés 
+eléctrico que se acerque o supere a los niveles presentes durante el servicio, los 
+puntos débiles locales influirán en la resistencia del aislamiento global cada vez 
+más. Normalmente, la resistencia de dichas fallas locales disminuye rápidamente 
+a medida que el estrés eléctrico en ellas aumenta más allá de un cierto límite. 
+El gráfico de las lecturas consecutivas con los instrumentos de Megger muestra 
+claramente la fuerte caída cuando esto ocurre (consulte la Fig. 24).
+Figura 24: Curvas de la prueba mediante el método de tensión escalonada en comparación con 
+los resultados obtenidos con buen o mal aislamiento. La curva 1 (gráfico inferior) muestra una 
+disminución definida de la resistencia con tensión en aumento, lo que indica un problema. La curva 2 
+(gráfico superior) muestra las condiciones encontradas en el mismo devanado del motor después de 
+operación de limpieza, cocción e impregnación.
+
+	50	
+UNA PUNTADA A TIEMPO
+Solo debe mantener la tensión de prueba constante entre los niveles durante 
+unos 60 segundos. Este breve período no afectará la tendencia en el cambio 
+de la resistencia. Sin embargo, el período siempre debe ser el mismo para 
+un determinado equipo. Puede que toda la corriente de absorción no 
+haya desaparecido en este momento, pero sus mediciones de resistencia se 
+efectuarán en la misma base, por lo que serán significativas. Sus resultados son 
+independientes del material de aislamiento y la temperatura, ya que está en 
+busca del cambio en la resistencia, no de los valores de resistencia absoluta.
+Como ocurre con las mediciones al azar y de tiempo-resistencia, el método 
+de tensión escalonada se valora más cuando lo repite de forma periódica y 
+programada. 
+El método de tensión escalonada es particularmente útil para determinar la 
+presencia de un exceso de humedad u otros contaminantes en el aislamiento 
+de los equipos que clasifican en tensiones equivalentes o superiores a la 
+tensión más alta disponible en su instrumento de diversas tensiones de 
+Megger. En otras palabras, a pesar de que su tensión más alta no hace que 
+el aislamiento supere su clasificación, una prueba de dos tensiones puede 
+revelar a menudo la presencia de tales contaminantes.
+Por ejemplo, suponga que primero prueba la resistencia del aislamiento con 
+una lectura a corto plazo a una tensión de 500 VCC y, luego, a un mayor 
+potencial de, por ejemplo, 2500 VCC. Aunque la última tensión puede ser 
+nominal en relación con la clasificación de tensión del equipo, un valor 
+inferior de resistencia del aislamiento a una mayor tensión de prueba suele 
+indicar la presencia de fracturas contaminadas u otras vías de fuga a través 
+del aislamiento a tierra.
+La tensión aplicada debe estar preferentemente en la relación de 1 a 5 o 
+mayor (500 y 2500, por ejemplo). Los resultados hasta la fecha muestran 
+que un cambio del 25 % en el valor de resistencia del aislamiento, con una 
+relación de 1 a 5 en las tensiones de prueba, se debe normalmente a la 
+presencia de una cantidad excesiva de humedad y otros contaminantes.
+USO DE UN TERMINAL DE PROTECCIÓN
+Todos los probadores de aislamiento de Megger que cuentan con rangos de 
+1000 megohmios y superiores están equipados con terminales de protección. 
+El propósito de este terminal es proporcionar facilidades para conformar una 
+medición de red de tres terminales, de modo que sea posible determinar de 
+manera directa la resistencia de una de las dos posibles vías. Además, tiene el 
+propósito adicional o secundario de proporcionar una fuente de tensión de 
+CC de buena regulación con una capacidad limitada de corriente.
+
+	
+UNA PUNTADA A TIEMPO	
+51
+El aislamiento de todos los aparatos eléctricos tiene dos conductores o vías 
+de fuga: uno a través del material aislante y el otro sobre las superficies. 
+Cuando se proporciona un tercer terminal de prueba en la vía de la fuga 
+superficial, se divide en dos partes, lo que da forma a una red de tres 
+terminales, tal como se muestra en la Fig. 25a. En la práctica, se puede 
+proporcionar este tercer terminal, tal como se muestra en las figuras 26 a 38.
+Figura 25a
+Figura 25b
+Figura 26: Muestra cómo utilizar el terminal de protección para eliminar los efectos de la fuga 
+superficial a través del aislamiento expuesto a uno de los extremos de un cable. Consulte también las 
+figuras 28, 30 y 31.
+
+	52	
+UNA PUNTADA A TIEMPO
+También hay casos, como los que se encuentran en dos transformadores 
+de devanado o cables multiconductores, en los que se conforma una red 
+de tres terminales, como se muestra en la Fig. 25b. Las figuras 30 y 33, así 
+como otras, muestran las aplicaciones prácticas de esta forma de red de tres 
+terminales.
+Cuando lleva a cabo una prueba de tres terminales con solo una medición, 
+el terminal de línea del instrumento de Megger se conecta al terminal 1 
+,Fig. 25a, el terminal de protección al terminal 3 y el terminal de tierra al 
+terminal 2. Esto proporcionará el valor real de r12, siempre que r23 y r13 no 
+tengan un valor demasiado bajo. La pata r23, que se conecta a través del 
+generador del instrumento de Megger, debe ser aproximadamente de 
+1 megaohmio o superior para evitar una carga excesiva en el generador y 
+mantener una tensión del generador satisfactoria. 
+Durante el uso del terminal de protección, especialmente en el caso 
+de los instrumentos de Megger impulsados por motor u operados por 
+rectificadores, asegúrese también de que no exista ninguna posibilidad de 
+que se produzca un arco entre el terminal de protección de la muestra y 
+la tierra. Tal arco puede producir la formación indeseada de chispas en el 
+conmutador del generador del instrumento.
+La pata r13, que desvía la bobina de deflexión de Megger, debe ser de 
+al menos 100 megohmios para obtener una exactitud de medición de 
+aproximadamente el 1 %. La cifra de exactitud del 1 % se basa en el 
+resistor de balasto de R' de 1 megaohmio, lo cual es común. Para conseguir 
+determinaciones de exactitud con mayor precisión, escriba a Megger y 
+proporcione el número de serie del instrumento en uso para obtener el valor 
+exacto de R'.
+Figura 27: Muestra cómo usar la conexión de protección para eliminar los efectos de la fuga 
+superficial a través del aislamiento expuesto en ambos extremos de un cable cuando un conductor de 
+repuesto del cable está disponible para completar la conexión de protección.
+
+	
+UNA PUNTADA A TIEMPO	
+53
+En la Figura 28 se muestra el uso de la conexión de protección para eliminar el efecto de la fuga a 
+tierra, como se muestra en la figura 26, y también el efecto de la fuga de los conductores adyacentes. 
+Tenga en cuenta que el cable de protección se envuelve alrededor del aislante expuesto y también se 
+conecta a los conductores adyacentes.
+No confunda este diagrama con la figura 26, donde el cable de protección se conecta solo al 
+aislamiento expuesto y los conductores adyacentes se conectan a tierra.
+Figura 29: Para eliminar el efecto de la fuga superficial durante la medición de la resistencia real de un 
+miembro aislante, como una varilla de elevación de un disyuntor.
+
+	54	
+UNA PUNTADA A TIEMPO
+La máxima exactitud se necesita en los casos que se muestran en la Fig. 25a 
+o donde se requiere la resistencia real de cada pata, como en el caso de la 
+Fig 25b; se necesitan tres mediciones y se utilizan las siguientes ecuaciones:
+r12	
+=	
+R12 R13 – (R’)2
+	
+	
+R13 + R’	
+r23	
+=	
+R12 R23 – (R’)2
+	
+	
+R12 + R’
+r13	
+=	
+R12 R13 – (R’)2
+	
+	
+R12 + R’
+	donde R12, R23 y R13 son las lecturas reales en megohmios medidas a través 
+de los terminales de la red que se conectan a los terminales de línea y tierra 
+del instrumento de Megger con los terminales 3, 1 y 2, respectivamente, 
+conectados al terminal de protección del instrumento. R' es el valor de la 
+resistencia de balasto en megohmios del instrumento en uso. En la realización 
+de estas tres mediciones, no conecte el terminal de línea del instrumento al 
+terminal a tierra de la red, ya que cualquier fuga sobre la caja del instrumento 
+entre el terminal a tierra y la tierra desviará la resistencia que se mide.
+BUSHINGS, TERMINACIONES DE CABLE Y AISLADORES
+Figura 30: Conexiones para probar la resistencia del aislamiento entre un cable y la tierra, sin verse 
+afectados por la fuga a otros cables. Nota: Utilice la conexión de protección.
+
+	
+UNA PUNTADA A TIEMPO	
+55
+Figura 31: Conexiones para probar la resistencia del aislamiento entre un cable y todos los demás 
+cables conectados, sin verse afectados por la fuga a tierra.
+Figura 32: Muestra el uso de un collarín de resorte como conexión de protección para eliminar los 
+efectos de la fuga superficial. Se debe desconectar el dispositivo sometido a prueba de los demás 
+equipos.
+
+	56	
+UNA PUNTADA A TIEMPO
+Figura 33: Conexiones para probar la resistencia del aislamiento de bushings y devanados de 
+alta tensión de un transformador y el interruptor de desconexión de alta tensión en paralelo con 
+referencia a tierra, pero sin verse afectados por las fugas entre los devanados de alta y baja tensión 
+mediante el uso de la conexión de la protección.
+Figura 34: Conexiones para probar la resistencia del aislamiento entre los devanados de alta y baja 
+tensión, sin verse afectados por la fuga a tierra.
+
+	
+UNA PUNTADA A TIEMPO	
+57
+DISYUNTORES EXTERIORES EN ACEITE
+Las cuatro ilustraciones (Fig. 35 a 38) muestran los métodos comunes para 
+probar los bushings y las piezas asociadas de un disyuntor exterior en aceite, 
+y la tabla anexa indica el procedimiento de prueba por fases. 
+Si los valores de prueba están por debajo de los 10 000 megohmios en 
+cualquiera de las cuatro fases, el depósito se debe reducir o vaciar, de 
+modo que las pérdidas excesivas se puedan aislar para efectuar pruebas e 
+investigaciones adicionales. Si los valores de prueba están por debajo de los 
+50 000 megohmios en la prueba n.° 1, se deberá supervisar la tendencia de 
+la condición del casquillo particular involucrado mediante la realización de 
+pruebas con mayor frecuencia.
+
+	58	
+UNA PUNTADA A TIEMPO
+Figura 36: Fase 2
+Figura 35: Fase 1
+
+	
+UNA PUNTADA A TIEMPO	
+59
+Figura 37: Fase 3
+Figura 38: Fase 4
+
+	60	
+UNA PUNTADA A TIEMPO
+CONFIGURACIÓN DE UN PROGRAMA DE MANTENIMIENTO
+Para iniciar la prueba de aislamiento existe una regla general: lo primero 
+es lo primero; es decir, revisar todo el equipo eléctrico y clasificarlo con 
+respecto a la importancia relativa. Por ejemplo, si ese motor de CA falló en 
+el departamento A, ¿cómo afectaría a la producción global de la planta? Su 
+personal de producción puede ciertamente ayudar con esto y debería estar 
+sumamente interesado en la idea.
+Si el tiempo lo permite al inicio, pruebe cada equipo eléctrico y haga una 
+tarjeta de registro. Posiblemente, al principio, tendrá que combinar varias 
+unidades, pero valdrá la pena a largo plazo tener registros de prueba para 
+cada unidad individual. Luego, si aparecen puntos débiles en el aislamiento, 
+su tarea de localizar la parte defectuosa será más fácil.
+En la Fig. 40, se muestra un formulario de tarjeta de registro de pruebas, que 
+está disponible en Megger. Lo siguiente es el tipo de información, que se 
+vuelve más valiosa a medida que las pruebas se repiten en intervalos:
+1.	 Nombre y ubicación del equipo
+2.	 Fechas y valores de los resultados de la prueba (registre la lectura 
+real en el momento de la prueba)
+3.	 Rango, tensión y número de serie del instrumento de Megger 
+utilizado
+4.	 Temperatura del aparato (también, especialmente para las unidades 
+de gran tamaño, temperaturas de bulbo húmedo y seco: para 
+determinar la humedad y el punto de rocío)
+5.	 Medición de resistencia del aislamiento corregida para la 
+temperatura
+6.	 Un gráfico de lecturas consecutivas para mostrar la tendencia a fin 
+de que pueda anticipar fallas
+	
+Figura 40
+
+	
+UNA PUNTADA A TIEMPO	
+61
+¿CON QUÉ FRECUENCIA DEBE PROBAR?
+Esto depende del tamaño y la complejidad de su planta. Incluso las unidades 
+idénticas pueden diferir en los períodos de revisión necesarios; la experiencia 
+es su mejor guía. No obstante, por lo general, los aparatos de trabajo 
+(motores, generadores, etc.) son más propensos a desarrollar deficiencias 
+de aislamiento en comparación con el cableado, los aisladores y similares. 
+Se debe establecer un programa de pruebas para el equipo de trabajo, que 
+varíe cada 6 a 12 meses, en función del tamaño de los equipos y la severidad 
+de las condiciones atmosféricas circundantes. Para el cableado y similares, la 
+prueba una vez al año suele ser suficiente, a menos que las condiciones de la 
+planta sean inusualmente severas.
+
+	62	
+UNA PUNTADA A TIEMPO
+PROBADORES DE AISLAMIENTO DE 5 kV, 10 kV y 15 kV DE MEGGER
+Los probadores de aislamiento de 5 kV, 10 kV y 15 kV de Megger están 
+diseñados para aplicaciones industriales y de servicios públicos. Todos los 
+probadores de aislamiento de Megger son resistentes y fiables para el 
+uso de alto rendimiento. Ofrecen una capacidad nominal de seguridad de 
+hasta 1000 V CAT IV en todos los terminales y están alojados en un estuche 
+de polipropileno sólido con plena protección conforme a IP65 cuando se 
+transporta. Un exclusivo diseño de estuche doble en todas las unidades 
+posibilita la protección ignífuga mientras mantiene la solidez. 
+Los instrumentos de 10 kV ofrecen pleno cumplimiento del estándar IEEE 
+43-2000 “Prácticas recomendadas para probar la resistencia del aislamiento 
+de maquinaria rotativa”. Esto permite al usuario realizar pruebas de manera 
+eficaz en cualquier motor existente. El instrumento de 15 kV ofrece pleno 
+cumplimiento de los requisitos NETA para realizar pruebas en equipos con 
+capacidad nominal por sobre los 35 kV.
+MIT515, MIT525, MIT1025 y MIT1525
+La serie MIT consta de cuatro instrumentos: 
+dos modelos de 5 kV, una unidad de 10 kV y 
+una unidad de 15 kV. La serie está diseñada 
+para la distribución energética e industrial. El 
+MIT515 (modelo de 5 kV) se puede utilizar para 
+realizar tanto pruebas de aislamiento simples 
+de satisfactorio/no satisfactorio como pruebas 
+básicas de diagnóstico del aislamiento, como el 
+índice de polarización (IP). Dos nuevos modelos 
+avanzados, el MIT1025 (modelo de 10 kV) y el 
+MIT1525 (modelo de 15 kV) ofrecen memoria 
+y pruebas de diagnóstico del aislamiento. El 
+MIT1025 y el MIT1525 son aptos para efectuar pruebas más rigurosas en 
+equipos de mayor tensión. 
+Las unidades MIT tienen un circuito/terminal de protección completamente 
+especificado para posibilitar resultados exactos en una amplia gama de 
+situaciones de prueba. Se pueden realizar pruebas desde la batería o desde 
+la alimentación de CA y beneficiarse de una batería de larga duración y un 
+rápido tiempo de recarga. Para ayudar con los resultados de tendencias y 
+almacenamiento, el MIT525, el MIT1025 y el MIT1525 incluyen memoria y 
+descarga a PC a través de USB, así como pruebas de diagnóstico adicionales, 
+como tensión escalonada (SV) y prueba de incremento gradual.
+MIT1525 de Megger
+
+	
+UNA PUNTADA A TIEMPO	
+63
+PROBADORES DE AISLAMIENTO DE1 kV DE MEGGER
+Megger es el originador de las pruebas de resistencia del aislamiento y líder 
+reconocido a nivel mundial en esta área. El primer instrumento para realizar 
+dichas pruebas se presentó hace más de 100 años. Con base en una valiosa 
+retroalimentación de los clientes y nuestra experiencia de muchos años, 
+ofrecemos una completa gama de probadores de aislamiento de 1 kV (la 
+serie MIT400/2, los MIT300 y los MIT200) diseñados para satisfacer las diversas 
+necesidades y presupuestos de todos los tipos de clientes.
+SERIE MIT400/2 DE MEGGER
+La serie MIT400/2 de probadores de 
+aislamiento corresponde a la gama de 
+probadores de aislamiento y continuidad 
+en un diseño ergonómico con las últimas 
+técnicas de medición y protección de circuito 
+activo. Está diseñada para resistir condiciones 
+de pruebas arduas y proporcionar excelente 
+exactitud y confiabilidad en la medición, 
+desde 0,01 ohmios hasta 200 gigaohmios.
+Los últimos probadores de aislamiento y continuidad de la serie MIT400/2 cuentan 
+con pruebas de continuidad más rápidas y tensiones de prueba de aislamiento 
+estabilizadas para realizar pruebas de instalación más exactas y productivas.
+Las pruebas de aislamiento cuentan con la adición de control de 
+realimentación para estabilizar la tensión de prueba a menos del +2 % (+2 V) 
+sobre la tensión, con el fin de propiciar una medición más exacta y segura. 
+La tensión de prueba variable también está disponible de 10 V a 1000 V. 
+Ahora, la prueba de continuidad es totalmente automática desde 0,01 ohmios 
+hasta 999 kΩ con detección de contacto rápido mientras se protege de manera 
+continua frente al contacto accidental con circuitos activos.
+Además, cuenta con pruebas de índice de polarización (IP) y relación de 
+absorción dieléctrica (DAR), así como con almacenamiento y descarga de 
+resultados de la prueba. 
+
+	64	
+UNA PUNTADA A TIEMPO
+SERIE MIT300 DE MEGGER
+La serie MIT300 está diseñada de acuerdo con el principio familiar de Megger 
+de características ascendentes sin pérdida de calidad básica. Cinco modelos 
+componen la familia, cada uno basado en un diseño básico que garantiza 
+la calidad y fiabilidad, que son las marcas registradas de Megger. El MIT300 
+es el modelo más simple, que ofrece funciones esenciales de la más alta 
+calidad, pero no cuenta con características adicionales que puedan probar 
+la redundancia en las aplicaciones básicas. Para aplicaciones en las que se 
+debe evitar una prueba de 1 kV, el MIT300 ofrece solamente una prueba de 
+250 y 500 V. Combinado con advertencia de tensión y continuidad, además 
+de todas las comodidades y características de seguridad que distinguen a la 
+familia, este es el modelo de elección para las aplicaciones más sencillas.
+Si la función básica aún es el objetivo, pero se requiere una prueba de 1 kV, 
+el MIT310 es la opción perfecta. Con la posibilidad de trabajar a tensiones 
+más altas, se ha reforzado el funcionamiento seguro con la inclusión de un 
+voltímetro predeterminado.
+Para aquellos que prefieren el tipo análogo mecánico tradicional de 
+instrumento, el MIT310A ofrece todo lo necesario que posee el MIT310, 
+pero con una pantalla de bovina móvil. La pantalla análoga se ve realzada 
+con adhesivos en negro sobre un fondo blanco para proporcionar un alto 
+contraste y una mejor visibilidad.
+La familia se completa con los MIT320 y MIT330, que cuentan con todas las 
+funciones. La versión anterior agrega un rango en kilohmios para efectuar 
+mediciones entre los extremos de continuidad y de alta tensión. Con esta 
+característica, se pueden llevar a cabo mediciones de forma continua desde 
+0,01 Ω hasta 999 MΩ. Una pantalla con retroiluminación se ve realzada aún 
+más con las selecciones de retroiluminación para que tanto la configuración 
+como los resultados sean visibles con poca luz. El MIT320 también ofrece 
+alarmas audibles en los rangos de megohmios y continuidad, ajustables en 
+toda la gama.
+Finalmente, el MIT330 ofrece todo lo descrito 
+en el MIT320, además de un almacenamiento 
+de hasta 1000 resultados, que se pueden 
+descargar a través de un puerto USB mediante 
+el software incluido, y una indicación visual de 
+memoria restante.
+MIT310 de Megger
+
+	
+UNA PUNTADA A TIEMPO	
+65
+SERIE MIT200 DE MEGGER
+¿Solo necesita pruebas de continuidad y aislamiento 
+básicas de 1 kV, con ahorro como consideración 
+primordial? ¡No hay necesidad de hacer sacrificios! 
+Megger ofrece la única línea de alta calidad de 
+probadores económicos en el mercado: la serie MIT200. 
+Aunque se diseñaron considerando el ahorro, estos 
+probadores no ocasionan pérdidas de calidad ni 
+fiabilidad, que el nombre Megger implica. Además, 
+no se ha sacrificado la seguridad, que es un problema 
+grave con los probadores económicos que han reducido 
+los costos, con el riesgo de un arco eléctrico y error del 
+operador.
+Hay cuatro modelos disponibles, que difieren solo en 
+las tensiones de prueba que se ofrecen: El MIT200 es un 
+modelo de 500 V para aplicaciones estándar; el MIT210 
+es un modelo de 1 kV, en el que la mayor tensión de 
+prueba está en orden; el MIT220 ofrece dos tensiones, 
+250 y 500, para las aplicaciones más sensibles, en 
+las que se deben evitar las pruebas de 1 kV; para 
+aplicaciones de espectro completo, el MIT230 ofrece las 
+tres tensiones: 250, 500 y 1 kV.
+MIT230 de Megger
+
+Stitch_2017
+La palabra ‘Megger’ es marca comercial 
+registrada 
+Copyright © 2017 
+4271 Bronze Way
+Dallas TX, 75237
+T: +1 214 330 3293
+E: csasales@megger.com
+csa.megger.com

@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Oficial Técnico Electricista · punto 19 |
 | Sirve para | Oficial Técnico Electricista de Canal Sur (puesto 2.27, grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 614/2001, riesgo eléctrico; Real Decreto 1215/1997, equipos de trabajo (trabajos temporales en altura); Real Decreto 487/1997, manipulación manual de cargas; Real Decreto 374/2001, agentes químicos; Reglamento (CE) n.º 1272/2008 (CLP), etiquetado; Real Decreto 485/1997, señalización; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 773/1997, equipos de protección individual; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, fichas de los puestos 9311100 y 9311200); Carta del Servicio Público de la RTVA 2024-2029; documentación técnica del INSST |
-| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (comprobada el 05-10-2026); el Reglamento (CE) n.º 1272/2008, en su texto publicado en el DOUE, que no está consolidado |
-| Extensión | 21.305 palabras |
+| Fuente | Ley 31/1995, de Prevención de Riesgos Laborales; Real Decreto 39/1997, Reglamento de los Servicios de Prevención; Real Decreto 614/2001, riesgo eléctrico; Real Decreto 1215/1997, equipos de trabajo (trabajos temporales en altura); Real Decreto 487/1997, manipulación manual de cargas; Real Decreto 374/2001, agentes químicos; Reglamento (CE) n.º 1272/2008 (CLP), etiquetado; Real Decreto 485/1997, señalización; Real Decreto 488/1997, pantallas de visualización; Real Decreto 486/1997, lugares de trabajo; Real Decreto 773/1997, equipos de protección individual; Reglamento (UE) 2016/425, equipos de protección individual (comercialización); Real Decreto 286/2006, ruido; texto refundido de la Ley General de la Seguridad Social (Real Decreto Legislativo 8/2015), artículo 156; texto refundido de la Ley del Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015), artículo 36; X Convenio Colectivo de la RTVA y sus sociedades filiales (artículos 25 a 31 y anexo III, fichas de los puestos 9311100 y 9311200); Carta del Servicio Público de la RTVA 2024-2029; documentación técnica del INSST (entre ella, la NTP 223 sobre recintos confinados) |
+| Redacción que se estudia | Normas en su redacción vigente a 24-09-2026 (comprobada el 05-10-2026); los Reglamentos (CE) n.º 1272/2008 y (UE) 2016/425, en su texto publicado en el DOUE, que no está consolidado |
+| Extensión | 22.879 palabras |
 
 <!-- /portada -->
 
@@ -38,7 +38,7 @@ disciplinas preventivas del RD 39/1997; qué funciones da el X Convenio al ofici
 y qué hace con él su ayudante; qué riesgos incluye el riesgo eléctrico; las cinco etapas para dejar
 una instalación sin tensión y quién puede hacerlas; qué es trabajador autorizado y cualificado; qué
 puede hacerse en tensión; a partir de qué altura hace falta barandilla y cuánto mide; las reglas de
-las escaleras de mano; qué es un espacio confinado y cuándo exige recurso preventivo; qué es
+las escaleras de mano; qué es un espacio confinado y cuándo exige recurso preventivo; qué oxígeno mínimo y qué porcentaje del límite inferior de inflamabilidad orienta la NTP 223; los valores de exposición al ruido del RD 286/2006 y cuándo se ponen a disposición o se usan protectores auditivos; qué es
 manipulación manual de cargas y qué pesos orienta la Guía del INSST; el orden de las medidas frente a
 un agente químico; qué lleva la etiqueta de un producto peligroso y qué significan «peligro» y
 «atención»; colores y formas de las señales; qué órganos de prevención prevé el X Convenio de la RTVA
@@ -46,7 +46,7 @@ y qué descanso fija para el trabajo en pantalla; qué portátiles excluye el RD
 distancias de la pantalla y los niveles de iluminación, temperatura y humedad del puesto; qué son los
 TME; dónde se define el accidente in itinere y qué lo excluye; qué es el accidente en misión; qué es
 un EPI, cuándo se usa, qué EPI nombra el RD 773/1997 frente a la electricidad y qué debe hacer el
-trabajador con él.
+trabajador con él; qué significa el marcado CE de un EPI, sus tres categorías de riesgo y cuáles son de categoría III.
 
 <!-- indice -->
 
@@ -444,6 +444,28 @@ psicosociología aplicada**. Esas cuatro disciplinas sirven para ordenar los rie
 La columna de la derecha es una ordenación de este tema, no un listado oficial: la RTVA no ha
 publicado la evaluación de riesgos del puesto.
 
+El ruido de grupos electrógenos y salas de máquinas tiene norma propia: el Real Decreto 286/2006,
+de 10 de marzo, sobre la protección de la salud y la seguridad de los trabajadores contra los riesgos
+relacionados con la exposición al ruido (una sola redacción, vigente desde el 31 de marzo de 2006).
+Sus valores (artículo 5.1), referidos a la exposición diaria (LAeq,d) y al pico (Lpico):
+
+| Valor | Exposición diaria | Pico |
+| --- | --- | --- |
+| **Valores límite de exposición** | **87 dB(A)** | **140 dB (C)** |
+| **Valores superiores de exposición que dan lugar a una acción** | **85 dB(A)** | **137 dB (C)** |
+| **Valores inferiores de exposición que dan lugar a una acción** | **80 dB(A)** | **135 dB (C)** |
+
+Al aplicar los valores límite **«se tendrá en cuenta la atenuación que procuran los protectores
+auditivos individuales»**; **«Para los valores de exposición que dan lugar a una acción no se
+tendrán en cuenta los efectos producidos por dichos protectores.»** (5.2). Los protectores auditivos
+son el último recurso (artículo 7.1, **«de no haber otros medios de prevenir los riesgos»**): por
+encima de los valores inferiores, **«el empresario pondrá a disposición de los trabajadores
+protectores auditivos individuales»** (7.1.a); y mientras se ejecuta el programa de medidas del
+artículo 4.2 y **«en tanto el nivel de ruido sea igual o supere los valores superiores de exposición
+que dan lugar a una acción, se utilizarán protectores auditivos individuales»** (7.1.b). Qué nivel
+alcanzan los grupos y salas de máquinas de la RTVA no consta en documento publicado: lo dirá la
+evaluación.
+
 ### La organización preventiva de la RTVA
 
 El X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10 de diciembre
@@ -525,8 +547,8 @@ convenio. La primera: las tareas del oficial (mantener, reparar, montar, operar,
 son exactamente los «trabajos en instalaciones eléctricas, o en sus proximidades» y las
 «maniobras, mediciones, ensayos y verificaciones» que regula el RD 614/2001; y la mención
 «(frigorista o electricista)» extiende el puesto a las instalaciones frigoríficas y de
-climatización, con sus refrigerantes y sus trabajos en cubiertas. La segunda: el oficial trabaja
-habitualmente en pareja con su ayudante, y las guardias para averías imprevistas son trabajo fuera
+climatización, con sus refrigerantes y sus trabajos en cubiertas. La segunda: el oficial puede trabajar con su ayudante, al que la ficha encarga
+auxiliarle y colaborar con él, y las guardias para averías imprevistas son trabajo fuera
 del horario ordinario y con prisa, que es cuando más se tienta saltarse un procedimiento.
 
 ### Los riesgos específicos del oficial técnico electricista
@@ -540,7 +562,7 @@ evaluación oficial del puesto, que la RTVA no ha publicado; el artículo 28 del
 | «Efectuar revisiones y mantenimiento», «Realizar reparaciones», «Mantener, operar, explotar e inspeccionar» las instalaciones | Riesgo eléctrico: contacto directo e indirecto, arco, quemaduras, incendio | En este epígrafe, «El riesgo eléctrico»; tema 15 |
 | Trabajos en cuadros, bandejas, falsos techos, luminarias, cubiertas, torres y unidades exteriores de climatización | Caída desde altura | «Los trabajos en altura» |
 | Arquetas, galerías de cables, fosos, depósitos de gasóleo de los grupos electrógenos | Atmósfera peligrosa; caída; atrapamiento | «Los espacios confinados» |
-| Montaje de nuevos sistemas; sustitución de baterías, cuadros, bobinas de cable, equipos de climatización | Lesiones dorsolumbares | «La manipulación manual de cargas» |
+| Montaje de nuevos sistemas; sustitución de baterías, cuadros, bobinas de cable, equipos de climatización | Lesiones dorsolumbares | «La manipulación de cargas» |
 | Baterías de SAI y grupos, refrigerantes, aceites, disolventes, limpiadores de contactos | Exposición a agentes químicos; incendio | «Los productos químicos y su etiquetado» |
 | Gestión técnica del edificio, documentación, órdenes de trabajo | Pantallas, posturas, TME | Epígrafe 3 |
 | Desplazamientos a centros territoriales y emisores | Accidente de tráfico en misión | Epígrafe 4 |
@@ -646,7 +668,7 @@ La letra b) del 4.4 es la que más toca a una casa que emite: la continuidad del
 estudio o de un centro emisor puede justificar un trabajo en tensión, pero entonces el procedimiento
 se ajusta al anexo III, y **«Los trabajos en tensión deberán ser realizados por trabajadores
 cualificados, siguiendo un procedimiento previamente estudiado y, cuando su complejidad o novedad lo
-requiera, ensayado sin tensión»** (anexo III.A.1).
+requiera, ensayado sin tensión [...]»** (anexo III.A.1).
 
 **Las cinco etapas (anexo II.A.1).** Para dejar sin tensión una instalación, una vez identificados la
 zona y los elementos donde se va a trabajar, **«y salvo que existan razones esenciales para hacerlo de
@@ -688,7 +710,7 @@ anexo I son materia del tema 15.
 | Trabajo | Quién (RD 614/2001) |
 | --- | --- |
 | Dejar sin tensión y reponerla | **Trabajadores autorizados** que, **en el caso de instalaciones de alta tensión, deberán ser trabajadores cualificados** (anexo II.A) |
-| Trabajos en tensión | **Trabajadores cualificados** (anexo III.A.1) |
+| Trabajos en tensión | **Trabajadores cualificados** (anexo III.A.1). Salvedad: **«En instalaciones de baja tensión, no será necesario que la reposición de fusibles la efectúe un trabajador cualificado, pudiendo realizarla un trabajador autorizado, cuando la maniobra del dispositivo portafusible conlleve la desconexión del fusible y el material de aquél ofrezca una protección completa contra los contactos directos y los efectos de un posible arco eléctrico.»** (anexo III.C.1.a); su desarrollo, en el tema 15 |
 | Maniobras locales, mediciones, ensayos y verificaciones | **Trabajadores autorizados**; en alta tensión, las mediciones, ensayos y verificaciones, **trabajadores cualificados, pudiendo ser auxiliados por trabajadores autorizados, bajo su supervisión y control** (anexo IV.A.1) |
 | Decidir si un trabajo en proximidad es viable | **Un trabajador autorizado, en el caso de trabajos en baja tensión, o un trabajador cualificado, en el caso de trabajos en alta tensión** (anexo V.A.1) |
 
@@ -703,7 +725,7 @@ Decreto.»**
 **Las instalaciones (artículo 3).** El tipo de instalación se adapta al lugar, teniendo **«particularmente
 en cuenta factores tales como las características conductoras del lugar del trabajo (posible presencia
 de superficies muy conductoras, agua o humedad), la presencia de atmósferas explosivas, materiales
-inflamables o ambientes corrosivos»** (3.1), y **«el funcionamiento de los sistemas de protección se
+inflamables o ambientes corrosivos [...]»** (3.1), y **«el funcionamiento de los sistemas de protección se
 controlará periódicamente, de acuerdo a las instrucciones de sus fabricantes e instaladores, si existen,
 y a la propia experiencia del explotador»** (3.3). Esa comprobación periódica de las protecciones
 (diferenciales, tierras) es parte del trabajo del propio puesto.
@@ -794,11 +816,41 @@ Lo que exige la norma:
   deberán realizarse estando presentes, al menos, dos trabajadores con formación en materia de
   primeros auxilios.»**
 
-Como práctica de oficio, no como texto de norma, las medidas se ordenan así: evitar la entrada
-haciendo el trabajo desde fuera; autorización de entrada por escrito; medir la atmósfera (oxígeno,
-inflamables, tóxicos) antes de entrar y mientras se trabaja; ventilar; aislar y bloquear las energías
-y conducciones; vigilante en el exterior en comunicación con quien está dentro; y medios de rescate
-preparados antes de empezar.
+Las medidas de entrada no están en norma. Las ordena la NTP 223 del INSST, «Trabajos en recintos
+confinados» (serie de 1989), que es guía de buenas prácticas, como la propia nota advierte: **«Sus
+indicaciones no son obligatorias salvo que estén recogidas en una disposición normativa vigente.»**
+Y pide tener en cuenta su fecha de edición. Sus medidas:
+
+- **Autorización de entrada.** **«Esta autorización es la base de todo plan de entrada en un recinto
+  confinado.»** Firmada **«por los responsables de producción y mantenimiento»**, **«debe ser válida
+  sólo para una jornada de trabajo»** y se completa con un procedimiento de trabajo (medios de
+  acceso, ventilación y control de la atmósfera, EPI, equipos de trabajo, vigilancia desde el
+  exterior).
+- **Medición de la atmósfera.** **«Las mediciones deben efectuarse previamente a la realización de
+  los trabajos y de forma continuada mientras se realicen éstos y sea susceptible de producirse
+  variaciones de la atmósfera interior»**, y las previas **«desde el exterior o desde zona segura»**.
+  Los valores de referencia que da:
+
+  | Qué se mide | Valor de la NTP 223 |
+  | --- | --- |
+  | Oxígeno | **«El porcentaje de oxígeno no debe ser inferior al 20,5%.»** Si no se puede mantener con aire fresco, se trabaja **«con equipos respiratorios semiautónomos o autónomos, según el caso»** |
+  | Inflamables (con explosímetro) | El recinto se considera **«muy peligroso cuando exista concentración de sustancia inflamable por encima del 25% del límite inferior de inflamabilidad»**; **«Cuando se pueda superar el 5% del límite inferior de inflamabilidad el control y las mediciones serán continuadas.»** |
+  | Tóxicos | **«detectores específicos según el gas o vapor tóxico que se espera encontrar»**; no da cifras generales |
+
+- **Aislamiento.** Mientras se trabaja dentro, los espacios confinados deben estar **«totalmente aislados y bloqueados»** frente al
+  **«suministro energético intempestivo»** (incluida **«la posible puesta en tensión eléctrica»**) y
+  frente al aporte de contaminantes por tuberías o válvulas, con señalización de que se trabaja dentro.
+- **Ventilación.** **«Generalmente la ventilación natural es insuficiente y es preciso recurrir a
+  ventilación forzada.»** Los equipos de ventilación, **«conectados equipotencialmente a tierra»**; y
+  **«En ningún caso el oxígeno será utilizado para ventilar espacio confinado.»**
+- **Vigilancia externa.** Una persona en el exterior, **«perfectamente instruida para mantener
+  contacto continuo visual o por otro medio de comunicación eficaz»** con quien está dentro, que
+  **«tiene la responsabilidad de actuar en casos de emergencia»**; el de dentro, **«sujeto con cuerda
+  de seguridad y arnés, desde el exterior»**, donde habrá **«medios de sujeción y rescate
+  adecuados»**.
+
+Evitar la entrada haciendo el trabajo desde fuera, cuando se pueda, es aplicación del primer
+principio del artículo 15 de la Ley 31/1995 (evitar los riesgos), no texto de la NTP.
 
 ### La manipulación de cargas
 
@@ -1655,6 +1707,38 @@ prendas o protecciones deberán estar homologadas. El Comité de Salud Laboral e
 prendas que deberán entregarse a los distintos puestos de trabajo anualmente.»** Qué equipos
 concretos entrega la RTVA al puesto de oficial técnico electricista no consta en documento publicado.
 
+**Qué exige hoy la norma al EPI que se compra.** El convenio habla de prendas «homologadas». El RD
+773/1997 remite el diseño y la fabricación a **«cualquier disposición legal o reglamentaria que les
+sea de aplicación»** (artículo 5.3), y la que establece hoy **«los requisitos sobre el diseño y la
+fabricación de los equipos de protección individual (en lo sucesivo, "EPI") que vayan a
+comercializarse»** es el Reglamento (UE) 2016/425 del Parlamento Europeo y del Consejo, de 9 de marzo
+de 2016 (artículo 1), aplicable, con excepciones, desde el 21 de abril de 2018. Lo que hay que saber de él:
+
+- **Marcado CE.** Es **«el marcado por el que el fabricante indica que un EPI es conforme con los
+  requisitos aplicables [...]»** (artículo 3.18); **«se colocará de manera visible, legible e indeleble en
+  el EPI»** o, si no es posible, en el embalaje y los documentos (17.1), **«antes de que el EPI se
+  introduzca en el mercado»** (17.2). El fabricante lo coloca tras demostrar la conformidad y emitir
+  la declaración UE de conformidad (artículo 8.2), y acompaña el EPI de instrucciones e información
+  **«redactadas en una lengua fácilmente comprensible»** (8.7).
+- **Tres categorías de riesgo** (artículo 18 y anexo I). La **categoría I** incluye
+  **«exclusivamente»** riesgos mínimos (lesiones mecánicas superficiales, contacto con superficies
+  calientes que no excedan de 50 °C, entre otros); la **categoría II**, **«riesgos distintos de los
+  enumerados en las categorías I y III»**; la **categoría III**, **«exclusivamente los riesgos que
+  puedan tener consecuencias muy graves, como la muerte o daños irreversibles a la salud»**. De su
+  lista tocan al puesto **«a) sustancias y mezclas peligrosas para la salud»**, **«b) atmósferas con
+  falta de oxígeno»**, **«g) caídas de altura»**, **«h) descargas eléctricas y trabajos en
+  tensión»** y **«m) ruidos nocivos»**: guantes, casco y calzado aislantes, anticaídas, equipos
+  respiratorios para recintos confinados y protectores auditivos son, por tanto, de categoría III.
+- **Evaluación de la conformidad** (artículo 19): categoría I, **«control interno de la producción
+  (módulo A)»**; categoría II, **«examen UE de tipo (módulo B)»** seguido del módulo C; categoría
+  III, examen UE de tipo y además control supervisado de producto (módulo C2) o aseguramiento de la
+  calidad del proceso de producción (módulo D). En la categoría III, **«el marcado CE irá seguido del
+  número de identificación del organismo notificado»** (17.3).
+
+El reglamento se cita en su texto publicado en el DOUE, no consolidado; su única modificación
+(Reglamento (UE) 2024/2748, aplicable desde el 29 de mayo de 2026) añade definiciones al artículo 3 y
+un capítulo VI bis sobre emergencias del mercado interior, y no toca lo citado.
+
 A falta de la relación oficial, el RD 773/1997 da la pauta. Su anexo III (**Lista no exhaustiva de
 actividades y sectores de actividades que pueden requerir la utilización de equipos de protección
 individual**) advierte que **la evaluación de riesgos determinará la necesidad de suministrar un EPI
@@ -1678,8 +1762,10 @@ equipos de protección individual frente a riesgos eléctricos (guantes, gafas, 
 prueba, etc.).»**, **«c) Las pértigas aislantes.»** y **«d) Los dispositivos aislantes o aislados
 (banquetas, alfombras, plataformas de trabajo, etc.).»**; y para las maniobras, mediciones, ensayos
 y verificaciones, **«e) Los equipos de protección individual (pantallas, guantes, gafas, cascos,
-etc.).»** (anexo IV.A.2), que deben proteger **«frente al riesgo de contacto eléctrico, arco
-eléctrico, explosión o proyección de materiales»**. Esos equipos **«se utilizarán, mantendrán y
+etc.).»** (anexo IV.A.2); en ese apartado es **«El método de trabajo empleado y los equipos y materiales de
+trabajo y de protección utilizados»** lo que **«deberán proteger al trabajador frente al riesgo de
+contacto eléctrico, arco eléctrico, explosión o proyección de materiales»**: el EPI protege junto con
+el método y los demás equipos, no solo. Esos equipos **«se utilizarán, mantendrán y
 revisarán siguiendo las instrucciones de su fabricante»** (anexos III.A.3 y IV.A.3). Y en los
 trabajos en tensión **«Los trabajadores no llevarán objetos conductores, tales como pulseras,
 relojes, cadenas o cierres de cremallera metálicos que puedan contactar accidentalmente con
@@ -1703,6 +1789,8 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Eléctrico | Control periódico de los sistemas de protección; formación e información | RD 614/2001, arts. 3.3 y 5 |
 | Altura | Protección colectiva (barandilla de 90 cm con riesgo de caída de más de 2 m) antes que individual; escaleras de mano conforme al anexo II | RD 1215/1997, anexos I.6 y II.4 |
 | Altura con riesgo especialmente grave; espacios confinados | Presencia de recurso preventivo | Ley 31/1995, art. 32 bis; RD 39/1997, art. 22 bis |
+| Espacios confinados | Autorización de entrada; medición previa y continuada (oxígeno no inferior al 20,5 %); aislamiento; ventilación forzada; vigilancia externa y rescate | NTP 223 (guía, no norma) |
+| Ruido | Reducir en el origen; protectores a disposición si se superan los valores inferiores (80 dB(A) diarios o 135 dB(C) de pico) y, mientras se ejecuta el programa de medidas, de uso obligado si se alcanzan o superan los superiores (85 dB(A) o 137 dB(C)) | RD 286/2006, arts. 4, 5.1 y 7.1 |
 | Cargas | Evitar con medios mecánicos; si no, evaluar con los factores del anexo y reducir | RD 487/1997, arts. 3 y anexo |
 | Químicos | Sustituir; aislar; ventilar y organizar; EPI; ficha de datos de seguridad | RD 374/2001, arts. 4, 5.2 y 9.2.d |
 | Productos peligrosos | Etiqueta CLP; etiquetado de recipientes y tuberías | Reglamento CLP, art. 17; RD 485/1997, anexo VII.4 |
@@ -1712,7 +1800,7 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Desplazamientos (en misión, in itinere) | Plan de Seguridad Vial; Plan de Movilidad | NTP 1091 |
 | Estrés, guardias y turnos | Evaluación de los factores psicosociales y de la turnicidad por personal especializado | NTP 318, 443 y 502 |
 | Riesgo que no se puede controlar | Informar de inmediato al superior y a los designados; interrumpir la actividad ante riesgo grave e inminente | Ley 31/1995, arts. 29.2.4.º y 21.2 |
-| Riesgos que no se eliminan | EPI adecuados, gratuitos y homologados | Ley 31/1995, art. 17.2; RD 773/1997; X Convenio, art. 30 |
+| Riesgos que no se eliminan | EPI adecuados, gratuitos y con marcado CE (en la categoría III, seguido del número del organismo notificado) | Ley 31/1995, art. 17.2; RD 773/1997; Reglamento (UE) 2016/425, arts. 17 y 19; X Convenio, art. 30 |
 
 ## Normativa que el tema invoca
 
@@ -1729,6 +1817,8 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
 | Real Decreto 488/1997, de 14 de abril, pantallas de visualización | Arts. 1 a 6 y anexo |
 | Real Decreto 486/1997, de 14 de abril, lugares de trabajo | Arts. 7 y 8; anexo III (3.a y 3.b) y anexo IV (niveles mínimos de iluminación) |
 | Real Decreto 773/1997, de 30 de mayo, equipos de protección individual | Arts. 2 a 8 y 10; anexos I y III |
+| Reglamento (UE) 2016/425, de 9 de marzo de 2016, equipos de protección individual | Arts. 1, 3.18, 8.2, 8.7, 17, 18 y 19; anexo I |
+| Real Decreto 286/2006, de 10 de marzo, exposición al ruido | Arts. 4, 5.1, 5.2 y 7.1 |
 | Real Decreto Legislativo 8/2015, de 30 de octubre, texto refundido de la LGSS | Art. 156 |
 | Real Decreto Legislativo 2/2015, de 23 de octubre, texto refundido de la Ley del Estatuto de los Trabajadores | Art. 36.4 (trabajo nocturno y a turnos) |
 | X Convenio Colectivo de la RTVA y sus sociedades filiales (BOJA núm. 240, de 10-XII-2014) | Arts. 25 a 31; anexo III, fichas de oficial técnico electricista (9311100) y ayudante técnico electricista (9311200) |
@@ -1746,8 +1836,14 @@ instrucciones), las que este tema ha ido encontrando en su fuente son:
   maniobras, trabajos en proximidad, permisos de trabajo) y **la coordinación de actividades
   empresariales** (artículo 24 de la Ley 31/1995 y RD 171/2004): tema 15 de este temario.
 - **Espacios confinados**: no hay real decreto propio; la definición y el recurso preventivo vienen
-  del RD 39/1997. Las medidas de entrada, medición y rescate se dan como práctica de oficio: la
-  documentación técnica del INSST sobre recintos confinados no se ha podido consultar.
+  del RD 39/1997. Las medidas de entrada, medición y rescate se dan con la NTP 223 (1989), que no es
+  norma; no se dan valores límite de tóxicos concretos ni las normas de producto de detectores y
+  equipos respiratorios.
+- **Ruido**: se dan los valores y los protectores del RD 286/2006; no su evaluación y medición, la
+  vigilancia de la salud ni el programa de medidas del artículo 4.2.
+- **EPI, comercialización**: del Reglamento (UE) 2016/425 se dan el marcado CE, las categorías y los
+  procedimientos de evaluación de la conformidad; no los requisitos esenciales del anexo II ni las
+  obligaciones de importadores y distribuidores.
 - **Equipo anticaídas y plataformas elevadoras**: sus normas de producto (UNE-EN) y su detalle no se
   dan; sólo lo que exigen el RD 1215/1997 y el anexo III del RD 773/1997.
 - **El Reglamento CLP** se cita en su texto publicado en 2008, no consolidado; se ha comprobado que el
@@ -1790,6 +1886,8 @@ redacción con vigencia entre el 24-09-2026 y esa fecha.
 | RD 485/1997, señalización | BOE-A-1997-8668 | Arts. 2, 4 y 5 y anexo II: 1997; art. 1 y anexos III y VII: redacción de BOE-A-2015-7458, vigente desde 05-07-2015 |
 | RD 488/1997, pantallas de visualización | BOE-A-1997-8671 | 1 redacción en todos sus bloques (1997) |
 | RD 486/1997, lugares de trabajo, arts. 7 y 8 y anexos III y IV | BOE-A-1997-8669 | Anexo III: redacción de BOE-A-2023-11187, vigente desde 13-05-2023; arts. 7 y 8 y anexo IV, 1997 |
+| Reglamento (UE) 2016/425, EPI | DOUE-L-2016-80531 | Texto original publicado, no consolidado; revisados su modificación por el Reglamento (UE) 2024/2748 (DOUE-L-2024-81663) y la corrección de errores de este (DOUE-L-2025-80611, que en el 2016/425 sólo toca el artículo 41 bis añadido): no tocan lo citado. Leído el 05-10-2026 |
+| RD 286/2006, exposición al ruido | BOE-A-2006-4414 | 1 redacción, vigente desde 31-03-2006; leído el 05-10-2026 |
 | RD 773/1997, equipos de protección individual | BOE-A-1997-12735 | Arts. 2 y 6, DF 2.ª y anexos: redacción de BOE-A-2021-20261, vigente desde 09-12-2021; resto, 1997 |
 | RDLeg 8/2015, texto refundido de la LGSS, art. 156 | BOE-A-2015-11724 | 1 redacción, vigente desde 02-01-2016 |
 | RDLeg 2/2015, texto refundido de la Ley del Estatuto de los Trabajadores, art. 36 | BOE-A-2015-11430 | 1 redacción, vigente desde 13-11-2015 |
@@ -1799,12 +1897,13 @@ redacción con vigencia entre el 24-09-2026 y esa fecha.
 | INSST, Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización | Edición de junio de 2021 | Documentación técnica |
 | INSST, tema 69, «Trastornos musculoesqueléticos de la extremidad superior» (temario de la Escala de Titulados Superiores) | Versión de abril de 2025 | Documentación técnica; definición de TME de la Agencia Europea para la Seguridad y la Salud en el Trabajo (2007) |
 | INSST, NTP 1090 y NTP 1091, riesgos laborales viarios | 2017 | Documentación técnica; la NTP 1090 cita el art. 115 de la LGSS de 1994, hoy art. 156 de la de 2015 |
+| INSST, NTP 223, «Trabajos en recintos confinados» | Serie de 1989 (6.ª serie, NTP 191 a 225) | Documentación técnica; leída el 05-10-2026 en el portal del INSST |
 | INSST, NTP 318, «El estrés: proceso de generación en el ámbito laboral» | 1991 | Documentación técnica |
 | INSST, NTP 443, «Factores psicosociales: metodología de evaluación» | 1995; actualizada por la NTP 926 (no leída) | Documentación técnica |
 | INSST, NTP 502, «Trabajo a turnos: criterios para su análisis» | 1998 | Documentación técnica |
 | CNSST, grupo de trabajo de Seguridad Vial Laboral | Documento del grupo de trabajo | Documentación técnica |
 | BOE, Anuario de Derecho, artículos sobre accidente in itinere (ANU-L-2025-00000003021) y en misión (ANU-L-2023-00000002486) | Biblioteca jurídica del BOE | Doctrina del Tribunal Supremo, recogida indirectamente |
 
-Lo que es práctica de oficio y no texto de norma se dice así en el tema: la técnica de levantamiento,
-las medidas de entrada en espacios confinados, y las correspondencias entre tareas del puesto y
+Lo que es práctica de oficio o guía técnica y no texto de norma se dice así en el tema: la técnica de
+levantamiento, las medidas de entrada en espacios confinados (NTP 223), y las correspondencias entre tareas del puesto y
 riesgos, que son lectura de este tema.

@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 552/2019, de 27 de septiembre, por el que se aprueban el Reglamento de seguridad para instalaciones frigoríficas y sus instrucciones técnicas complementarias (BOE-A-2019-15228): artículos 1, 2, 4 a 9, 18, 20 a 22, 26 a 29, IF-14 e IF-17. Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820): artículos 1, 2 y 26, IT 1.1.4, IT 1.2.4.3, IT 1.2.4.5, IT 3 y apéndice 1. Reglamento (UE) 2024/573 del Parlamento Europeo y del Consejo, de 7 de febrero de 2024, sobre los gases fluorados de efecto invernadero (DOUE serie L de 20-2-2024). Como fuente técnica, la «Guía técnica de mantenimiento de instalaciones térmicas» del IDAE (2007) y la tarjeta de referencia ASHRAE TC 9.9 (tabla «2015 Thermal Guidelines»). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026): RD 552/2019 en su única redacción salvo el artículo 9 (vigente desde el 01/07/2021) y la IF-14 (vigente desde el 10/05/2025, Real Decreto 164/2025); RITE en la redacción vigente desde el 01/07/2021 (Real Decreto 178/2021); Reglamento (UE) 2024/573 en su texto original publicado, sin consolidar |
-| **Extensión** | 15.700 palabras aproximadamente |
+| **Extensión** | 16.100 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -514,7 +514,7 @@ Las prohibiciones de uso para mantenimiento son las que afectan al día a día:
 
 | Desde | Qué se prohíbe (artículo 13) | Salvedad |
 |---|---|---|
-| 1-1-2025 | **el uso de los gases fluorados de efecto invernadero, con un potencial de calentamiento global igual o superior a 2 500, para el mantenimiento o revisión de cualquier aparato de refrigeración** (13.3) | Hasta el 1-1-2030, los regenerados (con recipiente etiquetado) y los reciclados recuperados de esos aparatos |
+| 1-1-2025 | **el uso de los gases fluorados de efecto invernadero, con un potencial de calentamiento global igual o superior a 2 500, para el mantenimiento o revisión de cualquier aparato de refrigeración** (13.3) | El primer inciso del mismo 13.3, sin fecha propia, ya lo prohíbe en los aparatos de refrigeración **con un tamaño de carga de al menos 40 toneladas equivalentes de CO2**. Hasta el 1-1-2030, los regenerados (con recipiente etiquetado) y los reciclados recuperados de esos aparatos. Y **no se aplicarán a equipos militares ni a aparatos destinados a aplicaciones diseñadas para enfriar productos a temperaturas por debajo de -50 °C.** |
 | 1-1-2026 | **el uso de los gases fluorados de efecto invernadero enumerados en el anexo I, con un potencial de calentamiento global igual o superior a 2 500, para el mantenimiento o revisión de aparatos de aire acondicionado y bombas de calor** (13.4) | **hasta el 1 de enero de 2032**, los regenerados y los reciclados |
 | 1-1-2032 | El mismo uso con PCG **igual o superior a 750**, **para el mantenimiento o revisión de aparatos fijos de refrigeración, con excepción de los enfriadores** (13.5) | Los regenerados y los reciclados, con las condiciones del artículo |
 
@@ -964,7 +964,12 @@ Y el registro: si no hay deficiencia **bastará con reflejarlo debidamente en el
 la instalación frigorífica**; las fugas leves se subsanan y se anotan; **Las fugas significativas o
 recargas de refrigerante mayores del 5% de la carga total desde la última revisión, se reflejarán en
 un informe elaborado por el instalador frigorista**, que el titular remite **a la autoridad
-competente en el plazo máximo de una semana** (IF-17, 2.5.3.5).
+competente en el plazo máximo de una semana** (IF-17, 2.5.3.5). Y después: **Tras subsanar las
+deficiencias y/o fugas detectadas, que deberá efectuarse de inmediato y parando las instalaciones si
+la fuga es significativa, se realizará una nueva revisión, en todo caso antes de un mes de la fecha en
+la que se identificaron las fugas, informándose a la autoridad competente de los resultados de la
+misma.** Son dos plazos de un mes que no cuentan desde el mismo momento: el control de fugas de
+2.5.1, desde que se subsana la fuga; esta nueva revisión, desde que se identificó.
 
 ### 6.4 La reparación de un circuito con refrigerante
 
@@ -1218,9 +1223,16 @@ Las frecuencias (5.6):
 | De 50 a menos de 500 t CO2-eq | **al menos cada seis meses** | **al menos cada doce meses** |
 | 500 t CO2-eq o más | **al menos cada tres meses** | **al menos cada seis meses** |
 
-El sistema de detección de fugas es obligatorio, en esos aparatos fijos, con 500 t CO2-eq o más: un
-sistema **que alerte al operador o a una empresa de mantenimiento de toda fuga**; se controla **al
-menos cada doce meses** (artículo 6.1 y 6.3), y el de la aparamenta eléctrica, **al menos cada seis años** (6.4).
+El sistema de detección de fugas es obligatorio en los aparatos de refrigeración, aire
+acondicionado, bombas de calor y protección contra incendios con 500 t CO2-eq o más: un sistema **que
+alerte al operador o a una empresa de mantenimiento de toda fuga**; se controla **al menos cada doce
+meses** (artículo 6.1 y 6.3). En la aparamenta eléctrica sólo es obligatorio si contiene 500 t CO2-eq
+o más **y hayan sido instalados a partir del 1 de enero de 2017** (6.2); ese sistema se controla **al
+menos cada seis años** (6.4).
+
+El RSIF recoge la misma obligación del sistema de detección y su control anual (IF-17, 2.5.2) y añade
+la consecuencia de que falle, referida a las revisiones de fugas de su propio programa: **En los casos en que no funcionen correctamente se duplicará la
+frecuencia de las revisiones de fugas anteriormente mencionadas.**
 
 Con el ejemplo de 3.2: el autónomo con 5,4 t CO2-eq necesita un control al menos anual, y la
 enfriadora de 57,2 t CO2-eq, al menos semestral (o anual si tiene detección de fugas).
@@ -1256,7 +1268,15 @@ instalaciones frigoríficas de nivel 2.** Con fluorados, sea cual sea el nivel, 
 de refrigerante es igual o superior a 5000 toneladas equivalentes de CO2, cada dos años si es inferior
 a 5000 toneladas equivalentes de CO2 pero igual o superior a 500 toneladas equivalentes de CO2, y cada
 cinco años si es inferior a 500 toneladas equivalentes de CO2 pero igual o superior a 50 toneladas
-equivalentes de CO2.** Entre los elementos de seguridad que comprueba el inspector: **alarmas de
+equivalentes de CO2.** Con una salvedad: **Las instalaciones de nivel 2, que de acuerdo con el
+artículo 11 del presente Reglamento puedan ser realizadas por empresas de nivel 1 se consideran, a
+efectos de inspecciones, como si fueran de nivel 1.** Es el caso de las instalaciones con A2L que,
+por cumplir las condiciones del artículo 11.2, puede hacer una empresa de nivel 1 (2.3): no tienen
+la inspección decenal del nivel 2, aunque sí, en su caso, la que les toque por su carga de
+fluorados. Y una excepción en sentido contrario: entre las actuaciones mínimas de toda inspección
+está la de los equipos a presión de la instalación frigorífica **que correspondan al menos a la categoría I del Reglamento de equipos a presión** (punto 6 de la lista de la IF-14,
+3.1), y esa inspección **se realizará cada diez años independientemente del nivel de la instalación
+y del refrigerante empleado.** Entre los elementos de seguridad que comprueba el inspector: **alarmas de
 hombre encerrado.**, **comprobación de la instalación eléctrica: alumbrado de emergencias,
 iluminación, cuadros, etc.** y **comprobación del estado de los detectores de fugas.** El acta se
 firma por el inspector y el titular; las inspecciones siguen **la norma UNE 192013 u otras normas que
@@ -1273,9 +1293,10 @@ Resumen de las cifras de este epígrafe (síntesis del tema, no tabla de ninguna
 | Aire acondicionado de 12 a 70 kW | Anual | Empresa mantenedora | RITE, tabla 3.1 |
 | Control de fugas, menos de 50 t CO2-eq | Anual (bienal con detección) | Persona certificada | Reglamento (UE) 2024/573, art. 5.6 |
 | Control de fugas tras una reparación | Antes de un mes | Empresa frigorista | IF-17; art. 4.5 del reglamento europeo |
-| Sistema de detección de fugas | Anual | Operador | Reglamento (UE) 2024/573, art. 6.3 |
+| Sistema de detección de fugas | Anual (si falla, se duplica la frecuencia de las revisiones de fugas) | Operador | Reglamento (UE) 2024/573, art. 6.3; IF-17, 2.5.2 |
 | Revisión periódica obligatoria | Cada cinco años como mínimo | Empresa frigorista | IF-14, 2.1 |
-| Inspección, nivel 2 | Cada diez años | Organismo de control | IF-14, 3.1 |
+| Inspección, nivel 2 (no la del nivel 2 que puede hacer una empresa de nivel 1, que se trata como nivel 1) | Cada diez años | Organismo de control | IF-14, 3.1 |
+| Inspección de equipos a presión (al menos categoría I) | Cada diez años, sea cual sea el nivel y el refrigerante | Organismo de control | IF-14, 3.1, punto 6 |
 | Inspección con fluorados de 50 a menos de 500 t CO2-eq | Cada cinco años | Organismo de control | IF-14, 3.1 |
 
 ## Normativa que el tema invoca
@@ -1336,7 +1357,7 @@ Resumen de las cifras de este epígrafe (síntesis del tema, no tabla de ninguna
 |---|---|---|
 | Real Decreto 552/2019 (BOE-A-2019-15228), RSIF, artículos 1 a 8, 18 a 22 y 26 a 29 en su única redacción (vigente desde el 02/01/2020) y artículo 9 en la vigente desde el 01/07/2021 (Real Decreto 298/2021) | Objeto, ámbito, refrigerantes, fluidos secundarios, sistemas, locales, niveles, instalador frigorista, obligaciones del titular, documentación, comunicación, mantenimiento, controles, sala de máquinas, señalización y accidentes | En el BOE consolidado, 05/10/2026 |
 | RSIF, IF-14, redacción vigente desde el 10/05/2025 (Real Decreto 164/2025, BOE-A-2025-7190) | 1.1.1 a 1.1.4, 1.2.1, 1.2.2, 1.2.5, 1.2.6, 1.3.1 a 1.3.4, 2.1, 2.2, 2.6, 3.1 a 3.3 | En el BOE consolidado, 05/10/2026 |
-| RSIF, IF-17, redacción única | 1.1, 1.5.1, 1.6, 2.3.u, 2.4.c, 2.5.1, 2.5.2 (sólo su remisión al reglamento de 2014), 2.5.3.1 a 2.5.3.5 | En el BOE consolidado, 05/10/2026 |
+| RSIF, IF-17, redacción única | 1.1, 1.5.1, 1.6, 2.3.u, 2.4.c, 2.5.1, 2.5.2, 2.5.3.1 a 2.5.3.5 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 1027/2007 (BOE-A-2007-15820), RITE, redacción vigente desde el 01/07/2021 (Real Decreto 178/2021, BOE-A-2021-4572) | Artículos 1, 2 y 26; IT 1.1.4.1.2, 1.1.4.2.1 a 1.1.4.2.5, 1.1.4.3.3, 1.2.4.3.2, 1.2.4.3.3, 1.2.4.5.1, 1.2.4.5.2; IT 3.3 (tablas 3.1, 3.2 y 3.3), 3.4.2, 3.5, 3.6, 3.8; apéndice 1 (definiciones) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto-ley 14/2022 (BOE-A-2022-12925), artículo 29 y disposición final decimoséptima | Los límites de 19 °C y 27 °C y su vigencia hasta el 1 de noviembre de 2023 | En el BOE consolidado, 05/10/2026 |
 | Reglamento (UE) 2024/573, DOUE serie L de 20-2-2024, texto original en español (Oficina de Publicaciones de la UE) | Artículos 3, 4.1, 4.5, 5, 6, 7, 8.1, 8.6, 11.1, 13.3 a 13.7, 37 y 38; anexo I (PCG de cinco HFC), anexo IV (puntos 7 y 9), anexo VI (regla de mezclas, PCG del propano y del amoniaco) | 05/10/2026 |

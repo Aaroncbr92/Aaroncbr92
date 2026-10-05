@@ -1,0 +1,30 @@
+# Puesto 27 · Tema 19 · Preguntas de refutación
+
+Fase 4 · Refutar. Quince preguntas tipo test (T = teoría; P = aplicación práctica), contestadas **sólo con
+el tema** `19-prevencion-de-riesgos-laborales-aplicada-al-puesto-de-trabajo.md`. Distintas de las diez del
+informe de redacción. Fecha: 05-10-2026 (el encargo fija «hoy» en 24-09-2026).
+
+| # | Tipo | Rúbrica | Pregunta y opciones | Correcta | ¿La da el tema? |
+|---|---|---|---|---|---|
+| 1 | T | Derechos | La vigilancia de la salud del art. 22 de la Ley 31/1995 es: a) obligatoria siempre; b) voluntaria, salvo los supuestos tasados y previo informe de los representantes de los trabajadores; c) voluntaria sin excepciones; d) obligatoria sólo en pantallas | b | **Entera** (art. 22.1) |
+| 2 | P | Obligaciones | El oficial observa un cuadro con la envolvente rota en un pasillo. Según el art. 29.2.4.º debe informar de inmediato: a) sólo al comité de seguridad y salud; b) a su superior jerárquico directo y a los trabajadores designados o, en su caso, al servicio de prevención; c) sólo a la Inspección de Trabajo; d) a nadie, si lo repara él | b | **Entera** (art. 29.2.4.º y su comentario) |
+| 3 | T | Riesgo eléctrico | Las baterías de un SAI desconectadas de la red, a efectos del RD 614/2001: a) no son instalación eléctrica; b) son instalación eléctrica (anexo I.3); c) sólo si superan 1 kV; d) son equipo de trabajo, no instalación | b | **Entera** (anexo I.3 y comentario) |
+| 4 | P | Riesgo eléctrico | Reponer en tensión un fusible en un cuadro de BT cuyo portafusibles desconecta el fusible y protege por completo contra contactos directos y arco puede hacerlo: a) sólo un trabajador cualificado; b) un trabajador autorizado; c) cualquier trabajador; d) nadie: exige siempre dejar sin tensión | b | **No.** La tabla «Quién puede hacer qué» dice «Trabajos en tensión → trabajadores cualificados» sin la salvedad del anexo III.C.1; quien estudie sólo este tema contesta a). Lo da el tema 15 (hallazgo M1) |
+| 5 | T | Riesgo eléctrico | Antes de un trabajo en proximidad en BT, la viabilidad la determina: a) el jefe de trabajo; b) un trabajador cualificado; c) un trabajador autorizado; d) el servicio de prevención | c | **Entera** (anexo V.A.1) |
+| 6 | P | Espacios confinados | Hay que hacer un trabajo en tensión en una galería de cables donde la comunicación con el exterior es difícil. El RD 614/2001 exige: a) recurso preventivo y nada más; b) presencia de al menos dos trabajadores con formación en primeros auxilios; c) autorización de la Inspección; d) hacerlo siempre sin tensión | b | **Entera** (anexo III.A.1, en «Los espacios confinados») |
+| 7 | T | Espacios confinados | Al medir la atmósfera antes de entrar en un recinto confinado, ¿qué concentración de oxígeno se toma como límite inferior aceptable? a) 15 %; b) 19,5 %; c) 21 %; d) 23,5 % | Sin confirmar: no hay NTP de recintos confinados en `fuentes/`; el remate debe sacar la cifra de su fuente o quitar la pregunta | **No.** El tema dice «medir la atmósfera (oxígeno, inflamables, tóxicos)» como práctica de oficio, sin valores; declarado en «Lo que este tema no da» (laguna L1) |
+| 8 | P | Altura / recursos preventivos | Una contrata cambia luminarias en la cubierta de un centro de la RTVA con riesgo especialmente grave de caída. ¿Quién designa el recurso preventivo? a) la RTVA, como titular del centro; b) la contrata que realiza el trabajo; c) la Inspección de Trabajo; d) no hace falta | b | **Entera** (art. 22 bis.9 RD 39/1997) |
+| 9 | T | PVD / ergonomía | En un local con riesgo por electricidad estática, la humedad relativa mínima del anexo III del RD 486/1997 es: a) 30 %; b) 40 %; c) 50 %; d) 70 % | c | **Entera** (epígrafe 3, «Humedad») |
+| 10 | P | Cargas | El oficial y su ayudante levantan juntos un bloque de baterías. Según la Guía técnica del INSST, su capacidad conjunta es: a) la suma de ambas; b) la mitad de la suma; c) dos tercios de la suma; d) la del más fuerte | c | **Entera** (Guía INSST, en «La manipulación de cargas») |
+| 11 | T | Químicos y etiquetado | El pictograma que cabe esperar en el electrolito ácido de una batería es: a) GHS02 llama; b) GHS05 corrosión; c) GHS04 bombona de gas; d) GHS09 medio ambiente | b | **Entera** (anexo V CLP y aplicación) |
+| 12 | T | Señalización | La delimitación de una zona de sala técnica con riesgo de caída de objetos se hace: a) con panel de advertencia obligatoriamente; b) con color de seguridad, mediante franjas alternas amarillas y negras; c) con franjas rojas y blancas; d) con señal luminosa | b | **Entera** (anexo VII.2.2.º y 3.º RD 485/1997) |
+| 13 | T | EPI | Los guantes aislantes de la electricidad y los equipos anticaídas son, según el Reglamento (UE) 2016/425, EPI de categoría: a) I; b) II; c) III; d) no se clasifican | c, sin confirmar (el Reglamento (UE) 2016/425 no está volcado en `fuentes/`) | **No.** El tema no da la normativa de comercialización de EPI (marcado CE, categorías); sólo el art. 5.3 del RD 773/1997 y el «homologadas» del convenio (laguna L2) |
+| 14 | T | Riesgos generales (higiene) | El valor inferior de exposición diaria al ruido que da lugar a una acción (RD 286/2006) es: a) 80 dB(A); b) 85 dB(A); c) 87 dB(A); d) 90 dB(A) | a (RD 286/2006, art. 5.1.c, leído el 05-10-2026 en `fuentes/canal-sur/BOE-A-2006-4414.md`) | **No.** El tema pone el «ruido de grupos electrógenos y salas de máquinas» entre los riesgos del puesto y no da norma ni valor; tampoco lo declara en «Lo que este tema no da» (laguna L3) |
+| 15 | P | Accidente de trabajo | El oficial sufre una insolación reparando una antena en la torre de un centro emisor. Es: a) fuerza mayor extraña al trabajo, no laboral; b) accidente de trabajo, porque la insolación no es fuerza mayor extraña al trabajo; c) enfermedad común; d) accidente in itinere | b | **Entera** (art. 156.4.a LGSS y comentario) |
+
+## Recuento
+
+- Entera: 11 (1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 15).
+- A medias: 0.
+- No: 4 (4, 7, 13, 14). La 4 es un defecto de exactitud (salvedad omitida; la materia está en el tema 15);
+  la 7, la 13 y la 14 son lagunas (L1, L2, L3 del informe de refutación).

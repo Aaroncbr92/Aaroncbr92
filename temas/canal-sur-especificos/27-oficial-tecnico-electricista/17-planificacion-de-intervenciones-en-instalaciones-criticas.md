@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 17 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Ninguna norma regula la planificación de una intervención de mantenimiento en radiotelevisión: el tema va en su mayor parte como oficio, y así se declara. Se apoya en: Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas (artículo 2, sólo como vocabulario); Real Decreto 1215/1997, de 18 de julio, sobre equipos de trabajo (artículo 4 y anexo II, apartado 1.14); Real Decreto 614/2001, de 8 de junio, sobre riesgo eléctrico (anexo II, A y A.2); Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención (artículo 22 bis, apartados 1.a y 2); Ley 31/1995, de Prevención de Riesgos Laborales (artículo 29.2.4.º); Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (Norma, 3.3, 3.6 y 3.7; anexo II, capítulos 5, 6, 7 y 9); Real Decreto 1027/2007, Reglamento de instalaciones térmicas en los edificios (IT 2.3.4, apartado 4); X Convenio colectivo de la RTVA (artículo 50.11 y anexo III); fichas de catálogo de UNE-EN ISO 22301 y 22313 |
-| **Redacción que se estudia** | La vigente el 24/09/2026. Ley 8/2011, artículo 2: redacción única (desde el 30/04/2011). Real Decreto 1215/1997: artículo 4 en redacción única (desde el 27/08/1997); anexo II en la del Real Decreto 2177/2004 (desde el 03/12/2004). Real Decreto 614/2001, anexo II: redacción única (desde el 21/08/2001). Real Decreto 39/1997, artículo 22 bis: redacción del Real Decreto 604/2006 (desde el 29/06/2006). Ley 31/1995, artículo 29: redacción única (desde el 10/02/1996). Real Decreto 393/2007: Norma derogada con efectos de 11/07/2023 por el Real Decreto 524/2023, que se sigue aplicando hasta que se apruebe el instrumento que la sustituya. RITE, IT 2: redacción única (desde el 29/02/2008) |
-| **Extensión** | Unas 9.900 palabras |
+| **Fuente** | Ninguna norma regula la planificación de una intervención de mantenimiento en radiotelevisión: el tema va en su mayor parte como oficio, y así se declara. Se apoya en: Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las infraestructuras críticas (artículo 2, sólo como vocabulario, y artículo 4); Real Decreto 1215/1997, de 18 de julio, sobre equipos de trabajo (artículo 4 y anexo II, apartado 1.14); Real Decreto 614/2001, de 8 de junio, sobre riesgo eléctrico (anexo II, A y A.2); Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención (artículo 22 bis, apartados 1.a y 2); Ley 31/1995, de Prevención de Riesgos Laborales (artículo 29.2.4.º); Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (Norma, 3.3, 3.6 y 3.7; anexo II, capítulos 5, 6, 7 y 9); Real Decreto 1027/2007, Reglamento de instalaciones térmicas en los edificios (IT 2.3.4, apartado 4); X Convenio colectivo de la RTVA (artículo 50.11 y anexo III); fichas de catálogo de UNE-EN ISO 22301 y 22313 |
+| **Redacción que se estudia** | La vigente el 24/09/2026. Ley 8/2011, artículos 2 y 4: redacción única (desde el 30/04/2011). Real Decreto 1215/1997: artículo 4 en redacción única (desde el 27/08/1997); anexo II en la del Real Decreto 2177/2004 (desde el 03/12/2004). Real Decreto 614/2001, anexo II: redacción única (desde el 21/08/2001). Real Decreto 39/1997, artículo 22 bis: redacción del Real Decreto 604/2006 (desde el 29/06/2006). Ley 31/1995, artículo 29: redacción única (desde el 10/02/1996). Real Decreto 393/2007: Norma derogada con efectos de 11/07/2023 por el Real Decreto 524/2023, que se sigue aplicando hasta que se apruebe el instrumento que la sustituya. RITE, IT 2: redacción única (desde el 29/02/2008) |
+| **Extensión** | Unas 10.300 palabras |
 
 <!-- /portada -->
 
@@ -133,7 +133,8 @@ medidas para la protección de las infraestructuras críticas, que define (artí
 > — Ley 8/2011, artículo 2, letras a), d) y e).
 
 Hay que leerla con una salvedad: que una instalación de la RTVA esté catalogada como
-infraestructura crítica no consta en ningún documento publicado (el catálogo no es público), y
+infraestructura crítica no consta en ningún documento publicado (la clasificación y el Catálogo
+Nacional de Infraestructuras Estratégicas corresponden al Ministerio del Interior, artículo 4), y
 este tema no lo afirma. La ley sirve aquí por su vocabulario, que es el del análisis de impacto
 (2.1): la gravedad se mide con unos **criterios horizontales de criticidad** (letra h) y las
 consecuencias en cadena se llaman **interdependencias** (letra j). Y su definición de
@@ -240,10 +241,27 @@ piensa en servicios: un cuadro de distribución no le dice nada a un jefe de emi
 esquema eléctrico a una lista de servicios afectados.
 
 La Ley 8/2011 da el vocabulario de las dos dimensiones del impacto. La gravedad se mide con sus
-**criterios horizontales de criticidad**, entre ellos **«El impacto público y social, por la
-incidencia en la confianza de la población en la capacidad de las Administraciones Públicas, el
-sufrimiento físico y la alteración de la vida cotidiana, incluida la pérdida y el grave deterioro
-de servicios esenciales.»** (artículo 2.h.4); y las consecuencias en cadena, con las
+**criterios horizontales de criticidad**, que la letra h) del artículo 2 define y enumera así:
+
+> **h) Criterios horizontales de criticidad: los parámetros en función de los cuales se determina
+> la criticidad, la gravedad y las consecuencias de la perturbación o destrucción de una
+> infraestructura crítica se evaluarán en función de:**
+>
+> **1. El número de personas afectadas, valorado en función del número potencial de víctimas
+> mortales o heridos con lesiones graves y las consecuencias para la salud pública.**
+>
+> **2. El impacto económico en función de la magnitud de las pérdidas económicas y el deterioro de
+> productos y servicios.**
+>
+> **3. El impacto medioambiental, degradación en el lugar y sus alrededores.**
+>
+> **4. El impacto público y social, por la incidencia en la confianza de la población en la
+> capacidad de las Administraciones Públicas, el sufrimiento físico y la alteración de la vida
+> cotidiana, incluida la pérdida y el grave deterioro de servicios esenciales.**
+
+Son cuatro: personas, economía, medio ambiente e impacto público y social. El cuarto es el que más
+se acerca a una casa que emite, porque menciona expresamente **«la pérdida y el grave deterioro de
+servicios esenciales»**. Las consecuencias en cadena se nombran con las
 **«Interdependencias: los efectos que una perturbación en el funcionamiento de la instalación o
 servicio produciría en otras instalaciones o servicios, distinguiéndose las repercusiones en el
 propio sector y en otros sectores, y las repercusiones de ámbito local, autonómico, nacional o
@@ -490,11 +508,18 @@ la sala.
 
 Una ventana en una instalación crítica se ejecuta con permiso de trabajo cuando hay riesgo
 eléctrico o concurrencia; en baja tensión el permiso escrito es buena práctica, no obligación
-expresa del Real Decreto 614/2001 (tema 15, epígrafe 5). Donde hay plan de autoprotección, la NBA pide que
-los procedimientos preventivos tengan en cuenta, entre otros aspectos, los **«b) Permisos
-especiales de trabajo para la realización de operaciones o tareas que generen riesgos.»** y la
-**«c) Comunicación de anomalías o incidencias al titular de la actividad.»** (Norma, apartado
-3.3.3). El permiso es, además, una herramienta de coordinación con producción: dice por escrito
+expresa del Real Decreto 614/2001 (tema 15, epígrafe 5). Donde hay plan de autoprotección, la NBA dispone que
+**«Los procedimientos preventivos y de control de riesgos que se establezcan, tendrán en cuenta, al
+menos, los siguientes aspectos:»** (Norma, apartado 3.3.3), y es una lista de mínimos. Además de la a)
+(precauciones y buenas prácticas para evitar accidentes), recoge los **«b) Permisos especiales de trabajo para la
+realización de operaciones o tareas que generen riesgos.»**, la **«c) Comunicación de anomalías o
+incidencias al titular de la actividad.»**, el **«d) Programa de las operaciones preventivas o de
+mantenimiento de las instalaciones, equipos, sistemas y otros elementos de riesgo, definidos en el
+capítulo 5 del anexo II, que garantice su control.»** y el **«e) Programa de mantenimiento de las
+instalaciones, equipos, sistemas y elementos necesarios para la protección y seguridad, definidos
+en el capítulo 5 del Anexo II, que garantice la operatividad de los mismos.»** Las letras d) y e) distinguen dos
+programas: el de lo que genera el riesgo y el de lo que protege frente a él; los dos remiten al
+capítulo 5 del anexo II (6.2). El permiso es, además, una herramienta de coordinación con producción: dice por escrito
 qué parte de la instalación está fuera de servicio, quién la tiene y hasta cuándo.
 
 ## 5. Comunicación de incidencias
@@ -849,9 +874,12 @@ sustitución de baterías del SAI A del control central analizada en 2.5, recorr
 ## Normativa que el tema invoca
 
 - Ley 8/2011, de 28 de abril, por la que se establecen medidas para la protección de las
-  infraestructuras críticas: artículo 2, letras a), d), e), h) y j), sólo como vocabulario.
+  infraestructuras críticas: artículo 2, letras a), d), e), h) y j), sólo como vocabulario, y
+  artículo 4.
 - Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: artículo 29.2.4.º (y
   artículo 24, desarrollado en el tema 15).
+- Real Decreto 171/2004, de 30 de enero, de coordinación de actividades empresariales: desarrollado
+  en el tema 15.
 - Real Decreto 39/1997, de 17 de enero, Reglamento de los Servicios de Prevención: artículo 22
   bis, apartados 1.a) y 2.
 - Real Decreto 1215/1997, de 18 de julio, sobre equipos de trabajo: artículo 4 y anexo II,
@@ -877,8 +905,8 @@ sustitución de baterías del SAI A del control central analizada en 2.5, recorr
 - El contenido de la UNE-EN ISO 22301 y 22313 (análisis de impacto en el negocio, objetivos de
   tiempo de recuperación y sus siglas) y el de la UNE-EN 50110-1, de explotación de instalaciones
   eléctricas: normas de pago, no leídas.
-- Si alguna instalación de la RTVA es infraestructura crítica conforme a la Ley 8/2011 (el
-  catálogo no es público) y el estado de la transposición de la Directiva (UE) 2022/2557, de
+- Si alguna instalación de la RTVA es infraestructura crítica conforme a la Ley 8/2011 (no consta
+  en ningún documento publicado) y el estado de la transposición de la Directiva (UE) 2022/2557, de
   entidades críticas: no confirmados.
 - Si la RTVA está obligada a plan de autoprotección por el anexo I de la NBA, el contenido de su
   plan y la norma andaluza de autoprotección: no confirmados. La NBA en general, su derogación y su
@@ -899,12 +927,12 @@ sustitución de baterías del SAI A del control central analizada en 2.5, recorr
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Ley 8/2011 (BOE-A-2011-7630), artículo 2, redacción única (desde el 30/04/2011); norma no derogada | Letras a), d), e), h) y j) | En el BOE consolidado, 05/10/2026 |
+| Ley 8/2011 (BOE-A-2011-7630), artículos 2 y 4, redacción única (desde el 30/04/2011); norma no derogada | Artículo 2, letras a), d), e), h) (encabezamiento y criterios 1 a 4) y j); artículo 4 (responsable del Catálogo) | En el BOE consolidado, 05/10/2026 |
 | Ley 31/1995 (BOE-A-1995-24292), artículo 29, redacción única (desde el 10/02/1996) | Apartado 2.4.º | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 39/1997 (BOE-A-1997-1853), artículo 22 bis, en la redacción del Real Decreto 604/2006 (BOE-A-2006-9379), desde el 29/06/2006 | Apartados 1.a) y 2 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 1215/1997 (BOE-A-1997-17824): artículo 4, redacción única (desde el 27/08/1997); anexo II en la del Real Decreto 2177/2004 (BOE-A-2004-19311), desde el 03/12/2004 | Artículo 4.1 a 4.4; anexo II, apartado 1, punto 14 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 614/2001 (BOE-A-2001-11881), anexo II, redacción única (desde el 21/08/2001) | A (primer párrafo) y A.2 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 393/2007 (BOE-A-2007-6237), redacción única; nota de derogación del BOE (BOE-A-2023-14679) | Norma, 3.3.3 b) y c); anexo II, capítulos 5, 7.1 y 9. Los párrafos de la derogación y del capítulo 6, 3.6.4 y 3.7 se toman del tema 14 del específico de Productor/a, ya cerrado | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 393/2007 (BOE-A-2007-6237), redacción única; nota de derogación del BOE (BOE-A-2023-14679) | Norma, 3.3.3 (encabezamiento y letras b) a e)); anexo II, capítulos 5, 7.1 y 9. Los párrafos de la derogación y del capítulo 6, 3.6.4 y 3.7 se toman del tema 14 del específico de Productor/a, ya cerrado | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 1027/2007, RITE (BOE-A-2007-15820), IT 2, redacción única (desde el 29/02/2008) | IT 2.3.4, apartado 4 | En el BOE consolidado, 05/10/2026 |
 | X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014) | Artículo 50.11; anexo III, puestos 9311100, 9311200 y 9300000 | 05/10/2026 |
 | Fichas de catálogo (tienda de normas de la Asociación Española de Normalización) de UNE-EN ISO 22301:2020 (y su modificación A1:2024) y UNE-EN ISO 22313:2020 | Título, fecha y estado. Sólo metadatos | 05/10/2026 |

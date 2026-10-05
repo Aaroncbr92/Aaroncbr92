@@ -127,8 +127,9 @@ BOE asocia al REBT desde 2002 son estas, en orden:
 | Resolución de 20 de marzo de 2025 | Listado de normas de la ITC-BT-02 |
 | Real Decreto 770/2025 | Apéndice I.1 de la ITC-BT-03 (medios humanos de la empresa instaladora) |
 
-Además, la Sentencia del Tribunal Supremo de 17 de febrero de 2004 declaró nulo un inciso de la
-ITC-BT-03 (el 4.2.c.2 de la redacción de entonces).
+Además, la Sentencia del Tribunal Supremo de 17 de febrero de 2004 anuló, por ser contrario a
+derecho, un inciso de la ITC-BT-03 de la redacción de entonces: **el inciso 4.2.c.2, en tanto que
+incluye a los Ingenieros industriales**. Fue, por tanto, una anulación parcial.
 
 Tres cambios afectan directamente a este tema y desmienten lo que dicen los materiales escritos
 antes de 2023: el artículo 25 ya no se llama «Equivalencia de normativa del Espacio Económico
@@ -303,14 +304,19 @@ La ITC-BT-02 no regula ninguna instalación: es una lista. La vigente se encabez
 > el artículo 26 del Reglamento Electrotécnico para Baja Tensión, aprobado por el Real Decreto
 > 842/2002, de 2 de agosto, se considera que cumplen las condiciones reglamentarias:**
 
-Sus dos notas generales fijan las fechas: las nuevas normas o ediciones son aplicables desde **el
-día siguiente de la publicación de la Resolución de 20 de marzo de 2025**, y la **Fecha final de
+Sus dos notas generales fijan las fechas: según la nota (*), las nuevas normas o ediciones son aplicables desde **el
+día siguiente de la publicación de la Resolución de 20 de marzo de 2025**, y, según la (**), la **Fecha final de
 coexistencia con las normas o ediciones anteriores: 1 de octubre de 2025, salvo cuando haya un
 periodo más prolongado indicado explícitamente para cada norma**. Para las instalaciones en
-ejecución cuando entra una norma nueva de instalación, si el proyecto (firmado o visado) o la
-memoria se firmaron, o la licencia de obras se solicitó, antes de la fecha de aplicabilidad, quedan
-exentas y disponen de un **plazo máximo de dos años** para ponerse en servicio con las normas de
-entonces.
+ejecución cuando entra una norma nueva de instalación, la nota (*) las declara exentas **siempre que
+el correspondiente proyecto de instalación haya sido firmado electrónicamente o visado antes de la
+fecha de aplicabilidad, o, en el caso de instalaciones que no requieren proyecto, si la licencia de
+obras fue solicitada antes de la fecha de aplicabilidad o la memoria técnica ha sido firmada
+electrónicamente antes de la fecha de aplicabilidad.** La licencia de obras, por tanto, sólo cuenta
+para las que no requieren proyecto; el proyecto vale firmado electrónicamente o visado, y la memoria,
+sólo firmada electrónicamente. Las exentas disponen de un **plazo máximo de dos años** para ponerse
+en servicio con las normas de instalación vigentes al firmar el proyecto o la memoria, al visar el
+proyecto o al solicitar la licencia de obras, según corresponda.
 
 Una cautela de lectura: el texto de las ITC cita a menudo normas por su número de 2002 (por
 ejemplo, la ITC-BT-05 manda verificar con la «UNE 20.460-6-61»). El listado de 2025 trae notas que
@@ -688,7 +694,7 @@ Y las ampliaciones y modificaciones (apartado 3.2):
 > **c) Las ampliaciones de instalaciones que requirieron proyecto originalmente si en una o en
 > varias ampliaciones se supera el 50 % de la potencia prevista en el proyecto anterior.**
 
-La c) es la más preguntable y la más incumplida: varias ampliaciones pequeñas suman, y al pasar de
+La c) pide atención: varias ampliaciones pequeñas suman, y al pasar de
 la mitad de la potencia del proyecto original hace falta proyecto nuevo. No se mira la ampliación de
 hoy, se mira el acumulado.
 
@@ -1025,6 +1031,9 @@ Las condiciones de la medida, todas literales de la ITC:
 - La instalación, separada: **Durante la medida, los conductores, incluido el conductor neutro o
   compensador, estarán aislados de tierra, así como de la fuente de alimentación de energía a la
   cual están unidos habitualmente.**
+- Las masas unidas al neutro: **Si las masas de los aparatos receptores están unidas al conductor
+  neutro, se suprimirán estas conexiones durante la medida, restableciéndose una vez terminada
+  ésta.**
 - Los equipos electrónicos: **Cuando la instalación tenga circuitos con dispositivos electrónicos,
   en dichos circuitos los conductores de fases y el neutro estarán unidos entre sí durante las
   medidas.**
@@ -1079,6 +1088,10 @@ La ITC-BT-18 no fija un número de ohmios: fija la tensión de contacto que no s
 > de contacto superiores a:**
 > **– 24 V en local o emplazamiento conductor**
 > **– 50 V en los demás casos.**
+>
+> **Si las condiciones de la instalación son tales que pueden dar lugar a tensiones de contacto
+> superiores a los valores señalados anteriormente, se asegurará la rápida eliminación de la falta
+> mediante dispositivos de corte adecuados a la corriente de servicio.**
 
 La ITC-BT-24 lo traduce, para el esquema TT, en la condición **RA x Ia ≤ U**, donde RA **es la suma
 de las resistencias de la toma de tierra y de los conductores de protección de masas**, Ia, si el

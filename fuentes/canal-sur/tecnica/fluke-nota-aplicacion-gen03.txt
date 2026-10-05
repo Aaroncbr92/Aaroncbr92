@@ -1,0 +1,496 @@
+Nota de aplicación
+Las caídas de tensión, protecciones que
+saltan intepestivamente, paneles y 
+cuadros eléctricos que vibran y se
+calientan, y niveles de tensión excesivos indican la existencia de un posible
+problema en un sistema de distribución
+eléctrica. Resulta útil conocer que estos
+síntomas nos indican la existencia de
+algún problema en el sistema o instalación eléctrica. Pero, ¿dónde empieza la
+búsqueda para aislar la causa exacta de
+estos problemas de calidad de la electricidad?. De la misma manera que los
+automóviles tienen un único punto de
+conexión para controlar funciones vitales, el sistema eléctrico tiene un punto
+de conexión similar: el cuadro eléctrico
+de servicio. Puesto que se trata de un
+punto común para la distribución de
+energía a circuitos derivados, el cuadro
+eléctrico de servicio es el lugar adecuado
+para conocer el estado del sistema
+eléctrico. Incluso, para localizar problemas ubicados en otras partes del sistema,
+las medidas efectuadas desde el cuadro
+pueden indicar dónde buscar. Algunos
+problemas pueden descubrirse
+mediante una inspección visual rápida,
+mientras que otros requieren llevar a
+cabo medidas.
+Búsqueda de la causa 
+del problema
+Este artículo elaborado por expertos de
+Fluke describe cómo hacer frente al 
+problema de localización y solución de
+posibles y reales problemas eléctricos en
+la instalación. Comenzamos con seis
+categorías o áreas a tener en cuenta antes
+de comenzar la inspección y son:
+1. Nivel de tensión y su estabilidad en
+el suministro (caídas, huecos, cortes,
+subidas)
+2. Equilibrio y carga de corriente
+3. Armónicos
+4. Conexión a tierra
+5. Puntos calientes: conexiones o 
+terminales sueltos
+6. Protecciones cortadas, derivadas y/o
+dañadas. 
+Nivel y estabilidad de la
+tensión
+El primer paso consiste en ver si los
+niveles y estabilidad de la tensión son
+los causantes del problema comprobando
+los niveles de tensión de los circuitos
+derivados, fase a neutro y en el lado de
+carga de los disyuntores / protecciones. 
+Nota: Por motivos de seguridad, al
+efectuar medidas de tensión mantenga
+siempre un nivel de protección entre
+usted y la fuente de energía que alimenta
+al sistema.
+Si los niveles de tensión son bajos
+en el disyuntor, en la carga serán aún
+menores. Otras de las causas probables
+incluyen conexiones sueltas o en mal
+estado, grandes recorridos del cableado
+y transformadores sobrecargados, que
+crean una impedancia excesivamente
+alta (impedancia desde la carga a la
+fuente). La impedancia de la fuente de
+energía y la caída de tensión en la carga
+son dos caras de la misma moneda.
+Si se sospecha de la existencia de
+caídas intermitentes de tensión,
+comience en el cuadro a realizar sus
+medidas con el objetivo de determinar
+si son caídas provocadas por cargas del
+Medidas de 
+mantenimiento desde
+el cuadro eléctrico
+propio circuito o están producidas por
+cargas de otras ubicaciones del sistema
+de distribución (incluidas caídas generadas por el suministro). Como punto de
+partida podemos empezar a aislar el
+origen de la caída utilizando un instrumento portátil con dos canales de
+entrada y con funciones de registro,
+como el Analizador de calidad de la
+energía eléctrica Fluke 43B. Esta herramienta puede registrar tanto la tensión
+como la corriente simultáneamente.
+Conecte las sondas de tensión y la
+pinza amperimétrica del instrumento en
+el lado de carga del disyuntor, tal como
+se muestra en la Figura 1. Mediante el
+modo de registro de Fluctuaciones del
+43B, se pueden registrar eventos de
+tensión en la parte superior de la 
+pantalla y sucesos de corriente en la
+inferior (Figura 2). Cada punto del gráfico
+(240 puntos para el registro en pantalla
+completa) representa tres valores en el
+periodo de muestra: el valor mínimo en
+un ciclo (mín o caída), el valor máximo
+en un ciclo (máx o subida), así como el
+valor promedio de todos los ciclos en el
+periodo de muestra.
+Nota
+Antes de efectuar cualquier medida, familiarícese con el
+equipo que va a utilizar. Lea el manual de usuario del 
+instrumento, prestando especial atención a las secciones
+ADVERTENCIA y PRECAUCIÓN No utilice los instrumentos de medida en aplicaciones para las que no hayan sido
+diseñados. Tenga siempre en cuenta que si el equipo se
+utiliza de alguna forma no especificada por el fabricante,
+las protecciones de que está dotado el equipo podrían
+verse afectadas y usted podría encontrarse ante el riesgo
+de un accidente eléctrico innecesario.
+®
+
+2
+Solución de problemas de calidad de la energía en el panel de servicio de Fluke Corporation
+El periodo de muestra es el tiempo
+transcurrido entre un punto y el siguiente.
+El 43B permite seleccionar el tiempo de
+muestra deseado, siendo el periodo
+mínimo un segundo (que corresponde a
+un tiempo de registro de cuatro minutos).
+El cursor puede moverse al punto 
+deseado del registro y, junto con los
+valores mínimo, máximo y promedio, se
+muestra la indicación del tiempo real
+del suceso.
+Aguas arriba, Aguas abajo
+¿Qué información buscar en un registro
+de la tensión y la corriente?
+• Si se produce una caída de tensión
+simultáneamente con una subida de
+corriente, la causa de la caída habrá
+que buscarla en la carga derivada del
+punto donde hayamos efectuado el
+registro (Figura 2). En otras palabras,
+la causa de la caída se produce
+aguas abajo al punto de medida y,
+por tanto, se puede pensar que existe
+una perturbación relativa a la carga.
+• Por otra parte, si la caída de tensión
+coincide con un cambio muy pequeño
+de la corriente, es probable que la
+causa de la caída haya sido aguas
+arriba al punto de medida y se puede
+pensar que existe una perturbación
+relativa a la fuente de energía o
+suministro. Las perturbaciones relativas
+a la generación suelen estar producidas
+por arranques de motores trifásicos de
+potencia, conectados a la misma fuente
+de energía o caídas originadas a nivel
+de suministro en la instalación. Si la
+caída es profunda y se aproxima a la
+discontinuidad de suministro la causa
+más probable será un fallo en la fuente
+energética. El suceso seguramente se
+reflejará en una posible avería y el
+consiguiente disparo del disyuntor,
+seguido por una reconexión automática del mismo.
+Equilibrio y corriente 
+de carga
+Para comprobar el equilibrio del sistema
+y corriente de carga, mida sobre cada
+una de las fases aguas arriba y la
+corriente en cada circuito derivado,
+receptor o carga. Al efectuar dichas
+medidas, es fundamental utilizar una
+pinza amperimétrica de verdadero valor
+eficaz o un multímetro digital de verdadero valor eficaz (DMM) con una sonda
+de corriente.
+Una pinza amperimétrica de valor medio
+no proporcionará una medida precisa,
+cuando la forma de onda de la corriente
+esté distorsionada. Este tipo de instrumentos interpretan la forma de onda de
+como una sinusoide independientemente
+si está distorsionada o no, por lo que
+tenderá a leer a la baja, lo que puede
+llevarle a asumir que los circuitos tienen
+menos carga de la real. Esto es lo que
+buscamos al efectuar esta medida:
+•La carga entre las tres fases debe ser
+lo más equilibrada posible. La corriente
+no equilibrada resultante volverá por
+el neutro y, como veremos, el neutro
+ya tiene bastante trabajo.
+•Ni los transformadores, ni las protecciones ni los circuitos derivados y sus
+conductores deben sobrecargarse a
+regímenes cercanos a sus máximas
+especificaciones. Es conveniente trabajar por debajo (desclasificarlos) para
+“tolerar” la presencia de armónicos.
+Como regla general, se puede aplicar
+una sencilla fórmula para calcular esta
+desclasificación o reducción de los
+valores nominales especificados en los
+transformadores para cargas monofásicas
+que es, aplicable también a los conductores.
+Se trata de un concepto bastante
+claro. Factor de cresta (CF) es la relación
+de pico a rms.
+Para una onda sinusoidal, dicho
+valor es 1,4. Por tanto, para una onda
+sinusoidal, que por definición no tiene
+contenido armónico ni distorsión, 
+HDF = 1, lo que significa que no es
+necesario reducir los valores especificados. A partir de aquí se va reduciendo.
+Si CF = 2, un valor más probable para
+circuitos con máquinas de oficinas, 
+HDF = 1,4/2 = 0,70. Por tanto, un 
+elemento conductor con valor nominal
+de 20 A sólo debe cargarse hasta un
+70% de su capacidad ó 14 A máx.
+¿Cómo se mide el factor de cresta?
+Es necesario utilizar un multímetro digital o pinza amperimétrica de verdadero
+valor eficaz y, además, el multímetro
+tiene que poder medir el valor de pico
+de la forma de onda de corriente. Esta
+medida la proporcionan también los
+analizadores de armónicos u osciloscopios
+digitales de mano tipo ScopeMeter.
+Armónicos
+Una forma rápida de chequear la 
+presencia y nivel de armónicos, es la
+de medir la corriente y frecuencia en el
+conductor de neutro. Si existen armónicos (en este caso armónicos “triplen” o
+de orden 3 y sus múltiplos) la corriente,
+oscilará entre un 80 y un 130% de la
+corriente nominal de fase. Este curioso
+fenómeno se produce aunque el equilibrio del sistema sea perfecto y ocasiona
+el que circulen corrientes importantes
+por los conductores de neutro. La Figura
+3 muestra algunas lecturas que se 
+efectuaron en un cuadro eléctrico de
+nuestra oficina. La frecuencia de 150 Hz
+denota el foco del problema: corriente
+armónica de orden 3.
+Figura 1. Aislando la fuente del problema.
+Negro
+Carga
+rojo
+M
+V
+I
+V
+I
+Aguas abajo (Carga)
+Aguas arriba (Generación)
+Figura 2. Tensión en la parte superior,
+corriente en la inferior. Indicación de 
+tiempo real en la parte superior.
+Factor de desclasifi.  (HDF) =
+1,4
+=
+(1,4) (RMS)
+FC de corriente
+Pico
+
+Solución de problemas de calidad de la energía en el panel de servicio de Fluke Corporation   3
+Estas formas de onda se capturaron con
+un Analizador de la calidad eléctrica
+43B de Fluke. Observe que la corriente
+por el conductor de neutro (Figura 3b)
+supera bastante lo esperado incluso
+para corrientes no equilibradas. Aunque
+la mayoría de nosotros conocemos el
+hecho de que las corrientes del tercer
+armónico (denominadas también de
+secuencia cero) generadas por cargas
+no lineales se añaden al neutro, nos
+preguntamos por qué. La Figura 4 intenta
+explicar gráficamente este fenómeno.
+Básicamente, al mismo tiempo que
+existe un desfase de 120 grados entre
+las corrientes de cada una de las tres
+fases, las corrientes armónicas de orden
+3 se caracterizan porque vibran en fase,
+sumándose y circulando por la única
+salida posible que es el conductor de
+neutro. Es decir, todos alcanzan sus picos
+y puntos de cruce por cero prácticamente
+al mismo tiempo (en realidad, existe un
+cambio de fase, pero es muy pequeño
+comparado con el de los armónicos de
+orden diferente). 
+En estas circunstancias, el tamaño
+del conductor neutro se convierte en una
+preocupación. El neutro debe conducir no
+sólo corriente proveniente de desequilibrios del sistema , sino también de la
+suma de las corrientes de todos los
+armónicos “triplen”. El nuevo R.E.B.T.
+establece en su instrucción técnica ITCBT-19p3 que “En instalaciones interiores,
+para tener en cuenta las corrientes
+armónicas debidas a cargas no lineales
+y posibles desequilibrios, salvo justificación por cálculo, la sección del neutro
+será como mínimo igual a la de las
+fases.” En efecto, se necesita que el
+conductor de neutro sea al menos igual
+al tamaño de los conductores de fase.
+Pero, esto puede resultar insuficiente y
+en algunos casos es reomendable que la
+sección  del conductor de neutro sea el
+doble de la de las fases. 
+Es habitual la presencia de neutros
+compartidos, la presencia de armónicos
+triplen en una parte de la instalación se
+reflejará en el resto de la misma e
+incluso se añadirán; convirtiéndo en
+incontrolable la corriente que circula por
+ellos. El riesgo de quemado e incendio es
+elevado. Después de todo, hay que pensar
+en que el neutro no lleva protecciones
+que eviten esta peligrosa sobrecarga. Una
+medida de tensión tierra-neutro también
+indicará si el neutro tiene demasiada
+carga o si la impedancia del transformador es demasiado alta.
+La tensión tierra-neutro suele estar
+sobre los 0,25 V en el cuadro, mientras
+que el valor real depende de la distancia
+al transformador. Cualquier valor por encima de 0,5 V debe anotarse e investigarse. 
+¿Qué ocurre si, en condiciones normales,
+la tensión tierra-neutro es practicamente
+cero? Posiblemente estemos delante de
+un problema real de conexiones y ante
+conexiones de tierra inseguras e ilegales.
+Conexión a tierra
+Las conexiones tierra-neutro en cuadros
+secundarios suponen una violación de
+normativa técnica. Las conexiones tierraneutro deben realizarse en el transformador
+(aunque la normativa permite realizarlas
+en el cuadro principal). En cualquier caso,
+nunca deben realizarse aguas abajo al
+cuadro principal, de un cuadro secundario
+o un receptor. Cuando se efectúa una
+conexión tierra-neutro en un panel secundario o receptor, la ruta de conexión a 
+tierra se convierte en una ruta de retorno
+paralela para la corriente de carga normal,
+lo que proporciona cierta corriente de 
+tierra. ¿Cuál es una corriente de tierra normal
+y cuál no?
+Figura 3a. La parte superior de la pantalla muestra formas de onda y la corriente rms de
+fase, la parte inferior muestra la amplitud del tercer armónico.
+Figura 3b. Corriente neutra.
+Figura 4. ¿Por qué el tercer armónico se añade al neutro?
+Los terceros armónicos (en rojo) de cada fase (A,B y C) vibran
+en fase. No se compensan vectorialmente como ocurre con
+las corrientes fundamentales, cuyo desfase ideal es de 120º.
+Corriente de neutro total: 2,335 A
+Observe la forma de onda de corriente
+de 150 Hz.
+Corriente debida al desequilibrio en
+el sistema: 0,783 A
+Corriente armónica de orden 3:
+2,039 A
+®
+
+4
+Solución de problemas de calidad de la energía en el panel de servicio de Fluke Corporation
+Para determinarlo, un método lógico es
+medir la corriente en el conductor de
+neutro y, después, la corriente del cable
+de conexión a tierra. Si la corriente de
+neutro es, digamos, 70 A, y la corriente
+de conexión a tierra es de 2 A, es más
+probable que la corriente de conexión
+a tierra sea una corriente de fuga. 
+Si en el neutro tenemos 40 A y la
+corriente de conexión a tierra es de 20 A,
+es probable que existan conexiones
+tierra- neutro cableadas aguas abajo
+del transformador. Cuanto menor sea el
+ratio corriente de neutro a corriente de
+tierra, mayor será la probabilidad de
+que exista una conexión tierra-neutro.
+Las conexiones tierra-neutro también
+pueden existir en receptores e incluso
+en la propia carga, por lo que podríamos
+tener que utilizar esta misma técnica
+para medir corrientes de tierra en 
+circuitos derivados del cuadro eléctrico.
+El instalador puede haber pensado que
+todos los paneles están conectados
+como cuadros eléctricos para servicio
+doméstico o que la manera más rápida
+de reducir la tensión de tierra-neutro
+era realizar un puente a tierra aguas
+abajo del transformador. O quizá pensó
+que cuantas más conexiones a tierra,
+mejor. En cualquier caso, elimine todas
+las conexiones tierra-neutro, sin excepción.
+Puntos calientes
+Las conexiones flojas y las pérdidas de
+calor resultantes son el mayor origen
+de la ineficacia de un sistema o instalación eléctrica (según un estudio del
+año 1995 de la Washington State
+Energy Office). Desde el punto de vista
+de la calidad de la energía, las terminaciones flojas contribuyen de manera
+decisiva en la impedancia excesiva en
+transformadores, UPS’s, alternadores,
+cables, etc.. Afortunadamente, se pueden
+localizar fácilmente con un termómetro
+por infrarrojos. 
+Las medidas por infrarrojos (IR) con
+herramientas como el Fluke 61 ó 65
+son una técnica segura y eficaz para la
+detección sin contacto de puntos
+calientes en un cuadro eléctrico. No
+obstante, existen algunos conceptos
+clave que es necesario comprender si
+se van a efectuar estas medidas:
+•¿Qué tamaño tiene el área que vamos
+a medir? 
+La respuesta está en la resolución
+óptica del termómetro. Esta importante
+especificación es la que determina la
+relación de la distancia desde el objeto
+medido hasta el tamaño del punto a
+medir. Si la relación es de 4:1, quiere
+decir que si usted se encuentra a 4 m
+de la superficie que va a medir,
+medirá una circunferencia con 1 m
+de diámetro.
+• Las sondas por infrarrojos portátiles
+como el Fluke 80PK-IR se utilizan
+más fácilmente para medidas de
+temperatura comparativas, no para
+medidas absolutas. Por ejemplo, si
+exploramos una serie de disyuntores,
+bornas o barras colectoras con la
+sonda, podemos determinar fácilmente
+si uno está mucho más caliente que
+el otro.
+• Si realmente necesitamos efectuar
+medidas precisas de temperatura
+absoluta con instrumentos por infrarrojos de bajo coste (por debajo de € 500),
+el proceso se complica más. 
+El problema en termómetros de este
+tipo se llama “factor de emisividad”.
+La emisividad indica la capacidad de
+un objeto para emitir energía infrarroja
+en función de su temperatura y puede
+oscilar entre 0 y1. Por lo general, las
+superficies no pulidas o más oscuras
+tienen mayor emisividad (cercana a
+1) y viceversa (cercana a 0). La mayor
+parte de instrumentos infrarrojos de
+coste reducido tienen una emisividad
+fija de 0,95 y cuanto más se aproxime
+la superficie que se va a medir a este
+nivel de emisividad, más precisa será
+la medida. Hay un método muy
+extendido para evitar el error que se
+produce cuando se mide con un 
+termómetro con factor de emisividad
+fija a 0,95 sobre objetos con un 
+factor muy por debajo de este valor.
+Consiste en utilizar cinta negra para
+cubrir la superficie a medir. De esta
+forma se consigue acercar el factor
+de emisividad a 0,95.
+Disyuntores
+Muchos técnicos dudan que los disyuntores tengan una duración limitada. 
+En realidad, los contactos y muelles se
+desgastan. Las medidas de caída de
+tensión en los disyuntores pueden
+ayudar a determinar su estado.
+Efectúe una medida en el lado de
+carga del disyuntor.
+Si la caída de tensión supera los 100 mV,
+es necesario cambiar el disyuntor. En el
+intervalo de 35 a 100 mV, las lecturas
+deben documentarse y registrarse.
+En resumen, el cuadro eléctrico es la
+intersección donde se cruzan todos los
+cables del sistema eléctrico del edificio
+y el lugar donde el técnico de mantenimiento eléctrico e industrial puede
+comenzar la búsqueda y localización
+del problema. 
+Fluke quiere dar las gracias a Steve
+Uhrich de Valley Electric, Mt. Vernon,
+WA, por compartir su experiencia y
+descubrimientos en la elaboración de
+este artículo.
+Adaptación libre por J.David Rodríguez,
+ingeniero de soporte de Fluke Ibérica, S.L.
+Fluke Ibérica, S.L.
+Centro empresarial Euronova
+C/ Ronda de Euronova, nº 2
+28760 Tres Cantos 
+Madrid
+Tel.: 914140100
+Fax: 914140101
+Dirección Web: http://www.fluke.es
+©2002 Fluke Corporation. All rights reserved.
+5/2002 Pub-ID 10562-es Rev-01
+Fluke. Manteniendo su 
+mundo en marcha. 

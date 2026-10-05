@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 4 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículo 15.3, ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-07 (temperaturas de los aislamientos; galerías, 2.1.3.1), ITC-BT-14, ITC-BT-15, ITC-BT-17, ITC-BT-19, ITC-BT-20, ITC-BT-21, ITC-BT-22, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30 e ITC-BT-44. Lo demás es física elemental y oficio, y así se declara |
+| **Fuente** | Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión: artículo 15.3, ITC-BT-01, ITC-BT-02 (sólo títulos de normas), ITC-BT-07 (temperaturas de los aislamientos; galerías, 2.1.3.1), ITC-BT-14, ITC-BT-15, ITC-BT-17, ITC-BT-19, ITC-BT-20, ITC-BT-21, ITC-BT-22, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30, ITC-BT-44 e ITC-BT-47. Lo demás es física elemental y oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Todos los preceptos citados tienen una sola redacción, la original de 2002 (en vigor desde el 18/09/2003), salvo la ITC-BT-02 (listado vigente desde el 04/04/2025) |
-| **Extensión** | Unas 13.900 palabras |
+| **Extensión** | Unas 14.500 palabras |
 
 <!-- /portada -->
 
@@ -43,7 +43,7 @@ canal protectora, bandeja y tubo blindado; los dos metales admitidos y la excepc
 conductores sobre aisladores; qué significa 450/750 V y 0,6/1 kV y dónde se exige cada tensión
 asignada; la temperatura máxima del PVC y del XLPE; los cables no propagadores del incendio y con
 emisión de humos y opacidad reducida, y los resistentes al fuego; qué sistema de instalación admite
-cada tipo de conductor; las características mínimas de un tubo en superficie, empotrado o enterrado;
+cada tipo de conductor; las características mínimas de un tubo en superficie, empotrado o enterrado, y las de una canal;
 el diámetro de un tubo por número y sección de conductores, y las 2,5, 3 y 4 veces de la sección
 ocupada; los registros cada 15 m y las tres curvas; las medidas de las cajas de conexión; la
 distancia de 3 cm a otras canalizaciones; los 0,40 m entre fijaciones y el radio de curvatura de 10
@@ -184,8 +184,8 @@ instalación interior se manejan tres escalones, y el REBT dice cuál pide cada 
 | Tensión asignada | Dónde la exige el REBT |
 |---|---|
 | 300/500 V como mínimo | Conductor aislado bajo cubierta estanca en canales de grado inferior a IP4X o de tapa que se abre sin herramientas (ITC-BT-20, 2.2.7; ITC-BT-21, 3.1) |
-| 450/750 V como mínimo | Conductores aislados bajo tubo (ITC-BT-20, 2.2.1), en huecos de la construcción (2.2.6) y bajo molduras (2.2.8); conductor aislado en canal IP4X de tapa que sólo se abre con herramienta (2.2.7); conductores de la DI, «**normalmente unipolares, siendo su tensión asignada 450/750 V**» (ITC-BT-15) |
-| 0,6/1 kV como mínimo | Cables fijados directamente sobre las paredes (ITC-BT-20, 2.2.2); conductores enterrados sin tubo, que han de tener cubierta (2.2.3); cables multiconductores y DI en tubos enterrados (ITC-BT-15); cables armados sobre pared en pública concurrencia (ITC-BT-28, 4.e) |
+| 450/750 V como mínimo | Conductores aislados bajo tubo (ITC-BT-20, 2.2.1), en huecos de la construcción (2.2.6) y bajo molduras (2.2.8); conductor aislado en canal IP4X de tapa que sólo se abre con herramienta (2.2.7); conductores de la DI, «**normalmente unipolares, siendo su tensión asignada 450/750 V**» (ITC-BT-15); en pública concurrencia, **Conductores aislados, de tensión asignada no inferior a 450/750 V, colocados bajo tubos o canales protectores** y **Conductores aislados, de tensión asignada no inferior a 450/750 V, con cubierta de protección, colocados en huecos de la construcción totalmente construidos en materiales incombustibles de resistencia al fuego RF-120, como mínimo** (ITC-BT-28, 4.e) |
+| 0,6/1 kV como mínimo | LGA: **Los conductores a utilizar, tres de fase y uno de neutro, serán de cobre o aluminio, unipolares y aislados, siendo su tensión asignada 0,6/1 kV.** (ITC-BT-14, 3); cables fijados directamente sobre las paredes (ITC-BT-20, 2.2.2); conductores enterrados sin tubo, que han de tener cubierta (2.2.3); cables multiconductores y DI en tubos enterrados (ITC-BT-15); en pública concurrencia, **Conductores rígidos aislados, de tensión asignada no inferior a 0,6/1 kV, armados, colocados directamente sobre las paredes** (ITC-BT-28, 4.e); en locales húmedos, los cables aislados y armados con alambres galvanizados sin tubo protector: **Los conductores tendrán una tensión asignada de 0,6/1 kV** (ITC-BT-30, 1.1.3) |
 
 Los aislamientos, por lo que aportan. Las temperaturas son las que da la ITC-BT-07 en la leyenda
 de sus tablas de redes subterráneas, y son propiedad del aislamiento:
@@ -312,8 +312,9 @@ cerrado alrededor (tubo, conducto, canal con tapa de herramienta) o ir sobre ais
 fijado a la pared ni en bandeja. El cable con cubierta va en casi todo.
 
 La tabla 2 añade la situación. Lo que más se pregunta de ella: en montaje superficial no se admite
-el cable sin fijación; enterrados no se admiten canales ni molduras, ni aisladores; y en huecos de
-la construcción no accesibles no se admite la instalación sobre aisladores.
+el cable sin fijación; enterrados no se admiten canales ni molduras, ni aisladores; y la instalación sobre aisladores
+sólo se admite en montaje superficial y aéreo: la tabla la marca «–» en huecos de la construcción,
+accesibles o no, en canal de obra, enterrados y empotrados en estructuras.
 
 ### 1.7 Prescripciones generales de todo sistema
 
@@ -426,7 +427,8 @@ distancia de los ángulos de esquinas no superior a 20 centímetros.**
 
 Al aire (2.4): sólo para alimentar máquinas o elementos de movilidad restringida desde
 canalizaciones prefabricadas y cajas fijadas al techo, y **La longitud total de la conducción en el
-aire no será superior a 4 metros y no empezará a una altura inferior a 2 metros.**
+aire no será superior a 4 metros y no empezará a una altura inferior a 2 metros.** Y una recomendación del apartado 1.2.3: **Se recomienda no utilizar este
+tipo de instalación para secciones nominales de conductor superiores a 16 mm2.**
 
 ### 1.9 Canales protectoras y molduras
 
@@ -455,6 +457,27 @@ canalizaciones prefabricadas.**; y **La tapa de las canales quedará siempre acc
 de conductores no lo fija una tabla (apartado 3.2): **El número máximo de conductores que pueden ser alojados en el
 interior de una canal será el compatible con un tendido fácilmente realizable y considerando la
 incorporación de accesorios en la misma canal.**
+
+Lo que sí fija el apartado 3.2 son las características mínimas de la canal: **En las canalizaciones
+para instalaciones superficiales ordinarias, las características mínimas de las canales serán las
+indicadas en la tabla 11.** Esa tabla, «**Características mínimas para canalizaciones superficiales
+ordinarias**», distingue por el lado mayor de la sección transversal de la canal:
+
+| Característica (tabla 11 de la ITC-BT-21) | Lado mayor ≤ 16 mm | Lado mayor > 16 mm |
+|---|---|---|
+| Resistencia al impacto | Muy ligera | Media |
+| Temperatura mínima de instalación y servicio | +15 ºC | –5 ºC |
+| Temperatura máxima de instalación y servicio | +60 ºC | +60 ºC |
+| Propiedades eléctricas | Aislante | Continuidad eléctrica/aislante |
+| Resistencia a la penetración de objetos sólidos | 4 | No inferior a 2 |
+| Resistencia a la penetración de agua | No declarada | No declarada |
+| Resistencia a la propagación de la llama | No propagador | No propagador |
+
+La que más se confunde es la temperatura mínima: la canal pequeña (lado mayor de 16 mm o menos) no
+baja de +15 ºC, y la mayor llega a –5 ºC, como los tubos en superficie. Para las canales de
+aplicaciones no ordinarias, el mismo apartado no da cifras: sus características han de ser
+**adecuadas a las condiciones del emplazamiento al que se destina; asimismo las canales serán no
+propagadoras de la llama**, conforme a la serie UNE-EN 50.085.
 
 Las molduras (ITC-BT-20, 2.2.8) sólo se admiten **en locales o emplazamientos clasificados como
 secos, temporalmente húmedos o polvorientos**, con cables de al menos 450/750 V, en principio un
@@ -661,7 +684,7 @@ temperatura del conductor y no la da el REBT; en los ejemplos es un dato supuest
 
 | Paso | Qué se hace |
 |---|---|
-| 1 · Potencia prevista | Sumar las cargas y aplicar la simultaneidad: el REBT manda calcular **considerando alimentados todos los aparatos de utilización susceptibles de funcionar simultáneamente** (ITC-BT-19, 2.2.2); motores al 125 % y lámparas de descarga a 1,8 veces (tema 1) |
+| 1 · Potencia prevista | Sumar las cargas y aplicar la simultaneidad: el REBT manda calcular **considerando alimentados todos los aparatos de utilización susceptibles de funcionar simultáneamente** (ITC-BT-19, 2.2.2); lámparas de descarga a 1,8 veces (tema 1); motores según la ITC-BT-47, apartado 3: un solo motor, **125 % de la intensidad a plena carga del motor**; varios, **la suma del 125 % de la intensidad a plena carga del motor de mayor potencia, más la intensidad a plena carga de todos los demás** (dos motores de 20 A y 10 A: 1,25 × 20 + 10 = 35 A, no 37,5 A) |
 | 2 · Corriente de diseño Ib | A partir de la potencia, la tensión y el factor de potencia |
 | 3 · Sección por caída de tensión | Con la fórmula, la longitud real y el límite que corresponda |
 | 4 · Sección por calentamiento | Entrar en la tabla con el aislamiento, el número de conductores cargados y el método de instalación, y aplicar los coeficientes de temperatura y agrupamiento |
@@ -901,7 +924,7 @@ Cuatro reglas en una cita:
 | Nada de retorcimiento ni arrollamiento | Un empalme hecho a mano fuera de borne es el origen más frecuente de un punto caliente (oficio) |
 | Bornes, regletas o bridas de conexión | Son los únicos medios admitidos |
 | Dentro de caja de empalme o derivación | Salvo la excepción del apartado 3.1 de la ITC-BT-21: las canales IP4X de tapa con herramienta, en las que **se podrá** realizar empalmes (epígrafe 1.9) |
-| Más de 6 mm² con tornillo y arandela: terminal | El terminal reparte la presión y evita que el conductor quede sometido a esfuerzos |
+| Más de 6 mm² con tornillo de apriete entre una arandela metálica bajo su cabeza y una superficie metálica: terminal | El terminal reparte la presión y evita que el conductor quede sometido a esfuerzos |
 
 La ITC-BT-21 precisa qué no es retorcimiento: **El retorcimiento o arrollamiento de conductores no
 se refiere a aquellos casos en los que se utilice cualquier dispositivo conector que asegure una
@@ -964,8 +987,9 @@ se carboniza (física elemental; tema 1, 2.4). De ahí las reglas de oficio:
 1. Par de apriete del fabricante, con llave dinamométrica en los bornes de potencia. Ni de menos
    (contacto flojo) ni de más (conductor cortado, rosca pasada).
 2. Puntera en el conductor flexible cuando el borne es de tornillo: los hilos sueltos no reparten
-   la corriente y se parten. Es la regla del REBT de que **la corriente se reparta por todos los
-   alambres componentes**.
+   la corriente y se parten. La puntera no la nombra el REBT: es un modo de oficio de cumplir su
+   regla de que, en conductores de varios alambres cableados, las conexiones se hagan **de forma
+   que la corriente se reparta por todos los alambres componentes** (ITC-BT-19, 2.11).
 3. Un conductor por borne, salvo que el borne esté hecho para más.
 4. Aluminio con borne para aluminio, bimetálico si se une a cobre, con grasa de contacto y
    reapriete periódico (epígrafe 1.2).
@@ -1014,7 +1038,7 @@ Sus condiciones, en lo que se pregunta:
 | Cierre | **Estarán obligatoriamente cerrados con llave cuando no haya en ellos personal de servicio.** |
 | Acceso | **al menos una altura libre de 2 metros y una anchura mínima de 0,7 metros. Las puertas se abrirán hacia el exterior.** |
 | Pasillo de servicio | Si hay instrumentos que observar o aparatos que manipular habitualmente, **un pasillo de servicio de una anchura mínima de 1,10 metros**; puede estrecharse por partes sin tensión, pero nunca **a menos de 0,80 metros** |
-| Equipos enfrentados con partes desnudas | **la distancia entre equipos eléctricos instalados enfrente unos de otros, será como mínimo de 1,30 metros.** |
+| Equipos enfrentados con partes desnudas, aparatos a manipular o instrumentos a observar a los lados | **Cuando existan a los lados del pasillo de servicio piezas desnudas bajo tensión, no protegidas, aparatos a manipular o instrumentos a observar, la distancia entre equipos eléctricos instalados enfrente unos de otros, será como mínimo de 1,30 metros.** Basta una de las tres cosas: un cuarto de cuadros con aparamenta que se manipula a ambos lados del pasillo pide 1,30 m aunque no tenga ninguna pieza desnuda |
 | Altura del pasillo | **El pasillo de servicio tendrá una altura de 1,90 metros, como mínimo.** Con piezas no protegidas en tensión encima, **no será inferior a 2,30 metros.** |
 | Pasillo libre | **Sólo se permitirá colocar en el pasillo de servicio los objetos necesarios para el empleo de aparatos instalados.** |
 | Alumbrado | **Los locales que tengan personal de servicio permanente, estarán dotados de un alumbrado de seguridad.** |
@@ -1146,9 +1170,9 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
   - Artículo 15.3 del Reglamento; ITC-BT-17, apartado 1.3; ITC-BT-22, apartado 1.1.
   - ITC-BT-19, apartados 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3, 2.6, 2.10 y 2.11.
   - ITC-BT-20, apartados 1, 2, 2.1, 2.1.1, 2.1.2, 2.1.3, 2.2 (tablas 1 y 2), 2.2.1 a 2.2.10 y 3.
-  - ITC-BT-21, apartados 1.1, 1.2 (tablas 1 a 9), 2.1 a 2.4, 3 y 4.1.
+  - ITC-BT-21, apartados 1.1, 1.2 (tablas 1 a 9), 2.1 a 2.4, 3 (tabla 11) y 4.1.
   - ITC-BT-24, apartado 3.2; ITC-BT-27, apartado 3 (H05VV-F); ITC-BT-28, apartados 4.e, 4.f y 5.b;
-    ITC-BT-30, apartados 1 a 5, 7, 8 y 9; ITC-BT-44, apartado 3.1.
+    ITC-BT-30, apartados 1 a 5, 7, 8 y 9; ITC-BT-44, apartado 3.1; ITC-BT-47, apartado 3.
 - Normas UNE que esas instrucciones nombran y este tema no ha leído: UNE 20.460-3, UNE 20.460-4-43,
   UNE 20.460-5-52, UNE 20.460-5-523, UNE 20.460-5-54, UNE 20.324 (hoy UNE-EN 60529), UNE-EN 50.085,
   UNE-EN 50.086, UNE-EN 60.998, UNE 21.123, UNE 211002, UNE-EN 50.200, UNE-EN 61537.
@@ -1173,6 +1197,10 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
   interior: no hay ninguno en las ITC leídas (sólo el de las galerías de la ITC-BT-07).
 - Las tablas de diámetros 7 y 9 de la ITC-BT-21 (al aire y enterrados), y las del neutro de la LGA
   (tabla 1 de la ITC-BT-14): no se reproducen, sólo se dice que existen.
+- La tabla de rozas por elemento constructivo (muros de ladrillo o bloque, hormigón, forjados) que
+  acompaña al apartado 2.3 de la ITC-BT-21: el BOE la rotula «Tabla 10», aunque el texto del 2.3
+  remite a «las recomendaciones de la tabla 8». No se reproduce; es materia de obra más que de
+  canalización.
 - La caída de tensión con ejemplos y el equilibrado de cargas: tema 1. La documentación, la
   verificación inicial y las inspecciones de las canalizaciones: tema 2. Cuadros, aparamenta,
   protecciones y grado IP de las envolventes: tema 3. Esquemas de tierra y equipotencialidad: tema
@@ -1191,12 +1219,12 @@ y si la sala alimenta emisión, ventana de mantenimiento pactada con producción
 | Real Decreto 842/2002 (BOE-A-2002-18099), ITC-BT-01, redacción única (vigente desde el 18/09/2003) | Las definiciones de la tabla del epígrafe 1.1 y la del borne o barra principal de tierra | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-02, redacción vigente desde el 04/04/2025 (Resolución de 20 de marzo de 2025, BOE-A-2025-6773) | Títulos de las normas citadas y notas (4), (7), (10), (12), (20), (21) y (22) de equivalencia | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-07, redacción única | Leyenda «Tipo de aislamiento» (70 ºC y 90 ºC); apartado 2.1.3.1 (bandejas de galerías) | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-14 e ITC-BT-15, redacción única | Reacción al fuego, aluminio, sección mínima, criterio de cálculo, caídas, neutro de la LGA; tensión asignada, colores, sección mínima y caídas de la DI | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-14 e ITC-BT-15, redacción única | Reacción al fuego, aluminio, composición y tensión asignada (apartado 3), sección mínima, criterio de cálculo, caídas, neutro de la LGA; tensión asignada, colores, sección mínima y caídas de la DI | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, artículo 15, ITC-BT-17 e ITC-BT-22, redacción única | Artículo 15.3; ITC-BT-17, 1.3; ITC-BT-22, 1.1 (protección contra sobrecargas y remisión a la UNE 20.460-4-43) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-19, redacción única | Apartados 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3, 2.6, 2.10 y 2.11 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-20, redacción única | Apartados 1, 2, 2.1 a 2.1.3, 2.2 (tablas 1 y 2), 2.2.1 a 2.2.10 y 3 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-21, redacción única | Apartados 1.1, 1.2.1 a 1.2.4 (tablas 1 a 6 y 8; filas de las tablas 2 y 5), 2.1 a 2.4, 3.1, 3.2 y 4.1 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30 e ITC-BT-44, redacción única | ITC-BT-24, 3.2; ITC-BT-27, 3; ITC-BT-28, 4.e, 4.f y 5.b; ITC-BT-30, 1 a 5, 7, 8 y 9; ITC-BT-44, 3.1 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-21, redacción única | Apartados 1.1, 1.2.1 a 1.2.4 (tablas 1 a 6 y 8; filas de las tablas 2 y 5), 2.1 a 2.4, 3.1, 3.2 (tabla 11) y 4.1 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-24, ITC-BT-27, ITC-BT-28, ITC-BT-30, ITC-BT-44 e ITC-BT-47, redacción única | ITC-BT-24, 3.2; ITC-BT-27, 3; ITC-BT-28, 4.e, 4.f y 5.b; ITC-BT-30, 1 a 5 (con 1.1.3), 7, 8 y 9; ITC-BT-44, 3.1; ITC-BT-47, 3 (conductores de motores) | En el BOE consolidado, 05/10/2026 |
 
 El resto va como oficio y así se declara: la comparación entre cobre y aluminio y la fluencia del
 aluminio; los rasgos de cada aislamiento y el significado de cada propiedad de reacción al fuego;

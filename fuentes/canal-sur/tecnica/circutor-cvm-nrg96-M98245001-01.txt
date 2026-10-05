@@ -1,0 +1,519 @@
+ 
+ 
+ 
+CVM-NRG96-ITF-LON-C 
+ 
+ 
+M98245001-01-13A 
+ 
+ANALIZADOR DE REDES CVM-NRG96-ITF-LON-C 
+ 
+ 
+ 
+El CVM-NRG96 es un instrumento que mide, calcula y 
+visualiza los principales parámetros eléctricos en redes 
+industriales trifásicas (equilibradas o desequilibradas). 
+La medida se realiza en verdadero valor eficaz, 
+mediante tres entradas de tensión c.a. y tres entradas 
+de corriente c.a. (a través de transformadores de 
+corriente In /5A /1A). Los parámetros medidos y 
+calculados se muestran en la tabla de variables. 
+Este documento es el manual de uso y funcionamiento del 
+dispositivo  CVM-NRG96. En caso de pérdida, puede 
+descargarlo de la página web de CIRCUTOR:  
+www.circutor.es  
+Antes de efectuar cualquier operación de 
+mantenimiento, 
+modificación 
+de 
+conexiones, reparación, etcétera, debe 
+desconectarse el aparato de toda fuente de 
+alimentación. Cuando se sospeche de un fallo de 
+funcionamiento del equipo ó en la protección del mismo 
+debe dejarse el equipo fuera de servicio.  El diseño del 
+equipo permite una substitución rápida del mismo en 
+caso de avería. 
+1.- SETUP Medida 
+Para acceder al menú de configuración de medida, 
+pulse MAX y MIN durante 5 segundos. 
+La tecla 
+ valida el dato y salta al siguiente menú. 
+La tecla MAX permite seleccionar las diferentes 
+opciones dentro de un menú o para incrementar un 
+dígito en caso que se introduzca una variable. 
+La tecla MIN se utiliza para desplazar el cursor entre los 
+dígitos. 
+Seguidamente se describen las distintas opciones de 
+forma secuencial. 
+1.1.- Tensiones simples o compuestas 
+Esta opción permite seleccionar la visualización de la 
+tensión fase-fase o fase-neutro: 
+a) 
+SET U1/U2/U3: tensión fase-neutro 
+b) 
+SET U12/U23/U31: tensión fase-fase 
+ 
+1.2.- Primario del transformador de tensión 
+set PriU: programación del valor del primario del 
+transformador de tensión (de 1 a 100.000 voltios). 
+1.3.- Secundario del transformador de tensión 
+SET secu: programación del valor de secundario del 
+transformador de tensión (de 1 a 999 voltios). 
+1.4.-  Primario del transformador de corriente 
+SET PriA: programación del valor del primario de los 
+transformadores de corriente comprendidos entre 
+1...10.000 amperios.  
+1.5.- Secundario del transformador de 
+corriente (ver. /5A  /1A) 
+SET SECA: programación del valor del secundario de los 
+transformadores de corriente. Selección entre 5 ó 1 
+amperios.  
+1.6.- Programación del maxímetro 
+a) 
+SET Pd Code xx: seleccione la variable eléctrica a 
+integrar mediante el sistema de máxima demanda 
+en ventana deslizante: 
+Parámetro 
+ 
+Valor 
+Ninguno 
+- 
+00 
+Potencia Activa Trifásica 
+kW III 
+16 
+Potencia Aparente Trifásica 
+kVA III 
+34 
+Corriente Trifásica 
+A III 
+36 
+Corriente por fase 
+A1 – A2 –A3 
+A-ph 
+b) 
+Pd Per: valor del período de integración de la 
+máxima demanda, comprendida en un período 
+configurable entre 1...60 minutos 
+c) 
+CLr Pd no: borrado del valor máximo de máxima 
+demanda registrado (no / YES) 
+1.7.- Programación pantalla inicial 
+seT def page vars: esta opción permite seleccionar la 
+pantalla y modalidad de selección de pantallas de 
+visualización: 
+a) Página fija: se selecciona qué página de las 
+posibles aparecerá en primer lugar al proveer de 
+tensión auxiliar al dispositivo. 
+b) Páginas rotativas: al seleccionar páginas rotativas 
+(cuando 
+todas 
+las 
+magnitudes 
+eléctricas 
+parpadean), se produce una rotación automática, 
+en la que cada 5 segundos pasa de una pantalla a 
+la siguiente. 
+1.8.- Programación energía de defecto 
+seT def page ener: esta opción permite seleccionar la 
+visualización del contador de energía de defecto. El 
+usuario 
+debe 
+seleccionar 
+entre 
+los 
+siguientes 
+contadores de energía (consumida o generada "-“): 
+- Energía activa: kW·h 
+- Energía reactiva inductiva: kvarL·h 
+- Energía reactiva capacitiva: kvarC·h 
+- Energía aparente: kVA·h 
+ 
+1.9.- Tiempo de retro iluminación 
+diSP oFF: tiempo de desconexión de la retro iluminación 
+del display, tras la pulsación de una tecla del 
+dispositivo (1...60 segundos). Programando 00, la retro 
+iluminación se mantiene encendida permanentemente. 
+1.10.- Puesta a cero de contadores de energía 
+CLr EnEr: puesta a cero de los valores de energía (no / 
+YES) 
+1.11.- Programación THD ó d 
+SET HAr d: permite la selección de un método de cálculo 
+de la distorsión armónica de tensión y corriente: 
+c) 
+d: % valor de distorsión armónica respecto a  
+fundamental (tensión y corriente). 
+d) 
+Thd: % valor de distorsión armónica respecto el 
+valor eficaz RMS (tensión y corriente). 
+1.12.- Salida digital (C) 
+Out 1 CodE : la salida digital del dispositivo puede 
+programarse para: 
+Generar impulsos de energía: mediante uno de los 
+códigos de energía se programa el valor en kW.h 
+correspondiente a un impulso (duración 100 ms) y un 
+máximo 5 imp/s (ver códigos de variable). 
+Condiciones de alarma: Se programa la variable 
+instantánea a controlar, valor máximo, mínimo y 
+retardo (ver códigos de variable).  
+2.- Identificación Service PIN 
+CVM-NRG96-LON incorpora en el panel frontal el 
+pulsador “service button” (svc) para enviar su 
+identificador único en formato broadcast.  
+La 
+identificación, 
+configuración 
+y 
+conexionado 
+(bindings) de las variables de red entre los diferentes 
+equipos 
+del 
+sistema, 
+se 
+puede 
+realizar 
+con 
+herramientas LNS tipo CARE o LONMAKER. Junto al 
+dispositivo y en formato electrónico, se suNRG96stra 
+los drivers necesarios para llevar a cabo su 
+implementación (archivo XIF y Functional Profile 
+Template).  
+Con la ayuda de una interfaz de red o controlador 
+USB,  ethernet o similar, le permite conectar CVMNRG96-LON a un PC o sistema SCADA, e incluso 
+acoplarlo 
+a 
+redes 
+con 
+otros 
+protocolos 
+como 
+MODBUS, BACnet, etcétera. 
+ 
+ 
+ 
+VARIABLES Y CÓDIGOS DE ALARMA 
+Si no se desea programar ninguna variable, seleccione 00 
+Magnitud 
+Símbolo 
+Código L1 
+Código L2 
+Código L3 
+ Tensión simple  
+V 
+01 
+06 
+11 
+ Corriente    
+A 
+02 
+07 
+12 
+ Potencia activa     
+kW 
+03 
+08 
+13 
+ Potencia reactiva -(Ind/Cap) 
+kvar 
+04 
+09 
+14 
+ Potencia aparente 
+kVA 
+38 
+39 
+40 
+ Factor de potencia  
+PF 
+05 
+10 
+15 
+ % THD U 
+THD U 
+25 
+26 
+27 
+ % THD I 
+THD I 
+28 
+29 
+30 
+ 
+Magnitud 
+Símbolo 
+Cód. 
+Magnitud 
+Símbolo 
+Cód. 
+Potencia activa trifásica      
+kW III 
+16 
+Corriente de Neutro 
+IN 
+37 
+Potencia inductiva trif.   
+kvarL III 
+17 
+Máx demanda (L1) 
+Md (Pd) 
+35* 
+Potencia capacitiva trif.  
+kvarC III 
+18 
+Máx demanda (L2) 
+Md (Pd) 
+42* 
+cos ϕ trifásico 
+cos ϕ  
+19 
+Máx demanda (L3) 
+Md (Pd) 
+43* 
+Factor de potencia trif.  
+PF III  
+20 
+Energía activa   
+ kW.h III 
+31 
+Frecuencia (L1)           
+Hz   
+21 
+Energía reactiva inductiva 
+ kvar·h L III 
+32 
+V compuesta  L1- L2   
+U 12   
+22 
+Energía reactiva capacitiva  
+ kvar·h C III 
+33 
+V compuesta  L2 - L3 
+U 23   
+23 
+Energía aparente 
+kVA·h III 
+44 
+V compuesta  L3 - L1 
+U 31 
+24 
+Energía activa generada 
+kKW·h III - 
+45 
+Potencia Aparente 
+kVA III 
+34 
+Energía inductiva generada 
+kvar·h L III - 
+46 
+Máxima demanda 
+Md (Pd) 
+35 
+Energía capacitiva generada  
+kvar·h C III - 
+47 
+Corriente trifásica  
+AIII 
+36 
+Energía aparente generada 
+kVA·h III - 
+48 
+*Variables válidas únicamente si se ha programado la máxima demanda de corriente por 
+fase. 
+ 
+ 
+ 
+El dispositivo dispone de variables que hacen referencia a las tres fases de forma 
+simultánea. En caso de seleccionar dichas variables, el equipo realiza una función 
+lógica tipo OR, activando el flag de alarma en el momento en que cualquiera de las tres 
+fases cumpla con las condiciones de disparo. 
+ 
+Magnitud 
+Símbolo 
+Cód. 
+Magnitud 
+Símbolo 
+Cód. 
+Tensiones simples 
+U1 o U2 o U3 
+90 
+Factores de potencia 
+PF1 o PF2 o PF3 
+94 
+Corrientes 
+I1 o I2 o I3 
+91 
+Tensiones compuestas 
+U12 o U23 o U31 
+95 
+Potencias activas 
+kW1 o kW2 o kW3 
+92 
+% THD U 
+THDU1 o U2 o U3 
+96 
+Potencias reactivas 
+kvar1 o  kvar2 o kvar 3 
+93 
+% THD I 
+THDI1 o I2 o I3 
+97 
+Potencias aparentes 
+kVA1 o kVA2 o kVA3 
+98 
+ 
+ 
+ 
+ 
+MEDIDA EN CUATRO CUADRANTES 
+ 
+0º
+90º
+180º
+-90º
+Capacitivo
+Capacitivo
+Inductivo
+Inductivo
+ 
+
+ 
+ 
+ 
+CVM-NRG96-ITF-LON-C 
+ 
+ 
+M98245001-01-13A 
+ 
+3.- Comunicación CVM-NRG96 
+Uno o varios analizadores CVM-NRG96-LON pueden conectarse a una red 
+LonWorks a través de una conexión sobre par trenzado, funcionando a una 
+veliocidad de transmisión de datos de 78 Kbits por segundo.  
+El equipo se conecta al bus mediante un Neuron chip (Free Topology Transceiver) y 
+transformador de aislamiento tipo Echelon tipo FT-10, cumpliendo con las 
+especificaciones del protocolo LonTalk (ISO/IEC 14908, ANSI/EIA 709.1). A través 
+de este protocolo de comunicación, puede accederse a la totalidad de parámetros 
+expresados en la tabla de variables. 
+3.1.- Conexionado 
+Tal y como se muestra en la figura, el bus LonWorks se conecta a través de 2 hilos 
+a los bornes A y B. Al tratarse de un bus sin polaridad, es indistinta la conexión del 
+par trenzado al conector. Pueden generarse todo tipo de estructuras de conexión 
+(bus, estrella, anillo, árbol o mezcla) hasta 128 dispositivos y con una distancia de 
+500 metros por segmento de red.  
+ 
+ 
+ 
+4.- CARACTERÍSTICAS TÉCNICAS 
+Circuito de alimentación :  
+- Monofásica : 
+- Tolerancia tensión : 
+- Frecuencia :  
+- Consumo : 
+- Temperatura de trabajo : 
+- Humedad (sin condensación)  
+- Altitud: 
+Versión c.a. 
+230 V c.a. 
+-15 ..10 % 
+50 - 60 Hz 
+1,8 ... 3,6 VA 
+-10 ..+ 50 ºC 
+5 .. 95% 
+2000 m 
+ 
+Circuito de medición: 
+- Tensión nominal : fase-neutro / fase-fase 
+- Frecuencia : 
+- Corriente mínima 
+- Corriente nominal : 
+- Sobrecarga permanente : 
+- Consumo circuito tensión : 
+- Consumo circuito corriente : ITF / Shunt 
+ 
+300 V c.a. / 520 V c.a. 
+45 ~ 65 Hz  
+50mA 
+In  /5A  /1A 
+1.1 In 
+0.7 VA 
+0.9 VA / 0.75 VA  
+Características mecánicas: 
+- Material caja :  
+- Protección :  
+Equipo montado (frontal ) : 
+Equipo sin montar (laterales y tapa posterior) : 
+- Dimensiones (mm) : 
+- Peso :  
+ 
+Plástico  V0  autoextinguible  
+ 
+IP  51 
+IP  31 
+96 x 96 x 63 
+400 g 
+ 
+Características transistores salida 
+- Tipo: transistor opto aislado  
+- Tensión máxima de maniobra:  
+- Intensidad máxima de maniobra: 
+- Frecuencia máxima:  
+- Duración impulso:   
+ 
+(colector abierto). NPN 
+24  V c.c. 
+50 mA 
+5 impulsos / segundo 
+100 ms 
+Clase Precisión: 
+- Tensión : 
+- Corriente :  
+- Potencia / Enegía : 
+Captadores de medida :  
+- Tensión : 
+- Corriente : 
+Factor de potencia : 
+Margen de medida fondo escala: ITF / Shunt 
+ 
+0.5 %  ±  2 dígito 
+0.5 %  ±  2 dígito 
+1 %  ±  2 dígito 
+ 
+Medida directa o indirecta con transformador 
+Medida indirecta a través de transformador 
+0.5  a  1 
+0,2...120% / 2...120% 
+ 
+Seguridad: 
+Categoría de instalación III / EN61010. Protección al choque eléctrico por doble 
+aislamiento clase II. El equipo debe conectarse a un circuito de alimentación protegido 
+con fusibles tipo gl según IEC 269 o tipo M, con valores comprendidos entre 0,5 y 1 A. 
+Debe estar provisto de un interruptor magnetotérmico, o equivalente, para poder 
+desconectar el equipo de la red de alimentación. La sección mínima del cable de 
+alimentación será de 1mm2. 
+Normas: 
+IEC 664,  VDE 0110,  UL 94,  IEC 801,  IEC 348,  IEC 571-1, EN 61000-6-4, EN 
+61000-6-2, EN 61010-1, EN 61000-4-11, EN 61000-4-2, EN 61000-4-3, EN 
+61000-4-4, EN 61000-4-5, EN 55011 
+5.- CONEXIONADO 
+4 hilos  / 3 hilos ( baja tensión ) 
+3 hilos (2 Trasformadores de tensión y 3 de corriente) 
+3 hilos (2 Transformadores de tensión y 2 de corriente) 
+ 
+ 
+ 
+6.- SERVICIO TECNICO  
+En caso de cualquier duda de funcionamiento o avería del equipo, avisar al servicio técnico de CIRCUTOR, SA 
+ 
+CIRCUTOR, SA - Servicio de Asistencia Técnica 
+ 
+Vial Sant Jordi, s/n 
+ 
+08232 – Viladecavalls (Barcelona), ESPAÑA 
+ 
+Tel:  902 449 459 (España) 
+ 
+Tel: (+34) 93 745 29 00 (fuera de España) 
+ 
+email: sat@circutor.es 
+Alimentación V c.a. / c.c. 
+Alimentación V c.a. / c.c. 
+Alimentación V c.a. / c.c. 

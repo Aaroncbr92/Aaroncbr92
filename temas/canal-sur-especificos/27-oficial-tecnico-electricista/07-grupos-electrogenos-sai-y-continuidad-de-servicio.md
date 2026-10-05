@@ -8,7 +8,7 @@
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
 | **Fuente** | Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión (BOE-A-2002-18099): artículo 10 del Reglamento, ITC-BT-28 (apartados 2, 3 y 4) e ITC-BT-40. Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): anexo II, tabla I. Clasificación de los SAI de la norma IEC 62040-3, sólo a través de una fuente secundaria (W. Sölter). Lo demás, oficio |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026): ITC-BT-40 en la redacción dada por el Real Decreto 244/2019, de 5 de abril (vigente desde el 07/04/2019); artículo 10 e ITC-BT-28 en su única redacción (vigente desde el 18/09/2003); anexo II del Real Decreto 513/2017 en la redacción vigente desde el 10/05/2025 |
-| **Extensión** | 11.600 palabras aproximadamente |
+| **Extensión** | 12.400 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -41,8 +41,9 @@ protecciones mínimas pide a un generador y con qué umbrales, y cómo se dimens
 conexión; qué bloques tiene un SAI, qué diferencia el bypass estático del de mantenimiento, qué
 topologías hay, cuál es la única «sin corte» y cómo se llaman en la IEC 62040-3; qué es una fuente
 propia de energía, cuándo arranca, qué categorías de conmutación define la ITC-BT-28 y con qué
-tiempos, qué fuentes admite para los servicios de seguridad y qué son los suministros de socorro,
-reserva y duplicado; cómo se clasifican las instalaciones generadoras respecto a la red, qué exige
+tiempos, qué fuentes admite para los servicios de seguridad, qué son los suministros de socorro,
+reserva y duplicado y qué dispositivos exige el REBT a quien los recibe; qué regímenes de carga
+lleva una batería; cómo se clasifican las instalaciones generadoras respecto a la red, qué exige
 la conmutación de una asistida, cuándo se admite la transferencia sin corte y con qué requisitos,
 y qué esquema de tierra lleva; qué diferencia una pila de una batería, qué es la capacidad y por
 qué depende del régimen, qué químicas hay, qué se suma en serie y qué en paralelo y por qué no se
@@ -302,9 +303,10 @@ Las dos fases que la gente no espera y que hay que saber justificar:
 
 ## 2. Sistemas de alimentación ininterrumpida
 
-El grupo electrógeno da autonomía y el sistema de alimentación ininterrumpida da continuidad. El
-SAI de doble conversión es la única de las fuentes de este tema que cumple la categoría «sin
-corte» de la ITC-BT-28 (epígrafes 3.1 y 2.2), porque su energía ya está almacenada y no hay nada que
+El grupo electrógeno da autonomía y el sistema de alimentación ininterrumpida da continuidad. A
+juicio de oficio (la ITC no asigna categorías a las fuentes), el SAI de doble conversión es la
+única de las fuentes de este tema que cumple la categoría «sin corte» de la ITC-BT-28 (epígrafes
+3.1 y 2.2), porque su energía ya está almacenada y no hay nada que
 arrancar.
 
 ### 2.1 El diagrama de bloques
@@ -397,6 +399,16 @@ La tercera fila tiene una consecuencia de instalación (oficio): un SAI con rect
 calidad alimentado desde el grupo le devuelve una corriente distorsionada, y un grupo pequeño la
 tolera peor que la red. Por eso el SAI y el grupo se eligen juntos.
 
+Y el criterio que sale de ahí (oficio): el grupo que alimenta un SAI se dimensiona por encima de la
+potencia de salida del SAI, no igual a ella. Tres razones se suman: el rectificador toma una
+corriente distorsionada que el alternador del grupo tolera peor que la red; cuando el grupo toma
+carga tras un corte, el SAI le pide a la vez la potencia de la carga y la de recarga de la batería
+que acaba de descargarse (3.4); y el rendimiento del SAI no es la unidad, así que su entrada pide
+más que su salida. La batería no permite un grupo menor —al volver la alimentación, pide recarga—,
+ni un buen factor de potencia del grupo resuelve la distorsión. El coeficiente de sobredimensionado
+no es dato de ninguna norma leída: lo dan los fabricantes del grupo y del SAI, y depende de la
+calidad del rectificador.
+
 ## 3. Continuidad de servicio
 
 Continuidad de servicio es que la carga no note el fallo de la red, o que lo note durante un tiempo
@@ -406,11 +418,18 @@ seguridad.
 
 ### 3.1 Las categorías de conmutación
 
+La ITC-BT-28 es la instrucción de los locales de pública concurrencia (su apartado 1 fija ese campo
+de aplicación, que alcanza también a los locales clasificados en condiciones BD2, BD3 y BD4 y a los
+no enumerados con capacidad de ocupación de más de 100 personas): lo que dice de los servicios de
+seguridad obliga en esos locales; fuera de ellos, la ITC-BT-28 no obliga por sí misma y sus
+categorías y sus fuentes se usan como referencia (oficio).
+
 La ITC-BT-28, apartado 2, define la alimentación de los servicios de seguridad, **tales como
 alumbrados de emergencia, sistemas contra incendios, ascensores u otros servicios urgentes
 indispensables que están fijados por las reglamentaciones específicas de las diferentes
-Autoridades competentes en materia de seguridad.** Esa alimentación **puede ser automática o no
-automática**, y **en una alimentación automática la puesta en servicio de la alimentación no
+Autoridades competentes en materia de seguridad.** Y
+añade: **La alimentación para los servicios de seguridad, en función de lo que establezcan las
+reglamentaciones específicas, puede ser automática o no automática.** Además, **en una alimentación automática la puesta en servicio de la alimentación no
 depende de la intervención de un operador.** **Una alimentación automática se clasifica, según la
 duración de conmutación, en las siguientes categorías:**
 
@@ -520,10 +539,21 @@ hospitales y centros sanitarios, estaciones de viajeros y aeropuertos, estaciona
 subterráneos para más de 100 vehículos, establecimientos comerciales de más de 2.000 m² y estadios
 y pabellones deportivos; y **Cuando un local se pueda considerar tanto en el grupo de locales que
 requieren suministro de socorro como en el grupo que requieren suministro de reserva, se instalará
-suministro de reserva**. El artículo 10.3 añade que **los órganos competentes de las Comunidades
-Autónomas podrán fijar, en cada caso, los establecimientos industriales o dedicados a cualquier
+suministro de reserva**. El artículo 10.3 del REBT completa esa lista: **Además de los señalados
+en las correspondientes instrucciones técnicas complementarias, los órganos competentes de las
+Comunidades Autónomas podrán fijar, en cada caso, los establecimientos industriales o dedicados a cualquier
 otra actividad que, por sus características y circunstancias singulares, hayan de disponer de
 suministro de socorro, de reserva o suministro duplicado.**
+
+Y el artículo 10.2 del REBT dice qué debe llevar cualquier instalación que reciba un suministro
+complementario además del normal: **Las instalaciones previstas para recibir suministros
+complementarios deberán estar dotadas de los dispositivos necesarios para impedir un acoplamiento
+entre ambos suministros, salvo lo prescrito en las instrucciones técnicas complementarias. La
+instalación de esos dispositivos deberá realizarse de acuerdo con la o las empresas
+suministradoras. De no establecerse ese acuerdo, el órgano competente de la Comunidad Autónoma
+resolverá lo que proceda en un plazo máximo de 15 días hábiles, contados a partir de la fecha en que
+le sea formulada la consulta.** Es «deberán», no «podrán»; y la salvedad del final de la primera
+frase deja a las instrucciones técnicas complementarias lo que dispongan en contrario.
 
 Si un edificio concreto de la RTVA o de CSRTV es local de pública concurrencia a efectos de la
 ITC-BT-28 (por ejemplo, un plató con público) y qué suministro complementario le corresponde es
@@ -600,6 +630,12 @@ De ahí salen las dos exigencias que un técnico tiene que comprobar en un cuadr
    mecánico además del eléctrico entre los dos aparatos de maniobra, o un conmutador que por
    construcción no puede tener las dos posiciones cerradas (la aparamenta de maniobra es materia
    del tema 3).
+
+Es la misma idea que el artículo 10.2 del REBT impone a toda instalación prevista para recibir
+suministros complementarios (epígrafe 3.3): dispositivos que impidan el acoplamiento entre ambos,
+con la salvedad que el propio artículo 10.2 hace de **lo prescrito en las instrucciones técnicas
+complementarias**. Una de esas salvedades es la transferencia de carga sin corte que la misma
+ITC-BT-40 admite en sus apartados 2 y 4.2 con requisitos (epígrafe 4.3).
 
 La transferencia ordinaria de una asistida es, por tanto, con corte: se abre una fuente y luego se
 cierra la otra. El hueco lo cubren los SAI aguas abajo.
@@ -737,6 +773,21 @@ si se descarga en diez minutos que si se descarga en diez horas. Una capacidad s
 significa nada, y dimensionar la autonomía de un sistema de alimentación ininterrumpida con la
 capacidad nominal en vez de con la del régimen real es el error de cálculo clásico.
 
+Los regímenes de carga, que es lo que hace el cargador mientras no hay corte (oficio; las
+tensiones y corrientes de cada uno son dato del fabricante de la batería y no se dan aquí):
+
+| Régimen | Qué es | Cuándo |
+|---|---|---|
+| Carga | Reponer la energía sacada en una descarga, con la corriente limitada | Después de cada descarga, al volver la red o tomar carga el grupo |
+| Flotación | Mantener la batería cargada a tensión constante, compensando sólo la autodescarga | El estado normal y permanente de la batería de un SAI en servicio |
+| Igualación | Una carga a tensión algo mayor, de vez en cuando, para igualar el estado de los elementos | Sólo cuando el fabricante de la batería la prevé; no es un régimen permanente |
+
+En el diagrama de bloques de 2.1, el cargador del SAI es su rectificador: con red o con grupo alimenta al inversor y, a la vez,
+lleva la batería en carga o en flotación, controlando la tensión de carga y limitando la corriente.
+El grupo tiene el suyo, independiente, que mantiene en flotación la batería de arranque mientras el
+grupo está parado (5.2). De ahí que una tensión de flotación correcta diga que el cargador
+funciona, pero no que la batería tenga capacidad (7.2).
+
 ### 5.2 Las químicas y su seguridad
 
 Las químicas que un técnico encuentra:
@@ -752,7 +803,7 @@ Y el aviso de seguridad de las de plomo abierto: desprenden hidrógeno al cargar
 explosivo. De ahí que el emplazamiento de las baterías tenga que estar ventilado —la ITC-BT-28
 exige que **el emplazamiento estará convenientemente ventilado, de forma que los gases y los humos
 que produzcan no puedan propagarse en los locales accesibles a las personas** para toda fuente de
-seguridad que no sea un equipo autónomo (3.2)— y de ahí que la instrucción de locales con riesgo de
+seguridad de un local de pública concurrencia que no sea un equipo autónomo (3.2)— y de ahí que la instrucción de locales con riesgo de
 incendio o explosión pueda alcanzarlo.
 
 La batería de arranque del grupo es casi siempre de plomo-ácido (oficio) y vive en un sitio hostil:
@@ -912,7 +963,7 @@ de cargas. Es el mismo argumento que la prueba con carga del grupo.
 
 Ninguna de las normas leídas para este tema fija una periodicidad de prueba para el grupo o el SAI
 de un edificio de oficinas y producción. Lo que sí dice el REBT, para las fuentes de los servicios
-de seguridad, es que **Los equipos y materiales deberán disponerse de forma que se facilite su
+de seguridad de un local de pública concurrencia, es que **Los equipos y materiales deberán disponerse de forma que se facilite su
 verificación periódica, ensayos y mantenimiento** (ITC-BT-28, apartado 2.1). La periodicidad,
 fuera de los casos siguientes, la fija el plan de mantenimiento del titular a partir de lo que diga
 el fabricante (las gamas y el plan de mantenimiento, en el tema 13).
@@ -1002,7 +1053,8 @@ batería, y el bypass puede traer la red por otro camino.
 ## Normativa que el tema invoca
 
 - Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para
-  baja tensión: artículo 10 del Reglamento (tipos de suministro); ITC-BT-28, apartados 2, 2.1, 2.2,
+  baja tensión: artículo 10 del Reglamento (tipos de suministro y dispositivos que impiden el acoplamiento);
+  ITC-BT-28, apartados 1, 2, 2.1, 2.2,
   2.3, 3, 3.1.1 a 3.1.3 y 4.g (servicios de seguridad, fuentes propias, categorías de conmutación,
   autonomía del alumbrado de seguridad); ITC-BT-38, apartado 2.2 (sólo para decir que fija otra autonomía); ITC-BT-40, apartados 1, 2, 3, 4.1, 4.2, 5, 6, 7, 8.2.1,
   8.2.2 y 9 (instalaciones generadoras), en la redacción dada por el Real Decreto 244/2019, de 5 de
@@ -1014,7 +1066,9 @@ batería, y el bypass puede traer la red por otro camino.
 ## Lo que este tema no da, y dónde está
 
 - Las potencias, los coeficientes de corrección por altitud y temperatura, los escalones de carga
-  admisibles, los niveles de ruido, las tensiones de elemento y de flotación, los números de ciclos,
+  admisibles, los niveles de ruido, las tensiones de elemento y de flotación, las tensiones y
+  corrientes de carga y de igualación, los coeficientes de sobredimensionado de un grupo que
+  alimenta un SAI, los números de ciclos,
   las temperaturas de referencia de las baterías y los rendimientos de los SAI: son dato de
   fabricante y de norma de producto, y no se ha leído ninguna. Lo que el tema da es el sentido en
   que influye cada variable; las cifras de los ejemplos de 5.3 y 6.1 son supuestas.
@@ -1046,8 +1100,8 @@ batería, y el bypass puede traer la red por otro camino.
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 842/2002 (BOE-A-2002-18099), Reglamento, artículo 10, redacción única (vigente desde el 18/09/2003) | Suministros normales y complementarios; socorro, reserva y duplicado; 10.3 | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 842/2002, ITC-BT-28, redacción única (vigente desde el 18/09/2003) | Apartado 2 (servicios de seguridad, alimentación automática, cinco categorías de conmutación); 2.1 (fuentes y sus condiciones); 2.2 (fuente propia, 70 %, capacidad mínima); 2.3 (socorro y reserva); 3 (corte breve del alumbrado de emergencia); 3.1.1 a 3.1.3 (autonomía); 4.g (tensión de retorno) | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002 (BOE-A-2002-18099), Reglamento, artículo 10, redacción única (vigente desde el 18/09/2003) | Suministros normales y complementarios; socorro, reserva y duplicado; 10.2 (dispositivos que impiden el acoplamiento); 10.3 | En el BOE consolidado, 05/10/2026 |
+| Real Decreto 842/2002, ITC-BT-28, redacción única (vigente desde el 18/09/2003) | Apartado 1 (campo de aplicación: locales de pública concurrencia); apartado 2 (servicios de seguridad, alimentación automática o no automática, cinco categorías de conmutación); 2.1 (fuentes y sus condiciones); 2.2 (fuente propia, 70 %, capacidad mínima); 2.3 (socorro y reserva); 3 (corte breve del alumbrado de emergencia); 3.1.1 a 3.1.3 (autonomía); 4.g (tensión de retorno) | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-38, redacción única (vigente desde el 18/09/2003) | Apartado 2.2: el suministro especial complementario de la lámpara de quirófano y los equipos de asistencia vital, con autonomía no inferior a 2 horas | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 842/2002, ITC-BT-40, redacción vigente desde el 07/04/2019 (Real Decreto 244/2019, BOE-A-2019-5089) | Apartados 1, 2, 3, 4.1, 4.2, 5, 6, 7, 8.2.1, 8.2.2 y 9 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 513/2017 (BOE-A-2017-6606), anexo II, redacción vigente desde el 10/05/2025 (BOE-A-2025-7190) | Apartado 1; tabla I, filas de detección y alarma (requisitos generales y fuentes de alimentación) y de abastecimiento de agua | En el BOE consolidado, 05/10/2026 |
@@ -1063,6 +1117,6 @@ topologías y la razón de que sólo la doble conversión sea «sin corte»; el 
 la corriente de cortocircuito del inversor y la selectividad; la asignación de categorías de
 conmutación a cada fuente; qué cuelga del grupo y del SAI y la cadena completa; el enclavamiento
 mecánico; el sentido de la transferencia sin corte y de la puesta a tierra del neutro del grupo;
-la maniobra del bypass de mantenimiento; pilas y baterías, sus parámetros, químicas y agrupación; el
-cálculo de autonomía; las pruebas del grupo y del SAI; y toda la actuación ante incidencias. Nada de
+la maniobra del bypass de mantenimiento; pilas y baterías, sus parámetros, químicas y agrupación; los regímenes de carga y qué hace cada cargador; el sobredimensionado del grupo que
+alimenta un SAI; el cálculo de autonomía; las pruebas del grupo y del SAI; y toda la actuación ante incidencias. Nada de
 eso se ha leído en una norma, y el tema no lo presenta como si lo estuviera.

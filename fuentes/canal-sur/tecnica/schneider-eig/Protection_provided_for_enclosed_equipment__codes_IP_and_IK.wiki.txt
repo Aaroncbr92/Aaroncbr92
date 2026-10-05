@@ -1,0 +1,130 @@
+{{Add-ch-menu|E}}
+== IP code definition   ==
+(see {{FigRef|E66}})
+
+The degree of protection provided by an enclosure is indicated in the IP code, recommended in IEC 60529.
+
+Protection is afforded against the following external influences:
+*Penetration by solid bodies 
+*Protection of persons against access to live parts 
+*Protection against the ingress of dust 
+*Protection against the ingress of liquids
+
+'''Note''': the IP code applies to electrical equipment for voltages up to and including 72.5 kV. 
+
+{{FigImage|DB422199_EN|svg|E66|IP Code arrangement}}
+
+== Elements of the IP Code and their meanings  ==
+
+A brief description of the IP Code elements is given in the following chart (see {{FigRef|E67}}).
+
+{{FigImage|DB422200_EN|svg|E67|Elements of the IP Code}}
+
+== IK Code definition  ==
+
+Standard IEC 62262 defines an IK code that characterises the aptitude of equipment to resist mechanical impacts on all sides (see {{FigRef|E68}}). 
+
+{{tb-start|id=Tab1133|num=E68|title=Elements of the IK Code|cols=3}}
+{| class="wikitable"
+|-
+! IK code 
+! Impact energy (In joules) 
+! AG Code
+|-
+| 00 
+| 0 
+| 
+|-
+| 01 
+| ≤ 0.14 
+| 
+|-
+| 02 
+| ≤ 0.20 
+| AG1
+|-
+| 03 
+| ≤ 0.35 
+| 
+|-
+| 04 
+| ≤ 0.50 
+| 
+|-
+| 05 
+| ≤ 0.70 
+| 
+|-
+| 06 
+| ≤ 1 
+| 
+|-
+| 07 
+| ≤ 2 
+| AG2
+|-
+| 08 
+| ≤ 5 
+| AG3
+|-
+| 09 
+| ≤ 10 
+| 
+|-
+| 10 
+| ≤ 20 
+| AG4
+|}
+
+== IP and IK code specifications for distribution switchboards ==
+
+The degrees of protection IP and IK of an enclosure must be specified as a function of the different external influences defined by standard IEC 60364-5-51, in particular:
+*Presence of solid bodies (code AE)
+*Presence of water (code AD)
+*Mechanical stresses (no code)
+*Capability of persons (code BA)
+*…
+
+Prisma switchboards are designed for indoor installation.
+
+Unless the rules, standards and regulations of a specific country stipulate otherwise, Schneider Electric recommends the following IP and IK values (see {{FigRef|E69}} and {{FigRef|E70}})
+
+=== IP recommendations === 
+
+{{tb-start|id=Tab1134|num=E69|title=IP recommendations|cols=3}}
+{| class="wikitable"
+|-
+! colspan="3" | IP codes according to conditions
+|-
+| Normal without risk of vertically falling water 
+| Technical rooms 
+| 30
+|-
+| Normal with risk of vertically falling water 
+| Hallways 
+| 31
+|-
+| Very severe with risk of splashing water from all directions 
+| Workshops 
+| 54/55
+|}
+ 
+=== IK recommendations ===
+
+{{tb-start|id=Tab1135|num=E70|title=IK recommendations|cols=3}}
+{| class="wikitable"
+|-
+! colspan="3" | IK codes according to conditions
+|-
+| No risk of major impact 
+| Technical rooms 
+| 07
+|-
+| Significant risk of major impact that could damage devices 
+| Hallways 
+| 08 (enclosure with door)
+|-
+| Maximum risk of impact that could damage the enclosure 
+| Workshops 
+| 10
+|}

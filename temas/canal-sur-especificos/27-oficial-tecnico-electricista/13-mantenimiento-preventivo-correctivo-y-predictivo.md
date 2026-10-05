@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 13 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 1215/1997, de 18 de julio, sobre equipos de trabajo (artículos 3.5 y 4 y anexo II, apartado 1). Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (artículos 19 y 20; ITC-BT-03, apartado 7; ITC-BT-05, 4.2; ITC-BT-18, apartado 12). Real Decreto 1027/2007, de 20 de julio, Reglamento de instalaciones térmicas en los edificios (artículos 26 y 27 y apéndice 3). Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (artículo 21 y anexo II). Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (anexo II, capítulo 5). X Convenio colectivo de la RTVA, anexo III. Fichas de catálogo de las normas UNE de mantenimiento. Lo demás es oficio, y así se declara |
+| **Fuente** | Real Decreto 1215/1997, de 18 de julio, sobre equipos de trabajo (artículos 3.5 y 4 y anexo II, apartado 1). Real Decreto 842/2002, de 2 de agosto, Reglamento electrotécnico para baja tensión (artículos 19 y 20; ITC-BT-03, apartado 7; ITC-BT-05, 4.2; ITC-BT-18, apartado 12). Real Decreto 1027/2007, de 20 de julio, Reglamento de instalaciones térmicas en los edificios (artículos 26 y 27 y apéndice 3). Real Decreto 513/2017, de 22 de mayo, Reglamento de instalaciones de protección contra incendios (artículo 21 y anexo II). Real Decreto 393/2007, de 23 de marzo, Norma Básica de Autoprotección (anexo II, capítulo 5). X Convenio colectivo de la RTVA, anexo III. Fichas de catálogo de las normas UNE de mantenimiento. Manuales universitarios de mantenimiento y de gestión de stocks (indicadores, TPM, punto de pedido). Lo demás es oficio, y así se declara |
 | **Redacción que se estudia** | La vigente el 24/09/2026. Real Decreto 1215/1997: artículos 3 y 4 en su redacción única (desde el 27/08/1997); anexo II en la del Real Decreto 2177/2004 (desde el 03/12/2004). REBT: artículo 19 en redacción única (desde el 18/09/2003); artículo 20 en la del Real Decreto 560/2010 (desde el 23/05/2010); ITC-BT-03 en la del Real Decreto 770/2025 (desde el 04/09/2025); ITC-BT-05 en la del Real Decreto 1053/2014 (desde el 30/06/2015); ITC-BT-18 en la del Real Decreto 560/2010. RITE: artículo 26 en la del Real Decreto 249/2010 (desde el 19/03/2010); artículo 27 en redacción única (desde el 29/02/2008); apéndice 3 en la del Real Decreto 178/2021 (desde el 01/07/2021). RIPCI: artículo 21 en redacción única (desde el 12/12/2017); anexo II en la del Real Decreto 164/2025 (desde el 10/05/2025). Real Decreto 393/2007, anexo II, redacción única |
-| **Extensión** | Unas 8.900 palabras |
+| **Extensión** | Unas 9.850 palabras |
 
 <!-- /portada -->
 
@@ -21,7 +21,9 @@ gestión del mantenimiento asistido por ordenador (**GMAO**); sistema de aliment
 ininterrumpida (**SAI**); sistema de gestión técnica del edificio (**BMS**, *building management
 system*); centro de proceso de datos (**CPD**); Asociación Española de Normalización (**UNE**),
 norma europea (**EN**) y Organización Internacional de Normalización (**ISO**); mantenimiento
-productivo total (**TPM**, *total productive maintenance*); equipo de protección individual
+productivo total (**TPM**, *total productive maintenance*); tiempo medio entre fallos (**MTBF**,
+*mean time between failures*), tiempo medio hasta el fallo (**MTTF**, *mean time to failure*) y
+tiempo medio de reparación (**MTTR**, *mean time to repair*); equipo de protección individual
 (**EPI**). En las citas del X Convenio aparece **SSFF**, sociedades filiales.
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
@@ -36,13 +38,13 @@ dónde encaja el predictivo en la terminología normalizada (UNE-EN 13306); qué
 diferido; qué obliga a mantener (Real Decreto 1215/1997, artículo 3.5; REBT, artículo 20) y
 según qué instrucciones; quién puede hacer las operaciones de mantenimiento con riesgo específico;
 qué periodicidades fijan los reglamentos (tierras al menos una vez al año, en época seca;
-inspección periódica cada cinco años); qué es una gama y de dónde salen sus operaciones; qué
+inspección periódica cada cinco años); qué es el TPM; qué es una gama y de dónde salen sus operaciones; qué
 contiene una orden de trabajo y cuál es su ciclo; el método de diagnóstico de una avería y la
-búsqueda por mitades; con qué criterios se prioriza una avería; cuánto tiempo se conservan los
+búsqueda por mitades; qué miden el MTBF, el MTTR y la disponibilidad, y cómo se calcula ésta; con qué criterios se prioriza una avería; cuánto tiempo se conservan los
 resultados de las comprobaciones de los equipos de trabajo (toda su vida útil), el registro de
 mantenimiento del RITE y la constancia del RIPCI (al menos cinco años); qué condiciones exige el
 anexo II del Real Decreto 1215/1997 antes de mantener un equipo; qué es un repuesto crítico; qué
-recoge un inventario de instalaciones; y qué documentación técnica debe tener a mano el
+recoge un inventario de instalaciones; qué son el punto de pedido y el stock de seguridad; y qué documentación técnica debe tener a mano el
 mantenedor (manual de uso y mantenimiento, esquema unifilar, croquis de trazado). En la prueba
 práctica: redactar una gama, cumplimentar o leer una orden de trabajo, ordenar tres avisos
 simultáneos por prioridad o diagnosticar una avería paso a paso.
@@ -153,7 +155,8 @@ que **La presente definición no constituye una lista cerrada de funciones**. El
 mantenimiento no lo hace el oficial: en el mismo anexo, el jefe del departamento de explotación y
 mantenimiento tiene la tarea de **Elaborar e implantar el Plan de Mantenimiento.**, y el jefe de
 sección de mantenimiento tiene como función básica **Coordinar, organizar y supervisar el mantenimiento de las
-instalaciones de los Centros de Trabajo.** El oficial ejecuta, mide, repara y registra; el
+instalaciones de los Centros de Trabajo.**, y como primera de sus tareas **Desarrollo e implantación del Plan
+de Mantenimiento y Explotación.** El oficial ejecuta, mide, repara y registra; el
 ayudante técnico electricista, entre otras tareas, **Mantener actualizada la información relativa
 a las instalaciones.** y **Realizar con el oficial guardias para atender averías imprevistas.**
 
@@ -179,7 +182,7 @@ Y el tercero, que el enunciado nombra aparte:
 La terminología del oficio la fija una norma: UNE-EN 13306:2018, **«Mantenimiento. Terminología del
 mantenimiento.»**, en vigor, que anuló la edición de 2011 y es idéntica a la EN 13306:2017 (ficha
 de catálogo de AENOR; el texto de la norma no se ha leído). Su clasificación, tomada de una
-reproducción secundaria de una edición anterior (la de 2010) y dada aquí sólo como estructura, sin sus definiciones
+reproducción secundaria de una edición anterior a la vigente y dada aquí sólo como estructura, sin sus definiciones
 literales:
 
 - El **preventivo** se hace antes del fallo, para reducir su probabilidad o la degradación del
@@ -204,6 +207,23 @@ administrativo **La conservación y el mantenimiento preventivo, correctivo, sus
 y técnico-legal del edificio y sus instalaciones, necesario para garantizar su correcto estado.**
 La ley no define esos términos y se cita sólo como muestra de vocabulario oficial; que ese
 artículo se aplique a los edificios de la RTVA no consta.
+
+Más que un tipo, el mantenimiento productivo total (TPM) es una forma de organizar el
+mantenimiento. Los títulos de formación profesional lo incluyen como contenido: el Real Decreto
+401/2023 evalúa que **Se ha elaborado un plan detallado de mantenimiento productivo total (TPM).**
+El real decreto no lo define. Los manuales universitarios lo explican así: es «total» porque **Implica a
+la totalidad del personal (no sólo al servicio de mantenimiento)**, y **El operario realiza
+pequeñas tareas de mantenimiento de su puesto (reglaje, inspección, situación pequeñas cosas,...)**
+(Universidad Carlos III de Madrid, apuntes de mantenimiento industrial, 2003); y el TPM
+**busca alcanzar tres ceros**: **Cero averías.**, **Cero defectos.** y **Cero accidentes
+(considerando a las personas y al medio ambiente).** (Universidad de Cantabria, curso abierto de
+técnicas de mantenimiento, capítulo 5). Uno de sus ocho pilares es el mantenimiento autónomo, en
+el que parte del mantenimiento (**inspección,
+lubricación, cambio de piezas, limpieza, etc.**) **corresponderá al mismo operario y no a la
+división específica de la empresa**. En una instalación eléctrica de un centro audiovisual la
+idea se traduce, como oficio, en que quien opera un equipo hace la inspección visual y la limpieza
+básicas y avisa de lo anómalo; lo que toca tensión sigue siendo del personal capacitado (epígrafe
+1.1).
 
 Sobre el coste, una advertencia: que una hora de preventivo cueste menos que una de correctivo, o
 que el predictivo salga más barato en instalaciones grandes, es experiencia de oficio, no un dato de
@@ -426,15 +446,37 @@ si no hay OT, no hay histórico, y sin histórico no hay predictivo ni mejora de
 
 La gestión del mantenimiento asistido por ordenador es el programa que reúne inventario, plan,
 gamas, OT, histórico, almacén e indicadores. Es contenido oficial del carné del RITE (apéndice 3,
-punto 2): **Conocimientos específicos sobre: gestión económica del mantenimiento, gestión de
+A3.2, punto 2): **Conocimientos específicos sobre: gestión económica del mantenimiento, gestión de
 almacén y material de mantenimiento. Gestión del mantenimiento asistido por ordenador.** Qué GMAO
 usa la RTVA, si usa alguna, no consta publicado.
 
 Los indicadores de mantenimiento tienen norma propia, UNE-EN 15341:2020+A1:2023, **«Mantenimiento.
 Indicadores clave de rendimiento del mantenimiento.»**, y el proceso de mantenimiento, UNE-EN
 17007:2018, **«Proceso de mantenimiento e indicadores asociados.»**, ambas en vigor; su contenido
-no se ha leído, y este tema no da fórmulas de indicadores. Como oficio, el más elemental es el
+no se ha leído, y lo que sigue no se toma de ellas. Como oficio, el indicador más elemental es el
 cumplimiento del plan: cuántas OT de preventivo programadas en un periodo se han cerrado.
+
+El MTBF, el MTTR y la disponibilidad se definen así en los manuales universitarios de mantenimiento
+(Universidad de Cantabria, curso abierto de técnicas de mantenimiento, capítulo 2; la relación del
+MTTR con la mantenibilidad, en los apuntes de la Universidad Carlos III de Madrid):
+
+- Tiempo medio entre fallos (MTBF, *mean time between failures*): **la media del tiempo de
+  funcionamiento correcto de los equipos**. Se usa en los equipos reparables; en los no reparables
+  se habla de tiempo medio hasta el fallo (MTTF, *mean time to failure*). Mide la fiabilidad: cuanto
+  mayor, mejor.
+- Tiempo medio de reparación (MTTR, *mean time to repair*): la media de los tiempos de reparación
+  de múltiples fallos, y se calcula como **MTTR = (Tiempo total de inactividad del equipo) /
+  (número de fallos)**. Mide la facilidad de reparar (la mantenibilidad): cuanto menor, mejor.
+- Disponibilidad: **la fracción de tiempo que un producto reparable se espera que esté en
+  funcionamiento, es decir, no en reparación**; varía entre 0 y 1 y **queda dada por la relación:
+  Disponibilidad = MTBF / (MTBF + MTTR)**.
+
+Un ejemplo de cálculo (de oficio, con números redondos): un SAI que ha funcionado 4.380 horas
+entre fallos de media y ha tardado de media 20 horas en repararse tiene una disponibilidad de
+4.380 / (4.380 + 20) = 4.380 / 4.400 ≈ 0,995, un 99,5 %. Se sube la disponibilidad alargando el
+MTBF (mejor preventivo y predictivo) o acortando el MTTR (repuesto en almacén, diagnóstico rápido,
+documentación a mano). Estas definiciones son de manual, no de la UNE-EN 15341, cuyo texto no se ha
+leído.
 
 ## 4. Diagnóstico de averías
 
@@ -646,12 +688,32 @@ sirve sin la configuración del equipo averiado guardada (epígrafe 1.3).
 ### 7.2 La gestión del almacén
 
 Es contenido oficial del carné del RITE: **gestión de almacén y material de mantenimiento**
-(apéndice 3); y el Real Decreto 401/2023 evalúa que **Se han aplicado técnicas de gestión de
+(apéndice 3, A3.2, punto 2); y el Real Decreto 401/2023 evalúa que **Se han aplicado técnicas de gestión de
 materiales y elementos para el mantenimiento de instalaciones.** En la práctica de oficio: cada
 repuesto con su referencia, su ubicación, el equipo o equipos para los que sirve, sus existencias
 y un mínimo que dispara el pedido; las salidas, siempre contra una OT, para saber qué se gastó y
 en qué; y revisión periódica de lo almacenado (las baterías de repuesto envejecen en la estantería,
 y un repuesto de un modelo ya retirado ocupa sitio sin servir).
+
+Los términos de la gestión de existencias no son de norma de mantenimiento, sino de logística; un
+manual universitario (Universitat Oberta de Catalunya, módulo «Gestión de stocks. Órdenes de
+compra») los define así:
+
+- Punto de pedido: **la cantidad de stock a partir de la cual hay que lanzar un nuevo pedido**; es
+  **la cobertura necesaria para la que no hay rotura de stock antes de que llegue a nuestros
+  almacenes el lote demandado**.
+- Stock de seguridad: **el que voluntariamente establece la empresa como no utilizable en el
+  lanzamiento de pedidos y que deberá de mantenerse estable para asegurar el nivel de servicio
+  previsto.**
+- Stock mínimo (existencias mínimas): su fijación **supone asegurar el consumo o salidas durante el
+  periodo de reposición máximo (plazo de aprovisionamiento) en condiciones de máximo consumo
+  previsto.** El mismo manual calcula **Punto de pedido = Existencia mínima + (Cmed × Pmed)**, con
+  Cmed el consumo medio previsto y Pmed el periodo de reposición medio previsto.
+
+Aplicado al almacén de mantenimiento, como oficio: si se gastan de media 4 fusibles de un calibre
+al mes, el proveedor tarda un mes en servirlos y se fija un mínimo de 2, el pedido se lanza cuando
+quedan 2 + (4 × 1) = 6. Un repuesto crítico (epígrafe 7.1) no se gestiona por punto de pedido: se
+tiene aunque no se consuma.
 
 Los equipos que se retiran como inservibles salen del inventario y de la instalación como residuo.
 Su gestión (residuos de aparatos eléctricos, baterías, lámparas) es del tema 16.
@@ -753,8 +815,9 @@ documentos es UNE-EN 13460:2009 (no leída).
 - Las definiciones literales de la UNE-EN 13306:2018 y el contenido de las UNE-EN 13460, 15341 y
   17007 y de la ISO 17359: normas de pago, no leídas. El tema da la clasificación de los tipos como
   estructura y los títulos de las normas.
-- Las fórmulas de los indicadores de mantenimiento (disponibilidad, tiempos medios entre fallos y
-  de reparación, costes): son de la UNE-EN 15341, no leída; no se dan.
+- Los indicadores normalizados de mantenimiento (UNE-EN 15341, no leída), incluidos los de costes:
+  no se dan. El MTBF, el MTTR y la disponibilidad se dan con la definición y la fórmula de un manual
+  universitario, no con las de la norma.
 - Una definición normativa de gama, orden de trabajo, GMAO, criticidad, repuesto crítico o
   inventario técnico: no la da ninguna de las normas leídas. Todo lo que el tema dice de ellos es
   oficio, y así se declara.
@@ -786,10 +849,14 @@ documentos es UNE-EN 13460:2009 (no leída).
 | Real Decreto 513/2017, RIPCI (BOE-A-2017-6606): artículo 21, redacción única (desde el 12/12/2017); anexo II en la del Real Decreto 164/2025, de 4 de marzo (BOE-A-2025-7190), desde el 10/05/2025 | Artículo 21; anexo II, apartados 1 y 6 | En el BOE consolidado, 05/10/2026 |
 | Real Decreto 393/2007 (BOE-A-2007-6237), anexo II, redacción única | Capítulo 5 | En el BOE consolidado, 05/10/2026 |
 | Ley 7/2025, de 22 de diciembre (BOE-A-2026-944), artículo 136, redacción única (desde el 20/01/2026) | Apartado 3.f) | En el BOE consolidado, 05/10/2026 |
-| Real Decreto 401/2023 (BOE-A-2023-13217), texto del BOE sin consolidar | Módulo 0968, resultados de aprendizaje 6 a 8 | 05/10/2026 |
+| Real Decreto 401/2023 (BOE-A-2023-13217), texto del BOE sin consolidar | Módulo 0968, resultados de aprendizaje 6 a 8 (incluido el criterio 7 d), TPM) | 05/10/2026 |
 | X Convenio colectivo de la RTVA (BOJA núm. 240, de 10/12/2014), anexo III | Fichas de Oficial Técnico Electricista (9311100), Ayudante Técnico Electricista, Jefe de Departamento de Explotación y Mantenimiento (9300000) y Jefe de Sección de Mantenimiento | 05/10/2026 |
+| Universidad de Cantabria, OpenCourseWare, «Técnicas de mantenimiento en instalaciones mineras», capítulo 2, «Introducción a la ingeniería de la fiabilidad» (C. Sierra Fernández y E. Andrea Calvo) | Definiciones de MTBF, MTTF, MTTR y disponibilidad; fórmulas del MTTR y de la disponibilidad | 05/10/2026 |
+| Universidad de Cantabria, OpenCourseWare, mismo curso, capítulo 5, «Estrategias corporativas de mantenimiento» (C. Sierra Fernández y E. Andrea Calvo), apartado 5.2.2 | TPM: los tres ceros y el mantenimiento autónomo | 05/10/2026 |
+| Universidad Carlos III de Madrid, OpenCourseWare, «Mantenimiento Industrial» (M.ª B. Muñoz Abella, Leganés, 2003), diapositivas 10 y 25 | TPM: el sentido de «total» y las tareas del operario (10); el MTTR como medida de la mantenibilidad (25) | 05/10/2026 |
+| Universitat Oberta de Catalunya, «Gestión de stocks. Órdenes de compra», PID_00253874 (J. E. Martínez Marín), apartados 1.3, 1.4 y 1.6.2 | Punto de pedido, stock de seguridad, stock mínimo y fórmula del punto de pedido | 05/10/2026 |
 | AENOR, fichas de catálogo de UNE-EN 13306:2018, 13460:2009, 15341:2020+A1:2023 y 17007:2018, e ISO 17359:2018 | Título, fecha, estado, norma que anulan y equivalencia. Sólo metadatos | 05/10/2026 |
-| Reproducción secundaria de las definiciones de la UNE-EN 13306, edición de 2010 (pliego técnico de un operador público de transporte) | Sólo la estructura de la clasificación (preventivo predeterminado y basado en la condición; predictivo dentro de éste; correctivo inmediato y diferido). No se cita literal | 05/10/2026 |
+| Reproducción secundaria de las definiciones de la UNE-EN 13306 en una edición anterior a la vigente (pliego técnico de un operador público de transporte) | Sólo la estructura de la clasificación (preventivo predeterminado y basado en la condición; predictivo dentro de éste; correctivo inmediato y diferido). No se cita literal | 05/10/2026 |
 
 Ninguno de los preceptos citados cambió entre el 24/09/2026 y la fecha de lectura.
 
@@ -799,8 +866,10 @@ valor de la tendencia; el correctivo diferido legítimo; la definición, el cont
 los tipos de gama y el ejemplo de gama de un cuadro; la definición, el contenido y el ciclo de la
 OT y el indicador de cumplimiento del plan; el método de diagnóstico en cinco pasos, la búsqueda
 binaria, la fase previa de preguntar y mirar, el ejemplo del diferencial y la causa raíz; los
-criterios de priorización, la tabla de criticidad y gravedad y el caso de los tres avisos; la
-trazabilidad de materiales e instrumentos; las clases de repuesto y la gestión del almacén; el
+criterios de priorización, la tabla de criticidad y gravedad y el caso de los tres avisos; el
+ejemplo de cálculo de la disponibilidad de un SAI; la traducción del TPM a una instalación
+eléctrica; la trazabilidad de materiales e instrumentos; las clases de repuesto, la gestión del
+almacén y el ejemplo del punto de pedido de los fusibles; el
 contenido del inventario; y las reglas de la documentación. Las tablas de revisión de máquinas y
 las tres medidas de un motor son también oficio. Ninguna de esas tablas procede de un plan de la
 RTVA.

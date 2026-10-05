@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 12 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03): preguntas de teoría específica y de aplicación práctica del test, y la prueba práctica del puesto |
-| **Fuente** | El enunciado no nombra ninguna norma. Lo normativo sale del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820): artículos 2.1, 12.3 y 25.3; IT 1.2.4.3.1, IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5.1, IT 1.3.4.1.2, IT 2.3.4, IT 3.3, IT 3.4.2, IT 3.4.4, IT 3.4.5, IT 3.6, IT 3.7 e IT 4.3.4; apéndices 1 (términos y definiciones) y 2 (normas de referencia). Y del Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): anexo I, sección 1.ª, apartado 1.7. Fuente técnica: guía técnica de mantenimiento de instalaciones térmicas del IDAE (2007); ISO 16484-5:2026 (BACnet); especificación del protocolo Modbus V1.1b3; glosario del NIST. Lo demás, oficio, y así se dice |
+| **Fuente** | El enunciado no nombra ninguna norma. Lo normativo sale del Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820): artículos 2.1, 12.3 y 25.3; IT 1.2.4.3.1, IT 1.2.4.3.2, IT 1.2.4.3.3, IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5.1, IT 1.3.4.1.2, IT 2.3.4, IT 3.3, IT 3.4.2, IT 3.4.4, IT 3.4.5, IT 3.6, IT 3.7 e IT 4.3.4; apéndices 1 (términos y definiciones) y 2 (normas de referencia). Y del Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606): anexo I, sección 1.ª, apartado 1.7. Fuente técnica: guía técnica de mantenimiento de instalaciones térmicas del IDAE (2007); ISO 16484-5:2026 (BACnet); especificación del protocolo Modbus V1.1b3; glosario del NIST; hojas técnicas de WIKA (sondas de platino según la IEC 60751 y transmisor T15), de TDK (termistores NTC) y de Siemens (sensores Symaro y sondas QAA20). Lo demás, oficio, y así se dice |
 | **Redacción que se estudia** | La vigente el día de la lectura (05/10/2026). El RITE no ha cambiado desde el 01/07/2021 (Real Decreto 178/2021, de 23 de marzo, BOE-A-2021-4572). El anexo I, sección 1.ª, del reglamento de protección contra incendios tiene la redacción vigente desde el 10/05/2025 (Real Decreto 164/2025, BOE-A-2025-7190) |
-| **Extensión** | 11.000 palabras aproximadamente |
+| **Extensión** | 12.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -29,7 +29,12 @@ Normalización (**UNE-EN**); Instituto Nacional de Estándares y Tecnología de 
 (**NIST**); calefacción, ventilación, aire acondicionado y refrigeración (**HVAC&R**, del inglés);
 sistema de alimentación ininterrumpida (**SAI**); centro de proceso de datos (**CPD**); unidad de
 tratamiento de aire (**UTA**); coeficiente de eficiencia frigorífica (**EER**, *energy efficiency
-ratio*); y las unidades kilovatio (**kW**), miliamperio (**mA**) y voltio (**V**).
+ratio*); termistor de coeficiente de temperatura negativo (**NTC**, *negative temperature
+coefficient*); medida por absorción de infrarrojos (**NDIR**, sigla inglesa);
+compuestos orgánicos volátiles (**VOC**, del inglés); dióxido de carbono (**CO2**); Comisión
+Electrotécnica Internacional (**IEC**); la sigla con la que las hojas de los fabricantes citan
+las especificaciones NE 21, NE 43 y NE 89 (**NAMUR**); y las unidades kilovatio (**kW**),
+miliamperio (**mA**), voltio (**V**), ohmio (**Ω**) y kiloohmio (**kΩ**).
 
 > **Enunciado del programa** (concurso-oposición de la RTVA y CSRTV, BOJA núm. 186, de 24 de
 > septiembre de 2026, anexo V, temario específico del puesto 2.27, punto 12):
@@ -43,7 +48,8 @@ RITE, qué edificios deben tenerlo y qué tiene que ser capaz de hacer, qué ven
 inspecciones y en mantenimiento, cuáles son sus cuatro niveles, cómo se pone en servicio y quién
 mantiene sus programas; qué diferencia un BMS de un SCADA y de un autómata, qué es un protocolo
 abierto, qué son BACnet y Modbus y qué tablas de datos usa Modbus; qué es un punto, qué tipos de
-punto hay, qué señales se usan en campo y por qué la de 4-20 mA detecta el cable cortado; qué es
+punto hay, qué sensores hay y qué resistencia tiene una Pt100, qué sensores pide el RITE para
+controlar la calidad del aire, qué señales se usan en campo y por qué la de 4-20 mA detecta el cable cortado, y cómo se convierte una señal en magnitud; qué es
 una alarma, cómo se prioriza, qué prioridad tiene la protección contra incendios en un sistema
 integrado y cada cuánto se prueban las alarmas; qué datos debe registrar el sistema por exigencia
 del RITE, cuánto se conservan y qué copias de seguridad se hacen; qué es la telemedida y la
@@ -70,7 +76,7 @@ técnica apague la climatización de un plató en pleno directo.
   - [2.4 Mantenimiento del puesto central y de los controladores](#24-mantenimiento-del-puesto-central-y-de-los-controladores)
 - [3. Sensores](#3-sensores)
   - [3.1 Los puntos: la unidad de cuenta del sistema](#31-los-puntos-la-unidad-de-cuenta-del-sistema)
-  - [3.2 Las señales de campo](#32-las-señales-de-campo)
+  - [3.2 Los sensores y sus señales de campo](#32-los-sensores-y-sus-señales-de-campo)
   - [3.3 Que el sensor diga la verdad: contraste y calibración](#33-que-el-sensor-diga-la-verdad-contraste-y-calibración)
 - [4. Alarmas](#4-alarmas)
   - [4.1 Qué es una alarma y de dónde sale](#41-qué-es-una-alarma-y-de-dónde-sale)
@@ -226,8 +232,10 @@ Dos ventajas reglamentarias de tenerlo:
    establecidos en el apartado 1 de la IT 1.2.4.3.5, así como los edificios residenciales que
    cuenten con un sistema de automatización y control que cumpla los requisitos establecidos en el
    apartado 2 de la IT 1.2.4.3.5, quedarán exentos del cumplimiento de los requisitos establecidos
-   en la IT 4.2.1, IT 4.2.2 y IT 4.2.3.**» Es decir, de las inspecciones de calefacción, de aire
-   acondicionado y de la instalación completa (tema 10). El sistema tiene que cumplir las tres
+   en la IT 4.2.1, IT 4.2.2 y IT 4.2.3.**» Es decir, de las «**Inspecciones de los sistemas de
+   calefacción, ventilación y agua caliente sanitaria**» (IT 4.2.1), de la «**Inspección de los
+   sistemas de las instalaciones de aire acondicionado y ventilación**» (IT 4.2.2) y de la
+   «**Inspección de la instalación térmica completa**» (IT 4.2.3) (tema 10). El sistema tiene que cumplir las tres
    capacidades de verdad: uno que sólo arranca y para equipos no basta (lectura de oficio).
 2. Mantenimiento menos frecuente en instalaciones pequeñas vigiladas. IT 3.3, al pie de la
    tabla 3.1: «**En instalaciones de potencia útil nominal hasta 70 kW, con supervisión remota en
@@ -549,9 +557,79 @@ La regla de dimensionado que evita el error de proyecto más frecuente: el núme
 cierra al final y siempre crece. Se deja reserva de puntos en cada controlador y de espacio en
 cada cuadro (oficio).
 
-### 3.2 Las señales de campo
+### 3.2 Los sensores y sus señales de campo
 
-Las señales que se encuentran en obra (oficio):
+*Qué sensores hay.* Un catálogo de sensores para climatización de un fabricante de sistemas de
+gestión (Siemens, gama Symaro, 2016) los ordena por magnitud: temperatura, humedad, calidad del
+aire, presión y caudal, para ambiente, para conducto, para exterior y para agua (de inmersión, de
+contacto sobre tubería y de cable). Y los separa en dos familias:
+
+- Pasivos, como las sondas de temperatura de resistencia: el elemento sensible cambia su
+  resistencia con la temperatura y es el controlador el que mide esa resistencia y la trata. La hoja de las sondas de ambiente QAA20 de ese
+  fabricante (2014) ofrece tres elementos: Pt 100, Pt 1000 y NTC 10k; el catálogo añade el LG-Ni1000.
+- Activos: el sensor lleva su propia electrónica, se alimenta (en ese catálogo, a 24 V en alterna
+  o entre 13,5 y 35 V en continua) y entrega una señal normalizada, de 0-10 V o de 4-20 mA en
+  continua, dentro de un rango de medida que se puede ajustar al instalar.
+
+Los sensores de temperatura que se encuentran en un edificio:
+
+| Sensor | Qué es | Dato que se pregunta |
+|---|---|---|
+| Pt100 y Pt1000 (sondas de resistencia de platino) | La resistencia del platino aumenta al subir la temperatura (coeficiente positivo). Sus características las define la norma IEC 60751 | Resistencia a 0 °C: 100 Ω la Pt100 y 1.000 Ω la Pt1000 |
+| NTC (termistor de coeficiente negativo) | Resistencia de semiconductor cuya resistencia baja al subir la temperatura (definición de la IEC 60539). Su coeficiente, del 2 al 6 % por kelvin, es unas diez veces el de los metales: mucha señal para poco cambio de temperatura | La resistencia nominal se da a una temperatura de referencia, y su tolerancia se fija en un punto que, según el documento técnico de TDK, suele ser 25 °C; «NTC 10k» nombra la de 10 kΩ (oficio) |
+
+Las tolerancias de las sondas de platino según la IEC 60751, en grados, con |t| la temperatura en
+°C sin signo: clase AA, ±(0,10 + 0,0017·|t|); clase A, ±(0,15 + 0,0020·|t|); clase B, ±(0,30 +
+0,0050·|t|). A 0 °C, una clase B admite ±0,30 °C y una clase A, ±0,15 °C. Cada clase vale sólo en
+un intervalo de temperatura, distinto si el elemento es bobinado o de película delgada (la clase
+B bobinada, de −196 a +600 °C; la AA bobinada, de −50 a +250 °C). Las sondas de ambiente QAA20
+citadas son de clase B.
+
+La conexión de una sonda de platino, según la hoja técnica del fabricante WIKA sobre la IEC 60751:
+
+| Conexión | Qué pasa con la resistencia del cable | Uso que le da el fabricante |
+|---|---|---|
+| Dos hilos | Se suma a la medida como error, con su propia variación con la temperatura; no aconsejable con Pt100 de clase A o AA | Cables de hasta 250 mm; la conexión normal con Pt1000 |
+| Tres hilos | Se compensa en lo posible | La versión normal; cables hasta unos 30 m |
+| Cuatro hilos | Se elimina por completo, incluida la asimetría entre conductores | Laboratorio y calibración, clases A y AA; cables hasta 1.000 m |
+
+Por eso una Pt1000 tolera mejor dos hilos que una Pt100: los mismos ohmios de cable pesan diez
+veces menos sobre una resistencia diez veces mayor (aritmética). La longitud admisible con una
+sonda pasiva la fija el controlador: la hoja de las QAA20 remite a la del controlador con el que
+se use.
+
+Dónde se coloca una sonda de ambiente, según la misma hoja: en una pared interior del local que se
+calienta o se climatiza; no en hornacinas ni estanterías, ni detrás de cortinas, ni frente o cerca
+de fuentes de calor. Es la primera causa que se revisa cuando una sonda no dice la verdad
+(epígrafe 3.3).
+
+Los demás sensores (catálogo Symaro, salvo lo que se marca como oficio):
+
+| Magnitud | Sensor | Para qué en la gestión técnica (oficio, salvo cita) |
+|---|---|---|
+| Humedad relativa | Sensor de humedad, a menudo combinado con el de temperatura; salida 0-10 V o 4-20 mA | Las categorías de control de las condiciones termohigrométricas THM-C2, THM-C4 y THM-C5 del RITE (IT 1.2.4.3.2) incluyen el control de la humedad relativa, y no se controla lo que no se mide; salas técnicas y CPD (tema 9) |
+| Calidad del aire | Sensor de dióxido de carbono por absorción de infrarrojos (NDIR), solo o combinado con compuestos orgánicos volátiles (VOC), temperatura y humedad | Ventilación según demanda: se regula el caudal de aire exterior por la calidad del aire medida |
+| Presión | Sensor y presostato diferencial para aire; sensor de presión para líquidos, gases y refrigerantes | Filtro sucio, marcha real de un ventilador, presión de un circuito de agua o frigorífico |
+| Caudal | Sensores y detectores de caudal y sensores de velocidad | Confirmar que hay circulación de agua o de aire |
+| Presencia | Detector de presencia (oficio: de infrarrojos, de los que encienden el alumbrado) | El modo IDA-C4 del RITE, más abajo |
+| Fuga de agua, puerta, nivel | Detectores de todo o nada (oficio) | Salas técnicas, CPD, depósitos de gasóleo del grupo (temas 7 y 8) |
+| Intensidad | Transformadores de intensidad de un analizador de red (oficio) | Consumo y carga por línea (tema 14) |
+
+El RITE, IT 1.2.4.3.3, apartado 2, obliga a controlar la calidad del aire interior por uno de los
+métodos de su tabla 2.4.3.2; dos de ellos son, precisamente, sensores:
+
+- IDA-C4, «**Control por presencia. El sistema funciona por una señal de presencia (encendido de
+  luces, infrarrojos, etc.).**»
+- IDA-C6, «**Control directo. El sistema está controlado por sensores que miden parámetros de
+  calidad del aire interior (CO2 o VOCs).**»
+
+Y fija dónde: «**Los métodos IDA-C2, IDA-C3 e IDA-C4 se emplearán en locales no diseñados para
+ocupación humana permanente.**» (apartado 3); «**El método IDA-C6 se empleará para locales de
+ocupación variable, como teatros, cines, salones de actos, aulas, recintos para el deporte y
+similares.**» (apartado 4). Un plató con público o un auditorio entran en ese «y similares» por
+lectura de oficio; la norma no los nombra.
+
+*Las señales.* Las que se encuentran en obra (oficio):
 
 | Señal | Rango | Rasgo |
 |---|---|---|
@@ -563,6 +641,29 @@ Las señales que se encuentran en obra (oficio):
 La ventaja del rango 4-20 es el dato de oficio más útil de este epígrafe: al no empezar en cero, un
 cable cortado da una lectura imposible y el sistema lo detecta. En 0-10 voltios, un cable cortado
 se lee como «cero grados» y nadie se entera.
+
+La hoja de un transmisor de temperatura de WIKA (modelo T15, 2025) lo concreta: su salida es lineal
+con la temperatura; en servicio no baja de 3,8 mA ni sube de 20,5 mA, y para avisar de un fallo
+(sonda rota o en cortocircuito) se va por debajo de 3,6 mA o por encima de 20,5 mA, según la
+NAMUR NE 43. Así el controlador distingue una medida baja de una sonda rota (oficio).
+
+*El escalado.* Como la salida es lineal, el controlador convierte la señal en magnitud con una
+regla de tres sobre el rango configurado (aritmética; el rango lo fija quien configura el
+transmisor y el controlador debe tener el mismo):
+
+- En 4-20 mA: valor = mínimo + (I − 4) / 16 × (máximo − mínimo), con I en miliamperios. Los 16 mA
+  son el recorrido útil, de 4 a 20.
+- En 0-10 V: valor = mínimo + U / 10 × (máximo − mínimo), con U en voltios.
+
+Ejemplos. Sonda de 0 a 50 °C en 4-20 mA que entrega 12 mA: 0 + (12 − 4) / 16 × 50 = 25 °C (12 mA
+es la mitad del recorrido, no 12/20 del rango). Si entrega 8 mA: 12,5 °C. Sensor de presión de 0 a
+10 bar en 0-10 V que da 3 V: 3 bar. Y al revés, para comprobar en campo: 30 °C en esa sonda de 0 a
+50 °C son 4 + 16 × 30/50 = 13,6 mA.
+
+El error típico es el que el epígrafe 3.3 llama «escalado mal configurado»: transmisor
+configurado de 0 a 150 °C (el rango de fábrica del T15 citado) y controlador de 0 a 50 °C, o al
+revés; la lectura es estable, sigue la temperatura y está mal, y sólo el contraste con un
+instrumento en campo lo descubre.
 
 Y además de las señales cableadas, la lectura por bus: un analizador de red o un SAI con puerto de
 comunicaciones entrega decenas de magnitudes por un solo par de hilos o un cable de red, en vez de
@@ -722,7 +823,9 @@ encima de 1.000 kW, en los dos casos con la primera medida al inicio de la tempo
 ### 5.2 Cuánto se conserva y a quién se enseña
 
 - IT 3.4.4, apartado 2: en instalaciones de más de 70 kW, la empresa mantenedora sigue la evolución del
-  consumo y de la energía aportada, desglosada por uso, «**con el fin de poder detectar posibles
+  consumo y de la energía aportada por la instalación térmica «**con el mayor nivel de
+  desagregación posible por uso (calefacción, refrigeración y agua caliente sanitaria), así como
+  del consumo de agua en función de los dispositivos de medida disponibles, con el fin de poder detectar posibles
   desviaciones y tomar las medidas correctoras oportunas. Esta información se conservará por un
   plazo de, al menos, cinco años y deberá entregarse al propietario del edificio e incorporarse al
   ‘‘Libro del Edificio’’.**»
@@ -931,7 +1034,7 @@ durante la prueba la vigilancia de las salas queda reducida.
 
 | Norma | Qué se usa | Redacción |
 |---|---|---|
-| Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820) | Artículos 2.1, 12.3 y 25.3; IT 1.2.4.3.1 (apartados 1 y 3), IT 1.2.4.3.5, IT 1.2.4.4 (apartados 2 a 7), IT 1.2.4.5.1, IT 1.3.4.1.2.2.p), IT 2.3.4, IT 3.3 (pie de la tabla 3.1), IT 3.4.2 (tabla 3.3), IT 3.4.4 (apartado 2), IT 3.4.5, IT 3.6, IT 3.7 e IT 4.3.4; apéndice 1 (definiciones del sistema de automatización y control y de los cuatro niveles); apéndice 2 (títulos de UNE-EN 15232-1 y UNE-EN ISO 16484-3) | Vigente a 05/10/2026; sin cambios desde el 01/07/2021 |
+| Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios (BOE-A-2007-15820) | Artículos 2.1, 12.3 y 25.3; IT 1.2.4.3.1 (apartados 1 y 3), IT 1.2.4.3.2 (categorías THM-C de la tabla 2.4.3.1), IT 1.2.4.3.3 (apartados 2 a 4 y tabla 2.4.3.2), IT 1.2.4.3.5, IT 1.2.4.4 (apartados 2 a 7), IT 1.2.4.5.1, IT 1.3.4.1.2.2.p), IT 2.3.4, IT 3.3 (pie de la tabla 3.1), IT 3.4.2 (tabla 3.3), IT 3.4.4 (apartado 2), IT 3.4.5, IT 3.6, IT 3.7 e IT 4.3.4; apéndice 1 (definiciones del sistema de automatización y control y de los cuatro niveles); apéndice 2 (títulos de UNE-EN 15232-1 y UNE-EN ISO 16484-3) | Vigente a 05/10/2026; sin cambios desde el 01/07/2021 |
 | Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios (BOE-A-2017-6606) | Anexo I, sección 1.ª, apartado 1.7 | Vigente desde el 10/05/2025 (BOE-A-2025-7190) |
 
 ## Lo que este tema no da, y dónde está
@@ -955,6 +1058,10 @@ durante la prueba la vigilancia de las salas queda reducida.
   la definición del NIST. La seguridad de las redes de control (series de normas específicas y
   guías de organismos de ciberseguridad) no se ha investigado: lo que se dice es oficio.
 - La lectura remota de contadores de la compañía eléctrica y su regulación: no se ha leído.
+- Los termopares (el tema no los trata) y las sondas LG-Ni1000 (sólo se nombran): no se ha leído fuente sobre ellos. Las
+  normas IEC 60751, IEC 60539 y la NAMUR NE 43 no se han leído directamente: lo que
+  el tema dice de ellas es lo que dicen las hojas técnicas de WIKA y de TDK, y no se ha comprobado
+  con qué número están adoptadas como UNE.
 - El sistema de gestión técnica de los edificios de la RTVA, su fabricante, su protocolo, si los
   edificios superan los 290 kW, quién atiende las alarmas fuera de horario y con qué procedimiento:
   no constan en documento publicado.
@@ -970,6 +1077,11 @@ durante la prueba la vigilancia de las salas queda reducida.
 | Modbus Organization, *MODBUS Application Protocol Specification V1.1b3*, 26-04-2012 (modbus.org) | Apartados 1.1 y 4.3 | 05/10/2026 |
 | NIST, glosario del Computer Security Resource Center, entrada «Supervisory Control and Data Acquisition (SCADA)», tomada de NIST SP 800-82r3 | Definición de SCADA | 05/10/2026 |
 | KNX Association, página «What is KNX» (knx.org) | Las dos expresiones citadas | 05/10/2026 |
+| WIKA, hoja técnica IN 00.17, *Operating limits and tolerances of platinum resistance thermometers per DIN EN IEC 60751*, 11/2020 | Pt100 y Pt1000 y su resistencia a 0 °C, coeficiente positivo, clases AA, A y B con sus fórmulas e intervalos, conexión a dos, tres y cuatro hilos | 05/10/2026 |
+| WIKA, hoja técnica TE 15.01, transmisor de temperatura T15, 03/2025 | Salida lineal con la temperatura, límites y señal de fallo según NAMUR NE 43, configuración de fábrica (Pt100, tres hilos, 0 a 150 °C) | 05/10/2026 |
+| TDK (EPCOS AG), *NTC Thermistors. General technical information*, enero de 2018 | Definición del NTC según la IEC 60539, coeficiente del 2 al 6 % por kelvin, tolerancia de resistencia a 25 °C | 05/10/2026 |
+| Siemens, hoja CE1N1745en, *Room Temperature Sensors QAA20...*, 30-07-2014 | Elementos Pt 100, Pt 1000 (clase B) y NTC 10k; sensores pasivos; longitud de cable según el controlador; dónde se monta | 05/10/2026 |
+| Siemens Switzerland, catálogo *Symaro* (pedido 0-92162-en), 2016 | Familias de sensores por magnitud y montaje, salidas y alimentación, CO2 por infrarrojos (NDIR) y ventilación según demanda, sensores de presión y de caudal | 05/10/2026 |
 
 Lo que va como oficio y así se declara: la tabla que separa la gestión técnica del control de
 proceso y de la seguridad, la regla de que supervisa pero no manda, las cuatro razones para
@@ -980,8 +1092,10 @@ programación es del personal cualificado del apartado 4 de la IT 2.3.4; la tabl
 autómata; la elección entre protocolo abierto y propietario, los grupos de protocolos, la
 tendencia hacia la red de datos y el aviso de seguridad; el uso de Modbus en analizadores, SAI y
 grupos y el de KNX en alumbrado; las estrategias de control y el lazo proporcional, integral y
-derivativo; las clases básicas de punto, los puntos típicos del puesto, la reserva de puntos, las
-señales de campo y la ventaja del 4-20 mA, las precauciones de cableado y el método de contraste;
+derivativo; las clases básicas de punto, los puntos típicos del puesto, la reserva de puntos, los usos de cada
+sensor en la gestión técnica, los detectores de presencia, fuga, nivel e intensidad, la lectura de
+que un plató con público entra en el «y similares» del IDA-C6, las fórmulas de escalado (aritmética
+sobre una salida lineal), las señales de campo y la ventaja del 4-20 mA, las precauciones de cableado y el método de contraste;
 los orígenes de alarma, la histéresis y el retardo, las prioridades, la depuración de alarmas, el
 ciclo aparición-reconocimiento-desaparición y la simulación; los usos de los históricos y la
 sincronización de hora; las definiciones de telemedida, telemando y telegestión, sus usos en una

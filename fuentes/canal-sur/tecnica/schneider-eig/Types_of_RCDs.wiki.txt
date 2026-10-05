@@ -1,0 +1,142 @@
+{{Add-ch-menu|F}}__TOC__
+The  fault residual current could take various waveforms depending on the load characteristics. The following types of RCDs are defined in IEC 60755, for suitable protection of different forms of residual current:
+
+== Type AC [[File:DB431079.svg]] ==
+
+Type AC RCDs detect residual sinusoidal alternating currents.  Type AC RCDs are suitable for general use and cover most of the applications in practice. 
+
+== Type A [[File:DB431080.svg]]==
+
+In addition to the detection characteristics of type AC RCDs, Type A RCDs detect pulsating DC residual current. Such waveforms can be caused by diode or thyristor rectifier circuit in electronic loads. Type A RCD are specifically intended to be used for single phase class 1 electronic loads. 
+
+== Type F [[File:DB431081.svg]] ==
+
+Type F RCDs is a new RCD type recently introduced in IEC 62423 and in IEC60755. In addition to the detection characteristics of type A RCDs, type F RCDs are specially designed for circuit protection where single phase variable speed drives could be used. In these circuits, the waveform of residual current could be a composite of multi-frequencies including motor frequency, convertor switching frequency and line frequency. For the reason of energy efficiency, the use of frequency converters in certain loads (washing machine, air conditioner, …) is increasing, and type F RCD will cover those new applications.
+
+Type F also has enhanced disturbance withstand characteristics (non-tripping on surge current). They are capable of tripping even if a pure direct current of 10 mA is superimposed on a sinusoidal or pulsed DC differential current.
+
+== Type B [[File:DB431082.svg]] ==
+
+Type B RCDs can detect sinusoidal AC, pulsating DC, composite of multi-frequency as well as smooth DC residual currents. In addition, tripping conditions are defined with different frequencies from 50Hz to 1kHz. In an AC electrical distribution network, a pure DC residual current can be mainly generated from three-phase rectifying circuits, but also from some specific single phase rectifiers.
+
+Type B RCD are intended to be used for loads with three-phase rectifier, such as variable speed drives, PV system, EV charging station and medical equipment.
+
+{{FigRef|F51}} summarizes the definition of different types of RCD, with their main application and waveforms. It has to be noted that the different types of RCDs (AC, A, F and B) are nested one within the other like Russian dolls: type B, for example, also complies with the requirements of type F, type A and type AC.
+
+{{FigImage|DB431022_EN|svg|F51|﻿Different types of RCDs}}
+
+Annex B of IEC 60755 gives, for different electronic load architectures, the possible load and residual current waveforms, and proposes the suitable types of RCD for each case. (see {{FigRef|F52}})
+
+{{tb-start|id=TAB1172|num=F52|title=Possible fault currents in electronic loads and suitable RCD types - IEC 60755|cols=5}}
+{| class="wikitable"
+|-
+!
+! colspan="2" | Circuit diagram with fault location 
+! Shape of line current I<sub>L</sub>
+! Shape of earth fault current I<sub>F</sub>
+! RCD tripping characteristic
+|-
+| 1 
+| Phase control 
+| [[File:DB431040.svg]]
+| [[File:DB431041.svg]] 
+| [[File:DB431042.svg]]
+| AC, A, F, B
+|-
+| 2 
+| Burst control 
+| [[File:DB431040.svg]]  
+| [[File:DB431043.svg]]
+| [[File:DB431044.svg]]
+| AC, A, F, B
+|-
+| 3 
+| Single-phase 
+| [[File:DB431045.svg]] 
+| [[File:DB431046.svg]]
+| [[File:DB431047.svg]]
+| A, F, B
+|-
+| 4 
+| Two-pulse bridge 
+| [[File:DB431048.svg]]
+| [[File:DB431049.svg]]
+| [[File:DB431053.svg]]
+| A, F, B
+|-
+| 5 
+| Two-pulse bridge, half controlled 
+| [[File:DB431050.svg]]
+| [[File:DB431041.svg]]
+| [[File:DB431051.svg]]
+| A, F, B
+|-
+| 6 
+| Frequency inverter with two-pulse bridge 
+| [[File:DB431052.svg]]
+| [[File:DB431049.svg]]
+| [[File:DB431053.svg]] <br> [[File:DB431054.svg]]
+| F, B
+|-
+| 7 
+| Single-phase with smoothing 
+|  [[File:DB431055.svg]]
+|  [[File:DB431056.svg]]
+|  [[File:DB431057.svg]]
+| B
+|-
+| 8 
+| Frequency inverter with two-pulse bridge and PFC 
+| [[File:DB431058.svg]]
+| [[File:DB431049.svg]]
+| [[File:DB431053.svg]] <br> [[File:DB431059.svg]]
+| B
+|-
+| 9 
+| Two-pulse bridge between phases 
+|  [[File:DB431060.svg]]
+|  [[File:DB431049.svg]]
+|  [[File:DB431061.svg]]
+| B
+|-
+| 10 
+| Frequency inverter with two-pulse bridge between phases 
+|  [[File:DB431062.svg]]
+|  [[File:DB431049.svg]]
+|  [[File:DB431063.svg]] <br> [[File:DB431064.svg]]
+| B
+|-
+| 11 
+| Three-phase star 
+|  [[File:DB431065.svg]]
+|  [[File:DB431066.svg]]
+|  [[File:DB431067.svg]]
+| B
+|-
+| 12 
+| Six-pulse bridge 
+| [[File:DB431068.svg]] 
+| [[File:DB431069.svg]]
+| [[File:DB431067.svg]]
+| B
+|-
+| 13 
+| Frequency inverter with six-pulse bridge 
+|  [[File:DB431070.svg]]
+|  [[File:DB431071.svg]]
+|  [[File:DB431072.svg]] <br> [[File:DB431073.svg]]
+| B
+|}
+
+{{Related-guides-intro}}
+{{RelatedGuide
+|image=Hp-highlight-rcd-guide.jpg
+|title=Earth Fault Protection Guide
+|text=Design efficient earth fault protection with Residual Current Devices (RCD).<br><br>
+Get advice for the selection and implementation of Residual Current Devices according to international series of standards IEC 60364 and based on Schneider Electric best practices.
+|btn-text=Download the guide (.pdf)
+|link=https://www.se.com/ww/en/download/document/CA908066E/
+}}
+
+[[fr:Protection contre les chocs et incendies électriques]]
+[[de:Schutz gegen elektrischen Schlag]]

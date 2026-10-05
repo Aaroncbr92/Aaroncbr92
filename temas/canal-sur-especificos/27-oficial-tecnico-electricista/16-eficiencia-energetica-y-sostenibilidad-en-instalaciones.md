@@ -6,9 +6,9 @@
 | --- | --- |
 | **Bloque** | Temario específico de Oficial Técnico Electricista · punto 16 |
 | **Sirve para** | Puesto 2.27, Oficial Técnico Electricista (grupo B03), y la prueba práctica del puesto |
-| **Fuente** | Real Decreto 390/2021, de certificación de la eficiencia energética de los edificios (reformado por el Real Decreto 659/2025). Real Decreto 56/2016, de auditorías energéticas, y Directiva (UE) 2023/1791, de eficiencia energética. Real Decreto 214/2025, de huella de carbono. Reglamento de Instalaciones Térmicas en los Edificios (Real Decreto 1027/2007): IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5, IT 3.4, IT 3.6, IT 3.7, IT 3.8 e IT 4. Reglamento (UE) 2019/2020, de diseño ecológico de las fuentes luminosas. Real Decreto 1890/2008, de alumbrado exterior (artículo 2). Reglamento de seguridad para instalaciones frigoríficas (Real Decreto 552/2019) y Reglamento (UE) 2024/573, de gases fluorados. Ley 7/2022, de residuos, y Real Decreto 110/2015, de residuos de aparatos eléctricos y electrónicos. Lo demás, oficio |
-| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 05/10/2026, fecha en que se leyeron: el Real Decreto 390/2021 con la reforma del Real Decreto 659/2025, en vigor desde el 23/07/2026; el Real Decreto 214/2025, en vigor desde junio de 2025, que derogó el Real Decreto 163/2014. La Directiva (UE) 2023/1791 y el Reglamento (UE) 2024/573, en su texto publicado en el Diario Oficial de la Unión Europea. El Reglamento (UE) 2019/2020, en la versión consolidada de la Oficina de Publicaciones de 01/09/2021, que no tiene valor jurídico |
-| **Extensión** | Unas 14.650 palabras |
+| **Fuente** | Real Decreto 390/2021, de certificación de la eficiencia energética de los edificios (reformado por el Real Decreto 659/2025). Real Decreto 56/2016, de auditorías energéticas, y Directiva (UE) 2023/1791, de eficiencia energética. Real Decreto 214/2025, de huella de carbono. Reglamento de Instalaciones Térmicas en los Edificios (Real Decreto 1027/2007): IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5, IT 3.4, IT 3.6, IT 3.7, IT 3.8 e IT 4. Reglamento (UE) 2019/1781, de diseño ecológico de motores y variadores, y Reglamento Delegado (UE) 2024/1364, de evaluación de centros de datos. Reglamento (UE) 2019/2020, de diseño ecológico de las fuentes luminosas. Real Decreto 1890/2008, de alumbrado exterior (artículo 2). Reglamento de seguridad para instalaciones frigoríficas (Real Decreto 552/2019) y Reglamento (UE) 2024/573, de gases fluorados. Ley 7/2022, de residuos, y Real Decreto 110/2015, de residuos de aparatos eléctricos y electrónicos. Lo demás, oficio |
+| **Redacción que se estudia** | Las normas del BOE, en la redacción vigente el 05/10/2026, fecha en que se leyeron: el Real Decreto 390/2021 con la reforma del Real Decreto 659/2025, en vigor desde el 23/07/2026; el Real Decreto 214/2025, en vigor desde junio de 2025, que derogó el Real Decreto 163/2014. La Directiva (UE) 2023/1791, el Reglamento Delegado (UE) 2024/1364 y el Reglamento (UE) 2024/573, en su texto publicado en el Diario Oficial de la Unión Europea; el Reglamento (UE) 2019/1781, en su texto publicado con la modificación del Reglamento (UE) 2021/341. El Reglamento (UE) 2019/2020, en la versión consolidada de la Oficina de Publicaciones de 01/09/2021, que no tiene valor jurídico |
+| **Extensión** | Unas 16.500 palabras |
 
 <!-- /portada -->
 
@@ -23,8 +23,12 @@ de alumbrado (**VEEI**); centro de proceso de datos (**CPD**); tecnologías de l
 (**TI**); sistema de alimentación ininterrumpida (**SAI**); sistema de gestión técnica del edificio
 (**BMS**, *building management system*); aparatos eléctricos y electrónicos (**AEE**) y sus residuos
 (**RAEE**); gases de efecto invernadero (**GEI**); dióxido de carbono (**CO2**); potencial de
-calentamiento global (**PCG**); coeficiente de eficiencia frigorífica (**EER**, *energy efficiency
-ratio*); diodo emisor de luz (**LED**) y su versión orgánica (**OLED**); fuente luminosa fluorescente
+calentamiento global (**PCG**); coeficientes de eficiencia energética de una máquina frigorífica en
+refrigeración (**EER**, *energy efficiency ratio*) y en calefacción (**COP**, *coefficient of
+performance*); eficacia en el uso de la energía de un centro de datos (**PUE**, *power usage
+effectiveness*); clases internacionales de eficiencia de motores y variadores (**IE**);
+corriente alterna (**CA**); Comité Europeo de Normalización (**CEN**) y Comité Europeo de
+Normalización Electrotécnica (**CENELEC**); diodo emisor de luz (**LED**) y su versión orgánica (**OLED**); fuente luminosa fluorescente
 (**FL**) y lineal (**LFL**); descarga de alta intensidad (**HID**); fuente luminosa que funciona con
 la red eléctrica (**MLS**, *mains light source*); índice de rendimiento de color (**CRI**, que la
 norma de alumbrado interior escribe **Ra**); medida de la visibilidad estroboscópica (**SVM**) y
@@ -56,7 +60,8 @@ quién tiene que calcular su huella de carbono desde 2025; qué contadores y reg
 a partir de 70 kW y de 20 kW, cuánto tiempo se guardan los consumos y cuándo se exponen al público;
 qué debe saber hacer un sistema de automatización y control y a partir de qué potencia es
 obligatorio; qué mide el mantenedor de una enfriadora y cada cuánto, qué EER mínimo se exige en
-inspección y cada cuántos años se inspecciona; qué requisitos de diseño ecológico cumple una fuente
+inspección y cada cuántos años se inspecciona, y cómo define el RITE el EER y el COP; qué
+clase IE mínima tiene que tener un motor nuevo y desde cuándo; cómo se calcula el PUE de un CPD; qué requisitos de diseño ecológico cumple una fuente
 LED (rendimiento de color, factor de desplazamiento, parpadeo, efecto estroboscópico, vida útil
 L70B50) y qué dice su embalaje; los límites de 21 ºC y 26 ºC y a qué recintos no se aplican; el
 enfriamiento gratuito por encima de 70 kW y la recuperación de calor por encima de 0,28 m³/s; las
@@ -78,7 +83,8 @@ o gestionar los residuos de una reforma de alumbrado y climatización.
   - [2.1 La certificación energética de edificios: finalidad y ámbito](#21-la-certificación-energética-de-edificios-finalidad-y-ámbito)
   - [2.2 Quién certifica, cómo y con qué validez](#22-quién-certifica-cómo-y-con-qué-validez)
   - [2.3 Las auditorías energéticas](#23-las-auditorías-energéticas)
-  - [2.4 Lo que este epígrafe obliga a la casa](#24-lo-que-este-epígrafe-obliga-a-la-casa)
+  - [2.4 Motores y variadores de velocidad](#24-motores-y-variadores-de-velocidad)
+  - [2.5 Lo que este epígrafe obliga a la casa](#25-lo-que-este-epígrafe-obliga-a-la-casa)
 - [3. Monitorización de consumos](#3-monitorización-de-consumos)
   - [3.1 Lo que el RITE obliga a medir y registrar](#31-lo-que-el-rite-obliga-a-medir-y-registrar)
   - [3.2 Seguir los consumos, guardarlos y enseñarlos](#32-seguir-los-consumos-guardarlos-y-enseñarlos)
@@ -177,7 +183,7 @@ Quién está obligado, del artículo 11:
 | 11.2 | Los departamentos ministeriales de la Administración General del Estado, sus organismos autónomos, las entidades gestoras y servicios comunes de la Seguridad Social **«y otras entidades del sector público administrativo estatal»** | Lo mismo, y **«Para el cálculo de la huella de carbono correspondiente al año 2028 y en adelante se incluirá el alcance 3 en los cálculos»** |
 | 11.3 | Los de los dos apartados anteriores | Un plan de reducción con **«como mínimo, un objetivo cuantificado de reducción en un horizonte temporal de al menos cinco años, junto con las medidas para su consecución»** |
 | 11.4 | Los mismos | Publicar gratis en su web la huella y el plan; las empresas lo cumplen en su informe de sostenibilidad |
-| 11.5 | **«Las consejerías de las comunidades autónomas y las diputaciones provinciales»** | **«podrán aplicar, de manera voluntaria»** los apartados 2 y 3 |
+| 11.5 | **«Las consejerías de las comunidades autónomas y las diputaciones provinciales»** | **«podrán aplicar, de manera voluntaria, el apartado 2 y 3 y el artículo 12.3 en relación con sus emisiones de gases de efecto invernadero»** (el artículo 12, en su redacción vigente, sólo tiene dos apartados) |
 | 11.6 | Las empresas del 11.1 | Sus obligaciones de los apartados 1 y 3 **«entrarán en vigor siguiendo el calendario establecido por la Ley 11/2018, de 28 de diciembre, o sus posteriores modificaciones, en función del tipo de organización»** |
 
 Y la inscripción (artículo 12): para las empresas del 11.1 **«será voluntaria»**; las entidades
@@ -402,7 +408,56 @@ como **«autoridades nacionales, regionales o locales y aquellas entidades sin c
 comercial que estén directamente financiadas y administradas por dichas autoridades»** (artículo 2).
 Si la RTVA o CSRTV encajan en esa definición no lo resuelve este tema.
 
-### 2.4 Lo que este epígrafe obliga a la casa
+### 2.4 Motores y variadores de velocidad
+
+Bombas, ventiladores, compresores y torres de refrigeración se mueven con motores eléctricos, y el
+RITE ya obliga a registrar las horas de funcionamiento de **«Las bombas y ventiladores de potencia
+eléctrica del motor mayor que 20 kW»** (epígrafe 3.1). La eficiencia mínima del motor que se compra
+la fija el Reglamento (UE) 2019/1781 de la Comisión, de 1 de octubre de 2019, de diseño ecológico de
+motores eléctricos y variadores de velocidad, modificado por el Reglamento (UE) 2021/341. Su objeto
+(artículo 1): **«El presente Reglamento establece los requisitos de diseño ecológico para la
+introducción en el mercado o la puesta en servicio de los motores eléctricos y los variadores de
+velocidad, incluidos los casos en que se encuentren integrados en otros productos.»**
+
+Se aplica (artículo 2.1) a los motores de inducción **«preparados para funcionar a 50 Hz, 60 Hz o
+50/60 Hz de tensión sinusoidal»** que tengan dos, cuatro, seis u ocho polos, una tensión nominal
+**«superior a 50 V y hasta 1 000 V»** y una potencia nominal **«de entre 0,12 kW y 1 000 kW»**,
+concebidos para servicio continuo y para arrancador directo; y a los variadores de velocidad
+trifásicos concebidos para esos motores, de tensión nominal **«superior a 100 V y hasta 1 000 V
+CA»** y **«una única tensión de salida CA»**. El artículo 2.2 exime a varios tipos de motor, que aquí no se reproducen.
+
+El calendario (anexo I, sección 1, en la redacción del Reglamento (UE) 2021/341):
+
+| Desde | Motores | Nivel mínimo |
+|---|---|---|
+| 1 de julio de 2021 | **«motores trifásicos con una potencia nominal igual o superior a 0,75 kW e igual o inferior a 1 000 kW, con 2, 4, 6 u 8 polos, que no sean motores de seguridad aumentada “Ex eb”»** | IE3 |
+| 1 de julio de 2021 | Trifásicos de 0,12 kW o más y menos de 0,75 kW, de 2 a 8 polos, que no sean «Ex eb» | IE2 |
+| 1 de julio de 2023 | Los de seguridad aumentada «Ex eb» de 0,12 a 1.000 kW, y **«los motores monofásicos con una potencia nominal igual o superior a 0,12 kW»** | IE2 |
+| 1 de julio de 2023 | **«motores trifásicos que no sean motores-freno, motores de seguridad aumentada “Ex eb” u otros motores protegidos contra la explosión, con una potencia nominal igual o superior a 75 kW e igual o inferior a 200 kW, con 2, 4 o 6 polos»** | IE4 |
+
+Las clases IE son niveles de eficiencia mínima que el anexo da en cuadros según la potencia y los
+polos. La documentación del motor tiene que dar, desde el 1 de julio de 2021 para los motores del
+calendario de 2021 y desde el 1 de julio de 2023 para los «Ex eb» y los monofásicos (redacción del
+Reglamento (UE) 2021/341), la **«eficiencia nominal
+(η N) a plena carga, a un 75 % y a un 50 % de la carga y la tensión nominales»** y el **«nivel de
+eficiencia: «IE2», «IE3» o «IE4»»** (anexo I, sección 2, puntos 1 y 2).
+
+Para los variadores (anexo I, sección 3): **«Desde el 1 de julio de 2021, las pérdidas de energía de
+los variadores de velocidad preparados para funcionar con motores con una potencia nominal de salida
+igual o superior a 0,12 kW e igual o inferior a 1 000 kW no superarán las pérdidas de energía máximas
+correspondientes al nivel de eficiencia IE2.»** Y **«Las pérdidas de energía máximas de la clase IE2
+son un 25 % inferiores al valor de referencia que figura en el cuadro 6.»**
+
+Lo que se aplica de oficio, y así se dice: al sustituir el motor de una bomba o de un ventilador de
+climatización de 0,75 kW o más, el nuevo, salvo exención, será por lo menos IE3 (IE4 si es trifásico
+de 75 a 200 kW y de 2, 4 o 6 polos, y no es motor-freno ni está protegido contra la explosión). Y el ahorro grande no está sólo en el motor, sino en cómo se
+regula: en una bomba o un ventilador centrífugo, bajar el caudal reduciendo la velocidad con un
+variador hace que la potencia absorbida baje mucho más que el caudal, mientras que estrangular con
+una válvula o una compuerta deja el motor girando a su velocidad contra una pérdida de carga
+añadida. La relación cuantitativa entre velocidad y potencia no se ha leído en una fuente para este
+tema y no se da.
+
+### 2.5 Lo que este epígrafe obliga a la casa
 
 Las normas puestas contra los edificios de la RTVA y de CSRTV, con lo que se puede afirmar y lo que
 no:
@@ -535,7 +590,47 @@ sistemas de tecnologías de la información (TI) de 500 kW como mínimo»** que 
 información de su anexo VII, y el 12.4 a alentar a los de **«igual o superior a 1 MW»** a seguir el
 código de conducta europeo sobre eficiencia energética de centros de datos. Medir aparte la potencia
 de TI de un CPD (la que sale de los SAI hacia los racks) es la condición para saber si se pasa de
-ese umbral. El contenido del anexo VII y su desarrollo en España no se han leído.
+ese umbral.
+
+Lo que se publica lo fija el anexo VII de la Directiva: el nombre del centro, su propietario y
+operadores, la fecha de inicio de actividad y el municipio (letra a); **«la superficie del centro de
+datos, la potencia instalada, el tráfico de datos entrante y saliente, y la cantidad de datos
+almacenados y tratados en el centro de datos»** (letra b); y (letra c) **«el rendimiento del centro de
+datos durante el último año natural completo, de conformidad con los indicadores clave de
+rendimiento relativos, entre otras cosas, al consumo de energía, la utilización de la electricidad,
+los valores de ajuste de la temperatura, la utilización del calor residual, el uso de agua y el uso
+de energías renovables, cuando proceda, basándose en la norma CEN/CENELEC EN 50600-4 «Tecnologías de
+la información — Instalaciones e infraestructuras del centro de datos», hasta la entrada en vigor del
+acto delegado adoptado con arreglo al artículo 33, apartado 3.»**
+
+Ese acto delegado es el Reglamento Delegado (UE) 2024/1364 de la Comisión, de 14 de marzo de 2024,
+**«relativo a la primera fase del establecimiento de un régimen de evaluación común de la Unión para
+centros de datos»**. Obliga a los operadores de centros de datos con una demanda de potencia de los
+sistemas de TI instalados **«de 500 kW como mínimo»** (artículo 1) a comunicar a una base de datos
+europea, **«A más tardar el 15 de septiembre de 2024, luego a más tardar el 15 de mayo de 2025, y
+posteriormente todos los años»**, los datos del año natural anterior (artículo 3.1). Dos de esos
+datos (anexo II) son medidas de electricista:
+
+- El **«Consumo total de energía («E DC», en kWh)»** del centro, que **«incluye el uso de
+  electricidad, combustibles y otras fuentes de energía utilizadas para la refrigeración»** y se mide
+  **«en el punto de entrada del sistema del centro de datos antes del conmutador de transferencia del
+  suministro»**; la energía de los generadores de reserva se mide aparte.
+- El **«Consumo total de energía de los equipos de tecnologías de la información («E IT», en
+  kWh)»**: **«Los centros de datos medirán el consumo de energía anual combinado en todos los sistemas
+  de alimentación ininterrumpida (SAI) conectados a los equipos de tecnologías de la información del
+  centro de datos.»** En un centro de datos sin SAI, por ejemplo de corriente continua, **«el E IT
+  puede medirse en la unidad de alimentación conectada a los equipos de tecnologías de la información
+  del centro de datos»** o por otra de las vías que da el mismo anexo.
+
+Con los dos se calcula el primer indicador de sostenibilidad del anexo III, letra a), la **«Eficacia
+en el uso de la energía (PUE)»**: PUE = E DC / E IT. El mismo anexo define además la eficacia en el
+uso del agua, el factor de reutilización de la energía y el coeficiente de energía renovable.
+
+Un ejemplo con datos supuestos: un CPD que en un año consume 1.500 MWh en total, de los que 1.000 MWh
+salen de los SAI hacia los equipos de TI, tiene un PUE de 1.500 / 1.000 = 1,5. Leída la fórmula
+(oficio): el PUE no baja de 1, que sería un centro en el que toda la energía llegase a la TI; lo que
+pasa de 1 es climatización, pérdidas de SAI y de transformación, alumbrado y demás servicios. Por eso
+bajarlo es, sobre todo, refrigerar mejor (epígrafe 6) y reducir las pérdidas de los SAI (tema 7).
 
 ## 4. Mantenimiento orientado a eficiencia
 
@@ -579,9 +674,19 @@ Leyenda: **«m: Una vez al mes; la primera al inicio de la temporada; 3 m: Cada 
 primera al inicio de la temporada.»** Once medidas, trimestrales de 70 a 1.000 kW y mensuales por
 encima.
 
-La medida 7 es eléctrica, y la 9 se calcula con ella: el EER es la potencia frigorífica entregada
-dividida por la potencia eléctrica absorbida (definición de oficio del coeficiente que el RITE
-nombra). Un ejemplo con datos supuestos: una enfriadora que, en la lectura trimestral, entrega 300 kW
+La medida 7 es eléctrica, y la 9 se calcula con ella. El apéndice 1 del RITE define, en la entrada
+«Coeficiente de eficiencia energética de una máquina frigorífica», los dos coeficientes:
+
+> «**En la modalidad de calefacción; COP (acrónimo del inglés «Coefficient of Performance») es la
+> relación entre la capacidad calorífica y la potencia efectivamente absorbida por la unidad.**
+>
+> **En la modalidad de refrigeración; EER (acrónimo del inglés «Energy Efficiency Ratio») es la
+> relación entre la capacidad frigorífica y la potencia efectivamente absorbida por la unidad.**»
+>
+> — RITE, apéndice 1 (BOE-A-2007-15820), redacción vigente desde el 01/07/2021
+
+Una bomba de calor que entrega 10 kW de calor absorbiendo 4 kW tiene un COP de 2,5 (datos
+supuestos). Y una enfriadora que, en la lectura trimestral, entrega 300 kW
 de frío absorbiendo 120 kW eléctricos tiene un EER instantáneo de 300 / 120 = 2,5. Si tres meses
 después, con una carga parecida, absorbe 140 kW para el mismo frío, el EER baja a 2,14: es la señal
 de un condensador sucio, de falta de refrigerante o de un problema de caudal, y es lo que el
@@ -612,7 +717,7 @@ Para los sistemas de aire acondicionado y ventilación:
 | Norma válida | **«la inspección realizada conforme a la norma UNE EN 16798-17»** |
 | Bomba de calor | **«Si el sistema de climatización es común para la generación de frío y de calor, como el caso de una bomba de calor, la inspección se realizará según la IT 4.2.2.»** |
 | Cada cuánto (IT 4.3.2) | **«La inspección de eficiencia energética que viene obligada por la IT 4.2.2 se realizará cada 4 años.»** |
-| La instalación completa (IT 4.3.3) | Coincide con la primera inspección del generador una vez superados los quince años, y **«se realizará cada quince años»** |
+| La instalación completa (IT 4.2.3 e IT 4.3.3) | Cuando la instalación **«tenga más de quince años de antigüedad, contados a partir de la fecha de emisión del primer certificado de la instalación, y la potencia térmica nominal instalada sea mayor que 70 kW»**; coincide con la primera inspección del generador una vez superados los quince años, y **«se realizará cada quince años»** |
 | Exención (IT 4.3.4) | Edificios no residenciales con el sistema de automatización y control de la IT 1.2.4.3.5.1, e instalaciones con contrato de rendimiento energético (epígrafe 3.3) |
 
 Dos cifras para no confundir: el EER mínimo de inspección es 2, y la inspección es cada 4 años; el
@@ -857,8 +962,13 @@ La salvedad, que es la que importa en un edificio técnico (IT 3.8.2.3): **«No 
 dichas limitaciones de temperatura aquellos recintos que justifiquen la necesidad de mantener
 condiciones ambientales especiales o dispongan de una normativa específica que así lo establezca. En
 este caso debe existir una separación física entre este recinto con los locales contiguos que vengan
-obligados a mantener las condiciones indicadas en el apartado 1 y 2.»** Una sala de equipos o un CPD
-que necesitan otra temperatura pueden acogerse a ella si lo justifican y están separados
+obligados a mantener las condiciones indicadas en el apartado 1 y 2.»** Otras dos salvedades
+acotan la limitación: **«Las limitaciones anteriores se aplicarán exclusivamente durante el uso,
+explotación y mantenimiento de la instalación térmica, por razones de ahorro de energía, con
+independencia de las condiciones interiores de diseño»** (IT 3.8.2.1, párrafo final); y **«Cuando no
+sea preciso aportar energía para el calentamiento o enfriamiento del aire los valores se regirán
+exclusivamente por criterios de confort según los requisitos de la IT 1.1.4.1.2.»** (IT 3.8.2.2). Una sala de equipos o un CPD
+que necesitan otra temperatura pueden acogerse a la salvedad de la IT 3.8.2.3 si lo justifican y están separados
 físicamente (aplicación de oficio). Y la limitación se entiende **«sin perjuicio de lo establecido
 en el anexo III del Real Decreto 486/1997»**, de lugares de trabajo.
 
@@ -1052,10 +1162,12 @@ normas citadas, con el orden como oficio):
 |---|---|---|
 | Real Decreto 390/2021, de 1 de junio, procedimiento básico para la certificación de la eficiencia energética de los edificios (BOE núm. 131, de 02/06/2021), reformado por el Real Decreto 659/2025, de 22 de julio (BOE núm. 176, de 23/07/2025) | Artículos 1.2, 3, 4 bis, 4 ter, 4 quáter (rúbricas), 6, 7 bis, 8, 13 y 16 | Vigente el 05/10/2026: artículos 3, 6, 4 bis, 4 ter, 4 quáter y 7 bis en la redacción en vigor desde el 23/07/2026; los artículos 1, 8, 13 y 16, en su redacción única |
 | Real Decreto 56/2016, de 12 de febrero, auditorías energéticas (BOE núm. 38, de 13/02/2016) | Artículos 2, 3, 4 y 5 | Vigente el 05/10/2026: artículos 2, 3 y 4 en redacción única; artículo 5 en la redacción vigente desde el 03/06/2021 |
-| Directiva (UE) 2023/1791, de 13 de septiembre de 2023, relativa a la eficiencia energética (DO L 231 de 20/09/2023) | Artículos 2 (definición de organismos públicos), 5.1, 6.1, 11.1, 11.2, 12.1, 12.4, 36.1, 38 y 40 | Texto publicado, no consolidado |
+| Directiva (UE) 2023/1791, de 13 de septiembre de 2023, relativa a la eficiencia energética (DO L 231 de 20/09/2023) | Artículos 2 (definición de organismos públicos), 5.1, 6.1, 11.1, 11.2, 12.1, 12.4, 36.1, 38 y 40; anexo VII | Texto publicado, no consolidado |
+| Reglamento Delegado (UE) 2024/1364 de la Comisión, de 14 de marzo de 2024, régimen de evaluación común de la Unión para centros de datos (DO L de 17/05/2024) | Artículos 1 y 3.1; anexo II, letras d) y e); anexo III, letra a) | Texto publicado; no se le han encontrado actos modificativos |
 | Real Decreto 214/2025, de 18 de marzo, registro de huella de carbono y obligación de cálculo (BOE núm. 89, de 12/04/2025) | Artículos 1, 2, 11 y 12; disposición derogatoria única; disposición final cuarta | Vigente el 05/10/2026: redacción única |
-| Real Decreto 1027/2007, de 20 de julio, Reglamento de Instalaciones Térmicas en los Edificios (BOE núm. 207, de 29/08/2007) | IT 1.2.4.3.5.1, IT 1.2.4.4 (apartados 2 a 8), IT 1.2.4.5.1, IT 1.2.4.5.2.1, IT 1.2.4.5.4, IT 3.2, IT 3.4, IT 3.6.2, IT 3.7, IT 3.8.1 a 3.8.3, IT 4.2.2, IT 4.3.2 a 4.3.4 | Vigente el 05/10/2026: IT 1, IT 3 e IT 4 en la redacción en vigor desde el 01/07/2021 (Real Decreto 178/2021) |
+| Real Decreto 1027/2007, de 20 de julio, Reglamento de Instalaciones Térmicas en los Edificios (BOE núm. 207, de 29/08/2007) | IT 1.2.4.3.5.1, IT 1.2.4.4 (apartados 2 a 8), IT 1.2.4.5.1, IT 1.2.4.5.2.1, IT 1.2.4.5.4, IT 3.2, IT 3.4, IT 3.6.2, IT 3.7, IT 3.8.1 a 3.8.3, IT 4.2.2, IT 4.2.3, IT 4.3.2 a 4.3.4; apéndice 1 (EER y COP) | Vigente el 05/10/2026: IT 1, IT 3, IT 4 y apéndice 1 en la redacción en vigor desde el 01/07/2021 (Real Decreto 178/2021) |
 | Reglamento (UE) 2019/2020 de la Comisión, de 1 de octubre de 2019, diseño ecológico de fuentes luminosas (DO L 315 de 05/12/2019), modificado por el Reglamento (UE) 2021/341 | Artículos 1 y 2; anexo I (definiciones 51, 57 y 60); anexo II, puntos 1.a, 2 y 3.a y 3.b.1; anexo III, puntos 1 y 3 | Versión consolidada de la Oficina de Publicaciones de 01/09/2021, que no tiene valor jurídico |
+| Reglamento (UE) 2019/1781 de la Comisión, de 1 de octubre de 2019, diseño ecológico de motores eléctricos y variadores de velocidad (DO L 272 de 25/10/2019), modificado por el Reglamento (UE) 2021/341 (DO L 68 de 26/02/2021) | Artículos 1 y 2.1; anexo I, secciones 1, 2 (puntos 1 y 2) y 3 | Texto publicado y su modificación, leídos por separado; el Reglamento (UE) 2023/3 sólo corrige la versión alemana |
 | Real Decreto 1890/2008, de 14 de noviembre, Reglamento de eficiencia energética en instalaciones de alumbrado exterior (BOE núm. 279, de 19/11/2008) | Artículo 2.1 y 2.3.c) | Vigente el 05/10/2026: redacción única |
 | Real Decreto 552/2019, de 27 de septiembre, Reglamento de seguridad para instalaciones frigoríficas (BOE núm. 256, de 24/10/2019) | Artículos 12.1.a).4.º, 13.3 y 25; IF-14, 1.2.1 y 1.2.4.2; IF-17, 1.1 y 2.3 | Vigente el 05/10/2026: artículo 12 en la redacción en vigor desde el 04/09/2025; IF-14 en la redacción en vigor desde el 10/05/2025; artículos 13 y 25 e IF-17 en redacción única |
 | Reglamento (UE) 2024/573, de 7 de febrero de 2024, sobre los gases fluorados de efecto invernadero (DO L de 20/02/2024) | Artículos 4.1, 8.1 y 13.3-13.4 | Texto publicado, no consolidado |
@@ -1077,8 +1189,10 @@ el RITE; su texto no se ha leído.
   jurídica) que no constan en ningún documento leído para este tema. Tampoco constan los
   certificados energéticos, auditorías o planes de reducción de la RTVA o de CSRTV.
 - La transposición española de la Directiva 2023/1791: no se ha encontrado en el BOE a 05/10/2026.
-- El anexo VII de la Directiva 2023/1791 (qué publican los centros de datos) y su desarrollo
-  nacional: no leídos.
+- El desarrollo nacional del artículo 12 de la Directiva 2023/1791 (centros de datos), la norma
+  EN 50600-4 y los valores de PUE de los CPD de la casa: no leídos ni constan.
+- Los cuadros de eficiencia mínima por potencia y polos y las exenciones del Reglamento (UE)
+  2019/1781: no se reproducen.
 - La fórmula del factor de mantenimiento del flujo luminoso del Reglamento (UE) 2019/2020 (es una
   expresión que la versión leída da en imagen) y los ensayos de endurancia de su anexo V: no se
   reproducen. Tampoco el etiquetado energético de las fuentes luminosas (Reglamento Delegado (UE)
@@ -1103,13 +1217,15 @@ el RITE; su texto no se ha leído.
 
 | Fuente | Qué se ha tomado | Leída |
 |---|---|---|
-| Real Decreto 390/2021 (BOE-A-2021-9176), BOE consolidado, con la reforma del Real Decreto 659/2025 (BOE-A-2025-15230): artículos 1, 3, 4 bis, 4 ter, 4 quáter, 6, 7 bis, 8, 13 y 16 | Epígrafes 1.1, 2.1, 2.2, 2.4 y 3.4 | 05/10/2026 |
-| Real Decreto 56/2016 (BOE-A-2016-1460), BOE consolidado: artículos 2 a 5 | Epígrafes 2.3, 2.4 y 3.4 | 05/10/2026 |
-| Directiva (UE) 2023/1791, texto en español de la Oficina de Publicaciones (CELEX 32023L1791) | Epígrafes 2.3 y 3.4 | 05/10/2026 (texto descargado por la investigación ese día; preceptos releídos por el redactor) |
+| Real Decreto 390/2021 (BOE-A-2021-9176), BOE consolidado, con la reforma del Real Decreto 659/2025 (BOE-A-2025-15230): artículos 1, 3, 4 bis, 4 ter, 4 quáter, 6, 7 bis, 8, 13 y 16 | Epígrafes 1.1, 2.1, 2.2, 2.5 y 3.4 | 05/10/2026 |
+| Real Decreto 56/2016 (BOE-A-2016-1460), BOE consolidado: artículos 2 a 5 | Epígrafes 2.3, 2.5 y 3.4 | 05/10/2026 |
+| Directiva (UE) 2023/1791, texto en español de la Oficina de Publicaciones (CELEX 32023L1791) | Epígrafes 2.3 y 3.4 (anexo VII, leído en el remate) | 05/10/2026 (texto descargado por la investigación ese día; preceptos releídos por el redactor) |
 | Buscador del BOE por título («2023/1791», «auditorías energéticas», «eficiencia energética», 2023-2026) | Ausencia de transposición (epígrafe 2.3) | 05/10/2026 |
-| Real Decreto 214/2025 (BOE-A-2025-7439), BOE consolidado: artículos 1, 2, 3, 11 y 12, disposición derogatoria única y final cuarta; ficha del Real Decreto 163/2014 (BOE-A-2014-3379) en los datos abiertos del BOE: derogado con efectos desde el 12/06/2025 | Epígrafes 1.1, 1.2 y 2.4 | 05/10/2026 |
-| Ley 39/2015 (BOE-A-2015-10565), artículo 2 | Epígrafe 2.4 | 05/10/2026 |
-| RITE, Real Decreto 1027/2007 (BOE-A-2007-15820), BOE consolidado: IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5, IT 3.2, IT 3.4, IT 3.6, IT 3.7, IT 3.8, IT 4.2.2 e IT 4.3 | Epígrafes 3, 4 y 6 | 05/10/2026 |
+| Reglamento Delegado (UE) 2024/1364, texto en español del DOUE (CELEX 32024R1364, Oficina de Publicaciones); búsqueda de actos modificativos en el servicio de datos de la Oficina, sin resultados | Epígrafe 3.4 | 05/10/2026 |
+| Reglamento (UE) 2019/1781 (CELEX 32019R1781) y Reglamento (UE) 2021/341, anexo II (CELEX 32021R0341), textos en español del DOUE; el servicio de datos de la Oficina de Publicaciones sólo lista además el Reglamento (UE) 2023/3, de corrección de la versión alemana | Epígrafe 2.4 | 05/10/2026 |
+| Real Decreto 214/2025 (BOE-A-2025-7439), BOE consolidado: artículos 1, 2, 3, 11 y 12, disposición derogatoria única y final cuarta; ficha del Real Decreto 163/2014 (BOE-A-2014-3379) en los datos abiertos del BOE: derogado con efectos desde el 12/06/2025 | Epígrafes 1.1, 1.2 y 2.5 | 05/10/2026 |
+| Ley 39/2015 (BOE-A-2015-10565), artículo 2 | Epígrafe 2.5 | 05/10/2026 |
+| RITE, Real Decreto 1027/2007 (BOE-A-2007-15820), BOE consolidado: IT 1.2.4.3.5, IT 1.2.4.4, IT 1.2.4.5, IT 3.2, IT 3.4, IT 3.6, IT 3.7, IT 3.8, IT 4.2.2, IT 4.2.3, IT 4.3 y apéndice 1 | Epígrafes 3, 4 y 6 | 05/10/2026 |
 | Guía técnica de mantenimiento de instalaciones térmicas, ATECYR y AMICYF para el IDAE, Madrid, febrero de 2007 (ISBN 978-84-96680-06-7) | Epígrafe 4.4 | 05/10/2026 |
 | Reglamento (UE) 2019/2020, versión consolidada 02019R2020-20210901 de la Oficina de Publicaciones (publications.europa.eu), que incorpora el Reglamento (UE) 2021/341 y la corrección de errores de 24/02/2020; la ficha del acto no lista consolidaciones posteriores | Epígrafe 5 | 05/10/2026 |
 | Real Decreto 1890/2008 (BOE-A-2008-18634), BOE consolidado: artículo 2 | Epígrafe 5.4 | 05/10/2026 |
@@ -1123,7 +1239,9 @@ el RITE; su texto no se ha leído.
 El resto va como oficio y así se declara: la tabla de normas y sujetos del epígrafe 1.1, la lectura
 de la huella «directa o indirecta» aplicada a la electricidad comprada, la lectura de la exclusión de
 zonas de baja demanda aplicada a salas técnicas y platós, la conversión de terajulios a kWh, la tabla
-de niveles de medida eléctrica, la definición del EER y el ejemplo numérico de la enfriadora, la
+de niveles de medida eléctrica, la lectura de la fórmula del PUE y su ejemplo, la aplicación del
+calendario de motores a una sustitución y la regulación por velocidad frente al estrangulamiento,
+los ejemplos numéricos de la enfriadora y de la bomba de calor, la
 consecuencia de la limitación de puntas en la factura, la tabla de actuaciones de mantenimiento
 orientado a eficiencia, la lectura de que el LED cae en la fila «otras fuentes luminosas», el
 ejemplo de potencia máxima de una lámpara, la distinción entre factor de desplazamiento y factor de
