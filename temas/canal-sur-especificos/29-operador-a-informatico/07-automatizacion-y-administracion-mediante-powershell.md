@@ -8,7 +8,7 @@
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. Documentación oficial de PowerShell en Microsoft Learn, en castellano: artículos conceptuales `about_*`, ayuda de cada cmdlet, el libro introductorio *PowerShell 101* y las páginas de ciclo de vida, instalación y diferencias entre versiones |
 | Redacción que se estudia | PowerShell 7.6 (versión de soporte a largo plazo) y 7.5 (estable), y Windows PowerShell 5.1, integrado en Windows; documentación en línea el 05-10-2026 y leída ese día |
-| Extensión | 15.000 palabras aproximadamente (con los ejemplos de código) |
+| Extensión | 16.200 palabras aproximadamente (con los ejemplos de código) |
 
 <!-- /portada -->
 
@@ -820,7 +820,7 @@ imprimibles, como nueva línea ('n) y tabulación ('t)»** [sic], y lo que se le
 trata como expresión regular: **«El operador Split de PowerShell usa una expresión regular en el
 delimitador, en lugar de un carácter simple.»** En `-join`, sin delimitador **«El valor
 predeterminado es ningún delimitador ("")»**. Una trampa: `-join "a", "b", "c"` no une nada, porque
-**«El operador unario join (-join <string[]>) tiene mayor prioridad que una coma»**; hay que poner
+**«El operador unario join (-join &lt;string[]&gt;) tiene mayor prioridad que una coma»**; hay que poner
 paréntesis.
 
 ### De tipo
@@ -837,7 +837,7 @@ verdadero; `"5" -as [int]` convierte la cadena en entero.
 | `@( )` subexpresión de matriz | **«El resultado siempre es una matriz de 0 o más objetos.»** |
 | `@{ }` | Declara una tabla hash |
 | `&` llamada | Ejecuta un comando, script o bloque de script guardado en una variable o cadena |
-| `&` al final | **«Ejecuta la canalización antes que en segundo plano, en un trabajo de PowerShell»** [sic]; equivale a `Start-Job` |
+| `&` al final | **«Ejecuta la canalización antes que en segundo plano, en un trabajo de PowerShell»** [sic]; equivale a `Start-Job`. No existe en Windows PowerShell 5.1: su `about_Operators` no lo recoge entre los especiales, sólo el `&` de llamada |
 | `.` *dot sourcing* | Ejecuta un script en el ámbito actual |
 | `[ ]` conversión | **«Convierte o limita los objetos al tipo especificado.»** |
 | `,` coma | **«Como operador binario, la coma crea una matriz»**; como unario, una matriz de un elemento (`,1`) |
@@ -1046,8 +1046,33 @@ Lo que se hace con una cadena, con las herramientas ya vistas:
 | Comparar y buscar | Con `-eq`, `-like`, `-match` (sin distinguir mayúsculas salvo con `-c…`) |
 | Sustituir | Con el operador `-replace` (expresión regular) o con el método `Replace()` (texto literal): `'this is rocket science'.Replace('rocket', 'rock')` |
 | Longitud | Con la propiedad `Length`, que **«para una cadena es el número de caracteres de la cadena»** |
-| Otros métodos | Los de la clase `System.String` de .NET, que lista `'texto' \| Get-Member -MemberType Method` |
+| Otros métodos | Los de la clase `System.String` de .NET, que lista `'texto' \| Get-Member -MemberType Method` (los más usados, en la tabla siguiente) |
 | Construir rutas | `Join-Path -Path 'C:\windows' -ChildPath $folder`, que pone bien las barras |
+
+Los métodos de `System.String` más usados, con la descripción de la referencia de .NET (página de
+.NET 9.0, el de PowerShell 7.5). Se llaman con un punto detrás de la cadena o de la variable y
+paréntesis, aunque no lleven argumentos:
+
+| Método | Qué dice la referencia de .NET | Ejemplo |
+|---|---|---|
+| `ToUpper()` | **«Devuelve una copia de esta cadena convertida en mayúsculas.»** | `'abc'.ToUpper()` da `ABC` |
+| `ToLower()` | **«Devuelve una copia de esta cadena convertida en minúsculas.»** | `$nombre.ToLower()` |
+| `Trim()` | **«Quita todos los espacios en blanco iniciales y finales de la cadena actual.»** `TrimStart` y `TrimEnd` lo hacen sólo por el principio o sólo por el final | `'  PC01  '.Trim()` da `PC01` |
+| `Substring()` | Con un argumento, **«Recupera una subcadena de esta instancia. La subcadena comienza en una posición de carácter especificada y continúa hasta el final de la cadena.»**; con dos, la subcadena **«tiene una longitud especificada»** | `'PC01-sede'.Substring(0, 4)` da `PC01` |
+| `Split()` | **«Divide una cadena en subcadenas en función de los caracteres delimitadores especificados.»** | `'a,b,c'.Split(',')` |
+| `Contains()` | **«Devuelve un valor que indica si se produce una subcadena especificada dentro de esta cadena.»** | `$ruta.Contains('Temp')` |
+| `StartsWith()` / `EndsWith()` | **«Determina si el principio de esta instancia de cadena coincide con la cadena especificada.»** (y el final, `EndsWith`) | `$f.EndsWith('.log')` |
+| `IndexOf()` | **«Informa del índice de base cero de la primera aparición de la cadena especificada en esta instancia.»** | `'C:\Datos'.IndexOf('\')` da `2` |
+| `Replace()` | **«reemplaza una subcadena por otra subcadena en la instancia actual String»** | El de la tabla anterior |
+
+Dos advertencias de la misma referencia. La primera: **«Todos los métodos de modificación de cadenas
+devuelven un nuevo String objeto. No modifican el valor de la instancia actual.»** [sic]; para
+conservar el resultado hay que asignarlo (`$nombre = $nombre.ToUpper()`). La segunda: `Contains`,
+`Replace` y `Split` son **«Métodos que usan la comparación ordinal de forma predeterminada»**, y
+**«una comparación ordinal depende únicamente del valor binario de los caracteres comparados»**, así
+que distingue mayúsculas de minúsculas; los operadores de comparación de PowerShell (`-eq`, `-like`, `-match`), en cambio, no distinguen
+mayúsculas salvo en su forma `-c…`. Y `Split()` parte por los caracteres que se le dan, mientras que
+`-split` y `-replace` toman el delimitador o el patrón como expresión regular (epígrafes 4 y 7).
 
 Una cadena no se modifica: cada concatenación crea otra nueva. La guía de Microsoft lo explica con un
 bucle que añade diez mil números a una cadena: **«cada vez que se agrega una cadena a $message que se
@@ -1359,7 +1384,7 @@ posteriores.»** Otras reglas:
 - Sin parámetros, la comparación es exacta y sin distinguir mayúsculas. Los parámetros cambian el
   modo: `-Wildcard` (comodines), `-Regex` (expresiones regulares; deja disponible `$Matches`),
   `-Exact`, `-CaseSensitive` y `-File`, que **«toma la entrada de un archivo en lugar de un
-  <test-expression>. El archivo se lee una línea a la vez y se evalúa mediante la instrucción
+  &lt;test-expression&gt;. El archivo se lee una línea a la vez y se evalúa mediante la instrucción
   switch.»**
 
 ### for
@@ -1394,7 +1419,7 @@ foreach ($file in Get-ChildItem) {
 }
 ```
 
-**«PowerShell crea la variable $<item> automáticamente cuando se ejecuta el bucle foreach. Al
+**«PowerShell crea la variable $&lt;item&gt; automáticamente cuando se ejecuta el bucle foreach. Al
 principio de cada iteración, foreach establece la variable de elemento en el siguiente valor de la
 colección.»** No hay que confundir la instrucción `foreach (… in …)` con el cmdlet `ForEach-Object`,
 que trabaja dentro de una tubería con `$_`, aunque `foreach` sea también alias de ese cmdlet; a la
@@ -1493,6 +1518,7 @@ FileSystem, un elemento es un fichero o una carpeta.
 | Tarea | Cmdlet | Alias (todas las plataformas / sólo Windows) | Qué dice Microsoft |
 |---|---|---|---|
 | Listar | `Get-ChildItem` | `dir`, `gci` / `ls` | **«Obtiene los elementos y elementos secundarios de una o varias ubicaciones especificadas.»** |
+| Obtener un elemento (no su contenido) | `Get-Item` | `gi` | **«El cmdlet Get-Item obtiene el elemento en la ubicación especificada. No obtiene el contenido del elemento en la ubicación específica a menos que use un carácter comodín (\*) para solicitar todos los contenidos del elemento.»** |
 | Cambiar de carpeta | `Set-Location` | `cd`, `chdir`, `sl` | — |
 | Crear | `New-Item` | `ni` | **«Crea un nuevo elemento.»** |
 | Copiar | `Copy-Item` | `copy`, `cpi` / `cp` | **«Este cmdlet no corta ni elimina los elementos que se copian.»** |
@@ -1503,6 +1529,8 @@ FileSystem, un elemento es un fichero o una carpeta.
 | Leer | `Get-Content` | `gc`, `type` / `cat` | — |
 | Escribir (reemplaza) | `Set-Content` | — | **«Escribe contenido nuevo o reemplaza el contenido existente en un archivo.»** |
 | Añadir | `Add-Content` | `ac` (Windows) | **«anexa contenido a un elemento o archivo especificados»** |
+| Vaciar | `Clear-Content` | `clc` | **«elimina el contenido de un elemento, como eliminar el texto de un archivo, pero no elimina el elemento. Como resultado, el elemento existe, pero está vacío.»** |
+| Leer un CSV como objetos | `Import-Csv` | `ipcsv` | **«crea objetos personalizados similares a tablas a partir de los elementos de archivos CSV»** |
 | Buscar texto | `Select-String` | `sls` | **«Puede usar Select-String de forma similar a grep en Unix o findstr.exe en Windows.»** |
 
 ### Listar: Get-ChildItem
@@ -1548,9 +1576,19 @@ Lo que distingue a cada uno:
   proveedor tiene dos clases de elemento. Con `-Force`, sobre una carpeta que ya existe **«no
   sobrescribirá ni reemplazará la carpeta. Simplemente devolverá el objeto de carpeta existente. Sin
   embargo, si usa New-Item -Force en un archivo que ya existe, el archivo se sobrescribe.»**
-- *Copy-Item* falla si el destino existe, salvo con `-Force`, que **«funciona aunque el destino sea
-  de solo lectura»**; para copiar una carpeta con su contenido hace falta `-Recurse`. Puede copiar y
-  renombrar en la misma orden, dando el nombre nuevo en `-Destination`.
+- *Copy-Item*, cuando el fichero de destino ya existe: Microsoft se contradice. La página «Trabajar
+  con archivos y carpetas» dice que **«Si el archivo de destino ya existe, se produce un error en el
+  intento de copia. Para sobrescribir un destino preexistente, use el parámetro Force»**, y que con
+  `-Force` el comando **«funciona aunque el destino sea de solo lectura»**. La ayuda del propio cmdlet,
+  en cambio, enseña en dos ejemplos sin `-Force` que los ficheros del mismo nombre se sobrescriben
+  (ejemplo 2: **«sobrescribiendo los archivos con el mismo nombre»**; ejemplo 12: **«Observe que los
+  archivos con el mismo nombre se sobrescriben en la carpeta de destino.»**), y define `-Force` así:
+  **«copia elementos que no se pueden cambiar de otro modo, como copiar en un archivo o alias de solo
+  lectura»**. Lo que las dos fuentes comparten es que `-Force` sirve para escribir sobre un destino de
+  sólo lectura; ante una pregunta sobre un destino normal que ya existe, la ayuda del cmdlet es la
+  que describe el cmdlet y muestra la sobrescritura. Para copiar una carpeta con su contenido hace
+  falta `-Recurse`. Puede copiar y renombrar en la misma orden, dando el nombre nuevo en
+  `-Destination`.
 - *Move-Item* mueve **«incluidas sus propiedades, contenido y elementos secundarios»**, y por eso
   **«todos los movimientos son recursivos de forma predeterminada»**. Mueve ficheros entre unidades
   del mismo proveedor, pero **«solo moverá directorios dentro de la misma unidad»**. Si el nombre de
@@ -1597,10 +1635,26 @@ anexa contenido a un archivo.»** Los dos aceptan el texto por `-Value` o por tu
 Set-Content -Path .\equipos.txt -Value "PC01"
 Add-Content -Path .\equipos.txt -Value "PC02"
 Get-Service | Export-Csv -Path .\servicios.csv
+Clear-Content -Path .\app.log                 # el fichero queda, vacío
 ```
 
 `Out-File` y `>` también escriben, pero lo que guardan es la vista de pantalla (epígrafe 9); `Set-Content`
 escribe cadenas; `Export-Csv` escribe los objetos como filas de valores separados.
+
+El camino de vuelta es `Import-Csv`: **«Cada columna del archivo CSV se convierte en una propiedad del
+objeto personalizado y los elementos de las filas se convierten en los valores de propiedad.»** y
+**«Import-Csv funciona en cualquier archivo CSV, incluidos los archivos generados por el cmdlet
+Export-Csv.»** La primera fila da los nombres de las columnas, salvo que se indiquen con `-Header`.
+El ejemplo de Microsoft exporta los procesos y los vuelve a leer como objetos:
+
+```powershell
+Get-Process | Export-Csv -Path .\Processes.csv
+$P = Import-Csv -Path .\Processes.csv
+$P | Get-Member
+```
+
+Para borrar el texto de un fichero sin borrar el fichero está `Clear-Content`; en ficheros de sólo
+lectura, **«El parámetro Force hace que el comando sea eficaz en los archivos de solo lectura.»**
 
 ### Buscar dentro de ficheros
 
@@ -1682,7 +1736,8 @@ el registro anotaría igualmente «Borrado»).
 ## Trazabilidad
 
 Todas las páginas son de Microsoft Learn en castellano (learn.microsoft.com/es-es/powershell/…),
-versión PowerShell 7.x salvo donde se indica, leídas el 05-10-2026.
+versión PowerShell 7.x salvo donde se indica, leídas el 05-10-2026; las añadidas en el remate (las dos
+últimas filas y los cmdlets que lo indican), el 06-10-2026.
 
 | Fuente | Qué sostiene |
 |---|---|
@@ -1703,7 +1758,9 @@ versión PowerShell 7.x salvo donde se indica, leídas el 05-10-2026.
 | `about_Pipelines`; ayuda de `Where-Object`, `ForEach-Object`, `Select-Object`, `Sort-Object`, `Measure-Object`, `Group-Object`, `Format-Table`, `Get-Member`, `Export-Csv` | Canalización, enlace de parámetros, cmdlets de utilidad y sus alias |
 | `about_Redirection`; ayuda de `Out-File` y `Tee-Object` | Flujos, operadores, codificación, confusión con `>` |
 | `about_If`, `about_Switch`, `about_For`, `about_Foreach`, `about_While`, `about_Do`, `about_Break`, `about_Continue`, `about_Try_Catch_Finally` | Estructuras de control |
-| «Trabajar con archivos y carpetas» (scripting/samples/working-with-files-and-folders); ayuda de `Get-ChildItem`, `New-Item`, `Copy-Item`, `Move-Item`, `Rename-Item`, `Remove-Item`, `Test-Path`, `Get-Content`, `Set-Content`, `Add-Content`, `Select-String`, `Set-Location`, `Get-Command` | Gestión de ficheros, parámetros y alias |
+| «Trabajar con archivos y carpetas» (scripting/samples/working-with-files-and-folders); ayuda de `Get-ChildItem`, `New-Item`, `Copy-Item`, `Move-Item`, `Rename-Item`, `Remove-Item`, `Test-Path`, `Get-Content`, `Set-Content`, `Add-Content`, `Select-String`, `Set-Location`, `Get-Command`; y, leídas el 06-10-2026, `Get-Item`, `Clear-Content` e `Import-Csv` | Gestión de ficheros, parámetros y alias; la contradicción sobre `Copy-Item` y un destino existente (página de muestras frente a los ejemplos 2 y 12 y el parámetro `-Force` de la ayuda del cmdlet) |
+| `about_Operators` en su versión para Windows PowerShell 5.1 (view=powershell-5.1), leída el 06-10-2026 | Que el operador `&` en segundo plano no existe en 5.1 |
+| Referencia de la clase `System.String` de .NET (learn.microsoft.com/es-es/dotnet/api/system.string, .NET 9.0), leída el 06-10-2026 | Métodos `ToUpper`, `ToLower`, `Trim`, `Substring`, `Split`, `Contains`, `StartsWith`, `EndsWith`, `IndexOf`, `Replace`; que no modifican la cadena; comparación ordinal por defecto |
 
 La traducción automática de Microsoft trae erratas (palabras pegadas, artículos sueltos, «Pestaña»
 por tabulación); se citan tal cual con [sic]. Microsoft traduce *array* por «matriz», *pipeline* por
@@ -1717,5 +1774,5 @@ y `1 + "2"` suma (aplicación de la regla del tipo más a la izquierda); los eje
 nombres en castellano (`equipos.txt`, `informe.txt`) y el script de aplicación práctica, que no se ha
 ejecutado. Son también propios los ejemplos de una línea que el tema no atribuye a Microsoft (por
 ejemplo `12 -is [int]`, `(1..10).Where(…)`, `Get-Process notepad && Stop-Process -Name notepad` o las
-órdenes sobre `C:\Datos` y `app.log`); los que presenta como de Microsoft, oficiales o de la
+órdenes sobre `C:\Datos` y `app.log`, y los de la columna «Ejemplo» de los métodos de cadena); los que presenta como de Microsoft, oficiales o de la
 documentación lo son.

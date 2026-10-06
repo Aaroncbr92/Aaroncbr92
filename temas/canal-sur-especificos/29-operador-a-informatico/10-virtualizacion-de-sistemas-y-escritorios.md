@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 10 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Publicaciones especiales del Instituto Nacional de Normas y Tecnología de los Estados Unidos (NIST SP 800-125, de enero de 2011, sobre virtualización completa, y NIST SP 800-145, de septiembre de 2011, definición de computación en la nube); documentación de Microsoft Learn (Hyper-V, Escritorio remoto, Servicios de Escritorio remoto, Azure Virtual Desktop, Windows 365, App-V, App Attach, FSLogix, Azure Local, contenedores, responsabilidad compartida); manual de Oracle VirtualBox; página del proyecto KVM; documentación de Docker, de Amazon WorkSpaces y de Citrix. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día; las dos publicaciones del NIST, en su versión final |
-| Extensión | 11.500 palabras aproximadamente (con tablas y órdenes) |
+| Fuente | Sin norma jurídica. Publicaciones especiales del Instituto Nacional de Normas y Tecnología de los Estados Unidos (NIST SP 800-125, de enero de 2011, sobre virtualización completa, y NIST SP 800-145, de septiembre de 2011, definición de computación en la nube); documentación de Microsoft Learn (Hyper-V, Escritorio remoto, Servicios de Escritorio remoto, Azure Virtual Desktop, Windows 365, App-V, App Attach, FSLogix, Azure Local, contenedores, responsabilidad compartida); manual de Oracle VirtualBox; página del proyecto KVM; documentación de Docker, de Amazon WorkSpaces y de Citrix; páginas del proyecto Xen, de Red Hat, de IBM, de Amazon Web Services y de la arquitectura de Omnissa Horizon 8 (ejemplos de hipervisor, cliente ligero, protocolos de visualización y DaaS). Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día (las añadidas en el remate, el 06-10-2026); las dos publicaciones del NIST, en su versión final |
+| Extensión | 12.400 palabras aproximadamente (con tablas y órdenes) |
 
 <!-- /portada -->
 
@@ -40,7 +40,10 @@ infrastructure*); Azure Virtual Desktop (AVD); virtualización de aplicaciones d
 *Microsoft Desktop Optimization Pack*); formato de paquete de aplicaciones MSIX, nombre de producto;
 disco duro virtual (VHD y su versión VHDX); bloque de mensajes del servidor (SMB), protocolo de
 carpetas compartidas; software, plataforma e infraestructura como servicio (SaaS, PaaS e IaaS);
-centro de proceso de datos (CPD); interfaz de programación de aplicaciones (API). *On-premise* (en
+centro de proceso de datos (CPD); interfaz de programación de aplicaciones (API); escritorio como
+servicio (DaaS, *desktop as a service*); arquitectura informática independiente (ICA, *Independent
+Computing Architecture*), la de Citrix; HDX, Blast y PCoIP, nombres de protocolo o tecnología de
+Citrix y de Omnissa; ESXi, nombre de producto de VMware; International Business Machines (IBM), la empresa. *On-premise* (en
 las instalaciones, local) y *cloud* (nube) se usan como los usa el enunciado.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.29, punto 10): «Virtualización de
@@ -49,7 +52,8 @@ las instalaciones, local) y *cloud* (nube) se usan como los usa el enunciado.
 > despliegue on-premise, cloud e híbridos.»
 
 Qué se puede preguntar: qué es virtualizar y qué es un hipervisor; qué distingue un hipervisor de
-tipo 1 (nativo, *bare metal*) de uno de tipo 2 (alojado) y de qué tipo son Hyper-V y VirtualBox;
+tipo 1 (nativo, *bare metal*) de uno de tipo 2 (alojado) y de qué tipo son Hyper-V, VirtualBox,
+Xen, VMware ESXi y VMware Workstation;
 qué ventajas e inconvenientes tiene la virtualización; qué exige el procesador para Hyper-V, en qué
 ediciones de Windows 11 se puede activar y con qué orden; qué es un punto de control y qué
 diferencia el estándar del de producción; qué es KVM en Linux; qué separa una máquina virtual de un
@@ -58,7 +62,8 @@ recibir conexiones, qué es la NLA y con qué cliente se conecta uno; qué roles
 sesión, host de virtualización, agente de conexión, acceso web, puerta de enlace, licencias) y por
 qué puerto sale la puerta de enlace; qué distingue el escritorio basado en sesión de la VDI
 agrupada y de la personal; qué son un PC en la nube (Windows 365), Azure Virtual Desktop, un grupo
-de hosts y un área de trabajo; qué es RemoteApp, qué fue App-V y qué es App Attach; qué hace
+de hosts y un área de trabajo; qué es un cliente ligero; qué protocolo de visualización usa cada
+fabricante (RDP, HDX/ICA, Blast, PCoIP); qué es el DaaS; qué es RemoteApp, qué fue App-V y qué es App Attach; qué hace
 FSLogix; qué es el KVM sobre IP; cómo define el NIST la nube, sus cinco características, sus tres
 modelos de servicio y sus cuatro de despliegue; qué es una nube híbrida; y qué responsabilidades
 conserva el cliente en cada modelo. En la aplicación práctica: activar Hyper-V y crear un punto de
@@ -187,6 +192,10 @@ Los inconvenientes, que el tribunal también puede pedir, los da el NIST:
 - Compartir es cómodo y peligroso: **«some virtualization systems make it easy to share information
   between the systems; this convenience can turn out to be an attack vector if it is not carefully
   controlled.»**
+- Entornos que cambian deprisa: **«In some cases, virtualized environments are quite dynamic, which
+  makes creating and maintaining the necessary security boundaries more complex.»** (en algunos
+  casos, los entornos virtualizados son muy dinámicos, y eso complica crear y mantener los límites
+  de seguridad necesarios).
 
 A eso se suma, como oficio, que el anfitrión se convierte en un punto único de fallo: si cae, caen
 todos sus invitados, salvo que haya un clúster que los arranque en otro (lo que Microsoft llama
@@ -218,6 +227,22 @@ lo que proporciona un rendimiento casi nativo y un aislamiento sólido para carg
 virtualizadas.»** La página de Microsoft que lo dice se aplica a Windows Server y también a
 Windows 10 y 11, y no hace distingo: Hyper-V es de tipo 1 también cuando se activa en un Windows de
 escritorio.
+
+Los ejemplos de cada tipo fuera de Microsoft, que son la pregunta de test más previsible, con la
+fuente que los clasifica:
+
+| Producto | Tipo | Quién lo dice |
+|---|---|---|
+| Xen (proyecto Xen) | 1 | El propio proyecto: **«The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor»** |
+| VMware ESXi | 1 | IBM: **«VMware ESXi (Elastic Sky X Integrated) is a type 1 (or bare-metal) hypervisor targeting server virtualization in the data center.»** |
+| KVM, Hyper-V y VMware vSphere | 1 | Red Hat: **«KVM, Microsoft Hyper-V, and VMware vSphere are examples of a type 1 hypervisor.»** |
+| VMware Workstation y Oracle VirtualBox | 2 | Red Hat: **«VMware Workstation and Oracle VirtualBox are examples of a type 2 hypervisor.»** |
+
+Xen tiene un rasgo propio: encima del hipervisor arranca una primera máquina con privilegios, el
+dominio 0, que maneja los dispositivos: **«A special domain, called domain 0 contains the drivers for
+all the devices in the system.»** Las demás máquinas, sin acceso al hardware, se llaman por eso
+**«unprivileged domain (or DomU)»**. Y el proyecto se atribuye la paravirtualización: **«PV is a
+software virtualization technique originally introduced by the Xen Project»**.
 
 Cómo se elige, según el NIST:
 
@@ -357,7 +382,11 @@ Con él, **«one can run multiple virtual machines running unmodified Linux or W
 núcleo está en Linux desde la versión 2.6.20, y el de espacio de usuario, en QEMU desde la 1.3).
 
 Igual que Hyper-V, exige que el procesador traiga Intel VT o AMD-V. La página del proyecto no lo
-clasifica como tipo 1 ni como tipo 2, y este tema tampoco lo hace.
+clasifica como tipo 1 ni como tipo 2, y las fuentes de fabricante no coinciden: Red Hat lo pone entre
+los de tipo 1 (tabla de ejemplos, más arriba); Amazon lo llama híbrido, aunque más cerca del tipo 1:
+**«a kernel-based virtual machine (KVM) is considered a hybrid hypervisor, although it leans towards a
+type 1 hypervisor.»** En un test, si la opción «tipo 1» está y la de «híbrido» no, es la que
+sostiene Red Hat.
 
 No hay que confundirlo con el KVM sobre IP, que es un conmutador de teclado, vídeo y ratón y no
 virtualiza nada (epígrafe 2).
@@ -591,9 +620,9 @@ virtualización de escritorio local que describe el NIST (**«Desktop virtualiza
 access both OSs simultaneously on one computer.»**) y la que Microsoft ofrece en el escritorio:
 **«Hyper-V en Windows proporciona a los profesionales de TI y a los desarrolladores una solución
 ligera adecuada para escenarios de desarrollo y pruebas.»**, con **«Creación rápida para la
-configuración simplificada de máquinas virtuales»** en Windows 11. El nombre viene de un producto
-antiguo que el NIST cita como ejemplo de emulación (**«early versions of VirtualPC allowed users to
-run the Microsoft Windows OS on the PowerPC processor»**); que el enunciado lo use en este sentido es
+configuración simplificada de máquinas virtuales»** en Windows 11. El NIST cita un producto
+antiguo con ese nombre, VirtualPC, como ejemplo de emulación (**«early versions of VirtualPC allowed
+users to run the Microsoft Windows OS on the PowerPC processor»**); que el enunciado lo use en este sentido es
 interpretación del tema.
 
 Un caso particular de esta lectura es el Espacio aislado de Windows: **«Espacio aislado de Windows
@@ -704,6 +733,28 @@ El mismo modelo lo ofrecen otros proveedores con sus nombres. Amazon, por ejempl
 WorkSpaces enables you to provision virtual, cloud-based desktops known as WorkSpaces for your
 users.»**, con escritorios persistentes (**«WorkSpaces Personal»**) o no persistentes (**«WorkSpaces
 Pool»**).
+
+El dispositivo con el que el usuario ve el escritorio virtual puede ser un PC corriente, una tableta o
+un cliente ligero (*thin client*). Amazon lo define así: **«Thin clients are end-user terminals
+designed specifically for VDI.»** (terminales de usuario hechos expresamente para la VDI). IBM lo
+presenta como la opción barata: **«The user's endpoint can be a relatively inexpensive thin client or
+a mobile device.»**, y añade que el usuario no se conecta al hipervisor, sino a un agente de conexión:
+**«Users don't connect to the hypervisor directly. Instead, they access a connection broker that
+coordinates with the hypervisor to source an appropriate virtual desktop from the pool.»** El NIST
+usa la palabra en sentido más amplio, para cualquier cliente que sólo presenta lo que corre en el
+servidor (**«a thin client interface, such as a web browser»**). Windows 365 Link, citado en el PC
+virtual, es un dispositivo de este tipo para un servicio concreto.
+
+Cada fabricante de escritorios virtuales lleva su propio protocolo de visualización remota, el que
+transporta pantalla, teclado y ratón entre el escritorio y el dispositivo:
+
+| Protocolo | Fabricante | Qué dice la fuente |
+|---|---|---|
+| RDP | Microsoft | El de Escritorio remoto y RDS (epígrafe 2) |
+| HDX, sobre ICA | Citrix (Citrix Virtual Apps and Desktops) | **«Citrix HDX represents a broad set of technologies that deliver a high-definition experience to users of centralized applications and desktops, on any device and over any network.»** La conexión se abre con un fichero **«Independent Computing Architecture (ICA)»** y va **«between the device and the ICA stack»** del escritorio. Con el transporte adaptable, que prefiere el protocolo EDT (*Enlightened Data Transport*), sobre UDP, y cae a TCP si no puede, en las conexiones internas el host de sesión debe admitir tráfico entrante por UDP en los puertos **«2598»** (con fiabilidad de sesión), **«1494»** (sin ella) y **«443»** (HDX Direct o conexión cifrada) |
+| Blast y PCoIP (además de RDP) | Omnissa (Horizon 8) | **«Horizon is a multi-protocol solution. Three remoting protocols are available when creating desktop pools or RDSH-published applications: Blast, PCoIP, and RDP.»** De Blast: admite varios códecs, **«both TCP and UDP»**, y codificación por hardware en una GPU virtual de un fabricante de tarjetas gráficas |
+
+Ninguno es norma: son protocolos de fabricante, cada uno documentado por quien lo hace.
 
 ### Virtualización de aplicaciones
 
@@ -853,6 +904,20 @@ La clasificación de Azure Virtual Desktop en uno de los tres modelos del NIST n
 las páginas leídas; por lo que deja al cliente (imagen y máquinas), queda entre IaaS y PaaS, y así se
 dice como interpretación del tema.
 
+En el sector circula además un término que no es del NIST: escritorio como servicio (DaaS). IBM lo define como escritorios completos servidos desde la nube: **«Known as desktop
+as a service (DaaS), this technology delivers complete desktop virtualization environments,
+including operating systems, applications, files and user preferences from the cloud.»** Amazon lo
+usa en un sentido más estrecho, el de un tercero que monta y administra la VDI del cliente: **«DaaS
+providers offer a turn-key solution, deploying the fully managed service for your organization and
+also taking over administration responsibilities»**, y distingue de ello su propio Amazon WorkSpaces,
+que llama **«fully managed virtual desktop solution»**. Citrix lo lleva en el nombre de su servicio
+en la nube, Citrix DaaS, que puede gestionar a la vez máquinas en nubes públicas y en hipervisores
+propios: **«Citrix DaaS allows you to manage on-premises data center and public cloud workloads
+together in a hybrid deployment.»** Microsoft, en las páginas leídas, no usa el término para Windows
+365 (lo llama SaaS) ni para Azure Virtual Desktop. En un test, «escritorio virtual completo,
+servido y gestionado por un proveedor desde la nube» es DaaS; entre los tres modelos
+del NIST, no existe.
+
 Quién responde de qué en la nube (matriz de Microsoft, resumida):
 
 | Área | Local | IaaS | PaaS | SaaS |
@@ -944,9 +1009,11 @@ Cómo se razona, con lo del tema:
 
 - La infraestructura real de la RTVA y de CSRTV (si usa virtualización de escritorios, con qué
   producto, en el CPD propio o en la nube, qué hipervisor): no consta en ningún documento publicado.
-- VMware (vSphere, ESXi, Workstation) y Omnissa Horizon: no se ha leído su documentación (la de
-  Omnissa no se pudo descargar en texto). El tema sólo los nombra donde los cita Microsoft. Tampoco
-  se dan Citrix Virtual Apps and Desktops en detalle ni Proxmox o Xen.
+- VMware (vSphere, ESXi, Workstation) y Omnissa Horizon por dentro: no se ha podido leer la
+  documentación de Broadcom (no se descarga en texto). El tema da su clasificación como hipervisores
+  con IBM y Red Hat, y de Horizon sólo sus protocolos, con la arquitectura de referencia de Omnissa.
+  Tampoco se dan Citrix Virtual Apps and Desktops en detalle, Xen más allá de su tipo y su dominio 0,
+  ni Proxmox. El «cliente cero» (*zero client*) no aparece en las fuentes leídas.
 - Las herramientas de gestión de KVM (QEMU en detalle, libvirt, `virsh`, `virt-manager`): no se han
   leído en fuente.
 - Una definición de norma de «PC virtual» y de «workspace virtual»: no existe en las fuentes leídas;
@@ -996,6 +1063,19 @@ actualización que muestra cada página va entre paréntesis.
 | Microsoft Learn, «Responsabilidad compartida en la nube» (2026-08-24) | IaaS, PaaS, SaaS, matriz de responsabilidades, responsabilidades que se conservan, riesgos de lo local |
 | Amazon Web Services, «What is Amazon WorkSpaces?» | WorkSpaces, Personal y Pools |
 | Citrix, «Citrix StoreFront Cloud Overview» (2026-06-22; a la que redirige la dirección de Citrix Workspace) | Acceso único a aplicaciones y escritorios virtuales |
+
+Añadidas en el remate, leídas el 06-10-2026:
+
+| Fuente | Qué sostiene |
+|---|---|
+| Xen Project Wiki, «Xen Project Software Overview» (2024-02-13) | Xen de tipo 1, dominio 0 y DomU, paravirtualización |
+| Red Hat, «What is a hypervisor?» (2023-01-03) | Ejemplos de tipo 1 (KVM, Hyper-V, vSphere) y de tipo 2 (VMware Workstation, VirtualBox) |
+| IBM Think, «What are hypervisors?» | ESXi de tipo 1, cliente ligero, agente de conexión, DaaS |
+| Amazon Web Services, «What is a hypervisor?» | KVM como hipervisor híbrido |
+| Amazon Web Services, «What is VDI?» | Cliente ligero, VDI totalmente gestionada frente a DaaS |
+| Citrix, «HDX» (2025-09-06), «Technical overview» (2026-04-22) y «Adaptive transport» (2025-09-15) | HDX, fichero y pila ICA, transporte EDT y puertos |
+| Citrix, «Overview · Citrix DaaS» (2026-06-24) | Citrix DaaS, despliegue híbrido |
+| Omnissa Tech Zone, «Horizon 8 architecture» (revisión de 2026-06-24) | Blast, PCoIP y RDP en Horizon |
 
 Cinco pasajes técnicos proceden de otro temario y se dan como oficio, sin norma ni fabricante
 que los sostenga: la definición de virtualización en una línea, la tabla de tipos de

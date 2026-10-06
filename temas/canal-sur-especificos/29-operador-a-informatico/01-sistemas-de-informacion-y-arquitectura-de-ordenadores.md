@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 1 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Manual universitario abierto D. Bourgeois et al., *Information Systems for Business and Beyond* (2019); J. von Neumann, *First Draft of a Report on the EDVAC* (1945); documentación de Microsoft Learn (requisitos de Windows 11, ciclo de vida de Windows 10, equipos Copilot+); USB Implementers Forum; Intel (ley de Moore y Thunderbolt 5); NVM Express. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día |
-| Extensión | 7.300 palabras aproximadamente |
+| Fuente | Sin norma jurídica. Manual universitario abierto D. Bourgeois et al., *Information Systems for Business and Beyond* (2019); J. von Neumann, *First Draft of a Report on the EDVAC* (1945); documentación de Microsoft Learn (requisitos de Windows 11, ciclo de vida de Windows 10, equipos Copilot+); USB Implementers Forum; Intel (ley de Moore y Thunderbolt 5); NVM Express; apuntes de *Estructura de Computadores* de la Universidad Complutense de Madrid; notas *Computation Structures* del MIT; glosario de Arm; hoja de datos de Microchip (ATmega328P). Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y el 06-10-2026 y leídas esos días |
+| Extensión | 9.200 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -31,7 +31,12 @@ storage*) y red de área de almacenamiento (SAN, *storage area network*); módul
 plataforma segura (TPM, *trusted platform module*); sistema en un chip (SoC, *system on a chip*);
 modelo de controlador de pantalla de Windows (WDDM, *Windows Display Driver Model*); traducción de
 direcciones de segundo nivel (SLAT, *second-level address translation*); billones de operaciones
-por segundo (TOPS, *trillion operations per second*); canal de mantenimiento a largo plazo de Windows (LTSC,
+por segundo (TOPS, *trillion operations per second*); ordenador de juego de instrucciones reducido
+(RISC, *reduced instruction set computer*) y complejo (CISC, *complex instruction set computer*);
+ciclos por instrucción (CPI); arquitectura del juego de instrucciones (ISA, *instruction set
+architecture*); el contador de programa, que las fuentes abrevian PC (*program counter*) y que no
+hay que confundir con el ordenador personal; niveles de caché L1, L2 y L3 (del inglés *level*); la familia de microcontroladores AVR de
+Microchip, nombre comercial que el fabricante no desarrolla; canal de mantenimiento a largo plazo de Windows (LTSC,
 *long-term servicing channel*); y la calculadora EDVAC, para la que von Neumann escribió el informe
 de 1945.
 
@@ -44,8 +49,11 @@ Qué se puede preguntar: qué es un sistema de información y cuáles son sus ci
 sexto que se propone, las comunicaciones); cuáles de ellos son tecnología; cuáles son sus funciones
 (recoger, procesar, almacenar, distribuir) y qué diferencia hay entre dato, información y
 conocimiento; qué propiedades de la información hay que preservar; qué partes describió von Neumann
-en 1945 y qué rasgo define su modelo; qué distingue la arquitectura de von Neumann de la de memorias
-separadas; qué buses unen los bloques y cuántas posiciones se direccionan con *n* líneas; qué
+en 1945 y qué rasgo define su modelo; qué distingue la arquitectura de von Neumann de la Harvard, de
+memorias separadas; qué buses unen los bloques y cuántas posiciones se direccionan con *n* líneas;
+qué guarda el contador de programa y qué fases tiene el ciclo de instrucción; cómo se ordena la
+jerarquía de memoria y en qué principio se apoya la caché; qué distingue RISC de CISC y a cuál
+pertenece Arm; qué
 tecnología define cada generación de ordenadores; qué dice la ley de Moore y cómo se revisó en
 1975; qué es un bit, un byte y el tamaño de palabra; qué distingue el hardware del software y cómo
 se clasifica el software; qué hace la CPU, qué es un núcleo, qué une la placa base, por qué la RAM
@@ -71,7 +79,11 @@ puerto para conectar un monitor que cargue el portátil.
 - [2. Arquitectura de ordenadores](#2-arquitectura-de-ordenadores)
   - [Lo digital: bit, byte y palabra](#lo-digital-bit-byte-y-palabra)
   - [El modelo de von Neumann](#el-modelo-de-von-neumann)
+  - [La arquitectura Harvard](#la-arquitectura-harvard)
   - [Los buses](#los-buses)
+  - [Los registros y el ciclo de instrucción](#los-registros-y-el-ciclo-de-instrucción)
+  - [La jerarquía de memoria](#la-jerarquía-de-memoria)
+  - [RISC y CISC](#risc-y-cisc)
   - [Hardware y software](#hardware-y-software)
   - [Las generaciones de ordenadores](#las-generaciones-de-ordenadores)
   - [La ley de Moore](#la-ley-de-moore)
@@ -238,9 +250,44 @@ Traducido a los bloques con que se estudia hoy:
 | Memoria principal | Guarda datos e instrucciones, las dos cosas en el mismo sitio |
 | Entrada y salida | Comunica con el exterior |
 
-Y el rasgo que define ese modelo: los datos y el programa comparten memoria. La alternativa
-—memorias separadas para uno y otro— existe y se usa en microcontroladores, pero el ordenador de
-propósito general sigue el primero.
+Los apuntes de
+*Estructura de Computadores* de la Universidad Complutense de Madrid (UCM, tema 1, curso 2011-12)
+mantienen el esquema como vigente: **«La estructura básica de un computador actual sigue siendo la
+original de von Neumann, una máquina secuencial que ejecuta datos escalares»**, y le asignan cinco
+características funcionales:
+
+1. **«Organización lineal de la memoria»**.
+2. **«Palabra de longitud fija.»**
+3. **«Espacio único de direcciones.»**
+4. **«Memoria única para datos e instrucciones sin diferenciar entre ambos.»**
+5. **«Ejecución secuencial de las instrucciones salvo las de ruptura de secuencia»**.
+
+A ese esquema básico, dicen los mismos apuntes, se han ido sumando tres aportaciones: el sistema de
+interrupciones, la memoria caché y la memoria virtual. La interrupción **«permite la interrupción de
+un programa en ejecución producida por una señal externa a la máquina»**, y con ello mejor
+sincronización con la E/S y que más de un programa comparta la CPU.
+
+### La arquitectura Harvard
+
+La alternativa a la memoria única se llama arquitectura Harvard: memorias, y buses, separados para el
+programa y para los datos. Un ejemplo documentado por su fabricante es el microcontrolador AVR de
+Microchip (hoja de datos del ATmega328P, apartado 7, «AVR CPU Core»): **«In order to maximize
+performance and parallelism, the AVR uses a Harvard architecture – with separate memories and buses
+for program and data.»** La ventaja que alega es el solapamiento: **«While one instruction is being
+executed, the next instruction is pre-fetched from the program memory.»** Mientras se ejecuta una
+instrucción se trae ya la siguiente, porque leer el programa no compite con leer los datos.
+
+| | Von Neumann | Harvard |
+|---|---|---|
+| Memoria | Una sola, para datos e instrucciones | Dos: una para el programa y otra para los datos |
+| Buses | Comunes | Separados |
+| Dónde se ve | El ordenador de propósito general | Microcontroladores como el AVR |
+
+Que el ordenador de propósito general siga a von Neumann y el microcontrolador a Harvard es la
+regla de oficio; las fuentes citadas sostienen cada lado, no la comparación como tal. También es
+lectura de oficio ver un eco de Harvard dentro del propio PC: los apuntes de la UCM (tema 6)
+presentan como opción de diseño las
+**«Cachés independientes para datos e instrucciones: frente a cachés unificadas.»**
 
 ### Los buses
 
@@ -261,6 +308,131 @@ de direcciones se direccionan 2 elevado a *n* posiciones.
 
 Ejemplo de cálculo: con 16 líneas de direcciones se alcanzan 2<sup>16</sup> = 65.536 posiciones; con
 32, 2<sup>32</sup> = 4.294.967.296 (4 GiB, si cada posición es un byte). Cada línea más duplica el espacio direccionable.
+
+### Los registros y el ciclo de instrucción
+
+Dentro de la CPU hay una pequeña memoria propia, los registros. Arm los define como **«Ultra-fast
+memory locations used for temporary data storage and manipulation.»** Los apuntes de la UCM (tema
+1) sitúan los registros en la ruta de datos del procesador, junto a la unidad aritmético-lógica, los
+buses y la unidad de control: el procesador **«dispone de una ruta de datos constituida por un
+conjunto de registros (REG.), una unidad aritmético-lógica (UAL), y unos buses de comunicación; y
+una unidad de control, que es la encargada de generar las señales que gobiernan todos los
+dispositivos.»**
+
+Hay registros generales, que sirven de origen y destino de las operaciones, y registros con un
+papel fijo. El que más se pregunta es el contador de programa. Las notas *Computation Structures*
+del Instituto Tecnológico de Massachusetts (MIT, curso 6.004, cap. 14) lo describen así:
+
+- Qué guarda: **«The contents of the program counter specify the main memory address containing the
+  next coded instruction to be executed by the CPU.»** La dirección de la siguiente instrucción.
+- Cómo avanza: **«With certain exceptions, the CPU increments the contents of the PC after the
+  execution of each instruction»**; así se ejecutan en orden las instrucciones guardadas en
+  posiciones consecutivas. Las excepciones son las instrucciones de ruptura de secuencia (saltos y llamadas) y las
+  interrupciones.
+- Qué pasa al llegar una interrupción (UCM, tema 8): **«La CPU salva automáticamente el estado en la
+  pila, es decir, el contador de programa (PC) y el registro de estado (RE)»**, para poder volver
+  al punto exacto en que se dejó el programa.
+
+El trabajo de la unidad de control es un bucle. El MIT lo llama **«fetch/execute loop»**: buscar y
+ejecutar, una instrucción tras otra, en el orden que marca el contador de programa. Arm lo
+desglosa en cuatro fases (**«The CPU operates using a repetitive process called the instruction
+cycle, consisting of four main stages»**):
+
+| Fase | Literal de Arm | Qué pasa |
+|---|---|---|
+| Búsqueda | **«Fetch: Retrieves the next instruction from memory»** | Se trae de memoria la instrucción que señala el contador de programa |
+| Descodificación | **«Decode: Interprets the instruction and determines the required resources»** | La unidad de control interpreta qué hay que hacer y con qué |
+| Ejecución | **«Execute: Performs the specified operation»** | La unidad aritmético-lógica, u otra unidad, opera |
+| Almacenamiento | **«Store: Writes the result back to memory or a register»** | El resultado se guarda en un registro o en memoria |
+
+Ésta es la secuencia «busca, descodifica y ordena ejecutar» de la tabla de bloques de «El modelo
+de von Neumann», con la escritura del resultado al final. Los procesadores actuales solapan las fases de
+instrucciones distintas, la segmentación (en inglés *pipelining*): **«Pipelining: Breaks the
+instruction cycle into overlapping stages for higher throughput»** (Arm). Los apuntes de la UCM
+(tema 4) lo explican igual: **«La tarea de cada instrucción se divide en etapas, de tal forma que
+en cada ciclo se ejecuta una etapa de una instrucción, simultaneándose la ejecución de etapas de
+diferentes instrucciones.»**
+
+### La jerarquía de memoria
+
+Un ordenador no tiene una memoria, sino varias, de velocidad y capacidad distintas. Los apuntes de la
+UCM (tema 5) lo dicen así: **«Las distintas memorias presentes en un computador se organizan de
+forma jerárquica»**, y dibujan los niveles de arriba abajo:
+
+| Nivel (UCM, tema 5) | Dónde está |
+|---|---|
+| Registros de la CPU | Dentro del procesador |
+| Memoria caché (L1, L2, L3) | En el procesador o junto a él |
+| Memoria principal | La RAM, en la placa base |
+| Discos magnéticos | Almacenamiento interno |
+| Cintas, CD-ROM, etc. | Almacenamiento externo o de archivo |
+
+Hacia arriba aumenta la velocidad; hacia abajo, la capacidad. El mismo tema clasifica la memoria por
+su ubicación: **«Interna (CPU): registros, cache(L1), cache(L2), cache(L3), memoria principal»** y
+**«Externa (E/S): discos, cintas, etc.»** De más rápida a más lenta, por tanto: registros, caché,
+RAM y disco.
+
+La caché es el nivel que hace funcionar el conjunto. UCM, tema 6: **«La memoria caché es una memoria
+pequeña y rápida que se interpone entre la CPU y la memoria principal para que el conjunto opere a
+mayor velocidad.»** Funciona porque cada nivel guarda copia de lo que más probablemente se va a
+pedir: **«En el nivel i+1 se ubica una copia de aquellos bloques del nivel i que tienen mayor
+probabilidad de ser referenciados en el futuro inmediato»** (tema 5). Y esa probabilidad se puede
+predecir por el principio de localidad de referencia, que tiene dos dimensiones (tema 6):
+
+- Temporal: **«las palabras de memoria accedidas recientemente tienen una alta probabilidad de volver
+  a ser accedidas en el futuro cercano.»** La explican sobre todo los bucles.
+- Espacial: **«las palabras próximas en el espacio de memoria a las recientemente referenciadas tienen
+  una alta probabilidad de ser también referenciadas en el futuro cercano.»** La explican la
+  ejecución en orden de las instrucciones y el recorrido de estructuras de datos regulares.
+
+Los niveles de caché se numeran desde el procesador: la de segundo nivel (L2) se pone entre la de
+primer nivel (L1) y la memoria principal (UCM, tema 6, **«utilizando una caché intermedia o de
+segundo nivel (L2) entre Mc (L1)»** y la memoria principal). Arm resume el papel de la caché en la
+CPU actual: **«High-speed memory near the processor core that stores frequently accessed
+instructions and data.»**
+
+Aplicación práctica: un equipo lento al abrir varios programas a la vez suele tener poca RAM, y lo
+que no cabe en ella se va al disco, el nivel más lento. Es la misma idea de la jerarquía que el
+diagnóstico de lentitud del epígrafe 3.
+
+### RISC y CISC
+
+La arquitectura del juego de instrucciones (ISA) es la interfaz entre el hardware y el software:
+**«it specifies an interface between hardware and software»** (MIT, cap. 14). Hay dos planteamientos,
+que los apuntes de la UCM (tema 1) describen así:
+
+- CISC: **«define un repertorio de instrucciones bastante complejo y numeroso, con muchos tipos de
+  direccionamiento y muchos modos de control, pretendiendo reducir la distancia semántica que lo
+  separa de los lenguajes de alto nivel, y facilitar así el diseño del compilador.»** Según los mismos apuntes, la
+  microprogramación es la técnica de diseño de la unidad de control que facilita construir máquinas
+  CISC.
+- RISC: **«simplifica la complejidad y el número de instrucciones máquina, dejándolo reducido a un
+  conjunto pequeño y rápido que cubre un porcentaje muy elevado del peso computacional de los
+  programas.»** El compilador carga con el trabajo de combinar esas instrucciones simples.
+
+La comparación, fila a fila, de la tabla de la UCM (tema 4, «Procesadores RISC y CISC»):
+
+| | CISC | RISC |
+|---|---|---|
+| Operaciones | **«Muchas operaciones básicas y tipos de direccionamiento complejos»** | **«Pocas operaciones básicas y tipos de direccionamiento simples»** |
+| Formato | **«Instrucciones largas y complejas con formatos muy diversos»**: descodificación compleja y lenta | Instrucciones de formato simple y tamaño fijo: descodificación simple y rápida |
+| Instrucciones por programa y ciclos por instrucción | **«Pocas instrucciones por programa»**, con elevado número de ciclos por instrucción (CPI) | **«Muchas instrucciones por programa»**, con reducido CPI |
+| Registros | **«Número limitado de registros de propósito general»** | **«Número elevado de registros»** |
+| Acceso a memoria | Operaciones con operandos en registros y en memoria (la fuente lo abrevia «RM y MM») | Operaciones sólo entre registros (la fuente lo abrevia «RR»): arquitectura de **«carga/almacenamiento»**, en la que sólo cargar y almacenar acceden a memoria |
+
+El MIT añade que muchas ISA CISC tienen instrucciones de longitud variable, lo que **«complicates
+instruction fetch and decoding»**, y que el enfoque RISC se popularizó en los años ochenta. Arm, que
+diseña procesadores RISC, lo resume así: **«A RISC processor executes one action per instruction.
+By taking just one cycle to complete, operation execution time is optimized.»** Y del tamaño fijo:
+**«Because the architecture uses a fixed length of instruction, it's easier to pipeline.»**
+
+Por qué importa en el puesto: Arm es RISC. Lo dice su nombre (**«ARM, or "Advanced RISC Machine"
+is a specific family of instruction set architecture that's based on reduced instruction set
+architecture developed by Arm Ltd.»**) y lo dicen los apuntes de la UCM (tema 2: **«El procesador
+ARM es un RISC con 16 registros de 32 bits»**). Arm añade que los procesadores de esa arquitectura son comunes en
+móviles, tabletas, portátiles, consolas y equipos de sobremesa, y que RISC ofrece **«high performance per watt for battery
+operated devices»**: buen rendimiento por vatio, que es lo que busca un portátil. El Snapdragon de
+los equipos Copilot+ (epígrafe 4) es de arquitectura Arm.
 
 ### Hardware y software
 
@@ -390,8 +562,8 @@ Any program that you are running on the computer is loaded into RAM for processi
   faster.»**
 - Se monta en módulos DDR, y el tipo lo decide la placa: **«RAM is generally installed in a personal
   computer through the use of a Double Data Rate (DDR) memory module. The type of DDR accepted into a
-  computer is dependent upon the motherboard.»** En la práctica: un módulo de una generación DDR no
-  sirve en la ranura de otra.
+  computer is dependent upon the motherboard.»** Que un módulo de una generación DDR no sirva en la
+  ranura de otra es regla de oficio: la fuente sólo dice que el tipo lo decide la placa.
 
 La distinción que más se pregunta es memoria frente a almacenamiento. La RAM es rápida y
 volátil: al apagar el equipo pierde su contenido. El almacenamiento es más lento y
@@ -536,7 +708,7 @@ operations per second (TOPS).»**
   performance.»**
 - El umbral: 40 TOPS, más de 40 billones de operaciones por segundo (**«Many of the new Windows AI
   features require an NPU with the ability to run at 40+ TOPS»**).
-- Las plataformas que cita: el Snapdragon X Elite de Qualcomm, de arquitectura Arm, y **«AMD Ryzen AI
+- Las plataformas que cita: el Snapdragon X Elite de Qualcomm, de arquitectura Arm (RISC, epígrafe 2), y **«AMD Ryzen AI
   300 series and Intel Core Ultra 200V series.»**
 - Para el técnico: **«For devices with NPUs, the Task Manager can now be used to view NPU resource
   usage.»** El Administrador de tareas muestra el uso de la NPU como el de la CPU o la GPU.
@@ -635,6 +807,11 @@ comprobación son oficio; cada cifra es la del requisito de Microsoft citado arr
   las especificaciones de JEDEC y PCI-SIG no se han podido leer, y el manual citado está anticuado en
   ese punto (llega a DDR4). No se dan.
 - La fuente de alimentación, la refrigeración y el chipset de la placa base: sin fuente leída.
+- El registro de instrucción, el acumulador y el resto de registros especiales uno por uno, y la
+  adscripción de la familia x86 de Intel y AMD a CISC: las fuentes leídas no lo dicen de forma
+  expresa. El tema da sólo el contador de programa, el registro de estado y los registros generales.
+- El coste por bit de cada nivel de la jerarquía de memoria: la fuente leída da velocidad y
+  capacidad, no coste.
 - La asignación de cada velocidad del USB4 a su versión 1.0 o 2.0, y la potencia de carga de
   Thunderbolt 4 y 5 en vatios: las fuentes leídas no lo dicen.
 - El programa de actualizaciones de seguridad extendidas de Windows 10 tras el 14-10-2025: no se ha
@@ -659,6 +836,10 @@ comprobación son oficio; cada cifra es la del requisito de Microsoft citado arr
 | USB-IF, *USB Data Performance Language Usage Guidelines* (enero de 2024); *USB 3.2 Specification Language Usage Guidelines*; *USB4® Specification Language Usage Guidelines*; *USB Logo Usage Guidelines* (2024); páginas «USB4®», «USB Charger (USB Power Delivery)» y «USB Type-C® Cable and Connector Specification» | Cinco velocidades y sus nombres, nombres técnicos fuera del público, USB 3.2 y sus tres velocidades, versión distinta de conector y de energía, velocidades de USB 2.0, USB4 y su origen en Thunderbolt, compatibilidad, Type-C reversible, USB PD 3.1 hasta 240 W, sentido de la energía, monitor que carga el portátil | 05-10-2026 |
 | Intel, nota de prensa «Intel Introduces Thunderbolt 5 Connectivity Standard» (12-9-2023); Thunderbolt Technology Community, página «Technology» | Thunderbolt 4 a 40 Gbit/s; Thunderbolt 5 a 80 y 120 Gbit/s, sobre USB4 V2, DisplayPort 2.1 y PCI Express Gen 4 | 05-10-2026 |
 | NVM Express, página «About» | NVMe como interfaz y juego de órdenes del almacenamiento sobre PCI Express, estándar de hecho de los SSD PCIe | 05-10-2026 |
+| Universidad Complutense de Madrid, Facultad de Informática, apuntes de *Estructura de Computadores* (J. J. Ruz): tema 1 «Introducción a la estructura de computadores», tema 2 «Formato de instrucciones y modos de direccionamiento», tema 5 «Organización de la memoria: memoria principal», tema 6 «Memoria Caché» y tema 8 «Organización de la Entrada/salida» (curso 2011-12); tema 4 «Rendimiento del procesador» (curso 2010-11) | Vigencia del esquema de von Neumann y sus cinco características, interrupciones, caché y memoria virtual; ruta de datos; CISC y RISC (tema 1) y su tabla comparativa y la segmentación (tema 4); ARM como RISC de 16 registros (tema 2); jerarquía de memoria, ubicación interna y externa, copia entre niveles (tema 5); caché, localidad temporal y espacial, segundo nivel, cachés separadas o unificadas (tema 6); contador de programa y registro de estado en la interrupción (tema 8) | Tema 4, 05-10-2026; los demás, 06-10-2026 |
+| Massachusetts Institute of Technology, *Computation Structures* (curso 6.004), cap. 14 «Instruction Set Architectures», de S. Ward (computationstructures.org) | Contador de programa, su incremento, bucle de búsqueda y ejecución; la ISA como interfaz; CISC de longitud variable y RISC de los ochenta | 06-10-2026 |
+| Arm, glosario: «What is RISC?» y «Central Processing Unit (CPU)» (arm.com/glossary) | RISC frente a CISC, una acción por instrucción en un ciclo, longitud fija, rendimiento por vatio, ARM como *Advanced RISC Machine*; registros, caché L1-L3, ciclo de instrucción en cuatro fases, segmentación | 06-10-2026 |
+| Microchip, *ATmega48A/PA/88A/PA/168A/PA/328/P Data Sheet Complete*, DS40002061B (2020), apartado 7 «AVR CPU Core» | Arquitectura Harvard del AVR, con memorias y buses separados, y búsqueda anticipada de la siguiente instrucción | 06-10-2026 |
 
 Las fuentes están en inglés salvo las cifras: las citas van en negrita en su lengua y la explicación
 en castellano es del tema. El texto del informe de von Neumann procede de un reconocimiento óptico
@@ -668,8 +849,9 @@ generaciones DDR, USB 3.1) que el tema no recoge; y su formulación de la ley de
 integrados en lugar de transistores) se sustituye por la de Intel.
 
 Oficio sin fuente detrás, y así se declara: la traducción del modelo de von Neumann a los cuatro
-bloques de hoy y el rasgo de los datos y el programa en la misma memoria frente a la alternativa de
-memorias separadas en microcontroladores; los tres buses y lo que lleva cada uno (la fórmula 2
+bloques de hoy; la comparación entre von Neumann y Harvard como regla (cada lado tiene su fuente, la
+comparación no) y el parecido de las cachés separadas con Harvard; la columna «Dónde está» de la jerarquía de memoria y el ejemplo práctico de
+lentitud; la incompatibilidad entre generaciones de módulos DDR; los tres buses y lo que lleva cada uno (la fórmula 2
 elevado a *n* y los cálculos son aritmética); la tabla de cinco funciones del hardware y la
 distinción entre memoria y almacenamiento; la clasificación del software en tres capas y por
 licencia; la tabla de generaciones con sus años aproximados, el atajo de memoria y la advertencia

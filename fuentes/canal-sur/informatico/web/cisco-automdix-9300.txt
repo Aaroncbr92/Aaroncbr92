@@ -1,0 +1,198 @@
+Configuring Auto-MDIX
+• Prerequisites for Auto-MDIX, on page 1
+• Restrictions for Auto-MDIX, on page 1
+• Information About Configuring Auto-MDIX, on page 2
+• How to Configure Auto-MDIX, on page 2
+• Example for Configuring Auto-MDIX, on page 3
+• Auto-MDIX and Operational State, on page 4
+• Additional References for Auto-MDIX, on page 4
+• Feature History for Auto-MDIX, on page 5
+Prerequisites for Auto-MDIX
+To configure Layer 2 parameters, if the interface is in Layer 3 mode, you must enter the switchport interface
+configuration command without any parameters to put the interface into Layer 2 mode. This shuts down the
+interface and then re-enables it, which might generate messages on the device to which the interface is
+connected. When you put an interface that is in Layer 3 mode into Layer 2 mode, the previous configuration
+information related to the affected interface might be lost, and the interface is returned to its default
+configuration.
+Automatic medium-dependent interface crossover (auto-MDIX) is enabled by default.
+Auto-MDIX is supported on all 10/100/1000-Mb/s and on 10/100/1000BASE-TX small form-factor pluggable
+(SFP)-module interfaces. It is not supported on any other SFP, SFP+ , or QSFP module interface.
+Restrictions for Auto-MDIX
+The device might not support a pre-standard powered device—such as Cisco IP phones and access points that
+do not fully support IEEE 802.3af—if that powered device is connected to the device through a crossover
+cable. This is regardless of whether auto-MIDX is enabled on the switch port.
+Configuring Auto-MDIX
+1
+
+Information About Configuring Auto-MDIX
+Auto-MDIX on an Interface
+When automatic medium-dependent interface crossover (auto-MDIX) is enabled on an interface, the interface
+automatically detects the required cable connection type (straight through or crossover) and configures the
+connection appropriately. When connecting devices without the auto-MDIX feature, you must use
+straight-through cables to connect to devices such as servers, workstations, or routers and crossover cables
+to connect to other devices or repeaters. With auto-MDIX enabled, you can use either type of cable to connect
+to other devices, and the interface automatically corrects for any incorrect cabling. For more information about
+cabling requirements, see the hardware installation guide.
+This table shows the link states that result from auto-MDIX settings and correct and incorrect cabling.
+Table 1: Link Conditions and Auto-MDIX Settings
+WithIncorrectCabling
+WithCorrectCabling
+RemoteSideAuto-MDIX
+LocalSideAuto-MDIX
+Link up
+Link up
+On
+On
+Link up
+Link up
+Off
+On
+Link up
+Link up
+On
+Off
+Link down
+Link up
+Off
+Off
+How to Configure Auto-MDIX
+Configuring Auto-MDIX on an Interface
+Auto MDIX is turned on by default. To disable Auto MDIX on a port, use the no mdix auto command under
+the interface configuration mode. To put it back to default, use the mdix auto command in the interface
+configuration mode. The following steps show how to enable the Auto MDIX.
+Procedure
+Purpose
+Command or Action
+Enables privileged EXEC mode.
+enable
+Step 1
+Example:
+• Enter your password if prompted.
+Device> enable
+Enters global configuration mode
+configure terminal
+Example:
+Step 2
+Configuring Auto-MDIX
+2
+Configuring Auto-MDIX
+Information About Configuring Auto-MDIX
+
+Purpose
+Command or Action
+Device# configure terminal
+Specifies the physical interface to be configured,
+and enter interface configuration mode.
+interface interface-id
+Example:
+Step 3
+Device(config)# interface
+gigabitethernet1/0/1
+Enables the Auto MDIX feature.
+mdix auto
+Example:
+Step 4
+Device(config-if)# mdix auto
+Returns to privileged EXEC mode.
+end
+Example:
+Step 5
+Device(config-if)# end
+(Optional) Saves your entries in the
+configuration file.
+copy running-config startup-config
+Example:
+Step 6
+Device# copy running-config
+startup-config
+Example for Configuring Auto-MDIX
+This example shows how to enable auto-MDIX on a port:
+Device# configure terminal
+Device(config)# interface gigabitethernet1/0/1
+Device(config-if)# mdix auto
+Device(config-if)# end
+Configuring Auto-MDIX
+3
+Configuring Auto-MDIX
+Example for Configuring Auto-MDIX
+
+Auto-MDIX and Operational State
+Table 2: Auto-MDIX and Operational State
+Description
+Auto-MDIX Setting and Operational State
+on an Interface
+Auto-MDIX is enabled and is fully functioning.
+Auto-MDIX on (operational: on)
+Auto-MDIX is enabled on this interface but it is not functioning.
+To allow auto-MDIX feature to function properly, you must
+also set the interface speed to be autonegotiated.
+Auto-MDIX on (operational: off)
+Auto-MDIX has been disabled with the no mdix auto command.
+Auto-MDIX off
+Additional References for Auto-MDIX
+Related Documentation
+Document Title
+Related Topic
+Command Reference (Catalyst 9300 Series Switches)
+For complete syntax and usage information for the
+commands used in this chapter.
+Cisco Catalyst 9300 Series Switches Hardware
+Installation Guide
+For information about the power supplies.
+MIBs
+MIBs Link
+MIB
+To locate and download MIBs for selected platforms, Cisco IOS releases,
+and feature sets, use Cisco MIB Locator found at the following URL:
+http://www.cisco.com/go/mibs
+All the supported MIBs for this
+release.
+Configuring Auto-MDIX
+4
+Configuring Auto-MDIX
+Auto-MDIX and Operational State
+
+Technical Assistance
+Link
+Description
+http://www.cisco.com/support
+The Cisco Support website provides extensive online resources, including
+documentation and tools for troubleshooting and resolving technical issues
+with Cisco products and technologies.
+To receive security and technical information about your products, you can
+subscribe to various services, such as the Product Alert Tool (accessed from
+Field Notices), the Cisco Technical Services Newsletter, and Really Simple
+Syndication (RSS) Feeds.
+Access to most tools on the Cisco Support website requires a Cisco.com user
+ID and password.
+Feature History for Auto-MDIX
+This table provides release and related information for features explained in this module.
+These features are available on all releases subsequent to the one they were introduced in, unless noted
+otherwise.
+Feature Information
+Feature
+Release
+An automatic
+medium-dependent
+interface crossover
+(Auto-MDIX) enabled
+interface detects the
+required cable connection
+type (straight through or
+crossover) and configures
+the connection
+appropriately.
+Auto-MDIX on an Interface
+Cisco IOS XE Everest
+16.5.1a
+Use Cisco Feature Navigator to find information about platform and software image support. To access Cisco
+Feature Navigator, go to http://www.cisco.com/go/cfn.
+Configuring Auto-MDIX
+5
+Configuring Auto-MDIX
+Feature History for Auto-MDIX
+
+Configuring Auto-MDIX
+6
+Configuring Auto-MDIX
+Feature History for Auto-MDIX

@@ -37,8 +37,8 @@ peso se evalúa; qué es una guardia localizable en el convenio; qué portátile
 y a quién considera trabajador; los tres momentos de la vigilancia de la salud en pantallas; las
 distancias de la pantalla y los niveles de iluminación, temperatura y humedad del puesto; qué dice
 la Guía Técnica del ratón y del teclado; qué es el estrés y qué afecta el trabajo a turnos; qué son
-los TME y qué movimientos los provocan; dónde se define el accidente in itinere y qué lo excluye;
-qué es el accidente en misión; qué es un EPI, cuándo se usa y qué debe hacer el trabajador con él.
+los TME, cuáles son los de la extremidad superior y qué movimientos los provocan; dónde se define
+el accidente in itinere y qué lo excluye; qué es el accidente en misión; qué es un EPI, cuándo se usa y qué debe hacer el trabajador con él.
 
 <!-- indice -->
 
@@ -605,7 +605,10 @@ maniobras para dejar sin tensión una instalación y reponerla, a **trabajadores
 II.A); los trabajos en tensión, a **trabajadores cualificados** (anexo III.A.1); las maniobras
 locales, mediciones, ensayos y verificaciones, a **trabajadores autorizados** (anexo IV.A.1); y **la
 apertura de celdas, armarios y demás envolventes de material eléctrico estará restringida a
-trabajadores autorizados** (anexo V.B.1).
+trabajadores autorizados** (anexo V, B.1.2). Esta última reserva está en el anexo V, rotulado
+**«Trabajos en proximidad»** (de elementos en tensión), y en su apartado B.1, **«Acceso a recintos
+de servicio y envolventes de material eléctrico»**; el real decreto no dice si alcanza a abrir la
+caja de un equipo informático desconectado, y el tema no lo afirma.
 
 **Baja y muy baja tensión (Reglamento electrotécnico para baja tensión).** El anexo I del RD
 614/2001 no da cifras: **«Alta tensión. Baja tensión. Tensiones de seguridad: las definidas como
@@ -1044,6 +1047,36 @@ fundamentalmente por el trabajo y los efectos del entorno en el que éste se des
 cada cinco personas trabajadoras europeas**, y **los más frecuentes se localizan en la espalda, el
 cuello y las extremidades superiores**.
 
+**Los TME de la extremidad superior.** El mismo documento del INSST nombra **los TME que afectan a
+las extremidades superiores, más frecuentes en el ámbito laboral**:
+
+| Trastorno | Dónde | Qué lo provoca o qué es, según el INSST |
+| --- | --- | --- |
+| **Tendinitis del manguito de los rotadores** | Hombro | El **uso repetitivo de los movimientos de rotación medial, lateral y sobre todo abducción**; los tendones rozan con el acromio |
+| **Epicondilitis** o «codo de tenista» | Cara externa del codo | Lesión por **esfuerzo repetitivo en el movimiento de pronación-supinación forzada** |
+| **Epitrocleitis** o «codo del golfista» | Cara interna del codo (epitróclea) | Lesión por **esfuerzo repetitivo en el movimiento de supinación forzada** |
+| **Síndrome del túnel carpiano** | Muñeca | **El uso repetitivo de los músculos flexores superficial y profundo de los dedos**, **los movimientos y posturas forzadas de mano en flexión y extensión o microtraumatismos (golpes) en la zona palmar de la muñeca**, entre otros factores |
+| **Ganglión o quiste sinovial** | Sobre todo en el **dorso de la mano y de la muñeca (en el 60% de los casos)** | No da causa: lo describe como una **protrusión (salida) del líquido sinovial** a través de la cápsula articular de la muñeca o de las vainas sinoviales de los tendones |
+
+Del túnel carpiano dice además que **suele aparecer con mayor frecuencia en las mujeres, pudiendo
+afectar hasta a un 8% de ellas, mientras que afecta a tan sólo un 0,6% de los hombres**. Y de las
+lesiones de los trabajos repetitivos, que **se producen comúnmente en los tendones, los músculos y
+los nervios del cuello, hombro, antebrazo, muñeca y mano**, con diagnósticos **muy diversos:
+tendinitis, peritendinitis, tensosinovitis, mialgias, atrapamientos de nervios distales entre
+otros**.
+
+Las Directrices para la Decisión Clínica en Enfermedades Profesionales del INSST (serie TME, 2022)
+definen el síndrome del túnel carpiano como **«Síndrome neurológico debido a la compresión del
+nervio mediano debajo del ligamento anular del carpo»**, y citan como factores ocupacionales
+**fundamentalmente los movimientos repetitivos de flexoextensión de la muñeca, los movimientos de
+los dedos con la muñeca en extensión y la presión extrínseca sobre el túnel con la muñeca en
+extensión**. Para el puesto de ordenador hacen dos salvedades que conviene no olvidar: **«No existe
+evidencia científica concluyente para la relación entre la utilización de ordenador (teclado,
+ratón) y el STC»** [síndrome del túnel carpiano]; y, de la epicondilitis, **«en los últimos cinco
+estudios prospectivos de calidad realizados, el uso del ordenador no ha aparecido como un factor de
+riesgo»**. Al puesto le alcanzan, como a cualquier otro, los factores generales que siguen
+(postura estática o forzada, movimientos repetidos, falta de pausas).
+
 **Los factores de riesgo.** **La aparición de TME suele ser multicausal.** El INSST los agrupa así:
 
 - **Biomecánicos**, **los mejor estudiados**: el modelo de **Putz-Anderson** (1988) explica que
@@ -1437,7 +1470,9 @@ Fuentes leídas el **24-09-2026** (las que este tema toma del tema de Productor/
 el **05-10-2026** las añadidas para este puesto: la ficha 1324100, el artículo 45, el anexo II y el
 artículo 50.11 del X Convenio; el RD 614/2001; el artículo 2 del RD 842/2002; el RD 487/1997 y su
 Guía técnica (tomados del tema de Oficial Técnico Electricista, ya verificado); el anexo III del RD
-773/1997; y los pasajes de la Guía Técnica de pantallas sobre portátiles, ratón y teclado.
+773/1997; y los pasajes de la Guía Técnica de pantallas sobre portátiles, ratón y teclado. El
+**06-10-2026**, el tema 69 del INSST (TME de la extremidad superior) en su relación de trastornos,
+las directrices DDC-TME-04 y DDC-TME-07 y el anexo V del RD 614/2001.
 
 | Fuente | Identificador o edición | Redacción |
 | --- | --- | --- |
@@ -1456,6 +1491,7 @@ Guía técnica (tomados del tema de Oficial Técnico Electricista, ya verificado
 | INSST, Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización | Edición de junio de 2021 | Documentación técnica |
 | INSST, Guía técnica para la evaluación y prevención de los riesgos relativos a la manipulación manual de cargas | Edición de septiembre de 2024 | Documentación técnica |
 | INSST, tema 69, «Trastornos musculoesqueléticos de la extremidad superior» (temario de la Escala de Titulados Superiores) | Versión de abril de 2025 | Documentación técnica; definición de TME de la Agencia Europea para la Seguridad y la Salud en el Trabajo (2007) |
+| INSST, Directrices para la Decisión Clínica en Enfermedades Profesionales, DDC-TME-04 (epicondilitis) y DDC-TME-07 (síndrome del túnel carpiano) | Noviembre de 2022 | Documentación técnica; directrices clínicas, no norma |
 | INSST, NTP 1090 y NTP 1091, riesgos laborales viarios | 2017 | Documentación técnica; la NTP 1090 cita el art. 115 de la LGSS de 1994, hoy art. 156 de la de 2015 |
 | INSST, NTP 318, «El estrés: proceso de generación en el ámbito laboral» | 1991 | Documentación técnica |
 | INSST, NTP 443, «Factores psicosociales: metodología de evaluación» | 1995; actualizada por la NTP 926 (no leída) | Documentación técnica |

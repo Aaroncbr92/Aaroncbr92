@@ -1,0 +1,578 @@
+URL: https://aws.amazon.com/what-is/hypervisor/
+Leído: 2026-10-06
+
+What is a Hypervisor? - Hypervisor Explained - AWS
+
+ Skip to main content
+
+- 
+
+ Filter: All
+
+- 
+
+- 
+
+- 
+ English
+
+- Contact us
+
+- AWS Marketplace
+
+- Support 
+
+- My account 
+
+- 
+
+- 
+
+- 
+
+ re:Invent
+
+- 
+
+ Discover AWS
+
+- 
+
+ Products
+
+- 
+
+ Solutions
+
+- 
+
+ Pricing
+
+- 
+
+ Resources
+
+- 
+
+ Search
+
+ Filter: All
+
+- 
+
+ Sign in to console
+
+- Create account
+
+ Explore topics
+
+ re:Invent 2026
+
+ The session catalog is live. Explore what's waiting for you
+
+ Build & Deploy AI Agents
+
+ 88% of agent pilots stall. Learn what the rest do differently
+
+ Independent Software Vendors
+
+ AI for software & tech: build, scale, and monetize
+
+ Data for agentic AI
+
+ The 7 essential data capabilities to scale agentic AI
+
+ Agent Toolkit
+
+ Give AI coding agents up-to-date docs and AWS resource access
+
+ Amazon Quick
+
+ Answers grounded in your actual business data
+
+ News & announcements
+
+ AWS blog
+
+ About AWS
+
+AWS is the world's most comprehensive cloud, enabling organizations to accelerate innovation, reduce costs, and scale more efficiently
+
+- Why AWS
+
+- Getting Started
+
+- Security
+
+- Compliance
+
+- Trust Center
+
+- Sustainability
+
+- Global Infrastructure
+
+- Featured Products
+
+- Analytics
+
+- Application Integration
+
+- Artificial Intelligence
+
+- Business Applications
+
+- Compute
+
+- Customer Experience
+
+- Databases
+
+- Developer Tools
+
+- End User Computing
+
+- Game Tech
+
+- Management Tools
+
+- Media Services
+
+- Migration & Modernization
+
+- Multicloud & Hybrid
+
+- Networking & Content Delivery
+
+- Operations
+
+- Security & Identity
+
+- Storage
+
+- Supply Chain
+
+ Browse all products
+
+ Transformation Hubs
+
+Migrate to modernize → Modernize to unlock data → unlock data to run AI
+
+ Migrate & Modernize
+ Clear technical debt, modernize infrastructure, and move to the cloud
+
+ Data & Analytics
+ Future proof your data foundation for agentic AI
+
+ Artificial Intelligence
+ Get production-ready AI that automates, builds, creates, decides, and engages at scale
+
+ Featured Products
+
+Get started with one of these featured services or browse all
+Browse all products
+
+ Amazon Quick
+ AI-powered assistant for work with research, business insights, automation, and no-code app building
+
+ Transform
+ Eliminate tech debt with agentic AI to modernize legacy systems and code
+
+ Aurora
+ Serverless relational database service for PostgreSQL, MySQL, and DSQL
+
+ Amazon Bedrock
+ The end-to-end platform for building generative AI applications and agents
+
+ Amazon Connect Customer
+ AI-native solution for delivering exceptional experiences across customer interactions
+
+ EC2
+ Secure and resizable compute capacity for virtually any workload
+
+ What’s new
+ Explore new capabilities and the latest technologies
+
+ Customer success stories
+ Learn how customers around the world accelerate their cloud
+
+- Featured
+
+- By industry
+
+- By organization type
+
+- Solutions Library
+
+ Solutions for any organization
+
+From startups to enterprises, find AWS solutions scaled to your needs. Access tailored resources, pricing models, and support levels.
+
+ Analytics Solutions
+ Discover curated Solutions that address varied analytics use cases
+
+ AI Solutions
+ Discover curated Solutions that address varied artificial intelligence use cases
+
+ Migration & Modernization Solutions
+ Discover curated Solutions that address varied migration and modernization use cases
+
+ What's new
+ Explore new capabilities and the latest technologies
+
+ Customer success stories
+ Learn how customers around the world accelerate their cloud
+
+ Pricing overview & tools
+
+ AWS Pricing
+ Learn about pricing and plans in one place
+
+ AWS Pricing Calculator
+ Estimate the cost for your architecture solution
+
+ AWS Free Tier
+ Get free, hands-on experience with AWS products and services
+
+ AWS Offers
+ Explore different offer programs to gain hands-on experience
+
+ AWS Savings Plans
+ Flexible pricing model offering lower prices
+
+ Single-product pricing
+
+ Amazon S3
+
+ Amazon Bedrock
+
+ Amazon RDS
+
+ Amazon EC2
+
+ Amazon SageMaker
+
+ Browse all product pricing
+
+ Learn
+
+ Documentation
+ Get detailed technical guides and references for all AWS services and tools
+
+ Training & Certification
+ Build and validate your AWS cloud skills and technical expertise
+
+ Cloud term glossary
+ Learn more about key cloud computing concepts
+
+ Whitepapers
+ Expand your knowledge of the cloud with expert guides and diagrams
+
+ Cloud fundamentals
+ Step-by-step instructions for common AWS tasks
+
+ Tutorials
+ Get started with step-by-step instructions
+
+ Connect & Support
+
+ Builder Center
+ Learn, build, and connect with builders in the AWS community
+
+ Events and webinars
+ Connect, collaborate, and learn from AWS experts in the cloud computing community
+
+ Partner Network
+ Collaborate with AWS partners to grow your business
+
+ Marketplace
+ Find, test, buy, and deploy third-party software
+
+ Support
+ Access proactive guidance, issue resolution, and helpful tools
+
+ Professional services
+ Accelerate business transformation with expert guidance and packaged solutions
+
+- What is Cloud Computing?
+
+- Cloud Computing Concepts Hub
+
+- Compute
+
+- What is a Hypervisor?
+
+# What is a Hypervisor?
+
+ Create an AWS Account
+
+- What is a hypervisor?
+
+- Why is a hypervisor important?
+
+- How does a hypervisor work?
+
+- What are the benefits of a hypervisor?
+
+- What are the use cases for hypervisors?
+
+- What are the types of hypervisors?
+
+- What is a cloud hypervisor?
+
+- What is the difference between hypervisors and containers?
+
+- What are the security considerations for hypervisors?
+
+- How does AWS help with hypervisors?
+
+## What is a hypervisor?
+
+A hypervisor is a software application that you can use to run multiple virtual machines (VMs) on a single physical machine. In modern computing infrastructure, hypervisors act as an intermediary between the hardware and multiple operating system (OS) instances. The hypervisor allocates the underlying physical computing resources, such as CPU and memory, to individual virtual machines as required. A hypervisor allows every virtual machine to have its own operating system and applications.
+
+## Why is a hypervisor important?
+
+Conventionally, organizations must invest in new computers to run a different computing environment. A hypervisor enables virtualization on a single computer. By using a hypervisor, multiple virtual machines can run on a single host computer. Each virtual machine has its own operating system and hardware resources such as a CPU, a graphics accelerator, and storage. They allow you to scale computing services efficiently on limited hardware infrastructure. For example, different business departments can run different workloads separately by using multiple virtual machines on a single server.
+
+## How does a hypervisor work?
+
+A hypervisor provides orchestration, isolation, and resource allocation for virtual machines on a physical host. System administrators install the hypervisor software on a physical server. The hypervisor loads virtual machine images to create multiple virtual operating systems. The physical machine is known as the host, and the virtual operating systems are guest OSs. Applications installed on the virtual machine behave as if they’re running directly on a physical computer.
+
+### Resource allocation
+
+The hypervisor ensures that each virtual machine receives the allocated resources as configured. It does so by acting as an intermediary between guest machines and the underlying physical hardware. The hypervisor relays requests for processing power, memory, storage, and other resources to the host machine in several ways, including hardware virtualization extensions.
+
+### Hardware acceleration
+
+Hardware acceleration is a technology that provides dedicated processors for computationally intensive tasks. Modern hypervisors use hardware acceleration to offload tasks like graphics processing, deep learning, or complex mathematical calculations to a dedicated physical processor instead of the virtualized CPU. This allows the virtualized application to be more responsive.
+
+## What are the benefits of a hypervisor?
+
+Organizations use virtualization software such as hypervisors because the software helps them to use resources efficiently and reduce hardware investment. Virtualization provides several other benefits.
+
+### Hardware independence
+
+A hypervisor, also known as a virtual machine monitor (VMM), abstracts the host's hardware from the guest operating system. IT administrators can configure, deploy, and manage software applications on a VM without being constrained to a specific hardware setup. For example, you can run Windows on a virtual machine on a Linux host instead of a Windows computer.
+
+### Efficiency
+
+Hypervisors improve hardware use to increase efficiency. A physical server can run multiple virtualized servers at once, with specific operating systems and related software components using the same underlying hardware resources.
+
+### Scalability
+
+Organizations use hypervisors to maximize resource usage on physical computers. Instead of using separate machines for different workloads, hypervisors create multiple virtual computers to run several workloads on a single machine. This translates to faster scalability and reduced hardware expenditure for organizations.
+
+### Portability
+
+IT teams can allocate memory, networking, processing, and storage resources across multiple servers as needed. They can shift workloads between machines or platforms easily. When an application requires more processing power, the hypervisor can provide access to additional physical resources.
+
+## What are the use cases for hypervisors?
+
+Virtualization, powered by hypervisors, has several use cases. Here are some example use cases.
+
+### Desktop virtualization
+
+Employees use desktop virtualization software to emulate a version of their workstation computing environment on the server. This allows them to access their work applications and files remotely.
+
+### Resource optimization
+
+Companies use hypervisors to consolidate multiple computers that perform different functions into a single server. For example, if production, marketing, and customer support teams run their workloads on individual physical servers, it can result in idle resources. With a hypervisor, you can host the virtual machines for the respective business units on a single server, even if they require different operating systems and software components.
+
+### Failure recovery
+
+The hypervisor can capture the virtual machine’s previous state in a virtual machine image. The VMI is a file that contains the disk state, installed applications, configurations, and other details of the virtual machine. System administrators can use the image file to restore the virtual machine in case of failure. There is also the capability to create backup copies or move the virtual machine to a different host.
+
+### Legacy system continuity
+
+Some organizations have legacy software applications that outlast their underlying servers. Hypervisors provide an option to continue running the software by virtualizing the hardware environment required. This allows organizations to support their cloud transformation efforts with minimal disruption to existing business workflows.
+
+## What are the types of hypervisors?
+
+There are two types of hypervisors, each differing in architecture and performance.
+
+### Type 1 hypervisor
+
+The type 1 hypervisor sits on top of the metal server and has direct access to the hardware resources. This is why the type 1 hypervisor is also known as a bare-metal hypervisor. The host machine does not have an operating system installed in a bare-metal hypervisor setup. Instead, the hypervisor software acts as a lightweight operating system. Type 1 hypervisors are commonly used in cloud computing environments that require low-latency responses.
+
+#### Pros and cons
+
+Due to its architecture, the type 1 hypervisor is very efficient. It can directly manage and allocate resources for multiple virtual machines without going through the host operating system. These types of hypervisors are also more secure, as the absence of a host operating system reduces OS infiltration risks. However, installing and managing type 1 hypervisors is complex.
+
+### Type 2 hypervisor
+
+The type 2 hypervisor is a hypervisor program installed on a host operating system. It is also known as a hosted or embedded hypervisor. Like other software applications, hosted hypervisors do not have complete control of the computer resources. Instead, the system administrator allocates the resources for the hosted hypervisor, which it distributes to the virtual machines.
+
+#### Pros and cons
+
+Installing a type 2 hypervisor is straightforward, as it’s similar to installing desktop applications. However, the presence of the host operating system introduces latency to the virtualized environment. When the virtual machine requests computing resources, the hypervisor cannot directly access the underlying hardware but relays the request to the host operating system. Also, the hypervisor and its hosted virtual machines are dependent on the stability of the host operating system.
+
+### Type 1 hypervisors compared to type 2 hypervisors
+
+Despite their differences, both types of hypervisors are helpful in different applications. For example, enterprise cloud data centers use type 1 or bare-metal hypervisors because of their efficiency, scalability, and flexibility when allocating resources to virtual machines. Also, a type 1 hypervisor is generally more secure and stable because it does not run on top of another operating system.
+
+Conversely, administrators use type 2 hypervisors because they are more user-friendly. Type 2 hypervisors are easier to install, configure, and use than bare-metal hypervisors. It is similar to installing and using other desktop applications.
+
+### Hybrid hypervisors
+
+Hybrid hypervisors feature overlapping characteristics of type 1 and type 2 hypervisors. They offer high-performance virtualization and are easy to manage. For example, a kernel-based virtual machine (KVM) is considered a hybrid hypervisor, although it leans towards a type 1 hypervisor. It runs from the Linux kernel and can directly access the underlying hardware. Administrators can manage and track virtual machines created with KVM.
+
+## What is a cloud hypervisor?
+
+A cloud hypervisor consists of virtualization technologies that abstract the physical hardware resources of a cloud provider’s data center. They allow organizations to run distributed workloads on the cloud architecture. It allows multi-tenant cloud environments, where individual users or businesses can run workloads or store data in a logically independent compartment.
+
+Cloud providers usually use bare-metal hypervisors to allocate virtualized hardware resources to users. For example, Amazon Elastic Compute Cloud (Amazon EC2) allows organizations to scale their cloud computing capacities with Nitro Hypervisors. EC2 provides a cost-effective cloud solution where businesses only pay for the compute resources needed to run their AWS workload.
+
+## What is the difference between hypervisors and containers?
+
+A container is a software package that stores all the necessary files and configurations to run an application on any container-ready operating system. Developers use containers to reduce software development complexities and improve efficiency when deploying applications. A containerized application can run on a public, hybrid, or on-premises cloud with consistent performance because it is independent of the underlying operating system.
+
+Both hypervisors and containers provide virtualization, but at different software layers. A hypervisor abstracts the hardware from the software environment by virtualizing the underlying processor, memory, and operating system. In contrast, a container runs in a self-contained virtual environment within the host OS.
+
+## What are the security considerations for hypervisors?
+
+Software programs on a virtual machine do not interfere with applications on other guest operating systems, which provides a degree of security. However, the virtualized environment relies on the hypervisor for a robust security posture. Any issues affecting the hypervisor will impact all virtual machines running on top of it. So, it’s essential to use a hypervisor with built-in safeguard measures to secure the workload’s integrity.
+
+## How does AWS help with hypervisors?
+
+AWS Nitro System combination of dedicated hardware and a lightweight hypervisor, enabling faster innovation and enhanced security. It is a next-generation virtualization technology that delegates hypervisor management tasks to specific hardware and software. This enables AWS Nitro System to dedicate all of the compute resources to your AWS workload.
+
+Here are some benefits of AWS Nitro System:
+
+- AWS Nitro System continuously monitors the virtualized resources and helps prevent inadvertent access.
+
+- Organizations achieve enhanced performance with dedicated Nitro Cards, including high-speed networking, high-speed Amazon Elastic Block Store (Amazon EBS), and I/O acceleration.
+
+- AWS Nitro Enclaves allows organizations to create isolated compute environments to protect personally identifiable information (PII), financial data, and other sensitive information.
+
+- AWS Nitro System is compatible with previous versions of EC2 instances. This allows organizations to run existing workloads on modern hardware and software components.
+
+Get started with hypervisors by signing up for a free AWS account today.
+
+## Next steps on AWS
+
+### Check out additional product-related resources
+
+ Learn more about Compute Services
+
+### Sign up for a free account
+
+Instant get access to the AWS Free Tier.
+
+ Sign up
+
+### Start building in the console
+
+Get started building in the AWS management console.
+
+ Sign in
+
+## Browse all cloud computing concepts
+
+Browse all cloud computing concepts content here:
+
+Loading
+
+Loading
+
+Loading
+
+Loading
+
+Loading
+
+## Did you find what you were looking for today?
+
+Let us know so we can improve the quality of the content on our pages
+
+ Yes
+ No
+
+ Create an AWS account
+
+## Learn
+
+- What Is AWS?
+
+- What Is Cloud Computing?
+
+- What Is Agentic AI?
+
+- Cloud Computing Concepts Hub
+
+- AWS Cloud Security
+
+- What's New
+
+- Blogs
+
+- Press Releases
+
+## Resources
+
+- Getting Started
+
+- Training
+
+- AWS Trust Center
+
+- AWS Solutions Library
+
+- Architecture Center
+
+- Product and Technical FAQs
+
+- Analyst Reports
+
+- AWS Partners
+
+## Developers
+
+- Builder Center
+
+- SDKs & Tools
+
+- .NET on AWS
+
+- Python on AWS
+
+- Java on AWS
+
+- PHP on AWS
+
+- JavaScript on AWS
+
+## Help
+
+- Contact Us
+
+- File a Support Ticket
+
+- AWS re:Post
+
+- Knowledge Center
+
+- AWS Support Overview
+
+- AWS Accessibility
+
+- Legal
+
+- Event Code of Conduct
+
+- Event Terms & Conditions
+
+ English
+
+ Back to top
+
+ Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability or other legally protected status. Veterans, military spouses, and people with disabilities are encouraged to apply.
+
+- Privacy
+
+- Site terms
+
+- Your Privacy Choices 
+
+- Cookie Preferences
+
+ © 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.

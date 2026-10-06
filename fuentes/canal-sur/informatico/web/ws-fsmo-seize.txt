@@ -1,0 +1,418 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/active-directory/transfer-or-seize-operation-master-roles-in-ad-ds
+Leído: 2026-10-06 (ms.date 2025-01-15T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Transferir o aprovechar los roles maestros de operaciones en Servicios de dominio de Active Directory
+
+ Comentarios
+
+## 
+
+En este artículo se describe cuándo y cómo transferir o aprovechar los roles maestros de operación, anteriormente conocidos como roles de operaciones de maestro único flexible (FSMO).
+
+Número de KB original: 255504
+
+## Más información
+
+Dentro de un bosque de Active Directory Domain Services (AD DS), hay tareas específicas que debe ejecutar solo un controlador de dominio (DC). Los controladores de dominio asignados para realizar estas operaciones únicas se conocen como titulares de roles maestros de operaciones. En la tabla siguiente se enumeran los roles maestros de operación y su ubicación en Active Directory.
+
+ | Role
+ | Ámbito
+ | Contexto de nomenclatura (partición de Active Directory)
+
+ | Maestro de esquema
+ | En todo el bosque
+ | CN=Schema,CN=configuration,DC=<forest root domain>
+
+ | Maestro de nomenclatura de dominios
+ | En todo el bosque
+ | CN=configuration,DC=<forest root domain>
+
+ | emulador PDC
+ | En todo el dominio
+ | DC=<domain>
+
+ | Maestro de RID de
+ | En todo el dominio
+ | DC=<domain>
+
+ | Maestro de infraestructura
+ | En todo el dominio
+ | DC=<domain>
+
+Para obtener más información sobre los titulares de roles del maestro de operaciones y recomendaciones para colocar los roles, consulte Selección de ubicación y optimización de FSMO en controladores de dominio de Active Directory.
+
+Nota:
+
+Las particiones de aplicación de Active Directory que incluyen particiones de aplicación DNS tienen vínculos de rol maestro de operación. Si una partición de aplicación DNS define un propietario para el rol maestro de infraestructura (IM), no puede usar Ntdsutil, DCPromo u otras herramientas para quitar esa partición de aplicación. Para obtener más información, consulte La degradación de DCPROMO falla si no se puede contactar con el maestro de infraestructura DNS.
+
+Cuando un controlador de dominio que ha estado actuando como titular de roles comienza a ejecutarse (por ejemplo, después de un error o apagado), no se reanuda inmediatamente como titular del rol. El controlador de dominio espera a recibir la replicación entrante de su contexto de nomenclatura (por ejemplo, el propietario del rol de maestro de esquema espera a recibir la replicación entrante de la partición de esquema).
+
+La información que pasan los controladores de dominio como parte de la replicación de Active Directory incluye las identidades de los titulares actuales del rol maestro de operaciones. Cuando el controlador de dominio recién iniciado recibe la información de replicación entrante, comprueba si sigue siendo el titular del rol. Si lo es, reanuda sus operaciones habituales. Si la información replicada indica que otro controlador de dominio actúa como contenedor del rol, el controlador de dominio recién iniciado renuncia a su propiedad de rol. Este comportamiento reduce la posibilidad de que el dominio o el bosque tengan titulares de roles maestros de operación duplicados.
+
+Importante
+
+Las operaciones de AD FS producen un error si requieren un titular de roles y si el titular del rol recién iniciado es, de hecho, el titular del rol y no recibe la replicación entrante.
+
+El comportamiento resultante es similar a lo que sucedería si el contenedor del rol estuviera desconectado.
+
+## Determinar cuándo transferir o asumir roles
+
+Bajo condiciones normales, los cinco roles se deben asignar a controladores de dominio "activos" del bosque. Al crear un bosque de Active Directory, el Asistente para instalación de Active Directory (Dcpromo.exe) asigna los cinco roles maestros de operación al primer controlador de dominio que crea en el dominio raíz del bosque. Al crear un dominio secundario o de árbol, el mecanismo de creación asigna los tres roles de todo el dominio al primer controlador de dominio del dominio.
+
+Los controladores de dominio siguen siendo propietarios de roles maestros de operación hasta que se reasignan mediante uno de los métodos siguientes:
+
+- Para reasignar la función, el administrador debe utilizar una herramienta administrativa GUI.
+
+- Un administrador reasigna el rol mediante el comando `ntdsutil /roles`.
+
+- Un administrador utiliza el Asistente para instalación de Active Directory para degradar correctamente un controlador de dominio contenedor de funciones. Este asistente reasigna las funciones contenidas localmente a un controlador de dominio existente del bosque.
+
+- Un administrador desvía un controlador de dominio que contiene roles mediante el `Uninstall-ADDSDomainController -ForceRemoval` comando o `dcpromo /forceremoval` .
+
+- El controlador de dominio se apaga y se reinicia. Cuando el controlador de dominio se reinicia, recibe información de replicación entrante que indica que otro controlador de dominio es el contenedor del rol. En este caso, el controlador de dominio recién iniciado renuncia al rol (como se describió anteriormente).
+
+Si un titular de roles del maestro de operaciones experimenta un error o se quita del servicio antes de transferir sus roles, debe tomar y transferir todos los roles a un controlador de dominio adecuado y correcto.
+
+Se recomienda transferir roles maestros de operación en los escenarios siguientes:
+
+- El nuevo propietario del patrón de operaciones puede acceder al titular del rol actual y puede acceder a él en la red.
+
+- Está degradando correctamente un controlador de dominio que posee actualmente los roles maestros de operación que quiere asignar a un controlador de dominio específico en el bosque de Active Directory.
+
+- El controlador de dominio que posee actualmente los roles del maestro de operaciones se está desconectando para el mantenimiento programado y tiene que asignar roles de maestro de operación específicos a controladores de dominio activos. Es posible que tenga que transferir roles para realizar operaciones que afecten al propietario del patrón de operaciones. Esto es particularmente cierto para el rol de Emulador de PDC. Se trata de un problema menos importante para el rol maestro RID, el rol maestro de nomenclatura de dominio y los roles maestros de esquema.
+
+Se recomienda aprovechar los roles maestros de operaciones en los escenarios siguientes:
+
+- 
+El titular del rol actual está experimentando un error operativo que impide que una operación dependiente del patrón de operación se complete correctamente y no se pueda transferir el rol.
+
+- 
+Use el `Uninstall-ADDSDomainController -ForceRemoval` comando o `dcpromo /forceremoval` para forzar la degradación de un controlador de dominio que posee un rol maestro de operación.
+
+Importante
+
+El `force-demote` comando puede dejar roles maestros de operación en un estado no válido hasta que un administrador vuelva a asignarlo.
+
+- 
+El sistema operativo del equipo que poseía originalmente una función específica ya no existe o se ha reinstalado.
+
+Nota:
+
+- Se recomienda usar solo todos los roles cuando el titular del rol anterior no vuelva al dominio.
+
+- Si los roles maestros de operación tienen que usarse en escenarios de recuperación de bosques, consulte el paso 5 en Realizar la recuperación inicial en la sección Restaurar el primer controlador de dominio que se puede escribir en cada dominio .
+
+- Después de una transferencia de roles o un ataque, el nuevo titular del rol no actúa inmediatamente. En su lugar, el nuevo titular de rol se comporta como un titular de rol reiniciado y espera a su copia del contexto de nomenclatura para que el rol (como la partición de dominio) complete correctamente un ciclo de replicación entrante. Este requisito de replicación ayuda a asegurar que el nuevo titular de rol esté lo más actualizado posible antes de que lleve a acabo acciones. También limita la ventana de oportunidad para los errores. Esta ventana solo incluye los cambios que el anterior titular de rol no terminó de replicar en los demás controladores de dominio antes de desconectarse. Para obtener una lista del contexto de nomenclatura de cada rol maestro de operación, vea la tabla en la sección Más información .
+
+## Identificar un nuevo titular de roles
+
+El mejor candidato para el nuevo titular de rol es un controlador de dominio que cumple los siguientes criterios:
+
+- Reside en el mismo dominio que el anterior titular de rol.
+
+- Tiene la copia grabable replicada más reciente de la partición de rol.
+
+Por ejemplo, suponga que tiene que transferir el rol de maestro de esquema. El rol maestro de esquema forma parte de la partición de esquema del bosque (CN=Schema,CN=Configuration,DC=<dominio raíz> del bosque). El mejor candidato para un nuevo titular de rol es un controlador de dominio que también resida en el dominio raíz del bosque y en el mismo sitio de Active Directory que el titular de rol actual.
+
+Precaución
+
+El rol maestro de infraestructura ya no es necesario si se cumplen las condiciones siguientes:
+
+- Todos los controladores de dominio del dominio son catálogos globales (GCs). En este caso, los GCs obtienen actualizaciones que quitan las referencias entre dominios.
+
+- La papelera de reciclaje de AD está habilitada en el bosque. En este caso, cada controlador de dominio es responsable de actualizar sus referencias.
+
+Se recomienda definir un propietario adecuado del maestro de infraestructura para evitar errores y advertencias de las herramientas de supervisión.
+
+Si todavía necesita el rol maestro de infraestructura:
+
+No coloque el rol maestro de infraestructura en el mismo controlador de dominio que el servidor de catálogo global. Si el maestro de infraestructura se ejecuta en un servidor de catálogo global, deja de actualizar la información del objeto porque no contiene referencias a objetos que no contiene. Esta situación se produce porque un servidor de catálogo global contiene una réplica parcial de cada objeto del bosque.
+
+El rol maestro de infraestructura ya no se usa una vez que habilite la Papelera de reciclaje de Active Directory. La Papelera de reciclaje de AD cambia el enfoque para controlar las referencias de objetos que se quitan.
+
+Para probar si un controlador de dominio también es un servidor de catálogo global, siga estos pasos:
+
+Uso de sitios y servicios de Active Directory:
+
+- Seleccione Iniciar>Programas>Herramientas administrativas> Sitios y servicios de Active Directory.
+
+- En el panel de navegación, haga doble clic en Sitios y luego localice el sitio apropiado o haga clic en Nombre-predeterminado-primer-sitio si no hay ningún otro sitio disponible.
+
+- Abra la carpeta Servidores y, a continuación, seleccione el controlador de dominio.
+
+- En la carpeta de los controladores de dominio, haga doble clic en Configuración de NTDS.
+
+- En el menú Acción haga clic en Propiedades.
+
+- En la pestaña General , vea la casilla Catálogo global para ver si está seleccionada.
+
+Uso de Windows PowerShell:
+
+- 
+Inicie PowerShell.
+
+- 
+Escriba el siguiente cmdlet y ajuste `DC_NAME` con el nombre de controlador de dominio real:
+
+`(Get-ADDomainController -Filter { Name -Eq 'DC_NAME' }).IsGlobalCatalog
+`
+
+- 
+La salida será `True` o `False`.
+
+Para más información, vea:
+
+- Recuperación del bosque de AD: aprovechando un rol de maestro de operaciones
+
+- Planear la ubicación del rol de maestro de operaciones
+
+## Uso o transferencia de roles maestros de operación
+
+Puede usar Windows PowerShell o Ntdsutil para aprovechar o transferir roles. Para obtener información y ejemplos de cómo usar PowerShell para estas tareas, vea Move-ADDirectoryServerOperationMasterRole.
+
+Importante
+
+Para evitar el riesgo de los SID duplicados en el dominio, las convulsiones de Rid Master incrementan el siguiente RID disponible en el grupo cuando se toma el rol maestro rid. Este comportamiento puede hacer que el bosque consuma intervalos disponibles de valores RID significativamente (también conocidos como quemaduras rid). Por lo tanto, aproveche el maestro rid solo cuando esté seguro de que el maestro rid actual no se puede devolver al servicio.
+
+Si tiene que aprovechar el rol maestro rid, tenga en cuenta los detalles siguientes:
+
+- El cmdlet Move-ADDirectoryServerOperationMasterRole aumenta el siguiente grupo rid en 30 000 desde lo que encuentra en Active Directory.
+
+- Cuando se usa la utilidad Ntdsutil.exe con los `roles` comandos de categoría, aumenta el siguiente grupo rid en 10 000.
+
+Para aprovechar o transferir los roles maestros de operación mediante la utilidad Ntdsutil, siga estos pasos:
+
+- 
+Inicie sesión en un equipo miembro que tenga instaladas las herramientas de RSAT de AD o un controlador de dominio que se encuentra en el bosque donde se transfieren los roles maestros de operación.
+
+Nota:
+
+- Se recomienda iniciar sesión en el controlador de dominio al que va a asignar roles maestros de operación.
+
+- El usuario que ha iniciado sesión debe ser miembro del grupo Administradores de empresa para transferir roles maestros de esquema o maestro de nomenclatura de dominio, o un miembro del grupo Administradores de dominio del dominio donde se transfiere el emulador de PDC, el maestro rid y los roles maestros de infraestructura.
+
+- 
+Seleccione Inicio>Ejecutar, escriba ntdsutil en el cuadro Abrir y luego seleccione Aceptar.
+
+- 
+Escriba roles y presione ENTRAR.
+
+Nota:
+
+Para ver una lista de comandos disponibles en cualquiera de los símbolos del sistema de la utilidad Ntdsutil, escriba ? y luego presione ENTRAR.
+
+- 
+Escriba connections y luego presione ENTRAR.
+
+- 
+Escriba connect to server servername> (Conectarse al nombre del servidor<) y presione Entrar.
+
+Nota:
+
+En este comando, <servername> es el nombre del controlador de dominio al que desea asignar el rol Maestro de operación.
+
+- 
+En el símbolo del sistema server connections, escriba q y luego presione ENTRAR.
+
+- 
+Realice alguna de las siguientes acciones:
+
+- 
+Para transferir el rol: escriba el rol> de transferencia <y presione Entrar.
+
+Nota:
+
+En este comando, <role> es el rol que desea transferir.
+
+- 
+Para aprovechar el rol: escriba el rol> de asignación <y presione Entrar.
+
+Nota:
+
+En este comando, <role> es el rol que desea aprovechar.
+
+Por ejemplo, para asumir el rol de maestro RID, escriba seize rid master. Las excepciones son para el rol del emulador de PDC, cuya sintaxis es seize pdc y el maestro de nomenclatura de dominio, cuya sintaxis es seize naming master.
+
+Para ver una lista de roles que puede transferir o aprovechar, escriba ? en el símbolo del mantenimiento de fsmo y presione Entrar o vea la lista de roles al principio de este artículo.
+
+- 
+En el símbolo del sistema fsmo maintenance, escriba q y luego presione ENTRAR para obtener acceso al símbolo del sistema de ntdsutil. Escriba q y luego presione ENTRAR para salir de la utilidad Ntdsutil.
+
+## Consideraciones al reparar o quitar titulares de roles anteriores
+
+Si es posible, y si puede transferir los roles en lugar de asignarlos, corrija el titular del rol anterior. Si no puede corregir el titular del rol anterior o si ha extraído los roles, quite el titular del rol anterior del dominio.
+
+Importante
+
+Si pretende usar el equipo reparado como un controlador de dominio, se recomienda reconstruir el equipo como un controlador de dominio desde cero en lugar de restaurar el controlador de dominio desde una copia de seguridad. El proceso de restauración vuelve a reconstruir el controlador de dominio como titular del rol.
+
+- 
+Para devolver el equipo reparado al bosque como controlador de dominio:
+
+- 
+Realice alguna de las siguientes acciones:
+
+- Formatee el disco duro del anterior titular del rol y vuelva a instalar Windows en el equipo.
+
+- Degrade por la fuerza el antiguo titular del rol a un servidor miembro.
+
+- 
+En otro controlador de dominio del bosque, use Ntdsutil para quitar los metadatos del antiguo titular del rol. Para obtener más información, vea Limpiar los metadatos del servidor mediante Ntdsutil.
+
+- 
+Después de limpiar los metadatos puede volver a promover el equipo a un controlador de dominio y volver a transferirle un rol.
+
+- 
+Para quitar el equipo del bosque después de tomar sus roles:
+
+- Quite el equipo del dominio.
+
+- En otro controlador de dominio del bosque, use Ntdsutil para quitar los metadatos del antiguo titular del rol. Para obtener más información, vea Limpiar los metadatos del servidor mediante Ntdsutil.
+
+## Consideraciones al reintegrar islas de replicación
+
+Cuando parte de un dominio o bosque no se puede comunicar con el resto del dominio o bosque durante un tiempo prolongado, las secciones aisladas de dominio o bosque se conocen como islas de replicación. Los controladores de dominio de una isla no se pueden replicar con los controladores de dominio de otras islas. En varios ciclos de replicación, las islas de replicación no se sincronizan. Si cada isla tiene sus propios titulares de roles maestros de operación, es posible que tenga problemas al restaurar la comunicación entre las islas.
+
+Importante
+
+En la mayoría de los casos, puede aprovechar el requisito de replicación inicial (como se describe en este artículo) para eliminar los titulares de roles duplicados. Un titular de rol reiniciado debe renunciar al rol si detecta un titular de rol duplicado.
+
+Puede encontrar circunstancias que este comportamiento no resuelve. En tales casos, la información de esta sección puede ser útil.
+
+En la tabla siguiente se identifican los roles maestros de operación que pueden causar problemas si un bosque o dominio tiene varios titulares de roles para ese rol:
+
+ | Role
+ | ¿Posibles conflictos entre varios titulares de roles?
+
+ | Maestro de esquema
+ | Sí
+
+ | Maestro de nomenclatura de dominios
+ | Sí
+
+ | Maestro de RID de
+ | Sí
+
+ | emulador PDC
+ | No
+
+ | Maestro de infraestructura
+ | No
+
+Este problema no afecta al maestro del emulador de PDC ni al maestro de infraestructura. Estos titulares de roles no conservan los datos operativos. Además, el maestro de infraestructura no realiza cambios a menudo. Por lo tanto, si varias islas tienen estos titulares de roles, puede reintegrarlas sin causar problemas a largo plazo.
+
+El maestro de esquema, el maestro de nomenclatura de dominio y el maestro RID pueden crear objetos y conservar los cambios en Active Directory. Cada isla que tenga uno de estos titulares de roles podría tener objetos de esquema, dominios o grupos de RID duplicados y en conflicto en el momento en que restaure la replicación. Antes de integrar las islas, determine qué titulares de roles debe conservar. Quite los maestros de esquema, los maestros de nomenclatura de dominios y los maestros de RID duplicados siguiendo los procedimientos de reparación, eliminación y limpieza que se mencionan en este artículo.
+
+## Referencias
+
+Para más información, vea:
+
+- Roles de FSMO de Active Directory en Windows
+
+- Ubicación y optimización del FSMO en los controladores de dominio de Active Directory
+
+- Proceso de transferencia y asunción de Flexible Single Master Operation
+
+- Procedimiento: Usar Ntdsutil para buscar y limpiar identificadores de seguridad duplicados en Windows Server
+
+- Fantasmas, lápidas y el maestro de infraestructura
+
+- Solución de problemas del identificador de evento DNS 4013: el servidor DNS no pudo cargar zonas DNS integradas de AD
+
+- Se produce un error en la degradación de DCPROMO si no se puede ponerse en contacto con el maestro de infraestructura DNS
+
+- Roles de FSMO
+
+- Realización de la recuperación inicial
+
+- Recuperación del bosque de AD: aprovechando un rol de maestro de operaciones
+
+- Limpiar los metadatos del servidor mediante Ntdsutil
+
+- Planear la ubicación del rol de maestro de operaciones
+
+- Move-ADDirectoryServerOperationMasterRole
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ Sí
+
+ No
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ ¿Sugerir una corrección? 
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2025-01-15
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

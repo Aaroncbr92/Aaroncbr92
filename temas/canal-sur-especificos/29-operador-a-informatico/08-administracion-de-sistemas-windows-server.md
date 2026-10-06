@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Operador/a Informático · punto 8 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. Documentación oficial de Microsoft en Microsoft Learn (Windows Server 2025, Active Directory Domain Services, módulo ActiveDirectory de PowerShell, referencia de órdenes de Windows) y artículos de soporte técnico de Microsoft. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día; la versión de producto es la vigente el 24-09-2026 (Windows Server 2025) |
-| Extensión | 12.400 palabras aproximadamente, con tablas, siglas y ejemplos de órdenes |
+| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día, y las añadidas el 06-10-2026 (permisos combinados, roles FSMO, hora y Kerberos, directivas de contraseña y bloqueo); la versión de producto es la vigente el 24-09-2026 (Windows Server 2025) |
+| Extensión | 15.000 palabras aproximadamente, con tablas, siglas y ejemplos de órdenes |
 
 <!-- /portada -->
 
@@ -37,7 +37,7 @@ solución de contraseñas de administrador local de Windows (Windows LAPS); red 
 llamada a procedimiento remoto (RPC); protocolo de control de transmisión (TCP) y de datagramas de
 usuario (UDP); seguridad de la capa de transporte (TLS) y su antecesora (SSL); protocolo de
 internet (IP); motor de almacenamiento extensible (ESE), la base de datos de Active Directory;
-protocolo de escritorio remoto (RDP); interfaz gráfica de usuario (GUI); tecnologías de la
+protocolo de escritorio remoto (RDP); protocolo de tiempo de red (NTP, *network time protocol*); sistema de posicionamiento global (GPS); interfaz gráfica de usuario (GUI); tecnologías de la
 información (TI); valores separados por comas (CSV, *comma-separated values*), el formato de fichero
 de las altas masivas; NTLM, el protocolo de autenticación de Windows anterior a Kerberos, y KRBTGT,
 la cuenta de servicio de Kerberos, que se citan por su nombre; SYSVOL, nombre de la carpeta que
@@ -57,13 +57,14 @@ y la replicación; qué son un bosque, un dominio, un árbol y una unidad organi
 de confianza une a los dominios de un bosque; qué son los sitios; qué protocolos y puertos usa
 Active Directory (LDAP 389 y 636, catálogo global 3268 y 3269, Kerberos 88, DNS 53, SMB 445); qué
 son los niveles funcionales; qué hace un controlador de dominio, qué son los cinco roles FSMO y
-cuáles son de bosque y cuáles de dominio; qué es un RODC y por qué no puede tener roles FSMO; qué
+cuáles son de bosque y cuáles de dominio; cómo se consulta quién tiene los roles FSMO y cómo se transfieren o se toman; qué es un RODC y por qué no puede tener roles FSMO; qué
 hay en SYSVOL; cómo se instala AD DS y se promueve un servidor a controlador de dominio, qué
 credenciales hacen falta y qué se instala con él por defecto; qué cuentas crea el dominio; cómo se
-crea, se deshabilita, se desbloquea, se restablece y se elimina una cuenta; qué distingue un grupo
+crea, se deshabilita, se desbloquea, se restablece y se elimina una cuenta; qué fijan las directivas de contraseña y de bloqueo de cuentas del dominio y con qué valores vienen; qué distingue un grupo
 de seguridad de uno de distribución y los ámbitos universal, global y dominio local; qué grupos
 predeterminados hay y qué puede hacer cada uno; qué distingue un derecho de un permiso; qué hacen
-DNS, DHCP, SMB, DFS y las directivas de grupo en un dominio. En la aplicación práctica: dar de alta un
+DNS, DHCP, SMB, DFS y las directivas de grupo en un dominio; cómo se combinan los permisos del
+recurso compartido y los NTFS; por qué un reloj desajustado impide autenticarse con Kerberos. En la aplicación práctica: dar de alta un
 usuario en una UO con su contraseña temporal, meterlo en un grupo y darle acceso a una carpeta
 compartida; atender a un usuario bloqueado; unir un equipo al dominio; decidir el ámbito de un grupo;
 y diagnosticar por qué un equipo no encuentra el controlador de dominio.
@@ -155,7 +156,8 @@ Novedades de la versión 2025 que tocan al tema:
   de base de datos de 8k.»** La versión 2025 añade una **«Función opcional de tamaño de página de
   base de datos de 32k»**, que exige el nuevo nivel funcional (epígrafe 2).
 - Más seguridad en LDAP: **«todas las nuevas implementaciones de Active Directory requieren la firma
-  LDAP (sellado) de forma predeterminada»**, y LDAP admite TLS 1.3.
+  LDAP (sellado) de forma predeterminada para toda la comunicación del cliente LDAP después de un
+  enlace de capa de autenticación y seguridad simple (SASL)»**, y LDAP admite TLS 1.3.
 
 ### Server Core y Experiencia de escritorio
 
@@ -366,6 +368,32 @@ inicio de sesión único: **«Con la autenticación Kerberos dentro de un domini
 usuario o servicio puede tener acceso a los recursos permitidos por los administradores sin varias
 solicitudes de credenciales.»**
 
+Kerberos depende de la hora. Contra los ataques de repetición usa marcas de tiempo, y para que
+funcionen **«the clocks of the client and the domain controller need to be in sync as much as
+possible»**. La directiva que fija el margen es *Maximum tolerance for computer clock synchronization*
+(así la nombra la página de Microsoft, en inglés): **«This security setting determines the maximum
+time difference (in minutes) that Kerberos V5 tolerates between the time on the client clock and the
+time on the domain controller that provides Kerberos authentication.»** Está en **«Computer
+Configuration\Windows Settings\Security Settings\Account Policies\Kerberos Policy»**, y en la
+directiva predeterminada del dominio (*Default Domain Policy*) vale **«5 minutes»**, que es también
+el valor que Microsoft aconseja. DCDiag, en su prueba CheckSecurityError (que no se ejecuta por
+defecto) con el parámetro `/ReplSource`, mira que la asimetría de hora entre los dos servidores sea
+**«inferior a 300 segundos (5 minutos) para Kerberos»**, sin consultar si la directiva de Kerberos
+cambió ese margen. Por eso un equipo con
+el reloj diez minutos desviado del controlador no consigue autenticarse con Kerberos.
+
+La hora del dominio la reparte el servicio Hora de Windows (W32Time) siguiendo la jerarquía de AD DS:
+un servidor miembro o una estación de trabajo **«sincroniza la hora con un controlador de dominio en
+su dominio local que esté ejecutando actualmente el servicio de hora de Windows»**, y en lo alto
+**«el equipo que tiene el rol de maestro de operaciones emulador del controlador de dominio principal
+(PDC), ubicado en el dominio raíz del bosque, ejerce el papel de mejor fuente de tiempo, a menos que
+se haya configurado otra fuente de tiempo confiable.»** Ese equipo es el que se configura contra un
+origen externo: **«configura el controlador de dominio que funciona como emulador del controlador de
+dominio principal (PDC) en la raíz del bosque para que se sincronice con el servidor NTP
+proporcionado por el dispositivo GPS.»** Y Microsoft advierte de lo que pasa si un equipo se
+sincroniza por su cuenta con otro origen: **«es posible que los dos equipos no estén sincronizados,
+lo que provoca un error en la autenticación Kerberos.»**
+
 Los puertos del controlador de dominio, según el artículo de Microsoft sobre cortafuegos para dominios
 y confianzas (Windows Server 2008 y posteriores):
 
@@ -382,6 +410,14 @@ y confianzas (Windows Server 2008 y posteriores):
 | Asignador de extremos de RPC | **135/TCP** |
 | W32Time (hora) | **123/UDP** |
 | Servicios web de Active Directory (ADWS) | **9389/TCP** |
+| RPC para LSA, SAM, NetLogon; FRS RPC; DFSR RPC | **49152-65535/TCP** (intervalo dinámico) |
+
+El intervalo dinámico es el de Windows Server 2008 y posteriores: **«El nuevo puerto de inicio
+predeterminado es 49152 y el puerto final predeterminado es 65535. Por lo tanto, debe aumentar el
+intervalo de puertos RPC en los firewalls.»** Del 445, el artículo precisa que en las confianzas
+**«Para el funcionamiento de la confianza este puerto no es necesario, se usa solo para la creación de
+confianza.»** La tabla no es obligatoria entera en todos los casos: **«No todos los puertos
+que aparecen en estas tablas son necesarios en todos los escenarios.»**
 
 El mismo artículo explica cuándo sobran los cifrados: **«si sabe que ningún cliente usa LDAP con
 SSL/TLS, no tiene que abrir los puertos 636 y 3269.»** El atajo de memoria: 389 y 636 van juntos,
@@ -413,7 +449,11 @@ No hay nivel 2019 ni 2022: **«Windows Server 2019 y Windows Server 2022 usan Wi
 el nivel funcional más reciente.»** El nivel 2025 sólo admite controladores 2025 y es el que permite
 las páginas de 32k; en instalación desatendida **«se asigna al valor de `DomainLevel 10` y
 `ForestLevel 10`»**. Y un mínimo nuevo: **«Los nuevos bosques de Active Directory o conjuntos de
-configuración de AD LDS deben tener un nivel funcional de Windows Server 2016 o posterior.»** Con el
+configuración de AD LDS deben tener un nivel funcional de Windows Server 2016 o posterior. La
+promoción de una réplica de Active Directory o AD LDS requiere que el dominio o conjunto de
+configuración existente ya se esté ejecutando con un nivel funcional de Windows Server 2016 o
+posterior.»** Es decir: para añadir un controlador 2025 a un dominio existente, este ha de estar ya en
+nivel 2016 o superior. Con el
 nivel 2016, además, **«Los dominios deben usar DFSR como motor para replicar SYSVOL.»**
 
 ## 3. El controlador de dominio
@@ -475,6 +515,61 @@ cambios en los propietarios de roles debe iniciarlos un administrador.»** Micro
 repartirlos y designar maestros en espera, **«controladores de dominio a los que puede transferir
 los roles de maestro de operaciones en el caso de que los titulares de roles originales fallen.»**
 
+*Consultar quién los tiene.* Desde un símbolo del sistema con privilegios elevados, `netdom query
+fsmo`: la opción FSMO **«consulta el dominio para obtener la lista actual de propietarios de roles de
+operaciones maestras únicas flexibles (FSMO).»** `netdom` **«Está disponible si tiene instalado el rol
+de servidor active Directory Domain Services (AD DS). También está disponible si instala las
+herramientas de AD DS que forman parte de las Herramientas de administración remota del servidor
+(RSAT).»** En las consolas, cada rol se ve en una distinta: **«Puede ver los propietarios del
+emulador de PDC, el maestro rid y los roles maestros de infraestructura en Usuarios y equipos de
+Active Directory. Puede ver el propietario del rol maestro de esquema en el complemento Esquema de
+Active Directory. Puede ver el propietario del rol maestro de nomenclatura de dominio en Dominio de
+Active Directory y confianzas.»** En Usuarios y equipos, botón derecho sobre el dominio, Maestros de
+operaciones, con las pestañas PDC, Infraestructura y Grupo de RID. El complemento Esquema de Active
+Directory no aparece hasta registrar su biblioteca: **«regsvr32 schmmgmt.dll»**.
+
+*Transferir o tomar.* Transferir es pasar el rol de forma ordenada, con el titular actual en
+marcha; tomar (*seize*; la traducción automática de Microsoft dice «aprovechar» o «asumir») es
+quedarse con él cuando el titular ya no responde. Microsoft recomienda transferir cuando **«El nuevo
+propietario del patrón de operaciones puede acceder al titular del rol actual»**, al degradar el
+titular o al desconectarlo para mantenimiento programado; y tomar cuando el titular falla y **«no se
+pueda transferir el rol»** o **«El sistema operativo del equipo que poseía originalmente una función
+específica ya no existe o se ha reinstalado.»** Dicho de otro modo: **«Si ya no existe un equipo, se
+debe asumir el rol.»** Quién puede hacerlo: un miembro de **«Administradores de empresa para
+transferir roles maestros de esquema o maestro de nomenclatura de dominio, o un miembro del grupo
+Administradores de dominio del dominio donde se transfiere el emulador de PDC, el maestro rid y los
+roles maestros de infraestructura.»**
+
+Con PowerShell, `Move-ADDirectoryServerOperationMasterRole`. `-Identity` es el servidor que recibe
+los roles (**«The Identity parameter specifies the directory server that receives the roles.»**; un
+párrafo de la misma página dice, en contra, que señala al titular actual, pero sus ejemplos lo usan
+como destino) y `-OperationMasterRole` los roles, por su nombre (**«PDCEmulator, RIDMaster,
+InfrastructureMaster, SchemaMaster, or DomainNamingMaster»**), separados por comas si son varios. Sin
+más parámetros transfiere, y **«This is the recommended option.»** Con `-Force` toma el rol: **«This
+operation still attempts graceful transfer first, then seizes if transfer is not possible.»** A
+diferencia de `ntdsutil`, el cmdlet **«can be remotely executed from any domain joined computer where
+the Active Directory module for Windows PowerShell administration module is installed»**.
+
+```powershell
+Move-ADDirectoryServerOperationMasterRole -Identity "DC2" -OperationMasterRole RIDMaster
+Move-ADDirectoryServerOperationMasterRole -Identity "DC2" -OperationMasterRole RIDMaster -Force
+```
+
+La primera orden transfiere el maestro RID a `DC2`; la segunda lo toma si el titular no responde
+(el nombre del servidor es inventado). Con `ntdsutil` la secuencia es `roles`, `connections`,
+`connect to server <servidor>`, `q` y, en el símbolo *fsmo maintenance*, `transfer <rol>` o
+`seize <rol>`; por ejemplo **«seize rid master»**, con las excepciones **«seize pdc»** y **«seize
+naming master»**. En la consola gráfica se transfiere con el botón Cambiar de la misma ventana
+Maestros de operaciones; tomar exige `ntdsutil` o el cmdlet.
+
+Dos consecuencias. Tomar el maestro RID gasta identificadores: el cmdlet **«aumenta el siguiente grupo
+rid en 30 000»** y `ntdsutil`, **«en 10 000»**, por lo que sólo se hace si el maestro RID actual no
+puede volver. Y el antiguo titular no debe volver tal cual: **«Si no puede corregir el titular del rol
+anterior o si ha extraído los roles, quite el titular del rol anterior del dominio.»**; si se quiere
+reutilizar como controlador, Microsoft recomienda reconstruirlo desde cero (formatear y reinstalar
+Windows, o degradarlo por la fuerza a servidor miembro), limpiar sus metadatos con `ntdsutil` en
+otro controlador del bosque y sólo entonces volver a promoverlo.
+
 ### Catálogo global
 
 El catálogo global es una función que se activa en un controlador: guarda información de todos los
@@ -491,8 +586,9 @@ universales»**.
 
 ### Controlador de dominio de solo lectura (RODC)
 
-Un RODC guarda una copia del directorio que no se puede modificar; está pensado para sedes donde el
-servidor no está bien protegido. Dos reglas suyas:
+Un RODC guarda una copia del directorio que no se puede modificar. Uno de sus objetivos, según
+Microsoft, son **«los escenarios de sucursales, en los que puede que la red de área extensa no esté
+disponible»**. Dos reglas suyas:
 
 - No puede tener roles FSMO: **«Debido a la naturaleza de solo lectura de la base de datos de Active
   Directory en un controlador de dominio de solo lectura (RODC), los RODC no pueden actuar como
@@ -630,11 +726,17 @@ Administradores de empresa pueden administrar cuentas de usuario, grupo y equipo
 grupo Operadores de cuenta pueden crear, modificar y eliminar cuentas de usuario, pero no pueden
 administrar grupos o permisos.»** El equipo **«debe estar unido a un dominio»**.
 
+Ojo: esa frase sobre los Operadores de cuentas contradice a la página de Microsoft sobre grupos de
+seguridad, que es la que define el grupo y dice que sus miembros sí crean y modifican **«los grupos
+locales y los grupos globales»** (epígrafe «Los grupos predeterminados»). Microsoft no aclara la
+discrepancia; el tema sigue la página de grupos de seguridad, y si un test pregunta si los
+Operadores de cuentas pueden crear grupos globales o locales, se responde con ella.
+
 La otra consola es el Centro de administración de Active Directory (ADAC), que se abre
 **«desde el menú Herramientas de la consola de Administrador del servidor o ejecutando una sesión de
 PowerShell con privilegios elevados y escribiendo dsac.exe.»** Además de administrar cuentas, gestiona
-la papelera de reciclaje de Active Directory y las directivas de contraseña detalladas. El nombre de archivo de la consola clásica
-(`dsa.msc`) es de uso común, pero no figura en las páginas leídas.
+la papelera de reciclaje de Active Directory y las directivas de contraseña detalladas. La consola clásica se abre también
+desde Ejecutar: **«escriba dsa.msc»**.
 
 ### Crear una cuenta de usuario
 
@@ -784,7 +886,7 @@ dominio.»** Los que más se preguntan:
 | Admins. del dominio | **«Los miembros del grupo de seguridad Administradores de dominio están autorizados para administrar el dominio. De forma predeterminada, el grupo Administradores de dominio es miembro del grupo Administradores en todos los equipos que se unen a un dominio, incluidos los controladores de dominio.»** |
 | Administradores de empresas | **«solo existe en el dominio raíz de un bosque»**; **«Los miembros de este grupo están autorizados para realizar cambios en todo el bosque en Active Directory, como agregar dominios secundarios.»** |
 | Administradores de esquema | **«pueden modificar el esquema de Active Directory. Este grupo solo existe en el dominio raíz de un bosque de Dominios de Active Directory.»** |
-| Operadores de cuentas | **«Los miembros de este grupo pueden crear y modificar la mayoría de los tipos de cuentas, incluidas las cuentas para los usuarios, los grupos locales y los grupos globales.»** No pueden modificar los derechos de usuario ni administrar las cuentas de administrador |
+| Operadores de cuentas | **«Los miembros de este grupo pueden crear y modificar la mayoría de los tipos de cuentas, incluidas las cuentas para los usuarios, los grupos locales y los grupos globales. Los miembros del grupo pueden iniciar sesión localmente en controladores de dominio.»** **«no pueden modificar los derechos de usuario»**, ni administrar la cuenta de usuario Administrador, las cuentas de los administradores ni los grupos Administradores, Operadores de servidores, Operadores de cuentas, Operadores de copias de seguridad y Operadores de impresión. (La consola de usuarios dice, en contra, que no administran grupos: véase «Usuarios y equipos de Active Directory…») |
 | Operadores de copias de seguridad | **«pueden hacer copias de seguridad y restaurar archivos de un equipo, independientemente de los permisos que protejan dichos archivos.»** |
 | Operadores de servidores | **«pueden administrar controladores de dominio. Este grupo solo existe en controladores de dominio.»** Entre otras cosas, **«Creación y eliminación de recursos compartidos de red»** y **«Detener e iniciar los servicios»** |
 | Operadores de impresión | **«pueden administrar, crear, compartir y eliminar las impresoras que hay conectadas a los controladores del dominio.»** |
@@ -927,8 +1029,23 @@ servidor **«negocian para usar la versión de dialecto más alta que ambos admi
 445/TCP (epígrafe 2).
 
 Una carpeta compartida tiene dos capas de control: los permisos del recurso compartido y los permisos
-NTFS de la carpeta y sus archivos. Las fuentes leídas describen cada capa por separado, pero no dan
-la regla de cómo se combinan, y el tema no la afirma.
+NTFS de la carpeta y sus archivos. Cómo se combinan lo explica una página de Microsoft archivada
+(escrita para Windows Server 2008 y servida en inglés; el mecanismo no ha cambiado, pero la fecha se
+declara): **«Share permissions and NTFS permissions are independent in the sense that neither changes
+the other. The final access permissions on a shared folder are determined by taking into
+consideration both the Share permission and the NTFS permission entries. The more restrictive
+permissions are then applied.»** La diferencia está en por dónde se entra: **«NTFS permissions affect
+access both locally and remotely.»**; en cambio, **«Share permissions, by contrast, apply only to
+network shares. Share permissions do not restrict access to any local user, or to any terminal server
+user, of the computer on which you have set Share permissions.»**
+
+En la práctica: si un grupo tiene Lectura en el recurso compartido y Modificar en NTFS, quien entra
+por `\\servidor\recurso` sólo lee (gana el más restrictivo de los dos), y quien inicia sesión en el
+propio servidor y abre la carpeta en local puede modificar (sólo cuenta NTFS). El ejemplo es una
+aplicación de la regla citada. La misma página recoge una forma de simplificar: **«some experienced
+administrators prefer always to set share permissions to Full Control for Everyone, and to rely
+entirely on NTFS permissions to restrict access.»** Y avisa de que Control total en NTFS
+permite tomar posesión de la carpeta: **«Be cautious in granting Full Control.»**
 
 - *Permisos del recurso compartido.* `New-SmbShare` **«exposes a file system folder to remote
   clients as a Server Message Block (SMB) share.»** Sus parámetros de acceso son `-FullAccess`
@@ -1015,13 +1132,45 @@ configuración de todo el dominio.»**
 Tres datos que conectan con este tema:
 
 - Las directivas de contraseña son de dominio: **«También puede aplicar algunas opciones de directiva
-  de grupo en el nivel de dominio, especialmente las directivas de contraseña.»**
+  de grupo en el nivel de dominio, especialmente las directivas de contraseña.»** (detalle, más abajo).
 - Gana lo más cercano: **«El contenedor de AD más cercano al equipo o el usuario invalida la directiva
   de grupo establecida en un contenedor de AD de nivel superior.»**
 - Los controladores van más rápido que los clientes: **«De forma predeterminada, se produce una
   actualización cada 90 minutos. El sistema puede agregar un tiempo aleatorio de hasta 30 minutos al
   intervalo de actualización.»**, pero **«Los controladores de dominio comprueban los cambios en las
   directivas de equipo cada cinco minutos.»**
+
+*Las directivas de contraseña y de bloqueo de cuentas.* Están en la configuración de equipo de la
+GPO, dentro de *Account Policies* (las páginas de referencia de Microsoft se sirven en inglés y con
+los nombres ingleses; la consola en español los traduce): **«Computer Configuration\Windows
+Settings\Security Settings\Account Policies\Password Policy»** y **«Computer
+Configuration\Policies\Windows Settings\Security Settings\Account Policies\Account Lockout
+Policy»**. Se fijan en el dominio: **«This group policy is applied on the domain level.»** La GPO que
+las trae de serie es la directiva predeterminada del dominio (*Default Domain Policy*); sus valores:
+
+| Opción (nombre de la página de Microsoft) | Qué fija | Valor en *Default Domain Policy* |
+|---|---|---|
+| *Enforce password history* | **«the number of unique new passwords that must be associated with a user account before an old password can be reused»** (de 0 a 24) | **«24 passwords remembered»** |
+| *Maximum password age* | Días que se puede usar una contraseña antes de tener que cambiarla; **«you can specify that passwords never expire by setting the number of days to 0»** | **«42 days»** |
+| *Minimum password age* | Días que hay que usar una contraseña antes de poder cambiarla | **«1 day»** |
+| *Minimum password length* | **«the least number of characters that can make up a password for a user account»**; con 0 no se exige contraseña | **«Seven characters»** (Microsoft aconseja al menos 8) |
+| *Password must meet complexity requirements* | Que la contraseña no contenga el nombre de cuenta ni el nombre completo y tenga caracteres de tres de cinco categorías: mayúsculas, minúsculas, dígitos, caracteres especiales y otros caracteres Unicode alfabéticos | **«Enabled»** |
+| *Account lockout threshold* | **«the number of failed sign-in attempts that will cause a user account to be locked»**; de 1 a 999, y **«the account will never be locked by setting the value to 0»** | **«0 invalid sign-in attempts»** (no se bloquea) |
+| *Account lockout duration* | **«the number of minutes that a locked-out account remains locked out before automatically becoming unlocked»**; **«A value of 0 specifies that the account will be locked out until an administrator explicitly unlocks it.»** | **«Not defined»** |
+| *Reset account lockout counter after* | **«the number of minutes that must elapse from the time a user fails to sign in before the failed sign-in attempt counter is reset to 0»** | **«Not defined»** |
+
+Las tres de bloqueo van atadas: con umbral mayor que cero, **«Account lockout duration must be greater
+than or equal to the value of Reset account lockout counter after.»** Las líneas base de seguridad de
+Windows proponen un umbral de 10 intentos y 15 minutos para el contador; Microsoft insiste en que son
+orientaciones, no reglas. Y una excepción: la cuenta Administrador integrada **«is excluded from this
+policy»**, para que siempre pueda entrar un administrador a resolver. Ejemplo de aplicación: para que
+una cuenta se bloquee al quinto intento fallido y se desbloquee sola a los 30 minutos, se edita la GPO
+del dominio con umbral 5, duración 30 y restablecimiento del contador en 30 o menos.
+
+Si un grupo necesita otra política, existen las directivas de contraseña detalladas (*fine-grained*),
+que se gestionan en el ADAC: **«Fine-grained password policies apply only to user objects (or
+inetOrgPerson objects if they are used instead of user objects) and global security groups.»** y
+**«Fine-grained password policies cannot be applied to an organizational unit (OU) directly.»**
 
 ### Windows LAPS
 
@@ -1071,11 +1220,15 @@ anteriores.
   publicado.
 - Las diferencias de licencia entre las ediciones Standard y Datacenter en número de máquinas
   virtuales: la tabla de ediciones leída no lo da de forma extraíble; no se afirma.
-- La regla de combinación de los permisos de recurso compartido con los NTFS, y el detalle de los
-  permisos especiales y de herencia de NTFS: no se han leído en fuente.
-- El rol de servidor de impresión y la consola Administración de impresión; las directivas de
-  contraseña y de bloqueo de cuentas con sus valores; las directivas de contraseña específicas: no se
-  han leído en fuente.
+- El detalle de los permisos especiales y de herencia de NTFS: no se ha leído en fuente. La regla de
+  combinación con los permisos del recurso compartido sí se da, pero su fuente es una página
+  archivada de Windows Server 2008.
+- El rol de servidor de impresión y la consola Administración de impresión; la creación paso a paso
+  de directivas de contraseña detalladas: no se han leído en fuente.
+- Los nombres en español de las opciones de directiva de contraseña, bloqueo y Kerberos: las páginas
+  de referencia leídas se sirven en inglés; el tema da los nombres ingleses.
+- La longitud mínima de contraseña por encima de 14 caracteres: la página leída (de 2022) dice que no
+  se admite, y no se ha confirmado si versiones posteriores lo cambian; no se afirma ningún máximo.
 - La identidad híbrida (Microsoft Entra ID y su sincronización con Active Directory): fuera de lo que
   pide el enunciado; la nube y el despliegue híbrido aparecen en el tema 10, y Microsoft 365 en el
   tema 11.
@@ -1087,7 +1240,7 @@ anteriores.
 
 ## Trazabilidad
 
-Todas las páginas se leyeron el 05-10-2026 en Microsoft Learn (learn.microsoft.com, en español salvo
+Las páginas se leyeron el 05-10-2026 (las de las cinco últimas filas de la tabla, salvo «DCDiag», el 06-10-2026) en Microsoft Learn (learn.microsoft.com, en español salvo
 las de referencia del módulo ActiveDirectory y de `New-SmbShare`, que se sirven en inglés). La
 traducción automática de Microsoft trae erratas («Admins. del dominio» junto a «Administradores de
 dominio» para el mismo grupo, «Replication» y «Authentication» sin traducir en el modelo lógico, «la
@@ -1128,13 +1281,18 @@ puerta de enlace de predeterminada»); se citan tal cual.
 | «Introducción a los Espacios de nombres de DFS» | DFSN |
 | «Introducción a la directiva de grupo para Windows Server»; «Procesamiento de directivas de grupo» (las mismas del tema 6) | GPO en el dominio, directivas de contraseña, precedencia, intervalos, UO homogéneas y para delegar |
 | «¿Qué es Windows LAPS?» | LAPS |
+| «Share and NTFS Permissions on a File Server» (documentación archivada, Windows Server 2008; actualizada el 03-07-2012; en inglés) | Combinación de permisos de recurso compartido y NTFS, local y remoto, Control total para Todos |
+| Soporte técnico de Microsoft: «Transferir o aprovechar los roles maestros de operaciones en Servicios de dominio de Active Directory» (KB 255504), «Cómo ver y transferir roles FSMO» (KB 324801), «Búsqueda de servidores que contienen roles flexibles de operaciones maestras únicas» (KB 234790); «netdom query» (referencia de órdenes de Windows); `Move-ADDirectoryServerOperationMasterRole` (en inglés) | Consultar, transferir y tomar roles FSMO; permisos necesarios; RID quemados; antiguo titular; `dsa.msc` |
+| «Maximum tolerance for computer clock synchronization» (documentación archivada de Windows 10, en inglés); «DCDiag» | Tolerancia de reloj de Kerberos, 5 minutos |
+| «Funcionamiento del servicio de hora de Windows» (actualizada el 25-07-2025) | Jerarquía de hora, emulador de PDC de la raíz del bosque, origen externo, error de Kerberos |
+| «Password Policy», «Account Lockout Policy» y las páginas de cada opción (documentación archivada de Windows 10/11, en inglés; actualizadas entre 2017 y 2023) | Ubicación, valores posibles y predeterminados de las directivas de contraseña y bloqueo, exclusión del Administrador, directivas detalladas |
 
 Oficio sin fuente detrás, y así se declara: la recomendación de tener al menos dos controladores de
 dominio; la síntesis de qué es un árbol y la tabla de contenedores; la lectura de los ámbitos de grupo
 como «global para la gente, dominio local para el permiso» y el ejemplo que la ilustra; la contraseña
 temporal en el alta; que la opción DHCP de servidores DNS apunte a los controladores que hacen de
 DNS y el uso de la reserva para impresoras; el diagnóstico del equipo que no encuentra el dominio por tener otro servidor
-DNS; los nombres de usuarios, grupos, rutas y
+DNS; la explicación de transferir frente a tomar un rol en una frase; los nombres de usuarios, grupos, rutas y
 dominios de los ejemplos; el caso práctico como secuencia; la tabla de tareas del administrador del
 epígrafe 1; la definición en una línea del directorio («el directorio donde una organización guarda
 sus usuarios, sus equipos y sus permisos, y contra el que se autentica todo lo demás»); y el atajo de

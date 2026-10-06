@@ -1,0 +1,2265 @@
+URL: https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/technical-overview/hdx.html
+Leído: 2026-10-06
+
+HDX™ | Citrix Virtual Apps and Desktops™ 7 2603
+
+ Product documentation
+
+ Search
+
+Close
+
+Refine results
+
+Select Product
+
+Apply
+
+Clear All
+
+Selected filter
+
+Search Product documentation
+
+- 
+
+ English
+
+- 
+
+ EN
+
+- 
+
+ Deutsch
+
+Machine Translated
+
+- 
+
+ DE
+
+Machine Translated
+
+- 
+
+ 日本語
+
+Machine Translated
+
+- 
+
+ JA
+
+Machine Translated
+
+- 
+
+ Français
+
+Machine Translated
+
+- 
+
+ FR
+
+Machine Translated
+
+- 
+
+ Español
+
+Machine Translated
+
+- 
+
+ ES
+
+Machine Translated
+
+- 
+
+ 简体中文
+
+Machine Translated
+
+- 
+
+ ZH
+
+Machine Translated
+
+- 
+
+ Português
+
+Machine Translated
+
+- 
+
+ PT
+
+Machine Translated
+
+- 
+
+ Italiano
+
+Machine Translated
+
+- 
+
+ IT
+
+Machine Translated
+
+ Citrix Virtual Apps and Desktops
+
+ Current Release
+
+ Current Release
+
+ Service
+
+ 2607 LTSR
+
+ 2511
+
+ 2507 LTSR
+
+ 2503
+
+ 2411
+
+ 2407
+
+ 2402 LTSR
+
+ 2311
+
+ 2203 LTSR
+
+- 
+
+ Citrix Virtual Apps™ and Desktops 7 2603
+
+- 
+
+ What's new
+
+- 
+
+ What's new
+
+- 
+
+ Fixed issues
+
+- 
+
+ Known issues
+
+- 
+
+ Deprecations and removals
+
+- 
+
+ System requirements
+
+- 
+
+ Technical overview
+
+- 
+
+ Databases
+
+- 
+
+ Delivery methods
+
+- 
+
+ Network ports
+
+- 
+
+ HDX™
+
+- 
+
+ ICA® virtual channels
+
+- 
+
+ Double-hop sessions
+
+- 
+
+ Install and configure
+
+- 
+
+ Machine identities 
+
+- 
+
+ Active Directory joined 
+
+- 
+
+ Microsoft Entra hybrid joined 
+
+- 
+
+ Non-domain-joined 
+
+- 
+
+ Session authentication 
+
+- 
+
+ Microsoft Entra single sign-on 
+
+- 
+
+ Federated Authentication Service 
+
+- 
+
+ Smart Cards 
+
+- 
+
+ Prepare to install 
+
+- 
+
+ Amulet Hotkey CoreStation virtualization environments 
+
+- 
+
+ AWS cloud environments 
+
+- 
+
+ Azure Local environments 
+
+- 
+
+ XenServer® virtualization environments 
+
+- 
+
+ Google Cloud environments 
+
+- 
+
+ HPE Moonshot virtualization environments 
+
+- 
+
+ Microsoft Azure Resource Manager cloud environments 
+
+- 
+
+ Microsoft System Center Configuration Manager environments 
+
+- 
+
+ Microsoft System Center Virtual Machine Manager virtualization environments 
+
+- 
+
+ Nutanix virtualization environments 
+
+- 
+
+ Nutanix cloud and partner solutions 
+
+- 
+
+ Oracle C3 virtualization environments 
+
+- 
+
+ Red Hat OpenShift virtualization environments 
+
+- 
+
+ VMware virtualization environments 
+
+- 
+
+ VMware cloud and partner solutions 
+
+- 
+
+ Install core components 
+
+- 
+
+ Install using the command line 
+
+- 
+
+ Install Web Studio 
+
+- 
+
+ Install VDAs 
+
+- 
+
+ Configure Windows Defender Access Control related to VDA Installation 
+
+- 
+
+ Precheck for VDA install and upgrade 
+
+- 
+
+ VDA Meta Installer helper tool 
+
+- 
+
+ Install VDAs using scripts 
+
+- 
+
+ Generate custom script to install or upgrade VDA via command-line 
+
+- 
+
+ Third-party VDA deployment methods 
+
+- 
+
+ Create a site
+
+- 
+
+ Create and manage connections and resources 
+
+- 
+
+ Connection to Amulet Hotkey CoreStation 
+
+- 
+
+ Connection to AWS EC2 
+
+- 
+
+ Connection to Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Connection to Azure Local 
+
+- 
+
+ Connection to XenServer 
+
+- 
+
+ Connection to Google cloud environments 
+
+- 
+
+ Connection to HPE Moonshot 
+
+- 
+
+ Connection to Microsoft Azure 
+
+- 
+
+ Connection to Microsoft System Center Virtual Machine Manager 
+
+- 
+
+ Connection to Nutanix 
+
+- 
+
+ Connection to Nutanix cloud and partner solutions 
+
+- 
+
+ Connection to Oracle C3 
+
+- 
+
+ Connection to Red Hat OpenShift 
+
+- 
+
+ Connection to VMware 
+
+- 
+
+ Connection to VMware cloud and partner solutions 
+
+- 
+
+ Service accounts 
+
+- 
+
+ On-premises Active Directory service accounts 
+
+- 
+
+ Manage service accounts 
+
+- 
+
+ Image management
+
+- 
+
+ Create prepared image machine catalogs 
+
+- 
+
+ Create a prepared image for Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a prepared image machine catalog in Azure 
+
+- 
+
+ Create a prepared image machine catalog in Azure Local 
+
+- 
+
+ Create a prepared image machine catalog in Nutanix AHV Prism Central 
+
+- 
+
+ Create a prepared image machine catalog in Red Hat OpenShift 
+
+- 
+
+ Create a prepared image machine catalog in VMware 
+
+- 
+
+ Create a prepared image machine catalog in XenServer 
+
+- 
+
+ Manage prepared image machine catalogs
+
+- 
+
+ Create machine catalogs 
+
+- 
+
+ Create an Amulet Hotkey CoreStation machine catalog 
+
+- 
+
+ Create an AWS EC2 catalog 
+
+- 
+
+ Create an Azure Local catalog 
+
+- 
+
+ Create a XenServer catalog 
+
+- 
+
+ Create a Google Cloud Platform catalog 
+
+- 
+
+ Create an HPE Moonshot machine catalog 
+
+- 
+
+ Create a Microsoft Azure catalog 
+
+- 
+
+ Create a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Create a Nutanix catalog 
+
+- 
+
+ Create an Oracle C3 machine catalog 
+
+- 
+
+ Create a Red Hat OpenShift catalog 
+
+- 
+
+ Create a VMware catalog 
+
+- 
+
+ Identity pools of different machine identity join types 
+
+- 
+
+ Identity pool of on-premises Active Directory joined machine identity 
+
+- 
+
+ Identity pool of Microsoft Entra hybrid joined machine identity 
+
+- 
+
+ Identity pool of non-domain-joined machine identity 
+
+- 
+
+ Manage machine catalogs 
+
+- 
+
+ Manage an AWS EC2 catalog 
+
+- 
+
+ Manage a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Manage a XenServer catalog 
+
+- 
+
+ Manage a Google Cloud Platform catalog 
+
+- 
+
+ Manage an HPE Moonshot catalog 
+
+- 
+
+ Manage a Microsoft Azure catalog 
+
+- 
+
+ Manage a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Manage a Nutanix catalog 
+
+- 
+
+ Manage a VMware catalog 
+
+- 
+
+ Power Management 
+
+- 
+
+ Power manage Amulet Hotkey CoreStation VMs 
+
+- 
+
+ Power manage AWS VMs 
+
+- 
+
+ Power manage Azure Local VMs 
+
+- 
+
+ Power manage Azure VMs 
+
+- 
+
+ Power manage Oracle C3 VMs 
+
+- 
+
+ Power manage Red Hat OpenShift VMs 
+
+- 
+
+ Power manage Nutanix AHV VMs 
+
+- 
+
+ Security policies 
+
+- 
+
+ Security groups 
+
+- 
+
+ Secure boot 
+
+- 
+
+ Encryption capabilities 
+
+- 
+
+ Service Window 
+
+- 
+
+ Service Window operations in Azure 
+
+- 
+
+ Load balance machines
+
+- 
+
+ Create delivery groups
+
+- 
+
+ Manage delivery groups
+
+- 
+
+ Create application groups
+
+- 
+
+ Manage application groups
+
+- 
+
+ Remote PC Access
+
+- 
+
+ Cloud Connector Standalone Citrix Secure Ticketing Authority (STA) service
+
+- 
+
+ Publish content
+
+- 
+
+ Server VDI
+
+- 
+
+ User personalization layer
+
+- 
+
+ Remove components
+
+- 
+
+ Upgrade and migrate
+
+- 
+
+ Upgrade a Deployment
+
+- 
+
+ Proxy Support for VDA Upgrade Agent
+
+- 
+
+ Secure
+
+- 
+
+ Federated Authentication Service
+
+- 
+
+ FIDO2 authentication 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ Advanced configuration for custom applications 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Integrate Citrix Virtual Apps and Desktops with Citrix Gateway
+
+- 
+
+ Security considerations and best practices
+
+- 
+
+ Manage certificates
+
+- 
+
+ Smart cards 
+
+- 
+
+ Smart card deployments 
+
+- 
+
+ Pass-through authentication and single sign-on with smart cards 
+
+- 
+
+ Enable TLS on Delivery Controllers
+
+- 
+
+ Enable TLS on Web Studio and Director
+
+- 
+
+ Enable TLS on VDAs
+
+- 
+
+ Enable TLS on Universal Print Server
+
+- 
+
+ Virtual channel allow list
+
+- 
+
+ WebSocket communication between VDA and Delivery Controller™
+
+- 
+
+ HDX connectivity
+
+- 
+
+ Adaptive transport 
+
+- 
+
+ Enlightened Data Transport 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ HDX Direct 
+
+- 
+
+ Certificate management 
+
+- 
+
+ NAT Compatibility 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Secure HDX
+
+- 
+
+ Network telemetry
+
+- 
+
+ Virtual channel allow list 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Known third-party virtual channels 
+
+- 
+
+ Virtual Allow Channel List for DVC 
+
+- 
+
+ Devices
+
+- 
+
+ Scanning 
+
+- 
+
+ TWAIN Redirection 
+
+- 
+
+ WIA Devices 
+
+- 
+
+ SANE Redirection 
+
+- 
+
+ USB Devices 
+
+- 
+
+ Configuration 
+
+- 
+
+ Composite Devices and Device Splitting 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ USB Diagnostics Tool 
+
+- 
+
+ Legacy USB Redirection Configuration 
+
+- 
+
+ Generic USB redirection and client drive considerations 
+
+- 
+
+ Client Drive Mapping
+
+- 
+
+ Mobile and touch screen devices
+
+- 
+
+ Serial ports
+
+- 
+
+ Specialty keyboards
+
+- 
+
+ Support key event sequence processing in Windows VDA for double hop
+
+- 
+
+ Windows - Keyboard and IME Supportability Tool
+
+- 
+
+ Webcams
+
+- 
+
+ Graphics
+
+- 
+
+ Thinwire
+
+- 
+
+ HDX 3D Pro
+
+- 
+
+ GPU acceleration
+
+- 
+
+ 10-bit high dynamic range (HDR)
+
+- 
+
+ Adaptive refresh rate
+
+- 
+
+ Loss tolerant mode for graphics
+
+- 
+
+ HDX screen sharing
+
+- 
+
+ Virtual display layout
+
+- 
+
+ Session-based watermark
+
+- 
+
+ Citrix snipping tool
+
+- 
+
+ Thinwire 
+
+- 
+
+ Thinwire Analysis 
+
+- 
+
+ Thinwire Configuration 
+
+- 
+
+ Thinwire Full Screen Encoder 
+
+- 
+
+ Thinwire Selective Encoder 
+
+- 
+
+ Intelligent Build to Lossless 
+
+- 
+
+ Do Not Use a Video Codec 
+
+- 
+
+ Always Lossless Mode 
+
+- 
+
+ Colorspace 
+
+- 
+
+ High Resolution Displays 
+
+- 
+
+ Loss Tolerant Mode for Graphics 
+
+- 
+
+ Seamless
+
+- 
+
+ Publish seamless applications
+
+- 
+
+ Application groups
+
+- 
+
+ Published content
+
+- 
+
+ Publish packaged applications
+
+- 
+
+ Publish UWP applications
+
+- 
+
+ Linux VDA Published Applications
+
+- 
+
+ Windows Accessibility Settings 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ How to Enable 
+
+- 
+
+ Window Dragging
+
+- 
+
+ Transparent windows for seamless applications
+
+- 
+
+ Troubleshooting
+
+- 
+
+ System Tray Icon Redirection
+
+- 
+
+ Multimedia
+
+- 
+
+ Audio features
+
+- 
+
+ Browser content redirection 
+
+- 
+
+ Single sign on support 
+
+- 
+
+ Webcam redirection and video compression
+
+- 
+
+ HTML5 multimedia redirection
+
+- 
+
+ Optimization for Microsoft Teams (New) 
+
+- 
+
+ Citrix HDX Optimization 
+
+- 
+
+ New VDI solution for Teams 
+
+- 
+
+ Optimization for Microsoft Teams (Classic) 
+
+- 
+
+ Monitor, troubleshoot, and support Microsoft Teams 
+
+- 
+
+ Windows Media redirection
+
+- 
+
+ Virtual Channel Plugin Manager 
+
+- 
+
+ Virtual Channel Plugin Manager Overview 
+
+- 
+
+ Virtual Channel Plugin Manager Configuration 
+
+- 
+
+ Unified Communications SDK Optimization
+
+- 
+
+ General content redirection
+
+- 
+
+ Client folder redirection
+
+- 
+
+ Client location redirection
+
+- 
+
+ Bidirectional content redirection
+
+- 
+
+ Host to client redirection
+
+- 
+
+ Local App Access and URL redirection
+
+- 
+
+ Print
+
+- 
+
+ Citrix Universal™ Print Driver (UPD)
+
+- 
+
+ Configuration 
+
+- 
+
+ Client Printer Redirection 
+
+- 
+
+ Citrix Universal Print Server 
+
+- 
+
+ Network printers 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Best practices 
+
+- 
+
+ Policies
+
+- 
+
+ Overview
+
+- 
+
+ Create templates
+
+- 
+
+ Create policies
+
+- 
+
+ Create policy sets
+
+- 
+
+ Prioritize policies
+
+- 
+
+ Manage policy assignment exceptions
+
+- 
+
+ Simulate and evaluate policies
+
+- 
+
+ Migrate legacy MMC Group Policy templates to Web Studio
+
+- 
+
+ Remove deprecated policy settings after an upgrade
+
+- 
+
+ Policy settings reference 
+
+- 
+
+ Default policy settings 
+
+- 
+
+ ICA policy settings 
+
+- 
+
+ HDX features managed through the registry 
+
+- 
+
+ Load management policy settings 
+
+- 
+
+ Profile management policy settings 
+
+- 
+
+ User personalization policy settings 
+
+- 
+
+ Virtual Delivery Agent policy settings 
+
+- 
+
+ Virtual IP policy settings 
+
+- 
+
+ Workspace Environment Management™ policy settings 
+
+- 
+
+ Configure COM Port and LPT Port Redirection settings using the registry 
+
+- 
+
+ Policy changes
+
+- 
+
+ Manage
+
+- 
+
+ Applications 
+
+- 
+
+ App packages 
+
+- 
+
+ Universal Windows Platform Apps 
+
+- 
+
+ Backup or Migrate your Configuration 
+
+- 
+
+ Backup and Restore configuration 
+
+- 
+
+ Backup and Restore using Web Studio 
+
+- 
+
+ Backup and Restore using the Automated Configuration tool 
+
+- 
+
+ Best practices for backup and restore 
+
+- 
+
+ Migrate configuration to Citrix Cloud™ 
+
+- 
+
+ Merging multiple sites into a single site 
+
+- 
+
+ Migrating from cloud to cloud 
+
+- 
+
+ Migrate Cloud configurations to on-premises 
+
+- 
+
+ Migrate on-premises configurations to on-premises site 
+
+- 
+
+ Automated configuration tool cmdlets for migration 
+
+- 
+
+ Automated configuration tool cmdlets for backup and restore 
+
+- 
+
+ Troubleshoot Automated configuration and additional information 
+
+- 
+
+ Autoscale™ 
+
+- 
+
+ Getting started 
+
+- 
+
+ Schedule-based and load-based settings 
+
+- 
+
+ Dynamic session timeouts 
+
+- 
+
+ Autoscaling tagged machines (cloud burst) 
+
+- 
+
+ Autoscale™ plug-in 
+
+- 
+
+ User logoff notifications 
+
+- 
+
+ Analyze effectiveness of Autoscale settings 
+
+- 
+
+ Broker PowerShell SDK commands 
+
+- 
+
+ Citrix Insight Services 
+
+- 
+
+ Citrix Scout 
+
+- 
+
+ Collect a Citrix Diagnostic Facility (CDF) Trace at System Startup
+
+- 
+
+ Delegated administration
+
+- 
+
+ Delivery Controllers
+
+- 
+
+ Home page
+
+- 
+
+ IPv4/IPv6 support
+
+- 
+
+ Licensing 
+
+- 
+
+ Multi-type licensing 
+
+- 
+
+ License Activation Service 
+
+- 
+
+ Citrix Virtual Apps and Desktops telemetry data elements 
+
+- 
+
+ FAQ for licensing 
+
+- 
+
+ Local Host Cache
+
+- 
+
+ Machines and sessions (Search > Default view) 
+
+- 
+
+ Machine actions and columns 
+
+- 
+
+ Session actions and columns 
+
+- 
+
+ MCS-provisioned machines (Search > Hardware view)
+
+- 
+
+ Security keys
+
+- 
+
+ Session resilience settings
+
+- 
+
+ Settings
+
+- 
+
+ Tags
+
+- 
+
+ Tasks in Task Center
+
+- 
+
+ User profiles
+
+- 
+
+ VDA registration
+
+- 
+
+ Virtual IP and virtual loopback
+
+- 
+
+ Zones
+
+- 
+
+ Remove broker user from the cache
+
+- 
+
+ Citrix Assistant application
+
+- 
+
+ Monitor
+
+- 
+
+ Configuration logging
+
+- 
+
+ Event logs
+
+- 
+
+ Director
+
+- 
+
+ Install and configure 
+
+- 
+
+ Advanced configuration 
+
+- 
+
+ PIV smart card authentication 
+
+- 
+
+ Network analysis 
+
+- 
+
+ Delegated Administration and Director 
+
+- 
+
+ Secure Director deployment 
+
+- 
+
+ Configure with Citrix Analytics for Performance™ 
+
+- 
+
+ Independent release of Director for LTSR deployments 
+
+- 
+
+ Site analytics 
+
+- 
+
+ Alerts and notifications 
+
+- 
+
+ Application usage monitoring 
+
+- 
+
+ Filters data 
+
+- 
+
+ Historical trends 
+
+- 
+
+ Monitor Autoscale-managed machines 
+
+- 
+
+ Troubleshoot deployments 
+
+- 
+
+ Applications 
+
+- 
+
+ User issues 
+
+- 
+
+ Unified search for Hybrid multi-cloud deployments
+
+- 
+
+ Infrastructure monitoring [Preview] 
+
+- 
+
+ Getting started with Infrastructure Monitoring 
+
+- 
+
+ Manage connections 
+
+- 
+
+ Infrastructure dashboard 
+
+- 
+
+ Application and Desktop Probing
+
+- 
+
+ Cost optimization 
+
+- 
+
+ Cost savings 
+
+- 
+
+ Workload rightsizing 
+
+- 
+
+ Cost summary 
+
+- 
+
+ Feature compatibility matrix
+
+- 
+
+ Data granularity and retention
+
+- 
+
+ Troubleshoot Director failure reasons
+
+- 
+
+ Advisor
+
+- 
+
+ VDA upgrade service (VUS)
+
+- 
+
+ Prerequisites for upgrading VDAs using VUS
+
+- 
+
+ Upgrade VDAs using VUS
+
+- 
+
+ Monitor and Troubleshoot VUS
+
+- 
+
+ Citrix Always on Tracing
+
+- 
+
+ Introduction
+
+- 
+
+ Core Concepts
+
+- 
+
+ Centralized AOT Log Server
+
+- 
+
+ Log Server Recommendation
+
+- 
+
+ Minimum supported versions for Always on Tracing (AOT)
+
+- 
+
+ Installing and Configuring Log Server
+
+- 
+
+ Upgrade Log Server
+
+- 
+
+ Uninstall Log Server
+
+- 
+
+ Uploading the AOT logs from CVAD Core Components
+
+- 
+
+ Viewing and Using AOT logs
+
+- 
+
+ AOT Logs availability across deployment scenarios
+
+- 
+
+ General Response Code for Log Server API
+
+- 
+
+ Troubleshooting with AOT and Log Server
+
+- 
+
+ FAQ
+
+- 
+
+ Fixed Issues
+
+- 
+
+ Known Issues and Limitations
+
+- 
+
+ Third party notice
+
+- 
+
+ Third party notices
+
+- 
+
+ SDKs and APIs
+
+- 
+
+ Document History
+
+ View PDF
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+- 
+
+- Citrix Virtual Apps and Desktops™ 7 2603
+
+ <
+ >
+
+This content has been machine translated dynamically.
+
+Dieser Inhalt ist eine maschinelle Übersetzung, die dynamisch erstellt wurde. (Haftungsausschluss)
+
+Cet article a été traduit automatiquement de manière dynamique. (Clause de non responsabilité)
+
+Este artículo lo ha traducido una máquina de forma dinámica. (Aviso legal)
+
+此内容已经过机器动态翻译。 放弃
+
+このコンテンツは動的に機械翻訳されています。免責事項
+
+이 콘텐츠는 동적으로 기계 번역되었습니다. 책임 부인
+
+Este texto foi traduzido automaticamente. (Aviso legal)
+
+Questo contenuto è stato tradotto dinamicamente con traduzione automatica.(Esclusione di responsabilità))
+
+This article has been machine translated.
+
+Dieser Artikel wurde maschinell übersetzt. (Haftungsausschluss)
+
+Ce article a été traduit automatiquement. (Clause de non responsabilité)
+
+Este artículo ha sido traducido automáticamente. (Aviso legal)
+
+この記事は機械翻訳されています.免責事項
+
+이 기사는 기계 번역되었습니다.책임 부인
+
+Este artigo foi traduzido automaticamente.(Aviso legal)
+
+这篇文章已经过机器翻译.放弃
+
+Questo articolo è stato tradotto automaticamente.(Esclusione di responsabilità))
+
+ Switch to english
+ Auf Englisch anzeigen
+ Lire en anglais
+ Leer en inglés
+ 英語に切り替え
+ 영어로 전환
+ Mudar para ingles
+ 切换到英文
+ Passa all'inglese
+
+Translation failed!
+
+# HDX™ 
+
+ September 6, 2025
+
+ Contributed by: 
+
+ C
+
+Warning:
+
+Editing the registry incorrectly can cause serious problems that might require you to reinstall your operating system. Citrix® cannot guarantee that problems resulting from the incorrect use of Registry Editor can be solved. Use Registry Editor at your own risk. Be sure to back up the registry before you edit it.
+
+Citrix HDX represents a broad set of technologies that deliver a high-definition experience to users of centralized applications and desktops, on any device and over any network.
+
+HDX is designed around three technical principles:
+
+- Intelligent redirection
+
+- Adaptive compression
+
+- Data de-duplication
+
+Applied in different combinations, they optimize the IT and user experience, decrease bandwidth consumption, and increase user density per hosting server.
+
+- 
+Intelligent redirection - Intelligent redirection examines screen activity, application commands, endpoint device, and network and server capabilities to instantly determine how and where to render an application or desktop activity. Rendering can occur on either the endpoint device or hosting server.
+
+- 
+
+Adaptive compression - Adaptive compression allows rich multimedia displays to be delivered on thin network connections. HDX first evaluates several variables, such as the type of input, device, and display (text, video, voice, and multimedia). It chooses the optimal compression codec and the best proportion of CPU and GPU usage. It then intelligently adapts based on each unique user and basis. This intelligent adaptation is per user, or even per session.
+
+- 
+Data de-duplication - De-duplication of network traffic reduces the aggregate data sent between client and server. It does so by taking advantage of repeated patterns in commonly accessed data such as bitmap graphics, documents, print jobs, and streamed media. Caching these patterns allows only the changes to be transmitted across the network, eliminating duplicate traffic. HDX also supports multicasting of multimedia streams, where a single transmission from the source is viewed by multiple subscribers at one location, rather than a one-to-one connection for each user.
+
+For more information, see Boost productivity with a high-definition user workspace.
+
+## 
+At the device
+
+HDX uses the computing capacity of user devices to enhance and optimize the user experience. HDX technology ensures that users receive a smooth, seamless experience with multimedia content in their virtual desktops or applications. Workspace control enables users to pause virtual desktops and applications and resume working from a different device at the point where they left off.
+
+## 
+On the network
+
+HDX incorporates advanced optimization and acceleration capabilities to deliver the best performance over any network, including low-bandwidth and high-latency WAN connections.
+
+HDX features adapt to changes in the environment. The features balance performance and bandwidth. They apply the best technologies for each user scenario, whether the desktop or application is accessed locally on the corporate network or remotely from outside the corporate firewall.
+
+## 
+In the data center
+
+HDX uses the processing power and scalability of servers to deliver advanced graphical performance, regardless of the client device capabilities.
+
+HDX channel monitoring provided by Citrix Director displays the status of connected HDX channels on user devices.
+
+## 
+HDX Insight
+
+HDX Insight is the integration of NetScaler® Network Inspector and Performance Manager with Director. It captures data about ICA traffic and provides a dashboard view of real-time and historical details. This data includes client-side and server-side ICA session latency, bandwidth use of ICA channels, and the ICA round-trip time value of each session.
+
+You can enable NetScaler to use the HDX Insight virtual channel to move all the required data points in an uncompressed format. If you disable this feature, the NetScaler device decrypts and decompresses the ICA® traffic spread across various virtual channels. Using the single virtual channel lessens complexity, enhances scalability, and is more cost effective.
+
+Minimum requirements:
+
+- NetScaler version 12.0 Build 57.x
+
+- Citrix Workspace™ app for Windows 1808
+
+- Citrix Receiver for Windows 4.10
+
+- Citrix Workspace app for Mac 1808
+
+- Citrix Receiver for Mac 12.8
+
+### Enable or disable HDX Insight virtual channel
+
+To disable this feature, set the Citrix NetScaler Application Flow service properties to Disabled. To enable, set the service to Automatic. In either case, we recommend that you restart the server machine after changing these properties. By default, this service is enabled (Automatic).
+
+## 
+Experience HDX capabilities from your virtual desktop
+
+- To see how browser content redirection, one of four HDX multimedia redirection technologies, accelerates delivery of HTML5 and WebRTC multimedia content:
+
+- Download the Chrome browser extension and install it on the virtual desktop.
+
+- To experience how browser content redirection accelerates the delivery of multimedia content to virtual desktops, view a video on your desktop from a website containing HTML5 videos, such as YouTube. Users don’t know when browser content redirection is running. To see whether browser content redirection is being used, drag the browser window quickly. You’ll see a delay or out of frame between the viewport and the user interface. You can also right-click on the webpage and look for About HDX Browser Redirection in the menu.
+
+- To see how HDX delivers high definition audio:
+
+- Configure your Citrix client for maximum audio quality; see the Citrix Workspace app documentation for details.
+
+- Play music files by using a digital audio player (such as iTunes) on your desktop.
+
+HDX provides a superior graphics and video experience for most users by default, and configuration isn’t required. Citrix policy settings that provide the best experience for most use cases are enabled by default.
+
+- HDX automatically selects the best delivery method based on the client, platform, application, and network bandwidth, and then self-tunes based on changing conditions.
+
+- HDX optimizes the performance of 2D and 3D graphics and video.
+
+- HDX enables user devices to stream multimedia files directly from the source provider on the internet or intranet, rather than through the host server. If the requirements for this client-side content fetching are not met, media delivery falls back to server-side content fetching and multimedia redirection. Usually, adjustments to the multimedia redirection feature policies aren’t needed.
+
+- HDX delivers rich server-rendered video content to virtual desktops when multimedia redirection is not available: View a video on a website containing high definition videos, such as http://www.microsoft.com/silverlight/iis-smooth-streaming/demo/.
+
+Good to know:
+
+- For support and requirements information for HDX features, see the System requirements article. Except where otherwise noted, HDX features are available for supported Windows Multi-session OS and Windows Single-session OS machines, plus Remote PC Access desktops.
+
+- This content describes how to optimize the user experience, improve server scalability, or reduce bandwidth requirements. For information about using Citrix policies and policy settings, see the Citrix policies documentation for this release.
+
+- For instructions that include editing the registry, use caution: editing the registry incorrectly can cause serious problems that might require you to reinstall your operating system. Citrix cannot guarantee that problems resulting from the incorrect use of Registry Editor can be solved. Use Registry Editor at your own risk. Be sure to back up the registry before you edit it.
+
+## 
+Auto client reconnect and session reliability
+
+When accessing hosted applications or desktops, network interruption might occur. To experience a smoother reconnection, we offer auto client reconnect and session reliability. In a default configuration, session reliability starts and then auto client reconnect follows.
+
+Auto client reconnect:
+
+Auto client reconnect relaunches the client engine to reconnect to a disconnected session. Auto client reconnect closes (or disconnects) the user session after the time specified in the setting. If auto client reconnect is in progress, the system sends an application and desktops network interruption notification to the user as follows:
+
+- 
+Desktops. The session window is grayed out and a countdown timer displays the time until the reconnections occur.
+
+- 
+Applications. The session window closes and a dialog appears to the user containing a countdown timer showing the time until the reconnections are attempted.
+
+During auto client reconnect, sessions relaunch expecting network connectivity. The user cannot interact with sessions while an auto client reconnect is in progress.
+
+On reconnection, the disconnected sessions reconnect using saved connection information. The user can interact with the applications and desktops normally.
+
+Default auto client reconnect settings:
+
+- Auto client reconnect timeout: 120 seconds
+
+- Auto client reconnect: Enabled
+
+- Auto client reconnect authentication: Disabled
+
+- Auto client reconnect Logging: Disabled
+
+For more information, see Auto client reconnect policy settings.
+
+Session reliability:
+
+Session reliability reconnects ICA sessions seamlessly across network interruptions. Session reliability closes (or disconnects) the user session after the time specified in the setting. After the session reliability timeout, the auto client reconnect settings take effect, attempting to reconnect the user to the disconnected session. When session reliability is in progress, application and desktops network interruption notification are sent to the user as follows:
+
+- 
+Desktops. The session window becomes translucent and a countdown timer displays the time until the reconnections occur.
+
+- 
+Applications. The window becomes translucent along with connection interrupted pop-ups from the notification area.
+
+While session reliability is active, the user cannot interact with the ICA sessions. However, user actions like keystrokes are buffered for a few seconds immediately after the network interruption and retransmitted when the network is available.
+
+On reconnection, the client and the server resume at the same point where they were in their exchange of protocol. The session windows lose translucency and appropriate notification area pop-ups are shown for applications.
+
+Default session reliability settings
+
+- Session reliability timeout: 180 seconds
+
+- Reconnection UI opacity level: 80%
+
+- Session reliability connection: Enabled
+
+- Session reliability port number: 2598
+
+For more information, see Session reliability policy settings.
+
+NetScaler with auto client reconnect and session reliability:
+
+If Multistream and Multiport policies are enabled on the server and any or all these conditions are true, auto client reconnect does not work:
+
+- Session reliability is disabled on NetScaler Gateway.
+
+- A failover occurs on the NetScaler appliance.
+
+- NetScaler SD-WAN is used with NetScaler Gateway.
+
+## 
+HDX adaptive throughput
+
+HDX adaptive throughput intelligently fine-tunes the peak throughput of the ICA session by adjusting output buffers. The number of output buffers is initially set at a high value. This high value allows data to be transmitted to the client more quickly and efficiently, especially in high latency networks. Providing better interactivity, faster file transfers, smoother video playback, higher framerate, and resolution results in an enhanced user experience.
+
+Session interactivity is constantly measured to determine whether any data streams within the ICA session are adversely affecting interactivity. If that occurs, the throughput is decreased to reduce the impact of the large data stream on the session and allow interactivity to recover.
+
+Important:
+
+HDX adaptive throughput changes the way that output buffers are set by moving this mechanism from the client to the VDA, and no manual configuration is necessary.
+
+This feature has the following requirements:
+
+- VDA version 1811 or later
+
+- Workspace app for Windows 1811 or later
+
+## 
+Improve the image quality sent to user devices
+
+The following visual display policy settings control the quality of images sent from virtual desktops to user devices.
+
+- Visual quality. Controls the visual quality of images displayed on the user device: medium, high, always lossless, build to lossless (default = medium). The actual video quality using the default setting of medium depends on available bandwidth.
+
+- Target frame rate. Specifies the maximum number of frames per second that are sent from the virtual desktop to the user device (default = 30). For devices that have slower CPUs, specifying a lower value can improve the user experience. The maximum supported frame rate per second is 60.
+
+- Display memory limit. Specifies the maximum video buffer size for the session in kilobytes (default = 65536 KB). For connections requiring more color depth and higher resolution, increase the limit. You can calculate the maximum memory required.
+
+Note:
+
+The Display Memory Limit setting has been deprecated. With this change, Citrix now no longer limits the display memory. Instead, the minimum amount of memory required is allocated to ensure the client’s display layout is fully accommodated.
+
+## 
+Improve video conference performance
+
+Several popular video conferencing applications are optimized for delivery from Citrix Virtual Apps and Desktops through multimedia redirection (see, for example, HDX RealTime Optimization Pack). For applications that are not optimized, HDX webcam video compression improves bandwidth efficiency and latency tolerance for webcams during video conferencing in a session. This technology streams webcam traffic over a dedicated multimedia virtual channel. This technology uses less bandwidth compared to the isochronous HDX Plug-n-Play USB redirection support, and works well over WAN connections.
+
+Citrix Workspace app users can override the default behavior by choosing the Desktop Viewer Mic & Webcam setting Don’t use my microphone or webcam. To prevent users from switching from HDX webcam video compression, disable USB device redirection by using the policy settings under ICA policy settings > USB Devices policy settings.
+
+HDX webcam video compression requires that the following policy settings be enabled (all are enabled by default).
+
+- Client audio redirection
+
+- Client microphone redirection
+
+- Multimedia conferencing
+
+If a webcam supports hardware encoding, HDX video compression uses the hardware encoding by default. Hardware encoding might consume more bandwidth than software encoding. To force software compression, add the following DWORD key value to the registry key: HKCU\Software\Citrix\HdxRealTime: DeepCompress_ForceSWEncode=1.
+
+## 
+Network traffic priorities
+
+Priorities are assigned to network traffic across multiple connections for a session using Quality of Service supported routers. Four TCP streams and two User Datagram Protocol (UDP) streams are available to carry ICA traffic between the user device and the server:
+
+- TCP streams - real time, interactive, background, and bulk
+
+- UDP streams - voice and Framehawk display remoting
+
+Each virtual channel is associated with a specific priority and transported in the corresponding connection. You can set the channels independently, based on the TCP port number used for the connection.
+
+Multiple channel streaming connections are supported for Virtual Delivery Agents (VDAs) installed on Windows 10, Windows 8, and Windows 7 machines. Work with your network administrator to ensure the Common Gateway Protocol (CGP) ports configured in the Multi-Port Policy setting are assigned correctly on the network routers.
+
+Quality of Service is supported only when multiple session reliability ports, or the CGP ports, are configured.
+
+Warning:
+
+Use transport security when using this feature. Citrix recommends using Internet Protocol Security (IPsec) or Transport Layer Security (TLS). TLS connections are supported only when the connections traverse a NetScaler Gateway that supports multi-stream ICA. On an internal corporate network, multi-stream connections with TLS are not supported.
+
+To set Quality of Service for multiple streaming connections, add the following Citrix policy settings to a policy (see Multi-stream connections policy settings for details):
+
+- 
+
+Multi-Port policy - This setting specifies ports for ICA traffic across multiple connections, and establishes network priorities.
+
+- Select a priority from the CGP default port priority list. By default, the primary port (2598) has a High priority.
+
+- Type more CGP ports in CGP port1, CGP port2, and CGP port3 as needed, and identify priorities for each. Each port must have a unique priority.
+
+Explicitly configure the firewalls on VDAs to allow the additional TCP traffic.
+
+- 
+
+Multi-Stream computer setting - This setting is disabled by default. If you use Citrix NetScaler SD-WAN with Multi-Stream support in your environment, you do not need to configure this setting. Configure this policy setting when using third-party routers or legacy NetScaler SD-WAN to achieve the desired Quality of Service.
+
+- 
+
+Multi-Stream user setting - This setting is disabled by default.
+
+For policies containing these settings to take effect, users must log off and then log on to the network.
+
+## 
+Show or hide the remote language bar
+
+The language bar displays the preferred input language in an application session. If this feature is enabled (default), you can show or hide the language bar from the Advanced Preferences > Language bar UI in Citrix Workspace app for Windows. By using a registry setting on the VDA side, you can disable client control of the language bar feature. If this feature is disabled, the client UI setting doesn’t take effect, and the per user current setting determines the language bar state. For more information, see Improve the user experience.
+
+To disable client control of the language bar feature from the VDA:
+
+- In the registry editor, navigate to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Citrix\wfshell\TWI.
+
+- Create a DWORD value key, SeamlessFlags, and set it to 0x40000.
+
+## 
+Unicode keyboard mapping
+
+Non-Windows Citrix Receivers use the local keyboard layout (Unicode). If a user changes the local keyboard layout and the server keyboard layout (scan code), they might not be in sync and the output is incorrect. For example, User1 changes the local keyboard layout from English to German. User1 then changes the server-side keyboard to German. Even though both keyboard layouts are German, they might not be in sync causing incorrect character output.
+
+### Enable or disable Unicode keyboard layout mapping
+
+By default, the feature is disabled on the VDA side. To enable the feature, toggle on the feature by using the registry editor regedit on the VDA. Add the following registry key:
+
+KEY_LOCAL_MACHINE/SOFTWARE/Citrix/CtxKlMap
+
+Name: EnableKlMap
+
+Type: DWORD
+
+Value: 1
+
+To disable this feature, set EnableKlMap to 0 or delete the CtxKlMap key.
+
+### Enable Unicode keyboard layout mapping compatible mode
+
+By default, Unicode keyboard layout mapping automatically hooks some windows API to reload the new Unicode keyboard layout map when you change the keyboard layout on the server side. A few applications cannot be hooked. To keep compatibility, you can change the feature to compatible mode to support these non-hooked applications. Add the following registry key:
+
+HKEY_LOCAL_MACHINE/SOFTWARE/Citrix/CtxKlMap
+
+Name: DisableWindowHook
+
+Type: DWORD
+
+Value: 1
+
+To use normal Unicode keyboard layout mapping, set DisableWindowHook to 0.
+
+ The official version of this product documentation is in English. Any non-English version is solely provided for your convenience and may include machine-translated content. For more information, please refer to the Machine Translation Disclaimer on Cloud Software Group home. 
+
+ DIESER DIENST KANN ÜBERSETZUNGEN ENTHALTEN, DIE VON GOOGLE BEREITGESTELLT WERDEN. GOOGLE LEHNT JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG IN BEZUG AUF DIE ÜBERSETZUNGEN AB, EINSCHLIESSLICH JEGLICHER GEWÄHRLEISTUNG DER GENAUIGKEIT, ZUVERLÄSSIGKEIT UND JEGLICHER STILLSCHWEIGENDEN GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+
+ CE SERVICE PEUT CONTENIR DES TRADUCTIONS FOURNIES PAR GOOGLE. GOOGLE EXCLUT TOUTE GARANTIE RELATIVE AUX TRADUCTIONS, EXPRESSE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE D'EXACTITUDE, DE FIABILITÉ ET TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+ ESTE SERVICIO PUEDE CONTENER TRADUCCIONES CON TECNOLOGÍA DE GOOGLE. GOOGLE RENUNCIA A TODAS LAS GARANTÍAS RELACIONADAS CON LAS TRADUCCIONES, TANTO IMPLÍCITAS COMO EXPLÍCITAS, INCLUIDAS LAS GARANTÍAS DE EXACTITUD, FIABILIDAD Y OTRAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN EN PARTICULAR Y AUSENCIA DE INFRACCIÓN DE DERECHOS.
+
+ 本服务可能包含由 Google 提供技术支持的翻译。Google 对这些翻译内容不做任何明示或暗示的保证，包括对准确性、可靠性的任何保证以及对适销性、特定用途的适用性和非侵权性的任何暗示保证。
+
+ このサービスには、Google が提供する翻訳が含まれている可能性があります。Google は翻訳について、明示的か黙示的かを問わず、精度と信頼性に関するあらゆる保証、および商品性、特定目的への適合性、第三者の権利を侵害しないことに関するあらゆる黙示的保証を含め、一切保証しません。
+
+ ESTE SERVIÇO PODE CONTER TRADUÇÕES FORNECIDAS PELO GOOGLE. O GOOGLE SE EXIME DE TODAS AS GARANTIAS RELACIONADAS COM AS TRADUÇÕES, EXPRESSAS OU IMPLÍCITAS, INCLUINDO QUALQUER GARANTIA DE PRECISÃO, CONFIABILIDADE E QUALQUER GARANTIA IMPLÍCITA DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO INFRAÇÃO.
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ >
+
+ <
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+ HDX™ 
+
+ September 6, 2025
+
+ Contributed by: 
+
+ C
+
+Share
+
+ September 6, 2025
+
+ Contributed by: 
+
+ C
+
+Share
+
+### 
+ In this article
+
+- At the device
+
+- On the network
+
+- In the data center
+
+- HDX Insight
+
+- Experience HDX capabilities from your virtual desktop
+
+- Auto client reconnect and session reliability
+
+- HDX adaptive throughput
+
+- Improve the image quality sent to user devices
+
+- Improve video conference performance
+
+- Network traffic priorities
+
+- Show or hide the remote language bar
+
+- Unicode keyboard mapping
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ Citrix
+ Preview Documentation
+
+This Preview product documentation is 
+ Citrix
+ Confidential.
+
+You agree to hold this documentation confidential pursuant to the
+ terms of your 
+ Citrix
+ Beta/Tech Preview Agreement.
+
+The development, release and timing of any features or functionality
+ described in the Preview documentation remains at our sole discretion and are subject to
+ change without notice or consultation.
+
+The documentation is for informational purposes only and is not a
+ commitment, promise or legal obligation to deliver any material, code or functionality
+ and should not be relied upon in making 
+ Citrix
+ product purchase decisions.
+
+If you do not agree, select I DO NOT AGREE to exit.
+
+ I AGREE
+ I DO NOT AGREE
+
+ Send us your feedback
+
+ Machine Translation Feedback Form
+
+ YES
+
+ NO
+
+ Write something?
+
+ SUBMIT
+
+ Copied!
+ Failed!
+
+ Site feedback
+ |
+ Your Privacy Choices
+ |
+ Privacy and legal terms
+ |
+
+ Cookie preferences
+ |
+ Consent settings
+ |
+ docs.cloud.com
+
+ © 1999- Cloud Software Group, Inc. All
+ rights reserved.
+
+ Provide your feedback
+
+ Thanks for your feedback. We'll contact you at the provided email address if we require more information. 
+
+ There was an error while submitting your feedback. Please try again 
+
+ Send Feedback: *
+
+ About the Article
+
+ About the Product
+
+ This field is required
+
+ Subject: *
+
+ This field is required
+
+ Tell us more: *
+
+ This field is required
+
+ We may email you for further information or updates. Would you be open to a follow-up conversation?: *
+
+ Yes
+
+ No
+
+ This field is required
+
+ Name: 
+
+ Please enter a valid name
+
+ Email: 
+
+ Please enter a valid email
+
+Required fields are marked with an 
+
+ This is for feedback and suggestions only. If you encounter any issues requiring resolution, contact your administrator(s) directly. Your feedback is valuable.
+
+ Submit
+
+ I confirm that I have read the instructions and requested required access.
+
+ ×
+
+Do you want to switch to the website in your browser preferred language?
+
+ YES
+ NO
+
+ ×
+
+ Please enter a Commit message
+
+ Request Change

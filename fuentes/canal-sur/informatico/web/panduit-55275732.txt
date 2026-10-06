@@ -1,0 +1,271 @@
+ 
+ 
+ 
+ 
+web: www.panduit.com        e-mail: cs@panduit.com        phone: 800-777-3300       page 1 
+ 
+TECHNICAL REFERENCE  
+TR103 
+Patch Cord Wiring Guide 
+Introduction 
+Panduit is a leading supplier of structured cabling systems and Unified Physical Infrastructure (UPI), enabling the 
+physical infrastructure to be scalable, flexible, and easily manageable, while supporting Ethernet communications 
+at ever-increasing data rates.  Panduit is aware of confusion in the marketplace regarding patch cord wiring 
+schemes and when they should be employed.  These wiring schemes include T568A, T568B, crossover (flipped), 
+and rolled (roll-over).The purpose of this technical reference is to eliminate any confusion, by providing an 
+overview of each wiring scheme as well as typical deployment strategies in structured cabling systems. 
+ 
+T568A & T568B Wiring 
+T568A and T568B wiring schemes are defined in the ANSI/TIA-568-C.2 standard for 4-pair (8-position, 
+8-conductor) RJ45 interfaces.  T568A and T568B are straight-through wiring schemes.  Each conductor inside the 
+patch cable connects to the same pin on both modular plug ends.  As shown in the illustration below, the only 
+difference between T568A and T568B is the orientation of the green and orange pairs. 
+ 
+ 
+ 
+ 
+When used in traditional fashion, there is no functional difference between patch cords with T568A or T568B 
+wiring schemes.  Both wiring schemes are acceptable in network topologies, and are essentially interchangeable.  
+T568A is the default wiring scheme in ANSI/TIA-568-C.2, with T568B listed as being optional. ANSI/TIA-568-C.2, 
+is the most popular wiring scheme in modern installations.  T568B is also consistent with the older AT&T 258A 
+wiring scheme that many installers are already accustomed to.  The US Government has standardized on T568A.  
+It is the required wiring scheme for all government installations and in all performance categories. 
+Although completely interchangeable in traditional plug-to-plug form, installers must be cognizant of the patch 
+cord wiring scheme if they cut the patch cord to terminate a jack module on one end.  This technique is often used 
+when the modular plug is connected to a switch, and the jack module is installed in a modular patch panel.  To  
+
+ 
+ 
+ 
+ 
+web: www.panduit.com        e-mail: cs@panduit.com        phone: 800-777-3300       page 2 
+ 
+TECHNICAL REFERENCE  
+TR103 
+ 
+ 
+ensure the jack-to-plug link transmits Ethernet traffic, the jack module must be terminated using the same wiring 
+scheme as the patch cord modular plug.  Installers appreciate that the termination cap on all Panduit jack 
+modules includes a wire map label that illustrates the correct conductor positions for T568A and T568B 
+termination. 
+ 
+ 
+Panduit manufactures a complete line of patch cords in Category 6A, 6, and 5e performance categories.  These 
+include UTP, shielded, standard diameter, small diameter (SD), in CM and/or LSZH flame ratings.  The table 
+below summarizes Panduit’s patch cord offerings and the part numbers for each cord wired T568A or T568B. 
+T568A & T568B Wiring Patch Cord Part Numbers 
+Patch Cord Type 
+Standard T568 
+Wire Scheme 
+Part Number 
+Alternate T568 
+Wire Scheme 
+Part Number 
+Cat 6A UTP (CM) 
+T568B 
+UTP6A**xx 
+T568A 
+UTP6A**xxA/N 
+Cat 6A UTP (LSZH) 
+T568B 
+UTP6AL**xx 
+T568A 
+UTP6AL**xxA/N 
+Cat 6A SD UTP (CM) 
+T568B 
+UTP6ASD**xx 
+T568A 
+UTP6ASD**xxA/N 
+Cat 6A SD UTP (LSZH) 
+T568B 
+UTP6ASDL**xx 
+T568A 
+UTP6ASDL**xxA/N 
+Cat 6A Shielded (CM/LSZH) 
+T568B 
+STP6X**xx 
+T568A 
+STP6X**xxA/N 
+Cat 6 UTP (CM) 
+T568B 
+UTPSP**xxY 
+T568A 
+UTPSP**xxA/NY 
+Cat 6 UTP (LSZH) 
+T568B 
+UTPSPL**xxY 
+T568A 
+UTPSPL**xxA/NY 
+Cat 6 SD UTP (CM/LSZH) 
+T568B 
+UTP28SP**xx 
+T568A 
+UTP28SP**xxA/N 
+Cat 5e UTP (CM) 
+T568A 
+UTPCH**xxY 
+T568B 
+UTPCH**xxB/NY 
+Cat 5e UTP (LSZH) 
+T568A 
+UTPCHL**xxY 
+T568B 
+UTPCHL**xxB/NY 
+Cat 5e SD UTP (CM/LSZH) 
+T568A 
+UTP28CH**xx 
+T568B 
+UTP28CH**xxB/N 
+Cat 5e Shielded (CM/LSZH) 
+T568A 
+STPCH**Bxx 
+T568B 
+STPCH**BxxB/N 
+** = Length     xx = Color Code     /N = Non-Standard Part Number 
+ 
+Panduit’s standard Category 5e patch cords are wired T568A at the factory with standard Category 6A and 
+Category 6 patch cords are wired T568B.  Through extensive validation testing, Panduit confirmed improved Near 
+End Cross Talk (NEXT) margins were obtained by wiring higher bandwidth cords to T568B.  The reason relates to 
+the pair lays within the patch cable, and how the conductors are manipulated into position within the modular 
+plugs. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+web: www.panduit.com        e-mail: cs@panduit.com        phone: 800-777-3300       page 3 
+ 
+TECHNICAL REFERENCE  
+TR103 
+ 
+Crossover (Flipped) Wiring 
+Although not specifically defined in ANSI/TIA-568-C.2, crossover patch cords, also known as flipped patch cords, 
+are used to connect a PC directly to another PC, a hub to hub, or switch to switch.  The term crossover is used 
+because the send and receive pairs are crossed from one modular plug (end 1) to the other (end 2). 
+Most modern hubs and switches have auto-sensing ports that allow the use of straight patch cords (T568A or 
+T568B) for direct connections; however, regardless of equipment capabilities, many installers prefer the use of 
+crossover cords for all direct connections.  For visual differentiation, it is common for crossover cords to be 
+deployed in a different color than standard straight-through cables. 
+Users should be aware that many low end crossover cords on the market support data transition rates of only 
+10/100 megabits per second.  This is because only 2 of the 4 conductor pairs have been crossed.  As shown in 
+the illustration below, Panduit cords crossover all 4 pairs.  Known as “full crossover”, Panduit cords transmit data 
+on all 4 pairs at speeds up to 1 gigabit per second. 
+ 
+ 
+ 
+Because of their popularity, Panduit stocks a standard offering of Category 6 UTP crossover patch cords.  
+Standard foot lengths include 2 to 10 feet (one foot increments) 15 and 20 feet.  Standard meter lengths include 2 
+to 5 meters (one meter increments) 1 and 1.5 meters.  Standard colors are RD (Red), YL (Yellow), and GY 
+(Gray).  The table below shows the part number matrix for these standard cords. 
+Cross Over Patch Cord Part Numbers - Standard 
+Patch Cord Type 
+Part Number 
+Cat 6 UTP (CM) 
+UTPSP**xxFY 
+** = Length   xx = Color Code    
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+web: www.panduit.com        e-mail: cs@panduit.com        phone: 800-777-3300       page 4 
+ 
+TECHNICAL REFERENCE  
+TR103 
+ 
+ 
+The table below provides a part number matrix that should be referenced when ordering a crossover cord in 
+different performance levels, lengths, and standard colors. 
+Cross Over Patch Cord Part Numbers 
+Patch Cord Type 
+Part Number 
+Cat 6A UTP (CM) 
+UTP6A**xxF/N 
+Cat 6A UTP (LSZH) 
+UTP6AL**xxF/N 
+Cat 6A SD UTP (CM) 
+UTP6ASD**xxF/N 
+Cat 6A SD UTP (LSZH) 
+UTP6ASDL**xxF/N 
+Cat 6A Shielded (CM/LSZH) 
+STP6X**xxF/N 
+Cat 6 UTP (CM) 
+UTPSP**xxF/NY 
+Cat 6 UTP (LSZH) 
+UTPSPL**xxF/NY 
+Cat 6 SD UTP (CM/LSZH) 
+UTP28SP**xxF/N 
+Cat 5e UTP (CM) 
+UTPCH**xxF/NY 
+Cat 5e UTP (LSZH) 
+UTPCHL**xxF/NY 
+Cat 5e SD UTP (CM/LSZH) 
+UTP28CH**xxF/N 
+Cat 5e Shielded (CM/LSZH) 
+STPCH**BxxF/N 
+** = Length   xx = Color Code   /N = Non-Standard Part Number 
+ 
+Rolled (Roll-Over) Wiring 
+Rolled (roll-over) patch cords are not used for network connectivity.  These patch cords serve a unique purpose, 
+and are used to connect the serial port or modem on a PC to the console port of a Cisco^ router or switch.  
+Rollover patch cords are often referred to as Cisco console cables because they facilitate the configuration of a 
+Cisco network router or switch from a PC.  An RJ45 to DB9 or RJ45 to DB-25 adapter will be needed to connect 
+the cord to the PC serial port or modem. 
+As shown in the illustration below, a roll-over patch cord completely reverses the pin configurations between the 
+two modular plugs.  Pin 1 on modular plug end 1 connects to pin 8 on modular plug end 2.  Pin 2 on modular plug 
+end 1 connects to pin 7 on modular plug end 2, and so on. 
+ 
+
+ 
+ 
+ 
+ 
+web: www.panduit.com        e-mail: cs@panduit.com        phone: 800-777-3300       page 5 
+ 
+TECHNICAL REFERENCE  
+TR103 
+ 
+ 
+Rolled (roll-over) wiring is also available in all Panduit patch cord types.  The table below provides a part number 
+matrix that should be referenced when ordering rolled patch cords in different performance levels, lengths, and 
+standard colors. 
+Rolled Patch Cord Part Numbers 
+Patch Cord Type 
+Part Number 
+Cat6A UTP (CM) 
+UTP6A**xxR/N 
+Cat6A UTP (LSZH) 
+UTP6AL**xxR/N 
+Cat6A SD UTP (CM) 
+UTP6ASD**xxR/N 
+Cat6A SD UTP (LSZH) 
+UTP6ASDL**xxR/N 
+Cat6A Shielded (CM/LSZH) 
+STP6X**xxR/N 
+Cat6 UTP (CM) 
+UTPSP**xxR/NY 
+Cat6 UTP (LSZH) 
+UTPSPL**xxR/NY 
+Cat6 SD UTP (CM/LSZH) 
+UTP28SP**xxR/N 
+Cat5e UTP (CM) 
+UTPCH**xxR/NY 
+Cat5e UTP (LSZH) 
+UTPCHL**xxR/NY 
+Cat5e SD UTP (CM/LSZH) 
+UTP28CH**xxR/N 
+Cat5e Shielded (CM/LSZH) 
+STPCH**BxxR/N 
+** = Length   xx = Color Code   /N = Non-Standard Part Number 
+ 
+ 
+Summary 
+Panduit, a leading supplier of structured cabling systems and UPI, has the capability of manufacturing any patch 
+cord with a T568A, T568B, crossover (flipped), or rolled (roll-over) wiring scheme.  These cords can be 
+manufactured in any cord type, length, or standard color. Contact Panduit customer service to initiate your order 
+for any patch cord described in this technical reference. 

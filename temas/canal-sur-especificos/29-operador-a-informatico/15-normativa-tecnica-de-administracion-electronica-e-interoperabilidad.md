@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 15 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos; Real Decreto 4/2010, de 8 de enero, Esquema Nacional de Interoperabilidad; Real Decreto 311/2022, de 3 de mayo, Esquema Nacional de Seguridad; y las normas técnicas de interoperabilidad de Documento electrónico, Expediente electrónico, Digitalización de documentos, Catálogo de estándares, Política de firma y sello electrónicos y de certificados, y Modelo de datos para el intercambio de asientos registrales |
-| Redacción que se estudia | La vigente según el texto consolidado del BOE, leído el 05-10-2026. Ninguna de esas normas cambió entre el 24-09-2026 (fecha del BOJA) y esa lectura. Las últimas reformas que se estudian son de 07-11-2024 (disposición adicional primera del Esquema de Interoperabilidad y segunda del de Seguridad) y de 02-04-2025 (artículo 27 del Reglamento de 2021) |
-| Extensión | 15.500 palabras aproximadamente (con las siglas y los cuadros) |
+| Fuente | Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público; Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos; Real Decreto 4/2010, de 8 de enero, Esquema Nacional de Interoperabilidad; Real Decreto 311/2022, de 3 de mayo, Esquema Nacional de Seguridad; Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público; y las normas técnicas de interoperabilidad de Documento electrónico, Expediente electrónico, Digitalización de documentos, Catálogo de estándares, Política de firma y sello electrónicos y de certificados, y Modelo de datos para el intercambio de asientos registrales |
+| Redacción que se estudia | La vigente según el texto consolidado del BOE, leído el 05-10-2026 (el Real Decreto 1112/2018, el 06-10-2026). Ninguna de esas normas cambió entre el 24-09-2026 (fecha del BOJA) y esa lectura. Las últimas reformas que se estudian son de 07-11-2024 (disposición adicional primera del Esquema de Interoperabilidad y segunda del de Seguridad) y de 02-04-2025 (artículo 27 del Reglamento de 2021) |
+| Extensión | 17.000 palabras aproximadamente (con las siglas y los cuadros) |
 
 <!-- /portada -->
 
@@ -53,11 +53,13 @@ bajan al detalle (metadatos, formatos, resolución de escaneo, formatos de firma
 
 Qué se puede preguntar: qué norma crea el ENI y el ENS y cuál los regula; a quién se aplican y si
 alcanzan a una agencia pública empresarial y a una sociedad mercantil pública; quién está obligado a
-relacionarse electrónicamente; qué es una sede electrónica y qué certificado usa; qué sistemas de
-identificación y firma admiten las Administraciones y cuáles se deben garantizar siempre; qué es el
+relacionarse electrónicamente; qué es una sede electrónica y qué certificado usa; qué norma fija la accesibilidad de los sitios web y
+aplicaciones móviles del sector público, qué excluye y qué es la declaración de accesibilidad; qué sistemas de
+identificación y firma admiten las Administraciones, cuáles se deben garantizar siempre y qué plazo y localización
+exigen los demás; qué es el
 sello electrónico, la actuación administrativa automatizada y el CSV; qué contiene un asiento de
 registro y qué recibo se entrega; qué requisitos tiene un documento electrónico administrativo y qué
-firmas no necesita; qué es una copia auténtica y la digitalización; qué es el índice electrónico del
+firmas no necesita; qué es una copia auténtica, quién la expide y la digitalización; qué es el índice electrónico del
 expediente; qué exige el archivo electrónico único; qué dimensiones tiene la interoperabilidad y cuáles
 son sus principios específicos; qué es un estándar abierto y cuándo se puede usar uno que no lo es; qué
 son la Red SARA, el plan de direccionamiento y la hora oficial; qué cuatro libertades exige una licencia
@@ -83,6 +85,7 @@ debe sincronizar la hora, o qué categoría ENS sale de una valoración dada.
   - [Los principios de la actuación electrónica](#los-principios-de-la-actuación-electrónica)
   - [Quién está obligado a relacionarse electrónicamente](#quién-está-obligado-a-relacionarse-electrónicamente)
   - [La sede electrónica y el portal](#la-sede-electrónica-y-el-portal)
+  - [La accesibilidad de los sitios web y las aplicaciones móviles](#la-accesibilidad-de-los-sitios-web-y-las-aplicaciones-móviles)
   - [La identificación y la firma de los interesados](#la-identificación-y-la-firma-de-los-interesados)
   - [Cómo se identifica y firma la propia Administración](#cómo-se-identifica-y-firma-la-propia-administración)
   - [El registro electrónico](#el-registro-electrónico)
@@ -305,6 +308,56 @@ Lo técnico de la sede está en tres apartados del artículo 38:
   web o medio equivalente.»** Es el certificado de servidor que hace funcionar HTTPS en la sede (el
   protocolo y el certificado de sitio web se estudian en los temas 13 y 14).
 
+### La accesibilidad de los sitios web y las aplicaciones móviles
+
+El principio de accesibilidad del Reglamento de 2021 (artículo 2.b) y de la sede (38.3) tiene una norma
+técnica propia: el Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y
+aplicaciones para dispositivos móviles del sector público, que incorpora la Directiva (UE) 2016/2102.
+Define la accesibilidad como **«el conjunto de principios y técnicas que se deben respetar al diseñar,
+construir, mantener y actualizar los sitios web y las aplicaciones para dispositivos móviles para
+garantizar la igualdad y la no discriminación en el acceso de las personas usuarias, en particular de
+las personas con discapacidad y de las personas mayores»** (artículo 1.2).
+
+- A quién se aplica (artículo 2.1): la Administración General del Estado, las de las comunidades
+  autónomas, las entidades locales, **«El sector público institucional, en los términos establecidos en
+  el artículo 2.2 de la Ley 39/2015»** y las asociaciones que constituyan; también la Administración de
+  Justicia (2.2).
+- Qué contenido (artículo 3.2): la información textual y no textual, los documentos y formularios
+  descargables, el multimedia pregrabado, la interacción bidireccional, el tratamiento de formularios
+  digitales y **«la cumplimentación de los procesos de identificación, autenticación, firma y pago»**.
+- Exclusión que toca a una radiotelevisión pública (artículo 3.3): **«Están excluidos de este real
+  decreto y se regularán por su normativa específica los contenidos multimedia en directo y pregrabado de
+  base temporal de los sitios web y aplicaciones para dispositivos móviles de prestadores del servicio
+  público de radiodifusión y sus filiales»**. El real decreto no nombra a la RTVA; pero la RTVA tiene
+  atribuida **«la gestión directa del servicio público de radio y televisión»** (Ley 18/2007, artículo
+  2.2, tema 5 del común), de modo que su audio y vídeo en la web quedarían fuera y el resto de su web
+  (textos, documentos, formularios) dentro, en la medida en que la RTVA esté en el ámbito del artículo 2
+  (epígrafe 1). Es deducción del tema, no texto de la norma.
+- Los cuatro principios (artículo 5.1): los contenidos han de ser **«perceptibles, operables,
+  comprensibles y robustos»**. La robustez es que los contenidos se puedan interpretar **«de forma fiable
+  por una gran variedad de agentes de usuario, incluidas las tecnologías de asistencia»** (artículo 4.ñ).
+  La accesibilidad **«se tendrá presente de forma integral en el proceso de diseño, gestión,
+  mantenimiento y actualización de contenidos»** (5.2).
+- Norma técnica (artículo 6): se presume conforme el contenido que cumpla las normas armonizadas
+  cuyas referencias se hayan publicado en el Diario Oficial de la Unión Europea (6.1); a falta de ellas,
+  en los sitios web, la norma europea **«EN 301 549 V1.1.2 (2015-04)»** (6.3), que en las aplicaciones
+  móviles se aplica si además faltan las especificaciones técnicas adoptadas por la Comisión (6.2 y 6.3);
+  y se aplican directamente las actualizaciones de esa referencia que la Comisión adopte mediante actos
+  delegados (6.4).
+- Carga desproporcionada (artículo 7): excepción motivada y limitada; **«No se consideran motivos que
+  permitan apreciar la excepción de la carga desproporcionada la falta de prioridad, de tiempo o de
+  conocimientos»**, ni la necesidad de adquirir o desarrollar sistemas de gestión de contenidos que no
+  sean accesibles (7.3). La evaluación se hace por escrito y se revisa **«al menos una vez al año»** (7.5).
+- Mecanismo de comunicación (artículo 10): cualquier persona puede presentar sugerencias y quejas,
+  informar de incumplimientos y solicitar la información excluida.
+- Declaración de accesibilidad (artículo 15): se actualiza **«como mínimo una vez al año, o cada vez que
+  se realice una revisión de accesibilidad»**; en un sitio web, se accede **«desde todas las páginas del
+  sitio web con un enlace denominado «Accesibilidad»»** o su equivalente en el idioma de la página, e incluye lo que no es accesible y por qué, el
+  enlace al mecanismo de comunicación y el enlace al procedimiento de reclamación (15.2).
+- Revisiones (artículo 17): en la fase de diseño y antes de la puesta en funcionamiento (17.1), y
+  después periódicas (17.2); combinan **«revisión automática»** y **«revisión manual experta»** y su
+  resultado queda en un informe (17.3).
+
 ### La identificación y la firma de los interesados
 
 El tema 14 desarrolla la firma electrónica y los certificados; aquí basta lo que la ley exige a las
@@ -314,13 +367,34 @@ familias: **«a) Sistemas basados en certificados electrónicos cualificados de 
 **«expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de
 certificación’’»**, y c) cualquier otro sistema que la Administración considere válido con registro
 previo del usuario y previa comunicación a la Secretaría General de Administración Digital (el Reglamento de 2021 nombra entre ellos los **«Sistemas de clave concertada»**,
-artículo 26.2.c). Para firmar, el artículo 10.2 admite la firma cualificada y avanzada basada en
+artículo 26.2.c). Esa comunicación **«vendrá acompañada de una declaración responsable de que se cumple
+con todos los requisitos establecidos en la normativa vigente»**, y **«De forma previa a la eficacia
+jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación»**, durante los cuales el
+órgano estatal competente por motivos de seguridad pública puede acudir a la vía jurisdiccional, previo
+informe vinculante de la Secretaría de Estado de Seguridad, que ha de emitirlo en diez días desde su
+solicitud (9.2.c). Para firmar, el artículo 10.2 admite la firma cualificada y avanzada basada en
 certificado cualificado, el sello cualificado y avanzado, y otros sistemas con registro previo. Los dos
 artículos cierran con la misma garantía: **«Las Administraciones Públicas deberán garantizar que la
 utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo
 procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra
 c).»** (9.2; el 10.2 dice **«para todos los procedimientos en todos sus trámites»**). Es decir: la
 Administración puede ofrecer una clave concertada, pero no puede impedir que se use un certificado.
+
+Para esos sistemas de la letra c), los apartados 9.3 y 10.3 fijan dónde pueden estar las máquinas, que es
+un requisito de alojamiento que toca directamente a un servicio informático:
+
+- Localización: **«los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y
+  gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea»**, y en territorio
+  español si se trata de categorías especiales de datos del artículo 9 del Reglamento (UE) 2016/679 (el
+  Reglamento General de Protección de Datos, tema 10 del común). Los datos han de estar disponibles para
+  las autoridades judiciales y administrativas competentes.
+- Transferencias: esos datos **«no podrán ser objeto de transferencia a un tercer país u organización
+  internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la Comisión
+  Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino
+  de España.»**
+
+En la práctica: un sistema de clave concertada alojado en un servicio en la nube fuera de la Unión
+Europea no cumple la Ley 39/2015.
 
 El Reglamento de 2021 fija qué tiene que llevar dentro el certificado de persona física que se usa
 para identificarse (artículo 27.1, en su redacción vigente desde el 02-04-2025): **«al menos, su nombre y
@@ -337,7 +411,8 @@ mantiene:
 - Sello electrónico (Ley 40/2015, artículo 40.1): **«Las Administraciones Públicas podrán identificarse
   mediante el uso de un sello electrónico basado en un certificado electrónico reconocido o cualificado
   que reúna los requisitos exigidos por la legislación de firma electrónica.»** El certificado incluye
-  **«el número de identificación fiscal y la denominación correspondiente»**, y la relación de sellos
+  **«el número de identificación fiscal y la denominación correspondiente, así como, en su caso, la
+  identidad de la persona titular en el caso de los sellos electrónicos de órganos administrativos»**, y la relación de sellos
   que usa cada Administración **«deberá ser pública y accesible por medios electrónicos»**.
 - Actuación administrativa automatizada (artículo 41.1): **«cualquier acto o actuación realizada
   íntegramente a través de medios electrónicos por una Administración Pública en el marco de un
@@ -377,7 +452,8 @@ Lo que el sistema tiene que hacer, apartado por apartado:
 
 - Orden (16.2): **«Los asientos se anotarán respetando el orden temporal de recepción o salida de los
   documentos, e indicarán la fecha del día en que se produzcan. Concluido el trámite de registro, los
-  documentos serán cursados sin dilación a sus destinatarios»**. El registro no se ordena por materias:
+  documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas
+  correspondientes desde el registro en que hubieran sido recibidas.»** El registro no se ordena por materias:
   se ordena por el reloj. De ahí las dos funciones clásicas del registro: dar fe de la entrada y la
   salida, y encaminar lo presentado a su destino.
 - Contenido del asiento (16.3): **«un número, epígrafe expresivo de su naturaleza, fecha y hora de su
@@ -455,7 +531,20 @@ todos los efectos a las marcas de tiempo.»** (50.1.b).
 
 ### Las copias auténticas y la digitalización
 
-La copia auténtica es la que hace el órgano competente garantizando **«la identidad del órgano que ha
+Quién las hace (Ley 39/2015, artículo 27.1): **«Cada Administración Pública determinará los órganos que
+tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos
+administrativos o privados.»** Y cómo: **«la Administración General del Estado, las Comunidades
+Autónomas y las Entidades Locales podrán realizar copias auténticas mediante funcionario habilitado o
+mediante actuación administrativa automatizada.»** De ahí una obligación de sistemas: **«Se deberá
+mantener actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios
+habilitados para la expedición de copias auténticas que deberán ser plenamente interoperables y estar
+interconectados con los de las restantes Administraciones Públicas»**, para comprobar la validez de la
+habilitación; en él constarán, **«al menos, los funcionarios que presten servicios en las oficinas de
+asistencia en materia de registros.»** Es el registro cuya NTI prevé la letra s) de la disposición
+adicional primera del ENI (epígrafe 4). Las copias auténticas de documentos privados **«surten
+únicamente efectos administrativos»**, y las de una Administración valen en las demás (27.1).
+
+La copia auténtica es la que hace el órgano competente, en cualquier soporte, garantizando **«la identidad del órgano que ha
 realizado la copia y su contenido»**, y **«Las copias auténticas tendrán la misma validez y eficacia que
 los documentos originales.»** (Ley 39/2015, artículo 27.2). El Reglamento añade que **«se expedirán siempre
 a partir de un original o de otra copia auténtica»** (artículo 47.2). Para hacerlas, las Administraciones
@@ -506,7 +595,9 @@ electrónicos que se formen de manera automática»** (51.3). En papel, el folia
 electrónico, es firmar la lista de documentos con su huella digital (epígrafe 4, NTI de expediente). Y lo
 que no forma parte del expediente (70.4): la información **«auxiliar o de apoyo, como la contenida en
 aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes,
-comunicaciones e informes internos»**, salvo los informes solicitados antes de la resolución.
+comunicaciones e informes internos o entre órganos o entidades administrativas, así como los juicios de
+valor emitidos por las Administraciones Públicas»**, salvo los informes, preceptivos y facultativos,
+solicitados antes de la resolución que ponga fin al procedimiento.
 
 ### El archivo electrónico
 
@@ -930,7 +1021,7 @@ Los metadatos mínimos obligatorios (anexo I) son nueve, más tres que sólo se 
 | Metadato | Qué indica (anexo I) |
 |---|---|
 | Versión NTI | Identificador normalizado de la versión de la NTI conforme a la cual se estructura el documento |
-| Identificador | **«Identificador normalizado del documento.»**, con la forma ES_<Órgano>_<AAAA>_<ID específico>, donde el tercer campo es el año de captura (cuatro cifras) y el cuarto un código alfanumérico único de treinta caracteres |
+| Identificador | **«Identificador normalizado del documento.»**, con la forma ES_<Órgano>_&lt;AAAA&gt;_&lt;ID específico&gt;, donde el tercer campo es el año de captura (cuatro cifras) y el cuarto un código alfanumérico único de treinta caracteres |
 | Órgano | Código del órgano generador, **«extraído del Directorio Común»** |
 | Fecha de captura | **«Fecha de alta del documento en el sistema de gestión documental.»** |
 | Origen | **«Indica si el contenido del documento fue creado por un ciudadano o por una administración.»** (‘0’ ciudadano, ‘1’ Administración) |
@@ -1134,10 +1225,13 @@ prestado»** (13.5).
 ### La política de seguridad y los quince requisitos mínimos
 
 La política de seguridad es **«el conjunto de directrices que rigen la forma en que una organización
-gestiona y protege la información que trata y los servicios que presta»** (12.1). Cada entidad con
-personalidad jurídica propia del ámbito del artículo 2 **«deberá contar con una política de seguridad
-formalmente aprobada por el órgano competente»** (12.2), aunque puede quedar incluida en la de la
-Administración de la que depende. Se desarrolla con quince requisitos mínimos (12.6):
+gestiona y protege la información que trata y los servicios que presta»** (12.1). Cada administración
+pública, y **«cada órgano o entidad con personalidad jurídica propia comprendido en el ámbito subjetivo
+del artículo 2»**, **«deberá contar con una política de seguridad formalmente aprobada por el órgano
+competente»** (12.2). La salvedad del mismo apartado: los sujetos de un sector público institucional
+pueden quedar incluidos en la política de la Administración con la que guarden relación de vinculación,
+dependencia o adscripción, **«cuando así lo determinen los órganos competentes en el ejercicio de las
+potestades de organización»**. Se desarrolla con quince requisitos mínimos (12.6):
 
 - **«a) Organización e implantación del proceso de seguridad.**
 - **b) Análisis y gestión de los riesgos.**
@@ -1213,12 +1307,15 @@ puesto (perímetro, VPN, correo, código dañino, firma).
   este real decreto serán objeto de una auditoría regular ordinaria, al menos cada dos años, que
   verifique el cumplimiento de los requerimientos del ENS.»** Además, auditoría extraordinaria
   **«siempre que se produzcan modificaciones sustanciales»**, que reinicia el cómputo de los dos años; el
-  plazo **«podrá extenderse durante tres meses»** por fuerza mayor. El informe se presenta al responsable
+  plazo **«podrá extenderse durante tres meses cuando concurran impedimentos de fuerza mayor no
+  imputables a la entidad titular del sistema o sistemas de información concernidos»**. El informe se presenta al responsable
   del sistema y al de la seguridad (31.5); en categoría ALTA, ante deficiencias graves, el responsable del
   sistema **«podrá suspender temporalmente el tratamiento de informaciones, la prestación de servicios o
   la total operación del sistema»** (31.6).
 - Conformidad (artículo 38.1): **«los sistemas de categoría MEDIA o ALTA precisarán de una auditoría para
-  la certificación de su conformidad»**, mientras que **«los sistemas de categoría BÁSICA solo requerirán
+  la certificación de su conformidad, sin perjuicio de la auditoría de la seguridad prevista en el
+  artículo 31 que podrá servir asimismo para los fines de la certificación»** (una misma auditoría puede
+  valer para las dos cosas), mientras que **«los sistemas de categoría BÁSICA solo requerirán
   de una autoevaluación para su declaración de la conformidad, sin perjuicio de que se puedan someter
   igualmente a una auditoria de certificación.»** Las declaraciones y certificaciones se publican en el
   portal o la sede (38.2).
@@ -1232,7 +1329,7 @@ puesto (perímetro, VPN, correo, código dañino, firma).
 | Categoría | Cómo se acredita la conformidad | Auditoría regular |
 |---|---|---|
 | BÁSICA | Autoevaluación (o auditoría de certificación, si se quiere) | Al menos cada dos años |
-| MEDIA y ALTA | Auditoría de certificación | Al menos cada dos años |
+| MEDIA y ALTA | Auditoría de certificación (puede servir la regular del artículo 31) | Al menos cada dos años |
 
 ### El desarrollo del ENS y las guías del CCN
 
@@ -1301,6 +1398,14 @@ a ALTO y alguna llega a MEDIO: categoría MEDIA (anexo I, 4.1.b). Su conformidad
 certificación (artículo 38.1), y la auditoría regular, al menos cada dos años (artículo 31.1). Si en la
 revisión anual la disponibilidad pasa a ALTO, el sistema entero pasa a ALTA.
 
+*Se rediseña la web de la RTVA.* La accesibilidad se revisa en el diseño y antes de publicar, y después
+periódicamente, con revisión automática y manual experta (Real Decreto 1112/2018, artículo 17); el
+contenido se presume conforme si cumple la norma armonizada publicada en el Diario Oficial de la Unión
+Europea o, a falta de ella, la EN 301 549 (artículo 6); cada página enlaza a la declaración de accesibilidad, revisada al menos una vez al año (artículo 15).
+Falta de tiempo o un gestor de contenidos no accesible no justifican la excepción (artículo 7.3). El audio
+y el vídeo en directo y pregrabado del servicio público de radio y televisión quedan fuera (artículo
+3.3), si la RTVA está en el ámbito del real decreto (epígrafe 2, accesibilidad).
+
 *La empresa externa que mantiene el sistema de archivo de la RTVA, ¿tiene que cumplir el ENS?* Si la RTVA
 está en el ámbito del ENS, el artículo 2.3 extiende el ENS a los sistemas del contratista que presta el
 servicio, incluida la política de seguridad, y los pliegos deben exigir la conformidad. El contratista
@@ -1323,6 +1428,7 @@ consta en ninguna norma leída: epígrafe 1.)
 | Norma | Qué se usa | Redacción |
 |---|---|---|
 | Ley 39/2015, de 1 de octubre (BOE-A-2015-10565) | Arts. 2, 9, 10, 14, 16, 17, 26, 27, 43 y 70; disposición derogatoria única | Arts. 9 y 10 vigentes desde 30-06-2022; los demás, originales (02-10-2016) |
+| Real Decreto 1112/2018, de 7 de septiembre, de accesibilidad de sitios web y aplicaciones móviles del sector público (BOE-A-2018-12699) | Arts. 1 a 7, 10, 15 y 17 | Arts. 15 y 17 en su redacción de 12-08-2019 (tras la Sentencia del Tribunal Constitucional 100/2019, que afecta a sus apartados 15.3 y 17.4, no usados); los demás, originales (20-09-2018) |
 | Ley 40/2015, de 1 de octubre (BOE-A-2015-10566) | Arts. 2, 38 a 46, 155 a 158 | Art. 155 vigente desde 06-11-2019; los demás, originales (02-10-2016) |
 | Real Decreto 203/2021, de 30 de marzo (BOE-A-2021-5032) | Arts. 1 a 3, 5.3, 26, 27, 29.4, 39, 47, 50, 51, 54, 55, 60 a 62 | Art. 27 vigente desde 02-04-2025; los demás, originales (02-04-2021) |
 | Real Decreto 4/2010, de 8 de enero, ENI (BOE-A-2010-1331) | Arts. 1, 3 a 18, 20 a 29; disposiciones adicionales primera y segunda; anexo (glosario) | Disposición adicional primera vigente desde 07-11-2024; arts. 9, 11, 14, 16, 17, 18 y anexo desde 02-04-2021; los demás, originales (30-01-2010) |
@@ -1356,12 +1462,15 @@ consta en ninguna norma leída: epígrafe 1.)
 - Las NTI de las letras m) a v): no constan publicadas en la búsqueda del BOE consolidado.
 - El contenido de las instrucciones técnicas de seguridad y de las guías CCN-STIC (salvo la mención de
   las guías 405 y 807 en la NTI de firma): no se han leído.
+- Del Real Decreto 1112/2018: los procedimientos de reclamación y seguimiento (artículos 11 a 14 y 16 a
+  20), las disposiciones adicionales y el contenido de la norma EN 301 549, que no se ha leído; tampoco
+  si la RTVA ha publicado una declaración de accesibilidad.
 - El portal de administración electrónica del Gobierno (administracionelectronica.gob.es): no se pudo
   leer.
 
 ## Trazabilidad
 
-Todas las fuentes se leyeron el 05-10-2026 en el texto consolidado del BOE (volcado con la herramienta
+Todas las fuentes se leyeron el 05-10-2026 (el Real Decreto 1112/2018 y los preceptos completados en el remate, el 06-10-2026) en el texto consolidado del BOE (volcado con la herramienta
 del proyecto), con la redacción vigente ese día. El encargo fija «hoy» en 24-09-2026; la tabla de
 redacciones de cada norma muestra que la última reforma de cualquiera de ellas es de 02-04-2025, de modo
 que el texto es el mismo en las dos fechas.
@@ -1369,17 +1478,19 @@ que el texto es el mismo en las dos fechas.
 | Fuente | Qué sostiene |
 |---|---|
 | Ley 39/2015 (BOE-A-2015-10565) | Ámbito, identificación y firma de interesados, obligados a relacionarse electrónicamente, registro, archivo, documento electrónico, copias, notificación electrónica, expediente, derogación de la Ley 11/2007 |
+| Real Decreto 1112/2018 (BOE-A-2018-12699), leído el 06-10-2026 | Accesibilidad de sitios web y aplicaciones móviles: objeto, ámbito, exclusión del multimedia de los prestadores del servicio público de radiodifusión, principios, presunción de conformidad, carga desproporcionada, comunicación, declaración y revisiones |
 | Ley 40/2015 (BOE-A-2015-10566) | Ámbito, sede y portal, sello, actuación automatizada, CSV, firma del personal, entornos cerrados, interoperabilidad de la firma, archivo, transmisión de datos, los dos esquemas, reutilización |
 | Real Decreto 203/2021 (BOE-A-2021-5032) | Objeto, principios, cambio de canal, clave concertada, atributos de certificados, registro y SIR, referencia temporal, copias, índice del expediente, conservación y archivo electrónico único, intermediación de datos; remisiones al Real Decreto 3/2010 |
 | Real Decreto 4/2010 (BOE-A-2010-1331) | Objeto, prevalencia, principios, dimensiones, nodos, inventarios, estándares, Red SARA, direccionamiento, hora oficial, licencias, política de firma, plataformas de validación, conservación, conformidad, lista de NTI y su aprobación, glosario; remisiones a la Ley 11/2007 y a la Ley Orgánica 15/1999 |
 | Real Decreto 311/2022 (BOE-A-2022-7191) | Objeto, ámbito, principios, responsables, política y requisitos mínimos, declaración de aplicabilidad, auditoría, incidentes, conformidad, categorías, anexos I y II, desarrollo y guías |
 | NTI de Digitalización, Documento electrónico, Expediente electrónico, Catálogo de estándares, Política de firma y sello (2016) y SICRES4 (2021), en el BOE | Componentes, metadatos, resolución mínima, proceso, índice, formatos y estados, perfiles y validación de firma, firmas longevas, sustituciones |
 | Búsqueda por título «Norma Técnica de Interoperabilidad» en la legislación consolidada del BOE, con su campo de vigencia (05-10-2026) | Relación de NTI publicadas y vigentes |
-| Temas 2 y 5 del común | Definición de agencia (art. 54.1 de la Ley 9/2007), naturaleza de la RTVA y de CSRTV |
+| Temas 2 y 5 del común | Definición de agencia (art. 54.1 de la Ley 9/2007), naturaleza de la RTVA y de CSRTV, gestión directa del servicio público de radio y televisión (art. 2.2 de la Ley 18/2007) |
 
 Oficio sin norma detrás, y así se declara: la selección de normas que el tema entiende por «normativa
 técnica básica»; las dos funciones clásicas del registro (dar fe y encaminar); la comparación
-del ENS con la tríada clásica de la seguridad; la deducción sobre el encaje de la RTVA y CSRTV en el artículo 2; el ejemplo de las
+del ENS con la tríada clásica de la seguridad; la deducción sobre el encaje de la RTVA y CSRTV en el artículo 2 y la de que la exclusión del
+artículo 3.3 del Real Decreto 1112/2018 alcanza al audio y vídeo de la web de la RTVA; el ejemplo de las
 cuatro dimensiones de la interoperabilidad con dos registros; la comparación del índice firmado con el
 foliado en papel; el paralelo entre el plan de direccionamiento y las direcciones privadas del tema 13;
 la explicación de qué es un archivo electrónico frente a un disco con carpetas y del sistema de gestión

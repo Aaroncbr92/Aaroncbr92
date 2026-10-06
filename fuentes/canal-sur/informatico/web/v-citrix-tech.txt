@@ -1,0 +1,2201 @@
+URL: https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/technical-overview.html
+Leído: 2026-10-06
+
+Technical overview | Citrix Virtual Apps and Desktops™ 7 2603
+
+ Product documentation
+
+ Search
+
+Close
+
+Refine results
+
+Select Product
+
+Apply
+
+Clear All
+
+Selected filter
+
+Search Product documentation
+
+- 
+
+ English
+
+- 
+
+ EN
+
+- 
+
+ Deutsch
+
+Machine Translated
+
+- 
+
+ DE
+
+Machine Translated
+
+- 
+
+ 日本語
+
+Machine Translated
+
+- 
+
+ JA
+
+Machine Translated
+
+- 
+
+ Français
+
+Machine Translated
+
+- 
+
+ FR
+
+Machine Translated
+
+- 
+
+ Español
+
+Machine Translated
+
+- 
+
+ ES
+
+Machine Translated
+
+- 
+
+ 简体中文
+
+Machine Translated
+
+- 
+
+ ZH
+
+Machine Translated
+
+- 
+
+ Português
+
+Machine Translated
+
+- 
+
+ PT
+
+Machine Translated
+
+- 
+
+ Italiano
+
+Machine Translated
+
+- 
+
+ IT
+
+Machine Translated
+
+ Citrix Virtual Apps and Desktops
+
+ Current Release
+
+ Current Release
+
+ Service
+
+ 2607 LTSR
+
+ 2511
+
+ 2507 LTSR
+
+ 2503
+
+ 2411
+
+ 2407
+
+ 2402 LTSR
+
+ 2311
+
+ 2203 LTSR
+
+- 
+
+ Citrix Virtual Apps™ and Desktops 7 2603
+
+- 
+
+ What's new
+
+- 
+
+ What's new
+
+- 
+
+ Fixed issues
+
+- 
+
+ Known issues
+
+- 
+
+ Deprecations and removals
+
+- 
+
+ System requirements
+
+- 
+
+ Technical overview
+
+- 
+
+ Databases
+
+- 
+
+ Delivery methods
+
+- 
+
+ Network ports
+
+- 
+
+ HDX™
+
+- 
+
+ ICA® virtual channels
+
+- 
+
+ Double-hop sessions
+
+- 
+
+ Install and configure
+
+- 
+
+ Machine identities 
+
+- 
+
+ Active Directory joined 
+
+- 
+
+ Microsoft Entra hybrid joined 
+
+- 
+
+ Non-domain-joined 
+
+- 
+
+ Session authentication 
+
+- 
+
+ Microsoft Entra single sign-on 
+
+- 
+
+ Federated Authentication Service 
+
+- 
+
+ Smart Cards 
+
+- 
+
+ Prepare to install 
+
+- 
+
+ Amulet Hotkey CoreStation virtualization environments 
+
+- 
+
+ AWS cloud environments 
+
+- 
+
+ Azure Local environments 
+
+- 
+
+ XenServer® virtualization environments 
+
+- 
+
+ Google Cloud environments 
+
+- 
+
+ HPE Moonshot virtualization environments 
+
+- 
+
+ Microsoft Azure Resource Manager cloud environments 
+
+- 
+
+ Microsoft System Center Configuration Manager environments 
+
+- 
+
+ Microsoft System Center Virtual Machine Manager virtualization environments 
+
+- 
+
+ Nutanix virtualization environments 
+
+- 
+
+ Nutanix cloud and partner solutions 
+
+- 
+
+ Oracle C3 virtualization environments 
+
+- 
+
+ Red Hat OpenShift virtualization environments 
+
+- 
+
+ VMware virtualization environments 
+
+- 
+
+ VMware cloud and partner solutions 
+
+- 
+
+ Install core components 
+
+- 
+
+ Install using the command line 
+
+- 
+
+ Install Web Studio 
+
+- 
+
+ Install VDAs 
+
+- 
+
+ Configure Windows Defender Access Control related to VDA Installation 
+
+- 
+
+ Precheck for VDA install and upgrade 
+
+- 
+
+ VDA Meta Installer helper tool 
+
+- 
+
+ Install VDAs using scripts 
+
+- 
+
+ Generate custom script to install or upgrade VDA via command-line 
+
+- 
+
+ Third-party VDA deployment methods 
+
+- 
+
+ Create a site
+
+- 
+
+ Create and manage connections and resources 
+
+- 
+
+ Connection to Amulet Hotkey CoreStation 
+
+- 
+
+ Connection to AWS EC2 
+
+- 
+
+ Connection to Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Connection to Azure Local 
+
+- 
+
+ Connection to XenServer 
+
+- 
+
+ Connection to Google cloud environments 
+
+- 
+
+ Connection to HPE Moonshot 
+
+- 
+
+ Connection to Microsoft Azure 
+
+- 
+
+ Connection to Microsoft System Center Virtual Machine Manager 
+
+- 
+
+ Connection to Nutanix 
+
+- 
+
+ Connection to Nutanix cloud and partner solutions 
+
+- 
+
+ Connection to Oracle C3 
+
+- 
+
+ Connection to Red Hat OpenShift 
+
+- 
+
+ Connection to VMware 
+
+- 
+
+ Connection to VMware cloud and partner solutions 
+
+- 
+
+ Service accounts 
+
+- 
+
+ On-premises Active Directory service accounts 
+
+- 
+
+ Manage service accounts 
+
+- 
+
+ Image management
+
+- 
+
+ Create prepared image machine catalogs 
+
+- 
+
+ Create a prepared image for Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a prepared image machine catalog in Azure 
+
+- 
+
+ Create a prepared image machine catalog in Azure Local 
+
+- 
+
+ Create a prepared image machine catalog in Nutanix AHV Prism Central 
+
+- 
+
+ Create a prepared image machine catalog in Red Hat OpenShift 
+
+- 
+
+ Create a prepared image machine catalog in VMware 
+
+- 
+
+ Create a prepared image machine catalog in XenServer 
+
+- 
+
+ Manage prepared image machine catalogs
+
+- 
+
+ Create machine catalogs 
+
+- 
+
+ Create an Amulet Hotkey CoreStation machine catalog 
+
+- 
+
+ Create an AWS EC2 catalog 
+
+- 
+
+ Create an Azure Local catalog 
+
+- 
+
+ Create a XenServer catalog 
+
+- 
+
+ Create a Google Cloud Platform catalog 
+
+- 
+
+ Create an HPE Moonshot machine catalog 
+
+- 
+
+ Create a Microsoft Azure catalog 
+
+- 
+
+ Create a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Create a Nutanix catalog 
+
+- 
+
+ Create an Oracle C3 machine catalog 
+
+- 
+
+ Create a Red Hat OpenShift catalog 
+
+- 
+
+ Create a VMware catalog 
+
+- 
+
+ Identity pools of different machine identity join types 
+
+- 
+
+ Identity pool of on-premises Active Directory joined machine identity 
+
+- 
+
+ Identity pool of Microsoft Entra hybrid joined machine identity 
+
+- 
+
+ Identity pool of non-domain-joined machine identity 
+
+- 
+
+ Manage machine catalogs 
+
+- 
+
+ Manage an AWS EC2 catalog 
+
+- 
+
+ Manage a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Manage a XenServer catalog 
+
+- 
+
+ Manage a Google Cloud Platform catalog 
+
+- 
+
+ Manage an HPE Moonshot catalog 
+
+- 
+
+ Manage a Microsoft Azure catalog 
+
+- 
+
+ Manage a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Manage a Nutanix catalog 
+
+- 
+
+ Manage a VMware catalog 
+
+- 
+
+ Power Management 
+
+- 
+
+ Power manage Amulet Hotkey CoreStation VMs 
+
+- 
+
+ Power manage AWS VMs 
+
+- 
+
+ Power manage Azure Local VMs 
+
+- 
+
+ Power manage Azure VMs 
+
+- 
+
+ Power manage Oracle C3 VMs 
+
+- 
+
+ Power manage Red Hat OpenShift VMs 
+
+- 
+
+ Power manage Nutanix AHV VMs 
+
+- 
+
+ Security policies 
+
+- 
+
+ Security groups 
+
+- 
+
+ Secure boot 
+
+- 
+
+ Encryption capabilities 
+
+- 
+
+ Service Window 
+
+- 
+
+ Service Window operations in Azure 
+
+- 
+
+ Load balance machines
+
+- 
+
+ Create delivery groups
+
+- 
+
+ Manage delivery groups
+
+- 
+
+ Create application groups
+
+- 
+
+ Manage application groups
+
+- 
+
+ Remote PC Access
+
+- 
+
+ Cloud Connector Standalone Citrix Secure Ticketing Authority (STA) service
+
+- 
+
+ Publish content
+
+- 
+
+ Server VDI
+
+- 
+
+ User personalization layer
+
+- 
+
+ Remove components
+
+- 
+
+ Upgrade and migrate
+
+- 
+
+ Upgrade a Deployment
+
+- 
+
+ Proxy Support for VDA Upgrade Agent
+
+- 
+
+ Secure
+
+- 
+
+ Federated Authentication Service
+
+- 
+
+ FIDO2 authentication 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ Advanced configuration for custom applications 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Integrate Citrix Virtual Apps and Desktops with Citrix Gateway
+
+- 
+
+ Security considerations and best practices
+
+- 
+
+ Manage certificates
+
+- 
+
+ Smart cards 
+
+- 
+
+ Smart card deployments 
+
+- 
+
+ Pass-through authentication and single sign-on with smart cards 
+
+- 
+
+ Enable TLS on Delivery Controllers
+
+- 
+
+ Enable TLS on Web Studio and Director
+
+- 
+
+ Enable TLS on VDAs
+
+- 
+
+ Enable TLS on Universal Print Server
+
+- 
+
+ Virtual channel allow list
+
+- 
+
+ WebSocket communication between VDA and Delivery Controller™
+
+- 
+
+ HDX connectivity
+
+- 
+
+ Adaptive transport 
+
+- 
+
+ Enlightened Data Transport 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ HDX Direct 
+
+- 
+
+ Certificate management 
+
+- 
+
+ NAT Compatibility 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Secure HDX
+
+- 
+
+ Network telemetry
+
+- 
+
+ Virtual channel allow list 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Known third-party virtual channels 
+
+- 
+
+ Virtual Allow Channel List for DVC 
+
+- 
+
+ Devices
+
+- 
+
+ Scanning 
+
+- 
+
+ TWAIN Redirection 
+
+- 
+
+ WIA Devices 
+
+- 
+
+ SANE Redirection 
+
+- 
+
+ USB Devices 
+
+- 
+
+ Configuration 
+
+- 
+
+ Composite Devices and Device Splitting 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ USB Diagnostics Tool 
+
+- 
+
+ Legacy USB Redirection Configuration 
+
+- 
+
+ Generic USB redirection and client drive considerations 
+
+- 
+
+ Client Drive Mapping
+
+- 
+
+ Mobile and touch screen devices
+
+- 
+
+ Serial ports
+
+- 
+
+ Specialty keyboards
+
+- 
+
+ Support key event sequence processing in Windows VDA for double hop
+
+- 
+
+ Windows - Keyboard and IME Supportability Tool
+
+- 
+
+ Webcams
+
+- 
+
+ Graphics
+
+- 
+
+ Thinwire
+
+- 
+
+ HDX 3D Pro
+
+- 
+
+ GPU acceleration
+
+- 
+
+ 10-bit high dynamic range (HDR)
+
+- 
+
+ Adaptive refresh rate
+
+- 
+
+ Loss tolerant mode for graphics
+
+- 
+
+ HDX screen sharing
+
+- 
+
+ Virtual display layout
+
+- 
+
+ Session-based watermark
+
+- 
+
+ Citrix snipping tool
+
+- 
+
+ Thinwire 
+
+- 
+
+ Thinwire Analysis 
+
+- 
+
+ Thinwire Configuration 
+
+- 
+
+ Thinwire Full Screen Encoder 
+
+- 
+
+ Thinwire Selective Encoder 
+
+- 
+
+ Intelligent Build to Lossless 
+
+- 
+
+ Do Not Use a Video Codec 
+
+- 
+
+ Always Lossless Mode 
+
+- 
+
+ Colorspace 
+
+- 
+
+ High Resolution Displays 
+
+- 
+
+ Loss Tolerant Mode for Graphics 
+
+- 
+
+ Seamless
+
+- 
+
+ Publish seamless applications
+
+- 
+
+ Application groups
+
+- 
+
+ Published content
+
+- 
+
+ Publish packaged applications
+
+- 
+
+ Publish UWP applications
+
+- 
+
+ Linux VDA Published Applications
+
+- 
+
+ Windows Accessibility Settings 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ How to Enable 
+
+- 
+
+ Window Dragging
+
+- 
+
+ Transparent windows for seamless applications
+
+- 
+
+ Troubleshooting
+
+- 
+
+ System Tray Icon Redirection
+
+- 
+
+ Multimedia
+
+- 
+
+ Audio features
+
+- 
+
+ Browser content redirection 
+
+- 
+
+ Single sign on support 
+
+- 
+
+ Webcam redirection and video compression
+
+- 
+
+ HTML5 multimedia redirection
+
+- 
+
+ Optimization for Microsoft Teams (New) 
+
+- 
+
+ Citrix HDX Optimization 
+
+- 
+
+ New VDI solution for Teams 
+
+- 
+
+ Optimization for Microsoft Teams (Classic) 
+
+- 
+
+ Monitor, troubleshoot, and support Microsoft Teams 
+
+- 
+
+ Windows Media redirection
+
+- 
+
+ Virtual Channel Plugin Manager 
+
+- 
+
+ Virtual Channel Plugin Manager Overview 
+
+- 
+
+ Virtual Channel Plugin Manager Configuration 
+
+- 
+
+ Unified Communications SDK Optimization
+
+- 
+
+ General content redirection
+
+- 
+
+ Client folder redirection
+
+- 
+
+ Client location redirection
+
+- 
+
+ Bidirectional content redirection
+
+- 
+
+ Host to client redirection
+
+- 
+
+ Local App Access and URL redirection
+
+- 
+
+ Print
+
+- 
+
+ Citrix Universal™ Print Driver (UPD)
+
+- 
+
+ Configuration 
+
+- 
+
+ Client Printer Redirection 
+
+- 
+
+ Citrix Universal Print Server 
+
+- 
+
+ Network printers 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Best practices 
+
+- 
+
+ Policies
+
+- 
+
+ Overview
+
+- 
+
+ Create templates
+
+- 
+
+ Create policies
+
+- 
+
+ Create policy sets
+
+- 
+
+ Prioritize policies
+
+- 
+
+ Manage policy assignment exceptions
+
+- 
+
+ Simulate and evaluate policies
+
+- 
+
+ Migrate legacy MMC Group Policy templates to Web Studio
+
+- 
+
+ Remove deprecated policy settings after an upgrade
+
+- 
+
+ Policy settings reference 
+
+- 
+
+ Default policy settings 
+
+- 
+
+ ICA policy settings 
+
+- 
+
+ HDX features managed through the registry 
+
+- 
+
+ Load management policy settings 
+
+- 
+
+ Profile management policy settings 
+
+- 
+
+ User personalization policy settings 
+
+- 
+
+ Virtual Delivery Agent policy settings 
+
+- 
+
+ Virtual IP policy settings 
+
+- 
+
+ Workspace Environment Management™ policy settings 
+
+- 
+
+ Configure COM Port and LPT Port Redirection settings using the registry 
+
+- 
+
+ Policy changes
+
+- 
+
+ Manage
+
+- 
+
+ Applications 
+
+- 
+
+ App packages 
+
+- 
+
+ Universal Windows Platform Apps 
+
+- 
+
+ Backup or Migrate your Configuration 
+
+- 
+
+ Backup and Restore configuration 
+
+- 
+
+ Backup and Restore using Web Studio 
+
+- 
+
+ Backup and Restore using the Automated Configuration tool 
+
+- 
+
+ Best practices for backup and restore 
+
+- 
+
+ Migrate configuration to Citrix Cloud™ 
+
+- 
+
+ Merging multiple sites into a single site 
+
+- 
+
+ Migrating from cloud to cloud 
+
+- 
+
+ Migrate Cloud configurations to on-premises 
+
+- 
+
+ Migrate on-premises configurations to on-premises site 
+
+- 
+
+ Automated configuration tool cmdlets for migration 
+
+- 
+
+ Automated configuration tool cmdlets for backup and restore 
+
+- 
+
+ Troubleshoot Automated configuration and additional information 
+
+- 
+
+ Autoscale™ 
+
+- 
+
+ Getting started 
+
+- 
+
+ Schedule-based and load-based settings 
+
+- 
+
+ Dynamic session timeouts 
+
+- 
+
+ Autoscaling tagged machines (cloud burst) 
+
+- 
+
+ Autoscale™ plug-in 
+
+- 
+
+ User logoff notifications 
+
+- 
+
+ Analyze effectiveness of Autoscale settings 
+
+- 
+
+ Broker PowerShell SDK commands 
+
+- 
+
+ Citrix Insight Services 
+
+- 
+
+ Citrix Scout 
+
+- 
+
+ Collect a Citrix Diagnostic Facility (CDF) Trace at System Startup
+
+- 
+
+ Delegated administration
+
+- 
+
+ Delivery Controllers
+
+- 
+
+ Home page
+
+- 
+
+ IPv4/IPv6 support
+
+- 
+
+ Licensing 
+
+- 
+
+ Multi-type licensing 
+
+- 
+
+ License Activation Service 
+
+- 
+
+ Citrix Virtual Apps and Desktops telemetry data elements 
+
+- 
+
+ FAQ for licensing 
+
+- 
+
+ Local Host Cache
+
+- 
+
+ Machines and sessions (Search > Default view) 
+
+- 
+
+ Machine actions and columns 
+
+- 
+
+ Session actions and columns 
+
+- 
+
+ MCS-provisioned machines (Search > Hardware view)
+
+- 
+
+ Security keys
+
+- 
+
+ Session resilience settings
+
+- 
+
+ Settings
+
+- 
+
+ Tags
+
+- 
+
+ Tasks in Task Center
+
+- 
+
+ User profiles
+
+- 
+
+ VDA registration
+
+- 
+
+ Virtual IP and virtual loopback
+
+- 
+
+ Zones
+
+- 
+
+ Remove broker user from the cache
+
+- 
+
+ Citrix Assistant application
+
+- 
+
+ Monitor
+
+- 
+
+ Configuration logging
+
+- 
+
+ Event logs
+
+- 
+
+ Director
+
+- 
+
+ Install and configure 
+
+- 
+
+ Advanced configuration 
+
+- 
+
+ PIV smart card authentication 
+
+- 
+
+ Network analysis 
+
+- 
+
+ Delegated Administration and Director 
+
+- 
+
+ Secure Director deployment 
+
+- 
+
+ Configure with Citrix Analytics for Performance™ 
+
+- 
+
+ Independent release of Director for LTSR deployments 
+
+- 
+
+ Site analytics 
+
+- 
+
+ Alerts and notifications 
+
+- 
+
+ Application usage monitoring 
+
+- 
+
+ Filters data 
+
+- 
+
+ Historical trends 
+
+- 
+
+ Monitor Autoscale-managed machines 
+
+- 
+
+ Troubleshoot deployments 
+
+- 
+
+ Applications 
+
+- 
+
+ User issues 
+
+- 
+
+ Unified search for Hybrid multi-cloud deployments
+
+- 
+
+ Infrastructure monitoring [Preview] 
+
+- 
+
+ Getting started with Infrastructure Monitoring 
+
+- 
+
+ Manage connections 
+
+- 
+
+ Infrastructure dashboard 
+
+- 
+
+ Application and Desktop Probing
+
+- 
+
+ Cost optimization 
+
+- 
+
+ Cost savings 
+
+- 
+
+ Workload rightsizing 
+
+- 
+
+ Cost summary 
+
+- 
+
+ Feature compatibility matrix
+
+- 
+
+ Data granularity and retention
+
+- 
+
+ Troubleshoot Director failure reasons
+
+- 
+
+ Advisor
+
+- 
+
+ VDA upgrade service (VUS)
+
+- 
+
+ Prerequisites for upgrading VDAs using VUS
+
+- 
+
+ Upgrade VDAs using VUS
+
+- 
+
+ Monitor and Troubleshoot VUS
+
+- 
+
+ Citrix Always on Tracing
+
+- 
+
+ Introduction
+
+- 
+
+ Core Concepts
+
+- 
+
+ Centralized AOT Log Server
+
+- 
+
+ Log Server Recommendation
+
+- 
+
+ Minimum supported versions for Always on Tracing (AOT)
+
+- 
+
+ Installing and Configuring Log Server
+
+- 
+
+ Upgrade Log Server
+
+- 
+
+ Uninstall Log Server
+
+- 
+
+ Uploading the AOT logs from CVAD Core Components
+
+- 
+
+ Viewing and Using AOT logs
+
+- 
+
+ AOT Logs availability across deployment scenarios
+
+- 
+
+ General Response Code for Log Server API
+
+- 
+
+ Troubleshooting with AOT and Log Server
+
+- 
+
+ FAQ
+
+- 
+
+ Fixed Issues
+
+- 
+
+ Known Issues and Limitations
+
+- 
+
+ Third party notice
+
+- 
+
+ Third party notices
+
+- 
+
+ SDKs and APIs
+
+- 
+
+ Document History
+
+ View PDF
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+- 
+
+- Citrix Virtual Apps and Desktops™ 7 2603
+
+ <
+ >
+
+This content has been machine translated dynamically.
+
+Dieser Inhalt ist eine maschinelle Übersetzung, die dynamisch erstellt wurde. (Haftungsausschluss)
+
+Cet article a été traduit automatiquement de manière dynamique. (Clause de non responsabilité)
+
+Este artículo lo ha traducido una máquina de forma dinámica. (Aviso legal)
+
+此内容已经过机器动态翻译。 放弃
+
+このコンテンツは動的に機械翻訳されています。免責事項
+
+이 콘텐츠는 동적으로 기계 번역되었습니다. 책임 부인
+
+Este texto foi traduzido automaticamente. (Aviso legal)
+
+Questo contenuto è stato tradotto dinamicamente con traduzione automatica.(Esclusione di responsabilità))
+
+This article has been machine translated.
+
+Dieser Artikel wurde maschinell übersetzt. (Haftungsausschluss)
+
+Ce article a été traduit automatiquement. (Clause de non responsabilité)
+
+Este artículo ha sido traducido automáticamente. (Aviso legal)
+
+この記事は機械翻訳されています.免責事項
+
+이 기사는 기계 번역되었습니다.책임 부인
+
+Este artigo foi traduzido automaticamente.(Aviso legal)
+
+这篇文章已经过机器翻译.放弃
+
+Questo articolo è stato tradotto automaticamente.(Esclusione di responsabilità))
+
+ Switch to english
+ Auf Englisch anzeigen
+ Lire en anglais
+ Leer en inglés
+ 英語に切り替え
+ 영어로 전환
+ Mudar para ingles
+ 切换到英文
+ Passa all'inglese
+
+Translation failed!
+
+# Technical overview 
+
+ April 22, 2026
+
+ Contributed by: 
+
+ C
+
+Citrix Virtual Apps and Desktops™ are virtualization solutions that give IT control of virtual machines, applications, licensing, and security while providing anywhere access for any device.
+
+Citrix Virtual Apps™ and Desktops allow:
+
+- End users to run applications and desktops independently of the device’s operating system and interface.
+
+- Administrators to manage the network and control access from selected devices or from all devices.
+
+- Administrators to manage an entire network from a single data center.
+
+Citrix Virtual Apps and Desktops share a unified architecture called FlexCast Management Architecture (FMA). FMA’s key features are the ability to run multiple versions of Citrix Virtual Apps or Citrix Virtual Desktops™ from a single site and integrated provisioning.
+
+## 
+Key components
+
+This article is most helpful if you’re new to Citrix Virtual Apps and Desktops.
+
+This illustration shows the key components in a typical deployment, which is called a site.
+
+### Delivery Controller™
+
+The Delivery Controller is the central management component of a site. Each site has one or more Delivery Controllers. It is installed on at least one server in the data center. For site reliability and availability, install Controllers on more than one server. If your deployment includes a hypervisor or other service, the Controller services communicate with it to:
+
+- Distribute applications and desktops
+
+- Authenticate and manage user access
+
+- Broker connections between users and their desktops and applications
+
+- Optimize user connections
+
+- Load balance the connections
+
+The Controller’s Broker Service tracks which users are logged on and where, what session resources the users have, and if users need to reconnect to existing applications. The Broker Service runs PowerShell cmdlets and communicates with a broker agent on the VDAs over TCP port 80. It does not have the option to use TCP port 443.
+
+The Monitor Service collects historical data and places it in the monitoring database. This service uses TCP port 80 or 443.
+
+Data from the Controller services is stored in the site database.
+
+The Controller manages the state of desktops, starting and stopping them based on demand and administrative configuration.
+
+### Database
+
+At least one Microsoft SQL Server database is required for every site to store configuration and session information. This database stores the data collected and managed by the services that make up the Controller. Install the database within your data center, and ensure it has a persistent connection to the Controller.
+
+The site also uses a configuration logging database and a monitoring database. By default, those databases are installed in the same location as the site database, but you can change this.
+
+### Virtual Delivery Agent (VDA)
+
+The VDA is installed on each physical or virtual machine in your site that you make available to users. Those machines deliver applications or desktops. The VDA enables the machine to register with the Controller, which in turn allows the machine and the resources it is hosting to be made available to users. VDAs establish and manage the connection between the machine and the user device. VDAs also verify that a Citrix® license is available for the user or session, and apply policies that are configured for the session.
+
+The VDA communicates session information to the Broker Service in the Controller through the broker agent in the VDA. The broker agent hosts multiple plug-ins and collects real-time data. It communicates with the Controller over TCP port 80.
+
+The word “VDA” is often used to refer to the agent and the machine on which it is installed.
+
+VDAs are available for single-session and multi-session Windows operating systems. VDAs for multi-session Windows operating systems allow multiple users to connect to the server at a time. VDAs for single-session Windows operating systems allow only one user to connect to the desktop at a time. Linux VDAs are also available.
+
+### Citrix StoreFront™
+
+StoreFront authenticates users and manages stores of desktops and applications that users access. It can host your enterprise application store, which gives users self-service access to the desktops and applications that you make available to them. It also keeps track of users’ application subscriptions, shortcut names, and other data. This helps ensure that users have a consistent experience across multiple devices.
+
+### Citrix Workspace™ app
+
+Installed on user devices and other endpoints (such as virtual desktops), Citrix Workspace app provides users with quick, secure, self-service access to documents, applications, and desktops. Citrix Workspace app provides on-demand access to Windows, web, and Software as a Service (SaaS) applications. For devices that can’t install the device-specific Citrix Workspace app software, Citrix Workspace app for HTML5 provides a connection through an HTML5-compatible web browser.
+
+### Studio
+
+Web Studio is a web-based management console that lets you configure and manage your on-premises Citrix Virtual Apps and Desktops deployment.
+
+Callout
+
+Area
+
+Description
+
+A
+
+Navigation menu
+
+Let you configure and manage your DaaS deployments for delivering virtual apps and desktops. Examples include: Search, Machine Catalogs, Delivery Groups, and more. For more information, see Plan and build a deployment and Manage deployments.
+
+B
+
+Breadcrumb trail
+
+Provides context and enables quick navigation back to higher-level pages.
+
+C
+
+Common actions
+
+Displays common actions such as Submit feedback, Customize the Home page, access the Notification Center, and more.
+
+- Notification Center provides real-time updates and a 48-hour history of long-running operations. While an operation is running, a status notification appears below the common actions area to indicate its progress.
+
+- Task Center displays a comprehensive list of all tasks, organized by category. The UI provides Filter, Search, and other controls consistent with the main view. You can perform actions on any listed task, including common actions like Delete and View details, and task-specific actions such as Rerun task and Export sub-task status. Currently, Task Center supports Hardware update and OS disk reset tasks.
+
+F
+
+Working pane
+
+Displays actions and details of a selected node in the navigation menu.
+
+For more information, see Install Web Studio.
+
+### Secure Private Access
+
+Citrix Secure Private Access on-premises solution enhances an organization’s overall security and compliance posture with the ability to easily deliver Zero Trust Network Access to browser-based apps (internal web apps and SaaS apps) using StoreFront as a unified access portal to web and SaaS apps, along with virtual apps and desktops as an integrated part of Citrix Workspace. The solution is compatible with existing releases of NetScaler and StoreFront without any changes to the versions. For details, see Secure Private Access for on-premises.
+
+### Citrix Director
+
+Director is a web-based tool that enables IT support and help desk teams to monitor an environment, troubleshoot issues before they become system-critical, and perform support tasks for end users. You can use one Director deployment to connect to and monitor multiple Citrix Virtual Apps or Citrix Virtual Desktops sites.
+
+Director displays:
+
+- 
+
+Real-time session data from the Broker Service in the Controller, which includes data the Broker Service gets from the broker agent in the VDA.
+
+- 
+
+Historical site data from the Monitor Service in the Controller.
+
+Director uses the ICA® performance and heuristics data captured by the Citrix Gateway device to build analytics from the data and then presents it to the administrators.
+
+You can also view and interact with a user’s sessions through Director, using Windows Remote Assistance.
+
+### Citrix License Server
+
+The License Server manages your Citrix product licenses. It communicates with the Controller to manage licensing for each user’s session and with Studio to allocate license files. A site must have at least one license server to store and manage your license files.
+
+### Hypervisor or other service
+
+The hypervisor or other service hosts the virtual machines in your site. These can be the VMs you use to host applications and desktops, and VMs you use to host the Citrix Virtual Apps and Desktops components. A hypervisor is installed on a host computer dedicated entirely to running the hypervisor and hosting virtual machines.
+
+Citrix Virtual Apps and Desktops support various hypervisors and other services.
+
+Although many deployments require a hypervisor, you don’t need one to provide Remote PC Access. A hypervisor is also not required when you are using Provisioning Services (PVS) to provision VMs.
+
+## 
+Additional components
+
+The following components can also be included in Citrix Virtual Apps and Desktops deployments. For more information, see their documentation.
+
+### Citrix Provisioning™
+
+Citrix Provisioning (formerly Provisioning Services) is an optional component that is available with some editions. It provides an alternative to MCS for provisioning virtual machines. Whereas MCS creates copies of a master image, PVS streams the master image to user devices. PVS doesn’t require a hypervisor to do this, so you can use it to host physical machines. PVS communicates with the Controller to provide users with resources.
+
+### Citrix Gateway
+
+When users connect from outside the corporate firewall, Citrix Virtual Apps and Desktops can use Citrix Gateway (formerly Access Gateway and NetScaler® Gateway) technology to secure these connections with TLS. The Citrix Gateway or VPX virtual appliance is an SSL VPN appliance that is deployed in the demilitarized zone (DMZ). It provides a single secure point of access through the corporate firewall.
+
+### Citrix SD-WAN™
+
+In deployments where virtual desktops are delivered to users at remote locations such as branch offices, Citrix SD-WAN technology can be employed to optimize performance. Repeaters accelerate performance across WANs. With repeaters in the network, users in the branch office experience LAN-like performance over the WAN. Citrix SD-WAN can prioritize different parts of the user experience so that, for example, the user experience does not degrade in the branch location when a large file or print job is sent over the network. HDX™ WAN optimization provides tokenized compression and data deduplication, dramatically reducing bandwidth requirements and improving performance.
+
+## 
+How typical deployments work
+
+A site is made up of machines with dedicated roles that allow for scalability, high availability, and failover, and provide a solution that is secure by design. A site consists of VDA-installed servers and desktop machines, and the Delivery Controller, which manages access.
+
+The VDA enables users to connect to desktops and applications. It is installed on virtual machines in the data center for most delivery methods, but it can also be installed on physical PCs for Remote PC Access.
+
+The Controller is made up of independent Windows services that manage resources, applications, and desktops, and optimize and balance user connections. Each site has one or more Controllers. Because sessions are affected by latency, bandwidth, and network reliability, place all Controllers on the same LAN, if possible.
+
+Users never directly access the Controller. The VDA serves as an intermediary between users and the Controller. When users log on using StoreFront, their credentials pass through to the Broker Service on the Controller. The Broker Service then obtains profiles and available resources based on the policies set for them.
+
+## 
+How user connections are handled
+
+To start a session, the user connects either through Citrix Workspace app installed on the user’s device, or a StoreFront website.
+
+The user selects the physical or virtual desktop or virtual application that is needed.
+
+The user’s credentials move through this pathway to access the Controller, which determines which resources are needed by communicating with a Broker Service. Citrix recommends that administrators place an SSL certificate on StoreFront to encrypt the credentials coming from Citrix Workspace app.
+
+The Broker Service determines which desktops and applications the user is allowed to access.
+
+After the credentials are verified, information about available applications or desktops is sent back to the user through the StoreFront-Citrix Workspace app pathway. When the user selects applications or desktops from this list, that information goes back down the pathway to the Controller. The Controller then determines the proper VDA to host the specific applications or desktop.
+
+The Controller sends a message to the VDA with the user’s credentials, and then sends all the data about the user and the connection to the VDA. The VDA accepts the connection and sends the information back through the same pathways to Citrix Workspace app. A set of required parameters is collected on StoreFront. These parameters are then sent to Citrix Workspace app either as part of the Citrix-Workspace-app-StoreFront protocol conversation, or converted to an Independent Computing Architecture (ICA) file and downloaded. As long as the site was properly set up, the credentials remain encrypted throughout this process.
+
+The ICA file is copied to the user’s device and establishes a direct connection between the device and the ICA stack running on the VDA. This connection bypasses the management infrastructure (Citrix Workspace app, StoreFront, and Controller).
+
+The connection between Citrix Workspace app and the VDA uses the Citrix Gateway Protocol (CGP). If a connection is lost, the Session Reliability feature enables the user to reconnect to the VDA rather than having to relaunch through the management infrastructure. Session Reliability can be enabled or disabled in Citrix policies.
+
+After the client connects to the VDA, the VDA notifies the Controller that the user is logged on. The Controller then sends this information to the site database and starts logging data in the monitoring database.
+
+## 
+How data access works
+
+Every Citrix Virtual Apps and Desktops session produces data that IT can access through Studio or Director. Using Studio, administrators can access real-time data from the Broker Agent to manage sites. Director accesses the same data plus historical data stored in the monitoring database. It also accesses HDX data from NetScaler Gateway for help desk support and troubleshooting.
+
+Within the Controller, the Broker Service reports session data for every session on the machine providing real-time data. The Monitor Service also tracks the real-time data and stores it as historical data in the monitoring database.
+
+Studio communicates only with the Broker Service. It accesses only real-time data. Director communicates with the Broker Service (through a plug-in in the Broker Agent) to access the site database.
+
+Director can also access Citrix Gateway to get information on the HDX data.
+
+## 
+Deliver desktops and applications
+
+You set up the machines that deliver applications and desktops with machine catalogs. Then, you create delivery groups that specify the applications and desktops that will be available (using machines in the catalogs), and which users can access them. Optionally, you can then create application groups to manage collections of applications.
+
+### Machine catalogs
+
+Machine catalogs are collections of virtual or physical machines that you manage as a single entity. These machines, and the application or virtual desktops on them, are the resources you provide to your users. All the machines in a catalog have the same operating system and the same VDA installed. They also have the same applications or virtual desktops.
+
+Typically, you create a master image and use it to create identical VMs in the catalog. For VMs you can specify the provisioning method for the machines in that catalog: Citrix tools (Citrix Provisioning or MCS) or other tools. Alternatively, you can use your own existing images. In that case, you must manage target devices on an individual basis or collectively using third-party electronic software distribution (ESD) tools.
+
+Valid machine types are:
+
+- 
+Multi-session OS: Virtual or physical machines with a multi-session operating system. Used for delivering Citrix Virtual Apps published apps (also known as server-based hosted applications) and Citrix Virtual Apps published desktops (also known as server-hosted desktops). These machines allow multiple users to connect to them at one time.
+
+- 
+Single-session OS: Virtual or physical machines with a single-session operating system. Used for delivering VDI desktops (desktops running single-session OSs that can optionally be personalized), VM hosted apps (applications from single-session OSs), and hosted physical desktops. Only one user at a time can connect to each of these desktops.
+
+- 
+Remote PC Access: Enables remote users to access their physical office PCs from any device running Citrix Workspace app. The office PCs are managed through the Citrix Virtual Desktops deployment, and require user devices to be specified in an allow list.
+
+For more information, see Citrix Virtual Apps and Desktops Image Management and Create machine catalogs.
+
+### Delivery groups
+
+Delivery groups specify which users can access which applications, desktops, or both on which machines. Delivery groups contain machines from your machine catalogs, and Active Directory users who have access to your site. You might assign users to your delivery groups by their Active Directory group, because Active Directory groups and delivery groups are ways to group users with similar requirements.
+
+Each delivery group can contain machines from more than one catalog, and each catalog can contribute machines to more than one delivery group. However, each individual machine can only belong to one delivery group at a time.
+
+You define which resources users in the delivery group can access. For example, to deliver different applications to different users, you might install all the applications on the master image for one catalog and create enough machines in that catalog to distribute among several delivery groups. You can then configure each delivery group to deliver a different subset of applications that are installed on the machines.
+
+For more information, see Create delivery groups.
+
+### Application groups
+
+Application groups provide application management and resource control advantages over using more delivery groups. Using the tag restriction feature, you can use your existing machines for more than one publishing task, saving the costs associated with deployment and managing more machines. A tag restriction can be thought of as subdividing (or partitioning) the machines in a delivery group. Application groups can also be helpful when isolating and troubleshooting a subset of machines in a delivery group.
+
+For more information, see Create application groups.
+
+## 
+More information
+
+- Citrix Virtual Apps and Desktops diagrams
+
+- Network ports
+
+- Databases
+
+- Supported hypervisors and other services
+
+ The official version of this product documentation is in English. Any non-English version is solely provided for your convenience and may include machine-translated content. For more information, please refer to the Machine Translation Disclaimer on Cloud Software Group home. 
+
+ DIESER DIENST KANN ÜBERSETZUNGEN ENTHALTEN, DIE VON GOOGLE BEREITGESTELLT WERDEN. GOOGLE LEHNT JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG IN BEZUG AUF DIE ÜBERSETZUNGEN AB, EINSCHLIESSLICH JEGLICHER GEWÄHRLEISTUNG DER GENAUIGKEIT, ZUVERLÄSSIGKEIT UND JEGLICHER STILLSCHWEIGENDEN GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+
+ CE SERVICE PEUT CONTENIR DES TRADUCTIONS FOURNIES PAR GOOGLE. GOOGLE EXCLUT TOUTE GARANTIE RELATIVE AUX TRADUCTIONS, EXPRESSE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE D'EXACTITUDE, DE FIABILITÉ ET TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+ ESTE SERVICIO PUEDE CONTENER TRADUCCIONES CON TECNOLOGÍA DE GOOGLE. GOOGLE RENUNCIA A TODAS LAS GARANTÍAS RELACIONADAS CON LAS TRADUCCIONES, TANTO IMPLÍCITAS COMO EXPLÍCITAS, INCLUIDAS LAS GARANTÍAS DE EXACTITUD, FIABILIDAD Y OTRAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN EN PARTICULAR Y AUSENCIA DE INFRACCIÓN DE DERECHOS.
+
+ 本服务可能包含由 Google 提供技术支持的翻译。Google 对这些翻译内容不做任何明示或暗示的保证，包括对准确性、可靠性的任何保证以及对适销性、特定用途的适用性和非侵权性的任何暗示保证。
+
+ このサービスには、Google が提供する翻訳が含まれている可能性があります。Google は翻訳について、明示的か黙示的かを問わず、精度と信頼性に関するあらゆる保証、および商品性、特定目的への適合性、第三者の権利を侵害しないことに関するあらゆる黙示的保証を含め、一切保証しません。
+
+ ESTE SERVIÇO PODE CONTER TRADUÇÕES FORNECIDAS PELO GOOGLE. O GOOGLE SE EXIME DE TODAS AS GARANTIAS RELACIONADAS COM AS TRADUÇÕES, EXPRESSAS OU IMPLÍCITAS, INCLUINDO QUALQUER GARANTIA DE PRECISÃO, CONFIABILIDADE E QUALQUER GARANTIA IMPLÍCITA DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO INFRAÇÃO.
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ >
+
+ <
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+ Technical overview 
+
+ April 22, 2026
+
+ Contributed by: 
+
+ C
+
+Share
+
+ April 22, 2026
+
+ Contributed by: 
+
+ C
+
+Share
+
+### 
+ In this article
+
+- Key components
+
+- Additional components
+
+- How typical deployments work
+
+- How user connections are handled
+
+- How data access works
+
+- Deliver desktops and applications
+
+- More information
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ Citrix
+ Preview Documentation
+
+This Preview product documentation is 
+ Citrix
+ Confidential.
+
+You agree to hold this documentation confidential pursuant to the
+ terms of your 
+ Citrix
+ Beta/Tech Preview Agreement.
+
+The development, release and timing of any features or functionality
+ described in the Preview documentation remains at our sole discretion and are subject to
+ change without notice or consultation.
+
+The documentation is for informational purposes only and is not a
+ commitment, promise or legal obligation to deliver any material, code or functionality
+ and should not be relied upon in making 
+ Citrix
+ product purchase decisions.
+
+If you do not agree, select I DO NOT AGREE to exit.
+
+ I AGREE
+ I DO NOT AGREE
+
+ Send us your feedback
+
+ Machine Translation Feedback Form
+
+ YES
+
+ NO
+
+ Write something?
+
+ SUBMIT
+
+ Copied!
+ Failed!
+
+ Site feedback
+ |
+ Your Privacy Choices
+ |
+ Privacy and legal terms
+ |
+
+ Cookie preferences
+ |
+ Consent settings
+ |
+ docs.cloud.com
+
+ © 1999- Cloud Software Group, Inc. All
+ rights reserved.
+
+ Provide your feedback
+
+ Thanks for your feedback. We'll contact you at the provided email address if we require more information. 
+
+ There was an error while submitting your feedback. Please try again 
+
+ Send Feedback: *
+
+ About the Article
+
+ About the Product
+
+ This field is required
+
+ Subject: *
+
+ This field is required
+
+ Tell us more: *
+
+ This field is required
+
+ We may email you for further information or updates. Would you be open to a follow-up conversation?: *
+
+ Yes
+
+ No
+
+ This field is required
+
+ Name: 
+
+ Please enter a valid name
+
+ Email: 
+
+ Please enter a valid email
+
+Required fields are marked with an 
+
+ This is for feedback and suggestions only. If you encounter any issues requiring resolution, contact your administrator(s) directly. Your feedback is valuable.
+
+ Submit
+
+ I confirm that I have read the instructions and requested required access.
+
+ ×
+
+Do you want to switch to the website in your browser preferred language?
+
+ YES
+ NO
+
+ ×
+
+ Please enter a Commit message
+
+ Request Change

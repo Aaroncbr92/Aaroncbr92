@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 3 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Storage Networking Industry Association (SNIA), *Online Dictionary*; NVM Express; SD Association. Microsoft Learn (`fsutil behavior`, administración de discos, `robocopy`, `wbadmin start backup`, `vssadmin`, `compact`, `tar`, Acceso controlado a carpetas) y Soporte de Microsoft (Copias de seguridad de Windows, Recuperación de archivos de Windows, comprimir y descomprimir). Manuales de `rsync`, GNU `dd`, GNU `gzip` y GNU `tar`; 7-Zip; Clonezilla; CGSecurity (PhotoRec y TestDisk). INCIBE, guía *Ransomware* (2020); No More Ransom. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día |
-| Extensión | 10.300 palabras aproximadamente |
+| Fuente | Sin norma jurídica. Storage Networking Industry Association (SNIA), *Online Dictionary*; NVM Express; SD Association. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, cap. 37; hoja de datos Seagate BarraCuda 3,5″. Microsoft Learn (`fsutil behavior`, administración de discos, `robocopy`, `wbadmin start backup`, `vssadmin`, `compact`, `tar`, `attrib`, `xcopy`, Sysprep, Acceso controlado a carpetas) y Soporte de Microsoft (Copias de seguridad de Windows, Recuperación de archivos de Windows, comprimir y descomprimir). Manuales de `rsync`, GNU `dd`, GNU `gzip` y GNU `tar`; 7-Zip; Clonezilla; CGSecurity (PhotoRec y TestDisk). INCIBE, guía *Ransomware* (2020); No More Ransom. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día; las añadidas en el remate, leídas el 06-10-2026 |
+| Extensión | 12.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -16,7 +16,8 @@ Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RT
 Televisión, S.A. (CSRTV); Boletín Oficial de la Junta de Andalucía (BOJA); el bit y el byte (B), con los
 múltiplos decimales kilobyte (kB), megabyte (MB), gigabyte (GB), terabyte (TB) y petabyte (PB) y los
 binarios kibibyte (KiB), mebibyte (MiB), gibibyte (GiB) y tebibyte (TiB); disco duro magnético (HDD,
-*hard disk drive*) y disco o unidad de estado sólido (SSD, *solid-state drive*); conjunto redundante de
+*hard disk drive*) y sus revoluciones por minuto (rpm); el tiempo de una operación de entrada y salida, que el manual citado
+escribe TI/O (T por tiempo; I/O por *input/output*); disco o unidad de estado sólido (SSD, *solid-state drive*); conjunto redundante de
 discos independientes (RAID, *redundant array of independent disks*); conjunto de discos sin más (JBOD,
 *just a bunch of disks*); cinta lineal abierta (LTO, *linear tape-open*) y su sistema de ficheros (LTFS,
 *linear tape file system*); almacenamiento de conexión directa (DAS, *direct-attached storage*),
@@ -25,7 +26,8 @@ almacenamiento conectado a la red (NAS, *network-attached storage*) y red de alm
 *Serial Attached SCSI*, donde SCSI es la interfaz de sistemas de ordenadores pequeños, *small computer
 system interface*); el bus de interconexión de componentes periféricos exprés (PCI, *peripheral component interconnect*; PCI Express o PCIe) y la especificación NVM Express (NVMe), la interfaz de
 las SSD sobre PCIe; canal de fibra (FC, *Fibre Channel*) y protocolo de órdenes SCSI sobre redes IP
-(iSCSI); sistema de ficheros en red (NFS, *network file system*), bloque de mensajes del servidor (SMB,
+(iSCSI), con su número de unidad lógica (LUN, *logical unit number*) y los circuitos integrados de aplicación
+específica (ASIC, *application-specific integrated circuit*) que nombra la SNIA; sistema de ficheros en red (NFS, *network file system*), bloque de mensajes del servidor (SMB,
 *server message block*) y el sistema de ficheros común de Internet (CIFS, *common Internet file
 system*), que nombra la SNIA; operaciones de entrada y
 salida por segundo (IOPS); gestión de activos de medios (MAM, *media asset management*); objetivo de
@@ -39,7 +41,9 @@ de velocidad ultra alta de las tarjetas (UHS, *ultra high speed*); registro de a
 *master boot record*) y tabla de particiones con identificadores únicos globales (GPT, *GUID partition table*, con GUID por
 *globally unique identifier*); interfaz de firmware
 extensible unificada (UEFI) y sistema básico de entrada y salida (BIOS); identificador de seguridad de
-Windows (SID, *security identifier*); estándar de cifrado avanzado (AES, *advanced encryption
+Windows (SID, *security identifier*); herramienta de preparación del sistema (Sysprep, *System Preparation*),
+bienvenida inicial de Windows (OOBE, *Out-of-Box Experience*) y herramienta de gestión y mantenimiento de
+imágenes (DISM, *Deployment Image Servicing and Management*); estándar de cifrado avanzado (AES, *advanced encryption
 standard*); convención universal de nombres de las rutas de red (UNC, *universal naming convention*);
 codificación de Lempel y Ziv (LZ77), base de `gzip`, y LZMA y LZMA2, algoritmos de compresión del
 formato 7z; licencias públicas generales de GNU (GPL) y su variante reducida
@@ -57,17 +61,19 @@ de Policía (EUROPOL).
 
 Qué se puede preguntar: cuántos bits tiene un kibibyte y en qué se diferencia de un kilobyte; qué
 distingue un disco magnético de uno de estado sólido (tiempo de acceso, partes móviles, ciclos de
-escritura) y qué son caudal e IOPS; qué es la memoria flash, la nivelación de desgaste, TRIM, la
+escritura) y qué son caudal e IOPS; las partes de un disco duro (plato, superficie, pista, sector, cabeza,
+brazo, caché), su velocidad de giro y las tres partes de su tiempo de acceso (búsqueda, latencia
+rotacional y transferencia); qué es la memoria flash, la nivelación de desgaste, TRIM, la
 amplificación de escritura, la recolección de basura y el sobreaprovisionamiento; cómo se comprueba
 TRIM en Windows; qué es NVMe, sobre qué bus trabaja y cuál es su versión vigente; las capacidades y el
 sistema de ficheros de SD, SDHC, SDXC y SDUC y sus clases de velocidad; qué hace cada nivel RAID, con
 cuántos discos y cuánta capacidad útil deja; por qué un RAID no es una copia de seguridad; qué
-diferencia DAS, NAS y SAN, qué sirve ficheros y qué sirve bloques, y qué protocolos van con cada uno;
+diferencia DAS, NAS y SAN, qué sirve ficheros y qué sirve bloques, y qué protocolos van con cada uno; qué son en una SAN el iniciador, el destino, la LUN y la zonificación;
 qué son RPO y RTO; la regla 3-2-1; qué copian la copia completa, la diferencial y la incremental y qué
-exige restaurar cada una; qué herramientas de copia trae Windows (Copias de seguridad de Windows,
+exige restaurar cada una, y cuál desmarca el atributo de archivo; el esquema abuelo-padre-hijo; qué herramientas de copia trae Windows (Copias de seguridad de Windows,
 `wbadmin`, `robocopy`, instantáneas) y Linux (`rsync`, `tar`); qué es la compresión sin pérdida, qué
 algoritmo usa `gzip`, qué formatos maneja 7-Zip y el Explorador de Windows 11 y qué hace `compact`;
-qué es clonar un disco, qué hace Clonezilla y qué hace `dd conv=noerror,sync`; por qué se puede
+qué es clonar un disco, qué hace Clonezilla, para qué sirve Sysprep y qué hace `dd conv=noerror,sync`; por qué se puede
 recuperar un fichero borrado y qué no hay que hacer después; qué modo de `winfr` corresponde a cada
 caso; qué hacen PhotoRec y TestDisk; y los pasos que da INCIBE ante un *ransomware*. En la aplicación
 práctica: calcular la capacidad útil de un RAID, decidir qué copias hacen falta para restaurar,
@@ -84,6 +90,7 @@ escribir la orden de copia o de recuperación adecuada y ordenar la respuesta a 
   - [Almacenar no es recuperar](#almacenar-no-es-recuperar)
 - [2. Discos duros](#2-discos-duros)
   - [Cómo guardan](#cómo-guardan)
+  - [Partes y parámetros](#partes-y-parámetros)
   - [Por dónde se conectan](#por-dónde-se-conectan)
   - [Vigilarlo y sustituirlo](#vigilarlo-y-sustituirlo)
 - [3. Discos de estado sólido y memorias flash](#3-discos-de-estado-sólido-y-memorias-flash)
@@ -119,6 +126,7 @@ escribir la orden de copia o de recuperación adecuada y ordenar la respuesta a 
 - [7. Herramientas software de clonación de discos](#7-herramientas-software-de-clonación-de-discos)
   - [Clonar o hacer imagen](#clonar-o-hacer-imagen)
   - [Clonezilla](#clonezilla)
+  - [Preparar una imagen de Windows: Sysprep](#preparar-una-imagen-de-windows-sysprep)
   - [dd](#dd)
   - [Rescatar un disco que falla](#rescatar-un-disco-que-falla)
 - [8. Recuperación de datos en caso de borrado accidental, avería o ataque de virus](#8-recuperación-de-datos-en-caso-de-borrado-accidental-avería-o-ataque-de-virus)
@@ -210,6 +218,64 @@ tiempo de acceso (mover la cabeza y esperar a que el plato pase) y el desgaste m
 avería típica (oficio). Por eso sigue siendo el soporte del grueso de la capacidad y de las copias en
 disco, y no del sistema del puesto, que hoy va en estado sólido.
 
+### Partes y parámetros
+
+El manual universitario de sistemas operativos de Arpaci-Dusseau (*Operating Systems: Three Easy
+Pieces*, capítulo 37, «Hard Disk Drives») describe el disco pieza a pieza:
+
+| Pieza | Lo que dice el manual | En castellano |
+|---|---|---|
+| Sector | **«The drive consists of a large number of sectors (512-byte blocks), each of which can be read or written. The sectors are numbered from 0 to n −1 on a disk with n sectors.»** | El disco se presenta al equipo como una lista de sectores de 512 bytes numerados desde 0 |
+| Plato y superficie | **«a circular hard surface on which data is stored persistently by inducing magnetic changes to it»**; **«each platter has 2 sides, each of which is called a surface»** | Cada plato guarda por magnetización y tiene dos caras útiles |
+| Eje | **«The platters are all bound together around the spindle, which is connected to a motor that spins the platters around (while the drive is powered on) at a constant (fixed) rate.»** | Todos los platos giran juntos, a velocidad constante |
+| Pista | **«Data is encoded on each surface in concentric circles of sectors; we call one such concentric circle a track.»** | Cada círculo concéntrico de sectores es una pista |
+| Cabeza y brazo | **«there is one such head per surface of the drive. The disk head is attached to a single disk arm, which moves across the surface to position the head over the desired track.»** | Una cabeza por superficie, todas en un único brazo que las lleva a la pista |
+| Zonas | **«outer tracks tend to have more sectors than inner tracks»** | Las pistas exteriores tienen más sectores que las interiores |
+| Caché | **«an important part of any modern disk drive is its cache, for historical reasons sometimes called a track buffer»** | La memoria del propio disco, también llamada búfer de pista |
+
+La velocidad de giro se da en revoluciones por minuto (rpm); según el manual, **«typical modern values
+are in the 7,200 RPM to 15,000 RPM range»**, y a 10.000 rpm **«a single rotation takes about 6
+milliseconds»**.
+
+El tiempo de una operación de lectura o escritura es la suma de tres partes: **«TI/O = Tseek + Trotation
++ Ttransfer»**.
+
+1. Búsqueda (*seek*): llevar el brazo a la pista. Tiene cuatro fases, **«first an acceleration phase
+   […] then coasting […] then deceleration […] finally settling»**, y el asentamiento solo puede costar
+   **«0.5 to 2 ms»**.
+2. Latencia rotacional (*rotational delay*): esperar a que el sector pase bajo la cabeza. Es la parte
+   que depende de la velocidad de giro. El manual calcula la media en media vuelta: a 15.000 rpm, **«each
+   rotation takes 4 ms. On average, the disk will encounter a half rotation and thus 2 ms is the average
+   time.»**
+3. Transferencia: leer o escribir los datos, **«the size of the transfer over the peak transfer
+   rate»**.
+
+Con el disco de alto rendimiento que pone de ejemplo el manual (Seagate Cheetah 15K.5, de 15.000 rpm), una
+lectura aleatoria de 4 KB suma 4 ms de búsqueda media, 2 ms de rotación y 30 microsegundos de transferencia. Casi todo el tiempo se va en mover la cabeza y esperar. Por eso un disco
+magnético rinde bien en lectura secuencial y mal en accesos aleatorios.
+
+La caché también interviene en la escritura. El disco puede confirmar una escritura cuando el dato está
+en su memoria o cuando ya está en el plato: **«The former is called write back caching (or sometimes
+immediate reporting), and the latter write through.»** La primera forma parece más rápida, pero el
+manual advierte que **«can be dangerous»** si el sistema necesita que los datos lleguen al disco en un
+orden determinado.
+
+El mismo manual distingue dos mercados. Uno es el de alto rendimiento, con discos que **«spin as fast as
+possible, deliver low seek times, and transfer data quickly»**. El otro es el de capacidad, donde
+**«cost per byte is the most important aspect»**.
+
+Un disco de sobremesa real, según la hoja de datos de Seagate BarraCuda (DS17.2-2603US) para **«Desktop
+or all-in-one PCs»**:
+
+| Dato | BarraCuda 3,5″ |
+|---|---|
+| Formato | **«3.5-inch HDD»**, con capacidades **«up to 24TB»** |
+| Interfaz | **«SATA 6 Gb/s»** |
+| Velocidad de giro | **«7200RPM»** en los modelos de 24, 20, 16, 12 y 2 TB (ST2000DM008) y en el de 1 TB; **«5400RPM»** en los de 8, 6, 4, 3 y 2 TB (ST2000DM005) |
+| Caché | **«512MB»** en los de 24 a 12 TB; **«256MB»** en el resto |
+| Transferencia sostenida | de 185 a 220 MB/s según el modelo (**«Max Sustained Data Rate, OD Read»**) |
+| Sector | **«512e»** |
+
 ### Por dónde se conectan
 
 | Interfaz | Dónde vive | Qué la caracteriza |
@@ -295,7 +361,11 @@ Y cuatro familias de clases de velocidad: **«The Speed Classes defined by the S
 4, 6 and 10.»**; **«UHS Speed Class 1 (U1) and UHS Speed Class 3 (U3)»**; **«The Video Speed Classes
 defined by the SD Association are V6, 10,30,60 and 90.»**; y **«The SD Express Speed Classes defined by
 the SD Association are E150, E300, E450 and E600.»** El número de cada símbolo indica la velocidad mínima
-de escritura (**«symbols with a number indicate minimum writing speed»**). Una tarjeta para grabar vídeo se elige por su
+de escritura (**«symbols with a number indicate minimum writing speed»**). La SD Association dice también,
+en texto, que la clase 10, la U1 y la V10 corresponden a la misma velocidad de escritura: **«Host Class 10 and Card
+U1, Host U1 and Card V10, etc. even those are indicated to the same 10MB/sec write speed»**. Aun así,
+advierte que, si el equipo y la tarjeta llevan símbolos de familias distintas, la velocidad de escritura
+esperada no se obtiene. Una tarjeta para grabar vídeo se elige por su
 clase de vídeo, no sólo por su capacidad (oficio).
 
 ### Memorias USB
@@ -353,6 +423,22 @@ Los protocolos de red de almacenamiento, que sirven bloques:
   tradicional de las cabinas grandes y su virtud es que no comparte camino con nada más.
 - Órdenes de dispositivo sobre red de datos (iSCSI): las mismas órdenes de disco encapsuladas para
   viajar por la red general. Ahorra una red entera a cambio de compartirla.
+
+El vocabulario de la SAN, con las definiciones del diccionario de la SNIA:
+
+| Término | Definición (SNIA) | En castellano |
+|---|---|---|
+| Iniciador (*initiator*) | **«An endpoint that originates a SCSI I/O command.»** | El extremo que lanza la orden de entrada y salida: el servidor, por su adaptador |
+| Destino (*target*) | **«An endpoint that receives a SCSI I/O command.»** | El extremo que la recibe: la cabina |
+| Unidad lógica (*logical unit*) | **«The addressable entity within a SCSI target that executes I/O commands.»** | Lo que, dentro del destino, recibe la dirección y ejecuta las órdenes |
+| Número de unidad lógica (LUN, *logical unit number*) | **«The SCSI identifier of a logical unit within a target.»**; en sistemas de almacenamiento, **«The address for a logical unit.»** | El identificador de esa unidad dentro del destino. La SNIA usa también LUN como **«Synonym for logical volume»** |
+| Zonificación (*zoning*, en canal de fibra) | **«A method of subdividing a storage area network into disjoint zones, or subsets of nodes on the network. Storage area network nodes outside a zone, except those with well-known addresses, are invisible to nodes within the zone.»** | Partir la SAN en zonas separadas: cada nodo sólo ve a los de su zona |
+
+La SNIA pone como iniciadores y como destinos típicos **«I/O adapters, network interface cards, and
+intelligent I/O interconnect control ASICs»**. Con iSCSI, por tanto, el servidor que monta el volumen es
+el iniciador, la cabina es el destino y el volumen que el servidor ve como disco propio se identifica por
+su LUN. Entre los ejemplos de correspondencia (*mapping*), relación entre dos o más elementos, la SNIA pone la que
+hay entre un disco virtual y su iniciador: **«the relationship that exists between a virtual drive and a host initiator»**.
 
 ### Ficheros frente a bloques
 
@@ -475,6 +561,35 @@ diferencial del miércoles: dos juegos. Si son incrementales, la completa del do
 del lunes, martes y miércoles, en ese orden: cuatro juegos. En ambos casos se pierde lo hecho desde la
 última copia del miércoles por la noche, y eso es el punto de recuperación real de esa política.
 
+El atributo de archivo es la marca con que Windows sabe qué ficheros han cambiado. Microsoft lo describe
+en la orden `attrib`: **«This attribute set marks files that have changed since the last time they
+were backed up.»** Dos órdenes de copia lo leen, con dos comportamientos:
+
+| Orden | Opción | Qué hace (Microsoft Learn) |
+|---|---|---|
+| `xcopy` | `/a` | **«Copies only source files that have their archive file attributes set. /a doesn't modify the archive file attribute of the source file.»** |
+| `xcopy` | `/m` | **«Copies source files that have their archive file attributes set. Unlike /a, /m turns off archive file attributes in the files that are specified in the source.»** |
+| `robocopy` | `/a` | **«Copies only files for which the Archive attribute is set.»** |
+| `robocopy` | `/m` | **«Copies only files for which the Archive attribute is set, and resets the Archive attribute.»** |
+
+Además, **«The xcopy command creates files with the archive attribute set»**: lo que se crea o se
+modifica queda marcado para la siguiente copia.
+
+La relación con los tipos de copia es de oficio, y se deduce de lo anterior:
+
+- La completa copia todo y desmarca el atributo.
+- La incremental copia sólo lo marcado y lo desmarca, como `/m`. Por eso la siguiente incremental sólo
+  ve lo cambiado desde ella.
+- La diferencial copia sólo lo marcado y no lo toca, como `/a`. Por eso cada diferencial lleva todo lo
+  cambiado desde la última completa.
+
+`wbadmin` habla de otra marca, el historial de cada fichero en VSS: con `-vssFull`, **«each file's history
+is updated to reflect that it was backed up»**; con `-vssCopy`, no (la tabla de `wbadmin`, más abajo).
+
+El esquema de rotación más citado es el de abuelo, padre e hijo (también de oficio). Hay tres juegos de
+soportes que se reutilizan en ciclo: los hijos son las copias diarias, el padre es la copia semanal y el
+abuelo es la copia mensual. Cada nivel se conserva más tiempo que el anterior.
+
 ### La regla 3-2-1 y lo que hoy se le añade
 
 | Cifra | Qué exige |
@@ -557,7 +672,7 @@ sistema elevado. Parámetros:
 | `-allCritical` | Incluye todos los volúmenes críticos, los que contienen el estado del sistema operativo: **«This parameter is useful if you're creating a backup for bare metal recovery.»** (recuperación sobre equipo desnudo). Sólo con `-backupTarget`; si no, la orden falla |
 | `-systemState` | Añade el estado del sistema |
 | `-vssFull` | Copia completa con VSS que marca los ficheros como copiados |
-| `-vssCopy` | Copia de VSS que no toca el historial de los ficheros: **«This is the default value.»** Una copia así no sirve de base para copias incrementales o diferenciales |
+| `-vssCopy` | Copia de VSS que no toca el historial de los ficheros, de modo que no altera la secuencia de copias incrementales y diferenciales que se hagan aparte: **«This is the default value.»** |
 | `-quiet` | **«Runs the command without prompts to the user.»** |
 
 Ejemplo construido con esa sintaxis: `wbadmin start backup -backupTarget:f: -include:e: -quiet` copia el
@@ -706,6 +821,50 @@ basta clonar tal cual; antes hay que reducir la partición de origen para que qu
 penúltimo explica por qué, al desplegar muchos equipos Windows desde una misma imagen, hay que cambiar
 nombre y SID: si no, todos se llamarían igual en la red (oficio).
 
+### Preparar una imagen de Windows: Sysprep
+
+La herramienta de Microsoft para preparar un Windows antes de capturar su imagen es Sysprep: **«Sysprep
+(System Preparation) prepares a Windows client or Windows Server installation for imaging. Sysprep can
+remove PC-specific information from a Windows installation (generalizing) so it can be installed on
+different PCs.»** Generalizar es quitar lo propio del equipo: **«Generalizing the image removes
+computer-specific information such as installed drivers and the computer security identifier
+(SID).»** Con una salvedad: generalizar desinstala los dispositivos configurados, pero **«doesn't remove
+device drivers from the PC»** (no borra del equipo los controladores). Microsoft lo exige aunque el hardware de destino sea parecido: **«Even if you're capturing an
+image that's going to be deployed to a PC with similar hardware, you still have to generalize the Windows
+installation»**. Y añade: **«Moving or copying a Windows image to a different PC without generalizing
+the PC is not supported.»**
+
+El procedimiento de Microsoft:
+
+1. Arrancar el equipo de referencia en modo auditoría (*Audit Mode*).
+2. Personalizarlo con controladores, configuración y programas, sin instalar aplicaciones de la
+   Microsoft Store.
+3. Generalizar y apagar, con esta orden: `%WINDIR%\system32\sysprep\sysprep.exe /generalize /shutdown
+   /oobe`. La opción `/oobe` hace que el equipo arranque después en la bienvenida inicial de Windows
+   (*Out-of-Box Experience*, OOBE).
+4. **«After the computer shuts down, capture your image with DISM.»** DISM es la herramienta de
+   Microsoft de gestión y mantenimiento de imágenes de implementación. Microsoft admite también **«other
+   disk-imaging software»**.
+
+Las limitaciones que más se preguntan:
+
+- **«The Sysprep tool runs only if the PC is a member of a workgroup, not a domain. If the PC is joined
+  to a domain, Sysprep removes the PC from the domain.»**
+- **«If you run Sysprep on an NTFS file system partition that contains encrypted files or folders, the
+  data in those folders becomes completely unreadable and unrecoverable.»**
+- El SID sólo se cambia en el volumen del sistema donde se ejecuta Sysprep. Si un equipo tiene varios
+  sistemas operativos, hay que ejecutarlo en cada uno.
+- Actualizar o instalar aplicaciones de la Microsoft Store antes de generalizar **«will cause Sysprep to
+  fail»**.
+- Hay un límite de ejecuciones sobre una misma imagen: **«You can run Sysprep command up to 1001 times on
+  a single Windows image.»** (en Windows 8.1 y Windows Server 2012 o posteriores).
+- Microsoft no lo admite para reconfigurar un Windows ya implantado: **«Microsoft does not support the
+  use of Sysprep on Windows that has been already deployed, or for purposes other than image
+  creation.»**
+
+Con Clonezilla, drbl-winroll cambia nombre y SID después de restaurar la imagen. Con Sysprep, la imagen se
+generaliza antes de capturarla.
+
 ### dd
 
 `dd` (GNU Coreutils): **«dd copies input to output with a changeable I/O block size, while optionally
@@ -781,7 +940,7 @@ distintas, y al abrirla pide permiso para hacer cambios en el dispositivo.
 extensivo.»** Y **«Si no está seguro, empiece con el modo Normal.»** El filtro `/n` busca por nombre,
 ruta, tipo o comodín. Ejemplos de la página: `Winfr C: E: /regular /n \Users\<username>\Documents\`
 (recupera la carpeta Documentos de C: en E:) y `Winfr C: E: /regular /n *.pdf /n *.docx` (PDF y Word).
-El resultado va a una carpeta **«Recovery_<date and time>»** de la unidad de destino.
+El resultado va a una carpeta **«Recovery_&lt;date and time&gt;»** de la unidad de destino.
 
 ### PhotoRec y TestDisk
 
@@ -878,8 +1037,11 @@ carpetas, entre ellas la carpeta Documentos del usuario, y se pueden añadir otr
 ## Lo que este tema no da, y dónde está
 
 - Los tipos de celda flash (SLC, MLC, TLC, QLC) y sus ciclos de programación y borrado: sólo constan en
-  fuentes secundarias; no se dan. Tampoco la velocidad mínima en MB/s de cada clase de velocidad SD (la
-  SD Association la da en imagen, no en texto).
+  fuentes secundarias; no se dan. Tampoco la velocidad mínima en MB/s de cada clase de velocidad SD,
+  salvo que la clase 10, la U1 y la V10 equivalen a 10 MB/s de escritura, que la SD Association dice
+  en texto; las demás cifras sólo las da en imagen.
+- Del disco duro: el cilindro, el formato de 2,5″ y su velocidad de giro, y el enmascaramiento de LUN de
+  la SAN. No constan en las fuentes leídas.
 - Que TRIM impida recuperar los datos borrados de una SSD: ninguna fuente leída lo dice (Microsoft sólo
   advierte que en una SSD el espacio libre se sobrescribe con más facilidad).
 - Historial de archivos, «Copias de seguridad y restauración (Windows 7)» y «Versiones anteriores» del
@@ -903,11 +1065,16 @@ carpetas, entre ellas la carpeta Documentos del usuario, y se pueden añadir otr
 | SNIA, *Online Dictionary*: «flash memory», «Solid State Storage», «wear leveling», «trim», «write amplification», «garbage collection», «over provisioning», «Storage Area Network»; página «What is Network Attached Storage (NAS)?» | Definiciones de flash, estado sólido, nivelación de desgaste, TRIM, amplificación de escritura, recolección de basura, sobreaprovisionamiento, SAN y NAS | 05-10-2026 |
 | Microsoft Learn, «fsutil behavior» | TRIM como aviso de borrado, activo por defecto en NTFS, `disabledeletenotify` | 05-10-2026 |
 | NVM Express, páginas «About» y «Specifications» | NVMe como interfaz de las SSD PCIe, transportes, formatos, versión 2.4 de 4-8-2026 | 05-10-2026 |
-| SD Association, «Capacity (SD/SDHC/SDXC/SDUC)» y «Speed Class» | Capacidades y sistema de ficheros de cada clase; clases de velocidad, UHS, vídeo y SD Express; fundación | 05-10-2026 |
+| SD Association, «Capacity (SD/SDHC/SDXC/SDUC)» y «Speed Class» | Capacidades y sistema de ficheros de cada clase; clases de velocidad, UHS, vídeo y SD Express; fundación; equivalencia a 10 MB/s de la clase 10, la U1 y la V10 | 05-10-2026 (la equivalencia, 06-10-2026) |
+| R. H. y A. C. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, versión 1.10, cap. 37 «Hard Disk Drives» (Universidad de Wisconsin-Madison) | Sector, plato, superficie, eje, pista, cabeza y brazo, zonas, caché, rpm, tiempo de E/S y sus tres partes, fases de la búsqueda, latencia media, ejemplo de 4 KB, escritura diferida e inmediata, los dos mercados | 06-10-2026 |
+| Seagate, hoja de datos BarraCuda 3,5″ (DS17.2-2603US) | Formato, uso en sobremesa, SATA, rpm, caché, caudal sostenido y sector de cada modelo | 06-10-2026 |
+| SNIA, *Online Dictionary*: «initiator», «target», «logical unit», «logical unit number», «LUN», «zoning», «mapping» | Vocabulario de la SAN | 06-10-2026 |
+| Microsoft Learn, «attrib» (actualizada el 25-9-2023) y «xcopy» (28-5-2024) | Atributo de archivo; `/a` y `/m` de `xcopy`; ficheros creados con el atributo | 06-10-2026 |
+| Microsoft Learn, «Sysprep (System Preparation) Overview» (actualizada el 2-6-2026) y «Sysprep (Generalize) a Windows installation» (15-12-2021) | Qué es Sysprep y qué es generalizar, obligación de generalizar, procedimiento y orden, captura con DISM, limitaciones, límite de 1001 ejecuciones, uso no admitido | 06-10-2026 |
 | Soporte de Microsoft, «Realizar copias de seguridad y restaurar con Copias de seguridad de Windows» (es-es) | Qué copia, OneDrive con 5 GB, ruta, salvedad de las cuentas profesionales | 05-10-2026 |
 | Microsoft Learn (es-es), «Cómo usar el complemento de administración de discos para administrar discos básicos y dinámicos» (actualizada el 12-2-2026) | RAID-5 con tres o más discos | 05-10-2026 |
-| Microsoft Learn, «wbadmin start backup» (actualizada el 3-2-2023) | Sintaxis, grupos, destino por defecto, `-include`, `-allCritical`, `-vssFull`, `-vssCopy`, `-quiet`, sobrescritura en la carpeta compartida | 05-10-2026 |
-| Microsoft Learn, «robocopy» (actualizada el 17-3-2025) | Opciones `/s`, `/e`, `/z`, `/b`, `/mir`, `/purge`, `/r`, `/w`, `/log`, ejemplo y códigos de salida | 05-10-2026 |
+| Microsoft Learn, «wbadmin start backup» (actualizada el 3-2-2023) | Historial de cada fichero con `-vssFull`; sintaxis, grupos, destino por defecto, `-include`, `-allCritical`, `-vssFull`, `-vssCopy`, `-quiet`, sobrescritura en la carpeta compartida | 05-10-2026 |
+| Microsoft Learn, «robocopy» (actualizada el 17-3-2025) | Opciones `/s`, `/e`, `/z`, `/b`, `/mir`, `/purge`, `/r`, `/w`, `/log`, `/a`, `/m`, ejemplo y códigos de salida | 05-10-2026 (`/a` y `/m`, 06-10-2026) |
 | Microsoft Learn, «vssadmin» (actualizada el 8-9-2026) | Órdenes de instantáneas | 05-10-2026 |
 | Página de manual `rsync(1)` (samba.org) | Descripción, algoritmo delta, `-a` y lo que no incluye, `-n`, `--delete`, ejemplo y barra final | 05-10-2026 |
 | GNU gzip, manual; GNU tar, «Creating and Reading Compressed Archives» | LZ77, 60-70 %, peor caso, opciones; programas y opciones de compresión de `tar`, ejemplos | 05-10-2026 |
@@ -931,7 +1098,8 @@ tabla DAS, NAS y SAN; la frontera entre ficheros y bloques con sus consecuencias
 protocolos y la descripción de FC, iSCSI, NFS, SMB y del almacenamiento por objetos; la tabla de niveles
 RAID, la razón de los tres discos, las advertencias sobre la paridad, el JBOD y la cuenta con cuatro
 discos; la jerarquía en línea, casi en línea y fuera de línea y el MAM; las tres condiciones de una copia
-de seguridad, la tabla redundancia-copia-archivo, RPO y RTO, los tipos de copia, la regla 3-2-1 con la
+de seguridad, la tabla redundancia-copia-archivo, RPO y RTO, los tipos de copia y su relación con el
+atributo de archivo, el esquema abuelo-padre-hijo, la regla 3-2-1 con la
 copia inmutable, las cinco piezas de la política y la prueba de restauración; las razones de la cinta,
 la biblioteca y LTFS; la advertencia sobre `/mir` y `--delete`; que las instantáneas no sustituyen a la copia; la distinción entre compresión con y sin
 pérdida y entre comprimir y archivar; la definición de clonar y hacer imagen y sus usos; el orden de

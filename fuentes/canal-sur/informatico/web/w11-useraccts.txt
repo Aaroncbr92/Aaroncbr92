@@ -1,0 +1,75 @@
+URL: https://support.microsoft.com/es-es/windows/security/identity-signin/manage-user-accounts-in-windows
+Leído: 2026-10-06
+
+# Administrar cuentas de usuario en Windows
+ Se aplica a
+Windows 11 Windows 10 
+Obtener ayuda con Copilot
+ ¿Cómo agrego cuentas utilizadas por aplicaciones?
+ ¿Cómo configuro la seguridad mejorada de inicio de sesión?
+ ¿Cómo elimino una cuenta de usuario?
+Windows permite agregar varias cuentas de usuario para usar el mismo dispositivo, lo que permite a cada usuario tener su propia configuración, documentos y aplicaciones.
+Por ejemplo, los padres pueden tener sus propias cuentas con privilegios administrativos para administrar la configuración e instalar software, mientras que los niños pueden tener cuentas estándar con controles parentales habilitados para supervisar y limitar su uso. Esto garantiza que cada miembro de la familia tenga una experiencia personalizada con sus propios archivos, configuración y niveles de acceso adecuados, al tiempo que mantiene los datos de los miembros de la familia privados y seguros entre sí.
+Para uso personal y profesional o educativo, tener cuentas de usuario independientes puede ayudar a mantener un límite claro entre los archivos y actividades personales y los relacionados con el trabajo o la escuela. Por ejemplo, un usuario puede tener una cuenta con correos electrónicos personales, redes sociales y aplicaciones de ocio, y otra cuenta con correos electrónicos profesionales o educativos, software de productividad y acceso a recursos profesionales o educativos. Esta separación no solo ayuda a organizar y centrarse en la tarea en cuestión, sino que también agrega una capa adicional de seguridad al mantener compartimentados los datos confidenciales del trabajo o la escuela.
+## Agregar una cuenta de usuario
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,Otro usuario o utilice el siguiente acceso directo:
+ Otros usuarios
+En Agregar otro usuario, seleccione Agregar cuenta
+Introduzca la información de la cuenta para que esta persona pueda iniciar sesión:
+- Si la persona que quiere agregar ya tiene una cuenta de Microsoft, escriba la dirección de correo electrónico
+- Si la persona que quiere agregar no tiene una cuenta de Microsoft, puede usar su dirección de correo electrónico para crearle una. Introduzca la dirección de correo electrónico que esa persona utiliza con más frecuencia y seleccione Registrarse para obtener una nueva dirección de correo electrónico
+- Si seleccionas la opción No tengo los datos de inicio de sesión de esta persona, puedes registrarte para obtener una nueva dirección de correo electrónico y crear una nueva cuenta de Microsoft. Si desea crear una cuenta local, seleccione la opción Agregar un usuario sin una cuenta de Microsoft
+Siga las instrucciones para finalizar la configuración de la cuenta
+Importante
+- Microsoft recomienda usar una cuenta de Microsoft, no una cuenta local, al iniciar sesión en Windows. El uso de una cuenta de Microsoft en Windows permite una integración perfecta de los servicios Microsoft, una seguridad mejorada y sincronización entre dispositivos, a diferencia de una cuenta local.
+- Más información sobre las cuentas de Microsoft en Iniciar sesión con una cuenta de Microsoft.
+Si formas parte de un grupo familiar, también puedes agregar a los miembros de tu familia a Windows desde la aplicación > Configuración Cuentas>de la familia, o con el siguiente acceso directo:
+ Familia
+Para obtener más información, consulta Introducción a Microsoft Family Safety.
+## Quitar una cuenta de usuario
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,Otro usuario o utilice el siguiente acceso directo:
+ Otros usuarios
+- En Otros usuarios, selecciona el control flotante de la cuenta que quieres quitar
+- Junto a Cuenta y datos , selecciona Quitar
+Nota
+Al quitar una cuenta, no se elimina la cuenta Microsoft de esa persona. Quita la información de inicio de sesión y los datos del dispositivo.
+## Conectar una cuenta profesional o educativa
+Si usas el mismo dispositivo Windows para tu trabajo personal y educativo o empresarial, es posible que quieras conectar las cuentas para que te resulte más fácil acceder a los archivos, el correo electrónico, las aplicaciones y la información asociada a cada cuenta. Cuando se conecte a su cuenta profesional o educativa, se conectará a su organización y tendrá acceso a sus recursos.
+Nota
+Para conectar una cuenta profesional o educativa, su organización debe admitir dispositivos personales o escenarios de dispositivo propio (BYOD).
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,Obtener acceso a trabajo o escuela, o usar el siguiente acceso directo:
+ Acceso profesional o educativo
+- Junto a Agregar una cuenta profesional o educativa, seleccione Conectar
+- Escriba la información de la cuenta, seleccione el tipo de cuenta y, a continuación, seleccione Agregar
+## Desconectar una cuenta profesional o educativa
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,Obtener acceso a trabajo o escuela, o usar el siguiente acceso directo:
+ Acceso profesional o educativo
+- Seleccione el desplegable situado junto a su cuenta profesional o educativa y seleccione Desconectar
+- Seleccione Sí para confirmar
+Nota
+Desconectar una cuenta profesional o educativa no elimina la cuenta. Quita la información y los datos de inicio de sesión del dispositivo.
+## Agregar cuentas que usan las aplicaciones
+Para que el inicio de sesión en sus cuentas sea más fácil y rápido, es posible que quiera agregar cuentas para diferentes aplicaciones.
+Importante
+Ya no es posible agregar una cuenta de Exchange en Windows 10.
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,correo electrónico & cuentas o use el siguiente acceso directo:
+ Correo electrónico & cuentas
+- Para agregar una cuenta usada por correo electrónico. calendario o contactos, seleccione Agregar una cuenta en Cuentas usadas por correo electrónico, calendario y contactos
+- Para otras aplicaciones, seleccione Agregar una cuenta de Microsoft o Agregar una cuenta profesional o educativa
+- Siga las indicaciones para agregar la cuenta
+## Configuración de un usuario como administrador
+Si es necesario, se puede configurar una cuenta de usuario como administrador.
+Importante
+debe limitar el número de administradores en su dispositivo Windows porque los administradores tienen control total sobre el sistema. Los administradores pueden cambiar la configuración, instalar software y obtener acceso a todos los archivos. Si demasiadas personas tienen este nivel de acceso, podría generar riesgos de seguridad como la instalación de malware o cambios no deseados en el sistema. Es más seguro tener menos administradores y usar cuentas de usuario estándar para las actividades diarias.
+- En la aplicación Configuración de su dispositivo Windows
+ seleccione Cuentas>,Otro usuario o utilice el siguiente acceso directo:
+ Otros usuarios
+- En Otros usuarios, selecciona el control flotante de la cuenta que quieres cambiar
+- Junto a Opciones de cuenta, seleccione Cambiar tipo de cuenta
+- En la lista desplegable, seleccione el tipo de cuenta y, a continuación, seleccione Aceptar
+## ¿Te resultó útil esta información?

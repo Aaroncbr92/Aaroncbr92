@@ -1,0 +1,244 @@
+URL: https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--system-preparation--overview?view=windows-11
+Leído: 2026-10-06
+
+
+Sysprep (System Preparation) Overview | Microsoft Learn
+
+- 
+
+- 
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+ This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+# Sysprep (System Preparation) Overview
+
+ Feedback
+
+ Summarize this article for me
+
+# 
+ In this article
+
+ Sysprep (System Preparation) prepares a Windows client or Windows Server installation for imaging. Sysprep can remove PC-specific information from a Windows installation (generalizing) so it can be installed on different PCs. When you run Sysprep you can configure whether the PC will boot to audit mode or to the Out-of-Box Experience (OOBE).
+
+Sysprep is part of the Windows image, and is run in audit mode.
+
+# Sysprep features
+
+Sysprep provides the following features:
+
+- Removes PC-specific information from the Windows image, including the PC's security identifier (SID). This allows you to capture the image and apply it to other PCs. This is known as generalizing the PC.
+
+- Uninstalls, but doesn't remove, PC-specific drivers from the Windows image.
+
+- Prepares the PC for delivery to a customer by setting the PC to boot to OOBE.
+
+- Allows you to add answer file (unattend) settings to an existing installation.
+
+# Practical uses
+
+Runnig Sysprep helps you:
+
+- Manage multiple PCs by creating a generic image that can be used across multiple hardware designs.
+
+- Deploy PCs by capturing and deploying images with unique security identifiers.
+
+- Fine-tune setup of individual PCs by adding apps, languages, or drivers in audit mode. For more information, see Audit Mode Overview.
+
+- Provide more reliable PCs by testing in audit mode before delivering them to customers.
+
+# New and changed functionality
+
+- To allow enterprises to efficiently and continuously roll out up-to-date Windows 10 and Windows 11 deployment images, beginning with Windows 10, version 1607, Sysprep can be used to prepare an image that has been upgraded (*). For example:
+
+- You can start with a computer that runs Windows 10, version 20H2.
+
+- Upgrade the computer to run Windows 11.
+
+- Run Sysprep generalize on the upgraded image, re-capture the updated image, and deploy the image to new devices.
+
+*: Microsoft does not support the use of Sysprep on Windows that has been already deployed, or for purposes other than image creation.
+
+- Beginning with Windows 8.1, the Sysprep user interface is deprecated. The Sysprep UI opens when you start Audit mode, but it may be removed in a future release. Update your deployment workflow to use Sysprep from the command line. For more information, see Sysprep Command-Line Options.
+
+Important
+
+You must run Sysprpep from command line and specify the /quiet switch when running on Windows Server deployed in Server Core installation option. Otherwise, the Sysprep UI won't show, and the process will fail silently.
+
+# Dependencies
+
+- You must run Windows Setup before you use Sysprep.
+
+- You need a tool to capture an image of the installation, such as DISM - Deployment Image Servicing and Management Technical Reference for Windows or other disk-imaging software.
+
+Note
+
+When you copy Windows images between PCs, the reference and destination PCs may not have to have compatible hardware abstraction layers (HALs). The /detecthal option in the Boot Configuration Data (BCD) enables a system that has already run Sysprep to install the correct HAL.
+
+# Limitations
+
+Sysprep has the following limitations:
+
+- The security identifier (SID) is only replaced on the operating system volume when you execute Sysprep. If a single PC has multiple operating systems, you must run Sysprep on each image individually.
+
+- In some cases, customized applications that you install before you recapture the Windows image may require a consistent drive letter. Some applications store paths that include the system's drive letter. Uninstallation, servicing, and repair scenarios may not function correctly if the system's drive letter does not match the drive letter that the application specifies.
+
+- The Plug and Play devices on the reference and destination PCs do not have to be from the same manufacturer. These devices include modems, sound cards, network adapters, and video cards. However, the installation must include the drivers for these devices.
+
+- Not all server roles support Sysprep. If you generalize a Windows Server installation that has specific server roles configured, those server roles may not continue to function after the imaging and deployment process. For more information, see Sysprep Support for Server Roles.
+
+- If you run Sysprep on an NTFS file system partition that contains encrypted files or folders, the data in those folders becomes completely unreadable and unrecoverable.
+
+- The Sysprep tool runs only if the PC is a member of a workgroup, not a domain. If the PC is joined to a domain, Sysprep removes the PC from the domain.
+
+- If a PC is joined to a domain, and the Group Policy of that domain assigns a strong account password policy to the PC, all user accounts will require strong passwords. Running Sysprep or OOBE does not remove the strong password policy.
+
+- Always use strong passwords for your user accounts. If you do not assign a strong password to a user account before you run Sysprep or OOBE, you may not be able to log on to the PC.
+
+- If Sysprep encounters an error, you will not be able to run the Sysprep tool on the same Windows image again. Instead, you will first need to redeploy the image.
+
+# Unsupported Scenarios
+
+The following scenarios are not supported:
+
+- On all versions of Windows, to reconfigure an existing installation of Windows that has already been deployed is not supported. Sysprep must be used only to configure new installations of Windows. You can run Sysprep an unlimited number of times to build and configure your installation of Windows.
+
+- Moving or copying a Windows image to a different PC without generalizing the PC is not supported.
+
+- Using a different version of the Sysprep tool to configure an image is not supported. You must use only the version of the Sysprep tool that is installed with the Windows image that you intend to configure. Sysprep is installed with every version of Windows. You must always run Sysprep from the %WINDIR%\system32\sysprep directory.
+
+- If you are using a version of Windows earlier than Windows 10, Version 1607, using the Sysprep tool on upgrade installation types is not supported.
+
+- Automating Sysprep by using a Microsoft-Windows-Deployment\RunSynchronous command is not supported. However, you can use the Microsoft-Windows-Deployment\Generalize setting to prepare the PC for imaging after installation.
+
+- Running VM mode outside a virtual machine (VM) is unsupported. You cannot use VM mode to prepare a VHD for deployment to any PC.
+
+- Sysprep cannot be run under the context of a System account. Running Sysprep under the context of System account by using Task Scheduler or PSExec, for example, is not supported.
+
+# See also
+
+The following table contains links to resources related to this scenario.
+
+Content type
+
+References
+
+Product evaluation
+
+Sysprep Process Overview
+
+Operations
+
+Sysprep (Generalize) a Windows installation | Customize the Default User Profile by Using CopyProfile | Use Answer Files with Sysprep
+
+Tools and settings
+
+Sysprep Command-Line Options | Sysprep Support for Server Roles
+
+Related technologies
+
+Windows Setup | Audit Mode Overview | Boot Windows to Audit Mode or OOBE
+
+# 
+ Additional resources
+
+- 
+
+ Last updated on 
+ 2026-06-02
+
+# In this article
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+- 
+
+ Light 
+
+- 
+
+ Dark 
+
+- 
+
+ High contrast 
+
+- 
+
+- 
+
+ AI Disclaimer
+
+- 
+
+ Previous Versions
+
+- 
+
+ Blog
+
+- 
+
+ Contribute
+
+- 
+
+ Privacy
+
+- 
+
+ Consumer Health Privacy
+
+- 
+
+ Terms of Use
+
+- 
+
+ Trademarks
+
+- © Microsoft 2026

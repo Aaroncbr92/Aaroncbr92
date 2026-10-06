@@ -1,0 +1,183 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/netdom-query
+Leído: 2026-10-06 (ms.date 2025-06-09T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# netdom query
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+ Comentarios
+
+## 
+
+El `netdom query` comando recupera información de un dominio sobre sus relaciones de pertenencia y confianza. Está disponible si tiene instalado el rol de servidor active Directory Domain Services (AD DS). También está disponible si instala las herramientas de AD DS que forman parte de las Herramientas de administración remota del servidor (RSAT). Para obtener más información, vea Cómo administrar equipos cliente y servidor de Microsoft Windows de forma local y remota.
+
+Para usar `netdom query`, debe ejecutar el comando desde un símbolo del sistema con privilegios elevados.
+
+## Syntax
+
+`netdom query [/Domain:domain] [/Server:server]
+ [/UserD:user] [/PasswordD:[password | *]]
+ [/Verify] [/Reset] [/Direct] [/SecurePasswordPrompt]
+ WORKSTATION | SERVER | DC | OU | PDC | FSMO | TRUST
+`
+
+## Parameters
+
+ | Parameter
+ | Description
+
+ | `/domain:<Domain>`
+ | Especifica el dominio que se va a consultar para obtener información. Si no especifica este parámetro, `netdom query` usa el dominio al que pertenece el equipo actual.
+
+ | `/server:<Server>`
+ | Especifica el nombre del controlador de dominio que realiza la consulta.
+
+ | `/userd:<User>`
+ | Especifica la cuenta de usuario que realiza la conexión con el dominio que especifique mediante el `/domain` parámetro . Si no especifica este parámetro, `netdom query` usa la cuenta de usuario actual.
+
+ | `/passwordd:<Password>` | `*`
+ | Especifica la contraseña de la cuenta de usuario que especifique mediante el `/userd` parámetro . Si especifica el valor de este parámetro como carácter comodín (`*`), este parámetro le pedirá la contraseña.
+
+ | `/verify`
+ | Comprueba los secretos de canal seguro para todas las pertenencias o confianzas enumeradas y muestra los resultados. Solo se comprueban las confianzas salientes. Las credenciales de administrador de dominio son necesarias para una comprobación precisa.
+
+ | `/reset`
+ | Especifica la resincronización de los secretos de canal seguro para todas las pertenencias o confianzas enumeradas que están rotas actualmente. Las credenciales de administrador de dominio son necesarias para restablecer todas las confianzas o pertenencias enumeradas.
+
+ | `/direct`
+ | Indica que la consulta de relaciones de confianza solo devuelve relaciones de confianza directas, en lugar de relaciones directas e indirectas. Este parámetro no se puede usar con el `/verify` parámetro .
+
+ | `/securepasswordprompt`
+ | Abre un menú emergente de credenciales seguras para escribir las credenciales. Esto resulta útil al especificar credenciales de tarjeta inteligente. Esta opción solo es efectiva cuando la contraseña se escribe como `*`.
+
+ | `workstation` | `server` | `dc` | `ou` | `pdc` | `fsmo` | `trust`
+ | Especifica el tipo de lista que se va a generar. En la lista siguiente se muestran los objetos posibles:
+
+ - 
+ Estación de trabajo: consulta el dominio para obtener la lista de estaciones de trabajo.
+
+ - 
+ Servidor: consulta el dominio para la lista de servidores.
+
+ - 
+ DC: consulta el dominio para obtener la lista de controladores de dominio.
+
+ - 
+ OU: consulta el dominio de la lista de unidades organizativas en las que el usuario especificado puede crear un objeto de equipo.
+
+ - 
+ PDC: consulta el dominio para el controlador de dominio principal actual.
+
+ - 
+ FSMO: consulta el dominio para obtener la lista actual de propietarios de roles de operaciones maestras únicas flexibles (FSMO). 
+
+ - 
+ Confianza: consulta el dominio para obtener la lista de sus confianzas.
+
+ | `help` | `/?`
+ | Muestra ayuda en el símbolo del sistema.
+
+## Examples
+
+Para enumerar todos los servidores del dominio Norteamérica, ejecute el siguiente comando:
+
+`netdom query /domain:NorthAmerica SERVER
+`
+
+Para enumerar todos los servidores y comprobar el secreto del canal seguro en el dominio Norteamérica, ejecute el siguiente comando:
+
+`netdom query /domain:NorthAmerica SERVER /verify
+`
+
+Para enumerar todas las relaciones de confianza directas para el dominio Norteamérica, ejecute el siguiente comando:
+
+`netdom query /domain:NorthAmerica /Direct TRUST
+`
+
+## See also
+
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ Sí
+
+ No
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ ¿Sugerir una corrección? 
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2025-08-16
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

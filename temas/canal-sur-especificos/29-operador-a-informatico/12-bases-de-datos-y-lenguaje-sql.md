@@ -8,7 +8,7 @@
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. La norma técnica del lenguaje, ISO/IEC 9075, es de pago y no se ha leído: se cita a través de la documentación oficial de tres gestores que la describen (PostgreSQL 18, Oracle AI Database 23 y SQL Server en Microsoft Learn, en castellano) |
 | Redacción que se estudia | SQL:2023 (ISO/IEC 9075:2023), la edición vigente según la documentación de PostgreSQL; documentación en línea el 05-10-2026 y leída ese día |
-| Extensión | 11.500 palabras aproximadamente (con los ejemplos de código) |
+| Extensión | 13.400 palabras aproximadamente (con los ejemplos de código) |
 
 <!-- /portada -->
 
@@ -47,8 +47,10 @@ DQL y otros no; qué diferencia `DROP`, `DELETE` y `TRUNCATE`; qué restriccione
 una tabla y qué hace `ON DELETE CASCADE`; en qué orden se escriben y se procesan las cláusulas de un
 `SELECT`; qué diferencia `WHERE` de `HAVING`; qué devuelven `COUNT(*)`, `COUNT(columna)`, `SUM`,
 `AVG`, `MAX` y `MIN`, y qué pasa con los nulos; cómo se compara con `NULL`; qué hacen `LIKE`, `IN`,
-`BETWEEN` y `EXISTS`; qué diferencia una combinación interna de una externa; qué hacen `UNION`,
-`INTERSECT` y `EXCEPT`; y qué cláusula limita el número de filas en la norma y en cada gestor. En la
+`BETWEEN`, `EXISTS`, `ANY`/`SOME`, `ALL` y `NOT IN`; qué guardan `char`, `varchar` y los tipos
+numéricos y de fecha; qué sentencia de la norma abre una transacción; qué diferencia una combinación
+interna de una externa y qué hacen `USING` y `NATURAL`; qué hacen `UNION`, `INTERSECT` y `EXCEPT` y
+qué deben cumplir las dos consultas; y qué cláusula limita el número de filas en la norma y en cada gestor. En la
 aplicación práctica: leer una sentencia y decir qué devuelve o qué error tiene, escoger la sentencia
 que resuelve una tarea, o completar una consulta con agrupación.
 
@@ -390,7 +392,7 @@ supply. The rest of the features are purely optional.»** (la norma define un gr
 funciones sueltas; un subconjunto amplio son las funciones «Core», que toda implantación conforme debe
 ofrecer, y el resto son opcionales).
 
-Ningún gestor declara cumplir siquiera el Core entero. PostgreSQL de sí mismo: **«Out of 177 mandatory features required for
+Cuando PostgreSQL escribió su página, ningún gestor declaraba cumplir siquiera el Core de SQL:2023 entero. PostgreSQL de sí mismo: **«Out of 177 mandatory features required for
 full Core conformance, PostgreSQL conforms to at least 170.»** (de las 177 funciones obligatorias del
 Core, cumple al menos 170). Y de todos: **«at the time of writing, no current version of any database
 management system claims full conformance to Core SQL:2023.»** (en el momento de escribirse esa
@@ -562,6 +564,22 @@ CREATE TABLE empleados (
 );
 ```
 
+El tipo de cada columna se escoge entre los de la norma (epígrafe 3). Qué es cada uno, según la tabla
+de tipos de PostgreSQL:
+
+| Tipo | Qué guarda |
+|---|---|
+| `character (n)` o `char (n)` | **«fixed-length character string»** (cadena de longitud fija) |
+| `character varying (n)` o `varchar (n)` | **«variable-length character string»** (cadena de longitud variable) |
+| `smallint`, `integer`, `bigint` | **«signed two-byte integer»**, **«signed four-byte integer»**, **«signed eight-byte integer»** (enteros con signo de dos, cuatro y ocho bytes) |
+| `numeric (p, s)` o `decimal (p, s)` | **«exact numeric of selectable precision»** (numérico exacto de precisión elegible) |
+| `real` y `double precision` | **«single precision floating-point number (4 bytes)»** y **«double precision floating-point number (8 bytes)»** (coma flotante de precisión simple y doble) |
+| `boolean` | **«logical Boolean (true/false)»** (lógico: verdadero o falso) |
+| `date` | **«calendar date (year, month, day)»** (fecha: año, mes y día) |
+| `time` | **«time of day»** (hora del día, con o sin zona horaria) |
+| `timestamp` | **«date and time»** (fecha y hora, con o sin zona horaria) |
+| `interval` | **«time span»** (intervalo de tiempo) |
+
 ### Las restricciones
 
 **«SQL allows you to define constraints on columns and tables. Constraints give you as much control over
@@ -689,7 +707,7 @@ CREATE UNIQUE INDEX title_idx ON films (title);
 
 El oficio los llama DCL; Oracle los pone en el DDL y Microsoft en las instrucciones de permisos
 (epígrafe 4). Microsoft resume `GRANT`: **«Concede permisos sobre un elemento protegible a una entidad
-de seguridad. El concepto general es para `GRANT <some permission> ON <some object> TO <some user,
+de seguridad. El concepto general es para `GRANT &lt;some permission&gt; ON &lt;some object&gt; TO <some user,
 login, or group>`.»** Y PostgreSQL, `REVOKE`: **«The `REVOKE` command revokes previously granted
 privileges from one or more roles.»** (retira privilegios concedidos antes).
 
@@ -814,7 +832,7 @@ Las sentencias, con la descripción de PostgreSQL:
 
 | Sentencia | Qué hace |
 |---|---|
-| `BEGIN` (`BEGIN TRANSACTION` en SQL Server) | Abre la transacción |
+| `START TRANSACTION` (en la norma); `BEGIN` en PostgreSQL, `BEGIN TRANSACTION` en SQL Server | Abre la transacción |
 | `COMMIT` | **«`COMMIT` commits the current transaction. All changes made by the transaction become visible to others and are guaranteed to be durable if a crash occurs.»** (confirma: los cambios se hacen visibles a los demás y duraderos aunque el sistema caiga) |
 | `ROLLBACK` | **«`ROLLBACK` rolls back the current transaction and causes all the updates made by the transaction to be discarded.»** (deshace: descarta todos los cambios de la transacción) |
 | `SAVEPOINT` | **«`SAVEPOINT` establishes a new savepoint within the current transaction.»**: **«A savepoint is a special mark inside a transaction that allows all commands that are executed after it was established to be rolled back, restoring the transaction state to what it was at the time of the savepoint.»** (una marca dentro de la transacción a la que se puede volver deshaciendo lo posterior) |
@@ -822,7 +840,14 @@ Las sentencias, con la descripción de PostgreSQL:
 
 `COMMIT` y `ROLLBACK` son de la norma: **«The command `COMMIT` conforms to the SQL standard.»** y
 **«The command `ROLLBACK` conforms to the SQL standard.»** (las formas `COMMIT TRANSACTION` y
-`ROLLBACK TRANSACTION` son extensiones de PostgreSQL).
+`ROLLBACK TRANSACTION` son extensiones de PostgreSQL). Para abrirla, en cambio, la sentencia de la
+norma es `START TRANSACTION`, y `BEGIN` es una extensión: **«`BEGIN` is a PostgreSQL language
+extension. It is equivalent to the SQL-standard command `START TRANSACTION`»** (`BEGIN` es una
+extensión de PostgreSQL, equivalente a la sentencia de la norma `START TRANSACTION`). PostgreSQL
+admite las dos: **«`START TRANSACTION` has the same functionality as `BEGIN`.»** La norma ni siquiera
+obliga a usarla: **«In the standard, it is not necessary to issue `START TRANSACTION` to start a
+transaction block: any SQL command implicitly begins a block.»** (en la norma no hace falta
+`START TRANSACTION`: cualquier sentencia abre implícitamente la transacción).
 
 Un ejemplo:
 
@@ -1001,12 +1026,26 @@ Poner en el `WHERE` una condición que no necesita agregado es además más efic
 efficient than adding the restriction to `HAVING`, because we avoid doing the grouping and aggregate
 calculations for all rows that fail the `WHERE` check.»**
 
-Una columna del `SELECT` que no esté en un agregado tiene que estar en el `GROUP BY`: en el `HAVING`,
-**«Each column referenced in `condition` must unambiguously reference a grouping column, unless the
-reference appears within an aggregate function or the ungrouped column is functionally dependent on
-the grouping columns.»** (cada columna citada debe ser de agrupación, salvo que esté dentro de un
-agregado o dependa funcionalmente de las de agrupación). La regla aplicada a la lista del `SELECT` es
-de oficio.
+Una columna del `SELECT` que no esté en un agregado tiene que estar en el `GROUP BY`, con una
+salvedad. PostgreSQL: **«When `GROUP BY` is present, or any aggregate functions are present, it is not
+valid for the `SELECT` list expressions to refer to ungrouped columns except within aggregate functions
+or when the ungrouped column is functionally dependent on the grouped columns, since there would
+otherwise be more than one possible value to return for an ungrouped column.»** (con `GROUP BY` o con
+agregados, la lista del `SELECT` no puede citar columnas no agrupadas, salvo dentro de un agregado o
+cuando dependen funcionalmente de las agrupadas, porque habría más de un valor posible que devolver).
+Y define esa dependencia: **«A functional dependency exists if the grouped columns (or a subset
+thereof) are the primary key of the table containing the ungrouped column.»** (existe cuando las
+columnas agrupadas, o parte de ellas, son la clave primaria de la tabla de la columna no agrupada).
+Esa definición es la de PostgreSQL; la norma va más allá: **«PostgreSQL recognizes functional
+dependency (allowing columns to be omitted from `GROUP BY`) only when a table's primary key is
+included in the `GROUP BY` list. The SQL standard specifies additional conditions that should be
+recognized.»** (PostgreSQL sólo reconoce la dependencia cuando la clave primaria está en el
+`GROUP BY`; la norma fija más casos). Así, `GROUP BY id_emp` permite poner `nombre` en el `SELECT`, porque `id_emp` es la clave primaria de
+`empleados`; `GROUP BY id_dep` no lo permite. Lo mismo vale para el `HAVING`: **«Each column
+referenced in `condition` must unambiguously reference a grouping column, unless the reference appears
+within an aggregate function or the ungrouped column is functionally dependent on the grouping
+columns.»** (cada columna citada debe ser de agrupación, salvo que esté dentro de un agregado o
+dependa funcionalmente de las de agrupación).
 
 ### `ORDER BY` y la limitación de filas
 
@@ -1049,8 +1088,20 @@ filas se emparejan).
 | `CROSS JOIN` | El producto cartesiano: **«`CROSS JOIN` is equivalent to `INNER JOIN ON (TRUE)`, that is, no rows are removed by qualification.»** |
 
 `INNER` y `OUTER` son opcionales. Las combinaciones internas y externas necesitan condición: **«For
-the `INNER` and `OUTER` join types, a join condition must be specified, namely exactly one of `ON
-join_condition`, `USING (join_column [, ...])`, or `NATURAL`.»**
+the `INNER` and `OUTER` join types, a join condition must be specified, namely exactly one of
+`ON join_condition`, `USING (join_column [, ...])`, or `NATURAL`.»** (exactamente una de tres: `ON` con
+una condición, `USING` con una lista de columnas, o `NATURAL`).
+
+Las dos últimas abrevian la primera:
+
+| Forma | Qué hace, según PostgreSQL |
+|---|---|
+| `USING (a, b, …)` | **«A clause of the form `USING ( a, b, ... )` is shorthand for `ON left_table.a = right_table.a AND left_table.b = right_table.b ...`. Also, `USING` implies that only one of each pair of equivalent columns will be included in the join output, not both.»** (equivale a igualar esas columnas en el `ON`, y cada par de columnas iguales sale una sola vez en el resultado) |
+| `NATURAL` | **«`NATURAL` is shorthand for a `USING` list that mentions all columns in the two tables that have matching names. If there are no common column names, `NATURAL` is equivalent to `ON TRUE`.»** (un `USING` con todas las columnas que se llaman igual en las dos tablas; si no hay ninguna, equivale a `ON TRUE`, es decir, al producto cartesiano) |
+
+Con las tablas del tema, `NATURAL JOIN` no daría lo esperado: `empleados` y `departamentos` comparten
+`id_dep`, pero también `nombre`, así que emparejaría los empleados cuyo nombre coincide con el del
+departamento. `JOIN departamentos USING (id_dep)` sí une sólo por el departamento.
 
 ```sql
 SELECT e.nombre, d.nombre AS departamento
@@ -1090,6 +1141,42 @@ SELECT d.nombre FROM departamentos d
 WHERE EXISTS (SELECT 1 FROM empleados e WHERE e.id_dep = d.id_dep);   -- departamentos con empleados
 ```
 
+Una subconsulta de una columna también se compara con un operador seguido de `ANY` (o `SOME`) o de
+`ALL`. PostgreSQL:
+
+| Predicado | Qué hace |
+|---|---|
+| `expresión operador ANY (subconsulta)` | **«The result of `ANY` is "true" if any true result is obtained. The result is "false" if no true result is found (including the case where the subquery returns no rows).»** (cierto si la comparación sale cierta con alguna fila; falso si con ninguna, también cuando la subconsulta no devuelve filas). Y: **«`SOME` is a synonym for `ANY`. `IN` is equivalent to `= ANY`.»** (`SOME` es sinónimo de `ANY`; `IN` equivale a `= ANY`) |
+| `expresión operador ALL (subconsulta)` | **«The result of `ALL` is "true" if all rows yield true (including the case where the subquery returns no rows). The result is "false" if any false result is found.»** (cierto si la comparación sale cierta con todas las filas, también cuando la subconsulta no devuelve ninguna; falso si sale falsa con alguna) |
+| `expresión NOT IN (subconsulta)` | **«The result of `NOT IN` is "true" if only unequal subquery rows are found (including the case where the subquery returns no rows). The result is "false" if any equal row is found.»** (cierto si ninguna fila es igual; falso si alguna lo es). Y: **«`NOT IN` is equivalent to `<> ALL`.»** |
+
+```sql
+SELECT nombre FROM empleados
+WHERE salario > ALL (SELECT salario FROM empleados WHERE id_dep = 3);   -- más que todos los del 3
+
+SELECT nombre FROM empleados
+WHERE salario > ANY (SELECT salario FROM empleados WHERE id_dep = 3);   -- más que alguno del 3
+```
+
+El nulo vuelve a ser la trampa, sobre todo con `NOT IN`: **«Note that if the left-hand expression
+yields null, or if there are no equal right-hand values and at least one right-hand row yields null,
+the result of the `NOT IN` construct will be null, not true.»** (si la expresión de la izquierda es
+nula, o si ningún valor es igual pero alguna fila de la subconsulta es nula, el resultado es nulo, no
+verdadero). Así, esta consulta, que busca los departamentos sin empleados, no devuelve ninguna fila
+en cuanto un solo empleado tenga `id_dep` nulo:
+
+```sql
+SELECT nombre FROM departamentos
+WHERE id_dep NOT IN (SELECT id_dep FROM empleados);
+```
+
+Con `ANY` pasa lo mismo: **«if there are no successes and
+at least one right-hand row yields null for the operator's result, the result of the `ANY` construct
+will be null, not false.»** (si ninguna comparación sale cierta y alguna da nulo, el resultado es nulo,
+no falso). Y con `ALL`: **«The result is NULL if no comparison with a subquery row returns false, and
+at least one comparison returns NULL.»** (si ninguna comparación sale falsa y alguna da nulo, el
+resultado es nulo).
+
 ### Operaciones de conjuntos
 
 | Operador | Qué devuelve, según PostgreSQL |
@@ -1100,6 +1187,18 @@ WHERE EXISTS (SELECT 1 FROM empleados e WHERE e.id_dep = d.id_dep);   -- departa
 
 Los repetidos: **«In all three cases, duplicate rows are eliminated unless `ALL` is specified.»** (se
 eliminan salvo con `ALL`). Por eso **«`UNION ALL` is usually significantly quicker than `UNION`»**.
+
+Las dos consultas tienen que encajar: **«In order to calculate the union, intersection, or difference
+of two queries, the two queries must be "union compatible", which means that they return the same
+number of columns and the corresponding columns have compatible data types»** (para la unión, la
+intersección o la diferencia, las dos consultas deben ser «compatibles para la unión»: el mismo número
+de columnas y, columna a columna, tipos de datos compatibles). No se exige que lean la misma tabla ni
+que devuelvan el mismo número de filas:
+
+```sql
+SELECT nombre FROM empleados UNION SELECT nombre FROM departamentos;          -- válida: una columna de texto a cada lado
+SELECT id_emp, nombre FROM empleados UNION SELECT nombre FROM departamentos;  -- error: dos columnas frente a una
+```
 
 ## 8. Aplicación práctica
 
@@ -1174,15 +1273,17 @@ da nulo y esas filas se eliminan.
 
 ## Trazabilidad
 
-Todas las páginas se leyeron el 05-10-2026, en su versión en línea de ese día.
+Todas las páginas se leyeron el 05-10-2026, en su versión en línea de ese día, salvo las tres de PostgreSQL 18 que se marcan como leídas el 06-10-2026.
 
 | Fuente | Qué sostiene |
 |---|---|
-| PostgreSQL 18, «Appendix D. SQL Conformance» (postgresql.org/docs/current/features.html) | Nombre formal ISO/IEC 9075, SQL:2023, ediciones anteriores, niveles de SQL-92, funciones Core, partes de la norma, 177/170, ningún gestor declara el Core entero |
+| PostgreSQL 18, «Appendix D. SQL Conformance» (postgresql.org/docs/current/features.html) | Nombre formal ISO/IEC 9075, SQL:2023, ediciones anteriores, niveles de SQL-92, funciones Core, partes de la norma, 177/170, ningún gestor declaraba, al escribirse la página, el Core de SQL:2023 entero |
 | Oracle AI Database 23, *SQL Language Reference*: «SQL Standards», «History of SQL», «Types of SQL Statements» (docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/) | ANSI e ISO/IEC, normas técnicamente idénticas; SQL como sublenguaje de datos, por conjuntos, optimizador, SQL/PSM y PL/SQL, tareas, portabilidad; Codd, SEQUEL, 1979; las seis categorías de Oracle, DDL con `GRANT`/`REVOKE`, `SELECT` como forma limitada de DML, control de transacciones, confirmación implícita del DDL |
 | Oracle AI Database 23, *Concepts*, cap. 1 «Introduction to Oracle AI Database» | Base de datos, SGBD y sus elementos, primera generación, modelo relacional, relación/tupla/atributo, independencia lógica y física, objeto-relacional, SQL declarativo, «ANSI standard language» |
 | PostgreSQL 18, tutorial: «Concepts», «Introduction», «Joins Between Tables», «Aggregate Functions», «Transactions» | Relación y tabla, columnas tipadas, filas sin orden, otras organizaciones; extensiones de la norma; combinaciones internas y externas; agregados, `WHERE` frente a `HAVING`, subconsulta; transacciones, `BEGIN` implícito, puntos de guardado |
-| PostgreSQL 18, referencia: `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `MERGE`, `CREATE TABLE`, `ALTER TABLE`, `DROP TABLE`, `TRUNCATE`, `CREATE VIEW`, `CREATE INDEX`, `GRANT`, `REVOKE`, `COMMIT`, `ROLLBACK`, `SAVEPOINT`; cap. 5.5 «Constraints»; cap. 8 «Data Types»; cap. 9 «Comparison», «Logical Operators», «Pattern Matching», «Aggregate Functions», «Subquery Expressions», «Date/Time Functions» | Sintaxis, descripción y compatibilidad con la norma de cada sentencia; restricciones y acciones `ON DELETE`; tipos de la norma; operadores, `BETWEEN`, `LIKE`, nulos y lógica de tres valores, agregados, `IN` y `EXISTS`; `CURRENT_DATE` |
+| PostgreSQL 18, referencia: `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `MERGE`, `CREATE TABLE`, `ALTER TABLE`, `DROP TABLE`, `TRUNCATE`, `CREATE VIEW`, `CREATE INDEX`, `GRANT`, `REVOKE`, `COMMIT`, `ROLLBACK`, `SAVEPOINT`; cap. 5.5 «Constraints»; cap. 8 «Data Types»; cap. 9 «Comparison», «Logical Operators», «Pattern Matching», «Aggregate Functions», «Subquery Expressions», «Date/Time Functions» | Sintaxis, descripción y compatibilidad con la norma de cada sentencia; restricciones y acciones `ON DELETE`; tipos de la norma y qué guarda cada uno; operadores, `BETWEEN`, `LIKE`, nulos y lógica de tres valores, agregados, `IN`, `EXISTS`, `ANY`/`SOME`, `ALL` y `NOT IN`; dependencia funcional en `GROUP BY` y lo que la norma añade; `USING` y `NATURAL`; `CURRENT_DATE` |
+| PostgreSQL 18, referencia: `BEGIN` y `START TRANSACTION` (leídas el 06-10-2026) | `START TRANSACTION` como sentencia de la norma, `BEGIN` como extensión equivalente, inicio implícito de la transacción en la norma |
+| PostgreSQL 18, cap. 7.4 «Combining Queries (`UNION`, `INTERSECT`, `EXCEPT`)» (leído el 06-10-2026) | Compatibilidad para la unión: mismo número de columnas y tipos compatibles |
 | Microsoft Learn, en castellano: «Transact-SQL declaraciones», «SELECT (Transact-SQL)», «TOP (Transact-SQL)», «TRUNCATE TABLE (Transact-SQL)», «UPDATE (Transact-SQL)», «GRANT (Transact-SQL)», «Transacciones (Transact-SQL)», «Guía de versiones de fila y bloqueo de transacciones» (learn.microsoft.com/es-es/sql/…, versión `sql-server-ver17` de la documentación) | DDL y DML en castellano, instrucciones de permisos; orden lógico de procesamiento del `SELECT` y alias; `TOP` y su paréntesis; `TRUNCATE` frente a `DELETE` en el registro; `UPDATE` sin `WHERE`; `GRANT`; modos de transacción; ACID |
 
 La traducción automática de Microsoft trae erratas (palabras desordenadas, espacios antes del punto);
@@ -1192,8 +1293,7 @@ Oficio sin fuente detrás, y así se declara: la clasificación didáctica en ci
 DQL, DCL y TCL) y su cuadro; la tabla que separa base de datos y sistema gestor; la regla «estructura, DDL; datos, DML» y el consejo para el test sobre
 `SELECT`; la correspondencia entre las tareas de Oracle y las familias; la tabla de nombres corrientes
 y formales del modelo relacional; la distinción entre diseño lógico y físico; las tres formas
-normales; la tabla de familias no relacionales y sus ejemplos; el cuadro `DROP`/`TRUNCATE`/`DELETE`;
-la regla de que toda columna no agregada del `SELECT` debe figurar en el `GROUP BY`; la regla de
+normales; la tabla de familias no relacionales y sus ejemplos; el cuadro `DROP`/`TRUNCATE`/`DELETE`; la regla de
 escribir en la forma de la norma para que la sentencia sea portable; y los ejemplos con nombres en
 castellano (`empleados`, `departamentos`, `cuentas`), que no se han ejecutado en ningún gestor. Los
 ejemplos con nombres en inglés (`films`, `weather`, `orders`) son de la documentación de PostgreSQL.

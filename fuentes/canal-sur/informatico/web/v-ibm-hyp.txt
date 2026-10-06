@@ -1,0 +1,370 @@
+URL: https://www.ibm.com/think/topics/hypervisors
+Leído: 2026-10-06
+
+What Are Hypervisors? | IBM
+
+- 
+
+ Home
+
+- 
+
+ Think
+
+- 
+
+ Topics
+
+- 
+
+ Hypervisors
+
+ IT infrastructure
+
+# 
+
+ What are hypervisors?
+
+ Authors
+
+ Stephanie Susnjara
+
+Staff Writer
+
+IBM Think
+
+ Ian Smalley
+
+Staff Editor
+
+ IBM Think
+
+## 
+ What are hypervisors?
+
+A hypervisor is a software that enables multiple virtual machines (VMs)—each with its own operating system (OS)—to run on one physical server. The hypervisor pools and allocates physical computing resources as needed by the VM, enabling efficiency, flexibility and scalability
+
+Sometimes called a virtual machine monitor (VMM), the hypervisor manages VMs as they run alongside each other. It separates VMs from each other logically, assigning each its own slice of the underlying computing power, memory and storage. This prevents the VMs from interfering with each other. For example, if one OS suffers a crash or a security compromise, the others survive.
+
+Before hypervisors hit the mainstream, most physical computers could only run one operating system at a time. This made them stable because the computing hardware only had to handle requests from that one OS. The downside of this approach was that it wasted resources because the operating system can only sometimes use all of the computer's power.
+
+A hypervisor solves that problem. It is a small software layer that enables multiple instances of operating systems to run alongside each other, sharing the same physical computing resources. This process is called virtualization, and the operating system instances—referred to as virtual machines—are software emulations of physical computers that run on the host machine.
+
+The term virtual machine is sometimes used interchangeably with virtual server, but they are not the same. Virtual servers are also made possible by hypervisors that act as a layer between the physical hardware and multiple unique virtual environments. But virtual servers replicate physical, bare-metal servers for applications like web servers, domain name servers, proxy servers and so forth. In contrast, virtual machines create virtual representations of physical computers.
+
+For more on virtualization and how hypervisors enable and manage VMs, check out the following video.
+
+## 
+ Why are hypervisors important?
+
+Hypervisors provide the foundation for modern virtualization practices and are crucial to modern data center, cloud computing and desktop environments.
+
+Today, virtualization is standard practice in enterprise IT infrastructure and is the technology that drives cloud computing economics. Virtualization software, including hypervisors, allows cloud providers to serve users with their existing physical computer hardware. Cloud users can purchase only the computing resources they need—when needed—and scale those resources cost-effectively as their workloads grow.
+
+All major cloud service providers—Amazon Web Services (AWS), Google Cloud, IBM Cloud®, Microsoft Azure—rely on virtualization technology to deliver cloud-based services like infrastructure as a service (IaaS), software as a service (SaaS) and platform as a service (PaaS).
+
+Virtualization technology is also critical to automation and supports IT service management workflow creation. For example, virtualization helps automate tasks like deployment and configuration and can also help with security and resource efficiency.
+
+Also, virtualization technology like hypervisors supports hyperautomation—the concept of automating everything in an organization that can be automated. Organizations that adopt hyperautomation seek to streamline processes across their business by using artificial intelligence (AI), robotic process automation (RPA) and other technologies to run without human intervention.
+
+According to a Research and Markets report, the global market for data center virtualization was estimated at USD 7.3 billion in 2023 and is projected to reach USD 21.1 billion by 2030, growing at a CAGR of 16.3% from 2023 to 2030.1
+
+## The latest tech news, backed by expert insights
+
+Stay up to date on the most important—and intriguing—industry trends on AI, automation, data and beyond with the Think newsletter. See the IBM Privacy Statement.
+
+## Thank you! You are subscribed.
+
+Your form was submitted. An IBM representative will call or email you shortly.
+
+## 
+ Hypervisor benefits
+
+The following are some of the core benefits that a hypervisor can provide:
+
+- Efficiency: Hypervisors help ensure maximum resource efficiency by allowing multiple VMs to use the same physical hardware, thus optimizing the usage of hardware resources.
+
+- Scalability: Hypervisors can create, deploy and decommission VMs almost instantly. This capability allows organizations to quickly respond to changing workloads and meet business demands.
+
+- Cost savings: Hypervisors allow multiple VMs to run on one physical machine. This consolidation saves costs by reducing hardware expenses. It also reduces the amount of power consumed, which cuts energy costs and helps reduce the overall carbon footprint associated with data centers.
+
+- Portability: Hypervisors separate virtual machines from physical machines, making it easy to migrate VMs. This feature creates portability and allows IT teams to shift workloads and allocate resources between machines or platforms.
+
+- Enhanced security: Hypervisors isolate VMs from each other and from the host machine, thus reducing the attack surface. Hypervisors can also take snapshots of a VM's state, which allows users to restore the VM, create a backup or move it to a different host.
+
+- Disaster recovery: In the event of a disaster, hypervisors help organizations avoid disruptions by enabling fast replication or cloning of a virtual machine. This disaster recovery support significantly enhances the resiliency of the environment and improves business continuity.
+
+ Think Keynote
+
+### 
+
+ Accelerate AI ROI with hybrid cloud
+
+Learn how a full-stack hybrid cloud approach helps organizations run AI reliably, meet regulatory and security requirements and deliver sustainable ROI at scale.
+
+ Discover Power Virtual Server
+
+## 
+ How hypervisors work: Type 1 vs. type 2
+
+As explained, hypervisors provide a layer between a VM and the underlying physical hardware, helping ensure that each has access to the physical resources it needs to execute.
+
+The process starts with the host machine executing a hypervisor and installing it as an application on the machine, where it interacts with the host machine's operating system. The hypervisor then loads the client operating systems of the virtual machines, creating isolated virtual environments on the host machines.
+
+The hypervisor acts as the intermediary between the VMs and the physical hardware, allocating resources such as memory, bandwidth and storage for each VM. The physical hardware still handles the execution of resources. For example, the central processing unit (CPU) is still executing CPU instructions as requested by the VMs while the hypervisor manages the schedule.
+
+Both physical machines and VMs typically communicate with the hypervisor through application programming interface (API) calls, protocols that enable software applications to communicate with each other to exchange data.
+
+There are two main types of hypervisors: type 1 and type 2.
+
+### Type 1 hypervisor
+
+A type 1 hypervisor runs right on the underlying computer's physical hardware, interacting directly with its central processing unit (CPU), memory and physical storage. For this reason, people also refer to type 1 hypervisors as bare-metal hypervisors or native hypervisors. A type 1 hypervisor takes the place of the host operating system.
+
+Type 1 hypervisors are highly efficient because they directly access physical hardware. This capability also increases their security because there is nothing in between them and the CPU that an attacker might compromise. However, a type 1 hypervisor often requires a separate management machine to administer different VMs and control the host hardware.
+
+### Type 2 hypervisor
+
+A type 2 hypervisor—also referred to as an embedded or hosted hypervisor—doesn't run directly on the underlying hardware. Instead, it runs as an application in an OS. Type 2 hypervisors rarely show up in server-based environments. Rather, they are suitable for individual PC users needing to run different operating systems. Examples include engineers, security professionals analyzing malware and business users who need access to applications only available on other software platforms.
+
+Type 2 hypervisors often feature additional toolkits for users to install into the guest OS. These tools provide enhanced connections between the guest and the host OS, usually enabling the user to cut and paste between the two or access host OS files and folders from within the guest VM.
+
+A type 2 hypervisor enables quick and easy access to an alternative guest OS alongside the primary one running on the host system—this capability supports end-user productivity. A consumer might use it to access their favorite Linux®-based development tools while using a speech dictation system only found in Windows, for example.
+
+However, because a type 2 hypervisor must access computing, memory and network resources via the host OS, it introduces latency issues that can affect performance. It also introduces potential security risks if an attacker compromises the host OS because they could manipulate any guest OS running in the type 2 hypervisor.
+
+## 
+ Hypervisors and virtual desktop integration (VDI)
+
+Type 1 hypervisors can virtualize more than just server operating systems. They can also virtualize desktop operating systems for companies that want to centrally manage their end-user IT resources. Known as desktop as a service (DaaS), this technology delivers complete desktop virtualization environments, including operating systems, applications, files and user preferences from the cloud.
+
+Virtual desktop integration (VDI) lets users work on desktops running inside virtual machines on a central server, making it easier for IT staff to administer and maintain their OSs.
+
+In this environment, a hypervisor will run multiple virtual desktops. Each desktop sits in its own VM, held in collections known as virtual desktop pools. Each VM serves a single user who accesses it over the network.
+
+The user's endpoint can be a relatively inexpensive thin client or a mobile device. This gives them the advantage of consistent access to the same desktop OS. They can get the same data and applications on any device without moving sensitive data outside a secure environment.
+
+Users don't connect to the hypervisor directly. Instead, they access a connection broker that coordinates with the hypervisor to source an appropriate virtual desktop from the pool.
+
+## 
+ Hypervisors in the marketplace
+
+Today, many hypervisors exist in the marketplace. Here are some top vendor-owned solutions.
+
+### VMware ESXi
+
+VMware ESXi (Elastic Sky X Integrated) is a type 1 (or bare-metal) hypervisor targeting server virtualization in the data center. ESXi manages collections of VMware virtual machines.
+
+Note: Broadcom acquired VMware in 2023 and no longer offers its free version of VMware ESXi (formerly part of its free VMware vSphere virtual server virtualization offering). Since the acquisition, Broadcom has transitioned VMware away from perpetual licenses and support and subscription (SNS) renewals to a subscription-based pricing model.2 VMware vSphere has been renamed VMware vSphere Foundation (VVF), an enterprise virtualization platform, available as a paid subscription software offering.
+
+### VMware Workstation Pro
+
+This hypervisor is compatible with desktop and laptop PCs running Windows and Linux operating systems.
+
+### VMware Fusion Pro
+
+Also for desktop and laptop users, this hypervisor is the company's MacOS-focused offering, which lets Mac users run a large range of guest operating systems. The VMware Fusion Pro is free for personal use and paid for commercial use.
+
+Note: VMware discontinued Workstation Player and VMware Fusion Player since starting VMware Workstation Pro and Fusion Pro.3
+
+### Oracle VM VirtualBox
+
+VirtualBox is a type 2 hypervisor running on Linux, Mac OS and Windows operating systems.
+
+Note: Oracle inherited this product when it bought Sun Microsystems in 2010.
+
+### Parallels Desktop
+
+Parallels Desktop is a hypervisor technology that allows users to run operating systems (like Linux or Windows) and other apps on a Mac.
+
+### Microsoft Hyper-V
+
+Hyper-V is Microsoft's hypervisor designed for use on Windows systems. It shipped in 2008 as part of Windows Server, meaning that customers needed to install the entire Windows operating system to use it. Microsoft subsequently made a dedicated version called Hyper-V Server available, which ran on Windows ServerCore. This enabled administrators to run Hyper-V without installing the full version of Windows Server. Hyper-V is also available on Windows clients.
+
+Microsoft designates Hyper-V as a type 1 hypervisor, even though it runs differently from many competitors. Hyper-V installs on Windows but runs directly on the physical hardware, inserting itself underneath the host OS. All guest operating systems run through the hypervisor, but the host system gets special hardware access, giving it a performance advantage.
+
+### Citrix Hypervisor
+
+Citrix Hypervisor (formerly Xen Server of the Xen open-source project) is a commercial type 1 hypervisor that supports Linux and Windows operating systems.
+
+## 
+ Open-source hypervisors
+
+Open-source hypervisor technologies offer cost-effectiveness, customization options and strong community support. Popular open-source hypervisors include the following.
+
+### Xen hypervisor
+
+This open-source type 1 hypervisor runs on Intel and ARM architectures. It began as a project at the University of Cambridge, and its team subsequently commercialized it by founding XenSource, which Citrix bought in 2007.4
+
+In 2013, the open-source project became a collaborative project under the Linux Foundation. Many cloud service providers use Xen to power their product offerings.
+
+Xen supports several types of virtualization, including hardware-assisted environments using Intel VT and AMD-V. It also supports paravirtualization, which tweaks the guest OS to work with a hypervisor, delivering performance gains.
+
+### Linux KVM (Kernel-based Virtual Machine)
+
+KVM is a Linux-based type-1 hypervisor that can be added to most Linux operating systems, including Ubuntu, SUSE and Red Hat Enterprise Linux (RHEL).
+
+Linux also has hypervisor capabilities built directly into the Linux kernel. The kernel-based virtual machine (KVM) became part of the Linux kernel mainline in 2007 and complements QEMU, a hypervisor emulating the physical machine's processor entirely in software. It supports most common Linux operating systems, including Solaris and Windows.
+
+KVM also supports virtualization extensions that Intel and AMD built into their processor architectures to better support hypervisors. These extensions, called Intel VT and AMD-V respectively, enable the processor to help the hypervisor manage multiple virtual machines. Where these extensions are available, the Linux kernel can use KVM. Otherwise, it falls back to QEMU.
+
+KVM is also downloadable on its own or as part of the free oVirt open-source virtualization solution.
+
+### Red Hat OpenShift Virtualization
+
+Red Hat® OpenShift® Virtualization is based on KubeVirt, an open-source project that makes it possible to run VMs on a Kubernetes-managed container platform. KubeVirt delivers container-native virtualization by using a KVM within a Kubernetes container.
+
+OpenShift Virtualization builds extra facilities around the KVM hypervisor. These features include a virtualization manager that provides a centralized management system with a search-driven graphical user interface. The solution also includes secure virtualization technologies that harden the hypervisor against attacks aimed at the host or virtual machines. Red Hat's hypervisor can run many operating systems, including Ubuntu.
+
+Note: Red Hat OpenShift Virtualization is the successor to Red Hat Enterprise Virtualization (RHV), which Red Hat announced it will end support for in 2026.5
+
+## 
+ Choosing the right hypervisor
+
+As explained, there are different categories of hypervisors and multiple brands of hypervisors within each category. If you’re looking to choose a hypervisor for your organization or for personal use, here are some factors that should guide your choice:
+
+- Performance
+
+- Ecosystem
+
+- Management tools
+
+- Live migration
+
+- Cost
+
+### Performance
+
+Look for benchmark data that show how well the hypervisor performs in a production environment. Ideally, bare-metal hypervisors should support guest OS performance close to native speeds.
+
+### Ecosystem
+
+You will need good documentation and technical support to implement and manage hypervisors across multiple physical servers at scale. Also, look for a healthy community of third-party developers that can support the hypervisor with their own agents and plugins that offer capabilities, such as backup and restore capacity analysis and fail-over management.
+
+### Management tools
+
+Running VMs is one of many things you must manage when using a hypervisor. You must provision the VMs, maintain them, audit them and clean up disused ones to prevent "VM sprawl." Ensure the vendor or third-party community supports the hypervisor architecture with comprehensive management tools.
+
+### Live migration
+
+Live migration enables you to move VMs between hypervisors on different physical machines without stopping them, which can be useful for both fail-over and workload balancing.
+
+### Cost
+
+Consider the cost and fee structure involved in licensing hypervisor technology. Don't just think about the cost of the hypervisor itself. The management software that makes it scalable to support an enterprise environment can often be expensive. Lastly, examine the vendor's licensing structure, which may change depending on whether you deploy it in the cloud or locally.
+
+ Link copied
+
+ Guide
+
+ Virtual server basics: a practical guide
+
+Learn how virtualization works in real environments—from networking and backups to migration—so you can build a strong foundation.
+
+ Download the guide
+
+## 
+
+ Resources
+
+ Guide
+
+ Virtualization meets cloud-native with OpenShift
+
+This document provides comprehensive guidance on designing solutions for running virtual machines using OpenShift® Virtualization on premises. 
+
+ Read the guide
+
+ ebook
+
+ Learn how to power AI and virtualization with smarter storage
+
+Discover how AI and analytics are reshaping data architecture demands. This guide explains why modern workloads require smarter storage strategies and how to prepare your environment for AI-driven virtualization at scale.
+
+ Read the ebook
+
+ ebook
+
+ Explore virtual server basics with IBM Power Systems
+
+Get a clear overview of how IBM® Power® Systems Virtual Servers handle networking, backups and migrations. This guide simplifies key virtualization concepts by using real-world scenarios—ideal for anyone building foundational skills.
+
+ Read the ebook
+
+ Report
+
+ Understand what can break during a VMware migration. And how to avoid it
+
+This white paper walks you through common traps, hidden risks and proven strategies to make your transition smooth, secure and cost-effective.
+
+ Read the report
+
+ ebook
+
+ Understand the role of AI value creation in business
+
+Explore how businesses can go beyond the hype and use generative AI to deliver real results. This ebook breaks down the strategies, challenges and success stories that show how AI can create lasting impact.
+
+ Read the ebook
+
+ Report
+
+ Top Strategic Technology Trends for 2025: Agentic AI
+
+Download this Gartner research to learn the potential opportunities and risks of agentic AI for IT leaders and learn how to prepare for this next wave of AI innovation.
+
+ Read the report
+
+ Report
+
+ AI Is Becoming the Largest Enterprise Workload. Is Your Infrastructure Ready?
+
+According to IDC's 2026 AI View survey, AI is rapidly overtaking all other workloads, yet many organizations lack the infrastructure strategy needed to scale successfully. Discover why integrated, full-stack AI platforms are becoming essential for accelerating deployment, improving ROI, and operationalizing AI across the enterprise.
+
+ Read the IDC report
+
+ Related solutions
+
+ IBM Storage Fusion
+
+Unlock faster, more resilient operations by unifying storage, protection, and orchestration for AI, VM, and container workloads.
+
+ Explore IBM Storage Fusion
+
+ IBM virtualization solutions
+
+Optimize and scale workloads across virtual and physical environments with efficient, flexible virtualization.
+
+ Explore IBM virtualization solutions
+
+ IBM infrastructure services
+
+Comprehensive technical expertise for your IBM Systems servers and storage.
+
+ Explore IBM infrastructure services
+
+Take the next step
+
+Supercharge your infrastructure with unified data services and virtualization — enabling elastic, high-performing workloads across hybrid environments.
+
+- 
+
+ Discover IBM Storage Fusion
+
+- 
+
+ Explore IBM virtualization solutions
+
+ Footnotes
+
+All links are located outside ibm.com
+
+1 Data Center Virtualization - Global Strategic Business Report. Research and Markets. October 2024
+
+2 VMware by Broadcom Dramatically Simplifies Offer Lineup and Licensing Model. Broadcom. December 11, 2023
+
+3 VMware Workstation Pro: Now Available Free for Personal Use. VMware. May 13, 2024
+
+4 Xen Project. Xen Project. The Linux Foundation Projects
+
+5 OpenShift Virtualization: Not as scary as it seems. Red Hat. June 12, 2024

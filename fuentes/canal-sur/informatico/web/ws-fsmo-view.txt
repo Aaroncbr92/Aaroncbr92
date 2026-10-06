@@ -1,0 +1,258 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/active-directory/view-transfer-fsmo-roles
+Leído: 2026-10-06 (ms.date 2026-02-12T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cómo ver y transferir roles FSMO
+
+- Se aplica a: Supported versions of Windows Server
+
+ Comentarios
+
+## 
+
+En este artículo se describe cómo ver y transferir roles FSMO.
+
+Número de KB original: 324801
+
+## Resumen
+
+En este artículo se describe cómo transferir roles de operaciones de maestros únicos flexibles (FSMO) (también conocidos como roles maestros de operaciones) mediante las herramientas de complemento de Active Directory en Microsoft Management Console (MMC).
+
+### Roles de FSMO
+
+En un bosque, hay al menos cinco roles FSMO asignados a uno o varios controladores de dominio. Los cinco roles FSMO son los siguientes:
+
+- Maestro de esquema: el maestro de esquema de dominio controla todas las actualizaciones y modificaciones que se ejecutan en el esquema de Active Directory. Para actualizar el esquema de un bosque, debe tener acceso al maestro de esquema. Solo puede haber un maestro de esquema en todo el bosque.
+
+- Maestro de nomenclatura de dominios: el controlador del maestro de nomenclatura de dominios controla la adición o eliminación de dominios en el bosque. Solo puede haber un maestro de nomenclatura de dominios en todo el bosque.
+
+- Maestro de infraestructura: la infraestructura es responsable de actualizar las referencias de objetos de su dominio a objetos de otros dominios. En cualquier momento, solo puede haber un controlador de dominio que actúe como maestro de infraestructura en cada dominio.
+
+Nota:
+
+El rol maestro de infraestructura (MI) ya no es necesario, ya que no tiene nada que hacer si el entorno usa la configuración recomendada. Consulte los artículos vinculados a continuación para obtener más información. En resumen, los escenarios son:
+
+- Todos los controladores de dominio del dominio son catálogos globales.
+
+- El bosque está configurado para usar la Papelera de reciclaje.
+
+El rol de IM debe establecerse siempre en un controlador de dominio válido para evitar que se notifiquen errores en los sistemas de seguimiento.
+
+- Maestro de identificador relativo (RID): el maestro de RID es responsable de procesar las solicitudes de grupo de RID de todos los controladores de dominio de un dominio determinado. En cualquier momento, solo puede haber un controlador de dominio que actúe como maestro de RID en el dominio.
+
+- Emulador de PDC: el emulador de PDC es un controlador de dominio que se anuncia como el controlador de dominio principal (PDC) en estaciones de trabajo, servidores miembros y controladores de dominio que ejecutan versiones anteriores de Windows. Por ejemplo, si el dominio contiene equipos que no ejecutan software cliente de Microsoft Windows XP Professional o Microsoft Windows 2000, o si contiene controladores de dominio de copia de seguridad de Microsoft Windows NT, el maestro del emulador de PDC actúa como un PDC de Windows NT. También es el Explorador maestro de dominio y controla las discrepancias de contraseñas. En cualquier momento, solo puede haber un controlador de dominio que actúe como el maestro emulador de PDC en cada dominio del bosque.
+
+Puede transferir roles FSMO mediante la utilidad de línea de comandos Ntdsutil.exe o mediante una herramienta de complemento MMC. En función del rol FSMO que quiera transferir, puede usar una de las tres herramientas de complemento MMC siguientes:
+
+Complemento Esquema de Active Directory
+
+Complemento Dominios y confianzas de Active Directory
+
+Complemento Usuarios y equipos de Active Directory
+
+Si ya no existe un equipo, se debe asumir el rol. Para asumir un rol, emplee la utilidad Ntdsutil.exe.
+
+Para obtener información adicional sobre cómo usar la utilidad Ntdsutil.exe para asumir los roles FSMO, haga clic en el número de artículo siguiente para ver el artículo en Microsoft Knowledge Base:
+
+255504 Usar Ntdsutil.exe para incauter o transferir los roles FSMO a un dominio
+
+Use el complemento Maestro de esquema de Active Directory para transferir el rol de maestro de esquema. Para poder usar este complemento, debe registrar el archivo Schmmgmt.dll.
+
+### Registrar Schmmgmt.dll
+
+- Haga clic en Inicio y luego en Ejecutar.
+
+- Escriba regsvr32 schmmgmt.dll en el cuadro Abrir y, después, haga clic en Aceptar.
+
+- Haga clic en Aceptar cuando reciba el mensaje de que la operación se llevó a cabo correctamente.
+
+### Transferir el rol de maestro de esquema
+
+- Haga clic en Inicio y en Ejecutar. En el cuadro Abrir, escriba mmc y, a continuación, haga clic en Aceptar.
+
+- En el menú Archivo, haga clic en Agregar o quitar complemento.
+
+- Haga clic en Agregar.
+
+- Haga clic en Esquema de Active Directory, en Agregar, en Cerrar y, después, en Aceptar.
+
+- En el árbol de consola, haga clic con el botón derecho en Esquema de Active Directory y haga clic en Cambiar controlador de dominio.
+
+- Haga clic en Especificar nombre, escriba el nombre del controlador de dominio que será el nuevo contenedor del rol y, por último, haga clic en Aceptar.
+
+- En el árbol de consola, haga clic con el botón derecho en Esquema de Active Directory y luego haga clic en Maestro de operaciones.
+
+- Haga clic en Cambiar.
+
+- Haga clic en Aceptar para confirmar que desea transferir el rol y, después, en Cerrar.
+
+### Transferir el rol Maestro de nomenclatura de dominios
+
+- 
+Haga clic en Inicio, seleccione Programas, apunte a Herramientas administrativas y, a continuación, haga clic en Dominios y confianzas de Active Directory.
+
+- 
+Haga clic con el botón derecho en Dominios y confianzas de Active Directory y luego haga clic en Conectar al controlador de dominio.
+
+Nota:
+
+Debe realizar este paso si no está en el controlador de dominio al que desea transferir el rol. No es necesario que realice este paso si ya está conectado al controlador de dominio cuyo rol desea transferir.
+
+- 
+Realice alguna de las siguientes acciones:
+
+- En el cuadro Introduzca el nombre de otro controlador de dominio, escriba el nombre del controlador de dominio que será el nuevo contenedor del rol y después haga clic en Aceptar.
+
+O bien
+
+- En la lista O, seleccione un controlador de dominio disponible, haga clic en el controlador de dominio que será el nuevo titular del rol y, a continuación, haga clic en Aceptar.
+
+- 
+En el árbol de consola, haga clic con el botón derecho en Dominios y confianzas de Active Directory y, después, haga clic en Maestro de operaciones.
+
+- 
+Haga clic en Cambiar.
+
+- 
+Haga clic en Aceptar para confirmar que desea transferir el rol y, después, en Cerrar.
+
+### Transferir los roles de maestro RID, emulador de PDC y maestro de infraestructura
+
+- 
+Haga clic en Inicio, apunte a Programas, seleccione Herramientas administrativas y, a continuación, haga clic en Usuarios y equipos de Active Directory.
+
+- 
+Haga clic con el botón derecho en Usuarios y equipos de Active Directory y, a continuación, haga clic en Conectar en Controlador de dominio.
+
+Nota:
+
+Debe realizar este paso si no está en el controlador de dominio al que desea transferir el rol. No es necesario que realice este paso si ya está conectado al controlador de dominio cuyo rol desea transferir.
+
+- 
+Realice alguna de las siguientes acciones:
+
+- En el cuadro Introduzca el nombre de otro controlador de dominio, escriba el nombre del controlador de dominio que será el nuevo contenedor del rol y después haga clic en Aceptar.
+
+O bien
+
+- En la lista O, seleccione un controlador de dominio disponible, haga clic en el controlador de dominio que será el nuevo titular del rol y, a continuación, haga clic en Aceptar.
+
+- 
+En el árbol de consola, haga clic con el botón derecho en Usuarios y equipos de Active Directory, seleccione Todas las tareas y haga clic en Maestro de operaciones.
+
+- 
+Haga clic en la pestaña adecuada para el rol que desea transferir (RID, PDC o Infraestructura) y, a continuación, haga clic en Cambiar.
+
+- 
+Haga clic en Aceptar para confirmar que desea transferir el rol y, después, en Cerrar.
+
+## Referencias
+
+Para más información, vea:
+
+- Roles de FSMO de Active Directory en Windows
+
+- Ubicación y optimización del FSMO en los controladores de dominio de Active Directory
+
+- Proceso de transferencia y asunción de Flexible Single Master Operation
+
+- PROCEDIMIENTO: usar Ntdsutil para buscar y limpiar identificadores de seguridad duplicados
+
+- Solución de problemas del identificador de evento DNS 4013: el servidor DNS no pudo cargar zonas DNS integradas de AD
+
+- Se produce un error en la degradación de DCPROMO si no se puede ponerse en contacto con el maestro de infraestructura DNS
+
+- Roles de FSMO
+
+- Realización de la recuperación inicial
+
+- Recuperación del bosque de AD: aprovechando un rol de maestro de operaciones
+
+- Limpia los metadatos del servidor mediante la línea de comandos
+
+- Planear la ubicación del rol de maestro de operaciones
+
+- Move-ADDirectoryServerOperationMasterRole
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ Sí
+
+ No
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ ¿Sugerir una corrección? 
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2026-02-12
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

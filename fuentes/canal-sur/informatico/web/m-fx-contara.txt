@@ -1,0 +1,73 @@
+URL: https://support.microsoft.com/es-es/excel/functions/counta-function
+Leído: 2026-10-06
+
+# Función COUNTA
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+En este artículo se describen la sintaxis de la fórmula y el uso de la función CONTARA en Microsoft Excel. 
+
+## Descripción
+
+La función CONTARA cuenta el número de celdas que no están vacías en un rango.
+
+## Sintaxis
+
+CONTARA(valor1; [valor2]; ...)
+
+La sintaxis de la función CONTARA tiene los siguientes argumentos:
+
+- 
+ valor1 Obligatorio. Primer argumento que representa los valores que desea contar.
+
+- 
+ valor2, ... Opcional. Argumentos adicionales que representan los valores que se desea contar, hasta un máximo de 255 argumentos.
+
+## Observaciones
+
+- La función CONTARA cuenta las celdas que contienen cualquier tipo de información, incluidos los valores de error y texto vacío (""). Por ejemplo, si el rango contiene una fórmula que devuelve una cadena vacía, la función CONTARA cuenta ese valor. La función CONTARA no cuenta celdas vacías.
+
+- Si no necesita contar valores lógicos, texto o valores de error (en otras palabras, si desea contar solo las celdas que contienen números), use la función CONTAR.
+
+- Si desea contar solo celdas que cumplan con determinados criterios, use la función CONTAR.SI o la función CONTAR.SI.CONJUNTO.
+
+## Ejemplo
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar el ancho de las columnas para ver todos los datos.
+
+ | 
+ Datos
+ | 
+ | 
+
+ | 39790
+ | 
+ | 
+
+ | 19
+ | 
+ | 
+
+ | 22,24
+ | 
+ | 
+
+ | VERDADERO
+ | 
+ | 
+
+ | #¡DIV/0!
+ | 
+ | 
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =CONTARA(A2:A6)
+ | Cuenta el número de celdas no vacías entre las celdas A2 y A6.
+ | 5

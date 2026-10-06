@@ -1,0 +1,110 @@
+URL: https://support.microsoft.com/es-es/excel/functions/average-function
+Leído: 2026-10-06
+
+# Función PROMEDIO
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+En este artículo se describen la sintaxis de fórmula y el uso de la función PROMEDIO en Microsoft Excel.
+
+## Descripción
+
+Devuelve el promedio (media aritmética) de los argumentos. Por ejemplo, si el rango A1:A20 contiene números, la fórmula =PROMEDIO(A1:A20) devuelve el promedio de esos números.
+
+## Sintaxis
+
+PROMEDIO(número1; [número2]; ...)
+
+La sintaxis de la función PROMEDIO tiene los siguientes argumentos:
+
+- 
+ Número1 Obligatorio. El primer número, referencia de celda o rango para el que desea el promedio.
+
+- 
+ Número 2, ... Opcional. Números, referencias de celda o rangos adicionales para los que desea el promedio, hasta un máximo de 255.
+
+## Observaciones
+
+- Los argumentos pueden ser números o nombres, rangos o referencias de celda que contengan números.
+
+- No se tienen en cuenta los valores lógicos y las representaciones textuales de los números que escriba directamente en la lista de argumentos.
+
+- Si el argumento de un rango o celda de referencia contiene texto, valores lógicos o celdas vacías, estos valores se pasan por alto; sin embargo, se incluirán las celdas con el valor cero.
+
+- Los argumentos que sean valores de error o texto que no se pueda traducir a números provocan errores.
+
+- Si desea incluir valores lógicos y representaciones textuales de números en una referencia como parte del cálculo, use la función PROMEDIOA.
+
+- Si desea calcular el promedio de solo los valores que cumplen ciertos criterios, use la función PROMEDIO.SI o la función PROMEDIO.SI.CONJUNTO.
+
+Nota
+
+La función PROMEDIO mide la tendencia central, que es la ubicación del centro de un grupo de números en una distribución estadística. Las tres medidas más comunes de tendencia central son las siguientes:
+
+- 
+ Promedio, que es la media aritmética y se calcula sumando un grupo de números y dividiendo a continuación por el recuento de dichos números. Por ejemplo, el promedio de 2, 3, 3, 5, 7 y 10 es 30 dividido por 6, que es 5.
+
+- 
+ Mediana, que es el número intermedio de un grupo de números; es decir, la mitad de los números son superiores a la mediana y la mitad de los números tienen valores menores que la mediana. Por ejemplo, la mediana de 2, 3, 3, 5, 7 y 10 es 4.
+
+- 
+ Moda, que es el número que aparece más frecuentemente en un grupo de números. Por ejemplo, la moda de 2, 3, 3, 5, 7 y 10 es 3.
+
+Para una distribución simétrica de un grupo de números, estas tres medidas de tendencia central son iguales. Para una distribución sesgada de un grupo de números, las medidas pueden ser distintas.
+
+Recomendación
+
+Al calcular el promedio de celdas, tenga en cuenta la diferencia existente entre las celdas vacías y las que contienen el valor cero, especialmente cuando desactiva la casilla Mostrar un cero en celdas que tienen un valor cero en el cuadro de diálogo Opciones de Excel de la aplicación de escritorio de Excel. Cuando se activa esta opción, las celdas vacías no se tienen en cuentan pero sí los valores cero.
+
+Para encontrar la casilla Mostrar un cero en celdas que tienen un valor cero:
+
+- En la pestaña Archivo, seleccione Opciones y, a continuación, en la categoría Avanzadas, busque esta hoja de cálculo en Opciones de visualización.
+
+## Ejemplo
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar el ancho de las columnas para ver todos los datos.
+
+ | 
+ Datos
+ | 
+ | 
+
+ | 10
+ | 15
+ | 32
+
+ | 7
+ | 
+ | 
+
+ | 9
+ | 
+ | 
+
+ | 27
+ | 
+ | 
+
+ | 2
+ | 
+ | 
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =PROMEDIO(A2:A6)
+ | Promedio de los números en las celdas A2 a A6.
+ | 11
+
+ | =PROMEDIO(A2:A6, 5)
+ | Promedio de los números en las celdas A2 a A6 y el número 5.
+ | 10
+
+ | =PROMEDIO(A2:C2)
+ | Promedio de los números en las celdas A2 a C2.
+ | 19

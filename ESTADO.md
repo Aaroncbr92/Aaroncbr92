@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-26 (Canal Sur · específicos: 10 puestos cerrados)
+**Última actualización:** 2026-09-26 (Canal Sur · específicos: 11 puestos cerrados)
 
 ## Qué es esto
 
@@ -1857,10 +1857,13 @@ con los datos de cada puesto en `informes/canal-sur-especificos/PP-args.json` (s
 | 05 Ayudante de Realización | 6 | 18 | cerrado (8 temas copiados de Realizador/a) | `libro-canal-sur-05-ayudante-realizacion.*` (638 pp.) |
 | 31 Presentador Productor de Radio | 1 | 18 | cerrado (adelantado a petición del titular) | `libro-canal-sur-31-presentador-radio.*` (479 pp.) |
 | 27 Oficial Técnico Electricista | 5 | 19 | cerrado | `libro-canal-sur-27-electricista.*` (625 pp.) |
+| 29 Operador/a Informático | 5 | 16 | cerrado | `libro-canal-sur-29-informatico.*` (389 pp.) |
 
-Diez puestos cerrados: 161 de las 228 plazas (71 %) tienen ya temario completo, común y específico.
+Once puestos cerrados: 166 de las 228 plazas (73 %) tienen ya temario completo, común y específico.
 
-Siguiente puesto por plazas: 29 Operador/a Informático (5 plazas, 16 temas).
+Siguiente puesto por plazas: 04 Ayudante de Producción (4 plazas, 17 temas).
+
+Aviso para los temas técnicos: marcadores como `<usuario>` fuera de código rompen el PDF; antes de montar el volumen se escapan (`&lt;…&gt;`) los que no van entre comillas de código.
 
 Decisión pendiente del titular: extensión objetivo de los temas técnicos (ahora ~11.000 palabras
 por tema; propuesta 6.000-8.000 para rebajar el gasto por puesto, hoy 13-15 M de tokens).

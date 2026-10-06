@@ -1,0 +1,592 @@
+URL: https://aws.amazon.com/what-is/vdi/
+Leído: 2026-10-06
+
+What is VDI? - Virtual Desktop Infrastructure Explained - AWS
+
+ Skip to main content
+
+- 
+
+ Filter: All
+
+- 
+
+- 
+
+- 
+ English
+
+- Contact us
+
+- AWS Marketplace
+
+- Support 
+
+- My account 
+
+- 
+
+- 
+
+- 
+
+ re:Invent
+
+- 
+
+ Discover AWS
+
+- 
+
+ Products
+
+- 
+
+ Solutions
+
+- 
+
+ Pricing
+
+- 
+
+ Resources
+
+- 
+
+ Search
+
+ Filter: All
+
+- 
+
+ Sign in to console
+
+- Create account
+
+ Explore topics
+
+ re:Invent 2026
+
+ The session catalog is live. Explore what's waiting for you
+
+ Build & Deploy AI Agents
+
+ 88% of agent pilots stall. Learn what the rest do differently
+
+ Independent Software Vendors
+
+ AI for software & tech: build, scale, and monetize
+
+ Data for agentic AI
+
+ The 7 essential data capabilities to scale agentic AI
+
+ Agent Toolkit
+
+ Give AI coding agents up-to-date docs and AWS resource access
+
+ Amazon Quick
+
+ Answers grounded in your actual business data
+
+ News & announcements
+
+ AWS blog
+
+ About AWS
+
+AWS is the world's most comprehensive cloud, enabling organizations to accelerate innovation, reduce costs, and scale more efficiently
+
+- Why AWS
+
+- Getting Started
+
+- Security
+
+- Compliance
+
+- Trust Center
+
+- Sustainability
+
+- Global Infrastructure
+
+- Featured Products
+
+- Analytics
+
+- Application Integration
+
+- Artificial Intelligence
+
+- Business Applications
+
+- Compute
+
+- Customer Experience
+
+- Databases
+
+- Developer Tools
+
+- End User Computing
+
+- Game Tech
+
+- Management Tools
+
+- Media Services
+
+- Migration & Modernization
+
+- Multicloud & Hybrid
+
+- Networking & Content Delivery
+
+- Operations
+
+- Security & Identity
+
+- Storage
+
+- Supply Chain
+
+ Browse all products
+
+ Transformation Hubs
+
+Migrate to modernize → Modernize to unlock data → unlock data to run AI
+
+ Migrate & Modernize
+ Clear technical debt, modernize infrastructure, and move to the cloud
+
+ Data & Analytics
+ Future proof your data foundation for agentic AI
+
+ Artificial Intelligence
+ Get production-ready AI that automates, builds, creates, decides, and engages at scale
+
+ Featured Products
+
+Get started with one of these featured services or browse all
+Browse all products
+
+ Amazon Quick
+ AI-powered assistant for work with research, business insights, automation, and no-code app building
+
+ Transform
+ Eliminate tech debt with agentic AI to modernize legacy systems and code
+
+ Aurora
+ Serverless relational database service for PostgreSQL, MySQL, and DSQL
+
+ Amazon Bedrock
+ The end-to-end platform for building generative AI applications and agents
+
+ Amazon Connect Customer
+ AI-native solution for delivering exceptional experiences across customer interactions
+
+ EC2
+ Secure and resizable compute capacity for virtually any workload
+
+ What’s new
+ Explore new capabilities and the latest technologies
+
+ Customer success stories
+ Learn how customers around the world accelerate their cloud
+
+- Featured
+
+- By industry
+
+- By organization type
+
+- Solutions Library
+
+ Solutions for any organization
+
+From startups to enterprises, find AWS solutions scaled to your needs. Access tailored resources, pricing models, and support levels.
+
+ Analytics Solutions
+ Discover curated Solutions that address varied analytics use cases
+
+ AI Solutions
+ Discover curated Solutions that address varied artificial intelligence use cases
+
+ Migration & Modernization Solutions
+ Discover curated Solutions that address varied migration and modernization use cases
+
+ What's new
+ Explore new capabilities and the latest technologies
+
+ Customer success stories
+ Learn how customers around the world accelerate their cloud
+
+ Pricing overview & tools
+
+ AWS Pricing
+ Learn about pricing and plans in one place
+
+ AWS Pricing Calculator
+ Estimate the cost for your architecture solution
+
+ AWS Free Tier
+ Get free, hands-on experience with AWS products and services
+
+ AWS Offers
+ Explore different offer programs to gain hands-on experience
+
+ AWS Savings Plans
+ Flexible pricing model offering lower prices
+
+ Single-product pricing
+
+ Amazon S3
+
+ Amazon Bedrock
+
+ Amazon RDS
+
+ Amazon EC2
+
+ Amazon SageMaker
+
+ Browse all product pricing
+
+ Learn
+
+ Documentation
+ Get detailed technical guides and references for all AWS services and tools
+
+ Training & Certification
+ Build and validate your AWS cloud skills and technical expertise
+
+ Cloud term glossary
+ Learn more about key cloud computing concepts
+
+ Whitepapers
+ Expand your knowledge of the cloud with expert guides and diagrams
+
+ Cloud fundamentals
+ Step-by-step instructions for common AWS tasks
+
+ Tutorials
+ Get started with step-by-step instructions
+
+ Connect & Support
+
+ Builder Center
+ Learn, build, and connect with builders in the AWS community
+
+ Events and webinars
+ Connect, collaborate, and learn from AWS experts in the cloud computing community
+
+ Partner Network
+ Collaborate with AWS partners to grow your business
+
+ Marketplace
+ Find, test, buy, and deploy third-party software
+
+ Support
+ Access proactive guidance, issue resolution, and helpful tools
+
+ Professional services
+ Accelerate business transformation with expert guidance and packaged solutions
+
+- What is Cloud Computing?
+
+- Cloud Computing Concepts Hub
+
+- End-User Computing (EUC)
+
+- What is VDI (Virtual Desktop Infrastructure)?
+
+# What is VDI (Virtual Desktop Infrastructure)?
+
+ Create an AWS Account
+
+- What is VDI (Virtual Desktop Infrastructure)?
+
+- What are the benefits of VDI?
+
+- What is virtual desktop infrastructure used for?
+
+- How does desktop virtualization work?
+
+- What are the types of VDI?
+
+- What are desktop images?
+
+- What are cloud-native virtualized desktops?
+
+- How can AWS support your VDI?
+
+## What is VDI (Virtual Desktop Infrastructure)?
+
+Virtual desktop infrastructure (VDI) is a range of infrastructure and tools to centrally create and manage virtual desktops. Virtual desktops are virtualized instantiations of desktop computers, delivered over a network to end users. VDI technology creates a virtual desktop on a central server, and remote users can access this desktop from a physical machine over the internet. VDI can quickly and efficiently set up many virtual desktops to provide secure remote access to internal business applications and services. Thus, using VDI, you can cost-effectively and flexibly scale up any enterprise desktop infrastructure.
+
+## What are the benefits of VDI?
+
+Virtual desktop infrastructure (VDI) brings many benefits to desktop management. Virtual desktops are more convenient to manage and scale than physical desktops. For example, here are some of the benefits of virtual desktop configurations:
+
+### Manage virtual desktops centrally
+
+VDI brings centralized management to your virtual desktop environment. Administrators can patch, update, and change multiple virtual desktops at the same time. Admins can also save and back up virtual desktop data for disaster recovery.
+
+### Scale virtual desktops as needed
+
+Since the server-based virtual desktop technology sits on a central system, it can easily scale up or down. This virtual desktop solution becomes even more flexible when hosted in the cloud. Organizations can use a cloud service provider's platform to deploy and manage thousands of virtual desktops. Using a cloud-based virtual desktop service means there are no underlying hardware costs.
+
+### Increase accessibility
+
+You can access virtual desktop environments from anywhere and on any device. Virtual desktops improve user experience with the ability for employees to BYOD (bring your own device) to the workplace or gain seamless remote access from any location. VDI creates a highly personalized digital workspace, making it more convenient to work from home or remotely.
+
+### Maintain internal security standards
+
+The VDI environment is highly secure because the entire infrastructure is under enterprise control. Sensitive data from multiple virtual desktops sits on a single physical server. You can secure this centrally managed server or host server to meet internal standards. Remote workers can access the data from any device by following suitable authentication processes. The remote machines do not pose a security risk, even if they are lost or stolen.
+
+### Lower costs
+
+Virtual desktop technology brings down IT expenditure because it reduces the hardware costs of purchasing new traditional desktops. Virtual desktops offer a reduction in ongoing management costs because you can maintain them using software processes.
+
+## What is virtual desktop infrastructure used for?
+
+VDI has several use cases across different industries that employ remote workers, contractors, field technicians, and kiosk workers. We give some example use cases below.
+
+### Call centers
+
+Call center employees use VDI solutions to access specific information and tools to complete remote assistance tasks. Using VDI helps them streamline efficiency and reduce costs.
+
+### Remote work
+
+Geographically dispersed employees use virtual environments to access the company network, applications, and resources without compromising security.
+
+### Regulatory compliance
+
+Heavily regulated industries use VDI to secure confidential information. Remote data centers store sensitive information, and employees use virtual desktops to access it. Using VDI eliminates the problem of incorrect data access.
+
+### Third-party access
+
+Contractors, business associates, and partner services sometimes require access to internal company systems. However, supplying company-owned hardware can be expensive, especially for shorter projects. A VDI environment is an ideal solution that minimizes security risk and gives efficient access to third parties.
+
+### Cloud service integration
+
+When using VDI in a cloud environment, you can configure these virtual desktops to take advantage of other cloud services. For example, if you provide cloud-based remote desktops to software developers, you can integrate cloud-based software development tools, environments, and infrastructure.
+
+## How does desktop virtualization work?
+
+VDI has a software layer that abstracts desktop functions, including the operating system functions. Virtualization technology decouples the operating system from the physical desktop. A software application acts as your desktop, on which you can install any operating system and applications. A VDI is a type of remote desktop virtualization because the virtual desktop is hosted remotely for the end user.
+
+For example, typically, Microsoft Windows desktops are physical machines with the Microsoft Windows operating system installed on them. However, virtualized desktops could have a Linux desktop sitting on a Windows server machine. You could access this Linux desktop operating system from your Mac computer without installing Linux on your machine.
+
+A VDI environment consists of two main components: a virtual machine and a connection broker.
+
+### Virtual machine
+
+Virtual machines are the foundation of any desktop virtualization solution. A virtual machine runs on an underlying physical machine, also known as the host server. The hypervisor is the software that makes this possible. The hypervisor allocates resources from the host server to multiple virtual machines, each with its own operating system. These virtual machines use the hypervisor to access the memory, CPU, and other resources of the host server. This configuration allows you to run multiple operating systems on one physical hardware server or cloud instance.
+
+Connection broker
+
+The connection broker is the software that facilitates the remote connection between end users and specific virtual machines. When a user connects to the remote desktop services, this software layer creates a new session for their virtual desktop environment. The connection broker also facilitates interactions between the remote user and the virtual desktop. For example, the connection broker provides screen updates and sends mouse clicks and keystrokes to the virtual desktop.
+
+## What are the types of VDI?
+
+There are two types of virtual desktop infrastructure (VDI) deployment methods: persistent VDI and non-persistent VDI.
+
+### Persistent virtual desktop deployment
+
+Persistent virtual desktop deployments are remote desktops saved for individual end users. Users can have persistent desktops that they can customize and reuse repeatedly. Persistent virtual desktops offer the ability to save data on the machine for future use. These types of virtual desktop solutions require persistent storage, even when the virtual machine is not in use.
+
+### Nonpersistent VDI deployment
+
+Nonpersistent VDI deployments are single-use desktop instances. The centralized server creates a new generic desktop virtualization for every user and then destroys the desktop after use. Nonpersistent desktops are cost-effective when organizations have a large workforce using business applications for repetitive administrative tasks.
+
+For example, call center employees require a standard set of applications for their work. Any data they create is stored remotely in the business application. You can set up a new nonpersistent VDI for them in every session, and it will not cause them to lose any work.
+
+## What are desktop images?
+
+A desktop image is a desktop template file that defines the operating system, configuration, and applications on the remote desktop. A desktop image is like a blueprint for a full desktop environment. Golden images are standardized desktop images that administrators use to quickly deploy the same desktop for multiple users.
+
+Administrators use virtual desktop infrastructure (VDI) management software to manage the images in a central repository, assigning them to users, maintaining different versions of desktop images, and configuring system updates for images.
+
+## What are cloud-native virtualized desktops?
+
+With cloud-native virtual desktops, you host the remote virtual desktop on a cloud instance. A cloud-hosted VDI solution has all the advantages of cloud infrastructure, such as:
+
+- Pay-per-use service
+
+- Ability to scale up or down as required
+
+- Lower hardware investment
+
+- Faster integration with other cloud services
+
+Cloud-native virtual desktops offer significant benefits compared to self-managed infrastructure.
+
+Two types of VDI services use cloud infrastructure: fully managed and desktop as a service.
+
+### Fully managed VDI service
+
+Fully managed VDI service is a virtual desktop management software that is available as a cloud-based service for your administrators. The service supports administrators by providing features like existing desktop image templates, built-in security and data encryption, and management of operating system licenses. Your administrators perform the deployment, monitoring, application life cycle management, and other tasks to implement the VDI.
+
+For example, Amazon WorkSpaces is a fully managed virtual desktop solution. Amazon WorkSpaces offers both persistent virtual desktops (Amazon WorkSpaces Personal) and non-persistent desktops (Amazon WorkSpaces Pools).
+
+### Desktop as a service (DaaS)
+
+Desktop as a service is a third-party solution that supports the implementation of managed VDI services. DaaS providers offer a turn-key solution, deploying the fully managed service for your organization and also taking over administration responsibilities, reducing the need for in-house IT resourcing. Instead of your administrators looking after the VDI infrastructure, the solution provider takes care of the administration for you.
+
+For example, Virtusa’s Desktop-as-a-Service is a third-party solution that enables organizations to begin operating virtual desktops across the entire business in just a few days. Virtusa uses Amazon WorkSpaces Family as its managed cloud infrastructure. This AWS partner service offers administrative tasks for the remote work architecture, such as application lifecycle management, endpoint delivery, and ongoing virtual desktop monitoring. 
+
+## How can AWS support your VDI?
+
+Amazon WorkSpaces Family is the range of AWS remote desktop services for secure, flexible, cost-effective VDI for every use case.
+
+Amazon WorkSpaces is a fully managed virtual desktop infrastructure (VDI) service that helps organizations provide end users access to applications and data while optimizing costs and maximizing productivity. WorkSpaces gives organizations the flexibility to choose between highly configurable virtual desktops for workers that need access to a consistent, personalized environment each time they log in or pools of virtual desktops shared across multiple users to help reduce costs.
+
+With Amazon WorkSpaces:
+
+- Your users get a better experience and more functionality than with a traditional PC, and you get a simpler way to provision desktops for users.
+
+- You can get started by selecting one of the Amazon WorkSpaces bundles, which offer different hardware and software options, and then launch the number of WorkSpaces you require.
+
+- You can maintain full data security and compliance. WorkSpaces provides a familiar desktop experience to the user while the data remains on AWS or in your on-premises environment.
+
+- You can provide each user with access to varying amounts of persistent storage (SSD volumes) on AWS. The system automatically and regularly backs up data that you store on the user volume in WorkSpaces to Amazon S3.
+
+Amazon WorkSpaces Core offers cost-effective, simple, flexible cloud desktop infrastructure and APIs for VDI software from Citrix virtual apps, Omnissa, Workspot, and Leostream. Amazon WorkSpaces Core provides a new way to work with your existing VDI infrastructure in the cloud.
+
+Amazon WorkSpaces Secure Browser provides a protected environment for users to access private websites, software-as-a-service (SaaS) applications, and the public internet. WorkSpaces Secure Browser works with the browser running locally on the end-user’s device. Amazon WorkSpaces Secure Browser is a lightweight alternative to full VDI that provides value in browser-driven workplaces.
+
+Amazon WorkSpaces Thin Client reduces end-user computing costs and simplifies device logistics by shipping directly from Amazon fulfillment centers to end users or company locations. End users can set up a device in minutes, with no IT assistance. Thin clients are end-user terminals designed specifically for VDI.
+
+Get started with virtual desktops on AWS by creating a free account today.
+
+## AWS next steps
+
+### Check out additional product-related resources
+
+ Learn more
+
+### Sign up for a free account
+
+Instantly get access to the AWS Free Tier.
+
+ Sign up
+
+### Start building in the console
+
+Get started building with AWS in the AWS Management Console.
+
+ Sign in
+
+## Browse all cloud computing concepts
+
+Browse all cloud computing concepts content here:
+
+Loading
+
+Loading
+
+Loading
+
+Loading
+
+Loading
+
+## Did you find what you were looking for today?
+
+Let us know so we can improve the quality of the content on our pages
+
+ Yes
+ No
+
+ Create an AWS account
+
+## Learn
+
+- What Is AWS?
+
+- What Is Cloud Computing?
+
+- What Is Agentic AI?
+
+- Cloud Computing Concepts Hub
+
+- AWS Cloud Security
+
+- What's New
+
+- Blogs
+
+- Press Releases
+
+## Resources
+
+- Getting Started
+
+- Training
+
+- AWS Trust Center
+
+- AWS Solutions Library
+
+- Architecture Center
+
+- Product and Technical FAQs
+
+- Analyst Reports
+
+- AWS Partners
+
+## Developers
+
+- Builder Center
+
+- SDKs & Tools
+
+- .NET on AWS
+
+- Python on AWS
+
+- Java on AWS
+
+- PHP on AWS
+
+- JavaScript on AWS
+
+## Help
+
+- Contact Us
+
+- File a Support Ticket
+
+- AWS re:Post
+
+- Knowledge Center
+
+- AWS Support Overview
+
+- AWS Accessibility
+
+- Legal
+
+- Event Code of Conduct
+
+- Event Terms & Conditions
+
+ English
+
+ Back to top
+
+ Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability or other legally protected status. Veterans, military spouses, and people with disabilities are encouraged to apply.
+
+- Privacy
+
+- Site terms
+
+- Your Privacy Choices 
+
+- Cookie Preferences
+
+ © 2026, Amazon Web Services, Inc. or its affiliates. All rights reserved.

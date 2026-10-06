@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 13 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Normas técnicas de Internet (RFC del IETF), páginas del comité IEEE 802 y de su grupo 802.11, de la Wi-Fi Alliance, documentación de Microsoft, Google, Juniper Networks, la ICANN, el RIPE NCC y la UIT, la *Brief History of the Internet* de la Internet Society y un manual universitario abierto (Bonaventure, Universidad Católica de Lovaina) |
-| Redacción que se estudia | Versión en línea de cada documento el 05-10-2026, leída ese día: TLS 1.3 según el RFC 9846 (julio de 2026), HTTP según el RFC 9110, IPv6 según el RFC 8200, IEEE 802.11-2024 con la enmienda 802.11be-2024 |
-| Extensión | 16.000 palabras aproximadamente (con tablas y siglas) |
+| Fuente | Sin norma jurídica. Normas técnicas de Internet (RFC del IETF), páginas del comité IEEE 802 y de su grupo 802.11, de la Wi-Fi Alliance, documentación de Microsoft, Google, Juniper Networks, Cisco, la ICANN, el RIPE NCC y la UIT, la *Brief History of the Internet* de la Internet Society y un manual universitario abierto (Bonaventure, Universidad Católica de Lovaina) |
+| Redacción que se estudia | Versión en línea de cada documento el 05-10-2026 o el 06-10-2026, leída ese día: TLS 1.3 según el RFC 9846 (julio de 2026), HTTP según el RFC 9110, IPv6 según el RFC 8200, IEEE 802.11-2024 con la enmienda 802.11be-2024 |
+| Extensión | 17.500 palabras aproximadamente (con tablas y siglas) |
 
 <!-- /portada -->
 
@@ -63,7 +63,8 @@ entradas y salidas múltiples multiusuario (MU-MIMO); modulación de amplitud en
 tiempo de activación programado (TWT); privacidad equivalente a la del cable (WEP, *Wired Equivalent
 Privacy*) y protocolo de integridad de clave temporal (TKIP, *Temporal Key Integrity Protocol*);
 acceso protegido Wi-Fi (WPA, *Wi-Fi Protected Access*, y sus versiones WPA2 y WPA3); norma de cifrado avanzado (AES, *Advanced Encryption Standard*); tramas de gestión
-protegidas (PMF, *Protected Management Frames*). Autenticación: protocolo de autenticación extensible (EAP), EAP
+protegidas (PMF, *Protected Management Frames*); autenticación simultánea de iguales (SAE,
+*Simultaneous Authentication of Equals*). Autenticación: protocolo de autenticación extensible (EAP), EAP
 sobre LAN (EAPOL) y sus métodos EAP-TLS, PEAP (EAP protegido) y EAP-MSCHAP v2 (protocolo de
 autenticación por desafío mutuo de Microsoft, versión 2); servicio de autenticación remota telefónica
 de usuario (RADIUS, *Remote Authentication Dial In User Service*); protocolo punto a punto (PPP);
@@ -81,16 +82,16 @@ de Active Directory (AD DS); red privada virtual (VPN); ordenador personal (PC).
 Qué se puede preguntar: cómo define Internet el FNC y qué principios de arquitectura fijó Kahn;
 cuántas capas tiene el modelo TCP/IP y cuántas el OSI, y en qué capa trabaja cada protocolo y cada
 equipo; cuándo nació ARPANET, cuándo pasó a TCP/IP y cuándo se agotaron las direcciones IPv4; qué
-puerto usa cada servicio; qué significa que HTTP sea un protocolo sin estado, qué métodos son seguros
+puerto usa cada servicio y en qué orden van los mensajes de DHCP; qué significa que HTTP sea un protocolo sin estado, qué métodos son seguros
 o idempotentes y qué indica cada clase de código de estado; qué aporta TLS y qué versiones están
-prohibidas; qué hace y qué no hace la navegación privada; qué campos tienen las cabeceras IPv4 e
+prohibidas; qué hace y qué no hace la navegación privada y qué protegen los atributos Secure y HttpOnly de una cookie; qué campos tienen las cabeceras IPv4 e
 IPv6 y cuánto miden; cuáles son los rangos privados y los bloques especiales; cómo se abrevia una
-dirección IPv6; cómo se calcula una subred; qué son la pila doble, el túnel y NAT64/DNS64; qué
+dirección IPv6; cómo se calcula una subred; qué son la pila doble, el túnel, NAT64/DNS64, 6to4, Teredo y DS-Lite; qué
 topologías hay y qué hacen CSMA/CD, CSMA/CA y el paso de testigo; qué separa un dominio de colisión
-de uno de difusión y cómo se etiqueta una VLAN; qué grupos de trabajo tiene el comité IEEE 802; qué
+de uno de difusión y cómo se etiqueta una VLAN; qué grupos de trabajo tiene el comité IEEE 802 y qué enmienda de 802.3 trajo cada Ethernet y el PoE; qué
 nombre comercial tiene cada enmienda 802.11 y en qué banda trabaja; qué técnicas de transmisión
-trae cada generación de Wi-Fi; qué es una red de infraestructura y una *ad hoc*; qué exige WPA3 y
-cómo funciona la autenticación 802.1X con sus tres papeles. En la aplicación práctica: calcular una
+trae cada generación de Wi-Fi; qué canales de 2,4 GHz no se solapan; qué es una red de infraestructura y una *ad hoc*; qué exige WPA3 y
+qué usa WPA3-Personal (SAE) y cómo funciona la autenticación 802.1X con sus tres papeles. En la aplicación práctica: calcular una
 subred o la máscara para un número de equipos, abreviar una dirección IPv6, leer la salida de un
 comando de red, situar una avería en su capa y escoger la configuración segura de una red
 inalámbrica.
@@ -337,7 +338,27 @@ Tres servicios de soporte que el operador ve a diario:
   modo que el peor caso es exactamente el tiempo de vida.
 - *DHCP.* **«The Dynamic Host Configuration Protocol (DHCP) provides a framework for passing
   configuration information to hosts on a TCPIP network.»** Da al equipo su dirección, máscara,
-  puerta de enlace y servidores DNS sin tocarlo (oficio).
+  puerta de enlace y servidores DNS sin tocarlo (oficio). Va sobre UDP: **«DHCP messages from a
+  client to a server are sent to the 'DHCP server' port (67), and DHCP messages from a server to a
+  client are sent to the 'DHCP client' port (68).»** La concesión de una dirección nueva se hace en
+  cuatro mensajes, por este orden (RFC 2131):
+
+  | Mensaje | Quién a quién | Para qué |
+  |---|---|---|
+  | DHCPDISCOVER | Cliente, por difusión en su subred | **«Client broadcast to locate available servers.»** (buscar servidores) |
+  | DHCPOFFER | Servidor al cliente | Ofrece una dirección y los demás parámetros; pueden llegar ofertas de varios servidores |
+  | DHCPREQUEST | Cliente, también por difusión | Pide los parámetros a un servidor y, con ello, **«implicitly declining offers from all others»** (rechaza las demás ofertas); sirve también para confirmar la dirección tras un reinicio o para prorrogar la concesión |
+  | DHCPACK | Servidor elegido al cliente | **«configuration parameters, including committed network address»**: la concesión queda hecha |
+
+  Los otros mensajes: DHCPNAK, del servidor, cuando la dirección que cree tener el cliente ya no vale
+  (**«e.g., client has moved to new subnet»**); DHCPDECLINE, del cliente, cuando comprueba que la
+  dirección recibida con el DHCPACK **«is already in use»**; DHCPRELEASE, del cliente, que la devuelve y cancela lo que quede de
+  concesión, y DHCPINFORM, del cliente que ya tiene dirección
+  configurada a mano y sólo pide el resto de parámetros. Si no llega ninguna oferta, el cliente
+  **«times out and retransmits the DHCPDISCOVER message»**. El primer mensaje va por difusión porque el
+  cliente aún no tiene dirección ni sabe dónde está el servidor (oficio); si el servidor está en
+  otra subred, un agente de retransmisión le pasa el mensaje (**«BOOTP relay agents may pass the
+  message on to DHCP servers not on the same physical subnet»**).
 - *NAT.* La traducción de direcciones que hace el router de casa o de la oficina: la NAPT traduce
   **«many network addresses and their TCP/UDP (Transmission Control Protocol/User Datagram Protocol)
   ports»** a **«a single network address and its TCP/UDP ports»**, y así toda una red con direcciones
@@ -561,6 +582,20 @@ en la barra de direcciones.»** y **«Cookies de terceros: las crean otros sitio
 terceros, con excepciones por sitio (para un dominio entero se escribe `[*.]` delante), y
 **«De forma predeterminada, las cookies de terceros están bloqueadas en el modo Incógnito.»**
 
+Lo que protege una cookie lo deciden sus atributos, que el servidor fija al crearla (RFC 6265):
+
+| Atributo | Qué hace |
+|---|---|
+| Expires / Max-Age | Su vida máxima: una fecha, o un número de segundos. Si están los dos, **«the Max-Age attribute has precedence»**; sin ninguno, la cookie dura hasta que **«"the current session is over"»** (cookie de sesión). El navegador puede borrarla antes |
+| Domain | **«specifies those hosts to which the cookie will be sent»**: con `example.com` va también a `www.example.com`; sin él, **«the user agent will return the cookie only to the origin server»** |
+| Path | Limita la cookie a una ruta del sitio, pero **«cannot be relied upon for security»** |
+| Secure | Sólo se envía por un canal seguro, **«typically HTTP over Transport Layer Security (TLS)»**; protege la confidencialidad de la cookie, no su integridad |
+| HttpOnly | **«instructs the user agent to omit the cookie when providing access to cookies via "non-HTTP" APIs (such as a web browser API that exposes cookies to scripts)»**: el JavaScript de la página no la lee |
+
+Los dos últimos son independientes: **«a cookie can have both the HttpOnly and the Secure
+attribute»**. La cookie que guarda el inicio de sesión en un sitio conviene que lleve los dos
+(oficio).
+
 Edge tiene la prevención de seguimiento, con tres niveles:
 
 | Nivel | Qué hace (ayuda de Microsoft) |
@@ -735,7 +770,7 @@ logical) link»**. Ver una 169.254 en `ipconfig` suele querer decir que el servi
 contestado (oficio).
 
 Dentro de cada red hay dos direcciones que no se dan a ningún equipo. El RFC 1122 usa «-1» para un
-campo de todo unos: **«{ <Network-number>, -1 }»** es la **«Directed broadcast to the specified
+campo de todo unos: **«{ &lt;Network-number&gt;, -1 }»** es la **«Directed broadcast to the specified
 network»** (difusión dirigida, la última de la red); la dirección con el campo de equipo a ceros es, por
 convención de oficio, la que identifica a la red.
 La difusión limitada, **«{ -1, -1 }»**, **«will be received by every host on the connected physical
@@ -886,8 +921,17 @@ según las direcciones de origen disponibles. Un equipo de pila doble puede apag
 
 Mientras tanto, IPv4 se estira con NAT: la de casa o de la oficina (RFC 3022) y la de operador (CGN,
 bloque 100.64.0.0/10), que el RIPE NCC cita como una de las respuestas al agotamiento que no lo
-resuelven. El registro de bloques especiales recoge otros mecanismos de transición —**«6to4»**
-(2002::/16), **«TEREDO»** (2001::/32), **«DS-Lite»** (192.0.0.0/29)—, que este tema sólo nombra.
+resuelven. El registro de bloques especiales recoge otros tres mecanismos de transición, cada uno con su
+bloque:
+
+| Mecanismo | Bloque (RFC 6890) | Qué hace |
+|---|---|---|
+| **«6to4»** (RFC 3056) | 2002::/16 | Túnel automático: une sitios IPv6 a través de la red IPv4 **«without explicit tunnel setup»**, y asigna un prefijo IPv6 provisional a todo sitio que tenga al menos una dirección IPv4 pública. Su propio RFC lo presenta como **«a start-up transition tool»** que **«is not intended as a permanent solution»** |
+| **«TEREDO»** (RFC 4380) | 2001::/32 | Da IPv6 a equipos que están detrás de una o varias NAT de IPv4 **«by tunneling packets over UDP»**, con ayuda de servidores y repetidores Teredo |
+| **«DS-Lite»** (RFC 6333) | 192.0.0.0/29 | Pila doble ligera del operador: comparte direcciones IPv4 entre clientes combinando **«IP in IP (IPv4-in-IPv6) and Network Address Translation (NAT)»**: usa **«IPv4-in-IPv6 tunnels to cross the network to reach a carrier-grade IPv4-IPv4 NAT»**, donde los clientes comparten direcciones IPv4 |
+
+La diferencia que se pregunta: 6to4 mete IPv6 en IPv4 directamente, Teredo lo mete en UDP para poder
+cruzar la NAT, y DS-Lite hace lo contrario, IPv4 dentro de IPv6.
 
 En Windows, `ipconfig` **«muestra las direcciones IPv6 y de la versión 4 del Protocolo de Internet
 (IPv4), la máscara de subred y la puerta de enlace predeterminada para todos los adaptadores»**; con
@@ -1068,6 +1112,27 @@ parallel on three different LAN technologies and created three working groups»*
 802.4 para el bus con testigo y 802.5 para el anillo con testigo; las tres **«agreed to use the 48 bits
 MAC addresses specified initially for Ethernet»**.
 
+Ethernet ha crecido por enmiendas de 802.3, cada una con su letra y su año. Las de uso diario, según
+el archivo de trabajos terminados del grupo 802.3:
+
+| Enmienda | Título en el archivo del IEEE 802.3 |
+|---|---|
+| 802.3z-1998 | **«Gigabit Ethernet»** |
+| 802.3ab-1999 | **«1000BASE-T»** (el gigabit sobre par trenzado) |
+| 802.3ac-1998 | **«VLAN TAG»** |
+| 802.3ad-2000 | **«Link Aggregation»** (agregación de enlaces) |
+| 802.3ae-2002 | **«10 Gb/s Ethernet»** |
+| 802.3an-2006 | **«10GBASE-T»** |
+| 802.3af-2003 | **«DTE Power via MDI»** (alimentación por el cable de datos: PoE) |
+| 802.3at-2009 | **«DTE Power Enhancements»**; la página de su grupo enlaza el del **«IEEE 802.3 Power over Ethernet plus Study Group»** |
+| 802.3bt-2018 | **«DTE Power via MDI over 4-Pair»** (PoE por los cuatro pares) |
+| 802.3bz-2016 | **«2.5G/5GBASE-T»** |
+| 802.3az-2010 | **«Energy-efficient Ethernet»** |
+
+Las enmiendas no quedan sueltas: de la 802.3ab dice el grupo que **«is now published as part of the
+latest edition of 802.3»**. La enmienda que trajo 100BASE-TX
+no figura en ese archivo.
+
 La división de la capa de enlace que hizo el IEEE: arriba, el control de enlace lógico (LLC, 802.2),
 común a todas; abajo, el control de acceso al medio (MAC) y la capa física propios de cada tecnología
 (802.3, 802.11…). Es la razón de que la dirección MAC se llame así (oficio).
@@ -1080,7 +1145,18 @@ El grupo IEEE 802.11 normaliza las redes de área local inalámbricas (WLAN); la
 certifica los productos y les da el nombre comercial (Wi-Fi 4, 5, 6, 7). Las dos cosas no son lo
 mismo: «802.11ax» es una enmienda de la norma y «Wi-Fi 6» un programa de certificación. Wi-Fi creció en
 una banda de uso libre: **«In 1985, the 2.400-2.500 GHz band was added to the list of ISM
-bands.»**, las bandas industriales, científicas y médicas que no necesitan licencia.
+bands.»**, las bandas industriales, científicas y médicas que no necesitan licencia. En esa banda
+caben pocos canales independientes; la guía de radiofrecuencia de Cisco lo resume así: **«Channel
+frequency plans for the 2.4-GHz band identify 14 channels, but only 3 of these are nonoverlapping
+channels, 1, 6, and 11»** (y precisa que en los Estados Unidos sólo esos tres sirven para operar sin
+interferencias), y por eso, en un plan de canales con varios puntos de acceso, **«In the
+case of 2.4 GHz, you have only channels 1,6, and 11.»** La misma guía recoge que en algunos dominios reguladores se ha propuesto un plan de cuatro canales, y
+lo desaconseja: **«most of the world agrees on 1, 6, and 11, and most radios will default to this
+channel plan; in such a case, if you have selected 1, 5, 9, and 13, any radio using the standard
+channels will interfere with at least one—and in most cases two—of your channels.»** En 5 y 6 GHz el
+problema desaparece: **«None of the 5-GHz (20-MHz) channels overlap»** y **«None of the 6-GHz (20
+MHz) channels overlap»**. Qué canales de 2,4 GHz están autorizados en España es cosa del
+Cuadro Nacional de Atribución de Frecuencias, que este tema no da.
 
 | Enmienda IEEE | Título del proyecto (IEEE 802.11) | Nombre comercial | Banda | Notas |
 |---|---|---|---|---|
@@ -1129,8 +1205,9 @@ frame format.»** Lo que cambia de una generación a otra es la capa física:
 | MLO (operación multienlace) | **«allows devices to use multiple bands (2.4 GHz, 5 GHz, and/or 6 GHz) simultaneously to avoid network congestion and maintain connectivity»** | Wi-Fi 7 |
 
 Las velocidades máximas teóricas de Wi-Fi 6 y Wi-Fi 7 no se dan: las fuentes leídas sólo dan
-comparaciones (el doble, un 20 % más) y Microsoft advierte de que **«performance may vary by
-manufacturer and hardware device capabilities»**.
+comparaciones (el doble, un 20 % más; Microsoft promete con Wi-Fi 7 **«up to 4x faster speeds than
+Wi-Fi 6 and Wi-Fi 6E, and close to 6x faster than Wi-Fi 5»**) y Microsoft advierte de que
+**«performance may vary by manufacturer and hardware device capabilities»**.
 
 ### Los dispositivos de interconexión
 
@@ -1187,7 +1264,7 @@ petición y una respuesta de asociación.
 | WEP y TKIP | Antiguos e inseguros. Windows avisa desde la versión 1903 al conectarse a redes con ellos (**«which aren't as secure as those using WPA2 or WPA3»**) y anuncia que en una versión futura **«any connection to a Wi-Fi network using these old ciphers will be disallowed»**; los enrutadores **«should be updated to use AES ciphers, available with WPA2 or WPA3»** |
 | WPA2 | La generación anterior, con más de una década de uso (**«the widespread adoption of WPA2 over more than a decade»**) |
 | WPA3 | **«WPA3 is mandatory for Wi-Fi CERTIFIED devices»**. Las redes WPA3 **«Use the latest security protocols»**, **«Disallow outdated legacy protocols»** y **«Require use of Protected Management Frames (PMF)»** |
-| WPA3-Personal | Con contraseña compartida; **«increased protections from password guessing attempts»** |
+| WPA3-Personal | Con contraseña compartida; **«increased protections from password guessing attempts»**. Lo consigue con la autenticación simultánea de iguales (SAE): **«WPA3 leverages Simultaneous Authentication of Equals (SAE), a secure key establishment protocol between devices, to provide stronger protections for users against password guessing attempts by third parties»** (Wi-Fi Alliance, 2018). En la documentación de controladores de Windows figura como **«WPA3-SAE authentication»** |
 | WPA3-Enterprise | **«builds on top of WPA2-Enterprise by providing the additional requirement of using Protected Management Frames on all WPA3 connections with 802.1X for user authentication with a RADIUS server»**. Modo de 192 bits para datos sensibles; en él, **«EAP-TLS es el único método EAP permitido»** |
 | PMF | Tramas de gestión protegidas: **«PMF is required for all new certified devices.»** |
 | Wi-Fi Enhanced Open | Para redes abiertas: **«provide unauthenticated data encryption to users, an improvement over traditional open networks with no protections at all»** |
@@ -1331,11 +1408,17 @@ funciona: el fallo está en el salto siguiente.
   a Wi-Fi 8: no constan en las fuentes leídas. Para 802.11n el manual de Bonaventure da 150 Mbit/s
   máximos, cifra que no se ha contrastado con la norma y por eso no se recoge en la tabla.
 - Qué canales y potencias de las bandas de 2,4, 5 y 6 GHz se pueden usar en España (Cuadro Nacional de
-  Atribución de Frecuencias): no se ha leído; por eso tampoco se da el reparto de canales sin
-  solapamiento de 2,4 GHz.
+  Atribución de Frecuencias): no se ha leído. De 2,4 GHz se dan los tres canales sin solapamiento
+  (1, 6 y 11) según Cisco, que precisa que en los Estados Unidos sólo esos tres sirven y desaconseja
+  el plan de cuatro canales (1, 5, 9 y 13) propuesto en algunos dominios reguladores; qué plan rige en
+  España no consta en lo leído.
+- La enmienda de 802.3 que trajo 100BASE-TX: no figura en el archivo del grupo 802.3 leído.
+- Entre los dispositivos inalámbricos, el repetidor o extensor y el controlador de red inalámbrica: no
+  se han encontrado en las fuentes leídas.
 - El porcentaje actual de uso de IPv6: no se ha encontrado una fuente leíble a la fecha.
-- Los mecanismos de transición 6to4, Teredo y DS-Lite: sólo se nombran, porque figuran en el registro
-  de bloques especiales; no se desarrollan, ni otros que no se han leído.
+- De 6to4, Teredo y DS-Lite, sólo lo que dice el resumen de su RFC; su funcionamiento interno
+  (formato de las direcciones, servidores y repetidores) y otros mecanismos que no se han leído no se
+  desarrollan.
 - WEP y la primera WPA: sólo lo que dice Microsoft de WEP y TKIP; su funcionamiento no se ha leído.
 - El navegador Firefox: su página de ayuda no se pudo descargar; el epígrafe 3 se basa en Chrome y
   Edge.
@@ -1348,7 +1431,9 @@ funciona: el fallo está en el salto siguiente.
 
 ## Trazabilidad
 
-Todas las fuentes se leyeron el 05-10-2026, en su versión en línea de ese día. La vigencia de cada
+Todas las fuentes se leyeron el 05-10-2026, en su versión en línea de ese día, salvo los RFC 3056,
+4380 y 6333, el archivo de trabajos terminados del IEEE 802.3 y la página de la 802.3at, la guía de
+radiofrecuencia de Cisco y el comunicado de la Wi-Fi Alliance de 2018 sobre WPA3, leídos el 06-10-2026. La vigencia de cada
 RFC se comprobó en el índice de la serie (el índice publicado en rfc-editor.org), que registra el RFC 8446
 como sustituido por el RFC 9846 y el RFC 8415 por el RFC 9915.
 
@@ -1358,13 +1443,17 @@ como sustituido por el RFC 9846 y el RFC 8415 por el RFC 9915.
 | RFC 791 (IPv4), RFC 1112 (multidifusión), RFC 1122 (requisitos de equipos), RFC 1918 (privadas), RFC 950 (subredes), RFC 4632 (CIDR), RFC 6890 y RFC 6598 (bloques especiales), RFC 3927 (enlace local), RFC 2474 y RFC 3168 (DS y ECN), RFC 3022 (NAT) | Cabecera y clases de IPv4, cinco clases, capas de Internet, difusión, máscara y prefijos, reparto IANA-RIR, bloques especiales, campo DS, NAT |
 | RFC 8200 (IPv6), RFC 4291 (direccionamiento), RFC 4193 (ULA), RFC 5952 (escritura), RFC 4862 (SLAAC), RFC 4861 (descubrimiento de vecinos), RFC 4443 (ICMPv6), RFC 9915 (DHCPv6), RFC 6724 (selección de direcciones) | Cabecera, extensiones, fragmentación y MTU de IPv6; tipos, notación y prefijos; autoconfiguración |
 | RFC 4213, RFC 6146 y RFC 6147 | Pila doble, túnel configurado, NAT64 y DNS64 |
-| RFC 9110 (HTTP), RFC 9000 (QUIC), RFC 6797 (HSTS), RFC 6265 (cookies), RFC 8484 (DoH), RFC 1034 (DNS), RFC 2131 (DHCP), RFC 768 (UDP) | Sin estado, métodos, códigos de estado, versiones, puertos 80 y 443, esquema https |
+| RFC 3056 (6to4), RFC 4380 (Teredo) y RFC 6333 (DS-Lite), sólo su resumen | Qué hace cada uno de esos tres mecanismos |
+| RFC 9110 (HTTP), RFC 9000 (QUIC), RFC 6797 (HSTS), RFC 6265 (cookies), RFC 8484 (DoH), RFC 1034 (DNS), RFC 2131 (DHCP), RFC 768 (UDP) | Sin estado, métodos, códigos de estado, versiones, puertos 80 y 443, esquema https (RFC 9110); QUIC, HSTS, cookies y sus atributos, DoH; objeto de DNS y TTL en segundos; DHCP, sus mensajes y sus puertos 67 y 68; UDP sin entrega garantizada |
 | RFC 9846 (TLS 1.3), RFC 8996, RFC 7568, RFC 6101 y fechas del índice de RFC (2246, 4346, 5246, 8446) | Propiedades y componentes de TLS, cambios de 1.2 a 1.3, retirada de SSL 3.0, TLS 1.0 y 1.1 |
 | RFC 3748 (EAP) y RFC 2865 (RADIUS) | Marco EAP sobre la capa de enlace; puerto 1812 |
 | ICANN, comunicado de 3-II-2011; RIPE NCC, noticia de 25-XI-2019; UIT, comunicado de 17-XI-2025 (*Facts and Figures 2025*) | Agotamiento de IPv4, CGNAT, usuarios de Internet en 2025 |
 | CERN, info.cern.ch | Primer sitio web y su presentación |
 | Ayuda de Google Chrome (Incógnito, Navegación segura, seguridad y protección, cookies) y de Microsoft Edge (prevención de seguimiento, SmartScreen), en castellano | Epígrafe 3 |
 | IEEE 802 LMSC (portada y grupos disueltos), IEEE 802.3, IEEE 802.11 *Timelines* (19-09-2026) | Grupos de trabajo, títulos y años de las enmiendas 802.11, 802.11-2024 y 802.11be-2024 |
+| IEEE 802.3, *Archive of completed work* y páginas de los grupos 802.3ab y 802.3at | Títulos y años de las enmiendas de 802.3; publicación de la 802.3ab en la edición de la norma; grupo de estudio «Power over Ethernet plus» |
+| Cisco, guía de radiofrecuencia (RF) de los controladores Catalyst 9800 (*Wireless RF Reference Guide*) | Canales 1, 6 y 11 de 2,4 GHz y plan de cuatro canales desaconsejado; canales de 5 y 6 GHz sin solapamiento |
+| Wi-Fi Alliance, comunicado de 25-VI-2018 de presentación de WPA3 | SAE en WPA3-Personal |
 | O. Bonaventure, *Computer Networking: Principles, Protocols and Practice*, 3.ª ed., Universidad Católica de Lovaina, licencia CC BY (capítulos «Sharing resources», «Datalink layer technologies», «Reference models») | LAN, topologías, control de acceso al medio, Ethernet, conmutadores, STP, VLAN 802.1Q, 802.11 (bandas antiguas, *ad hoc* e infraestructura, punto de acceso, balizas, SSID, asociación), modelos de referencia |
 | Wi-Fi Alliance (generaciones Wi-Fi y seguridad) y Microsoft (*Faster and more secure Wi-Fi in Windows*, WiFiCx Wi-Fi 7, funciones retiradas de Windows) | Wi-Fi 4 a 8, técnicas de transmisión, WPA3, PMF, Enhanced Open, `netsh wlan show drivers`, WEP y TKIP |
 | Microsoft Learn: EAP para acceso a redes, Servidor de directivas de redes, `ipconfig`, `ping`, `tracert`, información general sobre servicios y puertos de Windows Server (castellano); Juniper Networks, *802.1X Authentication* | 802.1X, métodos EAP, RADIUS y NPS, modos de solicitante; comandos de diagnóstico; puertos de LDAP y SNMP |

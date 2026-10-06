@@ -1,0 +1,119 @@
+URL: https://support.microsoft.com/es-es/excel/functions/sum-function
+Leído: 2026-10-06
+
+# Función SUMA
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo utilizo la función SUMA en Excel?
+
+ ¿Cómo utilizo SUMA para sumar un rango?
+
+ Obtén un desglose rápido de la función SUMA.
+
+La función SUMA suma valores Puede sumar valores individuales, referencias o rangos de celda o una combinación de las tres.
+
+Por ejemplo:
+
+- 
+ =SUMA(A2:A10) Suma los valores de las celdas A2:10.
+
+- 
+ =SUMA(A2:A10; C2:C10) Suma los valores de las celdas A2:10 y C2:C10.
+
+## Sintaxis:
+
+ SUMA(número1,[número2],...)
+
+ | 
+ Nombre del argumento
+ | 
+ Descripción
+
+ | 
+ número1
+Requerido
+ | El primer número que desea sumar. El número puede ser como 4, una referencia de celda como B6 o un rango de celdas como B2:B8.
+
+ | 
+ número2-255
+Opcional
+ | Este es el segundo número que quiere sumar. Puede especificar hasta 255 números de esta forma.
+
+## Prácticas recomendadas para SUMA
+
+Esta sección trata algunos procedimientos recomendados para trabajar con la función SUMA. La mayoría de este contenido puede aplicarse para trabajar también con otras funciones.
+
+ El método =1+2 o =A+B: aunque puede escribir =1+2+3 o =A1+B1+C2 y obtener resultados totalmente precisos, estos métodos son propensos a errores por varias razones:
+
+- 
+
+ Errores de escritura. Imagine que intenta escribir más valores o valores más grandes como estos:
+
+- 
+ =14598,93+65437,90+78496,23
+
+Después, intente validar que sus entradas son correctas. Es mucho más sencillo colocar estos valores en celdas individuales y usar una fórmula SUMA. Además, puede dar formato a los valores cuando están en celdas, para que sean mucho más legibles que cuando están en una fórmula.
+
+- 
+Errores #¡VALOR! al hacer referencia al texto en lugar de a los números
+
+Si usa una fórmula como:
+
+- 
+ =A1+B1+C1 o =A1+A2+A3
+
+Su fórmula puede romperse si no existen valores no numéricos (texto) en las celdas a las que se hace referencia, lo que devolverá el error #¡VALOR!. SUMA ignorará los valores de texto y le proporcionará solo la suma de los valores numéricos.
+
+- 
+Error #¡REF! al eliminar filas o columnas
+
+Si elimina una fila o una columna, la fórmula no se actualizará para excluir la fila eliminada y devolverá un error #¡REF!, donde la función SUMA la actualizará automáticamente.
+
+- 
+
+ Las fórmulas no actualizarán las referencias al insertar filas o columnas
+
+Si inserta una fila o columna, la fórmula no se actualizará para incluir la fila agregada, donde se actualizará automáticamente una función SUMA (siempre y cuando no esté fuera del rango al que hace referencia la fórmula). Esto es especialmente importante si espera que la fórmula se actualice y no lo hace, ya que le dejará con resultados incompletos que es posible que no detecte.
+
+- 
+
+ SUMA con referencias de celda individuales frente a rangos
+
+Usar una fórmula como:
+
+- 
+ =SUMA(A1,A2,A3,B1,B2,B3)
+
+Es igualmente propensa a errores al insertar o eliminar filas dentro del rango al que se hace referencia por las mismas razones. Es mucho mejor usar rangos individuales, como:
+
+- 
+ =SUMA(A1:A3,B1:B3)
+
+Que se actualizarán cuando se agreguen o eliminen filas.
+
+## Preguntas más frecuentes
+
+- 
+
+ Solo quiero sumar/restar/multiplicar/dividir números Consulte Usar Excel como calculadora.
+
+- 
+¿Cómo puedo mostrar más o menos posiciones decimales? Puede cambiar el formato de número. Seleccione la celda o el rango en cuestión y use Ctrl+1 para que se muestre el cuadro de diálogo Formato de celdas; luego haga clic en la ficha Número y seleccione el formato que quiera. Asegúrese de que indica el número de posiciones decimales deseado.
+
+- 
+¿Cómo puedo sumar o restar horas? Puede agregar y restar horas de varias maneras distintas. Por ejemplo, para obtener la diferencia entre 8:00 AM y 12:00 PM con el fin de pagar las nóminas, puede usar: =("12:00 PM"-"8:00 AM")*24, que resta la hora de inicio a la de finalización. Tenga en cuenta que Excel calcula las horas como fracciones de un día, por lo que hay que multiplicar por 24 para obtener el total de horas. En el primer ejemplo se usa =((B2-A2)+(D2-C2))*24 para obtener la suma de horas desde el inicio hasta la finalización restando el tiempo de la comida (un total de 8,50 horas).
+
+Si simplemente quiere agregar horas y minutos y mostrar la información de esa manera, puede sumar y no multiplicar por 24. Por ejemplo, en el segundo ejemplo se usa =SUMA(A6:C6) porque solo es necesario calcular el número total de horas y minutos dedicados a las tareas asignadas (5:36 o 5 horas y 36 minutos).
+
+Para más información, vea: Sumar o restar tiempo
+
+- 
+¿Cómo puedo sumar solo las celdas visibles? A veces, al ocultar filas manualmente o usar el Filtro automático para mostrar solo cierta información, es posible que solo quiera sumar las celdas visibles. Puede usar la función SUBTOTAL. Si usa una fila de totales en una tabla de Excel, cualquier función que seleccione en la lista desplegable Total se introducirá automáticamente como un subtotal. Obtenga más información sobre cómo Obtener el total de los datos en una tabla de Excel.
+
+## ¿Necesitas más ayuda?
+
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades.

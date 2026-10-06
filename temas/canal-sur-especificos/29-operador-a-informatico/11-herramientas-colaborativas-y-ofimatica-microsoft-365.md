@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Operador/a Informático · punto 11 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. Documentación de Microsoft: Microsoft Learn (Aplicaciones Microsoft 365, canales de actualización, ciclo de vida de Office 2019, Teams y su integración con SharePoint, canales privados y compartidos, eventos, vínculos de uso compartido, opciones de colaboración, OneDrive, historial de versiones, Exchange Online) y artículos del soporte de Microsoft (Word, Excel, PowerPoint, Outlook, OneDrive y Teams). Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día. No se estudia Office 2019 ni el Teams clásico, que están fuera de soporte |
-| Extensión | 11.000 palabras aproximadamente (con tablas) |
+| Redacción que se estudia | Las páginas citadas, en línea el 05-10-2026 y leídas ese día (las de control de cambios, funciones de Excel, respuestas automáticas y calendario compartido, el 06-10-2026). No se estudia Office 2019 ni el Teams clásico, que están fuera de soporte |
+| Extensión | 12.500 palabras aproximadamente (con tablas) |
 
 <!-- /portada -->
 
@@ -18,11 +18,11 @@ Entra (B2B, *business to business*); red de entrega de contenido (CDN, *content 
 protocolo de oficina de correos, versión 3 (POP3 o POP); protocolo de acceso a mensajes de
 internet, versión 4 (IMAP4 o IMAP); protocolo simple de transferencia de correo (SMTP); capa de
 conexión segura y seguridad de la capa de transporte (SSL/TLS), y STARTTLS, la orden que pasa a
-TLS una conexión que empezó sin cifrar; autorización abierta, versión 2.0 (OAuth 2.0); interfaz de programación de aplicaciones de mensajería (MAPI, *messaging application programming interface*), que Outlook usa sobre HTTP para hablar con Exchange; servicios web de Exchange (EWS); punto de conexión de servicio de Active Directory (SCP, *service connection
+TLS una conexión que empezó sin cifrar; autorización abierta, versión 2.0 (OAuth 2.0); interfaz de programación de aplicaciones de mensajería (MAPI, *messaging application programming interface*), que Outlook usa sobre el protocolo de transferencia de hipertexto (HTTP) para hablar con Exchange; servicios web de Exchange (EWS); punto de conexión de servicio de Active Directory (SCP, *service connection
 point*); localizador uniforme de
 recursos (URL); formato de documento portátil (PDF); Visual Basic para Aplicaciones (VBA), el
 lenguaje de macros de Office; tabla de almacenamiento personal (.pst), el archivo de datos de
-Outlook; gigabyte (GB). Microsoft Entra ID es el nombre del directorio
+Outlook; gigabyte (GB); tecnologías de la información (TI). Microsoft Entra ID es el nombre del directorio
 de Microsoft (ID, de *identity*, identidad); SMTP AUTH es el envío SMTP autenticado; SUM es el
 nombre interno de la operación suma en las tablas dinámicas, tal como lo escribe Microsoft. Las teclas se nombran como en el teclado español: Ctrl
 (control), Mayús (mayúsculas), Alt, Supr y las de función F1 a F12.
@@ -44,11 +44,12 @@ petición y con qué orden se fija; qué carpetas mueve OneDrive y cuánto tiemp
 de reciclaje; dónde se guardan los archivos de un canal estándar, de un canal privado y de un chat;
 quién crea canales privados y compartidos y quién añade gente a ellos; qué roles hay en una reunión
 de Teams y qué pasó con los eventos en directo; en Word, para qué sirven los estilos de título, los
-saltos de sección y la combinación de correspondencia; en Excel, las referencias relativas,
+saltos de sección, la combinación de correspondencia y el control de cambios; en Excel, qué hace
+cada función habitual (`CONTAR` frente a `CONTARA`, `SUMAR.SI`, `CONTAR.SI`), las referencias relativas,
 absolutas y mixtas y la tecla F4, los errores `#¡DIV/0!`, `#¡REF!` y `#N/A`, BUSCARV y BUSCARX,
 las tablas dinámicas y la validación de datos; en PowerPoint, el patrón de diapositivas, las vistas
-y la diferencia entre animación y transición; en Outlook, las reglas, los atajos de teclado y el
-archivo .pst; cómo se agrega una cuenta de correo en el Outlook nuevo y en el clásico, qué hace la
+y la diferencia entre animación y transición; en Outlook, las reglas, las respuestas automáticas, el
+calendario compartido y sus permisos, los atajos de teclado y el archivo .pst; cómo se agrega una cuenta de correo en el Outlook nuevo y en el clásico, qué hace la
 detección automática y qué servidores, puertos y cifrado usa Exchange Online por POP, IMAP y SMTP;
 en qué se diferencian POP e IMAP; qué es la autenticación básica y por qué ya no sirve en Exchange
 Online; qué es la coautoría y qué exige; y cómo se programa una reunión de Teams desde Outlook. En
@@ -574,6 +575,34 @@ retraso y pueden pausar y rebobinar el vídeo en directo.**
   las listas de contactos de Outlook son los orígenes de datos más comunes**. Produce cartas, correos
   electrónicos (en los que **la dirección de cada destinatario es la única dirección en la línea
   Para**), sobres, etiquetas y directorios.
+- Control de cambios (pestaña Revisar), la herramienta de revisión de un documento entre varios:
+  **Cuando se activa el control de cambios, Word marca los cambios realizados por los autores del
+  documento. Esto es útil cuando colabora con otros autores, ya que puede ver qué autores realizaron
+  un cambio concreto.** Cómo se ve: **Las eliminaciones se marcan con un tachado y las adiciones se
+  marcan con un subrayado. Se indican los cambios de los distintos autores con diferentes colores.**
+  **Puede elegir realizar un seguimiento solo de sus propios cambios o de los cambios de todos**
+  (opciones Para todos y Solo míos). Al desactivarlo, **Word deja de marcar cambios, pero los
+  subrayados y tachados coloreados siguen apareciendo en el documento.**
+  - Las vistas de marcado: **Revisión simple muestra las marcas de revisión con una línea roja en el
+    margen**; Todas las marcas, con colores y líneas para cada revisor; **Sin marcado oculta el
+    marcado para mostrar el documento con los cambios incorporados**, y **El original muestra el
+    documento original sin marcas de revisión de cambios ni comentarios.** Lo que confunde: **Ocultar
+    los cambios no los quita del documento. Debe utilizar los comandos Aceptar y Rechazar en el grupo
+    Cambios para quitar la marcación del documento.**
+  - Aceptar o rechazar: uno a uno (Siguiente, Anterior, Aceptar o Rechazar, también con el botón
+    derecho sobre la marca) o todos a la vez, con la opción de aceptar o rechazar todos los cambios y
+    dejar de realizar el seguimiento. Al pulsar una marca, **La tarjeta muestra el nombre del
+    comentarista y la opción para aceptar o rechazar la sugerencia.** El panel de revisión sirve de
+    comprobación final antes de difundir el documento: **La sección de resumen en la parte superior
+    del panel de revisiones muestra el número exacto de marcas de revisión y comentarios visibles que
+    permanecen en el documento.**
+  - Bloqueo: **Para impedir que otros usuarios desactiven Control de cambios, bloquee Control de
+    cambios con una contraseña** (Revisar > Proteger > Proteger documento). **Mientras se bloquea el
+    control de cambios, no se puede desactivar el seguimiento de cambios y no se pueden aceptar o
+    rechazar cambios.** Y quien recibe un documento para revisar puede encontrárselo así: **Si un
+    documento se ha compartido con usted para su revisión, es posible que no pueda desactivar el
+    Control de cambios.**
+  - Comentarios: van aparte. **Los comentarios ya no forman parte de la función Control de cambios.**
 - Personalización del entorno: la cinta de opciones y la barra de herramientas de acceso rápido, que
   se configura con los comandos de uso frecuente.
 - Gestión de ficheros: guardar, guardar como, exportar a PDF, imprimir, recuperar versiones
@@ -614,8 +643,31 @@ referencia.**
 *Cálculos, fórmulas y funciones.*
 
 - Toda fórmula empieza por `=`.
-- Funciones habituales: `SUMA`, `PROMEDIO`, `CONTAR`, `CONTARA`, `SI`, `SUMAR.SI`, `CONTAR.SI`,
-  `MAX`, `MIN`, `HOY`.
+- Funciones habituales, con lo que dice de cada una la ayuda de Excel:
+
+  | Función | Qué hace (cita de Microsoft) | Ejemplo de Microsoft |
+  |---|---|---|
+  | `SUMA` | **La función SUMA suma valores** | `=SUMA(A2:A10)` |
+  | `PROMEDIO` | **Devuelve el promedio (media aritmética) de los argumentos.** | `=PROMEDIO(A1:A20)` |
+  | `CONTAR` | **La función CONTAR cuenta la cantidad de celdas que contienen números y cuenta los números dentro de la lista de argumentos.** | `=CONTAR(A1:A20)` |
+  | `CONTARA` | **La función CONTARA cuenta el número de celdas que no están vacías en un rango.** | |
+  | `SI` | **Use la función SI, una de las funciones lógicas, para devolver un valor si una condición es verdadera y otro si es falsa.** | `=SI(A2>B2;"Presupuesto excedido";"Correcto")` |
+  | `SUMAR.SI` | **La función SUMAR.SI se usa para sumar los valores de un rango que cumplen los criterios especificados.** | `=SUMAR.SI(B2:B25;">5")` |
+  | `CONTAR.SI` | **Use CONTAR.SI, una de las funciones estadísticas, para contar el número de celdas que cumplen un criterio.** | `=CONTAR.SI(A2:A5;"Londres")` |
+  | `MAX` | **Devuelve el valor máximo de un conjunto de valores.** | |
+  | `MIN` | **Devuelve el valor mínimo de un conjunto de valores.** | |
+  | `HOY` | **La función HOY devuelve el número de serie correspondiente a la fecha actual.** **La sintaxis de la función HOY no tiene argumentos.** | `=HOY()` |
+
+  La pareja que se confunde es `CONTAR` y `CONTARA`: **No se cuentan celdas vacías, valores lógicos,
+  texto o valores de error de la matriz o de la referencia** con `CONTAR`, mientras que **La función
+  CONTARA cuenta las celdas que contienen cualquier tipo de información, incluidos los valores de
+  error y texto vacío ("")**; ninguna de las dos cuenta las celdas vacías. Con criterio, las versiones
+  `.SI`, y con varios criterios, **SUMAR.SI.CONJUNTO** o **CONTAR.SI.CONJUNTO**. `SUMAR.SI` admite un
+  tercer argumento para sumar otro rango: **la fórmula =SUMAR.SI(B2:B5;"Juan";C2:C5) suma solamente
+  los valores del rango C2:C5 en los que las celdas correspondientes del rango B2:B5 sea igual a
+  "Juan".** En `PROMEDIO`: **Si el argumento de un rango o celda de referencia contiene texto, valores
+  lógicos o celdas vacías, estos valores se pasan por alto; sin embargo, se incluirán las celdas con
+  el valor cero.**
 - Búsqueda: **Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila.** Su
   límite: **El secreto de BUSCARV es organizar los datos de forma que el valor que busque (fruta) esté
   a la izquierda del valor devuelto (cantidad) que desea encontrar.** Microsoft invita a probar
@@ -697,6 +749,31 @@ nuevo, no.
   condition, and an action. Rules can also contain exceptions to conditions.** Con **Stop processing
   more rules** no se aplican las siguientes. Y un límite actual: **new Outlook does not support rules
   for managing third-party accounts like Gmail, Yahoo, and iCloud**.
+- Respuestas automáticas (fuera de la oficina): **Esta función envía automáticamente un mensaje
+  personalizado una vez a cada persona que le envíe un correo electrónico durante su ausencia.**
+  **Puede programar respuestas para fechas específicas, crear mensajes diferentes para compañeros
+  internos frente a contactos externos**. Dónde: en el Outlook clásico, Archivo > Respuestas
+  automáticas; en el nuevo, Ver > Ver configuración > Cuentas > Respuestas automáticas. Si no se
+  marca un período, **tendrá que desactivar las respuestas automáticas de forma manual.** Dos avisos
+  de Microsoft: hacia fuera de la organización, la respuesta irá **a todos los correos electrónicos
+  que reciba, incluidos boletines, anuncios y, posiblemente, correo no deseado**, por lo que
+  recomienda limitarla a los contactos; y **Las respuestas automáticas no son compatibles con Gmail,
+  Yahoo u otras cuentas POP o IMAP.** En el clásico, con una de esas cuentas no aparece el botón y
+  **Puede configurar una regla para responder a los mensajes entrantes si deja Outlook ejecutándose
+  mientras está ausente.**
+- Compartir el calendario: desde la pestaña Inicio del calendario, Compartir calendario, eligiendo
+  el nivel de acceso. **Puede ver cuando estoy ocupado. Los usuarios que comparten el calendario con
+  este nivel de permisos solo podrán ver las horas en las que está disponible.** **Puede ver títulos y
+  ubicaciones. Los usuarios que compartan el calendario con este nivel de permisos verán la
+  disponibilidad, el asunto y la ubicación de la reunión.** **Puede ver todos los detalles. Los
+  usuarios que compartan su calendario con este nivel de permisos verán todos los detalles de sus
+  citas, al igual que lo que usted ve.** Ninguno de los tres deja cambiar nada; para eso está la
+  delegación: **Si desea conceder permisos que permitan a un usuario editar el calendario o responder
+  a convocatorias de reunión en su nombre, vea Delegación de Calendar en Outlook.** Si la opción sale
+  atenuada, **se debe a que el administrador o el soporte de TI de su empresa ha establecido una
+  directiva para evitar que los usuarios compartan calendarios.** Y el calendario de un compañero se
+  añade sin pedírselo sólo en el entorno de trabajo: **Agregar directamente el calendario de otra
+  persona al suyo solo es posible con cuentas profesionales o educativas.**
 - Libreta de direcciones: contactos, listas de distribución y, en entornos corporativos, la lista
   global de la organización.
 - Archivo de datos .pst: **Los Outlook Data Files (.pst), o archivos de tablas de almacenamiento
@@ -863,6 +940,9 @@ usuario:
 
 Y un caso particular: **si el documento contiene macros (.docm), aún puede editar y colaborar.**
 
+La coautoría deja ver quién escribe; para que cada corrección quede marcada con su autor y se
+acepte o rechace después, se activa además el control de cambios de Word (epígrafe 4).
+
 ### Teams en Outlook
 
 **Depending on your version of Outlook, Microsoft Teams is either natively integrated or available
@@ -954,9 +1034,11 @@ un calendario compartidos de Exchange Online**, que son los del grupo de Microso
 - Los atajos de teclado de Word en español: la tabla de «más usados» de la página española tiene
   duplicados (Ctrl+A para abrir y para seleccionar todo; Ctrl+U para crear y para subrayar), así que
   el tema sólo da los que no se contradicen.
-- Las funciones de Excel `SUMA`, `PROMEDIO`, `CONTAR`, `CONTARA`, `SI`, `SUMAR.SI`, `CONTAR.SI`,
-  `MAX`, `MIN` y `HOY`, el error `#¡VALOR!`, la protección de hojas y las macros:
-  se dan como oficio, sin página leída para cada una.
+- El error `#¡VALOR!`, la protección de hojas y las macros de Excel: se dan como oficio, sin página
+  leída para cada uno.
+- Comparar y combinar documentos en Word: la página de Microsoft leída sólo se aplica a Word 2019 para
+  Mac, así que no se desarrolla. La delegación del calendario de Outlook (editar o responder en
+  nombre de otro): se nombra, sin página leída.
 - OneNote, Planner, Loop, Copilot y el resto de aplicaciones de Microsoft 365: fuera del enunciado.
 - Otras partes de la materia: Windows 11 y las directivas de grupo, en el tema 6; PowerShell, en el
   7; Windows Server y Active Directory, en el 8; virtualización y escritorios remotos, en el 10;
@@ -965,7 +1047,7 @@ un calendario compartidos de Exchange Online**, que son los del grupo de Microso
 
 ## Trazabilidad
 
-Todas las páginas se leyeron el 05-10-2026; las de Microsoft Learn y del soporte de Microsoft, en
+Todas las páginas se leyeron el 05-10-2026, salvo las trece que se indican, leídas el 06-10-2026; las de Microsoft Learn y del soporte de Microsoft, en
 español, con su traducción automática y sus erratas (se citan tal cual y se marcan con *sic* donde
 estorban). Tres páginas del soporte redirigieron a su versión inglesa (reglas de Outlook,
 complemento de Teams para Outlook y, en una de sus variantes, el error `#DIV/0!`); se citan en inglés
@@ -1006,6 +1088,9 @@ cuando la muestra.
 | Soporte de Microsoft, «Cambiar entre referencias relativas, absolutas y mixtas», «Especificaciones y límites de Excel», «Función CONSULTAV» [*sic*, describe BUSCARV], «Función BUSCARX», «Corregir un error #N/A», «¡Cómo corregir un #REF! error», «¡Cómo corregir un #DIV/0! error», «Aplicar validación de datos a celdas» y «Crear una tabla dinámica…» | Excel |
 | Soporte de Microsoft, «Elegir la vista adecuada…», «¿Qué es un patrón de diapositivas en PowerPoint?» y «La diferencia entre animaciones y transiciones» | PowerPoint |
 | Soporte de Microsoft, «Métodos abreviados de teclado para Outlook», «Manage email messages by using rules in Outlook», «Abrir y buscar elementos en un archivo de datos de Outlook (.pst)», «Agregar una cuenta de correo electrónico a Outlook para Windows» y «Configuración POP, IMAP y SMTP para Outlook.com» | Outlook y cliente de correo |
+| Soporte de Microsoft, «Realizar un seguimiento de los cambios en Word» (leída el 06-10-2026) | Control de cambios: marcas, Para todos y Solo míos, vistas de marcado, aceptar y rechazar, panel de revisión, bloqueo, comentarios aparte |
+| Soporte de Microsoft, «Función SUMA», «Función PROMEDIO», las de CONTAR y CONTARA (que la página rotula con el nombre inglés de la función), «SI (función SI)», «Función SUMAR.SI», «Use la función CONTAR.SI en Microsoft Excel», «Función MAX», «Función MIN» y «Función HOY» (leídas el 06-10-2026) | Tabla de funciones habituales de Excel |
+| Soporte de Microsoft, «Cómo configurar respuestas automáticas fuera de la oficina en Outlook» y «Compartir un calendario de Outlook como de solo lectura con otros usuarios» (leídas el 06-10-2026) | Respuestas automáticas; niveles de permiso del calendario compartido, delegación, directiva, cuentas profesionales |
 | Soporte de Microsoft, «Colaborar en documentos de Word en coautoría a tiempo real» y «Usar el control de versiones con Word» | Coautoría, Autoguardado, versiones |
 | Soporte de Microsoft, «Schedule a Microsoft Teams meeting from Outlook» | Integración de Teams en Outlook |
 

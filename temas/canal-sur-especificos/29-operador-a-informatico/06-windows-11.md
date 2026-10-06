@@ -7,8 +7,8 @@
 | Bloque | Temario específico de Operador/a Informático · punto 6 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
 | Fuente | Sin norma jurídica. Documentación oficial de Microsoft: Microsoft Learn (Windows 11, implementación de Windows, Windows Server en lo que se aplica a Windows 11, referencia de órdenes de Windows, PowerShell, Intune) y el sitio de soporte de Microsoft (support.microsoft.com), en castellano. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las páginas vivas de Microsoft, leídas el 05-10-2026. Versión de referencia: Windows 11 25H2, la última actualización de características para equipos existentes a la fecha del BOJA (24-09-2026); la 26H2 se publicó el 29-09-2026 |
-| Extensión | 17.200 palabras aproximadamente, tablas incluidas |
+| Redacción que se estudia | Las páginas vivas de Microsoft, leídas el 05-10-2026 (las de configuración de inicio, cuentas y Windows Hello, el 06-10-2026). Versión de referencia: Windows 11 25H2, la última actualización de características para equipos existentes a la fecha del BOJA (24-09-2026); la 26H2 se publicó el 29-09-2026 |
+| Extensión | 19.000 palabras aproximadamente, tablas incluidas |
 
 <!-- /portada -->
 
@@ -48,7 +48,8 @@ es el protocolo seguro de transferencia de hipertexto; protocolo de Internet (IP
 datagramas de usuario (UDP); protocolo de mensajes de control de Internet (ICMP); período de vida
 (TTL, *time to live*); dirección de control de acceso al medio (MAC); protocolo de escritorio remoto
 (RDP); identificador de proceso (PID); intérprete seguro de órdenes (SSH, *secure shell*) y su
-protocolo de transferencia de archivos (SFTP); unidad central de proceso (CPU); ordenador personal (PC); bus serie universal (USB); red privada
+protocolo de transferencia de archivos (SFTP); protección antimalware de inicio anticipado (ELAM,
+*early launch antimalware*); unidad central de proceso (CPU); ordenador personal (PC); bus serie universal (USB); red privada
 virtual (VPN); código de respuesta rápida (QR); inteligencia artificial (IA); el archivo de imagen ISO, que según
 Microsoft sirve para máquinas virtuales o para grabar un DVD; el modelo de controlador de pantalla de
 Windows (WDDM); la interfaz de prueba de seguridad de hardware (HSTI); el formato de paquete de
@@ -76,9 +77,10 @@ barra de tareas, Acoplar y los atajos de teclado; cómo se instalan y desinstala
 es un paquete `.msi`; Administración de discos, GPT frente a MBR, discos básicos y dinámicos,
 `diskpart`; cómo se actualiza, revierte o reinstala un controlador; cómo se configura la IP, el DNS,
 el perfil de red pública o privada y qué hacen `ipconfig`, `ping`, `tracert` y `netstat`; qué es
-una ruta UNC; WinRE, sus herramientas y cuándo arranca solo; Restablecer este PC, Restaurar sistema,
+una ruta UNC; WinRE, sus herramientas y cuándo arranca solo; la Configuración de inicio y las variantes del modo seguro; Restablecer este PC, Restaurar sistema,
 la restauración a un momento dado y la unidad de recuperación; la aplicación Seguridad de Windows,
-BitLocker, el cifrado de dispositivo y el UAC; el centro de notificaciones y No molestar; temas y
+BitLocker, el cifrado de dispositivo y el UAC; los tipos de cuenta, cómo se crea una cuenta local, las
+cuentas integradas Administrador e Invitado y Windows Hello; el centro de notificaciones y No molestar; temas y
 colores; la aplicación Configuración frente al Panel de control y las consolas `.msc`; el modo
 desarrollador; qué es un GPO, en qué orden se procesa, cada cuánto se refresca y qué hacen
 `gpupdate` y `gpresult`; las horas activas y el reinicio mensual único. En la aplicación práctica:
@@ -117,6 +119,7 @@ decidir qué opción de recuperación conserva qué y predecir qué GPO gana en 
   - [Las rutas de red (UNC)](#las-rutas-de-red-unc)
 - [5. Protección y recuperación del sistema](#5-protección-y-recuperación-del-sistema)
   - [El entorno de recuperación (WinRE)](#el-entorno-de-recuperación-winre)
+  - [La configuración de inicio y el modo seguro](#la-configuración-de-inicio-y-el-modo-seguro)
   - [Las opciones de recuperación, de menos a más drásticas](#las-opciones-de-recuperación-de-menos-a-más-drásticas)
   - [La recuperación rápida de equipo](#la-recuperación-rápida-de-equipo)
   - [Prepararse antes de que falle](#prepararse-antes-de-que-falle)
@@ -124,6 +127,7 @@ decidir qué opción de recuperación conserva qué y predecir qué GPO gana en 
   - [La aplicación Seguridad de Windows](#la-aplicación-seguridad-de-windows)
   - [BitLocker y el cifrado de dispositivo](#bitlocker-y-el-cifrado-de-dispositivo)
   - [El control de cuentas de usuario (UAC)](#el-control-de-cuentas-de-usuario-uac)
+  - [Las cuentas de usuario del equipo y el inicio de sesión](#las-cuentas-de-usuario-del-equipo-y-el-inicio-de-sesión)
 - [7. Centro de notificaciones](#7-centro-de-notificaciones)
 - [8. Personalización](#8-personalización)
 - [9. Configuración básica y avanzada](#9-configuración-básica-y-avanzada)
@@ -482,6 +486,9 @@ un `.exe` hay que estudiarlo caso por caso. Ésa es la razón de que el desplieg
 el primero. Las aplicaciones empaquetadas modernas usan otro formato, MSIX, que la documentación de
 Microsoft nombra al hablar del modo desarrollador (epígrafe 12).
 
+Instalar desde la línea de órdenes con WinGet, el administrador de paquetes que Windows 11 incluye
+(`winget install`), se estudia en el tema 7.
+
 ## 3. Gestión de discos y controladores
 
 ### Administración de discos
@@ -630,6 +637,10 @@ leyendo con la cámara un código QR, y ofrece **direcciones de hardware aleator
 que el equipo busca redes **«contiene la dirección única de hardware físico (MAC) del dispositivo»**,
 y activarlas hace **«más difícil para los usuarios rastrearte»**.
 
+Administrar el equipo desde otro puesto con Escritorio remoto (RDP) exige habilitarlo en
+Configuración > Sistema > Escritorio remoto; los requisitos, la conexión y la seguridad de RDP se
+estudian en el tema 10.
+
 ### Red pública o privada
 
 **«Cuando se conecta por primera vez a una red en Windows 11, se establece como pública de forma
@@ -757,6 +768,46 @@ opciones de recuperación de WinRE.»** Segundo, la red: **«WinRE no mantiene l
 uso general de forma predeterminada. Las redes solo están activadas cuando un flujo de trabajo de
 recuperación requiere conectividad»**.
 
+### La configuración de inicio y el modo seguro
+
+Entre las opciones avanzadas de WinRE está la Configuración de inicio, que cambia la forma en que
+arranca Windows para aislar un fallo. El ejemplo de Microsoft es el modo seguro, **«que inicia Windows
+en un estado limitado, en el que solo se inician los servicios y controladores básicos»**. Su lógica de
+diagnóstico: **«Si un problema no vuelve a aparecer cuando inicia en modo seguro, puede eliminar la
+configuración predeterminada, los controladores de dispositivo básicos y los servicios como posibles
+causas.»**
+
+Cómo se llega: se entra en WinRE (por cualquiera de las vías del subepígrafe anterior) y se sigue
+Solucionar problemas > Opciones avanzadas > Configuración de inicio > Reiniciar (la ruta sale
+desordenada en la página; se da reconstruida). Con el disco cifrado hace falta la clave: **«Si has
+cifrado el dispositivo, necesitarás la clave de BitLocker para completar esta tarea.»** Tras el
+reinicio aparece la pantalla Configuración de inicio con nueve opciones, que se eligen por su número
+según el orden en que Microsoft las enumera;
+**«Para seleccionar una, use las teclas numéricas o las teclas de función F1-F9»**:
+
+| N.º | Opción | Qué hace |
+|---|---|---|
+| 1 | Habilitar la depuración | **«Inicia Windows en un modo avanzado de solución de problemas destinado a profesionales de TI y administradores del sistema»** |
+| 2 | Habilitar el registro de arranque | **«Crea un archivo, ntbtlog.txt, que enumera todos los controladores que se instalan durante el inicio»** |
+| 3 | Habilitar vídeo de baja resolución | **«Inicia Windows con el controlador de vídeo actual y una configuración de resolución y frecuencia de actualización bajas.»** Sirve **«para restablecer la configuración de pantalla»** |
+| 4 | Habilitar el modo seguro | **«El modo seguro inicia Windows en un estado básico, que usa un conjunto limitado de archivos y controladores.»** |
+| 5 | Modo seguro con funciones de red | **«agrega los controladores y servicios de red que necesitará para acceder a Internet y a otros equipos de la red»** |
+| 6 | Modo seguro con símbolo del sistema | **«Inicia Windows en modo seguro con una ventana de símbolo del sistema en lugar de la interfaz habitual de Windows»** |
+| 7 | Deshabilitar la aplicación de firmas de controladores | **«Permite instalar controladores con firmas incorrectas»** |
+| 8 | Deshabilitar la protección antimalware de inicio anticipado (ELAM) | ELAM **«permite que el software antimalware se inicie antes que el resto de los componentes de terceros durante el proceso de arranque.»** La opción la deshabilita **«temporalmente»** |
+| 9 | Deshabilitar reinicio automático tras error | **«Impide que Windows se reinicie automáticamente en caso de que un error haga que Windows falle.»** Sólo para el bucle en que Windows falla, se reinicia y vuelve a fallar |
+
+**«Puede presionar Entrar para iniciar Windows normalmente.»** Un caso típico de aplicación práctica:
+si Windows deja de arrancar tras instalar un controlador, el modo seguro (4) lo arranca con el mínimo de
+controladores, y desde ahí se revierte o desinstala el controlador (epígrafe 3); si hace falta
+descargar algo, el modo seguro con funciones de red (5).
+
+Para salir, **«Reiniciar el dispositivo debería ser suficiente para salir del modo seguro y volver al
+modo normal.»** Si el equipo sigue arrancando en modo seguro, Microsoft indica abrir Win + R, escribir
+`msconfig`, ir a la pestaña Arranque y, en Opciones de arranque, desactivar la casilla Arranque seguro.
+Por el contexto de la página, esa casilla es la que deja fijado el modo seguro; no debe confundirse con
+el arranque seguro de UEFI del epígrafe 1, que es una garantía del firmware sobre el cargador.
+
 ### Las opciones de recuperación, de menos a más drásticas
 
 El soporte de Microsoft ordena las opciones según el equipo arranque o no, y pide empezar por la
@@ -778,6 +829,10 @@ problemas > Opciones avanzadas]); Restablecer este PC; y reinstalar desde medios
 fabricante o de instalación. Las opciones adicionales: Restaurar sistema (epígrafe 14), reinstalar
 con una unidad de recuperación y reinstalar con medios de instalación (**«si sospechas que el
 dispositivo se ha infectado con malware, o si nada más funciona. Esto quita todo del dispositivo.»**).
+
+Si el equipo arranca pero se sospecha de archivos del sistema dañados, una herramienta más
+es `sfc /scannow`, ejecutada como administrador, que comprueba los archivos protegidos del sistema
+y repara los que puede: se estudia en el tema 2.
 
 Qué se pierde en cada una, según la misma página:
 
@@ -921,6 +976,64 @@ Control de cuentas de usuario, con un control deslizante de cuatro posiciones (l
 está en inglés): notificar siempre; notificar sólo cuando las aplicaciones intenten hacer cambios
 (**«(default)»**, la predeterminada); lo mismo sin atenuar el escritorio; y no notificar nunca, que
 deshabilita UAC y **«isn't recommended due to security concerns»** (no se recomienda por seguridad).
+
+### Las cuentas de usuario del equipo y el inicio de sesión
+
+El UAC protege a quien trabaja en el equipo; antes hay que decidir con qué cuenta trabaja. Las
+cuentas locales son las del propio equipo: **«Las cuentas de usuario y sistema locales se definen
+localmente en un dispositivo y el dispositivo es la entidad de seguridad. Estas cuentas solo tienen
+derechos y permisos en ese dispositivo.»** Junto a ellas, el equipo admite la cuenta Microsoft y la
+cuenta profesional o educativa; y Microsoft, en su página de soporte, recomienda la primera: **«Microsoft
+recomienda usar una cuenta de Microsoft, no una cuenta local, al iniciar sesión en Windows.»** (En
+Home, además, la cuenta Microsoft es obligatoria en la configuración inicial: epígrafe 1.)
+
+Tipos de cuenta. Una cuenta tiene privilegios de administrador o es estándar (Microsoft lo ilustra con
+padres administradores e hijos con cuentas estándar), y se piden pocos administradores:
+**«Los administradores pueden cambiar la configuración, instalar software y obtener acceso a todos los
+archivos.»** **«Es más seguro tener menos administradores y usar cuentas de usuario estándar para las
+actividades diarias.»** La documentación técnica lo dice como buena práctica: **«Como procedimiento
+recomendado de seguridad, use la cuenta local (que no es de administrador) para iniciar sesión y, a
+continuación, use Ejecutar como administrador para realizar tareas que requieran un mayor nivel de
+derechos o permisos que una cuenta de usuario estándar.»**
+
+Las tareas, desde Configuración > Cuentas (rutas reconstruidas, porque la página las da desordenadas):
+
+| Tarea | Ruta | Lo que conviene saber |
+|---|---|---|
+| Agregar un usuario | Cuentas > Otros usuarios > Agregar otro usuario > **Agregar cuenta** | Con cuenta Microsoft basta el correo. Para una cuenta local, tras «No tengo los datos de inicio de sesión de esta persona»: **«Si desea crear una cuenta local, seleccione la opción Agregar un usuario sin una cuenta de Microsoft»** |
+| Hacer administrador (o volver a estándar) | Cuentas > Otros usuarios > la cuenta > **Cambiar tipo de cuenta** | Se elige el tipo en la lista desplegable y se acepta |
+| Quitar un usuario | Cuentas > Otros usuarios > la cuenta > junto a Cuenta y datos, **Quitar** | **«Al quitar una cuenta, no se elimina la cuenta Microsoft de esa persona. Quita la información de inicio de sesión y los datos del dispositivo.»** |
+| Conectar una cuenta profesional o educativa | Cuentas > Obtener acceso a trabajo o escuela > **Conectar** | **«Para conectar una cuenta profesional o educativa, su organización debe admitir dispositivos personales o escenarios de dispositivo propio (BYOD).»** |
+
+Desde las herramientas clásicas, las cuentas se gestionan en Administración de equipos (`compmgmt.msc`,
+epígrafe 9): **«Las cuentas de usuario local predeterminadas y las cuentas de usuario local que cree se
+encuentran en la carpeta Usuarios y grupos locales\Usuarios de Administración de equipos.»** La orden
+`net user` se estudia en el tema 8.
+
+Las cuentas integradas que crea la instalación:
+
+- Administrador. **«El programa de instalación de Windows deshabilita la cuenta de administrador
+  integrada y crea otra cuenta local que es miembro del grupo Administradores.»** **«No puede eliminar
+  ni bloquear la cuenta de administrador predeterminada. Sin embargo, puede cambiar el nombre o
+  deshabilitarlo.»** Y enlaza con el modo seguro (epígrafe 5): **«Incluso cuando la cuenta de
+  administrador está deshabilitada, puede usarla para obtener acceso a un equipo si la inicia en modo
+  seguro.»** Las reglas del modo seguro: con las redes habilitadas, vale una cuenta de dominio miembro
+  del grupo de administradores; si hay otro miembro habilitado del grupo de administradores locales,
+  vale esa cuenta; y **«Si no hay ninguna otra cuenta habilitada, el modo seguro habilita
+  automáticamente la cuenta de administrador.»**
+- Invitado. **«La cuenta de invitado tiene permisos y derechos de usuario limitados. De forma
+  predeterminada, la cuenta de invitado está deshabilitada y tiene una contraseña en blanco.»** Por el
+  acceso anónimo que puede dar, **«se recomienda dejar deshabilitada la cuenta de invitado, a menos que
+  sea necesario su uso.»** No es, por tanto, la cuenta que se da a un usuario nuevo del puesto: a ese se
+  le crea una cuenta estándar.
+
+Las opciones de inicio de sesión (Windows Hello) están en Configuración > Cuentas > Opciones de inicio
+de sesión. La página de soporte se sirve en inglés: **«Instead of using a password, with Windows Hello
+you can sign in using facial recognition, fingerprint, or a PIN.»** (en lugar de la contraseña, cara,
+huella o PIN). Tres maneras: reconocimiento facial, con la cámara de infrarrojos del equipo o una
+externa de infrarrojos; huella dactilar; y PIN. Requisitos: **«Signing in with your face requires a Hello-compatible
+camera. Signing in with your fingerprint requires your device to have a fingerprint reader.»** Del PIN
+dice que **«your PIN is only associated with one device»** (sólo vale en ese equipo).
 
 ## 7. Centro de notificaciones
 
@@ -1383,7 +1496,10 @@ llevan la marca **«Esta directiva es una directiva heredada y no es aplicable a
 - PowerShell como lenguaje (variables, tuberías, estructuras): tema 7. Aquí sólo aparecen los cmdlets
   que sirven a una tarea de Windows 11 (`Get-Service`, `Initialize-Disk`, `Invoke-GPUpdate`).
 - Active Directory, el dominio, el controlador de dominio y la gestión de usuarios y recursos: tema 8.
-  Aquí la directiva de grupo se estudia desde el puesto cliente.
+  Aquí la directiva de grupo se estudia desde el puesto cliente, y las cuentas, desde el equipo local;
+  la orden `net user`, también en el tema 8.
+- Instalar aplicaciones desde la línea de órdenes con WinGet: tema 7. Comprobar y reparar los archivos
+  del sistema con `sfc`: tema 2. Habilitar y usar el Escritorio remoto (RDP): tema 10.
 - Antivirus, malware, cortafuegos y VPN en detalle: tema 14. Copias de seguridad, clonación y
   recuperación de datos: tema 3. Diagnóstico de averías y códigos de error del hardware: tema 2.
   Virtualización e Hyper-V: tema 10. Microsoft 365, OneDrive y Teams: tema 11. Redes, IPv4/IPv6 y
@@ -1400,7 +1516,11 @@ llevan la marca **«Esta directiva es una directiva heredada y no es aplicable a
 
 ## Trazabilidad
 
-Todas las fuentes se leyeron el 05-10-2026 en su versión en línea de ese día. Las páginas de Microsoft
+Todas las fuentes se leyeron el 05-10-2026 en su versión en línea de ese día, salvo las cuatro
+añadidas en el remate (configuración de inicio, cuentas de usuario, cuentas locales y Windows Hello),
+leídas el 06-10-2026, y las tres de las remisiones a los temas 2, 7 y 10 (`sfc`, WinGet y Habilitar
+Escritorio remoto), releídas en la revisión del remate: `sfc` y Escritorio remoto, el 05-10-2026;
+WinGet, el 06-10-2026. Las páginas de Microsoft
 no llevan versión fechada; cuando la muestran, se anota la fecha de su última actualización.
 
 | Fuente | Qué sostiene |
@@ -1432,6 +1552,13 @@ no llevan versión fechada; cuando la muestran, se anota la fecha de su última 
 | Soporte de Microsoft: «Configuración del control de cuentas de usuario» (la página servida en es-es está en inglés) | Niveles del UAC |
 | Soporte de Microsoft: «Notificaciones y No molestar en Windows», «Personalice su experiencia de Windows con temas», «Personalizar los colores en Windows», «Explorar la configuración de Windows», «Herramientas de configuración del sistema en Windows» | Notificaciones, personalización, Configuración, herramientas avanzadas, Panel de control |
 | Soporte de Microsoft: «Un reinicio al mes para las actualizaciones de Windows» (KB5121772, 14-08-2026), «Mantener el equipo al día con las horas activas», «Windows Update: Preguntas más frecuentes», «Obtener actualizaciones de Windows tan pronto como estén disponibles para el dispositivo» | Reinicios para actualizar |
+| Soporte de Microsoft (es-es): «Configuración de inicio de Windows» | Configuración de inicio, sus nueve opciones, modo seguro y cómo salir de él |
+| Soporte de Microsoft (es-es): «Administrar cuentas de usuario en Windows» | Agregar, quitar y cambiar el tipo de cuenta, cuenta local, cuenta profesional o educativa, recomendación de la cuenta Microsoft y de pocos administradores |
+| Microsoft Learn (es-es), «Cuentas locales» (13-04-2026) | Cuentas locales, Usuarios y grupos locales, Administrador e Invitado integrados, modo seguro y cuenta de administrador, Ejecutar como administrador |
+| Soporte de Microsoft, «Configure Windows Hello» (la dirección es-es redirige a la página en inglés) | Opciones de inicio de sesión: cara, huella y PIN, requisitos |
+| Microsoft Learn, «sfc» (referencia de órdenes de Windows, en inglés) | `sfc /scannow`, comprobación y reparación de archivos protegidos, grupo Administradores |
+| Microsoft Learn (es-es), «Instalación de PowerShell en Windows» | WinGet incluido en Windows 11 |
+| Microsoft Learn (es-es), «Habilitar Escritorio remoto en el equipo» | Ruta Configuración > Sistema > Escritorio remoto |
 | SNIA, *Online Dictionary*, «trim» | Definición de TRIM |
 
 Las páginas de Microsoft en castellano son traducción automática y traen erratas; se citan tal cual y
@@ -1451,5 +1578,7 @@ administrativo; la distinción entre cifrado de volumen y de fichero; la lectura
 decisión; el consejo de mirar las dependencias cuando un servicio no arranca, y la consola `services.msc`;
 el uso de revertir el controlador cuando el fallo sigue a una actualización; qué es la carga lateral; la consecuencia
 práctica de la red pública; el consejo de dejar desactivado el modo desarrollador en un puesto
-corporativo; y la secuencia de `diskpart` del epígrafe 3, que se construye con órdenes cuya sintaxis
+corporativo; el caso práctico del modo seguro tras un controlador que impide arrancar, y la advertencia
+de no confundir la casilla Arranque seguro de `msconfig` con el arranque seguro de UEFI; que la cuenta
+Invitado no es la que se da a un usuario nuevo del puesto; y la secuencia de `diskpart` del epígrafe 3, que se construye con órdenes cuya sintaxis
 sí está citada.

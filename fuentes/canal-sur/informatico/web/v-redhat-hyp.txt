@@ -1,0 +1,777 @@
+URL: https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor
+Leído: 2026-10-06
+
+What is a hypervisor?
+
+ Skip to content
+## Navigation
+
+Menu
+
+Explore Red Hat
+
+ AI
+
+- 
+### Overview
+
+- 
+ AI news
+
+- 
+ Technical blog
+
+- 
+ Live AI events
+
+- 
+ Inference explained
+
+- See our approach
+
+- 
+### Products
+
+- 
+ Lightwell
+
+- 
+ Red Hat AI Enterprise
+
+- 
+ Red Hat AI Inference
+
+- 
+ Red Hat Enterprise Linux AI
+
+- 
+ Red Hat OpenShift AI
+
+- Explore Red Hat AI
+
+- 
+### Engage & learn
+
+- 
+ Learning hub
+
+- 
+ AI topics
+
+- 
+ AI partners
+
+- 
+ Services for AI
+
+ Hybrid cloud
+
+- 
+### Platform solutions
+
+- Artificial intelligence
+Build, deploy, and monitor AI models and apps.
+
+- Linux standardization
+Get consistency across operating environments.
+
+- Application development
+Simplify the way you build, deploy, and manage apps.
+
+- Automation
+Scale automation and unite tech, teams, and environments.
+
+- 
+### Use cases
+
+- Virtualization
+Modernize operations for virtualized and containerized workloads.
+
+- Digital sovereignty 
+Control and protect critical infrastructure. 
+
+- Security
+Code, build, deploy, and monitor security-focused software.
+
+- Edge computing
+Deploy workloads closer to the source with edge technology.
+
+- Explore solutions
+
+- 
+### Solutions by industry
+
+- 
+ Automotive
+
+- 
+ Financial services
+
+- 
+ Healthcare
+
+- 
+ Industrial sector
+
+- 
+ Media and entertainment
+
+- 
+ Public sector (Global)
+
+- 
+ Public sector (U.S.)
+
+- 
+ Telecommunications
+
+### Discover cloud technologies
+
+Learn how to use our cloud products and solutions at your own pace in the Red Hat® Hybrid Cloud Console. 
+
+ Products
+
+- 
+### Platforms
+
+- Red Hat AI
+Develop and deploy AI solutions across the hybrid cloud.
+
+- Red Hat Enterprise Linux
+Support hybrid cloud innovation on a flexible operating system.
+
+- Red Hat OpenShift
+Build, modernize, and deploy apps at scale.
+
+- Red Hat Ansible Automation Platform
+Implement enterprise-wide automation.
+
+- 
+### Featured
+
+- 
+ Lightwell
+
+- 
+ Red Hat AI Enterprise
+
+- 
+ Red Hat OpenShift Virtualization Engine
+
+- 
+ Red Hat Desktop
+
+- See all products
+
+- 
+### Try & buy
+
+- 
+ Start a trial
+
+- 
+ Buy online
+
+- 
+ Integrate with major cloud providers
+
+- 
+### Services & support
+
+- 
+ Consulting
+
+- 
+ Product support
+
+- 
+ Services for AI
+
+- 
+ Technical Account Management
+
+- Explore services
+
+ Training
+
+- 
+### Training & certification
+
+- 
+ Courses and exams
+
+- 
+ Certifications
+
+- 
+ Skills assessments
+
+- 
+ Red Hat Academy
+
+- 
+ Learning subscription
+
+- Explore training
+
+- 
+### Featured
+
+- 
+ Red Hat Certified System Administrator exam
+
+- 
+ Red Hat System Administration I
+
+- 
+ Red Hat Learning Subscription trial (No cost)
+
+- 
+ Red Hat Certified Engineer exam
+
+- 
+ Red Hat Certified OpenShift Administrator exam
+
+- 
+### Services
+
+- 
+ Consulting
+
+- 
+ Partner training
+
+- 
+ Product support
+
+- 
+ Services for AI
+
+- 
+ Technical Account Management
+
+ Learn
+
+- 
+### Build your skills
+
+- 
+ Documentation
+
+- 
+ Hands-on labs
+
+- 
+ Red Hat learning hub
+
+- 
+ Interactive demos
+
+- 
+ Training and certification
+
+- 
+### More ways to learn
+
+- 
+ Blog
+
+- 
+ Events and webinars
+
+- 
+ Podcasts and video series
+
+- 
+ Red Hat TV
+
+- 
+ Resource library
+
+### For developers
+
+Discover resources and tools to help you build, deliver, and manage cloud-native applications and services.
+
+ Partners
+
+- 
+### For customers
+
+- 
+ Our partners
+
+- 
+ Red Hat Ecosystem Catalog
+
+- Find a partner
+
+- 
+### For partners
+
+- 
+ Partner Connect
+
+- 
+ Become a partner
+
+- 
+ Training
+
+- 
+ Support
+
+- Access the partner portal
+
+### Build solutions powered by trusted partners
+
+Find solutions from our collaborative community of experts and technologies in the Red Hat® Ecosystem Catalog.
+
+Console
+Docs
+Support
+
+ Search
+
+×
+
+### I'd like to:
+
+- Start a trial
+
+- Buy a learning subscription
+
+- Manage subscriptions
+
+- Contact sales
+
+- Contact customer service
+
+- See Red Hat jobs
+
+### Help me find:
+
+- Documentation
+
+- Developer resources
+
+- Tech topics
+
+- Architecture center
+
+- Security updates
+
+- Customer support
+
+### I want to learn more about:
+
+- AI
+
+- Application modernization
+
+- Automation
+
+- Cloud-native applications
+
+- Linux
+
+- Virtualization
+
+New For you
+
+### Recommended
+
+We'll recommend resources you may like as you browse. Try these suggestions for now.
+
+- Product trial center
+
+- Courses and exams
+
+- All products
+
+- Tech topics
+
+- Resource library
+
+Log in
+
+### Get more with a Red Hat account
+
+- Console access
+
+- Event registration
+
+- Training & trials
+
+- World-class support
+
+Explore more account benefitsLog in or register
+
+A subscription may be required for some services.
+
+Change page language简体中文EnglishFrançaisDeutschItaliano日本語한국어PortuguêsEspañol
+Contact us
+
+### [[name]]
+
+ Edit avatar
+
+Login: [[login]]
+
+Account number: [[account_number]]
+
+[[email]]
+
+Change page language简体中文EnglishFrançaisDeutschItaliano日本語한국어PortuguêsEspañolLog out
+
+- Topics
+
+- Virtualization
+
+- What is a hypervisor?
+
+# What is a hypervisor?
+
+Published January 3, 2023•4-minute readCopiedFailedCopy URL
+
+## Jump to section
+What is a hypervisor?Types of hypervisorsContainers vs. VMsSecurity considerationsWhy choose Red Hat? 
+
+## What is a hypervisor?
+
+A hypervisor is software that pools computing resources—like processing, memory, and storage—and reallocates them among virtual machines (VMs). This technology makes virtualization possible, meaning you can create and run many VMs from a single physical machine.
+
+A hypervisor is sometimes called a virtual machine monitor (VMM). Think of it as the supervisor in charge of dispersing the components that make up VMs. A hypervisor takes these resources from physical hardware and supplies them to multiple VMs at once, allowing the creation of new VMs and the management of existing ones. The physical hardware, when used as a hypervisor, is called the host, while the many VMs that use its resources are guests.
+
+## How does a hypervisor work?
+
+All hypervisors need some operating system-level components—such as a memory manager, process scheduler, input/output (I/O) stack, device drivers, security manager, a network stack, and more—to run VMs.
+
+The hypervisor gives each virtual machine the resources that have been allocated and manages the scheduling of VM resources against the physical resources. The physical hardware still does the execution, so CPU is still executing CPU instructions as requested by the VMs, for example, while the hypervisor manages the schedule.
+
+Multiple different operating systems can run alongside each other and share the same virtualized hardware resources with a hypervisor. This is a key benefit of virtualization. Without virtualization, you can only run 1 operating system on the hardware. 
+
+There are many choices for hypervisors from traditional vendors and open source. VMware is a popular choice for virtualization, and offers the ESXi hypervisor and vSphere virtualization platform.
+
+Kernel-based Virtual Machine (KVM) is an open source option and is built into the Linux® kernel. Additional options include Xen, which is open source, and Microsoft Hyper-V. 
+Explore Red Hat's virtualization solution 
+
+## Types of hypervisors
+
+There are 2 different types of hypervisors that can be used for virtualization: type 1 and type 2 hypervisors.
+
+### Type 1
+
+A type 1 hypervisor, also referred to as a native or bare metal hypervisor, runs directly on the host’s hardware to manage guest operating systems. It takes the place of a host operating system and VM resources are scheduled directly to the hardware by the hypervisor. 
+
+This type of hypervisor is most common in an enterprise data center or other server-based environments.
+
+KVM, Microsoft Hyper-V, and VMware vSphere are examples of a type 1 hypervisor. KVM was merged into the Linux kernel in 2007, so if you’re using a modern version of Linux, you already have access to KVM. 
+
+### Type 2
+
+A type 2 hypervisor is also known as a hosted hypervisor, and is run on a conventional operating system as a software layer or application.
+
+It works by abstracting guest operating systems from the host operating system. VM resources are scheduled against a host operating system, which is then executed against the hardware. 
+
+A type 2 hypervisor is better for individual users who want to run multiple operating systems on a personal computer. 
+
+VMware Workstation and Oracle VirtualBox are examples of a type 2 hypervisor. 
+
+## The state of virtualization
+
+Get the resource
+
+## Containers vs. VMs
+
+At a high level, containers and VMs seem similar. They are both packaged computing environments that combine various IT components and isolate them from the rest of a system. The important distinction is in how they scale and their portability. 
+
+A container is a set of 1 or more processes that are isolated from the rest of the system. The container allows the process to access only the resource requests that have been specified. These resource limits ensure that the container is able to run on a node that has enough capacity.
+
+VMs contain their own operating system (OS), allowing them to perform multiple resource-intensive functions at once. The increased resources available to VMs allow them to abstract, split, duplicate, and emulate entire servers, OSs, desktops, databases, and networks. 
+
+A hypervisor also allows you to run multiple operating systems in VMs, but containers are only able to run a single type of operating system. A container running on a Linux server, for example, is only able to run a Linux operating system. 
+
+Containers are sometimes thought of as a replacement for hypervisors, though this isn’t exactly accurate since containers and virtualization meet different needs.
+
+Continue reading
+
+## Hypervisor security considerations
+
+A VM provides an environment that is isolated from the rest of a system, so whatever is running inside a VM won’t interfere with anything else running on the host hardware.
+
+Because VMs are isolated, even if a VM is compromised, the entire system shouldn’t be impacted. 
+
+However, if the hypervisor itself is hacked that can cause problems for all of the VMs that the hypervisor manages, leaving the data in each VM vulnerable. 
+
+Security protocols and requirements may vary based on the type of hypervisor.
+
+## Why choose Red Hat for virtualization?
+
+Is OpenShift Virtualization right for your VMs? Video duration: 1:57
+
+A hypervisor provides the foundation for your virtualization platform. Red Hat® has supported virtualization development for a long time—improving the KVM hypervisor and contributing to KVM and oVirt since both communities were founded.
+
+### Migrate your VMs and maintain your momentum
+
+Red Hat’s trusted products and partner ecosystem deliver comprehensive virtualization solutions. Migrate your virtual machines now to Red Hat® OpenShift® Virtualization, a modern app platform–based on KVM and KubeVirt–that integrates virtual and containerized workloads to provide flexibility without added complexity. Or, for a dedicated virtualization solution, explore Red Hat OpenShift Virtualization Engine, a streamlined, cost-effective offering to deploy, manage, and scale VMs exclusively. The included migration toolkit for virtualization provides the tools you need to start your migration in a few simple steps.
+
+### Automate your migration
+
+Use automation to accelerate delivery with Red Hat Ansible® Automation Platform–from migration at scale to Day 2 operations and remediation. With this flexible approach, you can automate tasks to improve speed and efficiency of IT operations.
+
+### Manage and modernize at your own pace
+
+Monitor the security and performance of your VMs from a single console with Red Hat Advanced Cluster Management. With additional support options and partner integrations, you can rely on Red Hat to keep your virtual infrastructure running smoothly throughout the hybrid cloud–and help you modernize when you’re ready. 
+
+Explore our virtualization solution
+
+Blog post
+
+### Red Hat named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms
+
+Red Hat has been recognized as a Leader in the Gartner® Magic Quadrant™ for Server Virtualization Platforms for Red Hat OpenShift Virtualization.
+
+Read the blog post
+
+### Migrate and manage virtual infrastructure
+
+Companies are reassessing their virtualization platforms to ensure they have the right combination of consistency and support. Download to read more.
+
+Get the resource 
+
+### Keep reading
+
+### What is software-defined networking?
+
+ Software-defined networking (SDN) is an approach to IT infrastructure that abstracts networking resources into a virtualized system.
+
+Read the article
+
+### What is microsegmentation?
+
+ Microsegmentation is a software-defined security technique that divides a network into small, isolated sections to protect individual workloads.
+
+Read the article
+
+### How to create a virtual machine with an instance type
+
+ Find out how to create a virtual machine with an instance type in Red Hat OpenShift Virtualization using the Red Hat OpenShift console graphical user interface.
+
+Read the article
+
+### Virtualization resources
+
+### Related content
+
+- 
+
+Blog post
+
+ Migrate virtual machines with Red Hat OpenStack Services on OpenShift
+
+- 
+
+Datasheet
+
+ Red Hat Advanced Cluster Management for Virtualization
+
+- 
+
+Blog post
+
+ Red Hat Named a Leader in the 2026 Gartner Magic Quadrant for server virtualization platforms
+
+- 
+
+Blog post
+
+ Accelerating growth at Ecosystem Success Day 2026
+
+### Related articles
+
+- 
+ What is software-defined networking?
+
+- 
+ Containers vs. VMs: Why not both?
+
+- 
+ What is microsegmentation?
+
+- 
+ What is KVM?
+
+- 
+ How to create a virtual machine with an instance type
+
+- 
+ What is a virtual machine (VM)?
+
+- 
+ What's the difference between cloud and virtualization?
+
+- 
+ What is virtualization?
+
+- 
+ Red Hat OpenShift on VMware
+
+- 
+ What is virtualization management?
+
+- 
+ How to migrate VMs from VMware to Red Hat OpenShift Virtualization
+
+- 
+ KVM vs. VMware
+
+- 
+ What is virtual infrastructure management? And how can automation help?
+
+- 
+ How to choose a virtualization platform
+
+- 
+ What is KubeVirt?
+
+- 
+ What is live migration?
+
+- 
+ Why choose Red Hat for virtualization?
+
+- 
+ Why migrate virtual machines to Red Hat?
+
+- 
+ Learn everything you need to know about Open RAN
+
+- 
+ VNF and CNF, what’s the difference?
+
+- 
+ What is SD-WAN?
+
+- 
+ What is a radio access network?
+
+- 
+ What is network virtualization?
+
+- 
+ What is hyperconverged infrastructure?
+
+- 
+ What is NFV?
+
+- 
+ What is container-native virtualization?
+
+- 
+ What is vRAN?
+
+More about this topic 
+
+### Platforms
+
+- Red Hat AI
+
+- Red Hat Enterprise Linux
+
+- Red Hat OpenShift
+
+- Red Hat Ansible Automation Platform
+
+- See all products
+
+### Tools
+
+- Training and certification
+
+- My account
+
+- Customer support
+
+- Developer resources
+
+- Find a partner
+
+- Red Hat Ecosystem Catalog
+
+- Documentation
+
+### Try, buy, & sell
+
+- Product trial center
+
+- Red Hat Store
+
+- Buy online (Japan)
+
+- Console
+
+### Communicate
+
+- Contact sales
+
+- Contact customer service
+
+- Contact training
+
+- Social
+
+### 
+ About Red Hat
+
+ Red Hat is an open hybrid cloud technology leader, delivering a consistent, comprehensive foundation for transformative IT and artificial intelligence (AI) applications in the enterprise. As a trusted adviser to the Fortune 500, Red Hat offers cloud, developer, Linux, automation, and application platform technologies, as well as award-winning services.
+
+- Our company
+
+- How we work
+
+- Customer success stories
+
+- 
+ Analyst relations
+
+- Newsroom
+
+- Open source commitments
+
+- Our social impact
+
+- Jobs
+
+Change page language简体中文EnglishFrançaisDeutschItaliano日本語한국어PortuguêsEspañol
+### Red Hat legal and privacy links
+
+- About Red Hat
+
+- Jobs
+
+- Events
+
+- Locations
+
+- Contact Red Hat
+
+- Red Hat Blog
+
+- Inclusion at Red Hat
+
+- Cool Stuff Store
+
+- Red Hat Summit
+
+### Red Hat legal and privacy links
+
+- Privacy statement
+
+- Terms of use
+
+- All policies and guidelines
+
+- Digital accessibility
+
+- 
+© 2026 Red Hat

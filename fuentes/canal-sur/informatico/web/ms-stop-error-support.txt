@@ -1,0 +1,305 @@
+Troubleshooting Windows unexpected restarts and stop code errors | Microsoft Support
+
+ Skip to main content
+
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+
+Sign in with Microsoft
+
+Sign in or create an account.
+
+Hello,
+
+Select a different account.
+
+You have multiple accounts
+
+Choose the account you want to sign in with.
+
+Troubleshooting Windows unexpected restarts and stop code errors
+
+ Applies To
+Windows 11 Windows 10 
+
+Get help with Copilot
+
+ How do I troubleshoot Windows restarts?
+
+ Tell me about the Windows Update Troubleshooter.
+
+ How do I troubleshoot Windows restarts?
+
+- 
+Windows 11
+
+- 
+Windows 10
+
+Windows 11 might shut down or restart unexpectedly when a serious problem occurs, causing you to briefly see an error message, such as “Your device ran into a problem and needs to restart.” Windows 11 will then restart automatically. This is also known as a stop code error, a bug check, a kernel error, or a Blue Screen error, or a Black Screen error, or BSOD.
+
+Note
+
+For blank screen, often referred to as a “black screen” due to its appearance, without a stop error code or with a cursor on it, see Troubleshooting blank screens in Windows.
+
+An unexpected restart might be caused by a hardware device, its driver, or software. To help determine the cause of the problem, a stop code, such as PAGE_FAULT_IN_NONPAGED_AREA or MEMORY_MANAGEMENT will appear at the bottom of the screen, and if available, the module name of the code that was being executed at the time the problem occurred.
+
+The screen color and messaging for a stop code error can vary, depending on which version of Windows 11 you are running.
+
+Windows 11, version 24H2 and later:
+
+Windows 11, version 23H2 and older:
+
+Basic troubleshooting steps for Windows 11 blue screens, black screens and stop code errors
+
+In most cases when Windows 11 restarts unexpectedly, the problem is resolved by the restart and no further action is needed. However, if Windows 11 restarts frequently due to the same stop code error, try these basic troubleshooting steps to resolve the issue: 
+
+- Remove any new hardware. If you added new hardware to your PC before the error, shut down your PC, remove the hardware, and try restarting.
+
+- Start your PC in safe mode. If you're having trouble restarting, you can start your PC in safe mode. See start your PC in safe mode in Windows 11 for details. From safe mode, you can try the remaining troubleshooting steps.
+
+- Check the Device Manager. Right-click the Start button and select Device Manager. Check to see if any devices are marked with the exclamation point (!). Right-click the device and select Update driver. If updating the driver doesn’t help, try disabling or uninstalling the device.
+
+- Check for sufficient free space on the hard drive. The operating system and some applications require sufficient free space to create swap files and perform other functions. Based on the system configuration, the exact requirement varies, but it's a good idea to have 10% to 15% of free space available.
+
+- Install the latest Windows 11 Updates. To check for updates, select Start 
+ > Settings 
+ > Windows Update 
+, then select Check for updates. 
+
+- Restore Windows 11. If none of these steps help, try restoring Windows 11 using a system restore point, or one of the other options listed at Recovery options in Windows 11. Choose the recovery option that most closely matches your scenario.
+
+If you are an IT professional or an advanced user, you can try Advanced troubleshooting steps for Windows blue screens, black screens and stop code errors.
+
+Windows 10 might shut down or restart unexpectedly when a serious problem occurs, causing you to briefly see an error message, such as “Your device ran into a problem and needs to restart.” Windows 10 will then restart automatically. This is also known as a stop code error, a bug check, a kernel error, or a Blue Screen error, or BSOD.
+
+An unexpected restart might be caused by a hardware device, its driver, or software. To help determine the cause of the problem, a stop code, such as PAGE_FAULT_IN_NONPAGED_AREA or MEMORY_MANAGEMENT will appear at the bottom of the screen, and if available, the module name of the code that was being executed at the time the problem occurred.
+
+Basic troubleshooting steps for Windows 10 blue screens and stop code errors
+
+In most cases when Windows 10 restarts unexpectedly, the problem is resolved by the restart and no further action is needed. However, if Windows 10 restarts frequently due to the same stop code error, try these basic troubleshooting steps to resolve the issue: 
+
+- Remove any new hardware. If you added new hardware to your PC before the error, shut down your PC, remove the hardware, and try restarting.
+
+- Start your PC in safe mode. If you're having trouble restarting, you can start your PC in safe mode. See start your PC in safe mode in Windows 10 for details. From safe mode, you can try the remaining troubleshooting steps.
+
+- Check the Device Manager. Right-click the Start button and select Device Manager. Check to see if any devices are marked with the exclamation point (!). Right-click the device and select Update driver. If updating the driver doesn’t help, try disabling or uninstalling the device.
+
+- Check for sufficient free space on the hard drive. The operating system and some applications require sufficient free space to create swap files and perform other functions. Based on the system configuration, the exact requirement varies, but it's a good idea to have 10% to 15% of free space available.
+
+- Install the latest Windows 10 Updates. To check for updates, select Start 
+  > Settings 
+
+  Update & Security 
+
+  Windows Update 
+  > select Check for Windows updates. 
+
+- Restore Windows 10. If none of these steps help, try restoring Windows 10 using a system restore point, or one of the other options listed at Recovery options in Windows 10. Choose the recovery option that most closely matches your scenario.
+
+If you are an IT professional or an advanced user, you can try Advanced troubleshooting steps for Windows blue screens and stop code errors.
+
+Was this information helpful?
+
+ Yes
+ No
+
+ Thank you! Any more feedback for Microsoft?
+
+ Can you help us improve? (Send feedback to Microsoft so we can help.)
+
+ What affected your experience?
+
+ Resolved my issue
+
+ Clear instructions
+
+ Easy to follow
+
+ No jargon
+
+ Pictures helped
+
+ Other
+
+ Didn't match my screen
+
+ Incorrect instructions
+
+ Too technical
+
+ Not enough information
+
+ Not enough pictures
+
+ Other
+
+ Any additional feedback? (Optional)
+
+ Submit feedback
+
+ By pressing submit, your feedback will be used to improve Microsoft products and services.
+ Your IT admin will be able to collect this data.
+ Privacy Statement.
+
+Thank you for your feedback!
+
+ ×
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-

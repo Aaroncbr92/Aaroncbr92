@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 14 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Normas: Reglamento (UE) n.º 910/2014 (eIDAS), Ley 6/2020 de servicios electrónicos de confianza, Ley 39/2015 (art. 10) y Real Decreto 311/2022 (Esquema Nacional de Seguridad, anexo II). Técnica: publicaciones del NIST (SP 800-83, 800-41, 800-46, 800-77 y su glosario), RFC de la IETF (5280, 3161, 6960, 7208, 6376 y 9989), documentación de Microsoft Learn en castellano, guía de INCIBE y sede electrónica de la FNMT-RCM |
-| Redacción que se estudia | eIDAS en el texto consolidado de EUR-Lex de 18-10-2024 (el último publicado); leyes y real decreto en su redacción vigente según el BOE; páginas técnicas en su versión en línea. Todo leído el 05-10-2026 |
-| Extensión | 15.700 palabras aproximadamente (con las siglas y los cuadros) |
+| Fuente | Normas: Reglamento (UE) n.º 910/2014 (eIDAS), Ley 6/2020 de servicios electrónicos de confianza, Ley 39/2015 (art. 10) y Real Decreto 311/2022 (Esquema Nacional de Seguridad, anexo II). Técnica: publicaciones del NIST (SP 800-83, 800-41, 800-46, 800-77 y su glosario; FIPS 180-4 y 202), RFC de la IETF (5280, 3161, 6960, 7208, 6376 y 9989), documentación de Microsoft Learn en castellano, guía de INCIBE y sede electrónica de la FNMT-RCM |
+| Redacción que se estudia | eIDAS en el texto consolidado de EUR-Lex de 18-10-2024 (el último publicado); leyes y real decreto en su redacción vigente según el BOE; páginas técnicas en su versión en línea. Leído el 05-10-2026 (el FIPS 180-4 y el FIPS 202, el 06-10-2026) |
+| Extensión | 16.200 palabras aproximadamente (con las siglas y los cuadros) |
 
 <!-- /portada -->
 
@@ -42,7 +42,12 @@ autoridad de certificación (CA, *certification authority*; la FNMT escribe AC) 
 Certificate Status Protocol*); la autoridad de sellado de tiempo (TSA, *Time Stamping Authority*); el
 tiempo universal coordinado (UTC); el estándar de cifrado avanzado (AES), el algoritmo internacional de
 cifrado de datos (IDEA), el triple DES (3DES) y el algoritmo de Rivest, Shamir y Adleman (RSA), más
-Diffie-Hellman y ElGamal, que son apellidos; el nombre alternativo del sujeto de un certificado (SAN,
+Diffie-Hellman y ElGamal, que son apellidos; el algoritmo de resumen seguro (SHA, *Secure Hash
+Algorithm*) y MD5, nombre de otro algoritmo de resumen; las normas federales de proceso de la
+información de Estados Unidos (FIPS, *Federal Information Processing Standard*); en las citas del NIST,
+DH es Diffie-Hellman y ECDH su versión de curva elíptica; el código de autenticación de mensajes con
+clave basado en resumen (HMAC, *keyed-hash message authentication code*); CBC y GCM, dos modos de uso
+de AES (*Cipher Block Chaining* y *Galois Counter Mode*); el nombre alternativo del sujeto de un certificado (SAN,
 *subject alternative name*) y la indicación del nombre del servidor (SNI, *server name indication*);
 la consola de administración de Microsoft (MMC); el estándar de interfaz criptográfica PKCS#11 y el
 formato de almacén PKCS#12 (de donde vienen las extensiones `.p12` y `.pfx`); las codificaciones
@@ -73,7 +78,7 @@ una brecha; qué tipos de cortafuegos hay y en qué capa decide cada uno; qué e
 qué es «denegar por defecto»; qué diferencia un IDS de un IPS; qué protegen SPF, DKIM y DMARC; cuáles
 son las cuatro formas de acceso remoto; qué arquitecturas de VPN hay, qué hacen ESP e IKE y qué es
 una VPN SSL; qué exige el ENS sobre perímetro, VPN, correo y código dañino; qué distingue la
-criptografía simétrica de la asimétrica, qué es Diffie-Hellman y qué es una función resumen; qué es un
+criptografía simétrica de la asimétrica, qué es Diffie-Hellman, qué es una función resumen y cuáles son las SHA; qué algoritmos ya no deben usarse; qué es un
 certificado, quién lo expide, cómo se revoca y cómo se comprueba su estado; qué es un sello de tiempo
 y qué presunción da el cualificado; qué tres clases de firma electrónica define el eIDAS, qué requisitos
 tiene la avanzada y cuál equivale a la manuscrita; cuánto dura como máximo un certificado cualificado;
@@ -330,7 +335,11 @@ autorizadas.»**) y R4 el EDR (**«Se emplearán herramientas de seguridad orien
 investigar y resolver actividades sospechosas en puestos de usuario y servidores (EDR - Endpoint
 Detection and Response).»**). Otra medida del mismo anexo que toca al puesto: **«[mp.eq.2.1] El puesto
 de trabajo se bloqueará al cabo de un tiempo prudencial de inactividad, requiriendo una nueva
-autenticación del usuario para reanudar la actividad en curso.»** El ENS **«es de aplicación a todo el
+autenticación del usuario para reanudar la actividad en curso.»** Esta medida no se aplica por
+categoría, sino por el nivel de la dimensión de autenticidad, **«Aplicación de la medida (por autenticidad).»**: **«Nivel BAJO: no aplica.»**, **«Nivel MEDIO: mp.eq.2.»** y **«Nivel
+ALTO: mp.eq.2 + R1.»**, donde el refuerzo R1 es el cierre de sesiones: **«[mp.eq.2.r1.1] Pasado un
+cierto tiempo, superior al anterior, se cancelarán las sesiones abiertas desde dicho puesto de
+trabajo.»** El ENS **«es de aplicación a todo el
 sector público, en los términos en que este se define por el artículo 2 de la Ley 40/2015»**; cómo
 encajan en él la RTVA y CSRTV es materia del tema 15.
 
@@ -632,9 +641,13 @@ Los servicios web publicados tienen sus propios ataques, que el cortafuegos de a
 | Falsificación de petición | Hacer que el navegador de la víctima envíe una petición legítima sin querer |
 | Denegación de servicio | Agotar los recursos del servicio con peticiones |
 
-El ENS, en «Protección de servicios y aplicaciones web [mp.s.2]», obliga a protegerlos; entre otras
-cosas, entre las amenazas de las que hay que protegerlos que enumera el [mp.s.2.1], **«d) Se prevendrán ataques de inyección de código.»**, **«[mp.s.2.2] Se prevendrán intentos de
-escalado de privilegios.»** y **«[mp.s.2.3] Se prevendrán ataques de cross site scripting.»**
+El ENS, en «Protección de servicios y aplicaciones web [mp.s.2]», dispone que **«Los sistemas que
+prestan servicios web deberán ser protegidos frente a las siguientes amenazas:»**. La primera lleva una
+condición: **«[mp.s.2.1] Cuando la información requiera control de acceso se garantizará la
+imposibilidad de acceder a la información obviando la autenticación, en particular, tomando medidas en
+los siguientes aspectos:»**, y entre esos aspectos está **«d) Se prevendrán ataques de inyección de
+código.»** Las otras dos no llevan condición: **«[mp.s.2.2] Se prevendrán intentos de escalado de
+privilegios.»** y **«[mp.s.2.3] Se prevendrán ataques de cross site scripting.»**
 
 ### El acceso remoto seguro
 
@@ -757,7 +770,7 @@ La criptografía se divide por el número de claves:
 
 | Familia | Cómo funciona | Ejemplos |
 |---|---|---|
-| Simétrica | La misma clave cifra y descifra | IDEA, AES, 3DES, ChaCha20 |
+| Simétrica | La misma clave cifra y descifra | IDEA, AES, 3DES (ya no debe usarse; véase «Los algoritmos»), ChaCha20 |
 | Asimétrica | Un par de claves: la pública cifra, la privada descifra | RSA, ElGamal, curva elíptica |
 | Intercambio de claves | Acordar una clave por un canal público sin transmitirla | Diffie-Hellman |
 
@@ -784,6 +797,18 @@ Unidos, normalizado en el FIPS 197; es un cifrador simétrico de bloque). Es el 
 (XTS-AES, tema 6). RSA y ElGamal son asimétricos; Diffie-Hellman, de intercambio de claves. Los
 algoritmos de la lista que no llevan cita se dan por su familia, como clasificación de oficio.
 
+Algunos algoritmos conocidos están ya retirados. La guía de VPN IPsec del NIST (SP 800-77 Rev. 1, de
+2020) avisa de que el triple DES **«is deprecated and is expected to be disallowed in the near
+future»** (está desaconsejado y se espera prohibirlo en breve); más adelante la misma guía precisa que
+**«Triple DES has been deprecated since 2019 and will be disallowed after 2023.»** (desaconsejado desde
+2019 y prohibido después de 2023). Y, al pasar de IKEv1 a IKEv2: **«3DES,
+MD5, SHA-1, and DH Groups 2 and 5 should not be used. Instead, AES-CBC with HMAC-SHA-2 or AES-GCM with
+either DH group 14 or an ECDH group (19, 20, or 21) should be used.»** (no deben usarse 3DES, MD5,
+SHA-1 ni los grupos 2 y 5 de Diffie-Hellman; en su lugar, AES-CBC con HMAC-SHA-2 o AES-GCM, con el
+grupo 14 de Diffie-Hellman o uno de curva elíptica). Sobre HMAC-MD5 es tajante: **«HMAC-MD5 has never been
+a NIST-approved algorithm and shall not be used.»** (nunca ha sido un algoritmo aprobado por el NIST y
+no se usará). El aviso se da para IPsec; qué algoritmos admite hoy en general el NIST no se ha leído.
+
 En el sector público español la elección no es libre: el ENS pide, desde el nivel medio de
 confidencialidad, **«algoritmos y parámetros autorizados por el CCN»** (medida mp.com.2, refuerzo R1).
 
@@ -797,6 +822,20 @@ sentido: no se puede encontrar una entrada que dé un resumen fijado de antemano
 It is computationally infeasible to find any two distinct inputs that map to the same output.»**
 (resistente a colisiones: no se pueden encontrar dos entradas distintas con el mismo resumen). Los
 estándares que cita son el **«FIPS 180 and FIPS 202»**.
+
+Son las normas que dan nombre a las funciones resumen (SHA, *Secure Hash Algorithm*, algoritmo de
+resumen seguro):
+
+| Norma | Funciones | Cita |
+|---|---|---|
+| FIPS 180-4, *Secure Hash Standard* (2015) | SHA-1 y la familia SHA-2 | **«This Standard specifies secure hash algorithms - SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224 and SHA-512/256»** |
+| FIPS 202, *SHA-3 Standard* | Familia SHA-3 | **«The SHA-3 family consists of four cryptographic hash functions, called SHA3-224, SHA3-256, SHA3-384, and SHA3-512»**; la frase sigue con dos funciones de salida extensible, SHAKE128 y SHAKE256, que no son funciones resumen |
+
+El FIPS 180-4 precisa que **«The message digests range in length from 160 to 512 bits, depending on
+the algorithm.»** (el resumen mide de 160 a 512 bits según el algoritmo), y el FIPS 202 que las SHA-3
+**«supplement the SHA-1 hash function and the SHA-2 family of hash functions that are specified in
+FIPS 180-4»** (complementan, no sustituyen, a SHA-1 y SHA-2). MD5 no está en ninguna de las dos, y
+SHA-1 y MD5 figuran entre los que la SP 800-77 dice que no deben usarse ya en IPsec («Los algoritmos»).
 
 Para qué sirve: si cambia un solo bit del documento, cambia el resumen. Al firmar se firma el resumen,
 no el documento entero; al sellar en el tiempo, se envía el resumen a la autoridad de sellado (epígrafe
@@ -964,8 +1003,9 @@ certificado cualificado ha sido legitimada en presencia notarial.»** El art. 7.
 las condiciones de la identificación a distancia **«mediante otros métodos de identificación como videoconferencia o vídeo-identificación
 que aporten una seguridad equivalente en términos de fiabilidad a la presencia física»**. Y el 7.6
 permite no exigirla de nuevo («podrá no ser exigible») si hay relación previa con identificación presencial y **«el período de tiempo
-transcurrido desde la identificación fuese menor de cinco años.»** Son las tres vías que ofrece la
-FNMT: oficina, vídeo-identificación y DNIe.
+transcurrido desde la identificación fuese menor de cinco años.»** De las cuatro modalidades del
+certificado de ciudadano de la FNMT (epígrafe 7), tres llevan en su nombre la vía de identificación:
+vídeo-identificación, acreditación presencial y DNIe; la cuarta es la «App Móvil».
 
 ## 5. Sellado de tiempo
 
@@ -1236,7 +1276,9 @@ certificado junto con la clave privada, guárdela en lugar seguro.»** Importar 
   revocado.»** Tiene tres pasos —configuración previa, solicitar la renovación autenticándose con el
   certificado vigente y descargar, **«Aproximadamente 1 hora después»**—. Tiene límite: si el
   certificado se obtuvo con otro certificado, con DNIe, por vídeo-identificación **«o ya fue renovado
-  anteriormente»**, no se renueva sin acreditar la identidad presencialmente en una oficina.
+  anteriormente»**, la FNMT no emite uno nuevo **«sin que acredites tú identidad presencialmente en una
+  de nuestras Oficinas de Registro, mediante el servicio de Vídeo-Identificación o con la lectura de tu
+  DNIe»** [sic]: hay que pedirlo de nuevo por una de esas tres vías, como si se obtuviera por primera vez.
 - Revocación (la FNMT la llama anulación): con el certificado a mano, **«la revocación puede efectuarse
   en la aplicación de anulación online»**; sin él, **«por extravío, pérdida o robo, deberá personarse en
   una Oficina de Acreditación»**; y con el código de solicitud existe un servicio telefónico 24x7.
@@ -1249,9 +1291,12 @@ certificado junto con la clave privada, guárdela en lugar seguro.»** Importar 
 ## 8. Aplicación práctica
 
 *Un puesto que se ha vuelto lento, abre ventanas de anuncios y cambia la página de inicio del
-navegador.* Es el perfil del *adware* o de una aplicación potencialmente no deseada (Microsoft cita
-software que **«Abra las ventanas del explorador sin autorización.»** o **«Redirigir el tráfico web sin
-previo aviso y obtener consentimiento.»**). Se comprueba que el antivirus está activo
+navegador.* Los anuncios apuntan al *adware*, que Microsoft clasifica como aplicación potencialmente
+no deseada (**«Software de publicidad: Software que muestra anuncios o promociones»**); las ventanas
+que se abren solas, a lo que Microsoft llama software no deseado por **«Falta de
+control»**, que entre otras cosas **«Abra las ventanas del explorador sin autorización.»** o
+**«Redirigir el tráfico web sin previo aviso y obtener consentimiento.»** [sic]. El cambio de página
+de inicio no figura con ese nombre en la lista de Microsoft. Se comprueba que el antivirus está activo
 (`Get-MpComputerStatus`, «Administrar proveedores»), se hace un análisis completo y se revisan las
 extensiones del navegador y los programas instalados. Si el usuario trabaja como administrador, se le
 pasa a cuenta estándar.
@@ -1322,7 +1367,9 @@ integridad (eIDAS, art. 41.2).
 - El contenido de las guías CCN-STIC de bastionado de Windows 11: sólo consta su existencia en el
   listado público del CCN-CERT; no se han leído.
 - Las especificaciones de los algoritmos (FIPS 197 de AES, RSA, curvas elípticas) y la criptografía
-  poscuántica: no se han leído; los algoritmos se dan por su familia.
+  poscuántica: no se han leído; los algoritmos se dan por su familia. Del FIPS 180-4 y del FIPS 202 sólo
+  se ha leído qué funciones definen y la longitud del resumen, no su funcionamiento interno. La lista
+  general de algoritmos que el NIST admite o retira (SP 800-131A) tampoco se ha leído.
 - AutoFirma y las demás aplicaciones de firma de la Administración General del Estado: no son
   software de la FNMT, que es lo que pide el enunciado.
 - Qué antivirus, cortafuegos, VPN o certificados usan la RTVA y CSRTV, y si sus sistemas están
@@ -1332,8 +1379,9 @@ integridad (eIDAS, art. 41.2).
 
 ## Trazabilidad
 
-Todas las fuentes se leyeron el 05-10-2026, salvo el término *pharming* del glosario del NIST, leído
-el 06-10-2026, y se releyeron en la verificación el 06-10-2026 (el encargo fija «hoy» en 24-09-2026, fecha del BOJA; no
+Todas las fuentes se leyeron el 05-10-2026 y se releyeron en la verificación el 06-10-2026, salvo el
+término *pharming* del glosario del NIST, leído el 06-10-2026, y el FIPS 180-4 y la página del FIPS
+202, leídos por primera vez el 06-10-2026 (el encargo fija «hoy» en 24-09-2026, fecha del BOJA; no
 consta cambio entre ambas fechas en las normas citadas).
 
 | Fuente | Qué sostiene |
@@ -1341,7 +1389,8 @@ consta cambio entre ambas fechas en las normas citadas).
 | Reglamento (UE) n.º 910/2014, consolidado «02014R0910 — ES — 18.10.2024» (eur-lex.europa.eu) | Definiciones de firma, certificado, servicio y prestador de confianza, sello electrónico, sello de tiempo y certificado de sitio web; listas de confianza; efectos de la firma y del sello de tiempo; requisitos de la firma avanzada y del sello cualificado de tiempo; revocación definitiva |
 | Ley 6/2020 (BOE-A-2020-14046), Ley 39/2015 (BOE-A-2015-10565) y Real Decreto 311/2022 (BOE-A-2022-7191), volcados del BOE | Vigencia, revocación, suspensión, identidad e identificación; sistemas de firma ante las Administraciones; medidas del anexo II del ENS y ámbito |
 | NIST, glosario del CSRC (csrc.nist.gov/glossary): términos *malware, virus, worm, Trojan horse, spyware, antivirus software, firewall, demilitarized zone, intrusion detection system, intrusion prevention system, sandbox, phishing, pharming* (leído el 06-10-2026), *virtual private network, symmetric key algorithm, asymmetric cryptography, hash function, digital signature, advanced encryption standard, certification authority, public key infrastructure* | Definiciones, con la publicación de origen que cita cada una |
-| NIST SP 800-83 Rev. 1 (2013), SP 800-41 Rev. 1 (2009), SP 800-46 Rev. 2 (2016) y SP 800-77 Rev. 1 (2020) | Virus, *rootkit* y ataque combinado; tipos de cortafuegos, «denegar por defecto» y DMZ de los cortafuegos; las cuatro formas de acceso remoto y los límites del túnel; arquitecturas de VPN, ESP, IKE, VPN SSL y WireGuard |
+| NIST SP 800-83 Rev. 1 (2013), SP 800-41 Rev. 1 (2009), SP 800-46 Rev. 2 (2016) y SP 800-77 Rev. 1 (2020) | Virus, *rootkit* y ataque combinado; tipos de cortafuegos, «denegar por defecto» y DMZ de los cortafuegos; las cuatro formas de acceso remoto y los límites del túnel; arquitecturas de VPN, ESP, IKE, VPN SSL y WireGuard; algoritmos que ya no deben usarse en IPsec (3DES, MD5, SHA-1) |
+| NIST, FIPS 180-4, *Secure Hash Standard* (agosto de 2015, PDF en nvlpubs.nist.gov), y página del FIPS 202 en csrc.nist.gov (resumen) | Funciones SHA-1, SHA-2 y SHA-3; longitud del resumen; relación entre las dos normas |
 | RFC 5280, 6960, 3161, 7208, 6376 y 9989 (rfc-editor.org, con su estado consultado ese día) | Certificado, PKI y CRL; OCSP; autoridad de sellado de tiempo; SPF; DKIM; DMARC |
 | Microsoft Learn y Soporte de Microsoft, en castellano: «Cómo Microsoft identifica el malware y las aplicaciones potencialmente no deseadas», «Troyanos», «Gusanos», «Evitar infecciones por malware», «Introducción a Microsoft Defender Antivirus en Windows», «Proteger el PC contra el ransomware», «Cómo: Ver certificados con el complemento de MMC» | Categorías de malware y PUA; troyanos y gusanos; vías de infección y prevención; funcionamiento, modos, servicios y comprobación de Defender; *ransomware*; almacenes de certificados de Windows |
 | INCIBE, «Ransomware. Una guía de aproximación para el empresario» (2020), y No More Ransom (nomoreransom.org/es) | Definición, vías de infección y respuesta ante el *ransomware* |

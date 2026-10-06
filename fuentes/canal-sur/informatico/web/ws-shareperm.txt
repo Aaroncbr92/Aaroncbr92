@@ -1,0 +1,140 @@
+URL: https://learn.microsoft.com/es-es/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754178(v=ws.10) (servida en en-us)
+Leído: 2026-10-06 (ms.date 2012-07-03T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Share and NTFS Permissions on a File Server
+
+ Comentarios
+
+## 
+
+Applies To: Windows Server 2008
+
+Access to a folder on a file server can be determined through two sets of permission entries: the share permissions set on a folder and the NTFS permissions set on the folder (which can also be set on files). Share permissions are often used for managing computers with FAT32 file systems, or other computers that do not use the NTFS file system.
+
+Share permissions and NTFS permissions are independent in the sense that neither changes the other. The final access permissions on a shared folder are determined by taking into consideration both the Share permission and the NTFS permission entries. The more restrictive permissions are then applied.
+
+The following table suggests equivalent permissions that a security-conscious administrator can grant to the Users group for certain shared folder types. There are alternative approaches. For example, some experienced administrators prefer always to set share permissions to Full Control for Everyone, and to rely entirely on NTFS permissions to restrict access.
+
+ | Folder type
+ | Share permissions
+ | NTFS permissions
+
+ | 
+Public folder. A folder that can be accessed by everyone.
+
+ | 
+Grant Change permission to the Users group.
+
+ | 
+Grant Modify permission to the Users group.
+
+ | 
+Drop folder. A folder where users can drop confidential reports or homework assignments that only the group manager or instructor can read.
+
+ | 
+Grant the Change permission to the Users group.
+
+Grant the Full Control permission to the group manager.
+
+ | 
+Grant the Write permission for the users' group that is applied to This Folder only. (This is an option available on the Advanced page.)
+
+If each user needs to have certain permissions to the files that he or she dropped, you can create a permission entry for the Creator Owner well-known security identifier (SID) and apply it to Subfolder and files only. For example, you can grant the Read and Write permission to the Creator Owner SID on the drop folder and apply it to all subfolders and files. This grants the user who dropped or created the file (the Creator Owner) the ability to read and write to the file. The Creator Owner can then access the file through the Run command using \\ServerName\DropFolder\FileName.
+
+Grant the Full Control permission for the group manager.
+
+ | 
+Application folder. A folder containing applications that can be run over the network.
+
+ | 
+Grant Read permission for the Users group.
+
+ | 
+Grant Read, Read and Execute, and List Folder Content permissions to the Users group.
+
+ | 
+Home folders. Individual folders for each user. Only the user has access to the folder.
+
+ | 
+Grant the Full Control permission to each user on their respective folder.
+
+ | 
+Grant the Full Control permission to each user for their respective folder.
+
+Addition considerations
+
+- 
+Granting a user Full Control NTFS permission on a folder enables that user to take ownership of the folder unless the user is restricted in some other way. Be cautious in granting Full Control.
+
+- 
+If you want to manage folder access by using NTFS permissions exclusively, set Share permissions to Full Control for Everyone. This frees you from having to think about Share permissions, but NTFS permissions are more complex than Share permissions.
+
+- 
+NTFS permissions affect access both locally and remotely. NTFS permissions apply regardless of protocol. Share permissions, by contrast, apply only to network shares. Share permissions do not restrict access to any local user, or to any terminal server user, of the computer on which you have set Share permissions. Thus, Share permissions do not provide privacy between users on a computer used by several users, nor on a terminal server accessed by several users.
+
+- 
+By default, the Everyone group does not include the Anonymous group, so permissions applied to the Everyone group do not affect the Anonymous group.
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2012-07-03
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

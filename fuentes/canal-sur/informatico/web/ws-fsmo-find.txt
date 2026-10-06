@@ -1,0 +1,235 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/active-directory/find-servers-holding-fsmo-role
+Leído: 2026-10-06 (ms.date 2026-02-12T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Búsqueda de servidores que contienen roles flexibles de operaciones maestras únicas
+
+- Se aplica a: Supported versions of Windows Server
+
+ Comentarios
+
+## 
+
+En este artículo se describe cómo buscar los servidores que contienen los roles de operación maestra única flexible (FSMO) en un bosque.
+
+Número de KB original: 234790
+
+## Resumen
+
+Active Directory define cinco roles de FSMO:
+
+- Maestro de esquema
+
+- Maestro de nomenclatura de dominios
+
+- Maestro de RID de
+
+- Patrón de PDC
+
+- Maestro de infraestructura
+
+El patrón de esquema y el maestro de nomenclatura de dominio son roles por bosque. Por lo tanto, solo hay un patrón de esquema y un maestro de nomenclatura de dominio por bosque.
+
+El maestro rid, el maestro de PDC y el maestro de infraestructura son roles por dominio. Cada dominio tiene su propio maestro rid, maestro PDC y maestro de infraestructura. Por lo tanto, si un bosque tiene tres dominios, hay tres maestros rid, tres maestros de PDC y tres maestros de infraestructura.
+
+## Determinar los titulares de RID, PDC e Infraestructura FSMO de un dominio seleccionado
+
+- Haga clic en Inicio, haga clic en Ejecutar, escriba dsa.msc y, a continuación, haga clic en Aceptar.
+
+- Haga clic con el botón derecho en el objeto de dominio seleccionado en el panel superior izquierdo y, a continuación, haga clic en Maestros de operaciones.
+
+- Haga clic en la pestaña PDC para ver el servidor que contiene el rol maestro PDC.
+
+- Haga clic en la pestaña Infraestructura para ver el servidor que contiene el rol maestro de infraestructura.
+
+- Haga clic en la pestaña Grupo de RID para ver el servidor que contiene el rol maestro rid.
+
+## Determinar el titular de FSMO de esquema en un bosque
+
+- Haga clic en Inicio, haga clic en Ejecutar, escriba mmcy, a continuación, haga clic en Aceptar.
+
+- En el menú Consola, haga clic en Agregar o quitar complemento, haga clic en Agregar, haga doble clic en Esquema de Active Directory, haga clic en Cerrary, a continuación, haga clic en Aceptar.
+
+- Haga clic con el botón derecho en Esquema de Active Directory en el panel superior izquierdo y, a continuación, haga clic en Maestros de operaciones para ver el servidor que contiene el rol maestro de esquema.
+
+Nota:
+
+Para que el complemento Esquema de Active Directory esté disponible, es posible que tenga que registrar el archivo Schmmgmt.dll. Para ello, haga clic en Inicio , haga clic en Ejecutar , escriba regsvr32 schmmgmt.dll en el cuadro Abriry, a continuación, haga clic en Aceptar . Se muestra un mensaje que indica que el registro se realizó correctamente.
+
+## Determinar el titular de FSMO de nomenclatura de dominio en un bosque
+
+- Haga clic en Inicio, haga clic en Ejecutar, escriba mmcy, a continuación, haga clic en Aceptar.
+
+- En el menú Consola, haga clic en Agregar o quitar complemento, haga clic en Agregar, haga doble clic en Dominio de Active Directory s y confianzas, haga clic en Cerrary, a continuación, haga clic en Aceptar.
+
+- En el panel izquierdo, haga clic en Dominio de Active Directory y Confianzas.
+
+- Haga clic con el botón derecho en Dominio de Active Directory y confiar y, a continuación, haga clic en Maestro de operaciones para ver el servidor que contiene el rol maestro de nomenclatura de dominio en el bosque.
+
+## Usar el Kit de recursos de Windows 2000 Server
+
+El Kit de recursos de Windows 2000 contiene un archivo de .cmd denominado Dumpfsmos.cmd que puedes usar para enumerar rápidamente los propietarios de roles de FSMO para tu dominio y bosque actuales. El archivo .cmd usa Ntdsutil.exe para enumerar los propietarios de roles. El archivo Dumpfsmos.cmd contiene:
+
+`@echo off
+REM
+REM Script to dump FSMO role owners on the server designated by %1
+REM
+
+if ""=="%1" goto usage
+
+Ntdsutil roles Connections "Connect to server %1" Quit "select Operation Target" "List roles for connected server" Quit Quit Quit 
+
+goto done
+
+:usage
+
+@echo Please provide the name of a domain controller (i.e. dumpfsmos MYDC)
+@echo.
+
+:done
+`
+
+## Usar la herramienta NTDSUTIL
+
+NTDSUTIL es una herramienta incluida con Windows 2000 Server, Windows 2000 Advanced Server y Windows 2000 Datacenter Server. Esta herramienta se puede usar para comprobar el cambio de ciertos aspectos de Active Directory. A continuación se muestran los pasos necesarios para ver los roles de operación de maestro único flexible (FSMO) en un controlador de dominio determinado.
+
+Ntdsutil.exe es la única herramienta que muestra todos los propietarios de roles FSMO. Puede ver los propietarios del emulador de PDC, el maestro rid y los roles maestros de infraestructura en Usuarios y equipos de Active Directory. Puede ver el propietario del rol maestro de esquema en el complemento Esquema de Active Directory. Puede ver el propietario del rol maestro de nomenclatura de dominio en Dominio de Active Directory y confianzas.
+
+- 
+Haga clic en Inicio, haga clic en Ejecutar, escriba cmd en el cuadro Abrir y presione ENTRAR.
+
+- 
+Escriba ntdsutil y presione ENTRAR.
+
+- 
+Escriba administración de dominios y presione ENTRAR.
+
+- 
+Escriba connections y, a continuación, presione ENTRAR.
+
+- 
+Escriba conectarse al servidor ServerName, donde NombreServidor es el nombre del controlador de dominio que desea ver y, a continuación, presione ENTRAR.
+
+- 
+Escriba salir y presione ENTRAR.
+
+- 
+Escriba select operation target (Seleccionar destino de la operación) y presione ENTRAR.
+
+- 
+Escriba roles de lista para el servidor conectado y presione ENTRAR. Se muestra una lista similar a la que se muestra a continuación. Los resultados pueden depender de los roles que puede contener el controlador de dominio concreto. Si recibe un mensaje de error, compruebe la ortografía de los comandos, ya que la sintaxis de los comandos debe ser exacta. Si necesita la sintaxis de un comando, escriba? en cada mensaje:
+
+`Server "dc1" knows about 5 roles
+Schema - CN=NTDS
+Settings,CN=DC1,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=com
+Domain - CN=NTDS
+Settings,CN=DC1,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=com
+PDC - CN=NTDS
+Settings,CN=DC1,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=com
+RID - CN=NTDS
+Settings,CN=DC1,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=com
+Infrastructure - CN=NTDS
+Settings,CN=DC1,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=corp,DC=com
+`
+
+## Uso de DCDIAG
+
+En un controlador de dominio de Windows 2000, ejecute el siguiente comando:
+
+`DCdiag /test:Knowsofroleholders /v
+`
+
+Debe usar el modificador /v. Aquí se enumeran los propietarios de todos los roles de FSMO de la empresa.
+
+## Referencias
+
+Para obtener más información, haga clic en los números de artículo siguientes para ver los artículos:
+
+- 
+ Roles FSMO de 197132 Windows 2000 Active Directory
+
+- 
+ 223346 ubicación y optimización de FSMO en dominios de Windows 2000
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ Sí
+
+ No
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ ¿Sugerir una corrección? 
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2026-02-12
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

@@ -1,0 +1,88 @@
+URL: https://support.microsoft.com/es-es/excel/functions/count-function
+Leído: 2026-10-06
+
+# Función COUNT
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+La función CONTAR cuenta la cantidad de celdas que contienen números y cuenta los números dentro de la lista de argumentos. Use la función CONTAR para obtener la cantidad de entradas en un campo de número de un rango o matriz de números. Por ejemplo, puede escribir la siguiente fórmula para contar los números en el rango A1:A20: =CONTAR(A1:A20). En este ejemplo, si cinco de las celdas del rango contienen números, el resultado es 5.
+
+## Sintaxis
+
+CONTAR(valor1; [valor2]; ...)
+
+La sintaxis de la función CONTAR tiene los siguientes argumentos:
+
+- 
+ valor1 Obligatorio. Primer elemento, referencia de celda o rango en el que desea contar números.
+
+- 
+ valor2, ... Opcional. Hasta 255 elementos, celdas de referencia o rangos adicionales en los que desea contar números.
+
+Nota
+
+Los argumentos pueden contener o hacer referencia a una variedad de diferentes tipos de datos, pero solo se cuentan los números.
+
+## Observaciones
+
+- Se cuentan argumentos que son números, fechas o una representación de texto de los números (por ejemplo, un número entre comillas, como "1").
+
+- Se tienen en cuenta los valores lógicos y las representaciones textuales de números escritos directamente en la lista de argumentos.
+
+- No se cuentan los argumentos que sean valores de error o texto que no se puedan traducir a números.
+
+- Si un argumento es una matriz o una referencia, solo se considerarán los números de esa matriz o referencia. No se cuentan celdas vacías, valores lógicos, texto o valores de error de la matriz o de la referencia.
+
+- Si desea contar valores lógicos, texto o valores de error, use la funciónCONTARA.
+
+- Si desea contar solo números que cumplan con determinados criterios, use la función CONTAR.SI o la función CONTAR.SI.CONJUNTO.
+
+## Ejemplo
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar el ancho de las columnas para ver todos los datos.
+
+ | 
+ Datos
+ | 
+ | 
+
+ | 8/12/08
+ | 
+ | 
+
+ | 19
+ | 
+ | 
+
+ | 22,24
+ | 
+ | 
+
+ | VERDADERO
+ | 
+ | 
+
+ | #¡DIV/0!
+ | 
+ | 
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+
+ Resultado
+
+ | =CONTAR(A2:A6)
+ | Cuenta la cantidad de celdas que contienen números en las celdas de A2 a A7.
+ | 3
+
+ | =CONTAR(A5:A6)
+ | Cuenta la cantidad de celdas que contienen números en las celdas de A5 a A7.
+ | 1
+
+ | =CONTAR(A2:A6,2)
+ | Cuenta la cantidad de celdas que contienen números en las celdas de A2 a A7, y el valor 2.
+ | 4

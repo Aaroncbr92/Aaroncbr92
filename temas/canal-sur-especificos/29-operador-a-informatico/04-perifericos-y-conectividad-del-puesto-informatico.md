@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 4 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. USB Implementers Forum (USB-IF: guías de nombres y logotipos, páginas de USB4, USB Type-C y USB Power Delivery, lista de códigos de clase); Intel y Thunderbolt Technology Community; Digital Display Working Group, *Digital Visual Interface, Revision 1.0* (1999); HDMI Licensing Administrator (páginas de las especificaciones HDMI 1.4b y 2.2 y de los cables); VESA (nota de 17-10-2022 sobre DisplayPort 2.1 y página de DisplayPort); MIT, curso 6.111, y Cornell, ECE 4760 (VGA); norma SMPTE ST 2059-1:2021 (reloj de 720p); Fluke Networks (T568A y T568B); Canon, Epson, Zebra y HP (impresión y escaneo); Printer Working Group (IPP Everywhere); Microsoft Learn y Soporte de Microsoft (controladores de clase USB, fin de los controladores de impresora de terceros, impresión protegida, WIA, varios monitores); manual universitario abierto de D. Bourgeois et al. (2019). Lo demás, oficio declarado como tal |
+| Fuente | Sin norma jurídica. USB Implementers Forum (USB-IF: guías de nombres y logotipos, páginas de USB4, USB Type-C y USB Power Delivery, lista de códigos de clase); Intel y Thunderbolt Technology Community; Digital Display Working Group, *Digital Visual Interface, Revision 1.0* (1999); HDMI Licensing Administrator (páginas de las especificaciones HDMI 1.4b y 2.2 y de los cables); VESA (nota de 17-10-2022 sobre DisplayPort 2.1 y página de DisplayPort); MIT, curso 6.111, y Cornell, ECE 4760 (VGA); norma SMPTE ST 2059-1:2021 (reloj de 720p); Fluke Networks (T568A y T568B); Canon, Epson, Zebra y HP (impresión y escaneo); Printer Working Group (IPP Everywhere); Microsoft Learn y Soporte de Microsoft (controladores de clase USB, fin de los controladores de impresora de terceros, impresión protegida, WIA, varios monitores); manual universitario abierto de D. Bourgeois et al. (2019); EIZO (tipos de panel); especificación Micro-USB y documento de cables y conectores del USB-IF (2007); Panduit (TR103), Fluke Networks y Cisco (cable directo, cruzado y auto-MDIX). Lo demás, oficio declarado como tal |
 | Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día (la SMPTE ST 2059-1:2021, el 06-10-2026) |
-| Extensión | 9.000 palabras aproximadamente |
+| Extensión | 10.700 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -28,11 +28,10 @@ compression*); tasa de bits ultra alta de DisplayPort (UHBR, *ultra-high bit rat
 diferencial con transiciones minimizadas (TMDS, *transition-minimized differential signaling*); canal
 de datos de pantalla (DDC, *display data channel*) y datos de identificación de pantalla ampliados
 (EDID, *extended display identification data*); detección de conexión en caliente (HPD, *hot plug
-detect*); interfaz de bus PCI Express (PCIe); conector registrado 45 (RJ45); par trenzado sin
+detect*); interfaz de bus PCI Express (PCIe); conector RJ45; par trenzado sin
 apantallar (UTP, *unshielded twisted pair*); las dos asignaciones de colores del cableado de red,
 T568A y T568B, de la norma ANSI/TIA-568 (Instituto Nacional Estadounidense de Normalización, ANSI, y
-Asociación de la Industria de las Telecomunicaciones, TIA); el esquema de cableado USOC
-(*Universal Service Ordering Code*), con el que esas asignaciones guardan compatibilidad; dispositivo multifunción (MFP, *multifunction printer*); cian, magenta, amarillo y
+Asociación de la Industria de las Telecomunicaciones, TIA); el esquema de cableado USOC, con el que esas asignaciones guardan compatibilidad; dispositivo multifunción (MFP, *multifunction printer*); cian, magenta, amarillo y
 negro (CMYK); rojo, verde y azul (RGB); protocolo de impresión por Internet (IPP, *Internet Printing Protocol*) y el grupo que
 lo mantiene (PWG, *Printer Working Group*); descubrimiento de servicios por DNS (DNS-SD); petición de
 comentarios del IETF (RFC); la asociación Mopria, que certifica impresoras para imprimir sin
@@ -44,7 +43,10 @@ puntos por pulgada (ppp, en inglés *dpi*); norma internacional ISO/IEC (Organiz
 Normalización y Comisión Electrotécnica Internacional); primera página impresa (FPOT, *first print out
 time*) y las medidas de la ISO/IEC 24734, FSOT, EFTP y ESAT; páginas por minuto (ppm); interferencia
 electromagnética (EMI); gigabit por segundo (Gbit/s, que las fuentes escriben Gbps) y megabit por
-segundo (Mbit/s, Mbps); vatio (W), voltio (V) y amperio (A); megahercio (MHz); ohmio (Ω). Además: disco de estado sólido (SSD, *solid-state drive*); DisplayPort
+segundo (Mbit/s, Mbps); vatio (W), voltio (V) y amperio (A); los monitores LCD y sus tres tipos de panel, IPS, VA y TN (las
+fuentes leídas usan estas siglas sin desarrollarlas); equipo USB que hace de anfitrión y de
+periférico (OTG, *On-The-Go*); cruce automático de la interfaz dependiente del medio (auto-MDIX,
+*automatic medium-dependent interface crossover*); megahercio (MHz); ohmio (Ω). Además: disco de estado sólido (SSD, *solid-state drive*); DisplayPort
 (DP, en los nombres de cables y del conector Mini-DP); grupo conjunto de expertos en fotografía (JPEG,
 *Joint Photographic Experts Group*) y su formato de fichero JFIF (*JPEG File Interchange Format*);
 señalización diferencial de bajo voltaje (LVDS, *low-voltage differential signaling*); especificación de papel XML de Microsoft (XPS, *XML Paper
@@ -64,13 +66,15 @@ piezoeléctrica, tinta de colorante y de pigmento, qué es una impresora de impa
 directa y una de transferencia térmica; qué mide la ISO/IEC 24734 (FSOT, EFTP, ESAT); qué es IPP
 Everywhere y Mopria, qué fechas tiene el fin de los controladores de impresora de terceros en Windows
 y qué hace el modo de impresión protegida. Del almacenamiento externo: qué clase USB usa y qué es
-UASP. De visualización: qué es la relación de aspecto, qué reloj de píxel exige cada resolución VGA y
+UASP. De visualización: qué es la relación de aspecto, qué tipo de panel (IPS, VA, TN) da mejor ángulo de
+visión o más contraste, qué reloj de píxel exige cada resolución VGA y
 qué modos de proyección ofrece Windows con Windows + P. De digitalización: resolución óptica, de
 hardware e interpolada, profundidad de color y número de colores, WIA y TWAIN. De multimedia: cámaras,
 micrófonos y altavoces por USB o Bluetooth. De conectividad: las cinco velocidades de USB y su nombre
 comercial, USB 3.2 Gen 1, Gen 2 y Gen 2x2, qué es USB4, que Type-C es el conector y no la velocidad,
+qué conectores Standard, Mini y Micro hay y qué clavija entra en cada uno,
 cuánta potencia da USB PD 3.1, Thunderbolt 4 y 5; cuántos hilos tiene un RJ45 y en qué se distinguen
-T568A y T568B; qué señales lleva VGA, por qué conector y a qué nivel; los dos conectores de DVI, el
+T568A y T568B, qué es un cable directo y uno cruzado y qué hace auto-MDIX; qué señales lleva VGA, por qué conector y a qué nivel; los dos conectores de DVI, el
 enlace sencillo hasta 165 MHz y el doble; qué aporta cada versión de HDMI (1.4b, 2.1, 2.2) y cada
 cable; DisplayPort 2.1, DP40 y DP80, MST y el conector con retención; cuál de estas interfaces es
 analógica, cuál lleva audio y cuál no. En la aplicación práctica: elegir cable y puerto para un
@@ -95,6 +99,7 @@ resolver por qué un segundo monitor no aparece.
 - [3. Elementos de almacenamiento](#3-elementos-de-almacenamiento)
 - [4. Elementos de visualización](#4-elementos-de-visualización)
   - [El monitor y la relación de aspecto](#el-monitor-y-la-relación-de-aspecto)
+  - [El panel del monitor: IPS, VA y TN](#el-panel-del-monitor-ips-va-y-tn)
   - [Resolución, refresco y reloj de píxel](#resolución-refresco-y-reloj-de-píxel)
   - [Varios monitores en Windows](#varios-monitores-en-windows)
 - [5. Elementos de digitalización](#5-elementos-de-digitalización)
@@ -105,6 +110,7 @@ resolver por qué un segundo monitor no aparece.
 - [7. Conectividad del puesto](#7-conectividad-del-puesto)
   - [USB: tres cosas que no hay que mezclar](#usb-tres-cosas-que-no-hay-que-mezclar)
   - [USB: velocidades y nombres](#usb-velocidades-y-nombres)
+  - [Los conectores USB anteriores: Standard, Mini y Micro](#los-conectores-usb-anteriores-standard-mini-y-micro)
   - [El conector USB Type-C](#el-conector-usb-type-c)
   - [USB Power Delivery](#usb-power-delivery)
   - [Thunderbolt](#thunderbolt)
@@ -355,6 +361,10 @@ Preferences»**, botón **«Set up»**. Efectos que hay que conocer antes de act
 - Puede imponerse por directiva de grupo, y entonces el usuario no lo quita: **«If Windows protected
   print mode is enabled as group policy, you won't be able to disable it without contacting your
   administrator.»** (Las directivas de grupo son del tema 6.)
+- En una multifunción, el escáner puede quedarse fuera: **«Some compatible devices' scanners are
+  unavailable in Windows protected print mode. To see if a device's scanner works in Windows protected
+  print mode, check if it is a Mopria certified product.»** Y si no lo es: **«If it is not Mopria
+  certified, only printing functionalities will be available in Windows protected print mode.»**
 
 ## 3. Elementos de almacenamiento
 
@@ -401,6 +411,29 @@ laterales o superiores cuando se mezcla material de las dos épocas.
 
 Ejemplos de resolución y su relación: 640 × 480 es 4:3 (640/480 = 1,33); 1920 × 1080 es 16:9
 (1920/1080 = 1,78). El cálculo es propio.
+
+### El panel del monitor: IPS, VA y TN
+
+La pieza central del monitor LCD es el panel, y EIZO, fabricante de monitores, distingue tres
+tipos: **«The core component in an LCD monitor is the LCD panel. There are three main types of LCD
+panels: IPS, VA, and TN.»** Sus rasgos, según la tabla de EIZO:
+
+| | IPS | VA | TN |
+|---|---|---|---|
+| Ángulo de visión (cambio de cromaticidad) | **«Excellent (almost no chromaticity shift)»** | **«Very Good (slight chromaticity shift)»** | **«Fair (noticeable chromaticity shift)»** |
+| Tiempo de respuesta | **«Good»** | **«Excellent»** | **«Excellent»** |
+| Relación de contraste | **«Approx. 500:1»** | **«1,000:1 or higher»** | **«1,000:1 or higher»** |
+| Precio | **«High»** | **«Medium»** | **«Low»** |
+
+La gama de color no la decide el panel: **«Not dependent on panel type»**. Lo que separa al IPS es el
+ángulo de visión: **«with an IPS monitor colors generally remain the same when viewed from various
+angles—above, below, and to the left and right of the monitor—with a VA or TN monitor halftone color
+changes are noted.»** Importa cuando varias personas miran la misma pantalla desde sitios distintos
+(**«particularly when a monitor will be viewed by numerous people from different positions»**), y por
+eso la recomendación del fabricante: **«for graphics applications IPS or VA monitors are
+recommended.»** En resumen para el test: mejor ángulo de visión, IPS; más contraste, VA y TN; el más
+barato, TN. La página de EIZO no lleva fecha, y sus cifras de contraste son las de esa tabla, no un
+valor de todo el mercado actual.
 
 ### Resolución, refresco y reloj de píxel
 
@@ -570,6 +603,42 @@ supported, and the resulting connection scales to the best mutual capability of 
 connected.»** Esos «protocolos de pantalla simultáneos» son los que permiten sacar DisplayPort por
 USB4 (véase DisplayPort, más abajo).
 
+### Los conectores USB anteriores: Standard, Mini y Micro
+
+La especificación USB 2.0 define tres conectores, cada uno con su clavija y su receptáculo:
+**«Standard-A plug and receptacle»**, **«Standard-B plug and receptacle»** y **«Mini-B plug and
+receptacle»**. La especificación Micro-USB del USB-IF (revisión 1.01, 04-04-2007) añade **«Micro-B
+plug and receptacle»**, **«Micro-AB receptacle»** y **«Micro-A plug»**. Qué clavija entra en cada
+receptáculo (su tabla 4-1):
+
+| Receptáculo | Clavija que admite |
+|---|---|
+| Standard-A | Standard-A |
+| Standard-B | Standard-B |
+| Mini-B | Mini-B |
+| Micro-B | Micro-B |
+| Micro-AB | Micro-A o Micro-B |
+
+La letra dice el papel de cada lado. A es el anfitrión, que da la alimentación del bus (VBUS): **«A
+device with a Type-A plug inserted into its receptacle. The A-device supplies power to VBUS and is
+host at the start of a session.»** B es el periférico: **«A device with a Type-B plug inserted into
+its receptacle. The B-device is a peripheral at the start of a session.»** El receptáculo Micro-AB es
+sólo para equipos OTG, que pueden hacer de las dos cosas (**«The Micro-AB receptacle is only allowed
+on OTG products.»**). En el puesto: el ordenador lleva Standard-A; la impresora, a menudo, Standard-B
+(esta asignación es oficio, no cita).
+
+El Micro nació para el teléfono móvil, porque el Mini no cabía: **«Cell phone and Portable Devices
+have become so thin that the current Mini-USB does not fit well within the constraints of future
+designs.»**; y se le pidió más aguante, **«durability past 10,000 cycles»**. Los cables son sólo los
+que las especificaciones definen (**«No other types of cables are allowed by either the USB
+specification, or by the OTG supplement.»**), y un cable no puede llevar receptáculos en sus extremos
+salvo los adaptadores que la especificación regula.
+
+Largo máximo de cable para obtener la certificación (USB-IF, *Cables and Connectors Class Document*,
+revisión 2.0, agosto de 2007): **«Cable assemblies with Standard-series plugs at both ends are limited
+to 5m. Cables assemblies with a Mini-B plug and Standard-A plug are limited to 4.5m. Cable assemblies
+with any Micro-series plugs are limited to 2m.»**
+
 ### El conector USB Type-C
 
 **«Slim and sleek connector tailored to fit mobile device product designs, yet robust enough for
@@ -641,6 +710,38 @@ standards have the same transmission performance and can support the same Ethern
 including Gigabit Ethernet.»**). Lo que no se puede es mezclarlas: **«Maintaining consistency is key
 when wiring a new network or expanding an existing one. Wiring should match, color to color and stripe
 to stripe; if it doesn't, signals will be compromised.»**
+
+Cable directo y cable cruzado. T568A y T568B son, las dos, asignaciones de cable directo: **«T568A and
+T568B are straight-through wiring schemes. Each conductor inside the patch cable connects to the same
+pin on both modular plug ends.»** (Panduit, referencia técnica TR103.) Y es lo que exige el cableado
+estructurado: **«the generic cabling standards require both ends to be terminated using the same
+wiring code (either T568A or T568B).»** (Fluke Networks.) El cable cruzado es otra cosa: **«crossover
+patch cords, also known as flipped patch cords, are used to connect a PC directly to another PC, a hub
+to hub, or switch to switch. The term crossover is used because the send and receive pairs are crossed
+from one modular plug (end 1) to the other (end 2).»**, y la ANSI/TIA-568-C.2 no lo define
+(**«Although not specifically defined in ANSI/TIA-568-C.2»**). Cómo se reconoce, según Cisco: **«The
+first (far left) colored wire (pin 1) at one end of the cable is the third colored wire (pin 3) at the
+other end of the cable. The second colored wire (pin 2) at one end of the cable is the sixth colored
+wire (pin 6) at the other end of the cable.»**
+
+De ahí el cruzado clásico: T568A en un extremo y T568B en el otro. Como las dos asignaciones sólo
+intercambian el par de las patillas 1 y 2 con el de las 3 y 6 (Fluke, más arriba), el par que en un
+extremo va a 1 y 2 llega en el otro a 3 y 6, que es lo que describe Cisco. (La deducción es propia.)
+Ese cruzado de dos pares tiene un límite que advierte Panduit: **«many low end crossover cords on the
+market support data transition rates of only 10/100 megabits per second. This is because only 2 of
+the 4 conductor pairs have been crossed.»**; los de Panduit cruzan los cuatro pares (**«full crossover»**) y
+llegan a **«speeds up to 1 gigabit per second»**.
+
+Hoy el cruzado casi no hace falta: **«Most modern hubs and switches have auto-sensing ports that allow
+the use of straight patch cords (T568A or T568B) for direct connections»** (Panduit, que añade que muchos instaladores siguen prefiriendo el cruzado
+para toda conexión directa). Es el auto-MDIX
+de Cisco: **«the interface automatically detects the required cable connection type (straight through
+or crossover) and configures the connection appropriately.»** Sin esa función, **«you must use
+straight-through cables to connect to devices such as servers, workstations, or routers and crossover
+cables to connect to other devices or repeaters.»** En los Catalyst 9300 de Cisco, los de la guía
+leída, viene activada de serie (**«Automatic medium-dependent interface crossover (auto-MDIX) is enabled by default.»**), y
+según su tabla de estados del enlace, con el cable equivocado el enlace sólo cae si la función está
+desactivada en los dos extremos.
 
 Y el par trenzado tiene un límite de distancia: cien metros por tramo en las categorías corrientes
 de red. (El tema 13 desarrolla Ethernet y sus normas IEEE 802.)
@@ -812,13 +913,16 @@ leída; 1080p a 60 Hz, 148,5 MHz, sí cabe en un enlace.
 
 *Caso 5. Montar un latiguillo de red.* Los dos extremos con la misma asignación (T568A con T568A, o
 T568B con T568B); en una instalación, la que ya tenga el edificio, sin mezclar. Ocho hilos, cuatro
-pares; en T568B, el par naranja en las patillas 1 y 2.
+pares; en T568B, el par naranja en las patillas 1 y 2. Para unir dos equipos sin conmutador, con
+puertos auto-MDIX basta el latiguillo directo; si no lo tienen, cable cruzado (T568A en un extremo y
+T568B en el otro, que cruza dos pares y se queda en 10/100 Mbit/s).
 
 *Caso 6. Una impresora nueva en un Windows 11 de 2026.* Si es Mopria, Windows la instala con su
 controlador IPP de clase, por red o por USB, sin controlador ni instalador del fabricante; desde el 1-7-2026, Windows prefiere
 ese controlador. Si el puesto tiene activado por directiva el modo de impresión protegida, una
 impresora que sólo funcione con controlador de terceros no se podrá usar: hay que comprobarlo antes de
-comprarla.
+comprarla. En una multifunción se comprueba además el escáner: si no está certificado Mopria, con
+ese modo sólo queda la impresión.
 
 *Caso 7. El folleto del escáner dice 9600 ppp.* Hay que buscar la resolución óptica (la primera
 cifra de la de hardware): la de 9600 × 9600 suele ser interpolada.
@@ -836,7 +940,7 @@ baja a la velocidad común más baja.
   19752 e ISO/IEC 24711): el sitio de ISO no se dejó leer.
 - Los sensores de escáner que no son CCD (CIS), el reconocimiento óptico de caracteres (OCR) y el
   alimentador automático de documentos: sin fuente primaria leída.
-- Las tecnologías de panel de los monitores (IPS, VA, OLED) y las características de cámaras web,
+- Los paneles OLED, el desarrollo de las siglas IPS, VA y TN, y las características de cámaras web,
   auriculares y altavoces: sin fuente primaria leída.
 - La potencia de carga de Thunderbolt 4 y 5 en vatios, y qué velocidad del USB4 corresponde a su
   versión 1.0 o 2.0: las fuentes leídas no lo dicen.
@@ -878,9 +982,25 @@ Todas las fuentes, leídas el 05-10-2026 en su versión en línea de ese día (s
 - Printer Working Group: «IPP Everywhere» y página del grupo IPP.
 - D. Bourgeois et al., *Information Systems for Business and Beyond* (2019), capítulos 2 y 5.
 
+Añadidas en el remate, leídas el 06-10-2026:
+
+- Soporte de Microsoft / Microsoft Learn, «Windows Protected Print Mode» (la misma página de arriba):
+  salvedad de los escáneres.
+- EIZO, «LCD Monitors for Color Management Systems» (EIZO Library, sin fecha; sitio © 1996-2026),
+  apartado «LCD monitor types by panel».
+- USB-IF, *Universal Serial Bus Micro-USB Cables and Connectors Specification*, revisión 1.01,
+  04-04-2007 (copia en PDF de la especificación), § 1.3, cap. 2, § 3.3, § 3.4 y tabla 4-1; USB-IF,
+  *Universal Serial Bus Cables and Connectors Class Document*, revisión 2.0, agosto de 2007
+  (usb.org), longitudes de cable.
+- Panduit, *Technical Reference TR103: Patch Cord Wiring Guide* (sin fecha).
+- Fluke Networks, base de conocimiento: «Crossover Cable Testing – DSX Cable Analyzer».
+- Cisco: *Catalyst 3750 Switch Hardware Installation Guide* (OL-6336-10), apéndice B, «Identifying a
+  Crossover Cable»; documentación de los Catalyst 9300 (Cisco IOS XE),
+  capítulo «Configuring Auto-MDIX», tabla 1.
+
 Oficio, declarado como tal: la tabla de clasificación de periféricos y su regla; la tabla de
-relaciones de aspecto y su lectura; los ocho hilos del RJ45 y los cien metros por tramo; la tabla de
+relaciones de aspecto y su lectura; los ocho hilos del RJ45 y los cien metros por tramo; el Standard-B de la impresora; la tabla de
 DVI, HDMI y DisplayPort frente a frente y los nombres DVI-A, DVI-D y DVI-I; el reparto de las cinco
-familias del enunciado en los tres cajones; los razonamientos de la aplicación práctica. Cálculos
+familias del enunciado en los tres cajones; los razonamientos de la aplicación práctica. Deducción propia: que T568A con T568B da el cruzado de dos pares. Cálculos
 propios: los cocientes de las relaciones de aspecto y los productos de tensión por intensidad de USB
 PD.

@@ -1,0 +1,41 @@
+URL: https://support.microsoft.com/es-es/windows/experience/startup-boot/windows-startup-settings
+Leído: 2026-10-06
+
+# Configuración de inicio de Windows
+ Se aplica a
+Windows 11 Windows 10 
+Nota
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+ Más información
+Es posible que tenga que cambiar la configuración de inicio de Windows para solucionar problemas, optimizar los procesos de inicio o modificar el comportamiento de arranque del sistema para tareas específicas.
+Por ejemplo, una opción común de solución de problemas es habilitar el modo seguro, que inicia Windows en un estado limitado, en el que solo se inician los servicios y controladores básicos Si un problema no vuelve a aparecer cuando inicia en modo seguro, puede eliminar la configuración predeterminada, los controladores de dispositivo básicos y los servicios como posibles causas.
+Otras opciones de configuración de inicio incluyen funciones avanzadas destinadas a su uso por parte de administradores del sistema y profesionales de TI.
+En este artículo se describe cómo modificar el comportamiento de inicio de Windows y las opciones disponibles.
+## Cambiar la configuración de inicio
+Nota
+Si has cifrado el dispositivo, necesitarás la clave de BitLocker para completar esta tarea. Si no conoces la clave de BitLocker, consulta Buscar la clave de recuperación de BitLocker.
+ Obtener acceso al Entorno de recuperación de Windows
+Una vez en Windows RE, seleccione Solucionar> problemasOpciones avanzadas>Configuración de inicio>Reiniciar
+Seleccione Reiniciar
+Una vez que el dispositivo se reinicie, en la pantalla Configuración de inicio elija una de las opciones disponibles o presione Enter para iniciar Windows normalmente
+## Lista de configuración de inicio
+Esta es una lista de opciones de inicio entre las que puede elegir. Para seleccionar una, use las teclas numéricas o las teclas de función F1-F9:
+- Habilitar la depuración. Inicia Windows en un modo avanzado de solución de problemas destinado a profesionales de TI y administradores del sistema
+- Habilitar el registro de arranque. Crea un archivo, ntbtlog.txt, que enumera todos los controladores que se instalan durante el inicio y que podrían ser útiles para la solución avanzada de problemas
+- Habilitar vídeo de baja resolución. Inicia Windows con el controlador de vídeo actual y una configuración de resolución y frecuencia de actualización bajas. Puedes usar este modo para restablecer la configuración de pantalla
+- Habilitar el modo seguro. El modo seguro inicia Windows en un estado básico, que usa un conjunto limitado de archivos y controladores. Si el problema no ocurre en el modo seguro, significa que la configuración predeterminada y los controladores de dispositivo básicos no son los causantes del problema. Observar Windows en modo seguro le permite restringir el origen de un problema y puede ayudarle a solucionar problemas en su dispositivo
+- Modo seguro con funciones de red. El modo seguro con funciones de red agrega los controladores y servicios de red que necesitará para acceder a Internet y a otros equipos de la red
+- Modo seguro con símbolo del sistema. Inicia Windows en modo seguro con una ventana de símbolo del sistema en lugar de la interfaz habitual de Windows
+- Deshabilite la aplicación de firmas de controladores. Permite instalar controladores con firmas incorrectas
+ Deshabilitar la protección antimalware de inicio anticipado . La protección antimalware de inicio anticipado (ELAM) es una característica de seguridad de Windows que permite que el software antimalware se inicie antes que el resto de los componentes de terceros durante el proceso de arranque. ELAM garantiza que el sistema no inicialice controladores de arranque desconocidos que podrían ser malintencionados. Seleccione esta opción para deshabilitar ELAM temporalmente
+- Deshabilitar reinicio automático tras error. Impide que Windows se reinicie automáticamente en caso de que un error haga que Windows falle. Elija esta opción solo si Windows se atasca en un bucle en el que Windows falla, intenta reiniciarse y vuelve a fallar repetidamente
+Puede presionar Entrar para iniciar Windows normalmente.
+## ¿Qué sucede si Windows sigue arrancando en modo seguro?
+Reiniciar el dispositivo debería ser suficiente para salir del modo seguro y volver al modo normal. Sin embargo, si por alguna razón el dispositivo sigue arrancando en modo seguro, pruebe esto:
+- Presionar la tecla
+ + de Windows R
+- En el cuadro Abrir, escriba msconfigAceptar y selecciónelo
+- Seleccione la pestaña Arranque
+- En Opciones de arranque, desactive la casilla Arranque seguro
+## ¿Te resultó útil esta información?

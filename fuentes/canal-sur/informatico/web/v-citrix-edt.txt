@@ -1,0 +1,2146 @@
+URL: https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/technical-overview/hdx/adaptive-transport.html
+Leído: 2026-10-06
+
+Adaptive transport | Citrix Virtual Apps and Desktops™ 7 2603
+
+ Product documentation
+
+ Search
+
+Close
+
+Refine results
+
+Select Product
+
+Apply
+
+Clear All
+
+Selected filter
+
+Search Product documentation
+
+- 
+
+ English
+
+- 
+
+ EN
+
+- 
+
+ Deutsch
+
+Machine Translated
+
+- 
+
+ DE
+
+Machine Translated
+
+- 
+
+ 日本語
+
+Machine Translated
+
+- 
+
+ JA
+
+Machine Translated
+
+- 
+
+ Français
+
+Machine Translated
+
+- 
+
+ FR
+
+Machine Translated
+
+- 
+
+ Español
+
+Machine Translated
+
+- 
+
+ ES
+
+Machine Translated
+
+- 
+
+ 简体中文
+
+Machine Translated
+
+- 
+
+ ZH
+
+Machine Translated
+
+- 
+
+ Português
+
+Machine Translated
+
+- 
+
+ PT
+
+Machine Translated
+
+- 
+
+ Italiano
+
+Machine Translated
+
+- 
+
+ IT
+
+Machine Translated
+
+ Citrix Virtual Apps and Desktops
+
+ Current Release
+
+ Current Release
+
+ Service
+
+ 2607 LTSR
+
+ 2511
+
+ 2507 LTSR
+
+ 2503
+
+ 2411
+
+ 2407
+
+ 2402 LTSR
+
+ 2311
+
+ 2203 LTSR
+
+- 
+
+ Citrix Virtual Apps™ and Desktops 7 2603
+
+- 
+
+ What's new
+
+- 
+
+ What's new
+
+- 
+
+ Fixed issues
+
+- 
+
+ Known issues
+
+- 
+
+ Deprecations and removals
+
+- 
+
+ System requirements
+
+- 
+
+ Technical overview
+
+- 
+
+ Databases
+
+- 
+
+ Delivery methods
+
+- 
+
+ Network ports
+
+- 
+
+ HDX™
+
+- 
+
+ ICA® virtual channels
+
+- 
+
+ Double-hop sessions
+
+- 
+
+ Install and configure
+
+- 
+
+ Machine identities 
+
+- 
+
+ Active Directory joined 
+
+- 
+
+ Microsoft Entra hybrid joined 
+
+- 
+
+ Non-domain-joined 
+
+- 
+
+ Session authentication 
+
+- 
+
+ Microsoft Entra single sign-on 
+
+- 
+
+ Federated Authentication Service 
+
+- 
+
+ Smart Cards 
+
+- 
+
+ Prepare to install 
+
+- 
+
+ Amulet Hotkey CoreStation virtualization environments 
+
+- 
+
+ AWS cloud environments 
+
+- 
+
+ Azure Local environments 
+
+- 
+
+ XenServer® virtualization environments 
+
+- 
+
+ Google Cloud environments 
+
+- 
+
+ HPE Moonshot virtualization environments 
+
+- 
+
+ Microsoft Azure Resource Manager cloud environments 
+
+- 
+
+ Microsoft System Center Configuration Manager environments 
+
+- 
+
+ Microsoft System Center Virtual Machine Manager virtualization environments 
+
+- 
+
+ Nutanix virtualization environments 
+
+- 
+
+ Nutanix cloud and partner solutions 
+
+- 
+
+ Oracle C3 virtualization environments 
+
+- 
+
+ Red Hat OpenShift virtualization environments 
+
+- 
+
+ VMware virtualization environments 
+
+- 
+
+ VMware cloud and partner solutions 
+
+- 
+
+ Install core components 
+
+- 
+
+ Install using the command line 
+
+- 
+
+ Install Web Studio 
+
+- 
+
+ Install VDAs 
+
+- 
+
+ Configure Windows Defender Access Control related to VDA Installation 
+
+- 
+
+ Precheck for VDA install and upgrade 
+
+- 
+
+ VDA Meta Installer helper tool 
+
+- 
+
+ Install VDAs using scripts 
+
+- 
+
+ Generate custom script to install or upgrade VDA via command-line 
+
+- 
+
+ Third-party VDA deployment methods 
+
+- 
+
+ Create a site
+
+- 
+
+ Create and manage connections and resources 
+
+- 
+
+ Connection to Amulet Hotkey CoreStation 
+
+- 
+
+ Connection to AWS EC2 
+
+- 
+
+ Connection to Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Connection to Azure Local 
+
+- 
+
+ Connection to XenServer 
+
+- 
+
+ Connection to Google cloud environments 
+
+- 
+
+ Connection to HPE Moonshot 
+
+- 
+
+ Connection to Microsoft Azure 
+
+- 
+
+ Connection to Microsoft System Center Virtual Machine Manager 
+
+- 
+
+ Connection to Nutanix 
+
+- 
+
+ Connection to Nutanix cloud and partner solutions 
+
+- 
+
+ Connection to Oracle C3 
+
+- 
+
+ Connection to Red Hat OpenShift 
+
+- 
+
+ Connection to VMware 
+
+- 
+
+ Connection to VMware cloud and partner solutions 
+
+- 
+
+ Service accounts 
+
+- 
+
+ On-premises Active Directory service accounts 
+
+- 
+
+ Manage service accounts 
+
+- 
+
+ Image management
+
+- 
+
+ Create prepared image machine catalogs 
+
+- 
+
+ Create a prepared image for Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Create a prepared image machine catalog in Azure 
+
+- 
+
+ Create a prepared image machine catalog in Azure Local 
+
+- 
+
+ Create a prepared image machine catalog in Nutanix AHV Prism Central 
+
+- 
+
+ Create a prepared image machine catalog in Red Hat OpenShift 
+
+- 
+
+ Create a prepared image machine catalog in VMware 
+
+- 
+
+ Create a prepared image machine catalog in XenServer 
+
+- 
+
+ Manage prepared image machine catalogs
+
+- 
+
+ Create machine catalogs 
+
+- 
+
+ Create an Amulet Hotkey CoreStation machine catalog 
+
+- 
+
+ Create an AWS EC2 catalog 
+
+- 
+
+ Create an Azure Local catalog 
+
+- 
+
+ Create a XenServer catalog 
+
+- 
+
+ Create a Google Cloud Platform catalog 
+
+- 
+
+ Create an HPE Moonshot machine catalog 
+
+- 
+
+ Create a Microsoft Azure catalog 
+
+- 
+
+ Create a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Create a Nutanix catalog 
+
+- 
+
+ Create an Oracle C3 machine catalog 
+
+- 
+
+ Create a Red Hat OpenShift catalog 
+
+- 
+
+ Create a VMware catalog 
+
+- 
+
+ Identity pools of different machine identity join types 
+
+- 
+
+ Identity pool of on-premises Active Directory joined machine identity 
+
+- 
+
+ Identity pool of Microsoft Entra hybrid joined machine identity 
+
+- 
+
+ Identity pool of non-domain-joined machine identity 
+
+- 
+
+ Manage machine catalogs 
+
+- 
+
+ Manage an AWS EC2 catalog 
+
+- 
+
+ Manage a catalog of Amazon WorkSpaces Core Managed Instances 
+
+- 
+
+ Manage a XenServer catalog 
+
+- 
+
+ Manage a Google Cloud Platform catalog 
+
+- 
+
+ Manage an HPE Moonshot catalog 
+
+- 
+
+ Manage a Microsoft Azure catalog 
+
+- 
+
+ Manage a Microsoft System Center Virtual Machine Manager catalog 
+
+- 
+
+ Manage a Nutanix catalog 
+
+- 
+
+ Manage a VMware catalog 
+
+- 
+
+ Power Management 
+
+- 
+
+ Power manage Amulet Hotkey CoreStation VMs 
+
+- 
+
+ Power manage AWS VMs 
+
+- 
+
+ Power manage Azure Local VMs 
+
+- 
+
+ Power manage Azure VMs 
+
+- 
+
+ Power manage Oracle C3 VMs 
+
+- 
+
+ Power manage Red Hat OpenShift VMs 
+
+- 
+
+ Power manage Nutanix AHV VMs 
+
+- 
+
+ Security policies 
+
+- 
+
+ Security groups 
+
+- 
+
+ Secure boot 
+
+- 
+
+ Encryption capabilities 
+
+- 
+
+ Service Window 
+
+- 
+
+ Service Window operations in Azure 
+
+- 
+
+ Load balance machines
+
+- 
+
+ Create delivery groups
+
+- 
+
+ Manage delivery groups
+
+- 
+
+ Create application groups
+
+- 
+
+ Manage application groups
+
+- 
+
+ Remote PC Access
+
+- 
+
+ Cloud Connector Standalone Citrix Secure Ticketing Authority (STA) service
+
+- 
+
+ Publish content
+
+- 
+
+ Server VDI
+
+- 
+
+ User personalization layer
+
+- 
+
+ Remove components
+
+- 
+
+ Upgrade and migrate
+
+- 
+
+ Upgrade a Deployment
+
+- 
+
+ Proxy Support for VDA Upgrade Agent
+
+- 
+
+ Secure
+
+- 
+
+ Federated Authentication Service
+
+- 
+
+ FIDO2 authentication 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ Advanced configuration for custom applications 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Integrate Citrix Virtual Apps and Desktops with Citrix Gateway
+
+- 
+
+ Security considerations and best practices
+
+- 
+
+ Manage certificates
+
+- 
+
+ Smart cards 
+
+- 
+
+ Smart card deployments 
+
+- 
+
+ Pass-through authentication and single sign-on with smart cards 
+
+- 
+
+ Enable TLS on Delivery Controllers
+
+- 
+
+ Enable TLS on Web Studio and Director
+
+- 
+
+ Enable TLS on VDAs
+
+- 
+
+ Enable TLS on Universal Print Server
+
+- 
+
+ Virtual channel allow list
+
+- 
+
+ WebSocket communication between VDA and Delivery Controller™
+
+- 
+
+ HDX connectivity
+
+- 
+
+ Adaptive transport 
+
+- 
+
+ Enlightened Data Transport 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ HDX Direct 
+
+- 
+
+ Certificate management 
+
+- 
+
+ NAT Compatibility 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Secure HDX
+
+- 
+
+ Network telemetry
+
+- 
+
+ Virtual channel allow list 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Known third-party virtual channels 
+
+- 
+
+ Virtual Allow Channel List for DVC 
+
+- 
+
+ Devices
+
+- 
+
+ Scanning 
+
+- 
+
+ TWAIN Redirection 
+
+- 
+
+ WIA Devices 
+
+- 
+
+ SANE Redirection 
+
+- 
+
+ USB Devices 
+
+- 
+
+ Configuration 
+
+- 
+
+ Composite Devices and Device Splitting 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ USB Diagnostics Tool 
+
+- 
+
+ Legacy USB Redirection Configuration 
+
+- 
+
+ Generic USB redirection and client drive considerations 
+
+- 
+
+ Client Drive Mapping
+
+- 
+
+ Mobile and touch screen devices
+
+- 
+
+ Serial ports
+
+- 
+
+ Specialty keyboards
+
+- 
+
+ Support key event sequence processing in Windows VDA for double hop
+
+- 
+
+ Windows - Keyboard and IME Supportability Tool
+
+- 
+
+ Webcams
+
+- 
+
+ Graphics
+
+- 
+
+ Thinwire
+
+- 
+
+ HDX 3D Pro
+
+- 
+
+ GPU acceleration
+
+- 
+
+ 10-bit high dynamic range (HDR)
+
+- 
+
+ Adaptive refresh rate
+
+- 
+
+ Loss tolerant mode for graphics
+
+- 
+
+ HDX screen sharing
+
+- 
+
+ Virtual display layout
+
+- 
+
+ Session-based watermark
+
+- 
+
+ Citrix snipping tool
+
+- 
+
+ Thinwire 
+
+- 
+
+ Thinwire Analysis 
+
+- 
+
+ Thinwire Configuration 
+
+- 
+
+ Thinwire Full Screen Encoder 
+
+- 
+
+ Thinwire Selective Encoder 
+
+- 
+
+ Intelligent Build to Lossless 
+
+- 
+
+ Do Not Use a Video Codec 
+
+- 
+
+ Always Lossless Mode 
+
+- 
+
+ Colorspace 
+
+- 
+
+ High Resolution Displays 
+
+- 
+
+ Loss Tolerant Mode for Graphics 
+
+- 
+
+ Seamless
+
+- 
+
+ Publish seamless applications
+
+- 
+
+ Application groups
+
+- 
+
+ Published content
+
+- 
+
+ Publish packaged applications
+
+- 
+
+ Publish UWP applications
+
+- 
+
+ Linux VDA Published Applications
+
+- 
+
+ Windows Accessibility Settings 
+
+- 
+
+ Prerequisites and Configuration 
+
+- 
+
+ How to Enable 
+
+- 
+
+ Window Dragging
+
+- 
+
+ Transparent windows for seamless applications
+
+- 
+
+ Troubleshooting
+
+- 
+
+ System Tray Icon Redirection
+
+- 
+
+ Multimedia
+
+- 
+
+ Audio features
+
+- 
+
+ Browser content redirection 
+
+- 
+
+ Single sign on support 
+
+- 
+
+ Webcam redirection and video compression
+
+- 
+
+ HTML5 multimedia redirection
+
+- 
+
+ Optimization for Microsoft Teams (New) 
+
+- 
+
+ Citrix HDX Optimization 
+
+- 
+
+ New VDI solution for Teams 
+
+- 
+
+ Optimization for Microsoft Teams (Classic) 
+
+- 
+
+ Monitor, troubleshoot, and support Microsoft Teams 
+
+- 
+
+ Windows Media redirection
+
+- 
+
+ Virtual Channel Plugin Manager 
+
+- 
+
+ Virtual Channel Plugin Manager Overview 
+
+- 
+
+ Virtual Channel Plugin Manager Configuration 
+
+- 
+
+ Unified Communications SDK Optimization
+
+- 
+
+ General content redirection
+
+- 
+
+ Client folder redirection
+
+- 
+
+ Client location redirection
+
+- 
+
+ Bidirectional content redirection
+
+- 
+
+ Host to client redirection
+
+- 
+
+ Local App Access and URL redirection
+
+- 
+
+ Print
+
+- 
+
+ Citrix Universal™ Print Driver (UPD)
+
+- 
+
+ Configuration 
+
+- 
+
+ Client Printer Redirection 
+
+- 
+
+ Citrix Universal Print Server 
+
+- 
+
+ Network printers 
+
+- 
+
+ Troubleshooting 
+
+- 
+
+ Best practices 
+
+- 
+
+ Policies
+
+- 
+
+ Overview
+
+- 
+
+ Create templates
+
+- 
+
+ Create policies
+
+- 
+
+ Create policy sets
+
+- 
+
+ Prioritize policies
+
+- 
+
+ Manage policy assignment exceptions
+
+- 
+
+ Simulate and evaluate policies
+
+- 
+
+ Migrate legacy MMC Group Policy templates to Web Studio
+
+- 
+
+ Remove deprecated policy settings after an upgrade
+
+- 
+
+ Policy settings reference 
+
+- 
+
+ Default policy settings 
+
+- 
+
+ ICA policy settings 
+
+- 
+
+ HDX features managed through the registry 
+
+- 
+
+ Load management policy settings 
+
+- 
+
+ Profile management policy settings 
+
+- 
+
+ User personalization policy settings 
+
+- 
+
+ Virtual Delivery Agent policy settings 
+
+- 
+
+ Virtual IP policy settings 
+
+- 
+
+ Workspace Environment Management™ policy settings 
+
+- 
+
+ Configure COM Port and LPT Port Redirection settings using the registry 
+
+- 
+
+ Policy changes
+
+- 
+
+ Manage
+
+- 
+
+ Applications 
+
+- 
+
+ App packages 
+
+- 
+
+ Universal Windows Platform Apps 
+
+- 
+
+ Backup or Migrate your Configuration 
+
+- 
+
+ Backup and Restore configuration 
+
+- 
+
+ Backup and Restore using Web Studio 
+
+- 
+
+ Backup and Restore using the Automated Configuration tool 
+
+- 
+
+ Best practices for backup and restore 
+
+- 
+
+ Migrate configuration to Citrix Cloud™ 
+
+- 
+
+ Merging multiple sites into a single site 
+
+- 
+
+ Migrating from cloud to cloud 
+
+- 
+
+ Migrate Cloud configurations to on-premises 
+
+- 
+
+ Migrate on-premises configurations to on-premises site 
+
+- 
+
+ Automated configuration tool cmdlets for migration 
+
+- 
+
+ Automated configuration tool cmdlets for backup and restore 
+
+- 
+
+ Troubleshoot Automated configuration and additional information 
+
+- 
+
+ Autoscale™ 
+
+- 
+
+ Getting started 
+
+- 
+
+ Schedule-based and load-based settings 
+
+- 
+
+ Dynamic session timeouts 
+
+- 
+
+ Autoscaling tagged machines (cloud burst) 
+
+- 
+
+ Autoscale™ plug-in 
+
+- 
+
+ User logoff notifications 
+
+- 
+
+ Analyze effectiveness of Autoscale settings 
+
+- 
+
+ Broker PowerShell SDK commands 
+
+- 
+
+ Citrix Insight Services 
+
+- 
+
+ Citrix Scout 
+
+- 
+
+ Collect a Citrix Diagnostic Facility (CDF) Trace at System Startup
+
+- 
+
+ Delegated administration
+
+- 
+
+ Delivery Controllers
+
+- 
+
+ Home page
+
+- 
+
+ IPv4/IPv6 support
+
+- 
+
+ Licensing 
+
+- 
+
+ Multi-type licensing 
+
+- 
+
+ License Activation Service 
+
+- 
+
+ Citrix Virtual Apps and Desktops telemetry data elements 
+
+- 
+
+ FAQ for licensing 
+
+- 
+
+ Local Host Cache
+
+- 
+
+ Machines and sessions (Search > Default view) 
+
+- 
+
+ Machine actions and columns 
+
+- 
+
+ Session actions and columns 
+
+- 
+
+ MCS-provisioned machines (Search > Hardware view)
+
+- 
+
+ Security keys
+
+- 
+
+ Session resilience settings
+
+- 
+
+ Settings
+
+- 
+
+ Tags
+
+- 
+
+ Tasks in Task Center
+
+- 
+
+ User profiles
+
+- 
+
+ VDA registration
+
+- 
+
+ Virtual IP and virtual loopback
+
+- 
+
+ Zones
+
+- 
+
+ Remove broker user from the cache
+
+- 
+
+ Citrix Assistant application
+
+- 
+
+ Monitor
+
+- 
+
+ Configuration logging
+
+- 
+
+ Event logs
+
+- 
+
+ Director
+
+- 
+
+ Install and configure 
+
+- 
+
+ Advanced configuration 
+
+- 
+
+ PIV smart card authentication 
+
+- 
+
+ Network analysis 
+
+- 
+
+ Delegated Administration and Director 
+
+- 
+
+ Secure Director deployment 
+
+- 
+
+ Configure with Citrix Analytics for Performance™ 
+
+- 
+
+ Independent release of Director for LTSR deployments 
+
+- 
+
+ Site analytics 
+
+- 
+
+ Alerts and notifications 
+
+- 
+
+ Application usage monitoring 
+
+- 
+
+ Filters data 
+
+- 
+
+ Historical trends 
+
+- 
+
+ Monitor Autoscale-managed machines 
+
+- 
+
+ Troubleshoot deployments 
+
+- 
+
+ Applications 
+
+- 
+
+ User issues 
+
+- 
+
+ Unified search for Hybrid multi-cloud deployments
+
+- 
+
+ Infrastructure monitoring [Preview] 
+
+- 
+
+ Getting started with Infrastructure Monitoring 
+
+- 
+
+ Manage connections 
+
+- 
+
+ Infrastructure dashboard 
+
+- 
+
+ Application and Desktop Probing
+
+- 
+
+ Cost optimization 
+
+- 
+
+ Cost savings 
+
+- 
+
+ Workload rightsizing 
+
+- 
+
+ Cost summary 
+
+- 
+
+ Feature compatibility matrix
+
+- 
+
+ Data granularity and retention
+
+- 
+
+ Troubleshoot Director failure reasons
+
+- 
+
+ Advisor
+
+- 
+
+ VDA upgrade service (VUS)
+
+- 
+
+ Prerequisites for upgrading VDAs using VUS
+
+- 
+
+ Upgrade VDAs using VUS
+
+- 
+
+ Monitor and Troubleshoot VUS
+
+- 
+
+ Citrix Always on Tracing
+
+- 
+
+ Introduction
+
+- 
+
+ Core Concepts
+
+- 
+
+ Centralized AOT Log Server
+
+- 
+
+ Log Server Recommendation
+
+- 
+
+ Minimum supported versions for Always on Tracing (AOT)
+
+- 
+
+ Installing and Configuring Log Server
+
+- 
+
+ Upgrade Log Server
+
+- 
+
+ Uninstall Log Server
+
+- 
+
+ Uploading the AOT logs from CVAD Core Components
+
+- 
+
+ Viewing and Using AOT logs
+
+- 
+
+ AOT Logs availability across deployment scenarios
+
+- 
+
+ General Response Code for Log Server API
+
+- 
+
+ Troubleshooting with AOT and Log Server
+
+- 
+
+ FAQ
+
+- 
+
+ Fixed Issues
+
+- 
+
+ Known Issues and Limitations
+
+- 
+
+ Third party notice
+
+- 
+
+ Third party notices
+
+- 
+
+ SDKs and APIs
+
+- 
+
+ Document History
+
+ View PDF
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+- 
+
+- Citrix Virtual Apps and Desktops™ 7 2603
+
+ <
+ >
+
+This content has been machine translated dynamically.
+
+Dieser Inhalt ist eine maschinelle Übersetzung, die dynamisch erstellt wurde. (Haftungsausschluss)
+
+Cet article a été traduit automatiquement de manière dynamique. (Clause de non responsabilité)
+
+Este artículo lo ha traducido una máquina de forma dinámica. (Aviso legal)
+
+此内容已经过机器动态翻译。 放弃
+
+このコンテンツは動的に機械翻訳されています。免責事項
+
+이 콘텐츠는 동적으로 기계 번역되었습니다. 책임 부인
+
+Este texto foi traduzido automaticamente. (Aviso legal)
+
+Questo contenuto è stato tradotto dinamicamente con traduzione automatica.(Esclusione di responsabilità))
+
+This article has been machine translated.
+
+Dieser Artikel wurde maschinell übersetzt. (Haftungsausschluss)
+
+Ce article a été traduit automatiquement. (Clause de non responsabilité)
+
+Este artículo ha sido traducido automáticamente. (Aviso legal)
+
+この記事は機械翻訳されています.免責事項
+
+이 기사는 기계 번역되었습니다.책임 부인
+
+Este artigo foi traduzido automaticamente.(Aviso legal)
+
+这篇文章已经过机器翻译.放弃
+
+Questo articolo è stato tradotto automaticamente.(Esclusione di responsabilità))
+
+ Switch to english
+ Auf Englisch anzeigen
+ Lire en anglais
+ Leer en inglés
+ 英語に切り替え
+ 영어로 전환
+ Mudar para ingles
+ 切换到英文
+ Passa all'inglese
+
+Translation failed!
+
+# Adaptive transport 
+
+ September 15, 2025
+
+ Contributed by: 
+
+ C
+
+Adaptive Transport is a mechanism in Citrix Virtual Apps and Desktops™ that allows establishing connections for HDX sessions using a preferred transport protocol while providing a fallback to TCP if connectivity with the preferred protocol is unavailable.
+
+The following transport protocols are supported:
+
+- Enlightened Data Transport (EDT)
+
+- Transmission Control Protocol (TCP)
+
+## 
+Configuration
+
+Adaptive Transport is enabled by default. You can configure Adaptive Transport to operate in the following modes:
+
+- 
+Preferred: (Default) The client attempts to connect with the preferred protocol and falls back to TCP if connectivity with the preferred protocol is unavailable.
+
+- 
+Diagnostic mode: The client only attempts to connect using the preferred protocol. Fall back to TCP is disabled.
+
+- 
+Off: The client only attempts to connect using TCP.
+
+## 
+How it works
+
+When Adaptive Transport is set to Preferred, the client attempts to connect to the session with both the preferred protocol and TCP in parallel. This allows optimizing the connection time if it’s not possible to connect with the preferred protocol and the client must fall back to using TCP. If the connection is established using TCP, the client attempts to connect with the preferred protocol in the background every five minutes.
+
+When Adaptive Transport is set to Diagnostic mode, the client connects to the session only with the preferred protocol. If the client is unable to establish a connection using the preferred protocol, it doesn’t fall back to using TCP, and the connection fails.
+
+When Adaptive Transport is set to Off, Adaptive Transport is disabled, and the client connects to the session using TCP only.
+
+## 
+System requirements
+
+The following are the requirements for using Adaptive Transport and EDT:
+
+- Control plane
+
+- Citrix DaaS (formerly Citrix Virtual Apps™ and Desktops service)
+
+- Citrix Virtual Apps and Desktops: currently supported version
+
+- Virtual Delivery Agent
+
+- Windows: currently supported version (2402 or later is recommended)
+
+- Linux: currently supported version (2402 or later is recommended)
+
+- Citrix Workspace™ app
+
+- Windows: currently supported version (2402 or later is recommended)
+
+- Linux: currently supported version (2402 or later is recommended)
+
+- Mac: currently supported version (2402 or later is recommended)
+
+- iOS: latest version available in the Apple App Store
+
+- Android: latest version available in Google Play
+
+- Citrix NetScaler® Gateway
+
+- 14.1.12.30 or later (recommended)
+
+- 13.1.17.42 or later (13.1-52.19 or later recommended)
+
+Note:
+
+For details on Linux VDA, see the Linux Virtual Delivery Agent documentation.
+
+## 
+Network requirements
+
+The following sections are the network requirements for using EDT with Adaptive Transport:
+
+### Session hosts
+
+If your session hosts have a firewall such as Windows Defender Firewall, you must allow the following inbound traffic for internal connections.
+
+Description
+
+Source
+
+Protocol
+
+Port
+
+Internal connection - Session Reliability enabled
+
+Client
+
+UDP
+
+2598
+
+Internal connection - Session Reliability disabled
+
+1494
+
+Internal connection - HDX™ Direct or VDA SSL
+
+443
+
+Note:
+
+The VDA installer adds the appropriate inbound rules to the Windows Defender Firewall. If you use a different firewall, you must add the rules above.
+
+### Internal network
+
+The following table depicts the firewall rules required for using EDT in your network:
+
+Description
+
+Protocol
+
+Source
+
+Destination
+
+Destination port
+
+Direct internal connection - Session Reliability enabled
+
+UDP
+
+Client network
+
+VDA network
+
+2598
+
+Direct internal connection - Session Reliability disabled
+
+1494
+
+Direct internal connection - HDX Direct or VDA SSL
+
+443
+
+NetScaler Gateway
+
+NetScaler SNIP
+
+2598
+
+NetScaler Gateway - VDA SSL
+
+443
+
+Note:
+
+If you are using Citrix Gateway Service, you must enable Rendezvous to use EDT as your transport protocol. See the Rendezvous documentation for system and network requirements.
+
+### Client network
+
+The following table outlines the connectivity requirements for client devices:
+
+Description
+
+Protocol
+
+Source
+
+Destination
+
+Destination port
+
+Internal connection - Session Reliability enabled
+
+UDP
+
+Client IP
+
+VDA network
+
+2598
+
+Internal connection - Session Reliability disabled
+
+1494
+
+Internal connection - HDX Direct or SSL VDA
+
+443
+
+External connection - NetScaler Gateway
+
+NetScaler Gateway public IP address
+
+443
+
+External connection - Citrix Gateway Service
+
+Citrix Gateway Service
+
+443
+
+Note:
+
+If you are using Citrix Gateway Service, clients must be able to reach https://*.*.nssvc.net. If you can’t allow all subdomains using https://*.*.nssvc.net, you can use https://*.c.nssvc.net and https://*.g.nssvc.net instead. For more information, see Knowledge Center article CTX270584.
+
+ The official version of this product documentation is in English. Any non-English version is solely provided for your convenience and may include machine-translated content. For more information, please refer to the Machine Translation Disclaimer on Cloud Software Group home. 
+
+ DIESER DIENST KANN ÜBERSETZUNGEN ENTHALTEN, DIE VON GOOGLE BEREITGESTELLT WERDEN. GOOGLE LEHNT JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG IN BEZUG AUF DIE ÜBERSETZUNGEN AB, EINSCHLIESSLICH JEGLICHER GEWÄHRLEISTUNG DER GENAUIGKEIT, ZUVERLÄSSIGKEIT UND JEGLICHER STILLSCHWEIGENDEN GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+
+ CE SERVICE PEUT CONTENIR DES TRADUCTIONS FOURNIES PAR GOOGLE. GOOGLE EXCLUT TOUTE GARANTIE RELATIVE AUX TRADUCTIONS, EXPRESSE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE D'EXACTITUDE, DE FIABILITÉ ET TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+ ESTE SERVICIO PUEDE CONTENER TRADUCCIONES CON TECNOLOGÍA DE GOOGLE. GOOGLE RENUNCIA A TODAS LAS GARANTÍAS RELACIONADAS CON LAS TRADUCCIONES, TANTO IMPLÍCITAS COMO EXPLÍCITAS, INCLUIDAS LAS GARANTÍAS DE EXACTITUD, FIABILIDAD Y OTRAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN EN PARTICULAR Y AUSENCIA DE INFRACCIÓN DE DERECHOS.
+
+ 本服务可能包含由 Google 提供技术支持的翻译。Google 对这些翻译内容不做任何明示或暗示的保证，包括对准确性、可靠性的任何保证以及对适销性、特定用途的适用性和非侵权性的任何暗示保证。
+
+ このサービスには、Google が提供する翻訳が含まれている可能性があります。Google は翻訳について、明示的か黙示的かを問わず、精度と信頼性に関するあらゆる保証、および商品性、特定目的への適合性、第三者の権利を侵害しないことに関するあらゆる黙示的保証を含め、一切保証しません。
+
+ ESTE SERVIÇO PODE CONTER TRADUÇÕES FORNECIDAS PELO GOOGLE. O GOOGLE SE EXIME DE TODAS AS GARANTIAS RELACIONADAS COM AS TRADUÇÕES, EXPRESSAS OU IMPLÍCITAS, INCLUINDO QUALQUER GARANTIA DE PRECISÃO, CONFIABILIDADE E QUALQUER GARANTIA IMPLÍCITA DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO INFRAÇÃO.
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ >
+
+ <
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+ Adaptive transport 
+
+ September 15, 2025
+
+ Contributed by: 
+
+ C
+
+Share
+
+ September 15, 2025
+
+ Contributed by: 
+
+ C
+
+Share
+
+### 
+ In this article
+
+- Configuration
+
+- How it works
+
+- System requirements
+
+- Network requirements
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ Citrix
+ Preview Documentation
+
+This Preview product documentation is 
+ Citrix
+ Confidential.
+
+You agree to hold this documentation confidential pursuant to the
+ terms of your 
+ Citrix
+ Beta/Tech Preview Agreement.
+
+The development, release and timing of any features or functionality
+ described in the Preview documentation remains at our sole discretion and are subject to
+ change without notice or consultation.
+
+The documentation is for informational purposes only and is not a
+ commitment, promise or legal obligation to deliver any material, code or functionality
+ and should not be relied upon in making 
+ Citrix
+ product purchase decisions.
+
+If you do not agree, select I DO NOT AGREE to exit.
+
+ I AGREE
+ I DO NOT AGREE
+
+ Send us your feedback
+
+ Machine Translation Feedback Form
+
+ YES
+
+ NO
+
+ Write something?
+
+ SUBMIT
+
+ Copied!
+ Failed!
+
+ Site feedback
+ |
+ Your Privacy Choices
+ |
+ Privacy and legal terms
+ |
+
+ Cookie preferences
+ |
+ Consent settings
+ |
+ docs.cloud.com
+
+ © 1999- Cloud Software Group, Inc. All
+ rights reserved.
+
+ Provide your feedback
+
+ Thanks for your feedback. We'll contact you at the provided email address if we require more information. 
+
+ There was an error while submitting your feedback. Please try again 
+
+ Send Feedback: *
+
+ About the Article
+
+ About the Product
+
+ This field is required
+
+ Subject: *
+
+ This field is required
+
+ Tell us more: *
+
+ This field is required
+
+ We may email you for further information or updates. Would you be open to a follow-up conversation?: *
+
+ Yes
+
+ No
+
+ This field is required
+
+ Name: 
+
+ Please enter a valid name
+
+ Email: 
+
+ Please enter a valid email
+
+Required fields are marked with an 
+
+ This is for feedback and suggestions only. If you encounter any issues requiring resolution, contact your administrator(s) directly. Your feedback is valuable.
+
+ Submit
+
+ I confirm that I have read the instructions and requested required access.
+
+ ×
+
+Do you want to switch to the website in your browser preferred language?
+
+ YES
+ NO
+
+ ×
+
+ Please enter a Commit message
+
+ Request Change

@@ -1,0 +1,80 @@
+URL: https://support.microsoft.com/es-es/excel/functions/max-function
+Leído: 2026-10-06
+
+# Función MAX
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+ En este artículo se describen la sintaxis de fórmula y el uso de la función MAX en Microsoft Excel.
+
+## Descripción
+
+Devuelve el valor máximo de un conjunto de valores.
+
+## Sintaxis
+
+MAX(número1, [número2], ...)
+
+La sintaxis de la función MAX tiene los siguientes argumentos:
+
+- 
+ Número1, número2, ... Número1 es obligatorio, los números siguientes son opcionales. De 1 a 255 números de los que desea encontrar el valor máximo.
+
+## Observaciones
+
+- Los argumentos pueden ser números o nombres, matrices o referencias que contengan números.
+
+- Se tienen en cuenta los valores lógicos y las representaciones textuales de números escritos directamente en la lista de argumentos.
+
+- Si el argumento es una matriz o una referencia, solo se usarán los números contenidos en la matriz o en la referencia. Se ignorarán las celdas vacías, los valores lógicos o el texto contenidos en la matriz o en la referencia.
+
+- Si los argumentos no contienen números, MAX devuelve 0 (cero).
+
+- Los argumentos que sean valores de error o texto que no se pueda traducir a números provocan errores.
+
+- Si desea incluir valores lógicos y representaciones textuales de números en una referencia como parte del cálculo, use la función MAXA .
+
+## Ejemplo
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar el ancho de las columnas para ver todos los datos.
+
+ | 
+ Datos
+ | 
+ | 
+
+ | 10
+ | 
+ | 
+
+ | 7
+ | 
+ | 
+
+ | 9
+ | 
+ | 
+
+ | 27
+ | 
+ | 
+
+ | 2
+ | 
+ | 
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =MAX(A2:A6)
+ | El valor más alto del rango A2:A6.
+ | 27
+
+ | =MAX(A2:A6;30)
+ | El valor más alto del rango A2:A6 y el valor 30.
+ | 30

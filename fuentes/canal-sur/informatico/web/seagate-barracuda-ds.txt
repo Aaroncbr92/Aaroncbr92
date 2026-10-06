@@ -1,0 +1,491 @@
+URL: https://www.seagate.com/content/dam/seagate/en/content-fragments/products/datasheets/barracuda-3-5-hdd/barracuda-3-5-hdd-DS17-2-2603US-en_US.pdf
+Leído: 2026-10-06
+
+
+Best-Fit Applications
+Desktop or all-in-one PCs
+Home servers
+Entry-level direct-attached storage
+devices (DAS)
+3.5 HDD DATA SHEET
+Amazing Versatility.
+Unmatched Dependability.
+Seagate delivers trusted performance and reliability with the
+Seagate® BarraCuda® 3.5-inch HDD—now available in capacities up
+to 24TB.
+Key Advantages
+Versatile HDDs for all your PC needs bring you industry-leading excellence in personal
+computing.
+Built on proven reliability and innovation the BarraCuda family has delivered
+trustworthy storage solutions for the hard drive industry
+.Capacities up to 24TB for desktops, BarraCuda leads the market with the widest
+range of storage options available.
+Advanced Power modes help save energy without sacrificing performance.1
+SATA 6Gb/s interface optimizes burst performance.1
+1 Performance may vary depending on user’s hardware configuration and operating system.
+
+Specifications
+24TB
+20TB
+16TB
+12TB
+8TB
+Standard Model Number
+ST24000DM001
+ST20000DM001
+ST16000DM001
+ST12000DM003
+ST8000DM004
+Bytes per Sector
+512e
+512e
+512e
+512e
+512e
+Performance
+Interface
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA Transfer Rates Supported (Gb/s)
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+Max Sustained Data Rate, OD Read
+(MB/s)
+190MB/s
+190MB/s
+190MB/s
+190MB/s
+190MB/s
+Cache, Multisegmented (MB)
+512MB
+512MB
+512MB
+512MB
+256MB
+Rotational Speed (RPM)
+7200RPM
+7200RPM
+7200RPM
+7200RPM
+5400RPM
+Recording Technology
+CMR
+CMR
+CMR
+CMR
+SMR
+Reliability/Data Integrity
+Load/Unload Cycles
+600,000
+600,000
+600,000
+600,000
+600,000
+Nonrecoverable Read Errors per Bits
+Read, Max
+1 sector per 10E14
+1 sector per 10E14
+1 sector per 10E14
+1 sector per 10E14
+1 per 10E14
+Power-On Hours (per year)
+2400
+2400
+2400
+2400
+2400
+Workload Rate Limit (TB/Year)
+120
+120
+120
+120
+55
+Warranty, Limited (years)
+2
+2
+2
+2
+2
+Power Management
+Startup Power (A)
+2.0A
+2.0A
+2.0A
+2.0A
+2.0A
+Operating Mode, Typical (W)
+8.9W
+8.9W
+8.9W
+8.9W
+5.3W
+Idle Average (W)
+6.7W
+6.7W
+6.7W
+6.7W
+3.4W
+Standby Mode/Sleep Mode, Typical (W)
+1.2 W
+1.2 W
+1.2 W
+1.2 W
+0.25/0.25
+Voltage Tolerance, Inc. Noise (5V)
+±5%
+±5%
+±5%
+±5%
+±5%
+Voltage Tolerance, Inc. Noise (12V)
+±10%
+±10%
+±10%
+±10%
+±10%
+Environmental/Temperature
+Operating (drive reported, min)
+10°C
+10°C
+10°C
+10°C
+0°C
+Operating (drive reported, max)
+60°C
+60°C
+60°C
+60°C
+60°C
+Nonoperating (ambient)
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+Halogen Free
+Yes
+Yes
+Yes
+Yes
+Yes
+RoHS Compliance
+Yes
+Yes
+Yes
+Yes
+Yes
+Physical
+Height (mm/in, max)
+26.1mm/1.028in
+26.1mm/1.028in
+26.1mm/1.028in
+26.1mm/1.028in
+26.11mm/1.028in
+Width (mm/in, max)
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+Depth (mm/in, max)
+147mm/5.787in
+147mm/5.787in
+147mm/5.787in
+147mm/5.787in
+146.99mm/5.787in
+Weight (g/lb, typical)
+695g/1.532lb
+695g/1.532lb
+695g/1.532lb
+695g/1.532lb
+630g/1.389lb
+Carton Unit Quantity
+20
+20
+20
+20
+20
+Cartons per Pallet/Cartons per Layer
+40 / 8
+40 / 8
+40 / 8
+40 / 8
+40 / 8
+2
+
+Specifications
+6TB
+4TB
+3TB
+2TB
+Standard Model Number
+ST6000DM003
+ST4000DM004
+ST3000DM007
+ST2000DM005
+ST2000DM008
+Bytes per Sector
+512e
+512e
+512e
+512e
+512e
+Performance
+Interface
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA 6 Gb/s
+SATA Transfer Rates Supported (Gb/s)
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+6.0/3.0/1.5
+Max Sustained Data Rate, OD Read
+(MB/s)
+185MB/s
+190MB/s
+185MB/s
+190MB/s
+220MB/s
+Cache, Multisegmented (MB)
+256MB
+256MB
+256MB
+256MB
+256MB
+Rotational Speed (RPM)
+5400RPM
+5400RPM
+5400RPM
+5400RPM
+7200RPM
+Recording Technology
+SMR
+SMR
+SMR
+SMR
+SMR
+Reliability/Data Integrity
+Load/Unload Cycles
+600,000
+600,000
+600,000
+600,000
+600,000
+Nonrecoverable Read Errors per Bits
+Read, Max
+1 per 10E14
+1 per 10E14
+1 per 10E14
+1 per 10E14
+1 per 10E14
+Power-On Hours (per year)
+2400
+2400
+2400
+2400
+2400
+Workload Rate Limit (TB/Year)
+55
+55
+55
+55
+55
+Warranty, Limited (years)
+2
+2
+2
+2
+2
+Power Management
+Startup Power (A)
+2.0A
+2.0A
+2.0A
+2.0A
+2.0A
+Operating Mode, Typical (W)
+5.3W
+3.7W
+3.7W
+3.7W
+5.1W
+Idle Average (W)
+3.4W
+2.5W
+2.5W
+2.5W
+3.9W
+Standby Mode/Sleep Mode, Typical (W)
+0.25/0.25
+0.25/0.25
+0.25/0.25
+0.25/0.25
+0.3/0.3
+Voltage Tolerance, Inc. Noise (5V)
+±5%
+±5%
+±5%
+±5%
+±5%
+Voltage Tolerance, Inc. Noise (12V)
+±10%
+±10%
+±10%
+±10%
+±10%
+Environmental/Temperature
+Operating (drive reported, min)
+0°C
+0°C
+0°C
+0°C
+0°C
+Operating (drive reported, max)
+60°C
+60°C
+60°C
+60°C
+60°C
+Nonoperating (ambient)
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+-40°C – 70°C
+Halogen Free
+Yes
+Yes
+Yes
+Yes
+Yes
+RoHS Compliance
+Yes
+Yes
+Yes
+Yes
+Yes
+Physical
+Height (mm/in, max)
+26.11mm/1.028in
+20.20mm/0.795in
+20.20mm/0.795in
+20.20mm/0.795in
+20.20mm/0.795in
+Width (mm/in, max)
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+101.85mm/4.010in
+Depth (mm/in, max)
+146.99mm/5.787in
+146.99mm/5.787in
+146.99mm/5.787in
+146.99mm/5.787in
+146.99mm/5.787in
+Weight (g/lb, typical)
+610g/1.345lb
+490g/1.08lb
+490g/1.08lb
+415g/0.915lb
+415g/0.915lb
+Carton Unit Quantity
+20
+25
+25
+25
+25
+Cartons per Pallet/Cartons per Layer
+40 / 8
+40 / 8
+40 / 8
+40 / 8
+40 / 8
+3
+
+Specifications
+1TB
+Standard Model Number
+ST1000DM014
+Bytes per Sector
+512e
+Performance
+Interface
+SATA 6 Gb/s
+SATA Transfer Rates Supported (Gb/s)
+6.0/3.0/1.5
+Max Sustained Data Rate, OD Read
+(MB/s)
+220MB/s
+Cache, Multisegmented (MB)
+256MB
+Rotational Speed (RPM)
+7200RPM
+Recording Technology
+SMR
+Reliability/Data Integrity
+Load/Unload Cycles
+600,000
+Nonrecoverable Read Errors per Bits
+Read, Max
+1 per 10E14
+Power-On Hours (per year)
+2400
+Workload Rate Limit (TB/Year)
+55
+Warranty, Limited (years)
+2
+Power Management
+Startup Power (A)
+2.0A
+Operating Mode, Typical (W)
+5.1W
+Idle Average (W)
+3.9W
+Standby Mode/Sleep Mode, Typical (W)
+0.3/0.3
+Voltage Tolerance, Inc. Noise (5V)
+±5%
+Voltage Tolerance, Inc. Noise (12V)
+±10%
+Environmental/Temperature
+Operating (drive reported, min)
+0°C
+Operating (drive reported, max)
+60°C
+Nonoperating (ambient)
+-40°C – 70°C
+Halogen Free
+Yes
+RoHS Compliance
+Yes
+Physical
+Height (mm/in, max)
+20.20mm/0.795in
+Width (mm/in, max)
+101.85mm/4.010in
+Depth (mm/in, max)
+146.99mm/5.787in
+Weight (g/lb, typical)
+415g/0.915lb
+Carton Unit Quantity
+25
+Cartons per Pallet/Cartons per Layer
+40 / 8
+seagate.com
+© 2026 Seagate Technology LLC. All rights reserved. Seagate, Seagate Technology, and the Spiral logo are registered trademarks of Seagate Technology LLC in the United States and/or other
+countries. BarraCuda is either a trademark or registered trademark of Seagate Technology LLC or one of its affiliated companies in the United States and/or other countries. All other trademarks or
+registered trademarks are the property of their respective owners. When referring to drive capacity, one gigabyte, or GB, equals one billion bytes and one terabyte, or TB, equals one trillion bytes.
+Your computer’s operating system may use a different standard of measurement and report a lower capacity. In addition, some of the listed capacity is used for formatting and other functions, and
+thus will not be available for data storage. Actual data rates may vary depending on operating environment and other factors. Seagate reserves the right to change, without notice, product offerings or
+specifications. DS17.2-2603US

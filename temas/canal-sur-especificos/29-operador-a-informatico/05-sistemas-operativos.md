@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 5 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Manual universitario R. H. Arpaci-Dusseau y A. C. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, Universidad de Wisconsin-Madison, versión 1.10 (el capítulo de interbloqueos, versión 1.20); documentación de Microsoft Learn (Win32 y controladores de Windows); documentación del núcleo Linux; *The Linux Kernel Module Programming Guide*; página oficial de MINIX 3. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día |
-| Extensión | 10.000 palabras aproximadamente |
+| Fuente | Sin norma jurídica. Manual universitario R. H. Arpaci-Dusseau y A. C. Arpaci-Dusseau, *Operating Systems: Three Easy Pieces*, Universidad de Wisconsin-Madison, versión 1.10 (el capítulo de interbloqueos, versión 1.20); apuntes de curso de J. Bell, Universidad de Illinois en Chicago, sobre el manual de Silberschatz, Galvin y Gagne; documentación de Microsoft Learn (Win32 y controladores de Windows); documentación del núcleo Linux; *The Linux Kernel Module Programming Guide*; página oficial de MINIX 3. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día (lo añadido en el remate, el 06-10-2026) |
+| Extensión | 12.800 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -37,20 +37,24 @@ manual que sirve de fuente principal, *Operating Systems: Three Easy Pieces* (OS
 > planificación, concurrencia, multitarea y multiprogramación.»
 
 Qué se puede preguntar: qué es un sistema operativo y por qué se le llama máquina virtual y gestor de
-recursos; qué distingue el modo núcleo del modo usuario y cómo se pasa de uno a otro; qué es una
+recursos; qué es un sistema de tiempo real y uno distribuido; qué distingue el modo núcleo del modo usuario y cómo se pasa de uno a otro; qué es una
 llamada al sistema; qué funciones tiene el sistema y qué hace el gestor de entrada y salida; qué es
 un controlador de dispositivo, una interrupción y el acceso directo a memoria; qué distingue un
 núcleo monolítico de un micronúcleo y qué es un módulo del núcleo Linux; qué es un proceso, en qué
 estados puede estar y qué transiciones hay entre ellos; qué guarda el PCB; qué hacen `fork()`,
-`exec()` y `wait()`; qué distingue un hilo de un proceso; qué es un cambio de contexto; qué miden el
-tiempo de retorno y el tiempo de respuesta; cómo funcionan FIFO, SJF, STCF, RR y MLFQ, cuál es
-apropiativo y cuál no, y qué es el efecto convoy; qué rango de prioridades usa Windows y qué
-planificador usa hoy Linux; qué es una condición de carrera, una sección crítica y la exclusión
-mutua; qué es un cerrojo, un semáforo y una variable de condición; qué son los problemas del
+`exec()` y `wait()`; qué distingue un hilo de un proceso, y los hilos de usuario de los de núcleo
+(modelos muchos a uno, uno a uno y muchos a muchos); qué es un cambio de contexto; qué hacen los
+planificadores de largo, medio y corto plazo y el despachador; qué miden el tiempo de retorno, el de
+respuesta y el de espera, la utilización de la CPU y la productividad; cómo funcionan FIFO, SJF,
+STCF, RR, la planificación por prioridades y MLFQ, cuál es apropiativo y cuál no, qué es el efecto
+convoy y qué es el envejecimiento; qué rango de prioridades usa Windows y qué planificador usa hoy
+Linux; qué es una condición de carrera, una sección crítica y la exclusión mutua; qué hacen los
+algoritmos de Dekker y Peterson; qué es un cerrojo, un semáforo, una variable de condición y un
+monitor; qué distingue la memoria compartida del paso de mensajes; qué son los problemas del
 productor-consumidor, de los lectores-escritores y de los filósofos; cuáles son las cuatro
 condiciones del interbloqueo y cómo se previene, se evita o se detecta; qué es la inanición; qué
 distingue la multitarea apropiativa de la cooperativa, y la multiprogramación del tiempo compartido.
-En la aplicación práctica: calcular tiempos medios de retorno y de respuesta de un conjunto de
+En la aplicación práctica: calcular tiempos medios de retorno, de respuesta y de espera de un conjunto de
 trabajos con cada algoritmo, seguir el estado de un proceso a lo largo de una operación de E/S y
 reconocer en un caso las condiciones de un interbloqueo.
 
@@ -63,6 +67,7 @@ reconocer en un caso las condiciones de un interbloqueo.
   - [Los modos núcleo y usuario](#los-modos-núcleo-y-usuario)
   - [La llamada al sistema](#la-llamada-al-sistema)
   - [Mecanismo y política](#mecanismo-y-política)
+  - [Clases de sistemas operativos](#clases-de-sistemas-operativos)
 - [2. Componentes funcionales](#2-componentes-funcionales)
   - [Las funciones del sistema](#las-funciones-del-sistema)
   - [El gestor de entrada y salida](#el-gestor-de-entrada-y-salida)
@@ -78,12 +83,14 @@ reconocer en un caso las condiciones de un interbloqueo.
   - [El cambio de contexto](#el-cambio-de-contexto)
 - [5. Algoritmos de planificación](#5-algoritmos-de-planificación)
   - [Qué decide el planificador y cómo se mide](#qué-decide-el-planificador-y-cómo-se-mide)
+  - [Los niveles de planificación y el despachador](#los-niveles-de-planificación-y-el-despachador)
   - [Planificación apropiativa y no apropiativa](#planificación-apropiativa-y-no-apropiativa)
   - [FIFO o FCFS](#fifo-o-fcfs)
   - [SJF, primero el trabajo más corto](#sjf-primero-el-trabajo-más-corto)
   - [STCF, primero el de menor tiempo restante](#stcf-primero-el-de-menor-tiempo-restante)
   - [Round Robin, el turno rotatorio](#round-robin-el-turno-rotatorio)
   - [Ejercicio de aplicación](#ejercicio-de-aplicación)
+  - [Planificación por prioridades](#planificación-por-prioridades)
   - [Colas multinivel con realimentación (MLFQ)](#colas-multinivel-con-realimentación-mlfq)
   - [Planificación con varios procesadores](#planificación-con-varios-procesadores)
   - [Cómo planifica Windows](#cómo-planifica-windows)
@@ -91,8 +98,11 @@ reconocer en un caso las condiciones de un interbloqueo.
 - [6. Concurrencia](#6-concurrencia)
   - [El problema: la condición de carrera](#el-problema-la-condición-de-carrera)
   - [Cerrojos](#cerrojos)
+  - [Soluciones por programa: Dekker y Peterson](#soluciones-por-programa-dekker-y-peterson)
   - [Semáforos](#semáforos)
   - [Variables de condición](#variables-de-condición)
+  - [Monitores](#monitores)
+  - [Memoria compartida y paso de mensajes](#memoria-compartida-y-paso-de-mensajes)
   - [Los problemas clásicos](#los-problemas-clásicos)
   - [El interbloqueo](#el-interbloqueo)
   - [La inanición](#la-inanición)
@@ -214,6 +224,29 @@ contexto); la política, a una pregunta de *cuál*: **«The policy provides the 
 question; for example, which process should the operating system run right now?»**. Separarlos
 permite cambiar de política sin rehacer el mecanismo. En este tema, el cambio de contexto es
 mecanismo (epígrafe 4) y los algoritmos de planificación son políticas (epígrafe 5).
+
+### Clases de sistemas operativos
+
+Los sistemas se clasifican también por el entorno para el que están hechos. La sucesión de los
+sistemas por lotes, los multiprogramados y los de tiempo compartido está en el epígrafe 7; las
+demás clases que se preguntan, con su fuente:
+
+| Clase | Rasgo | Fuente |
+|---|---|---|
+| De tiempo compartido | Varios usuarios y varias tareas a la vez: **«A time-sharing ( multi-user multi-tasking ) OS»** | Apuntes de J. Bell, cap. 1 |
+| De tiempo real | Cada trabajo tiene un plazo: **«a job absolute deadline d_j, which is the time within which the job should be finished»**. Los dispositivos de control de procesos los exigen: **«Process control devices require real-time ( interrupt driven ) OSes. Response time can be critical for many such devices.»** | Núcleo Linux, «Deadline Task Scheduling»; apuntes de J. Bell, cap. 1 |
+| Empotrados | Integrados en aparatos: **«Embedded into devices such as automobiles, climate control systems, process control, and even toasters and refrigerators.»** | Apuntes de J. Bell, cap. 1 |
+| Distribuidos y de red | **«Distributed Systems consist of multiple, possibly heterogeneous, computers connected together via a network and cooperating in some way, form, or fashion.»** La visión que el sistema tiene de la red va **«from just a special form of file access to complex well-coordinated network operating systems»** (desde un simple acceso a ficheros hasta los sistemas operativos de red) | Apuntes de J. Bell, cap. 1 |
+
+Lo que distingue al tiempo real es la garantía de plazo, no la rapidez. La documentación del núcleo
+Linux dice que su política de planificación por plazos, `SCHED_DEADLINE`, es **«particularly suited for periodic or
+sporadic real-time tasks that need guarantees on their timing behavior, e.g., multimedia, streaming,
+control applications, etc.»** (tareas periódicas o esporádicas que necesitan garantías de tiempo,
+como el multimedia o el *streaming*); y explica que la configuración PREEMPT_RT
+**«transforms the Linux kernel into a real-time kernel»**. Con las políticas de
+tiempo real de Linux, como `SCHED_FIFO`, **«When a task with a real-time policy becomes runnable,
+the scheduler immediately selects it for execution if it has a higher priority than the currently
+running task.»**
 
 ## 2. Componentes funcionales
 
@@ -399,6 +432,12 @@ proceso ha terminado pero aún no se ha limpiado, que en Unix se llama **«zombi
 para que el padre recoja el código de retorno del hijo con `wait()`, y entonces el sistema libera
 sus estructuras.
 
+Con esos dos estados añadidos sale el modelo de cinco estados que dan los apuntes de curso sobre el
+manual de Silberschatz: **«Processes may be in one of 5 states»**, que son nuevo (**«New - The
+process is in the stage of being created.»**), listo, en ejecución, en espera (**«Waiting»**, el
+bloqueado de la tabla anterior) y terminado (**«Terminated - The process has completed.»**). Los
+apuntes avisan de que **«Some systems may have other states besides the ones listed here.»**
+
 ### El bloque de control de proceso
 
 Para seguir todos los procesos, el sistema mantiene una lista de procesos (**«The process list (also
@@ -461,6 +500,19 @@ subprocesos que los programan.»**, y el grupo de subprocesos, **«una colecció
 trabajo que ejecutan de forma eficaz devoluciones de llamada asincrónicas en nombre de la
 aplicación»**.
 
+**Hilos de usuario y de núcleo.** Los apuntes de curso sobre el manual de Silberschatz distinguen
+dos clases: **«User threads are supported above the kernel, without kernel support.»** (los de usuario
+se gestionan por encima del núcleo, sin su apoyo), y **«Kernel
+threads are supported within the kernel of the OS itself.»**; además, **«All modern OSes support
+kernel level threads»**. Los hilos de usuario tienen que corresponderse con hilos de núcleo, y hay
+tres modelos:
+
+| Modelo | Cómo es | Ventaja e inconveniente |
+|---|---|---|
+| Muchos a uno | **«many user-level threads are all mapped onto a single kernel thread»** | La gestión la hace la biblioteca en espacio de usuario, **«which is very efficient»**; pero **«if a blocking system call is made, then the entire process blocks»**, y el proceso no puede repartirse entre varias CPU. Los apuntes dicen que **«few systems continue to do so today»** |
+| Uno a uno | **«creates a separate kernel thread to handle each user thread»** | Resuelve los dos problemas anteriores, pero con más coste, y **«Most implementations of this model place a limit on how many threads can be created.»** Los apuntes ponen como ejemplo Linux |
+| Muchos a muchos | **«multiplexes any number of user threads onto an equal or smaller number of kernel threads»** | Sin límite de hilos para el usuario, una llamada bloqueante no bloquea todo el proceso y el proceso se reparte entre procesadores. Una variante es el modelo de dos niveles (**«two-tier model»**), que admite a la vez muchos a muchos y uno a uno |
+
 ### El cambio de contexto
 
 Para cambiar de proceso, el sistema tiene que recuperar el control de la CPU, y hay dos maneras de
@@ -507,6 +559,38 @@ El tiempo de retorno es una métrica de rendimiento; la otra gran preocupación 
 (*fairness*), y las dos chocan: **«Performance and fairness are often at odds in scheduling»**. El
 tiempo de respuesta nació con los sistemas de tiempo compartido, cuando los usuarios se sentaron
 ante un terminal y pidieron respuesta interactiva.
+
+Los apuntes de curso sobre el manual de Silberschatz añaden tres criterios más:
+
+| Criterio | Definición de los apuntes | Qué se busca |
+|---|---|---|
+| Utilización de la CPU (*CPU utilization*) | **«Ideally the CPU would be busy 100% of the time, so as to waste 0 CPU cycles. On a real system CPU usage should range from 40% ( lightly loaded ) to 90% ( heavily loaded. )»** | Maximizarla |
+| Productividad (*throughput*) | **«Number of processes completed per unit time.»** | Maximizarla |
+| Tiempo de espera (*waiting time*) | **«How much time processes spend in the ready queue waiting their turn to get on the CPU.»** | Reducirlo |
+
+La regla general, en los apuntes: **«Maximize CPU utilization and throughput, and minimize all the
+others.»** Para un trabajo que sólo usa la CPU, el tiempo de espera es su tiempo de retorno menos lo
+que dura (T espera = T retorno − T ráfaga); es cálculo, no cita. En un algoritmo no apropiativo con
+todos los trabajos llegados a la vez, coincide con el tiempo de respuesta, porque cada trabajo sólo
+espera antes de empezar.
+
+### Los niveles de planificación y el despachador
+
+El planificador de este epígrafe es el de corto plazo, pero los apuntes distinguen tres:
+
+| Planificador | Qué hace, según los apuntes |
+|---|---|
+| De largo plazo | **«A long-term scheduler is typical of a batch system or a very heavily loaded system. It runs infrequently, ( such as when one process ends selecting one more to be loaded in from disk in its place )»** (decide qué trabajo nuevo entra) |
+| De medio plazo | **«When system loads get high, this scheduler will swap one or more processes out of the ready queue system for a few seconds, in order to allow smaller faster jobs to finish up quickly and clear the system.»** (saca procesos temporalmente para aliviar la carga) |
+| De corto plazo o de CPU | **«The short-term scheduler, or CPU Scheduler, runs very frequently, on the order of 100 milliseconds, and must very quickly swap one process out of the CPU and swap in another one.»** |
+
+De los tres, el de medio plazo es opcional: **«Some systems also employ a medium-term scheduler.»**
+
+El despachador (*dispatcher*) es la pieza que ejecuta la decisión: **«The dispatcher is the module
+that gives control of the CPU to the process selected by the scheduler.»** Su trabajo: cambiar de
+contexto, pasar a modo usuario y saltar al punto adecuado del programa. Como corre en cada cambio de
+contexto, debe ser lo más rápido posible, y **«The time consumed by the dispatcher is known as
+dispatch latency»** (latencia de despacho).
 
 ### Planificación apropiativa y no apropiativa
 
@@ -581,15 +665,43 @@ domains»**, y mejora el aprovechamiento del sistema.
 Tres trabajos llegan a la vez (instante 0), en el orden A, B, C; A dura 6 unidades, B 3 y C 1. El
 cálculo es propio, con las definiciones del manual:
 
-| Algoritmo | Orden de ejecución | Finalización A, B, C | Retorno medio | Respuesta media |
-|---|---|---|---|---|
-| FIFO | A (0-6), B (6-9), C (9-10) | 6, 9, 10 | 25 / 3 ≈ 8,33 | (0 + 6 + 9) / 3 = 5 |
-| SJF | C (0-1), B (1-4), A (4-10) | 10, 4, 1 | 15 / 3 = 5 | (4 + 1 + 0) / 3 ≈ 1,67 |
-| RR, cuanto 1 | A, B, C, A, B, A, B, A, A, A | 10, 7, 3 | 20 / 3 ≈ 6,67 | (0 + 1 + 2) / 3 = 1 |
+| Algoritmo | Orden de ejecución | Finalización A, B, C | Retorno medio | Respuesta media | Espera media |
+|---|---|---|---|---|---|
+| FIFO | A (0-6), B (6-9), C (9-10) | 6, 9, 10 | 25 / 3 ≈ 8,33 | (0 + 6 + 9) / 3 = 5 | (0 + 6 + 9) / 3 = 5 |
+| SJF | C (0-1), B (1-4), A (4-10) | 10, 4, 1 | 15 / 3 = 5 | (4 + 1 + 0) / 3 ≈ 1,67 | (4 + 1 + 0) / 3 ≈ 1,67 |
+| RR, cuanto 1 | A, B, C, A, B, A, B, A, A, A | 10, 7, 3 | 20 / 3 ≈ 6,67 | (0 + 1 + 2) / 3 = 1 | (4 + 4 + 2) / 3 ≈ 3,33 |
+
+Con RR, la espera de cada trabajo es su retorno menos su duración: A, 10 − 6 = 4; B, 7 − 3 = 4; C,
+3 − 1 = 2. En FIFO y SJF coincide con la respuesta, porque nadie es interrumpido.
 
 Y un caso con llegadas distintas: A llega en 0 y dura 6; B llega en 2 y dura 2. Con SJF (no
 apropiativo), A sigue hasta 6 y B va de 6 a 8: retornos 6 y 6, media 6. Con STCF, B interrumpe a A
 en 2, va de 2 a 4, y A termina en 8: retornos 8 y 2, media 5.
+
+### Planificación por prioridades
+
+Cada trabajo tiene una prioridad y se ejecuta primero el de prioridad más alta. Los apuntes la
+presentan como generalización de SJF: **«Priority scheduling is a more general case of SJF, in which
+each job is assigned a priority and the job with the highest priority gets scheduled first.»** (SJF
+es el caso en que la prioridad es la inversa de la duración prevista de la próxima ráfaga.) Rasgos que se preguntan:
+
+- Qué número es «más alto» depende del sistema: **«there is no agreed-upon convention as to whether
+  "high" priorities use large numbers or small numbers»**. El libro que siguen los apuntes toma 0 como la
+  más alta; Windows, al revés, usa 31 como la más alta (más abajo).
+- Las prioridades pueden ser internas (las fija el sistema por criterios como la duración media de
+  las ráfagas o la proporción de CPU y de E/S) o externas (las fijan los usuarios por la importancia
+  del trabajo).
+- **«Priority scheduling can be either preemptive or non-preemptive.»**
+- Su gran problema es la inanición, que los apuntes llaman **«indefinite blocking, or starvation, in
+  which a low-priority task can wait forever because there are always some other jobs around that
+  have higher priority»**. El remedio habitual es el envejecimiento: **«aging, in which priorities of
+  jobs increase the longer they wait»**.
+
+El ejemplo de los apuntes, con el número más bajo como prioridad más alta (los apuntes no dan
+instantes de llegada; el cálculo supone que todos llegan en el 0): P1 dura 10 (prioridad 3), P2 1 (prioridad 1), P3 2 (prioridad 4), P4 1
+(prioridad 5) y P5 5 (prioridad 2). El orden es P2 (0-1), P5 (1-6), P1 (6-16), P3 (16-18) y P4
+(18-19); las esperas, 0, 1, 6, 16 y 18, y el tiempo medio de espera, **«8.2 ms»** (41 / 5; el orden
+y la suma son cálculo propio que reproduce la cifra de los apuntes).
 
 ### Colas multinivel con realimentación (MLFQ)
 
@@ -705,6 +817,31 @@ libre); en un solo procesador necesita un planificador apropiativo. Una de las s
 inhibir las interrupciones durante la sección crítica, se ideó para un solo procesador y no sirve con
 varios.
 
+### Soluciones por programa: Dekker y Peterson
+
+Además de con instrucciones atómicas, se buscó la exclusión mutua sólo con programa. El manual lo
+cuenta en un recuadro: en los años sesenta Dijkstra planteó el problema a sus colegas, y uno de
+ellos, el matemático Theodorus Jozef Dekker, dio con una solución; **«Unlike the solutions we discuss
+here, which use special hardware instructions and even OS support, Dekker’s algorithm uses just
+loads and stores (assuming they are atomic with respect to each other, which was true on early
+hardware).»** (Sin instrucciones especiales ni apoyo del sistema: sólo lecturas y escrituras de
+memoria.)
+
+**«Dekker’s approach was later refined by Peterson»**, con la misma idea: **«just loads and stores
+are used, and the idea is to ensure that two threads never enter a critical section at the same
+time»**. El algoritmo de Peterson es para dos hilos y usa dos variables compartidas:
+
+- `flag[2]`: cada hilo pone a 1 la suya para indicar que quiere entrar (**«indicate you intend to
+  hold the lock»**).
+- `turn`: de quién es el turno. Para entrar, el hilo marca su `flag`, cede el turno al otro
+  (`turn = 1 - self`) y espera en bucle mientras el otro quiera entrar y sea su turno. Para salir,
+  basta con bajar su `flag`.
+
+El manual advierte de su valor actual: era más fácil suponer un poco de apoyo del procesador, y
+además **«algorithms like the ones above don’t work on modern hardware (due to relaxed memory
+consistency models)»** (no funcionan en el soporte físico actual, por sus modelos de consistencia de
+memoria relajados).
+
 ### Semáforos
 
 **«A semaphore is an object with an integer value that we can manipulate with two routines; in the
@@ -730,6 +867,55 @@ execution (i.e., some condition) is not as desired (by waiting on the condition)
 when it changes said state, can then wake one (or more) of those waiting threads and thus allow them
 to continue (by signaling on the condition).»** El nombre se lo dio Hoare en su trabajo sobre
 monitores.
+
+### Monitores
+
+El monitor une la exclusión mutua con la programación orientada a objetos. Lo describió primero Per
+Brinch Hansen y lo refinó después Tony Hoare, y consiste en una clase cuyos
+métodos no pueden ejecutarse a la vez: **«the monitor guarantees that only one thread can be active
+within the monitor at a time»**. Lo hace con un cerrojo implícito: **«Whenever a thread tries to
+call a monitor routine, it implicitly tries to acquire the monitor lock.»** Si no lo consigue, se
+bloquea hasta que el hilo que está dentro termina. C++ no tiene monitores; **«However, Java does
+support monitors, with what are called synchronized methods.»**
+
+Para esperar a que cambie un estado (por ejemplo, a que haya hueco en el búfer), el monitor usa
+variables de condición con dos operaciones: **«wait() blocks the calling thread on a given
+condition; signal() wakes one waiting thread that is waiting on the condition.»** Hay dos
+semánticas de `signal()`:
+
+| Semántica | Qué hace `signal()` |
+|---|---|
+| De Hoare | **«the signal() immediately wakes one waiting thread and runs it»**: el cerrojo del monitor pasa en el acto al hilo despertado |
+| De Mesa (Lampson y Redell, Xerox PARC) | Es sólo una pista: mueve un hilo de bloqueado a listo, pero no lo ejecuta en el acto, y el hilo que avisa sigue hasta salir del monitor |
+
+**«virtually any system today that uses condition variables with signaling and waiting uses Mesa
+semantics»**, y de ahí la regla práctica del manual: **«always recheck the condition after being
+woken! Put in even simpler terms, use while loops and not if statements when checking
+conditions.»** El manual les dedica un apéndice titulado **«Monitors (Deprecated)»** (obsoletos), y explica que se
+inventaron cuando llegaba la programación orientada a objetos, para unir las dos ideas:
+**«Nothing more than that.»**
+
+### Memoria compartida y paso de mensajes
+
+Los procesos que cooperan (los que pueden afectar a otros o ser afectados por ellos) necesitan
+comunicarse, y los apuntes de curso sobre el manual de Silberschatz dan dos modelos: **«Shared
+Memory systems or Message Passing systems»**.
+
+| Modelo | Ventaja | Inconveniente |
+|---|---|---|
+| Memoria compartida | **«Shared Memory is faster once it is set up, because no system calls are required and access occurs at normal memory speeds.»** | Más difícil de montar y **«doesn't work as well across multiple computers»**; además, el acceso concurrente hay que sincronizarlo (lo que trata este epígrafe) |
+| Paso de mensajes | Más sencillo de montar y **«works well across multiple computers»** | **«Message Passing requires system calls for every message transfer, and is therefore slower»** |
+
+El paso de mensajes necesita al menos dos llamadas: **«system calls for "send message" and "receive
+message"»**. Y deja tres decisiones de diseño:
+
+- Nombrado. En la comunicación directa, **«the sender must know the name of the receiver»**; en la
+  indirecta, los mensajes van a buzones o puertos: **«Indirect communication uses shared mailboxes,
+  or ports.»**
+- Sincronización. **«Either the sending or receiving of messages ( or neither or both ) may be
+  either blocking or non-blocking.»** (Enviar y recibir pueden ser bloqueantes o no.)
+- Almacenamiento en cola, con tres capacidades: cero (el emisor se bloquea hasta que el receptor
+  acepta el mensaje), limitada (se bloquea si la cola está llena) e ilimitada (nunca se bloquea).
 
 ### Los problemas clásicos
 
@@ -860,8 +1046,12 @@ epígrafe 4.
 - La clasificación de Windows por tipo de núcleo: las fuentes leídas describen sus componentes de modo
   núcleo y de modo usuario y Microsoft niega que sea un micronúcleo, pero no lo llaman monolítico ni
   híbrido, y el tema no lo clasifica.
-- Los monitores como construcción del lenguaje, el paso de mensajes entre procesos y los algoritmos
-  clásicos de exclusión mutua por programa (Dekker, Peterson): no se han leído en fuente y no se dan.
+- El estado suspendido y los modelos de más de cinco estados que lo incluyen: las fuentes leídas sólo
+  dicen que el planificador de medio plazo saca procesos de la cola de listos, sin dar nombre a ese
+  estado, y el tema no lo da. Tampoco da, por no haberlos encontrado en fuente, la clase de los
+  sistemas monousuario ni la distinción entre tiempo real estricto y no estricto.
+- Las llamadas concretas de comunicación entre procesos de Unix y Windows (tuberías, colas de
+  mensajes, memoria compartida POSIX): a la práctica de Linux y Windows van los temas 6 y 9.
 - La implantación concreta de los sistemas operativos en los equipos de la RTVA y de CSRTV: no consta
   en ningún documento publicado.
 
@@ -874,6 +1064,9 @@ epígrafe 4.
 | OSTEP, cap. 6 «Mechanism: Limited Direct Execution» (© 2008–23) | Modos usuario y núcleo, *trap* y tabla de *traps*, enfoque cooperativo y apropiativo, interrupción de reloj, planificador, cambio de contexto | 05-10-2026 |
 | OSTEP, cap. 7 «Scheduling: Introduction», cap. 8 «Scheduling: The Multi-Level Feedback Queue» (© 2008–23) y cap. 10 «Multiprocessor Scheduling (Advanced)» (© 2008–25) | Métricas, FIFO, SJF, STCF, RR, amortización, E/S y solapamiento, ejemplos de 110, 50 y 103,33 segundos, reglas de MLFQ, SQMS, MQMS, robo de trabajo | 05-10-2026 |
 | OSTEP, cap. 26 «Concurrency: An Introduction», 28 «Locks», 30 «Condition Variables», 31 «Semaphores» (© 2008–25) | Hilos y TCB, paralelismo, condición de carrera, sección crítica, indeterminación, exclusión mutua, atomicidad, cerrojos, *spin lock*, semáforos, variables de condición, productor-consumidor, lectores-escritores, filósofos | 05-10-2026 |
+| OSTEP, cap. 28 «Locks», recuadro «Dekker’s and Peterson’s algorithms» (© 2008–25), y apéndice D «Monitors (Deprecated)» (threads-monitors.pdf, © 2008–23) | Dekker y Peterson; monitores, semánticas de Hoare y de Mesa | 06-10-2026 |
+| J. Bell, apuntes del curso CS 385 «Operating Systems», Universidad de Illinois en Chicago (www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/), sobre A. Silberschatz, P. B. Galvin y G. Gagne, *Operating System Concepts*, 9.ª ed.; caps. 1 «Introduction», 3 «Processes», 4 «Threads» y 6 «CPU Scheduling» | Clases de sistemas (tiempo compartido, tiempo real, empotrados, distribuidos), cinco estados, planificadores de largo, medio y corto plazo, despachador, utilización, productividad y tiempo de espera, planificación por prioridades y envejecimiento, ejemplo de 8,2 ms, hilos de usuario y de núcleo y sus modelos, memoria compartida y paso de mensajes | 06-10-2026 |
+| Documentación del núcleo Linux, «Deadline Task Scheduling» (docs.kernel.org/scheduler/sched-deadline.html) y «Theory of operation» de «Real-time preemption» (docs.kernel.org/core-api/real-time/theory.html) | Plazo de una tarea de tiempo real, idoneidad para multimedia y *streaming*, PREEMPT_RT, `SCHED_FIFO` | 06-10-2026 |
 | OSTEP, cap. 32 «Common Concurrency Problems», versión 1.20 (© 2008–26) | Interbloqueo: cuatro condiciones, prevención, *livelock*, banquero, detección | 05-10-2026 |
 | OSTEP, cap. 36 «I/O Devices» (© 2008–25) | Registros del dispositivo, sondeo, interrupciones, DMA, E/S explícita y mapeada en memoria, controlador de dispositivo, 70 % del código | 05-10-2026 |
 | Microsoft Learn (es-es), «Modo de usuario y modo kernel», «Información general sobre los componentes de Windows» (actualizada el 15-06-2023) y «Biblioteca de kernels en modo kernel de Windows» | Modos en Windows, componentes, administrador de E/S, definición de kernel, «microkernel» no aplicable a Windows | 05-10-2026 |
@@ -884,7 +1077,10 @@ epígrafe 4.
 
 El manual OSTEP está en inglés: las citas van en negrita en su lengua y la explicación en castellano
 es del tema. Microsoft traduce *thread* por «subproceso» y *preemptive* por «preferente»; se cita tal
-cual. La documentación del núcleo Linux dice que la transición a EEVDF empezó en la versión 6.6
+cual. Los apuntes de J. Bell son de un curso universitario (montados en la primavera de 2006 y, según su
+página principal, en curso de actualización para la primavera de 2013) y siguen la 9.ª edición del manual de Silberschatz;
+el tema toma de ellos conceptos y definiciones estables, y no los ejemplos de sistemas concretos que
+podrían haber cambiado, salvo los que se dicen como suyos. La documentación del núcleo Linux dice que la transición a EEVDF empezó en la versión 6.6
 **«(as a new option in 2024)»**; no se ha comprobado aparte la fecha de publicación de esa versión.
 
 Oficio sin fuente detrás, y así se declara: la tabla de los modos núcleo y usuario y la razón de que
@@ -893,6 +1089,8 @@ y salida «en tres líneas» y el reparto de funciones entre el núcleo, el plan
 aritmético-lógica y la pila de red; la función del núcleo en Unix y Linux y lo que no hace (interfaz gráfica,
 servicios de red, comunicación por terminales); lo que mete dentro cada tipo de núcleo en la tabla
 y la ventaja de cada uno; la contraposición entre
-multiprogramación y tiempo compartido; la distinción entre concurrencia y paralelismo; la definición
+multiprogramación y tiempo compartido; que lo que distingue al tiempo real es la garantía de plazo y
+no la rapidez; que el acceso a la memoria compartida hay que sincronizarlo; la distinción entre concurrencia y paralelismo; la definición
 de inanición como síntesis de las dos citas del manual. Es cálculo, y se puede rehacer: el ejercicio
-de aplicación del epígrafe 5.
+de aplicación del epígrafe 5, con sus tiempos de espera y la fórmula T espera = T retorno − T ráfaga,
+y el orden y las esperas del ejemplo de prioridades.

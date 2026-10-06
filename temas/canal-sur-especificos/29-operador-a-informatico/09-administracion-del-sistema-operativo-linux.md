@@ -15,7 +15,8 @@
 Siglas: Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA); Canal Sur Radio y
 Televisión, S.A. (CSRTV); Boletín Oficial de la Junta de Andalucía (BOJA); proyecto GNU (*GNU's Not
 Unix*), autor de buena parte de las herramientas del sistema; versión de soporte a largo plazo (LTS,
-*long-term support*); imagen de disco óptico (ISO); bus serie universal (USB); disco versátil digital (DVD); protocolo de
+*long-term support*); mantenimiento de seguridad ampliado de Ubuntu (ESM, *Expanded Security
+Maintenance*); imagen de disco óptico (ISO); bus serie universal (USB); disco versátil digital (DVD); protocolo de
 configuración dinámica de equipos (DHCP); intérprete de órdenes seguro remoto (SSH, *Secure Shell*);
 norma de jerarquía del sistema de ficheros (FHS, *Filesystem Hierarchy Standard*); identificador de
 usuario (UID) y de grupo (GID); lista de control de acceso (ACL, *access control list*); interfaz de
@@ -32,7 +33,7 @@ interfaz DNF; sistema de ficheros en red (NFS); red de área extensa (WAN); expr
 (BRE) y extendida (ERE); protocolo de control de transmisión (TCP); unidad central de proceso (CPU);
 entrada y salida (E/S). Los nombres de orden, de fichero y de opción van en acentos graves porque son
 código. Dentro de las citas quedan, tal como los escribe la fuente y sin desarrollar porque su desarrollo
-no se ha leído en ella: BSD (la sintaxis de opciones de `ps` sin guion), CPIO (el formato del
+no se ha leído en ella: CVE (la de los parches del mantenimiento de Ubuntu), BSD (la sintaxis de opciones de `ps` sin guion), CPIO (el formato del
 *initramfs*), SGI (un tipo de tabla de particiones de `fdisk`), YUM (el gestor al que sucede DNF),
 STDOUT (la salida estándar), y LINEAR y FSUSE%, que son un nivel de `mdadm` y una columna de `lsblk`.
 
@@ -178,6 +179,25 @@ versión cada seis meses, con nombre en clave, y se numera por año y mes: la 26
 
 A la fecha del tema, la LTS en curso es la *26.04 LTS*; la página sigue listando la anterior,
 24.04 LTS, dentro de su mantenimiento.
+
+*Más allá de los cinco años: ESM y Ubuntu Pro.* La misma página precisa que el mantenimiento
+estándar de una LTS cubre el repositorio *Main*: **«These versions are security maintained for 5
+years with CVE patches for packages in the Main repository.»** Después viene el ESM, que se obtiene
+con la suscripción Ubuntu Pro: **«ESM extends the life of LTS releases by providing 10 years of
+security updates for the 'Main' repository and also adds 10 years of security coverage for the
+'Universe' repository.»** (diez años de actualizaciones de seguridad para *Main* y otros diez de
+cobertura para *Universe*). Al acabar ese plazo, **«the Legacy add-on can be purchased to cover
+additional 5 years of the lifetime of Ubuntu LTS, giving a total of 15 years security maintenance
+and support for LTS releases»** (cinco años más, quince en total). De ahí la cifra que da la página
+para la suscripción: **«It includes up to 15 years of security coverage (ESM and Legacy add-on)»**.
+Y **«Ubuntu Pro subscriptions are free for personal use on up to five machines.»** (gratuita para uso
+personal en hasta cinco equipos).
+
+| Plazo | Qué cubre |
+|---|---|
+| 5 años | Mantenimiento estándar de la LTS, paquetes de *Main* |
+| 10 años | ESM (Ubuntu Pro): *Main* y *Universe* |
+| 15 años | ESM más *Legacy add-on* |
 
 *Debian.* La página de versiones dice: **«The current stable distribution of Debian is version 13,
 codenamed trixie.»** (la estable vigente es la 13, *trixie*), y su última revisión, la **«13.7, was
@@ -1103,7 +1123,7 @@ propone por defecto el instalador de Ubuntu no se ha comprobado en fuente.
 ### Crear un sistema de ficheros: mkfs
 
 - `mkfs`: **«mkfs is used to build a Linux filesystem on a device, usually a hard disk partition.»**
-  Pero **«This mkfs frontend is deprecated in favour of filesystem specific mkfs.<type> utils.»** (se
+  Pero **«This mkfs frontend is deprecated in favour of filesystem specific mkfs.&lt;type&gt; utils.»** (se
   prefieren las órdenes específicas: `mkfs.ext4`, `mkfs.xfs`, `mkfs.vfat`…).
 - `mke2fs`: **«mke2fs is used to create an ext2, ext3, or ext4 file system, usually in a disk partition
   (or file) named by device.»** **«If mke2fs is run as mkfs.XXX (i.e., mkfs.ext2, mkfs.ext3, or
@@ -1164,7 +1184,7 @@ LABEL=t-home2   /home      ext4    defaults,auto_da_alloc      0  2
 | 5 | `fs_freq` | Para `dump`; **«Defaults to zero (don't dump) if not present.»** |
 | 6 | `fs_passno` | El orden de comprobación al arrancar: **«The root filesystem should be specified with a fs_passno of 1. Other filesystems should have a fs_passno of 2.»** Con 0, no se comprueba |
 
-*Por qué UUID o etiqueta y no `/dev/sdb1`.* **«LABEL=<label> or UUID=<uuid> may be given instead of
+*Por qué UUID o etiqueta y no `/dev/sdb1`.* **«LABEL=&lt;label&gt; or UUID=&lt;uuid&gt; may be given instead of
 a device name. This is the recommended method, as device names are often a coincidence of hardware
 detection order, and can change when other disks are added or removed.»** (el nombre `/dev/sdX`
 depende del orden en que se detectan los discos y puede cambiar si se añade uno; el UUID no). El UUID
@@ -1204,6 +1224,25 @@ ejemplos; los nombres de otros tipos de dispositivo (NVMe, tarjetas) no se han c
 recorded in the partition table, usually found in sector 0 of the disk.»** (la división en
 particiones se anota en la tabla de particiones, normalmente en el sector 0). Las dos tablas
 corrientes son MBR y GPT; que la tabla que `parted` llama *MS-DOS* es la MBR es oficio.
+
+*MBR frente a GPT*, según `fdisk(8)`:
+
+- GPT: **«GPT uses 64-bit logical block addresses, checksums, UUIDs and names for partitions and an
+  unlimited number of partitions (although the number of partitions is usually restricted to 128 in
+  many partitioning tools).»** (direcciones de bloque de 64 bits, sumas de comprobación, UUID y
+  nombres de partición; particiones sin límite, aunque muchas herramientas las limitan a 128). Su
+  primer sector guarda un MBR protector: **«Note that the first sector is still reserved for a
+  protective MBR in the GPT specification. It prevents MBR-only partitioning tools from
+  mis-recognizing and overwriting GPT disks.»** (impide que una herramienta que sólo entiende MBR lo
+  tome por otra cosa y lo sobrescriba).
+- MBR (tabla tipo DOS): la tabla en sí **«can describe an unlimited number of partitions»**, pero
+  **«In sector 0 there is room for the description of 4 partitions»** (las llamadas primarias). Una de ellas puede ser extendida, contenedora de particiones lógicas: **«The four
+  primary partitions, present or not, get numbers 1-4. Logical partitions are numbered starting from
+  5.»** Cada partición se anota, entre otras formas, como número absoluto de sectores **«(given in 32
+  bits)»**, y **«with 512-byte sectors this will work up to 2 TB»** (con sectores de 512 bytes, hasta
+  2 TB).
+- La recomendación: **«GPT is always a better choice than MBR, especially on modern hardware with a
+  UEFI boot loader.»**
 
 ### Ver qué hay
 
@@ -1342,8 +1381,24 @@ additional features on top of dpkg.»**
 *Los repositorios.* **«The APT package index is a database of available packages from the
 repositories defined in the /etc/apt/sources.list.d directory. Ubuntu repositories are defined in the
 /etc/apt/sources.list.d/ubuntu.sources file.»** En versiones anteriores a 24.04 LTS, que no usan por
-defecto el formato *deb822*, el fichero era `/etc/apt/sources.list`. Además de los repositorios
-oficiales están Universe y Multiverse, mantenidos por la comunidad; la documentación avisa de que
+defecto el formato *deb822*, el fichero era `/etc/apt/sources.list`.
+
+*Las cuatro categorías.* La página del ciclo de versiones dice: **«Ubuntu packages are grouped into
+four main categories: 'Main' and 'Restricted' (the base system), and 'Universe' and 'Multiverse'
+(community and extra packages). 'Main' and 'Universe' are open source, while 'Restricted' and
+'Multiverse' contain some non-open source software.»**
+
+| Categoría | Sistema base o comunidad | Código abierto |
+|---|---|---|
+| Main | Sistema base | Sí |
+| Restricted | Sistema base | Contiene algún software no abierto |
+| Universe | Comunidad y extras | Sí |
+| Multiverse | Comunidad y extras | Contiene algún software no abierto |
+
+La guía «Package management» de Ubuntu Server añade que Universe y Multiverse vienen activados:
+**«By default, the universe and multiverse repositories are
+enabled.»** (para quitarlos se edita `/etc/apt/sources.list.d/ubuntu.sources` y se borran del campo
+`Components:`, según esa guía). Y la misma guía avisa de que
 **«packages in Universe and Multiverse are not officially supported and do not receive security
 patches, except through Ubuntu Pro's Expanded Security Maintenance»**.
 
@@ -1787,8 +1842,11 @@ awk 'BEGIN { print "Analysis of \"li\"" }
 **«There is no need to use the BEGIN rule to initialize the counter n to zero, as awk does this
 automatically»** (las variables empiezan a cero).
 
-Que la cuarta columna de `ps aux` es `%MEM` no se ha comprobado en la página de `ps`; el ejemplo vale
-por la sintaxis de `awk`.
+La columna 4 sale de `ps(1)`: la opción `u` es **«Display user-oriented format. (-o
+user,pid,pcpu,pmem,vsz,rss,tty,stat,start_time,bsdtime,args»**, y la cuarta columna, `pmem`, tiene
+por cabecera `%MEM`: **«pmem %MEM see %mem.»**, que es el **«ratio of the process's resident set size
+to the physical memory on the machine, expressed as a percentage»** (memoria residente del proceso
+entre la memoria física, en porcentaje).
 
 ### Cuál usar
 
@@ -1804,8 +1862,9 @@ citadas.
 - Las versiones vigentes de Red Hat Enterprise Linux, Fedora y derivadas: no se han consultado.
 - La fusión de `/bin` y `/sbin` en `/usr` que hacen algunas distribuciones, y si hay una versión de la
   FHS posterior a la 3.0: no se han comprobado en fuente.
-- Los nombres de dispositivo de discos NVMe y tarjetas, las diferencias de capacidad y número de
-  particiones entre MBR y GPT, y las órdenes interactivas de `fdisk`: no se han leído en fuente.
+- Los nombres de dispositivo de discos NVMe y tarjetas, y las órdenes interactivas de `fdisk`: no se
+  han leído en fuente. El límite de tamaño de GPT tampoco: `fdisk(8)` sólo da sus direcciones de 64
+  bits.
 - El sistema de ficheros que propone por defecto el instalador de Ubuntu, y la implementación de `awk`
   instalada por defecto en Ubuntu y Debian: no comprobados.
 - `groupdel`, `chage` en su página de manual, `newgrp`, `visudo` y el formato de `/etc/sudoers`: no se
@@ -1826,11 +1885,11 @@ Bash, sudo, cronie), salvo `apt(8)`, leída en manpages.ubuntu.com en su versió
 
 | Fuente | Qué sostiene |
 |---|---|
-| Ubuntu, «Ubuntu release cycle» (ubuntu.com/about/release-cycle) | Cadencia semestral, numeración, LTS cada dos años con cinco años de mantenimiento, intermedias de nueve meses, 26.04 y 24.04 LTS |
+| Ubuntu, «Ubuntu release cycle» (ubuntu.com/about/release-cycle) | Cadencia semestral, numeración, LTS cada dos años con cinco años de mantenimiento, intermedias de nueve meses, 26.04 y 24.04 LTS, *Main* en el mantenimiento estándar, ESM, *Legacy add-on*, Ubuntu Pro (15 años, gratis para uso personal en cinco equipos), las cuatro categorías de paquetes |
 | Debian, «Debian Releases» (debian.org/releases) | Debian 13 *trixie* estable, revisión 13.7 de 12-09-2026, *bookworm* *oldstable* |
 | Ubuntu Server documentation, «Basic installation» (tutorial) | Arquitecturas, requisitos, copia previa, ISO, USB, teclas de arranque, pasos del instalador |
 | Ubuntu Server documentation, «User management» | Cuentas locales y NSS, root deshabilitado, sudo y sudo-rs, grupo sudo, tipos de UID, `nobody`, `adduser`/`deluser`/`addgroup`, bloqueo, permisos de los directorios personales, `/etc/skel`, `DIR_MODE`, longitud mínima de contraseña, `chage` |
-| Ubuntu Server documentation, «Package management» | APT, índice y `ubuntu.sources`, `apt update/install/remove/upgrade`, `--purge`, `apt` frente a `apt-get`, Aptitude, `dpkg -l/-L/-S/-i/-r`, aviso sobre `dpkg -r`, actualizaciones automáticas, Universe y Multiverse |
+| Ubuntu Server documentation, «Package management» | APT, índice y `ubuntu.sources`, `apt update/install/remove/upgrade`, `--purge`, `apt` frente a `apt-get`, Aptitude, `dpkg -l/-L/-S/-i/-r`, aviso sobre `dpkg -r`, actualizaciones automáticas, Universe y Multiverse (sin soporte oficial; activados por defecto) |
 | Ubuntu Server documentation, «Backups and version control» y «How to back up using shell scripts» | Plan de copias, copia fuera de las instalaciones, Bacula, rsnapshot, incrementales, etckeeper, script con `tar`, campos de `crontab`, prueba y restauración, rotación abuelo-padre-hijo; la errata de las «12:00 pm» |
 | *Filesystem Hierarchy Standard* 3.0, Linux Foundation (refspecs.linuxfoundation.org/FHS_3.0) | Objeto de la norma y rótulos de cada directorio |
 | `hier(7)` | Descripciones de `/`, `/bin`, `/boot`, `/dev`, `/etc`, `/proc`, `/sbin`, `/tmp`, `/usr`, `/usr/bin`, `/usr/local`, subdirectorios de `/var/spool` |
@@ -1840,9 +1899,9 @@ Bash, sudo, cronie), salvo `apt(8)`, leída en manpages.ubuntu.com en su versió
 | `bash(1)` | Definición, POSIX, órdenes internas `cd`, `export`, `umask`, `alias`, virgulilla, comodines, comillas, variables y parámetros especiales, estado de salida, sustitución de órdenes, redirección, tuberías, listas, `#!`, `if`, `for`, `while`, `case`, SIGINT y ^C |
 | `pwd(1)`, `cp(1)`, `mv(1)`, `rm(1)`, `mkdir(1)`, `cat(1)`, `less(1)`, `head(1)`, `tail(1)`, `find(1)`, `sort(1)`, `uniq(1)`, `wc(1)`, `cut(1)`, `tr(1)`, `tee(1)`, `xargs(1)`, `man(1)` | Órdenes de ficheros y de texto, secciones del manual |
 | `bootup(7)`, `systemd(1)`, `systemd.special(7)`, `runlevel(8)`, `systemctl(1)`, `shutdown(8)` | Secuencia de arranque y parada, PID 1, tipos de unidad, *targets*, equivalencia con niveles, órdenes de `systemctl`, `shutdown` |
-| `journalctl(1)`, `dmesg(1)`, `ps(1)`, `top(1)`, `htop(1)`, `kill(1)`, `signal(7)`, `nice(1)`, `nohup(1)`, `crontab(1)`, `crontab(5)`, `uname(1)`, `hostnamectl(1)`, `uptime(1)`, `free(1)`, `who(1)`, `w(1)`, `last(1)`, `whoami(1)`, `sysctl(8)`, `ip(8)`, `ss(8)` | Herramientas de administración del epígrafe 6 |
+| `journalctl(1)`, `dmesg(1)`, `ps(1)`, `top(1)`, `htop(1)`, `kill(1)`, `signal(7)`, `nice(1)`, `nohup(1)`, `crontab(1)`, `crontab(5)`, `uname(1)`, `hostnamectl(1)`, `uptime(1)`, `free(1)`, `who(1)`, `w(1)`, `last(1)`, `whoami(1)`, `sysctl(8)`, `ip(8)`, `ss(8)` | Herramientas de administración del epígrafe 6; formato `u` y columna `%MEM` de `ps` (epígrafe 13) |
 | `fstab(5)`, `mount(8)`, `umount(8)`, `mkfs(8)`, `mke2fs(8)`, `fsck(8)`, `e2fsck(8)`, `mkswap(8)`, `swapon(8)` | Sistemas de ficheros, montaje, `fstab`, comprobación, intercambio |
-| `fdisk(8)`, `parted(8)`, `lsblk(8)`, `blkid(8)`, `df(1)`, `du(1)`, `lvm(8)`, `pvcreate(8)`, `vgcreate(8)`, `lvcreate(8)`, `lvextend(8)`, `mdadm(8)`, `cryptsetup(8)` | Gestión de discos, LVM, RAID, LUKS |
+| `fdisk(8)`, `parted(8)`, `lsblk(8)`, `blkid(8)`, `df(1)`, `du(1)`, `lvm(8)`, `pvcreate(8)`, `vgcreate(8)`, `lvcreate(8)`, `lvextend(8)`, `mdadm(8)`, `cryptsetup(8)` | Gestión de discos, MBR frente a GPT, LVM, RAID, LUKS |
 | `apt(8)` (Ubuntu 26.04), `dpkg(1)`, `rpm(8)`, `dnf(8)` | Órdenes de paquetes |
 | GNU tar manual 1.35.90 (secciones «General Synopsis», «Creating and Reading Compressed Archives», «Using tar to Perform Incremental Dumps») y `tar(1)` | Operaciones y opciones, nombres relativos, compresión, incrementales |
 | `rsync(1)`, `dd(1)` | Copia y sincronización, copia en bruto |

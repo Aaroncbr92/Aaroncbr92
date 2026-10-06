@@ -1,0 +1,241 @@
+URL: https://learn.microsoft.com/es-es/windows/security/identity-protection/access-control/local-accounts
+Leído: 2026-10-06 (ms.date 2026-04-13)
+
+# Cuentas locales
+- Se aplica a: ✅ Windows 11, ✅ Windows 10, ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+ Comentarios
+## 
+En este artículo se describen las cuentas de usuario y sistema locales predeterminadas para los sistemas operativos Windows y se describe cómo administrarlas.
+Las cuentas locales (cuentas de usuario y cuentas del sistema) son entidades de seguridad que se usan para administrar el acceso de usuario y sistema a los recursos de un dispositivo. Las cuentas de usuario y sistema locales se definen localmente en un dispositivo y el dispositivo es la entidad de seguridad. Estas cuentas solo tienen derechos y permisos en ese dispositivo.
+## Cuentas de usuario locales predeterminadas
+Las cuentas de usuario locales predeterminadas son cuentas de usuario locales integradas que el sistema operativo crea automáticamente cuando se instala. No puede quitar ni eliminar las cuentas de usuario locales predeterminadas. Las cuentas de usuario locales predeterminadas tienen derechos y permisos para administrar el acceso a los recursos del dispositivo local. No proporcionan acceso a los recursos de red.
+Para administrar las cuentas de usuario local de un equipo, use la Consola de administración de Microsoft Management Console (MMC) de administración de equipos. Administración de equipos es una colección de herramientas administrativas que puede usar para administrar un dispositivo local o remoto. Las cuentas de usuario local predeterminadas y las cuentas de usuario local que cree se encuentran en la carpeta Usuarios y grupos locales\Usuarios de Administración de equipos.
+En las secciones siguientes se describen las cuentas de usuario locales predeterminadas.
+### Administrator
+La cuenta de administrador local predeterminada es una cuenta de usuario destinada a la administración del sistema. Cada equipo es una entidad de seguridad y tiene una cuenta de administrador (el identificador de seguridad de la cuenta (SID) es S-1-5-<SecurityAuthorityName>-500y su nombre para mostrar es Administrador. La cuenta de administrador es la primera cuenta que se crea durante la instalación de Windows.
+La cuenta de administrador tiene control total de los archivos, directorios, servicios y otros recursos del dispositivo local. La cuenta de administrador puede crear otros usuarios locales, asignar derechos de usuario y asignar permisos. La cuenta de administrador puede tomar el control de los recursos locales en cualquier momento cambiando los derechos y permisos de usuario.
+No puede eliminar ni bloquear la cuenta de administrador predeterminada. Sin embargo, puede cambiar el nombre o deshabilitarlo.
+El programa de instalación de Windows deshabilita la cuenta de administrador integrada y crea otra cuenta local que es miembro del grupo Administradores.
+Los miembros de los grupos Administradores pueden ejecutar aplicaciones mediante permisos elevados sin usar el comando Ejecutar como administrador .
+#### Pertenencia a grupos de cuentas
+De forma predeterminada, la cuenta de administrador es miembro del grupo Administradores. Se recomienda limitar el número de usuarios en el grupo Administradores, ya que los miembros del grupo Administradores tienen permisos de control total en el dispositivo.
+No puede quitar la cuenta de administrador del grupo Administradores.
+#### Consideraciones de seguridad
+Se sabe que la cuenta de administrador existe en muchas versiones del sistema operativo Windows. Por lo tanto, se recomienda deshabilitar la cuenta de administrador siempre que sea posible para que sea más difícil que los usuarios malintencionados obtengan acceso al servidor o al equipo cliente.
+Puede cambiar el nombre de la cuenta de administrador. Sin embargo, una cuenta de administrador cuyo nombre ha cambiado sigue usando el mismo SID asignado automáticamente, que los usuarios malintencionados pueden detectar. Para obtener más información sobre cómo cambiar el nombre o deshabilitar una cuenta de usuario, vea Deshabilitar o activar una cuenta de usuario local y Cambiar el nombre de una cuenta de usuario local.
+Como procedimiento recomendado de seguridad, use la cuenta local (que no es de administrador) para iniciar sesión y, a continuación, use Ejecutar como administrador para realizar tareas que requieran un mayor nivel de derechos o permisos que una cuenta de usuario estándar. No use la cuenta de administrador para iniciar sesión en el equipo a menos que sea necesario. Para obtener más información, consulte Ejecución de un programa con credenciales administrativas.
+Puede usar directiva de grupo para controlar automáticamente el uso del grupo de administradores local. Para obtener más información sobre directiva de grupo, consulte introducción a directiva de grupo.
+Importante
+- No puede usar una contraseña en blanco para la cuenta de administrador.
+- Incluso cuando la cuenta de administrador está deshabilitada, puede usarla para obtener acceso a un equipo si la inicia en modo seguro. Las reglas siguientes se aplican al iniciar sesión en un equipo en modo seguro: 
+- Cuando se habilitan las redes, puede usar una cuenta de usuario de dominio que sea miembro del grupo de administradores.
+- Cuando se habilita otro miembro del grupo de administradores locales, puede usar esa cuenta de miembro.
+- Si no hay ninguna otra cuenta habilitada, el modo seguro habilita automáticamente la cuenta de administrador. Al iniciar el equipo en modo normal en lugar de en modo seguro, la cuenta de administrador está deshabilitada.
+### Invitado
+Los usuarios ocasionales o de un solo uso que no tengan una cuenta en el dispositivo pueden usar la cuenta de invitado para iniciar sesión temporalmente en el dispositivo local. El identificador de seguridad de cuenta (SID) es S-1-5-21-<SecurityAuthorityName>-501y su nombre para mostrar es Invitado. La cuenta de invitado tiene permisos y derechos de usuario limitados. De forma predeterminada, la cuenta de invitado está deshabilitada y tiene una contraseña en blanco. Dado que la cuenta de invitado puede proporcionar acceso anónimo, se considera un riesgo de seguridad. Por este motivo, se recomienda dejar deshabilitada la cuenta de invitado, a menos que sea necesario su uso.
+#### Pertenencia al grupo de cuentas de invitado
+De forma predeterminada, la cuenta de invitado es el único miembro del grupo invitados predeterminado (el SID del grupo es S-1-5-32-546). Este grupo tiene los derechos y permisos que necesita la cuenta de invitado para iniciar sesión en un dispositivo.
+#### Consideraciones de seguridad de la cuenta de invitado
+Al habilitar la cuenta de invitado, solo conceda derechos y permisos limitados. Por motivos de seguridad, no use la cuenta de invitado a través de la red y no permita que otros equipos accedan a ella.
+Además, la cuenta de invitado no debería poder ver los registros de eventos. Después de habilitar la cuenta de invitado, se recomienda supervisar la cuenta de invitado con frecuencia para asegurarse de que otros usuarios no pueden usar servicios y otros recursos. Estos recursos incluyen los que un usuario anterior dejó disponibles involuntariamente.
+### DefaultAccount
+La cuenta DefaultAccount, también conocida como cuenta administrada del sistema predeterminado (DSMA), es un tipo de cuenta de usuario conocido. DSMA puede ejecutar procesos que sean compatibles con varios usuarios o independientes del usuario.
+DSMA está deshabilitado de forma predeterminada en las ediciones de escritorio y en los sistemas operativos del servidor con la experiencia de escritorio.
+DSMA tiene un RID conocido de 503. Por lo tanto, el identificador de seguridad (SID) del DSMA tiene un SID conocido en el formato siguiente: S-1-5-21-<SecurityAuthorityName>-503.
+Dsma es miembro del conocido grupo de cuentas administradas del sistema, que tiene un SID conocido de S-1-5-32-581.
+Se puede conceder acceso al alias DSMA a los recursos durante el almacenamiento provisional sin conexión incluso antes de crear la propia cuenta. La cuenta y el grupo se crean en el Administrador de cuentas de seguridad (SAM) la primera vez que se inicia el equipo.
+#### Cómo Windows usa DSMA
+Desde la perspectiva de los permisos, DSMA es una cuenta de usuario estándar.
+Las aplicaciones con manifiesto de varios usuarios (aplicaciones MUMA) necesitan que DSMA se ejecute en dispositivos basados en Windows. Las aplicaciones de MUMA se ejecutan todo el tiempo y reaccionan a los usuarios que inician sesión y salen del dispositivo. A diferencia de Windows Desktop, donde las aplicaciones se ejecutan en el contexto del usuario y finalizan cuando el usuario se cierra la sesión, las aplicaciones MUMA se ejecutan mediante DSMA.
+Las aplicaciones de MUMA funcionan en SKU de sesión compartida, como Xbox. Por ejemplo, el shell de Xbox es una aplicación MUMA. En la actualidad, Xbox inicia sesión automáticamente como cuenta de invitado y todas las aplicaciones se ejecutan en este contexto. Todas las aplicaciones son compatibles con varios usuarios y responden a eventos desencadenados por el administrador de usuarios. Las aplicaciones se ejecutan como la cuenta de invitado.
+En el modelo de usuario convergente, las aplicaciones compatibles con varios usuarios y los agentes multiusuario se ejecutan en un contexto diferente al de los usuarios. Para ello, el sistema crea el DSMA.
+#### Cómo se crea dsma en controladores de dominio (CONTROLADORes de dominio)
+Si el dominio se creó mediante controladores de dominio que ejecutan Windows Server 2016 o una versión posterior de Windows Server, dsma existe en todos los controladores de dominio del dominio como una cuenta local. Reside en la misma base de datos de cuenta mini que el administrador del modo de restauración del servicio de directorio (DSRM).
+#### Recomendaciones para administrar dsma
+Microsoft no recomienda cambiar la configuración predeterminada, donde la cuenta está deshabilitada. No hay ningún riesgo de seguridad al tener la cuenta en estado deshabilitado. Cambiar la configuración predeterminada podría impedir escenarios futuros que dependan de esta cuenta.
+### WDAGUtilityAccount
+WDAGUtilityAccount es una cuenta local predefinida que usa Protección de aplicaciones de Windows Defender. La cuenta tiene un valor SID conocido, S-1-5-21-<SecurityAuthorityName>-504. De forma predeterminada, esta cuenta no pertenece a ningún grupo.
+### WSIAccount
+WSIAccount es una cuenta local predefinida que se introduce en Windows 11. Windows usa esta cuenta para las actividades relacionadas con la web que comienzan desde la pantalla de bloqueo o inicio de sesión. Estas actividades incluyen el acceso a páginas web del proveedor de credenciales para el restablecimiento de contraseña o la autenticación basada en web. Tiene un valor SID conocido, S-1-5-21-<SecurityAuthorityName>-1001. De forma predeterminada, esta cuenta pertenece al grupo Usuarios.
+## Cuentas de sistema local predeterminadas
+### SISTEMA
+El sistema operativo y los servicios que se ejecutan en Windows usan la cuenta SYSTEM. Tiene un valor SID conocido, S-1-5-18. Hay muchos servicios y procesos en el sistema operativo Windows que necesitan la funcionalidad para iniciar sesión internamente, como durante una instalación de Windows. La cuenta SYSTEM se diseñó para ese propósito y Windows administra los derechos de usuario de la cuenta system. Es una cuenta interna que no aparece en el Administrador de usuarios y no se puede agregar a ningún grupo.
+Por otro lado, la cuenta SYSTEM aparece en un volumen del sistema de archivos NTFS en el Administrador de archivos en la parte Permisos del menú Seguridad . De forma predeterminada, a la cuenta SYSTEM se le conceden permisos de control total a todos los archivos de un volumen NTFS. En este contexto, la cuenta SYSTEM tiene los mismos derechos y permisos funcionales que la cuenta de administrador.
+Nota
+Para conceder a la cuenta permisos de archivo de grupo administradores no concede implícitamente permiso a la cuenta SYSTEM. Los permisos de la cuenta SYSTEM se pueden quitar de un archivo, pero no se recomienda quitarlos.
+### SERVICIO DE RED
+La cuenta DE SERVICIO DE RED es una cuenta local predefinida que usa el administrador de control de servicios (SCM). La cuenta tiene un valor SID conocido, S-1-5-20. Un servicio que se ejecuta en el contexto de la cuenta DE SERVICIO DE RED presenta las credenciales del equipo a los servidores remotos. Para obtener más información, vea Cuenta de NetworkService.
+### SERVICIO LOCAL
+La cuenta DE SERVICIO LOCAL es una cuenta local predefinida que usa SCM. La cuenta tiene un valor SID conocido, S-1-5-19. Tiene privilegios mínimos en el equipo local y presenta credenciales anónimas en la red. Para obtener más información, vea Cuenta localService.
+### HelpAssistant
+La cuenta HelpAssistant es una cuenta local predeterminada que solo está habilitada durante las sesiones de Asistencia remota. cuando no hay solicitudes de asistencia remota pendientes, la cuenta HelpAssistant se deshabilita automáticamente.
+HelpAssistant es la cuenta principal que se usa para establecer una sesión de Asistencia remota. La sesión de Asistencia remota se conecta a otro equipo basado en Windows y se inicia por invitación. Para solicitar asistencia remota, un usuario envía una invitación desde su ordenador, por correo electrónico o como archivo, a una persona que puede proporcionar asistencia. Una vez aceptada la invitación del usuario para una sesión de Asistencia remota, se crea automáticamente la cuenta de HelpAssistant predeterminada para proporcionar a la persona que proporciona asistencia acceso limitado al equipo. El servicio Administrador de sesiones de Ayuda de Escritorio remoto administra la cuenta HelpAssistant.
+#### Consideraciones de seguridad de la cuenta de HelpAssistant
+Los SID que pertenecen a la cuenta de HelpAssistant predeterminada incluyen los siguientes valores:
+- SID: S-1-5-13, nombre para mostrar Usuario de Terminal Server. Este grupo incluye a todos los usuarios que inician sesión en un servidor mientras servicios de Escritorio remoto están habilitados.
+- SID: S-1-5-14, nombre para mostrar Inicio de sesión interactivo remoto. Este grupo incluye todos los usuarios que se conectan al equipo mediante una conexión al Escritorio remoto. Este grupo es un subconjunto del grupo interactivo. Los tokens de acceso que contienen el SID de inicio de sesión interactivo remoto también contienen el SID interactivo.
+Nota
+Estos SID se clasifican como SID "conocidos". Para obtener más información, consulte la sección SID conocidos de Identificadores de seguridad.
+Para el sistema operativo Windows Server, Asistencia remota es un componente opcional que no está instalado de forma predeterminada. Debe instalar la Asistencia remota para poder usarla.
+## Administración de cuentas de usuario locales
+Como se describió anteriormente, las cuentas de usuario local predeterminadas y las cuentas de usuario locales que cree residen en la carpeta Usuarios y grupos locales\Usuarios de Administración de equipos. Para obtener más información sobre cómo crear y administrar cuentas de usuario locales, consulte Administrar usuarios locales.
+Para limitar la capacidad de los usuarios y grupos locales de realizar determinadas acciones, puede usar Usuarios y grupos locales para asignar derechos y permisos solo en el equipo local. Un derecho autoriza a un usuario a realizar ciertas acciones en un dispositivo, como realizar copias de seguridad de archivos y carpetas o apagar un equipo. Un permiso de acceso es una regla que está asociada a un objeto, normalmente un archivo, una carpeta o una impresora. Regula qué usuarios pueden tener acceso a un objeto en el servidor y de qué manera.
+No puede usar usuarios y grupos locales en un controlador de dominio para administrar cuentas en el controlador de dominio. Puede usar Usuarios y grupos locales en un controlador de dominio para dirigirse a equipos remotos que no son controladores de dominio, si la red permite la administración remota.
+También puede administrar usuarios locales mediante el uso NET.EXE USER y la administración de grupos locales mediante NET.EXE LOCALGROUPo mediante los cmdlets del módulo Microsoft.PowerShell.LocalAccounts en Windows PowerShell.
+### Protección de cuentas de estación de trabajo predeterminadas mientras las cuentas están en uso
+En Windows, el proceso del subsistema de autoridad de seguridad local (LSASS) controla todas las sesiones y credenciales del usuario y del sistema. Para aislar y proteger estas credenciales, siga estos pasos:
+Para todos los roles de equipo (por ejemplo, estaciones de trabajo y servidores), configure LSASS para que sea un proceso de luz de procesos protegidos (PPL). Para obtener más información e instrucciones, consulte Configuración de la protección LSA agregada.
+En el caso de las estaciones de trabajo, asegúrese de que Credential Guard se está ejecutando para aislar aún más las credenciales activas y los secretos están aislados. En función de la configuración del equipo, Credential Guard suele estar activo de forma predeterminada en las versiones actuales de Windows. Para obtener más información sobre el uso de Credential Guard, consulte los artículos siguientes:
+ Información general de Credential Guard
+ Configuración de Credential Guard
+ Cómo funciona Credential Guard
+### Restricción y protección de cuentas locales con derechos administrativos
+Puede usar muchos enfoques para evitar que usuarios malintencionados usen credenciales robadas, como una contraseña robada o un hash de contraseña, para que una cuenta local de un equipo se use para autenticar y usar derechos administrativos y permisos en otro equipo. Este tipo de ataque se conoce como movimiento lateral.
+El enfoque más sencillo consiste en iniciar sesión en el equipo con una cuenta de usuario estándar y, a continuación, usar esa cuenta para tareas administrativas, en lugar de usar la cuenta de administrador. Por ejemplo, use una cuenta estándar para examinar Internet, enviar correo electrónico o usar un procesador de textos. Cuando quiera realizar tareas administrativas, como instalar un nuevo programa o cambiar una configuración que afecte a otros usuarios, no es necesario cambiar a una cuenta de administrador. Puede usar el Control de cuentas de usuario (UAC) para solicitarle permiso o una contraseña de administrador antes de realizar la tarea, como se describe en la sección siguiente.
+Otros enfoques que puede usar para restringir y proteger las cuentas de usuario que tienen derechos administrativos incluyen los siguientes pasos:
+- Aplicación de restricciones de cuenta local para el acceso remoto
+- Denegar el derecho de acceso de inicio de sesión de red a todas las cuentas de administrador locales
+- Creación de contraseñas únicas para cuentas locales con derechos administrativos
+En las secciones siguientes se describe cada uno de estos enfoques.
+### Aplicación de restricciones de cuenta local para el acceso remoto
+Control de cuentas de usuario (UAC) es una característica de seguridad que le informa cuando un programa realiza un cambio que requiere permisos administrativos. UAC funciona ajustando el nivel de permiso de la cuenta de usuario. De forma predeterminada, UAC está configurado para notificarle cuando las aplicaciones intentan realizar cambios en el equipo, pero puede cambiar cuando UAC lo notifique.
+UAC permite que una cuenta que tenga derechos administrativos se trate como una cuenta de usuario no administrador estándar hasta que se soliciten y aprueben todos los derechos, también denominados elevación. Por ejemplo, UAC permite a un administrador escribir credenciales durante la sesión de usuario de un administrador no administrador para realizar tareas administrativas ocasionales sin tener que cambiar de usuario, cerrar la sesión o usar el comando Ejecutar como .
+Además, UAC puede requerir que los administradores aprueben específicamente las aplicaciones que realizan cambios en todo el sistema antes de que se les conceda permiso para ejecutarlas, incluso en la sesión de usuario del administrador.
+Por ejemplo, se muestra una característica predeterminada de UAC cuando una cuenta local inicia sesión desde un equipo remoto mediante el inicio de sesión de red (por ejemplo, mediante NET.EXE USE). En este caso, se emite un token de usuario estándar sin derechos administrativos, pero sin la capacidad de solicitar o recibir elevación. Por lo tanto, las cuentas locales que inician sesión mediante el inicio de sesión de red no pueden acceder a recursos compartidos administrativos como C$o ADMIN$, ni realizar ninguna administración remota.
+Para obtener más información sobre UAC, consulte Control de cuentas de usuario.
+En la tabla siguiente se muestran los directiva de grupo y la configuración del Registro que aplican restricciones de cuenta local para el acceso remoto.
+No.
+Configuración
+Descripción detallada
+Ubicación de la directiva
+Configuración del equipo\Configuración de Windows\Configuración de seguridad\Directivas locales\Opciones de seguridad
+1
+Nombre de directiva
+ Control de cuentas de usuario: Modo de aprobación de administrador para la cuenta predefinida Administrador
+Configuración de directiva
+Habilitado
+2
+Ubicación de la directiva
+Configuración del equipo\Configuración de Windows\Configuración de seguridad\Directivas locales\Opciones de seguridad
+Nombre de directiva
+ Control de cuentas de usuario: ejecutar todos los administradores en Modo de aprobación de administrador
+Configuración de directiva
+Habilitado
+3
+Subclave del Registro
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+Nombre del valor del Registro
+LocalAccountTokenFilterPolicy
+Tipo de valor del Registro
+DWORD
+Datos del valor del Registro
+0
+Nota
+También puede aplicar las restricciones predeterminadas de la cuenta local mediante el ADMX personalizado en plantillas de seguridad. Para obtener más información, vea Definir plantillas de seguridad mediante el complemento Plantillas de seguridad.
+#### Para aplicar restricciones de cuenta local para el acceso remoto
+Inicie la Consola de administración de directivas de grupo (GPMC).
+En el árbol de consola, vaya a Forest: ForestName>Domains>DomainName, donde ForestName es el nombre del bosque, y DomainName es el nombre del dominio donde desea configurar el objeto directiva de grupo (GPO).
+En el árbol de consola, haga clic con el botón derecho en directiva de grupo Objetos y, a continuación, seleccione Nuevo.
+En el cuadro de diálogo Nuevo GPO , escriba un nombre para el nuevo GPO y, a continuación, seleccione Aceptar. Use el nombre del GPO para indicar que el GPO restringe los derechos de administrador local a un único equipo.
+En el panel de detalles, haga clic con el botón derecho en el nuevo GPO y seleccione Editar.
+Para habilitar y configurar UAC para la cuenta de administrador predeterminada, siga estos pasos:
+- En el Editor de administración de directiva de grupo, vaya aDirectivas> de configuración> del equipoConfiguración de> WindowsConfiguración de seguridad Opciones> deseguridadDirectivas> locales.
+- En el panel de detalles, haga clic con el botón derecho en Control de cuentas de usuario: ejecute todos los administradores en Administración modo de aprobación y, a continuación, seleccione Propiedades.
+- Seleccione Definir esta configuración de directiva, Seleccione Habilitado y, a continuación, seleccione Aceptar.
+- Haga clic con el botón derecho en Control de cuentas de usuario: Administración modo de aprobación para la cuenta de administrador integrada y, a continuación, seleccione Propiedades.
+- Seleccione Definir esta configuración de directiva, Seleccione Habilitado y, a continuación, seleccione Aceptar.
+Para aplicar restricciones de cuenta locales para los miembros del dominio a las interfaces de red, siga estos pasos:
+- En GPMC, vaya al dominio donde desea aplicar la configuración de UAC a los miembros del dominio.
+- Cree un NUEVO GPO o seleccione un GPO existente que coincida con el propósito.
+- Abra el GPO para su edición.
+- En directiva de grupo Editor de administración, vaya aPreferencias>de configuración> del equipoRegistrode configuración de> Windows.
+- Haga clic con el botón derecho en Registro y, a continuación, seleccione Nuevo>elemento del Registro.
+- En el cuadro de diálogo Nuevas propiedades del Registro, en la pestaña General, cambie la configuración del cuadro Acción a Reemplazar.
+- Asegúrese de que el cuadro de Hive está establecido en HKEY_LOCAL_MACHINE
+- Junto a Ruta de acceso de clave, seleccione ...y, a continuación, seleccione la siguiente subclave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+- Seleccione Seleccionar.
+- En el cuadro Nombre del valor , escriba LocalAccountTokenFilterPolicy.
+- En el cuadro Tipo de valor , en la lista desplegable, seleccione REG_DWORD.
+- En el cuadro Datos de valor , escriba 0 y, a continuación, seleccione Aceptar.
+Para vincular el GPO a la unidad organizativa (OU) adecuada, siga estos pasos:
+- En GPMC, vaya a Forest: ForestName>Domains>DomainName>OUName, donde ForestName es el nombre del bosque, DomainName es el nombre del dominio y OUName es el nombre de la unidad organizativa que contiene los miembros que desea administrar. En este caso, la unidad organizativa contiene las estaciones de trabajo cuyas cuentas locales desea restringir.
+- Haga clic con el botón derecho en OUName y, a continuación, seleccione Vincular un GPO existente.
+- Seleccione el GPO que creó y, a continuación, seleccione Aceptar.
+Actualice la directiva local en cada una de las estaciones de trabajo de la unidad organizativa. Por ejemplo, en una ventana del símbolo del sistema, ejecute gpupdate /force /target:computer.
+Pruebe la funcionalidad de las aplicaciones empresariales en las estaciones de trabajo de esa unidad organizativa y resuelva los problemas que provoca la nueva directiva.
+Vinculación del GPO a todas las demás unidades organizativas que contienen estaciones de trabajo
+Vinculación del GPO a todas las demás unidades organizativas que contienen servidores
+### Denegar el derecho de acceso de inicio de sesión de red a todas las cuentas de administrador locales
+Denegar a las cuentas locales la capacidad de iniciar sesión a través de una conexión de red (inicio de sesión de red) puede ayudar a evitar que un atacante malintencionado vuelva a usar un hash de contraseña de cuenta local. Este procedimiento ayuda a evitar el movimiento lateral al asegurarse de que los atacantes no pueden usar credenciales robadas para las cuentas locales de un sistema operativo en peligro para poner en peligro a otros equipos que usan las mismas credenciales.
+Nota
+Para realizar este procedimiento, primero debe identificar el nombre de la cuenta de administrador local predeterminada, que podría no ser el nombre de usuario predeterminado "Administrador" y cualquier otra cuenta que sea miembro del grupo local Administradores.
+En la tabla siguiente se muestra la configuración de directiva de grupo que deniega el derecho de inicio de sesión de red para todas las cuentas de administrador locales.
+No.
+Configuración
+Descripción detallada
+Ubicación de la directiva
+Configuración del equipo\Configuración de Windows\Configuración de seguridad\Directivas locales\Asignación de derechos de usuario
+1
+Nombre de directiva
+ Denegar el acceso desde la red a este equipo
+Configuración de directiva
+Cuenta local y miembro del grupo Administradores
+2
+Ubicación de la directiva
+Configuración del equipo\Configuración de Windows\Configuración de seguridad\Directivas locales\Asignación de derechos de usuario
+Nombre de directiva
+ Denegar inicio de sesión a través de Servicios de Escritorio remoto
+Configuración de directiva
+Cuenta local y miembro del grupo Administradores
+#### Para denegar el derecho de inicio de sesión de red a todas las cuentas de administrador local
+Inicie GPMC y, a continuación, vaya a Forest: ForestName>Domains>DomainName, donde ForestName es el nombre del bosque, y DomainName es el nombre del dominio donde desea configurar el GPO.
+En el árbol de consola, haga clic con el botón derecho en directiva de grupo Objetos y, a continuación, seleccione Nuevo.
+En el cuadro de diálogo Nuevo GPO , escriba un nombre para el nuevo GPO y, a continuación, seleccione Aceptar. Use el nombre del GPO para indicar que el GPO restringe el inicio de sesión interactivo en el equipo de las cuentas administrativas locales.
+En el panel de detalles, haga clic con el botón derecho en el nuevo GPO y seleccione Editar.
+Para configurar los derechos de usuario para denegar el derecho de inicio de sesión de red para cuentas locales administrativas, siga estos pasos:
+- En el Editor de administración de directiva de grupo, vaya aDirectivas> de configuración> del equipoConfiguración de> WindowsConfiguración de seguridad Directivas>>localesAsignación de derechos de usuario.
+- En el panel de detalles, haga clic con el botón derecho en Denegar acceso a este equipo desde la red y, a continuación, seleccione Propiedades.
+- Seleccione Definir esta configuración de directiva y, a continuación, seleccione Agregar usuario o grupo.
+- Escriba Cuenta local y miembro del grupo Administradores y, a continuación, seleccione Aceptar dos veces.
+Para configurar los derechos de usuario para denegar el derecho de inicio de sesión de Escritorio remoto (Interactivo remoto) para cuentas locales administrativas, siga estos pasos:
+- En el Editor de administración de directiva de grupo, todavía en Asignación de derechos de usuario, haga clic con el botón derecho en Denegar inicio de sesión a través de Servicios de Escritorio remoto y, a continuación, seleccione Propiedades.
+- Seleccione Definir esta configuración de directiva y, a continuación, seleccione Agregar usuario o grupo.
+- Escriba Cuenta local y miembro del grupo Administradores y, a continuación, seleccione Aceptar dos veces.
+Para vincular el GPO a la unidad organizativa (OU) adecuada, siga estos pasos:
+- En GPMC, vaya a Forest: ForestName>Domains>DomainName>OUName, donde ForestName es el nombre del bosque, DomainName es el nombre del dominio y OUName es el nombre de la unidad organizativa que contiene los miembros que desea administrar. En este caso, la unidad organizativa contiene las estaciones de trabajo cuyas cuentas locales desea restringir.
+- Haga clic con el botón derecho en OUName y, a continuación, seleccione Vincular un GPO existente.
+- Seleccione el GPO que creó y, a continuación, seleccione Aceptar.
+Actualice la directiva local en cada una de las estaciones de trabajo de la unidad organizativa. Por ejemplo, en una ventana del símbolo del sistema, ejecute gpupdate /force /target:computer.
+Pruebe la funcionalidad de las aplicaciones empresariales en las estaciones de trabajo de esa unidad organizativa y resuelva los problemas que provoca la nueva directiva.
+Creación de vínculos a todas las demás unidades organizativas que contienen estaciones de trabajo
+Creación de vínculos a todas las demás unidades organizativas que contienen servidores
+Nota
+Si el nombre de usuario de la cuenta de administrador predeterminada es diferente en estaciones de trabajo y servidores, es posible que tenga que crear GPO independientes para estaciones de trabajo y servidores.
+### Creación de contraseñas únicas para cuentas locales con derechos administrativos
+Las contraseñas deben ser únicas por cuenta individual. Aunque normalmente se aplica a cuentas de usuario individuales, muchas organizaciones tienen contraseñas idénticas para cuentas locales comunes, como la cuenta de administrador predeterminada o las cuentas locales que la organización usa durante las implementaciones del sistema operativo.
+Las contraseñas que se dejan sin cambios o cambian sincrónicamente para mantenerlas idénticas agregan un riesgo significativo para las organizaciones. La selección aleatoria de las contraseñas mitiga los ataques de "pass-the-hash" mediante el uso de contraseñas diferentes para cuentas locales. Las contraseñas aleatorias dificultan la capacidad de los usuarios malintencionados de usar hash de contraseña de esas cuentas para poner en peligro otros equipos.
+Puede usar cualquiera de los métodos siguientes para aleatorizar contraseñas. Los métodos se enumeran en orden de preferencia:
+- Configuración de la solución de contraseñas de administrador local (LAPS) para realizar esta tarea.
+- Compra e implementación de una herramienta empresarial para realizar esta tarea. Estas herramientas se conocen normalmente como herramientas de "administración de contraseñas con privilegios".
+- Crear e implementar un script o una solución personalizados para aleatorizar las contraseñas de cuenta locales.
+## Comentarios
+ ¿Le ha resultado útil esta página?
+ Sí
+ No
+ No
+ ¿Necesita ayuda con este tema?
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+ Preguntar a Learn
+ Preguntar a Learn
+ ¿Sugerir una corrección? 
+## 
+ Recursos adicionales
+ Last updated on 
+ 2026-04-16
+### 
+ ¿Le ha resultado útil esta página?
+ ¿Necesita ayuda con este tema?
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+ Preguntar a Learn
+ Preguntar a Learn
+ ¿Sugerir una corrección? 

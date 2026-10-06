@@ -1,0 +1,64 @@
+URL: https://support.microsoft.com/es-es/excel/functions/today-function
+Leído: 2026-10-06
+
+# Función HOY
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+En este artículo se describen la sintaxis de fórmula y el uso de la función HOY en Microsoft Excel.
+
+## Descripción
+
+La función HOY devuelve el número de serie correspondiente a la fecha actual. El número de serie es el código de fecha-hora que Excel usa para los cálculos de fecha y hora. Si el formato de celda es General antes de especificar la función, Excel cambia el formato de celda a Fecha. Si desea ver el número de serie, debe cambiar el formato de celda a General o Número.
+
+La función HOY es útil para mostrar la fecha actual en una hoja de cálculo, independientemente de cuándo se abre el libro. Además es útil para calcular los intervalos. Por ejemplo, si sabe que alguien nació en 1963, puede usar la siguiente fórmula para buscar la edad de esa persona a partir de este año de nacimiento:
+
+ = AÑO( HOY())-1963
+
+Esta fórmula usa la función HOY como argumento para la función AÑO para obtener la fecha actual y después resta 1963 y devuelve la edad de la persona.
+
+Nota
+
+Si la función HOY no actualiza la fecha según lo previsto, es posible que tenga que cambiar la configuración que controla cuándo se recalcula el libro o la hoja de cálculo. En la pestaña Archivo, haga clic en Opciones y, en la categoría Fórmulas, en Opciones de cálculo, asegúrese de que la opción Automático está seleccionada.
+
+## Sintaxis
+
+HOY
+
+La sintaxis de la función HOY no tiene argumentos.
+
+Nota
+
+Excel almacena las fechas como números de serie secuenciales para que se puedan usar en cálculos. De manera predeterminada, la fecha 1 de enero de 1900 es el número de serie 1, mientras que la fecha 1 de enero de 2008 es el número de serie 39448, porque es 39.447 días posterior al 1 de enero de 1900.
+
+## Ejemplo
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar el ancho de las columnas para ver todos los datos.
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =HOY()
+ | Devuelve la fecha actual.
+ | 1/12/2011
+
+ | =HOY()+5
+ | Devuelve la fecha actual más 5 días. Por ejemplo, si la fecha actual es 1/1/12, está fórmula devuelve 6/1/12.
+ | 12/6/2011
+
+ | =FECHANUMERO("1/1/2030")-HOY()
+ | Devuelve el número de días entre la fecha actual y 1/1/2030. Tenga en cuenta que la celda A4 tiene que tener el formato de General o Número para que el resultado se muestre correctamente.
+ | 31/1/1918
+
+ | =DIA(HOY())
+ | Devuelve el día actual del mes (1 - 31).
+ | 1
+
+ | =MES(HOY())
+ | Devuelve el mes actual del año (1 - 12). Por ejemplo, si el mes actual es mayo, la fórmula devuelve 5.
+ | 1,2

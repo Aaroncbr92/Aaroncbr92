@@ -1,0 +1,169 @@
+URL: https://www.ieee802.org/3/archive.html
+Leído: 2026-10-06
+
+	 IEEE 802.3 Etherrnet Working Group Archive 
+		body {background-color:#ffffff;}
+		h2 {color:#55aa8f;}
+		h3 {color:#55aa8f;}
+		hr {width:485;}
+	 IEEE 802.3 Ethernet Working Group 
+ Archive of completed work 
+	IEEE 802.3 Interpretations .
+ Task Force archive 
+ 	 IEEE Std 1802.3-2001, Conformance test reaffirmation . 
+ IEEE Std 802.3z-1998, Gigabit Ethernet . 
+	 IEEE Std 802.3aa-1998, Maintenance #5 . 
+	 IEEE Std 802.3ab-1999, 1000BASE-T . 
+	 IEEE Std 802.3ac-1998, VLAN TAG . 
+	 IEEE Std 802.3ad-2000, Link Aggregation . 
+	 IEEE Std 802.3ae-2002, 10&nbspGb/s Ethernet . 
+	 IEEE Std 802.3af-2003, DTE Power via MDI . 
+	 IEEE Std 802.3ag-2002, Maintenance #6 (Revision) . 
+	 IEEE Std 802.3ah-2004, Ethernet in the First Mile . 
+	 IEEE Std 802.3aj-2003, Maintenance #7 . 
+	 IEEE Std 802.3ak-2004, 10GBASE-CX4 . 
+	 IEEE Std 802.3REVam-2005, Maintenance #8 (Revision) . 
+	 IEEE Std 802.3an-2006, 10GBASE-T . 
+	 IEEE Std 802.3ap-2007, Backplane Ethernet . 
+	 IEEE Std 802.3aq-2006, 10GBASE-LRM . 
+	 IEEE P802.3ar, Congestion Management . 
+	 IEEE Std 802.3as-2006, Frame Expansion . 
+	 IEEE Std 802.3at-2009, DTE Power Enhancements . 
+	 IEEE Std 802.3-2005/Cor 1-2006 (IEEE 802.3au) DTE Power Isolation Corrigendum . 
+	 IEEE Std 802.3av-2009, 10&nbspGb/s PHY for EPON . 
+	 IEEE Std 802.3-2005/Cor 2-2007 (IEEE 802.3aw), 10GBASE-T Corrigendum . 
+	 IEEE Std 802.1AX-2008 (IEEE 802.3ax), Link Aggregation . 
+	 IEEE Std 802.3-2008 (IEEE 802.3ay), Maintenance #9 (Revision) . 
+	 IEEE Std 802.3az-2010, Energy-efficient Ethernet . 
+	 IEEE Std 802.3ba-2010, 40&nbspGb/s and 100&nbspGb/s Ethernet . 
+	 IEEE Std 802.3-2008/Cor 1-2009 (IEEE 802.3bb) Pause Reaction Delay Corrigendum . 
+	 IEEE Std 802.3bc-2009 Ethernet Organizationally Specific type, length, values (TLVs) . 
+	 IEEE Std 802.3bd-2011 MAC Control Frame for Priority-based Flow Control . 
+	 IEEE Std 802.3.1-2011 (IEEE 802.3be) Ethernet MIBs . 
+	 IEEE Std 802.3bf-2011 Ethernet Support for the IEEE P802.1AS Time Synchronization Protocol . 
+	 IEEE Std 802.3bg-2011 40Gb/s Ethernet Single-mode Fibre PMD . 
+	 IEEE Std 802.3-2012 (IEEE 802.3bh) Revision to IEEE Std 802.3-2008 . 
+	 IEEE Std 1802.3-2001, Conformance Test Maintenance #1 . 
+	 IEEE Std 802.3.1-2013 (IEEE 802.3.1a) Revision to IEEE Std 802.3.1-2011 Ethernet MIBs . 
+	 IEEE Std 802.3bj-2014 100 Gb/s Backplane and Copper Cable . 
+	 IEEE Std 802.3bk-2013 Extended EPON . 
+	 IEEE Std 802.3bm-2015 40 Gb/s and 100 Gb/s Fibre Optic . 
+	 IEEE Std 802.3bn-2016 EPON Protocol over Coax (EPoC) . 
+	 IEEE Std 802.3bp-2016 1000BASE-T1 PHY . 
+	 IEEE Std 802.3bq-2016 25G/40GBASE-T . 
+	 IEEE Std 802.3br-2016 Interspersing Express Traffic . 
+	 IEEE Std 802.3bu-2016 1-Pair Power over Data Lines (PoDL) . 
+	 IEEE Std 802.3bv-2017 Gigabit Ethernet Over Plastic Optical Fiber . 
+	 IEEE Std 802.3bw-2015 100BASE-T1 . 
+	 IEEE Std 802.3-2015 (IEEE 802.3bx) Revision to IEEE Std 802.3-2012 Maintenance #11 . 
+	 IEEE Std 802.3by-2016 25 Gb/s Ethernet . 
+	 IEEE Std 802.3bz-2016 2.5G/5GBASE-T . 
+ IEEE Std 802.3-2015/Cor 1-2017 (IEEE 802.3ce) Multilane timestamping . 
+	 IEEE Std 802.3bs-2017 200 Gb/s and 400 Gb/s Ethernet . 
+ IEEE Std 802.3cc-2017 25 Gb/s Ethernet over Single-Mode Fiber . 
+ IEEE Std 802.3-2018 (IEEE 802.3cj) Revision to IEEE Std 802.3-2015 Maintenance #12 . 
+	 IEEE Std 802.3bt-2018 DTE Power via MDI over 4-Pair . 
+	 IEEE Std 802.3cb-2018 2.5 Gb/s and 5 Gb/s Backplane . 
+ IEEE Std 802.3cd-2018 50 Gb/s, 100 Gb/s, and 200 Gb/s Ethernet . 
+	 IEEE Std 802.3.2-2019 (IEEE 802.3cf) YANG Data Model Definitions 
+	 IEEE Std 802.3cg-2019 10 Mb/s Single Pair Ethernet . 
+	 IEEE Std 802.3cm-2020 400 Gb/s over Multimode Fiber . 
+	 IEEE Std 802.3cn-2019 50 Gb/s, 200 Gb/s, and 400 Gb/s over greater than 10 km of SMF . 
+	 IEEE Std 802.3cq-2020 Power over Ethernet over 2 Pairs (Maintenance #13) . 
+	 IEEE Std 802.3ca-2020 25 Gb/s and 50 Gb/s Ethernet Passive Optical Networks . 
+ IEEE Std 802.3ch-2020 Multi-Gig Automotive Ethernet PHY . 
+	 IEEE Std 802.3cr-2021 Isolation (Maintenance #14) . 
+	 IEEE Std 802.3cu-2021 100 Gb/s and 400 Gb/s over SMF at 100 Gb/s per Wavelength . 
+	 IEEE Std 802.3cv-2021 Power over Ethernet (Maintenance #15) . 
+	 IEEE Std 802.3ct-2021 100 Gb/s over DWDM systems . 
+	 IEEE Std 802.3cp-2021 Bidirectional 10 Gb/s, 25 Gb/s, and 50 Gb/s Optical Access PHYs . 
+	 IEEE Std 802.3ck-2022 100 Gb/s, 200 Gb/s, and 400 Gb/s Electrical Interfaces . 
+	 IEEE Std 802.3cs-2022 Increased-reach Ethernet optical subscriber access (Super-PON) . 
+	 IEEE Std 802.3db-2022 100 Gb/s, 200 Gb/s, and 400 Gb/s Short Reach Fiber . 	
+	 IEEE Std 802.3-2022 (IEEE 802.3dc) Revision to IEEE Std 802.3-2018 Maintenance #16 . 
+	 IEEE Std 802.3dd-2022 Power over Data Lines of Single Pair Ethernet (Maintenance #17) . 
+	 IEEE Std 802.3de-2022 Time Synchronization for Point-to-Point Single Pair Ethernet . 
+	 IEEE Std 802.3cx-2023 Improved PTP Timestamping Accuracy . 
+	 IEEE Std 802.3cz-2023 Multi-Gigabit Optical Automotive Ethernet . 
+	 IEEE Std 802.3cy-2023 Greater than 10 Gb/s Electrical Automotive Ethernet . 
+	 IEEE Std 802.3df-2024 400 Gb/s and 800 Gb/s Ethernet . 
+	 IEEE P802.3dh Multi-Gigabit Automotive Ethernet over Plastic Optical Fiber . 
+	 IEEE P802.3cw 400 Gb/s over DWDM systems . 
+	 IEEE Std 802.3-2022/Cor 1-2024 (IEEE 802.3dn) Multi-Gigabit Automotive MDI Return Loss . 	
+	 IEEE Std 802.3.1-2024 (IEEE 802.3.1b) Revision to IEEE Std 802.3.1-2013 Ethernet MIBs . 
+ IEEE Std 802.3.2-2025 (IEEE 802.3.2a) Revision to IEEE Std 802.3.2-2019 YANG Data Model Definitions . 
+ IEEE Std 802.3da-2026 10 Mb/s Single Pair Multidrop Segments Enhancement . 
+ IEEE Std 802.3dk-2026 Greater than 50 Gb/s Bidirectional Optical Access PHYs . 
+ IEEE Std 802.3dg-2026 100 Mb/s Long-Reach Single Pair Ethernet . 
+ Study Group archive 
+	 IEEE 802.3 Trunking Study Group . 
+	 IEEE 802.3 Higher Speed Study Group . 
+	 IEEE 802.3 DTE Power via MDI Study Group . 
+	 IEEE 802.3 10GBASE-CX4 Study Group . 
+	 IEEE 802.3 10GBASE-T Study Group . 
+	 IEEE 802.3 Backplane Ethernet Study Group . 
+	 IEEE 802.3 10&nbspGb/s on FDDI-grade MM fiber Study Group . 
+	 IEEE 802.3 Power over Ethernet Plus Study Group . 
+	 IEEE 802.3 Residential Ethernet Study Group . 
+	 IEEE 802.3 Energy Efficient Ethernet Study Group . 
+	 IEEE 802.3 Higher Speed Study Group . 
+	 IEEE 802.3 100&nbspGb/s Backplane and Copper Study Group . 
+	 IEEE 802.3 Extended EPON Study Group . 
+	 IEEE 802.3 Next Generation 40 Gb/s and 100 Gb/s Optical Ethernet Study Group . 
+	 IEEE 802.3 EPON Protocol over a Coax (EPoC) PHY Study Group . 
+	 IEEE 802.3 Reduced Twisted Pair Gigabit Ethernet (RTPGE) Study Group . 
+	 IEEE 802.3 Next Generation BASE-T Study Group . 
+	 IEEE 802.3 Distinguished Minimum Latency Traffic in a Converged Traffic Environment Study Group . 
+	 IEEE 802.3 4-Pair Power over Ethernet (PoE) Study Group . 
+	 IEEE 802.3 1-Pair Power over Data Lines (PoDL) Study Group . 
+	 IEEE 802.3 400 Gb/s Ethernet Study Group . 
+	 IEEE 802.3 1 Twisted Pair 100 Mb/s Ethernet Study Group . 
+	 IEEE 802.3 Gigabit Ethernet Over Plastic Optical Fiber Study Group . 
+	 IEEE 802.3 25 Gb/s Ethernet Study Group . 
+	 IEEE 802.3 25GBASE-T Study Group . 
+	 IEEE 802.3 Next Generation Enterprise Access BASE-T PHY Study Group . 
+	 IEEE 802.3 Next Generation Ethernet Passive Optical Network (NG-EPON) Study Group . 
+	 IEEE 802.3 2.5 Gb/s and 5 Gb/s Backplane and Short Reach Copper Study Group . 
+	 IEEE 802.3 50 Gb/s Ethernet over a Single Lane, Next Generation 100 Gb/s and 200 Gb/s Ethernet Study Group . 
+	 IEEE 802.3 200 Gb/s Ethernet single-mode Study Group . 
+	 IEEE 802.3 25 Gb/s Ethernet PMD(s) for Single Mode Fiber Study Group . 
+	 IEEE 802.3 YANG Data Model(s) Study Group 
+ IEEE 802.3 10 Mb/s Single Twisted Pair Ethernet Study Group 
+ IEEE 802.3 Multi-Gig Automotive Ethernet PHY Study Group 
+ IEEE 802.3 10 Mb/s Backplane Ethernet Study Group . 
+ IEEE 802.3 100 Gb/s per Lane Electrical Study Group . 
+ IEEE 802.3 Next-generation 200 Gb/s and 400 Gb/s MMF PHYs Study Group . 
+ IEEE 802.3 Beyond 10 km Optical PHYs Study Group . 
+ IEEE 802.3 Bidirectional 10 Gb/s, 25 Gb/s, and 50 Gb/s Optical Access PHYs Study Group . 
+ IEEE 802.3 Physical Layers for increased-reach Ethernet optical subscriber access (Super-PON) Study Group . 
+	 IEEE 802.3 100 Gb/s per lane optical PHYs Study Group . 
+	 IEEE 802.3 Improving PTP Timestamping Accuracy Study Group . 
+	 IEEE 802.3 Greater than 10 Gb/s Automotive Ethernet Electrical PHYs Study Group . 
+	 IEEE 802.3 Multi Gigabit Automotive Optical PHYs Study Group . 
+	 IEEE 802.3 10SPE Multidrop Enhancements Study Group . 
+	 IEEE 802.3 100 Gb/s Wavelength Short Reach PHYs Study Group . 
+	 IEEE 802.3 Enhancements to Point-to-Point Single Pair Ethernet Study Group . 
+	 IEEE 802.3 Beyond 400 Gb/s Ethernet Study Group . 
+	 IEEE 802.3 Greater than 10 Mb/s Long-Reach Single Pair Ethernet Study Group . 
+	 IEEE 802.3 Greater than 50 Gb/s Bidirectional Optical Access PHYs Study Group . 
+	 IEEE 802.3 Ethernet for Automotive Imaging Sensors Study Group . 
+	 IEEE 802.3 Ethernet Powering Cabling Restrictions Study Group . 	
+ IEEE 802.3 Pin-Optimized PHY Interface Study Group . 
+ IEEE 802.3 200 Gb/s per Wavelength MMF PHYs Study Group . 
+ IEEE 802.3 Ethernet Metadata Services Study Group . 
+ Ad Hoc archive 
+ IEEE 802.3 Ethernet over LAPS liaison Ad hoc . 
+	 IEEE 802.3 Static Discharge in Copper Cables Ad hoc . 
+	 IEEE 802.3 OIF VSR Liaison Ad Hoc . 
+	 IEEE 802.3 Industry Connections Ethernet Bandwidth Assessment Ad Hoc . 
+	 IEEE 802.3 Industry Connections Higher Speed Ethernet Ad Hoc . 
+	 IEEE 802.3 Industry Connections NG-EPON Ad Hoc . 
+ IEEE 802.3 Timestamping liaison letter ad hoc . 
+ IEEE 802.3 Timing performance ad hoc . 
+	 IEEE 802.3 Isolation ad hoc . 
+	 IEEE 802.3 Industry Connections Ethernet Bandwidth Assessment Part II Ad Hoc . 
+	 IEEE 802.3 TIA applications table ad hoc . 
+	 Joint sessions archive 
+	 IEEE 802.3 joint sessions 
+	 Return to the IEEE 802.3 Home Page 
+	Last Update: 13 March 2026 

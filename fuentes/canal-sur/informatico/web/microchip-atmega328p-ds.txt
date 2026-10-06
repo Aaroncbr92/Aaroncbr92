@@ -1,0 +1,634 @@
+Fuente: Microchip, ATmega48A/PA/88A/PA/168A/PA/328/P Data Sheet Complete, DS40002061B (2020), https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf · páginas extraídas, leída 06-10-2026
+=== p1
+ 2020 Microchip Technology Inc.
+                    Data Sheet Complete
+DS40002061B-page 1
+Features
+High Performance, Low Power AVR® 8-Bit Microcontroller Family
+Advanced RISC Architecture̶
+131 Powerful Instructions – Most Single Clock Cycle Execution̶
+32 x 8 General Purpose Working Registers̶
+Fully Static Operation̶
+Up to 20 MIPS Throughput at 20MHz̶
+On-chip 2-cycle Multiplier
+High Endurance Non-volatile Memory Segments̶
+4/8/16/32KBytes of In-System Self-Programmable Flash program memory ̶
+256/512/512/1KBytes EEPROM ̶
+512/1K/1K/2KBytes Internal SRAM ̶
+Write/Erase Cycles: 10,000 Flash/100,000 EEPROM̶
+Data retention: 20 years at 85°C/100 years at 25°C(1)̶
+Optional Boot Code Section with Independent Lock Bits
+In-System Programming by On-chip Boot Program
+True Read-While-Write Operation ̶
+Programming Lock for Software Security
+QTouch® library support̶
+Capacitive touch buttons, sliders and wheels̶
+QTouch and QMatrix™ acquisition̶
+Up to 64 sense channels
+Peripheral Features̶
+Two 8-bit Timer/Counters with Separate Prescaler and Compare Mode̶
+One 16-bit Timer/Counter with Separate Prescaler, Compare Mode, and Capture Mode
+megaAVR® Data Sheet
+ATmega48A/PA/88A/PA/168A/PA/328/P
+Introduction
+The ATmega48A/PA/88A/PA/168A/PA/328/P is a low power, CMOS 8-bit microcontrollers based on the
+AVR® enhanced RISC architecture. By executing instructions in a single clock cycle, the devices achieve
+CPU throughput approaching one million instructions per second (MIPS) per megahertz, allowing the sys-
+tem designer to optimize power consumption versus processing speed.
+
+=== p2
+ 2020 Microchip Technology Inc.
+                                                 Data Sheet Complete
+DS40002061B-page 2
+ATmega48A/PA/88A/PA/168A/PA/328/P̶
+Real Time Counter with Separate Oscillator̶
+Six PWM Channels̶
+8-channel 10-bit ADC in TQFP and VQFN package
+Temperature Measurement̶
+6-channel 10-bit ADC in SPDIP Package
+Temperature Measurement̶
+Programmable Serial USART̶
+Master/Slave SPI Serial Interface̶
+Byte-oriented 2-wire Serial Interface (Philips I2C compatible)̶
+Programmable Watchdog Timer with Separate On-chip Oscillator̶
+On-chip Analog Comparator̶
+Interrupt and Wake-up on Pin Change
+Special Microcontroller Features̶
+Power-on Reset and Programmable Brown-out Detection̶
+Internal Calibrated Oscillator̶
+External and Internal Interrupt Sources̶
+Six Sleep Modes: Idle, ADC Noise Reduction, Power-save, Power-down, Standby, and Extended Standby
+I/O and Packages̶
+23 Programmable I/O Lines̶
+28-pin SPDIP, 32-lead TQFP, 28-pad VQFN and 32-pad VQFN
+Operating Voltage:̶
+1.8 - 5.5V
+Temperature Range:̶
+-40°C to 85°C
+Speed Grade:̶
+0 - 4MHz@1.8 - 5.5V, 0 - 10MHz@2.7 - 5.5.V, 0 - 20MHz @ 4.5 - 5.5V
+Power Consumption at 1MHz, 1.8V, 25°C̶
+Active Mode: 0.2mA̶
+Power-down Mode: 0.1µA
+• Power-save Mode: 0.75µA (Including 32kHz RTC)
+Note:
+1.
+See “Data Retention” on page 17 for details.
+
+=== p3
+ 2020 Microchip Technology Inc.
+                                                 Data Sheet Complete
+DS40002061B-page 3
+ATmega48A/PA/88A/PA/168A/PA/328/P
+Table of Contents
+1
+Pin Configurations .............................................................................................................. 12
+1.1
+Pin Descriptions............................................................................................... 13
+2
+Overview .................................................................................................................................... 15
+2.1
+Block Diagram ................................................................................................. 15
+2.2
+Comparison Between Processors ................................................................... 16
+3
+Resources ................................................................................................................................ 17
+4
+Data Retention ....................................................................................................................... 17
+5
+About Code Examples ...................................................................................................... 17
+6
+Capacitive Touch Sensing ............................................................................................. 17
+7
+AVR CPU Core ....................................................................................................................... 18
+7.1
+Overview.......................................................................................................... 18
+7.2
+ALU – Arithmetic Logic Unit............................................................................. 19
+7.3
+Status Register ................................................................................................ 19
+7.4
+General Purpose Register File ........................................................................ 20
+7.5
+Stack Pointer ................................................................................................... 22
+7.6
+Instruction Execution Timing ........................................................................... 23
+7.7
+Reset and Interrupt Handling........................................................................... 23
+8
+AVR Memories ....................................................................................................................... 26
+8.1
+Overview.......................................................................................................... 26
+8.2
+In-System Reprogrammable Flash Program Memory ..................................... 26
+8.3
+SRAM Data Memory........................................................................................ 28
+8.4
+EEPROM Data Memory .................................................................................. 29
+8.5
+I/O Memory...................................................................................................... 30
+8.6
+Register Description ........................................................................................ 31
+9
+System Clock and Clock Options .............................................................................. 36
+9.1
+Clock Systems and their Distribution............................................................... 36
+9.2
+Clock Sources ................................................................................................. 37
+9.3
+Low Power Crystal Oscillator........................................................................... 38
+9.4
+Full Swing Crystal Oscillator............................................................................ 39
+9.5
+Low Frequency Crystal Oscillator.................................................................... 42
+9.6
+Calibrated Internal RC Oscillator ..................................................................... 43
+9.7
+128kHz Internal Oscillator ............................................................................... 43
+
+=== p4
+ 2020 Microchip Technology Inc.
+                                                 Data Sheet Complete
+DS40002061B-page 4
+ATmega48A/PA/88A/PA/168A/PA/328/P
+9.8
+External Clock ................................................................................................. 44
+9.9
+Clock Output Buffer ......................................................................................... 45
+9.10
+Timer/Counter Oscillator.................................................................................. 45
+9.11
+System Clock Prescaler .................................................................................. 45
+9.12
+Register Description ........................................................................................ 46
+10
+Power Management and Sleep Modes ................................................................... 48
+10.1
+Sleep Modes.................................................................................................... 48
+10.2
+BOD Disable(1) ................................................................................................ 49
+10.3
+Idle Mode......................................................................................................... 49
+10.4
+ADC Noise Reduction Mode............................................................................ 49
+10.5
+Power-down Mode........................................................................................... 49
+10.6
+Power-save Mode............................................................................................ 50
+10.7
+Standby Mode ................................................................................................. 50
+10.8
+Extended Standby Mode ................................................................................. 51
+10.9
+Power Reduction Register............................................................................... 51
+10.10
+Minimizing Power Consumption ...................................................................... 51
+10.11
+Register Description ........................................................................................ 53
+11
+System Control and Reset ............................................................................................. 56
+11.1
+Resetting the AVR ........................................................................................... 56
+11.2
+Reset Sources ................................................................................................. 56
+11.3
+Power-on Reset............................................................................................... 57
+11.4
+External Reset ................................................................................................. 58
+11.5
+Brown-out Detection ........................................................................................ 58
+11.6
+Watchdog System Reset ................................................................................. 59
+11.7
+Internal Voltage Reference.............................................................................. 59
+11.8
+Watchdog Timer .............................................................................................. 60
+11.9
+Register Description ........................................................................................ 63
+12
+Interrupts ................................................................................................................................... 66
+12.1
+Interrupt Vectors in ATmega48A and ATmega48PA....................................... 66
+12.2
+Interrupt Vectors in ATmega88A and ATmega88PA....................................... 68
+12.3
+Interrupt Vectors in ATmega168A and ATmega168PA................................... 71
+12.4
+Interrupt Vectors in ATmega328 and ATmega328P........................................ 74
+12.5
+Register Description ........................................................................................ 77
+13
+External Interrupts .............................................................................................................. 79
+13.1
+Pin Change Interrupt Timing............................................................................ 79
+
+=== p5
+ 2020 Microchip Technology Inc.
+                                                 Data Sheet Complete
+DS40002061B-page 5
+ATmega48A/PA/88A/PA/168A/PA/328/P
+13.2
+Register Description ........................................................................................ 80
+14
+I/O-Ports ..................................................................................................................................... 84
+14.1
+Overview.......................................................................................................... 84
+14.2
+Ports as General Digital I/O............................................................................. 85
+14.3
+Alternate Port Functions .................................................................................. 89
+14.4
+Register Description ...................................................................................... 100
+15
+8-bit Timer/Counter0 with PWM ................................................................................ 102
+15.1
+Features ........................................................................................................ 102
+15.2
+Overview........................................................................................................ 102
+15.3
+Timer/Counter Clock Sources ....................................................................... 103
+15.4
+Counter Unit .................................................................................................. 103
+15.5
+Output Compare Unit..................................................................................... 104
+15.6
+Compare Match Output Unit.......................................................................... 106
+15.7
+Modes of Operation ....................................................................................... 107
+15.8
+Timer/Counter Timing Diagrams ................................................................... 111
+15.9
+Register Description ...................................................................................... 113
+16
+16-bit Timer/Counter1 with PWM ............................................................................. 120
+16.1
+Features ........................................................................................................ 120
+16.2
+Overview........................................................................................................ 120
+16.3
+Accessing 16-bit Registers ............................................................................ 122
+16.4
+Timer/Counter Clock Sources ....................................................................... 125
+16.5
+Counter Unit .................................................................................................. 125
+16.6
+Input Capture Unit ......................................................................................... 126
+16.7
+Output Compare Units................................................................................... 128
+16.8
+Compare Match Output Unit.......................................................................... 130
+16.9
+Modes of Operation ....................................................................................... 131
+16.10
+Timer/Counter Timing Diagrams ................................................................... 138
+16.11
+Register Description ...................................................................................... 140
+17
+Timer/Counter0 and Timer/Counter1 Prescalers ........................................... 147
+17.1
+Internal Clock Source .................................................................................... 147
+17.2
+Prescaler Reset ............................................................................................. 147
+17.3
+External Clock Source ................................................................................... 147
+17.4
+Register Description ...................................................................................... 149
+18
+8-bit Timer/Counter2 with PWM and Asynchronous Operation ........... 150
+18.1
+Features ........................................................................................................ 150
+
+=== p18
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 18 
+7.
+AVR CPU Core
+7.1
+Overview
+This section discusses the AVR core architecture in general. The main function of the CPU core is to ensure 
+correct program execution. The CPU must therefore be able to access memories, perform calculations, control 
+peripherals, and handle interrupts.
+Figure 7-1.
+Block Diagram of the AVR Architecture 
+In order to maximize performance and parallelism, the AVR uses a Harvard architecture – with separate 
+memories and buses for program and data. Instructions in the program memory are executed with a single level 
+pipelining. While one instruction is being executed, the next instruction is pre-fetched from the program memory. 
+This concept enables instructions to be executed in every clock cycle. The program memory is In-System 
+Reprogrammable Flash memory.
+The fast-access Register File contains 32 x 8-bit general purpose working registers with a single clock cycle 
+access time. This allows single-cycle Arithmetic Logic Unit (ALU) operation. In a typical ALU operation, two 
+Flash
+Program
+Memory
+Instruction
+Register
+Instruction
+Decoder
+Program
+Counter
+Control Lines
+32 x 8
+General
+Purpose
+Registrers
+ALU
+Status
+and Control
+I/O Lines
+EEPROM
+Data Bus 8-bit
+ 
+Data
+SRAM
+Direct Addressing
+Indirect Addressing
+Interrupt
+Unit
+SPI
+Unit
+Watchdog
+Timer
+Analog
+Comparator
+I/O Module 2
+I/O Module1
+I/O Module n
+
+=== p19
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 19 
+operands are output from the Register File, the operation is executed, and the result is stored back in the 
+Register File – in one clock cycle.
+Six of the 32 registers can be used as three 16-bit indirect address register pointers for Data Space addressing 
+– enabling efficient address calculations. One of the these address pointers can also be used as an address 
+pointer for look up tables in Flash program memory. These added function registers are the 16-bit X-, Y-, and Z-
+register, described later in this section.
+The ALU supports arithmetic and logic operations between registers or between a constant and a register. 
+Single register operations can also be executed in the ALU. After an arithmetic operation, the Status Register is 
+updated to reflect information about the result of the operation.
+Program flow is provided by conditional and unconditional jump and call instructions, able to directly address the 
+whole address space. Most AVR instructions have a single 16-bit word format. Every program memory address 
+contains a 16- or 32-bit instruction.
+Program Flash memory space is divided in two sections, the Boot Program section and the Application Program 
+section. Both sections have dedicated Lock bits for write and read/write protection. The SPM instruction that 
+writes into the Application Flash memory section must reside in the Boot Program section.
+During interrupts and subroutine calls, the return address Program Counter (PC) is stored on the Stack. The 
+Stack is effectively allocated in the general data SRAM, and consequently the Stack size is only limited by the 
+total SRAM size and the usage of the SRAM. All user programs must initialize the SP in the Reset routine 
+(before subroutines or interrupts are executed). The Stack Pointer (SP) is read/write accessible in the I/O space. 
+The data SRAM can easily be accessed through the five different addressing modes supported in the AVR 
+architecture.
+The memory spaces in the AVR architecture are all linear and regular memory maps.
+A flexible interrupt module has its control registers in the I/O space with an additional Global Interrupt Enable bit 
+in the Status Register. All interrupts have a separate Interrupt Vector in the Interrupt Vector table. The interrupts 
+have priority in accordance with their Interrupt Vector position. The lower the Interrupt Vector address, the 
+higher the priority.
+The I/O memory space contains 64 addresses for CPU peripheral functions as Control Registers, SPI, and other 
+I/O functions. The I/O Memory can be accessed directly, or as the Data Space locations following those of the 
+Register File, 0x20 - 0x5F. In addition, the ATmega48A/PA/88A/PA/168A/PA/328/P has Extended I/O space 
+from 0x60 - 0xFF in SRAM where only the ST/STS/STD and LD/LDS/LDD instructions can be used.
+7.2
+ALU – Arithmetic Logic Unit
+The high-performance AVR ALU operates in direct connection with all the 32 general purpose working registers. 
+Within a single clock cycle, arithmetic operations between general purpose registers or between a register and 
+an immediate are executed. The ALU operations are divided into three main categories – arithmetic, logical, and 
+bit-functions. Some implementations of the architecture also provide a powerful multiplier supporting both 
+signed/unsigned multiplication and fractional format. See the “Instruction Set” section for a detailed description.
+7.3
+Status Register
+The Status Register contains information about the result of the most recently executed arithmetic instruction. 
+This information can be used for altering program flow in order to perform conditional operations. Note that the 
+Status Register is updated after all ALU operations, as specified in the Instruction Set Reference. This will in 
+many cases remove the need for using the dedicated compare instructions, resulting in faster and more 
+compact code.
+The Status Register is not automatically stored when entering an interrupt routine and restored when returning 
+from an interrupt. This must be handled by software.
+
+=== p23
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 23 
+7.6
+Instruction Execution Timing
+This section describes the general access timing concepts for instruction execution. The AVR CPU is driven by 
+the CPU clock clkCPU, directly generated from the selected clock source for the chip. No internal clock division is 
+used.
+Figure 7-4 shows the parallel instruction fetches and instruction executions enabled by the Harvard architecture 
+and the fast-access Register File concept. This is the basic pipelining concept to obtain up to 1 MIPS per MHz 
+with the corresponding unique results for functions per cost, functions per clocks, and functions per power-unit.
+Figure 7-4.
+The Parallel Instruction Fetches and Instruction Executions
+Figure 7-5 shows the internal timing concept for the Register File. In a single clock cycle an ALU operation using 
+two register operands is executed, and the result is stored back to the destination register.
+Figure 7-5.
+Single Cycle ALU Operation
+7.7
+Reset and Interrupt Handling
+The AVR provides several different interrupt sources. These interrupts and the separate Reset Vector each 
+have a separate program vector in the program memory space. All interrupts are assigned individual enable bits 
+which must be written logic one together with the Global Interrupt Enable bit in the Status Register in order to 
+enable the interrupt. Depending on the Program Counter value, interrupts may be automatically disabled when 
+Boot Lock bits BLB02 or BLB12 are programmed. This feature improves software security. See the section 
+”Memory Programming” on page 289 for details.
+The lowest addresses in the program memory space are by default defined as the Reset and Interrupt Vectors. 
+The complete list of vectors is shown in ”Interrupts” on page 66. The list also determines the priority levels of the 
+different interrupts. The lower the address the higher is the priority level. RESET has the highest priority, and 
+next is INT0 – the External Interrupt Request 0. The Interrupt Vectors can be moved to the start of the Boot 
+Flash section by setting the IVSEL bit in the MCU Control Register (MCUCR). Refer to ”Interrupts” on page 66 
+for more information. The Reset Vector can also be moved to the start of the Boot Flash section by 
+clk
+1st Instruction Fetch
+1st Instruction Execute
+2nd Instruction Fetch
+2nd Instruction Execute
+3rd Instruction Fetch
+3rd Instruction Execute
+4th Instruction Fetch
+T1
+T2
+T3
+T4
+CPU
+Total Execution Time
+Register Operands Fetch
+ALU Operation Execute
+Result Write Back
+T1
+T2
+T3
+T4
+clkCPU
+
+=== p24
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 24 
+programming the BOOTRST Fuse, see ”Boot Loader Support – Read-While-Write Self-Programming” on page 
+272.
+When an interrupt occurs, the Global Interrupt Enable I-bit is cleared and all interrupts are disabled. The user 
+software can write logic one to the I-bit to enable nested interrupts. All enabled interrupts can then interrupt the 
+current interrupt routine. The I-bit is automatically set when a Return from Interrupt instruction – RETI – is 
+executed. 
+There are basically two types of interrupts. The first type is triggered by an event that sets the Interrupt Flag. For 
+these interrupts, the Program Counter is vectored to the actual Interrupt Vector in order to execute the interrupt 
+handling routine, and hardware clears the corresponding Interrupt Flag. Interrupt Flags can also be cleared by 
+writing a logic one to the flag bit position(s) to be cleared. If an interrupt condition occurs while the 
+corresponding interrupt enable bit is cleared, the Interrupt Flag will be set and remembered until the interrupt is 
+enabled, or the flag is cleared by software. Similarly, if one or more interrupt conditions occur while the Global 
+Interrupt Enable bit is cleared, the corresponding Interrupt Flag(s) will be set and remembered until the Global 
+Interrupt Enable bit is set, and will then be executed by order of priority. 
+The second type of interrupts will trigger as long as the interrupt condition is present. These interrupts do not 
+necessarily have Interrupt Flags. If the interrupt condition disappears before the interrupt is enabled, the 
+interrupt will not be triggered.
+When the AVR exits from an interrupt, it will always return to the main program and execute one more 
+instruction before any pending interrupt is served.
+Note that the Status Register is not automatically stored when entering an interrupt routine, nor restored when 
+returning from an interrupt routine. This must be handled by software.
+When using the CLI instruction to disable interrupts, the interrupts will be immediately disabled. No interrupt will 
+be executed after the CLI instruction, even if it occurs simultaneously with the CLI instruction. The following 
+example shows how this can be used to avoid interrupts during the timed EEPROM write sequence.
+When using the SEI instruction to enable interrupts, the instruction following SEI will be executed before any 
+pending interrupts, as shown in this example. 
+Assembly Code Example
+in
+r16, SREG
+; store SREG value
+cli 
+; disable interrupts during timed 
+sequence
+sbi
+EECR, EEMPE
+; start EEPROM write
+sbi
+EECR, EEPE
+out
+SREG, r16
+; restore SREG value (I-
+bit)
+C Code Example
+char cSREG;
+cSREG = SREG;
+/* store SREG value */
+/* disable interrupts during timed sequence */
+_CLI(); 
+EECR |= (1<<EEMPE); /* start EEPROM write */
+EECR |= (1<<EEPE);
+SREG = cSREG; /* restore SREG value (I-bit) */
+
+=== p25
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 25 
+7.7.1
+Interrupt Response Time
+The interrupt execution response for all the enabled AVR interrupts is four clock cycles minimum. After four 
+clock cycles the program vector address for the actual interrupt handling routine is executed. During this four 
+clock cycle period, the Program Counter is pushed onto the Stack. The vector is normally a jump to the interrupt 
+routine, and this jump takes three clock cycles. If an interrupt occurs during execution of a multi-cycle 
+instruction, this instruction is completed before the interrupt is served. If an interrupt occurs when the MCU is in 
+sleep mode, the interrupt execution response time is increased by four clock cycles. This increase comes in 
+addition to the start-up time from the selected sleep mode.
+A return from an interrupt handling routine takes four clock cycles. During these four clock cycles, the Program 
+Counter (two bytes) is popped back from the Stack, the Stack Pointer is incremented by two, and the I-bit in 
+SREG is set.
+Assembly Code Example
+sei
+; set Global Interrupt Enable
+sleep
+; enter sleep, waiting for interrupt
+; note: will enter sleep before any pending interrupt(s)
+C Code Example
+__enable_interrupt(); /* set Global Interrupt Enable */
+__sleep(); /* enter sleep, waiting for interrupt */
+/* note: will enter sleep before any pending interrupt(s) */
+
+=== p26
+ATmega48A/PA/88A/PA/168A/PA/328/P
+ 2020 Microchip Technology Inc. 
+  
+ 
+ 
+ 
+  
+Data Sheet Complete 
+  
+ 
+ 
+ 
+DS40002061B-page 26 
+8.
+AVR Memories
+8.1
+Overview
+This section describes the different memories in the ATmega48A/PA/88A/PA/168A/PA/328/P. The AVR 
+architecture has two main memory spaces, the Data Memory and the Program Memory space. In addition, the 
+ATmega48A/PA/88A/PA/168A/PA/328/P features an EEPROM Memory for data storage. All three memory 
+spaces are linear and regular.
+8.2
+In-System Reprogrammable Flash Program Memory 
+The ATmega48A/PA/88A/PA/168A/PA/328/P contains 4/8/16/32Kbytes On-chip In-System Reprogrammable 
+Flash memory for program storage. Since all AVR instructions are 16 or 32 bits wide, the Flash is organized as 
+2/4/8/16K x 16. For software security, the Flash Program memory space is divided into two sections, Boot 
+Loader Section and Application Program Section in ATmega88PA and ATmega168PA. See SPMEN description 
+in section ”SPMCSR – Store Program Memory Control and Status Register” on page 287 for more details.
+The Flash memory has an endurance of at least 10,000 write/erase cycles. The 
+ATmega48A/PA/88A/PA/168A/PA/328/P Program Counter (PC) is 11/12/13/14 bits wide, thus addressing the 
+2/4/8/16K program memory locations. The operation of Boot Program section and associated Boot Lock bits for 
+software protection are described in detail in ”Self-Programming the Flash, ATmega 48A/48PA” on page 264 
+and ”Boot Loader Support – Read-While-Write Self-Programming” on page 272. ”Memory Programming” on 
+page 289 contains a detailed description on Flash Programming in SPI- or Parallel Programming mode.
+Constant tables can be allocated within the entire program memory address space (see the LPM – Load 
+Program Memory instruction description).
+Timing diagrams for instruction fetch and execution are presented in ”Instruction Execution Timing” on page 23.

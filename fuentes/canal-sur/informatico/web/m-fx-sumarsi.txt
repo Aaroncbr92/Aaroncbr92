@@ -1,0 +1,184 @@
+URL: https://support.microsoft.com/es-es/excel/functions/sumif-function
+Leído: 2026-10-06
+
+# Función SUMAR.SI
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo utilizo la función SUMAR.SI en Excel?
+
+ ¿Qué hago si no puedo usar la función SUMIF?
+
+ Proporciona una guía rápida para la función SUMIF.
+
+La función SUMAR.SI se usa para sumar los valores de un rango que cumplen los criterios especificados. Por ejemplo, supongamos que, en una columna que contiene números, solo quiere sumar los valores mayores que 5. Puede usar la siguiente fórmula: =SUMAR.SI(B2:B25;">5")
+
+Recomendación
+
+- Si lo desea, puede aplicar los criterios a un rango y sumar los valores correspondientes de otro rango. Por ejemplo, la fórmula =SUMAR.SI(B2:B5;"Juan";C2:C5) suma solamente los valores del rango C2:C5 en los que las celdas correspondientes del rango B2:B5 sea igual a "Juan".
+
+- Para sumar las celdas en función de varios criterios, vea la función SUMAR.SI.CONJUNTO.
+
+Importante
+
+La función SUMAR.SI devuelve resultados incorrectos cuando se usa para comparar cadenas de más de 255 caracteres o con la cadena #¡VALOR!.
+
+## Sintaxis
+
+SUMAR.SI(rango; criterio; [rango_suma])
+
+La sintaxis de la función SUMAR.SI tiene los argumentos siguientes:
+
+- 
+
+ rangoObligatorio. El rango de celdas que se desea evaluar según los criterios. Las celdas de cada rango deben ser números, nombres, matrices o referencias que contengan números. Los valores en blanco y de texto se ignoran. El rango seleccionado puede contener fechas en formato estándar de Excel (a continuación se incluyen ejemplos).
+
+- 
+
+ CriteriosObligatorio. Es el criterio en forma de número, expresión, referencia de celda, texto o función que determina las celdas que va a sumar. Se pueden incluir caracteres comodín: un signo de interrogación (?) para que coincida con cualquier carácter individual, un asterisco (*) para que coincida con cualquier secuencia de caracteres. Si desea buscar un signo de interrogación o un asterisco real, escriba una tilde (~) antes del carácter.
+
+Por ejemplo, los criterios pueden expresarse como 32, "32", B5>, "3?", "manzanas*", "*~" u HOY().
+
+Importante
+
+Cualquier criterio de texto o cualquier criterio que incluya los símbolos lógicos o matemáticos debe estar entre comillas dobles ("). Si el criterio es numérico, las comillas dobles no son necesarias.
+
+- 
+
+ sum_rangeOpcional. Las celdas reales que se van a agregar, si se quieren sumar otras celdas distintas de las especificadas en el argumento de rango . Si se omite el argumento sum_range , Excel agrega las celdas especificadas en el argumento de rango (las mismas celdas a las que se aplican los criterios).
+
+ Sum_range debe tener el mismo tamaño y forma que el rango. Si no es así, el rendimiento puede verse afectado y la fórmula sumará un rango de celdas que comienza con la primera celda de sum_range pero tiene las mismas dimensiones que el rango. Por ejemplo:
+
+ | 
+
+ intervalo
+ | 
+
+ Rango_suma
+ | 
+ Celdas sumadas reales
+
+ | A1:A5
+ | B1:B5
+ | B1:B5
+
+ | A1:A5
+ | B1:K5
+ | B1:B5
+
+## Ejemplos
+
+### 
+ Ejemplo 1
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una nueva hoja de cálculo de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar los anchos de la columna para ver todos los datos.
+
+ | 
+ Valor de propiedad
+ | 
+ Comisión
+ | 
+ Datos
+
+ | 100.000 €
+ | 7.000 €
+ | 250.000 €
+
+ | 200.000 €
+ | 14.000 €
+ | 
+
+ | 300.000 €
+ | 21.000 €
+ | 
+
+ | 400.000 €
+ | 28.000 €
+ | 
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =SUMAR.SI(A2:A5;">160000";B2:B5)
+ | Suma las comisiones de los valores de propiedad superiores a 160.000 €.
+ | 63.000 €
+
+ | =SUMAR.SI(A2:A5;">160000")
+ | Suma los valores de propiedad superiores a 160.000 €.
+ | 900.000 €
+
+ | =SUMAR.SI(A2:A5;300000;B2:B5)
+ | Suma las comisiones de los valores de propiedad igual a 300.000 €.
+ | 21.000 €
+
+ | =SUMAR.SI(A2:A5;">" & C2;B2:B5)
+ | Suma las comisiones de los valores de propiedad superiores al valor en C2.
+ | 49.000 €
+
+### 
+ Ejemplo 2
+
+Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda A1 de una nueva hoja de cálculo de Excel. Para que las fórmulas muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si lo necesita, puede ajustar los anchos de la columna para ver todos los datos.
+
+ | 
+ Categoría
+ | 
+ Alimento
+ | 
+ Ventas
+
+ | Verdura
+ | Tomates
+ | 2.300 €
+
+ | Verdura
+ | Apio
+ | 5.500 €
+
+ | Fruta
+ | Naranjas
+ | 800 €
+
+ | 
+ | Mantequilla
+ | 400 €
+
+ | Verdura
+ | Zanahorias
+ | 4.200 €
+
+ | Fruta
+ | Manzanas
+ | 1.200 €
+
+ | 
+ Fórmula
+ | 
+ Descripción
+ | 
+ Resultado
+
+ | =SUMAR.SI(A2:A7,"Frutas",C2:C7)
+ | Suma de las ventas de todos los alimentos en la categoría "Frutas".
+ | 2000 €
+
+ | =SUMAR.SI(A2:A7;"Verduras";C2:C7)
+ | Suma de las ventas de todos los alimentos en la categoría "Verduras".
+ | 12.000 €
+
+ | =SUMAR.SI(B2:B7;"*s";C2:C7)
+ | Suma de las ventas de todos los alimentos que terminan en "s" (Tomates, Naranjas y Manzanas).
+ | 4.300 €
+
+ | =SUMAR.SI(A2:A7;"";C2:C7)
+ | Suma de las ventas de todos los alimentos que no tienen una categoría especificada.
+ | 400 €
+
+ Principio de página

@@ -1,0 +1,28 @@
+URL: https://support.microsoft.com/es-es/windows/security/configure-windows-hello (servida en en-us)
+Leído: 2026-10-06
+
+# Configure Windows Hello
+ Applies To
+Windows 11 Windows 10 
+Get help with Copilot
+ How do I configure Windows Hello?
+ Where can I get help with Windows account issues?
+ How do I set up Windows Hello?
+Windows Hello is a more personal and secure way to sign in to your Windows device. Instead of using a password, with Windows Hello you can sign in using facial recognition, fingerprint, or a PIN.
+These options help make it easier and safer to sign into your PC because your PIN is only associated with one device, and it's backed up for recovery with your Microsoft account.
+You can use the Settings app to configure and manage Windows Hello.
+In the 
+Settings app on your Windows device, select Accounts > Sign-in options or use the following shortcut:
+Sign-in options
+Under Ways to sign in, you have three choices to sign in with Windows Hello:
+- Select Facial recognition (Windows Hello) to set up facial recognition sign-in with your PC's infrared camera or an external infrared camera.
+- Select Fingerprint recognition (Windows Hello) to set up sign-in with a fingerprint reader.
+- Select PIN (Windows Hello) to set up sign-in with a PIN.
+Important
+Signing in with your face requires a Hello-compatible camera. Signing in with your fingerprint requires your device to have a fingerprint reader.
+If your device didn't come with one of those you can purchase one that can be connected to your device via USB from any of a number of popular retailers.
+Choose an option an select Set up.
+Follow the instructions to complete the configuration of Windows Hello.
+## Sign-in experience
+The next time you sign in to your device, you can use facial recognition, fingerprint identification, or PIN code instead of your password.
+## Was this information helpful?

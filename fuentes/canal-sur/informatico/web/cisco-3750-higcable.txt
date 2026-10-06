@@ -1,0 +1,574 @@
+ 
+B-1
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+A P P E N D I X B
+Connector and Cable Specifications
+This appendix describes the Catalyst 3750 switch ports and the cables and adapters that you use to 
+connect the switch to other devices. This appendix includes these sections:
+•
+“Connector Specifications” section on page B-1
+•
+“Cable and Adapter Specifications” section on page B-5
+Connector Specifications
+These sections describe the connectors used with the Catalyst 3750 switches:
+•
+“10/100 and 10/100/1000 Ports” section on page B-2
+•
+“100BASE-FX Ports” section on page B-2
+•
+“SFP Module Ports” section on page B-3
+•
+“XENPAK Module Ports (Catalyst 3750G-16TD Switch)” section on page B-4
+•
+“Console Port” section on page B-4
+
+ 
+B-2
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Connector Specifications
+10/100 and 10/100/1000 Ports
+The 10/100 and 10/100/1000 Ethernet ports on Catalyst 3750 switches use standard RJ-45 connectors 
+and Ethernet pinouts with internal crossovers. Figure B-2 and Figure B-1 show the pinouts.
+Figure B-1
+10/100 Port Pinouts
+Figure B-2
+10/100/1000 Port Pinouts
+100BASE-FX Ports
+The 100BASE-FX ports use MT-RJ connectors, as shown in Figure B-3. The 100BASE-FX ports use 
+50/125- or 62.5/125-micron multimode fiber-optic cabling.
+You can connect a 100BASE-FX port to an SC or ST port on a target device by using one of the MT-RJ 
+fiber-optic patch cables listed in Table B-1. Use the Cisco part numbers in Table B-1 to order the patch 
+cables that you need.
+H5318
+2 3
+1
+4 5 6 7 8
+Pin
+Label
+1
+2
+3
+4
+5
+6
+7
+8
+RD+
+RDTD+
+NC
+NC
+TDNC
+NC
+60915
+2 3
+1
+4 5 6 7 8
+Pin
+Label
+1
+2
+3
+4
+5
+6
+7
+8
+TP0+
+TP0TP1+
+TP2+
+TP2TP1TP3+
+TP3-
+
+ 
+B-3
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Connector Specifications
+Figure B-3
+MT-RJ Connector
+SFP Module Ports
+The Catalyst 3750 switch uses SFP modules for fiber-optic and copper uplink ports. See the Catalyst 
+3750 release notes for a list of supported SFP modules.
+Figure B-4
+Fiber-Optic SFP Module LC Connector
+Figure B-5
+Copper SFP Module RJ-45 Connector
+Table B-1
+MT-RJ Patch Cables for 100BASE-FX Connections 
+Type
+Cisco Part Number
+1-meter, MT-RJ-to-SC multimode cable
+CAB-MTRJ-SC-MM-1M
+3-meter, MT-RJ-to-SC multimode cable
+CAB-MTRJ-SC-MM-3M
+5-meter, MT-RJ-to-SC multimode cable
+CAB-MTRJ-SC-MM-5M
+1-meter, MT-RJ-to-ST multimode cable
+CAB-MTRJ-ST-MM-1M
+3-meter, MT-RJ-to-ST multimode cable
+CAB-MTRJ-ST-MM-3M
+5-meter, MT-RJ-to-ST multimode cable
+CAB-MTRJ-ST-MM-5M
+28845
+58476
+60915
+2 3
+1
+4 5 6 7 8
+Pin
+Label
+1
+2
+3
+4
+5
+6
+7
+8
+TP0+
+TP0TP1+
+TP2+
+TP2TP1TP3+
+TP3-
+
+ 
+B-4
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Connector Specifications
+XENPAK Module Ports (Catalyst 3750G-16TD Switch)
+The Catalyst 3750G-16TD switch uses XENPAK modules for 10-Gigabit fiber-optic connections to 
+networks. See the Catalyst 3750 release notes for a list of supported XENPAK modules. Fiber-optic 
+XENPAK modules use SC connectors, as shown in Figure B-6.
+Figure B-6
+Fiber-Optic XENPAK Module SC Connector
+Table B-2 lists the XENPAK modules that the Catalyst 3750G-16TD switch supports.
+For more information about XENPAK modules, see your XENPAK module documentation.
+Note
+The 10-Gigabit Ethernet XENPAK modules are referred to as 10-Gigabit Ethernet module ports in the 
+software documentation.
+Console Port
+The console port uses an 8-pin RJ-45 connector, which is described in Table B-4 and Table B-5. The 
+supplied RJ-45-to-DB-9 adapter cable is used to connect the console port of the switch to a console PC. 
+You need to provide a RJ-45-to-DB-25 female DTE adapter if you want to connect the switch console 
+port to a terminal. You can order a kit (part number ACS-DSBUASYN=) containing that adapter from 
+Cisco. For console port and adapter pinout information, see Table B-4 and Table B-5.
+H8707
+Tx
+Rx
+Table B-2
+Catalyst 3750G-16TD Switch Supported XENPAK Modules
+XENPAK
+Wavelength
+Connector and Cable Type
+Maximum Distance
+C3-XENPAK-10GB-LR
+1310 nm
+SC, SMF
+6.2 miles (10 km)
+XENPAK-10GB-ER
+1550 nm
+SC, SMF
+24.85 miles (40 km)
+C3-XENPAK-10GB-SR
+850 nm
+SC; FDDI1 grade MMF
+SC; OM3 MMF
+1.
+FDDI = fiber distributed data interface
+85.3 feet (26 m)
+984.25 feet (300 m)
+
+ 
+B-5
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Cable and Adapter Specifications
+These sections describe the cables and adapters used with Catalyst 3750 switches:
+•
+SFP Module Cable Specifications, page B-5
+•
+Two Twisted-Pair Cable Pinouts, page B-6
+•
+Four Twisted-Pair Cable Pinouts for 10/100 Ports, page B-7
+•
+Identifying a Crossover Cable, page B-7
+•
+Four Twisted-Pair Cable Pinouts for 1000BASE-T Ports, page B-9
+•
+Crossover Cable and Adapter Pinouts, page B-9
+SFP Module Cable Specifications
+Table B-3 lists the cable specifications for the fiber-optic SFP module connections. Each port must 
+match the wave-length specifications on the other end of the cable, and for reliable communications, the 
+cable must not exceed the required cable length. Copper 1000BASE-T SFP transceivers use standard 
+four twisted-pair, Category 5 or greater cable at lengths up to 328 feet (100 meters). 
+Table B-3
+Fiber-Optic SFP Module Port Cabling Specifications
+SFP Module
+Wavelength 
+(nanometers)
+Fiber Type
+Core Size/Cladding 
+Size (micron)
+Modal Bandwidth 
+(MHz/km)1
+Cable Distance
+100BASE-BX 
+(GLC-FE-100BX-D
+GLC-FE-100BX-U)
+1310 TX
+1550 RX
+SMF
+G.6522
+—
+32,810 feet (10 km) 
+100BASE-FX 
+(GLC-GE-100FX)
+1310
+MMF
+50/125
+62.5/125
+500
+500
+6,562 feet (2 km) 
+6,562 feet (2 km)
+100BASE-FX 
+(GLC-FE-100FX)
+1310
+MMF
+50/125
+62.5/125
+500
+500
+6,562 feet (2 km) 
+6,562 feet (2 km)
+100BASE-LX 
+(100BASE-LX10)
+1310
+SMF
+G.6522
+—
+32,810 feet (10 km) 
+1000BASE-BX10-D
+(GLC-BX-D)
+1490 TX
+1310 RX
+SMF
+G.6522
+—
+32,810 feet (10 km)
+1000BASE-BX10-U
+(GLC-BX-U)
+1310 TX
+1490 RX
+SMF
+G.6522
+—
+32,810 feet (10 km)
+1000BASE-SX
+(GLC-SX-MM)
+850
+MMF
+62.5/125
+62.5/125
+50/125
+50/125
+160
+200
+400
+500
+722 feet (220 m)
+902 feet (275 m)
+1640 feet (500 m)
+1804 feet (550 m)
+1000BASE-LX/LH
+(GLC-LH-SM)
+1310
+MMF3
+SMF
+62.5/125
+50/125
+50/125
+G.6522
+500
+400
+500
+—
+1804 feet (550 m)
+1804 feet (550 m)
+1804 feet (550 m)
+32,810 feet (10 km)
+
+ 
+B-6
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Two Twisted-Pair Cable Pinouts
+Figure B-7 and Figure B-8 show the schematics of two twisted-pair cables for 10/100 ports.
+Figure B-7
+Two Twisted-Pair Straight-Through Cable Schematic
+Figure B-8
+Two Twisted-Pair Crossover Cable Schematic
+1000BASE-ZX
+(GLC-ZX-SM
+1550
+SMF
+G.6522
+—
+43.4 to 62 miles 
+(70 to 100 km)4
+CWDM 
+1470, 1490, 
+1510, 1530, 
+1550, 1570, 
+1590, 1610 
+SMF
+G.6522
+—
+62 miles (100 km)
+1.
+Modal bandwidth applies only to multimode fiber.
+2.
+A mode-field diameter/cladding diameter = 9 micrometers/125 micrometers
+3.
+A mode-conditioning patch cord is required. Using an ordinary patch cord with MMF, 1000BASE-LX/LH SFP modules, and a short link distance 
+can cause transceiver saturation, resulting in an elevated bit error rate (BER). When using the LX/LH SFP module with 62.5-micron diameter MMF, 
+you must also install a mode-conditioning patch cord between the SFP module and the MMF cable on both the sending and receiving ends of the 
+link. The mode-conditioning patch cord is required for link distances greater than 984 feet (300 m).
+4.
+1000BASE-ZX SFP modules can send data up to 62 miles (100 km) by using dispersion-shifted SMF or low-attenuation SMF; the distance depends 
+on the fiber quality, the number of splices, and the connectors.
+Table B-3
+Fiber-Optic SFP Module Port Cabling Specifications (continued)
+SFP Module
+Wavelength 
+(nanometers)
+Fiber Type
+Core Size/Cladding 
+Size (micron)
+Modal Bandwidth 
+(MHz/km)1
+Cable Distance
+Switch
+3 TD+
+6 TD– 
+1 RD+
+2 RD– 
+Router or PC
+3 RD+
+6 RD–
+1 TD+
+2 TD–
+H5578
+Switch
+3 TD+
+6 TD– 
+1 RD+
+2 RD– 
+Switch
+3 TD+
+6 TD–
+1 RD+
+2 RD–
+H5579
+
+ 
+B-7
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Four Twisted-Pair Cable Pinouts for 10/100 Ports
+Figure B-9 and Figure B-10 show the schematics of four twisted-pair cables for 10/100/1000 ports.
+Figure B-9
+Four Twisted-Pair Straight-Through Cable Schematic for 10/100/1000 Ports
+Figure B-10
+Four Twisted-Pair Crossover Cable Schematic for 10/100/1000 Ports
+Identifying a Crossover Cable
+You can identify a crossover cable by comparing the two modular ends of the cable. Hold the cables 
+side-by-side with the tab at the back. The first (far left) colored wire (pin 1) at one end of the cable is 
+the third colored wire (pin 3) at the other end of the cable. The second colored wire (pin 2) at one end 
+of the cable is the sixth colored wire (pin 6) at the other end of the cable. See Figure B-11.
+1 TPO+
+2 TPO3 TP1+
+6 TP11 TP1+
+Switch
+Router or PC
+2 TP13 TPO+
+6 TPO4 TP2+
+5 TP27 TP3+
+8 TP34 TP3+
+5 TP37 TP2+
+8 TP265272
+1 TP0+
+2 TP03 TP1+
+6 TP11 TP0+
+Switch
+Switch
+2 TP03 TP1+
+6 TP14 TP2+
+5 TP27 TP3+
+8 TP34 TP2+
+5 TP27 TP3+
+8 TP365274
+
+ 
+B-8
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Figure B-11
+Crossover Cable
+Figure B-12
+RJ-45 Crossover Cable Identification
+1 2 3 4 5 6 7 8
+127839
+1 2 3 4 5 6 7 8
+62741
+Pin 1
+Pin 2
+Pin 3
+Pin 6
+
+ 
+B-9
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Four Twisted-Pair Cable Pinouts for 1000BASE-T Ports
+Figure B-13 and Figure B-14 show the schematics of four twisted-pair cables for 10/100/1000 ports on 
+Catalyst 3750 switches.
+Figure B-13
+Four Twisted-Pair Straight-Through Cable Schematic for 10/100/1000 Ports
+Figure B-14
+Four Twisted-Pair Crossover Cable Schematics for 10/100/1000 and 1000BASE-T SFP 
+Module Ports
+Crossover Cable and Adapter Pinouts
+This section describes the adapter pinouts.
+Table B-4 lists the pinouts for the console port, the RJ-45-to-DB-9 adapter cable, and the console device.
+1 TPO+
+2 TPO3 TP1+
+6 TP11 TP1+
+Switch
+Router or PC
+2 TP13 TPO+
+6 TPO4 TP2+
+5 TP27 TP3+
+8 TP34 TP3+
+5 TP37 TP2+
+8 TP265272
+1 TP0+
+2 TP03 TP1+
+6 TP11 TP0+
+Switch
+Switch
+2 TP03 TP1+
+6 TP14 TP2+
+5 TP27 TP3+
+8 TP34 TP2+
+5 TP27 TP3+
+8 TP365274
+Table B-4
+Console Port Signaling Using a DB-9 Adapter
+Switch Console 
+Port (DTE)
+RJ-45-to-DB-9
+Terminal Adapter
+Console
+Device
+Signal
+DB-9 Pin
+Signal
+RTS
+8
+CTS
+DTR
+6
+DSR
+
+ 
+B-10
+Catalyst 3750 Switch Hardware Installation Guide
+OL-6336-10
+Appendix B      Connector and Cable Specifications
+Cable and Adapter Specifications
+Table B-5 lists the pinouts for the console port, RJ-45-to-DB-25 female DTE adapter, and the 
+console device. 
+Note
+The RJ-45-to-DB-25 female DTE adapter is not supplied with the switch. You can order a kit (part number 
+ACS-DSBUASYN=) containing this adapter from Cisco.
+TxD
+2
+RxD
+GND
+5
+GND
+GND
+5
+GND
+RxD
+3
+TxD
+DSR
+4
+DTR
+CTS
+7
+RTS
+Table B-4
+Console Port Signaling Using a DB-9 Adapter (continued)
+Switch Console 
+Port (DTE)
+RJ-45-to-DB-9
+Terminal Adapter
+Console
+Device
+Signal
+DB-9 Pin
+Signal
+Table B-5
+Console Port Signaling Using a DB-25 Adapter
+Switch Console
+Port (DTE)
+RJ-45-to-DB-25
+Terminal Adapter
+Console
+Device
+Signal
+DB-25 Pin
+Signal
+RTS
+5
+CTS
+DTR
+6
+DSR
+TxD
+3
+RxD
+GND
+7
+GND
+GND
+7
+GND
+RxD
+2
+TxD
+DSR
+20
+DTR
+CTS
+4
+RTS

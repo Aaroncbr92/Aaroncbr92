@@ -1,0 +1,3243 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universal Serial Bus 
+Cables and Connectors 
+Class Document 
+Revision 2.0 
+August 2007 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+ii 
+ 
+August 2007 
+ 
+Revision History 
+Rev 
+Date 
+Filename 
+Comments 
+2.0 RC 6 
+August 10, 2007 
+CabConnRC6_Aug10.doc 
+Added Go/No-go & latch measurement for Micro series 
+Added Drain wire inspection process 
+Added pin contact visual inspection 
+Added clarifying text to 4-axis test description 
+2.0 RC5 
+June 5, 2007 
+CabConn20RC5_June5 
+Removed Shielding Effectiveness 
+Replace Rotational Continuity with 4-Axis continuity 
+Other miscellaneous minor changes 
+2.0 RC4 
+May, 2007 
+CabConn20RC4_May07 
+Cable Construction inspection added 
+2.0 
+April 4, 2007 
+CabConn20 
+Removed Shielding Effectiveness, 
+Added power line resistance test 
+Added cable rotation test 
+2.0 
+February 14, 2007 
+CabConn Rev 2.0 
+Edits from Tsuyoshi YAMANE of Matsushita 
+2.0 
+February 13, 2007 
+CabConn Rev 2.0 
+Edited by Jim Koser new chart from Hirose 
+2.0 
+February 7, 2007 
+CabConn Rev 2.0 
+Edited draft 
+2.02RC2 
+February 6, 2007 
+CabConnRC2_02-06-07 
+Work group editorials 
+2.01RC2 
+December 6, 2006 
+CabConnRC2_12-06-06 
+Work group editorials 
+2.0RC2 
+July 11, 2006 
+CabConnRC2_7-11-06 
+Added durability requirements for Ruggedized Standard 
+“A” receptacle and durability requirements for Micro 
+series 
+2.0RC2 
+June 7, 2006 
+CabConnRC2_6-7-06 
+Added new critical dimensions drawings for standard “A” 
+and “B” plugs and receptacles and changed the criteria 
+for “mini” products to the use of go – no go gages in 
+Appendix  B 
+2.0RC2 
+March 24, 2006 
+CabConnRC2_3-23-06.doc 
+Added new IP agreement 
+2.0RC2 
+December 03,2003 
+CabConnRC2.doc 
+Final edit during USB DWG meeting in Austin prior to 
+posting the document to Web site 
+2.0RC1 
+October 29, 2002 
+CabConnRC1.doc 
+Adjust formatting in technical edit pass 
+2.0RC 
+August 13, 2002 
+ 
+Rewrite of test program to reflect current practice and 
+general updates to reflect changes in the USB 
+Specification. 
+1.1 
+September 1, 1999 
+ 
+Editorial Update for improved use.  Add Appendices ‘A’ 
+and ‘B.’ 
+1.0 
+May 22, 1999 
+ 
+Accepted unanimously by USB-IF DWG after 30-day 
+posting without negative comment. 
+1.0RC 
+March 27, 1999 
+ 
+Release for industry comment 
+0.9a 
+January 19, 1999 
+ 
+Moved to Revision 0.9 by consensus of the Cable & 
+Connector Work Group.  Pending final editorial cleanup 
+RRs to be voted on at a special Cable & Connector Work 
+Group meeting February 21, 1999. 
+0.9RC 
+December 18, 1998 
+ 
+Moves Document to 0.9RC by consensus of the Cable & 
+Connector Group to Version 0.9 without Appendices 
+Drawings and Lab Listings.  Special dispensation by the 
+DWG to move to Revision 1.0 for use at the January 1999 
+Plug Fest. 
+0.8 
+October 20, 1998 
+ 
+Release for industry comment 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+iii 
+ 
+0.7m 
+October 16, 1998 
+ 
+Adds Addenda content 
+0.7f 
+October 9. 1998 
+ 
+Adds additional Application Specific USB Product 
+Specification content. 
+0.7 
+September 30, 1998 
+ 
+Supersedes segments of Chapter 6 Revision 1.1 Release 
+Candidate 1.0c. 
+ 
+Please send comments via electronic mail Admin@usb.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY DISCLAIMER 
+ 
+ 
+THIS SPECIFICATION IS PROVIDED TO YOU “AS IS” WITH NO WARRANTIES WHATSOEVER, 
+INCLUDING ANY WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS 
+FOR ANY PARTICULAR PURPOSE. THE AUTHORS OF THIS SPECIFICATION DISCLAIM ALL 
+LIABILITY, INCLUDING LIABILITY FOR INFRINGEMENT OF ANY PROPRIETARY RIGHTS, 
+RELATING TO USE OR IMPLEMENTATION OF INFORMATION IN THIS SPECIFICATION. THE 
+PROVISION OF THIS SPECIFICATION TO YOU DOES NOT PROVIDE YOU WITH ANY LICENSE, 
+EXPRESS OR IMPLIED, BY ESTOPPEL OR OTHERWISE, TO ANY INTELLECTUAL PROPERTY 
+RIGHTS. 
+        
+      All product names are trademarks, registered trademarks, or service marks of their respective owners. 
+ 
+USB Cables and Connectors Class Document 
+ © Copyright 2007, USB Implementers Forum 
+All rights reserved.
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+iv 
+ 
+August 2007 
+ 
+Contributors 
+Name 
+Company 
+E-mail Address 
+James R. Koser 
+Foxconn Electronics – CCWG Chair 
+jim.koser@foxconn.com 
+Tsuneki Watanabe 
+Foxconn Electronics  
+t.watanabe@foxconn.com 
+Jim Zhao 
+Foxconn Electronics 
+Jim.zhao@foxconn.com 
+George G. Olear II 
+Contech Research – Co-Editor 
+ggo@contechresearch.com 
+Jaremy Flake 
+ATL Technology – CCWG Scribe 
+jaremyf@atlconnect.com 
+Glen Chandler 
+Acon 
+glenc@acon.com 
+George Yee 
+Acon 
+George.Yee@acon.com 
+Roy Ting 
+ELKA International Ltd. 
+roy@elka.com.tw 
+Sophia Liu 
+ETC (Electronic Test Center, Taiwan) 
+scl@etc.org.tw 
+Bill Northey 
+FCI 
+William.northey@fciconnect.com 
+Jack Lu 
+Foxlink International, Inc. 
+Jack_lu@foxlink.com 
+Wen Yang 
+Foxlink International, Inc. 
+wen@foxlink.com 
+Yasuhiro Ishii 
+Fujikura Ltd 
+Yishii@fujikura.co.jp 
+Shigreu Ashida 
+Fujikura Ltd 
+Ashidas@fujikura.co.jp 
+Marksuk Piyavit 
+Fujikura Ltd 
+MPiyavit @fujikura.com 
+Hiromichi Kato 
+Fujikura Ltd 
+pakl@fujikura.com 
+Sathid Inthon 
+Fujikura Ltd 
+isathid @fujikura.com 
+Makoto Kikuchi 
+Fujikura Ltd 
+mkikuchi@fujikura.co.jp 
+Hiroshi Nakazawa 
+Hirose Electric Co. Ltd 
+Hiroshi Nakazawa@hirose.co.jp 
+Yousuke Takeuchi 
+Hirose Electric Co. Ltd 
+Yousuke_Takeuchi@hirose.co.jp 
+Shinya Tono 
+Hirose Electric Co. Ltd 
+Shinya_tohno@hirose.co.jp 
+Karl Kwiat 
+Hirose Electric Co. Ltd 
+kkwiat@hirose.com 
+Kazunori Ichikawa 
+Hirose Electric Co. Ltd 
+Kazunori_Ichikawa@hirose.co.jp 
+Toshi Sasaki 
+Honda Connectors 
+t.sasaki@honda-connectors.co.jp 
+Jim Eilers 
+Hosiden 
+eilersjm@hoaco.com 
+Tsuyoshi Kitagawa 
+Hosiden 
+kitagawat@hoaco.com 
+David Suryoutomo 
+Japan Aviation Electronics, Inc 
+suryoutomod@jae.com 
+Ron Muir 
+Japan Aviation Electronics, Inc 
+muirr@jae.com 
+Kazuhiro Saito 
+Japan Aviation Electronics, Inc 
+saitouk@jae.co.jp 
+Takahiro Deguchi 
+JST Mfg. Co. Ltd 
+tdeguchi@jst-mfg.com 
+Yasuhira Miya 
+JST Mfg. Co. Ltd 
+ymiya@jst-mfg.com  
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+v 
+ 
+Yoichi Nakazawa 
+JST Mfg. Co. Ltd 
+ynakazawa@jst-mfg.com 
+Hironori Handa 
+JST Mfg. Co. Ltd 
+hhanda@jst-mfg.com 
+Vincent Chen 
+Longwell 
+vince@longwell.com 
+Ron Ward 
+Matsushita Electronics 
+rward@us.pewg.panasonic.com 
+Hitoshi Kawamura 
+Mitsumi 
+h_kawamura@sales.mitsumi.co.jp 
+Atsushi Nishio 
+Mitsumi 
+a_nishio@eeb.mitsumi.co.jp 
+Yasuhiko Shinohara 
+Mitsumi 
+y_shinohara@eeb.mitsumi.co.jp  
+Scott Sommers 
+Molex 
+Scott.sommers@molex.com 
+E. Mark Rodda 
+Motorola PCS 
+markrodda@motorola.com 
+Sheldon Singleton 
+National Technical Systems 
+sheldons@ntscorp.com 
+Sam Liu 
+Newnex 
+saml@newnex.com 
+Jan Fahllund 
+Nokia Corporation 
+Jan.h.fahllund@nokia.com 
+Kai Silvennoine 
+Nokia Corporation 
+Kai.silvennoine@nokia.com 
+Richard Petrie 
+Nokia Corporation 
+Richard.petrie@nokia.com 
+Jussi Takaneva 
+Nokia Corporation 
+Jussi.Takaneva@nokia.com 
+Panu Ylihaavisto 
+Nokia Corporation 
+Panu.Ylihaavisto@nokia.com 
+Arthur Zarnowitz 
+Palm 
+arthur.zarnowitz@palm.com 
+Dave Peters 
+Palm 
+dave.peters@palm.com 
+Tetsuji Kawaguchi 
+Panasonic (Matsushita) 
+t Kawaguchi@us.pewg.panasonic.com 
+Satoshi Yamamoto 
+Panasonic (Matsushita) 
+koteyamd@sei.mew.co.jp 
+Tsuyoshi Yamane 
+Panasonic (Matsushita) 
+Yamane.tsuyoshi@mail.mew.co.jp 
+Naoyuki Ono 
+SMK 
+Naoyuki@smk.co.jp 
+Eric Yagi 
+SMK 
+s-yagi@smkusa.com 
+Scott Shuey 
+Tyco Electronics. 
+scott.shuey@tycoelectronics.com 
+Masaru Ueno 
+Tyco Electronics 
+Ueno.masaru@ tycoelectronics.com 
+Mark Paxson 
+USB-IF. 
+mpaxson@vtm-inc.com 
+Ed Beeman 
+2010 Tech for USB-IF 
+ed.beeman@2010tech.com 
+ 
+ 
+ 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+vi 
+ 
+August 2007 
+ 
+Table of Contents 
+1 
+Introduction................................................................................................................ 1 
+1.1 
+Purpose ....................................................................................................................... 1 
+1.2 
+Scope........................................................................................................................... 1 
+1.3 
+Related Documents ..................................................................................................... 1 
+1.4 
+Terms and Abbreviations............................................................................................. 1 
+2 
+Management Overview.............................................................................................. 5 
+3 
+USB Electrical, Mechanical and Environmental Compliance Standards............. 6 
+4 
+Acceptance Criteria, Test Methods and Test Procedures................................... 10 
+4.1 
+Integrators List (IL)..................................................................................................... 10 
+4.2 
+USB Logo Usage....................................................................................................... 10 
+4.3 
+Compliance Test Report............................................................................................ 10 
+4.4 
+Connector and Cable Assembly Physical Certification ............................................. 10 
+4.5 
+General Information................................................................................................... 11 
+4.5.1 
+Mated Pairs................................................................................................................ 11 
+4.5.2 
+Before Testing ........................................................................................................... 11 
+4.5.3 
+Test Sequences......................................................................................................... 11 
+4.6 
+Sample Selection....................................................................................................... 12 
+4.7 
+USB Compliance Testing Interval.............................................................................. 12 
+4.8 
+Primary Qualification Approval Testing ..................................................................... 12 
+4.9 
+Sustaining Qualification Approval Testing................................................................. 13 
+4.10 
+Compliance Test Sequences..................................................................................... 13 
+4.10.1 
+Inspection EIA 364-18 ............................................................................................... 13 
+4.10.2 
+Test Group ‘1’ ............................................................................................................ 14 
+4.10.3 
+Test Group ‘2’ ............................................................................................................ 17 
+4.10.4 
+Test Group ‘3’ ............................................................................................................ 18 
+4.10.5 
+Test Group ‘4’ ............................................................................................................ 19 
+4.10.6 
+Test Group ‘5’ ............................................................................................................ 20 
+4.10.7 
+Test Group ‘6’ ............................................................................................................ 20 
+4.10.8 
+Test Group ‘7’ ............................................................................................................ 21 
+4.10.9 
+Test Group ‘8’ ............................................................................................................ 21 
+5 
+Certification Acceptance and Submission ........................................................... 23 
+5.1 
+Compliance Test Report............................................................................................ 23 
+5.2 
+Listing, Authorization and Notification ....................................................................... 23 
+5.2.1 
+Listing ........................................................................................................................23 
+5.2.2 
+Authorization to use Certified USB Logo................................................................... 23 
+5.2.3 
+Notification................................................................................................................. 23 
+Appendices............................................................................................................................. 24 
+A 
+Testing by Similarity – General Guidelines ............................................................... 24 
+B 
+Critical Dimensions.................................................................................................... 27 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+vii 
+ 
+USB 2.0 Group 7  - Standard  “A” PLUG ................................................................................. 27 
+USB 2.0 Group 7  - Standard “A” Receptacle.......................................................................... 28 
+USB 2.0 Group 7  - Standard “B” PLUG .................................................................................. 29 
+USB 2.0 Group 7  - Standard “B” RECEPTACLE.................................................................... 30 
+USB 2.0 Group 7  - MINI “B” PLUG ......................................................................................... 31 
+USB 2.0 Group 7  - MINI “B” RECEPTACLE........................................................................... 31 
+USB 2.0 Group 7 – Micro-USB A-Plug .................................................................................... 32 
+USB 2.0 Group 7 – Micro-USB B-Plug .................................................................................... 33 
+USB 2.0 Group 7 – Micro-USB B-Receptacle.......................................................................... 34 
+USB 2.0 Group 7 – Micro-USB AB-Receptacle ....................................................................... 37 
+C 
+Attenuation Table....................................................................................................... 39 
+D 
+4-Axis Continuity Test................................................................................................ 40 
+  
+List of Tables 
+Table 3-1 
+USB Electrical, Mechanical and Environmental Compliance Standards...................6 
+Table 4-1  
+Standard Test Conditions.............................................................................................11 
+Table 4-2  
+Performance Levels ......................................................................................................11 
+Table 4-3  
+Primary Qualification Approval Testing......................................................................12 
+Table 4-4 
+Test Group '1' Durability, Vibration, Shock, Cable Retention and Mating/Un-mating 
+Force 
+14 
+Table 4-5 
+Test Group '2' Temperature Life ..................................................................................17 
+Table 4-6  
+Test Group '3' Mixed Flowing Gas...............................................................................18 
+Table 4-7  
+Test Group '4' Insulation Resistance, Dielectric Withstanding Voltage, Thermal Shock 
+& Humidity Temperature Cycling...............................................................................................19 
+Table 4-8 
+Test Group '5' Solderability..........................................................................................20 
+Table 4-9 
+Test Group '6' High Frequency Testing ......................................................................20 
+Table 4-10 
+Test Group '7' Critical Dimensions ..........................................................................21 
+Table 4-11 
+Test Group '8' Cable ..................................................................................................21 
+ 
+ 
+
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+1 
+ 
+1 Introduction 
+1.1 Purpose 
+This document describes the mechanical, electrical, environmental, design and performance criteria and 
+voluntary supplier compliance requirements for USB connectors, cable and fabricated cable assemblies.  In 
+addition, this document provides detailed requirements for the design, approval and implementation of 
+application specific USB connectors and fabricated cable assemblies. 
+1.2 Scope 
+The information provided in this document serves as a guideline for design, development and voluntary 
+compliance testing of USB connectors and fabricated cables assemblies, as well as defining mechanical, electrical, 
+environmental and performance characteristics.  As such, it defines how USB connectors, cable and fabricated 
+cables assemblies are to be implemented and how manufacturers and/or fabricators will interact with the 
+voluntary compliance requirements. 
+1.3 Related Documents 
+American Society for Testing and  Materials 
+ 
+ 
+ASTM-D-4565 
+Standard Test Methods for Physical and Environmental Performance Properties of 
+Insulations and Jackets for Telecommunications Wire and Cable.  This specification 
+is available through the World Wide Web site http://www.astm.org/ 
+ 
+ASTM-D-4566 
+Standard Test Methods for Electrical Performance Properties of Insulations and 
+Jackets for Telecommunications Wire and Cable.  This specification is available 
+through the World Wide Web site http://www.astm.org/ 
+ANSI/EIA 364-C 
+Electrical Connector/Socket Test Procedures Including Environmental 
+Classifications, approved 1994.  Available in hard copy – reference search site 
+http://www.nssn.org/information.html 
+Underwriters Laboratories 
+ 
+ 
+UL STD-94 
+Test procedures used to classify polymeric materials 94HB, 94V-1, 94V-2, 94-5VA, 
+94-5VB, 94VTM-0, 94VTM-1, 94VTM-2, 94HBF, 94HF-1, and 94HF-2.  This 
+specification is available through the World Wide Web site http://www.comm2000.com/ 
+ 
+UL Subject-444 
+Type CMP (plenum cable), Type CMR (riser cable), Type CM (commercial cable), 
+and Type CMX (cable for restricted use.  This specification is available through the 
+World Wide Web site http://www.comm-2000.com/ 
+[USB2.0] 
+Universal Serial Bus Specification, revision 2.0 (also referred to as the USB 
+Specification).  This specification is available on the World Wide Web site 
+http://www.usb.org. 
+USB On-The-Go 
+On-The-Go Supplement to the USB 2.0 Specification (also referred to as the USB 
+On-The-Go Specification).  This specification is available on the World Wide Web 
+site http://www.usb.org. 
+1.4 Terms and Abbreviations 
+Term 
+Description 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+2 
+ 
+August 2007 
+ 
+Term 
+Description 
+A2LA 
+The American Association for Laboratory Accreditation 
+(A2LA) is a non-profit, professional membership society.  
+A2LA coordinates and manages a broad-spectrum, 
+nationwide laboratory accreditation system and offers 
+training and continuing education in laboratory practices and 
+management. 
+A2LA offers accreditation to private, independent (for hirer), 
+in-house and government testing laboratories in the following 
+fields: acoustics and vibration; biological; chemical; 
+construction materials; electrical; environmental; geotechnical; 
+mechanical; calibration; and, nondestructive and thermal. 
+ANSI 
+American National Standards Institute 
+Approved Integrators List (AIL) 
+A listing available to USB-IF member companies at 
+http://www.usb.org listing cable and connector products that 
+have successfully completed a Voluntary Compliance Testing 
+program conducted in accordance with the most current 
+version of the USB Specification’s Electrical, Mechanical and 
+Environmental Performance Standards as shown in Chapter 6, 
+Chapter 7 and this document. 
+ASTM 
+American Society for Testing and Materials. 
+ASUPS 
+The acronym for Application Specific USB Product 
+Specification.  An ASUPS describes the unique characteristics 
+of a special purpose nonstandard USB connector or cable 
+assembly specification. 
+C of C 
+Certificate of Compliance. 
+Characteristic 
+A physical, chemical, visual or any other measurable property 
+of a product or material. 
+Contact Point 
+One electrical contact of a multi-contact connector. 
+CTR 
+Conformance Test Report 
+Defect 
+Any nonconformance of the unit of product with specified 
+requirements. 
+Defective Unit 
+A unit of product that contains one or more defects. 
+DWG 
+USB-IF Device Working Group 
+EIA 
+Electronic Industries Association. 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+3 
+ 
+Term 
+Description 
+EMI/RFI 
+Electro-magnetic Interference/Radio Frequency Interference. 
+Full-speed 
+The USB ‘Full-speed’ data signaling rate is 12Mb/s. 
+High-speed 
+The USB ‘High-speed’ data signaling rate is 480Mb/s. 
+Low-speed 
+The USB ‘Low-speed’ data signaling rate is 1.5Mb/s. 
+NIST 
+National Institute of Standards and Technology. 
+Power Pair 
+The non-twisted pair of electrical conductors in a USB cable 
+used to carry power from the ‘host controller’ and/or a ‘selfpowered hub’ to the device. Where the ‘Red’ conductor is 
+Vbus and the ‘Black’ conductor is Ground. 
+Signal Pair 
+The twisted pair of electrical conductors in a USB cable used 
+to carry data from the ‘host controller’ and/or a ‘self-powered 
+hub’ to the device.  Where the ‘Green’ conductor is Dplus 
+(D+) and the ‘White’ conductor is Dminus (D-). 
+TID 
+Test Identification Number 
+Universal Serial Bus 
+Universal Serial Bus is a serial interconnect bus that supports 
+transfer rates up to 480M/bs for a maximum of 127 USB 
+devices. (Please see  USB 2.0) 
+USB Devices 
+USB devices can be:  ‘Hubs’ that provide attachment points 
+for USB; or, ‘Functions’ that provide capabilities to the system, 
+such as an ISDN connection, a digital joystick, a printer, 
+speakers, et cetera. 
+CNLA  
+ 
+ 
+ 
+ 
+Chinese National Laboratory Accreditation 
+USB Host 
+The USB interface to the host computer system is referred to 
+as the Host Controller.  The Host Controller may be 
+implemented in a combination of hardware, firmware or 
+software.  A ‘root hub’ is integrated within the host system to 
+provide one or more attachment points.  Additional 
+information concerning the ‘USB host’ may be found in 
+Section 4.9 and Chapter 10 of the USB Specification USB 2.0. 
+USB Topology 
+The USB connects USB devices with the USB host.  The USB 
+physical interconnection is a tiered star topology.  A ‘hub’ is at 
+the center of each star. Each wire segment is a point-to-point 
+connection between the ‘host’ and a ‘hub’ or ‘function,’ or a 
+‘hub’ connected to another ‘hub’ or ‘function.’ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+4 
+ 
+August 2007 
+ 
+Term 
+Description 
+USB 
+The acronym for Universal Serial Bus.  (Please see Universal 
+Serial Bus.) 
+USB-IF 
+USB Implementers Forum is a nonprofit industry organization 
+made up of original equipment manufacturers (OEMs), 
+component manufacturers and firmware/software developers 
+who are actively involved in the advancement of USB 
+technology.  (Please see http://www.usb.org) 
+ 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+5 
+ 
+2 Management Overview 
+This section is an overview of the contents of this document and provides a brief summary of each of the 
+subsequent sections.  It does not establish any requirements or guidelines. 
+Section 3 describes USB Electrical, Mechanical and Environmental Compliance Standards. 
+Section 4 describes the acceptance testing criteria and test procedures for USB connectorsand fabricated cable 
+assemblies. 
+Section 5 Certification, Acceptance and Submission 
+Appendices: 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+6 
+ 
+August 2007 
+ 
+3 USB Electrical, Mechanical and Environmental Compliance Standards 
+USB cable, connectors and fabricated cable assemblies must meet or exceed the requirements specified by the 
+most current version of Chapter 6 of the USB Specification and applicable Supplements (please see Table 3-1, USB 
+Electrical, Mechanical and Environmental Compliance Standards).  
+ 
+Table 3-1 USB Electrical, Mechanical and Environmental Compliance Standards 
+Test Description 
+Test Procedure 
+Performance Requirement 
+Durability 
+EIA 364-09 
+The object of this test procedure is to 
+detail a uniform test method for 
+determining the effects caused by 
+subjecting a USB connector to the 
+conditioning action of insertion and 
+extraction, simulating the expected life of 
+the connectors.  Durability cycling with a 
+gauge is intended only to produce 
+mechanical stress.  Durability performed 
+with mating components is intended to 
+produce both mechanical and wear 
+stress. 
+1500 cycles 
+5000 cycles for Mini “B” 
+10,000 cycles for Micro series 
+10,000 cycles for ruggedized Standard 
+“A” 
+Cycle rate of 500 cycles per hour if done 
+automatically and 200 if manual cycle 
+Mating Force 
+EIA 364-13 
+The object of this test is to detail a 
+standard method for determining the 
+mechanical forces that are required for 
+inserting a USB connector. 
+35 Newtons maximum at a maximum rate 
+of 12.5 mm (0.492”) per minute. 
+Un-mating Force 
+EIA 364-13 
+The object of this test is to detail a 
+standard method for determining the 
+mechanical forces that are required for 
+extracting a USB connector. 
+10 Newtons minimum at a maximum rate 
+of 12.5 mm (0.492”) per minute.  
+Standard A & B series 
+3 Newtons minimum Mini Series. 
+8 N minimum  at a maximum rate of 12.5 
+mm (0.492”) per minute  for MicroUSB  
+Temperature Life 
+EIA 364-17 
+Test Condition 4 - Method A.   
+The object of this test procedure is to 
+detail a standard method to assess the 
+ability of a USB connector to withstand 
++85º C± 2 temperatures without applied 
+voltage for 500 hours 
+Must meet the minimum requirements 
+specified by the most current version of 
+Chapter 6 of the USB Specification and 
+must be free of cosmetic and/or 
+mechanical imperfections that will prevent 
+normal use. 
+Visual & Dimensional Inspection 
+EIA 364-18 
+Visual, dimensional and functional 
+inspection in accordance with the USB 
+quality inspection plans 
+Must meet the minimum requirements 
+specified by the most current version of 
+Chapter 6 of the USB Specification. 
+Plating thickness of contacts 
+Dielectric  
+Withstanding Voltage 
+EIA 364-20 
+The object of this test procedure is to 
+detail a test method to prove that a USB 
+connector can operate safely at its rated 
+voltage and withstand momentary over 
+potentials due to switching, surges and/or 
+other similar phenomena. 
+The dielectric must withstand 500 VAC 
+for one minute at sea level. 
+100 V AC for Mini/Micro Series. 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+7 
+ 
+Test Description 
+Test Procedure 
+Performance Requirement 
+Insulation Resistance 
+EIA 364-21 
+The object of this test procedure is to 
+detail a standard method to assess the 
+insulation resistance of USB connectors.  
+This test procedure is used to determine 
+the resistance offered by the insulation 
+materials and the various seals of a 
+connector to a DC potential tending to 
+produce a leakage of current through or 
+on the surface of these members. 
+Pre test 
+Standard — 1,000 MΩ minimum. 
+MIcroUSB – 1,000 MΩ minimum 
+Mini Series — 100 MΩ minimum. 
+Post test 
+100 MΩ minimum final. 
+Low Level Contact Resistance 
+EIA 364-23 
+The object of this test is to detail a 
+standard method to measure the 
+electrical resistance across a pair of 
+mated contacts such that the insulating 
+films, if present, will not be broken or 
+asperity melting will not occur. 
+Measurement to use Kelvin 4-wire 
+method. Measurements shall be taken 
+form receptacle terminal to plug terminal.  
+30 mΩ maximum for Standard & 
+MicroUSB (50 mΩ maximum for Mini 
+Series) when measured at 20 mV 
+maximum open circuit at 100 mA.  Mated 
+test contacts must be in a connector 
+housing.   
+Measurements to include Power, Ground, 
+D+ and D- contacts of connector. 
+10 mΩ maximum change for post test 
+LLCR 
+ 
+ 
+Mechanical Shock 
+EIA 364-27 
+Test Condition H 
+The object of this test procedure is to 
+detail a standard method to assess the 
+ability of a USB connector to withstand 
+specified severity of mechanical shock 
+No discontinuities of 1 µS or longer 
+duration when mated USB connectors are 
+subjected to 11 ms duration 30 Gs halfsine shock pulses.  Three shocks in each 
+direction applied along three mutually 
+perpendicular planes for 18 shocks. 
+Random Vibration 
+EIA 364-28 
+Test Condition V Test Letter A 
+This test procedure tests the ability of 
+USB connectors to withstand conditions 
+involving vibration. 
+No discontinuities of 1 µS or longer 
+duration when mated USB connectors are 
+subjected to 5.35 GRMS.  15 minutes in 
+each of three mutually perpendicular 
+planes. 
+Contact Capacitance 
+EIA 364-30 
+The object of this test is to detail a 
+standard method to determine the 
+capacitance between conductive 
+elements of a USB connector. 
+2 pF maximum unmated per contact 
+Humidity Life 
+EIA 364-31 
+Test Condition A Method III 
+The object of this test procedure is to 
+detail a standard test method for the 
+evaluation of the properties of materials 
+used in USB connectors as the effects of 
+high humidity and heat influences them. 
+168 Hours minimum (seven complete 
+cycles).  The USB connectors under test 
+shall be tested in accordance with EIA 
+364-31. 
+Cable Pull-Out 
+EIA 364-38 
+Test Condition A 
+The object of this test procedure is to 
+detail a standard method for determining 
+the holding effect of a USB plug cable 
+clamp without causing any detrimental 
+effects upon the cable or connector 
+components when the cable is subjected 
+to inadvertent axial tensile loads. 
+After the application of a steady state 
+axial load of 40 Newtons for one minute. 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+8 
+ 
+August 2007 
+ 
+Test Description 
+Test Procedure 
+Performance Requirement 
+Solderability 
+EIA 364-52 
+The object of this test procedure is to 
+detail a uniform test method for 
+determining USB connector solderability.  
+The test procedure contained herein 
+utilizes the solder dip technique.  It is not 
+intended to test or evaluate solder cup, 
+solder eyelet, other hand-soldered type or 
+SMT type terminations. 
+USB contact solder tails shall pass 95% 
+coverage after 8-hour steam age. 
+Note: If lead free solder is required, 
+solder temperature is 256º C . 
+Thermal Shock 
+EIA 364-32 
+Test Condition I 
+The object of this test is to determine the 
+resistance of a USB connector to 
+exposure at extremes of high and low 
+temperatures and to the shock of 
+alternate exposures to these extremes, 
+simulating the worst case conditions for 
+storage, transportation and application. 
+10 Cycles –55
+OC and +85
+OC. The USB 
+connectors under test must be mated. 
+There shall be no evidence of damage. 
+Mixed Flowing Gas 
+EIA 364-65 
+Class II A 
+The object of this 10-day (5 days 
+unmated and 5 days mated) test 
+procedure is to produce environmentally 
+related corrosive atmospheres to 
+determine the reaction to plated or unplated surfaces when exposed to different 
+concentrations of flowing industrial gas 
+mixtures.  USB connector evaluation 
+samples should be mated and placed in 
+an environmentally controlled ‘test 
+chamber’ that is monitored by a gas 
+analyzing system for controlled 
+concentrations of the specified gas 
+mixture.  Test coupons shall also be used 
+and the weight gain reported. 
+30 mΩ maximum (50 mΩ maximum for 
+Mini Series) when measured at 20 mV 
+maximum open circuit at 100 mA.  Mated 
+test contacts must be in a connector 
+housing. 10 mΩ maximum change for 
+post test LLCR after 1 durability cycle. 
+Propagation Delay 
+ 
+EIA 364 -103 
+The purpose of the test is to verify the 
+end-to-end propagation of the cable 
+assembly. 
+26ns Maximum 
+200ps rise time see TP for details 
+10ns for Micro-USB due to a maximum 
+cable length of 2 meters  
+Propagation Delay Skew 
+EIA 364 – 103 
+This test ensures that the signal on both 
+the D+ and D- lines of cable assembly 
+arrive at the receiver at the same time. 
+100ps Maximum 
+200ps rise time 
+Attenuation 
+EIA 364 – 101 
+This test ensures a cable assembly can 
+provide adequate signal strength to the 
+receiver in order to maintain a low error 
+rate. 
+-1.90 dB Max   @ 100.0 MHz 
+-3.20 dB Max  @ 200.0 MHz 
+-5.80 dB Max  @ 400.0 MHz 
+Impedance (Differential) 
+EIA 364 – 108 
+This test ensures that the signal 
+conductors of a cable assembly have the 
+proper impedance. 
+Measured 2ns out from the launching 
+connector. 
+76.5 Ω minimum 
+103.5 Ω maximum. 
+200ps rise time 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+9 
+ 
+Test Description 
+Test Procedure 
+Performance Requirement 
+Contact Plating thickness 
+Use of x-ray to measure each layer of 
+contact plating 
+Must meet minimum requirement as 
+defined in the USB 2.0 Specification and 
+Micro-USB specification in the mating 
+zone 
+Cable Assembly Voltage Drop 
+5V nominal at 500mA. 
+125mV max drop across power pair from 
+pin to pin 
+ 
+ 
+Note 1: Impedance, Propagation Delay and Skew Test Fixture.  This fixture will be used with the TDR for 
+measuring the time domain performance of the cable under test.  The fixture impedance should be matched to 
+the equipment, typically 50Ω.  Coaxial connectors should be provided on the fixture for connection from the 
+TDR. 
+Note 2: Attenuation Text Fixture.  This fixture provides a means of connection from the network analyzer to the 
+Series ‘A’ plug.  Since USB signals are differential in nature and operate over balanced cable, a transformer or 
+balun (North Hills NH13734 or equivalent) is ideally used. The transformer converts the unbalanced (also 
+known as single-ended) signal from the signal generator which is typically a 50Ω output, to the balanced (also 
+known as differential) and likely different impedance loading presented by the cable.  A second transformer or 
+balun should be used on the other end of the cable under test to convert the signal back to an unbalanced form of 
+the correct impedance to match the network analyzer. 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+10 
+ 
+August 2007 
+ 
+4 Acceptance Criteria, Test Methods and Test Procedures 
+For a USB connector or fabricated cable assembly product to be listed on the USB-IF Integrators List, the 
+manufacturer must show satisfactory completion of all qualification tests specified in the most current version of 
+the USB Specification and the USB-IF Cable & Connector Class Document. 
+Cable assemblies must implement certified USB connectors in order to submit the cable assembly for certification 
+testing. 
+IMPORTANT NOTICE: Fabricated USB connectors and cable assemblies must successfully pass all inspection 
+procedures and compliance testing at the intervals shown in Table 4-3, Primary Qualification Approval Testing, 
+and Table 4-4, Sustaining Qualification Approval Testing, of the most current version of the USB-IF Cable & 
+Connector Class Document before listing on the USB-IF Integrators List will be granted. 
+4.1 Integrators List (IL) 
+USB-IF maintains a current listing of ‘IL manufacturers and/or fabricators’ who have been authorized to use the 
+trademarked ‘USB logo’ in conjunction with or on their connector and/or fabricated cable assembly products.  
+The USB-IF’s listing of approved manufacturers is periodically updated and is available to all USB-IF member 
+companies. 
+4.2 USB Logo Usage 
+Only products that meet or exceed the compliance test requirements identified in this document at the time of 
+testing are eligible to display the certified logo provided the product vendor has signed the USB IF logo 
+trademark license agreement.  
+4.3 Compliance Test Report 
+The testing laboratory performing the compliance testing will issue a certified test report concisely detailing the 
+tests performed.  The certified test report must contain complete test results (inclusive of the raw data).   Upon 
+completion of compliance testing, the certified laboratory shall be responsible for notifying the USB IF with the 
+products test results.  Upon acceptance of the test results confirming compliance to this document the product 
+will be added to the integrators list. 
+4.4 Connector and Cable Assembly Physical Certification 
+In case of conflict between the requirements of this document and the USB Specification, the most current 
+revision of the USB Specification & applicable USB Supplements shall take precedence.  Unless otherwise 
+specified, all tests shall be performed at the following standard test conditions.  Please check 
+http:compliance.usb.org for the latest updates to the USB-IF Cable and Connector Compliance Program. 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+11 
+ 
+ 
+Table 4-1  Standard Test Conditions 
+Temperature 
+15
+O C to 35
+O C 
+Air Pressure 
+86 to 106 kPa 
+Relative Humidity 
+25% to 85% 
+ 
+ 
+Table 4-2  Performance Levels 
+Performance 
+Level 
+EIA 
+Certification 
+Temperature 
+Degrees C 
+Humidity 
+% RH 
+Marine 
+Atmosphere 
+Harsh 
+Environment 
+1 
+G1.1 
+25
+O C to 65
+O C 
+40% to 75% 
+No 
+No 
+Note: Testing details are described in paragraphs 4.7 and 4.8. 
+4.5 General Information 
+This document shows minimum compliance tests to be performed, the order in which they shall be performed 
+and the performance requirements for each test.   
+4.5.1 Mated Pairs 
+Mated pairs will consist of one USB Receptacle and USB Plug and will be tested as such unless otherwise 
+specified.  Typically in most tests, the USB Receptacle is ‘fixed’ and the USB Plug is ‘free.’  Each ‘receptacle’ and 
+‘plug’ shall be clearly and individually identified. 
+Note:   ‘Mated connectors’ MUST remain together for the duration of the testing sequence.  For example, when 
+‘un-mating’ is required by a test, the same ‘receptacle and plug pair’ as before shall be mated for the subsequent 
+tests. 
+4.5.2 Before Testing 
+Before testing commences, the specimens shall have been stored for at least 24 hours in the non-inserted state 
+under standard test conditions, unless otherwise specified. 
+4.5.3 Test Sequences 
+In the following test sequence tables, where an EIA test is specified without a letter suffix, the latest approved 
+revision of that test shall be used. 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+12 
+ 
+August 2007 
+ 
+4.6 Sample Selection 
+The samples to be tested for USB Certification shall be from a production run of the product. 
+All acceptance tests shall be performed on the minimum number of samples specified in the appropriate table 
+unless otherwise specified. 
+IMPORTANT Note:  All compliance testing will be performed at the manufacturer’s expense by a certified 
+laboratory.  The certified laboratory shall have direct traceability to a recognized standards organization, e.g., 
+A2LA. 
+4.7 USB Compliance Testing Interval 
+Once a connector or cable assembly has been certified it remains certified for the life of the product.  However, 
+any change to the materials, configuration or dimensions will void certification of that product.  Any 
+modification of the manufacturing process (except for routine maintenance of equipment) will void the 
+certification.   
+4.8 Primary Qualification Approval Testing 
+The following number of specimens shall be subjected to the tests under the conditions as specified in Sections 
+4.4.1 (Environmental), 4.4.2 (Electrical) and 4.4.3 (Mechanical). 
+ 
+Table 4-3  Primary Qualification Approval Testing 
+Number of Specimens 
+Performance Level 1 
+Test 
+Procedure 
+Connectors 
+Cable Assembles 
+Number of Permitted Defects 
+Inspection 
+40 
+25 
+0 
+1 
+8 
+8 
+0 
+2 
+8 
+n/a 
+0 
+3 
+8 
+n/a 
+0 
+4 
+5 
+n/a 
+0 
+5 
+5 
+n/a 
+0 
+6 
+n/a 
+5 
+0 
+7 
+3 
+n/a 
+0 
+8 
+n/a 
+8 
+0 
+Primary Qualification Approval Testing Notes: 
+1. Critical Dimension Inspection of some connectors may require destructive disassembly of the part for 
+complete dimensional inspection. 
+2. The vendor is responsible for providing additional plugs (as specified by the test lab) with a cable of 
+200mm (or greater length) properly terminated for the test lab’s setup fixtures. 
+3. Plugs designed for PCB mounting (e.g. USB flash memory drives) should be supplied with PCBs not 
+mounted. 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+13 
+ 
+4. The vendor is responsible for providing additional receptacles (as specified by the test lab) properly 
+mounted on a printed circuit board for the test lab’s setup fixtures. 
+5. The USB-IF may require an inter-mate connector test using Certified USB connectors from other 
+manufacturers 
+4.9 Sustaining Qualification Approval Testing 
+USB IF does not require vendors to re-qualify certified products.  Please see section 4.7 
+4.10 Compliance Test Sequences 
+The following tests shall be performed in the sequence shown. 
+4.10.1 Inspection EIA 364-18 
+Visual and Dimensional Inspection and Test Group 7 Critical Dimension Inspection 
+Because of the inspection criteria similarities between these groups and the fact that data may be collected 
+during inspections that can halt the subsequent test requirements, it is recommended they be conducted 
+concurrently.  Representative specimens should be subjected to the following tests to verify that a USB connector 
+and/or cable assembly demonstrates sufficient product integrity to be processed through the remaining product 
+acceptance test procedures 1 through 8. 
+4.10.1.1 Visual Inspection 
+The laboratory conducting the compliance testing is required to 100% visually inspect each lot of sample parts 
+for obvious mechanical defects.  Prohibited cable assemblies or connectors are not eligible for certification.  
+Vendors should be informed of non-compliant configurations. 
+4.10.1.1.1 Connector 
+The number of contacts for the standard series USB connectors is four.  Mini series and micro series USB 
+connectors have five contacts.  USB connectors with more or less contacts than those defined by the USB 2.0 
+Specification are not compliant and are not eligible for certification.  The laboratory conducting the compliance 
+testing is required to visually verify the number of contacts implemented in the connector. 
+No two contacts of a USB connector are permitted to be interconnected with the exception of the ID pin and 
+ground of the micro A-series plug (pins 4 and 5). 
+4.10.1.1.2 Cable Assemblies 
+The cable construction for standard detachable USB cable assemblies is to be visually verified. Cable 
+construction must contain a braided outer shield and a metallic inner shield.  A drain wire of 28 AWG must be in 
+contact with both shields.  Cables must contain two data-lines of 28 AWG, and a power pair of 28 AWG to 20 
+AWG.  Power pairs smaller than 28 AWG are prohibited.  The laboratory conducting the compliance testing is 
+required to visually verify the construction of the cable. 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+14 
+ 
+August 2007 
+ 
+Cable assemblies for low-speed USB applications are not eligible for certification. 
+Bulk cable is not eligible for USB certification. 
+The cable assembly length shall be measured from the end of one connector to the end of the other connector. 
+Cable assemblies with Standard-series plugs at both ends are limited to 5m. Cables assemblies with a Mini-B 
+plug and Standard-A plug are limited to 4.5m. Cable assemblies with any Micro-series plugs are limited to 2m. 
+The Standard A receptacle to Micro-A plug adapters are limited to 150mm. 
+4.10.1.2 Dimensional Inspection 
+Plating thickness measurement shall be the first measurement.  Upon failure, testing will stop.  See Group 7 
+The laboratory conducting the compliance testing will measure and record critical dimensions. 
+Important Note: Critical dimension and physical inspection may require the destructive physical analysis of a 
+minimum of three samples.  When performing this procedure the testing laboratory must verify Series ‘A’, ‘B’, 
+Micro Series Connectors.  USB cable assemblies submitted for compliance testing are required to use certified 
+connectors. The Go/No-go gauge test is used in lieu of a critical dimension test for Mini-B plugs and receptacles. 
+Micro Series plugs and receptacles will use Go/No-go gauges to confirm all interface critical dimensions and 
+will undergo physical measurement of all latch-related critical dimensions.  
+4.10.2 Test Group ‘1’ 
+Table 4-4 
+Test Group '1' Durability, Vibration, Shock, Cable Retention and Mating/Un-mating Force 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+1-1 
+Mating Force 
+13 
+Measure force to 
+mate at a rate of 
+12.5 mm per minute 
+maximum 
+ 
+ 
+1 
+35 Newtons maximum 
+Tolerance +-0.1N 
+1-2 
+Low Level 
+contact 
+resistance 
+ 
+20 mV maximum 
+open circuit at 100 
+mA maximum 
+Contact 
+Resistance 
+23 
+1 
+Standard/Micro-USB – ≤30 mΩ
+Mini series – ≤50 mΩ 
+maximum initial resistance 
+Tolerance +-0.1 mΩ 
+4-wire Kelvin 
+All contacts measured 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+15 
+ 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+1-3 
+Durability 
+09 
+1500 cycles 
+5000 cycles for Mini 
+“B” 
+10,000 cycles for 
+Micro series 
+10,000 cycles for 
+ruggedized Standard 
+“A” 
+Cycle rate of 500 
+cycles per hour max. 
+ 
+ 
+1 
+No physical damage and shall 
+meet requirements of 
+subsequent tests. 
+1-4 
+Shock 
+27 
+30g 6ms ½ sine 6 
+axes 
+Continuity 
+87 
+1 
+No contact chatter greater than 
+1.0 microsecond 
+Detection via current change 
+1-5 
+Vibration 
+28 
+5.35 GRMS for 15 
+minutes in each of 
+three mutually 
+perpendicular planes 
+Continuity 
+87 
+1 
+No contact chatter greater than 
+1.0 microsecond 
+Detection via current change 
+1-6 
+Low Level 
+contact 
+resistance 
+ 
+Same as 1-2 
+Contact 
+Resistance 
+23 
+1 
+∆R +10 mΩ maximum final. 
+Tolerance +-0.1 mΩ 
+4-wire Kelvin 
+All contacts measured. 
+1-7 
+Un-mating 
+Force 
+13 
+Measure force to unmate at a rate of 
+12.5mm per minute 
+maximum. 
+ 
+ 
+1 
+Standard series – 10 Newtons 
+minimum 
+Mini series – 3 Newtons 
+minimum. 
+Micro series – 8 Newtons 
+minimum 
+Tolerance +-0.1N 
+1-8 
+Cable Pull Out 
+38b 
+Apply steady state 
+axial load to the 
+cable for one minute. 
+ 
+ 
+ 
+40 Newtons Minimum  
+(cable assembly shall have no 
+electrical discontinuity and 
+cable shall have no 
+mechanical separation from 
+connector.) 
+ 
+1-9 
+General 
+Examination 
+ 
+Unmated connectors 
+Visual & 
+Dimensional 
+Inspection 
+18 
+1 
+There shall be no defects that 
+would impair normal 
+operations. 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+16 
+ 
+August 2007 
+ 
+Figure 4-1 – Typical Contact Resistance Measurement 
+ 
+ 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+17 
+ 
+4.10.3 Test Group ‘2’ 
+Table 4-5 
+Test Group '2' Temperature Life 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+2-1 
+Low Level 
+contact 
+resistance 
+ 
+20 mV max. open 
+circuit at 100 mA 
+maximum, see 
+Figure 4-1. 
+Contact 
+Resistance 
+(signal contact) 
+23 
+1 
+Standard/Micro – 30 mΩ 
+Mini series – 50 mΩ 
+maximum initial resistance. 
+2-2 
+Temperature 
+Life 
+17 
++85
+OC for 500 hours 
+mated 
+ 
+ 
+1 
+No physical damage and shall 
+meet requirements of 
+subsequent tests. 
+2-3 
+Low Level 
+contact 
+resistance 
+ 
+Same as 2-1 
+Contact 
+Resistance 
+(signal contact) 
+23 
+1 
+∆R +10 mΩ maximum final. 
+2-4 
+General 
+Examination 
+ 
+Unmated connectors 
+Visual & 
+Dimensional 
+Inspection 
+18 
+1 
+There shall be no defects that 
+would impair normal 
+operations. Dimensions shall 
+comply with the most current 
+version of the USB 
+Specification 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+18 
+ 
+August 2007 
+ 
+4.10.4 Test Group ‘3’ 
+Table 4-6  
+Test Group '3' Mixed Flowing Gas 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+3-1 
+Low Level 
+contact 
+resistance 
+ 
+20 mV maximum 
+open circuit at 100 
+mA maximum, see 
+figure 4-1. 
+Contact 
+Resistance 
+(Signal 
+Contact) 
+23 
+1 
+Standard/Micro – 30 mΩ 
+Mini series – 50 mΩ 
+maximum initial resistance. 
+3-2 
+Mixed Flowing 
+Gas 
+65 
+Class IIA for 5 days 
+Unmated 
+ 
+ 
+1 
+No physical damage. 
+3-3 
+Low Level 
+contact 
+resistance 
+ 
+20 mV maximum 
+open circuit at 100 
+mA maximum, see 
+figure 4-1. 
+Contact 
+Resistance 
+(Signal 
+Contact) 
+23 
+1 
+After 1 mating/unmating cycle, 
+report values. 
+Step 3-3 Information only 
+3-4 
+Mixed Flowing 
+Gas 
+65 
+Class IIA for 5 days 
+Mated 
+ 
+ 
+1 
+No physical damage. 
+3-5 
+Low Level 
+contact 
+resistance 
+ 
+20 mV maximum 
+open circuit at 100 
+mA maximum, see 
+figure 4-1. 
+Contact 
+Resistance 
+(Signal 
+Contact) 
+23 
+1 
+∆R +10 mΩ maximum final 
+after 1 mating/unmating cycle. 
+3-6 
+General 
+Examination 
+ 
+Unmated connectors 
+Visual & 
+Dimensional 
+Inspection 
+18 
+1 
+There shall be no defects that 
+would impair normal 
+operations. Dimensions shall 
+comply with the most current 
+version of the USB 
+Specification 
+ 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+19 
+ 
+4.10.5 Test Group ‘4’ 
+Table 4-7 Test Group '4' Insulation Resistance, Dielectric Withstanding Voltage, Thermal Shock & Humidity 
+Temperature Cycling 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+4-1 
+Capacitance 
+30 
+Test between 
+adjacent contacts 
+unmated connector 
+at 1 KHz. 
+ 
+ 
+1 
+2 pF maximum 
+4-2 
+ 
+ 
+500 VDC for two 
+minutes maximum, 
+or until stabilized, 
+mated. 
+Insulation 
+Resistance 
+21 
+1 
+Standard/Micro – 1000 MΩ 
+Mini series – 100 MΩ 
+minimum. 
+4-3 
+ 
+ 
+500 VAC (100 VAC 
+for Mini/Micro series) 
+at sea level for one 
+minute mated. 
+Withstanding 
+Voltage 
+20 
+1 
+No breakdown or flashover. 
+4-4 
+Thermal Shock 
+32 
+-55
+OC to +85
+OC, 15 
+minutes at each 
+temperature, and 10 
+cycles, mated. 
+ 
+ 
+1 
+No physical damage and shall 
+meet requirements of 
+subsequent tests. 
+4-5  
+HumidityTemperature 
+Cycling 
+31 
+25
+OC and 65
+OC at 
+95% RH, seven 
+cycles, mated. 
+ 
+ 
+1 
+No physical damage and shall 
+meet requirements of 
+subsequent tests. 
+4-6 
+ 
+ 
+500 VDC for two 
+minutes maximum, 
+or until stabilized, 
+mated. 
+Insulation 
+Resistance 
+21 
+1 
+100 MΩ final. 
+4-7 
+ 
+ 
+500 VAC (100 VAC 
+for Mini/Micro series) 
+at sea level for one 
+minute mated. 
+Withstanding 
+Voltage 
+20 
+1 
+No breakdown or flashover. 
+4-8 
+General 
+Examination 
+ 
+Unmated connectors 
+Visual & 
+Dimensional 
+Inspection 
+18 
+1 
+There shall be no defects that 
+would impair normal 
+operations. Dimensions shall 
+comply with the most current 
+version of the USB 
+Specification 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+20 
+ 
+August 2007 
+ 
+4.10.6 Test Group ‘5’ 
+Table 4-8 
+Test Group '5' Solderability 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+5-1 
+Solderability 
+52 
+Category 3  Steam 
+Age RMA Class 1 
+flux immerse in 
+molten solder at a 
+temperature of 
++245
+OC ± 5
+OC 
+(+473
+OF ± 9
+OF) at 
+rate of 25.4 mm ± 
+6.35 mm (1.00 in ± 
+0.25 in) per second, 
+hold in solder for 5 
++0/-0.5 seconds 
+To include solder 
+pins and mounting 
+pads. 
+ 
+ 
+1 
+Solderable area shall have a 
+minimum of 95% solder 
+coverage. 
+For lead free solder pot 
+temperature shall be +255
+OC ± 
+5
+OC 
+5-2 
+General 
+Examination 
+ 
+Unmated connectors 
+Visual & 
+Dimensional 
+Inspection 
+18 
+1 
+There shall be no defects that 
+would impair normal 
+operations. Dimensions shall 
+comply with the most current 
+version of the USB 
+Specification 
+4.10.7 Test Group ‘6’ 
+Table 4-9 
+Test Group '6' High Frequency Testing 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+6-1 
+Cable 
+Impedance 
+108 
+200 ps rise time 
+ 
+ 
+ 
+76.5 Ω minimum 
+103.5 Ω maximum. 
+6-2 
+Signal Pair 
+Attenuation 
+101 
+100 to 400 MHz 
+ 
+ 
+ 
+See Addenda C 
+6-3 
+Propagation 
+Delay 
+103 
+200 ps rise time 
+ 
+ 
+ 
+26ns maximum 
+10 ns maximum for Micro 
+6-4 
+Propagation 
+Delay Skew 
+103 
+200 ps rise time 
+ 
+ 
+ 
+100ps maximum 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+21 
+ 
+4.10.8 Test Group ‘7’ 
+Table 4-10 
+Test Group '7' Critical Dimensions 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+7-1 
+Critical 
+Dimensions 
+18 
+ 
+ 
+ 
+ 
+See Addenda B 
+Resolution +-1micrometer 
+ 
+7-2 
+Plating 
+thickness 
+ 
+Per USB2.0 chapter 
+6 for details for 
+standard and Mini 
+series and the MicroUSB specification for 
+Micro series 
+ 
+ 
+ 
+Performed first. 
+Use of X-ray to determine 
+thickness of contacts. 
+4.10.9 Test Group ‘8’ 
+Table 4-11 
+Test Group '8' Cable 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+8-1 
+Voltage drop 
+USB 
+2.0 
+5V nominal at 
+500mA. c 
+ 
+ 
+ 
+ 
+125mV max drop  across 
+power pair from pin to pin 
+ 
+8-2 
+Cable Flex 
+41 
+x-3.7 cable diameter
+100 cycles 2 planes 
+120 degree arc 
+ 
+ 
+ 
+No loss of continuity during 
+cycling 
+8-3 
+4-Axis 
+Continuity 
+n/a 
+Applicable to cable 
+assemblies with 
+micro USB plugs 
+only.  Tested as 
+mated connectors 
+Pull of 8N 
+perpendicular to 
+connection at 0, 90, 
+180 and 270 
+degrees, 10 seconds 
+duration at each axis 
+Verify electrical 
+continuity of all pin 
+contacts at each axis 
+Test jig defined 
+in Appendix D. 
+n/a 
+ 
+No contact chatter greater than 
+1.0 microsecond during 10 
+seconds at each axis 
+8-4 
+ 
+ 
+500 VAC (100 VAC 
+for Mini/Micro series) 
+at sea level for one 
+minute mated. 
+Withstanding 
+Voltage 
+20 
+1 
+No breakdown or flashover. 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+22 
+ 
+August 2007 
+ 
+Test 
+Measurement 
+To Be Performed 
+Test 
+Phase 
+Title 
+EIA 
+364 
+Test 
+Severity or 
+Condition of Test 
+Title 
+EIA 
+364 
+Test 
+P1 
+Common 
+Requirements 
+8-5 
+Visual 
+Inspection 
+ 
+ 
+Cable 
+Construction 
+ 
+ 
+Existence of braided shield 
+attached to shell of connector 
+Existence of 28 gauge drain 
+wire in contact with shield and 
+attached to shell of connector 
+Power lines 28gauge minimum 
+Data lines 28 gauge twisted 
+* Note: Standard detachable cable assemblies only.  Flat cables are prohibited for standard detachable cable 
+assemblies.   
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+23 
+ 
+5 Certification Acceptance and Submission 
+Manufacturers of USB cable, connectors and/or fabricated cable assemblies desiring to have a product or 
+products listed on the USB Implementers’ Forum (USB-IF)  Integrators List (IL) are required to submit ‘certified 
+proof’ that their USB product meets or exceeds the performance requirements specified in Chapter 6 of the most 
+current version of the USB Specification and this document.  Certified proof of compliance shall be in the form of 
+a Compliance Test Report (CTR) completed by an A2LA /CNLA or equivalent certified testing laboratory per 
+IEC/ISO 17025. 
+5.1 Compliance Test Report 
+Upon successful completion of the compliance testing, the certified laboratory performing the specified tests will 
+issue formal compliance test report. This confidential report will only be available to the manufacturer, test 
+laboratory submitting the report and USB-IF Administration. 
+5.2 Listing, Authorization and Notification 
+5.2.1 Listing 
+Upon successful completion of the voluntary compliance testing, the certified laboratory performing the 
+specified tests will provide the USB IF Administration the test results. Upon approval by the USB IF 
+Administration of the test results, the product (s) will be added to the integrators list.  The manufacturer has the 
+option whether to display their certified products via the integrators list to the USB IF membership. 
+5.2.2 Authorization to use Certified USB Logo 
+Products that are listed on the USB IF Integrators List may use the Certified USB Logo provided that the 
+manufacturer has agreed to and signed the USB IF Logo Trademark License Agreement.  Possession of a TID 
+does not indicate that a product is certified.  Only products that are listed on the integrators list are certified. 
+If a manufacturer wishes to use the trademarked ‘USB logo’ on more than one USB product, each product 
+displaying the ‘USB logo’ must have successfully completed the Voluntary Compliance Testing Program, must 
+have a TID assigned by USB-IF, and have each product listed on the integrators list. 
+Only upon receiving official USB-IF Notification the manufacturer may emboss the ‘USB logo’ on the listed 
+product. 
+5.2.3 Notification 
+The manufacturer of record will be notified by E-mail that their product has been listed. 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+24 
+ 
+August 2007 
+ 
+Appendices 
+This specification has been developed as a ‘living document.’  In order to provide system engineers and 
+designers the most current USB cable and connector information, USB-IF Device Working Group members may 
+from time to time choose to add additional useful information to this document, e.g., product drawings for new 
+USB industry standards, listings of international laboratories capable of performing approval testing, et cetera.   
+A 
+Testing by Similarity – General Guidelines 
+USB Connector Test Requirements 
+Qualification by Similarity Schedule 
+USB Receptacles Style A, B 
+Test Parameters 
+Style 
+‘A’ thru 
+hole 
+Style 
+‘A’ 
+SMT 
+Style 
+‘A’ 
+(2) 
+high 
+Style 
+‘A’ 
+(3) 
+high 
+Style 
+‘A’ 
+(4) 
+high 
+Style 
+‘A’ 
+Verti 
+-TH  S 
+Style 
+‘A’ 
+flag 
+Style 
+‘B’ thru 
+hole 
+Style 
+‘B’ 
+SMT 
+Style 
+‘B’ 
+Verti 
+-TH  S 
+1 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+2 
+X 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+X 
+X 
+3 
+X 
+ 
+X 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+4 
+X 
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+5 
+X 
+X 
+X 
+X 
+X 
+ 
+ 
+ 
+X 
+X 
+ 
+ 
+Group 
+7 
+X 
+ 
+X 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+Group 1   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Mating & Unmating forces 
+ 
+TP 364-13B 
+Low Level Contact Resistance 
+TP 364-23 
+Durability  
+ 
+ 
+TP 364-09 
+Random Vibration  
+ 
+TP 364-28 
+Physical Shock 
+ 
+ 
+TP 364-27 
+Group 2   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Low Level Contact Resistance 
+TP 364-23 
+Temperature Life 
+ 
+ 
+TP 364-17 
+Group 3   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Low Level Contact Resistance 
+TP 364-23 
+Mate/unmate (1) cycle 
+Mixed Flowing Gas  
+ 
+TP 364-65 
+Group 4   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Capacitance 
+ 
+ 
+TP 364-30 
+Insulation Resistance 
+ 
+TP 364-21 
+Dielectric Withstanding Voltage 
+TP 364-20 
+Thermal Shock 
+ 
+ 
+TP 364-32 
+Group 5   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Solderability  
+ 
+ 
+TP 364- 
+Group 7   
+EIA Test Procedures 
+Critical Dimensions  
+ 
+TP 364-18 
+Plating thickness 
+ 
+Note: Any change in design, materials or process will require a full re-qualification of the connectors. 
+ 
+USB Connector Test Requirements 
+Qualification by Similarity Schedule 
+USB Receptacles Style Mini /Micro B and Micro AB 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+25 
+ 
+Test Parameters 
+Style ‘A’ 
+SMT 
+Style ‘A’ 
+thru hole 
+Style ‘B’ 
+SMT 
+Style ‘B’ 
+thru hole 
+Style ‘AB’ 
+SMT 
+Style ‘AB’ 
+thru hole 
+1 
+X 
+X 
+X 
+X 
+X 
+X 
+2 
+ 
+ 
+X 
+ 
+ 
+ 
+3 
+ 
+ 
+X 
+ 
+ 
+ 
+4 
+ 
+ 
+X 
+ 
+ 
+ 
+5 
+ 
+ 
+X 
+ 
+ 
+ 
+Group 
+7 
+X 
+X 
+X 
+X 
+X 
+X 
+Group 1   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Mating & Unmating forces 
+ 
+TP 364-13B 
+Low Level Contact Resistance 
+TP 364-23 
+Durability  
+ 
+ 
+TP 364-09 
+Random Vibration  
+ 
+TP 364-28 
+Physical Shock 
+ 
+ 
+TP 364-27 
+Group 2   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Low Level Contact Resistance 
+TP 364-23 
+Temperature Life 
+ 
+ 
+TP 364-17 
+Group 3   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Low Level Contact Resistance 
+TP 364-23 
+Mating/Unmating (1) cycle 
+Mixed Flowing Gas  
+ 
+TP 364-65 
+Group 4   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Capacitance 
+ 
+ 
+TP 364-30 
+Insulation Resistance 
+ 
+TP 364-21 
+Dielectric Withstanding Voltage 
+TP 364-20 
+Thermal Shock 
+ 
+ 
+TP 364-32 
+Group 5   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Solderability  
+ 
+ 
+TP 364- 
+ 
+Group 7   
+EIA Test Procedures 
+Critical Dimensions  
+ 
+TP 364-18 
+ 
+ 
+ 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+26 
+ 
+August 2007 
+ 
+ 
+USB Cable Assembly Test Requirements 
+Qualification by Similarity Schedule 
+USB Cable Assemblies Style A to B 
+and 
+Style A to Mini B, Style A to Micro B 
+Test Parameters 
+Style ‘A’ to 
+‘B’ SDR 
+Style ‘A’ to 
+‘B’ Crimp 
+Style ‘A’ to 
+Mini Series 
+SDR  
+Style ‘A’ to 
+Mini ‘B’ 
+Crimp 
+Style Mini 
+‘A’ to Mini 
+Series SDR  
+Style Mini 
+‘A’ to Mini 
+Series 
+Crimp 
+1 
+X 
+X 
+X 
+X 
+X 
+X 
+6 
+X 
+X 
+X 
+X 
+X 
+X 
+Group 
+8 
+X 
+X 
+X 
+X 
+X 
+X 
+Group 1   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Mating & Unmating forces 
+ 
+TP 364-13B 
+Low Level Contact Resistance 
+TP 364-23 
+Durability  
+ 
+ 
+TP 364-09 
+Random Vibration  
+ 
+TP 364-28 
+Physical Shock 
+ 
+ 
+TP 364-27 
+Low Level Contact Resistance 
+TP 364-23 
+Mating & Unmating forces 
+ 
+TP 364-13B 
+Cable Pullout 
+ 
+ 
+TP 364-38A 
+ Visual Examination  
+ 
+TP 364-18 
+Group 6   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+Impedance 
+ 
+ 
+TP 364-108 
+Attenuation 
+ 
+ 
+TP 364-101 
+Propagation Delay  
+ 
+TP 364-103 
+Propagation Delay Skew 
+ 
+TP 364-103 
+Visual Examination  
+ 
+TP 364-18 
+ 
+Capacitance                                            TP 364-30 
+ 
+Group 8   
+EIA Test Procedures 
+Visual Examination  
+ 
+TP 364-18 
+ 
+Voltage drop 
+Cable Flex 
+ 
+ 
+TP 364-41B 
+Visual Examination  
+ 
+TP 364-18 
+Note 1: If qualification is completed on cables of maximum length, then all cables of similar design with only a shorter length are 
+qualified by similarity. 
+Note 2: If ALL connectors used are on the integrators list, no additional connector qualifications are required on the cable 
+assemblies. 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+27 
+ 
+B 
+Critical Dimensions  
+USB 2.0 Group 7  - Standard  “A” PLUG 
+ 
+All Values are in Millimeters 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+28 
+ 
+August 2007 
+ 
+USB 2.0 Group 7  - Standard “A” Receptacle 
+ 
+All Values are in Millimeters 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+29 
+ 
+USB 2.0 Group 7  - Standard “B” PLUG 
+ 
+All Values are in Millimeters 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+30 
+ 
+August 2007 
+ 
+USB 2.0 Group 7  - Standard “B” RECEPTACLE 
+ 
+All Values are in Millimeters 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+31 
+ 
+USB 2.0 Group 7  - MINI “B” PLUG 
+USB 2.0 Group 7  - MINI “B” RECEPTACLE 
+USB-IF will provide Go/No-go gauges for dimensional analysis 
+ 
+ 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+32 
+ 
+August 2007 
+ 
+USB 2.0 Group 7 – Micro-USB A-Plug 
+ 
+ 
+ 
+ 
+ 
+ 
+Description 
+ 
+Dimension 
++ tolerance 
+- tolerance 
+Plug width 
+A 
+6.85 
+0.02 
+-0.06 
+Plug height 
+B 
+1.8 
+0.02 
+-0.08 
+Plastic width 
+C 
+3.6 
+n/a 
+0 
+Plastic height 
+D 
+0.85 
+n/a 
+0 
+Latch separation 
+E 
+4.75 
+0.05 
+-0.05 
+Latch width 
+F 
+0.4 
+0.05 
+-0.05 
+Latch height 
+G 
+0.4 
+n/a 
+0 
+Latch recess 
+J 
+1.05 
+n/a 
+0 
+Latch recess 
+‡ 
+2.8 
+0 
+n/a 
+Pin 1 - 5 separation 
+H 
+2.6 
+0.05 
+-0.05 
+Pin 2 - 4 separation 
+I 
+1.3 
+0.05 
+-0.05 
+ 
+ 
+ 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+33 
+ 
+USB 2.0 Group 7 – Micro-USB B-Plug 
+ 
+Description 
+ 
+Dimension 
++ tolerance 
+- tolerance 
+Plug width 
+A 
+6.85 
+0.02 
+-0.06 
+Plug height 
+B 
+1.8 
+0.02 
+-0.08 
+Plastic width 
+C 
+3.6 
+n/a 
+0 
+Plastic height 
+D 
+0.85 
+n/a 
+0 
+Shell bevel 
+K 
+5.3 
+0.02 
+-0.08 
+Shell bevel 
+L 
+1.03 
+0.02 
+-0.08 
+Latch separation 
+E 
+4.75 
+0.05 
+-0.05 
+Latch width 
+F 
+0.4 
+0.05 
+-0.05 
+Latch height 
+G 
+0.4 
+n/a 
+0 
+Latch recess 
+J 
+1.05 
+n/a 
+0 
+Latch recess 
+‡ 
+2.8 
+0 
+n/a 
+Pin 1 - 5 separation 
+H 
+2.6 
+0.05 
+-0.05 
+Pin 2 - 4 separation 
+I 
+1.3 
+0.05 
+-0.05 
+ 
+ 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+34 
+ 
+August 2007 
+ 
+USB 2.0 Group 7 – Micro-USB B-Receptacle 
+ 
+ 
+ 
+ 
+ 
+Description 
+ 
+Dimension 
++ tolerance 
+- tolerance 
+Rece inside width 
+M 
+6.9 
+0.06 
+-0.02 
+Rece inside height -Left 
+N 
+1.85 
+0.08 
+-0.02 
+Rece inside height -Right 
+N 
+1.85 
+0.08 
+-0.02 
+Plastic width 
+C 
+3.5 
+0 
+n/a 
+Plastic height 
+X 
+0.6 
+0.04 
+-0.04 
+Plastic from shell 
+U 
+0.22 
+n/a 
+0 
+Contacts from plastic 
+P 
+0.48 
+0.05 
+0 
+Shell inside bevel 
+Q 
+5.4 
+0.05 
+-0.05 
+Shell inside bevel -Left 
+R 
+1.1 
+0.05 
+-0.05 
+Shell inside bevel -Right 
+R 
+1.1 
+0.05 
+-0.05 
+Latch separation 
+S 
+4.75 
+0.05 
+-0.05 
+Latch width -Left 
+T 
+0.6 
+n/a 
+0 
+Latch width -Right 
+T 
+0.6 
+n/a 
+0 
+Latch recess 
+V 
+1.05 
+0.2 
+-0.2 
+Latch recess 
+W 
+2.55 
+0.1 
+-0.1 
+Latch height 
+Y 
+0.56 
+0 
+-0.15 
+Latch Angle 
+Z 
+60 
+ 
+ 
+Pin 1 - 5 separation 
+H 
+2.6 
+0.05 
+-0.05 
+Pin 2 - 4 separation 
+I 
+ 
+1.3 
+ 
+0.05 
+-0.05 
+Contacts width 
+# 
+0.37 
+0.1 
+0 
+ 
+ 
+T
+S 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+35 
+ 
+USB 2.0 Group 7 – Micro-USB B-Receptacle, Continued 
+ 
+ 
+M
+Z
+I
+R
+H
+Q 
+(INTER SECTION) 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+36 
+ 
+August 2007 
+ 
+USB 2.0 Group 7 – Micro-USB B-Receptacle, Continued 
+ 
+ 
+W 
+V
+Z
+Y
+P
+P
+U 
+C 
+X 
+# 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+37 
+ 
+USB 2.0 Group 7 – Micro-USB AB-Receptacle 
+Description 
+ 
+Dimension
++ tolerance 
+- tolerance 
+Rece inside width 
+M 
+6.9 
+0.06 
+-0.02 
+Rece inside height -Left 
+N 
+1.85 
+0.08 
+-0.02 
+Rece inside height -Right 
+N 
+1.85 
+0.08 
+-0.02 
+Plastic width 
+C 
+3.5 
+0 
+n/a 
+Plastic height 
+X 
+0.6 
+0.04 
+-0.04 
+Plastic from shell 
+U 
+0.22 
+n/a 
+0 
+Contacts from plastic 
+P 
+0.48 
+0.05 
+0 
+Latch separation 
+S 
+4.75 
+0.05 
+-0.05 
+Latch width -Left 
+T 
+0.6 
+n/a 
+0 
+Latch width -Right 
+T 
+0.6 
+n/a 
+0 
+Latch recess 
+V 
+1.05 
+0.2 
+-0.2 
+Latch recess 
+W 
+2.55 
+0.1 
+-0.1 
+Latch height 
+Y 
+0.56 
+0 
+-0.15 
+Latch Angle 
+Z 
+60 
+ 
+ 
+Pin 1 - 5 separation 
+H 
+2.6 
+0.05 
+-0.05 
+Pin 2 - 4 separation 
+I 
+1.3 
+0.05 
+-0.05 
+Contacts width 
+# 
+0.37 
+0.1 
+0 
+ 
+ 
+ 
+ 
+S 
+T
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+38 
+ 
+August 2007 
+ 
+USB 2.0 Group 7 – Micro-USB AB-Receptacle, Continued 
+ 
+ 
+P
+U 
+C 
+X 
+# 
+P 
+Y 
+W 
+V
+Z 
+
+Revision 2.0 
+ 
+Cables and Connectors Class Document 
+August 2007 
+ 
+39 
+ 
+C 
+Attenuation Table 
+The signal pair attenuation shall not be more than the values shown for the test frequencies in the table below. 
+Frequency MHz 
+Attenuation (Maximum) dB/cable ±10% 
+12.00 
+-0.67 
+24.00 
+-0.95 
+48.00 
+-1.35 
+96.00 
+-1.90 
+200.00 
+-3.20 
+400.00 
+-5.80 
+ 
+
+Cables and Connectors Class Document 
+ 
+Revision 2.0 
+40 
+ 
+August 2007 
+ 
+D 
+4-Axis Continuity Test 
+Micro Series plugs and cables with Micro Series plugs shall be tested for continuity under stress using the test 
+configuration shown below.  Plugs must be supplied in a cable assembly with a representative overmold. A 
+Micro-AB receptacle shall be mounted on a 2-layer fiberglass printed circuit board of between 0.8 and 1.0 mm 
+thickness. The PC board shall be clamped on either side of the receptacle no further than 5mm away from the 
+solder tails. The PC board shall initially be placed in a horizontal plane, and an 8-Newton tensile force shall be 
+applied to the cable in a downward direction, perpendicular to the axis of insertion, for a period of at least 10 
+seconds. The continuity across each of the 5 contacts shall be measured throughout the application of the tensile 
+force. The circuit board shall then be rotated 90 degrees such that the cable is still inserted horizontally and the 8Newton tensile force will be applied again in the downward direction and continuity measured as before. This 
+test will be repeated for 180 and 270 degree rotations. Passing cables will exhibit no discontinuities of greater 
+than 1 microsecond duration in any of the four orientations. 
+One method for measuring the continuity through the 5 contacts is to short all 4 wires at the end of the cable 
+pigtail. Then on the PC board apply a voltage through a pull-up to each of VBus, D+, D-, and ID pins, with the 
+GND pin connected to ground. When testing a Micro-A plug, all four sense resistors must stay pulled down for 
+the length of the test. When testing a Micro-B plug, the ID pin must stay high and the other pins must remain 
+low for the duration of the test. Test houses may use another method to verify continuity through all 5 pins if 
+they choose.  
+ 

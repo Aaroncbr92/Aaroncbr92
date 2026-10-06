@@ -1,0 +1,78 @@
+Run Diagnostics to Check Your System for Memory Problems | Microsoft Learn
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+ Feedback
+
+ Summarize this article for me
+
+Tip: Run Diagnostics to Check Your System for Memory Problems
+
+Follow Our Daily Tips
+
+Twitter | Blog | RSS | Facebook
+
+Windows 7 includes built-in features to help you identify and diagnose problems with memory. If you suspect a computer has a memory problem that isn’t being automatically detected, you can run the Windows Memory Diagnostics utility by completing the following steps:
+
+- Click Start, type mdsched.exe in the Search box, and then press Enter.
+
+- Choose whether to restart the computer and run the tool immediately or schedule the tool to run at the next restart.
+
+- Windows Memory Diagnostics runs automatically after the computer restarts and performs a standard memory test automatically. If you want to perform fewer or more tests, press F1, use the Up and Down arrow keys to set the Test Mix as Basic, Standard, or Extended, and then press F10 to apply the desired settings and resume testing.
+
+- When testing is completed, the computer restarts automatically. You’ll see the test results when you log on.
+
+Note that if a computer crashes because of failing memory, and Windows Memory Diagnostics detects this, the system will prompt you to schedule a memory test the next time the computer is restarted.
+
+From the Microsoft Press book Windows PowerShell 2.0 Administrator’s Pocket Consultant by William R. Stanek.
+
+Looking for More Tips?
+
+For more tips on using Microsoft products and technologies, visit the TechNet Magazine Tips library.
+
+ Additional resources
+
+- 
+
+ Last updated on 
+ 2016-08-31
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-

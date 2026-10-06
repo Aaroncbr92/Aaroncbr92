@@ -1,0 +1,325 @@
+URL: https://support.microsoft.com/es-es/outlook/sharing/share-an-outlook-calendar-as-view-only-with-others
+Leído: 2026-10-06
+
+# Compartir un calendario de Outlook como de solo lectura con otros usuarios
+
+ Se aplica a
+Outlook para Microsoft 365 Outlook 2024 Outlook 2021 Outlook 2019 Outlook 2016 Nuevo Outlook para Windows 
+
+Si usa una cuenta profesional o educativa, o una cuenta personal en Outlook, puede enviar una invitación para compartir a otros usuarios para que puedan ver su calendario desde su propia lista de Calendario de Outlook.
+
+El uso compartido del Calendar no se limita a la carpeta de Calendar predeterminada que se crea en todos los perfiles de Outlook. Puede crear carpetas de calendario adicionales y elegir cuál de ellas quiere compartir. Por ejemplo, puede crear una carpeta de calendario para un proyecto específico y compartirla con sus compañeros de trabajo, o un calendario familiar que incluya todos los eventos y citas de los miembros de la familia.
+
+Este artículo describe cómo compartir y obtener acceso a un calendario que solo se puede ver. Esto significa que las personas con las que la comparte no pueden realizar cambios en ella. Para conceder a alguien permisos para editar un calendario compartido, consulte Compartir y tener acceso a un calendario con permisos de edición o delegación en Outlook .
+
+Seleccione una de las siguientes opciones de pestaña para la versión de Outlook que está usando. 
+ ¿Qué versión de Outlook tengo?
+
+- 
+
+ Nuevo Outlook
+
+- 
+
+ Outlook clásico
+
+- 
+
+ Outlook en la web
+
+- 
+
+ Outlook.com
+
+Nota
+
+Si los pasos descritos en esta pestaña del nuevo Outlook no funcionan, es posible que aún no esté usando el nuevo Outlook para Windows. En su lugar, seleccione la pestaña de Outlook clásico y siga esos pasos.
+
+ En este artículo:
+
+ Compartir un calendario con otros usuarios
+
+ Agregar el calendario de otra persona
+
+ Publicar un calendario
+
+ Importar eventos de un archivo .ics
+
+ Ver calendarios compartidos
+
+### Compartir un calendario con otros usuarios en el nuevo Outlook para Windows
+
+- 
+En el panel de navegación, seleccione Calendar.
+
+- 
+En la pestaña Inicio , seleccione Compartir calendario y, si tiene más de un calendario, seleccione el calendario que desea compartir.
+
+- 
+Escriba la persona con la que desea compartir en el cuadro Escriba una dirección de correo electrónico o un nombre de contacto . Si el nombre de la persona aparece en una lista, selecciónela, de lo contrario, presione Entrar.
+
+- 
+Después de agregar a la persona que desea administrar el calendario, seleccione la lista desplegable junto a su nombre y elija el nivel de acceso que desea que tenga.
+
+- 
+Seleccione Puede ver cuando estoy ocupado para darles permiso para ver solo cuando usted está ocupado, pero no los detalles de los elementos del calendario.
+
+- 
+Seleccione Puede ver títulos y ubicaciones para concederles permiso para ver cuando esté ocupado, además de los títulos y ubicaciones de los elementos del calendario.
+
+- 
+Seleccione Puede ver todos los detalles para concederles permiso para ver todos los detalles de los elementos de su calendario. Esta opción permite a otros usuarios ver su calendario, pero no realizar cambios en él.
+
+Nota
+
+Si desea conceder permisos que permitan a un usuario editar el calendario o responder a convocatorias de reunión en su nombre, vea Delegación de Calendar en Outlook.
+
+- 
+Cuando termine de agregar la persona con quien quiere compartir su calendario y haya elegido el permiso que desea concederle, seleccione Compartir. Si decide no compartir su calendario en este momento, seleccione Quitar.
+
+- 
+La persona con quien comparte un calendario recibirá una invitación por correo electrónico para compartir su calendario. Una vez que acepten, podrán agregar su calendario a su propia vista.
+
+### Agregar el calendario de otra persona a su calendario en el nuevo Outlook para Windows
+
+Puede agregar un calendario compartido desde una invitación para compartir calendarios o directamente desde el calendario. Agregar directamente el calendario de otra persona al suyo solo es posible con cuentas profesionales o educativas.
+
+Nota
+
+Para hacerlo usando una cuenta personal, pida a la persona con la que quiere compartir calendarios que comparta su calendario siguiendo los pasos de la sección anterior, Compartir un calendario de Outlook con otros usuarios.
+
+- En el panel de navegación, seleccione Calendar.
+
+- Seleccione Agregar calendario.
+
+- Seleccione Agregar del directorio y seleccione el usuario del cual desea agregar el calendario.
+
+Nota
+
+Puede agregar el calendario de cualquier miembro del equipo y ver los detalles de su uso compartido del calendario predeterminado (para la mayoría de las organizaciones, normalmente uso compartido de disponibilidad).
+
+En el siguiente vídeo se muestra cómo agregar un calendario compartido de Outlook.
+
+### Publicar un calendario en el nuevo Outlook para Windows
+
+Puede publicar un calendario y, a continuación, compartir el vínculo con otros usuarios para que puedan ver el calendario en línea. Use un vínculo HTML si quiere que los destinatarios vean el calendario en un explorador o un vínculo ICS si quiere que se suscriban a su calendario.
+
+- En el panel de navegación, seleccione Calendar.
+
+- En la cinta de opciones, seleccione la pestaña VistaCalendar configuración>Calendar>Calendarios compartidos.
+
+- En la sección Publicar un calendario, seleccione el calendario que desea publicar en la lista desplegable y seleccione los permisos que desea conceder.
+
+- Seleccione Publicar. Los vínculos HTML e ICS aparecerán a continuación.
+
+- Copie los vínculos HTML o ICS de cómo desea compartir el calendario. Copie el vínculo HTML si desea que los destinatarios vean el calendario en un explorador o copie el vínculo ICS si desea que se suscriban.
+
+Seleccione Cancelar publicación para anular la publicación del calendario.
+
+### Importar eventos de un archivo .ics en el nuevo Outlook para Windows
+
+Se genera un archivo .ics al exportar eventos de calendario desde plataformas de correo electrónico como Google. La importación de eventos desde un archivo .ics solo se admite para cuentas de Microsoft 365 Exchange.
+
+- En el panel de navegación, seleccione Calendar.
+
+- Seleccione Agregar calendario.
+
+- Selecciona Cargar desde archivo y, después, Examinar.
+
+- Vaya a la ruta que contiene el archivo .ics y seleccione Abrir.
+
+- Haga clic en Seleccionar un calendario y elija su ubicación
+
+- Seleccione Importar.
+
+### Ver calendarios compartidos en el nuevo Outlook para Windows
+
+Los calendarios compartidos o delegados no están visibles de forma predeterminada en el nuevo Outlook. Para ver los calendarios compartidos,
+
+- Seleccione Mostrar todo en la lista de calendarios
+
+- Ver los calendarios compartidos en calendarios de People. Después, seleccione el calendario que le interese
+
+- Seleccione Vista dividida en la cinta de opciones para ver varios calendarios en paralelo.
+
+Tenemos previsto seleccionar automáticamente los mismos calendarios y ver, incluidos los calendarios compartidos, cuando los usuarios cambien al nuevo Outlook.
+
+ | 
+ El soporte guiado en el explorador puede proporcionar soluciones digitales para problemas de Office
+
+ Pruebe el soporte guiado
+
+ En este artículo:
+
+ Compartir el calendario
+
+ Dejar de compartir el calendario
+
+ Solucionar problemas
+
+### Comparta su calendario de Microsoft 365 o Outlook.com con personas dentro o fuera de su organización utilizando Outlook clásico
+
+- En la pestaña Inicio de la carpeta Calendar, seleccione Compartir Calendar.
+
+- En el menú desplegable, elija el calendario que quiera compartir.
+
+- En el cuadro de diálogo Propiedades de Calendar, seleccione Agregar.
+
+- Puede buscar contactos de la libreta de direcciones o escribir sus direcciones de correo electrónico en el cuadro Agregar . Cuando acabe de agregar nombres en el cuadro de diálogo Agregar usuarios , seleccione Aceptar.
+
+- De nuevo en el cuadro de diálogo Propiedades de Calendar, seleccione el nombre o la dirección de correo electrónico de la persona, elija el nivel de detalles que desea compartir con la persona y, a continuación, seleccione Aceptar.
+
+- La persona con quien compartió su calendario recibirá una invitación para compartir por correo electrónico.
+
+- Cuando el destinatario seleccione Aceptar, verá el calendario compartido en su lista de calendarios.
+
+ Veo un error "Este calendario no se puede compartir"
+
+Si ve un mensaje que dice Este calendario no se puede compartir, puede deberse a tres razones:
+
+- La dirección de correo electrónico no es válida.
+
+- La dirección de correo electrónico es un grupo de Microsoft 365
+
+- La dirección de correo electrónico pertenece a un usuario externo que no forma parte de su organización.
+
+#### ¿Qué permisos pueden tener otras personas en su calendario?
+
+Al compartir el calendario, puede elegir entre varios niveles de permisos diferentes:
+
+- 
+ Puede ver cuando estoy ocupado. Los usuarios que comparten el calendario con este nivel de permisos solo podrán ver las horas en las que está disponible.
+
+- 
+ Puede ver títulos y ubicaciones. Los usuarios que compartan el calendario con este nivel de permisos verán la disponibilidad, el asunto y la ubicación de la reunión.
+
+- 
+ Puede ver todos los detalles. Los usuarios que compartan su calendario con este nivel de permisos verán todos los detalles de sus citas, al igual que lo que usted ve.
+
+### Dejar de compartir el calendario en Outlook clásico
+
+Puede revocar el acceso a su calendario en cualquier momento.
+
+Nota
+
+Microsoft 365 y Outlook del usuario pueden tardar un rato en sincronizarse y quitar la vista en su calendario
+
+- Seleccione Calendario.
+
+- En la cinta de opciones, seleccione la pestaña Carpeta y luego Propiedades de Calendar.
+
+- Seleccione la pestaña Permisos y, en Uso compartido actualmente, seleccione el nombre del usuario y elija Quitar.
+
+- Seleccione Aceptar.
+
+### Solucionar problemas al compartir el calendario
+
+Si no tiene la opción de compartir su calendario (está atenuado), se debe a que el administrador o el soporte de TI de su empresa ha establecido una directiva para evitar que los usuarios compartan calendarios.
+
+### Compartir un calendario con otros usuarios en Outlook en la Web
+
+- 
+En el panel de navegación, seleccione Calendar.
+
+- 
+En la pestaña Inicio , seleccione Compartir calendario y, si tiene más de un calendario, seleccione el calendario que desea compartir.
+
+- 
+Escriba la persona con la que desea compartir en el cuadro Escriba una dirección de correo electrónico o un nombre de contacto . Si el nombre de la persona aparece en una lista, selecciónela, de lo contrario, presione Entrar.
+
+- 
+Después de agregar a la persona que desea administrar el calendario, seleccione la lista desplegable junto a su nombre y elija el nivel de acceso que desea que tenga.
+
+- 
+Seleccione Puede ver cuando estoy ocupado para darles permiso para ver solo cuando usted está ocupado, pero no los detalles de los elementos del calendario.
+
+- 
+Seleccione Puede ver títulos y ubicaciones para concederles permiso para ver cuando esté ocupado, además de los títulos y ubicaciones de los elementos del calendario.
+
+- 
+Seleccione Puede ver todos los detalles para concederles permiso para ver todos los detalles de los elementos de su calendario. a otros usuarios para ver el calendario pero no para realizar cambios en él.
+
+Nota
+
+Si desea conceder permisos que permitan a un usuario editar el calendario o responder a convocatorias de reunión en su nombre, vea Delegación de Calendar en Outlook.
+
+- 
+Cuando termine de agregar la persona con quien quiere compartir su calendario y haya elegido el permiso que desea concederle, seleccione Compartir. Si decide no compartir su calendario en este momento, seleccione Quitar.
+
+- 
+La persona con quien comparte un calendario recibirá una invitación por correo electrónico para compartir su calendario. Una vez que acepten, podrán agregar su calendario a su propia vista.
+
+### Agregar el calendario de otra persona a su calendario utilizando Outlook en la Web
+
+Solo es posible agregar el calendario de otra persona al suyo con cuentas profesionales o educativas.
+
+En el siguiente vídeo se muestra cómo agregar un calendario compartido de Outlook.
+
+### Publicar un calendario en Outlook en la Web
+
+Puede publicar un calendario y, a continuación, compartir el vínculo con otros usuarios para que puedan ver el calendario en línea. Use un vínculo HTML si quiere que los destinatarios vean el calendario en un explorador o un vínculo ICS si quiere que se suscriban a su calendario.
+
+- En el panel de navegación, seleccione Calendar.
+
+- En la cinta de opciones, seleccione la pestaña VistaCalendar configuración>Calendar>Calendarios compartidos.
+
+- En la sección Publicar un calendario, seleccione el calendario que desea publicar en la lista desplegable y seleccione los permisos que desea conceder.
+
+- Seleccione Publicar. Los vínculos HTML e ICS aparecerán a continuación.
+
+- Copie los vínculos HTML o ICS de cómo desea compartir el calendario. Copie el vínculo HTML si desea que los destinatarios vean el calendario en un explorador o copie el vínculo ICS si desea que se suscriban.
+
+Seleccione Cancelar publicación para anular la publicación del calendario.
+
+### Compartir un calendario con otros usuarios de Outlook.com
+
+- 
+En el panel de navegación, seleccione Calendar .
+
+- 
+En la pestaña Inicio , seleccione Compartir calendario y, si tiene más de un calendario, seleccione el calendario que desea compartir.
+
+- 
+Escriba la persona con la que desea compartir en el cuadro Escriba una dirección de correo electrónico o un nombre de contacto . Si el nombre de la persona aparece en una lista, selecciónela, de lo contrario, presione Entrar .
+
+- 
+Después de agregar a la persona que desea administrar el calendario, seleccione la lista desplegable junto a su nombre y elija el nivel de acceso que desea que tenga.
+
+- 
+Seleccione Puede ver cuando estoy ocupado para darles permiso para ver solo cuando usted está ocupado, pero no los detalles de los elementos del calendario.
+
+- 
+Seleccione Puede ver títulos y ubicaciones para concederles permiso para ver cuando esté ocupado, además de los títulos y ubicaciones de los elementos del calendario.
+
+- 
+Seleccione Puede ver todos los detalles para concederles permiso para ver todos los detalles de los elementos de su calendario. a otros usuarios para ver el calendario pero no para realizar cambios en él.
+
+Nota
+
+Si desea conceder permisos que permitan a un usuario editar el calendario o responder a convocatorias de reunión en su nombre, vea Delegación de Calendar en Outlook .
+
+- 
+Cuando termine de agregar a la persona con la que quiere compartir su calendario y haya elegido el permiso que desea concederle, seleccione Compartir . Si decide no compartir su calendario en este momento, seleccione .
+
+- 
+La persona con quien comparte un calendario recibirá una invitación por correo electrónico para compartir su calendario. Una vez que acepten, podrán agregar su calendario a su propia vista.
+
+### Agregar el calendario de otra persona a su calendario en Outlook.com
+
+Para agregar el calendario de otra persona al suyo, pida a la persona con la que quiere compartir calendarios que comparta su calendario con usted, siguiendo los pasos de la sección anterior, Compartir un calendario de Outlook con otros usuarios .
+
+### Publicar un calendario en Outlook.com
+
+Puede publicar un calendario y, a continuación, compartir el vínculo con otros usuarios para que puedan ver el calendario en línea. Use un vínculo HTML si quiere que los destinatarios vean el calendario en un explorador o un vínculo ICS si quiere que se suscriban a su calendario.
+
+- En el panel de navegación, seleccione Calendar.
+
+- En la cinta de opciones, seleccione la pestaña VistaCalendar configuración>Calendar>Calendarios compartidos.
+
+- En la sección Publicar un calendario, seleccione el calendario que desea publicar en la lista desplegable y seleccione los permisos que desea conceder.
+
+- Seleccione Publicar. Los vínculos HTML e ICS aparecerán a continuación.
+
+- Copie los vínculos HTML o ICS de cómo desea compartir el calendario. Copie el vínculo HTML si desea que los destinatarios vean el calendario en un explorador o copie el vínculo ICS si desea que se suscriban.
+
+Seleccione Cancelar publicación para anular la publicación del calendario.

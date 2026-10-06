@@ -1,0 +1,242 @@
+LCD Monitors for Color Management Systems | EIZO
+1-800-800-5202
+Contact
+Where to buy
+Resellers
+Distributors
+Channel Partners
+Buy Direct
+The Americas
+Canada
+USA
+Europe
+Austria
+Belgium
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Italy
+Latvia
+Lithuania
+Luxembourg
+Monaco
+The Netherlands
+Norway
+Poland
+Portugal
+Russia
+Slovakia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Africa
+Algeria
+Benin
+Burkina Faso
+Cameroon
+Chad
+Congo
+Cote d'Ivoire
+Egypt
+Gabon
+Ghana
+Guinee
+Kenya
+Mali
+Mauritanie
+Mauritius
+Marrocco
+Niger
+Senegal
+Seychelles
+Togo
+Tunisia
+Asia
+Bahrain
+Brunei
+Cambodia
+China
+India
+Indonesia
+Iran
+Israel
+Japan
+Jordan
+Korea
+Kuwait
+Laos
+Lebanon
+Malaysia
+Myanmar
+Oman
+Philippines
+Qatar
+Saudi Arabia
+Singapore
+Syria
+Taiwan
+United Arab Emirates
+Vietnam
+Yemen
+Oceania
+Australia
+New Zealand
+Solutions
+Business Enterprise
+Graphics
+Healthcare
+Security & Surveillance
+Touch Panel
+Maritime
+Air Traffic Control
+Case Studies
+Products
+FlexScan
+Professional LCD Monitors
+ColorEdge
+Color Management Monitors
+CuratOR
+Operating Room Solutions
+RadiForce
+Medical Monitor Solutions
+Pathology
+Medical Monitor Solutions
+DuraVision
+Industrial Monitors
+Raptor | Re/Vue
+ATC Visual Display Solutions
+Accessories
+Exhibitions
+Support
+Support Overview
+Brochures
+Product Database
+FAQs
+Manuals
+Glossary
+Compatibility
+Warranty & Recycling
+Software and Drivers
+Product Registration
+Company
+News
+Home
+>
+EIZO Library
+>
+Color Management Resources
+>
+Choosing the Right Monitors for a Color Management System
+Color Management Resources
+Choosing the Right Monitors for a Color Management System
+Tweet
+EIZO Library
+Monitor Basics in Plain English
+Videos
+Color Management Resources
+Certifications for the Graphics Market
+Standards
+One Lesson I Iearned in Photography
+How to Color Match Your ColorEdge Monitor and Photo Prints
+Color Management in Practice
+Choosing the Right Monitors for a Color Management System
+Monitor Calibration
+What Monitors Are Ideal for a CMS?
+LCD monitor types by panel
+In choosing an LCD monitor suited to a CMS, the type of panel is a key selection criterion.
+The core component in an LCD monitor is the LCD panel. There are three main types of LCD panels: IPS, VA, and TN.
+The primary characteristics of each type of panel are shown in the following table:
+IPS
+VA
+TN
+Viewing angle
+(Chromaticity shift)
+Excellent (almost no chromaticity shift)
+Very Good (slight chromaticity shift)
+Fair (noticeable chromaticity shift)
+Response time
+Good
+Excellent
+Excellent
+Contrast ratio
+Approx. 500:1
+1,000:1 or higher
+1,000:1 or higher
+Color gamut
+Not dependent on panel type
+Price
+High
+Medium
+Low
+Viewing angle is very important in graphics applications, particularly when a monitor will be viewed by numerous people from different positions. Although with an IPS monitor colors generally remain the same when viewed from various angles—above, below, and to the left and right of the monitor—with a VA or TN monitor halftone color changes are noted.
+With a large, widescreen monitor, colors can sometimes change in appearance between the center and the left or right sides of the screen when the viewer is seated directly in front of the monitor, as a result of the variations in viewing angle from this position.
+A higher contrast ratio is not necessarily better. If the contrast ratio is too high, sometimes shadow colors can be too firm, making images appear stiff and rendering it difficult to match colors with output. The ability to adjust contrast ratio can also be used as a criterion for choosing a calibration monitor.
+Taking these points into consideration, for graphics applications IPS or VA monitors are recommended.
+LCD monitor types: color gamut
+The color gamut of today's monitors can be grouped into three general types.
+AdobeRGB color gamut
+sRGB color gamut
+Color gamut of sRGB or higher but less than AdobeRGB
+The red triangle represents an AdobeRGB color gamut, while the blue triangle represents an sRGB color gamut.
+The third type of color gamut is the NTSC-standard color gamut, which has been used in video, television, and other devices. The green triangle in the graph represents 92% of the NTSC color gamut. The JMPA colors shown in the graph make up the typical CMYK color gamut.
+Color gamuts must be chosen in accordance with purpose of use and environment. In particular, to reproduce fully the colors of AdobeRGB data or CMYK printing data, a monitor equipped with the AdobeRGB color gamut is required.
+Even a monitor capable of displaying 92% of the NTSC color gamut cannot display accurately the vivid greens of the AdobeRGB color gamut, or the particular CMYK yellows.
+In a seminar to be prepared later, we will address topics such as methods of using monitors with broad color gamuts.
+<< What is a Color Management System (CMS)?
+What Monitors Are Ideal for a CMS? >>
+Experience EIZO
+Ordering and questions
+1 (800) 800-5202
+or
+contact us
+.
+Contact Us
+›
+Solutions
+Business Enterprise
+Graphics
+Medical
+Industry
+Air Traffic Control
+Products
+FlexScan
+ColorEdge
+CuratOR
+RadiForce
+DuraVision
+Raptor | Re/Vue
+Accessories
+Exhibitions
+Support
+Support Overview
+Brochures
+Product Database
+FAQs
+Manuals
+Glossary
+Compatibility
+Warranty & Recycling
+Software and Drivers
+Product Registration
+Library
+Where to buy
+Resellers
+Distributors
+Channel Partners
+Buy Direct
+Follow Us
+Submit
+Site Map
+Terms of Use
+Privacy Policy
+Do Not Sell My Personal Information
+Copyright © 1996-2026 EIZO Inc. All Rights Reserved.

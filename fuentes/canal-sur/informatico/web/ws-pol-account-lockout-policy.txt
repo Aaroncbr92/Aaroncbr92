@@ -1,0 +1,136 @@
+URL: https://learn.microsoft.com/es-es/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/account-lockout-policy (servida en en-us)
+Leído: 2026-10-06 (ms.date 2018-10-11T00:00:00Z)
+
+Tabla de contenido 
+
+ Salir del modo de editor
+
+ Preguntar a Learn
+
+ Preguntar a Learn
+
+ Modo de lectura
+
+ Tabla de contenido
+
+ Leer en inglés
+
+ Agregar
+
+ Añadir a Planes
+
+ Copiar Markdown
+
+ Imprimir
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Account Lockout Policy
+
+ Comentarios
+
+## 
+
+Applies to
+
+- Windows 11
+
+- Windows 10
+
+Describes the Account Lockout Policy settings and links to information about each policy setting.
+
+Someone who attempts to use more than a few unsuccessful passwords while trying to log on to your system might be a malicious user who is attempting to determine an account password by trial and error. Windows domain controllers keep track of logon attempts, and domain controllers can be configured to respond to this type of potential attack by disabling the account for a preset period of time. Account Lockout Policy settings control the threshold for this response and the actions to be taken after the threshold is reached. The Account Lockout Policy settings can be configured in the following location in the Group Policy Management Console: Computer Configuration\Policies\Windows Settings\Security Settings\Account Policies\Account Lockout Policy.
+
+The following topics provide a discussion of each policy setting's implementation and best practices considerations, policy location, default values for the server type or Group Policy Object (GPO), relevant differences in operating system versions, and security considerations (including the possible vulnerabilities of each policy setting), countermeasures that you can implement, and the potential impact of implementing the countermeasures.
+
+Note
+
+Account lockout settings for remote access clients can be configured separately by editing the Registry on the server that manages the remote access. For more information, see How to configure remote access client account lockout.
+
+## Windows edition and licensing requirements
+
+The following table lists the Windows editions that support Account Lockout Policy:
+
+ | Windows Pro
+ | Windows Enterprise
+ | Windows Pro Education/SE
+ | Windows Education
+
+ | Yes
+ | Yes
+ | Yes
+ | Yes
+
+Account Lockout Policy license entitlements are granted by the following licenses:
+
+ | Windows Pro/Pro Education/SE
+ | Windows Enterprise E3
+ | Windows Enterprise E5
+ | Windows Education A3
+ | Windows Education A5
+
+ | Yes
+ | Yes
+ | Yes
+ | Yes
+ | Yes
+
+For more information about Windows licensing, see Windows licensing overview.
+
+## In this section
+
+ | Topic
+ | Description
+
+ | Account lockout threshold
+ | Describes the best practices, location, values, and security considerations for the Account lockout threshold security policy setting.
+
+ | Account lockout duration
+ | Describes the best practices, location, values, and security considerations for the Account lockout duration security policy setting.
+
+ | Reset account lockout counter after
+ | Describes the best practices, location, values, and security considerations for the Reset account lockout counter after security policy setting.
+
+## Related topics
+
+Configure security policy settings
+
+## 
+ Recursos adicionales
+
+- 
+ 
+ Last updated on 
+ 2018-10-11
+
+### 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+-

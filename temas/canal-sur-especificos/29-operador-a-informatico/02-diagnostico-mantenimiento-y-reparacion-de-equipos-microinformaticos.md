@@ -6,9 +6,9 @@
 | --- | --- |
 | Bloque | Temario específico de Operador/a Informático · punto 2 |
 | Sirve para | Operador/a Informático de Canal Sur (grupo B04): teoría específica y aplicación práctica del test, y la prueba práctica del puesto |
-| Fuente | Sin norma jurídica. Documentación de fabricante: American Megatrends, *AMIBIOS8 Check Point and Beep Code List* 2.0 (2008); HP, *Interactive Beep and LED Diagnostic*; Lenovo, *M920s User Guide and Hardware Maintenance Manual* (2.ª ed., 2019). Microsoft Learn (chkdsk, sfc, ipconfig, ping, PnPUtil, códigos del Administrador de dispositivos, TDR, winsat mem). Manual de `smartctl` (smartmontools). PassMark (MemTest86, PerformanceTest). Universidad Complutense de Madrid, *Estructura de Computadores*, tema 4. SPEC, Maxon, UL y Crystal Dew World. Lo demás, oficio declarado como tal |
-| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 y leídas ese día |
-| Extensión | 10.500 palabras aproximadamente |
+| Fuente | Sin norma jurídica. Documentación de fabricante: American Megatrends, *AMIBIOS8 Check Point and Beep Code List* 2.0 (2008); HP, *Interactive Beep and LED Diagnostic* y *Maintenance and Service Guide HP ProDesk 600 G5 SFF* (3.ª ed., 2019); Lenovo, *M920s User Guide and Hardware Maintenance Manual* (2.ª ed., 2019). Microsoft Learn y Microsoft Support (chkdsk, sfc, ipconfig, ping, PnPUtil, códigos del Administrador de dispositivos, TDR, winsat mem, errores de detención y volcados de memoria; Diagnóstico de memoria de Windows, en TechNet Magazine archivado). NVM Express, *NVM Express Base Specification* 2.1 (2024). Manual de `smartctl` (smartmontools). PassMark (MemTest86, PerformanceTest). Universidad Complutense de Madrid, *Estructura de Computadores*, tema 4. SPEC, Maxon, UL y Crystal Dew World. Lo demás, oficio declarado como tal |
+| Redacción que se estudia | Las ediciones citadas, en línea el 05-10-2026 o el 06-10-2026 y leídas el día que se indica en «Trazabilidad» |
+| Extensión | 13.900 palabras aproximadamente |
 
 <!-- /portada -->
 
@@ -48,10 +48,14 @@ la Standard Performance Evaluation Corporation (SPEC), que la fuente universitar
 memory*); diodo emisor de luz (LED, *light-emitting diode*); los buses de expansión ISA (*Industry
 Standard Architecture*) y PCI (*Peripheral Component Interconnect*), antecesores de PCIe; protocolo de
 Internet (IP) en sus versiones 4 y 6 (IPv4, IPv6); lenguaje de marcas extensible (XML, *extensible
-markup language*); megabyte (MB). BAT es el nombre de la prueba del controlador de teclado en la
-fuente de AMI, que no desarrolla la sigla. Fabricantes y editores que se citan por su nombre
-comercial: American Megatrends (AMI), HP, Lenovo, PassMark, Maxon, UL (editor de 3DMark) y Crystal
-Dew World. VALUE, WORST, THRESH, TYPE y WHEN_FAILED son rótulos de columna que imprime `smartctl`.
+markup language*); megabyte (MB) y kilobyte (kB); corriente alterna (AC, *alternating current*); comprobación de redundancia cíclica (CRC, *cyclic
+redundancy check*); pantalla azul de Windows, que Microsoft llama error de detención o comprobación de
+errores (*stop error*, *bug check*) y también por su sigla inglesa, BSOD. BAT es el nombre de la prueba del controlador de teclado en la
+fuente de American Megatrends, que no desarrolla la sigla; DXE (zona principal de la BIOS) y MXM (un módulo cuya
+temperatura vigila la placa) son nombres que la guía de HP usa sin desarrollar, y 5V_aux es el rótulo
+de un piloto de su placa. Fabricantes y editores que se citan por su nombre
+comercial: American Megatrends (AMI), HP, Lenovo, PassMark, Maxon, UL (editor de 3DMark), Crystal
+Dew World y NVM Express, la organización que publica la especificación NVMe. VALUE, WORST, THRESH, TYPE y WHEN_FAILED son rótulos de columna que imprime `smartctl`.
 
 > Enunciado (BOJA núm. 186, de 24-IX-2026, Anexo V, puesto 2.29, punto 2): «Diagnóstico, mantenimiento
 > y reparación de equipos microinformáticos: principales averías, mensajes de error de la BIOS,
@@ -62,11 +66,16 @@ Qué se puede preguntar: qué es el POST y qué es un punto de control (*checkpo
 E/S se escriben los puntos de control y con qué tarjeta se leen; por qué un error se avisa con pitidos
 y no con un mensaje en pantalla; qué significan 1, 3, 6, 7 y 8 pitidos en AMIBIOS8 y qué se hace en
 cada caso; cómo se aísla una tarjeta de expansión averiada; qué hace la BIOS si la suma de
-comprobación de la CMOS es incorrecta; qué se pierde cuando falla la pila de botón; qué es una FRU y
+comprobación de la CMOS es incorrecta; qué significan los códigos mayor y menor de HP y sus mensajes
+numerados del POST (pila, memoria, SMART, arranque, ventilador); qué se pierde cuando falla la pila de botón; qué es una FRU y
 una CRU y cuándo no se cambia una pieza; qué precauciones se toman contra la electricidad estática;
-qué es SMART, qué distingue un atributo *Pre-fail* de uno *Old age* y qué significa «FAILING_NOW»;
-cuánto duran las autopruebas corta y larga; qué hacen `chkdsk`, `chkdsk /f`, `/r`, `/x` y `/b`, qué
-permiso exige y qué códigos de salida devuelve; qué hace `sfc /scannow`; qué mide MemTest86, por qué
+qué se comprueba cuando el equipo no enciende y por qué no se abre la fuente de alimentación;
+qué es una pantalla azul, qué es el código de detención, cuáles son sus causas más frecuentes y dónde
+queda el volcado de memoria; qué es SMART, qué distingue un atributo *Pre-fail* de uno *Old age* y qué significa «FAILING_NOW»;
+cuánto duran las autopruebas corta y larga; qué indican en una NVMe el *Critical Warning*, la reserva
+disponible y el porcentaje usado; qué hacen `chkdsk`, `chkdsk /f`, `/r`, `/x` y `/b`, qué
+permiso exige y qué códigos de salida devuelve; qué hace `sfc /scannow`; cómo se lanza el Diagnóstico de memoria de Windows y dónde se lee su
+resultado; qué mide MemTest86, por qué
 un error suyo no prueba siempre que la memoria esté mal y cómo se localiza el módulo averiado; qué es
 la prueba de martilleo; qué significan los códigos 10, 22, 28 y 43 del Administrador de dispositivos;
 qué es el TDR y cuánto tarda en saltar; para qué sirven `ipconfig` y `ping`; qué es un *benchmark*,
@@ -88,6 +97,8 @@ línea de atributos SMART y calcular MIPS o MFLOPS de un programa.
 - [2. Principales averías](#2-principales-averías)
   - [Dónde se manifiesta la avería](#dónde-se-manifiesta-la-avería)
   - [Hardware o software](#hardware-o-software)
+  - [El equipo no enciende](#el-equipo-no-enciende)
+  - [La pantalla azul (error de detención)](#la-pantalla-azul-error-de-detención)
 - [3. Mensajes de error de la BIOS](#3-mensajes-de-error-de-la-bios)
   - [El POST y los puntos de control](#el-post-y-los-puntos-de-control)
   - [Los códigos de pitidos](#los-códigos-de-pitidos)
@@ -222,10 +233,12 @@ oficio; cada fila se apoya en la fuente que se cita en su epígrafe.
 
 | Cuándo aparece | Cómo se manifiesta | Con qué se diagnostica | Epígrafe |
 |---|---|---|---|
+| Al pulsar el botón de encendido | Nada: ni pilotos, ni ventiladores, ni pitidos | Toma y cables; piloto de la placa; fuente de alimentación | 2 |
 | Al encender, antes de que haya imagen | Pitidos por el altavoz de la placa; códigos en una tarjeta POST | Tabla de pitidos del fabricante; método de aislamiento de tarjetas | 3 |
 | Durante el POST, ya con imagen | Mensaje en pantalla; la BIOS pide respuesta o entra en la configuración | Registro de errores del POST; configuración de la BIOS | 3 |
 | Con el sistema operativo en marcha | Dispositivo con exclamación amarilla y código | Administrador de dispositivos, PnPUtil | 4 |
 | Con el sistema en marcha, sobre el disco | Errores de lectura, sistema de ficheros dañado, aviso SMART | SMART (`smartctl`), `chkdsk` | 4 |
+| Con el sistema en marcha, de golpe | Pantalla azul con un código de detención y reinicio | Código de detención, volcado de memoria, Administrador de dispositivos, prueba de memoria | 2 |
 | De forma intermitente o aleatoria | Cuelgues, errores que no se repiten | MemTest86, pruebas de estrés; no cambiar la pieza por un fallo aislado | 1 y 4 |
 | Sobre la imagen | Parpadeo y aviso de que el controlador de pantalla se ha recuperado | TDR, código 43, pruebas de estrés de la gráfica | 4 |
 | Sobre la red | Sin conectividad, sin dirección, nombres que no se resuelven | `ipconfig`, `ping`, Administrador de dispositivos | 4 |
@@ -249,6 +262,103 @@ Varias fuentes advierten que un síntoma de hardware puede no ser del componente
   or other hardware issue»**.
 - AMI, ante 6 o 7 pitidos: antes de dar la placa por perdida, descartar una tarjeta de expansión
   averiada (epígrafe 3).
+
+### El equipo no enciende
+
+La avería más básica es la del equipo que no da ninguna señal al pulsar el botón. La guía de
+mantenimiento de HP para su sobremesa ProDesk 600 G5 SFF (*Maintenance and Service Guide*, 3.ª
+edición, septiembre de 2019) la trata con este rótulo: **«System does not power on and the LEDs on the
+front of the computer are not flashing.»** El primer paso separa dos casos: **«Press and hold the power
+button for less than 4 seconds.»**
+
+- Si se enciende en blanco el piloto del disco, se comprueba el selector de tensión de la
+  fuente, si lo tiene; después, **«Remove the expansion cards one at a time until the 5V_aux light on
+  the system board turns on.»**; y, si no, se cambia la placa.
+- Si no se enciende nada, el orden es: **«Check that the unit is plugged into a working AC outlet.»**;
+  comprobar que el cable del botón de encendido está bien conectado a la placa; **«Check that the power
+  supply cables are properly connected to the system board.»**; mirar el piloto 5V_aux de la placa: si
+  está encendido, se cambia el conjunto del botón de encendido, y **«If the 5V_aux light on the system
+  board is off, then replace the power supply.»**; en último lugar, la placa.
+
+La misma guía, en los problemas de alimentación, da como causa de que la fuente no arranque un fallo
+interno, con un único remedio: **«Replace the power supply.»** Y un caso vecino, el equipo que se
+apaga solo con el piloto parpadeando: la protección térmica del procesador, porque un ventilador está
+bloqueado o parado o el disipador no está bien asentado; se comprueba que las rejillas no estén tapadas
+y que el ventilador gire y esté conectado a la placa, y si no gira, se cambia.
+
+La fuente de alimentación se cambia entera, nunca se abre. El manual de Lenovo lo advierte, por la
+certificación de seguridad del equipo: **«Never remove the cover on a power supply or any part that has
+the following label attached.»** Y explica por qué: **«Hazardous voltage, current, and energy levels are
+present inside any component that has this label attached. There are no serviceable parts inside these
+components. If you suspect a problem with one of these parts, contact a service technician.»** (Dentro
+hay tensión, corriente y energía peligrosas y ninguna pieza reparable.) Su procedimiento
+(**«Replacing the power supply assembly»**): quitar la tapa, el frontal, la unidad óptica y el soporte
+del disco; **«Disconnect the power supply assembly cable from the system board.»**; cambiar el conjunto
+de la fuente; **«Connect the new power supply assembly cable to the system board.»**; volver a montar.
+Para ese modelo el manual lista fuentes de 180, 210 y 260 vatios, todas **«automatic
+voltage-sensing»** (detectan solas la tensión de la red).
+
+### La pantalla azul (error de detención)
+
+Con el sistema en marcha, la avería más visible es la parada total de Windows. Microsoft la define así:
+**«When Windows encounters a condition that compromises safe system operation, the system halts. This
+condition is referred to as a bug check, or sometimes, a system crash, kernel error, or stop
+error.»** En su página de soporte añade los nombres comunes: **«This is also known as a stop code
+error, a bug check, a kernel error, or a Blue Screen error, or a Black Screen error, or BSOD.»** El
+usuario ve brevemente un mensaje como «Your device ran into a problem and needs to restart.» y el
+equipo se reinicia solo. El color y el texto de la pantalla cambian con la versión de Windows 11 (hay un
+modelo para la 24H2 y posteriores y otro para la 23H2 y anteriores).
+
+Lo que hay que leer en la pantalla es el código de detención y, si aparece, el módulo: **«a stop code,
+such as PAGE_FAULT_IN_NONPAGED_AREA or MEMORY_MANAGEMENT will appear at the bottom of the screen, and if
+available, the module name of the code that was being executed at the time the problem occurred.»**
+Cada código tiene un nombre y un valor hexadecimal; algunos de la referencia de Microsoft:
+
+| Valor | Nombre |
+|---|---|
+| 0x0000001A | MEMORY_MANAGEMENT |
+| 0x00000050 | PAGE_FAULT_IN_NONPAGED_AREA |
+| 0x0000007B | INACCESSIBLE_BOOT_DEVICE |
+| 0x000000D1 | DRIVER_IRQL_NOT_LESS_OR_EQUAL |
+| 0x00000116 | VIDEO_TDR_FAILURE |
+| 0x00000117 | VIDEO_TDR_TIMEOUT_DETECTED |
+| 0x00000124 | WHEA_UNCORRECTABLE_ERROR |
+
+Los dos de vídeo llevan en el nombre el mecanismo TDR de la gráfica (epígrafe 4).
+
+Las causas, según el análisis de Microsoft de los volcados que recibe: **«70% are caused by third-party
+driver code.»**, un 10 % el hardware, un 5 % el código de Microsoft y un 15 % de causa desconocida,
+porque la memoria está demasiado dañada para analizarla. Y **«The root cause of stop errors is rarely a
+user-mode process.»**: el programa que estaba en marcha suele sólo destapar el fallo de un controlador,
+del hardware o del sistema.
+
+Qué se hace, según Microsoft:
+
+- Un reinicio aislado no exige más: **«In most cases when Windows 11 restarts unexpectedly, the problem
+  is resolved by the restart and no further action is needed.»** Si se repite el mismo código, los pasos
+  básicos son quitar el hardware nuevo, arrancar en modo seguro, buscar en el Administrador de
+  dispositivos los marcados con exclamación y actualizar su controlador (o deshabilitarlo o
+  desinstalarlo), dejar libre entre el 10 y el 15 % del disco, instalar las actualizaciones de Windows y,
+  si nada sirve, volver a un punto de restauración u otra opción de recuperación.
+- La tabla de Microsoft por escenarios añade: ante errores de memoria, la herramienta Diagnóstico de
+  memoria de Windows (epígrafe 4); ante errores del sistema de ficheros, la comprobación del disco; ante
+  ficheros del sistema dañados, `sfc /scannow`; ante BIOS o firmware antiguo, preguntar al fabricante por
+  una versión nueva de la BIOS o de la UEFI; y, en hardware, **«make sure all expansion boards are
+  properly seated and all cables are properly connected.»**
+
+Para analizar la causa, el sistema guarda un volcado de memoria. Se configura en las propiedades del
+sistema (en la documentación, «Advanced system settings», pestaña «Advanced», «Startup and Recovery»,
+lista «Write debugging information»): Microsoft
+indica elegir **«Automatic memory dump»** y reiniciar para que surta efecto. Dónde queda cada tipo:
+
+| Tipo de volcado | Ubicación |
+|---|---|
+| Volcado de memoria pequeño (256 kB) | `%SystemRoot%\Minidump` |
+| Volcado de memoria del núcleo, completo, automático o activo | `%SystemRoot%\MEMORY.DMP` |
+
+El volcado se comprueba con la herramienta DumpChk de Microsoft (que no esté dañado) y se analiza en otro
+equipo con el depurador WinDbg de las herramientas de depuración de Windows, con la orden `!analyze -v`;
+la pila de llamadas que muestra suele indicar el módulo causante.
 
 ## 3. Mensajes de error de la BIOS
 
@@ -362,9 +472,40 @@ según el número de pitidos largos:
 | **«System Board»** | 5 largos y de 2 a 5 cortos |
 
 El documento leído es interactivo y no trae el significado de cada combinación; ofrece también un
-diagnóstico por LED. Lo que el tema puede afirmar es la estructura: en HP, la familia la da el número
-de pitidos largos. El significado de cada código y las tablas de otros fabricantes (Dell, Award,
-Phoenix) no se han podido leer en fuente.
+diagnóstico por LED. Lo que sí trae es la estructura: en HP, la familia la da el número de pitidos
+largos.
+
+El significado se lee en la guía de mantenimiento de otro sobremesa de HP, el ProDesk 600 G5 SFF
+(*Maintenance and Service Guide*, 3.ª edición, septiembre de 2019), que usa las mismas cuatro familias.
+Al arrancar, la BIOS valida la alimentación, el procesador, la propia BIOS, la memoria, la gráfica y la
+placa; si algo falla, lo avisa con parpadeos de los pilotos frontales, largos y cortos, acompañados de
+pitidos largos y cortos donde los hay. El código tiene dos partes: la mayor (pitidos o parpadeos largos,
+en rojo) da la categoría, y la menor (cortos, en blanco), el error concreto. Así, «3.5» son tres
+parpadeos rojos largos y cinco blancos cortos. Reglas de la guía: **«Single beep/blink codes are not
+used.»**; **«Beep error code sequences occur for the first 5 iterations of the pattern and then
+stop.»**, mientras que el parpadeo sigue hasta que se desenchufa el equipo o se pulsa el botón; y
+**«Not all diagnostic lights and audible codes are available on all models.»**
+
+| Código | Categoría | Qué indica (resumen del literal de HP) |
+|---|---|---|
+| 2.2 | BIOS | La zona principal de la BIOS (DXE) se ha dañado y no hay imagen de recuperación |
+| 2.3 | BIOS | El controlador integrado exige que el usuario teclee una secuencia de teclas |
+| 2.4 | BIOS | El controlador integrado está comprobando o recuperando el bloque de arranque |
+| 3.2 | Hardware | Tiempo agotado esperando a que la BIOS termine de inicializar la memoria |
+| 3.3 | Hardware | Tiempo agotado esperando a que la BIOS termine de inicializar la gráfica |
+| 3.4 | Hardware | La placa muestra un fallo de alimentación (*crowbar*) |
+| 3.5 | Hardware | **«The processor is not detected.»** |
+| 3.6 | Hardware | El procesador no admite una función que está activada |
+| 4.2 | Térmica | **«A processor over temperature condition has been detected.»** |
+| 4.3 | Térmica | Exceso de temperatura ambiente |
+| 4.4 | Térmica | Exceso de temperatura en el módulo MXM |
+| 5.2 | Placa | El controlador integrado no encuentra un *firmware* válido |
+| 5.3 y 5.4 | Placa | Tiempo agotado esperando a la BIOS (en general, o al inicializar la placa) |
+| 5.5 | Placa | El controlador integrado reinició el sistema tras detectar un posible bloqueo |
+
+En el modelo Desktop Pro A, la familia térmica sólo llega a 4 largos y 3 cortos: los códigos de un
+modelo no valen para otro, y manda la guía del equipo concreto. Las tablas de Dell, Award y Phoenix
+no se han podido leer en fuente.
 
 ### Los mensajes en pantalla
 
@@ -384,13 +525,33 @@ fuentes documentan:
   contraseñas.
 
 Síntoma típico, por tanto: el equipo arranca con la fecha y la hora desfasadas y la configuración de
-fábrica, y avisa en pantalla. La reparación es cambiar la pila (epígrafe 4, Lenovo) y volver a
-configurar fecha, hora y opciones de la BIOS. La pila gastada se desecha según el aviso sobre pilas de
-litio de la guía de seguridad del fabricante, como indica el manual.
+fábrica, y avisa en pantalla. La reparación es cambiar la pila y volver a configurar fecha, hora y
+opciones de la BIOS. El manual de Lenovo da para ello su propio procedimiento (**«Replacing the
+coin-cell battery»**): sacar los discos u otros soportes de las unidades, apagar el equipo y todo lo
+conectado y desenchufar los cables de alimentación y los demás; quitar la tapa y el frontal; abatir hacia
+arriba el conjunto de bahías; cambiar la pila, y volver a montar las piezas retiradas. La pila gastada se desecha según el
+aviso sobre pilas de litio de la guía de seguridad del fabricante, como indica el manual.
 
-El texto exacto de los mensajes más citados en los manuales de oficio («CMOS checksum error», «No boot
-device», «CPU fan error», «Keyboard error») varía con cada BIOS y no se ha leído en fuente de
-fabricante: el tema no lo da como literal.
+El texto de los mensajes lo fija cada fabricante, y cambia de una BIOS a otra. Como ejemplo, la guía
+de mantenimiento de HP del ProDesk 600 G5 SFF da una lista de mensajes numerados del POST, con su
+causa y lo que hay que hacer (**«POST numeric codes and text messages»**); tras mostrar uno, el equipo
+da un pitido. Los más útiles para el diagnóstico:
+
+| Mensaje (literal) | Causa según HP | Qué hacer, según HP |
+|---|---|---|
+| **«002-Option ROM Checksum Error»** | Suma de comprobación de la ROM del sistema o de la ROM de una tarjeta de expansión | Verificar la ROM y regrabarla si hace falta; quitar la tarjeta recién añadida; borrar la CMOS; cambiar la placa |
+| **«005-Real-Time Clock Power Loss»** | Fecha u hora no válidas en la memoria de configuración; puede hacer falta cambiar la pila del RTC | Poner fecha y hora; si se repite, cambiar la pila |
+| **«2E1-MemorySize Error»** | La cantidad de memoria ha cambiado desde el último arranque | Pulsar F1 para guardar el cambio; si persiste, comprobar que los módulos están bien instalados |
+| **«2E2-Memory Error»** | Falló la configuración de los módulos al arrancar | Comprobar la instalación y el tipo de módulo; cambiar el módulo averiado; si sigue, la placa |
+| **«301-Hard Disk 1: SMART Hard Drive Detects Imminent Failure»** | El disco va a fallar (algún disco tiene un parche de *firmware* para un aviso erróneo) | Confirmar con el diagnóstico del arranque (F2); aplicar el parche si procede; **«Back up contents and replace hard drive.»** |
+| **«3F0–Boot Device Not Found»** | No se encuentra dispositivo de arranque | Insertar un dispositivo de arranque o cargar el sistema operativo |
+| **«800-Keyboard Error»** | Fallo del teclado | Reconectarlo con el equipo apagado, revisar el conector, comprobar que no hay teclas pulsadas, cambiarlo |
+| **«900-CPU Fan Not Detected»** | El ventilador del procesador no está conectado o puede haber fallado | Reasentar el ventilador y su cable; cambiarlo |
+| **«90D-System Temperature»** | El equipo se apagó antes para no sobrecalentarse (rejillas tapadas o temperatura fuera de especificación) | **«Make sure system has proper airflow.»** |
+
+El 005 es el caso de la pila con el texto de HP; el 301 enlaza con SMART (epígrafe 4). Los textos que
+circulan en manuales de oficio con otra redacción («CMOS checksum error», «No boot device», «CPU fan
+error») corresponden a otras BIOS que no se han leído en fuente: el tema no los da como literal.
 
 ## 4. Sustitución y detección de averías en discos duros, memorias, tarjetas gráficas y tarjetas de red
 
@@ -435,6 +596,30 @@ si no lo está, pero el peor registrado sí; un guion si el atributo está bien 
 Dos cautelas del propio manual: `smartctl` no calcula nada, sólo informa de lo que guarda el disco; y
 en las SSD algunos atributos tienen otro significado, de modo que el nombre que muestra el programa
 puede ser incorrecto si la unidad no está en su base de datos.
+
+**Salud y desgaste de una SSD NVMe.** Las unidades NVMe no usan la tabla de atributos anterior, sino un
+registro propio que define la especificación de NVM Express (*NVM Express Base Specification*, revisión
+2.1, de 5 de agosto de 2024): la página de registro **«SMART / Health Information (Log Page Identifier
+02h)»**, con información **«over the life of the controller»** que se conserva entre encendidos. Los
+campos que sirven para diagnosticar:
+
+| Campo | Qué es, según la especificación |
+|---|---|
+| *Critical Warning* (byte 0) | Avisos críticos, un bit por tipo; entre ellos: bit 0, la reserva disponible ha caído por debajo del umbral; bit 1, temperatura por encima (o por debajo) de un umbral; bit 2, **«the NVM subsystem reliability has been degraded due to significant media related errors or any internal error»**; bit 3, **«all of the media has been placed in read only mode»** |
+| *Available Spare* (byte 3) | **«Contains a normalized percentage (0% to 100%) of the remaining spare capacity available.»** (La capacidad de reserva que le queda.) |
+| *Available Spare Threshold* (byte 4) | El umbral, también en porcentaje: si la reserva cae por debajo, puede generarse un aviso al sistema |
+| *Percentage Used* (byte 5) | **«Contains a vendor specific estimate of the percentage of NVM subsystem life used based on the actual usage and the manufacturer’s prediction of NVM life.»** (El desgaste estimado, en porcentaje de la vida prevista.) |
+| *Composite Temperature* (bytes 1 y 2) | Una temperatura compuesta del controlador y de sus espacios de nombres, en kelvin; cómo se calcula depende de la implementación y puede no corresponder a ningún punto físico de la unidad |
+| *Power Cycles*, *Power On Hours*, *Unexpected Power Losses* | Encendidos, horas de funcionamiento y cortes de corriente inesperados |
+| *Media and Data Integrity Errors* | Veces que el controlador ha detectado un error de integridad de datos no recuperado (ECC no corregible, fallo de CRC…) |
+
+La salvedad del *Percentage Used*, literal: **«A value of 100 indicates that the estimated endurance of
+the NVM in the NVM subsystem has been consumed, but may not indicate an NVM subsystem failure. The value
+is allowed to exceed 100.»** Un 100 % no significa que la unidad haya fallado, sino que ha consumido la
+resistencia estimada por el fabricante; el valor puede pasar de 100 (por encima de 254 se muestra 255) y
+se actualiza una vez por hora de funcionamiento (cuando el controlador no está en reposo). En `smartctl`, la opción `-l ssd` muestra en las SSD
+SCSI un indicador equivalente (0, como nueva; 100, al final de la vida prevista por el fabricante; puede
+llegar a 255) y en las ATA, la página de estadísticas de dispositivo de estado sólido.
 
 **Autopruebas** (`smartctl -t`). **«The "Self" tests check the electrical and mechanical performance as
 well as the read performance of the disk.»** Los tipos:
@@ -482,7 +667,7 @@ Condiciones y mensajes:
   by another process. Would you like to schedule this volume to be checked the next time the system
   restarts? (Y/N)»**; si se acepta, la comprobación se hace en el siguiente arranque, y si es la
   partición de arranque, el equipo se reinicia solo al terminar.
-- FAT: las cadenas perdidas pueden guardarse en la raíz como ficheros **«File<nnnn>.chk»**.
+- FAT: las cadenas perdidas pueden guardarse en la raíz como ficheros **«File&lt;nnnn&gt;.chk»**.
 - No conviene interrumpirlo, aunque interrumpirlo no debería dejar el volumen peor de lo que estaba.
 - En HDD, `/r` y `/b` tardan mucho porque leen cada sector; en SSD, más deprisa, y marcar un clúster
   como defectuoso es una operación lógica, no una reasignación física.
@@ -524,6 +709,19 @@ Las señales de una memoria averiada en las fuentes leídas son tres:
 2. Errores en una prueba de memoria arrancada fuera del sistema operativo, como MemTest86 (PassMark).
 3. Errores intermitentes: PassMark advierte que pueden causar problemas que tardan mucho en dar la cara y que
    los errores intermitentes que detecta MemTest86 son, sin excepción, válidos.
+
+Windows trae su propia prueba, el Diagnóstico de memoria de Windows. La página vigente de Microsoft
+sobre errores de detención la recomienda ante errores de memoria: **«Run the Windows Memory Diagnostics
+tool to test the memory.»** Se abre desde el Panel de control, buscando «Memory» y eligiendo «Diagnose
+your computer's memory problems», y el resultado se lee después en el Visor de eventos: **«After the
+test runs, use Event Viewer to see the results under the system log. Look for the
+MemoryDiagnostics-Results entry and view the results.»** El ejecutable, `mdsched.exe`, y el detalle de
+su funcionamiento constan en un consejo de TechNet Magazine escrito para Windows 7, que Microsoft
+mantiene archivado: se elige entre reiniciar ya o en el siguiente arranque; la prueba corre al
+reiniciar, con la mezcla estándar por defecto; con F1 se elige **«Basic, Standard, or Extended»** y con
+F10 se aplica; al terminar, el equipo se reinicia y muestra el resultado al iniciar sesión; y si Windows
+detecta que un cuelgue se debe a la memoria, propone programar la prueba para el siguiente arranque.
+Que ese detalle siga igual en Windows 11 no se ha confirmado en fuente vigente.
 
 MemTest86 ejecuta una serie de pruebas numeradas, combinación de algoritmo, patrón de datos y uso de la
 caché, ordenadas **«so that errors will be detected as rapidly as possible»**. Algunas, por lo que
@@ -680,7 +878,7 @@ error message.»** Los códigos están definidos en el fichero de cabecera `Cfg.
 |---|---|---|---|
 | 10 | CM_PROB_FAILED_START | **«This device cannot start. (Code 10)»** (mensaje genérico: si la clave del dispositivo trae un texto propio, *FailReasonString*, se muestra ese) | **«Select Update Driver, which starts the Hardware Update wizard.»** Uno de los controladores de la pila del dispositivo ha fallado al arrancarlo |
 | 22 | CM_PROB_DISABLED | **«This device is disabled. (Code 22)»** | **«The device is disabled because the user disabled it using Device Manager. Select Enable Device, which will enable the device.»** |
-| 28 | CM_PROB_FAILED_INSTALL | **«The drivers for this device are not installed. (Code 28)»** | **«Please visit the website of the company that manufactures the device and look for the most recent drivers for this device.»** Falta un controlador compatible: **«This failure is often referred to as a DNF (driver not found) problem.»** |
+| 28 | CM_PROB_FAILED_INSTALL | **«The drivers for this device are not installed. (Code 28)»** | **«Please visit the website of the company that manufactures the device and look for the most recent drivers for this device.»** El primer caso que da la página es que no hay controlador compatible (**«PnP could not find a compatible driver for the device. This failure is often referred to as a DNF (driver not found) problem.»**); la página da otros tres casos, debidos a dependencias del paquete de controlador que faltan o a un fichero de instalación (`.inf`) que no asocia servicio al dispositivo |
 | 43 | CM_PROB_FAILED_POST_START | **«Windows has stopped this device because it has reported problems. (Code 43)»** | **«Uninstall and reinstall the device.»** Un controlador ha informado de que el dispositivo ha fallado |
 
 Otros códigos de la misma lista, con la explicación breve de Microsoft: el 1, dispositivo no
@@ -698,7 +896,7 @@ hace lo mismo por línea de órdenes. `pnputil /enum-devices /problem` lista los
 problema (o con un código concreto: `/problem 43`), opción disponible desde Windows 10 versión 1903;
 `/drivers` (desde la versión 2004) muestra los controladores que coinciden y los instalados; `/restart-device`,
 `/remove-device` y `/scan-devices` reinician, quitan o vuelven a buscar dispositivos; `/add-driver
-<fichero.inf> /install` añade e instala un paquete de controlador.
+&lt;fichero.inf&gt; /install` añade e instala un paquete de controlador.
 
 ## 5. Pruebas de rendimiento (benchmark) y sus tipos
 
@@ -799,8 +997,9 @@ generaciones de su prueba de procesador:
 - **SPEC CPU 2017** (43 pruebas en cuatro conjuntos con la misma estructura) se retira con la salida de
   la 2026: **«On November 3, 2026 03:00 AM US Eastern Time, SPEC will stop accepting SPEC CPU 2017
   results for publication. By end of day on November 17, 2026 US Eastern Time, SPEC will retire SPEC
-  CPU 2017.»** A la fecha del BOJA conviven las dos, con la 2017 en retirada. La fecha exacta de
-  publicación de SPEC CPU 2026 no figura en el texto leído.
+  CPU 2017.»** A la fecha del BOJA conviven las dos, con la 2017 en retirada. La salida de la 2026 la
+  anunció SPEC en nota de prensa de 5 de mayo de 2026 (**«SPEC Releases the SPEC CPU 2026 Benchmark
+  Suites to Address the Latest Advances in CPU, Memory, and Compiler Technology (05/05/2026)»**).
 
 ### Pruebas del puesto de usuario
 
@@ -865,12 +1064,16 @@ señala la fuente, porque no reflejan el tiempo de ejecución.
 - **Mantenimiento preventivo**: limpieza, ventilación, cambio de pasta térmica, calendario de revisiones
   y actualización de BIOS y controladores como rutina. No se ha leído en fuente de fabricante; sólo
   constan los apuntes del epígrafe 1.
-- **Códigos de otros fabricantes**: el significado de cada combinación de pitidos de HP y su
-  diagnóstico por LED y UEFI; las tablas de Dell (la página del fabricante no se dejó descargar),
-  Award y Phoenix; los códigos de POST de UEFI y los visores de código de las placas de consumo.
-- **Textos de los mensajes de BIOS** como «CMOS checksum error» o «No boot device»: varían con cada BIOS
-  y no se han leído en fuente de fabricante.
-- **Diagnóstico de memoria de Windows** (`mdsched.exe`): no se ha leído la página vigente de Microsoft.
+- **Códigos de otros fabricantes**: el significado de cada combinación de pitidos del modelo HP Desktop
+  Pro A (sí se dan los del ProDesk 600 G5); las tablas de Dell (la página del fabricante no se dejó
+  descargar), Award y Phoenix; los códigos de POST de UEFI y los visores de código de las placas de
+  consumo.
+- **Textos de los mensajes de BIOS** con la redacción de los manuales de oficio («CMOS checksum error»,
+  «No boot device»): no se han leído en fuente de fabricante; se dan los de HP.
+- **Diagnóstico de memoria de Windows** (`mdsched.exe`): el detalle de sus opciones consta sólo en una
+  fuente archivada escrita para Windows 7; no se ha leído una página vigente para Windows 11.
+- **Análisis de volcados** con WinDbg más allá de `!analyze -v`, y el significado de cada código de
+  detención (la referencia de Microsoft está escrita para programadores).
 - **Síntomas físicos de un disco mecánico** (ruidos, golpeteo) y la pulsera antiestática: oficio sin
   fuente leída.
 - **Copia, clonación y recuperación de datos** del disco averiado: tema 3. **Conectores y cableado**
@@ -887,21 +1090,26 @@ señala la fuente, porque no reflejan el tiempo de ejecución.
 |---|---|---|
 | American Megatrends, *AMIBIOS8 Check Point and Beep Code List*, versión 2.0, 10-06-2008 (documento público) | Puntos de control, puerto 80h, tarjeta POST, bloque de arranque, puntos 04, 2C, 3B, 84, 85, 87 y 00, pitidos del POST y del bloque de arranque, método de aislamiento, historial de revisiones (códigos suprimidos), límites del documento | 05-10-2026 |
 | HP, *Interactive Beep and LED Diagnostic*, HP Desktop Pro A G2/G3 Series | Cuatro familias de pitidos y sus combinaciones | 05-10-2026 |
-| Lenovo, *M920s User Guide and Hardware Maintenance Manual*, 2.ª ed., agosto de 2019 (download.lenovo.com) | FRU y CRU, reglas antes de cambiar una FRU, electricidad estática, procedimientos de sustitución (disco, memoria, tarjeta PCIe, Wi-Fi, pila), cierre, pila de la CMOS y su mensaje de error, ranuras y conectores | 05-10-2026 |
-| smartmontools, página de manual `smartctl(8)` (rama master, GitHub) | SMART, `-H`, `-A`, atributos y columnas, tipos *Pre-fail* y *Old age*, WHEN_FAILED, autopruebas y su duración, NVMe, ejemplos | 05-10-2026 |
+| HP, *Maintenance and Service Guide HP ProDesk 600 G5 SFF*, 3.ª ed., septiembre de 2019 (h10032.www1.hp.com, c06442415) | Equipo que no enciende y fuente que no arranca, protección térmica, códigos mayor y menor de pitidos y parpadeos, mensajes numerados del POST | 06-10-2026 |
+| Lenovo, *M920s User Guide and Hardware Maintenance Manual*, 2.ª ed., agosto de 2019 (download.lenovo.com) | FRU y CRU, reglas antes de cambiar una FRU, electricidad estática, procedimientos de sustitución (disco, memoria, tarjeta PCIe, Wi-Fi, pila, fuente de alimentación), cierre, pila de la CMOS y su mensaje de error, advertencia de la fuente, potencias de fuente, ranuras y conectores | 05-10-2026 (fuente de alimentación y pila, releídas el 06-10-2026) |
+| smartmontools, página de manual `smartctl(8)` (rama master, GitHub) | SMART, `-H`, `-A`, atributos y columnas, tipos *Pre-fail* y *Old age*, WHEN_FAILED, autopruebas y su duración, NVMe, `-l ssd`, ejemplos | 05-10-2026 |
 | Microsoft Learn, «chkdsk» (actualizada el 26-05-2025) | Parámetros, permisos, volumen en uso, cadenas perdidas, HDD y SSD, códigos de salida, registro en el Visor de eventos, uso ocasional | 05-10-2026 |
 | Microsoft Learn, «sfc» (01-11-2024) | `sfc`, `/scannow`, `/verifyonly`, permisos | 05-10-2026 |
-| Microsoft Learn, «Device Manager Error Messages», «Device Manager Problem Codes» (15-12-2021) y páginas de los códigos 10 (15-12-2021), 22 (14-03-2023), 28 y 43 (15-12-2021) | Exclamación amarilla, `Cfg.h`, códigos y sus mensajes y soluciones, DNF, caso de la actualización | 05-10-2026 |
+| Microsoft Learn, «Device Manager Error Messages», «Device Manager Problem Codes» (15-12-2021) y páginas de los códigos 10 (15-12-2021), 22 (14-03-2023), 28 y 43 (15-12-2021) | Exclamación amarilla, `Cfg.h`, códigos y sus mensajes y soluciones, DNF y los otros tres casos del código 28, caso de la actualización | 05-10-2026 (código 28, releído el 06-10-2026) |
 | Microsoft Learn, «PnPUtil Command Syntax» (08-01-2024) | PnPUtil y sus órdenes | 05-10-2026 |
 | Microsoft Learn, «WDDM support for timeout detection and recovery» (05-11-2025) | TDR, dos segundos, recuperación, parpadeo y mensaje | 05-10-2026 |
 | Microsoft Learn, «ipconfig» (03-02-2023) y «ping» (01-11-2024) | Órdenes de diagnóstico de red | 05-10-2026 |
 | PassMark, MemTest86: «Troubleshooting Memory Errors» e «Individual Test Descriptions» | Pruebas de memoria, martilleo, interpretación de errores, localización del módulo, remedios | 05-10-2026 |
 | Universidad Complutense de Madrid, Facultad de Informática, *Estructura de Computadores*, tema 4, «Rendimiento del procesador», curso 2010-11 | Técnicas de evaluación, definición de benchmark, tiempo de respuesta y productividad, tiempo de CPU, MIPS, MFLOPS, media geométrica, clasificaciones, LINPACK, SPEC, TPC, ejemplo de `time` | 05-10-2026 |
-| SPEC, páginas «SPEC CPU 2026» y «SPEC CPU 2017» (aviso de retirada actualizado el 28-07-2026) | Conjuntos, número de pruebas, SPECspeed y SPECrate, energía, retirada de la 2017 | 05-10-2026 |
+| SPEC, páginas «SPEC CPU 2026» y «SPEC CPU 2017» (aviso de retirada actualizado el 28-07-2026) | Conjuntos, número de pruebas, SPECspeed y SPECrate, energía, nota de prensa de 05-05-2026, retirada de la 2017 | 05-10-2026 (nota de prensa, releída el 06-10-2026) |
 | Maxon, «Cinebench»; UL, «3DMark»; PassMark, «PerformanceTest»; Crystal Dew World, «CrystalDiskMark» | Qué mide cada herramienta; pruebas de estrés | 05-10-2026 |
 | Microsoft Learn, «winsat mem» (04-05-2023) | Prueba de ancho de banda de memoria, permisos, ejemplo | 05-10-2026 |
+| Microsoft Learn, «Bug checks (stop code errors)» (23-07-2025), «Bug check code reference» (15-07-2025) y «Advanced troubleshooting for stop code errors» (12-02-2026); Microsoft Support, «Troubleshooting Windows unexpected restarts and stop code errors» (28-07-2026) | Definición y nombres de la pantalla azul, código y módulo, códigos citados, causas en porcentaje, pasos básicos y tabla por escenarios, Diagnóstico de memoria de Windows y su resultado en el Visor de eventos, volcados y su ubicación, DumpChk, WinDbg | 06-10-2026 |
+| Microsoft, TechNet Magazine, «Run Diagnostics to Check Your System for Memory Problems» (contenido archivado de *previous versions*, escrito para Windows 7) | `mdsched.exe`, reinicio, mezclas de prueba, F1 y F10, resultado al iniciar sesión | 06-10-2026 |
+| NVM Express, *NVM Express Base Specification*, revisión 2.1, 05-08-2024, § 5.1.12.1.3 y figura 206 | Página de salud NVMe: *Critical Warning*, reserva disponible y su umbral, porcentaje usado y su salvedad, temperatura, contadores, errores de integridad | 06-10-2026 |
 
-Las fuentes de fabricante están en inglés: las citas van en negrita en su lengua y la explicación en
+La sigla CRC se desarrolla según el manual de gzip (leído el 06-10-2026). Las fuentes de
+fabricante están en inglés: las citas van en negrita en su lengua y la explicación en
 castellano es del tema. La de la Universidad Complutense está en castellano y se cita tal cual.
 
 Oficio sin fuente detrás, y así se declara: la ordenación de las averías por el momento en que
